@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main IDBI Bank se Rohit Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, sir. Ek transaction attempt hua hai Nepal mein, ₹12,000 ka.
+receiver: Nepal mein? Mujhe toh koi transaction yaad nahi.
+caller: Haan sir, aise hi dikh raha hai. Hamara system auto-detect kar deta hai. Security ke liye, aapko verification karna hoga. OTP aaya hoga aapke phone pe, sir. Woh bata dijiye, please.
+receiver: Woh thoda risky lag raha hai, sir. Main OTP kisi ko kabhi share nahi karta.
+caller: Sir, aapko samajh hi nahi aa raha. Account suspend ho sakta hai agar aap verification nahi karenge. Nepal se transaction attempt hua hai, sir! Ek minute ka kaam hai, please cooperate kijiye. OTP bata dijiye, main sab sort kar dunga.
+receiver: Dekhiye, mujhe yahaan kuch shaq ho raha hai. Main IDBI Bank ke customer care number se call karta hoon, aur khud verify karta hoon. Aap ka number check kar raha hoon.
+caller: Sir, please mat karaiye! Ye official number hai, sir. Main aapko call kar raha hoon aapki madad ke liye. Account suspend ho jayega, aur phir woh ₹12,000 vapas bhi nahi milega. Please sir, ek minute ka kaam hai. OTP bata dijiye, main aapka account secure kar dunga.
+receiver: Sir, mein apne ATM card ko cancel kar dunga aur bank mein jaakar baat karunga. Thank you.

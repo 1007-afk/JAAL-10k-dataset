@@ -1,0 +1,7 @@
+caller: Namaste! Calling regarding your recent transaction on Freecharge. You've recharged ₹200 on your Airtel number, and we’re offering a ₹100 cashback as a promotional bonus.
+receiver: Oh really? That's good! How do I get the cashback?
+caller: To activate the cashback, we need to verify your transaction. Please send 'VERIFY' followed by your Freecharge User ID to 998877. It's a quick process, and the ₹100 will be credited to your Freecharge wallet instantly.
+receiver: My User ID? I don't remember it. And why do I have to send a message? Usually, cashback just appears in the wallet.
+caller: Sir, due to a recent security upgrade, we’re using this SMS verification method for all cashback bonuses. Don't worry, it’s completely secure. Send ‘VERIFY’ with your User ID now, before the offer expires in 5 minutes!
+receiver: Okay, hold on. I'll check my Freecharge app for the User ID. Just a moment… It seems a bit strange, though.
+caller: Absolutely, sir! Quick action is important. The offer is valid for a limited time only. It's ₹100 free money, just send the message. Don't miss out on this great opportunity!

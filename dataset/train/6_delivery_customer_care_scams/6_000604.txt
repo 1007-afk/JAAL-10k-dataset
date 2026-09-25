@@ -1,0 +1,6 @@
+caller: Namaste, Madam. This is Rahul from Bluebird Logistics. We’re calling regarding a parcel addressed to you, scheduled for delivery tomorrow. There seems to be a discrepancy with the payment details.
+receiver: Bluebird Logistics? I don't recall ordering anything. Can you tell me the sender’s name and tracking number?
+caller: Certainly, Madam. The sender is Style Haven, and the tracking number is BL789456123. It’s a rather valuable item, a high-end smart watch. The issue is a small amount is showing as unpaid. Just ₹499 to clear it.
+receiver: ₹499? That’s odd. Can you just send me the tracking link so I can check myself? I'll pay online directly through their website.
+caller: Absolutely! However, our system is currently experiencing a slight technical glitch. To ensure the delivery goes smoothly, we require a one-time verification code. Can you please share the OTP you receive on your registered mobile number? This is just a security measure, Madam.
+receiver: OTP? Wait a minute. That sounds suspicious. I'm going to check the Style Haven website myself. I’ll call you back if I need anything.

@@ -1,0 +1,7 @@
+caller: Namaste, mai State Bank of India se Rahul bolta hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapko apne KYC details update karne hain taaki account block na ho.
+receiver: Kya? Account block ho jayega? Kaise?
+caller: Haan sir, security reasons se. Aapko bas Aadhaar number aur bank account number confirm karna hai. Aur ek OTP bhi milna chahiye aapke phone par.
+receiver: OTP? Lekin maine toh kabhi bhi phone par OTP share nahi kiya.
+caller: Sir, yeh urgent hai. Account suspend hone se bachaane ke liye, OTP bataiye. Wo humein confirm karega ki aap hi sahi owner hain.
+receiver: Wait, ek minute. Main bank ke official number se call karta hoon aur confirm karta hoon.
+caller: Sir, please jaldi karein. Account block ho jayega. Aapka loss ho sakta hai. Number mein check kar lijiye. 1800-123-4567. Jaldi karna hoga!

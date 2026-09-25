@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Sharma’s mobile? You've won a huge lottery prize! Your ticket number is 789456. Please visit https://www.luckywinz.net to verify your win and claim your reward immediately! This opportunity won't last long!
+receiver: Namaste! Ji, yeh Mr. Sharma bol raha huun. Lottery prize? Ticket number 789456? Wow! Thoda confused hoon, lekin thanks for informing me. URL ko phir se bataiye, please? https://www.luckywinz.net, correct? It sounds too good to be true!
+caller: Absolutely! https://www.luckywinz.net. Time is running out, sir! You need to act fast, otherwise, your prize might disappear within 24 hours! Be quick!
+receiver: Arre yaar, okay, okay! Jaldi kar raha huun. Prize nahi jata woh! Aapka naam kya hai, Mr. Sharma? Just checking, you know.
+caller: I don't want to reveal my name, just focus on claiming your prize! Go to the website and follow the instructions carefully. Don't hesitate to contact our support team if you face any issues.
+receiver: Achha, okay. Website pe dekha, par mujhe pata nahi yeh survey kya hai.  Yeh website secure hai? Aur is prize ka value kya hai? And who is giving these big prizes?  I am feeling a little skeptical.
+caller: I don't tell you about that, just complete the survey. It’s a simple registration process. Our company is ‘Prime Fortune Solutions’, we run these promotions regularly. Click through the steps, and everything will become clear. If you need help, you can find the helpline number on the site.
+receiver: Prime Fortune Solutions? Registration? Okay, theek hai. Main website pe dekha, par kuch clear nahi ho raha.  Agar koi problem thi toh main helpline number se contact karunga. Thank you for your time.

@@ -1,0 +1,7 @@
+caller: Namaste! Mein BharatPay Customer Support se Rahul bol raha hoon. Aapke BharatPay wallet mein suspend alert aaya hai, kyunki ek suspicious transaction detect hua hai. ₹5,000 ka transaction Rajasthan se kiya gaya hai.
+receiver: Rajasthan se? Mein toh kabhi Rajasthan nahi gaya. ₹5,000? Woh kya transaction hai? Mera BharatPay ID batao, mein check karta hoon.
+caller: Aapka BharatPay ID 8910111213 hai, sir. Transaction detail mein likha hai, ek online shopping site se kiya gaya hai, naam hai ‘TrendyDeals’. Suspension hataane ke liye, humein ek OTP verify karna hoga.
+receiver: TrendyDeals? Mein toh kabhi woh site suni bhi nahi. OTP? OTP kis number pe aayega? Aur mujhe woh transaction detail bhi dekhna hai.
+caller: OTP aapke registered mobile number par aayega, sir. Woh check karke mujhe bataiye. OTP verify hone ke baad, hum aapka BharatPay account reactivate kar denge.  Yeh security protocol hai, sir, aapki safety ke liye.
+receiver: Wait, wait. Mein apne BharatPay app mein check karta hoon. Haan, woh transaction toh main dekh raha hoon. Kuchh gadbad lag rahi hai. Koi receipt hai?  Transaction ID batao, mein apne bank se bhi check karunga.
+caller: Transaction ID mein disclose nahi kar sakta, sir. Security reasons se. OTP jaldi bataiye, sir, taaki aapka account phir se activate ho jaye. Suspension abhi khatam ho jayega.

@@ -1,0 +1,8 @@
+caller: Namaste, Madam Priya? This is Rohan calling from Global Crypto Solutions. I hope you are well.
+receiver: Haan, main Priya bol rahi hoon. Kaise hain aap? Global Crypto Solutions?
+caller: Splendid, Madam Priya! We're reaching out because we've identified you as a potentially high-earning individual who could benefit greatly from our new investment opportunity. We're offering early access to a new AI-powered trading bot for Solana. It's been performing exceptionally well, with returns of up to 15% daily.
+receiver: Solana? Fifteen percent daily? That sounds… too good to be true. Can you tell me more about this AI bot and how it works?
+caller: Absolutely! Our bot, "Solana Ace," uses advanced machine learning algorithms to analyze market trends and execute trades automatically. We've been testing it internally for months with fantastic results. Right now, we're offering a limited number of spots to new investors. A small initial investment of ₹50,000 would allow you to start earning immediately. 
+receiver: Fifty thousand rupees? What are the risks involved? And how do I withdraw my earnings?
+caller: Very minimal risk, Madam Priya. Solana Ace is designed to be exceptionally secure and profitable. As for withdrawals, once you’ve accrued profits, you can request them through our secure dashboard. A small 5% withdrawal fee applies to cover transaction processing costs. To get started, we will need you to deposit the ₹50,000 into our designated wallet address: 1Lw9aR8j7f...
+receiver: A 5% fee? Let me just double-check the address before I make any transfer. Can you send it to me again?

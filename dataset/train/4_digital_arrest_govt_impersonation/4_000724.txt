@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Rohan Sharma calling from the Directorate of Enforcement. We’ve detected some unusual activity linked to your bank account. Specifically, a transfer of ₹12,500 to a cryptocurrency exchange in Dubai. Are you aware of this transaction, sir?
+receiver: Haan, bolie. ₹12,500? Dubai? Main toh cryptocurrency mein kuch bhi nahi karta. Yeh kya ho raha hai?
+caller: Sir, our investigation suggests this transfer is linked to an illegal online gambling ring. We need to verify your details to ensure you weren't unwittingly involved. Can you please confirm your full name and the last four digits of your bank account number for verification purposes?
+receiver: Illegal gambling? Sir, mujhe toh kuch samajh nahi aa raha. Bank account number bataane se kya hoga? Yeh thoda suspicious lag raha hai.
+caller: Sir, understand this is to protect you. If your account has been compromised, we need to freeze it immediately to prevent further losses. To complete the verification and secure your account, we need the OTP sent to your registered mobile number. Just a one-time code for your security, sir.
+receiver: OTP? Sir, main police station jaunga agar aapko OTP chahiye. Yeh bilkul scam lag raha hai. Koi bhi responsible officer OTP phone pe nahi maangta.
+caller: Sir, please don't misunderstand. This is a standard protocol to protect your finances. Our records indicate you recently placed an order for a luxury watch on ‘GoldSpark’ online. Could you confirm this order to proceed with the security checks? This is to confirm your identity.

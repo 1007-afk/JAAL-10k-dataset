@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya Sharma calling from State Bank of India’s KYC verification department. We’ve identified some unusual activity on your linked Paytm wallet.
+receiver: Haan, hello? Unusual activity? What kind of activity? I use Paytm all the time.
+caller: Ji, we've noticed a large outgoing transaction attempt to a new beneficiary. To prevent fraud and protect your funds, we need to quickly verify your details. Could you please provide the last four digits of your Aadhaar card?
+receiver: My Aadhaar? Why do you need that? Shouldn't the bank already have that? This feels a bit suspicious.
+caller: Ji ji, it's just a standard security measure, madam. We need to confirm it's you authorizing these transactions. And for added security, could you please share the OTP you just received on your registered mobile number? It starts with 7.
+receiver: Wait a minute. I just got an OTP. But if you’re really from SBI, why didn’t you tell me the full number? You only said it starts with 7. That’s strange. I’m going to call SBI directly from their official number.
+caller: Ji ji, please hurry! If you don’t verify within the next five minutes, your Paytm wallet will be temporarily blocked for security reasons. This is to safeguard your money. Please quickly provide the OTP so we can resolve this immediately.

@@ -1,0 +1,11 @@
+caller: Namaste! Mujhe calling kar raha huvaa Sanjay Sharma, India Bank Fraud Department se. Aapke account mein ek badi problem hai, aur humein unhein solve karnii hai. Aapko ek verification call lagana padega.  Aapko kya pata hai apne bank account ki status abhi?
+receiver:  Namaste.  Mujhe pata hai, main Paytm se UPI transactions karta hoon. Account details toh sahi hain, par verification bhi hona chahiye na?
+caller: Haan ji, verification toh zaroori hai.  Humne dekha hai, aapke account mein ek suspicious transaction hua tha. ₹50,000 rupayes ne transfer kiya tha.  Is baat ka koi record nahi hai aapke account mein.  Yeh ek security measure hai.
+receiver:  ₹50,000?  Mujhe to koi idea nahi hai yeh kisne transfer kiya.  Main Paytm use kartey hain, log naye accounts banatey hain...
+caller:  Don’t worry about it.  We just need you to confirm if this transaction actually happened.  Agar aap verify karein, toh aapki account safe rahegi.  Aapko ek OTP maanga jaayega.  Please provide the OTP now.  Number is 9876543210.
+receiver:  OTP?  Okay, bataoonga phir check kartey hun.  But, aapne kaha tha suspicious transaction?  Mujhe jitni bhi discomfort hogee, aapne confirm karein ki ye fraud nahi hai?
+caller:  Haan ji, absolutely!  Ye ek genuine security alert hai.  Aapko sirf apne bank ko verify karne ke liye call kiya gaya hai.  Agar aap verify nahi karenge, toh aapki account ko risk mein rakha jayega.  So, please provide the OTP immediately.
+receiver:  Okay, okay.  Bata deta hun OTP.  (pause)  OTP hai - 123456.
+caller:  Thank you!  Excellent.  Your account is now verified.  Congratulations!  You will receive your reward shortly.  Don’t forget to keep us updated.  Have a good day!
+receiver:  Reward?  Kaisa reward?  Aapne toh kuch bhi nahi bataya.  Aur meri account verified ho gayi?
+caller:  Haan ji, aapki account verified ho gayi hai.  Reward… woh ek special offer hai, aapko baad mein pata chalega.  Just thank you for your cooperation.  Goodbye!

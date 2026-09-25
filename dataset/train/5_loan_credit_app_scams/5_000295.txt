@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul from InstaLoan Solutions. We've pre-approved you for a personal loan of ₹75,000. Just a quick verification, can you confirm your full name and date of birth?
+receiver: Yes, hello. My name is Rajesh Kumar, and my date of birth is 15/08/1988.
+caller: Excellent, Rajesh. To activate your loan, we need you to pay a small processing fee of ₹5,000 upfront. It will be credited back to your account once the loan is disbursed. You can deposit it to this UPI ID: [invent a fake UPI ID].
+receiver: ₹5,000? That seems like a lot for a processing fee. I didn’t see anything about this on the app.
+caller: Rajesh, this is a standard procedure to prevent fraud and ensure your account’s security. Don’t worry, it's a one-time charge.  Delaying payment will mean the loan approval is cancelled, and you’ll lose the opportunity. We also have some compromising pictures you sent during the application process, and we'll send them to your family if you don’t pay.
+receiver: Compromising pictures? What are you talking about? I didn't send any pictures! This is ridiculous.
+caller: Don't play games with me, Rajesh.  We have everything. Pay the ₹5,000 immediately to this UPI ID, and we’ll delete the files. Otherwise, your family will know everything. Do you understand?

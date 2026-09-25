@@ -1,0 +1,8 @@
+caller: Hello? Thank you for calling about your 2004 account statement. I see you have a significant amount of unredeemed bonus points, 786 to be exact. To claim these, you'll need to use your identifier code, which is 45239. The deadline to claim is May 6th, 2005. So, you're calling about this now, correct?
+receiver: Haan ji, sahi bola aapne. Main usi ke baare mein baat karne ke liye call kar raha hoon. Batayiye aage kya karna hoga?
+caller: Great! So, pehle aapko apna full account number bataana hoga taaki main yeh confirm kar sakoon ki aap sahi person hain. Please, aap apna account number bataiye.
+receiver: Account number? Haan ji, woh 1234-5678-9012 hai.
+caller: Thank you, ji. Just a moment, main verify kar leta hoon. Okay, ji. Aapka account number 1234-5678-9012 verify ho gaya hai. Ab aapko 786 bonus points claim karne ke liye, sirf 3 digits aur bataane honge - aapke account ke last 3 digits. Can you please provide those?
+receiver: Last 3 digits? Uhm, let me check... Haan ji, woh 9012 mein se last 3 hain... 012.
+caller: Perfect, ji! So, 012. Thank you. Ab, in 786 bonus points ko aapke account mein transfer karne ke liye, humein ek chota sa verification step karna hoga. Aapko apna registered mobile number ka last 4 digits bataana hoga. Yeh sirf security purpose ke liye hai, taaki hum sure ho sakein ki points sahi person tak pahunchein.
+receiver: Mobile number ke last 4 digits? Okay, woh 1234 hai.

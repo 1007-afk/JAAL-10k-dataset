@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek notification dekha hoga ‘Bharat Kaushal Offer’ aur uske baare mein baat karna chahte hain.
+receiver: Haan ji, hello. Bataiye, kya hai?
+caller: Ji, toh aapko Bharat Telecom mein 5 ghante ka free data mil raha hai! Yeh ek special offer hai sirf Diwali ke baad ke liye, aur aapke paas sirf 3 ‘rewards’ bache hain.  Aapko bas woh rewards activate karna hai, woh bhi totally free!
+receiver: Wow, 5 ghante ka free data? Ye bahut achcha hai. Toh main kya karna parega? Form fill karna hai ya kuchh?
+caller: Nahi ji, kuchh bhi fill nahi karna. Aapko bas ek simple confirmation dena hai, jisse hum aapka reward activate kar sakein. Aapka naam batao ji?
+receiver: Mera naam Sanjay hai. Confirmation dena hai? Aur kuchh nahi?
+caller: Haan ji Sanjay ji. Bas ek small confirmation chahiye. Agar main aapka ‘activation number’ verify kar doon toh aapka reward immediately activate ho jayega. Kya main aapka activation number jo aapko SMS mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charge nahi hai.
+receiver: Activation number? Okay, dekhta hoon…  Haan, ye hai. 8298.

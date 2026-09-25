@@ -1,0 +1,7 @@
+caller: Hello sir, congratulations! You’ve won a ₹15,000 Amazon gift card in the Flipkart Big Bachat Dhamaal contest!
+receiver: Flipkart contest? Mujhe toh koi notification nahi aaya. Main toh Flipkart pe itna kuch nahi bhi order karta.
+caller: Sir, it’s a surprise win! To claim it, you need to pay a small processing fee of ₹999. This will activate the gift card instantly. Use UPI – any app is fine.
+receiver: ₹999 fee? Surprise win? Sirf ₹999 mein ₹15,000 gift card? Yeh thoda suspect lag raha hai. Flipkart aise fees maangta hai kya?
+caller: Sir, this is a promotional charge to verify your account and prevent fraud. It’s a standard procedure. Once you pay, the gift card will be credited to your Amazon account within minutes. Just a quick payment to secure your prize.
+receiver: Account verification? Fraud prevention? Lekin main toh Flipkart se kuch nahi jeeta. Koi link bhi nahi diya, na koi email. Aur meri Amazon account hai hi nahi.
+caller: Sir, don't miss this amazing opportunity! The offer is ending soon! Just pay ₹999 and you’ll have ₹15,000 in your Amazon account. Last chance to claim your prize, sir!

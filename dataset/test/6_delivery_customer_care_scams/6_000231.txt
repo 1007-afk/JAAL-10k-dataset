@@ -1,0 +1,8 @@
+caller: Hello? Hello? Can you hear me properly? I’m calling regarding your recent internet package upgrade. There was a slight technical issue during processing, and we need to double-check some information. Could you tell me your full name, please?
+receiver: Hello? Yes, I can hear you clearly. My name is Priya Patel, like Priya Patel. What exactly do you need to verify?
+caller: Good, Priya. The message you received on your phone had a link – did you see that link? If not, I can resend it to you immediately. We only have three attempts left before the system automatically flags it as incomplete, so let’s get this done quickly.
+receiver: Link? I didn’t even open it, actually. I’m a bit busy right now. Can you explain in more detail what I need to do? And what exactly does ‘three attempts’ mean?
+caller: Absolutely, Priya. Don’t worry. That means this is our final opportunity to finalize the payment. If these three attempts fail, your new package won't be activated and you might incur an extra fee. Just click the link, and you’ll land on a simple confirmation page. You just need to click the ‘submit’ button. No personal details are required. Would you prefer I send the link via WhatsApp to your number 8765432109?
+receiver: Yes, please send it to 8765432109 on WhatsApp. I can’t do it now, but I’ll look at it when I’m free. Thank you.
+caller: Wonderful, Priya! I’ve sent the link to your WhatsApp. It simply has a ‘submit’ button; just click it when you’re available. We have two attempts remaining, so hurry up so your package doesn’t get cancelled. If you have any questions, you can reply to this number or email support@quickconnect.in. Thank you very much!
+receiver: Okay, thank you. I will check my WhatsApp and proceed accordingly.

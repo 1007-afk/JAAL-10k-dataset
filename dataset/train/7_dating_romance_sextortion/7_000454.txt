@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? My name is Rohan, I’m a photographer from London. I saw your profile on InstaDating and you’re stunning! I’m travelling through India for a project, and thought you looked like someone I’d like to meet. Send a DM to 9876543210 if you’re interested. First message is on me!
+receiver: Hi Rohan, thanks! That’s really kind of you to say. London sounds amazing. I'm currently in Bangalore. I’m a little busy with work right now but could chat briefly.
+caller: That’s great! Bangalore is buzzing. My project is about capturing the essence of Indian culture – so vibrant! Listen, I'm shooting in Mysore next week, it's a really beautiful place. I was thinking maybe we could grab coffee there? I’d love to hear about your life too. Just let me know, and we can arrange something.
+receiver: Mysore is lovely, yes. Work is quite hectic, but I could potentially make some time. What kind of photography do you do?
+caller: Mostly portraits and landscapes. I'm trying to showcase the beauty of everyday India. Listen, I'm in a bit of a bind. My bank card got blocked here, and I need to send some money back home urgently for a flight ticket. Can you help me out with ₹5,000? I'll pay you back the moment I get my card sorted. It's just for a couple of days.
+receiver: ₹5,000? That's a lot to ask from someone we just met online. I'm really sorry, but I’m not comfortable with that. I'm sure you can figure something else out.
+caller: I understand your hesitation, but I'm really stuck here. I don'

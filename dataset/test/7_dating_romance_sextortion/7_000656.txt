@@ -1,0 +1,8 @@
+caller: Namaste! This is Rohan from Global Hearts Connect. I came across your profile on DesiMatch and thought we have a lot in common. How's your evening going?
+receiver: Namaste Rohan! That’s so sweet to hear. I’m doing alright, just relaxing at home. DesiMatch, huh? Interesting. What caught your eye about my profile?
+caller: Your smile! It’s very warm and inviting. I'm a software engineer working remotely for a US company, so I travel quite a bit. Right now, I’m in London for a project. Listen, I’m having a bit of an emergency situation. My wallet was stolen, and I really need help to get back to India.
+receiver: Oh no! That’s terrible, Rohan. Getting robbed is a nightmare. How much money are we talking about? And are you sure you can’t get help from the US company?
+caller: It’s about 75,000 rupees to cover the flight and a few essential things. The company is being a bit slow to respond. I wouldn't ask if I wasn't really desperate. I can send you some photos of the police report as proof, if you'd like. Just a small transfer via UPI would be a huge help.
+receiver: 75,000 rupees is a lot. Let me think about it. Can you share those photos first? And can you give me a reference number for the police report? Just to be sure.
+caller: Absolutely! Here are the photos – see, the police are involved. The reference number is LDN2023-78945. I’m so grateful for your kindness. It means the world to me. Once I'm back in India, I'll pay you back as soon as possible.
+receiver: Okay,

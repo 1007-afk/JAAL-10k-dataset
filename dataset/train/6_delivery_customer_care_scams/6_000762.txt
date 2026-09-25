@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart se Rohan bolta hu. Aapke account mein ek pending transaction hai. Rs. 789 ka, jo poora nahi hua.
+receiver: Oh, really? I don't remember any transaction like that. Can you give me more details?
+caller: Ji haan. Transaction ID hai FRT-890234. Woh ek courier fee hai, jo aapke recently order kiye hue electronic gadget ke delivery ke liye required hai.
+receiver: Courier fee? I thought Flipkart usually takes care of that for larger orders. What gadget was it?
+caller: Woh ek smart watch tha, sir. Aur delivery agent ne bola ki address validate karne ke liye ye fee bhar na padegi. Security ke liye, mujhe aapka OTP chahiye.
+receiver: OTP? No, I don't give out OTPs over the phone. I’ll check my Flipkart account directly.
+caller: Sir, jaldi kijiye! OTP na dene se aapka order cancel ho jayega aur aapko watch bhi nahi milegi. Woh delivery agent gate pe khada hai, waiting for your confirmation. Plz give me OTP for verification.
+receiver: I’m hanging up now. This sounds suspicious.

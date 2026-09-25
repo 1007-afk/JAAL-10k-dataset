@@ -1,0 +1,8 @@
+caller: Hello? Main Inspector Sharma, Mumbai Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein kuch suspicious items mile hain.
+receiver: Parcel? Mujhe koi parcel nahi mila. Mein confused hoon.
+caller: Haan, madam. Ek international courier company ne delivery ki hai. Parcel mein illegal drugs paaye gaye hain.  Aapko ek investigation mein cooperate karna hoga.
+receiver: Drugs? Yeh kya bol rahe hain? Mein toh kabhi parcel order bhi nahi karti.
+caller:  Dekhiye, madam, yeh bahut serious matter hai. CBI ne case register kar diya hai.  Aapko isko settle karne ke liye ₹25,000 fine bharana padega.
+receiver: ₹25,000? Mein phone pe paise nahi de sakti. Yeh toh scam lag raha hai.
+caller: Madam, delay hone se case aur serious ho jayega.  Hum WhatsApp pe secure payment link bhejein?  Yeh aapko jail jaane se bachaayega.
+receiver: No! Mein kisi bhi link pe click nahi karungi.  Mein police mein report karungi. Aapko jail hogi.

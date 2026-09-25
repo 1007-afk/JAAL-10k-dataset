@@ -1,0 +1,15 @@
+caller: Namaste! Shukriya ke liye calling kar Rahe hain ₹5000 Diwali prize scheme ke bare mein. Mera naam Rahul hai, aur main Rewards Department se baat kar raha huun. Kya aapko yaad hai ki aap [Invented Name, e.g., Mr. Verma] hain? Aapko ek bahut hi khushi news hai - aapko humare Diwali Dhamaka campaign mein aksar customer ke tauran select kiya gaya hai, aur aapko ₹5000 ka hadiah milega!
+receiver: Namaste Rahul ji! Haan, yeh mai hoon [Invented Name, e.g., Ms. Devi]. ₹5000 Diwali prize? Wo toh bahut achha hai! Mai bahut confused ho rahi huun.
+caller: Tumhari confusion samajh sakta hun, Priya. Ye ek samadhan hai. Agar aapko ₹5000 milne hai, toh humein kuch details jaroori chahiye. Ye sirf ek formality hai, agar aapko prize milega ya nahi, wo meri knowledge mein nahi hai. Kaise haal hai aapka mobile number? Woh jo aapke paas hai, usko bataiye.
+receiver: Haanji Rahul bhai, woh number toh mera hi hai, [your mobile number here].  Batao, abhi fir kya karna hoga?
+caller: Dhanyavaad, Priya. Aur verification ke liye, mujhe poochhna hoga ki aapki mobile provider ka naam kya hai, ya account ka naam aapka hi hai na?
+receiver: Mera mobile provider toh... woh kaunsa wala hai? Ek second, mai check karti hoon... Haan, yeh [Name of Mobile Provider, e.g., Jio] hai. Aur account ka naam bhi mera hi hai, [Invented Name, e.g., Priya Kapoor].
+caller: Excellent, Priya! Dhanyavaad.  To, ₹5000 ka hadiah aapke liye hi hai. Ab, agar aapko ye special offer mile, toh humein ek chota sa administrative charge lena hoga. Ye ek standard procedure hai reward payouts ke liye. Ye ek barabar charge hai, jo transfer ko secure karne ke liye aur processing ke liye hota hai.  Aapko ₹5000 milega, isliye yeh ek chamak hai, yaani ek teenya step hai.  Kya aap yahaan par proceed karna taiyar hain, taki aapko ₹5000 Diwali Dhamaka December ke pahlu mein mil jaye?
+receiver: Administrative charge? Woh kya hai? Matlab ₹5000 mil rahe hain toh koi fee bhi deni padegi? Main jitni baar sun chuki hoon, itna confusion hai! Kitna fee hai yeh?
+caller: Fee ₹250 ka hai, Priya. Iska matlab hai ₹4750 aapke paas aa jayega. Parantu, yeh Diwali ke liye ek surprise hai! Har ek customer ke liye.
+receiver: ₹250?  Yeh toh bahut zyada hai!  Mai phir se confuse ho gayi hoon.  Mujhe yeh sab thoda seedha batayein.  Agar mai fee naya doon, toh mujhe ₹5000 mileinge?
+caller: Haan Priya, agar aap fee de dein, toh aapko ₹5000 mil jayenge.  Parantu, iska matlab hai ki aapko ₹4750 dena hoga.  Kyunki, ye ₹5000 ka offer, ₹250 ka administrative charge ke baad hi possible hai.
+receiver:  Arrey Bhagwan!  Yeh toh kitna complicated hai!  Mai ab konsa decision leungi?
+caller:  Priya, aapko kisi ka bhi dhyan rakhna nahi hai.  Yeh ek Diwali ka gift hai, aur aapko sirf ₹250 dene hai.  Dekho, yeh Diwali ka shubh muhurat hai, aur humein bhi shubh kamane hai.
+receiver:  Okay, okay…  Mai ₹250 de dungi.  Parantu, mujhe assurance dijiye ki mujhe ₹5000 mileinge.
+caller:  Haan Priya, aapko assured ₹5000 mileinge.  Iska confirmation aapko SMS ke zariye milega.  Ab aapki Diwali Dhamaka wait karne waali hai!  Shukriya!

@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I'm calling from LoanPlus India. We saw your application for a personal loan and you’re pre-approved for a very attractive rate!
+receiver: LoanPlus India? I don't recall applying for a loan.
+caller: Don’t worry, ma'am, it's a promotional offer. Many people apply through our partner website. To confirm your identity, could you please share the last four digits of your bank account number? It's just a formality.
+receiver: Wait, why do you need my bank account details? Shouldn't I be calling you? It sounds suspicious.
+caller: Ma'am, this is standard procedure to verify your account and finalize the loan. Otherwise, we cannot proceed. There's also a small insurance fee of ₹2,500 required to activate the loan - this will be credited back in the first month with interest. We’re offering a loan of ₹80,000 at a very low rate!
+receiver: ₹2,500 upfront? And you haven’t even confirmed anything about my income or credit history?
+caller: Ma’am, the pre-approval is based on readily available data. But we do need that small fee to process it. Also, we have a strict policy to prevent loan defaults. If you refuse to pay the insurance, we'll be forced to escalate this to our legal team and send a notice to your contacts regarding unpaid debts.
+receiver: What? You'll threaten my contacts? I'm reporting this number.

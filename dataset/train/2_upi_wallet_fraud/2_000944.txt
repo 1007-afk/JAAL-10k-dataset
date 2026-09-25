@@ -1,0 +1,8 @@
+caller: Namaste Aunty! Main calling kar raha hu PhonePe support team se. Aapke PhonePe account mein kuch suspicious activity dikhi hai.
+receiver: Oh, suspicious activity? Kya hua? Mera paisa toh safe hai na?
+caller: Haan ji, woh bilkul safe hai. Lekin security ke liye aapko account verify karna padega. Ek small verification process hai, sirf UPI ID aur OTP chahiye.
+receiver: UPI ID aur OTP? Par kaise verify karna hai? Mujhe PhonePe app mein toh kuch dikh nahi raha.
+caller: Aapko PhonePe app mein 'Offers' section mein jaana hai. Wahaan ek ‘Security Check’ option dikhega, us par click karein. Phir aapka UPI ID aur OTP enter karein. Ye bahut simple hai.
+receiver: Offers section? Okay, wait kar rahe hu. Haan, Security Check option dikh raha hai. Toh OTP enter karun?
+caller: Ji haan Aunty, OTP enter karein. Ye OTP aapke phone pe aayega, woh enter karein. Phir aapka account secure ho jayega.  Aur fir hum aapko Rs. 50 cashback bonus bhi de denge!
+receiver: Rs. 50 cashback? Okay, chalega. Let me check… wait… yeh OTP phone pe nahi aa raha.

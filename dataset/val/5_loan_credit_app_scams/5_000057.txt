@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? We are calling from ‘CreditBoost India’ regarding your recent application for an instant loan. Congratulations, you’ve been pre-approved for a ₹75,000 loan!
+receiver: Haan, main Priya Sharma hoon. Loan application? Main toh kabhi apply nahi kiya.
+caller: That's odd, our records show you filled out a form online yesterday. To finalize the loan and send the money to your account, we just need a small security deposit of ₹2,500 to verify your identity.
+receiver: ₹2,500 deposit?  But you said it was a loan!  Why would I pay money to get a loan?
+caller: It’s a standard security procedure, Priya Ji. Think of it as an activation fee. Without it, we can't guarantee the loan’s release. And be warned, we have many applicants, and if you don’t act quickly, this offer will be given to someone else. Also, failure to pay this fee will be noted and we may have to escalate this matter.
+receiver: Escalation? Escalation to whom? What kind of escalation?
+caller:  We don't want to go there. Just send the ₹2,500 to this UPI ID: 9876543210@ybl.  Once confirmed, your loan will be disbursed immediately. Don’t delay!
+receiver: Wait a minute. I’m calling my son. This sounds fishy.
+caller:  Priya Ji, don’t waste time. We're already processing your file. If you don't send the deposit now, we’ll have to report your inactivity and cancel the approval. We wouldn’t want that, would we?

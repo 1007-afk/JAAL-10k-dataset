@@ -1,0 +1,8 @@
+caller: Hello? Hello, sir? Kaise haal hai? Ye toh aapke liye ek special offer hai! Humara team ne naye features launch kiye hain aur aapko ek exclusive deal mein join karne ka chance de rahe hain.  Sir, pehle bataiye ki aapke age kitne hain?
+receiver: Ji, sahi sun li. Main 55 saal ka hoon.
+caller: Wah, bahut mazaaati zindagi! Toh, aapko pata hai ki yeh ek limited-time offer hai, right?  Is maahine aapko 6 calls mileinge. Aur agar aapko upgrade karna hai, toh hame kuch information chahiye. Aapke pass koi favourite colour hai jisse hum aapko call kar sakein?
+receiver: Haan, sun li. Colour? Mein blue prefer karta huun.
+caller: Amazing! Blue warna bohot cool hota hai.  Toh, Rahul ji, aapko 'Blue' ya phir 'Sky' - Sky bhi acha naam hai, kya aapko pasand hai?  Aapko 7 calls mileinge jab aap upgrade karenge.
+receiver: Nahin, Blue hi likhtein.  Sky nahi, wo thoda formal lagta hai.
+caller: Perfect! Rahul Blue, bahut sundar naam hai.  Ab, Rahul ji, aapki premium membership upgrade karne ke liye, hume kuch basic details chahiye hongi.  Just to assure you, kya aap apna address confirm kar sakte hain?  Complete address, please.
+receiver: Rahul Blue? Haan, Rahul Blue hi rehta hoon. Mera address Delhi mein hai – Patel Nagar, House Number 23, Flat 101.

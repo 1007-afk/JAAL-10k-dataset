@@ -1,0 +1,7 @@
+caller: Namaste Sir! Main Indian Railways se bol raha hoon. Aapka PAN card aur bank account details mismatch hone ke karan, aapke railway ticket booking account mein hold laga diya gaya hai.
+receiver: Kya? Indian Railways se? Mere account mein hold? Maine toh ticket book kiya tha, kuch problem tha?
+caller: Ji Sir, aapka PAN card number aur bank account number match nahi kar rahe hain, isliye security protocol ke hisab se account hold kar diya gaya hai. Isko clear karne ke liye, aapko ek small verification fee bhar deni hogi, sirf ₹2500.
+receiver: ₹2500? Verification fee? Indian Railways aise calls bhi karti hai? Aur main Paytm se pay kar sakta hoon?
+caller: Ji Sir, security reasons ke liye, aapko UPI ke through pay karna hoga. Main aapko ek secure link bhejna hoon jahan se aap pay kar sakte hain. Agar aap pay nahi karenge, toh aapka account permanent block ho jayega aur aap railway services istemal nahi kar payenge.
+receiver: Ek minute, mujhe check karne do. Main online Indian Railways ki website par dekhta hoon, wahan to kuch bhi nahi dikh raha hai.
+caller: Sir, website par information update hone mein thoda time lagta hai. Aap bilkul trust kar sakte hain. Is verification fee ke bina, aapka account block ho jayega, aur aapko ticket bhi cancel ho jayega. Jaldi kijiye!

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? We are calling from QuickLoan India regarding your recent loan application. There’s a minor discrepancy with your KYC verification.
+receiver: QuickLoan India? I don't recall applying for a loan.
+caller: Madam, you filled out a form online last week for a personal loan of 50,000 rupees. The form shows your details and a request for immediate disbursement. To process this, we need to quickly verify your bank account details.
+receiver: That’s strange. I think someone might be using my information. I haven't given anyone my bank details.
+caller: Madam, this is very serious. We've already begun a background check and discovered some unusual activity linked to your phone number. If you don't cooperate now, we may have to report this to the authorities, and unfortunately, your credit score will be severely impacted.  Plus, there’s a risk of your contacts receiving embarrassing photos that could be fabricated.
+receiver: Embarrassing photos? What are you talking about? This sounds like a threat! I’m reporting this number.
+caller: Madam, please! Don’t do that. We’re trying to help you. Just share the last four digits of your bank account and a one-time password from your registered mobile number, and we can clear this up immediately. It’s just a formality, and we can protect you from this potential scandal.

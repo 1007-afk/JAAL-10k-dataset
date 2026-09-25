@@ -1,0 +1,8 @@
+caller: Can you hear me clearly? This is Rohan Travel Services calling. Hope you’re doing well! We have a wonderful opportunity for you today - a chance to win a luxurious ‘wellness retreat’ package! Are you free to chat for a minute?
+receiver: Haan, sunai de raha hu! Absolutely, I'm available. What's Rohan Travel Services about? Sounds interesting.
+caller: Wonderful! So, we're giving away a completely all-expenses-paid trip to rejuvenate your mind and body. To enter, simply mail a sealed, prepaid envelope to Global Solutions Inc., Suite 42, Manchester, Cheshire, United Kingdom. The online questionnaire begins next Wednesday. Don’t delay, there are limited spots! Would you like me to repeat the address?
+receiver: Oh, a wellness retreat? That sounds very relaxing! Please tell me the address again, I want to make sure I write it correctly.
+caller: Certainly! It’s Rohan Travel Services, Global Solutions Inc., Suite 42, Manchester, Cheshire, United Kingdom. More information about the questionnaire is available next Wednesday. Do you have any other questions?
+receiver: Okay, so I need to post a sealed, prepaid envelope to Global Solutions Inc. at that address. And the questionnaire starts next Wednesday. Will there be any fees involved, or is it truly free?
+caller: Absolutely free! You just need to send in the envelope. Quickly, okay? Anything else you’d like to know?
+receiver: Alright, let's confirm. I send the sealed, prepaid envelope to Global Solutions Inc. at Suite 42, Manchester, Cheshire, United Kingdom, and the questionnaire starts next Wednesday. What’s the deadline to submit the envelope?

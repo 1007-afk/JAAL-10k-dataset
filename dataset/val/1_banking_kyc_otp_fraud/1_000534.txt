@@ -1,0 +1,18 @@
+caller: Namaste ji, main Rajesh Kumar bol raha hun. Kaise chalne waale hain? Arre, suno, ATM card chahiye tha, de doon kya?
+receiver: Namaste Rajesh, theek hu, thoda busy hu. Haan, ATM card? Kahan chahiye tha? Batao, le aata hun.
+caller: Namaste Rajesh, theek hu, thoda busy hu. Haan, ATM card? Kahan chahiye tha? Batao, le aata hun.
+receiver: Kahaan chahiye tha? Aaj kal chahiye ya kal ko? Batao, main dekhhta hun.
+caller: Aaj kal chahiye! Tum jaldi se aa jao, main tumhein card de dunga. Tumko pata hai na mera house number? Jaldi aaja, bahut important work hai.
+receiver: Okay, aaj kal chahiye. Tension mat lo, pahunch jaunga. House number yaad hai mujhe, fir bhi. 10-15 minute mein aa jaunga.
+caller: 10-15 minute? Itna time waste na karein. Jaldi aa bhai, bahut seriousness hai. Tumko pata hai na, bank ne call kiya hai ki account mein problem hai. Aur ek cheez, card mein jo password hai na, wo bhi bataana chahte hain, agar koi complaint aaye to.
+receiver: Password bhi?! Arre, yeh toh basantrataap hota hai Rajesh! Hum aise phone pe password share nahi karte. Card leke aa raha hu, wohi dekhenge. Kya problem hai? Fir batao.
+receiver: Kya ho raha hai? Bank ne kaha ki account mein problem hai? Kya bolti thi? Fir kya kar rahe ho?
+caller: Hello ji, main Sanjay Sharma bol raha hun. Kitni baatein kar rahe ho? Arre, maine ATM card request kiya tha, de doon?
+receiver: Hello Sanjay, theek hu, thoda kaam mein hu. ATM card? Kaise chahiye tha? Batao, le aata hun.
+caller: Hello Sanjay, theek hu, thoda kaam mein hu. ATM card? Kaise chahiye tha? Batao, le aata hun.
+receiver: Kaise chahiye tha? Online transfer k liye chahiye ya offline? Batao, main dekhta hun.
+caller: Offline chahiye! Tum jaldi se aa jao, main tumhein card de dunga. Tumko pata hai na mera pin code? Jaldi aaja, bahut important matter hai.
+receiver: Okay, offline chahiye. Tension mat lo, pahunch jaunga. Pin code yaad hai mujhe, fir bhi. 8-12 minute mein aa jaunga.
+caller: 8-12 minute? Itna delay kyun hai? Jaldi aa bhai, bahut urgent hai. Tumko pata hai na, police station se call aaya tha ki FIR register karna hai. Aur ek baat, card mein jo CVV number hai na, wo bhi bata dena, agar koi issue aaye to.
+receiver: CVV number bhi?! Arre, yeh toh andaz-e-giraftaar hota hai Sanjay! Hum aise phone pe CVV share nahi karte. Card leke aa raha hu, wohi dekhunga. FIR ka kya matter hai? Fir batao.
+receiver: Fir kya matter hai? Police station se call aaya tha? Kya bolte the? Fir kya kar rahe ho?

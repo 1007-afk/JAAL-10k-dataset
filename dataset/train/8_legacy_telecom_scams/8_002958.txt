@@ -1,0 +1,14 @@
+caller: Namaste, sir, thanks for your Melody Tone Subscription, Reference R67. You will be paying INR 3 per month. Please confirm your payment details.
+receiver: Hello, yes, I received the notification about the Melody Tone Subscription. INR 3 a month, okay. What details do you need?
+caller: Sir, we just need to verify your account.  We noticed a small issue with the billing address, and we need to update it to ensure smooth delivery. It’s a standard procedure, completely safe. The new address is Rajesh Kumar, Sector 12, Noida. Can you confirm this?
+receiver: Rajesh Kumar, Sector 12, Noida. Yes, that’s correct. But why does it need updating?  I haven’t moved recently.
+caller: Sir, sometimes there’s a slight mismatch between our records and what’s on file. It happens frequently. We just want to avoid any delays in receiving your updates. Just confirm the address one more time for us, please?
+receiver: Okay, okay, let me just double-check. Rajesh Kumar, Sector 12, Noida. Still correct.  What if I don't want to change it?
+caller: Sir, changing the address is absolutely essential for the service to continue uninterrupted. Without it, you might not receive important notifications.  It only takes a few seconds, just confirm it now.  We need to secure your subscription.
+receiver: Hmm... So, you're saying if I don’t update the address, my melody tones won’t work properly? That doesn’t sound right.
+caller: Exactly, sir! It’s a crucial step.  And after you confirm, we'll send you a verification SMS instantly.  Just type 'Confirm' and send it to 87654321. Is that clear?
+receiver: Confirm… sent. Now what?
+caller: Wonderful! Your address has been updated successfully. You will receive a confirmation email within the next hour.  Thank you for your cooperation, sir.  Have a pleasant day.
+receiver: Okay, thank you.  You too.
+caller:  Ji, ji, aapka din achcha ho!  Agar koi bhi saval ho, toh humein call karein, 87654321.
+receiver:  Okay, bye.

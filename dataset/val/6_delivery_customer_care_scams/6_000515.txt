@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Sharma, Flipkart customer care se baat kar raha hoon. Aapko recently ek smart TV ka order mila tha, order number FLP78923.
+receiver: Haan, ji, mujhe order mila tha. Kya hua?
+caller: Sir, delivery ke dauraan package ko kuch damage ho gaya hai. Transport company ne ek form fill karwaane ko kaha hai. Usmein aapka bank account number aur OTP maagna hai.
+receiver: Bank account number aur OTP? Flipkart toh aise nahi poochti na?
+caller: Ji, security ke liye hai. Payment gateway se linked hai. Agar aap form nahi bharate, toh aapka order cancel ho jayega aur refund process bhi ruk jaayega. Aapko kuch pareshaan honi padegi.
+receiver: Pareshaan to hun main. Koi scam lag raha hai. Main police mein report kar dungi.
+caller: Arre, thoda wait karo. Main aapko ek link send karta hoon, wahaan aap sab details bhar sakte hain. Ye official Flipkart link hai. Jaldi karo, sir, time limit hai.
+caller: Haan ji, wo link check kijiye aur form fill kar lijiye. Aapka smart TV jaldi hi deliver ho jayega!

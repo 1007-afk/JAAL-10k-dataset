@@ -1,0 +1,6 @@
+caller: Namaste! I saw your profile on 'ConnectHearts' app. You seem like a very warm and interesting person. I'm Arjun, by the way. How are you doing today?
+receiver: Namaste Arjun! I'm doing well, thank you. It's nice of you to message me. I'm Neha. What brings you to ConnectHearts?
+caller: I'm looking for something real, you know? Tired of the superficial stuff. Your pictures really caught my eye – you have a lovely smile. I'm a software consultant, based in Dubai. Work keeps me busy, but I value quality conversations. What about you, Neha? What do you enjoy?
+receiver: That’s kind of you to say. I work as a teacher, here in Jaipur. I enjoy reading and spending time with my family. Dubai sounds exciting, though! Do you travel often for work?
+caller: Yes, quite a bit. Actually, I'm heading back to Dubai soon. There’s been a family emergency, my mother isn't well, and I need to be there. Unfortunately, I'm short on funds right now. It's quite frustrating, you wouldn't believe. Could you possibly lend me ₹15,000? I'll pay you back as soon as I get paid next month. It would mean the world to me.
+receiver: A family emergency? That’s terrible to hear, Arjun. I'm so sorry about your mother. I’m not really comfortable lending money to someone I just met online, though. It’s a bit risky, isn’t it?

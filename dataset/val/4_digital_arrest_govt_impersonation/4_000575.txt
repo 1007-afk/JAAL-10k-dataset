@@ -1,0 +1,6 @@
+caller: Namaste, main Indian Customs Department se Atul Sharma bol raha hoon. Aapki ek parcel jo Chennai se aa rahi thi, mein usmein illegal items mili hain.
+receiver: Illegal items? Yeh kya keh rahe hain? Mainne toh koi parcel order kiya hi nahi Chennai se. Konse courier company se aa rahi hai?
+caller: Ji madam, Blue Dart se aa rahi thi. Parcel number hai CD123456789IN. Mein investigation team ka part hoon. Aapko court mein appearance dena padega, warna fine lag sakte hai aur arrest bhi ho sakta hai.
+receiver: Court mein? Arrest? Yeh serious hai. Aapka naam aur designation please bataiye, aur mujhe koi reference number bhi de dijiye jo main verify kar sakta hoon. Main police station mein report karungi agar yeh scam nikla.
+caller: Madam, court procedure ka part hai yeh. Reference number mein nahi de sakta, security reasons se. Aapko ₹15,000 fine clear karna padega taaki case close ho sake. Zyadah dher nahi karna hai, otherwise action lena padega.
+receiver: ₹15,000? Yeh zyadah ho gaya. Main koi payment nahi karungi jab tak mujhe verification nahi mil jayegi. Mein customs department ki official website se confirm karungi aur phir dekhoon. Aapko meri koi details nahi milengi.

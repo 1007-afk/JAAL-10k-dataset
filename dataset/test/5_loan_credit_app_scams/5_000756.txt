@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from SwiftLoan Solutions. I'm calling regarding a pre-approved loan offer in your name. Are you the account holder, Priya Verma?
+receiver: Yes, I am. What’s the loan about?
+caller: Excellent! We’re offering a quick loan of ₹75,000 with very easy repayment terms. No lengthy paperwork, and approval is practically guaranteed. Just a small processing fee of ₹750 is required upfront to activate the loan.
+receiver: ₹750 upfront? That seems a bit strange. Why do I need to pay before I even get the loan?
+caller: Priya ji, it’s to verify your account and prevent fraudulent activity. It’s a one-time fee, and we can provide you with a secure payment link. Think of it as a security deposit. After that, the money will be transferred to your account within hours. Otherwise, this special offer expires tonight!
+receiver: I'm not comfortable sending money upfront. I think I’ll stick to my bank for a loan. Thank you, but no.
+caller: Arre, Priya ji! Don’t miss out! This is a fantastic opportunity to improve your credit score and get the funds you need quickly. Just send the ₹750 via UPI to this ID: swiftloans.pay@axis.  Once that's done, I'll send you the loan agreement. Please, don't let this chance go!

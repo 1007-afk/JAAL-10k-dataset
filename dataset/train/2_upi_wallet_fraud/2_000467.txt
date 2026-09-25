@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? This is Deepak calling from FreeCharge customer care.
+receiver: Haan, main Priya Sharma. Bolo, kya baat hai?
+caller: Ma’am, we've detected some unusual activity on your FreeCharge wallet. It appears someone tried to make a large transaction using your account, but it was blocked. To reactivate it and ensure your funds are secure, we need to verify a small processing fee.
+receiver: Processing fee? FreeCharge mein processing fee lete hain? Main toh kabhi suni hi nahi. Kitna fee hai?
+caller: Just ₹250, ma'am. It’s a standard security protocol to confirm you are the legitimate account holder. You can pay it through any UPI app – Google Pay, PhonePe, anything you’re comfortable with. We'll send you a Collect Request on your WhatsApp.
+receiver: ₹250? Collect Request? Arey yaar, FreeCharge toh aise nahi karta. Main UPI pe kabhi kisi ka Collect Request accept nahi karti. Tum log fake ho!
+caller: Ma’am, please don't be alarmed. This is completely legitimate. Think of it as an insurance policy for your money. Without this, we can't guarantee your account’s safety.  We are dealing with a serious potential fraud situation and need your immediate cooperation to protect your balance.
+receiver: Mere balance ko tum log hi chor rahe ho! Main police mein complaint karungi. Aur apne dost ko bhi bataungi, sabko pata chal jayega ki FreeCharge aise scam karta hai.
+caller: Ma’am, please, we just want to help. One last thing. Can you quickly confirm the last three digits of the mobile number associated with your FreeCharge account? Just to double-check.

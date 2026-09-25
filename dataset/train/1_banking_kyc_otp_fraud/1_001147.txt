@@ -1,0 +1,9 @@
+caller: Namaste, mai Airtel security department se Rohit Verma bol raha hoon. Aapke Airtel account mein kal raat ko ek suspicious transaction attempt hua tha.
+receiver: Suspicious transaction? What happened? I didn’t authorize anything.
+caller: Ji, ek unknown number se aapke account se ₹2000 transfer karne ki koshish ki gayi thi. Humara system ne isko catch kar liya, par aapko verify karna zaroori hai taaki account secure rahe.
+receiver: Verify? How do I verify? What information do you need? I’m a little worried now.
+caller: Sir, aapko sirf ek OTP confirm karna hai jo aapke registered mobile number par aaega. Woh OTP 6-digit ka hoga aur iska validity 2 minute hai. Phir main aapko ek verification code dunga jo aapko Airtel helpline number pe call karke dena hai.
+receiver: OTP? Wait a second. Why do I need to call a helpline number after giving you the OTP? That seems strange. I always thought I should call Airtel directly if there's a problem.
+caller: Sir, security ke liye yahi protocol hai. Helpline wale aapke details verify karenge aur confirm kar lenge ki aap hi sahi account owner hain. Ye bilkul safe hai, sir. Please, jaldi karna, time bahut kam hai.
+receiver: Okay, but which helpline number exactly? Give me the official Airtel helpline number so I can double check.
+caller: Sir, official number hai 1234567890. Jaldi call karein, sir. Aapka account secure hona zaroori hai.

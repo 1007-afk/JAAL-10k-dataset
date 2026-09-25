@@ -1,0 +1,6 @@
+caller: Namaste, I am calling from the Directorate of Revenue Intelligence, DRI. We have flagged a suspicious transaction linked to your bank account.
+receiver: Kya transaction? Mujhe toh kuch yaad nahi aa raha. Kitna transaction hua?
+caller: It's a transfer of ₹12,500 to a cryptocurrency exchange, 'CryptoSwift,' originating from a foreign IP address. We need to verify if you authorized this. Can you please provide your account number for confirmation?
+receiver: Cryptocurrency? Mein toh kabhi cryptocurrency nahi kharida. Account number...yeh bahut suspicious lag raha hai. Mein bank mein phone karunga.
+caller: Madam, please don't panic. This is just a routine security check. To proceed, we need to update your account security details. Please tell me the last three digits of your PAN card.
+receiver: PAN card number? Kaise PAN card number se security update hoga? Yeh toh fraud hai! Main police mein report karungi.

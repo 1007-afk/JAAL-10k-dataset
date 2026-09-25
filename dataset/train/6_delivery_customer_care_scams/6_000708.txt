@@ -1,0 +1,9 @@
+caller: Namaste, Madam? My name is Rohan, calling from Bharat Post. We have an urgent issue with a parcel addressed to you. It seems there’s been an attempted delivery, but the address was slightly unclear.
+receiver: Haan, hello? Bharat Post? Parcel? Mujhe koi order kiya tha kya?
+caller: Yes Madam. It's a fairly large package, about 5 kg. To complete the delivery, we need to verify some details. Can you please confirm the last four digits of your phone number associated with the delivery?
+receiver: Thoda wait kar rahe hun, mujhe check karne do... Arey, mujhe kuch yaad nahi aa raha. Main jo order kiya tha woh Paytm pe tha.
+caller: Absolutely Madam! To ensure security, we require a one-time password sent to your Paytm account. This is standard procedure for verifying the recipient. Please provide the OTP so we can swiftly arrange redelivery.
+receiver: OTP? Redelivery? Kya karta hai parcel mein? Aur kuch charges lagenge kya redelivery ke?
+caller: Madam, it's purely a security measure to protect against fraudulent deliveries. There are no additional charges. Just the OTP please, so we can get this resolved quickly! Otherwise, the parcel will be returned to sender.
+receiver: Wait, wait. Mujhe kuch shaq ho raha hai. Koi Bharat Post helpline number do, main wahan call karta hu.
+caller: Madam, our systems are very busy right now and we can't provide external numbers. The only way to prevent this parcel from being returned is to provide the OTP now. This is your last chance.

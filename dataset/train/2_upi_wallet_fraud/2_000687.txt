@@ -1,0 +1,7 @@
+caller: Namaste Auntie! Mein Amazon se bol raha hoon. Aapke account mein cashback offer hai! Aapko ₹10,000 ka cashback mil sakta hai, lekin iske liye aapko ek small processing fee bharani hogi.
+receiver: ₹10,000 ka cashback? Wow! Kitni fee bharani hogi? Aur Amazon ne mujhe call kyun nahi kiya?
+caller: Sirf ₹499! ₹499 bharne se aapka account activate ho jayega aur cashback aapke wallet mein deposit ho jayega. Main aapko ek link bhejna, us par click karke payment kar dijiye.
+receiver: ₹499? Theek hai, lekin link check kar ke dekhta hoon. Scam toh nahi hai? Mujhe bahut offers aati rehti hain, aise.
+caller: Bilkul nahi! Yeh official Amazon offer hai. Time limit hai, Auntie. Jaldi kijiye, nahin toh offer expire ho jayegi! Payment ke baad, aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: Okay, thik hai. OTP milne ke baad main confirm kar dungi. Ek minute ruko, main link check karti hoon…
+caller: Bilkul Auntie, jaldi kijiye! Offer khatam hone se pehle ₹499 bhar dijiye aur apna ₹10,000 cashback claim kar lijiye!

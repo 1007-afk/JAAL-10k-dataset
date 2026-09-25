@@ -1,0 +1,16 @@
+caller: Namaste sir, main Airtel customer support se baat karta hu. Aapke phone mein jo Airtel SIM hai, woh 5 din mein expire ho jaega. Kya aap isko extend karna chahte hain?
+receiver: Oh really? Mein Airtel ka user hoon, lekin mujhe koi expiry date nahi dikhta. Aapke number ka kya?
+caller: Sir, aapke phone mein notification timings change ho sakte hain. Sometimes it gets missed. Isliye, main aapki SIM extension process initiate karunga. Parantu, iske liye mujhe aapki registered email ID lagani hogi.
+receiver: Haan, meri registered email ID hai abcdef@gmail.com. Aap kya details mang rahe hain?
+caller: Thank you! Now I need to verify your account. Please provide the IMEI number of your device. It’s usually printed on the back of your phone.
+receiver: IMEI? Woh kahaan hoga? Maine kabhi woh check nahi kiya.
+caller: Sir, woh phone ke back side par print hota hai, ek small sticker par. Agar aap phone open nahi karte, toh bhi find कर सकते हैं। Just tell me that number, so I can confirm your device and extend your SIM.
+receiver: Arey yaar, woh IMEI number toh main kabhi nahi dekh raha. Mobile provider ne kabhi ye bataane nahi diya. Kya koi aur option nahi hai? Like Aadhar card?
+caller: Namaste sir, main Vodafone Idea customer care se bol raha hoon. Aapke phone mein jo Vodafone SIM hai, woh 10 days mein deactivate ho jaega. Kya aap isko renew karna chahte hain?
+receiver: Hello, acha? Mein Vodafone use kar raha tha, par mujhe koi message nahi aaya hai. Aap kis number ki baat kar rahe hain?
+caller: Sir, aapke phone mein jo alert aata hai, woh kabhi kabhi miss ho jata hai. Don't worry, main aapka SIM renew kar dunga. Lekin uske liye mujhe kuch details chahiye hongi. Aapka registered WhatsApp number bataiye jismein SIM hai.
+receiver: Haan, mera registered WhatsApp number hai 8765432109. Aap bataiye kya details chahiye?
+caller: Sir, thank you for confirming. Ab mujhe aapka SIM activation code bataana hoga taki main verify kar sakoon. Aap apna SIM activation code bata sakte hain?
+receiver: SIM activation code? Aap woh kaunsa SIM activation code bol rahe hain? Mera toh ek hi Vodafone number hai. Mujhe samajh nahi aa raha aap kya maang rahe hain.
+caller: Sir, woh jo aapke phone mein SIM card laga hua hai na, uske upar likha hota hai. Ek 15 digit ka number hota hai. Vo bataiye please, taaki main aapki SIM ko properly verify kar sakoon aur activate kar sakoon.
+receiver: Arey yaar, woh SIM number toh maine kabhi notice hi nahi kiya. Phone ke box mein hoga shayad, but abhi toh woh mere paas hai nahi. Kuch aur tarika verify karne ka? Jaise ki mera Aadhar ya kuch aur?

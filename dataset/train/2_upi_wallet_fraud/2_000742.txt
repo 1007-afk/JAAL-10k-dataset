@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit from FreeCash Rewards. Congratulations! You've won a ₹15,000 cashback prize in our Diwali promotion!
+receiver: FreeCash Rewards? I don’t remember entering any contest. Is this legit?
+caller: Absolutely, sir! It’s a completely genuine promotion. To claim your ₹15,000, we just need to verify your bank details for the transfer. It's a small security process.
+receiver: Bank details? That sounds a bit risky. Why can't I just withdraw it to my FreeCash Rewards wallet?
+caller: Due to new RBI guidelines, sir, we have to directly transfer the winnings to your bank account. Very simple - just tell me your bank name, account number, and IFSC code, and I’ll process it right away. We'll also send you an OTP to verify.
+receiver: Okay, let me check... my bank is HDFC. Account number is… wait, hold on a second. I’m getting a weird feeling about this. You’re absolutely sure this is FreeCash Rewards and not some scam?
+caller: Sir, please don't worry. Just provide the details, and we’ll process your reward immediately. We only have a limited number of slots available for this verification process, so don't delay!

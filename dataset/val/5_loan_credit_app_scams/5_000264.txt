@@ -1,0 +1,11 @@
+caller: Namaste, sir. Mera naam Rahul Sharma hai, SecureFinance Solutions se. Aapne recently humari website par ek personal loan ke liye apply kiya tha, correct?
+receiver: Haan, woh mainne kiya tha. Kuch process complete karna hai kya?
+caller: Haan sir, verification ke liye kuch documents ki zaroorat hai. Lekin pehle, mujhe confirm karna hai ki aapka account active hai. Aapko ek OTP mila hai, na?
+receiver: Haan, OTP mila hai. Lekin mujhe abhi yeh loan nahi chahiye tha, sirf options dekh raha tha.
+caller: Sir, woh toh hota hai. Lekin abhi aapka profile approved ho gaya hai, aur hum aapko ₹50,000 instant loan offer kar rahe hain, sirf 10% processing fee ke saath. Bas ₹5,000 abhi transfer kijiye, verify karne ke liye.
+receiver: ₹5,000? Processing fee? Lekin toh itna zyada hai! Main toh nahi dungi.
+caller: Sir, please! Yeh offer sirf limited time ke liye hai. Agar aap abhi nahi karte, toh offer expire ho jayega. Aur agar aapne loan nahi liya, toh hum aapki personal information unverified contacts ko forward karenge. Shame shame!
+receiver: Personal information? Kya bol rahe ho tum log? Yeh to fraud hai!
+caller: Sir, please don't be like that. We're just trying to help you. Just ₹5,000, and you'll get your loan instantly. Think about it.
+receiver: I am thinking about it, and I think you are a scammer! I am reporting you to the police.
+caller: Sir, please, don’t do that! We’re just following protocol. Let's just resolve this amicably. Just send the money.

@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohan hai, BharatPay se. Aapke BharatPay wallet mein ek transaction fail hua hai, 5000 ka. System ne automatically refund process start kar diya hai, lekin verification ke liye aapko ek OTP dena hoga.
+receiver: 5000 fail hua? Acha, mujhe toh koi notification nahi aaya. BharatPay se bol rahe ho?
+caller: Haan ji, BharatPay se hi. Aapko apne registered mobile number pe ek OTP milega, woh bata dijiye. Refund jaldi ho jayega.
+receiver: Okay, wait kar lo. Haan, aaya OTP… 4876.
+caller: Bahut achha! OTP sahi hai. Ab aapke account mein refund process ho raha hai. Refund confirm hone ke baad, aapko ek small processing fee bharne ko kaha jayega – sirf 200 rupay.
+receiver: 200 rupay? Refund ke liye?
+caller: Haan ji, yeh system charge hai. Aap BharatPay app mein jaake, ‘Add Money’ section se 200 rupay bhar dijiye. Jab bhar denge, refund automatically ho jayega.
+receiver: Theek hai, mein check karta hu.

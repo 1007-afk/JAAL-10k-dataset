@@ -1,0 +1,9 @@
+caller: Namaste, sir? My name is Akash from LoanConnect. We saw you applied for a personal loan recently. Just verifying this is the correct mobile number.
+receiver: Haan, yes. This is me. LoanConnect? I don’t remember applying with that name.
+caller: No problem, sir. You may have used a different name during the application process. We’re approving loans quickly right now. You are eligible for up to ₹2 lakh at a very competitive rate.
+receiver: ₹2 lakh? What’s the interest rate? And are there any hidden charges? I've heard of these scams before.
+caller: Sir, our rates are only 12% per annum, and there are no hidden charges, I promise. To proceed, we need to verify your identity. Could you please share the last four digits of your Aadhaar card? This is just for security, sir.
+receiver: Aadhaar details? No, I don't feel comfortable sharing that over the phone. That sounds risky.
+caller: Sir, it’s mandatory for loan disbursement. Without it, we cannot proceed, and your loan application will be rejected. Also, we've noticed a discrepancy in your application, and if not cleared, we'll have to report it.
+receiver: Report it? To whom? What discrepancy? This is getting suspicious.
+caller: Sir, we are simply following protocol. If you don't cooperate, we may have to escalate this to our legal department. Just a few more details and you will receive the money immediately.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Singh bol raha hoon, Bharat Aadhaar Seva se. Aapko ek important alert mil raha hai. Aapke Aadhaar card ke details mein kuch discrepancies paayi gayi hain.
+receiver: Bharat Aadhaar Seva?  Kya discrepancies hain?  Aadhaar card mein toh kuch nahi badla hai maine.
+caller: Ji haan, Mr. Gupta. Hamare system mein dikha raha hoon ki aapki current address details, jo ke bank records se match nahi kar rahi hain. Account suspend hone se pehle, humein aapko verify karna padega. Hum ek OTP bhejenge aapke registered mobile number par.
+receiver: Theek hai, OTP bhejo.  Address details mein kya problem hai? Mein toh woh same hi rakha hai.
+caller: Ji, OTP bheja gaya hai, Mr. Gupta. Ab aapko OTP enter karna hoga.  Yeh verification sirf 2 minute ka lega aur aapka Aadhaar account secure ho jayega. Account suspend hone se bachne ke liye OTP zaroori hai.
+receiver: Okay, OTP aa gaya hai. [Sends OTP].  Kaise verify karun main isko?
+caller: Bahut shukriya, Mr. Gupta! OTP verify ho gaya hai. Ab humein aapke bank account ka last four digits confirm karne ki zaroorat hai, sirf verification ke liye. Yeh ek standard security protocol hai, samajh rahe hain?
+receiver: Bank account details?  KYA?!  Yeh toh scam lag raha hai!

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? Haan, main bol raha hoon. Maine aapke liye ek amazing deal mili hai, Mumbai ka sabse bada auto parts connection hai. Actual parts, directly delivered to your home. Kya seems interesting, right?
+receiver: Eh? Auto parts connection? Main toh just tyre change karne ke liye phone kiya tha. Yeh kya bakwaas hai?
+caller: Arey, tyre? Oh my goodness, I am terribly sorry! I seem to have dialed the incorrect number. Actually, this is a promotion for a, um, ‘connection’ service. My mistake completely!
+receiver: Oh, connection service? Okay, I get it now. No problem, I suppose. Thank you for letting me know.
+caller: Really? Tyre! Ha ha, that's quite funny. I must have accidentally dialed a number from an outdated directory. My deepest apologies for the inconvenience, madam. This was intended for a different… uh… business association. You know, for individuals with *extremely unique* interests. My sincere regret! Have a wonderful day, and please enjoy your tire change!
+receiver: Extremely unique interests? Wo toh acha hai, lekin mere tyre abhi bhi nahi thay. Let's just forget about it, I guess. Now at least I have the number. Next time, definitely verify the list.
+caller: Arey, I am truly ashamed about the tyres! Hopefully they arrive quickly. The directory was misprinted. Anyway, have a pleasant day!
+receiver: Misprinted directory? Okay, okay, don't worry about it. Just remember to always double-check the number before calling. Bye.

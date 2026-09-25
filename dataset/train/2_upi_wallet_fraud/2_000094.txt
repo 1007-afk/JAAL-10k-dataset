@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? This is Anjali calling from BharatPe Customer Support. We've noticed some unusual activity on your BharatPe account and need to verify a recent transaction to prevent any potential fraud.
+receiver: BharatPe? Haan, mein hoon Verma. Transaction? Kya hua?
+caller: Sir, a payment of ₹7,500 was initiated from your account to a new merchant just now. Our system flagged it because it’s significantly higher than your usual transaction amount. To ensure your account’s security, we need to quickly verify this transaction. Can you confirm if you initiated this payment?
+receiver: ₹7,500? Nahin, bhai! Mein toh koi payment nahi kiya. Yeh to galat transaction hai!
+caller: I understand your concern, sir. Don't worry, we'll sort this out. To reverse the transaction and secure your account, we need to complete a quick security verification. We’ll send a one-time password (OTP) to your registered mobile number – [Receiver’s Phone Number]. Please share the OTP with me so we can immediately block the payment and investigate further.
+receiver: OTP? Kaise bhejooge? Aur main aisa OTP share nahi karunga. Yeh toh scam lag raha hai! BharatPe aise OTP maangta hi nahin.
+caller: Sir, please don't panic. This is a standard procedure to protect your funds. It’s crucial to act fast to prevent further unauthorized access. The OTP is sent directly from BharatPe’s secure servers. Just share it, and we'll resolve this immediately. For extra security, could you also confirm the last three digits of the UPI linked to your BharatPe account?

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Verma? I'm calling from 'Global Trade Solutions'. We have a very exciting opportunity for you involving cryptocurrency trading.
+receiver: Global Trade Solutions? I haven't heard of them. What kind of opportunity is this?
+caller: Absolutely! We’re partnering with a new blockchain platform, StellarX, that’s offering incredibly high returns – up to 3% daily – on initial investments. It’s a limited-time offer, just for select individuals. To get started, we need to verify your account details and set you up with a personalized trading bot.
+receiver: 3% daily? That sounds too good to be true. What’s the minimum investment? And how secure is StellarX?
+caller: The minimum investment is just ₹5000, to start with. StellarX is fully audited and highly secure – it’s the future of crypto trading, truly! To complete your verification and activate your bot, we just need you to send ₹500 as a processing fee to this UPI ID: securetrades@axisbank. It’s a small fee to ensure your account is properly registered and protected.
+receiver: ₹500 processing fee? Now you're asking for money upfront? Why can't I just try it with a small amount first without paying anything?
+caller: That’s a great question, Priya! This fee ensures your account is prioritized and linked directly to a senior account manager who will personally oversee your trading. It also covers the activation cost of your specialized AI trading bot. Think of it as a small investment in your future financial success! Just a quick ₹500, and you’ll be on your way to earning significant returns.
+receiver: Hmm…I'm still not convinced. I need to do some research on StellarX first.
+caller: Understandable! But please hurry, Priya

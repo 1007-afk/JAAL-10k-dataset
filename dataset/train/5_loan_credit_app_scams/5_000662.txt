@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, mai LoanExpress se bol raha hoon. Aapko urgent loan ki zaroorat hai kya? Kuch bhi emergency, medical bill ya kuch aur?
+receiver: Haan, thoda urgent hai. Kitna loan mil sakta hai aur interest kitna hoga?
+caller: Bilkul! Aapko ₹50,000 tak ka loan mil sakta hai, sirf 2% processing fee ke saath. Aur interest rate market se kam hai. Apna naam aur aadhaar number bataiye taaki mai aapke liye check kar sakun.
+receiver: ₹50,000? 2% processing fee? It sounds a bit high. Aur Aadhaar number share karna safe hai?
+caller: Sir, yeh offer sirf limited time ke liye hai. Processing fee government regulations ke according hai. Aadhaar se hum verify karte hain ki aap eligible hain ya nahi, aur data completely secure hai. Trust me, sir.
+receiver: Okay, fine. My name is Sanjay Verma and my Aadhaar number is 123456789012.
+caller: Thank you, Sanjay Verma ji. Aapka account approved ho gaya hai! Ab aapko ₹50,000 mil sakte hain. Par, ₹10,000 ka upfront security deposit jama karna padega. Isko Paytm ya Google Pay se send karein.
+receiver: ₹10,000 security deposit? Loan lene se pehle deposit jama karna padega? That's not right!

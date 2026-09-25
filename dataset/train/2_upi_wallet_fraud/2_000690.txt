@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Ankit from PhonePe Payments. We've detected some unusual activity on your account and need to verify a recent transaction to ensure your funds are secure.
+receiver: PhonePe? What unusual activity? I haven't done anything out of the ordinary.
+caller: Yes, Madam. A small payment of ₹250 was attempted to a new merchant, possibly a fraudulent transaction. To cancel it and protect your balance, we need to quickly confirm some details. Can you please confirm the last four digits of the bank account linked to your PhonePe wallet?
+receiver: Why do you need my bank account details? That sounds risky. PhonePe never asks for that.
+caller: Madam, it’s standard security protocol. We’re preventing a potential loss of funds. The transaction is currently pending, and we need to verify it before it completes. We just need those four digits, and we’ll reverse the transaction immediately. It’s for your safety.
+receiver: No, I'm not giving you my bank details. I'm going to report this to PhonePe customer service directly. This is clearly a scam.
+caller: Madam, please don't be hasty. We’re trying to help you avoid a significant financial loss. If you refuse to cooperate, we may have to temporarily suspend your account for security reasons. Just those four digits, please.

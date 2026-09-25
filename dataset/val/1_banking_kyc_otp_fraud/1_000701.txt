@@ -1,0 +1,18 @@
+caller: Hello? Kaise haal hai? Main Rohan Kumar hoon, Digital Solutions India se. Aapse ek important matter per baat karna chahti hoon. Aapne recently online ek course apply kiya tha, na?
+receiver: Haan, main Anjali Verma hoon. Apply kiya tha... kis course ka? Mujhe yaad nahi aa raha.
+caller:Haan, Digital Marketing ke liye, sahi? Aapne Udemy par apply kiya tha, hai na?  Mujhe sirf yeh check karna hai ki woh account aapki hai ya nahin.  Aapke profile mein ek small problem hai, bas woh solve karna hai.
+receiver:  Oh, really? Mein toh forgetful ho ti hoon.  Mujhe yaad nahi aaya.  Kab apply kiya tha?  Aur yeh profile problem kya hai?
+caller:  Aapne December 2022 mein apply kiya tha, Anjali.  Profile ko update karne ke liye, mujhe aapke bank account ki last four digits chahiye.  Yeh sirf verification ke liye hai, bilkul safe hai.
+receiver:  Bank account ki last four digits?  Mujhe thoda dubara sunna padega.  Aapne kyun bank account number nahi puchna bola tha?
+caller:  Sorry, mistake!  Aapne jo course apply ki, usmein payment process mein yeh required hai.  Bas hume yeh pata chalna hai ki account aapki hai.  Agar aapko koi doubt hai, to aap Digital Solutions India ko call kar sakte hain - number hai 9876543210.
+receiver:  Okay, okay.  Mein abhi soch rahi hoon.  Banking information share karna mujhe thoda uncomfortable lagta hai.
+caller:  Mujhe samajh mein aata hai.  Par yeh course bahut popular hai, aur agar aap apply nahi karte toh kisi aur ne apna account use kar sakta hai.  Isliye, yeh verification bahut zaroori hai.  Aap apne decision ko appreciate karte hain.
+caller: Hello? Kaise haal hai? Main Rohan Kumar hoon, Digital Solutions India se. Aapse ek important matter per baat karna chahti hoon. Aapne recently online ek course apply kiya tha, na?
+receiver: Haan, main Anjali Verma hoon. Apply kiya tha... kis course ka? Mujhe yaad nahi aa raha.
+caller:Haan, Digital Marketing ke liye, sahi? Aapne Udemy par apply kiya tha, hai na?  Mujhe sirf yeh check karna hai ki woh account aapki hai ya nahin.  Apekh profile mein ek small problem hai, bas woh solve karna hai.
+receiver:  Oh, really? Mein toh forgetful ho ti hoon.  Mujhe yaad nahi aaya.  Kab apply kiya tha?  Aur yeh profile problem kya hai?
+caller:  Aapne December 2022 mein apply kiya tha, Anjali.  Profile ko update karne ke liye, mujhe aapke bank account ki last four digits chahiye.  Yeh sirf verification ke liye hai, bilkul safe hai.
+receiver:  Bank account ki last four digits?  Mujhe thoda dubara sunna padega.  Aapne kyun bank account number nahi puchna bola tha?
+caller:  Sorry, mistake!  Aapne jo course apply ki, usmein payment process mein yeh required hai.  Bas hume yeh pata chalna hai ki account aapki hai.  Agar aapko koi doubt hai, to aap Digital Solutions India ko call kar sakte hain - number hai 9876543210.
+receiver:  Okay, okay.  Mein abhi soch rahi hoon.  Banking information share karna mujhe thoda uncomfortable lagta hai.
+caller:  Mujhe samajh mein aata hai.  Par yeh course bahut popular hai, aur agar aap apply nahi karte toh kisi aur ne apna account use kar sakta hai.  Isliye, yeh verification bahut zaroori hai.  Aap apne decision ko appreciate karte hain.

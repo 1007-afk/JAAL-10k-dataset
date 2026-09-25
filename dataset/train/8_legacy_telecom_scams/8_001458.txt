@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Suno, humein aapke mobile number par ek amazing offer aaya hai! Hum ek Samsung Galaxy S23 Ultra auction kar rahe hain, yaani SMS auction! Yeh bahut hi interesting hai, samajh?
+receiver: Namaste! Mein theek hoon, dhanyavaad. Samsung Galaxy S23 Ultra?  Haan, sunaa hai! Kaise karte hain?
+caller: Bahut easy! Aap bas 'SAMSUNG' message karein aur 98765 ke number par jhootein. Yeh totally free hai, koi charges nahi lagtegi!  Aapko join karne ki zaroorat nahin hai, bas message karein.  Aapko invite kar denge.
+receiver: Okay,  'SAMSUNG' message kar dunga.  Par mujhe bataiye, ye auction kitne time ka hota hai?
+caller:  Ye sirf 15 minutes ka hota hai, aur sab kuch SMS se handle hoga.  Humne sirf 5 Galaxy S23 Ultra available hain,  aur yeh bahut hi demand mein hain.  Yeh ek opportunity hai jo aapko miss nahi karna chahiye.  Jaise hi aap message bhejein, aapko confirmation message mil jaayega.
+receiver: 5 Galaxy S23 Ultra? Wow!  Mujhe jitna bhi paise lagenge,  woh bhi poora mil jayenge?
+caller:  Nahi, bhai! Paise nahi lagenge! Ye ek chance hai kisi expensive phone ko free mein jeetne ka!  Phir aapko SMS se bidding instructions mil jayenge.  Abhi toh sirf 4 bache hain, jaldi karo!
+receiver:  Jaldi karo? Kahan jaa rahi huon?  Confirmation message ka wait kar raha hoon.  Yeh toh bahut exciting hai!
+caller:  Haan, jaldi karo, bhai!  Agar aapko confirmation message nahi mila, toh matlab yeh phone aapka nahi hai.  Hurry up!  Just send ‘SAMSUNG’ to 98765.

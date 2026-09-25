@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash from PhonePe Customer Care. We've flagged a cashback offer on your account that needs urgent verification.
+receiver: PhonePe? Cashback offer? What offer?
+caller: Yes, a special reward for loyal users! You’ve been selected for a ₹10,000 cashback offer. To claim it, we just need to verify a few details and process a small refundable fee of ₹250 to cover the processing charges.
+receiver: ₹10,000 cashback? Processing fee? What’s the catch? Sounds a little fishy.
+caller: No catch at all, madam! This is a genuine promotional offer. Many customers have already claimed their rewards. Just provide the OTP you'll receive on your registered mobile number, and we'll activate the cashback. It's a simple process to secure your reward.
+receiver: OTP? Wait a minute. Why do I need to pay a fee for a cashback offer? I’m going to call PhonePe directly to confirm this.
+caller: Madam, the fee is standard procedure to prevent fraudulent claims. Don't miss out on your ₹10,000 cashback! It’s a limited-time offer. Just the OTP, please. Time is running out!
+receiver: No, thank you. I'm not providing any OTP. This is a scam. Goodbye.

@@ -1,0 +1,7 @@
+caller: Namaste! Sir, is this Raj Sharma? We’re calling about a pending refund from Paytm Mall for an order you placed last week.
+receiver: Haan, bolie. Paytm Mall? Mainne order toh kiya tha, lekin refund ka koi message nahi aaya mujhe.
+caller: Ji sir, transaction dekhiye. ₹12,500 refund process mein hai, lekin OTP verification pending hai. ₹50 security deposit ke taur pe deposit karna padega, sir. Refund confirm ho jayega.
+receiver: ₹12,500? Itne paise ka order toh mainne nahi kiya tha. Aur security deposit? Ye kya baat hai? Main OTP kabhi nahi de sakta, sir.
+caller: Sir, dekhiye, fraud hone se pehle verify karein. ₹50 sirf security ke liye hai, Paytm ka rule hai. Humko OTP nahi chahiye, sirf ₹50 Paytm wallet mein deposit karein. Tabhi refund confirm ho jayega. Check kar lijiye apna Paytm app.
+receiver: ₹50 Paytm wallet mein deposit karne ko bol rahe ho? ₹12,500 ka refund aur ₹50 deposit? Something doesn't feel right. Bataiye, Paytm Mall se aapka number kya hai? Main wahaan check karta hoon.
+caller: Sir, hum helpline pe busy hai, right now nahi bata sakte. Jaldi karein, sir, otherwise refund process reverse ho jayega aur aapke ₹12,500 chala jayenge.

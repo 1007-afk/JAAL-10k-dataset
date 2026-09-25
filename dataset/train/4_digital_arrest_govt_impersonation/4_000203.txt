@@ -1,0 +1,7 @@
+caller: Namaste! Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, lekin jaise jaise check kiya toh usme illegal items nikale.
+receiver: Illegal items? Kya? Maine toh kabhi parcel order bhi nahi kiya.
+caller: Ji sir, parcel aaya tha, lekin usme narcotics mile hain. Ab aapko inquiry complete karni padegi aur fine bhar payega. ₹75,000 fine bhar den, warna case register hoga.
+receiver: ₹75,000? Lekin main toh kuch bhi nahi order kiya. Yeh toh galat hai. Mujhe koi parcel nahi mila.
+caller: Sir, parcel track ID number bataiye. Phir main check karunga. Agar aap cooperate karenge toh case jaldi close ho jayega. Aur video call pe rehmen, zyada baat nahi karni hai, nahi toh case aur complicate ho jayega.
+receiver: Koi parcel track ID number nahi hai mere paas. Aur main video call pe kyun aunga? Main police station jaunga aur complaint karunga. Yeh scam hai!
+caller: Sir, please! Police station jaane se kuch nahi hoga, case toh register ho chuka hai. ₹75,000 bhar dein, aur case close ho jayega. Aur video call pe rahi baat, toh yeh procedure hai, isse aapko safe rahenge. Call record bhi nahi hoga.

@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, main Rohan Sharma hoon, HDFC Bank se baat kar raha hoon. Kya aapko bank account open karna hai?
+receiver: Namaste Rohan, thanks for calling. Mera naam Priya Devi hai. Haan, actually mujhe ek fresh account open karna hai, par abhi toh sirf basics samajhne wala hoon.
+caller: Wah! Priya ji, yeh bahut mazaa came. Hamare paas ek super special offer hai sirf HDFC ke premium customers ke liye. Agar aapka koi account hara hai, toh main dekh sakta hun ki aapko yeh offer pasand aayega ya nahin.
+receiver: Oh, offer? Suno, HDFC mein mera account hai. Koi details check karne mein koi problem nahi hai. Kya aapko kya chahiye?
+caller: Excellent Priya ji! HDFC mein aapka account hai, yeh sunke maza aa gaya. Bas mujhe aapke account number ya phir aapki registered mobile number chahiye hogi, jisse main aapki eligibility check kar sakta hun. Yeh aapki security ke liye hi hai, agar kisi aur ko pata na pade.
+receiver: Account number toh itna easy nahi hai dete. Mobile number se dekhte hain kya hota hai? Ya phir aap email id pe bhi details send kar sakte hain, jisse main verify kar saku ki yeh HDFC se hi call hai.
+caller: Priya ji, aapki security ka matlab hai ki hum aapko mobile number se rahat dikhayen. Email id par pata bhejna secure nahi hai. Main aapko assure karta hun ki yeh HDFC ki official line se hi call hai. Aap apni registered mobile number bataiye, main eligibility check karunga.
+receiver: Okay Rohan. Meri registered mobile number hai 8765432109. Check karo mujhe offer hai ya nahi.

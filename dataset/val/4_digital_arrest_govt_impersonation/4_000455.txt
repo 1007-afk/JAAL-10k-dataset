@@ -1,0 +1,9 @@
+caller: Namaste. Is this Mrs. Verma? We are calling from the Directorate of Revenue Intelligence, DRI.
+receiver: Haan, main Mrs. Verma hi hoon. Bolo, kya baat hai?
+caller: Ma’am, we've detected some suspicious transactions linked to your bank account. It appears funds may have been used for illegal cross-border trading.
+receiver: Illegal trading? Yeh kya keh rahe ho aap? Main toh itni cheezein nahi karti.
+caller: We understand, ma'am. However, standard protocol requires us to investigate. To clear this up quickly and avoid further action, we need you to verify a few details and pay a small processing fee of ₹750.
+receiver: ₹750? Processing fee? For what? Why can’t I just talk to a senior officer?
+caller: Ma'am, this is to ensure the security of the transaction while we review your records. You can deposit this amount using UPI to the number 9876543210. Once the payment is confirmed, we’ll provide you with a reference number.
+receiver: Wait a minute. Is this a legitimate number? Why do I have to pay anything to clear my name? I’m going to call the DRI directly to verify this.
+caller: Ma’am, please do not delay. These investigations are time-sensitive. If you don’t settle this now, we'll have to escalate the matter to the higher authorities and issue a warrant.

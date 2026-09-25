@@ -1,0 +1,8 @@
+caller: Hello, this is Neeraj calling from Axis Bank’s fraud prevention department. We’ve noticed a suspicious transaction attempt of ₹7,500 from your linked Paytm wallet.
+receiver: Oh no! ₹7,500? Kya hua? Haan ji, mujhe toh bahut dar lag raha hai. My account ka kya hoga?
+caller: Exactly! That’s why we’re calling you immediately. To secure your account, we need to verify your details. This is a standard protocol to prevent unauthorized access. Can you please confirm the last four digits of your Aadhaar card for verification?
+receiver: Aadhaar card? Lekin woh toh confidential hai na? Mujhe toh kuch shaq ho raha hai. Why do you need my Aadhaar?
+caller: It’s absolutely necessary, sir. We need to ensure it’s you making the call. Without this verification, we’ll have to temporarily suspend your account to protect your funds. This is for your safety only. Please provide the last four digits; it’s just a formality.
+receiver: Okay, okay… it's 4578. But are you sure this is Axis Bank?
+caller: Thank you, sir. That confirms your identity. Now, to fully secure your account, we need to send a one-time password (OTP) to your registered mobile number. Please share that OTP with me as soon as you receive it.
+receiver: OTP? Okay, waiting for the OTP…

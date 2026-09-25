@@ -1,0 +1,7 @@
+caller: Hello, is this Priya speaking? I am calling from 'SwiftCash Loans'. We noticed you recently inquired about a quick loan online. Congratulations! You've been pre-approved for a loan of up to ₹2 lakhs! Just need a few details to finalize.
+receiver: Haan, main Priya hoon. Loan ke baare mein tha na? ₹2 lakhs?
+caller: Yes, Priya ji! A fantastic offer! To activate your loan, we require a small verification fee of ₹5,000 to prove your seriousness. It will be credited back to you once the loan is disbursed. Use UPI: swiftcash@paytm.
+receiver: ₹5,000 verification fee? Loan se pehle? Yeh toh thoda ajib lag raha hai.
+caller: Priya ji, please understand, this is standard procedure to prevent fraud. Otherwise, we might have to cancel your pre-approval. Many people are waiting for this chance. Don't miss out! Send the UPI and I’ll give you the loan confirmation number.
+receiver: Okay, fine. I'll send the ₹5,000. But promise me the loan will be approved immediately after.
+caller: Absolutely, Priya ji! A promise! Now, just to confirm, can you share your full address and the last four digits of your bank account number? It’s just for delivery purposes.

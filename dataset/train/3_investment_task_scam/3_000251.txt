@@ -1,0 +1,20 @@
+caller: Namaste Sir, main HDFC Life se baat kar raha hoon. Aapke liye ek super amazing scheme aaya hai. Kaise hain aap?
+receiver: Namaste, achcha hoon. HDFC Life se hain? Batao scheme ka naam kya hai? Thodi jaldi kaam mein lage, mujhe call khulta rehna hai.
+caller: Ji sir, yeh "Golden Future Plan" hai. Yeh plan aapki family ka future secure karne ke liye banaaya gaya hai. Ismein aapko guaranteed interest rate milega, jo ki abhi 7.5% hai. Aur sir, aapko tax benefits bhi milegi, jo bahut important hai.
+receiver: 7.5% interest rate? Tax benefits bhi? Achha, bataiye abhi kis mein invest karna hai? Bina detail ke pata chalne ke bina kuch decide nahin kar sakta.
+caller: Sir, yeh plan aapko mutual funds aur fixed deposits dono mein invest karne ka option deta hai. Aap apne risk tolerance ke hisab se select kar sakte hain. Mutual funds mein aapko average 8% to 10% ka return milega, aur fixed deposits mein 6% to 8%.
+receiver: Mutual funds… Fixed Deposits… Thode confusion mein daal rahe ho. Jo risk free hai woh bataiye fir. Aur aap ne kaha tha 7.5% interest rate, woh kis scheme mein hai?
+caller: Sir, fixed deposit mein aapko 7.5% ka interest rate milega, jo ki absolutely risk-free hai. Aur mutual funds mein risk hai, lekin humne aapke liye top rated fund managers ko selected kiya hai. Woh aapko sure profit denge.
+receiver: Top rated fund managers… Risk hai? Fir yeh scheme kab shuru hua? Aur aapka company ka name kya hai? Warna main abhi call khatam karta hoon.
+caller: Sir, yeh scheme kal se shuru hua hai, mera company "Shanti Financials" hai. Aur aapko assurance de raha hoon ki yeh plan aapki family ke liye best hai. Aapko sirf Rs. 5000 ka initial investment karna hoga.
+receiver: Rs. 5000? Bas itna? Aur yeh plan genuinely risk-free hai? Mujhe koi extra information chahiye.
+caller: Namaste Sir, main HDFC Life se baat kar raha hoon. Aapke liye ek super amazing scheme aaya hai. Kaise hain aap?
+receiver: Namaste, achcha hoon. HDFC Life se hain? Batao scheme ka naam kya hai? Thodi jaldi kaam mein lage, mujhe call khulta rehna hai.
+caller: Ji sir, yeh "Golden Future Plan" hai. Yeh plan aapki family ka future secure karne ke liye banaaya gaya hai. Ismein aapko guaranteed interest rate milega, jo ki abhi 7.5% hai. Aur sir, aapko tax benefits bhi milegi, jo bahut important hai.
+receiver: 7.5% interest rate? Tax benefits bhi? Achha, bataiye abhi kis mein invest karna hai? Bina detail ke pata chalne ke bina kuch decide nahin kar sakta.
+caller: Sir, yeh plan aapko mutual funds aur fixed deposits dono mein invest karne ka option deta hai. Aap apne risk tolerance ke hisab se select kar sakte hain. Mutual funds mein aapko average 8% to 10% ka return milega, aur fixed deposits mein 6% to 8%.
+receiver: Mutual funds… Fixed Deposits… Thode confusion mein daal rahe ho. Jo risk free hai woh bataiye fir. Aur aap ne kaha tha 7.5% interest rate, woh kis scheme mein hai?
+caller: Sir, fixed deposit mein aapko 7.5% ka interest rate milega, jo ki absolutely risk-free hai. Aur mutual funds mein risk hai, lekin humne aapke liye top rated fund managers ko selected kiya hai. Woh aapko sure profit denge.
+receiver: Top rated fund managers… Risk hai? Fir yeh scheme kab shuru hua? Aur aapka company ka name kya hai? Warna main abhi call khatam karta hoon.
+caller: Sir, yeh scheme kal se shuru hua hai, mera company "Shanti Financials" hai. Aur aapko assurance de raha hoon ki yeh plan aapki family ke liye best hai. Aapko sirf Rs. 5000 ka initial investment karna hoga.
+receiver: Rs. 5000? Bas itna? Aur yeh plan genuinely risk-free hai? Mujhe koi extra information chahiye.

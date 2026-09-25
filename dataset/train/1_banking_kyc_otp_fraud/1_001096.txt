@@ -1,0 +1,7 @@
+caller: Namaste, main Airtel Xstream se baat kar raha hoon. Aapke Airtel Xstream account par kuch suspicious activity dikhi gayi hai. Account secure rakhne ke liye, humein aapki KYC update karne ki zaroorat hai.
+receiver: Airtel Xstream? Kya hua? Koi suspicious activity? Mujhe toh koi notification nahi mila. Mera naam Rohan Verma hai.
+caller: Ji, Mr. Verma. Aapko notification email se mila hoga, lekin kabhi kabhi email deliver nahi hota hai. Account secure karne ke liye, mujhe aapka Aadhaar card number aur ek OTP chahiye jo aapke registered mobile number par jayega.
+receiver: Aadhaar card number? Zaroorat kya hai? Main toh sirf Xstream dekh raha tha. OTP toh main check karta hoon, par Aadhaar number kyun dena hai?
+caller: Sir, ye Airtel ka standard procedure hai. Account ki security ke liye, hamein identity verify karna padta hai. Agar aap verify nahi karenge, toh account suspend ho sakta hai. Agar aapko kuch problem hai toh aap apne trusted relative se baat kar sakte hai.
+receiver: Account suspend? Theek hai, theek hai. Meri Aadhaar card number 9876543210 hai. Ab OTP check karta hoon.
+caller: Thank you, Mr. Verma. Ab aapko ek confirmation ke liye bank account number bataiye, jismein aapka Xstream subscription linked hai. Ye last step hai, promise.

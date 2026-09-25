@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev Kumar? I’m calling from QuickCredit Solutions. We’re offering instant loans, no credit check needed. Just tell me, what do you need the money for?
+receiver: Yes, speaking. I’m a bit short on funds this month. What kind of loans do you offer?
+caller: We have personal loans up to ₹75,000, Rajeev ji. Perfect for unexpected expenses. The process is super simple. Just a few details and you're approved. Can you confirm your date of birth and Aadhaar number for verification?
+receiver: Wait a minute… Aadhaar number? Isn’t that a bit risky over the phone?
+caller: Sir, it's just a standard security protocol. Without it, we can’t confirm your identity and process the loan. Don't worry, your data is completely secure with us. Once approved, we’ll transfer the amount to your bank account. Failure to pay the initial processing fee of ₹5000 will result in consequences.
+receiver: Consequences? What kind of consequences?
+caller: Rajeev ji, we don’t want any problems. We'll have to report your default to your contacts and send them some compromising photos. We don’t want to do that, so please send the ₹5000 processing fee to this UPI ID: quickcreditpay@xyz.

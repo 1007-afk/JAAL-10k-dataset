@@ -1,0 +1,24 @@
+caller: Namaste sir, main Bharat Healthcare Institute se baat kar raha hoon. Aapne recently Corona vaccine ke liye online application diya tha, isko verify karne ke liye call kar rahe hain. Kaise hain aap?
+receiver: Main theek hoon, thanks. Batao, kya hua?
+caller: Achaa, aapka name Rahul Verma hai na? Registration number hai ABC56789012.
+receiver: Haan, Rahul Verma hoon main. Registration number sahi hai.
+caller: Dhanyavaad Rahul ji. Verification ke liye, kya aap mujhe apni birthdate bata sakte hain jo aapne form fill karte samay deya tha?
+receiver: Hmm, mein jaanch karta hoon... Woh toh 10th January 1985 hai.
+caller: Shukriya Rahul ji. 10th January 1985.  Aapke mobile number ke last 4 digit kya hain?
+receiver: Mobile number ka last 4 digit 2345 hain.
+caller: Ank you, Rahul ji. 10th January 1985 aur last 4 digit 2345. Sir, aapke records ab check ho rahe hain. Agar aapko vaccine chahiye toh, humein sirf ₹500 charge lagana padega, delivery free hai. Kaise hai aap?
+receiver: Fir ₹500?  Kyun?
+caller:  Sir, yeh sirf vaccine neet work karne ke liye hai, agar aap reject karenge toh paisa refund ho jayega. Iska koi surcharge nahi hai.
+receiver: Haan, thoda kamaniya hai.
+caller: Namaste sir, main Jeevan Raksha Kendra se bol raha hoon. Aapne Covid-19 ke liye free vaccination register kiya tha, isko confirm karne ke liye call kar rahe hain. Aap kaise hain aaj?
+receiver: Main acha hoon, thank you.  Kyon call kiya?
+caller: Acha, aapka naam Priya Devi hai, hai na? Registration number hai XYZ12345678.
+receiver: Haan, Priya Devi hoon main. Registration number bhi sahi hai.
+caller: Dhanyavad Priya ji. Verification ke liye, aap mujhe apna age bata sakte hain jo aapne form bharte samay likha tha?
+receiver: Mein dekhta hoon… Woh 31st December 1978 hai.
+caller: Shukriya Priya ji. 31st December 1978.  Aur aapke mobile number ke last 4 digits kya hain?
+receiver: Mobile number ka last 4 digits 9012 hain.
+caller: Ank you Priya ji. 31st December 1978 aur last 4 digits 9012. Sir, aapke records ab check ho rahe hain. Vaccine free hai lekin aapko ₹200 stamp duty lagega, ye India government ka order hai.  Aapko agree karna hoga.
+receiver: Stamp duty?  Yeh kya bol rahe hain?
+caller: Sir, yeh vaccine ko deliver karne ke liye hota hai, yeh government ka rule hai. Koi tension mat le.
+receiver:  Haan, mein soch raha hoon.

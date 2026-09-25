@@ -1,0 +1,6 @@
+caller: Hello! This is regarding a cashback offer from Paytm Mall. You’ve been selected for a ₹500 cashback on your next purchase! To activate it, we need to verify your Paytm wallet details.
+receiver: Oh really? That's great! What details do you need?
+caller: Just your registered mobile number and a one-time password that will be sent to your Paytm app. We just need to confirm you're the rightful owner.
+receiver: Okay, my mobile number is 9876543210. I'll check my Paytm app for the OTP.
+caller: Excellent. Once you have the OTP, please read it out to me. It’s just a quick security check. Also, could you confirm the last four digits of your Paytm wallet balance?
+receiver: Hang on a second. Why do you need my wallet balance? Shouldn’t this just be about the cashback? It's starting to feel a little strange asking for that.

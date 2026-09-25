@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh Sharma hai, mai LoanMudra Solutions se baat kar raha hoon. Aapka phone number hamare records mein ek loan application ke saath aaya hai.
+receiver: LoanMudra? Mai to koi loan apply nahi kiya tha.
+caller: Ji sir, ek online form bhar diya tha, shayad aapko yaad nahi. Approve ho gaya hai, Rs. 50,000 ka loan. Lekin verification ke liye kuch details chahiye. Aapka aadhaar card number de sakte hain?
+receiver: Aadhar card number? Woh risky nahi hoga?
+caller: Sir, bilkul secure hai. Hamara app RBI approved hai. Aadhaar se hi confirm hoga ki aap sahi hai. Tabhi loan transfer hoga. Aur ek baat hai, abhi processing fee ke naam pe Rs. 2500 jama karne honge.
+receiver: 2500? Loan toh free tha na?
+caller: Sir, processing charges apply hote hain. Payment karne ke baad aapko OTP milega. Jab OTP confirm ho jayega, toh loan aapke account mein transfer ho jayega. Aapko koi problem hai kya?
+receiver: Main soochta hoon. Mujhe kuch shaq ho raha hai.

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Rajan Sharma? I'm calling from Blue Dart Courier regarding a package addressed to you. There’s a slight issue with customs clearance.
+receiver: Haan, bolhiye. What’s the problem?
+caller: Sir, to clear the package, we need to verify a small payment of ₹2,500 for the processing fee. It's a standard procedure. We can take it through secure payment gateway.
+receiver: ₹2,500? For customs? I didn’t order anything expensive. What’s the tracking number?
+caller: Certainly, sir. The tracking number is BD1234567890. And sir, to avoid any delays, we need that payment urgently. It’s just a one-time fee. We can also guide you through verification steps via a secure link on your phone.
+receiver:  A secure link? I’m a bit hesitant. Can you tell me which item it is and what company sent it?
+caller: Sir, it's a confidential shipment from a major online retailer, we cannot disclose the sender's name due to privacy policies.  But the payment verification process is very simple; just click the link and follow the instructions. It's to ensure your package reaches you safely.
+receiver: Okay, send me the link via SMS. I'll check it carefully before doing anything.
+caller: Absolutely, sir! I'll send the link to your registered mobile number right away. Please act quickly to avoid further delays!

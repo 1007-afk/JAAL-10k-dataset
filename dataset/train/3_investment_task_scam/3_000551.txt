@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? I’m calling from ‘Royal Crypto Investments.’
+receiver: Haan, main Mrs. Kapoor hoon. Bolo?
+caller: Mrs. Kapoor, we have some excellent news! You've been identified as a potential high-earner for our new task-based program. It’s incredibly simple - just rate some mobile apps and watch short videos. Payments are made in Bitcoin.
+receiver: Bitcoin? Aur kitna pay karenge? Aur yeh apps rating ka kaam... legit hai kya?
+caller: Absolutely legitimate! We pay ₹150 per completed task, and you can easily do 10-15 tasks per hour. To start, we need a small verification fee of ₹200 to activate your account and provide you with the task links.
+receiver: ₹200 verification fee? Logon ko free kaam bhi chalu karne ke paise lene padte hain aajkal?  I'm a little hesitant about this.
+caller: Think of it as a small investment in your future income! Once you complete your first few tasks, you'll quickly earn back the ₹200 and start making real money. You can send the verification amount to this UPI ID: 9876543210@ybi.  It’s quick and secure.
+receiver: UPI ID... Okay, wait a minute. Let me check something online first. I will call you back.
+caller: That's perfectly fine, Mrs. Kapoor! Just don’t miss this opportunity – slots are filling up fast. We'll be waiting for your call!

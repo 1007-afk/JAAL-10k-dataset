@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Sharma speaking? We’re calling regarding your recent participation in the ‘WealthGrow’ online task program. You’ve completed several tasks and are eligible for a significant payout! Visit bit.ly/WealthGrowPayout to claim your reward.
+receiver: Woh, WealthGrow? Haan, mujhe yaad hai. Maine kuch tasks kiye the. Payout kitna hai? Bit.ly/WealthGrowPayout? Theek hai, main check karta hoon.
+caller: Fantastic! The total payout is ₹12,500. Very limited time offer! To process the payout, we just need to verify a few details. Can you tell me the last four digits of the bank account you used to register? Just for security, of course.
+receiver: ₹12,500? Bahut achcha! Account number ke last four digits? Hmm… 4567. Acha, isse kya hoga?
+caller: Excellent, 4567! Now, to avoid any transaction errors, could you please confirm your date of birth, sir? Year, month and day only.
+receiver: Date of birth? Haan, 01/01/1985.  Kya yeh safe hai? Mujhe kuch suspicion ho raha hai.
+caller: Perfect, sir! Just one final step. For security purposes, we require a small verification fee of ₹500 to unlock the payout. This is to ensure that the funds are being sent to the correct account. You can pay through UPI – 9876543210@upi.
+receiver: ₹500? Verification fee? Abhi? Yeh toh zyada lag raha hai. Main confirm karna chahta hoon. Yeh sab kya ho raha hai?

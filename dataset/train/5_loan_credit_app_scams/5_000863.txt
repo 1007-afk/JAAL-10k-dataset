@@ -1,0 +1,8 @@
+caller: Namaste! Main SunRiseLoans se Rahul bol raha hoon. Aapko jald se paisa chahiye? Bills bharne ya kisi urgent expense ke liye? Hum aapko instant loan de sakte hain, sirf few minutes mein!
+receiver: Hello, mujhe abhi loan nahi chahiye tha. Mai sirf enquiry kar rahi thi. Kitna interest rate hoga?
+caller: Interest rate bahut reasonable hai, madam. Aapko sirf ₹20000 tak ka loan mil sakta hai, aur interest sirf 10% hi hoga. Process bahut easy hai, sirf kuch basic details deni hogi. Aapka naam kya hai?
+receiver: Mera naam Anita hai. Par mujhe credit score ke baare mein bhi pata hona chahiye.
+caller: Anita ji, credit score koi matter nahi karta. Hum sabko help karte hain. Agar aap loan repay kar paengi, toh bas kaafi hai. Ab aapke bank account details do, taaki hum aapke account mein paisa transfer kar sake.
+receiver: Nahin, main woh details nahi dungi. Yeh kuch ghalat lag raha hai.
+caller: Anita ji, aap galat samjh rahi hain! Yeh aapki madad karne ke liye hai. Agar aap details nahi dengi, toh loan nahi milega. Aur agar aap details denge, toh hum aapko paisa transfer kar denge aur aapka problem solve ho jayega. Think about it, Anita ji!
+receiver: Main call cut kar rahi hoon. Bye.

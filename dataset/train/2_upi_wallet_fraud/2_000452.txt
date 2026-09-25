@@ -1,0 +1,8 @@
+caller: Namaste! Mai Vijay hoon, Paytm se call kar raha hoon. Aapke Paytm wallet mein cashback offer hai, lekin isko claim karne ke liye kuch steps follow karne honge.
+receiver: Paytm se call? Cashback offer? Mujhe toh koi notification nahi aaya.
+caller: Sir, offer limited time ke liye hai, isliye notification sabko nahi jaata. Aapko bas apne wallet mein 500 rupees add karne honge, processing fee ke taur par. Ek baar fee deposit ho jayegi, aapko 2000 ka cashback milega.
+receiver: 500 rupees deposit karne ki baat kar rahe hain? Aur woh bhi cashback claim karne ke liye? Yeh thoda suspect lag raha hai.
+caller: Sir, Paytm bilkul secure hai. Yeh ek promotional offer hai, aur fee sirf verification ke liye hai. Payment karne ke liye ek UPI link bhejna hai, us par click karke payment kar dijiyega.
+receiver: UPI link? Nahin, main payment nahi karunga. Mujhe yeh offer pasand nahi aa rahi. Main Paytm customer care se direct baat karta hoon.
+caller: Sir, time bahut kam hai, offer abhi khatam ho jayegi. Aapko zyada sochne ki zarurat nahi hai, bas payment kar dijiyega.
+receiver: Mai koi bhi payment nahi karunga. Aapko meri koi bhi information nahi milengi.

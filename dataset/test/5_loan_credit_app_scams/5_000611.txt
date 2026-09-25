@@ -1,0 +1,10 @@
+caller: Namaste! Mein Rohan se baat kar raha hoon, FastCash Solutions se. Aapki financial needs ko keeping mein, hum ek special loan offer provide kar rahe hain. ₹75,000 tak ka loan sirf aapke smartphone se.
+receiver: Loan? Kitni interest hogi? Aur verification process kya hai?
+caller: Sir, interest rate competitive hai, sirf 8% per annum. Verification ke liye, aapko sirf kuch basic details dene hongi – your Aadhaar card, PAN card, aur bank statement ka last 3 months ka copy.
+receiver: PAN card bhi? Woh toh main easily nahi de sakta. Mere dost ne mujhe told ki aise apps bahut scams karte hain.
+caller: Sir, bilkul safe hai! Hum RBI registered hain. Aapko koi tension nahi lene ki zarurat hai. Abhi apply karein, aur pata karein aap loan ke liye eligible hain ya nahi. Process sirf 5 minute ka hai.
+receiver: Theek hai, lekin main sirf basic details hi dunga. Aadhaar number, bank account number, aur mobile number. PAN card nahi dunga.
+caller: Sir, PAN card verification ke liye zaroori hai. Agar aap PAN card nahi de sakte, toh hum aapko loan nahi de paenge. Ye company policy hai.
+receiver: Okay, I will think about it. Please give me a number, so I can talk to someone higher up in your company?
+caller: Sir, koi higher authority nahi hai. Yeh direct process hai. Agar aapko loan chahiye, toh details provide karein. Varna, maaf karna.
+caller: Sir, time is running out. Offer sirf aaj ke liye valid hai. Aapko benefit lena chahiye.

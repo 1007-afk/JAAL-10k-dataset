@@ -1,0 +1,14 @@
+caller: scammer : Hanji hello, kaise hain aap? receiver : Ji, main theek hoon. Aap kaun bol rahe hain?
+receiver: Ji, main theek hoon. Aap kaun bol rahe hain? Aapka naam jaan sakta hoon?
+caller: scammer : Hanji hello, kaise hain aap? receiver : Ji, main theek hoon. Aap kaun bol rahe hain? Aapka naam jaan sakta hoon?"
+}
+```
+
+```json
+{
+  "message": "scammer : Meri awaaz pehchaan nahi rahe? Main aapka wohi dost hoon jisse aapki bahut yaad aati hai. Par sach poochho toh, main aapka koi dost nahi, balki aapka koi special hai jo aapko bahut pasand karta hai. Kya aap jaanana chahte hain kaun hai woh?
+receiver: receiver: Woh? Aise kaise? Aap pehchan rahe hain mujhe? Kya matlab, dost nahi? Yaar, confuse kar rahe ho. Naam batao na, kaun ho? Aur main aapka koi 'special' hoon? Hmmm... interesting. Bataiye toh sahi, kaun ho sakta hai?
+caller: scammer : Arre, naam kyun pooch rahe ho? Yeh toh suspense hona chahiye na! Aapka secret admirer, jo aapko itna pasand karta hai ki usne mujhe yeh number diya hai aap tak pahunchne ke liye. Bas aapko yeh batana tha ki koi hai jo aapko bohot special samajhta hai. Aur agar aapko usse baat karni hai, toh usne ek special number diya hai jahan aap call kar sakte hain. Ek chota sa sawaal poochhna tha aap se... aapki favorite movie kaun si hai? Jis se hum aapke 'special' ko thoda aur pehchanne mein madad kar sakein.
+receiver: receiver: Arey, suspense kyun? Jab naam hi nahi bataoge toh main kaise jaanungi kaun hai? Aur mera secret admirer? Aisa kaise ho gaya? Wait, yeh mera koi friend mazak kar raha hai kya? Yeh 'special number' kya hai? Aur meri favorite movie? Matlab, yeh sab aap mere 'special' se connect karne ke liye kar rahe hain? Matlab, yeh jo bhi hai, unhone yeh sab plan kiya hai? Kon hai yeh?
+caller: scammer : Arre, koi mazak nahi hai, Madam/Sir. Yeh sach hai! Aapke liye ek khush khabri hai. Aapka koi hai jo aapko dil se chahta hai aur aapke baare mein sab kuch jaanna chahta hai. Hum bas unki taraf se ek chota sa message pahuncha rahe hain. Unhone kaha hai ki aapko ek chota sa gift bhi milega agar aap unse connect kar paaye. Toh bataiye, aapka favorite rang kaun sa hai? Usi se thoda aur pata chalega ki aapke 'special' ko aapke baare mein kya pasand hai.
+receiver: receiver: Arre, meri favorite movie aur ab mera favorite rang? Yeh toh bilkul movie jaisa ho gaya! Dekho, agar koi sach mein mujhe pasand karta hai aur mujhe gift dena chahta hai, toh pehle unhe apna naam batana chahiye, hai na? Yeh 'special number' aur yeh guessing game toh thoda suspicious lag raha hai. Kya yeh koi game show hai? Ya fir aapko sach mein mera naam nahi pata? Aur yeh 'gift' kya hai, yeh bhi bataiye? Jab tak aap mujhe clear nahi karte, main koi information nahi de sakti, sorry.

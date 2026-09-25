@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mai Rajan bol raha huun, IDFC First Bank se. Aapke account mein cashback offer hai! ₹10,000 ka cashback, sirf aaj!
+receiver: ₹10,000? Really? IDFC First Bank ne kabhi offer nahi diya mujhe. Kaise claim kar sakta huun?
+caller: Sir, yeh offer limited time ke liye hai. Aapko bas apne UPI app se ₹500 ek verification transaction ke liye send karna hai. Ek special account number main, jo humne diya hai. Phir ₹10,000 aapke account mein deposit ho jayega.
+receiver: ₹500 send karna hai? Account number kaunsa hai? Aur yeh verification transaction kaisa hota hai? Mujhe thoda suspicion aa raha hai.
+caller: Sir, account number ek minute mein main message kar deta huun. Yeh bahut simple hai, sirf verification ke liye. ₹500 hum wapas bhi kar denge, trust please! Offer khatam hone wala hai, bhai!
+receiver: Okay, chalo. Message karo number. Lekin agar fraud nikla toh main complaint karunga.
+caller:  Yeh lo number: 9876543210. UPI ke through send karna. Jaldi karo, sir! Time is running out! ₹10,000 aapka hai!

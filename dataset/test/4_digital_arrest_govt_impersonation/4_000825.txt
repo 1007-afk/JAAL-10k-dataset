@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Hello? Customs Department? What package? I haven't ordered anything.
+caller: Sir, the package is currently held at our Indira Gandhi International Airport facility. Our scanners detected traces of prohibited substances. You need to clear this immediately to avoid legal consequences. To release the package, we require a small processing fee of ₹7,500.
+receiver: ₹7,500? For a package I didn't even order? This sounds fishy. Can you give me a tracking number or some proof that this package exists?
+caller: Sir, due to security protocols, we cannot disclose the tracking number over the phone. But, I can assure you, this is a serious matter. If you don’t pay the fee within the next hour, a warrant will be issued for your arrest.  I'll need your bank details to process the payment swiftly, sir.
+receiver: Wait a minute! A warrant? This is ridiculous. I'm not paying anything without seeing any documentation. I’m going to call the Delhi Customs directly to verify this. What’s your official number?
+caller: Sir, please do not delay. Time is of the essence.  We'll initiate the arrest procedures immediately. The bank details are the fastest way to resolve this – just a few digits and we'll clear everything.
+receiver: Absolutely not. You are a scammer. I’m reporting this to the cybercrime cell. Goodbye.

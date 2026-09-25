@@ -1,0 +1,8 @@
+caller: Namaste ji, Main Rajesh, National Lottery Office se baat kar raha hun. Kaise hain aap sab?
+receiver: Namaste ji, Main theek hoon, aap bataiye. Kahaan se kar rahe hain?
+caller: Ji, Mumbai se kar raha hun. Aapko ek special offer mila hai - ₹50,000 ke gold coins jeetne ka mauka! Har maahina me ek baar! Abhi ke abhi jo karna hai, woh bataunga. Sirf ek message karna hai 'GOLD' 98765 pe. Yeh ek exciting quiz game hai, aur aapka naam bhi list mein aa gaya hai! So, kya aapko pata hai ki aapko kya karna hai?
+receiver: ₹50,000 ke gold coins? Wah! ‘GOLD’ likhne wala hu mai aur 98765 pe send kar dunga. Yeh to koi lottery jaisi hai kya? Aur mera naam list mein, yeh kaise?
+caller: Haan, बिल्कुल! Yeh ek simple quiz game hai. Hamare system mein aapke mobile number ko register kiya tha, uske karan aapka naam automatically aa gaya hai. So, bas ‘GOLD’ message karein 98765 pe aur aap lucky winners mein se hoke jaoge! Aapne message kiya kya?
+receiver: Mobile number ko register kiya tha? Mujhe toh yaad nahi hai koni register kiya tha. Quiz game ke baare mein bataye na, kaise khelte hai? Aur message karne ke baad koi confirmation milega kya, like a reply?
+caller: Arre, woh just ek notification hi milega. Just ‘GOLD’ message karein aur wait karein. Uske baad, hamari team aapko call karegi agar aap qualified hojate hain. Bahut simple hai. So, aapne message kiya kya?
+receiver: Okay, ‘GOLD’ message kar dungi aur wait karungi. Confirm karna hai ki message properly dekhega?

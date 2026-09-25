@@ -1,0 +1,8 @@
+caller: Namaste! Main Akash, FedEx India se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery ke dauraan address mein kuch confusion ho gaya hai.
+receiver: Oh, really? What's the tracking number? Aur kya confusion hai?
+caller: Tracking number hai XYZ123456. Confusion yeh hai ki parcel ke billing address aur delivery address mein difference dikh raha hai. Hamko confirm karna hai ki aapka phone number sahi hai ya nahin. Main aapko ek OTP bhejunga, usse verify karke delivery confirm karein.
+receiver: Okay, send the OTP. Par yeh billing address ka confusion kyon ho raha hai? Main toh ek hi address use karta hoon.
+caller: Ji, OTP hai: 7890. Please confirm kar lijiye, aur delivery mein koi delay na ho. Hamko aapka OTP verification hi chahiye, bas.
+receiver: 7890? Okay, I've entered the OTP. Par mujhe abhi parcel ki value bhi batao toh. Kya kuch extra charge bhi lagega?
+caller: Haan ji, parcel mein kuch delicate items hain, isliye extra handling charges lageinge, ₹2500.  Hamko confirm karna hai ki aap payment kar sakte hain ya nahin.
+receiver: ₹2500?  Arey, itne zyada charges? Main toh kuch expensive order bhi nahi kiya tha.  Ek minute, main check karta hoon.

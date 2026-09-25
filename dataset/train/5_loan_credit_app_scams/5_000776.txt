@@ -1,0 +1,9 @@
+caller: Namaste, is this number registered with FastCash Loans? We’ve processed your application and you're pre-approved for a loan up to ₹15,000. Just need to confirm a few details.
+receiver: Haan, FastCash Loans. Mainne application kiya tha, par mujhe yaad nahi ki kitone. Kya detail chahiye?
+caller: Sir, just a quick verification. Your name, please? And what is your occupation? This is just so we can finalize the process. Loan will be credited in your account within 10 minutes.
+receiver: Mera naam Rahul Verma hai, aur main accountant hoon. But why so many verification steps?
+caller: Rahul Ji, security reasons only. To make sure the money goes to the right person. Now, to activate your loan and avoid any delays, we require a small processing fee of ₹999. Once deposited, the loan will be released instantly. Account details will be sent via SMS.
+receiver: ₹999? Main application mein aise kuch fees ka mention nahi tha. Ye thoda suspicious lag raha hai.
+caller: Rahul Ji, this is a one-time fee to protect you from fraud. It’s standard procedure. Many people try to scam our users, so we need to verify the money is going to the real account holder. Don’t miss out on this opportunity, sir! It's a limited-time offer!
+receiver: Okay, sir. I think I will have to think about it. Thanks.
+caller: Rahul Ji, please don't miss this, very urgent!

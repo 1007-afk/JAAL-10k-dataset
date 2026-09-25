@@ -1,0 +1,9 @@
+caller: Namaste sir, main Ravi Kumar, State Bank se baat kar raha hoon. Aapne recently online loan apply kiya tha, isliye call kar raha hoon. Aapke account mein bank statement upload karna hai, isliye call kiya hai. Aapke paas bank statement ka digital copy ready hai kya?
+receiver: Namaste Ravi ji. Haan, mein copy ready hai. Mein cheque jaise copies send karta hoon. Email se bhejna hai kya?
+caller: Ji sir, email se bharna accha rahega. Aapka email address check kar sakta hoon? "rajesh.sharma@example.com" yeh address sahi hai kya?
+receiver: Haan, woh sahi hai. Send karo. Jaab dikha de.
+caller: Ji sir, email bandhe hue hain. Email mein bank statement ka PDF file upload kiya hai. Verification process complete hone wali hai, ismein aapka cooperation zaroori hai. Aapne document upload karne ke baad, aapko ek OTP milega.
+receiver: OTP? Okay, wait karte hain. Aa gaya hai. Yeh hai [invent an OTP, e.g., 123456]. Verification ho gaya?
+caller: Ji sir, OTP 123456 hai, confirm ho gaya. Aapke loan application ki status update ho gayi hai. Loan approve ho gaya hai, isliye abhi aapko email mein notification aa jayega.
+receiver: Really? Wow! Shukriya Rajesh ji.
+caller: Aapka mahol khush hai. Agar koi bhi question hai, to contact karein. Thank you.

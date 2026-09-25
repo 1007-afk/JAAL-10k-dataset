@@ -1,0 +1,8 @@
+caller: Hello, this is Rahul from QuickLoan India. We’ve reviewed your application and you’re pre-approved for a loan of up to ₹2 lakhs. Just need to verify a few details. What is your full name, please?
+receiver: Hi, thanks. My name is Priya Sharma.
+caller: Wonderful, Priya Sharma ji! Very good. Now, to process this quickly, we require a small processing fee of ₹5,000 upfront. This will cover the verification and legal paperwork. You can easily transfer it to our account - details will be sent shortly. Is that acceptable?
+receiver: Five thousand rupees? That seems a bit much upfront. Shouldn't I get the loan first?
+caller: Priya ji, this is standard procedure. It ensures your seriousness and protects you from fraudulent lenders. Think of it as a security deposit. We do this to secure the loan for you quickly. Once the loan is disbursed, it will be deducted from your first installment. Trust me, it’s a very smooth process. Can you please confirm, are you willing to proceed?
+receiver: I’m still a little hesitant, but okay, fine. Send me the account details.
+caller: Excellent decision, Priya ji! I’m sending you the bank details now. Once the payment is confirmed, we’ll activate your loan instantly. Just one more thing - for security purposes, can you share the last four digits of your Aadhaar card with me?
+receiver: Wait, why do you need my Aadhaar number? That doesn't seem right.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm se Deepika bol rahi hoon. Aapke Paytm wallet mein cashback offer aa rahi hai - ₹5000 instant cashback. Claim karne ke liye, sirf ek small verification fee bhar deni hai, ₹150. Aapko ek UPI link milega, uspe payment karke confirm kar deni hai.
+receiver: ₹5000 cashback? Paytm pe? Mere account mein koi notification nahi aaya hai. Verification fee kyun lag rahi hai?
+caller: Haan ji, ₹5000 cashback! Offer limited time ke liye hai, isiliye notification bilkul nahi milega. Verification fee sirf ₹150 hai, yeh aapke account security ke liye hai. Payment karne ke liye, main aapko ek UPI ID de dungi – 9876543210@ybl.
+receiver: 9876543210@ybl? Yeh Paytm ka UPI ID lagta hai? Mujhe thoda shaq ho raha hai.
+caller: Haan, bilkul! Yeh official Paytm ID hai. Jaldi kijiye, offer abhi khatam hone wali hai! ₹150 bhar deni hai, tab ₹5000 aapke wallet mein credit ho jayega. Aapka naam pata loon taaki main process kar sakun?
+receiver: Theek hai, naam toh bata doonga – Rohit Sharma. Par mujhe Paytm customer care se confirm karna hai. Main abhi call karta hoon.
+caller: Rohit ji, bilkul sahi! Main abhi aapko UPI link send kar rahi hoon WhatsApp pe. Jaldi se payment karwa lijiye, offer khatam ho jayegi.

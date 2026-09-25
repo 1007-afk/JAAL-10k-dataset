@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Rohan Sharma bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par rukwaya gaya hai.
+receiver: Kya? Mere naam par parcel? Mujhe to koi order yaad nahi. Kuchh problem hai?
+caller: Ji, parcel mein illegal documents mili hain jo drug trafficking se judi hain. Aapko jail jaane se bachne ke liye ek fine bharvan hoga.
+receiver: Drug trafficking? Yeh galat hai! Main toh kabhi drug nahi li! Main police station mein jaakar report karunga.
+caller: Sir/Madam, aapse request hai ki aap thodi der ke liye video call pe aayein. Main aapko documents dikha sakta hoon aur payment karne ka tareeka bata sakta hoon. Isko ignore karne par aapke khilaf criminal case chalega.
+receiver: Kaise main trust karoon ki aap log sach bol rahe hain? Mujhe ye zyada scam jaise lag raha hai. Aap mujhe koi verification number ya official email ID de sakte hain?
+caller: Sir/Madam, humko maaf karna, verification number dene se investigation compromise ho jayegi. Aapko ₹50,000 ka fine bharvan hoga. Online payment karne ke liye main aapko ek link bhejoonga. Jaldi karein, time kam hai.
+receiver: ₹50,000? Yeh bahut zyada hai! Main abhi police ko call karunga aur unse puchunga. Aap log ek scammer hain!

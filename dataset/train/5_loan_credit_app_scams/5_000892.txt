@@ -1,0 +1,7 @@
+caller: Hello, this is Akash calling from SwiftCash Loans. We’ve noticed you recently applied for a personal loan online. Congratulations! You've been pre-approved for up to ₹5 lakh. Just a few quick details to confirm.
+receiver: Oh, really? That’s good news. I did apply a few days ago. What details do you need?
+caller: Excellent! First, can you confirm your date of birth and the last four digits of your Aadhaar card? It's just for security verification, you see. And to process the loan quickly, we require a small processing fee of ₹5,000 upfront to cover legal charges.
+receiver: ₹5,000? Before I even get the loan? That seems a bit strange.
+caller: Yes, it's standard procedure, sir. It's a refundable amount, of course, and ensures the loan is legitimate. Otherwise, we can’t proceed. Don't miss this opportunity! Transfer it to this UPI ID: 9876543210@ybl. Alternatively, we can send you a bank account number.
+receiver: I'm not comfortable sending money upfront to anyone. I think I’ll just decline this offer. Thank you, though.
+caller: Wait, sir! Don't be hasty! If you don’t pay now, we will have to cancel your approval and report you for loan fraud. You’ll have a very bad credit score for the next 5 years! Very bad for future applications. Just think about it.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul Verma, FastCash Solutions se bol raha hoon. Aapka naam Rajesh Sharma hai na? Aapne hamare app par ek loan ke liye apply kiya tha. Verification ke liye ek call kar raha hoon.
+receiver: Haan, main Rajesh Sharma. Haan, mujhe yaad hai. Verification ke liye kya check karna hai?
+caller: Rajesh ji, verification ke liye bas kuch basic details confirm karna hai. Aapka DOB aur PAN number bataiye. Aur suniye, humein pata chala hai ki aapke naam par ek pending case hai. Yeh loan approve hone se ruk sakta hai.
+receiver: Pending case? Kya case hai? Mujhe toh kuch pata nahi hai.
+caller: Rajesh ji, yeh legal matter hai, hum detail mein bata nahi sakte. Lekin, agar aap ₹10,000 advance payment karte hain, toh hum case ko settle kar sakte hain aur aapka loan approve ho jayega. Yeh ek special offer hai, sirf aapke liye.
+receiver: ₹10,000? Loan ke pehle ₹10,000 dena padega? Yeh to scam lag raha hai!
+caller: Rajesh ji, please understand, yeh process hai. Case ko settle karne ke liye legal fees apply hote hain. Apne family aur property ko bachaane ke liye ₹10,000 denge? Yeh ek chhoti si amount hai uske muqable mein. Abhi payment details den na aapko.

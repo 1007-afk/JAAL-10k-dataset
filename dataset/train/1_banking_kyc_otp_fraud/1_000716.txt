@@ -1,0 +1,27 @@
+caller: Hello, is this Mr. Sharma? This is Raj Kumar from Smart Solutions. We’re contacting you regarding an outstanding invoice for ₹12,000 related to your internet service.
+receiver: Yes, this is Sharma.
+caller: Great! Due to some system errors, your account was flagged, and we need to verify your information quickly. Can you please provide your date of birth and last four digits of your PAN card?
+receiver: Why do you need my PAN card?
+caller: Sir, it's just standard procedure to ensure security and prevent fraudulent activity. We need to match the details with our records. Your cooperation is greatly appreciated.
+receiver: I'm not comfortable sharing my PAN details over the phone.
+caller: But sir, if we don’t get this information, we might have to suspend your internet service immediately. It will cause major inconvenience. Just a quick verification, please?
+receiver: What kind of internet service do I have?
+caller: You have FiberConnect Plus, sir. And this invoice is for the month of October. We understand your hesitation, but this is crucial to resolve the issue promptly.  Please provide the last six digits of your mobile number associated with the account.
+receiver: Okay, let me see… it's 987654.
+caller: Thank you very much, Mr. Sharma. Now, could you please confirm your date of birth – January 1st, 1985?
+receiver: That’s correct.
+caller: Excellent!  We’ve updated your record. The payment can be made through UPI using the ID: SmartPay_1234.  Don’t worry, sir, we’ll send you a confirmation SMS shortly. Is there anything else I can assist you with today?
+receiver: No, thank you.
+caller: Have a good day, Mr. Sharma!
+receiver: Haan, yeh Sharma hu.
+caller: Achha! System mein kuch galti hone ke karan, aapki account flag ho gayi hai, aur hume aapki jankari jaldi verify karne ki zarurat hai. Kya aap apne janmadata aur PAN card ke last chauthi angika de sakte hain?
+receiver: Kyon mujhe meri PAN card chahiye?
+caller: Sir, yeh bas security check karne ke liye hai aur fraud se bachne ke liye. Hume aapki jankari hamare records se match karne ki zaroorat hai.
+receiver: Mujhe PAN details share karne mein rahat nahi hun.
+caller: Par sir, agar hum yeh jankari nahin lenge, toh hum aapki internet service immediately suspend kar denge. Isse badi problem hogi. Jaldi jaldi verification kar lein, please?
+receiver: Mera internet service kaunsa hai?
+caller: Aapke paas FiberConnect Plus hai, sir. Aur yeh bill October ke liye hai. Hum aapki hesitancy samajh saktay hain, lekin yeh issue jaldi solve karne ke liye zaroori hai. Please apne mobile number ke last chhe angika dein jo account ke saath associate hai.
+receiver: Okay, dekhta hu... yeh 987654 hai.
+caller: Shukriya ji. Ab, kya aap apne janmadata confirm kar sakte hain – January 1st, 1985?
+receiver: Woh sahi hai.
+caller: Bahut achcha! Hume aapki record update ho gayi hai. Payment UPI ke zariye SmartPay_1234 ID se kiya ja sakta hai. Darrne wala kuchh nahi, sir, hum aapko SMS ke zariye confirmation bhegenge. Kya main kisi aur cheez mein madad kar sakta hu aaj?

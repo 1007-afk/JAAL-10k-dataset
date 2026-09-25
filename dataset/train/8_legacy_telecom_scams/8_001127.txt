@@ -1,0 +1,31 @@
+caller: Namaste ji! Aapse baat karna jaldi hua. Aise lagta hai ki tumne humare ‘Lakshmi Lottery’ campaign mein interest li hai. Tumhara ₹50,000 jeetne ka dream sach hona hai!
+receiver: Haan ji, maine suna hai ki lottery mein jeetne ka scope hota hai. ₹50,000 toh bohat achha hai!
+caller: Exactly! Aur humari lottery tumhare liye ek aisa opportunity hai jiski tum logo ko zarur interest honi chahiye. Humne tumhari profile check ki hai, aur tumhari financial stability dikhti hai. Isliye, ₹50,000 jeetne ke liye, tumhein ek small verification charge dena hoga.
+receiver: Verification charge? Woh kya hai?
+caller: Woh sirf ₹500 ka digital stamp hai, jo tumhara identity confirm karega. Ye ek secure online process hai, aur tumhara data safe rahega.
+receiver: ₹500? Fir is ₹500 ke baad mai kitna paisa kamaunga?
+caller: Agar tum verify ho gaye, toh tum ₹50,000 jeetoge! Wo guarantee hai. Par, verification process complete karne ke liye, humein ₹500 lena padega. Iska koi connection verification se nahi hai.
+receiver: Hmm… Koi doubt hai. Is verification charge ko refund kar sakte kya hai? Agar mujhe nahi pasand aaye?
+caller: Ji nahin, refund policy nahi hai. Once tumne ₹500 de diye, toh verification complete ho jayega, aur tum ₹50,000 jeetoge. Par, tumhein trust karna hoga.
+receiver: Trust karna? Mujhe zyada malum nahi hai yeh sabse. Kya tumhara number registered hai?
+caller: Haan ji, mera number registered hai. Tumhare account mein ₹500 transfer karne ke liye, mujhe tumhara UPI ID chahiye.
+receiver: Mera UPI ID bataun?
+caller: Ji haan, please. Jo bhi UPI ID dedo, woh secure server par upload ho jayega. Agar koi problem hai, toh tum mujhe call kar sakte ho.
+receiver: Okay, meri UPI ID [UPI ID] hai.
+caller: Dhanyavaad ji! Tumhara verification process jaldi se complete hone wali hai. ₹500 transfer karne ke liye, mujhe kuch minute aur chahiye. Please wait...
+caller: Namaste ji, kaise hain aap? Humare Diwali Dhamaka offer mein aapko special invitation mila hai. ₹10,000 jeetne ki puri koshish karo!
+receiver: Haan ji, Diwali toh aane wali hai! ₹10,000 jeetna ek badi deal hai.
+caller: Exactly! Aur humari Diwali Dhamaka lottery tumhare liye ek golden opportunity hai. Humne tumhari profile dekhi hai, aur tumhari lifestyle dekhkar laga hai ki tum log ek successful business mein hain.
+receiver: Business? Meri ek small shop hai.
+caller: Hai na! Aur is small shop ki success ki wajah se, tumhein ₹10,000 jeetne ka layak feel hota hai. Lekin, verification ke liye, humein ₹200 ka GST registration charge lena hoga.
+receiver: GST registration charge? Woh kya hai?
+caller: Woh sirf ₹200 ka digital tax hai, jo tumhara identity confirm karega. Ye ek very simple process hai.
+receiver: ₹200? Fir is ₹200 ke baad mai kitna paisa kamaunga?
+caller: Agar tum verify ho gaye, toh tum ₹10,000 jeetoge! Guaranteed! Par, verification process complete karne ke liye, humein ₹200 lena padega. Iska koi relation verification se nahi hai.
+receiver: Hmm… Koi confusion hai. Is GST registration charge ko refund kar sakte kya hai? Agar mujhe nahi pasand aaye?
+caller: Ji nahin, refund policy nahi hai. Once tumne ₹200 de diye, toh verification complete ho jayega, aur tum ₹10,000 jeetoge.
+receiver: Trust karna hai? Yeh lottery kitni genuine hai?
+caller: Ji haan, lottery puri genuine hai. Hum ne lakhs logon ko ₹10,000 jeetke dekha hai. Tumhare account mein ₹200 transfer karne ke liye, mujhe tumhara Paytm number chahiye.
+receiver: Mera Paytm number bataun?
+caller: Ji haan, please. Jo bhi Paytm number dedo, woh secure server par upload ho jayega. Agar koi problem hai, toh tum mujhe call kar sakte ho.
+receiver: Okay, meri Paytm number [

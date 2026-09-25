@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, Indian Stock Solutions se. Hum aapko ek achha investment opportunity dikhana chahte hain. Abhi market mein ek naya crypto coin, 'ZenithCoin', bahut jaldi se upar jaa raha hai.
+receiver: ZenithCoin? Mainne suna nahi hai. Yeh kitna safe hai? Aur investment kaise karein?
+caller: Ji, bilkul safe hai! Yeh ek new project hai lekin experts ka kehna hai ki yeh bahut jaldi se badhega.  Aap ₹7000 invest karein, toh hum aapko ₹12000 tak ka profit dikhayenge ek mahine mein.  Hum aapke liye ek special 'priority access' create karenge.
+receiver: ₹7000? Aur ek mahine mein ₹12000?  Yeh bahut zyada lag raha hai. Koi guarantee hai? Aur main kaha invest karunga?
+caller: Haan ji, guarantee hai.  Humara platform secure hai, aur humko India mein license mila hua hai.  Aap apna Paytm number dijiye, main aapko payment link bhejuunga.  Jab profit hoga, toh hum aapko direct aapke bank account mein transfer kar denge. Jaldi karo, offer limited time ke liye hai!
+receiver: Paytm number? License number bataiye, main check karunga. Aur is platform ka naam kya hai?
+caller: Hamara license number ISE-2023-4567 hai. Platform ka naam hai ‘WealthWave’. Payment link bhejne se pehle, sirf ₹7000 confirm kar dijiye. Is offer ko miss mat karna, sir!
+receiver: Okay, ek minute... Main check karta hoon.

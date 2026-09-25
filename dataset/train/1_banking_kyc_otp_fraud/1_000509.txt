@@ -1,0 +1,20 @@
+caller: Hello? I’m Rohan from TechSolutions, calling about an urgent matter regarding your internet service. We noticed some unusual activity and need to quickly verify a few details to prevent any potential disruptions.
+receiver: Hello? Rohan ji, kaise hain aap? Kya hua? I am expecting a very important video conference soon.
+caller: Hello again, Ms. Verma. Sorry for the interruption. We detected a possible unauthorized access attempt on your account. To safeguard your data, we urgently require confirmation of the billing address associated with your account. Could you please provide it? It should be something like ‘123 Main Street, Apartment 4B’.
+receiver: Oh, unauthorised access? Seriously? My billing address is 456 Oak Avenue, Suite 200. But why suddenly? And what kind of disruption are you talking about?
+caller: Absolutely, Ms. Verma. That’s precisely what I need to confirm. Let me just double-check… 456 Oak Avenue, Suite 200.  Now, as part of our enhanced security protocols, we also need to verify a small amount – just $25 – that was recently charged to your card.  Is this familiar to you?
+receiver: Twenty-five dollars? I don’t recall seeing any charge for twenty-five dollars.  What happened to the money I paid last month?  Aap ne mujhe kyun nahi bataya?
+caller:  Don’t worry, Ms. Verma. This is a routine check. We simply want to ensure everything is legitimate.  To complete the verification process, could you please tell me the three digits of your bank account?  It’s crucial for updating our records.
+receiver: Three digits of my bank account? No way! That sounds really suspicious. Are you sure you’re actually from TechSolutions?
+caller:  Of course, Ms. Verma! We take data security extremely seriously. As a final step, I need to confirm your mother's maiden name to verify your identity. It’s a standard procedure. Could you please provide it?
+receiver: My mother's maiden name is Patel. Now, stop this immediately! I think you are trying to steal my information.
+caller: Hello? I’m David from SecureGuard Security Services, calling regarding a recent report of suspicious activity linked to your property. We need to quickly verify a few details to ensure your safety.
+receiver: Hello? David ji, aap kaise hain? What kind of suspicious activity? My house is very secure.
+caller: Hello again, Mr. Singh. We identified a potential vulnerability in your home security system. To rectify this, we require immediate confirmation of your primary residence address. It should be similar to “789 Pine Lane, Unit 12”.
+receiver: 789 Pine Lane? Yes, that’s correct. But why now? And what vulnerability are you talking about? I have invested heavily in my security system.
+caller: Absolutely, Mr. Singh.  We detected a potential breach attempting to gain access to your surveillance footage.  As a precaution, we need to verify your emergency contact number. Could you please provide it? Something like "9876543210".
+receiver: Emergency contact number? Why are you asking all these questions so abruptly?  Are you sure you're not a fraudster pretending to be a security company?
+caller: Don't worry, Mr. Singh. We are committed to protecting your assets. To finalize the update, we require confirmation of your social security number. It’s a vital step for our internal record keeping.
+receiver: Social security number?! That’s completely unacceptable! I won’t give you that information under any circumstances. I am ending this call now.
+caller: Please, Mr. Singh!  Just a little more information, and we can resolve this swiftly.  Finally, we need to confirm the name of your pet dog. It’s essential for identifying authorized users accessing the system.
+receiver: My dog’s name is Bruno! Stop harassing me! I’m reporting this to the police.

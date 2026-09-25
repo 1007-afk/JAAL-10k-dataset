@@ -1,0 +1,6 @@
+caller: Hello, this is State Bank of India security department. We've noticed some suspicious activity on your account and need to verify your details to prevent fraud.
+receiver: Oh, really? Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, there was an attempt to transfer ₹15,000 to an unknown account from your SBI account. To secure your funds, we need to verify your identity. Could you please provide your Aadhaar number for verification?
+receiver: Aadhaar number? Over the phone? Isn’t that risky? I thought banks didn't ask for that.
+caller: Sir, for your safety and to immediately block the fraudulent transaction, we need it urgently.  If you don’t provide it within the next 5 minutes, we'll have to temporarily suspend your account to protect your money.  We need to confirm you are the legitimate account holder.
+receiver: Okay, okay, don't suspend my account. Give me a minute. What else do you need?

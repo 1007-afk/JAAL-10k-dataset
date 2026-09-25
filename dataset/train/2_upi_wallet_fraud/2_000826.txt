@@ -1,0 +1,7 @@
+caller: Hello, sir? This is Raj from PaySafe Solutions calling. We've noticed some unusual activity on your FreeCharge wallet.
+receiver: Unusual activity? What kind of activity? I haven’t done anything.
+caller: Yes sir, someone attempted to send a large sum of money to your wallet from an unknown UPI ID. To secure your funds, we need to quickly verify your wallet details.
+receiver: Okay, that sounds concerning. What details do you need?
+caller: Just your FreeCharge wallet UPI ID and the last four digits of the bank account linked to it. We'll need to do a quick OTP verification as well for security purposes.
+receiver: An OTP? Alright, let me check… Okay, I see the OTP now. But is this really PaySafe? I’m a bit worried.
+caller: Absolutely sir, this is a standard security protocol. If you don't complete this verification within the next five minutes, we’ll have to temporarily freeze your wallet to prevent any potential fraud. Please enter the OTP now to avoid this.

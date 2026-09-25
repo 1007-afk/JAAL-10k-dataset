@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main State Bank of India se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapke KYC details update karne hain urgent basis pe.
+receiver: KYC update? Maine toh kabhi koi message ya call nahi mila. Aur suspicious activity ka matlab kya hai?
+caller: Sir, system automatically detect karta hai. Security ke liye, aapko kuch details verify karne hain. Pehle, apna PAN card number bataiye.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai, sir. Main branch mein jaa kar kar sakta hoon.
+caller: Sir, branch mein line lagenge, time barbaad hoga. Account block bhi ho sakta hai. Just 2 minutes. PAN card number do, phir main aapko ek OTP send karunga, woh verify kar lijiye.
+receiver: OTP? Koi bank OTP phone pe nahi maangta. Yeh scam lag raha hai. Main koi bhi details nahi dunga. Aapko agar koi information chahiye toh email karein.
+caller: Sir, please cooperate. Account suspend hone se pehle fast action lijiye. Main aapko ek secure link bhej raha hoon. Aap uss link pe jake details fill kar dijiye.

@@ -1,0 +1,9 @@
+caller: Namaste, main Axis Bank security department se Rohit bol raha hoon. Aapke Axis Bank account mein achanak se activity dikhi hai. ₹12,000 ka transaction try kiya gaya tha, jo block ho gaya hai.
+receiver: Oh, really? ₹12,000? Mujhe toh koi message nahi aaya.
+caller: Haan sir, security system ne detect kiya. Aapko apne account ko secure karne ke liye kuch verification steps complete karne hogi. Mai aapko ek OTP SMS kar raha hoon, woh bata dijiye please.
+receiver: OTP? Par kyu? Mujhe toh bank se kabhi OTP mangte nahi.
+caller: Sir, ye security protocol hai. Hum aapke account ko fraudulent access se bacha rahe hain. OTP se pata chalega ki aap hi phone par hain. Abhi ₹12,000 release karne ke liye hi OTP ki zaroorat hai.
+receiver: Sir, mujhe doubt ho raha hai. Mai khud Axis Bank ke customer care number pe call karta hoon aur verify karta hoon.
+caller: Sir, please mat time waste karein! Frauds bahut active hain. Agar aap abhi verification nahi karenge, toh aapka account suspend bhi ho sakta hai. OTP bata dijiye, bas ek minute ka kaam hai. Aapko nuksaan nahi hoga.
+receiver: Theek hai, ₹12,000 ka transaction block ho gaya hai, toh mai OTP bata deta hoon. 4872.
+caller: Thank you sir! Ab, aapke account se ₹12,000 release karne ke liye, mujhe aapka last 4-digit ATM card number aur expiry date dikhaao please.

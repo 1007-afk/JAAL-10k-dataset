@@ -1,0 +1,10 @@
+caller: Namaste ji, thanks for your "Happy Tunes" ringtone subscription, reference code M82. You’ll be paying ₹15 per month. We will automatically debit ₹15 every month until you cancel. If you want to stop this, please call our support team on 09876543210. Is this clear?
+receiver: Oh, okay, ₹15 per month. So, if I don't cancel, the money will keep coming out?
+caller: Exactly, madam! That’s how it works.  We just want to ensure you understand the terms before you proceed. Also, we noticed you downloaded a free game called “Royal Raiders” last week - they might be offering similar ringtones for free, you know? Just a friendly suggestion.
+receiver: Really? Royal Raiders? I did download that. Interesting... But I really like these Happy Tunes, and I don’t think I need any other ringtones.
+caller: Wonderful! We appreciate your loyalty. Now, to cancel, simply dial 09876543210 and speak to one of our representatives. They’ll guide you through the cancellation process smoothly. It takes less than a minute.
+receiver: Okay, I’ll do that. Just one quick question – what happens if I cancel now, and then decide I want to restart my subscription later?
+caller: No problem at all, madam! You can easily reactivate your subscription whenever you wish. There’s no penalty for canceling and restarting.  Just call back using the same number, 09876543210.
+receiver: Alright, that sounds good. Thank you for explaining everything so clearly.
+caller: You are most welcome, madam!  Remember, for any further assistance, reach us at 09876543210. Have a pleasant day!
+receiver: Thank you! You too!

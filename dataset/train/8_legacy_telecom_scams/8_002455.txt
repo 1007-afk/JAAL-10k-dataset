@@ -1,0 +1,18 @@
+caller: Namaste sir, main Airtel customer support se baat karta hoon. Aapke phone mein jo SIM card laga hua hai, woh 15 dinon ke andar automatically block ho jaayega. Kya aap unhein phir se activate karna chahte hain?
+receiver: Oh, seriously? Mein toh recently Airtel ka SIM change kiya tha, aur mujhe koi notification nahi mila. Mera number kya hai?
+caller: Sir, aapke phone par jo notification aata hai, woh sometimes delay hojata hai. Tension mat lo, main aapka SIM activate kar dunga. Parantu, uske liye mujhe kuch information chahiye. Aapka bank account number bataiye, sirf digits hi.
+receiver: Haan, meri bank account number hai 1234567890123456. Aap bataiye, mujhe kya neend mil rahi hai?
+caller: Shukriya sir, yeh verification ke liye bahut zaroori hai. Ab mujhe aapke SIM ke activation code chahiye. Woh code aapke phone pe dikhega jab aap aapki balance check kareinge.
+receiver: Activation code? Mein toh balance check bhi nahi karta! Agar aapko verification karna hai to kya aap mera Aadhaar card number ya pan card number nahi puch sakte?
+caller: Sir, maaf karna, hume currently sirf bank account number chahiye hai. Aadhaar ya PAN number hamare system mein update hone mein time lagta hai. Bank account number toh immediately verify kar sakte hain.
+receiver: Arey yaar, yeh kitna drama hai! Mujhe koi confidence nahi hai aapke pas. Aapko verification kaise karna hai, wahi bataiye.
+caller: Namaste sir, main Vodafone Idea customer service se bol raha hoon. Aapke phone mein jo SIM card laga hua hai, woh 10 days ke andar automatically deactive ho jayega. Kya aap unhein phir se activate karna chahte hain?
+receiver: Seriously? Mein recently Vodafone Idea ka SIM change kiya tha, aur mujhe koi message nahi aaya. Mera number kya hai?
+caller: Sir, aapke phone par jo notification aata hai, woh sometimes delay hojata hai. Tension mat lo, main aapka SIM activate kar dunga. Lekin uske liye mujhe kuch details chahiye. Aapka ID proof ka last four digits bataiye.
+receiver: Haan, meri ID proof ka last four digits hai 1234. Aap bataiye, mujhe kya ho raha hai?
+caller: Shukriya sir, yeh verification ke liye bahut zaroori hai. Ab mujhe aapke SIM ke activation code chahiye. Woh code aapke phone pe dikhega jab aap aapki recharge karne ki attempt kareinge.
+receiver: Recharge karne ki attempt? Mein toh recharge bhi nahi karta! Agar aapko verification karna hai to kya aap mera Voter ID number ya driving license number nahi puch sakte?
+caller: Sir, maaf karna, hume currently sirf ID proof ka last four digits chahiye hai. Voter ID ya driving license number hamare system mein update hone mein time lagta hai. ID proof ka last four digits toh immediately verify kar sakte hain.
+receiver: Arey yaar, yeh kitna irritating hai! Mujhe koi trust nahi hai aapke pas. Aapko verification kaise karna hai, wahi bataiye.
+caller: Sir, please patience rakhen. Hamari system mein technical problem hai. Main aapko phir se call karunga.
+receiver: Okay, fine. Bas mujhe bataiye ki mera SIM phir se activate ho gaya ya nahi.

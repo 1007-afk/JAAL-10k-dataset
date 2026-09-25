@@ -1,0 +1,8 @@
+caller: Namaste! This is Ravi calling from Swiggy Customer Care. We've noticed an unusual transaction of ₹350 on your account. Can you please confirm if you made this order?
+receiver: Hello? ₹350? No, I didn't place any order. What’s happening?
+caller: Okay, don't worry sir. It seems like there might be some fraudulent activity. To secure your account, we need to verify a one-time password (OTP) sent to your registered mobile number. Just a quick verification process, nothing to worry about.
+receiver: An OTP? But why? I didn't even know about this order. Is this really Swiggy?
+caller: Yes sir, absolutely. It’s important to verify to prevent further unauthorized transactions. The OTP is for security purposes only. Please share it so we can block the suspicious order and protect your account. The OTP is 123456.
+receiver: 123456? That seems like a very simple OTP. Are you sure this is Swiggy? This is weird.
+caller: Sir, please don't hesitate. We need to act fast to lock your account before they use your details for further fraudulent orders. It’s a security measure to protect you. Give me the OTP, please.
+receiver: No, I am not giving you any OTP. I’m calling Swiggy’s official number now.

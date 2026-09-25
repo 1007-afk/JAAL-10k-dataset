@@ -1,0 +1,10 @@
+caller: Namaste sir, this is Priya Verma calling from QuickCash Loans. We saw you filled out a loan application online recently. Just need to verify a few details to process it quickly. Do you have your Aadhaar card handy?
+receiver: Haan, ji. Aadhaar card toh hai. What details do you need exactly?
+caller: Excellent. Can you please read out the first four digits of your Aadhaar number? Just for security purposes, sir.
+receiver: Okay, wait… it’s 4567.
+caller: Thank you, sir. Verification successful. Now, to activate your loan, we require a small processing fee of ₹2500. It will be credited back to your account once the loan is approved. You can pay via UPI.
+receiver: ₹2500? But the application didn't mention any processing fee.
+caller: Sir, rules have changed recently. This is a one-time charge, absolutely necessary. Otherwise, we can’t proceed with your loan application. It’s very simple; just pay the fee, and your loan of ₹10,000 will be credited immediately.
+receiver: Okay, fine. Send me the UPI ID.
+caller: Sure, sir. The UPI ID is QuickCash@paytm. Please confirm payment once done.
+receiver: Done. Payment complete.

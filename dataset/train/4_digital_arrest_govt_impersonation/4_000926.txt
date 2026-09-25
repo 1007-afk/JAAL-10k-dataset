@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Cyber Crime Investigation Cell. We’ve detected unusual activity linked to your WhatsApp account. It appears someone has been using it to send fraudulent investment schemes to your contacts.
+receiver: Oh my God! Really? That’s terrible! I had no idea. I've been getting a lot of messages myself, thought it was just spam.
+caller: Yes sir, it's a serious matter. To secure your account and prevent further damage, we need to verify some details. Could you please provide the last four digits of your bank account number associated with your phone? It’s standard procedure.
+receiver: My bank account details? Over the phone? That seems a little risky, Inspector. Shouldn't I go to a police station?
+caller: Sir, due to the urgency of the situation, we need to act quickly. A delay could expose more people to this scam.  We’re protecting you from being implicated.  Just four digits, sir. It’s a simple security measure.  Think of it as helping us protect your friends and family.
+receiver: Okay, okay… you're right. I want to help. It's 4782.
+caller: Thank you, sir. Just one final verification, to confirm your identity. Could you tell me the full name of your primary bank?

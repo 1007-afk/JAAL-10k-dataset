@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul calling from PayWorld. We’ve noticed a pending transaction of Rs. 500 from your UPI account linked to your phone number. It seems there was an error processing it. Can you please confirm your name for verification?
+receiver: Hello? Yes, this is Anjali Sharma. What's the problem with the transaction?
+caller: Thank you, Anjali ji. It appears the transaction was attempted to a merchant account, but failed. To complete it and avoid a chargeback, we need to quickly verify your bank details. Just the last four digits of your account number will do, for security reasons.
+receiver: My bank details? Over the phone? That sounds a bit risky. Why can't I just cancel the transaction?
+caller: Absolutely understandable, Anjali ji. But cancelling now might lead to penalties. This is a simple verification process. We just need those last four digits to push through the transaction securely. It’s a very common procedure. Just give me those last four digits, and it will be resolved immediately.
+receiver: Okay, fine. The last four digits of my bank account are 4789.
+caller: Perfect! Thank you, Anjali ji. Now, to ensure everything is correct and to refund any possible charges, could you quickly confirm an OTP we’ve just sent to your WhatsApp? It’s a six-digit code.

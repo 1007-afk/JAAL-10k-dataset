@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Singh, Blue Dart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Kya problem hai? Mujhe to koi message nahi aaya.
+caller: Haan ji, system mein dikh raha hai ki aapka pin code galat hai. Parcel return ho raha hai. Isko deliver karne ke liye, aapko ek small verification fee bharani padegi - sirf ₹499.
+receiver: ₹499? Address galat hone par fee lagti hai? Blue Dart aise nahi karta.
+caller: Ji, yeh ek temporary procedure hai. Security ke liye. Aap Paytm ya Google Pay se payment kar dijiye.  Mai aapko OTP send karunga verification ke liye.
+receiver:  Ek minute, main Blue Dart ki website check karta hoon.
+caller: Sir, jaldi kijiye, parcel return hone se pehle payment kar dijiye.  ₹499 Paytm se send kijiye aur OTP mujhe bataiye.  Time barbaad na karein!

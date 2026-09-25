@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Patel? My name is Rajesh from Secure Transactions India. We've detected unusual activity on your Paytm wallet. A withdrawal of ₹8,500 was attempted from a foreign IP address.
+receiver: Haan, yeh Mr. Patel bol raha hoon. Paytm mein? ₹8,500? Mujhe toh kuch bhi yaad nahi aa raha.
+caller: Koi baat nahi sir, yeh fraudsters bahut clever hote hain. Hamara system ne detect kiya hai, isliye hum call kar rahe hain. Account secure karne ke liye, humein aapka identity verify karna hoga. Please provide the last four digits of your Aadhaar card.
+receiver: Aadhaar card? Woh kyun? Paytm account ke liye toh Aadhaar card ki zaroorat nahi hoti na?
+caller: Sir, security protocol update hone ke baad, humein verification karna padta hai. Agar aap verify nahi karenge, toh Paytm account suspend ho sakta hai. ₹8,500 to kha jaayega.
+receiver: Theek hai, bataiye kya karna hai. Aur OTP bhi bhejo mere mobile par. Mein woh bhi bata dunga.
+caller: Ji bilkul sir. Aapke registered mobile number pe OTP bheja jaayega. OTP mujhe bata dijiye, taaki hamara system confirm kar sake.
+receiver: Haanji, OTP aa gaya hai. OTP hai 456789. Mujhe kya karna hai ab?

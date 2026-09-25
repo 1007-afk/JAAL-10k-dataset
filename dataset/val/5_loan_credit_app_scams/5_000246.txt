@@ -1,0 +1,8 @@
+caller: Namaste! Main Akash Verma, Credit Solutions se baat kar raha hoon. Aapne humare app, ‘Loan Express’ se ₹75,000 ka loan apply kiya tha, right? Verification ke liye call kar raha hoon. Aapke KYC documents sahi hai na?
+receiver: Haan, ji. Mein ne documents bhi submit kiye the. Verification process kya hai?
+caller: Bahut accha! Abhi aapka account approve ho gaya hai, lekin ek chota security check karna hai. Aapke registered mobile number par ek OTP bheja jayega, woh bataiye.
+receiver: Okay, OTP hai 482917.
+caller: Thank you! Verification successful. Abhi aapko ₹75,000 nahi milega. Loan amount ka 10% processing fee jama karna padega, ₹7,500.
+receiver: ₹7,500? Lekin app mein to free loan approval ka mention tha!
+caller: Sir, woh sirf initial offer tha. Processing fee compulsory hai. Warna aapka loan cancel ho jayega aur aapka account bhi block ho sakta hai. ₹7,500 Paytm ya Google Pay kar dijiye, main account number de deta hoon. Jaldi kijiye, warna offer expire ho jayegi.
+receiver: Ye thoda suspicious lag raha hai. Main abhi payment nahi karunga. Mein check karunga aur phir bataunga.

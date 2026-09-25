@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Raj from Paytm Payments Bank. We’ve noticed some unusual activity on your account and need to verify your identity to prevent any unauthorized transactions.
+receiver: Oh, really? Unusual activity? What kind of activity? I haven't done anything different.
+caller: Yes sir, a few small transactions originated from a different location. For security reasons, we need to confirm your Aadhaar number and the OTP sent to your registered mobile number. This is a standard protocol.
+receiver: My Aadhaar number? That seems a little risky, doesn't it? Can't you just verify through something else? Like my PAN card?
+caller: Sir, Aadhaar is the most secure method. Without it, we may have to temporarily freeze your account, which will cause major inconvenience. Please cooperate and provide the information quickly. The freeze will start in 30 minutes.
+receiver: Freeze my account? Okay, okay, don’t panic. Give me the OTP first. Let me check my phone. Just one moment... I got it. It’s 4582.
+caller: Thank you, sir. Now, please provide your Aadhaar number to complete the verification process and prevent your account from being suspended.

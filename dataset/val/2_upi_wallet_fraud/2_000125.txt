@@ -1,0 +1,8 @@
+caller: Namaste! Mai Paytm Customer Care se Rohit bol raha hoon. Aapke Paytm wallet mein ek suspicious transaction ka attempt kiya gaya hai, ₹7,500 ka. Security ke liye, aapko isko verify karna hoga aur confirm karna hoga.
+receiver: Kya? ₹7,500? Mujhe toh koi notification nahi aaya.
+caller: Haan, sir. System mein dikh raha hai. Verify karne ke liye, ‘VERIFY’ likhkar 91400 se message karo. Ismein ₹50 ka SMS charge lagega, par aapki security zaroori hai.
+receiver: ₹50 ka charge sirf message karne ke liye? Aur woh bhi suspicious transaction ke liye?
+caller: Haan sir, ye OTP generate karne ka charge hai. OTP aane ke baad, aapko sirf OTP verify karna hai aur transaction confirm karna hai. Tab aapka wallet safe rahega.
+receiver: Okay, theek hai. Main try karta hoon. ₹50 cut ho jayega, right?
+caller: Haan sir, ₹50 cut ho jayega. Verification ke baad, aapko ₹100 ka cashback bhi milega, Paytm ki taraf se. Jaldi karo, sir, time limit hai.
+receiver: ₹100 cashback? Hmmm… okay. Let me check something first.

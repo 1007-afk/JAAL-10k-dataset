@@ -1,0 +1,9 @@
+caller: Namaste Aunty! Mein BharatPay se Rahul bolta hoon. Aapke BharatPay wallet mein ₹1000 ka cashback offer hai!
+receiver: Cashback? ₹1000? Kaise?
+caller: Haan Aunty! Offer claim karne ke liye, aapko bas apna BharatPay wallet mein ₹500 deposit karne hai. Tab cashback automatically account mein credit ho jayega.
+receiver: ₹500 deposit karna hai? Aur cashback automatically aayega? Koi link ya QR code bhejo.
+caller: Nahin nahin, Aunty! Koi link nahi bhejna hai. Yeh security ke liye achha nahi hai. Aap bas apna BharatPay app khol ke ₹500 deposit kar do. Jab deposit ho jayega, toh cashback automatically ho jayega. Jaldi karo, offer limited time ke liye hai!
+receiver: Limited time? ₹500 deposit karne mein kya nuksaan hai? Par mujhe kuch shak ho raha hai. BharatPay ka official number toh mujhe pata hai, main wahan se confirm kar leta hoon.
+caller: Aunty, woh number outdated ho gaya hai. Woh old system ka hai. Yeh offer sirf select customers ke liye hai, aur aap unmein se ek hain. ₹500 deposit karo aur ₹1000 cashback le jao! Loss kya hoga? Offer expire hone se pehle jaldi karo!
+receiver: Nahin, mujhe yeh deal pasand nahi hai. Main BharatPay se khud confirm karunga aur tumko koi information nahi dunga.
+caller: Aunty, aapko nuksan hoga! ₹1000 ka cashback chala jaayega! Koi baat nahi, apna ₹500 deposit karo, main aapko ek OTP bhejuunga, woh verify karo aur cashback mil jayega!

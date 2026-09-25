@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Deepak IDFC First Bank se baat kar raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapne recently Flipkart se koi order kiya tha?
+receiver: Haan, maine kuch din pehle Flipkart se ek phone order kiya tha. Kya hua?
+caller: Woh order fraudulent nikal raha hai, aur isse aapke account par affect ho sakta hai. Account ko secure karne ke liye, mujhe aapka Aadhaar card ka last 4 digits aur ek OTP verify karna hoga. Jaldi karna hoga, warna account suspend bhi ho sakta hai.
+receiver: Woh thoda scary lag raha hai. OTP toh main kabhi bhi kisi ko nahi deta. Flipkart ka message toh maine dekha tha.
+caller: Sir, trust me, main bank se hoon. Account suspend hone se bachaane ke liye isse better aur kuch nahi hoga. OTP aapke phone par ayega, woh mujhe bata dijiye. Last 4 digits Aadhaar card ke bhi chahiye. Kuch second lagega.
+receiver: Yeh kuch bhi theek nahi lag raha hai. Main bank ke customer care number se contact karunga aur check karunga. Aapko mujhe koi details nahi denge, woh bhi suspicious hai. Main call cut kar raha hoon.
+caller: Sir, please! Account suspend ho jayega! Just the OTP, please!

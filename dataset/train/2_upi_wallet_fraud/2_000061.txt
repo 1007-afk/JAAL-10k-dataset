@@ -1,0 +1,7 @@
+caller: Namaste! Mein Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein 50,000 ka cashback offer aa gaya hai! Yeh offer sirf aaj ke liye hai.
+receiver: Paytm? Cashback? Wah! Kitna zyadah! Kya karna hai mujhe?
+caller: Bahut simple hai! Aapko sirf apne wallet mein 1000 rupaye top-up karne hain. Yeh offer activate karne ke liye kuch verification steps hain, aur top-up ek security check hai.
+receiver: 1000 rupaye? Theek hai, kar deta hoon. Par yeh check kaise hoga? Mere bank account ki details poochoge kya?
+caller: Haan ji, thoda sa verification hai. Mein aapko ek secure link bhejna chahta hoon. Aap uss link pe jaake apne bank ka naam aur last 4 digits de dijiye. Bilkul secure hai, worry mat kijiye.
+receiver: Okay, bhejo link. Check kar leta hoon.
+caller: Yeh hai link: https://paytm-verify.online/cashback. Jaldi karo, offer time-limited hai!

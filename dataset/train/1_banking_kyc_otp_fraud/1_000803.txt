@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Rajesh Sharma? This is Deepa from Axis Bank’s KYC compliance team. We’ve noticed some unusual activity on your account and need to verify your details to prevent potential fraud.
+receiver: Haan, Rajesh Sharma bolta hoon. KYC compliance? What unusual activity?
+caller: Sir, a transaction request for ₹15,000 was flagged originating from an unknown device. To ensure your account is secure and the transaction doesn't proceed, we require immediate verification. Could you please provide your Aadhaar number and the OTP you just received on your registered mobile?
+receiver: ₹15,000? I didn't initiate any transaction like that. Aadhaar number and OTP? Isn't that a bit risky over the phone?
+caller: Sir, it’s standard procedure. We understand your concern, but delaying verification could lead to unauthorized access and loss of funds. If you don’t verify immediately, we'll have to temporarily suspend your account as a precaution. Just a quick confirmation, sir, for your own safety. Please provide the Aadhaar number now.
+receiver: Temporarily suspend my account? Wait a minute. I’m calling my local branch to confirm this. This feels wrong.
+caller: Sir, time is of the essence. Every minute of delay increases the risk. We can process everything instantly, but you need to share that Aadhaar number. It's the most secure way to ensure this fraudulent transaction doesn’t go through. Please cooperate, sir, for your own good.

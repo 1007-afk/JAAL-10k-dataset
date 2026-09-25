@@ -1,0 +1,9 @@
+caller: Namaste, sir! Mein BharatPay se Rahul bolta hoon. Aapke BharatPay wallet mein cashback offer aaya hai – ₹5000! Claim karne ke liye, sirf ₹99 processing fee bhar denge, aur ₹5000 instant aapke wallet mein deposit ho jayega.
+receiver: ₹5000 cashback? Woh bhi ₹99 bharne pe? Yeh offer kahan se aaya? BharatPay app mein toh kuch dikh nahi raha hai.
+caller: Haan sir, yeh ek special limited-time offer hai, sirf select customers ke liye. Aapko sirf BharatPay app mein ‘CLAIM’ likhkar 7890123456 pe message karna hai. Fast karo, offer abhi khatam hone waali hai!
+receiver: Thoda aur batao. KYC karwaana padega kya? Aur yeh message karke main secure rahunga? BharatPay ka official number toh ye nahi lag raha.
+caller: Sir, bilkul secure hai! Koi bhi KYC nahi chahiye. ₹99 bharne ke baad aapko confirmation message milega. Fast karo, time waste na karein! Yeh offer sirf aaj tak hi valid hai.
+receiver: ₹99 kaise bharu? UPI se kar sakta hoon? Aur agar kuch gadbad hui toh?
+caller: Haan, aap UPI se bhi bhar sakte hain. Aapko sirf ek QR code mil jayega, woh scan karke payment kar dena. Agar kuch gadbad hui toh hum dekhenge, aap tension na lein. Jaldi karo! Offer khatam!
+receiver: Okay, theek hai. QR code bhejo. Mein dekh kar decide karunga.
+caller: Ji sir, QR code send kar diya hai. Scan karke jaldi bhar de. ₹5000 aapke wait mein hai!

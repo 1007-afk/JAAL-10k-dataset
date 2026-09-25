@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is from Paytm support. We noticed some unusual activity on your account and need to verify your details to prevent fraud.
+receiver: Paytm support? What kind of unusual activity? I haven’t done anything out of the ordinary.
+caller: Sir, a small payment of ₹200 has been attempted through UPI to an unknown account. To reverse this and secure your funds, you need to send ₹50 as a 'processing fee' to the account number I’ll provide.
+receiver: ₹50 processing fee? Why do I have to send money to reverse a fraudulent transaction? Shouldn’t you be contacting the recipient?
+caller: Sir, due to legal procedures, we require this fee to initiate the reversal process immediately. This is a standard protocol. Send ₹50 to 9876543210, and I'll confirm the transaction.
+receiver: This sounds very suspicious. Can you give me a reference number for this Paytm support call? And can I speak to your supervisor?
+caller: Sir, reference numbers are not issued for security reasons. But please, act fast! The window to reverse the payment is closing, and if you don't send the ₹50 now, the ₹200 will be permanently deducted from your account.

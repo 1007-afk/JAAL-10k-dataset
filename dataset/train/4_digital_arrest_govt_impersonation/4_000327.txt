@@ -1,0 +1,7 @@
+caller: Namaste, sir? Yeh Indian Customs se baat kar raha hoon. Aapke naam par ek parcel aaya hai jo customs clearance ke liye pending hai.
+receiver: Customs? Kya parcel hai? Mujhe toh koi order kiya tha.
+caller: Ji haan sir. Parcel mein illegal items paye gaye hain. Aati hai drugs ke naam se. Isliye aapko kuch legal formalities complete karni padengi aur kuch fine bhar payega taaki parcel aap tak pahunche.
+receiver: Drugs?! Mere naam se? Yeh galat hai! Main toh kabhi drugs nahi use kiya.
+caller: Sir, humein proof mil gaya hai. Ab aapko case number aur KYC details share karne padenge.  Aapko video call par bhi join karna hoga, otherwise court mein case chalega.  Aapka case number hai IC-789456.
+receiver: Court?! Wait, wait, yeh kuch gadbad lagi hai. Main police mein report karunga.
+caller: Sir, police se baat karne se kuch nahi hoga. Yeh system hai. Aapka ₹15,000 ka fine clear karein aur hum parcel aapke address bhijwa denge. Fast transfer karein, time kam hai. Account number main aapko Whatsapp karunga.

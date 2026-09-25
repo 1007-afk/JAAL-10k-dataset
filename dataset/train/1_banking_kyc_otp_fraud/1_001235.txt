@@ -1,0 +1,7 @@
+caller: Namaste, mein calling kar raha hoon Axis Bank se. Aapka account suspend hone ka risk hai. Kuch suspicious activity detect hui hai.
+receiver: Suspended? Kya? Maine toh kuch kiya nahin. Batao kya hua?
+caller: Sir, ek ne bank account se ₹12,000 ne international transfer kiya hai. Aapko pata hai is bare mein? Yeh security protocol ka part hai, humein verify karna hoga.
+receiver: ₹12,000? Nahin, mujhe koi idea nahi hai! Main toh aaj tak international transaction hi nahi kiya.
+caller: Sir, abhi zaroori hai verify karna, warna account suspend ho jayega. Aapko ek OTP milega apne registered mobile number par. Please bataiye, OTP kya hai?
+receiver: Wait, ek minute. Mein check karta hoon. (pause) Haan, ek OTP aaya hai... 567890.
+caller: Thank you sir! Account verify ho gaya hai. Aapka account abhi secure hai. Koi aur help chahiye?

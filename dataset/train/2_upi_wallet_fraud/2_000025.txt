@@ -1,0 +1,20 @@
+caller: Namaste! Yeh Sanjay Kumar se baat ho raha hai, Reliance Jio se.  Mujhe sirf ek chhoti si reminder dena hai – hum aaj Diwali ke baad ₹150 cashback offer de rahe hain, agar aap apne recharge wale app par new plan upgrade karein.  Bas aapko ek OTP chahiye, aur phir aapko WhatsApp par mera number reply karna hai, apni mobile number aur pin code bataya karo.  Aapko notification milega ki cashback kab milega.
+receiver: Oh, hello Sanjay ji.Haan, main ne woh text dekha tha.  Main apne app par dekh sakta hu ki kya update hai.  OTP chahiye?
+caller: Haanji, OTP zaroori hai.  WhatsApp par reply karte waqt, aapko apna complete mobile number aur pin code dikhana hoga.  Isliye, aapko OTP bhi chahiye, jab tak aapko cashback confirm nahi ho jaata.  Yeh offer Diwali ke baad ke recharge ke liye hai, okay?
+receiver: Okay, understood.  Mobile number hai 9876543210, aur pin code hai 400001.  Phir mujhe ₹150 cashback milega?
+caller: Haanji, bilkul!  Aapne sahi details di hain.  Main abhi OTP generate kar raha hoon. OTP mila aapko WhatsApp par.  Jald se jald OTP enter kar dein, phir aapko cashback ka confirmation milega.  Reliance Jio mein aapki madad karne walay hain!
+receiver: Dhanyawad Sanjay ji.  But, just one question - ye OTP sirf Reliance Jio ke liye hai, ya koi bhi operator use kar sakta hai?
+caller: Haanji, OTP Reliance Jio ke liye hi valid hoga.  Koi bhi dusra operator use nahi kar sakta.  Yeh offer Reliance Jio subscribers ke liye hi hai.  Aapko confusion mat ho, okay?
+receiver: Okay, okay.  I’ll keep that in mind.  Thank you for the information.
+caller: Namaste! Yeh Rajesh Kumar se baat ho rahi hai, Airtel se. Mujhe sirf ek chhoti si reminder dena hai – hum aaj Diwali ke baad ₹200 cashback offer de rahe hain, agar aap apne bill payment wale app par current plan upgrade karein. Bas aapko ek small verification code chahiye, aur phir aapko Twitter par mera number reply karna hai, apni mobile number aur city name bataya karo. Aapko notification milega ki cashback kab milega.
+receiver: Oh, hello Rajesh ji. Haan, main ne woh message dekha tha. Main apne app par dekh sakta hu ki kya update hai. Verification code chahiye?
+caller: Haanji, verification code zaroori hai. Twitter par reply karte waqt, aapko apna complete mobile number aur city name dikhana hoga. Isliye, aapko verification code bhi chahiye, jab tak aapko cashback confirm nahi ho jaata. Yeh offer Diwali ke baad ke bill payments ke liye hai, okay?
+receiver: Okay, understood. Mobile number hai 8765432109, aur city name hai Mumbai.Phir mujhe ₹200 cashback milega?
+caller: Haanji, bilkul! Aapne sahi details di hain. Main abhi verification code generate kar raha hoon. Verification code aapko Twitter par milega. Jald se jald verification code enter kar dein, phir aapko cashback ka confirmation milega. Airtel mein aapki madad karne walay hain!
+receiver: Dhanyawad Rajesh ji. But, just one question - ye verification code sirf Airtel ke liye hai, ya koi bhi operator use kar sakta hai?
+caller: Haanji, verification code Airtel ke liye hi valid hoga. Koi bhi dusra operator use nahi kar sakta. Yeh offer Airtel subscribers ke liye hi hai. Aapko confusion mat ho, okay?
+receiver: Okay, okay. I’ll keep that in mind. Thank you for the information.
+caller: Hello? This is Rohan from Vodafone Idea. Just a quick reminder about our fantastic Diwali promotion. We're offering a free data booster worth ₹100, along with a discount on your next bill if you switch to a higher plan. All you need to do is reply to this message with your account number and city name. Did you receive the message already?
+receiver: Hi Rohan. Yes, I received the message. I’m looking at my account details now. Do I really need the account number?
+caller: Haanji, bilkul! Account number is important for verifying your identity. Also, please include your city name when replying. After we verify your details, we'll send you a link to download the data booster. It's a very simple process.
+receiver: Okay, so

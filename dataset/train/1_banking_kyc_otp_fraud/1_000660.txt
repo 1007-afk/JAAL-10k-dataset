@@ -1,0 +1,20 @@
+caller: Namaste sir, main Airtel customer service se baat kar raha hoon. Aapka recharge plan expiry hone wali hai aur abhi agar aapko refresh karna hai toh…
+receiver: Airtel? Mein to Airtel hi hoon. Kaise hai?
+caller: Ji sir, sab theek hai. Par aapka plan expiry date 15th December ko hai. Agar aapko refresh karna hai toh humein aapki bank details check karne hogi. Just for security purposes, can I get your PAN card number?
+receiver: PAN? Mein to PAN card nahi paya tha kabhi. Lekin batao, agar aapko check karna hai toh… Yeh hai 8765432190.
+caller: Shukriya sir! 8765432190. And also, we need to update your address. Can you tell me the full name and pincode of your current residence?
+receiver: Mera naam Rahul Sharma hai aur pincode 411001 hai. Kuch aur chahiye?
+caller: Excellent! Rahul Sharma, pincode 411001. Now, just one more thing - we've detected some suspicious activity on your account. We need to verify your email ID to prevent any fraud. Please provide your Gmail ID.
+receiver: Gmail? Mein to Google ka user hoon, lekin Gmail ID nahi pata. Aa jayega, ab search kar raha hoon… Yeh hai rajesh.kumar@gmail.com.
+caller: Wonderful! rajesh.kumar@gmail.com. Sir, your account has been successfully verified. You will receive an SMS with activation instructions shortly. Don’t share your OTP with anyone.
+receiver: Okay, SMS ka wait kar raha hoon. OTP mil jaaye toh main aapko bata doonga. Koi aur instruction hai?
+caller: Namaste sir, main Jio customer care se baat kar rahi hoon. Aapka data pack expire hone wala hai aur agar aapko extension karna hai toh…
+receiver: Jio? Mein toh Jio hi hoon. Kabtak internet chal rahi hai?
+caller: Ji madam, aapka data pack 28th February ko expire hone wala hai. Agar aapko extend karna hai, toh humein aapke debit card details check karne hogi. Just for security, could you please provide the first four digits of your credit card number?
+receiver: Credit card? Mein to credit card nahi karta. Lekin batao, agar check karna hai toh… Yeh hai 1234. Aur kuchh chahiye?
+caller: Dhanyavaad madam! 1234. Aur sir, aapko apne bank account ka IFSC code bhi dena hoga.
+receiver: IFSC code? Woh kya hota hai? Main to sirf mobile usage karta hoon. Yeh hai HDFC0000123.
+caller: Perfect! HDFC0000123.  Now, we are updating your payment gateway. For this, we need to know the name of the person who holds the primary account.
+receiver: Primary account? Mein to single hoon. Mera naam Priya Patel hai.
+caller:  Great Priya Patel.  We have now completed all the necessary steps to extend your data pack. You will receive an SMS confirming the extension within the next hour. Please don't reveal your OTP to anyone.
+receiver: Okay, SMS ka wait kar rahi hoon. OTP mil jaaye toh main aapko bata doongi. Koi aur process hai?

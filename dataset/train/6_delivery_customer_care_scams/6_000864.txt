@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Sharma?
+receiver: Haan, main hi Neha Sharma. Bolo?
+caller: Madam, we have a problem with your Swiggy order - order number SW789456. It seems the delivery address is incomplete. We need to verify some details to ensure it reaches you safely.
+receiver: Oh? Kaise problem hai? Main to sahi address hi diya tha. Kya hua?
+caller: Yes, madam, but there's a slight error in the postal code. To correct it and prevent the order from being returned, we need to confirm a one-time password we've just sent to your registered mobile number. Please share the OTP.
+receiver: OTP? Swiggy aise OTP maangta hai? Mujhe toh kabhi nahi maanga tha.
+caller: Madam, this is a new security protocol to prevent fraudulent deliveries. It's absolutely necessary to complete your order. Just the OTP, please. Otherwise, your order will be cancelled.
+receiver: Wait a minute. I'll check my Swiggy app. (pause) This feels fishy. I’m not sharing anything.
+caller: Madam, are you sure? We're trying to help you get your order. If you don’t provide the OTP, we cannot proceed.

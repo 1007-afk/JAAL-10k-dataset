@@ -1,0 +1,7 @@
+caller: Namaste! I saw your profile on ShaadiMatch and thought you seemed very interesting. I’m Arjun, by the way. What are you looking for in a partner?
+receiver: Namaste Arjun! That's kind of you to say. I’m Neha. I'm looking for someone kind, supportive, and with a good sense of humor. What about you?
+caller: I completely agree about kindness and humor! I’m an architect, quite busy with work, but I always make time for the people I care about. I've been having a really tough time lately, actually. My mother is in the hospital in Dubai and I need to get there urgently, but I’m short on funds.
+receiver: Oh no, Arjun! That's terrible. I'm so sorry to hear about your mother. I hope she gets better soon. Is there anything I can do to help?
+caller: That's so sweet of you, Neha. It's just a matter of a few lakhs to cover the flight and initial medical expenses. If you could spare some money, even a little, it would mean the world to me and my family. I promise to pay you back as soon as I can.
+receiver: A few lakhs is a lot of money, Arjun. I’m not really comfortable with that. I hardly know you! Perhaps you could try a loan or crowdfunding?
+caller: I understand your hesitation, Neha, but time is critical. I’m desperate. I’ve shared some very personal things with you already, haven't I? Don’t you trust me? Think of my mother...

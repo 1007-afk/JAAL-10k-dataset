@@ -1,0 +1,13 @@
+caller: Namaste! Mera naam Rohan hai, QuickCreditHelp se. Aapko jaldi se kuch rupaye chahiye kya? Kisi emergency ke liye?
+receiver: Ji, haan, thoda sa. Meri beti ki school fees bharani hai, urgent.
+caller: Bahut achha! Hum ₹10,000 tak ka loan approve kar sakte hain, sirf 10 minute mein. Koi complicated paperwork nahi, bilkul simple process hai. Aapka naam bataiye?
+receiver: Mera naam Anjali Sharma hai. Lekin interest kitna hoga?
+caller: Anjali ji, interest sirf ₹1,500 hoga. Total ₹11,500 repay karne honge. Jab aapki salary aayegi, tab aap humko pay kar denge. Sirf ₹500 ka verification fee bhar den, then process start ho jayega.
+receiver: ₹500 verification fee? Main thoda confuse hoon.
+caller: Anjali ji, bina verification ke loan nahi hota. Ye security check hai. Agar aap loan nahi karna chahti, toh koi baat nahi.
+receiver: Theek hai, ₹500 bhar deti hoon. Bank details bataiye.
+caller: Please aapke mobile wallet se payment karke confirm kar dijiye. Payment confirm hone ke baad, main aapko loan amount transfer kar dunga. Aur main aapko ek OTP bheju ga, woh bhi bataiye.
+receiver: Nahin, main OTP nahi bataungi.
+caller: Anjali ji, aapko loan bhi chahiye aur OTP bhi nahi dena chahte? Ye toh ho nahi sakta! Agar aapko loan nahi chahiye, toh mujhe bataiye, main kisi aurko de dunga.
+receiver: I think I need to go. Bye.
+caller: Seriously? Don't waste my time!

@@ -1,0 +1,7 @@
+caller: Namaste! My name is Aryan, I saw your profile on 'Dil Se' and thought you were incredibly beautiful. I'm a doctor, working at a hospital in Delhi. How are you doing today?
+receiver: Namaste Aryan! Thank you! That's very kind of you to say. I'm doing well, just relaxing at home. What kind of doctor are you?
+caller: I specialize in cardiology. It’s a demanding job, but I love helping people. I’ve been feeling a little lonely lately though, working long hours. You seem like someone who would brighten my day.  Are you working or studying?
+receiver: That's wonderful, a doctor! It must be very rewarding. I’m a teacher, I teach English to young children. It’s lovely, but sometimes tiring!  So, Delhi is busy, I imagine?
+caller: Yes, it is very busy, but I wouldn't trade it. Listen, I’m going to be out of the country for a week, visiting my family in London. Unfortunately, there's been a family emergency – my sister needs a surgery. I'm short on funds at the moment. Would you possibly be able to lend me ₹20,000? I promise to pay you back as soon as I return.
+receiver: Oh no! That's terrible about your sister.  I'm so sorry to hear that. I don’t really feel comfortable sending money to someone I just met online, Aryan. It’s a bit risky, isn't it?
+caller: I understand your concern, Priya, but I wouldn’t ask if it wasn't important.  I’ve sent you a picture of my sister.  Just a small amount would make a huge difference. Think of it as helping someone in need. I can send you the hospital report as

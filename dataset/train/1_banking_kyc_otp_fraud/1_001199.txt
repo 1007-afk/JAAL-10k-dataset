@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? I'm calling from Axis Bank's KYC department.
+receiver: Haan, bolie. Kya hua?
+caller: Sir, your KYC is due for renewal. If you don’t update it within 24 hours, your account will be temporarily suspended. It's a very simple process, just a few details to verify.
+receiver: KYC? Par mujhe toh bank ne koi message nahi bheja tha. Aur main toh online banking use karta hoon, na ki kabhi branch jata hoon.
+caller: Sir, due to high call volume, not everyone receives a notification. But the system automatically flags accounts. To prevent suspension, I need to confirm your Aadhaar number and the last four digits of your PAN card. It’s just for verification.
+receiver: Aadhaar number? PAN card? Itne important details phone par? Yeh theek nahi lag raha. Bank aise details nahi manta, mujhe pata hai.
+caller: Sir, this is a secure line. We are following new RBI guidelines. We can also send you an OTP to your registered mobile number, and you can read it out to me. But the Aadhaar and PAN details are required for complete verification. It's just taking a minute, sir. Please cooperate, or your account will be blocked.
+receiver: OTP ka idea thik hai, par Aadhaar aur PAN card details main nahi dunga. Yeh scam lag raha hai. Main police mein report karunga agar aapne mujhe disturb kiya.
+caller: Sir, please don't be like that. It's a simple formality. You're risking your entire account. If you just give me the details, I can assure you everything will be fine. Otherwise, you’ll face a lot of trouble. I can even send you an SMS with a reference number. Just give me the details.

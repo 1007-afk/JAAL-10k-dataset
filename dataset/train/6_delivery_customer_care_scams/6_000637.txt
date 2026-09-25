@@ -1,0 +1,7 @@
+caller: Namaste! Flipkart se bol raha hoon. Aapke naam par ek parcel aaya tha, lekin address mein kuch problem hai. OTP pataa chahiye hoga address confirm karne ke liye.
+receiver: Flipkart? Kya address problem hai? Mujhe koi notification nahi aaya. OTP mat doonga, yeh scam lag raha hai.
+caller: Sir, please don't worry. Yeh security protocol hai. Agar OTP nahi denge toh parcel return ho jayega. ₹500 ka parcel hai, aapko woh loss nahi chahiye na?
+receiver: ₹500? Kya parcel number hai? Mai Flipkart app pe check karta hoon. Aur yeh OTP kahan bhejna hai?
+caller: Parcel number 7894561230 hai. OTP 123456 send karenge aapke registered mobile number par. Jaldi karo, delivery boy gate pe wait kar raha hai.
+receiver: Wait, wait. Mai abhi check karta hoon. Yeh number toh mera nahi hai…yeh scam hai!
+caller: Sir, please listen! Time is running out! If you don't confirm now, the parcel will be returned! You will lose the item and the ₹500 you spent!

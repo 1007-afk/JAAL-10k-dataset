@@ -1,0 +1,8 @@
+caller: Namaste sir, dis is your HDFC Bank branch manager. Your account information needs an update. Due to recent security protocols, we need to verify your details online. Can you provide me your account number and current mobile number linked to it?
+receiver: Oh, really? Update needed? Tell me more, please. What kind of details are you looking for exactly?
+caller: Haan, account number is 9876543210, mobile number is 8765432109, and your registration date of birth - that’s January 2nd, 1992. We just need these few details for a quick verification.
+receiver: 9876543210… and my mobile number is 8765432109, and DOB is January 2nd, 1992. Is that all?
+caller: Exactly, sir. Now we're confirming those details. You will receive an SMS with an OTP on your registered mobile number. Please share that OTP with us for completion.
+receiver: Okay, let me check my phone... Yes, I received it. The OTP is 456789. Should I give it to you?
+caller: Absolutely, sir. That OTP confirms everything. Thank you for your cooperation. Your account information update is now complete. Do you require any further assistance from the bank today?
+receiver: No, thank you very much. Appreciate you taking care of this. Have a great day!

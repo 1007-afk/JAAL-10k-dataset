@@ -1,0 +1,7 @@
+caller: Namaste, main Indian Customs se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, jismein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Yeh kaise ho sakta hai? Main toh kabhi parcel order nahi kiya.
+caller: Ji, parcel tracking number XYZ123456 hai.  Aapko parcel release karne ke liye kuch formalities complete karna padega aur ₹15,000 ka fine bhar payega.
+receiver: ₹15,000?  Par main toh kuch bhi order nahi kiya tha. Aur main bank transfer nahi karta, mujhe yeh kuch zyada hi lag raha hai.
+caller:  Dekhiye, yeh legal process hai. Agar aap cooperate nahi karenge, toh humko majboor hona padega aapke khilaf action lena.  Aapko kisi bhi case se bachna hai.  Payment karne ke liye bank account details main aapko de sakta hoon.
+receiver: Ek minute, Atul ji. Main customs ki official website pe check karta hoon. Aap mujhe ek official email ID ya phone number de sakte hain jahan main verify kar sakoon?
+caller:  Sir, yeh matter bahut urgent hai. Website par thoda time lega. Main aapko phone pe hi guide karunga.  Bas account number de dijiye, hum aapko OTP bhejenge verification ke liye.

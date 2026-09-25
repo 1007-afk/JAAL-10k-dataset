@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, main LoanPlus se call kar raha hoon. Aapka loan application process mein hai, aur verification ke liye humein aapse kuch details chahiye.
+receiver: LoanPlus? Mujhe toh koi application nahi kiya tha.
+caller: Haan sir, aapne hamari website par form fill kiya tha, lekin kuch details incomplete the. Bas kuch details confirm karwa len, tabhi loan approve ho jayega. ₹75,000 ka instant loan aapko mil sakta hai.
+receiver: Website ka naam kya tha? Mujhe yaad nahi aa raha. Aur why need to verify over the phone?
+caller: Website ka naam LoanPlus.in tha. Aur verification phone pe hi hoga sir, security ke liye.  Aapko apna PAN card number aur bank account ka last four digits batao, please.  Agar aap cooperate karenge toh aaj hi aapko loan mil jayega.
+receiver: PAN card number phone pe?  Yeh thoda risky lag raha hai.  Mere dost ne kaha tha online hi verify karte hain.
+caller: Sir, online mein system mein technical issues hai.  Koi aur option nahi hai.  Agar aap loan nahi lena chahte toh theek hai. Lekin agar aapko urgent loan chahiye toh abhi batao.  Aapka time barbaad ho raha hai.
+receiver: Theek hai, check kar leta hoon.  Ek minute.

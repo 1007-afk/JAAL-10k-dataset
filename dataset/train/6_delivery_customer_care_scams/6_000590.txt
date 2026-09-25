@@ -1,0 +1,9 @@
+caller: Hello, is this Rohan Verma? I’m calling from Zomato customer care. There’s been an unusual transaction on your account – a large order placed to an address in Mumbai.
+receiver: Rohan Verma, yes. But I didn’t order anything to Mumbai! What’s the amount?
+caller: Yes, sir. The order is for ₹2850. It appears the payment went through. To secure your account, we need to verify a one-time password (OTP) that we're sending to your registered mobile number. This is just a standard security protocol.
+receiver: An OTP? Why would I need an OTP for a problem with my account? Shouldn’t you be investigating the fraudulent order?
+caller: Sir, the OTP is crucial to block the transaction and prevent further unauthorized activity. Once we verify it, we'll initiate a refund and block your card. Just read out the OTP and we’ll take care of the rest. Don't worry, it’s perfectly safe.
+receiver: Okay, I’m a little worried now. Can you tell me the order number so I can check on the Zomato app?
+caller: The order number is ZM789456. But please, the OTP is time-sensitive. We need to get this done quickly to prevent further charges. The OTP is…
+receiver: Hold on. Let me just quickly check my Zomato app.
+caller: Sir, the OTP expires in just 30 seconds. Please hurry!

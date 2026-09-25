@@ -1,0 +1,8 @@
+caller: Hello? Main CBI se Rohan bolta hoon. Aapke naam par ek parcel mila hai, jo illegal activities se related hai.
+receiver: Illegal activities? Mera naam? Kya bol rahe ho? Mujhe toh koi parcel nahi mila.
+caller: Haan madam, records mein aapke address par aaya hai. Drug trafficking ka case hai. Abhi aapko ek video call mein join karna hoga CBI headquarters mein. Varna warrant nikalna padega.
+receiver: Drug trafficking? Main toh kabhi drugs ko touch bhi nahi kiya. Ye sab fraud hai. Koi headquarters ka number dedo, main khud call karti hoon.
+caller: Woh nahi ho sakta, madam. Security reasons se hum call karte hain. Video call mein aapko proof dekhna padega aur thoda clear karna padega, tabhi case band hoga. Isliye 50,000 rupees online transfer karein, legal process ke liye.
+receiver: 50,000? Ye toh daylight robbery hai! Main police mein complaint karungi. Aur jo bhi illegal parcel hai, woh return kar do.
+caller: Police mein complaint karne se kuch nahi hoga, madam. Case toh chal raha hai. Abhi transfer karein nahi toh aapki arrest warrant nikal jayegi. Aapki family ko bhi pareshani hogi.
+receiver: Main tumhe block kar rahi hoon. Tumhara koi vakt nahi.

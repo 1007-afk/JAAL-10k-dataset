@@ -1,0 +1,9 @@
+caller: Namaste sir, Main Tata Digital Support se hoon. Aapki Jio number ko update karne ke liye humein kuch verification karna hai, isliye aapko ek six digit OTP mila hoga. Plzz woh OTP bolde sir.
+receiver: Oh, haan. Jeech sir, ek moment dekhoon. Aa gaya hai message. OTP hai 7391. Aapne kya kaha? Haan, 7391.
+caller: Dhanyavaad sir, OTP mil jake shukriya. Ab verification khatam hone ke liye, mujhe apne mobile bill ki last three digits chahiye. Kindly bataiye.
+receiver: Mobile bill ki last three digits? Uhm, mujhe thoda time chahiye. Ek second hold kijiye.
+caller: Ji sir, jaldi karein. Yeh process bahut important hai. Aur humare paas time kam hai. Agar aap yeh bataane waliya nahi karte toh humara process stop ho jayega. Plzz three digits bata dijiye.
+receiver: Sorry sir, mujhe mera mobile bill number yaad nahi aa raha. Kya yeh genuinely required hai? Koi alternate way hai number verify karne ka?
+caller: Haan sir, yeh zaroori hai. Apne Jio number ko system mein record karne ke liye apne mobile bill details ki requirement hai. Iske bina hum verification complete nahi kar sakte. Kya aapko yaad nahi hai kaunse mobile bill ka number bataayenge? Thoda attempt karein sir, apna time aur hamara time bhi save karein.
+receiver: Sir, maine kah diya na, mujhe actual number yaad nahi aa raha hai. Bill ka date kab tha, ya kisi other detail bhi nahi pata. Kaise hoga verify karna?
+caller: Seriously sir? Mujhe lagta hai aapko koi problem hai. Kya aapko koi medical issue hai ya koi confusion hai? Plzz bataiye, otherwise humari process band ho jayegi.

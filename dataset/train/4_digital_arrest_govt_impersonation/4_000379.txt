@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Neeraj Verma bol raha hoon. Aapke naam par ek parcel airport par aaya hai, jismein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kuch order nahi kiya tha.
+caller: Ji, parcel mein suspicious documents aur electronic gadgets hain. Case number IC-2024-789 hai. Aapko CBI ke officer se baat karne ki zaroorat padegi, lekin pehle humein ek security deposit chahiye taaki parcel release ho sake. Rs. 15,000 kaat len.
+receiver: Rs. 15,000? Yeh kya bol rahe hain aap? Main abhi kisi bhi type ka deposit nahi karunga. Mujhe parcel dekhna hai, aur CBI officer se baat karni hai.
+caller: Madam, time bahut kam hai. Agar aap cooperate nahi karenge, toh case register ho jayega aur aapko court mein bhi jaana padega. Hum aapko video call par connect kar sakte hain CBI officer se, lekin pehle deposit zaroori hai.
+receiver: Video call? Theek hai, dikhaiye CBI officer ko. Par pehle mujhe pata chahiye ki parcel mein kya hai.
+caller: Ji, officer aapko abhi call karenge. Lekin madam, seedhe baat karne se pehle, Rs. 15,000 deposit karo.  Otherwise legal action lena padega.
+receiver: Yeh legal action ka dhamkiyan... yeh galat hai. Main police mein complaint karungi.

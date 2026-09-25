@@ -1,0 +1,6 @@
+caller: Namaste! Is this Mr. Sharma? We’re calling from Swiggy Customer Care regarding an unusual transaction on your account.
+receiver: Haan, bolie. What transaction? I haven’t ordered anything recently.
+caller: Sir, we've noticed a payment of ₹4,500 being attempted for a delivery to an unknown address. It seems like someone might be trying to use your Swiggy Pay balance fraudulently. We need to verify this immediately.
+receiver: ₹4,500? That's a lot! I definitely didn't authorize that. What do I need to do?
+caller: To secure your account, sir, we require a one-time password (OTP) that we're about to send to your registered mobile number. Please provide it to us so we can freeze your account.
+receiver: Wait a minute! Why do I need to give you an OTP? Shouldn't Swiggy already have my number? This feels a little fishy. I’m not giving anything until I confirm.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma speaking? This is Rajesh from Bluestar Courier. We have a package addressed to you, but there’s a slight issue with the delivery address.
+receiver: Haan, bolie. What’s the problem?
+caller: Sir, the pin code doesn't match the address we have on file. To avoid the package being returned to sender, we need to verify a few details. Can you please provide the last four digits of your PAN card? It’s just a security measure.
+receiver: PAN card details? Why would you need that for a delivery? That sounds fishy.
+caller: Sir, it’s standard procedure. We're dealing with high-value items, you see. Just the last four digits, please. Or, alternatively, could you tell me the OTP you just received on your registered mobile number for verification?
+receiver: OTP? No, I haven’t received any OTP. And I’m not giving you my PAN card details.
+caller: Sir, are you sure? It’s very important to verify. The delivery is being held up. Perhaps you should check your messages again – it may have gone to spam. We can’t release the package without confirmation. A small fee of ₹250 is also required to re-route the package - can you confirm using UPI to 8282828282?

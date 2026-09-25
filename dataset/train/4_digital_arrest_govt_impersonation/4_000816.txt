@@ -1,0 +1,11 @@
+caller: Namaste! Main Indian Customs se Rohit Khanna bol raha hoon. Aapke naam par ek parcel aaya hai, lekin mein use customs clearance ke liye hold kar rahe hain.
+receiver: Customs? Parcel? Mujhe koi parcel order karne ya aane ka yaad nahi hai.
+caller: Ji, ji. Aapko yaad nahi aa raha, lekin parcel aaya hai. Mein ne usmein illegal items paye hain - drugs ka suspicion hai.
+receiver: Drugs?! Yeh toh galat hai! Mein toh kabhi drugs nahi use karta. Mujhe parcel ka number aur details bataiye. Mein check karta hoon.
+caller: Parcel number is IND-789456123. Clearance ke liye ₹15,000 ka fine jama karna padega. Dusre option mein, aapko hum log police mein report kar sakte hain.
+receiver: ₹15,000? Police report? Wait, wait. Mein check karta hoon. Agar parcel illegal hai, toh police toh khud hi action lega na? Kuch gadbad hai. Mein koi payment nahi karta. Mein apne bank se baat karta hoon aur phir see you.
+caller: Sir, please! Aapko samjhna chahiye, yeh matter serious hai. Agar aap cooperate nahi karenge, toh aapko legal problems ka samna karna padega. ₹15,000 sirf fine hai, police mein report hone se better hai.
+receiver: Look, Sir, mujhe yeh sab zyada suspicious lag raha hai. Mein koi payment nahi karta. Aap mujhe customs ka official phone number de sakte hain? Mein khud confirm karta hoon.
+caller: Sir, time kam hai. Yeh legal process hai. Payment karo, parcel release ho jayega. Aapko koi aur number nahi milega.
+receiver: Okay, Sir. Thank you for your time. I'm going to report this number as a scam. Bye.
+caller: Sir,

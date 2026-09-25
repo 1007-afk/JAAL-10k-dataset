@@ -1,0 +1,8 @@
+caller: Namaste, Sir. Main Tata Cliq customer care se Aakash bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch confusion hai.
+receiver: Oh, really? What's the confusion? I placed an order recently, so maybe that's it.
+caller: Ji haan. System mein address likha hua hai Delhi ka, lekin aapka phone number Haryana se dikh raha hai. Confirm kar sakte hain aap apna delivery address?
+receiver: Hmm, that's strange. My address is definitely Panchkula, Haryana. 123456.
+caller: Ji, thank you Sir. Ab main verification ke liye aapka OTP check karunga. Tata Cliq ne aapko ek OTP bheja hai, please bataiye.
+receiver: Wait a minute… I didn't receive any OTP from Tata Cliq. I'm not sure about this.
+caller: Sir, jaldi karo. Parcel out for delivery hai, aur OTP verify hone ke baad hi hum deliver kar paenge. ₹500 delivery charge lagta hai, jo aapko confirm karna hai. Credit card detail bataiye.
+receiver: Hold on! I’m not giving you my card details. I’ll check my Tata Cliq account directly. This feels fishy.

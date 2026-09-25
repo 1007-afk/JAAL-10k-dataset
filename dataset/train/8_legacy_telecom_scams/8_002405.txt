@@ -1,0 +1,10 @@
+caller: “Namaste, Airtel customer service par Manoj bol raha hoon. Aapki prepaid mobile number 8765432109 24 hours ke andar suspend ho jayegi. Kya aap isko reactivate karna chahte hain?”
+receiver: “Airtel se? Mein samajh nahin sakta! Meri number suspend hogee? But why? Mujhe koi problem nahin hai, mujhe koi charges bhi nahin lagna hai.”
+caller: “Sir, please tension mat lo. Hamare system mein technically kuch gadbad hai. Suspension sirf temporary hai. Agar aapko number reactivate karna hai, to aapko kuch information diyein honge. Aapka complete name aur aapkiadhar card number bataiye please?”
+receiver: “Mein Rahul Kumar hu. Aur meri aadhar card number 123456789012345 hai. Kya aap mujhse yeh details kyun le rahe hain?”
+caller: “Thank you Rahul Ji. Aadhaar number 123456789012345, correct hai? Sir, hamare network mein ek bug aa gaya hai. Isliye aapki number ko temporarily block kiya ja raha hai. Hum isko jaldse jald fix kar rahe hain. Activation ke liye aapko ek verification code chahiye. Code dekho, 548729 ya 918374 mein se kisi ek number ko enter karein.  Kya aapko code mila hai?”
+receiver: “Code? Mere paas koi code nahi hai. Aapne mujhse kya kaha tha? Aapne kaha tha ki suspension temporary hai. Yeh sab ek fraud hai!”
+caller: "Haan, sir, maaf karna. Wo code aapke registered WhatsApp number pe bheja gaya tha. Whatsapp number bataiye please."
+receiver: "Mere WhatsApp number ka extension 123 hai.  Aapne mujhse yeh number kyun leya?  Yeh kitni bakwaas hai!"
+caller: "Thank you Rahul Ji. WhatsApp extension 123, correct hai? Sir, hamare server mein ek problem aa rahi hai. Isliye aapki number ko auto-suspend karne ka order diya gaya hai.  Time bahut kam hai, please hurry up karo."
+receiver: “Main abhi whatsapp check karta hun.  Mujhe code mil jaaye toh batata hun.  Aapne mujhse aise questions kyun puch rahe hain?  Ye bilkul bhi sahi nahin hai!”

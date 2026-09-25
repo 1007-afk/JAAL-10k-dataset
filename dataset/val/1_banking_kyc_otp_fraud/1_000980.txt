@@ -1,0 +1,6 @@
+caller: Namaste, main Rohit Verma IDFC First Bank se baat kar raha hoon. Aapke account mein kuch suspicious activity dikhi de rahi hai, sir. KYC update zaroori hai urgent basis pe.
+receiver: Kya? Suspicious activity? Main toh aaj tak koi transaction nahi kiya. KYC update? Mujhe toh koi message aaya nahi.
+caller: Haan sir, system ne flag kiya hai. Agar aapka KYC update nahi hua toh account suspend bhi ho sakta hai, sir. Aapka naam aur aadhaar number bataiye, verification ke liye.
+receiver: Arre yaar, phone pe Aadhaar number? Itna risky toh hai na? Bank toh kabhi phone pe aise details nahi manta, right?
+caller: Sir, yeh bank policy hai. Account ko secure rakhne ke liye immediate action lena padega. Jaldi se bataiye, sir, otherwise account block ho jayega. 30 minute se zyada time nahi hai. OTP bhi share karna padega, verification ke liye.
+receiver: Account block ho jayega? Ok, ok... Aadhaar number [invented Aadhaar number]. Par OTP nahi doonga main, main branch mein jaake karwa loonga.

@@ -1,0 +1,8 @@
+caller: Hello, good morning. This is Akash from FedEx. We attempted to deliver a package to your address yesterday, but there was an issue with the payment details. Can I speak with the recipient, please?
+receiver: Haan, bolie. Mujhe kya hua? Package konsi hai?
+caller: Sir, it seems there's a discrepancy in the payment information linked to your account. A temporary hold has been placed on the delivery until we verify this. It's a high-value item, so security protocols are in place. We need to confirm a one-time OTP to release the hold.
+receiver: OTP? Yeh kya baat hui? Mainne toh payment kar diya tha. Kuchh galti toh hogi.
+caller: Yes sir, there might be some technical error. To quickly resolve this, could you please share the OTP that was sent to your registered mobile number? It’s very important to get this resolved promptly to avoid further delays.
+receiver: Arre yaar, OTP dene se kya hoga? Maine toh online payment kiya tha. Mujhe doubt ho raha hai. Flipkart se toh kabhi OTP nahi maanga tha.
+caller: Sir, this is a security measure to prevent fraudulent activity. This is a standard procedure. We can also ask you to confirm a few digits of your card to ensure its your account. Please do not worry, we are just confirming your details. Just give me the OTP and the first 6 digits of your card so I can verify.
+receiver: Ek minute rukie. Main abhi apne Flipkart account check karta hoon.

@@ -1,0 +1,6 @@
+caller: Hi Neha, I saw your profile on Shaadi.com – you're absolutely stunning! I’m Amit, just moved to Bangalore for work as a software engineer. It's a bit lonely here, thought I'd reach out.
+receiver: Oh, hi Amit. Thank you. Bangalore is quite busy, isn't it? What kind of work do you do exactly?
+caller: I work with data analytics at Infosys. Long hours, but rewarding. I was looking for someone to share evenings with, someone to explore the city with. Maybe we could grab some dosas sometime? What do you enjoy doing?
+receiver: Dosa sounds nice. I’m a teacher, so my evenings are usually pretty full with grading and lesson planning. I like reading and watching movies. Are you from Bangalore originally?
+caller: No, I'm from Delhi. I’m saving up to visit my family soon, but things are a bit tight at the moment. My mother is unwell, needs some medication. It's around ₹15,000. Any chance you could lend a helping hand? I’ll pay you back as soon as I get paid.
+receiver: Amit, I’m really sorry to hear about your mother. But lending money to someone I’ve just met… that’s a bit risky, don’t you think? I hope she feels better soon.

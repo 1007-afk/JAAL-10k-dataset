@@ -1,0 +1,7 @@
+caller: Hello sir/madam! I am calling from FreeCharge customer support. We have detected some suspicious activity on your FreeCharge wallet. For security reasons, we need to verify your details.
+receiver: Oh really? What kind of suspicious activity? I haven't done anything unusual.
+caller: Sir, a transaction of ₹499 was attempted from your wallet to an unknown UPI ID. To prevent any further unauthorized transactions, we need you to confirm a small processing fee of ₹99 to freeze your wallet temporarily.
+receiver: ₹99? To freeze my wallet? Why wasn't I notified beforehand? And how do I pay this fee?
+caller: Sir, due to the urgency of the situation, we couldn't notify you in advance. To pay the fee, just send ₹99 via UPI to this number: 7891234567. Once we receive the payment, your wallet will be secured immediately.
+receiver: Wait a minute. This seems fishy. Why should I pay to secure my own wallet? I’ll call FreeCharge directly to verify this.
+caller: Sir, please do not delay! The fraud attempt is still ongoing, and every second counts. We are trying to protect your money, so please send the ₹99 quickly, or we cannot guarantee the safety of your funds.

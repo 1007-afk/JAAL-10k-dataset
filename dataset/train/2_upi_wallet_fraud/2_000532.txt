@@ -1,0 +1,7 @@
+caller: Hello sir, this is calling from Axis Bank’s reward point department. We’ve noticed you’ve accumulated a large number of reward points recently, and we’re offering a special promotion to redeem them quickly.
+receiver: Oh really? That's great news! How do I redeem them?
+caller: To initiate the redemption process, we need to verify your identity. We will send you a collect request on PhonePe for a small processing fee of ₹200. This will activate your bonus rewards.
+receiver: ₹200? Is that necessary? I thought reward points were supposed to be free.
+caller: Sir, this is a limited-time offer to prevent fraudulent activity and ensure your points are safely redeemed.  It's a one-time security verification. Please accept the collect request on PhonePe. The request is being sent now.
+receiver: Okay, I've received it. Let me check... Done! I've sent the ₹200.
+caller: Thank you, sir! Now, to activate the full reward bonus, we require you to complete a final verification. Please share the last four digits of your debit card number for confirmation.

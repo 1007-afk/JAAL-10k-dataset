@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI bank se Rahul bol raha hoon. Aapke naam par ek online transaction hua hai jo suspicious lag raha hai.
+receiver: Oh? Kitna transaction hua? Aur kya suspicious hai?
+caller: 12,000 rupay ka transaction hua hai, sir. Ek international website par.  Aapne kabhi aisa koi transaction kiya hai?
+receiver: Nahin, maine toh kabhi international transaction nahi kiya. Yeh to galat hai!
+caller: Ji sir, galat transaction hai toh humein verification karna padega.  Aapka Aadhaar card number aur OTP dedo, taaki hum account secure kar sakein. OTP aapke phone par aayega.
+receiver: Aadhaar number aur OTP?  Yeh bahut risky lag raha hai.  Main bank branch mein jaakar check karunga.
+caller: Sir, time bahut kam hai. Agar aap jaldi verification nahi karenge toh aapka account freeze ho jayega.  Aapko nuksan bhi ho sakta hai. Just share the OTP, please.

@@ -1,0 +1,8 @@
+caller: Namaste sir, main HDFC bank se bol raha hoon. Kya main Mrs. Gupta se baat kar sakta hoon?
+receiver: Haan ji, bolenge. Sharma ji nahi rehte yahan. Aapko kisi aur ko dekhna hoga.
+caller: Arre, mujhe maaf karna madam! Lagta hai maine number galat milaya. Main ek dusri Mrs. Gupta dhoondh raha tha. Aapki bahut-bahut shukriya, mujhe batane ke liye. Main abhi call cut karta hoon. Have a nice day!
+receiver: Koi baat nahi sir. Such small mistakes happen. Don’t worry about it. May your day also be good!
+caller: Namaste sir, I am from ICICI Bank and I'm calling about a security issue related to your account. Could I speak to Mrs. Gupta, please?
+receiver: Hello, ji. Mrs. Gupta? You have dialed the incorrect number once more. There isn't anyone here by that name. It appears you might be attempting to reach another individual. Please ensure you have the correct number before making further calls.
+caller: Oh my goodness, I sincerely apologize, sir! I seem to be struggling with finding the right number today. I am searching for Mrs. Priya Patel, account number ending in 4321. Do you perhaps know if she lives here? Thank you very much for letting me know.
+receiver: Nahin, koi baat nahin, ji. Mujhe pata nahi. But I don't recall any Mrs. Priya Patel residing here, especially with an account ending in 4321. You should always check directly with the bank for verification or try to find her contact information through official channels. Again, she isn't here. Sorry.

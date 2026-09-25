@@ -1,0 +1,7 @@
+caller: Namaste! Main Deepankar bol raha hoon, Zomato Customer Care se. Aapke recent order mein ek problem aa gayi hai. Payment gateway mein technical fault aa gaya hai, isliye order hold ho gaya hai.
+receiver: Kya? Mere order mein problem? Main toh aaj afternoon mein lunch order kiya tha, urgently tha.
+caller: Haan sir. System mein error dikha raha hai, last few digits of your card are not matching. Aapko bas ek OTP verify karna hai, tabhi order resume ho jayega aur delivery start ho jayegi.
+receiver: OTP? Mere card ka OTP? Kaise verify karna hai? Mujhe toh kuch SMS nahi aaya hai.
+caller: Ji, OTP aapke registered mobile number pe aayega. Uska notification check karke tell karo, then main process complete kar dunga. Hurry, order time ho raha hai aur order cancel ho sakta hai.
+receiver: Wait a minute. Zomato Customer Care se call kar raha hoon? Main app pe check karta hoon.  Yeh number toh Zomato ka official number nahi hai.  Lagta hai scam hai.
+caller: Arre, aap tension mat lo! System update ke karan number change ho gaya hai, bas OTP check karo, phir sab theek ho jayega!

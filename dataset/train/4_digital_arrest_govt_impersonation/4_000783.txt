@@ -1,0 +1,8 @@
+caller: Namaste sir, main Cyber Cell se Rohan bol raha hoon. Aapke naam par ek parcel aa raha tha, usmein illegal items mile hain.
+receiver: Illegal items? Yeh kya bol rahe hain aap? Mujhe toh koi parcel order nahi kiya tha.
+caller: Sir, parcel tracking number XYZ123456789 hai. Jaanch mein dikha raha hai ki aapke address par aaya tha. Ismein suspicious chemicals hain, jo drug smuggling se judi hain.
+receiver: Yeh toh bahut galat baat hai! Main toh kuch bhi illegal nahi kar raha hoon. Mujhe yeh parcel kisne bheja?
+caller: Sir, humko pata toh hai, lekin jaanch chal rahi hai. Aapko CBI investigation officer Inspector Singh se baat karni padegi. Yeh matter serious hai, sir. Aapko ₹50,000 fine bharne hoga taaki matter ko settle kiya ja sake.
+receiver: ₹50,000? Yeh kitna zyada hai! Main abhi itna paisa nahi de sakta. Aur mujhe Inspector Singh se baat karne do.
+caller: Sir, time bahut kam hai. Agar aap abhi fine nahi bharte, toh aapko arrest bhi ho sakta hai. Inspector Singh aapki baat kareinge, par fine bharne ke baad hi. Aapko video call par bhi aana padega taaki jaanch ho sake.
+receiver: Theek hai, theek hai. Main kaise fine bharu? Aur video call ka link bhejo.

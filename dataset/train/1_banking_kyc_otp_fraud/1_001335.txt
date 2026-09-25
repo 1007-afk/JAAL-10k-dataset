@@ -1,0 +1,6 @@
+caller: Namaste, sir? This is Rakesh from Axis Bank’s security department. We’ve noticed some unusual activity on your linked Paytm account. Seems like someone attempted to make a large transaction from it.
+receiver: Haan, bolo Rakesh. Paytm pe transaction? Kitna bada transaction tha? Mujhe toh koi notification aaya nahi.
+caller: Ji sir, it was for ₹15,000. We blocked it immediately to prevent fraud. To fully secure your account, we need to quickly verify your details. Could you please share the last four digits of your Aadhaar card for confirmation?
+receiver: Aadhaar card number? Why Aadhaar number? I thought Axis Bank already has my Aadhaar details. This feels a bit fishy, yaar.
+caller: Sir, for added security, we need to re-verify it. It’s a new protocol. Failing to do so, we will be forced to temporarily freeze your account as a precaution. We don't want to inconvenience you, sir. Just the last four digits are required.
+receiver: Freeze mera account? Wait a minute. This is exactly what they tell you in those scam calls. I’m calling Axis Bank customer care directly. I'm not giving you any details over the phone.

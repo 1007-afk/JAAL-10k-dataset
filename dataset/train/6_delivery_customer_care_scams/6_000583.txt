@@ -1,0 +1,8 @@
+caller: Namaste! This is Akash from Bluedart Courier. We have a parcel addressed to you, but there's a small issue with the delivery. It requires a quick verification.
+receiver: Bluedart? What issue? I didn't order anything.
+caller: Yes sir, sometimes addresses get mixed up. To ensure the parcel reaches you safely, we need to verify your payment details. There's a ₹200 clearance fee due to a temporary customs hold.
+receiver: ₹200? For customs? I’m not sure… why wasn’t I contacted earlier?
+caller: It’s a new protocol sir. We’re trying to avoid delays. Please provide the last 4 digits of your debit card so we can process the verification. It’s just a security measure. We’ve only got 3 parcels pending verification right now.
+receiver: Last four digits of my card? That sounds very risky. I need to think about this.
+caller: Sir, please don't delay. If you don’t clear the fee within the next 5 minutes, we’ll have to return the parcel to the sender. This is a limited-time offer for existing customers.
+receiver: Okay, fine. Give me the number again.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from QuickCash Solutions. We've pre-approved you for a personal loan of up to ₹75,000 instantly! No credit check needed. Just a few quick details.
+receiver: Oh really? ₹75,000? That's quite a bit. What's the catch?
+caller: No catch, sir! It’s a promotional offer. Just to activate the loan, we need a small processing fee of ₹5,000 as a security deposit. This will be deducted from your first EMI.
+receiver: ₹5,000 upfront? That seems a little high. What's the interest rate on the loan itself? And what will my monthly installments be?
+caller: Sir, the interest rate is competitive, 18% per annum. Your EMI will be approximately ₹3,500 per month. But you MUST pay the ₹5,000 processing fee immediately to secure the approval. Otherwise, the offer expires in one hour.
+receiver: 18% is quite high, and ₹5,000 upfront... I need to think about it. Can you send me some details in writing, perhaps by SMS?
+caller: Sir, due to high demand, we cannot send written details. This is a limited-time, exclusive offer. Delaying will mean losing it. And to finalize it, we need your Aadhar card number and a selfie. This is standard procedure to verify your identity and prevent fraud.

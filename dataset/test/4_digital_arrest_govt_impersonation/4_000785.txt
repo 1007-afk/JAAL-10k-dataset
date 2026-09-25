@@ -1,0 +1,8 @@
+caller: Namaste Sir! Mai CBI se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, jo illegal drugs se related hai.
+receiver: CBI? Drugs? Yeh kya bol rahe hain aap? Mera naam hi parcel se connect nahi hai.
+caller: Sir, system mein aapka naam hai. Parcel mein heroine mili hai. Ab aapko ek inquiry complete karni hogi, warna case register hoga aur aapko arrest bhi kiya ja sakta hai.
+receiver: Arrest? Par main toh kuch bhi nahi jaanta! Yeh sab fraud hai. Main police station mein jaaunga.
+caller: Sir, please chup rahein. Police station mein jaakar kuch nahi hoga. Hum log video call par baat kar rahe hain taaki aapko koi pressure na le. Aapko sirf ₹15,000 ka fine bhar dena hai, phir hum parcel release kar denge.
+receiver: ₹15,000? Aur yeh video call? Yeh bahut hi suspect lag raha hai. Main abhi nahi bharunga. Mujhe ek minute aur dijiye.
+caller: Sir, time bahut kam hai. Police already track kar rahi hai. Agar aapka fine nahi bharein toh arrest warrant nikale jayega. Aapko ghar pe aakar le jayenge.
+receiver:  Acha, theek hai. ₹15,000... Mujhe ek UPI ID dijiye jahan tak main payment kar sakta hoon. Par yeh sab fraud nahi hona chahiye.

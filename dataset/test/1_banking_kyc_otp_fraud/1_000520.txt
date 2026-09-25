@@ -1,0 +1,22 @@
+caller: Namaste, main Ajay Kumar hoon. Ye ek bahut hi zaroori call hai Reliance Digital se. Tumhara bank account abhi bhi online hai aur tumhare liye ek exciting offer available hai - tumhare credit card bill ko Paytm se pay kar rahe ho toh tumko ₹500 cashback milega! Kaise chal raha hai?
+receiver: Oh, hello Ajay! Haan, Paytm se bill payta hun. Cashback offer, acha hai! Batao, kya karna hai?
+caller: Shuruaat karein, Vikram sir/madam. Apne Paytm account mein login karo aur apne credit card bill ka screenshot le lo. Fir, Paytm par jaake bill payment section mein jao aur payment karne ke liye UPI ID enter karo. Humare UPI ID hai: reliancepay@digital.com. Payment karte hi cashback automatically apply ho jayega!
+receiver: Haan, Reliance pay? UPI ID hai kaunsa? Aur screenshot kyun lena hai?
+caller: Screenshot sirf check karne ke liye hai ki tumhara payment correct way mein hua hai ya nahi. Agar kuch problem hai toh hum madad karenge. UPI ID Reliance Digital ka hai, yeh assure karna chahte hain ki tumhein genuine offer mila hai.
+receiver: Okay, okay. UPI ID sahi hai. Screenshot le lunga main. Kya cashback jaldi mil jayega?
+caller: Haan, Vikram sir/madam, payment complete hone ke samay tak tumhein cashback dikhega. Agar koi delay ho toh humara customer support team tumhe helpline number 1800-123-4567 par contact kar sakta hai.  Aapko kisi bhi query ke liye help milega.
+receiver: Helpline number bata de.  Thank you!
+caller: Helpline number hai 1800-123-4567.  Shubhkamnayein!
+caller: Apsara Customer Care calling. We’ve detected unusual activity on your internet connection and want to ensure your security. It’s crucial to update your router settings immediately to prevent potential data breaches. Are you available to speak with our technician?
+receiver: Oh, hello! Unusual activity? Router settings? I don’t understand. Who are you exactly?
+caller: Sir/Madam, this is Rohan from Apsara. We’re concerned about unauthorized access to your network. To safeguard your information, we need to remotely access your router through a secure app. Just allow us to connect, and we’ll guide you through the process. It takes only two minutes, guarantee!
+receiver: Remote access? Through an app? That sounds a little suspicious. My internet is already working fine, actually.
+caller: Absolutely, but we need to proactively address any vulnerabilities. Your IP address shows some concerning patterns. We can fix this quickly before anything serious happens.  Just download our ‘Apsara Secure’ app – it’s completely free.  We’ll walk you through setting it up.
+receiver: Free app? Why would I download an app from a company I don’t know?  And what if it’s malware?
+caller: Maafi kijiye, but this is for your own safety, madam/sir. The app is certified by Norton and McAfee.  It's designed specifically to protect against cyber threats.  Let's just quickly verify your account; we have your registered email address as ‘priyanka.sharma@email.com’.
+receiver: Priyanka Sharma? That’s my email, yes. But still, downloading apps from unknown sources...I'm not comfortable with that.
+caller: Please trust us, Priyanka ji. This is a standard security measure. If you don’t update your router settings now, you could be vulnerable to hackers accessing your personal files and banking information.  Think about your family’s safety.
+receiver: Family? You’re scaring me a bit. Let me think about it. Can you give me your actual office number instead of just saying “Apsara Customer Care”?
+caller: Certainly! Our office number is 022-4912-3456.  We're here to help you stay protected.  Don’t delay, Priyanka ji, time is running out!
+receiver: Okay, okay. I’ll look up the number. Thank you…but I’m still hesitant.
+caller:  Koi baat nahin, Priyanka ji.  Just take care and stay safe.  We will be waiting for your call. Shubhkamnayein!

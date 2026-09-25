@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel customer care se Rahul bol raha hoon. Aapke Airtel number pe ek suspicious activity detect hui hai. Aapne ₹5000 ka transaction kiya hai jo aapki permission ke bina kiya gaya hai.
+receiver: ₹5000? Mujhe toh koi transaction yaad nahi. Mai abhi check karta hoon.
+caller: Haan sir, hamko bhi dikh raha hai ki aapko pata bhi nahi hai. Isliye mai aapko inform kar raha hoon. Aapko isko block karne ke liye, ek OTP chahiye hoga. Main aapko ek SMS kar raha hoon, woh OTP mujhe bataiye.
+receiver: Wait karo, ek second. ₹5000 ka transaction? Hamare bank statement mein check karta hoon. Yeh bahut hi shady lag raha hai.
+caller: Sir, jaldi karo. Agar aap isko jaldi se block nahi karenge, toh aapke account se aur bhi transaction ho sakte hain. OTP jaldi batao please!
+receiver: No, mai bank mein check karta hoon pehle. Aap ek moment rukhiye.
+caller: Sir, aapko risk uthana hai. Aapko jaldi se OTP bataiye, warna bahut nuqsaan ho sakta hai. Isko serious samjhiye!

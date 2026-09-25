@@ -1,0 +1,9 @@
+caller: Hello? Main Indian Customs se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin parcel mein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam se? Mainne toh koi parcel nahi bheja.
+caller: Ji, system mein record hai ki ek parcel aapke address par aaya hai. Parcel mein electronic gadgets ka jhutha declaration kiya gaya hai, jo illegal hai. Aapko is matter mein investigation mein cooperate karna hoga.
+receiver: Kya? Main toh kabhi nahi kiya. Yeh toh galat hai. Mein police mein report kar dunga.
+caller: Sir/Madam, please calm down. Police mein report karne se kuch nahi hoga. Yeh matter serious hai, aur aapko ₹8000 ka fine pay karna hoga taaki parcel release ho sake. Yeh fine security deposit hai, jo baad mein vapas kar diya jayega. Aap online payment kar sakte hain, mai aapko link send karta hoon.
+receiver: ₹8000? Koi proof hai ki parcel mera hai? Koi tracking number ya invoice number batao? Main na koi link click karunga, na koi payment karunga.
+caller: Sir/Madam, time waste na karein. Yeh process bahut jaldi complete ho jaani chahiye.  Aapka parcel hold karwa diya jayega aur legal action liya ja sakta hai. Mai aapko final warning de raha hoon. Payment karein, ₹8000.  Main bank detail send kar deta hoon.
+receiver:  Theek hai, ek minute rukiye, mujhe kuch verify karna hai. 
+caller: Ji, theek hai. Aapko kuch doubt hai?

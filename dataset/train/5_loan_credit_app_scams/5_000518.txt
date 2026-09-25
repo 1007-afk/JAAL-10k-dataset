@@ -1,0 +1,9 @@
+caller: Namaste sir, mera naam Rohan hai, FastLoan se baat kar raha hoon. Aapka loan application receive ho gaya hai. Aapki photo aur pan card copy ready hai na?
+receiver: Haan Rohan ji, ready hai. Loan kitna approve hoga?
+caller: Sir, aapka loan approval process almost complete hai. Bas ek verification check karna hai. Aapke registered WhatsApp number par ek OTP aaya hoga, kya?
+receiver: Haan, OTP aaya hai. Yeh hai 789012.
+caller: Excellent! Sir, abhi loan amount transfer ho gaya hai aapke account mein. Total amount ₹75,000 hai. Processing fee ke charges ₹15,000 cut hone ke baad ₹60,000 aapko milege.
+receiver: ₹15,000? Lekin maine toh ₹50,000 ka loan apply kiya tha!
+caller: Sir, yeh charges compulsory hai. ₹15,000 deduction ke baad hi aapka loan account activate hoga. Agar aap nahi de rahe hain toh hum aapke contacts par morphed pictures bhejenge.
+receiver: Contacts par photos? Kya bol rahe ho tum?
+caller: Haan sir, agar aap ₹15,000 nahi pay karenge toh hum aapki sharminda kar denge. Jaldi se pay karo otherwise result aapse zyada badhengega.

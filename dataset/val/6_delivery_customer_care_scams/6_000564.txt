@@ -1,0 +1,7 @@
+caller: Namaste, sir? Yeh Flipkart se technical support team hai. Aapke account mein ek suspicious transaction detect hua hai – Rs. 7800 ka payment attempt Kerala se kiya gaya tha.
+receiver: Kerala se? Mujhe toh koi transaction yaad nahi. Flipkart ka account main check karta hoon.
+caller: Sir, aap jald check karein. Account compromise hone ki possibility hai. Hamara security system aapko OTP se verify kar raha hai. Please share OTP jo aapko SMS mein milega.
+receiver: OTP? Main phone mein dekhta hoon... Wait, mujhe abhi koi SMS nahi aaya. Koi doubt ho raha hai mujhe.
+caller: Sir, check karein, sometimes delay ho jaata hai. OTP aane mein 2 minute lag sakte hain. Tab tak, aapki account security ke liye, main aapka account number confirm kar sakta hoon? Last four digits batayiye?
+receiver: Account number? Maine toh kabhi phone pe account number nahi bataata. Mujhe Flipkart customer care number milta hoon, main wahaan call karta hoon.
+caller: Sir, aapko bilkul sahi karna chahiye. Flipkart helpline pe wait karne mein aapka bahut time waste hoga, aur woh log kuch nahi kar payenge. Main hi aapki help karunga, bas OTP share kijiye, sir.

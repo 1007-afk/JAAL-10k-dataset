@@ -1,0 +1,16 @@
+caller: Namaste ji, main Airtel se baat kar raha hu. Aapke liye ek bahut achhi cheezon ka samachar hai! Aapne humare ek special offer mein ₹500 jeete hain! Congratulations!
+receiver: Oh wow! Seriously? ₹500? Itni achi khabar hai! Kya offer tha yeh? Main samajh hi nahin paa raha hoon.
+caller: Haan ji, humare ek limited-time promotion mein, madam/sir. Bas aapko ye offer accept karne ke liye 8800987654 pe call karna hoga. Itni simple hai!
+receiver: Okay, 8800987654? Aur is offer ko accept karne ke liye koi extra steps hain? Kuch documents lag rahe hain?
+caller: Nahi ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko poori details mil jayegi. Bahut easy hai. Apka number kahan hai madam/sir, taaki main check kar saku ki yeh aap ke liye hai?
+receiver: Mera number hai 9876543210. Aur aapne kaha tha ki Airtel se hain? Yeh Airtel ka official number hai ya nahi?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine check kar li hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi problem nahi hogi.
+receiver: Theek hai. Toh main us number pe call karunga. Aur ye prize kab tak valid rahega? Koi expiry date hai kya?
+caller: Namaste, main Jio se bol raha hun. Aapke liye ek mahatvapurn khabar hai! Aapne humare ek contest mein ₹2000 jeete hain! Congratulations!
+receiver: Wah! ₹2000? Really? Kaisa contest tha? Main abhi totah hoon.
+caller: Haan ji, humare ek online quiz mein, sir/madam. Bas aapko jozi details submit karne ke liye 7777889900 pe call karna hoga. Itni sundar khabar hai!
+receiver: 7777889900? Aur quiz complete karne ke liye kuchh aur karna hoga? Koi registration process hai?
+caller: Nahi ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko poori details mil jayegi. Bahut easy hai. Aapka name bataiye madam/sir, taaki main verify kar saku ki yeh aap ke liye hai?
+receiver: Mera naam Rahul Sharma hai. Aur aapne kaha ki Jio se hain? Yeh Jio ka genuine number hai?
+caller: Haan ji, bilkul genuine hai! Aur Rahul Sharma, number bhi aapka maine check kar liya hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi mushkil nahi hogi.
+receiver: Thik hai. Toh main us number pe call karunga. Aur ₹2000 kab tak claim kar sakta hun? Koi deadline hai kya?

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Patel speaking? This is Rohan from the Directorate of Revenue Intelligence, DRI. We've detected some unusual activity linked to your bank account involving cryptocurrency transactions.
+receiver: Haan, main Mr. Patel hi hoon. What’s this about cryptocurrency? I’ve invested a little, but nothing major.
+caller: Sir, our records show a large sum of cryptocurrency being transferred to an offshore account under your name. It appears to be linked to a potential money laundering scheme. This is a very serious matter, sir.
+receiver: Money laundering? But I don’t understand! I’ve never been involved in anything like that. What proof do you have?
+caller: We have concrete evidence, sir. To clear this up quickly and avoid legal complications, we require you to pay a small compliance fee of ₹12,000. This will cover the cost of the investigation and ensure your name is removed from suspicion.
+receiver: ₹12,000? Just like that? Can’t I talk to someone higher up? And how do I know this is actually the DRI and not a scam?
+caller: Sir, this is a sensitive matter and dealing directly with me is the fastest way to resolve it. We need the fee urgently to process your case. I can give you a reference number – DRI/Compliance/2024/789. Pay via UPI to this number: 9876543210@axisbank. Do it now, sir, time is of the essence!
+receiver: Wait a minute. I'm calling the actual DRI number to confirm this first.
+caller: Sir, delaying this will only worsen your situation. Legal action will be taken immediately if this compliance fee is not processed within the next 15 minutes. The reference number is DRI/Compliance/2024/7

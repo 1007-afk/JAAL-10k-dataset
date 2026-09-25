@@ -1,0 +1,10 @@
+caller: Namaste, sir? Mein CBI se bol raha hoon. Aapka naam Rajesh Kumar hai, sahi?
+receiver: Haan, sahi bol rahe hain. CBI se? Kya hua?
+caller: Sir, hamari taraf se ek serious allegation hai. Aapke naam par ek illegal parcel delivery caught hui hai, jo drug trafficking se judi hai.
+receiver: Drugs? Yeh kya keh rahe hain aap? Main toh kabhi drugs nahi leke raha.
+caller: Sir, proof mil gaya hai. Agar aapko naam saaf karna hai aur arrest se bachna hai, toh aapko ₹50,000 fine bharne hoga.
+receiver: ₹50,000? Lekin maine toh kuch bhi kiya nahi hai! Main police station mein jaaunga!
+caller: Sir, police station mein jaane se koi faida nahi hai. Case already register ho chuka hai. Aapko video call par aana hoga, hum aapko details dikhayenge aur hum aapke documents verify karenge. Is call ko cut karne par, aapko arrest bhi ho sakta hai.
+receiver: Video call? Theek hai, par main kisi ko bhi nahi bataunga jab tak aap mujhe proof nahi dikhata.
+caller: Excellent, sir. Main aapko link send karta hoon. Video call par, aapko form fill karna hoga aur payment details bhi share karne honge. Phir sab clear ho jaayega.
+receiver: Okay, send the link. Par koi bakwaas nahi, haan?

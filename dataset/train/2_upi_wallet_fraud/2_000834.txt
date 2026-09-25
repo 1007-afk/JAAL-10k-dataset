@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se calling kar raha hoon. Tumhare BharatPay account mein cashback offer aa gaya hai! ₹5000 cashback mil sakta hai, lekin iske liye bas ek verification process complete karna hai. Tumhein sirf ₹499 processing fee bharne hai, bas.
+receiver: ₹5000 cashback? Wow! Verification process? ₹499 bharne hai? BharatPay se hi call hai?
+caller: Haan ji! BharatPay se hi call hai. Yeh offer sirf limited customers ke liye hai. ₹499 fee sirf verification ke liye hai, aur cashback automatically tumhare account mein transfer ho jayega. Payment karne ke liye 'VERIFY' message send karo 7891234567 pe.
+receiver: ₹499? Thoda zyada to lag raha hai… Verification ke liye itna zyada fee kyun? Aur mujhe confirm karo ki yeh BharatPay se hi call hai.
+caller: Sir, yeh fee BharatPay ki security process ka part hai. Yeh check karta hai ki account active hai aur sahi owner hai. Trust us, ₹5000 cashback ke liye ₹499 ki fee bilkul worthwhile hai! Jaldi karo, offer khatam ho rahi hai! 'VERIFY' send karo 7891234567 pe!
+receiver: Okay, theek hai. Mai try karta hoon. Main 'VERIFY' message send kar deta hoon. 7891234567… Okay, send kar diya.
+caller: Bahut badhiya! Abhi tumhare account mein ₹499 deduct ho jayenge. Verification complete hone ke baad ₹5000 cashback abhi transfer ho jayega! Tumko bahut khushi hogi!

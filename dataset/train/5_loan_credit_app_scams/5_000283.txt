@@ -1,0 +1,9 @@
+caller: Namaste! Mein hu Rajat, FastLoanIndia se. Aapko urgent paise chahiye kya? Koi medical bill, ya phir ghar ki emergency?
+receiver: Ji, actually, meri mummy ko operation karna hai, aur paise thode kam hain.
+caller: Samajh gaya. FastLoanIndia mein, hum aapko 2 ghante mein loan approve kar sakte hain. Koi lengthy process nahi, sirf kuch basic documents chahiye. Aapka naam bataiye?
+receiver: Mera naam Priya Sharma hai. Documents toh hain, lekin interest rate kitna hoga?
+caller: Priya Sharma ji, humare paas ek special scheme hai. Interest sirf 15% hoga, aur repayment terms bhi flexible hain. Total amount ₹80,000 tak approval ho sakta hai. Documents upload karke aapko dekha sakte hain.
+receiver: ₹80,000? Aur repayment structure bataiye, aur helpline number bhi de dijiye.
+caller: Repayment structure simple hai. 6 mahine mein EMI ke zariye aap pay kar sakte hain. Helpline number hai 9876543210. Jaldi karo, offer limited time ke liye hai. Abhi documents upload karke aage badhiye.
+receiver: Okay, document upload karta hu.
+caller: Achha! Abhi aapko ₹5000 ka processing fee deposit karna hoga, Priya ji. Account number hai…

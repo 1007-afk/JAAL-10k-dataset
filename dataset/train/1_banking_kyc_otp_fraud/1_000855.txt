@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Axis Bank se Neeraj Verma bol raha hoon. Aapke naam par ek online transaction attempt kiya gaya hai, jo suspicious lag raha hai. Account secure karne ke liye, humein aapke KYC details verify karne honge.
+receiver: Axis Bank? Mujhe koi transaction attempt yaad nahi. Mein abhi kisi bhi details ko share nahi kar sakta.
+caller: Sir, ye bahut serious matter hai. Agar aap verification nahi karwayenge, toh aapka account suspend kar diya jayega. Hum sirf aapka PAN card number aur ek OTP maang rahe hain, isse aapka account safe rahega.
+receiver: Account suspend? Koi wait karein, mujhe Axis Bank ke official number se check karna hai. Aap mujhe number de sakte hain?
+caller: Sir, official number mein confidential hai, woh aapko call kar sakte hain. Bas apna PAN card number bataiye, woh check kar lenge. OTP toh sirf confirmation ke liye hai, koi chinta nahi.
+receiver: Sir, mujhe yeh zyada suspicious lag raha hai. Mein kisi bhi information ko phone par share nahi kar sakta. Mein khud branch mein jaakar verify karwaunga.
+caller: Sir, branch mein jaane mein time lagega aur account suspend ho sakta hai. Please, just give me the PAN card number for a quick verification. I understand your concerns, but time is of the essence.

@@ -1,0 +1,8 @@
+caller: Hello, this is Akash from ‘FastCash Solutions’. We’ve processed your loan application, sir. Just need to confirm a few details before we transfer ₹12,000 to your account.
+receiver: Okay, that’s good news. What details do you need?
+caller: Just a small security deposit verification, sir. We need you to send ₹500 to this UPI ID - 7891234567@axisbank. It will be refunded immediately along with your loan amount.
+receiver: ₹500? Is that really necessary? It wasn’t mentioned in the application.
+caller: Yes sir, it’s a standard procedure to prevent fraudulent applications. Once you send the ₹500, I’ll confirm everything and process your loan immediately. Don’t worry, it's safe.
+receiver: Alright, I’ll send it. Give me a moment. (pause) Okay, the ₹500 has been sent.
+caller: Excellent! Thank you, sir. Now, for the final verification, could you please share the last four digits of your debit card? We need to confirm the account is active.
+receiver: Wait a minute. This feels a bit strange now. You asked for a deposit, now my card details? I'm not sure about this.

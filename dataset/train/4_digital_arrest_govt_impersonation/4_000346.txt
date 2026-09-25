@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? This is Inspector Sharma calling from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Haan, bolie. What kind of suspicious items? I wasn't expecting any parcel.
+caller: Sir, our initial scan indicates the presence of unregistered electronics and potentially, contraband substances. This is a serious matter. We need to confirm your involvement to avoid further legal complications. We will need you to deposit 50,000 rupees as a security deposit to clear the parcel and begin the investigation.
+receiver: Paachteen hazaar? This is ridiculous! I haven’t ordered anything. I think this is a scam.
+caller: Sir, please understand, this is standard procedure. We need to verify your identity and ensure the parcel is safe. To do that, we need the deposit. For your reassurance, we’ll connect you to our legal advisor, Advocate Gupta, on a video call so you can see everything is above board. We need to prevent this parcel from reaching the wrong hands. The parcel number is DL789456.
+receiver: Video call? Which app should I use? And why am I being asked to pay money when I haven’t done anything wrong?
+caller: Sir, we will send you a link to join the meeting on Google Meet. The legal advisor will explain everything in detail. This is a sensitive matter and we are working quickly to resolve it. Please confirm that you can access Google Meet so we can proceed and prevent this parcel from being held indefinitely. Time is of the essence, sir.

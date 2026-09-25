@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from Freecharge Customer Care. We’re calling regarding a cashback offer on your recent transaction through Freecharge. You're eligible for a ₹5,000 cashback!
+receiver: Freecharge? Mein toh kabhi Freecharge nahi use karti. Mere paas Paytm aur GPay hai. Yeh kaise hoga?
+caller: Don't worry, madam. It's a promotional offer extended to all UPI users. Just a small verification process to ensure the cashback goes to the correct account. Can you please share the last three digits of your bank account number linked to your UPI?
+receiver: Bank account number kyun doon? Freecharge toh payment app hai. Bank ka number share karna itna secure nahi hai.
+caller: It’s just a standard security check, madam. Completely safe with us. To activate your ₹5,000 cashback, we also need a one-time verification fee of just ₹200. This covers the processing charges. You can pay it through UPI.
+receiver: ₹200 verification fee? Yeh toh bakwas hai! Cashback offer, aur phir fee lagana? Aur main kisi number pe paisa kyun bheju?
+caller: Madam, this is a limited-time offer and the fee is mandatory to process your cashback. We need to ensure you're a genuine user.  It’s a small price to pay for ₹5,000, isn't it?  Please send the ₹200 to the UPI ID: securecashback2024@axis.

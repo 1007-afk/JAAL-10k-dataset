@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is the Central Customs Department. We've detected suspicious activity linked to a parcel registered under your name, arriving from overseas.
+receiver: Haan, main Mr. Sharma bol raha hoon. Customs? Parcel? Mujhe toh koi parcel nahi mila.
+caller: Sir, according to our records, a package containing undeclared high-value goods – potentially restricted items – was shipped to your address. We need to verify this immediately to avoid further legal complications. There’s a significant penalty if these goods are not declared properly.
+receiver: Yeh kya ho raha hai? Mainne kabhi nahi order kiya koi parcel. Aur restricted items? Main toh aisa kuch nahi karta. Koi mistake toh ho gaya hoga.
+caller: Sir, it appears the parcel was shipped under a proxy address, making it difficult to trace the origin. To clear this up and prevent legal action, we require a small processing fee of ₹15,000 to facilitate a thorough inspection and verification. This fee will be refunded once the inspection is complete. You can pay using UPI.
+receiver: ₹15,000? Yeh bahut zyada hai! Agar parcel toh mujhe kyun nahi mila? Aur legal action? Main toh police station jaunga agar koi fake call hai. Aap mujhe koi receipt number ya official ID de sakte hain?
+caller: Sir, I understand your concern. However, we are operating under strict protocol to ensure the safety and security of our citizens. Refusal to cooperate may lead to a formal investigation.  Here's a temporary reference number: CCD-2024-789.  Please transfer the amount to the UPI ID I'll provide. It's a standard procedure for these types of urgent clearances, sir. 
+receiver: CCD-2024-789? Sir, main is number pe trust nahi karta. Main abhi hi

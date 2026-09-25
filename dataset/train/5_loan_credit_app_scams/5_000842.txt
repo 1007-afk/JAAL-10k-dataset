@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanExpress se Deepak bolta hoon. Aapki profile dikhayi di, aur humara instant loan offer bahut attractive hai, sir. Rs. 50,000 tak ka loan, sirf 10 minutes mein, koi credit check nahi!
+receiver: Loan? Mujhe toh koi loan nahi chahiye tha. Main bus internet pe browsing kar raha tha.
+caller: Sir, ye ek limited time offer hai! Aapko sirf kuch details deni hogi – naam, address, aur ek small processing fee, sirf Rs. 2,500. Ye fee loan process ko fast kar degi.
+receiver: Rs. 2,500? Processing fee? Toh pehle se hi paise maang rahe ho? Ye toh theek nahi lag raha.
+caller: Sir, ye fee absolutely necessary hai.  Ye humare system ko validate karta hai aur security ke liye hai. Iske bina, loan process mein delay ho sakti hai.  Aapko aapke bank account ka last statement bhi send karna hoga.
+receiver: Theek hai, main nahi karunga.  Ye bahut shudha lag raha hai.  Main abhi call kat deta hoon.  Dhanyavaad.
+caller: Arre sir, mat katna! Ek chhota se offer hai. Agar aap abhi process karte hain, toh hum processing fee waive kar denge. Bilkul free! Bas aapko ek OTP send karenge, usko hume batao.  Ye aapki security ke liye hai.

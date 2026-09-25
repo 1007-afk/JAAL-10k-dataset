@@ -1,0 +1,8 @@
+caller: Namaste, sir. Speaking with Mr. Sharma? This is Inspector Raj from the Directorate of Enforcement. We need to discuss a matter concerning an unauthorized cryptocurrency transaction linked to your mobile device.
+receiver: Haan, Inspector sahab. Main Mr. Sharma hi hoon. Cryptocurrency? Mujhe toh kuch samajh nahi aa raha.
+caller: Sir, we've detected a transfer of ₹1.2 lakh to a Binance wallet flagged for money laundering activities. The transaction originated from your phone number. We need your cooperation to investigate this and clear your name. Could you please share a copy of your recent bank statement and a photograph of your PAN card for verification?
+receiver: ₹1.2 lakh? Binance? Sir, main toh itni bhi cryptocurrency nahi use karta. Bank statement aur PAN card? Yeh toh… yeh bahut suspicious lag raha hai.
+caller: Sir, time is of the essence. Delaying this verification can lead to legal action and asset seizure. We assure you, this is a standard procedure to ensure your financial security and prevent further investigation. Please send the documents through WhatsApp - I will send you the secure number.
+receiver: Secure number? Sir, mujhe aapse yeh sab WhatsApp par nahi karna hai. Main police station jaa sakta hoon, agar aapko meri baat verify karni hai.
+caller: Sir, the station is currently very busy with similar cases.  For your convenience, and to expedite the process, please send the documents as requested. It's a simple precaution for your own benefit.  We will also require a screenshot of your Google Pay transaction history for the last week.
+receiver: Google Pay transaction history also? Sir, yeh toh zyada ho gaya. Main abhi koi bhi document nahi bhejoonga. Main apne bank mein jaa kar report karunga.

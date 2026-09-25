@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Deepika Verma bol rahi hoon. Aapke Axis Bank account mein ajeeb transaction ki activity dikhi gayi hai. ₹12,000 kisi aur state mein transfer hone ki koshish ho rahi hai.
+receiver: ₹12,000? Main toh koi transfer nahi kiya. Kyun hua yeh?
+caller: Sir, security ke liye humein aapki identity confirm karne ki zarurat hai. Yeh ek new safety protocol hai. Aapko ek OTP aapke registered mobile number par milega. Woh OTP bata dijiye, tab hum aapke account ko secure kar sakte hain.
+receiver: OTP? Par aap bank se call kar rahe hain, toh aapko mera number toh pata hi hoga. OTP kyon chahiye? Aur transaction kis state mein hua?
+caller: Sir, fraudster log bhi number hi access kar lete hain. Isliye OTP zaroori hai. Transaction Gujarat mein hua hai. Aapka account suspend bhi ho sakta hai agar aap cooperation nahi karenge. Jaldi se OTP bataiye, please!
+receiver: Suniye, mujhe yeh bilkul pasand nahi aa raha. Main Gujarat se kabhi phone bhi nahi kiya. Koi baat karna hai toh mujhe branch mein aake milao ya phir koi official email bhejo. OTP main kisi ko nahi de sakta.
+caller: Sir, please samjhiye, time bahut kam hai! Agar aap OTP nahi de rahe hain, toh humko forced to suspend your account hoga. Sir, one last time, OTP please!

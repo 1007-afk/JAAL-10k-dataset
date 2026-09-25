@@ -1,0 +1,7 @@
+caller: Hello, good morning! This is Rakesh from Zepto customer care. We’ve noticed an unusual transaction of ₹499 on your account. Can you please confirm this purchase?
+receiver: ₹499? What purchase are you talking about? I didn’t make any purchase from Zepto.
+caller: Sir/Madam, it appears someone might have used your account to order groceries. To secure your account, we need to verify your OTP. Can you please share the OTP you just received on your phone?
+receiver: OTP? Why do you need my OTP? That sounds suspicious. Zepto never asks for OTPs over the phone.
+caller: Sir/Madam, for security reasons, we require OTP verification to freeze your account and prevent further unauthorized transactions. This is a standard procedure. Please share the OTP immediately. Otherwise, your account will be blocked.
+receiver: Wait a minute. Let me check my Zepto app. (pause) You know what? There’s nothing in my order history. This is definitely a scam. I’m hanging up.
+caller: Sir/Madam, please don’t do that! You are putting your financial security at risk. We just need that OTP to protect your account. A small amount of money is at stake here, but a bigger loss can happen if you don't cooperate. Please, just give me the OTP!

@@ -1,0 +1,9 @@
+caller: Hello! Congratulations! You’ve been selected for a special opportunity with Global Wealth Partners. We're helping people earn extra income by rating mobile apps.
+receiver: Rating apps? How much can I earn?
+caller: It's quite lucrative! For every app you rate, you'll receive ₹250. The more you rate, the more you earn. Our initial task involves rating 20 apps.
+receiver: ₹250 per app? That sounds good. But how do I get paid? Do I need to pay anything upfront?
+caller: We need to verify your account first. It requires a small security deposit of ₹500 to prevent fraudulent activities. This will be refunded once you complete your first task and we see your work.
+receiver: ₹500? That's a bit much. And what if I don't like the apps?
+caller: Don't worry, you can skip apps you don't find suitable. But to begin, please send the ₹500 to the provided UPI ID: 87654321@axisbank. Then, I’ll send you the app list and rating guidelines. 
+receiver: Hold on. This feels off. I’m not sending anyone money. I'm ending this conversation.
+caller: Wait! You're making a big mistake! This is a chance to change your financial situation! Just ₹500 and you can start earning thousands! Don't let this opportunity pass you by!

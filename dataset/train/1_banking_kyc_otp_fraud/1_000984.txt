@@ -1,0 +1,6 @@
+caller: Namaste, mai IDFC First Bank se Rohit Sharma bol raha hoon. Aapke naam par ek high-value transaction ka attempt kiya gaya hai, jo ki suspicious lag raha hai. Aapke account ko secure rakhne ke liye, humein kuch details verify karni hongi.
+receiver: Hello, Rohit? Kyun, kya hua? Transaction kitna tha? Mera account safe hai na?
+caller: Ji, transaction 10,000 rupees ka tha. Abhi aapki account suspend kar sakte hain, lekin verify karne ke baad hum use re-activate kar denge. Agar account suspend ho gaya toh aapka online shopping bhi stop ho jayega.
+receiver: Oh, is it? Koi suspend toh nahi karna chahiye. Bataiye kya verify karna hai. Meri internet shopping important hai.
+caller: Sir, humein bas aapka Aadhaar card ka last 4 digit aur OTP chahiye taaki hum account ko secure kar saken. OTP aapke registered mobile number par aa jayega.
+receiver: Wait, Aadhaar card number bhi? Thoda wait karo, mai check karta hoon. Aur OTP ka wait bhi karunga. Thoda time do. Main verify karunga.

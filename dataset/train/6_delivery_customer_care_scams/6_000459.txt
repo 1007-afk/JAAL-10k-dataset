@@ -1,0 +1,6 @@
+caller: Hello, this is Suresh from BlueDart Courier. We have a package addressed to you, but there's a small issue with the delivery address. Can you verify it quickly?
+receiver: Okay, sure. What’s the tracking number? And what’s the issue with the address? I thought it was correct.
+caller: The tracking number is BD789456123. The issue is there’s a discrepancy with your payment details linked to the address. To release the package, we need to verify your OTP sent to your registered mobile number. It's a standard security procedure.
+receiver: OTP? For a delivery? That sounds a bit strange. Can’t I just show my ID when it arrives? I’m not comfortable giving out an OTP over the phone.
+caller: Ma'am, security is our top priority. This is to prevent fraudulent activities. Just a one-time OTP, and your package will be delivered tomorrow. It’s a high-value item, so the process is extra stringent. We've already tried to reach you multiple times.
+receiver: A high-value item? I don’t remember ordering anything expensive. And why didn't I get any notification about this? I'm still not giving you an OTP. I'm going to call BlueDart directly to confirm this.

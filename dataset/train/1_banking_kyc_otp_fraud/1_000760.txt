@@ -1,0 +1,15 @@
+caller: Namaste, main IDFC First Bank se Sunil bol raha hoon. Aapke account mein kal raat se kuch suspicious activity dikh raha hai.
+receiver: Oh, suspicious activity? Kya hua? Main toh koi transaction nahi kiya tha.
+caller: Ji, humein ek login attempt dikha hai jo Delhi se hua tha. Security ke liye, humein aapke account ki verification karni hogi urgently.
+receiver: Verification? Kaise karenge verification?
+caller: Haanji, ek baar OTP bheja jayega aapke registered mobile number par. Woh OTP check karke hum verify kar lenge.
+receiver: OTP? Main toh abhi koi OTP receive nahi kiya hai.
+caller: Sirf ek minute rukiye. System mein check karta hoon. Haan, OTP abhi send ho gaya hoga. Check kijiye. Aur please jaldi reply karein, account suspend hone ka risk hai.
+receiver: Haan, abhi OTP mila hai. 648239.
+caller: Thank you, sir. Ab mujhe aapka Aadhaar card number ka last 4 digits bataiye, please. Verification ke liye urgently required hai.
+receiver: Aadhaar card number? Kyon?
+caller: Sir, humein bank security protocols ka follow karna hai. Bas last 4 digits kaafi honge. Isse hamara verification process complete ho jayega aur aapka account safe rahega.
+receiver: Theek hai, last 4 digits 7890 hain.
+caller: Thank you sir. Ab please mujhe aapke bank account ke last 6 digits bataiye.
+receiver: Account number? Abhi tum kuch bhi scam lag raha hai. Main police mein complaint karungi.
+caller: Madam, please! Main IDFC First Bank se hoon! Account suspend hoga aapka! Aapko loss hoga! Please details do!

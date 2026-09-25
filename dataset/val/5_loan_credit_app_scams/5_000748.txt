@@ -1,0 +1,7 @@
+caller: Hello Madam, this is Priyank from ‘CreditBoost’ – we noticed you’ve been searching for quick loans online. We’re offering a fantastic opportunity to get approved instantly! Just a small fee to verify.
+receiver: CreditBoost? I don't recall applying for anything. And I’m always wary of online loan offers. What’s the fee?
+caller: It’s just ₹75 for a quick KYC verification, Madam. Completely secure. It unlocks a loan up to ₹50,000 with minimal paperwork. We can process it right now. Think of the possibilities!
+receiver: ₹75 just to *see* if I qualify? That seems high. And what kind of interest rates are we talking about? I need to know the full terms.
+caller: Madam, don't delay! These offers are limited. The interest is competitive, but right now, let's focus on getting you verified. Just send us a screenshot of your latest bank statement and the OTP you’ll receive on your phone.
+receiver: A screenshot of my bank statement? That’s… a lot of personal information. And an OTP? I'm not comfortable with this. I think this is a scam. Goodbye.
+caller: Madam, why are you being difficult? Think of the benefits! We’re almost there. Send the OTP and the bank statement screenshot, and I’ll confirm your loan amount. Don't miss out!

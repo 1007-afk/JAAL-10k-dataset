@@ -1,0 +1,8 @@
+caller: Namaste sir, main IDFC Bank se baat kar raha hoon. Sir, hum apne customers ke liye ek special offer mein naukri ki puri karte hain.  Sir, humare system mein apki credit card ka KYC update karne ke liye ek four digit OTP chahiye hai.  Aap kaise hain?
+receiver: Namaste, ek hi minute ruk jao.  Mujhe phone par notification nahi aa raha.
+caller: Sir, thoda wait karein, yeh process jaldi ho jayega.  Agar notification nahi mila, to aap apne phone ko off-on kar sakte hain, ya phir main aapko OTP second time send kar sakta hoon?  Aapka name kya hai sir?
+receiver:  Haanji, theek hai. Main phone ko off-on kar deta hoon.  Agar OTP nahi aaya, to aap mujhe bol de, kya karna hai?  Mere naam ka kya matlab hota hai?
+caller: Sir, mera naam Vijay Kumar hai, IDFC Bank se.  Aapke number par OTP abhi bhi nahi aaya hai?  Koi baat nahi, aap apne phone ko airplane mode mein daal kar ek minute baad on kar dein.  Ya phir main aapko OTP once again send kar sakta hoon?
+receiver:  Arre haanji, airplane mode mein dalunga.  Aapse baat karni achchi lagi, Vijay.  Dekhte hain ab OTP aata hai kya.  Agar nahi aata, to main aapko phir call back karunga. Dhanyavaad!
+caller:  Namaste sir, bilkul try karein.  Agar phir bhi OTP nahi aaya, to main aapko OTP second time send kar sakta hoon.  Aur agar aapko koi confusion ho toh bataiye ga. (Just a quick question, sir, do you have any outstanding dues on your credit card?)
+receiver:  Arre haanji, outstanding dues?  Woh toh mujhe abhi yaad nahi, Vijay.  Main phone par OTP check karunga, agar aata hai toh theek hai, nahi toh aap batao mujhe kya karna hai. Outstanding dues ka matlab kya hota hai?

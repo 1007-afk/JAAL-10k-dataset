@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Airtel Payments Bank se Rohan bolta hoon. Aapke Airtel Payments Bank account mein ₹1499 ka cashback offer hai government ki taraf se. Claim karne ke liye, sirf ek small processing fee bhar deni hai.
+receiver: ₹1499 cashback? Mere account mein? Kya bol rahe ho? Main toh kabhi Airtel Payments Bank nahi chala.
+caller: Haan ji, aapka account register hai. Offer limited time ke liye hai. ₹99 bharne ke liye, OTP send kar dijiyega humein. Tab cashback automatically clear ho jayega.
+receiver: ₹99 fee? Aur OTP kyun doon? Airtel se toh aise calls nahi aate. Ye fraud lag raha hai.
+caller: Sir, ye security check hai. OTP aapke phone par automatically generate ho jayega. Bas humein bata dijiyega. Jaldi karo, offer abhi khatam hone wala hai! ₹1499 cashback, miss mat karna!
+receiver: Bahut hi suspicious hai. Mein kisi bhi number pe OTP nahi bheju. Mein Airtel customer care se khud baat karta hoon.
+caller: Sir, time barbaad mat karein. ₹1499 aapki paunch mein jayega. Bas ek OTP hi dena hai. Yeh offer sirf 5 minutes ke liye hi bacha hai!
+receiver: Theek hai, ek minute ruk jao. Mein khud Airtel customer care se confirm karta hoon.

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma calling from the Delhi Customs department. We’ve detected a suspicious transaction linked to your bank account, involving the potential import of illegal narcotics. This is a very serious matter, sir.
+receiver: Kya? Illegal narcotics? Main toh kabhi aisa kuchh nahi kiya. Yeh number bhi galat lagta hai.
+caller: Sir, please don’t panic. We understand this is alarming. Our records show a package addressed to you arrived at the airport with traces of an illicit substance. To prevent your arrest and further investigation, you need to cooperate. We require a small settlement fee of ₹50,000 to clear the matter and expedite the documentation process. This is just to ensure everything is in order and to avoid prolonged legal proceedings.
+receiver: ₹50,000? Yeh kya bakwaas hai? Main Delhi mein nahi hoon. Main Lucknow mein hoon.
+caller: Sir, it's crucial you understand the gravity of the situation. This is not a negotiation. Failure to comply will result in immediate legal action, including your arrest and potential imprisonment. We’re monitoring your location and activity. We need proof of payment – a screenshot of the transaction – sent to this number immediately. We are also keeping you on video call so you don't try to go to the police.
+receiver: Main kabhi bhi paise nahi de sakta. Yeh scam hai! Main police mein report karunga.
+caller: Sir, threatening us won’t help. This is a final warning. We've already informed the CBI about your involvement. The video call ensures you remain compliant. If you refuse, we'll have to escalate this, and the consequences will be severe. The deadline is expiring in 30 minutes.
+receiver: Main koi bhi transaction nahi karunga. Aapko sharm aani chahiye.
+caller: Very well,

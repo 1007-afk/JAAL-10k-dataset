@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from LoanExpress. I’m calling regarding your recent loan application. We’ve pre-approved you for a ₹50,000 loan with a very low interest rate. Just a few quick details to confirm.
+receiver: LoanExpress? I don't remember applying for a loan. I was just looking at some options online.
+caller: That's alright, sir. Sometimes the application goes through automatically. To process it, I need to verify your bank account details. Just the last four digits, please.
+receiver: Wait a minute. Why would you need my bank details over the phone? Shouldn't I be getting this information through a secure portal?
+caller: It’s a standard procedure, sir. To prevent fraud, we need to verify the account. Also, we need a small processing fee of ₹2,500 to activate the loan. You can transfer it to this UPI ID: 7890123456@axisbank.
+receiver: ₹2,500? For a ₹50,000 loan? That seems excessive. And I still don’t remember applying. I think I'll just check with my bank directly. This feels very suspicious.
+caller: Sir, if you don't pay the processing fee immediately, the offer will be revoked. We have many applicants waiting. Don't lose this opportunity! Just transfer the ₹2,500 and the loan will be credited to your account within an hour.

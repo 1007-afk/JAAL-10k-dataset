@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hain? Main baat kar raha hoon ek bahut hi achchhee scheme ke baare mein jisse aap apne smartphone pe live dance videos dek sakte hain.  Aapko sirf ek message chalana hoga - ‘DANCE’ number 8800123456.  Agar aap isse thakte hain, toh sirf ‘CANCEL’ number 8800123456 par message karein.  Aapka opinion kya hai?
+receiver: Namaste! Mein theek hoon, dhanyavaad.  Mujhe samajh mein nahin aaya.  Mai koi scheme sign up nahi kiya hai aur main yehi dekh rahi hoon.  Yeh kitna bakwaas hai!
+caller:  Arre bhai, koi bakwaas nahi hai! Ye ek bahut hi popular scheme hai aur logon ne isse bahut enjoy kiya hai.  Justo ek message chalana hoga.  Agar aapko koi problem hai, toh sirf ‘CANCEL’ number 8800123456 par message karein.  Aise calls band karne ke liye bhi message karein.
+receiver:  Main iske bare mein kuchh bhi nahin jaanti.  Maine kabhi koi scheme sign up nahin kiya hai.  Agar aapko koi mistake hui hai toh maaf karna, lekin mujhe abhi yeh calls band karo.  Main 'CANCEL' message jo send kiya woh deliver ho gaya hai, confirm karo.
+caller: Haan, 'CANCEL' message mili hai. Aapki scheme cancel ho gayi hai.  Koi tension mat lo, ab aapko koi call nahi aayega.  Shukriya!
+receiver: Theek hai, dhanyavaad.  Yeh sab dukaan ka dukan hai.  Bye.
+caller:  Dhanyavaad aapne confirm kiya.  Hamesha khush raho!
+receiver:  Bye.  Yeh sab dukaan ka dukan hai.  Bye.

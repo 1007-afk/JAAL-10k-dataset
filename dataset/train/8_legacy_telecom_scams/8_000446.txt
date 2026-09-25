@@ -1,0 +1,9 @@
+caller: Ho ho ho! Hello, is this Mr. Rohan’s mother or father? This is the National Lottery Commission speaking! We found a winning ticket linked to your son’s name, and we need to verify some details before claiming the prize. It’s a fantastic opportunity, don’t let it pass you by! Please call 07747581234 immediately. We only have a limited time window.
+receiver: Oh my goodness! Yes, this is Rohan’s mom speaking. He’s absolutely delighted! Could you tell me more about this winning ticket? Is this really legitimate?
+caller: Ho ho ho! Rohan’s mom, that’s great news! Absolutely legitimate, of course! A substantial jackpot has been identified, worth approximately ₹8 Crore! To claim your winnings, we need to confirm a few security questions. Just give me a quick confirmation of Rohan’s date of birth, and then you can call 07747581234 to proceed. What year was Rohan born?
+receiver: Rohan was born in 1998. Can you confirm that?
+caller: Ho ho ho! 1998, perfect! Very common year. Now, just **1 slot** remaining! Hurry up, call 07747581234 quickly, and secure Rohan’s share of the jackpot! This is a once-in-a-lifetime chance!
+receiver: Wow, Santa! Thank you for letting me know.  I am Rohan's mom.  Is there any paperwork involved? And what happens if I don’t respond immediately?
+caller: Ho ho ho! Rohan’s mom, yes, there might be a small amount of paperwork involved, but nothing too complicated. If you don't respond within the next hour, the opportunity may unfortunately expire. So hurry! Call 07747581234 immediately.
+receiver: Okay, okay, I understand. Let me call that number now.  Thank you very much.
+caller: Ho ho ho! Wonderful! Remember, Rohan's future is looking bright! Don't delay, call 07747581234 now! Merry Christmas!

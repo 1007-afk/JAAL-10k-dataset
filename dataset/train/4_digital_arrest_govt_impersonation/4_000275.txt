@@ -1,0 +1,7 @@
+caller: Hello? Sir, this is Inspector Singh from the Delhi Police cybercrime unit. We need to speak with you urgently regarding a matter of national security.
+receiver: Inspector Singh? Ji, hello Inspector Sahab. What’s the matter? Everything alright?
+caller: No, sir. It’s not alright. We've detected unusual activity linked to your bank account – several large transfers to offshore accounts flagged for potential involvement in Hawala financing.
+receiver: Hawala? But I don't understand. I’ve never been involved in anything like that. Could you please give me your officer ID and the case reference number?
+caller: Sir, I can't disclose the full details over the phone for security reasons. However, to clear this up and prevent legal action, we require a small sum – 50,000 rupees – as a processing fee to verify your transactions and ensure your cooperation.
+receiver: 50,000 rupees? This sounds very suspicious, Inspector Sahab. Why can’t this be done through official channels? Shouldn’t I be getting a notice? Also, why do you need to verify my cooperation with money?
+caller: Sir, time is of the essence. Delays can complicate the investigation and potentially lead to more serious charges. We need to resolve this quickly. I will send you a UPI ID. Please transfer the amount and confirm. We will then schedule a video call with a senior officer to clear your name.

@@ -1,0 +1,8 @@
+caller: Namaste, mai Flipkart se Deepika Sharma bol rahi hun. Aapke naam par ek parcel aaya hai, lekin address verify hone mein thodi problem aa rahi hai.
+receiver: Flipkart? Kya parcel hai? Mujhe toh koi order yaad nahi aa raha.
+caller: Ji, parcel track ID number [fabricated number] hai. Yeh ek smart watch ka order hai. Address verify karne ke liye, mujhe OTP chahiye. Main OTP aapke registered mobile number par भेजूंगी।
+receiver: Smart watch? Main toh kabhi smart watch nahi order kiya. Aur OTP share karna safe nahi hai, sir.
+caller: Ma’am, woh toh bas verification ke liye hai. Agar OTP nahi denge, toh parcel return kar denge. Flipkart ki policy hai. Just 4 digits ka OTP, woh hi kaafi hai.
+receiver: Parcel return? Par mujhe toh jo bhi order kiya hai, woh chahiye tha. Koi aur तरीका toh hoga ना?
+caller: Ma’am, time bahut kam hai. Order cancel ho jayega. Jaldi se OTP dijiye.  We need to process this quickly, else the parcel will be cancelled.
+receiver:  Wait, let me just check my Flipkart account online first.  I'll call you back if needed.

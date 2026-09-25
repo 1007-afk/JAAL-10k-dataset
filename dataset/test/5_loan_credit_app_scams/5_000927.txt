@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Rohan Verma, Bajaj Finserv se bol raha hoon. Aapne recently Paytm se loan apply kiya tha, isliye call kar raha hoon. Aapke account mein kuch updates karne hain, aur OTP verify karna hai.
+receiver: Haan, toh bolo. Kya update karna hai?
+caller: Ji sir, aapne loan agreement ke terms and conditions accept nahi kiye hain. Isliye OTP verify karna hai. Aapka OTP bataiye, sir.
+receiver: OTP? Theek hai, wait karo. Acha, aaya... yeh hai 987654.
+caller: Ji sir, OTP 987654 confirm ho gaya. Bahut achha! Abhi aapke account mein ₹12,000 approve ho gaye hain. Par, processing fee ke tarf se ₹2,500 clear karne honge, sir.
+receiver: ₹2,500? Maine toh itna kuch nahi sunna! Loan toh free tha.
+caller: Sir, rules change hote hain. Agar aap ₹2,500 clear kar dete hain, toh amount aapke account mein aaj hi transfer ho jayega. Aur warna, loan process cancel ho jayega. Aur hum police complaint bhi daal sakte hain account misuse ke against.

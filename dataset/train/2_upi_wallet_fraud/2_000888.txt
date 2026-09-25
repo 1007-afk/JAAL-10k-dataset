@@ -1,0 +1,7 @@
+caller: Hello sir, this is Vijay from Paytm Payments Bank. We've noticed a new cashback offer available for our premium users, and you're eligible.
+receiver: Paytm? Cashback offer? What kind of offer?
+caller: Sir, we’re giving 5% cashback on all UPI transactions for the next 24 hours. It’s a limited-time promotion. But to activate it, you need to pay a small processing fee of ₹50.
+receiver: ₹50? Processing fee for a cashback offer? That sounds a bit weird. What will happen if I don’t pay this fee?
+caller: Sir, if you don't pay the fee, you'll miss out on the 5% cashback, and the offer will expire. Just send ₹50 to the UPI ID: paytm.offer.activation@paytm. Just one time, sir.
+receiver: Paytm.offer.activation? That doesn't look like a standard Paytm ID. Can you please give me a reference number for this offer, or direct me to a page on the Paytm app where I can see this?
+caller: Sir, reference number is difficult to provide at the moment as our system is experiencing high traffic. It is a last minute offer and will not stay for long, please do not miss out on the chance. Just send ₹50, and I’ll personally make sure the cashback is credited to your account immediately.

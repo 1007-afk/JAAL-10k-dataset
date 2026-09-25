@@ -1,0 +1,7 @@
+caller: Namaste, mere naam se Rohan hai, IDFC First Bank se. Aapke account mein 12,000 ka cashback offer chal raha hai, Diwali ke liye.
+receiver: Oh, really? IDFC First Bank? Main toh abhi cashback offer ke bare mein nahi suna.
+caller: Haan ji, yeh special offer sirf select customers ke liye hai. Cashback claim karne ke liye, aapko ek small processing fee bhar deni hogi, sirf 300 rupay.
+receiver: 300 rupay? Processing fee? Paytm se kar sakta hoon kya?
+caller: Nahin, nahin ji, direct bank transfer se hi hoga. Ek UPI ID dene do, mai instant transfer link send kar dunga. Safe hai, IDFC ka hi account hai.
+receiver: UPI ID? Theek hai, mera UPI ID [redacted] hai. Par mein phir bhi confirm karna chahtunga, IDFC support number se.
+caller: Haan ji, bilkul sahi. Bas, transfer kar do, aur Diwali mein 12,000 ka cashback enjoy karein!

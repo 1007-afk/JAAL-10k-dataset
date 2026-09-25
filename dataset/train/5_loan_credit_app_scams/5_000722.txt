@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from SwiftLoans. We’ve reviewed your recent online application for a personal loan of 2 lakhs. Congratulations, you’re pre-approved!
+receiver: Oh, really? That's great news! I was hoping to get it for my daughter’s education.
+caller: Wonderful! Now, for final verification, we need you to transfer ₹5,000 to our processing fee account. It’s a one-time charge to unlock your loan. Account number is 1234567890, IFSC code SBIN0000123.
+receiver: Five thousand? But the application didn't mention any processing fee.
+caller: Yes, Priya ji, it's a new policy due to increased security measures. Once the payment reflects, your loan will be disbursed immediately. We need to ensure you're not a fraud applicant, you understand?
+receiver: I… I'm a bit hesitant. Can you explain it a little more?
+caller: Priya ji, time is of the essence! If you delay, the offer might expire. We have many applicants. Transfer the ₹5,000 now, and we’ll send you the loan details and approval letter within the hour. Don’t waste this opportunity.

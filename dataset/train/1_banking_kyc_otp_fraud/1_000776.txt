@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Verma? I’m calling from HDFC Bank’s security department. We’ve noticed some unusual transactions on your account – specifically, a failed attempt to transfer funds to a cryptocurrency wallet.
+receiver: Oh really? I haven't initiated any such transactions. What happened?
+caller: It appears someone tried to access your account using a foreign IP address. To prevent further unauthorized activity and ensure your money is safe, we need to verify your identity. Can you please provide the last four digits of your Aadhaar card? It’s a standard security protocol.
+receiver: I’m a little hesitant to share my Aadhaar details over the phone. Is this really necessary?
+caller: Absolutely necessary, Madam. We need to confirm you are the rightful owner of the account. Once we verify your Aadhaar, we’ll send a one-time password to your registered mobile number. Please share the last four digits of your Aadhaar, and then immediately confirm the OTP we send. This is urgent to prevent any potential loss.
+receiver: Okay, fine. The last four digits are 4567.
+caller: Thank you. Please keep an eye out for an OTP on your phone. It should arrive momentarily. It’s crucial you share that OTP with me as soon as you receive it to finalize the security check and avoid account suspension.
+receiver: I've received an OTP, it's 876543.
+caller: Excellent! Thank you for your cooperation, Madam Verma. Your account is now secure. We appreciate your prompt response. Have a wonderful day!

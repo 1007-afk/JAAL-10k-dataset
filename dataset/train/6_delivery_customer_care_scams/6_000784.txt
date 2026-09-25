@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main Paytm Customer Care se bol raha hoon. Aapke account mein se 4999 rupay ka transaction hua hai jo aapne approve nahin kiya tha.
+receiver: Kya? 4999 rupay? Mujhe toh koi transaction ka message aaya hi nahi.
+caller: Sir, yeh transaction ek gaming app ke taraf se hua hai. Humara system detect kar raha hai ki aapko is transaction ke baare mein pata nahin hai. Security ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Par kyun? Aur woh gaming app kaun si hai?
+caller: Sir, OTP se hum verify kar sakte hain ki account aapka hi hai. App ka naam “Royal Wins” hai. Ab aap mujhe apna OTP de dijiye, aur main is transaction ko reverse kar dunga.
+receiver: Theek hai, ek minute. Main apna OTP check karta hoon.
+caller: Ji bilkul, time le lijiye. Lekin jaldi kijiye, sir, fraud ke cases mein time bahut important hai. Ab OTP de dijiye.
+receiver: Sir, mujhe abhi kisi aur se message aaya hai ki OTP kabhi bhi kisi ko mat do, yeh scam ho sakta hai.
+caller: Sir, aap ghabraiye mat. Main Paytm ka employee hoon. Woh aapko ghabraane ke liye bol rahe hain. Ab OTP de dijiye, warna aapke rupaye permanent chala jayenge.

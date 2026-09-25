@@ -1,0 +1,8 @@
+caller: Namaste sir! PhonePe se baat kar raha hoon. Aapke PhonePe account mein ek transaction fail ho gaya hai, ₹1200 ka. Verification ke liye call kiya hai.
+receiver: ₹1200 ka transaction? Mainne koi transaction nahi kiya. Aur PhonePe toh mujhe notification bhi nahi bhej raha.
+caller: Haan sir, technical issue hone ke karan notification delay ho raha hai. Aapko ₹1200 ka transaction verify karna hoga, warna account suspend ho jayega.
+receiver: Account suspend? Kaise verify karunga? OTP milega ya kuch download karna padega? Mujhe kuch gadbad lag rahi hai.
+caller: Bilkul nahi, sir. Koi download nahi karna hai. Bas aapko ek link pe click karna hai, jo main aapko SMS se bhejunga. Link pe click karke aapko verify karna hai ki aapne ₹1200 ka transaction kiya tha ya nahi.
+receiver:  Ek link? Kon se number pe bhejoge SMS? Aur main PhonePe app mein to kuch bhi dekh nahi raha.
+caller:  Aapke registered mobile number pe bhejunga. ₹1200 ka verification zyada time nahi lega, sirf 2 minute. Jaldi kijiye, sir, account suspend hone se pehle verify kar lijiye.
+receiver:  Okay, dekhta hoon. Number check karta hoon.

@@ -1,0 +1,8 @@
+caller: Main calling from ABC Bank. Aapke ATM card ki details mein kuch problem aa rahi thi, so hum check kar rahe hain. Aap mujhe apna ATM card number bata sakte hain pl
+receiver: Haanji, batao kya hua? ATM card number chahiye? Wait, card mere paas hi hai. Yahan likh lo, [invented ATM card number, e.g., 4567 1234 5678 9012]. Kuch problem aa rahi hai? Kya problem hai?
+caller: Ji haan, thank you. Hmm, 4567 1234 5678 9012.  Ek second, mujhe yeh verification ke liye aapke ATM card ka expiry date bhi chahiye hoga.  Kya bata sakte hain aap?
+receiver: Expiry date? Haanji, bilkul. Month hai 10 aur year hai 25. Bas itna hi tha kya? Kuch aur chahiye toh bataiye.
+caller: Haanji, bilkul. Month hai 10 aur year hai 25. Bas itna hi tha kya? Kuch aur chahiye toh bataiye. Ji haan, thank you. Hmm, 4567 1234 5678 9012. Ek second, mujhe yeh verification ke liye aapke ATM card ka expiry date bhi chahiye hoga. Kya bata sakte hain aap?
+receiver: Yaar, yeh duplicate messages aa rahe hain. Aapne meri expiry date already bata di thi. Kuch galat ho raha hai shayad. Aap phir se apna sawal pooch sakte hain?
+caller: Arre nahi sir, woh system mein thoda glitch aa gaya hoga. Main wohi dobara pooch raha tha. Aapki expiry date 10/25 thi, right?  Koi problem nahi hai, hum bas confirmation kar rahe the.
+receiver: Oh, okay! System glitch, got it. Haanji, bilkul, 10/25 hi hai expiry. Acha, toh sab theek hai na phir? Koi tension wali baat toh nahi hai?

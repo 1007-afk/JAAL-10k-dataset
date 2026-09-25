@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank customer care se Aakash bolta hoon. Aapke account mein aaj ek suspicious transaction attempt hua hai. Security ke liye, humein aapke account details verify karne honge.
+receiver: Kya? Transaction attempt? Kitna hua tha? Mujhe SMS notification toh mila nahi.
+caller: Sir, yeh attempt abhi block kar diya gaya hai. Lekin, account ko completely secure karne ke liye, aapko apna PAN card number aur ek OTP share karna padega jo aapke registered mobile number par aayega.
+receiver: PAN card number? Aur OTP bhi? Why do I need to share this? I've never had to do this before for security checks.
+caller: Sir, security protocols update ho gaye hain. Yeh aabhi standard procedure hai. Agar aap details nahi denge, toh humko regretfully aapka account temporary suspend karna padega, taaki aapko aur koi damage na ho.
+receiver: Temporary suspend? Wait, let me call Axis Bank’s official number to double-check. I'm not comfortable sharing this information over the phone. Just a moment.
+caller: Sir, jaldi karo. Account suspend hone se pehle aap OTP share karo. Sir? Sir?

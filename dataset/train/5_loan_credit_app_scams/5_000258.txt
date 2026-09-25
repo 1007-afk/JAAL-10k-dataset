@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from LoanExpressIndia. We saw you applied for a personal loan recently. Just verifying your details. Is this your registered mobile number, Mr. Verma?
+receiver: Yes, this is my number. I did apply for a loan, but haven't heard anything yet.
+caller: Excellent! Your application is pre-approved for ₹30,000. A very special offer for our valued customers. But, for final approval, we need a small processing fee of ₹2,500 upfront to verify your account. Just to avoid any fraudulent activity, you understand.
+receiver: ₹2,500? That wasn’t mentioned in the application. It seems a bit strange.
+caller: Sir, this is a standard security measure. If you don't pay this, we'll have to cancel the approval, and you'll lose the chance for this amazing interest rate. We can send you some photos to prove the authenticity of the company. And we also have very strict protocols for data privacy. Just a one-time fee.
+receiver: Alright, fine. What's the UPI ID to transfer the money? But I want the loan amount credited immediately after.
+caller: Please transfer ₹2,500 to loanexpress@hdfcbank.com. Once the payment is confirmed, your loan will be disbursed within 15 minutes, guaranteed. We’ll also send you a confirmation SMS. Just one moment while I process this...

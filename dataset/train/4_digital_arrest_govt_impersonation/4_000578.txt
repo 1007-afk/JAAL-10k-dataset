@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Delhi Cyber Crime Unit. We've detected some suspicious activity linked to your bank account – specifically, a series of transactions related to illegal cryptocurrency trading.
+receiver: Illegal cryptocurrency? Sir, I don’t even know what that is! I just use my debit card for groceries and online shopping.
+caller: Sir, don't be alarmed. We're investigating a large network. Your account seems to have been compromised. To clear this up and prevent legal action, you need to cooperate. We require you to transfer ₹15,000 to a secure account for verification purposes.
+receiver: ₹15,000? Sir, that's a lot of money! How do I know this isn't a scam? Can I speak to someone higher up?
+caller: Sir, this is a sensitive matter. We are under strict instructions to handle it discreetly. Delaying will only escalate the situation.  Transfer the amount to account number 1234567890, IFSC code ABCD0001.  I’ll stay on the line while you do it.  The video call is being monitored to ensure your cooperation.
+receiver: Video call?  But why do I have to do this now? I need to think about it. Can I get this in writing?
+caller: Sir, every minute counts.  We are monitoring your activity right now. If you don’t act swiftly, a warrant will be issued for your arrest.  Transfer the ₹15,000 immediately.  Account number remains 1234567890, IFSC ABCD0001.

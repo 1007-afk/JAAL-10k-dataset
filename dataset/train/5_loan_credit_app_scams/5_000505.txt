@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We are calling from QuickCash Loans. Your application for a personal loan of ₹30,000 has been preliminarily approved. Just a few quick steps to finalize it.
+receiver: QuickCash Loans? I don’t remember applying for a loan. I’ve been busy with work.
+caller: No worries, madam. You applied through a mobile app – LoanBuddy. It’s very popular. To activate the loan, we need a small processing fee of ₹2,500 as security. It will be refunded once the loan is disbursed.
+receiver: A processing fee? That seems strange. Banks don't usually ask for fees upfront. And I definitely didn't use LoanBuddy.
+caller: Madam, this is to prevent fraudulent activities. If you don't pay, we'll have to cancel the approval. We can also send a notice to your contacts – just to inform them that you're taking a loan. Wouldn't want them to think you're having financial trouble.
+receiver: What?! You’re threatening to contact my family and friends? This is ridiculous! I am reporting you to the cybercrime department. Don't call me again.

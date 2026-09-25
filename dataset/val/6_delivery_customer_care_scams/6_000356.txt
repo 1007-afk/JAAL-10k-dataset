@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Akash calling from Swiggy Customer Care. We've noticed an unusual payment attempt on your account of ₹350. Can you confirm this transaction?
+receiver: Swiggy? ₹350? I didn't make any order. What's happening?
+caller: Yes, Madam. It appears there was a technical glitch. To secure your account, we need to verify your OTP sent to your registered mobile number. This is just a security measure, Madam.
+receiver: OTP? But I don't understand. Why do you need my OTP for a payment glitch? Can't you fix it from your side? And how do you know I didn't order something, I may just have forgotten?
+caller: Madam, due to the urgency, we need to act fast. The OTP is to block the unauthorized transaction immediately. If we don’t do it now, the money will be gone. Please share the OTP so we can resolve this quickly.  It's a very simple process, Madam.
+receiver: Wait a minute. Something feels wrong. Let me just check my Swiggy app…
+caller: Madam, please hurry! The system is automatically refunding fraudulent payments, but only if the OTP is shared within the next 60 seconds. After that, it's too late. Don’t let the money go, Madam!

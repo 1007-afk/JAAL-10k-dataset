@@ -1,0 +1,7 @@
+caller: Namaste, main Rajat, BharatPay security team se. Aapke BharatPay wallet mein ek suspicious transaction mila hai – ₹750 Amazon pe. Kya aapne yeh transaction kiya hai?
+receiver: BharatPay? ₹750 Amazon? Mujhe toh koi transaction yaad nahi hai. Main toh kuch khareeda bhi nahi tha.
+caller: Sir, yeh bahut urgent hai. Security risks hone ke karan, humein aapke account ko freeze karna padega agar hum verify nahi kar sakte. Humko sirf OTP chahiye verification ke liye.
+receiver: OTP? Lekin aapko KYC details bhi toh check karne chahiye na? Mere naam aur address ki jaanch bhi toh kar lete.
+caller: Sir, zyada process nahi hoga. Yeh OTP sirf confirmation ke liye hai. ₹750 ka transaction ho gaya hai, usko reverse karne ke liye humko confirmation chahiye. OTP send kar dijiye.
+receiver: Sir, aap mujhe BharatPay ka official number de sakte hain? Main khud check karunga. Mujhe yeh thoda suspicious lag raha hai.
+caller: Sir, official number se baat karne mein time lag jayega. Account freeze hone se pehle OTP send kar dijiye. Just ₹750, sir. Protect your account.

@@ -1,0 +1,10 @@
+caller: Namaste sir, mai Axis Bank se baat kar raha hoon. Aapke account mein kuch suspicious activity dikha raha hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi hai.
+caller: Sir, ek login attempt Nepal se kiya gaya hai. Aapka account suspend karne se pehle, KYC update karna hoga.
+receiver: Nepal? Maine toh kabhi Nepal nahi jaata. Aur KYC update?
+caller: Ji sir, security ke liye. Aapka Aadhaar card number aur ek OTP bataiye, bas. Aur kuch nahi. Account suspend na ho, sir.
+receiver: Aadhaar card number phone pe? Ye theek nahi lag raha. Aur OTP bhi?
+caller: Sir, ye protocol hai. Main aapko ek link bhejta hoon, wahan se verify hoga. Thoda wait kar lijiye.
+receiver: Link? Mai kisi bhi link pe click nahi karunga. Mujhe doubt ho raha hai.
+caller: Sir, account suspend hone se pehle jald se jald verify karna hoga. Aapka naam Rajesh Kumar hai na?
+receiver: Haan, Rajesh Kumar hun main, lekin mujhe yeh scam lag raha hai. Mai police mein report karunga.

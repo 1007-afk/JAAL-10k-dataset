@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? My name is Inspector Rajesh from the Delhi Customs Department. We need to speak with you regarding a package intercepted at Indira Gandhi International Airport.
+receiver: Hello, Inspector? Haan, main Mrs. Verma bol rahi hoon. Kya baat hai? Package?
+caller: Mrs. Verma, we’ve intercepted a parcel addressed to you containing suspicious items – preliminary scans indicate possible involvement in illegal pharmaceutical distribution. This is a very serious matter. To avoid legal action, we need you to cooperate.
+receiver: Illegal pharmaceutical distribution? Yeh kya keh rahe hain aap? Main toh kabhi package order bhi nahi karti! Yeh galat hai.
+caller: We understand you might be confused, Mrs. Verma. But our evidence is strong. To clear this up and prevent a warrant from being issued, we require a small processing fee of ₹15,000 to verify the contents and ensure the package isn’t contaminated. We can arrange a video call to confirm your identity.
+receiver: ₹15,000? Aur video call? Sir, mujhe yeh sab thik nahi lag raha hai. Main police station mein jaungi complaint register karne.
+caller: Mrs. Verma, please don't do anything rash. This is a confidential procedure, and involving the police will only complicate things further. Think of the legal costs and the embarrassment it will cause. The ₹15,000 is a small price to pay for avoiding a lengthy and expensive court case. We’re just trying to help.
+receiver: Par yeh kitna anayari baat hai. Main ek normal housewife hoon. Mujhe kuch bhi nahi pata. Aap log proof dikhaiye.

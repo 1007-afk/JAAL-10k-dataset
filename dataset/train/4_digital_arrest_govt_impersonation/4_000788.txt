@@ -1,0 +1,8 @@
+caller: Namaste! Is this Ms. Verma? I am calling from the Directorate of Revenue Intelligence, Delhi. We’ve flagged a suspicious transaction linked to your bank account.
+receiver: Haan, main hi hoon. Kya hua? Kuch problem hai?
+caller: Yes, Ms. Verma. Our system shows a large sum of money was transferred to an overseas account under the guise of a ‘gift.’ This is being investigated as potential money laundering. We need to verify some details.
+receiver: Money laundering? Mere account se? Lekin main toh aise kuch nahi kiya. Main toh ek teacher hoon!
+caller: We understand, Ms. Verma. However, protocols require us to verify. Can you please provide the last four digits of your bank account number for immediate investigation? We need to secure your funds.
+receiver: Theek hai, theek hai. It's 4567. Par yeh kitna serious hai? Mujhe toh dar lag raha hai.
+caller: Very serious, Ms. Verma. To avoid legal complications, we need you to pay a small processing fee of ₹750 to clear the transaction and prove your innocence. This will be a one-time charge.
+receiver: ₹750? Kahan pay karna hai? Aur main kaise pata karun ki yeh sach mein government ka call hai?

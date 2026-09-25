@@ -1,0 +1,8 @@
+caller: Hello? Yeh Amit Verma, Indian Customs Department se bol raha hoon. Aapke naam par ek parcel hai jo Mumbai airport par rukaya gaya hai.
+receiver: Parcel? Mere naam par? Kya parcel hai? Mujhe toh koi order yaad nahi.
+caller: Yeh parcel mein illegal items mile hain – drugs ke sang related material. Isliye rukaya gaya hai. Aapko yahan par legal process complete karni hogi.
+receiver: Drugs? Yeh kya bol rahe hain aap? Main toh kabhi drugs nahi leta. Kuchh bhi jhoot bol rahe hain.
+caller: Dekhiye, proof hai. Aapko settle karne ke liye ₹25,000 deposit karne honge. Account number main aapko text message se bhejta hoon. Video call par bhi baat karenge taaki aapko doubt na ho. Jaldi karna hoga, warna case register hoga.
+receiver: ₹25,000? Aur video call? Yeh toh clear scam hai! Main police mein complaint kar dunga. Account number mat bhejo.
+caller: Police? Aapko sahi jaankaari nahi hai. Case register hone par ₹50,000 lag jayenge. Just ₹25,000 abhi. Main aapka naam save kar raha hoon video call ke liye. Aapke area ke police station se contact karna padega, yeh process hai.
+receiver: Main abhi police se hi baat karta hoon. Apne number ko block kar raha hoon.

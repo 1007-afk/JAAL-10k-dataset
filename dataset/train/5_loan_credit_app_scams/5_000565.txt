@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Amit Verma? I'm calling from Loan Express India. We saw your application for a quick personal loan of up to ₹75,000. Just need to confirm a few details before we process it.
+receiver: Yes, speaking. I did apply online. What’s this about?
+caller: Wonderful! Just a formality. To activate your loan, we need to verify your bank details. Could you please share the last four digits of your account number? Also, can you confirm your full name for security purposes?
+receiver: Sure. The last four digits are 4567. My name is Amit Verma.
+caller: Thank you, Mr. Verma. One moment… Okay, everything seems fine. Now, for a small processing fee of ₹2,500, we can release your loan immediately. It’s refundable, of course, and will be deducted from your loan amount. You can pay via UPI.
+receiver: ₹2,500? The website didn't mention any processing fee.
+caller: Sir, these are new regulations. It's a one-time charge to prevent fraud. Without it, we can't guarantee the loan's release. Think of it as insurance, sir. We don’t want you to lose out on this opportunity. UPI details are 8888888888@ybl. Please send now, sir.
+receiver: I think I'll have to check something first.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Ankit from SecurePay Verification Department. We’ve noticed some unusual activity on your SecurePay UPI account, potentially indicating a security breach.
+receiver: Haan, bolie. SecurePay Verification? Kya hua? Anything serious?
+caller: Ji, sir. Our system flagged a transaction originating from a new device. To protect your funds and prevent unauthorized access, we need to verify your identity immediately. Account suspension is a possibility if verification isn't completed within the next 15 minutes.
+receiver: 15 minutes? Account suspend? Why wasn’t I notified earlier? What kind of transaction are you talking about? How much money?
+caller: Sir, it was a small test transaction of ₹5, just to trigger the security alert. It will be automatically reversed once you verify. For verification, could you please provide the last four digits of your PAN card? It's standard procedure.
+receiver: PAN card details? Over the phone? That doesn’t sound right. Shouldn’t I be getting an OTP on my registered mobile number? SecurePay always uses OTP.
+caller: Sir, due to the urgency and potential risk, we are bypassing the standard OTP process this time. This is a one-time exception to prevent further fraudulent activity. The ₹5 will be reversed in 24 hours once the verification is complete. Please provide the PAN last four digits so we can process this.
+receiver: Okay, hold on a second. Let me quickly check the SecurePay app myself...

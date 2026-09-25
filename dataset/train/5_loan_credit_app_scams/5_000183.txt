@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mera naam Vijay hai, ExpressCashLoans.co.in se. Aapko jald se jald paisa chahiye? Business mein kuch urgent kaam hai kya?
+receiver: Haan, ji. Actually, mujhe apne gaadi ke insurance ke paise bharne hai, aur time kam hai.
+caller: Excellent! ExpressCashLoans mein, hum koi bhi credit score check nahin karte. Aapko jitne bhi paise chahiye, hum instant approve kar denge. Kitne rupay ki requirement hai, sir?
+receiver: Roughly 30,000 rupay ka hona chahiye. Aur interest kitna lagega?
+caller: Sir, hum special offer de rahe hain. Just 5000 rupay processing fee, aur interest iske baad bataenge. Aapko sirf bank account details dena hai. Account number aur IFSC code bataiye.
+receiver: Theek hai. Account number 9876543210 hai, aur IFSC code ICIC0001234 hai.
+caller: Thank you, sir! Loan approve ho gaya hai. Ab aapko sirf 5000 rupay processing fee deposit karne hai. Our payment gateway link is expresscashloans.co.in/pay. Jaldi se karo, sir, offer limited time ke liye hi valid hai.

@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Paytm Payments Bank se Shilpa bol rahi hoon. Aapke account mein kuch suspicious activity dikhi de rahi hai.
+receiver: Paytm se? Kya hua? Koi toh message aaya tha, par main dekh nahi paya.
+caller: Sir, ek international transaction try kiya gaya tha, lekin fail ho gaya. Security ke liye, humein aapka Aadhar card number aur OTP verify karna hoga. 24 hours mein aapka account suspend bhi ho sakta hai.
+receiver: Aadhar number aur OTP? Koi attach file ya link tha kya? Mai Paytm app par check karta hoon.
+caller: Sir, attachment ya link send karna secure nahi hai. Yeh direct verification process hai. OTP aapko apne phone par mil jayega. Sir, jaldi karna hoga, time bahut kam hai, account block hone se pehle.
+receiver: Bilkul? Lekin Paytm toh kabhi bhi aise call nahi karta. Mai customer care number se call karta hoon aur confirm karta hoon.
+caller: Sir, yeh emergency protocol hai, customer care mein line bahut busy hogi. Sir, just give me the OTP, then I will tell you the case id. 3 minutes mein aapka account safe ho jayega.
+receiver: Okay wait.

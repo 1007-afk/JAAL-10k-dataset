@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel Customer Support se Rahul bol raha hoon. Aapke Airtel number par ek suspicious activity detect hui hai. Account secure rakhne ke liye humein aapka KYC update karna hoga.
+receiver: Kya? Suspicious activity? Mujhe koi message nahi aaya.
+caller: Haan sir, system mein dikh raha hai. Isliye, humein aapko ek OTP bheja hai. Kindly OTP bata dijiye, taaki hum verification complete kar sakein. Account suspend hone se bachne ke liye jaldi karna hoga.
+receiver: OTP? Par aise kaise? Airtel toh kabhi OTP share karne ko nahi kahega.
+caller: Sir, is baar ye system update hai. Security zyada improve karne ke liye humein yeh karna padega. OTP suniye, sir. Aur trust kijiye, hum aapki help kar rahe hain. Jo OTP aaya hai woh bata dijiye.
+receiver: Dekhiye sir, mujhe is par shaq ho raha hai. Main Airtel ke official website par check karta hoon aur khud call karta hoon.
+caller: Sir, aapko agar doubt hai toh galat samajh rahe ho. Account suspend hone se pehle jaldi karna hoga. OTP bata dijiye, phir main aapko confirm kar dunga ki sab theek hai. Ismein sirf 2 minute lagenge.

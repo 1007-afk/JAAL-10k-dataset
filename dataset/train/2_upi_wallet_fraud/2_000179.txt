@@ -1,0 +1,11 @@
+caller: Namaste! Mein Paytm Customer Care se Rohit bol raha hoon. Aapke Paytm account mein ek suspicious transaction attempt kiya gaya hai. Kripya verify karne ke liye kuch details bataiye.
+receiver: Kya suspicious transaction attempt? Mujhe toh koi notification nahi aaya.
+caller: Haan, sir. Kuch hackers ne aapke account ko target karne ki koshish ki hai. Hum aapki security ke liye call kar rahe hain. Aapka registered mobile number bataiye, please.
+receiver: Mera number 9887766554 hai. Lekin Paytm mein toh biometric lock bhi hai.
+caller: Bilkul sir, biometric security bahut important hai. Lekin hackers bahut smart ho gaye hain, woh biometric bhi bypass kar sakte hain. Hum aapko ek OTP bhejenge, woh verify karne ke baad, hum aapke account ko secure kar denge.
+receiver: Theek hai, OTP aao.
+caller: OTP hai 123456. Isko verify karke bataiye. Aur sir, humein ek small processing fee bhi deposit karna hoga, ₹500, aapke Paytm wallet mein. Yeh sirf ek baar lagega, security ke liye.
+receiver: ₹500? Processing fee? Yeh kya baat hui? Mujhe toh koi aise rule yaad nahi.
+caller: Sir, rules change hote rehte hain. Security ke chakkar mein, kuch extra fee lagti hai. Jaldi karo, warna hacker aapke account mein access kar lega.
+receiver: Hmm, okay fine. Mein ₹500 deposit karta hoon.
+caller: Bahut achha sir. Ab ₹500 Paytm wallet mein deposit karke mujhe bataiye. Transaction successful hone ke baad, hum aapka account secure kar denge.

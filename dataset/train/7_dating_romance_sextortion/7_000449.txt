@@ -1,0 +1,7 @@
+caller: Namaste! Kaise hain aap? I’m calling from ‘Dil Se Connections’, a service to help you find your soulmate! We’ve detected significant interest in your profile. Would you like to know more? Just dial 9876543210 and use code ‘Anmol’ for a special introductory offer.
+receiver: Dil Se Connections? Interest in my profile? Really? Sounds a bit fishy, but okay. What’s the offer? And what kind of questions will they ask?
+caller: Absolutely! The ‘Anmol’ code gives you a free profile reveal – we’ll tell you the name and occupation of the person who’s been admiring you from afar. They’re very shy, so they asked us to reach out. It's a chance to meet someone special! A small verification fee of ₹250 is required to access this information.
+receiver: ₹250 just to know who’s interested? That seems a bit steep. What if I don't like what you tell me? Can I get a refund?
+caller: Don't worry! This fee guarantees the accuracy and security of the information. We also offer a 100% satisfaction guarantee – if you’re not happy with the profile, we’ll refund your ₹250. It’s a very limited time offer, so don't miss out. Just transfer ₹250 to UPI ID: connect.anmol@xyzbank.
+receiver: Connect.anmol@xyzbank? Hmm, that sounds made up. I’m not so sure about this. Let me think about it.
+caller: Don't delay! This could be the start of something wonderful! Remember, this special offer with code ‘Anmol’ won’t last long. We’re waiting to help you find your happiness!

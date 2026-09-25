@@ -1,0 +1,6 @@
+caller: Namaste sir, main Paytm se Atul bol raha hoon. Aapke Paytm account mein suspicious activity detect hui hai, ek unusual transaction ka attempt kiya gaya tha. Security ke liye aapko apna account verify karna hoga.
+receiver: Kya? Suspicious activity? Mujhe koi notification nahi mila. Verify karna kya hai? Aur main abhi busy hoon, yeh baad mein kar sakte hain?
+caller: Sir, yeh bahut urgent hai. Account suspend hone se pehle verify karna padega. Sirf OTP se hoga, bas 2 minutes ka kaam hai. Aapka Paytm registered mobile number bataiye, main OTP send karwa dunga.
+receiver: OTP? Theek hai, par phone pe nahi. Mujhe SMS mein hi chahiye. Aur aap Paytm se sach mein bol rahe hain? Koi link bhejo website ka, main wahan check kar lunga.
+caller: Sir, website par verify karne mein time lagega, aur security risk bhi hai. SMS se verify karna safe hai, direct Paytm server se. Sir, OTP send karwaane ke liye aapka mobile number chahiye, 10 digits ka number bataiye. Lekin ek baat bataiye, aapki KYC details update hui hain ya nahi?
+receiver: KYC update? Maine toh kabhi kuch update nahi kiya. Aur mere mobile number ki baat hai, main phone pe OTP dene mein confident nahi hoon. Koi aur tarika hai, jaisa ki branch mein jaakar verify karwa lo? Ya phir Paytm app mein koi option hai verify karne ka?

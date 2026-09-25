@@ -1,0 +1,6 @@
+caller: Namaste! Yeh Flipkart se Vishal bol raha hoon. Aapke naam par ek bahut important issue hai. Aapne kuch din pahle ₹8,000 ka phone order kiya tha, right?
+receiver: Haan, Flipkart se maine phone order kiya tha. Kyon hai problem? Sab theek to tha jab last check kiya tha.
+caller: Sir, delivery process mein ek technical fault aa gaya hai. Payment verification pending hai, aur isko clear karne ke liye aapko OTP dena hoga.
+receiver: OTP? Flipkart aise phone karke OTP maangta hai? Mujhe toh koi email bhi nahi aaya. Yeh thoda suspicious lag raha hai.
+caller: Sir, security reasons ke vajah se, hum phone karke hi OTP verify karte hain. Koi chinta mat kijiye. Aapka order time pe deliver ho jayega. OTP sms karein?
+receiver: Theek hai, SMS karo. Lekin pehle mujhe batao, order number kya hai? Aur yeh phone kitne baje deliver hoga?

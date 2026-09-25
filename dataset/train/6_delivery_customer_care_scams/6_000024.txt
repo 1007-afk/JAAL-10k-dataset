@@ -1,0 +1,8 @@
+caller: Namaste! Main Rohan Kumar, Reliance Digital se baat kar raha hoon. Aapko pata hai kya, Diwali ke liye humne special deals nehi mil rahe hain? Iss week mein, 15th November tak, aap Samsung Galaxy S23 Ultra mein cashback offer le sakte hain - Rs. 5000 tak! Kya aapko interest hai?
+receiver: Arre,haan! Main Vikram Singh hoon. Reliance Digital se call kar rahe ho? Samsung Galaxy S23 Ultra aur cashback? Woh achcha lagta hai. Kya cashback kis tarah milega?
+caller: Haan ji, Mr. Singh! Humne online portal par yeh offer upload kiya hai. Aapko sirf apne mobile number aur address ka OTP verification karne honge. Abhi order karo, aur Diwali ke liye ready ho jao! Offer 15th November tak valid hai. To, aapki mobile number aur address ready hai?
+receiver: Oh, Rohan ji, thanks for letting me know! Jaise, meri mobile number 9876543210 hai aur address Delhi mein hai.  Aap mujhe OTP send kar sakte hain kya?
+caller: Haan ji, Vikram Singh! Bahut shukriya! Aapko abhi OTP receive hogya hai.  Ab aap apni order confirm kar sakte hain.  Diwali ke liye Samsung Galaxy S23 Ultra, Rs. 5000 ka cashback, sab kuch complete ho gaya hai!
+receiver: Okay, great! Order confirmed.  Thank you so much, Rohan ji.  I’ll check my email for the confirmation details.  Aapko bhi congratulations!
+caller: Haan ji, Vikram Singh!  Aapko wishing bhi koi zaroorat nahin hai, aapko movie aur popcorn enjoy karna hai!  Agar koi problem aaye toh humein contact karte rehien.  Shubh Diwali!
+receiver: Shubh Diwali! Thank you again, Rohan ji.  I'll see you soon!

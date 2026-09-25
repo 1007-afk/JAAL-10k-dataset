@@ -1,0 +1,10 @@
+caller: Namaste! Aapko batana hai ki aapne lottery mein jeeta hai ₹5,000! Maharashtra government ne aapko yeh raashi de di hai! Kya aap chahenge ki hum yeh money aapke Paytm wallet mein daal dein?
+receiver: Oh my god! Seriously? ₹5,000? Maine toh malakar ho gaya! Haan, bhai, definitely! Mujhe Paytm mein daal do yaar. Kaise karte hain?
+caller: Shuruaat karein, aap apne Paytm app mein login karen. Then, "Add Funds" option par click karein.  Aapko “Government Grant” section dekhiyege.  Usme ₹5,000 enter karein aur confirmation button par click karein.
+receiver: Okay, okay, main kar raha hoon.  Main app mein log in kiya hai aur "Add Funds" wala option bhi dekh raha hoon.  Ab "Government Grant" section kahaan hai?
+caller: Woh pehle page par hi dikhega, ya phir "Payment Methods" section mein jaake "Other Payments" select karein.  Agar koi problem hai, to bataiye.
+receiver:  Haan, main jaa raha hoon.  Dekh,  “Government Grant” ka option mil gaya.  Ab ₹5,000 likh raha hoon.  Aap bataiye, kahan likhne ka?
+caller:  Bahut achcha!  Phir aapko payment complete karne ke liye OTP maangega.  Aapke registered mobile number par ek OTP aaega.  Woh OTP box mein dalna.
+receiver:  Haan ji, OTP aa gaya hai.  Yeh hai: [Invented OTP].  Ab ab sab thik ho jaayega na?
+caller:  Shukriya [Invented Name] ji.  OTP mila, thank God!  Ab hume sirf yeh check karna hai ki aapka Paytm wallet actual mein ₹5,000 se bhar gaya hai ya nahi.  Mujhe aapse ek minute aur chahiye.
+receiver:  Theek hai, wait karo main dekhta hoon.  (pause)  Okay, wallet mein ₹5,000 ho gaye hain!  Sab sahi hai!

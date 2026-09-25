@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit? I'm calling from FastCash Solutions. We've noticed you recently applied for a personal loan online.
+receiver: Yes, I did. I haven't heard anything back yet.
+caller: Excellent! Your application is pre-approved for up to ₹75,000. Just a few simple formalities to complete. For security purposes, could you please share the last four digits of your bank account number?
+receiver: Why do you need that? I thought this was FastCash Solutions.
+caller: It's standard procedure, sir. To verify your identity and quickly process the loan. Without this, we can't proceed. Also, we need to see proof of your ID and address. A clear selfie with your Aadhaar card will do.
+receiver: That sounds a bit suspicious. I'm not comfortable sharing that information over the phone.
+caller: Rohit ji, time is running out! This is a limited-time offer. If you don't provide the details now, your approval will be cancelled and you'll lose the opportunity. We'll also have to report you to the system for wasting our time. And consider this, if you don’t pay the processing fees right now, we will have to send your information to your relatives and employer.

@@ -1,0 +1,7 @@
+caller: Hello! I saw your profile on SparkMatch. You seem lovely. I’m Rohan, a photographer traveling through Europe for work. I'm stuck in Budapest right now, and it’s quite expensive.
+receiver: Oh, hi Rohan! Budapest sounds amazing. Photography must be a great job. What kind of photography do you do?
+caller: Mostly weddings and portraits. It pays well, usually! But this trip is proving costly. My bank card got blocked here. It’s a long story. I really need to get back to Delhi soon to see my family. Could you possibly send me ₹5,000 to help with the hotel and some food? I’ll pay you back the moment I’m back.
+receiver: ₹5,000? That’s a lot to ask from someone we just met online. Why not try contacting your bank?
+caller: I’ve tried, but they’re being difficult and say I need a local ID which I don’t have right now. Trust me, I'm in a real bind. I wouldn't ask if I wasn't desperate. I even have some photos of me here, would you like to see?
+receiver: Okay, I’ll send you ₹3,000 for now. But I’m expecting that you repay me immediately once you get back. Send me your bank details.
+caller: Thank you so much! You’re a lifesaver! I really appreciate it. I’ll send you my account details right away. Just a small favor… before I do, could you send me a quick picture of yourself? Just to make sure I’m sending the money to the right person.

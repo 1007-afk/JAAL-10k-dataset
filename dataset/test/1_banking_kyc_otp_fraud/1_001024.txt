@@ -1,0 +1,9 @@
+caller: Namaste, main Axis Bank se Rohit bol raha hoon. Aapka naam Priya Sharma hai na?
+receiver: Haan, main Priya Sharma hoon. Boliyega?
+caller: Priya ji, aapke bank account mein se kuch suspicious transactions detect hue hain. KYC update karna bahut zaroori hai, warna account suspend ho sakta hai. Aapka Aadhaar card number aur ek OTP share karengi please?
+receiver: KYC ke liye Aadhaar number aur OTP maang rahe ho? Mujhe toh ye thoda fishy lag raha hai. Axis Bank kabhi aise call nahin karta.
+caller: Priya ji, please mat sochiyega. Yeh security procedure hai. Account suspend hone se bachane ke liye jaldi karna hoga. OTP main aapko SMS se mil jayega, woh bata dijiye. Bas 2 minute lagega.
+receiver: Theek hai, par mujhe customer care number pe call karke confirm karna hai. Ek minute rukiye.
+caller: Priya ji, time bahut kam hai. Account suspend hone ki possibility hai. OTP bata dijiye, main aapko official confirmation number de dunga. Trust me, yeh aapki security ke liye hai.
+receiver: Okay, OTP hai 123456.
+caller: Thank you, Priya ji. Aapka account abhi safe hai. Confirmation number hai AX8901. Yaad rakhiye. Apni personal details kisi se share mat karna.

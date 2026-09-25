@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Priya Verma? This is Akash from Delhivery Courier Services. We have a package for you, but there’s a small issue with the delivery address. It needs to be verified quickly.
+receiver: Haan, woh main hoon. Delivery? Kya package hai?
+caller: It’s a high-value item, Ms. Verma. We just need to confirm a few details to ensure it reaches you safely. Our system shows a discrepancy – it’s flagging a potential security risk. Could you please tell me the last four digits of the card you used for the purchase?
+receiver: Card details? Are you serious? I didn't give my card details for delivery. Which company sent this package? I haven't ordered anything recently.
+caller: Ms. Verma, this is a standard security protocol. We need to confirm the payment to prevent fraudulent activities. It's from Myntra. The invoice number is MN789456. To proceed, we'll send a one-time password (OTP) to your registered mobile number for verification.
+receiver: Myntra? I see. Why didn't you just call Myntra directly? And why are you asking for an OTP? This feels very fishy.
+caller: Ma'am, we're outsourced by Myntra for deliveries. OTP is essential to secure the package, to confirm it's being delivered to the correct person and to avoid any confusion. We wouldn't want it to get lost, right? Please, just confirm the OTP and we'll ensure it’s delivered today.
+receiver: No, I'm not giving you any OTP. I’ll contact Myntra customer care myself to verify this. Thank you.

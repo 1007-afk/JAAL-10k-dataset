@@ -1,0 +1,11 @@
+caller: Namaste! Kaise haal chaand saal? Yeh Mumbai se baat kar raha hoon. Aapke naam Vivek Sharma ke prize ka notification aaya tha. ₹15,000 ka lottery prize aapke liye band hai aur sirf 6 minute ka time hai.  Aapko apne bank account mein ₹2,000 transfer karne honge.
+receiver: Namaste ji! Theek hai, samjhi. Vivek Sharma? Haan, maine suna tha.  6 minute? Seriously?  Mujhe abhi check karna padega.  Okay, main abhi call karta hoon usi number pe.
+caller: Oh, bahut mazaaq kar rahe ho kya?  Haan, seriously! Bas 5 minute baaqi hain.  Agar aapko prize milna hai toh humein ₹2,000 chahiye.  Yeh ek verification charge hai, samajh mein aa raha hai?
+receiver:  Arre yaar, verification charge?  Koi confirmation nahi tha.  Bas ₹2,000 transfer kyon?  Mujhe abhi check karna padega.  Main dobara try karunga.
+caller:  Bhai bhai, kitna confusion ho raha hai!  Agar aapko prize milega toh yeh ₹2,000 aapko refund kar diya jayega.  Bas jaldi karo, sirf 4 minute bache hain!  Agar koi problem hai toh mujhe bata dena.
+receiver:  Refund?  Yaaro, koi guarantee nahi hai.  ₹2,000 transfer karna mujhe zyada acha lagta hai.  Abhi check kar raha hoon.  3 minute?
+caller:  Achha, okay.  Bas 3 minute ka time hai.  Agar aapko prize milega toh ₹2,000 transfer karna zaroori hai.  Agar koi bhi issue ho toh mujhe batana.  Hum sabhi aapki madad karenge!  Jaldi karo!
+receiver:  3 minute…  Pakka call kar raha hoon.  Agar call utthaa toh sab theek hai.  Arre, ₹2,000?  Dekhte hain. Thanks!
+caller:  Excellent!  Bas 2 minute baaqi hain!  Aapko 09876543210 pe call karna hai.  ₹15,000 ka prize aapka hai!  Hurry up!
+receiver:  2 minute?  Arre yaar!  Theek hai, abhi uthaunga.  Agar utthaa toh thanks.  Nahi toh...  Kya hoga?
+caller:  Just hurry up!  Aapko prize milna hai!  Don’t delay!

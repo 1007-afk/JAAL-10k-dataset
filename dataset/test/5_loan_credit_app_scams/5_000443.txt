@@ -1,0 +1,7 @@
+caller: Namaste, mujhe QuickLoanPlus se Priya bolte hain. Sir, aapke naam par ek loan application aaya tha, approved ho gaya hai, lekin verification ke liye kuch details chahiye.
+receiver: Oh, mujhe toh koi application kiya hi nahi tha. Koi mistake hogi na?
+caller: Nahin sir, system mein dikh raha hai. Just confirm kijiye, aapka phone number aur PAN card number bataiye verification ke liye. Aur ek photo ID bhi chahiye hogi, sir.
+receiver: PAN card number bata duga, lekin photo ID ki zarurat nahi lagti. Aur phone number toh wrong bhi ho sakta hai, maine kabhi loan apply hi nahi kiya.
+caller: Sir, agar aap loan lena chahte hain toh verification compulsory hai. Photo ID se verify karenge, aur agar aapko loan approved ho gaya toh pata chal jayega aapko kuch mistake hai ya nahin. Photo send kijiye, aur ek small amount, sirf 500 rupay, verification fee ke liye aapke account mein transfer karna hai.
+receiver: 500 rupay bhi dena padega? Aur photo ID? Yeh toh zyada lag raha hai. Mein sooch raha hoon.
+caller: Sir, jaldi kariye, offer valid hai sirf aaj tak. Aur agar aap photo ID nahi bheje toh aapka application reject ho jayega, aur loan bhi nahi milega. Abhi photo send kijiye, aur fee bhi deposit kar dijiye.

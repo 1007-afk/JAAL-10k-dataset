@@ -1,0 +1,16 @@
+caller: Hello, this is Rohan from Global Investments. We have an incredible opportunity for you regarding a profitable investment in renewable energy credits.
+receiver: Oh really? Renewable energy credits? What’s that exactly?
+caller: It's simple. We've identified a prime location in Rajasthan – near Jodhpur – where solar panels can generate substantial returns within six months.  We need investors like you to contribute a small initial amount to secure these rights.
+receiver: Rajasthan, huh? Near Jodhpur? And how much would I need to invest initially?
+caller: Just around ₹50,000 will get you started.  But here's the catch - we require immediate action. A verification document needs to be sent via registered post to our office in Delhi – Plot Number 789, Sector 12, Noida.  It’s urgent!
+receiver: Registered post to Delhi? That sounds a little complicated. What kind of information does this document need to contain?
+caller: Primarily, it's a scanned copy of your PAN card and Aadhaar card.  We also need a signed declaration confirming your investment intent.  Don't delay, time is of the essence!
+receiver: Okay, okay, let’s slow down a bit. This all seems a bit rushed. Can you tell me more about the potential returns?
+caller: Absolutely! With current market trends, we project a minimum return of 15% annually, guaranteed. Plus, there’s a bonus if the monsoon season is favorable. It's a very safe investment.
+receiver: 15% guaranteed? That’s quite impressive. But what happens if the monsoon isn't good?
+caller: Then we adjust the projections accordingly, but the initial investment remains protected. Don't worry; we have safeguards in place. Now, do you want to proceed or not?
+receiver: Hmm… I need to think about this. Can you send me some detailed documentation outlining the entire process?
+caller: Of course! I’ll email it to you immediately – my email is rohan@globalinvestments.co.in. Just reply to confirm you received it.  Act fast!
+receiver: Okay, I’ll check my inbox. Thank you for the information.
+caller: You're welcome!  Remember, this is a limited-time opportunity. Don't miss out! Goodbye.
+receiver: Goodbye.

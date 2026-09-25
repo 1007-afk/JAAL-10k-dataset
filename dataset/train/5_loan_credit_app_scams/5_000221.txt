@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mrs. Verma? Speaking? I’m calling from InstaCash Solutions. We’ve pre-approved you for a quick loan – ₹75,000. Very simple process, just a few details to confirm.
+receiver: Haan, main Mrs. Verma. InstaCash? Loan? Main toh kabhi apply nahi kiya.
+caller: No problem, Madam! Sometimes we do pre-approvals based on credit data. Just to verify, can you tell me the last four digits of your Aadhaar card? It's purely for security.
+receiver: Aadhaar number? Main phone pe Aadhaar number share nahi kar sakti. Yeh theek nahi lag raha.
+caller: Listen carefully, Mrs. Verma. This is a limited-time offer. If you don't confirm your Aadhaar last four digits, the pre-approval will expire. And, unfortunately, if you don’t complete verification, we have to report you for potential fraudulent activity, which can impact your credit score negatively. Also, we have video footage of you at a jewelry store yesterday. We can share it with your family if you don’t cooperate.
+receiver: Jewellery store? Aur credit score? Tum log kya bol rahe ho? Main police mein report karungi!
+caller: Don’t be hasty, Mrs. Verma! This is just a formality. To avoid any misunderstandings, quickly share the Aadhaar details, and we’ll process your loan immediately. Don't waste time!

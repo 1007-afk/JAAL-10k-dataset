@@ -1,0 +1,6 @@
+caller: Namaste! Mai Reliance Jiyo se bol raha hoon. Aapko ₹5000 ka free data voucher mila hai! Confirm karne ke liye, aapko sirf ₹200 verification fee pay karni hai.
+receiver: Reliance Jiyo se? Free data voucher? ₹200 fee? Yeh sahi hai kya? Mujhe kuch samajh nahi aa raha hai.
+caller: Haan ji, bilkul sahi hai. Yeh ek special government scheme hai aapke liye. Jaldi karna hai, offer limited time ke liye hi hai. Aapka mobile number bataiye, mai verify kar dunga.
+receiver: Wait a second. Government scheme? Mai Reliance Jiyo app par check karta hoon. Mujhe confirmation chahiye.₹200 pay karne se pehle, mujhe verify karna hai.
+caller: Arre sir, app par nahi dikhega. Yeh direct offer hai, sirf select customers ke liye. Aap ₹200 UPI se pay karein, mai aapko voucher code de dunga. Phir aap ₹5000 ka data use kar sakte hain.
+receiver: UPI se? Kaise? Mujhe aapka UPI ID chahiye. Aur koi phone number jo Reliance Jiyo ka official number ho? Main risk nahi lena chahta.

@@ -1,0 +1,13 @@
+caller: Namaste! Suno, main ek bahut hi important message se baat karne aaya hun. Aapko dekha tha, tumhara naam Sanjay Kumar hai, right? Humne tumhara number dekha hai aur humein dikha hai ki tumne recently 'Happy Homes' app download kiya tha.
+receiver: Haan, main Sanjay Kumar hu. Main us app ko download kiya tha, par mujhe yaad nahi tha. Woh kahan hai?
+caller: Tumhare paas ek special offer hai, sirf Happy Homes users ke liye! ‘ShineBright’ subscription, just ₹15 per SMS, and it gives you access to exclusive deals on furniture and appliances. Only 7 slots left!
+receiver: ₹15 per SMS? Furniture deals? Kahaan dekha yeh offer? Mujhe koi email ya message nahi mila.
+caller: Toh, yehi reason hai ki hum aapko directly call kar rahe hain! Yeh ek limited-time offer hai, Sanjay. Just imagine, you could get a brand new sofa for half the price! And we need your confirmation now. Reply ‘A’ to activate your ShineBright subscription.
+receiver: Half the price? Sofa? Seriously? But why are you calling me? This sounds suspicious. What if this is a fraud?
+caller: Don’t worry, Sanjay! We are a trusted partner of Happy Homes. Your data is safe with us. Just reply ‘A’ to confirm your subscription. There are only 4 spots remaining. We want to make sure you don’t miss out on these amazing savings.
+receiver: Savings? But how much exactly? And what kind of furniture deals are we talking about? Can you give me an example?
+caller: Okay, let’s say you want a three-seater sofa - normally ₹15,000, you can get it for just ₹7,500 with ShineBright! That’s almost half the price! And we have discounts on refrigerators, washing machines, too.
+receiver: ₹7,500? Wow, okay. But still, why are you calling me? This feels like a sales pitch. Is there any catch?
+caller: No catch at all, Sanjay! It’s simply a great deal. Just reply ‘A’ to activate. There are only 2 spots left! Think of it – a beautiful new sofa, saving you money. Respond quickly!
+receiver: Two spots left? Really? Okay, fine. I’ll try it. But if this turns out to be a scam, I’m going to complain. Reply ‘A’.
+caller: Excellent! Thank you, Sanjay! You won't regret it! Enjoy your ShineBright subscription and happy shopping!

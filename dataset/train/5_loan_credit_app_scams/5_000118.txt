@@ -1,0 +1,8 @@
+caller: Namaste, sir! This is Rohan from QuickCashPro.com. I’m calling regarding a potential loan offer we have for you. We specialize in quick approvals, even with less-than-perfect credit. Could I please have your name?
+receiver: Hello, my name is Sanjay. I’m not really looking for a loan right now, but what kind of offers are you providing?
+caller: Sanjay ji, fantastic! We're offering loans from ₹10,000 to ₹5,00,000 with very low initial interest rates. Imagine, new furniture, a vacation… anything! Do you own your home or are you renting?
+receiver: I rent, and honestly, I’m a bit wary of these things. So many scams around.
+caller: Sanjay ji, completely understandable. We're fully licensed and regulated. To confirm your eligibility, could you quickly share the last four digits of your bank account number? It’s just a security check. We’ll send you a small verification code via SMS.
+receiver: I'm not comfortable sharing that information over the phone. It feels a bit risky.
+caller: Sanjay ji, please understand, it’s a standard procedure. Without it, we can't proceed with the loan application. Furthermore, we noticed a pending payment of ₹750 due on your account related to a recent online transaction – we can resolve this immediately with the loan and prevent any late fees. It’s a great opportunity.
+receiver: ₹750? I don't know anything about that. I think I'll have to look into this further. Thank you for your time.

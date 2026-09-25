@@ -1,0 +1,15 @@
+caller: Namaste, this is Rohan from the Tata Consultancy Services recruitment team. I’m calling about your recent online application for the ‘Associate Software Engineer’ role. Did you apply through our official portal, sir/madam?
+receiver: Hello? Sorry, I was busy. Could you please repeat that?  Aapne kuch kaha tha, par mujhe samajh nahi aaya.
+caller: Apologies again, the connection might be a little fuzzy. I have your information here – Rohan Sharma, right? We’ve seen your impressive resume.  We're very interested in exploring opportunities with TCS.
+receiver: Rohan Sharma... yes, that's me.  What exactly are you calling about?  Aap kaise pata kar rahe hain meri resume?
+caller: Absolutely! Let's discuss the next steps. We're currently reviewing applications for the Associate Software Engineer position.  Could you confirm the city where you're currently residing for us? It’s important for logistical reasons, especially with potential remote work options.
+receiver: I live in Bangalore, actually.  So, Bangalore? And what kind of questions would I expect in an interview?  Interview mein kya sawaal puchte hain?
+caller: Excellent! Bangalore is great. Now, regarding the interview process, you can expect behavioral questions as well as some technical assessments.  Just to streamline things a little further, could you provide the three most recent employers you’ve worked for?
+receiver: Okay, let’s see… I worked at Infosys for two years, then at Wipro for a year, and recently at Tech Solutions for six months.  Are you looking for any specific skills?
+caller: Wonderful! That gives me a good picture.  Now, to finalize your profile, I just require one small piece of information for verification purposes only. Could you please state the last four digits of your bank account associated with your payment details?
+receiver: Wait, really? Why do you need that?  That seems a little unusual.  Aapka bank account number kyun lena chahte hain?
+caller: Just a standard procedure, Ms./Mr. Sharma. It helps us ensure accuracy during the onboarding process. Don’t worry, it’s completely secure. We value your time and want to make this process as smooth as possible.
+receiver: Hmm... okay. But I'm still a little hesitant.  Mujhe abhi bhi thik nahi lag raha.
+caller: Completely understandable.  Let's proceed quickly then. Please provide the last four digits of your bank account - it’s crucial for the next step.
+receiver: Fine. They are 6789.  But seriously, this feels wrong.  Woh hain 6789.
+caller: Fantastic! Thank you. Now, we can move forward with scheduling your initial screening call.

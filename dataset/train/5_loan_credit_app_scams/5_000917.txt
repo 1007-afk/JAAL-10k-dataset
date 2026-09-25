@@ -1,0 +1,9 @@
+caller: Hello, is this Rajan Verma? I'm calling from QuickCash Loans. We saw your application on LoanConnect portal and you're pre-approved for a loan of up to ₹75,000. Just need to confirm a few details.
+receiver: Yes, speaking. I did apply on LoanConnect. What details do you need?
+caller: Great! First, can you confirm your date of birth and the last four digits of your bank account number? This is just for verification purposes, sir. Don't worry, it’s completely secure.
+receiver: I’m a little hesitant to give out my bank details over the phone. Is this really QuickCash Loans?
+caller: Absolutely! We are QuickCash Loans. Look, we’ve already processed your pre-approval. To release the funds, we just need those details. And a small processing fee of ₹2,500 which will be credited back to your account once the loan is disbursed. This is standard procedure.
+receiver: ₹2,500? That wasn’t mentioned on the LoanConnect website.
+caller: Yes, sir, those are new regulations.  Without this processing fee, we can’t proceed. Otherwise, this loan offer is withdrawn. Also, we are receiving reports of people misusing loan offers, so we need to verify you are the legitimate applicant.
+receiver: I think I’ll just pass on this then. Seems a bit suspicious.
+caller: Sir, please, don’t miss out on this opportunity. Think of the benefits! Quickly get approved. It's ₹2,500 to get ₹75,000. But time is running out! If not, I will have to report this number as spam.

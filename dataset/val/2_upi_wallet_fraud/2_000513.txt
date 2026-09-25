@@ -1,0 +1,8 @@
+caller: Namaste! Mein Paytm se Simran bolti hoon. Aapke Paytm account mein ek suspicious transaction detect hua hai. ₹7000 ka withdrawal attempt kiya gaya hai.
+receiver: ₹7000? Oh no! Yeh kya ho raha hai? Mein toh koi withdrawal attempt nahi kiya.
+caller: Haanji, hamko bhi confusion hai. Account secure karne ke liye, humein aapke account details verify karne hain. Aapka registered phone number batao please?
+receiver: Woh toh 9876543210 hai. Par account details verify karne ki kya zaroorat hai? Kya koi link bhejo ya kuch?
+caller: Link send karna security ke liye theek nahi hai. Mein direct aapko question poochhoongi. Aapka Paytm password kya hai? Just confirm kardo, please.
+receiver: Mein apna password nahi batayunga! Yeh toh scam lag raha hai!
+caller: Please, sir. Time bahut kam hai. Agar aap confirm nahi karte, toh aapka account aaj hi block ho jayega aur ₹7000 hi chala jayega.
+receiver: Ok, ok… Wait a second, I will check my Paytm account.

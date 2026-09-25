@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I'm calling from Bluedart Courier regarding a parcel addressed to you. It’s currently held at our Jaipur sorting facility due to an outstanding customs fee.
+receiver: Hello? Bluedart? Customs fee? I don't think I'm expecting anything. What's the amount?
+caller: Yes, ma'am. The fee is ₹2850. It’s a standard charge for international shipments. To release the parcel, we require you to make a quick payment via UPI. I can send you the UPI ID.
+receiver: ₹2850? That seems a bit high. And why didn’t I get any prior notification about this fee? Can you give me a tracking number?
+caller: Of course, ma'am. The tracking number is BD123456789. Payment must be made within the next 15 minutes to avoid the parcel being returned to the sender. The UPI ID is 888888@ybl.
+receiver: Okay, hold on. Let me just check the Bluedart website with this tracking number first. One moment.
+caller: Absolutely, ma'am. But please hurry, as the window for payment is closing. We don’t want you to miss out on receiving your package.
+receiver: Just a second… This tracking number isn't showing anything on the official Bluedart website. I think something is wrong.

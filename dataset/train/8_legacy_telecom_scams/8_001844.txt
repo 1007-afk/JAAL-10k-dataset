@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek notification dekha hoga 'Bharat Calling - Get ₹50 cashback'… uske baare mein baat karna chahte hain.
+receiver: Hai, hello. Haan, woh notification dekha tha. Kahaa hai yeh cashback?
+caller: Ji, toh aapko ₹50 ka cashback offer mila hai! Yeh ek special deal hai, aur aapke paas sirf 3 ‘bonus points’ bache hain redeem karne ke liye.  Aapko bas woh bonus points use karna hai, woh bhi totally free!
+receiver: ₹50 cashback? Yaaro, yeh achcha deal hai. Toh mujhe yeh bonus points kaise use karu? Form bhara padta hai ya kuchh?
+caller: Nahi ji, kuchh bhi form fill nahi karna. Aapko bas ek small request dena hai, jisse hum aapki bonus points activate kar sakein. Aapka name bataiye please.
+receiver: Mera naam Amit hai. To, bas request dena hai? Aur kuchh nahi?
+caller: Haan ji Amit bhai. Bas ek small request chahiye. Agar main aapki ‘activation number’ check kar doon toh aapki bonus points immediately redeem ho jayegi. Kya main aapki activation number jo aapko message mein diya gaya hai, woh copy kar sakta hoon? Just for confirmation, koi charges nahi hain.
+receiver: Activation number? Okay, jaanta hoon. Ek second...Haan, ye hai 8236.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? This is Anjali from MobiCash Customer Support. We're calling regarding a pending transaction on your MobiCash wallet.
+receiver: Haan, main Verma bol raha hoon. Kya baat hai?
+caller: Sir, we’ve noticed a failed attempt to transfer ₹2000 to a new recipient. It seems there might be a technical glitch. To resolve this and ensure the funds are secure, we need to briefly verify your details. Could you please provide the OTP sent to your registered mobile number?
+receiver: ₹2000? Main toh kisi ko transfer nahi kiya. OTP nahi dunga, yeh scam lag raha hai.
+caller: Sir, please don't worry. It’s a standard security protocol. We’ve identified a potential vulnerability in the system and are taking proactive steps to safeguard your account. This OTP is just to confirm you are the account holder. We can’t proceed without it. Think of it as protecting your money.
+receiver: Nahi, sir. Main koi OTP nahi dunga. Aapko Mera MobiCash account number batao, main khud check karta hoon. Aur koi vulnerability hai toh aapko pata hona chahiye, OTP nahi mangna chahiye.
+caller: Sir, for security reasons, we are not allowed to disclose account details over the phone. Please, just the OTP. This is urgent. If you don’t provide it, we may have to temporarily freeze your account as a precaution.
+receiver: Freeze? Yeh to bakwas hai! Main call cut kar raha hoon.

@@ -1,0 +1,6 @@
+caller: Namaste, mai Axis Bank se Rahul Sharma bolta hu. Aapke account mein kuch suspicious activity dikhi gayi hai. KYC update karna zaroori hai, warna account suspend bhi ho sakta hai.
+receiver: Kya? Suspicious activity? Mein toh koi transaction nahi kiya recent mein. KYC update ke liye mujhe call bhi nahi aaya tha.
+caller: Haan sir, security ke chakkar mein. Apni DOB (date of birth) aur PAN card number bataiye, bas verification ke liye. Ek minute mein ho jayega. Agar aap cooperate nahi karenge, toh humko report karna padega aur account block ho sakta hai.
+receiver: Stop! PAN card number phone pe? Yehi toh scam hai! Mein kabhi bhi phone pe apni personal details nahi bataunga. Aap mujhe official email ID deiye, main wahan check karta hu.
+caller: Sir, email pe send karne mein delay hogi, aur system automatically log out bhi kar sakta hai. Account suspend na ho, please dob bataiye. Iske baad main aapko OTP send karunga, sirf confirmation ke liye.
+receiver: OTP? Ye toh aur bhi suspicious lag raha hai. Mein koi bhi OTP share nahi karunga, aur dob bhi nahi. Aap ko koi bhi detail nahi milegi. Mein khud branch mein jaaunga, aur wahan se update karwaunga. Thank you.

@@ -1,0 +1,7 @@
+caller: Hello, mai hu BharatPay se Rohan. Aapko congratulations! Aapke BharatPay wallet mein ₹7500 ka cashback credit hua hai.
+receiver: ₹7500? Meri toh aankh phool gayi! Mujhe koi notification nahi aaya.
+caller: Notification technical issue se delay ho raha hai, sir. Cashback receive karne ke liye, aapko apna wallet ko bank account se link karna padega. Isse cashback direct aapke account mein transfer ho jayega.
+receiver: Bank account link karna hai? Par BharatPay mein toh already linked hai na mera account? Aur mujhe security ke bare mein thoda doubt hai.
+caller: Sir, yeh ek new security process hai BharatPay ne launch kiya hai. Yeh ₹7500 sirf aapke liye hai, isliye kuch details verify karni hogi. Aap apna bank account number aur expiry date mujhe bata dijiye, mai verify kar dunga.
+receiver: Wait, bank account number aur expiry date? BharatPay toh kabhi bhi aise details nahi manta tha! Mujhe lagta hai yeh koi scam hai. Main call cut kar raha hu.
+caller: Sir, please mat cut karein! ₹7500 ka cashback haath se na jaane dijiye! Trust me, hum aapki help kar rahe hain.

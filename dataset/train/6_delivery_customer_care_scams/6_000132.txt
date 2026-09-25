@@ -1,0 +1,8 @@
+caller: Aapse baat kar raha hoon [Invented Name, e.g., Ms. Verma], apke mobile ringtone ke order ka update hai. Hamara team apke order ko jaldi se process kar raha hai. Apko ek confirmation message pahle hi mil jaayega.
+receiver: Oh, great! Thank you so much for informing me. Main abhi bhi wait kar raha hu confirmation message ke liye. Aapko mera naam pata hai kya? Mujhe thoda assurance chahiye ki yeh mera hi order hai.
+caller: Ji, aapka naam [Invented Name, e.g., Mrs. Patel] hai aur aapne ek ringtone order ki hai. Kya yeh sahi hai?
+receiver: Haan, woh to sahi hai. Mrs. Patel hi hoon main. Dhanyavaad! Mujhe khushi hui.
+caller: Dhanyavaad, Mrs. Patel! Hamare team ne apke ringtone order ko process karne laga diya hai. Aapko kuch hi der mein confirmation message milega. Aapko payment karne mein koi problem a rahi hai kya? Hum aapko online payment ke liye ek secure link bhejna chahate hain.
+receiver: Nahin, payment mein koi problem nahin hai. Mein pehle hi online payment kar diya tha. Main sirf yeh dekhna chahta hu ki order properly booked hua hai kya. Confirmation message aa jaye toh sab chal jaayega. Aapne payment link bhejana good idea hai.
+caller: Theek hai, Mrs. Patel. Aapne payment pehle hi kar liya hai, yeh sunke acha laga. Hamare team ne confirmation ke liye process complete kar diya hai. Agar aapko confirmation message mil jaaye toh aapki order process hone wali hai. Aapki ringtone ki selection mein koi specific requirement hai? Jaise ki kisi favourite singer ka gaana ya movie ka title?
+receiver: Haan, mein ek famous Bollywood singer, [Invented Singer Name, e.g., Sonu Nigam] ka ek song select kiya tha. Kya aapko uski song name pata hai? Agar aapko mil jaaye toh bahut appreciated hogi. Dhanyavaad!

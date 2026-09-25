@@ -1,0 +1,7 @@
+caller: Hey sweetheart! Just checking in. How was your day? I was thinking about you all day, missing your smile. That concert I went to last night was crazy, wish you were there to experience it with me.
+receiver: Hi! My day was pretty hectic, work was crazy. A concert? Which one? I didn't know you liked that kind of music.
+caller: Oh, it was a rock band, 'The Roaring Suns'! You would’ve loved it.  I got a little carried away buying merch, haha.  Listen, something came up, a real emergency. My mom's been hospitalized, needs urgent surgery. The hospital wants a deposit and I'm a little short. Can you possibly help me out with a small amount, like 5000 rupees? I’ll pay you back as soon as I can.
+receiver: Oh no! That's terrible! I'm so sorry to hear about your mom. Of course, I want to help. What's the hospital's account number?
+caller: Thank you, you're an angel! The account details are: Account number: 1234567890, IFSC code: PUNB001234. I swear, I’ll be forever grateful and pay you back the minute things are settled. It would mean the world to me, and more importantly, it would save my mom. I'll send you a picture of the hospital bill soon.
+receiver: Okay, I’ve sent the money. Please keep me updated on your mom’s condition. I really hope she gets better soon.
+caller: You're a lifesaver, seriously! I can’t thank you enough. Quick question though - while I’m dealing with this, I'm feeling really stressed. Could you maybe, just to relax me, send

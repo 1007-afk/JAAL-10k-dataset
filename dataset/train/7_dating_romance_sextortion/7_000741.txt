@@ -1,0 +1,8 @@
+caller: Namaste Aunty, kaise hain aap? I've seen your profile on 'SinglesConnect' - you seem very lovely. Just ignore this if you’re not interested, beta.
+receiver: Hello. SinglesConnect? I don’t recall joining anything like that. Who is this?
+caller: Don't worry about joining, Aunty. It's a very popular site. Many single people are looking for connection. I'm Rahul, by the way. I work in IT, and I’m looking for someone special. I really liked your picture.
+receiver: Rahul, nice to meet you. But this is very strange. I’m not really looking for anything online. And I’m not an “aunty.”
+caller: My apologies! You look very vibrant for your age. Listen, I’m going to be visiting Delhi next month for a conference. I was wondering if maybe we could meet up for coffee then? It would be lovely to chat properly. I have a little urgent thing though… My mum’s medical bills are really high, and I’m struggling a bit. Just a small loan, maybe 15,000 rupees, would help a lot. I’ll pay you back as soon as I get paid.
+receiver: Fifteen thousand rupees? Rahul, this is all happening very fast. I barely know you. And I certainly don’t lend money to people I meet online.
+caller: Please Aunty, it would really mean the world to me. It’s just to ease my worries about my mother. And if things go well between us... well, that's a bonus. Think of it as an investment in our future happiness. I can send you proof of the hospital bills if you like.
+receiver: No, thank you. I think I need to go now. This conversation is making me uncomfortable. Goodbye.

@@ -1,0 +1,7 @@
+caller: Hello Madam, this is Akash from Fastway Courier. We have a package addressed to you, but there’s a small issue with the delivery.
+receiver: A package? I wasn't expecting anything. What's the issue?
+caller: It seems there was an attempted payment for shipping fees, but the transaction failed. We need to quickly verify your details to get it sorted. Can you please share the last four digits of your bank card? Just for security purposes.
+receiver: Hold on. Why do you need my bank details for a shipping issue? Shouldn’t I just be able to pay on delivery?
+caller: Madam, due to increased fraud attempts, we’ve implemented a new verification protocol. It’s a one-time thing, just to confirm you're the rightful recipient. To proceed quickly, could you also give me the OTP you just received on your phone?
+receiver: OTP? This is getting suspicious. I'm not giving you anything. I'll call Fastway directly to confirm.
+caller: Madam, if you don’t share the OTP now, the package will be returned to sender. This is a very urgent matter. Don't delay!

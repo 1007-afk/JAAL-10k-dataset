@@ -1,0 +1,16 @@
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hamare pass aapke liye ek amazing deal hai! Aapko mil sakta hai ek free smartwatch, saath mein 30% tak discount line rental par, aur 200 local calls aur 50 SMS! Kaise lagta hai?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achha lag raha hai. Smartwatch free mein, line rental par discount…yeh sab kahan se milega?
+caller: Ji ji, yeh hamare special campaign ke zariye milega. Agar aapka broadband connection slow chal raha hai, toh yeh offer aapke liye bahut fayda deta hai. Sirf ek small process follow karne honge. Kya aap is deal ke bare mein jaankari lena chahte hain?
+receiver: Haan, bilkul jaankari chahunga. Bataiye fir kya karna hoga?
+caller: Theek hai! Iske liye, hamein aapke naam aur broadband account number ko confirm karna hoga. Kya aap woh details ready hain?
+receiver: Haan, mera naam Deepak Kumar hai, aur mera broadband account number hai 8765432109. Account number bataya, ab eligibility check ho gaya?
+caller: Dhanyavaad Deepak ji! Aapki eligibility check ho gayi hai aur aap is deal ke liye totally eligible hain. Abhi humein sirf aapke account ka verification karna hai. Kya aapke paas internet connection ka password bataane ke liye ready hain?
+receiver: Haan, bataa do.
+caller: Namaste! Aapko pata hai ki aap ConnectPlus se baat kar rahe hain? Hamare pass aapke liye ek super offer hai! Aapko mil sakta hai ek free wireless earbuds, saath mein 25% tak discount line rental par, aur 150 local calls aur 75 texts! Yeh sunne mein kitna interesting lagta hai?
+receiver: Namaste! Haan, main sun raha hoon. Earbuds free mein? Line rental par discount bhi? Yeh sab thoda khubsurat lag raha hai!
+caller: Haan ji, bilkul! Yeh sab aapko hamare exclusive scheme ke zariye milega. Agar aapka mobile data usage bahut zyada hai, toh yeh offer aapke liye bahut beneficial hoga. Sirf kuch simple steps follow karne honge. Kya aap is offer ke bare mein aur jaankari lena chahte hain?
+receiver: Haan ji, bilkul jaankari chahunga. Bataiye fir kya karna hoga?
+caller: Great! To get started, we just need to confirm a few details. Can you please tell me your name and your current mobile number? This will help us check your eligibility for the offer.
+receiver: Haan ji, mera naam Priya Singh hai, aur mera current mobile number hai 9212345678. Bataiye, eligibility check ho gayi?
+caller: Shukriya Priya ji! Aapki eligibility check ho gayi hai aur aap is offer ke liye bilkul eligible hain. Abhi humein bas aapke account ka kuch verification karna hoga. Kya aapke paas aapka SIM card abhi available hai?
+receiver: Haan ji, SIM card mere paas hi hai. Bataiye kya verify karna hai?

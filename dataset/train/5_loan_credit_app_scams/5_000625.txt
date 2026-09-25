@@ -1,0 +1,9 @@
+caller: Namaste! I’m calling from QuickCash Solutions. We’ve noticed you recently applied for a loan online. Just confirming your number is 9818712345?
+receiver: Haan, woh mera number hai. Main toh kuch loan application nahi kiya tha.
+caller: Accha? Ho sakta hai aapko yaad nahi. Anyway, we’ve pre-approved you for a loan up to ₹75,000. Very simple process. Just need to verify a few details. Firstly, your PAN card number, please?
+receiver: PAN card number? Kaise? Aur yeh offer kitna secure hai? Main online personal details share karne se thoda hesitant hoon.
+caller: Bilkul safe hai sir! We are fully RBI registered, with license number 23-4567.  This is just standard verification procedure. Otherwise, we cannot process the loan. Just share your PAN, and we’ll show you the loan agreement. Agar details provide nahi karenge, toh offer invalid ho jayega.
+receiver: Okay, I'll give you the last four digits, but not the full number. 1234.
+caller: Excellent! Thank you. Now, as part of our security protocol and to prevent misuse of your account, we need you to send ₹2,500 as a processing fee to this UPI ID: quickcash.solutions@axis. Just a one-time fee.
+receiver: ₹2,500? Loan milne se pehle payment karna padega?
+caller: Ji haan, sir. Without this processing fee, we cannot proceed with the loan. It’s a mandatory requirement. This is to verify your seriousness and prevent fraudulent applications. If you don't pay, we'll have to cancel your loan request.

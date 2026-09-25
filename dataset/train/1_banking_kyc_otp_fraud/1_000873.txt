@@ -1,0 +1,7 @@
+caller: Namaste Madam, mai ICICI bank se Rohan bol raha hoon. Aapke account mein aaj ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, humein aapke account details verify karne hain.
+receiver: ICICI bank? Kya transaction hua? Mujhe koi message nahi aaya. Aur aapne mujhe phone kyon kiya?
+caller: Madam, yeh attempt international number se kiya gaya tha. Aapko message nahi aaya kyunki humein fraud ko prevent karna hai. Aapka naam Sunita Verma hai, correct? Aur last 4 digits of your Aadhaar number bataiye, please.
+receiver: Sunita Verma toh main hoon, lekin Aadhaar number phone par bataungi? Yeh theek nahi lag raha hai. Bank kabhi Aadhaar number phone se demand karta hai?
+caller: Madam, humein maaf karein, lekin yeh ek urgent process hai. Agar aap cooperative nahi karein, toh aapke account par restrictions lag sakte hain. Yeh aapki security ke liye hi hai.  Bas last 4 digits bataiye, please.  Aapko kuch pareshaani nahi hogi.
+receiver: Restrictions? Account freeze ho jayega? Sir, main toh confused hoon. Main branch mein jaakar baat karti hoon. Mujhe phone par kuch bhi bataane mein confidence nahi ho rahi.
+caller: Madam, branch mein line bahut lambi hogi aur time waste hoga.  Iske baad aapko OTP bhi enter karna padega, verification ke liye. Just give me the last 4 digits now.

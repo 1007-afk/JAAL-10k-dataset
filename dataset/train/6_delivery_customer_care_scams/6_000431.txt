@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We’re calling from Bluestar Logistics regarding a parcel addressed to you. There’s been an unusual hold-up at our Jaipur sorting facility.
+receiver: Oh, really? What’s the problem? I was expecting a delivery today.
+caller: Yes sir. Apparently, there's a customs verification needed and a small outstanding charge of ₹750 is showing. To release the parcel and get it dispatched, we need you to confirm the payment.
+receiver: ₹750? That seems a bit high. What’s the reference number for the parcel? And why didn't I get an email about this?
+caller: The reference number is BLS784291. Emails sometimes get delayed, sir. To avoid further delays and potential damage to the parcel, please make the payment through the secure link I'll send you. It's very important to do this quickly.
+receiver: A link? I'm a bit wary of clicking on links. Can you tell me which company is sending the parcel? Is it actually from the seller, or is Bluestar handling it directly?
+caller: Sir, Bluestar Logistics is the official delivery partner. Don't worry, it's a completely secure payment gateway. We just want to ensure your parcel reaches you safely. We'll be cancelling the parcel if payment isn’t made within the next 15 minutes.

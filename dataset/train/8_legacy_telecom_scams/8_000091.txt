@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? I’m calling regarding a special offer, you’ve been chosen to receive a fantastic reward, but we need to quickly verify some information before proceeding. Let’s talk about the latest Bollywood blockbuster, ‘Dil Dhadakne Do’ released in 2015. Which song did they play repeatedly during the wedding scene? Was it A - 'Tere Bina', B - 'Kar Gayi Chup’, or C - ‘Agar Tum Saath Ho’? Just tell me A, B, or C.
+receiver: Ji, sunaa de raha hu, clear hai. Kaise bol rahe ho aapki baat? Dil dhadakne do ka question?  ‘Tere Bina’ tha, option A.
+caller: Wonderful! Absolutely correct, ‘Tere Bina’ was playing, option A.  Fantastic memory! Now, to claim your reward, I simply require a couple of confirmations. Could you provide your first and last name, please?
+receiver: Ji, Tere Bina hi tha. Aur meri naam hai Rohan Verma. Ab prize ke liye kya batawana padega?
+caller: Excellent, Rohan! Thank you for confirming. To ensure smooth delivery of your prize, I need to verify your postal code. Can you give me your area code, please?
+receiver: Postal code? Okay. Mera area code hai 98765.  Aapko yeh all details prize ke liye chahiye, na?
+caller: Yes, 98765. Exactly, Rohan, this information is crucial for prize fulfillment. And there’s a small administrative charge, only ₹350, which you’ll need to pay online immediately to secure your reward. Are you ready to proceed?
+receiver: ₹350? Seriously?  It sounded like a free prize earlier. This seems like a total scam! I don’t want to give any money.

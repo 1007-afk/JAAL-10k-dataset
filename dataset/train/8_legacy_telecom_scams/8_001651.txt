@@ -1,0 +1,11 @@
+caller: Namaste! Main Sanjay hu, Bharat Telecom se call kar raha hoon. Hum logon ne ek special offer launch kiya hai, jahaan hum eligible users ko free internet data de rahe hain. Kya aapka Bharat Telecom mein mobile number register hai?
+receiver: Hello Sanjay, yes, I have a Bharat Telecom number. But I thought those offers were already over.
+caller: Haan, woh offer poora ho gaya tha, lekin humne ek new batch launch kiya hai. Agar aapko eligible hai, toh humein sirf aapki mobile number aur OTP chahiye hongi verification ke liye. OTP aapko SMS se milega.
+receiver: Okay, fine. I’ll wait for the SMS. What’s the OTP?
+caller: OTP nahi chahiye, sir. Verification process automatic hai. Aapko bas ek secure link bhej rahe hain, aap uss link par click karke apne number ko verify kar sakte hain. Yeh aapke account ko update karega aur free data immediately apply ho jayega. Link aapko abhi receive hojayega.
+receiver: A secure link? That sounds a bit suspicious.
+caller: Please maaf karen, sir. Yeh Bharat Telecom ka official program hai. Hum logo ne security measures lagaaye hain, taki koi fraud na kare. Aapka trust important hai. Aapko bas link click karna hai.
+receiver: Okay, I’ll try the link, but I’m still a little cautious.
+caller: Koi baat nahi, sir. Agar koi sawal ho toh mujhe call back kar sakte hain. Mein aapki madad karenge.
+receiver: Okay, thank you for the information, Sanjay.
+caller: Aapka mahol samjho, sir. Jai Hind!

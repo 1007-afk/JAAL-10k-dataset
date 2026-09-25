@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Rajesh Verma? My name is Rohan from SecurePay Solutions. We've detected some unusual activity on your PayTM wallet. It appears someone attempted to make a transaction from your account.
+receiver: Haanji, main Rajesh Verma hi hoon. Unusual activity? Transaction attempt? Kya hua exactly? I didn’t do any transactions.
+caller: Ji Mr. Verma, our system flagged a suspicious login attempt from a foreign IP address. To prevent any further unauthorized access and protect your funds, we need to quickly verify your identity. Can you please provide the last four digits of your Aadhaar card for verification?
+receiver: Aadhaar card? Why do you need my Aadhaar card? SecurePay Solutions toh PayTM ka naam hai. Why are you asking for this? This sounds fishy.
+caller: Sir, it's a standard security protocol to confirm your identity.  We understand your concern, but we must ensure the safety of your wallet.  Failure to verify within the next 5 minutes will result in temporary suspension of your account for security reasons. Just the last four digits, sir.
+receiver:  Five minutes? Suspension? Okay, wait a minute. Let me just quickly check the PayTM app myself... I’ll call you back.

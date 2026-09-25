@@ -1,0 +1,7 @@
+caller: Hello sir, is this Mr. Sharma? I’m calling from Google Pay support. We’ve detected some unusual activity on your account and need to verify it to prevent fraudulent transactions.
+receiver: Unusual activity? What kind of activity? Everything seems fine from my end.
+caller: Yes sir, we noticed a few small payments being made to different UPI IDs. To secure your account, we need you to confirm a small processing fee of ₹250. This is a one-time fee to whitelist your account.
+receiver: ₹250? For security? Why can’t I just change my password or something? Seems a bit fishy.
+caller: Sir, this is a standard security protocol. The fee goes directly to our security department. To proceed, just send ₹250 to the UPI ID I’ll provide. Once we receive confirmation, your account will be fully secured. It's very important to do this quickly.
+receiver: Okay, let me see… what’s the UPI ID? And are you absolutely sure this is Google Pay calling? I don’t want to send money to the wrong person.
+caller: Sure sir, your safety is our priority. The UPI ID is paytm.secure.verify@axis. Please send the ₹250 right away, sir. Don't worry, it’s completely safe and we’ll have your account secured in minutes.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? I am calling from QuickCash Loans. We've reviewed your recent application for a personal loan of 2 lakh rupees. Just a quick verification process before we disburse.
+receiver: Yes, speaking. QuickCash Loans? Okay.
+caller: Wonderful! Now, for security purposes, could you quickly share the last four digits of your debit card number with me? It’s just a standard procedure, ma'am.
+receiver: Wait, what? Why do you need my card details? I thought this was just a verification call.
+caller: It is, ma'am, but we need to confirm the account associated with your application. Please do not worry, it’s completely secure.  Just the last four digits. Otherwise, we will have to reject the application.
+receiver: I'm not comfortable sharing that. Can’t you verify it some other way?
+caller: Ma'am, regulations require it. If you refuse to cooperate, we will have to cancel the loan and… well, we've been receiving reports of people taking out loans with other companies and defaulting. We need to ensure you’re a genuine applicant.  We have your address and contact details, and if we suspect fraud... things can get complicated.
+receiver: What do you mean by complicated?
+caller: Ma'am, we have ways of finding out information.  Just those four digits, please. Or, if you prefer, we can proceed with a small processing fee of 5000 rupees upfront. That assures us of your sincerity.

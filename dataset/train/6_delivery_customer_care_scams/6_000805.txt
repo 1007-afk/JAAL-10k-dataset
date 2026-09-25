@@ -1,0 +1,8 @@
+caller: Hello, good afternoon! This is Rohit from Swiggy Customer Care. We've noticed an unusual transaction on your account - a large order placed to an unknown address.
+receiver: Swiggy? Really? That’s odd. I haven’t placed any order like that. What’s the amount?
+caller: Yes sir, the amount is ₹3850. To secure your account and prevent further fraudulent activity, we need to verify your identity. Could you please share the OTP you just received on your registered mobile number?
+receiver: An OTP? Wait a minute... why do I need to give you an OTP just to confirm a fraudulent order? Shouldn't I be calling Swiggy myself?
+caller: Sir, for security reasons, we can't directly ask for personal information over the phone. Sharing the OTP is the fastest way to block the unauthorized transaction and protect your account. It’s a standard security protocol. Just the OTP, please.
+receiver: Okay, okay… I’m a little worried now. Let me just quickly check my Swiggy app… Hold on a sec.
+caller: Yes sir, please do. Time is of the essence, sir, to prevent further charges. Just the OTP will do.
+receiver: You know what? Forget it. I’m calling Swiggy customer support directly from the app. I don’t feel comfortable sharing an OTP with someone who called me out of the blue.

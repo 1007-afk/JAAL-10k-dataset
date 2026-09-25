@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit calling from QuickShip Logistics. We have a notification regarding a package addressed to you. It seems there's an issue with the delivery address and a small customs clearance fee is pending.
+receiver: Customs clearance fee? I didn't order anything expensive. What's the amount?
+caller: Sir, it’s just ₹750 to verify the address and release the package. We need to ensure it reaches you safely. We can process it through a secure OTP verification.
+receiver: OTP? Why do you need an OTP? Shouldn't I be getting this information from the sender?
+caller: Sir, this is standard procedure. The OTP confirms you’re the rightful recipient. We’re trying to prevent fraud. Otherwise, the package will be returned to the sender. Just one moment while I send you the OTP to your registered mobile number.
+receiver: Wait a minute, I'm not comfortable giving out an OTP to someone I don’t know. Can I call back the QuickShip customer service number to verify?
+caller: Sir, unfortunately, our customer service lines are experiencing high call volumes. This OTP verification is the quickest way to resolve this and ensure your package isn't delayed further. Just enter the OTP and we can finalize the release. Aapki convenience ke liye, sir.

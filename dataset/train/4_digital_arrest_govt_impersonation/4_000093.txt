@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? My name is Inspector Verma, calling from the Delhi Cyber Crime Investigation Cell. We've detected suspicious activity linked to your Airtel mobile number.
+receiver: Haan, bolie. What's the matter?
+caller: We’ve traced several large cryptocurrency transactions originating from an IP address associated with your device, potentially linked to a money laundering scheme involving online gambling platforms. This is a very serious matter, Mrs. Sharma.
+receiver: Cryptocurrency? Gambling? I don't do any of that! I barely know what cryptocurrency even is. This must be a mistake.
+caller: It's crucial you cooperate. To verify your identity and prevent further complications, we require a screenshot of your bank statements and a copy of your Aadhaar card. We need to cross-reference this information with our records. It will only take a few minutes, Mrs. Sharma. Do not delay, as this could escalate quickly.
+receiver: Wait a minute. You want my Aadhaar card? Why? A legitimate police officer wouldn't ask for that over the phone. And what about my bank details? This sounds like a scam!
+caller: Mrs. Sharma, please understand, time is of the essence. We have a limited window to apprehend these criminals. Refusing to provide this information will be considered obstruction of a police investigation, and we may be forced to issue a legal notice. It's a simple formality to ensure your safety and security.
+receiver: Obstruction? Legal notice? I’m reporting this number to Airtel and the Cyber Crime helpline. You are a fraud. I’m hanging up.
+caller: Mrs. Sharma, you're making a grave error! These criminals are sophisticated; they'll target your family next. Provide the screenshots now, and we can protect you. The deadline is approaching fast. Give us the data or face the consequences.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Deepa Verma, State Bank of India se bol rahi hoon. Aapke account mein ek suspicious transaction ka attempt kiya gaya hai. ₹15,000 ka transfer try kiya gaya tha, lekin security protocols ne rok diya.
+receiver: Oh! ₹15,000? Kaun try kar raha tha? Aur main kya karun?
+caller: Ji, humein bas aapke account ko secure karna hai. Isliye, humein aapke account details verify karne ke liye kuch information chahiye. Pehle, please bataiye aapka Aadhaar card number kya hai? Yeh sirf aapke account ki security ke liye hai.
+receiver: Aadhaar number? Yeh zyada secure nahi lag raha. SBI toh SMS ya OTP se verify karta hai, na? Main thoda doubtfeel kar raha hoon.
+caller: Sirf ek minute, trust please. Yeh emergency hai. Agar aap immediately details nahi denge, toh aapka account suspend ho sakta hai. Humara system automatically aapke account ko block kar dega, aur aapka paisa bhi risk mein aa jayega. Aapko ₹15,000 ka nuksan ho sakta hai.
+receiver: Theek hai, theek hai. Par mujhe yeh bhi bataiye, aap meri details kaise verify karenge? Koi link ya website hai jahan main check kar sakta hoon?
+caller: Aapko koi link ya website check karne ki zaroorat nahi hai. Main bank representative hoon, aur mere paas aapki saari information hai. Bas aapka Aadhaar number aur ek OTP, jo hum abhi aapke number par bhejenge.
+receiver: OTP? Okay, wait karo, main check karta hoon.

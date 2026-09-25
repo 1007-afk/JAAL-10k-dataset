@@ -1,0 +1,8 @@
+caller: Namaste, speaking with Mrs. Sharma? This is Inspector Vijay from the Delhi Customs Department. We’ve intercepted a suspicious package addressed to your name containing what appears to be contraband items.
+receiver: Customs Department? Kya baat hai? What package? Main toh kuch order nahi kiya tha.
+caller: Ji, Mrs. Sharma. Our preliminary investigation suggests the package contains illegal narcotics. You'll need to cooperate with us to clear this matter and prevent further legal complications. We need to verify your identity and financial details. Can you please confirm your bank account details?
+receiver: Illegal narcotics? Bank details? Yeh kya keh rahe hain aap log? Why would I be involved in something like this? I want to speak to your supervisor.
+caller: Mrs. Sharma, we understand your shock, but delaying the process will only complicate things. To ensure your safety and expedite the investigation, we require you to transfer ₹15,000 to a designated account to cover the handling and verification fees. We'll keep you on this call throughout the process to prevent any interference.
+receiver: ₹15,000? You’re asking me to pay to prove I’m innocent? This is ridiculous! I’m reporting this to the police. Give me the account number, I’ll do my own verification.
+caller: Mrs. Sharma, please don’t do anything rash. The account number is 1234567890. We need to act quickly. We are also going to need you to quickly install Anydesk on your phone so we can walk you through verifying your documents. It's a simple process.
+receiver: Anydesk? Absolutely not! You are trying to scam me. I’m hanging up now.

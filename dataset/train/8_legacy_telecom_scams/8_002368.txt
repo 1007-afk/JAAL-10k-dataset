@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio customer support se baat kar raha hoon. Aapka mobile number 8765432109, 30 dinon mein expire hone वाला है. Kya aap isko renew karna chahte hain?
+receiver: Oh my god, Jio? Mein to think karta tha yeh mera Airtel number hai. Haan, mujhe renew karna hai. Mera number 8765432109 hai. Bataiye, kya karna padta hai?
+caller: Ji sir, absolutely. Aapka number renew ho jayega. Par, sabse pehle, humare system mein aapki profile ko check karna hoga. Kindly provide me your date of birth, sir.
+receiver: My birthday is 2nd January 1988. Please tell me what else I need to share.
+caller: Wonderful! 2nd January 1988. Thank you. And sir, for security purposes, can you tell me the last four digits of your PAN card number?
+receiver: Yes, of course. The last four digits of my PAN card are… 9123. What’s next?
+caller: Sir, your profile has been successfully verified. Now you will receive an OTP on your registered mobile number. When that OTP arrives, please let me know so I can renew your number. Also, under no circumstances should you share any passwords or PINs with anyone, understood?
+receiver: Okay, I understand. Waiting for the OTP now. As soon as it comes, I'll immediately inform you. Is there any other step involved or just the OTP?

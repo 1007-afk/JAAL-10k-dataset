@@ -1,0 +1,8 @@
+caller: Namaste! Sir/Madam, speaking with Akash from QuickCash Loans. We’ve noticed you recently applied for a personal loan. Just a quick verification to process it faster. Can you confirm your full name and date of birth, please?
+receiver: Hello, yes. My name is Anita Sharma, and my date of birth is 15th August 1988.
+caller: Excellent, Mrs. Sharma! Everything seems to be in order. Now, to activate your loan of ₹50,000, we need to verify your bank account details. We’ll send a one-time password (OTP) to your registered mobile number. Just share it with me.
+receiver: Okay, wait… I just received an OTP. It's 876543.
+caller: Perfect! Thank you, Mrs. Sharma. Loan is almost processed. As per our policy, a small security deposit of ₹2,500 is required to prevent fraudulent activity. This will be adjusted from your first loan installment. You can transfer it to this UPI ID: quickcashloans.upi.
+receiver: ₹2,500 upfront? I don’t remember seeing anything about a security deposit in the application. That seems odd.
+caller: Madam, it's a standard procedure! Without it, your loan will be held. Many clients have benefited from this. Consider it an investment in your financial future. Please do it now otherwise i’ll have to cancel this loan process.
+caller: Also, for additional security, please share a picture of your Aadhar card. It's just to cross-verify the details.

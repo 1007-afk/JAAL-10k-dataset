@@ -1,0 +1,8 @@
+caller: Namaste, speaking with Mrs. Kapoor? This is Inspector Sharma calling from the Delhi Customs Department. We’ve intercepted a suspicious parcel linked to your address containing items that could be considered restricted goods.
+receiver: Hello? Haan, main Mrs. Kapoor hi hoon. Restricted goods? Kya parcel? Mujhe toh koi parcel expectation nahi tha.
+caller: Ji, Mrs. Kapoor. According to our records, this parcel originated from overseas and contains electronic devices potentially used in illegal gambling operations. We need to verify your involvement before releasing the parcel or initiating further legal action. To proceed, we need you to deposit ₹15,000 as a clearance fee.
+receiver: Illegal gambling? ₹15,000? Yeh kya bakwas hai? Main toh kabhi gambling nahi karti. Aur clearance fee? Koi receipt ya tracking number hai?
+caller: Ji, Mrs. Kapoor, we understand your surprise.  The parcel tracking number is DX1234567. The ₹15,000 is a standard security deposit, refundable if you're cleared.  To expedite the process, we're asking you to make the payment to this UPI ID: customs.refund@sbi.  We are on a video call to ensure transparency and prevent misunderstandings.
+receiver: Video call? UPI ID? Dekhiye, yeh bohot suspicious lag raha hai. Main police station jaungi agar aap log fake number use kar rahe hain. Aapka naam aur badge number batao!
+caller: Ji, Mrs. Kapoor, we are authorized to maintain operational security. To further prove our authenticity, we require you to download the ‘SecureVerify’ app on your phone. It will allow us to securely verify your documents and clear the parcel swiftly. Please download it now, and follow the instructions.
+receiver: SecureVerify app? Nahin, main kuch bhi download nahi karungi. Yeh toh chook

@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me clearly? Aapko meri awaaz jaanki hai? Dekhiye, main aapko bata raha tha ki aap hamare premium customer list mein se hain, aur isliye aapko Diwali ka special offer hisaab mein mila raha hai - 25 GB data free mein! Bas aapko 'ACCEPT' message reply mein karna hai.  Aapko accept karna hai kya?
+receiver: Oh, hello! Haan, clear hai, meri awaaz sun saka. 25 GB data free mein? Itni achi baat hai! ‘ACCEPT’ likhne wala hoon, sahi?
+caller: Exactly! That’s right, sir/madam. Aur agar aap aaj hi accept karein, toh aapko extra 5 GB data bhi milega!  Aapki mobile number kaise hai?  Jo aapne registration ke time pe enter ki thi, woh same number hai na?  Isliye main check kar sakta hun ki aapka entry record correct hai.
+receiver: Haan, yeh hai [Invented Name, e.g., Mrs. Verma]'s number. Registration ke time pe woh same tha.  Extra 5 GB? Okay, that’s tempting.
+caller: Shurvi, madam!  Aapka entry confirm ho gaya hai.  Aapke paas abhi sirf 1 entry bachi hai, isliye jaldi se decide kar lijiye.  Kya aap apne beta ya kisi doston ko bhi is offer ke bare mein bataana chahenge? Unhe bhi benefit milega!
+receiver: Oh, really? Just one entry left? Hmm, pata chalunga. Bata sakta hoon, par abhi ghar pe kaam hai. Let me think about it and get back to you. Thanks!
+caller: Arre, ok ho madam! Main samajh raha hun.  Just a reminder, madam, aapke paas abhi sirf 0 entries bache hain for this Diwali data offer!  Agar aapko kuch bhi confuse ho ya koi sawaal ho, toh bilkul puch sakte hain.
+receiver: Ok, zero entries. Theek hai. Thank you for the update. No questions now.

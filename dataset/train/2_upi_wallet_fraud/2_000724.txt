@@ -1,0 +1,8 @@
+caller: Namaste, main Flipkart Customer Care se Rohit bol raha hoon. Aapke Flipkart account mein ek pending transaction hai jise complete karne ki zaroorat hai.
+receiver: Flipkart se? Koi transaction pending hai? Mujhe toh koi notification nahi aaya. Transaction kitna hai aur kya hai?
+caller: Sir, transaction ₹299 ka hai. Ek cashback offer ke part mein, yeh amount automatically debit ho gaya hai processing fee ke taur se. Aapko yeh confirm karna hai taaki offer activate ho jaaye.
+receiver: ₹299 processing fee? Flipkart toh free cashback offer deta hai. Yeh to kuch ghalat lag raha hai.
+caller: Sir, Covid ke chalne se rules badal gaye hain. Aapko ek OTP share karna hoga taaki hum verify kar sakein. Aapka phone number aur naam bataiye, main OTP send karwaata hoon.
+receiver: Phone number toh public ho sakta hai, OTP kabhi nahi bataunga. Mein Flipkart app mein check karunga. Aapko meri koi bhi personal information nahi milegi.
+caller: Sir, OTP app se verify nahi ho payega. Yeh security process hai. Jaldi kijiye, offer abhi khatam hone wala hai. ₹299 ka processing fee de dijiye aur offer secure kar lijiye.
+receiver: Bilkul nahi. Main abhi Flipkart ke official helpline number pe call karta hoon aur complaint karta hoon.

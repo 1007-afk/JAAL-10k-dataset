@@ -1,0 +1,8 @@
+caller: Hello, good morning! This is Priya calling from Airtel Customer Care. We've noticed unusual activity on your Airtel account and a potential security breach.
+receiver: Oh really? What kind of activity? I haven't noticed anything.
+caller: Yes, sir. It appears someone tried to access your account from an unknown device. To secure your account and prevent further unauthorized access, we need to verify a one-time password (OTP) we just sent to your registered mobile number.
+receiver: Okay, let me check. Just a moment... Okay, I received an OTP. But why do you need it over the phone? Shouldn’t I just log into my Airtel app?
+caller: Sir, for security reasons, we cannot ask for OTPs through the app. This is a direct security protocol. Please share the OTP so we can lock the account temporarily and run a security scan. Also, for complete verification, could you confirm the last four digits of your PAN card?
+receiver: Hold on a second. This sounds a bit fishy. Why do you need my PAN card details for a security check? I’m not comfortable sharing that information over the phone.
+caller: Sir, it’s standard procedure to prevent fraudulent activities. Without this verification, we can’t guarantee the safety of your account. If you don’t cooperate, we may have to suspend your account as a precautionary measure. Please provide the OTP and PAN details, it’s for your own benefit.
+receiver: No, I think I'll call Airtel directly from the official number on my bill. Thank you, goodbye.

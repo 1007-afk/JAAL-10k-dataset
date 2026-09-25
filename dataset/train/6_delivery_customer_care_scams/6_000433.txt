@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? This is Rohit calling from BlueSpark Courier Services. We have a package for you, but there's a slight issue with the payment details. Could you please confirm your address for verification?
+receiver: Yes, speaking. A package? I wasn't expecting anything. What's the issue with the payment? I’m a bit confused.
+caller: Yes, ma'am. Our system shows a discrepancy in the delivery address linked to your account. To avoid a return to sender, we need to quickly verify the payment. We require a one-time password (OTP) sent to your registered mobile number, just to confirm it’s you.
+receiver: An OTP? For delivery? That sounds strange. I’ve never had to do that before. Are you sure you're a courier service? Could you give me a reference number or a contact number for BlueSpark?
+caller: Absolutely, ma'am. This is standard protocol. For security purposes, we need the OTP first. The reference number is BW47892. You can also verify on our website, www.bluesparkcouriers.co.in. The OTP will allow us to proceed with the delivery immediately. Please share it with me so we can resolve this.
+receiver: Okay, let me just quickly check that website... Wait a minute. This website looks fake. The URL is slightly different. I think this is a scam. I’m not giving you any OTP.
+caller: Ma'am, please don't be alarmed. This is a genuine verification process. Our systems are being updated, and this is a temporary security measure. If you don't provide the OTP now, the package will be returned. We can't guarantee its arrival then.

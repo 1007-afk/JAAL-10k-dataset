@@ -1,0 +1,11 @@
+caller: Namaste! Mai Rahul se baat kar raha hoon, FastCash Solutions se. Aapne hamare app par loan ke liye apply kiya tha, Smt. Anjali Devi? Hum aapke application ko process kar rahe hain.
+receiver: Haan, bilkul. Main Anjali Devi hoon. Loan apply kiya tha, lekin mujhe koi confirmation nahi mila.
+caller: Ji, confirmation ho gaya hai. Aapka loan approve ho gaya hai, ₹75,000 tak ka. Lekin processing fee ke liye ₹5000 deposite karne honge. Account details mai aapko message kar diya hai.
+receiver: ₹5000? Processing fee? Apply karne ke time toh kuch bhi nahi bola gaya tha.
+caller: Smt. Devi, rules change hota hain. Yeh fee verification ke liye hai. Agar aap deposit nahi karte, toh application reject ho jayega. Aur aapka credit score bhi affect hoga. Dekhiye, agar aapka score affect hua, toh aapko loan kabhi nahi milega.
+receiver: Credit score? Main soch rahi hoon… Koi helpline number batao, mai check kar lungi.
+caller: Helpline number se baat karne se fayda nahi hai. Woh bhi humare log hi hain. Smt. Devi, aapko haste haste paisa milna chahiye, aur aap pareshan ho rahi hain. Dekhiye, mai aapko bataata hoon, agar aap abhi deposit karte hain, toh mai aapke account mein ₹1000 extra credit kar dunga. Isse aap dobara processing fee bharne se bachte hain.
+receiver: ₹1000 extra?
+caller: Haan, Smt. Devi. Special offer sirf aapke liye. Jaldi karo, offer limited time ke liye hai.
+receiver: Theek hai, mai dekh lungi.
+caller: Dekhiye, Smt.

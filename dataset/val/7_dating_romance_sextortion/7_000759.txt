@@ -1,0 +1,7 @@
+caller: Hello! I saw your profile on SparkMeet and I really liked it. You seem like a very interesting person. How's your day going so far?
+receiver: Hi! Thank you! You too. My day's going pretty well, just relaxing at home. What about you?
+caller: That’s wonderful! I’m having a good day too. Listen, I was thinking, maybe we could chat more privately? I'm a little uncomfortable with all the public notifications on SparkMeet. Would you be okay with exchanging WhatsApp numbers?
+receiver: Sure, why not? It’s probably easier to talk that way. What's yours?
+caller: Great! Mine is +91 98765 43210. Just a heads up, I've been helping some friends with an important business deal and could really use a small favor in return. Nothing major, just a couple of thousand rupees to cover some initial costs. I can pay you back double as soon as things settle down.
+receiver: A couple of thousand rupees? For a business deal? That sounds a little strange, doesn't it? I barely know you.
+caller: I understand your hesitation, but trust me, this is a legitimate opportunity. My close friend’s project is going to be very successful, and I want to help them. Plus, I really enjoy talking to you and would like to continue getting to know you better. Think of it as an investment in our blossoming friendship. It’ll be worth it, I promise.

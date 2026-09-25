@@ -1,0 +1,8 @@
+caller: Namaste, sir! Flipkart se Rohit bol raha hoon. Aapko Diwali ke poore mahine ke liye ek special cashback offer mila hai – ₹5000 ka cashback sirf ₹5000 ke spend pe!
+receiver: Flipkart? Mujhe koi email ya message nahi aaya. ₹5000 ka cashback? ₹5000 spend karne ka kya fayda? Yeh fraud lag raha hai.
+caller: Sir, ye offer sirf select customers ke liye hai. Aapki lucky number chuni gayi hai. Cashback claim karne ke liye, sirf apna UPI ID de dijiye taaki cashback direct aapke wallet mein transfer ho jaye. Koi bhi personal information nahi mang rahe hain, sirf UPI ID.
+receiver: UPI ID? Sir, woh toh risky hai. Mein kabhi bhi apna UPI ID kisi ko nahi deta. Aapko kya guarantee hai ki yeh Flipkart hi se call hai?
+caller: Sir, hum aapko OTP send karenge verification ke liye. Phir cashback aapke wallet mein aa jayega. Tension mat leijiye, sir. Yeh Diwali ka special gift hai Flipkart se. OTP aane ke baad, woh OTP mujhe bata dijiye.
+receiver: Theek hai. OTP aaya hai - 487295. Ab kya karna hai?
+caller: Bahut achha, sir! Ab mujhe OTP bata dijiye taaki verification complete ho jaaye. Cashback ka ₹5000 aapke wallet mein transfer ho jayega, sir!
+receiver: Wait, OTP main hi bataun? This feels wrong now.

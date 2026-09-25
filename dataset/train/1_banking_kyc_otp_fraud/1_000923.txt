@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main State Bank of India se Neeraj Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye humara security department aapko call kar raha hai.
+receiver: Oh, really? Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, ek international transaction attempt kiya gaya tha, ₹12,000 ka.  Luckily, woh block ho gaya, par aapki security ke liye humara KYC update karna zaroori hai.
+receiver: KYC update? But I just did that a few months ago. And why do you need to update it now, especially with a transaction attempt?
+caller: Sir, rules change.  For your account's safety, we need to verify some details.  Can you please share the last four digits of your Aadhaar card and the OTP you will receive on your registered mobile number?  It's a very simple process.
+receiver: Wait a minute. Aadhaar number and OTP? That sounds a little risky. Can’t you just verify through the SBI app?
+caller: Sir, app mein yeh option available nahi hai.  This is a direct verification process from the security department.  Aapko ₹12,000 ka loss hone se bacha rahega.  Just give me the OTP, sir, please. Account suspend bhi ho sakta hai warna.
+receiver: Okay, hold on. I'm going to call SBI customer care directly to confirm this. I’ll call you back.

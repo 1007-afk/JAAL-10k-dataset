@@ -1,0 +1,8 @@
+caller: Namaste! Hello? Is this Ms. Sharma? This is Priya from Global Rewards, and we have incredible news for you! You’ve been selected as a lucky winner! Congratulations, Ms. Sharma! You’ve won a brand new Samsung Galaxy S23! It's truly remarkable, isn't it?
+receiver: Namaste, Priya. Sunai mili. Global Rewards se? Samsung Galaxy jeeta hoon? Really? Thank you very much! What’s happening?
+caller: Yes, Ms. Sharma, really! Amazing news indeed! You are going to receive this Galaxy soon! But first, we need to complete a small verification step to ensure secure delivery. Are you available to chat briefly right now?
+receiver: Haan, Priya, main thik hoon. Bolo, kya karna hai? Is there any paperwork involved, or something else?
+caller: Wonderful, Ms. Sharma! So, for us to get your Galaxy delivered safely, we just require a quick confirmation of your details. This is a standard procedure, and it only involves providing a few basic information points to verify you are the rightful owner of this exciting prize. Could you tell me your full name and postal address, please?
+receiver: Haan, sure. Mera naam hai Vikram Sharma. Aur mera address hai… 45, Sunshine Terrace, Noida Sector 18.
+caller: Excellent, Vikram! Thank you. And could you provide your year of birth, please? Just for security purposes, to confirm that you’re the one holding the winning voucher.
+receiver: Mera pan ka din hai... 2nd January, 1988.  Anything else?

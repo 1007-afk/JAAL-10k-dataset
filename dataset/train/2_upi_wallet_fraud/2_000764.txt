@@ -1,0 +1,8 @@
+caller: Namaste! Madam, congratulations! You’ve won a ₹50,000 cashback prize from JioMart!
+receiver: JioMart? Mereko toh koi offer mila nahi tha. Cashback ka kya offer hai?
+caller: Haan ji, limited time offer hai. Verification ke liye kuch details chahiye. ₹2,500 processing fee deposit karni hogi, sir. Jab prize confirm ho jayega, fee vapas ho jayegi.
+receiver: ₹2,500? Processing fee? JioMart toh aise nahi karta. Aur phone pe kaise pata chala ki main jeeta hoon?
+caller: Ji, yeh direct offer hai, sirf select customers ke liye. Fee sirf tax purpose ke liye hai. Paytm ke through deposit kijiye. I’ll send you the UPI ID. Jaldi kijiye, otherwise offer expire ho jayega.
+receiver: Paytm? Mujhe koi doubt ho raha hai. Main verification ke liye kisi bhi number pe call nahi karunga. JioMart ka customer care number hai toh main uss pe call karta hoon.
+caller: Madam, time is running out. ₹50,000 ka cashback haath se chale jayega. Deposit kijiye jaldi!
+receiver: Theek hai, ek minute rukiye, mujhe check karta hoon.

@@ -1,0 +1,7 @@
+caller: Namaste! Main calling kar raha hoon Paytm Customer Care se. Aapke Paytm wallet mein ek suspicious transaction detect hua hai.
+receiver: Kya? Suspicious transaction? Kab hua? Mujhe toh koi message nahi aaya.
+caller: Ji, Gujarat se ₹2500 ka transaction hua hai. Ho sakta hai aapke phone mein koi virus ho, ya koi scammer ne access kar liya ho. Immediately aapko apna wallet secure karna hoga.
+receiver: ₹2500? Bilkul nahi! Mainne toh kabhi Gujarat mein transaction nahi kiya. Toh main kya karoon?
+caller: Aapko ek OTP verify karna hoga, aur phir apna PAN card number aur bank account details dena hoga, taaki hum issue solve kar sakein. Isliye aapko ₹100 recharge karne ka option milega.
+receiver: ₹100 recharge? PAN card number bhi dena hai? Yeh thoda se suspicious lag raha hai. Paytm Customer Care toh direct call karta hai, number toh check kar lo.
+caller: Dekhiye, security ke liye hum aise steps lete hain. ₹100 recharge karein aur aapka account secure ho jayega. Hurry up, time is running out!

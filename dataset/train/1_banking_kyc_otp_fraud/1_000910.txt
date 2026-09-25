@@ -1,0 +1,11 @@
+caller: Namaste, main State Bank of India se Rohan Sharma bol raha hoon. Aapke naam par ek account hai, hai na?
+receiver: Haan, State Bank mein mera account hai. Kya baat hai?
+caller: Sir, humein ek suspicious activity detect hui hai aapke account mein. Security ke liye, humein aapke KYC details update karne hain urgently. Warna account suspend bhi ho sakta hai.
+receiver: Account suspend? Par kyun? Main toh koi transaction nahi kiya recent mein.
+caller: Sir, system mein dikh raha hai ki ek OTP aapke phone par gaya tha, lekin confirm nahi hua. Aapko naya OTP check karna hoga aur kuch details confirm karni hongi, like OTP aur PAN card number.
+receiver: PAN card number bhi? Woh to confidential hai! Aur OTP to main check karta hoon. Thoda wait karo. (pause) Haan, OTP mila hai. Par PAN card number kyun chahiye?
+caller: Sir, PAN card number se hum verify kar sakte hain ki account aapka hi hai aur koi fraud activity nahi ho rahi hai. Yeh legal requirement hai. Please PAN number bataiye, sir. Account safe rakhne ke liye.
+receiver: Hmm... legal requirement... Chalo, theek hai. [Invented PAN Number].
+caller: Thank you, sir. Ab aapko ek verification transaction karna hoga - sirf ₹500 ka. Yeh sirf confirm karne ke liye hai.
+receiver: ₹500 ka transaction? Kahan karna hai? Kisi link par click karna hai kya?
+caller: Haan sir, ek link bhej raha hoon WhatsApp par. Vahan instructions hongi. Jaldi karo, sir, time limit hai.

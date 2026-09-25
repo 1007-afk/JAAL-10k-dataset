@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is calling from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your bank account, specifically involving undeclared foreign remittances.
+receiver: Kya? My bank account? What suspicious activity? I haven't received any money from abroad. Which branch are you calling from?
+caller: Sir, we're not disclosing the specific branch for security reasons. We’ve traced several unusual transactions involving cryptocurrency exchanges. This suggests potential involvement in money laundering. To clear this up, we need you to verify some details and transfer a small processing fee of ₹5,000 to secure your account.
+receiver: ₹5,000? For what? This sounds like a scam. Why would the DRI ask for money? I’ve never heard of this. Can you give me a reference number or a contact at the DRI headquarters?
+caller: Sir, delaying this will only complicate matters. We need to act swiftly to prevent further losses. The reference number is DRI-2024-07-17-42. Transfer the amount to this UPI ID: secure_payment786@hdfcbank. Once the payment is confirmed, we’ll provide you with a clearance certificate.
+receiver: Secure_payment786? Sir, that doesn’t sound right at all.  DRI doesn’t use UPI IDs. I’m reporting this to the cybercrime department immediately. Don't call me again.
+caller: Sir, time is running out. ₹5,000 now or face legal action!

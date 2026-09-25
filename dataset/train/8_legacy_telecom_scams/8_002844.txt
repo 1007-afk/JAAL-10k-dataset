@@ -1,0 +1,8 @@
+caller: Namaste, sir, thank you for your Melody Tunes Subscription, reference ID MR67. You’ll be paying INR 6 per month. You can cancel this anytime by dialing 8800123456.
+receiver: Hello there! Thank you for letting me know about the INR 6 monthly fee. Yes, I’ve noted down 8800123456 just in case I want to cancel later. That’s good to hear.
+caller: Haan sir, but listen carefully. This INR 6 per month will continue to get deducted until you explicitly cancel it yourself. So if you wish to stop the subscription, please call back 880012345655. Understood?
+receiver: Oh, so basically, my money will keep getting taken out until I actively cancel it? Right, right. If I do decide to cancel, I need to dial 880012345655. Perfectly clear now, thank you for being so specific.
+caller: Exactly! We just wanted to ensure you’re fully aware of all the details. No need to take any immediate action, unless you plan to cancel. Any further questions for me?
+receiver: No, not at all. You’ve explained everything perfectly. Many thanks!
+caller: Wonderful! Glad to hear that everything is clear. Remember this number for any future queries, 880012345655. Have a fantastic day!
+receiver: Thank you so much! You’ve been really helpful and informative. I'll certainly save that number. You too, enjoy your day!

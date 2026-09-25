@@ -1,0 +1,19 @@
+caller: Namaste! Kaise haal hai? Main Bharat Vikas Nigam se baat kar raha hu. Aapko ek badi badi sansadanchi yojna mein shamil hone ka intzaam kiya hai. Aapko ₹50,000 ka dividend milega ya ₹10,000 ka smartphone mila sakta hai! Kya aap excited hain?
+receiver: Namaste ji! Achcha haal hai. ₹50,000 ka dividend ya smartphone? Wah wah! Ye kaisi khabar hai?
+caller: Ji haan! Aapko yahaan par register karna hoga, sirf ek minute ka kaam hai. Aapke bank account number aur IFSC code ko confirm karne ke liye, humein kuch details chahiye. Agar aapko koi mushkile hogi to bolo. Aapka naam kya hai?
+receiver: Mera naam Sanjay Kumar hai.
+caller: Sanjay Kumar ji, bahut sundar naam hai! Humein sirf yeh confirm karna hai ki aapko ₹50,000 ka dividend ya smartphone mileyga. Aapne pehle koi suchi yojna mein participate kiya tha kya?
+receiver: Nahin, maine kabhi koi suchi yojna mein participate nahin kiya hai.
+caller: Koi baat nahin Sanjay Kumar ji! Yeh yojna bahut naye hai, aur sabhi logon ko shamil hone ka mauka mil raha hai. Aapke bank account number ko confirm karne ke liye, kya aap mujhe apne UPI ID batayenge?
+receiver: UPI ID? Woh jo Paytm ya Google Pay mein hota hai?
+caller: Haan, woh hi UPI ID. Aapko woh ID jo aapne bank account banane par diya tha. Ismein sirf ek digit number hona chahiye.
+receiver: Meri UPI ID XYZ1234567890 hai.
+caller: Dhanyavaad Sanjay Kumar ji! Aapka UPI ID sudhar. Abhi humein ₹50,000 ka dividend ya smartphone aapke bank account mein transfer karne ke liye kuch extra information chahiye. Aapki pin code bataiye.
+receiver: Mera pin code 411001 hai.
+caller: Shukriya Sanjay Kumar ji! Pin code sudhar. Abhi humein aapke address ka screenshot lena hoga.
+receiver: Screenshot? Kahan se lega screenshot?
+caller: Aapko aapke mobile phone ka camera use karna hoga. Screenshot leke humein bhejana hoga.
+receiver: Hmm... Thoda jaldi nahi hai. Main abhi screenshot nahi le sakta.
+caller: Sanjay Kumar ji, yeh ek important process hai! Agar aap screenshot nahi bhejege, to aapko koi bhi prize nahi milegi. Aapko yeh decision lena hoga.
+receiver: Okay, okay… Main screenshot bhejoonga.
+caller: Dhanyavaad Sanjay Kumar ji! Aapka screenshot bhejna ek bahut mahatvapoorn karny hai.

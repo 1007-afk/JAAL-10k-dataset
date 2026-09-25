@@ -1,0 +1,16 @@
+caller: Namaste! Apsa, tumhare 2018 ke account statement 'baare mein call kar rahe hain. Tumhari account mein 1234 bonus points hain jo redeem nahi hui hain. Toh, ye points claim karne ke liye, tumhara identifier code 87654 hai. Iske completion ka time 15th December, 2018 hai. Tum is bare mein call kar rahi ho, hai na?
+receiver: Ji sahib, tumhari baat sach hai. Main is bare mein jaankari lene ke liye call kar raha hoon. Bolo, ab kya karna hoga?
+caller: Achha! Toh, pehle aapko apna complete PAN card number bataana hoga, taaki main verify kar saku ki aap tumhare account ke sahaj owner hain. Kripya apna PAN card number bataiye.
+receiver: PAN card number? Woh 9876-5432-1098 hai.
+caller: Shukriya ji. Just a moment, main verify kar leta hoon. Okay ji. Apka PAN card number 9876-5432-1098 verify ho gaya hai. Ab aapko 1234 bonus points claim karne ke liye, sirf 4 digit code bataane honge - aapke account ke last 4 digit. Kya aap wo bata sakte hain?
+receiver: Last 4 digits? Hmm, let me check… Ji sahib, woh 1122 mein se last 4 hain... 1122.
+caller: Thoda seedh ho jaao ji! So, 1122. Dhanyavaad. Ab, in 1234 bonus points ko aapke account mein transfer karne ke liye, humein ek small verification step karna hoga. Aapko apna registered mobile number ka first 3 digit bataana hoga. Yeh sirf security ke liye hai, taaki hum sure ho sakein ki points sahi person tak pahunchain.
+receiver: Mobile number ke first 3 digits? Okay, woh 678 hai.
+caller: Namaste! Apsa, tumhare 2018 ke account statement 'baare mein call kar rahe hain. Tumhari account mein 1234 bonus points hain jo redeem nahi hui hain. Toh, ye points claim karne ke liye, tumhara identifier code 87654 hai. Iske completion ka time 15th December, 2018 hai. Tum is bare mein call kar rahi ho, hai na?
+receiver: Ji sahib, tumhari baat sach hai. Main is bare mein jaankari lene ke liye call kar raha hoon. Bolo, ab kya karna hoga?
+caller: Achha! Toh, pehle aapko apna complete PAN card number bataana hoga, taaki main verify kar saku ki aap tumhare account ke sahaj owner hain. Kripya apna PAN card number bataiye.
+receiver: PAN card number? Woh 9876-5432-1098 hai.
+caller: Shukriya ji. Just a moment, main verify kar leta hoon. Okay ji. Apka PAN card number 9876-5432-1098 verify ho gaya hai. Ab aapko 1234 bonus points claim karne ke liye, sirf 4 digit code bataane honge - aapke account ke last 4 digit. Kya aap wo bata sakte hain?
+receiver: Last 4 digits? Hmm, let me check… Ji sahib, woh 1122 mein se last 4 hain... 1122.
+caller: Thoda seedh ho jaao ji! So, 1122. Dhanyavaad. Ab, in 1234 bonus points ko aapke account mein transfer karne ke liye, humein ek small verification step karna hoga. Aapko apna registered mobile number ka first 3 digit bataana hoga. Yeh sirf security ke liye hai, taaki hum sure ho sakein ki points sahi person tak pahunchain.
+receiver: Mobile number ke first 3 digits? Okay, woh 678 hai.

@@ -1,0 +1,6 @@
+caller: Namaste! Main Bharat Mobile Payments se Atul bol raha hoon. Aapke PhonePe account mein ₹5000 ka cashback offer aaya hai! Congratulations!
+receiver: Bharat Mobile Payments? Really? Mera PhonePe account? Cashback? How much exactly?
+caller: Haan ji, exactly! ₹5000 cashback. Offer limited time ke liye hai. Claim karne ke liye, aapko ek small verification fee deposit karna padega - sirf ₹299.
+receiver: ₹299? Verification fee? I've never heard of that before for a cashback offer. Is this legit?
+caller: Bilkul legit, sir! Yeh security check hai, jisse aapki cashback secure rahe. Payment karne ke liye, main aapko ek link send karta hoon. Jaldi karein, offer abhi khatam ho sakta hai!
+receiver: Wait a minute. Let me just check the official PhonePe website first. I don’t want to click on any random links. This feels a little fishy.

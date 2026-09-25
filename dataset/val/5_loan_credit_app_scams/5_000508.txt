@@ -1,0 +1,7 @@
+caller: Hello! Main Rohan bol raha hoon, XYZ Finance se. Aapko urgent loan chahiye tha, hai na? Hum approve kar sakte hain ₹75,000 tak, sirf ID proof aur photo ke saath. Koi credit check nahi, koi tension nahi.
+receiver: Haan, theek hai. Mujhe loan chahiye tha. ₹50,000 ka tha plan.
+caller: Bahut achha! ₹50,000 toh no problem. Ab aapka naam bataiye aur ek photo WhatsApp pe send kijiye. Aur apna current address bhi bataiye, bhai.
+receiver: Mera naam Rajesh Sharma hai. Address hai 12, Shiv Colony, Uttam Nagar. Photo send kar deta hoon WhatsApp pe.
+caller: Excellent, Rajesh ji! Photo mil gayi. Approval ho gaya hai. Ab sirf processing fee ka ₹3,500 deposit karna hai. Hum ek UPI ID de deta hoon, ₹3500 deposit kijiye, aur fund aapke account mein 15 minute mein transfer ho jayega.
+receiver: ₹3,500? Loan ₹50,000 ka hai, aur mujhe ₹3,500 bhi dena padega?
+caller: Haan Rajesh ji, processing fee hai. Ye humara standard procedure hai. Agar aap pay nahi karte, toh loan approve nahi hoga. Jaldi kijiye, time limit hai.

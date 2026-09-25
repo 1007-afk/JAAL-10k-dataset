@@ -1,0 +1,8 @@
+caller: Namaste! This is Rohan Sharma calling from Axis Bank’s KYC department. We've noticed some unusual activity on your account and need to update your information to prevent potential fraud.
+receiver: Okay… unusual activity? What kind of activity?
+caller: Sir, a large transaction attempt was flagged from an overseas IP address. To secure your funds and avoid your account being temporarily suspended, we require you to verify a few details. Can you please share the last four digits of your Aadhaar card and the OTP you'll receive on your registered mobile number?
+receiver: Aadhaar and an OTP? That sounds a bit risky. Can’t I do this online through the Axis Bank app? I always use that.
+caller: Sir, the app is currently undergoing maintenance. This is a temporary measure to protect our customers. For your security, we're handling this directly over the phone. It's a standard protocol. Please share the details now, or we'll have to block your account as a precaution.
+receiver: Block my account? Wait a minute. Can you at least tell me your employee ID number, so I can verify this with the bank later? And what was the transaction amount that was flagged?
+caller: Sir, employee ID protocols prevent us from sharing that information. The attempted transaction was for ₹12,500. Just confirm the OTP now, and we will be able to resolve this issue immediately and ensure your account remains active and secure.
+receiver: ₹12,500? I haven’t made any large transactions recently. I’m calling the official Axis Bank customer care number right now to confirm this.

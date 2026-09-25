@@ -1,0 +1,8 @@
+caller: Namaste, main Arjun Verma, FastLoan Solutions se bol raha hoon. Aapne hamari website par ek loan ke liye apply kiya tha, hai na?
+receiver: Haanji, bilkul. Meinne kal apply kiya tha, 50,000 ka loan.
+caller: Achha, Sanjay Sharma, aapka application process mein hai. Verification ke liye, mujhe aapki bank statement aur ek photograph chahiye. Photograph sirf face dekhane ke liye, verification ke liye, aur bank statement se hum confirm karenge aapki income.
+receiver: Bank statement? Aur photograph bhi? Kal website par toh kuch nahi bola tha.
+caller: Ji, sir. Security ke karan humko yeh details check karna padta hai. Aur dekhiye, FastLoan Solutions ne loan dene mein bahut naam kama hai, isliye hum kuch extra steps lete hain. Photograph send karne se koi nuksan nahi hai, sir.
+receiver: Theek hai, photograph toh send kar sakta hoon. Bank statement… woh thoda time lagega, mein ghar pahunch ke dekhata hoon.
+caller: Bilkul, Sanjay ji. Photograph send karo WhatsApp par, yeh number par. Aur bank statement mein last 3 months ke transactions dikhne chahiye. Jab bank statement mil jayega, tabhi mein aapko loan details jaanke bata sakta hoon. Abhi toh verification chal raha hai.
+receiver: Okay, send kar deta hoon photograph. Bank statement mein 2-3 din lag jayenge, humara account manager busy hai.

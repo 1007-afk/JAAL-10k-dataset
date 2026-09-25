@@ -1,0 +1,9 @@
+caller: Hello, is this Rahul Verma? I’m calling from LoanExpress India. We saw you recently filled out a pre-approval form for a personal loan. Congratulations, you’re almost there!
+receiver: Yes, hello. I remember that form. What’s this about?
+caller: Great! To finalize your loan of ₹75,000, we just need to verify a few details. Can you confirm your Aadhaar card number for me, please? It's a standard security check.
+receiver: Wait a minute... that sounds a bit risky. Why do you need my Aadhaar number right now? Shouldn’t I be able to do this online?
+caller: Security is our top priority, sir. Online verification is not always foolproof. This is a quick check to prevent fraudulent activity. Just the number, please.  Also, we need to update your contact details. What's your current WhatsApp number?
+receiver: No, I’m not comfortable giving out my Aadhaar or WhatsApp number over the phone. I think this is a scam.
+caller: Rahul Verma, don't be silly! This is a genuine opportunity. If you don’t cooperate, we'll have to cancel your pre-approval. We've already sent the loan documents to your contacts. If you don’t pay a small fee of ₹2,500, we’ll send those documents to your wife and boss, showing your loan application details.
+receiver: That's blackmail! You're threatening me. I'm reporting this number to the cybercrime cell immediately.
+caller: Rahul Verma, you’re making a huge mistake! This is your last chance. The fee needs to be paid now or we’ll have to proceed with the next steps. Consider this a final warning.

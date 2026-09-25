@@ -1,0 +1,10 @@
+caller: Namaste, main Indian Customs se Rahul Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Parcel? Mujhe toh koi parcel yaad nahi. Main kya order kiya tha?
+caller: Yeh parcel illegal hai, Sahab. Jaise ki drug trafficking se juda, illegal items. Humesha check karna padta hai. Aapko is mamle mein cooperation karna hoga.
+receiver: Drugs? Sahab, main toh kabhi drugs nahi chahunga! Main ek achha aadmi hoon. Yeh galat fehmi hai. Aur mujhe kya karna hai?
+caller: Aapko ek small verification fee bhar deni hogi, ₹7500. Tabhi parcel aapke naam se release hoga. Aur mujhe payment details chahiye, taaki main process kar sakun.
+receiver: ₹7500? Itna zyada? Main toh itna paisa nahi de sakta. Aur mujhe yeh payment kaise karna hai?
+caller: Darr mat, Sahab. Yeh aapke interest mein hai. Agar aap payment nahi karenge, toh humko isko police ko report karna padega. Aapki reputation kharab ho jayegi. UPI karein, mere number pe.
+receiver: Wait a minute, Sahab. Main thoda confuse hoon. Main customs officer se baat kar raha hoon, aur woh mujhe UPI se payment ke liye bol raha hai? Yeh kuch toh ghalat lag raha hai. Main police se report karunga.
+caller: Aap kya kar rahe hain? Police se report karoge? Dekhiye, aapko samajh mein nahi aa raha hai. Main aapki help kar raha hoon. ₹7500 dein, otherwise aapko mushkil hogi. Jaldi karen.
+receiver: Main number police ko de raha hoon. Yeh scam hai!

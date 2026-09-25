@@ -1,0 +1,11 @@
+caller: Namaste, main Aditya Verma, QuickCash Solutions se baat kar raha hoon. Aapne app se loan apply kiya tha, right?
+receiver: Haan, ji. Mainne apply kiya tha. Kya hua?
+caller: Sir, aapka loan approve ho gaya hai, bahut achha news! Bas ab aapko KYC verification complete karna hai. Aapke bank account ka screenshot aur aadhar card ki copy humein chahiye.
+receiver: KYC? Lekin maine apply karte samay document bhi daale the.
+caller: Haan sir, lekin system update hone ke wajah se fir se daalna padega. Aapko screenshot send karke do, humein aur kuch nahi. Yeh process 2 ghante se zyada nahi lagega.
+receiver: Theek hai, bhejta hoon. Abhi hi bhej diya.
+caller: Thank you sir! Ab aapko ek OTP milega, woh bhi bataiye. Yeh OTP aapke account security ke liye hai.
+receiver: Woh OTP main check karta hoon… ₹10,000?
+caller: Ji sir, ₹10,000 ka OTP. Jaldi bataiye, time barbaad ho raha hai.
+receiver: Sir, mera account mein koi transaction dikha nahi de raha hai.
+caller: Sir, technical error hai. Aapko apne bank se contact karna hoga. Bye.

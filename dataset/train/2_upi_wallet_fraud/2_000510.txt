@@ -1,0 +1,8 @@
+caller: Namaste! Mai calling kar raha hoon ICICI Bank se. Aapka naam Rajesh Sharma hai, correct?
+receiver: Haan, bol sakte hain. ICICI Bank se call hai? Kyon?
+caller: Ji, aapke ICICI Bank digital wallet mein ek suspicious transaction detect hua hai. Rs. 500 ka withdrawal attempt kiya gaya tha, jo aapne nahi kiya.
+receiver: Rs. 500? Kaunsa transaction? Mujhe koi notification nahi aaya.
+caller: Sir, hamara security system ne automatically detect kiya hai. Aapko isko confirm karna hoga aur aapke wallet ko secure karna hoga. Iske liye, aapko apna wallet OTP share karna hoga.
+receiver: OTP? PhonePe par OTP? Mujhe thoda doubt ho raha hai. ICICI Bank aise calls karta hai kya?
+caller: Sir, security ke liye hamara protocol hai. Jaldi se OTP share karein, warna aapka wallet block ho sakta hai. Aapko premium service bhi mil jayegi, bilkul free mein. Just share the OTP.
+receiver: Premium service? Mein police mein report karunga agar yeh koi scam nikla toh.

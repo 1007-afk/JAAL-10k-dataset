@@ -1,0 +1,8 @@
+caller: Namaste! Main Axis Bank se Rohit bol raha hoon. Aapke account mein ₹5000 ka cashback offer chal raha hai, government scheme ke under.
+receiver: ₹5000 cashback? Really? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, select customers ko hi notification milta hai. Cashback claim karne ke liye, aapko ek small verification process complete karni hogi.
+receiver: Verification? Kya karna padega? KYC hai kya?
+caller: Bilkul! Aapko ek link par click karke apna UPI PIN verify karna hai. Ek minute lega, aur ₹5000 aapke account mein add ho jayega.
+receiver: UPI PIN? Ek link bhejo. Aur ₹5000 genuinely milega kya? Main pareshan ho raha hoon.
+caller: Ji bilkul genuine hai! Yeh link par click karein: bit.ly/axiscashback. UPI PIN enter karein, aur cashback aapka hoga. Jaldi karein, offer limited time ke liye hai.
+receiver: Wait, yeh link suspicious lag raha hai. Bit.ly se link kyun bheje ho? Main Axis Bank ke app se hi check karta hoon.

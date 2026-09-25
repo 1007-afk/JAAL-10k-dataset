@@ -1,0 +1,6 @@
+caller: Namaste, is this Mrs. Sharma? This is Akash from Secure Bharat Services. We're calling regarding your FreeCharge account – there’s been an unusual login attempt from a foreign IP address. Just wanting to confirm everything is secure on your end. Do you have a moment?
+receiver: FreeCharge? Mujhe FreeCharge ke bare mein thoda gussa hai. Kal se koi transaction ho raha hai. What’s happening?
+caller: Yes ma'am, a login was attempted from Singapore. To block this immediately and prevent any unauthorized transfers, we require you to verify your account. Can you please provide the last three digits of your Aadhaar card? It’s a standard security protocol.
+receiver: Aadhaar card details? FreeCharge ko mera Aadhaar card number kyun chahiye? Yeh bahut suspect hai. Mein report kar dungi agar aap ne yeh puchna band nahi kiya.
+caller: Ma'am, please don't be alarmed. We understand your concern. We’re not asking for the full number, just the last three digits for verification. Think of it as protecting your hard-earned money. We need to also confirm a small cashback prize you've won as part of a promotional offer. A processing fee of ₹75 needs to be paid via UPI to receive it.
+receiver: Cashback? ₹75? UPI se? Sirf verification ke liye Aadhaar aur ab ₹75? Yeh toh scam dikhta hai! Mein koi bhi payment nahi karungi aur number block kar dungi.

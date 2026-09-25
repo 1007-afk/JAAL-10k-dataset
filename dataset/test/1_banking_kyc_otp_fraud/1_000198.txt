@@ -1,0 +1,11 @@
+caller: Hello, Namaste! Thank you for receiving this call. I’m reaching out regarding some unanswered calls from this number, 9876543210. Did you happen to miss any calls from us recently? We just wanted to ensure you received an important update.
+receiver: Hello, Haan, namaste! Actually, I did notice a few missed calls on my phone, but I was busy working. What was the update about? It seemed important.
+caller: Arre, koi problem nahi! It was a message informing you that your account has been flagged for potential fraudulent activity. We needed to contact you immediately to verify your identity and prevent any unauthorized transactions. Have you recently changed your passwords or noticed any suspicious emails?
+receiver: Oh, fraud alert! That's concerning. I haven't changed my passwords recently, but I did receive an email asking for my login details. I thought it was legitimate.
+caller: Exactly! That's why we need to confirm your information. Let's quickly check your details. Could you please provide your full name and registered email address? This will help us investigate the situation thoroughly.
+receiver: Sure, my name is Priya Sharma, and my registered email is priya.sharma@example.com. Please confirm if that’s correct.
+caller: Shukriya, Priya ji! Your email address is priya.sharma@example.com. Now, to fully secure your account, we require a one-time verification code sent to your mobile number. Would you mind confirming that this is the same number where you receive SMS messages? This is standard procedure for security purposes.
+receiver: Yes, it is. My mobile number is 9876543210. Please send the code. I am ready to proceed.
+caller: Excellent! Just to double-check, your address is [Priya's Address - Invent a plausible address], and we need to confirm your current location for our records. Can you tell me which city you currently reside in?
+receiver: I live in Bangalore.
+caller: Great! So, your address is [Priya's Address - Invent a plausible address], and you reside in Bangalore. To finalize the security enhancement, we’ll now send a verification code to your mobile number.

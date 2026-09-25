@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Verma bolta hoon, PhonePe se. Aapke PhonePe wallet mein ek transaction hua hai jo aapne nahi kiya.
+receiver: Kya? Kab hua transaction? Kitna hua?
+caller: Sir, ek payment ₹4,500 ka hua hai ek 'GamingZone' account mein. Hamein lagta hai koi scam ho sakta hai. Aapko apne account ko secure karne ke liye kuch steps lene honge.
+receiver: ₹4,500? Ye to bahut zyada hai! Mainne toh koi game nahi kheli.
+caller: Haan sir, aise hi scam hote hain. Aapko apne account ko block hone se bachana hai. Isliye humein aapka OTP verify karna hoga. OTP aapko PhonePe app mein milega. Bataiye, please.
+receiver: OTP kabhi nahi deta kisi ko bhi! Ye scam lag raha hai! Main PhonePe customer care number pe call karta hoon.
+caller: Sir, please! Aapko thoda urgent kar rahe hain. Agar aap OTP nahi denge toh aapka account permanently block ho jayega. Sir, just the OTP, please. It's just for verification.
+receiver: Account block ho jayega? Theek hai, ek minute. Let me check my app.

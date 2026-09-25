@@ -1,0 +1,8 @@
+caller: Namaste! Ye Rohan se baat kar rahi hoon, Flipkart customer care se. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, really? What’s the problem? I was expecting a package.
+caller: Haan ji. Address thoda confused dikh raha hai. Aur ek small delivery charge ka payment pending hai. ₹250 sirf.
+receiver: ₹250? I don't recall any delivery charge. I always get free delivery.
+caller: Woh toh hai, lekin is parcel mein kuchh special documents hain, isliye kuch extra fees laga hai. Aap OTP share karein, main confirm kar dunga.
+receiver: OTP? Why do you need my OTP? That seems suspicious. I’ll call Flipkart directly.
+caller: Arre, aisa mat sochiye! Main Flipkart se hi hoon. OTP se confirm hoga ki aap parcel receive kar rahe hain. Please, time bahut kam hai, delivery window khatam ho jayega.
+receiver: No, I’m not comfortable sharing my OTP with you. I'm going to call Flipkart’s official number.

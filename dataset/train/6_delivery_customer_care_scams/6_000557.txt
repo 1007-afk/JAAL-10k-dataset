@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Verma? I am calling from BlueSky Courier regarding a package addressed to you. It’s showing as ‘high priority’ and requires immediate customs clearance.
+receiver: Haan, Rajesh Verma bol rahe hoon. Customs clearance? What package is this? I didn’t order anything.
+caller: Sir, it's a very valuable item – looks like electronics. It’s held up at our Mumbai sorting facility. To release it, you need to pay a small customs fee of ₹2,500. You can pay securely through our website – blueskycourier.net/payment.
+receiver: ₹2,500? But I didn’t order anything! And that website looks unfamiliar. I usually order from Amazon or Flipkart.
+caller: Sir, sometimes packages are sent directly. Don’t worry, it’s a very simple process. Just complete the payment on the website within the next 15 minutes, or the package will be returned to the sender. This is to prevent any fraudulent activities.
+receiver: Fifteen minutes? Let me see... Okay, hold on. This website is asking for my bank account details! That doesn't seem right at all. I'm calling my son to check.
+caller: Sir, time is running out! We need those details immediately to process the release. Just enter your card number and expiry date—it's completely secure, I assure you. You'll get the package delivered today itself!
+receiver: No, no way. This is a scam! I'm reporting this number. Goodbye!

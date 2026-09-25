@@ -1,0 +1,7 @@
+caller: Hello, is this Akash Sharma? We're calling from QuickShip Courier regarding a package addressed to you. It's currently held up due to an unpaid customs clearance fee.
+receiver: Customs clearance? I don’t recall ordering anything that would require customs. What's the order ID?
+caller: The order ID is FSG4298. The package contains high-value electronics, and the fee is ₹2800 to release it. We need this payment urgently to avoid return shipment. You can pay through our secure payment gateway.
+receiver: ₹2800? That seems awfully high. Could you tell me what company I ordered from? I want to verify this.
+caller: Sir, the sender’s details are confidential due to privacy regulations. But you can quickly pay via UPI using this number. Payment will confirm the shipment immediately. The cut off time is today 7 PM.
+receiver: UPI? That's not how courier companies usually operate. I'm going to call the company I ordered from directly to confirm this. I’m not comfortable giving out my UPI details.
+caller: Sir, the system is flagging your UPI as inactive, we need to quickly get it resolved or else it will get returned. The process is only fast and easy through our secure payment gateway and we'll then resolve all your UPI issues too!

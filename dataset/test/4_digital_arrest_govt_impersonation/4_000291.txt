@@ -1,0 +1,8 @@
+caller: Hello, I am calling from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your bank account – specifically, a large sum of money being routed through an illegal online gambling platform.
+receiver: Kya? Illegal gambling? Mere account se? Main toh kabhi gambling nahi karta!
+caller: Sir, we have evidence. We need to verify some details to clear this up before it escalates to a legal case. Can you please confirm the last four digits of your Aadhaar card? This is a standard procedure.
+receiver: Arey yaar, Aadhaar number bataunga? Yeh theek toh lag raha hai? Ek moment… mujhe check karne do.
+caller: Sir, time is critical. The court has issued a stay order, and we must act quickly. A small fee of ₹15,000 is required to cover the investigation costs and prevent further legal action. It's a refundable amount, sir.
+receiver: ₹15,000? Refundable? Aur kaise pay karoon? Bank account number dedo.
+caller: Sir, for security reasons, we prefer UPI transfer. I will send you a QR code. Please scan it and make the payment immediately. This will ensure your account remains clear and you avoid any criminal charges. It is very important to do this now.
+receiver: QR code? Haan, bhejo. Par agar yeh scam nikla toh?

@@ -1,0 +1,10 @@
+caller: Hello, is this Mrs. Sharma? I’m calling from FreeCharge customer support. We've noticed some unusual activity on your FreeCharge wallet.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes ma'am, someone attempted to send a collect request of ₹500 to an unknown number from your wallet just now. It seems like your account might be compromised.
+receiver: Really? That's strange. I didn’t initiate any collect request. What should I do?
+caller: To secure your account, we need to verify some details. Can you please tell me the last four digits of the linked bank account? Just to confirm it's really you.
+receiver: Okay, it's 4321.
+caller: Thank you, Mrs. Sharma. Now, for security purposes, could you also provide the OTP that you just received on your registered mobile number for FreeCharge? It's a one-time password.
+receiver: OTP? Just now? Let me check... Oh, I just got one. It’s 987654.
+caller: Excellent, Mrs. Sharma. We've now secured your account. As a precaution, we’re temporarily blocking your wallet and issuing a full refund of any remaining balance. You will receive an SMS confirmation shortly. Have a nice day!
+receiver: Wait a minute! Refund? I didn’t ask for a refund. What about the ₹500 collect request?

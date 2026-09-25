@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, aur main LoanExpress se bol raha hoon. Aapki loan application approved ho gayi hai! Abhi kuch formalities complete karni hai.
+receiver: LoanExpress? Mujhe toh koi application nahi kiya tha. Yeh kya ho raha hai?
+caller: Ji, system mein mistake ho gaya hoga. Lekin approval toh ho gaya hai, ₹75,000 ki loan. Abhi sirf processing fee ₹2,500 deposit karna hai, tab loan aapke account mein transfer ho jayegi.
+receiver: ₹2,500? Lekin maine toh loan hi nahi li! Aur processing fee bhi? Loan milne ke baad fee bharte hain.
+caller: Dekhiye, government policies change ho rahe hain. Abhi process yahi hai. Agar aap ₹2,500 deposit kar denge toh loan jaldi se transfer ho jayegi. Varna, approval cancel ho sakta hai. Aur ek baat bataun? Hum aapke contacts ko bhi message bhej sakte hain ki aap paise nahi de rahe hain!
+receiver: Contacts ko message? Yeh toh threatening hai! Main koi bhi fee nahi bharunga. Main police complaint karunga agar aap mujhe disturb karte rahe.
+caller: Arre arre, ghabraiye mat! Hum toh bas aapki help kar rahe hain. ₹2,500 bhar dijiye, aur aapki loan safe rahegi. Nahi to, humko niyam ka purn aavashyaat ka aankan karna hoga.

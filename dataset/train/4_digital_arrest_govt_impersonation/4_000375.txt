@@ -1,0 +1,9 @@
+caller: Hello, this is Inspector Verma from the Directorate of Revenue Intelligence. We’ve detected some unusual activity linked to your bank account.
+receiver: What unusual activity? Which bank are you calling from? I’m a little confused.
+caller: Madam, it appears large sums of money are being transferred through your account related to an online gambling ring. It’s a serious matter, linked to money laundering.
+receiver: Gambling? I don’t gamble! This is ridiculous. Can you please tell me your employee ID and the case number?
+caller: Madam, I can't disclose the case number over the phone for security reasons. However, to clear this up quickly and prevent further legal action, you need to deposit ₹15,000 into this designated account – I'll send you the UPI details.
+receiver: ₹15,000? To clear a gambling charge I didn't even commit? That’s extortion! I’m reporting this to the cybercrime cell immediately. Send me the UPI details, I’m going to screenshot them and send them to the police.
+caller: Madam, please don’t do that. You are creating more problems for yourself. It's just a small amount to ensure your account is cleared. Think about the consequences, jail time is possible. The UPI details are 87654321@axisbank. Please transfer quickly, we are monitoring your account.
+receiver: I’m transferring ₹1, as a test. If you’re genuine, you’ll return it. If not, I'm calling the police with all the details I've gathered. And I’m also calling my bank.
+caller: Madam, this is a serious investigation. We cannot accept such a small amount as a 'test'. This is a delay tactic. If you do not cooperate fully, we will have to

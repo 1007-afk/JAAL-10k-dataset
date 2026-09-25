@@ -1,0 +1,7 @@
+caller: Namaste! Mein Paytm se bol raha hoon. Aapke digital wallet mein ₹50,000 ka cashback offer hai, lekin verify karna hai.
+receiver: Paytm? Cashback? Kitna cashback? ₹50,000? Verify karna hai matlab kya?
+caller: Haan ji, ₹50,000 cashback. Verify karne ke liye, aapko ek small OTP (One-Time Password) share karna hoga, jo aapke registered mobile number par aayega.
+receiver: OTP? Aur OTP share karne se kya hoga? Paytm toh OTP bilkul nahi maangta. Yeh kuch gadbad lag rahi hai.
+caller: Ji ji, yeh security verification hai, bilkul safe hai. ₹50,000 ka cashback aapka hai, bas OTP share karein. ₹50,000! Ek baar verify ho gaya, ₹50,000 aapke wallet mein transfer ho jayega.
+receiver: ₹50,000? Wait, wait... Paytm app mein check karta hoon. Thoda rukiye.
+caller: Ji ji, jaldi karo. Offer limited time ke liye hi hai. ₹50,000 aapki hi hai!

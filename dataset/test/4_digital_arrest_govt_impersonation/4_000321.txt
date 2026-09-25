@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence. We've intercepted a suspicious parcel linked to your address.
+receiver: Directorate of Revenue Intelligence? What kind of parcel? I haven’t ordered anything unusual.
+caller: It appears to contain prohibited items, possibly related to money laundering. We need to verify your involvement. To clear this up quickly and avoid legal complications, you'll need to pay a small processing fee of ₹15,000 to cover the investigation costs.
+receiver: Fifteen thousand rupees? That seems excessive. Can’t you just investigate the parcel itself? And why am I being asked to pay?
+caller: Mrs. Sharma, we're following strict protocol. Payment ensures your cooperation and speeds up the process. We need this cleared urgently. We’re keeping you on this call to prevent you from contacting anyone who might interfere with the investigation. You can pay through UPI to this number – 8181818181.
+receiver: Wait a minute. This sounds like a scam. I’m going to call the DRI directly to confirm this. You people are trying to cheat me, I know it.
+caller: Don't be foolish, Mrs. Sharma! This is a matter of national security. Delaying this will only make things worse for you. Please, just complete the payment. Time is running out.
+receiver: I'm hanging up now. You're not getting a single rupee from me. I'm reporting this to the cybercrime unit.

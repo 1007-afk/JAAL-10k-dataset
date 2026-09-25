@@ -1,0 +1,8 @@
+caller: Hello, is this speaking to Mr. Vikram Singh? My name is Inspector Sharma, calling from the Delhi Customs department. We've intercepted a parcel addressed to you containing suspicious items.
+receiver: Customs? Parcel? What suspicious items? I wasn't expecting anything.
+caller: Yes sir, preliminary investigations suggest it contains contraband. We need to verify your involvement. Please dial 9876543210 immediately and speak with our verification officer. It’s a serious matter, Mr. Singh.
+receiver: 9876543210? But why am I being contacted like this? Can’t you just send a formal notice?
+caller: Sir, time is of the essence. The court is demanding immediate action. To clear this up and prevent further legal complications, a small processing fee of ₹15,000 needs to be deposited. We'll need you to remain on this call until it's completed.
+receiver: ₹15,000? For what? This sounds like a scam. I want to speak to your supervisor.
+caller: Sir, interfering with a legal process carries severe penalties. Don’t make things difficult for yourself. Just transfer the amount to this UPI ID: customs.verify@axis. This is for swift resolution and to avoid a warrant being issued against you.
+receiver: Wait a minute… I’m ending this call right now. You're clearly trying to scam me.

@@ -1,0 +1,7 @@
+caller: Hello, this is Rohan from SwiftCash Loans. We’ve pre-approved you for a ₹50,000 instant loan! Just a quick verification process. Are you there?
+receiver: SwiftCash? I don't recall applying for a loan. Is this legitimate?
+caller: Of course, it's legitimate. We’re partnered with several banks. Just to confirm, can you send us a copy of your Aadhar card and latest bank statement for verification? It’s standard procedure.
+receiver: Hold on, that sounds suspicious. Why do you need my Aadhar? I’ve heard about scams like this.
+caller: Don't worry, it’s completely secure. Look, we need to confirm your identity to release the funds. Otherwise, the offer expires. We also noticed a small processing fee of ₹5000 needs to be deposited to activate your account.  It's a one-time charge.
+receiver: ₹5000 just to activate a loan? That's outrageous! And sending my Aadhar? Absolutely not. This is a scam, isn’t it?
+caller: Ma'am, please! Don't be difficult. This is your chance to get quick cash. If you don't pay the fee, we'll have to report you for attempting fraud, and we'll forward your contact details to our recovery team for further action. You don't want that, do you? We have your number and we know your location.

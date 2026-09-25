@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? This is Akash from FreeCash Rewards. Congratulations! You've been selected for a special cashback promotion. You've won a prize of Rs. 12,500!
+receiver: FreeCash Rewards? I don’t think I've ever signed up for that. Is this legit?
+caller: Absolutely! It’s a partnership with PhonePe to reward loyal users. To claim your winnings, we just need to verify a small processing fee of Rs. 999. This will be credited back to your account instantly after the cashback is applied. You can pay it through PhonePe UPI.
+receiver: A processing fee? That seems a bit odd. Why do I need to pay to receive money?
+caller: It’s just to cover the transaction charges and ensure the funds are transferred securely, ma'am. It's standard procedure for all large prize payouts. We need to see this small investment to process your winning amount. You can use the PhonePe UPI ID - 7890123456@axisbank.
+receiver: Okay, hold on. Let me just quickly check the FreeCash Rewards website. I’ll call you back in a few minutes.
+caller: Please hurry, ma'am! The offer is only valid for the next 15 minutes! Don’t miss out on your Rs. 12,500! We don’t want you to lose this opportunity.

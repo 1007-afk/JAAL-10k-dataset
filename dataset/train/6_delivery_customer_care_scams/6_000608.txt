@@ -1,0 +1,7 @@
+caller: Hello, main XYZ Courier se Rahul bol raha hoon. Aapke address par ek parcel aaya hai, lekin delivery ke dauraan thoda damage ho gaya hai.
+receiver: XYZ Courier? Damage? Kya hua parcel ko? Mein toh kuch order kiya tha, par mujhe kuch pata nahi tha.
+caller: Ji ji, madam. Parcel mein kuch cracks hain, aur mujhe confirm karna hai ki parcel aapka hi hai. Yeh confirm hone ke baad, hum damage ke compensation process start kar sakte hain. Isliye humein aapka naam aur OTP chahiye.
+receiver: OTP? Kyun OTP chahiye? Tum log toh parcel deliver karne wale ho, OTP lene ke liye nahi! Yeh toh kuch gadbad lag rahi hai.
+caller: Madam, yeh OTP verification ke liye hai, taaki hum confirm kar sakein ki aap hi parcel claim kar rahe hain. Security purpose ke liye OTP bahut important hai. Agar OTP nahi milega, toh parcel return ho jayega.
+receiver: Return ho jayega? Par mujhe woh parcel chahiye tha! Theek hai, ek minute. Mein apna OTP check karti hoon. Par batao, parcel mein kya damage hua hai, aur woh kitna important tha?
+caller: Madam, parcel mein packaging ka kuch part damage hua hai, lekin andar ki cheezin ka koi nuksan nahi hai. Woh ek gaming keyboard tha, sahi na? Ab aapka OTP de dijiye taaki hum dispatch kar sakein.

@@ -1,0 +1,6 @@
+caller: Namaste! Main Paytm se raha hoon. Aapke Paytm wallet mein ₹15,000 ka cashback offer aa raha hai. Is offer ko claim karne ke liye, aapko ek small verification fee bharvani padegi.
+receiver: ₹15,000 ka cashback? Kya bol rahe ho? Verification fee kitni bharani hai?
+caller: Sirf ₹300. Bahut simple hai. Aapko ek link pe click karke payment karna hai. Payment ke baad, cashback instantly aapke wallet mein add ho jayega.
+receiver: ₹300? ₹300 bharne ke baad cashback milega, it's okay I guess. Link bhejo.
+caller: Haan ji, yahaan pe click karein: paytm.cashback.in/verify. Payment karte waqt apna Paytm registered number use karna.
+receiver: Paytm.cashback.in? Yeh toh mera regular Paytm app wala link nahi lag raha.  It seems suspicious.

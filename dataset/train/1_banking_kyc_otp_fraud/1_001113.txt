@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Priya from ICICI Bank’s fraud prevention department. We’ve noticed some unusual activity on your ICICI Bank credit card.
+receiver: Unusual activity? What kind of activity? Which card are you talking about?
+caller: Sir, there's been an attempt to make an online purchase from a website called "GadgetWorld" for ₹12,500. The transaction failed due to insufficient funds, but we're flagging it just in case. We need to quickly verify you haven’t authorized this. Can you please confirm the last three digits of your CVV for security purposes?
+receiver: Wait a minute. ₹12,500? I haven’t tried to buy anything from GadgetWorld. And I'm not giving you my CVV, absolutely not. That’s the first thing they tell you in security warnings.
+caller: Sir, I understand your concern, but without verifying, we might have to temporarily block your card to prevent further attempts. It's a precautionary measure. Just the last three digits, sir. It's a standard procedure. For your protection, you see.
+receiver: Blocking my card? Over a failed transaction? This is ridiculous. I’m going to call the official ICICI Bank helpline number. What’s your number?
+caller: Sir, our systems are experiencing high call volumes right now. To expedite the verification and prevent any further potential risks to your account, quickly give me the last three digits of the CVV. It's the quickest and safest way to resolve this. Please cooperate.

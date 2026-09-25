@@ -1,0 +1,8 @@
+caller: Namaste, mai Vijay se call kar raha hu, BharatPay se. Aapke BharatPay wallet mein cashback offer live hai! Rs. 5000 cashback guarantee.
+receiver: Cashback? Kaise?
+caller: Haanji, ek chota processing fee bhar do, sirf Rs. 200. Verification ke liye. BharatPay ne offer launch kiya hai.
+receiver: Rs. 200 fee? Why do I need to pay anything for a cashback offer?
+caller: Sir, is offer mein, security ke liye verification zaroori hai. Rs. 200 fee bharne se aapka account verify ho jayega aur cashback aapke wallet mein add ho jayega. BharatPay ki condition hai.
+receiver: Security verification ke liye mujhe Rs. 200 bharne ki zaroorat hai? Yeh toh thoda fishy lag raha hai. BharatPay app mein to kuch notification nahi dikh raha hai.
+caller: Sir, yeh offer limited time ke liye hai, sirf aaj ke liye. Agar aap abhi fee bhar dete hain toh aapka cashback guarantee hai. Jaldi karo!
+receiver: Main wait karta hu. BharatPay se koi offer hai toh meri app mein notification aana chahiye. Mujhe koi bhi doubt hai, main fee nahi bharunga. Call cut.

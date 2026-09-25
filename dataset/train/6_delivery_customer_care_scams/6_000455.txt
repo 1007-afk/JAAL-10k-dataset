@@ -1,0 +1,8 @@
+caller: Namaste! Main Zomato customer care se Rahul bol raha hoon. Aapke account mein kuch suspicious activity dikhai de rahi hai. Kuch outsiders ne aapka account hijack karne ki koshish ki hai.
+receiver: Zomato? Suspicious activity? Mujhe toh koi notification nahi aaya. Kuch details bataiye.
+caller: Haan, sir. Kuch ne aapke naam se fake order place kar rahe hain. Account secure karne ke liye, aapko ek OTP verify karna hoga. Main aapko abhi send kar dunga. OTP receive hone ke baad, mujhe bataaiye.
+receiver: OTP? Account secure karne ke liye OTP? Zomato toh aise kabhi nahi karta. Mujhe kuch shak ho raha hai.
+caller: Sir, time bahut kam hai. Agar aap jaldi nahi karenge, toh aapka account permanent block ho sakta hai.  ₹500 ki security deposit bhi aapko confirm karni hogi taaki account restart ho sake.  OTP send kar diya hai, check kijiye.
+receiver: ₹500 security deposit? Account block ho jayega? Yeh toh jhooth lag raha hai. Main customer care number se call karta hoon aur aap call kar rahe hain?
+caller: Sir, yeh standard procedure hai. ₹500 deposit verify karne ke baad, main aapko ek temporary access code dunga, jo aapko naya password set karne mein madad karega. Aapka data secure rahega, trust me.
+receiver: Theek hai, wait kar rahe hoon.

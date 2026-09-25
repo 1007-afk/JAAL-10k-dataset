@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma bolta hoon. Aapko BharatPe se ek bahut achha cashback offer mil raha hai.
+receiver: Cashback? Kitna cashback hai?
+caller: Aap BharatPe par ek new transaction karenge, sirf ₹100 ka, aur aapko ₹200 ka cashback milega instant. Is offer ki last date aaj raat 8 baje tak hai.
+receiver: ₹200 cashback ₹100 ke transaction pe? Sunta toh achha lag raha hai, lekin kaise karna hai?
+caller: Aapko BharatPe app mein ‘Add Money’ section mein jake ₹100 deposit karna hai ek special UPI ID par. Main aapko UPI ID de deta hoon – bharatpe.cashback@axis.
+receiver: Bharatpe.cashback@axis? Yeh UPI ID theek lag raha hai. Aur deposit ke baad cashback kab milega?
+caller: Deposit hote hi, ₹200 instant aapke BharatPe wallet mein credit ho jayega! Jaldi karein, offer khatam hone wala hai.

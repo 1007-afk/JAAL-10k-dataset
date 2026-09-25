@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? I am calling about a special opportunity – a virtual cooking class delivered directly to your home! Imagine, learning to make delicious Indian dishes from a renowned chef, all without leaving your kitchen. Just reply ‘DELISH’ to 56789 to receive the menu and schedule.  If you wish to opt-out, simply send ‘CANCEL’ to 56789.  So, would you like to explore this amazing culinary experience?
+receiver: Namaste, kaun baat kar raha hai? Mein itna busy hoon, mereko yeh timings nahin milenge. Koi cooking class bhi kon nehin suni hai.
+caller: Don't worry, sir/madam, it’s completely flexible! We understand everyone's schedules are different. The chef will record the classes, so you can watch them whenever it suits you.  Just reply ‘DELISH’ to 56789 for more information. And if you aren’t interested, simply type ‘CANCEL’ to 56789.  We really think you’d enjoy this.
+receiver: Listen, main ghar mein thodi kaam se bahar hoon. Cooking ka time nahi milta. Aur mujhe online classes bhi pasand nahi hain. Agar aapne koi mistake thi toh, maaf karna. Par please mujhe iske bare mein koi message mat bhejo. Mein ‘CANCEL’ text kar raha hoon, please bataiye ki mera request accept ho gaya hai.
+caller: Haan ji, ‘CANCEL’ text aa gaya hai. Your request has been accepted. No further emails or calls will be sent. Thank you for your understanding.
+receiver: Theek hai, thank you. Bas, yeh sab bakwaas nahi chahiye tha. Achcha, phirbye.
+caller:  Phirbya! Glad we cleared that up. Enjoy your day!
+receiver: Firbya. Bas, yeh sab bakwaas nahi chahiye tha. Achcha, bye.

@@ -1,0 +1,6 @@
+caller: Namaste! Main Vi helpline se bol raha hoon. Aapke Vi wallet mein ek unusual transaction detect hua hai.
+receiver: Kya? Unusual transaction? Mujhe toh koi message aaya nahi. Kya hua exactly?
+caller: Sir, ek ₹2500 ka transaction Maharashtra se gaya hai. Agar aapne kiya hai toh koi baat nahi, par agar nahi kiya toh humein immediate action lena padega. Aapko humein confirm karna hai.
+receiver: ₹2500? Maine toh koi Vi se transaction nahi kiya. Yeh to galat ho raha hai. Maine kabhi Maharashtra se transaction nahi kiya.
+caller: Sir, seedhe police mein report nahi karna hai. Humara system hi detect kar raha hai. Hum aapko ek OTP send karenge, usse confirm kar lijiye aur hum block kar denge transaction. ₹200 processing fee lag jayegi, lekin ₹2500 bach jayega.
+receiver: ₹200 processing fee? Yeh kya bakwas hai? Vi kabhi processing fee le toh nahi sakta. Main koi OTP nahi dene wala. Main abhi Vi customer care number pe call karta hoon aur complaint register karta hoon.

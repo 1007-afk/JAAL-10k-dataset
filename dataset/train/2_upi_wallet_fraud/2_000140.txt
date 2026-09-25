@@ -1,0 +1,7 @@
+caller: Namaste, mai Tata Cliq se Rohit bolata hun. Aapne Tata Cliq par recently ek order kiya tha na?
+receiver: Haanji, ek saree ka order kiya tha, usme kya baat hai?
+caller: Sir, aapke order payment mein ek chhoti si problem aa gayi hai. Payment complete karne ke liye, aapko ek OTP verify karna hoga.
+receiver: OTP? Kaise verify karna hai? Mujhe Tata Cliq ne kabhi OTP seekhne ko nahi kaha tha.
+caller: Haan sir, ye ek naya security measure hai. Aapko apna Paytm app kholna hai, OTP check karna hai, aur usko mujhe bata dena. Payment confirm ho jayega, sir.
+receiver: Arre yaar, Paytm pe bata rahi hoon? Kya guarantee hai ki ye Tata Cliq wala hi hai? Mera data leak ho jayega?
+caller: Sir, bilkul safe hai. Tata Cliq aur Paytm partnership mein hain. Aap sirf OTP bata dijiye, aur aapki saree deliver ho jayegi.  Agar aap OTP nahi dete toh aapka order cancel ho jayega.

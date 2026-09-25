@@ -1,0 +1,7 @@
+caller: Hello, mai hu Akash Verma, Bluebird Courier se. Aapke ek parcel delivery mein thodi dikkat aa rahi hai. Ye Amazon se hai, par delivery address mein kuch confusion hai.
+receiver: Oh, kya confusion hai? Mujhe toh sahi address hi mila tha.
+caller: Haan ji, par system mein ek older address dikha raha hai. Payment confirmation ke liye ek OTP aayega, woh mujhe bata dijiye, please. Tabhi parcel chala sakte hain.
+receiver: Payment? Mere parcel ke liye payment? Mai toh already payment kar chuka hun Amazon pe.
+caller: Sir, technical fault hai. Just ek verification OTP hi chahiye, promise. OTP receive bhi jao.
+receiver: Thik hai, wait kar raha hun. (pause) Okay, OTP hai 4587.
+caller: Thank you, sir. Ab ek minute, verification ho raha hai... Sir, ek chhoti processing fee lag rahi hai, sirf ₹250. Amazon ne instruction diya hai. Payment kar dijiye OTP se.

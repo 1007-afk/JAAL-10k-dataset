@@ -1,0 +1,8 @@
+caller: Namaste! Main calling kar raha hoon Paytm Customer Care se. Aapka naam Rajesh Sharma hai, correct?
+receiver: Haanji, main Rajesh Sharma hi hoon. Kya baat hai?
+caller: Rajesh ji, aapke Paytm wallet mein 5000 rupees ka cashback offer hai. Yeh offer sirf aj kal ke liye hai aur aapko bas ek chhota sa verification karna hai.
+receiver: 5000 rupees ka cashback? Really? Verification ka kya hai?
+caller: Verification ke liye aapko apne Paytm app mein ‘Add Money’ section mein jake 100 rupees deposit karne hain. Jab woh deposit ho jayega, cashback automatically aapke wallet mein add ho jayega.
+receiver: 100 rupees deposit? Aur yeh process safe hai?
+caller: Haan ji, bilkul safe hai. Yeh Paytm ka official offer hai. Aapko bas apne app mein Paytm ID aur OTP enter karna hai jab add money kar rahe ho. Jaldi karo, offer expire hone wala hai!
+receiver: Theek hai, maine 100 rupees deposit kar diya. Ab kya karun?

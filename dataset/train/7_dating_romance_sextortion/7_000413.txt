@@ -1,0 +1,6 @@
+caller: Namaste! I saw your profile on 'ConnectHearts' – you seem like a very interesting person. I'm Arjun, by the way. I was wondering if you’d be open to chatting a bit?
+receiver: Hi Arjun! Namaste to you too. ConnectHearts, huh? Yeah, I'm just browsing, seeing who’s out there. What do you do?
+caller: I'm an architect, designing luxury resorts in Goa. It's a demanding job, but I love the creativity of it. You know, building dreams!  I saw you mentioned a love for photography - that's wonderful! What kind of things do you like to capture?
+receiver: That's cool! Architect – very impressive. I mostly do nature photography, landscapes, wildlife. It's relaxing and I love being outdoors.  So, Goa, huh? Sounds amazing. Do you travel a lot for work?
+caller: Absolutely! Lots of site visits. Actually, I'm heading to Dubai next week for a conference. It’s quite expensive, the tickets and accommodation. I'm a little short on funds at the moment, unexpected expenses you know?  Would you mind helping me out with a small amount? Just ₹15,000 to cover the flight, I’ll pay you back double as soon as I get paid.
+receiver: Dubai? Wow! That’s quite a trip. ₹15,000 is a lot of money though, Arjun. I don't usually lend money to people I’ve just met. Can't you use a credit card or something?

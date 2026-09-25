@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay hai, Kredit Express se. Aapki loan application receive ho gayi hai. Fast approval ke liye, kuch details confirm karna hai. Aapka full name aur birth date bataiye, please?
+receiver: Haan, mera naam Rajesh Kumar hai aur birth date 15 August 1988 hai.
+caller: Thank you, Rajesh ji. Verification ke liye, ek OTP aapke registered mobile number pe bheja jayega. Wo OTP bataiye.
+receiver: OTP hai 789012.
+caller: Perfect! Verification successful. Loan approved ho gaya hai - ₹75,000, 18% interest, 6 months repayment. Terms and conditions apply. Payment detail de rahi hu, ₹12,000 advance fee UPI mein transfer kijiye.
+receiver: ₹12,000? Ye bahut zyada hai! Loan ke pehle advance fee kyun? Main nahi dunga.
+caller: Rajesh ji, isko seriously leiye! Agar aap advance fee nahi denge, toh hum loan approve nahi kar sakte. Aur hum aapki contacts ko aapke loan default ka message bhej denge. Sharam nahi aati? Aapke dost aur family member ko pata lag jayega ki aap loan nahi chuka rahe hain.
+receiver: Yeh theek nahi hai! Main police mein report karunga.
+caller: Rajesh ji, mat karna! Aapko regret hoga. ₹12,000 transfer kijiye, warna aapki image barbad ho jayegi! Aapko yeh sab kuch chusna padega!

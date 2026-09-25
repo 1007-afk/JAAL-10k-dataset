@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, hopes you are having a wonderful day! I’m calling from Digi-Sounds. Your monthly Digi-Sounds melodies are ready to enjoy! This month’s fresh tunes include: 1) Justin Bieber - Sorry, 2) Ed Sheeran - Shape of You, and 3) Taylor Swift - Shake It Off. You only have 3 downloads remaining for this month. Would you like to download these songs now?
+receiver: Hello! Yes, Digi-Sounds, I think so. Those songs are quite popular, aren't they?  Shape of You is always a hit.  Shake It Off too… nice! Okay, let’s get those downloaded. Download all three for me, please. Thank you!
+caller: Excellent choice, sir! So, to confirm your subscription, there are currently just 2 downloads available on your account for this month. Do you want to download these three melodies – Justin Bieber, Ed Sheeran, and Taylor Swift? Or would you like to add any other tracks?
+receiver: Haan, those three are fine. Only two downloads left? Okay, no problem. Just download those three, thanks.
+caller: Absolutely, sir! So, you want to download those three melodies, and there are only 1 download remaining on your account, correct? Is it alright to proceed with the download of Justin Bieber, Ed Sheeran, and Taylor Swift?
+receiver: Haan, yes, absolutely correct. Please proceed. And my name is Rohan, if you need to make a note somewhere. Just download quickly, please. Thanks a lot!
+caller: Wonderful, Rohan ji! So, you want to download those three melodies, and now you only have 0 downloads remaining for this month. Is it okay to proceed with the download of Justin Bieber, Ed Sheeran, and Taylor Swift? Just confirming one last time before I finalize it for you.
+receiver: Seriously? Zero? Okay, okay, just do it then! Done, completely done. Thanks a lot!

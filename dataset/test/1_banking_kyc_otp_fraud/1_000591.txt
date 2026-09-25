@@ -1,0 +1,8 @@
+caller: Namaste sir, ye Maharashtra Gramin Bank ka manager bol raha hai. Apke PAN card ka validity expire ho gaya hai. Isliye aapko PAN verification karna hoga. Par COVID ki wajah se hum sirf online verification karte hain. Kya aap mujhe apne account details de sakte hain?
+receiver: Oh, okay. PAN card expire hua? Thoda confused hu mein. Account details kya requirement hai? Account number, Aadhaar card number… ya koi aur cheez?
+caller: Haan, account number, Aadhaar card number aur apka registration date. Ye sab details agar aap dene wala hain toh hum apki PAN verification jaldi kar denge.
+receiver: Okay, my account number hai 9876543211. Aadhaar card number hai 1234567890. Aur registration date hai 20th January 1992.  Ismein koi mistake nahi hai na?
+caller: Haan, ye details sahi hain. Dhanyavaad. Ab hum apki PAN verification kar rahe hain. Aapko ek OTP apke registered Aadhaar linked mobile number pe aayega. Woh OTP please bataiye taaki hum verification complete kar sakein.
+receiver: OTP? Haan, phone par aa raha hai… haan, mila. OTP hai 456789. Yeh bata doon toh confirm ho jayega?
+caller: Haan, yeh OTP sahi hai. Shukriya aapne madad ki. Aapki PAN verification ho gayi hai. Aapko bank se koi aur information chahiye kya?
+receiver: Nahin sir, bas is baat ka confirmation pucha tha. Dhanyavaad ji, aapne bahut madad ki. Shubh din!

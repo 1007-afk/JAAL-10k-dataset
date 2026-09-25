@@ -1,0 +1,7 @@
+caller: Namaste, sir? Ye Rupali Verma, PhonePe Customer Care se bol rahi hoon. Aapke PhonePe account mein ek suspicious login attempt aaya hai.
+receiver: Kya? Suspicious login? Kab aaya? Mere phone mein to koi notification nahi aaya.
+caller: Haan sir, kuch minute pahle hi. Hamara system ne detect kiya. Security ke liye, aapko apne account ko verify karna hoga.
+receiver: Verify? Kaise verify karna hai? OTP milega kya? Main PhonePe app mein login karta hoon, sab theek to dik raha hai.
+caller: Haan, OTP milega, lekin PhonePe app se nahi. Aapko ek link SMS se milega, us link pe click karke verify karna hai. Link pe click karke aapko ek form fill karna hai jismein aapka naam aur aadhaar number likhna hai.
+receiver: Aadhaar number? PhonePe customer care kabhi Aadhaar number manta hai? Yeh thoda ghalat lag raha hai. Main PhonePe ka official helpline number check karta hoon.
+caller: Sir, please jaldi karo. Yeh security protocol hai. Agar aap verify nahi karein toh aapka account block ho sakta hai aur aapka paisa bhi risk mein aa sakta hai. Form fill karna bahut aasaan hai. Bas naam aur aadhaar number likho, aur aapka account secure ho jayega.

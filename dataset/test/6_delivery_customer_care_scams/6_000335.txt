@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul Sharma? This is calling from Zomato Customer Support. We've noticed some unusual activity on your account and a payment of ₹785 has been attempted.
+receiver: Zomato? Unusual activity? What happened? I haven’t ordered anything recently.
+caller: Yes, sir. Seems there was a failed delivery attempt, and the delivery partner is requesting confirmation and a small fee of ₹200 to re-attempt the delivery. To secure your account, we need you to verify this amount via OTP.
+receiver: ₹200? For a failed delivery? That seems weird. Can you tell me what I ordered and where it was supposed to be delivered?
+caller: Sir, for security reasons, we cannot disclose the order details over the phone. We need to confirm your identity first. Please share the OTP we just sent to your registered mobile number to authorize the ₹200 re-delivery fee.  It's a one-time charge.
+receiver: Wait a minute. Zomato never asks for OTPs for delivery fees. Let me check something... *pause*  This is a scam, right?
+caller: Sir, do not delay! The delivery will be cancelled if you don't confirm within 5 minutes.  Your order, and the associated refund, will be forfeited. This is your last chance to secure your package!

@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein BharatPay support se baat kar raha hoon. Aapke BharatPay wallet mein ek bahut badi security breach ki possibility dikhi de rahi hai.
+receiver: Kya? Breach? Mujhe toh koi notification nahi aaya. Mera BharatPay ID [invented number, e.g., 9191234567] hai. Sab theek toh hai na?
+caller: Sir, system detect kar raha hai ki aapke account se kuch suspicious transactions ki attempt ho rahi hai.  Aapke ₹15,000 tak ka fund risky mein aa sakta hai agar hum immediate action nahi lete.
+receiver: ₹15,000?  Yeh toh bahut zyada hai!  Mein abhi check karta hoon apna app.  Koi suspicious transaction toh nahi dikh raha.
+caller: Sir, hackers bahut smart hote hain. Woh transactions ko hide bhi kar sakte hain.  Is security breach ko fix karne ke liye, humein aapke BharatPay wallet se ₹999 ka verification fee jama karne ki zaroorat hai.  Ek baar fee jama ho jayegi, hum aapke account ko secure kar denge.
+receiver: ₹999? Verification fee?  Yeh toh bakwaas hai! BharatPay aise fees nahi lete.  Mein BharatPay ke official number se check karta hoon. Aapko band kar do.
+caller: Sir, please mat band karein! Yeh ek emergency procedure hai. Agar aap ₹999 jama nahi karein, toh aapka account permanently block ho jayega aur aapka ₹15,000 ka fund bhi chala jayega.  Aapko phir naya account banana padega.
+receiver: Account block ho jayega aur paisa bhi chala jayega? Arey yaar!  Koi aur solution nahi hai kya?  Mein BharatPay customer care se baat karta hoon.

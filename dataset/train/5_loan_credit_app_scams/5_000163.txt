@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from QuickCash Solutions. We’ve noticed you applied for a loan recently. Just confirming your details – is this still the correct number, 9876543210?
+receiver: Haan, ji. Yes, this is my number. I did apply for a small loan a few days ago. What's this about?
+caller: Excellent! Your application is pre-approved for ₹15,000. To finalize the process and disburse the loan, we need a small processing fee of ₹1,500 upfront, which is standard procedure. Just transfer it to the UPI ID: quickcash.solutions@axisbank. Once received, your loan will be released immediately.
+receiver: ₹1,500? I don’t recall seeing anything about a processing fee when I applied. And why do I need to pay before I get the loan?
+caller: It's a security measure, madam, to prevent fraud. Many applicants try to misuse the system. This fee ensures your loan is legitimate. Don’t worry, it’s completely refundable even if you cancel. Please confirm the transfer so we can activate your loan. Otherwise, your approval will be revoked.
+receiver:  Okay, wait a second. I'm a bit unsure about this. Let me check the QuickCash Solutions website first. I’ll call you back after that.
+caller: Madam, you don’t have time to check! Our offers are time-sensitive. If you wait, the approval might expire. This is a fantastic opportunity to get quick cash. Quick action is required, otherwise you’ll miss out!  Just transfer the ₹1,500 now.

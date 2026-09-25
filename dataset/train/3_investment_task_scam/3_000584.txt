@@ -1,0 +1,9 @@
+caller: Namaste! Sir, speaking to Mr. Rajesh Sharma? This is regarding a new opportunity with GlobalTech Solutions.
+receiver: Haan, main Rajesh Sharma. Kya opportunity hai?
+caller: Sir, GlobalTech is partnering with several banks to verify user accounts. We need people to complete simple tasks – liking videos, rating apps – and you’ll be paid ₹50 for every 10 tasks. Very easy work, can be done from home.
+receiver: ₹50 per 10 tasks? Sounds too good to be true. How do you know I’m interested in this? Aur payment kaise hoga?
+caller: Sir, we saw your profile online and thought you'd be perfect. Payment will be through UPI, once you complete your tasks and submit proof. We’ll provide you with a unique task ID. Initially, you just need to complete 20 tasks to show you understand the process.
+receiver: Okay. Aur ye tasks kahaan mileinge? Aur proof submit karna kaise hoga? KYC details doongi kya?
+caller: Sir, the tasks are on a dedicated platform. We’ll send you the link and login details. For proof, you just need to send screenshots of completed tasks to our verification WhatsApp number - 98765-43210. No KYC is required initially.
+receiver: WhatsApp number? Ok, I'll check it out. But I'm still a little hesitant.
+caller: Sir, this is a limited-time offer! Don't miss out on this great opportunity to earn extra income. Start earning today! We can send you the link now?

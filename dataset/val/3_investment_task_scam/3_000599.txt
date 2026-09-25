@@ -1,0 +1,8 @@
+caller: Namaste! Kaise hain aap? Main Ankit se baat kar raha hoon, Global Fortune Solutions se. Aapko stock market mein interest hai na? Hum ek limited time offer rakhen hain hai, sirf selected customers ke liye.
+receiver: Namaste, Ankit ji. Global Fortune Solutions? Stock market mein interest toh hai, par risky lagta hai. Offer kya hai?
+caller: Haanji, bilkul! Yeh offer aapko sirf ₹5000 invest karne par 30% return dene ka guarantee karta hai, sirf ek week mein! Yeh ek naya AI trading platform hai, jisko hum test kar rahe hain. Risk bilkul zero hai, hum guarantee dete hain.
+receiver: ₹5000 par 30% return ek week mein? Yeh toh unbelievable lag raha hai. Koi hidden charges toh honge hi?
+caller: Bilkul nahi, sir! Koi charges nahi. Hum sirf limited accounts hi open kar rahe hain, check karne ke liye platform kitna efficient hai. Aap jaldi karein, offer abhi khatam hone wala hai. Aapka account details share karein, mai aapke liye process start kar dunga.
+receiver: Wait, wait... Aapka company registration number kya hai? Aur mai KYC kaise karunga? Mujhe kuch proof chahiye ki aap genuine hain.
+caller: Registration number? Haan, woh main aapko baad mein send karunga. KYC ke liye, aapko sirf ek small verification fee pay karna padega, ₹500. Yeh humara security protocol hai. Jab aap invest kar lenge toh fee refund ho jayegi. Jaldi karo, sir, time guzar raha hai!
+receiver: ₹500 verification fee? Suno, mujhe lagta hai yeh kuch gadbad hai. Mai nahi karunga.

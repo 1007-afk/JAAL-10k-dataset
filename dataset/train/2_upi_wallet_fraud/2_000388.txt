@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Airtel Payments Bank se Rohan bol raha hoon. Aapke Airtel Payments Bank account mein ek suspicious transaction detect hua hai.
+receiver: Kya suspicious transaction? Mujhe to kuch pata nahi hai.
+caller: Haan Aunty, ek bahut hi choti amount, sirf ₹5, aapke account se gaya hai. Security ke liye, humein aapka account verify karna hai. Thoda sa OTP verify karwa len.
+receiver: ₹5 gaya? Aur verify kyu karna padega? Mai toh bilkul bhi use nahi karti Airtel Payments Bank.
+caller: Aunty, ye fraudster aapke account se aur transactions bhi kar sakte hain. Hamara responsibility hai ki hum aapko secure rakhein. Sirf ek OTP check karwa len, bas. Main aapko OTP SMS kar dunga.
+receiver: OTP? Nahin, main koi OTP nahi dungi. Airtel Payments Bank wale toh khud SMS karte hain. Tum kon ho?
+caller: Aunty, main Rohan, Airtel Payments Bank verification team se. Agar aap OTP nahi denge toh hum aapke account ko temporarily suspend karna padega, security ke liye.
+receiver: Account suspend? Theek hai, main call cut kar rahi hoon. Tum log scammer ho.

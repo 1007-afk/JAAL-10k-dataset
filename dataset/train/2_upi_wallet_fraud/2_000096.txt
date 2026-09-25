@@ -1,0 +1,9 @@
+caller: Namaste! Main Paytm se Rahul bolta hoon. Aapke Paytm wallet mein ek suspicious transaction ka attempt kiya gaya hai.
+receiver: Kya? Kisne attempt kiya? Aur kitmana transaction tha?
+caller: Woh dekhna padega, sir. Security ke liye, humein aapke wallet details verify karne hain.  Aapka registered phone number bataiye ek baar.
+receiver: Haan, mera phone number 9876543210 hai. Par yeh suspicious transaction kitna tha?
+caller: Sir, ₹10,000 ka attempt tha.  Agar aap isko block karna chahte hain, toh aapko ₹500 verification fee bhar deni hogi. Paytm wallet se hi aapka account secure ho jayega.
+receiver: ₹500?  Verify karne ke liye ₹500?  Yeh toh thoda zyada lag raha hai.
+caller: Sir, yeh ek emergency measure hai.  Agar aap ₹500 fee deposit nahi karenge, toh aapke account mein se ₹10,000 nikal liye jayenge.  Aapko ek UPI ID dunga, wahan pay kardo.
+receiver: Theek hai, theek hai. UPI ID do.
+caller: UPI ID hai: paytmverify@hdfcbank.in.  Jaldi karo, sir. Time kam hai.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Delhi Customs Department. We have a serious issue regarding a parcel registered under your name, tracking ID DC789234. It appears to contain prohibited items linked to a money laundering investigation.
+receiver: Kya? Parcel? Mujhe toh koi parcel nahi mila. Main toh Rajesh Khanna hoon.
+caller: Mr. Khanna, this is not a matter to be taken lightly. The parcel originated from Dubai and was intercepted at Indira Gandhi International Airport. To avoid further legal complications and potential arrest, you need to cooperate fully. We require a small settlement fee of ₹50,000 to clear the matter and prevent a formal investigation. Please transfer to the account number given.
+receiver: ₹50,000? Yeh toh bahut zyada hai! Main lawyer se baat karunga. Koi arrest warrant toh nahi hai na?
+caller: Mr. Khanna, delaying this will only worsen the situation. We have video evidence and witness statements linking the parcel to you. To protect yourself and your family, it’s crucial you settle this quickly. We’re initiating a video call to verify your identity and discuss the payment process - please have your ID ready. The number is 9876543210.
+receiver: Video call? Main toh nahi karunga. Yeh scam lag raha hai.
+caller: Mr. Khanna, are you refusing to cooperate with a government investigation? This is a very serious offense and will have severe consequences. To expedite the process, please transfer the amount immediately and call us back. We are waiting for your call, 9876543210.
+receiver: Theek hai, theek hai... Main dekh leta hoon. (Hangs up)

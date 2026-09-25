@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Axis Bank se Rohan bol raha hoon. Aapke naam par ek credit card apply kiya gaya hai, lekin verification pending hai.
+receiver: Haan, bolo. Verification ke liye kya karna hai?
+caller: Sir, security purpose ke liye, aapko apne registered mobile number par ek OTP mila hoga. Woh OTP mujhe bataiye.
+receiver: Thoda wait karo, dekhu… Haan, mila OTP. 482915.
+caller: Shukriya sir, 482915. Ab, aapke naam par ek karz ke liye request aa rahi hai. Kya aapko is bare mein pata hai? Amount 25,000 hai.
+receiver: Karz? Nahi, maine koi request nahi ki hai!
+caller: Sir, is transaction ko rokne ke liye, humein aapki bank account details ki zaroorat hai. Account number aur expiry date bataiye, taaki hum transaction block kar sake. Jaldi karo, sir!
+receiver: Nahin, main account details nahi dunga! Yeh scam lag raha hai!
+caller: Sir, aap apni security hi compromise kar rahe hain. Account suspend ho jayega, aur phir aap kuch bhi nahi kar payenge. Please, just the details.

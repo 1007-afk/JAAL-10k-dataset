@@ -1,0 +1,8 @@
+caller: Hello? Main Inspector Sharma, Delhi Police se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin customs clearance mein kuch problems hain.
+receiver: Parcel? Mujhe toh koi parcel expect nahi tha. Kya hai andar?
+caller: Woh confidential hai, madam. Lekin parcel mein illegal documents mili hain, jo drug smuggling se linked hain. Aapko police station mein aana hoga, ya hum aapke ghar aa sakte hain.
+receiver: Illegal documents? Drug smuggling? Yeh kya bol rahe hain aap? Meri toh koi involvement nahi hai.
+caller: Madam, yeh serious matter hai.  Aapko 25,000 rupaye fine bharvana padega, tak yeh matter settle ho jaaye.  Aap Google Pay ya PhonePe se pay kar sakte hain.  Yeh just a temporary security deposit hai.
+receiver: 25,000 rupaye? Par main toh kuch bhi nahi kiya! Aur Google Pay se payment? Aap kaise jaante ki mein Google Pay use karta hoon?  Yeh toh scam lag raha hai!
+caller: Madam, aap time barbaad kar rahi hain.  Agar aap payment nahi karte, toh humko arrest warrant nikalna padega. Abhi payment karo, otherwise it will be very difficult for you.
+receiver: Yeh bakwaas hai!  Main police station mein complaint karungi!  Aur phone kat hi deta hoon!

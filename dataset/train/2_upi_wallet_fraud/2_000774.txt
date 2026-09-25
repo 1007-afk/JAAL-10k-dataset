@@ -1,0 +1,6 @@
+caller: Hello sir, this is Rupali from MobiCash customer service. We’ve noticed unusual activity on your MobiCash wallet and need to verify it immediately.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, there was a small transaction of ₹200 to an unknown account. To protect your funds, we need to confirm you authorized this. We just need to confirm a few details.
+receiver: ₹200? I definitely didn’t authorize anything. What details do you need? And why aren’t you sending this through the app itself?
+caller: Sir, for security purposes, we conduct this verification over the phone. I need your MobiCash UPI PIN to confirm you’re the account holder. It's a quick process, just four digits.
+receiver: My UPI PIN? Over the phone? That sounds very risky. Why can't I verify this through the MobiCash app itself like they always tell you to do? I think this is a scam.

@@ -1,0 +1,16 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, hello. HDFC? Debit card? Dekhte hain. Mobile number toh hai, lekin PAN card abhi nahi hai, woh office mein hai. Kya koi aur call kar sakta hai?
+caller: Koi problem nahin sir, aap jald hi call karenge. Mein aapko timings de dunga jab main aapko call karunga. Aapka naam bataa sakte hain?
+receiver: Haan, main Jaipur mein hoon. Yahaan chote saare business meeting hain. Time ka hisabaan kar ke call karo. Mera naam Vikram hai.
+caller: Ji sir, Vikram ji. Jaipur mein abhi around 3 PM ka time hai. Naam Vikram hai, yeh record kar li hai. Shubh kaam karein.
+receiver: Theek hai, thanks. Main kal raat ko call karte hain. Bye.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, hello. HDFC? Debit card? Dekhte hain. Mobile number toh hai, lekin PAN card abhi nahi hai, woh office mein hai. Kya koi aur call kar sakta hai?
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, hello. HDFC? Debit card? Dekhte hain. Mobile number toh hai, lekin PAN card abhi nahi hai, woh office mein hai. Kya koi aur call kar sakta hai?
+caller: Koi problem nahin sir, aap jald hi call karenge. Mein aapko timings de dunga jab main aapko call karunga. Aapka naam bataa sakte hain?
+receiver: Haan, main Jaipur mein hoon. Yahaan chote saare business meeting hain. Time ka hisabaan kar ke call karo. Mera naam Vikram hai.
+caller: Ji sir, Vikram ji. Jaipur mein abhi around 3 PM ka time hai. Naam Vikram hai, yeh record kar li hai. Shubh kaam karein.
+receiver: Theek hai, thanks. Main kal raat ko call karte hain. Bye.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, hello. HDFC? Debit card? Dekhte hain. Mobile number toh hai, lekin PAN card abhi nahi hai, woh office mein hai. Kya koi aur call kar sakta hai?

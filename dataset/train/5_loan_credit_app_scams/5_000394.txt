@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from QuickCash Solutions. We’ve pre-approved you for a personal loan of ₹50,000 with a very low interest rate. Just need to verify a few details.
+receiver: Oh, really? That’s… surprising. I wasn't really looking for a loan. What details do you need?
+caller: Just your occupation and a small processing fee of ₹2,500 to activate the loan. We’ll transfer the ₹50,000 to your account immediately after that. It's a standard procedure. You can send it to UPI ID: quickcash.pay.
+receiver: ₹2,500 upfront? That sounds a bit strange. Why do I have to pay before I get the loan?
+caller: Priya ji, it's to ensure you are a genuine applicant and to avoid fraud.  We have many applicants, and this is our verification process. Once you pay, the loan is yours instantly. Don't miss this great opportunity!  Think of what you can do with that extra money.
+receiver: Okay, I’ll… I’ll check with someone first. It just feels a little risky.
+caller: Priya ji, please understand, this offer is time-sensitive. If you don't pay the fee now, the approval will expire, and you'll have to reapply, and the interest rate might be higher.  Don't let this opportunity slip away. The UPI ID is quickcash.pay. We're here to help you achieve your financial goals!

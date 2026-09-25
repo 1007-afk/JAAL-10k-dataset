@@ -1,0 +1,10 @@
+caller: Namaste, sir? Main calling karta hoon Indian Customs se. Aapke naam par ek parcel aaya hai Ahmedabad customs warehouse mein.
+receiver: Parcel? Mujhe koi parcel nahi mila.
+caller: Ji haan, sir. Parcel mein suspicious items mile hain - illegal drugs ke indications hain. Case number is IND-CUSTOMS-2024-487.
+receiver: Drugs? Mein toh kabhi drugs nahi li. Yeh galat hai.
+caller: Sir, aapko video call pe aana hoga CBI officer se baat karne ke liye. Warna case register ho jayega aur aapko arrest bhi kiya jayega.
+receiver: Arrest? Mein kaha jaunga?
+caller: Sir, video call ke liye, aapko ₹10,000 deposit karna hoga. Aabhi, bank transfer karo. Account number mein send kar dijiye.
+receiver: ₹10,000?
+caller: Sir, urgent hai. Iska bina aapko legal problems mein phas jaayenge.
+receiver: Mein… Mein baat karta hoon.

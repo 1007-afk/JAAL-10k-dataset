@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohit hai, Flipkart Customer Care se. Aapke naam par ek parcel aaya hai, lekin address verification ke chakkar mein thoda ruk gaya hai.
+receiver: Oh, really? Which item is it? I haven't ordered anything recently, but let me check. My name is Anjali.
+caller: Ji, ye ek smart watch hai, XYZ brand ka. Value ₹8,500 tak hai.  Verify karne ke liye, mujhe OTP chahiye jo aapko Flipkart se SMS se milega.
+receiver: A smart watch? I’m sure I didn’t order that. Are you sure it’s for Anjali Sharma? And why do I need to give you an OTP? That seems a little strange.
+caller: Haan, Anjali Sharma, woh address match ho raha hai. OTP sirf verification ke liye hai, security ke liye. Agar OTP nahi milega toh parcel wapas bhej denge. Please, jaldi karo, offer sirf aaj tak hai.
+receiver: Wait a minute. I’m calling Flipkart's official number to double-check. Just one moment.
+caller:  Aapko koi offer nahi chahiye Anjali ji? Jab parcel aapke haath mein aayega toh aapko bohot khushi hogi!  Abhi OTP send karo, warna parcel wapas ho jayega, and you'll miss out.

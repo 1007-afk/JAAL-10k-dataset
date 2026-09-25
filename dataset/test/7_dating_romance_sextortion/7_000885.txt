@@ -1,0 +1,9 @@
+caller: Hi there! My name’s Arjun, I saw your profile on SparkConnect and thought you looked really lovely. Just wanted to say hello and see if you’re open to chatting.
+receiver: Hello Arjun! Thanks for the message. It’s nice to hear from you. I'm enjoying SparkConnect so far.
+caller: That's wonderful! I’m having a great time too. Just feeling a little lonely here in Dubai with work. It's crazy busy, but I'd love to unwind and talk to someone special. I'm actually working on a big construction project here - it's pretty exciting!
+receiver: Dubai sounds fascinating! Construction projects must be demanding. What kind of work do you do exactly?
+caller: I'm a project manager. Long hours, but the pay is good, alhamdulillah. Listen, I’ve been thinking… my sister's wedding is next month back in Delhi, and I'd absolutely love for you to be there. It would mean so much to me to have someone special by my side. I could send you a ticket, of course.
+receiver: That's a really lovely thought, Arjun. But a trip to Delhi seems a bit sudden. It's a significant commitment, and I’d need to think about it properly. How much would the ticket cost, roughly?
+caller: Don't worry about that! Consider it a gift. It’s around ₹25,000 - 30,000, but I want you there, that’s all that matters. I just need your bank details so I can quickly transfer the money for the ticket. It'll be easiest that way.
+receiver: My bank details? Arjun, that sounds a little strange. I'm not comfortable sharing those so quickly.
+caller:  I understand your concern, but I assure

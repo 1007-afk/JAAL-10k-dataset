@@ -1,0 +1,8 @@
+caller: Namaste, main Paytm se bol raha hoon. Aapke Paytm wallet mein cashback offer aa rahi hai, ₹5000 tak ki shopping par.
+receiver: ₹5000 cashback? Really? Mujhe toh notification nahi aaya.
+caller: Ji, woh sirf limited customers ke liye hai. Verify karne ke liye, aapko apna OTP dena hoga. Woh Paytm system se automatically verify ho jayega.
+receiver: OTP? Par, Paytm toh kabhi bhi OTP maangta nahi hai aise offers ke liye. Ye theek lagta nahi hai.
+caller: Sir, security ke liye hai. Hamara system check karta hai ki aap hi sahi account holder hain. OTP dene mein koi nuksaan nahi hai. Aur cashback aapko pata hi chalega.
+receiver: Okay, theek hai. OTP hai 456789.
+caller: Shukriya sir. Ab aapka account verify ho gaya hai. Ab aapko ₹1000 processing fee dena padega, tab cashback activate hoga.
+receiver: ₹1000 processing fee? Arey, yeh toh phir scam hai! Paytm aise fees nahi leta.

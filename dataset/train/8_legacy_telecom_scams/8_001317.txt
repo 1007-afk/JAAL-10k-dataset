@@ -1,0 +1,17 @@
+caller: Hello! Am I speaking with Priya Sharma? This is Rohan from Lucky Trivia Daily. I’ve got a quick quiz for you today that could win you a brand new Samsung Galaxy Tab! Are you ready?
+receiver: Hello Rohan! Actually, my name is Kavita Patel, not Priya Sharma. Yes, a Samsung Galaxy Tab sounds fantastic! Please tell me more.
+caller: Sorry about that, Kavita! My system has some issues sometimes. Okay, so here’s the question to win that shiny Samsung Galaxy Tab: What was the capital city of Nepal during the Rana dynasty? Text your answer to 67890. It's just ₹2.00 to participate. What do you say?
+receiver: Nepal and the Rana dynasty… That’s quite historical. I don’t recall specifically. Can you give us a little clue, Rohan? Maybe something about its location?
+caller: Absolutely! The city was located near the foothills of the Himalayas. Think high altitude, beautiful mountains. Does that jog your memory, Kavita?
+receiver: High altitude, Himalayas… Is it Kathmandu? Or Pokhara? Please just give me a hint, Rohan, I really want that tablet!
+caller: You’re getting warmer! This city was known for its ancient temples and palaces. It was also a major trading hub. Any ideas now, Kavita?
+receiver: Ancient temples and palaces… Hmm, Kathmandu definitely fits that description! I’m going to guess Kathmandu. Let’s see if I’m right, even if I’m wrong, the tablet is worth it!
+caller: Hello! Am I speaking with Amit Kumar? This is Suresh from Mega Fortune Quiz Now. I have an exciting question for you today that could win you a brand new Apple iPad Pro! Ready to test your knowledge?
+receiver: Hello Suresh! No, my name is Neha Singh, not Amit Kumar. An Apple iPad Pro – that’s tempting! Tell me more about this quiz.
+caller: Apologies, Neha, there seems to be a slight error. Don't worry about it! Here’s the question to win that incredible Apple iPad Pro: During which year did India gain independence? Text your answer to 98765. It's only ₹3.00 to enter. How does that sound?
+receiver: India gaining independence… That’s a significant date. I’m not entirely sure. Could you provide a small hint, Suresh? Something relating to the political climate at the time?
+caller: Certainly! The year was 1947. It was a pivotal moment in Indian history, marking the end of British rule. Did that help you remember, Neha?
+receiver: 1947… Right! Of course! That's the answer. But can you still give me a little more context, Suresh? Like, who was involved?
+caller: Precisely! It was achieved through negotiations led by Mahatma Gandhi and Jawaharlal Nehru. It was a long and arduous struggle. Do you remember anything about those figures, Neha?
+receiver: Gandhi and Nehru… Yes, they were key figures. Okay, I’m confident in my answer. I believe it’s 1947. I hope I’ve won the iPad Pro!
+caller: Wonderful! You are absolutely correct, Neha! Congratulations! Your Apple iPad Pro will be shipped to your address shortly. Thank you for playing with Mega Fortune Quiz Now!

@@ -1,0 +1,16 @@
+caller: Main calling from Reliance Jio. Aapka mobile recharge plan badhi hai, and humko aapke account mein kuch update karne hain. Aap mujhe apna mobile number bata sakte hain?
+receiver: Haanji, batao kya update karna hai? Mobile number batao, wait karte hain. Mobile number mera paas hai, likh do [invented mobile number, e.g., 9876 5432 1098]. Kya update karna hai mujhe bataiye.
+caller: Ji haan, thanks. Hmm, 9876 5432 1098.  Ek second, mujhe yeh verification ke liye aapke mobile number ka OTP bhi chahiye hoga. Kya pata aapko mila tha?
+receiver: OTP? Haanji, OTP deta hoon. 567890. Bas itna hi tha, yaani OTP jo mila tha.
+caller: Haanji, OTP mila.  Hmm, 567890.  Aapke account mein abhi data update hone laga hai.  Aapko recharge ka confirmation message mil jayega.
+receiver: Yaar, message nahi aaya. Recharge complete nahi hua.  Aapne mujhse kuch wrong kiya hai.  Aap phir se apna question puch sakte hain?
+caller: Arre nahi bhai, technical issue aa gaya hoga.  Main wahi dobara pooch raha tha.  Aapka OTP 567890 tha, right?  Koi tension mat le, hum bas confirm kar rahe the.
+receiver: Okay, 567890 hi OTP tha.  Acha, toh sab theek hai na phir? Koi dangerous alert toh nahi hai?
+caller: Main calling from Reliance Jio. Aapka mobile recharge plan badhi hai, and humko aapke account mein kuch update karne hain. Aap mujhe apna mobile number bata sakte hain?
+receiver: Haanji, batao kya update karna hai? Mobile number batao, wait karte hain. Mobile number mera paas hai, likh do [invented mobile number, e.g., 9876 5432 1098]. Kya update karna hai mujhe bataiye.
+caller: Ji haan, thanks. Hmm, 9876 5432 1098.  Ek second, mujhe yeh verification ke liye aapke mobile number ka OTP bhi chahiye hoga. Kya pata aapko mila tha?
+receiver: OTP? Haanji, OTP deta hoon. 567890. Bas itna hi tha, yaani OTP jo mila tha.
+caller: Haanji, OTP mila.  Hmm, 567890.  Aapke account mein abhi data update hone laga hai.  Aapko recharge ka confirmation message mil jayega.
+receiver: Yaar, message nahi aaya. Recharge complete nahi hua.  Aapne mujhse kuch wrong kiya hai.  Aap phir se apna question puch sakte hain?
+caller: Arre nahi bhai, technical issue aa gaya hoga.  Main wahi dobara pooch raha tha.  Aapka OTP 567890 tha, right?  Koi tension mat le, hum bas confirm kar rahe the.
+receiver: Okay, 567890 hi OTP tha.  Acha, toh sabtheek hai na phir? Koi dangerous alert toh nahi hai?

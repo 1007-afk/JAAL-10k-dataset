@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mai Reliance Jio se Rahul Sharma bol raha hoon. Aapke naam par ek delivery package aaya hai, lekin address verification ke liye kuch information chahiye.
+receiver: Haan, theek hai. Kya package mein? Mujhe koi order yaad nahi aa raha.
+caller: Package mein ek smart watch hai, sir. Value ₹7,800 hai. Delivery boy aapke address par aa raha hai, lekin security protocol ke wajah se verification zaroori hai. Aapka OTP share karein, please.
+receiver: OTP? Mereko kuch shaq ho raha hai. Reliance Jio toh SMS se hi confirm karta hai.
+caller: Sir, ye new protocol hai, security ke liye. OTP se hum confirm kar sakte hain ki aap hi genuine receiver hain. Bas ek minute, sir. Fast do, otherwise delivery ho jayegi.
+receiver: Okay, the OTP is 123456. Par mujhe woh watch nahi chahiye thi.
+caller: Thank you, sir! Ab aapko ₹500 ka delivery charge pay karna padega. Payment karne ke liye is link par click karein: [suspicious link]. Jaldi karein, sir!

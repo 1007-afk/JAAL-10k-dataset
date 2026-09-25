@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? This is Inspector Verma from the Cyber Crime Investigation Cell, Delhi. We've detected some suspicious online transactions linked to your bank account.
+receiver: Cyber Crime? What transactions? I haven’t done anything unusual.
+caller: Sir, our systems flagged several large transfers to an offshore account in the Cayman Islands. It appears your account is being used for money laundering activities related to an international drug cartel.
+receiver: What? This is ridiculous! I don’t know anything about this. I have a small business; these must be mistaken transfers. Can you tell me the dates and amounts?
+caller: Sir, we cannot disclose sensitive details over an unsecured phone line. However, to clear this up quickly and prevent further legal action, we need to verify your account details and process a small refundable security deposit of Rs. 5000 to confirm your identity.
+receiver: Rs. 5000? Over the phone? Inspector, this sounds like a scam. Why can’t I go to your office and sort this out? I’m very suspicious.
+caller: Sir, our office is extremely busy dealing with numerous cases. This process is designed for immediate resolution. If you don't cooperate, we'll have to escalate this to the higher authorities, and you could face arrest and significant fines. You'll be put on video call too, to make sure you don't contact anyone to interfere. Please, just provide the details, and we can close this matter quickly.

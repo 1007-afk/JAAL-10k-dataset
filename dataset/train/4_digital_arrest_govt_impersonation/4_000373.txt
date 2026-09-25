@@ -1,0 +1,7 @@
+caller: Namaste ji, main CBI ke Inspector Sharma bol raha hoon. Aapke naam pe ek bahut bada case hai. Drug trafficking ka.
+receiver: Ji, Inspector Sharma, namaste. Kaise ho? Kya case hai?
+caller: Aapko video call karke sab samjhane do, warna police station aaenge aur aapko arrest kar denge. Kuch paisa dein aur yeh case clear ho jayega. 5 lakh rupay dein.
+receiver: 5 lakh rupay? Kaise? Mera kya role hai? Main kya kar raha hoon jo isme naam le?
+caller: Aapko yeh case clear karne ke liye technically help karna hai. Yeh online transaction hai, aapko money transfer karna hai. Video call open karein.
+receiver: Nahin, main koi transaction nahin karunga. Police ko bataunga aapko. Aap CBI ke office mein aao.
+caller: Nahin, time nahi hai. Agar aapko save honi hai toh abhi money transfer karein. Iska koi trace nahi hoga.

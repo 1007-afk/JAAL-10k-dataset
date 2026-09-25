@@ -1,0 +1,16 @@
+caller: Namaste ji, main Rahul Kumar hu. Aapke SBI account mein ek urgent notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main SBI ki customer service se baat kar raha hun. Aapke account mein ek suspicious transaction dekha gaya hai. Kya aapko thoda time mil sakta hai?
+receiver: Haanji, Rahul ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Sach mein, humne aapke account mein kuch unexpected movement dekhe hain. Security ke liye, humein kuchh information check karna hoga. Kya aap apni ATM card ke PIN number ko confirm kar sakte hain?
+receiver: Acha? Unexpected movement? PIN number?  Main itna sensitive information kyun de doon?  Dekhiye, mujhe koi PIN number bataane wala nahi hoon. Kya aap thoda wait kar sakte hain? Main cheque dekh kar batata hoon?
+caller:  Problem, sir. Aise nahi karna hai. Aapko secure website par jana hai. Main aapko ek special link bhejna chahta hun. Isse aap apne details easily verify kar sakte hain.  Aapko kya lagta hai, yeh bahut convenient hai na?
+receiver: Secure website? Link? Aisa bilkul nahi ho sakta, Rahul ji. Bank kabhi bhi aise links nahi bhejana karta. Yeh toh lag raha hai koi bakwaas hai. Aapko koi link nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye.  Apsara kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.
+caller: Namaste ji, main Rohan Patel hu. Aapke HDFC account mein ek important alert hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main HDFC bank ki security team se baat kar raha hun. Aapke account mein ek unauthorised transfer dekha gaya hai. Kya aapko thoda time mil sakta hai?
+receiver: Haanji, Rohan ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Sach mein, humne aapke account mein ek unusual transaction dekha hai, jaise koi fraud attempt hui hai. Security ke liye, humein aapki mobile number verify karne hogi. Kya aap apni mobile number confirm kar sakte hain?
+receiver: Acha? Unauthorised transfer? Mobile number? Main itni early mobile number kyun de doon? Dekhiye, mujhe koi number bataane wala nahi hoon. Kya aap thoda wait kar sakte hain? Main account statement dekh kar batata hoon?
+caller: Problem, sir. Aise nahi karna hai. Aapko secure portal par jana hai. Main aapko ek special link bhejna chahta hun. Isse aap apne details easily verify kar sakte hain. Aapko kya lagta hai, yeh bahut speedy hai na?
+receiver: Secure portal? Link? Aisa bilkul nahi ho sakta, Rohan ji. Bank kabhi bhi aise links nahi bhejeta. Yeh toh lag raha hai koi ghatiya baat hai. Aapko koi link nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye. Apsara kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

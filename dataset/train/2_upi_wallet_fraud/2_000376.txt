@@ -1,0 +1,7 @@
+caller: Namaste! Mein Rahul bolta hoon, Freecharge customer care se. Aapko Cashback offer mein ₹5000 jeete hain!
+receiver: ₹5000? Freecharge se? Mujhe toh koi notification nahi aaya.
+caller: Haan, yeh ek special offer hai sirf select customers ke liye. Cashback claim karne ke liye, aapko bas ek small processing fee bhar deni hogi – sirf ₹150.
+receiver: ₹150 fee? Cashback ke liye? Itna costly toh hai!
+caller: Ji, sir. Yeh fee security verification ke liye hai. Aapko ek OTP milega, woh OTP humein bataiye. ₹5000 aapke Freecharge wallet mein deposit ho jayega.
+receiver: OTP? Mere number par OTP kaise aayega? Aur Freecharge mein toh aise verification process nahi hai.
+caller: Sir, system mein technical issue aa gaya hai. Aapko ₹150 fee deposit ke liye OTP milega. Aapko ₹5000 ka guarantee hai. Please bataiye OTP number?

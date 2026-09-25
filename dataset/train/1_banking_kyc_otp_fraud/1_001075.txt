@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Neeraj bolta hoon. Aapke naam par ek transaction hua hai, jo suspicious lag raha hai.
+receiver: Axis Bank? Kya transaction hua? Mujhe to kuch pata nahi hai.
+caller: Haan sir, ₹12,000 ka transaction Amazon Pay se hua hai. Aapne verify nahi kiya? Account secure karne ke liye kuch details chahiye hongi.
+receiver: ₹12,000 Amazon Pay pe? Mujhe toh Amazon pe zyada dealing nahi hai. Account number bata sakte hain? Aur aap kaise confirm karenge ki aap Axis Bank se hi bol rahe hain?
+caller: Sir, account number dene se aapko koi nuksan nahi hoga. Account secure hone ke baad, aap Amazon Pay se transaction history check kar sakte hain. Main aapko OTP bhej raha hoon, usko verify kar lijiye.
+receiver: OTP? Par yeh Amazon Pay ka transaction hai, aap OTP kyun maang rahe hain? OTP toh Amazon se hi aana chahiye tha, na?
+caller: Sir, security ke liye humein OTP verify karna padta hai. Aapko ₹12,000 ka loss hone se bachana hai. Thoda wait kijiye, mai aapko ek secure link bhej raha hoon.

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from PhonePe security. We're calling about unusual activity on your PhonePe account – a small amount was attempted to be transferred to an unknown number.
+receiver: PhonePe? Haan, main Mrs. Verma hoon. Woh kaise? Mujhe toh koi notification nahi aaya. Kya hua?
+caller: Ma'am, it's a potential fraud attempt. To secure your account, we need to quickly verify some details. Can you please tell me the last three digits of the bank account linked to your PhonePe wallet? Just to confirm it’s you.
+receiver: Bank account ke digits? Kyun bataoon? PhonePe se aise number pe paise nahi jaate. Yeh toh fraud lag raha hai. Tum kon ho?
+caller: Please don’t worry, ma'am. We’re just following protocol. There's a pending transaction of ₹50, and if we don’t verify quickly, it could go through. We need to reactivate your UPI pin immediately. Just tell me the last three digits and I’ll guide you through the process to reset it.
+receiver: ₹50? Itna kam? Aur pin reset karne ke liye bank ke number ki zarurat hai? Mujhe doubt ho raha hai. Tumhara voice bhi theek nahi lag raha.
+caller: Ma'am, time is crucial. If you don’t do this now, the fraudulent transaction will complete. I understand your hesitation, but we are doing this to protect your money. Just the last three digits, please. I’ll then send you a link to reset your pin through our secure portal.
+receiver: Okay, fine. But I am reporting this. It's 456.
+caller: Thank you, ma'am. Now, please click on this link: bit.ly/phonepe-secure-update.

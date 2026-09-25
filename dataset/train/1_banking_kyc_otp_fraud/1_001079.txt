@@ -1,0 +1,7 @@
+caller: Namaste, main Ankit, Axis Bank se baat kar raha hoon. Aapke naam par ek high-value transaction attempt kiya gaya tha, lekin verification ke bina reject ho gaya.
+receiver: Haan, theek hai. Kya hua? Transaction kitne ka tha?
+caller: ₹18,000 ka tha, sir. Account secure karna hai aur transaction block karna hai, isliye call kar raha hoon. Aapko apne account details confirm karne hain.
+receiver: Account details? Mujhe toh koi transaction yaad nahi. Aur bank toh SMS karta hai, call nahin karta.
+caller: Sir, system mein security upgrade chal raha hai. Isliye call kar rahe hain. Aapka Aadhaar card ka last 4 digits bataiye, please, sirf verification ke liye.
+receiver: Aadhaar number? Nahi, main Aadhaar number phone pe nahin bata sakta.
+caller: Sir, urgent hai! Account suspend ho sakta hai. Just last 4 digits. Jab tak aap verify nahin karte, transaction block nahi hoga.

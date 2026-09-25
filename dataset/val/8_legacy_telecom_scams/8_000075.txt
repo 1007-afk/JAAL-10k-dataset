@@ -1,0 +1,9 @@
+caller: M? Kaise ho? Main Sanjay Sharma, Digi Fortune Company se bol raha hu. Tumhara number Digi Fortune’s special lottery draw mein aaya hai aur tumhein ₹15,00,000 ka prize mili hai! Haan, ₹15 lakh! Aur saath mein ₹50,000 ka bonus cheque bhi!
+receiver:  Haan, sunaa de. Digi Fortune Company se? ₹15 lakh? Wah, yeh toh bahut badi amount hai! Aur ₹50,000 ka bonus cheque bhi?  Koi charges nahi?  9876543210, okay. Bank account details ready hain. Account number aur IFSC code batao.
+caller:  Bahut sundar!  Aapka account number hai 1234567890123456 aur IFSC code hai HDFC000034.  Yeh code aur number note kar lein.  Humare representative aapko call karenge aur aapko prize money transfer ke liye kuch steps follow karne diyeगें.  Don't worry, yeh puri process legal hai.
+receiver:  1234567890123456 aur HDFC000034… okay.  Phir woh representative call karenge?  Kab tak wait karna hoga?
+caller:  Saare cases mein, response milne mein 3-5 business days lagehenge.  Par tum jitni jaldi call karenge, utni jaldi tumko confirmation milega.  Isliye, abhi call karna shuru karo helpline number par.  Aur haan, yeh Digi Fortune Company ka official helpline number hai, don’t worry about anything.
+receiver:  Okay, 3-5 days.  Main abhi helpline number par call karungi. Dhanyavaad!
+caller:  Welcome!  Aapki success ka wish!  Ji nahin, hum aapko help karte rahange.  All the best!
+receiver:  Thank you! Bye!
+caller:  Bye bye!

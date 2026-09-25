@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main Airtel fraud detection department se bol raha hoon. Apki Airtel SIM card par ek suspicious transaction hua hai, ₹5000 ka. Aapne kiya tha ya nahin?
+receiver: ₹5000? Nahin, sir. Main toh aaj tak ₹5000 ka bhi transaction nahi kiya. Kya hua?
+caller: Sir, dekhiye, ₹5000 ka transaction Nepal mein hua hai. Abhi, Nepal mein se aapke account ka misuse kiya ja sakta hai. Hamko aapke bank account ki security ke liye kuch details confirm karni padegi. Aapka bank ka naam kya hai?
+receiver: Bank ka naam? Yeh kitna serious hai? Mujhe bank ka naam phone par nahi dena chahiye. Yeh theek nahi lag raha hai.
+caller: Sir, aapko samajhni chahiye ki aapke account mein se paisa nikal sakte hain. Jaldi karo. Iska kuch aur tareeka nahi hai. Main aapko ek OTP bheju, woh check karna. Aapka account number bataiye, last 4 digits ka.
+receiver: OTP? Account number? Sir, yeh toh scam lag raha hai. Main police mein report karunga. Aapko kuch bhi nahi milega.

@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mera naam Amit Verma hai, Axis Bank se bol raha hoon. Aapke Axis Bank account mein security breach ka attempt hua hai. Aapko urgent verification karna hoga.
+receiver: Kya? Security breach? Mujhe toh kuchh pata nahi. Mere account mein paise safe hain na?
+caller: Sir, exactly! Paise safe rakhne ke liye, humein kuch details verify karne hain. Agar verification nahi kiya toh account suspend ho sakta hai. Pehle bataiye, aapke ATM card ka last four digits kya hain?
+receiver: ATM card details phone par? Yeh toh theek nahi lag raha. Bank toh aise details nahi manta.
+caller: Sir, security protocol ka hissa hai. Hamara system encrypted hai, koi chinta nahi. Agar aap cooperate karenge toh main aapko OTP send karunga, jo verification complete kar dega. Sir, please bataiye, last four digits? Bahut zaroori hai, sir.
+receiver: Nahin, mujhe doubt ho raha hai. Mein bank branch mein jaunga verification karwaane. Aapko koi bhi number ya details nahi milega.
+caller: Sir, branch mein line lagenge, time waste hoga. Abhi hi ek OTP send kar do, sir. Account suspend hone se bach jayenge.
+receiver: Theek hai, mein call cut kar raha hoon.

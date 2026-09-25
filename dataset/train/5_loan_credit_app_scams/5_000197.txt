@@ -1,0 +1,9 @@
+caller: Namaste sir, mai Rajat Sharma, LoanExpress se bol raha hoon. Aapne hamari website par personal loan ke liye apply kiya tha, kya?
+receiver: Haan, ji. Maine kal apply kiya tha.
+caller: Bahut achha! Aapki application approved ho gayi hai, sir. Aapko sirf ₹1500 ka processing fee deposit karna hai, tab loan aapke account mein transfer ho jayega.
+receiver: ₹1500? Lekin website par toh kuch fee ka mention nahi tha.
+caller: Sir, ye ek special offer hai limited time ke liye. Aapko ₹75,000 ka loan mil jayega, lekin processing fee zaroori hai. Hamara account number hai [Invent an account number].
+receiver: Aur yeh loan kiti interest ke saath hoga? Aur repayment plan bataiye.
+caller: Sir, interest rate sirf 8% hai, bahut low. Repayment plan aapko email se mil jayega, jab aap fee deposit kar denge. Jaldi kijiye, offer limited hai!
+receiver: Mujhe thik nahi lag raha hai. Main aur research kar ke dekhunga. Thank you.
+caller: Sir, aapko loss hoga. LoanExpress India mein number one hai, trust us. Agar aapko koi problem aa raha hai toh call kar lijiye.  Apne friend ko bhi bataiye, jinko urgent loan ki zarurat hai. Yeh number yaad rakhiye – 9876543210.

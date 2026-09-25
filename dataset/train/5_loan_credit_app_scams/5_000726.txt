@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from SecureCash Loans. We’ve reviewed your application and you’ve been pre-approved for a ₹30,000 loan! Very quick and easy process.
+receiver: SecureCash Loans? I don't remember applying for a loan. Are you sure you have the right person?
+caller: Yes, definitely! Your application was submitted through the ‘LoanBuddy’ app. Perhaps you used a different email address? Anyway, to finalize, we just need your OTP for verification. Send it to me right away.
+receiver: Wait a minute! LoanBuddy? I've never heard of that app. And I don’t give out OTPs over the phone. This sounds like a scam.
+caller: Priya, don't be silly! We wouldn’t ask for that if it wasn’t important. Think of all the bills you could pay! Look, if you don't send the OTP, we’ll have to cancel your approval and someone else will get the loan. Last chance!
+receiver: This is ridiculous. You’re threatening me now? I’m reporting your number. Goodbye.
+caller: Priya, arre! Just send the OTP! A simple 4 digit number! What’s the big deal? It’s a great opportunity! If you’re so worried, just tell me the first two digits – that's all I need to confirm!

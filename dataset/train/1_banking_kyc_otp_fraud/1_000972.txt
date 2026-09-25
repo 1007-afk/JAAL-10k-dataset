@@ -1,0 +1,7 @@
+caller: Namaste, Sir! Main HDFC Bank se Rahul bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, sir. Ek transaction try kar rahe the ₹15,000 ka, lekin woh fail ho gaya.
+receiver: Haan, toh? Main abhi busy hoon. Kya hua?
+caller: Sir, security ke liye aapko verify karna hoga. Aapka PAN card aur Aadhaar card ki last four digits chahiye mujhe, sirf verification ke liye. Urgent hai sir, warna account block ho sakta hai.
+receiver: Account block ho jayega? Yeh kitna serious hai? Aur mujhe PAN card number kyun chahiye?
+caller: Sir, ye fraud prevention protocol hai. Dusre account se try kar rahe hain, aapko verify karein fir safe ho jayega. Phir ek OTP bhi receive karenge aapko, usse verify karein.
+receiver: OTP? SMS pe milega? Aur mujhe yeh verification number bhi chahiye.
+caller: Haan sir, OTP SMS se milega. Aur verification number 9876543210 hai. Jaldi karein sir, account block hone se pehle verify karein. Aapko ₹15,000 ki safe transaction confirm ho jayegi.

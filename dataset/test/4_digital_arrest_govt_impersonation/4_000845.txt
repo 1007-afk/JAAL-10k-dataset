@@ -1,0 +1,11 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapki ek parcel Gujarat se Mumbai aayi hai, par usmein illegal items paaye gaye hain.
+receiver: Illegal items? Yeh kya bol rahe hain? Mujhe toh koi parcel order kiya hi nahi.
+caller: Sir, parcel ke naam par Raj Kumar Sharma likha hua hai. Aur usmein electronic devices aur cash mila hai, jo drug trafficking se related ho sakta hai.
+receiver: Raj Kumar Sharma? Woh mera dost hai, lekin woh Gujarat mein nahi hai. Aur yeh parcel kaise mere naam se aaya?
+caller: Sir, yeh matter serious hai. CBI aur ED investigation kar rahe hain. Aapko court mein present hona hoga aur settlement ke liye ₹50,000 kaatne padenge. Agar aap cooperate nahi karenge toh arrest warrant nikalna padega.
+receiver: ₹50,000? Arrest warrant? Yeh toh galat lag raha hai. Mujhe kuch samajh nahi aa raha. Aap mujhe koi reference number ya case ID number de sakte hain? Aur woh parcel kahan hai?
+caller: Sir, hum log online procedure follow kar rahe hain. Reference number dene ka koi rule nahi hai. Parcel warehouse mein hai, aapko online payment karna hoga aur phir parcel release hoga. Time waste na karein, sir. Yeh matter sensitive hai.
+receiver: Maine toh koi parcel nahi order kiya. Aur ₹50,000 kaatne ka yeh kya bol rahe hain? Mai police mein complaint karunga.
+caller: Sir, complaint karne se kuch nahi hoga. Arrest warrant to nikal hi jayega. Aapko pareshani hogi. ₹50,000 kaat dijiye aur matter settle ho jayega. Fast kar dijiye, sir.
+receiver: Mujhe yeh call suspend karni padegi. Aur main apni bank aur police se bhi baat karunga.
+Sc

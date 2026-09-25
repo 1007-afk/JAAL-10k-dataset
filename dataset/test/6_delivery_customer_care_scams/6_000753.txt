@@ -1,0 +1,6 @@
+caller: Namaste! Hello Madam, speaking from Bluebird Courier. We have an urgent issue with a package addressed to you. It seems there was a customs clearance problem.
+receiver: Oh really? I wasn't expecting anything. What's the problem exactly?
+caller: The package is currently held at our Delhi hub. To release it, we require a small processing fee of ₹2500 to cover the outstanding customs charges. It’s a standard procedure.
+receiver: ₹2500? That seems a bit high. Can't I just pay when I receive the package?
+caller: Unfortunately, due to new regulations, we need to clear all dues upfront. To make the payment secure, please share the OTP you receive on your registered mobile number. This is for verification purposes.
+receiver: An OTP? That sounds a bit suspicious. Can you give me a reference number for the package, so I can check with the sender?

@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, FastCash Solutions se. Aapko urgent paise ki zaroorat hai kya? Hum offer kar rahe hain instant loan, sirf Aadhaar card aur bank account details se.
+receiver: FastCash Solutions? Loan? Mujhe toh abhi koi loan nahi chahiye tha.
+caller: Sir/Madam, yeh ek special offer hai. Kisi bhi urgent kaam ke liye, jaise medical emergency ya kar repair, hum 50,000 tak ka loan approve kar sakte hain, sirf 10 minute mein. Credit score koi matter nahi karta.
+receiver: 50,000? Interest kitna lagega? Aur process kya hai?
+caller: Sir/Madam, interest rate industry standard hai, lekin hum aapko best deal denge. Process bahut simple hai, sirf aapka Aadhaar card number, bank account number aur OTP share karein. Phir loan amount aapke account mein transfer ho jayega.
+receiver: OTP? Thoda wait karo, mujhe verification karna hai.
+caller: Sir/Madam, jaldi karo! Yeh offer limited time ke liye hi hai. Agar aap OTP nahi share karenge toh yeh opportunity chala jayega. Aur agar aap loan nahi lete toh koi baat nahi, aapko kuch bhi kharcha nahi hoga. Hurry up!

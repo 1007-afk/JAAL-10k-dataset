@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Ajeet from HDFC Bank’s KYC department. We have flagged some unusual activity on your account and need to urgently verify your details to prevent potential fraud and account suspension.
+receiver: HDFC se baat kar rahe ho? Account mein kuch problem hai? What kind of unusual activity?
+caller: Sir, we noticed a few login attempts from an unknown location. To secure your account, we need to confirm some details. Can you please share the last four digits of your Aadhaar card? It’s a standard security measure.
+receiver: Aadhaar card number? That seems a bit too sensitive. Can't you verify through something else, like an OTP? I'm a little worried about sharing that.
+caller: Sir, OTP verification alone isn’t sufficient in this case. To adhere to RBI guidelines and prevent larger scale fraud, we require Aadhaar details for heightened security. Your account will be restricted within the next hour if we don't confirm this.  Please provide the last four digits for your immediate safety.
+receiver: One hour? Okay, okay. Don't panic. Last four digits of my Aadhaar are... 4567. But I’m still calling your customer care number right after this to double-check.
+caller: Thank you, sir. Just one final confirmation. To complete the verification, could you quickly provide the expiry date printed on the back of your debit card?

@@ -1,0 +1,26 @@
+caller: Namaste! Kaise ho? Main Vijay Kumar hu, Secure Investment Solutions se baat kar raha hu. Apne ghar par loan lene ke liye congratulations! Aap ne recently Kisan Vikas Patra mein invest kiya hai, hai na?
+receiver: Namaste ji. Theek hai, main theek hoon. Kisan Vikas Patra? Haan, maine recently buy kiya tha. Loan ke liye bata rahe ho?
+caller: Haan, Priya ji! Kisan Vikas Patra bank account mein likha hota hai, aur ismein fixed interest rate hota hai. Isliye hum aapko home loan apply karne mein madad chahte hain. Aapko sirf 5% interest rate milega, bahut achchhe deals!
+receiver: 5% interest rate? Really? Mein abhi check karunga. Bank account details bataoge kaise?
+caller: Priya ji, aapko bank account number aur IFSC code chahiye, sirf verification ke liye. Yeh koi fraud nahi hai, hum genuine company hain. Hum aapki security dekh rahe hain. Aapko sirf loan apply karna hai.
+receiver: IFSC code? Haan, lekin mujhe thik nhi lagta. Koi guarantee hai ki meri paisa safe rahengi? Aur yeh loan kitne paise ka hoga?
+caller: Priya ji, aapki paisa safe hain. Hum insured hain. Loan amount aapke farmhouse ki value par depend karta hai, jo aapki property tax records mein dikhti hai. Aapko sirf application form fill karna hai.
+receiver: Farmhouse? Mein city mein rehta hu. Aapko kya chahiye?
+caller: Priya ji, Kisan Vikas Patra holders ko loan milne mein help karte hain. Agar aapko koi doubt hai, to humein puchho.
+receiver: Haan, main jaanta hu ki ye ek scam hai. Aapka number block karwa dunga.
+caller: Priya ji, maaf karein! Aapko confusion diya. Hum sirf investment advice dete hain. Thank you!
+caller: Namaste! Kaise haal hai? Main Sanjay Sharma hu, Future Growth Opportunities se baat kar rahi hu. Aapne recently online trading shuru kiya hai, hai na?
+receiver: Namaste ji. Haan, startup kiya hai. Trading ke bare mein bata rahe ho?
+caller: Haan, Priya ji! Online trading mein profit hone ke liye, aapko ek small loan lena padega. Just ₹50,000 ka loan, aapko automatic profit milega!
+receiver: ₹50,000 ka loan? Automatic profit? Yeh kya baat hai? Loan dedoonga kya?
+caller: Priya ji, yeh loan sirf aapki trading account ko boost karne ke liye hai. Ispe sirf 12% interest rate hai, bahut kam hai!
+receiver: 12% interest rate? Itna kam hai? Loan apply karne ka procedure bataiye.
+caller: Priya ji, aapko sirf apni banking details aur KYC documents chahiye. Yeh koi fraud nahi hai, hum genuine platform hain.
+receiver: Banking details? KYC documents? Mujhe thik nhi lagta. Waiver hogi ya koi discount?
+caller: Priya ji, waiver nahi hai, lekin aapko premium account access milega, jis mein extra features hain. Loan ₹50,000 ke liye ₹2,000 ka processing fee lagega.
+receiver: Processing fee? ₹2,000? Fir profit kab milega?
+caller: Priya ji, profit aapki trading performance par depend karta hai. Jab aap profitable trades karenge, tab aapka loan return ho jayega.
+receiver: Trading performance? Mujhe risk pasand nahi hai. Aapko kya chahiye?
+caller: Priya ji, online trading mein risk hoti hai, lekin hum aapko guidance dete hain. Aapko sirf apna decision lena hai.
+receiver: Haan, main samajh gaya. Aapka number block karwa dunga.
+caller: Priya ji, maaf karein! Aapko confusion diya. Hum sirf investment opportunities batate hain. Dhanyavaad!

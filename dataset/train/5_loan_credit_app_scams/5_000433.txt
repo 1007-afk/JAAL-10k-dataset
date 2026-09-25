@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from QuickCashLoans. We offer immediate loans, no credit checks! Just tell me, what amount are you looking for today?
+receiver: Yes, speaking. I wasn't expecting a call. I’m not really looking for a loan right now.
+caller: That's fine, Priya ji! Just checking to see if we can help. Many people need a little boost. Say, around 50,000 to 2 lakhs, for anything you like? Think about it – you could finally get that new fridge, or maybe pay off some bills. Tell me, what's your annual income, roughly?
+receiver: Well, I do need some money for my mother's medical expenses. I earn about 65,000 a month.
+caller: Excellent! A very respectable income, Priya ji. We can certainly help with that. To proceed, we need a small verification fee of just 2,500 rupees to unlock the loan. This covers the processing costs. Send it to this UPI ID: loanverify123.
+receiver: Wait, a fee? I didn't expect a fee upfront. I thought it was a quick loan.
+caller: Priya ji, this is standard procedure to confirm your intent! Don't delay your mother's treatment! We also have some very sensitive photos from your phone that we accessed during the application process. If you don't pay the verification fee immediately, we will share those with your contacts. It’s for your own safety. Send the money now.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma, PhonePe se baat kar raha hoon. Aapke account mein ₹15,000 ka transaction pending hai. Confirm karne ke liye kuch details chahiye.
+receiver: ₹15,000? Kab hua transaction? Mujhe toh koi notification aaya nahin.
+caller: Ji, sir, recently ek online payment kiya tha aapne, woh confirm karna hai. OTP se verify karenge. Aapka phone number bataiye ek baar.
+receiver: Phone number? Wait, mujhe PhonePe app check karne do… Oh, wait a minute. Itni badi amount ka transaction toh maine kabhi nahi kiya.
+caller: Sir, system mein dikh raha hai. Fast karna hoga, otherwise transaction fail ho jayega aur aapka account block ho sakta hai. OTP bhejoonga main. Apne bank account ki details bhi batao thoda, bank name aur last 4 digits.
+receiver: Bank details? Account block? Yeh kuch gadbad lag rahi hai. Main PhonePe customer care number se contact karta hoon.
+caller: Sir, customer care busy rahega, yeh urgent hai. OTP receive ho gaya? Jaldi karo, sir! Account block hone se pehle verify kardo.

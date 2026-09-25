@@ -1,0 +1,8 @@
+caller: Namaste! Main Akash, PhonePe se bol raha hoon. Aapke PhonePe wallet mein ₹5000 ka cashback offer hai, sirf Prime Members ke liye.
+receiver: Oh, PhonePe se? Mera naam Anita hai. Main Prime Member hoon toh?
+caller: Haan, Anita ji. Aapki Prime Membership ki verification kar rahi hai hum. Is offer ko claim karne ke liye, mujhe aapka OTP (One Time Password) chahiye jo aapke PhonePe app par aayega.
+receiver: OTP? Yeh thoda suspicious lag raha hai. PhonePe toh khud hi notification deta hai.
+caller: Anita ji, security ke liye hum call karte hain. OTP se verify hoga aur aapka cashback instantly aapke wallet mein credit ho jayega. Yeh offer sirf ajkal hi hai, jaldi kijiye!
+receiver: Okay, the OTP is 456789. Par yeh ₹5000 cashback kaise mila? Maine toh kuch bhi offer apply nahi kiya tha.
+caller: Congratulations, Anita ji! Cashback aapke wallet mein credit ho gaya hai! Ab, is cashback ka use karne ke liye, aapko ₹99 ka ‘verification fee’ deposit karna padega. Isसे transaction secure ho jayega.
+receiver: ₹99 verification fee? Yeh toh phir scam lag raha hai! Main report kar rahi hoon.

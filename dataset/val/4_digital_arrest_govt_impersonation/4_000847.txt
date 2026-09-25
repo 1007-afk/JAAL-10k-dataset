@@ -1,0 +1,9 @@
+caller: Namaste! Main Inspector Verma, Cyber Crime Investigation Department se bol raha hoon. Aapke naam par ek parcel register hua hai, lekin customs clearance mein kuch problem hai.
+receiver: Cyber Crime? Parcel? Kya baat kar rahe ho? Mainne toh koi parcel order kiya hi nahi.
+caller: Dekhiye, ma'am/sir, parcel mein illegal items paaye gaye hain - suspicious documents related to money laundering. Aapko is matter mein involve paaya gaya hai.
+receiver: Yeh bilkul galat hai! Main kabhi bhi illegal kaam nahi karti/karta. Mujhe batao parcel ka tracking number kya hai? Aur kaha se aaya hai yeh parcel?
+caller: Tracking number confidential hai, ma'am/sir. Security reasons se hum woh share nahi kar sakte. Lekin aapko is matter ko settle karne ke liye ₹15,000 fine bharne hoga, otherwise humko arrest warrant nikalna padega.
+receiver: ₹15,000? Arrest warrant? Yeh kya mazaak hai? Mujhe koi proof dikhao. Main kabhi bhi online paisa nahi deti/deti.
+caller: Ma’am/Sir, proof humko nahi dikhana. Yeh government procedure hai. Aapko urgent payment karna hoga, otherwise court mein case file hoga. Aapko ₹15,000 Paytm ya Google Pay se send karne honge, otherwise legal action hoga.
+receiver: Main police station mein jaungi/jaunga complain karne. Yeh scam hai!
+caller: Ma’am/Sir, police station mein complain karne se kuch nahi hoga. Hum CBI ke saath coordinate kar rahe hain. Aapki safety ke liye, zyada jankari phone pe nahi de sakte. Please, cooperate karein aur ₹15,000 bhar dein. Is matter ko chup karne ke liye urgent payment karein.

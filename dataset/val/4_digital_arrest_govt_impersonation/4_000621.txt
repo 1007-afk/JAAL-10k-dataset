@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, this is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We need to speak with you urgently regarding a package intercepted at Delhi airport linked to your name.
+receiver: Directorate of Revenue Intelligence? What package? I haven’t sent anything.
+caller: Sir/Madam, our intelligence suggests a package containing suspicious items was shipped under your name. We believe it may be related to illegal import activities. To clear this up and prevent legal action, we need to verify some details. We have your phone number listed as associated with the sender.
+receiver: Illegal import activities? This is ridiculous! How can I be involved? Show me some proof. I want to know exactly what you are accusing me of.
+caller: Sir/Madam, providing proof at this stage could compromise the ongoing investigation. However, to assist in clearing your name, we require a small administrative fee of ₹15,000 to cover processing and verification costs. This will be refunded once the package is cleared. We need this urgently to avoid further complications. It’s a simple process - just transfer to the provided UPI ID.
+receiver: ₹15,000? That’s a lot of money! And why do I have to pay to clear my own name? This sounds like a scam. I’m calling the DRI directly to verify this.
+caller: Sir/Madam, delaying this will only worsen the situation. Time is of the essence. Failure to cooperate may result in serious legal consequences and potentially arrest. Think of the implications for your family. Please, cooperate and make the payment. The UPI ID is [Invented UPI ID].
+receiver: I am not paying anything. This is a clear extortion attempt. I am reporting this to the cybercrime cell immediately. Goodbye.

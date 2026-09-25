@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Akash hai, mai Paytm Finance se bol raha hoon. Aapne Paytm app se loan ke liye apply kiya tha, sahi?
+receiver: Haan, ji. Apply kiya tha, lekin mujhe confirmation nahi mili.
+caller: Bilkul, sir. Verification ke liye mujhe aapka PAN card number check karna hoga. Thoda confidential hai, lekin process ke hisaab se zaruri hai.
+receiver: PAN card number? Woh thoda risky lag raha hai.
+caller: Sir, tension mat leiye. Paytm se direct call hai. Agar aap nahi dete, toh loan process ruk jayega. Aur agar aapko abhi loan nahi milega, toh late fees bhi lagengi. Fast kar dijiye.
+receiver: Okay, PAN number [Invent a PAN number, e.g., ABCDE1234F].
+caller: Shukriya, sir! Ab aapko 24 hours mein loan amount mil jayega. Par ek chota sa charge apply hoga, processing fees ke taur se ₹2500. Apne Paytm wallet se pay kardenge?
+receiver: ₹2500? Loan amount kitna tha?
+caller: Sir, aapne ₹10,000 ke liye apply kiya tha. Fees bhar dijiye, aur loan aapke account mein deposit ho jayega. Jaldi karo, otherwise offer expire ho jayega!

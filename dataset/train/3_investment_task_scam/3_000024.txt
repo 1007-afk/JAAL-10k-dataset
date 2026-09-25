@@ -1,0 +1,12 @@
+caller: Namaste! Is this Mr. Sharma? Haan, main bol raha hoon. Maine aapke liye ek bahut hi achcha deal mili hai, Delhi mein ek badi cricket coaching center hai.  Sab bade players train karte hain yahan.  Aapki beta cricket khelne ki pasand karti hai na?  Yeh aapke liye ek amazing opportunity hai.
+receiver: Haan, meri beta cricket khelti hai.  Par main toh sirf school fees dene ke liye phone karta tha.  Yeh kya ho raha hai?
+caller: School fees? Sorry, my mistake! Actually, we’re offering a special discount on membership at this fantastic sports academy. It’s near Rohini.  It’s a very popular place, everyone wants to join.  Just a small investment, you know?
+receiver: Sports academy?  Rohini mein? Okay, fine. But I need to know how much it costs.  Tell me the details please.
+caller: Absolutely! Membership is ₹8000 per year, and there are some extra charges for equipment. But it's worth it, believe me! Your son will love it.  We can even arrange a trial session for him.
+receiver: ₹8000?  That’s quite expensive.  Dekho, main toh bas thoda paisa save karna chahta hoon.  Koi baat nahin, thanks for letting me know.
+caller: Don’t worry, it's an investment in his future! And we have payment plans available too.  You can pay in installments.  Seriously, it’s a great deal.  Please consider it. Have a nice day!
+receiver: Installments?  Okay, okay.  But tell me, what kind of training do they provide?  Is it just batting and bowling?
+caller: No, no, it’s much more than that! They teach all aspects of the game – fielding, fitness, strategy… everything!  And the coaches are all experienced professionals.  You won't regret it.
+receiver: Hmm, okay.  Main sochunga.  Thanks again. Bye.
+caller:  Absolutely!  Think about it.  And if you have any questions, feel free to call us back.  Good luck to your son!  Bye-bye!
+receiver:  Bye.

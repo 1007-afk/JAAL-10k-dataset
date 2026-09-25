@@ -1,0 +1,11 @@
+caller: Llo? Hello? Can you hear me properly? I’m calling from the State Revenue Department. We have an important notification regarding your tax refund. You've been awarded a substantial sum and need to verify your information. Please dial this number immediately: 09212345678. This is urgent; we only have three attempts to reach you.
+receiver: Haan, sunao. State Revenue Department? Tax refund? Arey yaar, kitna jeeta hai? Verification ke liye number deta hai? Okay, main abhi call karta hoon. Thanks!
+caller: Ji, bilkul! Very important, don’t delay. You have just two opportunities left to confirm your details. If you don’t respond within the next hour, the funds will be forfeited. Remember that number: 09212345678. Do you have any questions about the process?
+receiver: Just two? Okay, okay.  I am checking now.  Can you tell me exactly how much money I’ve won, sir? Is this really legitimate, like a government thing? And if I can't call right away, can I call again tomorrow?
+caller: Absolutely! This is completely genuine, it's part of the state's tax relief program. Only one attempt remains, so please call quickly on 09212345678. Don't worry, we just need to confirm your address and bank details.
+receiver: One attempt? Seriously?  What happens if I miss the call? Will they still give me the money? Are there other ways to contact them besides this number?
+caller: If you miss the call, unfortunately, the opportunity will be lost. But don’t panic! There is only one last chance to claim your prize, call 09212345678 immediately. We can also send you a confirmation email, do you have an email address?
+receiver: Email?  Okay, my email is rajesh.kumar@example.com.  Please tell me what kind of documents I might need to provide when I call.
+caller: Excellent! Just bring your ID card and a recent utility bill, please.  And remember, this is your final chance – 09212345678.  Don't hesitate!
+receiver: Okay, okay. I’ll prepare everything. Thank you for your help.
+caller: You’re welcome!  Ji, good luck with your claim!

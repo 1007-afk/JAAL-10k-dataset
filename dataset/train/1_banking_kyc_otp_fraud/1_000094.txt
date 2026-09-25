@@ -1,0 +1,9 @@
+caller: Namaste ji, HDFC bank se baat kar raha hoon. Aapka account check karne ke liye call kiya hai, aap ready hain? Agar ready hain toh apna Voter ID, Aadhaar number aur debit card details bataiye.
+receiver: HDFC? Really? Voter ID bhi maang rahe ho? Mein toh samajh raha hoon ki kuch gadbad hai. Aapka name bataiye aur yeh call kyun aayi hai? Kaise pata hai aapka address?
+caller: Mera naam Vijay Kumar hai, sir. Yeh account verification ke liye mandatory process hai, sir. Aapki safety ke liye hi yeh details mangi ja rahi hain. Aap verify karna chahte hain na?
+receiver: Vijay, listen carefully. Maine suna hai ki aise calls me log fake IDs use karte hain. Aapne kabhi kisi ko apni personal details dete hain? Yeh bilkul wrong hai. Agar verification zaroori hai, toh bank ki official website per jaake check karein. Ya phir, bank branch mein jao aur poochein.
+caller: Sir, website par verification bahut slow hota hai. Yeh quick verification ke liye hai, sir. Agar aap verify nahi karna chahte hain toh aapka account freeze ho jayega, sir. Koi option nahi rahega.
+receiver: Freeze? Account freeze? Seriously? Yeh to darrane layak hai. Agar verification important hai, toh koi alternate way bataiye. Kya aap mujhe account number bata sakte hain? Just for checking, okay?
+caller: Sir, account number sunana secure nahi hai. Yeh details sirf verification ke liye hain. Aapka account safe rahega. Par agar aapko rahat ho, toh hum aapko SMS se OTP bhejk sakte hain. OTP receive karne ke liye ready hain sir?
+receiver: SMS OTP? Okay, fine. But tell me clearly, this OTP will only be used for this verification and nothing else, right? And what if I say no to the OTP? What happens then?
+caller: Sir, OTP sirf verification ke liye hi rahega. Aapko koi problem nahi hogi. Agar aap OTP provide nahi karte hain, toh aapka account verification complete nahi hoga aur aapko future mein account operations mein trouble ho sakti hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We’re calling from ‘LoanExpress India’. Congratulations! You’ve been pre-approved for a personal loan of ₹75,000 with very easy terms. Just a quick verification and the money will be in your account within an hour. Are you interested?
+receiver: Haan, main Priya Sharma hoon. ₹75,000 ka loan? Kyon pre-approved? Kya verification mein kya karna hoga?
+caller: Wonderful! It's because of your excellent credit history, as reflected in our system. For verification, we need you to pay a small processing fee of ₹2,500. This ensures your account is secure and the loan gets processed smoothly. You can pay it via UPI – my UPI ID is loanexpress.india@xyz.
+receiver: ₹2,500? Processing fee? Loan lene se pehle fee dena padega? Yeh toh thoda ajeeb lag raha hai.
+caller: It's a standard procedure, Priya Ji. All legitimate lenders have a small processing fee to prevent fraudulent activities. Think of it as insurance for your loan. Once you pay, we'll immediately release the ₹75,000. Don't miss this great opportunity. Many people are applying right now.
+receiver: Okay, fine. Main UPI se ₹2,500 pay karta hoon. UPI ID loanexpress.india@xyz, right?
+caller: That's correct! Thank you! The money is reflecting... excellent. Now, before we finalize, we need one last security measure. Could you share a selfie of yourself holding a valid ID card? It’s just to confirm you’re the account holder and prevent any identity theft.

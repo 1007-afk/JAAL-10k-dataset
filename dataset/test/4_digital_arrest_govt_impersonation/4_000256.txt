@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul from the Cyber Crime Investigation Cell. We've detected suspicious activity on your UPI account linked to HDFC bank. You've received ₹25,000 in unknown transactions.
+receiver: Cyber Crime? Really? What kind of suspicious activity? I haven't received anything. Why didn't I get an SMS?
+caller: Ji, the system flagged it automatically. Sometimes SMSes get delayed. We need to verify your details immediately to secure your account. Please provide the last four digits of your debit card and your UPI pin. It's a security protocol.
+receiver: Wait a minute. Cyber Crime Cell never asks for debit card details or UPI pin over the phone. That's a huge red flag. Are you even who you say you are? Can you give me a reference number or a contact number of a supervisor?
+caller: Ma’am, this is a critical situation. Every second counts. If you don't cooperate, your account will be blocked, and the money will be lost. We're following standard procedure. There’s no time to waste on reference numbers right now. Just give me the pin.
+receiver: No way. This is clearly a scam. I'm reporting this number. You’re not getting anything from me. You’ve wasted my time. Goodbye.
+caller: Hello, this is Rahul from the Cyber Crime Investigation Cell. We've detected suspicious activity on your UPI account linked to HDFC bank.

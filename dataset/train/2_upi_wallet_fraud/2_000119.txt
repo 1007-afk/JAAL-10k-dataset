@@ -1,0 +1,9 @@
+caller: Hello sir, is this Mr. Sharma? We have noticed some unusual activity on your PhonePe account.
+receiver: Haan, bolo. What’s the issue?
+caller: Sir, to secure your account, you need to verify your details urgently. Otherwise, your account will be temporarily blocked within the next two hours.
+receiver: Blocked? Why? I haven't done anything unusual. Is there a problem with my linked bank account?
+caller: No sir, it's just a standard security check. To verify, please click on this link I’m sending you and enter your PhonePe UPI ID and the last four digits of your bank account. It's a quick process.
+receiver: A link? I thought PhonePe doesn't send verification links. Can’t I do this through the app itself?
+caller: Sir, this is a new, expedited verification process. The app doesn't have this feature yet. Just click the link, it's very important for your safety and to prevent any fraudulent transactions.
+receiver: Okay, send the link. But I’m a little nervous about this.
+caller: Sure sir, here it is: bit.ly/phonepeverify. Please complete it immediately.

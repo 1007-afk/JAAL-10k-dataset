@@ -1,0 +1,9 @@
+caller: Namaste, mein Rohan, DigiSolutions se bol raha/rahi hoon. Aapke Paytm wallet mein ek small transaction hua tha - ₹299 ka ‘Premium Insights’ report. Ji, main Priya Devi se baat kar raha/rahi hoon.
+receiver: Namaste Rohan, ji haan, main Rohan se baat kar raha/rahi hoon. ₹299 ka Premium Insights report, woh to hai.
+caller: Okay Priya Devi, to, yeh report aapne unknowingly subscribe kar li hogi. Ismein koi problem nahin hai, lekin hum isko cancel kar rahe hain aur aapko ₹299 refund kar denge. Refund process shuru karne ke liye, mujhe apni OTP verify karne do.
+receiver: OTP maanga rahega aap?
+caller: Haan Priya Devi, OTP maang raha/rahi hoon. Sirf OTP enter karke, hum is subscription ko immediately stop kar denge aur ₹299 aapke wallet mein return ho jayenge.
+receiver: OTP dekho, yeh 8765432109 hai.
+caller: Shukriya Priya Devi! Yeh OTP correct hai. Ab, agar aapko koi aur confusion hai ya koi problem hai, toh mere helpline number par call karein.
+receiver: Ji haan Rohan, thank you.
+caller: Aapka swagat hai Priya Devi. DigiSolutions mein aagayao!

@@ -1,0 +1,16 @@
+caller: Namaste sir/madam, main Rahul Kumar hoon, HDFC Bank se baat kar raha hoon. Kya aapko abhi bank account open karna hai?
+receiver: Namaste Rahul, thanks for calling. Mera naam Priya Sharma hai. Haan, actually mujhe ek new account open karne ka idea hai, par abhi thodi confusion hai.
+caller: Arre Priya, koi problem nahi. Hamare paas ek super special offer chal raha hai sirf VIP customers ke liye. Agar aapke paas HDFC mein account hai toh main check kar sakta hoon ki aap eligible hain ya nahi. Simple questions poochunga.
+receiver: Oh, VIP offer? Batao batao, sunne mein interest hai. Mera HDFC mein account hai, okay. Kya-kya details chahiye?
+caller: Excellent Priya! Aapka account HDFC mein hai, yeh sunke khush hua. Mujhe aapke account number ya phir aapki registered mobile number chahiye hogi, jisse main aapki eligibility check kar saku. Yeh sirf aapki privacy ke liye hai, agar koi andara bakchod ho to usse bachne ke liye.
+receiver: Account number thoda risky hai, Rahul. Mobile number se dekh lete hain. Kya aap email id bhi provide kar sakte hain, jisse main verification kar saku ki yeh call asli HDFC se aa rahi hai?
+caller: Priya, aapki safety hamara priority hai. Mobile number hi sahi rahega. Email id ka option nahi hai, par main aapko assure karta hoon yeh HDFC Bank ki official number se hi call hai. Please aap apni registered mobile number bataiye, main eligibility check karunga.
+receiver: Okay Rahul, meri registered mobile number hai 8765432109. Check karo, please.
+caller: Namaste sir/madam, main Rahul Kumar hoon, HDFC Bank se baat kar raha hoon. Kya aapko abhi bank account open karna hai?
+receiver: Namaste Rahul, thanks for calling. Mera naam Priya Sharma hai. Haan, actually mujhe ek new account open karne ka idea hai, par abhi thodi confusion hai.
+caller: Arre Priya, koi problem nahi. Hamare paas ek super special offer chal raha hai sirf VIP customers ke liye. Agar aapke paas HDFC mein account hai toh main check kar sakta hoon ki aap eligible hain ya nahi. Simple questions poochunga.
+receiver: Oh, VIP offer? Batao batao, sunne mein interest hai. Mera HDFC mein account hai, okay. Kya-kya details chahiye?
+caller: Excellent Priya! Aapka account HDFC mein hai, yeh sunke khush hua. Mujhe aapke account number ya phir aapki registered mobile number chahiye hogi, jisse main aapki eligibility check kar saku. Yeh sirf aapki privacy ke liye hai, agar koi andara bakchod ho to usse bachne ke liye.
+receiver: Account number thoda risky hai, Rahul. Mobile number se dekh lete hain. Kya aap email id bhi provide kar sakte hain, jisse main verification kar saku ki yeh call asli HDFC se aa rahi hai?
+caller: Priya, aapki safety hamara priority hai. Mobile number hi sahi rahega. Email id ka option nahi hai, par main aapko assure karta hoon yeh HDFC Bank ki official number se hi call hai. Please aap apni registered mobile number bataiye, main eligibility check karunga.
+receiver: Okay Rahul, meri registered mobile number hai 8765432109. Check karo, please.

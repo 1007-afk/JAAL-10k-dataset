@@ -1,0 +1,12 @@
+caller: Namaste! Main Rohan Kumar hu, Secure Transaction Services se baat kar raha hu. Mujhe apne account ke bare mein kuch verify karna hai. Kya aap yahaan par phone pe baat karne ke liye ready hain?
+receiver: Namaste Rohan, Haan, bolna. Paro, kya chahiye?
+caller: Dhanyavaad. Mein dekha hai ki aapke account mein ek transaction hua hai. Woh ₹ 750 ka Digital Entertainment Membership hai. Aapne ise subscribe kiya tha?
+receiver: Digital Entertainment Membership? Nahin, maine aisa kuchh subscribe nahin kiya. Main sirf Netflix aur Amazon Prime use karta hun.
+caller: Achaa. Toh, yeh jaankaari abhi tak aapke account mein kyon hai? Humne check kiya hai, aur yeh jaanta hai ki yeh accidentally subscribe ho gaya tha. Ismein koi mistake ho gayi hai.
+receiver: Accidentally? Kaise ho sakti hai? Maine to sabhi websites aur apps ko dikkat se check kiya hai.  Mujhe pata bhi nahin tha yeh membership exist karta hai.  Mujhe bataein, yeh membership kis company mein hai?  Aur payment ka date bataein.
+caller: Sir, main technically bata nahi sakta, lekin yeh jo membership hai, woh "Golden Reels" naam ka hai. Aur payment ka date 15th October ko hua tha.  Hum ne aapki account se yeh money withdraw kar diya hai.  Aapko ₹ 750 refund mil jayega.
+receiver: Golden Reels?  Mai unka kabhi suna hi nahin.  ₹ 750?  Main to khud bhi forget kar raha tha.  Paro, aap mujhe refund process ka procedure bataiye.  Mujhe bank account details bhi chahiye.
+caller:  Sir, refund process bahut simple hai. Aapko sirf apni bank ka IFSC code aur account number dena hoga.  Yeh information secure server mein save hoga, aur aapko refund mil jayega.  Isliye, main apse apni bank account number aur IFSC code seek raha hu.
+receiver:  Dekho, main samajhta hoon yeh speedy hai, lekin mujhe abhi bhi zyada sure nahin.  Kyunki aap meri bank account number pooch rahe hain?  Agar aapko refund chahiye hai, toh aap khud RBI portal mein complaint kar sakte hain.  Ye aapka account safe rakega.  Aap mujhse apni bank account number kyun nahi pooch rahe?
+caller:  Sir, aapko assure karna hai ki aapka account safe hai.  Jab hum RBI portal mein complaint karte hain, tab bhi risk hoti hai.  Humne aapki account ko protect karne ke liye special measures li hain.  Apeen, aapko apni bank account number aur IFSC code dena hoga, jisse hum refund process initiate kar sake.  Aapko koi doubt hai?
+receiver:  Haan, mujhe ek doubt hai.  Agar aap meri bank account number pooch rahe hain, toh yeh scam hai.  Maine aapko kabhi bhi apni bank account number mat dena.  Mai abhi aapko call band kar deta hun.

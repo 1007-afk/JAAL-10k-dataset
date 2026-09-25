@@ -1,0 +1,10 @@
+caller: Namaste sir, main Reliance Jio ke customer support se baat kar raha hoon. Aapki mobile plan expiry hone wali hai, aur agar aapko woh extend karna hai toh mujhe kuch details chahiye.
+receiver: Reliance Jio? Toh phir aapko mujhe ye bataane ki zaroorat kya hai? Mujhe toh sirf notification mila tha ki plan expire hogaya hai.
+caller: Haan sir, technically speaking, hamare system mein expiry date update nhi hota jab tak aap khud activation nahi karte. Isliye, mujhe aapka full name aur aapke Jio account ka ID bata sakte hain?
+receiver: Account ID? Wo bhi? Jio mein bhi aisa hota hai? Yaar, mere paas toh wo record bhi nahi hai. Abhi to sirf mera number dikha rahe ho.
+caller: Sir, yeh process hai hamare system ka. Technical glitch rehta hai. Agar aapko koi confusion hai, toh main aapko verification code bhejoonga. Code ko mujhse screenshot le kar bhejna hoga, phir main aapka account check karunga aur plan extend karunga.
+receiver: Screenshot? Verification code? Ye toh bahut cumbersome hai! Agar genuine company hai toh aise requirement nahi hote. Koi alternative method hai na?
+caller: Sir, sir, please relax. Samajh sakta hoon aapko tension lag raha hai. Hamare system mein yeh hi secure process hai. Verification code unmei par jaata hai jab aap koi new transaction karte hain. Agar aapko plan extension chahiye toh yeh hi zaroor karna hai.
+receiver: Nahin, nahin. Main koi code screenshot nhi bhejana. Mera number bata do, aur mujhe Reliance Jio website par jaake plan extension apply karna de rahe ho. Yeh toh koi valid solution nahi hai. Call cut kar dunga main.
+caller: Sir, please! Shaant ho jaiye. Humare customer service representatives ne yeh process banaaya hai. Agar aapko koi problem hai, toh humein bataiye, hum madad karenge. Call cut kar rahe ho?
+receiver: Ji, call cut kar dunga.

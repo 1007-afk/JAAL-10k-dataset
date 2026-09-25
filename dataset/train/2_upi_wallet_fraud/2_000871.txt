@@ -1,0 +1,8 @@
+caller: Namaste! Main calling kar raha hu Cashverse se. Aapke Cashverse wallet mein ₹5000 cashback offer aaya hai.
+receiver: ₹5000 cashback? Wow! Cashverse mein mera account hai. Bataiye kaise claim kar sakta hoon?
+caller: Bahut simple hai! Aapko bas apne wallet mein ₹100 processing fee deposit karna hai. Iske baad cashback automatically aapke account mein transfer ho jayega.
+receiver: ₹100 deposit karna hai?  Kidhar deposit karna hai? Koi link ya QR code hai kya?
+caller: Haan, ek QR code hai. Aap apne PhonePe app mein scan karein aur ₹100 deposit karein. Verification ke baad cashback aapko mil jayega. Hurry, offer limited time ke liye hi hai!
+receiver: ₹100 deposit kar raha hoon... Wait, Cashverse ka koi QR code to mujhe nahi mila. Aur mujhe PhonePe se kuch OTP bhi aa raha hai.
+caller: Haan, OTP aayega. Woh OTP verify karna bahut important hai. Jab ₹100 deposit ho jayega, OTP enter karein aur cashback claim kar lijiye. Jaldi karein!
+receiver: Wait a minute. Isko toh scam lag raha hai. Main koi bhi OTP nahi dene wala.

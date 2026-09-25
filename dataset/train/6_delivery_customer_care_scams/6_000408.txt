@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Akash from QuickShip Logistics. We've noticed a delivery attempt for a parcel addressed to you was unsuccessful. There’s a small issue with the customs clearance, and we need to verify a few details.
+receiver: Oh, really? What kind of issue? I wasn't expecting a parcel.
+caller: Yes, sir. It seems there's a discrepancy with the payment information. To release the package, we require a one-time verification fee of just ₹750. It’s a standard procedure to secure your transaction.
+receiver: ₹750? For customs? That seems a bit much. Can you tell me the tracking number so I can check?
+caller: Absolutely, sir! The tracking number is QS789456123. Please, just make the quick payment via UPI to this number: 9876543210. Once the payment is confirmed, we'll dispatch the package immediately.
+receiver: UPI? I’m not comfortable with that. Can I pay with a card? And what is this parcel anyway? I really don't remember ordering anything.
+caller: Sir, unfortunately, UPI is the only secure method we currently accept for this verification. The parcel is from 'GlobalDeals Online'. It's a high-value item, hence the extra security check.  To prevent any further delays, please confirm the payment soon. Just ₹750, sir.
+receiver: GlobalDeals? I don't shop there. This sounds suspicious.

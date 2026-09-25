@@ -1,0 +1,8 @@
+caller: Namaste sir, Main Tata Digital support se bol raha hun. Humare system mein ek technical issue ka reason hai, isliye aapko ek six digit verification code chahiye. Kya aap mujhe woh code de sakte hain?
+receiver: Namaste, ek minute ruk jao, phone par koi notification nahi aa raha.
+caller: Sir, yeh technically important hai, please jaabdo. Agar aapko code nahi mila, to aap apne mobile ki network settings ko refresh kar sakte hain. Ya main aapko dobara send kar sakta hu. Kaise hai aap?
+receiver: Theek hai, refresh kar deta hoon. Agar phir bhi nahi ayega, to aap mujhe batayein. Aapka naam kya hai?
+caller: Mera naam Arjun hai, Tata Digital se. Aapke number par verification code abhi tak nahi aaya? Koi problem nahi, aap apne phone ko airplane mode mein rakhein aur ek minute baad on karein. Ya main aapko phir se code bhejna chahta hu.
+receiver: Arre haanji, airplane mode try karta hu, Arjun bhai. Dekhte hain ab OTP ayega ya nahin. Agar nahi ayega, to main aapko phir se call back karta hu. Aapki madad ke liye thanks!
+caller: Jeechhe, please try karein. Agar phir bhi nahi ayega, to main aapko dobara code bhejana chahunga. Aur aapne kabhi UPI transaction karne ke liye PIN enter kiya tha na? Just checking, sir.
+receiver: Arre haanji, UPI PIN? Woh toh mujhe abhi yaad nahi, Arjun. Chaliye, phone check karata hu, OTP ayega toh good, nahi toh aap bataeenge ki kya karna hai. UPI PIN toh waale hi yaad nahi aa raha.

@@ -1,0 +1,8 @@
+caller: Hello? Mai Rahul se bol raha hoon, State Bank of India se. Aapne Flipkart par ek order kiya tha na, ₹2500 ka?
+receiver: Haan, maine kal ek saree order kiya tha Flipkart se. Kya baat hai?
+caller: Sir, order mein kuch problem hai. Payment fail ho gaya tha, lekin Flipkart ne kuch ₹7000 aapke PhonePe wallet se deduct kar diye hain.
+receiver: ₹7000? Yeh toh galat hai! Maine sirf ₹2500 ki saree order ki thi.
+caller: Haan sir, ek technical error tha. Ab hume isko rectify karna hai. Aapka PhonePe wallet PIN bataiye, main system mein manually correct kar dunga.
+receiver: Wallet PIN? Main kabhi bhi apna PIN kisi ko nahi batata. Yeh theek nahi hai. Main Flipkart customer care ko khud call karta hoon.
+caller: Sir, time bahut kam hai. System se autometically close ho jayega, aur aapka ₹7000 permanent hi jam ho jayega. Please, wallet PIN bataiye, main ek minute mein kar dunga.
+receiver: Nahin, sir. Main call cut kar rahi hoon. Yeh scam hai!

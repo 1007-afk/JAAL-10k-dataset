@@ -1,0 +1,9 @@
+caller: Namaste sir, kaise hain? Apke liye ek achha khabar hai! Aap ne "ShineTech" smartwatches ka lottery jeeta hai! Sabhi ne jeeta hai! Kaise ho aap?
+receiver: Oh wow! Kitne smartwatch? Kya bol rahe hain aap? Matlab, sach mein jeeta hu mai?
+caller: Haan ji, sab purna hai! Do ShineTech X500 watches, latest generation, blue colour mein!  Aapko sirf ek call karna hai aur aapki prizes ready hai!  Number bataunga, 88001234567, lekin yeh sirf 3 minute ka time hai. Agar aap call nahin karte, toh woh kisi doosriyon ko de denge.
+receiver: Three minutes? Seriously? Yeh to bahut badi prize hai! Mein abhi call kar raha hoon. Woh number hai 88001234567? Theek hai, main call karta hoon.
+caller: Haan, woh hi number hai!  Agar aap call nahin karte toh yeh offer toot jayega!  Ab sirf 2 minute bache hain!  Chalo, jaldi call karein!  Aapko koi surcharge bhi nahin dena hoga.
+receiver: Koi surcharge nahi? Wah!  Mein abhi call kar raha hoon.  Thank you so much!  Bye bye!
+caller: Haan, aapko congratulations!  Aapka ShineTech watch aapke doorstep par deliver ho jaayega!  Yeh ek premium product hai, samajh rahe hain?  Agar aap koi doubt hain toh humein call karein.  Aapka din khush rahe!
+receiver: Haan, thoda confusion hua tha, lekin ab samajh gaya.  Thank you again!  Bye!
+caller:  Welcome!  And congratulations once more!

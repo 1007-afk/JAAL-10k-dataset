@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? We're calling from BlueBird Courier regarding a package destined for you. It’s showing as 'exception' in our system - potentially damaged during transit.
+receiver: Haan, main Verma bol raha hoon. Damaged? Kya package tha? Mujhe to kuch yaad nahi aa raha.
+caller: It's a parcel originating from Meesho, sir. Seems like there was an unusual weight fluctuation during the sorting process. For security reasons, we need to verify you're the recipient and confirm some details to prevent fraud. Can you provide the last four digits of your bank account linked to your Meesho address?
+receiver: Bank account details? BlueBird Courier ko bank details kyun chahiye? Ye thoda ajib lag raha hai. Meesho se to mujhe kuch order kiya tha, par...
+caller: Sir, it’s just a standard security protocol, particularly for high-value items. We need to ensure the package reaches the correct recipient. It's really important, sir. Just the last four digits will suffice, please? Otherwise, we might have to put the parcel on hold.
+receiver: Hold karein toh karein. Acha, last four digits… woh toh main nahi de sakta. Ye kuch ghalat lag raha hai mujhe. Main Meesho customer care se baat karta hoon.
+caller: Sir, please understand. Meesho is aware of this verification process. If you don’t cooperate, the package will be returned to the sender, and you’ll be responsible for the return shipping fees. Just a quick verification, sir? For your convenience, we can also send you an OTP to your registered phone number instead. Which method would you prefer?

@@ -1,0 +1,8 @@
+caller: Namaste, sir/madam. This is Akash calling from PayTm customer care. We've noticed some suspicious activity on your PayTm account. A transaction of ₹2500 is pending, which we believe may be fraudulent.
+receiver: ₹2500? What transaction? I didn't make any such transaction.
+caller: Exactly, sir/madam. That's why we're calling you. To secure your account, we need to verify a few details. Could you please provide the OTP you just received on your registered mobile number? It starts with 7.
+receiver: OTP? Why do you need my OTP? Isn’t that a bit risky?
+caller: Sir/madam, for your security. We need to confirm it's you making the request to block the transaction. It’s standard procedure. The OTP is very important to stop the fraudulent transaction.
+receiver: Okay, okay... let me see... it’s 943216.
+caller: Thank you, sir/madam. Now, to confirm your identity further, can you please share the last four digits of the credit card linked to your PayTm account? This is just a final verification step.
+receiver: Wait a minute. Credit card details over the phone? That doesn't sound right. I think I need to check something.

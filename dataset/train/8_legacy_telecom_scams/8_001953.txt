@@ -1,0 +1,8 @@
+caller: Hello? Is this Sarah?  Haan, mai bol raha hoon.  Ek exciting offer hai aapke liye, ekdum exclusive.  Kya aapko pata hai UK ka sabse bada dogging network?  Real locations, direct to your phone.  Kya sounds interesting, right?
+receiver: Huh? Kya bol rahe ho? Dogging network? Main toh bas pizza order karne ke liye phone kiya tha. Yeh kya galat number lag gaya hai?
+caller: Arre, pizza? Oops, I think I got the wrong number then. My apologies! This is actually a promotion for a, uh, 'networking' group. My bad!
+receiver: Oh, networking group? Achha, I see. No worries, I guess it happens. Thanks for clarifying though. Enjoy your day!
+caller: Oh, really? Pizza! Haha, that's hilarious. I must have dialled a number from a wrong list. My sincerest apologies for the confusion, ma'am.  This was actually meant for a different... uh... social club.  You know, for people with *very specific* hobbies.  My bad entirely!  Have a great day, and enjoy that pizza when it arrives!
+receiver: Arre, 'specific' hobbies? Woh toh theek hai, par pizza toh abhi tak nahi aaya. Chalo koi nahi, ab number toh mil hi gaya hai. Next time double check karlena list.
+caller: Arre, I'm so sorry about the pizza! Hope it arrives soon. List pe kuch gadbad ho gayi thi. Anyway, have a good one!
+receiver: Achha, list mein gadbad? Koi nahi, sab hota hai. Bas yeh sun lo, agli baar agar kisi ko 'specific' hobbies ke liye connect karna ho, toh number ek baar confirm kar lena. Chalo, bye.

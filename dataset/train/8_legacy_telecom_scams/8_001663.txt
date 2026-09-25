@@ -1,0 +1,14 @@
+caller: Namaste? Kya aapko beautiful ladies ke pictures chahiye jo directly aapke phone par dikhayen? Simple, just send an SMS to 789456. Initially, it’s completely free for 24 hours, then only ₹30 per day. To cancel, send ‘STOPABC DEF GH789’ as a reply. Interested?
+receiver: Haan, yeh kya ho raha hai? Mobile net kam hai aur yeh messages kyun aa rahe hain? Mujhe ismein interest nahi hai, please mujhe aisa koi message mat bheje. Mera mobile number kya hai?
+caller: Arey, mobile number pata hona zaroori nahi hai! Isliye hi toh main calling kar raha hoon! Ye koi fake message nahi hai, ek special deal hai. Agar aapko pasand nahi hai, to koi problem nahi hai. Kuch bhi force nahi kar raha hoon. Just found your number through online search, that's all. If you want more details, ask me. Otherwise, I will end the call.
+receiver: Chaliye, abhi koi details lena nahi chahta. Mobile number pata hona zaroori nahi tha, ab chaliye. Thank you, bye.
+caller: Okay, bye. But if you change your mind later, you can send a message. This offer remains the same - 24 hours free and then ₹30 per day. What is your city name?
+receiver: Haan, woh bol rahe hain mera city naam pooch rahe hain? Abhi toh maine kaha hai ki mujhe kuchh nahin chahiye. Aur offer bhi nahi chahiye. Mera city naam…  City naam chhodo abhi.  Jo bhi ho, mujhe ye sab karna nahi hai. Agar aap call cut karenge to achcha hoga. Bye bye.
+caller: Theek hai, bye. But remember, if you wish to consider it later, you can send a message. The offer is still valid – 24 hours free and then ₹30 per day. Can I know your favorite color?
+receiver:  Aapka favourite colour pooch rahe hain?  Mujhe abhi toh bol diya hai ki mujhe ye sab karna nahi hai.  Aur offer bhi nahi chahiye.  Mere favourite colour ka naam… Colour naam chhodo abhi.  Bas bye ho jaao.
+caller: Alright, goodbye. But keep in mind, if you decide to think about it later, you can send a message. The offer stays the same: 24 hours free and then ₹30 per day. Tell me, what is your pet's name?
+receiver:  Pet ka naam pooch rahe hain?  Mujhe already bol diya hai ki mujhe ye sab karna nahi hai.  And no offer.  My pet's name… Pet ka naam chhodo abhi.  Just leave it at bye.
+caller: Okay, bye.  Just one last thing – if you ever feel like considering it, you can send a message. The offer is still there – 24 hours free and then ₹30 per day.  What is your WhatsApp number?
+receiver:  WhatsApp number pooch rahe hain?  Mujhe already bol diya hai ki mujhe ye sab karna nahi hai.  And I don't want the offer.  My WhatsApp number… WhatsApp number chhodo abhi.  Just say bye.
+caller: Fine, goodbye.  But if you ever reconsider, you't can send a message. The offer remains the same: 24 hours free and then ₹30 per day.  How old are you?
+receiver:  Age pooch rahe hain?  Mujhe already bol diya hai ki mujhe ye sab karna nahi hai.  And no offer.  I am… Age chhodo abhi.  Please cut the call now.

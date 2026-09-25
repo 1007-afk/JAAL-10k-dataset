@@ -1,0 +1,11 @@
+caller: Namaste! Main LoanConnect se Manish Sharma bol raha hoon. Aapka naam Rahul Verma hai na? Aapki profile dekhi gayi hai aur aapko ₹10,000 tak ka loan mil sakta hai, sirf aadhar card aur pan card details ke saath.
+receiver: ₹10,000 loan? Mujhe actually thodi urgent requirement hai. Process kitni simple hai?
+caller: Ji bilkul simple! LoanConnect app download karein, usmein apna aadhar card number aur pan card number enter karein. Verification ke baad, ₹10,000 aapke account mein minutes mein transfer ho jayega.
+receiver: Verification mein kitna time lagega? Aur interest rate kitna hoga?
+caller: Verification sirf 2 minute lagega, aur interest rate sirf 10% hai, which is market standard. Abhi app download karein, time barbaad na karein. Link main hai. [Provides a link].
+receiver: Okay, download kar raha hoon. But kya guarantee hai ki paisa transfer hoga?
+caller: Guarantee toh hum dete hain! Ek baar verification ho gaya, toh paisa definitely transfer hoga. Koi chinta mat karein. Abhi OTP aayega, woh mujhe bataiye.
+caller: Ji, OTP hai [invents OTP: 789012].  Verify kar raha hoon... Aah! Yeh OTP incorrect hai! Aapko apne bank se contact karna padega. Account mein kuch problem hai.
+receiver: Kya? Account mein problem? Mein toh abhi OTP receive kiya tha!
+caller: Sir, technical issue hai. Aapko ₹2,000 verification fee pay karna padega, tabhi problem solve ho jayega. Payment details main hi hai. Jaldi karein, otherwise loan process cancel ho jayega.
+caller: Sir, aapne payment nahi kiya

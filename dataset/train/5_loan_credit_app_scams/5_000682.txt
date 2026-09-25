@@ -1,0 +1,9 @@
+caller: Namaste sir, mera naam Vijay hai, main Bharat Finance se bol raha hoon. Aapne humari website par personal loan ke liye apply kiya tha, kya?
+receiver: Haan, ji. Apply kiya tha. Bataiye, kya update hai?
+caller: Ji sir, aapka application approve ho gaya hai, bahut achhi khabar hai. Abhi bas verification ke liye kuch details chahiye. Aapka PAN card number ready hai?
+receiver: Haan, hai. PAN card number… wait, ek minute. 123ABCD45678.
+caller: Shukriya sir. Ab aapko ek OTP humare WhatsApp number pe milega. Woh OTP mujhe bata dijiye, verification ke liye.
+receiver: OTP? WhatsApp pe? Mujhe kuch doubt ho raha hai… aise kyun?
+caller: Sir, security ke liye hai. Humara system automatic OTP send karta hai, bina kisi question ke. Jaldi bataiye, sir, nahi to loan sanction process ruk sakta hai.
+receiver: Theek hai, wait. Aa gaya hai. Yeh hai 987654.
+caller: Excellent! Verification complete ho gaya hai. Sir, aapka loan amount ₹75,000 aapke account mein aaj hi transfer kar diya gaya hai. Par ek chota processing charge hai, ₹4,500. Aapko ek UPI ID dena hoga, usmein transfer kar denge.

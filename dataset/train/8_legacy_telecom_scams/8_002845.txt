@@ -1,0 +1,9 @@
+caller: Namaste! Ji haan, main aapse baat kar raha hoon. Aapne ek special deal dekha hoga, '500 Rupees ka Recharge, Free Data 3 Days'!  Dekha hoga, "RECHARGE" message bheje aur data mil jaayega? Aapko yaad hai kuch aisa? Main bas check karna chahta tha ki aapko yeh offer pasand hai ya nahi aur aapki details sahi hain.  Batao, aapne kabhi is recharge scheme ke baare mein sunaya tha?
+receiver: Oh haan, mujhe yaad hai! Mobile pe ek notification aaya tha. Recharge ka idea achcha laga.  Kab se data available hoga?
+caller: Excellent! So, aapne seen offer, that’s great. To proceed, mujhe bas kuch information chahiye. Aapka complete naam aur aapka mobile number jinke par rehara hai, please bataiye.  Aur kya aapke paas koi valid email id hai jahaan hum aapko update bhej sakein?
+receiver: Mera naam Rajesh Kumar hai, aur number 9876543210 hai. Email ID hai rajesh.kumar@gmail.com.  Aap bataiye, abhi fir kya?
+caller: Very good! Thank you Rajesh Kumar for confirming. So, mere paas sirf yeh details hain.  Abhi aapko ek SMS aa jayega, jismein aapko data kaise use karna hai, wahi bataye ga.  Us SMS mein diye gaye instructions ko follow karein.  Aur yaad rakhein, recharge karne ke baad, aapko 3 din ke liye free data milega.  Koi aur sawaal?
+receiver:  Haan, ek sawaal hai.  Free data 3 days ke baad, phir se recharge karna padega? Agar nahi karta, to data stop ho jayega?
+caller:  Arre, simple hai!  Recharge karne ke baad, aapko sirf ek baar recharge karna hoga.  Phir data continue rahega, aur aapko koi extra charge nahi lagega.  Ek SMS bhi aa jayega jismein sab detail likha hoga.  So, let's go ahead and do this?
+receiver:  Haan, okay.  Recharge kar do.  Thank you for explaining.
+caller:  Great! Recharge process starting now...  (pause)... Okay, Rajesh Kumar, aapka recharge successful! Aapko ek SMS aa jayega jismein aapko data activation details hongi. Enjoy your free data!

@@ -1,0 +1,7 @@
+caller: Namaste Sir! Main Indian Railways se Sunil Verma bol raha hoon. Aapke naam par ek parcel booking ki gayi hai, lekin address galat dikha raha hai. Isliye parcel deliver nahi ho pa raha hai.
+receiver: Indian Railways? Parcel? Mujhe to koi parcel booking yaad nahi. Main ne toh kuch bhi order kiya hai. Kya aap mujhe booking ID number de sakte hain?
+caller: Sir, booking ID number 4578923 mein hai. Yeh parcel Delhi se Lucknow jaa raha hai, lekin aapke address mein discrepancy hai. Parcel mein confidential documents hain, isliye hum delay nahi kar sakte. Aapko parcel receive karne ke liye ₹2500 ka clearance fee pay karna padega.
+receiver: ₹2500? Clearance fee? Railways aise fee nahi lete. Mujhe ye zyada suspect lag raha hai. Main ne online check karne ke liye Railways ki website dekhi, lekin wahan kuch bhi nahi dikh raha hai.
+caller: Sir, yeh procedure online nahi hai. Yeh emergency protocol hai. Humara officer aapko video call kar ke verify karega. Payment UPI ke through karna hai, otherwise parcel return ho jayega aur aapko inconvenience hogi.
+receiver: Video call? Theek hai. Lekin pehle mujhe confirmation chahiye ki aap log sahi hain. Aap mujhe Railways ka official contact number de sakte hain? Main wahan call karta hoon aur verify karta hoon.
+caller: Sir, contact number dene se security risk ho jayega. Humare officers trained hain, aur woh hi aapko verify karenge. Please cooperate karein, otherwise aapko parcel nahi milega aur legal action bhi lena pad sakta hai.

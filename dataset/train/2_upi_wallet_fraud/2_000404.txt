@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel Payments Bank se Rohit bol raha hoon. Aapko ek bahut achha cashback offer mila hai – ₹7500 sirf Airtel Payments Bank se hone wale next transaction par!
+receiver: ₹7500? Wow! Really? Mujhe notification toh kuch mila nahi. Batao, kaise claim kar sakta hoon?
+caller: Claim karne ke liye, aapko sirf apna UPI ID share karna hai, taaki cashback direct aapke Airtel Payments Bank wallet mein transfer ho jaye. Aur ek small verification fee bhi apply hota hai, sirf ₹150.
+receiver: ₹150 fee? Aur UPI ID doonga? Yeh thoda risky lag raha hai. Usually toh app mein hi offer claim karne ko option hota hai.
+caller: Sir, ye security ke liye hai. ₹150 verification fee hone se, aapki account ki safety ensure ho jayegi. Aur UPI ID se hum confirm kar sakte hain ki offer aapke genuine account mein hi credit ho. Koi tension nahi lijiye, sir. Aapka loss koi nahi hoga, only benefit!
+receiver: Okay, okay. UPI ID… ₹150 fee… Thoda doubt toh hai, but ₹7500 ka cashback dilane ke liye… Okay, mera UPI ID hai [Victim’s UPI ID].
+caller: Bahut achha! Sir, ab aapko ek OTP milega aapke registered mobile number par. Woh OTP mujhe bata dijiye, verification ke liye. Aur ₹7500 cashback aapke wallet mein transfer kar diya jayega!

@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Axis Bank se Simran bol rahi hoon. Kya aapka naam Mr. Sharma hai?
+receiver: Haanji, main Mr. Sharma hi hoon. Bolo, kya zaroorat hai?
+caller: Achha Mr. Sharma ji, main aapko bataane ke liye call kar rahi hoon ki aapke Axis Bank account mein ek suspicious login attempt hua hai. Hamari security system ne ek unfamiliar device se login ka attempt detect kiya hai, aur isliye hum aapki verification karna chahte hain.
+receiver: Suspicious login? Konse device se? Mujhe toh koi new device use nahi kiya hai. Aap bataiye, kya hua aur mujhe kya karna hoga?
+caller: Ji sir, hamari records ke mutabik, ek laptop se aapke account mein login ka attempt kiya gaya hai jo Delhi se registered hai. Yeh attempt shaam ko 9:00 PM par hua hai.  Aapko is bare mein koi idea hai? Aapki account ki safety ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Nahin, mai OTP nahi dunga.  Yeh toh fraud lag raha hai! Main apne bank manager se baat karta hoon.
+caller: Sir, please understand, this is to protect your funds. We need to verify your identity urgently. For your safety, we will also require your Aadhaar number to confirm your details. It’s a mandatory procedure to safeguard your account.

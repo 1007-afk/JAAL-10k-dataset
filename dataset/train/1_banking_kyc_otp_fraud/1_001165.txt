@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit Sharma calling from Paytm Payments Bank. We've noticed some unusual activity on your account linked to your Aadhaar card. It’s a security precaution.
+receiver: Haan? Paytm se? Unusual activity? Kya hua?
+caller: Yes, sir. A large transaction was attempted from a foreign IP address. To prevent fraudulent withdrawal, we require you to verify your Aadhaar details immediately. Can you please provide the first four digits of your Aadhaar number for confirmation?
+receiver: Aadhaar number? Aur kyon? Main toh Paytm ka regular user hoon. Itne bade transaction se mujhe toh koi message bhi nahi aaya.  Koi aur tareeka hai?
+caller: Sir, due to new RBI regulations, it's mandatory for all bank accounts to undergo verification. It’s for your safety. Provide those four digits, and I’ll send you an OTP to verify. Failure to do so might result in temporary account suspension.
+receiver: Account suspension? Achha. Okay, the first four digits are 1234. But why do you need the whole Aadhaar number later?
+caller: Perfect, sir. Now, for final verification, can you please tell me the name of your mother, exactly as it appears on your Aadhaar card? This is just a quick check, sir, to make sure it's you.

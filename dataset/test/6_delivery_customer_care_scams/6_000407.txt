@@ -1,0 +1,9 @@
+caller: Namaste! Main XYZ Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: XYZ Courier? Kya parcel hai? Mujhe yaad nahi ki maine kuch order kiya tha.
+caller: Parcel mein ek smart watch hai, sir. Lekin hum delivery nahi kar sakte jab tak hum verification complete nahi karte. Kuch details verify karne ke liye aapko ek OTP send karenge.
+receiver: OTP? Kahan send karenge?
+caller: Aapke registered mobile number par send karenge, sir. Jab OTP mile, to mujhe bataaiye. Yeh security check hai, sir, taaki yeh parcel sahi shakhs ko jaye.
+receiver: Theek hai, abhi check karta hoon. Just received the OTP. It’s 4892.
+caller: Shukriya, sir! Ab aapko delivery charges ki payment karni padegi. ₹350 sirf. Hum Paytm ya Google Pay accept karte hain.
+receiver: ₹350? Par ek smart watch hai? Itna charge kyun?
+caller: Sir, yeh urgent charges hain. Parcel aaj hi deliver karna hai, toh yeh charges lag rahe hain. Koi aur option nahi hai. Jaldi se payment karke delivery confirm karein.

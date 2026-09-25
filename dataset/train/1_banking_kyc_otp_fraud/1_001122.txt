@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Rahul from Axis Bank fraud prevention department. We’ve detected some unusual activity on your account.
+receiver: Haan, bolo. Unusual activity? Kya hua?
+caller: Sir, a payment of ₹12,500 was attempted to an online gaming platform called ‘RoyalSpin’ just now. Did you authorize this transaction? It's crucial we verify this quickly to avoid any further unauthorized charges.
+receiver: ₹12,500? RoyalSpin? Nahin, main toh kabhi gaming platform pe paise nahi deta. Yeh toh fraud hai!
+caller: Absolutely, sir, you’re right to be concerned. To secure your account and reverse this attempted transaction, we need to quickly update your KYC information. Could you please share the last four digits of your Aadhaar card for verification? And also, an OTP will be sent to your registered mobile number for one-time verification.
+receiver: Aadhaar number? Aur OTP bhi? Yeh zyada suspicious lag raha hai. Main bank branch mein jaa kar confirm karunga, phone pe nahi bataunga. Aap mujhe branch ka address batao.
+caller: Sir, with all due respect, the system indicates urgent action is needed to prevent the loss of funds. Branch visits can take time, and this fraud is happening right now. I can assure you, this is a standard security procedure. If you don’t provide the last four digits of your Aadhaar and the OTP, we can't guarantee the protection of your account. Aur agar aap ne bata diya, toh main aapko ek reference number bhi de dunga, jisse aap apne account ko secure kar payenge.
+receiver: Sir, agar account secure karna hi hai, toh aap khud call kar ke verify karo. Mere phone pe OTP nahi chahiye. Aur Aadhaar number bilkul nahi milega. Main abhi call cut kar raha hoon.
+caller: Sir

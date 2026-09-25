@@ -1,0 +1,8 @@
+caller: Namaste sir, speaking with Inspector Verma from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Kya? Suspicious items? Mere naam par? Main toh kabhi package order nahi kiya.
+caller: Sir, the package was shipped from overseas and flagged for containing potential contraband. We need to confirm your involvement to clear it. We have a video call running with the parcel inspection team, you’ll need to verify some details to proceed. Please do not disconnect, as that will be considered obstruction of a customs investigation.
+receiver: Obstruction? Par main toh kuch nahi jaanta. Main toh Delhi mein hi rehta hun. Package kis address par gaya tha? Aur yeh contraband kya hai?
+caller: Sir, the package was addressed to your registered address. As per procedure, we need you to deposit a small penalty fee of ₹15,000 to demonstrate your cooperation and clear the package. We can provide you with a secure payment link. This is standard protocol in these cases, sir.
+receiver: ₹15,000? Sir, yeh bahut zyada lag raha hai. Main kisi bhi payment link par click nahi karunga. Yeh scam lag raha hai. Main police mein report karunga.
+caller: Sir, don't be hasty. We have your bank account details associated with the package address. If you delay, we will be forced to escalate the matter to the CBI, and the penalties will be significantly higher. You could face legal action. Just pay the small amount now and we’ll clear everything swiftly.
+receiver: Mera bank account? Aapko kahan se mere account ki details mili? Yeh toh hacking hai! Main abhi police ko call karunga.

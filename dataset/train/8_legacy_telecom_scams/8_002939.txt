@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me? This is a very exciting offer for the World Cup 2026! I’m calling to tell you about our special ‘Celebrate Your Nation!’ package. You get a stunning India cricket jersey and the iconic ‘Vijay’ ringtone for your mobile. Just tap on the notification pop-up for all the details! This is a flash sale, only 3 remaining!
+receiver: Hello? Haan, sunai de raha hai. World Cup 2026 ke liye offer? ‘Celebrate Your Nation!’ package, India jersey aur Vijay ringtone? Sunne mein toh acha lag raha hai. Mobile pe notification dikhega, right? Aur sirf 3 bache hain, wow. Ek minute, main dekhta hu.
+caller: Haan, bilkul! Aur yeh offer toh bahut shubh hai! Aur bataun, maine abhi check kiya, ab toh sirf 2 hi bache hain! Jaldi karna padega, warna miss ho jayega. Ready ho click karne ke liye?
+receiver: Arre yaar, 2 hi bache hain? Time toh kam hai. Okay, main screen pe dekhta hu...haan, dikh raha hai notification. Yeh offer sach mein tempting hai. Click kar deta hun.
+caller: Haanji, click kar diya? Bahut badhiya! Aur suniye, offer toh abhi bhi hai par ab na Sirf 2 hi bache hain! Aur zyada time nahi hai, jaldi se finalize karna padega. Aap ready hain details confirm karne ke liye?
+receiver: Arre, 2 hi bache hain? Yeh toh bada fast chal raha hai! Okay, sunao phir kya details confirm karne hain? Ready hoon.
+caller: Haanji, bas ek dum ready! Ab na, sirf 1 hi bach gaya hai! Last chance! Iska price hai sirf ₹75 for the entire World Cup! Ek baar click kar diya toh yeh phone pe install hojayega aur tum directly World Cup ke saath connect ho jaoge. Kya khayal hai, confirm karein?
+receiver: ₹75? Sabse World Cup ke liye? Aur sirf 1 hi bach gaya hai? Deal toh bahut achi hai. Okay, done! Confirm karo, jaldi se.

@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mein XYZ Crypto Investments se baat kar raha hoon. Aapka naam Rajesh Sharma hai, correct?
+receiver: Haan, woh correct hai. Bolhiye, kya baat hai?
+caller: Sir, humare platform pe abhi ek special offer chal rahi hai. Aap sirf 5000 rupay invest karein aur ek mahine mein 20,000 rupay tak kama sakte hain! Yeh ek limited-time opportunity hai.
+receiver: 20,000 rupay ek mahine mein? Itna zyada? Yeh thoda suspect lag raha hai. Koi hidden charges toh nahi hain?
+caller: Sir, bilkul nahi. Yeh ek completely transparent process hai. Aapko bas apne bank account se 5000 rupay humare wallet mein transfer karne hain. I will send you the wallet address. Just a small investment for huge returns!
+receiver: Okay, wait a second. Mujhe bank account number se suspicion aa rahi hai. Can I talk to someone else at your company?
+caller: Sir, time is running out, offer abhi khatam hone wali hai. Quick, send the amount. We’ll handle everything from there. Don't miss out!
+receiver: Thik hai, ek last thing. Please send me the company registration number.
+caller: Sir, registration number is confidential. Trust us, we’ll make you rich! Just a few more minutes!

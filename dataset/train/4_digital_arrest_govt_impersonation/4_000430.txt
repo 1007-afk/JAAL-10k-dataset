@@ -1,0 +1,9 @@
+caller: Namaste? Mein Kolkata Customs se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items mile hain.
+receiver: Illegal items? Kya? Mujhe toh koi parcel order nahi kiya tha. Yeh kya ho raha hai?
+caller: Haan, ji. Parcel Gujarat se aaya hai aur usmein suspicious documents hain. Yeh matter serious hai, aur CBI investigation kar rahi hai. Aapko is matter mein cooperate karna hoga.
+receiver: CBI? Aur meri? Main toh Gujarat jaise logon ko jaanta bhi nahi. Yeh bahut hi ajeeb lag raha hai.
+caller: Sir/Madam, is matter ko settle karne ke liye aapko ₹15,000 ka fine bharana padega. Yeh amount bank transfer se deposit karna hai, tabhi parcel release hoga.
+receiver: ₹15,000? Tumhari taraf se koi official document hai kya? Koi reference number? Yeh bahut hi shak lag raha hai. Mein police mein report karungi.
+caller: Sir/Madam, please cooperate. Time bahut kam hai aur CBI ka pressure hai. Transfer details mein bhejta hoon SMS mein. Jaldi karo.
+caller: Sir/Madam, last chance hai. Agar aap payment nahi karayenge, to CBI aapke ghar aayega aur arrest karega.
+caller: Please understand, sir/madam. We are just following procedure. This is for your own protection.

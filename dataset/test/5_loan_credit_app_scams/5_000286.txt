@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? This is Akash from QuickCash Solutions. We've pre-approved you for a personal loan of up to ₹30,000 with a very low interest rate! Just a quick verification process, that's all.
+receiver: Really? A loan? That’s…interesting. I wasn’t really looking for one, but ₹30,000 would be helpful. What’s the verification process?
+caller: Simple! We just need to confirm a few details to prevent fraud. Could you please tell me the last four digits of your bank account number and your mother's maiden name? It’s completely secure, sir.
+receiver: Wait a minute. My bank account details? Over the phone? That seems a little risky, doesn't it? I've heard about scams like this.
+caller: Sir, please don’t worry! This is standard procedure for all loan approvals. We need to ensure we’re speaking with the genuine account holder. This is for your security, not ours.  Also, for faster processing, kindly send us a selfie holding your Aadhaar card.
+receiver: Absolutely not! I am not sending you any photos or personal information. This is a scam, plain and simple. I'm hanging up now. Goodbye.
+caller: Sir, you are making a huge mistake! This is your chance to get quick cash! Don't let this opportunity slip away. Just a few more details…

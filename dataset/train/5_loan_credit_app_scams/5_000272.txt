@@ -1,0 +1,8 @@
+caller: Namaste! This is Rohan calling from ‘QuickCash Solutions’. We've noticed you recently applied for a personal loan through our website. Congratulations, your application is pre-approved for a loan amount of ₹75,000! Just a few quick steps to finalize it.
+receiver: Haan, main application toh kiya tha. ₹75,000? Kitna interest hoga? Aur kya-kya documents chahiye?
+caller: Excellent! The interest rate is very competitive – just 8% per annum. To activate your loan, we need you to pay a small processing fee of ₹2,500 as a security deposit. This fee guarantees your loan approval and prevents fraud. You can pay it through UPI to ID: quickcashpay@axis.
+receiver: ₹2,500? Processing fee? Loan pe interest bhi to hoga, ab yeh bhi dena hai? Earlier you didn’t mention anything about this.
+caller: I apologize for the oversight. This fee is standard practice and ensures the loan’s security. Think of it as an insurance against potential risks. We need this amount immediately to lock in your approval. We are also sending you some pictures of you on the website to verify your details and prevent fraudulent applications. This is for your safety.
+receiver: My pictures? What pictures? Website pe toh koi picture nahi daali thi. Yeh thoda suspicious lag raha hai.
+caller: Don't worry, sir. These are just confirmation images, showing that your application has been processed. Now, quickly send the ₹2,500, and we’ll transfer the loan to your account within the next hour. The deadline is approaching.
+receiver: Hold on, I'll have to check with someone. This doesn't feel right.

@@ -1,0 +1,8 @@
+caller: Namaste, sir. Is this Mr. Sharma? I’m calling from BlueLine Logistics. We’re having a slight issue with a package addressed to you. Seems it's stuck at our Jaipur sorting facility.
+receiver: Jaipur? Mujhe to koi package nahi aane wala tha. Kya detail hai package ka?
+caller: Yes sir, tracking number is BL784923. It’s a… uh, a premium electronics item. The problem is, it requires a small customs clearance fee of ₹2800 to proceed.
+receiver: ₹2800? Customs? Mein toh kuch order nahi kiya tha. Ye fraud hai!
+caller: Sir, please don’t worry. It’s a standard procedure for high-value items. To verify your identity and waive the fee, we need a one-time password from your registered mobile number. Just a quick security check.
+receiver: OTP? Nahin, main OTP nahi bataunga. Agar kuch wrong hai toh aapko yeh bataana chahiye tha. BlueLine Logistics... kabhi suna nahi.
+caller: Sir, we understand your concern. But without the OTP, we cannot release the package, and unfortunately, it will be returned to the sender. To avoid this, please provide the OTP. It’s a simple process, sir, just to secure your shipment.
+receiver: Secure my shipment? How about securing my money? Mein report karunga police mein, ye fraud call hai!

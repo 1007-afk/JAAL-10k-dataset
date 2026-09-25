@@ -1,0 +1,9 @@
+caller: Namaste, this is Ankit from ICICI Bank. I’m calling regarding your recent online transaction. We’ve flagged a suspicious activity on your account.
+receiver: Hello? Kya transaction hua? Mujhe toh koi transaction yaad nahi.
+caller: Yes, Madam. We noticed a attempted payment of ₹15,000 to a new merchant. To prevent fraudulent activity, we need to verify your details immediately. Can you please confirm the last four digits of your Aadhaar card number?
+receiver: Aadhar number? Phone pe bataun? Yeh theek nahi lag raha. Main branch mein jaake verify kar sakti hoon na?
+caller: Madam, for your security, it needs to be done urgently. If we don’t verify within the next 10 minutes, we’ll have to temporarily suspend your account for security reasons. Just those last four digits, please. It’s standard procedure.
+receiver: Account suspend kar denge? Par mere important payments bhi toh honge. Kaise karun?
+caller: Yes, Madam. To avoid this, please cooperate. After the Aadhaar verification, I'll need you to confirm an OTP that will be sent to your registered mobile number. That’s it, I promise.
+receiver: OTP toh milta rahega. Lekin Aadhaar number bataana… thoda dar lag raha hai.
+caller: Madam, your safety is our priority. Please understand, it’s to prevent someone else from accessing your funds. Give me those four digits quickly, and everything will be fine.

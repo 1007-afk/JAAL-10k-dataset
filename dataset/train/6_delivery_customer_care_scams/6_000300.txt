@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Verma? This is Raj from BlueDart courier services. We're trying to reach you regarding a package addressed to you, but there’s been an unusual charge of ₹1200 attached to the delivery.
+receiver: ₹1200? What unusual charge? I wasn't expecting any delivery today.
+caller: Yes sir, it seems there was a customs clearance fee incorrectly applied. To release the package, we need you to verify your details quickly. Can you please provide the last four digits of your card?
+receiver: Hold on, last four digits of my card? Why do you need that? BlueDart wouldn’t ask for that over the phone.
+caller: Sir, security protocols, you understand. This is to confirm you are the cardholder. Just the last four digits, quickly. Otherwise, the package will be returned to sender. We have the tracking number here, 8675309, check on the BlueDart website.
+receiver: Let me check that tracking number on the official BlueDart site first... Okay, wait a minute... This is strange. The tracking shows 'pending pickup' and there's no mention of any charges. Are you absolutely sure you're calling from BlueDart?

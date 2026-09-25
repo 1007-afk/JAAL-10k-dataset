@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Flipkart customer care se Rahul bol raha hoon. Aapke naam par ek order aaya hai, ID hai FK7892345. Lekin payment confirmation mein ek problem aa rahi hai.
+receiver: Kya problem hai? Mujhe toh koi order yaad nahi aa raha.
+caller: Ji sir, problem yeh hai ki payment incomplete hai. Rupees 499 ki amount pending hai. Account security ke liye, humein aapka OTP verify karna hoga.
+receiver: Rupees 499? Lekin maine toh Flipkart se kuch order nahi kiya hai. Yeh fraud lag raha hai.
+caller: Sir, galatfee na karayein. Aapka account secure karna humara farz hai. OTP bhej raha hoon, usko check karke confirm karein. Phir hum payment complete kar denge.
+receiver: Ek minute. Mujhe OTP nahi mila. Aur main kabhi bhi Flipkart se direct order nahi karta.
+caller: Sir, OTP aapke registered mobile number par aaya hoga. Check karke dekhiye. Agar payment confirm nahi hua, toh aapka account suspend bhi ho sakta hai. Account ke liye, mujhe device mein ek app install karna hoga, jisse main verify kar paoon.
+receiver: App install karna? Main toh yeh nahi karunga. Yeh scam hai!

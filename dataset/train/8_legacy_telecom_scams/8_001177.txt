@@ -1,0 +1,16 @@
+caller: Namaste! Shubho kam! Tumhara naam udaharan hai, tumhare paas 750 rupees ke digital voucher mil gaye hain ya phir 190 rupees ka guaranteed prize! Aur haan, Diwali ke liye free ticket bhi hai 150 rupees ke monthly lottery mein! Sirf 'DIWALI' type karke 98765 pe message karo. Tumhara naam kya hai beta?
+receiver: Arre yaar! Yeh to bahut achcha deal lag raha hai. Mera naam Vikram hai.
+caller: Vikram beta, bahut sundar naam hai! Toh tumhare paas yeh sab fayde honge. Sirf tumko ek small task karna hai. Jo maine number bataya hai, 98765, uss par ‘DIWALI’ likhkar ek message do. Message bhejoge abhi? Aur haan, yeh offer sirf pahle 5 people ke liye hai, so hurry up.
+receiver: Haan bhai, definitely. Abhi bhejta hoon. Just ‘DIWALI’ likhne hai na? And on 98765? Okay, I will do that now.
+caller: Achchhe din Vikram beta! Jaise hi tumhara message aa jaayga, tumhara naam record hone lagega aur hum tumko bata denge ki ab kya karna hai. Yaad rakh, sirf 2 log aur hain jinke liye yeh offer valid hai. So, hurry and send your message.
+receiver: Okay, I have sent it. Hopefully, I'm one of the first 5. What will happen after that?
+caller: Fantastic Vikram beta! Great! Abhi hum dekh rahe hain. Tum tension mat lo. Dekho, humara message mila hai. Bahut sundar! Abhi next step hai ki tumko ₹299 ka small registration charge dena hoga. Ye sirf verify karne ke liye hai, aur yeh paisa tum lottery mein refund ho jayega ya phir vouchers mein add ho jayega. Kaise karna hai, main tujhe bataunga. Tum UPI use karte ho na?
+receiver: Haan, UPI use karta hoon. Kya UPI ID hai?
+caller: Aao, aao! Congratulations! Aapko 1000 rupees ke shopping vouchers mil gaye hain ya phir 250 rupees ka assured prize! Aur haan, free pass hai 200 rupees ke weekend contest mein! Sirf ‘SHOPPING’ likhkar 88888 pe msg karein. Apka naam kya hai ji?
+receiver: Wah, yeh offer nice hai. Mera naam Priya hai.
+caller: Priya ji, bahut achchi! Toh aapko yeh sab benefit milegi. Sirf ek kaam karna hai. 88888 par sirf ‘SHOPPING’ likh kar message bhejein. Message bhejti hai? Aur haan, yeh offer sirf pahle 6 logon ke liye hai, to hurry karo.
+receiver: Haan, bhejta hoon. Just ‘SHOPPING’ likhne hai na, 88888 pe? Theek hai, abhi kar dunga.
+caller: Priya ji, superb! Jaise hi aapka message aa jaayega, aapka naam register ho jayega aur hum aapko bata denge ki aage kya karna hai. Yaad rakhiyega, sirf 2 log aur hain jinke liye yeh offer valid hai. So, jaldi se message bhej dijiye.
+receiver: Ok, I’ve sent it. Hope I am among the first 6. Next what?
+caller: Amazing Priya Ji! Very good! Abhi hum dekh rahe hain. Tension mat lein. Dekho, humara message mil gaya hai. Priya Ji, bahut sundar! Abhi next step hai ki aapko ₹399 ka small registration fee dena hoga. Ye sirf verification ke liye hai, aur yeh amount aapko contest mein hi refund ho jayega ya phir vouchers mein add ho jayega. Kaise karna hai, main aapko bataunga. Aap UPI use karte hain na?
+receiver: Haan, UPI use karta hoon. UPI ID kya hai?

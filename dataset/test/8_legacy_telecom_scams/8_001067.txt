@@ -1,0 +1,10 @@
+caller: Namaste sir, bahut mazaa came aapne ‘Shine Rewards’ mein jeet liya hai ₹15,000! Is prize ko claim karne ke liye, please apni UPI ID batayein.
+receiver: Kitni? ₹15,000?! Wah! But what is this Shine Rewards? And why are you asking for my UPI ID? This sounds fishy to me. I need some more information before sharing any details.
+caller: Sir, Shine Rewards ek naya scheme hai jo Diwali ke celebrations mein launch hua tha. Apne Diwali ke gifts ke saath aapko register kiya tha.  Aapki UPI ID sirf aapke reward ko instantly transfer karne ke liye chahiye, sir.  Yeh ek simple process hai, bilkul safe.
+receiver: Diwali ke gifts ke saath register kiya tha? Hmm, that’s interesting. But which Diwali gift did I buy? And can you tell me your name and the name of your company? I want to know who I am talking to.
+caller: Sir, meri naam hai Sanjay Patel, ‘Diwali Delight Promotions’ se. Aapne ‘Premium Chocolate Box’ khared kiya tha. Aur humein sirf UPI ID chahiye taaki aapko ₹15,000 immediately mil jayenge.
+receiver: Sanjay Patel, Diwali Delight Promotions... Okay, okay. So you are saying I bought a Premium Chocolate Box?  But how will you verify that? Can you send me an image of the receipt or something? Just to be sure.
+caller: Sir, aapko ek SMS mein confirmation message bheja jayega, jismein aapki chocolate box ka screenshot hoga aur aapka UPI ID bhi visible hoga.  Uske baad aap apne UPI ID ko provide kar sakte hain.
+receiver: Screenshot? And a UPI ID in the SMS? That seems very risky. Are there any other ways to receive this money? Can you give me a different contact number to call?
+caller: Sir, yeh sabse achha tareeka hai.  Aapko koi risk nahi lagni hai.  Isliye, please apni UPI ID batayein, agar aap ₹15,000 soon recieve karna chahte hain.
+receiver: No, thank you. I think I will stick to my savings account for now.  I appreciate the offer, but I'm not comfortable sharing my UPI ID at this stage. Goodbye.

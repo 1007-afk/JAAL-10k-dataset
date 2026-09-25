@@ -1,0 +1,6 @@
+caller: Namaste, main Aaditya hu, Axis Bank se call kar raha hu. Sir, aapke naam par ek suspicious transaction detect hua hai, ₹12,000 Nepal me gaya hai. Immediate action lena hoga.
+receiver: Nepal? ₹12,000? Maine toh kabhi Nepal trip bhi nahi kiya! Transaction ka detail bataiye, aur mujhe call back karne ko kyu nahi kaha?
+caller: Sir, yeh online fraud hai, bahut jaldi se ho raha hai. Aapko apna OTP bataiye, aur bank account number bhi zarurat padegi verification ke liye. Account freeze kar denge, warna ₹50,000 aur bhi cut ho sakte hai.
+receiver: Wait, wait! OTP? Account number? Koi bhi bank phone pe aise details nahi manta, sir. Yeh to scam lag raha hai. Mein police me report karunga.
+caller: Sir, police report karne se kuch nahi hoga, paise toh jaa chuke hain! Account suspend ho jayega, aur aapko loan bhi deny kar denge. Sir, trust me, I’m helping you. Just give me the OTP.
+receiver: Loan? Aapko mera OTP aur account number chahiye ₹12,000 transaction ko explain karne ke liye? Bahut ridiculous! Mein call cut kar raha hu. Aur Axis Bank helpline number pe call karta hu, aapka number block kar dun.

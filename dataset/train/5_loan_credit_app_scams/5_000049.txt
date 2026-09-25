@@ -1,0 +1,9 @@
+caller: Hello, is this Raj Patel? This is Priya calling from LoanFirst India. We've pre-approved you for a quick loan of ₹75,000. Just a few simple questions to verify your details. Are you interested?
+receiver: Oh really? A loan? That sounds good actually. I’ve been needing some extra cash. What details do you need?
+caller: Excellent! First, can you confirm your date of birth for verification purposes? And also, to quickly process, can you share the last four digits of your PAN card? It’s just for security.
+receiver: My date of birth is 12/04/1988. And the last four digits of my PAN are 4567. I hope this is secure?
+caller: Wonderful, Mr. Patel. The system is processing now. There's a small processing fee of ₹2,500 to activate your loan. You can easily pay it through UPI to this number: 9876543210. Once we receive the payment, your loan will be credited immediately.
+receiver: Two thousand five hundred? Just for processing? That seems a little high. Are you sure about that?
+caller: Yes, Mr. Patel, it's standard procedure. Unfortunately, without this one-time processing fee, the loan cannot be released. We don't want you to miss out on this amazing opportunity. Remember, someone else could take your approval.
+receiver: Hmm, I’m still not comfortable with this. It’s all happening very fast. I need to think about it.
+caller: Mr. Patel, please understand, this is a limited-time offer. If you don't make the payment now, the approval will expire. Plus, we have several unsatisfied customers complaining to us, we need to be quick in order to

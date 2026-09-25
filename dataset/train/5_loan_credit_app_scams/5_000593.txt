@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We’ve approved your instant loan of ₹50,000 through ‘LoanMani’ app. Just need to confirm a few details before we release the funds.
+receiver: LoanMani? I applied for a loan, yes, but I haven’t heard about this. Is it really approved?
+caller: Yes, madam. Everything looks good. To activate the loan, we need a small processing fee of ₹2,500. It’s a one-time charge to prevent fraud. You can transfer it to this UPI ID: 8765432109@axisbank.
+receiver: ₹2,500? But the app didn’t mention any processing fee. Is this correct?
+caller: Madam, regulations have changed. This is a mandatory fee now. Without it, we can’t release your loan. Otherwise, the loan will be cancelled. Also, if you don’t pay, we might have to share your details with our recovery department, and they can be quite… persistent.
+receiver: Recovery department? This sounds really suspicious. I'm not comfortable with this. I think I’ll just cancel the loan application.
+caller: Wait, madam! Don’t do that! We can offer you a discount. Just pay ₹1,500, and we’ll release the loan immediately. Please, just do it quickly, otherwise we will proceed with cancellation.

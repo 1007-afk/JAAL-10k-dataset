@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from Bluedart Courier. We have a parcel addressed to you, but there's a slight issue with the payment. The delivery is currently held up.
+receiver: Bluedart? Okay. What's the issue? I didn't order anything expensive.
+caller: Sir, the automated system flagged a mismatch in the payment details. It’s showing a ₹500 processing fee is overdue. We need to quickly verify this. Can you please share the last 4 digits of your bank card so we can clear this?
+receiver: Wait a minute. ₹500? Bluedart never asks for bank details over the phone. This sounds fishy. I’ll check my Bluedart account online.
+caller: Sir, time is of the essence! The parcel will be returned to the sender if the payment isn't sorted within the next 30 minutes. We just need those last four digits to quickly update the system. It’s a standard security procedure, sir. Don’t worry, it's perfectly safe.
+receiver: No, I’m not giving you any card details. I’m going to call Bluedart directly from their official number, which I’ll find on their website. Thank you for your time.
+caller: Sir, please reconsider! This is a very urgent matter, and we are following protocol. Without those last four digits, the parcel will be lost! Don’t let it go to waste, sir. Just a quick verification.

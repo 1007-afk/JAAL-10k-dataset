@@ -1,0 +1,6 @@
+caller: Namaste! Main Flipkart Customer Support se Rahul bol raha hoon. Aapke naam par ek order hai jo deliver hone mein thodi mushkil ho rahi hai. OTP number check karna padega taaki delivery confirm ho sake.
+receiver: Flipkart se call? Kon sa order? Mujhe koi order yaad nahi aa raha. Aur OTP kyon check karna hai?
+caller: Ji, order number hai FLP789456. Yeh ek smart watch ka order hai. Security ke liye, hum OTP check karte hain. Yeh sirf 5 minute ka kaam hai, bina OTP bina deliver nahi hoga.
+receiver: Smart watch ka order? Mereko toh kuch bhi order kiya nahi tha! Aur main apna OTP kisi ko nahi dene wala. Yeh scam lag raha hai.
+caller: Arre madam, galat fehmi mat karein! Yeh Flipkart ki policy hai. Agar aap OTP nahi dengi toh order hold ho jayega aur aapko delivery nahi milegi. Fir kuch din baad aapko delivery charge bhi pay karna padega! Just send the OTP.
+receiver: Bilkul nahi! Flipkart kabhi aise nahi karta. Main abhi Flipkart customer care number pe khud call karti hoon aur puchti hoon. Aapka number batao. Aur mat chhodna!

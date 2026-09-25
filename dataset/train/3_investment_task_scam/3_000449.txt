@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Aapko pata hai ki aap DigiConnect India se baat kar rahe hain? Hum aapke liye ek amazing deal lekar aaye hain! Aapko mil sakta hai ek totally free smart phone, saath mein internet data recharge par 20% tak discount aur 200 local calls! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Main theek hoon, dhanyavaad. Haan, yeh deal kitna acha lag raha hai! Smart phone free, internet discount… yeh sab sahi hai?
+caller: Haan ji absolutely! Yeh sab aapko DigiConnect India ke special campaign ke through milega. Agar aapko digital life mein update hona hai, toh yeh offer aapke liye perfect hai. Sirf do minute mein aapko sab kuch pata hoga. Kya aap interested hain yeh details sunne mein?
+receiver: Haan ji, mujhe interest hai. Bataiye, ye smartphone kis brand ka hai?
+caller: Great! To get started, we just need to confirm a few details. Can you please tell me your full name and your registered mobile number? This will help us quickly process your application.
+receiver: Mera naam hai Priya Patel, aur meri registered mobile number hai 8765432109. Eligibility check kab hoga?
+caller: Shukriya Priya ji! Aapki eligibility check complete ho gayi hai aur aap is offer ke liye completely eligible hain. Abhi humein bas aapke bank account ka kuch basic verification karna hoga. Kya aapke paas Aadhaar card hai?
+receiver: Haan ji, mere paas Aadhaar card hai. Bataiye, verification kyon nehene wali hai?

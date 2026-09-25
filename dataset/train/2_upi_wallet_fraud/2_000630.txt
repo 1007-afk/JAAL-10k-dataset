@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? My name is Ankit, calling from FreeCash Rewards. Congratulations! You’ve been selected for a lucky draw and won a cashback prize of ₹15,000 on your PhonePe account.
+receiver: FreeCash Rewards? Main PhonePe use karta hoon, lekin mujhe koi lucky draw nahi pata. Yeh koi scam to nahi hai?
+caller: Sir, it’s a genuine offer. To claim your prize, we need to verify your account. It’s a simple process, just a small verification fee of ₹999 to cover processing charges and taxes. You can pay it through UPI.
+receiver: ₹999? Verification fee? PhonePe toh kabhi verification fee nahi leta. Main trusting karta hoon, but ₹999 ka fee…
+caller: Sir, this is a one-time charge. Think of it as a small investment to receive ₹15,000! We need to activate your prize immediately. Here's the UPI ID: 8888111122@ybl. Please send ₹999 and let me know once it's done.
+receiver: Okay, wait a minute. I'll check with PhonePe customer care first before making any payment. What is your PhonePe number?
+caller: Sir, PhonePe customer care is not aware of this promotion. They'll try to mislead you. Just pay the ₹999 quickly, and we’ll process your ₹15,000 cashback right away. Don’t miss this amazing opportunity!
+receiver: No, I am not doing that. I am reporting this number to cybercrime.

@@ -1,0 +1,7 @@
+caller: Namaste! Suno ji, main Axis Bank se Deepak bol raha hoon. Apke Axis Bank digital locker mein kuch suspicious activity dikhi hai.
+receiver: Kya? Suspicious activity? Kya hua? Mere locker mein kya hai?
+caller: Haan ji, ek transaction attempt kiya gaya tha Rs 5000 ka. Isko block karne ke liye, aapko ek OTP verify karna hoga. Main aapko ek link bheju.
+receiver: OTP? Link? Par main toh koi transaction nahi kiya. Aur Axis Bank toh SMS se hi inform karta hai.
+caller: Woh system mein technical fault tha, isliye call kar raha hoon. Link par click karke details verify karo. Isme kuch second lag jayega. Bas do minute ka kaam hai.
+receiver: Theek hai, bhejo link. Par mujhe thoda doubt ho raha hai. Koi mistake nahi ho jayega na?
+caller: Bilkul nahi ji, aap befikr rahen. Yeh aapki security ke liye hai. Link open karein aur dekhiye.

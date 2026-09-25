@@ -1,0 +1,10 @@
+caller: Namaste sir, SBI bank se Sanjay bol raha hun. Aapse ek urgent matter mein baat karna chahta hun. Aapki credit card ki expiry date 31st December ki hai aur hum online renewal ka process initiate kare rahe hain.
+receiver: Oh, credit card ki expiry date? Mein samajh mein nahin aaya tha. Online renew karna? Sir, aap SBI se hain kaise pata chalega mujhe? Mera naam Ramesh Kumar hai.
+caller: Sir, aapki safety ka dilchahi rakhne ke liye humein yeh karna padta hai. Credit card details mein mujhe aapka last four digits, date of birth aur registered mobile number chahiye. COVID ki wajah se yeh sab online ho raha hai. Aapka Ramesh Kumar account number bataiye please.
+receiver: Wait, wait. Sir, maine SBI ki website se credit card renew kiya tha. Mein copy of renewal statement to have karna chahta hun. Aapko meri permission chahiye.
+caller: Sir, online process mein time wastage nahi karna hai. Aapka Ramesh Kumar account number bataiye, agar aapki credit card continue lena hai.  Agar aapko doubt hai, to humein bolenge ki yeh ek compulsory procedure hai.  Aapka account number bataiye sir.
+receiver: Okay, okay. Mera account number [Invented Account Number] hai. Date of birth hai [Invented Date of Birth] aur registered mobile number mera yehi hai jo aapne abhi call kiya hai, [Invented Mobile Number]. Aapko yeh details kaafi hain?
+caller: Haan sir, yeh details bilkul kaafi hain. Hum aapki credit card ko renew kar denge.  Aapko ek OTP milega, jo aapko verify karna hoga.  OTP milaftarte hi aapki credit card renew ho jayegi.  Aapke account mein kuchh funds transfer karne ko bolenge, woh sirf verification ke liye hai. Transfer karo [Invented Amount] rupees.
+receiver: Kya matlab? Funds transfer karna? Sir, yeh mai samajh mein nahin araha hai. Mein khud internet se check karunga. Aapko meri permission chahiye na?
+caller: Sir, yeh ek compulsory step hai. Agar aapko koi darr hai, to humein bolenge ki hume KYC update karna hai.  Aapka [Invented Amount] rupees transfer kar dijiye, phir se wapas mil jayega.
+receiver: No way! Main transfer nahin karunga. Aapko batao, yeh kya chal raha hai?

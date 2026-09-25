@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, LoanExpress Solutions se. Aapko urgent paisa chahiye kya, sir? Credit score kam hone se pareshaan mat hoiye, hum sabko loan dete hain.
+receiver: Haan, mujhe thoda paisa chahiye tha, par main credit score ki vajah se dara hua tha. Kitna loan mil sakta hai?
+caller: Bilkul! Aapko ₹30,000 tak ka loan mil sakta hai, sirf ID proof aur photo ke saath. Process bahut easy hai, sir. Bas kuch details chahiye. Aapka bank naam bataiye?
+receiver: Mera account ICICI mein hai. Par mujhe yeh share karna uncomfortable lag raha hai. Kuch proof bhi dena padega?
+caller: Haan, sir, ID proof deni padegi, lekin worry mat kijiye, aapki information safe rahegi. Lekin, verification ke liye, aapki contact list access karne do. Aur phone mein kuch pictures dene hogi, bas verification ke liye.
+receiver: Contact list access? Aur pictures bhi? Yeh toh zyada lag raha hai.
+caller: Sir, yeh security protocol hai. Contact list se hum check karte hain ki aap genuine hai. Aur pictures sirf verification ke liye, kisi ka nuqsan nahi hoga. Agar aapko loan chahiye toh cooperate kijiye. Warna, maafi chahunga, lekin hum koi aur customer ko loan de denge.
+receiver: Mujhe abhi doubt ho raha hai. Mein sochte hoon, phir call karta hu. Thank you.

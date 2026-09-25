@@ -1,0 +1,10 @@
+caller: Namaste sir, main Indian Customs Department se Rahul Sharma bol raha hoon. Aapke naam par ek parcel Mumbai customs mein rok diya gaya hai.
+receiver: Kya? Mere naam par parcel rok diya gaya hai? Main toh kisi parcel ka order bhi nahi kiya tha. Yeh kaise hua?
+caller: Sir, parcel mein illegal items paye gaye hain. Isliye rok diya gaya hai. Aapko parcel clear karne ke liye investigation fees bharनी padegi.
+receiver: Illegal items? Main toh kabhi illegal items nahi order karta. Aur investigation fees kitni bharनी hogi? Aur main payment kaise karunga?
+caller: Sir, fees ₹8,500 hai. Aap Google Pay ya PhonePe se payment kar sakte hain. Payment ke baad parcel aapke address par deliver kar diya jayega. Koi dikkat nahi hogi.
+receiver: ₹8,500? Yeh bahut zyada lag raha hai. Main kisi bhi online platform se payment nahi karunga. Main customs office mein jaakar khud clear karwa lunga. Aur mujhe parcel ka tracking number bhi chahiye.
+caller: Sir, aapko tracking number phone pe nahi milega. Vahi office mein clear karne par milega. Jaldi se payment kar dijiye, warna parcel destroy kar diya jayega. Yeh aapki zimmadari hai.
+receiver: Nahin, sir. Main koi payment nahi karunga. Yeh ek scam lag raha hai. Main police mein complaint karunga.
+caller: Sir, aap galat kar rahe hain. Aapko parcel clear karna hai. ₹8,500 payment kar dijiye. Time barbaad mat kijiye.
+receiver:  Sir, main abhi phone kat raha hoon. Aapko phir se call mat karna.

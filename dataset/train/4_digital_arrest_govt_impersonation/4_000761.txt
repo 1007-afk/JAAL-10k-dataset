@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? My name is Rajesh Kumar, calling from the Cyber Crime Investigation Cell, Delhi.
+receiver: Haan, main hi hoon. Rajesh Kumar? Kya baat hai?
+caller: Sir, we have intercepted suspicious activity linked to your bank account. It appears a large sum of money was recently transferred to an overseas account under the guise of a customs clearance fee.
+receiver: Customs clearance fee? Lekin main toh koi parcel nahi order kiya tha. Yeh kya bakwas hai?
+caller: Sir, don’t panic. We need to verify your details immediately to secure your funds and prevent further fraudulent activity. Can you please confirm your account number and the last four digits of your PAN card? For verification purposes, of course.
+receiver: Account number, PAN card? Yeh bahut suspicious lag raha hai. Main bank mein contact karunga.
+caller: Sir, please do not attempt to contact the bank at this time. Doing so could alert the criminals and jeopardize our investigation. We need to act quickly to freeze the fraudulent transaction. To prove your identity, please tell me the name of your mother.
+receiver: My mother's name is Shanti Devi. But why do you need this information?
+caller: Thank you, Mr. Sharma. That confirms your identity. Now, to recover your funds and prevent further losses, we require a small processing fee of ₹15,000 to be deposited into this account: [provides a random bank account number]. Once the fee is received, we will initiate the process of reversing the fraudulent transaction.
+receiver: ₹15,000? Yeh toh loot hai! Main police mein report karunga.

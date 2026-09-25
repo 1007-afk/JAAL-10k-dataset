@@ -1,0 +1,26 @@
+caller: Namaste sir, main Airtel customer service se baat karta hoon. Aapke phone mein jo SIM card laga hua hai, woh 5 din mein deactivate ho jaega. Kya aap isko renew karna chahte hain?
+receiver: Oh, seriously? Mein toh recently upgrade kiya tha, aur mujhe koi update nahi mila. Mere number ka whatsap ID kya hai?
+caller: Sir, WhatsApp ID sirf isliye seekh raha hoon, taaki main aapke account ka verification kar saku. Aapka home address bhi bataiye, please.
+receiver: Address? Seriously? Main yahaan Delhi mein rehta hoon, gali no. 12, market street. Isme kya dikkat hai?
+caller: Sir, Delhi mein bahut logon ka address hai. Main sirf aapke account mein record check karna chahta hoon. Aapka date of birth bataiye, please.
+receiver: Date of birth? Kya yeh sab legitimately chalega? Mujhe koi doubt hai.
+caller: Sir, yeh sirf aapko secure rakhne ke liye hai. Aapka bank account number bataiye, please.
+receiver: Bank account number? Nahin, nahin! Main ye kisi ko bhi nahi deta. Yeh kitni jaldi hui?
+caller: Sir, humein sirf aapke account ka information check karna hai. Aapka Aadhaar card number bataiye, please.
+receiver: Aadhaar card number? Nahin, maaf karein, main ye bhi nahi bataunga. Main jitna bhi inform karoonga, woh har baar misuse hota hai.
+caller: Sir, please! Aapka account deactivate ho jayega agar aap response nahi dete.
+receiver: Okay, okay! Bata do, bata do! Kaise bataun?
+caller: Namaste sir, main Vodafone Idea customer care se baat karta hoon. Aapke phone mein jo SIM card laga hua hai, woh 10 days mein deactivate ho jaega. Kya aap isko extend karna chahte hain?
+receiver: Hello? Mein Vodafone ka user hoon, lekin mujhe koi notification nahi aaya. Mein kahan rehta hu?
+caller: Sir, notification miss ho sakta hai. Main aapke SIM ko extend karne wala hoon, lekin mujhe kuch details chahiye. Aapka registered email address bataiye.
+receiver: Email address? Kaisa email address? Mein Gmail ya Yahoo use karta hu.
+caller: Sir, koi bhi valid email address sahi hoga. Aapka full name bhi bataiye, please.
+receiver: Mera naam Rahul Kumar hai. Aur mera email id rahul.kumar@gmail.com hai. Kya hua?
+caller: Thank you Rahul. Ab mujhe aapke SIM card ka serial number bataane hoga, jo aapke phone pe print hua hota hai. Vo 14 digits ka hota hai.
+receiver: Serial number? Mobile phone par print hota hai? Maine kabhi dekha nahi.
+caller: Sir, vo aapke SIM card ke cover pe print hota hai. Woh 14 digits ka hota hai, aur wo verify karne ke liye zaroori hai.
+receiver: Arey yaar, mujhe yaad nahi aarahi. Koi alternate method nahi hai?
+caller: Sir, time bahut ghatank hai. Aapka PAN card number bataiye, please.
+receiver: PAN card number? Main ye kisi ko bhi nahi deta. Ye to confidential data hai.
+caller: Sir, aapka account deactivate ho jayega agar aap response nahi dete. Agar aap PAN number bata dega, toh aapka SIM extend ho jayega.
+receiver: Ok, ok! Bata do, bata do! Bata kaise?

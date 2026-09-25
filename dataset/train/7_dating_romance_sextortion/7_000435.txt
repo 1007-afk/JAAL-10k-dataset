@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I'm calling from 'HeartConnect' dating app support. We’ve detected unusual activity on your account and a concerning conversation.
+receiver: What unusual activity? I haven't done anything wrong. What conversation are you talking about?
+caller: A gentleman, Rohan Sharma, has expressed strong interest in you, but he’s worried about his privacy. He shared some very personal photos with you, and now wants to ensure they remain private. He’s asking for a small fee to verify your commitment to keeping these images confidential.
+receiver: A fee? For what? To prove I won't share pictures? That sounds really dodgy.
+caller: It's a standard verification process, Priya. A one-time fee of ₹7,500. Rohan is a successful businessman and very cautious. It’s to confirm you understand the sensitivity of the situation. You can pay via UPI – 9876543210@axisbank.
+receiver: ₹7,500? This is ridiculous! This Rohan sounds like a complete scammer. I'm blocking you and reporting this to HeartConnect. I will contact them directly.
+caller: Wait! Priya, please! He's a very important client, and he's very upset. If you don't pay, he will feel betrayed and may take legal action to recover his images. You don't want that, do you? A quick payment will solve everything.

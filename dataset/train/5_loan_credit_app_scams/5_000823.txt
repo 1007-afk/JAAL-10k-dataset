@@ -1,0 +1,6 @@
+caller: Hello? Madam, this is Rahul from QuickCash Solutions. We’ve noticed you applied for a personal loan recently. There’s a small verification process we need to complete to release the funds.
+receiver: QuickCash Solutions? Yes, I did apply. What verification is needed? I’m a bit busy right now.
+caller: No worries, just a few quick details. For security purposes, could you confirm the last four digits of your bank account number linked to the application?
+receiver: Why do you need that? Shouldn’t that information be secure already with your company? I’m feeling a little uneasy about giving it out over the phone.
+caller: Madam, it's standard procedure. We’re just ensuring we’re speaking with the correct applicant. Also, for the loan to be processed immediately, we require a small processing fee of ₹2500 to be deposited to this UPI ID: quickcash.pay. Please do it as soon as possible so we can transfer the loan amount of ₹60,000 to you.
+receiver: Two thousand five hundred rupees? And a loan of sixty thousand? That seems like a lot for a processing fee. Is this really QuickCash Solutions? I’m going to check their website.

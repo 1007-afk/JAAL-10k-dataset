@@ -1,0 +1,7 @@
+caller: Namaste! Main Akash se baat kar raha hoon, Tata Cliq se. Aapko ek achha cashback offer mil raha hai, sir.
+receiver: Tata Cliq? Mainne toh order kiya tha Flipkart se.
+caller: Haan sir, Tata Cliq ne Flipkart ke saath ek partnership kiya hai. Aapke last order pe ₹750 cashback mil raha hai. Bas ek verification process complete karni hai.
+receiver: ₹750? Kitna achha! Verification ke liye kya karna hai?
+caller: Aapko apne PhonePe app mein ek ‘Cashback Claim’ option mil jayega. Uspe click karke hume ek OTP bhejo jo PhonePe se aayega.
+receiver: PhonePe se OTP? Lekin mein PhonePe hardly use karta hoon. Yeh sahi hai kya?
+caller: Haan sir, absolutely sahi hai! Tata Cliq aur PhonePe ka joint offer hai. Offer miss mat karna! Jaldi karo, sirf aaj tak valid hai.

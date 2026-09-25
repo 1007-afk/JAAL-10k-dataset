@@ -1,0 +1,8 @@
+caller: Namaste sir, main PhonePe security department se Rahul bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kaunsa transaction? Mujhe toh koi message nahi aaya.
+caller: Sir, ek transaction ₹4,500 ka Delhi ke naam se gaya hai. Aapne kiya tha ya nahin?
+receiver: ₹4,500? Nahin, maine toh koi transaction nahi kiya. Mujhe toh kuch bhi pata nahi. Yeh fraud hai!
+caller: Haan sir, shayad fraud hi hai. Iska rollback karne ke liye, aapko apne account details verify karne honge. Aapka OTP aur PhonePe PIN bataiye, main rollback process start kar dunga.
+receiver: OTP aur PIN? Nahin, main woh nahi batayunga! Woh toh risky hai. Aapko PhonePe se hi message aana chahiye, na?
+caller: Sir, system mein technical fault hai. Isliye mujhe aapki help chahiye. Jaldi bataiye, warna ₹4,500 permanently chala jayega. Aur sir, aapko ₹500 processing fee jama karna padega, otherwise transaction rollback nahi hoga.
+receiver: ₹500 processing fee? Yeh toh seedha scam hai! Main police mein complaint karunga!

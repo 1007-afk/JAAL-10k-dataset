@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Deepika bol rahi hoon. Aapke Axis Bank digital wallet mein ₹15,000 ka transaction hua hai ek unknown number se.
+receiver: ₹15,000? Haan, mujhe bhi notification aaya. Kya hua?
+caller: Sir, is transaction ko block karne aur aapke account ko secure karne ke liye, humein aapka OTP verify karna hoga. Is transaction mein kuch galti hui hai, aur humein yeh confirm karna hai ki aap hi account holder hain.
+receiver: OTP? Par woh transaction kaun ne kiya? Mujhe to koi idea nahi hai. Aur aap ne mujhe phone kiya, message kyun nahi kiya?
+caller: Sir, security ke vajah se hum phone par hi confirm karte hain. Aapko ₹15,000 ka OTP share karein, aur main usko block kar dungi. Time bahut kam hai, sir.
+receiver: ₹15,000 ka OTP? Yeh kuch gadbad lagi. Main Axis Bank ke app mein check karunga. Aap ka naam aur employee ID bataiye.
+caller: Sir, mein Deepika Sharma hoon, Axis Bank fraud prevention team se. Employee ID ANX456789. Please sir, time bahut kam hai. Account block ho jayega, sir. Jaldi karo.

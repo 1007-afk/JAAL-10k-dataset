@@ -1,0 +1,7 @@
+caller: Hello, sir? This is Akash from LoanExpress. We’ve processed your loan application, but there's a small verification fee before we can release the funds. It’s just ₹2,500 to confirm your account details.
+receiver: Verification fee? I didn’t see anything about a fee when I applied. The app said it was instant approval.
+caller: Yes, sir, there was a slight update to our policy. This is standard procedure to prevent fraud. Please send the ₹2,500 to the UPI ID LoanExpressPay@xyz. Once it’s received, we’ll process your loan immediately.
+receiver: Okay, I'll send it. But I'm getting a weird feeling about this. Can you give me a reference number for this verification?
+caller: Absolutely, sir. The reference number is LXV-7892. Please be aware, delaying payment may result in your application being cancelled. We also have some compromising pictures you shared during the application process which we can easily circulate to your contacts if you do not comply.
+receiver: What? Pictures? I didn’t send any pictures! This is a scam! I’m reporting you!
+caller: Sir, you uploaded them during the KYC verification. Don't be foolish, sir. Do you want your reputation ruined or not? Send the money immediately and we will delete the photos.

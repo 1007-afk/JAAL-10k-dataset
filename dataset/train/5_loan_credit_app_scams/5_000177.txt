@@ -1,0 +1,8 @@
+caller: Hello? Mai Rahul bol raha hoon, Loan Mitra se. Aapko urgent loan ki zaroorat hai kya? ₹50,000 se ₹1,50,000 tak, sirfadhar ek baar ki verification process ke saath. Koi income proof ya credit check nahi.
+receiver: Loan? Haan, thoda sa loan chahie tha. Kya yeh achha hai?
+caller: Bohot achha hai! Yeh humara special offer hai. Aapka naam bataiye aur hum process shuru karte hain.
+receiver: Mera naam Deepak hai.
+caller: Deepak ji, bilkul! Deepak ji, aapko kitane ka loan chahiye tha? Aur loan ka purpose kya hai?
+receiver: ₹80,000 chahie tha, apne business ke liye.
+caller: Bahut sahi! ₹80,000, Deepak ji. Ab, humko sirf aapki ID proof aur photo verify karne hai. Aapko WhatsApp pe send karna hoga. Jaldi karna, offer limited time ke liye hai. Aur agar aap delay karte hain toh interest rate bad jayega.
+receiver: Okay, WhatsApp number hai 9876543210. Par photo send karne se pehle confirm karna, yeh safe hai?

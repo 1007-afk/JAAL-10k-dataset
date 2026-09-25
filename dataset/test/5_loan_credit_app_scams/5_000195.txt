@@ -1,0 +1,7 @@
+caller: Namaste! Main SmartCredit Solutions se Rahul bol raha hoon. Aapko urgent loan ki zaroorat hai kya? Hum doorstep loan provide karte hain, koi paperwork nahi.
+receiver: Doorstep loan? Kitna interest hoga? Aur kiti amount mil sakti hoon?
+caller: Ji, interest rate market standard hai, aur aap ₹15000 tak ka loan le sakte hain, sirf ID proof aur address proof saath mein rakhna. Processing fee ₹500 sirf.
+receiver: ₹500 processing fee? Yeh thoda zyada lag raha hai.
+caller: Priya ji, ₹500 processing fee mandatory hai, lekin iske baad aapko interest bahut kam pay karna hoga. Otherwise, loan nahi milega. Aapka account details share karein taaki hum process shuru kar sakte hain.
+receiver: Nahi, mujhe thoda time chahiye sochne ke liye. 
+caller: Priya ji, time nahi hai! Yeh offer sirf aaj ke liye hai. Abhi karwa lijiye, warna kal tak offer khatam ho jayegi. Aage se interest badh jayega!

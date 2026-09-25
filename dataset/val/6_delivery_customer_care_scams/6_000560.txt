@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Zara hai, Flipkart se. Aapke naam par ek order aaya hai, lekin payment mein kuch dikkat aa rahi hai.
+receiver: Oh, really? What order is it? I haven’t placed anything recently.
+caller:  Yeh ek smart TV hai, sir/madam. Order number FLP-789456. Payment gateway ne reject kar diya, kyuki kuch suspicion hai. Aapko sirf ₹300 verify karni padegi, tab hi TV deliver hoga.
+receiver: ₹300? What do I need to do to verify? It sounds a bit suspicious.
+caller:  Sir/madam, aapko ek OTP milega, woh mujhe bataiye. Aur iske saath, ek small verification fee apply hogi, ₹250.  Iske baad TV deliver ho jayega, promise! Abhi call ka charge ₹10 per minute hai, so please confirm quickly.
+receiver:  OTP? That sounds dangerous. I’m not comfortable giving out an OTP.
+caller:  Sir/madam, please samajhijiye, rules hai! Without OTP, hum deliver nahi kar sakte.  Aapka TV ruk jayega.  Just one OTP, sir/madam! Jaldi karein, otherwise order cancel ho jayega!

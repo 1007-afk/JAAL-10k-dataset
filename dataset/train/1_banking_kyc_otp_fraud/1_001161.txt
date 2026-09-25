@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Sharma? I'm calling from the State Bank of India's fraud prevention department. We've noticed unusual activity on your account and need to verify some details immediately.
+receiver: Haan, mein Priya Sharma hoon. Kya hua? Unusual activity?
+caller: Yes, ma’am. A transaction of ₹12,000 was attempted from your account to an unknown merchant. We are blocking the transaction, but for security purposes, we need to verify a one-time password (OTP) sent to your registered mobile number.
+receiver: OTP? Par mujhe toh koi OTP nahi mila. Aur transaction bhi ₹12,000 ka? Mein toh kabhi itna paisa nahi nikaala.
+caller: Ma’am, sometimes OTPs take a few minutes to arrive. To prevent further fraudulent activity, could you please share the OTP once you receive it? It’s vital to secure your funds. We are also seeing suspicious activity on two other customer accounts.
+receiver: Wait, wait… OTP ka intezaar karo. Aur ₹12,000? Mein police mein report karungi agar kuch ghalat hua. Mujhe doubt ho raha hai.
+caller: Ma'am, don't worry, we're here to protect you! We need to act quickly. It’s a very serious matter. The fraudster is quite sophisticated. Just the OTP, please, for your safety. We have limited time before the unauthorized transaction goes through.
+receiver: Okay, thik hai... Chalo dekhte hain. But jab OTP milega, tab hi main kuch bolungi.

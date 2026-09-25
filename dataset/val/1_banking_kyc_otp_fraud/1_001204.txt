@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? This is Deepak from Federal Bank’s security department.
+receiver: Haan, bolie. Federal Bank?
+caller: Ji, sir. We’ve detected unusual activity on your account – a large attempted transfer to a foreign account. For your safety, we need to quickly verify your details.
+receiver: What transfer? How much? I haven't done any such thing.
+caller: Sir, it’s ₹45,000. The system flagged it automatically. To block it immediately, we need to confirm your Aadhaar number and the OTP we're sending to your registered mobile.
+receiver: Aadhaar number? Over the phone? That’s not right. Federal Bank never asks for Aadhaar over the phone. I'll go to the branch.
+caller: Sir, branch timings are over. This is an urgent security measure. If you don't cooperate now, the transfer will go through and your account will be compromised. Just give me the OTP, sir, it will only take a moment.
+receiver: Compromised? Listen, this sounds like a scam. I'm reporting this number.
+caller: Sir, please, don't be hasty. This is to protect your money. One last thing, just confirm the last four digits of your debit card.

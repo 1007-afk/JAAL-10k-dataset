@@ -1,0 +1,7 @@
+caller: Namaste! Madam/Sir, are you looking for ways to earn extra income from home? We have a fantastic opportunity with CoinGain, a new crypto investment platform.
+receiver: Crypto? I’ve heard mixed things about it. What kind of opportunity are you talking about?
+caller: We're offering a referral program where you earn ₹50 for every person you refer who invests. It's very simple - you share your referral link, they invest, and you get paid.  Minimum investment for your referrals is ₹1000.
+receiver:  ₹50 per referral? Sounds okay, but how do I know this isn't a scam? I've seen so many online.
+caller: Absolutely understandable! To verify, we need to set up your CoinGain account and link your bank details for payment. This is just a one-time verification process.  We'll send you a small test deposit of ₹20 to confirm everything works. Please share your bank account number and IFSC code.
+receiver: Wait a minute. A test deposit *before* I even refer anyone? That seems a bit strange. Are you sure this is standard procedure?
+caller: Ji, Madam/Sir, it’s essential for security. We want to ensure your account is fully verified and secure before any payments are processed.  Just a small precaution to protect both you and CoinGain. Also, to activate the referral link quickly, please send us a small verification fee of ₹500. This will be refunded along with your first payment.

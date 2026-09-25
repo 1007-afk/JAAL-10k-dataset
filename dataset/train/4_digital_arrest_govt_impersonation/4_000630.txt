@@ -1,0 +1,7 @@
+caller: Namaste Sir! Main Indian Railways se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin billing address se mismatch hone ke karan, hum verify karna chahte hain.
+receiver: Oh, parcel? Mujhe toh koi intimation nahi mila. Kis company se hai parcel?
+caller: Sir, yeh Bharat Petroleum se hai. Hai ek sensitive document package. Security protocol ke according, humein aapki ID aur address proof verify karna hoga.
+receiver: ID aur address proof? Yeh toh zyada lag raha hai, Sir. Railways wale aise demand nahi karte.
+caller: Sir, yeh new protocol hai cyber security ke liye. Scamsters ki activities bad rahi hain.  Aapko sirf copy of your Aadhaar card aur bank statement WhatsApp par bhejna hai. Ek baar verify ho gaya, parcel deliver ho jayega.
+receiver: Arey yaar, Aadhaar card aur bank statement? Kuch gadbad lag rahi hai. Mein nahi bhejoonga, Sir. Main police mein report karunga.
+caller: Sir, please dont be rude, yeh aapke interest mein hai. Jo parcel mein hai, woh aapki life change kar sakta hai. Apne family ko safe rakhe, aur trust karein!

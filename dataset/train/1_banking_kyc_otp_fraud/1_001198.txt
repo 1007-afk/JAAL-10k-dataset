@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Rajesh Sharma? My name is Priya, calling from Axis Bank’s KYC department.
+receiver: Haanji, bolie. Main Rajesh Sharma bol raha hoon. KYC department?
+caller: Ji, Mr. Sharma. We’ve noticed some unusual activity on your account and for security purposes, we need to urgently update your KYC information. There's a risk your account could be temporarily suspended if this isn't done within the next hour.
+receiver: Account suspend? Kaise kaise unusual activity? Main toh koi transaction nahi kiya aaj tak. Kya karna padega?
+caller: Sir, it’s a precautionary measure. To verify your identity, could you please share the last four digits of your Aadhaar card? We need to ensure it matches our records.
+receiver: Aadhaar number? Itna sensitive information phone pe? Is this really Axis Bank?
+caller: Absolutely, sir. We understand your concern, but this is a standard procedure. For your protection, we need this verification immediately. The system will then prompt you to enter the OTP we'll send to your registered mobile number.
+receiver: OTP bhi dooge?  Okay, wait a minute. Let me just confirm your number first. Can you tell me the official Axis Bank customer care number?

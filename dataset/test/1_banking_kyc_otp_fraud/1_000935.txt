@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Rohan bol raha hu. Aapke account mein kuch suspicious activity dikhi hai, sir. Kisi ne OTP request kiya hai, jo aapne nahi kiya hai.
+receiver: Haan, mujhe bhi ek OTP aaya tha. Maine use ignore kiya tha. Kya hua iska matlab?
+caller: Matlab ye hai ki koi aapke account se illegal transactions karne ki koshish kar raha hai. Hamko urgently verification karna hai aapke account ko secure karne ke liye. Aapka Aadhaar card number aur ek OTP share karein taaki ham verify kar sakein.
+receiver: Sir, main ek baar apne bank manager se baat karunga. Mujhe logon se Aadhaar number share karne se dar lagi hai.
+caller: Sir, time bahut kam hai. Agar aap verify nahi karenge toh account suspend ho sakta hai. Think about all your money. Just give me the Aadhaar number and the OTP, quick quick. It's just a precaution.
+receiver: Thik hai, ek minute. Mai phone band kar raha hu aur bank se direct contact karunga. Main kisi ko bhi koi information nahi dene wala. Bye.
+caller: Arre sir, please! Don't do that! Just give the OTP, I promise it will only take a minute! Account suspend ho jayega!

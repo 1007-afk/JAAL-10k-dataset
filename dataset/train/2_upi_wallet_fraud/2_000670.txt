@@ -1,0 +1,8 @@
+caller: Namaste, sir/madam. Mein Vijay hai, PhonePe se call kar raha hoon. Aapke PhonePe account mein ek suspicious login attempt detect hua hai.
+receiver: Oh, really? Suspicious login? Kab hua? Mujhe notification nahi aaya.
+caller: Haan ji, ek new device se login try kiya gaya tha. Aapki security ke liye, humein confirm karna hai ki yeh aap hi hain.  Aapka OTP share karein, tab tak hum account ko suspend kar denge. OTP aapko PhonePe app mein mil jayega.
+receiver: OTP?  Par kyun?  Mein toh PhonePe use kar raha hoon, kuch bhi dikkat nahi hai. Aur OTP toh main kabhi bhi kisi ko nahi deta.
+caller: Sir/madam, please, time waste na karein.  Fraudsters bahut active hain. OTP se hi account secure ho payega.  Yeh process sirf 5 minute ka hai.  Agar aap OTP nahi de rahe hain toh aapka account block ho sakta hai, aur aap lose kar sakte hain aapke account mein ₹5000 cashback offer jo aapko rakha hai.
+receiver: ₹5000 cashback? Mainko pata nahi tha.  Par OTP dena sahi nahi hai. Mein PhonePe customer care number pe call karta hoon aur bolta hoon.
+caller: Sir/madam, yeh PhonePe customer care number hi hai.  Hamare officials aapko help karne ke liye ready hain.  Fastest way to secure your account OTP share karna hai.  Aapko ek KYC verification link bhi send karenge jahan aapko ek photo upload karna hai.
+receiver: KYC verification? Photo?  Itna zyada information? Mein nahi dunga.  Tum fraud ho!

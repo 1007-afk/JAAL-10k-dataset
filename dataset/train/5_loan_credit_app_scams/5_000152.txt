@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rajesh hai, main LoanSaathi se baat kar raha hoon. Aapki profile dekh kar, hume lagta hai aapke liye ek achhi loan offer hai. ₹75,000 tak ka loan, sirf KYC verification ke baad.
+receiver: Loan? Kitni interest hogi? Aur KYC verification mein kya include hai?
+caller: Interest rate sirf 8% hai, bohot kam! KYC mein aapka naam, address, Aadhaar card, aur bank account details chahiye. Yeh bas process ka hissa hai, safety ke liye.
+receiver: Aadhaar card? Mujhe woh share karne mein jitna confidence nahi hai. Online fraud bahut ho rahe hain aajkal.
+caller: Arre, fraud se mat daro! LoanSaathi government-approved hai. Agar aap koi proof submit nahi kar rahe ho, toh humara system aapko trust nahi karega. Aur agar aap late karoge, toh hum aapke contacts ko bhi inform karenge.
+receiver: Contacts ko inform karoge? Yeh kaisa rule hai? Mein abhi cancel karna chahta hoon.
+caller:  Arey, arre, thoda aur samjho. Yeh legal process hai! Loan approve hone ke baad aapko paisa almost instant mil jayega. Just send me your Aadhaar card number and a selfie holding your bank passbook.
+receiver:  Yeh nahi karunga. Main police mein report karunga.
+caller: Police?  Arey bhai, itna strict kyun ho? Just a selfie, and you’ll get your money. Or, do you want us to start with sending a legal notice to your family? Think about it.

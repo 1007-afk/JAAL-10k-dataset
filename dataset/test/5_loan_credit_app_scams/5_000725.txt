@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajat hai, ExpressCash Solutions se. Aapko kab se loan ke liye apply karne ka soch rahe hain? Humara ek special offer hai, sirf limited time ke liye.
+receiver: ExpressCash Solutions? Mai toh abhi tak kuch soch rahi thi. Loan kitna mil sakta hai aur interest rate kya hoga?
+caller: Zaroor! Aapko ₹50,000 se ₹2 lakh tak ka loan mil sakta hai, sirf aapki PAN card aur Aadhaar card se. Interest rate sirf 12% per annum hai, bohot hi attractive offer hai.
+receiver: 12%? Theek hai, yeh toh manageable hai. Process kitni simple hai? Mujhe urgently paisa chahiye.
+caller: Bahut simple hai! Aapko sirf humare app ko download karna hai, apna KYC documents upload karne hain, aur thode se details fill karne hain. Jab aapki verification complete ho jayegi, toh paisa direct aapke bank account mein transfer ho jayega. App ka naam LoanQuick hai.
+receiver: LoanQuick? Okay, main download kar lungi. But mujhe confirm karo, koi hidden charges nahi honge?
+caller: Absolutely! Koi bhi hidden charges nahi hain. Sirf processing fee lagegi ₹2,500, jo verification ke baad apply hogi. Jab aap loan repay kar denge, toh woh bhi refund ho jayega. Jaldi karo, offer limited time ke liye hi hai!

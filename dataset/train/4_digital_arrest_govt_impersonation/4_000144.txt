@@ -1,0 +1,7 @@
+caller: Hello sir, this is Deepak from the Directorate of Enforcement. We've detected suspicious activity linked to your UPI account.
+receiver: Directorate of Enforcement? What kind of activity? I haven't done anything wrong.
+caller: Sir, a large sum of money, approximately 7 lakh rupees, has been transferred from an unknown source into your account and then immediately rerouted. It appears to be linked to an illegal online gambling ring.
+receiver: 7 lakh? That’s impossible! I don't even gamble. This must be a mistake. Can you please tell me the case number or give me a contact number for a senior officer?
+caller: Sir, we are currently dealing with a sensitive matter, and divulging case details could compromise the investigation. To clear your name, you need to pay a small compliance fee of 15,000 rupees to demonstrate your good faith and cooperation. This will ensure a swift resolution. Please transfer it to the account I will provide.
+receiver: Fifteen thousand rupees? Just like that? Without any proper investigation or proof? This sounds like a scam. I am not paying anything until I verify this with your official website and speak to someone at the ED office directly.
+caller: Sir, delaying this will only complicate things further. If you don't cooperate, we might have to freeze your account and initiate legal proceedings. The transfer link is here, please process immediately. We are losing time, and it is best to resolve this quickly.

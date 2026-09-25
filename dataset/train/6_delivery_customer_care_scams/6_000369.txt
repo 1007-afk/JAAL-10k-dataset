@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from Zomato customer care. We’ve noticed some unusual activity on your account.
+receiver: Haan, main Priya Sharma bol rahi hoon. Kya hua?
+caller:  There's been an attempted payment of ₹12,500 from your Zomato Pay wallet. We’re investigating. To secure your account, we need to verify a one-time password we’ve just sent to your registered mobile number.
+receiver: ₹12,500? Nahin, main toh aisa koi order nahi kiya. Mujhe toh koi OTP bhi nahi aaya.
+caller:  Okay, madam. Sometimes there's a slight delay. Could you please quickly check your messages? Just to confirm, can you please tell me the last four digits of the card linked to your Zomato wallet? We need to make sure the account is truly yours.
+receiver:  Ek minute, main check karti hoon. Par card details bataane se pehle mujhe thoda suspicion ho rahi hai. Zomato toh kabhi phone pe card details nahi puchein ge.
+caller: Madam, it’s a security protocol. We understand your concern, but without confirming those last four digits, we can’t proceed with fully securing your account and reversing the unauthorized transaction. Otherwise, we’ll have to temporarily freeze your account for your safety.
+receiver:  Freeze kar den, koi baat nahi. Mujhe koi OTP nahi mila, aur main card details bhi nahi de sakti. Main Zomato ke customer care number se hi check karti hoon.
+caller: Madam, please don’t do that. You’re putting your account at risk. We are trying to help you, and the genuine Zomato number might even be spoofed by fraudsters. Just one last digit, please.

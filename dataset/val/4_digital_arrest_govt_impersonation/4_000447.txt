@@ -1,0 +1,8 @@
+caller: Hello, is this Ms. Sharma? We are calling from the Directorate of Revenue Intelligence, Mumbai. We have information regarding a suspicious international parcel linked to your address.
+receiver: Directorate of Revenue Intelligence? Yeh kis baat ki? Mujhe koi parcel nahi mila.
+caller: Ji, Ms. Sharma. According to our records, a package containing suspected contraband was intercepted at the airport, addressed to your residence. It appears there may be a case of illegal import involved. We need to verify your details.
+receiver: Contraband? Illegal import? Yeh kaun kar raha hai? Main toh kabhi parcel order bhi nahi karti. Aur kya verification hai?
+caller: To clear this up, Ms. Sharma, we need to confirm your bank account details – just the last four digits of your account number and the name on the account. This is a standard procedure to ensure the parcel wasn't purchased using illicit funds.
+receiver: Bank account number? Kaise yeh legal hai? Government department wale account number maang rahe hain? Yeh toh scam lag raha hai! Main police ko report karungi.
+caller: Ms. Sharma, please understand, delaying this verification process will only complicate matters. We are trying to protect you from legal repercussions. If we don't hear back, we’ll have to escalate the matter to the court and you'll be required to appear in person.
+receiver: Court? Repercussions? Kya bakwaas bol rahe ho! Main call kaat rahi hoon. Yeh log pakde jayenge.

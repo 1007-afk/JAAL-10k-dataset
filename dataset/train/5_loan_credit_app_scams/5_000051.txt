@@ -1,0 +1,9 @@
+caller: Namaste! This is Rohan from QuickCash Solutions. I see you applied for a loan through our app recently. Just confirming a few details to process your application faster. What’s your full name, please?
+receiver: Hello. My name is Anjali Sharma.
+caller: Thank you, Anjali ji. Everything looks good on your end. We can approve you for up to ₹15,000.  Just a small processing fee of ₹800 needs to be paid upfront to activate your loan. It’s refundable, of course.  You can pay it through UPI.
+receiver: ₹800? That seems a bit high. The app didn’t mention anything about this.
+caller: Anjali ji, this is a standard procedure. Think of it as verification charges. Without it, we can't guarantee your loan.  We wouldn’t want you to miss out. The money will be credited to your account within minutes once the payment is confirmed. Give me your UPI ID.
+receiver: I’m a little hesitant. Can I speak to someone about this? Or see a confirmation in the app?
+caller: Look, Anjali, time is running out. Offers like this don't last long. Many people are waiting for QuickCash Solutions. If you don't pay now, your application will be rejected and you'll lose the chance. Just send the ₹800 and you’ll have your loan in no time. Don't delay it!
+receiver: I'm not comfortable with this. I think I'll just cancel the application. Goodbye.
+caller: Seriously? You're going to throw away ₹15,000 just over ₹800? You're making a big mistake, Anjali. A really big mistake.

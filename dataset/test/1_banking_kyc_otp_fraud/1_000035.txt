@@ -1,0 +1,13 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se call kar raha hu. Mein dekh raha tha ki aapka mobile number dekha gaya hai. Ismein koi problem hai?
+receiver:Haan, kya problem hai? Main toh mobile internet band hai.
+caller:Haan, woh maine dekha hai. Tumhare network provider, ShreeConnect ka ek special offer hai. Tumhara data speed badhane ke liye humein tumhari consent ki zaroorat hai. Agar tum consent de rahe ho, toh tum logo ko free extra 5GB data milega. Parantu, yeh consent form online fill karna hai.
+receiver: 5GB data? Free mein? Thoda confuse ho raha hu mai.
+caller: Firr tumhare mobile mein ek OTP verification code milega. OTP tumhara mobile balance number par aaega. Kindly OTP enter karo, otherwise tum apna 5GB data loss ho jayega.
+receiver: Mobile balance number? Woh kahan pata milta hai?
+caller: Tumhara mobile number hi OTP hoga. Just tumhare mobile number ko enter karo, phir submit karo. Tumhein sirf ek baar chance milega, please hurry karo.
+receiver: Wait karo, wait karo... Main check karta hu. Mobile number enter karne ke liye mujhe ek website ki requirement hai. Website ka address hai - shreeconnect.com/offer.
+caller: Haan, website par jao aur form fill karo. Form fill karte hi tumko OTP milega. OTP submit karna mat bhulna. Agar OTP submit nahi kiya toh tum apna 5GB data loss ho jayega.
+receiver: Okay, okay... Main form fill kar raha hu. Ab OTP milega?
+caller: Haan, jald hi OTP milega. Kindly OTP enter karo aur submit karo. Agar OTP submit kare toh tum 5GB data free milega.
+receiver: OTP mila! Submit kar deta hu. Now what?
+caller: Congratulations! Tumko 5GB data free mil gaya hai. Apne account mein check karo. Thank you!

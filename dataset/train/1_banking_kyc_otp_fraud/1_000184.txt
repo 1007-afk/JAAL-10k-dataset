@@ -1,0 +1,8 @@
+caller: Namaste, sir! Apni call pe thank you. Main aapko batana chahunga ki humne aapke number par kuch missed calls aayi hain. Kya aapko kisi bhi call se yaad hai ya nahi? Humne ek important message jankari dilaane ke liye call kiya hai.
+receiver: Haan, namaste! Main ne dekha ki kuch calls miss hui hain. Mai meeting mein tha aur pickup nahi kar paya. Message ka subject kya tha?
+caller: Arre, abhi toh koi problem nahi hai. Humare message mein kaha tha ki aapke account mein ek new transaction aaya hai, aur humne aapko iski information dilaane ki koshish ki. Kya aapko recent days mein koi online payment mila tha? Yeh account verification ke liye tha, taaki transaction sahi ho. Chaliye, main aapka name aur bank account number check karta hu, agar koi mistake nahi hoti.
+receiver: Oh, transaction! Haan, main ne recently Flipkart se ek laptop order kiya tha.  Yeh account verification ke liye tha.  Chaliye, batao.
+caller: Bahut achha! Aapka name [Mr. Sharma] hai aur aapka bank account number [Account Number - Example: 123456789012]. Kya yeh sahi hai?
+receiver: Haan, meri name [Mr. Sharma] hai aur account number [Account Number - Example: 123456789012] hai. Confirm karein ki yeh sahi hai.
+caller: Shukriya, Mr. Sharma! Aapka address hai [Address - Example: Flat No. 102, Sector 12, Noida], aur pin code [Pin Code - Example: 110096]. Ab, delivery ko confirm karne ke liye, hume aapke mobile number par ek OTP bhejna hoga. Kya aap OTP verify kar sakte hain? Yeh aapki account ko secure rakhne ke liye hai.
+receiver: Haan, mere mobile number [Mobile Number - Example: 9876543210] hai. OTP bhejo.

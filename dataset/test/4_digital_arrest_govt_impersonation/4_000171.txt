@@ -1,0 +1,8 @@
+caller: Hello, this is the Cyber Crime Investigation Cell, speaking. We've detected suspicious activity linked to your mobile number related to an illegal parcel delivery.
+receiver: Illegal parcel delivery? What do you mean? I haven't ordered anything.
+caller: Sir, our records show a consignment containing narcotics was registered under your name and address. We need to verify this urgently. We have already sent a notice to your local police station. We are on a video call to ensure transparency.
+receiver: Narcotics? That’s ridiculous! I've never been involved in anything like that. Is this a prank call?
+caller: Sir, this is a serious matter. To clear your name and prevent your arrest, we require a small processing fee of ₹12,000 to cover the investigation costs and legal verification. You can pay via Google Pay.
+receiver: Twelve thousand rupees? Just to clear my name? Why can’t I go to the police station myself and sort this out?
+caller: Sir, due to the sensitivity of the case and ongoing investigation, direct visits are not permitted. The fee is a standard procedure to ensure the case is handled swiftly and discreetly. We are still on the video call to monitor your actions and prevent you from contacting anyone.
+receiver: This sounds like a scam. I'm ending the call.

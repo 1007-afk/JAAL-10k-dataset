@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rahul Verma, LoanPlus se bol raha hoon. Aapne LoanPlus app par ek loan ke liye apply kiya tha, hai na?
+receiver: Haan, mujhe yaad hai. Lekin maine abhi koi loan nahi liya hai.
+caller: Ji, aapka application process ho gaya hai, lekin verification ke liye kuch details confirm karne hai. Aapka PAN card number aur bank account number bataiye taaki hum process ko complete kar sakein.
+receiver: PAN card number phone pe? Yeh theek nahi lag raha. LoanPlus ne kabhi bhi phone pe PAN card number nahi manga.
+caller: Suniye suniye, yeh urgent hai. Verification ke bina aapko loan nahi milega. Aur agar aap verification nahi karayenge, toh aapka account suspend bhi ho sakta hai. Abhi jald hi bataiye, warna delay ho jayega.
+receiver: Account suspend? Aur yeh sab kyon ho raha hai? Mujhe LoanPlus se koi email ya SMS nahi mila hai.
+caller: Dekhiye, technical issues ki wajah se aapko notification nahi mila. Lekin aapko loan milna chahiye. Bas apna PAN card number bata dijiye. Agar aap bata nahi rahe, toh main apne senior officer ko inform karunga. Unke pass aur strict action le sakte hain.
+receiver: Strict action? Yeh toh scam lag raha hai. Mai koi bhi details nahi batayega.

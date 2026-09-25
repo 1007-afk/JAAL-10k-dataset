@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? We're calling from InstaCash, a leading online loan provider. We’ve pre-approved you for a personal loan of ₹75,000! A fantastic opportunity to clear your debts or handle unexpected expenses.
+receiver: InstaCash? I don’t remember applying for a loan. What’s this about?
+caller: Wonderful! It’s a promotional offer for select customers. To activate the loan and prevent it from expiring, we just need to verify your details. Go to secure-cashverify.com and enter the reference code Alpha789. It’s super quick, just a couple of minutes.
+receiver: secure-cashverify.com? That sounds a bit fishy. Why didn’t I receive any emails or SMS about this pre-approval? And why do I need a reference code?
+caller: Don't worry, Priya! It's a new system. The code is to ensure it’s genuinely you accessing the offer. Just quickly enter it and confirm your bank details - we need your UPI ID for immediate disbursement. Only 4 spots left for this offer today!
+receiver: UPI ID? Wait a minute… That’s quite a lot of personal information to be sharing on a website I've never heard of. I'm not comfortable with this.
+caller: Priya, listen carefully! Don't miss out on this! If you don't give us your UPI ID now, we will have to cancel your approval and mark you as a risky borrower. And we have your photos from your social media accounts. We can send them to your family and friends if you don't cooperate.

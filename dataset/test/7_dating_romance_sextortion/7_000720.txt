@@ -1,0 +1,7 @@
+caller: Hello! My name is Aarav. I saw your profile on Vibecatch, and you seem really lovely. I’m new to this app but your smile caught my eye. Hope you’re having a good day!
+receiver: Hi Aarav! Thanks! That's really sweet to hear. It's been a pretty good day so far, you?
+caller: It's going well, thanks! I’m just enjoying browsing Vibecatch and connecting with people. I'm working as a freelance photographer, travelling around a bit. It's quite hectic, but exciting! What do you do?
+receiver: That sounds amazing! I’m a teacher. It's rewarding but can be tiring too. A photographer though – wow! That must be a great life.
+caller: It has its perks! Listen, I'm in Rishikesh right now, capturing some incredible scenery. There's been a bit of a problem though… my bank card got blocked, and I'm stuck here until I can sort it out. Could you possibly send me ₹5000 to cover my basic expenses while I get it sorted? I’ll pay you back as soon as I’m back in Mumbai.
+receiver: Oh no, that's awful! I’m sorry to hear that. ₹5000… That's a lot. Are you sure you can't figure out another way? Can't you contact your bank?
+caller: I’ve tried everything, seriously! The signal here is terrible. It’s really just a temporary thing. I’d be so grateful if you could help me out. I’ll send you pictures from my shoot as a thank you! Just a small favor for a lovely person.

@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank cybersecurity department se Rahul Verma bol raha hoon. Aapka naam Rohan Verma hai, kya?
+receiver: Haan, sahi hai. Bolo, kya baat hai?
+caller: Sir, humein aapke Axis Bank account mein Gujarat se ek badi amount ka transaction hone ki jankari mili hai. Woh bhi ek foreign account mein. Aapne kiya tha ya nahin?
+receiver: Kya? Nahin, maine koi transaction nahi kiya. Mujhe toh kuch bhi pata nahin hai.
+caller: Sir, yeh bahut serious matter hai. Account suspend bhi ho sakta hai agar verification na ho paaye. KYC update karna padega urgent basis par. Aapka Aadhaar number aur OTP mujhe bata dijiye, main check karunga.
+receiver: Aadhaar number aur OTP? Yeh thoda risky lag raha hai, Rahul bhai. Main toh bank mein jaakar karwa loonga.
+caller: Sir, bank mein line bhi bahut lag rahi hai aur time bhi jayega. Online verification hi sabse fast hai. Agar aapko account ko secure rakhna hai toh batao. Bas OTP hi batao, aur kuch nahi.
+receiver: Theek hai, ek minute rukiyo. Main check karta hoon. Par jab tak main check kar raha hoon, mujhe tumhara naam aur employee ID bhi bata do.

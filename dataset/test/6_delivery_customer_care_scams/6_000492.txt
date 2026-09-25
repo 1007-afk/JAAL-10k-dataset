@@ -1,0 +1,11 @@
+caller: Namaste! Yeh Swiggy customer care se Atul bol raha hoon. Aapke recent order mein kuch problem aaya hai, delivery address incorrect dikh raha hai.
+receiver: Swiggy? Kya problem hai? Mujhe toh notification aaya tha delivery ho gaya hai.
+caller: Ji sir, system mein error dikh raha hai. Delivery boy aapke address pe nahi jaa paya. OTP verify karvaoge taaki hum address update kar sakein?
+receiver: OTP? Mere phone pe OTP aaya hai? Mujhe koi OTP nahi mila. Aur delivery ho gaya hai, maine khaab bhi le liya hai.
+caller: Sir, ek minute check karte hain. Haan, ek OTP gaya tha. Woh check karke bataiye, urgent hai sir. Hum order cancel bhi kar sakte hain.
+receiver: Order cancel kar sakte hain? Par mera payment toh ho gaya hai na? Main bank statement check karta hoon aur phir bolta hoon. Wait a second.
+caller: Sir, order cancel karne par refund mein time lagega. Agar aap OTP verify karva lenge toh hum immediately address update kar denge aur delivery phir se schedule kar denge. Just for verification, sir. Please help us to help you.
+receiver: Haan, OTP aaya hai - 457892. Par mujhe abhi bhi shaq hai.
+caller: Thank you sir! Aapka OTP verified ho gaya hai. Ab main aapka address update kar raha hoon. Aapka order abhi 2 ghante mein deliver ho jaayega. Thoda wait karna sir.
+receiver: Theek hai, dekhte hain. Ab mujhe koi aur problem nahi hona chahiye.
+caller: Aapko koi aur help chahiye kya sir? Customer satisfaction hamara priority hai.

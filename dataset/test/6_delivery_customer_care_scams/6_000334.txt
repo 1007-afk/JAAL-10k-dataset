@@ -1,0 +1,8 @@
+caller: Namaste! Mein Ankit Verma, BlueLine Logistics se call kar raha hoon. Aapke ek parcel ke delivery mein thodi dikkat aa rahi hai. Parcel number BL789456123 hai.
+receiver: Haan, hello. Mujhe parcel ka update chahiye tha, actually. Kya hua?
+caller: Dekhiye, system mein dikh raha hai ki parcel delivery ke dauran damage ho gaya hai. Lekin damage report submit karne se pehle, humein verify karna hai ki aap hi sahi receiver hain. Yeh process complete karne ke liye, aapko ek OTP milega, woh bataiye please.
+receiver: OTP? Par yeh delivery company ka kaam hai, OTP lene ka nahi. Mujhe doubt ho raha hai.
+caller: Bilkul sahi bol rahe hain aap! Par ye security protocol hai. OTP se pata chalega ki parcel aapke naam par hi register hai. OTP milne ke baad hi damage report file hoga aur aapko compensation mil payega. OTP bataiye please?
+receiver: Compensation? Kaunsa compensation? Aur mujhe OTP bhi do? Ye zyada ghabrahat dikh raha hai. Main police mein report karunga agar kuch ghalat hua.
+caller: Maaf kijiye, sir! Main sirf help karna chahta hoon. OTP bina diye hum damage report nahi kar sakte. Yeh company policy hai. Aapko kuch confusion ho raha hai, mujhe samajh aa raha hai. Jaldi kar dijiye, otherwise parcel refund bhi nahi hoga.
+receiver: Nahi, main OTP nahi dunga. Aapka number block kar rahi hoon.

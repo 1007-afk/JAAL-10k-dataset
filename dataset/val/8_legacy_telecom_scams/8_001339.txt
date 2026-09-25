@@ -1,0 +1,8 @@
+caller: llo? Ji haan, maine suna aapko ek saal ka cinema pass mil gaya hai, bilkul free! Yeh kaafi special offer hai, sirf 5 log hi yeh offer claim kar sakte hain. Kya aap is offer ko claim karna chahte hain?
+receiver: Hain? Cinema pass? Free? Ek saal ka? Arey, yeh toh bahut kamaal ki baat hai! Haan ji, bilkul claim karna chahunga. Main toh theatre ka bada deewana hoon.  Aur sirf 5 logon ko hi yeh mil raha hai? Wah! Bahut lucky feel kar raha hoon.
+caller: Kya baat hai! Aap toh sach mein bahut lucky ho!  Haan ji, sirf 4 logon ko hi yeh mauka mil paayega abhi.  Is offer ko claim karne ke liye, please mujhe apna naam bataiye? Aur kya aapke paas koi email ID hai jahan hum confirmation bhej sakein?
+receiver: Ji haan, mera naam Rahul Sharma hai. Aur haan, meri email ID hai rahul.sharma@email.com.  Bataiye kya karna hai aage?
+caller: eat, Rahul ji! Yeh toh bohot achhi baat hai. Bas ek chota sa step reh gaya hai. Humein aapko yeh pass send karne ke liye ek chota sa verification karna hoga. Kya aapki age 18 saal se upar hai, Rahul ji?
+receiver: Haan ji, main 18 saal se upar hoon. Rahul Sharma naam hai mera, aur email ID rahul.sharma@email.com hai. Boliye, kya verification karna hai?
+caller: Excellent, Rahul ji!  Just one more quick step. Humein aapka voucher activate karna hoga, uske liye humein aapke registered mobile number ke last 4 digits chahiye honge.  Can you please confirm those for me?
+receiver: Ji haan, yeh toh theek hai. Mere mobile number ke last 4 digits hain 1234. Bataiye, aur kya karna hoga?

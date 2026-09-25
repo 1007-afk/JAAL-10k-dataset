@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Axis Bank se Rohit Sharma bol raha hoon. Aapke naam par ek transaction pending hai, sir.
+receiver: Haan? Transaction? Kya transaction hai? Mujhe toh koi message aaya nahi.
+caller: Sir, ek online transaction attempt kiya gaya tha, lekin verify nahi ho paaya. Account secure rakhne ke liye, humein aapka KYC update karna hoga. Kya main aapka Aadhaar card ka last 4 digits le sakta hoon?
+receiver: KYC update? Bank toh aise calls nahi karta, sir. Aise kaise verify karenge? Aur last 4 digits Aadhaar dene se kya faida hoga?
+caller: Sir, security protocols ke wajah se, hum sirf last 4 digits maang rahe hain. Yeh process completely safe hai. Agar aap verify nahi karenge, toh account temporary suspend bhi ho sakta hai.
+receiver: Account suspend? Dekhiye, main abhi koi bhi information nahi de sakta. Main Axis bank ke branch mein jaakar verify karwa loonga. Aap ka naam aur employee ID batao ek baar.
+caller: Sir, branch mein jaane mein time lag jayega aur account suspend hone ka risk hai. Main aapko ek secure link bheja sakta hoon jahaan aap apne details enter kar sakte hain. Yeh bahut hi fast process hai, sir.
+receiver: Secure link? Nahi, sir. Main nahi dungi koi bhi information online. Yeh scam lag raha hai. Main call cut kar rahi hoon.

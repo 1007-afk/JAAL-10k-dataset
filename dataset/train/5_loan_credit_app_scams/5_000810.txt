@@ -1,0 +1,7 @@
+caller: Namaste! Main Aditya Sharma, GoldenLoanHub se bol raha hoon. Aapko urgent loan chahiye kya? Credit score kuch bhi ho, hum help kar sakte hain. Aapka naam bataiye, please?
+receiver: Ji haan, mera naam Anjali Verma hai. Mujhe ek bike leni hai online delivery ke liye, business ke liye.
+caller: Anjali ji, bahut achha idea hai! GoldenLoanHub mein, hum online delivery business ke liye special loan offer karte hain. Aapko kiti amount ki bike chahiye?
+receiver: Thoda sa, sirf 60,000 tak ka hi chahiye. Aur interest bahut zyada nahi hona chahiye.
+caller: Anjali ji, bilkul! Hum aapko 60,000 ka loan easily provide kar denge. Aapko sirf ek small processing fee bharne hogi, ₹7,500, registration ke liye. Aapko phone pe karta hoon transaction number.
+receiver: ₹7,500? Lekin maine toh sirf loan ke bare mein poochha tha, processing fee ke bare mein nahi.
+caller: Anjali ji, maaf karna, yeh GoldenLoanHub ki standard procedure hai. Agar aap loan approve karwana chahti hain, toh yeh fee bharni hogi. Bina iske, hum aapko loan nahi de sakte. Phir hum aapko disturb karenge.

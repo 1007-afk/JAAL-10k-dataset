@@ -1,0 +1,13 @@
+caller: Hello? Is this Mr. Verma? I have fantastic news for you! You’ve just won a brand new SmartWatch X500 from FutureTech Solutions! Don’t be surprised, sir! It’s a really big deal! We need to quickly verify your identity before we ship out your prize. What’s your full name, please?
+receiver: Hello? SmartWatch X500? FutureTech Solutions? I don’t recognize this. My name is Sanjay Kumar.  Can you repeat that – ‘won a watch’?
+caller:  Haan bhai Sanjay, absolutely! You've won the amazing SmartWatch X500! It has heart rate monitoring, GPS tracking, and a brilliant display!  It's truly state-of-the-art technology. Just to confirm, could you tell me your date of birth, please?
+receiver: Date of birth? Really? Why do you need that?  I just won a watch! This sounds… suspicious, actually.  My date of birth is November 12th, 1988.
+caller:  Arre yar, Sanjay, don't be worried! It's just standard procedure.  We want to make sure only the rightful owner gets the prize.  Now, can you provide me with the last four digits of your bank account number, please?
+receiver: Bank account number? Seriously? You’re asking for my bank details? That doesn't sound right at all! I am not giving you any financial information. My last four digits are 7890.
+caller:  Okay, okay, relax! That’s good enough for now.  Just one more small thing – can you confirm the street name where you live?  We need to ensure the delivery goes to the correct address.  Tell me, is it Main Street?
+receiver: Main Street? Yes, it is Main Street. But why so many questions? This is getting very strange. Can you just tell me when I will receive the watch?
+caller:  Excellent! Very helpful, Sanjay! Now, to finalize everything, we just need to verify your mobile number. Please provide me with your mobile number, including country code.
+receiver: My mobile number is +91 9876543210.  Look, I still think this is a scam.  I want to know how much this watch costs and where you are actually sending it from.
+caller:  Don’t worry about the cost, Sanjay! It’s completely free for the winner!  And we are shipping it from our main warehouse in Delhi.  Now, just one final step – can you answer a simple security question?  What color is your favorite car?
+receiver: My favorite car color is blue.  But honestly, I’m starting to feel like I’ve been tricked.  When will I actually get the watch?
+caller:  Wonderful!  Sanjay, you're confirmed as the winner! The SmartWatch X500 will be delivered to your address on Main Street within 3 business days.  Congratulations once again!

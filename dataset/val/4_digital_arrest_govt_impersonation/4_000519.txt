@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? This is Inspector Singh calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Haan, woh main hi hoon. Package? Kya baat hai? What suspicious items?
+caller: Sir, preliminary scans indicate the package may contain items related to illegal cryptocurrency trading and possible money laundering. We need to verify this urgently. We are holding the package at Indira Gandhi International Airport.
+receiver: Cryptocurrency? Money laundering? Maine toh kabhi aisa kuch nahi kiya! Yeh mistake hoga. I haven’t done anything like that.
+caller: Sir, we understand, but protocol dictates we must conduct a thorough investigation. To clear the package and avoid further legal action, you'll need to pay a small processing fee of ₹12,000 via PhonePe. This covers storage and assessment charges.
+receiver: ₹12,000? Just to clear a package? And why do I have to pay? This sounds fishy. I want to speak to your supervisor.
+caller: Sir, unfortunately, our supervisor is currently in an emergency meeting. We need to expedite this to prevent the package from being seized. Please understand, this is to protect you from potential charges. Provide your PhonePe number, and we’ll send you a QR code. It's a standard procedure.

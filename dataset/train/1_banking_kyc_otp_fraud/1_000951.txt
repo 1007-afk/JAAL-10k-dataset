@@ -1,0 +1,6 @@
+caller: Namaste, main ICICI bank se Deepak bol raha hoon. Aapke naam par ek transaction fail hua hai aur account suspend hone ki taraf badh raha hai.
+receiver: Account suspend? Kya transaction fail hua? Mujhe toh koi message nahi aaya.
+caller: Haan madam, ek online transaction mein kuch problem aa gaya hai. Security ke liye, mujhe aapka OTP chahiye hoga verification ke liye.
+receiver: OTP? Bank aise OTP maangta hai? Mujhe toh yeh kuch chuk hai lag rahi hai.
+caller: Madam, OTP sirf verification ke liye hai, aapki security ke liye. Account suspend hone se bachne ke liye agar aap OTP share kar dijiye.
+receiver: Dekhiye, mujhe yeh trust nahi ho raha hai. Main bank ki official website par login karke khud check karti hoon. Aapko koi bhi OTP nahi dengi main.

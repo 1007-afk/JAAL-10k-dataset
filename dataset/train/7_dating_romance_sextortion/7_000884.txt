@@ -1,0 +1,7 @@
+caller: Hello! My name is Vikram. I have a message for you from a mutual friend, Priya. She mentioned you’ve been very active on ‘MeetCute’ lately and she thought you might be interested in connecting with someone special. Do you know a Dr. Anika Sharma?
+receiver: MeetCute? I do use that app sometimes... Dr. Anika Sharma? I don’t think I know anyone by that name. What's this about?
+caller: Priya said Anika has been admiring your profile – she’s a cardiologist in London, quite accomplished. She’s looking for someone genuine. I’m just a messenger, facilitating introductions. You can view her profile here: tinyurl.com/AnikaConnect. A verification code is required for full access. Can you send me ‘VERIFY-789’ to confirm?
+receiver: A cardiologist in London? That's interesting. A tinyurl link seems a bit sketchy though… but okay, I’ll humour you. What’s the verification for? And why are you doing this?
+caller: It’s to ensure you’re a real person, for Anika’s safety. Priya asked me to handle this initially, to filter out bots. Send ‘VERIFY-789’ and I'll forward it. Once you're verified, you can chat directly with her. It's a simple process.
+receiver: Alright, fine. I’m sending ‘VERIFY-789’. But if this is a scam, I'm reporting you and Priya. Don't think I won't.
+caller: Excellent! Received ‘VERIFY-789’. Anika is very excited to connect with you. She just sent me a message - she's facing a slight emergency, her mother is unwell and she urgently needs a small amount to cover some medical expenses. Just £

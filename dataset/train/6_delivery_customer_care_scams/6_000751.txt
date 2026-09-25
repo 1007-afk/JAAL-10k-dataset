@@ -1,0 +1,7 @@
+caller: Namaste! Sunta hai? Flipkart se calling hoon. Aapke account mein ek pending delivery hai, lekin address verify nahi ho raha hai.
+receiver: Oh, Flipkart se? Kya delivery hai? Mujhe yaad nahi aa raha koi order.
+caller: Haanji, ek smart TV ka order hai. Order ID hai FLP876543. Delivery boy aapke address par try kar raha tha, par OTP match nahi ho raha.
+receiver: OTP? Mujhe koi OTP nahi mila. Aur smart TV ka order maine kabhi nahi kiya.
+caller: Shayad OTP message delay ho gaya hai. Phir bhi, delivery confirm karne ke liye, aapka last 4 digit ka UPI pin bata dijiye, taaki hum verification kar sakein.
+receiver: UPI pin? Yeh theek nahi lag raha hai. Flipkart kabhi phone par UPI pin nahi puchega. Main customer care se baat karta hoon.
+caller: Sir, time bahut kam hai, delivery window closing ho raha hai. Agar aap UPI pin nahi batayenge toh parcel return ho jayega, aur aapko phir se order karna padega. Aapko TV chahiye ki nahi?

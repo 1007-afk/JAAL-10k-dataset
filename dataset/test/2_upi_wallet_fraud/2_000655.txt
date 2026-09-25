@@ -1,0 +1,8 @@
+caller: Namaste uncle, main Amazon customer service se baat kar raha hoon. Aapke Amazon account mein ek suspicious transaction detect hua hai. 7,500 rupaye ka withdrawal attempt kiya gaya hai.
+receiver: Oh, really? Amazon se? Lekin maine toh kuch order nahi kiya tha. Aur 7,500 rupaye? Mujhe toh kuch pata hi nahi.
+caller: Haan sir, security breach hone ki sambhavna hai. Aapko apne account ko secure karne ke liye, ek OTP verify karna padega. Main aapko WhatsApp par ek link bhejna, us par click karke apna detail do.
+receiver: WhatsApp par? Lekin Amazon toh SMS karta hai, WhatsApp pe nahi. Aur mujhe link par click karne se darr lag raha hai.
+caller: Sir, yeh ek emergency situation hai. Link par click karna zaroori hai, warna aapka account permanently block ho jaayega. Jab aap OTP share karenge tab sab kuch theek ho jaayega. Please hurry sir.
+receiver: Theek hai, theek hai. Darr toh lag raha hai, lekin account block nahi hona chahiye. WhatsApp pe link bhejo, main dekh loonga.
+caller: Perfect sir! Aapko apne Amazon account ke security ke liye ek OTP mil raha hai. Share karein, please.
+receiver: Haan ji, ek OTP mila hai - 876543. Ab kya karoon?

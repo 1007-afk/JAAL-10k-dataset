@@ -1,0 +1,6 @@
+caller: Hello sir, this is from PhonePe security department. We've noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, there was a small payment attempted from your PhonePe wallet to an unknown UPI ID. To prevent any fraud, we've temporarily blocked your account.
+receiver: Blocked? Seriously? Can you tell me the amount and the UPI ID? I want to check.
+caller: Sir, the amount was just ₹10, and the UPI ID is something like…let me check…it's RP7894. To reactivate your account immediately, we need you to verify it with a small fee of ₹50. Just to ensure it's really you.
+receiver: ₹50? A fee to reactivate my own account? That sounds suspicious. Can I talk to someone else or get a reference number? And why is it such a small amount?

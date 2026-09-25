@@ -1,0 +1,7 @@
+caller: Hi Priya! It's Akash. I saw your profile on SparkMatch - you’re absolutely gorgeous! I’ve been searching for someone like you. How are you doing tonight?
+receiver: Hey Akash! Thanks, that’s sweet of you to say. I’m doing alright, just relaxing. SparkMatch, huh? That’s a new one for me. What do you do?
+caller: That's lovely! I’m a freelance photographer, travelling around Southeast Asia taking pictures. It’s amazing, but sometimes it gets lonely, you know? I really feel a connection with you already. Listen, I'm having a bit of a problem with my camera equipment - it needs urgent repair in Singapore, and it's costing me a lot. Could you possibly lend me 15,000 rupees? I’ll pay you back as soon as I get paid for a big shoot next week, I promise.
+receiver: 15,000 rupees? That’s quite a bit. Why can’t you use a credit card or something? And you just met me. It feels a little… sudden, doesn’t it? Plus, I don't even know you properly.
+caller: I understand your hesitation, Priya. Honestly, I’m in a bind. My card got blocked due to some travel issues and I can't deal with the bank right now. It’s really important; this camera is my livelihood. I’d send you proof of the repair bill, but my internet is terrible here. Think of it as helping a struggling artist! I'll send you my UPI ID - 9876543210@axisbank. Just trust me on this.
+receiver: Okay, hold on. Let me just double check something quickly... I'll be right back.
+caller: Absolutely, take

@@ -1,0 +1,8 @@
+caller: Hello! Hello? Can you hear me? I'm calling from the Prize Notification Department. My name is Mark, and I'm so excited to tell you that you've won an amazing prize of £2,000! Yes, you heard that right! To claim your winnings, all you need to do is call our dedicated claims line at 09050000301. This is a limited-time offer, and we only have 5 unclaimed prizes left! So don't delay, call now and secure your £2,000!
+receiver: Hello Mark! Wow, £2,000? That sounds amazing! Thanks for calling. Just to confirm, did you say the prize is £2,000? And I need to call 09050000301 to claim it? Got it, thanks!
+caller: Haan ji, bilkul sahi suna aapne! £2,000 ka prize! Aur haan, sirf 4 hi bache hain ab, to jaldi kijiye! Call karein 09050000301 pe, aur apna jackpot secure karein! Sirf kuch hi der ke liye offer hai.
+receiver: Oh wow, sirf 4 hi bache hain? That's crazy!  Okay, so I should call 09050000301 right away then.  Thanks for letting me know, Mark!
+caller: Haan ji, bilkul sahi suna aapne! £2,000 ka prize! Aur haan, sirf 3 hi bache hain ab, to jaldi kijiye! Call karein 09050000301 pe, aur apna jackpot secure karein! Sirf kuch hi der ke liye offer hai.  Aapko koi aur sawaal hai toh poochiye, main aapki madad ke liye yahan hoon.
+receiver: Oh, sirf 3 hi bache hain?  That's really urgent then.  Okay, no other questions, I'll call that number right away. Thanks for your help, Mark!
+caller: Haan ji, bilkul sahi! Ab toh sirf 2 hi bache hain! Isliye jaldi kijiye! £2,000 ka prize aapka ho sakta hai. Call karein 09050000301 pe. Offer bahut limited hai, so don't miss out!
+receiver: Arre, bas 2 hi bache hain? Oh my gosh! Okay, I'll call 09050000301 right now. Thanks for the heads up, Mark!

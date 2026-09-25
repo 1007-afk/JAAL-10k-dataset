@@ -1,0 +1,8 @@
+caller: Namaste, madam. This is Akash from QuickCashLoans.in. I’m calling regarding your recent application for a personal loan. We’ve pre-approved you for a ₹75,000 loan with very easy terms. Just confirming, is this Poonam Sharma?
+receiver: Ji, haan. Main Poonam Sharma hoon. Loan application? Main toh koi application nahi kiya tha.
+caller: Madam, sometimes our system picks up information from linked accounts. No worries, it’s all very standard. To process the loan quickly, we need a small verification fee of ₹3,500 to secure your account. It’s a one-time charge, fully refundable upon loan disbursement.
+receiver: ₹3,500? Verification fee? Lekin application toh main nahi kiya tha! Aur loan why chahiye bhi nahi tha.
+caller: Madam, please understand. This is a security measure to prevent fraud. Otherwise, we’ll have to cancel the pre-approval. If you refuse to pay, we have no other choice but to escalate this to our legal department, and we'll have to inform your contacts about your outstanding debt. It’s better to just pay the ₹3,500 and get the loan, otherwise…things might get complicated.
+receiver: Legal department? Contacts? Kya bol rahe ho aap log? Yeh toh fraud hai!
+caller: Madam, don’t be alarmed. This is just protocol. Pay the ₹3,500 to the UPI ID we'll send you, and the loan will be released within the hour. Otherwise, we’ll have to start the legal proceedings. We have your details, madam. We know where you live.
+receiver: Wait, hold on! I am calling the police.

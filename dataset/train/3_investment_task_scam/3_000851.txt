@@ -1,0 +1,8 @@
+caller: Namaste! Sir, I'm calling from FutureGain Investments. We've identified you as a potential investor with a keen interest in emerging markets. We have a fantastic opportunity right now with a new cryptocurrency, StellarCoin – it's projected to increase by 300% in the next month!
+receiver: StellarCoin? 300%? That sounds a little too good to be true, doesn’t it? What's the catch?
+caller: No catch at all, sir! This is a limited-time promotional offer. To get started, you need to deposit a small amount – just ₹5,000 – as seed capital. This unlocks the full potential of the StellarCoin opportunity.
+receiver: ₹5,000? Okay, that's manageable. How do I make the deposit? And is there a secure platform to use? I don’t want to use some shady site.
+caller: Absolutely, security is our top priority. Please use this UPI ID: investfuturegain@axisbank. Once the payment is confirmed, we’ll automatically allocate your StellarCoin and set up your investment portfolio. We'll send you the wallet details immediately.
+receiver: Investfuturegain@axisbank... Alright, I’ve sent the ₹5,000. Can you confirm you've received it? I need the wallet details now.
+caller: Excellent! Payment received, sir. Just to activate your StellarCoin access, we require a small verification fee of ₹999 to cover processing charges. This is a one-time fee, sir, and it’s absolutely necessary to comply with regulations.
+receiver: ₹999 more? Seriously? You said it was a small deposit. This is getting ridiculous! Why wasn’t this mentioned before?

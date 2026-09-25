@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, Bharat Bank se call kar raha hoon. Aapke bank account mein ek suspicious transaction detect hua hai, sir.
+receiver: Suspicious transaction? Kya hua? Mujhe toh koi message nahi aaya.
+caller: Haan ji, ek online transaction hua hai Amazon pay se, 4999 rupees ka. Aapne kiya tha ya nahi?
+receiver: Nahin, maine Amazon pay se kuch bhi nahi kiya aaj kal. Yeh fraud hai!
+caller: Haan, shayad. Lekin aapko apne account ko secure karne ke liye ek OTP number dena padega, sir. Phir hum issue ko resolve karenge. OTP number bataiye, please.
+receiver: OTP nahi dunga! Main Bharat Bank ke customer care se baat karta hoon. Yeh number lagta hai scam hai.
+caller: Sir, please, time bahut kam hai. Account freeze ho sakta hai agar aap OTP nahi denge. Woh bhi sirf 500 rupees ka security deposit kar dijiye.
+receiver: Security deposit? Bahut bhot scam lag raha hai. Main police mein report karunga.
+caller: Sir, please don’t do that. Iska fayda aapko hoga. Jaldi karo sir, account block ho jayega.

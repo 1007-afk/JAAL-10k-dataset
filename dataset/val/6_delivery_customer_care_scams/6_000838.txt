@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rahul bol raha hoon. Aapke order number FLP7892345 par ek problem aa rahi hai. Payment verification ki zaroorat hai.
+receiver: Kya problem hai? Mujhe order confirm mila tha.
+caller: Sir, delivery ke liye payment gateway ne error show kiya hai. Security ke liye, aapka OTP chahiye. Mein aapko SMS karega.
+receiver: OTP? Flipkart toh aise nahi karta. Mein kisi website par check karta hoon.
+caller: Sir, yeh direct Flipkart system se hai. Agar OTP nahi diya toh order cancel ho jayega aur aapko refund bhi nahi milega. Please jaldi karna, sir!
+receiver: Suno, agar Flipkart hai toh mujhe delivery agent ka number do, mein usse call karta hoon. Ya phir customer care number do.
+caller: Sir, delivery agent busy hai aur customer care line par bahut jalsa hai. Abhi sirf OTP hi solution hai. Sirf 4 digit OTP bataiye.
+receiver: Theek hai, mujhe kuch suspicious lag raha hai, lekin mein try karta hoon. Mera OTP hai… 1234.

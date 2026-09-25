@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rahul bolta hu. Aapke BharatPay wallet mein ₹1000 ka cashback offer hai, sirf naya UPI transaction karne se.
+receiver: ₹1000 ka cashback? Kaise? BharatPay toh kabhi aise offers nahi deta tha.
+caller: Ji, yeh Diwali special offer hai. Transaction verify karne ke liye, aapko apna BharatPay wallet ka OTP aur ek random 4-digit PIN share karna padega. Thodi si security process hai.
+receiver: OTP aur PIN? Yeh thoda strange lag raha hai. BharatPay app mein toh verification aise nahi hota.
+caller: Sir, yeh direct offer verification hai. App se nahi, hum direct verify kar rahe hain. Jaldi karo, offer sirf 5 minute ke liye hi valid hai. ₹1000 cashback aapke wallet mein instantly add ho jayega.
+receiver: ₹1000 instant? Okay, wait karo. Mein apna BharatPay app check karta hu. Yeh bahut achha offer hai. Par main kisi bhi OTP ya PIN ko share nahi karunga jab tak mujhe confirm na ho jaye.
+caller: Sir, time barbaad mat karo. Offer khatam ho jayega. Trust me, BharatPay ki taraf se direct offer hai. ₹1000 aapka hai, sirf OTP aur PIN do.
+receiver: Sir, mujhe koi confidence nahi hai. Mein call cut kar raha hu aur BharatPay customer care se baat karta hu. Call end.

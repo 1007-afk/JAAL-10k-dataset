@@ -1,0 +1,7 @@
+caller: Namaste! Main Aman Sharma, FastLoan Services se bol raha hoon. Aapne online form bhara tha instant loan ke liye, ₹30,000 se ₹2 Lakh tak ka. Aapka naam confirm kar sakte hain?
+receiver: Haan, bilkul. Mera naam Vivek Verma hai. Main loan ke baare mein jankari lene ke liye hi call kiya tha.
+caller: Bahut achha, Vivek Verma ji! Aapko kitmani amount chahiye tha? Aur yeh loan kis kaam aayega?
+receiver: Mujhe ₹80,000 chahiye the, meri beti ki school fees ke liye.
+caller: Excellent! Vivek ji, aapki file approve ho gayi hai. Lekin, processing charges ke liye ₹8000 OTP ke zariye deposit karne honge.
+receiver: ₹8000? Processing charges? Phir to mein loan leta hi nahi.
+caller: Vivek ji, yeh ek standard procedure hai. Agar aap charges deposit nahin karte, toh aapka loan approve nahi hoga aur application reject ho jayega. Aur aapki personal details expose ho sakti hain. Koi dusra option nahi hai. Aapka OTP hai [invent an OTP, e.g., 987654].

@@ -1,0 +1,8 @@
+caller: Namaste sir, main Tata Digital support se hoon. Sir, hum apne customers ko premium services ke liye verify karne ke liye call kar rahe hain. Tumhare mobile par ek six digit OTP bheja gaya hai. Kaise hai sir, OTP mila ya nahi?
+receiver: Haanji, sorry, phone mein notification nahi dekhoongi.
+caller: Thoda sa wait karo sir, OTP dikhayi dene ke liye ek minute ka time lagega. Agar nahi mila toh aap apna phone reboot karke dekh sakte hain. Shayad OTP jaldi mil jaaye. Ya main aapko phir se OTP send kar sakta hoon?
+receiver: Theek hai, main reboot kar rahi hoon phone. Agar OTP nahi aaya toh main aapko phir se call karungi. Aapki name kya hai sir?
+caller: Main Vijay Kumar hoon, Tata Digital se. Sir, OTP tumhare mobile par abhi bhi nahi aaya hai? Koi baat nahi, phone ko airplane mode mein dalkar ek minute baad wapas normal kar do. Ya main aapko phir se OTP send kar sakta hoon?
+receiver: Arre haanji, airplane mode chalega. Rahul, aapse baat karna acha laga. Dekhte hain OTP aata hai ya nahi. Agar nahi aata toh main aapko call back karunga. Thanks!
+caller: Haanji sir, definitely try kijiye. Agar phir bhi OTP nahi aata hai toh main aapko phir se OTP send kar dunga. Aur aapko koi extra information chahiye kya? (Just a quick question, sir, do you have a valid debit card linked to your account?)
+receiver: Arre haanji, debit card? Woh toh mujhe abhi yaad nahi. Phone mein OTP check kar rahi hoon, agar OTP aaya toh theek hai, nahi toh aap batao kya karna hai. Debit card ka information mujhe yaad nahi aa raha.

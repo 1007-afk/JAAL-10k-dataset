@@ -1,0 +1,8 @@
+caller: Namaste, good day! I’m calling regarding some unanswered calls coming from this number, 9876543210. Have you perhaps missed any messages from us lately? We just wanted to ensure you received an important update.
+receiver: Hello, yes, I did see a few calls, but I was busy working. What was the update about?
+caller: Arre, no worries! It was a notification about a valuable antique being delivered to your residence. We attempted to contact you to schedule a convenient time for collection. Let me quickly check if the name and address match.
+receiver: An antique? Really? Okay, let’s proceed then. Please confirm the details.
+caller: Very good! Could you please provide your full name and current address so we can verify everything correctly and ensure a smooth delivery?
+receiver: My name is Priya Sharma, and I live at 123, Main Road, Sector 5, Mumbai, 400001. Please confirm if this is correct.
+caller: Shukriya, Priya ji! Your address is 123, Main Road, Sector 5, Mumbai, 400001. That’s perfect. Now, to finalize the delivery arrangement, we need to send a verification code to your registered mobile number. Would you mind confirming that this is the same number where you receive your text messages? This is simply to safeguard your precious artifact.
+receiver: Yes, it’s 9876543210. Send the verification code. I am all set to confirm.

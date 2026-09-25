@@ -1,0 +1,15 @@
+caller: Hello? Is this Mr. Verma? I have fantastic news for you! You’ve just been selected as a winner in the ‘Golden Tech Rewards’ lottery! Congratulations!
+receiver: Yes, this is Mr. Verma. What’s going on? A lottery? I didn’t enter any lottery.
+caller: Don’t worry about that, Mr. Verma. The system automatically selects winners based on your mobile usage data. You’ve won a brand new Stellar X500 smartphone! It’s top of the line – 8GB RAM, 128GB storage, and a stunning AMOLED display.
+receiver: A smartphone? Really? But how did I win? My mobile usage isn't that high, actually. My name is Vijay Kumar.
+caller: Ekdum sahi bol rahe hain, Vijay Kumar ji! The system sees everything! This Stellar X500 is absolutely incredible - it has a dual camera setup, 6.8 inch screen, and super fast charging. It’s completely free for you, just need to confirm your identity.
+receiver: Free? That sounds too good to be true. Can you tell me more about these “special” features? Like, what kind of camera does it have?
+caller: Arre bhai, don’t be skeptical! This camera is amazing – 64 megapixels! Plus, it records videos in 4K resolution. It’s like having a professional studio right in your hand. Just confirming you are Vijay Kumar, right?
+receiver: Vijay Kumar, yes. But I still don't understand how I won. There has to be a catch. What do you need from me?
+caller: Koi catch nahi hai, Vijay Kumar ji! Just a simple verification step. We need to verify your account details to ensure everything is legitimate.  We will send you an OTP to your registered number. Please provide it.
+receiver: OTP? Okay, fine. What's my registered number? I want to make sure it's correct.
+caller: Let me check… Your registered number is 9876543210. Now, please provide the OTP you received.
+receiver:  Okay, I sent it. Waiting for the confirmation now.
+caller: Excellent! Thank you, Vijay Kumar ji. Your Stellar X500 is on its way!  Just one last thing – could you confirm your delivery address for us?
+receiver: Delivery address? Sure, it’s… [pauses] ... 123 Main Street, Apartment 4B, Delhi.
+caller: Perfect! Thank you, Vijay Kumar ji. Your Stellar X500 will arrive within 3-5 business days. Enjoy your new phone!

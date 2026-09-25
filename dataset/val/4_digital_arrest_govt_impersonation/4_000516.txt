@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main Indian Customs Department se Inspector Verma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein.
+receiver: Parcel? Mujhe toh koi parcel order karne ko yaad nahi. Kya likha hua hai parcel pe?
+caller: Sir, parcel mein illegal items mile hain – drugs aur counterfeit currency. Yeh matter serious hai, aur aapko ismein involved paaya gaya hai. Legal process shuru hone se pehle, aapko ek settlement fee bharne hogi.
+receiver: Drugs?! Yeh kya keh rahe hain aap? Main toh kabhi drugs se relate nahi hua. Settlement fee? Kitni fee hai? Aur why would I pay anything when I haven't even ordered a parcel?
+caller: Sir, fee Rs. 12,000 hai. Yeh fine bharne se aapke naam par register hone wale criminal case se bachte honge. Humko payment UPI se chahiye. Main aapko ek QR code send kar sakta hoon. Iske saath hi, humko ek video call par bhi dekha jaise yeh process dekhi ja sake. Tab tak aap call pe rakhein.
+receiver: Yeh bahut ajeeb lag raha hai. Main police station ya customs office mein jaakar yeh check karunga. Koi QR code nahi chahiye mujhe. Aur call pe rakhein? Why would a customs officer ask me to stay on the call like that? This sounds like a scam, sir. I am ending the call now.

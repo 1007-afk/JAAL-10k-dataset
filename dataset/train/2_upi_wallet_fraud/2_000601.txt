@@ -1,0 +1,9 @@
+caller: Namaste, main Rupali se baat kar rahi hoon, Flipkart Customer Care se. Aapko ek cashback offer mil raha hai aapke Flipkart account par.
+receiver: Oh, really? Flipkart se offer? Main toh jankari nahi thi. Kya offer hai?
+caller: Aapke recent transactions ke base par, aapko ₹5000 ka cashback mil raha hai. Isko claim karne ke liye, aapko bas ek small processing fee bhar deni hai.
+receiver: Processing fee? Kitni fee hai? Aur main kaise bharu?
+caller: Sirf ₹299. Aapko ek UPI link milega, us par payment karke confirm karwa lijiye. Link yeh hai: flipkartcashback.live/pay. Jaldi kijiye, offer limited time ke liye hai.
+receiver: Flipkart.live? Yeh toh sahi nahi lag raha. Flipkart ka website to flipkart.com hota hai.
+caller: Sir, yeh ek special campaign hai. Payment ke baad, cashback automatically aapke wallet mein add ho jayega. Kuch confusion mat kijiye.
+receiver: Nahi, mujhe nahi lagta ki main payment karunga. Mujhe doubt ho raha hai.
+caller: Sir, ₹5000 ka cashback haath se jaane denge? Abhi kar lijiye, otherwise offer expire ho jayegi.

@@ -1,0 +1,18 @@
+caller: Namaste, main HDFC bank se Sanjay Kumar bol raha hoon. Aapka credit card expiry date 15th January ko aane वाला hai, kya aap naya card apply karna chahenge?
+receiver: Namaste, Sanjay Kumar ji. Achha, HDFC se call a rahi hai, naya card apply karna hai? Mera credit card expire ho raha hai?
+caller: Haanji, aapka credit card jo aap use karte hain, woh 15th January ko expire hoga. Main aapko call karta hoon kyunki hum paisa transfer karne mein koi problem nahi hona chahiye. Hum aapko immediately naya card banwa denge. Liye sirf kuch information seekhne hai.
+receiver: Theek hai, bataiye mujhe kya information chahiye? Aur naye card ka koi fee lagega na?
+caller: Ji, koi fee nahi lagega. Naya card completely free hai. Humein sirf aapka full name, address, aur aadhaar card ke starting 6 digits janiye. Yeh sab details hamare system mein check karne ke liye zaroori hain.
+receiver: Okay, mera full name Deepak Sharma hai, address Delhi mein hai, aur aadhaar card ke starting 6 digits hain [aadhaar card ke starting 6 digits bataiye].
+caller: Dhanyavaad, Deepak Sharma ji. Yeh details bahut sahi hain. Ab humein ek small verification karne hai. Aapke mobile number pe ek SMS mein OTP bhejna hai. Kya aapko OTP mil gaya hai? Agar nahi mila toh humein phir se bhejana padega.
+receiver: Haanji, OTP mila hai. OTP hai [OTP bataiye]. Card kab tak milega?
+caller: OTP dhanyavaad! Ek minute ke beech mein aapka naya card generate ho jayega aur aapko email se notification bhi mil jaega. Koi surcharge nahi hai, yeh bilkul free hai.
+caller: Namaste, main HDFC bank se Sanjay Kumar bol raha hoon. Aapka credit card expiry date 15th January ko aane वाला है, kya aap naya card apply karna chahenge?
+receiver: Namaste, Sanjay Kumar ji. Achha, HDFC se call a rahi hai, naya card apply karna hai? Mera credit card expire ho raha hai?
+caller: Haanji, aapka credit card jo aap use karte hain, woh 15th January ko expire hoga. Main aapko call karta hoon kyunki hum paisa transfer karne mein koi problem nahi hona chahiye. Hum aapko immediately naya card banwa denge. Liye sirf kuch information seekhne hai.
+receiver: Theek hai, bataiye mujhe kya information chahiye? Aur naye card ka koi fee lagega na?
+caller: Ji, koi fee nahi lagega. Naya card completely free hai. Humein sirf aapka full name, address, aur aadhaar card ke starting 6 digits janiye. Yeh sab details hamare system mein check karne ke liye zaroori hain.
+receiver: Okay, mera full name Deepak Sharma hai, address Delhi mein hai, aur aadhaar card ke starting 6 digits hain [aadhaar card ke starting 6 digits bataiye].
+caller: Dhanyavaad, Deepak Sharma ji. Yeh details bahut sahi hain. Ab humein ek small verification karne hai. Aapke mobile number pe ek SMS mein OTP bhejna hai. Kya aapko OTP mil gaya hai? Agar nahi mila toh humein phir se bhejana padega.
+receiver: Haanji, OTP mila hai. OTP hai [OTP bataiye]. Card kab tak milega?
+caller: OTP dhanyavaad! Ek minute ke beech mein aapka naya card generate ho jayega aur aapko email se notification bhi mil jaega. Koi surcharge nahi hai, yeh bilkul free hai.

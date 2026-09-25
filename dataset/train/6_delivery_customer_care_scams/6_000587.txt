@@ -1,0 +1,6 @@
+caller: Namaste, Madam! Mera naam Rohan hai, main Paytm ka customer care se bol raha hoon. Aapke Paytm account mein ek suspicious activity detect hui hai. Kisi ne ₹499 ka transaction try kiya hai, jo fail ho gaya hai.
+receiver: Oh, really? ₹499? Mujhe koi notification nahi mila. Main abhi Paytm app check karti hoon.
+caller: Haan, Madam. Account secure karne ke liye, aapko ek OTP verify karna hoga, jo aapke registered mobile number pe aaega. OTP verify hone ke baad, hum aapko transaction block kar sakte hain.
+receiver: Thik hai. OTP mil jaata hoon main. Wait karo... Haan, mujhe OTP mila ₹499 transaction ka mention ke saath.
+caller: Bahut achha, Madam. Ab, humein aapke account se account details update karne hain, taaki hum isko block kar paayein. Ek secure link main aapko send kar raha hoon. Aap usmein apna naam, date of birth aur PAN card number enter karein.
+receiver: PAN card number? Account details doobane ka yeh koi tareeka hai! Main Paytm app mein check karti hoon, koi notification toh nahi aa raha OTP ke bare mein.  Yeh toh scam lag raha hai.

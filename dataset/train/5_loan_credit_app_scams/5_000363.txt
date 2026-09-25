@@ -1,0 +1,7 @@
+caller: Hello, is this Rajan? I'm calling about your loan application with EasyCredit India. Congratulations, you've been pre-approved for a ₹75,000 loan! Just a few quick steps to finalize it.
+receiver: EasyCredit India? I don't remember applying for a loan. Are you sure you have the right person?
+caller: Yes, definitely Rajan. We received your application through our online portal. To activate the loan, we need to verify your bank details and a small security deposit of ₹1,500. This is to prevent fraud, you see.
+receiver: A security deposit? That seems strange. Banks don't usually ask for deposits before releasing a loan. And again, I’m pretty sure I didn’t apply.
+caller: Rajan, look, this is a limited-time offer. If you don't pay the ₹1,500 now, the pre-approval will expire. Also, your photos are already with us, and we can easily share them with your family and colleagues if you don't cooperate. It will be very embarrassing.
+receiver: What?! You have my photos? This is blackmail! I'm reporting you to the police right now.
+caller: Rajan, don't be silly! We're just trying to help. One last chance – send the ₹1,500 to this UPI ID: 9876543210@axisbank. Otherwise, things might get… unpleasant.

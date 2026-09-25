@@ -1,0 +1,7 @@
+caller: Namaste, madam. Main Paytm Customer Care se Rohan bolta hoon. Aapke Paytm Wallet mein ₹15,000 ka transaction hua hai ek ‘GemsKart’ naam ki website par. Kya aapne kiya tha ye transaction?
+receiver: ₹15,000? Nhi, maine toh kabhi GemsKart se shopping nahi ki. Yeh fraud hai!
+caller: Haan madam, aise hi cases mein hota hai. Hackers aapke account se details chura lete hain. Par aap chinta mat kijiye, hum aapki help karenge. Aapko bas apna OTP dena hoga, taaki hum transaction ko reverse kar sakein.
+receiver: OTP? Par main suni hai OTP dene se aur zyada nuksan hota hai. Koi aur tareeka hai?
+caller: Madam, time bahut kam hai. Transaction reverse karne ke liye OTP compulsory hai. Agar aap abhi nahi karenge, toh ye amount permanent chala jayega. Just 4 digits OTP, aur ₹15,000 vapas aa jayega.
+receiver: Okay, theek hai. Dena hai toh dedo. OTP hai [invent a mobile number, e.g., ‘1234’].
+caller: Thank you madam. Ab aapka amount 24 hours mein vapas credit ho jayega. Aapko Paytm Customer Care se confirmation SMS milega. Be safe!

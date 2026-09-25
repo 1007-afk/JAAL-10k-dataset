@@ -1,0 +1,16 @@
+caller: Namaste ji! Aapne mujhe call kiya tha? Haan ji, main Bharat Telecom se bol raha hoon. Aapko ek amazing deal mili hai! Aapko 7500 rupees ka jackpot won kiya hai! Ji haan, benar hai! Claim karne ke liye, mujhe sirf apki basic details chahiye. Aapka unique ID hai AB569. Ye offer sirf 4 hours ke liye chalega, so hurry up!
+receiver: Wah! Jackpot? 7500 rupees? Theek hai, bataiye, kya chahiye? AB569 ID? 4 hours? Thoda zyada pressure lag rahi hai.
+caller: Ji haan, bilkul. Pehle, kya aap mujhe apna current mobile number bata sakte hain jisse aap Bharat Telecom services use karte hain? Taaki main check kar sake ki yeh jackpot aapke liye hi hai.
+receiver: Meinara number hai 8765432198.  Aap cheque ya koi paper nahi lagnay chahte?  Yeh all online hai na?
+caller: Thank you ji. Aur kya aapka full name pata hai? Sir or ma’am kisko apply karna hai?
+receiver: Meinara naam hai Priya Sharma. Priya Sharma Gupta.  Aur ₹7500 jackpot sach mein milega? Kaise pata laga rahe ho ki woh meri layak hai?
+caller: Ji Priya Ji, absolutely true! Yeh Bharat Telecom ki taraf se diya gaya special reward hai. Main aapki profile check kar raha hoon. Ab, jackpot ko aapke bank account mein transfer karne ke liye, humein ek small charge lena hoga.  Ye sirf ₹300 hoga, online UPI payment se. Iske baad ₹7500 aapki account mein automatically deposit ho jayenge. Kya aap ₹300 UPI pay karne ke liye ready hain?
+receiver: ₹300 UPI?  Arey yaar, ab ₹300 bhi lete hain? Jackpot mil rahi thi, phir ₹300 bhi dene hai?  Agar ₹7500 nahi mile toh?  Mujhe koi confirmation chahiye.  Kahaan pay karuga?  UPI ID bataiye.
+caller: Hello ji, aapne mujhe call kiya tha? Haan ji, main DigiConnect Network se bol raha hoon. Aapko 50000 rupees ka lucky draw win hua hai! Ji haan, bilkul sach hai! Claim karne ke liye, mujhe sirf aapki few details confirm karni hongi. Aapka verification code hai ZX782. Ye offer sirf 30 minutes ke liye valid hai, to jaldi karke claim karein!
+receiver: Arey bhai! 50000 rupees? Wow! ZX782 code? Thoda time hai toh!
+caller: Ji haan, bilkul. Pehle, kya aap mujhe apna registered email address bata sakte hain jispar aapko notification milte hain? Taaki main aapke account ko verify kar sakoon.
+receiver: Haan ji, mera email id hai rajesh.kumar@gmail.com.  Kya koi physical address bhi chahiye?
+caller: Thank you ji. Aur kya aap mujhe apna full name bata sakte hain, sir or ma’am? Record mein update karne ke liye.
+receiver: Meinara naam hai Kavita Patel. Kavita Patel Shah.  ₹50,000 real hai? Kaise pata chala ki meri name correct hai?
+caller: Ji Kavita Ji, absolutely! Yeh DigiConnect Network ki taraf se diya gaya special prize hai. Main aapki details check kar raha hoon. Ab, ₹50000 aapke Paytm wallet mein transfer karne ke liye, humein ek small service charge lena hoga. Ye sirf ₹200 hoga, online payment se. Iske baad ₹50000 aapki Paytm wallet mein automatically transfer ho jayenge. Kya aap ₹200 Paytm se pay karne ke liye ready hain?
+receiver: ₹200 Paytm? Arey yaar, ₹50,000 win kar li aur ₹200 bhi donate karne hai?  Agar ₹50000 nahi mile toh kya hoga?  Paytm ID bataiye.

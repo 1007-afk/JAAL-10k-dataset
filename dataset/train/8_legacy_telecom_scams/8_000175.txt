@@ -1,0 +1,8 @@
+caller: Hello? Hello, Mr. Foley? Can you hear me okay? This is Alex from WIN, We Have A Winner! Program. I'm calling with some absolutely fantastic news for you today. Congratulations, Mr. Foley! You've won a brand new iPod! Isn't that amazing?
+receiver: Hello? Haan, Alex? Sunai de raha hai.  WIN, We Have A Winner! Program se?  Wow! iPod jeeta hoon? Sach mein?  Thank you so much!  Kya baat hai!
+caller: Haan, Mr. Foley, sach mein! Absolutely amazing news!  Aapko yeh iPod milne wala hai!  Bas ek chhota sa process hai, taaki hum yeh iPod aap tak pahuncha saken.  Kya aap abhi thoda free hain baat karne ke liye?
+receiver: Haan, Alex, bilkul free hoon. Bataiye kya karna hai?  Koi paperwork hai ya kuch aur?
+caller: Bahut badhiya, Mr. Foley! Toh bas yeh iPod aap tak pahunchane ke liye humein aapki verification karni hogi. Yeh ek simple verification process hai, ismein aapko apna address aur kuch basic details batani hongi, taaki hum yeh prize securely deliver kar saken. Kya aap mujhe apna pura naam aur delivery address bata sakte hain?
+receiver: Haan, bilkul. Mera naam hai Rohan Foley. Aur mera address hai... 12, Green Avenue, Maplewood.
+caller: Great, Rohan! Thank you for that.  Aur aapki date of birth, please? Yeh bas security ke liye hai, taaki hum confirm kar saken ki aap hi hain winning ticket ke holder.
+receiver: Meri date of birth hai... 15th August, 1990.  Aur kuch chahiye?

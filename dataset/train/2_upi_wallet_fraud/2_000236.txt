@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay security team se Rahul bol raha hoon. Aapke BharatPay wallet mein suspicious activity dikha raha hai. ₹5000 ka transaction confirm karna hai.
+receiver: Kya? ₹5000? Maine toh koi transaction kiya hi nahi. Kyun hua woh?
+caller: Sir, ek online shopping transaction hua hai jo aapne kiya hai. Security ke liye, aapko confirm karna hoga. Bas ‘VERIFY’ number 99999 pe send kar dijiye. Aur ₹50 processing fee lagega.
+receiver: ₹50 fee? Verify karne mein ₹50 lagte hain? Aur shopping transaction mujhe yaad hi nahi.
+caller: Haan sir, processing fee, woh OTP generate hone ke liye apply hoga. Sirf ₹50, aur aapka wallet secure ho jayega. ₹5000 ka loss hone se bacha jayega!
+receiver: Hmmm… toh ‘VERIFY’ number 99999 pe send karoon? Par mujhe doubt ho raha hai.
+caller: Haan sir, jaldi kijiye! System automatically transaction cancel kar sakta hai agar aap verify nahi karte. Number 99999 pe ‘VERIFY’ send kijiye.

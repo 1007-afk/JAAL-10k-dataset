@@ -1,0 +1,9 @@
+caller: Namaste, mai ICICI Bank se Ishan bol raha hoon. Aapka naam Rajesh Verma hai, correct?
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, aapke ICICI Bank account mein ek suspicious login attempt hua hai Nepal se. Account secure rakhne ke liye humein aapka KYC update karna hoga urgently. Agar aap update nahi karenge toh account block ho sakta hai.
+receiver: Nepal se? Maine toh kabhi Nepal nahi jaaya. KYC update? Mujhe OTP mila hai?
+caller: Sir, OTP aapke registered mobile number pe bheja gaya hai. Woh OTP share karein taaki hum verify kar sakein ki aap hi account ke owner hain. Account block hone se bachne ke liye jaldi karein.
+receiver: Ek minute, main OTP check karta hoon. Par Nepal se login kaise hua? Koi transaction bhi hua hai kya?
+caller: Sir, aapka OTP hai 123456. Jaldi share karein. Kisi bhi transaction ka detail abhi disclose nahi kar sakte, account security ke liye. OTP share karein, please!
+receiver: 123456? Ek OTP toh itna simple nahi hota. Mujhe kuch gadbad lag rahi hai. Main police mein report karunga.
+caller: Sir, aapka account immediately block ho jayega agar aap OTP nahi share karenge. Main aapko guarantee de sakta hoon ki aapka paisa safe rahega, bas OTP share karein.

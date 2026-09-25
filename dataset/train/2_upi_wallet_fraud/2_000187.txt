@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? This is Priya from BharatPe support. We have detected some unusual activity on your BharatPe account. Just calling to confirm everything is okay.
+receiver: BharatPe? Haan, mein hu Verma. Koi unusual activity? Kya hua?
+caller: Sir, we noticed a small transaction of ₹50 has been attempted to a new merchant ID. It seems like a potential phishing attempt. To secure your account, we need to verify a one-time password we'll send to your registered mobile number.
+receiver: ₹50? Phishing attempt? Koi transaction toh mujhe yaad nahi aa raha. OTP? Theek hai, check karta hoon.
+caller: Great, Sir. Just confirm the OTP you receive. Once verified, we will apply additional security layers to prevent further unauthorized access. This is a standard procedure. Aise transaction hone se pehle aapko notification bhi milna chahiye tha.
+receiver: Haan, notification mila tha, lekin maine use ignore kar diya. OTP mila hai, ₹4839. Isko bata do?
+caller: Yes, Sir, that’s correct. Please enter ₹4839 to confirm. Once you've done that, we'll need you to update your UPI PIN as a further precaution. It's a quick process, just a few digits.

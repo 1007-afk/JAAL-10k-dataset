@@ -1,0 +1,8 @@
+caller: Namaste! Main CryptoGain se call kar raha hoon. Aapko aapke Bitcoin investment par bahut zyada profit hone ki khushi ki khabar dene ke liye call kiya hai. Aapke wallet mein ₹1,50,000 ka profit dikha raha hai aaj!
+receiver:  CryptoGain? Mujhe toh koi Bitcoin investment kiya hi nahin hai! Yeh kya baat ho rahi hai?
+caller: Haan ji, lekin aapke naam par ek account open kiya gaya tha. Woh ek promotional offer ka hissa tha, sir. Ab woh offer successful ho gaya hai aur aapko profit mila hai.  Lekin isko withdraw karne ke liye, ek small verification fee bharne hogi. ₹5000 hi.
+receiver: ₹5000? Verification fee? Aur maine account open bhi nahin kiya!  Yeh toh scam lag raha hai! Main report kar dunga.
+caller: Arre sir, jaldi mat karo! Yeh verification fee sirf aapki security ke liye hai.  Hamein yeh check karna hai ki aapka account safe hai.  Agar aap fee bharte hain, toh ₹1,50,000 aapke account mein transfer ho jayega within 15 minutes.  Aapko yeh opportunity miss nahi karni chahiye, sir.
+receiver:  Opportunity?  ₹5000 bharne ke baad hi ₹1,50,000 milega?  Yeh toh theek nahi hai.  Koi official email ya message aaya tha mujhe?
+caller: Sir, technical issues ki wajah se koi email nahi gaya.  Aapko trust karna hoga.  Yeh ek limited time offer hai, sir.  ₹5000 fee bharne ke liye sirf 10 minute bache hain, warna opportunity khatam ho jayegi. Aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Sir, main

@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me clearly? This is a vital update regarding the Diwali Sale! I’m calling to inform you about our ‘Celebrate with Lights’ package – you get a beautiful handcrafted diya lamp and a festive Bollywood song ringtone for your mobile. It’s a truly exclusive opportunity, only 12 remaining!
+receiver: Hello? Haan, sunai mili. Diwali Sale ke liye update? ‘Celebrate with Lights’ package, diya lamp aur Bollywood ringtone? Sunane mein acha lag raha hai. My phone will show a notification, correct? And just 12 left, impressive. Let me take a quick look.
+caller: Absolutely! And this deal is fantastic, isn’t it? Also, I just checked, now there are only 10 left! We need to hurry up, otherwise, you might miss out. Are you ready to tap on the alert?
+receiver: Oh my god, 10 only? Time is running short. Okay, I’m looking at the notification…yes, I see the ‘Celebrate with Lights’ package. It looks really appealing. I’ll tap on it.
+caller: Wonderful! Tap confirmed! Now listen, the offer is still active but only 8 are left! Hurry up, we need to finalize it quickly. Are you prepared to confirm the details?
+receiver: Seriously, 8 only? This is moving so fast! Okay, tell me what the details are. I’m ready.
+caller: Perfect! Only 6 now! Last chance! The price is just ₹149 for the entire festival season! Once you tap, it will automatically download and you’ll be immersed in the spirit of Diwali! What do you say, confirm it?
+receiver: ₹149 for the whole season? And only 6 left? That’s a great deal. Done! Confirm it quickly.

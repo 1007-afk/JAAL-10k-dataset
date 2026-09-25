@@ -1,0 +1,10 @@
+caller: Namaste! Mai Flipkart se Rahul bolta hoon. Aapke naam par ek parcel aaya hai, lekin delivery ke dauraan ek masla ho gaya.
+receiver: Kya masla hai? Mujhe to koi notification nahi aaya.
+caller: Sir, parcel mein kuch damage hua hai, aur verification ke liye kuch details chahiye. Aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Flipkart kabhi OTP maangta hai? Yeh thoda funny lag raha hai.
+caller: Sir, security ke liye hai. Phir bhi aap Flipkart ki website check karein, wahaan bhi confirm hoga. OTP jaldi bataiye, warna parcel wapas bhej denge.
+receiver: Theek hai, mujhe check karne do. (pause) Haan, website pe likha hai verification required hai.
+caller: Bahut achha! Ab OTP bataiye, sir. Phir main aapko delivery ka status send kar dunga.
+receiver: Okay, OTP hai... 487291.
+caller: Thank you, sir! Ab sir, damage report banane ke liye mujhe bank account details chahiye, taaki compensation process start ho.
+receiver: Bank account details? Yeh toh scam hai!

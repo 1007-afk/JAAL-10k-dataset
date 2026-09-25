@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from ‘LoanExpress India’. I’m calling regarding your recent loan application. We’ve pre-approved you for a quick loan of ₹50,000. Just need to verify a few details.
+receiver: LoanExpress India? Really? I don’t remember applying for a loan.
+caller: Yes sir, you filled out a form on our website yesterday. To proceed with the loan, we need to confirm your OTP. It’s been sent to your registered mobile number. Can you tell me what it is?
+receiver: Hold on, let me check. I really didn't apply for a loan though. Give me a sec... Okay, it's 876543.
+caller: Thank you, sir. Verification successful. Now, as per our policy, we require a small processing fee of ₹7,500 before we can release the loan amount. This is fully refundable, sir.
+receiver: ₹7,500?! For a ₹50,000 loan? That seems excessive. And I still don’t remember applying! I’m calling my bank.
+caller: Sir, please don't do that. If you delay, your loan will be cancelled. Furthermore, we have pictures of you and your family from your social media profile. We’ll have to share them with your contacts if you don't make the payment immediately. Don't make us do that, sir. Please pay now, quickly.

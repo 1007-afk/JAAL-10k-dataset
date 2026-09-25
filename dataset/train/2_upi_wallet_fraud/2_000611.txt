@@ -1,0 +1,7 @@
+caller: Namaste! Calling from ‘Quick Refund Solutions’. We've noticed a small discrepancy in a recent transaction through your FreeCharge wallet. It appears Rs. 500 was debited incorrectly. To process the refund quickly, we just need to verify a few details. Could you please confirm the last five digits of your FreeCharge registered mobile number?
+receiver: Hello? Rs. 500? Yes, I do use FreeCharge. My mobile number ends in 78901.
+caller: Wonderful! Thank you. Now, to ensure your refund is secure and goes directly to your wallet, we need to confirm a one-time security code that was sent to your registered number. Can you please read out the OTP?
+receiver: OTP? I haven’t received any OTP. I just got your call.
+caller: That's strange. Sometimes it takes a few minutes. Perhaps there was a slight delay. Let me resend it. In the meantime, could you tell me the last four digits of your bank account number, just as an extra verification step to protect your funds? It's standard procedure, don't worry.
+receiver: My bank account number? That seems a bit unusual for a wallet refund. Shouldn’t the refund go back into my FreeCharge account itself?
+caller: Absolutely correct! But to expedite the process and ensure it's completely secure from potential fraudsters, we need to link it briefly. Consider it a temporary measure for your benefit. Just the last four digits, please. We are only trying to safeguard your money. And quickly, before the window closes, could you confirm your date of birth in DD/MM/YY format? The system is flagging a slight anomaly.

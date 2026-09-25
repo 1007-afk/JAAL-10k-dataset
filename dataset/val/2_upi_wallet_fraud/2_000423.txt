@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Sunil bol raha hoon. Aapke BharatPay wallet mein cashback offer hai - ₹5000 tak!
+receiver: BharatPay? ₹5000? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, special customers ke liye hi yeh offer hai. Aapko sirf ek small verification process complete karna hai, ₹50 se ₹100 ka processing fee bhar kar. Tab aapka cashback activate ho jayega.
+receiver: ₹5000 cashback aur ₹100 fee? Yeh thoda suspect lag raha hai. Verification process kya hai exactly?
+caller: Sir, verification ke liye, aapko ek link pe click karke apna OTP share karna hoga. Yeh bilkul safe hai, BharatPay se direct link hai. Jaldi kijiye, offer sirf aaj tak hi hai!
+receiver: OTP? Sirf link pe click karke? Main apne BharatPay app mein check karunga, pehle.
+caller: Arre Sir, time barbaad na karein! Jaldi se click karein aur ₹5000 claim karein. Abhi aapke wallet mein ₹100 bhi nahi hai? Woh bhi bhar do processing fee ke liye, aur cashback instantly activate ho jayega! Link yeh hai: http://bharatpay-verify.site

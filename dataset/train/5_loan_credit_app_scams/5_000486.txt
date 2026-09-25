@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul se bol raha hoon, FastCash Solutions se. Aapko paise ki zaroorat hai kya? Hum offer kar rahe hain quick personal loan, koi bhi credit history, koi problem nahi. Aapka naam batayenge?
+receiver: Haan, mera naam Anjali hai. Loan ki zaroorat toh hai, lekin mujhe thode details chahiye the. Kitna interest hoga?
+caller: Anjali ji, bahut khushi hui. Humara interest rate market mein sabse kam hai, sirf 15%. Aapko ₹30,000 tak ka loan mil sakta hai, sirf ID proof aur photo proof hi daalo. Aur approval bhi seedhe seedhe ho jayega. Account details doonga, aap verify karna.
+receiver: ₹30,000? Woh bhi achcha hai. Account number kya hai?
+caller: Anjali ji, ek verification process hai. Aapko apna OTP dena padega, tabhi hum account details de sakte hain. OTP mil gaya hai?
+receiver: Nahin, yeh kuch ghalat lag raha hai. Main call cut kar rahi hoon.
+caller: Anjali ji, dekhiye, aapko ₹30,000 mil rahe hain, aur aap OTP bhi nahi dena chahti? Yeh toh bahut badi opportunity hai! Abhi call mat katutiye, please!

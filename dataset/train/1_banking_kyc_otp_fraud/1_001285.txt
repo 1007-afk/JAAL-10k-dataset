@@ -1,0 +1,7 @@
+caller: Hello, mai Rajat, Axis Bank se bol raha hoon. Aapka account suspend hone ke liye notice gaya tha, sir? Aapko KYC update karna hai urgent.
+receiver: KYC update? Mereko toh koi notice nahi mila. Mai abhi Axis netbanking se login kar pa raha hoon.
+caller: Sir, system mein technical error ho gaya tha. Notification sahi se nahi gaya. Aapko pareshan hone ki zarurat nahi hai. Abhi aapka OTP share karke verification kar lijiye, warna account block ho sakta hai.
+receiver: OTP? Lekin mai abhi apne phone pe OTP nahi mila. Aur mujhe Axis Bank ka number bhi verify karna hai.
+caller: Sir, OTP hum aapke registered number pe bhej rahe hain. Thoda wait kijiye. Aur phone ka network check karein. OTP aane ke baad, woh mujhe bata dijiye. Account safe rakhne ke liye yeh zaroori hai.
+receiver: Theek hai, wait karta hoon. Maarke dekhta hoon.
+caller: Sir, OTP aaya kya? Jaldi bataiye. Account suspend hone se pehle verification karna hai.

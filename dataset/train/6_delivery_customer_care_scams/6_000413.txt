@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, Flipkart customer care se. Aapki taraf se ek order aaya hai, reference number FLP458792, lekin payment processing mein thodi problem aa rahi hai.
+receiver: Oh, really? Okay. I don't remember placing any order. Can you tell me what the order is for?
+caller: Ji, bilkul. It's for a new Bluetooth speaker, JBL Go 3. The amount is ₹2,800.  The payment didn’t go through fully, so we need to verify a small amount to release the order for delivery.
+receiver: ₹2,800? I definitely didn't order that. And why do you need to verify a payment? Isn't that already handled with my saved card details?
+caller: Sir/Madam, security reasons. Just a one-time verification.  We need to confirm a small OTP that we'll send to your registered mobile number. Just to make sure it's you.
+receiver: That sounds suspicious. I’m not giving you any OTP. I'm going to call Flipkart directly to verify this. Can you at least give me a direct number to your customer care?
+caller: Ji, aur kuch sawal hai kya? Abhi main aapko number nahi de sakta, sir/madam. OTP confirm karein, order chala jayega, aur Diwali mein aapko speaker mil jayega. Just a quick step, please.

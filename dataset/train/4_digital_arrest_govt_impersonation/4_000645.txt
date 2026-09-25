@@ -1,0 +1,10 @@
+caller: Namaste! Is this Mrs. Kapoor residing at Flat 302, Sunshine Apartments? I'm calling from the Central Customs Department regarding a parcel registered under your name.
+receiver: Haan, main Mrs. Kapoor hoon. Parcel? Kya baat hai?
+caller: Absolutely! It appears a package addressed to you containing suspicious items has been intercepted at the airport. We suspect it might be related to illegal import activities. To clear this matter quickly, we need you to verify some details and pay a small fee for inspection.
+receiver: Illegal import? Main toh kabhi parcel order nahi kiya. Yeh kya bol rahe hain?
+caller: We understand, Mrs. Kapoor. It’s possible the sender used your address without your knowledge. To proceed, we require you to transfer ₹7,500 to the designated account for thorough examination. Once cleared, the parcel will be delivered immediately. The reference number is CC-2024-7891.
+receiver: ₹7,500? Yeh bahut zyada hai! Aur account number kya hai? Main pehle verify karna chahti hoon.
+caller: Of course, madam. The account details are: Bank Name: Punjab National Bank, Account Number: 1234567890, IFSC Code: PUNB0001234. This is a standard procedure to ensure security. This is a time-sensitive matter – we need confirmation within the next hour to prevent further legal action.
+receiver: Main bank ke official se baat karti hoon, aur phir main decide karti hoon. Yeh kuch ghalat lag raha hai.
+caller: Mrs. Kapoor, delaying this process will only complicate things further and may lead to serious legal consequences. Please, cooperate for your own good. We're under pressure to resolve this urgently.
+receiver: Main report karti hoon police mein. Yeh scam hai.

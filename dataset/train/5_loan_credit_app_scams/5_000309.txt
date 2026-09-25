@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickLoanHub. We've reviewed your application for a personal loan. Approval is pending, but we need to confirm a few details quickly.
+receiver: Yes, this is Priya Sharma. Okay, what details do you need?
+caller: Good. To finalize the ₹75,000 loan, we require a small verification fee of ₹5,000 to process the paperwork. It's a one-time charge, easily refunded once the loan is disbursed. Can you transfer it to this UPI ID: 9876543210@axisbank?
+receiver: ₹5,000? But you said it was almost approved. And I haven’t even received the loan yet.
+caller: Look, Priya ji, these are standard procedures. Many applicants are denied at the last minute due to these delays. We’re just ensuring everything is legitimate. Don’t risk losing your loan opportunity. Send the money quickly. Otherwise, I will have to cancel the process.
+receiver: Okay, fine. I'll send it. But I want the loan as soon as the money is transferred.
+caller: Excellent decision, Priya ji! Transfer the amount, and I’ll send you a confirmation message with the loan details. Also, please be aware, if you don’t repay the ₹75,000 loan within the specified timeframe, we'll be forced to escalate the matter to our legal department and share your information with your contacts to recover the debt.

@@ -1,0 +1,13 @@
+caller: speaking to Mr./Ms. Patel? I’m calling from the security monitoring department. We’ve noticed a small transfer of ₹850 happened on your account, and we need to verify if you authorized this. Can you tell me your full name and date of birth for verification purposes?
+receiver: Ji, main hi hoon. ₹850 gaye? Koi transfer hua? Main toh abhi tak koi paisa nahi bhuta. Aap kaun bol rahe hain?
+caller: Haan, main hi hoon. ₹850 gaye? Main Inspector Singh, Cybercrime Unit, Delhi Police se hoon. Yeh transfer yesterday evening around 8 pm through a mobile payment app called ‘QuickPay’. Did you use QuickPay recently?
+receiver: Delhi Police? Inspector Singh? Seriously? QuickPay? Mein toh sirf WhatsApp par chota chota amount transfer karta hun. ₹850? Mujhe koi idea nahi hai yeh kaise hua. Kya aap mujhe bank statement dikha sakte hain?
+caller: Ji, Mr./Ms. Patel, we need to ensure the safety of your account. This transaction was flagged because it’s slightly higher than your usual activity. To investigate further, we require you to provide us with the last four digits of your debit card. Just for confirmation, please.
+receiver: Debit card number? Mujhe woh bataane ki tabahi nahi. Yeh kitna serious hai? Agar aap meri debit card number seek rahe hain, toh aap gandi aadmi hain! Main police ko report karungi.
+caller: Ji, Mr./Ms. Patel, we understand your concern. But this is standard procedure to prevent fraudulent activities. If you don’t provide this information, we will have to freeze your account immediately. That would cause significant inconvenience. Please cooperate for your own protection.
+receiver: Freeze my account? Nahin, nahin! Main koi fraud nahi hun. Mujhe yeh bahut irritate kar raha hai. Batao, yeh transaction kab hua, aur kis website par? Main apni account check karunga.
+caller: Ji, Mr./Ms. Patel, the transaction occurred at approximately 7:45 pm via the 'ShopEasy' platform. We need to confirm that you were the one who initiated the purchase. Could you recall any recent purchases made through ShopEasy?
+receiver: ShopEasy? Mein toh woh website kabhi dekha bhi nahi hai. ₹850? Main toh abhi tak yeh sab samajh nahi paye. Aap sab log ek saath milkar mujhe duped kar rahe hain! Main police ko call kar rahi hun.
+caller: Ji, Mr./Ms. Patel, please don’t hang up. We just want to help you protect yourself from potential scams. One moment, please. *pause* Okay, now we need you to reset your password on QuickPay. It’s crucial for your security.
+receiver: Password reset? Mein toh bas paisa transfer karne wala hoon! Ye sab kitna complicated hai? Main password kaise reset karungi?
+caller: Ji, Mr./Ms. Patel, it’s a simple process. We’ll guide you step by step. Don’t worry, it's for your own good.

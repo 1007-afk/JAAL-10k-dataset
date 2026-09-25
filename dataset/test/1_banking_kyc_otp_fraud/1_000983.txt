@@ -1,0 +1,7 @@
+caller: Namaste Madam, mera naam Vijay hai, Bharat Bank se bol raha hoon. Aapke account mein kuch suspicious activity dikh raha hai, isliye aapki verification karna zaroori hai.
+receiver: Bharat Bank? Maine toh koi suspicious activity notice nahi kiya. Aapka naam aur employee ID bataiye pehle.
+caller: Madam, security reasons ki wajah se main phone pe employee ID nahi bata sakta. Par main aapko assure karta hoon ki main Bharat Bank se hi hoon. Aapke account ko safe rakhne ke liye mujhe aapka OTP verify karna hai, woh bhi sirf ek baar. Ek minute mein ho jayega.
+receiver: OTP? Aapko mere OTP ki zarurat hai? Yeh toh bahut suspicious lag raha hai. Bharat Bank toh aise calls nahi karta.
+caller: Madam, please time bahut kam hai.  System ne identify kiya hai ki aapke account se log in karne ki ek attempt kiya gaya tha, jo ki aapne nahi kiya tha. Agar aap OTP nahi batayengi toh humko account temporarily suspend karna padega, security ke liye.  Sirf 4 digits ka OTP hai, koi chinta nahi.
+receiver: Account suspend? Lekin kyun? Main toh kabhi bhi Bharat Bank app se log in nahi karta.  Mai apne bank branch mein jaakar hi transaction karta hoon. Mujhe koi OTP share nahi karna hai.  Aapko meri personal information demand karne ka koi haq nahi hai.
+caller: Madam, please listen.  This is a matter of your account safety.  Without the OTP, we can't confirm it's really you. Otherwise a hacker might take over and drain your account. I will transfer you to my supervisor, just one moment.

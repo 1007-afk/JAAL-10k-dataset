@@ -1,0 +1,7 @@
+caller: Hello, is this Kavita? I’m Vikram, a pilot. Just landed in Delhi, feeling a bit lonely. Saw your profile online – you’re gorgeous! Would love to chat and maybe get to know you better. Add me on WhatsApp: +91 9876543210.
+receiver: Hello? I’m not Kavita. You must have the wrong number.
+caller: Oh! My apologies! These online profiles are tricky. Still, I must say, you have a very captivating smile. Anyway, I'm really craving some good company in this city. Just a quick chat wouldn't hurt, would it? It's been a long day of flying.
+receiver: I am busy right now. And I'm not really comfortable chatting with strangers online.
+caller: I understand. But hear me out... I’m a bit stuck actually. My flight crew left early, and I urgently need to send some money to my sister in Chennai. She's having a medical emergency. I'd be eternally grateful if you could just lend me ₹5000 as a temporary advance. I’ll pay you back as soon as I get paid next week. I can send you my bank details right away.
+receiver: ₹5000? That’s a lot of money to ask a stranger! I don’t think that’s a good idea at all. Why can't you use your credit card or something?
+caller: It’s a long story, my card is blocked. Look, I know it's a big ask, but my sister is really suffering. Just a small act of kindness could mean the world to her. Think of it as a good deed, karma will reward you! I’ll send you the UPI ID for immediate payment, trust me, I’ll repay you quickly.

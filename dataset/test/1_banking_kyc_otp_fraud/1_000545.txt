@@ -1,0 +1,16 @@
+caller: Namaste! Apsara Travels se baat ho rahi hai. Aapki 2018 ki booking ke detayen dekh rahe hain. Aapke pass 987 bonus miles ki ek badi amount hai, jinhon ko redeem karna hai. Miles ki expiry date 15th December 2019 hai, isliye jaldi karo.
+receiver: Ji ji, mai uske bare mein jaankari le rha tha. Kya karna padega ab?
+caller: Shuruaat karein toh, aapko apni complete travel ID number bataani hogi, taki main aapko sahi customer ban sakoon. Kindly bataayein aapki ID number.
+receiver: Travel ID? Haan ji, meri ID number 6789-2461-0357 hai.
+caller: Dhanyavaad! Kuch sahaj hai. Ab, mile redeem karne ke liye, humein aapke bank account ki yehi ek chhoti si detail chahiye – aapke account ke pankh 4 digit number. Batao, woh kaunsa hai?
+receiver: Pankh 4 digit? Hmm, mujhe yaad nahi. Let me check… Jaise ki mere account mein, woh 8765 hai.
+caller: Achchhe din!  Ab mile redeem kareinge.  Aapko ek small confirmation step karna hoga.  Aapko apne registered email address ka last 3 characters bataana hoga. Yeh sirf aapki identity check karne ke liye hai, agar mile aapke account mein correctly transfer ho jaaye.
+receiver: Email address ka last 3 characters? Okay, woh ‘abc’ hai.
+caller: Namaste! Apsara Travels se baat ho rahi hai. Aapki 2018 ki booking ke detayen dekh rahe hain. Aapke pass 987 bonus miles ki ek badi amount hai, jinhon ko redeem karna hai. Miles ki expiry date 15th December 2019 hai, isliye jaldi karo.
+receiver: Ji ji, mai uske bare mein jaankari le rha tha. Kya karna padega ab?
+caller: Shuruaat karein toh, aapko apni complete travel ID number bataani hogi, taki main aapko sahi customer ban sakoon. Kindly bataayein aapki ID number.
+receiver: Travel ID? Haan ji, meri ID number 6789-2461-0357 hai.
+caller: Dhanyavaad! Kuch sahaj hai. Ab, mile redeem karne ke liye, humein aapke bank account ki yehi ek chhoti si detail chahiye – aapke account ke pankh 4 digit number. Batao, woh kaunsa hai?
+receiver: Pankh 4 digit? Hmm, mujhe yaad nahi. Let me check... Jaise ki mere account mein, woh 8765 hai.
+caller: Achchhe din!  Ab mile redeem kareinge.  Aapko ek small confirmation step karna hoga.  Aapko apne registered email address ka last 3 characters bataana hoga. Yeh sirf aapki identity check karne ke liye hai, agar mile aapke account mein correctly transfer ho jaaye.
+receiver: Email address ka last 3 characters? Okay, woh ‘abc’ hai.

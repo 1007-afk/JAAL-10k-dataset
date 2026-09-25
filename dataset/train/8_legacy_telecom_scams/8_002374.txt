@@ -1,0 +1,15 @@
+caller: Namaste, Airtel customer service se baat kar raha hoon. Aapka prepaid card expiry date ka time ho gaya hai aur isko activate karne ki requirement hai.
+receiver: Haanji, Airtel se? Mein toh prepaid user hoon. Ek expiry date? Mujhe aisa nahi mila.
+caller: Sir, please mat担 worry karo. Hamare records mein aapka account dekha hai aur expiry date ka notification bheja gaya tha. Aapka full name aur current mobile number bataiye please?
+receiver: Mein Deepak Kumar hoon aur mera mobile number 8765432109 hai. Kaise aap meri details pata kar rahe hain?
+caller: Thank you Deepak ji. Aapka number sahi hai, right? Hamare system mein ek small technical glitch aa gaya hai. Isliye aapka card temporarily suspend hone wala hai. Ham isko immediately resolve kar sakte hain. Just aapko ek verification code enter karna hoga. Kya aapko verification code mila hai?
+receiver: Verification code? Mujhe koi code nahi mila. Aapne mujhse phone par verification code maangeya hai? Ye kahan se aaya?
+caller: Haan, woh code aapke registered WhatsApp number pe bheja gaya hai. Humare system mein automatic update hai. Kindly woh code bataiye taaki hum aapka card activate kar sakoon. Please sir, time bahut kam hai.
+receiver: WhatsApp? Mein WhatsApp use nahi karta. Aapko meri details kaise pata mili? Yeh kitni bakwaas hai! Main WhatsApp check karta hoon aur code milta toh bataunga. Please thoda wait karein.
+caller: Sir, please don’t panic. Hamare IT department mein problem hai. Aapka card activation delay ho raha hai. Aapko just ek small information provide karna hoga. Aapki address ka postcode bataiye please?
+receiver: Postcode? Mein address change kiya tha. Aapko meri eski address pata hogi. Aapko kaise pata?
+caller: Sir, hamare system mein record updated hai. Aapko just confirm karna hoga. Aapki eski address 123, main street, Delhi 110001 hai na?
+receiver: Haan, woh meri eski address hai. Pero aapko meri eski address kaise pata? Yeh kitni serious problem hai?
+caller: Sir, aapka security safeguard karne ke liye hume yeh steps lene huye hain. Aapko just confirmation provide karna hoga. Aapki bank account ka IFSC code bataiye please?
+receiver: Bank account? Kya aap mujhse meri bank details maang rahe hain? Ye toh totally wrong hai! Main aapko koi bhi details nahi deta.
+receiver: (Hangs up abruptly)

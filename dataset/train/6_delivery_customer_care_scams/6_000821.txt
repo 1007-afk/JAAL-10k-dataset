@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rohan hai, main Zomato Customer Care se baat kar raha hoon. Aapke account mein ek suspicious transaction mila hai.
+receiver: Kya? Kitna transaction hua hai?
+caller: Rs. 4500 ka, sir. Ek restaurant se order mila hai jo aapne nahi kiya hai. Security ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Lekin main ne toh koi order nahi kiya. Zomato app mein bhi kuch dikh raha hai.
+caller: Haan sir, hacker ne aapka account access kar liya tha. OTP se hum check karenge ki aap sahi bol rahe hain ya nahi. Please OTP share karein, sir. Jaldi karein, otherwise account block ho jayega.
+receiver: Thoda rukiye. Main apne app check karta hoon. Ek minute.
+caller: Sir, time kam hai! Agar account block ho gaya to aap Zomato ke services se वंचित ho jaenge. Please OTP share karein, sir.
+receiver: Okay, fine. It’s 1234.
+caller: Thank you sir. Ab hum aapke account ko secure karenge. Sir, ab humein aapke bank account details bhi chahiye taaki refund process shuru ho sake.

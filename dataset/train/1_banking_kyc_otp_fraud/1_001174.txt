@@ -1,0 +1,7 @@
+caller: Namaste sir, is this Rohan Verma? I'm calling from Axis Bank's KYC department. There's been unusual activity detected on your account, sir. It seems someone tried to make an online purchase for ₹7,500 from a website called ‘BookMyTravels’.
+receiver: Haan, bolie. Rohan Verma hi main hoon. ₹7,500? Mujhe toh pata hi nahin tha.
+caller: Exactly, sir. This is why we're calling. To safeguard your account, we need to verify some details. Can you please tell me the last four digits of your Aadhaar card for verification? It’s a standard security procedure, sir.
+receiver: Aadhaar number? Kaise verify karenge? Bank toh kabhi Aadhaar number nahi puchega. I'm a little uneasy about this.
+caller: Sir, please don't worry. We are following strict protocols. If you don’t verify, we might have to temporarily suspend your account as a precaution. We need to confirm you are the rightful owner. Can you quickly confirm the last four digits? Just for a moment.
+receiver: Suspend karenge? Theek hai, theek hai… Let me see… It’s 4321. But I am still doubtful, please tell me the exact reason why you are asking for it.
+caller: Thank you, sir. That confirms your identity. Now, to complete the security process, could you please share the OTP you just received on your registered mobile number? It’s a one-time password, sir. Just a quick verification.

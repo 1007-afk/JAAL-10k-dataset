@@ -1,0 +1,8 @@
+caller: Namaste! Main Swiggy customer care se Rahul bol raha hoon. Aapke Swiggy account mein ek suspicious transaction hua hai – ₹750 ka.
+receiver: ₹750? Kya transaction hua? Mujhe toh koi notification nahi aaya.
+caller: Ji haan, sir. ₹750 ka ek order kiya gaya hai jo aapne nahi diya. Isko resolve karne ke liye, aapko apna OTP dena hoga, taaki hum order cancel kar sakein. Aur security ke liye ek link bhi send karunga, us par click karein.
+receiver: OTP? Aur link bhi? Yeh thoda fishy lag raha hai. Swiggy kabhi aise nahi bola tha. Main Swiggy app check karta hoon.
+caller: Sir, jaldi karna, ₹750 ka loss ho sakta hai! Account secure karna bahut zaroori hai. Link par click karein aur OTP share karein, hum aapki help karenge. Agar aap delay karenge toh account hack ho jayega.
+receiver: Dekhiye, main Swiggy app mein check kiya, koi bhi suspicious order nahi hai. Yeh scam lag raha hai. Main OTP ya link send nahi karunga.
+caller: Sir, aapko caution karna chahiye! Hamara manager, Rajesh Verma, is matter mein personally involve hain. Unka number 9876543210 hai. Unse baat karein, unko sab bataiye. Yeh offer sirf 10 minutes ke liye valid hai. Jaldi kijiye!
+receiver: Rajesh Verma? Mai phir bhi call nahi karunga. Main Swiggy ke official number pe check karunga aur phir decide karunga.

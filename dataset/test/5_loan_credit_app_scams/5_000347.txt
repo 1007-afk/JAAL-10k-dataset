@@ -1,0 +1,8 @@
+caller: Namaste, Madam. This is Raj from LoanExpress India. We’ve noticed you recently applied for a personal loan through our website. Congratulations, you’re pre-approved for a ₹75,000 loan! Just a few quick verification steps required.
+receiver: Oh, really? I did apply, but I haven't heard anything yet. What kind of verification do you need?
+caller: Very simple, Madam. We just need to confirm your identity and process a small processing fee of ₹800 to activate the loan. This is a one-time charge, and it’s fully refundable upon loan disbursement. Can you transfer ₹800 to the UPI ID LoanExpress800@axisbank?
+receiver: ₹800? That seems a bit high for a processing fee. And why UPI? I thought banks usually accept cheques or online transfers.
+caller: Madam, this is a fast-track approval process, and UPI is the quickest and most secure method. We’re offering you a very competitive interest rate, and this small fee ensures your application is prioritized. Once the payment is confirmed, your loan will be credited within the hour. Please do not delay!
+receiver: Okay, fine. Let me just transfer it. *transfers money* Done. Now, what’s next?
+caller: Excellent, Madam! Thank you for your cooperation. Now, to secure the loan, we need to update your address details. Could you please share your Aadhar card number and PAN card number with me? This is just for verification purposes, Madam, absolutely necessary.
+receiver: Wait a minute! My Aadhar and PAN number? This is getting suspicious. I'm not comfortable sharing that information with you over the phone.

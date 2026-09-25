@@ -1,0 +1,6 @@
+caller: Hello, this is Priya calling from LoanExpress India. I see you recently applied for a quick loan online. We've pre-approved you for up to ₹80,000! Just a few quick details to finalize things.
+receiver: Oh really? That’s good news. I was hoping to get a loan. What details do you need?
+caller: Great! First, can you confirm your full name and date of birth for verification purposes? And could you tell me roughly your monthly salary? We need to assess your repayment capacity, you see.
+receiver: My name is Rajesh Verma, and my date of birth is 12/05/1988. My salary is around ₹40,000 per month.
+caller: Excellent, Rajesh Verma! Everything looks fine so far. Now, to activate your loan, we need a small processing fee of ₹2,500 as a security deposit. You can transfer it to this UPI ID: 9876543210@ybl. Once we receive it, the loan will be disbursed within an hour.
+receiver: ₹2,500? That seems a bit much just for a deposit. Are you sure about that?

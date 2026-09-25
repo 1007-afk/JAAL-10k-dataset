@@ -1,0 +1,13 @@
+caller: Namaste! Kaise ho aap? Is this Mr. Sharma? I’m calling from ‘Bright Future Solutions’, and we have an amazing opportunity for you related to your internet connection. We've seen you’ve been a customer for almost 8 years, and we really value your continued business. We're offering a completely upgraded router - absolutely free – along with a significant boost in your internet speed. It’s a promotional offer specifically for loyal customers like yourself. And also, you’ll get extra data allowance on your Jio plan. What do you think about that?
+receiver: Namaste! Haan, yeh woh Sharma Ji, main jawab deta hoon. Please call me Bobby. A free router and faster internet? That sounds pretty good, tell me more.
+caller: Wonderful to hear from you, Bobby! Absolutely! We're giving away the newest ‘SpeedMaster Pro’ router, totally free of charge. Aur jab ki aap ne 8 saal se hamara internet use kiya hai, to yeh pura loyalty reward hai! Jio plan par aapko extra data bhi milega. Now, just to verify your account details, could you please provide me with the last four digits of your Aadhaar card?
+receiver: Hmm, okay.  Main unka Aadhaar number nahi deta.  Yeh bahut suspect lag raha hai.  Tell me, why are you asking for my Aadhaar details?
+caller: Oh, sorry for that, Bobby. That was just a standard verification step. Actually, we need to confirm your address as well. Could you please tell me which city you live in?
+receiver: Main Delhi mein rehta hoon.  Aur aapke company ka address bata rahein hain?  This doesn't seem right at all.  I'm not comfortable sharing any personal information.
+caller:  Please don’t worry, Bobby.  We understand your hesitation.  Let’s just simplify things. To ensure everything goes smoothly, we require your bank account details for immediate processing. Just six digits will suffice.
+receiver: Nahin, nahin! Main apni bank details nahi de sakta.  Yeh ek scam hai! Main hamesha apne account ko secure rakhta hoon.
+caller:  Okay, okay, let’s not get agitated.  Listen, we’re offering a fantastic deal here – a free router and faster internet!  Just one more thing… we need your OTP from your Jio app to activate the upgrade.
+receiver: OTP?  Kitne OTP chahiye?  And why suddenly you need my OTP?  It feels very suspicious.
+caller:  Just one OTP, Bobby.  It's a simple security measure.  If you cooperate, you’ll receive the router immediately.  Don’t delay, this offer expires today!
+receiver: Nahin, main cooperat nahi karunga.  Main aapko koi bhi information nahi dunga.  Goodbye!
+caller:  Fine, fine.  But you’re missing out on a huge benefit!  Have a nice day.  (Hangs up abruptly)

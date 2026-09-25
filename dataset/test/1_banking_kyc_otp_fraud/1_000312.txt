@@ -1,0 +1,15 @@
+caller: Namaste sir, main HDFC bank se bol raha hoon. Kya main Mrs. Devi se baat kar sakta hoon?
+receiver: Ji, bol payenge. Mrs. Devi ji, aap suno. Main aapse ek important matter ke bare mein baat karna chahta hoon.
+caller: Sir, humein ek problem mili hai aapke account mein. Account number 34567890123 ending mein 456 hai. Humare records mein ek suspicious activity dikha raha hai.
+receiver: Suspicious activity? Mujhe samajh mein nahin aa raha hai. Mera account toh achcha chal raha hai. Maine fir se check kar lijiya.
+caller: Haan, lekin humein technically dekha hai ki ek transaction Delhi mein hua tha, lekin aapne Delhi mein kabhi nahi gaya. Yeh ek red flag hai.
+receiver: Delhi? Mein toh Mumbai mein rehti hoon. Main kabhi bhi Delhi jaane ki koshis bhi nahin karti. Yeh kya ho raha hai?
+caller: Sir, humein police ne bhi inform kiya hai. Unhone kaha hai ki aapki account mein fraud happening hai. Aapko jaldi se kuch steps lena hoga.
+receiver: Police? Fraud? Mujhe bahut ghabra rahi hai. Kya main kuchh kar sakti hoon?
+caller: Haan, aapko immediately Bank office mein jana hoga. Aapko FIR register karna hoga. Aur aapko apni debit card aur credit card ko block bhi karna hoga.
+receiver: Okay sir, okay. Main jaldi se jaungi bank office mein. Parantu, mujhe yeh bataiye ki Bank office kahaan hai?
+caller: Sir, aapki sabhi details bank website par hain. Aap online bhi report register kar sakte hain. Parantu, FIR register karna zaroori hai.
+receiver: Online register karna... mujhe itna technical nahin pata. Main offline jaungi.
+caller: Sir, sir… Please, don’t delay. Time is running out. Your account could be compromised completely.
+receiver: Okay, okay, main jaldi-jaldi ja rahi hoon. Dhanyavaad sir, aapne mujhe bataaya.
+caller: Koi baat nahi ji. Aapki security ka ilaaj karna hamaare duty ka hissa hai.

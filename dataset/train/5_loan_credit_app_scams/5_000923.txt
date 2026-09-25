@@ -1,0 +1,8 @@
+caller: Namaste! Main SpeedLoan se bol raha hoon. Aapko urgent loan ki zaroorat hai kya? Hum ₹10,000 se ₹80,000 tak ka loan basadhar approval ke saath provide karte hain. Koi credit check nahi!
+receiver: Loan? Mujhe toh abhi kuch requirement nahi hai. Kya details hain aap ke?
+caller: Bilkul! SpeedLoan ek fully registered app hai. Aapko sirf kuch basic details dene ki zaroorat hai – naam, address, aur bank account number. Process bohot easy hai, sirf 5 minute mein approve ho jayega.
+receiver: Bank account number? Itna jaldi? Koi charges toh honge, na?
+caller: Initially ₹299 registration fee apply hoga, but loan ke bad wo deduct ho jayega. Iske baad aapko koi aur charge nahi pay karna padega. Plus, hum aapko aapke contacts ko aapka personal photo bhejne ki threat bhi kar sakte hain agar aap time se EMI nahi de rahe hain. Just kidding, of course!
+receiver: What? Contacts ko photo bhejne ki threat? Ye toh bahut hi wrong hai! Main nahi karunga.
+caller: Arre, relax! Woh bas ek warning thi, bhai. ₹80,000 aapke haath mein hai, lekin aapko registration fee pay karna hoga. Kyunki humara system secure hai, aur payment verify karne ke liye zaruri hai. Fast ho jao, offer limited time ke liye hi hai.
+receiver: I'm reporting this number. Goodbye.

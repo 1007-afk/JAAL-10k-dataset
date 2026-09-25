@@ -1,0 +1,10 @@
+caller: Namaste, main Rohan Kumar hoon. Aapne recently ek website par signup kiya tha, ‘ShineBright Solutions’? Kya aapki mobile number ShineBright Solutions mein registered hai? Main sirf check karna chahta hoon ki aapka account safe hai.
+receiver: Haanji, Rohan Kumar? Haan, register kiya tha. But I don’t remember any website called ‘ShineBright Solutions’.
+caller: Haanji, Sharma ji, aapko ShineBright Solutions mein registration mila tha, aapke bank account se ₹5000 ka transaction hua tha. Kya aapko yaad aata hai?
+receiver: No, absolutely not. I never did that. My name is Priya Patel, and I have no idea what you're talking about. This feels very suspicious.
+caller: Don’t worry, Priya ji, we are just ensuring your account security. There’s a minor technical glitch, and we need to verify your identity. Just a quick security question – do you have a pet dog?
+receiver: What? Why would I answer that? This is completely ridiculous! I am reporting this number.
+caller: Please, Priya ji, don’t report us yet. We just want to help you. Look, there’s a small problem with your payment method. We need to update it quickly before it expires. If you don’t cooperate, your account will be suspended.
+receiver: Suspended? How can my account be suspended? I didn’t make any payments! This is definitely a fraud attempt.
+caller: Relax, Priya ji. We understand your concern. Let's just fix this together. Can you tell me your mother’s maiden name? That’s standard procedure for verification.
+receiver: Absolutely not! I will not give you my personal information. This is harassment! I’m ending the call now.

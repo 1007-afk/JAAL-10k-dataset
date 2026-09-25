@@ -1,0 +1,16 @@
+caller: Namaste, main HDFC bank se Rohan bol raha hoon. Apka credit card expiry date ka time ho gaya hai, kya aap naya card apply karna chahenge?
+receiver: Namaste, Rohan ji. Kahaan se kar rahe hain aap call? HDFC bank se? Mera credit card expire ho gaya tha, kya?
+caller: Haanji, correct hai. Apka credit card jo aap use karte hain, woh 15th January ko expire ho jaega. Isliye maine aapko call kiya hai, agar aapko koi problem nahin hai toh hum immediately naya card banwa denge. Aapka new card jab mil jaye toh aapko bahut zyada convenience hogi.
+receiver: Theek hai, bataiye kya information chahiye? Aur naye card par koi annual fees lagega na?
+caller: Ji, bilkul. Annual fee koi nahi lagega, yeh completely free hai. Humein sirf aapki few basic details jisse hum check kar saken ki aap actually aap hi hain. Aapki poori naam, pan card number, aur aapke address ka postcode bata sakte hain? Yeh sab details hamare system mein update karne ke liye required hain.
+receiver: Haan, meri poori naam Deepak Kumar Sharma hai, pan card number [Pan card number bataiye], aur address ka postcode [Postcode bataiye].
+caller: Dhanyavaad, Deepak ji. Yeh details bahut sahaj hain. Ab humein ek small verification karna hai. Aapke registered mobile number pe ek SMS message mein OTP bhejna hai. Kya aapko woh message mila ya nahi?
+receiver: Haan, OTP aa gaya hai. OTP hai [OTP bataiye]. Yeh card kab tak mil jayega mujhe?
+caller: Apsara, main ICICI bank se Priya bol rahi hoon. Aapka debit card jaldi expire hone wali hai, kya aap naya card lena chahte hain?
+receiver:Haanji, Priya ji. Kaise bol rahe hain aap? ICICI bank se? Mera debit card expire ho gaya kya?
+caller:Haanji, bilkul. Aapka debit card jo aap use kar rahe hain, woh 10th February ko expire ho raha hai. Isliye maine aapko call kiya hai, agar aapko koi problem nahi hai, toh hum immediately naya card bana denge. Aapka new card jab milega toh aapko bahut asan hoga.
+receiver:Theek hai, bataiye kya chahiye? Aur naye card par koi surcharge lagega na?
+caller:Ji, bilkul. Surcharge koi nahi lagega, yeh completely free hai. Humein sirf aapki kuch basic details jisse hum check kar sakte hain ki aap actually aap hi hain. Aapki poori naam, Aadhaar card number, aur aapke address ka pincode bata sakte hain? Yeh sab details hamare system mein update karne ke liye zaruri hain.
+receiver:Haan, meri poori naam Kavita Singh hai, Aadhaar card number [Aadhaar card number bataiye], aur address ka pincode [Pincode bataiye].
+caller:Dhanyavaad, Kavita ji. Yeh details bahut sahaj hain. Ab humein ek chota verification karna hai. Aapke registered mobile number pe ek OTP bhejna hai. Kya aapko woh message mila ya nahi?
+receiver:Haan, OTP aa gaya hai. OTP hai [OTP bataiye]. Yeh card kab tak milega mujhe?

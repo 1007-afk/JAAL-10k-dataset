@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank KYC department se Rohit Verma bol raha hoon. Aapka account suspend karne ka risk hai, sir.
+receiver: Account suspend? Kyun? Mujhe toh koi message nahi aaya.
+caller: Sir, aapke naam par ek suspicious transaction hua hai. Security ke liye, aapko apna KYC update karna hoga urgently. Iske liye, mujhe aapke PAN card ka last 4 digit aur ek OTP chahiye jo aapke phone pe aaega.
+receiver: PAN card ka number? Aur OTP? Yeh thoda risky lag raha hai, sir. Mein online banking se aware hoon.
+caller: Sir, please understand, yeh bank protocol hai. Agar aap abhi update nahi karayenge, toh account freeze ho jayega aur aapka paisa bhi risk mein aa jayega. Just 4 digits of PAN aur OTP, sir. Kuch seconds lagega.
+receiver: Theek hai, par mujhe ek moment. Axis Bank ka koi official number hai kya? Mein check kar leta hoon.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle jaldi se bata dijiye. Yeh last chance hai.

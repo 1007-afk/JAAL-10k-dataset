@@ -1,0 +1,16 @@
+caller: Namaste, sir. Mein Axis Bank se Deepika bol rahi hoon. Aapke account mein kuch atyachit activities dikhi de rahi hain.
+receiver: Axis Bank? Kya hua? Atyachit activities?
+caller: Haan sir, aapke account se ek online transaction ka attempt kiya gaya hai, lekin woh fail ho gaya. Security ke liye, aapko apna KYC update karna hoga, warna account suspend bhi ho sakta hai.
+receiver: KYC? Lekin mene toh recently hi kiya tha.
+caller: Rules change ho gaye hain, sir. Ab har account holder ko verification karna padega. Aap mujhe apna Aadhaar number bataiye, main check karungi.
+receiver: Aadhaar number? Phone pe? Thoda risky toh lagega.
+caller: Sir, aapko account suspend hone se bachaana hai. Mein sirf verification ke liye bataiye. Fast ho jao, warna account freeze ho jayega.
+receiver: Freeze ho jayega? Okay, okay. Aadhaar number… 987654321098.
+caller: Shukriya, sir. Ab mujhe aapko ek OTP bhejna hoga. Woh enter karke aapka account secure kar sakte hain.
+receiver: OTP? Kaise bheja jayega?
+caller: Woh WhatsApp pe aayega, sir. Jaldi se check karke bataiye. Account suspend hone se pehle.
+receiver: WhatsApp pe? Hmm... mujhe kuch suspicion aa raha hai. Yeh toh scam lag raha hai.
+caller: Sir, aap galat samajh rahe hain. Account suspend hone se bachne ke liye jaldi se OTP bataiye. Mein aapko helpline number bhi de sakti hoon, agar aapko doubt ho.
+receiver: Helpline number? Okay, de dijiye.
+caller: Helpline number hai 1800-XXXXXXX. Ab OTP bataiye, sir?
+receiver: Woh helpline number main check karta hoon. Aapko OTP dene se pehle, mujhe confirm karna hai ki yeh Axis Bank ka genuine call hai.

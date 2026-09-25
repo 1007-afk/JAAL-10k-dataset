@@ -1,0 +1,7 @@
+caller: Namaste! Mein Ankit bolta hoon, Zomato customer care se. Aapki recent order mein ek chota sawal hai.
+receiver: Oh, Zomato se? Kya hua? Sab theek tha order ke saath.
+caller: Haan ji, lekin system mein ek payment error dikha raha hai.  Aapne OTP confirm nahi kiya tha, isliye payment process complete nahi hua. Chahiye mujhe OTP aur kuch details verify karne ke liye.
+receiver: OTP? Mai to payment kar chuka hoon! Mai ne apna bank statement check kiya, payment gaya tha.
+caller: Haan, lekin system ko confirmation chahiye.  Aapko sirf ek moment ke liye OTP dena hai, phir sab sorted ho jayega.  Koi tension nahi lene ka.  Aapka food jaldi se aap tak pahunchana humara target hai.  Just give me the OTP, please!
+receiver:  Bilkul nahi! OTP kabhi nahi deta.  Yeh scam lag raha hai.  Mein Zomato customer care number se call karta hoon, aur check karta hoon.
+caller: Arre, yeh koi scam nahi hai!  Agar aap OTP nahi dete, toh aapka order cancel ho jayega, aur aapka paisa bhi freeze ho sakta hai.  Aapko bahut nuksan hoga!  Please help us, and give us the OTP!  Aapka order number hai ZM12345.

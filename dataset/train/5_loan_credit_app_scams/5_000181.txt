@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, aur main EasyCash Loans se baat kar raha hoon. Aapne recently EasyCash app se ek personal loan apply kiya tha, hai na?
+receiver: Haan, apply kiya tha. Lekin mujhe koi call nahi aayi thi verification ke liye. Yeh kaun hai?
+caller: Sir, verification process mein thoda delay ho gaya tha. Ab aapko loan approve karne ke liye kuch details verify karni hogi. Pehle, aapka bank account number aur OTP bataiye, sir.
+receiver: OTP? Mujhe toh app par hi OTP mila tha. Bank account number phone pe kyun pooch rahe hain? Yeh theek nahi lag raha.
+caller: Sir, security ke vajah se, humko phone se bhi verify karna padta hai. OTP sir ek verification code hai jo aapke bank se aayega. Wo bataiye, aur phir main aapko loan details confirm kar dunga. ₹50,000 loan aapko approve ho jayega, sir. Bahut hi jaldi.
+receiver: ₹50,000? Mujhe toh sirf ₹10,000 ka loan apply kiya tha! Aur OTP phone pe... yeh to scam lag raha hai. Mein koi bhi details nahi dunga. Mein police mein complaint karunga.
+caller: Sir, please! Don’t do this! ₹50,000 ka loan aapko approve ho gaya hai, sirf OTP bataiye. Otherwise, hum loan cancel kar denge aur aapka credit score damage ho jayega. Please, just the OTP.

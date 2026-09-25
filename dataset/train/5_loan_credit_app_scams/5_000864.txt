@@ -1,0 +1,8 @@
+caller: Hello, mai Rahul bolta hoon, Axis Finance se. Aapko kyuki personal loan ke liye approve kiya gaya hai, aur hum aapko instant approval ki process ke bare mein bataane ke liye call kar rahe hain.
+receiver: Oh, really? Maine toh kabhi loan apply nahin kiya.
+caller: Ji, aapne recently ek online form bhara tha, jise Axis Finance mein register kiya gaya. Aapko ₹2 lakh tak ka loan mil sakta hai, bahut hi achhe interest rate se.
+receiver: Lekin mujhe yaad nahin… aur mujhe koi form nahin bhara tha. Kyun mujhe call kar rahe hain?
+caller: Dekhiye, process bahut simple hai. Aapko bas ₹5,000 verification fee bhar deni hai, aur loan aapke account mein deposit ho jayega. Payment karne ke liye is number pe OTP bhejo: 9876543210.
+receiver: ₹5,000 verification fee? Yeh toh galat lag raha hai! Koi bhi trustable company aage ke payment ke liye demand nahin karegi. Mein call nahi karunga.
+caller: Suniye suniye! Aapko loan deny kar rahe hain? Agar aap payment nahi karenge, to aapka account suspend ho jayega aur aapko loan mil hi nahin payega. Aur aapke contacts ko bhi kehta hoon ki aap loan dene se inkaar kar rahe hain. 
+receiver: Contacts ko kya bolenge? Yeh bahut hi strange hai. Aap meri privacy violate kar rahe hain aur threatening bhi kar rahe hain. Main police mein complaint karungi.

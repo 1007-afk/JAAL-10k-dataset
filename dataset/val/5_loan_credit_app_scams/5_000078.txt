@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from QuickCash Loans. We see you recently applied for a personal loan. There's a small verification needed to finalize your approval.
+receiver: QuickCash Loans? I don't recall applying for a loan. What verification do you need?
+caller: Just a quick confirmation of your bank account details, ma'am. It’s standard procedure. We need to ensure the funds are deposited correctly. Also, there's a small processing fee of ₹500 to activate your loan, payable via UPI.
+receiver: ₹500? I'm not comfortable giving out my bank details over the phone, especially for a loan I don’t even remember applying for. And why a fee upfront?
+caller: Ma'am, without the fee, we can't process the loan. And the loan amount is ₹50,000, a great offer! But if you don't pay the ₹500 now, we'll have to cancel the application. We've also noticed some concerning activity on your WhatsApp—we could share some embarrassing photos with your contacts if you don't cooperate.
+receiver: What? Embarrassing photos? That’s blackmail! I’m reporting you. You're a scammer!
+caller: Don't be ridiculous, ma’am. This is about securing your loan and preventing further unauthorized access. Just pay the ₹500 and we'll send you the loan details. It's a simple transaction. Think of it as an insurance policy against future problems.

@@ -1,0 +1,8 @@
+caller:  Is Priya from the customer support team? How are you doing today?
+receiver: Hello? Yes, I am fine, please tell me. Who’s speaking? Customer support, Priya? Okay, that’s good to know.
+caller: Ji, I am well. Very nice! You have been selected to receive £500 worth of electronics gift cards every month! Just a quick message to ‘CLAIM’ 54321 on WhatsApp. It's a fun little quiz game, and your name has appeared in our database! So, what do you need to do now?
+receiver: Oh my goodness! £500 worth of electronics? That's fantastic! ‘CLAIM’ send over WhatsApp and 54321, right? Is this some kind of lottery thing? And my name is listed, how did you find it?
+caller: Exactly! It’s a trivia game, so it depends a bit on your speedy thinking. And your name was automatically added to our system where you entered your mobile number! So just send ‘CLAIM’ to 54321 on WhatsApp and you will be qualified! Have you sent the message yet?
+receiver: You said it's added to the system based on my mobile number? I don't remember entering any details. Can you tell me more about this game, how does the quiz work exactly? And what happens after I send the message, will I get a confirmation?
+caller: Absolutely! It's just a very small process, really simple. You just need to send ‘CLAIM’ to 54321 on WhatsApp, that’s your entry. Then, you'll receive a link with some basic multiple choice questions. If you answer them correctly, then you’ll be eligible to win £500 every month! It's quite easy. Have you sent the message yet?
+receiver: Hmm, okay. I'll wait for the link to arrive. Should I send the ‘CLAIM’ message now, or are you telling me to send it first before I’m ready? Meaning, do I need to confirm I’m ready to send it?

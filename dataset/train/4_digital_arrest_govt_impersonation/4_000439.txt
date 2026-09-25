@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? This is a formal notification from the Directorate of Revenue Intelligence, DRI. We have intercepted a parcel linked to your name containing suspected contraband.
+receiver: Contraband? What are you talking about? I haven't ordered anything.
+caller: Ma’am, our records show a package originating from overseas with your address. It’s flagged for illegal substances. To clear this matter without further legal complications, you’ll need to pay a processing fee and a security deposit. The total is ₹15,000.
+receiver: Fifteen thousand? This is ridiculous! I want to speak to a supervisor. And how are you even calling me about this? Shouldn’t I be getting a letter?
+caller: Ma'am, time is of the essence. We're trying to resolve this discreetly to avoid embarrassment. A supervisor is not available. Payment can be made through UPI to the number 9876543210. Once the transaction is confirmed, we will issue a clearance certificate.
+receiver: UPI? That sounds risky. Are you sure this isn’t a scam? I'm calling my lawyer.
+caller: Ma'am, delaying this will only escalate the situation. The police will be involved. To reiterate, the UPI ID is 9876543210. Please send a screenshot of the payment confirmation for immediate verification. Failure to comply within the next hour will result in a formal investigation and potential arrest.
+receiver: Okay, fine. Just send me your official DRI email address so I can verify.

@@ -1,0 +1,7 @@
+caller: Namaste, Madam! Main Bharat Petroleum Corporation Limited se Rahul bol raha hoon. Aapke naam par ek international transaction request aaya hai. ₹18,500 ka. Aapne kabhi international transaction kiya tha?
+receiver: Haan, lekin mujhe yaad nahi aa raha abhi. ₹18,500? Kisliye? Aur aapko mera number kaise mila?
+caller: Woh dekhiye, Madam, security ke liye, hum har customer ko confirm karte hain. ₹18,500 ka transaction Nepal mein hua hai. Agar aapne nahi kiya toh humko confirm karwa lo, warna account block ho sakta hai. Aapko OTP milega, woh mujhe bata dijiye.
+receiver: Account block? Aur OTP? Mai toh confuse ho rahi hoon. Bharat Petroleum se toh mujhe koi email ya message nahi aaya. Koi number dijiye, mai official helpline par call karta hoon.
+caller: Arre, Madam, official helpline busy rahega! Yeh urgent hai. Account block hone se pehle aapko fast action lena padega. Bas OTP bata dijiye, phir sab theek ho jayega. Aapko zyada tension nahi lene ka. Just give me the OTP so I can freeze the transaction.
+receiver: Dekhiye, mujhe kuch toh gadbad lag rahi hai. Main koi OTP nahi dungi. Mai abhi Bharat Petroleum ke official website par check karta hoon aur phir call karta hoon. Aapke saath mai aur baat nahi karna chahti.
+caller: Madam, aap apne hi account ko risk mein daal rahi hain. Think about it -  account block ho jayega aur aapko itni mushkil hogi phir. Just give the OTP and I will sort everything out, trust me.

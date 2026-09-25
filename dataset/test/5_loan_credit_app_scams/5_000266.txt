@@ -1,0 +1,7 @@
+caller: Namaste! Main Akash Verma, QuickLoanHelp se bol raha hoon. Aapne toh online form bharaya tha, na? Aapko urgent loan chahiye tha, correct?
+receiver: Haan, ji. Maine form bhara tha. Ek chhoti si loan chahiye thi, around 80,000 rupaye.
+caller: Super! Aapka application approved ho gaya hai, sir. Bas abhi kuch verification formalities complete karni hai. Aapke WhatsApp number par ek OTP aaya hoga, na?
+receiver: Haan, aaya OTP. 987654. Bataiye ab kya karna hai?
+caller: Excellent! Verification complete. Ab, loan amount transfer karne se pehle, humein security ke liye ek chhoti si processing fee ki zaroorat hai, sirf 5000 rupaye. Iska payment UPI se karna hai.
+receiver: 5000 rupaye? Lekin form mein toh kuch mention nahi tha!
+caller: Sir, ye ek standard procedure hai, fraud se bachne ke liye. UPI detail main aapko de deta hoon. Jab payment ho jaayega, toh aapka loan instant transfer ho jaayega. Please do it quickly, otherwise, we will have to cancel your application.

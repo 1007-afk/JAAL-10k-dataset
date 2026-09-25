@@ -1,0 +1,8 @@
+caller: Namaste, main Rohan hoon. Main calling kar raha hoon jabke maine recently 'Sparkle Clean' solution ka 250 rupee ka order diya tha. Kya aap meri account details check kar sakte hain?
+receiver: Namaste Rohan ji, main Lakshmi hoon. Sparkle Clean ka order diya tha, sahi hai. Aapka registered mobile number hai [invented mobile number, e.g., 88998 77665], aur email id hai [invented email, e.g., lakshmi.desai@gmail.com].
+caller: Dhanyavaad Lakshmi ji, Priya.  Mujhe lagta hai ki yeh ek automatic renewal hai, aur yeh unexpectedly charge hua hai. Isko cancel karne aur refund milne ke liye, mujhe kuch extra details chahiye. Aapka bank ka card number verify karna chahte hain - sirf last four digits hi chahiye.
+receiver: Haan Rohan ji, bank ka card number hai 6789.  Aapko kuch aur chahiye?
+caller: Shukriya Priya. Aur aapka card expiry date bhi bataiye, please. Yeh sirf ek safety check hai, agar koi dusra yeh account access kar sakta hai, toh hum unhein block kar sakte hain.
+receiver: Card ka expiry date hai 12/26.  Aapko abhi tak koi problem nahi hui, Rohan ji.
+caller: Dhanyavaad Lakshmi ji, Priya.  Ek saaf check ke liye, aapkarte hain ki card par naam kya dikhta hai? Yeh refund process ko complete karne ke liye zaroori hai.  Mujhe do attempts hain yahaan.
+receiver: Card par naam hai Kavita Patel.  Agar koi aur question hai toh puchho.

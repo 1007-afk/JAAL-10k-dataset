@@ -1,0 +1,7 @@
+caller: Namaste, main Flipkart se Rahul bolta hoon. Aapke naam par ek order aaya hai, order ID hai FK789234. Par delivery ke dauran ek problem aa gaya hai, package damage ho gaya hai.
+receiver: Flipkart se? Kya hua? Package damage? Mein Radha Sharma hoon.
+caller: Ji, Mrs. Sharma. Damage hone ke karan, humein aapke account se verification ke liye ₹75 refund process karna padega. Yeh ek security measure hai, taaki payment fraud se bacha ja sake.
+receiver: ₹75? Refund ke liye? Flipkart toh kabhi aise nahi bola. Mein yahan pe account number nahi de sakti.
+caller: Mrs. Sharma, please understand, yeh Flipkart policy hai. Account number nahi chahiye, sirf OTP chahiye jo aapko SMS se aayega. OTP se hum verify karenge ki account aapka hi hai.
+receiver: OTP? Kaunsa OTP? Mujhe doubt ho raha hai. Mein Flipkart customer care number se call karta hoon.
+caller: Mrs. Sharma, woh number fake ho sakta hai, scammer ka ho sakta hai. Yeh number official hai. Please OTP share karein, warna aapka order cancel ho jayega aur ₹75 bhi nahi milega.

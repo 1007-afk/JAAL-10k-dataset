@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? This is Inspector Singh from the Delhi Cyber Crime Unit. We've detected suspicious activity linked to your bank account and a potential involvement in an illegal cryptocurrency transfer.
+receiver: Haan, bolie. Illegal cryptocurrency? Main toh kabhi cryptocurrency nahi kiya.
+caller: Sir, our records indicate a significant amount was routed through your account on 14/03/2024. It’s linked to a money laundering scheme. To avoid legal repercussions, you need to cooperate. We need to verify your details and secure the funds. Please call this number immediately: 9876543210. It's crucial you do this within the hour.
+receiver: Ek minute. Main abhi check karta hoon. Account statement main kuch dikhta hai kya? Aur aapko kaise pata chala ki main involved hoon?
+caller: Sir, time is of the essence. A delay could result in your arrest. We're currently holding a warrant in your name.  The funds have been traced to a network of offshore accounts. Call 9876543210 now, and speak with Officer Verma. He can guide you through the necessary steps. We’ll also need to keep you on a video call to verify your identity throughout the process.
+receiver: Arrest warrant? Officer Verma? Yeh toh kuch galat lag raha hai. Main police station jaake report karunga.
+caller: Sir, please don’t do anything rash. This is a sensitive operation, and going to the police station could jeopardize the investigation. Officer Verma is waiting to assist you. He’ll explain how to pay a small processing fee to clear your name.  Just call 9876543210. Do it quickly, sir.
+receiver: Kitni fee hai? Aur main kaise pata karunga ki aap log sachche

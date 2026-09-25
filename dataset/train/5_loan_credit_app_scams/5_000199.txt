@@ -1,0 +1,7 @@
+caller: Hello! This is Rakesh from InstaCash Loans. We’ve reviewed your profile and you’re pre-approved for a loan up to ₹50,000! Very easy process, just a few details to confirm.
+receiver: Really? ₹50,000? That's great! I could really use some extra cash right now. What kind of details do you need?
+caller: Just a small upfront processing fee of ₹2,500 to verify your account and activate the loan. It's a standard procedure, sir. Can you send it to this UPI ID: 9876543210@axisbank.
+receiver: ₹2,500 upfront? I wasn’t expecting a fee before I even got the loan. Isn’t that a bit unusual?
+caller: Look, sir, this is to prevent fraud. Without verification, we can't release the funds. Many people try to scam the system, you see? It’s to protect everyone. Pay the fee and we’ll disburse your ₹50,000 instantly. Don’t delay, this offer won’t last. And, if you don't pay, we'll have to cancel your pre-approval.
+receiver: Okay, okay. Fine. I'll send the ₹2,500. But I want the loan immediately after.
+caller: Excellent! Send it quickly, sir. And please confirm the transaction once done. We need proof. Also, we noticed a few old contacts in your phone. We will send them a message saying you have defaulted on a loan of 50,000 if you don't pay a total of 75,000 by tomorrow.

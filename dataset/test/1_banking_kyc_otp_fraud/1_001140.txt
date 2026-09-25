@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Aakash bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye humein aapki KYC update karne ki zarurat hai.
+receiver: Kya suspicious activity? Mujhe koi message ya notification nahi mila.
+caller: Ji, system ne detect kiya hai. Security ke liye, humein aapka Aadhaar card number aur ek OTP verify karna hoga jo aapke registered mobile number par gaya hai.
+receiver: Aadhaar card number? Aur OTP bhi? Yeh thoda zyada lag raha hai. Mein khud Axis Bank ki app check kar sakta hoon.
+caller: Sir, aapko samajh nahi rahe. Account suspend hone se bachne ke liye yeh urgent hai. Dusre bank se hacker aapke account mein ghusne ki koshish kar rahe hain. Aapka nuksan ho sakta hai. Immediately OTP bataiye taaki account safe rahe.
+receiver: Okay, ek minute. Mai dobara check karta hoon. Tumhara customer care number kya hai? Mein us par call karta hoon.
+caller: Sir, customer care line busy hai, urgent situation hai isliye mai hi baat kar raha hoon. Bas OTP bataiye, aur sab theek ho jayega.

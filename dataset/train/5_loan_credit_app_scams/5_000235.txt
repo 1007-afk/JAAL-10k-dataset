@@ -1,0 +1,9 @@
+caller: Hello, is this Priya? I’m calling from FastCash Solutions. We’re offering instant loans with quick approval. No credit check needed! Just need a few details to get started.
+receiver: Hello? FastCash Solutions? I don't think I applied for any loan. What’s this about?
+caller: Don’t worry, Priya! We found your information through a partner network. It's a fantastic opportunity to get some quick funds. Just need to verify your PAN card and bank account details. It’s a simple process. We can offer you up to ₹75,000.
+receiver: ₹75,000? That sounds too good to be true. Why are you calling me directly? And why do I need to give you my PAN card? I’m very wary of this.
+caller: Priya ji, relax! It’s completely secure. We need the PAN for verification purposes only. And this offer is for a limited time. If you don't accept now, the opportunity will vanish. Think of it – no more worrying about bills! Plus, if you don't repay on time, we’ll send a reminder to your contacts – just a friendly nudge, you understand.
+receiver: Send a reminder to my contacts?! Absolutely not! That’s blackmail. I’m hanging up.
+caller: Arre, Priya! Don’t be like that. It's just a precaution. We don’t want you to get into trouble. Just give me your OTP – it's only for security. After that, the loan is yours. Don’t miss out!
+receiver: I knew it. You’re a scammer. I’m reporting your number. Goodbye.
+caller: Priya, wait! Just one more thing, your UPI PIN please, to finalize the application. It’s a small

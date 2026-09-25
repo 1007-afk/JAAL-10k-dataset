@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Akash calling from QuickLoan India. We’ve noticed you recently applied for a personal loan on our platform. Just a quick verification process needed before approval. Do you have your Aadhaar card ready?
+receiver: Haan, Akash ji. Aadhaar card toh hai. Kya verify karna hai?
+caller: Excellent! Now, for security purposes, can you please share the last four digits of the phone number you used during registration? Just a moment, checking the system.
+receiver: Okay, it’s 9876. Verification complete? I’m in a meeting, please hurry.
+caller: Verification successful, sir! Your loan is approved for ₹50,000. However, there’s a small processing fee of ₹7,500 that needs to be deposited immediately to activate the loan. This is standard procedure.
+receiver: ₹7,500? But I applied for ₹50,000 loan! That’s too much.
+caller: Sir, this fee ensures your loan is secured and processed swiftly. Without it, the loan will be cancelled. We can also send you morphed pictures to your contacts if the payment is not made, to ensure that this is taken seriously. Transfer it to the UPI ID I’ll provide you.
+receiver: Wait a minute! This sounds fishy. I am not paying anything. I'm ending this call.

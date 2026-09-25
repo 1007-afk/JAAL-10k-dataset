@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Inspector Sharma bol raha hoon. Aapke naam par ek parcel Hyderabad airport par roka gaya hai.
+receiver: Kya? Parcel roka gaya hai? Main toh koi parcel nahi bheja tha.
+caller: Ji, lekin records mein dikh raha hai ki ek parcel aapke address par Hyderabad se aa raha tha, jismein illegal items hain.  Yeh drugs smuggling ka case hai. Aapko ek investigation mein cooperate karna hoga.
+receiver: Drugs smuggling? Main toh kabhi drugs nahi pasand karta. Yeh toh galat baat hai! Mujhe details do, aur yeh parcel kaha hai?
+caller:  Aapko parcel release karne ke liye ₹15,000 ka fine bharne hoga.  Yeh money aapko ek specific bank account mein transfer karna hai.  Account number mein ek OTP bhi bheja jayega, woh bhi share karna.
+receiver: ₹15,000?  Aur OTP bhi?  Yeh theek nahi lag raha. Main police station mein jaata hoon aur waha se baat karta hoon.
+caller: Sir, time kam hai.  Agar aapko parcel chahiye aur aapko legal problems se bachna hai, toh jald se jald money transfer karein.  Yeh matter bahut serious hai.  Aapka cooperation bahut zaruri hai.
+receiver: Sir, main jaanta hoon ki aap log fraudsters ho. Main FIR lodge karwaunga.

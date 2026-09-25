@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, mai PhonePe se baat kar raha hoon. Aapke PhonePe account mein ek transaction fail hua hai.
+receiver: Transaction fail? Kaunsa transaction? Mujhe toh koi notification nahi aaya.
+caller: Haan sir, ek bahut badi amount ka transaction fail ho gaya hai. Account secure karne ke liye, aapko apne bank account ka last 4 digits aur OTP share karna hoga.
+receiver: Bank account details PhonePe ko? Yeh thoda risky lag raha hai. PhonePe customer care number toh available hai na?
+caller: Sir, customer care line par bahut line lag rahi hai. Yeh ek urgent security process hai, sirf 2 minute lagega. Agar aap OTP nahi share karenge toh aapka account permanent block ho jayega, aur transaction phir kabhi nahi ho payega.
+receiver: Permanent block? Arre yaar, main abhi check karta hoon PhonePe app mein. Wait karo, ek minute…
+caller: Sir, samay bahut kam hai. Account block hone se pehle apna last 4 digits aur OTP bata dijiye.  Sir, bas 1 minute ka kaam hai, aapko koi nuksan nahi hoga.
+receiver: Okay, okay… bank account ka last 4 digits… woh… 4587 hai. Aur OTP…  yeh aaya hai, 123456.

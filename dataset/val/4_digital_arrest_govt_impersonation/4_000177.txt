@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Singh, calling from the Directorate of Enforcement. We've detected some unusual activity on your bank account linked to potential involvement in an illegal cryptocurrency exchange.
+receiver: Haan, bolie. What’s the matter?
+caller: Sir, we've noticed several large, untraceable transactions. To clear you of any suspicion, we need to verify a few details. Could you please provide the last four digits of your account number and the OTP you just received on your registered mobile number? It's a simple verification process to ensure your funds are secure.
+receiver: OTP? I didn’t receive any OTP. And why would I be involved in cryptocurrency?
+caller: Sir, please check your messages carefully. These things can sometimes be delayed. This is a crucial step, Mr. Sharma. Without this verification, we may have to freeze your account pending further investigation. The reference number for this case is DE/2024/CR/0789. Can you confirm you have received the OTP?
+receiver: Look, I'm busy right now. I don't think this is right. I'll check with my bank later.
+caller: Sir, with all due respect, delaying this could cause serious complications. This is a matter of national security, and we need to act quickly. Just a few seconds of your time could prevent further escalation. Please, for your own safety, provide the OTP.
+receiver: I’m telling you, I didn’t get an OTP. This is a scam. I'm hanging up now.

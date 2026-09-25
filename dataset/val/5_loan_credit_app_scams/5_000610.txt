@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Deepak hai, FastLoan Services se. Aapki KYC details ke according, aapko ₹10,000 ka urgent loan approve kiya gaya hai. Just a few formalities remaining.
+receiver: FastLoan Services? Mai toh koi loan apply nahi kiya tha. Yeh kaise approve ho gaya?
+caller: Ji, sir. Aapki credit score bahut achhi hai, isliye humein aapko yeh offer karne ka mauka mila. Account activate karne ke liye, bas ₹250 verification fee deposit karein.
+receiver: ₹250? Verification fee? Koi bhi legit company upfront fee lete nahi hai. Yeh kuch ghalat lag raha hai.
+caller: Sir, yeh humare system mein security check hai. Agar aap fee deposit nahi karenge, toh account block ho jayega aur loan bhi cancel ho jayega. Hum aapko aapke contacts mein morphed photos bhi bhejenge agar aap nahin samjhte.
+receiver: Morphed photos? Yeh toh blackmailing hai! Mai police mein report karunga.
+caller: Arre, arre, mat karna! Please, ₹250 deposit karein, aur aapka loan instantly activate ho jayega. Main aapko apna bank account number de deta hoon – [invent a bank account number]. Jaldi karein, sir, time limited hai.

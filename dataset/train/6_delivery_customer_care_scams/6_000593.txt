@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Sharma? I’m calling from Swiggy Customer Care. We've noticed an unusual transaction of ₹1200 on your account, which you haven't authorized.
+receiver: Oh really? ₹1200? I haven't ordered anything like that. What's happening?
+caller: Yes sir. It seems someone used your Swiggy account to place a large order. To secure your account and reverse this fraudulent charge, we need to verify a one-time password sent to your registered mobile number. Could you please tell me the OTP?
+receiver: Wait a minute, why do I need to give you an OTP? Shouldn't I be contacting Swiggy directly?
+caller: Sir, for security reasons, we can’t ask for OTPs over email or chat. This is the only way to quickly resolve the issue and prevent further unauthorized transactions.  Just a quick OTP, and we'll sort this out. It's a standard procedure.
+receiver: I’m still not comfortable giving you an OTP over the phone. It feels suspicious.
+caller: Sir, I understand your concern, but time is of the essence. If you don’t verify now, the fraudulent charge will remain on your account.  Just confirm the OTP, and I will provide you with a reference number for your records. Please, sir, just the OTP?

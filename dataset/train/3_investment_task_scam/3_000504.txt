@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Rohan hai, CryptoGain Solutions se. Aapko crypto investment mein interest hai kya? Hum ek special opportunity offer kar rahe hain.
+receiver: Crypto investment? Haan, kuch batayein. Main abhi seekh raha hun, toh achha opportunity hona chahiye.
+caller: Zaroor! Hum ek new coin, StellarX, mein early investment ka chance de rahe hain. Iska value ek mahine mein 10x ho sakta hai! Sirf ₹2000 se shuru karein aur bada profit kamaein.
+receiver: 10x? Itna bada return? Yeh kitna safe hai? Koi fees toh nahi lagengi?
+caller: Bilkul safe! Yeh ek limited-time offer hai, sirf 24 hours ke liye. Apne wallet address send karein, aur hum aapko StellarX transfer kar denge. Transaction fees ₹500 apply honge, yeh network charges hain.
+receiver: ₹500 fees? Aur mujhe StellarX kahan receive hoga? Main thoda confused hoon.
+caller: ₹500 fees sirf ek baar lagengi, yeh network ka mandatory charge hai. Aapko TrustWallet app mein StellarX receive hoga, main aapko step-by-step guide bhi send karunga. Jaldi karein, offer khatam hone wali hai!
+receiver: Theek hai, TrustWallet mein receive hoga. Mujhe yeh guide send karein.
+caller: Perfect! Abhi ₹500 transfer karein ek specific UPI ID par: 8765432109@axisbank. Offer khatam hone se pehle jaldi karein!
+receiver: ₹500 UPI ID? Wait, yeh kuch galat lag raha hai. Main research karta hoon, bye.
+caller: Arey, wait! ₹500 transfer karke aap Stellar

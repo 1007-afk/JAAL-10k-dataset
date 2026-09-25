@@ -1,0 +1,7 @@
+caller: Namaste! I am calling from LoanExpress India. We’ve noticed you fit the profile for our instant personal loan scheme. Approval is almost guaranteed! You can get up to ₹50,000 within an hour. Just need to confirm a few details.
+receiver: LoanExpress? I haven’t applied for any loan. I’m a bit confused. Is this a genuine offer?
+caller: Absolutely! It’s a special promotional offer for select customers. To proceed, we need a small processing fee of ₹2,500 to verify your account. You can deposit it into this UPI ID: 9876543210.
+receiver: ₹2,500 upfront? That doesn’t sound right. Most loans don’t ask for money before giving a loan. This feels fishy.
+caller: Don't be silly! It's a standard procedure. Without verification, we can’t release the funds. Think of it as an insurance policy to avoid fraud. Once the loan is disbursed, you can deduct it from your first EMI. Delaying will mean missing out on this great opportunity.
+receiver: I am not paying anything. This is a scam. I’m reporting this number. Goodbye.
+caller: Arre, wait! Don't do that! Just ₹1,500! Please! Just help me keep my job! Otherwise, I will be in trouble. Just transfer the money now to this UPI ID: 7890123456. It’s a one-time thing!

@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya from Global Crypto Investments. We’re calling regarding a significant opportunity in Bitcoin trading. Our system has flagged you as a potentially high-growth investor. Are you familiar with Bitcoin?
+receiver: Hello? Bitcoin? I’ve heard about it, but I don’t really understand it. I’m not sure I want to invest.
+caller: Absolutely understandable! It can seem complicated. But we've developed a very simple automated trading system. Right now, we're offering new clients a special bonus – a 50% return on your initial investment in just 7 days. It’s a limited-time offer. All you need to do is transfer a small amount, say ₹25,000, to get started.
+receiver: ₹25,000? That’s a lot of money. And a 50% return in just a week? That sounds too good to be true.
+caller: It's not too good to be true, sir. This is thanks to our proprietary algorithm and current market trends.  To make this even easier, we can use a secure UPI transfer. Can you give me your UPI ID to initiate the process? This is just to get things moving quickly, you know, before the offer expires.
+receiver: Wait a minute. UPI ID? I'm really not comfortable sharing that. What guarantee do I have that I’ll actually see my money back?
+caller: Sir, we are a registered company and fully compliant. We can send you our registration documents via email. But to confirm your eligibility for the bonus, could you please share the last four digits of your PAN card? It's just a quick security check.
+receiver: No, I’m not giving you my PAN card details. I think this is a scam. Goodbye.

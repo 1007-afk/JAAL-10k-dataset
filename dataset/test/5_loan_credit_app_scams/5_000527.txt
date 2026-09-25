@@ -1,0 +1,8 @@
+caller: Namaste! Suniye, aapne 'QuickCashNow' app par apply kiya tha na? Verification ke liye call kar raha hoon. Aapka account activate karne ke liye kuch details confirm karwani hai.
+receiver: Haan, apply toh kiya tha. Bataiye kya confirmation chahiye?
+caller: Theek hai. Aapki personal details confirm karoonga, phir ek small security charge apply karna hai, sirf ₹2500. Yeh charge aapke account mein security deposit hai. Jab aap loan le lenge toh yeh adjust ho jayega.
+receiver: ₹2500? Apply karne ke liye charge lagta hai? Mujhe toh aisa kuch nahi pata tha.
+caller: Ji haan, sir. Yeh rule hai. Agar aap verify nahi karte toh account block ho jayega aur aapko loan bhi nahi milega. Yeh sirf ek baar ka charge hai, promise. Otherwise, aapka account suspend ho jaayega aur loan process bhi ruk jayega.
+receiver: Suniye, mujhe thoda time dijiye. Main check karta hoon.
+caller: Sir, time nahi hai. 24 hours mein verify karna hai. Warna ₹5000 fine lag jayega aur account permanent block ho jayega.  Aapko paisa deposit karna hai online.  Main aapko link share karta hoon - aur bilkul secure hai.
+receiver: ₹5000 fine? Yeh toh jyada hogaya. Main nahi karunga. Main report karta hoon.

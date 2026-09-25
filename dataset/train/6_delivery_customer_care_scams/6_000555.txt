@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Verma? We're calling from Zepto Customer Care regarding a pending payment on your recent order.
+receiver: Haan, mai Mrs. Verma hoon. Zepto order? Kya hua?
+caller: There seems to be a slight discrepancy with the payment made for order #ZT4829. Our system shows an incomplete transaction. To prevent order cancellation, we need to verify a small amount.
+receiver: Incomplete transaction? Mujhe toh payment karne ke baad confirmation mila tha. Kitni amount hai?
+caller: It’s just ₹350, ma’am. Could you please share the last four digits of your credit card and the OTP you just received on your phone to complete the process? It's a standard security check.
+receiver: ₹350? OTP? Wait a minute, why are you asking for this? Zepto never asked me this before.
+caller: This is to ensure the security of your account, Mrs. Verma. We've been experiencing a surge in fraudulent activities. It’s a precautionary measure, I assure you.
+receiver:  Fraudulent activities? Mujhe kuch pata nahi.  I think I need to call Zepto directly. Thank you, goodbye.
+caller: Please, ma'am, don't delay. Your order will be cancelled within the next few minutes if you don't confirm.  We’re just trying to help!

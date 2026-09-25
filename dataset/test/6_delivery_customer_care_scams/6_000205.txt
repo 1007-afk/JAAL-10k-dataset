@@ -1,0 +1,10 @@
+caller: Namaste! Apnay aapko bohut sari khushi! Aapko ek shriman Patel ne online shopping ke liye ek special discount coupon mila hai! ₹500 ka savings aapko mil sakta hai, sirf ek call se!
+receiver: Namaste ji! Shriman Patel ne? Discount coupon? ₹500 ka saving? Really? Online shopping ke liye? Acha, interesting! Number bataiyein, plzzzzz?
+caller: Haan ji, number hai 08278591234. Aapko bara sazon mein yeh coupon valid hoga. Agar aap humein call karte hain, to hum aapko sabhi terms and conditions batayenge. Thoda sa wait karein, agar aapko interest hai.
+receiver: Okay, 08278591234.  Wait karoonga. Terms and conditions bhi poochhne doonga.  Agar coupon valid hai, to main order karunga.  Koi specific time hai kya jab main call kar sakta/sakti hoon?
+caller: Jee, aapko humein aaj subah 10 baje tak call karna hai.  Jab humein call karein ge, to hum aapko coupon code batayenge. Is coupon ko use karne ke liye aapko sirf ₹100 ka minimum order karna hoga.  Yeh offer sirf limited time ke liye hai, dusra chance nahi milega!
+receiver: ₹100 ka minimum order?  Okay, good to know.  Aaj subah 10 baje tak call karna hai.  Number batao phir! 08278591234.  Thank you!
+caller: Haan ji, correct number!  Hum aapko call karenge, aur aapko coupon code milegi.  Aapko ₹500 ka savings milega!  Aapka waiting time khatam hua!
+receiver:  Oh, great! ₹500 ka savings! Main abhi call karunga!  Thank you so much! Bye!
+caller:  H, aapka wait kar rahe hain! Coupon code jo milega, woh sirf 30 din ke liye valid hoga.  Aapko order karna chahiye!
+receiver:  30 din? Okay, okay, I’ll hurry up!  Bye bye!

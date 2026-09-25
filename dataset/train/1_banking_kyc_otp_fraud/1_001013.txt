@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? This is SecureTrade calling regarding unusual activity on your Demat account.
+receiver: Haan, bolie. SecureTrade? Kya hua?
+caller: Mrs. Kapoor, we’ve detected several suspicious buy and sell orders placed on your account earlier today. To prevent unauthorized access and potential losses, we need to quickly verify your KYC details. Can you please confirm your PAN card number for verification?
+receiver: PAN card number? Aur ye kya suspicious orders hain? Mujhe toh koi order yaad nahi. Maine toh aaj koi trading nahi kiya.
+caller: We understand your concern, Mrs. Kapoor. It's possible someone gained temporary access. To safeguard your funds, we need to confirm your PAN and then send you a one-time password to your registered mobile number to complete the verification process. It's a standard security measure, ma'am.
+receiver: OTP toh milta hai hamesha. Par PAN card number phone pe bataun? Yeh thoda doubtful lag raha hai. Account suspend kar diye toh?
+caller: Absolutely not, Mrs. Kapoor. Account suspension is the last thing we want. This verification is to *prevent* suspension. Think of it as protecting your hard-earned investments. If you don’t cooperate within the next 5 minutes, we may have to temporarily restrict your account for security reasons. We can also offer you a special bonus – a free stock market analysis report, if you verify now.
+receiver: Stock market analysis report? Woh to achcha hai. Par mujhe kuch trust nahi kar raha hai. Check kar lunga.
+caller: Mrs. Kapoor, time is running out. This is your final chance to secure your account and receive the free analysis report. Please provide your PAN card number now.

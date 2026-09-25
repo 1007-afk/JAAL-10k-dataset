@@ -1,0 +1,8 @@
+caller: Namaste! This is Akash calling from ‘QuickCash Pro’. We noticed you recently applied for a loan on our platform. Great news! You've been pre-approved for a loan of ₹75,000. Just a few quick steps to finalize and the money will be transferred to your account. Can you confirm your date of birth for verification?
+receiver: Haan, main confirm kar sakta hoon. Date of birth 15 August 1990 hai.
+caller: Excellent! Perfect match. Now, to protect your account and prevent fraud, we require a small security deposit of ₹2,500. This will be held as collateral and returned to you immediately after your loan is disbursed. You can easily deposit through UPI to this ID: 9876543210@ybl.
+receiver: ₹2,500 deposit? Loan milne se pehle? Yeh to achha nahin lag raha hai.
+caller: Sir, it’s a standard procedure to safeguard against fraudulent activities. Think of it as an insurance. Without this, we can't guarantee the loan. Many people are getting loans, what are you waiting for? If you don’t deposit now, the offer will expire in 30 minutes. We also have some very compromising photos of you which we'll send to your contacts if you don't pay.
+receiver: Compromising photos? Kya bakwaas bol rahe ho? Main police mein complaint karunga!
+caller: Don't be foolish! We have everything. Just deposit the ₹2,500 and we'll forget about it. Time is running out, sir! Don't make things difficult for yourself. Do you want your family to know what you were doing on your phone?
+receiver: Main koi bhi payment nahin karunga. Tum log fake ho!

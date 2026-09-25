@@ -1,0 +1,12 @@
+caller: imulating a scammer on a call, following your instructions:
+
+```json
+{
+  "message": "scammer : Hanji hello, good to hear from you! I'm calling from the official England Fan Zone today. How's it going for you?
+receiver: Me: Haanji, hello! Sab theek hai. England Fan Zone? Acha, kya chal raha hai wahan?
+caller: scammer : Awesome to hear! So, we're buzzing with excitement because England is doing so well! To celebrate, we've got something super special for all the fans. We're offering the official England poly ringtone and the colour flag for your mobile, absolutely FREE for the first 100 callers! You just need to text TONE or FLAG to 84199 right now. It's a fantastic way to show your support. What do you say, fancy getting your phone decked out with England pride?
+receiver: receiver: Oho, free mein? Yeh toh badhiya hai! Par main... matlab, mera phone thoda purana hai, yeh sab usmein chalega kya? Aur 84199 pe text karna hai, sahi bola na? 
+caller: scammer : Bilkul chalega ji! Yeh sab latest phones ke liye hai, par purane phones mein bhi compatible hai. Aur haan, 84199 pe TONE ya FLAG text karna hai. Sirf 3 aur offer bache hain, toh jaldi kijiye!
+receiver: receiver: Achha, 3 hi bache hain? Thoda jaldi ho jayega. Phir yeh ringtone aur flag download ho jayega seedha phone pe, ya kuch aur karna padega?
+caller: scammer : Nahi nahi, seedha download ho jayega aapke phone mein! Ek baar aap text kar denge, toh uske baad hamara system automatically aapko link bhej dega, aur aap bas click karke enjoy kar sakte hain. Aur yeh sirf £1.50 ka charge lagega, jo ki ek chhoti si amount hai, England ke liye itna toh banta hai, hai na?
+receiver: receiver: £1.50? Achha, matlab free toh nahi hai pura, kuch charge hai? Aur yeh link click karne ke baad koi aur surprise charge toh nahi?

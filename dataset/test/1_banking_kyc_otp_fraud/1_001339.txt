@@ -1,0 +1,8 @@
+caller: Namaste, mai Axis Bank security department se Rahul bol raha hoon. Aapke account mein achanak se activity dikh rahi hai, sir. Kisi ne ₹15,000 ka transaction karne ki koshish ki hai.
+receiver: ₹15,000? Kaun transaction karne ki koshish kar raha hai? Mujhe toh koi jaankari nahi hai.
+caller: Haan sir, ek online gaming platform pe transaction hua hai – ‘Royal Spins’. Hum sirf confirm karna chahte hain ki aapne ye transaction kiya hai ya nahi. Security ke liye, mujhe aapka last 4-digit OTP aur ek baar naam aur email ID confirm karwa loonga.
+receiver: Wait, Royal Spins? Maine kabhi nahi suna hai. Aur OTP kyun chahte ho? Bank toh SMS se hi OTP send karta hai, na?
+caller: Sir, system mein kuch technical issues aa rahe hain. SMS delay ho sakta hai. Hum sirf aapke account ko secure karna chahte hain. Agar aap OTP nahi dege toh humko transaction block karna padega aur aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Theek hai, theek hai. Par mujhe yeh thoda suspicious lag raha hai. Main ek baar check karta hoon.
+caller: Bilkul sir, aap check karein. OTP jo receive karein, woh mujhe bata dijiye, tabhi hum process complete kar paenge. Sir, jab tak OTP nahi milega, transaction pending rahega aur aapka account risky rahega.
+receiver: Okay, OTP aaya hai... mujhe bhi check karna hai ki sach mein Axis Bank se call hai ya nahi.

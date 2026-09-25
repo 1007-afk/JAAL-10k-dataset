@@ -1,0 +1,8 @@
+caller: Hello, this is Rohan calling from QuickCash Solutions. We've noticed you recently applied for a loan through our platform, but there's a verification issue. Can you confirm your full name and date of birth for security purposes?
+receiver: Yes, this is Anika Verma, born on 12th August 1992. What verification issue is there? I thought my application was approved.
+caller: Thank you, Anika. The system flagged a potential mismatch with your bank records. To resolve this quickly and release your ₹2 lakh loan, we need to confirm some details. Could you please provide the last four digits of your debit card? It's just a standard security check.
+receiver: My debit card details? That sounds a bit risky. Why can’t you verify it some other way? It's my banking information.
+caller: Anika ji, time is of the essence. The loan offer is valid only for the next hour. This is a simple OTP verification process. Once we confirm, the money will be transferred immediately. We're just trying to protect you from fraud, you see. Please provide those four digits. It's crucial for the release.
+receiver: Okay, fine. It’s 4567. But I’m still not completely comfortable with this.
+caller: Excellent, Anika. We’ve received the OTP. Now, as per our policy, we require a small processing fee of ₹5,000 to activate your account and prevent it from being blocked. Please send it to UPI ID - SecureLoans789@ybl. It's a one-time charge.
+receiver: Five thousand rupees? I didn't agree to any processing fee! The application said it was interest-free. This is suspicious.

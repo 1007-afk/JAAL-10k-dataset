@@ -1,0 +1,8 @@
+caller: Hey! Just saw your profile, you’re absolutely gorgeous! I’m Samir, and I'm a pilot. Just landed in Mumbai for a quick layover. 😊
+receiver: Hi Samir! Thanks! That’s cool, being a pilot must be exciting. Mumbai’s buzzing today! What brings you here besides the layover?
+caller: Well, honestly, I’ve been feeling a bit lonely lately, traveling so much. Seeing your profile made my day. I was hoping maybe we could connect more? I’d love to send you a picture of where I am right now. It's a pretty nice view from the airport lounge.
+receiver: That's sweet of you to say. A picture would be lovely! But first, tell me more about your job. Being a pilot sounds like a lot of responsibility.
+caller: It is, but I love it! Right now, I'm facing a small problem. My wallet got pickpocketed at the airport. Just my credit cards and a bit of cash. I need to quickly arrange for emergency funds to get a replacement card and some local currency. It's just 15,000 rupees, will sort it out immediately! Can you help a stranded pilot out?
+receiver: 15,000 rupees? That’s a lot! And you just met me. Are you sure you're not mistaken about anything? Can't you ask your company for some help?
+caller: Seriously, my company’s policies are really strict about this, and I’m short on time. I’m going to be stuck here otherwise. I know it’s a big ask, but I promise to pay you back as soon as I'm back home. I can even send you a photo of the police report if you want proof.
+receiver: A police report? Okay, send me the

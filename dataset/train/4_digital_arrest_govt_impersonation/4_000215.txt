@@ -1,0 +1,9 @@
+caller: Namaste! Sir, is this Mr. Sharma? This is the Cyber Crime Investigation Unit, Delhi. We’ve detected suspicious activity linked to your bank account - unusually large international transfers.
+receiver: Haan, bolne do. What happened? My account? Is everything alright?
+caller: Sir, it appears your account has been used for facilitating illegal cryptocurrency transactions. We have evidence suggesting your details were compromised. This is a serious matter, potentially linked to money laundering.
+receiver: Money laundering? But I don't do anything like that! This must be a mistake.
+caller: We understand, sir. To clear this up quickly and avoid legal proceedings, we need you to cooperate. We require a small security deposit - 15,000 rupees - to verify your identity and freeze the compromised account. We’ll process it immediately, and you’ll be cleared within 24 hours. We need to do this urgently to prevent further damage. Can you confirm you received this message, sir?
+receiver: Fifteen thousand rupees? That seems like a lot. Can't you just verify my identity some other way? I’m a little worried about sending money.
+caller: Sir, with this being a sensitive matter and the potential for serious legal consequences, we have a strict protocol. Sending this security deposit proves you are the account holder and haven’t been coerced. It's a one-time fee, and we will immediately provide you with a receipt. We will be on video call with you throughout this process to ensure full transparency. You can send it via UPI to the number I'll provide.
+receiver: UPI? Okay, give me the number. But I'm writing down everything, just in case.
+caller: Absolutely, sir. I understand your caution. The UPI ID is 8765432109@ybl. Please confirm receipt and

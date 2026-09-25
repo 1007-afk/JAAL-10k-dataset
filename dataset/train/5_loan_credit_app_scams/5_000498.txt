@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from FastCash India. I understand you might be needing some quick funds? Perhaps for a medical bill, or a family emergency? We offer instant loans, very easy process. What’s your name, please?
+receiver: Hello. Yes, actually, my brother needs an urgent operation. My name is Anjali.
+caller: Anjali ji, very sad to hear about your brother. FastCash India is here to help. We can get you ₹75,000 within the hour. Just a simple interest rate of 15%. You'll repay it easily over 6 months. To proceed, I just need some details for verification. Could you share your Aadhaar card number with me?
+receiver: Aadhaar card? I don’t think that’s necessary for a loan.
+caller: Anjali ji, it's standard procedure. We need to verify your identity to prevent fraud. We’re protecting you as well as ourselves. Without it, we cannot process your loan. Think of your brother, Anjali ji. Time is running out.
+receiver: Okay, fine. It’s … [provides Aadhaar number].
+caller: Thank you, Anjali ji. Now, to unlock the loan, we need a small processing fee of ₹5,000 to be sent to this UPI ID: [provides UPI ID]. Once the payment is confirmed, your loan will be released immediately. This is just a one-time fee, and it’s fully refundable.

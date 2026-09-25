@@ -1,0 +1,9 @@
+caller: Hello sir, is this Rohit Verma? We are calling from LoanEasy, a government-approved instant loan provider. You recently applied for a personal loan online, correct?
+receiver: Haan, ji. Main Rohit Verma hi hoon. Loan apply kiya tha, lekin mujhe koi confirmation nahi mila.
+caller: Excellent! Your application is pre-approved for up to ₹75,000. To finalize the loan, we need to verify your identity. Could you please share the last four digits of your Aadhar card?
+receiver: Aadhar card ke last four digits? Yeh theek hai kya? Security ke point of view se?
+caller: Absolutely secure, sir. It’s standard procedure. Just the last four digits, please. Once verified, the ₹75,000 will be credited to your account within 15 minutes.
+receiver: Okay, fine. The last four digits are 4582.
+caller: Thank you, sir. Verification successful! Now, for final confirmation, we require a small processing fee of ₹2500 upfront. This will be automatically deducted and reflected in your loan amount later. You can pay through UPI – details are [invented UPI ID].
+receiver: ₹2500? Loan amount ₹75,000 hai aur processing fee ₹2500?
+caller: Yes, sir. This is a one-time fee. Without it, we cannot release the loan. Think of it as an insurance policy against fraud. A lot of people are trying to scam these days, you understand?

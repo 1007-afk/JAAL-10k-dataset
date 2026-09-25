@@ -1,0 +1,7 @@
+caller: Namaste! Speaking with Mr. Verma, right? This is Akash from ‘QuickCash Solutions’. We’ve pre-approved you for a business loan of ₹75,000 – fantastic news! Just need to confirm a few details.
+receiver: Haan, main Verma hi hoon. Business loan? Mujhe toh koi application nahi kiya tha.
+caller: No worries, sir! We do targeted offers based on credit profiles. This is a limited-time offer, especially for small business owners like yourself. To activate the loan, we require a one-time verification fee of just ₹2,500, which secures your approval. It goes directly towards processing costs, understand?
+receiver: ₹2,500? Verification fee? Loan milne se pehle paise dene padenge? Yeh thoda funny lag raha hai.
+caller: Sir, I understand your concern, but this is standard procedure. Think of it as an insurance deposit to guarantee your loan. Without it, we can't proceed. We’re really trying to help small businesses get back on their feet! Otherwise, I’ll have to cancel the approval, and you’ll miss out.
+receiver: Okay, sir. ₹2,500 main Paytm kar doon? Account number de dijiye.
+caller: Absolutely sir, you’re doing the right thing! My team member will send you the details shortly. Just confirm you understand that this ₹2,500 is non-refundable. This will activate your loan very quickly.

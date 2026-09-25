@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay Sharma hai, Axis Bank se. Aapko ek urgent notification mil raha hai.
+receiver: Haan, bolo. Axis Bank se baat kar rahe hain? Kya hua?
+caller: Ji, Deepak Ji. Aapke Axis Bank account mein se kuch transactions suspicious lag rahe hain. Security ke liye, humein aapke account ko verify karna hoga.
+receiver: Verify karna hai? Kaise verify karenge? Mujhe toh koi message nahi aaya tha.
+caller: Verify karne ke liye, aapko apna registered mobile number pe ek OTP dena hoga. Just ek OTP, bas. Phir sab theek ho jayega. Account suspend hone se bachane ke liye yeh zaroori hai.
+receiver: OTP? Main OTP share nahi kar sakta. Yeh risky lag raha hai.
+caller: Deepak Ji, please! Time bahut kam hai. Account suspend ho sakta hai. OTP ek baar dalne se sab theek ho jayega, trust me. Quick OTP send kijiye, please!
+receiver: Nahin, main OTP nahi dunga. Main Axis Bank ke customer care number pe khud call karta hoon.
+caller: Deepak Ji, don’t do this! You’ll regret it. Account blocked!

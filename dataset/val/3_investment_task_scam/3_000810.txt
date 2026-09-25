@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? This is Rohan from Stellar Investments calling. We've identified you as having significant potential for high-yield cryptocurrency trading.
+receiver: Haan, main hoon. Stellar Investments? Yeh kaunsa company hai? Aur crypto trading mein interest kaise dikha aapko?
+caller: We use a proprietary AI to analyze market trends and identify promising investors, Mrs. Verma. Right now, we have a limited-time opportunity with a new coin, 'NovaCoin', predicted to surge 500% in the next week. We're offering a guaranteed 20% return on your initial investment. You just need to deposit a small amount to get started.
+receiver: 500%? Guaranteed?  Yeh bahut zyada lag raha hai.  Koi risk nahi hai? Aur mujhe kitna deposit karna hoga?
+caller: Minimal risk, Mrs. Verma! We handle everything. For this opportunity, a deposit of just ₹5,000 will suffice to start.  We’ll handle the trading and send you the profits directly to your UPI.  This offer is only valid for the next hour!  Don't miss out!
+receiver: ₹5,000?  Aur mujhe yeh NovaCoin kaha se buy karna hai?  Kya aapko koi wallet address hai?  Aur mujhe yeh bhi batao, yeh investment safe hai ya nahin.
+caller: Yes, Mrs. Verma, our secure wallet address is 9876543210@xyzpay. Please send ₹5,000 to this address. Once it reflects, we will begin trading immediately. Don't delay – time is running out!
+receiver: Wait, xyzpay? Main kabhi sunne ko nahin kiya is naam ko. Aur mera UPI ID bhi check kar leta hoon… yeh thoda suspicious lag raha hai.

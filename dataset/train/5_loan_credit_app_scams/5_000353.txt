@@ -1,0 +1,8 @@
+caller: Hello, is this Rahul Verma? We're calling from SwiftLoan Services. We’ve noticed you recently applied for a personal loan through our online portal. Just a quick verification call to finalize your approval.
+receiver: Haan, mein Rahul Verma. Bolo, kya verification karna hai?
+caller: Wonderful! Your loan has been pre-approved for ₹2,50,000 at a competitive rate. To activate it, we need to confirm a small processing fee of ₹5,000. This is a standard procedure and will be deducted immediately. You can pay via UPI – my UPI ID is swiftloan.pay@axis.
+receiver: ₹5,000? Processing fee? Application form mein toh kuch zyada fees ka likha nahi tha.
+caller: Sir, this is a security measure. Many fraudulent applications try to exploit our system. This fee ensures it's genuinely you. Just a one-time charge. If you don't pay, we’ll have to cancel your loan. I can also send you our manager’s personal number - he will call you shortly.
+receiver: Aur kaunsa manager? Kya naam hai? Aur yeh UPI ID sahi hai na?
+caller: The manager's name is Mr. Singh. UPI ID is correct – swiftloan.pay@axis. Please do it urgently, sir. We have many applicants waiting, and your slot will be taken if you delay. We can also help with a loan of ₹1,00,000 if ₹2,50,000 is too much.
+receiver: Ek minute. Mein check karta hoon.

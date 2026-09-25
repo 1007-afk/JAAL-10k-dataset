@@ -1,0 +1,7 @@
+caller: Hello! Ji haan, speaking. Are you interested in getting a quick personal loan? Up to ₹2 Lakhs, easily approved. No credit checks needed. Just a few basic details. What’s your name?
+receiver: Ji haan, bilkul. Mera naam Anjali hai. Loan ke baare mein jankari chahiye thi.
+caller: Wonderful, Anjali ji! Very nice. So, you need the loan for what purpose? Anything urgent? We can get you approved very quickly. Also, tell me your current city, please.
+receiver: Haanji, actually mujhe apne papa ke ilaaj ke liye paise chahiye. Unka operation schedule hai. Main Delhi mein rehti hoon.
+caller: Very serious matter, Anjali ji. We will definitely help you. ₹2 Lakhs for your father's operation is absolutely possible. First, we need to verify your employment status. Are you currently working, and roughly what is your monthly salary?
+receiver: Ji haan, main ek private company mein accountant hoon. Monthly salary around ₹45,000.
+caller: Excellent, Anjali ji! Very good income. This confirms your eligibility. Now, to finalize the loan, we need a small processing fee of ₹7,500. You can pay this through UPI - the details will be sent to you. This ensures your loan is processed immediately.

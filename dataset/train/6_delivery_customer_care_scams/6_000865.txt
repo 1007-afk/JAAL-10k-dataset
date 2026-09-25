@@ -1,0 +1,6 @@
+caller: Namaste! This is Akash from SwiftShip Logistics. We've noticed a discrepancy with your recent order from Myntra, order number MN12345. There’s a payment authorization issue.
+receiver: Oh, really? I thought everything went through fine. What kind of issue?
+caller: Yes, ma'am. It appears there was a temporary hold on your account. To release the package and ensure delivery, we need to verify a small security fee of ₹250. It’s just a standard procedure.
+receiver: ₹250? That's unusual. I've never had to pay a fee to *receive* a delivery. Can I speak to someone in customer service?
+caller: Absolutely, ma'am. But our customer service lines are currently experiencing high call volumes. For your convenience, you can quickly resolve this by sending the money via UPI to the number 8877445566. Once the payment is confirmed, your delivery will be prioritized.
+receiver: Wait a minute. UPI? Shouldn’t I be getting a call from Myntra directly about this? This sounds a bit suspicious. Can you give me a reference number for this supposed authorization issue?

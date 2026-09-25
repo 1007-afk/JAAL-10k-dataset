@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, BharatPay se. Aapko ek achha cashback offer mil raha hai, sirf BharatPay app par.
+receiver: BharatPay? Cashback offer? Kitna cashback hai?
+caller: Haan ji! Aap Rs. 2000 ka bill pay karein, aur aapko Rs. 500 cashback milega, instant! Parantu, is offer ko activate karne ke liye, aapko ek small processing fee bharvan hoga, sirf Rs. 20.
+receiver: Rs. 20 processing fee? Bill pay karne par cashback, aur processing fee bhi? Yeh thoda strange hai.
+caller: Haan ji, security ke liye. Yeh system fraud se bachaata hai. Process karne ke liye aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Kis number pe? Main toh kisi bhi number pe OTP nahi dene wala. Yeh fraud lag raha hai.
+caller: Arre bhai, fraud kaise ho sakta hai? BharatPay ka offer hai! OTP sirf verify karne ke liye hai, trust karo. Abhi jaldi karo, offer khatam hone wala hai! Rs. 20 bharvan, Rs. 500 cashback!

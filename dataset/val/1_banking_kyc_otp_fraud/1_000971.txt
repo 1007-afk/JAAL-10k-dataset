@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank cyber security cell se Rahul bol raha hoon. Aapke account mein logon ki taraf se attempted unauthorized access ka ek attempt hua hai. Verification ke liye call kiya hai.
+receiver: Axis Bank se? Mujhe toh koi SMS nahi aaya. Unauthorized access? Kya hua?
+caller: Ji, sir. System ne detect kiya hai. Security ke liye, aapka PAN card number aur OTP bataiye jo aapke registered mobile number par aa raha hai. Tabhi account secure ho payega.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai. Aap mujhe confirm kar sakte hain ki aap sach mein Axis Bank se hi hain? Koi employee ID number ya reference number bataiye.
+caller: Sir, employee ID number confidential hai. Main aapko ek OTP bhej raha hoon. Woh ek baar bata dijiye, aur aapka account secure ho jayega. Sir, abhi 2 attempts baki hain, otherwise aapka account temporary block ho sakta hai.
+receiver: 2 attempts? Account block ho jayega? Sir, mujhe yeh thoda shak ho raha hai. Main Axis Bank ke customer care number se khud call karta hoon aur check karta hoon. Aap mere naam aur account number bataiye, main confirm karta hoon.
+caller: Sir, please don’t take risk. Woh process time consuming hai. Abhi hi account secure kar lijiye. Abhi sirf ek attempt bacha hai, sir. Aapka loss bhi ho sakta hai.

@@ -1,0 +1,8 @@
+caller: Namaste, this is Inspector Sharma calling from the Directorate of Revenue Intelligence. We have intercepted a suspicious parcel linked to your name, containing what appears to be illegal currency.
+receiver: Illegal currency? Yeh kya keh rahe hain aap? Main toh kabhi parcel nahi bheja.
+caller: Ma’am, our records indicate a parcel was shipped from Dubai with your address. To avoid serious legal consequences, you need to pay a fine of ₹50,000 to clear the matter. We need proof of payment urgently.
+receiver: ₹50,000? Aur yeh parcel kaha mila? Main toh Dubai kabhi nahi gayi.  Aur kya proof chahiye?
+caller: The parcel was intercepted at the Delhi airport. We can arrange a video call with a customs official for verification, but first, you must make the payment through UPI to the following ID: 8795100000.  This is to ensure a swift resolution.
+receiver:  UPI?  Yeh bahut suspicious lag raha hai. Government department kabhi UPI se paise nahi leti.  Aur video call bhi kaise? Main phone se yeh kaise karungi?  Mujhe bilkul shak aa raha hai.
+caller: Ma’am, time is of the essence. We are under immense pressure to resolve this matter quickly. The video call is just for confirmation, but the payment needs to be made immediately.  Think of the alternative – lengthy court proceedings and a criminal record. UPI is the fastest and most secure method. Please confirm the payment now.
+receiver: I am going to report this to the cybercrime cell. This is clearly a scam.

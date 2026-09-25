@@ -1,0 +1,7 @@
+caller: Hello, sir? This is from the Directorate of Revenue Intelligence, DRI. We’ve detected some suspicious activity linked to your bank account and an international parcel.
+receiver: DRI? What kind of activity? I haven't received any parcel.
+caller: Sir, the parcel contains suspected narcotics, and the funds linked to your account are flagged for money laundering. We need to verify your details and settle this matter quickly to avoid legal action. We need ₹7,500 for processing and investigation fees.
+receiver: Narcotics? Money laundering? This has to be a mistake! I’ve never been involved in anything like this. Can you give me a case number or the name of the investigating officer?
+caller: Sir, this is a sensitive matter. Providing details over the phone could compromise the investigation. We’ve set up a video call to verify your identity and discuss the procedures. Please transfer ₹7,500 to this UPI ID: dri-verification. We’ll keep the video call running so you don't inform anyone.
+receiver: A video call? Wait a minute... This sounds really fishy. I’m not paying anything until I verify this with the actual DRI office. I’ll call them myself.
+caller: Sir, delaying this will only complicate matters further. We have evidence linking you. This is your last chance to resolve this before we issue a warrant. Please, just transfer the money quickly and the video call will continue – it’s vital for your protection.

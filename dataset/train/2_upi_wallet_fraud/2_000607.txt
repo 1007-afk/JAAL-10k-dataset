@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from FreeCharge customer care. We're excited to inform you that you've won a cashback prize of ₹15,000 in our Diwali lucky draw!
+receiver: Really? Mein toh FreeCharge use karta hoon, but kabhi lucky draw mein participate nahi kiya.
+caller: That's alright, sir! It was a random draw across all our users. To claim your ₹15,000 cashback, we just need to verify your account. It's a simple process.
+receiver: Verify? Kya verify karna hai? Meri details toh safe honi chahiye na?
+caller: Absolutely, sir! For security purposes, we need you to send a small processing fee of just ₹500 to our FreeCharge collect request. Once we receive that, your ₹15,000 cashback will be credited instantly.
+receiver: ₹500? Collect request? FreeCharge mein toh aisa kuch nahi hota. Ye scam lag raha hai.
+caller: Sir, please don’t worry. It’s a one-time fee to activate your prize. Many winners have already done this. Just send ₹500 to the UPI ID: FreeChargeCashback123. It’s a very small price to pay for ₹15,000, no?

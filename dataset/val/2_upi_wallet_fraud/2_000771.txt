@@ -1,0 +1,6 @@
+caller: Namaste sir, mai PhonePe se Rahul bol raha hoon. Aapke account mein ek atyant adhik amount ka transaction attempt kiya gaya hai. Security ke vajah se, hum aapko verify karna chahte hain.
+receiver: Kya? Kitna amount tha? Aur kaise verify karoge? Mai PhonePe support number pe call kar ke bhi check kar sakta hoon.
+caller: Sir, amount confidential hai, safety reasons se. Aur hum direct aapke account se linked verification kar rahe hain. Aap mujhe apna PhonePe App PIN bataiye, sirf ek baar, verification ke liye. 2 minute mein sab sorted ho jayega.
+receiver: App PIN! Nahin, mai kabhi bhi apna PIN phone pe kisi ko nahin bataunga. Woh toh hacking ka risk hai! Koi aur tarika hai?
+caller: Sir, understand karo, hum apki safety ke liye hi call kar rahe hain. Agar aap PIN nahin batayenge toh transaction fail ho jayega aur aapka account suspend bhi ho sakta hai. Hum aapko ₹500 ka instant cashback offer kar rahe hain verification ke baad.
+receiver: ₹500 cashback? Theek hai, lekin ek baat batao – aap mujhe yeh kaise confirm karwa sakte ho ki tum PhonePe wale ho, aur mai kisi fake number pe baat nahi kar raha hoon?

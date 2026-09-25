@@ -1,0 +1,7 @@
+caller: Namaste! Mai Akash Verma, QuickShip Logistics se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke kuch issues hain.
+receiver: Haan, hello. Woh kya issues hain? Mujhe toh koi notification nahi aaya.
+caller: Sir, system mein dikh raha hai ki aapka OTP verification incomplete hai. Isliye parcel deliver karne se pehle hamein confirm karna hai. Aapka OTP share karein please?
+receiver: OTP? Par woh kyun chahiye? Parcel deliver karne ke liye OTP ki zarurat nahi hoti na?
+caller: Sir, security protocol hai. Fraud se bachne ke liye OTP verify karna mandatory hai. Woh sirf ek minute lagega, phir parcel dispatch ho jayega. Aapka OTP please?
+receiver: Hmm… Thoda doubt ho raha hai. Mai police station mein report kar sakta hoon agar kuch ghalat hua toh.
+caller: Sir, please don’t worry! Hamein sirf verification karna hai. Apni security ke liye hi OTP share karein. Jaldi share karein, warna parcel return bhi ho sakta hai.

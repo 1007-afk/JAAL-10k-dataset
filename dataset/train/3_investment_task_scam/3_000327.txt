@@ -1,0 +1,8 @@
+caller: Namaste, hai Mr. Patel? Ji, main ‘Secure Solutions’ se baat kar raha hoon. Aapne online certificate ke liye payment kiya tha, aur abhi tak wo aapke account mein transfer nahin hua hai. Aapko securecerts.online par jaakar verification karna hai. Usko receive karne ke liye aapke paas sirf 3 minute ka time hai. Please haste karo.
+receiver: Haan, namaste. Main Mr. Patel hoon. Certificate ke liye payment kiya tha? Haan, mujhe yaad hai. Securecerts.online par jaaunga abhi. Thank you for reminding me, otherwise I wouldn’t have remembered. 3 minute hai na? Dekhta hoon.
+caller: Exactly, Mr. Patel. 3 minute ka time hai, so don’t delay. Securecerts.online pe login karein aur verification process complete karein. Apka certificate aapke liye exclusive hai.
+receiver: Ja raha hoon, verification kar raha hoon. Thank you, genuinely appreciated. Kya certificate mein koi special features hain?
+caller: Ji Mr. Patel, woh aapke professional development ke liye designed hai. Aapko relevant skills aur knowledge milega jo aapko career ke liye helpful honge. Time bahut short hai, toh pehle verify karein, phir aap detaail dekh sakte hain. Hurry up, timer is running!
+receiver: Done, verified! Phew, that was quick. Thank you very much! Certificate ka validity period kya hai?
+caller: Excellent! Sir, certificate ka validity 2 year ke liye hai. Bas aap download karein aur enjoy karein. Abhi verify kar lein, waise! Agar koi doubt ho toh puchna hindi mein.
+receiver: Theek hai, thanks for informing me. Koi aur problem to nahi hogi?

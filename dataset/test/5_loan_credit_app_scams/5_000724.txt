@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Rajesh Verma, registered to mobile number ending in 789? I'm calling from 'QuickCash Solutions'. We’ve pre-approved you for a personal loan of ₹75,000! Just a few quick details to confirm, and the money will be in your account within an hour.
+receiver: Haan, main Rajesh Verma hoon. QuickCash Solutions? Loan mil sakta hai kya? Kitna interest lagega?
+caller: Fantastic! The interest rate is just 8.5% for a limited time. To activate the loan, we need a small processing fee of ₹2,500 to verify your account. It’s a one-time charge, fully refundable. You can deposit it to this UPI ID: quickcash.verify@axisbank.
+receiver: ₹2,500? Processing fee? Mujhe toh koi processing fee ke bare mein nahi bataya gaya tha.
+caller: Sir, this is standard procedure. Without verification, we cannot guarantee the loan. Think of it as a security deposit. We have many customers who benefited from this. If you don't pay, we'll have to cancel the loan and your application. Also, if you delay, we will send a legal notice to your contacts.
+receiver: Legal notice? Contacts ko kyun disturb karoge? ₹75,000 ka loan hai, ₹2,500 fee lene ki kya zarurat hai? Yeh to kuch gum hai.
+caller: Sir, we are under strict instructions to collect this fee. Don’t make us take drastic measures. Pay now and get your loan instantly. Otherwise, we'll escalate this to our recovery department, and they won't be as lenient. We can also send your personal photos to your family and friends if you don't cooperate.

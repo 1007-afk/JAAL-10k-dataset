@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank KYC department se Rahul bol raha hoon. Aapke account mein suspend hone ka risk hai, kyunki aapka KYC verification pending hai. Kripya apna Aadhaar card number bataiye taaki hum verification kar sakein.
+receiver: Arey yaar, Axis Bank se? KYC verification? Maine toh kabhi aisa notification nahi mila. Account suspend hone ka risk?
+caller: Ji haan sir, security reasons ke vajah se humein yeh karna padta hai. Kuch fraudulent activity ka attempt hua hai, isliye aapka account suspend hoga agar aap verification nahi karte. Jaldi karo, sir, time bahut kam hai.
+receiver:  Dekhiye, mujhe kuch shak ho raha hai.  Koi bhi bank phone pe Aadhaar number nahi manta.  Mera number check karo, pata karo main Axis ka customer hoon ya nahi.
+caller: Sir, humein aapka confidence chahiye.  Aapko pata hai ki OTP aur Aadhaar number sabse sensitive information hai. Hum aapki security ke liye call kar rahe hain, trust us.  Humko OTP nahi chahiye, sirf Aadhaar number.  Pata karo aapko account save karna hai ya nahi.
+receiver:  Bas ek minute, main apne Axis bank ke app mein check karta hoon.  Mai call kar ke verify karta hoon agar kuch bhi serious hai.

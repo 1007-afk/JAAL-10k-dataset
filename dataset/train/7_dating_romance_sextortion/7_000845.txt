@@ -1,0 +1,7 @@
+caller: Namaste! My name is Rohan, and I’m a photographer from Mumbai. I saw your profile on ‘ConnectHearts’ and I was instantly drawn to your smile. You look like a very kind and interesting person. Would you like to chat a little?
+receiver: Hi Rohan! That’s sweet to hear. Mumbai is lovely. What kind of photography do you do?
+caller: Mostly travel photography, and sometimes portraits. I'm planning a trip to Goa next month for a shoot, but it's proving quite expensive with the visa and equipment. I'm trying to save up. I really enjoy talking to you though.  It's nice to meet someone genuine.
+receiver: Goa sounds amazing! I’ve always wanted to go. Visa and equipment costs add up fast. What kind of equipment are you using?
+caller: It's mostly Canon gear. A 5D Mark IV and a few lenses. It’s a lot of money, but it allows me to capture the beauty of India. Listen, I'm a bit embarrassed to ask, but could you possibly help me out with a small amount towards the visa? Just ₹5000 would make a huge difference.  It would mean a lot to me.
+receiver: ₹5000? That's a bit much to ask someone we just met, isn't it? It sounds a little suspicious. Is there any other way you could manage the costs?
+caller: I understand your hesitation, I promise I'm not trying to scam you. I’m just in a tough spot right now. I’ll send you a few of my best photos to prove I’m a real photographer. Please, just a little help.

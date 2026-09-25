@@ -1,0 +1,7 @@
+caller: Namaste! Speaking with Ms. Priya Verma, right? This is Raj from ‘QuickCash Solutions.’ We've noticed you recently applied for a personal loan on our platform. Great news - you’ve been pre-approved for a loan of ₹2,50,000!
+receiver: Haan, main Priya Verma hoon. QuickCash Solutions? Loan apply kiya tha, haan. Pre-approved? Batao, kya process hai?
+caller: Wonderful! Just to activate your loan, we need to verify a small security deposit – ₹5,000 – to protect against fraudulent applications. This is a standard procedure, Ms. Verma. Please transfer it to the account number I'll provide. Once verified, your loan will be credited immediately.
+receiver: ₹5,000 deposit? Loan activate karne ke liye? Yeh toh apply karne se pehle nahi bataya gaya tha. Aur account number dedo toh, check karunga.
+caller: Absolutely! It's 3456789012, IFSC code is QCSB0001. Please do it quickly, Ms. Verma. We have a lot of applicants waiting, and this offer is for a limited time only.  Once you confirm the transfer, your loan will be processed within 15 minutes. We’ll also send you a link to digitally sign the loan agreement.
+receiver: Wait, wait! ₹5,000 deposit aur digital signature?  QuickCash Solutions ki website pe toh aise kuch nahi likha tha.  Kya guarantee hai ki yeh scam nahi hai?  Ek minute ruk jaao, main check karti hoon.
+caller:  Ms. Verma, please don't delay! This is a time-sensitive offer. The longer you wait, the higher the risk of someone else claiming your loan.  Just a quick ₹5,000 and

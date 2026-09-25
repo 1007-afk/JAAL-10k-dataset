@@ -1,0 +1,18 @@
+caller: Hello, is this Mr. Verma speaking? My name is Sanjay from Axis Bank security.
+receiver: Yes, speaking. What’s this about?
+caller: Sir, we’ve detected unusual activity on your Axis Bank account. Several login attempts from an unknown IP address.
+receiver: Really? That’s concerning. What kind of activity?
+caller: It appears someone may be trying to access your account remotely. We’re taking this very seriously to prevent any fraudulent transactions. To secure your funds, we need to quickly verify your identity.
+receiver: Okay, what do I need to do?
+caller: First, can you please confirm the last four digits of your PAN card? Just for verification purposes.
+receiver: Shouldn’t you already have that? I’m a long-time customer.
+caller: Yes, sir, but security protocols require us to re-authenticate. After that, we’ll need a one-time password sent to your registered mobile number to complete the verification.
+receiver: A OTP? Fine, send it.
+caller: Certainly. Please check your phone. What is the OTP you received?
+receiver: I got a message. It's 876543.
+caller: Thank you, sir. Just one more thing. To block the suspicious login, we need you to provide the first three digits of your debit card number for a temporary hold. This is just to ensure it's truly you.
+receiver: Hold on. This sounds a bit weird. Why do you need my debit card details?
+caller: Sir, it’s a standard procedure for high-risk accounts. It's all for your protection. Otherwise, your account could be compromised permanently. We have to act quickly.
+receiver: I think I should call the bank directly from the number on my card. I don’t feel comfortable giving out this information over the phone.
+caller: Sir, please don't delay! This is a serious matter. Time is running out. Account suspension is a possibility if we don't resolve this immediately.
+receiver: I'm ending the call. Goodbye.

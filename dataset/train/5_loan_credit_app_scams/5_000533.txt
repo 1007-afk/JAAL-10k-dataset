@@ -1,0 +1,6 @@
+caller: Hello, is this Rahul Verma? We're calling from FastCashPro, a government-approved loan service. We’ve noticed you meet our eligibility criteria for a quick personal loan! Just a few simple questions to start.
+receiver: Oh really? A loan? I wasn’t really looking for one, but I’m a bit short on cash right now. What's the catch?
+caller: No catch at all, sir! It’s a fantastic opportunity. We offer loans up to ₹75,000 with minimal paperwork. To proceed, we just need to verify your details. First, can you confirm your date of birth?
+receiver: My date of birth is 15th August, 1988. But why do you need my date of birth before anything else? It seems a bit odd.
+caller: Excellent, sir. Just standard verification. Now, for the final step, we require a small processing fee of ₹750 to unlock your loan. This goes directly to our payment gateway and ensures the security of your transaction. Please send it to UPI ID: securecash@hdfcbank.
+receiver: ₹750 upfront? That doesn’t sound right. I've never heard of a processing fee like that before getting the loan. I think I'll pass. This feels like a scam.

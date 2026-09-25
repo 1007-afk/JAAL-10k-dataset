@@ -1,0 +1,8 @@
+caller: Namaste! Caller speaking. You received an alert about your 2018 loyalty rewards account? There’s a significant amount – 1234 bonus credits – that’s nearing expiration. We just want to quickly verify a few details so you can cash them out. Can I have your full name, please?
+receiver: Ji, namaste. Mera naam Priya hai. Haan, maine alert dekha tha. Bonus credits hain, thik hai. Kya karne ki zarurat hai?
+caller: Excellent, Priya! Glad to hear it. Now, to unlock those 1234 credits, we need to double-check some information. First, could you tell me the postal code associated with your 18 account? Just the area code will suffice.
+receiver: Ji, mera postal code hai 411001. Koi aur cheez puch rahe hain?
+caller: Wonderful, 411001. And to ensure everything is secure, could you provide the email address registered on your account, Priya? It's a standard procedure.
+receiver: Email? Hmm, mujhe yaad nahi aa raha, lekin woh ‘priya.gupta456@gmail.com’ shayad hogi. Batao agar koi aur question hai.
+caller: Priya.gupta456@gmail.com, that sounds right. Finally, for final confirmation, could you share the last three digits of your phone number linked to this account? This helps us prevent unauthorized access.
+receiver: Haan ji, woh last three digits hain 987. Confirm ho gaya? Mein credit redeem kar sakti hoon ab?

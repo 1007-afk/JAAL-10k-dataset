@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is Inspector Raj from the Delhi Customs Department. We need to speak with you urgently regarding a parcel registered under your name. Parcel number is DEL-78923. Please call us back immediately on 9876543210.
+receiver: Ji, haan. Mein Sharma bolta hoon. Parcel? Mujhe koi parcel yaad nahi.
+caller: Sir, this is a very serious matter. Preliminary investigations indicate your parcel contains items flagged as potentially illegal - specifically, undeclared foreign currency and possibly counterfeit goods. To clear the parcel and avoid further legal complications, you need to pay a small processing fee. Please call 9876543210 to arrange payment.
+receiver: Illegal currency? Counterfeit goods? Lekin main toh kuch bhi order nahi kiya tha! Yeh toh galat ho gaya hoga.
+caller: Sir, we understand this may be confusing. However, it's standard procedure to verify the contents and clear the parcel. The fee is ₹15,000 to cover inspection and clearing charges. Please transfer it to the account number provided. Call 9876543210 after the transaction is complete.
+receiver: ₹15,000? Itna zyada? Aur account number? Mein police station mein jaunga agar yeh fraud hai!
+caller: Sir, please don't be alarmed. We are just following protocol.  Ignoring this will result in seizure of the parcel and potential legal action against you. Call 9876543210, and we can expedite the process. We need confirmation of payment quickly.

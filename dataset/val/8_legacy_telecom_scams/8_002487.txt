@@ -1,0 +1,20 @@
+caller: Namaste, thank you for contacting GreenTech Solutions! I see you’ve been using your solar panel system for approximately eight months now.
+receiver: Haan, betul 8 mahine. Kaha rahi thi system?
+caller: Wonderful! Because of your loyalty, we want to offer you a complimentary battery replacement – absolutely free! It’s part of our ‘Solar Rewards’ program for valued customers like yourself. Plus, you'll receive a discount voucher for 15% off your next service appointment.
+receiver: Battery replacement free? Isse electricity ka bill kam hoga? Aur service appointment mein kitna savings hoga? Please batayein.
+caller: Definitely! Replacing the battery will significantly reduce your monthly electricity bills. And the discount voucher is valid for six months, covering any service needs you might have. Just reply with ‘Confirm’ to 45678 to schedule your replacement, or 'No Thanks' if you don’t wish to proceed.
+receiver: Confirm… Mai confirm reply dungi. Battery badalne se kitni barasati hogi?  Aur yeh voucher kitne value ka hai?
+caller: You'll notice a considerable drop in your energy consumption, typically around 10-15%. As for the voucher, it's worth ₹2,000 and can be used towards any of our services. Don’t delay, slots are filling up quickly! So, please confirm now.
+receiver: Okay, I confirm.  I hope this helps my bill. Thank you.
+caller: Excellent! We appreciate your continued trust in GreenTech Solutions. We've just got two more batteries available in this particular model, so act fast! Once you confirm, we’ll send you a detailed invoice and scheduling information. Get ready to enjoy even greater savings!
+receiver: Thank you! I'll confirm immediately. I am looking forward to saving money.
+caller: Namaste, thank you for calling SecureHome Security! I see you’ve been utilizing your security system for about nine months now.
+receiver: Haan, karib 9 mahine. System sahi chal rahi thi. Kya update hai?
+caller: Fantastic! As a valued customer, we’d like to provide you with a free smart doorbell upgrade – completely complimentary! This feature adds enhanced video surveillance and remote access control. Also, you'll get a 20% discount on your next month's monitoring fee.
+receiver: Smart doorbell free? Woh kis type ka hoga? Aur monitoring fee mein kitna discount milega? Please bataiye.
+caller: It's a top-of-the-line model with crystal-clear HD video, motion detection, and two-way audio communication. Your monitoring fee discount will amount to ₹1,500 per month for three months. Just reply with ‘Upgrade’ to 98765 to activate the upgrade, or ‘Decline’ if you aren't interested.
+receiver: Upgrade... Mai upgrade reply dungi. Woh video quality kitna acha hoga? Aur ₹1,500 ka discount kitni mahine tak rahega?
+caller: The video resolution is 1080p, providing exceptional clarity, even at night. The ₹1,500 discount will be applied automatically to your monthly bill for three consecutive months. Hurry, we only have five remaining doorbells in this promotion! So, let’s proceed with the upgrade.
+receiver: Arre, 5 hi bache hain? Theek hai, mai Upgrade reply kar deti hoon.  Thank you.
+caller: Wonderful! You’ve made a great choice. Once you reply ‘Upgrade,’ we’ll send you a confirmation email with installation instructions and a link to customize your settings. Enjoy peace of mind knowing your home is even safer!
+receiver: Thank you! I’m eager to test out the new features. I'll reply Upgrade right away.

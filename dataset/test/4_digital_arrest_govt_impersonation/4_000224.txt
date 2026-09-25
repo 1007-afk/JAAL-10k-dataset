@@ -1,0 +1,7 @@
+caller: Namaste, this is Inspector Verma from the Delhi Customs Department. We need to speak with you urgently regarding a package intercepted at Indira Gandhi International Airport.
+receiver: Customs? Kya baat hai, Inspector? Package? Mere naam pe koi package toh nahi aaya tha.
+caller: Yes, sir, a package arrived under your name – Rohan Sharma. It contains items flagged as potentially related to illegal cryptocurrency mining equipment. We have strong reasons to believe it’s linked to money laundering activities.
+receiver: Illegal cryptocurrency? Yeh toh galat hai! Main toh kabhi cryptocurrency mein interest bhi nahi leta. Mere naam se koi package nahi hai.
+caller: Sir, our records are quite clear. To clear this up and avoid further legal complications – a case has been opened – we need you to cooperate. A small settlement fee of ₹25,000 can resolve this issue quickly. We can arrange a video call with a senior officer.
+receiver: ₹25,000? Aur video call? Yeh sab kuch fraud lag raha hai! Main kisi bhi tarah ka paisa nahi de raha. Main police station jaunga aur report karunga.
+caller: Sir, please don’t be hasty. We understand your concern, but time is critical. Refusal will result in immediate arrest. It’s best to settle this amicably. The video call is crucial for verification and swift resolution. We need to confirm your identity, and that’s easiest over video. Are you willing to proceed with the video call and arrange the payment?

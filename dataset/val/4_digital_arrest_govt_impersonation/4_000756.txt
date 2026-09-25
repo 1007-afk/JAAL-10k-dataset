@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Priya Sharma? I am calling from the Directorate of Revenue Intelligence, DRI. We have intercepted a parcel at the Delhi airport registered under your name.
+receiver: What? A parcel? I haven’t ordered anything recently. What’s this about?
+caller: Yes, ma’am. The parcel contains suspicious items, potentially linked to illegal import of high-value electronics. We need to verify your involvement to avoid further legal complications. There's a small fee of ₹7,500 to cover the inspection and clearance process.
+receiver: Seven thousand five hundred? For inspecting a parcel? This sounds very strange. Can you give me a reference number or an officer’s name I can call back to verify this?
+caller: Ma’am, this is a sensitive matter. Public disclosure of details is not permitted. To expedite the process and ensure your compliance, please transfer the amount to the provided UPI ID: [fake UPI ID]. Once the payment is confirmed, we’ll proceed with the verification.
+receiver: Hold on a minute. This UPI ID doesn’t look right. And why can’t you give me a verification number? I’m going to report this to the cybercrime cell. I’m ending this call.
+caller: Ma'am, please don’t do that! This is a serious issue. If you don’t cooperate, we’ll have to issue a warrant. This is your final opportunity to resolve this matter quickly.

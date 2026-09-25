@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Sharma? I’ve got some fantastic news for you regarding your investment portfolio. Are you eager to see some serious returns this month? We can help you unlock hidden profits, absolutely guaranteed!
+receiver: No, this isn’t Mr. Sharma. This is Priya Patel.
+caller: Really? Just confirming, then. Your name is Sharma, right? Look, I know you're looking for a way to boost your income quickly, especially with these market fluctuations. Let’s explore some lucrative opportunities – high-yield bonds and offshore accounts. Text ‘INVEST’ to 78909 immediately! Don’t delay, this offer expires soon. It costs only ₹2.50 per message. You deserve it, beta.
+receiver: See, I think you've dialed the wrong number. My name is Priya Patel, not Sharma. And I’m not interested in investments.
+caller: Seriously? I have Mr. Sharma’s contact details right here. You would love this, I promise. If you want real gains, go near the Gateway of India. Send ‘INVEST’ to 78909. Just ₹2.50 per message, okay? What do you say? Give it a shot.
+receiver: Come on, you’ve made a mistake. I’ve said it twice now. Please double-check your phone book. I’m Priya Patel, not Mr. Sharma. I don’t want anything to do with this. You’re calling the wrong person, bhai.
+caller: Arre yaar, seems like you’ve dialed the wrong number. Your number keeps showing Mr. Sharma’s name. But no worries, you too will enjoy this, believe me. Just give it a try, only ₹2.50, okay? Bye.
+receiver: No way, you messed up. My name is Priya Patel, not Mr. Sharma. And I have no interest in investments whatsoever. You're talking to the wrong guy. Please check your contacts again, bhai. Good night.

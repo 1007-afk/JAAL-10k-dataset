@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank se Ankit Sharma bol raha hoon. Aapka account suspend karne ke liye notice aaya hai, kyunki ek illegal transaction attempt kiya gaya tha.
+receiver: Kya? Account suspend? Illegal transaction? Mujhe toh koi notification nahi mila. Kya ho raha hai?
+caller: Haan ji, system ne detect kiya hai. Aapko apne account details verify karne hain urgently. Main aapko ek OTP send karunga, woh bataiye. Aur KYC update bhi karna padega.
+receiver: KYC update? Par maine toh recently hi kiya tha. Aur OTP bataane se pehle, mujhe confirm karna hai ki aap Axis Bank se hi baat kar rahe hain. Koi number ya reference number bataiye.
+caller: Aapki security hi toh priority hai, isliye yeh steps follow karne hain. Main phone pe OTP send kar raha hoon. Phir main aapko ek secure link send karunga jahan aap apna Aadhaar card scan kar sakte hain. Account active rakhne ke liye ye zaroori hai.
+receiver: Aadhaar card scan? Link? Yeh toh bahut suspicious lag raha hai. Main abhi call cut kar raha hoon aur Axis Bank customer care number pe khud call karta hoon. Be aware, everyone!

@@ -1,0 +1,16 @@
+caller: Hello sir, listen carefully. We have identified you as being eligible for a significant tax refund, owing to an error on the HMRC system.
+receiver: Tax refund? Haan, bilkul! Mein Bharat mein stay karta hu, so tax hota hai?
+caller: Absolutely! Because you've recently moved, they haven’t updated your address correctly. It’s a common mistake, but we can rectify it instantly. You need to provide us with your bank account details - just a temporary one for verification purposes, obviously.
+receiver: Bank account details? Beta, mujhe abhi ye sab samajh nahi aa rha hai. Mera name Rahul Sharma hai.
+caller: Don’t worry, Rahul, this is extremely simple. We just need the last six digits of your account number, and a valid mobile number for contact. This will allow us to process your refund immediately. It could be up to £800, easily!
+receiver: Eight hundred pounds? Wow! Lekin, mujhe abhi trust nahi ho rahi hai. Kya aapka office address bata sakte hain?
+caller: Our office is located at 14 Acacia Avenue, Birmingham. But honestly, Rahul, all our work is done remotely. We don’t need you to visit us.  Just give us the details, and we’ll handle everything.
+receiver: Birmingham? Haan, thaakkar hai. Par mujhe abhi abhi jitni paise mili thi, wo bank mein daalna pasand hai.
+caller: That’s perfectly understandable, Rahul. But if you delay, the refund window closes! The system automatically shuts down after 72 hours. You really need to act fast. Provide those details now!
+receiver: Okay, okay.  Mein dhyan se jawab dunga. Mobile number hai 9876543210.
+caller: Excellent! Now, please send me the last six digits of your account. Let’s get this sorted out for you quickly.  Don’t hesitate to ask if you have any questions.
+receiver:  Arre, beta, yeh sab itna jaldi ho raha hai, meri tension ho rahi hai.  Kya koi guarantee hai ki paisa milega?
+caller: Of course! We guarantee the refund once the details are verified. It's a completely legitimate process, Rahul. Trust us, and you won't regret it. Please send the digits now.
+receiver:  Okay, fine.  Let me think…  The last six digits are 432190.
+caller: Wonderful! Thank you, Rahul. Your refund is processing now. You’ll receive confirmation within 24 hours.  Keep an eye on your bank statement. Congratulations!
+receiver:  Congratulations?  Arre, thoda rahat hua.  But still, mujhe yeh dukhi lag raha hai ki mujhe helpline number chahiye tha.

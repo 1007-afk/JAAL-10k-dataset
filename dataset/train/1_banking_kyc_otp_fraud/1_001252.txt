@@ -1,0 +1,7 @@
+caller: Namaste sir, calling from ICICI Bank's fraud prevention department. We've noticed some unusual activity on your savings account, number 9876543210, potentially linked to online gambling. To secure your funds and prevent unauthorized transactions, we need to verify your identity immediately.
+receiver: Oh? Gambling? I don’t gamble, sir. What kind of unusual activity are you seeing? My account number is 9876543210, yes.
+caller: Exactly sir, that's why we're calling. The system flagged several small transactions linked to a gaming platform. As a precautionary measure, we require you to send a verification OTP via SMS to 8800112233. This is to ensure it's you.  Please do this quickly – we're under pressure to resolve this within the hour.
+receiver: OTP? But I haven't received any OTP.  And why send it to a different number, ICICI should send it to my registered mobile, right?  Which is 9892123456.
+caller:  Sir, our systems are experiencing a temporary glitch. To bypass this, we need the OTP sent to 8800112233. It’s a temporary workaround to prevent further unauthorized access.  Think of it as extra security, sir. Send that OTP immediately, please. We also need your Aadhaar card number for additional verification.
+receiver: Aadhaar number? This feels… risky. Why do you need my Aadhaar number? I thought you just needed the OTP? I'm a little unsure about sharing that information over the phone, sir. Can I call the bank directly to confirm this?
+caller: Sir, time is of the essence. Every second counts in preventing a major loss. Sharing your Aadhaar

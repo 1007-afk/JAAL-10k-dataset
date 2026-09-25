@@ -1,0 +1,12 @@
+caller: Namaste! Main Sanjay hu, Bharat Telecom se call kar raha hoon. Hamare paas ek special offer hai, jab aap Bharat Telecom mein switch karenge toh aapko free internet data milega. Kya aap currently kisi dusre operator ke under hain?
+receiver: Hello Sanjay, thanks for calling. Haan, main currently Airtel ka customer hoon.
+caller: Thoda disappointment ho sakta hai, lekin humari offer sirf Bharat Telecom customers ke liye hi valid hai. Lekin, agar aapko koi bhi problem hai, toh hum aapko free helpline support de sakte hain. Aapka mobile number confirm kar sakte hain, please?
+receiver: My mobile number is 9876543210.
+caller: Dhanyavaad! 9876543210. Ab, humein ek small verification process follow karna hoga. Aapko ek secure website link bhej rahe hain, aap uss link pe click karke apna identity verify kar sakte hain. Yeh aapke account ko activate karega aur free data immediately apply ho jayega. Link aapko abhi receive hojayega.
+receiver: Okay, received the link. I will check it. Thank you, Sanjay.
+caller: Ji, aap us link pe click kar lijiye. Verification complete hone ke baad, aapko free internet data aapke account mein visible ho jayega. Agar koi bhi confusion ho toh mujhse baaten kar sakte hain.
+receiver: Done. Verification completed. Data is appearing now. Thank you so much, Sanjay. It was really helpful.
+receiver: Hi Vikram, thanks for calling. Haan, mere paas Tata Sky ka broadband hai.
+receiver: My home address is 123, Main Street, Mumbai.
+receiver: Okay, received the link. I’ll take a look. Thanks, Vikram.
+receiver: Done. Verification complete. Benefits are showing up now. Thank you very much, Vikram. That was really helpful.

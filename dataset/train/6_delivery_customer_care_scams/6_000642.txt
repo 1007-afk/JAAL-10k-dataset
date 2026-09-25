@@ -1,0 +1,11 @@
+caller: Namaste! Mai Flipkart se Rohan bolta hoon. Aapka naam Priya Sharma hai, sahi?
+receiver: Haan, ji. Bolo.
+caller: Priya ji, aapne kuch din pehle ek smart watch order kiya tha, reference number FLP45892. Delivery ke dauraan ek chhoti si technical issue aa gayi hai.
+receiver: Oh, kya hua? Mujhe to koi message nahi aaya tha.
+caller: Ji, problem yeh hai ki payment verification mein kuch dikkat ho gayi hai. Account security ke liye, aapka OTP mujhe bata sakti hain taaki mai isko rectify kar sakoon?
+receiver: OTP? Mere account ka? Koi doubt hai?
+caller: Bilkul nahi, Priya ji. Yeh sirf verification ke liye hai, security ke liye. Warna watch delivery mein delay ho jayegi. OTP share karne se aapka account safe rahega.
+receiver: Theek hai, thoda doubt tha, lekin chalega. 1234.
+caller: Dhanyavaad, Priya ji. Abhi mai isko check kar raha hoon... Umm, ek chota sa charge bhi apply karna padega, ₹99 refund processing ke liye. Aapko ek secure link bhej doonga, wahaan se payment kar dijiye.
+receiver: ₹99? Refund ke liye? Main Flipkart app pe check karti hoon.
+caller: Priya ji, link share kar raha hoon. Jaldi kar dijiye, warna watch cancel ho jayegi. Link: tinyurl.com/xyz123.

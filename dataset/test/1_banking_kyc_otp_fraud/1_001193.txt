@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank se Rohit Sharma bol raha hoon. Aapke account mein KYC update pending hai, sir. Agar aap isko update nahi karenge toh account suspend ho sakta hai.
+receiver: KYC? Lekin mujhe toh koi message nahi aaya tha.
+caller: Sir, system mein technical issue tha. Isliye message nahi gaya. Aapko bas apna Aadhaar number aur ek OTP dena hai verification ke liye.
+receiver: Aadhaar number? OTP? Yeh toh risky lag raha hai. Bank toh kabhi phone pe aisa nahi puchhta.
+caller: Sir, hamari security protocol hai. Trust me, ham aapke account ko secure rakhna chahte hain. Jaldi karna ji, time bahut kam hai. Account suspend hone se pehle update kar lijiye.
+receiver: Thoda wait kar leta hoon. Main khud ICICI Bank ke website pe check karunga. Aap call kar sakte hain, par main koi detail nahi dunga.
+caller: Sir, website pe aapko information nahi milegi. Yeh urgent hai, sir. Apne family ke future ki soch kar dekhiye. Jaldi se details de dijiye, please.

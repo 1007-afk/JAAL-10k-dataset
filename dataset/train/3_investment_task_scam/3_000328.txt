@@ -1,0 +1,8 @@
+caller: speak to the account holder please? This is regarding your current savings of 320 rupees.
+receiver: Ji, main account holder hoon. Kya baat hai? Savings ki baat kar rahe ho?
+caller: Ji sir, aapke savings account mein filhaal 320 rupees hai. Isko boost karne ke liye, abhi ‘FAST’ likh kar 98765 pe SMS karein. Sirf 20 paise per message lagega. Aur koi doubt ho toh 09876543210 pe call kar sakte hain. Address hai PO Box 22/C Sector 5, Noida.
+receiver: Achha, 320 rupees? Boost karne ke liye bol rahe ho… Lekin ye 20 paise per message, ye kiske naampe hai? Aur ‘FAST’ likhna hai, wo kahaan likhna hai? Phone par likhne hai ya kisi app par?
+caller: Sir, ye 20 paise ka charge jo hai na, ye humari service fee hai for boosting your savings. Aur ‘FAST’ likhna hai woh aapko apne phone se hi, jo message wala section hota hai, wahan type karke 98765 pe send karna hai. Jaise koi normal message bhejte hain.
+receiver: Arre, matlab message bhejna ka charge hai? Aur ye 320 rupees, ye mera hi account hai na? Pehle confirm kar lo. Aur ye ‘FAST’ likh ke bhejne se kya hoga? Yeh paise apne aap ayenge ya kuchh aur karna padega?
+caller: Ji sir, bilkul aapka hi account hai. Aur ‘FAST’ likh ke bhejoge toh woh automatically aapke savings account mein jo hai na, woh boost ho jayega, matlab aapko extra interest milega. Woh service processing ke liye woh 20 paise ka charge hai, samajh lijiye ek chota sa processing fee hai for the special offer.
+receiver: Achha, matlab ek tarah ka fee hai ye 20 paise ka. Aur ye ‘boost’ hone ka kya matlab hai? Matlab zyada interest ayega mere account mein? Aur ye automatic ho jayega? Matlab main bas ‘FAST’ likh ke bhej doon aur phir mera balance badh jayega? Ye koi investment scheme hai kya aapki company ki?

@@ -1,0 +1,7 @@
+caller: Namaste, madam! Is this Riya Sharma? We’re calling from QuickCash Solutions regarding your recent loan application. There seems to be a small verification fee due to process your approval.
+receiver: QuickCash Solutions? I don’t remember applying for a loan. I’ve been busy with work.
+caller: Yes, madam. It appears you filled out a preliminary form online. To activate the loan of ₹75,000, we just need you to transfer ₹5,500 to this account: 1234567890. This is a standard security procedure.
+receiver: ₹5,500? But I haven’t even confirmed I want the loan. And why do I need to transfer money? Shouldn’t you be giving me the money?
+caller: Madam, due to increased fraud attempts, we’ve implemented this verification step. It's purely for your safety. If you don't complete this, we'll have to cancel your application and you’ll lose the chance of getting the loan. We can also send pictures of the loan documents to your contacts to show its genuine.
+receiver: Pictures? What kind of pictures? This is sounding very suspicious. I’m not paying anything upfront. I’m going to report this number.
+caller: Madam, please don't do that! It's a misunderstanding. We simply want to ensure you are the rightful applicant. Once you pay the ₹5,500, your loan will be processed immediately. Otherwise, we will be forced to flag your account as potentially fraudulent, and you won't be eligible for any loans for the next six months.

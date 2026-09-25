@@ -1,0 +1,6 @@
+caller: Namaste sir, mera naam Rajesh Mishra hai, Indian Customs Department se. Aapki ek parcel customs clearance ke liye pending hai, jo Mumbai airport par ruk gayi hai.
+receiver: Kya? Mere parcel ka? Mujhe toh koi parcel order kiya tha. Kaunsa parcel hai aur mujhe clearance ke liye kya karna hai?
+caller: Sir, parcel mein illegal items paaye gaye hain, jo Narcotic Drugs and Psychotropic Substances Act ke under forbidden hain. Isliye parcel abhi release nahi hoga. Aapko investigation ke charges pay karne honge, taaki parcel release ho sake.
+receiver: Illegal items? Lekin maine toh kuch illegal nahi order kiya tha. Kaise ho sakta hai? Aur charges kitne pay karne honge? Koi receipt number ya tracking ID de sakte hain?
+caller: Sir, investigation jaari hai, receipt number abhi provide nahi kar sakte. Charges 12,500 rupees hain. Aapko Google Pay ya PhonePe se payment karna hoga. Payment ke baad, parcel release kar diya jayega. Koi delay nahi hoga.
+receiver: 12,500 rupees? Yeh bahut zyada lag raha hai! Agar parcel mein illegal items hain toh police ko kyu nahi mila? Aur mujhe custom department ka phone number de dijiye, main khud verify karunga.

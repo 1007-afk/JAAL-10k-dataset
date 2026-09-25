@@ -1,0 +1,8 @@
+caller: Hello, Namaste! Calling about some missed calls from this number, 9876543210. Did you receive any calls from us recently? We just wanted to quickly check if you received an important update.
+receiver: Hello, Haan, Namaste! Yes, I saw a few missed calls, I was busy working on a project. What kind of update were they about?
+caller: Arre, koi problem nahi! It was regarding your account – we had a message saying there’s been a small adjustment to your payment method. We tried to reach out to ensure everything is correctly registered. Have you done any recent transactions online lately? This was related to updating your information so the money goes to the right place. Let's quickly verify your name and address to avoid any confusion.
+receiver: Oh, an account adjustment! Yes, I made a purchase last week through [Mention a plausible website, e.g., ‘Flipkart’ or ‘Amazon’]. Is that what this is about? Tell me how to proceed.
+caller: Bahut achha! Kindly provide your full name and address, so we can confirm the details and make sure the transaction happens smoothly.
+receiver: Okay, my name is Priya Sharma, and my address is Sector 16, Noida, Uttar Pradesh, and the pincode is 201301. Please confirm if this is correct.
+caller: Shukriya, Priya Ji! Your address is Sector 16, Noida, Uttar Pradesh, pincode 201301. That looks perfect. Now, to fully secure your account, we need to send a one-time password (OTP) to your mobile number. Could you please confirm if this number is still the same one where you receive SMS messages? This is for security purposes only.
+receiver: Haan, the number is correct, it’s 9876543210. Send the OTP please. I am ready to continue.

@@ -1,0 +1,8 @@
+caller: Namaste, is this speaking with Mr. Rajan? This is Inspector Verma from the Delhi Customs Department. We have an urgent matter regarding a parcel registered under your name.
+receiver: Haan, bolo. What's the matter?
+caller: Sir, we’ve intercepted a package originating from overseas. Preliminary scans indicate the presence of suspicious materials. We believe it might be connected to a case of illegal goods smuggling.
+receiver: Illegal smuggling? What are you talking about? I haven't ordered anything suspicious.
+caller: We understand, sir. However, protocol dictates a thorough investigation. To clear the parcel and avoid further legal complications, we require a small processing fee of ₹7,500. This will cover the cost of detailed examination and clearance. We'll connect you to our secure payment gateway on WhatsApp for a safe transaction.
+receiver: ₹7,500? This sounds like a scam! I’m not paying anything. What's your WhatsApp number? I'll report this.
+caller: Sir, please understand, this is a serious matter. Refusal to cooperate will result in further investigation and potential legal action against you. We don’t want that.  I can send you the verification link directly through SMS. Please, just cooperate for now and we'll close this quickly. It's for your own benefit.
+receiver: SMS? Fine, send the link. But I’m still suspicious.

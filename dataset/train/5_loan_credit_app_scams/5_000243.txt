@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Verma, associated with the mobile number ending in 321? I’m calling from ‘QuickCash Pro’, and we’re thrilled to inform you that your loan application has been pre-approved! We just need a quick verification to release the funds.
+receiver: Haan, main Verma hoon. Loan application? Main toh koi loan apply nahi kiya tha.
+caller: That’s quite alright, Madam! Sometimes the system picks up applications automatically based on your credit profile. It’s a fantastic opportunity to get a loan of ₹2,50,000 at a special introductory rate! To activate this offer, please visit our secure portal at quickcashverify.online and enter the code VERMA25.
+receiver: Quickcashverify.online? Yeh site toh main kabhi suni bhi nahi. Aur ₹2,50,000 ka loan... kyun bina apply kiye hi approve ho gaya?
+caller: Don’t worry, Madam Verma! It’s a limited-time promotion for select customers. Our website is 100% secure and encrypted. You just need to enter your bank account details there to complete the process. Only two slots are left for this offer, so please hurry! Have you entered the verification code?
+receiver: Okay, I've entered the code. The website is asking for my bank account number and OTP. Is this really necessary? It seems a bit strange.
+caller: Absolutely, Madam! It’s standard procedure to ensure the funds are transferred to the correct account. Just enter those details and press submit. Once done, your loan will be credited immediately! Congratulations, Madam Verma! You're about to receive a very valuable loan.
+receiver: Wait a minute... this is too good to be true. I think I'll call back later.
+caller: Please hurry Madam Verma, time

@@ -1,0 +1,8 @@
+caller: Namaste sir, main State Bank of India se Rohit bol raha hoon. Aapka naam Mr. Sharma hai?
+receiver: Haanji, main hi Sharma hoon. Bolo, kya baat hai?
+caller: Sir, aapke account mein ek suspicious transaction detect hua hai. ₹8,000 Paytm se ek unknown number pe gaya hai. Security ke liye, humein aapki verification karni hogi.
+receiver: ₹8,000 Paytm? Mujhe toh kuch yaad nahi. Verification kaisa karna hai?
+caller: Sir, bas aapko apna OTP dena hai. OTP se hum confirm kar lenge ki aap account ke sahi owner hain. Koi chinta mat kariyega, yeh ek standard procedure hai.
+receiver: OTP? Sir, OTP mat doonga mai. Ye scam lag raha hai. Main apna banking app check karta hoon.
+caller: Sir, aapko jald se jald OTP dena hai! Account suspend ho sakta hai, aur paisa bhi jam ho sakta hai. Aapka loss hoga.
+receiver: Account suspend ho sakta hai? Chalo, ek kaam karo. Mujhe SBI ka official helpline number do, main wahaan call karta hoon aur verify karta hoon.

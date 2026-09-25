@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? I'm calling from FreeCharge Rewards. We’ve noticed you’ve recently made a few transactions through our app, and you’re eligible for a special cashback offer!
+receiver: FreeCharge? Haan, mein FreeCharge use karti hoon. Cashback offer? Kitna cashback milega?
+caller: Congratulations! You've been selected for a ₹500 cashback bonus as a thank you for being a loyal user. To activate this, we just need you to verify your account with a small processing fee of ₹50. It's a one-time fee to ensure the funds go directly to your wallet.
+receiver: ₹50? Processing fee? FreeCharge toh aise kabhi fee leta nahi. Yeh kuch ghalat lag raha hai.
+caller: Absolutely not! This is a special promotional offer, and the fee is just to confirm the transaction. It’s completely secure.  We’ll send you a link via SMS – just click on it and enter your UPI ID to complete the verification. It takes only a minute.
+receiver: UPI ID? Par UPI ID FreeCharge app mein toh already registered hai. Kyon ek aur verification chahiye? Aur SMS ka wait karo. Let me check my FreeCharge app first.
+caller: Sirf is verification se aapka account safe rahega aur cashback instantly mil jayega. Abhi SMS aane se pehle kar lijiye, warna offer expire ho jayegi. Aapka loss hoga. Hurry up!
+receiver: Okay, okay, send the SMS. I'll check.

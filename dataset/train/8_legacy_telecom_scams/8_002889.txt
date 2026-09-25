@@ -1,0 +1,9 @@
+caller: Namaste! Main calling karta hu’n ‘MovieMate’ subscription par. Apne free trial period ka use kar raha hai na? Hum sirf check karte hain ki aapko movie collections pasand aa rahe hain ya nahin.
+receiver: Haan, namaste! Haan, use kar raha hu’n. Actually, bahut hi acha laga rahi hu’n. Dhanyavaad!
+caller: Achha, achcha! Mein Vikram hu’n. Suniye, MovieMate mein aapko kuchh naye movies dekhna chahie kya? Hamare paas ‘Bollywood Blockbusters’ and ‘Hollywood Classics’ ke liye donon exclusive deals chal rahe hain.
+receiver: Exclusive deals? Batao, batao! Kya bataye?
+caller: Toh, aapko ‘Gold Deluxe’ plan mil sakta hai. Ismein aapko ek mahina ke liye sabse popular Bollywood movies aur Hollywood classics dekhne ko milegi, completely free! Aur iska price normal rate se bada kam hai. Aapki subscription upgrade karne ke liye sirf ‘Accept’ message 98765 pe send karein. Kaise lagta hai?
+receiver: Gold Deluxe? Ek mahina ke liye sabse popular movies? Wow, that sounds amazing! But…yeh offer kitni din ka hai? Aur agar main abhi decide nahi karta, toh kya hoga?
+caller: Ji, yeh offer sirf yehli raat ke liye valid hai. Main aapko jald se jald bataana chahta hu’n. Agar aapko pasand aaye toh ‘Accept’ message 98765 pe send karein. Koi bhi darrnai na.
+receiver: Okay, samajh gaya. Raat ke liye valid hai.  Aur ‘Gold Deluxe’ plan mein kaunse types ke movies milenge? Kuch examples de sakte hain?
+caller: Ji, definitely! Bollywood mein Shah Rukh Khan, Salman Khan, Akshay Kumar ke films, aur Hollywood mein Tom Cruise, Brad Pitt, Harrison Ford ke films milenge. Sab best hits hain!

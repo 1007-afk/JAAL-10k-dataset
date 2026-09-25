@@ -1,0 +1,8 @@
+caller: Namaste, main State Bank of India se Atul Sharma bol raha hoon. Aapke naam par ek account hai, aur is par fraud ka activity dikha raha hai.
+receiver:  Haan, toh?  Kya hua?  Fraud activity?
+caller: Ji, aapke account se ₹15,000 ka withdrawal kiya gaya hai, jo ki suspicious hai. Aapko apna KYC update karna hoga urgent basis par, warna account suspend bhi ho sakta hai.
+receiver: ₹15,000?  Mai toh koi withdrawal nahi kiya. KYC update?  Yeh kya process hai?
+caller:  Ji, process bahut simple hai. Aapko ek OTP mil raha hoga apne phone par, woh mujhe bata dijiye. Aur phir ek SMS message mein ek link aayega, us link par jake kuch details confirm karni hogi.
+receiver:  OTP aaya hai, 456789.  Link?  Mai ise safe consider kar sakta hoon?  Yeh bank se hi call hai, right?
+caller:  Ji, bilkul bank se call hai. OTP thank you, sir. Ab woh link check karein aur confirm karein. Link hai: sbikyc.verify.com. Jaake apna Aadhaar number aur PAN card number de dijiye.
+receiver: Aadhaar number aur PAN card?  Yeh bahut risky lag raha hai.  Mai thoda confuse hoon.

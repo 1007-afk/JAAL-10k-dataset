@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay Security Team se Rahul bol raha hoon. Aapke BharatPay wallet mein kuch suspicious activity detect hui hai. ₹5,000 ka ek transaction Kerala mein hua hai, jo aapne nahi kiya.
+receiver: Kerala mein? Woh toh main toh kabhi gaya hi nahi. Koi transaction toh main nahi kiya.
+caller: Haan ji, mujhe samajh mein aata hai. Technical issue hone ki sambhavna hai. Isko fix karne ke liye, humein aapke account ko verify karna hoga. Kisi bhi aur UPI app se ek OTP generate karke mujhe bataiye.
+receiver: OTP? Kis app se? Main toh sirf BharatPay hi use karta hoon.
+caller: Suniye, sir, security ke liye kuch aur app se verify karna padega. Paytm se ek OTP generate karein. Just ek baar OTP bata dijiye, aur sab automatically fix ho jayega. ₹5,000 aapke account mein safe hai.
+receiver: Paytm mein OTP generate karna hai? Woh risky toh lagta hai. Main thoda confuse hoon.
+caller: Sir, agar aap OTP nahi denge toh woh ₹5,000 permanent gaayega. Aapka account suspend bhi ho sakta hai. Phir woh amount kabhi nahi milega. Jaldi karein!

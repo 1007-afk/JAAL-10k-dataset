@@ -1,0 +1,8 @@
+caller: Namaste! Main ICICI Bank se Rahul bolta hoon. Aapke account mein kal ek suspicious transaction attempt kiya gaya tha. Security ke liye, humein aapke account details verify karne hain.
+receiver: ICICI Bank? Okay. Which transaction are you talking about? I didn’t see anything unusual.
+caller: Ji, ek online transaction attempt hua tha ₹12,500 ka ek unknown website par. Humara system ne ise block kar diya hai, lekin aapko confirm karna hai ki yeh aapne kiya tha ya nahin. Verify karne ke liye, mujhe aapka OTP aur PAN card number chahiye hoga.
+receiver: OTP and PAN card? That sounds very risky. Why can’t you just verify through the ICICI Bank app or a secure online portal? I'm quite sure a bank representative would not ask for this on the phone.
+caller: Dekhiye, system mein technical issue aa gaya hai. Online portal temporarily down hai. Sirf OTP aur PAN card se hi hum aapka account secure kar sakte hain. Agar aap confirm nahi karenge, toh aapka account freeze ho sakta hai aur ₹5000 ka fine bhi lag sakta hai.
+receiver: Freeze my account? Fine? That's a lot of pressure. Tell me, what is the exact name of the website where the transaction was attempted, and what time did it happen?
+caller: Website ka naam... uh… “PaySecureOnline” tha. Time 11:47 AM. Please, jaldi karein. Account freeze hone se pehle OTP aur PAN card number bataiye.
+receiver: PaySecureOnline? I’ve never heard of that website. And 11:47 AM? I was at work at that time. This is a scam, isn’t it? I’m reporting you.

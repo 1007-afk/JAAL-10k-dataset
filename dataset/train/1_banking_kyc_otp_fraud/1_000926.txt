@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main ICICI Bank se Priya bol rahi hoon. Aapke naam par ek suspicious transaction detect hua hai – ₹7,500 ka ek online payment gaya hai jo aapne nahi kiya.
+receiver: Oh! ₹7,500? Mein toh koi transaction nahi kiya. Bataiye kya hua?
+caller: Sir, security protocol ke under, humein aapke account ko secure karne ke liye kuch details verify karne ki zaroorat hai. Kya aap mujhe apna OTP (One-Time Password) bata sakte hain jo aapko aapke registered mobile number par aa raha hai?
+receiver: OTP? Areh, OTP phone pe dene se account khali ho jayega! Tum log phone kyon kar rahe ho? ICICI Bank aise call karke OTP maangta hai kya?
+caller: Sir, main aapko daant rahi hoon. Ye ek emergency situation hai. Agar aap OTP nahi denge toh humein aapka account temporary suspend karna padega, aur phir hacking ka risk badh jayega. Just OTP sir, please!
+receiver: Dekho, mein call cut kar raha hoon. Aur ICICI Bank ke customer care number se khud call karta hoon. Tum log fraud ho!
+caller: Sir, please sir! Aapka account khata – ₹7,500 already debit ho gaya hai!  Aapko ye paisa wapas paane ke liye OTP dena hoga! Jaldi karo!
+receiver: Mein police mein report karwaunga!

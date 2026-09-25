@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart Customer Care se Ram Kumar bolta hoon. Aapke naam par ek order hai, order number FLP789456. Lekin payment mein kuch problem aa rahi hai, so we are calling to verify.
+receiver: Oh really? Which order? I don’t remember ordering anything recently.
+caller: Ji, aapne kuch din pehle ek smart TV order kiya tha, ₹35,000 ka. Payment fail ho gaya hai, aur order suspend ho gaya hai. Humko sirf payment verify karna hai, taaki aapko smart TV mil jaaye.
+receiver: ₹35,000? Smart TV? That’s a lot of money! I really don’t remember. How can I verify it?
+caller: Sir, aapko OTP milega aapke registered phone number pe. Woh OTP humko bata dijiye, aur payment confirm ho jayega. Iske baad aapka smart TV aapke doorstep pe pahunch jayega!
+receiver: OTP? Why do you need the OTP? Isn't there a different way to verify?
+caller: Sir, security ke liye hum OTP lete hain. Koi bhi doubt nahi hona chahiye, agar aapko smart TV milna hai. Jaldi se OTP de dijiye, otherwise order cancel ho jayega!

@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rahul bolta hoon. Aapke naam par ek parcel aaya hai, lekin address sahi nahi hai.
+receiver: Oh, serious? Woh kya parcel hai? Mera naam Priya Sharma hai.
+caller: Ji, madam. Woh ek smart watch hai, aur delivery boy return karne wala hai. Agar aapko chahiye, toh humein just verification ke liye kuch details chahiye.
+receiver: Verification? Kitna details? Mujhe pata nahi tha main smart watch order kar rahi hoon.
+caller: Madam, security ke liye aapka OTP mang raha hoon jo aapko SMS se mila hai. Isse pata chalega ki aap hi wahi Priya Sharma hain jo order kiya tha.
+receiver: OTP? Main kabhi nahi deta OTP kisi ko bhi. Yeh scam lag raha hai. Aapko Flipkart employee ID number bataiye.
+caller: Madam, hum system se connect hai, aur OTP verification without iske possible nahi hai. Yeh policy hai. OTP bataiye please, otherwise parcel return ho jayega.
+receiver: Nahi, sorry. Main call cut kar rahi hoon.

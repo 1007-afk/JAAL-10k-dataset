@@ -1,0 +1,6 @@
+caller: Hello there, you seem to be having a really good day today, right? We're looking for some special people, you understand, like very respectable individuals, to test out some brand new delights from 'Serenity Spa'. It’s a top secret opportunity! Could I quickly grab your address and your birthdate, please?  We need to make sure we reach everyone properly.
+receiver: Well, that sounds interesting, actually! Serenity Spa? I’m listening. Okay, let’s see… Can you please tell me your full name spelled out, starting with ‘R’? And what’s your street address, including the postal code? Just want to verify a few things before moving forward.
+caller: Wonderful! That’s Rohan Sharma, living at 123 Maple Drive, Bangalore – postcode 560048. Really eager to participate, you know!
+receiver: Rohan Sharma, 123 Maple Drive, Bangalore, 560048. Got it. Now, could you provide your date of birth, please? We just need to double check all the information for our esteemed testers.
+caller: Certainly! My birthday is July 15th, 1988. Looking forward to trying out these fantastic treatments!
+receiver: Fantastic! So, Rohan Sharma, 123 Maple Drive, Bangalore, 560048, born on July 15th, 1988. Everything looks perfect! You’ll hear from us shortly regarding the Serenity Spa trial. Very happy to have you as a tester!

@@ -1,0 +1,7 @@
+caller: Namaste Aunty, main Flipkart se Deepak bolta hoon. Apke account mein 50,000 ka cashback offer hai, sirf Flipkart users ke liye.
+receiver: Flipkart? Kya offer hai? Mujhe toh koi notification nahi aaya.
+caller: Haan aunty, offer limited time ke liye hai. Yeh check karna hai ki aapka account active hai ya nahi. Bas ek OTP puchhna hai.
+receiver: OTP? Kon sa OTP? Mere phone mein OTP nahi aaya hai.
+caller: Haan aunty, OTP mere phone pe check kijiye. Main WhatsApp pe OTP bheju. Apne number pe check kijiye.
+receiver: WhatsApp? Nahin, mujhe aisa kuch nahi karna chahiye. Flipkart customer care ko call karta hoon.
+caller: Aunty, customer care ko call karne mein time waste hoga. Apni security ke liye, OTP share kar dijiye. Yeh offer sirf aaj ka hi hai!

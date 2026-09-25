@@ -1,0 +1,6 @@
+caller: Hello, this is Inspector Singh from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: What? A parcel? I haven’t ordered anything. What kind of suspicious items?
+caller: It appears to contain undeclared goods which may violate import regulations and possibly involve money laundering activities. We need to verify your involvement before releasing the parcel.
+receiver: Money laundering? This is ridiculous! I'm a teacher! What would I even know about that? Can I see some proof of this parcel?
+caller: Unfortunately, due to security protocols, we cannot share images directly. However, to clear this up quickly and avoid further legal action, a small penalty of 7,500 rupees is required for inspection and release. You can pay via UPI to 9876543210.
+receiver: 7,500 rupees? This is a scam! I’m reporting this number to the cybercrime helpline. You’re not a Delhi Customs inspector.

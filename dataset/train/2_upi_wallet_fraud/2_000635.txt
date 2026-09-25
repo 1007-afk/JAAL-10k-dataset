@@ -1,0 +1,7 @@
+caller: Namaste! I’m calling from ‘CashReward Zone’. We've noticed a pending cashback of ₹1,800 on your Paytm wallet from a recent online purchase. To claim it, we just need to verify a few details.
+receiver: ₹1,800 cashback? Kya baat hai! Maine toh koi purchase nahi ki thi. But okay, bataiye, kya verify karna hai?
+caller: Haan ji! Very good! Just a small processing fee of ₹50 is required to activate the cashback and transfer it to your wallet. Just send ‘ACTIVATE’ to number 99887. This is a limited-time offer, sir. Only 3 slots left!
+receiver: ₹50 processing fee? Paytm mein toh itna kuch nahi lagta. Aur 3 slots left? Yeh kuch shubha nahi lag raha. Verification ke liye Paytm se direct message kyun nahi aata?
+caller: Sir, this is a special promotion with CashReward Zone. Paytm doesn’t handle this directly.  See, this is a really lucrative deal. Don't miss it - the slot could disappear any minute! Send ‘ACTIVATE’ to 99887 and get your ₹1,800. Only 2 slots available now.
+receiver: ₹1,800 aur ₹50? Dekhiye, mujhe ispe trust nahi ho raha. Main Police mein report kar dunga.
+caller: Sir, please don’t do that! It’s a legitimate offer! We can confirm your Paytm wallet details right now...Just give me the last four digits of your registered mobile number. Only 1 slot is left!

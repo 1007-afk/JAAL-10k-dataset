@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, this is Akash calling from BlueSpark Courier. We have a parcel addressed to you, but there seems to be a slight issue with the payment.
+receiver: Oh, really? What kind of issue? I wasn’t expecting a parcel. Could you tell me who sent it?
+caller: The sender details are confidential, sir/madam. The payment gateway flagged a discrepancy. To release the parcel and get it delivered, you’ll need to verify a small amount - just ₹250 as a security deposit.
+receiver: ₹250? That seems a bit odd. Can’t you just tell me who sent it? And why do I need to pay before delivery?
+caller: Sir/Madam, it’s standard procedure to secure the parcel against fraudulent claims.  We can’t risk it. Please send the money via UPI to this number - 9876543210.  Just 250 rupees, and your parcel will be on its way within the hour.
+receiver: Hold on a minute. Let me just double-check something…I'm going to call the sender directly. Give me a moment.
+caller: Ji ji! Please hurry, sir/madam!  We’ve got many parcels to deliver, and we can’t hold this one indefinitely. Just a quick payment, and everything will be sorted. Don't miss out!

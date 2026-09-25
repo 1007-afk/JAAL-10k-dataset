@@ -1,0 +1,8 @@
+caller: Hey baby, saw your profile on SparkMatch – you’re absolutely gorgeous! Just wanted to say hi. What are you up to tonight?
+receiver: Hi! Thanks so much! That’s sweet of you to say. Just relaxing at home, watching a movie. You?
+caller: Awesome! I’m just winding down after a long day of work. I'm Rohit, by the way.  Listen, this movie looks pretty boring… Wanna chat a little? I’m really enjoying your pictures.
+receiver: Rohit, nice to meet you! I’m Neha. Yeah, this movie is a bit dull. Sure, let's chat! What do you do?
+caller: I work in import/export, lots of travel unfortunately. Right now I’m stuck in Dubai on a project, but I'm missing home a lot. Listen, my mom's birthday is next week and I’d love to send her something special, but I'm having issues with my bank transfers here. Could you possibly send me 15,000 rupees? Just until I sort things out. I promise I’ll pay you back as soon as I’m back!
+receiver: 15,000 rupees? That's quite a bit, Rohit. I'm a little hesitant to do that. I barely know you.
+caller: I understand your concern, Neha. Trust me, I wouldn't ask if it wasn’t important. Think of it as a small loan, and I’ll double it when I get back! I can send you a screenshot of my bank statement to prove it. It’s just temporary, really.
+receiver: Okay Rohit, send me the screenshot. Let me see it first before I make a decision.

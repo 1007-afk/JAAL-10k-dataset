@@ -1,0 +1,8 @@
+caller: Hello! This is Raj from SpeedyTrack couriers. We have a problem with your recent delivery of a premium soundbar from Flipkart. Seems like there’s a customs clearance issue.
+receiver: Customs issue? I didn't order anything that would require customs. Are you sure you have the right phone number?
+caller: Yes, madam, definitely the right number. We've tried contacting you several times. The reference number is 789456. To clear this issue and get your soundbar delivered quickly, we need to verify a few details.
+receiver: Verify what details? I still think this is a mistake. What exactly is the problem with the customs? And why can’t I just pick it up from your depot?
+caller: To process the clearance, we need a small OTP verification. It's just a security measure, madam. Please share the OTP sent to your registered mobile number for Flipkart. We need to ensure it's you who is claiming the delivery.
+receiver: An OTP? That sounds very suspicious. Flipkart never asks for OTPs over the phone for delivery issues. I'm not giving you anything. I'm going to call Flipkart directly to verify this.
+caller: Please madam, don't delay your delivery! This offer is only valid for the next 10 minutes. If you don’t share the OTP now, we’ll have to return the soundbar to the sender. It’s a really good deal you’re missing out on, just a simple OTP and your soundbar will be delivered tomorrow.
+receiver: Absolutely not! You’re a scammer. I'm blocking your number and reporting this to the cybercrime cell. Goodbye.

@@ -1,0 +1,11 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein.
+receiver: Mere naam par parcel? Mein toh koi order nahi kiya tha.
+caller: Ji, lekin parcel aaya hai aur usmein illegal items paaye gaye hain. Drugs ka suspicion hai.
+receiver: Drugs? Yeh to galat hai! Mujhe toh kuch bhi pata nahi. Mein toh kabhi drugs nahi use kiya.
+caller: Shreya Verma ji, mujhe maaf karna, lekin procedure hai. Aapko ₹15,000 ka fine bharvana padega taaki parcel release ho.
+receiver: ₹15,000? Mein kaise bharu? Aur kyun bharu? Yeh to scam lag raha hai.
+caller: Dekhiye, agar aap fine nahi bharte toh parcel destroy kar diya jayega aur aapke khilaf case register hoga. Hamara bank account number hai 1234567890.
+receiver: Case register hoga? Koi case number hai? Mein koi payment nahi karungi jab tak mujhe sahi information nahi milegi.
+caller: Shreya Verma ji, aap time barbaad kar rahi hain. ₹15,000 jaldi bhar dijiye. Otherwise, police aapke ghar aaegi.
+receiver: Police? Mein abhi police station report karungi. Yeh scammer hai.
+caller: Shreya Verma ji, aapka time khatam ho gaya hai. Aapko regret karungi. Account number yaad rakhein: 1234567890.

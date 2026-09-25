@@ -1,0 +1,8 @@
+caller: Namaste, this is Inspector Sharma from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Package? What suspicious items? I haven’t ordered anything recently.
+caller: Sir, preliminary investigation suggests involvement in illegal cross-border transactions. This is a very serious matter. To clear the package and avoid legal proceedings, you need to pay a fine of ₹15,000.
+receiver: Fifteen thousand? That's a lot! What kind of illegal transactions? Can you give me some details? And why haven’t I received any official notice?
+caller: Sir, this is a sensitive investigation. We are keeping things confidential to prevent further complications. You can make the payment through PhonePe or Google Pay. I'll send you the UPI ID. It’s very important to act quickly to avoid arrest.
+receiver: Arrest? Wait, this sounds fishy. I’m going to call the Delhi Customs directly to verify this. Give me the official phone number.
+caller: Sir, that's not necessary. Official channels are currently overwhelmed. This is a direct line for urgent clearance. Please, don't delay. The package is being held at the Indira Gandhi International Airport warehouse. Payment must be made within the hour or we’ll have to proceed with further action.
+receiver: An hour? Okay, let me see the UPI ID. But I'm still skeptical about this. I'm noting down your number, too.

@@ -1,0 +1,18 @@
+caller: Namaste, Yeh Sanjay Kumar bol raha hu, Bharat Telecom se baat kar raha hun. Mujhe sunana hai ki aapke liye ek amazing deal hai. Hum aapse ₹500 free recharge de rahe hain, aur aapki current plan bhi upgrade karwane ke liye ek superb offer hai. Agar aap reply karein, to aapko ek OTP chahiye hoga. Kya aapko OTP bhejna hai?
+receiver: Oh, hello Sanjay. Haan, maine Bharat Telecom se ek SMS mila tha. Mein dekh sakta hun.  Mujhe bas apni naam aur address reply karna hai, hai na?
+caller: Haanji, bilkul! Apna valid naam, ghar ka address, aur pincode reply kar dein. Aur phir aapko tumhare bank account mein ₹500 transfer ho jayega.  Yeh offer sirf humare VIP customers ke liye hai.
+receiver: Wah, ₹500!  Par ek cheez puchhna chahta hu, ye OTP, wo kya karega?  Ismein koi risk hai kya?
+caller: Haanji, OTP sirf verification ke liye hai. Aapko sirf unchi level ke services ke liye request karne milega.  Aapka naam, address aur pincode submit karo, aur main OTP verify kar dunga.
+receiver: Okay, okay. Mera naam Raksha Patel hai. Ghar ka address MH17 AB1234 hai, aur pincode 400001.  Main yahaan se ₹500 kaise pana loon?
+caller: Bilkul Raksha ji! Aapne sahi details di hain. Main abhi isse check karunga.  OTP generate hone vala hai, aur phir aapko confirmation message milega.  Bharat Telecom se bohat shukriya!
+receiver: Dhanyavaad Sanjay!  Is offer ka koi expiry date hai kya?  Aur sirf mera hi hai, ya sabhi ko mil sakta hai?
+caller: Haanji, aapko 7 days ke andar redeem karna hoga.  Aur yeh offer sirf aapke mobile number par hai.  Aapko sirf unche premium services ke liye request karne milega.
+caller: Namaste, Yeh Rajesh Sharma bol raha hu, Jio Digital Calling se baat kar raha hun. Mujhe sunana hai ki aapke liye ek bahut hi achcha offer hai. Hum aapko ₹1000 free data de rahe hain, aur aapki current plan bhi upgrade karwane ke liye ek special discount hai. Agar aap reply karein, to aapko ek verification code chahiye hoga. Kya aapko verification code bhejna hai?
+receiver: Oh, hello Rajesh. Haan, maine Jio Digital Calling se ek WhatsApp message mila tha. Mein dekh sakta hun. Mujhe bas apni naam aur city reply karna hai, hai na?
+caller: Haanji, bilkul! Apna valid naam, city, aur pin code reply kar dein. Aur phir aapko aapke mobile balance mein ₹1000 add ho jayega. Yeh offer sirf premium users ke liye hai.
+receiver: Wah, ₹1000! Par ek cheez puchhna chahta hu, ye verification code, wo kya karega? Ismein koi risk hai kya?
+caller: Haanji, verification code sirf aapki identity verify karne ke liye hai. Aapko sirf high-speed internet ke liye request karne milega. Aapka naam, city aur pin code submit karo, aur main verification code generate kar dunga.
+receiver: Okay, okay. Mera naam Kavita Singh hai. City Delhi hai, aur pin code 110001.  Main yahaan se ₹1000 kaise pana loon?
+caller: Bilkul Kavita ji! Aapne sahi details di hain. Main abhi isse check karunga. Verification code generate hone wala hai, aur phir aapko confirmation message milega. Jio Digital Calling se bohat shukriya!
+receiver: Dhanyavaad Rajesh! Is offer ka koi limit hai kya?  Aur sirf mera hi hai, ya sabhi ko mil sakta hai?
+caller: Haanji, aapko 30 days ke andar data consume karna hoga. Aur yeh offer sirf aapke registered mobile number par hai. Aapko sirf high-speed premium services ke liye request karne milega.

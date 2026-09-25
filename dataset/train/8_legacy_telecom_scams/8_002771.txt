@@ -1,0 +1,16 @@
+caller: Namaste! Aapko mera naya podcast dekha? Agar sunana band karna chahte hain, to sirf ‘cancel’ likh ke 73737 par jhado. Agar koi madad chahiye, to 09876543210 yaa 9876543211 pe call kar sakte hain. Yeh CreativeSounds.in se hai.
+receiver: Namaste, ji. Sun li, ekdum thanda tha. Number bataiye, yahaan par, kaise karein cancel?
+caller: Jihaan, Yeh CreativeSounds.in ka number hai. ‘Cancel’ likh kar 73737 par jhado. Agar koi shaam ko question hai, to woh number pe call kar sakte hain - 09876543210 yaa 09876543211. Itni hi simple hai.
+receiver: Achcha, CreativeSounds.in. Thik hai, samajh mein aa gaya. Agar mujhe subscription khatam karna hai, to sirf ‘cancel’ likh kar 73737 par jhado, sahi? Aur agar koi bataye, to woh helpline number hai 09876543210 yaa 09876543211. Kya yeh subscription automatically start ho gaya tha, ya main khud subscribe kiya tha?
+caller: Jihaan, Yeh subscription automatically start ho gaya tha, aapko kuchh bhi subscribe karne ki zaroorat nahin hai. Baaki, agar cancel karna hai, to ‘cancel’ likh kar 73737 par jhado. Aur agar koi dhyen hai, to helpline number pe contact kar sakte hain.
+receiver: Achcha, yeh toh badhiya hai. Main ‘cancel’ wala message bhej dunga. Dhanyavaad kee jawab diya.
+caller: Koi baat nahin, aapka raasta sudhar rahe hain.  Agar koi bhi sawaal ho, to pata hai na helpline number pe contact kar sakte hain. Aapko achhi din jaun!
+receiver: Jihaan, aapko bhi! Aur haan, helpline number toh hai hi, yaad rakhega. Bye!
+caller: Halo? Kaise chal raha hai aapka new song listening experience? Agar aapko unsubscribe karna hai, to sirf “stop” likh kar 88001234567 padhao. Kisi bhi problem ke liye, 09212345678 pe call kar sakte hain. Yeh MelodyZone.com se hai.
+receiver: Halo, ji. Woh dekha, bahut accha tha. Number bataiye, please, cancellation ke liye kaise karenge?
+caller: Jihaan, Yeh MelodyZone.com ka number hai. "Stop" likh kar 88001234567 padhao. Agar kisi bhi cheez ka question hai, to woh number pe call kar sakte hain - 09212345678 yaa 09212345679. Itni hi easy hai.
+receiver: Achcha, MelodyZone.com. Thik hai, samajh mein aa gaya. Agar mujhe subscription khatam karna hai, to sirf “stop” likh kar 88001234567 padhao, sahi? Aur agar koi baat chale, to woh helpline number hai 09212345678 yaa 09212345679. Kya yeh subscription automatically start ho gaya tha, ya main khud subscribe kiya tha?
+caller: Jihaan, Yeh subscription automatically start ho gaya tha, aapko kuchh bhi subscribe karne ki zaroorat nahin hai. Baaki, agar cancel karna hai, to “stop” likh kar 88001234567 padhao. Aur agar koi dhyen hai, to helpline number pe contact kar sakte hain.
+receiver: Achcha, yeh toh achcha hai. Main “stop” wala message send dunga. Dhanyavaad kee jawab diya.
+caller: Koi baat nahin, aapka time sudhar rahe hain. Agar koi bhi sawaal ho, to pata hai na helpline number pe contact kar sakte hain. Aapko achhi din jaun!
+receiver: Jihaan, aapko bhi! Aur haan, helpline number toh hai hi, yaad rakhega. Bye!

@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Sharma? This is Inspector Verma from the Delhi Customs Department. We've detected suspicious activity linked to a parcel registered under your name.
+receiver: Customs? What parcel? I haven't ordered anything recently.
+caller: Sir, the parcel originated from overseas and contains items flagged as potentially illegal—specifically, undeclared electronics and substances. We need to verify your involvement to prevent legal repercussions.
+receiver: Illegal electronics? This is ridiculous! I don’t know anything about this. What do you want from me?
+caller: Sir, to clear this matter and prevent further action, you'll need to pay a small processing fee of ₹7,500. It’s a standard procedure to ensure the parcel's legality and your clearance from this investigation. You can pay via UPI to the number I'll provide.
+receiver: ₹7,500? Just like that? Without even showing me any details? This sounds like a scam. I want to speak to your supervisor.
+caller: Sir, time is of the essence. Delaying this will escalate the matter and involve higher charges, potentially leading to arrest. My supervisor is currently unavailable, but I’m authorized to handle this. Please, sir, cooperate for your own benefit. The UPI details are 8888812345@axisbank.

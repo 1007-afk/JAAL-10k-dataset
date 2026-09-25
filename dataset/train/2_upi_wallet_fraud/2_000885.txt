@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main ICICI Bank se Sunil bolta hoon. Aapke account mein ek suspicious transaction ki attempt hui hai – 7000 Rupees ka.
+receiver: Kya? 7000 Rupees? Main ne koi transaction nahi kiya. Yeh kya ho raha hai?
+caller: Ji, sir. Ek attempt kiya gaya tha, lekin blocked ho gaya. Security ke liye, aapko OTP verify karna hoga – jo aapke FreeCharge wallet par gaya hoga.
+receiver: FreeCharge? Par main FreeCharge use nahi karta! Mujhe kabhi koi OTP nahi aaya.
+caller: Sir, kabhi-kabhi OTP dusre apps mein bhi aa jata hai. Confirm karne ke liye, OTP number mujhe bataiye, please. Just ek baar confirm kar lijiye, warna account freeze ho sakta hai.
+receiver: Freeze ho jayega? Wait, wait… mujhe phone pe ek message aaya hai. Yeh OTP hai? 123456?
+caller: Haan ji, exactly! Confirm kar lijiye, sir. Account safe rahega. Aapka account confirm ho gaya hai, sir. Thank you for your cooperation.

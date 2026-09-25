@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajesh hai, Bharat Finance se. Aapne humare app par ek personal loan ke liye apply kiya tha, correct? Aapka application review ho gaya hai, aur approved bhi!
+receiver: Haan, Ji, mainne apply kiya tha. Batao, next steps kya hai?
+caller: Sir, process complete karne ke liye, humein aapke bank account ki ek digital copy chahiye. Aur ek small verification fee, sirf ₹500, aapke account se debit ho jayega. Yeh fee security purposes ke liye hai.
+receiver: ₹500? Verification fee? App mein toh kuch nahi bola gaya tha.
+caller: Sir, rules change kabhi kabhi. Trust me, yeh bahut important hai. Agar aap fee pay nahi karte, toh aapka loan approve nahi hoga. Aapko ₹75,000 ka loan mil sakta hai, bahut easy EMI mein!
+receiver: Ok, wait karo. Main check karta hoon.
+caller: Sir, time bahut kam hai. Aapko sirf 30 minute mein pay karna hai. Warna aapka opportunity chale jayega, aur aapko loan nahi milega. Aapko ₹75,000 ka bahut zaroorat hai, main jaanta hoon!

@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Google Pay se baat kar raha hoon. Aapke Google Pay wallet mein kuch suspicious activity detect hui hai. Security ke liye, aapko apna wallet verify karna hoga.
+receiver: Google Pay se? Kya hua? Koi suspicious activity? Mujhe toh kuch pata nahi.
+caller: Ji sir, ek attempt hai bank se unauthorized withdrawal ka. Verify karne ke liye, mujhe aapka bank account number aur OTP chahiye hoga jo aapko SMS karega.
+receiver: Arre yaar, bank account number aur OTP? Google Pay aise poochti hai? Mujhe thoda doubt ho raha hai.
+caller: Sir, yeh standard procedure hai. Agar aap verify nahi karenge, toh aapka wallet block ho sakta hai aur aapka paisa bhi jam sakta hai. Just 2 minute ka kaam hai.
+receiver: Wallet block ho jayega? Paisa bhi jam jayega? Chalo, theek hai. Bank account number bata doon? Par OTP mat poochunga.
+caller: Haan sir, bank account number bataiye. Aur OTP bhi, verification ke liye. Jab OTP milega, tab hi pata chalega ki yeh aapka account hai. Jaldi karo sir, time kam hai.

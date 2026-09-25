@@ -1,0 +1,9 @@
+caller: Namaste! Main CryptoGain se Rahul bol raha hoon. Aapka naam kya hai, sir?
+receiver: Namaste. Mera naam Sanjay Sharma hai. Kya baat hai?
+caller: Sanjay Sharma ji, CryptoGain mein hum ek limited-time opportunity offer kar rahe hain. Aap Rs. 5000 invest karein, aur ek hafte mein Rs. 15,000 tak kama sakte hain! Yeh ek guaranteed profit scheme hai, sirf CryptoGain members ke liye.
+receiver: Rs. 15,000 ek hafte mein? Guaranteed? Yeh thoda zyada lag raha hai. Koi risk toh hoga hi, na? Aur CryptoGain ka naam suna bhi nahi hai.
+caller: Sanjay Sharma ji, koi risk nahi hai! Yeh ek AI-powered trading system hai jo market trends predict karta hai. Aapka investment completely safe hai. Aap Paytm se deposit kar sakte hain. Our official Paytm number is 7891234567.
+receiver: Okay, Paytm number 7891234567. Aur withdrawal ke charges kya honge?
+caller: Withdrawal charges sirf 5% honge, Sanjay Sharma ji. Aur ek baar aap profit start kar rahe hain, toh woh kabhi nahi rukega.
+receiver: 5% charges? Theek hai. Aur mujhe kaise pata chalega ki mera investment kaha par hai, aur profit kitna ho raha hai?
+caller: Aapko ek daily report Telegram par milega, Sanjay Sharma ji. Aapko hum Telegram par add kar denge once you do the deposit. Jaldi karein, offer limited hai!

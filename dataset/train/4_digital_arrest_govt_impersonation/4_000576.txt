@@ -1,0 +1,6 @@
+caller: Namaste, I am calling from the Cyber Crime Investigation Cell, Delhi. We've detected suspicious activity linked to your Flipkart account - several large transactions originating from an unknown IP address.
+receiver: Cyber Crime? Flipkart account? What transactions? How much are we talking about? I haven’t made any big purchases recently.
+caller: Ji, we’ve flagged three transactions totaling ₹18,500 to various crypto wallets. This is a common tactic used by fraudsters. To secure your account and prevent further unauthorized access, we need to verify your identity.
+receiver: Crypto wallets? ₹18,500? That’s ridiculous! I don’t deal in crypto. I’m very careful with my Flipkart account. What proof do you have that these transactions even happened? Can you give me a reference number for this case?
+caller: Sir, providing detailed transaction records over the phone is against protocol. However, we can confirm they are appearing on the Flipkart server. For verification, can you please share the last four digits of your bank account linked to Flipkart and your OTP? It’s a standard security measure.
+receiver: Hold on! Last four digits of my bank account and OTP? That sounds incredibly risky. Why would the Cyber Crime Cell need that over the phone? I think this is a scam. I’m not giving you any information. I’m going to report this number.

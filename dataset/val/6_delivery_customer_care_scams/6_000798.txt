@@ -1,0 +1,7 @@
+caller: Namaste! Flipkart customer care se bol raha hoon. Aapke naam par ek order hai, tracking ID XYZ789. Par problem hai, payment complete nahi hua.
+receiver: Oh, really? That's strange. I thought it went through. My name is Priya Sharma.
+caller: Priya Sharma, ji. Haan, system mein showing nahi ho raha hai. Security ke liye, mujhe aapka OTP confirm karna hoga, jo aapko SMS se aaya hai.
+receiver: OTP? Why do you need my OTP? Flipkart never asked for OTP before.
+caller: Priya ji, yeh standard procedure hai. Fraud se bachne ke liye. OTP se hum verify karenge ki aap hi bol rahi hain. Bilkul secure hai. Please share it with me.
+receiver: I’m not comfortable sharing my OTP. I'll call Flipkart directly from their official number.
+caller: Priya ji, aap ghalat samajh rahi hain. Main khud Flipkart se hoon. Agar aap OTP nahi dengi, toh order cancel ho jayega aur aapka paisa bhi stuck ho jayega. Please, just the OTP.

@@ -1,0 +1,6 @@
+caller: Namaste, is this Priya Sharma? This is Rohan from BharatPe Customer Care. We’ve noticed some unusual activity on your account.
+receiver: BharatPe? Haan, I use it. What’s happened?
+caller: Sir, there’s been a small payment of ₹250 to an unknown merchant. It looks like a potential phishing attempt. To secure your account, we need to verify your details.
+receiver: ₹250? That's strange, I didn't make any such payment. What do you need to verify?
+caller: We just need a one-time OTP to block this suspicious transaction immediately. It will be sent to your registered mobile number. Please share it with me so we can resolve this right away.
+receiver: OTP? But why do you need my OTP? Shouldn’t I be calling BharatPe’s official number myself? I’m getting a bit worried now.

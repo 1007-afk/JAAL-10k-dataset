@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from SwiftLoans India. We noticed you recently applied for a personal loan. Congratulations! You've been pre-approved for ₹75,000. Just need to confirm a few details to finalize the process.
+receiver: Really? That’s good news. I did apply, but I wasn't sure if it would be approved. What details do you need?
+caller: Perfect! Just a small verification fee of ₹2,500 to activate your account and prevent fraud. This is a one-time charge, fully refundable once the loan is disbursed. You can pay using UPI to this ID: 8765432109@axisbank.
+receiver: ₹2,500? I don't remember seeing anything about a verification fee during the application. Usually, these things are mentioned upfront.
+caller: Yes, sir/madam, it's a new security protocol. Many people are trying to scam our system. This ensures your application is legitimate. Trust me, once the loan is approved, you’ll get your ₹75,000 plus the ₹2,500 back.  It’s a small price to pay for financial security.
+receiver: I’m still a little hesitant. Can you send me some documentation about this verification process? Like, an official SwiftLoans India letter or something?
+caller: Unfortunately, due to high application volumes, we don’t send physical letters. It's all online. But I assure you, SwiftLoans India is a completely legitimate company, registered with the RBI. Just pay the verification fee, and your loan will be processed immediately. We can even do a quick video call to verify your identity, if that makes you feel more comfortable.

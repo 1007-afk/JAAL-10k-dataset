@@ -1,0 +1,8 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapkaa PAN card number please bataiye sir?
+receiver: Namaste! Mein Sanjay Kumar hoon. Mera PAN card number hai 6789012345. Kya ho raha hai?
+caller: Sir, humare records mein pata chalna hai ki aapke PAN card mein koi mistake nahi hai. Ek small verification process chahte hain.
+receiver: Verification process? Kyu bhai? Mera PAN card number to correct hai. Mujhe samajh mein nahin aa raha hai.
+caller: Haanji Sanjay ji, humne aapke account mein recently kuch unusual transactions dekhe hain. Koi unfamiliar payment try kiya gaya hai. Isliye humne aapkaa PAN card temporarily freeze kar diya hai, agar koi damage na ho.
+receiver: Unusual transactions? Unfamiliar payments? Acha, yeh sunao, yeh verification process kaise hoga? Aur kya chahiye aapke se? Mera PAN card number already bata diya hai.
+caller: Sanjay ji, isko check karne ke liye humein aapke registered email id pe ek SMS aayega, woh SMS mein jo code hoga wo mujhe batana hoga. Yeh sirf aapki security ke liye hai, agar koi andar jaise kisi ne yeh update karaya toh. Is it clear?
+receiver: SMS? Email id pe? Par meri registered email id bhi band hai. Woh bahubhat logon ke pass hai. Aur verification bina email id ya SMS ke kaise hoga? Kya koi aur tareeka hai?

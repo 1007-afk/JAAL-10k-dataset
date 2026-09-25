@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me clearly? I’m calling regarding a fantastic offer – you’ve been chosen to receive a complimentary gift certificate worth ₹5000 from ‘Shree Electronics’! But before we proceed, I need to quickly check if you remember something simple. Let’s test your memory on the song “Chhalke Balam” by KK, from 2004. Which artist sang the chorus? Was it A - Sonu Nigam, B - Shreya Ghoshal, or C - Alka Yagnik? Please respond with A, B, or C.
+receiver: Ji, sunayega clear.  Kya aapka naam bata sakte hain? Aur yeh Chhalke Balam song ka question? Sonu Nigam tha, option A.
+caller: Wonderful! You remembered correctly, Sonu Nigam sang the chorus, option A. Amazing! Now, to activate your gift certificate, I require some basic information. Could you please provide your first and last name?
+receiver: Haan, Sonu Nigam hi tha.  Aur mera naam hai Rohan Verma. Ab gift certificate ke liye kya details chahiye?
+caller: Fantastic, Rohan! Thank you for confirming. To ensure smooth delivery, let’s verify your postal code. Could you please state your area code followed by the last four digits of your postcode?
+receiver: Postal code? Okay. Mera area code hai 9876 aur postcode ki last four digits hai 3456. Aapko yeh sab kuch gift certificate ke liye chahiye, na?
+caller: Exactly, 9876-3456. Absolutely, Rohan, this information is crucial for processing your gift certificate. And there's a small administrative charge of ₹250, payable immediately via UPI to secure your claim. Are you comfortable proceeding?
+receiver: Administrative charge? Just ₹250? That's surprising! You said there was no charge earlier. This sounds like a trick. I don’t want to give any money.

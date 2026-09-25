@@ -1,0 +1,11 @@
+caller: Namaste, Main Rohan hu NetSol Solutions se. Aapse ek important matter ke bare mein baat karna chahta hu. Aapke account mein ₹299 ka 'Premium Insights' report download karne ka attempt hua tha.
+receiver: Oh, ji Rohan. Main Priya Devi hoon. Mein report download nahi kiya tha.
+caller: Jeechha Priya Devi. Hamare records mein dikhta hai ki yeh attempt aapke account se hua tha. Ismein ek technical glitch hone ki kami nahin hai.
+receiver: Technical glitch? Mujhe nahi pata. Maine kuchh bhi download nahi kiya.
+caller: Don’t worry, Priya. We can fix this.  To resolve this, we need to verify your account first.  Can you provide me with the last four digits of the debit card you use for online payments?
+receiver: Ji, woh hain 7890.
+caller: Shukriya Priya.  Aur kya, aapka OTP (One Time Password) jo aapne Paytm par register kiya hai, wo bhi bataiye.
+receiver: OTP… hmm, woh 87654321.
+caller: Dhanyavaad.  Abhi humein refund mil jayega.  Aapko ₹299 waapas mein dainge.  Par, agar aapko koi problem ho toh humein bataiye.
+receiver: Ji Rohan, thank you.
+caller: Apka din khush rahe!

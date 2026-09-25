@@ -1,0 +1,8 @@
+caller: Namaste! Main CryptoGain se bol raha hoon. Aapko bitcoin mein invest karne ka ek bahut hi achha opportunity mila hai. Abhi ₹5000 invest karein aur ek mahine mein ₹15,000 tak kama sakte hain!
+receiver: Bitcoin? ₹5000 invest karke ₹15,000? Itna zyada profit? Ye kaise ho sakta hai?
+caller: Haan ji! CryptoGain ek new AI trading platform hai jo market trends ko predict karta hai aur automatically trade karta hai. Risk bilkul kam hai aur profit guaranteed hai! Aapko sirf apna wallet address dena hai.
+receiver: Wallet address? Woh mera MetaMask address?
+caller: Haan, wohi. Isse hum ₹5000 transfer karenge aur trading start ho jayegi. Aapko ek month mein profit dikhega. Yeh offer sirf aaj ke liye hai!
+receiver: Okay, mera MetaMask address hai 0x... (invented address). Par agar loss hua to?
+caller: Loss ka sawal hi nahi hai sir! Humara AI 99% accurate hai. Abhi ₹5000 transfer kijiye aur apne account ko verify karwa lijiye. Verification ke liye aapka bank account number aur OTP chahiye hoga.
+receiver: Bank account number? OTP? Wait a minute…

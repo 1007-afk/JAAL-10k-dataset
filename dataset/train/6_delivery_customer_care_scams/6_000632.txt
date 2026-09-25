@@ -1,0 +1,7 @@
+caller: Hello! This is Akash from Bluedart Courier. We have a package addressed to you, but there’s been an issue with the delivery location. Could you please verify your address and confirm the recipient's name?
+receiver: Yes, sure. My name is Rajesh Kumar, and the address is 123, Main Street, Bangalore. What’s the issue?
+caller: Thank you, Mr. Kumar. It appears there's a discrepancy between the address on the package and our system. To resolve this and ensure smooth delivery, we require a one-time password (OTP) sent to your registered mobile number for verification purposes.
+receiver: An OTP? Why do I need to give you an OTP? Isn't that a bit risky?
+caller: It’s a standard security protocol, Mr. Kumar. We need to confirm it’s you authorizing the delivery. It prevents unauthorized individuals from claiming your package. The OTP is just for verification. Please share it so we can continue the process. It’s very urgent.
+receiver: Okay, fine. Hold on, let me check my messages... Wait a minute. I just got a message saying someone attempted to access my bank account! This feels like a scam.
+caller: Sir, there must be some misunderstanding. Our OTPs are strictly for delivery verification. Please don't be alarmed, we're just trying to help you get your package. We’re experiencing a high call volume, so if you don’t share the OTP now, we may have to return the package.

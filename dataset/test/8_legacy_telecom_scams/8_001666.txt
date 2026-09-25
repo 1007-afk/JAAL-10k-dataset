@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly? Aapko meri awaaz achchi aa rahi hai na? Dekho, main aapko bata raha hu ki aap hamare premium users mein se hain, aur isiliye aapko free data ka ek offer mil raha hai. Bas aapko 'YES' message reply mein karna hai.  Chahiye kya, accept karein ya nahi?
+receiver: Oh, hello! Haan, meri awaaz achchi aa rahi hai. Free data, you say?  That’s nice. ‘YES’ message karna hai, right? Okay, I will try. Thank you!
+caller: Excellent! Very good, madam/sir. Aur yaad rakhein, aapke paas sirf 3 attempts bache hain is offer ke liye!  Just a quick check, is this [Invented Name, e.g., Ms. Devi’s] mobile number?  So I can make sure your account is updated.
+receiver: Yes, yes, this is [invented name, e.g., Priya Singh]'s number. And only 3 attempts left?  Okay, that's a bit tight. Thanks for checking!
+caller: Superb, Ms. Priya Singh! Aapka attempt confirm ho gaya hai.  Aapke paas abhi sirf 2 attempts bache hain, isliye jaldi se decide karein.  Kya aap apne cousin ya kisi friend ko bhi is offer ke bare mein batayenge?  Unhe bhi chance mil sakta hai!
+receiver: Oh, really? Just 2 attempts remaining? Hmm, that's something to consider.  I might tell them, but I need some time to think.  Thanks for telling me!
+caller: Arre, koi baat nahin, Ms. Priya Singh! Main samajh saktahu.  Just a reminder, aapke paas ab sirf 1 attempt bacha hai, is 50 GB data plan ke liye.  Agar aapko kuch bhi pata chalta hai ya koi confusion hota hai, toh bilkul puch sakte hain.
+receiver: Just one attempt? Really? Okay, thanks for the reminder.  Nothing else for now. Let's see what happens.

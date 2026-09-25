@@ -1,0 +1,7 @@
+caller: Namaste, sir? Yeh Bharat hai, calling se PhonePe Customer Care. Aapke PhonePe wallet mein aaj ek bahut bada cashback offer aaya hai – ₹5000 instant cashback.
+receiver: ₹5000? Wow! PhonePe ne offer diya hai? Mein check karta hoon.
+caller: Haan sir, par is offer ko claim karne ke liye, aapko ek small processing fee pay karna hoga. Sirf ₹199.
+receiver: ₹199? Itna kam? Kahan pay karna hai?
+caller: Aapko ek UPI collect request milega – ₹199 pay karne ke liye. Payment karne ke baad, cashback automatically aapke wallet mein add ho jayega. Collect request aaya toh uska OTP mujhe bata dena.
+receiver: Haan theek hai. Collect request aaya hai… OTP hai 458723.
+caller: Thank you sir! Cashback aapke account mein add ho gaya hai. Ab aap ₹5000 ka cashback use kar sakte hain. Bahut badhaayak offer tha, sir. Enjoy!

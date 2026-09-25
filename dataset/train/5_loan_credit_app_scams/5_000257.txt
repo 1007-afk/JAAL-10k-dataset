@@ -1,0 +1,8 @@
+caller: Namaste! My name is Ankit, calling from QuickCash Loans. We saw you applied for a personal loan on our website. Just confirming a few details to process your application quickly. Can I get your name, please?
+receiver: Hello, yes. My name is Suresh Kumar.
+caller: Wonderful, Suresh ji! Your application looks promising. We can offer you a loan up to ₹2 lakhs with a very attractive interest rate, just for existing customers. To verify, could you share the last four digits of your bank account number? This is just a formality.
+receiver: Sure, it's 4872.
+caller: Thank you, Suresh ji. Everything looks good so far. However, for security reasons, we need to send a small verification fee of ₹500 to confirm your account. This is a one-time charge and will be deducted from your loan amount. You can pay through UPI to this number – 9876543210.
+receiver: ₹500? I didn’t see anything about a fee on the website.
+caller: Yes Suresh ji, it is a new policy. It's to prevent fraudulent applications. Without it, we can't guarantee your loan approval and we'll have to cancel your application. We don’t want that, do we? Please send the money quickly.
+receiver: Okay, I'll transfer it.

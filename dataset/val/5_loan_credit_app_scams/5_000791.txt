@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Priya from LoanExpressIndia. I’m calling regarding your recent loan application. Congratulations, you’ve been pre-approved for a ₹75,000 loan with very low interest. Just need to verify a couple of details.
+receiver: Oh, really? That’s good news. I was looking for a loan to cover some medical bills. But I didn’t apply anywhere.
+caller: That's fine, sir. We've been running a promotional offer. To activate the loan, we need a small processing fee of ₹3,500 to cover verification charges and insurance. Just a one-time payment, sir. Very standard procedure.
+receiver: ₹3,500? That seems a bit high. I thought processing fees were much lower. And I haven’t even received any loan documents yet.
+caller: Sir, it’s to ensure your safety and prevent fraud. We need to verify your identity thoroughly. Plus, once the loan is disbursed, you can easily pay back the ₹3,500 with the first EMI.  We can send you a UPI link for the payment?
+receiver: Okay, fine. Send the UPI link. I’ll pay it, but I want to be sure this is legitimate.
+caller: Wonderful, sir! Here's the UPI ID: loanexpress.payments@axisbank. Just pay ₹3,500 and your loan will be processed immediately. After payment, we'll send you the loan agreement on WhatsApp.

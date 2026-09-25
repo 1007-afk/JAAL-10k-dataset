@@ -1,0 +1,9 @@
+caller: Namaste! Sir, this is Akash calling from SecureLoan Solutions. We've reviewed your application, and you’re pre-approved for a loan of ₹80,000. Just a quick verification process needed.
+receiver: Really? That's good news! I was hoping to get a loan. What kind of verification do you need?
+caller: Just a few details to confirm your identity. Can you please share the last four digits of your bank account number and your mother's maiden name? It’s standard procedure, sir, to prevent fraud.
+receiver: My bank account number? I'm a little hesitant to share that over the phone. It seems risky. Is this really SecureLoan Solutions? I can't find this company online.
+caller: Sir, don't worry, it's completely secure. We are regulated by the RBI. Look, there’s a processing fee of ₹7,500 that needs to be paid upfront to activate the loan. This is for insurance and legal verification. Once paid, the loan will be disbursed immediately. You can pay via UPI.
+receiver: ₹7,500 upfront? That’s a lot! I thought loans didn’t require upfront payments like that. I think I’ll just look at other options. I don’t feel comfortable with this.
+caller: Sir, this is a limited-time offer. If you don't pay the fee now, the pre-approval will expire, and you'll lose the opportunity. Also, we’ve noticed some suspicious activity on your account. To avoid any legal issues and potential police involvement for loan fraud, you need to complete the process immediately. Don't delay, sir!
+receiver: Police involvement? That’s ridiculous. I’m definitely not paying anything. You’re trying to scam me. Goodbye.
+caller:

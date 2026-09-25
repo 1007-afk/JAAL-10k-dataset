@@ -1,0 +1,8 @@
+caller: Hello? Sir/Madam, I'm calling from Orange to check on your mobile contract. It's been 11 months already, right?  We have some amazing FREE upgrades available for you - latest Motorola, Nokia, and more! Plus, we're doubling your minutes and texts on your current Orange tariff.  Are you interested in hearing more? Just text YES for a callback, or NO if you'd like to be removed from our records.
+receiver: Hello? Haan, 11 mahine ho gaye hain contract ko. FREE upgrades? Latest models bhi? Interesting lag raha hai. Minutes aur texts double? Woh toh achha hai. Dekho, abhi toh main thoda busy hoon, but mujhe interested toh hoon details sunne mein. YES type kar deta hoon, aap log mujhe callback kar lena. Thanks!
+caller: Great! Thank you for confirming. Hum aapko jald hi callback karenge with all the exciting details about your FREE upgrade and the double minutes and texts.  Just keep an eye on your phone! Thanks again for your time!
+receiver: Okay, thank you! Main wait karunga. Aap log mujhe kab tak call karoge generally?
+caller: Haan ji, aapko aaj shaam tak ya kal subah tak zaroor call aa jayegi. Hum try karenge ki jitni jaldi ho sake, aapko sab details de dein.  Thanks for your patience!
+receiver: Theek hai, samajh gaya. Shaam tak ya kal subah tak.  Good, good.  Thanks for the update!
+caller: Hello? Haan ji, I'm calling from Orange, this is Rahul speaking. Aapne kal hamein YES text kiya tha about your contract upgrade. I've got all the amazing FREE phone options and double minutes/texts details for you right here! Aap abhi baat kar sakte hain, ya aapko thoda time chahiye?
+receiver: Haan Rahul, yaad hai mujhe. Kal evening mein aap logo ne bola tha. Haan, abhi hi baat kar sakta hoon. Batao kya details hain.

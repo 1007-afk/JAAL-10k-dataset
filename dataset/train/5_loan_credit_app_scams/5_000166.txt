@@ -1,0 +1,9 @@
+caller: Namaste! Main Ashok Sharma, FastLoanSolutions se baat kar raha hoon. Aapne hamari website par personal loan ke liye apply kiya tha, isliye call kar raha hoon. Kya aap paas aadhaar card aur bank account details ready hain?
+receiver: Ji haan, Ashok ji. Aadhaar card toh hai, bank details bhi. What's the procedure?
+caller: Bahut achha! Ab, verification ke liye aapko ek small amount, sirf ₹2500, ek OTP se hamein send karna padega. Yeh sirf verification fee hai, aur loan amount transfer ho jaane ke baad refund kar denge.
+receiver: ₹2500? Refund kar denge? Loan kitna mil raha hai mujhe?
+caller: Ji haan, bilkul refund karenge. Aur aapko ₹75,000 tak ka loan mil sakta hai. Iske liye aapko ek UPI ID dena hoga, jahan transfer ho sakta hai.
+receiver: Okay, ek minute. Mujhe UPI ID dena hai?
+caller: Ji haan, UPI ID. FastLoanSolutions@hdfc bank pe send karein. Aur OTP bhi share karein, verification ke liye. Abhi karo, time limited hai.
+receiver: Wait a minute, I’ll check. This seems fishy.
+caller: Sir, jaldi karo! Offer sirf aaj ke liye hai. Agar aap delay karenge, toh offer cancel ho jayega.

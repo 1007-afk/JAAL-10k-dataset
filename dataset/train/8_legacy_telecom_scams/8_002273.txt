@@ -1,0 +1,15 @@
+caller: Namaste sir/madam, you’ve reached DigiConnect. Hoping you aren’t busy. We're offering incredible discounts on Jio Fiber plans - triple data and unlimited calls! And as a bonus, we're giving away Samsung Galaxy A13 smartphones absolutely free. It's a limited-time promotion, so we want to contact you urgently.
+receiver: Namaste! Triple data aur unlimited calls? Suno, bataiye mujhe yahaan par, ye offer kitna chahie?
+caller: Wonderful! Yes, it’s a fantastic opportunity. With this Jio Fiber plan, you’ll get three times more data than you currently use, plus unlimited calls to any network. And to make things even better, we're giving away brand new Samsung Galaxy A13 smartphones, totally free. Only 5 slots remaining, that’s why I'm calling you personally. Don't miss out, it’s going fast!
+receiver: Pata hai, toh mai sun raha hoon. Samsung Galaxy A13? Uska screen size kya hai? Aur yeh triple data kab tak valid rahega?
+caller: Absolutely! The Samsung Galaxy A13 has a beautiful 6.6-inch display, perfect for streaming videos and browsing the web. The triple data will be valid for 18 months, giving you plenty of time to enjoy it. We only have 2 slots left, so act fast!
+receiver: 18 mahine? Wow, yeh bahut achcha hai. Lekin, yeh smartphone kyon free mila raha hai? Agar mobile company ne provide kiya hai toh, toh unhone kya condition lagaaye honge?
+caller: That’s because we’ve partnered with Samsung India for this exclusive offer! There are no hidden conditions, just a simple agreement to activate the Jio Fiber plan within 30 days. After that, the phone remains yours. It’s a win-win situation, isn’t it?
+receiver: 30 dinon mein Jio Fiber activate karna hai? Okay, bataiye mujhe, yeh plan kitni mushkil hai install karne mein?
+caller: It’s incredibly easy, sir! Our technicians will handle everything. They'll set up the router and connect it to your home internet connection. All you need to do is plug it in and start enjoying high-speed internet. It takes less than an hour.
+receiver: Ek ghanta? Theek hai, thoda wait karna padega. Kya main online registration kar sakta hun, ya aap mujhe form bhejo?
+caller: You can register online through our website, www.digiconnect.com, or I can send you the form via WhatsApp. Which option is easier for you, sir?
+receiver: WhatsApp par form bheje. Mujhe number bataiye.
+caller: Your number is +91-9876543210. Please confirm, sir.
+receiver: Confirm, number correct hai. Thank you.
+caller: You’re most welcome, sir! Remember, only two slots remain. Don’t delay, secure your Jio Fiber and Samsung Galaxy A13 today!

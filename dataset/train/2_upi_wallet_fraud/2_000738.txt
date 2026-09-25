@@ -1,0 +1,7 @@
+caller: Namaste uncle, PhonePe se bol raha hoon. Aapke PhonePe account mein kuch suspicious activity detect hua hai. Security ke liye aapko verify karna hoga.
+receiver: Kya? Suspicious activity? Mein toh PhonePe regular use karta hoon. Verification ka kya tareeka hai?
+caller: Haan uncle, koi logon ne aapke account ki details steal karne ki koshish ki hai. Verification ke liye, aapko ek link pe click karna hoga aur kuch details fill karni hogi. Yeh link hai: phonepe.secureverify.com/update. Jaldi karo, warna account suspend ho sakta hai.
+receiver: Arre yaar, phonepe.secureverify.com? PhonePe ka official link toh phonepe.com hota hai na? Yeh thik lagta hai kya? Aur account suspend ho jayega?
+caller: Uncle, yeh ek new security protocol hai. Link change hua hai. Account suspend hoga 2 ghante mein. Koi tension nahi, bas link pe click karein aur details fill karein. Mein aapki help ke liye ready hoon.
+receiver: Okay, theek hai. Link open kar raha hoon. Kuch OTP aaya toh bata doonga.
+caller: Bahut achha uncle, screen pe jo bhi detail mange fill kar dijiye. Account secure ho jayega.

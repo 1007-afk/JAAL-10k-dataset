@@ -1,0 +1,6 @@
+caller: Namaste, Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Chennai se, lekin parcel mein illegal items mile hain.
+receiver: Kya? Illegal items? Mera naam? Yeh kya ho raha hai? Main toh kabhi Chennai se parcel nahi maanga.
+caller: Ji, sir. Parcel number IC-789456 hai. Parcel mein illegal drugs ki suspicion hai. Aapko trouble se bachne ke liye, humein parcel ke details ki zarurat hai, aur aapka bank account number bhi, taaki hum fine amount adjust kar saken.
+receiver: Wait, wait! Drugs? Bank account number? Yeh toh zyada hi suspicious lag raha hai. Main police station se contact karta hoon. Aap ka naam aur police station ka naam bataiye, main confirm karta hoon.
+caller: Sir, time bahut kam hai. Parcel abhi release ke liye ready nahi hai. Aapka cooperation bahut zaroori hai. Fine amount ₹15,000 hai, aur yeh ₹24 hours mein clear karna hai. Bank account number bataiye, taaki case close ho jaaye.
+receiver: Sir, mujhe maaf kijiye, main bank account number share nahi kar sakta. Aap ek official email ID ya phone number de sakte hain, jismein main confirm kar saku? Main apne bank se bhi contact karta hoon.

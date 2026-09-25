@@ -1,0 +1,8 @@
+caller: 
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: main Mr. Sharma bol raha hoon. Aapka bank account ke baare mein kuch important update hai, kya main aapko thoda time de sakta 
+receiver: Haanji, Mr. Sharma. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thank you. Actually, we've detected some unusual activity in your account, possibly a fraudulent transaction. To secure your funds, we need to verify some details. Can you confirm the last four digits of your account number?
+receiver: Acha? Unusual activity? Fraudulent transaction?  Yeh kya ho gaya?  Dekhiye, mera account number ka last four digits… woh toh abhi mere paas hai nahi.  Kya aap thoda wait kar sakte hain? Main dekh kar batata hoon?
+caller:  problem, sir. Take your time. Aisa karte hain, main aapko ek secure link bhej deta hoon. Usse aap apni details verify kar sakte hain. Woh bilkul safe aur official hai. Aapko kya lagta hai?
+receiver: Secure link? Aisa bilkul nahi ho sakta, Mr. Sharma. Bank kabhi bhi aise link nahi bhejta. Yeh toh lag raha hai koi fraud hai. Aapko koi link nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye. Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

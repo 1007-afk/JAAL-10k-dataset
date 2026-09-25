@@ -1,0 +1,10 @@
+caller: Hello, is this Priya? I'm Rajeev, we connected on Sunshine Hearts, right?
+receiver: Yes, Rajeev! Hi. How are you?
+caller: I'm doing great, thinking about you actually. I just got back from a short trip to Goa, it was beautiful. I was wishing you were there with me. I have something exciting to share, though it requires a little trust.
+receiver: Oh really? What is it? A surprise?
+caller: Yes, a surprise! I've been offered a fantastic business opportunity – a partnership in a new online boutique selling handmade crafts. It’s a real chance to make some serious money, but I need a small initial investment to secure the stock. Just 25,000 rupees to start. It'll double in a month, I promise.
+receiver: 25,000? That's a lot of money. Can you show me some details about this boutique?
+caller: Absolutely! I'll send you the details via WhatsApp. It's a secure platform and I can show you pictures of the craftspeople and their amazing work. Just send me your number so I can share the details privately. It’s a really good deal, Priya, and I want you to be a part of it.
+receiver: Okay, send me the number. But I'm still a bit hesitant.
+caller: No worries! I understand. Just imagine the returns! Think of it as an investment in our future, together. I’ll send you the contact of the artisan also, you can call and confirm.
+receiver: Alright, send the number and artisan contact. I need to talk to them.

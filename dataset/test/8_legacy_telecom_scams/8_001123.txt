@@ -1,0 +1,13 @@
+caller: Namaste! Yeh ₹500 ka prize money jo aapko WhatsApp par mila tha, uske bare mein baat karna hai. Aapne WhatsApp pe koi notification dekha tha ya nahi?
+receiver: Haanji, maine dekha tha. Koi notification aaya tha, “Aap ₹500 ka prize jeet gaye hain!”
+caller: Exactly! Toh, aapko bas apna verification number 6789 pass karna hai jab aap 09876543210 pe call karenge. Iske baad sab kuch automatically ho jayega. Aapko sirf ₹100 deposit karne hote hain, phir ₹500 aapke account mein transfer ho jayenge.
+receiver: ₹100 deposit? Kitna time lagega? Aur yeh bank kaise hoga?
+caller: Bank ka naam Reliance PayPlus hai. Deposit karna bohot easy hai, sirf UPI ID likke transfer karo. Iske badle mein aap ₹500 jeetoge. Yeh offer abhi till December end tk chalega.  Aapke paas sirf 5 prizes bache hain, so jaldi call karein 09876543210 pe.
+receiver:  December end tk? Okay, okay.  Verification number 6789… Theek hai, main call karunga.  Kitne prizes bache hain?
+caller:  Haanji, ab sirf 4 prizes bache hain.  Bahut mehnat lagayi hai humein is offer ko banane mein.  Aapko jaldi call karna hai, kyunki yeh opportunity tumhare liye wait nahi karega!  Call 09876543210 pe, aur verification number 6789 yaad rakhiyo.
+receiver:  4 prizes?  Wow, yeh bahut achcha hai!  Theek hai, main abhi hi call karungi. Dhanyavaad!
+caller:  Haanji, sirf 3 prizes bache hain ab.  Yeh ek limited edition offer hai, aur hum nahi chahte ki kisi ko miss ho jaaye.  Jaldi call karein 09876543210 pe, aur verification number 6789 pass karna mat bhulayen.
+receiver:  3 prizes?  Okay, okay, I'm calling now... Thank you very much!
+caller:  Haanji, sirf 2 prizes bache hain!  Aapko bahut dhanyavad!  Yeh offer abhi complete ho jaayega, so jaldi call karein 09876543210 pe.
+receiver:  Just one left!  I’ve called and got it!  Thank you so much!
+caller:  Haanji, congratulations!  Yeh ek unique opportunity thi, thank you!

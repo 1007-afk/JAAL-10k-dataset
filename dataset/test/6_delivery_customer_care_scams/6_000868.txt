@@ -1,0 +1,10 @@
+caller: Namaste! Mera naam Rohan hai, Flipkart customer care se. Aapko ek parcel delivery mein thodi dikkat aa rahi hai.
+receiver: Kya dikkat hai? Mujhe koi message nahi aaya.
+caller: Haan sir, ek delivery address mein confusion hai. Parcel aapke naam par aaya hai lekin delivery address match nahi ho raha. Yeh parcel ek expensive saree ka hai, jo ek bahut important client ne bheja hai.
+receiver: Saree? Main toh koi saree nahi maanga. Mera address sahi hai.
+caller: Haan sir, system mein kuch error dikh raha hai. Address confirm karne ke liye mujhe aapka OTP chahiye. Wo OTP aapke registered mobile number par aayega. Just confirm karna hai.
+receiver: OTP mat deko! Yeh scam lag raha hai. Flipkart kabhi OTP maangta nahi.
+caller: Sir, yeh security protocol hai. Woh bhi, saree bahut mahangi hai, aur delivery mein problem hai toh yeh saree lose ho sakta hai.  Agar aap OTP de de toh parcel safe delivery ho jayega. Please, sir!
+receiver: Nahi, nahi, OTP nahi de raha. Mai Flipkart customer care number se contact karunga.
+caller: Sir, please! Time is running out. Agar aap OTP nahi dete toh saree return ho jayega aur aapko loss hoga. Bas OTP dedo, ek minute ka kaam hai.
+receiver: Bilkul nahi! Mai phone cut kar raha hun. Yeh bohot hi badhiya cheating hai.

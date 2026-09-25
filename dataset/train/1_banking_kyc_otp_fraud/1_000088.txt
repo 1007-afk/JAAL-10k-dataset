@@ -1,0 +1,9 @@
+caller: Hello, I'm calling from ICICI Bank. We’re doing some security checks on your account. Would you like to verify it now?
+receiver: Oh really? What kind of details do you need to verify my account?
+caller: Right, to verify your account, we require your Voter ID, your latest Income Tax Return Number, and the last four digits of your credit card. This is just a standard procedure.
+receiver: Voter ID and Income Tax Return? That sounds like a lot of personal information. Is there no other way to do this? Like maybe through an online portal? But if that's truly necessary, tell me how I can safely provide those numbers.
+caller: It’s completely secure, we use advanced encryption. Just give us these details so we can ensure your account is protected. Don't worry about any doubts, I will clarify everything.
+receiver: Honestly, I’m feeling a little uneasy sharing all this over the phone. Is there perhaps an OTP sent to my registered mobile number? Or could I check through a nearby ATM? I want to make sure this is legitimate.
+caller: No OTP available, sir. ATMs cannot handle this type of verification. Please trust me, this is the standard protocol for securing accounts with significant transaction history. Just provide me with those numbers, and I’ll send you a confirmation SMS immediately after the verification is complete.
+receiver: Significant transaction history? I haven’t had much activity lately. Still, this feels a bit strange. Can you give me a direct customer service number where I can speak to someone about this? Or an email address where I can ask questions? Giving out this information over the phone doesn't sit well with me.
+caller: Absolutely! Here's our official helpline number: 1800-XXX-XXXX. You can also email us at support@icici.com. Please don't hesitate to reach out if you have any further queries.

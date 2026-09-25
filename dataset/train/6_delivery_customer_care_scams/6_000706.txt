@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rahul se bol raha hoon, Reliance Jio customer care se. Tumhara account mein ek suspicious transaction detect hua hai, ₹499 ka.
+receiver: ₹499? Kya transaction hua? Mujhe toh koi message nahi aaya.
+caller: Haan ji, ek online shopping site se hai, ‘ShopEasy’. Shayad aapne unknowingly kuch order kiya hai. Hamko isko resolve karna hai, warna account block ho sakta hai. Aapka OTP bataiye, hum check karenge.
+receiver: Wait, wait! Reliance ka koi bhi customer care representative kabhi bhi OTP puchhega nahi. Tum log fake ho. Reliance kabhi phone bhi nahi karta.
+caller: Arre, aisa mat samjho! Security ke liye hum OTP verify karna padta hai. Yeh offer sirf aaj ke liye hai. ShopEasy ne mistake se charge kar diya hai, hum return kar denge, lekin OTP zaroori hai. Jaldi bataiye!
+receiver: Bilkul nahi dunga! Tumhara number main block kar dungi. Yeh scam hai! Main police complaint bhi kar sakti hoon.
+caller: Sirf 1 minute! Yeh ₹499 aapka account se deduct hoga, lekin hum promise karte hain, return ho jayega. Aapka account safe rahega. Please, OTP bataiye!

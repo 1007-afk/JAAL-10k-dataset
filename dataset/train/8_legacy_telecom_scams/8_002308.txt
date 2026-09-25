@@ -1,0 +1,10 @@
+caller: Namaste, subah ki khushi! Ye Reliance Jio se baat ho rahi hai. Aapke mobile phone ka data plan expire ho chuka hai, aur humein pata chala hai ki aapko ek new plan ki zarurat hai.  Aapko ek special offer mila hai - ek free smartwatch ke liye upgrade!  Yeh offer sirf aaj raat 7 baje tak chal raha hai. Plz call us back at 9876543210.
+receiver: Namaste, ji. Jihaan, mera data plan expire ho gaya hai.  Reliance Jio?  Okay, okay, 9876543210...  Mujhe yeh number bataiyein,  kya smartwatch hai?  Brand name kya hai?
+caller: Haanji, yeh bohot hi amazing smartwatch hai - ‘FitTrack Pro’.  Ye fitness tracking features ke saath-saath, notification alerts bhi dega.  Aur yeh completely free hai, lekin aapko ek small activation fee dena hoga ₹299.  Yeh offer sirf aaj raat 7 baje tak chal raha hai,  toh jaldi call kar lijiye!
+receiver: ₹299? Activation fee?  Haanji,  yeh free nahi hai na?  Aapne kaha tha yeh completely free hai.  Koi terms and conditions hai?  Plzz tell me.
+caller:  Haanji, yeh activation fee smartwatch ko register karne ke liye hai, aur aapko warranty bhi milta hai.  Yeh ek limited time offer hai,  aur humein sirf few units bani hai.  Agar aapko interest hai toh jaldi call kar lijiye 09876543210.  Is offer ko miss mat karo!
+receiver:  Ji,  woh warranty acha hai.  Par activation fee ₹299…  Mujhe yeh confirm karna hai ki yeh smartwatch actually worth ₹299 ka hai.  Kaha pehle dekhoonga.  Thank you.
+caller:  Haanji,  yeh smartwatch ₹1500 ka hai, ma'am.  Aur aapko sirf ₹299 activation fee dena hoga.  Yeh ek bahut hi achcha deal hai!  Raat 7 baje tak wait mat karo!
+receiver:  Okay,  ₹1500 ka smartwatch ₹299 mein?  Thoda surprising hai.  Main thode der mein call karungi 09876543210,  abhi confirm kar le.
+caller:  Bilkul, ma’am.  Aapko koi confusion nahi hona chahiye.  Humari team aapki madad karne ke liye ready hai.  Is offer ko secure karne ke liye, aaj hi call kar lijiye 09876543210.  Yeh offer sirf aaj raat 7 baje tak chalega!
+receiver:  Theek hai,  thoda patience rakhti hoon.  Thanks!

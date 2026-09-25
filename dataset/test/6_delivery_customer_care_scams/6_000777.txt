@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart se Deepak bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch galti hai.
+receiver: Oh, kya galti hai? Mujhe to koi notification nahi aaya.
+caller: Haan ji, system mein dikh raha hai ke aapka pin code galat hai. Parcel return hone wala hai. Hamara warehouse ek special offer kar raha hai - agar aap sahi address confirm kar lijiye aur ₹200 ka ‘verification charge’ pay kar dijiye, to hum parcel dobara aapke address par bhej denge free of cost.
+receiver: ₹200? Verification charge? Flipkart aise nahi karta hota.
+caller: Ji, yeh ek limited-time offer hai, sirf scam prevention ke liye. Aapko OTP via SMS milega, woh mujhe bataiye.
+receiver:  Ek minute, main Flipkart ki website check karta hoon. 
+caller: Jaldi kijiye sir, offer khatam hone wala hai! Agar parcel return ho gaya to aapko dobara delivery charges dene padenge, aur kuch irsade bhi ho sakte hain. Please bataiye OTP!

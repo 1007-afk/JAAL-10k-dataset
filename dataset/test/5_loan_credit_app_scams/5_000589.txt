@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Verma, QuickCredit Solutions se bol raha hoon. Aapki file approve ho gayi hai 75,000 rupay ka loan ke liye. Apna phone number verify kar sakte hain?
+receiver: Haan, sahi number hai. QuickCredit Solutions? Mai toh koi application nahi kiya tha.
+caller: Arre, aapne toh hamari website par form fill kiya tha, mujhe lagta hai. Check karwa len, aapko confirmation message mila hoga. Abhi paisa transfer karne ke liye kuch details chahiye.
+receiver: Form fill kiya tha, mujhe yaad nahi. Lekin koi message nahi mila. Aur koi details kyun chahiye?
+caller: Sirf verification ke liye, bank account number aur OTP number chahiye. Aise hi paar minute mein transfer ho jayega. Agar OTP share nahi karenge, to offer cancel ho jayega, aur aapka credit score bhi affect hoga.
+receiver: Credit score affect? Main sochu. Tumhara helpline number dedo.
+caller: Helpline number 9876543210 hai. Jaldi karo sir, offer limited time ke liye hai.
+receiver: Theek hai, mujhe ek second dedo.

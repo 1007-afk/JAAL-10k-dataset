@@ -1,0 +1,7 @@
+caller: Hello! Kaise ho? I’m calling from 'RapidCredit'. We’ve pre-approved you for a loan of ₹50,000 with very easy terms. Just need to verify a few details.
+receiver: Really? ₹50,000? That’s great! I could really use it right now. What details do you need?
+caller: Just your OTP that was sent to your phone for security verification. And a small processing fee of ₹2,500 to activate the loan. We'll refund it once the loan is disbursed.
+receiver: ₹2,500? That seems a bit much for processing. Is it really necessary?
+caller: It’s standard procedure, madam.  Without it, we cannot release the funds. Many have tried to scam us, so we have to be very careful. Don’t risk losing your opportunity. Send the OTP and the money.  Remember, this is a limited-time offer!
+receiver: Okay, wait. I’ll just double-check something first. Can you give me a reference number for this loan application? And a proper helpline number to call if I have any issues?
+caller: Reference number is RC78945. Helpline is 9876543210.  Now quickly send the OTP and the processing fee, before the offer expires!

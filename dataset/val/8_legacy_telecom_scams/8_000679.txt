@@ -1,0 +1,8 @@
+caller: Hello? Hello, Ms. Sharma? Can you hear me clearly? This is Priya from Secure Rewards. I’m calling to share some exciting news! You've been selected as a winner for our Luxury Getaway Package! Isn’t that wonderful?
+receiver: Hello, Priya? Yes, I can hear you. Secure Rewards? A luxury getaway? Really? I won something? Thank you! That's incredible!
+caller: Yes, Ms. Sharma, truly wonderful! You have been chosen to receive this amazing package! There’s just a small step we need to take to ensure its safe and secure delivery. Are you available to chat briefly right now?
+receiver: Yes, Priya, I am free. Tell me what needs to be done. Is there any paperwork involved or something else?
+caller: Fantastic, Ms. Sharma! So, all we require is a quick verification process. It’s a very simple procedure; you’ll just provide us with your postal code and a few essential details to guarantee the prize reaches you safely. Could you tell me your full name and delivery address, please?
+receiver: Yes, certainly. My name is Kavita Sharma. And my address is… 47, Oak Street, Sunnyvale.
+caller: Excellent, Kavita! Thank you for that information. Now, could you please provide your year of birth? This is purely for security purposes to confirm you’re the rightful recipient of this prize.
+receiver: My year of birth is… 23rd January, 1988. Anything else needed?

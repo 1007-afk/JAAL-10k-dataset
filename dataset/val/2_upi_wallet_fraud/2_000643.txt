@@ -1,0 +1,6 @@
+caller: Namaste! Mera naam Ravi hai, Axis Bank se. Aapke Bank Account mein kuch suspicious activity detect hui hai. Kisi ne ek OTP request kiya hai jo aapne nahi kiya.
+receiver: Kya? Mere account mein suspicious activity? Woh kya transaction tha? Mujhe toh koi message nahi aaya.
+caller: Sir, yeh ek online transaction tha BharatPe par. ₹7,500 ka transaction attempt kiya gaya tha, par woh fail ho gaya. Ab humein confirm karna hai ki aapka account safe hai. Isliye aapko ek OTP send kiya hai.
+receiver: ₹7,500? Maine BharatPe kabhi use hi nahi kiya! Yeh toh scam lag raha hai. Mein koi OTP nahi de sakta.
+caller: Sir, aapki fikar sahi hai. Par aapka trust karna zaroori hai. OTP dene se aapka account safe ho jayega. Aur humein aapko is transaction ke bare mein aur details deni hogi. Sir, ek minute rukiye, main apne system check karta hoon.
+receiver: Theek hai, par koi bhi details share karne se pehle, mujhe confirm chahiye ki aap Axis Bank se hi bol rahe hain. Aap mujhe koi local branch number toh bata sakte hain jahan main call karke verify kar sakoon?

@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul se bol raha hoon, LoanExpress se. Aapne hamare app se personal loan apply kiya tha, sir?
+receiver: Haan, ji. Maine apply kiya tha. Kya updates hain?
+caller: Bilkul! Aapka application approve ho gaya hai, sir! ₹75,000 tak ka loan, sirf pan card aur aadhar card ke saath. Bahut easy process hai.
+receiver: ₹75,000? Lekin main toh sirf ₹20,000 ka apply kiya tha. Aur koi fees toh nahi lag rahi na?
+caller: Sir, process fees ke ₹2,500 lagenge, verification ke liye. Aur loan amount ₹75,000 hi approve huyi hai, kyunki aapki credit score bahut achchi hai. Payment karne ke liye aapko ek UPI ID dunga, sir.
+receiver: ₹2,500 fees? Aur ₹75,000 ka loan? Mujhe doubt ho raha hai. Main sochta hoon.
+caller: Sir, yeh limited time offer hai! Agar aap abhi payment nahi karte, toh offer cancel ho jayega. Jaldi karo sir! Main aapko ek number de raha hoon, is par payment karein – 9876543210. Abhi karo, sir!

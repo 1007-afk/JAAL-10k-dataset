@@ -1,0 +1,6 @@
+caller: Namaste! Mai Paytm Se Rahul Bol Raha Hu. Aapke Paytm account mein cashback offer aaya hai - ₹5000 ka cashback, sirf ₹500 ka processing fee bhar kar!
+receiver: ₹5000 ka cashback? Aur ₹500 fee? Koi offer aisa toh sunne mein achcha lagta hai, lekin yeh sahi hai kya? Paytm toh aise offers kabhi nahi deta.
+caller: Haan sir, yeh ek limited time offer hai, sirf select users ke liye. Yeh offer aapke Paytm app mein nahi dikhega, isliye main aapko call kar raha hu. Aapko bas ek OTP verify karna hai, aur ₹500 fee bhar deni hai.
+receiver: OTP? Aur fee bhi? Yeh thoda suspect lag raha hai. Mai apna OTP kisi ko bhi nahi bataunga.
+caller: Sir, please understand, yeh aapki security ke liye hai. OTP se yeh pata chalega ki aap hi account holder hain. Fee bina bhare cashback nahi milega, yeh Paytm ka rule hai. Jab aap ₹500 fee bhar denge, cashback instant aapke account mein deposit ho jayega.
+receiver: ₹500 fee Paytm ke customer care number pe call karke verify kar sakta hu. Mai abhi confirm nahi kar sakta, aur OTP bhi nahi bataunga.

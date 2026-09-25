@@ -1,0 +1,18 @@
+caller: Namaste! Aapse baat ho rahi hai 'Golden Rewards' se. Aapke 2018 ke account statement mein ek important notification hai. Aapke account mein 1234 bonus points hain jo redeem nahi huiye hain.
+receiver: Namaste ji, aap kaise hain? Haan, maine us statement ko dekha tha. Woh points kab tak redeem karne hai?
+caller: Points redeem karne ka time bahut jaldi aa gaya hai, sir. Aaj hi redeem karein, warna woh expire ho jayenge. Unhein expire hone se bachaane ke liye, aapko apni unique ID lagani hogi, jo 8765 hai.
+receiver: Unique ID? 8765? Mein woh abhi bataunga. Agar ye scam hai toh mujhe maaf kijiye.
+caller: Koi baat nahi, sir. Par agar aap apni points redeem nahi karte, toh aapko ₹5000 ka loss hoga. Yeh ek limited offer hai, sirf aaj raat tak chal raha hai. Aapko apne bank account ka IFSC code bataana hoga, jisse hum points transfer kar sakte hain.
+receiver: Bank account ka IFSC code? Haan ji, woh HDFC00001234 hai.
+caller: Dhanyavaad! Ab, verification ke liye, humein aapke mobile number ka last 3 digit bataaoge. Yeh sirf aapki identity check karne ke liye hai.
+receiver: Mobile number ka last 3 digit? Woh 567 hai.
+caller: Shukriya! Ji, aapke points abhi transfer ho rahe hain. Aapko SMS ke zaroorat nahi hai. Aapko bas kuch minute ka intezaar karna hoga.
+caller: नमस्ते! आपकी कॉल ‘स्मार्ट डील’ से है। आपके 2022 के खाते में एक महत्वपूर्ण जानकारी है। आपके खाते में 9876 बोनस पॉइंट हैं जो अभी तक रिडीम नहीं हुए हैं।
+receiver: नमस्ते, क्या हाल है? हाँ, मैंने स्टेटमेंट देखा था। ये पॉइंट कब तक रिडीम करने हैं?
+caller: पॉइंट रिडीम करने का समय बहुत जल्दी आ गया है, भाई साहब। आज ही रिडीम करो, वरना ये एक्सपायर हो जाएंगे। उन्हें एक्सपायर होने से बचाने के लिए, आपको अपनी यूनिक आईडी देनी होगी, जो 2345 है।
+receiver: यूनिक आईडी? 2345? मैं वो अभी बताता हूँ। अगर ये स्कैम है तो मुझे माफ़ कीजिए।
+caller: कोई बात नहीं, भाई। लेकिन अगर आप अपने पॉइंट रिडीम नहीं करते, तो आपको ₹8000 का नुकसान होगा। यह एक लिमिटेड ऑफर है, सिर्फ आज रात तक चल रहा है। आपको अपने बैंक अकाउंट का IFSC कोड देना होगा, जिससे हम पॉइंट ट्रांसफर कर सकते हैं।
+receiver: बैंक अकाउंट का IFSC कोड? हाँ जी, वो ICICI00006789 है।
+caller: धन्यवाद! अब, वेरिफिकेशन के लिए, हमें आपसे आपके मोबाइल नंबर का लास्ट 3 डिजिट बताना होगा। ये सिर्फ आपकी पहचान चेक करने के लिए है।
+receiver: मोबाइल नंबर का लास्ट 3 डिजिट? वो 345 है।
+caller: शुक्रिया! जी, आपके पॉइंट अभी ट्रांसफर हो रहे हैं। आपको एसएमएस की ज़रूरत नहीं है। आपको बस कुछ मिनट का इंतज़ार करना होगा।

@@ -1,0 +1,7 @@
+caller: Namaste sir/madam, this is Anjali calling from InstaCash Loans. We've noticed you recently applied for a personal loan. Just confirming your details to process it quickly.
+receiver: Oh, yes! I did apply. I need it for some urgent medical expenses. What details do you need?
+caller: Great! Just a quick verification. Can you share your registered mobile number and the last four digits of your Aadhaar card, please? This is standard procedure for KYC compliance.
+receiver: My mobile number is 9876543210, and the last four digits of my Aadhaar are 1234. Is that alright?
+caller: Perfect, sir! Your loan is approved for ₹80,000! But before we disburse, there's a one-time processing fee of ₹7,500. It will be credited back to you once the loan is active. You can pay using UPI, any UPI will do?
+receiver: ₹7,500? That seems a lot for a processing fee. I thought these loans were supposed to be instant and easy. Are you sure about this?
+caller: Sir, it is, but this fee ensures the security of your transaction. Plus, it unlocks a special interest rate for you. If you don't pay now, your loan approval will expire within the hour. This is your only chance!

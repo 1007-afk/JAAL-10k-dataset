@@ -1,0 +1,11 @@
+caller: Namaste, mai hu Inspector Verma, Customs Department se. Aapke naam par ek parcel aaya hai, jo Mumbai airport par stuck hai.
+receiver: Customs? Parcel? Mujhe toh koi parcel order karne ki yaad nahi.
+caller: Haan ji. Parcel mein illegal items paye gaye hain - documents ke according, yeh drugs se related hai.
+receiver: Drugs? Yeh mazaak hai kya? Mein toh kabhi drugs nahi leta.
+caller: Look, we have evidence. We need to verify your involvement. We need you to stay on this call while we process your case.  There’s a ₹15,000 fine to clear this.
+receiver: ₹15,000? Aur is call par rehna kyun chahiye? Mein koi proof dekhna chahta hu.
+caller: Ma’am/Sir, this is standard procedure. We are initiating legal action. If you refuse to cooperate, we will have to issue a warrant.  We also need you to install TeamViewer on your computer, so we can check your device for any suspicious activity.
+receiver: TeamViewer? Warrant? Yeh theek nahi hai. Mein police station jaunga.
+caller: Please don't hang up. We can resolve this quickly. Just install TeamViewer, and we will guide you.  It's for your safety.  We need to see you are not involved in this.
+receiver: Nahi, main TeamViewer nahi install karunga. Aapko mera mobile number aur details kyun chahiye? Yeh scam hai!
+caller: Ma’am/Sir, your lack of cooperation is concerning. To avoid further legal complications, please transfer ₹5,000 as a processing fee to this UPI ID: 7894561230.

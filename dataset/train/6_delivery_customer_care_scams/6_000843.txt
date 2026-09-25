@@ -1,0 +1,9 @@
+caller: Namaste, sir! Is this Mr. Rajesh Kumar?
+receiver: Haan, bolie. Who’s calling?
+caller: Sir, this is Akash from BlueStar Courier. We have a package addressed to you, but there's been an issue with the delivery address. It seems there’s a discrepancy.
+receiver: Discrepancy? What kind of discrepancy? I was expecting a new smart TV.
+caller: Yes sir, the pin code is incorrect in our system. To ensure the package reaches you safely, we need to verify your identity. Can you please provide the last four digits of your credit card used for the purchase? Just for security purposes, sir.
+receiver: Credit card details? Over the phone? That seems a bit risky, doesn't it? I paid with UPI.
+caller: Sir, with UPI, the transaction sometimes gets flagged.  The system requires us to confirm the address against the payment method. Just the last four digits are needed, sir. Otherwise, we’ll have to return the TV to the sender, and you’ll lose it.
+receiver: Okay, fine. It's 4782. But I’m still a bit unsure about this.
+caller: Thank you, sir. Just one more quick verification. Could you please share the OTP you just received on your registered mobile number? We need to ensure it's you.

@@ -1,0 +1,7 @@
+caller: Hello sir, this is Axis Bank customer service. We've noticed some unusual activity on your Paytm wallet.
+receiver: Unusual activity? What kind of activity? Is everything alright?
+caller: Yes sir, but to secure your funds, we need to verify a small transaction of ₹500. This is just a security check. We’ll send you a collect request on Paytm.
+receiver: ₹500? Why a collect request? Can't you just verify over the phone? And why Paytm? I usually use net banking for these things.
+caller: Sir, this is a new security protocol. The collect request is encrypted and safe. If you don’t accept it within 15 minutes, we’ll have to temporarily freeze your wallet for security reasons.
+receiver: Freeze my wallet? But I need to use Paytm for my daily expenses! Fine, send the request, but I'm still not comfortable with this. What’s the reference number for this verification?
+caller: Absolutely sir. The reference number is AXB-SEC-7890. Please accept the collect request promptly. It’s for your safety. Don’t worry, the ₹500 will be returned to your wallet immediately after verification.

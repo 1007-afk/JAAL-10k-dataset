@@ -1,0 +1,6 @@
+caller: Hello, this is Raj from Axis Bank security. We’ve noticed some unusual activity on your linked UPI account – specifically, a series of small transactions to a newly registered merchant, ‘Global Trade Solutions’.
+receiver: Haan? What unusual activity? I haven’t done anything different. I only use UPI for paying my electricity bill and buying groceries.
+caller: Exactly, sir! That's why we're alerting you. It appears someone might be testing your UPI details. To secure your account, we need to verify a one-time password we’re sending to your registered mobile number. Please provide it to us.
+receiver: Wait a minute. Axis Bank never asks for OTP over the phone. This sounds fishy. And why are you telling me about a merchant I’ve never heard of?
+caller: Sir, this is a security protocol to prevent unauthorized access. We're acting swiftly to protect your funds. If you don't respond immediately, we may have to temporarily suspend your account for your own safety. Please, just give me the OTP.
+receiver: Suspend my account? See, that's exactly what a scammer would say. I’m calling Axis Bank's official customer care number right now to report this. You stay away from my account.

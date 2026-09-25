@@ -1,0 +1,9 @@
+caller: Hello? Is this Mr. Sharma? This is Inspector Singh from the Delhi Customs Department. We've intercepted a parcel registered under your name containing suspicious items. It appears to be linked to an investigation regarding illegal import of restricted goods.
+receiver: Haan, bolie. Sharma yahan hoon. Illegal import? Mein toh kuch import nahi kiya.
+caller: Sir, our records indicate a shipment arrived yesterday. We need to verify your involvement. To clear this, you’ll need to pay a small processing fee of ₹8,500 to expedite the inspection. Please transfer it to the account number provided: 1234567890.
+receiver: ₹8,500? Lekin main toh kuch order kiya hi nahin hai. Yeh kya ho raha hai? Koi proof hai tumhare paas?
+caller: Sir, we can't release the parcel without this verification fee. Delaying it will only complicate matters and could lead to further legal action. For your security, we're putting you on a video call with our senior officer. Please remain on this line.
+receiver: Video call? Mujhe yeh zyada suspicious lag raha hai. Main police station jaata hoon, wah jaakar baat karta hoon.
+caller: Sir, please do not make hasty decisions. This is a sensitive matter. Refusing to cooperate will be seen negatively by the authorities. To avoid further scrutiny and ensure a smooth resolution, kindly transfer the ₹8,500. We need to resolve this urgently before the parcel is destroyed.
+receiver: Achha, theek hai. Main transfer karta hoon. Par mujhe receipt milni chahiye, aur tumhara naam aur department ka proof bhi.
+caller: Absolutely, Sir. After the transfer, please send us a screenshot of the transaction. We will then provide you with a clearance receipt and an official confirmation letter. Once verified, the parcel will be

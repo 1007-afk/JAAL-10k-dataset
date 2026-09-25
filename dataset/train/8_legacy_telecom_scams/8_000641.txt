@@ -1,0 +1,16 @@
+caller: Namaste ji, main Airtel se baat kar raha hoon. Aapke liye ek bahut hi achhi baatein hain! Aapne hamare Diwali Sale mein ₹5000 jeete hain! Congratulations!
+receiver: Oh my god! Seriously? ₹5000? That’s fantastic news! Kya sale tha woh? Main abhi yaad nahin karta.
+caller: Haan ji, hamare Diwali Special Offer mein yeh offer tha, madam/sir. Bas aapko ye prize unlock karne ke liye 9876543210 pe call karna hoga. Itni simple hai!
+receiver: Okay, 9876543210? Aur agar prize unlock karne ke liye koi extra steps hain ya koi form fill karna hai?
+caller: Nahi ji, absolutely not! Aapko bas us number pe call karna hai, aur wahan par aapko complete details mil jayenge. Bahut easy hai. Aapka number bataiye madam/sir, taaki main check kar saku ki yeh aapke liye hi hai?
+receiver: Mera number hai 9XXXXXXXXXX. Aur aapne kaha na ki Airtel se ho? Yeh Airtel ka official number hai kya?
+caller: Haan ji, completely official hai! Aur number bhi aapka maine verify kar liya hai. Ab bas aap us number pe call kijiye, aur prize claim kar lijiye. Koi problem nahi hogi.
+receiver: Okay, I will call that number. And how long do I have to claim this prize? Is there any deadline?
+caller: Assalam o Alaikum, main Jio se bol raha hoon. Aapke liye ek suparb khabari hai! Aapne hamare Summer Dhamaka campaign mein ₹2000 jeete hain! Congratulations!
+receiver: Wah! ₹2000? Really? Which campaign was that? I don't remember anything.
+caller: Haan ji, hamare Monsoon Mania promotion mein yeh offer tha, sir/madam. Bas aapko ye voucher redeem karne ke liye 8888999888 pe call karna hoga. Itni simple hai!
+receiver: 8888999888? And if I need to redeem the voucher, are there any other requirements like filling out a form?
+caller: Nahi ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan par aapko all information milega. Bahut easy hai. Aapka number bataiye sir/madam, taaki main confirm kar saku ki yeh aapke liye hai?
+receiver: My number is 7XXXXXXXXX. And you said you were from Jio, right? Is this a genuine Jio number?
+caller: Haan ji, totally genuine hai! Aur number bhi aapka maine check kar liya hai. Ab bas aap us number pe call kijiye, aur voucher redeem kar lijiye. Koi confusion nahi hogi.
+receiver: Alright, I'll give that number a try. And how much time do I have to use this voucher? Is there a validity period?

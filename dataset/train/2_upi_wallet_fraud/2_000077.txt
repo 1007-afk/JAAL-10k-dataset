@@ -1,0 +1,7 @@
+caller: Hello sir, mai PhonePe se Atul bolta hun. Aapke PhonePe account mein security breach ka attempt hua hai.
+receiver: Kya? Security breach? Kaunsa breach? Mere account mein toh kuch dikh nahi raha.
+caller: Haan sir, ek suspicious login attempt tha. Aapko apne account ko secure karne ke liye ek verification process complete karna padega. Warna account block ho sakta hai.
+receiver: Verification? Kaise karenge? Mujhe koi OTP aaya nahi hai. Aur block hoga toh main kaise transactions karunga?
+caller: Sir, OTP nahi bheja jayega. Yeh new protocol hai. Aapko PhonePe app mein 'Security Update' option mil jayega, us par click karke kuch details update karni hai. Woh details update kar do, 2 ghante mein aapka account secure ho jayega.
+receiver: 'Security Update' option kahan milega? App mein bahut se options hain, mujhe dikha do please. Aur yeh details kya update karni hai?
+caller: Sir, app ke home screen par niche 'More' option par click karein, phir 'Security & Privacy' jao, wahan 'Security Update' mil jayega. Aapko bas apna registered phone number aur email address confirm karna hai.

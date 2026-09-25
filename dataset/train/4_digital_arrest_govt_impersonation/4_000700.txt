@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We need to speak with you urgently regarding a package intercepted at Indira Gandhi International Airport.
+receiver: Haan, bolie. Sharma bol raha hoon. Package? Kya baat hai?
+caller: Sir, the package bears your name and address, but contains items flagged as potentially linked to illegal cryptocurrency trading and money laundering. This is a very serious matter, sir. We need to verify some details to clear this up before further action is taken.
+receiver: Illegal cryptocurrency? Money laundering? Yeh kya keh rahe hain aap? Maine toh kabhi kuch aisa nahi kiya. Package kisne bheja hai?
+caller: Sir, we're investigating the sender at this time. However, to proceed, we require a small processing fee to cover the forensic analysis of the package contents. Just ₹7,500 via Paytm. This will expedite the verification and prevent any legal complications for you. We need this urgently, sir.
+receiver: ₹7,500? Kehne se thoda zyada lag raha hai. Forensic analysis? I want to speak to your senior officer.
+caller: Sir, this is a standard procedure. We can connect you with my supervisor, but the fee is non-negotiable.  Time is of the essence, sir.  We are currently video conferencing with several other individuals linked to this investigation. Remain on the line, and I'll patch you through.
+receiver: Video conferencing? Okay, wait. But I'm going to quickly check something...
+caller: Absolutely, sir. Please do. We'll be right here. Don't worry, everything will be resolved quickly.

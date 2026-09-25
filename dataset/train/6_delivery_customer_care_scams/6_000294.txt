@@ -1,0 +1,7 @@
+caller: Namaste Aunty! Mai Akash se baat kar raha hoon, Zomato customer care se. Aapke recent order mein kuch problem hai. Payment fail ho gaya tha.
+receiver: Zomato? Mere order mein problem? Main toh payment kar diya tha.
+caller: Haan Aunty, system mein dikh nahi raha.  Aapko ₹1500 refund karne ke liye OTP chahiye.  Aur verification ke liye, apne bank account ka last four digits bataiye.
+receiver: ₹1500 refund?  Bank details?  Yeh thoda fishy lag raha hai. Zomato kabhi aise nahi poochta.
+caller: Aunty, time is important.  Agar aap OTP nahi denge toh refund nahi hoga aur order cancel bhi ho jayega.  Fraud se bachte hain.  Abhi jaldi se bataiye.
+receiver: Okay, wait a minute.  Mai Zomato app check karti hoon. Thoda time do.
+caller: Aunty, 2 minute mein bataiye, otherwise system automatically cancel kar dega. Last four digits aur OTP.

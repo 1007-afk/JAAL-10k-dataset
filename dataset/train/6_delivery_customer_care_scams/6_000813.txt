@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? This is Akash from QuickShip Logistics. We're calling regarding a parcel addressed to you. There appears to be a discrepancy with the delivery address and a customs clearance fee of ₹2,800 is required before we can proceed.
+receiver: ₹2,800? Parcel ka? Mujhe toh koi order nahi yaad hai. QuickShip Logistics? Mein toh kabhi is company se kuchh order nahi kiya.
+caller: Sir, it seems the order was placed through a third-party vendor. It's a high-value item, possibly electronics. The customs fee is mandatory, sir. To avoid the parcel being returned to the sender, please pay the fee immediately. You can use UPI – my number is 7893456123.
+receiver: Thoda wait karo. Mein check karta hoon. Koi order number toh batao, main apne online accounts mein dekhta hoon. Aur is number pe payment karne se koi risk toh nahi hoga na?
+caller: Absolutely no risk, sir. The order number is QSL78492. You can verify it on our website, quickshiplogistics.in – although the system may take a few minutes to update. Time is of the essence, sir, as the parcel is currently at our Delhi hub.
+receiver: Quickshiplogistics.in? Dekhta hoon… yeh website toh fake lag rahi hai. Sir, mujhe toh yeh scam jaisa lag raha hai. Mein nahi de raha hoon koi payment.
+caller: Sir, please don't be alarmed. Our systems are perfectly secure. We are under strict instructions to collect this fee. Without payment, your parcel will be returned, and you will lose the item entirely. This is a standard procedure, sir. Please cooperate.

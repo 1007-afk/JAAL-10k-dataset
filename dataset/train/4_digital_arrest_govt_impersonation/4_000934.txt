@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We've intercepted a parcel at Indira Gandhi International Airport addressed to you containing suspicious items.
+receiver: Haan, bolie. Customs? Kya hua parcel ke saath? Mein toh koi parcel nahi bheja.
+caller: Madam, our scanners flagged the parcel. Preliminary investigation suggests it contains undeclared high-value electronics and what appears to be some illegal substances. You’ll need to cooperate fully to clear this matter. We'll need to start a video verification call.
+receiver: Illegal substances? Are you serious? Mein toh kabhi parcel nahi bheja! Mujhe kuch samajh nahi aa raha. Kaise clear karun main ye matter?
+caller: Madam, to avoid legal complications and potential arrest, we require a small processing fee of ₹15,000 to expedite the verification and clear the parcel. We can do a video call now to confirm your identity and details. This will ensure it gets released quickly.
+receiver: ₹15,000? Mein video call karungi, lekin pehle mujhe clear bataiye ki yeh parcel kaise aaya mere naam par? Aur kisne bheja? Mein toh kabhi online shopping bhi nahi karti!
+caller: Madam, we understand your concern. The parcel sender is currently being investigated, but we cannot disclose that information at this time. To continue the verification process and release the parcel, you’ll need to transfer the ₹15,000 to the following UPI ID: [Invent a fake UPI ID, e.g., customs.verification@axis]. Once verified, we’ll proceed with the video call.
+receiver: Wait a minute! This sounds very suspicious. I’m not paying anything until I verify this with my family. I'm going to call the Delhi Customs helpline myself.

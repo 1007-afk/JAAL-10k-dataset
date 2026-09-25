@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Sharma speaking? This is Raj from SecurePay Logistics.
+receiver: Haan, main Mrs. Sharma. Bolo, kya baat hai?
+caller: Ji, Mrs. Sharma. We have a slight issue with your recent order from Meesho. It seems there’s a discrepancy with the payment details. To ensure smooth delivery, we need to verify a one-time password. We’ve sent it to your registered mobile number.
+receiver: Payment discrepancy? Meesho ka order? Mujhe yaad nahi aa raha Meesho se koi order kiya tha. OTP kidher aaya?
+caller:  Ji, please check your SMS. It should have arrived a few seconds ago. The OTP is crucial to unlock the delivery and prevent it from being returned to the sender. We're experiencing a very high volume of deliveries right now, so prompt verification is essential.
+receiver: Haan, haan, dekh rahi hoon. Ek OTP aaya hai - 482917. Kya karna hai isse?
+caller: Excellent! Please share the OTP with me so I can complete the verification process. Don't share it with anyone else, Mrs. Sharma. We just need it for security purposes.
+receiver:  482917.  Aur kuch chahiye? Meri account number ya bank details?
+caller: No, no, Mrs. Sharma. That's absolutely not required. Just confirm the OTP, and your package will be on its way. As a thank you for your prompt response, we're offering you a small discount on your next Meesho purchase – a special SecurePay reward!

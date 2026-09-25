@@ -1,0 +1,8 @@
+caller: Namaste, main DigiConnect se bol raha hoon. Aapke Reliance Jio broadband connection par 6 mahine ke liye data boost karne ka ek bahut hi achcha offer mila hai! Aapko har bujhe 5 GB extra data milega, aur saath mein 300 SMS bhi free. Kya aap iske baare mein baat karna chahte hain? Call to opt-out kar sakte hain agar nahi chahiye toh. Thank you.
+receiver: DigiConnect se? Haan, main thodi busy hoon. Kya aap aajkal koi andra time convenient honge? Aur koi specific time bataiye jab mai free hoon.
+caller: Ji bilkul, main samajh sakta hoon. Aaj raat 7 baje call kar loon? Us time aap free honge shayad? Yeh offer bohot achcha hai, isliye main chahta hoon aap iske baare mein sunlein. Agar nahi pasand aaya toh koi baat nahi, aap call to opt-out kar sakte hain.
+receiver: Raat 7? Hmm, main woh din ghar ke kaam mein hoon. Kya aap shahar me koi time aapke liye convenient rahega? Ya fir shaam ko koi time aapke liye better lagega? Kyunki yeh offer genuinely interesting lag raha hai, aur main chahta hoon ki main pura details sun sakoon without any rush.
+caller: Ji haan, shahar me subah 9 baje ka time bilkul theek rahega! Ya phir shaam ko bhi koi time aapko convenient lage toh bata dijiye. Main aapko sabhi details achche se samjha dunga. Aapka time waste nahi hoga, promise!
+receiver: Theek hai, shahar me subah 9 baje perfect hai. Shaam ka time mujhe bilkul convenient nahi hoga. Agar koi late change ho toh main aapko call krake bata dunga. Thanks!
+caller: Perfect! Toh shahar me kal subah 9 baje main aapko call karunga. Aapka naam jaan sakta hoon main? Taaki kal call par main aapka naam use kar sakoon. Shukriya!
+receiver: Haan, main Vijay Kumar hoon. Kal subah 9 baje milte hain. Bye!

@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Bharatpe se Rohit bol raha hoon. Aapke Bharatpe wallet mein ek cashback offer hai, government ki taraf se.
+receiver: Cashback offer? Bharatpe mein? Mujhe toh kuch notification nahi aaya.
+caller: Haan aunty, offer limited time ke liye hai. Aapko sirf ek small processing fee bhar deni hai, ₹500 ka, then ₹5000 ka cashback aapke wallet mein credit ho jayega.
+receiver: ₹5000 ka cashback? Aur mujhe processing fee bharani padegi? Yeh thoda suspect lag raha hai. Bharatpe app mein toh kuch dikh nahi raha.
+caller: Aunty, processing fee sirf verification ke liye hai. Hamara system verify karta hai ki aap eligible hain ya nahi. Aapko Paytm ya GPay se ₹500 send kar den, main aapko transaction ID de doonga.
+receiver: ₹500 Paytm se send karun? Aur transaction ID milne ke baad kya karunga? Mujhe confirm karo ki yeh Bharatpe ka hi offer hai. Koi phone number do jisse mai check kar sakoon.
+caller: Aunty, transaction ID se aapka account activate ho jayega, aur cashback automatic credit ho jayega. Main aapko Bharatpe customer care ka number de deta hoon, 9876543210. Call karke confirm kar lijiye. Jaldi kijiye, offer abhi khatam hone wala hai.
+receiver: Wait karo, wait karo. Mai pehle Bharatpe app mein check karti hoon.

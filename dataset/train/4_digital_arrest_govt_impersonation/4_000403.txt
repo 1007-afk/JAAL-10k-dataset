@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is the Customs Department, Delhi. We have a serious issue regarding a package registered under your name.
+receiver: Haan, main Mr. Sharma. Customs Department? Package? Mainne toh koi package nahi bheja.
+caller: Sir, a parcel containing suspicious items has been intercepted at the airport. It seems to be linked to money laundering activities. We need to verify some details urgently to prevent further legal complications.
+receiver: Yeh kya keh rahe hain aap? Money laundering? Main toh aisa kuch nahi karta. Aapko kaise pata ki yeh mera parcel hai? Aur koi legal complications?
+caller: Sir, the tracking details show the parcel was shipped from a foreign country using your address. To clear this matter and avoid arrest, you need to pay a small processing fee of ₹15,000 to secure the release of the package and close the investigation. We can arrange a video call to verify your identity.
+receiver: ₹15,000? Arrest? Sir, this sounds like a scam. Why would I pay to clear my name? Can you give me a case reference number and the name of the officer in charge?
+caller: Mr. Sharma, we understand your concern, but time is of the essence. Delaying this will only escalate the situation and potentially involve higher authorities. For security reasons, we cannot disclose the officer’s name over the phone. The reference number is CD-2024-789-DL. We can initiate the video call now to show you the evidence. The money needs to be deposited immediately into this account: [provides a long, random number]
+receiver: Wait a minute! CD-2024-789-DL? This number doesn't feel right. I'm calling the real Customs Department to verify this. Thank you for the “information” but I suspect this is

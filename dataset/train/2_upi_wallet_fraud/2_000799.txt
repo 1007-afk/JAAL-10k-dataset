@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Aapke BharatPay wallet mein ek pending transaction hai.
+receiver: Pending transaction? Kya transaction hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, ek online order hai ₹2500 ka, jo incomplete ho gaya hai. Transaction complete karne ke liye, aapko ek OTP verify karna hoga. Isse aapka account secure rahega aur ₹2500 ka refund bhi jaldi ho jaega.
+receiver: ₹2500? Mujhe yaad nahi, maine ₹2500 ka order kiya tha kya? Aur OTP kahan aayega?
+caller: Haan ji, ek clothing website par aapne order kiya tha. OTP aapke registered mobile number par aayega. Jaldi karo, offer khatam hone wala hai! Verification ke baad, ₹2500 refund hoga aur aapko ek bonus bhi milega!
+receiver: Bonus? Kitna bonus milega? Aur mujhe kuch doubt ho raha hai, BharatPay ka koi customer care number hai kya jo main call kar sakta hoon?
+caller: Bonus ₹1000 ka milega, sir! Par customer care pe wait karne mein time kharab ho jayega, aur offer bhi end ho jayegi. Jaldi se OTP de dijiye, ₹3500 aapke account mein deposit ho jaayega!
+receiver: ₹3500? Thoda wait toh kar sakta hoon… Main BharatPay app mein check karta hoon.

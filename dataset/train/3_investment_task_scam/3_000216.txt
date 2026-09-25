@@ -1,0 +1,24 @@
+caller: Haanji, woh... woh to sirf aaj ke liye valid hai! Kal nahi milenga. Aur Orange, woh... woh ek bahut famous brand hai, don't worry! Camera bahut achcha hai, warranty hai, 1 year ka! Aur weekend calls unlimited... woh toh 'free' hai!  Aapke paas sirf 1 offer bacha hai!  Jaldi kijiye, dil se kijiye!  Call karein, 08000839402!
+caller: Congratulations! You have been selected for our exclusive Diwali promotion! Your device needs an immediate update to ensure optimal performance and security. Please provide your full name and address for verification purposes.
+receiver: What kind of update? And why does my device need it immediately?
+caller: It’s a critical security patch that protects against recent vulnerabilities. We need to confirm your identity to proceed.
+receiver: Can I see a screenshot of the vulnerability report?
+caller: Unfortunately, we cannot share detailed technical information due to security protocols. However, we can assure you that this is a genuine concern.
+receiver: Okay, let’s move on to payment details. Could you please provide your credit card number?
+caller: Just a small fee to cover the processing costs – approximately ₹500.
+receiver: That’s quite expensive! Why such a high fee?
+caller: It’s a mandatory charge for secure transactions. Don’t worry, it will be refunded after the update is complete.
+receiver: Refund? When will I receive the refund?
+caller: Within 7-10 business days. Please provide your bank account details for the refund process.
+receiver: Are you sure about this? This sounds too good to be true.
+caller: Absolutely! We value your safety and security above all else. Please proceed with providing your details.
+receiver: I think I’ll cancel the update.
+caller: Oh no! But you were so close to securing a fantastic deal! Let me persuade you one last time…
+caller: Imagine yourself enjoying seamless connectivity and peace of mind knowing your device is protected. It’s a small investment for long-term security.
+receiver: I still don’t feel comfortable.
+caller: One final offer – if you agree now, I’ll throw in a free extended warranty for another year!
+receiver: Seriously?
+caller: Yes, absolutely! Consider it a gesture of goodwill. Please confirm your agreement.
+receiver: Alright, fine. I’ll give it a try.
+caller: Wonderful! Now, let’s get started with your personal information…
+caller: Thank you for choosing our services! Enjoy your updated device and enhanced security!

@@ -1,0 +1,11 @@
+caller: Namaste, sir. Mera naam Rohan hai, main SecureLoanHub se bol raha hoon. Aapne online form bharaya tha urgent loan ke liye, hai na?
+receiver: Haan, ji. Mainne ek form bhara tha. Kuch emergency hai.
+caller: Samajh gaya. Aapko kitone amount chahiye tha, sir? Aur kya aapka pan card aur aadhaar card ready hai? Humari process bahut simple hai.
+receiver: ₹30,000 chahiye tha. Haan, woh documents ready hai.
+caller: Excellent! Ab, sir, humein sirf ek small processing fee chahiye – ₹2500.  Yeh aapke account mein transfer karenge, aur then loan approve ho jayega.  Aapko call bhi aayegi approval confirmation ki.
+receiver: ₹2500? Lekin maine toh free loan ke bare mein suna tha.
+caller: Sir, yeh security check hai.  Agar aap nahi bharte, toh application reject ho jayega. Abhi ₹2500 transfer karein, otherwise kal tak approval nahi hoga. Account number hai… [provides a random account number].
+receiver: Theek hai, mein transfer karta hoon.
+caller: Bahut achha sir! Transfer hone ke baad mujhe call karein. Aur ek baat, aapko apne relative ya dost ke bhi loan ki requirement ho toh humein refer karein. Yeh number yaad rakhna - 9876543210.
+receiver: Ok, sir. Thank you.
+caller: Koi baat nahi sir! Hum hamesha aapki madad ke liye haazir hain. Jaldi call karna, transfer ke baad.

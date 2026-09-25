@@ -1,0 +1,7 @@
+caller: Namaste! Namaste! Kaise haal hai? Yeh ek important announcement hai aapke liye! Hum Madhya Pradesh Lottery Company se baat kar rahe hain. Aapne ek jackpot jeeta hai! ₹87,500! Hai na, kya baat hai?  Aapko sirf ek baar call karna hai aur phir aapko paisa mil jayega.  Aapka number 7894561230 par jo diya hai, wahi number please batayein.
+receiver: Namaste! Ji, sunai mili. Lottery company se? Jackpot jeeta? ₹87,500?  Wow!  Haan, meri number 7894561230 hai.  Ji, bolna.
+caller: Shubh din! Rahul Kumar ji, aapki lottery ticket number 1234567890 hai.  Aapne ₹87,500 jeete hain!  Par, agar aap poora paisa lena chahte hain, to humein aapke bank account ki details chahiye honi chahiye.  Just few questions, kaise?
+receiver: Bank account ki details?  Kab tak chalega yeh?  Mujhe thoda time lag rahi hai yeh bataane.  Meri account number hai [Invented Account Number, e.g., 12345678901], IFSC code hai [Invented IFSC Code, e.g., SBIN0000123] aur mein Delhi mein rehta hoon.
+caller:  Delhi mein?  Excellent!  Rahul Kumar ji, humein ek small verification call karna hoga.  Yeh sirf aapke paiso ko secure rakhne ke liye hai.  Agar aapko koi doubt hai, to aap 9977665544 par call kar sakte hain.  Aapko kitna paisa chahiye, Rahul Kumar ji?  ₹87,500, sahi hai na?
+receiver: Haan, sahi hai. ₹87,500.  Bas mujhe jaana hai.  Thank you!
+caller:  Aapka swagat hai Rahul Kumar ji!  Prize mil jaye aapko jaldi se!  Aapko koi aur information chahiye ho toh humein call karte reh sakte hain.  Shubh noapte!

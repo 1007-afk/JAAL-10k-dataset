@@ -1,0 +1,6 @@
+caller: Namaste! Mai Axis Bank se Anjali bol rahi hoon. Aapke PhonePe wallet mein ₹7,800 ka pending transaction dikha raha hai, jo ek suspicious website se kiya gaya hai.
+receiver: Yeh kya? Mere PhonePe mein suspicious transaction? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, system ne detect kiya hai. Aapko isko immediately block karna hoga aur verify karna hoga, warna aapka account suspend ho sakta hai. Iske liye, aapko ₹50 ka verification fee deposit karna hoga.
+receiver: ₹50 verification fee? PhonePe mein kabhi koi fee nahi lagti. Yeh to scam lag raha hai.
+caller: Sir, security ke liye ye mandatory hai. ₹50 aapko UPI ke zariye send karne hain, ek specific number pe. Mai aapko number de rahi hoon: 98765-43210. Jab fee deposit ho jayegi, toh hum aapka account unlock kar denge.
+receiver: ₹50 send karu? Dekhte hain. Par agar koi chalu nahi hua toh?

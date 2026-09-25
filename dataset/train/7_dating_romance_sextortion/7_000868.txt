@@ -1,0 +1,6 @@
+caller: Namaste! I'm Rohan, I saw your profile on 'Dil Se' and thought you were absolutely beautiful. You have such a warm smile! I hope you’re having a lovely evening.
+receiver: Hello Rohan! Thank you so much. That's very kind of you to say. Evening is nice, just relaxing at home. You too! What do you do?
+caller: I'm a doctor, working in a hospital here in London. It’s quite demanding, but I love helping people. I was just thinking about taking a short break somewhere tropical - maybe the Maldives. It would be wonderful to have someone to share that with.
+receiver: A doctor! That's a very important job. Maldives sounds amazing! Very busy, I imagine. I work in IT, it's not as heroic, but keeps things running smoothly. I’ve been thinking about a holiday too.
+caller: That’s wonderful! Listen, something a bit urgent has come up. My mother had a fall and needs an operation. The hospital is asking for a quick advance to cover the initial costs, about 50,000 rupees. I’m trying to sort everything, but I'm stretched thin at the moment. Could you possibly help me out with a small amount? I'll pay you back the moment I get paid.
+receiver: Oh my goodness, that’s terrible! I’m so sorry to hear about your mother. Of course, I want to help if I can. How soon do you need it?

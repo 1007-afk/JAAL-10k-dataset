@@ -1,0 +1,8 @@
+caller: Hello! Fantastic news! You’ve been selected for a chance to win a ‘Golden Gadget Rewards’ bonus – 750 rupees worth of genuine Golden Gadget gift cards! To enter, just answer 3 very quick questions. It’s incredibly easy, and you could be driving home with some seriously awesome rewards. Just text ‘GG’ to 77777 to participate. More details can be found at www.gadgetsforever.in. So, excited to give it a shot?
+receiver: Hello! Seriously? 750 rupees worth of Golden Gadget gift cards? That's incredible! To enter, I just need to send ‘GG’ to 77777, correct? And the website is www.gadgetsforever.in. Yes, absolutely, I am keen to try my luck. Sounds really simple!
+caller: Wonderful to hear! Let’s get started with the first question.  What's your most used social media platform? Don’t worry about giving a detailed answer, just tell me which one you use most often.
+receiver: Okay, first question. Most used social media… hmm, I’d say Instagram. I spend hours scrolling through it every day.
+caller: Instagram, great choice! Many of our lucky winners are big Instagram users. Now, onto the second question.  What’s your favorite type of technology product? Just name one thing you love using.
+receiver: Technology product? Hmm, well, I really like my smartwatch. It’s so convenient and keeps me connected all the time.
+caller: Smartwatch, excellent! Very popular these days. Almost done! Final question: If you could travel anywhere in India, where would you go? Any city or place will do.
+receiver: Anywhere in India? That's tough! But I think I’d pick Goa. It’s known for its beaches and relaxed vibe, aur woh food bhi bahut tasty hota hai.

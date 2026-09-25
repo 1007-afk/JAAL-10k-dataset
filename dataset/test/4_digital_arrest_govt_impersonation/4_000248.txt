@@ -1,0 +1,9 @@
+caller: Namaste, main Indian Customs se Inspector Rajeev Verma bol raha hoon. Aapke naam par ek parcel aaya hai Nepal se, jismein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Maine toh koi parcel order kiya hi nahi! Yeh kaise ho sakta hai?
+caller: Sir, parcel mein suspicious documents aur electronics hain.  Yeh money laundering se link ho sakte hain. Aapko ek case number diya ja raha hai – IC-78923.  Aapko is matter mein cooperate karna hoga.
+receiver: Case number? Sir, mujhe toh kuch samajh nahi aa raha hai.  Mai toh itni cheezein ka deal nahi karta.  Yeh parcel kis naam se aaya hai?
+caller: Parcel aapke naam se hi aaya hai, Rahul Sharma. Aur aapko yeh matter settle karne ke liye 50,000 rupees ka fine bhar na hoga. Yeh fine legal process ka hissa hai, aur isko online transfer karke de dijiyega. Mai aapko bank details de deta hoon.
+receiver: 50,000? Yeh bahut zyada lag raha hai! Aur mai bank details online kaise check karunga? Mujhe lagta hai kuch gadbad hai. Aapka naam aur department check kar sakta hoon.
+caller: Rahul ji, time bahut kam hai.  Agar aap cooperate nahi karenge, toh hamein aapko arrest karna padega. Main aapko Zoom call pe connect karta hoon, jahaan senior officers aapke saath baat karenge. Aapka mobile number lock kar lijiye taaki koi disturbance na ho.
+receiver: Arrest? Abhi arrest nahi karenge na? Main zara apne advocate se baat karta hoon, aur fir dekhta hoon. Aap wait kijiye.
+caller: Rahul ji, advocate se baat karne mein time lagega, aur yeh matter serious hai. Aapko jald se jald decision

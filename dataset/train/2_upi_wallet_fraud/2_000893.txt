@@ -1,0 +1,8 @@
+caller: Namaste! This is Ankit from Payzi Customer Support. We’ve detected a small issue with your Payzi account and a pending cashback offer.
+receiver: Payzi? Kya baat hai? What issue?
+caller: Seems like you recently qualified for a ₹500 cashback promotion on a mobile recharge, but the transaction didn't fully complete. We just need to verify a few details to release the cashback to your account.
+receiver: ₹500 cashback? Really? Mein recharge toh karta hu kabhi kabhi.
+caller: Absolutely! To proceed, could you quickly share the last four digits of the bank account linked to your Payzi wallet? It’s just for verification purposes, sir.
+receiver: Umm… Okay, it’s 4567.
+caller: Thank you! Now, for extra security, can you also provide the OTP you just received on your registered mobile number? This will quickly finalize the process and ensure the cashback is credited correctly.
+receiver: OTP? Wait a second... Why do I need to give you an OTP to get cashback? Something doesn't feel right.

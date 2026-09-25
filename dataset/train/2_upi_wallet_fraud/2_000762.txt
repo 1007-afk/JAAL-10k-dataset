@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein Amazon Cashback Service se bol raha hoon. Aapne recently Amazon se ek product buy kiya tha, kya?
+receiver: Haan, bilkul. Maine kuch din pehle ek phone buy kiya tha.
+caller: Bahut achha! Ab Amazon aapko is purchase par ₹5000 ka cashback de raha hai. Lekin cashback claim karne ke liye, aapko ek small verification process complete karna padega.
+receiver: ₹5000 ka cashback? Mujhe toh koi notification nahi aaya. Verification process kya hai?
+caller: Verification ke liye, mujhe aapke PhonePe wallet mein linked bank account ka last 4 digits aur ek OTP chahiye. Yeh sirf cashback process ka hissa hai. Koi tension nahi lene ka.
+receiver: Bank account ka last 4 digits? Aur OTP bhi? Mujhe yeh thoda suspicious lag raha hai. Amazon toh aise nahi karta.
+caller: Sir, yeh ek security measure hai. Hamara system automatic OTP send karta hai. Aapko bas OTP mujhe bata dena hai, aur cashback aapke wallet mein deposit ho jayega. Abhi jaldi karo, offer limited time ke liye hai.
+receiver: Wait a minute. Let me check my Amazon app first.

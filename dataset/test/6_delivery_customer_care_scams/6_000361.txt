@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? This is urgent regarding a pending payment for a courier shipment from Bluestar Logistics. We’ve noticed a discrepancy in the payment details and need to resolve this quickly to ensure delivery. Please call us immediately on 07838102976.
+receiver: Courier shipment? I don’t remember ordering anything. And I’m not Mr. Verma, this is Mrs. Khanna speaking.
+caller: My apologies, Mrs. Khanna. The system flagged this address and a Mr. Verma. Perhaps he recently moved in? Regardless, the shipment is time-sensitive and requires immediate attention. To avoid a return fee of ₹750, please confirm the payment details. We need a one-time OTP for verification.
+receiver: ₹750? For what? I still haven't ordered anything. What's the tracking number for this shipment? And who sent it?
+caller: The tracking number is BL789456123. It's a package from ShoppersStop. Due to a security breach, we're implementing a mandatory OTP verification process. Just a one-time code to secure your account and prevent fraudulent activity. Please share the OTP immediately so we can process it.
+receiver: ShoppersStop? I haven't ordered anything from them either. This is starting to sound suspicious. I'm not giving you any OTP. 
+caller: Mrs. Khanna, I understand your concern, but this is a standard security protocol. To prove authenticity, I can offer you a small discount on the delivery fee if you cooperate. A small payment of ₹200 plus the OTP will be sufficient. Just think of it as a gesture of goodwill!
+receiver: No, thank you. I’m going to call ShoppersStop directly to confirm this. You can consider this conversation over.

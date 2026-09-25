@@ -1,0 +1,13 @@
+caller: Namaste, main State Bank of India se Rahul Sharma bol raha hoon. Aapka naam Anjali Verma hai, kya?
+receiver: Haan, main Anjali Verma hoon. Bolo, kya baat hai?
+caller: Anjali ji, humein aapke account mein ek suspicious transaction ka notification mila hai. ₹12,000 Amazon pe gaya hai. Aapne kiya tha ye transaction?
+receiver: ₹12,000 Amazon pe? Nahi, mainne toh kabhi Amazon se kuch nahi kharida aaj tak.
+caller: Haan ji, Anjali ji. Yeh bahut serious hai. Account secure karne ke liye, humein aapka KYC update karna hoga urgently. Iske liye, mujhe aapka Aadhaar card number aur OTP chahiye.
+receiver: Aadhaar card number aur OTP? Par yeh bank ne kabhi phone pe nahi maanga hai.
+caller: Anjali ji, time bahut kam hai. Account suspend bhi ho sakta hai agar aap verify nahi karte. Main aapko bank ke official OTP sending app ka link bhej raha hoon, usmein aap apna Aadhaar number dalenge aur phir OTP verify karenge.
+receiver: Official OTP sending app ka link? Mujhe toh koi link nahi mila. Aur main bank ki website par jaakar khud verify kar sakti hoon na?
+caller: Anjali ji, website par verification process bahut slow hai aur aapka account ko risk mein daal sakta hai. Yeh direct process hai, jisse aapka account safe rahega. Please, jaldi karo.
+receiver: Mujhe yeh sab kuch suspicious lag raha hai. Main kisi bhi personal detail share nahi karungi phone pe. Aap mujhe bank ka phone number de, main khud call kar ke verify karungi.
+caller: Anjali ji, yeh bank ka official number hai, par is number se meri call ki ja rahi hai. Aapko mere hi voice mein confidence hona chahiye. Just OTP share karo, bas.
+receiver: Confidence? Main toh fir se phone kaat rahi hoon. Aapko meri koi bhi information nahi millegi.
+caller: Anjali Verma ji? Anjali Verma ji?

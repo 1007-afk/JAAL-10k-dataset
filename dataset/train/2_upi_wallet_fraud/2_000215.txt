@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mein PhonePe support se Atul bolta hoon. Aapke account mein kuch suspicious activity dikh rahi hai.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya. Mere account mein kitna paisa hai?
+caller: Sir, ek bahut chhoti amount, ₹50, ek unknown number pe gaya hai. Isko revert karna hai otherwise aapka account block ho sakta hai. Government ne naya rule banaya hai.
+receiver: ₹50? Aur account block ho jayega? Yeh kya rule hai? Mujhe toh koi bhi confirmation message nahi mila.
+caller: Haan sir, confirm karna zaruri hai. Confirm karne ke liye aapko ek OTP mil jayega, woh OTP mujhe bataiye. OTP se pata chal jayega ke aap hi account use kar rahe hain.
+receiver: OTP? PhonePe toh kabhi OTP phone pe nahi maangta. Mein kisi website pe jaoonga nahi.
+caller: Sir, yeh urgent hai. Account block hone se pehle OTP bataiye, please. Warna aapka paisa bhi chala jayega aur account bhi block ho jayega.

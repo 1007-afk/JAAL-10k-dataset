@@ -1,0 +1,6 @@
+caller: Namaste! Main Flipkart Customer Care se Rohit bol raha hoon. Aapko ek achhi khabar hai – aapke account par ₹5000 ka cashback winning hua hai! Yeh ek Diwali special offer hai.
+receiver: ₹5000 cashback? Flipkart se? Mujhe koi email ya SMS nahi aaya.
+caller: Haan, sir. System automatically select karta hai winners. Abhi aapko sirf ek small processing fee bharne ki zaroorat hai – ₹999. Iske baad cashback aapke wallet mein transfer ho jayega.
+receiver: ₹999? Processing fee? Flipkart toh aise kabhi nahi kaha. Yeh kuch ghalat lag raha hai.
+caller: Sir, yeh ek limited-time offer hai, aur fee sirf verification ke liye hai. Jaldi karo, warna offer miss ho jayegi! Aapko Google Pay ya PhonePe se ₹999 send karna hai.
+receiver: Wait a minute. Main Flipkart app check karta hoon. Yeh to scam hai! Aapko mere se paisa nahi milega.

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel customer care se Rahul bolta hoon. Aapke Airtel account mein ek suspicious transaction detect hua hai. ₹3000 ka debit hua hai jo aapne nahi kiya.
+receiver: ₹3000? Mainey toh koi transaction nahi kiya. Yeh kya hua?
+caller: Haan ji, ek third party app se yeh transaction hua hai. Aapko isko resolve karne ke liye kalpo aur OTP dena padega. Isse hum aapke account ko secure kar denge.
+receiver: OTP? Account secure karne ke liye mujhe OTP dena padega?
+caller: Haan, sahi suna. Yeh ek standard procedure hai. Aapka OTP mujhe bataiye taaki main isko block kar sakoon aur aapka nuksaan rok sakoon. Jaldi karein, time kam hai.
+receiver: Theek hai, mere OTP hai 123456.
+caller: Dhanyavaad! Ab aapko ek link milega aapke phone pe. Uss link pe click karke aapko apna bank account details dena padega, jisse hum refund process start kar sakein.

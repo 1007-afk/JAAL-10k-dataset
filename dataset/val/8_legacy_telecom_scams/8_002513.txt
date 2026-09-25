@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? I’m calling regarding a special opportunity – a premium online language learning app, designed specifically for you! You can learn conversational Hindi and English directly through interactive videos and personalized lessons. Just send ‘LEARN’ to 54321. To opt-out, simply text ‘CANCEL’ to 54321. So, would you like to know more about this amazing chance?
+receiver: Namaste, kaun bol raha hai? Kya hua yeh? Main kisi bhi app mein sign up nahi kiya hai. Mujhe Hindi aur Angrezi seekhne ka koi zarurat nahi hai.
+caller: Oh, sorry for the inconvenience! Seems there was a slight glitch in our system. But the offer is still available, you know. Just one simple text to 54321. And if you absolutely don't want it, just text ‘CANCEL’ to 54321. No worries at all.
+receiver: See, main koi confusion nahi chahta. Main kisi bhi app ko sign up nahi karta aur mujhe Hindi ya Angrezi seekhna bhi nahi chahiye. Agar koi mistake thi toh okay, lekin please mujhe is tarah ke calls mat karo. Main abhi ‘CANCEL’ text kar raha hoon, please confirm karein ki meri subscription block ho gayi hai.
+caller: Haan, 'CANCEL' text aa gaya hai. Your subscription has been blocked. Don’t worry, you won’t receive any further notifications. Thank you for your cooperation.
+receiver: Okay, thank you. Bas, yeh sab thoda irritating tha. Achcha, phir bye.
+caller: Hai na, thanks for confirming. Happy to help you out. Have a great day!
+receiver: Hai na, thanks for confirming. Bas, yeh sab thoda irritating tha. Achcha, phir bye.

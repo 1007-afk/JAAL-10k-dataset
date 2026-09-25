@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mera naam Rohit hai, SpeedyLoan Solutions se. Aapko urgent loan ki zaroorat hai kya? Credit score koi bhi ho, koi problem nahi.
+receiver: Loan? Haan, thoda toh zaroorat hai. Kitna mil sakta hai aur interest kitna hoga?
+caller: Sir, hum aapko ₹50,000 tak ka loan de sakte hain, sirf 10% processing fee ke saath. Aur ek guarantee ke taur se, aapko humare online portal pe kuch photo upload karne honge, ID proof aur aadhar card, woh bhi.
+receiver: Photo? Aur processing fee bhi itna zyada? Aur portal bhi online hai? Mujhe thoda doubt ho raha hai, sir.
+caller: Sir, ye security ke liye hai. Aur agar aap loan repay kar paaye nahin, toh hum aapke contacts ko bhi notify karenge, ek friendly reminder ke taur se. Aur agar aap ek week mein repay nahi karte, toh hum morphed photos social media pe dalenge.
+receiver: What! Morphed photos?! Contacts ko notify?! Yeh toh fraud hai! Main report kar dunga police mein.
+caller: Sir, please! Don't be hasty. We can waive the processing fee, just pay ₹5,000 immediately as a sign of good faith. Otherwise, your reputation will be ruined.

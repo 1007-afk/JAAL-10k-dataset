@@ -1,0 +1,7 @@
+caller: Namaste sir, main Indian Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai Dubai se, lekin usmein illegal items mile hain.
+receiver: Kya? Illegal items? Mere naam se? Main toh kabhi Dubai se parcel order nahi kiya. Yeh kya ho raha hai?
+caller: Ji sir, parcel tracking number hai DX123456. Un mein suspicious documents aur electronic gadgets hain. Hukum ne kaha hai ki parcel release karne se pehle aapko thode security charges bharne honge.
+receiver: Security charges? Kitne? Aur main kabse parcel ka wait kar raha hoon? Koi mujhe toh notification bhi nahi aaya!
+caller: Sir, ₹15,000 security charges aur ₹5,000 processing fee bharne honge. Aapko online payment karna hoga. Payment karne ke baad hum parcel release kar denge aur aapko courier kar denge.  Hum ek secure link bhej rahe hain.
+receiver: ₹20,000? Sir, main ispe trust nahi kar pa raha hoon. Yeh toh scam lag raha hai. Indian Customs aise charge nahi lete.  Main police mein report karunga.
+caller: Sir, aapko jaldi karna hoga, time kam hai. Agar aap payment nahi karenge, toh parcel seize ho jayega aur hukum aapke naam par case register kar denge.  Aapko arrest bhi ho sakta hai. Payment link bhej raha hoon, please confirm kar dijiye.

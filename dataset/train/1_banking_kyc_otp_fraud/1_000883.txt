@@ -1,0 +1,7 @@
+caller: Namaste Madam, main Axis Bank se Rahul Sharma bol raha hoon. Aapke naam par ek suspicious transaction attempt kiya gaya hai. Account suspend hone se pehle, verification karna zaroori hai.
+receiver: Kya? Suspicious transaction? Aur kaunsa transaction? Mujhe toh koi message aaya nahi.
+caller: Madam, yeh system mein automatically detect hua hai. Aapka account security ke liye suspend kiya ja sakta hai agar aap verification nahi karte. Aapka Aadhaar number aur OTP bataiye please.
+receiver: Aadhaar number? OTP? Bank aise poochta hai kya? Mujhe toh yeh kuch galat lag raha hai. Main police mein report karunga agar kuch hua to.
+caller: Madam, please mat darne wali baat karein. Yeh bilkul secure process hai. Account suspend hone se bachane ke liye, humein sirf verify karna hai ki aap hi account ke owner hain. OTP bhijwayega SMS se, usko bataiye aur phir Aadhaar number?
+receiver: Theek hai, wait karo. OTP aa raha hoon... Okay, OTP hai 123456. Aadhaar number... Woh main nahi bata sakta. Mujhe yeh theek nahi lag raha. Main bank ke branch mein jaunga.
+caller: Madam, aapka time barbaad mat karein. Account suspend ho jayega. Just Aadhaar number do, 2 minute ka kaam hai. Aapka ₹10,000 block ho sakta hai.

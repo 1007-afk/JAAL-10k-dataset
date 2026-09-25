@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Rohan calling from QuickBuy Customer Care. We’ve detected some unusual activity on your account. A payment of ₹4,800 was attempted for an order you didn’t place.
+receiver: ₹4,800? Order toh main koi kiya nahi hai! Kyun, kya hua?
+caller: Yes sir, it seems a fraudulent order was placed using your registered card. To secure your account and prevent further unauthorized transactions, we need to verify a few details. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? OTP kyun doonga? Tum kon ho? QuickBuy wale log toh aise nahi karte!
+caller: Sir, please understand, this is a security protocol. We need to confirm you are the rightful owner of the account. Otherwise, we will be forced to temporarily freeze your account to protect you from potential financial loss. Just the OTP, sir, that's all we need.
+receiver: Freeze karoge? Par main toh karta hoon online shopping. Meri account freeze kar diye toh main kya karunga? Theek hai, ek minute… (pause) Okay, the OTP is 789456.
+caller: Thank you, sir. Just one more thing. To complete the verification process and cancel the fraudulent order, we need remote access to your device so our technical team can block the payment attempt. Can you please download TeamViewer and share the ID with me?
+receiver: Remote access? Nahi, nahi, main nahi karunga! Tum log scammer ho!

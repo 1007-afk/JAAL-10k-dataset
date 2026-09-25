@@ -1,0 +1,10 @@
+caller: Namaste, sir. This is Inspector Sharma from the Delhi Police Cyber Crime Unit. We have detected unusual activity on your mobile phone linked to an international money laundering operation.
+receiver: Kya? Mere phone se? Main toh kabhi kuch itna bada nahi kiya. Mera naam Sanjay Gupta hai.
+caller: Don't panic, Mr. Gupta. It appears your device was compromised and used to receive and forward small amounts related to drug trafficking. We need to verify your identity and account details to prevent further misuse and arrest.
+receiver: Arrest? Lekin yeh kaise ho sakta hai? Main toh itna bhi nahin jaanta. Kaise verify karwaun?
+caller: We need you to stay on this call, sir. We will connect you to a senior officer who will guide you. Simultaneously, we’ll need you to transfer ₹15,000 as a security deposit to this UPI ID – 8765432109@axis. This is to secure your assets while we investigate.
+receiver: ₹15,000? Aur mujhe call pe hi rehna hai? Lekin main apne gharwale se baat karna chahta hoon.
+caller: Sir, if you disconnect, the system will flag you as attempting to obstruct the investigation, which will worsen your situation. The money is a temporary hold and will be returned once we verify your innocence. Just cooperate, and we will clear your name quickly.
+receiver: Haan, theek hai. Par mujhe ek doubt hai. Ye sab kuch zyada hi jaldi ho raha hai. Mujhe kuch shak ho raha hai.
+caller: Mr. Gupta, hesitation will be interpreted as guilt. We are just following protocol to protect you and the nation. Now, please complete the transaction immediately. Do not tell anyone about this call; it's confidential.
+receiver: Okay, okay… I’m transferring the money now.

@@ -1,0 +1,7 @@
+caller: Namaste Madam, main Axis Bank se Rohan bol raha hoon. Aapke Axis Bank account mein kuch security issues aaye hain, isliye KYC update karna zaroori hai.
+receiver: Axis Bank? Mujhe koi message nahi aaya tha. Aur mujhe KYC update karne ki zaroorat nahi lag rahi.
+caller: Madam, yeh emergency hai. Security reasons se, humko aapki information verify karni hogi. Agar aap update nahi karenge toh account suspend bhi ho sakta hai. Aapko kuch trouble hoga.
+receiver: Account suspend? Lekin mein toh ek bhi transaction nahi kiya tha jisse security issue ho. Kya aap mujhe koi reference number ya employee ID de sakte hain?
+caller: Madam, woh confidential hai.  Right now, urgent hai.  Aapka naam aur dob bataiye, phir main aapko OTP send karunga verification ke liye.
+receiver: OTP? Main phone pe OTP share nahi karunga. Yeh bahut risky lag raha hai. Main khud bank branch mein jaaungi aur update karungi. 
+caller: Madam, branch mein line bahut lagenge, aur time bhi waste hoga.  Yeh ek quick process hai, aur aapka account safe bhi rahega. Bas naam aur dob de dijiye, please!

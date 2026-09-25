@@ -1,0 +1,11 @@
+caller: Namaste! Main Rahul, bank se call karta hoon. Kya aapko abhi aapke account mein kuchh transaction dekhne ke liye time mile?
+receiver: Haan, bataiye.
+caller: Haanji, hum dekhe hain ki aap ne recently ₹5000 withdraw kiya tha. Parantu, system mein ek small technical issue aa gaya hai. Isliye, humko aapke signature verify karne ke liye request karna hoga. Agar aapko koi problem nahi hai, to please aapko ek OTP send karenge. OTP enter karne ke baad, aapko transaction confirm karna hoga.
+receiver: OTP? Kahan bheje jayegi?
+caller: OTP aapko SMS se bheja jayega. Aur aapko isko direct number mein enter karna hoga. Parantu, agar aapko kisi bhi confusion mein honge, to please humare customer care number 1800-123-4567 par call karein. Iska koi bhi cost nahi hoga.
+receiver: Mein jald hi check karunga.
+caller: Haanji, thank you. Aur maaf karna, aapko yeh call karna padha. Parantu, humko aapke account ki security maintain karne ki zaroorat hai. Agar aapko koi problem hogi, to please humein batayein. Hum aapki madad karne ke liye hamesha tay hain.
+receiver: Thoda suspect hai mujhe yeh call.
+caller: Arre, suspicous kyun ho rahi hain? Jaise aapko koi danger lag rahi hai? Hum toh sirf aapki account ki madad kar rahe hain. Agar aapko koi doubt hai, to please humein batayein. Hum aapko guide karenge.
+receiver: Nahin, maine kabhi OTP number share nahin kiya hai aur mujhe koi transaction confirm nahi karna hai. Aap apne kaam karte raho.
+caller: Hai, hai, sorry ji. Aapko inconvenience ho gayi? Aapko koi extra charge nahi dena hai. Just please, aapko apna account secure rakhna hai. Txt HELP to 8800-123-4567 for assistance. Txt STOP 2 end, txt rec £1.50ea.

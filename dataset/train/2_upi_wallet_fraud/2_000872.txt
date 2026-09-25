@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rahul bolta hoon. Aapke BharatPay account mein ₹499 ka cashback offer aa gaya hai.
+receiver: Oh, really? Cashback? Kaise?
+caller: Haan ji! Aapko sirf ₹50 processing fee bharne hai. Phir ₹499 cashback aapke BharatPay wallet mein deposit ho jayega.
+receiver: ₹50 processing fee? Yeh kuch naya lag raha hai. BharatPay app pe toh kuch dikhta nahin hai.
+caller: Haan, yeh offer sirf select customers ke liye hai. Aapko BharatPay customer care se direct contact karna padega. Main aapko ek link bhejna. Us link se aap ₹50 bhar de, aur cashback instantly mil jayega. Link yeh hai: bit.ly/cashbackoffer50
+receiver: Wait a minute...bit.ly? Yeh thoda suspicious lag raha hai. Main check kar leta hoon.
+caller: Arre, jaldi karo ji! Offer valid hai sirf aaj ke liye. ₹50 bhar do aur ₹499 cashback apka!
+receiver: Bilkul nahi. Main BharatPay app se hi check karta hoon. Aapko koi bhi link nahi dene wala.

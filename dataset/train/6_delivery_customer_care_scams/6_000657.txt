@@ -1,0 +1,7 @@
+caller: Namaste, main Bharat Telecom se Ram Singh bolta hoon. Aapke Amazon account mein ek pending delivery hai, lekin address verify nahi ho raha hai.
+receiver: Kya? Pending delivery? Mujhe toh koi notification aaya nahi. Amazon se call aa raha hai?
+caller: Haan ji, sir. System mein dikh raha hai ki ek smart TV aapke naam par return ke liye aaya hai. Refund process start karne ke liye, kuch details verify karni padegi.
+receiver: Return? Main toh kabhi TV order kiya hi nahi. Aur refund mein kya verify karna hai?
+caller: Sir, sirf ek OTP verify karna hai jo aapke registered mobile number par aayega. Is OTP se pata chalega ki aap hi sahi owner hain.
+receiver: OTP? Main phone check karta hoon… (pause) Haan, ek OTP aaya hai… 8692. Dekhiye.
+caller: Thank you sir. Ab payment gateway se confirm karna hai. ₹199 ka processing fee apply ho raha hai, sir. Isko aap credit card se pay kar sakte hain.

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is a notification from the Directorate of Enforcement, Delhi. We've detected suspicious financial activity linked to your account.
+receiver: Directorate of Enforcement? What kind of activity? I haven't done anything wrong.
+caller: Ma’am, our records indicate a large sum of money was transferred through your account linked to an illegal online gambling ring. We need to verify your details to prevent further losses and potential legal action. For verification, can you please share a copy of your Aadhar card and bank statement?
+receiver: Wait a minute. This sounds fishy. Why are you asking for my Aadhar and bank statement over the phone? Shouldn't I be receiving a formal notice?
+caller: Ma’am, time is critical. The transaction is still ongoing. To freeze the account and protect you from being implicated, we require this information immediately. We can also set up a video call to verify your identity and explain the process clearly. We are doing this to help you.  To start, can you transfer ₹15,000 to this UPI ID: 7890123456 to secure your account?
+receiver: ₹15,000? To secure my account? That doesn’t make any sense. I’m calling my lawyer right now. You are a fraud!
+caller: Ma’am, don’t be hasty! You are putting yourself at serious risk. If you do not cooperate, we will have to escalate this matter to the court and you will face severe consequences. The UPI ID again is 7890123456. Do it now!

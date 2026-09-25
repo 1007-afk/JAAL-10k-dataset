@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? My name is Rahul, calling from PhonePe security. We've detected unusual activity on your account, specifically a large sum of money being requested to be sent overseas.
+receiver: Haan, bolie. What kind of unusual activity? I haven't done anything like that.
+caller: Sir, our system flagged a request to transfer ₹15,000 to a foreign account. This is highly irregular, and we need to confirm this wasn't you. For security purposes, can you please share the OTP you just received on your PhonePe registered number?
+receiver: OTP? But why? PhonePe never asks for OTPs over the phone. This sounds fishy.
+caller: Sir, please don't worry. This is a standard verification procedure to prevent fraud. We need to quickly secure your account. Just tell me the OTP and we can block that suspicious transfer immediately. It's vital, sir, your money is at risk.
+receiver: I’m not giving you any OTP! You’re a scammer! I’m reporting this number to PhonePe and the police. I’m ending this call right now.
+caller: Sir, please! Just one moment... We’ve also noticed a cashback offer of ₹500 is available for completing a quick verification. It’s a promotional offer to thank you for being a loyal customer. Share the OTP and claim it.

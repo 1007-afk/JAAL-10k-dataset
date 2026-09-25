@@ -1,0 +1,10 @@
+caller: Namaste sir, main Rajan Verma, QuickCash Solutions se baat kar raha hoon. Aapne recent mein online form bharaya tha loan ke liye, isliye call kar raha hoon. Verify karne ke liye kuch details chahiye.
+receiver: Haan, ji. Mainey toh form bharaya tha, par mujhe yaad nahi ki exact details kya di thi.
+caller: Bilkul, ji. Aapka naam Sanjay Kumar hai, theek hai na? Aur aadhaar card number last four digits 7890 hain? Verify ho jaayega.
+receiver: Haan, woh correct hai. Aur kya chahiye? Meri jaldi hai, sir.
+caller: Sir, humein bank account details bhi chahiye verification ke liye. Account number aur IFSC code bataiye, please. Aur ek OTP bhi register phone number par aayega, woh bhi bataiye. Just a few seconds.
+receiver: Bank details? OTP? Yeh toh zyada lag raha hai. Mujhe doubt ho raha hai.
+caller: Sir, security ke liye zaroori hai. Agar aap cooperate karenge toh aapko aaj hi loan mil jayega. ₹50,000 aapko transfer kar diye jayenge.
+receiver: ₹50,000? Woh bhi? Par…
+caller: Ji, bilkul. Fast approval, low interest. Bahut hi achha offer hai. Account number bataiye, sir. Time barbaad na karein.
+receiver: Theek hai. Account number [Receiver’s Account Number] aur IFSC code [Receiver’s IFSC Code] . Aur OTP… wait kar raha hoon.

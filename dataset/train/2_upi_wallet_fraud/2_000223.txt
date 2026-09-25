@@ -1,0 +1,7 @@
+caller: Namaste, Madam! This is Ankit from FreeCharge. We are doing a special Diwali offer – a ₹500 instant credit to your FreeCharge wallet if you verify your details. Just a quick process, please.
+receiver: FreeCharge? Diwali offer? Really? How much credit?
+caller: Exactly, Madam! ₹500 credit instantly. We need to confirm your account is active. Can you please share the last four digits of your bank account number linked to your FreeCharge wallet and a one-time password that will be sent to your registered mobile?
+receiver: My bank account number? To FreeCharge? Doesn't that seem a little risky? I’ve never had to do this before.
+caller: No risk at all, Madam! It's just a standard security procedure. It’s Diwali time – we want to ensure the offer reaches the correct customer. If you don’t complete it now, the offer will expire in 5 minutes. The OTP is crucial to prevent fraud.
+receiver: Okay, fine. The last four digits are 4567. And the OTP I just got is 9876. I hope this is legit…
+caller: Wonderful, Madam! Thank you for your cooperation. Your ₹500 credit has been applied to your wallet. Please check your balance. A small processing fee of ₹50 will be deducted to activate the offer. This will be taken from your wallet automatically. Happy Diwali!

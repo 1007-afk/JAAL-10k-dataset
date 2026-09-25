@@ -1,0 +1,12 @@
+caller: Namaste, Bharat Telecom se bol raha hoon. Aapke mobile internet connection ko update karne ke liye call kiya hai.
+receiver: Haan, boliye. Update kaunsa hai?
+caller: Haanji, humein aapke device ki security settings ko check karna hai. Isliye, aapka IMEI number aur aapka home address chahiye.
+receiver: IMEI number? Woh kaise pata karoonga? Mobile pe hi milega. Aur address jo bolun?
+caller: Haanji, IMEI number aapko apne mobile setting mein "About Phone" section mein milaega. Aur aapka address, please bataiye.
+receiver: Arre, address toh maine kabhi update nahi kiya hai. Aur IMEI number bhi nahi pata hai.  Kuch aur tarika nahi hai, ya mobile provider se update karwa lene ka?
+caller: Sir, security reasons ki wajah se yeh details zaroori hain. Aapka IMEI number aur aapka home address, ek baar verify ho jaane ke baad aapka connection secure ho jayega.
+receiver: Dekhiye, address update karne mein bhi time lagta hai. Aur IMEI number bhi pata karna hai.  Koi OTP wala option nahi hai? Ya phir bill me dikhana tha?
+caller: Sir, OTP se verification nahi ho sakti.  Aapka address aur IMEI number zaroori hai.  Agar aap ne kabhi online shopping ki hai toh uska transaction ID bhi bataiye.
+receiver: Transaction ID? Woh kahaan hoga?  Mujhe yeh sab thik se samajh nahi aaya.  Yeh genuinely Bharat Telecom se call hai?
+caller: Haanji, Bharat Telecom se bol raha hoon.  Aapka account secure karna hamare duty ki kami nahi hai.  Aapka address aur IMEI number bataiye.  Baaki details hum baad mein dekh lenge.  Yeh verification jaldi se ho jaaye toh achha hai.
+receiver: Okay, theek hai. Address hai [Receiver’s Address] aur IMEI number hai [Receiver’s IMEI Number]. Transaction ID… woh abhi yaad nahi aa rahi.  Ab bataiye aage kya karna hai?

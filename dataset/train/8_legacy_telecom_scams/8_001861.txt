@@ -1,0 +1,16 @@
+caller: Namaste sir/madam, I’m calling from Jio to check on your internet package. It’s been almost six months now, isn’t it? We have fantastic discounted bundles for you – Samsung Galaxy A series phones and Xiaomi Redmi phones. And we’re boosting your data speed by 5G and giving you extra roaming packs. Are you interested in learning more? Please reply FAST with ‘YES’ to schedule a quick chat, or ‘NO’ if you want us to remove your number.
+receiver: Namaste, yes, almost six months have passed. Discounted bundles and 5G speed? That sounds tempting. Extra roaming packs too? I am a little busy at the moment, but I'm definitely curious about the details. Send me a message saying ‘YES’, so you can call me back. Thank you!
+caller: Wonderful! Thank you for confirming. Hamari team will contact you soon with all the exciting details about your discounted bundle and the boosted data speed and extra roaming packs. Just keep checking your device! Thanks once again for your cooperation.
+receiver: Okay, thank you. When approximately will you be contacting me?
+caller: Ji, aapko today evening or tomorrow morning surely will receive a call. Hum try karenge that we give you all the details as quickly as possible. Thanks for your understanding!
+receiver: Alright, understood. Evening or tomorrow morning. Good, good. Thank you for the information!
+caller: Namaste sir/madam, this is Priya from Airtel. Aapne yesterday sent us 'YES' regarding your internet plan upgrade. I have some incredible offers – new iPhone 14 Pro Max deals and unlimited data plans.  Aapki baat kar sakte hain abhi, ya aapko kuch time chahiye?
+receiver: Namaste Priya, yes, yesterday you mentioned it. Haan, I am free to talk now. Tell me what these offers are.
+caller: Namaste sir/madam, I’m calling from Vodafone Idea to check on your mobile recharge. It’s been nearly eight months, isn’t it? We have premium devices – Realme and Oppo phones, plus extended warranty and additional data benefits. Are you interested in exploring these options? Text ‘YES’ to confirm a call back, or ‘NO’ if you wish to be excluded.
+receiver: Namaste, yes, around eight months. Premium phones and extended warranty? That’s interesting. I’m a bit occupied currently, but I’m keen to hear more. Send ‘YES’ for a callback, please.
+caller: Excellent! Thank you for confirming. Hamari team will reach out to you shortly with all the details about your premium device offer and the added data benefits. Keep your phone handy! Thanks again for your time.
+receiver: Okay, thank you. Roughly when do you anticipate making the call?
+caller: Ji, aapko today afternoon or tomorrow midday definitely will get a call. We aim to provide you with all the information as fast as possible. Thanks for your patience!
+receiver: Fine, noted. Afternoon or midday tomorrow. Good, good. Thank you for the update!
+caller: Namaste sir/madam, this is Vivek from BSNL. You responded positively to our request about upgrading your mobile service. We have limited-time offers – Google Pixel 7 and Samsung S23 Ultra discounts. Aapka jawab kar sakte hain abhi, ya aapko kuchh vaqt chahiye?
+receiver: Namaste Vivek, yes, I received your message. Haan, I'm available to speak now. What exactly are these discounts?

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart se Rahul bolta hu. Aapke naam par ek order aaya hai, number FO45892. Lekin delivery address mein kuch problem hai, aur package hold ho gaya hai.
+receiver: Oh, really? Flipkart order? Mujhe yaad nahi ki maine kuch order kiya tha. Kya bata sakte ho, kya problem hai?
+caller: Ji, receiver sahib. Address incomplete hai. OTP verify karne ke baad hi package deliver hoga. Security ke liye hai ye.
+receiver: OTP? Maar nahi, Flipkart kabhi OTP maangta hai? Main toh kabhi sun hi nahi.
+caller: Sir, rule change hua hai, ab OTP verify compulsory hai. Just ek minute, OTP aa jayega aapke phone pe.
+receiver: Theek hai. Chalo dekhte hain. (waits) Haan, ek OTP aaya. 628493.
+caller: Thank you, sir! Now please share your bank details so we can process the delivery charges. It’s just ₹299 for the expedite service.

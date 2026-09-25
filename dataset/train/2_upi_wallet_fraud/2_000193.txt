@@ -1,0 +1,10 @@
+caller: Namaste sir, main BharatPe se Rahul bol raha hoon. Aapke BharatPe account mein ek security alert aaya hai.
+receiver: BharatPe? Kya hua? Koi problem hai?
+caller: Ji sir, ek attempt kiya gaya tha aapke account se 2000 Rupees ka transaction karne ka, lekin yeh fail ho gaya. Kal abhi, 9:15 AM ko.  Aapko confirm karna hai ke aapne yeh transaction kiya tha ya nahin. Agar confirm kar lenge toh aapka account secure ho jayega.
+receiver: 2000 Rupees? Main toh kabhi transaction nahi kiya. Mein check karta hoon. (Checks phone) Haan, mujhe bhi notification aaya tha. Par koi link ya number nahi diya hai.
+caller: Ji sir, humein yeh verify karna hai urgently.  Main aapko ek OTP send karunga, woh OTP bataiye aur aapka account secure ho jayega. Aur ek special offer hai, OTP verify karne ke baad aapko ₹50 cashback bhi milega.
+receiver: OTP? Aur cashback? Yeh thoda suspicious lag raha hai. BharatPe ka official number kya hai, main wahaan call karta hoon.
+caller: Sir, official number pe call karne se delay ho jayega aur aapka account risk mein rahega.  Woh system busy rehta hai. Abhi jaldi se OTP bataiye, ₹50 cashback bhi milega aur aapka account bhi secure ho jayega!  Kal se 100 Rupees ka charge lag sakte hain, agar account secure nahi hua toh.
+receiver: ₹100 ka charge? Okay, fine. Bataiye OTP.
+caller: Aapko ₹50 cashback milega, sir. OTP hai 4582.
+receiver: Theek hai, OTP bata diya. Ab kuch aur mangenge?

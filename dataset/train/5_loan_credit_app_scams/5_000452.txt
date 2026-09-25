@@ -1,0 +1,7 @@
+caller: Hello? Main Rohan bol raha hoon. Aapko personal loan ke baare mein baat karni hai? ₹10,000 se ₹2 Lakh tak ka loan, bina koi credit check ke. Koi bhi apply kar sakta hai. Aapka naam bataiye?
+receiver: Ji haan, main Anjali hoon. Loan ke baare mein baat karna hai.
+caller: Acha Anjali ji, kitni amount chahiye aapko aur kya work hai? Tell me your purpose for the loan?
+receiver: Mujhe apne papa ke operation ke liye ₹60,000 tak ka loan chahiye.
+caller: Bilkul Anjali ji, emergency situation hai. Hum madad karenge. Aapka address bataiye aur income kitni hai, roughly?
+receiver: Main 7B, Lotus Apartments, Uttam Nagar mein rehti hoon. Meri salary around ₹45,000 per month hai.
+caller: Bahut accha, Anjali ji. Hum approve kar denge aapka loan. Lekin pehle, humein aapke bank account details aur OTP chahiye verification ke liye.

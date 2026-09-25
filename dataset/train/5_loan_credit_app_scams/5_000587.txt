@@ -1,0 +1,9 @@
+caller: Hello? Ji haan, bol raha hoon. Aapko instant loan ke baare mein baat karni hai na? ₹10,000 se ₹2,00,000 tak, jisko bhi chahiye. Koi credit check nahi, koi sawal nahi. Aapka naam bataiye?
+receiver: Haan ji, main Rajan bolta hoon. Loan ke baare mein hi baat karna tha.
+caller: Acha, Rajan ji. Bahut achha naam hai. Aapko kitne rupaye chahiye the aur kisliye?
+receiver: Mujhe thode paise chaiye, approximately ₹80,000. Meri beti ki shaadi ke liye kuch expenses hain.
+caller: Shaadi! Bahut khush hon aapke liye, Rajan ji. Yeh ek achcha occasion hai. Toh, aapka address kya hai aur kitne saalon se aap wahan rehte hain? Aur aapka kaam kya hai?
+receiver: Main Jaipur mein rehta hoon, last 5 saalon se. Main ek shop mein kaam karta hoon. Monthly income meri roughly ₹45,000 hai.
+caller: Bahut achha, Rajan ji. Aapke documents send karein, hum loan approve kar denge. Bank account details bhi chahiye honge. Jaldi karein, offer limited time ke liye hai. Aur ek baat, hum aapko loan transfer karne se pehle ek small processing fee kamaane ka request karenge. ₹5000.
+receiver: ₹5000? Par yeh toh extra hai. Loan amount mein hi fee include kardo.
+caller: Rajan ji, rules hain rules. Yeh fee security ke liye hai. Agar aap agree karte hain toh documents send karein. Varne, humko maaf karna padega.

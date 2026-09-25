@@ -1,0 +1,6 @@
+caller: Namaste! Main BharatPay se Ramesh bol raha hoon. Aapke BharatPay wallet mein ₹7,500 ka cashback offer available hai!
+receiver: BharatPay? Cashback offer? ₹7,500? Kaise?
+caller: Haan ji, ek limited-time offer hai! Aapko sirf ₹100 ek merchant ke paas pay karna hai aur ₹7,500 instant aapke wallet mein deposit ho jayega.
+receiver: ₹100 pay karna hai, aur ₹7,500 milega? Maine kabhi suni hi nahi. Kisike paas pay karu ₹100?
+caller: Haan, bilkul! Koi bhi shop ke paas pay karein, koi bhi online transaction karein, ₹100 ka payment hi kaafi hai. Offer activate karne ke liye, ek link par click kijiye aur OTP dal dijiye. Link yeh hai: bharatpay.cashback.xyz
+receiver: Bharatpay.cashback.xyz? Yeh link toh sahi nahi lag raha. BharatPay app mein to aise koi offer nahi dikh raha.

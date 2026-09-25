@@ -1,0 +1,8 @@
+caller: Namaste! Main Amazon customer care se Rahul bolta hoon. Aapke naam par ek parcel deliver hone mein kuch problem aa raha hai.
+receiver: Oh, kya problem hai? Mujhe to koi order yaad nahin.
+caller: Sir, order number is ZM78923. Yeh ek high-value product hai aur delivery agent ke pass payment ke liye request aa rahi hai.
+receiver: Payment? Kya payment karna padega? Main to kuch bhi order nahin kiya tha.
+caller: Ji sir, delivery ke liye security ke taur se ₹2500 clear karne honge. Hum Flipkart ne payment process ke liye link bheja hai. Please check aur jaldi kar lijiye.
+receiver: ₹2500? Yeh bahut zyada hai! Aur main Flipkart use nahin karta. Main Amazon customer hai. Yeh scam lag raha hai.
+caller: Sir, aapko trust karna hoga, warna parcel return ho jayega aur aapko kuch bhi nahi milega. Please jaldi decision leiye.
+receiver: Nahin, main kuch bhi pay nahin karunga. Main police mein report karunga.

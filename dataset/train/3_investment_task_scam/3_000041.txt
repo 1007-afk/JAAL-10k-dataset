@@ -1,0 +1,18 @@
+caller: Namaste, suno? Ye Ramesh Sharma bol raha hu, Digital Solutions se. Kaise haal chal rahi hai? Main aapko ek special offer baare mein batana chahta hu, jo aapke liye sabse achha hai. Kya aapko humara last week ka notification mila tha?
+receiver: Haan, thoda busy tha, par mil gaya. Ramesh ji, kya offer hai?
+caller: Haan, yeh offer jahaan tak mujhe pata hai, sirf aaj ke liye hai. Aapko apne smartphone par ek app download karke, phir aapko ek simple task karna hoga - sirf ek picture upload karna hai.  Yeh app "Bright Future" naam ka hai.  Aapko website par dekho – brightfutureapp.in – wahan aapko all details milegi.  Ismein kuch small terms and conditions bhi hain, please read karein.
+receiver: Okay, Bright Future app… Picture upload karna hai?  Aur yeh app free hai kya?  Koi charges hain kya?
+caller: Haanji, app completely free hai.  Par yeh offer sirf aaj raat till 10 PM tak valid hai.  Aapko hurry lagni chahiye, kyunki yeh opportunity sirf aapke liye hai.  Phir bataiye, aapka smartphone kab purchase kiya tha?  Yeh sirf aapke liye personalized offer hai.
+receiver:  Arre, sirf aaj raat?  Okay, main dekhunga.  Mai kal ko nahi dekhoon.  Main smartphone 2018 mein purchase kiya tha.
+caller:  Haanji, thoda confusion hai.  Aapko verify karne ke liye ek small verification process karna hoga.  Wahan pe aapko apna bank account number aur OTP dene hoga.  Agar aap verify nahi karenge, toh aapko yeh offer miss karna padega.  Please trust me, yeh aapke liye bahut beneficial hai.  Aapko website dekha kya?
+receiver:  Website pe dekha, par mujhe survey karna padta hai.  Aur survey complete karne ke liye kitna time lagega?
+caller: Hello, Mr. Verma? This is Priya from SecureGuard Services. We’re reaching out regarding a recent security update needed for your home system. Can you hear me clearly?
+receiver: Haan, Priya ji, thoda din hai lekin sun sakta hun. Security update? Mein unhein dekhe bhi nahi tha.
+caller: Haanji, koi baat nahi.  Sometimes these updates happen automatically. But we need to confirm your address just to ensure everything is set up correctly. It's a very important upgrade for your peace of mind. You’ve been using our service for quite some time, haven’t you?
+receiver: Haan, tumhare service se 5 saal se use karte hain. Address confirm karenge? Kya required hai?
+caller: Haanji, sirf address.  And also, could you tell me what model of security system you have installed at your residence? It will help us tailor the update specifically for you. It's a new feature, designed to protect against emerging threats.
+receiver: Mein Sony Cyber-Shot X3000 use karta hun.  Security system kya hai?  Mein sirf camera use karta hun.
+caller:  Sony Cyber-Shot… Interesting. Okay, thank you for that information. Now, let's proceed with confirming your address. Could you please spell out your street name and house number? And also, your city and state?
+receiver: Mera address Delhi mein hai. Street name ‘Rajpath’, house number 123, city Delhi, state Delhi.
+caller:  Haanji, thoda confuse ho raha hun.  We need to verify a few more details before completing the update. There might be a small fee associated with this upgrade, but it's minimal. Would you like to provide your credit card details now?
+receiver: Fee?  Kaisa fee?  Mujhe pata bhi nahi tha.  Credit card details nahi denge.

@@ -1,0 +1,6 @@
+caller: Namaste! I'm calling from Paytm support. We've noticed a small discrepancy in your recent transactions. To ensure your account security, we need to verify some details.
+receiver: Paytm support? Okay, what discrepancy? I haven't done anything unusual. My Paytm number is 9876543210.
+caller: Yes, that’s correct. We see a pending payment of ₹250 to a new merchant. It might be a fraudulent attempt. To reverse it and secure your funds, we'll need a one-time verification fee of just ₹50. This will confirm you initiated the transaction.
+receiver: ₹50 verification fee? That sounds a bit strange. Paytm usually doesn't ask for fees for security. Can you give me a reference number or the name of the merchant I supposedly paid?
+caller: Absolutely. The reference number is PT-SEC-789. The merchant is listed as "QuickCash Solutions." This is a standard procedure, sir/madam. Without this, we can't guarantee your account won't be compromised, and you'll lose the ₹250.  Kindly send ₹50 to the Paytm ID: 8989898989.
+receiver: Wait a minute. QuickCash Solutions? I’ve never heard of them. And why do I have to send money to another Paytm ID to secure my account? This is feeling very fishy. Let me call Paytm’s official customer care.

@@ -1,0 +1,9 @@
+caller: Namaste! Main StarLoan se Rahul bol raha hoon. Aapki credit report achhi dikhti hai, isliye hum aapko ₹75,000 tak ka instant loan offer kar rahe hain. Koi document nahi chahiye, sirf verification. Aapka naam bataiye?
+receiver: Hello, mera naam Ajay hai. Loan ka offer toh achcha lag raha hai, lekin mujhe aur details chahiye. Interest rate kitna hoga?
+caller: Ajay ji, bahut zyada interest nahi hai, sirf 15% flat. Aur repayment easy hai, aap apne convenience ke hisaab se kar sakte hain. Bas humein confirmation ke liye aapke bank account ka last 4 digits aur OTP chahiye.
+receiver: Account details aur OTP? Mujhe thoda doubt ho raha hai. Koi scam to nahi hai ye?
+caller: Sir, bilkul nahi! Hum registered company hain. Agar aap OTP nahi denge, toh loan approve nahi hoga. Sirf verification ke liye hai. Jab aap loan receive kar lenge, toh aapko sab pata chal jayega. Fast karo, offer limited time ke liye hai.
+receiver: Okay, mera account number ka last 4 digits 4567 hai. OTP... wait kar raha hoon.
+caller: Bahut achha! OTP 879012 hai, confirm karo. Process almost complete hai. Ab ₹5000 advance processing fee ke liye aapko apne UPI ID share karna hoga.
+caller: Ab ₹10,000 clearance fee dena padega, otherwise loan release nahi hoga. Aapko call record karna mat, aur kisi se bhi share mat karna.
+caller:  Ajay ji, aapko pata hai na ki hum aapki help kar rahe hain? Is baar maaf kardo, lekin next time aisa nahi hoga. Loan ke paise aayenge hi!

@@ -1,0 +1,7 @@
+caller: Hello sir, this is Axis Bank security department. We have noticed some suspicious activity on your FreeCharge account.
+receiver: Oh really? Suspicious activity? What kind of activity? I haven’t done anything unusual.
+caller: Yes sir, someone tried to make a large transaction from your account. To secure your funds, you need to verify your FreeCharge wallet urgently.
+receiver: Verify? How do I verify it? I thought FreeCharge already has security measures in place.
+caller: Sir, for verification, we need you to send ₹500 as a processing fee to the temporary UPI ID we’ll provide. This is just to confirm it’s you.
+receiver: ₹500? That sounds a bit fishy. Why do I have to send money to verify my account? Can't you do it through the app?
+caller: Sir, this is a special security protocol. The transaction needs to be processed manually. Don't worry, once we confirm the transaction, we'll return the ₹500 back to your FreeCharge wallet instantly. Just send it to the UPI ID – 7890123456@ybl.

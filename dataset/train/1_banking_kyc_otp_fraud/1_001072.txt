@@ -1,0 +1,6 @@
+caller: Hello, this is from India Post Payments Bank. We’ve noticed some unusual activity on your account and need to verify your details immediately to prevent fraud.
+receiver: India Post Payments Bank? Okay… What kind of unusual activity? I haven't done anything.
+caller: Sir, it appears someone attempted to transfer a large sum of money out of your account. To secure your funds and prevent further unauthorized access, we need to confirm your Aadhaar number and the last four digits of your bank account. It’s a standard security procedure.
+receiver: Aadhaar number? Over the phone? That doesn't sound right. I’ve heard about scams doing this.
+caller: Sir, please understand, your account could be suspended if we don’t verify immediately. We have only 2 attempts left to contact you. This is crucial for maintaining the security of your funds. Kindly provide the information, or we will have to block your account.
+receiver: Block my account? Wait a minute. I'm calling the official India Post Payments Bank number right now to confirm this. You people are trying to cheat me.

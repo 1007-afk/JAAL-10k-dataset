@@ -1,0 +1,6 @@
+caller: Namaste! This is Rohan calling from Global Crypto Investments. We've identified you as a potential high-value investor. We're offering a unique opportunity to invest in a new cryptocurrency called StellarGold – predicted to increase 10x in the next month! Are you interested in hearing more?
+receiver: StellarGold? 10x? That sounds a little too good to be true, doesn't it? What's the catch? What kind of investment are we talking about?
+caller: No catch, sir! It’s a very exclusive opportunity. We’re partnering directly with the developers. Minimum investment is just ₹5,000, but early investors get priority access and higher returns. We can send you a detailed whitepaper on StellarGold. Interested?
+receiver: ₹5,000? Okay, that’s not a lot. Can I see this whitepaper first? And how do I actually invest? Do you have a website?
+caller: Absolutely! Here’s the link: investstellar.net. Very simple process. You deposit using UPI - just send to the number +91 9876543210. Once the payment reflects, we’ll register your investment. Remember, slots are limited!
+receiver: UPI? Just like that? No formal registration or anything? And who are these developers, actually? Can you give me some names? It’s a little unsettling just sending money to a number.

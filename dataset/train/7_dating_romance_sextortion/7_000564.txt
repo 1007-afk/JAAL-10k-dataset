@@ -1,0 +1,7 @@
+caller: Namaste! I’m Vikram calling from ‘Eternal Hearts Connect.’ We've noticed your profile on CupidMatch is very popular! Many people are interested in meeting you. We have a special opportunity for you.
+receiver: Eternal Hearts Connect? CupidMatch? I don’t recall signing up for anything. Who gave you my number?
+caller: Don’t worry about that! It's a fantastic chance to connect with someone special and maybe even find true love. We’re running a contest—a ‘Romance Discovery’ week. Winners receive a luxurious weekend getaway to Goa, all expenses paid! To enter, just tell me your date of birth and a small detail about your hobbies.
+receiver: Goa? A free trip? Sounds too good to be true. What's the catch? Why are you asking me for my personal information?
+caller: No catch at all! It’s just to match you with compatible candidates for the weekend and to verify your eligibility. We need to ensure the winner is a genuine member. Also, it’s an exclusive contest, so entry is limited. We need your bank account details to process the trip payment if you win. Just a few details – account number, IFSC code.
+receiver: Bank details? Stop right there! This is a scam. I'm reporting your number. Don't call me again.
+caller: Wait! Please, don’t hang up. It’s just a formality. We’ll send you a confirmation email after you share the details. Think of the Goa trip! This is your chance to escape and have some fun. Just the account number, please?

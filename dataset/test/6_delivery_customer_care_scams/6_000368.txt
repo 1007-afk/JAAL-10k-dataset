@@ -1,0 +1,11 @@
+caller: Namaste! Mai Swiggy customer care se Neeraj bol raha hoon. Aapke recent order number SWG458923 mein kuch problem aa gaya hai.
+receiver: Oh, kya hua? Mujhe toh delivery confirm hone ki notification mila tha.
+caller: Haan, sir, system mein error dikh raha hai. Payment process complete nahi hua hai, aur delivery boy aapke address par order deliver nahi kar paya.
+receiver: Payment nahi hua? Par maine payment karta hi tha. ₹350 ka order tha.
+caller: Haan sir, bank se confirmation pending hai. Isko resolve karne ke liye, aapko ek OTP dena hoga, jo aapke registered mobile number par aayega.
+receiver: OTP? Swiggy se OTP maangte hain? Yeh thoda suspicious lag raha hai.
+caller: Sir, security ke liye hai. Agar OTP nahi milega toh order cancel ho jayega aur aapka ₹350 bhi refund nahi hoga. Jaldi karo sir, time limit hai.
+receiver: Okay, theek hai… ₹350 ka matter hai. Chaliye, mujhe OTP check kar leta hoon.
+caller: Excellent sir! Ab aapko ek link follow karna hoga jahan aap OTP enter kar sakte hain. Woh link hai: bit.ly/swiggy-verify-payment
+receiver: Yeh link… bit.ly? Yeh toh sahi nahi lag raha. Mai Swiggy app pe hi check karta hoon.
+caller: Sir, yeh official link hai. Jaldi karo, nahi toh order cancel ho jayega! Aapko ₹350 ka nuksaan hoga.

@@ -1,0 +1,8 @@
+caller: Namaste, main State Bank of India se Ankit Verma bol raha hoon. Aapke account mein kuch suspicious activity dikhai de raha hai, isliye aapki KYC update karna bahut zaroori hai.
+receiver: Oh, State Bank? Kya hua? Kuch problem hai?
+caller: Ji, sir. Ek new regulation aa gaya hai, isliye hamein har account holder ki information verify karni hogi. Agar aap update nahi karenge, toh aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? But why? Mein toh koi transaction nahi kiya abhi tak.
+caller: Sir, security ke liye ye karna padta hai. Aapko sirf apna Aadhaar number aur ek OTP dena hai jo aapke phone pe aaega. Woh share kar dijiye, please.
+receiver: Aadhaar number? OTP? Mein toh kabhi bank ko yeh details nahi deta.
+caller: Sir, please mat karein! Yeh ek automatic process hai. Agar aap cooperate karenge toh aapka account safe rahega. Bas ek minute lagega. OTP send kar raha hoon.
+receiver: Wait, let me check with my branch. I am not comfortable sharing this information over the phone.

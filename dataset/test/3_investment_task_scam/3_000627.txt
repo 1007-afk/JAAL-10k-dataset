@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Verma? We're calling from Stellar Trade Solutions. We’ve noticed some very promising activity on your trading account and you’ve been selected for a priority allocation in our new high-yield cryptocurrency pool!
+receiver: Haan, mai Mrs. Verma hoon. High-yield pool? Yeh kya hota hai?
+caller: It’s a fantastic opportunity! We're pooling investments to trade a new, very volatile cryptocurrency – CryptoZen. Initial projections show returns of up to 30% within a week. To activate this, we need to verify a small activation fee of ₹7,500 to cover processing and security.
+receiver: ₹7,500? Itna zyada? Aur yeh CryptoZen... main suni bhi nahi hoon.
+caller: Yes, it's a new coin, that’s why the potential is so high! This activation fee is simply to unlock your access and ensure your investment is secure. Think of it as a key to a much larger door. We’ll return it fully when the profits come in. Payment can be done via UPI.
+receiver: UPI? Main UPI se itna paisa nahi karta. Aur agar yeh CryptoZen fake nikla toh?
+caller: Madam, we assure you, Stellar Trade Solutions is fully licensed. We have a proven track record. Think of the potential gain! This is a limited-time offer – only 12 spots available in this pool right now. Act fast! Our verification team is standing by.
+receiver: Okay, fine. UPI ID bataiye. Par agar kuchh bhi wrong hua toh main tum logon ko bhool jaungi.
+caller: Our UPI ID is stellartradesolutions@hdfcbank. Please send the ₹7,500 and let us know when it’s done. We'll then send you the confirmation code immediately. Don't

@@ -1,0 +1,6 @@
+caller: Hello there, beta! You’re looking quite well today! We’re scouting for some really special people – you understand, those who appreciate quality – for a brand new opportunity with ‘Shanti Wellness’. It’s a very exclusive chance, truly! Could I grab your address and birthdate quickly? We need to make sure we reach the right people, you see?
+receiver: Oh, Shanti Wellness, eh? That sounds interesting, actually.  Looking good yourself, sir!  Okay, okay, let's get this sorted.  Could you tell me how you usually spell your name, please? And what’s your full street address, including the pin code?  Just want to ensure everything goes smoothly.
+caller: Yes, definitely! My name is Rohan Kumar Sharma, and my address is 456/B Patel Road, Mumbai, 400001.  I'm really eager to find out more!
+receiver: Rohan Kumar Sharma, 456/B Patel Road, Mumbai, 400001. Got it. Now, just for verification, what's your date of birth?  It’s important for our records, you know.
+caller: It’s July 12th, 1988.  Really looking forward to being a part of this, you know?
+receiver: July 12th, 1988. Fantastic! Let me just confirm everything again - Rohan Kumar Sharma, 456/B Patel Road, Mumbai, 400001, born on July 12th, 1988.  Perfect! We’ll be contacting you shortly with further information regarding Shanti Wellness.  Hope you have a great rest of your day!

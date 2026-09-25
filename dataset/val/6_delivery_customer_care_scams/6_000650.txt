@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel customer care se Rahul bol raha hoon. Aapke Airtel account mein ek suspicious activity detect hui hai. Aapke phone se Rs. 5000 ka ek transaction kiya gaya hai.
+receiver: Rs. 5000? Kya? Mujhe toh kuch pata hi nahi hai. Main abhi phone use kar raha tha, kuch bhi unusual nahi dikha.
+caller: Ji, ji. Hamara system dikha raha hai transaction ho gaya hai. Isko block karne ke liye, mujhe aapki OTP (One-Time Password) chahiye. OTP aapke registered mobile number par aayega.
+receiver: OTP? Par ye transaction mujhe hi kiya hai? Mujhe koi message ya notification mila hi nahi. Aur aapko OTP kyun chahiye, mujhe confusion ho raha hai.
+caller: Sir, OTP sirf transaction ko block karne ke liye hai. Agar aap OTP nahi denge, toh aapka account permanent block ho jayega aur transaction reverse nahi hoga. Aapko Rs. 5000 ka nuksan hoga. Just 2 minutes, sir.
+receiver: Permanent block ho jayega? Rs. 5000 ka nuksan? Dekhiye, mujhe ye kuch suspicious lag raha hai. Main khud Airtel customer care number se call karta hoon aur verify karta hoon. Aap mujhe wait karwadein.
+caller: Sir, please don’t waste time. Sirf OTP bata dijiye, otherwise aapko bahut pareshaani hogi. Sir, abhi aur koi risk nahi lena chahiye.

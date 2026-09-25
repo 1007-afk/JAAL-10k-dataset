@@ -1,0 +1,6 @@
+caller: Namaste, main Flipkart Customer Care se Rohit bol raha hoon. Aapke naam par ek order aaya hai, order ID FLP782394. Lekin delivery ke dauraan ek problem ho gaya hai, package damage ho gaya hai.
+receiver: Flipkart? Damage ho gaya? Kya order kiya tha main? Mujhe toh koi order yaad nahi aa raha. Mera naam Priya Sharma hai.
+caller: Ji, Ms. Sharma. Aapne ek Samsung TV order kiya tha, ₹65,000 ka. Damage hone ke karan, Flipkart ne decision liya hai ki aapko damage compensation fee bhar deni hogi, ₹7,500.
+receiver: ₹7,500? Compensation fee? Lekin maine toh koi TV order nahi kiya! Yeh kuch ghalat ho raha hai. Mujhe yeh nahin chahiye.
+caller: Ma’am, aapko TV bhi receive hoga, lekin compensation fee ke bina, policy hai. Fee bharne ke baad, delivery agent aapke ghar aayega. Aap UPI se payment kar sakti hain.
+receiver: UPI? Bilkul nahi! Main koi bhi payment nahi karungi. Yeh toh scam lag raha hai. Main police complaint karungi.

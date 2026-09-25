@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Patel? We're calling from CryptoBoost, and we have some incredible news for you regarding your recent Bitcoin investment!
+receiver: Haan, main Mr. Patel. CryptoBoost? Kya hua?
+caller: Wonderful! Your portfolio has been selected for a limited-time VIP upgrade program. We're projecting a guaranteed 22% return in just 48 hours! All we need is a small activation fee of ₹750 to unlock this boost. It covers the network processing and security protocols.
+receiver: 22% in 48 hours? That’s too good to be true, isn't it? And ₹750 activation fee? Why wasn't I informed about this before?
+caller: Absolutely legitimate, sir! This is a special, exclusive offer for high-potential investors like yourself. We’ve noticed your portfolio has good growth potential. The fee secures your position. You can send it via UPI to 8800223344@ybl.  Hurry, the offer closes in 6 hours!
+receiver: UPI? I've heard about UPI scams. Can you give me a reference number or a formal document explaining this VIP upgrade?
+caller:  Certainly! Your reference number is CB-VIP-7892. We'll email you a confirmation document shortly. Don't worry sir, this is a fantastic opportunity to significantly increase your profits! Just send the ₹750, and watch your Bitcoin grow.
+receiver: Email? Okay. Let me check my email and verify before doing anything.
+caller: Wonderful! We're so excited for you, Mr. Patel! Remember, time is of the essence – the offer disappears quickly!

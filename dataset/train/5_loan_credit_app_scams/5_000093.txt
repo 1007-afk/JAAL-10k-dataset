@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from 'FastCashPro'. We've reviewed your loan application and it’s almost approved! Just a few final verification steps needed.
+receiver: FastCashPro? I applied for a loan? I don’t remember applying through that app. I was looking at Credy, maybe?
+caller: It's perfectly alright, sometimes the apps redirect. We saw your application and it’s a good fit. To finalize it, we need a small security deposit – just ₹750. This ensures you’re serious about the loan. We'll refund it immediately after disbursement.
+receiver: ₹750? Seriously? I've never heard of paying a deposit to *get* a loan. That seems really fishy. What's your company registration number?
+caller: Relax, Priya ji! It's a standard procedure to prevent fraudulent applications. We don't want to waste time on people who aren't genuine. Our registration number is FCPL-2023-DL-8945. You can verify it online – just search 'FastCashPro registration'. We have urgent loan slots available.
+receiver: I'm going to do exactly that – verify it online. And I'm not paying anything upfront. This is a scam, isn't it? I’m reporting this number.
+caller: Priya ji, wait! The verification takes time. In the meantime, just confirm your bank account number and IFSC code so we can release the loan immediately. It’s a great opportunity.

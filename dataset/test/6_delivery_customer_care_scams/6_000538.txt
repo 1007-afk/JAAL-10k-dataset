@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul Verma, Blue Dart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Oh, really? What’s the problem? I was expecting a package.
+caller: Haan ji, delivery address incomplete hai. Aur parcel mein security hold lag gaya hai.  Security clearance ke liye kuch details verify karni hogi.
+receiver: What details do you need?  Is it something I can do online?
+caller: Online nahi, sir.  Check karne ke liye aapko OTP verify karna padega.  Aapka bank OTP bhejege, woh mujhe bataiye.
+receiver: OTP? Why do you need my OTP? That sounds suspicious. I’ll just check the Blue Dart website myself.
+caller: Sir, time bahut kam hai, parcel return ho sakta hai.  Thoda urgent hai.  Sir, ek last time, OTP bataiye, please.  Parcel aapka hi hai, check kar lijiye.

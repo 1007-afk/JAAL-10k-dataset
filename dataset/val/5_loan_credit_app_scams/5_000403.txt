@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, QuickCash Solutions se. Aapka phone number hamare database mein update hua hai, aur hum offer kar rahe hain aapko doorstep loan, koi paperwork nahi!
+receiver: Kaise? Main toh koi loan nahi liya tha.
+caller: Bilkul, yeh ek special offer hai. Aapko sirf ₹5000 tak ka loan mil sakta hai, sirf ₹100 processing fee ke saath. Ek minute mein account mein transfer ho jayega.
+receiver: ₹100 processing fee? Aur interest rate kitna hoga?
+caller: Interest rate kuch bhi nahi! ₹100 sirf processing fee hai. Aur agar aap time se repay karte hain, toh koi extra charges nahi. Abhi aapko loan accept karna hai ya nahi?
+receiver: Theek hai, theek hai. Par agar repay karne mein kuch problem ho gaya to?
+caller: Problem nahi hoga! Par agar aap delay karte hain toh hum aapke contacts ko message karenge, aur aapki sharminda karney wali photos bhi share karenge! Abhi ₹5000 accept karein ya nahi?

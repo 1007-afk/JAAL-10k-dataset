@@ -1,0 +1,6 @@
+caller: Namaste! Mein Google Pay se Rahul bol raha hoon. Aapke Google Pay account mein ek suspicious login attempt detect hua hai. Aapko apna account secure rakhne ke liye verification karna hoga.
+receiver: Google Pay? Mere phone pe toh koi notification nahi aaya hai. Kya verify karna hai? Yeh thoda scary lag raha hai.
+caller: Sir, notification delay ho sakta hai. Abhi main aapko verification ke liye kuch details puchoonga. Aapka last transaction amount kitna tha? Aur aapka birth date bataiye. This is just to confirm aap sahi owner hain.
+receiver: Last transaction amount… hmm… kal ₹200 ka phone bill pay kiya tha. Aur birth date… 15th August 1985. But why do I need to tell you this?
+caller: Thank you sir, verification complete hone wala hai. Ab aapko apna Google Pay PIN confirm karna hoga. Sirf last 4 digits bataiye, aur kuch nahi. Isse aapka account safe ho jayega.
+receiver: Wait a minute! PIN? Google Pay kabhi bhi phone pe PIN puchta nahi. Yeh toh scam lag raha hai. Main disconnect kar raha hoon.

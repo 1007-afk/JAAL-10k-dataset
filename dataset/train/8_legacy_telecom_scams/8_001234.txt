@@ -1,0 +1,17 @@
+caller: Namaste! Shubho kadam! You’ve been chosen to win a luxurious stay at the Grand Vista Resort in Goa for a week! Plus, we'll send you a complimentary spa voucher worth ₹10,000! You just need to confirm your identity by pressing 1.
+receiver: Namaste! Really? A week at the Grand Vista Resort? And a spa voucher? That's fantastic! Okay, I’ll press 1 to confirm my identity.
+caller: Excellent! Now, please provide your full name and date of birth, please. We need to verify your information. This is very important.
+receiver: My name is Priya Sharma, and my date of birth is June 15th, 1988.
+caller: Thank you, Priya. Now, can you confirm your address? We need to ensure the voucher reaches you correctly. It’s located at 3/22, Patel Colony, Jaipur.
+receiver: My address is 3/22, Patel Colony, Jaipur. Is that correct?
+caller: Yes, perfect! Just one more thing – we need to set up a secure payment link for the resort booking fee of ₹5000. Please press 2 to proceed.
+receiver: ₹5000? For a week’s stay? That seems a little high. Can you tell me more about the package?
+caller: It’s a small processing fee to secure your reservation. Don't worry, it will be fully refundable if you cancel within 24 hours. Just press 2 to continue.
+receiver: Hmm...okay, let’s see. I’ll press 2.
+caller: Great! Now, you'll be directed to a secure website where you need to enter your credit card details. Please type in your card number, expiry date, and CVV.
+receiver: Wait, hold on! What kind of credit card are you asking for? Debit or credit?
+caller: Any major card will do, Priya. Visa, Mastercard, American Express - anything works. Just quickly enter the details.
+receiver: But… I don't usually share my credit card details over the phone! This feels a bit suspicious.
+caller: Don't worry, Priya! It's completely safe. We use a secure encryption system. Just follow the instructions, and you’ll be enjoying your vacation in no time! Press 3 to proceed.
+receiver: No, thank you. I think I'll just hang up. Goodbye.
+caller: Shame! You're missing out on an amazing opportunity! There are only three more slots available!

@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from Bluedart Courier. We attempted to deliver a parcel addressed to you today, but the address was unclear. Could you please verify your address and contact number? Tracking ID is LX729YZ.
+receiver: Haan, ji. Bluedart? Yes, I have the tracking ID. My address is 123, Sector 7, Vashi, Navi Mumbai, and my number is 9820123456.
+caller: Thank you. It seems there was a slight issue with the payment details associated with this parcel. The transaction was flagged as potentially fraudulent. To ensure safe delivery, we need to verify a one-time password sent to your registered mobile number.
+receiver:  Fraudulent? What kind of issue? I definitely paid for this online. Can you tell me what company the parcel is from?
+caller: Yes, sir. It appears there was an error in the payment gateway.  We've received a notification from the bank.  Please share the OTP so we can quickly resolve this and avoid returning the parcel. It's a very important document from HDFC Bank.
+receiver: Wait a minute. HDFC Bank doesn’t send OTPs to verify parcels. I’m calling my bank now. This seems fishy.
+caller: Sir, please don’t delay! The parcel will be returned to the sender if we don’t confirm the payment immediately, and you will face a late delivery charge. Just the OTP, please?

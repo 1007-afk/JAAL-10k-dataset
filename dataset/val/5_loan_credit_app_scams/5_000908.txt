@@ -1,0 +1,9 @@
+caller: Hello? Yeh Rahul bol raha hoon, InstantCash Solutions se. Aapne toh InstantCash app download kiya tha, haan?
+receiver: Haan, ji haan. Maine download toh kiya tha, par abhi iska use kar raha hoon.
+caller: Bahut achha! Dekhiye, aapki application approved ho gayi hai, ₹60,000 tak ka loan aapke naam par. Approve hone ke liye, bas ₹5,000 processing fee jama karwa do.
+receiver: ₹5,000? Par maine toh kabhi fee jama karne ko kaha nahi tha jab app download kiya tha.
+caller: Woh toh old policy thi. Ab rules change ho gaye hain, sir. Warna aapka loan deny bhi ho sakta hai. Agar aap fee jama nahi karte, toh hum loan cancel kar denge aur aapke contacts ko aapke loan application ke baare mein bata denge.
+receiver: Contacts ko bata denge? Kaise? Yeh thoda scary lag raha hai.
+caller: Haan, sir. Hamare paas aapki contacts ki list hai. Hum unko screenshot bhej denge aapke application ka aur batayenge ki aap ₹5,000 fee jama nahi kar rahe hain. Hum aapki izzatdaar image ko damage nahi hone denge, so jaldi se fee jama karwa lijiye.
+receiver: Theek hai, theek hai… ek minute.
+caller: Jaldi karo, sir! Time barbaad ho raha hai. Loan approval window is closing. Hum ₹7,500 ke transaction record ke screenshot bhi bhej denge, bas process complete karne ke liye.

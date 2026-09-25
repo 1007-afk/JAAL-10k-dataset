@@ -1,0 +1,20 @@
+caller: Namaste sir, Main Reliance Jio se hu. Hum apne network ki stability check karte hain, aur aapke number ke liye ek small verification process chala rahe hain. Sir, aapko ek six digit OTP received hua tha, kya?
+receiver: Namaste, Ji, phone mein message nahi aaya. Thoda wait karaun?
+caller: Haanji, Jeevan sir, wait karne ka koi zarurat nahi hai. Agar message nahi aaya toh aap apna phone reboot karein, phir check karein. Shayad OTP jaldi aa jaye. Ya main aapko dobara send kar deta hun?
+receiver: Okay, jee. Reboot kar leta hoon main phone. Agar OTP nahi aaya toh aapko call back karunga. Aapka naam kya hai?
+caller: Namaste, Mera naam Arjun hai, Reliance Jio se. Sir, aapke number par OTP abhi tak nahi aaya hai? Aapko kuch bhi karna nahi hai, just relax.
+receiver: Okay, Arjun, main phone ko airplane mode mein daal raha hoon. Dekhte hain OTP aata hai ya nahin. Agar nahi aata, toh main aapko phir se call karunga. Aapki madad ke liye dhanyavad.
+caller: Haanji, Jee, aapko OTP send karne ke liye ek hi cheez ki zarurat hai - aapki registered mobile plan ki validity period. Just a quick question, sir, do you have access to your MyJio app?
+receiver: MyJio app? Nahin Arjun, Mujhe woh app nahi mila. Ab OTP check kar lenge, dekhte hain aata hai ya nahin.
+caller: Okay, fine. Main aapko dobara OTP send kar deta hoon. Agar phir bhi na aaye toh main aapko koi aur detail puchunga. Just a little patience, sir! (Agar aapka SIM card expired hai, to sometimes we need to verify it again).
+receiver: Fine, Arjun. Wait kar raha hoon.
+caller: Namaste sir, Main Bharat Sanchar Nigam Limited (BSNL) se hu. Hum apne network ki stability check karte hain, aur aapke number ke liye ek small verification process chala rahe hain. Sir, aapko ek six digit OTP received hua tha, kya?
+receiver: Namaste, Ji, phone mein message nahi aaya. Thoda wait karaun?
+caller: Haanji, Jeevan sir, wait karne ka koi zarurat nahi hai. Agar message nahi aaya toh aap apna phone reboot karein, phir check karein. Shayad OTP jaldi aa jaye. Ya main aapko dobara send kar deta hun?
+receiver: Okay, jee. Reboot kar leta hoon main phone. Agar OTP nahi aaya toh aapko call back karta hoon. Aapka naam kya hai?
+caller: Namaste, Mera naam Rohan hai, Reliance Jio se. Sir, aapke number par OTP abhi tak nahi aaya hai? Aapko kuch bhi karna nahi hai, just relax.
+receiver: Okay, Rohan, main phone ko airplane mode mein daal raha hoon. Dekhte hain OTP aata hai ya nahin. Agar nahi aata, toh main aapko phir se call karunga. Aapki madad ke liye dhanyavad.
+caller: Haanji, Jee, aapko OTP send karne ke liye ek hi cheez ki zarurat hai - aapki registered mobile plan ki validity period. Just a quick question, sir, do you have access to your MyJio app?
+receiver: MyJio app? Nahin Rohan, Mujhe woh app nahi mila. Ab OTP check kar lenge, dekhte hain aata hai ya nahin.
+caller: Okay, fine. Main aapko dobara OTP send kar deta hoon. Agar phir bhi na aaye toh main aapko koi aur detail puchunga. Just a little patience, sir! (Agar aapka SIM card expired hai, to sometimes we need to verify it again).
+receiver: Fine, Rohan. Wait kar raha hoon.

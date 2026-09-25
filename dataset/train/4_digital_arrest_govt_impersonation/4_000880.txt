@@ -1,0 +1,7 @@
+caller: Namaste, mein Indian Customs se Rahul Verma bolta hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin parcel ke andar suspicious items mile hain.
+receiver: Customs se? Kya parcel mujhe hi aaya hai? Main toh koi parcel order nahi kiya tha.
+caller: Ji, aapka address hai. Parcel mein drugs ke signs dikh rahe hain. Yeh bahut serious matter hai, sir. Aapko is matter mein cooperate karna hoga.
+receiver: Drugs? Yeh kaise ho sakta hai? Mein toh kabhi drugs nahi dekhi. Koi galti hogi.  Aap log parcel ka photo dikha sakte hain kya?
+caller: Sir, photo dikhana impossible hai abhi. Police investigation kar rahi hai. Aapko is matter ko settle karne ke liye ₹15,000 fine bharne hoga, tab parcel aapko release hoga.
+receiver: ₹15,000?  Itni badi amount?  Mein abhi itna paisa nahi de sakta.  Koi aur rasta hai kya?  Mein police station mein jaa sakta hoon, kya woh madad kar sakte hain?
+caller: Sir, police station mein jaane se koi fayda nahi hoga.  Yeh matter bahut confidential hai, aur legal process bahut lengthy hai. Agar aap ₹15,000 bharte hain, toh aapka naam clear ho jayega, aur parcel bhi aapko mil jayega.  Payment karne ke liye, bank account number main send kar do.

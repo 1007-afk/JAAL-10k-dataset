@@ -1,0 +1,12 @@
+caller: Namaste! Main Ajay Kumar, Delhi Metro Rail Corporation se baat kar raha hoon. Aapne dekha hai kya, metro mein now electric trains chal rahi hain, aur 26th October tak, aapko free travel voucher milegi! Iske liye aapko sirf apna Aadhaar card number dena hoga. Kya interest hai?
+receiver: Arre, seriously? Delhi Metro mein electric trains? Aur free voucher? Mein Rahul hoon. Thoda confused hoon, bhai.  Aapko Aadhaar card number maang rahe hain? Woh kaise secure rahega?
+caller: Haan ji, Rahul! Main Ajay Kumar hoon. Don’t worry, sir. Yeh voucher online system ke through generate hogi, aur aapko sirf number dena hoga.  Iske liye humein sirf aapke Aadhaar card ke first six digits chahiye. Just for verification purpose hai.  Aur aapko Delhi metro website par jaakar check kar sakte hain.
+receiver: First six digits? That doesn’t sound very safe.  Mein Priyanka hoon.  Mujhe jitni security hai, woh sab rakhna chahiye.  Koi digital signature ya OTP bhi nahi?
+caller:  Haan ji, Priyanka!  Security bahut important hai.  Yeh voucher offline bhi mila jayega, aapko sirf kiosk pe apna Aadhaar card dikhana hoga.  Aur ismein koi digital signature ki zaroorat nahi hai.  26th October tak aapko voucher mil jayega.  Aapko Saturday ko metro mein jaana hai, hai na?
+receiver: Saturday? Why Saturday?  Mein Vikram hoon.  Mujhe kuch confusion hai.  Aapko schedule change karne ka option nahi hai?
+caller:  Haan ji, Vikram!  Saturday is just a promotional day.  Aapko sirf voucher collect karne ke liye jana hai.  Metro mein travel voucher apply karne ke liye aapko sirf Saturday ko visit karna hoga.  Aapko koi ticket buy karna nahi hai.
+receiver: Okay, okay.  Mein Sanjay hoon.  Thoda slow karo, bhai.  Aadhaar card number maang rahe ho, aur Saturday ko janna hai.  Mujhe yeh sab thoda over feeling ho raha hai.
+caller:  Haan ji, Sanjay!  Apne peace of mind ko value do.  Yeh voucher aapko Diwali ke baad use karne ke liye milega.  Aapko sirf apna Aadhaar card number aur address details chahiye.  Address details confirm karne ke liye.  Iske liye aapko sirf Saturday ko kiosk pe jana hoga.  Aapko enjoyment hogi, Rahul!
+receiver: Enjoyment?  Mein Neeraj hoon.  Mujhe abhi bhi doubt hai.  Aapko address details maang rahe ho, mujhe security concern hai.  Aapko helpline number deta hoon, agar koi problem hai.
+caller:  Haan ji, Neeraj!  Call karna sure!  Aapko Saturday ko kiosk pe milenge.  Enjoy your movie ride!  Bye bye!
+receiver: Bye!

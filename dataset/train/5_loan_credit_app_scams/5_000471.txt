@@ -1,0 +1,7 @@
+caller: Namaste! This is Deepak from LoanExpress India. We've noticed you’ve been browsing our website for quick personal loans. We have a fantastic offer just for you - a loan of ₹25,000 with minimal paperwork! Are you interested?
+receiver: Hello! ₹25,000? That sounds good actually. I do need some money urgently. But what’s the interest rate like?
+caller: The interest is competitive, madam. Just ₹2,500 processing fee upfront, to verify your details. Once the loan is disbursed, the repayment schedule will be discussed. We need to confirm your ID for security. Can you please share the last four digits of your Aadhar card?
+receiver: Processing fee upfront? That seems a bit high. And sharing my Aadhar details over the phone feels risky. I’m not sure.
+caller: Madam, it's a standard procedure for immediate verification. Without it, we can’t proceed. This is a limited-time offer. Otherwise, loan will be rejected. And there's a delay, because many people are applying. If you want to claim your loan, you must complete the verification process. Please, provide the last four digits for the benefit of you.
+receiver: Okay, fine. It’s 4587. Please just confirm what will happen after that?
+caller: Thank you! LoanExpress India is pleased to grant you ₹25,000. To release the funds, you need to pay an insurance fee of ₹3,000 to cover any defaults. This is a one-time payment only, and it ensures your loan security. Please transfer the money to this UPI ID: 9876543210@ybl.

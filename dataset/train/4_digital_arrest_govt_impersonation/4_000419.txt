@@ -1,0 +1,8 @@
+caller: Hello, main Indian Customs Department se Deepak bol raha hoon. Aapke naam par ek parcel Jaipur airport par rok liya gaya hai.
+receiver: Kya? Parcel rok liya gaya hai? Main kya order kiya tha? Aur mujhe kaunsa parcel hai?
+caller: Parcel mein illegal items paaye gaye hain, sir. Preliminary investigation ke hisaab se, yah drug trafficking se related ho sakta hai.
+receiver: Drug trafficking? Yeh galat hai! Main kabhi bhi illegal items nahi order karta. Main ek respectable citizen hoon.
+caller: Sir, matter serious hai. Aapko Jaipur airport par aake parcel claim karna hoga, lekin pehle case settle karna padega. Case settle karne ke liye 50,000 rupees ka fine lagaya gaya hai.
+receiver: 50,000? Yeh thik nahi hai! Agar main illegal items nahi order kiya toh main kyun fine pay karoon? Mujhe proof dikhaiye. Main police station mein report karunga.
+caller: Sir, proof airport se aaya hai, confidential hai. Police station mein report karne se case aur badh jayega aur aapke naam par criminal record ho jayega. 50,000 rupees pay kar dijiye, hum case close kar denge aur aap parcel claim kar sakte hain.
+receiver: Sir, yeh ek scam hai! Main kisi ko bhi paise nahi pay karunga. Main abhi police ko call karta hoon aur aapki call record bhi karta hoon.

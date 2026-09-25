@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay support se bol raha hoon. Aapke BharatPay wallet mein ek aat unexpected transaction detect hua hai - ₹1200 ka.
+receiver: ₹1200? Mujhe toh koi transaction yaad nahi. BharatPay se hi call hai?
+caller: Haan ji, BharatPay se hi hai. Aapko is transaction ko urgently verify karna hoga, warna aapka wallet suspend ho sakta hai. Is number pe call karein - 98765 43210.  Yeh security protocol hai.
+receiver: Wallet suspend? ₹1200 ka transaction?  Koi transaction ID ya details batao. Mujhe doubt ho raha hai.
+caller:  Sorry sir, security reasons se hum details phone par nahi de sakte.  Aapko fast action lena hai, otherwise aapka wallet freeze ho jayega aur aapka paisa bhi risk mein aa jayega. Jaldi call karein!
+receiver: Freeze ho jayega?  Dekhiye, mujhe yeh believable nahi lag raha.  Main BharatPay app mein check karta hoon. Aap wait karein.
+caller: Hello? Aapko koi problem hai kya? Abhi call cut karne mat!  Wallet freeze hone se pehle urgently call karo!

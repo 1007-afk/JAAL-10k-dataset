@@ -1,0 +1,8 @@
+caller: Namaste sir, aapka swagat hai! Kya main aapki kuch madad kar sakta hoon aaj?
+receiver: Namaste ji! Shukriya! Haan ji, mujhe ek delivery ke baare mein thoda help chahiye tha. Aap mera naam Priya Patel note kar sakte hain.
+caller: Namaste Priya ji! Shukriya calling. Mujhe Priya Patel naam note ho gaya hai. Aap kis delivery ke baare mein baat kar rahe hain? Koi tracking number ya reference code to bataiye, main usse check kar leta hoon.
+receiver: Ji haan, bilkul. Delivery number hai XYZ98765. Mein ne delivery schedule change karna chahti thi, lekin website par koi option nahi mila.
+caller: Priya ji, XYZ98765 delivery number check kar raha hoon. Thoda sa wait kar dijiye. Okay, Priya ji, dekha mein ki aapki delivery date change karne ka request hai. Aapse ek maliya confirm karne ke liye chota sa question hoga. Kya aap mujhe apne bank account number bata sakti hain jo aapne payment karte waqt diya tha?
+receiver: Ji haan, zaroor. Mera bank account number hai 1234567890. Agar yeh sahi hai toh good.
+caller: Priya ji, thank you for confirming your bank account number. Yes, 1234567890 matches our records. Aapki delivery date ab badalti chal rahi hai. Aapko 3-5 days ke andar refund mil jayega. Kya main aapki aur koi madad kar sakta hoon?
+receiver: Nahi ji, bas is delivery ka update hi chahiye tha. Dhanyavaad!

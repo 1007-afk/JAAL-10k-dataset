@@ -1,0 +1,11 @@
+caller: Namaste! Main Rajat Sharma, FastLoanHub se bol raha hoon. Aapko urgent loan chahiye kya? Hum offer kar rahe hain ₹25,000 se ₹2,00,000 tak ka loan, sirf PAN card aur Aadhaar card se. Aapka naam kya hai, sir?
+receiver: Haan, main Anita Verma hoon. Loan ki zaroorat hai, lekin itna zyada amount kyun?
+caller: Anita Verma ji, hum offer zyada rakhte hain taaki maximum logon ko benefit ho. Aapko kitni amount chahiye thi? Aur woh kis kaam ke liye chahiye?
+receiver: Mujhe ₹40,000 chahiye they, meri beti ki fees bharne ke liye.
+caller: Bahut achha kaam hai, Anita ji! Beti ki education important hai. Toh, aapka bank account kis naam par hai aur woh konsa bank hai? Aur aapki monthly income kitni hai?
+receiver: Account mere naam par hi hai, SBI mein hai. Monthly income around ₹35,000 hi hoti hai.
+caller: Excellent, Anita ji! Loan approve ho gaya hai. Ab, ₹40,000 mil jayenge, lekin processing fee ke taur par ₹4,000 ko pehle submit karna padega. Humko Paytm ya Google Pay se transfer kar do.
+receiver: ₹4,000 processing fee? Ye to bahut zyada lag raha hai.
+caller: Anita ji, sorry, yeh rule hai. Agar aap pay kar deti hain toh loan ka payment immediately start ho jayega. Otherwise, application reject ho jayega. Koi aur option nahi hai.
+receiver: Thik hai, main try karti hoon.
+caller: Bahut achha, Anita ji! Mein aapko payment details send karta hoon WhatsApp par. Jaldi karo, time limit hai.

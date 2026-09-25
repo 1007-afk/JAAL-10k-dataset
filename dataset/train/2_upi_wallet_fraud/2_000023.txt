@@ -1,0 +1,12 @@
+caller: Namaste, hai kya [Victim’s Name]? Ye Sanjay Sharma hai, Paytm Customer Care se. Aapse ek important matter poochein chahti hoon. Aapse Paytm app ke usage mein kuch dikkat aa rahi hai kya?
+receiver: Paytm? Haan, Paytm use karta hoon. Par abhi tak koi problem nahi hui. Kya hua?
+caller: Dekho, hum ne aapke Paytm account mein ek new transaction dekha hai. Woh transaction aapne nahi kiya hai. Ismein koi technical issue ho sakta hai, ya shayad koi fraud activity. Aapse request hai ki aap apne device ko offline kar de, agar possible ho toh.
+receiver: Offline kar dunga? Kyon karun? Mein Paytm use karte rahin ga.
+caller: Please, isme delay nahi karna hai. Is transaction ko block karne ke liye humein aapke OTP chahiye. OTP aapko Paytm app mein hi milega. Just give us the OTP, and we will immediately stop the fraudulent transaction.
+receiver: OTP? Mere OTP ko aapko kyun chahiye? Paytm mein OTP kaise milega? Aur yeh transaction mujhse kaise pura kiya?
+caller: Don't worry, [Victim's Name]. Hum Paytm ke official representatives hain. Aapse koi personal information nahi mangenge. OTP sirf transaction ko block karne ke liye hai. Ismein koi cheating nahi hone wala.
+receiver:  Par mujhe suspicion lag raha hai. Mein Paytm ka OTP kisi ko bhi nahi deta. Aapne kaha ki aap Paytm ke representatives hain, par aapne mera naam [Receiver's Actual Name] bola, aur main toh Rajesh Kumar hoon. Aapko apna identity confirm karna hoga.
+caller: Oh, sorry! Sorry ji, mistake ho gaya. System mein records galat hain.  Aapko maaf karna.  Dekho, is transaction ko handle karne ke liye, humein aapka KYC document copy chahiye.  It's just a standard procedure to verify your identity and prevent any misuse of your account. Could you send us a picture of your Aadhaar card?
+receiver: KYC document copy? Aadhaar card ka photo?  Yeh kya matlab hai? Main AAPKO koi bhi document copy nahi bhejeengaa.  Mein Paytm customer support number se contact karunga. Aapko band kar do.
+caller: Please, don't waste your time. This is the fastest way to solve the problem. If you don't cooperate, we may have to report this transaction to the authorities. You won't like that, right?
+receiver: Authorities? Mujhe malum hai! Mein aapko koi bhi information nahi den ga.

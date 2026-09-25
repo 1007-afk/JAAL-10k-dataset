@@ -1,0 +1,8 @@
+caller: Namaste sir, main One97 Digital se bol raha hoon. Aapke PhonePe account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kuch transaction hua hai? Mujhe toh koi message nahi aaya.
+caller: Haan sir, ek bahut hi chhoti amount, sirf ₹5, ek unknown ID par transfer ho gayi hai. Security ke liye hum aapke account ko temporary suspend kar rahe hain.
+receiver: ₹5? Aur account suspend bhi kar diye? Yeh kya ho raha hai? Mera PhonePe ID hai [invented number, e.g., 8800112233]. Account reactivate karne ke liye kya karna padega?
+caller: Sir, account reactivate karne ke liye aapko ek OTP verify karna hoga. Woh aapke phone number par milega. Ek baar OTP verify ho gaya, toh account automatically reactivate ho jayega aur aapka transaction bhi check ho jayega.
+receiver: OTP? Aur woh kaunsa OTP hai? PhonePe toh kabhi OTP maangta nahi hai. Mujhe thoda doubt ho raha hai. Aapka naam batao, aur PhonePe support number dedo. Main khud check karunga.
+caller: Sir, mera naam Amit hai, aur humara official PhonePe helpline number hai 1800-123-4567. OTP verification ki wajah se aapka account suspend hua hai, lekin yeh aapki security ke liye hai. Please share the OTP so we can reactivate your account.
+receiver: Okay, ek minute. Main PhonePe app mein check karta hoon...arre wah, yeh toh fake hai! Koi OTP nahi aaya. Mujhe pata chal gaya. Yeh scam hai!

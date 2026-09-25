@@ -1,0 +1,7 @@
+caller: Namaste! Calling from QuickCash Solutions. We see you're pre-approved for a personal loan of up to ₹75,000. No paperwork needed, instant approval! Just a small processing fee to verify your details. Can I confirm your name, please?
+receiver: Hello? QuickCash Solutions? A loan? I didn't apply for any loan. Is this legit?
+caller: Yes, absolutely! We partner with multiple banks. This is a fantastic opportunity. To start the verification process, we need ₹700 as a security deposit. This ensures you’re a genuine applicant and unlocks your loan amount. You can deposit it via UPI – I'll send you the details.
+receiver: Wait, a security deposit *before* the loan? That sounds strange. Banks don’t usually do that. And ₹700?
+caller: It’s a standard procedure, madam. It prevents fraudulent applications. Think of it as an insurance fee for your loan. Once you deposit, we'll release the ₹75,000 immediately. Don't miss out on this limited-time offer! UPI ID is 9876543210@ybl.
+receiver: No, thank you. I'm not comfortable with this. It feels like a scam. I'll stick to applying through my bank. Goodbye.
+caller: Madam, please don’t be hasty! This is a real opportunity. Just a quick deposit, and you’ll have the funds in your account. Think about it, ₹75,000 instantly! It’s a great chance to boost your business. We can wait a minute.

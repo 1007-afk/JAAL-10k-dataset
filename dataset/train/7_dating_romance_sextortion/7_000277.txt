@@ -1,0 +1,11 @@
+caller: Namaste! Main sunaa gaya ki aapko online profiles dekh kar interest hui hai, aur mujhe laga ki humein kuch baat karna chahiye. Kya aapko acha lag raha hai?
+receiver: Haan, namaste! Jihaan, mujhe bhi achha laga ki aapne call kiya. Mein bhi online exploring, try kar rahi hoon kuch new connections banane. Kaise hain aap? Kuch khaas reason hai aapne contact kiya?
+caller: Arey yaar, genuinely connect hone wala ek dost milna kitna mushkile ho gaya hai! Dekha aapko bhi profile hai, aur socha kyun na baat karein. Apni name kya hai? Mera name Vikram hai. Aur aap kya kar ke jaati hain? Aajkal kahan kar rahi hain?
+receiver: Hi Vikram! Mera name Priya hai. Main abhi college mein hoon, padhai kar ke jaati hoon. Aur aajkal exams ke neeche chotiy si stress manage kar rahi hoon. Aap kaise hain? Aapke profile mein kya dikha tha?
+caller: Oho, Priya! College toh bahut important hai. Main tech sales mein kaam karta hoon, software selling karta hoon. Profile mein tha ki single huon, aur dil mein ek achha partner chahta hoon. Kya aapko bhi aisa hi feel hota hai?
+receiver: Tech sales? Interesting! Jaise, aapko companies se software connect karna hota hai? Aur haan, mere profile mein bhi same type ka message tha, connecting with nice people, searching for someone who understands me. Aapko kya pasand hai?
+caller: Haan, bilkul! Woh jo message mili, woh actually mujhe kisi local community event ka invite tha, thaike exciting lagega. Kya aapko bhi aisa hi invite mila tha? Was it saying anything about meeting up soon?
+receiver: Actually, mera message bhi ek general invite tha, just asking if anyone wanted to grab coffee sometime.  Koi specific date nahi tha, just a casual offer. Aapko coffee peena pasand hai?
+caller: Haan, bilkul! Coffee toh pasand hi hai.  Priya, agar aapko interest ho, toh hum kabhi coffee shuru kar sakte hain.  Aapki hobbies kya hain, besides studies?  Kya aapko music pasand hai, ya kisi aur activity mein interest hai?
+receiver: Studies ke baad, mujhe music listening karna aur kalakar bhi gaana pasand hai!  Aur aap?  Aepko coffee shuru karne mein koi problem nahi hai.  Mujhe pata hai, sometimes these things take time.
+caller: Wow, music toh bahut accha hai! Vikram hai main.  Music listening mein enjoyment hoti hai, aur main photography bhi kartahoon.  Aapko photography pasand hai?

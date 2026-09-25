@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from Loan Express. We’ve noticed you applied for a loan recently. There's a small verification fee to finalize approval, just ₹2,500. It's a standard procedure. Can you confirm your full name?
+receiver: Loan Express? I don’t remember applying. I was looking at some options online, but I didn't submit anything. What's my name you have?
+caller: Your name is Raj Patel, correct? We have your details here. This ₹2,500 is to secure your loan amount of ₹75,000. It will be credited back to you once the loan is disbursed. Just a small OTP verification and payment.
+receiver: Wait a minute. ₹2,500 before even getting a loan? That seems strange. And I definitely don't remember giving any OTP. What’s the payment link?
+caller:  Yes, sir, it's a small cost to cover processing and insurance. The link is bit.ly/LoanSecurePay. Please complete the payment immediately so we can release your loan funds.  There are many applicants waiting, so act fast.  Otherwise, we’ll have to cancel the approval.
+receiver: bit.ly? Seriously? That looks very suspicious. I'm not clicking any links. I’m calling the bank to check this. Thank you for your time.
+caller: Sir, this is a time-sensitive offer. Don’t miss out! If you don’t pay, we have your contact details and will share them with others as a warning of your loan default. We have access to your phone contacts too.

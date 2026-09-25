@@ -1,0 +1,8 @@
+caller: Namaste, madam. Mera naam Vijay hai, Bharat Finance se. Aapne Bharat Finance app se ₹15,000 ka loan apply kiya tha, sahi?
+receiver: Haan, ji. Maine apply toh kiya tha, lekin abhi mujhe confirmation nahi mila.
+caller: Madam, aapka loan approve ho gaya hai! Lekin registration complete karne ke liye, aapko ₹2,500 ka processing fee deposit karna padega. It's very simple.
+receiver: ₹2,500? Lekin app mein to ₹500 likha tha!
+caller: Madam, system mein kuch technical issues aa rahe hain. Fee temporary badh gayi hai. Jaldi karo, otherwise loan approve ho jayega. Kuch aur log bhi apply kar rahe hain!
+receiver: Mujhe thoda doubt ho raha hai. Mein check kar ke bataati hoon.
+caller: Madam, please hurry! Agar aap abhi fee deposit nahi karti, toh aapka loan cancel ho sakta hai aur aapki credit score bhi affect ho sakti hai. Tumhe nuksan hoga! Account details mein bhejo.
+receiver: Okay, ek minute. Mein check karti hoon.

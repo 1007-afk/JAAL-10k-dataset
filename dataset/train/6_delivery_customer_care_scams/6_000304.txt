@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? This is Rohan from Blue Dart Courier. We're calling regarding a package addressed to you, tracking ID BD789456. There seems to be an issue with the delivery address – it’s showing as incomplete and we need to verify some details before we can proceed.
+receiver: Blue Dart? Haan, mai Mrs. Verma hu. Kya hua?
+caller: Ma’am, the system is flagging a discrepancy. It appears there's an outstanding delivery fee of ₹350 due to a slight error in the initial declaration. To release the package and get it delivered to you immediately, we need you to confirm the details and make a quick payment.
+receiver: ₹350? Par maine toh kuch order nahi kiya tha. Kaise hoga delivery fee?
+caller: Ma’am, these things happen sometimes with international shipments. It could be a previous order you’ve forgotten about, or a slight miscalculation. To avoid the package being returned to sender, could you please provide the last four digits of your bank account so we can quickly process the payment and update our records? We need to do this right away, otherwise the package will be sent back.
+receiver: Bank account number? Nahi, main kuch nahi dungi. Yeh toh scam lag raha hai! Blue Dart kabhi bank account number poochhega nahi.
+caller: Ma’am, I understand your hesitation, but this is standard procedure. I can give you my employee ID – BD4589. Please call our customer care at 1800-123-4567 and confirm my ID to verify this is a genuine call. We just want to ensure you receive your package safely.
+receiver: Theek hai, main call karta hu. Par abhi main kuchh bhi nahi dungi.

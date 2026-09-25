@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Customs se Manish Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, jo Delhi se aaya hai, lekin andar suspicious items mile hain.
+receiver: Parcel? Mera naam? Maine toh koi parcel order kiya hi nahi. Aur suspicious items? Kya matlab?
+caller: Ji, parcel mein electronic gadgets hain, par woh declare nahi kiye gaye hain. Isliye, rules ke hisaab se, aapko ek fine pay karna padega, ₹8,000. Tabhi parcel aapke naam se release hoga.
+receiver: ₹8,000? Dekhiye, mujhe yeh kuch galat lag raha hai. Main toh koi parcel order nahi kiya. Aur customs se direct call nahi karte hain fine ke liye. Koi receipt number ya tracking number toh de sakte hain aap?
+caller: Ji, tracking number XYZ123456 hai.  ₹8,000 ka payment aapko UPI se karna hai, hume aapka UPI ID chahiye.  Yeh process bahut urgent hai, sir. Parcel release nahi hoga warna.
+receiver:  Ek minute rukiye. Main check karta hoon.  Meri taraf se koi order nahi hai. Main apni courier company se bhi baat karta hoon. Aapko wait karna hoga. Main kisi bhi UPI ID se paisa nahi bhejunga abhi.
+caller: Sir, yeh bahut important hai. Yeh legal matter hai. Agar aap cooperate nahi karenge, toh humko forced karna padega case register karne ka. ₹8,000 abhi bataiye, warna parcel destroy kar denge aur aapki naam black list ho jayegi.
+receiver: Black list? Destroy? Aapko pata hai, aap fraud kar rahe hain. Main police mein complaint karunga.

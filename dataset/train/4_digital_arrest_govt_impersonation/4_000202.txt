@@ -1,0 +1,6 @@
+caller: Namaste, sir. Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par adhura clear kiya gaya hai. Is parcel mein illegal items paaye gaye hain, jo narcotics act ke under aate hain.
+receiver: Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya. Yeh kya bol rahe hain? Mumbai airport?
+caller: Ji, sir. Hamare records ke according parcel aapke address par register hai. Security reasons se humein aapki identity confirm karni hogi aur parcel ko release karne ke liye kuch formalities complete karni padengi. Aapka PAN card number bataiye, taaki hum verify kar saken.
+receiver: PAN card? Yeh thoda strange hai. Custom officials PAN card number maangte hain? Aur parcel mein illegal items? Mujhe toh kuch samajh nahi aa raha. Main abhi call pe nahi kar sakta, mujhe check karne do.
+caller: Sir, yeh matter bahut serious hai. Agar aap cooperate nahi karenge, toh humko police ko report karna padega. Police aapko arrest kar sakti hai. Parcel release karne aur arrest se bachne ke liye, ₹5000 ko customs recovery account mein transfer karein. Hum dobara check karenge aur parcel release kar denge. Aapko OTP milega, woh bataiye.
+receiver: ₹5000? Arrest? Sir, yehi toh scam hai! Main kabhi bhi apna OTP ya PAN card nahi dunga. Main abhi police ko report karunga. Aapko pakda jayega!

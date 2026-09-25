@@ -1,0 +1,11 @@
+caller: Namaste sir, is this Mr. Sharma? Humhi Bharat Telecom se baat kar rahe hain.  Aapko ek important alert milega, regarding the recent online shopping campaign you participated in.  Humne aapko call kiya hai because your order has been flagged for potential fraud.  Aapne recently Flipkart par ek laptop purchase kiya tha, right? And you received a confirmation email?
+receiver: Namaste, yes, this is Sharma Ji. Haan, maine Flipkart se ek laptop purchase kiya tha.  Haan, confirmation email bhi mila tha.  But what’s going on? Why are you calling me?
+caller:  Great!  We have detected some suspicious activity related to your payment method.  It seems there might be an attempt to use a stolen credit card.  Don’t worry, we are here to help you secure your account.  We need to verify your identity just to ensure everything is safe.  So, can you please provide us with your bank account number?
+receiver: Bank account number? Why do you need my bank account number? That doesn’t sound right.  I don’t feel comfortable sharing that information.
+caller:  Sir, this is for security purposes only.  We need to freeze your account temporarily and transfer funds to a safer location.  It’s a standard procedure for preventing financial loss.  Just give us the account number, it will only take a minute.  And also, could you tell me your mother’s maiden name for verification?
+receiver: My mother’s maiden name? Seriously? You’re asking for my mother’s maiden name too? This feels like a complete scam!
+caller:  Please cooperate, sir.  This is the quickest way to resolve this issue and protect your money. We have already alerted the authorities.  Just one last piece of information – your date of birth, please.
+receiver:  Wait a moment...  I am not comfortable with any of this.  I think I should hang up now.
+caller:  Please don't go!  We are doing this for your own good.  One final request - your pin code, please.  It’s essential for confirming your address.
+receiver:  No, thank you.  I’m ending this call now.  Goodbye.
+caller:  Wait! Don’t hang up yet!  We just need to confirm your mobile number, please.

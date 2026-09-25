@@ -1,0 +1,8 @@
+caller: You’ve been selected as a winner in our exclusive lottery draw! We have some exciting news – you’ve won either a luxury cruise to the Bahamas or a substantial £7500 prize money. To process your winnings and receive your reward, there will be a small administrative fee of £2.00 per minute, lasting up to 15 minutes. Please stay connected so we can verify your details.
+receiver: Hello? Seriously? A cruise to the Bahamas or £7500? That’s amazing! Who called? This is Rajesh Kumar speaking. Can you tell me more about how I won and what I need to do to claim it?
+caller: Wonderful! To proceed with your claim, we require a small verification step. Could you please state your full name as it appears on your official identification documents?
+receiver: My name is Kavita Patel. Okay, what’s next?
+caller: Thank you, Kavita. For security purposes, could you also confirm your year of birth? Just a quick check, nothing complicated.
+receiver: It's 1988. Anything else?
+caller: Great. Now, to ensure accurate delivery of your prize, could you kindly provide your complete postal address, including the area code?
+receiver: My address is 3B, Maplewood House, Oak Avenue. Area code is 600047. Is there anything else required?

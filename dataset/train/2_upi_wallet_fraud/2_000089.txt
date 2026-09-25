@@ -1,0 +1,13 @@
+caller: Namaste, main Flipkart Customer Care se Atul bol raha hoon. Aapke naam par ek order aaya hai, lekin payment verification pending hai.
+receiver: Oh, Flipkart? Mujhe koi order yaad nahi. Kya order hai?
+caller: Sir, yeh ek mobile phone ka order hai, amount ₹17,500. Payment incomplete hone ke karan order deliver nahi ho pa raha.
+receiver: ₹17,500? Mujhe toh koi phone order kiya hi nahi.
+caller: Sir, verification ke liye, aapko ek small processing fee bharne hogi, ₹999. Aapko apne PhonePe app se send karna hai, mere account pe.
+receiver: ₹999? Verify karne ke liye? Uski kya details hai?
+caller: Haan sir, verification ke liye. PhonePe pe meri UPI ID hai: 8800223344@ybl. Aap ₹999 send kar dijiye, order ka dispatch ho jayega.
+receiver: Okay, ₹999 send kar raha hoon. Ek minute.
+caller: Thank you sir! Payment receive ho gaya hai?
+receiver: Haan, send kar diya. Now what happens?
+caller: Sir, aapko ab ek OTP milega apne Paytm app par. Woh OTP mujhe bata dijiye, verification complete ho jayega.
+receiver: Okay, checking Paytm... Acha, OTP mila! Yeh hai 456789.
+caller: Shukriya sir! Verification complete ho gaya hai. Aapka order abhi dispatch ho gaya hai aur 2-3 din mein aapke puste pe pahunch jayega.

@@ -1,0 +1,16 @@
+caller: Namaste, sir, thank you for your Melody Tone Subscription, reference code KL67. You’ll be paying INR 3 per month. You can cancel anytime by dialing 800-123-4567.
+receiver: Oh, thanks for letting me know! INR 3 a month, okay. And 800-123-4567 – I’ll make sure to save that number just in case. Appreciate the detail!
+caller: Haan, aur ek important cheez hai. Isse aapko pata chalega ki yeh INR 3 har mahina automatically deducted hoga, until you explicitly cancel it. If you want to stop this recurring payment, please dial 800-123-4567 again and follow the instructions. Understand?
+receiver: Arre, matlab mujhe ₹3 every month continuously cutte rahange?  Okay, I get it. And if I want to cancel, then 800-123-4567 pe phir se call karna hai. Hai hai, remember that.
+caller: Exactly! You understood perfectly. We just wanted to ensure you were fully informed. No immediate action is needed unless you decide to cancel. Are there any other questions for me now?
+receiver: Nahin, currently no questions. You explained everything clearly. Dhanyavaad!
+caller: Very good, sir! Please retain this number for any future inquiries, 800-123-4567. Have a pleasant day!
+receiver: Okay, thank you so much! You’ve been really helpful. I’ll keep that number close. You also have a nice day!
+caller: Madam, thanks for your “Happy Tunes” ringtone order, ID is RJ23. You’re billed Rs 5 weekly. Cancel anytime by calling 7700-987654.
+receiver: Oh, thanks for the update! Rs 5 per week, noted. And 7700-987654 - I’ll keep that in mind if I ever want to cancel.
+caller: Yes, and listen carefully. This Rs 5 will be taken automatically every week until you actively cancel. For cancellation, please dial 7700-987654 again and speak to a representative. Clear?
+receiver: Seriously, Rs 5 every single week?  Okay, so I have to call back 7700-987654 to actually stop it. Right, I’m remembering.
+caller: Precisely! Just ensuring you’re completely aware. No need to do anything right now, unless you wish to cancel. Any further queries?
+receiver: Not yet. Everything’s quite straightforward. Shukriya!
+caller: Wonderful! Keep this number handy for any future concerns, 7700-987654. Have a good one!
+receiver: Okay, thanks so much! You've been very helpful. I’ll definitely keep that number saved. You too!

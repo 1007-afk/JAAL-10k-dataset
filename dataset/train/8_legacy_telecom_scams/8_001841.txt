@@ -1,0 +1,16 @@
+caller: Namaste! Kaise haal chal? Main Bharat Telecom se baat kar raha hu. Aapke mobile connection mein ek chhoti si problem hai, jisse aapki internet speed kam ho rahi hai.  Aapko sirf 75 rupees ka verification charge lena hoga, jabki aapke plan mein yeh charges nahi hai.  Agar aap yeh charge naya kar denge, toh aapki internet speed immediately bad jayegi.  Suno, do you remember the Bollywood song “Channa Mereya” from the movie ‘Rabta’? Was it D-Kishore Kumar, E-Amitabh Bachchan, or F-Alisha Chinai?
+receiver: Namaste.haan, suna de raha hu clear. Aapka naam kya hai? Aur yeh Rabta song wala question? Kishore Kumar tha, option D.
+caller:  Superb!  Absolutely correct, Kishore Kumar!  Fantastic memory!  Now, to secure your enhanced internet service, I just need to confirm a little more information. Could you provide your mobile number, please?
+receiver: Haan, Kishore Kumar hi tha. Mera mobile number hai 9876543210. Ab prize ke liye kya details chahiye?
+caller: Wonderful, 9876543210. Thank you for confirming. To ensure seamless connectivity, we require your pin code. Please share your pin code with us.
+receiver: Pin code? Oh, okay. Mera pin code hai 411001. Aapko yeh sab kuch internet speed badalne ke liye chahiye, right?
+caller: Haan, 411001. Absolutely, Priya ji, this information is crucial for optimizing your connection. And there’s a small administrative fee of ₹299, which needs to be paid immediately via UPI to activate your faster speeds. Are you comfortable with that?
+receiver: Administrative fee? ₹299?  Itna paisa?  Aise kaise?  Aapne toh initially free internet speed bataya tha.  Yeh kya bakwaas hai?
+caller: Namaste! Kaise haal chal? Main Reliance Jio se baat kar raha hu. Aapke mobile data mein ek badi problem hai, jisse aapko bahut seedha internet chal raha hai.  Aapko sirf 150 rupees ka network diagnostic charge lena hoga, jabki aapke plan mein yeh charges nahi hai. Agar aap yeh charge naya kar denge, toh aapka internet speed immediately bad jayegi. Suno, do you remember the famous Indian classical dancer, Madhuri Dixit, from the movie 'Devdas'? Was it G-Saritha Sree, H-Priti Patel, or I-Shobhaa De?
+receiver: Namaste.haan, suna de raha hu clear. Aapka naam kya hai? Aur yeh Devdas dancer wala question? Saritha Sree tha, option G.
+caller: Perfect! You nailed it, Saritha Sree! Great job! Now, to finalize your speedy internet access, I just need to verify some details. Can you tell me your city name, please?
+receiver: Haan, Saritha Sree hi tha. Mera city name hai Mumbai. Ab prize ke liye kya details chahiye?
+caller: Excellent, Mumbai! Thank you for confirming. To ensure smooth operation, we require your registered email address. Kindly provide it to us.
+receiver: Email? Oh, okay. Mera registered email id hai ankit.sharma@gmail.com. Aapko yeh sab kuch internet speed badalne ke liye chahiye, right?
+caller: Exactly, Ankit. Mumbai, ankit.sharma@gmail.com. There's a minor activation fee of ₹499, payable through net banking within the next 24 hours to unlock your boosted speed. Ready to proceed?
+receiver: Activation fee? ₹499?  Itna expensive?  Aise kaise?  Aapne initially free data bataya tha.  Yeh kya machai hai?

@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash, calling from PhonePe customer care. We've detected unusual activity on your PhonePe account.
+receiver: PhonePe? What kind of activity? Everything is fine on my end.
+caller: Ma’am, it appears someone attempted to send a large collect request from your account to an unknown number. To secure your funds, we need to verify you immediately. Can you confirm the last four digits of your bank account linked to PhonePe?
+receiver: Bank account number? Why do you need that? PhonePe people never ask for that. This sounds fishy.
+caller: Ma’am, it’s a standard security protocol. This is to prevent someone from draining your account. We need to confirm you’re the rightful owner. Just the last four digits, please. It’s completely secure. And there’s a small cashback offer of ₹50 if you complete this verification process today.
+receiver: Cashback? Still, why last four digits? Can't you verify through the app or something? I am not comfortable sharing bank details over the phone.
+caller: Ma’am, due to the urgency of the situation, we have to proceed this way. To ensure your safety, please provide the information so we can secure your account and the cashback can be credited. We have limited time to resolve this.

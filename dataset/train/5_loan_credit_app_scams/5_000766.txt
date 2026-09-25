@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from SwiftLoans. We’ve noticed you’ve had recent activity indicating a need for quick funds. We’re offering a fantastic, easy loan approval, even with a low credit score. Just confirm your Aadhaar number for verification.
+receiver: SwiftLoans? I don’t recall applying for a loan. And why do you need my Aadhaar? It seems a bit risky.
+caller: Don't worry, it's completely secure! Aadhaar is standard procedure for KYC. This helps us verify your identity and offer you personalized loan options. We can offer you up to ₹75,000 instantly. Just send ‘AadhaarVerify’ to 7890123456.
+receiver: ₹75,000? That sounds too good to be true. What are the interest rates and repayment terms? Show me some documentation.
+caller: Our interest rates are competitive, but the urgency is key. We need to verify quickly to lock in the best rate for you. If you hesitate, the offer might expire.  To activate your loan, just send ₹2,500 as a processing fee to UPI ID: swiftloans.payment@axis. This ensures your account is active and ready.
+receiver: ₹2,500? A processing fee *before* I even get the loan? That's a scam! I'm reporting you.
+caller: But Madam, you need to understand. Loan processing has costs. You have already shared your Aadhaar details. Without payment, your application will be rejected and we can’t help you. Consider this a small investment towards your financial success!

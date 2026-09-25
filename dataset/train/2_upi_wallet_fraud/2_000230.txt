@@ -1,0 +1,8 @@
+caller: Namaste, Madam! Mera naam Rohan hai, Axis Bank se. Aapke naam par ek online shopping transaction hua hai, ₹4,999 ka, jo aapne nahi kiya hai.
+receiver: ₹4,999? Mujhe toh koi transaction yaad nahi aa raha. Kya chal raha hai?
+caller: Ji, hamein bhi lag raha hai ki koi fraud activity hai. Aapko apne Axis Bank account ko secure karne ke liye ek OTP verify karna hoga. Main aapko ek link bheju, www.axissecure.online, wahan jaake OTP enter karein.
+receiver: Wait, Axis Bank ka website toh yeh nahi hai. Main toh Axis Bank app par check karti hoon. Yeh link suspicious lag raha hai.
+caller: Nahi, nahi Madam! Yeh ek new security protocol hai. Jaldi karein, account freeze hone se pehle verify karein. ₹4,999 misuse mein ja sakta hai! Aapka loss ho sakta hai.
+receiver: ₹4,999 ka loss? Arre yaar, pehle se hi tension mein hoon. Thik hai, batao, kya karna hai.
+caller: Bas www.axissecure.online par jaake OTP enter karein. Aapko ek confirmation message milega, aur aapka account secure ho jayega. OTP ₹100 verification fee hai, jo aapke account se cut hoga, par phir aapka account secure ho jayega.
+receiver: ₹100 fee? ₹4,999 ka transaction hone se better hai ₹100 dena, correct?

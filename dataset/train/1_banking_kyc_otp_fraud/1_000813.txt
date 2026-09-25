@@ -1,0 +1,6 @@
+caller: Hello? This is Deepak from Axis Bank security. We've detected unusual activity on your account.
+receiver: Haan? Axis Bank se? Kya hua? Everything okay?
+caller: Sir, there's been a login attempt from a foreign IP address. To secure your account, we need to quickly verify some details. Can you please confirm your Aadhaar number for verification purposes?
+receiver: Aadhaar number? Bank aise phone pe Aadhaar number maangta hai? I’ve heard about scams like this. Why can’t you send me an SMS instead?
+caller: Sir, this is a standard security protocol. We need it to confirm you are the legitimate account holder. We’re concerned about fraudulent activity, and we need to act fast. Your account might be suspended if we don’t verify urgently. Just the last 4 digits will do.
+receiver: Wait a minute. Something feels very wrong. I'm not giving you anything. I'm going to call Axis Bank directly from their official number to check. This call is over.

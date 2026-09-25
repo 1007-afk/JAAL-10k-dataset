@@ -1,0 +1,16 @@
+caller: Namaste ji, main DigiServe ki taraf se bol raha hoon. Aapka Reliance Jio number hai na? Ji, woh hai. Main aapko inform karna chahta hoon ki aapko ab special assistance team se connect hone ka option mil gaya hai. Just dial 555 from your Jio mobile. Aur koi pata chalna hai kya aapko?
+receiver: Haan ji, sun raha hoon. To, main is special assistance team se kaise baat kar sakta hoon?
+caller: Ji bilkul! Kisi bhi time pe, koi bhi problem ho, aap 555 dial kijiye aur humare special assistance team aapki madad ke liye ready honge. Iske baad, koi aur cheez puchhna hai kya?
+receiver: Nahi ji, abhi koi aur cheez nahi. Yeh facility dekhne mein acha laga. Dhanyavaad bataane ke liye.
+caller: Tumhara bahut-बहुत शुक्रिया. Agar kisi bhi time pe koi question aaye toh yaad rakhna, sirf 555 dial karna hai. Enjoy your DigiServe services! Goodbye.
+receiver: Theek hai ji, yaad rahunga. Dhanyavad aapki bhi. Bye.
+caller: Achcha, thoda confirmation karna chahta hoon. Aapka Jio account number kya hai, taaki main check kar saku ki aapke account mein yeh benefit properly register ho gaya hai?
+receiver: Haan ji, mera Jio account number hai [Your Jio Account Number]. Aap verify kar lijiye.
+caller:  Aapka swagat hai Mr. Sharma, main TechSupport India ki taraf se bol raha hoon. Aapka Airtel number hai na? Ji, hai. Main aapko batana chahta hoon ki aapko ab premium customer support service milegi. Just dial 600 from your Airtel mobile.  Agar aapko koi bhi confusion hai ya koi help chahiye, to bas 600 dial kijiye.  Kuch aur seekhna hai?
+receiver:  Haan ji, sun raha hoon.  To, is premium customer support se mujhe kya fayda hoga?
+caller:  Ji bilkul!  Aapko koi bhi technical issue hogi, ya aapko apne plan ke bare mein koi sawal hoga, to aap 600 dial kijiye aur hamare expert advisors aapki madad karenge.  Iske alawa, koi aur baat hai aapki?
+receiver:  Nahi ji, abhi koi aur baat nahi.  Yeh service dekhne mein bahut pasand lagi. Shukriya bataane ke liye.
+caller:  Tumhara bahut-बहुत धन्यवाद. Agar aapko kisi bhi samay koi sawal aaye, to sirf 600 dial karna hai.  TechSupport India ke saath enjoy your Airtel benefits!  Goodbye.
+receiver:  Theek hai ji, yaad rahunga. Dhanyavard aapki bhi. Bye.
+caller:  Thoda verification karna chahta hoon. Aapka Airtel SIM card number kya hai, taaki main check kar saku ki aapke profile mein yeh service correctly activated ho rahi hai?
+receiver:  Haan ji, mera Airtel SIM card number hai [Your Airtel SIM Card Number]. Aap verify kar lijiye.

@@ -1,0 +1,14 @@
+caller: Namaste! Kaise ho tum? Yeah, mera din bhi theek thaak tha, thoda bore ho raha tha. Tumhari yaad aati hai, bahut! Yeh "Shanti Solutions" kya hai jo tum bol rahe ho?
+receiver: Arey yaar, acha hua tu theek hai! Mere paas bhi tere naam soch rahi thi. Shanti Solutions? Woh ek website hai, mene ek admi ko suna ki unka account block ho gaya hai. Unne kaha tha yeh solution use kare.
+caller: Yaar, account block ho gaya? That’s scary! Mein bhi online banking karta hoon, mujhe bhi tadka lagna chahiye. Toh, yeh website kaise hai? Kya secure hai? Mujhe thoda suspicion hai.
+receiver: Actually, mene Google par search kiya, reviews positive hain. But, unhone kaha ki payment gateway ka problem hai, so dikkat ka karan sakta hai. Abhi tak koi complaint nahi mili.
+caller: Okay, okay. Toh, woh payment gateway ka problem hai? Fir kya karna hai? Unke website par kuch upload karna hai? Mein technically savvy nahi hoon.
+receiver: Haan, unhone kaha ki account recover karne ke liye ek OTP chahiye hoga, jo unhone update karne ki requirement bandh kar di hai. Unko bolke bata do ki OTP update karne ka option hai.
+caller: OTP update karna? Yaar, yeh sab itna complicated ho sakta hai? Mein toh confused ho raha hoon. Toh, unlogo contact karne ke liye number kya hai?
+receiver: Mene unkaa number pakda hai - 867-530-9876. Par agar suspicion hai toh fir se calls mat karo. Yeh kitni dukhi darmiyaan hai!
+caller: Arey yaar, sorry! Tu mujhse kyun itna angry hai? Mein sirf madad chah raha tha. Thoda relax ho jaao.
+receiver: Relax? Tumne mujhe helpline number bataya hai! Ye Shanti Solutions ka scam hai, bhai. Account recover karne ke liye paise mangoge. Beware!
+caller: Paise mangoge? Seriously? Toh, mein ab kya karu?
+receiver: Don't give them any money! Just ignore them completely. Block their number too. And don't trust anyone who promises to fix your account quickly.
+caller: Okay, okay, understood. Thank you for warning me.
+receiver: No problem. Be careful, bhai. And don't fall for these tricks again.

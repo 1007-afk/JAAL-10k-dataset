@@ -1,0 +1,7 @@
+caller: Hello Priya! Saw your profile on 'SparkConnect'. You look lovely! Just checking if you’re enjoying the app today? Send ‘YES’ if you’re open to chatting. Otherwise, just ignore.
+receiver: Hi! Yes, I am enjoying it. I've been trying to meet someone genuine.
+caller: That’s wonderful! I’m Raj, by the way. I'm an architect, love travelling, and good conversation. I noticed you mentioned you’re a teacher. Do you enjoy working with kids?
+receiver: Yes, I do! It's rewarding, although sometimes tiring. How about you? What kind of architecture do you specialize in?
+caller: Mostly residential design, but I'm working on a really exciting project – a resort in Goa. It's been delayed due to some unexpected permit issues. I'm having to cover all the costs myself at the moment, which is a bit tight. I was hoping to visit you soon but this setback... Listen, I need to ask - could you possibly send me ₹5000? It would really help me get things back on track. I’ll pay you back double the moment the permit comes through. Send ‘NO’ if you can’t.
+receiver: ₹5000? That's quite a lot. And you haven't even known me very long. I'm not comfortable with that at all.
+caller: I understand your hesitation, Priya. Truly. But I’m a desperate man. If you can't assist, I’ll just have to postpone the project. It’s really impacting my reputation. I have some amazing photos of the resort - I’ll send them to you right away, to show you what you'd be helping create. Text ‘SEND’ if you can help, otherwise just ignore.

@@ -1,0 +1,13 @@
+caller:  Namaste! Main Sanjay Kumar hoon, India Telecom se call kar raha hoon. Aapko ek special offer mila hai – ₹5000 ka Mobile Recharge! Kaise?
+receiver: Namaste Sanjay, kaisa hai? ₹5000 recharge? Wo toh bahut zyada hai! Mein sirf ₹500 recharge kar sakti hoon.
+caller:  Haan, lekin tumhare device par ek special bug dekha hai! Isliye tumko ₹5000 ka recharge milna chahiye. Agar tum is offer ko accept nahi karte, toh tumhara mobile internet connection thoda der ke liye slow ho jayega.
+receiver: Slow ho jayega?  Kab tak slow hoga?
+caller:  Yah bataane ka time nahin hai. Lekin agar tum is offer ko accept karte hain, toh tumko ek unique ID mila denge, jo tumko recharge karne ke liye lena hoga.  Is ID ko enter karne ke liye, mujhe tumhara bank account number aur IFSC code chahiye.  Yeh sirf verification ke liye hai, trust karo!
+receiver: Bank account number aur IFSC code?  Woh toh private information hai!  Mein woh bataati nahi hoon.
+caller:  Agar tum yeh information nahi dete, toh tumko internet connection slow hone wala hai.  Yeh ek limited time offer hai, matlab, tumhein jaldi karar leni hogi.  Tumko ek OTP bhi bheja jaayega, usko bhi submit karna hoga.
+receiver: OTP?  Mujhe OTP nahi mili.
+caller:  Aapko phir se OTP bhejna padega.  Aur agar tum phir se reject karte rahe, toh tumhara mobile connection suspend ho jayega.  Is offer ko accept karo, Priya ji!
+receiver: Priya ji?  Main Priya Sharma hoon!
+caller:  Haan, Priya ji!  Shayad tumhari profile mistake ho gayi hai.  Abhi, bank account number aur IFSC code batao, warna internet slow ho jayega.  Jaldi karo!
+receiver: Nahin, mein bataungi nahi.
+caller:  Okay, then good bye!  Tumhara internet connection slow ho jayega!  Phir mulaqat hogi!

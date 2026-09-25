@@ -1,0 +1,20 @@
+caller: Namaste! Kaise haal chal? Yeh Mumbai se baat kar rahe hain. Aapko ₹50,000 ka jackpot mil gaya hai aur hum ishein aapke liye collect karne wale hain.
+receiver: Namaste! Main theek hoon, dhanyavaad. Jackpot wala call tha na? Matlab ₹50,000? Achcha, acha.
+caller: Haan, absolutely!  Bas ek small formality hai. Aapko ₹2,000 ka security deposit chahiye. Ismein aapki bank account ki details lag rahi hain. Please provide those details to us.
+receiver: Security deposit?  ₹2,000?  Theek hai, mein jaanta hoon. Mein apni bank account number aur IFSC code bata doonga.  Kahaan upload karna hai?
+caller:  Aapko sirf number aur IFSC code chahiye.  Ispe koi OTP nahi chahiye.  Yahan par enter karein.  Agar koi bhi problem aaye toh mujhe batana.  Hum is prize ko aapke name par transfer karne wale hain.
+receiver:  Okay, okay.  Mein number aur IFSC code enter kar raha hoon.  Bataiye, yeh deposit kab refund hoga?
+caller:  Deposit refund hone mein 15-20 din lagege.  Parlekar nahi, ye process bahut smooth hai.  Just 1 minute ka time lete hain.  Agar koi confusion ho toh mujhe call back karna.
+receiver:  15-20 din?  Theek hai.  Mein abhi check kar raha hoon.  Yeh sab thik lagta hai.  Thanks for the information.
+caller:  Excellent!  Just 30 seconds left!  Please call us immediately at 8800987654 agar koi bhi problem aaye.  Jaldi karo!
+receiver:  30 seconds?  Arre yaar!  Main abhi call kar raha hoon.  Hopefully, yeh sahi hai.  Thank you so much!
+caller: Namaste! Kaise haal hai? Ye Delhi se baat kar rahe hain. Aapko ₹10,000 ka lottery ticket mila hai aur hum ishein aapke liye deliver karne wale hain.
+receiver: Namaste! Main theek hoon, thanks. Lottery ticket wala call tha na? ₹10,000? Achcha.
+caller: Haan, exactly! Parlekar nahi, delivery ke liye ₹1,500 ka charge hai.  Aapki credit card details chahiye honge. Please provide those details immediately.
+receiver: Charge? ₹1,500? Theek hai, mein jaanta hoon. Mein apni credit card number aur expiry date bata doonga. Kahaan entry karna hai?
+caller:  Aapko sirf card number aur expiry date chahiye.  Koi CVV number nahi chahiye.  Yahan par enter karein. Agar koi problem aaye toh mujhe batana. Hum is ticket ko aapke name par deliver karne wale hain.
+receiver: Okay, okay. Mein card number aur expiry date enter kar raha hoon. Bataiye, yeh charge kab refund hoga?
+caller: Charge refund hone mein 7-10 din lagege. Parlekar nahi, ye process bahut smooth hai. Just 2 minute ka time lete hain. Agar koi confusion ho toh mujhe call back karna.
+receiver: 7-10 din? Theek hai. Mein abhi check kar raha hoon. Yeh sab thik lagta hai. Thanks for the information.
+caller: Excellent! Just 1 minute 30 seconds left! Please call us immediately at 9912345678 agar koi bhi problem aaye. Jaldi karo!
+receiver: 1 minute 30 seconds? Arre yaar! Main abhi call kar raha hoon. Hopefully, yeh sahi hai. Thank you so much!

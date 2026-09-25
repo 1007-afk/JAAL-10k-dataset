@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajat hai, Flipkart customer care se. Aapke naam se ek order aaya hai, lekin payment processing mein thodi dikkat ho rahi hai.
+receiver: Oh, really? What order is it? I haven't placed anything recently.
+caller: Ji, aapne kuch din pehle ek smart TV order kiya tha, model number XYZ789. Payment fail hone ke karan delivery ruk gayi hai.
+receiver: A smart TV? I don’t think so. Can you tell me the order number? I want to check my account.
+caller: Haan, order number hai F123456789. Aapko payment confirm karne ke liye sirf ek OTP chahiye. Woh aapke registered mobile number pe aa jayega.
+receiver: OTP? Why do I need to give you an OTP? Shouldn’t I be able to do this on the Flipkart app or website?
+caller: Sir, system mein technical issue hai. OTP se hi payment confirm ho payega. Jaldi karein, warna order cancel ho jayega!

@@ -1,0 +1,8 @@
+caller: Hello? Hello, sir? Can you hear me? Yes, this is the free call service you've been looking for! We've got some exciting new features and exclusive content for you. Just to confirm, are you over 18?
+receiver: Haan ji, sunn raha hoon. Age toh 18 se zyada hi hai.
+caller: Bahut badhiya sir! Aapki eligibility confirm ho gayi hai. Toh aapko pata hoga ki ye ek premium service hai, right? Is month aapko 4 calls aur milenge. Next upgrade ke liye aapko kuch details fill karni hongi. Aapka koi preferred nickname hai jisse hum aapko call kar sakein?
+receiver: Haan, sunn liya. Premium toh hai hi, pata hai. Nickname... koi bhi chalega, aap jo theek samjho. Bas naam se bula lena.
+caller: Great, great! So, for your nickname, how about something a little... adventurous? Like 'Vicky' or 'Rocky'? Let me know which one you like best. And once we get that sorted, we can move on to the next step to unlock those remaining 3 calls.  So, 'Vicky' ya 'Rocky'?  Your choice!
+receiver: Hmm, Vicky? Rocky? Nahi yaar, woh thoda filmy ho jayega. Kuch simple sa rakho na, koi real naam jaisa. Jaise... Rahul? Haan, Rahul chalega.
+caller: Rahul, perfect! Bahut hi original. Toh, Rahul ji, aapki premium membership upgrade karne ke liye, hume kuch basic details chahiye hongi. Just to make sure everything is secure, kya aap apna naam confirm kar sakte hain ek baar? Full name.
+receiver: Rahul? Haan, mera naam Rahul hi hai. Rahul Sharma.

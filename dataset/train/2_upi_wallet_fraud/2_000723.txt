@@ -1,0 +1,7 @@
+caller: Hello sir, this is Priya from FreeCharge. We're running a special promotion – a ₹500 cashback offer for all new users who add money to their FreeCharge wallet. It’s a limited-time offer!
+receiver: Really? ₹500 cashback? That's quite good. How do I get it?
+caller: Very simple! Just add ₹100 to your wallet using UPI and share a screenshot of the transaction with us on WhatsApp. Once verified, the ₹500 cashback will be credited instantly.
+receiver: Okay, that sounds easy enough. But why do you need the screenshot on WhatsApp? Can’t you just verify it through the app?
+caller: Sir, our system is currently undergoing an upgrade, so we’re temporarily verifying transactions manually via WhatsApp. It’s just a small step to ensure the offer is legitimate. Please send the screenshot to this number, along with your registered mobile number.
+receiver: Alright. I’ll try it. Just to be sure, is this a genuine FreeCharge offer? I've heard about scams like this.
+caller: Absolutely, sir! We are FreeCharge's official promotional team. To activate your ₹500 cashback, kindly provide the last four digits of your bank account number for verification purposes and send your UPI transaction screenshot to WhatsApp. Hurry, sir, offer ends in 15 minutes!

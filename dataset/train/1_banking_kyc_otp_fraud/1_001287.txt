@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI bank se Rohit bol raha hoon. Aapke account mein suspicious activity detect hui hai. Security ke liye, humein aapke account details verify karne hain.
+receiver: ICICI bank? Aur kya suspicious activity hai? Mujhe toh koi message aaya nahi.
+caller: Sir, yeh matter sensitive hai, isliye hum direct call kar rahe hain. Verification ke liye, aapka naam aur aadhaar card number bataiye. Aur koi bhi OTP aaya hai aapko phone pe?
+receiver: Aadhaar number? Bank ko toh already pata hona chahiye mera aadhaar number. OTP aaya hai, par main koi bhi detail share nahi karunga jab tak mujhe confirmation nahi ho jaati ki aap sahi bank se bol rahe hain.
+caller: Sir, aapka trust important hai, lekin humein security maintain karna hai. Account freeze hone se bachne ke liye, mujhe urgent aapke bank account se associated pan card number aur registered email id ki zarurat hai. Bas ek baar verify ho gaya toh aapka account secure rahega.
+receiver: Dekhiye, mujhe koi jaldi nahi hai. Mai ICICI bank ke customer care number se call karke confirm karunga. Aap mujhe wait karwa rahe hain aur mujhe suspicious lag raha hai.
+caller: Sir, time bahut kam hai. Account suspend bhi ho sakta hai. Aapko thoda zyada relax hona chahiye aur trust karein.

@@ -1,0 +1,8 @@
+caller: scammer : Hanji hello, aapka swagat hai! Kya aapne hamara lucky draw dekha tha?  Aapne jeeta hai ek shandaar Nokia phone, ya ek 40GB iPod, ya phir £500 ka inaam! Kya kamaal ki baat hai na!
+receiver: Haan, maine dekha tha. Par yeh kaun bol rahe hain?
+caller: scammer : Hanji hello, aapka swagat hai! Kya aapne hamara lucky draw dekha tha? Aapne jeeta hai ek shandaar Nokia phone, ya ek 40GB iPod, ya phir £500 ka inaam! Kya kamaal ki baat hai na!\nreceiver : Haan, maine dekha tha. Par yeh kaun bol rahe hain?
+receiver: Ji, main Call Centre se bol raha/rahi hoon, mera naam [Caller's Invented Name] hai. Aapko yeh notification isliye mili hai kyunki aapne hamare recent lucky draw mein hissa liya tha. Ismein aapne jeeta hai ₹500 cash, ek brand new smartphone, ya phir ek latest tablet. Aap choose kar sakte hain konsa prize aapko chahiye.
+caller: scammer : Haan ji, bilkul! Aapka naam jan sakta hoon main? Is prize ko claim karne ke liye humein kuch details verify karni hongi. Don't worry, yeh sirf aapki security ke liye hai.
+receiver: Haan ji, main [Receiver's Invented Name] hoon. Security ke liye aapko kya details chahiye? Bataiye, main provide kar deta/deti hoon.
+caller: scammer : Ji [Receiver's Invented Name] ji, thank you for your cooperation. Aapka naam confirm ho gaya hai. Ab humein aapki date of birth aur aapka address verify karna hoga. Yeh details humein yeh confirm karne ke liye chahiye ki yeh prize aapko hi deliver ho sake aur koi galat fayda na uthaye. Kya aap mujhe apni date of birth bata sakte hain?
+receiver: Date of birth? Uhm, mujhe yaad nahi aa raha exactly. Aapko kya zaroori hai details?

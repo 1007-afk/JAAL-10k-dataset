@@ -1,0 +1,8 @@
+caller: scammer : Hanji hello
+receiver: Haanji, boliye. Kaun bol raha hai?
+caller: scammer: Ji, main Mr. Sharma bol raha hoon IT department se. Aapka system ek bahut badi problem mein hai. Agar aapne immediate action nahi liya toh aapka data sab delete ho jayega.
+receiver: Arre yeh kya keh rahe hain aap? Data delete ho jayega? Kya problem hai? Aur aap Mr. Sharma IT department se keh rahe hain? Aapka full name aur employee ID bataiye na, please.
+caller: receiver: Arre yeh kya keh rahe hain aap? Data delete ho jayega? Kya problem hai? Aur aap Mr. Sharma IT department se keh rahe hain? Aapka full name aur employee ID bataiye na, please.
+receiver: Dekhiye, maine pehle hi bola tha, apna full name aur employee ID bataiye. IT department ka koi bhi banda aise bina details diye baat nahi karta. Aap sure hain ki aap IT department se hi hain?
+caller: scammer: Dekhiye, aap data delete hone ka risk nahi le sakte. Meri employee ID hai 7890XYZ. Aur main aapko yahaan pe naam nahi bata sakta, yeh internal security protocol hai. Main aapko ek safe link bhej raha hoon, usse click karke aap apne system ko secure kar sakte hain. Phir sab theek ho jayega.
+receiver: Arre, kya baat kar rahe hain? Internal security protocol? Aur data delete hone ka risk? Dekhiye, Mr. Sharma, jo aap keh rahe hain woh mujhe bilkul sahi nahi lag raha. IT department kabhi bhi aise phone pe link nahi bhejta aur na hi apna poora naam bataane se ghabrata hai. Yeh toh bilkul suspicious hai. Main koi link click nahi karne wala hoon jab tak mujhe poori confirm nahi ho jaata. Aap mujhe pehle apna proper ID dikhaiye ya phir kisi senior officer se baat karwaiye.

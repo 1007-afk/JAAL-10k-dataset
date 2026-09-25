@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Priya Amazon customer care se baat kar rahi hoon. Aapke account mein ek pending payment transaction hai jo incomplete reh gaya hai.
+receiver: Oh, really? I didn’t get any notification. What’s the amount?
+caller: Haan ji. ₹785 ka transaction fail ho gaya hai. Isko complete karne ke liye, aapko OTP dena hoga. Main aapko SMS karungi.
+receiver: Okay, send me the OTP. But why didn't I get a notification? I always get notifications.
+caller: Notifications kabhi kabhi late aate hain. OTP mila? Sirf 4 digit ka number bolna hai.
+receiver: Yes, I got it. It’s 4392.
+caller: Thank you. Ab ek minute rukiye, main confirm kar rahi hoon. Aapka account secure karne ke liye, mujhe aapki screen share karne ko bolna padega. Isse main check kar paungi ki sab kuch theek hai.
+receiver: Screen share? Why do you need to see my screen? That sounds risky.
+caller:  Sirf aapke account security ke liye. Trust me.

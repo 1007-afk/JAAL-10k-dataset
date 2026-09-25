@@ -1,0 +1,8 @@
+caller: Hello! Mai Paytm se Rahul bolta huun. Aapke Paytm wallet mein ek suspicious transaction detect hua hai. ₹8,000 ka transaction gaya hai, aur security ke liye humein verify karna hoga.
+receiver: ₹8,000? Oh no! Kyon? Mujhe koi message nahi aaya.
+caller: Haanji, hackers ne ek new technique use kiya hai. Aapko tension nahi leni hai. Main aapko verify karta huun. Aapka registered mobile number bataiye.
+receiver: 9876543210. Par yeh transaction kya tha?
+caller: Woh ek testing transaction tha, hackers ne kiya hai. Ab humko verify karna hai, sirf ₹500 ke processing fee daal dijiye Paytm collect request pe, aur phir hum aapka account secure kar denge. 
+receiver: ₹500? Collect request? Yeh thoda suspicious lag raha hai.
+caller: Sirf ₹500! Iske bina aapka account block ho sakta hai. Jaldi karo, time barbaad ho raha hai. Paytm collect request number hai 1234567890. Jaldi send kar dijiye!
+receiver: Okay, okay, I’ll send it. Par agar kuch hua toh main complaint karungi.

@@ -1,0 +1,7 @@
+caller: Hello, main BharatPe customer care se Rahul bolta hoon. Aapke BharatPe wallet mein cashback offer hai - ₹5000 cashback, lekin iske liye ₹500 verification fee jama karna padega.
+receiver: ₹500 verification fee? BharatPe app mein toh mujhe koi offer dikhai nahi de raha hai. Aur fee jama karne ki kya zarurat hai?
+caller: Ji, sir, yeh offer limited time ke liye hai. Verification fee sirf security ke liye hai, taaki aapka account safe rahe.  Aap BharatPe app mein ₹500 jama kar dijiye, cashback automatically aapke wallet mein add ho jayega.
+receiver:  Security ke liye ₹500 jama karna padega?  Yeh zyada suspicious lag raha hai. BharatPe ka official number toh dete hain, main khud check karta hoon.
+caller: Sir, aapko worry karne ki koi baat nahi hai.  Yeh ek special offer hai, jo sirf select customers ko hi mil rahi hai.  Aap UPI ke zariye ₹500 jama kar dijiye, mera UPI ID hai [invented UPI ID, e.g., bharatpe.security@upi]. Jab jama ho jayega, cashback apne aap add ho jayega.
+receiver:  ₹500 jama karne se pehle mujhe confirmation chahiye.  BharatPe se koi official message aaya tha kya? Main BharatPe helpline number par call karta hoon aur phir decide karta hoon.
+caller: Sir, aap jaldi karo, offer abhi khatam hone wali hai.  ₹500 jama kar dijiye, otherwise aapko is offer se miss ho jayega. Jab jama ho jayega, main aapko confirmation message bhejunga.

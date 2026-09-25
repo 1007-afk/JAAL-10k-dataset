@@ -1,0 +1,7 @@
+caller: Namaste! Sir, aapko Paytm se ek achhi khabar hai. Aapke Paytm wallet mein ek lucky draw jeeta hai, jiske hisaab se aapko ₹75,000 ka Amazon gift card milega.
+receiver: ₹75,000? Paytm se? Mujhe toh abhi se doubt ho raha hai. Ye sahi hai kya?
+caller: Haan sir, sahi hai. Yeh ek promotional offer hai. Gift card activate karne ke liye, humein sirf aapka Paytm wallet linked mobile number aur OTP chahiye. Isse gift card aapke account mein secure ho jayega.
+receiver: OTP? Par kaise? Mujhe kuch verification message Paytm se aaya bhi nahi.
+caller: Sir, kabhi-kabhi message late aate hain. Koi baat nahi. Sirf OTP de dijiye, main immediate activate kar dunga. Yeh offer sirf aaj ke liye hai, kal tak khatam ho jayega.
+receiver: Thoda wait karo, main check karta hoon Paytm app mein. Koi notification to hona chahiye tha na?
+caller: Sir, time barbaad na karein! Offer khatam hone se pehle fast do OTP, ₹75,000 ka gift card aapka hoga!

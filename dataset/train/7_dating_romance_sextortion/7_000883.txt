@@ -1,0 +1,7 @@
+caller: Namaste! I hope you’re having a good day. I’ve noticed your profile on ‘ConnectHearts’ – you seem like a very warm and interesting person. I’m Rajeev, by the way.
+receiver: Hello Rajeev! Thank you. You too. ConnectHearts, yes. I do enjoy it. What brings you to message me?
+caller: Well, I was just captivated by your smile. It’s rare to see genuine kindness these days, you know? I’m currently working on a project – I’m a civil engineer, helping build schools in rural Bihar. It’s fulfilling, but also expensive, and right now, I'm a little short on funds for some supplies.
+receiver: That’s wonderful work, Rajeev. Building schools is a truly noble cause. But I don’t understand – why are you telling me this?
+caller: I’m just being honest, Kavita. I believe in transparency. If we were to get closer, I’d want you to know my situation. I was hoping maybe you could lend a small amount – say, ₹15,000 – to help me buy these materials. I’ll pay you back as soon as I get paid next month, I promise. It would make a huge difference.
+receiver: ₹15,000 is a lot of money to ask someone you’ve just met online, Rajeev. I'm really sorry, but I don't feel comfortable with that. I wish you the best with your project though.
+caller: I understand your hesitation. But think of the children, Kavita! Just imagine their faces when they see a new classroom. It's for a good cause! I’ll send you a photo of the construction site, so you can see it yourself. Just a small contribution would mean so much. I'll also

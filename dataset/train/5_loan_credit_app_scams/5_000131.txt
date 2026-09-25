@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I’m calling from LoanHub India. We've noticed you meet the criteria for a quick, personal loan of up to ₹75,000. Very simple process, get the money in your account within an hour.
+receiver: LoanHub? I don't think I applied for any loan. How did you get my number?
+caller: Don’t worry about that, Priya ji. Our system identifies people who are likely to qualify. It’s a fantastic offer, especially with current interest rates! Just need to verify a few details to unlock your approval. First, can you confirm your date of birth?
+receiver: I’m very wary of giving out personal information over the phone, especially when I didn’t initiate the call. This sounds suspicious.
+caller: Relax, Priya! We’re fully registered and secure. This is just standard procedure. To prevent fraud, we require a one-time OTP verification fee of just ₹75. It secures your account and unlocks the loan. Send it to this number.
+receiver: A fee *before* I even get a loan? That’s ridiculous! I’m not paying anything upfront. You're a scammer.
+caller: Priya ji, please, don’t be hasty. We wouldn’t want to disappoint you. Think of it as a processing charge. Without it, we cannot guarantee the loan. Also, if you don’t pay, we'll have to escalate this to our recovery department and the consequences won’t be pretty. We have all your contacts.

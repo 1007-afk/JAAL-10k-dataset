@@ -1,0 +1,14 @@
+caller: Namaste! Main Bharat Telecom se baat kar raha hu. Aapko ek special offer mila hai! Online gaming mein bohut achcha performance ke liye aapko ₹5000 cashback mil sakta hai! Agar aap humare app install karein aur ₹100 recharge karein, toh yeh offer aapke liye valid rahega. Kya aap interested hain?
+receiver: Namaste. Bharat Telecom se ho? Cashback offer? ₹5000? Sunne mein thoda confuse ho gaya. App install karna hai aur ₹100 recharge bhi? Charge kitne honge? Aur cashback kab milega?
+caller: Arre bhai, charge koi nahi! Yeh absolutely free hai! App install karna sirf 5 minute ka time lagega, aur recharge bhi online ho jayega. Cashback aapko 7 days mein aapke account mein transfer ho jayega. Bohat simple hai, hai na?
+receiver: 7 days mein cashback? Hmm, yeh dekhne layak hai. App ka naam kya hai? Aur ₹100 recharge kaise karna hai? UPI se kar sakta hoon kya? Aur yeh app secure hai kya? Kuch doubts hain.
+caller: App ka naam "GameBoost" hai. UPI se recharge kar sakte ho, abhi update hua hai. App totally secure hai, humara data encryption technology hai. Relax karo, enjoy karo! Toh, abhi 'INSTALL' message karein, aur aapki game playing experience badhegi!
+receiver: 'INSTALL' message… Okay. Uninstall karne ka option bhi hai kya? Agar mujhe app pasand nahi aaya toh? Aur cashback guarantee hai kya? Agar aap company fail ho jaye toh kya hoga? Thodi worry hai.
+caller: Uninstall karna hai toh uninstall kar sakte ho, lekin cashback aapko milega hi! Guaranteed! Company fail hone ki koi baat nahi, hum bahut stable hain. Relax, enjoy, aur GameBoost se jeet lo! Toh, INSTALL kar do, aur aapki game journey shuru hojayegi!
+receiver: Okay, okay. Install kar dungi. Par ek cheez batao, yeh ₹100 recharge karne ke baad cashback ₹5000 ka milega ya ₹5000 minus charges? And what if I don’t win any prizes in the games after installing the app?
+caller: Arre bhai, ₹5000 minus charges ka koi baat nahi! Recharge karne ka koi charge nahi hota, cashback puri ₹5000 ka milega! Aur prizes ki baat karein toh har game mein prizes hote hain, bohut sare opportunities hain jeetne ke! Socho, bohut acha deal hai! INSTALL kar do, aur maza lein!
+receiver: Maza lein... Okay, install kar dungi. Thank you.
+caller: Welcome! Enjoy your game!
+caller:
+receiver:
+caller: Namaste! Main KisanSahayata Kendra se baat kar

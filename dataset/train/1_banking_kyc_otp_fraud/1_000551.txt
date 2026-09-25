@@ -1,0 +1,8 @@
+caller: Namaste ji, main Rohan Kumar hu. Aapke Kisan Credit Card ke baare mein ek important notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main Kisan Bank se baat kar raha hun. Aapke card pe ek small problem hai, jisse aapki online transactions mein delay ho sakti hai. Kya aapko thoda time de sakte hain?
+receiver: Haanji, Rohan Kumar ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Actually, our system has flagged a potential issue regarding your card’s security protocol. We need to quickly verify some information to prevent any disruptions. Could you please tell me your CVV number?
+receiver: Acha? Potential issue? Security protocol?  Main toh bahut confuse ho gaya. Mera CVV number bataati kyun hoon?  Woh toh sirf maine jaanna hota hai! Kya aap thoda wait kar sakte hain?
+caller:  Problem, sir. Please don’t worry, it’s for your own safety. I will send you a secure webpage where you can input this detail. It’s completely encrypted and officially sanctioned by Kisan Bank. What do you think?
+receiver: Secure webpage? Kisan Bank toh aisa website nahi benta karta. Yeh toh bas koi fake website hogi. Aapko koi website nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye.  Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

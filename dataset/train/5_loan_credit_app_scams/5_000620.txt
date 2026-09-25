@@ -1,0 +1,8 @@
+caller: Namaste, sir! Main Ankit Verma, QuickCash Solutions se baat kar raha hoon. Aapke naam par ek personal loan approved hua hai, ₹75,000 tak ka. Aapko chahiye kya?
+receiver: Haan, bolo. ₹75,000? Loan ka kya process hai?
+caller: Sir, process bahut simple hai. Bas aapko ₹5,000 processing fee deposit karni hogi. Jab fee deposit ho jayegi, toh loan amount aapke account mein transfer ho jayega, within 2 hours.
+receiver: ₹5,000 fee? Itna zyada fee lag rahi hai.
+caller: Sir, security ke liye hai. Otherwise, hum loan nahi de sakte. Aur agar aap fee deposit nahi karte, toh aapka loan approve nahi hoga. Abhi aapki offer expire hone wali hai, sir. Jaldi karo!
+receiver: Okay, wait. Let me check something.
+caller: Sir, time barbaad mat karein. Aapko loan urgently chahiye tha na? Agar aapko urgent nahi chahiye, toh main baat ko chod deta hoon. ₹5,000 deposit karein, aur loan aapka ho jayega. Otherwise, ek dusra customer aantay hi aapka chance jayega.
+receiver: Fine, send me the account details.

@@ -1,0 +1,8 @@
+caller: Hello sir, main Corporation Bank se bol raha hoon. Aapka account number kya hai sir?
+receiver: Hello! Aapka number? Mera account number hai 1234567890. Kya kaam hai?
+caller: Sir, yeh account number Corporation Bank mein confirm karna hai ki aapke naam par koi issue toh nahi hai. Ek chota sa security update karna hai.
+receiver: Security update? What kind of update? Aur mera naam toh Ramesh Sharma hai, kya problem hai?
+caller: Haanji Ramesh ji, aapke account mein kuch suspicious activity detect hui hai. Koi unknown transaction try hua hai, usko confirm karna hai. Humne aapka account temporarily hold pe daal diya hai taaki koi further loss na ho. Is security update ke liye humko aapki kuch details verify karni hongi.
+receiver: Suspicious activity? Unknown transaction? Acha, ye sab toh theek hai, par ye security update kaise hoga? Aur what kind of details you need? Mera bank account number already de diya hai, aur naam bhi bata diya. Aur batao, kya chahiye?
+caller: Ramesh ji, isko confirm karne ke liye humein aapke registered mobile number pe ek OTP aayega, wo OTP aapko mujhe batana hoga. This is for your security, taaki koi aur yeh update na kar sake. Is it okay?
+receiver: OTP? Mobile number pe? Par mera registered mobile number toh mere paas abhi nahi hai. Woh toh ghar pe hai. Aur bina uske yeh security update nahi ho sakta kya? Kuch aur tareeka hai kya verify karne ka?

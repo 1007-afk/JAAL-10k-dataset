@@ -1,0 +1,9 @@
+caller: Namaste, sir. Mein BharatPay se call kar raha hu. Aapke BharatPay wallet mein cashback offer chal raha hai.
+receiver: Cashback offer? Kitna cashback hai aur kya karna padega?
+caller: Sir, aapko sirf ₹50 ka transaction karna hai kisi bhi UPI ID par, aur aapko ₹500 ka cashback milega instant.
+receiver: ₹50 ka transaction aur ₹500 ka cashback? It’s too good to be true. Kuch proof hai?
+caller: Haan sir, system mein update ho gaya hai. Aapko ek OTP milega, woh OTP main lunga, transaction ho jayega aur cashback aapke wallet mein credit ho jayega.
+receiver: OTP? Kisike account mein ₹50 transaction karunga aur tum mera OTP bhi maang rahe ho? Bilkul nahi. Main call cut kar raha hu.
+caller: Sir, ₹500 ka cashback hai! Agar aap call cut kar diye toh aapka loss hoga.
+receiver: Loss mera hoga? Tumhara scam hai. Bye.
+caller: Sir, please! Just the OTP. It's secure! Offer is for limited time only!

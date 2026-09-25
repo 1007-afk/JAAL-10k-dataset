@@ -1,0 +1,7 @@
+caller: Namaste sir, I'm calling from QuickCash Loans. We saw your application online. Just need to verify a few details for approval. Can you confirm your date of birth, please?
+receiver: Hello, yes. It’s 15th August, 1988.
+caller: Excellent! And your PAN card number, sir? Just to confirm your identity. It’s a standard procedure.
+receiver: Why do you need my PAN number? I don’t feel comfortable sharing that.
+caller: Sir, without it, we can’t process the loan. It’s for security purposes only, to prevent fraud.  We'll transfer ₹50,000 directly to your account within 2 hours once verified. It’s a limited-time offer, sir.
+receiver: ₹50,000? That sounds good, but I’m still hesitant about giving out my PAN.
+caller: Please sir, it's very simple and secure. After I have the PAN, I will also need you to pay a small processing fee of ₹5,000 to activate your account, which you can pay using UPI to this number: 8765432109.

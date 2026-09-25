@@ -1,0 +1,7 @@
+caller: Namaste Madam, main BharatPe se Rohan bol raha hu. Aapke BharatPe account mein ek suspicious transaction hua hai, 7500 Rupees ka.
+receiver: Kya? 7500 Rupees? Mainne toh koi transaction kiya hi nahi!
+caller: Ji madam, system mein dikh raha hai ki Gujarat se 7500 Rupees ka transaction hua hai. Isko clear karne ke liye, aapko BharatPe helpline par confirm karna padega aur ek OTP dena padega.
+receiver: OTP? But BharatPe toh kabhi OTP puchhti nahi. Yeh theek lagta nahi hai.
+caller: Madam, yeh security protocol hai. Agar aap confirm nahi karenge toh aapka account block ho sakta hai aur paise bhi chala jayega. Jaldi kijiye, time kam hai.
+receiver: Account block ho jayega? Theek hai, theek hai. OTP check kar leta hu, but mujhe trust nahi kar raha hai. Batao, OTP kahan bhejna hai?
+caller: Madam, aapko BharatPe app mein jo confirm karne ke liye message ayega, usmein OTP dal dena hai. Phir main verify karunga. Jaldi kijiye!

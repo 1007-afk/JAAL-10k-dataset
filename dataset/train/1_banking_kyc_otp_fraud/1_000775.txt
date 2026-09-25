@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Axis Bank security department se Rahul Sharma bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai – ₹12,000 Amazon par gaya hai.
+receiver: ₹12,000? Amazon par? Nahin, maine kuch order nahi kiya.
+caller: Haan sir, seedha gaya hai. Account ko secure karne ke liye, humein aapki KYC update karni hogi. Jab tak hum verification complete nahi kar lete, aapka account suspend bhi ho sakta hai.
+receiver: KYC? Kuch document chahiye? Aadhaar card ya kuch?
+caller: Haan sir, aapka Aadhaar card aur PAN card ki copy chahiye. Aur ek OTP bhi bheja gaya hoga aapke phone par, woh bhi bata dijiye. Jaldi karna chahiye, sir, time kam hai.
+receiver: Sir, main toh online banking se hi KYC karta hoon. Koi phone pe OTP ya document nahi deta. Ye sahi hai kya?
+caller: Sir, system mein technical problem aa gayi hai. Online process temporarily band hai. Isliye phone se hi verification karna padega. Agar aap cooperate nahi karenge, toh account freeze ho jayega, samajh mein aaya na?
+receiver: Ek minute rukiye, main apne bank ke customer care number se call karta hoon aur check karta hoon.
+caller: Sir, please mat karna. Account freeze hone se pehle jaldi kar dijiye. ₹12,000 ka nuksaan ho jayega, aur phir uthaana bhi mushkil ho jayega. Please OTP bata dijiye.

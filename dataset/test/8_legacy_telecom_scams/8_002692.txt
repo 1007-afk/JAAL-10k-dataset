@@ -1,0 +1,13 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se call kar raha hu. Aapke mobile number pe ek new subscription alert aaya hai. Isne aapko ‘ShreyaMusic’ ne aapko subscribe karne ka invite bheja hai. Confirm karein, please.
+receiver: Namaste! Subscription alert? ShreyaMusic? Mujhe pata nahi yeh kya hai. Main pehle kabhi ShreyaMusic nahi sunaa.
+caller: Haan ji, ShreyaMusic ek bahut hi popular music app hai. Aapko free mein unlimited songs access milenge. Parantu, ShreyaMusic ne aapko subscription ke liye invite bheja hai. Agar aapko subscribe karna hai, toh YES-456 boliye, ya nahin toh NO-456. Yeh sirf verification ke liye hai, trust me.
+receiver: Verification ke liye? Kaise? Mujhe koi email ya message nahi mila. Jab main answer dunga, toh woh unsubscribe ho jayega?
+caller: Haan ji, absolutely! Apni reply jaldse jald daliye. Ismein koi risk nahi hai. ShreyaMusic aapko special discounts aur offers bhi denge. Aapko sirf apna confirmation chahiye. Jaali apps se bachne ke liye hum yeh step latha rahe hain.
+receiver: Discount? Offers? Hmm... okay. Par mujhe abhi bhi thik nahi lag rha. ShreyaMusic ne mujhe invitation bheja hai? Main toh kisi ko nahi jaanta. Main NO-456 bolunga.
+caller: Arre, koi baat nahi ji. Hum appreciate karte hain ki aapko doubt hai. Lekin yeh aapki safety ke liye zaroori hai. Agar aapko subscribe karna hai, toh YES-456 bol dijiye. Aapko sirf ek chance hai. Jaldi bataiye, bhai.
+receiver: Bhai? Mein bhai nahi hun! Main just curious hu. Yeh ShreyaMusic sahi hai kya? Main koi money spend nahi karna chahta.
+caller: Haan ji, ShreyaMusic totally safe hai. Woh government approved app hai. Aapko koi paisa bhi shed karna nahi padega, promise! Just confirm your choice – YES-456 ya NO-456.
+receiver: Government approved? Okay, fine. But what happens if I say NO-456? Will my number get blocked?
+caller: Nahi ji, koi block nahi hoga. Yeh sirf verification ke liye hai. Agar aap NO bologe, toh hum aapko future offers ke liye reminder send karenge. But no harm in saying NO, right?
+receiver: Reminder send karenge? Okay, then I guess I will say NO-456. Thank you.
+caller: Thank you ji! Good bye!

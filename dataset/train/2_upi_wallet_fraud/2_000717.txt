@@ -1,0 +1,6 @@
+caller: Namaste, madam. Main PhonePe se Deepak bol raha hoon. Aapke account mein ek suspicious transaction ka attempt hua hai. KYC verification ke liye, aapka OTP bataiye taaki hume account secure karne mein madad mile.
+receiver: PhonePe se call? Koi suspicious transaction? Mujhe toh koi notification nahi aaya. Aur OTP phone pe dena safe hai?
+caller: Ji madam, security ke vajah se hi toh call kar raha hoon. OTP dene se aapka account safe ho jayega. OTP SMS mein aayega, woh mujhe bataiye. Fast do, madam, transaction block ho sakta hai.
+receiver: Wait, wait... Koi transaction block hoga? Aapka naam Deepak hai? PhonePe wale koi bhi bata sakte hain naam? Mujhe thoda doubtful lag raha hai.
+caller: Madam, time bahut kam hai. Account block hone se pehle OTP bataiye. Hum bank ke verified agent hain. Check kar lijiye, humara number PhonePe app se hi aaya hai.
+receiver: Okay, ek minute rukiyega. Mein check karti hoon. (pause) Mein PhonePe app mein call history check kar rahi hoon... Achha, tumhara number toh PhonePe se hi dikh raha hai. Par phir bhi, OTP dene se pehle ek baar confirm kar lena chahti hoon.

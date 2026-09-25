@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? This is Akash from PhonePe security. We've noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Yes, ma'am. A large transaction of 12,000 rupees was attempted to a new UPI ID. We’re blocking it for now, but to fully secure your account and avoid any further issues, you need to verify a small processing fee.
+receiver: A processing fee? For what? I didn't authorize any transaction! And why 12,000 rupees?
+caller: It’s a standard protocol, ma'am, to prevent fraudulent charges. Just 500 rupees will be enough. You can pay it via a collect request through PhonePe. We'll send you the UPI ID – it will be from PhonePe directly.
+receiver: Wait a minute. A collect request? From PhonePe? I've never had to pay a fee to secure my account before. I’m calling PhonePe customer support directly to confirm this.
+caller: Ma’am, please don't waste time! This is the quickest way to resolve this. If you don’t pay the fee within the next 15 minutes, the fraudulent transaction will go through, and we won’t be able to help you recover those 12,000 rupees. Here’s the UPI ID: 8765432109@axisbank. Please hurry!
+receiver: 8765432109? That doesn’t look like a PhonePe ID. I’m not paying anything. This is a scam. I’m reporting this number.

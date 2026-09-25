@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Ayesha Verma, FastCash Solutions se baat kar rahi hoon. Aapne hamari app se ₹75,000 ka loan apply kiya tha, right? Verification ke liye kuch details chahiye.
+receiver: Haan, ji. Mein apply kiya tha. Kya baat hai?
+caller: Sir, verification process mein kuch discrepancies dikh rahi hain. Aapko ₹1,500 ka processing fee submit karna padega. Payment karne ke liye UPI ID hai [Invent a UPI ID, e.g., paytm@fastcash].
+receiver: ₹1,500? Loan ke bina? Mein toh apply karte waqt aise kuch nahi suna tha.
+caller: Sir, rules change kabhi-kabhi. Fee submit karne ke baad hi loan process aage badhega. Warna, application reject ho jayega. Aur, agar fee nahi deposit karein toh humko majboor hona padega aapke contacts ko aapke personal photos message karna padega.
+receiver: Yeh kya bol rahi hain aap? Main police mein complaint karunga!
+caller: Sir, please don't do that! Hum aapki madad kar rahe hain. Just pay the fee, and we'll release your loan immediately. Otherwise, aapki sharamindagi ka matter ho jayega. Humare paas aapke phone contacts ki access hai.
+receiver: Theek hai, theek hai. Mein payment kar deta hoon. UPI ID wahi bhejo.

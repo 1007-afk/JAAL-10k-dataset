@@ -1,0 +1,9 @@
+caller: Namaste Aunty, mai Bharat Bank se Rohit bolta hu. Aapke bank account mein achanak ₹499 ka charge hua hai.
+receiver: ₹499? Mainne toh koi transaction nahi kiya.
+caller: Ji, hamari system mein dikh raha hai ki aapne apna PhonePe app se ek online course access kiya hai.
+receiver: Online course? Maine PhonePe se kabhi koi course nahi liya.
+caller: Don’t worry, Aunty. Hum isko reverse kar sakte hain, lekin iske liye aapko kuch details provide karni padegi. OTP jo aapko PhonePe par register mobile number pe aa raha hai, woh bataiye.
+receiver: OTP? Ek minute… hmm, 123456.
+caller: Shukriya Aunty. Abhi ₹499 refund ho jayega. Aapko koi tension nahi lene ki zarurat hai.
+receiver: Thank you beta, aapne toh mujhe relief de diya.
+caller: Apka din shubh rahe! Aur apna PhonePe app regular check karte rahein.

@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main ICICI Bank se Amit Sharma bol raha hoon. Aapke naam par ek international transaction request aaya hai, ₹18,500 ka. Security ke liye, hume aapki KYC update karne ki zarurat hai.
+receiver: KYC update? International transaction? Mujhe toh koi transaction yaad nahi.
+caller: Chinta mat karein sir, yeh procedure security ke liye hai. Aapka bank account suspend bhi ho sakta hai agar verification na karein. Sirf aapka Aadhaar number aur OTP de dijiye.
+receiver: Aadhar number? OTP? Thoda wait kar lo, mujhe bank ke official number se call karke confirm kar leta hoon.
+caller: Sir, yeh process fast hai, aur OTP sirf ek minute ke liye hi use hoga. Aapko suspend karne se bach jayega. Sirf OTP dijiye, bas. Mein aapko OTP number provide karu, aap confirm karein.
+receiver: Aur aapka naam aur ICICI bank mein aapki position bataiye? Main confirm toh kar sakunga, par pehle details chahiye.
+caller: Mein Amit Sharma, ICICI Bank’s Fraud Prevention Department mein kaam karta hoon. Sirf OTP se aapko relax mil jayega. Sir, OTP hai 123456. Confirm kijiye.

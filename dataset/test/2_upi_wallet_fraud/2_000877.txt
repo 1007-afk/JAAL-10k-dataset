@@ -1,0 +1,8 @@
+caller: Namaste! Sir, is this Ravi Kumar? This is Priya calling from FreeHit UPI. We’ve noticed some suspicious activity on your account and need to verify your details to prevent any fraud.
+receiver: Haan, main Ravi Kumar. Kya hua? Suspicious activity? Maine toh kuch nahi kiya.
+caller: Sir, our system flagged a pending transaction of ₹7,500 towards a merchant you haven’t interacted with before – "LuckyDraw Solutions." To reverse this potential unauthorized transaction, we need to confirm a few details. Can you confirm the last four digits of your bank account linked to your FreeHit UPI?
+receiver: ₹7,500? LuckyDraw Solutions? Main toh kabhi LuckyDraw Solutions se deal nahi kiya. Bank account number… woh main phone pe nahi bata sakta, sir. Yeh safe hai kya?
+caller: Sir, for your security, we need to quickly verify this. It’s a standard protocol. Without this verification, we might have to temporarily freeze your account to protect your funds. Just the last four digits please, for a quick check. It will only take a moment.
+receiver: Freeze karoge? Arre yaar, abhi freeze karna hai? Chalo, theek hai. Last four digits are 4587. But agar kuch galat hua toh?
+caller: Thank you, Sir! That confirms everything. We are now initiating the reversal process. For added security, we’ll send you a one-time password to your registered mobile number to complete the transaction. Please share that OTP with me.
+receiver: OTP? Yahaan pe OTP dene se fraud hota hai, sir. Main nahi dunga. Aapko maaf kijiye.

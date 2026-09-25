@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main BharatPay customer care se Rahul bol raha hoon. Aapke BharatPay account mein kuch suspicious activity detect hui hai.
+receiver: Kya suspicious activity? Mujhe koi notification toh nahi mila. Mera BharatPay account safe hai na?
+caller: Haan sir, woh automatic alert nahi jaate. Security ke liye hum aapko phone kar rahe hain. Aapke account se ₹2500 ka transaction try kiya gaya hai. Confirm karein?
+receiver: ₹2500? Kaunsa transaction? Mujhe toh pata hi nahi hai. Mein toh kabhi bhi itna paisa nahi deta.
+caller: Sir, transaction block ho gaya hai, lekin confirm karne ke liye aapko apna BharatPay app open karna hoga aur ek OTP enter karna hoga. Tabhi account secure ho jayega.
+receiver: OTP? Kahan bhejna hai OTP? Mujhe thoda dar lag raha hai, sir. Woh OTP app mein dikhega ya SMS se aayega?
+caller: Haan sir, app mein hi dikhega. Aapko sirf app open karna hai aur ‘Verify Transaction’ button par click karna hai. Bas yahi karna hai, aur aapka account completely secure ho jayega.
+receiver: Okay, okay. Mein abhi app open karta hoon. Kuch aur information ki zaroorat hai kya?

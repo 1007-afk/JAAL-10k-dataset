@@ -1,0 +1,8 @@
+caller: Namaste! Mein FreeCash Rewards se call kar raha hoon. Aapko cashback offer ka SMS mila tha na?
+receiver: Haan, mujhe ek SMS aaya tha. Cashback offer? Kya hai woh?
+caller: Ji, aap Rs. 5000 ka cashback jeete hain! Par isko claim karne ke liye, aapko ek small processing fee bharani hogi. Bas Rs. 500.
+receiver: Rs. 500? Kahan bharu? Mein Paytm se kar sakta hoon?
+caller: Haan, bilkul. Aapko ek UPI ID dena hoga. Mein aapko send karta hoon – 8989898989. Uss UPI ID par Rs. 500 send kar dijiye.
+receiver: Thik hai, mein send karta hoon. Verification ke baad cashback mujhe kaise milega?
+caller: Verification ke baad cashback aapke bank account mein transfer ho jayega. Processing complete hone mein sirf 5 minute lagenge. Please send the money, sir!
+receiver: Okay, wait a minute...

@@ -1,0 +1,14 @@
+caller: Namaste Madam, I am calling from SBI KYC updates. We have noticed an issue with your Aadhaar verification on your bank account, and it needs immediate attention.
+receiver: Namaste? SBI? Aadhaar verification issue? I just updated it last year. What exactly is the problem?
+caller: Ji, Madam, as per the latest RBI guidelines, we are re-verifying all accounts. Your Aadhaar number is showing as slightly mismatched in our system. To rectify this, we need you to confirm your Aadhaar number and a one-time password sent to your registered mobile.
+receiver: Mismatched? How is that possible? And why do you need *me* to confirm it? Shouldn't you be fixing it on your end? What will happen if I don’t confirm?
+caller: Madam, it’s a simple verification process. If it's not verified within the hour, your account will be temporarily suspended to prevent any fraudulent activity. We wouldn’t want that, would we? The OTP will be sent shortly.
+receiver: Suspended? That sounds serious. But I am a little worried about giving out my Aadhaar number like this over the phone. Can you tell me the last transaction amount on my account, just to verify you are actually from SBI?
+caller: Certainly, Madam. Just one moment… Okay, I see a transaction of ₹2500 to Reliance Jio on the 15th of this month. Does that sound correct? Now, the OTP has just been sent to your mobile number. Please share it with me when you receive it.
+receiver: Hmm, the Jio bill is correct. But still… I don’t like this. I usually go to the branch for these things. What if I just walk into the SBI branch tomorrow morning and get it sorted out then?
+caller: Madam, the branch will be very crowded, and it might take the whole day. This is a faster, more convenient way. Plus, the system automatically flags accounts for suspension after a certain time, and we may not be able to lift the suspension remotely if it happens.
+receiver: Remote suspension? That doesn’t sound right. Look, I've received an OTP, but I'm still hesitant. Can you tell me your employee ID number? And can you also confirm your branch location?
+caller: My employee ID is SK7892, and I am currently working from the SBI Main Branch in Delhi. Just share the OTP, Madam. It’s a six-digit code. Your account’s security is our top priority.
+receiver: Okay… okay… the OTP is 729415. But if anything goes wrong, I am holding you personally responsible.
+caller: Thank you, Madam. Your account is now fully verified. You can carry on with your banking as usual. Have a nice day, Madam.
+receiver: Wait, shouldn’t I get a confirmation message or something? I don't feel reassured yet.

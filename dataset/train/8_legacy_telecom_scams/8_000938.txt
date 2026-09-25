@@ -1,0 +1,11 @@
+caller: Namaste! Suno, tumhari name hai Rohan Sharma hai na? Humare website par ek lottery ka contest chal raha hai, aur tumhare naam ko select kiya gaya hai! Tumhari account mein ₹50,000 deposit hone wali hai, lekin isme ek small verification step hai.
+receiver: Haanji, meri name Rohan Sharma hai. ₹50,000? Wow! Verification step kya hai?
+caller:Haanji, verification step hai ki tumko ek OTP chahiye hoga. OTP tumhare bank statement par print hoga, ya phir tumko SMS se milega. Is OTP ko humein provide karna hoga agar tum paisa kamaana chaaho.
+receiver: OTP kaise milega? Bank statement par print hoga?
+caller:Haanji, OTP tumhare bank statement par print hoga. Agar tumhara bank statement online nahi hai, toh tum SMS se bhi OTP receive kar sakte ho. Lekin online print karna zyada sahi rahega. Tumne dekha hai kya?
+receiver: Haanji, dekha hai. OTP print ho gaya hai. Ab mai ise provide kar sakta huon?
+caller:Haanji, absolutely! OTP ko humein provide karo. Once OTP receive ho jaye, tumhari account mein ₹50,000 transfer ho jayegi. Just confirm that you have received it.
+receiver: Okay, OTP provide ho gaya hai. Account mein paisa transfer ho gaya hai?
+caller:Haanji, paisa transfer ho gaya hai. Congratulations! Now, you can enjoy your winnings. But remember, is offer sirf 24 hours ke liye valid hai.
+receiver: Thoda wait karaonga, ab check karunga. Thank you!
+caller:Bahut sundar! Apne luck ko celebrate karo! Aur agar koi questions ho toh humein contact karte raho. Is offer ko share karo bhi, jo aapko pasand aaye!

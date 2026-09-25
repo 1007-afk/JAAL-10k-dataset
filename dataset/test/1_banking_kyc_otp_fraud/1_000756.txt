@@ -1,0 +1,16 @@
+caller: Namaste sir, is this Mr. Anil Verma? This is Priya Sharma calling from ICICI Bank’s KYC compliance department.
+receiver: Haanji, bolie. ICICI se bol rahe hain?
+caller: Yes sir, we’ve noticed some discrepancies in your account information during our routine KYC update. To avoid suspension of your account and associated services, we need to verify a few details urgently.
+receiver: Account suspend ho jayega? KYC ke liye kya details chahiye?
+caller: Exactly sir, as per RBI guidelines. We require your full Aadhaar card number and the last four digits of your PAN card for immediate verification. Just to confirm, your registered mobile number is 9876543210, correct?
+receiver: Haan, woh mera number hai. Par Aadhaar number aur PAN card number? Phone pe bataun?
+caller: Yes sir, for security purposes, it needs to be confirmed over the phone.  This is a one-time verification.  We'll quickly update your records and prevent any unfortunate account blockage. The system is flagging it as high risk.
+receiver: High risk? Kya hua? Mein toh koi transaction nahi kiya recent mein.
+caller:  Our system detected a potential fraudulent activity attempt linked to your account, sir.  That’s why this urgent verification is necessary.  Can you please provide the Aadhaar and PAN details now? It will take only a minute.
+receiver: Thoda wait karwa do. Mein check karta hu.  Aadhaar card toh ghar mein hai.
+caller: Sir, time is of the essence. The system will automatically trigger a temporary freeze on your account within the next hour if we don’t get this confirmation. It’s a precaution to protect your funds.
+receiver: Freeze? Okay, okay... Aadhaar number 123456789012. Aur PAN card last four digits 4567.
+caller: Thank you, Mr. Verma. Now, for final verification, we will send you a one-time password (OTP) to your registered mobile number. Please read it out to me.
+receiver: OTP? Haan, aaya... 876543.
+caller: Excellent, sir. Thank you for your cooperation. Your account is now fully verified and secure. You'll receive a confirmation SMS shortly. Have a good day!
+receiver: Theek hai, thank you.

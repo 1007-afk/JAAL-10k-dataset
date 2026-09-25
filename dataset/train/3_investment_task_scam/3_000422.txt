@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Vikram hai, Main Bharat Tours se baat kar raha hu. Aapko ek bahut shukriya hai ki aap hamare call ko attend kiya. Hum ne dekha hai ki aapke liye ek unique offer hai - ek mahine ke liye Mumbai mein free lodging.  Aapko sirf registration karne ki zaroorat hai, aur aapko ek beautiful apartment mil jaayegi.  Mujhe aapke naam aur pin code ki jarurat hai, yahaan par registration shuru karne ke liye.
+receiver: Ji, Vikram bhai. Mera naam Rohan hai. Pin code kya hai?  Main Delhi mein rehta hun.
+caller: Wonderful, Rohan ji!  Delhi mein rehna ek achcha cheez hai.  Aapka pin code bataiye, please.  Yeh Mumbai mein aapki lodging ka confirmation hoga.  Agar aapko koi bhi confusion ho toh, humein 09876543210 number pe call kar sakte hain.  Bharat Tours ki website 7890123456 hai.
+receiver:  Okay, mera pin code 110001 hai.  Mumbai mein lodging…  Yeh bahut achcha deal hai!
+caller:  Bahut sundar!  110001, perfect!  Ab aapko humein sirf ek small detail chahiye – aapka bank account number.  Iske liye humein ehsan karna padega.  Yeh ek small processing charge hai, jab tak aapki booking secure nahi hoti.  Yeh charges ₹2000 ke bare mein hai, aur yeh aapke voucher ko expedite karne ki madad karega.
+receiver: ₹2000?  That’s quite high.  Can you tell me exactly what this ₹2000 covers?  And will I get a receipt after paying this?
+caller: Haan, Rohan ji, yeh ek security deposit hai.  Yeh booking secure karta hai aur aapko Mumbai mein lodging ka guarantee deta hai.  Receipt aapko email se mil jayega, phir aapko woh print karke rakhna parega.  Agar aap abhi paisa transfer karna chahte hain, toh main aapko direct instructions de sakta hoon.
+receiver: Email address batao mujhe, please.  Main dekhunga.

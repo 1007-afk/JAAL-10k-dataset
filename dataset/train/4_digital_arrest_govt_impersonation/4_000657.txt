@@ -1,0 +1,8 @@
+caller: Namaste, is this speaking with Ms. Priya Sharma? This is Inspector Rajeev Kumar calling from the Directorate of Revenue Intelligence, DRI. We have detected some suspicious activity linked to your bank account and a recent international parcel delivery.
+receiver: Haan, boliyega. What happened? My account?
+caller: Yes, Ms. Sharma. It appears a parcel was shipped to your address from overseas containing what we suspect are undeclared goods – potentially related to money laundering. We need to verify this urgently. Please hold the line, and I will connect you to our senior officer, Mr. Singh. He will explain the situation in detail and guide you on how to resolve this.  We are also recording this call for verification purposes.
+receiver: Money laundering? Parcel?  I didn't order anything! This has to be a mistake.
+caller: It's a very serious matter, Ms. Sharma. Our records indicate a significant amount of funds were also transferred shortly before the parcel’s arrival. To clear this up and avoid legal action, you need to pay a small processing fee of ₹15,000. This fee ensures a swift and thorough investigation and prevents further escalation.
+receiver: Fifteen thousand rupees?  But I didn’t do anything!  I want to speak to someone in charge, someone I can trust.  Can I call back this number?
+caller: Absolutely not, Ms. Sharma. Calling back could compromise the investigation. Mr. Singh is the lead investigator. We’re on a secure line. You must pay the fee immediately to demonstrate your cooperation.  The reference number is DRI-2024-778. You can use UPI to pay to this number: 9876543210.  Time is of the essence.
+receiver: This sounds like a scam. I’m not paying anything! I'm going

@@ -1,0 +1,24 @@
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Kya aapka naam Ms. Verma hai?
+receiver: Haanji, main Ms. Verma hi bol rahi hoon. Bolo, kya baat hai?
+caller: Achha Ms. Verma ji, main aapko yeh batane ke liye call kar raha hoon ki aapke HDFC Bank account mein kuch suspect activity dekhi gayi hai. Hamare security team ne ek strange transaction detect kiya hai, aur isliye hum chahte hain ki aapki verification ho jaye.
+receiver: Suspect activity? Kya banaaya hai? Main toh online shopping bhi nahi karti hoon. Batao mene kya karna hai?
+caller: Ji madam, hamare records ke mutabik, aapke account se ₹1200 ka transaction hua hai, jo ki ek digital entertainment platform ko send hua hai. Yeh transaction subuh ki early morning 3:15 AM par hua hai. Kya aapko iske bare mein koi idea hai, madam?
+receiver: ₹1200? Subuh ki early morning? Nahin madam, mujhe abhi bhi yaad nahin aa raha hai. Maine to koi online order nahi diya. Aap please bataiye ki yeh paisa kahan gaya hai aur yeh kaise transaction hua?
+caller: Ji madam, hum samajh sakte hain ki aapko tension hogaya hai. Hum aapki madad karenge. Is transaction ko verify karne ke liye, hamein aapka OTP (One Time Password) chahiye. Kya aap mujhe apne registered mobile number pe OTP bhejna sahi rahega?
+receiver: OTP? Mein OTP mat dungi! Yeh bahut riskli lagta hai. Main Paytm app mein dekhunga ya phir bank branch mein jaunga.
+caller: नमस्ते भाई, मैं ICICI बैंक से बोल रहा हूँ। क्या आपका नाम श्री गुप्ता है?
+receiver: हाँ, मैं श्री गुप्ता हूँ। बताइए, क्या बात है?
+caller: अच्छा श्री गुप्ता जी, मैं आपको यह बताने के लिए कॉल कर रहा हूँ कि आपके ICICI बैंक खाते में कुछ असामान्य गतिविधि देखी गई है। हमारे सुरक्षा विभाग ने एक संदिग्ध लेनदेन का पता लगाया है, और इसलिए हम चाहते हैं कि आप अपनी पहचान सत्यापित करें।
+receiver: असामान्य गतिविधि? किस तरह की गतिविधि? मैंने तो कुछ नहीं किया है। बताइए क्या हुआ है और मुझे क्या करना होगा?
+caller: जी श्री गुप्ता जी, हमारे रिकॉर्ड के अनुसार, आपके खाते से ₹2500 का लेनदेन हुआ है, जो कि एक ऑनलाइन गेमिंग वेबसाइट को भेजा गया है। यह लेनदेन देर रात 2:30 बजे हुआ है। क्या आपको इसके बारे में कोई जानकारी है, श्री गुप्ता?
+receiver: ₹2500? देर रात 2:30 बजे? नहीं, मुझे तो कुछ याद नहीं है। मैंने किसी भी ऑनलाइन गेमिंग वेबसाइट पर भुगतान नहीं किया। कृपया बताएं कि यह पैसा कहां गया और यह कैसे लेनदेन हुआ?
+caller: जी श्री गुप्ता जी, हम समझ सकते हैं कि आपको चिंता हो रही है। हम आपकी पूरी मदद करेंगे। इस लेनदेन को सत्यापित करने के लिए, हमें आपसे आपका पैन कार्ड नंबर चाहिए। क्या आप मुझे अपना पैन कार्ड नंबर बता सकते हैं?
+receiver: पैन कार्ड? मुझे पैन कार्ड नंबर देने का कोई मतलब नहीं है। मैं तुरंत बैंक में जाकर शिकायत करूंगा।
+caller: Namaste sir, main Axis Bank se bol raha hoon. Kya aapka naam Mr. Khan hai?
+receiver: Haanji, main Mr. Khan hi bol raha hoon. Bolo, kya baat hai?
+caller: Achha Mr. Khan ji, main aapko yeh batane ke liye call kar raha hoon ki aapke Axis Bank account mein kuch suspicious activity hui hai. Hamare systems ne ek unusual transaction detect kiya hai, aur isliye hum chahte hain ki aapki verification ho jaye.
+receiver: Suspicious activity? Kaise suspicious? Maine toh kabhi online shopping nahi ki. Aap bataiye kya hua hai?
+caller: Ji sir, hamare records ke mutabik, aapke account se ₹1500 ka transaction hua hai jo ki ek unfamiliar website ko transfer hua hai. Yeh transaction shahar ki mid-night 3:00 AM par hua hai. Kya aapko iske bare mein koi information hai, sir?
+receiver: ₹1500? Shahr ki mid-night? Nahin sir, mujhe koi idea nahi hai. Main kisi unfamiliar website ko koi payment nahi kiya hai. Aap please confirm kar sakte hain ki yeh kahan gaya paisa aur yeh kis tarah ki activity thi?
+caller: Ji sir, hum samajh sakte hain ki aapko tension hogaya hai. Hum aapki puri help karenge. Is transaction ko confirm karne ke liye, humein aapke account ki verification karni hogi. Kya aap mujhe apna registered mobile number bata sakte hain jo aapka Axis Bank se link hai?
+receiver: Haanji

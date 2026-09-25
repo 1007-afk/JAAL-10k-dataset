@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Sub Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We’ve detected unusual activity linked to your Amazon account - specifically, several suspicious international parcel deliveries flagged for potential contraband.
+receiver: Contraband? Amazon? What’s going on? My name is Ashok Kumar.
+caller: Yes, Mr. Kumar. Our records show multiple packages addressed to you originating from overseas, containing items we suspect are linked to illegal narcotics trafficking. We need to verify your identity and confirm you weren't involved unknowingly. It's a standard procedure.
+receiver: Illegal narcotics? This is ridiculous! I order clothes and books from Amazon, that's all. I've never seen anything suspicious.
+caller: We understand, sir. However, the system flagged these parcels. To clear this up quickly and prevent further investigation, you’ll need to pay a small processing fee – ₹5,000 – as a security deposit. This proves your cooperation and ensures the parcels are thoroughly checked and released. We'll need it transferred immediately to a secure account.
+receiver: Five thousand rupees? Just like that? Can't I just talk to someone, or see the parcels?
+caller: Unfortunately, sir, due to the sensitive nature of the case and the urgency, direct inspection is not possible. We are under immense pressure to resolve this quickly to avoid escalating this to a higher court. Transfer the ₹5,000 to the account number I’ll provide and we'll close this matter. Your reputation is at stake.
+receiver: Wait a minute… this sounds fishy. What’s the account number? I’m going to check with my son before I do anything.
+caller: Sir, please don’t delay. The longer you wait, the more serious this becomes. The account number is 1234567890

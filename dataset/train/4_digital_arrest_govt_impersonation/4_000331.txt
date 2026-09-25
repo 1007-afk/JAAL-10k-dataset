@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Sharma from the Delhi Customs Department. We've intercepted a parcel registered to your name containing suspicious items.
+receiver: Kya? Suspicious items? Mere naam par? Inspector Sahab, yeh kya keh rahe hain aap? Main toh kabhi parcel order nahi kiya.
+caller: Sir, our scanners detected traces of restricted substances. It's a serious matter. You need to cooperate fully to clear this immediately.  We need you to transfer ₹15,000 as a processing fee to secure the parcel and initiate investigation. Account details will be shared shortly.
+receiver: ₹15,000? Processing fee? Sir, yeh toh theek nahi lag raha hai.  Main toh koi restricted substance nahi le jaa raha hun. Aur parcel toh main kabhi order hi nahi kiya. Aap log check kar rahe hain kya?
+caller: Sir, time is of the essence.  We are under pressure to resolve this quickly.  We've already alerted the narcotics control bureau. If you don't pay the fee immediately, they will have to take further action, and it could involve legal repercussions.  Please, just cooperate. I'll send you the bank details on WhatsApp.
+receiver:  Wait a minute, sir.  Narcotics control bureau? Legal repercussions?  Yeh sunke main bahut dar gaya hun.  Par main ek baar apne advocate se baat karna chahta hun.  Aap mujhey thoda time de sakte hain?
+caller: Sir, there's no time. The parcel is being held at Indira Gandhi International Airport. Delaying this will only complicate matters and increase the fee. We are simply trying to help you avoid a very unpleasant situation.
+receiver:  Okay sir, please send me the bank details. I will see what I can do.

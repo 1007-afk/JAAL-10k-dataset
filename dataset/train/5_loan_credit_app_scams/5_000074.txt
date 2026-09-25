@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, SpeedyLoans.co.in se. Aapko urgent paisa chahiye kya? Car repair, medical bill, ya kuch aur?
+receiver: Ji, bilkul. Meri beti ki school fees pending hai.
+caller: Accha! Toh koi sawal nahi. SpeedyLoans mein aapko instant loan mil jayega, sirf 15 minute mein. ₹10,000 se ₹50,000 tak, koi bhi amount. Aapki details bataiye, main process shuru karta hoon.
+receiver: Theek hai. Mera naam Anita hai. Mujhe ₹12,000 ki zaroorat hai.
+caller: Anita ji, superb! Loan approve ho gaya hai. Lekin, process complete karne ke liye, aapko ek small verification fee deposit karni hogi, sirf ₹1500. Yeh fees aapke account mein deposit refund ho jayegi. OTP send kar raha hoon.
+receiver: ₹1500? Maine suna hai aise scam hote hain.
+caller: Anita ji, ye verification fee hai, trust build karne ke liye. Aur main aapko blackmail nahi kar raha hoon. Agar aap loan nahi lena chahti toh koi baat nahi. Par agar aapko loan chahiye, toh fees pay karein.
+receiver: Main sochna chahti hoon.
+caller: Anita ji, sochne ka time nahi hai! Agar aap time waste karein, toh loan offer expire ho jayegi. Aur shayad aapko phir kabhi itna easy loan nahi milega.

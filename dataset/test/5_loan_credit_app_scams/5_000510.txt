@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vikram hai, FastCash Solutions se. Aapke naam par ek loan approval aaya hai, Rs. 75,000, bahut hi achhi conditions ke saath. Kaise hai aap?
+receiver: Haan, main Sunita Sharma. Loan approval? Mujhe toh koi notification nahi aaya.
+caller: Ho sakta hai notification delay ho gaya ho. Hamara system automatic hai, lekin kabhi-kabhi kuch problems hoti hai. Loan get karne ke liye, mujhe aapki bank account details aur OTP chahiye, verification ke liye.
+receiver: OTP? Maine toh kabhi kisi ko kabhi OTP nahi diya. Yeh thoda suspicious lag raha hai.
+caller: Sunita ji, trust please! Agar aap OTP nahi denge toh loan process ruk jayega. Aur hamare terms and conditions ke according, OTP ke bina loan nahi mil sakta. Hamara app government approved hai, bilkul secure. Aapko Rs. 75,000 cash kal tak get ho jayega. Bas OTP do, please!
+receiver: Theek hai, dekhta hoon. Main aapko ek minute wait karwaati hoon.
+caller: Sunita ji, ek aur baat. Loan process complete karne ke liye, aapko sirf Rs. 2,500 processing fee pay karni hogi. Iske baad, Rs. 75,000 aapke account mein transfer ho jayega. Account details do, main link send kar deta hoon.

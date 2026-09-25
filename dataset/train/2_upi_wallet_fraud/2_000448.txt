@@ -1,0 +1,7 @@
+caller: Hello sir, is this Mr. Sharma? I am calling from Freecharge regarding your recent transaction.
+receiver: Haan, bolie. What’s the matter?
+caller: Sir, we’ve detected a small discrepancy in your account. To resolve it, we need to verify a one-time security deposit of just ₹500. This will ensure your Freecharge account remains secure and you continue to receive cashback offers.
+receiver: ₹500? Security deposit? I haven't received any communication about this before. Is this really Freecharge?
+caller: Yes sir, absolutely. It’s a standard procedure to prevent fraudulent activity. Just send ₹500 to this UPI ID: secure.freecharge.verify@axis. We’ll automatically refund it after verification, along with extra cashback as a bonus.
+receiver:  Okay, but why UPI? Usually, I just recharge using my card. And refund with bonus cashback? Sounds a bit fishy. Can you give me a reference number or something?
+caller: Sir, due to security protocols, we can't provide a reference number over the phone. The UPI ID is the confirmation. The bonus cashback is a limited-time offer to thank you for your cooperation. Please do it quickly, sir, to avoid any account restrictions. We wouldn't want your Freecharge account to be blocked.

@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohan hai, SpeedyLoans se. Aapki credit report dekhne ke baad, hume lagta hai aapko ₹15,000 tak ka personal loan mil sakta hai, sirf aadhaar aur PAN card se. Instant approval! Aap kab se job kar rahe hain?
+receiver: Oh, really? That's interesting. I’ve been working at a shop for about 3 years now. But I'm a little hesitant about online loans, you know?
+caller: Koi chinta nahi, sir! SpeedyLoans bilkul secure hai. Humara process bahut easy hai. Aapko sirf ₹250 ka processing fee deposit karna hai, aur fund aapke account mein 10 minute mein transfer ho jayega. Account details main aapko SMS se bhejunga.
+receiver: ₹250? Just like that? Why so much upfront? I thought online loans were supposed to be quick and easy.
+caller: Sir, woh security ke liye hai. Kyuki bahut se fraud wale fake loans offer karte hain. Yeh fee confirm karta hai ki aap serious hain. Aur jab aap loan repay karenge, toh yeh fee automatically adjust ho jayega. Please pay to this UPI ID: 8888888888@ybl.
+receiver: Okay… alright. I’ll try that. Let me see if I can find that amount. (pause) Okay, I’ve done it. The money is transferred.
+caller: Dhanyavaad, sir! Ab, aapka loan approve ho gaya hai. Lekin, dekhiye, humein ek chhoti si problem hui hai. Abhi aapko ₹3,500 ka extra service charge deposit karna padega, otherwise aapka loan release nahi hoga. Yeh legal formalities ke liye hai. Jaldi karo, sir, warna offer expire ho jayega.
+receiver: What

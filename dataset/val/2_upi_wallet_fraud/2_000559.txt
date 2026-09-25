@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Sunil bol raha hoon. Aapke BharatPay wallet mein ₹3,200 ka credit refund aaya hai. Ise apne account mein transfer karne ke liye, ‘CLAIM’ number 99999 pe send karein. Sirf ₹5 ka verification charge lagega.
+receiver: ₹3,200? BharatPay mein? Verification charge ₹5? Yeh sahi hai kya? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, sahi hai! BharatPay is offer ke liye automatic notification nahi bhejatā. ₹5 ka charge sirf OTP generate karne ke liye lagta hai, sir. Aapka refund jaldi transfer ho jayega.
+receiver: OTP? Aur kisliye OTP? Mujhe doubt ho raha hai. BharatPay app mein toh koi offer dikh nahi raha.
+caller: Nahin, nahin, sir. App mein dikhne ke liye nahi hai. Yeh ek special offer hai sirf call par select customers ke liye. Aapko fast service mil rahi hai. Aapka BharatPay ID bataiye, mein verify kar deta hoon.
+receiver: Wait a minute. BharatPay kabhi bhi phone par ID nahi puchta. I'm not giving you anything. I'm ending this call.
+caller: Sir, aapko ₹3,200 jaane denge kya? Bas apna BharatPay ID bataiye, process complete ho jayega.

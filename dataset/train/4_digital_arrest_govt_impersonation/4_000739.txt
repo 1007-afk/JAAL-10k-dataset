@@ -1,0 +1,8 @@
+caller: Namaste, main Cyber Crime Investigation Cell se bol raha hoon. Aapka naam kya hai?
+receiver: Cyber Crime Investigation Cell? Kaise ho? Aur aapne mujhe call kyun kiya?
+caller: Aapke naam ke against illegal cryptocurrency transactions ki reports aayi hain. Rs 5.7 lakh ka transaction Maharashtra se hua hai, aur usmein aapka wallet address involve hai.
+receiver: Yeh kya bol rahe ho? Main toh kabhi cryptocurrency nahi buy kiya. Yeh galat hai! Wallet address mera?
+caller: Sir, yeh bahut serious matter hai. Humko verification karna hoga. Aapko Rs 15,000 ka security deposit jama karna hoga. Isse aapka naam clear ho jayega aur hum investigation complete kar payenge.
+receiver: 15,000 rupees? Aur woh bhi phone pe? Main bank mein jaake check karunga. Yeh kuch chalao lag raha hai.
+caller: Sir, time bahut kam hai. Agar aap jaldi nahi kar paye toh court se warrant bhi nikal sakta hai. Aapke naam pe arrest warrant aa jayega. Abhi bank transfer details mein check karein, please.
+receiver: Arrest warrant?! Stop right there. Main police station mein complaint karunga. Yeh call fake hai!

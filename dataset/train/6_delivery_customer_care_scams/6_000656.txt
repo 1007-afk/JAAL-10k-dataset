@@ -1,0 +1,7 @@
+caller: Namaste! Mai Ankit bol raha hoon, Zomato Customer Care se. Tumhare account mein kuch suspicious activity detect hui hai. Kuch orders diye gaye hain jo aapne nahi diye.
+receiver: Oh? Suspicious activity? Main toh Zomato hardly use karta hoon. Kya hua exactly? Koi order number ya details do.
+caller: Haan ji, ek order hai ₹3800 ka, Agra se. Aapne kabhi Agra nahi se, na? Is order ko cancel karne ke liye aur account secure karne ke liye, aapko OTP dena hoga.
+receiver: ₹3800? Agra se? Main toh kabhi Zomato se order hi nahi kiya. OTP mat deko, scam lag raha hai. Tumhara customer care number dedo, main directly call karta hoon.
+caller: Sir, time bahut kam hai, account hack ho sakta hai. OTP immediately dena hai, warna aapka account permanent block ho jayega.  Aapko ₹5000 ka loss bhi ho sakta hai. Just send the OTP and everything will be fine.
+receiver: Account block ho jayega? ₹5000 ka loss? Dekho, main Zomato app mein customer care number check karta hoon. Aapse OTP nahi de sakta, scam toh hai hi. Aur Agra se ₹3800 ka order? Yeh toh mereko bilkul bhi sensible nahi lag raha hai.
+caller: Sir, OTP urgently required! Tumhara account khata hai, bilkul khata hai! Iska pata hai tumko? Tumko ₹5000 ka loss hoga! Now send OTP or all gone!

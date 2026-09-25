@@ -1,0 +1,8 @@
+caller: Namaste uncle, main PhonePe se bol raha hoon. Aapke account mein cashback offer hai, 5000 rupees.
+receiver: Oh, kya baat hai! 5000 cashback? Kasie?
+caller: Haan uncle, aapko sirf ek small verification process complete karna hai. Aapko ek link pe click karna hai aur kuch details enter karni hai.
+receiver: Verification? Kis tarah ka verification? Mujhe PhonePe ne kabhi koi link nahi bheja.
+caller: Link hum aapko aapke security ke liye send kar rahe hain. Link pe click karein, aur ek OTP enter karein. Phir cashback aapke account mein transfer ho jayega. Yeh offer sirf aaj ke liye hai.
+receiver: OTP? Par PhonePe toh kabhi bhi OTP maangta nahi. Yeh scam lag raha hai.
+caller: Uncle, aap trust karein. Yeh aapke paise double hone ka mauka hai. Jaldi karein, offer expire ho jayega.
+receiver: Nahin, thank you. Main khud PhonePe app mein check karunga. Tumse main koi information nahi dene wala.

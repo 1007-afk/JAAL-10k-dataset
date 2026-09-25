@@ -1,0 +1,10 @@
+caller: Namaste, main 'Shubh Fortune Services' se baat kar raha hoon. Kaise chal rahi hai aapki zindagi? Aapko batana chahie ki aap ek special scheme mein enter hue hain aur aapko ek ₹5000 ka loot box jeetne ka mauka mila hai! Lekin, agar aap jeetna chahte hain, toh aapko ek small verification process complete karna hoga.  Aapka Aadhaar card number bata sakte hain?
+receiver: Namaste, main theek hi hoon dhanyavaad. Loot box?  Intereseting. Mera Aadhaar card number… hmm, wait karte hain.  Yeh number secure hai?
+caller: Haan ji, yeh completely secure hai.  Yeh sirf verification ke liye hai, aapki koi bhi information leaked hone wala nahi hai.  Aapka Aadhaar card number bataiye, please.  Agar aap verify nahi karenge, toh aapko loot box nahi milega.
+receiver: Okay, mera Aadhaar card number hai 123456789012.  Aur yeh number genuine hai? Kya yeh real hai?
+caller: Bahut achcha!  Ab aapko yeh answer 9876543210 ke SMS par jankari check karne ke liye send karna hai.  Yaad rakhein, aapke paas sirf 2 attempts bache hain!  Jaldi karain, is offer ko kisi ke pass nahi jaane dein!
+receiver:  9876543210 pe message bhejna hai? Kitne time tak valid rahega yeh message?  Bhiyo, yeh attempt kitna valid hain?
+caller:  Haan ji, yeh 2 attempts 6 ghante ke andar valid hain.  Aur haan, yeh 2 attempts nahi, ab aapke paas sirf 1 attempt bacha hai!  Please 9876543210 pe message bhejna hai.  Iske baad aapko loot box nahi milega.
+receiver: Arre yaar, sirf 1 attempt? This is so fast! Okay, main abhi message bheji dungi. Dhanyavaad!
+caller:  Arre haan ji, bas ab aapke paas koi attempt nahi bacha hai!  Jaldi se message kar dein 9876543210 pe aapka jawab. Iske baad offer khatam ho jaayega, aur aap ₹5000 ka loot box jeet nahi payenge.  Speedy!
+receiver: Okay, okay, message bheja! Shukriya!

@@ -1,0 +1,10 @@
+caller: Namaste, main Rahul hoon. Yeh ek bahut hi mahatvapurn baat hai, 'Shubh Sambodhan' app se. Hum ne dekha hai ki aapke paas ek special deal hai - aapko 6 month ke liye free mein premium features mil jayenge! Kaise lagta hai?
+receiver: Namaste Rahul Ji,haan, yeh sunne mein bohat interest rakhti hun. Premium features, 6 month ke liye free? Kaha se mila yeh offer?
+caller: Shurati karoon toh, aapki mobile number 8765432109 hai na? Ismein ek chota sa verification karna hai, sirf isliye ki aapko yeh offer mile. Kuchh problem nahi hone wala.
+receiver: Haan, meri mobile number 8765432109 hai. Verification kyon zaroori hai?
+caller: [Receiver’s Name], hume aapke device par ek small software update lena hoga. Ye update sabse secure hai aur aapko premium features unlock karne ke liye iska install karna hoga. Dono tension mat lo, yeh totally legitimate hai.
+receiver: Software update? Mein unhein download karunga. Kahan se la rahe ho aap?
+caller: Update 'Shubh Sambodhan' app se hi laaya jaega. Install karte hi aapko premium access mil jayega. Ya phir, aapko ek 4-digit OTP chahiye hoga, jo aapke number pe ayega. Kya aap ready hain?
+receiver: OTP bhi chahiye? Fine, bhej do.
+caller: OTP bhej diya hai, [Receiver’s Name]. 4 digit code hai. Jaise hi aapko aaye, mujhe batayein.
+receiver: Aa gaya OTP. [Reads out OTP]. Code hai 1234. Ab kya?

@@ -1,0 +1,7 @@
+caller: Namaste, dear! Just saw your profile on 'ConnectHearts' - you have such a lovely smile! I'm Rohan, by the way. Hope you're having a wonderful day.
+receiver: Hi Rohan! Namaste to you too. Thank you! My day is pretty good, just browsing. What do you do?
+caller: I work in Dubai, mostly travelling for business. It gets lonely sometimes, you know? I really appreciate connecting with someone like you - genuine and kind. Listen, I'm having some trouble with a bank transfer back home to my family. It's a small amount, just 15,000 rupees, for my sister’s medical expenses. Could you possibly help me out by sending it to this UPI ID: 7890123456@yono? I'll pay you back as soon as I get settled.
+receiver: 15,000 rupees? That's quite a bit. And sending money through UPI to someone I just met... sounds risky, Rohan. Are you sure there's no other way?
+caller: I understand your concern, truly! My bank is being difficult with international transfers right now. It’s just a temporary thing, I promise. My sister's really counting on this, and I'm desperate. Think of it as a small favour from one good soul to another. I'll send you a screenshot of my sister's medical bill as proof – would that help?
+receiver: Okay, a screenshot would be good. Let me see it first. And tell me, how long have you been working in Dubai?
+caller: Certainly! Here's the bill. I've been working here for almost 5 years now, mainly in logistics. It’s a demanding job, but the money is good. Look, I wouldn’t ask if

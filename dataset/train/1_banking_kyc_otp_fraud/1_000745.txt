@@ -1,0 +1,14 @@
+caller: Namaste madam, main ICICI Bank se Rajesh bol raha hoon. Aapke account se jooda ek suspicious activity detect hua hai.
+receiver: Oh, hello. Suspicious activity? Kya hua hai?
+caller: Ji madam, humne dekha hai ki aapke account se ek badi amount ka transfer attempt kiya gaya tha, lekin security reasons se humne rok diya.
+receiver: Badi amount? Kitni amount ka? Maine toh koi bhi transfer attempt nahi kiya hai.
+caller: Madam, exactly wahi toh problem hai. Isiliye hum aapko call kar rahe hain. Aapko apna account verify karna hoga.
+receiver: Verify karne ke liye kya karna hai?
+caller: Ji madam, aapko bas apna Aadhaar number aur registered mobile number bataana hai, aur hum ek OTP aapke number par send karenge. Us OTP ko share kijiye.
+receiver: OTP? Bank wale phone par OTP nahi maangte. Ye toh mujhe pata hai.
+caller: Madam, yeh security protocol hai. Agar aap verify nahi karenge toh aapka account temporarily block ho jayega.
+receiver: Account block ho jayega? Are yaar, yeh toh problem ho gayi. Lekin phir bhi mujhe darr lag raha hai.
+caller: Madam, darne ki baat nahi hai. Hum ICICI Bank ke official representative hain. Agar aapko doubt hai toh aap ICICI Bank helpline number par call karke verify kar sakte hain. Lekin jaldi kijiye, kyunki time limit hai.
+receiver: Theek hai, ek minute. Main helpline number search karti hoon. Wait kijiye. (pause) Mujhe aapka number bhi hold par rakhne dijiye.
+caller: Ji madam, please jaldi kijiye. Time out ho raha hai. Aur agar aapko helpline number search karne mein problem aa rahi hai toh main aapko ek number deta hoon…
+receiver: Nahi, nahi. Main khud search kar lungi. Mujhe aapka number hold par rakhne dijiye. Ismein kuch gadbad lag rahi hai mujhe. Agar aap bank se hote toh OTP maangte hi nahi.

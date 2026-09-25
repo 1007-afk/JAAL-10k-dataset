@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma calling from the Directorate of Revenue Intelligence. We've flagged some unusual activity on your international transactions.
+receiver: Haan, boliey. Kya hua? Why are you calling me?
+caller: Sir, we’ve noticed several large transfers to cryptocurrency wallets originating from your bank account. This is being investigated as potential money laundering. To clear this up quickly, we need to verify a few details.
+receiver: Cryptocurrency? Main kabhi crypto nahi kharida. Yeh galat hai.
+caller: Sir, don't worry. It seems someone is using your account without your knowledge. We need to verify your bank account details and a small OTP sent to your registered mobile number for security purposes. Just a small fee of ₹5000 to release the funds and close the case.
+receiver: ₹5000? Aur OTP? Main phone kaat deta hoon! Tum log scammer ho!

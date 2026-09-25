@@ -1,0 +1,13 @@
+caller: Namaste! Main Rahul, Flipkart Customer Care se bol raha hoon. Aapke naam par ek order aaya hai, lekin payment processing mein kuch problem ho rahi hai.
+receiver: Oh, really? Flipkart se? Mainko koi message nahi mila. Kya order number hai?
+caller: Haanji, order number FLP7892345. Aapko OTP verification karna hoga taaki payment process ho sake. Yeh security ke liye hai, sir.
+receiver: OTP? Kaise verify karun? Mainko kuch doubt ho raha hai.
+caller: Bilkul, sir. Main aapko OTP SMS karega. Uske baad, mujhe woh number bata dijiye, aur aapka order successfully process ho jayega. Bas ek minute rukiye.
+receiver: Theek hai, rukta hoon. Lekin agar kuch bhi gadbad hua toh main complaint karunga.
+caller: Absolutely! Main khud check karunga. OTP hai: 987654. Bataiye sir.
+receiver: 987654.
+caller: Thank you! Ab aapko payment karna hoga ₹499 security deposit ke liye. Aapko online payment karna hai.
+receiver: Payment? Mainko koi payment nahi karna chahiye. Yeh to scam lag raha hai.
+caller: Sir, yeh compulsory hai. Agar payment nahi karenge, toh aapka parcel return ho jayega. Abhi payment karein, sir.
+receiver: Nahi, nahi, main nahi karunga. Main Flipkart customer support se baat karta hoon.
+caller: Sir, time barbaad mat karein! Parcel return ho jayega! Call 1234567890 immediately!

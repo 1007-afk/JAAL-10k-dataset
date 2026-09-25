@@ -1,0 +1,7 @@
+caller: Hello! My name is Rohan, I'm a photographer based in Goa. I saw your profile on "VishwaMeet" and you have a really beautiful smile. Would you be open to chatting a bit?
+receiver: Hi Rohan! Thanks for the compliment. I'm doing well. What kind of photography do you do?
+caller: Mostly travel and portraiture. Been quite busy lately, but Goa is always inspiring. I'm trying to build a portfolio showcasing Indian beauty, you know?  I was hoping maybe you could help me with a small project. Just a few shots, really, nothing too serious.
+receiver: A photography project? That's interesting. What kind of shots were you thinking of? I’m not sure I’m really comfortable with that though.
+caller: Just some casual, natural poses, nothing too revealing. It's for an upcoming exhibition, it would be great exposure for you too!  The only thing is, I need to book a studio for a few hours, and I’m a little short on funds right now. Could you possibly send me ₹3000 to cover the studio rental? I’ll send the photos to you afterward as a thank you.
+receiver: ₹3000 just for a studio rental? That seems like a lot. And I'm really not comfortable sending money to someone I've just met online. I think I’m going to have to pass on this.
+caller: Okay, I understand. Sorry to have bothered you. Perhaps there's someone else who can assist. Have a good day!

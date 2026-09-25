@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel customer care se Rahul bol raha hoon. Aapke Airtel account mein kuch activity hui hai jo suspicious lag rahi hai.
+receiver: Oh, really? Suspicious activity? What kind of activity?
+caller: Sir, ek OTP bhej diya gaya hai aapke number par. Please check karo, kyunki ek new transaction attempt kiya gaya hai ₹4,500 ka.
+receiver: ₹4,500? That’s a lot! I didn’t authorize any transaction. I haven’t even made any online purchases recently.
+caller: Sir, yeh urgent hai. Aapko confirm karna hoga ki yeh transaction aapne kiya hai ya nahi. Varna account block bhi ho sakta hai. Apne OTP share kardo taaki main verify kar sakoon.
+receiver: Wait a minute. Airtel never asks for OTPs over the phone. I’m going to call Airtel customer care directly from their official number.
+caller: Sir, please! Don't waste time, aapka account risky mein aa gaya hai. Just send the OTP, I’ll secure it immediately. Don't take any chances, bhai!

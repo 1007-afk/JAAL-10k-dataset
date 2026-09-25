@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Ravi hai, BharatCash Solutions se. Aapka mobile number 7890123456 hai na? Humare record ke hisab se, aapne BharatCash app se loan apply kiya tha. Approval process mein kuch steps baaki hain.
+receiver: Haan, mainne BharatCash se loan apply kiya tha. Kya approval ho gaya?
+caller: Ji, approval ho gaya hai! ₹75,000 ka loan aapke liye approve ho gaya hai. Par isse process karne ke liye, aapko ek small verification fee bharne hogi – ₹2,500. Yeh fee humare system mein security check ke liye hai.
+receiver: ₹2,500 fee? Loan approve hone ke baad fee bharne ki zarurat hai?
+caller: Haan, sir. Yeh compulsory hai. Agar aap fee bharte hain, toh aapka loan aaj hi aapke account mein transfer ho jayega. Otherwise, loan approve ho jayega par fund release nahi hoga. Payment link main aapko send kar dunga.
+receiver: Theek hai, send karo link.
+caller: Done! Link send kar diya hai. Jaldi karo, sir. Else, aapka loan cancel bhi ho sakta hai.

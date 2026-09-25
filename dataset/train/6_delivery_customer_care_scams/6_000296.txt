@@ -1,0 +1,7 @@
+caller: Hello, good afternoon. This is Raj from Delhivery. We're calling regarding a package addressed to you, sir. There seems to be an issue with the delivery address – it’s showing as incomplete.
+receiver: Oh, really? I wasn't expecting anything. What's the package?
+caller: It’s from Swiggy, sir. Seems to be a food order, a very large one. The system flagged the address as missing a pin code and apartment number. Without that, we can't deliver it. To avoid it being returned, we need to verify.
+receiver: A Swiggy order? I don't recall ordering anything that big. What’s the order amount?
+caller: The total amount is ₹2,750, sir. To process the delivery and update the address, we require a one-time verification fee of ₹500 to cover the re-delivery charges and confirmation. It will be refunded once the package is safely delivered. We can take it through a secure payment link.
+receiver: ₹500? That seems a bit excessive just for confirming an address. Can I speak to a supervisor? And why would Swiggy ask Delhivery to collect payment?
+caller: Sir, due to increased fraud attempts, we're following a new protocol for high-value deliveries. A supervisor is currently unavailable. This is a standard procedure, sir. Just a quick OTP on your registered mobile number, and we can proceed. Please share the last 4 digits.

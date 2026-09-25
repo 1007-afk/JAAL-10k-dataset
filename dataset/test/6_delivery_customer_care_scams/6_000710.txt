@@ -1,0 +1,8 @@
+caller: Namaste! Mein Flipkart se hu. Aapke naam par ek order aaya tha, lekin address mein kuch problem hai. Kya aap bata sakte hain?
+receiver: Kya order tha? Mujhe toh yaad nahi aa raha.
+caller: Woh ek smart watch tha, sir. MRP ₹3500 ka, lekin aapko offer mein ₹999 mein mila. Abhi delivery boy aapke ghar pe hai, lekin verification ke bina woh nahi ja sakta.
+receiver: Verification? Kya verification hai?
+caller: Haan sir, security ke liye. Aapke phone pe ek OTP aaya hoga, woh mujhe bata dijiye.
+receiver: Haan, aaya hai. Wait karun. 4... 7... 8... 2... 9…
+caller: Shukriya sir! Ab package aapke address pe deliver kar diya jayega. Ek chhota sa payment bhi karvana padega ₹499 ke liye, refund policy activate karne ke liye. Aapko UPI ya card se karna hai?
+receiver: ₹499? Yeh toh order karte waqt nahi bola tha!

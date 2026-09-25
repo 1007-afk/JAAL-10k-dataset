@@ -1,0 +1,8 @@
+caller: Namaste, mai Rahul bol raha hu, Zomato customer care se. Aapke Zomato account mein ek suspicious order dekha gaya hai, ₹1200 ka.
+receiver: ₹1200 ka order? Mai toh kuch order nahi kiya tha. Kya hua?
+caller: Haan sir, ek order diya gaya hai, lekin payment fail ho gaya. Payment clear karne ke liye, aapko OTP dena hoga.
+receiver: OTP? Zomato OTP maangta hai? Mujhe toh ye thoda fishy lag raha hai.
+caller: Sir, OTP sirf payment confirm karne ke liye hai. Iske bina order cancel ho jayega aur aapko refund bhi nahi milega. Jaldi kijiye, sir, time bahut kam hai.
+receiver: Wait, wait. Kuch ruk jao. Mai Zomato app mein check karti hu. Tum ek minute ruk jao.
+caller: Sir, jaldi rukna nahi hai, nahi to order cancel ho jayega! Abhi OTP send karo.
+receiver: Haan toh, OTP send karke kya faida? Mai abhi app check kar rahi hu, aur wahan kuch bhi suspicious nahi dikha raha hai.

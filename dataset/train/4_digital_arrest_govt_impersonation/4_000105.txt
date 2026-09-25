@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Singh, calling from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Delhi Customs? What suspicious items? I haven’t ordered anything recently.
+caller: Sir, we found several unregistered SIM cards and electronic devices within the parcel. These are flagged as potentially linked to illegal activities – money laundering, specifically.
+receiver: Money laundering? This is ridiculous! I don't know anything about this. I haven't received any package. Are you sure you have the right address?
+caller: We've confirmed the address, sir. To clear this up and prevent further legal complications, you need to pay a small processing fee of ₹8,500 to expedite the verification process. We’ll need you to stay on this line while we process it.
+receiver: ₹8,500? Just to clear my name? And you want me to stay on the phone? This sounds like a scam. I’m going to report this to the cybercrime cell immediately.
+caller: Sir, please don't do that. This is a sensitive matter. The amount is just a security deposit, refundable after verification. Delaying will only make things worse; the courts will get involved then. Just cooperate, and we'll resolve this quickly. We can even arrange for a video call with a senior officer to verify your identity.

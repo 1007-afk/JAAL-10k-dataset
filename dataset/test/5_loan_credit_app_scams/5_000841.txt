@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Rohit hai, DigiLoan se. Aapki business loan ke application ki processing ho rahi hai. Approval ke liye, kuch basic information verify karna hai.
+receiver: Ji haan, theek hai. Bataiye kya verify karna hai. Mein toh apply kar chuka hoon.
+caller: Sir, aapne application mein apna pan card number diya tha, lekin ab humein aapke bank account ke last 6 transactions ka screenshot chahiye, verification ke liye. Aur, aapka mobile number jo use kiya tha, usmein OTP receive hua tha kya?
+receiver: Bank statement? Woh thoda time lagega, mujhe dekha padega. OTP toh mila tha, lekin woh ab yaad nahi.
+caller: Sir, OTP confidential hai, isliye pooch raha hoon. Bank statement bahut important hai, sir. Agar verification complete nahi hui toh loan process stop ho jayega, aur approval delay ho sakta hai. Sir, abhi OTP memory se nahi aa raha toh koi baat nahi, bank statement send kar dijiye.
+receiver: Theek hai, dekhta hoon. Bank statement mein transactions ke details hain?
+caller: Haan sir, bank statement mein transactions ke details hain. Woh humein verify karne ke liye chahiye. Jab mil jaayega tab hi process aage badhega. Abhi aapko koi aur information ki zarurat hai?

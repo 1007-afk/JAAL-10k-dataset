@@ -1,0 +1,11 @@
+caller: Namaste, is this Ms. Devi? This is SecurePay regarding your recent transaction for ‘Zenith Solutions’.
+receiver: Ji, bolo. Kaise hain aap?
+caller: Ji madam, my name is Rahul from SecurePay. We’ve detected an unusual activity on your account linked to Zenith Solutions. You were recently charged £6.80 for a software upgrade. We want to ensure your security and verify that you authorized this payment.
+receiver: Zenith Solutions? Software upgrade? Mujhe abhi tak koi confirmation nahi mila. ₹6.80 charge ho gaya hai?
+caller: Exactly, madam. We understand it might seem confusing. Our system flagged it as potentially fraudulent. To protect you, we need to quickly confirm your identity. Could you please provide me with the last four digits of your debit card?
+receiver: Last four digits? Mein fir se number bataungi? Mujhe dubba nahi hona chahiye.
+caller: Madam, this is a standard security protocol. It just helps us confirm you are the rightful owner of the account. We won't ask for your full card number over the phone. Just those last four digits will suffice. Also, we can offer you a free antivirus scan today.
+receiver: Antivirus scan? Kahan se milega ye antivirus? Aur ₹6.80 ka charge kyun ho gaya?
+caller: The antivirus scan is a complimentary service offered by SecurePay. As for the charge, it appears there was a miscommunication with Zenith Solutions regarding the upgrade. We're working to resolve it immediately. But for your peace of mind, let’s proceed with confirming your identity. Can you tell me your date of birth?
+receiver: Date of birth? Main ye kis liye bata rahi huon?
+caller: Madam, we simply require basic information to verify your account. Don’t worry, all data is securely encrypted. We assure you, we're here to help protect you from potential fraud. Let's get this sorted out quickly.

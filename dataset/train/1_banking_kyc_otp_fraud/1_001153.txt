@@ -1,0 +1,6 @@
+caller: Namaste Madam, mai Axis Bank se Rahul bol raha hu. Aapke naam par ek international transaction attempt kiya gaya hai, amount 12,000 Rupees ka. Security ke liye, aapko ek OTP verify karna hoga.
+receiver: Are? International transaction? Mai toh kabhi international transaction nahi kiya. Aur OTP bhi mat deko, scammer banega tum.
+caller: Madam, yeh bahut serious matter hai. Account suspend bhi ho sakta hai, agar aap verify nahi karte.  Aapka account hacker ki taraf se attack kiya gaya hai.  Main aapko bata raha hu, urgent hai. Bas OTP de dijiye.
+receiver:  Dekho, mujhe Axis Bank se call kabhi nahi aati.  Aur OTP share karne ko bol rahe ho?  Tumse koi deal nahi.  Koi ID card number dedo, ya bank branch ka address, tab bolugi.
+caller: Madam, hum phone pe ID card number nahi de sakte. Security reasons se.  Bas ek minute, main aapko humara direct number de deta hu, aap call back kar lijiye. Par OTP verify karna bahut zaroori hai, nahi toh aapka account block ho jayega. 3 ghante se lagta hai.
+receiver: Account block ho jayega? Bahut badmash ho tum. Mai police complaint karungi, chalo. Aur mujhe nahi pata tumhara koi number hai ya nahi.  Tumhara call kaat raha hu.

@@ -1,0 +1,7 @@
+caller: Hello, good afternoon! This is Rohan from SpeedyShip couriers. We have a slight issue with your parcel destined for your address.
+receiver: Oh? What kind of issue? I was expecting a delivery today.
+caller: Yes sir, there’s been a processing error, and a small outstanding payment of ₹499 is showing on your account to clear the delivery. It’s a temporary hold.
+receiver: ₹499? That seems a bit odd. I didn’t authorize any extra charges. Can you tell me the tracking number?
+caller: Absolutely, sir. The tracking number is SW123456789. To clear this, we need you to verify your OTP which will be sent to your registered mobile number. This is just a security measure, sir.
+receiver: Okay, I’ve received an OTP. But I still want to confirm this is legitimate before I give you anything. Can you tell me your direct supervisor's name and contact number?
+caller: Sir, I understand your concern. However, due to high call volumes, I am not authorized to provide that information at this time. Please just confirm the OTP so we can release your package. Only 3 more packages are scheduled for delivery in your area today, sir, so don’t miss out!

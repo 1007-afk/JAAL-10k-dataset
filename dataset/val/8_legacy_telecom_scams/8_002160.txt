@@ -1,0 +1,9 @@
+caller: Namaste, thank you for contacting Galaxy Tech! I see you’ve been using your smartphone for approximately eight months now?
+receiver: Ji haan, maine barobar aath mahine pehle hi phone liya tha. Aap ne kaha ki koi offer hai?
+caller: Absolutely! You qualify for our exclusive promotion. We're distributing the brand new Galaxy Zoom series – featuring incredible 4K video recording – at no cost to valued customers like yourself who've kept your device active for eight months. And, enjoy unlimited data and international roaming for a whole year! Just reply with ‘Confirm’ to 555-666, or say ‘No Thanks’ if that doesn’t interest you.
+receiver: 4K video aur unlimited data? Hai na! Yeh bahut acha deal lagta hai. Mai confirm karna chahta hoon. Kaise procedure hai, bataiye mujhe? Aur ye Confirm message kab aaega?
+caller: Wonderful! Once you send ‘Confirm’, we’ll immediately email you a detailed brochure outlining the specifications and the easy upgrade steps. It’s a very streamlined process. But we’re running low; only five units remaining for this limited time offer. So, don't delay, send ‘Confirm’ now!
+receiver: Piye, sirf panch hi bache hain? Okay, mai 'Confirm' message bhejna chahayun.  Mai thikchahi check karunga.  Aapne kaha tha ki yeh phone mein achhi camera hai?
+caller: Precisely! And yes, the Galaxy Zoom boasts a phenomenal 64MP camera, perfect for capturing stunning photos and videos.  After you confirm, we’ll schedule a convenient time for a remote setup assistance.  We want to ensure a seamless transition for you.
+receiver: Remote setup assistance?  That sounds great!  Thank you so much.  I'll send ‘Confirm’ immediately.
+caller: Fantastic! You’ve made an excellent choice.  Only three units are left, so act quickly!  We’ll send you all the necessary information and instructions after you confirm. Get ready to experience top-tier photography and videography!

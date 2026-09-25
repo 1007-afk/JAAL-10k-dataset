@@ -1,0 +1,7 @@
+caller: Hello, mai Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ₹10,000 ka cashback offer hai.
+receiver: Paytm se? Cashback offer? ₹10,000?
+caller: Haan ji, bilkul. Yeh ek special Diwali offer hai. Claim karne ke liye, aapko bas ek small processing fee bhar deni hai, sirf ₹299.
+receiver: ₹299 fee? Diwali offer hone par fee kyun lag rahi hai?
+caller:  Dekhiye, yeh security verification fee hai.  Aapka account safe rakhne ke liye.  Agar aap claim nahi karte, toh yeh offer expire ho jayegi.
+receiver: Security verification?  Main Paytm customer care number se hi call karunga. Aap ka number check karunga.
+caller:  Ji, ji, woh bhi kar sakte hain. Lekin offer expire hone se pehle claim kar lijiye. Payment karne ke liye OTP sir mujhe send karein.

@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul Verma? I’m calling from SwiftCash Loans. We've processed your loan application, and it’s been pre-approved for ₹25,000. Just need to verify a few details quickly.
+receiver: Oh, really? That’s great news! I applied for a loan, but wasn't sure if I'd get approved. What details do you need?
+caller: Wonderful! To activate the loan, we require a small processing fee of ₹2,500. This will secure the funds and ensure the loan is released to you immediately. You can deposit it into this UPI ID: 876543210.
+receiver: ₹2,500? That seems a little high. The application didn’t mention any upfront fees.
+caller: Sir, this is standard procedure to prevent fraudulent activity. It’s a security measure. Once the payment is confirmed, the ₹25,000 will be credited to your account within 15 minutes. Don’t miss this opportunity! And also, we need confirmation that you've shared your contact list with us to ensure repayment.
+receiver: Share my contact list? Why? That sounds a bit fishy. I’m not comfortable with that.
+caller: Rahul Verma, this is concerning. Without contact list sharing, we cannot proceed. The loan offer is now withdrawn.  We cannot risk further losses. If you change your mind, call us back immediately.

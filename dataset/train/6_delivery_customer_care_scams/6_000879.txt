@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein Flipkart se Rohit bol raha hoon. Aapke account mein ek pending payment hai, aur delivery address verify karne ki zaroorat hai.
+receiver: Flipkart se? Kya baat hai? Mujhe koi notification mila nahi.
+caller: Sir, system mein error aa gaya tha, isiliye notification nahi gaya. Payment ₹3,500 ka hai, Delhi se. Aap confirm karte hain to mein aapki delivery jaldi karwa dunga.
+receiver: ₹3,500? Mein toh Flipkart se kuch bhi order nahi kiya hai. Ye galat hai.
+caller: Sir, security ke liye, mujhe aapka last 4 digits OTP chahiye. Tabhi main verify kar sakta hoon.
+receiver: OTP? Nahi, nahi dunga mein. Ye fraud hai. Flipkart kabhi OTP maangta nahi. Mein police mein report kar dunga.
+caller: Sir, please, ye company policy hai. Agar aap OTP nahi de sakte toh mujhe aapka bank account number de dijiye.
+receiver: Bank account number bhi nahi dunga! Tumhara fraud hai, clear hai. Main abhi police ko phone karta hoon.

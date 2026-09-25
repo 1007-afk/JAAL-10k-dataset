@@ -1,0 +1,9 @@
+caller: Namaste sir/madam? Aawaj aa rahi hai.
+receiver: Haan,Haan, aati hai. Maaf kijiye, internet connection thoda kamzor tha. Main aapki kaise madad kar sakta hoon?
+caller: Koi baat nahin sir/madam, internet issues toh hoti rehti hain. Aapse baat karke khushi hui. Main aapko ek bahut hi achchi khabar dene ke liye call kar raha hoon! Aapko pata hai, is safort ki lottery draw mein aapne ₹8750 ka prize jeeta hai! Congratulations!
+receiver: Arre yaar! Sach mein? ₹8750! Yeh toh badi shandar khabar hai! Mujhe toh abhi vishwaas hi nahi ho raha! Aap kaun bol rahe hain waise, thoda naam bata sakte hain?
+caller: Thank you for calling, sir/madam! Main Rahul Sharma, Bharat Lottery Promotions se bol raha hoon. Aur yeh bilkul sach hai! ₹8750 ka prize aapne jeeta hai. Bas yeh prize claim karne ke liye, aapko bas 09876543210 pe call karna hai. Yaad rakhiye, XZ7892345 ye aapka unique ID hai jo aapko call pe dena hoga. Koi problem toh nahi hogi na call karne mein?
+receiver: 09876543210? Aur yeh XZ7892345 code hai? Theek hai, main call karta hoon. Thank you for letting me know!
+caller: Thoda wait karein! Aur ek baat yaad rakhiyega, yeh offer sirf kal raat tak valid hai. Agar aapko koi bhi sawal ho, toh bina jhijhak is number pe call karein. Sab log aapko contact kar rahe hain is prize ke baare mein. Aur agar aapko SMS alerts band karne ho toh 9998887766 pe message ‘STOP’ likh ke bhej dein. Sirf 18+ logon ke liye hi apply kar sakte hain. Toh jaldi se call kijiye taaki aap apna inaam paa saken!
+receiver: Oh, thanks for the reminder! Kal raat tak valid hai? Theek hai, main jaldi hi call karunga. Aur yeh SMS alerts band karne ka number bhi note kar liya hai. Dhanyavaad aapka, mujhe yeh khabar dene ke liye!
+caller: Ji ji! Aur agar aapko aur details chahiye toh aapko 1234567890 pe call karna hoga. Sirf helpline number hai.

@@ -1,0 +1,18 @@
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hum aapke liye ek amazing deal lekar aaye hain! Aapko mil sakta hai ek free smart watch, saath mein 30% tak discount line rental par, aur 200 local calls aur 50 SMS! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achcha lag raha hai! Smart watch free mein, line rental par discount... yeh sab kahan se milega?
+caller: Haan ji, yeh sab aapko our company ke special campaign ke through milega. Agar aap currently Reliance Jio use karte hain, toh yeh offer aapke liye jald hi available hai. Sirf ek small process follow karne honge. Kya aap interested hain yeh details sunne mein?
+receiver: Haan ji, bilkul interested hoon. Bataiye, yahaan kya karna hai?
+caller: Great! To get started, we just need to confirm a few details. Can you please tell me your name and your current mobile number? This will help us check your eligibility for the offer.
+receiver: Haan ji, mera naam hai Priya Patel, aur mera current mobile number hai 8765432109. Bataiye, eligibility check ho gayi?
+caller: Shukriya Priya ji! Aapki eligibility check ho gayi hai aur aap is offer ke liye bilkul eligible hain. Abhi humein bas aapke account ka kuch verification karna hoga. Kya aapke paas aapka SIM card abhi available hai?
+receiver: Haan ji, SIM card mere paas hi hai. Bataiye, verification kyon karna hai?
+caller: Aao, aao! Suno, aapko BharatTelecom se baat hog rahi hai. Hum ne aapke liye ek super special offer banaya hai! Aapko mil sakta hai ek free wireless earbuds, saath mein 40% tak discount line rental par, aur 300 local calls aur 100 WhatsApp messages! Kaise lagta hai, yeh sunne mein acha nahi lagna chahiye?
+receiver: Ji, sun raha hoon. Yeh toh bohat hi achha hai! Wireless earbuds free mein, line rental par discount… yeh sab kamaane ka kya tareeka hai!
+caller: Haan ji, woh to sahi hai! Yeh offer sirf limited time ke liye chalega. Agar aap apne mobile bill ko timely pay karte hain, toh yeh offer aapke liye wait kara rahe hai. Sirf do minute mein aapko yeh offer complete ho jayega. Kya aap ready hain yeh details sunne ke liye?
+receiver: Haan ji, ready hoon. Bataiye, mujhe kya karna hai?
+caller: Okay, to get started, we need to collect some basic information. First, can you please tell me your full name and your mobile number? And also, what is your current service provider?
+receiver: Mera naam Deepak Kumar hai, aur mera mobile number 9988776655 hai. Main Airtel ka customer hoon.
+caller: Dhanyavaad Deepak ji! Aapki details jaldi hi submit ho gayi hain. Verification process shuru ho gaya hai. Kya aapke paas aapka ID proof hai, jo aap share kar sakte hain?
+receiver: Haan ji, mera Aadhaar card mere paas hai.
+caller: Excellent! Aapko upload karna hoga. Ismein kuch seconds ka time lagega. Verification ho jaane ke baad aapko notification milega.
+receiver: Theek hai, upload kar deta hoon.

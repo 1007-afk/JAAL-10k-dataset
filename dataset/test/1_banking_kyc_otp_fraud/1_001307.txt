@@ -1,0 +1,9 @@
+caller: Namaste, sir! Calling from Axis Bank security department. We’ve noticed some unusual activity on your account – a large transaction attempt originating from a foreign IP address.
+receiver: Haan, hello. Unusual activity? What kind of transaction?
+caller: Sir, it was an attempt to transfer 12,000 rupees to an unknown account. We’ve put a temporary hold on the transaction, but to completely secure your account and prevent further fraudulent attempts, we need to verify your details.
+receiver: Okay, what details do you need? I'm a little worried now.
+caller: Just a few quick things, sir. Can you please confirm the last four digits of your Aadhaar card and the OTP we’ve just sent to your registered mobile number? This is standard procedure for high-risk transactions.
+receiver: My Aadhaar? Isn't that a bit much? And I just received an OTP… 4582.
+caller: Yes sir, it is for your protection. We are simply ensuring that you are the legitimate account holder. Please provide the OTP so we can proceed with the security verification.
+receiver: Wait a minute. I'm getting a strange feeling about this. Let me call my branch to confirm.
+caller: Sir, please don’t delay! If you don’t verify the details immediately, we might have to temporarily suspend your account for security reasons. This is to protect you from potential financial loss.

@@ -1,0 +1,7 @@
+caller: Namaste, this is Divya from HDFC Bank security. We've noticed some unusual activity on your linked Aadhaar card. It seems someone attempted to update your address. For security purposes, we need to verify a few details. Can I have your full name, please?
+receiver: Haan, bolo. Mera naam Anjali Verma hai. Aadhaar card mein address update hone ki koshish? Kya hua?
+caller: Thank you, Anjali Verma. That's correct. To proceed with securing your account, could you please confirm the last four digits of your Aadhaar number? Just the last four digits are needed for verification.
+receiver: Arey yaar, Aadhaar number ka last four digits? Mujhe yeh thoda… suspicious lag raha hai. Bank aise direct number poochta hai kya? Aur mujhe koi SMS bhi nahi aaya hai.
+caller: This is standard procedure, Anjali. We don’t send SMS for the initial verification, especially when there’s a security concern. This is to prevent unauthorized changes. To complete the verification, we also require the OTP you just received on your registered mobile number.
+receiver: OTP? Wait a second. Mujhe toh koi OTP nahi mila hai. Tumhara number galat hai shayad. Main check karti hoon. Aur mujhe woh last four digits bhi nahin batana chahiye.
+caller: Please check again, Anjali. Sometimes it takes a few moments to arrive. It’s crucial to provide the OTP quickly, as your account could be temporarily suspended if the unauthorized address update goes through. We are trying to protect your money and your identity. Just the OTP, please?

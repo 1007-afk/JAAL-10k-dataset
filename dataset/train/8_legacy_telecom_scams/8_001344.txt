@@ -1,0 +1,8 @@
+caller: Hello! Am I speaking with [Invented Name]? This is John from Sunshine Quiz Wkly. I've got a fun question for you today that could win you a brand new Sony DVD player! Ready for it?
+receiver: Hello John! Ah, mera naam [Invented Name] nahi hai, mera naam hai [Your Invented Name]. Aur haan, Sony DVD player? Sounds interesting! Tell me more.
+caller: Great to meet you, [Your Invented Name]! And sorry about the name mix-up, my bad!  So, here's the question to win that amazing Sony DVD player: Which country did Liverpool play in mid-week? Just text your answer to 82277. It's only £1.50 to play.  So, what do you think?  Do you know the answer?
+receiver: Oh, Liverpool, mid-week? Ye thoda difficult hai, John. Mujhe football ka itna idea nahi hai. Kya koi clue milega? Ya koi hint?
+caller: Arre, koi baat nahi! Chalo main aapko thoda hint deta hoon. Yeh team European league mein khel rahi thi. Yaad aaya kuch?
+receiver: European league, hmmm. Matlab, Europe mein hi thi? Koi bada desh hoga? France? Germany? Ya Italy? Bas itna bata do, John, phir main try karungi answer dene ka. DVD player toh chahiye hi!
+caller: Haan, Europe mein hi thi! Aur ye desh apne bade football stadiums ke liye bhi jaana jaata hai. Socho, European league, bade stadiums... kaunsa desh ho sakta hai yeh?
+receiver: Oh, European league aur bade stadiums? Aap Italy bol rahe ho kya, John? Wahan toh bahut bade stadiums hain aur Serie A bhi toh Europe mein hi hai. Mera guess Italy hai. Agar galat hua toh bhi koi baat nahi, DVD player ke liye kuch bhi!

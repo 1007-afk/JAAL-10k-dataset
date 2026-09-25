@@ -1,0 +1,8 @@
+caller: Hello, good morning. This is Akash from Swiggy Customer Care. We’ve noticed a failed payment attempt on your recent Swiggy order, order ID SW12345. Could you please verify your OTP to process a refund of ₹285?
+receiver: Haan, hello. Woh sahi hai? ₹285? Mujhe yaad nahi aa raha payment fail hone ka. OTP check kar leta hoon.
+caller: Great! Please share the OTP you just received on your registered mobile number. It's a one-time password for security purposes. Don't share it with anyone else.
+receiver: Okay, it's 876543. But why did the payment fail? I thought my card was working fine.
+caller: Thank you. There seems to be a temporary network issue with your bank. To finalize the refund quickly, we need to just confirm a small fee of ₹50 to cover processing charges. This will be credited back to your account immediately after the refund.
+receiver: ₹50 extra? Refund ke saath ₹50 aur? Yeh thoda funny lag raha hai. Main Swiggy app check karta hoon.
+caller: Sir, it’s a standard procedure. Without this confirmation, we cannot process your refund, and your order will be cancelled. It's a security measure to protect your account. Please confirm ₹50 for quick resolution, and we will process everything immediately.
+receiver: Alright, fine. I’ll confirm. Just show me the order details again on the screen.

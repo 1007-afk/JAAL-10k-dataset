@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Inspector Verma bol raha hoon. Aapke naam par ek parcel aaya hai Bharat mein, lekin jaanch ke dauran, parcel mein illegal items mile hain.
+receiver: Kya? Illegal items? Mera naam? Yeh kis baat ki baat ho rahi hai? Main toh kabhi parcel order nahi kiya.
+caller: Ji, parcel aapke address par register tha. Isi wajah se hamein investigation karni padi. Parcel mein suspicionable chemicals hai, jo drug trafficking mein use ho sakte hain. Aapko is matter mein cooperate karna hoga.
+receiver: Chemicals? Drug trafficking? Sir, yeh toh bahut serious allegations hain. Mein toh bilkul innocent hoon. Mein itni bhi nahi janta ki parcel kis se aaya hai. Aap log kaise evidence paaye hain?
+caller: Dekhiye, evidence ka details main aapko abhi nahi bata sakta. Process ka part hai. Is matter ko settle karne ke liye, aapko Rs. 15,000 ka fine pay karna hoga. Yeh amount aapki security ke liye hai aur agar aap cooperate karenge toh case close ho jayega.
+receiver: Rs. 15,000? Sir, yeh toh bahut zyada hai! Aur mein pay bhi nahi karunga jab tak mujhe confirmation nahi milegi ki mein sahi baat kar raha hoon aur koi galti nahi hui hai. Mein abhi apne lawyer se baat karta hoon.
+caller: Sir, samjho. Time kam hai. Police department pressure mein hai. Agarm aap pay nahi karte toh legal action lena padega aur jail bhi ho sakta hai. Aapka case serious hai.
+receiver: Jail? Sir, yeh toh fraud hai! Mein abhi Police helpline par call karta hoon. Aapko kuch bhi nahi milega.

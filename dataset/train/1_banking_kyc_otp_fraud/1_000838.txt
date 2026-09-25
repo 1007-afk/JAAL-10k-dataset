@@ -1,0 +1,6 @@
+caller: Namaste Madam, main Axis Bank security department se Rohit Sharma bol raha hoon. Aapke naam par ek account hai jismein anexpected transaction ka attempt kiya gaya hai.
+receiver: Haan, bolo? Woh kya transaction tha? Main toh koi transaction nahi kiya hoon.
+caller: Madam, ek online payment attempt Rs. 18,500 ka hua tha ek unknown website pe. Account suspend hone se bachaane ke liye, humein aapke account details verify karne hain. Kripya apna PAN card number aur ek OTP bataiye jo aapko SMS karega.
+receiver: PAN card number? OTP? Woh kyun? Axis Bank toh aise phone nahi karta. Yeh kuch gadbad hai.
+caller: Madam, security protocol hai. Agar aap OTP nahi denge toh humko account suspend karna padega, because fraud ho sakta hai. Aapka loss ho sakta hai. Just 4 digits OTP bataiye.
+receiver:  Ek minute rukiye. Main Axis bank ki official website pe check karti hoon. Aap wait kijiye.

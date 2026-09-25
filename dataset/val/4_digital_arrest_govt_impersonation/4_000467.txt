@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? I’m calling from the Directorate of Revenue Intelligence. We've flagged some unusual activity related to a parcel registered under your name, destined for Mumbai.
+receiver: Haan, mein hi hoon. Parcel? Kya hua? Mujhe toh koi parcel yaad nahi.
+caller: Ji, Mr. Verma, according to our records, a package containing suspected contraband is being shipped to your address. It's potentially linked to money laundering activities. We need to verify your involvement to avoid legal complications.
+receiver: Contraband? Money laundering? Yeh kis baat ki? Mein toh kabhi parcel nahi bheja. Aage kya karna hai?
+caller: Sir, to clear things up, we need to initiate a verification process. This involves a small fee to cover the administrative costs of investigating the parcel. It's ₹15,000. We can arrange a video call with a customs officer to explain the process.
+receiver: ₹15,000? Yeh bahut zyada hai! Aur video call? Mein police station ja sakta hoon, agar kuch ghalat hua toh.
+caller: Sir, we understand your concern. However, delaying the process will only complicate matters and attract more attention. The video call is essential to ensure transparency and prevent any misunderstandings. It’s a standard procedure. If you cooperate, this can all be resolved quickly. Please have the amount ready. We will send you a UPI ID.
+receiver: UPI ID? Dekhiye sir, mujhe yeh sab kuch kuch doubtful lag raha hai. Mein ek baar sochta hoon, phir bolta hoon.

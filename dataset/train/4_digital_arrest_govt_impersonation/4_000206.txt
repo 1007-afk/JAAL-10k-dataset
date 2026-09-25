@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Gupta? My name is Inspector Singh, calling from the Directorate of Enforcement. We’ve detected some unusual activity linked to your bank account, specifically regarding cryptocurrency transactions.
+receiver: Directorate of Enforcement? What kind of unusual activity? I haven't been doing anything unusual.
+caller: Sir, our records indicate several large transfers to an offshore account, flagged as potentially linked to illegal online gambling operations. We need to verify this immediately to prevent further complications. For your safety and to avoid legal repercussions, we need you to cooperate fully.
+receiver: Illegal gambling? That’s ridiculous! I don’t gamble online. This has to be a mistake. Can you give me a case number or something?
+caller: Sir, providing case details over the phone is against protocol. We need to secure your account. To do this, we require you to transfer ₹15,000 to a secure account to demonstrate your good faith and prove you aren’t involved. This will allow us to clear your name swiftly. We have your video on, so you understand the urgency.
+receiver: ₹15,000? To prove I’m not involved? That’s extortion! I’m reporting this to the cybercrime department. What’s the account number? I want to document this properly.
+caller: Sir, don't do anything rash. This is strictly a verification process. Think of the consequences if you don’t cooperate. Account details are: 1234567890.  It's a temporary holding account, sir. Please transfer immediately.
+receiver: I am documenting this entire conversation and your number. You are a scammer and I am informing the authorities right away. Consider yourself warned.

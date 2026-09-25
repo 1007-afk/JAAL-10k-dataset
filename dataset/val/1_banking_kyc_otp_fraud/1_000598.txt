@@ -1,0 +1,18 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapke mobile mein ek important update hai aur humne dekha hai ki aapke account mein kuch technical problem hai. Is desh mein humara call record karna compulsory hai. Kindly confirm your first and last name, please?
+receiver: Namaste ji, main [Receiver Name] hoon. Technical problem? Woh kya hai? Mujhe bataiye, kaise update hoga?
+caller: Shukriya, [Receiver Name]. Humne dekha hai ki aapke internet speed mein kamzorai hai. Isliye humne aapko ek special offer deta hai. Agar aap yahan agree karein to aapko free broadband milega. But agar aap reject karein to aapka connection thoda slow ho jayega. Kaise rahein?
+receiver: Free broadband? Haan ji, yeh sunao. Paro, kya karna hai? Kya koi download karna hai ya kuchh?
+caller: Thank you for agreeing, [Receiver Name]. Ab aapko ek OTP chahiye. OTP ko mere helpline number par bhejo. Verification complete hone ke baad aapko internet speed badhao ka offer milega.
+receiver: OTP? Mein OTP kaise bheju? Helpline number bataiye. Jo bhi bataoge, woh sahi nahi hoga.
+caller: Our helpline number is [Helpline Number]. Please send the OTP as soon as possible.  We want to ensure your experience is seamless. Finally, can you confirm the address where you receive your bills?
+receiver: Address? Haan ji, woh hai [Address]. Itni hassi mein, internet slow karne waala…
+caller: Thank you for confirming the address, [Receiver Name]. That’s all, your security verification is complete. Enjoy your faster internet speeds!
+caller: Namaste sir, main DigiSecure services se bol raha hoon. Aapse ek important verification call hai. Government ne order diya hai ki aapki Adhar card ka verification karna zaroori hai. Is desh mein humara call record karna compulsory hai. Kindly confirm your full name for me, please?
+receiver: Namaste ji, mera naam Rajesh Kumar hai. Adhar card verification? Kyon required hai? Mujhe bataiye, verification kyon hai?
+caller: Shukriya, Rajesh Kumar. Humne dekha hai ki aapki Adhar card mein kuch technical issue hai. Isliye humne aapko verification karne ko kaha hai. Agar aap verification nahi karenge to aapki digital services band ho jayegi. So, kindly cooperate with us.
+receiver: Digital services band ho jayegi? Ye kya bol rahe hain? Mujhe jitni bhi tadap lag rahi hai, woh samjhayein. Verification kaise hoga?
+caller: Thank you for understanding, Rajesh Kumar. Ab aapko ek OTP chahiye. OTP ko mere helpline number par bhejo. Verification complete hone ke baad aapki Adhar card safe rahegi.
+receiver: OTP? Mein OTP kaise bheju? Helpline number bataiye. Helpline number pe jaake OTP bhejna hota toh bata dete.
+caller: Our helpline number is [Helpline Number]. Please send the OTP as soon as possible.  We want to ensure your security and peace of mind. Now, could you please confirm the state where you reside?
+receiver: State? Haan ji, main Uttar Pradesh mein rehta hoon. Itni tension mein, Adhar card verification…
+caller: Thank you for confirming the state, Rajesh Kumar. That’s all, your verification is complete. Enjoy hassle-free digital services!

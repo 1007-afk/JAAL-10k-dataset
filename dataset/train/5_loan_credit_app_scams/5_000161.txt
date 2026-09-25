@@ -1,0 +1,8 @@
+caller: Namaste! Sir, this is Rohit calling from QuickCash Loans. We saw you recently filled out a loan application on our website. Just a couple of quick checks to process it. Do you have your Aadhaar card handy?
+receiver: Hello Rohit. Yes, I have my Aadhaar card. What do you need it for?
+caller: Excellent! Sir, we need to verify a few details. Could you please tell me the last four digits of your bank account number where you want the loan credited? It’s for security purposes, of course.
+receiver: Uh, okay… it’s 4567.
+caller: Thank you! Just one moment while I process that… Great! Now, for a final security check, we need to send a one-time password (OTP) to your registered mobile number. Can you please tell me the OTP you receive?
+receiver: I just got one… it’s 8901.
+caller: Perfect! Sir, your loan is approved for ₹75,000 with a very attractive interest rate. However, a small processing fee of ₹10,000 is required upfront to activate the loan. This is a standard procedure, sir. You can pay it through UPI.
+receiver: ₹10,000? That wasn't mentioned before! I thought it was a loan, not some upfront payment.

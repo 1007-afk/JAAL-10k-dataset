@@ -1,0 +1,9 @@
+caller: Hello, is this speaking with Mr. Ajay Sharma? My name is Inspector Verma, calling from the Delhi Customs Department.
+receiver: Haan, bolie. What's this about?
+caller: Sir, we’ve intercepted a suspicious package at Indira Gandhi International Airport addressed to a Mr. Sharma. Preliminary scans indicate it contains prohibited items linked to money laundering activities.
+receiver: Money laundering? What are you talking about? I haven’t received any package!
+caller: Sir, we have your address and phone number associated with the consignment. To avoid legal complications, you need to cooperate. We need to verify your identity and require a small processing fee to release the package and clear your name. ₹15,000 will suffice.
+receiver: Fifteen thousand? For what? This sounds like a scam! Show me some proof. Which flight was it on?
+caller: Sir, providing flight details over the phone would compromise the ongoing investigation. The fee is refundable once the verification process is complete. We can arrange a video call with a senior officer to clarify. Please, don't delay, or we'll have to involve the cybercrime unit.
+receiver: Cybercrime unit? Wait a minute... I need to check something. Don’t hang up. I'll call you back.
+caller: Sir, please don't disconnect. Disconnecting the call will be seen as an attempt to obstruct a legal investigation, which carries severe penalties. Your cooperation is vital to resolving this matter quickly and efficiently.

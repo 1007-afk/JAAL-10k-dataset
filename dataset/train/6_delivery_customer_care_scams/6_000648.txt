@@ -1,0 +1,7 @@
+caller: Namaste, main Flipkart customer care se Rahul bol raha hoon. Aapke naam par ek order aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, kya problem hai? Mujhe koi notification toh aaya nahin.
+caller: Sir, system mein dikh raha hai ki aapne kuch electronics order kiya tha, lekin pin code galat hai. Address verify karwane ke liye, please apna OTP share karein jo aapko SMS se mila hai.
+receiver: OTP? Flipkart kabhi OTP maangta hai? Mujhe toh doubt ho raha hai.
+caller: Sir, security ke liye hum OTP verify karte hain. Agar aap OTP nahi denge toh order cancel ho jayega aur aapko kuch bhi nahi milega.
+receiver: Thoda wait karunga, Flipkart app mein check karta hu.
+caller: Sir, time bahut kam hai! Order cancel hone se pehle jaldi se OTP share karein. Main aapko 5 minutes mein update de dunga aur aapka parcel deliver bhi ho jayega.

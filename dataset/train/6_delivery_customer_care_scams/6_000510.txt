@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart Customer Care se Rahul bol raha hoon. Aapke naam par ek order aaya hai, order ID FLP78923. Delivery mein ek choti si problem aa gayi hai.
+receiver: Oh, kya problem hai? Mujhe kal tak yeh parcel chahiye tha.
+caller: Ji, parcel mein damage ho gaya hai transport ke dauran. Isko resolve karne ke liye, aapko ek small verification process complete karna padega. Aapka OTP share karein, please.
+receiver: OTP? Flipkart kabhi OTP maangta hai? Mujhe toh doubt ho raha hai.
+caller: Haan ji, security ke liye. Ye ek standard procedure hai. OTP milne ke baad, mai aapke account ko verify kar dunga aur parcel ko re-ship kar dunga.
+receiver: Theek hai, lekin mujhe koi charges lagenge kya dobara parcel aane par?
+caller: Bilkul nahi, sir. Flipkart charges leke charge nahi lega. Ab OTP share karein, please?

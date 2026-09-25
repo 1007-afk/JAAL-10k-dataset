@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call Now: 98765 & win a free data pack!' Uske baare mein baat karna chahte hain.
+receiver: Haan, hello. Mein woh advertisement dekha tha. Kya ho raha hai?
+caller: Ji, toh aapko ek special offer mila hai - ek free data pack! Yeh ek limited stock offer hai, aur aapke paas sirf 3 ‘incentives’ bache hain claim karne ke liye. Aapko bas woh incentive activate karna hai, woh bhi totally free!
+receiver: Okay, free data pack? That sounds good. So what exactly do I need to do? Is there any paperwork involved?
+caller: Nahi ji, koi paperwork nahi. Aapko bas ek small confirmation provide karna hai, jisse hum aapki incentive activate kar sakein. Aapka naam bataa sakte hain?
+receiver: My name is Vijay. So just a confirmation then? And that’s it?
+caller: Haan ji Vijay. Bas ek small confirmation chahiye. Agar main aapki ‘activation number’ verify kar doon toh aapki incentive immediately activate ho jayega. Kya main aapki activation number jo aapko SMS mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charges nahi hai.
+receiver: Activation number? Let me see… One moment... Haan, ye hai: 8763.

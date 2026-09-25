@@ -1,0 +1,8 @@
+caller: Namaste Madam, main Flipkart se Rohit bol raha hu. Aapko ek cashback offer mila hai apne last order pe. ₹5000 cashback claim karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Flipkart se call hai? ₹5000 cashback? Verification kya hai?
+caller: Ji madam, verification bahut simple hai. Aapko apne PhonePe app se ek OTP generate karna hai aur woh mujhe bataana hai. Isse hum verify kar sakte hain ki aap sahi account holder hain.
+receiver: PhonePe se OTP? Aur aapko woh bataungi? Kya guarantee hai ki yeh scam nahi hai? Flipkart toh direct call nahi karta hoga aise cheezon ke liye.
+caller: Madam, aap tension mat len. Yeh ek standard security protocol hai. OTP sirf verification ke liye hai, aapki money safe rahegi. Agar aap claim nahi karengi, toh offer expire ho jayegi.
+receiver: Offer expire ho jayegi? Wait a minute, mujhe check karne do. Main Flipkart app mein dekhti hu, koi notification toh dikhta hai ya nahi.
+caller: Madam, time guzer rahe hai, offer jaldi expire ho jayegi. Jaldi karin. Just bata do OTP, bas itna hi.
+receiver: Theek hai, ek minute.

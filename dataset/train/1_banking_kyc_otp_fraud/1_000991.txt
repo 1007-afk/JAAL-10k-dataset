@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main State Bank of India se Priyanka bol rahi hoon. Aapka naam Mr. Khanna hai, correct?
+receiver: Haan, ji. Main hi hoon. Kyon?
+caller: Sir, aapke account mein se ek suspicious transaction detect hua hai - 15,000 rupees ka transaction online gaming website pe. Yeh aapne kiya hai?
+receiver: Bilkul nahi! Mainne toh kabhi online gaming nahi ki. Yeh to scam lag raha hai.
+caller: Sir, ji, bilkul! Yeh scammer ne aapka account access karne ki koshish ki hai. Aapke account ko secure karne ke liye, mujhe aapka OTP verify karna hoga. Woh OTP aapko SMS se milega.
+receiver: OTP nahi dunga. State Bank kabhi bhi phone pe OTP maangta nahi. Yeh fraud hai.
+caller: Sir, please samjhiye. Account suspend hone se pehle aapko OTP verify karna hoga. Main bas aapki help kar rahi hoon. Jaldi se OTP bata dijiye. Varna account freeze ho jayega aur aapka paisa bhi jayega.
+receiver: Theek hai, dekhiye. Main abhi apne bank ke official number pe call karta hoon aur verify karta hoon. Aapko koi bhi OTP nahi milne wala. Aapse koi deal nahi.
+caller: Sir, please! Just give me the OTP quickly...

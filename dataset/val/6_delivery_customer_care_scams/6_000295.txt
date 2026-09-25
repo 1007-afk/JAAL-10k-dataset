@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Rohan calling from BlueSpark Logistics. We have an urgent notification regarding your recent order from Meesho.
+receiver: Haan, bolo. Meesho ka order?
+caller: Ji, yes sir. It appears there's been a slight issue with the delivery address, and a small customs processing fee of ₹750 is required to release the package.
+receiver: ₹750? But I didn't see anything about a fee when I placed the order.
+caller: Sir, these fees sometimes arise unexpectedly due to new regulations. To avoid your package being returned, we need you to quickly confirm the fee payment. I can send you a secure link.
+receiver: Secure link? Kyun nahin? Mujhe woh order jaldi chahiye tha.
+caller: Absolutely sir, I understand. Please share the last 4 digits of your bank card, just for verification, so I can send you the link. It's a standard security protocol.
+receiver: Wait a minute...this seems a bit strange. Meesho kabhi aise fee nahi lete.

@@ -1,0 +1,7 @@
+caller: Namaste, mai hu Sub-Inspector Sharma, Customs Department se. Aapke naam par ek parcel aaya hai Gujarat se, lekin usmein illegal substances mile hain.
+receiver: Illegal substances? Mera naam? Yeh kya bol rahe hain aap? Main toh kabhi Gujarat nahi gayi.
+caller: Ji, records mein aapka naam aur address darj hai. Parcel number CG87654321 hai. Is parcel mein drugs ki recovery hui hai. Aapko is matter mein cooperate karna hoga. Agar aap cooperate nahi karenge, to humko aapko arrest karna padega.
+receiver: Arrest? Drugs? Yeh galat hai! Mujhe yeh parcel nahi mila, aur main drugs se judi nahi hu. Main toh ek teacher hu.
+caller: Ma’am, yeh serious matter hai. Hamko sachchai jaanani hai. Is parcel ke sender ka number hai 9876543210. Aapne kabhi is number se baat ki hai? Aur, is matter ko chalaane ke liye, aapko ₹8,000 ka bail deposit karna hoga.
+receiver: ₹8,000? Bail? Yeh sab fraud hai! Main police station jaungi aur complaint karungi. Main koi payment nahi karungi. Aapko abhi call cut karna chahiye.
+caller: Ma’am, please! ₹8,000 sirf insurance ke liye hai, parcel ko secure rakhne ke liye. Agar aap cooperate karenge, toh aapko koi problem nahi hogi. Aapko online payment karna hai, Google Pay se.

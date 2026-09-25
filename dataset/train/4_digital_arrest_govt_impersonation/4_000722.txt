@@ -1,0 +1,11 @@
+caller: Namaste, sir? Main Cyber Crime Investigation Department se Atul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, jo illegal items se bhara hua hai.
+receiver: Kya? Illegal items? Mere naam se? Mujhe toh koi parcel nahi mila.
+caller: Haan sir, tracking number [invented tracking number] se pata chala hai. Parcel Nepal se aaya hai aur usmein suspicious substances mile hain. Ab aapko CBI ke senior officer se baat karni padegi.
+receiver: CBI? Yeh kya bol rahe hain aap? Main toh kabhi parcel order nahi kiya.
+caller: Sir, yeh matter bahut serious hai. Aapko ek small amount jama karni padegi, Rs. 15,000, verification ke liye. Jab verification complete ho jayegi, parcel release ho jayega.
+receiver: 15,000 rupay? Aur CBI officer se kaise baat karun? Yeh bahut hi bewakoofi lag rahi hai.
+caller: Sir, main aapko officer ka number de dunga. Aapko video call par bhi baat karni hogi.  Yeh process fast hone ke liye zaroori hai, warna aapki arrest warrant nikal jayegi. Payment UPI ke zariye karna hai.
+receiver: Arrest warrant?  Yeh toh pehle hi se scam lag raha hai.  Main police mein complaint karunga.
+caller: Sir, police se baat karne se koi fayda nahi hai. Yeh matter bahut confidential hai.  Agar aapko problem hai toh main case ko escalate kar dunga. Aapka bank account freeze ho sakta hai.
+receiver:  Theek hai, ek minute rukiye.  Main apne dost se baat karta hoon.
+caller: Sir, jaldi karo. Time guzar rahe hai aur situation burra hota ja raha hai.

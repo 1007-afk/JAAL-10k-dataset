@@ -1,0 +1,8 @@
+caller: Namaste sir, yeh aapka HDFC bank ka branch manager hai. Aapkaa Aadhaar card information update karne ho sakta hai online. Covid ki wajah se sabhi ne update karna shuru kar diya hai. Kindly bataiye aapkaa Aadhaar card number.
+receiver: Namaste! Branch manager? Update karna hai? Achcha, covid ki wajah se. Okay, batao, kaunsa information chahiye? Mera Aadhaar card number hi milega?
+caller: Haan ji, pehle aapkaa Aadhaar card number bata dijiye. Fir hum aapko bata denge ki kya-kya update karne hai.
+receiver: Haanji, mera Aadhaar card number hai [Aadhaar Card Number Yahan Daalen]. Aur kaise update hoga?
+caller: Jee, thank you. Ab aapkaa registered email address bataiye jo HDFC bank mein linked hai.
+receiver: Haanji, mera registered email address hai [Registered Email Address Yahan Daalen]. Kya ab sab sahi hai?
+caller: Haanji, thank you. Ab aapko ek verification code sent हुआ है aapke registered email address pe. Woh code mujhe bataiye taaki hum aapkaa Aadhaar card update kar sakein. Please jaldi bataiye, woh code 30 seconds ke liye valid hai.
+receiver: Verification code? Okay, wait, check karta hun. Yes, I got it. It’s [Verification Code Yahan Daalen]. Hopefully it's correct.

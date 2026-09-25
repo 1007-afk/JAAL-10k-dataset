@@ -1,0 +1,8 @@
+caller: Namaste, Mr. Sharma, thanks for your 'Happy Tunes' ringtone selection, reference number RZ68. You will be charged INR 3 per month. Please confirm your mobile number again for our records.
+receiver: Oh, hello there! Yes, INR 3 a month for ‘Happy Tunes’, I’ve noted it down. Sure, my mobile number is 9876543210.
+caller: Great! But, just one small thing – this INR 3 charge will continue to be deducted every month until you explicitly cancel your subscription. So, if you want to stop receiving these tunes, please dial 88001234567 to unsubscribe. Understand?
+receiver: Ah, so basically, money keeps getting taken out as long as I don't actively cancel it myself? Right. So, to cancel, I need to call 88001234567. Okay, I will remember that. Thank you for clarifying!
+caller: Exactly! We just want to ensure you are fully informed about your subscription. No immediate action is required from you right now, unless you decide to unsubscribe. Any other questions?
+receiver: Not yet, everything is clear. Thank you very much!
+caller: Wonderful! Remember this number for any future inquiries, 88001234567. Have a pleasant day!
+receiver: Thank you so much for your assistance. Goodbye!

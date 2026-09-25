@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? This is Aditya from HDFC Bank security. We’ve detected some unusual activity on your account.
+receiver: Haan, bolie. What kind of unusual activity?
+caller: Sir, there's been a failed transaction attempt from a new device, potentially from overseas. To secure your funds and prevent fraud, we need to verify your identity urgently.
+receiver: Verify? How? What do you need from me? I haven't made any overseas transactions.
+caller: Sir, for verification, can you please share the OTP you just received on your registered mobile number? It's crucial to lock your account immediately. We are facing a lot of fraud cases right now, sir.
+receiver: OTP? Why would you need my OTP? I've never shared an OTP with anyone from a bank. This sounds suspicious.
+caller: Sir, please understand, this is standard procedure. Without the OTP, we cannot guarantee the safety of your funds. Account suspension is imminent if we don’t verify right away. It’s a quick process, just one OTP.
+receiver: Wait a minute! I'm calling the official HDFC Bank number to confirm this. Don't call me back.

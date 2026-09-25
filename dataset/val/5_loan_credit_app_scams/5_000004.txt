@@ -1,0 +1,8 @@
+caller: Namaste ji, HDFC Bank se main Rahul bol raha hoon. Aapko ek new loan apply karna hai, sahi samjha na? Loan approve karne ke liye mujhe aapkivency amount check karne hogi. Kya aap share kar sakte hain?
+receiver: Haan ji, Rahul bhai. Loan apply karna hai, lekin mujhe apnevency amount yaad nahi. Kuch aur option hai kya?
+caller: Koi baat nahi sir, hum aapki help kar denge. Kya aapka koi dusra ID proof hai, jaise Aadhaar card ya driving license? Agar woh bhi nahi hai, toh hum aapko ek temporary reference number assign kar sakte hain aur baaki details baad mein collect kar sakte hain. Par Aadhaar sabse jald ho jayega. Ek aur tarika hai, aapko bank branch aana padega. Par agar aap ghar se hi karna chahte hain, toh aapko ek online application form bharna hoga. Uske liye hum aapko ek verification code send karenge, jisse aap form verify kar payenge. Kya aap yeh verification code receive karne ke liye taiyar hain?
+receiver: Haan ji, verification code receive karne ke liye taiyar hoon. Bhej dijiye.
+caller: Theek hai sir, aapko ek verification code aaega abhi. Woh code mujhe bataiyega, taaki main aapka loan application verify kar sakoon aur aapka loan process aage badha sakoon.
+receiver: Ji, aa gaya code. 852963 hai.
+caller: Achcha, 852963? Dhanyawad sir. Ab yeh code se aapka application verify ho jayega aur aapka new HDFC loan hum khol denge. Bahut jaldi ho gaya na? Aapko kisi aur service ke liye bhi help chahiye? Jaise ki cheque book request ya internet banking registration?
+receiver: Nahi sir, abhi toh filhaal itna hi kaafi hai. Bahut bahut dhanyawad aapki madad ke liye. Jaldi se sab ho gaya.

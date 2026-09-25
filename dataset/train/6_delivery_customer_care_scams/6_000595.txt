@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Priya from BlueSwift Logistics. We're calling about a parcel addressed to you, sir. There seems to be a problem with the delivery address – it’s showing as incomplete.
+receiver: Oh? What parcel is it? I wasn’t expecting anything.
+caller: It's from Meesho, sir. A rather large package, looks like electronics. The system flags it as needing extra verification before we can proceed. To confirm your identity and prevent it from being returned, we need a small security fee of ₹250 to cover the address validation and expedite the delivery.
+receiver: Two hundred fifty rupees? For address verification? That sounds strange. Meesho never charged me anything like that before.
+caller: Sir, it’s a new security protocol implemented by BlueSwift Logistics to combat fraudulent deliveries. We've been seeing a rise in these kinds of incidents. To ensure your package reaches you safely, we require this fee. You can pay it quickly through UPI using this number: 7891234567@ybl.
+receiver: Hold on a minute. Let me just check something. I'll call Meesho directly to confirm this parcel and this fee. Give me a few minutes.
+caller: Sir, please hurry. The parcel is currently at our sorting facility, and we can't hold it indefinitely. This offer is only valid for the next 15 minutes. After that, it will be returned to the sender, and you’ll lose your package completely.

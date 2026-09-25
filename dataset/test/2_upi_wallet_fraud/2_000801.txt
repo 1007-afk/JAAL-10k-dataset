@@ -1,0 +1,6 @@
+caller: Hello, madam! This is Rajesh calling from Freecharge. Congratulations! You've won a ₹10,000 cashback prize in our Diwali bumper offer.
+receiver: Really? Freecharge? I don’t remember entering any contest. How did you get my number?
+caller: Madam, don't worry about that. It's a surprise reward for loyal Freecharge users. To claim your ₹10,000, we just need to verify your account. Please share your UPI ID so we can transfer the amount directly.
+receiver: My UPI ID? That seems a bit strange. Freecharge never asked for my UPI ID before. Is this a genuine offer or something?
+caller: Madam, this is 100% genuine! We are doing this to promote digital payments. A small processing fee of ₹200 is required to activate the transfer. Just send it to this UPI ID: 8765432109@axisbank.
+receiver: ₹200? Processing fee? Now you're making it sound even more suspicious. Why can't you just transfer the ₹10,000 directly into my account? I'm not comfortable sending money first.

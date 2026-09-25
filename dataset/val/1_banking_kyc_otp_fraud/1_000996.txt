@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Vijay hai. Main Axis Bank se call kar raha hoon. Aapke naam par ek suspicious transaction detect hua hai. ₹15,000 ka withdrawal attempt kiya gaya hai.
+receiver: Oh, really? ₹15,000? Maine toh koi withdrawal nahi kiya.
+caller: Sir/Madam, yeh bahut serious matter hai. Aapke account ko secure karne ke liye, humein bas kuch details verify karne hai. Humara system hack hone ke chakkar mein hai, aur aapka account bhi at risk mein aa sakta hai.
+receiver: Hack? Yaar, yeh toh dar lag raha hai. Kya karna hai mujhe?
+caller: Koi tension nahi lene ka. Sirf aapka OTP (One Time Password) bata dijiye jo aapko SMS se milega. Isse hum confirm kar lenge ki account aapka hi hai.
+receiver: OTP? Par ek kaam karo, mujhe kab se call kar sakte ho? Main Axis Bank ke customer care number pe call karta hoon.
+caller: Sir/Madam, time nahi hai! Account suspend hone wala hai abhi! Jaldi se OTP de dijiye. Yeh offer sirf abhi tak valid hai!

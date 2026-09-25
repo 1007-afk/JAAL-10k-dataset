@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? My name is Rohan, calling from Bluestar Courier. We have a package addressed to you, but there's a problem with the payment details.
+receiver: Package? Mujhe koi package order nahi kiya tha. Kya naam hai sender ka?
+caller: The sender details are confidential for security reasons, sir. The issue is that the payment authorization failed during transit. To release the package, we need to verify a small amount – just ₹350 to confirm your identity. It will be refunded immediately after verification.
+receiver: ₹350? Yeh kitna funny hai. Agar package mere liye hai toh main payment karunga. Par mujhe kuch samajh nahi aa raha hai. Sender kaun hai? Aur package mein kya hai?
+caller: Sir, to protect your information and expedite the delivery, we cannot disclose the sender or contents. This is standard procedure. We need to secure the payment first to avoid the package being returned. Please send the ₹350 through UPI to 9876543210. Just a small amount to secure it.
+receiver: UPI? Aur agar main payment kar dunga toh package kab milega? Aur agar refund nahi mila toh main kya karunga?
+caller: Once the payment is confirmed, the package will be released within the next hour. Refund is automatic, no worries, sir. Just to confirm, you’re sending ₹350 to 9876543210 via UPI, correct? Do it quickly, sir. Time is running out.
+receiver: Okay, wait, I am going to check with my family first before doing this. I'll call you back.
+caller: Sir, please hurry. The package might be sent back if the payment is not done within 15 minutes. It’s very important!

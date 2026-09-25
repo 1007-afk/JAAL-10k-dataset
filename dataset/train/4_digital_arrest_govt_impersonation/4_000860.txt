@@ -1,0 +1,9 @@
+caller: Namaste, main Inspector Rajan bol raha hoon, Delhi Customs se. Aapke naam par ek parcel aaya hai, lekin customs clearance mein kuch problems hain.
+receiver: Delhi Customs? Parcel aaya hai? Mujhe toh koi parcel expected nahi tha. Kya hai andar?
+caller: Parcel mein suspicious items nikale hain, sir/madam. Drug-related items ki possibility hai. Hukum toh hai ki parcel hold kar lena hai aur investigation karna hai.
+receiver: Drugs? Yeh toh bahut serious allegation hai! Main toh kabhi drugs nahi use kiya. Aapko kaise pata ki mere parcel mein woh hai?
+caller: Woh baat alag hai, sir/madam. Parcel aapke address se aaya hai, toh investigation karna zaroori hai. Aur yeh process complete karne ke liye, aapko ₹12,000 ka fine deposit karna padega.
+receiver: ₹12,000? Yeh kitna zyada hai! Main police station mein jaake report karunga.
+caller: Ji, sir/madam, police station mein report karne se yeh aur zyada complicated ho jayega. Fine deposit kar dijiye, toh parcel release ho jayega aur naam saaf ho jayega. Aapko hum ek UPI ID denge, wahaan transfer kar dijiye.
+receiver: Yeh toh scam lag raha hai! Main kisi bhi UPI ID par paisa nahi bhejunga. Main abhi hi police ko call karta hoon.
+caller: Ji, sir/madam, please don’t hang up. We are trying to help you. Just cooperate, and we will sort this out quickly. We need to verify a few details first.

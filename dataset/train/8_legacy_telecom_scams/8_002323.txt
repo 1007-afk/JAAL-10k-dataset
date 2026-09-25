@@ -1,0 +1,8 @@
+caller: Namaste ji! Welcome to Tech Solutions India! Sirf ek saat mein aapka smartphone 8 mahine ya usse zyada ka ho jaayega, sahi kaha na maine?
+receiver: Haan ji, bilkul sahi. Mera phone abhi 6 mahine ka hai.
+caller: Kya baat hai ji! Perfect timing! Aise hi bolte hain, humare paas sirf 2 software upgrade free available hain aur aapki eligibility check ho chuki hai. Aapko pata hai na, yeh deal sirf unke liye hai jinka phone 6 mahine ya usse zyada purana hai, bilkul aapki tarah! To, kya aap ready hain updated performance aur secure connection ke liye?
+receiver: Arey yaar! Updated performance aur secure connection free mein? Yeh toh bahut acha offer hai! Aur yeh offer sirf mujhe hi mila hai? Matlab, koi extra charge nahi hoga na?
+caller: Arrehaan bhai, totally! Koi extra charge nahi, sirf pura sach! Yeh offer sirf unke liye hai jo eligible hain aur aap bilkul eligible hain! Dekho, humare paas sirf 1 upgrade aur bacha hai. Abhi maine aapki profile verified ki hai, so this offer is definitely for you. Kya main aapka number jaan sakta hoon taaki main aapko notification de saku aur aapko update install kare sakoon?
+receiver: Haan ji, mera number hai 9876543210. Kya phir se confirm kar sakte hain ki yeh upgrade completely free hai, koi secret cost nahi hogi?
+caller: Rohan ji, absolutely clear. No secret costs, no hidden fees. This offer is our way of saying thanks for being a valued customer! Aur haan, sirf 1 upgrade hi bacha hai, woh bhi aapke name par register karna zaruri hai taaki hum aapko beta release kar sakein. So, Rohan ji, can I get your pin code taaki hum aapko update delivery schedule bata sakein?
+receiver: Ji haan, bilkul. Mera pin code 110001 hai. Aur yeh ‘upgrade’ wali baat, iska kya matlab hai?

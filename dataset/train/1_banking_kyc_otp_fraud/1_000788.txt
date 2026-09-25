@@ -1,0 +1,7 @@
+caller: Namaste! This is Rina Sharma calling from HDFC Bank's KYC verification department. We've noticed some unusual activity on your account and need to quickly confirm your details to prevent potential fraud and ensure uninterrupted service. Can you please confirm your full name?
+receiver: Hello, yes, this is Priya Verma. What's this about unusual activity? I haven't done anything out of the ordinary.
+caller: Thank you, Priya ji. It seems there was a brief login attempt from an unknown device. To secure your account, we need to verify a few details. First, could you please provide the OTP that was just sent to your registered mobile number?
+receiver: OTP? But I haven't received any OTP. Are you sure you're calling from HDFC? This sounds a little suspicious.
+caller: Don't worry, Priya ji. Sometimes there's a slight delay in OTP delivery. To proceed quickly, could you also share the last four digits of your Aadhaar card? This is just for an extra layer of security.
+receiver: My Aadhaar number? That's quite sensitive information, isn’t it? I'm really not comfortable sharing that over the phone. Can I call back the bank directly to confirm this?
+caller: Absolutely, Priya ji, but there's a system update happening right now, and calling the regular number might lead to longer wait times. To avoid any account suspension, it’s crucial we verify this now. Let me quickly escalate your case, but first, I just need those last four digits of your Aadhaar. It will only take a moment.

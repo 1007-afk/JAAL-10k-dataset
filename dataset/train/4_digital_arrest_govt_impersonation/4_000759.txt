@@ -1,0 +1,10 @@
+caller: Hello? Mein Indian Customs se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Mere naam par parcel? Aur customs ne rok diya? What's the matter?
+caller: Ji, parcel mein illeagal items paaye gaye hain. Drug smuggling ka suspicion hai. Aapko is matter mein involved paaya gaya hai.
+receiver: Drugs? Mujhe? Yeh kaise ho sakta hai? Mein toh kabhi parcel nahi bheja. Yeh to scam lag raha hai!
+caller: Look, this is a serious matter. For investigation purposes, we need you to pay a small fine of ₹15,000 to clear the parcel and close the case. Otherwise, we’ll have to register a FIR against you.
+receiver: ₹15,000? Aur FIR? Wait a minute! How can you accuse me without any proof? Can you provide me with the parcel's tracking number or any official documents?
+caller: The tracking number is IND87654321.  But to avoid further legal complications, we need the payment now. We'll keep you on call to ensure the process is secure.  Transfer the money to this UPI ID: customs.fine@upi.
+receiver: See, this is fishy. You're asking for money over the phone and giving me a UPI ID? Genuine authorities wouldn’t do this. I’m contacting the actual Customs department to verify.  I'm ending this call right now.
+caller: Please, don't do that! You're putting yourself in danger. Just pay the fine and everything will be sorted. Time is running out!
+receiver: I am not going to fall for this. It is clearly a scam, and I will report this number and your tactics. Goodbye.

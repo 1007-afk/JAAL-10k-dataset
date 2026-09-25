@@ -1,0 +1,8 @@
+caller: Namaste sir, main Airtel support se baat karta hu. Aapke phone ki SIM card 18 ghante mein deactivation hone wali hai. Aapko sirf ek small confirmation nehi chahiye, agar aapko apna number chalta rehna hai.
+receiver: Airtel? Mein toh Airtel ka hi number deta kyun hu? Aur 18 ghante mein deactivate? Kya hua ab?
+caller: Sir, aapke account mein koi technical issue hai, jisse SIM auto-deactivate ho rahi hai. Isliye, humne aapko confirm karna padega ki aap SIM ko activate karna chahte hain. Aapka mobile number 8765432109 hai, sahi na?
+receiver: Haan, sahi hai. Par yeh sab toh bahut confusion hai. Mujhe jitni mushkil hai yeh pata karna kya chal raha hai.
+caller: Sir, aapke security ke liye, hume aapke SIM activation ke liye use hone wala email ID chahiye. Woh bataiye, kaunsa email ID Vodafone par register kiya tha?
+receiver: Hmm…Mujhe exact email address yaad nahi aa raha.  Aapke system mein koi record hai kya?  Koi suggestion de sakte hain?
+caller: Sir, humaap record share karne ki permission nahi hai.  Aapko khud yaad karne ki कोशिश karna hogi.  Agar yaad nahi aa raha hai, toh humein OTP send karne hogi aapke registered address pe.  Woh address kya hai?
+receiver: Registered address?  Yeh phir se same problem hai!  Mujhe samajh nahi aaya.  Kya aap mujhe bol sakte hain address kya hai jo Vodafone ne register kiya tha?

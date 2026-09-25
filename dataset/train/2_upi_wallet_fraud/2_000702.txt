@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Care se Rohit bol raha hoon. Aapke Paytm wallet mein ek suspicious transaction detect hua hai, ₹7,500 ka.
+receiver: ₹7,500? Kaun sa transaction hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, yeh transaction ek online gaming app mein hua hai. Shayad aapne unknowingly apna OTP share kar diya hoga.
+receiver: Gaming app? Main toh kabhi online game nahi khelta. Yeh fraud lag raha hai.
+caller: Sir, security ke liye, aapko bas apna wallet verify karna hai. Ek OTP bheja jayega aapke register number par, woh OTP mujhe bata dijiye.
+receiver: OTP? Abhi toh yeh aur bhi suspect ho gaya hai. Paytm toh aise OTP nahi maangta. Main complaint karunga.
+caller: Sir, please cooperate! Jaldi aapko ₹7,500 ka refund mil jayega. OTP bataiye, sir. Time is running out.

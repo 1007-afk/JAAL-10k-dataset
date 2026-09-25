@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Rahul Verma from FastCash Loans. We saw your application for a quick personal loan. Just need to confirm a few details before we process it. Do you have your Aadhaar card handy?
+receiver: Haan, yes I have it. What do you need it for?
+caller: Very good sir! Just to verify your identity, I'll send a one-time password to your registered WhatsApp number. Can you please tell me the OTP once you receive it?
+receiver: Okay, wait… I got it. It’s 789012.
+caller: Excellent! OTP verified, sir. Now, as per RBI guidelines, we need to charge a small processing fee of ₹2500 upfront. This will be added to your loan amount. You can pay through UPI.
+receiver: ₹2500? But the application didn't mention any upfront fee.
+caller: Sir, these fees are standard for all instant loans. Without this, we can’t disburse the amount. Otherwise, we have to cancel your application. We will also share some of your contacts with our recovery team if the payment is not made. Think about it, sir. We don’t want any trouble.

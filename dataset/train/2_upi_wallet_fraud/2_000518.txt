@@ -1,0 +1,7 @@
+caller: Namaste, sir! Main Bank of Baroda se Deepak bol raha hoon. Aapke naam par ek transaction hua hai ₹7,500 ka, jo aapne approve nahi kiya hai.
+receiver: ₹7,500? Lekin maine toh koi transaction nahi kiya. Kya ho raha hai?
+caller: Ji, sir. Isko block karne ke liye, aapko ek OTP verify karna hoga. Aur saath hi, hum aapko ₹1000 ka cashback offer kar rahe hain, is transaction ko verify karne ke liye. Iske liye aapko ek app download karna hoga, ‘SecurePay’ naam se.
+receiver: App? SecurePay? Mujhe toh yeh suspicious lag raha hai. Bank aise app download bolta hai kya?
+caller: Ji, sir, yeh Bank of Baroda ka official app hai. ₹1000 ka cashback offer sirf 24 hours ke liye hai. Is app ke zariye aapka account secure ho jayega, aur ₹1000 aapke account mein direct deposit ho jayega. Jaldi karna hoga, sir.
+receiver: ₹1000 cashback? Okay, theek hai. Lekin mujhe bank manager se baat karni chahiye, pehle.
+caller: Sir, aapko bilkul baat karni chahiye, lekin is app se verify hone ke baad hi. Yeh process complete hone ke baad aapko bank manager se baat karne mein koi dikkat nahi hogi. Is app ke link ko open karein aur install karein. Abhi, sir.

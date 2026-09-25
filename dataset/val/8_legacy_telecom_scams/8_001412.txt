@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai?  Sunta hoon, tumne jo SMS auction ka baat suna hai, usmein interest hai na?  Humara ek bahut hi achcha offer hai - ek naya Samsung Galaxy A54 hai!  Yeh toh sabke favourite hai, jaaniye! Aur kya? Jo karna hai, sirf ek WhatsApp message karein – TECHINFO to 9876543210.  Abhi tak message bheja tha?
+receiver: Namaste! Theek hai, mein interested hoon. Samsung Galaxy A54, acha hai!  Maine abhi tak message nahi bheja hai.  WhatsApp message karein, TECHINFO to 9876543210, iska matlab kya hai?  Aap bataiye.
+caller: Bahut accha! Toh bas woh message karein, aur aap auction mein shamil hone ke liye taiyaar hojayenge.  Aur yaad rakhein, Samsung Galaxy A54, yeh toh market mein bahut expensive hai, isliye hurry karo!  Mujhe batayein jab aap message send karein.  Humare paas aaj ke liye sirf 5 device hain, so first come, first serve, samajh mein aaya?
+receiver: Five device? Wow, that’s good! Okay, maine message already send kar diya hai. TECHINFO to 9876543210.  Kab se main bidding kar sakta huon?  Itna excitement hai!
+caller: Excellent! Aapko join kar liya gaya hai. Ab toh sirf 4 bache hain!  Jo hota hai, woh aapko WhatsApp par notification milayega.  Bid kaise karte hain, woh bhi samjha denge.  Bidding ki speed bahut zyada hoti hai, so jaldi karo.  Jab koi auction round shuru hogi, toh aapko notification milega aur phir aap bidding shuru kar sakte hain.
+receiver: Notification mil gaya hai! Current bid chal raha hai kya ya pehla round kab hoga?
+caller: Haan, current bid abhi shuru hi hui hai.  Pehla round hum jaldi hi announce karenge.  Jaldi karo, sirf 3 bache hain!  Koi yeh device nahi nikalna chahiye.
+receiver: Three bache hain?  Arre yaar, notification ka wait kar raha hoon.  Speedy ho jaaye!  Yeh toh bahut exciting hai!

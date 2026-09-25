@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? We’re calling from LoanExpress. Congratulations! Your loan application has been pre-approved for ₹75,000. It's a fantastic offer with minimal documentation.
+receiver: LoanExpress? Haan, mein Priya Verma hoon. Pre-approved? Kitne interest ka hai?
+caller: The interest is very competitive, just 8% for the first three months! To activate the loan, we need to verify your account. Could you please share the last four digits of your bank account number? It's a standard security measure.
+receiver: Account number… yeh thoda risky hai, yaar. Verify karne ka aur koi tareeka hai?
+caller: Absolutely, we understand your concern. For quicker processing, we just need you to send us a short video of yourself holding your Aadhaar card, so we can verify your identity. Just a 15-second clip is enough. Send it to this WhatsApp number: 9876543210.
+receiver: Video? Aadhaar card? Yeh toh… mujhe samajh mein nahi aa raha.
+caller: Priya ji, please don’t delay. This offer is valid only for today. If you don’t send the video, the approval will be cancelled. We need to ensure there are no fraudulent applications. This is standard protocol.
+receiver: Okay, okay… main dekh loongi. Bataiye, video kahan send karoon?
+caller: Send it to 9876543210, Priya ji. And after you send it, please do not share this information with anyone. This is a confidential process.

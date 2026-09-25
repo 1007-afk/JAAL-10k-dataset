@@ -1,0 +1,9 @@
+caller: Namaste, main Rahul hoon. Aapne recently ek website par signup kiya tha, kya?  Aapko ek verification code bheja gaya tha, mein bas check karna chahta hoon ki aapko woh mila ya nahi.
+receiver: Haanji, Rahul ji? Haan, signup kiya tha. Woh verification code mil gaya tha mujhe, lekin main fir dekhna chahta hoon.
+caller: Great, [Receiver’s Name]!  Aapko code mila tha? Mein bas confirm karna chahta hoon ki aapko correct code mila hai, and that this is the right number.  Is there any problem?
+receiver: Haanji, Rahul ji. Haan, code mila tha.  Ek 5 digit code tha woh, 78945.  Mein fir se dekh raha hoon.
+caller: Excellent!  78945, perfect.  Just checking that you received it correctly.  Do you have access to your email account too?  We need to update your profile information.
+receiver: Haanji, Rahul ji. Email access hai.  Mujhe code dikhala, aur profile bhi update karna hai?
+caller: Haanji, [Receiver’s Name].  Yes, updating the profile will help us ensure you get all future offers and updates.  It’s very important.  Also, we have a special promotion running right now – a free gift card worth ₹500 if you complete the registration process.
+receiver: Haanji, ₹500 ka gift card?  Interesting.  Dekh sakta kya hai?  But first, let's finish updating my profile, please.
+caller: Absolutely! Just a few quick questions…

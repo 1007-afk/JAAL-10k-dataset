@@ -1,0 +1,17 @@
+caller: Hello? Tumne mujhe kabhi dekha bhi hai? Main woh hoon jo tujhe ₹5 लाख transfer karne ke liye bulaya tha.
+receiver: Oh, hello! Mai toh abhi naukri chhodne layak nahi hu. Kya hua?
+caller: Arre, tumhare account mein ₹5 लाख udaharna ke liye hai. Agar tumhle yeh paisa nahi chahiye toh, main kisi aur ko bulau. Tumhara naam kya hai, batao?
+receiver: Mein Rahul Kumar hu. Kaise chal raha hai tumhara kaam?
+caller: Rahul, tumhare bank statement mein yeh transfer dikhega. Tumhari account number kya hai?
+receiver: 1234567890. Tumne mujhse kyun puch raha hai?
+caller: Main sirf yeh check karna chahta hu ki tumhle yeh paisa accept kiya hai ya nahi. Agar tumhle yeh paisa accept kiya hai, toh tumhein humein ek small fee dena hoga.
+receiver: Fee? Kya fee? Main toh koi business mein nahi hu.
+caller: Fee sirf ₹1000 hai. Yeh paisa tumhein un dono companies ko donate karna hoga, jinko hume nein select kiye hain.
+receiver: Un companies ka kya sambandh hai hamare saath? Maine unse kabhi mil bhi nhi kiya.
+caller: Tumhein tumhare future ko achcha banane ke liye help karna hai. Isliye humein ye fees lena padta hai. Tumhara decision tumhare future ke liye zaroori hai.
+receiver: Maaf karna, lekin mai yeh sab believe nahi karta. Ye ek scam hai.
+caller: Arre, tumhare pass belief nahi hai? Toh phir tumhare life mein kya hai? Ab tumhi decide karo, tum apne future ko kaise dekhna chahte ho.
+receiver: Main police ko call kar raha hu.
+caller: Police? Kya karega police? Wo jaante hi nahi ki yeh kitna acha offer hai. Tumhare paas koi option nahi hai.
+receiver: Thoda mat bol. Meri account se ₹5 लाख chor gaye.
+caller: Acha! Toh tumne accept kar liya.  Main abhi tumhari account se ₹5 लाख collect kar raha hoon...

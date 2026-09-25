@@ -1,0 +1,6 @@
+caller: Namaste, Main Axis Bank Security Department se Atul bolta hoon. Aapke account mein ajeeb transactions ho rahe hain, isliye humein aapki KYC update karne ki zaroorat hai.
+receiver: KYC update? Lekin maine toh koi transaction nahi kiya. Mujhe message bhi nahi aaya. Aap kaun bol rahe hain?
+caller: Sir, yeh bahut serious matter hai. Account suspend hone se pehle, aapko zaroori hai verification karna hai. Mai OTP send kar raha hoon, please bol dijiye.
+receiver: Thoda ruko. Mai check karta hoon. OTP hai 4829. Sir, aapne KYC ke liye bank account number bhi mang rahe hain?
+caller: Haan sir, account number verify hone ke baad hi hum verification complete kar sakte hain. Jaldi karein, time kam hai. Account suspend hone se pehle bataiye.
+receiver: Sir, ye theek nahi lag raha hai. Main branch mein jaake verify karunga. Aapko phone pe meri details nahi bata sakta. Mera account safe karna hai.

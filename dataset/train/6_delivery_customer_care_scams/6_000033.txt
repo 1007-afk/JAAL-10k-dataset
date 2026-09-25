@@ -1,0 +1,18 @@
+caller: Namaste! Isme aapki madad ke liye ek automated message hai. Hum Diwali ke delivery service se hain. Aapke paas ek special parcel hai. Agar aap delivery arrange karna chahte hain, toh 08879876543 number pe call karein. Shukriya!
+receiver: Ji ji, Diwali ke delivery se? Parcel hai? Mera naam kaise pata? Mein kabhi call nahi karta. Kaha tha parcel hai? Woh kya hai?
+caller: Haan ji, automatic system mein naam aata hai. Aapko bas 08879876543 number pe call karna hai. Parcel ek festive season ka gift hai, bahut achcha hai. Wait karne mein koi problem nahi hai, lekin delivery arrange karne ke liye call karna zaroori hai.
+receiver: Gift toh acha hai, par number mera hai. Mein samajhta hoon yeh all numbers se linked hai. Parcel mein kya hai? Koi jewellery ya saree nahi hai na? Aur delivery charge kabtak rahega?
+caller: Sir, aap bilkul chinta mat kijiye. Humara service totally free hai. Aapko sirf call karna hai. Parcel mein ek premium product hai, jo Diwali ke baad bahut expensive ho jayega. Agar aap call karein toh aapko sab pata chal jayega.
+receiver: Premium product? Expensive? Fine, then call kar leta huon. Par mujhe meri identity check karne ke liye confirmation chahiye. Mera name Arjun Sharma hai. Aur mujhe delivery charges ki koi baat bhi nahi chahiye.
+caller: Arjun Sharma ji, thank you. Verification ke liye hum aapko call bachayenge. Aapko 08879876543 pe call karna hai. Jab aap call karenge, toh hum aapki identity verify karenge aur aapko woh gift bata denge jiska aap wait kar rahe hain. Bahut dhanyavaad!
+receiver: Okay, thoda wait karunga. Thoda suspect bhi hai, par gift dekhkar hi pata chalega.
+caller: Aapko salam hai!
+caller: Namaste! Isme aapki madad ke liye ek automated message hai. Hum Holi ke delivery service se hain. Aapke paas ek special parcel hai. Agar aap delivery arrange karna chahte hain, toh 09876543210 number pe call karein. Dhanyavad!
+receiver: Holi ke delivery? Parcel? Mera naam kaise pata? Mein kabhi call nahi karta. Parcel kahaan hai? Woh kya hai?
+caller: Haan ji, automatic system mein naam aata hai. Aapko bas 09876543210 number pe call karna hai. Parcel ek festive season ka gift hai, bahut achcha hai. Wait karne mein koi problem nahi hai, lekin delivery arrange karne ke liye call karna zaroori hai.
+receiver: Gift toh acha hai, par number mera hai. Mein samajhta hoon yeh all numbers se linked hai. Parcel mein kya hai? Koi mobile ya laptop nahi hai na? Aur delivery charge kabtak rahega?
+caller: Sir, aap bilkul chinta mat kijiye. Humara service totally free hai. Aapko sirf call karna hai. Parcel mein ek premium product hai, jo Holi ke baad bahut expensive ho jayega. Agar aap call karein toh aapko sab pata chal jayega.
+receiver: Premium product? Expensive? Fine, then call kar leta huon. Par mujhe meri identity check karne ke liye confirmation chahiye. Mera name Priya Patel hai. Aur mujhe delivery charges ki koi baat bhi nahi chahiye.
+caller: Priya Patel ji, thank you. Verification ke liye hum aapko call bachayenge. Aapko 09876543210 pe call karna hai. Jab aap call karenge, toh hum aapki identity verify karenge aur aapko woh gift bata denge jiska aap wait kar rahe hain. Bahut dhanyavaad!
+receiver: Okay, thoda wait karunga. Thoda suspect bhi hai, par gift dekhkar hi pata chalega.
+caller: Aapko salam hai!

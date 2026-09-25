@@ -1,0 +1,8 @@
+caller: come to Netcollex Ltd. My name is Alex. I'm calling regarding a recent transaction of 150p for a Kit Strip. Can you please confirm your account details so I can assist you furt
+receiver: Hello Alex, thanks for calling Netcollex. Ji haan, main Alex se baat kar raha/rahi hoon. 150p ka Kit Strip transaction, sahi hai. Mere account details confirm karne ke liye, aap mera registered phone number verify kar sakte hain, jo ki [invented phone number, e.g., 98765 43210] hai. Ya fir aap mera email address [invented email, e.g., priya.sharma@email.com] se bhi check kar sakte hain.
+caller: Thank you for confirming that, Priya. So, regarding this 150p Kit Strip charge, it seems it's an ongoing subscription that might have been activated unintentionally. To proceed with cancellation and a refund, I need to verify a few more security details. Can you confirm the last four digits of your card that was used for this transaction, please?
+receiver: Ji haan Alex, last four digits of the card used for this transaction hain 1234. Kya aur kuch verify karna hoga?
+caller: Thank you, Priya. And could you also confirm the expiry date of that card, please? This is just a standard security measure to ensure no one else is accessing your account.
+receiver: Ji haan Alex, card ki expiry date hai 05/25. Aur koi information chahiye aapko?
+caller: Thank you for confirming, Priya. Just one last thing to complete the process. For verification, could you please confirm the name as it appears on the card? This helps us finalize the refund for the Kit Strip charge. I have only two attempts left for this verification.
+receiver: Card pe naam hai Priya Sharma. Agar aur kuch chahiye toh bataiye.

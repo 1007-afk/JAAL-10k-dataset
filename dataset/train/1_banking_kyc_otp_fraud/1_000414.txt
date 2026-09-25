@@ -1,0 +1,24 @@
+caller: Namaste ji, is this Mr. Verma? I am calling from the Zenith Financial Security Services. How are you doing today?
+receiver: Haan, main hi Mr. Verma hoon. Main theek hoon, aap kaise hain? Aur aap Zenith Financial se kaun hain?
+caller: Wonderful to speak with you, Mr. Verma! We’re reaching out because we’ve detected some irregularities in your recent transactions. It seems there might have been an unauthorized transfer of funds.
+receiver: Irregularities? Unauthorized transfer? Mein toh confused ho gaya. Kya huaa?
+caller: Don’t worry, Mr. Verma. We just want to ensure your account is secure. Our fraud detection system flagged a suspicious activity involving a transaction to a new vendor – ‘Global Solutions Technologies’. The amount was approximately ₹8,500.
+receiver: Global Solutions Technologies? Mere paas yeh naam nahi suna. Woh kya karte hain? Aur ₹8,500 kahaan gaya?
+caller: They claim to provide IT support services, but we need to verify their legitimacy. We believe someone may have gained access to your information and used it to initiate this fraudulent transaction. We need your immediate cooperation to resolve this.
+receiver: Immediate cooperation? Mujhe jitni khabar hai utna hi bataunga. Kya main apni account freeze karwa saku?
+caller: Absolutely, Mr. Verma. We can freeze your account temporarily while we investigate. However, to proceed with the investigation and initiate the refund process, we require you to confirm a small verification charge of ₹750 through a secure online link. This is standard procedure to cover our investigation costs.
+receiver: ₹750? Online link? Yeh toh dubbaana laga raha hai. Mera bank account number aur IFSC code bataiye, main khud check kar lunga.
+caller: Mr. Verma, that would be difficult at this stage. Providing sensitive financial information over the phone is extremely risky. Please trust us; this is the only way to expedite the resolution of this issue and prevent further losses. Click on the link to confirm the verification charge.
+receiver: I don’t trust you. I will contact my bank directly.
+caller: Namaste ji, is this Mr. Verma? I am calling from the Zenith Financial Security Services. How are you doing today?
+receiver: Haan, main hi Mr. Verma hoon. Main theek hoon, aap kaise hain? Aur aap Zenith Financial se kaun hain?
+caller: Wonderful to speak with you, Mr. Verma! We’re reaching out because we’ve detected some irregularities in your recent transactions. It seems there might have been an unauthorized transfer of funds.
+receiver: Irregularities? Unauthorized transfer? Mein toh confused ho gaya. Kya huaa?
+caller: Don’t worry, Mr. Verma. We just want to ensure your account is secure. Our fraud detection system flagged a suspicious activity involving a transaction to a new vendor – ‘Global Solutions Technologies’. The amount was approximately ₹8,500.
+receiver: Global Solutions Technologies? Mere paas yeh naam nahi suna. Woh kya karte hain? Aur ₹8,500 kahaan gaya?
+caller: They claim to provide IT support services, but we need to verify their legitimacy. We believe someone may have gained access to your information and used it to initiate this fraudulent transaction. We need your immediate cooperation to resolve this.
+receiver: Immediate cooperation? Mujhe jitni khabar hai utna hi bataunga. Kya main apni account freeze karwa saku?
+caller: Absolutely, Mr. Verma. We can freeze your account temporarily while we investigate. However, to proceed with the investigation and initiate the refund process, we require you to confirm a small verification charge of ₹750 through a secure online link. This is standard procedure to cover our investigation costs.
+receiver: ₹750? Online link? Yeh toh dubbaana laga raha hai. Mera bank account number aur IFSC code bataiye, main khud check kar lunga.
+caller: Mr. Verma, that would be difficult at this stage. Providing sensitive financial information over the phone is extremely risky. Please trust us; this is the only way to expedite the resolution of this issue and prevent further losses. Click on the link to confirm the verification charge.
+receiver: I don’t trust you. I will contact my bank directly.

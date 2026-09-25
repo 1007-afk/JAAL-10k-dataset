@@ -1,0 +1,11 @@
+caller: Hello sir, mera naam Rohan Sharma hai, Axis Bank se. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Haan? Kya hua? Kuch theek nahi hai?
+caller: Ji, ek online transaction attempt hua hai Nepal mein, 15,000 rupay ka. Aapne kiya tha?
+receiver: Nepal mein? Nahi, maine toh koi transaction nahi kiya. Main abhi yahan hi hoon.
+caller: Sir, yeh bahut serious hai. Agar hum verify nahi karenge, toh aapka account suspend ho sakta hai. Aapko thoda verification karna padega, jisse hum confirm kar sakein ki aap safe hain.
+receiver: Verification? Kya verification karna hai?
+caller: Sir, humko aapke OTP number ki zarurat hai jo aapko SMS se mil raha hai. Tabhi hum confirm kar sakte hain ki aap sahi owner hain. Jo OTP mile, woh mujhe bata dijiye.
+receiver: OTP? Sir, aise kaise? Main OTP phone pe nahi bata sakta. Yeh scam lag raha hai.
+caller: Sir, please, time bahut kam hai. Account suspend hone se pehle, please OTP bata dijiye. Main aapko ek secure link bhi send karunga jahan aap apne bank details bhi verify kar sakte hain.
+receiver: Secure link? Sir, main bank ki website khud check karta hoon. Main koi link open nahi karunga. Main call cut kar raha hoon.
+caller: Sir, please, mat karo! Account suspend ho jayega! Aapko bahut nuksan hoga!

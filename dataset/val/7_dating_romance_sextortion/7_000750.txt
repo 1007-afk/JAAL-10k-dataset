@@ -1,0 +1,7 @@
+caller: Namaste! Kaise ho? I saw your profile on DilMil, you look lovely! I'm Raj, from London, working as a software engineer. Just thought I’d say hello.
+receiver: Hello Raj! I'm doing well, thank you. London sounds amazing. Nice to meet you.
+caller: That's great! I'm actually visiting India next month for a business conference. It would be wonderful to meet up while I’m here. I’m staying in Delhi, near Connaught Place. We could explore the city together.
+receiver: Oh, really? A business conference? That’s interesting. Delhi is a long way to travel just for a short visit.
+caller: Yes, it is, but I'm really hoping to make the most of it. You know, my mum is quite unwell back in London. I’m trying to juggle work and family – it’s stressful! I even had to take out a quick loan to cover her medical bills, it’s proving a bit more than I initially thought. Could I maybe borrow 10,000 rupees just to tide me over until I get paid? I promise I’ll pay you back as soon as I’m back in London.
+receiver: 10,000 rupees? That's quite a lot of money to ask from someone we've just met online. I’m not really comfortable with that.
+caller: I completely understand your hesitation. It's a big ask, I know. I wouldn't ask if it wasn't important. Just think of it as a small investment in a potential friendship – and I'll make sure you're repaid promptly. Send it to this UPI ID: raj.mittal@ybl.

@@ -1,0 +1,9 @@
+caller: Namaste! Namaste! Suno, mein Sanjay hoon, Prize Information Department se baat kar raha hun. Aapke naam par ek badi shaharish mil chuki hai - ₹15,000! Haan, tumhara naam pad gaya!  Ab tumhare account mein ₹15,000 transfer karne ke liye, mujhe tumhari bank ki details chahiye.  Yeh ek special offer hai, aur sirf 7 lottery tickets bandhe hain. Tumhare liye woh ticket number 87654321 hai.  Jaldi karo, call karein 9876543210 pe, aur apni shaharish secure karo!
+receiver: Namaste Sanjay! ₹15,000? Wah, yeh bahut achha hai! Thank you for informing me.  Mujhe pata chalega, tumne kaha ₹15,000?  Aur tumne kaha, mujhe bank ki details chahiye?  Sahi hai, kis bank mein?
+caller: Haan ji, bilkul sahi! ₹15,000 ka prize! Aur haan, sirf 6 lottery tickets bandhe hain ab, to jaldi kijiye! Tumhari bank ka naam batao, aur branch bhi, phir tumhara account number aur IFSC code de sakte ho.  Yeh offer kitna time tak chalega?
+receiver:  Arre, sirf 6 hain?  Okay, okay, bataunga. Bank ka naam 'State Bank of India' hai, aur branch 'Connaught Place'.  Mere account number 123456789012 है, aur IFSC code SIBIN0000123.
+caller: Haan ji, bilkul sahi! ₹15,000 ka prize!  Aur haan, sirf 5 lottery tickets bandhe hain ab! Tumhara account number check kar raha hun...  Aapko koi surcharge apply hoga kya?
+receiver:  Surcharge? Kya?  Mai samajh nahi sakta.  Tumne kaha ₹15,000 milega, toh surcharge kyun hoga?
+caller:  Haan ji, bilkul! Agar aap jaldi call karein, toh surcharge nahi lagega!  Par agar tum wait karein, toh surcharge apply hoga.  Jaldi karo, sirf 4 lottery tickets bandhe hain! Call karein 9876543210 pe!
+receiver:  Oh god, sirf 4 hain?  Okay, okay, I’ll call immediately.  Thank you Sanjay!
+caller: Haan ji! ₹15,000 tumhara!  Call karein 9876543210 pe, aur apne family ko batayein!  Offer khatam ho jayega!

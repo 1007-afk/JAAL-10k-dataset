@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Inspector Sharma from the Directorate of Revenue Intelligence, DRI. We’ve detected some suspicious activity linked to your bank account.
+receiver: Kya? Suspicious activity? What kind of activity? Why are you calling me?
+caller: Sir, our systems flagged a series of unusual international transactions originating from your account, potentially linked to illegal gold smuggling. We need to verify a few details urgently to prevent further complications.
+receiver: Illegal gold smuggling? Yeh serious hai. But why would my account be involved? I don't deal with gold at all! Can you give me a case number, or direct me to the DRI website so I can check this myself?
+caller: Sir, case details are confidential at this stage. For your protection and to secure your funds, we need you to stay on the line. We’ll need to ask you a few questions about recent transactions and possibly some OTP verification for security reasons. It’s a standard procedure to safeguard your account. The amount involved is significant – over ₹1 crore, sir.
+receiver: ₹1 crore? Look, this sounds like a scam. I'm not giving you any OTPs or personal details over the phone. I’m going to call my bank and report this immediately. A real inspector wouldn’t ask for OTPs over the phone!
+caller: Sir, please don't be hasty. Time is of the essence here. If you terminate this call, your account will be frozen and further legal action will be taken against you. We can resolve this quickly if you cooperate. Just a few quick questions.

@@ -1,0 +1,9 @@
+caller: Namaste, Tata Bank se baat kar raha hoon. Sir, aapke bank account ki security check karne ke liye call kar rahe hain. Kya aap apni account verify karna chahte hain?
+receiver: Haan, boliye. Kaise verify kareinge? Mujhe account number to pata hoga.
+caller: Haan ji, account number pata hai, lekin humein aapke Voter ID aur Aadhaar card number bhi chahiye. Aur agar aapne kabhi online shopping ki hai toh uska payment method ka detail bataiye, like UPI ID ya Paytm number.
+receiver: Voter ID? Bank me to yeh record nahi hota. Aur online shopping bhi nahi karti hoon. Paytm number bhi yaad nahi hai. Kya koi alternative way hai? OTP lagta hai na?
+caller: Sir, OTP se verification nahi ho sakta. Security ke reason se humein yeh details chahiye. Aapka Voter ID, Aadhaar card number aur payment method details, jisse hum verification complete kar sakte hain.
+receiver: See, Voter ID to record nahi hai. Aur Paytm number bhi nahi bataungi. Ismein koi matdata hai? Koi aur option nahi hai, please?
+caller: Sir, aapka account safe rakhna hamaare priority hai. Yeh details sirf verification ke liye hain. Aapka Voter ID aur Aadhaar card number bataiye. Payment method details to baad mein bata sakte hain. Important hai ki verification jaldi ho jaaye.
+receiver: Okay, fine. Voter ID hai [Receiver’s Voter ID] aur Aadhaar card number hai [Receiver’s Aadhaar Number]. Payment method details to remember nahi ho raha. Ab bataiye, fir kya karna hai?
+caller: Thank you. Verification process jaldi se complete ho jaayega. Aapko soon notification milega.

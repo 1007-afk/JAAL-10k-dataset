@@ -1,0 +1,8 @@
+caller: Noida Airtel customer care se bol raha hoon. Aapka prepaid account 24 hours mein suspend ho jaega. Kya aap isko reactivate karna chahte hain?
+receiver: Haanji, Airtel se? Arey yaar, yeh kya chal raha hai? Mera account suspend hogya? Yeh to bilkul bhi sahi nahi hai. Koi problem to nahin hai mere side se, shayad network mein kuchh gadbad hai. Aap check karein network connectivity kaise hai?
+caller: Sir, please tension mat lo. Hamari team check kar rahi hai. Aapse kuch information chahiye taaki hum verification kar sakein. Aapka complete name aur bank account number bataiye please?
+receiver: Mein Harish Patel hoon. Aur mera bank account number 1234567890123456 hota hai. Aap bataiye, yahaan kya ho raha hai? Kya mujhe kuchh payment karna hoga?
+caller: Shukriya Harish ji. Aapka number 1234567890123456, correct hai na? Sir, hamare system mein ek minor glitch aa gaya hai. Isliye aapka account automatically suspend hone wala hai. Hum isko jaldi fix kar sakte hain. Bas aapko ek small amount transfer karna hoga. OTP verify karne ke liye. Kya aapko OTP mila hai?
+receiver: OTP? Kya OTP? Mujhe abhi tak koi OTP nahi mila hai. Aap ye kya kar rahe hain? Phone par koi OTP bheja hua hai kya aapne? Yeh sab kya ho raha hai?
+caller: Haan, woh OTP aapke registered WhatsApp ID pe gaya hoga. Hamare system mein automatic process hai. Kindly woh OTP bataiye taaki hum account reactivate kar sakein. Please sir, time bahut kam hai.
+receiver: WhatsApp? Arey, mera WhatsApp ID aapke paas registered hoga na? Mujhe WhatsApp check karna padega abhi. Yeh sab itna complicated kyun hai? Main WhatsApp check karta hoon aur agar OTP mila toh bataunga. Please thoda wait karein.

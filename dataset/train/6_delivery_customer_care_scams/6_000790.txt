@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Kapoor? My name is Rohan from SwiftShip Logistics. We’re calling about a package addressed to you.
+receiver: Haan, main Mrs. Kapoor bol rahi hoon. SwiftShip? Kya baat hai?
+caller:  Ma’am, there’s been a slight issue with the delivery. It appears there’s an outstanding customs fee of ₹2,800 before we can complete the shipment. It’s a standard procedure for international packages.
+receiver: ₹2,800? Lekin maine toh kuch bhi international order nahi kiya tha.
+caller:  I understand, ma’am, but our system shows this fee. To verify and clear the payment, we need to quickly confirm your OTP. It’s a one-time verification for security purposes.
+receiver: OTP?  Kya kar rahe ho?  Koi scam to nahi hai?
+caller: Ma’am, please don’t worry. It’s perfectly safe. If you don’t verify, we will have to return the package to the sender, and you will not receive your item. We can also guide you to a secure payment gateway if you'd prefer.
+receiver:  Payment gateway?  Ye toh bahut hi suspicious lag raha hai.  Main police mein report karungi agar kuch bhi ghalat hua.

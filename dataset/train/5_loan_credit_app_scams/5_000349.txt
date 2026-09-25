@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? We're calling from LoanExpress India. We've reviewed your recent online application, and you're pre-approved for a loan of ₹75,000! This is a fantastic opportunity to consolidate your debts or cover unexpected expenses.
+receiver: LoanExpress India? I did apply for a loan recently… but I don’t remember seeing anything about being pre-approved. How much interest would it be?
+caller: Congratulations! The interest rate is a very competitive 8% for a limited time. To finalize the process, we need to verify a few details. Can you confirm your date of birth and the last four digits of your Aadhaar card? Just standard verification for security purposes.
+receiver: My Aadhaar details? Over the phone? That sounds a bit risky, doesn't it? I’m not sure I’m comfortable sharing that.
+caller: Don't worry, Priya Ji! It's completely secure. We use encrypted channels. Think of it as confirming you’re really you. We wouldn't want someone else claiming your loan! We’ve already processed the initial paperwork – just a quick verification and the money will be in your account within the hour. Just send those four digits.
+receiver: Okay… fine. It's 4589. But I want to know, what about processing fees? And how will the repayments work? I don’t want any hidden charges.
+caller: Excellent! The final step is a small processing fee of ₹2,500 to activate your account. You can deposit this amount into our secure account – the details are: Account Number 1234567890, IFSC Code LOANEX001. Once confirmed, your loan will be disbursed immediately.
+receiver: ₹2,500? But you said it was a

@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit Sharma calling from LoanExpress. We've noticed you recently searched for quick loans online. We can offer you a loan approval instantly, no credit check required! Are you interested in a loan, sir?
+receiver: Haan, actually I am. I need around 25,000 rupees. What’s the process?
+caller: Wonderful! Just to verify your identity, can you please share the last four digits of your Aadhar card? It's just a formality, sir. And also, what is your occupation?
+receiver: Okay, the last four digits are 4567. I’m a teacher.
+caller: Excellent, sir! Your Aadhar details match. The loan is approved for 25,000 rupees. However, due to processing fees and insurance, we need a one-time advance payment of 3,500 rupees. This will be refunded upon loan disbursement. Can you transfer it to the given UPI ID?
+receiver: 3500 rupees upfront? That seems a bit unusual…
+caller: Sir, this is standard procedure. Without this, we cannot release the loan. Many people are getting quick loans from us daily. Please transfer the money quickly, otherwise the offer will expire. We need to process it urgently or someone else will take your slot.

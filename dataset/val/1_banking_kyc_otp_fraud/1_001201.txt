@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main State Bank of India se Neeraj bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye verify karna hoga.
+receiver: State Bank of India? Maine to koi transaction nahi kiya. Kya hua?
+caller: Sir, ek online transaction attempt kiya gaya tha, jo blocked ho gaya tha. Par aapki account safety ke liye, mujhe aapka OTP verify karna hoga. Woh aapke phone par aayega.
+receiver: OTP? Sir, main bank se aise kabhi call nahi receive kiya. OTP phone pe share nahi karta. Yeh scam lag raha hai.
+caller: Sir, please understand. Isliye toh main call kar raha hoon. Agar aap OTP nahi dege toh account suspend ho sakta hai. Koi aur option nahi hai sir. Just the OTP please.
+receiver: Account suspend? Sir, mujhe toh koi official email ya SMS confirm karne ke liye aaya nahi. Aap mujhe bataiye aapka employee ID number kya hai? Aur main State Bank of India ke branch mein jaakar verify karwa lunga, phone pe nahi.

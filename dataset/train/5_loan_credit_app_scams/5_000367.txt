@@ -1,0 +1,9 @@
+caller: Hello, this is Priya calling from ‘FinFlex Loans’. We’ve noticed you recently applied for a loan on our website. Just confirming your details – is this still the correct mobile number, 9876543210?
+receiver: Ji, haan. Yeh mera number hi hai. Kya baat hai?
+caller: Great! We've pre-approved you for a loan up to ₹2 lakhs at a very special interest rate. However, to process the loan quickly, we need a small processing fee of ₹5,000 as a security deposit.
+receiver: ₹5,000? Seedha? But the website didn’t mention anything about a fee upfront.
+caller: Yes, it’s a standard procedure to prevent fraudulent applications. This fee ensures you're serious about receiving the loan. Once the loan is disbursed, this amount will be credited back to your account along with your loan. Trust me, it’s a very good deal.
+receiver: Hmm… I’m a bit hesitant. Can I speak to someone about this, maybe a supervisor?
+caller:  I understand your concern, but our supervisors are very busy right now. Look, if you don't pay the ₹5,000 now, this pre-approved offer will expire in just 30 minutes. We don’t want you to miss out!
+receiver: Okay, fine. But I want the money credited back to my account as soon as the loan is given.
+caller: Absolutely! I’ll make a note of it in your file. Please send the ₹5,000 to this UPI ID: xyz123@bank. You’ll receive your loan within the hour once the payment is confirmed.

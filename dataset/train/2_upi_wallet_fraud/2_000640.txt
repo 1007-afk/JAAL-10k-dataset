@@ -1,0 +1,7 @@
+caller: Namaste, Sir? Main FreeCharge se bol raha hoon. Aapke FreeCharge wallet mein 5000 ka cashback offer aa gaya hai.
+receiver: FreeCharge se? Mere wallet mein? Kaise? Mein toh koi offer check nahi kiya.
+caller: Haan Sir, ek special promotion hai. Bas ek chota verification process hai. Aapko ek OTP enter karna hoga, tab cashback aapke wallet mein add ho jayega.
+receiver: OTP? Verification? FreeCharge toh aise nahi karta. Koi link bhejo ya kuchh.
+caller: Sir, security ke vajah se hum link nahi भेजते. OTP sirf verification ke liye hai. Bus ek baar enter kar dijiye, cashback mil jayega. Sirf 2 minute ka kaam hai.
+receiver: Arey yaar, mujhe kuch gadbad lag rahi hai. FreeCharge app mein check kar leta hoon. Tumhara naam batao, kaun bol raha hai?
+caller: Sir, mera naam Deepak hai. Main FreeCharge customer care se bol raha hoon. Sirf ek OTP chahiye, phir aapka cashback activate ho jayega. Jaldi kijiye, offer limited time ke liye hai.

@@ -1,0 +1,16 @@
+caller: Namaste madam, main Punjab National Bank se bol raha hoon. Aapke account mein kuch suspicious activity dikh rahi hai, aur isliye humein aapki KYC process ko update karna hoga.
+receiver: Oh, hello. PNB se? Kya suspicious activity? Mujhe toh kuch pata nahi.
+caller: Madam, humein kuch online transactions dikh rahe hain jo aapke usual pattern se different hain. Aapka account secure rakhne ke liye, humein ek small verification karna hoga.
+receiver: Verification? Kis type ka verification? Aur online transactions toh main regularly karta hoon.
+caller: Madam, humein aapke Aadhaar number se linked mobile number par ek OTP bheja jayega. Us OTP ko humein batayiye, aur hum sab kuch verify kar lenge. Yeh bilkul safe hai.
+receiver: OTP? Aapko OTP kyun chahiye? PNB wale kabhi bhi OTP nahi maangte. Yeh toh scam lag raha hai.
+caller: Madam, yeh koi scam nahi hai. Hum sirf aapki account ki security check kar rahe hain. Agar aap OTP nahi denge toh aapka account temporarily block ho sakta hai.
+receiver: Block ho jayega? Arre yaar. Par mujhe OTP dene mein bhi darr lag raha hai.
+caller: Madam, darrne ki zaroorat nahi hai. Hum PNB ke official representative hain. Hum aapko account number aur registered mobile number bata sakte hain, aap verify kar lijiye. Phir OTP bata dijiye.
+receiver: Account number toh mujhe pata hai. Mobile number batao.
+caller: Ji madam, aapka registered mobile number 9876543210 hai. Ab OTP aayega, woh bata dijiye.
+receiver: Hmm… 9876543210… theek hai. Ek minute… OTP aaya, 567890.
+caller: Dhanyavaad madam. Thank you so much for your cooperation. Aapka account secure ho gaya hai.
+receiver: Secure ho gaya? Pakka?
+caller: Absolutely madam. Aur aapko isliye ek special offer mil raha hai, ₹500 ka cashback aapke account mein add ho gaya hai!
+receiver: ₹500 cashback? Wow! Shubh kamanaayein!

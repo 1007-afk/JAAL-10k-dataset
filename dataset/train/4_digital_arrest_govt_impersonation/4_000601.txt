@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Singh, calling from the Delhi Customs Department.
+receiver: Haan, main hi hoon. Inspector Singh? Kya baat hai?
+caller: Sir, we’ve intercepted a parcel registered under your name at the Indira Gandhi International Airport. Initial scans indicate it contains suspicious items – potentially linked to a money laundering operation.
+receiver: Yeh kya keh rahe hain aap? Parcel? Main toh koi parcel nahi bheja. Aur money laundering? Main toh retired banker hoon!
+caller: Sir, please don't be alarmed. It's better to cooperate. We need to verify a few details to clear this up. To proceed, we require a small processing fee of ₹15,000 to facilitate the inspection and legal clearance.
+receiver: ₹15,000? Kaise karun main? Yeh toh bohot zyada hai. Aur inspection ka proof dikhaiye.
+caller: Sir, this is a standard procedure to prevent further complications. We’ll transfer you to a senior officer for confirmation. Just send the money to this UPI ID: customs.verification@axisbank.
+receiver:  Dekhiye, mujhe yeh galat lag raha hai. Main police station mein jaaunga aur complaint karunga agar aap mujhse paise maang rahe hain.
+caller: Sir, please understand, delay will only escalate the matter. We have your details and are already preparing a legal notice. One moment while I connect you to the Senior Inspector.

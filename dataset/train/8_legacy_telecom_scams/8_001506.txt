@@ -1,0 +1,9 @@
+caller: Namaste! Namaste! Main Rajesh hoon, Prize Information Department se baat kar raha hun. Aapke naam par ek bahut shrimani jeet mili hai - ₹15,000! Haan, ₹15,000!  Mujhe yeh bataane mein khushi aa rahi hai ki aapko yeh jeet mili hai.  Aapko yeh claim karne ke liye, mujhe 8800-9876545 pe call karna hoga. Yeh ek samayik offer hai, aur sirf 3 jeet lagi hain.  So, jaldi kijiye, call karein aur apni prize secure karein!
+receiver: Namaste Rajesh Ji! ₹15,000? Wah! Thank you so much for informing me. Could you repeat the number please? 8800-9876545?
+caller: Haan ji, phir se deta hun – 8800-9876545.  Yeh sirf aaj raat tak chalega, aur phir toh kabtak pata nahi!  Aapko koi bhi charge nahi dena hai, sab kuch free hai.  Baki, jaldi kijiye!
+receiver:  Free? Seriously? Okay, I’ll call now. What information will I need to provide when I call?
+caller:  Haan ji, sab free hai!  Aapko sirf apna naam aur address batana hoga.  Aur haan, apna pan card number bhi dete hue bolna hoga ki aap agree karte hain.  Yeh sirf verification ke liye hai.
+receiver:  Pan card number? Really? Okay...  I think I will wait a bit before giving out any personal information.
+caller:  Haan ji, bilkul thik hai!  Par agar aap jaldi call karein, toh ye offer tumhare liye haram ho jayegi!  Bas 2 jeet lagi hain ab, sirf dohi hi bache hain!  Call karein 8800-9876545!
+receiver:  Oh, bas 2 jeet lagi hain?  Okay, okay… I’ll call then.  Thank you!
+caller:  Haan ji, bilkul sahi!  ₹15,000 apki wait kar rahe hain!  Don't forget to call 8800-9876545!  Ji saahab!

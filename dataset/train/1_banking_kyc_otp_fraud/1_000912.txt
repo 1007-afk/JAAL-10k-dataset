@@ -1,0 +1,7 @@
+caller: Namaste, main State Bank of India se Kartik Sharma bol raha hoon. Aapke account mein ajeeb transactions dikhe rahe hain. KYC verification karna hoga urgent.
+receiver: KYC? Par hum toh bank mein bhi update karwa chuke hain.
+caller: Haan, lekin system mein kuch discrepancy hai. Aapko OTP milna chahiye, woh bataiye please.
+receiver: Theek hai. OTP aaya. 457892.
+caller: Thank you. Ab aapko apna PAN card number dehna padega, security ke liye.
+receiver: PAN card number? Yeh kitna safe hai? Mujhe thoda doubt ho raha hai.
+caller: Sir, bina PAN card ki verification kiye, account suspend bhi ho sakta hai. Abhi de dijiye please.

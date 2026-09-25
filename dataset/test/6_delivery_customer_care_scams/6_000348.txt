@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Rahul bolta hoon. Aapke naam par ek parcel aa raha hai, lekin address verification mein ek problem aa rahi hai.
+receiver: Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, system mein dikh raha hai ki aapne payment karta time ek OTP galat kiya tha, isliye parcel hold ho gaya hai. Parcel release karne ke liye, aapko ek small verification fee bharne hogi.
+receiver: Kitni fee hai? Aur mai toh kabhi bhi OTP galat nahi karta.
+caller: Sir, sirf ₹350. Aapko Paytm se bhar dena hai. Ek number main send karta hoon. Jab bhar denge, parcel aapke address par aajayega.
+receiver: ₹350? Woh bhi fee? Aur mujhe koi link ya message kyun nahi aaya? Mai complaint kar dungi.
+caller: Sir, ji, technical issue hai. Jaldi se fee bhar den, parcel aajayega. Aur complaint mat karna, warna parcel cancel ho jayega. Abhi fee bhar do please.

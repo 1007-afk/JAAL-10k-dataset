@@ -1,0 +1,8 @@
+caller: Namaste ji, aapka parcel Delhi mein deliver hone wali thi, lekin delivery guy ko ek chhoti si problem mili. Isliye woh aaj nahi paaye. Agar aapko isko dobara schedule karna hai to please 09876543210 pe call karein. Shukriya.
+receiver: Oh, arrey haan! Maine hi dekha, delivery miss ho gaya tha. Mai thoda tension mein tha, fir se call karta hoon.  Thank you bolne ke liye.
+caller: Haan ji, thanks. Aapko notification mila hoga ki delivery miss hui thi.  Is baar humne online scheduling ka option dala hai, ispe aap apni pasand ka time select kar sakte hain.  Reference number hai 7894561.  Please 09876543210 pe call karein. Shukriya.
+receiver: Okay, understood. Reference number 7894561, and that number is 09876543210.  Mai thoda der mein call kar leta hoon, okay?  Thanks again.
+caller: Namaste ji, aapka parcel Jaipur mein deliver hone wali thi, lekin driver ko traffic mein bahut mushkiliyan mili. Isliye woh aaj delivery nahi kar paya. Agar aapko isko dobara schedule karna hai to please 09876543210 pe call karein. Shukriya.
+receiver: Arrey yaar, phir se miss call?  Mai toh ab frustrated ho raha hoon!  Kya hua driver ko? Traffic mein kya ho gaya?  Okay, fine. Reference number 7894561, and the number is 09876543210.  Mai thodi der mein call kar leta hoon, please koi aur message mat bhejo.
+caller: Arre sir, mai samajhta hoon aapko inconvenience ho rahi hai.  Koi baat nahi, jab aap free honge to call kar lenge.  Humare office ka kaam hai sirf delivery ko reschedule karna.  Reference number 7894561, number 09876543210.  Apni comfort level ke according call karein.  Shukriya.
+receiver: Haaan, thank you.  Samajh gaya main.  Mai thoda busy tha, lekin ab pakka call karunga.  Reference number 7894561, 09876543210.  Got it.  Thanks for being patient.

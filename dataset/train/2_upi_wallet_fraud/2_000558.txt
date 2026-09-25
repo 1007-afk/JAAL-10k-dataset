@@ -1,0 +1,9 @@
+caller: Namaste! Main BharatPay se Rohit bol raha hoon. Aapke BharatPay account mein cashback offer chal raha hai. Aapko ₹500 ka cashback mil sakta hai, lekin iske liye ek verification process complete karna hoga.
+receiver: Cashback? ₹500? Verification ka kya hai process?
+caller: Haan ji! Verification bahut easy hai. Aapko ek link pe click karke apna BharatPay wallet number verify karna hai. Link ye hai: bharatpay-verify.info. Jaldi karein, offer limited time ke liye hai!
+receiver: Bharatpay-verify.info? Yeh link theek lag raha hai? BharatPay ka official link toh alag hota hai.
+caller: Haan ji, yeh ek special verification link hai. Aapko sirf apna wallet number aur ek OTP enter karna hai. ₹500 cashback aapke account mein instantly credit ho jayega. Koi tension nahi lene ki baat hai.
+receiver: OTP kaha bheja jayega? Aur mujhe BharatPay app mein toh koi offer dikh nahi raha.
+caller: OTP aapke registered mobile number pe bheja jayega. Aapko sirf woh OTP yahan enter karna hai. Jab aap verification complete kar lenge, toh aapka cashback confirm ho jayega. Jaldi karo! Offer khatam hone wala hai!
+receiver: Okay, thik hai. Main OTP enter karta hoon. Par agar kuch gadbad huyi toh main tum logon ko report karunga.
+caller: Bahut achha! ₹500 cashback ka maze lo! Verification complete ho gaya hai. Aapka account ab secure hai.

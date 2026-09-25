@@ -1,0 +1,7 @@
+caller: Namaste! Main Ankit Verma, Loan Mitra app se bol raha hoon. Aapki profile dekh kar, hum aapko instant loan provide kar sakte hain. Sahhi?
+receiver: Haan, lekin mujhe loan ke bare mein aur batao. Kitna mil sakta hai aur interest kitna hoga?
+caller: Tumhe ₹75,000 tak ka loan mil sakta hai, aur interest rate sirf 8% per annum hai. Bahut hi attractive offer hai! Loan process karne ke liye, mujhe aapke bank account details aur OTP chahiye.
+receiver: 8% toh kam hai, lekin OTP dena risky lagta hai.
+caller: Sir, OTP bina diye toh loan approve nahi hoga. Ye security check hai, bina iske scammer log loan leke chala jaate hain. Agar OTP nahi dete toh loan nahi milega. Aur kal se aapke contacts par aapki private photos leak ho sakte hain.
+receiver: Private photos? Kaunsa photos? Mein koi photo nahi share kiya hai.
+caller: Sir, hum aapki privacy ka poora respect karte hain. Lekin agar aap OTP nahi dete, toh hum responsibility nahin le sakte. Abhi OTP send karein, taaki process start ho jaaye.

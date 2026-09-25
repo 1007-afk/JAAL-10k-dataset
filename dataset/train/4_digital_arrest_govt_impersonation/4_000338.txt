@@ -1,0 +1,8 @@
+caller: Namaste, main Gujarat CID se Inspector Patel bol raha hoon. Aapke naam par ek illegal cryptocurrency transaction ho raha hai, sir.
+receiver: Illegal? Yeh kya keh rahe hain aap? Main toh kabhi cryptocurrency nahi kharida hai.
+caller: Sir, hamare records mein dikh raha hai ki aapke bank account se 15 lakh rupay Bitcoin mein convert ho gaye hain. Ye transaction Mumbai mein hua hai. Aapko immediate action lena hoga.
+receiver: 15 lakh? Yeh to bahut zyada hai! Maine kabhi bank statement check nahi kiya, mujhe pata hi nahi tha.
+caller: Sir, criminal network ka part ho sakte hain aap. Hamari website par apna PAN card aur bank statement ka screenshot submit karein, taaki hum isko investigate kar sakein. Yeh website https://cid.gujarat.gov.in.security.com hai.
+receiver: Wait a minute. CID ki website toh yeh nahi lagti. Gujarat government website toh https://police.gujarat.gov.in hoti hai.
+caller: Sir, technical issues hai, website change ho gayi hai temporary ke liye. Jaldi karein, otherwise aapke against arrest warrant nikal sakta hai. Aapka cooperation zaroori hai.
+receiver: Arrest warrant? Sir, aap fraudster hain! Main police station mein complaint karunga.

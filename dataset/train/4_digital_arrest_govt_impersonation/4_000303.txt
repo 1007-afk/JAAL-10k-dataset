@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is a final notice from the Directorate of Revenue Intelligence, DRI. We have detected suspicious activity linked to a parcel registered under your name, believed to contain contraband.
+receiver: Kya? Main Sharma hoon, lekin parcel kis baat ka? Mujhe toh koi parcel nahi mila.
+caller: Sir, please do not interrupt. This is a serious matter. The parcel’s origin is questionable, and it's linked to potential money laundering activities. To clear this up and avoid legal proceedings, you need to pay a nominal processing fee of ₹15,000. This will allow us to investigate further.
+receiver: ₹15,000? Yeh kya bakwaas hai? Main police mein complaint karunga!
+caller: Sir, please, understand. If you don’t cooperate, we will have to issue an arrest warrant in your name.  We're currently on a video call to verify your identity and prevent you from destroying evidence. I’ll connect you to our supervising officer, Inspector Verma, in just a moment. Please remain on the line.
+receiver: Inspector Verma? Main toh kabhi police mein nahi gaya. Yeh fraud hai!
+caller: Sir, Inspector Verma will explain everything more clearly. It's just a standard procedure. To proceed, could you please confirm the last four digits of your bank account number for verification purposes? This is purely for security.
+receiver:  Account number? Main tumko kuch bhi nahi batayunga.  Yeh scam hai, clear hai!
+caller: Sir, your cooperation is crucial.  The deadline to resolve this matter is within the hour.  Failure to comply will result in immediate legal action.  Let's just confirm those last four digits, sir… for your own safety.

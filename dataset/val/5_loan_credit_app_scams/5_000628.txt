@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is Akash from QuickCash Solutions. We've pre-approved you for a personal loan of up to ₹75,000 with a very low interest rate. Just need to verify a few details.
+receiver: Oh really? A loan? I wasn’t really looking for one, but ₹75,000 would be helpful. What’s the catch?
+caller: No catch, sir! Just a small processing fee of ₹2,500 to activate your account. It’s a standard procedure. Once the fee is paid, the loan will be credited to your account within 15 minutes. You can pay it via UPI to this number: 9876543210.
+receiver: ₹2,500 upfront? That seems a bit much. And why can’t I pay it online through your website?
+caller: Sir, due to a system upgrade, online payments are temporarily unavailable. This UPI payment is the fastest and most secure method right now. Think of it as a security deposit. Otherwise, we might have to cancel the approval. We wouldn't want that, would we?
+receiver: Okay, fine. I’ll send the ₹2,500. But I want my loan money immediately after.
+caller: Excellent decision, sir! Once the payment reflects, send us a screenshot. Then, to comply with RBI regulations, we need a copy of your ID proof and a recent photograph for verification. It’s just a formality.

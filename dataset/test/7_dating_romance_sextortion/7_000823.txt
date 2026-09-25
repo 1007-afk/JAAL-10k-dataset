@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? My name is Rohan, I’m calling from TrulyFlirt. I saw your profile, and wow! You’re stunning.
+receiver: Hi Rohan, yes, this is Priya. TrulyFlirt? I don’t think I’m on there.
+caller: Oh, sometimes the system picks up profiles! Anyway, you seem like a lovely person. I’m working in Dubai right now, but I'm planning to come back to Mumbai soon. I’ve been thinking about finding someone special, someone I can build a future with.
+receiver: Dubai, huh? That’s far. And a future? It’s nice to hear you’re looking for something serious, but it’s early to talk about that.
+caller: Exactly! But I just feel a connection already, Priya.  Listen, my business here is a little tricky at the moment. My main client, they messed up a big payment transfer. I'm short of funds to pay my workers this week. It's just a temporary setback, but I could really use a small loan of 50,000 rupees, just until the money clears. I'll pay you back double as soon as it does, I promise.
+receiver: 50,000 rupees? Rohan, I hardly know you. And this sounds like a really big ask, especially when you just contacted me. I’m not comfortable with that at all.
+caller: Please, Priya, I wouldn't ask if I wasn’t desperate. I'm sending you a picture of the transaction documents right now. It's really important, and I wouldn’t want to let down my employees. Just trust me on this one.
+receiver: I’m not going to trust you, Rohan. This sounds like a scam. I’m ending this conversation now.

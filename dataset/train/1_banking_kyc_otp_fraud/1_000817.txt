@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank se bol raha hoon. Is this Mr. Sharma?
+receiver: Haanji, main hi hoon. Bolo?
+caller: Achha Mr. Sharma ji, humko ek suspicious login attempt aapke account se detect hua hai. Lagta hai koi aapke user ID aur password ka misuse karne ki koshish kar raha hai.
+receiver: Kya? Kaun misuse kar raha hai? Mein toh aajkal phone bhi kam use karta hoon.
+caller: Ji sir, hum aapki security ke liye kuch verification steps lene chahte hain. Hamara system dikha raha hai ki ₹5000 ka transaction ek online gaming website par kiya gaya hai. Kya aapko is bare mein koi pata hai?
+receiver: ₹5000? Gaming website? Nahin, bilkul nahin! Main toh gaming bhi nahi karta.
+caller: Sir, chinta mat kijiye. Verification ke liye, humko aapka OTP chahiye jo aapko aapke registered mobile number par aa raha hai. Please share karo, sir, taaki hum aapke account ko secure kar sakein.
+receiver: OTP? Nahin, main OTP nahi dunga! Bank kabhi OTP maangta nahin hai!

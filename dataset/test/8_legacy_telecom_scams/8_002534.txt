@@ -1,0 +1,10 @@
+caller: Namaste, mereko maaf kijiye ki aapko disturb kar raha hun. Yeh ‘SoundWave’ team se baat chal rahi hai. Hum ne dekha hai ki aapki account mein ek special deal hai – aapko ek mauqa milta hai ki aap apne phone par free mein 6 month ke liye unlimited sound effects le sakte hain! Kaise ho aap?
+receiver: Oh, namaste! Koi problem nahi, disturb karein. SoundWave team? Unlimited sound effects? Woh sunkar bahut mazaa aaya! Haan, mujhe jankari chahiye. Kya karna hai?
+caller: Achhi baat hai, [Receiver’s Name] ji! Sir/Madam, yeh bahut asaan hai. Humare paas aapke phone ka IMEI number check karne ki zaroorat hai, sirf isliye ki humne aapko sahi sound effects de sakein. Kya aap agree karte hain?
+receiver: IMEI number? Woh kya hai? Aur aap yahaan kya kar rahe hain?  Koi hidden charges nahi honge na?
+caller: Haan, [Receiver's Name] ji, koi hidden charges nahi honge. Yeh ek free service hai.  IMEI number aapke phone mein chhupa hota hai.  Humare technical team ko yeh dekhna hai ki aapka phone support karta hai ya nahin.  Agar aap agree karte hain, to humein baraabar ek OTP verify karna hoga jo aapke phone pe ayega.
+receiver: OTP?  Haan, OTP bhejo.  Main taiyar hoon.  Kahan se ayega OTP?
+caller: OTP aapko SMS ke dvara bheja jayega.  Aapko ek 5 digit code milega.  Jaise hi aapko woh mile, please mujhe bataiye.  Yeh process sirf 1 minute ka hai.
+receiver: Okay, wait… OTP aaya hai. [Reads out OTP].  Yeh hai [OTP Code]. Ab kya?
+caller: Shukriya! OTP shukriya.  Ab hum aapki account mein yeh offer activate kar denge.  Aapko notification milega.  Agar aapko koi confusion ho toh hamare helpline number [Phone Number] par call kar sakte hain.  Aapka din khubsurat ho!
+receiver: Theek hai. Dhanyavaad.

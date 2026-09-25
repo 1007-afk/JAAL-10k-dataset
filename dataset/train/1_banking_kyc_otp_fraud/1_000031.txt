@@ -1,0 +1,17 @@
+caller: Namaste! Ji haan, main aapse baat kar rahi hoon. Aapne recently ek interesting offer dekha hoga – ‘5000 Rupees Cashback on Flipkart’!  Is Diwali, Flipkart se ek surprise!  Just send an OTP to 8006 and get instant cashback.  Aapko yaad hai kya? Main sirf yeh check karna chahti hoon ki aapko yeh offer pasand aaya hai aur aapki details correct hain.  Kya aapne kabhi is offer ke baare mein suni hai?
+receiver: Oh haan, mujhe notification aaya tha. Flipkart ka offer to bahut acha hai. Kya karna padta hai ab?
+caller: Shurp! So, aapne offer dekha hai, it’s great. To proceed, mujhe bas kuchh information chahiye. Aapka complete naam aur aapka mobile number, jis number par aap Flipkart pe purchase karte hain, bataiye. Aur kya aapke paas koi valid email ID hai jahaan Flipkart aapko updates bhej sakta hai?
+receiver: Haan, mera naam Priya Sharma hai, aur number hai 9876543210. Email ID hai priya.sharma@gmail.com.  Aap bataiye, phir kya?
+caller: Excellent! Dhanyavaad, Priya Sharma.  So, mere paas sirf yeh details hain.  Ab aapko Flipkart se ek OTP aa jaayega, jo aap 8006 par bhejo.  Aur Flipkart aapko app par cashback ki confirmation dega.  And remember, yeh offer limited time ke liye hai.  Any doubts?
+receiver: Haan, yeh cashback kitna hoga? ₹5000 toh hoga na? Just wanted to know.
+caller: Haan, exactly! ₹5000 cashback, absolutely! But, agar aap 30 days mein Flipkart se ₹10000 se zyada purchase karte hain, toh cashback ₹5000 limit pass hojayega.  Aapko ek SMS bhi aa jayega jismein sab details likhe hue hain.  Chaliye, signup kar dein?
+receiver: ₹10000 se zyada purchase karna hai? Theek hai, woh possible hai. Chalo, signup kar do. Thanks for the clarification.
+caller: Namaste ji, main India Telecom se baat kar rahi hoon. Aapne recently ek special offer dekha hoga - 'Free Data & Calling'!  Har month ₹1000 free data aur ₹500 free calling.  Yeh offer sirf limited time ke liye available hai. Aapko yaad hai kya? Main sirf yeh check karna chahta hoon ki aapko is offer mein interest hai aur aapki details sahi hain. Kya aapko is offer ke baare mein pata hai?
+receiver: Oh haan, mujhe notification aaya tha. Free data aur calling to bahut achcha hai.  Kyun sign up karna padta hai?
+caller: Great! So, aapne offer dekha hai, excellent! To proceed, mujhe aapka full name aur aapka mobile number chahiye.  Aur kya aapke paas koi valid email ID hai jahan hum aapko offer details bhej sakein?
+receiver: Mera naam Rohan Kumar hai, aur number hai 8877665544. Email ID hai rohan.kumar@yahoo.co.in.  Aap bataiye, fir kya?
+caller: Thoda sahmat rahein, Rohan Kumar.  To, aapko abhi UPI ID generate karne hogi.  Iske liye, aapko Paytm ya Google Pay par ₹199 deposit karne hone vale hain.  Yeh deposit aapko refund ho jayega.  Phir aapko free data aur calling mil jayega.
+receiver: ₹199 deposit karna hai?  Bas free data aur calling ke liye?
+caller: Haan, absolutely! ₹199 deposit karne se aapko free data aur calling mil jayega.  Aur aapko ek SMS bhi aa jayega jismein sab details likhe hue hain.  Chaliye, signup kar dein?
+receiver:  Hmm... ₹199 deposit karna hai?  Kuch confusion hai.  Aap bol rahe hain ₹199 deposit karne se free data aur calling milega?
+caller: Haan, absolutely! Iske baad aapko ek verification process karna hoga, aur phir aapko free data aur calling mil jayega.  Aapko koi darrni nahi lagani hai.  Chaliye, signup kar dein?

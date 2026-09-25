@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Verma, associated with the mobile number ending in 789? I’m calling from ‘QuickCredit India’, and we have excellent news! Your application for a personal loan has been pre-approved!
+receiver: Haan, main Priya Verma hoon. Loan ke baare mein kya news hai?
+caller: Fantastic! You’re eligible for a loan up to ₹10 lakh at a very competitive rate. To activate this, we just need a small processing fee of ₹5,000 to verify your account. This is a one-time charge, and it will be deducted immediately.
+receiver: ₹5,000? Processing fee? Loan ke pehle? Yeh toh thoda zyada lag raha hai.
+caller: Absolutely necessary, Priya ji! This ensures your safety and prevents fraudulent activity. Think of it as an insurance policy. We’ll send you a secure link – quickcreditverify.com – where you can make the payment. Just a few minutes, and your ₹10 lakh loan is yours! Don’t miss out!
+receiver: Quickcreditverify.com?  Yeh link safe hai? Main abhi check karta hoon.
+caller: Yes, absolutely safe! It's our official verification portal. The payment gateway is encrypted and secured with the latest technology. Have you made the payment yet? Time is running out - the offer is only valid for the next 15 minutes. We need to confirm the ₹5,000 to release your funds.
+receiver: Woh... mujhe bas ek minute dedo. Main check karta hoon.

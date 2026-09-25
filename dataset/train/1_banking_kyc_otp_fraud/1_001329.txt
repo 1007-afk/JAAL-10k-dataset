@@ -1,0 +1,7 @@
+caller: Namaste! Mai ICICI bank se Riya bol rahi hoon. Aapka account suspend hone ka risk hai. KYC update karne ke liye urgent call kar rahi hoon.
+receiver: KYC update? Account suspend ho jayega? Kya karna hai?
+caller: Haanji, government guidelines ke according, aapko apna KYC update karna hoga. Iske liye mujhe aapka Aadhaar card number aur bank account number chahiye.
+receiver: Aadhaar number aur bank account number phone pe? Yeh thoda risky lag raha hai.
+caller: Sir, bilkul safe hai. Hum encrypted line se baat kar rahe hain. Agar aap update nahi karenge, toh aapka account block ho jayega. 24 hours ka time hai.
+receiver: Block ho jayega? Theek hai, batao, kya karu? Par mujhe ICICI bank ka official number bhi check kar leta hoon.
+caller: Sir, aapko bilkul check kar sakte hain. Lekin please jaldi karna, time kam hai. Aapka Aadhaar number bataiye, main process start kar dungi.

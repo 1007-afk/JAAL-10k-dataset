@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Akash from PhonePe security. We’ve detected unusual activity on your PhonePe account. Seems like someone tried to make a transaction from your wallet.
+receiver: PhonePe security? What kind of transaction? I haven’t done anything. What's my account balance showing?
+caller: Sir, someone attempted to send ₹12,000 to a new UPI ID. It was blocked, but to prevent further issues, we need to verify your identity. Just a few quick questions.
+receiver: ₹12,000? That’s a lot of money! Why didn't I get any notification? I’m very worried now. What are you asking for?
+caller: Sir, to confirm it’s really you, can you please tell me the last three digits of the bank account linked to your PhonePe wallet? It's just for verification purposes. Very important sir, just to ensure your money is safe.
+receiver: Bank account details? Over the phone? That sounds risky. PhonePe usually asks for OTPs, not bank account numbers. I’m not comfortable with this. Can you send me an OTP to my phone?
+caller: Sir, the OTP system is currently down due to a server upgrade. It's a temporary issue. The bank account verification is a faster and more secure alternative right now. Don’t wait, sir. This is to prevent someone else from accessing your account. Now, please provide the last three digits to keep your money safe.

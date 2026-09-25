@@ -1,0 +1,8 @@
+caller: Hello? Tumhe yaad hai na? Humne Insta pe baat ki thi, a couple of weeks ago? My name is Rohan, by the way.
+receiver: Oh, Rohan! Haan, yaad hai mujhe. Tumhara profile toh bahut attractive tha. Kya chal raha hai?
+caller: Bohot kuch, yaar! Been thinking about you a lot, actually. There's something I want to share with you. It's about a business opportunity. A friend of mine is launching a new online gifting platform, 'Desi Delights', and they’re looking for investors.
+receiver: Online gifting platform? Interesting. How much investment are we talking about? And what's the return? I'm a bit cautious, you know.
+caller: It’s a small initial investment, just ₹5000. But the potential return is huge! My friend says the first investors will get a special bonus – a lifetime discount and exclusive access to the premium gift range. To confirm your interest, you just need to send the money to this UPI ID: 9876543210@ybl. Just a small commitment to show you're serious.
+receiver: ₹5000? That’s not too bad. But can I see some details about 'Desi Delights' first? A website or something? And what’s the guarantee of this discount and access?
+caller: The website is still under construction, yaar, it’s a brand new thing! But trust me, it’s going to be huge. As for the guarantee, my friend has assured me personally. You're in on the ground floor, you know! Don't miss out on this chance to be part of something big. Hurry, spots are filling up fast.
+receiver: Okay, hold on. Let me just confirm. You're saying send ₹50

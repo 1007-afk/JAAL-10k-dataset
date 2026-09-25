@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma bol raha hoon, BharatPay se. Aapko cashback offer ke baare mein inform karne ke liye call kar raha hoon. BharatPay ne Diwali ke occasion pe ek special offer launch ki hai.
+receiver: BharatPay? Diwali offer? Kya offer hai?
+caller: Ji, aapko ₹5000 tak ka cashback milega, lekin iske liye aapko ek small processing fee deposit karni hogi. Yeh fee sirf ₹99 hai, aur wo aapke BharatPay wallet mein credit ho jayega cashback ke saath.
+receiver: ₹99 fee? Cashback ke saath? Process kaise hoga? Mujhe thoda doubt ho raha hai.
+caller: Bilkul safe hai, sir. Aapko sirf apna BharatPay app kholna hai, ‘Add Money’ option par click karna hai, aur ₹99 deposit karna hai. Ek minute mein aapko cashback milega. Please jaldi karo, offer limited time ke liye hai.
+receiver: Arre yaar, BharatPay app mein to add money ka option direct available hai. Kuchh gadbad lag rahi hai. Maine sunna hai ki aise offers fake hote hain aur log ka paisa loot lete hain.
+caller: Sir, aapko ₹5000 ka cashback chance miss mat karna. Yeh ek limited time offer hai, aur humein account verify karna hai. Please jaldi karo aur ₹99 deposit karo, otherwise offer expire ho jayega.

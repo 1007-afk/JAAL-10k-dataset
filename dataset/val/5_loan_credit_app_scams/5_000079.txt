@@ -1,0 +1,8 @@
+caller: Namaste! Main Ankit Verma, Axis Finance se baat kar raha hu. Aapke naam par ek personal loan ke liye application aaya tha, approve ho gaya hai, lekin security check ke liye kuch details chahiye.
+receiver: Oh, really? Loan approve ho gaya? Kitna amount approve hua?
+caller: Aapko ₹75,000 tak ka loan mil sakta hai, sirf 12% interest ke saath. Aapki PAN card number aur bank account details check karne hai, sir. Just few seconds lagega.
+receiver: Meri PAN card number main kisi ko nahi dena chahta. Yeh safe hai kya?
+caller: Sir, yeh Axis Finance ki official verification process hai. Agar aapko loan chahiye toh details de nahi toh loan reject ho jayega. Aur agar aap details nahi denge toh kal se aapka credit score bhi badal jayega.
+receiver: Credit score badal jayega? Kaise? Yeh thoda suspicious lag raha hai.
+caller: Sir, aapko zyada mat sochna. Time waste kar rahe hain aap. Dekhiye, aapka WhatsApp number pe ek OTP aaya hoga. Woh OTP mujhe bataiye.
+receiver: (Silence)

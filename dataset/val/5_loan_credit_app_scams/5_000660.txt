@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mera naam Rahul hai, FastCash Solutions se. Aapko urgent loan ki requirement hai kya? Abhi se hi approve ho jayega, koi problem nahi.
+receiver: Haan, sir. Mujhe ek kaam ke liye ₹10,000 chahiye the. Kitne rupay interest lagega?
+caller: Sir, aapki credit history acche hai toh interest bahut kam hoga, sirf ₹2000. Bahut easy hai. Sir, aapka pan card number bataiye, verification ke liye.
+receiver: Pan card number? Mujhe kuch shak ho raha hai.
+caller: Sir, bina verification ke loan nahi milega. Aise kaise chalega? Aur ek baat hai, agar aap time se payment nahi karenge toh hum aapki contacts ko morph kiya hua photo bhejenge. Apni safety ke liye jaldi karein.
+receiver: Contacts ko photo? Nahin, nahin! Main call kat raha hoon.
+caller: Sir, aap pagal ho gaye hain kya? Apne aapko barbaad kar rahe hain! Jaldi se details dijiye, warna bahut nuksan hoga!

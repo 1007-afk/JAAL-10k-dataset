@@ -1,0 +1,9 @@
+caller: Namaste sir, main Reliance Jio se bol raha hu. Aapke phone ka SIM card 18 ghante mein deactivate ho jaane wala hai. Kya aap isko renew karna chahenge?
+receiver: Haan? Reliance Jio? Mein toh Jio ka hi user hu. 18 ghante mein deactivate? Wo bhi kaise? Kya meri SIM mein koi technical issue hai?
+caller: Sir, aapki SIM mein koi technical problem nahi hai. Ye ek automated process hai. Agar aapko apna connection maintain karna hai, to sirf ek small confirmation lena hoga. Kya main aapke account mein jo details hain, like your registered mobile number and your joining date, verify kar sakta hoon?
+receiver: Ji ji, sure. Mere number ko yaad karo - 8765432109. Aur mera joining date… mujhe batao.
+caller: Aapka joining date 2nd January 2018 hai, sir. Aur is confirmation ke liye, mujhe aapke SIM activation time par use hua email address chahiye hoga. Batao, yaad hai kya?
+receiver: Email address? Haan, mujhe yaad hai. Woh ‘rajesh.sharma@gmail.com’ tha.
+caller: 'Rajesh.Sharma@gmail.com' bilkul sahi hai. Security reasons ke vajah se, hum aapke SIM record ko update karne ke liye is email address ka use karte hain. Agar aapko is confirmation mein koi problem nahi hai, then aapki SIM automatically renew ho jayegi.
+receiver: Automatically renew ho jayegi? Okay, that sounds good. But can you just confirm the renewal date for me? Just to make sure everything is correct.
+caller: Toh, aapki SIM 27th December 2024 ko renew hogi. Iske baad aapko koi action le neecheki chalni nahi padegi. Aapki SIM secure rahiyegee.

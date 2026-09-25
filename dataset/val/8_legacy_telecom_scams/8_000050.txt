@@ -1,0 +1,8 @@
+caller: hello? Is this Ms. Patel? My name is Rohan from Golden Chance Lottery. How’s your day going?
+receiver: Hello Rohan, yes, this is Ms. Patel. It’s going okay, thanks for calling. What’s up?
+caller: I am fine too, Ms. Patel, thank you for asking! And I am calling because you have an amazing opportunity to win a grand prize! We are running a promotion where you can potentially win ₹50,000 every week. It's very easy – just answer one simple question. Are you ready?
+receiver: Rs 50,000 every week? That sounds quite good, Rohan. Just one question? Okay, ask away.
+caller: Absolutely, Ms. Patel! You heard that right. And the question is: Which planet is known as the ‘Red Planet’? You only have two attempts to give the correct answer!
+receiver: Mars. It’s Mars. Is that correct?
+caller: Yes, Ms. Patel, you are completely correct! Mars is known as the ‘Red Planet’. Wonderful! You've gotten one question right. You still have one chance left to win even more. Let’s proceed to the next question, shall we?
+receiver: Haanji, absolutely! Let’s hear the next question. I hope this one also goes my way.

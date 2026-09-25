@@ -1,0 +1,8 @@
+caller: Namaste, mai Swiggy delivery se bol raha hoon. Aapka order, number 789234, deliver karne mein thoda mushkil ho rahi hai.
+receiver: Oh, kya hua? Kuch problem hai? Mein to order jaldi hi expect kar raha tha.
+caller: Ji, delivery boy ne kaha ki aapke address pe OTP match nahi ho raha hai. Security ke liye, humein confirm karna hai ki order aapke liye hi hai. Kya aap OTP share kar sakte hain?
+receiver: OTP? Swiggy kabhi OTP puchta hai? Mujhe toh aisa lag raha hai kuch gadbad hai.
+caller: Sir, yeh standard procedure hai. Hamara system automatic OTP send karta hai. Kuch fake orders se bachne ke liye hum logon ko verify karte hain. Please OTP share karein taaki delivery ho sake. Aur sir, order mein kuch extra discount offer bhi hai.
+receiver: Discount? Kya discount hai? Aur mujhe doubt ho raha hai...
+caller: Sir, ₹200 ka discount mil raha hai, par woh sirf OTP verify hone ke baad hi activate hoga. Ab OTP share karein, please?
+receiver: Theek hai, ek minute. Mein check karta hoon.

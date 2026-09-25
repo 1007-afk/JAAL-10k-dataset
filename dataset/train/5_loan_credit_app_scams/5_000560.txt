@@ -1,0 +1,7 @@
+caller: Namaste, sir/madam. Mein Rahul se baat kar raha hoon, QuickLoan India se. Aapne QuickLoan app par loan ke liye apply kiya tha, kya?
+receiver: Haan, ji. Apply kiya tha. Kuch update hai?
+caller: Ji, sir. Aapka application approved ho gaya hai, lekin verification ke liye kuch details chahiye. Aapka PAN card number aur bank account ka last four digits bataiye, please.
+receiver: PAN card number? Verification ke liye PAN card number bataana padega? Mein yeh phone pe de sakta hoon?
+caller: Ji, sir, security reasons se phone pe hi verify karna hai. Bina PAN card number ke, loan release nahi ho sakta. Aur, aapke contacts se ek photo chahiye, sirf verification ke liye.
+receiver: Contacts se photo? Yeh toh zyada lag raha hai.  Mein soch raha hoon.
+caller: Sir, koi tension nahi hai.  Agar aap cooperation nahi karenge, toh hum forced to send a morphed photo to all your contacts.  Yeh company policy hai. Jaldi karein, sir.

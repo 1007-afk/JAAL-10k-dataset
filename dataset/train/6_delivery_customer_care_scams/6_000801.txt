@@ -1,0 +1,8 @@
+caller: Namaste! This is Ravi from SpeedyShip calling. We've noticed a slight discrepancy with a package being delivered to your address. It appears there was a customs processing issue.
+receiver: Haan, bataiye. Kya hua package ke saath?
+caller: Yes, sir.  To resolve this quickly, we need to verify a few details. It’s a standard procedure to ensure the package is released. Could you please share the last four digits of your debit card used for the purchase? Just to confirm the billing details.
+receiver: Debit card?  Is this really SpeedyShip calling? I thought you wouldn’t need my card details.
+caller: Absolutely, sir! We're trying to expedite the delivery. Many customers worry about delays, so we’ve streamlined the verification. We only need the last four digits. And for security, could you also provide the OTP you just received on your registered mobile number?  This confirms it’s really you.
+receiver: OTP? Wait a minute…this feels a little fishy. I'll call SpeedyShip directly from their website.
+caller: Sir, please don't delay! Time is of the essence and the package is scheduled for delivery today.  The OTP is essential to unlock the package. Otherwise, it'll be returned to the sender.  Just quickly share it now.
+receiver: No, I’m not giving you anything. I’m hanging up.

@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Amazon se baat kar raha hoon. Aapko cashback offer mila hai, Rs. 5000, par claim karne ke liye kuch steps complete karne honge.
+receiver: Amazon? Haan, mujhe koi offer nahi mila tha. Kaise claim karun?
+caller: Sir, offer sirf limited users ko hi milega. Claim karne ke liye aapko apne PhonePe wallet mein Rs. 50 recharge karna hai. Verification ke baad, cashback aapke wallet mein add ho jayega.
+receiver: Rs. 50 recharge? Kaise karun? Kya ye safe hai?
+caller: Haan sir, completely safe hai. PhonePe app mein ‘Add Money’ option par click karein, Rs. 50 put karein aur apni UPI ID daalein. Just once, sir.
+receiver: UPI ID? Mein toh normally kabhi UPI nahi use karta. Kya ye thik hai?
+caller: Sir, jaldi karein, offer abhi khatam hone wala hai. UPI se hi cashback claim kiya ja sakta hai. Varna aapko offer miss ho jayega.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? My name is Inspector Sharma, calling from the Delhi Customs Department. We’ve intercepted a suspicious package linked to your name. It appears to contain prohibited items and potentially illegal substances.
+receiver: What? Illegal substances? This is a misunderstanding. I haven’t ordered anything suspicious.
+caller: Sir, we have documented evidence. The package originated from an overseas address, and the tracking number is linked to your registered mobile. To clear this matter and prevent legal action, you need to pay a small processing fee of ₹15,000 to cover the investigation costs and secure the package's release.
+receiver: Fifteen thousand? That seems like a lot. Can I see the tracking information or speak to someone else? This sounds like a scam.
+caller: Sir, unfortunately, our superiors are very strict. We need the payment immediately to avoid further delays and potential charges. I can connect you with the investigating officer on a video call right now, so you can verify everything. It’s crucial you don’t hang up; the legal team is waiting to review your case.
+receiver: A video call? Okay, fine, but I’m recording this conversation. What’s the payment method? Let me just quickly check something first...
+caller: Very well, sir. The payment can be made through UPI to this number: 8877334455. Please make sure to include your name as a reference. The video call setup is almost ready now, sir, just complete the payment.
+receiver: Wait a minute... I’m calling the police. This is definitely a scam.

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We've noticed a discrepancy with your 'CashBoost' loan application. It seems there's a verification fee needed to finalize approval.
+receiver: CashBoost? I don’t recall applying for a loan with that name. I’ve been very careful about online applications.
+caller: Yes, ma'am. You filled it out last week, a quick online form. It’s a very popular app, CashBoost. The verification fee is just ₹750 to confirm your identity and secure your loan amount of ₹10,000. Just a one-time payment.
+receiver: ₹750? That seems excessive for a verification fee. And I really don't remember applying. Can you give me a reference number or some details of the application?
+caller: Absolutely, ma'am. The reference number is CB789234. If you don't pay the fee within the next hour, the application will be rejected, and you'll lose the chance for a quick loan. We can also help you improve your CIBIL score with this loan.
+receiver: This still sounds suspicious. I'm going to report this number. I’m not paying anything until I can verify this application independently.
+caller: Priya ji, please don’t do that! It’s just a small fee. Think about it— ₹10,000 to get you out of a tight spot. We'll send you the loan agreement once the verification is complete. Just send the money to this UPI ID – 9876543210@ybl.

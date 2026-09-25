@@ -1,0 +1,7 @@
+caller: Namaste, sir? Is this Mr. Sharma? My name is Inspector Singh, calling from the Directorate of Enforcement. We’ve detected some unusual activity linked to your bank account, specifically a large sum being transferred overseas.
+receiver: Haan, boliey. What happened?
+caller: Sir, it appears these funds may be connected to an illegal parcel delivery operation. We're investigating, and your name has unfortunately surfaced in connection with this case. To clear this up quickly, we need you to confirm a few details and make a small payment to secure your case – just ₹15,000 as a processing fee.
+receiver: ₹15,000? What are you talking about? I haven't sent any money overseas. This is a scam, right?
+caller: Sir, please don’t misunderstand. This isn’t a scam. It’s a standard procedure to verify your involvement and prevent you from being implicated in a serious crime. I understand this is concerning, but we are under pressure to resolve this matter quickly. I’ll keep you on this call so you don’t contact anyone who might interfere with the investigation. We can discuss this further while our team verifies your details.
+receiver: But I don't have ₹15,000 right now. And I don't believe you. Let me call my son.
+caller: Sir, calling anyone at this stage could jeopardise your situation. This is a very sensitive investigation. Transferring ₹15,000 to the account number I will provide will show your cooperation and ensure your name is removed from the list of suspects. We need to move fast, sir, for your own safety.

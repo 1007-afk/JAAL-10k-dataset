@@ -1,0 +1,15 @@
+caller: Hello! Fantastic news! You’ve been selected for a chance to win a ‘Golden Gadget Rewards’ bonus – 750 rupees worth of genuine Golden Gadget gift cards! To enter, just answer 3 very simple questions. It’s incredibly easy, and you could be enjoying some amazing rewards. Just send ‘GG’ to 98765 to participate. More information is available at www.goldenrewards.in. So, excited to give it a shot?
+receiver: Hello! Wow, that sounds incredible! 750 rupees worth of Golden Gadget gift cards? That’s awesome! To enter, I just need to send ‘GG’ to 98765, correct? And the website for more info is www.goldenrewards.in. Yeah, absolutely, I’m keen to try my luck. Sounds really straightforward!
+caller: Wonderful to hear! Let’s get started then. For your first question: What’s your most used app on your smartphone? Don't worry about giving an exact name, just tell me the category.
+receiver: Okay, first question! My most used app…hmm, I’d say social media. I spend a lot of time scrolling through Instagram and Facebook.
+caller: Social media, perfect! Very common. Moving onto the next question now. This is even easier! What’s your favorite colour? Just pick any colour you like.
+receiver: Favorite color? Hmm, I’d say turquoise. It reminds me of the ocean, aur woh dil ko shanti deta hai.
+caller: Turquoise, lovely choice! Okay, almost done. Final question: If you could travel anywhere in India, where would you go? Any place is fine.
+receiver: Anywhere in India? Wow, that’s tough. But I think I’d love to visit Goa. The beaches are beautiful, aur woh vibe bhi bahut relaxing hota hai.
+receiver: Hello! Wow, that sounds incredible! 750 rupees worth of Golden Gadget gift cards? That’s awesome! To enter, I just need to send ‘GG’ to 98765, correct? And the website for more info is www.goldenrewards.in. Yeah, absolutely, I’m keen to try my luck. Sounds really straightforward!
+caller: Wonderful to hear! Let’s get started then. For your first question: What’s your most used app on your smartphone? Don't worry about giving an exact name, just tell me the category.
+receiver: Okay, first question! My most used app…hmm, I’d say social media. I spend a lot of time scrolling through Instagram and Facebook.
+caller: Social media, perfect! Very common. Moving onto the next question now. This is even easier! What’s your favorite color? Just pick any color you like.
+receiver: Favorite color? Hmm, I’d say turquoise. It reminds me of the ocean, aur woh dil ko shanti deta hai.
+caller: Turquoise, lovely choice! Okay, almost done. Final question: If you could travel anywhere in India, where would you go? Any place is fine.
+receiver: Anywhere in India? Wow, that’s tough. But I think I’d love to visit Goa. The beaches are beautiful, aur woh vibe bhi bahut relaxing hota hai."""

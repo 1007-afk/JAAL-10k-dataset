@@ -1,0 +1,12 @@
+caller: Namaste ji, main Rajesh Kumar bol raha hun. Kaise ho aap? Arre yaar, mujhe bank account statement chahiye, de doon?
+receiver: Namaste Rajesh ji, main theek hu. Thoda busy hu. Haan, account statement? Kahan chahiye tha? Batao, le aata hoon.
+caller: Namaste Rajesh ji, main theek hu. Thoda kaam mein laga hu. Haan, account statement? Kahan chahiye tha? Batao, le aata hoon.
+receiver: Kahaan chahiye tha? Aaj chahiye ya kal? Batao, main dekh leta hoon.
+caller: Aaj hi chahiye! Tum jaldi se aa jao, main tumhe statement de deta hoon. Tumhe pata hai na mera address? Jaldi aaja, bohot important work hai.
+receiver: Achcha, aaj hi chahiye? Theek hai, chala aa raha hu. Address toh mujhe yaad hai, tension mat le. 10-15 minute mein pahunch jaunga.
+caller: 10-15 minute? Itna late? Jaldi aa bhai, bohot important hai! Tumhe pata hai na kitna critical hai yeh. Aur ek baat, statement mein jo account number hai na, woh bhi bata dena, taaki koi problem na ho.
+receiver: Kya? Account number bhi? Arre, yeh bhi confidential hota hai Rajesh ji. Hum aise phone pe account number share nahi karte. Main statement leke aa raha hu, wohi pe baat karte hain. Baki sab theek hai na? Kya important work hai waha pahanch ke? Jaldi bata dena.
+receiver: Sanjay, main theek hu. Busy hu thodi. Haan, internet bill? Kahan chahiye tha? Batao, le aata hoon.
+receiver: Kahan chahiye tha? Pahle mahine ka ya dusra? Batao, main dekh leta hoon.
+receiver: Achcha, pahla mahine ka chahiye? Theek hai, chala aa raha hu. Address toh mujhe yaad hai, tension mat le. 8-12 minute mein pahunch jaunga.
+receiver: Kya? Customer ID bhi? Arre, yeh bhi sensitive information hai Sanjay ji. Hum aise phone par customer ID share nahi karte. Main bill leke aa raha hu, wohi pe baat karenge. Baki sab theek hai na? Kitni serious matter hai waha pahunch ke? Jaldi bata dena.

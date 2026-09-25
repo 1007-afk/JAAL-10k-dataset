@@ -1,0 +1,11 @@
+caller: Namaste, mai CBI se Rahul Verma bol raha hoon. Aapke naam par ek parcel customs mein rukaa hua hai.
+receiver: Parcel? Mujhe koi parcel nahi yaad aa raha.
+caller: Ji haan, parcel mein illegal items mile hain. Aapka naam delivery address se match karta hai. Case number 784/Customs/Delhi hai.
+receiver: Illegal items? Main toh kabhi online nahi khareeda. Yeh kya ho raha hai?
+caller: Dekhiye, hukum ki baat hai. Yeh matter bahut serious hai. Aapko ₹15,000 clearance charge bharne padenge. Warna arrest warrant niklega.
+receiver: ₹15,000? Arrest warrant? Main police station jaungi, complaint karungi.
+caller: Police station mein jaane se fayda nahi hai. Yeh process CBI handle kar rahi hai. Aapko Paytm ya Google Pay se payment karna hoga. Hurry up!
+receiver: Main nahi bharungi. Yeh fraud hai.
+caller: Aapko samajh nahi aa raha? Apna ghar barbaad karwana chahte hain? Payment karein, warna court mein case file hoga.
+receiver: Court mein case? Main legal action lungi.
+caller: Legal action? Aapko pata bhi hai CBI ke khilaaf case file karne ka kya nateeja hoga? Better pay up.

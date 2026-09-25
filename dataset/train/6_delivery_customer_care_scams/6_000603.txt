@@ -1,0 +1,7 @@
+caller: Namaste! Calling from SecureParcel Logistics. We have a parcel addressed to you, but there's a small issue with the delivery payment. Can you confirm your name and address for verification?
+receiver: Haan, bolo. Mera naam Rajesh Verma hai. Address mera 123, Gandhi Nagar, Delhi hai. Kya hua parcel ke saath?
+caller: Thank you, Mr. Verma. Our system shows a short payment discrepancy. It seems there’s an outstanding ₹750 delivery fee. It’s a new policy for certain high-value items. Just a quick OTP verification will clear it. We’ve sent it to your registered mobile number.
+receiver: ₹750? Mujhe koi notification nahin mila delivery fee ke baare mein. Mainne kuch order kiya bhi nahin tha. Kya ye sach hai?
+caller: Sir, sometimes these notifications get missed. We're just trying to ensure smooth delivery. Please provide the OTP so we can process it. Once verified, your parcel will be dispatched immediately. It contains some important documents.
+receiver: Dekho, mujhe ye kuch jaise chala raha hai. OTP kabhi nahin deta hoon, aur mujhe yeh parcel bhi yaad nahin. Tumhara naam kya hai, aur tumhari company ka naam kya hai?
+caller: I understand your concern, Mr. Verma. My name is Sanjay, and I’m a delivery supervisor with SecureParcel Logistics. To resolve this quickly, I can share the tracking number with you to confirm the package details. It is tracking number SP789456. Can you confirm the OTP now?

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel Payments Bank se Atul bolta hoon. Aapke Airtel Payments Bank account mein kuch suspicious activity detect hui hai.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Ji, ek attempt hua tha online transfer ka, lekin fail ho gaya. Security ke liye, humein aapka account verify karna hai. Please apna registered mobile number bataiye.
+receiver:  Woh theek hai. Mera number 9892012345 hai.
+caller: Dhanyavaad! Ab aapko ek OTP milega. OTP verify karke aapka account secure ho jayega. Jaldi karo, sir/madam! Account block hone se pehle verify karna zaroori hai. OTP is very important!
+receiver: Okay, OTP aa gaya hai. 123456.
+caller:  Excellent! Ab aapko ek chhoti si processing fee bharne hogi, ₹500, taaki aapke account ko completely secure kiya ja sake. ₹500 fee Paytm ke zariye bhar dijiye. Main aapko ek link bhejta hoon.

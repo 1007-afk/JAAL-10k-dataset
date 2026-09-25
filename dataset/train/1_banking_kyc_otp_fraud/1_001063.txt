@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main ICICI Bank se Neha bol rahi hoon. Aapke account mein ek suspicious transaction ki attempt hui hai, sir. Security ke liye humne aapka account temporarily suspend kar diya hai.
+receiver: Oh, really? Suspended? Why? I didn’t receive any messages about this. What kind of transaction was it?
+caller: Ji, sir. Ek online transfer attempt kiya gaya tha, jo ke block ho gaya. Account secure karna zaroori hai, sir. Aapka OTP aur KYC details verify karne ke liye mujhe zarurat hai.
+receiver: KYC details? Over the phone? That sounds a little risky, doesn’t it? I always thought banks don't ask for that.
+caller: Sir, security protocol ke wajah se, humein OTP aur PAN card number verify karna hoga. Agar aap verify nahi karte, toh account permanently block ho sakta hai, sir. Ek baar verify ho gaya toh hume aapka account activate kar denge.
+receiver: Okay, hold on. I’m going to call ICICI’s official helpline to confirm this. Give me a moment. *[Receiver hangs up]*

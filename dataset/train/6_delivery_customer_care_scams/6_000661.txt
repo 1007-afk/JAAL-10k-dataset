@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? I am calling from Bluebird Courier. We have a package addressed to you, but there seems to be an issue with the payment details.
+receiver: Oh, really? What kind of issue? I thought I paid for everything online.
+caller: Yes sir, the system flagged a mismatch. It seems there’s a small outstanding amount of ₹499.99 needed to clear the delivery. It's a standard security protocol.
+receiver: ₹500? That's strange. I definitely paid. Can you give me a tracking number so I can check with the online retailer?
+caller: Certainly sir. The tracking number is BG742KL. However, for security reasons, we need to verify your identity. Could you please share the OTP that you just received on your registered mobile number? It’s a one-time password, sir.
+receiver: OTP? Why do you need an OTP? Shouldn't I be contacting the retailer directly if there's a payment issue? This sounds a little fishy.
+caller: Sir, it’s to ensure this is indeed you and prevent fraudulent activity. We're simply safeguarding your package and your money.  Just share the OTP, and we'll dispatch it immediately. It will only take a second, sir!
+receiver:  Hold on a minute. I'm going to call the retailer to confirm this first. Give me your company phone number so I can call you back.
+caller: Sir, we are extremely busy right now. OTP is the fastest way to resolve this. Please do not miss your delivery!

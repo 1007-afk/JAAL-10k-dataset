@@ -1,0 +1,7 @@
+caller: Namaste! Mein Paytm ka customer care se Rahul bol raha hoon. Aapke naam par ek transaction hua hai, ₹499 ka, jo aapne kiya hai yaani nahi kiya hai.
+receiver: ₹499? Nahin, maine koi transaction nahi kiya. Kya check kar sakta ho?
+caller: Haan ji, ek minute. Woh dekhiye... Haan, transaction Rajasthan se hua hai. Aapko scam hone ka khatra hai. Is transaction ko block karne aur apne account ko secure karne ke liye, mujhe aapke Paytm wallet ka OTP chahiye.
+receiver: OTP? Par woh toh secure hona chahiye na? Mujhe koi risk nahi lena chahiye. Tumhara helpline number dedo, main khud Paytm se baat karta hoon.
+caller: Sir, helpline number main bhi Rahul hi hoon! Abhi time nahi hai, aapko jaldi karna hai. OTP bhejo jald se jald, warna hacker aapke whole account ko loot jayega. Apna phone number dedo, main OTP send kar dunga.
+receiver: Okay, phone number hai [invented number, e.g., 9876543210]. Par main aapse shaq kar raha hoon.
+caller: Haan, theek hai. OTP hai 567890. Jaldi se jald message karo, sir! Aapko ₹499 wapas mil jayega aur account bhi secure ho jayega.

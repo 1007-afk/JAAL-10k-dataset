@@ -1,0 +1,7 @@
+caller: Namaste sir, mai Indian Customs Department se bol raha hoon. Aapke naam par ek parcel international courier se aaya hai jo mein drugs smuggling se linked hai.
+receiver: Drugs smuggling? Yeh kya keh rahe hain? Mera koi parcel nahi aaya hai. Main toh kabhi drugs nahi use karta.
+caller: Sir, records clear hain. Aapka naam hai Rahul Verma, aur parcel Maharashtra se aaya hai. Ismein illegal substances mile hain. Aapko jail jaane se bachne ke liye case settle karna hoga. 25,000 rupees ka fine jama kar dijiye.
+receiver: 25,000 rupees? Sir, yeh galat hai. Main toh innocent hoon. Aapko mujhe arrest karna chahiye agar sach mein kuch mila hai. Main police station bhi ja sakta hoon.
+caller: Sir, police station mein jake zyada pareshani hogi. Court mein case chalega, lawyers fees lagenge.  25,000 rupees jama kar dijiye, aur hum case ko silent kar denge. Aapko video call par bhi rehna hoga jab tak payment nahi ho jaata, taaki koi suspicion na ho. Mein aapko UPI ID de deta hoon.
+receiver: Video call? Yeh sab bahut suspicious lag raha hai. Aur mujhe court jaane ki zaroorat nahi hai. Main abhi apni local police station mein report karunga aur unhe bataunga ki ek scammer mujhe call kar raha hai.
+caller: Sir, police help nahi kar payegi. Yeh matter bahut serious hai aur high level mein hai.  Agar aap payment nahi karte, toh hum aapka naam CBI ko bhej denge aur woh aapko arrest kar lenge. Time is running out, sir. UPI ID hai [fake UPI ID] - jaldi kar dijiye.

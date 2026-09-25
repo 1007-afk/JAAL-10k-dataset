@@ -1,0 +1,10 @@
+caller: Namaste! Mera naam Ravi hai, Paytm se calling kar raha hoon. Hum ek new cashback offer chal rahe hai Paytm First Games par.
+receiver: Oh, Paytm First Games? I do play sometimes. What's the offer?
+caller: Agar aap ₹100 Paytm First Games mein deposit karenge, toh aapko ₹500 ka cashback milega, instant. Offer bahut limited time ke liye hai, sirf aaj tak.
+receiver: ₹500 cashback on ₹100? That sounds too good to be true.
+caller: Haanji, bilkul sahi! Par is cashback ko process karne ke liye, humein aapke account ko verify karna hoga. Ek OTP aapke registered mobile number par aayega, woh bataiye, please.
+receiver: Okay, just received an OTP. It’s 487291.
+caller: Shukriya! 487291 verified. Ab, ₹100 deposit karne ke liye, humein ek small processing fee ki zarurat hai, sirf ₹20. Aapko Paytm ke through pay karna hoga.
+receiver: ₹20 processing fee? Is that really necessary?
+caller: Haanji, security ke liye zaroori hai. ₹20 Paytm number 9876543210 par pay karein.
+receiver: Wait a minute...

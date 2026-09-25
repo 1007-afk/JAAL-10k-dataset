@@ -1,0 +1,18 @@
+caller: Namaste! Tumhari lottery jitne ki khabar dene ke liye call kar raha hoon! Tumne 'Shubh Laxmi' lottery mein jeeta hai ₹8,500! Kya tum ye raashi apne Paytm wallet mein dekhna chaaho?
+receiver: Oh my god! Seriously? ₹8,500?! That’s amazing news! Truly unbelievable! Yes, absolutely! I would love to have this amount credited to my Paytm wallet. Tell me what I need to do next?
+caller: Great! Now we need some information from you regarding your Paytm account so that we can deposit these ₹8,500 into it. Could you please share your Paytm registration ID and the last four digits of your mobile number linked to the account?
+receiver: Sure, no problem. My Paytm registration ID is DL789456 and the last four digits of my mobile number are 1234. Is that correct?
+caller: Thank you for providing the details. And just to verify, is the name displayed on your Paytm profile ‘Rajesh Kumar’? We need to make sure the money goes to the rightful owner. Also, for security reasons, could you please tell us the address you used when creating the Paytm account?
+receiver: Yes sir, the name on my Paytm profile is Rajesh Kumar. The address I used was 123 Main Street, Delhi. Is that alright?
+caller: Wonderful! To confirm your address, we will send an SMS with a verification code. Will you receive SMS messages on your mobile number?
+receiver: Yes, definitely! I always get SMS messages on my mobile number. Let me check… Okay, I received the verification code. It’s 56789. Now the transfer will happen, right?
+caller: Exactly! Once we receive the OTP, we will proceed with the transaction. Please provide the OTP now.
+caller: Hello there! You've won a fantastic prize in our online survey competition! Congratulations, you've been selected as a winner of ₹12,000! Would you like to claim your winnings instantly through UPI?
+receiver: Wow! Really? ₹12,000? That’s incredible! I didn't even know I entered any competition. Yes, definitely! How do I claim this? What do I need to do?
+caller: Fantastic! To release your prize, we require a few details to link it to your UPI ID. First, could you please share your UPI ID – it starts with ‘XYZ’ followed by 8 numbers. Then, for verification, could you state your full name as it appears on your Aadhaar card?
+receiver: Okay, let me see... My UPI ID is XYZ12345678 and my full name is Priya Sharma. Is that correct?
+caller: Perfect! Just to double-check, is your Aadhaar card linked to your mobile number which is [Invented Mobile Number]? We need to ensure all the information matches. Also, can you confirm the city where you were born?
+receiver: Yes, my Aadhaar is linked to this number [Invented Mobile Number]. And I was born in Mumbai. Is everything okay?
+caller: Excellent! For final confirmation, we'll send a one-time password (OTP) to your registered mobile number via SMS. Have you received it yet?
+receiver: Yes, I got an OTP. It says 98765. So, the money will be transferred to my UPI ID now?
+caller: Absolutely! Once we receive the OTP, we will initiate the transfer immediately. Please enter the OTP now.

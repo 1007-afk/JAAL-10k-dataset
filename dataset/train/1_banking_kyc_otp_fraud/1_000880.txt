@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank se Priya Sharma bol rahi hoon. Aapke naam par ek online shopping transaction hua hai jo suspicious lag raha hai.
+receiver: Kya? Mein toh kuch bhi nahi kharida. Kya transaction details hai?
+caller: Ji sir, ₹2500 ka transaction Flipkart se hua hai. Aapko confirm karna hoga. Isliye humein aapka OTP verify karna hai, tabhi account secure ho payega.
+receiver: OTP? Aapko OTP kyun chahiye? Mein Flipkart se kuch nahi kharida. Yeh toh scam lag raha hai.
+caller: Sir, security protocol hai, isliye OTP verify karna hoga. Agar aap verify nahi karenge, toh aapka Axis Bank account suspend kar diya jayega aur ₹1000 ka fine lag jayega.
+receiver: Account suspend? Fine? Thoda wait karo, mein khud bank app check karta hoon.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle OTP jaldi verify karein. Aapka OTP send kar rahi hoon.

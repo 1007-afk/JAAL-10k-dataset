@@ -1,0 +1,6 @@
+caller: Hello! I’m calling from MobiKwik customer care. We’ve noticed some unusual activity on your account. A transaction of ₹2,800 has been flagged as potentially fraudulent.
+receiver: Oh really? ₹2,800? I haven’t made any big transactions recently. What kind of unusual activity?
+caller: It appears a payment was initiated to a new merchant. To secure your account and prevent further unauthorized transactions, we need you to verify your MobiKwik UPI PIN. Just a quick confirmation to ensure it’s you.
+receiver: My UPI PIN? Shouldn't I be getting a notification on my phone first? This sounds a little risky, sharing my PIN over the phone.
+caller: Absolutely, sir/madam! We understand your concern. It's a security measure. For your protection, we're using a voice verification system. Just tell me your UPI PIN, and I’ll immediately lock your account after confirming. This is to prevent anyone else from accessing it.
+receiver: Wait a minute. So, you want me to tell you my UPI PIN over the phone? That doesn't sound right at all. MobiKwik would never ask for my PIN like that. I’m going to hang up and contact MobiKwik directly through their official app.

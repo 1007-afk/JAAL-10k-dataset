@@ -1,0 +1,7 @@
+caller: Hello! I’m calling from Paytm Support. We’ve noticed some unusual activity on your Paytm wallet and temporarily locked it for security reasons.
+receiver: Oh really? That’s concerning. What kind of unusual activity? My Paytm account has been working fine.
+caller: Yes sir/madam. We flagged a few attempted transfers from your account. To unlock it, we need to verify your identity and confirm you’re the rightful owner. Can you please share the last four digits of your bank account linked to Paytm?
+receiver: Wait a minute. Paytm usually doesn’t ask for my bank details over the phone. Isn't that a security risk? I thought they would verify through the app itself.
+caller: Sir/Madam, for your protection, we've enhanced our security protocols. Sharing the last four digits allows us to quickly confirm the account and prevent fraudulent access. It’s a standard procedure now. We also need to send you a verification code to your registered mobile number.
+receiver: I'm still a bit uneasy. Can you please provide me with a reference number for this call so I can verify it with Paytm’s official website or customer care? Or maybe direct me to a secure link in the Paytm app where I can handle this myself?
+caller: Sir/Madam, due to a system update, reference numbers aren't being issued at the moment. This is purely to expedite the unlocking process and ensure your account's safety. The verification code is on its way, and once you provide it, your wallet will be instantly unlocked. Don’t delay, or your account might remain locked indefinitely.

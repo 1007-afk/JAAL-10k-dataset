@@ -1,0 +1,8 @@
+caller: Hello, good afternoon. This is Raj from IDFC First Bank security department. We’ve noticed some unusual activity on your account. To ensure your funds are safe, we need to verify a few details.
+receiver: Haan, hello. Unusual activity? What kind of activity? I haven’t done anything out of the ordinary.
+caller: Yes sir, there was a login attempt from a different IP address in Kolkata. We are taking precautionary measures. Could you please provide the OTP you just received on your registered mobile number so we can confirm it's you? It should be a six-digit code.
+receiver: OTP? I didn’t receive any OTP. I’m here in Mumbai, you know. I've been at home all day.
+caller: Perhaps it’s delayed, sir. Sometimes the network is slow.  Just to be absolutely certain, can you tell me the last four digits of your Aadhaar card, for verification purposes? This is a standard procedure to secure your account.
+receiver: My Aadhaar card? Why would you need that? I’m not comfortable sharing that information over the phone. That sounds very risky. What is the phone number you are calling from?
+caller: Sir, this is a highly sensitive matter.  We need to act fast to prevent any unauthorized access. I understand your concern, but without this verification, we may have to temporarily suspend your account to protect you. Just the last four digits, please. And the number is 9876543210 - please note it down.
+receiver: Suspend my account? Okay, hold on a minute. Let me quickly check the IDFC First Bank website and the official app. I’ll call you back.

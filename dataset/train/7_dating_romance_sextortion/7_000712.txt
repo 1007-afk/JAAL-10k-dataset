@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya? My name is Rohan, I’m travelling through India right now. I saw your profile on "ConnectHearts" - you seem really lovely! It's a new app, just trying to meet people while I'm here.
+receiver: Hi Rohan. Yes, this is Priya. ConnectHearts, huh? I haven’t been on there long. What brings you to India?
+caller: It's beautiful here, isn't it? I'm a photographer, and I'm on assignment for a travel magazine. Things are a bit hectic, honestly, I was hoping to find someone to share a nice dinner with sometime. I’m stuck in Jaipur for a few days, things are delayed with my equipment.
+receiver: That sounds interesting, photography is cool. Jaipur's lovely, but I’m quite busy with work right now. I'm a teacher.
+caller: Oh, a teacher! That's wonderful, Priya. You must be so kind. Listen, I'm in a bit of a bind - my equipment got delayed, and the hotel is quite expensive. I need to get a new lens urgently to finish the assignment, but I’m short on cash for the moment. Could you possibly lend me ₹5000? I promise to pay you back as soon as I get paid next week. It would really help me out.
+receiver: ₹5000? That's quite a bit, Rohan. I don’t really lend money to people I’ve just met online. It seems a little risky.
+caller: I understand your hesitation, Priya, but I’m really in a jam! I've got deadlines and everything. I wouldn’t ask if it wasn't urgent. Just a small amount. And, to show you how genuine I am, I'll send you a few of my

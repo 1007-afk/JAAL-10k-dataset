@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, hopes you’re having a wonderful day! I’m calling from Digi-Sounds. Your monthly Digi-Sounds melodies are prepared to update! This month's fresh melodies include: 1) Bruno Mars – Uptown Funk, 2) Justin Bieber – Sorry, and 3) Rihanna – Umbrella. You have only 3 updates available this month. Would you like to update your device now?
+receiver: Hey there! Oh, Digi-Sounds melodies, yeah. Sounds pretty cool. Uptown Funk… I know that song! Sorry by Justin Bieber, and Umbrella by Rihanna… those are classics. Okay, let’s get these updated! Update all three for me, please. Thank you!
+caller: Excellent selection, sir! So, just to double check, your account has only 2 updates remaining for this month. Do you want to install those same 3 melodies – Bruno Mars, Justin Bieber, and Rihanna? Or would you like to add any other tunes?
+receiver: Haan, exactly those three melodies are fine. Only two updates left? Okay, no problem. Just update those three, please. Thanks a lot!
+caller: Perfect! So, you want those 3 melodies installed, and you have only 1 update left for this month, correct? Are you comfortable proceeding with the installation of Bruno Mars, Justin Bieber, and Rihanna?
+receiver: Haan, yes, absolutely. Go ahead. And my name is Kavita, if you need to jot something down. Just update them quickly, please. Thanks!
+caller: Wonderful, Kavita ji! So, you want those 3 melodies installed, and now you have zero updates available for this month. Are you comfortable proceeding with the installation of Bruno Mars, Justin Bieber, and Rihanna? Just confirming one last time before I finalize it for you.
+receiver: Arey yaar, yes, okay! Completely fine. Please proceed. Is it finished yet? Thank you so much!

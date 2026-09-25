@@ -1,0 +1,8 @@
+caller: Hello, is this Priya? I think I have your number from a friend who said you were also on ‘ConnectHearts’. They said you're looking for someone special.
+receiver: Hello? ConnectHearts? Who is this? And how do you have my number? I don't remember giving it to anyone.
+caller: Relax, Priya. It's Rohan. Your friend, Simran, gave it to me. She said we both appreciate romantic walks and old Bollywood movies. She thought we'd click. I saw your profile – you’re beautiful.
+receiver: Simran? I don’t recall her mentioning anything like this. And I’m a bit cautious about these things. How do I know you're really Rohan?
+caller: Of course, I understand being cautious. I can send you a picture, Priya. Let’s chat a little longer and I'll send you a selfie.  My work is a bit demanding right now, but I'm planning a trip to Goa next month. I’d love for you to come with me. We can explore the beaches, you know? Just thinking about it makes me smile.
+receiver: Goa? That sounds lovely, but I’m not sure. This is all happening very fast. And I still don’t know who you are. I’m not comfortable talking about trips right now.
+caller: I know it seems fast, Priya, but sometimes the best things in life are! Look, my mother is having a minor operation tomorrow, and I need to send some money urgently. It’s just ₹50,000, but my bank is being difficult. Can you possibly send me a small amount to tide me over? I’ll pay you back double as soon as my payment clears. Trust me, Priya.
+receiver: ₹50,000?! Rohan, this is ridiculous.

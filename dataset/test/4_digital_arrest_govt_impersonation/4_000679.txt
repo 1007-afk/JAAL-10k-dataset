@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Sharma from the Cyber Crime Investigation Cell, Delhi. We’ve detected unusual activity linked to your bank account – specifically, several large transfers to offshore accounts suspected of involvement in illegal arms trading.
+receiver: Kya? Arms trading? Mere account se? Yeh kaise ho sakta hai? Main toh kabhi nahi kiya aisa kuch.
+caller: Sir, we understand your shock. This is a sophisticated scam, and your account has been compromised. Don’t panic. We need to secure your funds immediately. To verify your identity and freeze the account, we require you to provide us with your OTP – the one-time password you receive via SMS. It's crucial.
+receiver: OTP? Lekin police toh kabhi OTP nahi maangti. Yeh thoda suspicious lag raha hai. Aur Delhi se phone kyu kar rahe ho? Main toh Mumbai mein hoon.
+caller: Sir, these are standard security protocols. We are working with the Mumbai police on this case. Time is of the essence. If you don’t provide the OTP within the next 5 minutes, the illegal transactions will complete, and your entire account will be drained. We are just trying to help you. Please understand the urgency.
+receiver: 5 minutes? Aur account drain ho jayega? Wait, wait... toh tum log phir mere account number aur OTP ki zaroorat kyu kar rahe ho? Yeh toh scam lag raha hai!
+caller: Sir, you are being misled by fear. We only need the OTP to freeze the account temporarily. Providing the OTP means you are helping us protect your funds. Do not delay any further or your hard-earned money will be lost.

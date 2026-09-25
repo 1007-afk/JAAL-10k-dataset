@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul Verma? My name is Inspector Sharma, calling from the Delhi Customs Department. We have intercepted a package addressed to you.
+receiver: Delhi Customs? Okay, what’s the problem with the package? I wasn’t expecting anything.
+caller: The package contains suspicious items, potentially linked to illegal import activity. We need to verify your involvement to avoid legal complications. It appears there's a discrepancy with the declared contents – listed as textiles, but our scanners indicate something else. We require a small processing fee of ₹15,000 to clear the package and conduct a full investigation.
+receiver: Fifteen thousand rupees? Just to clear a package I wasn't even aware of? That seems excessive. What proof do you have that this is a legitimate inquiry? Can you give me a case number?
+caller: Sir, this is a sensitive matter and we cannot disclose the full case details over the phone. To expedite the process and prevent further delays, you can deposit the amount via UPI to this number: 9876543210. Once the payment is confirmed, we will immediately release the package. Please do it quickly, Sir, before the matter escalates.
+receiver: Wait a minute. I’m going to call Delhi Customs directly to verify this. Give me their official number.
+caller: Sir, don’t waste time. We are under pressure to resolve this case quickly. The longer you delay, the more serious the consequences will be. Payment details again: 9876543210. Act now to protect yourself and your reputation, Sir!

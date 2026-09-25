@@ -1,0 +1,7 @@
+caller: Namaste! This is Rajesh from LoanExpress India. I see you applied for a personal loan online. Congratulations, you've been pre-approved for up to ₹25,000! Just a few quick details to finalize it.
+receiver: Really? That's great! I was hoping to get a loan for about ₹7,000 to pay off some medical bills.
+caller: Fantastic! ₹7,000 is easily approved. Now, for security purposes, could you please confirm the last four digits of your debit card and the expiry date? It's just a standard verification process.
+receiver: Wait a minute… I don’t usually give out that information over the phone. Is this really LoanExpress? I haven't seen any official email.
+caller: Yes, definitely! We're calling from our verification department. Look, we just need to confirm you’re the cardholder to avoid fraud. Otherwise, your loan will be cancelled and you'll lose the opportunity. We've already sent your loan amount, you can collect it in a few hours.
+receiver: Okay, but I'm still a bit nervous. What about the interest rate?
+caller: Only a small processing fee of ₹1,500 initially. Once your loan is disbursed, you'll start paying it back in easy installments. But if you refuse to share your card information, then unfortunately, we’ll be forced to report you for fraudulent activity. We don't want that, right?

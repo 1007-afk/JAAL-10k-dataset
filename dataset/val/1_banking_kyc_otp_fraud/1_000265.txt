@@ -1,0 +1,20 @@
+caller:  Arey yaar, aapko yeh notification dekha?  "Shanti Solutions" ne jo message bheja hai, wo toh bahut weird hai, na?  Mere mobile mein aaj hi aaya tha.
+receiver: Haan, maine dekha.  Woh toh gaya aur aaya, mujhe bhi aaya tha.  Bahut confusing tha, bol raha tha ki "urgent update required."
+caller:  Arre, woh toh mujhe bhi laga.  Main soch raha tha, ismein koi fraud ka attempt ho sakta hai.  Yeh Shanti Solutions kitne genuine hai, bataiye?  Mujhe abhi abhi worry hone par hai.
+receiver:  Maine Google par search kiya, bhai.  "Shanti Solutions" ke bare mein kuch bhi nahi mila.  Koi website nahi hai, koi contact number nahi hai.  Bhai, ye toh bohut suspect hai.
+caller:  Yaar, yeh toh bohat serious matter hai.  Agar koi fraud karta hai toh bahut paisa haar sakte hain.  Aapko kya lagnay chahiye, yeh bataaye.  Kiski helpline number mil jaaye toh acha rahega.
+receiver:  Haan, mene jo search kiya, uske hisab se, mujhe bhi seems that something is not right.  Aapko hi sahi cheez dekhni chahiye.  Koi police station mein complaint bhi dewaana chahiye, kya nahi?
+caller:  Haan, police mein complaint dena zaroori hai.  Lekin fir bhi, is message ko delete kar do.  Aur kabhi bhi kisi bhi suspicious link par click mat karo.  Safai raho, bhai!
+receiver:  Theek hai, mein delete kar deta hu.  Aapko thanks, bhai.  Abhi toh tension kam hua.  Par mujhe abhi abhi feel ho raha hai ki koi dushman bhi ho sakta hai.
+caller:  Dushman nahi hai, bhai.  Ye toh sirf ek fraud hai.  But stay alert, always.  And if you get any similar message, immediately report it to cybercrime cell.  Okay?
+receiver:  Okay, okay.  Mein sab report karunga.  Thanks again, bhai.  Shanti Solutions ko bhool jaane do!
+caller: Arey yaar, aapko yeh notification dekha? “Srishti Digital” ne jo message bheja hai, wo toh bahut weird hai, na? Mere mobile mein aaj hi aaya tha.
+receiver: Haan, maine dekha. Woh toh gaya aur aaya, mujhe bhi aaya tha. Bahut confusing tha, bol raha tha ki “account verification required.”
+caller: Arre, woh toh mujhe bhi laga. Main soch raha tha, ismein koi fraud ka attempt ho sakta hai. Yeh Srishti Digital kitne genuine hai, bataiye? Mujhe abhi abhi worry hone par hai.
+receiver: Maine Google par search kiya, bhai. “Srishti Digital” ke bare mein kuch bhi nahi mila. Koi website nahi hai, koi contact number nahi hai. Bhai, ye toh bohut suspect hai.
+caller: Yaar, yeh toh bohat serious matter hai. Agar koi fraud karta hai toh bahut paisa haar sakte hain. Aapko kya lagnay chahiye, yeh bataaye. Kiski helpline number mil jaaye toh acha rahega.
+receiver: Haan, mene jo search kiya, uske hisab se, mujhe bhi seems that something is not right. Aapko hi sahi cheez dekhni chahiye. Koi police station mein complaint bhi dewaana chahiye, kya nahi?
+caller: Haan, police mein complaint dena zaroori hai. Lekin fir bhi, is message ko delete kar do. Aur kabhi bhi kisi bhi suspicious link par click mat karo. Safai raho, bhai!
+receiver: Theek hai, mein delete kar deta hu. Aapko thanks, bhai. Abhi toh tension kam hua. Par mujhe abhi abhi feel ho raha hai ki koi dushman bhi ho sakta hai.
+caller: Dushman nahi hai, bhai. Ye toh sirf ek fraud hai. But stay alert, always. And if you get any similar message, immediately report it to cybercrime cell. Okay?
+receiver: Okay, okay. Mein sab report karunga. Thanks again, bhai. Srishti Digital ko bhool jaane do!

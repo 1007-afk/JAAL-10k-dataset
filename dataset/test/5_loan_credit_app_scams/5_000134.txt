@@ -1,0 +1,7 @@
+caller: Namaste, sir/madam. This is Ankit Sharma calling from KreditEasy. We’ve noticed you recently applied for a personal loan on our app. Just confirming a few details to process your application quickly. Can you please confirm your full name?
+receiver: Haan, ji. My name is Vijay Patel.
+caller: Excellent, Mr. Patel. And your registered mobile number for the KreditEasy app? Just to double-check.
+receiver: Yes, it's 9876543210.
+caller: Perfect. Now, to complete verification, we need a small security deposit – just ₹500 to activate your loan limit of ₹50,000. It will be credited back immediately upon loan disbursement. Please send it to the UPI ID: KreditEasyPay@axisbank.
+receiver: ₹500 deposit? That wasn't mentioned in the application. Is this really necessary?
+caller: Absolutely necessary, sir. It’s a standard security measure to prevent fraudulent applications. Think of it as an activation fee. Once we receive it, your loan will be approved within minutes and credited to your account. Don't miss this opportunity, sir! Many people are waiting!

@@ -1,0 +1,14 @@
+caller: Namaste, madam, aapko SBI Card se call aa raha hai. Main Amit bol raha hoon. Aapke card par ek suspicious transaction hua hai, ₹25000 ka online payment.
+receiver: Hello, haan bolin. Suspicious transaction? Mera card toh main apne paas hi rakha tha. Kaise hua ye?
+caller: Ji madam, shayad koi online fraud hua ho. Aapka card details kisi website par compromise ho gaya hoga. Isliye hum aapko verify karna chahte hain.
+receiver: Verify kaise karoge? Mujhe batao kya hua hai.
+caller: Madam, humein aapke card se related kuch details chahiye. Aapka card number ke last 4 digit bataiye aur jo OTP aaya hai, woh bhi bataiye. Yeh bas verification ke liye hai.
+receiver: OTP? Mujhe abhi tak toh koi OTP nahi aaya. Aur card number ke last 4 digit kyun chahiye?
+caller: Madam, OTP thodi der mein aa jayega. Agar nahi aaya toh please wait karin. Aur last 4 digit humein check karna hai ki aap hi card ke sahi owner ho.
+receiver: Mujhe yeh sab thoda shady lag raha hai. Agar SBI se call aa raha hai toh mujhe mere registered mobile number par message kyun nahi aaya?
+caller: Madam, humein aapki security ke liye urgent action lena pad raha hai. Agar aap cooperate nahi karenge toh humein aapka card temporarily block karna padega.
+receiver: Card block kar doge? Thodi der do mujhe. Main SBI ke customer care number par call karta hoon, verify karta hoon.
+caller: Madam, customer care number par call karne mein time waste hoga. Fraudsters bhi wahan active rehte hain. Jaldi se OTP bataiye, nahi toh account freeze ho jayega.
+receiver: Nahi, main OTP nahi bataunga. Main khud SBI branch jaakar clarify karta hoon. Thank you, aur call disconnect kar dijiye.
+caller: Madam, please samajhiye. Aapka hi loss hoga. Okay, toh hum aapko ek link bhejte hain. Usme details fill kariye, woh secure hai.
+receiver: Nahi, koi link nahi chahiye mujhe. Bye. *call disconnects*

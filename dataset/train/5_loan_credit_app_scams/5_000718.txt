@@ -1,0 +1,9 @@
+caller: Namaste! Madam, speaking with Rupesh from SwiftLoans. I understand you're looking for a quick loan? We're offering instant approvals, ₹50,000 to ₹3,00,000, no credit check. Just need to verify a few details. Your name, please?
+receiver: Ji haan, mera naam Anjali hai. Loan ke baare mein puchna tha.
+caller: Achhi Anjali ji! Wonderful! So, Anjali ji, what is the purpose of this loan? Is it for medical expenses, education, or something else?
+receiver: Actually, mera papa bilkul unwell hain, hospital mein hain. Urgent paise chahiye treatment ke liye.
+caller: I understand, Anjali ji. Very unfortunate. SwiftLoans is here to help. We just need a small verification fee of ₹2,500 to process your application immediately. It will be refunded once the loan is approved. Can you transfer it to this UPI ID: swiftloans.verify?
+receiver: ₹2,500 verification fee? But you said instant approval, no credit check.
+caller: Anjali ji, security reasons! It's a standard procedure.  Just a small amount to ensure your application is legitimate and protect you from fraud. Once the loan is disbursed, you’ll see that ₹2500 back in your account. Don’t delay, the offer is valid only for the next hour. We are receiving a lot of requests today.
+receiver: Okay, I'll do it. But I want the loan to be approved quickly.
+caller: Excellent decision, Anjali ji! Transfer the amount and send me a screenshot. Once I receive it, I'll personally ensure your loan is processed within minutes. Remember, quick action is key. This offer won’t last forever!

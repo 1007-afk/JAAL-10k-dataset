@@ -1,0 +1,9 @@
+caller: Namaste! Main Vijay bolta hoon, Axis Bank se. Aapke account mein ₹5000 ka cashback offer chal raha hai, Diwali special.
+receiver: ₹5000 cashback? Haan, sahi hai. Batao, kaise claim kar sakta hoon?
+caller: Bas ek form fill karna hai, sir. Aur OTP verify karna hai. OTP humhe aapke PhonePe number par bhejenge.
+receiver: PhonePe number? Mere paas PhonePe nahi hai. Main Google Pay use karta hoon.
+caller: Problem nahi hai, sir. Aap Google Pay mein bhi update kar sakte hain. OTP bhejo, hum process kar denge. ₹5000 cashback aapka hai.
+receiver: Thoda doubt ho raha hai. Axis Bank ka koi message aaya tha mujhe?
+caller: Haan ji, sir. Aapne check kiya? Humara system automatic hai, mere paas koi proof message nahi hai. Bas OTP bhejo, fast karo, offer limited time ke liye hi hai.
+receiver: Okay, OTP hai 123456.
+caller: Shukriya, sir! Aapka cashback 24 hours mein credit ho jayega. Diwali mein khushi se enjoy karna!

@@ -1,0 +1,8 @@
+caller: Hi Priya! My name is Rohan. I saw your profile on FlirtLink and wow, you’re absolutely stunning! I haven’t felt this way about someone in ages. Just wanted to say hello.
+receiver: Hello Rohan. Thank you. That's very kind of you to say. It's a bit forward, but I appreciate the compliment.
+caller: Not forward at all! I’m just being honest. I've been having a really tough time lately, work is crazy stressful, you know? Seeing your profile was a bright spot. I’m actually heading overseas next week for a project in Dubai, it’s quite important for my career.
+receiver: That sounds intense. Dubai is lovely, I've heard. What do you do?
+caller: I’m a software engineer. The Dubai project is a huge opportunity, but I'm a little short on funds for the visa processing fees and some last-minute travel expenses. It’s only 45,000 rupees, and I’d be eternally grateful if you could help me out. I’ll pay you back double as soon as I get paid there. I can send you my bank details.
+receiver: 45,000 rupees? That's a lot to ask from someone we just met online. I'm really sorry, but I don’t feel comfortable doing that. It seems a bit risky, to be honest.
+caller: I understand your hesitation Priya, but I am genuinely in a bind. I'm sending you my Aadhaar card, just so you can verify my identity.  Please, just trust me on this one. It’s really important for my future.
+receiver: An Aadhaar card? That’s a serious breach of privacy and a huge red flag. I’m blocking you now.

@@ -1,0 +1,20 @@
+caller: Namaste, hai Mr. Verma? Ji, main ‘Digital Solutions’ se baat kar raha hoon. Aapne recently online course ke liye payment kiya tha, aur usmein ek important update hai. Aapko website – www.learnsmarttech.com pe jaake apni course material download karne ke liye login karna hai. Aapke paas sirf 8 minutes ka time hai, please hurry up.
+receiver: Haan ji, hello. Main Rohit Kumar Verma hoon. Course material? Oh yes, I remember that. I paid for the digital marketing course. Let me go to learnsmarttech.com now. Just a moment.
+caller: Ji sir, time bahut kam hai. Website par log in karte hi, verification code bhejna hoga. Verification code ko enter karna sure karna. Agar code enter nahi kiya, toh aapki course access hata di jayegi.
+receiver: Okay, okay, I am logging in now. Yes, I see the page. It wants a verification code. Let me try… 789456.
+caller: Ji sir, code wrong hai. Try again.  Aapko verify karne ke liye ek aur code milega. Don’t waste time, code enter karo.
+receiver:  Okay, tried another one - 123456. Still not working. This is frustrating.
+caller:  Ji sir, ek aur code bheja hai. Check your SMS. Code is 901234. Enter it quickly.  Don’t delay, otherwise your learning will get interrupted.
+receiver:  Okay, I got the message. Entering the code now... 901234.  It worked! Finally!  Thank you so much for your help.
+caller:  Great! Sir, congratulations, your course is now unlocked. Enjoy learning!  Just a reminder, this offer is valid only for 30 days.  Any questions?
+receiver:  No, no, that’s all.  Thanks again!
+caller: Namaste, hai Mr. Verma? Ji, main ‘Digital Solutions’ se baat kar raha hoon. Aapne recently online course ke liye payment kiya tha, aur usmein ek important update hai. Aapko website – www.learnsmarttech.com pe jaake apni course material download karne ke liye login karna hai. Aapke paas sirf 8 minutes ka time hai, please hurry up.
+receiver: Haan ji, hello. Main Rohit Kumar Verma hoon. Course material? Oh yes, I remember that. I paid for the digital marketing course. Let me go to learnsmarttech.com now. Just a moment.
+caller: Ji sir, time bahut kam hai. Website par log in karte hi, verification code bhejna hoga. Verification code ko enter karna sure karna. Agar code enter nahi kiya, toh aapki course access hata di jayegi.
+receiver: Okay, okay, I am logging in now. Yes, I see the page. It wants a verification code. Let me try… 789456.
+caller: Ji sir, code wrong hai. Try again.  Aapko verify karne ke liye ek aur code milega. Don’t waste time, code enter karo.
+receiver:  Okay, tried another one - 123456. Still not working. This is frustrating.
+caller:  Ji sir, ek aur code bheja hai. Check your SMS. Code is 901234. Enter it quickly.  Don’t delay, otherwise your learning will get interrupted.
+receiver:  Okay, I got the message. Entering the code now... 901234.  It worked! Finally!  Thank you so much for your help.
+caller:  Great! Sir, congratulations, your course is now unlocked. Enjoy learning!  Just a reminder, this offer is valid only for 30 days.  Any questions?
+receiver:  No, no, that’s all.  Thanks again!

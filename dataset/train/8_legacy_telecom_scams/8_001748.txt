@@ -1,0 +1,11 @@
+caller: Namaste! Sunta hain kya? Main Sanjay bol raha hoon, Digital Solutions se. Tumhare internet connection mein problem hai, sir?
+receiver: Haan ji, sunn raha hoon. Mein Rahul hoon. Woh to hai, connection mein problem. Kaise pata?
+caller: Sir, humara system check kiya tha aur tumhara bandwidth slow hai. Isliye internet kam speed mein chal raha hai. Tumhari account mein ek special offer aaya hai - Tata Photon Fiber ka unlimited data plan! Just a quick verification, we need to update your existing connection settings.
+receiver: Unlimited data plan? Toh double data milega, hai na? Aur koi extra charge nahi hoga?
+caller: Exactly, sir!  Unlimited data means absolutely no extra charges. It’s just a simple update to optimize your connection. And as a bonus, we’re giving you a brand new Samsung Galaxy Watch Active 2 completely free!
+receiver: Samsung Galaxy Watch Active 2? Seriously? But tell me, is it the latest version or an old one? And what about the battery life – is it good?
+caller: Absolutely the latest version, sir! It has incredible battery life, easily lasts a whole day. It's a premium gift for our valued customers. Let’s just quickly verify these settings, okay? It will take less than a minute.
+receiver: Okay, Sanjay ji. But before you proceed, can you tell me the exact model number of the watch? And how much faster will my internet actually be after this update?
+caller: The model number is SM-V730. Your internet speed will increase by at least 50%, sir! You’ll notice a huge difference. Don’t worry, it’s all very secure. Just give us your permission to proceed.
+receiver: 50%? Wow! That’s quite a jump. Fine, go ahead and confirm it for me. But when will the watch arrive at my address? And is there any installation process involved?
+caller: It will be delivered within 3 business days, sir. No installation required, it's plug-and-play! Now, just to finalize everything…

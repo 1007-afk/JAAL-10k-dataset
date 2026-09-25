@@ -1,0 +1,8 @@
+caller: Namaste! Main Swiggy Customer Care se Rahul bol raha hoon. Aapke recent order number SWG789456 mein kuch problem aa gaya hai. Payment fail ho gaya hai aur delivery pending hai.
+receiver: Swiggy se call? Payment fail? Woh kis order ka hai? Main Swiggy app dekhta hoon.
+caller: Haan ji, system mein error dikha raha hai. Aapko ₹250 ka pending payment clear karna padega, otherwise order cancel ho jayega. Aur delivery address bhi verify karna hai.
+receiver: ₹250? Kaunsa payment? Mein toh Swiggy app par payment kar chuka hoon. ₹250 ka order bhi nahi tha.
+caller: Sir, system mein confusion dikha raha hai. Payment fail hone ki wajah se order ruk gaya hai. Aapka security ke liye, humein OTP verify karna hai. OTP aapke phone par aayega, woh mujhe bataiye.
+receiver: OTP? Swiggy kabhi bhi OTP poochhta nahi hai. Yeh to scam lag raha hai! Mein police mein report karunga.
+caller: Sir, please! Ye aapka order ruk jayega! Just one OTP! Otherwise your money will be lost too!
+receiver: No way! Goodbye!

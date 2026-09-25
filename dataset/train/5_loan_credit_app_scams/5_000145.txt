@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan? This is from FastCash Solutions. We’ve noticed you applied for a personal loan online recently.
+receiver: Haan, ji. Maine ek app pe apply kiya tha, ‘LoanExpress’.
+caller: Excellent! LoanExpress forwarded your details to us. We can approve you for ₹15,000 instantly. Just a small processing fee of ₹2,500 upfront to unlock the loan.
+receiver: ₹2,500? But I thought the loan was free until it's disbursed?
+caller: Rohan, these are the new regulations. Security protocols, you understand. Without this small fee, we can't guarantee the loan's safety. We need to verify you're serious. Send it to this UPI ID: fastcash.verify@axis.
+receiver: Wait a minute… This doesn’t sound right. I’m going to check with LoanExpress first.
+caller: Rohan! Don’t be silly. This is a limited-time offer. If you don't pay now, we’ll have to cancel your application and report you for wasting our time. And we’ll have to inform your family about your financial troubles.

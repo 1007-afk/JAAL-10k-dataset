@@ -1,0 +1,29 @@
+caller: Namaste! Main Rahul Kumar hoon, India Post se. Maine tumhara address tumhare records mein dekha hai, aur hum ek important delivery update chahate hain.
+receiver: Oh, India Post? Kya bol rahe ho? Mein toh delivery updates nahin check karte.
+caller: Haan, mujhe pata hai. Lekin, ek package tumhare naam se aaya hai, lekin address par koi nahi gaya. Tumhari family ka ek bada gift aa raha hai, aur hum isko safe deliver karne chahte hain.
+receiver: Gift? Mujhe abhi tak koi gift nahin mili hai. Woh package kaunsa hai?
+caller: Woh ek expensive watch hai, sir. Aur tumhara address iske delivery ke liye sahi hai. Tumhara phone number bhi record mein hai, sir. Tumne kyaa reply diya tha?
+receiver: Phone number? Mein toh sirf delivery ke liye address deta tha.  Mai phone number kyun de sakta tha?
+caller:  Aapko maaf karna, madam. Yeh ek technical glitch hai.  Mujhe sirf yeh zaroori hai ki tumne apna address verified kiya ho.  Isliye, tumhara phone number verification ke liye chalega.  Kya tum apne bank account number bhi share kar sakti ho, sirf delivery confirmation ke liye?
+receiver: Bank account number? Nahin, main woh share nahin karungi.  Yeh bahut hi suspect lag raha hai.
+caller:  Haan, main samajhta hoon.  Par hum is delivery ko tumhare naam pe secure rakhna chahte hain.  Agar tum reply mat denge, to hum isko return kar dena padega.  Ye tumhara duty hai, madam.
+receiver: Duty? Mein koi duty nahin kar rahi hoon. Mein koi package nahin dekha.
+caller:  Aakhir tumhara address sahi hai, sir.  Tumhein jawab dena zaruri hai.  Agar tum reply mat denge, to hum is package ko lost ho jayega.  Last chance, madam!
+caller: Namaste, Shanti Kumar hoon, State Bank of India se. Tumhara account record mein ek unusual transaction dikha hai.
+receiver: Unusual transaction? Mere account mein? Kya bol rahe ho aap?
+caller: Haan, ek transfer hua hai ₹5000, lekin tumne yeh transaction kabhi bhi initiate nahi kiya hai.  Hum iski investigation kar rahe hain.
+receiver: ₹5000? Mujhe aisa kuchh yaad nahin hai.  Maine aisa koi transaction nahin kiya.
+caller: Tumhara account ID 628974563210 hai, aur tumhara naam Ramesh Singh hai, hai na?  Hum is matter ko seriously le rahe hain.
+receiver: Ramesh Singh? Haan, woh mera naam hai. Par maine aisa koi transaction nahin kiya.  Kyun mujhe call kiya gaya?
+caller:  Aapko maaf karna, Sir. Yeh ek security protocol hai.  Humko yeh jankari vapar karne ke liye zaroori hai.  Tumne apne ATM PIN code share kar sakte ho, sirf is transaction ko verify karne ke liye?
+receiver: ATM PIN code? Nahin, main wo kabhi bhi share nahin karta.  Yeh bahut hi dangerous lag raha hai.
+caller:  Haan, main samajhta hoon.  Par hum is transaction ko track karna chahte hain. Agar tum reply mat denge, to police neeti ka follow karna padega.  Tumhein jawab dena zaruri hai, Sir.
+receiver: Police neeti? Main koi crime nahin kar raha hoon.  Main koi transaction nahin kiya.
+caller:  Aakhir tumhara address sahi hai, Sir.  Tumhein jawab dena zaruri hai.  Agar tum reply mat denge, to hum is transaction ko lost ho jayega.  Last chance, Sir!
+caller: Namaste, Sanjay Verma India Tax Department se baat kar raha hoon. Tumhara income tax return submit karne ka time over ho gaya hai.
+receiver: Income tax? Submit karne ka time over? Kya bol rahe ho aap?
+caller: Haan, tumhara PAN card number 123456789012 hai, aur tumhara naam Ashok Patel hai, hai na?  Ek penalty jo lagana shuru ho gaya hai.
+receiver: Ashok Patel? Haan, woh mera naam hai. Mein toh income tax submit bhi nahin kiya tha.
+caller: Tumhara address Ahmedabad mein hai, hai na? Humne tumhara GST registration bhi check kiya hai, aur vo bhi complete nahi hai.
+receiver: GST registration? Mein GST wala nahi hoon. Mein kitna confusion ho raha hai.
+caller: Apko maaf karna, Sir. Yeh ek automated system ka message hai.  Humko tumhara KYC information

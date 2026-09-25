@@ -1,0 +1,8 @@
+caller: Aapse baat karna, apke mobile internet package ka update hai. Hum apke bill ko automatically update kar rahe hain. Aapko ek SMS mil jaayega, just wait.
+receiver: Oh, okay.  Main wait karta hu.  Aapko mera number pata hai kya?  Bas number confirm karna chahta hu taaki mujhe pata rahe ki yeh meri hi baat hai.
+caller: Ji, apka number [Invented Number, e.g., 9876543210] hai aur apne internet package upgrade karne ka option select kiya hai. Kya yeh sahi hai?
+receiver: Haanji, bilkul sahi hai. [Invented Number] hi hoon main. Thank you so much for confirming! Bahut Khushi hui yeh sunke.
+caller: Bahut achcha, [Invented Number]! Hum apke internet package ko upgrade kar rahe hain aur aapko kuch hi der mein SMS mil jaayega.  Aapko payment karne mein koi problem aa rahi hai?  Hum aapko online payment ke liye ek website link bhej sakte hain.
+receiver: Nahi nahi, payment mein koi problem nahi hai. Actually, payment toh maine already kar diya tha. Bas main yeh confirm karna chahta hu ki upgrade successful ho gaya hai. Agar SMS mil jaaye toh I’ll be all set. Thank you for offering though!
+caller: Okay, [Invented Number]. Aapne payment pehle hi kar di hai, yeh sunke achha laga. Hum bas upgrade confirmation ke liye process kar rahe hain. Agar aapko SMS mil jaaye toh aapki upgrade process ho jayegi. Aapke internet package ki speed mein koi specific requirement hai? Jaise ki minimum download speed ya upload speed?
+receiver: Haanji, actually maine maximum download speed required hota hai. Kya aapko mil jaaye toh bahut achha hoga. Thanks!

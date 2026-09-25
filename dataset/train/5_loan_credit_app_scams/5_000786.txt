@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mera naam Deepak Sharma hai, FastLoanHelp.com se baat kar raha hoon. Aapne apni details online submit ki thi ek urgent loan ke liye, hai na?
+receiver: Haan, ji. Maine kuch din pehle application kiya tha. Kya hua?
+caller: Sir, aapka loan approve ho gaya hai, ₹75,000 ki amount. Lekin, security ke liye, humko aapki aadhaar card ki copy aur ek selfie photo ki zaroorat hai, jismein aap hath mein aadhaar card leke muskuraye.
+receiver: Selfie aur aadhaar card? Kyun?
+caller: Sir, verification ke liye hai. Kyunki bahut se log fake application karte hain. Agar aapko loan chahiye, toh yeh zaroori process hai. Photo upload karein [fake website address].
+receiver: Okay, upload kar raha hun. Photo aur Aadhaar card upload ho gaye. Ab kya?
+caller: Bahut achha, sir! Ab, aapko ₹2,500 ka processing fee deposit karna padega. Account details main aapko bhejta hoon. Jab fee deposit ho jayegi, toh ₹75,000 aapke account mein transfer kar denge.
+receiver: ₹2,500? Kitna zyada hai!

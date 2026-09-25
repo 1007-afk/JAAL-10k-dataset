@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit from Paytm Payments Bank. We are doing a lucky draw for all our customers, and you have been selected to win a cashback of ₹5000!
+receiver: Really? Wow! That’s great news! What do I need to do?
+caller: To claim your prize, we just need to verify your account. It’s a quick process. Please share your Paytm registered mobile number and a one-time password I’ll send to your number.
+receiver: Okay, my number is 9880012345. But why do I need to give you an OTP? Shouldn’t I be getting this from Paytm directly?
+caller: Sir, this is a security protocol. The OTP ensures it’s you claiming the prize. Don’t worry, it’s completely safe. Just share the OTP when you receive it. The ₹5000 cashback will be credited to your Paytm wallet immediately after verification.
+receiver: Hmm, that's a bit strange, but okay. I just received an OTP - it's 456789.
+caller: Thank you! Please confirm that the last four digits of your bank account linked to Paytm are 1234? This is just for final verification.

@@ -1,0 +1,6 @@
+caller: Namaste sir, yeh toh Bharat Vikas Bank se Arjun Kumar ne call kiya hai. Aapka credit card ka KYC expiry ho chuka hai. Covid-19 ke vakt mein, hum sabhi online KYC karte hain. Aapne apni credit card ka account number batayein, please.
+receiver: Namaste, Arjun Kumar? Credit card expiry? Okay, okay. Account number chahiye? Mera account number hai 4567890123456789.
+caller: Ji sir, thanks. Ab aapke registered mobile number ko bank mein connect karne ki zarurat hai. Woh number bataiye.
+receiver: Haanji, mera registered mobile number hai 9876543210. Kya ab pata chalega?
+caller: Thank you.  Ab aapko ek temporary password mil jayega jo aapke mobile par sent hoga.  Woh password agar aap humko dete hain, to hum aapki credit card activate kar sakte hain.  Password jaldi dalo, yeh password sirf 1 minute ke liye valid hai.
+receiver: Temporary password? Okay, please wait. Main check karta hoon... Yes, I got it. Yeh hai 12345678. Hope this is correct.

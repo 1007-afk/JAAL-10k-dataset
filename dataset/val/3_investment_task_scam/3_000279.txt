@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Patel? I’m calling from the Central India Finance Trust. How are you doing today?
+receiver: Ji, main hi Mr. Patel bol raha hoon. Main theek hoon, aap kaise hain? Aur aap Central India Finance Trust se kaun hain?
+caller: Wonderful to speak with you, Mr. Patel! We’re contacting you regarding a very promising investment opportunity that we believe would be ideal for someone like you. Our wealth management team has flagged a potential high-yield bond.
+receiver: High-yield bond? Kya hota hai yeh? Aur why mujhe call kiya?
+caller: This particular bond is issued by ‘Sunbeam Logistics’, a rapidly growing transport company based out of Jaipur. They’re offering an impressive yield of 8%, and we anticipate a possible increase in value as their business expands. It's a relatively low risk investment.
+receiver: Sunbeam Logistics? Jaipur mein? Unka business kitna bada hai? Aur yeh 8% yield kitna safe hai?
+caller: They’ve recently secured several major contracts with large retailers across Rajasthan, which is driving their expansion. The 8% yield is quite competitive compared to other similar bonds currently available. Our analysts have conducted extensive due diligence and believe this is a solid long-term investment.
+receiver: Extensive due diligence? Woh kya matlab hai? And how long do we expect to see this growth? What’s the timeframe for seeing these returns?
+caller: We project a steady growth rate of around 15% over the next three years, with the potential for further gains if they continue to expand their operations. We’d like to get your interest and discuss the finer details of investing in this bond. Would you be open to speaking with one of our financial advisors?

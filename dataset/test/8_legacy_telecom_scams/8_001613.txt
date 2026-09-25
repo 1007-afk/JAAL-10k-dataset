@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly?  Aapko meri awaaz samajh aati hai? Dekho, main aapko keh raha hun ki aap hamare premium members ke list mein se hain, aur isliye aapko free 50 GB data plan ke draw mein shamil karne waali hain.  Bas aapko 'Reply with YES' likhne hai.  Do you want to participate?  Kya aap 'Reply with YES' likhne wala hain?
+receiver: Oh, hello! Yes, I can hear you clearly. Free 50 GB data plan? That’s quite nice. ‘Reply with YES’... Okay, I’ll do that. Thank you!
+caller: Wonderful! That's great news, madam/sir.  And just a reminder, you only have two chances remaining to win this incredible prize! Is this [Invented Name, e.g., Ms. Verma's] phone number?  So I can verify your participation.  Aapki phone number hai na?
+receiver: Yes, this is [invented name, e.g., Priya Patel]'s number. Two chances left? Okay, that’s good to keep in mind. Thanks for checking!
+caller:  Shandar, Ms. Priya Patel!  Aapka entry verified ho gaya hai.  Aapke paas abhi sirf one chance bacha hai, isliye haste haste decision le lijiye.  Kya aap apne bachche ya koi family friend ko bhi is offer ka pata chalane waale hain? Unhein bhi ek chance milega!
+receiver: Oh, really? Only one chance left now? Hmm, that’s a bit tight. I might tell my son, but I need to check with him first.  Thanks for telling me!
+caller:  Arre, absolutely fine, Ms. Priya Patel!  I completely understand.  Just to reiterate, aapke paas abhi sirf zero chances bache hain for this 50 GB data plan draw.  Don't delay any further – hurry up! Agar aapko koi bhi confusion ho ya koi baat puchna ho, toh bilkul pooch sakte hain.
+receiver: Zero chances? Seriously? Okay, thanks for letting me know. No more questions, I think. Let’s see…

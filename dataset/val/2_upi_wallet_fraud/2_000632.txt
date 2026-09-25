@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Ankit bol raha hoon. Aapke account mein ₹5000 ka cashback pending hai, lekin verification ke bina woh expire ho jayega.
+receiver: Flipkart se? Main Flipkart pe kuch order to kiya tha, lekin cashback ka koi message nahin aaya. Kya verification karna hai?
+caller: Haan ji, ₹5000 ka cashback aapke last purchase par milna chahiye tha, lekin security reasons se woh hold ho gaya hai. Verification ke liye, aapko apna UPI ID share karna hoga.
+receiver: UPI ID? Mujhe doubt ho raha hai. Flipkart toh direct message karta hai, phone nahin karta.
+caller: Sir, security update ke wajah se abhi phone se hi verification karna pad raha hai. Yeh sirf 2 minutes ka kaam hai. UPI ID share karein, cashback aapke account mein transfer ho jayega.
+receiver: Ok, let me check something first. Can you give me your official Flipkart customer care number, so I can verify with them?
+caller: Sir, official number aap Flipkart app mein mil jayega. Seedhe verification ke liye ye number hai. Please UPI ID share karein, otherwise aapka ₹5000 ka cashback expire ho jayega.
+receiver: I am not going to share my UPI ID. This feels like a scam. I'll check with Flipkart myself.

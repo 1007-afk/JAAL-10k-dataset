@@ -1,0 +1,8 @@
+caller: Namaste, main HDFC Bank se call kar raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: HDFC Bank se? Woh kya transaction hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek payment request aaya tha ₹1500 ka, jo aapne approve nahi kiya tha. Is transaction ko secure karne ke liye, aapko PhonePe app mein log in karna hoga aur ek OTP share karna hoga.
+receiver: ₹1500? Maine toh koi payment nahi kiya. Aur PhonePe se OTP? Bank toh kabhi phone pe OTP nahi puuchta.
+caller: Sir, yeh security protocol hai. HDFC Bank aapki security ko priority deta hai. PhonePe se aapke account ko verify karna hoga, otherwise transaction reverse ho jayega aur aapko claim bhi nahi kar payenge.
+receiver: Account reverse ho jayega? Koi claim bhi nahi? Yeh bahut strange lag raha hai. Mujhe doubt ho raha hai.
+caller: Sir, time is running out. Is transaction ko secure karne ke liye abhi PhonePe app mein log in karein aur OTP share karein.
+receiver: Theek hai, ek minute. Main khud PhonePe app check karta hoon. Aap wait karein.

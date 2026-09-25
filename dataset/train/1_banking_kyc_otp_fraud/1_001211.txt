@@ -1,0 +1,7 @@
+caller: Namaste Madam, mai ICICI bank se Rohit bol raha hoon. Aapke naam par ek online trading account open kiya gaya hai, aur usmein kuch suspicious activity dikh rahi hai.
+receiver: Online trading account? Maine toh kabhi koi trading account nahi khola.
+caller: Madam, yeh account recently open hua hai, aur usmein share market mein kuch transactions ho rahe hain. Account secure karne ke liye, mujhe aapke account se linked mobile number par aaya OTP chahiye.
+receiver: OTP? Lekin maine toh kuch bhi transaction nahi kiya hai. Aapko kaise pata ki yeh mera account hai?
+caller: Madam, OTP sirf aapke account ki verification ke liye hai. Agar aap OTP nahi denge, toh humko account suspend karna padega, aur aapka paaisa bhi risk mein aa jayega. Yeh ek emergency hai.
+receiver: Account suspend? Paaisa risk mein? Sir, mujhe yeh thoda suspicious lag raha hai. Kya aap mujhe branch ka naam aur phone number de sakte hain jahan main verify kar sakta hoon?
+caller: Madam, branch se call karne ka time nahi hai. Yeh central security team ki call hai. OTP jaldi bataiye, otherwise account freeze ho jayega. Yeh process sirf 5 minute ka hai.

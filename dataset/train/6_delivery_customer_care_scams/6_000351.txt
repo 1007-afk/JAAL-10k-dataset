@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? My name is Rohan, calling from Bharat Flash Courier. We're experiencing some difficulty locating your package for order #BF789456. It seems there's an undelivered payment attached to the shipment.
+receiver: Haanji, main hi hoon Verma. Bharat Flash Courier? Mujhe koi order yaad nahi.
+caller: Sir, it could be a gift, or perhaps you forgot. Our system shows a payment of ₹2,500 is pending for customs clearance. To release the package, we require a one-time verification OTP sent to your registered mobile number. Just to confirm, is 9876543210 the correct number?
+receiver: ₹2,500? OTP? Yeh kuch gadbad lagi. Main kabhi Bharat Flash se order nahi kiya.
+caller: Sir, it’s a standard security protocol. Without this OTP, the package will be returned to the sender. We can also help you through a secure payment link to clear the customs fee. Don't worry, it's completely safe and will ensure the quick delivery of your item.
+receiver: Payment link? Nahin, nahin! Mujhe yeh sab risky lag raha hai. Main police mein report kar dunga.
+caller: Sir, please don’t do that! It’s a misunderstanding. Let me escalate this to my supervisor, just to clear the confusion. Please hold the line.

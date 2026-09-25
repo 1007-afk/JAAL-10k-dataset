@@ -1,0 +1,14 @@
+caller: Namaste, suno, yeh Sanjay Kumar bol raha huun. Main Hindustan Telecom se call kar raha hun. Kaise ho aap? Mein aapko ek special offer batawana chahunga. Kya aapko internet bill padta hai?
+receiver:Haanji, maaf karein, lekin main internet bill padhta nahi hoon. Main ek small business owner hoon.
+caller:Koi baat nahi, sab sahi hai. Aapko sirf ek simple survey fill karna hoga, aur aapko ₹500 ka voucher milega. Yeh offer sirf limited time ke liye hai, sirf Delhi mein available hai. Aapka mobile number register kiya gaya hai, woh toh pata hona chahiye.
+receiver: Delhi mein? Mein Mumbai mein rehta hoon. Mein ye voucher seekh raha tha, kyuki mera online payment system fail ho raha hai.
+caller:Arre, Mumbai bhi acha hai. Lekin yeh offer har state mein available hai. Survey mein sirf aapki demographic details aur shopping habits ka question hoga. Aapko cheque ni dena hai.
+receiver: Cheque ni dena hai? Seriously? To yeh voucher free mein milega?
+caller: Haanji, totally free! Par yeh offer sirf aaj raat tak valid hai. Aapko apne bank account ka detail provide karna hoga, agar aap voucher claim karna chahte hain. Account number aur IFSC code batayein.
+receiver: Bank account ka detail? Woh thoda scary lag raha hai.
+caller: Darrne wala kuch nahi hai. Yeh secure website hai. Aur aapko voucher claim karne ke liye yeh details zaroori hain. Aapko paisa bharna bhi nahi padega.
+receiver: Okay, fine. Main bank account ka deta de doon, par mujhe assurance chahiye ki meri security hogi.
+caller: Haanji, apki security hamara priority hai. Website encryptioned hai, aur hamari team aapki data protect karne ke liye ready hai. Aapko voucher claim karne mein koi problem nahi honi chahiye. Ab aap apne bank account ka number aur IFSC code bataiyein.
+receiver: My account number is 1234567890, and my IFSC code is SBIN0000123.
+caller: Dhanyavaad! Aapko voucher soon dikha denge. Thank you for cooperating!
+receiver: Thank you too, Sanjay Kumar.

@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay Singh bol raha hoon, FastCash Solutions se. Aapka naam Rajesh Verma hai, mobile number 9876543210? Humare record mein aapne kuch din pahle hi ek personal loan ke liye apply kiya tha.
+receiver: Haan, main Rajesh Verma hoon. FastCash Solutions? Woh apply toh kiya tha, lekin mujhe kuch notification nahi mila.
+caller: Rajesh ji, aapki application approve ho gayi hai, ₹75,000 ka loan, sirfadharit charges ke saath. Abhi bas verification ki zaroorat hai. Kuch details confirm karne ke liye, aapka PAN card number aur OTP jo aapke phone par aaya hai, bataiye.
+receiver: PAN card number? Aur OTP? Yeh thoda risky lag raha hai.
+caller: Rajesh ji, bilkul safe hai! Yeh humari security protocol ka hissa hai. OTP se hum confirm karte hain ki aap sahi person hain. Aur PAN card number se hum aapki identity verify karte hain. Hurry up, offer sirf aaj ke liye hai! Agar aap cooperate nahi karenge toh loan process cancel ho jayega.
+receiver: Okay, PAN card number XYZ12345. OTP hai 123456.
+caller: Dhanyavaad, Rajesh ji! Ab bas ek chota sa processing fee deposit karna hai, ₹3,000. Iska payment humko UPI ke zariye send karein, number [scammer's UPI ID]. Iske baad aapko ₹75,000 mil jayenge. Jaldi karo, time kam hai!
+receiver: ₹3,000? Lekin maine toh loan free hona tha!

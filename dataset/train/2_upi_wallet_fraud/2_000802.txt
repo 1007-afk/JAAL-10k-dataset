@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein ek transaction fail ho gaya hai, ₹3500 ka. Isko rectify karne ke liye, humein bas aapki help ki zaroorat hai. Aapka wallet secure rakhne ke liye, mujhe aapke wallet ka last 4-digit OTP chahiye.
+receiver: ₹3500 ka transaction fail? BharatPay se hi call hai? Mujhe toh koi notification nahi aaya. OTP kyun chahiye?
+caller: Haan ji, bilkul. Fail hone ke baad system automatically OTP generate karta hai.  Yeh ek security check hai, bina OTP ke hum kuch nahi kar sakte. Aapko ₹3500 wapas milna chahiye, bas OTP batayein.
+receiver: Toh woh OTP kahan aaya hai? Mere phone pe koi OTP nahi aaya hai. Aur ₹3500, woh toh mera emergency fund tha!
+caller: Thoda wait karr bhai, kabhi-kabhi delay ho jati hai. OTP message check karo, SMS folder mein bhi dekho. Aakhir ₹3500 toh tumhe wapas milna hi hai! Jald se jald OTP do, warna transaction permanent fail ho sakta hai.
+receiver: Okay, theek hai. Let me check… Acha, aaya hai ek message. 4916. Yeh lo OTP.
+caller: Shukriya! Ab ₹3500 aapke wallet mein deposit ho gaya hai.  Ek chota sa verification process hai, aapke wallet mein ₹10 recharge karna hai. Bas ₹10 recharge karr, taaki transaction complete ho jaaye.

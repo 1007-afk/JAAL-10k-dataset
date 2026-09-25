@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from QuickLoan India. We noticed you recently applied for a personal loan, and we have a fantastic approval for you, sir! Just need to verify a few details.
+receiver: Oh, really? That’s good to hear. I did apply, but haven't heard anything back yet. My name is Raj Patel.
+caller: Wonderful, Mr. Patel! So, the loan amount approved is ₹75,000 with a very low interest rate. To activate it, we just need a small processing fee of ₹5,000 upfront. It will be deducted immediately and your loan will be credited within the hour.
+receiver: ₹5,000? That seems a bit high for a processing fee. Is that standard? And how will you be deducting it?
+caller: Yes, Mr. Patel, this is a standard procedure to prevent fraudulent applications. We'll send you a secure payment link via SMS. It's completely safe, don't worry. Once the payment is confirmed, the loan will be released. Think of it as a small investment for a large sum of money!
+receiver: Hmm, okay. Can you send me the SMS link now? Let me double-check everything before I make any payment. Also, could you confirm the loan reference number again?
+caller: Absolutely! The SMS is being sent now, Mr. Patel. The reference number is QLI-78923. Please check your inbox. It’s time-sensitive, sir. Don't miss out on this incredible offer!

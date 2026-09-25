@@ -1,0 +1,8 @@
+caller: Namaste, mai IDFC First Bank se Rohan bolta hoon. Aapka naam Priya Sharma hai, correct?
+receiver: Haan, main Priya Sharma hoon. Bolie, kya baat hai?
+caller: Ma'am, humein ek suspicious activity aapke account mein dikhai de raha hai. Kisi ne OTP request kiya hai, lekin pata nahi chala ki aapne kiya ki nahi. Account ko secure karne ke liye, humein aapke account details verify karne hain, jise aapka paisa safe rahe.
+receiver: Account details? Kaunse details? Mujhe toh koi OTP request yaad nahi aa raha. Yeh zyada suspicious lag raha hai.
+caller: Ma’am, humein sirf aapka Aadhaar number aur last 4 digits bank account number chahiye. Bas verification ke liye. Hum aapko ek OTP bhejenge uske baad, jo aapko bata denge ki verification successful hai. Jaldi karein, ma'am, warna account suspend bhi ho sakta hai.
+receiver:  Aadhaar number? Aur bank details bhi?  Yeh toh bilkul galat lag raha hai. Bank aise phone pe nahi puchta. Main koi bhi information share nahi karungi.  
+caller:  Ma'am, please!  Account suspend ho jayega, aur phir aapka paisa bhi stuck ho sakta hai.  Hum sirf aapki madad kar rahe hain. Just a few seconds, ma'am.
+receiver:  Theek hai, mujhe abhi call disconnect karna padega. Mujhe bank branch mein jaake check karna hai. Bye.

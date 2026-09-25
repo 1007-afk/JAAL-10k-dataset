@@ -1,0 +1,8 @@
+caller: Namaste, is this speaking to Mrs. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence. We’ve detected some unusual activity linked to your bank account, specifically a series of small cryptocurrency transactions.
+receiver: Haan, bolie. Cryptocurrency? Main toh kabhi cryptocurrency nahi kiya. Kya ho raha hai?
+caller: Ma'am, we traced these transactions to an account involved in facilitating illegal online gambling platforms. Your account appears to have been unknowingly used as a conduit. To clear this up and avoid further investigation, we need you to deposit ₹15,000 into this designated bank account as a security deposit.
+receiver: ₹15,000? Gambling platforms? Sir, yeh to galat hai! Main toh kabhi online game bhi nahi khelta. Aapko kaise pata chala mera account use ho raha hai?
+caller: Ma'am, we have IP address tracing and transaction logs. This is a serious matter; we’re just trying to resolve it quickly to protect you from potential charges. We need confirmation of the deposit, and we’ll walk you through a quick verification process. It’s better to cooperate now than face legal action later.
+receiver: Verification? Legal action? Wait a minute, sir. Why didn’t you send me a written notice? And why are you asking for money over the phone? This feels wrong. I need to talk to someone.
+caller: Mrs. Sharma, time is of the essence. Every minute we delay increases the risk. To demonstrate your commitment to resolving this, we need a quick proof of payment. Send us a screenshot of the transaction, and we'll initiate the verification process immediately.
+receiver: No, I will not. I am reporting this number. This is clearly a scam.

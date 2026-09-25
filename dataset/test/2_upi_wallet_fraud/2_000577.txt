@@ -1,0 +1,8 @@
+caller: Hello sir, I’m calling from FreeCharge customer support. We’ve noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything different.
+caller: Sir, a request for ₹2000 has been pending. To complete the verification and prevent your account from being blocked, you need to share a one-time verification code via UPI.
+receiver: UPI? Why do you need a UPI code? FreeCharge usually sends OTPs to my registered mobile number, not via UPI. That seems risky.
+caller: Sir, this is a new security protocol. The OTP through UPI is more secure. It's a one-time thing, just to confirm it's you. Otherwise, your FreeCharge account will be temporarily suspended for security reasons.
+receiver: Suspended? Okay, let me just check something on the FreeCharge app first. One moment, please... (pause) …Okay, you know what? I don’t see anything about a pending transaction or a security alert on my app. This doesn't feel right.
+caller: Sir, please don't ignore this. It’s to protect your money. Just share the UPI code and we will resolve this immediately. Time is running out before your account gets locked.
+receiver: No, thank you. I’m ending this call. I’m going to contact FreeCharge directly through their official website.

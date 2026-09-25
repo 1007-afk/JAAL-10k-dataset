@@ -1,0 +1,11 @@
+caller: Namaste! Aapko badi khabar dethi hai - aap ne lottery mein jeeti hai ₹5,000!
+receiver: Arre yaar! Seriously? ₹5,000? Kya bolti ho?
+caller: Haan bhai, sach hai! Govt. ke ek scheme ka part hai yeh jeet, aur aapko yeh raashi apne Paytm account mein receive karni hai.
+receiver: Paytm? Okay, okay. Toh main jo paisa jeet raha hoon, wo Paytm par transfer ho jayega?
+caller: Baht hi achcha! Parle, humein aapke Paytm account ka UPI ID chahiye. Woh bataiye, agar koi problem nahi hogi.
+receiver: Mera UPI ID hai [Invented UPI ID]. Iska matlab kya hoga?
+caller: Shukriya [Invented Name] ji. Verification ke liye, humein aapke bank account ka IFSC code chahiye. Agar aap woh bata de, to hum transfer process sudhar sakte hain.
+receiver: Mera IFSC code hai [Invented IFSC Code].
+caller: Dhanyavaad [Invented Name] ji! Ab aapke phone mein OTP aa jaayega, jisse hum transfer complete kar payenge. OTP bataiye.
+receiver: OTP hai [Invented OTP].
+caller: Ji haan! Transfer ho gaya! Aapko ₹5,000 Paytm mein mil gaye hain! Congratulations!

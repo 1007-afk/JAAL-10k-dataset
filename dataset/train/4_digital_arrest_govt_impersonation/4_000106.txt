@@ -1,0 +1,6 @@
+caller: Hello? Is this Mr. Rajesh Kumar? This is Inspector Verma, calling from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Haan, main Rajesh Kumar. Suspicious items? Mere naam pe koi package? Main toh kuch order nahi kiya tha.
+caller: Sir, it appears the package was sent from abroad and contains what we believe to be counterfeit currency and potentially illegal electronic devices. We need to verify your involvement to prevent further legal complications.
+receiver: Yeh kya bakwaas hai? Counterfeit currency? Main toh itna bhi corrupt nahi hoon! Main toh ek ordinary accountant hoon. Aapko kaise pata chala ki package mere naam se hai?
+caller: Sir, the tracking details clearly show your address. To clear this up quickly and avoid arrest, we need you to make a small payment of Rs. 8,000 to cover processing and verification fees. A bank transfer would be simplest.
+receiver: Rs. 8,000? Arrest? Bank transfer? Yeh toh scam lag raha hai! Main police mein complaint kar dunga agar aapne mujhe disturb kiya. Aapka naam aur department ID batao.

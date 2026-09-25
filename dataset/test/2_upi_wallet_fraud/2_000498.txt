@@ -1,0 +1,7 @@
+caller: Hello sir, I am calling from BharatPe support. We have detected some unusual activity on your linked bank account.
+receiver: Unusual activity? What kind of activity? I haven't done anything out of the ordinary.
+caller: Sir, a small transaction of ₹200 has been flagged for verification. It appears someone might be trying to access your account. To secure your account, you need to complete a quick OTP verification.
+receiver: OTP? Why do I need to give you an OTP? Isn't that risky? I thought BharatPe never asks for OTPs over the phone.
+caller: Sir, this is a security protocol. We need to confirm you are the legitimate account holder. We will send the OTP to your registered mobile number. Please share it with me immediately, so we can resolve this and prevent any further unauthorized transactions.
+receiver: Wait a minute. Let me just check my BharatPe app. Okay, I see a notification about verification. But it asks me to verify *within* the app, not over the phone.
+caller: Sir, there seems to be a technical glitch. Please ignore the app notification. The security team is working on it. It’s crucial that you provide the OTP now. Otherwise, your account will be temporarily blocked for security reasons.

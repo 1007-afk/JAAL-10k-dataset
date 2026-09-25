@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash from IDFC First Bank security. We've detected unusual activity on your savings account.
+receiver: Haanji, bolie. Kya hua?
+caller: Ma’am, there's been an attempted online transaction for ₹12,000 to a new payee. To prevent this and safeguard your funds, we need to quickly verify your identity.
+receiver: ₹12,000? Kab hua ye? Mujhe toh koi transaction ka message aaya nahi.
+caller: It happened just a few minutes ago, ma'am. We need to confirm a few details. Could you please share the OTP you just received on your registered mobile number? It's a security measure, absolutely necessary.
+receiver: OTP? Aapko OTP chahiye? Main suni hai log OTP maang ke paise nikal lete hain.
+caller: Ma’am, please don’t worry. We are the bank’s security team. Without OTP verification, we can’t guarantee the safety of your account. Think about it, if we didn't ask, someone else could be accessing your account right now. Agar aapko kuch doubt hai, aap apne ATM card ke pin number ko share karein.
+receiver: Haan, ab mein soch raha hoon… yeh thoda shakt lag raha hai. Main bank mein khud jaaunga aur baat karta hoon.

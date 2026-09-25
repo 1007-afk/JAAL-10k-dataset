@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from FastLoan India. We’ve pre-approved you for a ₹75,000 personal loan with very low interest. Just a quick verification process.
+receiver: Really? That's good news. What do I need to do? I do need the money urgently.
+caller: Excellent! To finalize the loan, we just need a small security deposit of ₹5,000 to cover processing fees and insurance. It will be refunded immediately after the loan is disbursed. Can you transfer it to the given UPI ID: 87654321@axisbank?
+receiver: ₹5,000? I wasn't expecting a deposit. Are you sure that’s required?
+caller: Yes, sir. It’s standard procedure. We need to confirm your commitment. Many people try to take advantage of our offers, so this avoids fraudulent applications. Transfer the ₹5,000, and within an hour, your loan will be credited to your account. We will also send you a WhatsApp message confirming disbursement.
+receiver: Okay, I’ll transfer it. But please send that WhatsApp message right after. I will make the payment now. Just confirm the UPI ID again.
+caller: Perfect! UPI ID is 87654321@axisbank. Once the payment is confirmed, we'll start the final verification. Please note, if we don't receive confirmation within 30 minutes, your approval may expire.

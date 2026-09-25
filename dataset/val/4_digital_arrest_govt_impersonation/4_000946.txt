@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We've intercepted a package registered to your address containing suspicious items.
+receiver: Customs? What suspicious items? I haven't ordered anything recently.
+caller: Sir, it appears the package contains undeclared high-value goods and evidence of potential money laundering activity. We need to verify your involvement. For your protection, you must immediately call our verification officer at 9821234567. It's a secure line.
+receiver: Wait a minute. This sounds like a scam. Why are you telling me to call another number instead of explaining this properly? Can you give me a reference number or an official email address?
+caller: Sir, protocol restricts me from providing those details over an open line due to security concerns. This is a very sensitive matter, and we're working closely with the Enforcement Directorate. Delaying the call could lead to legal consequences, including asset seizure. Please, for your own sake, call 9821234567 immediately. Time is critical.
+receiver: No, thank you. I'm calling the cybercrime helpline right now. I know how these things work. Goodbye.
+caller: Sir, please reconsider! This isn't a negotiation. We’re merely ensuring your compliance with legal regulations. A final warning – failure to contact us within the next 30 minutes will result in further action. Dial 9821234567 now.

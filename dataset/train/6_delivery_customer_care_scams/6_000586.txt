@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Sharma?
+receiver: Haan, bolie. Who’s calling?
+caller: Sir, this is Rahul from BlueDart Courier. We have a parcel addressed to you, but there's a slight issue with the delivery address. It's showing as incomplete.
+receiver: A parcel? I wasn’t expecting anything. What’s the issue exactly?
+caller: Sir, to complete the address and avoid a return fee of ₹350, we require a one-time password (OTP) sent to your registered mobile number. It’s just a security measure.
+receiver: ₹350? That seems a bit excessive. And why do I need to give you an OTP? Shouldn't I just clarify the address?
+caller: Sir, it's standard procedure. We need to verify that you are the rightful recipient. Once you provide the OTP, we’ll update the address immediately and dispatch the parcel. It’s very quick, I promise. Just the OTP, nothing else.
+receiver: No, I am not comfortable giving out an OTP. I'll call BlueDart directly to verify. What's your reference number?

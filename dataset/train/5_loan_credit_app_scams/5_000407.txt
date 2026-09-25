@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Ankit Verma, LoanHelp24 se baat kar raha hoon. Aapne kuch din pehle LoanDekho app par personal loan ke liye apply kiya tha, hai na?
+receiver: Haan, mainne apply kiya tha. Kya baat hai?
+caller: Sir, aapka application approved ho gaya hai, lekin security check ke liye aapko ek OTP verify karna hoga. Aapke WhatsApp number par ek code ayega. Woh mujhe bata dijiye.
+receiver: WhatsApp par? Okay, wait karo. Aa gaya hai. 789012.
+caller: Excellent sir! Verification complete ho gaya hai. Loan amount ₹50,000 approve kiya gaya hai, lekin processing fee ke तौर पर ₹5,000 aapko pehle deposit karne honge.
+receiver: ₹5,000? Mainne loan apply karte waqt aisa kuch nahi suna tha!
+caller: Sir, rule change ho gaya hai, aapko pata hi hoga. Kal se hi ye rule hai. Agar aap deposit nahi karte, toh application cancel ho jayega aur aapki file blacklisted ho jayegi. Aur apne contacts ke morphed pictures bhi whatsapp pe a jayenge.
+receiver: Contacts ke morphed pictures? Yeh kya bol rahe ho? Mujhe kuch nahi dena hai.

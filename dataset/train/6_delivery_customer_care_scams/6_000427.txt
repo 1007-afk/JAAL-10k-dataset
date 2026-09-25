@@ -1,0 +1,8 @@
+caller: Namaste! Mai Paytm ka customer care se Rahul bolta hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Mujhe bataiye kya hua?
+caller: Sir, aapke account se ₹4999 ka transaction hua hai Flipkart par, jo aapne nahi kiya hai. Immediate action lene ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Paytm aise bhi phone karta hai? Mujhe toh kuch yaad nahi.
+caller: Haan sir, security ke liye. Main aapko OTP SMS se bhejunga. OTP milne ke baad, hum account secure kar denge aur Flipkart ko bhi report kar denge. Jaldi karo, warna account hack ho sakta hai.
+receiver: Theek hai, bhijvaye OTP. Par agar Flipkart pe transaction hua hai toh mujhe notification kyun nahi aaya?
+caller: Sir, hackers bahut smart hote hain. Notification bhi block kar sakte hain. Trust me, OTP verify karna hi safest option hai. Main aapko OTP SMS se bhejunga.
+receiver: Haan theek hai, bhijvaye. Par ek minute rukiye, Paytm toh app se hi OTP verify karta hai, phone se nahi.

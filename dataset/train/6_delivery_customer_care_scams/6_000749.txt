@@ -1,0 +1,8 @@
+caller: Hello, is this Rohan Verma? We're calling from Swiggy Customer Care. There's been an issue with a recent order – transaction ID SWG12345. It appears there was an attempted fraudulent payment.
+receiver: Oh really? Which order are you talking about? I don't recall any unusual activity.
+caller: Sir, for security reasons, we need to quickly verify your identity. Can you please share the OTP that we just sent to your registered mobile number, 9876543210? It's a one-time password to prevent unauthorized access to your Swiggy account.
+receiver: Wait a minute… Swiggy usually doesn't ask for OTPs over the phone. Is this really Swiggy? Can you give me a callback number I can verify?
+caller: Sir, this is a very urgent matter! If we don't verify your account immediately, your Swiggy Pay balance of ₹5,000 could be compromised. The callback number is 022-28960000 – that’s our official Swiggy Customer Care line. Please share the OTP now, sir!
+receiver: ₹5,000? That’s a lot. I'm still not comfortable sharing the OTP without verifying this number first. Let me call Swiggy’s official number myself.
+caller: Sir, time is of the essence! Every second counts in preventing fraud. Share the OTP, sir! Otherwise, we’ll have to freeze your account temporarily.
+receiver: Freeze my account? Okay, this definitely feels like a scam now. I’m hanging up.

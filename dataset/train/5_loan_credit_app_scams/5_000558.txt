@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, speaking. Are you looking for a quick loan? We at 'FastCash Pro' are offering instant loans from ₹10,000 to ₹75,000, no credit check needed. Just a few minutes, and the money is in your account. What's your name, please?
+receiver: Hello? Really? I’m interested. My name is Ankit Sharma. What’s the catch? It sounds too good to be true.
+caller: No catch, Ankit Sharma! FastCash Pro believes in helping everyone. We just need some basic details to verify your identity. Could you tell me your current occupation and your annual income, roughly? And do you own a smartphone?
+receiver: I’m a freelancer, mostly graphic design work. My income is around ₹60,000 a year. Yes, I have a smartphone, a Samsung A23. What kind of documents will you need?
+caller: Excellent! That's perfect, Ankit Ji. To process your loan quickly, we require a quick scan of your Aadhar card and a recent photograph. Don't worry, it's completely secure. We'll send you a link. Once we verify, the ₹50,000 you requested will be credited immediately. There's a small processing fee of ₹2,500 that needs to be paid upfront.
+receiver: ₹2,500 upfront? That wasn’t mentioned before. And sending my Aadhar card online feels risky. I need to think about this. Can you send me some more information about FastCash Pro? A website or something?
+caller: Ankit Sharma, this is a limited-time offer. If you delay, someone else will grab it! The ₹2,500 is just to activate your account. Think of it as a security

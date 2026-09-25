@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Akash from BlueLine Logistics. We're calling about a parcel addressed to you – it seems there's a customs clearance issue.
+receiver: Customs clearance? What parcel is this? I wasn’t expecting anything.
+caller: Yes sir, it's a high-value item from a shop called "TrendyDeals" – looks like a mobile phone. The system flagged it for a potential security hold. To release it, we need to verify a small processing fee of ₹2500 to cover the clearance charges.
+receiver: ₹2500? That seems a bit steep. Can you give me a tracking number so I can check? Also, what’s TrendyDeals? I don't recognize the name.
+caller: Absolutely, sir. The tracking number is BL789456123. TrendyDeals is a popular online marketplace, many people order from there. To proceed with the release, we need you to pay this fee securely through our payment portal. I can send you a link, sir. It's urgent, as the parcel might be sent back otherwise.
+receiver: A link? I'm not comfortable clicking on a link you send. Can I call TrendyDeals directly to confirm this? What's their number?
+caller: Sir, TrendyDeals doesn't handle logistics directly; we do.  The parcel is stuck at our Delhi hub. To avoid delays and ensure the phone reaches you safely, please confirm the payment through the link I'm sending now.  It's a simple, one-time payment to clear the issue. Just a quick confirmation is all we need, sir.

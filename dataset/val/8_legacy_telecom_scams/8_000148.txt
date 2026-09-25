@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main baat kar raha hoon Ek special offer ke bare mein, jisse aapko ek badi shukriya milegi. Aapko ek selection hua hai, lekin agar aap eligible hain ya nahi, woh jaanane ke liye mujhe ek small question puchna padega. Iske bare mein suniye, 2015 mein release hua Bollywood ka blockbuster movie, ‘Dil Dhadakne Do’. Film mein, main character ke father ne ek famous singer ko public meeting mein koshish ki thi to halla bolna. Us singer ka naam kya tha? Hai li A - Sonu Nigam, B - Shreya Ghoshal, ya C - Lata Mangeshkar?
+receiver: Ji, sun rahi hoon. Aapka naam batao aur yeh Dil Dhadakne Do ka question kya hai? Sonu Nigam tha, option A.
+caller: Wah! Aapki memory bahut achchi hai! Correct! Sonu Nigam tha, option A. Ab, aapko prize milne ke liye kuch details verify karne hain. Kya aap meri uswaah se baat kar sakte hain?
+receiver: Haan, Sonu Nigam hi tha. Meri uswaah se baat kar sakta hai. Mera naam hai Rohan Kumar. Ab prize ke liye kya-kya chahiye?
+caller: Rohan, thank you.  Now, to make sure everything goes smoothly, I just need to confirm your pincode. Can you please share your pincode with me?
+receiver: Pincode? Okay, my pincode is 110001.  Aapko yeh all information prize ke liye chahiye, hai na?
+caller: Haan, 110001. Absolutely, Rohan. This information is essential for delivering your prize. And there’s a small administrative charge, just ₹350, which you'll need to pay online immediately to secure your prize. Are you ready to proceed?
+receiver: ₹350? Seriously? This doesn’t sound right. You said there was no charge earlier. This is definitely a scam! I won't do this.

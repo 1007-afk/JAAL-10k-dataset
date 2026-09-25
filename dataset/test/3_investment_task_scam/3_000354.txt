@@ -1,0 +1,8 @@
+caller: speak to the account holder please? This is regarding your current savings of 480 rupees.
+receiver: Ji, main account holder hoon. Kya baat hai? Savings ki baat kar rahe ho?
+caller: Ji sir, aapke savings mein filhaal 480 rupees hai. Isko boost karne ke liye, abhi ‘ALERT’ likh kar 98765 pe SMS karein. Sirf 20p per message lagega. Aur koi sawaal ho toh 09876543210 pe call kar sakte hain. Address hai PO Box 22/A Sector 7, Delhi.
+receiver: Achha, 480 rupees? Boost karne ke liye bol rahe ho… lekin ye 20p per message, ye kiski service hai? Aur ‘ALERT’ likhna hai, wo kaise likhna hai? Phone par likhna hai ya koi app par?
+caller: Sir, ye 20p ka charge jo hai na, vo humare service ka fee hai, jo aapke savings ko increase karne mein madad karta hai. Aur ‘ALERT’ likhne ke liye, aapko apne phone ke message section mein ‘ALERT’ type karna hai aur 98765 pe send karna hai. Jaise kisi bhi message ko bhejte hain.
+receiver: Arre, matlab message bhejna ka fee hai? Aur ye 480 rupees, ye mera hi bank account hai na? Pehle check kar lo. Aur ye ‘ALERT’ likh ke bhejne se kya hoga? Paise apne aap ayenge ya kuchh aur karna padega?
+caller: Ji sir, bilkul aapka hi bank account hai. Aur ‘ALERT’ likh ke bhejoge toh, aapke savings automaticamente badhenge, matlab aapko extra interest milega. Vo service processing ke liye wo 20p ka charge hai, samajh lijiye ek chota sa processing fee hai for the special opportunity.
+receiver: Achha, matlab ek tarah ka fee hai ye 20p ka. Aur ‘boost’ hone ka kya matlab hai? Matlab zyada paisa ayega mere bank account mein? Aur ye automatic ho jayega? Matlab main bas ‘ALERT’ likh ke bhej doon aur phir mera balance badh jayega? Ye koi investment scheme hai kya aapki?

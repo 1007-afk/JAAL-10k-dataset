@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Delhi Customs Department. We have intercepted a suspicious parcel linked to your name and address.
+receiver: Delhi Customs? What parcel? I haven't ordered anything recently.
+caller: Sir, our intelligence suggests the parcel contains contraband items related to money laundering activities. We need to verify your involvement to avoid legal complications. This is a very serious matter. We’re holding you on a temporary virtual conference to ensure you don’t disconnect and flee.
+receiver: Money laundering? This is ridiculous! I'm a retired schoolteacher. What would I be involved in? Can I speak to your superior?
+caller: Sir, protocol dictates I handle this initially. To clear this up quickly, we need you to deposit a small sum—₹15,000—as a processing fee to prove your cooperation. We can then release the parcel and close the case. Please transfer it to the account number I will provide. It’s a simple procedure.
+receiver: ₹15,000? Absolutely not! This sounds like a scam. I’m reporting this to the cybercrime cell immediately. Give me your official ID number.
+caller: Sir, do not be hasty. This is a genuine government process. Refusal to cooperate will only escalate the situation and potentially lead to your arrest. The account number is 1234567890. Just a small amount to confirm your identity. Time is of the essence, sir.
+receiver: I'm hanging up now. You're a fraud.

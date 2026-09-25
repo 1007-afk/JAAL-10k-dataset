@@ -1,0 +1,23 @@
+caller: Namaste! Kaise haal hai? Suno, aapne ek badi badi lottery mein jeeti hai!  Aapke naam par ek Samsung Galaxy S23 Ultra mein register hai!  Just send an SMS: type ‘Galaxy’ and send it to 97458. It's completely free, just confirm your win! Don't delay, this offer is limited!
+receiver: Namaste! Kya bolti hai? Lottery? Mein lottery nahi jeetta.  Batao, yeh sabara kya hai?  Koi detail bataiye.
+caller: Ahaan, genuinely, aapne online gaming tournament mein jeeta hai!  Aapki skill level bahut achhi hai!  And we want to reward you with a brand new Apple iPhone 14 Pro! Just text 'iPhone' to 78901. It's a special bonus for top players!
+receiver: Apple iPhone 14 Pro? Gaming tournament?  Mein aisa kisi bhi game mein nahi khelta.  Yeh kya bakwaas hai?  Mujhe samajh nahi aaya.
+caller: Seriously, aapne ek contest mein jeeta hai jahaan par aapne ek photo upload kiya tha.  We loved your picture! And we are giving away a Sony Bravia XR OLED TV! Just reply with ‘TV’ to 66778. It's a huge thank you for sharing your creativity!
+receiver: Ek contest? Mein upload photography nahi karta.  Mein toh confuse ho gaya hoon.  Yeh sab fake lag raha hai.
+caller: Listen carefully, you've been selected as a beneficiary of a charitable donation! We're sending you a brand new Honda Civic! Just SMS ‘Civic’ to 85432. This is a truly generous gesture – don’t miss out!
+receiver: Charitable donation? Honda Civic?  Mere naam par Honda Civic?  Yeh toh ghamand hai!  Batao, ye kaise ho sakta hai?
+caller:  Absolutely! You've won a grand prize in a sweepstakes draw!  We need to verify your identity so send a message: type ‘Verify’ to 92234.  It’s mandatory to receive your prize!
+receiver: Sweepstakes draw? Verify?  Kyun verify karna hai?  Main koi competition mein participat nahi kiya.
+caller:  Relax, just send ‘Verify’ to 92234.  It's a standard procedure, nothing to worry about.  Your prize will be shipped immediately after verification!  Don’t lose this chance!
+receiver: Okay, fine. Main ‘Verify’ bheje dunga.  Par mujhe abhi bhi samajh nahi aaya ki yeh sabara kya hai.
+caller:  Excellent! Now, to finalize everything, we need you to provide your bank account details.  Send them via SMS: type ‘Details’ to 88888.  This is essential for processing your winnings!
+receiver: Bank account details? SMS se?  Yeh toh dangerous lag raha hai!  Mein nahi dunga.
+caller:  Please, don’t hesitate!  It's a secure system, guaranteed!  Just send ‘Details’ to 88888.  Otherwise, your prize will be forfeited!
+receiver: Forfeited?  Mai toh scared ho gaya hoon.  Mujhe koi account details mat dikhana.
+caller:  Last chance! Send ‘Details’ to 88888 now!  Or your dream prize will vanish forever!
+receiver:  Okay, okay! Mai... mai ‘Details’ bheje dunga.  Par mujhe maaf karna, lekin main abhi fir soch raha hoon.
+caller: Namaste! Kaise ho? Tumhara naam Sanjay Sharma hai? Hum ne tumhein ek Diwali gift mein ek Tata Nexon mein select kiya hai! Just send an SMS: type ‘Nexon’ and send it to 77777. It’s absolutely free, just confirm your selection! Don’t miss this festive treat!
+receiver: Namaste! Sanjay Sharma? Mein Sanjay Sharma hu. Tata Nexon? Kaisa ho? Yeh kya hai?
+caller: Exactly! Tumne Diwali ke liye ek beautiful Tata Nexon mein register kiya tha! Toh, ab tumhari selection confirmed karne ke liye ek small message jhoote hai. Type ‘Confirm’ and send it to 88888. It's totally free!
+receiver: Confirm? Mein Diwali ke liye Nexon mein register kiya tha? Mein toh bhool gaya tha! Agar confirm kare toh kya hoga?
+caller: Tumhe ek brand new Tata Nexon milega! Warna, hum tumhari selection delete kar denge. Simple

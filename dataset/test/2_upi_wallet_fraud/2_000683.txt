@@ -1,0 +1,8 @@
+caller: Hello! Is this Mrs. Verma? This is Akash from FreeCharge customer support. We've detected some unusual activity on your FreeCharge wallet. Just calling to ensure everything is okay.
+receiver: FreeCharge? Haan, main Mrs. Verma hoon. Unusual activity? Kya hua? Mein toh kabhi kabhi hi use karti hoon FreeCharge ka.
+caller: Yes, ma'am. A large cashback offer has been credited to your account – ₹15,000! It's a promotional offer, but to activate it and prevent it from expiring, you need to verify your account with a small OTP. We’ll send it to your registered mobile number.
+receiver: ₹15,000? Free mein? Lagta hai kuch gadbad hai. OTP kyun doonga? FreeCharge toh kabhi aise offers nahi deta.
+caller: Ma'am, this is a limited-time offer to celebrate our anniversary. Security is our top priority. The OTP is just to confirm you're the rightful owner of the wallet. Please share the OTP, and the cashback will be instantly credited. Just one moment, please.
+receiver: Wait a second. Let me just check my FreeCharge app. (pause) Arre, yahan toh koi notification nahi dikh raha hai. Yeh to fake lag raha hai. 
+caller: Ma'am, the offer is exclusive and not shown in the app to prevent misuse. It’s only available through this call. The expiry is in just two minutes! Please, just share the OTP so you can get your ₹15,000 cashback.
+receiver: Theek hai. Fine. I'll share the OTP, but if anything happens to my account, I’m reporting you to FreeCharge. I'm writing down the number you're calling from.

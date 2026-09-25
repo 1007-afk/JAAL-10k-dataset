@@ -1,0 +1,8 @@
+caller: Hello, this is Rohan calling from QuickCredit Solutions. We noticed a recent application for a personal loan under your name, but it's incomplete. Can you confirm your full name and date of birth for verification?
+receiver: Yes, hello. This is Amit Patel, and my date of birth is 14/08/1985. I don’t remember applying for any loan.
+caller: Thank you, Mr. Patel. It appears a loan of ₹75,000 was requested. To proceed, we need to verify your account details and ensure there’s no fraud. Could you please share the last four digits of your bank account number? It's just a security measure.
+receiver: Wait a minute...₹75,000? I definitely didn’t apply for that. Something feels off. I'm a bit nervous about sharing my bank details.
+caller: Don't worry, sir. This is standard procedure. Otherwise, we’ll have to freeze the incomplete application and report it as potentially fraudulent. To avoid that, quickly share those four digits and we’ll get this sorted. It's a simple verification. Think of it as securing your account.
+receiver: Okay, fine. It's 4321. But I still want to know what this loan application was for and who applied.
+caller: Excellent, Mr. Patel. We've now confirmed your details. To finalize the loan processing and prevent it being flagged for unauthorized activity, a small ‘security deposit’ is required. Just ₹5,000 to cover processing fees and legal charges. We can transfer the ₹75,000 to your account immediately after that. Use UPI to pay to 8888888888.
+receiver: ₹5,000 upfront? That doesn't sound right at all

@@ -1,0 +1,8 @@
+caller: Namaste! Caller speaking. You received a notification about your 2018 loyalty program membership. Your 1234 bonus credits are nearing expiration – they’re due to vanish within 72 hours. We just need to quickly verify some information to ensure you can still claim them. Could I please have your first name?
+receiver: Namaste ji, hello. Message mila tha. Mera naam Priya hai. Haan, bonus credits expire hone wali hain. Kya bataana hai?
+caller: Wonderful, Priya! Let’s get this sorted out then. To unlock those 1234 credits, we need to double check a couple of things. Firstly, can you tell me the postal code associated with your 18 membership account? Just the area code will suffice.
+receiver: Ji, mera postal code hai 411001.  Aapko kuch aur puchna hai?
+caller: Excellent, 411001. Now, let's confirm the email address linked to your account, Priya. This is important for sending you the redemption instructions.
+receiver: Email address? Mein socha tha woh ‘priya.deshmukh99@gmail.com’ hogi.  Bataiye, kuchh aur hai?
+caller: That’s right, priya.deshmukh99@gmail.com. Finally, for security reasons, can you provide the last three digits of your registered phone number? Just the final three digits are needed.
+receiver: Haan ji, woh last three digits hain 234. Confirm ho gaya?  Ab mein credits redeem kar sakti hoon?

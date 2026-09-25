@@ -1,0 +1,9 @@
+caller: Namaste! Main Rajat Verma, ‘SwiftLoan India’ se bol raha hoon. Aapke naam par ek personal loan approval aaya hai, ₹75,000 tak ka. Process bahut simple hai, sirf kuch details confirm karne hain. Aap busy toh nahi hain?
+receiver: Haan, boliyega. ₹75,000? Mujhe loan ki zaroorat toh hai, par ye kaise hua? Mai toh kabhi apply nahi kiya.
+caller: Bilkul! Humara company ek data analysis ke basis par deserving candidates ko offer karta hai. Yeh ek limited-time offer hai, sir.  Aapka Aadhaar card number aur bank account number confirm karwa lo, tabhi hum process start kar sakte hain.
+receiver: Aadhaar card number?  Yeh thoda risky lag raha hai.  Koi guarantee hai ki ye safe hai?
+caller: Sir, worry mat kijiye.  Yeh completely secure hai. Humara website SSL encrypted hai.  Humein sirf verification ke liye number chahiye. ₹99 ka verification fee hai, sirf, phir loan approve ho jayega.
+receiver: ₹99 fee?  Aur ye website ka naam kya hai?  Mai check kar sakta hoon?
+caller: Website ka naam hai 'LoanQuickVerify.net'. Jaldi kijiye, sir! Offer sirf 20 minutes ke liye valid hai.  Aapka loss ho sakta hai agar aap delay karein.
+receiver: Okay, mujhe thoda time chahiye sochne ke liye. Mai baad mein call karunga.
+caller: Sir, 20 minutes! Don't miss this amazing opportunity! Just a quick UPI payment and your loan is guaranteed!  Aapko regret hoga!

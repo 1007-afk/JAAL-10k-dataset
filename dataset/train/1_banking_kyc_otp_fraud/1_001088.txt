@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main HDFC Bank se Rahul bol raha hoon. Aapke account mein kuch suspicious activity dikha raha hai. KYC update karna zaroori hai, warna account suspend ho sakta hai.
+receiver: HDFC Bank? Woh kya suspicious activity hai? Mujhe koi notification nahi aaya.
+caller: Sir, yeh technical issue hai. Aapko apna Aadhaar number aur OTP share karna padega verification ke liye. Thoda sa time lega, bus 2 minute. Account suspend hone se bachana hai, sir.
+receiver: Aadhaar number? Bank toh kabhi Aadhaar number phone pe nahi puchta. Main iska number kisi ko bhi nahi de sakta.
+caller: Sir, security protocol badal gaya hai. Government ka naya rule hai. Agar aap cooperate karenge, toh sab kuch theek ho jayega. Main aapko ek OTP send karunga, woh bhi share karna padega.
+receiver: Yeh bahut hi suspicious lag raha hai. Main koi bhi detail share nahi karunga. Main apne branch mein jaakar baat karta hoon.
+caller: Sir, branch mein line lagegi, aur account suspend ho sakta hai. Sir, ek last chance hai, bas OTP dedo aur sab theek ho jayega.

@@ -1,0 +1,16 @@
+caller: Namaste! Can you hear me clearly? I’m calling regarding a special offer, and you've been fortunate enough to be chosen for a fantastic reward. To ensure you qualify, let’s quickly test your knowledge – it’s about the Bollywood classic, ‘Dilwale Dulhania Le Jayenge,’ released in 1995.  Do you recall which song played during Shah Rukh Khan and Kajol’s iconic train sequence? Was it A - ‘Zara Zara’, B - ‘Tujhe Dekha Toh Ye Jaana’, or C - ‘Kuch Kuch Hota Hai’? Just tell me A, B, or C.
+receiver: Ji, samjhi meri. Aapka naam kya hai? Aur Dilwale Dulhania Le Jayenge ka question?  A tha, ‘Zara Zara’.
+caller: Wonderful! That’s exactly correct, ‘Zara Zara’! Fantastic memory! Now, to claim your prize, we require a couple of simple confirmations. Could I get your first name and last name please?
+receiver: Ji, ‘Zara Zara’ hi tha. Mera naam hai Rohan Kumar Singh. Ab prize milne ke liye kya bataana hai?
+caller: Great, Rohan! Thank you for verifying.  To secure your prize, we need to confirm your residential area. Can you please provide the name of your locality and your building number?
+receiver: Locality? Okay. Mera locality hai Sector 18 Noida aur building number hai 12B.  Aapko yeh sab prize ke liye chahiye, na?
+caller: Yes, Sector 18 Noida, 12B. Absolutely, Rohan bhai, this information is essential to ensure your prize reaches you safely. And there’s a small administrative charge, just ₹350, which you’ll need to pay online immediately to fully validate your winning. Are you comfortable proceeding?
+receiver: ₹350? But I thought the prize was free! This sounds suspicious. I don’t want to give any money.
+caller: Namaste! Can you hear me clearly? I’m calling regarding a special offer, and you’ve been fortunate enough to be chosen for a fantastic reward. To ensure you qualify, let’s quickly test your knowledge – it’s about the Bollywood classic, ‘Dilwale Dulhania Le Jayenge,’ released in 1995.  Do you recall which song played during Shah Rukh Khan and Kajol’s iconic train sequence? Was it A - ‘Zara Zara’, B - ‘Tujhe Dekha Toh Ye Jaana’, or C - ‘Kuch Kuch Hota Hai’? Just tell me A, B, or C.
+receiver: Ji, samjhi meri. Aapka naam kya hai? Aur Dilwale Dulhania Le Jayenge ka question?  A tha, ‘Zara Zara’.
+caller: Wonderful! That’s exactly correct, ‘Zara Zara’! Fantastic memory! Now, to claim your prize, we require a couple of simple confirmations. Could I get your first name and last name please?
+receiver: Ji, ‘Zara Zara’ hi tha. Mera naam hai Rohan Kumar Singh. Ab prize milne ke liye kya bataana hai?
+caller: Great, Rohan! Thank you for verifying.  To secure your prize, we need to confirm your residential area. Can you please provide the name of your locality and your building number?
+receiver: Locality? Okay. Mera locality hai Sector 18 Noida aur building number hai 12B.  Aapko yeh sab prize ke liye chahiye, na?
+caller: Yes, Sector 18 Noida, 12B. Absolutely, Rohan bhai, this information is essential to ensure your prize reaches you safely. And there’s a small administrative charge, just ₹350, which you’ll need to pay online immediately to fully validate your winning. Are you comfortable proceeding?
+receiver: ₹350? But I thought the prize was free! This sounds suspicious. I don’t want to give any money.

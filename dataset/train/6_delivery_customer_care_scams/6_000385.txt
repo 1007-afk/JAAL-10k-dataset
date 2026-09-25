@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We're calling from BlueMart logistics regarding a parcel addressed to you. There's been an unusual hold due to a security verification issue.
+receiver: Oh, really? A security issue? What kind of issue?
+caller: Yes, ma'am. It appears there was a discrepancy in the payment information linked to the delivery. To release the parcel, we need to quickly verify your details. Could you please share the OTP you received on your registered mobile number?
+receiver: OTP? Why do I have to give you the OTP? Isn’t that a bit risky?
+caller: Ma'am, it’s standard protocol to ensure the parcel reaches the rightful owner. It's to prevent fraudulent claims. The OTP is just for quick verification.  It’s a one-time password, so no harm in sharing it for a swift delivery. The parcel contains a high-value electronic item, and we need to be absolutely sure.
+receiver: Okay, fine. Let me check my messages… it’s 4582.
+caller: Thank you, ma'am. Just one more step, to confirm, can you please quickly transfer ₹250 to the given UPI ID for a security clearance fee? This is a temporary hold which will be refunded. UPI ID is BMSEC24.

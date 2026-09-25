@@ -1,0 +1,10 @@
+caller: Namaste! Main Rahul, FastLoan Solutions se baat kar raha hoon. Aapka loan application receive ho gaya hai. KYC verification ke liye kuch details chahiye. Aapka naam bataiye?
+receiver: Ji, mera naam Rajesh Sharma hai.
+caller: Achha Rajesh Sharma ji. Aapke aadhaar card number ka pacha digit bataiye, verification ke liye. Aise hi thoda sa information, security ke liye.
+receiver: The last five digits are 87654.
+caller: Thank you Rajesh ji. Ab aapki photo aur ek video selfie chahiye, bas verification ke liye. Kisi bhi background mein, selfie le lijiye. Koi particular dress code nahi hai.
+receiver: Selfie le raha hoon... Done. Upload ho gaya?
+caller: Haan, selfie clear hai. Congratulations Rajesh ji! Loan approved! ₹80,000, interest 12%, repayment 6 months. Ab sirf processing fee ka ₹5,000 UPI ke through de dijiye.
+receiver: ₹5,000? Loan amount ₹80,000 hai aur ₹5,000 fee?
+caller: Ji Rajesh ji, aise hi chalta hai. Processing fee bina iske loan nahi milega. FastLoan Solutions mein rules hai. Jaldi karein, offer limited time ke liye hai.
+receiver: Okay, wait a minute...

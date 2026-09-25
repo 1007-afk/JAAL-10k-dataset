@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? My name is Inspector Rajan, calling from the Delhi Cyber Crime Unit. We need to speak with you urgently regarding a suspicious transaction linked to your bank account.
+receiver: Hello? Haan, main Mrs. Kapoor hoon. What’s this about?
+caller: Mrs. Kapoor, our system has flagged several large international transfers originating from your account over the last 24 hours. These transactions appear to be linked to an illegal online gambling ring operating out of Southeast Asia.
+receiver: What? This is impossible! I haven't made any international transfers. I barely use my debit card.
+caller: That’s what we suspected, Mrs. Kapoor. It seems your account has been compromised. To prevent further losses and ensure your safety, we need you to verify some details and assist us in freezing your funds temporarily. We’ll need you to download a secure VPN app, 'SafeConnect Pro', to encrypt our communication and protect your personal information. The link is [fake URL].
+receiver: A VPN? Why do I need a VPN to talk about my bank account? This sounds very strange.
+caller: It's a standard protocol, Mrs. Kapoor. We’re dealing with sophisticated cybercriminals.  This app is necessary to safeguard our conversation from interception. Once you’ve installed it and connected, we’ll guide you through the verification process, which will involve confirming a small OTP payment of ₹2500 as a security measure.
+receiver: ₹2500? For what? To verify my bank account? This is ridiculous! I'm reporting this number to the police.
+caller: Mrs. Kapoor, please don’t be hasty. This is to protect your funds and prevent further criminal activity. A delay could result in significant financial loss. The OTP is your only safeguard. Please cooperate, or we might have to consider further legal

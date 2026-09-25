@@ -1,0 +1,7 @@
+caller: Hello! Main Airtel Payments Bank se Rahul bol raha hoon. Aapke Airtel Payments Bank account mein ₹5000 ka cashback offer hai, sirf naye users ke liye. Claim karne ke liye, sirf ek link par click karein: http://airtelcash.xyz. Hurry! Offer limited time ke liye hai.
+receiver: Airtel Payments Bank? Cashback? Main toh naya user nahi hoon. Aur yeh link dikhta sahi nahi hai. Airtel toh aise links nahi bhejeta.
+caller: Haan ji, lekin system mein ek error aa gaya hai. Isliye hum purane users ko bhi offer de rahe hain. Yeh ek special promotion hai. Link sahi hai, sir. Jaldi se click karein, warna offer miss ho jayega.
+receiver: ₹5000 ka cashback? Bohot zyada lag raha hai. Main thoda skeptical hoon. Airtel app mein toh kuch dikh nahi raha.
+caller: Aapka app outdated ho sakta hai, sir. Link par click karke aapko ek OTP milega. OTP dalne ke baad cashback aapke account mein credit ho jayega. Koi tension nahi lijiye, sir. Yeh bilkul safe hai.
+receiver: OTP? Safe? Par OTP kaunse number par aayega? Aur Airtel Payments Bank toh OTP direct SMS se bhejeta hai, link se nahi.
+caller: Aapko OTP aapke registered mobile number par aayega, sir. Bas link par click karein aur process complete karein. Offer khatam hone wala hai, sir. Jaldi karein!

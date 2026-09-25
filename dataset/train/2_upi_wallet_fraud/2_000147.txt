@@ -1,0 +1,6 @@
+caller: Hello, is this Rohit Sharma? We've noticed unusual activity on your Freecharge account. Seems like someone tried to make a large transaction.
+receiver: Oh really? That's concerning. What kind of transaction?
+caller: It was a request to send Rs. 5,000 to a new UPI ID. To secure your account, we need to verify a few details. Can you confirm the last four digits of your Freecharge registered phone number?
+receiver: Sure, it’s 4321. But why do you need that? Shouldn’t I be getting a notification from Freecharge itself?
+caller: Yes, you should, but sometimes there’s a delay. To speed things up, we just need to quickly confirm. Now, for security purposes, we need you to send a small verification fee of Rs. 50 to the UPI ID we’ll provide. This will unlock your account and allow us to block the fraudulent transaction.
+receiver: Wait a minute! Pay a fee to *secure* my account? That sounds completely backward. I’m not comfortable doing that. I'm going to check with Freecharge directly.

@@ -1,0 +1,7 @@
+caller: Hello sir, main Akash se baat kar raha hoon, XYZ Finance se. Aapne aapni online personal loan application submit ki thi, aur woh approved ho gayi hai. ₹75,000 tak ka loan, sir.
+receiver: Oh, bahut achha! Main toh abhi application bhi nahi kiya tha. Kya yeh koi mistake hai?
+caller: Nahin, sir. System mein aapka number register ho gaya hai. Approve karne ke liye humein sirf processing fee ki zaroorat hai, ₹5,000. Aapko loan amount mil jayega, sir.
+receiver: ₹5,000? Lekin maine toh nahi diya koi fee. Aur main abhi nahi chahiye tha loan.
+caller: Sir, yeh rule hai. Fee deposit karne ke baad, hum loan account activate karenge. Agar aap refuse kar rahe hain, toh approve order cancel ho jayega. Aur sir, hum aapke contacts par morphed pictures bhejne wale hain, agar aap fee nahi deposit karte hain.
+receiver: Yeh kya bol rahe ho? Main police mein complaint karunga.
+caller: Sir, mat karna yeh. Jaldi se fee deposit karein. Otherwise, aapko bahut pareshaan hona padega.

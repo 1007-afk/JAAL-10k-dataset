@@ -1,0 +1,11 @@
+caller: Namaste, main Sub-Inspector Rathore bol raha hoon. Aapse ek adhoori parcel delivery ke bare mein baat karne ke liye phone kiya hai.
+receiver: Ji, Sub-Inspector Rathore sahab? Parcel delivery? Mujhe toh koi parcel yaad nahi.
+caller: Haan sahab. Hamari department ko pata chala hai ki aapke naam par ek parcel aaya tha jo illegal items se bhara hua tha.
+receiver: Illegal items? Yeh kaise ho sakta hai? Main toh kabhi parcel order nahi kiya.
+caller: Yeh matter serious hai. CBI kar rahi hai investigation. Aapko court mein appear hona padega, lekin pehle aapko ₹25,000 fine pay karna hoga.
+receiver: ₹25,000? Lekin main toh kuch bhi illegal nahi kiya! Mein clarify karna chahta hoon.
+caller:  Dekhiye, legal process time lagti hai. Fine pay karein toh case jaldi settle ho jayega. Aapko video call par bhi rahana hoga, taaki koi interference na ho.
+receiver: Video call? Kaise? Mein police station kab aunga?
+caller:  Police station mein appear karne ki zaroorat nahi hai. Aapko Google Meet par call par rahana hai, aur fine ne SBI internet banking se pay karein.  Account number main aapko message kar deta hoon.
+receiver:  Ek minute, mujhe check karne do. Account number message karo. Main verify karna chahta hoon.
+caller: Theek hai sahab, message aa jayega. Jaldi karein, time bahut kam hai.

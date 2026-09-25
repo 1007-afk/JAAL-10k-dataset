@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? I’m calling from FreeCharge Customer Care. We’ve noticed a large sum of ₹12,500 has been pending for refund on your account.
+receiver: Refund? Mujhe toh koi refund mila nahi hai. Main FreeCharge bilkul use nahi karti. Yeh number kaahan se mila aapko?
+caller: Madam, our records show your FreeCharge wallet is linked to this number. This refund is due to a previous transaction from a partner merchant. To process it quickly and avoid any complications, we need to verify a few details. Could you please confirm the last three digits of your bank account number?
+receiver: Bank account number? FreeCharge mein bank account number ki kya zarurat hai? Yeh kuch gadbad lag rahi hai.
+caller: Madam, it’s a standard security protocol. We need to verify the account details to ensure the refund goes to the correct beneficiary. Without it, the refund might get delayed or even cancelled. Just the last three digits, please. It's for your benefit.
+receiver: Nahin, nahi, mujhe nahi pata woh number. Aur main aapko kabhi bhi bank details nahi dungi. Yeh scam hai. Main FreeCharge se contact karungi khud. Aapko disconnect kar do!
+caller: Please, madam, don’t be hasty. There's a time limit to claim this refund. If you don't provide the information within the next 10 minutes, the refund will be automatically forfeited. Think of the ₹12,500!

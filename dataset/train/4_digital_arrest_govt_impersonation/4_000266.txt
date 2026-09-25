@@ -1,0 +1,8 @@
+caller: Hello, main Cyber Cell se Inspector Rajan bol raha hoon. Aapke naam par ek parcel customs mein rok liya gaya hai. Illegal items dikh rahe hain.
+receiver: Kya? Mere naam se parcel? Mujhe toh koi parcel order kiya hi nahi tha.
+caller: Ji, parcel tracking number XYZ123456789 hai. Ek suspicious package hai, usmein illegal documents hain. Aapko is matter mein cooperate karna hoga.
+receiver: Illegal documents? Yeh toh bahut serious hai. Main toh kabhi parcel order nahi kiya. Aap mujhe details de sakte hain? Parcel mein kya hai?
+caller: Details dene se pehle, aapko ₹7,500 fine bharvana padega. Yeh illegal items ke investigation charge hai. Aapko online payment karna hoga, main aapko link send karunga.
+receiver: ₹7,500? Online payment? Sir, mujhe yeh kuch bhi samjh nahi aa raha hai. Main police station mein jaakar report karunga. Yeh scam lag raha hai.
+caller: Dekhiye madam/sir, time bahut kam hai. Parcel ko release karne ke liye aapko abhi payment karna hoga. Warna is matter ko serious maana jayega aur aapko court mein bhi face karna pad sakta hai. Yeh link hai: bit.ly/customs-payment. Jaldi se payment karein.
+receiver: Yeh link suspicious lag raha hai. Main koi bhi payment nahi karunga. Main abhi meri bank se contact karunga aur police mein report karunga. Aapko koi bhi details nahi milegi.

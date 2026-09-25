@@ -1,0 +1,8 @@
+caller: Namaste. Mai hu Inspector Sharma, Delhi Police se. Aapke naam par ek parcel aaya hai, Lucknow se. Parcel mein illegal drugs paye gaye hain.
+receiver: Kya? Yeh kya keh rahe hain aap? Mere naam se parcel? Mujhe toh koi parcel nahi mila.
+caller: Haan, madam. Parcel track kiya gaya hai, aapke address par aaya hai. Isliye hum call kar rahe hain. Case register ho chuka hai. Aapko CBI office Lucknow mein aakar statement record karna hoga. 
+receiver: Yeh kuch galat ho raha hai. Main toh kabhi Lucknow nahi gayi. Aur drugs ka sawal hi nahi hai. Mujhe yeh sab kuch vyavasayik lag raha hai.
+caller: Madam, seedhe case mein aagayi hai. Hum chahenge ki aap cooperate karein. Agar aap cooperate nahi karein, toh warrant nikalna padega, aur phir jail bhi ho sakta hai. Aapko 50,000 rupay fine deposit karne hoga, tab tak case suspend hoga.
+receiver: 50,000 rupay? Yeh kya mazaak hai? Main police station mein complaint karungi agar aap ne mujhe aur call kiya. Yeh fraud hai!
+caller: Madam, please, time kam hai. CBI Lucknow mein lawyer ready hai. Aapse Rs 50,000 UPI mein deposit karwaana hoga. Apna UPI ID bataiye aur case close ho jayega.
+receiver: Main koi bhi rupay nahi deni, aur main aapka number block kar rahi hu. Yeh ek clear cut scam hai, aur main police ko report karungi.

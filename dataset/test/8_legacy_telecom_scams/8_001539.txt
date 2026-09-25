@@ -1,0 +1,15 @@
+caller: Namaste! Aapko batana hai ki aap ne lottery mein jeeti hai ₹5,000! Maharashtra sarkar aapko yeh raashi de rahi hai, lekin uske liye koi formalities honge.
+receiver: Arre yaar! Lottery jeeta? Seriously? ₹5,000? Haan, bilkul bataiye kya karna hai.
+caller: Bahut achcha! Humein aapke Aadhaar card ka copy aur ID proof lena hoga. Iske liye aap apne smartphone par ek app download kareinge, "SecureConnect". App install karke login kareinge.
+receiver: SecureConnect? Woh kya hai? Kahan se download karoon?
+caller: Woh online available hai, Google par search karo - "SecureConnect India". Install karke, aapko ek account banaana hoga aur apna Aadhaar card upload karna hoga.
+receiver: Okay, okay. Hua thik hai. Mein download karunga. Par phir aapko meri confirmation ki zarurat hogi.
+caller: Bahut shukriya [Invented Name] ji. Verification ke liye, aapko bank statement ka screenshot bhejna hoga. Bank statement mein aapka naam aur account number dikhana chahiye.
+receiver: Bank statement? Mujhe woh nahi milta. Mein personal loan leya tha, fir mein paisa withdraw karta raha.
+caller: Nahin, nahin. Aapko apni bank waliya branch mein jake statement mangna hoga. Ismein error nahi hona chahiye. Agar koi problem hai, to humein bataiye.
+receiver: Fine, I will do that. Par mujhe yeh bhi samajh mein aaya hai ki yeh bahut risky lag raha hai.
+caller: Bahut achcha! Risk waala kaam nahi karna chahiye. Lekin, jab aapko ₹5,000 aapke Paytm wallet mein deposit ho jaayegi, to aapko sirf ₹100 processing fee dena hoga.
+receiver: ₹100 Processing Fee?  Seriously?
+caller: Haan, bas. Uske baad aapko ₹5,000 aapke Paytm wallet mein milega. Kya aap agree karte hain?
+receiver: Hmm... Main soch raha hoon.  Aapko bataun ki main abhi koi money transfer nahi karna chahti.
+caller: Koi baat nahi. Aapko lottery jeene ke liye congratulations!  Agar aap phir bhi change of mind banta hai, to humein bol dete hain.

@@ -1,0 +1,6 @@
+caller: Namaste sir, main State Bank of India se Rahul bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai. KYC update karna zaroori hai, warna account block ho sakta hai.
+receiver: KYC? Lekin maine toh kuch bhi unusual nahi kiya. Aur SBI se toh mujhe call nahi aati.
+caller: Sir, security ke liye hi call kar rahe hain. Aapko ek OTP WhatsApp par milega, woh bata dijiye, aur phir hum update kar denge.
+receiver: OTP WhatsApp par? Bank toh SMS karta hai, WhatsApp pe nahi. Mujhe doubt ho raha hai.
+caller: Sir, new policy hai, WhatsApp se hi secure verification hota hai. Please, time bahut kam hai, account block hone se pehle jald se jald bata dijiye OTP.
+receiver: Nahin, sorry. Main koi OTP nahi bataunga. Aapko abhi call cut karta hoon. Yeh scam hai.

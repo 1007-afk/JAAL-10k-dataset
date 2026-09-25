@@ -1,0 +1,14 @@
+caller: Namaste sir, kya aap mujhse apni debit card ka CVV number jaan sakeinge? Humare account mein ek small problem check karne ke liye requirement hai.
+receiver: Debit card ka CVV? Kaise? Mein kaise jaanta hu ki aap asli hain? Aap kimse bate karte hain?
+caller: Sir, maine Reliance Jio se phone kiya hai, account support team se. Aapke account mein ek minor connectivity issue hai, jo hum check karna chahte hain.
+receiver: Reliance Jio? Mein unse kabhi baat nahi kiya hai. Aur aapko meri debit card ka CVV kyun chahiye? Unhone kabhi mereko call kiya hai?
+caller: Sir, yeh ek important matter hai. Jio mein technical update ke karan, aapke account mein ek error aya hai. Isko fix karne ke liye, mujhe apni debit card ka CVV chahiye. Chinta mat karein, yeh sirf ek authentication process hai.
+receiver: Authentication process? Mein nahi maantu. Mera debit card ka CVV kisi ko bhi nahin dena. Aapko bank se contact karna chahiye. Mein ye bataungi Jio ko.
+caller: Sir, maaf karna, lekin yeh bahut zaruri hai. Jio ne kaha hai ki aapko verification ke liye yeh information chahiye hoga. Agar aap yeh provide nahi karte, toh aapke account mein unauthorised transactions possible hain. Risk bahut zyada hai.
+receiver: Unauthorised transactions? Fir aap mujhe bataayen ki yeh transaction kab honge, ya unka koi detail deen. Mujhe pata hona chahiye ki kya rukawana hai.
+caller: Sir, yeh technically impossible hai. Verification process jaldi complete karna hai. Aapki debit card ka CVV, yeh verification ke liye ek crucial step hai. Jo bhi happen, don’t worry, hum aapko protected rahne mein madad karenge. Just give me the number, please.
+receiver: Mein abhi bhi nahi maantu. Mera CVV hai sensitive data, aur mein isko kisi ko bhi nahin dene wala hun. Mein apne bank se contact karunga aur unhe yeh situation batata hun.
+caller: Sir, please, time bahut short hai. Jio mein ek big outage ka samna hai, aur aapka account affected ho sakta hai. Iske badle mein, aapko sirf 12 digit number chahiye. Just tell me, please.
+receiver: 12 digit? Mein abhi bhi confused hun. Aapka identity check karne ke liye, koi aur method nahi hai? Mein apne bank ke website pe jaaunga aur unhe email karunga.
+caller: Sir, wo kam hone wala hai. Jio mein emergency maintenance ka kaam chal raha hai, aur aapka account iske victim ho sakta hai. Just give me the number, and I will immediately block your account.
+receiver: Block my account? Kya aap mujhse account blocking karwa sakte hain? Mein jab tak pata nahi karta ki yeh sab sahi hai, tab tak koi number nahi dungi.

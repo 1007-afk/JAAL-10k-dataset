@@ -1,0 +1,12 @@
+caller: Namaste ji! Welcome to Tech Solutions India! Your internet speed has slowed down considerably, isn’t it? I’ve noticed a dip in your connection lately.
+receiver: Haan ji, woh hai. Internet bahut slow ho chuki hai. Kuch nahi milta.
+caller: Exactly! That’s because of network congestion and some maintenance happening in your area. We’ve identified a potential issue with your router – it needs an upgrade for optimal performance. Just like a little tune-up for your device, you know?
+receiver: Oh really? Tune-up? So what kind of upgrade are we talking about? Is this going to cost me something?
+caller: Absolutely not! This is a complimentary service as part of our loyalty program. You’ve been a valued customer for over three years now, so we want to ensure you have the best possible experience. We just need to schedule a technician visit to install a new router – it's completely free.
+receiver: Three years? Wow! Okay, that sounds good. But can you tell me more about this ‘new router’? And how long will the installation take?
+caller: The new router is equipped with faster processors and improved range. It’ll significantly boost your internet speed and stability. Installation usually takes around two hours, including setup. We’ll send a technician to your home at a convenient time, of course. Before scheduling, could I quickly verify your account details to confirm everything is set up correctly?
+receiver: Sure, no problem. My name is Priya Patel. Can you just double-check my address too, please? It's 456, Maple Drive, Dwarka, Delhi. And also, when would the technician likely arrive?
+caller: Priya ji, let me check…Okay, your address is confirmed. The technician should be able to reach you within the next 24 to 48 hours. Now, just to finalize everything, could you provide me with your registered mobile number so we can send you reminders and updates?
+receiver: My mobile number is 9876543210. Thank you!
+caller: Excellent! Then I’ll proceed with scheduling the technician visit. Just one last thing, Priya ji - to ensure seamless operation, we require you to download a small software update for your router – it’s absolutely essential for the new router to function properly.
+receiver: A software update? Seriously? What does it do exactly?

@@ -1,0 +1,7 @@
+caller: Hello sir, mai BharatPe se Rahul bol raha hu. Aapke BharatPe account mein cashback offer chal raha hai, ₹7500 ka.
+receiver: ₹7500 cashback? Kya offer hai yeh? Kuch detail bataiye.
+caller: Ji, dekhiye, hum ek promotional offer chal rahe hain. BharatPe app par ₹500 ka transaction karne se aapko ₹7500 cashback milega. Offer sirf 2 ghante ke liye hai.
+receiver: ₹500 ka transaction? Aur cashback kab milega?
+caller: Cashback milane ke liye, aapko ek small processing fee deposit karna hoga, ₹99. Woh bhi BharatPe ke through hi.
+receiver: ₹99 fee? Kyun fee lag rahi hai? Direct cashback nahi mil sakta?
+caller: Sir, processing fee security ke liye hai. Fee deposit karte hi aapka account verify ho jayega aur cashback instantly aapke wallet mein add ho jayega. QR code share karta hu, us par pay kar dijiye.

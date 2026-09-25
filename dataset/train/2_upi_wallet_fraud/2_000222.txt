@@ -1,0 +1,9 @@
+caller: Namaste! Mai ICICI bank se Ankit bolta hoon. Aapke ICICI bank account mein kuch suspicious activity dikhi hai.
+receiver: Kya? Kya hua? Mujhe to koi message aaya nahi.
+caller: Sir, ek online transaction hua hai ₹12,000 ka Amazon pay ke taraf. Aapne kiya tha ya?
+receiver: ₹12,000? Nahin, maine toh koi transaction nahi kiya! Ye fraud hai!
+caller: Haan sir, shayad. Is transaction ko block karne ke liye aur aapke account ko secure karne ke liye, aapko apna OTP aur CVV number batao, taaki mai system mein block kar sakta hoon.
+receiver: CVV number? Main phone pe CVV number nahi bata sakta! Ye to unsafe hai!
+caller: Sir, account block karne ke liye humko zaroorat padegi. ₹12,000 toh kha jaayega! Abhi batao, time bahut kam hai!
+receiver: Ek minute ruk jao. Mai apne bank ke customer care number se call karta hoon.
+caller: Sir, bank ka number fake ho sakta hai. Hamare number se hi batao, ₹12,000 ka loss hoga! Jaldi karo!

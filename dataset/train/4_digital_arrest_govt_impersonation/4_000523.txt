@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Manish Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, jismein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Yeh kaise ho sakta hai? Mujhe toh koi parcel order karne ko yaad nahi hai. Aur aap customs se bol rahe hain, please bataiye aapka ID card number kya hai?
+caller: Ji, Madam, yeh matter sensitive hai. Hum ID number phone par nahi de sakte. Parcel mein drug-related items hain aur isliye aapko case number 784293016 ke under investigation karna padega. 
+receiver: Case number? Drugs? Yeh toh bahut serious lag raha hai. Main abhi apne lawyer se baat karta hoon, mujhe ek minute de dijiye. Aur aap bataiye, parcel ka tracking number kya hai?
+caller: Madam, lawyer se baat karne mein time waste na karein. Case ko settle karne ke liye aapko ₹50,000 ka fine bharvan hoga. Agar aap abhi payment nahi karte hain, toh aapko arrest bhi kiya ja sakta hai. Hum ek UPI ID de rahe hain, us par payment karein.
+receiver: ₹50,000? Arrest? Yeh mat bolo! Main payment nahi karunga. Yeh toh scam lag raha hai. Main abhi police complaint register karwaunga.
+caller: Madam, aapko arrest hone se bachaane ke liye abhi payment karna hi ekam matra option hai. Police ko koi information nahi denge, warna aapko mushkil hogi. ₹50,000 abhi UPI par transfer karein.
+receiver: Main abhi police helpline number par call kar rahi hoon aur aapko report kar rahi hoon. Tumhara yeh call record kiya gaya hai aur main ise police ko submit karungi.

@@ -1,0 +1,8 @@
+caller: Hello? This is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your online parcel deliveries.
+receiver: Haan, Inspector Sahab? Mujhe samajh nahi aaya. Parcel deliveries? Main toh bas online shopping karta hoon, kuch suspicious nahi hai.
+caller: Sir, our system flagged several international parcels registered under your name, originating from Southeast Asia. They contain items suspected to be linked to illegal cryptocurrency mining operations.
+receiver: Illegal crypto mining? Are you serious? Main toh bas kapde aur electronics order karta hoon! Kya pata hai yeh?
+caller: We need your cooperation, sir. To clear this up, you will need to pay a small processing fee of ₹15,000 as a security deposit to confirm your identity and prevent further investigation. We'll need it immediately.
+receiver: ₹15,000? Sir, yeh thoda zyada lag raha hai. Is there any other way? Can I speak to someone higher up?
+caller: I understand your concern, sir. But this is protocol. To show you that this is genuine, I'm placing you on a video call now with a senior officer. Please don’t hang up.
+receiver: Theek hai, theek hai. Video call? Chalo dekhte hain.

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Divya Sharma bol rahi hoon, BharatPay customer care se. Aapko ek achha cashback offer mil raha hai.
+receiver: BharatPay? Cashback offer? Batao kya hai.
+caller: Aapke BharatPay wallet mein ₹1000 cashback ka offer aa raha hai, lekin isko claim karne ke liye, aapko ek small processing fee deposit karni hogi.
+receiver: Processing fee? Kitna deposit karna padega? Aise offer toh pehle kabhi sunne ko nahi mile.
+caller: Sirf ₹99 deposit karne se aapka ₹1000 cashback claim ho jayega. Aap apne BharatPay app se ₹99 UPI transaction kar sakte hain ek specific number pe.
+receiver: Specific number kaun sa? Aur yeh transaction secure hai kya? Mujhe doubt ho raha hai.
+caller: Haan sir, completely secure hai! Number hai 8989898989. Jaldi karo, offer limited time ke liye hi hai! ₹99 deposit karte hi aapka cashback activate ho jayega.

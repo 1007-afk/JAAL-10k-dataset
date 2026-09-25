@@ -1,0 +1,28 @@
+caller: Hello, this is Rajeev calling from Secure Solutions. We’ve detected some unusual activity on your phone, specifically regarding your banking transactions. It seems someone has attempted to access your account through an unsecured network.
+receiver: Oh God! Seriously? Haan ji, mujhe to bahut tension lag raha hai. Mere bank accounts ka kya hoga? Mujhe samajh nahi aa raha yeh kya chal raha hai. Aapne kaha secure solutions se call kar rahe hain?
+caller: Exactly! That’s why we called. We’ve flagged your account and initiated a temporary freeze to prevent any further unauthorized access. You need to verify your identity immediately to lift the freeze.
+receiver: Verification? Kaise verification karenge? Mujhe bolna kya karna hai? Abhi to main bahut confused hoon.
+caller: We require you to answer three simple security questions. These questions are based on the information we have on file about you. They will help us confirm that you are the rightful owner of the account. The first question is: What was your mother’s maiden name?
+receiver: Maa ka pitava? Wo... wo bataane mein kitni dikkat hogi. Mujhe abhi to samajh bhi nahi aa raha yeh kya chal raha hai. Iska koi alternative nahi hai?
+caller: Unfortunately, no. This is a standard procedure for verifying your identity. If you don’t provide the correct answer, the freeze will remain in place, and you may lose access to your funds.
+receiver: Haan ji, okay. Maa ka pitava… Mera maa ka pitava… Sheila Sharma tha.
+caller: Thank you. Now, let’s move on to the second question. What is your date of birth?
+receiver: Date of birth? Woh toh main tumhein bata dunga. January 15th, 1988.
+caller: Excellent. One final question – what city were you born in?
+receiver: Born in? Main Delhi mein pan bana hoon.
+caller: Congratulations! You have successfully completed the verification process. The freeze on your account has been lifted. You can now access your funds as usual. Please remember to change your password immediately for added security.
+receiver: Wow! Finally! Dhanyavaad ji! Mujhe toh bahut rahat felt. Aapne mera bahut kaam saaf kar diya.
+caller: You’re welcome! At Secure Solutions, we prioritize your financial safety. Don’t hesitate to contact us if you notice any further suspicious activity. Have a great day!
+caller: Namaste, this is Priya calling from SmartConnect Services. We’ve noticed some connectivity issues with your internet service, particularly during peak hours. Our system indicates a potential problem with your router.
+receiver: Oh! Internet slow ho rahi thi? Haan ji, to genuinely? Mujhe to bahut worry lag rahi thi. SmartConnect se call kar rahe hain?
+caller: Yes, precisely! We’re here to assist you in resolving this quickly. We’ve identified a minor software glitch affecting some users, and we want to ensure your connection is stable again.
+receiver: Software glitch? Kya hota hai isse? Mujhe technically kuchh samajh nahi aata.
+caller: Don't worry, it’s very common. We’ll remotely update your router’s firmware, which takes just a few minutes. It's completely safe and will restore your internet speed.
+receiver: Remote update? Fir main kya karna hoon? Mujhe bolna kya karna hai?
+caller: Just keep your router powered on throughout the process. We'll guide you step by step. First, could you please tell me the make and model of your router?
+receiver: Router? Woh... Woh Tata Diganta hai.
+caller: Okay, Tata Diganta. Perfect. Now, I'm going to send you a link via SMS. Please click on it and follow the instructions. It will initiate the update automatically.
+receiver: SMS link? Okay, main dekhhta hoon. Bataiye, is update ke baad internet phir se fast ho jayega?
+caller: Absolutely! Within five minutes, you should see a significant improvement in your internet speed. We’ll monitor your connection remotely to ensure everything runs smoothly.
+receiver: Five minutes? Okay, main wait kar raha hoon. Dhanyavaad ji, aapne mujhse bahut badi madad ki.
+caller: You’re most welcome! At SmartConnect, customer satisfaction is our priority. If you continue to experience any issues, please don’t hesitate to reach out. Have a wonderful day!

@@ -1,0 +1,7 @@
+caller: Namaste! My name is Raj from LoanExpress. I'm calling regarding your recent loan application. We've pre-approved you for a ₹75,000 loan with a very attractive interest rate.
+receiver: Oh, really? I didn't apply for a loan. Are you sure you have the right number?
+caller: Absolutely, sir. We have your details here. To finalize the process, we just need to verify a few things. Could you please confirm your date of birth for me? It’s purely for security purposes.
+receiver: I’m still not comfortable with this. I still think this is a scam. Why would I be approved for a loan I didn’t apply for?
+caller: Sir, don’t worry. It's a promotional offer. A one-time verification fee of ₹999 is required to activate the loan and prevent fraud. Once verified, your money will be credited immediately. We will send the money to your Paytm wallet.
+receiver: ₹999? And you want to send the money to my Paytm? That sounds extremely suspicious! I’m ending this call.
+caller: Wait, sir! This is your chance to get quick cash. Just think about it - ₹75,000 in your wallet instantly! Don’t miss out on this fantastic offer. Can I at least get the last four digits of your bank account number to confirm?

@@ -1,0 +1,9 @@
+caller: Namaste sir, main Airtel customer service se baat kar raha hoon. Aapki mobile internet 72 hours mein expire ho jaati hai. Aapko ise renew karna hai kya?
+receiver: Mobile internet expire? Mein toh Airtel ka user hoon lekin mujhe iske baare mein notification nahi mila. Kaise renew kar sakta hoon?
+caller: Haan sir, aapko sirf apni mobile number aur Aadhaar card ka front page screenshot bhejna hoga. Isse hum aapke identity ko check karte hain. Aapka naam aur mobile number bata sakte hain?
+receiver: Aadhaar screenshot? Woh to confidential hai! Airtel ko iski zarurat kyun padhti hai? Mere Aadhaar par fingerprint lagaya hua hai.
+caller: Sir, yeh process bahut secure hai. Humne ye update kiya hai. Aapko sirf verification ke liye yeh screenshot chahiye. Agar aapko koi problem hai toh hum aapko alternate way bhi de sakte hain – UPI ID submit karna.
+receiver: UPI ID? Ab toh sab kuch OTP aur screenshots chahiye. Yeh kitna fraud hai! Mein apne bank account details bhi nahi bataunga. Agar genuine ho toh bina kisi verification ke internet renew kar do.
+caller: Sir, please relax. Samajh sakta hoon aapko tension ho raha hai. Yeh verification process bahut important hai. Agar aapko internet chusi nahi chahiye, toh please UPI ID bata dein. Isse aapki internet activate ho jayegi. Aapko sirf ek baar bataunga - UPI ID jo aapke Paytm account mein registered hai.
+receiver: Bhai, main Paytm se connect bhi nahi karta. Yeh sab jankari milakar koi scam bana rhi hai. Mein call cut kar dunga. Agar Airtel genuinely concerned hai toh they would have sent me an SMS about this expiry.
+caller: Sir, sir, please don’t worry. Just provide the UPI ID, it's a quick and easy process.  It will take just a few seconds.  We need only one detail to ensure your internet stays active.

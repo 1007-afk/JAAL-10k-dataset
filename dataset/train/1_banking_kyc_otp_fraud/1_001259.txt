@@ -1,0 +1,10 @@
+caller: Namaste, mai Axis Bank se Ankit bol raha hoon. Aapka naam Rajesh Verma hai, sahi?
+receiver: Haan, sahi hai. Kyon?
+caller: Sir, humein aapke account mein kuch suspicious activity dikhi hai. Ek international transaction attempt hua tha, jo block kar diya gaya hai. Aapki security ke liye, humein KYC details update karne hogi.
+receiver: KYC update? Lekin maine recently toh update karwaa tha.
+caller: Haan sir, lekin rule change ho gaye hain. Aapko apna Aadhaar number aur ek OTP share karna padega jo aapke registered mobile number par aayega.
+receiver: OTP? Mujhe OTP dene mein thoda hesitation ho raha hai. Yeh secure hai kya?
+caller: Sir, completely secure hai. Yeh standard procedure hai fraud se bachne ke liye. Agar aap OTP nahi denge toh humko account temporarily suspend karna padega. Aapka account freeze ho jayega.
+receiver: Thik hai, theek hai. OTP aaya hai, 4578.
+caller: Shukriya sir. Ab aapka Aadhaar number dedo please.
+receiver: Ek minute, main bank ki official website check karta hoon…

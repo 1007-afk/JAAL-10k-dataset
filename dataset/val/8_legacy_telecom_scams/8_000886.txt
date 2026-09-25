@@ -1,0 +1,8 @@
+caller: Hello! Aapki jeet ki khabar dene ke liye call kiya hai! Aapne jeete hain 10,000 INR! Kya aap chahenge ki yeh raashi aapke bank account mein deposit kar di jaaye?
+receiver: Arre wah! Sach mein? 10,000 INR? Bahut badhiya khabar di hai aapne! Haan, bilkul! Main chahta hoon ki yeh raashi mere bank account mein deposit ho jaaye. Aap bataiye kya karna hoga aage?
+caller: Bahut achha! Ab humein kuch details chahiye hongi aapke bank account ki taaki hum yeh 10,000 INR aapke account mein transfer kar sakein. Kya aap apna bank account number aur IFSC code bata sakte hain?
+receiver: Haan ji, zaroor bata sakta hoon. Mera bank account number hai XXXX-XXXX-XXXX-XXXX aur IFSC code hai YYYY0000123. Yeh sahi hai na?
+caller: Thank you for providing the details. And just to confirm, is the name on the account [Invented Name]? We need to ensure the funds go to the correct person. Also, for verification purposes, could you please confirm the registered mobile number with your bank?
+receiver: Haan ji, woh naam toh mera hi hai [Invented Name]. Aur bank mein registered mobile number hai [Invented Mobile Number]. Sab sahi hai?
+caller: Bahut shukriya [Invented Name] ji. Apne registered mobile number ko confirm karne ke liye, aapke bank dwara bheja gaya ek OTP hoga, kya woh aapke paas aa gaya hai? Wo OTP bataiyega taaki hum transfer process ko aage badha sakein.
+receiver: Haan ji, OTP aa gaya hai. Yeh hai OTP: [Invented OTP]. Bas ab transfer ho jayega na?

@@ -1,0 +1,8 @@
+caller: Namaste sir, Flipkart customer care se bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Flipkart customer care? Kya hua? Kuchh problem hai?
+caller: Haan sir, ek order hai ₹4,500 ka aapne kiya hai, lekin shipping address galat diya gaya hai. Isliye order hold kar diya gaya hai. Aapko confirm karna hai ya nahi?
+receiver: ₹4,500 ka order? Mein toh kuch bhi order nahi kiya hai!
+caller: Sir, hamare records ke hisaab se order confirm hai. Hamara security protocol hai ki aapko OTP verify karna hoga taaki ham aapke account ko secure kar sakein.
+receiver: OTP? Yaar, ₹4,500 ka order bhi nahi kiya hai, aur ab OTP bhi maang rahe ho? Ye toh scam lag raha hai. Mein call cut kar raha hoon.
+caller: Sir, please don’t cut the call! Agar aap OTP nahi denge toh aapke account par block lag jayega aur aap Flipkart se shopping nahi kar paenge. Sir, bas ek OTP hai, please!
+receiver: Theek hai, ek baat bataiye. Flipkart ka official phone number kya hai? Mein check karta hoon.

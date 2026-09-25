@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rohan hai, Flipkart customer support se. Aapke account mein ek pending payment ka issue aa raha hai.
+receiver: Flipkart? Mujhe toh koi notification aaya nahin hai. Kya problem hai?
+caller: Sir, ek delivery ke charge ki baat hai. ₹485 pending hain. Agar aap time se payment nahi karte toh delivery ho na ho jayegi.
+receiver: ₹485? Mein toh kuch order kiya hi nahin tha. Check karo tumne sahi number lagaya hai ya nahin.
+caller: Sir, system mein aapka naam aur number match ho raha hai. Payment karne ke liye aapko OTP mil raha hai na?
+receiver: OTP? Nahin, mujhe koi OTP nahin mila. Aur main koi payment nahi karunga jab tak mujhe sahi information nahi milegi. Mujhe delivery ka order number chahiye.
+caller: Sir, security ke wajah se main phone pe order number nahi bata sakta. Par OTP aane ke baad main aapko link send kar dunga jahan se aap payment kar sakte hain. Jaldi karo, sir, offer expire ho raha hai.
+receiver: Ye bahut hi suspicious lag raha hai. Mein police mein report karunga agar aapne mujhe disturb kiya.
+caller: Sir, aapko delivery miss ho jayegi aur ₹485 ka charge bhi lag jayega. Apne account ko secure rakhne ke liye, please OTP share karein.

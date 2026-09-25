@@ -1,0 +1,8 @@
+caller: Namaste! Sirf Limited time offer! Aapko ghar ke liye urgent loan chahiye? Aapki financial problems solve karenge hum, bilkul instant approval. Aapka naam bataiye?
+receiver: Hello, yes I am looking for a loan. My name is Rohan Verma.
+caller: Rohan ji, achha! Hum EasyLoanExpress.com se bol rahe hain. Aapko kitne rupay ki loan chahiye? Koi bhi document nahi chahiye, sirf basic details aur kuch photos.
+receiver: I need 80,000 rupees. But why do I need to send photos?
+caller: Rohan ji, registration verification ke liye. Aur ek security deposit ke liye, sirf ₹5000. Loan amount transfer hone se pehle. Phir hum aapko loan amount send kar denge.
+receiver: 5000 rupees? That seems a little suspicious.
+caller: Rohan ji, yeh process hai. Agar aapko loan nahi chahiye, toh achha hai. But remember, very few are getting approved right now! Jaldi karein, limited spots available. Aapka bank statement send karein?
+receiver: No thank you, I think I'll look elsewhere. Goodbye.

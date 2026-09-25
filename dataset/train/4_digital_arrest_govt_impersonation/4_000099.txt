@@ -1,0 +1,7 @@
+caller: Namaste! Sir, this is Inspector Sharma calling from the Cyber Crime Investigation Cell. We've detected suspicious activity linked to your bank account – several large transactions to offshore accounts.
+receiver: Oh no! Really? What kind of transactions? I haven't done anything like that.
+caller: Sir, it appears you've been unwittingly involved in a money laundering scheme connected to drug trafficking. We have video evidence, sir.  To protect yourself and avoid serious legal repercussions, you need to cooperate.
+receiver: Video evidence? What evidence? How can I be involved without knowing? This sounds very serious.
+caller: Sir, we'll keep you on a video call to ensure you don't contact a lawyer or alert anyone. You need to deposit ₹50,000 into the designated account number we'll provide to secure your case. This is just to cover administrative costs and compensate for the damage.
+receiver: Fifty thousand? That's a lot of money! Can't I just explain that I haven't done anything wrong?  Can I speak to someone higher up?
+caller: Sir, unfortunately, time is critical. The court is already preparing to issue a warrant. Please, quickly transfer the funds to account number 1234567890 – it’s a secure government account.  Once the payment is confirmed, we'll clear your name and destroy the evidence. It is essential to act fast.

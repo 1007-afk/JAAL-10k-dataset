@@ -1,0 +1,8 @@
+caller: Namaste, main Directorate of Revenue Intelligence, DRI se Rohan Verma bol raha hoon. Aapke naam par ek parcel customs clearance ke liye pending hai.
+receiver: Parcel? Mainey toh koi parcel nahi order kiya tha. Yeh kya baat kar rahe hain aap?
+caller: Ji, Sir/Madam. Parcel mein illegal items paaye gaye hain, jo drug trafficking se related hain. Aapko is matter mein involved paaya gaya hai, lekin abhi tak kuch bhi confirm nahi hua hai.
+receiver: Drugs?! Mainey kabhi drugs nahi dekhi! Main ek teacher hoon! Yeh toh galat hai, aapko kaise pata ki main involved hoon?
+caller: Sir/Madam, yeh procedure hai. Aapko humein kuch details deni hogi, taaki hum is matter ko investigate kar sakein. Pehle, humein aapki bank details chahiye, taaki hum parcel ki payment track kar sakein.
+receiver: Bank details?! Nahi, main yeh nahi karunga! Yeh toh ek scam lag raha hai! Main police mein report karunga.
+caller: Sir/Madam, please shanti rakhiye. Agar aap cooperate karenge, toh hum is matter ko jaldi suljha denge aur aapka naam saaf ho jaega. Agar aap cooperate nahi karenge, toh humko niyamit procedure follow karna padega, jismein aapko arrest bhi kiya ja sakta hai.
+receiver: Arrest? Aap log mujhe darraya rahe hain! Main abhi police ko call karta hoon.

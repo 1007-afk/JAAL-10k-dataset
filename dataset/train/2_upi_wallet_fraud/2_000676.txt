@@ -1,0 +1,11 @@
+caller: Hello sir, is this Rahul Verma?
+receiver: Haan, mein Rahul Verma. Bolo?
+caller: Sir, congratulations! You've won a cashback prize worth ₹15,000 from BharatPe’s Diwali Bonanza offer!
+receiver: ₹15,000? Really? BharatPe toh kabhi offer send karte nahi. Confirm karo ek baar.
+caller: Yes sir, it’s absolutely true. But to process this prize, you need to pay a small processing fee of ₹350. This will unlock your winnings.
+receiver: ₹350 fee? Woh bhi? Bilkul genuine offer hai kya? Mujhe doubt ho raha hai.
+caller: Sir, this is standard procedure to verify your account and prevent fraud. Without this fee, we can’t guarantee the prize will be credited. It’s a one-time payment. Transfer ₹350 to this UPI ID: 9876543210@ybl.
+receiver: ₹350? Okay, ek minute… Let me check BharatPe’s official website.
+caller: Sir, please hurry! The offer is ending in just 10 minutes! Don’t miss out on your ₹15,000 prize.
+receiver: Hold on, I’m seeing something very suspicious online about this UPI ID. It’s a scam!
+caller: Sir, you're mistaken! This is the correct ID. You’re about to lose your prize money. Please quickly transfer the fee, otherwise the offer will expire.

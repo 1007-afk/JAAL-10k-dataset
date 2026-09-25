@@ -1,0 +1,8 @@
+caller: Namaste sir, Main Rajiv Kumar, Axis Bank se baat kar raha hun. Aapne online loan apply kiya tha, isliye call kar raha hun. Aapke paas bank statement ka copy ready hai kya?
+receiver: Namaste Rajiv ji. Haan, bank statement ka copy hai. Kya aapko see karna hai ya kuchh update karna hai?
+caller: Ji sir, see karna hai. Kya main aapke account number aur IFSC code check kar sakta hoon, jo aapne loan form bharte samay diye the? Just one moment, verification karna hai.
+receiver: Haan, sure. Wait karte hue. Account number hai [Invent account number, e.g., 1234567890] aur IFSC code hai [Invent IFSC code, e.g., AXIS0987654321]. Aap bataiye kaise chal raha hai.
+caller: Bahut shukriya sir! Aapka account number 1234567890 aur IFSC code AXIS0987654321 hai, confirm ho gaya. Abhi aapke registered mobile number par ek SMS message aaega. Woh message aap mujhe bata sakte hain kya?
+receiver: SMS aaya hai. Yeh hai [Invent SMS content, e.g., "Transaction successful - ₹100"]. Verification complete?
+caller: Ji sir, SMS received and verified. Document verification process complete ho gaya hai. Aapka loan application soon approved hoga. Kuch aur madad chahiye sir?
+receiver: Nahin sir, abhi koi madad nahin chahiye. Dhanyavaad.

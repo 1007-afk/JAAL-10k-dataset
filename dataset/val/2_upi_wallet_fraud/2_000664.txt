@@ -1,0 +1,8 @@
+caller: Namaste! Mai Vijay hu, Bharat Petroleum se call kar raha hu. Aapko ek cashback offer mila hai ₹7500, apne BharatGas connection par.
+receiver: ₹7500? Woh kaise? Mujhe koi offer to pata nahi tha.
+caller: Haan ji, government ka naya scheme hai. Receive karne ke liye, sirf apna One97 wallet ID aur ek OTP de dijiye. Security ke liye.
+receiver: One97 wallet ID? Yeh kya hai? Mai toh BharatGas app se hi online payment karta hu.
+caller: Haan, lekin is offer ke liye special verification process hai. Woh OTP aapke wallet se link hai, ₹7500 transfer hone se pehle. Isliye de dijiye. Jaldi karo, offer limited time ke liye hi hai.
+receiver: Wait a minute… Bharat Petroleum toh kabhi nahi manga wallet ID aur OTP. Mujhe yeh kuch shubha lag raha hai. Main call disconnect karta hu.
+caller: Arre sir, disconnect mat kijiye! ₹7500 miss kar jayenge! Please, jaldi de dijiye. Aapko ₹7500 ka nuksaan hoga!
+receiver: No, thank you. Mai nahi dunga. Fraud lag raha hai. Bye.

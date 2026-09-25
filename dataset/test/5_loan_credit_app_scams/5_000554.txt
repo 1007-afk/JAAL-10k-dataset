@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from QuickLoan Solutions. We've approved your loan application for ₹15,000! Just a quick verification process needed before we disburse it.
+receiver: Oh, really? That’s great news! I applied a while back, didn’t think I’d get approved. What verification do you need?
+caller: Wonderful! To activate the loan, we require a small processing fee of ₹800 to cover the paperwork. You can deposit it into this UPI ID: 7890123456@ybl. Once confirmed, the loan will be credited to your account immediately.
+receiver: ₹800? I thought these things were free to verify. And why UPI? Can’t I pay through the app itself? It feels a bit risky doing a direct UPI transfer like this.
+caller: Sir, it's a standard procedure to secure the loan. Unfortunately, our app has a temporary glitch, so UPI is the only option right now. It’s fully secure, don't worry. Just a small fee to get the process moving quickly. We don't want you to miss out on this opportunity!
+receiver: Okay, fine. I’ll do it. But once the money is in, I expect the ₹15,000 to be credited to my account right away. I'll send you the proof of payment.
+caller: Perfect, Sir! Please send the screenshot. Once we see it, we’ll initiate the loan disbursement. However, we've noticed a slight discrepancy in your account details. For added security, could you provide a short video of yourself holding your ID card and stating the OTP that we'll send to your phone? It’s just a one-time thing, Sir.

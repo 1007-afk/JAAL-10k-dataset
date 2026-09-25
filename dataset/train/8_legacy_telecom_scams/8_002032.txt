@@ -1,0 +1,8 @@
+caller: Hello? Haan ji, main Select ki taraf se bol raha hoon. Aapka O2 number hai na? Ji, main yeh batane ke liye call kiya tha ki aapko ab specially trained advisors ko FREE mein call karne ki facility mili hai. Just dial 402 from your O2 mobile.  Aur kuch information chahiye aapko?
+receiver: Haan ji, sun raha hoon. Achha, yeh toh achhi baat hai. Matlab main kabhi bhi in specially trained advisors se free mein baat kar sakta hoon?
+caller: Ji bilkul! Kabhi bhi, koi bhi sawaal ho O2 se related, ya kuch aur info chahiye ho, aap bas 402 dial kijiye aur hamare specially trained advisors aapki madad ke liye tayyar rahenge. Iske alawa, aur koi baat thi aapki?
+receiver: Nahi ji, aur kuch nahi. Bas yeh jaan na tha ki yeh facility hai. Bahut shukriya batane ke liye.
+caller: pka bahut bahut shukriya. Agar kabhi bhi koi sawaal ho toh yaad rakhiye, bas 402 dial karna hai. Enjoy your Select benefits! Goodbye.
+receiver: Theek hai ji, yaad rahega. Dhanyawad aapka bhi. Bye.
+caller: Great to hear that! Ji, definitely. Isse aapka O2 experience aur bhi better ho jayega. Aur koi questions hain aapke Select benefits ke baare mein?  Bas ek chhota sa detail confirm karna tha, aapka registered O2 number kya hai taaki main yeh verify kar sakoon ki aapke account mein yeh benefit correctly activate ho gaya hai?
+receiver: Haan ji, mera O2 number hai [Your O2 Number]. Aap verify kar lijiye.

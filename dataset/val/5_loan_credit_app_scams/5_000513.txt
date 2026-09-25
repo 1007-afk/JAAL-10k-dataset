@@ -1,0 +1,7 @@
+caller: Namaste! This is SecureCredit Solutions. We're offering quick loans with easy approval, no credit check needed. Are you looking for some extra funds today?
+receiver: Really? How much can I borrow? I need around ₹7000 urgently.
+caller: Absolutely! ₹7000 is easy. We approve almost everyone. To start the process, we just need a few details to verify your identity. Can you share your Aadhaar card number and your bank account details?
+receiver: Wait a minute. Aadhaar card? That seems a bit much for a loan. Why do you need that?
+caller: It’s standard procedure, sir. To prevent fraud and ensure the loan goes to the rightful owner. Plus, we’ll send you a small OTP for verification – nothing to worry about. Just send your bank account number and expiry date.
+receiver: OTP? I don't think I'm comfortable sharing that information. This feels very fishy. I'm going to hang up now.
+caller: Sir, please don’t be hasty! This is a great opportunity! We have a limited-time offer with incredibly low interest. Just the IFSC code, please! Don't miss out!

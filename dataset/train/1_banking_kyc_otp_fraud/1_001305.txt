@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank Security Department se Manish bol raha hoon. Aapke account mein kuch suspicious activity detect hua hai. Aapki safety ke liye, humein ek quick verification karna hai.
+receiver: ICICI Bank? Kya hua? Suspicious activity? Mujhe bataiye kya hua hai.
+caller: Sir, ek OTP aapke registered mobile number pe gaya hai. Woh OTP bataiye taaki hum verification complete kar sakein aur aapke account ko secure rakhen. Account suspend bhi ho sakta hai agar verification nahi hoti hai.
+receiver: OTP? Par aapko meri details check karnee chahiye pehle. OTP dene se pehle mujhe confirm karna hai ki aap sahi ICICI Bank se hi call kar rahe hain.
+caller: Sir, time bahut kam hai. System automatically aapki details check kar raha hai. OTP jaldi bataiye, otherwise account suspend ho jayega. OTP hai [OTP Code].
+receiver: Wait, wait! Kuch toh gadbad hai. Main ICICI Bank website par check karta hoon. Aap thoda rukiye. Yeh bohot hi jaldi mein demand kar rahe hain.
+caller: Sir, jaldi karna zaroori hai. System mein time limit hai. Verification ke bina aapka account block ho sakta hai. Aapko loss bhi ho sakta hai. Ab bataiye OTP!

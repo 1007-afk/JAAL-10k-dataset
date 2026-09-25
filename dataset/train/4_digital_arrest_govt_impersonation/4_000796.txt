@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Singh? This is a final notice from the Directorate of Revenue Intelligence. We’ve detected suspicious activity linked to a parcel delivery under your name.
+receiver: Kya? Parcel delivery? Mujhe koi parcel nahi mila. Aur DRI ka call hai?
+caller: Ji, sir. According to our records, a parcel containing prohibited goods was intercepted, linked to your address. This is a serious matter. To avoid legal proceedings and a hefty fine, you need to settle this immediately. Please call us back urgently on 09876543210 and have your bank details ready.
+receiver: Yeh kya bakwas hai? Main kabhi parcel nahi order karta. Aur bank details? Aapko bank details kyun chahiye? Yeh koi scam lag raha hai.
+caller: Sir, please don't be alarmed. This is standard procedure. We need to verify your identity and process the settlement payment. The fine is ₹50,000 to clear the case. If you delay, we will be forced to issue a warrant. We will keep you on a video call to ensure you don’t contact anyone for help. Please call us back urgently on 09876543210.
+receiver: ₹50,000? Warrant? Dekho, main police mein complaint karunga. Main koi paisa nahi dene wala. Yeh lo, mein call cut kar rahi hoon.
+caller: Hello ji! Aapke liye ek urgent message hai, please 09876543210 pe call karein abhi ke abhi. Bahut zaroori hai!

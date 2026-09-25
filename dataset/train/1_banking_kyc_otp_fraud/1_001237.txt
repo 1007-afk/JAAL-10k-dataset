@@ -1,0 +1,7 @@
+caller: Namaste, I’m calling from Axis Bank’s KYC verification department. Your account is flagged for potential suspension due to incomplete documentation.
+receiver: KYC verification? I thought my documents were updated recently. What exactly is the issue?
+caller: Sir, our systems show an inconsistency with your Aadhaar details. To avoid suspension, we need to quickly confirm your Aadhaar number, PAN card number, and a one-time password sent to your registered mobile number. It's a very urgent matter, sir.
+receiver: Aadhaar, PAN, and OTP? That sounds like a lot of sensitive information to share over the phone. Can’t I do this online or at a branch?
+caller: Sir, the online portal is currently undergoing maintenance. Branch visits are delayed. This is a priority security check to protect your funds. Just provide the OTP and we’ll clear the suspension notice immediately.  We need to act fast!
+receiver: I am really not comfortable giving out my Aadhaar and PAN like this. Is there absolutely no other way? Can you give me a callback number for Axis Bank's official customer service so I can verify this call independently?
+caller: Absolutely, sir! Your security is our top priority. Here's the number: 1800-423-XXXX. Now, just to confirm, can you please provide the OTP you just received?

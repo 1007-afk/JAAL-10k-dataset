@@ -1,0 +1,8 @@
+caller: Namaste, main Vikram Hoon. Aapke phone par ek image ka link bheja tha, kya aap check kar rahe hain? Yeh sahi number mein bheja gaya tha kya?
+receiver: Haanji, Vikram? Haan, main check kar raha hoon. Woh link mila?
+caller: Haanji, Rohan? Woh mila. Aapko link mila ya nahi? Sab theek ho kya? Main do minute pehle bheja tha, toh aapko message mein pata chalega.
+receiver: Haanji, sab theek hai. Link mila mujhe. Thoda sawaal puchhna chahunga, toh soch raha tha ki aap hi hain kya. Image ka hai na?
+caller: Haanji, Rohan? Haan, image ka hai. Main dekhna chahta hoon ki aapko pata chalega kya. Koi aur kaam nahi hai?
+receiver: Haanji, abhi tak nhi hai. Woh image dekha? Woh sahi hai kya?
+caller: Haanji, Rohan? Haan, woh sahi hai. Agar aapko koi problem nahi hai, toh main keh sakta hun ki humein ek small business mein interest hai. Ismein kam se kam ₹5000 chahiye, lekin ye ek special offer hai, sirf do din ke liye.
+receiver: Haanji, acha hai. Koi aur requirement nahi hai, sirf image check karne ka. Business mein interest? Batao, lekin jaldi batao, main busy hoon.

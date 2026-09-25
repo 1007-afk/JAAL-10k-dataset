@@ -1,0 +1,7 @@
+caller: Namaste, mujhe Ankit Verma bolte hain, FastLoanHelp se. Aapne online loan apply kiya tha, right? Verification ke liye call kar raha hoon. Aapka naam confirm kar sakta hoon?
+receiver: Haan, mera naam Rajesh Kumar hai. Main loan apply toh kiya tha, lekin mujhe koi message nahi aaya.
+caller: Rajesh ji, theek hai. Aapko ₹75,000 ki loan approved ho gayi hai, bahut achha interest rate ke saath. Par loan activate karne ke liye, bas ₹2,500 ke processing fee ka payment karna hoga.
+receiver: ₹2,500? Apply karte samay toh kuch fee ke bare mein nahi kaha gaya tha.
+caller: Rajesh ji, yeh ek special offer hai, limited time ke liye. Agar aap abhi pay kar dete hain, toh loan kal tak aapke account mein transfer ho jayega. Payment UPI se kar sakte hain – 9876543210 pay karo.
+receiver:  Wait a minute... mujhe doubt ho raha hai. Mein kisi aur se confirm karta hoon. Thank you.
+caller: Rajesh ji, wait! Agar aap fee nahi pay karte hain, toh loan offer cancel ho jayegi. Aur agar aap refuse karte hain, toh hum aapke contacts ko aapke loan application ke bare mein jaankar bhejenge. Kya aap yeh chahte hain?

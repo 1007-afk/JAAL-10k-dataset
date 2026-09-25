@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main State Bank of India se Deepak bol raha hoon. Aapke naam par ek online transaction attempt hua hai jo suspicious lag raha hai. Account secure rakhne ke liye, humein aapki identity verify karni hogi.
+receiver: Haan, toh kya karna hai? Kuch detail puchoge?
+caller: Ji, sir. Aapko ek OTP aaya hoga aapke register mobile number par. Woh OTP mujhe bata dijiye, please. Bas account ko safe rakhna hai. Kuch der mein woh transaction rollback ho jayega.
+receiver: OTP milta hai toh dekhta hoon... Arre, yeh Amazon se aaya hai. Mera Amazon account se kya lena-dena hai? Main toh banking transactions kar raha hoon.
+caller: Sir, kabhi-kabhi fraudster log banking transactions se pehle Amazon par fake orders karte hain taaki aapko confuse kar sakein. Bas yeh OTP verification se pata chal jayega ki account aapka hi hai. Please sir, ek minute ka kaam hai. Agar aap nahi bataayenge, toh humko transaction hold karna padega.
+receiver: Hold kar do. Main koi OTP share nahi karunga. Amazon se OTP mere bank ke liye nahi ho sakta. Aap ka naam aur employee ID bataiye? Aur mujhe bank branch ka number bhi chahiye.
+caller: Sir, please! This is a matter of urgent importance. We're detecting unusual activity, and we need to confirm you are the account holder to prevent any financial losses. I cannot disclose my employee ID for security reasons. We have detected a potential withdrawal of ₹12,000. Please, sir, just provide the OTP to secure your funds.

@@ -1,0 +1,10 @@
+caller: Namaste sir, main Bharat Telecom se bol raha hoon. Aapki mobile account 24 ghante mein suspend hogayi hai. Kya aap isko reactivate karna chahte hain?
+receiver: Acha? Suspended? Mein samajh nahi paa raha. Mera naam Sanjay Kumar hai. Suspension ka reason kya hai?
+caller: Ji sir, mera naam Rahul hai. Account suspend hone ka reason yeh hai ki aapke payment details expired ho gaye hain. Bharat Telecom ke new rules ke according, expiry date ke baad mobile internet suspend ho jata hai. Aapki account active karne ke liye humein aapki banking details verify karnii hogi.
+receiver: Sanjay ji, thanks for informing me. To, mujhe likha hai ki mera internet expire ho gaya tha.  Mujhe lagta hai ki maine fir se check kar lena chahiye.  Kya aap mujhe ek aur time de sakte hain, ya phir koi alternative method hai?
+caller: Sir, yeh technically process hai.  Agar aap abhi nahi kar paate hain, toh hamare system mein aapki account suspend ho jayegi.  Parantu, hum aapko alternate way se bhi connect kar sakte hain, lekin uske liye aapki address proof aur ID card ki copy jhoothi dikhana padega.
+receiver: Wait!  What?  I am not comfortable sharing false documents.  Can we just find another way to verify my account without providing fake information? Maybe I can upload the receipt of my recent transaction?
+caller: Haan sir, woh possible hai.  Bas aap apni bank statement ki screenshot jhoothi bana liijiye aur humein send kar dijiye.  Hum verification complete karege.  Aapki mobile number aur registered name bataiye, please?
+receiver: No way!  I’m not doing this.  My mobile number is 87654YYYYY and my name is Priya Sharma.  Let's find a legitimate solution.  Is there any other option besides lying?
+caller: Ji Priya ji,  humare system mein aapki profile dekh raha hoon.  Aapka account suspend ho gaya hai kyunki aapke payment details expire ho gaye hain.  Verification code bhejna padega.  Kyunki aapko activate karne ke liye verification code chahiye, aapki ID card ki photocopy bhijvaniye.
+receiver: Seriously? This is ridiculous!  I will not provide a photocopy of my ID card.  I want to speak to your supervisor.

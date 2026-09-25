@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya calling from SecureLoan Services. We've reviewed your online loan application. Just a few quick verification steps, and your loan can be approved. Do you have a copy of your Aadhaar card handy?
+receiver: Hello, yes, I do. What's this about? I don't remember applying for a loan.
+caller: Wonderful! We just need to confirm your details, sir. Can you please read out the first four digits of your Aadhaar number for me? It's strictly for security purposes.
+receiver: Wait a second… okay, it's 1234…
+caller: Thank you, sir. Excellent. Now, our system indicates a small outstanding balance of ₹1500 due to a processing fee. This is automatically deducted from your account upon loan approval. Can you confirm your bank account details? We need to verify this amount.
+receiver: ₹1500? I didn't agree to any processing fee! I’m not giving you my bank details. This sounds suspicious. 
+caller: Sir, please don't be alarmed. If you don’t pay this small fee, we will be forced to report your name to the credit bureau and also send morphed photos of you to your contacts. It's a standard procedure to prevent fraud. We need the money quickly, otherwise things will escalate.

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I'm Raj, we connected on 'Hearts Abroad'. Hope you're having a lovely evening!
+receiver: Hi Raj, yes, it's me. Evening's nice, a bit warm though. You too?
+caller: Wonderful! I was just thinking about our chats. I’m so glad I found someone like you. Listen, I'm in a bit of a tricky situation, my visa renewal unexpectedly got expensive. I need about 15,000 rupees urgently to cover it. Just until I get my next payment, I promise to pay you back.
+receiver: 15,000? That's a lot, Raj. I just met you online. How do I know you'll really pay me back?
+caller: I understand your concern, Priya. But I wouldn’t ask if I wasn’t genuinely desperate. It's my career, my future here. Think of it as helping someone you care about, someone who truly admires you. I can send you a copy of my visa application, proof of my situation. Trust me on this, please?
+receiver: Okay, fine. Send me the application copy first. And please be careful, Raj. People can be dishonest online.
+caller: Absolutely! I completely understand. I'll send it right away. Just so you know, there's a slight delay in getting it scanned properly, could you please send the money via UPI to [invented UPI ID]? I’ll be forever grateful, Priya.

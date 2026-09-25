@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Priya Sharma? We’re calling from Swiggy Customer Care. We’ve noticed some unusual activity on your account regarding a recent order.
+receiver: Haan, woh main hi hoon. Unusual activity? Kya hua? My order was delivered fine yesterday.
+caller: Yes ma’am, but there's a pending payment of ₹2800 for a premium subscription and a delivery fee that wasn't processed correctly. To rectify this, we need to verify your bank account details.
+receiver: ₹2800? I didn’t order any premium subscription. And delivery fee is usually a smaller amount. I haven’t received any message about this.
+caller: I understand your concern, Mrs. Sharma. But to prevent any fraudulent charges, we require a one-time password (OTP) sent to your registered mobile number to confirm your identity and reverse the incorrect transaction.
+receiver: OTP? Why do I need to give an OTP to reverse a transaction? Shouldn’t you be contacting my bank directly? And what is the OTP for exactly?
+caller: It’s a security measure, ma’am. Just a standard procedure. Please provide the OTP so we can complete the verification and refund the excess amount immediately. It’s for confirming the debit reversal process.
+receiver: I am not comfortable giving you an OTP over the phone. I’ll call Swiggy’s official customer service number to verify this.

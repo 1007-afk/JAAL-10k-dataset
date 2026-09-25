@@ -1,0 +1,6 @@
+caller: Namaste, is this Mrs. Kapoor? This is Rohan calling from HDFC Bank's fraud prevention department. We’ve detected some unusual activity on your credit card.
+receiver: Haan, this is Mrs. Kapoor. Unusual activity? What kind of activity?
+caller: Yes, ma’am. A transaction of ₹2,800 to an online gaming site, GamesGalaxy. Do you recognize this purchase? It’s very important we verify this quickly to prevent further fraudulent charges.
+receiver: ₹2,800? No, I absolutely don’t recognize that! I haven’t used my card for online gaming. I’m very worried now.
+caller: Don’t worry, Mrs. Kapoor. We’re here to help. To secure your account and reverse the transaction, we need to confirm a few details. Can you please share the OTP you just received on your registered mobile number? It’s a standard security protocol.
+receiver: OTP? But I haven't received any OTP! This sounds suspicious. I'm going to call HDFC directly from my bank’s official number. Thank you.

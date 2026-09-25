@@ -1,0 +1,9 @@
+caller: Namaste ji, HDFC bank se baat kar raha hoon. Aapka account check karne ke liye call kiya hai. Aap chahte hain hum account verify karein ya nahi? Agar haan to apna Voter ID, Aadhaar number aur debit card details bataiye.
+receiver: HDFC? Haan, lekin kisliye verify karna hai? Voter ID aur debit card details bhi? Itni zyada information chahiye? Mein toh bas jaanta hoon ki mera account secure hai. Aap ne call kyun kiya?
+caller: Sir, mera naam Vijay Kumar hai aur yeh verification banks ke liye compulsory hai. Aapki account ki safety ke liye yeh steps lene ki zarurat hoti hai. Aapko verify karna hai ya nahi?
+receiver: Vijay, listen, yeh method bahut hi suspect hai. Online phone par aise details dene ki koi need nahi hoti. Bank mein jake officially verify karwa lete hain. Kya aap mujhe branch ka address bata sakte hain? Ya phir, online portal mein login kar ke bhi check kar sakta hoon.
+caller: Sir, branch ka address tumhare pichche area mein hai. Tumhein do minute milega. Par agar tum verify nahi karein to tumhara account future mein blocked ho sakta hai. Tumko verify karna hai, otherwise problem hogi.
+receiver: Blocked? Seriously? Yeh to blatant pressure tactics lag rhi hai! Mein toh sirf safe rehna chahta hoon. Agar verification possible hai to OTP process use karo. Koi physical details share karne wala nahi hoon. Kya tum OTP sender number bata sakt ho?
+caller: Sir, OTP sender number hamesha bank ke official number par hota hai. Aapko message mein dikhega. Aap OTP receive karne ke liye ready hain?
+receiver: Message mein? Thoda confusion hai. OTP number dikhana bhi riskly hai. Koi alternative solution nahi hai? Kya aap mujhe account status ka screenshot bata sakte hain? Agar verification required hai, toh I will go to the bank personally.
+caller: Sir, screenshot provide karna technically impossible hai. Account status ka pata hone ke liye verification compulsory hai. Aapko verify karna hai ya nahi?

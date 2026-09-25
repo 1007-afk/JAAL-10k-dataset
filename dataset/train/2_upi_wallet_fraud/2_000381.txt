@@ -1,0 +1,6 @@
+caller: Namaste, I am calling from Paytm Payments Bank. We have noticed some suspicious activity on your Paytm wallet. For security reasons, we need to verify your details immediately.
+receiver: Oh, really? Suspicious activity? What kind of activity? My wallet balance is around ₹8,000. Is everything okay?
+caller: Yes sir, there were a few unusual login attempts from a different location. To prevent any fraudulent transactions, we need to confirm your identity. Please send ₹50 as a processing fee to the UPI ID: 7890123456@ybl. This is a one-time charge to reactivate your wallet.
+receiver: ₹50? Why do I have to pay to reactivate my own wallet? This seems a bit strange. I’ve been using Paytm for years. Can you give me a direct Paytm customer care number, please?
+caller: Sir, this is a standard security protocol. The ₹50 is to ensure it’s really you. Without this verification, your wallet will be blocked permanently and the ₹8,000 will be at risk. This is for your own safety. Our official number is 022-28521000, but they are very busy right now. Just send the ₹50 and we'll activate it instantly.
+receiver: Okay, hold on a second... Let me quickly check that number...

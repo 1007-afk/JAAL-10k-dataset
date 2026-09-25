@@ -1,0 +1,10 @@
+caller: Namaste, sir. Is this Mr. Sharma? This is Inspector Rajan, calling from the Delhi Customs department.
+receiver: Haan, bolie. Main Sharma hoon. Kya hua?
+caller: Sir, we have intercepted a parcel registered under your name at the Indira Gandhi International Airport. Preliminary scans indicate the presence of suspicious substances – potentially illegal narcotics.
+receiver: Illegal narcotics? Yeh kya keh rahe hain aap? Mere naam par? Mein toh kabhi parcel nahi bheja.
+caller: Sir, we understand this may be concerning. To clear this up and avoid further legal complications, we need you to cooperate. We need to verify some details and process a small fee for the investigation. Please dial 1800-456-7890 and speak to our verification officer. It's urgent, sir.
+receiver: Wait, wait! Illegal narcotics? Verification fee? Yeh sab jhootha lag raha hai. Main police station mein complain karunga!
+caller: Sir, please don’t be hasty. This is a serious matter. Failure to cooperate can lead to a formal investigation and arrest. The verification officer can explain the process clearly. Just call 1800-456-7890.
+receiver: Arrest? Nahin, nahin! Main kisi se baat karna chahta hoon, senior officer se. Inspector Rajan, aap ka naam aur badge number bataiye?
+caller: Sir, I am currently on a secure line. Providing badge numbers compromises operational security. Please, for your own safety and to resolve this quickly, call 1800-456-7890. We need to finalize this before the parcel is destroyed.
+receiver: Parcel destroyed? Theek hai, theek hai. Main call karta hoon. (Hangs up)

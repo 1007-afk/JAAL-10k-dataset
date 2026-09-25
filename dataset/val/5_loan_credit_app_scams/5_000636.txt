@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mein Aadhaar Money se phone kar raha hoon. Aapke naam par ek loan request aaya hai, ₹50,000 ka. Aapko yeh loan chahiye ki nahi?
+receiver: Loan? Mujhe toh koi loan nahi chahiye. Mein toh kabhi loan apply nahi kiya.
+caller: Sir, ek application aaya tha. Shayad aapne kabhi accidentally kiya hoga. Abhi process complete karne ke liye kuch details chahiye. Aapka PAN card number aur bank account ka last four digits bataiye.
+receiver: PAN card number phone pe? Yeh to theek nahi lag raha. Main bank jaake check karunga.
+caller: Sir, bank mein line lagegi, time bhi kharab hoga. Koi baat nahi, sirf verification ke liye. Aur agar aap nahi batayenge, toh loan request reject ho jayega aur aapka credit score bhi affect ho sakta hai.
+receiver: Credit score? Theek hai, batao kya karna hai. PAN number [Receiver’s PAN number] aur bank account last four digits [Receiver’s Bank Account Last Four Digits]. Ab aur kya chahiye?
+caller: Shukriya sir. Ab ek OTP aapke phone pe aayega. Woh OTP mujhe bataiye. Verification complete ho jayega aur loan aapke account mein transfer ho jayega.

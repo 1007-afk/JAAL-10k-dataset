@@ -1,0 +1,8 @@
+caller: Namaste, sir. My name is Rajesh from the Directorate of Enforcement, ED. We've detected some unusual activity linked to your bank account – large sums being routed through it, suspected of involvement in an international hawala racket.
+receiver: What? That’s impossible! I don’t do anything like that. I’m just a simple shopkeeper.
+caller: Sir, we understand this is concerning, but we need your cooperation. To clear this up, we require some information and a small processing fee to verify your identity and ensure your assets are protected. This will prevent further legal action against you. We're putting you on a video call now, please do not disconnect.
+receiver: A fee? How much are we talking about? And why a video call? Can’t this be sorted out over the phone?
+caller: Sir, the fee is ₹15,000. It's a security deposit, refundable after verification. The video call is to confirm your identity and prevent anyone from interfering. We use Google Meet for secure verification. Please download the app and share the link. We have CCTV footage of the transactions.
+receiver: Fifteen thousand? That's a lot. Can I see this CCTV footage? I want to be sure this isn't a scam.
+caller: Sir, sharing the footage directly is against protocol, but the video call will allow our officers to explain the evidence. Delaying payment will only complicate matters and increase the risk of asset seizure. We can accept payment through PhonePe or Paytm.
+receiver: Okay, fine. Let me see the Google Meet link. But I'm telling you, if this is fake…

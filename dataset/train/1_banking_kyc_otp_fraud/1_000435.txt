@@ -1,0 +1,8 @@
+caller: Namaste ji, main Rahul Kumar hoon. Aapki Jeevan Priya Savings Account mein ek important notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main aapke bank se baat kar raha hoon, Mr. Patel. Aapke account mein ek small technical issue hai jo solve karna zaroori hai.
+receiver: Haanji, Mr. Patel. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Actually, we’ve noticed some suspicious transactions recently. We want to make sure everything is okay and prevent any potential loss. Can you tell me your date of birth, please?
+receiver: Acha? Suspicious transactions? Kya bol rahe hain aap? Dekhiye, mera doobt hai, yeh dukaan ka matlb hai. Mera doobt hai, yeh dukaan ka matlb hai.  Main ek senior citizen hoon, mujhe yeh sab samajh mein nahin aata. Kya aap thoda wait kar sakte hain? Main phir pehle check kar leta hoon.
+caller: problem, sir. Please don't worry. I am sending you a secure website link. Just click on it and enter your information there. It’s completely safe and verified by our security team.  What do you think?
+receiver: Secure website link? Aisa bilkul nahi ho sakta, Mr. Patel. Bank kabhi bhi aise link nahi bhejna chahiye. Yeh toh lag raha hai koi fraud hai. Aapko koi link nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye. Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

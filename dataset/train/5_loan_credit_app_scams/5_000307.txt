@@ -1,0 +1,13 @@
+caller: Namaste! Mera naam Rahul hai, FastCash Solutions se. Aapne Diwali ke offer ke bare mein suna hoga? Hum kar rahe hain instant loan, sirf pan card auradhar se!
+receiver: Diwali offer? Instant loan? Kitna interest hoga?
+caller: Sir, interest bahut kam hai. Just 10% processing fee, aur phir chote chote installments mein pay kar sakte hain. Kitni amount chahiye tha aapko?
+receiver: Hmm, ₹15,000 chaiye hai. Mere kharche ke liye.
+caller: Theek hai. Aapka naam aur birthday bataiye? Sirf verification ke liye. Phir hum OTP send karenge aapke number par.
+receiver: Mera naam Rajesh Kumar hai, aur birthday 15/08/1985 hai.
+caller: Excellent! Sir, ek minute. Verification code 789012 aapke number par gaya hai. Woh bataiye, please. Aur jab amount aapke account mein transfer ho jayega, toh hum aapko regular call karte rahenge, taaki aap payment time par kar sakein.
+receiver: 789012. Okay.
+caller: Perfect! Sir, ab aapko ek small security deposit dene hoga ₹2000. Aapki loan amount secure ho jayegi. Aapko Paytm ya Google Pay se pay karna hai.
+receiver: ₹2000 aur? Main toh loan le raha hoon, deposit nahi!
+caller: Sir, ye rule hai. Without security deposit, we can't transfer the money. Hamara company legal hai. Aap trust kar sakte hain.
+receiver: Nahin, mujhe yeh scam lag raha hai. Main nahi karunga.
+caller: Koi baat nahi, sir. Aapko paas loan amount transfer nahi kar payenge.

@@ -1,0 +1,9 @@
+caller: Hello sir, this is Inspector Sharma calling from the Directorate of Enforcement, Mumbai. We've detected some unusual activity linked to your bank account involving suspected hawala transactions.
+receiver: Hawala transactions? Mujhe toh koi idea nahi hai. Mai toh ek normal accountant hu.
+caller: Sir, don't worry. It appears a foreign entity used your account unknowingly. We need to verify some details to clear you from any suspicion. Can you please confirm the last four digits of your PAN card?
+receiver: PAN card? Haan, ek minute. 7890.
+caller: Thank you, sir. Now, for security purposes, we need to access your UPI linked accounts to trace the origin of the transactions. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Abhi, mujhe OTP nahi mila.
+caller: Sir, please check again. Sometimes it takes a few minutes. This is crucial to avoid further legal action against you. We need to resolve this swiftly.
+receiver: Okay, okay, I see one now. It’s 1234.
+caller: Wonderful, sir. Just one more verification. Can you tell me the name associated with your primary bank account, the one linked to UPI?

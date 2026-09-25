@@ -1,0 +1,7 @@
+caller: Namaste! Yeh SmartCash Solutions se Rohit bol raha hoon. Aapko kuch financial help ki zaroorat hai kya? Hum offer kar rahe hain instant loan, bilkul bina koi credit check ke.
+receiver: Loan? Mujhe actually apne papa ke operation ke liye kuch paisa chahiye tha. Kitna mil sakta hai?
+caller: Bahut achcha! Hum aapko ₹15,000 tak de sakte hain, sirf 10 minutes mein. Aapki details jaanke hum abhi approval process shuru karenge. Aapka naam aur birthday bataiye?
+receiver: Mera naam Anjali Sharma hai, aur birthday 15 August 1990 hai. Par interest kitna hoga?
+caller: Anjali ji, interest bilkul manageable hai, ₹3000 se zyada nahi. Ab aapko sirf OTP verify karna hai jo aapke phone number par aayega. Jab OTP verify ho jayega, toh paisa direct aapke account mein transfer ho jayega.
+receiver: Mein SMS check karti hoon… Arre, ye OTP mujhe loan offer ka nahi, bank account ke details maang raha hai! Yeh to scam lag raha hai.
+caller: Anjali ji, aap galat samajh rahi hain! Ye security check hai, trust me! Agar aap details nahi denge, toh loan process ruk jayega. Aur mein guarantee karta hoon, aapki photo kisi ko nahi milegi, bilkul safe hai. Please cooperate!

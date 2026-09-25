@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? This is Priya calling from Freecharge. We have a special offer for you today – a cashback of ₹7500 on your next mobile recharge!
+receiver: 7500 rupaye? Freecharge se? Woh toh bahut zyada hai.
+caller: Yes sir! It’s a limited-time promotion. To activate it, we just need to verify your bank account details for the direct transfer. It’s a quick process.
+receiver: Bank account details? Freecharge toh aise details nahi manta hai. Yeh thoda suspicious lag raha hai.
+caller: Sir, it’s a new security protocol. We're upgrading our systems to prevent fraud. Just provide your account number and IFSC code, and the cashback will be credited immediately. We need this to verify you are the rightful owner of the account.
+receiver: Nahin, nahin. Main bank account details kisi ko bhi nahi deta. Agar cashback hai toh direct wallet mein credit ho jaata hai. Yeh scam lag raha hai.
+caller: Sir, don't be so worried. We’re following strict guidelines. Just give the information and secure your cashback. It's very simple. Trust us, sir!
+receiver: Simple? Sirf account number dene se kuch gadbad ho sakta hai. Main call disconnect kar raha hoon.

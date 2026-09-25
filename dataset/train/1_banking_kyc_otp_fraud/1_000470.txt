@@ -1,0 +1,16 @@
+caller: Namaste, main HDFC bank se Ajay Kumar bol raha hoon. Aapka credit card expiry date leke dekhna chahte hain.
+receiver: Namaste, bataiye. Aap HDFC bank se bol rahe hain? Mera credit card expire hone wala hai?
+caller: Haanji, aapka credit card, Reliance Bank Limited, expiry date 15th January ko hai.  Isliye hume naya card issue karna hai.  Aapko kisi bhi inconvenience ke liye maaf karna.
+receiver: Theek hai, bataiye, naya card kaise milega?  Aur koi extra charges to nahi honge na?
+caller: Ji, absolutely! Naya card completely free hai. Hum sirf aapke account details check karna chahte hain.  Aapka complete name, address, aur aapke email id ke last three digits bata sakte hain?  Yeh sab information hamare security protocol ke liye zaroori hai.
+receiver: Haan, mera complete name Shakti Singh hai, address Delhi mein hai, aur email id ke last three digits 789 hain.
+caller: Shukriya, Shakti Singh ji. Yeh details correct hain.  Ab humein OTP aapke registered mobile number par bhejna hai.  Kya OTP aapko mila tha? Agar nahi mila toh humein phir se bhejana padega.
+receiver: Haanji, OTP mil gaya hai. OTP hai 678952.  Aur yeh card kab tak pata hai, delivery hoga?
+caller: नमस्ते, मैं आईसीआईसीआई बैंक से रवि कुमार बोल रहा हूँ। आपका नेट बैंकिंग कार्ड एक्सपायर हो रहा है, क्या आप नया कार्ड जारी करवाना चाहेंगे?
+receiver: नमस्ते, बताइए। आप आईसीआईसीआई बैंक से बोल रहे हैं? मेरा नेट बैंकिंग कार्ड एक्सपायर हो रहा है?
+caller: हाँ जी, बिल्कुल। आपका नेट बैंकिंग कार्ड जो आप इस्तेमाल कर रहे हैं, वह 15 फरवरी को एक्सपायर हो रहा है। इसलिए मैंने आपको कॉल किया है ताकि कोई समस्या न हो आपको। हम आपको तुरंत एक नया कार्ड जारी करेंगे। बस कुछ विवरण सत्यापित करने होंगे।
+receiver: ठीक है, बताइए क्या विवरण चाहिए? और कोई शुल्क तो नहीं लगेगा नए कार्ड का?
+caller: जी, बिलकुल, सर/मैडम। नए कार्ड पर कोई अतिरिक्त शुल्क नहीं है, यह बिल्कुल मुफ्त है। हमें बस कुछ बुनियादी विवरण सत्यापित करने हैं सुरक्षा कारणों से। आपका पूरा नाम, जन्मतिथि और आपके पंजीकृत मोबाइल नंबर के अंतिम चार अंक बता सकते हैं? ये सभी विवरण हमारे सिस्टम में सत्यापित करने के लिए चाहिए ताकि हम पुष्टि कर सकें कि हम सही व्यक्ति से बात कर रहे हैं।
+receiver: हाँ, पूरा नाम है राहुल शर्मा, जन्मतिथि है 10 मार्च 1990। और मोबाइल नंबर के अंतिम चार अंक हैं 9876।
+caller: बहुत धन्यवाद, राहुल शर्मा जी। ये विवरण बिल्कुल सही हैं। अब बस थोड़ी सी सत्यापन करनी है। आपके पंजीकृत मोबाइल नंबर पर एक ओटीपी भेजना है। क्या वो आपको प्राप्त हो गया है? वो ओटीपी मुझे बता दीजिए ताकि हम प्रक्रिया को आगे बढ़ा सकें और आपका नया कार्ड जारी कर सकें। कोई शुल्क नहीं है, यह बिल्कुल मुफ्त है।
+receiver: हाँ जी, ओटीपी आ गया है। ओटीपी है 123456। और यह कार्ड कब तक पता है, डिलीवरी होगी?

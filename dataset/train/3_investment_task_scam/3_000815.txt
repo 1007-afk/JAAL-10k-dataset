@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya Sharma calling from Global Crypto Rewards. We've noticed you recently registered for our affiliate program. Congratulations, you’ve qualified for a bonus!
+receiver: Hello? Global Crypto Rewards? I don’t recall signing up for anything…
+caller: Ji, it’s perfectly alright. Many people forget. The system automatically enrolls users who show potential interest in cryptocurrency. To claim your bonus of ₹5,000 in Bitcoin, we just need to verify a few details. Can you confirm your full name for me?
+receiver: My name is Anjali Verma. But why do I need to verify anything now? I don't even use cryptocurrency.
+caller: Yes, Ms. Verma. Just a standard procedure. To prevent fraudulent claims, we need to confirm you’re the account holder. Now, to process your bonus, could you please send ₹500 as a processing fee? This will be added to your Bitcoin bonus and released automatically. You can send it via UPI to the number I'll provide.
+receiver: ₹500? To get a ₹5,000 bonus? That sounds a bit odd.
+caller: It’s a small fee to ensure the security of the transaction, Ms. Verma. Think of it as a transaction insurance. Without it, we can't guarantee the release of your bonus. Please send it quickly, as this offer is only valid for today. Let me give you the UPI ID: 87654321@ybl.
+receiver: Wait a minute. I’m going to check something first.

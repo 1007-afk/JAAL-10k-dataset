@@ -1,0 +1,8 @@
+caller: Hello? Haanji, main Bol raha hoon [Invented Name]. Aapne abhi ek link bheja tha mere phone pe, ek picture ka? Kya aap confirm kar sakte hain ki yeh sahi number hai? Mujhe ek message aaya tha ki ek link bheja gaya hai, aur main bas confirm karna chahta tha ki yeh aap hi hain.
+receiver: Haanji, [Caller's Name]? Haan, woh main hi tha. Aapko link mil gaya? Bas verify kar raha tha ki sahi banda hai.
+caller: Haanji, [Receiver's Name]? Yes, it was me. You got the link, right? Just verifying it's the right person. Is everything okay on your end? I sent it a minute ago, so it should be in your messages.
+receiver: Haanji, sab theek hai. Link mil gaya mujhe. Bas thoda confirm karna tha, aapne link bheja toh maine socha pooch loon. Picture ka hai na?
+caller: Haanji, [Receiver's Name]? Haan, picture ka hi hai. Maine socha thoda verify kar loon. Aur kuch request tha aapka? Ya yeh bas picture verify karne ke liye tha?
+receiver: Haanji, aapne jo picture bheja tha, woh mil gaya. Bas wohi confirm kar raha tha ki aap hi hain aur sahi picture hai. Aur kuch request nahi tha. Thanks for sending!
+caller: Achha, it's good you got it. Thanks for confirming. So, bas wohi picture tha, aur koi aisi baat nahi? Acha, I was just about to ask if you'd be interested in a small investment opportunity. It's a limited time offer, you know? We're seeing some really good returns...
+receiver: Haanji, achha hai ki aapko mil gaya. Aur koi baat nahi thi, bas picture confirm karna tha. Investment opportunity? Oh, interesting. Tell me more, but keep it brief for now, please. I'm a bit busy.

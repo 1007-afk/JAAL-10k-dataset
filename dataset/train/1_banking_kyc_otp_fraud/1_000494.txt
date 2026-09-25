@@ -1,0 +1,21 @@
+caller: Namaste, Main HDFC bank se Sanjay Kumar bol raha hu. Apka credit card expiry date 15th January ne, kya aap naya card apply karna chahenge?
+receiver: Namaste, Sanjay ji. Kahaan se bol rahe hain aap? HDFC bank se? Mein check karta hu. Naya card apply karna hai? Mera card expire ho raha hai?
+caller: Haan, bilkul. Apka credit card jo aap use karte hain, woh 15th January ko expire hoga. Isliye main aapko call kar raha hun, jab tak koi confusion na ho. Hum aapko instant card provide kar denge. Kuch details jismein aapki complete name, date of birth aur address verify karna hoga.
+receiver: Theek hai, bataiye kya details chahiye? Aur yaha par koi fee to nahi lagega na?
+caller: Ji, absolutely. Credit card ka koi additional charge nahi hai, yeh completely free hai. Humein sirf basic information jisse hum aapki identity verify kar saken. Aapki full name, date of birth, aur registered address bata sakte hain.
+receiver: Haan, meri full name Deepak Sharma hai, date of birth 10th August 1985 hai, aur registered address Delhi mein hai.
+caller: Dhanyavaad, Deepak ji. Yeh details correct hain. Ab ek small verification ke liye, aapke mobile number pe ek SMS me OTP bhejna hai. Kya aapko OTP mila tha? Agar mila toh mujhe bata dijiye.
+receiver: Haan, OTP mil gaya. OTP hai 789456. Aur yeh card kab tak milega?
+caller: नमस्ते, मैं आईसीआईसीआई बैंक से रवि कुमार बोल रहा हूँ। आपका एटीएम कार्ड एक्सपायर होने वाला है, क्या आप एक नया कार्ड जारी करवाना चाहेंगे?
+receiver: नमस्ते, रवि जी। कहां से बोल रहे हैं आप? आईसीआईसीआई बैंक से? मुझे चेक करता हूं। नया कार्ड जारी करवाना है? मेरा अभी एक्सपायर हो रहा है क्या?
+caller: हाँ, बिल्कुल। आपका एटीएम कार्ड जो आप उपयोग कर रहे हैं, वह 28 फरवरी को समाप्त हो जाएगा। इसलिए मैंने आपको कॉल किया है ताकि कोई समस्या न हो। हम आपको तुरंत एक नया कार्ड जारी करेंगे। बस कुछ विवरण सत्यापित करने होंगे।
+receiver: ठीक है, बताएं कि क्या विवरण चाहिए? और नए कार्ड के लिए कोई शुल्क नहीं लगेगा, है ना?
+caller: जी, बिल्कुल, सर/मैडम। नए कार्ड पर कोई अतिरिक्त शुल्क नहीं होगा, यह पूरी तरह से मुफ्त है। हमें बस कुछ बुनियादी विवरण सत्यापित करने की आवश्यकता है सुरक्षा कारणों से। आपका पूरा नाम, जन्म तिथि और आपके पंजीकृत मोबाइल नंबर के अंतिम 4 अंक बता सकते हैं? ये सभी विवरण हमारे सिस्टम में सत्यापित करने के लिए आवश्यक हैं ताकि हम पुष्टि कर सकें कि हम सही व्यक्ति से बात कर रहे हैं।
+receiver: हाँ, मेरा पूरा नाम अमित सिंह है, जन्मतिथि 15 मार्च 1992 है, और मोबाइल नंबर का अंतिम 4 अंक 7890 है।
+caller: बहुत धन्यवाद, अमित जी। ये विवरण बिल्कुल सही हैं। अब बस एक छोटा सत्यापन करना है। आपके पंजीकृत मोबाइल नंबर पर एक ओटीपी भेजना है। क्या आपको ओटीपी मिला था? यदि मिला तो कृपया मुझे बताएं।
+receiver: हाँ, ओटीपी मिल गया। ओटीपी है 123456। और यह कार्ड कब तक मिलेगा मुझे?
+receiver: Haanji, bataiye. Kahan se bol rahe hain aap? Axis Bank se? Achha, naya card issue karwana hai? Mera abhi expire ho raha hai kya?
+caller: Haanji, bilkul. Aapka debit card jo aap use kar rahe hain, woh 15th October ko expire ho raha hai. Isliye maine aapko call kiya hai taaki koi problem na ho aapko. Aapka new card hum immediately issue kar denge. Bas kuch details verify karni hongi.
+receiver: Theek hai, bataiye kya details chahiye? Aur koi charges to nahi lagega na naye card ka?
+caller: Ji bilkul, sir/madam. Naye card ka koi extra charge nahi hai, yeh bilkul free of cost hai. Humein bas kuch basic details verify karni hai for security reasons. Aapka full name, date of birth, aur aapke registered mobile number ke last 4 digits bata sakte hain? Yeh sab details hamari system mein verify karne ke liye chahiye taki hum confirm kar sakein ki hum sahi person se baat kar rahe hain.
+receiver: Haan, full name hai Rahul Verma, date of birth hai 2nd June 1990. Aur mobile

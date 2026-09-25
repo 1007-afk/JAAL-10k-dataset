@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We're calling from BharatPe support. We've noticed some unusual activity on your BharatPe account.
+receiver: BharatPe? Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes, ma'am. There's a pending transaction for ₹499. It seems someone might be trying to access your account. To secure it, we need you to confirm a small processing fee of ₹99.
+receiver: ₹99? To secure my account? That sounds a bit strange. Why do I need to pay anything? BharatPe usually refunds these kinds of things.
+caller: Ma’am, due to new security protocols, a nominal processing fee is required to verify your identity and block the suspicious transaction. This is a one-time charge. Just send ₹99 to the number 7000008899 using UPI.
+receiver: Wait a minute. Why are you asking me to send money to a random number? BharatPe should be able to handle this internally. And ₹99 seems a bit high for just verification. Can you please give me a reference number for this transaction?

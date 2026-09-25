@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Bharat Bank se Rohit bol raha hu. Aapke UPI account mein security issue aa gaya hai.
+receiver: Kya? Security issue? Maine toh kuch nahi kiya.
+caller: Haan Aunty, ek suspicious transaction detect hua hai. Aapko apna account verify karna hoga, warna account freeze ho sakta hai.
+receiver: Freeze ho jayega? Maine toh utne paise nahi hai account mein!
+caller: Aunty, safety ke liye verify karna hi padega. Mai aapko ek link send karunga, us par click karke apna OTP dal dena.
+receiver: Link? Mujhe koi link nahi chahiye. Bharat Bank toh SMS se contact karta hai. Yeh bahut wrong lag raha hai.
+caller: Aunty, yeh emergency hai. Link open karke jald se jald OTP enter karein, warna aapka account permanently block ho jayega. Yeh process sirf 5 minute ka hai.
+receiver: Permanent block? Theek hai, dikhao link. Par agar kuch gadbad hua to main tumhari Patti tod dunga.

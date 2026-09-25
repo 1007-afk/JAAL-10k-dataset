@@ -1,0 +1,16 @@
+caller:  Aap ne ek naya opportunity mil gaya hai, jisse aapki life badlega. Humare office mein sab log paisa kama rahe hain. Agar aap humpe register hone wala hai, toh sirf 50 rupees ka registration fee hoga.
+receiver: Kya? Registration fee? Kaise hoga yeh? Mein kaun hoon main tumhein pata bhi nahi.
+caller:  Don’t worry about that, beta. We just want you to join our exclusive program. It’s very simple. Just provide us with your bank account details and we will transfer the money into your account immediately. You could earn thousands every month!
+receiver: Haan, thousands? Woh kaise possible hai? Mera bank account number bataane mein risk hai. Yeh kitna secure hai?
+caller:  Sirf 10 minutes mein aapki account mein paisa daal denge. Aur humari system totally safe hai, don't worry about that. Please give me your full account number and IFSC code.
+receiver: IFSC code? Mein yeh code kyun bataunga? Yeh dukaan ka number hai, no?
+caller:  It’s not a phone number, beta. It’s an IFSC code – it’s required for the transfer. Don't make this complicated. Just give me the details, and you’ll see the money in your account tomorrow.
+receiver:  Mein abhi soch raha hoon. Yeh bahut hi suspicious lag raha hai. Mein aapko koi information nahi bataunga.
+caller:  Arre yaar, don’t waste your time. This is a golden opportunity. If you don’t take advantage of it now, you might miss out. Just give me your account details, please.  We are waiting for you!
+receiver:  Bhai, mein toh abhi samajh nahi pa raha hoon. Aapko koi account number chahiye hai? Mein toh businessman hoon, account number business ke liye hota hai.
+caller:  Haan, exactly! You’re thinking like a businessman. That’s why you’d benefit so much from this program. Now, hurry up and give me your account number. Don't delay!
+receiver:  Achcha, theek hai. Mein deta hu, par mujhe assurance chahiye ki meine koi loss nahi hoga.
+caller:  Relax, beta. You won’t lose a single rupee.  Just trust us. Give me your account number now. 09876543210.
+receiver:  Okay, mein deta hun. Par mujhe promise karo ki aap mujhe call nahi karenge.
+caller:  Promise? Sure, sure. But don't forget to share this amazing opportunity with your friends too!  Enjoy your earnings! Bye!
+receiver:  Bye!

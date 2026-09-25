@@ -1,0 +1,8 @@
+caller: Hello, thanks for calling Orange! I see you're interested in our amazing offer. So, have you had your mobile for about 10 months now?
+receiver: Haanji, bilkul. Maine karib 10 mahine pehle hi mobile liya tha. Bataiye, kya offer hai?
+caller: Excellent! So, you're eligible for our special upgrade. We're giving away our latest Orange camera/video phones for FREE to loyal customers like you who've had their mobile for around 10 months.  Plus, you'll save lots of pounds with free texts and free weekend calls!  Just text YES to 123 for a callback, or NO if you're not interested.
+receiver: Free phone aur free calls? Wow, yeh toh bahut achha hai!  Mai interested hoon. Kya mujhe yeh sab details mil paengi ki exact model kya hai aur upgrade process kaise hoga?  Basically, mai yeh YES text karu ya pehle thoda aur jaan lu?
+caller: Exactly! Aur agar aap YES text karte hain, toh hum aapko details bhej denge aur bata denge ki upgrade process kaise hoga.  But hurry, we only have 3 left for this batch!  So, what do you say, text YES?
+receiver: Arre, 3 hi bache hain? Theek hai, mai YES text kar deti hoon. Umeed hai ki model achha ho! Thank you.
+caller: Great! That's fantastic news!  You've made a wise decision.  And you're right, we only have 2 left in this batch, so you're lucky to have grabbed one!  Once you text YES, we'll send you all the specs of the phone and explain the super simple upgrade process.  Get ready for an amazing new camera and video experience, all on us!
+receiver: Thank you! I'm excited to see the phone specs. I'll text YES right away. Hope it has a good camera!

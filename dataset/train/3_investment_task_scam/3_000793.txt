@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? I'm calling from 'Global Crypto Ventures'. We've identified you as a potential high-earner.
+receiver: Hello? Yes, this is Priya. What's this about?
+caller: We’re offering a limited-time opportunity to earn significant returns on new cryptocurrency, ‘NovaCoin’. It’s predicted to surge. We’re giving priority access to select individuals like yourself. Minimum investment is ₹5000, with guaranteed returns of 15% within a week!
+receiver: 15% in a week? That sounds too good to be true. What kind of returns are we talking about exactly, and how does it work?
+caller: It’s a proprietary trading algorithm we’ve developed. It leverages market volatility. To start, we need a small initial deposit to activate your account – just ₹2500 for verification purposes. We’ll handle the NovaCoin trading, you just enjoy the profits! We use secure payment gateway PaySafe for deposits.
+receiver: Verification deposit? Hmm, I'm still a little hesitant. Is there a website I can check out, or some more information I can read?
+caller: Absolutely! Here’s the link: globalcryptoventures.online. You’ll see testimonials and detailed information about our trading strategies.  But this offer won’t last long, Priya! Many people are signing up. 
+receiver: Okay, let me take a look at the website… I'll call you back after I've reviewed it.
+caller: Wonderful! We’re excited to have you on board. Please call back within the hour, as the offer expires at midnight! My number is 9988776655. Have a great day!

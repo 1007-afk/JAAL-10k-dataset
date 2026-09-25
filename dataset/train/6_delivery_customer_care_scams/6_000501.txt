@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart se Rohan Sharma bolta hoon. Aapki recent order ke saath ek problem aa gaya hai. Order ID hai FLP78429.
+receiver: Flipkart se? Kya hua? Mujhe koi notification nahi aaya. Mein toh kuch order kiya bhi nahi tha recent mein.
+caller: Ji, system mein dikha raha hoon ki aapne ek smart watch order kiya tha, lekin payment fail ho gaya tha. Ab payment process karne ke liye OTP mangwa raha hoon. Please bataiye OTP kya hai?
+receiver: Wait, wait! Smart watch? Mein toh kabhi smart watch nahi order kiya. Aur OTP kyun mangwa rahe hain? Flipkart kabhi OTP phone se nahi manta.
+caller: Ji, security ke liye hai. Payment complete hone ke baad watch aapko mil jayegi. Bas ek minute ka kaam hai. OTP batao, please? Aur, aapko ye watch sirf ₹99 mein mil rahi hai, ek special offer ke roop mein.
+receiver: ₹99 mein smart watch? Yeh toh bilkul unrealistic lag raha hai! Flipkart kabhi aise offer nahi deta.  Dekhiye, mujhe lagta hai aap fraud kar rahe hain. Mein koi OTP nahi batayunga. Mein police mein report kar dunga.
+caller: Sir, aap galat samajh rahe hain.  Is offer ke bare mein aapko notification mila hoga. Please ek chance do, main aapki help kar sakta hoon.
+receiver:  Galat samajh? Mein koee notification nahi mila. Aapne hi phone kiya hai.  Ab main police se baat karta hoon. Bye.

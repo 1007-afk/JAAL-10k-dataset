@@ -1,0 +1,17 @@
+caller: Namaste! Aapse baat kar raha hoon IRS authority se. Aapke naam par ek legal issue hai.
+receiver: IRS authority? Legal issue? Mein samajhta nahi.
+caller: Nahin, nahin, aapko samajham aata hai. Aapke name Shaan Kumar hai. AAPNE ₹50,000 ke liye cheque diya hai, lekin voh refund nahi hua.
+receiver: ₹50,000? Mein voh diya nahi. Mein samajhta nahi.
+caller: Shaan Kumar ji, aapko FIR register karna padega. Police station mein jana hoga.
+receiver: Police station? Mujhe jaane ki zaroorat nahi hai.
+caller: Nahin, nahin. Aapko asap police station mein jana hoga. Voh case number hai 23B-129.
+receiver: Case number? Mein samajhta nahi.
+caller: Shaan Kumar ji, agar aapko koi problem hai toh aapko helpline number 1800-111-111 par call karna hoga.
+receiver: Helpline number? Mein samajhta nahi.
+caller: Shaan Kumar ji, aapko police station mein report submit karna hoga. Report mein likhein ki aapko ₹50,000 diye hue yaad hai.
+receiver: ₹50,000… Mein samajhta nahi.
+caller: Shaan Kumar ji, agar aapko koi madad chahiye toh aapko police station mein jana hoga.
+receiver: Mein samajhta nahi.
+caller: Shaan Kumar ji, agar aapko koi problem hai toh aapko helpline number 1800-111-111 par call karna hoga.
+receiver: Mein samajhta nahi.
+caller: Shaan Kumar ji, agar aapko koi madad chahiye toh aapko police station mein jana hoga.

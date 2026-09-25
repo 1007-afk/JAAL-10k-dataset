@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Rahul hai, QuickCashPro se. Aapko ghar ke liye urgent paisa chahiye kya? Koi bhi emergency?
+receiver: Haan, actually, meri beti ki school fees bharne ke liye thoda paisa chahiye tha. Kitna time milega?
+caller: Bilkul, sir. QuickCashPro mein aapko 15 minute mein loan mil jayega. ₹30,000 tak loan easy se approve ho jayega. Sir, bas kuch details chahiye. Aapka aadhaar card number aur bank account number dedo.
+receiver: Aadhaar card number? Woh to itna confidential hai!
+caller: Sir, verification ke liye hai, tension mat lo. Agar aapko loan chahiye toh details dena padega. Bataiye, sir, aapka aadhaar number kya hai? Aur jo bank account hai woh kis ka naam hai?
+receiver: Mein soochta hoon... kuch gadbad lag rahi hai. Mein call kaat deta hoon.
+caller: Sir! Please, mat kaato call! ₹30,000 sir, aapki beti ke liye! Just aadhaar number do. Isko mat choro!

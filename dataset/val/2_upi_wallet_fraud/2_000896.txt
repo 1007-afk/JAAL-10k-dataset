@@ -1,0 +1,6 @@
+caller: Hello sir, this is Akash from BharatPay customer support. We’ve noticed some unusual activity on your BharatPay wallet and for security reasons, we need to verify your identity.
+receiver: Okay, BharatPay? What kind of unusual activity? I haven't done anything different.
+caller: Sir, there's a pending cashback claim of ₹5,000 in your account related to a recent UPI transaction. To release it, we need to confirm a small processing fee of ₹500.
+receiver: ₹500? To get ₹5,000 cashback? That seems a bit odd, doesn't it?
+caller: Yes sir, it's a standard security protocol. This prevents fraudulent claims. We'll send you a collect request to your BharatPay wallet. Please confirm the payment.
+receiver: Okay, let me check my BharatPay app... Wait a minute. I see a collect request for ₹500 from a number I don't recognize. This doesn't seem right. I’m not confirming anything.

@@ -1,0 +1,8 @@
+caller: Namaste ji, main Mr. Verma bol raha hun. Aapke Kisan Vikas Patra ke baare mein kuch important information hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main aapki banking services ki team se bol raha hun. Aapke Kisan Vikas Patra ke baare mein kuch updates hai jo bahut zaroori hai.
+receiver: Haanji, Mr. Verma. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thank you. Actually, we’ve noticed some irregularities in the investment value of your Kisan Vikas Patra. We want to ensure everything is correct and compliant with regulations. Could you please confirm your registration number for the KVP?
+receiver: Acha? Irregularities? Investment value?  Main toh Kisan Vikas Patra mein new hoon. Mera registration number… woh toh abhi mere paas nahin hai. Kya aap thoda wait kar sakte hain? Main dekh kar batata hoon?
+caller: Problem, sir. Aisa karte hain, main aapko ek secure website address bhejna chahunga. Uspe aap apni details check kar sakte hain. Website totally safe hai aur bank ka official website hai. Aapko kya lagta hai?
+receiver: Secure website?  Aise website bank kabhi bhi nahi banati. Yeh toh lag raha hai koi fraud hai. Aapko koi website nahi dekhni chahiye aur na hi mujhe koi details share karni chahiye. Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

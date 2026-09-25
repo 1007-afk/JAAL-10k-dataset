@@ -1,0 +1,10 @@
+caller: Hello, main Constable Rajesh Sharma bol raha hoon. Aapse baat karne ki zaroorat hai. Aapka naam kya hai?
+receiver: Ji, Constable Sharma, namaste. Main Rahul Gupta bolta hoon. Bataiye, kya baat hai?
+caller: Rahul Gupta, theek hai. Dekhiye, hamare intelligence reports se pata chala hai ki aapke naam par ek parcel aayega mein illegal maal hai. Drugs ki sambhavna hai.
+receiver: Kya? Yeh kaise ho sakta hai? Main toh kabhi illegal stuff mein nahi involve hua.
+caller: Dekhiye, case serious hai. CBI isko investigate kar rahi hai. Aapko yahan video call mein rehna hoga aur kuch formalities complete karna hoga. Iske liye 15,000 rupees ka security deposit jama karna padega.
+receiver: 15,000? Lekin main abhi bank mein nahi hu. Yeh kitna ajeeb hai!
+caller: Time bahut kam hai. Yeh payment UPI se karo. Hamara official account hai. Jaldi karo, warna warrant nikalna padega. Yeh call record ho rahi hai, aap jaante hain.
+receiver: Thoda time do mujhe. Main check karta hu.
+caller: Nahin, time nahi hai. Criminal activity mein aapka naam aa gaya hai. Payment karein nahin toh arrest warrant nikal jayega aur aapko jail jaana padega. Payment fast karna hai.
+caller: Payment karo, otherwise, hamara team aapke ghar par aayegi aur aapko arrest karegi.

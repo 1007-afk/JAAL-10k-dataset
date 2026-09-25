@@ -1,0 +1,8 @@
+caller: Namaste ji, thanks for your 'Melody Tune' subscription, reference code MP78. You’ll be paying ₹12 every month. You can cancel this anytime by dialing our support helpline on 88001234.
+receiver: Oh, okay! ₹12 a month, right? And I see that helpline number 88001234. That’s good to know.
+caller: Haan, aur ek cheez - yeh ₹12 har mahine automatically deducted hoga, until you actively cancel it. So, if you want to stop the charges, please call back 88001234567 and say ‘Cancel Melody Tune’. Is it clear?
+receiver: So, basically, the money will keep coming even if I don’t call to cancel? Okay, I understand. If I want to stop it, I need to call 88001234567 and say "Cancel Melody Tune". Right?
+caller: Exactly! We just want to ensure you're fully aware of all the details. No need to do anything now, unless you decide to cancel. Any other questions for me today?
+receiver: No, no questions right now. You explained everything perfectly. Thank you so much!
+caller: Great, glad to hear it! Just remember this number for any future inquiries – 88001234567. Have a lovely day!
+receiver: Thank you so much for your help! I appreciate it. You too, enjoy your day!

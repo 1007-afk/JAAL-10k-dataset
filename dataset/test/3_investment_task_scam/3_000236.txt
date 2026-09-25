@@ -1,0 +1,11 @@
+caller: Namaste, aap kaise hain? Main Sanjay hu, ‘DigitalWave Solutions’ se baat kar raha hun.
+receiver: Namaste Sanjay, main achha hi hoon, shukriya! Kaise hain aap?
+caller: Achhi hui! Aaj main aapko ek bahut hi special offer deta hun. Hum DigitalWave Solutions se ‘SmartHome Security System’ launch kar rahe hain - ek advanced security system jo aapko apne ghar ko completely safe rakhegi. ₹1500 se shuru hota hai!
+receiver: ₹1500 se shuru hota hai? Woh kaisi system hai? Mujhe jankari chahiye.
+caller: Haan ji, yeh ek wireless system hai, GPS tracker ke sath, motion sensor, aur smart lock ke saath. Isse aap apne ghar ko kisi bhi dange se bachayenge. Aur best part yeh hai, aaj aapko sirf ₹800 mein mila sakta hai! Ek year ka maintenance bhi free hai. Kya aap is offer ka dekhna chahenge?
+receiver: ₹800 mein complete security system? Bohot accha lag raha hai. GPS tracker, motion sensor, smart lock…Yeh sab kya karega? Aur is system ko install karne mein kitni time lagegi?
+caller: Haan ji, GPS tracker apne ghar ke andar har kisi cheez ko track karta hai. Motion sensor kisi bhi movement ko detect karta hai aur aapko immediately alert karta hai. Smart lock aapko remote control se door se lock aur unlock karne deta hai. Install karna bahut easy hai, sirf 30 minute mein ho jaata hai. Kya aap is system ki further details jaanna chahte hain?
+receiver: Haan ji, mujhe ye bhi malum hona chahie ki is offer mein koi terms and conditions hain na? Agar main 12 mahine ka subscription leta hun, toh kya main phir se system return kar sakta hun?
+caller: Haan ji, yeh offer 6 mahine ke subscription par hai, lekin aapko koi bhi problem ho toh hum refund policy follow karenge. Aur aap koi bhi time pe system return kar sakte hain. Parantu, yeh offer sirf limited stock mein available hai, matlab, jaldi karo!
+receiver: Limited stock? Okay, fine. ₹800 mein yeh system, aur ek year maintenance free…Yeh achcha deal hai. Lekin mujhe abhi puri jankari chahiye. Helpline number batayein.
+caller: Bilkul! Mera helpline number 9876543210 hai. Aap kisi bhi time pe call kar sakte hain. Shukriya!

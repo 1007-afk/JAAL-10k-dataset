@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Verma? My name is Inspector Sharma, calling from the Delhi Customs department. We need to discuss a parcel registered under your name.
+receiver: Delhi Customs? What parcel? I haven’t ordered anything recently.
+caller: Yes, sir. It appears a parcel containing suspicious items has been intercepted at Indira Gandhi International Airport. Preliminary investigations suggest it may contain prohibited goods. We need to verify this urgently.
+receiver: Prohibited goods? What kind of items? This sounds very strange. Can you give me a case number or something?
+caller: Sir, for verification purposes and to avoid further legal complications, we require a small processing fee of ₹5,000 to clear the parcel and conduct a full investigation. You need to transfer it to this UPI ID: 9876543210@axisbank. We will arrange a video call with you immediately after the payment is confirmed.
+receiver: ₹5,000? Just to clear a parcel I don't even know about? And a video call? I want to confirm the case number and your official contact number before I do anything. This seems like a scam.
+caller: Sir, time is of the essence. Delaying the payment will only complicate matters and could result in legal action. We are under immense pressure to resolve this quickly. The UPI ID again is 9876543210@axisbank. Please cooperate, sir, for your own safety and peace of mind.

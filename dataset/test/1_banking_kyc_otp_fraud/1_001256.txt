@@ -1,0 +1,8 @@
+caller: Namaste sir, main Vinay Sharma, State Bank of India se bol raha hoon. Aapka account mein kuch activity hui hai jo suspicious lag rahi hai.
+receiver: Kya activity? Mujhe toh kuch pata nahi hai. Mein toh aaj kal bank mein kam hi jaata hoon.
+caller: Sir, aapke account se ₹4500 ka transaction online gaming website Dream11 par hua hai. Is transaction ko block karne ke liye, aapko OTP dena hoga.
+receiver: ₹4500? Mein toh Dream11 kabhi nahi chalta! OTP kabhi nahi dunga, yeh scam lag raha hai.
+caller: Sir, yeh urgent hai. Agar aap OTP nahi denge toh transaction permanent ho jayega aur aapka account freeze bhi ho sakta hai. Yeh security protocol hai, sir.
+receiver: Account freeze kar denge? Sir, mujhe toh kuch samajh nahi aa raha. Mein SBI helpline number se call karta hoon aur check karta hoon. Aap bataiye, aapka employee ID kya hai?
+caller: Sir, employee ID confidential hai. Aapko mat puchna. Abhi OTP jaldi se bataiye, otherwise bahut nuksaan ho sakta hai.
+receiver: ₹4500 Dream11 pe? Main call cut kar raha hoon. Yeh toh pakka scam hai.

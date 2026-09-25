@@ -1,0 +1,7 @@
+caller: Namaste Auntie, mai Flipkart customer care se bol raha hoon. Aapke account mein 2500 ka cashback pending hai, lekin verification ke bina yeh release nahi ho sakta.
+receiver: Oh! Flipkart se? Maine toh kuch shopping toh ki thi, lekin mujhe cashback ke bare mein pata hi nahi tha. Verification ka kya tareeka hai?
+caller: Bilkul Auntie. Verification ke liye, aapko ek small processing fee bharani hogi. Yeh sirf 500 rupay hai, bas itne hi. Aap Paytm ya GPay se kar sakte hain.
+receiver: 500 rupay? Par kyoun? Flipkart toh free cashback deta hai!
+caller: Auntie, security ke vajah se, yeh process zaruri hai. Agar aap fee bhar denge, toh cashback instant release ho jayega. Main aapko ek UPI ID de deta hoon.
+receiver: Thik hai, de dijiye. Lekin mujhe UPI pe trust nahi hai, aur main kabhi-kabhi confuse ho jaata hoon.
+caller: Bilkul Auntie, koi chinta nahi. Yeh bahut simple hai. Aap UPI ID par sirf 500 rupay bhejen. OTP aayega, woh mujhe bata den. Phir cashback aapke account mein dekh lenge. UPI ID hai: 8923456789@axisbank.

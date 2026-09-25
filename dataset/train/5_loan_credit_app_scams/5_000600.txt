@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul bolta hoon, Loan Mitra app se. Aapko urgent loan chahiye tha, sunne se? ₹50,000 tak, sirf 10 minute mein approve ho jayega. Aapka naam bataiye?
+receiver: Ji, main Priya hoon. Haan, loan chahiye tha. Lekin, itni jaldi?
+caller: Jaldi toh hum karte hain, Priya ji. Aapko kitmani loan chahiye, sahi bataiye? Aur bataiye, aapka occupation kya hai? Ghar baithe hi process ho jayega.
+receiver: Mujhe ₹35,000 tak ka loan chahiye tha. Main ek teacher hoon. Process ghar baithe kaise hoga? Documents kya-kya lagenge?
+caller: Bahut achha! Teacher hain, toh bohot saaf-suthra deal hoga. Aadhar card, pan card aur bank statement lagenge. Hum app ke through hi upload kar lenge. Approval ke baad, ₹35,000 aapke account mein seedhe deposit ho jayenge. Par ek small processing fee lagegi, ₹2500.
+receiver: ₹2500 processing fee? Loan ke saath, yeh kitna zyada ho gaya. Aur agar main repay kar nahi paayi toh?
+caller: Priya ji, repay karne mein kuch bhi dikkat nahi hogi. Hum aapko easy EMI mein divide kar denge. Lekin agar aap EMI miss karte rahe, toh hum aapke contacts ko batayenge ki aap loan default kar rahe ho. Aur aapki photos bhi share kar sakte hain, agar aap cooperate nahi karte toh. Aapka phone number hai 9876543210, right?

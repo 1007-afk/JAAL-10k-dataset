@@ -1,0 +1,8 @@
+caller: Namaste ji, dis is Tech Solutions India. Calling about your participation in our special offer – you’ve won a free laptop! But hurry, we have limited slots available. If you don’t verify now, your prize will be automatically transferred to someone else. The terms and conditions are on techsol.in, it’s only for adults and costs ₹170 per second. So, are you ready to accept your gift?
+receiver: Namaste ji, Tech Solutions India se? Laptop jeeta hoon? Wow, amazing! I just read about this. Just need to confirm my details quickly, right? And the website is techsol.in, correct? The charge is ₹170 per second, noted. Yes, I am ready to take this gift. What do I need to do next?
+caller: Great! First, we need to confirm your full name and residence address for delivery. As I said, this is a special offer, so we require complete information. Please tell me your full name?
+receiver: My name is Rohan Sharma, and my address is 123, Maplewood Apartments, Bangalore.
+caller: Thank you, Rohan ji! Now, could you provide your mobile number as well? Just for verification purposes, to ensure you’re the genuine winner. It's also mentioned on techsol.in.
+receiver: Sure, my number is 9876543210. Just for verification, okay?
+caller: Excellent! Now, we need to pay a small security deposit to secure your laptop. This is a standard procedure for all our offers, to prevent fraudulent claims. This deposit ensures your laptop is safe and secure. You'll need to pay ₹1499 through UPI or net banking.
+receiver: ₹1499? I didn’t see that in the terms and conditions. And this isn’t refundable either? Wait, this is quite sudden. Do you have any other way to receive the payment or is this the only option?

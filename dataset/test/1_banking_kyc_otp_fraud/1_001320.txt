@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from BharatPay security. We've detected unusual activity on your BharatPay account linked to your SBI debit card. A transaction of ₹7,500 is pending to a gaming website.
+receiver: Gaming website? ₹7,500? I didn't do that. What's happening?
+caller: Yes, sir. It appears someone is trying to access your account. To secure your funds, we need to verify a few details urgently. Can you please confirm the last three digits of your debit card number for verification purposes? Only three digits, please.
+receiver: Wait a minute. Why do you need my debit card details? Shouldn’t you already have that if you’re from BharatPay? This is starting to feel a little fishy.
+caller: Sir, due to a new security protocol, we must verify even existing customers to prevent fraud. This is standard procedure. Time is of the essence, sir. The pending transaction could be processed at any moment. Kindly provide the last three digits to block the transaction immediately. For your safety, please comply.
+receiver: Okay, okay. But I still don't trust this. Can you give me a BharatPay customer service number I can call to verify this? I’m not comfortable giving out my card details over the phone.
+caller: Sir, our systems are experiencing high call volumes right now. The fastest way to resolve this is to provide the digits now. It will only take a second and will protect your money. Please, sir, the transaction is still pending and if we don’t resolve this, you could lose ₹7,500.

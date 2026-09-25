@@ -1,0 +1,6 @@
+caller: Hello! Main Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ₹12,000 ka cashback offer hai! Claim karne ke liye, bas kuch details confirm karna hai.
+receiver: Paytm se? ₹12,000? Wow! Mujhe toh koi notification nahi aaya. Kya details chahiye aapko?
+caller: Sir, aapko bas apna registered mobile number aur OTP confirm karna hai. ₹12,000 cashback Paytm wallet mein direct credit ho jayega. Yeh offer sirf aaj ke liye hai, jaldi kijiye!
+receiver: Wait, wait. OTP? Paytm toh kabhi bhi OTP maangta nahin hai cashback claim karne ke liye. Yeh kuch ghalat lag raha hai. KYC ka kuch relation hai isse?
+caller: Sir, yeh security check hai, scam se bachne ke liye. OTP se hum confirm karte hain ki aap hi sahi account holder hain. Aur KYC complete ho gaya tha aapka, isliye koi problem nahi hoga. ₹12,000 loot jayenge, sir!
+receiver: Sirf ₹12,000 ke liye main apna OTP de raha hoon? Yeh bahut risky lag raha hai. Main koi aur way try karta hoon. I'm going to call Paytm customer service directly.

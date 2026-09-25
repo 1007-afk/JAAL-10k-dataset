@@ -1,0 +1,10 @@
+caller: Hello, is this Mrs. Verma? This is Akash from Axis Bank Cyber Security.
+receiver: Haan, yes, this is Verma.
+caller: Madam, we've detected some unusual activity on your savings account. A large transaction attempt was flagged, and we need to quickly verify your details to prevent potential fraud.
+receiver: What kind of transaction? How much was it?
+caller: It was a request for ₹25,000 to a new beneficiary. It’s been temporarily blocked, but we need to confirm it wasn’t you. For verification, could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? That sounds risky.
+caller: Madam, it’s a standard security protocol. Without the OTP, we cannot unblock the account and the funds might be lost permanently. We're just trying to safeguard your money. Please provide the OTP urgently.
+receiver: I’m not giving you my OTP. I’ll call Axis Bank directly from my bank statement.
+caller: Madam, this is the official Axis Bank security line. Delaying the verification might lead to a complete account freeze. We have your Aadhaar number here - can you quickly confirm the date of birth associated with it? Just one quick question.
+receiver: Absolutely not. I’m reporting this to the police. Goodbye.

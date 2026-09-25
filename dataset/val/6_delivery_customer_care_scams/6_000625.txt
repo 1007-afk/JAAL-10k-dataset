@@ -1,0 +1,6 @@
+caller: Namaste! Main XYZ Courier se bol raha hoon. Aapke naam se ek parcel aaya hai, lekin delivery ke daurang kuchh problem ho gaya hai.
+receiver: XYZ Courier? Kya problem hai? Mujhe to koi order yaad nahi.
+caller: Ji, parcel aane mein kuch delay hui hai, aur humein kuchh extra charges pay karne ki zarurat pad rahi hai. ₹499 ka payment karne se yeh issue resolve ho jayega, aur parcel kal tak aapke ghar pahunch jayega.
+receiver: ₹499? Par mujhe to koi order bhi yaad nahi, aur payment kaise karu? Ye bahut suspicious lag raha hai.
+caller: Ma’am, humein payment verify karna hoga taaki parcel deliver kiya ja sake. Aapko online payment karna hai, main aapko link send karta hoon. Jaldi karein, warna parcel wapas bhej denge.
+receiver: Wait! Aap mujhe apna employee ID number bata sakte hain? Aur parcel ka tracking number bhi de dijiye. Main kisi aur se confirm kar ke phone pe wapas call karti hoon.

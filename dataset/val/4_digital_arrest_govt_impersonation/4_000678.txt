@@ -1,0 +1,8 @@
+caller: Hello, this is Constable Rajesh from the Delhi Customs Department. We need to speak with you urgently regarding a parcel registered under your name.
+receiver: Parcel? Mein toh koi parcel nahi order kiya tha. Kya baat hai?
+caller: Sir, preliminary investigation reveals this parcel contains suspicious items linked to illegal cryptocurrency transactions. We have flagged it for immediate inspection. To clear this, you’ll need to pay a small processing fee of ₹12,500.
+receiver: ₹12,500? Illegal cryptocurrency? Yeh toh bohot zyada lag raha hai. Mein toh kabhi bhi cryptocurrency mein involve nahi hua. Can you give me a reference number?
+caller: Absolutely, sir. The reference number is DLCC/2024/07/4829. You can pay via Paytm or Google Pay to this UPI ID: customs.clearance.india@axis. This is to expedite the process and avoid further delays. Without this, the parcel will be seized.
+receiver: Okay, UPI ID... customs.clearance.india@axis. Wait, this feels fishy. Can I speak to your senior officer? Maybe I should call the customs department directly?
+caller: Sir, time is of the essence. Any delay could lead to serious repercussions. Our senior officers are currently occupied with other critical cases. Pay the fee now, and we'll ensure your parcel is released immediately.  We are monitoring your calls, sir. Cooperate, and all will be fine.
+receiver: Monitoring my calls? This is getting ridiculous!  I'm reporting this.

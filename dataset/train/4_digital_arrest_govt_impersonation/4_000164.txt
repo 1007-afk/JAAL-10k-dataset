@@ -1,0 +1,8 @@
+caller: Namaste, mai hu Inspector Rajan Sharma, Mumbai Customs se. Aapke naam par ek parcel aaya hai, lekin usmein illegal items paye gaye hain.
+receiver: Illegal items? Mai toh kuch order nahi kiya tha.
+caller: Haan, lekin parcel aapke address par aaya hai. Yeh parcel Nepal se aaya hai, aur usmein suspicious items hain. Aapko is matter mein cooperate karna hoga.
+receiver: Maine toh kabhi Nepal order nahi kiya. Yeh log kya bol rahe hain?
+caller: Dekhiye, is matter ko serious li ja rahi hai. Aapko ₹15,000 ka fine pay karna hoga, taki parcel release ho jaye aur aapka naam clear ho jaye.
+receiver: ₹15,000? Kaise pay karu? Aur yeh kitna ridiculous lag raha hai! Main police mein report karunga.
+caller: Police mein report? Aapko kya samjhte hain? Yeh matter bahut sensitive hai. Aapko online payment karna hoga, main aapko link send karunga. Jaldi karein, warna parcel confiscat kar lenge aur aapke khilaf case register karenge.
+receiver: Link mat bhejo! Mai jaanta hu yeh scam hai. Mai phone cut kar raha hu.

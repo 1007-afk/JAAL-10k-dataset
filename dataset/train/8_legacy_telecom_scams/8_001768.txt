@@ -1,0 +1,18 @@
+caller: Namaste! Main Bharat Telecom se baat kar raha hoon. Aapko ek special offer mili hogi, jisse aap bahut sahenge khushi lagoge. Hum ne pehle aapse contact karne ki koshish ki thi, par maaf karein agar aapko message nahi mili. Aapko ek premium smartphone aur unlimited data ka offer mila tha. Kya aapko unka idea ayega?
+receiver: Haan ji, Namaste. Mein sunaa hai ki ek smartphone offer mili tha. Par mujhe pata nahi ki kyahi message aaya tha ya nahi.
+caller: Haan ji, bilkul possible hai ki message lost ho gayi ho. Lekin hum phir se aapko offer deta rahe hain. Is offer mein aapko ek amazing smartphone milega - Samsung Galaxy A54, 1 terabyte internal storage aur 8 GB RAM. Aur saath mein aapko unlimited data bhi milega, 6 months ke liye. Kya aapko yeh offer pasand aa raha hai?
+receiver: Wow, Samsung Galaxy A54? Woh toh acha hai! Unlimited data bhi? Fir delivery ka time kab hoga?
+caller: Delivery ka time 24 hours mein fixed ho sakta hai. Humne aapke liye delivery agent ko schedule kar diya hai. Agar aapko koi specific time chahiye toh bata dein. Aur yeh offer sirf limited time ke liye chal raha hai, dusra chance nahi milega.
+receiver: Okay, great. To, main is offer ko accept karunga. Meri address hai [Invented Address, e.g., 456, Patel Nagar, Mumbai]. Confirm kar dijiye ki delivery kal mil jaegi.
+caller: Absolutely! Woh number confirm ho gaya hai. Ab hum aapko delivery confirmation SMS aur email se bhejege. Agar aapko koi problem ho toh humein call karna mat bhooliye – 09876543210.  Aapko bohot shukriya!
+receiver: Dhanyavaad!
+caller: Aapki salahiyat!
+caller: Namaste! Main Bharat Telecom se baat kar raha hoon. Aapko ek special offer mili hogi, jisse aap bahut sahenge khushi lagoge. Hum ne pehle aapse contact karne ki koshish ki thi, par maaf karein agar aapko message nahi mili. Aapko ek premium smartphone aur unlimited data ka offer mila tha. Kya aapko unka idea ayega?
+receiver: Haan ji, Namaste. Mein sunaa hai ki ek smartphone offer mili tha. Par mujhe pata nahi ki kyahi message aaya tha ya nahi.
+caller: Haan ji, bilkul possible hai ki message lost ho gayi ho. Lekin hum phir se aapko offer deta rahe hain. Is offer mein aapko ek amazing smartphone milega - Samsung Galaxy A54, 1 terabyte internal storage aur 8 GB RAM. Aur saath mein aapko unlimited data bhi milega, 6 months ke liye. Kya aapko yeh offer pasand aa raha hai?
+receiver: Wow, Samsung Galaxy A54? Woh toh acha hai! Unlimited data bhi? Fir delivery ka time kab hoga?
+caller: Delivery ka time 24 hours mein fixed ho sakta hai. Humne aapke liye delivery agent ko schedule kar diya hai. Agar aapko koi specific time chahiye toh bata dein. Aur yeh offer sirf limited time ke liye chal raha hai, dusra chance nahi milega.
+receiver: Okay, great. To, main is offer ko accept karunga. Meri address hai [Invented Address, e.g., 456, Patel Nagar, Mumbai]. Confirm kar dijiye ki delivery kal mil jaegi.
+caller: Absolutely! Woh number confirm ho gaya hai. Ab hum aapko delivery confirmation SMS aur email se bhejege. Agar aapko koi problem ho toh humein call karna mat bhooliye – 09876543210.  Aapko bohot shukriya!
+receiver: Dhanyavaad!
+caller: Aapki salahiyat!

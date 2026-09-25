@@ -1,0 +1,6 @@
+caller: Hello? Sir, this is from PhonePe security. We've detected unusual activity on your account, specifically a large outbound transaction to an unknown wallet.
+receiver: Oh, really? What kind of transaction? How much money are we talking about?
+caller: It was a payment of ₹12,500 to a Paytm wallet linked to a new device. To prevent further unauthorized access, we need to verify your identity and temporarily freeze the account.
+receiver: Freeze my account? Why can't you just block that specific transaction? And how are you verifying my identity? This sounds a bit fishy.
+caller: Sir, protocol dictates temporary freezing. We need to confirm you’re the legitimate account holder. We'll just need your last four digits of your linked bank account and the OTP sent to your registered mobile number. It’s a standard security procedure.
+receiver: Hold on. Asking for bank details and OTP over the phone? PhonePe never asked me for that before. Let me check the official PhonePe app. Give me a minute. I’m calling them back to verify.

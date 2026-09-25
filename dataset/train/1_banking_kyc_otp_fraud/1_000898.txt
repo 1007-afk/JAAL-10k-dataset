@@ -1,0 +1,7 @@
+caller: Namaste! Mai Axis Bank se Rohan bolta hoon. Aapka account suspend karne ke liye notice aaya hai, security reasons se.
+receiver: Kya? Account suspend? Kyun? Mujhe toh koi message nahi aaya.
+caller: Sir, system mein dikh raha hai ki aapke naam par ek new device se login try kiya gaya tha. Aapne kiya tha? Security ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Par main toh apne phone pe hoon. Main Axis Bank ka app use karta hoon, kabhi koi OTP nahi aaya.
+caller: Sir, kabhi-kabhi OTP SMS delay ho sakta hai. Aapka PAN card number bataiye, main check kar sakta hoon. Verification ke liye sirf woh hi chahiye.
+receiver: PAN card? Sir, woh share karna theek nahi lagta. Bank toh aise number nahi manta. Main office mein jaakar check karunga.
+caller: Sir, please, jaldi karna hai. Account suspend ho jayega, aur phir aapko bahut mushkil hogi. Just PAN card number, aur ek OTP. Please cooperate.

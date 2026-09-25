@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank KYC department se Rohit Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye aapka account suspend karne ka risk hai.
+receiver: Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, ek international transaction try kiya gaya tha. Security ke liye, aapko apna Aadhaar number aur ek OTP share karna hoga, tabhi main aapka account secure kar sakta hoon.
+receiver: Aadhaar number? Over the phone? That sounds risky. Can't I do this online through the Axis Bank app?
+caller: Sir, app mein yeh option available nahi hai. Yeh urgent hai, otherwise aapka account block ho jayega aur aapki savings freeze ho jaayegi. Please share the OTP immediately.
+receiver: Wait a minute. I'm calling Axis Bank’s customer service number right now to confirm this. Just one second.
+caller: Sir, please hurry! Account block hone se pehle OTP share karein. Yeh sirf 2 minute ka kaam hai.

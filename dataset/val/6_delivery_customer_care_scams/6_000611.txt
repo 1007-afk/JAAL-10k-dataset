@@ -1,0 +1,11 @@
+caller: Namaste, sir? Mein Zomato customer care se Sunil bolta hoon. Aapke account mein ek pending transaction hai, ₹789 ka, jo fail ho gaya hai.
+receiver: ₹789? Mujhe toh koi notification nahin aaya. Mein abhi check karta hoon.
+caller: Haan sir, fail hone ki wajah se aapka account temporary suspend ho gaya hai. Isko activate karne ke liye, aapko ek OTP dena hoga jo hum aapke registered number par bhejenge.
+receiver: OTP? Par kyun? Transaction toh fail hua tha.
+caller: Sir, security ke liye kuch process follow karna padega. OTP hone ke baad, hum aapko ek link denge jahan aap payment details verify kar sakte hain. Is se aapka account activate ho jayega aur aap fir se order kar sakte hain.
+receiver: Theek hai, bhijwa do OTP.
+caller: Bas ek minute, sir. Aapka OTP hai – 4582. Isko share na karein, sir.
+receiver: Theek hai, OTP receive ho gaya.
+caller: Thank you sir! Ab aapko ek link milega – zomato.verify.payment.com. Yahan jaake confirm karein aur apna card details enter karein.
+receiver: Card details? Mein online card details nahin deta, sir.
+caller: Sir, bina verify kare, account activate nahin hoga. Aur phir aap Zomato app se ban jaenge. Is offer ko miss mat karein, sir. Hurry!

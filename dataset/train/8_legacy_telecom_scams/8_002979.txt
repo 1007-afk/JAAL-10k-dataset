@@ -1,0 +1,9 @@
+caller: Namaste sir/madam, kaise hain? Main Bharat Connect Services se baat kar raha hoon. Hum ne dekha hai ki aapke area mein online classes ke liye demand bahut zyada hai, aur hum aapko special discount mein enroll karne ke liye invite karte hain!
+receiver: Namaste ji, achcha hoon. Bharat Connect Services? Online classes ke liye discount? Kaise?
+caller: Ji haan, hum ne dekha hai ki aapke kin hone wale bachche padhai mein achchhe karein hain, aur hum aapko maths, science, aur english ke top class teachers se learning ka mauka dene waali hain. Sirf ₹2999 per month, aapko unlimited access milega! Aur abhi tak sirf 6 spots bache hain, aur aapko priority ke saath place karne ke liye request kar rahe hain.
+receiver: ₹2999 per month? Maths, science, aur english? Bachche ke liye acha option hai.  Kab tak registration chalta rahega?
+caller: Registration closing week mein complete ho jayega.  Humara location Delhi mein hai, Jaipur road par, ek modern building mein.  Activity mein live lectures, assignments, aur doubt clearing session honge.  Aur haan, ab sirf 4 spots bache hain, so you need to hurry.
+receiver: Delhi mein? Jaipur road? Live lectures?  Mujhe kuch time lena hoga.  Main number bataunga phir call karta hoon.
+caller: Ji haan, aapka number note kar li gayi hai.  Hum aapko reminder bhi de sakte hain.  Just confirm that you are seriously interested in securing one of these limited slots before we proceed.  Ab sirf 3 spots bache hain!
+receiver: Okay, fine.  Thank you.
+caller: Aapka khushiyaan hamare!  Bharat Connect Services mein aapse milkar sehr hua.  Shubh kaam karmane ka prarthana!

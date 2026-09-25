@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank se Rohan bol raha hoon. Aapke Axis Bank account mein kuch a suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Kiski taraf se? Mujhe toh koi message nahi aaya.
+caller: Sir, ek online transaction attempt kiya gaya tha, lekin woh fail ho gaya. Isliye hum verify karna chahte hain. Aapka naam bataiye, please?
+receiver: Mera naam Rajesh Sharma hai. Par mujhe toh kuch yaad nahi aa raha. Transaction kiska tha? Aur kuch verify karne ki kya zarurat hai?
+caller: Rajesh Sharma ji, koi international transaction attempt tha. Aapko account suspend hone se bachane ke liye, bas aapka Aadhaar card number verify karna hai.
+receiver: Aadhaar card number? Abhi? Bank toh kabhi Aadhaar number nahi manta. Woh toh OTP chalata hai. Fraud lag raha hai. Aur international transaction? Mera toh kabhi international transaction nahi hua.

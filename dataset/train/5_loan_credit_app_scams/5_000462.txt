@@ -1,0 +1,6 @@
+caller: Namaste! This is Rahul calling from MoneyPlus Loans. We’ve reviewed your credit file and you’re pre-approved for a quick loan of ₹50,000. Very easy process, just need a few details to finalize.
+receiver: ₹50,000? That's great! I could really use that. What details do you need? Is this a legit offer? I'm a bit worried about scams these days.
+caller: Absolutely legit, Madam! We’re a registered lending company. Just need your PAN card number for verification and a small processing fee of ₹2,500 upfront to activate the loan. It’s a standard security measure.
+receiver: ₹2,500 upfront? That seems a little strange. Usually, you only pay after you get the loan, right? Can I speak to someone higher up?
+caller: Madam, this is Suresh, the loan processing manager. This fee is mandatory to prevent fraudulent applications. Think of it as insurance. Without it, your loan won't be activated, and other applicants will get ahead of you. We are very busy.
+receiver: Okay, I understand. I will transfer the ₹2,500 to the account you provide, but I want the loan amount as soon as possible after that. Please send me the bank details. I'm taking a risk here.

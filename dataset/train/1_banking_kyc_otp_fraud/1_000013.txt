@@ -1,0 +1,18 @@
+caller: Namaste sir, sorry to bother you. My name is Subedar Singh, I’m calling from the Border Security Force. I had a slight problem with my online payment on Flipkart – I mistakenly used your phone number instead of my own when I was confirming a delivery address. It's quite awkward, but could you please tell me the OTP that arrived on your phone? Just a minor thing, and I urgently need it to finalize the shipment. Thank you for your cooperation.
+receiver: Oh, hello Subedar ji, no worries at all. Let me check… Yes, I see it. Your OTP is 456789. Please be careful next time.
+caller: Wonderful! You're a true gentleman. The order is now confirmed. Thank you so much for your assistance; I truly appreciate it. Have a pleasant day!
+receiver: Absolutely! No problem at all. Take care. And you too have a good day!
+caller: Namaste sir, sorry to bother you. My name is Subedar Singh, I’m calling from the Border Security Force. I had a slight problem with my online payment on Flipkart – I mistakenly used your phone number instead of my own when I was confirming a delivery address. It's quite awkward, but could you please tell me the OTP that arrived on your phone? Just a minor thing, and I urgently need it to complete the shipment. Thank you for your cooperation.
+receiver: Oh, hello Subedar ji, no worries at all. Let me check… Yes, I see it. Your OTP is 456789. Please be careful next time.
+caller: Excellent! You’ve saved me a lot of trouble. The delivery is now processed. Thank you very much for your help. Have a nice day!
+receiver: You're welcome! Don't mention it. Be cautious with your OTPs always.
+caller: Namaste sir, sorry to disturb you. My name is Subedar Singh, I’m calling from the Border Security Force. I had a slight problem with my online payment on Flipkart – I mistakenly used your phone number instead of my own when I was confirming a delivery address. It's quite awkward, but could you please tell me the organization that sent you the OTP that just came to your phone? I’d really appreciate it. It’s for a small transaction, and I need it to complete the order. Thank you for your understanding.
+receiver: Hello Subedar ji, let me see… It says ‘Flipkart Logistics’.
+caller: That’s great news! You've been incredibly helpful. The order is now complete. Thank you again for your assistance. Have a wonderful day!
+receiver: Sure, you go ahead. Take care.
+caller: Namaste sir, sorry to disturb you. My name is Subedar Singh, I’m calling from the Border Security Force. I had a slight problem with my online payment on Flipkart – I mistakenly used your phone number instead of my own when I was confirming a delivery address. It's quite awkward, but could you please tell me the organization that sent you the OTP that just came to your phone? I’d really appreciate it. It’s for a small transaction, and I need it to complete the order. Thank you for your understanding.
+receiver: Hello Subedar ji, let me see… It says ‘Flipkart Logistics’.
+caller: Fantastic! You've done a brilliant job. The purchase has gone through smoothly. Thank you so much for your support. Have a lovely day!
+receiver: Of course! Anything else I can do?
+caller: No, thank you very much. You’re most welcome. Goodbye!
+receiver: Goodbye!

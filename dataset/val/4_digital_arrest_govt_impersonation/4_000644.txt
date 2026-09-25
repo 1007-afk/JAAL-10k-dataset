@@ -1,0 +1,8 @@
+caller: Namaste, Main Indian Customs Department se Ramesh bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai port par, jismein illegal items mile hain.
+receiver: Illegal items? Mere naam par? Yeh kya keh rahe hain aap? Main toh kabhi parcel order nahi kiya.
+caller: Ji, parcel mein suspicious items hain, aur isliye aapko ise clear karna hoga. Aapko parcel release fee ke rup mein ₹12,500 jama karne honge. 
+receiver: ₹12,500? Aur yeh parcel kahaan aaya hai? Main toh kal se ghar par hi hoon. Main yeh fee jama nahi karunga jab tak mujhe parcel ka proof nahi dikhata.
+caller: Ma’am, proof immediately nahi dikha sakte, lekin agar aap fee jama kar denge toh hum parcel release kar denge. Aapko ek UPI ID denge, usmein paise transfer kijiye. Yeh process legal hai aur aapko kisi bhi legal trouble se bacha lega.
+receiver: Legal trouble? Yeh toh scam lag raha hai. Main police mein complaint karungi agar aapne mujhe aur koi number deke paisa transfer karne bola. Apne naam aur station ka naam bataiye, main verify karungi.
+caller: Ma’am, main aapko time barbaad kar raha hoon. Police mein complaint karne se kuch nahi hoga, parcel stuck rahega. Yeh final warning hai. ₹12,500 UPI mein transfer karein, aur parcel aapka hi hai. Warna parcel confiscate hoga aur aapke naam par case register hoga.
+receiver: Aur ek case register hoga? Main abhi complaint kar rahi hoon. Yeh hai ek sakht scam, maine kabhi aisa kuch suna bhi nahi!

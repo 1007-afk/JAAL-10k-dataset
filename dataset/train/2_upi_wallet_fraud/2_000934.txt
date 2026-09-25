@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Rohan calling from FreeCharge customer care. We’ve noticed some unusual activity on your FreeCharge wallet and want to help secure your funds.
+receiver: FreeCharge? I haven't used FreeCharge in ages. What kind of activity?
+caller: Sir, there's been a failed cashback attempt of ₹500 on a recent transaction. It seems like someone might be trying to exploit a vulnerability. We need to quickly verify your identity to prevent further issues. Can you please confirm the last three digits of your PAN card for verification?
+receiver: Wait a minute. Why do you need my PAN card digits for a cashback issue? That seems really strange. And why a failed attempt? I haven’t made any transactions recently.
+caller: Absolutely, Ma'am. It's a new security protocol mandated by RBI. The failed attempt was a test to check for vulnerabilities. Providing those digits helps us identify the originating IP address and block any suspicious activity. It’s just a formality, Ma'am, to protect your money. It's for your safety only. Now, can you provide those last three digits?
+receiver: No, absolutely not. I'm not giving you my PAN details over the phone. This sounds like a scam. I’m going to block your number and report this to FreeCharge directly.
+caller: Please Ma'am, don't do that! Let us quickly resolve this. To show you that we are genuine, I can give you our case reference number - FC-2024-SEC-789. You can check it on the FreeCharge website. Just confirm those last three digits, please?

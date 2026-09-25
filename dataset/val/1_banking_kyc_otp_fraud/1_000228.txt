@@ -1,0 +1,18 @@
+caller: Namaste sir, SBI bank se Rohan bol raha hoon. Aapki account details verify karne ke liye call kar raha hoon.
+receiver: Namaste Rohan ji. Verify karne ke liye? Thoda confusion ho raha hai. SBI mein account hai kya mujhe? Aur aap kaise pata aap SBI se hain?
+caller: Sir, aapka name Vijay Kumar hai, yeh hamara database mein available hai. Aapki account number hai [Invented Account Number], aur date of birth hai [Invented Date of Birth].  Aapko COVID ki wajah se online account verification karna hoga.
+receiver: Vijay Kumar ji? Woh sach hai, meri account number bhi [Invented Account Number] hai. Lekin online verification kab se compulsory ho gaya? Aur aap SBI se kaise pata chalenge?  Aapko meri OTP chahiye, ya phir?
+caller: Sir, aapki security ka ilaaj hone wali hai. Aapki account ko hacking se bachaane ke liye hum online verification kar rahe hain.  Aapka mobile number hai [Invented Mobile Number], aur account details update karne ke liye ismein OTP chahiye.  Yeh secure hai, trust me.
+receiver: OTP chahiye?  Main itna sensitive information share karne wala nahi hoon. Sir, aap SBI ki official website par jaake verification kar sakte hain. Yeh legitimate process hai.
+caller: Sir, website par jaake verification karna time lag sakta hai, aur COVID ki wajah se hum speed up karna chahte hain.  Aapka [Invented Name] account number bataiye please?  Agar aapko suspicion hai, to hum aapko bank branch mein invite kar sakte hain.
+receiver: Nahin, mujhe invitation ki zarurat nahi hai. Mein abhi koi bhi amount transfer nahi karunga.  Aapko meri account details banane do.  Mujhe yeh sab theek nahi lag raha hai.  Aap SBI ke representative nahi hain.
+caller: Sir, aapki account ko fraud se bachane ke liye hum ne yeh step liya hai.  Aapko ₹[Invented Amount] rupees transfer karne ke liye bolte hain, yeh verification ke liye hai, aur aapko wapas paisa milega.
+receiver: ₹[Invented Amount]?  Sir, yeh absolutely illegal hai! Main aapko koi bhi amount transfer nahi karunga. Main police mein complaint karunga!
+caller: Namaste sir, HDFC Bank se Arun bol raha hoon. Aapki account details check karne ke liye call kar raha hoon.
+receiver: Namaste Arun ji. Check karne ke liye? Thoda sawaal hai. HDFC mein account hai kya mujhe? Aur aap kaise pata aap HDFC se hain?
+caller: Sir, aapka naam Priya Sharma hai, yeh hamare records mein dikhta hai. Aapki account number hai [Invented Account Number], aur date of birth hai [Invented Date of Birth]. COVID ki wajah se, hum online account verification kar rahe hain.
+receiver: Priya Sharma ji? Woh to sahi hai, meri account number bhi [Invented Account Number] hai. Lekin online verification kab se compulsory ho gaya? Aur aap HDFC se kaise pata chalenge? Aapko meri OTP chahiye, ya phir?
+caller: Sir, aapki account ki security bahut mahatvapurn hai. Aapki account ko cyber crimes se bachane ke liye hum online verification kar rahe hain. Aapka mobile number hai [Invented Mobile Number], aur account details update karne ke liye ismein OTP chahiye. Yeh bilkul safe hai, please.
+receiver: OTP chahiye? Main itna sensitive information share karne wala nahi hoon. Sir, aap HDFC ki website par jaake verification kar sakte hain. Yeh legitimate process hai.
+caller: Sir, website par jana bahut delay hogi, aur COVID ki wajah se hum yeh expedite karna chahte hain. Aapka [Invented Name] account number bataiye please. Agar aapko koi dhyan nahi hai, to ₹[Invented Amount] rupees transfer kar dijiye. Is paise aapko immediately refund mil jayega.
+receiver: ₹[Invented Amount]? Sir, yeh totally wrong hai! Main koi bhi amount transfer nahi karunga. Main police mein complaint karunga!

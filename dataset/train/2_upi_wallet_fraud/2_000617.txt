@@ -1,0 +1,7 @@
+caller: Namaste! Madam, hum Paytm se call kar rahe hain. Aapke Paytm wallet mein ek transaction attempt hua hai jo aapne nahi kiya.
+receiver: Kya? Transaction attempt? Kitna transaction hua tha? Aur main abhi Paytm use nahi kar rahi thi.
+caller: Haan ji, 2500 rupees ka transaction attempt tha. Payment gateway ne block kar diya, lekin security ke liye aapko is number par verify karna hoga taaki aapka account safe rahe.
+receiver: Verify? Verify ka kya karna hai? Koi link bhejo ya kuch. Main kisi bhi number par call nahi karungi jo mujhe aise random call karta hai.
+caller: Madam, ek minute! Link nahi, sirf 2 minute ki verification hai. Apko ek OTP milega, woh OTP mujhe bataiye, bas. Warna aapka Paytm wallet permanent block ho jayega.
+receiver: Permanent block? Acha, dekhiye, OTP mujhe check kar leti hoon. Par mujhe doubt ho raha hai. Aapka naam kya hai?
+caller: Mai Rahul hoon, Paytm security team se. Ab OTP bataiye, time kam hai, madam. Madam?

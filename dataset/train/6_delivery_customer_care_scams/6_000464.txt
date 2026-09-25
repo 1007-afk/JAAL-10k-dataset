@@ -1,0 +1,7 @@
+caller: Hello, good evening! This is Rohan from BlueSwift Courier. We have a package addressed to you, but there's a slight issue with the delivery.
+receiver: Haan, ji? Package? What's the issue? I wasn't expecting anything.
+caller: Yes, madam. It seems there's a customs clearance fee of ₹2,800 pending. It’s a new regulation. We need to clear this before we can proceed with the delivery.
+receiver: ₹2,800? That’s a lot! Are you sure? I don’t recall any customs fee being mentioned when I ordered. Which company was it from?
+caller: Absolutely, madam. It’s standard procedure now. It’s from “GlobalMart Online.” I can verify the tracking number for you, if you like. It’s BG74921X. Just need you to make the payment via UPI to secure the release.
+receiver: Okay, let me quickly check the tracking number... (pause). Wait a minute... "GlobalMart Online"? I’ve never heard of them. And why are you asking for UPI? Can't I pay on delivery?
+caller: Madam, we are facing a backlog and streamlining payments is key. To make the process faster, UPI payment is required. This is a limited-time offer to avoid any delivery delays. Please pay quickly so we can give you the package soon.

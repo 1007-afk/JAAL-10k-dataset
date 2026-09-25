@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs department.
+receiver: Haan, bolie. Yeh kaun baat kar raha hai?
+caller: Ji, Mr. Sharma, hamare system mein ek parcel aaya hai jo aapke naam par registered hai. Par parcel mein kuchh suspicious items mile hain – possibly illegal pharmaceuticals.
+receiver: Illegal pharmaceuticals? Mere naam par? Main toh kabhi parcel order kiya hi nahi. Yeh kya bol rahe hain aap?
+caller: Sir, yeh matter serious hai. CBI investigation shuru ho gayi hai. You need to cooperate fully. We’ll need you to deposit 50,000 rupees to clear the matter and avoid further legal action. We’ll send you details.
+receiver: 50,000? Lekin main toh kuch bhi order nahi kiya! Please batao, kaise solve hoga yeh?
+caller: Sir, if you don’t cooperate, we will have to issue a warrant. We need confirmation of payment urgently. A video call is also required to verify your identity. Please transfer to this UPI ID: [Invent a UPI ID].
+receiver: Thoda time deiye, mujhe check karne do. Main kisi se baat karta hoon. Yeh bahut zyada lag raha hai.
+caller: Sir, time nahi hai. The police are waiting for confirmation. Do this now or you will face consequences. We are initiating the arrest procedure.
+receiver: Okay, okay... Wait. I need to verify this first. Give me a reference number.

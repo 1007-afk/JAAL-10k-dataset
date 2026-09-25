@@ -1,0 +1,9 @@
+caller: Hello, this is Inspector Sharma from the Cyber Crime Investigation Cell. We've detected suspicious activity linked to your bank account, specifically a large transaction involving cryptocurrency.
+receiver: Kya? Cryptocurrency? Mujhe toh koi transaction yaad nahin aa raha. Main toh kuch cryptocurrency nahi use karta.
+caller: Sir, we have evidence of a transfer of ₹2.5 lakh to a suspicious wallet. This could be related to an online gambling scam. To prevent further unauthorized access and potential legal action against you, we need you to verify your account details immediately.
+receiver: ₹2.5 lakh? Yeh toh bahut zyada hai! Main toh kisi bhi gambling site par nahi gaya hai. Aur aap kaise mere account ki baat kar rahe hain? Kya aap logon ne koi proof paaya hai?
+caller: Sir, for verification purposes and to secure your funds, we need you to transfer ₹5,000 to a secure government account as a security deposit. This is a standard procedure. Once we verify your account, the funds will be returned along with a confirmation receipt.  We will send you a link. Please do not share this link with anyone.
+receiver: ₹5,000? Aur ye security deposit account number kaun ka hai? Aur main link share na karu?  Yeh kuch shaq sa lag raha hai. Mujhe thoda time chahiye check karne ke liye.
+caller: Sir, time is critical. If you delay, the funds could be lost permanently. The account details are: 1234567890, IFSC code: GCBL0000123. Please transfer immediately and send us the transaction receipt via WhatsApp.
+receiver: Okay, theek hai, transfer karta hoon. Par jab transaction receipt bhejunga, toh mujhe koi confirmation receipt milegi na? Aur mere ₹2.5 lakh bhi safe honge na?
+caller: Absolutely, Sir.

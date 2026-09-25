@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai IDFC First Bank se Rohit bolta hu. Aapke account mein cashback offer chal rahi hai, government initiative ke under.
+receiver: Cashback offer? IDFC First Bank ka? Mujhe toh koi notification mila nahi.
+caller: Haan ji, offer limited time ke liye hai. Aapko sirf ₹99 processing fee bharne hai, tab aapka account ₹5000 ka cashback receive karega.
+receiver: ₹99 bharne hai? Kahan bharu? Koi link bhejo. Aur yeh government initiative hai, uski proof bhi dikhao.
+caller: Sirf ek UPI link par ₹99 pay kardo, tab cashback automatic ho jayega. Link is: upi.securepay.in/offer99. Jaldi karo, offer abhi khatam hone wali hai.
+receiver: Yeh link kuch suspicious lag raha hai. IDFC First Bank ka official link toh IDFC First ka website hi hoga, na? Mai call kar ke check karwati hu.
+caller: Aunty, yeh last chance hai. ₹99 bharo aur ₹5000 cashback lo! Warna offer miss ho jayegi aur aapka loss hoga.
+receiver: Loss mera hoga? Ya aapka! Mein toh koi bhi payment nahi kar rahi hu. Bye.

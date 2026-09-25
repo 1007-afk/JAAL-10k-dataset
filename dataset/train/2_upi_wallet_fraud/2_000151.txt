@@ -1,0 +1,6 @@
+caller: Namaste Madam, Bharat Aadhaar se baat kar raha hoon. Aapke bank account mein ek suspicious transaction hua hai UPI ke zariye. ₹15,000 gaya hai ek unknown account mein.
+receiver: ₹15,000? Yeh kya bakwaas hai? Main toh koi transaction nahi kiya! Mein toh PhonePe bhi hardly use karti hoon.
+caller: Haan Madam, humein bhi pata chala ki yeh fraud hai. Aapko apne account ko secure karne ke liye kuch details give karni padegi. Please apna PhonePe App PIN bataiye taaki hum account block kar sakein.
+receiver: PIN? Arey yaar, main kabhi bhi phone pe apna PIN nahi batati. Yeh toh bohot risky hai! Aapko kaise pata chala ki transaction hua hai?
+caller: Madam, yeh security protocol hai. Hamara system automatic detect karta hai fraudulent transactions. Aapko ₹15,000 ka nuksaan hone se bacha sakte hain, just bataiye apna PIN. Aur ek OTP bhi bataiye jo aapko PhonePe se aayega, verification ke liye.
+receiver: ₹15,000? Aur OTP bhi? Bilkul nahi! Main Police mein report karungi, fraudster! Aapko meri koi baat nahi sunni chahiye.

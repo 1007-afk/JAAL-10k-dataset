@@ -1,0 +1,11 @@
+caller: Hello sir, this is Ankit from LoanKing Express. We saw you recently applied for a personal loan on our app. Congratulations, you're pre-approved for ₹15,000! Just need to verify a few details.
+receiver: Oh, really? That’s great news! I did apply. What details do you need?
+caller: Just a quick OTP verification, sir. We'll send it to the mobile number you used. This confirms you're the rightful owner. Just tell me you are ready to receive the OTP.
+receiver: Yes, sure. Send the OTP.
+caller: Perfect. The OTP is 789012. Please share it with me to proceed. We’ll transfer the money to your account immediately after verification.
+receiver: Okay, I've given the OTP. But I haven't received any money yet. What’s happening?
+caller: Sir, there's a small processing fee of ₹2,500 that needs to be cleared before the loan can be released. This is standard procedure. You can transfer it to this UPI ID: [invented UPI ID].
+receiver: A processing fee? The app didn’t mention anything about a fee.
+caller: Sir, this is a one-time fee, absolutely necessary. Once you transfer the amount, the ₹15,000 will be in your account within minutes. Don’t delay, otherwise your approval might be cancelled.
+receiver: I think I'll check my bank statement first. This seems a little suspicious.
+caller: Sir, are you questioning our legitimacy? You'll be held responsible for any delays. We have your photos and personal information, and we can easily share them with your contacts if you don't cooperate. Act now.

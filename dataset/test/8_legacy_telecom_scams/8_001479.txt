@@ -1,0 +1,24 @@
+caller: Namaste, Madam Sharma? This is Rohan from ‘Lucky Draw India’. We’re running a special promotion and you’ve been selected to win a luxurious holiday package worth ₹50,000! Just need to confirm your details for processing.
+receiver: Namaste Rohan! Sharma ji talking. A holiday package? Wow, that’s amazing! Tell me more.
+caller: Arre Madam Sharma, congratulations! You’ve won a trip to Goa – beautiful beaches and sunshine! But we need to verify your address first. Can you tell me your street name and number?
+receiver: My street is Patel Nagar, number 37. And my city is Jaipur. Is that enough?
+caller: Arre, just one small thing. We also need your date of birth, Madam Sharma, for security purposes. It’s just a standard procedure. Please provide it.
+receiver: My date of birth is June 15th, 1978.  Wait a moment… something feels a little strange. This is all happening so quickly. Are you absolutely sure this is legitimate?
+caller: Arre, relax Madam Sharma! Don't worry about it. Just confirming your information. Now, can you give me your bank account number? We need to transfer the prize money to your account.
+receiver: Hold on, Rohan! I’m not comfortable giving out my bank details. What exactly will I have to do to claim this holiday?
+caller: Arre, you just need to activate your prize by depositing ₹1000 into this account. It’s a small activation fee. Once you deposit that, the ₹50,000 holiday package is yours!
+receiver: ₹1000? To activate a free holiday? That doesn't sound right at all. This sounds like a scam. Thank you, Rohan. Goodbye.
+caller: Arre Madam Sharma, wait! Don't hang up! We have many more winners waiting!
+caller: Namaste, Madam Verma? This is Sanjay from ‘Instant Loan Services’. We’re offering an urgent loan opportunity, and you've been pre-approved for ₹25,000! Just need to confirm some details for immediate processing.
+receiver: Namaste Sanjay! Verma speaking. A loan? Really? How much interest are we talking about?
+caller: Arre Madam Verma, excellent news! Quick approval, no hassle. We just need your address and a small verification charge of ₹500 to initiate the process.
+receiver: My address is Shankar Colony, house number 12B, Mumbai. And what kind of verification charge is that exactly?
+caller: Arre, just to ensure everything is correct. Then, we’ll transfer the full ₹25,000 immediately. It’s a very secure system. Now, could you please provide your PAN card number?
+receiver: My PAN card number is XY1234ABCD. Wait a second... this is moving incredibly fast. What happens if I decline?
+caller: Arre, no problem at all! You can simply say ‘no’, but you’ll miss out on this incredible offer. Time is of the essence! Now, can you share your mobile number?
+receiver: My mobile number is 9876543210. I'm starting to feel uneasy. Why does this seem so rushed?
+caller: Arre, Madam Verma, just a few final steps! We need to confirm your employment status. Are you currently employed?
+receiver: Yes, I work as a teacher. But I still don't understand why I need my PAN card and mobile number so urgently. This feels wrong.
+caller: Arre, almost there! Just one last confirmation – your bank account details. Could you provide your account number and IFSC code?
+receiver: Absolutely not! I am ending this call now. This is clearly a fraudulent attempt. Goodbye.
+caller: Arre Madam Verma, wait! Don’t go! There are limited slots available!

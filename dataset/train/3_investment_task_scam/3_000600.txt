@@ -1,0 +1,8 @@
+caller: Namaste! Baat ho rahi hai ‘WealthWave Investments’ se. Aapki kismat achhi hai aaj! Hum aapko ek limited-time investment opportunity de rahe hain.
+receiver: WealthWave Investments? Woh kya offer hai? Mujhe abhi time nahi hai, busy hoon.
+caller: Ji, hamara ek new cryptocurrency, ‘NovaCoin’, launch ho raha hai. Initial investors ko 30% returns sirf ek hafte mein milenge. Iska market bahut hi fast grow ho raha hai!
+receiver: 30% ek hafte mein? Woh bhi cryptocurrency mein? Yeh thoda zyada lag raha hai. Koi risk to hoga hi na?
+caller: Koi bhi investment mein risk hota hai, lekin humara team ne research kiya hai, yeh ek guaranteed opportunity hai. Aapko sirf ₹15,000 invest karne hain. Account details share kar sakte hain?
+receiver: ₹15,000? Account details kyun chahiye? Main soch ke bataata hoon.
+caller: Ji, humein aapke account details sirf fund transfer ke liye chahiye. Yeh offer sirf aaj tak valid hai. Jaldi karein, limited slots hi bache hain. Aapka future secure ho sakta hai!
+receiver: Okay, let me think about it.

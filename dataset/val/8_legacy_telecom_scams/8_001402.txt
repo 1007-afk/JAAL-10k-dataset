@@ -1,0 +1,8 @@
+caller: Hello ji! Congratulations, aapko mili hai £500 ki CD gift vouchers aur ek free entry hamare £100 ke weekly draw mein! Kya aap ye offer accept karna chahte hain?
+receiver: Oh wow! Sach mein?  £500 ke gift vouchers? Aur free entry weekly draw mein?  Yeh toh bahut achha news hai!  Main bilkul accept karna chahunga!  Yeh offer kis company se hai?
+caller: Bahut badhiya ji! Yeh offer hai 'Music Mania' ki taraf se. Aapko bas apna naam aur address confirm karna hoga taki hum aapke vouchers bhej sakein. Kya aap bata sakte hain aapka naam kya hai aur kahan rehte hain?
+receiver: Ji haan, mera naam Rahul Sharma hai. Main Delhi mein rehta hoon, Sector 15, Dwarka mein.
+caller: Oh, Rahul ji, Delhi mein Sector 15, Dwarka! Perfect! Aapka naam aur address confirm ho gaya hai. Ab bas ek choti si formality hai. Humein aapki details verify karni hongi, iske liye aapko ek nominal processing fee pay karni hogi. Yeh fee sirf vouchers ki delivery aur draw mein entry ko secure karne ke liye hai. Aapke vouchers jaldi hi aapke paas pahunch jayenge. Kya aap is processing fee ke liye ready hain?
+receiver: Processing fee? Oh, yeh toh maine expect nahi kiya tha. Kitni hai yeh fee aur kis tarah se pay karni hogi?
+caller: Ji haan Rahul ji, yeh processing fee sirf ₹299 hai. Aap yeh pay kar sakte hain online, hum aapko ek link bhejenge jismein aap apna card details daal kar pay kar sakte hain. Yeh bahut secure hai aur aapke vouchers ki security ke liye zaroori hai. Jaise hi payment hogi, aapke vouchers dispatch ho jayenge.
+receiver: ₹299? Yeh toh thoda unexpected hai. Dekhiye, mujhe aapki company par trust hai, but ek processing fee dena... kya yeh bilkul compulsory hai? Koi aur tareeka hai voucher receive karne ka ya fir draw mein enter karne ka bina is fee ke?

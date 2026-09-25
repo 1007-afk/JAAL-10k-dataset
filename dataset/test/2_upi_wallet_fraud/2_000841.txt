@@ -1,0 +1,8 @@
+caller: Namaste sir, hum PhonePe se helpline par bol rahe hain. Aapke PhonePe account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Mein toh PhonePe bilkul safe use karta hoon. Kya hua?
+caller: Sir, ek transaction attempt kiya gaya tha ₹4999 ka ek unknown number pe. Hamara security system ne isko block kar diya hai, lekin aapko account ko verify karna hoga taaki transactions phir se start ho sake.
+receiver: ₹4999? Areh! Mein toh kabhi bhi itna paisa nahi bhejta. Verify kaise karun?
+caller: Sir, aapko ek OTP milna chahiye apna registered mobile number pe. Woh OTP humein bataiye, phir hum aapka account unlock kar denge. Yeh sirf 2 minute ka kaam hai.
+receiver: Okay, ₹4999 ka transaction attempt, toh meri security ke liye achha hai ki ham log block kar diya. Haan, mujhe OTP mila hai. ₹4999 ka transaction, mein phonepe customer care se baat karunga, confirm karta hoon.
+caller: Sir, OTP bataiye taaki hum aapka account verify kar sake. Jaldi bataiye, warna account permanently suspend bhi ho sakta hai.
+receiver: Wait, wait, ek minute. Mera bank account number dedo, verify karta hoon, aap se baad mein baat karta hoon.

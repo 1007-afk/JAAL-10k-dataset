@@ -1,0 +1,9 @@
+caller: Hello, mai Vijay Flipkart se bol raha hoon. Aapko ek achha offer mila hai - ek free smart TV jeetne ka.
+receiver: Flipkart se? Free smart TV? How is that possible?
+caller: Ji, ji! Flipkart Diwali special offer ke under. Aapka naam lucky winner ke liyee chuka hai.
+receiver: Really? Yeh believable nahi lag raha hai. Kitna smart TV? Aur mujhe kya karna hoga?
+caller: Yeh 55-inch ka LED TV hai, sir. Bas aapko ₹499 ka processing fee deposit karna hai, woh bhi PhonePe se, taaki delivery start ho sake.
+receiver: ₹499? Processing fee? Flipkart toh aise fees nahi lete na? Aur PhonePe se hi kyu?
+caller: Sir, yeh Diwali offer hai, isliye kuch charges apply hain. PhonePe se payment karne par aapko ek extra scratch card bhi milega, jismein ₹1000 tak ka cashback chance hai!
+receiver: Scratch card bhi? Wait, let me just check the Flipkart app…
+caller: Sir, jaldi karo, offer limited time ke liye hi valid hai. Jaldi se payment kar dijiye, warna offer expire ho jayegi.

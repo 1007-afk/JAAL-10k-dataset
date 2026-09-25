@@ -1,0 +1,8 @@
+caller: Namaste! Mein Rajat Verma bol raha hoon, Golden Finance se. Sir, aapke naam par ek personal loan approval aa gaya hai, ₹75,000 tak. Bahut achha offer hai, sir.
+receiver: ₹75,000? Mujhe loan apply toh nahi kiya tha. Kya cheez hai yeh?
+caller: Sir, aapne ek online form bhara tha kuchh din pahle, shayad yaad nahi hoga. Verification ke liye kuch details chahiye honge. Apka bank account number aur OTP, sirf confirm karne ke liye.
+receiver: Bank account number? OTP? Yeh thoda risky lag raha hai. Mein directly bank se confirm kar leta hoon.
+caller: Sir, bank se confirm karne mein time lag jayega, aur offer limited time ke liye hi hai. Agar aap confirm nahi karte, toh offer expire ho jayega. Aur sir, humein verification ke liye aapke phone contacts ki permission bhi chahiye hogi.
+receiver: Contacts? Kyun contacts chahiye? Mein toh kisi ko bhi disturb nahi karna chahta. Yeh bahut hi suspicious lag raha hai. Mein nahi karunga.
+caller: Sir, contacts sirf isliye chahiye ki agar aap loan repay nahi karte, toh hum aapke contacts se remind kar sakte hain. Aur agar aap repay nahi karte, toh hum morphed photos bhi bhej sakte hain. Understand?
+receiver: Morphed photos? Yeh toh galat hai! Mein police mein complaint karunga. Aapko mere contacts se dur rehna chahiye.

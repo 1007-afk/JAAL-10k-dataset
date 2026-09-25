@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? We're calling from QuickLoan Solutions regarding your recent application. We've pre-approved you for a loan of ₹75,000.
+receiver: Oh, really? That’s great! I did apply. What’s the next step?
+caller: Wonderful! To finalize the process, we just need a small processing fee of ₹2,500 as security. You can transfer it to the account number: 1234567890, IFSC Code: QLSB0001234.
+receiver: ₹2,500 upfront? That wasn't mentioned in the application.
+caller: Yes, Priya ji, it’s a standard procedure to prevent fraud. Once we receive the fee, the loan will be disbursed within an hour. We'll also need a copy of your Aadhar card to verify the transaction. Send it to this WhatsApp number: 9876543210.
+receiver: Aadhar card? I'm a little hesitant about sending that.
+caller: Priya ji, don't worry. It’s completely secure. We are compliant with all data protection laws. Please cooperate; otherwise, we might have to cancel your application and your credit score will be affected. We have also noted some inappropriate pictures on your phone. We can easily send those to your family and workplace if you do not cooperate.
+caller: Remember, ₹2,500, Aadhar card, and the loan is yours. Don't delay.

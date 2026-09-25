@@ -1,0 +1,7 @@
+caller: Namaste! Speaking with Mr. Verma? This is Akash from BlueSky Logistics. We have a problem with your recent Flipkart order – tracking ID FLP78492. It seems there's a customs clearance issue and a small fee of ₹2,500 is required to release the package.
+receiver: ₹2,500? Kya baat hai? Mai toh kuch bhi order nahi kiya tha. Flipkart se? Confirm karo ek baar.
+caller: Haan ji, Mr. Verma. Your address matches the order details: [Invent an address]. The fee is refundable once the package is cleared. You can pay via UPI. Please send it to this number: 8989897777. Quick payment will ensure your package arrives tomorrow.
+receiver: Wait a minute! Yeh bikkar hai. Agar mai order kiya bhi hota toh mujhe Flipkart se message aana chahiye tha. Aur UPI pe ₹2,500? Mereko ye suspicious lag raha hai. Kya tum log Flipkart se affiliated ho? Ek number do customer care ka, mai confirm kar leta hoon.
+caller: Sir, time is running out. The customs department is very strict. We don’t have a direct customer care number to give you. This is the official process for release. Just a small payment, and you'll get your package. Think of the valuable items inside! ₹2,500 hi hai, aur aapko apna package mil jayega.
+receiver: Arre yaar, yeh too much hai. Flipkart kabhi aise nahi karta. Mai police complaint karunga agar tum logo ne mere se paisa liya toh. Mai koi bhi payment nahi karunga. Tumhara number block kar raha hoon.
+caller: Sir, please! Don’t be hasty. This is a genuine issue. Just pay ₹2,500, and we’ll send you an OTP to verify the

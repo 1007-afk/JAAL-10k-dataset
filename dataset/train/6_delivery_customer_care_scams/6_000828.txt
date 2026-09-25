@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Verma? I’m calling from BlueDart Courier. We have a package for you, but there’s a problem with the address. It says ‘incomplete’ and needs urgent verification.
+receiver: Haan, Verma bol raha hoon. Kya hua? Package ka kya problem hai?
+caller: Sir, the system flagged the pin code as incorrect. We need to confirm your current pin code and a one-time password sent to your registered mobile number to reroute the package. It's a very important security measure, sir.
+receiver: Mere paas koi package order nahi hai. Mainne kuch order kiya hi nahi abhi. Aur pin code toh sahi hai.
+caller: Sir, please double-check your order history. Sometimes these orders are sent as gifts.  The package contains a high-value electronic item. We can’t release it without verification. Just a quick OTP, sir. Just 3 digits, very simple.
+receiver: Electronic item?  Yeh thoda suspicious lag raha hai. Main BlueDart office se direct baat kar sakta hoon? Kya koi number hai?
+caller: Sir, the office is currently facing technical issues. This is a dedicated verification line. We need to verify immediately, otherwise, we'll have to return the package and you'll incur a return fee.  Give me the OTP, please! 
+receiver: Return fee? Kitna return fee lagega? Aur main BlueDart website par package track karne ka koi option nahi dikh raha hai.
+caller: Sir, the return fee is ₹350. It’s a standard procedure. Just provide the OTP, and we'll waive the fee as a gesture of goodwill.  Don’t delay, sir, the package is currently at our sorting center.

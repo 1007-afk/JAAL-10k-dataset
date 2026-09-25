@@ -1,0 +1,8 @@
+caller: Namaste! Sir, is this Mr. Rajesh Verma? I’m calling from BlueSky Courier. We have a package addressed to you, but there's been a slight issue with the payment.
+receiver: Haan, bolie. What's the issue? I wasn't expecting anything.
+caller: It appears there’s a ₹2,500 outstanding customs fee attached to your parcel. It’s a new regulation. To release the package for delivery, you’ll need to clear this fee quickly. I can give you a link to pay securely.
+receiver: ₹2,500? That's quite a bit. What's the sender? And can you confirm the tracking number? I want to double-check everything before I pay anything.
+caller: The sender is marked as "Global Retail Solutions." The tracking number is XS47892351. The fee is necessary to avoid delays. Just click on this link: bit.ly/bluesky-payment and enter your card details. It's very simple.
+receiver: Bit.ly links? That’s a little concerning. Can you tell me the actual website address, not a shortened link? And what happens if I refuse to pay? Will the package just be returned to sender?
+caller: Sir, time is of the essence! Due to the sensitivity of the regulations, we can only provide a secure, shortened link for your safety. If you refuse to pay, the package will be returned and you might face penalties. Just confirm your card details and we will dispatch it immediately.
+receiver: Penalties? This sounds very fishy. I’m not paying anything until I verify this with BlueSky directly. I’ll call your official customer service number. Goodbye.

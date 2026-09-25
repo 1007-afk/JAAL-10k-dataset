@@ -1,0 +1,11 @@
+caller: Namaste! Main Swiggy Customer Care se Rahul bol raha hoon. Aapke account mein kuch problem aa rahi hai, sir. Aapka recent order cancel ho gaya hai aur refund process mein kuch dikkat aa rahi hai.
+receiver: Haan, toh? Cancel kyun hua? Mujhe toh koi notification nahi aaya. Mein toh wait kar raha tha order ke liye.
+caller: Sir, technical error ki wajah se, lekin koi baat nahi. Isko fix karne ke liye aapko ek OTP mil raha hai. OTP milne ke baad, main aapko refund ke details confirm karunga.
+receiver: OTP? Kis number pe milega OTP? Aur refund kitna hona chahiye tha? Mein toh 750 ka order kiya tha.
+caller: OTP aapke registered mobile number pe milega, sir. 750 ka hi refund hoga. Ab OTP bataiye taaki main process start kar sakoon. Jaldi kijiye, sir, system se time limit hai.
+receiver: Umm... thoda wait kar raha hoon. Mein Swiggy app check karta hoon. Tum sunte rahne ki zarurat hai kya?
+caller: Sir, wait karne ka time nahi hai. Jaldi se bataiye, warna refund process fail ho jayega aur aapko refund nahi milega. Mereko OTP toh bataiye, sir.
+receiver: Aur tumhara naam aur employee ID kya hai? Aur Swiggy se phone karne pe toh koi ID display hota hai na?
+caller: Sir, main bataunga, mera employee ID SKC-4789 hai. Aapko ID check karne ki zarurat nahi hai, sir, bas OTP bataiye. System se time limit hai!
+receiver: SKC-4789... okay. Haan, OTP hai… 123456.
+caller: Thank you, sir. Refund process start ho gaya hai. Refund aap

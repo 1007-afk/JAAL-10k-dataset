@@ -1,0 +1,9 @@
+caller: Namaste! Mai Zomato Customer Care se Deepak Verma bol raha hun. Aapke account mein ek unusual activity detect hua hai, sir.
+receiver: Oh, kya hua? Main Anita Verma bol rahi hun. Kuch problem hai?
+caller: Haan ji, Anita Verma ji. Ek order place kiya gaya hai, jo aapne nahi kiya hai. ₹1200 ka order hai, Jaipur mein. Aapko isko cancel karwana hai na?
+receiver: ₹1200? Nhi, mainne toh kuch order nahi kiya. Jaipur kahaan se?
+caller: Haan ji, exactly! Fraud ho sakta hai. Isko resolve karne ke liye, aapko apna OTP dena hoga, taaki hum order ko block kar sakein. Aur security ke liye, humein aapke bank account se connected OTP bhi chahiye hoga.
+receiver: Bank account OTP? Yeh thoda risky toh lag raha hai, Deepak ji.
+caller: Haan ji, Anita ji, samjhein. Par agar aap OTP nahi denge, toh aapke account se aur transactions bhi ho sakte hain. Main tumhein secure karna chahta hun. Yeh sirf 5 minute ka kaam hai. Please, OTP de dijiye.
+receiver: Ek minute rukiye, mai check karti hu.
+caller: Bilkul, Anita ji. Jaldi kijiye, time barbaad ho raha hai aur fraudster kuch bhi kar sakte hain. Hum tumhara interest hai, trust kijiye.

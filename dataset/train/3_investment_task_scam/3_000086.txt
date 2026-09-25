@@ -1,0 +1,13 @@
+caller: You’ve reached a special assistance line – we help people find amazing opportunities. Are you seeking a way to earn extra income and improve your financial situation? We can connect you with legitimate work-from-home positions. For a small processing fee of 15 rupees, we'll verify your eligibility and provide you with exclusive job leads. What’s your full name and date of birth, please?
+receiver:  Haan? Kaise haal hai? Mein toh sirf lunch kha raha hoon. Kya bol rahe hain aap?  Yeh kya number hai?
+caller: Don't worry, this is a completely safe service. Just providing us with this information allows us to streamline the process.  We're talking about potential earnings of ₹50,000 - ₹80,000 per month! Now, let’s get started. Your name is Raj Kumar, correct? And your date of birth is January 15th, 1988.
+receiver: Raj Kumar? Haan, woh main hoon. But why do I need my date of birth?  And how will this help me earn money?  This seems very complicated.
+caller: It's incredibly simple, Raj Kumar.  Just confirming your identity and ensuring you meet our criteria.  After verification, you'll receive an email with detailed instructions on how to access these lucrative opportunities.  Now, your mother’s maiden name, please?  It’s vital for security reasons.
+receiver: Maa ka naam… uhm... Sharma. Sharma!  But why so many questions?  I don't understand. This feels wrong.
+caller: Excellent! That confirms everything perfectly. Now, one last thing – your father’s occupation?  He needs to be employed, of course.  Let's see… he’s a driver, yes?  His company is ‘Shakti Motors’.
+receiver: Driver?  My father drives for Shakti Motors?  That's true, but… this is getting suspicious.  I think I should hang up.  I am not interested in any jobs.
+caller:  Don't be hasty, Raj Kumar!  There's still time to secure a fantastic opportunity.  Just one more quick question – your address?  We need to confirm your location.  It’s on Patel Road, house number 123, Delhi.
+receiver: Patel Road? No, that's not my address!  I live in Mumbai! This is a complete fraud!  I’m ending this call now.
+caller:  Okay, okay, my mistake!  Sorry for the inconvenience.  But if you know someone who might benefit from this incredible offer, please share the number: 9876543210.  Thank you for your time!  Have a wonderful day!
+receiver: Bye!  And don't ever call me again!  This was a waste of my time.
+caller:  Goodbye! Remember, opportunities await!  Keep spreading the word!  Bye!

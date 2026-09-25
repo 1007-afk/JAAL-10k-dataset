@@ -1,0 +1,8 @@
+caller: Namaste Madam, ye Google Pay security department se Rohit bol raha hoon. Aapke Google Pay account mein kuch suspicious activity dikha hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi hai. Mein toh aaj tak sirf kuch chote payments hi ki hain.
+caller: Haan Madam, ek bada transaction try kiya gaya tha, lekin woh fail ho gaya. Security ke liye, aapko verify karna hoga. Verification ke liye, aapko ek OTP bheja jayega, woh mujhe bataaiye.
+receiver: Arre bhai, OTP kabhi kisi ko mat dena chahiye. Ye toh sab log bolte hain! Tumhara naam aur department confirm karo pehle. Aur koi OTP dene se pehle mein Google Pay app check karta hoon.
+caller: Madam, time bahut kam hai. Account freeze ho sakta hai. Dekhiye, aapko ₹500 ka cashback offer bhi mil sakta hai verification ke baad. Yeh ek special security promotion hai. Aapka naam bataiyein ek baar, verification ke liye.
+receiver: ₹500 cashback? Sunne mein toh achha lag raha hai, lekin verification ka process kya hai? Tum logo ko mere bank account details bhi chahiye honge?
+caller: Madam, bilkul nahi. Sirf naam aur OTP hi chahiye. ₹500 cashback aapke Google Pay wallet mein instantly credit ho jayega. Aapko sahi number bataaiyein aur apna account secure karein.
+receiver: Theek hai, mera naam Anjali Sharma hai. Par OTP dene se pehle, mein check karta hoon.

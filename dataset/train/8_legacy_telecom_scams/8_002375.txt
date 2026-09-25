@@ -1,0 +1,14 @@
+caller: “Namaste, Airtel customer service mein bol raha hoon. Aapka Jio SIM card expiry hone wali hai, aur isko activate karne ke liye aapko ek verification code lena hoga.”
+receiver: “Haanji, Airtel se? Mein Jio user hoon. Mera SIM expiry hogya? Fir main internet use kaise karunga?”
+caller: “Sir, yeh technically required hai. Aapkaadhar card par jo number dikha hai, vah sirf 6 mahine ke liye activa rahega. Verification code leke aapko SIM ko permanent banane ka option milega.”
+receiver: “Aapkaadhar card? Mein unki website par jaakar check kar sakta hoon. Mujhe verification code ki zaroorat kyun hai?”
+caller: “Nahin, sir, verification code aapko SMS se milega. Yeh ek security measure hai. Code likh lijiye aur mujhe bataeiji. Time bahut kam hai, please.”
+receiver: “SMS? Mujhe abhi tak koi SMS nahi mili. Aapko toh sahi number dikhana hoga. Agar number wrong hai to yeh code kaise milega?”
+caller: “Sir, number correct hai, mat darr jaaye. Code aapke registered alternate mobile number pe bheja gaya hoga. Voh number 9876543210 hai. Voh number check karein, please.”
+receiver: “9876543210? Mein voh number check karta hoon. Thoda wait karein. Abhi toh koi SMS nahi aaya.”
+caller: “Please wait. System mein ek minor glitch hai. Code jaldi mil jaane ke liye aapko ek small fee dena hoga. Just ₹100, sir. Ismein aapka SIM card secure ho jayega.”
+receiver: “₹100? Fee dene ke liye? Kitni bakwaas hai! Mein toh sirf Jio user hoon. Mujhe fee dene ki zaroorat kyun hai?”
+caller: “Sir, yeh sirf activation process ka part hai. Warna aapka SIM card band ho jayega. Ismein koi risk nahi hai, promise!”
+receiver: “Risky hai! Main Jio app se bhi check kar sakta hoon. Aapko genuinely concerned hona chahiye, lekin aap just money taking about.”
+caller: “Sir, time over ho gaya hai. Aapka SIM card already deactivate ho gaya hai. Now you need to pay ₹100 for reactivating it.”
+receiver: “Aab toh kya? Mein number lose kar deta hoon! I will report this to Jio customer care.”

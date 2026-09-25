@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay Paytm se call kar raha hoon. Aapko ek achha cashback offer mila hai Paytm Fantasy League mein participate karne ke liye.
+receiver: Paytm Fantasy League? Mujhe toh koi offer nahi aaya tha.
+caller: Haan sir, system mein ek error tha. Ab aap eligible hain. Participate karne ke liye sirf ₹100 ka processing fee bharne do, cashback ₹500 milega.
+receiver: ₹100 fee? Cashback offer hone ke bawajood fee kyun lag rahi hai?
+caller: Sir, yeh government regulations ke according hai. Fee bharne se aapka account verify ho jayega aur aapko cashback instantly mil jayega. Aap Paytm app mein UPI ID se fee bhar sakte hain.
+receiver: Account verify hone se kya zarurat hai fee bharne ki? Mein Paytm se regular transaction karta hoon. Aur mujhe koi bhi official SMS ya notification nahi mila hai.
+caller: Sir, offer limited time ke liye hai. Abhi fee bhar dein, ₹500 cashback aapka account mein credit ho jayega. ₹100 bahut kam hai, sir.
+receiver: ₹100 kam hai? Bilkul nahi, mujhe kuch gadbad lag rahi hai. Mein koi bhi fee nahi bharunga. Direct Paytm app mein check karta hoon. Call cut.

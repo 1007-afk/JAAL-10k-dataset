@@ -1,0 +1,8 @@
+caller: Hello? Hello sir/ma'am, I hope I'm not disturbing you. Mera naam Rahul hai aur main Google Cloud support se call kar raha hoon. Hum log ek naya program launch kar rahe hain jahan hum active users ko free Google Cloud credits provide kar rahe hain. Kya aapka Google Cloud account active hai?
+receiver: Hi Rahul, thanks for calling. Yeah, Google Cloud account active hai, but I'm not sure if it's the one you're referring to. Could you tell me which account you have on record?
+caller: Aapke record mein jo account hai, woh uss email ID se linked hai jahan aapko yeh notification mil raha hai. Aapke account ko verify karne ke liye, humein kuch basic details chahiye hongi, jisse hum confirm kar sakein ki aap sahi user hain. Aapka registered email ID confirm kar sakte hain, please?
+receiver: Sure, the registered email ID is 'my.email@example.com'. Is that the one you have?
+caller: Thank you for confirming, 'my.email@example.com'. Now, to proceed with your free credits, humein ek chota sa verification step complete karna hoga. Aapko ek secure link bhej rahe hain hum, aap uss link pe click karke apne account ko verify kar sakte hain. Yeh aapke details ko confirm karega aur credits automatically apply ho jayenge. Link aapko abhi receive ho jayega.
+receiver: Okay, received the link. Will check it out. Thanks, Rahul.
+caller: Bilkul, aap us link pe click kar lijiye. Jab aapka verification successful ho jayega, toh credits aapke account mein automatically show hone lagenge. Koi bhi sawal ho toh mujhe bataiyega.
+receiver: Okay, done. Verification successful. Credits are showing up. Thanks for your help, Rahul. Really appreciate it.

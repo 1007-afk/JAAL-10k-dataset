@@ -1,0 +1,7 @@
+caller: Namaste! Main AadharLoans se Atul bol raha hoon. Aapne online loan apply kiya tha, right? Verification ke liye call kiya hai.
+receiver: Haan, ji. Apply kiya tha. Verification ke liye kya details chahiye?
+caller: Sir, aapka PAN card number aur bank account number confirm kar lijiye. Aur ek small processing fee ₹500 deposit karna padega, sir. Security ke liye.
+receiver: ₹500? Loan toh approve bhi nahi hua hai aur fee demand kar rahe ho?
+caller: Sir, yeh standard procedure hai. Without this, we cannot process the loan. Otherwise, we'll have to cancel the application. And sir, have you shared your Aadhaar card details with anyone else?
+receiver: No, sir. But this seems suspicious. I’ll check with my bank first. Thank you.
+caller: Sir, please don’t waste time. Offer valid only for the next 15 minutes. Otherwise, our system will automatically decline your loan request. Do you want to proceed?

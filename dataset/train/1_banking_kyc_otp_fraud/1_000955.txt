@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank se Rohit bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai, Gujarat se Rs. 12,000 ka.
+receiver: Gujarat se? Mujhe toh koi transaction yaad nahi aa raha. Koi mistake hogi.
+caller: Haan sir, system ne flag kiya hai. Security ke liye, aapko KYC update karna hoga urgently. Account suspend bhi ho sakta hai agar update nahi kiya toh.
+receiver: KYC update? Main toh online banking karta hoon, kabhi koi update nahi karwaa. Kaise karna hai?
+caller: Sir, mujhe aapka Aadhaar number aur OTP chahiye taaki verification kar sakoon. Jaldi bataiye, time kam hai.
+receiver: Aadhaar number aur OTP? Yeh toh risky lag raha hai. Main bank branch mein jaata hoon.
+caller: Sir, branch band hai aaj, lockdown ke vajan se. Online hi karna padega. OTP send kiya jayega aapke registered number par, woh bataiye taaki process start ho. Abhi bataiye, sir.

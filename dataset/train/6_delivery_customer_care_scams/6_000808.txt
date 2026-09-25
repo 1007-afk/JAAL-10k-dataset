@@ -1,0 +1,8 @@
+caller: Hello, good morning! This is Akash from BlueSwift Logistics. We're calling about a parcel addressed to you, but there's been an issue with the delivery attempt.
+receiver: Haan, bolo. Kya hua parcel ke saath? Main intezaar kar rahi hun.
+caller: The system shows the address is incomplete. We need to verify a few details to ensure it reaches you correctly. Could you please confirm your delivery OTP? It’s been sent to your registered mobile number.
+receiver: OTP? Mujhe koi OTP nahi mila. Kaise hoga yeh? Main online kuch order toh nahi kiya tha.
+caller: Sometimes there’s a slight delay, madam. Please check your messages again. It’s important to get this sorted quickly, otherwise the parcel will be returned to sender. For security reasons, I need to quickly confirm a payment of ₹500 to clear the outstanding delivery charges.
+receiver: ₹500? Delivery ke paise? Mujhe to koi information nahi mila tha. Mein payment nahi karungi. Yeh scam lag raha hai.
+caller: Madam, please don’t misunderstand. This is a standard procedure to protect your parcel from fraudulent activity. We are just taking precautionary measures. The parcel contains valuable items, and we need to confirm your identity. We can also arrange for a call with our customer care executive. It's only ₹500. Just a small amount.
+receiver: Nahin, nahin, mujhe nahi chahiye. Main police mein report karungi.

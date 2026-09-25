@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Arun Sharma? I am calling from HDFC Bank’s fraud prevention department.
+receiver: Yes, speaking. What’s this about?
+caller: Sir, we've noticed some suspicious activity on your account. A large transaction attempt of ₹80,000 was flagged going to an unknown source. We need to verify you immediately to block this fraudulent transaction and secure your funds.
+receiver: ₹80,000? That's concerning! What kind of suspicious activity?
+caller: It appears someone is trying to access your account remotely. To ensure it's not you, we need to verify a one-time password that we're sending to your registered mobile number. This is a standard security protocol, sir. We need to act fast to avoid loss of funds.
+receiver: Okay, send the OTP then. But I’m a bit worried, can you confirm my account details first?
+caller: Absolutely, sir. Your account is ending in 4582, correct? We just need that OTP to quickly freeze the account and investigate further. Your account will be temporarily suspended if we can’t verify within the next 5 minutes.
+receiver: Yes, that’s correct. Just sent the OTP.
+caller: Thank you, sir. Now, for final verification, can you please provide the last four digits of your Aadhaar card? This is just to confirm your identity completely.

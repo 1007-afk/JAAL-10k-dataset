@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart Customer Care se Rohit bol raha hoon. Aapke Flipkart account mein ₹5000 ka cashback offer aa gaya hai. Yeh offer sirf aaj ke liye hai.
+receiver: Flipkart cashback? Really? Kitni details chaiye?
+caller: Haanji, sahi sun rahe hain. Yeh ek special offer hai Flipkart Prime members ke liye. Verify karne ke liye, aapko sirf apna UPI ID aur ek OTP dena hoga.
+receiver: UPI ID aur OTP? Par Flipkart toh aise call nahi karta, na?
+caller: Sir, security reasons se, OTP sirf ek verification process ke liye hai. ₹5000 cashback claim karne ke liye kuch steps follow karna padega. Koi chinta mat karein, aapka data safe rahega.
+receiver: ₹5000 ka cashback? Hmm… yeh zyada lag raha hai. Koi trick toh hai.
+caller: Sir, yeh ek limited-time offer hai. Jab tak aap UPI details provide nahi karte, offer expire ho jayegi. Aapka loss hoga.
+receiver: Ok, ek minute rukiye. Mai check karta hoon.

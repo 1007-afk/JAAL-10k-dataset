@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai airport par, jismein illegal items paaye gaye hain – drugs aur counterfeit currency.
+receiver: Kya? Yeh kaisi baat ho rahi hai? Main toh kabhi parcel nahi bheja. Meri koi illegal activity nahi hai.
+caller: Sir, records clear hain. Aapki registered address par parcel aaya hai aur scanning mein illegal items nikle hain. Case number [random number] register ho chuka hai. Aapko is matter mein cooperate karna hoga.
+receiver: Par main toh honest citizen hoon! Mujhe kuch bhi pata nahi. Yeh galat hai. Main police station mein jaunga complain karne.
+caller: Sir, police station mein complaint karne se kuch nahi hoga. Yeh matter bahut serious hai.  Aapko ₹50,000 fine bhar dena hoga taaki parcel ko release kiya ja sake aur aapka naam clear ho sake.
+receiver: ₹50,000?  Yeh thagari hai! Main bank transfer nahi karunga. Aapko ek minute ruko, main apne lawyer se baat karta hoon.
+caller: Sir, time bahut kam hai. Deadline hai. ₹50,000 ka payment kar dijiye, otherwise legal action lena padega aur aapko arrest bhi kiya ja sakta hai. Aapka mobile number [another random number] hai, right? Aapko OTP bhejna padega verification ke liye.

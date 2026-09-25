@@ -1,0 +1,7 @@
+caller: Hello sir, calling from Paytm customer care. We have noticed some unusual activity on your Paytm wallet.
+receiver: Unusual activity? What kind of unusual activity? Is everything alright?
+caller: Yes sir, everything is alright. But to secure your wallet, we need to verify a small pending transaction of 200 rupees.
+receiver: 200 rupees? What transaction is that? I didn't initiate any transaction for that amount.
+caller: It appears to be a cashback offer linked to a recent purchase. To confirm, can you please share the OTP you just received on your registered mobile number? It's just a security measure, sir.
+receiver: OTP? But why would I need to give you an OTP for a cashback? Shouldn't Paytm already know it’s me?
+caller: Sir, due to new security protocols, we need to re-authenticate the transaction. It’s very important to do this quickly to avoid any issues with your Paytm account.

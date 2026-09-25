@@ -1,0 +1,12 @@
+caller: Namaste sir, main Bharat Telecom se bol raha hoon. Aapka mobile 18 ghante mein deactivate ho jayega. Aapko isko renew karna hai?
+receiver: Haan, kitna deactivation ho raha hai? Mera name Deepak Sharma hai, aur mobile pe fir tak koi problem nahi tha.
+caller: Ji sir, mera naam Rahul hai. Bharat Telecom ke naye rules ke hisab se, jo phones 6 months se active nahi hue hain, unhein deactivate kiya ja raha hai. Aapka phone use mein hai, isliye humne notification bheja hai. Activate karne ke liye humein ek OTP bhejna hoga, woh aapko verify karna hoga.
+receiver: Arre Rahul bhai, thanks. To matlab, mujhe phone renew karna hai ya deactivate hona hai? Ismein kya fark hai?
+caller: Sir, deactivate hona matlab phone kamzeer ho jayega aur aapko data loss ho sakta hai. Renew karna means aapko ₹500 deposit karke phone continue chalega. Aapko kitna renew karna hai, sir?
+receiver: ₹500? Theek hai. Par mujhe jitni possible ho, isko activate karein. Mujhe abhi iske bare mein pata nahi tha.
+caller: Absolutely! Hamari team aapki madad karegi. Par iske liye hamein aapki registration details check karni hogi. Aapkaadhar card number aur bank account number bataiye, please?
+receiver: Nahin, nahin! Mein ye sab batane wala nahi hoon. Kya aap kisi aur tareeke se verify kar sakte hain?
+caller: Sir, ye verification ka part hai. Agar aapko koi aur tareeka nahi milta hai, toh aapka phone band ho jayega. Aapko haste huye accept karna padega!
+receiver: Oh no! Seriously? Main toh kuch bhi samajh nahi raha hoon.
+caller: Haan sir, don’t worry. Just give me your date of birth and email address. We just need to confirm everything.
+receiver: My date of birth is 15th August 1985 and my email is deepaksharma@gmail.com.

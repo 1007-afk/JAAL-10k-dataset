@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Verma, Blue Dart courier se bol raha hoon. Aapka naam Rajesh Sharma hai na?
+receiver: Haan, Rajesh Sharma bol raha hoon. Kya hua?
+caller: Rajesh ji, aapke ek parcel mein kuch problem aa gaya hai. Yeh Delhi se Jaipur jaane ke liye tayyar tha, lekin address incomplete lag raha hai.
+receiver: Address incomplete? Lekin maine theek hi address diya tha.
+caller: Ji, hamara system ek OTP demand kar raha hai, address verify karne ke liye. Kya aap mujhe woh OTP bata sakte hain jo aapko SMS se aaya hai?
+receiver: OTP? Mere ko koi SMS nahi aaya hai. Main confirm karna chahta hoon, ki yeh sach mein Blue Dart ka call hai.
+caller: Rajesh ji, security ke liye, main aapko ek link send karunga, usko open karke details check kar sakte hain. Yeh link aapke account ko secure bhi karega.
+receiver: Account secure? Main kisi bhi link pe click nahi karunga. Mujhe Blue Dart office ka number do, main wahaan call karta hoon.

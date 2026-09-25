@@ -1,0 +1,15 @@
+caller: Hello? Tumhara naam yaad hai? Main woh hoon, jisse tumhari beta ne aapko bulaya hai.
+receiver: Oh, hello! Haan, beta ka naam toh yaad hai. Kya baat hai? Kaise ho aap?
+caller: Arre, main theek hoon. Beta ne kaha ki usne tumhe ek important deal bataani hai. Deal toh bahut badi hai, Madam!  Aapko sirf ek baar sunna hoga.
+receiver: Achaa, bolna. Kya deal hai? Main sunne taiyaar hoon.  Beta ne mujhe kaha ki aapko dikkat hogi.
+caller: Actually, Beta ne kaha ki yeh deal tumhare son ko bahut fayda hone wali hai. Usne kaha ki tumhari son, Rohan, ek competition mein jeetegi.
+receiver: Rohan? Competition? Kya competition?  Mujhe samajh mein nahin aa raha.
+caller: Arre, Beta ne kaha ki yeh competition engineering mein hai, aur Rohan ko ek bada prize milega - ek SUV!  Aapko sirf ek baar sunna hoga, Madam.  Apeen, aapka son Rohan jeetega!
+receiver: Wow! Really? Rohan jeetega?  Mujhe bahut khushi hui!  Par mujhe koi extra information chahiye.
+caller: Haan, Beta ne kaha ki yeh deal tumhare son ki shuruat mein success ke liye zaroori hai. Is deal ko sign karna zaroori hai.  Aapko sirf ek signature chahiye.
+receiver: Signature? Kahan sign karna hai?  Mujhe email id chahiye.
+caller: Email id? Beta ne kaha ki yeh deal offline ho rahi hai.  Tumhare son ki success ke liye, aapko humein ek copy of Rohan ki passport chahiye.
+receiver: Passport? Seriously? Yeh kitni confusion hai!  Main jitni bhi confusion mein hun, beta toh mujhe bolta rahega.
+caller: Beta ne kaha ki Rohan ki passport tumhare son ki future ke liye bahut zaroori hai.  Aapko yeh deal sign karna hai, Madam.  Agar tum yeh sign nahin karogi, toh Rohan ki dream toot jayegi.
+receiver: Okay, okay! Main sign kar dungi.  Par mujhe Rohan ki passport number chahiye.
+caller: Beta ne kaha ki passport number tumhare son ki identity ke liye zaroori hai.  Aapko yeh deal sign karna hai, Madam.  Agar tum yeh sign nahin karogi, toh Rohan ki dream toot jayegi.

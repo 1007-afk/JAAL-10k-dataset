@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We're calling from Loan Express India. We’ve pre-approved you for a quick loan of ₹75,000. Very easy process, no paperwork needed right now.
+receiver: Loan Express? I don’t remember applying for a loan.
+caller: Doesn't matter, Madam. We saw your good credit score. Just need to verify a few details. First, could you tell me the last four digits of your bank account number for security purposes?
+receiver: Why do you need that? Isn't that a bit risky?
+caller: Relax, Madam. It's standard procedure to avoid fraud. Once we verify, the money will be in your account within an hour. But, there's a small processing fee of ₹5,000 that needs to be paid upfront through UPI.
+receiver: Five thousand rupees upfront? That seems strange.
+caller: Yes, Priya ji. It’s a one-time fee. Think of it as an insurance against loan defaults. If you don't pay, we'll have to report you to the credit bureau and… well, we have ways of finding out who you share your contacts with, just a warning. UPI details: 8888888888. Hurry, Madam! The offer is only valid for the next 15 minutes.

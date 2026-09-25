@@ -1,0 +1,7 @@
+caller: Namaste, main Ishan Verma, Bluebird Courier se baat kar raha hoon. Aapke Amazon se aaya ek parcel hai, lekin address mein kuch confusion hai. OTP verify karna hai, tabhi parcel aapke pass pahunchega.
+receiver: Amazon ka parcel? Kon sa order hai? Mujhe toh koi notification nahi aaya.
+caller: Ji haan, order ID hai 7890123456. Aapko OTP 654321 mila hoga, woh mujhe bataiye taaki hum deliver kar sake. Kuch legal formalities complete karni hai.
+receiver: 654321? Yeh toh mujhe nahi mila. Amazon toh OTP SMS se hi deta hai, phone call se nahi.
+caller: Sir, system mein technical issue aa gaya hai. OTP call se hi dena pad raha hai abhi. Thoda wait karein, main supervisor se baat karta hoon. Aapka parcel bahut important hai, please cooperate karein.
+receiver: Theek hai, theek hai. Par agar kuch gadbad hua toh main Amazon ko report karunga.
+caller: Bilkul sir, koi chinta nahi. Abhi main aapko ek link send karunga, usmein kuch documents verify karne hai, aur phir parcel aapke address pe chala jayega. Check karein aap WhatsApp pe?

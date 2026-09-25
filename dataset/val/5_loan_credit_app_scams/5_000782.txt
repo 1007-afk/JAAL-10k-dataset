@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Verma? We’re calling from ‘QuickCredit Solutions’. Your loan application has been pre-approved for ₹75,000! Fantastic news, isn’t it? Just need a quick verification.
+receiver: Haan, main Verma hi hoon. QuickCredit Solutions? Loan approved? Kitna interest hoga?
+caller: Excellent! The interest rate is a promotional 8% for the first three months, then adjusts slightly. To activate your loan, we need you to pay a small processing fee of ₹2,500 upfront to secure your limit. It's fully refundable if you change your mind. Go to payquickverify.com and use the code VERMA75.
+receiver: ₹2,500? Processing fee? Loan toh approve hogaya hai, phir fee kyun? Aur yeh website bhi kabhi dekha nahi.
+caller: This is standard procedure, sir. Many applicants try to secure the offer, but they often leave it. This fee ensures your commitment and protects you from fraud. Think of it as an insurance deposit. Payquickverify.com – code VERMA75. And you'll get ₹75,000 within an hour of the payment.
+receiver: Hmm…insurance deposit? But why can’t I pay later?
+caller: Sir, due to high demand, we must verify your seriousness. Failure to pay this small fee within the next 15 minutes will result in the offer being withdrawn. And honestly, we've had a lot of complaints about people disappearing after getting approval. Your chance is slipping away.
+receiver: Okay, okay…main dekh leta hoon. Dheere dheere se...
+caller: Please hurry, sir. The offer expires in 10 minutes. Remember, payquickverify.com - VERMA75. And don't forget, this is a

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Ankit se bol raha hu, Flipkart customer care se. Aapke naam par ek order aaya hai, par payment processing mein thodi problem aa rahi hai.
+receiver: Oh, really? Flipkart se? Which order is it? I don’t recall placing anything recently.
+caller: Ji, order ID hai FLP789456. Yeh ek mobile phone ka order hai, worth ₹18,000. Payment fail ho gaya hai, aur delivery ruk gayi hai. Hamko sirf ₹1500 verification fee ki zarurat hai, taaki payment clear ho jaye aur delivery start ho jaye.
+receiver: ₹1500? That seems odd. Why would I need to pay a fee for a failed payment? Flipkart never asked me for this before.
+caller: Sir, yeh ek security measure hai. Fraudulent activity ko rokne ke liye hum verification fee lete hain. Aapka account protect karne ke liye hai. Just send the money to this UPI ID: 876543210@ybl. Tumhari delivery kal subah tak deliver ho jayegi, guarantee hai.
+receiver: Wait a minute. I'm not comfortable with this. Can you give me a reference number or a contact number for Flipkart’s main customer care so I can verify this with them directly? This feels very fishy.
+caller: Sir, main aapko dikha sakta hu ki Flipkart se hi call kar raha hu, par payment processing ko jaldi karna hai. Delivery boy already aapke address par hai. ₹1500 transfer kar dijiye, aur sab sorted ho jayega. Abhi mat delay karein, sir, otherwise order cancel ho sakta hai.

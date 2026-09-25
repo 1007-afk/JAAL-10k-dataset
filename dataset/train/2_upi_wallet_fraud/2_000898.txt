@@ -1,0 +1,8 @@
+caller: Hello, is this Rohan Sharma? We’ve detected some unusual activity on your PhonePe account. A transaction of Rs. 2500 has been attempted from a new device.
+receiver: 2500? What transaction? I didn’t authorize anything.
+caller: Exactly, sir! That's why we're calling. To secure your account, we need to verify some details. Can you please confirm the last four digits of your PAN card? It’s a standard security protocol.
+receiver: My PAN card details over the phone? That seems risky. Shouldn't I just log into my PhonePe app?
+caller: Sir, logging in takes time, and the transaction is still pending. A hacker might complete it if we delay. We are from PhonePe security, and this is the fastest way to block the transaction. Just the last four digits, please. We need to act quickly to protect your money.
+receiver: Okay, fine. It’s 4582. But I'm still not comfortable with this.
+caller: Thank you, sir. Now, to completely block that unauthorized transaction, we'll need you to send a small amount – just Rs. 50 – to the verification OTP we’ll send. This will confirm your ownership of the account and reverse the pending transaction. It’ll be refunded immediately after confirmation.
+receiver: Send money? What verification OTP? This is getting very suspicious.

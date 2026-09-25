@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Anjali calling from HDFC Bank’s KYC department. We’ve noticed some unusual activity on your account and need to verify your details to prevent potential fraud.
+receiver: HDFC se baat kar rahi hoon? Unusual activity? What kind of activity?
+caller: Sir, it appears there was an attempted transaction from a foreign IP address. To secure your account, we need to confirm your PAN card details and the last four digits of your bank account number. This is a standard security procedure.
+receiver:  PAN card details? Over the phone? I’ve heard about scams like this. Can’t I do this online through the app, or go to a branch?
+caller: Sir, due to a recent RBI directive, we’re required to conduct this verification over the phone for high-risk accounts. If you don't verify today, we may have to temporarily freeze your account as a precaution. This is just to ensure your money is safe.
+receiver: Freeze my account? Okay, hold on. Let me just quickly check the HDFC website to see if there's any notice about this. Give me a minute.
+caller: Sir, time is of the essence here. The longer you wait, the higher the risk of unauthorized access. We are simply trying to protect you and your funds. Just a quick verification, sir.

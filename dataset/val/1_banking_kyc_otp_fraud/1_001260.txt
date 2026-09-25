@@ -1,0 +1,8 @@
+caller: Namaste, mai ICICI bank se Rahul bol raha hoon. Aapke naam par ek online transaction hua hai, jo kuch suspicious lag raha hai. ₹7,500 ka transaction Rajasthan mein hua hai.
+receiver: Rajasthan? Mujhe toh koi transaction yaad nahi. Mai toh online shopping bhi nahi kar raha tha aaj.
+caller: Ji ji, yeh ek urgent matter hai. Account secure karne ke liye, humein aapka KYC verification karna hoga. Aapko ek OTP milega aapke registered mobile number par. Woh bataiye, please.
+receiver: Okay, chalo dekhta hoon. Haan, OTP aaya hai... 942816. Par mujhe abhi bank se call karne ka mann karta hai, apni branch se.
+caller: Ji ji, sahi hai. Verification ke liye, humein aapki Aadhaar card ki copy bhi chahiye hogi, sir. Woh bhi WhatsApp pe share kar dijiye, please. Security ke liye zaroori hai.
+receiver: Aadhaar card? WhatsApp pe? Sir, main toh bank mein hi jaakar KYC karwa loonga. Yeh thoda risky lag raha hai.
+caller: Ji ji, samjhe. Lekin Rajasthan mein transaction ho chuka hai, aur agar aap abhi nahi karayenge toh aapke account se aur bhi paise nikal sakte hain. Time bahut kam hai, sir. Woh Aadhaar card bhijwa dijiye, please.
+receiver: Theek hai, ek minute. Mai check karta hoon…

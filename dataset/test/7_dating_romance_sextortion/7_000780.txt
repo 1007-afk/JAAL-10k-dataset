@@ -1,0 +1,6 @@
+caller: Hello, my name is Vikram. I saw your profile on 'Desi Hearts' and I was really struck by your beauty. You seem like such a warm and genuine person.
+receiver: Oh, hello Vikram. That’s very kind of you to say. Thank you. Desi Hearts is a nice app, isn’t it?
+caller: It is, but meeting you feels like a much better experience. I'm a doctor, working in a rural hospital. Life is busy, but I find time to appreciate the finer things, like connecting with someone special. I’ve been wanting to take you on a trip to Kerala, imagine the beaches!
+receiver: A doctor? Wow, that’s impressive. Kerala sounds lovely. But I’m not sure about a trip so soon. We’ve just started talking.
+caller: I understand, but things are a little complicated. My hospital is facing a sudden crisis. We need a new generator urgently to keep the oxygen flowing to the patients, and I’m trying to raise funds. Would you be able to help me out with just 25,000 rupees? It would make a huge difference.
+receiver: 25,000 rupees? Vikram, that's a lot of money to ask for, especially when we barely know each other. Something doesn't feel right. I think I need to take some time to think about this.

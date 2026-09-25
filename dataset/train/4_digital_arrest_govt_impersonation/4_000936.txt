@@ -1,0 +1,7 @@
+caller: Namaste, sir? Yeh Indian Customs se baat kar raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par adhura hai. Usmein illegal items paye gaye hain.
+receiver: Illegal items? Mein? Yeh kya keh rahe hain aap? Mein toh kabhi parcel order kiya hi nahi.
+caller: Sir, aapke naam ka address per parcel aaya hai. Isliye hum contact kar rahe hain. Agar aapko is parcel se sambandh nahi hai, toh humein ek declaration form fill karna hoga aur kuch fees bharani hogi.
+receiver: Fees? Kitni fees bharani hogi? Aur yeh illegal items kya hain? Mujhe toh kuch samajh nahi aa raha hai.
+caller: Sir, legal process hai iska. Declaration form ke liye 5000 rupees aur investigation fees ke liye 8000 rupees bharne padenge. Total 13000 rupees. Aapko video call par aana padega aur FIR register karne se bach sakte hain.
+receiver: 13000? Sir, mujhe thoda time dijiye. Mein bank se check karta hoon. Aur mujhe video call par aane se pehle confirmation chahiye.
+caller: Sir, time nahi hai. FIR register hone se pehle aapko fast action lena hoga. Otherwise, aapko legal consequences ka samna karna padega. 13000 rupees pay karein aur video call par aaiye, main aapko all details de dunga.

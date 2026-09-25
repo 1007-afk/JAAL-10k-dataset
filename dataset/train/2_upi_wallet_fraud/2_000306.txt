@@ -1,0 +1,7 @@
+caller: Namaste! Main IDFC First Bank se Rohit bol raha hoon. Apke IDFC First Bank digital wallet mein ₹7,500 ka cashback offer aa gaya hai. Yeh offer sirf aaj ke liye hai, aur isko claim karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: IDFC First Bank? Cashback offer? ₹7,500? Yeh kaisa hai?
+caller: Haan ji, bilkul! Yeh ek special promotional offer hai. Verification ke liye, aapko sirf apne wallet se ₹500 processing fee send karni hai ek particular UPI ID par. Jab fee confirm ho jayegi, ₹7,500 cashback instantly aapke wallet mein deposit ho jayega.
+receiver: ₹500 processing fee? Kya yeh sahi hai? Maine toh bank se such mein koi offer nahi suni hai. UPI ID batao.
+caller: Haan, beta, yeh bank ki policy hai. ₹500 fee sirf verification ke liye hai, taaki hum confirm kar saken ki account aapka hi hai. UPI ID hai - 9876543210@axisbank. Jaldi karo, offer shayad khatam ho jaaye.
+receiver: Axis bank ka UPI ID? Lekin main IDFC First Bank ka customer hoon. Yeh to kuch ghalat lag raha hai.
+caller: Haan ji, technical issue hai, beta. System mein thoda problem aa gaya hai. Aap bas ₹500 send kar do, fir hum sab correct kar denge. Trust me, ₹7,500 aapko definitely milega!

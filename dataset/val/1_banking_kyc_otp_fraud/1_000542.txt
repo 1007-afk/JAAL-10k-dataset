@@ -1,0 +1,18 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapka credit card expire ho gaya hai. Credit card ko renew karne ke liye, please apni PAN card ka last four digits bataiye.
+receiver: Namaste, HDFC Bank? Mein toh shayad ek saal se credit card use nahi kar raha hoon. PAN card ka last four digits? Fir main kya karunga?
+caller: Sir, humne aapka account record check kiya hai, aur aapka credit card expire hone wali hai. Isliye humne aapko yeh calling kiya hai. Kindly provide your PAN card’s last four digits for further processing.
+receiver: Seriously? Mein toh forget kar diya tha ki credit card hai. Mera PAN card... mujhe yaad nahi. Dekh, aapne toh meri privacy ka respect nahi kiya. Kya aapne kabhi thought ki ye fraud ho sakta hai?
+caller: Sir, yeh HDFC Bank ki taraf se official call hai. Humne sirf aapki credit card expiry ka notification dena hai. PAN card ka last four digits dedo, iske bare mein kisi ko koi doubt nahi hai.
+receiver: But what if this is some kind of phishing attempt?  Aapne toh data leak ka risk bata rahe hain.  Mujhe koi confirmation chahiye ki aap asli bank representative ho.  Aapki ID number bataiye.
+caller: Sir, aapki ID number humare record mein available hai. Yeh process jaldi complete karne ke liye hai. Aap apna PAN card ka last four digits bata dijiye.  Koi tension mat lo, yeh secure hai.
+receiver:  Okay, okay.  Mein apna PAN card ka last four digits deta hoon.  Par mujhe assurance chahiye ki aap log my data safe rakhenge.  Aur agar koi problem hui, toh main kaise complaint kar sakta hoon?
+caller: Sir, aapka data hamara responsibility hai.  Yeh process completely secure hai.  Aap koi bhi problem faced karte hain, toh hamari customer care number [Invented Phone Number] par contact karein.  Processing complete ho gayi hai, aapko soon SMS mil jaega.
+caller: Namaste sir, main SBI Bank se baat kar raha hoon. Aapka debit card expire ho gaya hai. Debit card ko update karne ke liye, please apni birthdate bataiye.
+receiver: Namaste, SBI? Mein toh badi confusion mein hoon. Debit card expire? Mujhe samajh nahi aaya. Birthdate? Kaisa update hoga?
+caller: Sir, humne aapka account record check kiya hai, aur aapka debit card expire hone wali hai. Isliye humne aapko yeh calling kiya hai. Kindly provide your birthdate for further processing.
+receiver: Actually, mein apni birthdate bhool bhi gaya tha.  Aap sab log kya karte hain?  Mujhe toh kuch bhi pata nahi tha.  Aapne toh meri personal information seek rahi hai.
+caller: Sir, yeh SBI ki taraf se official call hai. Humne sirf aapki debit card expiry ka notification dena hai. Aapki birthdate dedo, iske bare mein kisi ko koi doubt nahi hai.
+receiver: But why do you need my birthdate?  Is there no other way to verify my identity?  Aapne toh mujhe confuse karne ki puri koshish kari hui hai.
+caller: Sir, birthdate se aapki age aur identity check hoti hai.  Yeh process jaldi complete karne ke liye hai. Aap apni birthdate bata dijiye.  Koi tension mat lo, yeh secure hai.
+receiver: Okay, okay. Mein apni birthdate deta hoon.  Par mujhe assurance chahiye ki aap log meri details protect karenge. Aur agar kuchh galat hua toh main kaise complaint kar sakta hoon?
+caller: Sir, aapki details hamara responsibility hai. Yeh process completely secure hai. Aap koi bhi problem faced karte hain, toh hamari customer care number [Invented Phone Number] par contact karein. Processing complete ho gayi hai, aapko soon SMS mil jaega.

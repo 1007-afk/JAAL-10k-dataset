@@ -1,0 +1,11 @@
+caller: Hello, mai Rohan bolta hoon, Flipkart se call kar raha hoon. Aapko ek cashback offer aaya hai apne Flipkart account par.
+receiver: Flipkart se? Cashback offer? Batao kya offer hai.
+caller: Ji, aapne kuch din pehle ek product buy kiya tha, uske cashback ke rup mein, Flipkart ₹5000 de raha hai.
+receiver: ₹5000? Woh bhi cashback? Mainko koi notification nahi mila.
+caller: Haan, woh automatic hai. Isko claim karne ke liye, aapko sirf apna PhonePe UPI ID share karna hoga, verification ke liye.
+receiver: PhonePe UPI ID? Verification ke liye? Mainko doubt ho raha hai. Flipkart aise kyun maangega?
+caller: Sir, yeh security process hai. Agar aap share nahi karenge, toh offer expire ho jayega aur cashback nahi milega. Hurry up!
+receiver: ₹5000 ka offer hai aur UPI ID maang rahe ho? Kuch gadbad lag rahi hai. Mein abhi call kat deta hoon aur Flipkart customer care se khud baat karta hoon.
+caller: Sir, please mat katna! Offer sirf abhi tak ka hai. Koi bhi problem nahi hai, kuch seconds mein ho jayega.  Aapko sirf UPI ID share karna hai.
+receiver: Nahin, bhai. Mein koi bhi information share nahi karunga. Scam lag raha hai. Bye.
+caller: Sir, aapka loss hoga! ₹5000 ka cashback! Last chance…just UPI ID…

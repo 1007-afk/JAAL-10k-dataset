@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay Customer Care se Rahul bol raha hoon. Aapke BharatPay wallet mein ₹7,800 ka cashback offer hai, jo abhi khatam hone wala hai!
+receiver: BharatPay? Cashback offer? Kitna cashback hai?
+caller: Haan ji! ₹7,800! Yeh offer sirf limited time ke liye hai. Confirm karne ke liye, ‘CLAIM’ likhkar 99999 pe SMS karein. ₹5 processing fee lagega, par ₹7,800 cashback aapka hoga!
+receiver: ₹5 processing fee? ₹7,800 cashback... woh bhi SMS se? Thoda shaq aa raha hai. BharatPay ka official number toh check karta hoon.
+caller: Sir, time barbaad na karein. Yeh offer abhi khatam hone wala hai! SMS karein ‘CLAIM’ 99999 pe. ₹5 fee sirf verification ke liye hai. Jab aap claim kar lenge, toh cashback instantly aapke BharatPay wallet mein credit ho jayega.
+receiver: Verification ke liye ₹5 fee? Yaar, yeh to kuch gadbad lag rahi hai. Mein koi SMS nahi bhejunga. Koi fraud lag raha hai. BharatPay app pe direct check karta hoon.
+caller: Sir, aapko ₹7,800 haarne ka risk nahi lena chahiye! Yeh last chance hai. Jaldi karein aur ‘CLAIM’ SMS karein. Otherwise, offer cancel ho jayega. Aapko pata bhi nahi, shayad aapka account hacking ho jaye, aur phir loss hoga₹10,000 ka.

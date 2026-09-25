@@ -1,0 +1,9 @@
+caller: Namaste! This is Rahul from CryptoGainz. We’ve noticed you’ve been showing great interest in our platform. We have a special opportunity just for you!
+receiver: CryptoGainz? I don’t remember signing up for anything.
+caller: That’s alright! We’ve identified your profile as someone with a keen eye for investment. Right now, we’re offering a guaranteed 15% return in just 24 hours on a new coin called StellarRise. It's skyrocketing!
+receiver: 15% in 24 hours? That sounds too good to be true. What do I need to do?
+caller: Just a small initial deposit to activate the mining process for your StellarRise coins. ₹2500 will do the trick.  We'll send you a UPI link. This is a limited-time offer, only a few spots left.
+receiver: ₹2500? And how do I withdraw my profits after 24 hours?
+caller: After 24 hours, you'll be able to withdraw your profits instantly! But first, you need to pay a small processing fee of ₹500 to unlock the withdrawal function. It’s standard procedure, completely safe. 
+receiver:  A processing fee *after* I’ve already invested?  I’m not comfortable with this. I think I’ll pass.
+caller: Wait! Don't miss out! We can waive the processing fee if you deposit ₹3500 instead!  That’s a much better deal, trust me. This opportunity won’t last.

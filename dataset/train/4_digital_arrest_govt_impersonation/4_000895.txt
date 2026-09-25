@@ -1,0 +1,10 @@
+caller: Namaste, main Indian Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein.
+receiver: Parcel? Mujhe koi parcel order kiya hai?
+caller: Ji, parcel mein illegal items paaye gaye hain - drugs ke suspeect. Isliye, legal process shuru karne se pehle, aapko yeh matter clear karna hoga.
+receiver: Drugs? Yeh kaise ho sakta hai? Main toh kabhi drugs nahi use karta. Kisne mere naam se bheja hoga?
+caller: Woh dekha jaa raha hai, Madam. Lekin hukum ka order hai ki aapko payment karke matter ko settle karna padega, warna police case register hoga. Rupees 15,000 ka fine deposit karein.
+receiver: Rupees 15,000? Aur kaise deposit karun? Koi bank account number do. Aur mujhe yeh legal department ka naam aur contact number bhi chahiye.
+caller: Account number main aapko SMS karein. Lekin pehle, confirm karein ki aapka naam aur address sahi hai. Isse scam prove hoga.
+receiver: Woh thik hai. Lekin mujhe phir bhi woh legal department ka number chahiye. Main confirm karna chahta hoon.
+caller: Madam, time bahut kam hai. Agar aap cooperate nahi karenge, toh aapke khilaf warrant nikalna padega. Rupees 15,000 immediately deposit karein.
+receiver: Warrant? Dekhiye, aapko bilkul trust nahi kar raha hoon. Main abhi police mein complaint karunga.

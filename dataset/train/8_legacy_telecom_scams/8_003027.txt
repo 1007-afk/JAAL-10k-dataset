@@ -1,0 +1,8 @@
+caller: Namaste! Suno, kya aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hum aapke liye ek amazing deal lekar aaye hain! Aapko mil sakta hai ek free smart watch, saath mein 30% discount line rental for 6 month, aur 750 cross network mins aur 150 texts! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achha laga. Smart watch free mein, line rental discount... yeh sab kahan se milega?
+caller: Haan ji, yeh sab aapko mil sakta hai hamare special campaign ke through. Agar aap apni internet package upgrade karna chahte hain, toh yeh offer aapke liye sahi hai. Sirf ek hi click se aapko yeh benefits mil jaayenge. Kya aap is detail ko jankari sunne ke liye ready hain?
+receiver: Haan ji, bilkul ready hoon. Bataiye, kaise karna hai?
+caller: Excellent! To get started, we just need to confirm some information. Can you please tell me your full name and your current landline number? This will help us verify your identity and ensure that you receive this fantastic offer.
+receiver: Haan ji, mera naam hai Priya Patel, aur mera landline number hai 8765432109. Verification process shuru karo.
+caller: Dhanyavaad Priya ji! Verification complete ho gaya hai aur aap is offer ke liye totally eligible hain. Abhi humein sirf aapke address ka kuch basic information chahiye. Kya aapke paas aapka ID proof hai?
+receiver: Haan ji, mere paas Aadhaar card hai. Bataiye, ID proof submit karna hoga?

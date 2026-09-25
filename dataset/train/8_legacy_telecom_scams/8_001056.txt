@@ -1,0 +1,10 @@
+caller: Namaste! Namaste! Can you hear me clearly? Great news! You’ve been selected to receive a substantial ₹15,000 Diwali bonus, awarded by your distant cousin, Mr. Sharma ji! Isn’t that wonderful? To accept this generous gift, please call us immediately at 09323456789. Just 10 rupees per minute from Jio network. Don’t delay, this offer is limited! Ring us now!
+receiver: Namaste! Haan, sunayi. ₹15,000 Diwali bonus? Seriously? My cousin Sharma ji? That’s surprising! What exactly needs to be done to receive this money? And the number is 09323456789, correct? Shukriya! Main abhi call karta hoon.
+caller: Shanti! Relax, everything is very simple. Mr. Sharma ji wants to send you this money directly, but there’s a small processing fee - just ₹500. Please transfer this amount via UPI to account number 9876543210. Once we receive confirmation, your bonus will be credited instantly. Don't worry, it's completely safe!
+receiver: ₹500 processing fee? Okay, I understand. But how will I actually receive the ₹15,000? Is it through bank transfer or something? And what if UPI doesn't work?  The number is 09323456789.
+caller:  Don't fret! After the ₹500 is transferred, we’ll arrange for a quick Western Union Money Transfer – absolutely no hassle! It takes about 24 hours to reach your account. Trust us, it's the fastest way! We want you to enjoy your Diwali!
+receiver: Western Union? Hmm, okay. So, after paying ₹500, I wait for 24 hours and then I get the ₹15,000?  It sounds a little complicated.  But okay, I'll try it.  The number is 09323456789. Thank you for explaining.
+caller: Absolutely!  It's a smooth process, believe me! ₹500 is a tiny investment for such a huge reward.  Just make sure you have enough balance in your account.  Call us again once you've completed the transaction.  We’re here to help!
+receiver: Okay, I’ll do that.  I’m going to call that number now.  Thank you very much!  Bye!
+caller:  Haan, bilkul!  Aapko Diwali Mubarak ho!  ₹15,000 ka bonus aapki hai!  Enjoy your celebrations!  All the best!  Bye for now!
+receiver:  Diwali Mubarak! Thank you so much! Bye!

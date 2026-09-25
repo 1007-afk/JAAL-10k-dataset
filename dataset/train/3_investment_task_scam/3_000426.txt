@@ -1,0 +1,8 @@
+caller: caller: Hanji hello, sunai de raha hai? receiver: Haanji, sunai de raha hai. Kaun bol rahe ho?
+receiver: Hanji, sunai de raha hai. Aap kaun bol rahe hain? Kuchh kaam tha kya?
+caller: scammer: Hanji hello, sunai de raha hai?\nreceiver: Haanji, sunai de raha hai. Kaun bol rahe ho?
+receiver: Haanji, main sun sakta hoon. Aap kaun hain? Kuch kaam tha kya?
+caller: scammer: Hanji hello, sunai de raha hai?\nreceiver: Haanji, sunai de raha hai. Kaun bol rahe ho?
+receiver: Haanji, sunai de raha hai. Aap kaun hain? Kuch kaam tha kya?
+caller: scammer: Ji, sunai de raha hai? Main Hanji bol raha hu, aapko ek special offer ke baare mein call kiya hai.
+receiver: Hanji, Hanji aap bol rahe hain? Special offer? Kaisi offer hai yeh?

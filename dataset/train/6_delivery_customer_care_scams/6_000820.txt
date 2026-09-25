@@ -1,0 +1,9 @@
+caller: Namaste! This is Yash from Zepto Customer Support. We've noticed some unusual activity on your Zepto account and a pending delivery issue.
+receiver: Oh really? What kind of unusual activity? And what's the delivery issue? I was expecting a package today.
+caller: Ji, sir. It appears someone attempted to change your delivery address. To secure your order and prevent misdelivery, we need to verify your identity. For this, we’ll need a one-time password sent to your registered mobile number.
+receiver: Okay, that sounds a bit suspicious, but I want my package. Send the OTP then. But I'm being careful.
+caller: Perfect! We've just sent the OTP. Could you please share it with me so I can complete the verification process? It’s very important to get this done quickly to avoid the package being returned to the seller.
+receiver: Wait a minute. Why can’t I just verify this on the Zepto app myself? Why are you calling and asking for an OTP over the phone?
+caller: Sir, our systems are experiencing a temporary technical glitch. The app verification is currently unavailable. This is a security measure - we are preventing fraud. To resolve this, you need to provide the OTP directly to me, and I'll manually update the delivery address.
+receiver: Hmm, I’m still not comfortable with this. Let me just check the app myself.
+caller: Sir, the glitch is affecting all users. Delaying verification might mean your package gets lost. We don’t want that, right? To make it up to you, we'll also give you a special discount on your next order.

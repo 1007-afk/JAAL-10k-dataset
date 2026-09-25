@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma, calling from the Delhi Customs Department. We’ve intercepted a suspicious package linked to your name and address.
+receiver: Customs? What package? I haven't ordered anything unusual.
+caller: Sir, preliminary investigations suggest the package contains illicit substances. We need to verify your involvement to avoid legal complications. We’ve placed you on a video call with our senior officer to expedite this process. Please remain on this call and do not disconnect.
+receiver: A video call? Why can't you just tell me what's happening over the phone? This sounds very strange. I am busy right now.
+caller: Sir, this is a matter of national security. Disconnecting the call will be considered obstruction of justice and could lead to further legal action. The senior officer will clarify everything. For your safety and to ensure this matter is resolved quickly, please stay on the line. There’s a small processing fee of ₹8,000 to clear this immediately.
+receiver: ₹8,000? Just like that? Without knowing what’s in the package? This is extortion! I'm hanging up.
+caller: Sir, please do not hang up! This is your final warning. If you disconnect, a warrant will be issued for your arrest and your assets will be frozen. The senior officer is ready to speak with you now. To avoid these serious consequences, transfer ₹8,000 to the account number provided. This is for verification purposes only.
+receiver: Account number? Look, I am calling the police now. This is a scam, you are a fraud.
+caller: Sir, you are being misled. The police are already investigating this matter. Cooperate with us, and you will be cleared immediately. Transfer the amount quickly to avoid further complications. Time is running out.

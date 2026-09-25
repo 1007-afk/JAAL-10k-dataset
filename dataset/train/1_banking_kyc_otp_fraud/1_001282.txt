@@ -1,0 +1,8 @@
+caller: Namaste sir, mein HDFC Bank KYC department se Rahul Sharma bol raha hoon. Aapke account mein security update karna hai urgent basis par. Aapka account suspend hone ka risk hai agar aap cooperate nahin karenge.
+receiver: HDFC Bank? KYC update? Mein toh abhi ghar par hoon. Kya seriously zaroori hai?
+caller: Ji sir, absolutely. New RBI guidelines hai, isliye har customer ke liye KYC update karna mandatory hai. Mujhe sirf aapke Aadhaar card ke last 4 digits chahiye, aur ek OTP jo aapko SMS karega.
+receiver: OTP? Meri phone pe toh kuch aaya nahi hai. Aur Aadhaar card ke digits dene se pehle mein thoda confuse hoon.
+caller: Sir, OTP check karein. Woh thoda late ho sakta hai. Aur Aadhaar card ke last 4 digits ek verification process hai, sir. Aapka account suspend nahi hona chahiye.
+receiver: Theek hai, ek minute... Haan, ab aaya. OTP hai 5678.
+caller: Thank you sir, OTP verified. Ab, aapke account mein ₹5000 transfer karne ke liye, mujhe aapka debit card ka CVV number chahiye. Yeh last 3 digits hai na?
+receiver: CVV number? Haan, par... yeh toh koi dehne ko chahiye?

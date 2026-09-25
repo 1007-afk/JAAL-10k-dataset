@@ -1,0 +1,9 @@
+caller: Namaste, sir? Yeh SpeedyCash Loans se baat kar raha hoon. Aapne app se ₹80,000 ka loan apply kiya tha, right? Verification ke liye kuch details chahiye.
+receiver: Haan, bilkul. Mainne apply kiya tha. Bolo, kya chahiye?
+caller: Sir, aapka PAN card number aur bank account number chahiye mujhe verify karne ke liye. Aur kuch security questions bhi poochunga, just to make sure you're the account holder.
+receiver: Account number main bata sakta hoon, lekin PAN card number phone pe dena thoda risky lagega.
+caller: Sir, look, SpeedyCash Loans completely secure hai. Hum encrypted lines ka use karte hain. Agar aapko help chahiye toh, hum aapko loan amount abhi hi transfer kar sakte hain, lekin verification compulsory hai. Otherwise, application reject ho jayega. ₹80,000 abhi aapke account mein a jayega.
+receiver: Okay, theek hai. Le lo mera account number [Invent an account number, e.g., 1234567890]. Security questions poochho.
+caller: Perfect! First question: What is your mother’s maiden name?
+receiver: [Provides a fictitious maiden name].
+caller: Excellent. Sir, mujhe confirmation aane mein 5 minute lageinge. Tab tak aap wait kar sakte hain? Hum abhi transfer process start kar denge.

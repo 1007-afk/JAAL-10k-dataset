@@ -1,0 +1,9 @@
+caller: Namaste, mai Rahul Verma, Paytm Payments Bank se bol raha hoon. Aapka naam Anjali Sharma hai, sahi?
+receiver: Haan ji, main Anjali Sharma hi hoon. Kya baat hai?
+caller: Anjali ji, humein aapke account mein ek suspicious activity detect hui hai. Ek bahut hi chhoti amount, sirf ₹5, ek unknown website par transfer hui hai. Security ke liye, aapko apna KYC update karna hoga, warna account suspend bhi ho sakta hai.
+receiver: KYC update? Lekin Paytm toh mera phone number already registered hai. Aur ₹5 ka transfer?
+caller: Haan ji, lekin rules change ho gaye hain. Account safe rakhne ke liye, humein bank verification karne ke liye aapka Aadhaar card number aur ek OTP chahiye. OTP aapke registered phone number par aayega. Jaldi karna chahiye, Anjali ji, warna account freeze ho jayega.
+receiver: Aadhaar number phone pe share karna thoda risky lag raha hai. Main Paytm app mein check karti hoon.
+caller: Anjali ji, app mein koi option available nahi hai right now. Yeh urgent hai, aur system se automatically notification aa raha hai. Aapka loss bhi ho sakta hai agar aap account ko verify nahi karte. Just Aadhaar number aur OTP de dijiye, bas. Main aapko help kar raha hoon.
+receiver: Dekho, mujhe kuch gallat lag raha hai. Main Paytm customer care number se contact karti hoon aur check karti hoon. 
+caller: Arre, Anjali ji, please hurry! Time is running out. Just the last four digits of your Aadhaar card will do.

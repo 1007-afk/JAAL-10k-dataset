@@ -1,0 +1,7 @@
+caller: Namaste Aunty! Main BharatPay Security Team se Rohit bol raha hoon. Aapke BharatPay wallet mein 10,000 rupees ka suspicious transaction detect hua hai – ek online shopping UPI transaction. Confirm karein aapne kiya tha ya nahi?
+receiver: Hello? Rohit? Woh kya bol rahe ho? Meri BharatPay mein? Mein toh aaj kal online shopping nahi kar rahi hoon.
+caller: Haan Aunty, woh transaction ek ‘TrendyDeals’ website par hua hai. ₹10,000. Aapne check kiya tha kabhi aisa kuch? Agar aapne nahi kiya toh mujhe OTP de do, main system se block kar dunga.
+receiver: ₹10,000? TrendyDeals? Nahin, kabhi nahi! Woh OTP kyun denge? Thoda wait karo, mujhe phone check karne do.
+caller: Aunty, time bahut kam hai! Hackers bahut fast hain! OTP de do jaldi! Warna woh tere account se zyada hi nikal jayega. Main BharatPay ka official representative hoon, trust me.
+receiver: Haan haan, wait karo, mujhe OTP check karne do... lekin main jaanti hoon ye scam hai. Main apne bete ko call karti hoon.
+caller: Aunty, please, don't do that! This is a security measure for your safety! Just the OTP. Just to verify!

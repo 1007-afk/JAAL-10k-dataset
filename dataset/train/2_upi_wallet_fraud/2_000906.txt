@@ -1,0 +1,10 @@
+caller: Hello sir, is this Raj Sharma? We’ve noticed some unusual activity on your FreeCharge wallet.
+receiver: Haan, woh mein hoon. Unusual activity? Kya hua?
+caller: Sir, to secure your account, we need you to quickly verify your identity. A cashback offer of ₹500 is also available for verified users. Just a small verification process.
+receiver: Cashback? ₹500? Verification ka kya karna hai? OTP mangoge kya?
+caller: No OTP, sir. Very simple. Just need you to click on a link and update your KYC details – just your address and a selfie. It's a government initiative for faster transactions. I’ll send the link. freecharge.updates.info/verify
+receiver: KYC details? Selfie? FreeCharge toh aise verification karta nahi hai. Lagta hai kuch gadbad hai.
+caller: Sir, please don’t delay. Your account will be temporarily suspended if you don’t verify within the next 30 minutes. This is urgent to protect your funds and claim the cashback. Go ahead, sir. It’s safe.
+receiver: Wait a minute... I’m not clicking any links. I’ll just call FreeCharge customer care directly.
+caller: Sir, you are wasting your time. The customer care is busy. This is the only way to secure your account and get your cashback.
+receiver: I think I will just report this as spam.

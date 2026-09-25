@@ -1,0 +1,14 @@
+caller: Arey yaar, aapko pata hai na, online shopping karte samay, kabhi-kabhi fake product listings dekhate hain, hai na?
+receiver: Haan, bilkul. Maine bhi bahut sawari hai, aur mujhe bhi logon ne fake products dene ki puri ki thi.
+caller: Exactly! Isliye main soch raha tha, yeh SMSalerts bhi same type ka hai.  Yeh alerts kaise dete hain, usmein bhi koi fraud happening hai kya?  Main aajkal isse bhi worried hoon.
+receiver: Woh jaanta hoon, maine bhi suna hai.  Log SMS alerts par bhi fake deals batate hain, aur people money lose karte hain.  It’s really frustrating.
+caller: Arre, seriously?  Mujhe laga tha yeh secure hai.  But now I’m thinking, maybe they’re just using this to collect data, like your name and number.  Kahaan se likhte hain, batao!
+receiver: Yaar, yeh bhi koi possibility hai.  They might be building a database, selling it to marketing companies.  That would be bad, isn’t it?
+caller: Haan, very bad indeed.  And think about it, if they are tracking our numbers, then they can also send spam messages too.  Ya phir, someone could misuse this for harassment.
+receiver: True, true.  Ye toh bohot serious issue hai.  Agar yeh alerts genuinely helpful hone ki jagah, harassment ka tool ban gaye toh…  Mujhe bhi tension ho gaya.
+caller: Exactly!  So, we need to find out who’s behind this SMSalerts service.  Ki woh kaise operate karte hain, iska investigation karna zaruri hai.  Bas, we shouldn’t reveal our identity.
+receiver: Haan, definitely.  We need to be careful.  Koi secret account bana le, aur slowly information collect karein.  But what if they block us?  Kya karenge?
+caller: Arre, woh toh pata hai.  Humne multiple accounts try karne huye.  Aur agar woh bhi block karein toh, we will just ignore them.  Don't give them any reaction.
+receiver: Okay, okay.  But still, yeh risk bahut zyada hai.  Kabhi bhi caught ho sakte hain.  Maybe we should just report it to cybercrime police?
+caller: Cybercrime police?  Haan, but they won’t take it seriously.  They have more important things to handle.  Let’s first try to understand the whole situation, and then decide.  First, let’s observe silently.
+receiver: Fine, silent observation.  Par mujhe ab bohot tension ho raha hai.

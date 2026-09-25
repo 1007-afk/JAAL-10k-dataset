@@ -1,0 +1,8 @@
+caller: Namaste sir, mai BharatPe se bol raha hoon. Aapke BharatPe wallet mein cashback offer ka message aaya hai kya?
+receiver: BharatPe? Haan, mujhe koi message aaya tha. Kya offer hai?
+caller: Ji sir, ek naya ‘Lucky Draw’ offer start hua hai BharatPe users ke liye. Aapke wallet mein ₹100 bhi honge toh aap Lucky Draw mein participate kar sakte hain aur ₹5000 tak ka prize jeet sakte hain.
+receiver: ₹5000? Kya pata, scam toh nahi hai yeh? BharatPe toh direct message karta hai na?
+caller: Bilkul sir, scam nahi hai. Yeh ek promotional offer hai. Participate karne ke liye, aapko sirf ₹50 processing fee bharani hai. Fee bharne ke baad, aapka naam Lucky Draw mein register ho jayega.
+receiver: ₹50 fee? Aur woh refund nahi hoga agar draw mein naam nahi aaye toh? Yeh zyada lag raha hai.
+caller: Sir, ₹50 fee BharatPe system ko maintain karne ke liye lagti hai. Agar aap prize jeet jate hain toh fee back ho jayegi, lekin draw mein naam nahi aane par fee non-refundable hogi.
+receiver: Theek hai, theek hai. Payment karne ka kya tareeka hai? Koi link bhejo ya QR code?

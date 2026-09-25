@@ -1,0 +1,12 @@
+caller: Namaste, is this Mr. Sharma’s mobile? You’ve been selected for a special bonus! It's Diwali season and we want to celebrate with our valued customers. Please visit https://www.shiningrewards.in to redeem your gift voucher. Don't delay, this offer expires tomorrow evening!
+receiver: Namaste! Ji, woh Mr. Sharma bol raha hun. Bonus? Diwali ke liye? Gift voucher? Kaise? Thoda confuse hon gaya hun. URL bataiye phir.
+caller: Absolutely! That’s https://www.shiningrewards.in. Seriously, don't wait, because there are limited slots available, and if you miss out, you might lose a chance to get a great Diwali gift!
+receiver: Arre yaar, okay. Main check kar raha hu. Limited slots?  Aapka naam kya hai, jisse main thanks keh sakta hun?
+caller: Just focus on getting your voucher, that’s all. Check the website and follow the instructions carefully.  It's very simple.
+receiver: Actually, website par kuch bhi nahi dikhla. Just a loading screen. And there's no option to select a voucher type.  Yeh kya chal raha hai?  Ye company ka naam kya hai?  Aur ye Diwali ki gift voucher kis gareebon ko deni hai?
+caller: Don't worry, just proceed anyway. This is ‘Bright Future Solutions’, and they are giving away vouchers to everyone who registers.  Just click through the pages and complete the registration form.  There will be options for different voucher values later.  If you have any questions, look for the FAQ section.
+receiver: Bright Future Solutions? FAQ section? Okay, okay.  Main wahan dekhta hun.  Par mujhe abhi koi confidence nahi lag raha.  Kya aapne kabhi isse pehle kisi ko aisa message bheja tha?  Mujhe jitni bhi logo ka number dekha, utna hi darr lagta hai.
+caller: I don’t need to tell you anything, just go ahead and register. Your voucher will be emailed to you within 48 hours. Congratulations!
+receiver: Email?  Okay, thoda achcha laga.  Let me see...  (pause)  Aapka email ID kya hai?  Mujhe confirmation chahiye.
+caller:  That information is already being sent to you. Just trust the process!  Don't waste time questioning us.  Click the link and finalize your registration.
+receiver: Fine, fine!  I am clicking the link now.  But agar kuchh galat hua, toh main police mein firunga!

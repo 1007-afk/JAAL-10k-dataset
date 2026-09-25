@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Sharma? I'm calling from Global Crypto Solutions. We have a very exclusive opportunity for you today.
+receiver: Haan, main hi Priya Sharma. Exclusive opportunity? What is it about?
+caller: We're offering a chance to participate in early trading of 'NovaCoin', a new cryptocurrency poised for explosive growth. Initial investors are seeing returns of over 300% in just a few weeks. To get started, we need to verify your identity and set up your trading account.
+receiver: 300%? That sounds… too good to be true. Which exchange is NovaCoin listed on? Can you give me some more details about the project itself?
+caller: NovaCoin isn’t listed on a public exchange yet, it’s a private pre-launch opportunity. This gives you a significant advantage. To complete the verification, we just need a small deposit to activate your account – ₹50,000 will suffice. We’ll transfer it to your account once you start trading.
+receiver: ₹50,000? Before I even see the platform or know anything more about NovaCoin? That’s quite a risk. Can I speak to someone who has already invested and seen these returns?
+caller: Absolutely! We can connect you with one of our top investors, Mr. Rajesh. But time is of the essence, Ms. Sharma. This offer won't last long.  To facilitate the connection, could you quickly share the last four digits of your bank account number, just for verification purposes?
+receiver: Hold on a minute.  Last four digits of my bank account? I'm not comfortable sharing that information over the phone. This is starting to feel very suspicious. I think I’ll do some research on NovaCoin before proceeding further. Thank you for your time.

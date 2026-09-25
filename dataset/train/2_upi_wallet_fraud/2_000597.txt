@@ -1,0 +1,7 @@
+caller: Namaste! Suno ji, mai Axis Pay se bol raha hoon. Aapke Axis Pay wallet mein ₹3,800 ka refund aaya hai, lekin isko release karne ke liye ek small verification process complete karna hoga.
+receiver: Haan? Refund aaya hai? Mujhe toh koi notification nahi aaya. Kya verification hai?
+caller: Sir, security ke liye, aapko 'VERIFY' message 98123 pe send karna hai. ₹15 ka charge lagega, lekin ₹3,800 ka refund aapke account mein chala jayega immediately.
+receiver: ₹15 ka charge? Verification ke liye? Itna kam charge hai toh sahi lag raha hai, lekin mujhe Axis Pay se direct koi message nahi mila.
+caller: Sir, woh system error se nahi a raha hai kabhi-kabhi. Tension mat leiye. Is verification se aapka wallet secure ho jayega aur refund bhi release ho jayega. Bas 'VERIFY' send kijiye.
+receiver: Hmm... Okay, wait kar main check karta hoon. Mujhe ek second dedo apna Axis Pay app dekh kar.
+caller: Ji bilkul! Aap dekh lijiye. Jaldi kijiye, offer limited time ke liye hai.

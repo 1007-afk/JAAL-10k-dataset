@@ -1,0 +1,9 @@
+caller: Namaste! My name is Rohan, calling from QuickCashNow. We've noticed you recently applied for a personal loan online. Congratulations! You’ve been pre-approved for a loan up to ₹75,000. To finalize the process, we need to verify some details. Can I speak to the applicant, Mr. Verma?
+receiver: Haan, main Verma hi hoon. ₹75,000 ka loan? Kis website se apply kiya tha maine?
+caller: Wonderful! You applied through LoanConnect.in. We're partnering with them to offer exclusive loans. Now, to proceed, we need a small security deposit of ₹2,500 to activate your account and prevent fraud. This will be refunded immediately after loan disbursement. You can deposit it to the UPI ID: 888888@ybl.
+receiver: ₹2,500 security deposit? Loan milne se pehle? Main kabhi nahi suna.
+caller: Yes, Mr. Verma, it’s a standard procedure. Many applicants find it necessary. Without it, we can’t guarantee the loan’s security. Think of it as insurance.  We’re offering you a fantastic opportunity, don’t miss out!
+receiver: Hmm… yeh toh thoda funny lag raha hai. Koi proof dikhaiye ki aap QuickCashNow se hai.
+caller: Absolutely! I’ll send you a screenshot of our company registration certificate via SMS.  Just a moment… *pause*… There, you’ve received it.  Now, about that deposit… We have quite a few requests coming in, and slots are filling up fast.
+receiver: Okay, main soch raha hoon. Aap phone pe call kar sakte hai, agar koi problem ho toh.
+caller: Very smart, Mr. Verma. A secure transaction is crucial. Now, if you send

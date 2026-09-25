@@ -1,0 +1,6 @@
+caller: Namaste! Mera naam Inspector Rajan Sharma hai. Main Delhi Police Cyber Cell se bol raha hoon. Aapke naam par ek parcel aaya hai, jo illegal items se bhara hua hai.
+receiver: Kya? Illegal items? Mera parcel? Mainne toh koi parcel order nahi kiya tha. Yeh kaunsa parcel hai aur kahaa se aaya hai?
+caller: Ye parcel Gujarat se aaya hai, aur usmein suspicious materials mile hain jo narcotics trafficking se related hain. Aapko court mein present hona padega, ya phir hum aapko arrest kar sakte hain.
+receiver: Arrest? Court? Yeh kya mazaak hai? Mujhe toh kuch bhi samajh nahi aa raha hai. Main toh kabhi Gujarat nahi gaya, aur na hi koi illegal stuff mein involved hoon.
+caller: Look, we need to settle this matter quickly. To avoid legal complications, you need to pay a fine of ₹50,000 to clear your name. Aapko ek UPI ID dena hoga, ya phir bank account number.
+receiver: ₹50,000? Yeh toh bahot zyada hai! Aur main kisi ko apna bank account number ya UPI ID nahi de sakta. Mujhe police station ka naam aur officer ID chahiye. Agar tum sachche ho, toh woh dedo. Main dobara sochunga.

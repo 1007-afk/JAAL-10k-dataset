@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from BharatPe regarding a recent transaction on your account. A payment of ₹4,800 is pending verification.
+receiver: BharatPe? Payment? I didn't make any payment of that amount. What's the transaction about?
+caller: It's a cashback reward for referring a friend to BharatPe, ma’am. It's a limited-time offer. To release the funds and avoid reversal, we need to verify your BharatPe UPI PIN. It's just a one-time verification process.
+receiver: My UPI PIN? That sounds risky. I’ve heard about scams where people ask for UPI PINs. Are you sure this is genuine? Can you give me a reference number?
+caller: Ma’am, we understand your concern. This is a standard security procedure. The reference number is BP-VRF-7892. Please share just the 4-digit PIN, not the full UPI PIN. It’s crucial to complete this now, or the cashback will expire.
+receiver: Okay, BP-VRF-7892, right? Just the 4 digits? But I'm still a little unsure. Can you at least confirm the last four digits of my registered phone number?
+caller: Ma’am, due to security protocols, we can't disclose that information. It’s for your protection. Please provide the PIN quickly. The offer is expiring very fast. We’re just trying to secure your reward.

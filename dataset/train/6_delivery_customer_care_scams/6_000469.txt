@@ -1,0 +1,9 @@
+caller: Hello, good morning! This is Rajesh calling from QuickKart customer support. We've noticed a failed delivery attempt for a package addressed to you.
+receiver: QuickKart? Okay, what’s the issue? I was expecting a delivery today.
+caller: Yes, unfortunately, there was an incorrect OTP entered during the delivery confirmation process. The package is currently held at our local hub, and we need to verify your identity to release it.
+receiver: OTP? I didn’t receive any OTP. And I’m not sure what you mean by incorrect.
+caller: It’s a standard security measure, ma'am. To ensure the package reaches the correct recipient. We need you to visit secure-quickkart.com/verify and enter the OTP you received and your registered mobile number. There's a small delivery surcharge of ₹799 to clear the hold, payable via UPI.
+receiver: Hold on a second. Secure-quickkart.com? That doesn't look right. My QuickKart account shows no pending deliveries. And why a surcharge?
+caller: Ma'am, please don't delay! The package contains fragile items, and it’s being held securely. The surcharge is standard protocol for re-verification. Go to secure-quickkart.com/verify immediately. I can’t guarantee its safety if you delay further.
+receiver: This feels very fishy. I'm going to contact QuickKart directly through their official website. Thank you for nothing.
+caller: Ma'am, just one moment! As a valued QuickKart customer, we can waive the surcharge if you confirm your date of birth right now. It’s a limited-time offer!

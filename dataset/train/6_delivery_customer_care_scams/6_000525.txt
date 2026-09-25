@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? I'm calling from Bluebird Courier regarding a package for you from Meesho. It seems there's a delivery issue – the address is unclear.
+receiver: Haan, main Sharma bolta hoon. Meesho ka package? Mujhe koi order yaad nahi aa raha. Kya hua?
+caller: Sir, the tracking number is ME3498271. It's a high-value item, and we need to verify your details quickly to avoid return to sender. We have a small outstanding customs clearance fee of ₹750 to process the delivery.
+receiver: ₹750? Customs clearance? Meesho toh free delivery deta hai na? Koi proof hai ki mai ne order kiya tha?
+caller: Sir, new regulations. We’ll send you a secure link via SMS to complete the payment. It's essential to avoid delays. Just one moment while I send it… The number is 9876543210. Please check your SMS now.
+receiver: SMS aaya hai. Lekin link kuch suspicious lag raha hai. Main payment nahi karunga jab tak mai verify nahi kar leta. Kya mai Meesho se direct baat kar sakta hoon?
+caller: Sir, please don’t delay. The system is time-sensitive, and we don't want to lose your package. This is a one-time clearance. Payment karna hai toh karo, warna parcel wapas jayega. It’s for your benefit, sir.
+receiver: Theek hai, ek minute. Mai Meesho customer care se baat karta hoon.
+caller: Sir, please hurry! The delivery truck is nearby. Missing the payment means you'll lose the package!

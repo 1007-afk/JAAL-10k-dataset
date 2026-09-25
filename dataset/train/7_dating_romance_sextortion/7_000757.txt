@@ -1,0 +1,9 @@
+caller: Namaste! I hope you're having a wonderful day. I saw your profile on 'HeartConnect' and felt a strong connection. You seem like a very interesting person.
+receiver: Hello! That’s sweet to hear. Thanks! It's been a decent day so far. What made you reach out?
+caller: Well, your smile just lit up my screen! I’m Rohan, by the way. I'm a photographer, travelling through the Himalayas right now, capturing the beauty. Just got a job offer in Zurich, Switzerland – pretty exciting!
+receiver: That sounds amazing! Switzerland, wow! Photography is a great passion. I'm Priya, by the way. Glad we connected.
+caller: Priya! Lovely name. Listen, I'm in a bit of a tricky situation. My bank is being incredibly difficult with the transfer for my visa application. They need an urgent small sum to verify the account - just 15,000 rupees. Could you possibly help me out temporarily? I’ll repay you the moment the transfer clears, promise!
+receiver: 15,000 rupees? That's quite a bit, Rohan. And you're in the Himalayas with a limited connection, right? How can I be sure this is legitimate? Plus, you just messaged me!
+caller: I understand your concern, Priya. It’s a bit embarrassing, honestly. I'm using a satellite connection, which is why it's patchy. I can send you a screenshot of the bank's request, and my ID. Please, it would really help me secure this opportunity. It’s a dream job for me!
+receiver: Okay, send the screenshot. But I’m still hesitant. It's a big ask from someone I just met.
+caller: Absolutely, here's the screenshot, Priya. (Attachment:

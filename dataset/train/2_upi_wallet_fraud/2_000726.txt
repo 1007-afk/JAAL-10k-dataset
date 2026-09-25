@@ -1,0 +1,8 @@
+caller: Namaste! Main Google Pay se bol raha hoon. Aapke Google Pay wallet mein ek suspicious login attempt hua hai.
+receiver: Kya? Kisi ne try kiya? Main abhi check karta hoon.
+caller: Haan sir, aaj subah. Aapko account secure rakhne ke liye, humein kuch verification steps karne honge. Sirf 50 rupees ka OTP verification fee hai.
+receiver: 50 rupees? Verification fee? Google Pay toh kabhi bhi fee nahi lete. Yeh kuch gadbad lagi.
+caller: Sir, security protocol update hone ke baad, ab verification ke liye fee apply ho rahi hai. Yeh sirf ek temporary measure hai. Aapko jald se jald complete karna hoga, warna aapka account suspend ho jayega. Aapka OTP 528493 hai.
+receiver: Suspend? Arey, wait a minute! Main Google Pay app mein khud check karta hoon. Aap mat bolenge.
+caller: Sir, zyada late mat karein. Account suspend hone se pehle OTP verify kar lijiye. 50 rupees ka loss se behtar hai account ka loss. Aapka time bahut kam hai.
+receiver: Theek hai, main check karta hoon, par mujhe yeh sahi nahi lag raha.

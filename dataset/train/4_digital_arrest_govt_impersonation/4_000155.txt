@@ -1,0 +1,8 @@
+caller: Namaste. Mera naam Inspector Verma hai, CBI se. Aapko ek legal matter mein cooperation ki zaroorat hai. Aapke naam par ek parcel registered hai, jo illegal items se filled hai.
+receiver: CBI? Illegal parcel? Mujhe kuch pata nahi hai. Main kabhi parcel order nahi kiya.
+caller: Ye matter serious hai, Madam. Aapko urgently ek video call pe join karna hoga. Department ko poore details chahiye. Call this number: 9789012345 aur video call ke liye ready rahein. Waise, aapka naam kya hai?
+receiver: Meri naam Neha Gupta hai. Par mujhe koi parcel nahi mila. Aur main kisi illegal cheez mein nahi phasna chahti.
+caller: Neha Gupta, achha. Dekhiye, video call mein hum aapko sab explain karenge. Thoda sa fine lag sakta hai, 15,000 Rupees, legal process ko clear karne ke liye. Payment detail aapko call par milega. Hurry up.
+receiver: 15,000 Rupees? Ye fraud hai! Main police mein complaint karungi! Aapko meri ek bhi rupee nahi milne wala.
+caller: Police? Police ko kya pata? Ye confidential matter hai. Aapko call karna hai, aur sab clear karna hai. Otherwise, aapke khate mein freeze ho sakta hai. 9789012345 pe call karein. Time is running out.
+receiver: Mujhe tumhari call block karne do! Aur kisi ko bhi is number se alert karungi.

@@ -1,0 +1,7 @@
+caller: Namaste, suniye! Main Paytm Helpline se Rahul bol raha hoon. Aapke Paytm wallet mein ek unusual transaction mila hai - ₹7,500 Amazon Gift Card purchase. Kya aapne kiya tha?
+receiver: Paytm? Haan, main Paytm use karta hoon. Lekin main Amazon Gift Card nahi kharida.
+caller: Hmm, to shayad koi fraud activity ho rahi hai. Immediately block karne ke liye, mujhe aapke account se linked OTP chahiye. Woh Paytm app mein mil jayega.
+receiver: OTP? Par aise kaise? Mujhe toh kuch samajh nahi aa raha hai. Mein ekdam se suspicious ho gaya hoon.
+caller: Sir, please! Jaldi karo. Account block ho jayega aur paise bhi chale jayenge. OTP batao, main sab theek kar dunga.
+receiver: Nahin, mein koi OTP nahi dunga. Tumhara phone number bhi Paytm ka official number nahi lag raha hai. Mein abhi Paytm customer care number pe khud call karta hoon.
+caller: Sir, mat karo! Yeh last chance hai! Agar aap cooperate nahi karenge, to humko police mein report karna padega. Aapko zyada trouble hoga!

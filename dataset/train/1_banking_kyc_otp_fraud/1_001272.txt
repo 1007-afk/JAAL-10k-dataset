@@ -1,0 +1,8 @@
+caller: Namaste, this is Priya Sharma calling from SecurePay Solutions. We’ve noticed some unusual activity on your PayTrust digital wallet linked to your HDFC Bank account. We need to verify a few details urgently to prevent potential fraud.
+receiver: Hello? Haan, who is speaking? What unusual activity? My account is fine, I think.
+caller: Ji haanji, Priya Sharma. We've detected a few small transactions originating from an unknown IP address. Just to be safe, we need to quickly confirm your Aadhaar OTP for security purposes. Can you share it with me?
+receiver: Aadhaar OTP? Why do you need my Aadhaar OTP? That seems very risky. I've heard about these scams.
+caller: Ma’am, it’s a standard security protocol. Our system flagged the transactions, and it's essential to verify your identity immediately. Account suspension is possible if we can't confirm your details within the next five minutes. We are working to protect your money. Can you please provide the OTP?
+receiver: Hold on a second. Let me check something… *pause* Is there any transaction showing on my PayTrust app? I’m checking now.
+caller: Ma'am, please hurry! The system is about to lock your account. We need that OTP immediately to prevent further unauthorized access. We are doing everything we can. Just give me the number.
+receiver: This is definitely a scam! I’m reporting this number to the cybercrime cell.

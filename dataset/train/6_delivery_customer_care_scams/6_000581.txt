@@ -1,0 +1,8 @@
+caller: Namaste! Main Airtel customer care se Rahul bol raha hoon. Aapke Airtel postpaid account mein ek suspicious transaction detect hua hai. ₹5000 ka deduction hua hai.
+receiver: ₹5000? Kaise? Mujhe toh koi message nahi aaya. Main toh phone hardly use karta hoon.
+caller: Haan sir, kuch hackers ne try kiya tha, par humne time par detect kar liya. Security ke liye, aapko ek OTP verify karna hoga. Main aapko OTP send karunga, woh bataiye.
+receiver: Wait, hold on. Aap mujhe aapka employee ID bata sakte hain? Aur aap kis department se bol rahe hain? Airtel ka customer care number toh online available hai, main wahi call karta hoon.
+caller: Sir, employee ID bataane ki rule nahi hai. Yeh security protocol hai. Ab OTP bataiye taaki aapke account ko secure kiya ja sake. ₹5000 ka refund process shuru karne ke liye OTP zaroori hai.
+receiver: ₹5000 ka refund? Toh aap OTP lene ke baad refund bhi karenge? Yeh thoda suspicious lag raha hai. Main abhi Airtel ke official number pe call karta hoon aur fir baat karta hoon.
+caller: Sir, time bahut kam hai. Hacker abhi bhi access karne ki koshish kar rahe hain. OTP jaldi bataiye! ₹5000 ka nuksan hone se pehle jaldi karein.
+receiver: Theek hai. Main abhi nahi bolunga. Aapka call cut kar raha hoon.

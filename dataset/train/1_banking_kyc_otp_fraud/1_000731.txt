@@ -1,0 +1,27 @@
+caller: Namaste sir, Airtel helpline se bol raha hu. Aapke number ki verification process chal rahi hai. Aapke phone par ek 5 digit PIN code aaega, wo bataiye please.
+receiver: Haan, ji? Dekhte hu...Haan, aa gaya. 82937. Aapse kaun baat kar rahe hain?
+caller: Ji sir, mera naam Priya hai. Thank you for confirming the PIN code. Abhi hum aapki account details ko check kar rahe hain. Kya aap mujhe apna registered landline number bata sakte hain?
+receiver: Haan, Priya. Mera registered landline number hai [apna registered landline number yahan daalein].
+caller: Thank you sir, for confirming your registered landline number. Ab hum aapki account ko further verify karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Haan, Priya. Mera registered email id hai ‘shyam.kumar@gmail.com’. Koi aur details chahiye?
+caller: Ji sir, aapki email id confirm ho gaya hai. Abhi aapko ek notification aa jayega, uspar click karke verification complete karni hai. Uske baad, hum aapki account par kuch exciting deals bhi provide karenge. Aapko koi aur query hai sir?
+receiver: Nahi Priya, aur koi query nahi hai. Bas yeh deals ki details thode bata sakte ho?
+caller: Namaste sir, Jio customer care se bol raha hu. Aapke number ki verification chal rahi hai. Aapke phone par ek 6 digit password aaega, wo bataiye please.
+receiver: Haan, ji? Dekhte hu…Haan, aa gaya. 987654. Aapse kaun baat kar rahe hain?
+caller: Ji sir, mera naam Rohan hai. Thank you for confirming the password. Abhi hum aapki account details ko update kar rahe hain. Kya aap mujhe apna registered home address bata sakte hain?
+receiver: Haan, Rohan. Mera registered home address hai [apna registered home address yahan daalein].
+caller: Thank you sir, for confirming your registered home address. Abhi hum aapki account ko secure karne ke liye, aapke registered bank account details cheque mein chahiye. Kya aap mujhe apna bank name bata sakte hain?
+receiver: Haan, Rohan. Mera bank name hai HDFC Bank. Koi aur details chahiye?
+caller: Ji sir, aapka bank name confirm ho gaya hai. Abhi aapko ek message aa jayega, uspar click karke verification complete karni hai. Uske baad, hum aapki account par cashback offers bhi offer karenge. Aapko koi aur query hai sir?
+receiver: Nahi Rohan, aur koi query nahi hai. Bas yeh offers ki details thode bata sakte ho?
+caller: Hello madam, BSNL helpline se bol raha hu. Aapke number ki activation chal rahi hai. Aapke phone par ek alphanumeric code aaega, wo bataiye please.
+receiver: Haan, ji? Dekhte hu...Haan, aa gaya. XYZ123. Aapse kaun baat kar rahe hain?
+caller: Ji madam, mera naam Kavita hai. Thank you for confirming the code. Abhi hum aapki account details ko verify kar rahe hain. Kya aap mujhe apna date of birth bata sakte hain?
+receiver: Haan, Kavita. Mera date of birth hai 15/08/1990.
+caller: Thank you madam, for confirming your date of birth. Abhi hum aapki account ko further activate karne ke liye, aapke registered Aadhaar card number pe ek request bhejeinge. Kya aap mujhe apna Aadhaar card number bata sakte hain?
+receiver: Haan, Kavita. Mera Aadhaar card number hai [apna Aadhaar card number yahan daalein].
+caller: Thank you madam, for confirming your Aadhaar card number. Abhi aapko ek SMS aa jayega, uspar click karke verification complete karni hai. Uske baad, hum aapki account par free data offers bhi de denge. Aapko koi aur query hai madam?
+receiver: Nahi Kavita, aur koi query nahi hai. Bas yeh offers ki details thode bata sakte ho?
+caller: Namaste sir, Tata Teleservices helpline se bol raha hu. Aapke number ki registration chal rahi hai. Aapke phone par ek 7 digit serial number aaega, wo bataiye please.
+receiver: Haan, ji? Dekhte hu...Haan, aa gaya. 1234567. Aapse kaun baat kar rahe hain?
+caller: Ji sir, mera naam Vijay hai. Thank you for confirming the serial number. Abhi hum

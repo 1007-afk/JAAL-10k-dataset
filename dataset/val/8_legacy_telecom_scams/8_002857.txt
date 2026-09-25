@@ -1,0 +1,17 @@
+caller: Arre sir ji, aapki worry mat karein ji! Main toh bas aapko help karna chahta hoon. Yeh offer toh bahut achha hai! Mein aapko apna number deta hoon – 07700 900000. Agar koi problem ho toh call karna, main ready hoon! Bolte rahein, bye bye ji!"
+caller: Okay, let’s do another one.
+receiver: Hello?
+caller: Namaste ji! Kaise hain aap? Main aaj aapko ek bahut hi supeerb offer dene jaa raha hun! Aapko free songs download karne ka chance mila sakta hai, absolutely free! Just need to tell me what kind of music you like, and we'll send it straight to your phone!
+receiver: Haan ji, bolde. Free songs? Thoda interesting hai. Kya ban gaya hai?
+caller: Arre yaar ji, yeh toh amazing hai! Aapko sirf yeh bataana hoga ki aapko kaunsa singer pasand hai, ya kaunsa genre pasand hai - Bollywood, Punjabi, Pop... Kuch bhi! Aur hum aapko direct mp3 file bhejen ge, aapko kuch bhi upload karna nahin hoga! First song totally free hai, just to test it out. And if you like it, then for only ₹50 per month, you get unlimited access to thousands of songs! What do you say? Which singer do you like most?
+receiver: ₹50 per month? Woh toh thoda expensive lag raha hai. Are you sure these are legal downloads? And what about viruses?
+caller: Sir ji, don’t worry about that! It’s all perfectly legal, guaranteed! These are old tracks, very popular, everyone is listening to them. No viruses, I promise! My name is Rajesh ji, and I am here to make your life easier. ₹50 is peanuts compared to the joy of having so many songs at your fingertips! Just tell me, who is your favorite singer? Maybe Lata Mangeshkar, or maybe someone newer like Arijit Singh?
+receiver: Arijit Singh ji? Actually, I quite like his voice. But ₹50 seems a bit too much for just one singer. Can you give me some sample songs by him first? Let's see how good they are.
+caller: Absolutely ji! I can definitely send you a few samples. How about “Tum Hi Ho” or “Channa Mereya”? Both huge hits by Arijit Singh. You’ll love them! Once you hear them, you’ll understand the value. After the first song, you can decide whether to subscribe or not. Now, which of those two songs would you like to hear first? “Tum Hi Ho” or “Channa Mereya”?
+receiver: “Tum Hi Ho” please. Send it over. But honestly, I’m a little suspicious. This sounds too good to be true.
+caller: Don’t be suspicious ji! Trust me, this is a fantastic deal. Here’s the link: [fake_link]. Just click on it and enjoy the music! Remember, the first song is completely free. If you like it, you know what to do.  Don't hesitate! Click now!
+receiver: Wait! Before I click anything, can you tell me where you are calling from? I want to verify this.
+caller: I'm calling from Mumbai ji, right here in the heart of the city! I'm based out of Bandra West. Just wanted to bring this amazing opportunity to you.  It's a simple process, really.  Just click the link and enjoy!  Time is running out – lots of people are signing up!
+receiver: Bandra West… okay. Still, I need to be careful. Give me your email address first. I’ll check it before I proceed.
+caller: Sure thing ji! My email is rajesh.music@example.com. Please check it carefully. Don't take any risk, ok?  Click the link and enjoy the music!  It’s waiting for you! Bye bye ji!”
+caller: Okay, let’s create another one.

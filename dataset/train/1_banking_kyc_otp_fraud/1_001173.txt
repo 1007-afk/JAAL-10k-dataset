@@ -1,0 +1,8 @@
+caller: Namaste Sir, mein ICICI Bank se Karan Malhotra bol raha hoon. Aapke naam par ek online transaction attempt kiya gaya hai jo suspicious lag raha hai.
+receiver: Haan, bolo. Kuch hua? Mein bank mein check kar sakta hoon.
+caller: Sir, aap bank mein jaane ki zaroorat nahi hai. Hum yahan se hi verify kar sakte hain. Aapka account suspend hone se pehle, mujhe aapke account details ki verification karni hogi.
+receiver: Account suspend? Kyon suspend hoga? Main toh koi transaction nahi kiya.
+caller: Sir, security protocols kehta hai.  Aap mujhe apna Aadhaar card ka last 4 digits bataiye, taaki main verify kar sakun.  Aapka account safe rahega, trust me.
+receiver: Mere Aadhaar number?  Yeh thoda risky lag raha hai.  ICICI Bank toh aise call nahi karta.
+caller: Sir, yeh ek emergency protocol hai.  Aapko ek OTP bhi bataana padega jo aapko registered mobile number par milega, verification ke liye.  Without this, your account will be blocked immediately.
+receiver: OTP? Main abhi nahi bata sakta.  Main call cut kar raha hoon aur bank branch mein jaonga.

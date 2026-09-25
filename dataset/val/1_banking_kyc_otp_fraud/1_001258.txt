@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Mr. Sharma? This is Ankit Verma calling from ICICI Bank’s KYC department.
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, there’s an urgent notice regarding your account. Due to new RBI regulations, we need to complete a mandatory KYC update. If we don't do this within 24 hours, your account will be temporarily suspended.
+receiver: Account suspend? Why wasn't I informed earlier? And why are you calling? I thought ICICI sends emails for these things.
+caller: Sir, the system detected unusual activity and flagged your account for immediate review. To prevent suspension, we need to quickly verify some details. Can you please provide your Aadhaar number for verification? It’s a standard procedure, sir.
+receiver: Aadhaar number? Over the phone? That doesn't sound right. I've always been told not to share that. What's your employee ID? And what branch are you calling from?
+caller: Sir, my employee ID is 789234. I’m calling from the ICICI Central Processing Unit in Pune. The suspension is very real, sir, and it will affect all your online transactions. We just need a few quick details to secure your account.
+receiver: Pune? I've never heard of an ICICI CPU in Pune. Let me check my ICICI app... Wait a minute. Something's not right here. I'm calling ICICI Bank directly.
+caller: Sir, please hurry! The deadline is approaching. Account suspension is imminent.

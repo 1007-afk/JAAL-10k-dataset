@@ -1,0 +1,12 @@
+caller: Namaste, this is Rohan from the Tata Consultancy Services recruitment team. I’m calling about your recent online application for the ‘Associate Software Developer’ position. Did you submit your resume through our portal recently? I have your information here, but just want to quickly double-check a few details.
+receiver: Hello? Actually, I think I did apply. My name is Anjali Verma. Could you please tell me what you need to verify?
+caller: Absolutely, Anjali. Thank you for confirming. I see your application for the Associate Software Developer role. Now, let's confirm your preferred contact number. Can you state the last five digits of your mobile number, please? We just need to ensure everything matches our records.
+receiver: Yes, of course. The last five digits of my mobile number are 67890. And is there anything else you require, sir?
+caller: That's perfect, thank you. One moment while I access your profile… Okay, now, regarding your educational qualifications, could you confirm the name of your university where you earned your degree?
+receiver: It’s Delhi Technological University. Are you checking my transcripts as well?
+caller: Not yet, just confirming the university name.  We also need to verify your current employment status. Are you currently employed anywhere, or are you looking for a new opportunity?
+receiver: I am currently working part-time at a bookstore. So, I'm not actively seeking a new job.
+caller: Okay, noted. Thank you for clarifying. Finally, to finalize the process, could you please confirm your date of birth – DD/MM/YYYY format?
+receiver: It’s 15/03/1998. Is this sufficient?
+caller: Wonderful! Thank you for your cooperation, Anjali. We’ll be in touch soon regarding the next steps. Have a good day.
+receiver: Thank you, Rohan. You too.

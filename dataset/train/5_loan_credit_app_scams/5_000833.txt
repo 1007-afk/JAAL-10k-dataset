@@ -1,0 +1,7 @@
+caller: Namaste! Ji, suno. Urgent loan offer! ₹50,000 - ₹2 Lakhs, bilkul instant approval. No CIBIL score check. Apna naam batao, aur kya requirements hai, pata karoonga.
+receiver: Hello, mera naam Rahul hai. Aur mujhe ₹75,000 ke aas paas ki loan chahiye thi, actually, business ke liye.
+caller: Rahul ji, business bahut achha idea hai! ₹75,000 toh aasaan hai. Tumhara phone number confirm karoonga? Aur batao, kitne saal se tum business kar rahe ho?
+receiver: Haan, phone number 9876543210 hai. Lekin main abhi-abhi start kar raha hoon, ek small shop open karne ki plan hai.
+caller: Bahut shandar! Okay, Rahul ji, loan approve ho gayi hai! Lekin processing fee ke liye ₹5,000 tumhari account mein transfer karne do. Payment karne ke baad main tumhe loan amount send kar dunga. Uske baad kabhi koi problem aaye toh tum mujhe call karo, number hai 9012345678.
+receiver: ₹5,000? Lekin maine toh abhi loan hi receive kar rahi hoon. Yeh kya hai?
+caller: Rahul ji, yeh rules hai. Every loan mein processing fee lagta hai. Agar tum loan nahi le rahe ho toh koi baat nahin, lekin fir loan approve nahi hoga. Jaldi karo! Number hai 9012345678.

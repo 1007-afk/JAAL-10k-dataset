@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? This is Akash from Zepto Rewards. We're doing a promotion where we're giving cashback to loyal customers. You've been selected for a ₹500 cashback bonus.
+receiver: Zepto Rewards? Mujhe toh koi notification nahi mila. Kaise pata ki main loyal customer hoon?
+caller: Ma'am, our system automatically identifies loyal users. To claim your ₹500 cashback, we just need to verify your account. It's a simple process. Can you please tell me the last four digits of your bank account number associated with Zepto?
+receiver: Bank account number? Zepto mein bank account number ki kya zarurat hai? Main toh sirf grocery order karti hoon. Yeh thoda suspicious lag raha hai.
+caller: Ma'am, it’s just to ensure it's your account and prevent fraud. This is a standard security protocol. Once we verify, the ₹500 cashback will be instantly credited to your Zepto Pay wallet. Just the last four digits please, for verification? We’re also giving a small bonus of extra 50 rupees if you verify now.
+receiver: 50 rupees extra? Okay, fine. Last four digits are… 4587. Par, cashback kaise milega, woh bataiye?
+caller: Excellent, Ma'am! Now, for the cashback to reflect immediately, we need you to complete a small verification on a secure link. It’s very quick, just a couple of clicks. Please click on this link: bit.ly/zepto-verify. It's crucial to do it quickly as this offer is ending soon.
+receiver: Bit.ly link? Main is link par click nahi karungi! Yeh phishing lag raha hai. Main Zepto customer care ko report karungi.

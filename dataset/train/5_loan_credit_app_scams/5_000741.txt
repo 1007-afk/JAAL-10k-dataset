@@ -1,0 +1,7 @@
+caller: Namaste, this is Sunny from QuickCash Solutions. We’re offering instant loans to help people with urgent needs. Are you facing any financial difficulties right now?
+receiver: Hello, yes, actually I'm a little short on funds this month. My daughter's school fees are due.
+caller: I understand, madam. QuickCash Solutions can assist you with that. We can offer you a loan of up to ₹15,000 with a very minimal processing fee. Just a simple application, and the money will be in your account within an hour.
+receiver: That sounds good. What kind of documents do I need to provide?
+caller: For verification purposes only, we require a copy of your PAN card and a selfie holding the card. Also, a small OTP verification. We are taking care of you.
+receiver: Wait, a selfie with my PAN card? That seems a little risky.
+caller: Madam, don’t worry, it’s a standard security measure. If you don’t cooperate, we will cancel the loan immediately, and someone else will be happier to receive it. This is a very limited-time offer.

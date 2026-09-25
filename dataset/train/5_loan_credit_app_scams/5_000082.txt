@@ -1,0 +1,11 @@
+caller: Hello, is this Priya Sharma? We’ve approved your loan application through ‘InstantCashPro’. Congratulations!
+receiver: Oh, really? That’s great news! I applied for a small loan, just ₹8,000.
+caller: Yes, Priya ji. But to activate the loan and prevent fraud, we need to verify your details. Could you please share the last four digits of your bank account number?
+receiver: Sure, it’s 4782. Is this secure?
+caller: Absolutely secure, Priya ji. Now, to finalize the process, we require a small processing fee of ₹500 as a refundable security deposit. Please transfer it to the UPI ID: 9876543210@axisbank.
+receiver: ₹500? But the app didn't mention anything about a processing fee.
+caller: It's a standard procedure, Priya ji. Many people are trying to misuse the system. This is to ensure your loan is legitimate. Once the loan is disbursed, we’ll refund it immediately. Please do it quickly, so we can process your loan.
+receiver: Okay, I'll transfer it. Just want to make sure this is legitimate.
+caller: Thank you, Priya ji. The transfer is showing as unsuccessful. Please try again. And also, send a screenshot of your Aadhar card and PAN card. We just want to quickly cross-check the details.
+receiver: Aadhar and PAN? That seems a bit much, doesn’t it?
+caller: Priya ji, delays can lead to loan cancellation. We are getting a lot of requests today. Send the documents and make the payment, or we will have to cancel the loan. Do you understand?

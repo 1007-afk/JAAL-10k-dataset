@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel customer care se Rahul bol raha hoon. Aapke Airtel account mein ek security breach ka attempt hua hai, aur hum aapko confirm karna chahte hain. Aapka account temporarily suspend kar diya gaya hai.
+receiver: Kya? Mere Airtel account mein breach? Main toh kuch nahi kiya. Suspension kyun kiya?
+caller: Ji bilkul, sir. Humne illegal activity detect ki hai. Aapko apna account restore karne ke liye kuch verification steps complete karne hain. Tabhi aapka account secure ho jayega.
+receiver: Aur woh steps kya hain? Mujhe urgent call karna padega Airtel customer care ko. Mujhe internet use karna hai.
+caller: Haan, sir. Verification ke liye, aapko humein ek OTP (One Time Password) provide karna hoga jo aapko Airtel se SMS karega. Aur ek small amount, ₹99 ka, payment verify karna hai, sirf ek baar. 
+receiver: ₹99 payment? OTP bhi? Sirf Airtel hi isko kar sakta hai. Main ek second hold karta hoon, aur Airtel helpline number pe call karta hoon. Wait karo. 
+caller: Sir, please hurry! Yeh offer sirf 3 minutes ke liye valid hai. Agar aap time se payment nahi karte, toh aapka account permanent block ho jayega. Please, OTP jaldi provide karein.

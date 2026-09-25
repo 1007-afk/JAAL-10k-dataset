@@ -1,0 +1,7 @@
+caller: Namaste, mai Paytm se Atul bol raha hoon. Aapke Paytm wallet mein ₹500 ka cashback offer hai. Jab aap ₹100 ka ek small transaction karte hain, toh aapka account ₹500 ka cashback jeet jayega.
+receiver: Paytm se? Cashback offer? ₹100 ka transaction? Matlab mai ₹100 Paytm wallet se kisi ko dhoon, aur mujhe ₹500 milenge?
+caller: Haan ji, bilkul! Yeh ek limited-time offer hai. Aapko bas ek payment link pe click karna hai aur ₹100 ka koi bhi transaction karna hai. Link yeh hai: paytm.cashback.in/offer123. Jaldi karein, offer jaldi hi khatam hogi!
+receiver: Paytm.cashback.in? Yeh toh Paytm ka official website nahi lag rahi. Aur ₹100 ka transaction karun? Koi OTP ya kuch aur bhi chahiye?
+caller: Bilkul secure hai, madam. Yeh Paytm ka partner website hai. OTP bilkul nahi chahiye. Bas ₹100 ka transaction karne se aapka account verify ho jayega aur cashback aapke wallet mein add ho jayega. Aur sirf 10 spots left hain!
+receiver: Partner website? Yeh bahut suspicious lag raha hai. Mai koi risk nahi lunga. Koi detail aur bataiye, jisse mein pata kar sakun ki yeh real hai ya nahi.
+caller: Dekhiye, hum details nahi bata sakte, yeh company policy hai. Aap trust kar sakte hain, yeh offer ek achhi opportunity hai. ₹100 invest karne se aap ₹500 kama sakte hain. Abhi transaction karein ya nahi?

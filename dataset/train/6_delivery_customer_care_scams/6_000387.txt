@@ -1,0 +1,6 @@
+caller: Namaste! Main BlueDart se Atul bol raha hoon. Aapke ek parcel ke saath ek problem hai. Payment address verify nahi ho raha hai.
+receiver: BlueDart? Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, dekhiye, system mein error aa raha hai. Aapko OTP verify karna padega, tabhi parcel deliver ho paayega.
+receiver: OTP? Kyu? BlueDart aise karta hai? Mujhe toh ye thoda fishy lag raha hai.
+caller:  Dekhiye madam, security ke liye hai. OTP 60 seconds mein expire ho jayega.  Aapka parcel mein rukwa di gayi hai, mujhe OTP bhej dijiye. Ye aapki security ke liye hi hai.
+receiver:  Theek hai, ek minute. Par mujhe confirm chahiye ki ye sach mein BlueDart se hi call hai. Mai BlueDart customer care number se check karungi.

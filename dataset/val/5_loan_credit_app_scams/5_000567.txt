@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? We’ve noticed a significant transaction attempt on your Paytm account. For security reasons, we need to verify some details immediately.
+receiver: Paytm? What transaction? I haven’t made any large transactions recently. Who is this?
+caller: This is Raj from Paytm security. There's a ₹15,000 payment pending to an unknown vendor. If you didn’t initiate this, we need to freeze your account to prevent further loss. Can you please share the last four digits of your linked bank account?
+receiver: ₹15,000? That’s a lot! I’m really worried now. But I’m not comfortable sharing my bank details over the phone. Is there another way to verify this?
+caller: Madam, time is critical. If you don't confirm now, we can’t guarantee your funds are safe. We just need a quick verification. Please, tell me the last four digits – it’s standard procedure. Also, can you tell me the OTP that just arrived on your phone? It’s for additional security.
+receiver: An OTP? I just got a message! It's 789012. But I still don’t feel right about giving you my bank details…
+caller: Perfect, Madam! Thank you for your cooperation. We are now temporarily freezing your account to investigate the suspicious transaction. To fully unlock it, you'll need to pay a small processing fee of ₹2,000 to ensure your account's complete security. Use UPI and send to this ID: securepay@xyzbank.
+receiver: ₹2,000? Seriously? This is getting more and more suspicious. I'm calling Paytm directly to confirm this.
+caller: Madam, do not delay! This offer is valid only for the next 10 minutes.

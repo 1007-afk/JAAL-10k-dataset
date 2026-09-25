@@ -1,0 +1,7 @@
+caller: Hello! Main Divya se baat kar raha hoon? I got your contact from a mutual friend, Priya. She said you’re really lovely and we should connect.
+receiver: Haan ji, main Divya hoon. Priya ne aapka naam nahi bataya mujhe. Koi baat nahi, hello to you too.
+caller: Great! Priya said you're into photography, right? I’m a huge fan too! I'm currently in Dubai for a business trip, it's gorgeous here. Just feeling a little homesick, you know?
+receiver: Haan, photography meri hobby hai. Dubai mein business trip? Bahut acha hoga! Mujhe toh yahan garmi se zyada koi matlab nahi hai.
+caller: It is beautiful, but expenses are piling up quickly. My company is being super slow with reimbursements. I really need to cover my hotel bill, it's almost 15,000 rupees. Could you possibly send me a little something to help me out? Just until I get paid, I promise to repay you as soon as I can.
+receiver: 15,000 rupees? Just like that? I don't know... It's a lot of money. Priya didn't mention anything about this. Let me think about it.
+caller: Please, Divya. I wouldn’t ask if I wasn't desperate. Think of it as helping a friend, someone Priya cares about. It would really mean the world to me. And I’ll send you some beautiful photos of Dubai, as a thank you!

@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul speaking from Axis Bank security. We’ve detected unusual activity on your account - several failed login attempts from a foreign IP address. For your safety, we need to verify your identity immediately to prevent unauthorized access.
+receiver: What? Failed login attempts? Where from? I haven't been doing anything unusual.
+caller: The attempts originated from Nigeria, sir. It's a high-risk area. To secure your funds and prevent account suspension, we need you to share the OTP we’ve just sent to your registered mobile number.
+receiver: OTP? But why? Shouldn’t I be calling the bank directly?
+caller: Sir, this is a standard verification procedure. Calling the bank could be intercepted by the fraudsters. Quickly share the OTP to protect your account. Your account will be frozen within the hour if we don’t hear back.
+receiver: Okay, okay. The OTP is 123456. Hopefully, that’s done it.
+caller: Thank you, sir. Now, for further verification, could you please provide the last four digits of your PAN card? It’s a routine security check.

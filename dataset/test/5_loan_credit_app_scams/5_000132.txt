@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from QuickCashLoans. We've noticed you applied for a loan recently and there’s a small verification process. Can I get your name please?
+receiver: Yes, hello. My name is Anjali Sharma. What verification process?
+caller: Ms. Sharma, to finalize your loan approval of ₹25,000, we just need to confirm a small processing fee. It’s a one-time charge of ₹2,500 to activate your account. You can transfer it to the UPI ID: secureloan.pay.
+receiver: Two thousand five hundred rupees? Just to activate? That seems like a lot upfront. I thought loans were given *after* verification.
+caller: Yes, but this fee secures your position in the queue and confirms your commitment. We've had issues with people not being serious about the loan. Once you’ve made the payment, we'll release the funds immediately. Don't delay, Ms. Sharma, the offer is valid only for the next hour.
+receiver: Okay, wait a moment. I'm a little unsure about this. Can I speak to someone else about it?
+caller: Ms. Sharma, delaying will mean losing the opportunity. Many others are waiting for this offer. Also, if you don’t pay this fee, we’ll have to report your application as fraudulent and send a notice to your family contacts about your loan application history. It’s best to just complete the payment quickly.

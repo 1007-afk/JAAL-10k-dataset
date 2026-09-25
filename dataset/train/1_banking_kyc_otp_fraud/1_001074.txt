@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? I’m calling from Paytm Secure. We’ve noticed unusual login attempts on your Paytm account from an unknown device in Kolkata.
+receiver: Haan, main hi hoon. Kya hua? Kolkata se attempt? Mujhe toh koi idea nahi hai.
+caller: Ji, Mr. Sharma. Our system flagged several attempts to reset your password and access your linked bank account. To prevent unauthorized access and protect your funds, we need to verify your identity immediately. We need you to share the OTP we are sending to your registered mobile number.
+receiver: OTP? Abhi ek minute, dekhne do message aata hai kya… Haan, aaya OTP. Par kyun OTP? Verification ke aur bhi tareeke toh hote hain.
+caller: Sir, this is the fastest and most secure way to verify. We understand your concern, but time is of the essence. These attempts are still ongoing, and if we don't verify your identity now, your account could be compromised. Please share the OTP so we can lock the account.
+receiver: Okay, the OTP is 487295. Par mujhe abhi bhi thoda dar lag raha hai. Kya aap mujhe koi reference number de sakte hain ya koi number jisse main baad mein Paytm se baat kar sakta hoon?
+caller: Thank you, Mr. Sharma. The account is now secured. Your reference number is PS-789012. You can also visit our help center on the Paytm app for further assistance. However, just to be absolutely sure, could you quickly confirm the last three digits of your PAN card?
+receiver: PAN card? Sir, mujhe yeh zyada fishy lag raha hai. Main abhi call cut kar raha hoon.
+caller: Wait, Mr. Sharma! This is your last chance to secure your account. If you don’t cooperate, we’ll have to report your account

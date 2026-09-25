@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Deepak bol raha hoon. Aapke naam par ek OTP aaya hai, lekin system mein verification pending hai. ₹5000 ka transaction block ho gaya hai, aur aapko yeh confirm karna hoga.
+receiver: ₹5000? Block ho gaya? Lekin mujhe koi OTP nahi mila. Aur main Axis Bank ka customer hu to direct bank se call aati hai na?
+caller: Haanji, OTP SMS mein aaya hoga, check karein. Jo transaction block hua hai woh Amazon pe hua hai. Security ke liye, aapko apna UPI ID aur last 4 digits ka ATM card number batao, taaki hum confirm kar saken ki aap sahi bol rahe hain.
+receiver: ATM card number? Woh kyun bataun? Mujhe toh yeh kuch bhi galat lag raha hai. Axis Bank kabhi card number nahi puchega.
+caller: Sir, yeh emergency hai. Agar aapko transaction confirm nahi karte, toh account freeze ho sakta hai. ₹5000 ka loss hoga aapko.  Just UPI ID bata dijiye, bas.
+receiver: Freeze ho sakta hai? Par aise kaise? Mein police mein report kar dunga agar kuch bhi hua. Tumhara voice koi familiar nahi hai.
+caller: Sir, please cooperate.  ₹5000 ka loss nahi chahiye aapko?  UPI ID bata dijiye, main aapko verification code de dunga. Iske baad sab sorted ho jayega.

@@ -1,0 +1,14 @@
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hum aapke liye ek amazing deal lekar aaye hain! Aapko mil sakta hai ek free smart watch, saath mein 30% tak discount line rental ke liye 6 month, aur unlimited data access aur 200 calls! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achcha laga. Smart watch free mein, line rental mein discount...yeh sab kaise milega?
+caller: Haan ji, yeh sab aapko dekho, humare ek special promotion ke through milega. Agar aap currently Reliance Jio ka user hain, toh yeh offer aapke liye jald hi sahi option hai. Sirf ek small process follow karne honge. Kya aap interest rakhe hue hain yeh details sunne mein?
+receiver: Haan ji, bilkul interest rakha hoon. Batao, mujhe bataayein ye kaise kaam karega?
+caller: Wonderful! To get started, hamein aapke identity ko verify karne hone par hai. Please tell me your full name and your registered mobile number. Yeh madad hogi agar aapko offer apply karne mein.
+receiver: Mera naam hai Priya Patel, aur meri registered mobile number hai 8765432109. Verification complete ho gaya?
+caller: Dhanyavaad Priya ji! Aapki verification complete ho gayi hai aur aap is offer ke liye totally eligible hain. Abhi humein bas aapke bank account ka kuch information chahiye. Kya aapke paas aapka bank statement readily available hai?
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hum aapke liye ek amazing deal lekar aaye hain! Aapko mil sakta hai ek free smart watch, saath mein 30% tak discount line rental ke liye 6 month, aur unlimited data access aur 200 calls! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achcha laga. Smart watch free mein, line rental mein discount...yeh sab kaise milega?
+caller: Haan ji, yeh sab aapko dekho, humare ek special promotion ke through milega. Agar aap currently Reliance Jio ka user hain, toh yeh offer aapke liye jald hi sahi option hai. Sirf ek small process follow karne honge. Kya aap interest rakhe hue hain yeh details sunne mein?
+receiver: Haan ji, bilkul interest rakha hoon. Batao, mujhe bataayein ye kaise kaam karega?
+caller: Wonderful! To get started, hamein aapke identity ko verify karne hone par hai. Please tell me your full name and your registered mobile number. Yeh madad hogi agar aapko offer apply karne mein.
+receiver: Mera naam hai Priya Patel, aur meri registered mobile number hai 8765432109. Verification complete ho gaya?
+caller: Dhanyavaad Priya ji! Aapki verification complete ho gayi hai aur aap is offer ke liye totally eligible hain. Abhi humein bas aapke bank account ka kuch information chahiye. Kya aapke paas aapka bank statement readily available hai?

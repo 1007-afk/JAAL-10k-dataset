@@ -1,0 +1,11 @@
+caller: Namaste! Mai Flipkart customer care se Rahul bol raha hoon. Aapka naam Rajesh Verma hai, correct?
+receiver: Haan ji, woh correct hai. Kya baat hai?
+caller: Rajesh ji, aapne recently ek smart TV order kiya tha, right? Hamari system mein dikh raha hai ki payment fail ho gaya tha, aur package delivery ke liye rakha gaya hai.
+receiver: Payment fail? Maine payment karta hi tha.
+caller: Haan sir, technical issue ki wajah se. Yeh solve karne ke liye, mujhe aapka OTP pata karna hoga, taaki payment confirm ho sake aur TV deliver ho jaye.
+receiver: OTP? Mujhe toh koi SMS aaya nahi.
+caller: Sir, ek baar check karein. Thoda wait karein. Aapka OTP 123456 hai. Confirm karein, please.
+receiver: Ek minute, main Flipkart app check karta hoon.
+caller: Sir, jaldi karein, package warehouse mein rakha gaya hai aur delivery ka time limit hai.
+receiver: (Silence)
+caller: Rajesh ji? Aapka OTP confirm ho gaya?

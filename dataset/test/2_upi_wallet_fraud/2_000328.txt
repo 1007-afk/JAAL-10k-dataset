@@ -1,0 +1,7 @@
+caller: Namaste! Mein BharatPe support se baat kar rahi hoon. Aapke BharatPe account mein kuch suspicious activity detect hui hai. Aapka account suspend karne ke liye process start ho gaya hai.
+receiver: Kya? Suspended? Mein toh bas kuch minutes pahle hi recharge kiya tha. Kya hua hai?
+caller: Ji, humein pata chala hai ki aapke account se ek unexpected transaction hua hai - 5000 rupees Paytm wallet mein transfer ho gaya hai. Security ke liye, humein aapke account ko suspend karna padega jab tak yeh transaction verify nahi ho jaata.
+receiver: 5000 rupees? Paytm mein? Mein toh aisa kuch bhi nahi kiya! Yeh toh fraud lag raha hai! Mujhe bataiye kya karna hai.
+caller:  Koi baat nahi, ji. Aapko sirf ek small verification process se guzarne ki zaroorat hai. Aapko ek OTP milna chahiye apna BharatPe registered number par.  Woh OTP mujhe bataiye taaki main aapke account ko reactivate kar sakun.
+receiver: OTP? Mein thoda confused hoon. Aap mujhe ek second wait karne do aur mein apna BharatPe app check karta hoon. Aur aap mujhe BharatPe helpline number de sakte hain kya, taaki main direct contact kar sakun?
+caller: Ji, aapko jaldi karna hai. OTP sirf 5 minute valid rahega. Agar aap verify nahi karenge toh aapka account permanent suspend ho jayega aur woh 5000 rupees bhi chala jayega. Aapko naya account create karna padega.

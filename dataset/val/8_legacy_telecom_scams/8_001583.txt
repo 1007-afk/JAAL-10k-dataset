@@ -1,0 +1,8 @@
+caller: Hello, how are you doing today? I hope you're having a fantastic day. I'm calling from TextComp, and I have some super exciting news for you regarding our weekly competition.
+receiver: Hello! I'm doing good, thanks for asking. A fantastic day it is! TextComp, you say? Exciting news sounds interesting. Tell me more!
+caller: That's great to hear! So, as you know, we have our £250 weekly competition running, and you've been randomly selected for a FREE entry. All you need to do is send the word ENTER to 88877 right now. It's super simple and you could be our next big winner!
+receiver: Wow, a FREE entry for the £250 competition? That's amazing! Okay, so I just need to text ENTER to 88877? Got it. Thanks for letting me know, this is genuinely exciting!
+caller: Bilkul! Bas ENTER text karna hai 88877 pe, aur aap free mein compete kar rahe hain hamare £250 ke prize ke liye. Aur ek baat, yeh offer bahut jaldi khatam ho jayega, aapke paas sirf 3 entries bachi hain. Toh der mat kijiye, abhi ENTER bhej dijiye!
+receiver: Oh, I see! Only 3 entries left, huh? That's a bit of a rush, but okay, I'm on it! Thanks for the heads-up. ENTER to 88877 it is!
+caller: Exactly! Bas teen entries bachi thi, aur ab aapke paas sirf DO entries bachi hain.  Time is ticking! Jaldi se ENTER bhej dijiye 88877 pe, warna yeh chance miss ho jayega.  Aapka naam kya hai, waise? Taaki main aapke record mein update kar sakoon.
+receiver: Oh, only TWO entries left now?  Okay, okay, I'm sending it!  My name is Rahul, by the way. Just sent it!

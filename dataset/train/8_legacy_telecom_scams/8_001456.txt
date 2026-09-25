@@ -1,0 +1,14 @@
+caller: Namaste! Sehrish ji, ek mahatvapurn khabar hai! Aap ne ‘Shinebox’ ki jackpot mein jeetne ke liye nirvachit kiya gaya hai - 750 rupees ki Shinebox vouchers ka ek set! Jeetne ke liye, sirf 4 asaan sawaale ka jawab dena hai. Yeh bahut saraasari hai, aur aap apne purse mein shinebox vouchers dekh sakein ge.  Yeh khelne ke liye, apni mobile par ‘SHINE’ jo dikha jaye woh message karein 9876545432 pe.  Jisko jitnega, wo shine karega! Aur jismein jyada zaruri cheezein hain, wahi poora karne ke liye Shinebox mein vouchers use karein.  Aap kab tay ho rahi hain?
+receiver: Namaste! Wow, yeh sunkar mujhe bahut maza aa raha hai! 750 rupees ki Shinebox vouchers? Ye toh bahut achcha hai! Jeetne ke liye, mujhe sirf ‘SHINE’ message 9876545432 par jana hoga, sahi? Aur website par zyada jaankari hone ke liye shinebox.co.in dekhi jayegi.  Haan, main jaldi se tay ho rahi hoon.  Yeh bahut sundar lag raha hai!
+caller: Achha, ab tumhare paas ek aur asaan sawaal hai. Tumhara pasand ka colour kya hai? Warna ye bhi puch rahe hain ki aapke ghar mein kaunsa appliance sabse zyada hota hai.
+receiver: Colour? Hmm, mujhe blue warna bahut pasand hai. Woh peaceful aur calming hota hai. Aur ghar mein fridge aur washing machine toh har jagah hota hai.
+caller: Blue, acha! Warna, ab tumhare paas ek aur sawaal hai. Agar aapko koi ek sports team support karne ka mauka mile, toh woh kaun hogi? Koi bhi team ho sakti hai.
+receiver: Sports team? Hmm, yeh bhi mushkil hai. Lekin agar ek hi option select karna ho toh, main Mumbai Indians ko support karungi. Unka captain Rohit Sharma bahut acha cricketer hai aur unka performance bohat hi impressive hota hai.
+caller: Mumbai Indians! Wah! Bohot sundar selection hai.  Ab tumhare paas ek aur sawaal hai. Agar aapko koi ek book read karne ka mauka mile, toh woh kaunsi hogi?  Koi bhi genre ho sakta hai.
+receiver: Book? Hmm, agar koi ek novel read karne ka mauka mile toh main ‘The Midnight Library’ by Matt Haig padhati hun.  Woh bohot inspiring hoti hai aur dil mein bohot seedhe feeling hoti hai.
+caller: The Midnight Library, very interesting!  Phir ek sawaal: Agar aapko koi ek gadget buy karne ka mauka mile, toh aap kya buy karenge?  Koi bhi gadget ho sakta hai.
+receiver: Gadget? Hmm, agar koi smartphone buy karne ka mauka mile toh main Samsung Galaxy S23 buy karungi.  Woh bohot fast aur reliable hoti hai aur camera bhi bahut achha hai.
+caller: Samsung Galaxy S23, excellent!  Ab tumhare paas ek aur sawaal hai.  Agar aapko kisi bhi brand ka SUV buy karne ka mauka mile, then what would be your choice?
+receiver: SUV? Hmm… Toyota Land Cruiser Prado would be my choice.  It’s robust and gives me a sense of security.
+caller: Toyota Land Cruiser Prado, superb choice! Congratulations, you're officially a winner! You will receive your Shinebox vouchers within 7 days. Shukriya!
+receiver: Shukriya!  Mujhe bahut maza aaya!

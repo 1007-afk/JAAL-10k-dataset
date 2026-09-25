@@ -1,0 +1,7 @@
+caller: Hello sir, this is Vijay calling from FreePay Rewards. We’ve selected you for a special cashback offer on your next online purchase!
+receiver: FreePay? Cashback offer? Which purchase are you talking about? I haven’t bought anything recently.
+caller: Sir, it’s a random selection! We’re giving cashback to our loyal users. Just click this link to verify your eligibility and claim your reward: http://freepayrewards.win/cashback
+receiver: Wait a minute. This link looks a bit suspicious. And ‘random selection’? Why me? Can you tell me more about the offer?
+caller: Sir, it's a limited-time offer, just for you! The link will take you to the FreePay verification page. You just need to enter your UPI ID to confirm your account. No personal information needed, just your UPI ID. Very safe, sir! Claim your ₹500 cashback now before it's gone!
+receiver: My UPI ID? That sounds risky. Why do you need my UPI ID to verify a cashback offer? Can’t you just verify with my phone number or email? I'm really not comfortable sharing my UPI ID like this.
+caller: Sir, due to the high volume of requests, we need to verify through UPI ID only. It’s a security measure. If you don’t do it now, the offer will expire in 5 minutes and you’ll lose out on your ₹500!

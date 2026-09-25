@@ -1,0 +1,27 @@
+caller: Namaste! Hello? Is this Ms. Sharma? This is Priya from LuckyDraw Solutions, and we have incredible news for you! You’ve been selected to win a luxurious vacation package to Goa! Isn't that exciting?
+receiver: Namaste, Priya. Yes, this is Ms. Sharma.  LuckyDraw Solutions? Vacation to Goa? Really? Wow, congratulations! Thank you!
+caller: Absolutely, Ms. Sharma! It's a fantastic opportunity! We just need to complete a very small verification step to ensure everything goes smoothly. Could you spare a few minutes to talk about it?
+receiver: Sure, Priya. Tell me what needs to be done. Is there any form to fill out?
+caller: Wonderful! So, to send your prize to you, we need to verify your identity. It’s a quick and easy process – just a few details like your account number and a copy of your ID card. Would you be comfortable sharing that information with us?
+receiver: Okay, let's see. My name is Vivek Patel. And my address is… 45, Oak Street, Suburbia Heights.
+caller: Excellent, Vivek! Thank you. Now, could you provide your year of birth, please? This is purely for security purposes, to make sure you're the rightful winner.
+receiver: My year of birth is… 1988. Anything else?
+caller: Namaste! Hello? Is this Mr. Verma? This is Dev from PrizeTime India, and we have incredible news for you! You’ve been chosen as a lucky winner of a brand new Samsung Galaxy S23 Ultra smartphone! Isn’t that thrilling?
+receiver: Namaste, Dev. Yes, this is Mr. Verma. PrizeTime India? A Samsung Galaxy? Seriously? That’s great news! Thanks!
+caller: Absolutely, Mr. Verma! A top-of-the-line device just for you! But before we ship it out, we need to quickly verify your details to avoid any complications. Just a couple of questions, would you mind answering them for us?
+receiver: Sure, Dev. Let me know what you need. Is there any paperwork involved, or just a quick chat?
+caller: Perfect! To get your phone delivered safely, we require a brief confirmation of your personal information. Specifically, we need your postal code and a recent photograph of yourself holding a government-issued ID. Are you available to share those details now?
+receiver: Alright, let's do it. My name is Sanjay Kumar. And my address is… 78, Pine Lane, Cityville.
+caller: Fantastic, Sanjay! Thank you. And could you tell me your age, please? We just want to double-check that you’re the right person claiming this wonderful prize.
+receiver: My age is… 35. Anything further?
+caller: Hello? Hello, Mrs. Kapoor? This is Raj from Fortune Rewards, and we have some truly exciting news for you! You’ve been randomly selected to win a grand prize holiday to Dubai! Isn’t that fabulous?
+receiver: Hello, Raj. Yes, this is Mrs. Kapoor. Fortune Rewards? Dubai? Oh my goodness, really? Congratulations! Thank you so much!
+caller: Indeed, Mrs. Kapoor! A dream trip awaits you! However, to finalize the arrangements and ensure smooth delivery, we need to conduct a minimal verification process. Could you find a moment to speak with us briefly?
+receiver: Of course, Raj. Please go ahead and tell me what’s required. Is there a form I need to fill out?
+caller: Wonderful! To arrange your travel, we simply need to confirm some essential details. Namely, your mobile phone number and a copy of your driver’s license. Would you be willing to provide these details to us?
+receiver: Okay, let’s see. My name is Anjali Desai. And my address is… 9, Lavender Court, Silverton Heights.
+caller: Excellent, Anjali! Thank you. And could you kindly state your date of birth for verification purposes? This helps us confirm your eligibility for the prize.
+receiver: My date of birth is… June 2nd, 1978. What else do you need?
+caller: Namaste! Hello? Is this Mr. Singh? This is Sonu from SuperSweepstakes calling with some incredibly exciting news! You’ve won a brand new Honda Activa scooter! Isn’t that awesome?
+receiver: Namaste, Sonu. Yes, this is Mr. Singh. SuperSweepstakes? A Honda Activa? Wow, seriously? Thank you!
+caller: Absolutely, Mr. Singh!

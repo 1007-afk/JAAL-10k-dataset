@@ -1,0 +1,9 @@
+caller: Namaste! Mai Flipkart se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification mein thodi problem aa rahi hai.
+receiver: Oh, really? What kind of problem? I was expecting a delivery today.
+caller: Haanji, system mein dikh raha hai ki aapne jo address diya hai woh kuch mismatch ho raha hai. Aapko ek OTP mil jayega, woh OTP enter karne se hum verify kar lenge.
+receiver: Okay, fine. Send me the OTP. But I'm at home right now.
+caller: The OTP is 487295. Please enter it now so we can quickly resolve this and get your parcel delivered. Also, for security reasons, can you quickly confirm the last 4 digits of the card you used for the order?
+receiver: Wait a minute... I don't remember ordering anything from Flipkart recently. And why do you need my card details?
+caller: Ma'am, this is standard procedure. We need to verify the payment details to ensure your order is legitimate. Without this, we can't release the parcel. It contains some important documents. Please cooperate.
+receiver: I think something is wrong. I'm going to call Flipkart directly. Goodbye.
+caller: Ma’am, please don’t hang up! This is your last chance to secure your parcel. If you disconnect now, the parcel will be returned to the sender.  Please, just a few more details…

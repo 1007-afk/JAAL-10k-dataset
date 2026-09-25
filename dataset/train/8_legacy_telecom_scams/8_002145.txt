@@ -1,0 +1,8 @@
+caller: Hello? Hello? Can you hear me properly? I am calling regarding a special offer for 'Golden Melody' ringtone – it’s arriving on your phone very soon!
+receiver: Hello? Yes, I can hear you clearly. Golden Melody, really? That’s wonderful news! I was hoping for something new. Let me tell you, I’ve been waiting for this.
+caller: Haanji, bilkul! Just a few minutes more and it will be delivered. Are you Mr. Sharma? We have your details listed. We just want to double-check everything before sending it over. This ‘Golden Melody’ edition is incredibly popular, you'll absolutely love it, guaranteed! Anything bothering you regarding the download?
+receiver: Haanji, bilkul! Yes, my name is Rajesh Sharma. Thank you for confirming! And yes, I'm really looking forward to the ‘Golden Melody’. Everything seems fine so far. If there’s any issue, I'll definitely let you know. Thank you for checking.
+caller: Oh, excellent, Mr. Sharma! We need to perform a small verification process; it’s standard procedure, you understand. Could you please confirm if your mobile number ends in ...7892? Just a quick confirmation, that’s all.
+receiver: Haanji, bilkul! My mobile number does indeed end in ...7892. You’ve got the correct number! Thanks for being so precise, it’s reassuring.
+caller: Fantastic, Mr. Sharma! Now, accessing the ‘Golden Melody’ requires a unique temporary access code. We’re sending that code to you via SMS right now. Simply enter that code when you receive the notification. Easy, isn’t it? Any other questions?
+receiver: Oh, a temporary code? Okay, I’ll wait for the SMS. It sounds quite simple. No further questions at the moment. Thank you for providing all the information!

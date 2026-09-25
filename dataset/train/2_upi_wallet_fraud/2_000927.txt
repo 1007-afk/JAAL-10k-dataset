@@ -1,0 +1,8 @@
+caller: Hello, sir? Is this Raj Sharma? We're calling from BharatPay support. We’ve noticed some unusual activity on your BharatPay wallet.
+receiver: Haan, main Raj Sharma. Kya hua? Unusual activity? Main toh kuch bhi alag nahi kiya.
+caller: Ji, sir. There was a large attempted transfer from your wallet to a new account. We’ve temporarily frozen it as a security precaution. To reactivate it, you need to verify your identity with a small fee – just ₹250 – to confirm it’s really you.
+receiver: ₹250? Verify karne ke liye? Main BharatPay se aise call kabhi nahi mila. Aur account freeze hone ka message bhi nahi aaya.
+caller: Sir, this is a standard procedure. To prevent further fraudulent activity, we need to quickly verify. You can pay via UPI to this number: 7891234567. Just put BharatPay Verification as the note. Once that's done, we'll remove the freeze immediately.
+receiver: Theek hai, ek minute ruk jao. Main check karta hoon. ₹250 BharatPay verification ke liye? Is number pe direct payment? Mere BharatPay app mein to koi alert nahi dikh raha.
+caller: Sir, the app might be delayed. This is a priority check, sir. Think of it as a small insurance policy for your money! Just ₹250. Jaldi kijiye, sir, otherwise the freeze might become permanent.
+receiver: Permanent freeze? Sir, mujhe doubt ho raha hai. Main BharatPay customer care number se call karta hoon aur confirm karta hoon. Aap ka naam kya hai?

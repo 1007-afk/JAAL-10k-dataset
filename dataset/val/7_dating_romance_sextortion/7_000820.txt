@@ -1,0 +1,7 @@
+caller: Hey Priya! Long time no chat. Just wanted to share something exciting – I finally got approved for this overseas project in Germany! It's a huge opportunity.
+receiver: Oh wow, that’s amazing news! Germany? That’s fantastic! Congrats! What kind of project is it?
+caller: It’s a software development thing, very intense. The problem is, I need to send some documents urgently to the embassy, but my bank account is having some issues due to the sudden transfer they're doing for my advance. Just a temporary thing, you know how these things are. Could you possibly send me ₹50,000 as a small loan? I promise I’ll pay you back as soon as I get my salary here.
+receiver: ₹50,000? That's quite a bit, right? Is everything alright? Can't you manage with your existing funds for now? And why me, specifically?
+caller: Look, I know it’s a lot, but I’m in a real bind. It's super urgent – the deadline is tomorrow! And you're the only person I trust implicitly. Just a little help, Priya, please? It would mean the world to me. I'll send you proof of the transfer to the embassy once it goes through.
+receiver: Okay, fine. Send me your UPI ID, and I’ll transfer the amount right away. But you promise you’ll pay me back as soon as you can.
+caller: Thank you so much, Priya! You’re a lifesaver! Here’s my UPI: 9876543210@ybl. Send it quick! Once it’s done, I'll share the embassy confirmation with you. It's really important, please do it ASAP!

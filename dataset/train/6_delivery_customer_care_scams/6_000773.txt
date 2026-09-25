@@ -1,0 +1,7 @@
+caller: Namaste! Main Dinesh Verma, Blue Dart Courier se baat kar raha hoon. Aapke address par ek parcel aaya hai, lekin payment pending hai. Parcel number hai BD123456789IN.
+receiver: Hello? Payment pending? I don’t recall ordering anything. What’s the item and the approximate value?
+caller: Haan ji, sir! Yeh ek smart watch hai, Amazon se order kiya tha. Value ₹2800 hai. Payment confirm nahi hua hai, isliye parcel ruk gaya hai. Aapko parcel receive karne ke liye ₹750 clearing charge pay karna padega.
+receiver: ₹750? That seems high for a clearing charge. Can you give me a reference number or some way to verify this?
+caller: Sir, urgent hai! Agar aap abhi pay nahi karte, toh parcel return ho jayega. Main aapko ek secure link bhej raha hoon jahan aap payment kar sakte hain. ₹750 pay karne ke baad, parcel aapke address par deliver ho jayega within 2 hours.
+receiver: Okay, send me the link. But I’m very cautious, so I’ll double-check it before I enter any details.
+caller: Bilkul ji! Yeh hai link: bit.ly/secure-blue-dart-payment. Jaldi kijiye, sir! Offer limited time ke liye hai!

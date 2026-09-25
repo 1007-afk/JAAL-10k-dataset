@@ -1,0 +1,8 @@
+caller: Namaste, maiya. Main Cyber Crime Cell se Rahul Sharma bolta hoon. Aapke naam par ek parcel aa raha hai, lekin customs mein ek problem hai.
+receiver: Kya problem hai? Mujhe to parcel chahiye tha.
+caller: Parcel mein illegal drugs paaye gaye hain, madam. Yeh ek serious case hai. Aapko ₹7500 ka fine bhar na hoga, warna aapko arrest bhi kar lenge.
+receiver: Drugs? Mere parcel mein? Yeh kaise ho sakta hai? Main toh aise kuch order kiya hi nahi.
+caller: Dekhiye, madam, yeh network bahut complicated hai. Aapko online payment karna hoga, Paytm ya Google Pay se. Jaldi karo, case register ho gaya hai.
+receiver: ₹7500? Aur arrest bhi? Woh kis police station mein arrest hoga? Mujhe batao!
+caller: Madam, delay se case aur serious ho jayega. Aapko ₹7500 online payment karna hoga, tabhi case clear hoga. Account number main aapko message kar raha hoon.
+receiver:  Wait, wait!  Let me check something. This sounds fishy. I will call my son.

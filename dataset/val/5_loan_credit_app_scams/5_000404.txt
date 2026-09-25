@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein QuickLoan Solutions se Rahul bol raha hoon. Aapki loan application review kar rahe hain hum. ₹2 lakh ka personal loan approved ho sakta hai, sir. Instant approval.
+receiver: Oh, theek hai! Mujhe toh loan ki zaroorat hai thodi. Batao, kya conditions hain?
+caller: Sir, bahut simple hai. Bas bank statement aur last three months ke salary slips chahiye. Aur ek verification ke liye OTP bhi dena padega. OTP hum send karenge aapke registered mobile number pe.
+receiver: OTP? Theek hai, dekhte hain. Par interest rate kitna hoga? Mujhe zyada interest nahi chahiye.
+caller: Sir, interest rate 1.5% per month. Bahut hi attractive hai, market mein sabse kam. Sir, abhi OTP send kar raha hoon. Check karo message.
+receiver: Haanji, OTP aa gaya. Kuch… wait, yeh toh bahut zyada lag raha hai. ₹2 lakh ke loan pe ₹15,000 processing fee demand kar rahe ho? Yeh kya baat hui?
+caller: Sir, sorry sir! Company policy hai. Processing fee toh dena hi padega. Warna loan approve nahi hoga. Aur agar aap report karenge toh aapki file cancel ho jayegi. Aapse baat kaat di jayegi aur aapko loan kabhi nahi milega.

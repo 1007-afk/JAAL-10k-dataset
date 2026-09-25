@@ -1,0 +1,9 @@
+caller: Hello! This is Raj from SpeedyLoan. We've reviewed your credit report and you’re pre-approved for a loan of ₹30,000 to ₹1,50,000. Just a few simple questions to verify. What is your full name?
+receiver: Hi Raj. My name is Anjali Verma. Yes, I was looking for a loan actually.
+caller: Excellent, Anjali ji! You seem like a very responsible applicant. Can you tell me your occupation and roughly your monthly income? And what is the purpose of this loan?
+receiver: I'm a teacher and my monthly income is around ₹45,000. I need it for some urgent medical expenses.
+caller: Very good. Medical expenses are important. Now, to finalize the loan, we require a small processing fee of ₹3,500. This is a standard procedure to verify your commitment. You can send it to UPI ID: speedyloan.pay@xyz. Once we confirm the payment, the loan will be instantly disbursed.
+receiver: Three thousand five hundred rupees? That seems a bit much. Is this really necessary?
+caller: Yes, Anjali ji. It's non-refundable and essential. Many applicants try to take advantage of our system. This fee prevents that. We need to make sure you’re serious. Send it now so we can quickly process everything. We'll also need you to send a selfie with the payment receipt to prove you've made it.
+receiver: Okay, wait a minute. I'm not comfortable with this. I’m going to have to think about it.
+caller: Anjali ji, don’t delay! Time is of the essence, and the offer is only valid for a limited time. If you don't pay the fee now, we’ll have to cancel your pre-approval

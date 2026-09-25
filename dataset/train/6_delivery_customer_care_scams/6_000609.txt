@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Flipkart se Ishaan bol raha hoon. Aapke naam par ek parcel aaya tha, lekin address sahi nahi mil raha hai.
+receiver: Oh, really? Flipkart? Haan, mujhe order kiya tha. Kya hua?
+caller: Sir, parcel deliver karne mein ek chhoti si problem ho gayi hai. System mein dikh raha hai ki payment pending hai. Rs. 4800 ka.
+receiver: Rs. 4800? Lekin maine to payment kar diya tha! Mujhe OTP mila tha.
+caller: Haan sir, dekhiye, security ke liye mujhe OTP check karna padega. Aap mujhe apna last OTP SMS bata sakte hain jo Flipkart se aaya tha?
+receiver: Thoda wait karo, mujhe message check karne do… Okay, wait a minute… I think it was… 932781?
+caller: Thank you, sir. Abhi mein check kar raha hoon… Sir, ek aur verification ki zaroorat hai. Aapka bank account number de dijiye, just confirming the details.
+receiver: Arre, bank account number? Kyon? Flipkart toh bank details nahi maangti!
+caller: Sir, yeh standard procedure hai. Trust me, we just need to verify. Without that, we can’t process the delivery and you won’t receive your package.

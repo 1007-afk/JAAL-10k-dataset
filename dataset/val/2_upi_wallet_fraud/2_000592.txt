@@ -1,0 +1,7 @@
+caller: Namaste! Mai PhonePe se Rahul bol raha hoon. Aapke PhonePe account mein ek achha cashback offer hai! Aapko sirf ₹5000 recharge karwaane hai, aur aapko ₹2000 cashback mil jayega.
+receiver: Cashback? ₹2000? Kaise?
+caller: Haan ji! Yeh ek limited-time offer hai. Aapko recharge karne ke liye yahan UPI ID dena hoga: 9876543210@axisbank.
+receiver: UPI ID? Par PhonePe se toh call nahi karna chahiye tha. Direct offer toh app mein hi dikhana chahiye tha.
+caller: Woh technical issue tha, ji. Offer bahut popular hai, isliye system overloaded ho gaya. Jaldi kijiye, offer khatam ho jayegi! Recharge karwa dijiye aur cashback claim kar lijiye.
+receiver: Dekhiye, mujhe kuch thik nahi lag raha hai. Main PhonePe app mein check karta hoon. Aap wait karein.
+caller: Hello? Hello? Aapka call connect nahi ho pa raha!

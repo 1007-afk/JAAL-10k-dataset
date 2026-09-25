@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash, calling from Bluebird Courier. We have a package addressed to you, but there’s a small issue with the payment.
+receiver: Bluebird Courier? I wasn’t expecting anything. What’s the issue?
+caller: Yes ma’am. It appears there's a discrepancy with the delivery charges. The system is showing an outstanding balance of ₹2850. To release the package for delivery, we need you to verify the payment details.
+receiver: ₹2850? That’s quite a lot. What’s the package? And why wasn’t I informed about this beforehand?
+caller: Ma'am, the sender hasn’t declared the contents. It’s standard policy. To secure the payment and avoid the package being returned, could you please provide the last four digits of your debit card and the OTP you just received on your phone? It’s just to confirm you are the cardholder.
+receiver: Hold on a minute. This sounds suspicious. Why do you need my OTP? I’ll call Bluebird Courier directly to verify. Give me your reference number.
+caller: Ma’am, for security reasons, we can’t disclose the reference number over the phone. It's a confidential procedure. The OTP is essential to complete the transaction instantly and prevent any delays in delivery. If you don’t verify now, the package will be sent back.

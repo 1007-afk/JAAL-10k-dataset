@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Officer Verma calling from the Directorate of Revenue Intelligence. We've detected some unusual activity linked to your bank account, specifically regarding cryptocurrency transactions.
+receiver: Haan, bolie. What kind of activity? I do use crypto sometimes, but everything is above board.
+caller: Sir, our systems indicate you’ve been involved in facilitating transactions for an illegal online gambling ring. We have evidence of large sums being routed through your account. This is a very serious matter, potentially linked to money laundering.
+receiver: Gambling ring? Sir, this is ridiculous. I don't even gamble! You must have the wrong person.
+caller: Sir, we need to verify your identity and the source of these transactions. To resolve this immediately and prevent further investigation, we require a small compliance fee – 15,000 rupees – to cover the administrative costs of clearing your name. We can process it securely through IMPS.
+receiver: Fifteen thousand? Look, I’m telling you again, I’m not involved in anything illegal. I want to report this to the cybercrime cell.
+caller: Sir, resisting cooperation will only complicate matters and attract greater scrutiny. The court will take a very serious view. This is a one-time opportunity to resolve this quietly. To proceed, please provide the last four digits of your bank account number for the IMPS transfer. We need to act fast.
+receiver: No way! I'm hanging up. This is a scam!

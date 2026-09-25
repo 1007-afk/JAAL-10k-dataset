@@ -1,0 +1,11 @@
+caller: Namaste! Main calling kar raha hu, aapke 'SoundStream' subscription ke bare mein. Ye aapke complimentary first month ka review karne ke liye hai, tumhare paas jaante ho na? Bas check karna chahte hain ki music compilation aapko achha lag raha hai ya nahin.
+receiver: Haanji, namaste! Jaanta hoon, thank you for calling. Music bahut achcha hai, dil karta hai.
+caller: Acha acha, shabash! Aur suniye, SoundStream mein ab kuch naya hai - 'Bollywood Beats' section! Humare paas Bollywood ke sabse popular songs ke compilation banate hain, aur aapko chahiye ki aapko yeh try karna chahiye. Shayad aapko pasand aayein.
+receiver: Bollywood Beats? Wah! Bollywood ke gaane toh mujhe bahut pasand hain. Bataiye, yeh section kaise hai?  Mujhe bataiye, Rahul ji, aapka naam Rahul hai, right?
+caller: Koi baat nahi ji, Rahul ji, mera naam Rahul hai. Aur suniye, SoundStream mein aapko premium features bhi milenge - ads free listening, high quality audio, aur offline downloads. Yeh sab aapke liye free hain, sirf aapke subscription upgrade karne ke liye.
+receiver: Ads free listening?  That sounds great! But how much does upgrading cost?  I am currently enjoying the free version.
+caller: Ji, upgrading ka koi charges nahi hai ji! Ye sirf aapke subscription ko upgrade karne ka ek opportunity hai.  Agar aap 'YES' text karein 73678 pe, then automatically upgrade ho jayega.  Aapko sirf confirmation message milega.
+receiver: Okay, samajh gaya. ‘YES’ text karein 73678.  Aur yeh 'Bollywood Beats' section mein kaunse types ke songs milenge?  Kisi particular artist ke gaane bhi hain kya?
+caller: Ji bilkul, section mein Bollywood ke sabse mashhoor artists ke gaane hain – SRK, Shah Rukh Khan, Deepika Padukone, Alia Bhatt... aur bahut saare!  Yeh offer sirf is Diwali ke liye hai, isliye jaldi karo!
+receiver: Diwali ke liye? Okay, then I will definitely consider it.  Thank you for the information, Rahul ji.
+caller: Aapka naman hai Rahul ji!  Aapko SoundStream pasand aaye, yeh hi hamara maqsad hai!  Agar aapko koi question ho toh phir call karein.

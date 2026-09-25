@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rahul, FastLoanIndia se bol raha hoon. Kya aapko urgent paise chahiye? Hum ₹50,000 se ₹3 Lakh tak ka loan instant approve karte hain, koi credit check nahi.
+receiver: Haan, mujhe actually ek emergency ke liye ₹60,000 ki zaroorat hai. Loan kab milega?
+caller: Bahut achha! Aapka naam bataiye, aur woh bhi bataiye ki aap kya karte hain. Hum sirf basic details check karna hai.
+receiver: Mera naam Rajesh Sharma hai, aur main ek shop mein kaam karta hoon.
+caller: Rajesh ji, aapki shop sahi hai? Toh hum aapko loan process start kar sakte hain. Bas ₹9,999 ka processing fee submit kijiye. Account details send kar dijiye, hume fast approve karna hai.
+receiver: ₹9,999? Lekin aapne kaha tha credit check nahi hoga?
+caller: Rajesh ji, yeh security deposit hai. Abhi hume confirm karna hai ki aap serious hain. Fee bhar dijiye, loan aapke account mein aaj hi transfer ho jayega. Warna humko maaf karna padega.
+receiver: (No response)

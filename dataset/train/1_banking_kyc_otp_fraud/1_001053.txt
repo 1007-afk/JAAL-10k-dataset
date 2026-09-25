@@ -1,0 +1,10 @@
+caller: Namaste, Main ICICI Bank se Rohit Verma bol raha hoon. Aapke naam par ek transaction hua hai jo suspicious lag raha hai.
+receiver: ICICI Bank? Oh, really? Transaction? Kitna hua transaction?
+caller: ₹12,500 ka transaction hua hai Nepal mein. Aapne kiya tha yeh transaction? Jaldi bataiye, account block ho sakta hai.
+receiver: Nepal mein? ₹12,500? Nahi, main toh kabhi Nepal nahi gaya! Account block ho jayega?
+caller: Haan, sir. Security ke liye, aapko apna OTP aur PAN card ka last four digits bataane honge. Isse hum confirm kar sakte hain ki aap hi baat kar rahe hain.
+receiver: OTP aur PAN card? Sir, yeh toh zyada lag raha hai. Bank aise details phone pe nahi manta na?
+caller: Sir, yeh process compulsory hai. Account block na ho, OTP aur PAN card ke last four digits bataiye. Agar aapko koi shak hai, toh humein call cut kar sakte hain, lekin account suspend ho jayega.
+receiver: Okay, thik hai. OTP hai 4587. Aur PAN card ke last four digits... 7890.
+caller: Thank you sir. Ab, aapke account se ₹50,000 aur transfer hone se pehle, humein verification ke liye aapka bank account number bhi chahiye.
+receiver: ₹50,000? Bank account number? Sir, abhi nahi bata sakta. Yeh toh zyada ho gaya. Main abhi call cut kar raha hoon.

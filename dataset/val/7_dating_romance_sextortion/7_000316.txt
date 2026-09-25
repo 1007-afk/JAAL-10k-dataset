@@ -1,0 +1,7 @@
+caller: Hello Priya, this is Rohan calling. I hope you're doing well. I'm calling about a special opportunity available only through 'HeartBloom' dating app.
+receiver: Hi Rohan, yes, I'm alright. HeartBloom? I’m not sure I recognize that name. What sort of opportunity is it?
+caller: It’s a chance to meet a very compatible match, someone who truly understands you. We’ve analyzed your profile and believe we’ve found someone perfect for you – his name is Arjun. He’s been waiting to connect. Just confirm your acceptance by replying with ‘ACCEPT’ and I'll send you his details.
+receiver: Arjun? Okay, that’s interesting. How certain are you that this match is 'perfect'? What criteria did you use for the analysis? I'm a bit skeptical, to be honest.
+caller: Priya, HeartBloom uses a very advanced algorithm. Arjun is also a premium member looking for something serious. To unlock his full profile and begin messaging him, a small verification fee of just ₹3,500 is required. This ensures both parties are genuine and committed. Reply with ‘PAY’ to proceed.
+receiver: ₹3,500? For a profile? That seems quite high. Is there no way to see at least a little bit of his profile before committing to that?
+caller: Absolutely, Priya. Just a quick confirmation – can you share the last four digits of your card to expedite the verification process? It’s a simple security measure.

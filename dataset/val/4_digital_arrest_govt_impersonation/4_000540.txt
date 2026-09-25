@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Sharma? This is Inspector Rajan from the Directorate of Revenue Intelligence, DRI. We need to speak with you urgently regarding a suspicious import declaration linked to your name.
+receiver: Hello? Inspector Rajan? What import declaration? I don’t import anything. I’m a teacher.
+caller: Mrs. Sharma, our records indicate a shipment of high-value electronics was declared under your taxpayer identification number. There's a possibility of customs duty evasion and money laundering. This is a serious matter, ma’am. We need to verify some details quickly.
+receiver: Wait, what? This is ridiculous! My ID number? Why would I be involved in this? Are you sure you have the right person? Can you give me a case number or an official email address?
+caller: Mrs. Sharma, time is of the essence. To avoid legal complications and a potential arrest, you need to cooperate. We just need to confirm a few details. A small penalty, around ₹15,000, can resolve this matter immediately and prevent further investigation. We can arrange for payment through UPI.
+receiver: ₹15,000? That’s a bribe! I’m not paying anyone anything until I verify this. I’m calling my lawyer right now. You're clearly a scammer.
+caller: Mrs. Sharma, don’t be foolish! This is a legitimate investigation. Delaying will only escalate the charges. If you don't pay now, we will have to issue a warrant for your arrest and your bank accounts will be frozen. Think about your family! Just pay the ₹15,000 now and we'll close the case.

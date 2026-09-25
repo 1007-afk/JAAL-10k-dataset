@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Rajan from the Directorate of Revenue Intelligence, DRI. We’ve detected some unusual activity linked to your cryptocurrency wallet.
+receiver: Cryptocurrency? I don't even use cryptocurrency. Who gave you my number?
+caller: Sir, our systems flagged a transaction originating from your registered mobile number involving an unregistered exchange. This is a serious matter, potentially linked to money laundering. We need to verify some details immediately to prevent further complications. Can you please confirm the last four digits of your wallet address?
+receiver: Wait, hold on. Why are you asking me this over the phone? Isn't it safer to do this through official channels? Shouldn't you have contacted me through the DRI's official website?
+caller: Sir, time is of the essence. The transaction is still pending. We’re trying to intercept it. Confirming those digits allows us to freeze the funds and prevent them from being used illegally. Just four digits, please. And could you also tell me the name associated with the wallet?
+receiver: This sounds fishy. I'm not giving you any information. You’re clearly trying to scam me. I'm reporting this to the cybercrime cell. Goodbye.
+caller: Sir, please! This is a crucial investigation! You are interfering with a government operation! We are simply trying to protect you from serious legal consequences. Do not disconnect!

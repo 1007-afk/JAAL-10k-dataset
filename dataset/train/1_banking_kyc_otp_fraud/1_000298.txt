@@ -1,0 +1,11 @@
+caller: Hello, I'm calling from HDFC Bank. We’re doing a security update on your account. Can you please verify your account details quickly?
+receiver: Oh really? What kind of details do you need?
+caller: Right now, we just require your Voter ID number, your latest utility bill address, and the last four digits of your credit card. This is to ensure everything is up to date.
+receiver: Voter ID and credit card details? That sounds like a lot of personal information. Is there no other way to check my account? Like maybe through an online portal? Still, if it's necessary, how can I give you those details securely?
+caller: Don’t worry, it’s completely secure. We have advanced encryption technology. You just need to tell us these numbers, so we can update your account. Any questions, don't hesitate to ask, I'll clarify them.
+receiver: Look, I'm feeling a little uneasy sharing all this over the phone. Is there any alternative method, such as sending a link via SMS or checking at a branch? It doesn't seem very secure to me.
+caller: Sir, this process is absolutely safe. There isn’t any other method available for this particular verification. Going to the branch won't work either. Please trust me, this is the standard protocol for confirming your account details with us. Just provide me with these numbers, and I'll send you a confirmation text immediately after the update.
+receiver: High-standard protocol? I haven’t heard about this before. And there’s no other way… that’s a bit suspicious, actually. Could you give me an official helpline number where I can call to confirm this process? Or perhaps an email address where I can inquire about it? It feels a little risky giving out everything over the phone, you know?
+caller: Absolutely! Here’s our official number: 1800-XXX-XXXX. Please feel free to call anytime.
+receiver: Okay, thank you.
+caller: You’re welcome! Have a great day!

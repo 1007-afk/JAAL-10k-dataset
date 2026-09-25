@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit Verma se baat ho rahi hai, PhonePe se. Aapko Diwali special cashback offer ke bare mein batane ke liye call kiya hai. Agar aap ₹500 ka UPI transaction karte hain kisi bhi merchant ke saath, toh aapko ₹150 ka instant cashback milega.
+receiver: Oh, really? Diwali offer? I didn't see anything on my PhonePe app.
+caller: Haanji, woh offer sirf select users ke liye hai. Aapko sirf ek small verification process se guzar na hoga. Aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Why do you need my OTP? Is that really necessary for cashback?
+caller: Haanji, zaroori hai. Security ke liye. OTP se hum verify karenge ki account aapka hai. Aur mujhe aapka PhonePe registered mobile number bhi chahiye hoga.
+receiver: Wait a minute. Something feels wrong. I'm not comfortable giving you my OTP or mobile number. I'll call PhonePe customer care myself and check about this offer.
+caller: Sir, please don't delay. Yeh offer sirf aaj ke liye hai. Agar aap abhi OTP nahi dete, toh offer expire ho jayega. Hurry up!

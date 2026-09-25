@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Kumar?
+receiver: Haan, bolhiye. Yeh kaun bol raha hai?
+caller: Ji, main Inspector Verma, Delhi Police se. Humko ek parcel mila hai aapke naam se, mein illegal items nikale gaye hain.
+receiver: Kya? Illegal items? Yeh kya keh rahe hain aap? Mein toh kabhi parcel order nahi kiya.
+caller: Look sir, it’s a serious matter. We need to verify some details to ensure your safety. We need to keep you on this call for verification and to ensure you don’t tamper with any evidence. Can you tell me the last four digits of your bank account number?
+receiver: Bank account number? Yeh kya hai? Police aise phone par bank account number poochti hai?
+caller: Sir, this is standard procedure. Without this we cannot clear you. The parcel is currently held at the customs office in T3 airport. To release the parcel and clear your name, you will need to pay a processing fee of ₹12,000 via UPI.
+receiver: ₹12,000? Aur customs office? Mujhe airport jaane do. Mein khud jaake dekhta hoon.
+caller: Sir, you can't do that. The situation is highly sensitive and there are security protocols. Pay the fee, and we will send you a release confirmation. Otherwise, we will have to proceed with legal action. A warrant will be issued and you'll be arrested. Please pay now.

@@ -1,0 +1,10 @@
+caller: Namaste sir, main Inspector Verma bol raha hoon. Aapse thode sawaal puchhna chahte hain. Aap meri madad karenge?
+receiver: Ji Inspector Verma, namaste. Haan, bataiye, main sunta hoon. Kya puchna hai aap?
+caller: Namaste, Inspector Sahib! Ji, bilkul. Main ek very important case par kaam kar raha hoon aur mujhe ek special software ki zarurat hai jo sirf government officials ke pass hi available hai. Kya aap meri madad kar sakte hain isko download karne ke liye? Ye ek confidential operation hai.
+receiver: Oh, Inspector Sahib, yeh toh bahut seri ho gayi! Confidential operation mein software chahiye, samajh gaya. Software ka name bataiye, aur bataiye kis operating system par install karna hai. Agar aapko technically knowledge hai toh main aapko guide kar sakta hoon.
+caller: Shukriya Inspector Sahib, aapki madad ke liye. Software ka naam hai ‘DataShield Pro’ aur isko Windows 10 par install karna hai. Ismein advanced data recovery features bhi hain. Ek urgent requirement hai.
+receiver: DataShield Pro, Windows 10… Hmm, yeh software access karna bandh kar diya gaya hai. Main dekhta hoon, kis supplier se pata mil sakta hai. Aur aap secure location par hain na? Koi danger toh nahi hogi is software ko download karte hue?
+caller: Bahut achha inspector sahab ne mere situation ko samjha. Software ko download karne ke liye, mujhe ₹5000 chahiye. Yeh money device protection ke liye hai. Aur ji, location bilkul safe hai, aap chinta na karein.
+receiver: ₹5000? Seriously? Isliye toh main suspect tha. Aapko device protection ke liye ₹5000 chahiye? Main kisi bhi case mein payment nahi karunga.
+caller: Please ji, yeh bahut zaroori hai. Agar aap meri madad nahi karenge to mera mission fail ho jayega. Yeh paisa security measures ke liye hai.
+receiver: Nahin, Inspector Sahib. Main aapki madad nahi karunga. Aapko khud software ko download karna padega ya phir police station par jaake enquire karna padega.

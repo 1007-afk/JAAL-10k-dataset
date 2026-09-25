@@ -1,0 +1,10 @@
+caller: Namaste sir, this is Akash from QuickCash Loans. We saw you applied for a personal loan online. Just need to quickly verify a few details. Do you have your Aadhaar card handy?
+receiver: Haan, yes I do. What’s this about? I applied a while ago, haven't heard anything.
+caller: Excellent! Can you please tell me your loan application ID number? It should be on the confirmation email you received. One moment for verification...
+receiver: Let me see… yeah, here it is. It's UVW987654321. What needs to be verified?
+caller: Perfect, sir! Your application ID UVW987654321 is confirmed. Now, we need to send a one-time password to your registered WhatsApp number for security. Can you share that code with me once you receive it?
+receiver: Okay, wait a sec... Got it. It's 789012. Verification done?
+caller: Yes, sir, verification is complete. Congratulations! Your loan of ₹50,000 is approved. However, there's a small processing fee of ₹7,500 that needs to be paid upfront through UPI. It will be refunded with your first EMI.
+receiver: ₹7,500? That's a lot for a small loan! Are you sure?
+caller: Sir, it’s standard procedure. Without the processing fee, we can’t release the funds. It's a one-time charge, and you’ll see the benefit immediately. We need the UPI ID to proceed.
+receiver: I'll have to think about it. I'm not comfortable paying upfront.

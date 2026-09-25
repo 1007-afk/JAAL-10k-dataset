@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? We're calling from Paytm Payments Bank.
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, we've detected a suspicious transaction of ₹12,000 from your Paytm wallet to an unknown account. For security purposes, we need to verify your details immediately. Can you please provide your UPI PIN?
+receiver: UPI PIN? Kyun? Koi transaction hua ₹12,000 ka? Mujhe toh koi message nahi aaya. Aur Paytm se call kar rahe hain toh number sahi hi hoga na?
+caller: Sir, it’s a security protocol. We need to confirm you’re the account holder before we can block the transaction. The money is at risk of being lost. Just a quick 4-digit PIN, sir.
+receiver: Arre, ₹12,000? Woh bhi kaise? Koi proof hai transaction ka? Aur PIN phone pe hi bolna hai? Main toh confused hoon. Paytm toh OTP se hi verify karta hai.
+caller: Sir, the transaction details are appearing in our system. OTP is for login, PIN is for verification. Please cooperate, sir. Time is crucial! We don’t want you to lose your money.
+receiver: Wait a minute. This doesn't feel right. I’m not giving you my UPI PIN. I'm going to call Paytm directly from their official number on the website. You people are scammers!

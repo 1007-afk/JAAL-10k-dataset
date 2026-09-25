@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me okay? Great! So, I'm calling from the City Break promotions department. Have you ever won anything before? No? Well, you're in luck because you've been selected to receive a fantastic City Break! And that's not all, you could also WIN a £200 Summer Shopping spree every week! It's super simple to enter, all you need to do is text STORE to 88039. That's STORE to 88039. You only have 5 minutes left to enter this amazing draw, so don't miss out!
+receiver: Oh wow, a free City Break? That sounds amazing! And a shopping spree too?  Okay, so you said I just need to text STORE to 88039?  And I have only 5 minutes left, right? Got it!
+caller: Exactly! Bilkul sahi samjhe aap! Bas 4 minutes left hain ab, so jaldi se text kar dijiye. STORE to 88039. Yaad rakhiye, yeh offer sirf aaj ke liye hai aur aapko yeh chance miss nahi karna chahiye. Imagine woh £200 shopping spree! Kya kharidengi aap?
+receiver: Arre waah! £200 ki shopping! Socha toh nahi tha, par agar mil rahe hain toh kya pata! Theek hai, abhi text karti hoon. Koi naam toh nahi batana padega na mujhe jab text karungi? Jaise ki mera naam ya kuch aur?
+caller: Nahi ji, koi naam ya koi personal details nahi mangenge. Bas woh STORE text karna hai aur aap entry mein ho. Aur haan, ab sirf 3 minutes bache hain! Jaldi kijiye!
+receiver: Okay, perfect! Thank you for clarifying. I'm just grabbing my phone to text it right now.  Hope I make it in time!
+caller: Great! Just 2 minutes left now, so make sure you send it quickly! STORE to 88039.  Once you've sent it, you'll get a confirmation message.  All set?
+receiver: Haanji, maine text kar diya! Abhi message aaya hai confirmation ka. Phew, time pe ho gaya lagta hai. Thank you so much for the reminder and for the chance!

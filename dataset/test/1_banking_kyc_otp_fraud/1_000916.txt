@@ -1,0 +1,11 @@
+caller: Namaste, Mr. Sharma? This is Rupali calling from Axis Bank’s KYC verification team.
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, we've flagged some unusual activity on your account. It appears someone attempted to change your registered mobile number. For security reasons, we need to quickly verify your identity.
+receiver: Mobile number change? Koi attempt kiya? Mujhe toh kuch pata nahi hai.
+caller: Yes sir, a request was made from an unknown device. To prevent any unauthorized access, we need to confirm a few details, including a one-time password sent to your current registered mobile. Just a six-digit OTP, sir.
+receiver:  Sir, mujhe OTP nahi chahiye. Agar kuch ghalat ho raha hai toh mujhe bataiye. Aur aap bataiye, main Axis Bank se bol rahi hoon, yeh kaise confirm karte hain?
+caller: Absolutely, sir. The OTP is to confirm you are the rightful account holder. Without it, we are obligated to temporarily suspend your account to protect your funds.  Aadhaar card ka picha number bataiye, sir, verification ke liye.
+receiver:  Aadhaar number? Bilkul nahi. Koi bhi bank Aadhaar number maangta nahi. Yeh scam lag raha hai.
+caller: Sir, please understand, this is standard protocol. We need to ensure your account is secure from potential fraudsters. It’s a simple verification process; if you don’t cooperate, we’ll have to file a security alert, which could freeze your account for 24-48 hours.
+receiver: Freeze karenge kya?  Aur kaisa security alert? Yeh sab sunke mujhe doubt ho raha hai. Mai khud Axis Bank branch mein jaake baat karunga. Thank you.
+caller: Sir, please don’t do that. It will only delay the verification and potentially put your

@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Sharma bolta hoon, BharatPay se. Aapko cashback offer mil raha hai – ₹5000 cashback, sirf ₹500 processing fee bhar ke.
+receiver: ₹5000 cashback? How is this possible?
+caller: Haan ji, ek limited time offer hai. BharatPay apne loyal customers ko surprise gift deta hai. Aapka account qualify karta hai.
+receiver: Okay, sounds interesting. How do I pay the ₹500?
+caller: Aap BharatPay app mein jaake ‘Add Money’ option se ₹500 deposit kar de. Mere number pe OTP milega, woh check kar lijiye.
+receiver: Just did that. OTP is 789012.
+caller: Shukriya! OTP verified. Ab bas, ₹500 processing fee bharne ke baad aapka account activate ho jayega aur cashback aapko mil jayega. Aapko ek link milegi jise click karke payment karna hai…
+receiver: Wait a minute. Why didn’t I receive a link? And why are you asking me to click a link you’re telling me about instead of sending it directly?

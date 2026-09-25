@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Axis Bank se Rohit bol raha hoon. Aapke naam par ek transaction ho raha hai jismein ₹12,000 gaya hai. Security ke liye, humein aapke account ki verification karni padegi.
+receiver: ₹12,000? Transaction? Mujhe to koi message aaya nahin. Kaise hua yeh?
+caller: Sir, system mein kuch technical issues aa rahe hain, isliye aapko notification deri se mila. Ab humein aapka OTP verify karna hoga jo aapke registered mobile number pe gaya hoga.
+receiver: Haan, mujhe OTP mila hai. ₹12,000 ka transaction hone se pehle mujhe koi message nahin aaya, yeh thoda suspicious lag raha hai.
+caller: Sir, please mat sochiyega. Yeh sirf ek standard procedure hai. OTP bataiye aur hum ₹12,000 ka fraud transaction reverse kar denge. Varna aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Sir, mujhe thoda time chahiye. Main apne bank ke official number pe call karta hoon aur fir confirm karta hoon. Aap mujhe wait karwa sakte hain?
+caller: Sir, time nahin hai! Technical fault hai, ye chance milna mushkil hai. OTP bataiye fast. ₹12,000 ka risk hai, aur aapka account bhi block ho sakta hai!
+receiver: Sir, yeh kuch bhi toh galat lag raha hai. Main call cut kar raha hoon.

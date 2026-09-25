@@ -1,0 +1,11 @@
+caller: Namaste sir, dis is Vivek from Connect Solutions. I’m calling about your recent inquiry on our Smart Home Security System - the Guardian Pro. You received a message about a limited-time discount of 60% off.
+receiver: Namaste Vivek ji, good afternoon. Yes, I got the message. It sounds like a good deal, but I want to understand what exactly comes with the system.
+caller: Haan ji, absolutely! The Guardian Pro is designed specifically for your home safety. It includes a high-definition camera, motion sensors, and a smart alarm that alerts you instantly via app. Plus, we’re offering 60% off the base package, and a free window sensor pack.
+receiver: Sixty percent, wow! The camera and sensors sound useful. But I've heard security systems can be complicated to set up. How easy is it to install this one? And what about the app – is it user-friendly?
+caller: Haan ji, it’s incredibly simple! We provide step-by-step instructions and even send a technician to your home for installation, completely free of charge. The app is very intuitive, just a few taps to arm and disarm the system. And it works with both Android and iOS.
+receiver: Free installation is great. But what happens if something does go wrong with the system after I've installed it? Is there customer support available? And what about the data privacy - how secure is my information?
+caller: Absolutely, sir! We have 24/7 dedicated customer support team ready to assist you at any time. Regarding data privacy, we use military-grade encryption to protect all your information. Your privacy is our top priority. And don't worry, there’s no hidden charges. Only 3 units remaining, so act fast!
+receiver: Military-grade encryption… that’s reassuring. But I still need to consider it carefully. What's the warranty period on the system itself?
+caller: We offer a comprehensive 2-year warranty covering parts and labor.  It gives you complete peace of mind.  Also, remember, sir, only 3 units are left. Don’t delay, book today!
+receiver: Two-year warranty, okay. Let me think about it. Can you tell me the total cost of the system without the discount applied yet? Just to get an idea.
+caller: Sure thing, sir. The base package without the discount would be ₹8,000. But with the 60% discount, you’ll pay just ₹2,400. A fantastic value, isn't it?

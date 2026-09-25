@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Axis Bank se Neeraj Sharma bol raha hoon. Aapke naam par ek suspicious transaction ki report aayi hai, Gujarat se ₹8,000 ka transaction hua hai.
+receiver: Gujarat se? Mujhe to koi transaction ka message nahi aaya. Mein toh Gujarat mein nahi hoon.
+caller: Haan sir, wohi issue hai. Kisi ne aapka debit card use kar liya hai. Account secure rakhne ke liye, humein kuch details verify karne hongi. Aapka card ka last 4 digits bata sakte hain?
+receiver: Arey yaar, mujhe thoda doubt ho raha hai. Bank aise call karta hai kya? Unko toh card details na bhi pata hona chahiye.
+caller: Sir, security protocols ke wajah se, humein verify karna padta hai. Agar aap bata denge, toh main system mein check karunga aur aapka account freeze kar dunga taaki aur nuksan na ho. Thoda time hai, sir.
+receiver: Theek hai, theek hai. Meri card ke last 4 digits 1234 hain. Lekin mujhe abhi koi OTP nahi mil raha hai.
+caller: Sir, ek minute rukiyega. Haan, dekhiye, aapke registered mobile number par ek OTP gaya hai. Woh OTP bata dijiye taaki hum confirm kar saken ki aap hi sahi account holder hain.
+receiver: Sir, mujhe OTP nahi mila. Maine phone check kiya.

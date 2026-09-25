@@ -1,0 +1,8 @@
+caller: Hello ji, main Vodafone se bol raha hoon. Aapke liye ek bohot badi khushkhabri hai! Aapne hamare ek special lucky draw mein £150 jeete hain! Congratulations!
+receiver: Arre wah! Such mein? £150? Ye toh mazedaar khabar hai! Kaunsa lucky draw tha ye? Main toh bhool hi gaya tha.
+caller: Haan ji, hamare ek internal lucky draw tha, sir/madam.  Bas aapko ye prize collect karne ke liye 09061743386 pe call karna hoga.  Itna simple hai!
+receiver: Okay, 09061743386?  Aur ye prize collect karne ke liye aur kuch karna hoga kya?  Koi form wagera?
+caller: Nahi ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko poori instructions mil jayegi. Bahut easy hai. Apka number kahan hai sir/madam, taaki main confirm kar sakoon ki ye aap hi ke liye hai?
+receiver: Haan, mera number toh ye hai [your phone number here].  Aur aapne bola na ki Vodafone se hain?  Ye Vodafone ka official number hai kya?
+caller: an ji, bilkul official hai! Aur number bhi aapka maine confirm kar liya hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi dikkat nahi hogi.
+receiver: Achha, theek hai. Toh main us number pe call karunga. Aur ye prize kab tak claim karna hai? Koi time limit hai kya?

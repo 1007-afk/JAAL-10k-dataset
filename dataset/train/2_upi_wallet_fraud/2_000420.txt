@@ -1,0 +1,9 @@
+caller: Namaste! Main Ankit, PhonePe se calling karta hoon. Aapko ek cashback offer mil raha hai Amazon pe.
+receiver: Oh, PhonePe? Mein toh Amazon pe kuch order nahi kiya tha.
+caller: Ji, aapne recently ek beauty product purchase kiya tha. Amazon aur PhonePe ne milkar ek special offer launch ki hai - ₹1000 cashback, sirf ₹100 processing fee dene se.
+receiver: ₹1000 cashback? Processing fee? Yeh thoda suspicious lag raha hai.
+caller: Sir/Madam, trust me! Yeh offer sirf limited time ke liye hai. Apna PhonePe account verify karwa lijiye aur ₹1000 ka cashback instantly get kar lijiye. For verification, mujhe aapka OTP chahiye.
+receiver: OTP?  Meri security concern hai.  Mai PhonePe helpline number se contact karunga aur fir check karunga.
+caller: Sir/Madam, abhi offer khatam ho jayega! Jaldi kijiye! OTP send karwa de. ₹1000 aapke account mein deposit ho jayega. Aapko profit hoga!
+receiver: Nahin, mujhe nahi chahiye. Mai phone karunga. Thank you.
+caller: Okay, sir/madam. Have a nice day!

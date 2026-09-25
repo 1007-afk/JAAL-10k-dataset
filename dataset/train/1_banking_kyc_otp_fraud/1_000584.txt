@@ -1,0 +1,8 @@
+caller: Namaste sir, ye Mera Punjab National Bank ka branch manager hai. Aapka Aadhaar card expire ho gaya hai. Isliye aapko Aadhaar linked banking services activate karne ki zarurat hai. Par COVID ki wajah se hum online registration kar rahe hain. Mujhe aapke account jaanch ke liye kuch details chahiye.
+receiver: Oh, okay. Aadhaar expire hua? Fine. Kya details chahiye, bataiye mujhe. Account number, ya phir Aadhaar number?
+caller: Haan, AAP ka account number, mobile number jo aapke Aadhaar se linked hai, aur aapka pan card number bhi bata dijiye. Yeh sab details bata dijiye toh hum aapki banking services activate kar denge.
+receiver: Okay, okay. Mera account number hai 9876543211. Mobile number mera registered hai 8765432109. Aur PAN card number hai 123456789012. Hai kya?
+caller: Haan sir, yeh details mil gaye hain. Dhanyavaad. Abhi hum aapki banking services activate kar rahe hain. Aapko ek OTP aayega aapke registered mobile number pe. Woh OTP please bataiye taaki hum verification complete kar sakein.
+receiver: OTP? Haan, abhi dekhta hoon. Phone par aaya hai… haan, mil gaya. OTP hai 456789. Yeh bata doon toh ho jayega confirm?
+caller: Haan sir, yeh OTP mil gaya hai. Shukriya aapke sahayakta ke liye. Aapki banking services activate ho gayi hain. Aapko bank se related koi aur jankari chahiye thi?
+receiver: Nahi sir, bas itna hi tha. Dhanyavaad ji, calling karna aur mujhe update karna bohat madadgar raha hai. Shubh Ratri!

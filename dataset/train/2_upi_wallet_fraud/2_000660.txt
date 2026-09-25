@@ -1,0 +1,7 @@
+caller: Namaste Aunty! Main BharatPay se Rohit bolta hoon. Aapke BharatPay account mein ₹7,500 ka cashback offer aa gaya hai! Claim karne ke liye, sirf ₹299 processing fee bhar den. Bahut simple hai.
+receiver: BharatPay se? Cashback offer? ₹299 fee? Arey, mujhe toh koi notification nahi aaya.
+caller: Haan aunty, offer limited time ke liye hai. Jaldi karna padega. Fee bharne ke liye, apna bank account number aur OTP share karna hoga. Bilkul safe hai, BharatPay ki guarantee hai.
+receiver: Bank account number? OTP? Ye thoda risky toh lag raha hai. BharatPay app mein toh kuch dikh nahi raha.
+caller: Aunty, app update nahi kiya hoga. Fee bharne ke baad offer automatically activate ho jayega. 3 attempts hi bache hain, phir offer expire ho jayega. Jaldi karein, aur ₹7,500 cashback aapke ho jayega!
+receiver: ₹7,500? Theek hai, lekin mujhe abhi bank details nahi yaad aa rahe. Aur OTP bhi… mujhe thoda time chahiye sochne ke liye.
+caller: Aunty, samjhe! Par sirf 2 attempts bache hain abhi. Account number batao, main wait kar raha hoon.

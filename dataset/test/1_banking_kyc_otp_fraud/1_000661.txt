@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio digital support se bol raha hoon. Aapke mobile number ka KYC update chal raha hai, isliye aapko ek 6-digit OTP mila hoga. Kya aap mujhe bata sakte hain, OTP aaya tha kya?
+receiver: Haan, main Jio wala number hi use karta hoon. Ek OTP aaya tha, 987654. Bolo, kya karna hai?
+caller: Dhanyavaad sir, 987654. Ab humein ek small verification karna hai. Aapke phone mein ek WhatsApp message aaya hoga, jismein aapke recharge history ka screenshot dikhaya hua hai. Kya aap us message ko dekh sakte hain aur mujhe bata sakte hain ki usmein kis dates till date ka recharge details hain?
+receiver: Okay, ek minute, dekhta hoon. Hmm...haan, ek WhatsApp message aaya hai. Usmein 2023 ke paas 10 recharge show ho rahe hain, 1st July tak.
+caller: Shukriya sir, 1st July tak. Yeh verification bahut important hai, sir. Ab humein ek aur step lena hoga. Aapke phone mein ek SMS notification aaya hoga, jismein aapke bill ka information diya hua hai. Kya aap us SMS ko dekh sakte hain aur mujhe bata sakte hain ki usmein kitna bill amount dikha hai?
+receiver: Achcha, dekhti hoon. Haan, ek SMS aaya hai. Bill amount ₹250 dikha hai.
+caller: Dhanyavaad sir, ₹250. Humare system mein yeh information update ho raha hai. Abhi aapke phone par ek final confirmation message aayega, jismein aapke account ka status show hoga. Jab woh message aaye, toh mujhe usmein jo pin code likha hai, woh bata dijiye. Yeh sirf account ko activate karne ke liye hai, sir. Don’t worry, aapki data safe hai.
+receiver: Pin code? Just a pin code? Yaar, yeh toh bahut suspect lag raha hai. Aap BSNL ya Jio se hain bhi? Koi fraud toh nahi?

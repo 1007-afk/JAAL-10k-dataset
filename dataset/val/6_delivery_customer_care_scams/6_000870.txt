@@ -1,0 +1,9 @@
+caller: Namaste! Main Flipkart customer care se Rohit bolta hoon. Aapke account mein ek pending payment hai jo block ho gaya hai.
+receiver: Kya? Pending payment? Mujhe to koi notification nahi aaya. Kya hua?
+caller: Ji, system mein technical fault aa gaya tha, isliye notification delay ho gaya. Payment amount ₹2,750 hai, jo ek suspicious transaction ke wajah se hold kar diya gaya hai.
+receiver: ₹2,750? Mainne Flipkart se kuch order toh nahi kiya tha. Mujhe check karne do.
+caller: Ji ji, bilkul check karein. Par yeh process jaldi complete karna hai warna account suspend bhi ho sakta hai. Payment confirm karne ke liye aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Aapko OTP dene ki kya zarurat hai? Main khud Flipkart app mein check karunga.
+caller: Madam, security ke liye hum OTP verify karte hain.  Yeh ek standard procedure hai.  Koi tension nahi lene ki zarurat hai. Jaldi se OTP dijiye, taaki aapka account secure rahe.
+receiver: Thik hai, OTP hai 123456.
+caller: Thank you! Payment process kar raha hoon... Ji, payment confirm ho gaya hai. Aapka account abhi secure hai.  Koi aur help chahiye toh bataiye.

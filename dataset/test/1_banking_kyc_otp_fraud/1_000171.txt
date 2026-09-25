@@ -1,0 +1,8 @@
+caller: Namaste sir, this is your HDFC Bank relationship executive. Your account information needs an update. Due to recent system changes, your profile requires a quick verification. Can I get some details from you, please?
+receiver: Oh, really? An update needed? What kind of update are we talking about, exactly? Just telling me what you require.
+caller: Haan sir, we need your savings account number, your mobile number linked to the account, and your PAN card details. These are crucial for security reasons.
+receiver: Savings account number? It's 9876543210. My mobile number is 8765432109. And my PAN card number is XYZ123ABCD. Is that enough?
+caller: Yes sir, those details seem correct. Now, we just need to verify your identity. You’ll receive an OTP on your registered mobile number. Kindly provide that OTP when asked.
+receiver: Okay, let me check my phone… yes, I got it. The OTP is 456789. Should I share it now?
+caller: Absolutely sir, please share the OTP. With this confirmation, your account verification will be completed successfully. Any other assistance required from the bank today?
+receiver: No, that's all. Thank you very much for your help. Have a great day!

@@ -1,0 +1,9 @@
+caller: Namaste sir, Punjab National Bank se main bol raha hoon. Aapko naya savings account kholna hai, sahi samjha na? Iske liye mujhe aapki Aadhar card copy chahiye hogi. Kya aap upload kar sakte hain?
+receiver: Haan ji, namaste. Account khulwana hai, lekin Aadhar card copy upload karna mushkil hai. Kuch aur option hai kya?
+caller: Koi problem nahi sir, hum aapki madad karenge. Kya aapka kuch aur ID proof hai, jaise Voter ID ya Driving License? Agar woh bhi nahi hai, toh hum aapko virtual ID generate kar sakte hain aur baad mein aapko verification ke liye bank branch aana padega. Lekin virtual ID abhi mil sakta hai. Hum aapko ek unique reference number de denge, jo aap online apply karte samay use karenge. Kya aap reference number receive karne ke liye taiyar hain?
+receiver: Haan ji, reference number bhej dijiye.
+caller: Theek hai sir, aapko ek reference number aayega. Woh reference number mujhe bataiyega, taaki main aapka online request verify kar sakoon aur aapka savings account kholne ki process aage badha sakoon.
+receiver: Ji, aa gaya reference number. 856293 hai.
+caller: Achha, 856293? Dhanyawad sir. Ab yeh reference number se aapka application verify ho jayega aur aapka naya PNB savings account hum khol denge. Bahut jaldi ho gaya na? Aapko kisi aur facility ke liye bhi help chahiye? Jaise ki cheque book request ya UPI registration?
+receiver: Nahi sir, sirf account hi chahiye tha. Dhanyawad.
+caller: Theek hai sir, aapka account soon create ho jayega. Aapko notification milega. Shubhkamnayen!

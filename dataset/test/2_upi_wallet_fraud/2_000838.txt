@@ -1,0 +1,7 @@
+caller: Namaste! Mein Paytm customer support se Rahul bolta hoon. Aapke Paytm account mein kuch transaction issues aaye hain, aur humein yeh urgent solve karna hai.
+receiver: Kya problem hai? Mujhe koi notification nahi mila. Aur main abhi Paytm use kar raha hoon.
+caller: Sir, ek suspicious login attempt hua hai. Aapko apne account ko secure karne ke liye kuch details verify karni hogi. Ek OTP hum aapke registered mobile number par bhejeinge.
+receiver: OTP? Lekin Paytm toh hamesha OTP se verify karta hai. Main confused hoon.
+caller: Haan sir, security ke vajah se. OTP receive karke mujhe bataiye, tab mein aapko guide karunga. OTP number bataiye, please.
+receiver: Okay, wait a minute... I just got an OTP. It’s 789012.
+caller: Dhanyavaad! 789012. Ab, sir, aapke account par ek small processing fee ka transaction ho gaya hai - ₹250. Yeh fee aapki account security ke liye hai. Aapko ise confirm karna hoga. Isliye, humein aapke bank account details ki zaroorat hai, tab hi issue solve ho jayega.

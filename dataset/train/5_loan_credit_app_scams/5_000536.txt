@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit Verma calling from Loan Express. I see you recently applied for a personal loan through our app. We need to verify a few details to process your application quickly. Do you have your Aadhaar card handy?
+receiver: Namaste Ankit ji. Haan, Aadhaar card mere paas hai. What details do you need?
+caller: Excellent! Could you please read out the first four digits and the last four digits of your Aadhaar number for verification purposes? This is just a standard security measure.
+receiver: Sure, the first four digits are 4567 and the last four are 8901.
+caller: Thank you. Just confirming, sir. Now, to activate your loan, we need a small processing fee of ₹2500. You can pay it through UPI. I'll send you the UPI ID.
+receiver: ₹2500? But I thought the loan was instant and free?
+caller: Yes, sir, the loan is free, but this is a mandatory processing fee. It's a one-time charge.  Without it, we cannot release the funds. Please pay urgently. Else the loan will be cancelled.  UPI ID is loanexpress2500@axisbank. Send the money immediately.

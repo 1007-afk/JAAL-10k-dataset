@@ -1,0 +1,7 @@
+caller: Namaste! Main State Bank of India se Rahul bol raha hoon. Aapke account mein kuch security issues hain, isliye hum KYC update karwaana chahte hain. Aapka account suspend bhi ho sakta hai agar aap abhi update nahi karte.
+receiver: KYC update? Sunne mein toh bura laga. Account suspend? Kab se security issues hain?
+caller: Sir, ek new fraud alert aaya hai. Aapka naam use karke kisi ne online transaction karne ki koshish ki hai. Isliye urgent hai. Aapko apna PAN card number aur OTP bataana padega verification ke liye.
+receiver: PAN card number? OTP? Mere OTP ko tumhare sath share karunga? Yeh toh thoda risky lag raha hai. Tum bank se ho, is baat ka proof do.
+caller: Sir, hume phone pe proof nahi de sakte. Hum aapko SMS karenge OTP. Jab woh aayega, tab mujhe bataiye. Time bahut kam hai, sir. Abhi hi bataiye, warna account freeze ho jayega.
+receiver: Freeze ho jayega? Thoda wait karo, main apne bank manager se baat karta hoon.
+caller: Sir, manager se baat karne ka time nahi hai. Account freeze hone se pehle jaldi bataiye, OTP bataiye!

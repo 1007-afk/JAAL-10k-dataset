@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Verma? I'm calling from HDFC Bank's security department.
+receiver: Haan,ji. Yeh main Rajesh Verma bol raha hoon. Kya baat hai?
+caller: Sir, we've detected some suspicious login attempts from a foreign IP address to your account. To secure your funds and prevent any unauthorized transactions, we need to quickly verify your details. Have you received any calls recently asking for personal information?
+receiver: Nhi, bhai. Koi call nahi aaya. Aur foreign IP address se login attempts? Woh kaise hua? Main toh phone se hi banking karta hoon.
+caller: Sir, these hackers are very clever. They might have compromised your device. Could you please share the last four digits of your Aadhaar card so I can confirm your identity and initiate the security protocol? It’s a standard procedure. Account suspension is imminent if we don’t verify right away.
+receiver: Aadhaar card? Sir, mujhe toh yeh thoda suspicious lag raha hai. HDFC Bank toh kabhi bhi Aadhaar number maangta nahin hai. Chaliye, ek minute ruk jaao, main apne bank manager se baat karta hoon.
+caller: Sir, please don’t delay! This is a serious security threat. If your account is compromised, all your money will be gone. Just those last four digits, sir. For your own safety.
+receiver: Theek hai, theek hai... tension bahut ho raha hai. Dekho, 4287. Par main bank branch mein jaakar bhi verify kar sakta hoon, na?
+caller: Very good, sir. Thank you for your cooperation. Now, for the final step of verification, could you please provide the OTP you just received on your registered mobile number? This will complete the process.

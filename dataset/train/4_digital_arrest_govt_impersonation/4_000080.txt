@@ -1,0 +1,8 @@
+caller: Namaste, main Customs Department se Rahul Sharma bol raha hoon. Aapka naam Mrs. Kapoor hai, correct?
+receiver: Haan, main hi hoon. Customs? Kya hua?
+caller: Mrs. Kapoor, ek parcel aapke naam se aaya hai, aur jaanch mein ye illegal medicines se jukra hua nikla hai. Iska matlab aap drug trafficking mein sambandhit ho sakte hain.
+receiver: Illegal medicines? Yeh kaise ho sakta hai? Main toh kabhi parcel order nahi kiya. Yeh fraud lag raha hai.
+caller: Mrs. Kapoor, serious allegations hain. Aapko ED aur CBI dono taraf se notice aayega. Case ko settle karne ke liye, ₹75,000 fine jama karna padega. Iska proof aapko video call mein dikhana hoga. Aur video call mein aapko stay karna padega, warna case aur serious ho jayega.
+receiver: ₹75,000? Video call? Yeh sab kuch bahut hi wrong lag raha hai! Main police mein report karungi.
+caller: Mrs. Kapoor, police mein report karne se kuch nahi hoga. Case toh case hai, aur fine jama karna padega. Aapka naam aur account details dedo taaki hum transfer kar sake.
+receiver: Account details nahi dungi! Yeh definitely ek scam hai. Main abhi phone kaat rahi hoon.

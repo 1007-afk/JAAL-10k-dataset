@@ -1,0 +1,11 @@
+caller: Namaste sir, main Jio customer service se baat kar raha hoon. Aapka mobile number recharge expire hone wali hai aur ismein dikkat hai. Isko update karne ke liye, humein aapki bank details ki jaruri mehnat karne padni hogi.
+receiver: Jio mein problem hai? Mera number 789xxxxxx43 hai. Bank details kyun lena hai?
+caller: Ji sir, technically speaking, payment gateway mei ek small technical issue hai. Isliye humein aapki debit card ka CVV aur expiry date jankari chalni padegi.  Yeh sirf aapke account ko secure rakhne ke liye hai.
+receiver: CVV aur expiry date? Haan ji, meri CVV hai 1234 aur expiry date 31/12/2024. Parantu, mujhe abhi itna information dena bandh karna chahiye na?
+caller: Sir, aapka verification complete ho gaya hai. Abhi aapko ek OTP ayega aapke registered mobile number pe. Jab woh OTP aaye toh, mujhe bataiye ga taaki main aapka number update kar sakoon.  Aur sir, koi bhi account password ya PIN kisi ko nahi bataana hai, samajh gaye?
+receiver: Haan ji, samajh gaya. OTP ka wait kar raha hoon. Aa jaye toh main aapko turant bata doonga. Kya koi aur process hai ya bas OTP?
+receiver: Airtel? Mein ne kabhi problem nahi lagi. Mera number 880xxxxxx91 hai.
+caller: Ji sir, aapka speed check karne ke liye, humein aapke device par ek software install karna hoga. Is software ko install karne ke liye, aapko apne device ka IMEI number lagana hoga.
+receiver: IMEI number? Woh kahan milega?
+caller: Woh aapke device ke settings mein mil jaayega.  Aap "About Phone" section mein jaake find kar lenge.  Sir, aapka verification complete ho gaya hai. Abhi aapko ek OTP ayega aapke registered mobile number pe. Jab woh OTP aaye toh, mujhe bataiye ga taaki main aapka connection improve kar sakoon. Aur sir, koi bhi personal information kisi ko mat batae, samajh gaye?
+receiver: OTP ka wait kar raha hun.  Aapko message aa jayega?

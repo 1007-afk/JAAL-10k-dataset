@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Axis Bank se Rohit Verma bol raha hoon. Aapka naam jaanta hoon?
+receiver: Haan, boliye. Kaun baat kar raha hai?
+caller: Sir, aapke Axis Bank saving account mein aaj ek suspcious transaction attempt kiya gaya tha, Rs. 12,000 ka. System ne block kar diya hai, par security ke liye aapko verify karna hoga.
+receiver: Rs. 12,000? Kaunsa transaction tha? Aur mainne toh koi transaction nahi kiya tha.
+caller: Sir, ye online transaction tha, ek international site par. Aapko immediately verify karna padega, warna account suspend kar denge. OTP de dijiye, sir.
+receiver: OTP? Kisiko OTP nahi dena chahiye. Tumhara employee ID number kya hai? Aur Axis Bank ka official phone number mujhe pata hai, aap wahaan call karunga.
+caller: Sir, employee ID confidential hai, wo main disclose nahi kar sakta. Aapka account suspend hoga! Jaldi karo! OTP send karwa do, sir.
+receiver: Theek hai, call cut kar raha hoon. Main Axis Bank se khud contact karunga.

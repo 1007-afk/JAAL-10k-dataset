@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? We're calling from ‘QuickCash India’. We’ve noticed you recently applied for a personal loan online. We’ve pre-approved you for a loan of up to ₹75,000. Very exciting, isn't it?
+receiver: Haan, main Verma hi hoon. Maine toh koi loan apply nahi kiya tha, sir.
+caller: That's alright, sir! Sometimes the system picks up information. No problem at all. To release the funds quickly, we just need to verify a few details. Could you tell me your date of birth and the last four digits of your bank account number? It's a standard security check, sir.
+receiver: Date of birth… 12/08/1988. Bank account… last four digits are 4567.
+caller: Wonderful, Mr. Verma. All checks out. Now, just a small processing fee of ₹2,500 is required to activate your loan. This will be deducted immediately and ensure your loan is processed without delay. You can pay using UPI - my number is 9876543210.
+receiver: ₹2,500? Lekin maine toh koi apply bhi nahi kiya tha! Aur yeh fees ka baat kaha se aa rahi hai?
+caller: Mr. Verma, listen carefully. If you don’t pay the processing fee immediately, we’ll have to cancel your pre-approval, and we’ll have to report your account for suspicious activity. We also have access to your contacts, and we'll have to inform them of your loan default. Don't be stubborn, Mr. Verma. Do it fast.
+receiver: Contacts? Loan default? Main toh kuch bhi nahi kar raha hoon! Yeh fraud hai!

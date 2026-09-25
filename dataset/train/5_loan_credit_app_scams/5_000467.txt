@@ -1,0 +1,7 @@
+caller: Namaste! Madam, speaking with Rahul from QuickCash Solutions. We've pre-approved you for a ₹75,000 personal loan with minimal paperwork. Just a few details to verify, and it's yours! Aapka naam sunkar khushi hui, what's your name?
+receiver: Haan, ji. Mera naam Anjali Sharma hai. Loan ki baat sun raha hoon. But I’ve applied for a loan elsewhere already.
+caller: Excellent, Anjali Sharma ji! See, you're already showing good financial sense. The other loans might have high rates. QuickCash offers a very competitive rate, just 1.5% per month. But to activate the offer and process it quickly, we need a small verification fee of ₹5,500. This covers the processing and security.
+receiver: ₹5,500 verification fee? That seems a bit… high. Shouldn't that be deducted from the loan amount?
+caller: Anjali ji, security is paramount. This fee ensures your information is protected and prevents fraud. Think of it as an investment in your financial security! Plus, it proves you are serious about getting the loan. Transfer ₹5,500 to the account I'll send you via SMS. Just one small step to ₹75,000.
+receiver: Okay, let me see. Can you send me the account details first, please? I want to double-check everything. And tell me, what happens if I don’t pay this fee?
+caller: Absolutely, Anjali ji! Here’s the account number: 1234567890, IFSC Code: QCSB00001. Pay it immediately, please. If you don’t, Madam, I have to sadly cancel the pre-approval. We have many others waiting for this fantastic offer

@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan from QuickLoan India. We saw you recently applied for a personal loan on our website. Just a few quick verification steps and the loan can be processed. Can I get your name, please?
+receiver: Yes, my name is Suresh Kumar. I did apply for a loan. What needs to be verified?
+caller: Excellent, Mr. Kumar. To confirm your identity, we need to quickly verify a few details. Could you share the last four digits of your bank account number and also your PAN card number for quick processing? It’s standard procedure.
+receiver: My bank account ends in 4321. And my PAN is ABCDE1234F. Is that alright?
+caller: Perfect, Mr. Kumar. One more thing. Due to security protocols, we need a small verification fee of ₹2,500 to activate your loan. This will be a one-time charge and will be credited back to your account once the loan is disbursed. You can deposit it via UPI to this ID: [Invent a UPI ID].
+receiver: Two thousand five hundred? That wasn't mentioned earlier. And a verification fee? I thought the loan was instant.
+caller: Sir, this is to prevent fraudulent activities. It's a mandatory process. Think of it as an insurance against any issues. Once you pay this fee, your loan of ₹50,000 will be immediately approved. Just send the screenshot of the UPI transaction, and we'll proceed. Otherwise, we'll have to cancel the application, sir.

@@ -1,0 +1,9 @@
+caller: Namaste! Aaj aapka ek bahut hi achcha din chal raha hai, na? Hum Champneys se naye, bahoot sundar cheezein test karne ke liye kuch shandar logon ko dekh rahe hain. Yeh ek khaas offer hai, aur aapko bhi invite karna chahte hain. Kya aap thamne yeh test karne mein interest rakhega? Abhi aap mujhe apna address aur janm din deta hai, agar aapko shaant lagta hai?
+receiver: Haan, suno toh! Champneys? Yeh bohot interesting hai! Mera din bhi achha chal raha hai. Thoda confusion hai, par thode paise kamaane ki koshish kar raha hoon. Aapka address aur janm din deta hoon, lekin bataiye yeh cheezein kya hain?
+caller: Aise hi, ye Champneys ki nayi beauty products hain, jo aapko bohat pasand aayengi. Yeh ek special program hai, jisse aapko free samples milenge aur aapki feedback bhi lenge. Agar aapko khushi hogi, toh mujhe apna full address aur pin code batayein.
+receiver: Okay, okay, mein samajh gaya. Apna address hai [Invented Full Address] aur pin code [Invented Postcode]. Par yeh sample kitne ka honge?
+caller: Woh sab secret hai, beta. Koi kharcha nahi hoga. Yeh sirf testing ke liye hai.  Aur kya, mujhe apne janm din ki bhi jaruriyat hai, agar aapko koi problem nahi ho toh.
+receiver: Mein pehle apni janm din bataunga. Ehsaas hota hai ki kuchh gadbad hai.  Yeh janm din hai [Invented DOB].  Phir aapko apna address aur pin code batana padega?
+caller: Haan, correct hai. Apna address phir se batayein, aur pin code bhi.  Aur kya, mujhe apna naam bhi batao, sirf verification ke liye.
+receiver: Mera naam hai [Invented First Name].  Ab aapko sab kuch pata hai.  Mein ab chup rehna chahta hoon.  Yeh number mat call karte.
+caller: Shukriya, [Invented First Name].  Aapko Champneys ke testers ke liye selected kiya gaya hai.  Aapko sampurna details jaldi mein jaankari milegi.  Dhanyavaad!

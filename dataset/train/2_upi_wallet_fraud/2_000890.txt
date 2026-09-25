@@ -1,0 +1,8 @@
+caller: Namaste, mai PhonePe se Rohit bol raha hoon. Aapke PhonePe account mein ek transaction fail ho gaya hai, ₹499 ka.
+receiver: ₹499? Haan, mujhe yaad hai. Kya hua?
+caller: Sir, security reasons se, humne transaction hold kar diya hai. Aapko apna PhonePe PIN verify karna hoga, tabhi transaction complete ho payega aur account secure rahega.
+receiver: Mere PIN? Sir, mujhe toh koi message ya notification nahi aaya tha. PhonePe toh kabhi bhi PIN puchta nahi.
+caller: Haan sir, ye ek new security protocol hai. Koi chinta mat karein, sirf OTP jo aapko PhonePe app par milega woh bata dijiye. Isse aapka account safe rahega aur ₹499 ka transaction bhi ho jayega.
+receiver: Theek hai, ek minute. Mujhe OTP check karne do... Arre sir, mujhe koi OTP nahi mila hai.
+caller: Sir, shayad network mein problem hai. Aapko ek aur OTP try karna hoga. Aapka PhonePe PIN bata dijiye, hum verify kar lenge.
+receiver: Nahin sir, main PhonePe PIN kisi ko bhi nahi bata sakta. Yeh bahut risky hai. Mai report karunga.

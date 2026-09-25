@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se baat kar raha hoon. Aapko ek special offer mila hoga, 600 minutes, 120 SMS aur ek smart video conferencing device. Humne pehle bhi aapse contact karne ki koshish ki thi. Kya aapko woh message mili ya nahi?  Aapko jaise time par delivery chahiye, hum kal raat 8 baje delivery kar sakte hain.  Agar aapko delivery confirm karna hai toh 09876543210 pe call karein ya reply karein.  Kaisa haal hai?
+receiver: Ji ji, namaste! Mein samajh raha hoon. Wahan video conferencing device bahut sundar lagta hai. Kal raate 8 baje delivery possible hai?  Aur is mein koi technical problems nahi aayenge na?
+caller: Haan ji, technically sab theek hai. Humne device ko carefully pack kiya hai. Delivery ka time fixed hai, kal raat 8 baje.  Humne aapke liye special discount bhi de diya hai, ₹500 off!  Bas aapko payment detail kaise update karne hai, wo batao.  Online payment karna hai ya offline?
+receiver: Online karna acha rahega. Mera Paytm number hai [Invented Paytm Number].  Payment karte samay koi issue nahi hona chahiye na?
+caller: Haan ji, Paytm par payment bahut secure hai.  Payment complete hone ke baad, hum delivery team ko notification send karenge.  Delivery timings ka koi change nahi hoga, kal raat 8 baje delivery hogi.  Aapko koi extra charge bhi nahi lagega.
+receiver: Okay, perfect! Toh kal raat 8 baje delivery hogi, aur payment Paytm se hoga.  Mujhe peace of mind chahiye, delivery confirm ho jaaye.
+caller: Absolutely!  Aapka number [Receiver’s invented number] record kar li gayi hai.  Kal raat 8 baje delivery ke liye aapko confirmation message bheja jayega.  Koi bhi doubt hai toh humein call karte reh jao.
+receiver: Ji ji, thank you so much!

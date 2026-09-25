@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? My name is Rahul, calling from Bluedart Courier Services. We have a package addressed to you, but there's been an issue with the delivery.
+receiver: Oh, really? What’s the problem? I wasn’t expecting anything.
+caller: Yes, ma'am. It appears there’s a customs clearance problem. To release the package, we need to verify some details. Can you please provide the last four digits of your bank account for verification purposes?
+receiver: My bank account? That seems a bit strange. Why do you need that? Isn’t there a different way to verify?
+caller: Ma’am, this is standard procedure. It's to prevent fraud and ensure the package reaches you safely. We also need a one-time password sent to your registered mobile number for extra security. Can you share that with me once you receive it?
+receiver: No, I’m not comfortable sharing that information. I'll call Bluedart directly to confirm. What's your number?
+caller: Ma'am, our system is experiencing technical difficulties. We can't provide the contact number at the moment. But if you don't share the OTP now, we will have to return the package to the sender, and you'll be charged a return fee of ₹799.

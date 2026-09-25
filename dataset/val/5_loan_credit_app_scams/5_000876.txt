@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from SpeedyLoanPro. I’m calling about a pre-approved loan offer in your name. You've been selected for a fast loan, no credit check needed. How are you doing today?
+receiver: Oh, really? A loan? I wasn't expecting that. What's the amount they're offering? And how did you get my number?
+caller: Wonderful! We're offering up to ₹15,000, easily approved. We got your number through a secure database for pre-qualified applicants. Just a quick verification process, and the money will be in your account within an hour. To start, can you tell me your date of birth?
+receiver: Hold on a minute. This sounds a bit fishy. Why do you need my date of birth for a loan? I’m not comfortable sharing that information over the phone.
+caller: It's standard procedure, madam, just to confirm your identity. It’s for security purposes only. Don't worry, we’re completely legitimate. Otherwise, how would we know the loan isn't going to someone else with a similar name? Just a quick date of birth, and we can move forward. Otherwise, this wonderful offer will disappear.
+receiver: No, I'm not giving you my date of birth. And I think I’m going to end this call now. It's a scam.
+caller: Wait, please! I am so sorry. I have been told to offer a little bonus, so I am giving you the loan for free. Give me your bank account and IFSC code.

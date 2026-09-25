@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Sharma speaking? This is Agent Verma from the Directorate of Enforcement. We've detected some unusual activity linked to your bank account – a series of small transactions originating from abroad.
+receiver: Ji, main hoon. Kya hua? Abroad se transactions? Mujhe toh kuch pata nahi hai.
+caller: Ms. Sharma, our records show three payments of ₹2,500 each, totaling ₹7,500, processed through PayTM to a gaming account. We suspect these might be related to illegal online gambling activities, which are being used to launder money.
+receiver: Gaming account? PayTM? Main toh kabhi online games nahi kheli! Main toh kabhi PayTM se aisa kuch nahi kiya. Yeh galat hai!
+caller: Ms. Sharma, we understand this is concerning. To clear your name and prevent further investigation, we need to verify your identity and assess the situation. We require you to transfer ₹15,000 to a secure government account as a temporary holding fee while we investigate the source of these funds.
+receiver: ₹15,000? Secure government account? Sir, yeh toh scam lag raha hai. Main toh police mein report karungi.
+caller: Ms. Sharma, delaying the process will only escalate the matter. We have evidence and are obligated to follow protocol. This holding fee is fully refundable once the investigation is complete, which should be within 24 hours. Please cooperate for your own benefit. Kindly provide your bank account number so we can guide you through the transfer.
+receiver: Account number? No! Main koi bhi information nahi deungi. Aap log fraudsters ho! Main abhi police ko phone karti hoon.

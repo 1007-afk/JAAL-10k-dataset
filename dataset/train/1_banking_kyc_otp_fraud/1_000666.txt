@@ -1,0 +1,10 @@
+caller: Namaste sir, main Bharat Telecom se baat kar raha hoon. Aapki mobile internet connection 48 hours mein expire hone wali hai. Kya aap isko renew karna chahenge?
+receiver: Bharat Telecom se? Meri internet expire hone wali hai? Mein toh recently recharge kiya tha. Mera name is Priya Patel, please tell me.  Aur kis reason se internet expire hogaya?
+caller: Ji madam, bilkul. Madam ka naam kya hai? Aur internet expire hone ka reason yeh hai ki aapke recharge plan mein expiry date fixed hota hai. Hum aapko baraahane ki reminder de rahe hain. Aapki details check karne ke liye mujhe aapka account number chahiye hoga madam.
+receiver: Okay, my name is Priya Patel. So, basically it’s just a regular reminder about the expiry date, right?  What kind of information do you need from my account number?
+caller: Ji Mrs. Patel. Aapko internet renew karne ke liye, mujhe aapke last four digits of your Aadhaar card number ki jaankari chahiye.  Iske badle mein aapki internet secure rahegi aur expire nahi hone wali.
+receiver: Oh really?  Aadhaar card numbers?  That sounds a little suspicious.  Meri Aadhaar number to main share nahi karta.  Mujhe account number pehi chahiye tha.
+caller: Madam, sorry for the inconvenience. Aapko security reasons ke liye Aadhaar card number chahiye hota hai.  Agar aapko rahat ho toh hum aapko alternate way mein bhi connect kar sakte hain.  But aapko confirm karna padega ki aap yahaan call kar rahe hain.
+receiver: No, thank you. I don't want to give any personal information over the phone. I will check my MyJio app and see if I can renew myself. Thank you!
+caller:  Ji Mrs. Patel. Aapko help karne ke liye dhanyavad.  Aapko koi aur assistance chahiye toh Bharat Telecom helpline number 1800-XXX-XXXX par call karein. Goodbye!
+receiver: Goodbye!

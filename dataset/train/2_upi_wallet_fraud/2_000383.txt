@@ -1,0 +1,9 @@
+caller: Hello! Mai Amazon se calling kar raha hu. Aapke account mein ₹10,000 ka credit refund process ho raha hai.
+receiver: Amazon se? Refund? Mujhe yaad nahi ki main ne kuch return kiya tha.
+caller: Haanji, aapne recently ek product return kiya tha, lekin payment processing mein thodi problem aa rahi hai. Refund complete karne ke liye, aapko ek OTP verify karna hoga.
+receiver: OTP? Konse number pe send karenge? Aur mujhe kaise pata chalega ki yeh Amazon ka call hai?
+caller: OTP 888888 pe send karenge.  Yein security check hai.  Aapko Amazon app mein bhi notification milega, wahaan aap verify kar sakte hain.  Time kam hai, ₹10,000 ka refund ruk sakta hai.
+receiver: Thik hai, wait kar raha hu.  App mein check karta hu...  Haan, mujhe notification mila.  OTP hai... 12345.
+caller: Excellent! Ab aapko ₹500 processing fee deposit karna hoga.  Yeh Amazon ka rule hai, refund process karne ke liye. Aapko Paytm ya GPay pe send karna hoga. Jaldi karo, offer valid hai sirf 5 minutes ke liye.
+receiver: ₹500?  Processing fee?  Amazon toh kabhi bhi nahi bola tha such.  Dekho, mujhe doubt ho raha hai.
+caller: Beta, doubt mat karo! ₹10,000 ka refund ruk jayega! Aapko sirf ₹500 deposit karke claim karna hai. Abhi Paytm number send karo, main confirm karta hu.

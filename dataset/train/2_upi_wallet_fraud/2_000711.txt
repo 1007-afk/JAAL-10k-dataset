@@ -1,0 +1,8 @@
+caller: Hello! This is BharatPay customer service. We've noticed some suspicious activity on your account. To secure your funds, we need to verify your details.
+receiver: Oh really? Suspicious activity? What happened? I haven’t done anything unusual.
+caller: Yes, sir. A small transaction of ₹50 is showing up. To reverse this and prevent further unauthorized access, we need you to send ₹99 as a processing fee to this UPI ID: 7890123456@axisbank.
+receiver: ₹99? Seriously? BharatPay never asked for a processing fee before. And why is it going to a random UPI ID?
+caller: Sir, due to new security protocols, this is a mandatory verification step. It’s to ensure you are the genuine account holder. Think of it as a security deposit. Once we confirm the transaction, we’ll reverse the ₹50 and secure your account. It’s a quick process.
+receiver: This sounds really fishy. I’m not comfortable sending money to an unknown UPI. Can I speak to a supervisor? Or is there another way to verify my account, like through the BharatPay app itself?
+caller: Sir, supervisors are currently busy assisting other customers. This is the fastest way to secure your account and prevent any further losses. The ₹50 transaction could escalate quickly if left unchecked. Please, send the ₹99 now to avoid any issues. It's for your own safety, sir.
+receiver: No, I'm not sending any money. I'm going to report this to BharatPay directly through their official channels. Thank you for nothing.

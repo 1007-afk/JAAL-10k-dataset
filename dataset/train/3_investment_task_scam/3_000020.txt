@@ -1,0 +1,12 @@
+caller: Namaste sir, kaise haal hai? Yeh Mumbai se baat kar raha hoon.  Right now, the highest bid on that antique clock you were looking at is 320. Just wanted to let you know, sir. We need you to quickly confirm if you wish to exit the bidding process. Is that clear?
+receiver: Haan, main sun sakta hoon. 320? Thoda surprise hai, lekin okay. Wait karo, mujhe kuch check karna hai. Kya koi aur bidder hai yehi clock ke liye?
+caller: Haan sir, aap sun sakte hain. 320 rupees ka current bid hai. If you type ‘STOP’ and send it, then the auction will stop immediately and nobody else can bid on it. Do you want to proceed with stopping it?
+receiver: Arey yaar, ek minute. 320? Actually, I was thinking about something else entirely.  Do you know how much this clock is really worth?  I’ve heard stories...
+caller: Sir, there are many potential buyers interested in this clock, and time is running out. Typing ‘STOP’ ensures you won't overpay.  We’ve had several inquiries already, and someone could easily beat you if you delay. Customer Support: 9876543210
+receiver:  Yaar, seriously? Someone could beat me?  But 320… it feels a little high, doesn’t it?  Is there absolutely no way to negotiate a bit further? Maybe 290?
+caller:  Sir, the ‘STOP’ command is our only safeguard against escalating bids. Once it’s sent, the auction is frozen. It’s a simple precaution to protect your investment.  Don't risk losing this valuable piece to another bidder.  Please confirm if you want to stop the auction.
+receiver:  Okay, okay, you're making sense. But what if I change my mind later? Can I still re-enter the bidding process?  Just give me a few more seconds to think.
+caller: Sir, once the auction is stopped, you cannot re-enter until the next bidding cycle. This prevents anyone from manipulating the system.  It’s a standard procedure to ensure fair play.  Are you ready to type ‘STOP’?
+receiver:  Arey, yaar!  Main toh pagal ho jaunga!  Agar maine STOP kar diya, toh phir kabhi ye clock nhi milega?  Mat karo, mat karo!  Let me just… think for a moment.
+caller: Sir, please don't hesitate. This is a unique opportunity to acquire a rare antique.  The clock is expected to sell very quickly.  Type ‘STOP’ immediately to secure it. Customer Service: 8800112233
+receiver:  Okay, okay, fine. Let me just… type ‘STOP’.  But if I regret it, can you promise me you’ll let me know if the clock goes for less than 320?

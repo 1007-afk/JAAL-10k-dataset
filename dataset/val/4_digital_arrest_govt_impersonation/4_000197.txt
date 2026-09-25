@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Sharma?
+receiver: Haan, mai hu. Suniye, kaun bolta hai?
+caller: Ji, mai Inspector Verma, Mumbai Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Dubai se, lekin usmein illegal items milne ki sambhavna hai.
+receiver: Kya? Illegal items? Mere naam se? Main toh kabhi parcel order nahi kiya.
+caller: Haanji, parcel mein suspect items hain. Case number hai [Invent a case number, e.g., MC-2024-786]. Aapko parcel release karne se pehle, legal process complete karni hogi. Isliye, humein aapke bank account details ki zaroorat hai taaki fine deposit kar sake.
+receiver: Bank account details? Yeh kya baat ho rahi hai? Main koi fine nahi bharungi. Mujhe parcel dikhao, please.
+caller: Ma’am, parcel customs warehouse mein hai. Security ke wajah se humko parcel nahi dikha sakte. Fine deposit ke bina, parcel confiscat kar lenge aur aapke khilaf criminal case register hoga. Amount sirf ₹15,000 hai, ma’am.
+receiver: ₹15,000? Yeh toh bohot zyada hai! Mai police se complaint karungi. Aap mujhe koi receipt number ya official contact number do.
+caller: Ma’am, police se complaint karne se kuch nahi hoga. Case alreay register ho chuka hai. Aapke account number aur IFSC code do, mai aapko payment link bhejta hoon. Time is running out, ma'am. Hurry.

@@ -1,0 +1,16 @@
+caller: Hello, this is Rohan calling from Global Investments. We have an exceptional opportunity for you regarding a high-yield investment.
+receiver: Oh really? What kind of investment is it?
+caller: We’ve identified a promising real estate venture in Jaipur – a beautiful bungalow near the Pink City. It's projected to yield around 18% returns annually. But there’s a slight catch.
+receiver: A catch? What do you mean?
+caller: To secure this investment, we need a small processing fee of ₹5,000. This covers legal documentation and initial setup costs. Just a quick transfer through UPI – my ID is RohanSharma786@UPI.
+receiver: ₹5,000? For what exactly? And who is Rohan Sharma?
+caller: Rohan Sharma is myself, sir. I'm the lead consultant at Global Investments. The ₹5,000 is essential to unlock the full potential of this property. We can send you detailed brochures and contracts via WhatsApp.
+receiver: WhatsApp? Send me the link first. I want to see these documents before I pay anything.
+caller: Certainly. Here’s the link: bit.ly/GlobalInvestJaipur. Please review it carefully. Don’t hesitate to ask if you have any questions.
+receiver: Okay, I’ll check it out. But tell me honestly, is this a legitimate investment opportunity?
+caller: Absolutely! We’ve done our due diligence. This is a fantastic chance to diversify your portfolio and earn significant returns.  We need that ₹5,000 now to proceed.  It’s a limited-time offer, so act fast!
+receiver: Act fast? That sounds a little pressured. Let me think about it. I'll get back to you tomorrow.
+caller: Of course, sir. Take your time. But remember, this opportunity won’t last long.  Just confirm the payment once you’re ready.  Don't miss out on this golden opportunity!
+receiver: Okay, thank you for the information. I will consider it.
+caller: You're very welcome! Have a great day, sir. Goodbye.
+receiver: Bye.

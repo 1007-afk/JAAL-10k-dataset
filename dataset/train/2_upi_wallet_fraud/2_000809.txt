@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay se baat kar raha hoon, ZeeCash se. Aapko ek shandar offer mila hai! Aap Paytm se ₹500 cashback jeete hain! Claim karne ke liye, sirf ₹50 likhein aur send karein. Offer limited time ke liye hai!
+receiver: ₹500 cashback? Yeh kaise? Paytm ne mujhe koi message nahi bheja hai.
+caller: Haan ji, offer direct Paytm se nahi, ek special promotion ke zariye hai. ₹50 sirf verification ke liye hai, aur phir ₹500 cashback aapke Paytm wallet mein transfer ho jayega. Jaldi kijiye, offer abhi khatam hone wala hai!
+receiver: ₹50 bhi dena padega? Main soch raha tha cashback hai.
+caller: Haan, ₹50 verification fee hai. Iske bina cashback nahi milega. Abhi ₹50 send kar dijiye, aur cashback aapke account mein ho jayega! Jab ₹50 send kar denge, to mujhe confirmation message send karein.
+receiver: Okay, thik hai. Main ₹50 send karta hoon. But jab cashback milega, uski confirmation bhi chahiye.
+caller: Haan ji, bilkul! ₹50 send karte hi aapko OTP milega, usko jald se jald send karein. Cashback confirmation message aapko 24 hours mein mil jayega. Abhi jaldi se ₹50 send karein!
+caller: Sirf ₹50 ki verification fee se ₹500 cashback jeetein! Offer abhi valid hai!

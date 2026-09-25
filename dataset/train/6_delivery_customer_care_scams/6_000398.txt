@@ -1,0 +1,8 @@
+caller: Hello, this is Akash from Zomato customer care. We’ve noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? I haven't ordered anything recently.
+caller: Yes sir, there’s a pending delivery with a payment failure. The order amount is ₹875. To complete the delivery and avoid cancellation, you need to verify your transaction through OTP.
+receiver: ₹875? I didn't place any order for that amount. What’s the restaurant and delivery address?
+caller: Sir, the restaurant is 'Spice Delight' and the address is… let me check… it’s showing as Sector 12, Noida. We need that OTP urgently, sir, otherwise the order will be cancelled and you'll lose the food.
+receiver: Noida? I live in Delhi! This sounds suspicious. Can you give me a reference number for this order?
+caller: Sir, for security reasons, we can’t disclose the reference number over the phone. Just the OTP, please. We are about to cancel the order!
+receiver: No, I’m not giving you any OTP. I’m reporting this.

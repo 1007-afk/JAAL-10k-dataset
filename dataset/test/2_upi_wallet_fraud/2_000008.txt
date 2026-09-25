@@ -1,0 +1,11 @@
+caller: Namaste! Suno, main Rajeev Kumar bol raha huun. Main aapko Paytm se ek special offer baare mein baat karna chahta hun. Yeh ek final alert hai, please jaawab do.
+receiver: Haan, sunao. Kya hai yeh offer?
+caller: Aapse Paytm par ek new account open karne ka chance mila hai, aur ismein aapko ₹500 cashback milega. Parantu, yeh offer sirf aaj raat ka 11 baje tak chalega. Isliye, humein aapke Paytm number ko verify karna hoga.
+receiver: ₹500 cashback? Thoda interesting hai. Parantu, verification ke liye kya karna padega?
+caller: Aapko apne Paytm app mein "Verify Account" option find karna hoga, aur uske badle aapko ek OTP receive hoga. Us OTP ko hume helpline number 77777 se batana hoga.
+receiver: 77777? Ok, samjh gaya. Lekin, aapne mera Paytm number confirm karne walaa kyun kaha? Mujhe suspicion lag raha hai.
+caller: Arre bhai, number confirm karna zaroori nahi hai! Humein sirf OTP chahiye. OTP toh aap khud enter karenge. Parantu, yeh offer humein khatam ho jaane wala hai, isiliye haste haste bolte hain ki yeh last chance hai.
+receiver: Last chance? Haan, okay. Parantu, mujhe abhi thik nhi lag rha. Aapka helpline number bataiye, agar main kuchh puchhna chaahun.
+caller: Helpline number hai 88888. Jab bhi koi sawal hoga toh aap usse call karein. Parantu, please, aaj raat 11 baje tak 'Verify Account' karna mat bhoolna. Cashback miss mat karna!
+receiver: Okay, note kar li. Raat ko dekha jayega. Parantu, yeh offer genuine hai kya?
+caller: Haan, genuinely genuine hai! Paytm ka hi offer hai. Aur humein sirf OTP chahiye, trust karo! Abhi 'Verify Account' kar lein, and enjoy your ₹500 cashback!

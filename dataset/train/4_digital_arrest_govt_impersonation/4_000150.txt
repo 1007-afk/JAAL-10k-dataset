@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? I’m calling from the Directorate of Revenue Intelligence, DRI. We have detected some unusual activity related to a parcel registered under your name.
+receiver: Haan ji, main hi hoon. Sharma bol raha hoon. Parcel? Kya baat hai?
+caller: Ji, Mr. Sharma. Our records indicate a package containing suspected contraband has been linked to your address. It seems it was intercepted at the airport. This is a serious matter, sir, and we need to verify a few details urgently.
+receiver: Contraband? Lekin main toh kabhi parcel nahi bheja. Yeh kya bol rahe hain? Kaise parcel?
+caller: Yes sir, we understand your concern. To clear this up, we need you to call our verification helpline immediately on 7890123456. There's a court case pending, and we need to confirm your involvement to prevent further legal complications. You must call within the next 10 minutes.
+receiver: Court case? Yeh toh bahut ghabrahat kar raha hai. 7890123456? Wait a minute, I'll check. But why are you not telling me more details?
+caller: Sir, due to the sensitivity of the investigation, we cannot disclose specific details over this line. It's standard protocol.  The officer handling the case, Inspector Verma, will explain everything. Please call 7890123456 now – time is of the essence.
+receiver: Inspector Verma? Okay, I'll call. Just let me check something first…

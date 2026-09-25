@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Verma? I’m calling from BlueDart regarding a parcel addressed to you. There seems to be an issue with the delivery address, and we need to confirm some details.
+receiver: Haan, main hoon Mrs. Verma. Kya hua? Parcel ka kya issue hai?
+caller: Ma'am, the system shows an incomplete address. To ensure smooth delivery of your new Smartwatch from Myntra, we require a one-time password (OTP) to verify your identity. We've sent an OTP to your registered mobile number.
+receiver: OTP? Delivery ke liye OTP kyun chahiye? Ye thoda funny lag raha hai. BlueDart toh OTP nahi maangti.
+caller: Ma’am, this is a new security protocol implemented to prevent fraudulent deliveries. It’s a standard procedure. Please provide the OTP so we can complete the delivery. Reference number is BD789456.
+receiver: Theek hai, theek hai. Par mujhe abhi OTP nahi mila. Main check karti hoon. Aur ye smartwatch...mai toh kuch order nahi kiya tha.
+caller: Ma'am, sometimes OTP takes a minute to arrive. While you’re checking, could you please confirm the last four digits of the card you used for the Myntra purchase? Just to double-check everything is correct.
+receiver:  Arey yaar, abhi bhi OTP nahi aaya!  Card ka number kyun pooch rahe ho?  Koi gadbad toh nahi hai na?  Main police mein report kar doongi.

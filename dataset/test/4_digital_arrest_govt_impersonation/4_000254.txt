@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Directorate of Enforcement. We’ve detected unusual activity linked to your bank account – several large transfers to offshore accounts.
+receiver: Kya? Yeh kahan baat ho rahi hai? Maine toh koi transfer nahi kiya.
+caller: Sir, we need to verify some details immediately. This involves allegations of money laundering, potentially linked to an international smuggling ring. We have a court order to freeze your assets temporarily.
+receiver: Arey yaar, yeh bahut galat ho raha hai! Mai toh ek normal aadmi hoon. Koi smuggling ring ki baat sunne mein mujhe interest nahi hai.
+caller: Sir, please understand the gravity of the situation. To clear this up, we need you to make a small payment – just ₹50,000 – as a security deposit to show your cooperation. We’ll release your funds once the investigation is complete. We'll keep you on a video call so you can’t alert anyone.
+receiver: ₹50,000? Kaise bhi ho, mai payment nahi karunga. Yeh scam lag raha hai! Mai police station mein jaonga.
+caller: Sir, please! Don't be hasty. This is a very sensitive matter. We need to resolve this quickly to prevent further legal action. Think of it as a small fee to avoid much bigger trouble. We can transfer you to our legal department to explain everything.
+receiver: Legal department? Fine, let me talk to them. But I am recording this entire conversation.

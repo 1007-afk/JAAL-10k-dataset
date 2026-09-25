@@ -1,0 +1,8 @@
+caller: Hello sir, I am from Idea Customer Care Center. We are doing verification of your number, that's why a four-digit OTP has been sent to your phone. Please tell me that OTP.
+receiver: Oh, okay. Ek minute sir, mujhe dekho de do. Haan, aaya hai. Aapka OTP hai 4582. Kya bola aapne? Haan, 4582.
+caller: Okay sir, thank you for confirming. Now, to complete the verification process, I need to confirm a few more details. Can you please tell me the last 4 digits of your bank account number that is linked to your Idea number?
+receiver: Bank account ke last 4 digits? Uh, ek minute, mujhe check karna padega. Ek second hold kijiye please.
+caller: Haan sir, jaldi kijiye. Ye verification process bahut important hai. Aur zyada time nahi le sakte hum. Agar aap nahi bata sakte to humara process ruk jayega. Please, 4 digits bata dijiye bank account ke jo Idea number se linked hai. Important hai sir ye.
+receiver: Uh, sorry sir. Mera bank account number toh abhi yaad nahi aa raha hai. Kya yeh zaruri hai? Kuch aur tarika hai verify karne ka?
+caller: Arre sir, yeh toh bahut zaruri hai. Aapka Idea number ko humare system mein verify karne ke liye bank account details chahiye. Bina uske hum verification pura nahi kar sakte. Kya aapko yaad nahi hai kaun sa bank account aapne link kiya hai? Thoda effort kijiye sir. Dekhiye, humara time bhi waste ho raha hai aur aapka bhi.
+receiver: Sir, maine bataya na, mujhe sach mein yaad nahi aa raha hai. Kaunsa bank account link hai, ye toh maine kab se link kiya tha, mujhe dhyan nahi hai. Kya koi aur option nahi hai? Number pe message check kar sakte hain ya kuch aur?

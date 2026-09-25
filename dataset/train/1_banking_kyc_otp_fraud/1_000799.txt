@@ -1,0 +1,8 @@
+caller: Namaste, mai ICICI Bank se Rohan Sharma bolta hoon. Aapke account mein kuch suspicious activity dikha raha hai, isliye aapki KYC update karna bahut zaroori hai.
+receiver: KYC update? Mujhe koi message nahi aaya ICICI Bank se.
+caller: Haanji, sir, abhi system mein automatic update ho gaya hai. Aapko apni Aadhaar card ki copy aur PAN card ki copy nikaal kar mujhe WhatsApp par send karni hogi, taaki hum verify kar sakein.
+receiver: Aadhaar card aur PAN card? Mujhe thoda shaq ho raha hai. Bank aise details phone par nahi manta na?
+caller: Sir, security ke liye hi kar rahe hain. Agar aap details nahi denge, toh aapka account suspend bhi ho sakta hai. Yeh ek urgent matter hai.
+receiver: Account suspend? Kab se suspend hoga?
+caller: Kal subah tak, sir. Aapko chahie ki aap jald se jald details send kar den. Main aapko WhatsApp number de deta hoon – 9090909090. Jaldi se karo, sir.
+receiver: Ok, wait kar raha hoon.

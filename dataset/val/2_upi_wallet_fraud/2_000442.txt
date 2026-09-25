@@ -1,0 +1,7 @@
+caller: Namaste Sir, Flipkart se Vishal bol raha hoon. Aapko ek achha cashback offer mila hai. Aapne recently Flipkart par ek phone buy kiya tha na?
+receiver: Haan, bilkul. Flipkart se? Kya offer hai?
+caller: Sir, aapke order par ₹5000 ka cashback offer hai. Is offer ko claim karne ke liye, aapko ek small processing fee bhar deni hogi, sirf ₹500.
+receiver: ₹500? Processing fee? Flipkart aise offers deta hai kya? Mujhe toh kuch yaad nahi.
+caller: Sir, ye ek limited time offer hai, sirf aaj ke liye. Aapko ₹500 fee Paytm ke zariye bharनी होगी. Main aapko ek UPI link भेजूंगा, वहाँ पर आप पेमेंट कर सकते हैं.
+receiver: UPI link? Theek hai, भेजो. Par mujhe thoda doubt ho raha hai, yaar.
+caller: Haan Sir, jaldi karo. Link ye hai: http://flipkart.cashback.site. Hurry Sir, offer abhi khatam hone wala hai!

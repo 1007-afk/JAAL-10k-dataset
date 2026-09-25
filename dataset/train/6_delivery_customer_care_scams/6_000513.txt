@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Zomato ka customer care hai. Aapke naam par ek order aaya hai, lekin payment mein kuch problem hai. ₹2500 pending hain.
+receiver: Zomato? Mereko toh koi order yaad nahi. Mein aajkal toh kuch order kiya bhi nahi.
+caller: Haan sir, order ID ZM78945. Aapne aaj raat 8 baje ek family meal order kiya tha, "Spice Route" se. Payment fail ho gaya, isliye hum confirm karna chahte hain.
+receiver: Spice Route? Nahin, nahin, bhai. Woh toh mein kabhi order karta hi nahi. Galat address hoga. Meri Zomato account mein check karta hoon.
+caller: Sir, galat address nahi hai. System mein sab sahi dikh raha hai. Payment complete karne ke liye, aapko ek OTP mil jayega, woh mujhe bata dijiye. Tabhi order deliver ho jayega.
+receiver: OTP? Abhi? Nahin, bhai. Mein OTP kisi ko bhi nahi bataunga. Tumhara awaaz bhi kuch suspicious lag raha hai. Zomato ka customer care aise nahi bolta.
+caller: Sir, please, hurry! Agar payment complete nahi hua, toh order cancel ho jayega aur aapka ₹2500 bhi loss ho jayega. Just batao OTP.
+receiver: Dekho, mujhe pata hai tum log kya kar rahe ho. Main police mein complaint karunga. Yeh delivery scam hai.
+caller: Sir, please! Don’t do that. We can resolve this right now. Give me the OTP, sir, please. Just give me the OTP.

@@ -1,0 +1,9 @@
+caller: Namaste, madam! Mein Paytm se Sunil bol raha hoon. Aapke Paytm wallet mein cashback offer hai! Aapko ₹500 ka cashback milega agar aap ek small transaction karte hain.
+receiver: Paytm se? ₹500 cashback? Bilkul, batao kya karna hai.
+caller: Haan ji! Aapko bas ek link pe click karna hai aur ek payment karna hai ₹10 ka. Jab payment ho jayega, cashback automatically aapke wallet mein add ho jayega. Yeh link hai: paytm.cashback.in/offer77.
+receiver: ₹10 ka payment? Aur cashback automatically? Okay, ek minute, main check karta hoon. Paytm.cashback.in/offer77? Yeh link sahi hai?
+caller: Haan ji, bilkul sahi hai. Jaldi kijiye, offer limited time ke liye hi hai. Dusre log bhi iska faida utha rahe hain. Aapko ₹500 ka cashback miss nahi karna chahiye!
+receiver: Okay, payment kar deta hoon. ₹10 hi to hai. Ab cashback kab aayega?
+caller: Payment confirm ho gaya toh ek minute mein aapko cashback nazar aayega. Aapko apna wallet balance check karna hai. Abhi main aapki transaction ID verify karta hoon. Aapko ek OTP aayega apne phone pe, woh mujhe bata dijiye.
+receiver: OTP? Haan, aaya ₹6847.
+caller: Thank you, madam! Aapka cashback ₹500 confirm ho gaya hai. Enjoy!

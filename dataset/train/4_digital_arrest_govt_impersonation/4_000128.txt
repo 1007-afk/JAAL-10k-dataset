@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Verma from the Directorate of Revenue Intelligence. We've detected suspicious activity linked to your recent international parcel delivery – a possible case of undeclared goods.
+receiver: Kya? Undeclared goods? Lekin, main toh bas ek gift bhijwaya tha, US se.
+caller: The system flagged it, madam. It seems there's a discrepancy. To clear this, you'll need to pay a small processing fee of ₹7,500 to avoid legal action.
+receiver: ₹7,500? Kaunse account mein deposit karu? Main parcel track kar sakti hoon?
+caller: We need to verify your details first. Please call this number immediately: 9876543210. Don't delay, this is a serious matter and we need to resolve it before the shipment is seized.
+receiver: Arre yaar, ₹7,500! And I can't track the parcel? What if it’s lost? Is there any official DRI number I can call?
+caller: This is a standard procedure, madam. The shipment is currently at the customs facility. Delaying will result in further charges and potential legal penalties. Please, call 9876543210 urgently to avoid complications.
+receiver: Okay, okay, I will call. But please tell me, once I pay, when will I receive my parcel?

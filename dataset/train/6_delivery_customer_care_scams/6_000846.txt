@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from BlueSwift Courier. We've noticed a discrepancy with a package addressed to you, tracking ID AX458923. It appears there's an issue with the delivery address.
+receiver: Kya discrepancy hai? Mujhe toh koi package order karne ka yaad nahi.
+caller: Yes, sir. Our system shows a high-value item, possibly electronics, is being shipped. To ensure secure delivery, we need to verify some details and clear a small holding fee of ₹250 to cover unexpected customs charges.
+receiver: ₹250? Customs charges? Main toh koi electronic item order nahi kiya hai. Kyun mujhe payment karna padega?
+caller: Sir, this is standard procedure for international shipments. It's to prevent fraudulent deliveries. We can’t release the package without this verification fee. You can pay via UPI using this number: 9876543210@axisbank.
+receiver: UPI number? Yeh bahut suspicious lag raha hai. BlueSwift Courier ka official website check karta hoon. Ek minute.
+caller: Absolutely, sir! Just to confirm, could you provide the last four digits of your registered mobile number so we can quickly process your verification? This will expedite the package release.

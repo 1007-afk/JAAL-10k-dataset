@@ -1,0 +1,12 @@
+caller: Hello madam, this is Rohan from ‘Lucky Draw Rewards’. We’ve selected you randomly to participate in a special prize draw and you’ve won a whopping ₹5000 Amazon gift card! Just confirm your identity for verification purposes.
+receiver: Oh really? ₹5000! Wow, that’s amazing! This is Priya Sharma speaking. Can you tell me a little more about this draw?
+caller: Arre Priya ji, very happy to hear that! You are so lucky! To claim your prize, we just need to verify a few details. What is your mother’s maiden name?
+receiver: My mother’s maiden name is Devi. But why do you need that? It seems a bit personal, doesn't it?
+caller: Arre, security protocol, madam! Very important. We need to ensure only the rightful winner receives the prize. Now, can you also tell me your father’s occupation?
+receiver: My father is a retired school teacher. He used to teach history. Why are you asking all these questions?
+caller: Arre, just standard procedure, Priya ji. We want to make sure everything is correct. Listen, there’s a small technical glitch. Can you spell out your full address for us, including pincode?
+receiver: My address is 123, Main Street, Mumbai, 400001. But honestly, this is starting to feel a bit suspicious. I haven't heard of 'Lucky Draw Rewards' before.
+caller: Arre, don’t worry, madam! We are a legitimate company. We just need to confirm these details to process your winnings. Now, what is your date of birth?
+receiver: My date of birth is January 1st, 1970. Wait a minute… this feels like a scam! I'm hanging up now.
+caller: Arre Priya ji, don't go! Just one more question – what is your favourite colour?
+receiver: (Click)

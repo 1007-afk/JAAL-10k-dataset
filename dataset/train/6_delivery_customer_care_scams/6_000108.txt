@@ -1,0 +1,10 @@
+caller: Namaste sir, aapke BharatNet broadband connection ka expiry date aaj hi hai, right?  Please, apne internet connection ko continue rakhna hai.
+receiver: Haanji, mere paas hi broadband hai. Kya hua?
+caller: Sir, suno yaani, aapka BharatNet connection expiry hone wali hai, aur agar aapko payment update nahi karenge, toh aapko internet band hogya.  Agar aap abhi payment update nahi karenge, toh aapko internet band ho sakta hai.  Aap apna account status check kar lein, theek hai?
+receiver: Haanji, bilkul. Toh phir mujhe kya karna hoga?
+caller: Sir, aapko koi bhi information share karne ki zarurat nahi hai.  Hum sirf apne connection ko continue rakhne ke liye checking kar rahe hain.  Aapko koi notification toh mila hai is regard mein?
+receiver: Notification? Haanji, mujhe ek email aaya tha lekin maine uspar dhyan nahi diya.  Apsara kaun bol raha hai?
+caller: Haanji sir, main BharatNet customer support se bol raha hoon.  Yeh email isliye aaya hai taaki aapka connection continue rahe aur aapko koi bhi problem na ho.  Basically, hum apne connection ko verify kar rahe hain.  Aap apne connection ko deactivate toh nahi kar rahe na abhi?
+receiver: Nahi, nahi, connection toh mere paas hi hai. Deactivate toh nahi kiya. To matlab mera connection abhi bhi chalega na?
+caller: Exactly! Just confirming everything is okay. Thank you for your time, sir.
+receiver: Thank you.

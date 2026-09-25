@@ -1,0 +1,16 @@
+caller: Namaste sir, Airtel se bol raha hoon. Aapke number ka KYC update chal raha hai. Phone par ek 6-digit OTP mila hoga, batao please.
+receiver: Oh, ji. Ek minute... Aa gaya. 8293. Kaise ho aap?
+caller: Ji sir, mera naam Vivek hai. OTP milkar thanks! Ab hum aapki account ki details check kar rahe hain. Kya aap mujhe apna current mobile number de sakte hain?
+receiver: Haan, Vivek. Mera current mobile number hai [current mobile number yahan daalein].
+caller: Dhanyavaad sir. Mobile number confirm ho gaya. Ab hum aapki account ko secure karne ke liye, aapke registered email id par ek notification bhejeinge. Kya aap mujhe apna email id bata sakte hain?
+receiver: Haan, Vivek. Mera registered email id hai ‘sandeep.kumar@gmail.com’. Kuch aur pata karna hai kya?
+caller: Ji sir, email id sahi hai.  Ab aapko ek message ayega, jismein verification ke liye ek button hoga. Click karek verification kar lenge. Verification shuru hone ke baad, aapko bank accounts mein deposit hone wali achi deals milegi. Aapko koi aur baat hai?
+receiver: Nahin, Vivek. Abhi koi baat nahin hai. Just those deals, that's all.
+caller: Namaste sir, Airtel se bol raha hoon. Aapke number ka KYC update chal raha hai. Phone par ek 6-digit OTP mila hoga, batao please.
+receiver: Oh, ji. Ek minute... Aa gaya. 8293. Kaise ho aap?
+caller: Ji sir, mera naam Vivek hai. OTP milkar thanks! Ab hum aapki account ki details check kar rahe hain. Kya aap mujhe apna current mobile number de sakte hain?
+receiver: Haan, Vivek. Mera current mobile number hai [current mobile number yahan daalein].
+caller: Dhanyavaad sir. Mobile number confirm ho gaya. Ab hum aapki account ko secure karne ke liye, aapke registered email id par ek notification bhejeinge. Kya aap mujhe apna email id bata sakte hain?
+receiver: Haan, Vivek. Mera registered email id hai ‘sandeep.kumar@gmail.com’. Kuch aur pata karna hai kya?
+caller: Ji sir, email id sahi hai.  Ab aapko ek message ayega, jismein verification ke liye ek button hoga. Click karek verification kar lenge. Verification shuru hone ke baad, aapko bank accounts mein deposit hone wali achi deals milegi. Aapko koi aur baat hai?
+receiver: Nahin, Vivek. Abhi koi baat nahin hai. Just those deals, that’s all.

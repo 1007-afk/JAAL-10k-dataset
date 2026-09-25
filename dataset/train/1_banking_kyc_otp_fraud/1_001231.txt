@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank security department se Rahul bol raha hoon. Aapke naam par ek online transaction attempt hua hai jo suspicious lag raha hai. Account secure karne ke liye, kuch details verify karna hai.
+receiver: Haan toh? Transaction kitna hua tha aur kahaan?
+caller: Sir, transaction amount 12,000 rupees tha, ek unknown website par. Account block hone se bachane ke liye, aapka Aadhaar Card number aur ek OTP jo aapko SMS se milega, share karna hoga. Jaldi karo, sir, time kam hai.
+receiver: 12,000? Main toh kabhi online shopping nahi karta. Aadhaar number share karna safe hai kya? Aur OTP?
+caller: Sir, bank ki security protocol hai ye. OTP se confirm hoga ki account aapka hi hai. Aadhaar number se hum verify karenge ki account holder aap hi hain. Koi chinta mat karo, sir, security hi priority hai. OTP check karein zara.
+receiver: Mujhe koi OTP nahi mila hai. Aur main Google par Axis Bank security number check karta hoon. Tumhara number bhi match nahi karta. Yeh toh scam lag raha hai!
+caller: Sir, system mein technical issue ho sakta hai. Main aapko ek alternative verification code de sakta hoon, sir. Sir, please provide your bank account details for immediate verification and security. Failure to cooperate will result in account freezing.
+receiver: Account details bhi maang rahe ho? Bhookha ho gaye ho kya? I'm reporting this number!

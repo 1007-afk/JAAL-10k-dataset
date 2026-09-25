@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, this is Riya from SwiftCash Solutions. We’re offering instant loans, no credit check! Just need a little info to get started. Are you interested in a quick loan today?
+receiver: Hello. I’m a little busy right now, but maybe I’ll call you back later. What kind of loans do you offer?
+caller: Certainly, Madam! We offer loans from ₹10,000 to ₹75,000. Perfect for unexpected bills or just a little extra cash. To process your application quickly, I'll just need your Aadhaar card number and PAN card number for verification. It’s completely secure, I assure you.
+receiver: Aadhaar and PAN? That seems a bit much for a loan application. I've heard that’s not safe.
+caller: Madam, this is standard procedure. We need to verify your identity and ensure you're eligible for the loan. Without it, we cannot proceed. Also, for approval, we will need a small processing fee of ₹2500 upfront to show your serious intent. It will be deducted from your first loan repayment.
+receiver: ₹2500 upfront? That sounds very suspicious. I think I’ll just pass.
+caller: Madam, don’t be silly! This is a limited-time offer! If you don’t pay now, your eligibility will be revoked. You'll regret missing this opportunity. Give me the Aadhaar number now!

@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? This is Rohan from PhonePe Secure Services. We’ve detected unusual activity on your PhonePe account – a few smaller payments being routed through it to unfamiliar UPI IDs.
+receiver: Haan, main Priya Verma. PhonePe? Kya hua? Mujhe koi message nahi aaya.
+caller: Yes, ma'am. Our system flagged these transactions as potentially linked to a fraudulent scheme. To secure your funds, we need to quickly verify your account. We'll send a verification code to your registered WhatsApp number. Please confirm that's 9876543210?
+receiver: Haan, woh mera number hai. Verification code? Kyun? Main toh PhonePe se koi payment nahi kiya aaj tak.
+caller: Ma'am, these payments are small, around ₹50-₹100 each. Scammers often test accounts with tiny transactions before attempting larger ones. Just share the code, and we’ll quickly resolve this. It's a standard security protocol.
+receiver: ₹50-₹100? Aur tum mujhe WhatsApp pe code bhejo rahe ho? PhonePe toh SMS karta hai. Yeh thoda suspicious lag raha hai. Aur main toh koi payment nahi kiya.
+caller: Ma'am, we are trying a new, more secure method of verification. Please, just provide the code so we can block these suspicious transactions immediately. We're also seeing attempts to add a new bank account to your PhonePe – could you quickly confirm if you initiated this?

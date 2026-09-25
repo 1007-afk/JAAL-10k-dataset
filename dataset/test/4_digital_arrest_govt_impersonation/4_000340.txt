@@ -1,0 +1,7 @@
+caller: Namaste! This is the Central Board of Indirect Taxes and Customs, CBIC. We've detected unusual activity linked to your GST registration.
+receiver: GST? What kind of activity? I run a small shop, nothing unusual.
+caller: Sir, our records indicate multiple high-value transactions originating from your GSTIN, linked to suspected import of prohibited goods. This requires immediate investigation.
+receiver: Prohibited goods? That’s impossible! I only sell sarees. What transactions are you talking about?
+caller: We've traced several large payments to overseas accounts. To clear this up, we need you to verify the bank account linked to your GST registration. Can you please provide the last four digits of your account number for confirmation?
+receiver: Wait a minute. Why do I need to give you my bank details? This sounds very fishy. Shouldn’t I be receiving a notice by post?
+caller: Sir, due to the urgency of the matter and potential penalties, we’re conducting this verification over the phone to expedite the process. A small payment of ₹7,500 is required to secure your GST registration and avoid further action. You can use UPI.

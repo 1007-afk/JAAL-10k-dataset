@@ -1,0 +1,6 @@
+caller: Hello sir, this is Priya from InstaPay. We’ve noticed some unusual activity on your account and need to verify your details to prevent potential fraud.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything different.
+caller: Sir, our system flagged a potential attempt to send a large sum of money from your account. To secure it, we just need you to confirm a small transaction of ₹500 as a verification test.
+receiver: ₹500? Why do I need to send money to verify my account? Shouldn't you be able to do that on your end? And why am I being told this now, instead of through the app?
+caller: Sir, due to the sensitive nature of the security breach, we’re handling this directly. It's a standard protocol. You just need to send ₹500 to the account details I'll provide, and we’ll instantly verify your account and unlock it. It’s a one-time thing, I assure you.
+receiver: Wait a minute. Sending money to *verify* my account? That sounds completely backward. And you’re giving me account details over the phone? I’m not comfortable with this at all. Is this a legitimate InstaPay process? I’m going to check the InstaPay website myself.

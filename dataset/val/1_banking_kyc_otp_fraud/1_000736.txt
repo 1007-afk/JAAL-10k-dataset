@@ -1,0 +1,10 @@
+caller: Namaste ji, Punjab National Bank se bol raha hoon. Aapke account ka KYC update karna tha. Aap chahte hain update karein? Agar haan, toh apna Aadhaar number aur Voter ID number bataiye, aur Paytm QR code bhi submit karein.
+receiver: Punjab National Bank? KYC update? Haan, lekin ye Paytm QR code kyun chahiye? Aur Voter ID bhi? Abhi toh mere account mein koi problem nahi hai na?
+caller: Sir, KYC update rules mein compulsory hai sir. Aapke account ko active rakhne ke liye yeh details required hain. Paytm QR code online transactions ke liye bahut helpful hota hai.
+receiver: See, Rahul, yeh bilkul bhi correct nahi hai. Maine kabhi Paytm use kiya nahi, aur mujhe Paytm QR code submit karne ki zarurat kyun pad rahi hai? Bank mein jaakar check kar lijiya karo, yeh proper procedure hai kya?
+caller: Sir, wo bank mein jana time waste ho sakta hai. Yeh verification process bahut shortcut hai. Agar aap update nahi karenge toh aapke account ko freeze kar sakte hain, sir.
+receiver: Freeze? Account freeze? Seriously? Yeh jaldamargiya verification technique hai? Koi alternative method nahi hai? Kya bank mein koi helpline number hai jahan mai apne doubts clear kar sakta hu?
+caller: Sir, helpline number hai, lekin usmein bhi wait karne ki zarorat hogi. Yeh speed verification hai, sir. Aapko sirf Apna Aadhaar aur Voter ID submit karna hai. Paytm QR code submit karna hai, sir.
+receiver: Paytm QR code... okay, fine. Par mujhe yeh bataiye ki yeh QR code submit karne se mera account secure rahega, ya koi risk hai? Aur freezing ki dhamki sunkar mujhe tension ho gaya hai.
+caller: Sir, aap bilkul chinta mat kariye. Yeh QR code sirf verification ke liye hai, koi fraud nahi hoga. Aapka account secure rahega. Aur freezing ki dhamki koi false alarm hai, sir.
+receiver: Okay, okay. Fine. Thoda suspicious hai, par accept karna padega. Jo tumne kaha, woh karunga. Par mujhe yeh assurance de do ki bank mein jaane ki zarurat nahi padegi.

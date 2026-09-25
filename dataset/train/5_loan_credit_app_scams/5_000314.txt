@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickCash Loans. We've approved you for a loan of ₹50,000 instantly! No credit check needed.
+receiver: Really? That's great! I could really use some money right now. What's the catch?
+caller: No catch, Priya ji! Just a small processing fee of ₹2,500 upfront to verify your account. You can pay it through UPI to this number – 8888111222.
+receiver: Two thousand five hundred? That seems a bit much just to process the loan.
+caller: It's a security measure, Priya ji. To protect you from fraud. Once the payment is confirmed, we’ll release the ₹50,000 into your account within 15 minutes. Otherwise, someone else might take advantage.
+receiver: Okay, I'll do it. I don't want to miss out.
+caller: Excellent choice, Priya ji. And once you receive the loan, remember to pay it back within 15 days. Otherwise, we’ll have to escalate the matter and your pictures will be sent to your contacts.

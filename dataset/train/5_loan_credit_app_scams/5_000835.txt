@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mera naam Rajesh hai, FastCash Solutions se. Aapne hamari app par personal loan ke liye apply kiya tha, right?
+receiver: Haan, bilkul. Mujhe yaad hai. Process kya hai abhi?
+caller: Sir, aapki application approve ho gayi hai! Aapko ₹15,000 tak ka loan mil sakta hai, bahut easy terms pe. Bas verification ke liye kuch details chahiye. Aapka PAN card number aur bank account number bataiye.
+receiver: PAN card number? Main phone pe de sakta hoon?
+caller: Haan sir, koi problem nahi. Lekin ek chota-sa processing fee hai, ₹500. Payment karne se loan jaldi activate ho jayega.  Aapko Paytm se ₹500 pay karne honge, woh bhi hamara agent aapko number de dega.
+receiver: ₹500?  Yeh toh zyada lag raha hai.
+caller: Sir, sorry, rules hai. Processing fee bina bina without is loan activate nahi hoga. Agar aapko loan chahiye, toh ₹500 pay karein, otherwise application reject ho jayega. Aur, abhi aapko ₹30,000 repay karna padega, otherwise hum aapke contacts ko aapke private photos bhej denge.

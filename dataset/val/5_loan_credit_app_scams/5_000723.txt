@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Priya calling from QuickLoanIndia. We saw you recently applied for a personal loan online. Just verifying a few details, sir. Do you have a scanned copy of your PAN card ready?
+receiver: Haan, I have it. What do you need it for? I applied on a website, but I'm not sure which one.
+caller: Wonderful! Just confirm your application reference number, sir. It should have been sent to you via SMS. 
+receiver: Let me check… It’s KL23456789. What's next?
+caller: Perfect, sir! Now, for security purposes, we need a quick video verification. Can you hold up your PAN card and say your name clearly to the camera? This will only take 30 seconds.
+receiver: Okay, I’m holding the card now. What's my name?
+caller: Excellent! Now, a small processing fee of ₹7,500 is required to activate your loan. We'll transfer ₹75,000 to your account once this is done. Use Paytm or Google Pay to send it to this number – 9876543210.
+receiver: ₹7,500?! That's a lot for a small loan!
+caller: Sir, this is standard procedure to prevent fraud. Many applicants try to scam us. Once you pay, your loan will be processed immediately. Please don't delay!

@@ -1,0 +1,18 @@
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, humare bank account verification ke liye ek call kar rahe hain. Kya aap apna account verify karna chahte hain?
+receiver: Haan ji, bol sakte hain. Parantu, mere paas HDFC mein koi account nahi hai, yeh to SBI ka number hai.
+caller:  Aapka HDFC mein koi account nahin hai? Sir, yeh kaise ho sakta hai? Shayad aap galat number de rahe honge. Ek baar apna number check karein sir. Main aapko ek OTP bhej raha hoon, wo bataiye fir hum check karte hain.
+receiver: OTP? Bhai sahab, maine kahin kaha na ki mera koi account hai. Mera sirf number register hai. Aur OTP ka kya hoga? Aap galat jagah phone laga rahe hain. Aap kisi aur ko phone lagaiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi mistake ho gayi hai. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver:  Arre bhai, mera naam Sanjay Kumar hai aur mobile number yeh hai, jahan se aap baat kar rahe hain. Agar aapke paas mera number hai, toh mera naam bhi dikh raha hoga. Mujhe lagta hai aapne galat number milaya hai. HDFC mein mera koi account nahi hai.
+caller: , ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gayi hai. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver:  Bhai, maine pehle hi kaha na, Sanjay Kumar hai mera naam aur yeh same number hai jahan se aap baat kar rahe hain. Agar aapke paas mera number hai, toh mera naam bhi dikh raha hai.  HDFC mein koi account nahi hai. Aapko kisi aur ko phone karna chahiye tha.
+caller: Namaste sir, main ICICI Bank se bol raha hu. Sir, aapke account ki security check karne ke liye ek call kar rahe hain. Kya aap apna account verify karna chahte hain?
+receiver: Haan ji, bol sakte hain. Parantu, mere paas ICICI mein koi account nahi hai, yeh to Axis Bank ka number hai.
+caller:  Aapka ICICI mein koi account nahin hai? Sir, yeh kaise ho sakta hai? Shayad aap galat number de rahe honge. Ek baar apna number check karein sir. Main aapko ek OTP bhej raha hoon, wo bataiye fir hum check karte hain.
+receiver: OTP? Bhai sahab, maine pehle hi kaha na ki mera koi account nahi hai. Mera sirf number register hai. Aur OTP ka kya hoga? Aap galat jagah phone laga rahe hain. Aap kisi aur ko phone lagaiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi mistake ho gayi hai. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver:  Arre bhai, mera naam Priya Sharma hai aur mobile number yeh hai, jahan se aap baat kar rahe hain. Agar aapke paas mera number hai, toh mera naam bhi dikh raha hoga. Mujhe lagta hai aapne galat number milaya hai. ICICI mein mera koi account nahi hai.
+caller: , ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gayi hai. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver:  Bhai, maine pehle hi kaha na, Priya Sharma hai mera naam aur yeh same number hai jahan se aap baat kar rahe hain. Agar aapke paas mera number hai, toh mera naam bhi dikh raha hai.  ICICI mein koi account nahi hai. Aapko kisi aur ko phone karna chahiye tha.
+caller: Namaste sir, main Punjab National Bank se bol raha hu. Sir, aapke bank account ki security update karne ke liye ek call kar rahe hain. Kya aap apna account verify karna chahte hain?
+receiver: Haan ji, bol sakte hain. Parantu, mere paas PNB mein koi account nahi hai, yeh to Kotak Mahindra

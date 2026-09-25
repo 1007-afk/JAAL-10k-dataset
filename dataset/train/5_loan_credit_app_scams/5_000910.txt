@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We’ve reviewed your application with 'SwiftCash Loans'. Congratulations, you're almost approved for a ₹75,000 loan! Just a few quick verifications needed.
+receiver: SwiftCash Loans? I think I did apply, but I haven’t heard anything back. What do you need to verify?
+caller: Wonderful! To confirm, can you provide the last four digits of your bank account number and your mother's maiden name? Just standard security protocol. It will only take a minute.
+receiver: Wait a minute… shouldn’t I be calling *them* if they're verifying? This feels a bit strange. And why do you need my mother’s maiden name?
+caller: Don’t worry, Priya ji. We’re a subsidiary of SwiftCash, streamlining the process for our valued customers. We need the details to prevent fraudulent activity and protect your loan. We need a small processing fee upfront to activate your loan - ₹5,000 through UPI. It’ll be refunded once the loan is disbursed.
+receiver: ₹5,000 upfront? I don't remember anything about a fee in the application. This is getting fishier and fishier. I'm going to hang up now.
+caller: Priya ji, don't be hasty! You're so close to getting the money you need. We can drop the fee if you confirm you’ll take the loan immediately, or we’ll have to cancel your application. Think about it – quick cash!

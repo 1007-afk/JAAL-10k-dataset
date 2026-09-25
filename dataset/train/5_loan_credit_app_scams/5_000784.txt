@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We’ve noticed you applied for an instant loan on LoanExpress.in. Just need to confirm a couple of details to process it quickly.
+receiver: LoanExpress? I don’t remember applying for a loan. Are you sure it’s me?
+caller: Yes, Priya Sharma, registered mobile number 9876543210. You requested ₹50,000. To activate the loan, we need a small security deposit of ₹2,500 to prevent fraud. Very standard procedure.
+receiver: ₹2,500? For a ₹50,000 loan? That seems excessive. And I really don’t remember applying.
+caller: Look, Priya ji, time is money. This deposit ensures your loan is prioritized.  If you don't pay, we’ll have to cancel the application. Plus, we’ll send some compromising pictures we found online to your family and friends if you refuse. Just pay UPI and get it over with.
+receiver: What?! Compromising pictures? You’re threatening me? This is insane! I'm reporting this to the cybercrime unit immediately. You're a fraud!

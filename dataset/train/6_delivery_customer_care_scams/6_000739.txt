@@ -1,0 +1,8 @@
+caller: Namaste, Madam? Is this Priya Sharma? We’re calling from Zomato Customer Care. There's been an unusual activity on your account.
+receiver: Zomato? Haan, mai Priya Sharma hu. Kya hua? Anything wrong?
+caller: Yes, Madam. A large order was placed from your account, but the payment failed. We've temporarily suspended your account to prevent fraud. To reactivate it, you need to verify your details.
+receiver: Payment failed? But I didn't place any order! And why would you suspend my account? What is the order amount?
+caller: It was for ₹8,750, Madam. We need you to provide the last four digits of your card and a one-time password sent to your registered mobile number to confirm you're the account holder. Just a quick verification.
+receiver: ₹8,750? That’s a lot! And I don't give out my card details over the phone! This sounds fishy. Can you give me a reference number for this call? Or a Zomato helpline number I can call back on?
+caller: Madam, time is of the essence. The account will remain suspended until verification. To avoid any inconvenience, please provide the information now. We are protecting your account from unauthorized access.
+receiver: No, thank you. I’m calling Zomato directly to confirm this. I'm not giving you anything. I'll report this number.

@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? My name is Raj from BlueLine Logistics. We're calling regarding a parcel addressed to you, tracking ID BL78945. It seems there's a customs clearance issue.
+receiver: Oh, really? I wasn't expecting a parcel. What kind of parcel is it?
+caller: It’s a fairly valuable item, ma’am. We’ve flagged it for potential under-declaration of value. To clear it, we need to verify the payment details associated with the original purchase.
+receiver: Payment details? Why would you need that? Shouldn't I be hearing from the sender?
+caller: Sometimes, ma’am, there are discrepancies. To prevent delays and potential storage fees, we need to quickly confirm a small amount - just ₹350 to cover the verification process. We’ll refund it immediately after clearance. Can you provide the OTP you'll receive on your phone?
+receiver: ₹350? And an OTP? That seems a bit unusual. Is there a reference number I can call to verify this with BlueLine directly?
+caller: Absolutely, ma’am. Our main verification line is 9876543210. Please note, this line is temporarily overloaded due to high volume. For immediate clearance, simply share the OTP now, and we'll process everything right away. It's really quick, just a minute or two.

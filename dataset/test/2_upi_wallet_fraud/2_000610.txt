@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, BharatPay se. Aapko ₹500 cashback ka ek special offer mil raha hai, agar aap BharatPay app mein ek small transaction complete karein.
+receiver: ₹500 cashback? Really? How do I do that?
+caller: Haanji! Aapko bas ₹50 ek shopkeeper ko BharatPay se pay karna hai, aur ₹500 instant aapke wallet mein deposit ho jaenge. Uske baad, OTP enter karne ki zaroorat padegi.
+receiver: OTP? Why do I need to enter an OTP for a ₹50 transaction?
+caller: Sir, security ke liye! OTP se hum confirm karte hain ki transaction aap hi kar rahe hain. Wo sirf ek second lega.
+receiver: Okay, fine. But which shopkeeper should I pay?
+caller: Sir, aap apne pas ki koi bhi shop pay sakte hain jahan BharatPay accepted hai. Jab transaction complete ho jaye, toh OTP aapke phone pe aayega. Wo enter karein, aur cashback aapka hai!

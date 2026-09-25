@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from QuickCredit Solutions. We’ve noticed you recently applied for a personal loan online. Just need a quick verification.
+receiver: Yes, this is Priya. I did apply, but I’ve had a lot of calls. What do you need to verify?
+caller: Great! Just a few details to confirm your eligibility. Could you please share the last four digits of your bank account number and your mother's maiden name? It’s a standard security measure. Also, we need a small processing fee of ₹750 to activate your loan.
+receiver: A processing fee? I wasn’t told about any fee when I applied. And why do you need my mother's maiden name? That seems a bit unusual.
+caller: It’s to prevent fraudulent activity, Madam. Look, this is a very lucrative offer with a guaranteed approval. Many people are missing out. If you don’t pay the ₹750 now, the offer will expire.  We also need a copy of your PAN card as proof of identity.
+receiver: This is starting to feel very suspicious. I’m not comfortable sharing that information. I think I’ll just cancel my loan application.
+caller: Wait, wait! Don't be hasty, Priya Ji! We can arrange a small loan instead. Just ₹2000. A quick one-time payment of ₹1000 to unlock it.  We have your information, so just comply.

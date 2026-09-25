@@ -1,0 +1,7 @@
+caller: Hello, mai Airtel customer care se Deepak bolta hoon. Aapke Airtel account mein kuch suspicious activity detect hui hai. Aapke account ko secure rakhne ke liye, humein kuch details verify karne hogi.
+receiver: Airtel customer care? Okay. Suspicious activity? What kind of activity? Mujhe toh kuch pata nahi hai.
+caller: Ji sir, ek ne number se bahut zyada data use kiya gaya hai, jo ki aapki regular usage se alag hai. Isliye account block hone se pehle aapko verify karna hoga. Humko aapke bank account details ki zarurat hai, sirf verification ke liye.
+receiver: Bank details? Over the phone? Mujhe yeh thoda uncomfortable lag raha hai. Airtel toh kabhi bank details nahi manta.
+caller: Sir, yeh ek new security protocol hai, jo hum sabhi customers ke liye apply ho rahi hai. Agar aap verify nahi karenge, toh aapka account permanently block ho jayega, aur aap na toh call kar payenge na internet use kar payenge.
+receiver: Permanent block? Okay, wait, let me check Airtel app... (pause) ...Haan, app mein bhi kuch suspicious activity dikha raha hai. But still, I’m not comfortable giving my bank details. Can you give me a reference number for this verification? Or some other way to confirm you’re really Airtel?
+caller: Sir, reference number abhi generate nahi ho pa rahi hai system mein. But hum aapko assure karte hain ki yeh Airtel ki taraf se official verification hai. Sir, please, jaldi karo, account block hone se pehle OTP share kardo.

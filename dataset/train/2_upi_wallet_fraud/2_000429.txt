@@ -1,0 +1,7 @@
+caller: Namaste! Mein BharatPay se Anjali bol rahi hoon. Aapke BharatPay wallet mein cashback offer chal raha hai! Sirf 50 rupees ka transaction karein, aur aapko 500 rupees ka cashback milega!
+receiver: Cashback? BharatPay par? Mein BharatPay hi use karta hoon. Transaction kahan karna hai?
+caller: Haan ji! Yeh offer sirf aaj ke liye hai! Aap Amazon par kuch bhi buy kar sakte hain, aur aapko 500 rupees ka cashback milega. Bas, BharatPay se payment karein. Jab transaction complete ho jayega, toh cashback automatic ho jayega!
+receiver: Amazon par? Par main kuch nahi khareedna chahta hoon abhi. Aur mujhe cashback ka proof bhi dikhao.
+caller: Sir, proof main abhi nahi dikha pa rahi hoon, lekin trust me, yeh BharatPay ka official offer hai. Time bahut kam hai, sir. Is offer ka faida uthaiye, warna yeh offer expire ho jayegi. Aap sirf 50 rupees ka transaction kar dijiye, phir aapko 500 rupees ka cashback milega.
+receiver:  50 rupees transaction? Mein koi random thing khareedunga? Yeh thoda suspect lag raha hai.
+caller: Sir, aap kisi bhi small item ka transaction kar sakte hain - ek chocolate ya ek pen bhi chalega. Bas transaction complete karein, aur cashback aapka hoga! Abhi kar dijiye, warna offer chala jayega!

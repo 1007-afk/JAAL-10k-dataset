@@ -1,0 +1,7 @@
+caller: Namaste! Main Rohit, Bluedart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address se related ek choti si problem hai. Parcel deliver karne se pehle, humein confirm karna hai.
+receiver: Oh, Bluedart? Kaise problem hai? Mujhe toh koi notification nahi aaya tha.
+caller: Ji, system mein dikh raha hai ki aapke pin code mein ek gaali hai. Parcel return ho sakta hai. Hamara ek senior officer ne kaha hai ki OTP se verify kar lijiye, taaki hum address ko correct kar sake.
+receiver: OTP? Par kyun? Bluedart toh aise nahi karta na? Mujhe doubt ho raha hai.
+caller: Haan ji, yeh new security process hai, sir. Aapko sirf ek OTP confirm karna hai, taaki parcel aap tak safe pahunche. Kuch seconds mein aapko SMS milega.
+receiver: Okay, thik hai. Main wait karta hoon SMS ka. Lekin agar kuch wrong hua toh main complain kar dunga.
+caller: Bilkul ji! Aapka cooperation bahut important hai. SMS receive ho gaya na? Ab OTP bataiye taaki main confirm kar sakoon.

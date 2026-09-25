@@ -1,0 +1,7 @@
+caller: Hello? This is a security alert from State Bank of India. Your account has been flagged for suspicious activity.
+receiver: Kya bol rahe ho? State Bank of India se? Main toh koi suspicious activity dekh raha hoon.
+caller: Yes, ma'am. We've detected a potential unauthorized transaction of ₹5,000. To prevent this, we need to verify your details immediately. Can you please provide the last four digits of your Aadhaar card?
+receiver: Wait, hold on. Why would State Bank of India ask for my Aadhaar number over the phone? This doesn’t sound right.
+caller: Ma’am, this is a standard security protocol. We're just confirming your identity to ensure your funds are safe. We need to act fast, otherwise your account might be temporarily suspended. The transaction could go through anytime.
+receiver: Suspended? Don’t scare me. But I’m still not comfortable giving out my Aadhaar details. Is there no other way to verify this? Can you give me a reference number, or tell me which transaction you’re referring to?
+caller: Ma’am, there's no time for reference numbers! This is an urgent situation. To proceed with the security verification and unlock your account, we require an OTP that will be sent to your registered mobile number. Please share the OTP as soon as you receive it.

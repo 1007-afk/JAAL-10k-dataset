@@ -1,0 +1,7 @@
+caller: Namaste! I’m calling from QuickCashNow.in. Are you needing a quick loan for any urgent expenses? We offer loans up to ₹80,000 with minimal paperwork. What’s your name, sir?
+receiver: Hello. My name is Ankit. I was not expecting a call, but I’m listening. What are the details?
+caller: Excellent, Ankit ji! We have a special offer running for new customers. You can get ₹60,000 almost instantly. Just need to confirm a few details. What is your occupation and roughly your monthly income?
+receiver: I work as a driver, and my monthly income is around ₹28,000.
+caller: Very good, Ankit ji! Perfect eligibility. Now, to process the loan quickly, we require a small verification fee of ₹2,500 to be sent to this UPI ID: 7890123456@axisbank. Once we confirm the payment, your loan will be approved immediately.
+receiver: ₹2,500? Is that really necessary before the loan is given?
+caller: Yes, Ankit ji. This is a standard security procedure to prevent fraud. Without this, we cannot release the funds. It's a one-time fee and will be refunded once the loan is disbursed. Please send the amount quickly so we can finalize your loan.

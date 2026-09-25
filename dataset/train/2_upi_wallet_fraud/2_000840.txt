@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Amazon Se. Aapko cashback offer mila hai Amazon Prime membership par. Aapne last month ₹500 ka recharge kiya tha, aur ab aapko ₹300 cashback mil sakta hai.
+receiver: Amazon se call? Recharge ka cashback? Mainko koi email ya SMS nahi mila.
+caller: Haan ji, system update hone ke wajah se notification delay ho rahi hai. Claim karne ke liye, aapko ek OTP dena hoga, jo hum aapke register number par send karenge. Just confirm kijiye ki aapka number 9876543210 hai?
+receiver: Haan, woh mera number hai. Par OTP kahan aaega? Aur ₹300 cashback kaise milega?
+caller: OTP aapke WhatsApp par aayega. OTP milte hi, woh mujhe bata dijiye. Cashback direct aapke Amazon Pay wallet mein add ho jayega. Jaldi karo, offer sirf 2 minutes ke liye hai! Humara senior officer ka order hai.
+receiver: WhatsApp? Mainko kuch bhi nahi mila. Yeh scam lag raha hai. Koi ID proof ya transaction details batao.
+caller: Beta, OTP jaldi aayega, wait karo. Senior officer ke order mein koi mistake nahi hoti!  ₹300 aapka hai, sirf OTP bata do.

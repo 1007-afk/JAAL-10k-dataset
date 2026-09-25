@@ -1,0 +1,7 @@
+caller: Hello, I'm calling from FreeCharge customer care. We’ve detected a suspicious transaction on your FreeCharge wallet. For security reasons, we need to verify your details.
+receiver: FreeCharge? Okay, what transaction are you talking about? I haven't made any suspicious transactions, I think.
+caller: Sir, a payment of ₹2,500 was initiated towards a Paytm wallet. We are blocking it temporarily to prevent any fraud. To release the funds and secure your wallet, we need you to share a screenshot of your Paytm wallet dashboard.
+receiver: Wait a minute. Why do you need a screenshot of my Paytm wallet? FreeCharge and Paytm are different apps. It doesn’t make sense.
+caller: Sir, this is a new security protocol. We are integrating with other payment platforms to enhance security. The screenshot helps us verify that you are the rightful owner of the linked Paytm account. Please share it quickly before the transaction goes through.
+receiver: This is sounding very fishy. I'm not going to send you a screenshot of my Paytm account. That’s a huge security risk! I'll call FreeCharge directly through their official number. I'm ending this call now.
+caller: Sir, please don't do that. If you don't send the screenshot within the next five minutes, your FreeCharge wallet will be permanently locked. And you'll lose all the money inside.

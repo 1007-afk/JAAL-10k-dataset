@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay customer care se Rahul bol raha hoon. Aapke BharatPay account mein aaj ₹499 ka transaction hua hai jo aapne approve nahi kiya hai.
+receiver: Oh, ₹499? Mainne toh koi transaction nahi kiya. Mujhe to kuch yaad nahi aa raha.
+caller: Ji, humare system mein dikh raha hai ki yeh transaction Flipkart se hua hai. Ye ek security breach ho sakta hai, aur aapko jald se jald isko block karvana hoga.
+receiver: Kya karna hoga mujhe? Mujhe bahut tension ho rahi hai.
+caller: Aapko ek OTP dena padega jo aapke registered mobile number pe aayega. OTP dene ke baad, hum aapke account ko secure kar denge aur Flipkart ko report kar denge.
+receiver: Theek hai, OTP mein check karta hoon… Arre, mujhe koi OTP nahi aaya. Aur aapne Flipkart ka zikar kyu kar rahe hain? Mainne toh Flipkart se kuch order bhi nahi kiya tha.
+caller: Ji, kabhi-kabhi OTP arrive hone mein thoda time lagta hai. Aap ek minute aur wait karein. Iske baad main aapko ek link send karunga jise aapko click karke transaction ko verify karna hoga.
+receiver: Thik hai, main wait karta hoon. Par mujhe abhi bhi kuch gadbad lag rahi hai.

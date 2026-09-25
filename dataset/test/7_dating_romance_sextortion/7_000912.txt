@@ -1,0 +1,7 @@
+caller: Hello! Is this Priya? I think we matched on ‘HeartsConnect’? I’m Rajeev, remember? We talked about our love for old Hindi films.
+receiver: Rajeev? Oh yes! Of course, I remember. It's lovely to hear from you again. How are you?
+caller: I’m doing well, Priya! Thinking of you actually. Listen, I’m in a bit of a tight spot. My mother is suddenly very unwell in Delhi, and I need to rush there. It’s quite urgent and expensive to get a flight ticket last minute. Could you possibly lend me ₹15,000? I’ll pay you back as soon as I get my salary.
+receiver: Oh no, Rajeev! That’s terrible about your mother. I’m so sorry to hear that. But lending money to someone I’ve just met online feels a bit risky, doesn’t it? Can't you manage somehow otherwise?
+caller: I understand your hesitation, Priya, but I’m truly desperate. I’ve already asked my friends, but they’re all struggling themselves. I wouldn't ask if it wasn’t important. Look, to prove I’m genuine, I’ll send you a picture of my mother. Just trust me, please. Once I'm sorted, I promise to repay you promptly. Here’s my UPI ID: 9876541230@ybl.
+receiver: A picture? Okay… but I'm still a little unsure. Sending money over UPI feels so permanent. Can’t you send me some proof that you’ve actually booked a flight? Something with your name on it?
+caller: Right now, Priya, the airline is asking for the payment before they confirm. I don’t want to lose this chance to get to my mother. I

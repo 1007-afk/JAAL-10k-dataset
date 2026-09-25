@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main Inspector Sharma, CBI se bol raha hoon. Aapke naam par ek parcel customs mein rok liya gaya hai.
+receiver: Kya? Mere naam par? Main to koi parcel nahi order kiya tha.
+caller: Ji, parcel mein illegal drugs paye gaye hain. Aapko is matter mein cooperate karna hoga. Yeh ek serious case hai, sir. Court ka order hai ki aapko video call par aake statement record karna hoga aur fine bharvan hoga.
+receiver: Drugs? Yeh galat hai! Main toh kabhi drugs nahi chuse. Koi mistake hoga. Main abhi nahi aa sakta, mere paas kaam hai.
+caller: Sir, time bahut kam hai. Court ne hukum diya hai ki fine 24 hours mein bhar do, warna aapko arrest bhi ho sakta hai. Video call par aao, otherwise, we will have to take action. Fine amount hai ₹50,000. Bank details main aapko message kar raha hoon.
+receiver: ₹50,000? Yeh bahut zyada hai! Main police station mein jaake report karunga.
+caller: Sir, yeh process police station mein nahi hoti. CBI ka direct order hai. Apne account se online transfer karke bataiye, phir main video call ke details aapko doonga. Jaldi karo, sir. Deadline near aa raha hai.
+receiver: Nahi, main koi bhi payment nahi karunga. Yeh scam lag raha hai. Main abhi complaint register karwaunga.
+caller: Sir, aapko arrest warrant nikalwa lenge. Apne family ko bhi mushkil mein daal denge. Zara soch lijiye. ₹50,000 bhar do aur sab theek ho jayega. 2 hours ka time hai.

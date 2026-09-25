@@ -1,0 +1,6 @@
+caller: Namaste, Main Indian Customs Department se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par parcel? Main toh kuch order nahi kiya tha.
+caller: Sir, parcel jo Gujarat se aaya hai, usmein objectionable materials hain. Isliye, legal process shuru ho gayi hai. Aapko is matter mein immediately cooperate karna hoga, warna court mein case ho sakta hai.
+receiver: Court mein case? Yeh kya bakwas hai? Main Gujarat mein nahi rehta. Mere naam pe parcel kaise aa sakta hai? Aapko pakka galat number lag gaya hai.
+caller: Sir, hamare records mein aapka address aur phone number sahi dikh raha hai. Yeh bahut serious matter hai, aur aapko iska urgently resolution karna hoga. Hamara account number [invented account number] mein 15,000 rupay jama kijiye, taki investigation complete ho sake aur parcel release ho jaye.
+receiver: 15,000 rupay? Yeh scam hai! Main kuch bhi nahi dene wala. Aapko police ko report karunga.

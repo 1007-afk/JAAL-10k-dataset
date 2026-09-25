@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm se Rahul bolta hoon. Aapke Paytm account mein ek cashback offer aa rahi hai - ₹5000. Approve karne ke liye, sirf ek verification process complete karna hai.
+receiver: ₹5000 ka cashback? Kaise? Main toh kisi offer ke bare mein nahi sun raha tha. Verification kya karna hai?
+caller: Haan ji, yeh ek limited-time offer hai. Verification ke liye, aapko apna registered email address aur Paytm wallet PIN number share karna hoga. Yeh bilkul secure hai, sir. Cashback jaldi approve ho jayega.
+receiver: Email address toh main bata sakta hoon, lekin wallet PIN number? Woh risky toh lagega. Paytm aise puchta hai kya?
+caller: Sir, security ke liye hi puchh rahe hain. Agar aap PIN share nahi karenge, toh offer expire ho jayegi. Aur ₹5000 bhi chala jayega. Abhi verify karein, please.
+receiver: ₹5000 ka offer kha jaayega? Hmm… Email address hi bata doonga. Woh hai priya.sharma@example.com.
+caller: Thank you! Ab Paytm wallet PIN number bataiyein taaki cashback aapke account mein transfer ho jaye. Jaldi karein, sir!

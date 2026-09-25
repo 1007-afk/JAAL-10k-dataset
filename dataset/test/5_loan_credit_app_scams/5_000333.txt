@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Verma, associated with the mobile number ending in 287? I’m calling from ‘QuickCash Pro’, and we have exciting news! Your application for a quick loan has been pre-approved. Just a few formalities to complete and the money will be in your account.
+receiver: Haan, main Priya Verma hoon. Kya formalities hain? Main busy hoon, jaldi batao.
+caller: Excellent! We’re offering you a loan of ₹75,000 with minimal paperwork. To activate it, we need a small processing fee of ₹5,000 as a security deposit. It will be deducted from your loan amount once approved. You can pay via UPI to 9876543210@axisbank.
+receiver: ₹5,000 security deposit? Yeh toh zyada lag raha hai. Aur UPI pe payment karna safe hai?
+caller: Absolutely safe, Priya Ji! This is a standard procedure to prevent fraudulent applications. Think of it as insurance. Otherwise, we can’t guarantee your loan. Plus, we’re giving you a fantastic rate of 8% – far better than any bank! Only three slots left, others are rushing to take advantage.
+receiver: 8% rate? Thoda wait kar ke main bank se bhi check kar leta hoon. Mujhe yeh UPI payment se doubt ho raha hai.
+caller: Priya Ji, time is of the essence! If you wait, the offer will expire. And if you go to a bank, they'll charge you 18% or higher! Think of the savings! Just send that ₹5,000, and we'll process your loan immediately. Don’t miss out on this incredible opportunity! Confirm UPI transaction now.

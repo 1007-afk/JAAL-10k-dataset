@@ -1,0 +1,8 @@
+caller: Namaste sir, Main Tata Digital support se bol raha hoon. Sir, hum apne customers ke numbers ko secure karne ke liye ek small verification process chal rahe hain. Aapko ek six-digit OTP, jo ki SMS ke through bheja gaya tha, yaad karna hoga. Kindly provide that OTP now?
+receiver: Namaste, wait karo sir. Mobile net connection hi nahi chal raha hai.
+caller: Okay sir, no worries. Just try restarting your phone and see if it comes through. It might appear quickly then. Or shall I resend the OTP immediately?
+receiver: Okay, I’m waiting for it. If it doesn’t come, I will restart my phone. Please send it again if it’s urgent. What’s your name, please?
+caller: My name is Vivek, from Tata Digital. Is the OTP still not coming through on your number? Don't worry, just put your phone in airplane mode for about 30 seconds and then turn it back on normally. Alternatively, I can resend the OTP right away?
+receiver: Oh yes, I'll try the airplane mode trick. Thank you, Vivek. Let’s see if it appears now. If it doesn’t, I’ll call you back. How much balance do you have on your account today?
+caller: Yes sir, please try that. If it still doesn’t arrive, I will resend the OTP. And if you face any issues, feel free to let me know. (Just a quick question, sir, do you remember your mobile recharge date?)
+receiver: Hmm, I don't recall my recharge date, Vivek. Let me quickly check my phone, if the OTP arrives then it’s fine, otherwise you tell me what to do. Recharge date toh mujhe abhi bhi yaad nahi aa raha.

@@ -1,0 +1,6 @@
+caller: Namaste! Main Axis Bank se Rohit bol raha hoon. Aapke account mein ek suspicious transaction ka attempt kiya gaya tha, ₹15,000 ka. Security ke liye, humein aapke account details verify karne hain.
+receiver: ₹15,000? Kuch suspicious transaction? Mujhe toh koi notification nahi aaya. Aur aapko meri kya zarurat hai, details verify karne ki?
+caller: Ji, sir. Yeh ek preventive measure hai. Hum aapke account ko secure rakhna chahte hain. Aapka PAN card number aur OTP bata dijiye, hum verify kar lenge. Thodi der mein hum aapko confirm kar denge.
+receiver: PAN card number? Phone pe PAN card number dena safe nahi lag raha. Aur OTP bhi? Yeh thoda fishy lag raha hai. Axis Bank toh aise nahi karta.
+caller: Sir, aapko tension lene ki zarurat nahi hai. Yeh humara standard procedure hai. OTP hume sirf verification ke liye chahiye. ₹15,000 ka transaction block hone se pehle aapko verify karna hoga. Aapka account suspend bhi ho sakta hai agar aap verify nahi karte.
+receiver: Account suspend? Aur hum aapko OTP maang rahe ho? Main aapse baat nahi karna chahta. Main Axis Bank helpline number se khud contact karunga. Main call cut kar raha hoon.

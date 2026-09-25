@@ -1,0 +1,9 @@
+caller: Namaste, mai BharatPay se Amit bolta hoon. Aapke BharatPay wallet mein ek suspicious transaction detect hua hai. ₹7,500 ka transaction Gujarat mein hua hai, jo aapne nahi kiya hai.
+receiver: ₹7,500? Maine toh koi transaction kiya hi nahi! Gujarat mein? Yeh toh galat hai.
+caller: Haan sir, galat hai. Is transaction ko reverse karne ke liye, humein aapke wallet ko temporarily suspend karna padega aur verification karna hoga. Iske liye aapko apna BharatPay app mein login karke ek OTP provide karna hoga.
+receiver: OTP? Lekin BharatPay app mein toh OTP kabhi nahi chahata verification ke liye. Yeh kuch ghalat lag raha hai.
+caller: Sir, security ke liye ye necessary hai. Gujarat mein se hua transaction hai, isliye strict verification process follow ho raha hai. OTP se hum confirm kar lenge ki wallet aapka hi hai aur phir hum ₹7,500 reverse kar denge. Jab tak aap OTP nahi denge, transaction reverse nahi hoga.
+receiver: Okay, ek minute. Main BharatPay customer care number pe call karta hoon aur confirm karta hoon. Aap wait karein.
+caller: Sir, please mat karna. Time barbaad hoga. Ye urgent matter hai. Jo jaldi aap OTP denge, vo jaldi transaction reverse hoga aur aapka paisa safe rahega. Abhi ki situation mein customer care se baat karne mein zyada time lagega. Aapka paisa risk mein hai, sir.
+receiver: Theek hai, ek last baat batao. BharatPay ka official phone number kya hai? Mein us par call karta hoon aur confirm karta hoon.
+caller: Sir, phone number change hota rehta hai. Website par check karein. Par OTP provide karna hi best option hai abhi ke liye. Isse aapka paisa

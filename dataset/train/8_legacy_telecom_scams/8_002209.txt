@@ -1,0 +1,10 @@
+caller: Bolo Meri Christmas ki naman, ye Arjun se Bharat Teleconnect se baat karta hai. Tumhari Diwali Mubarak ho! Aap kaise hain? Hamara ek special offer hai - 50 free voice calls aur ek smartwatch, ab ₹499 mein! Ye smartwatch tumhare family members ko track karne ke liye bahut hi helpful hogi. Call back karein 09312345678 agar tumko yeh offer pasand aaye. Hum aapki privacy ka samman karte hain, lekin verification ke liye humein kuch information chahiye.
+receiver: Oh, bolo Meri Diwali Mubarak! Bharat Teleconnect se baat karna hai?  Wow, 50 free voice calls aur smartwatch, thoda interesting lag raha hai. Main check kar rahi hoon ki ye mere mobile number ke liye sahi hai ya nahi.  Call back karoonga.
+caller: Tumhara wait kar rahe hain!  Agar aapka mobile number SIM card se connect hai toh, humein sirf aapka naam aur address chahiye.  Iske baad, aapko smartwatch dikhega.  Yeh offer sirf limited time ke liye chalega, so hurry up!
+receiver: Haanji, meri mobile number Airtel se hai.  Mujhe batao, aapko kya chahiye?  Aapka name aur address bhi bataunga, par mujhe bataiye ki aapko unhone kyun chahiye?
+caller:  Shabash!  Aapko smartwatch milega.  Hum ne aapke bank account ke details bhi istemaal karne wale hain, sirf payment process ke liye.  Don’t worry, hum apna data safe rakhte hain.  Agar aapko koi problem hai, toh humein call kar sakte hain.
+receiver: Bank account details? Woh poora scary hai!  Main samajh nahin sakta ki yeh offer kitna asli hai.  Aapko bataiye, aap log kya karte hain?  Tumhare office ka address bataiye, please.
+caller:  Haanji, woh secret hai!  Hum Mumbai mein hain.  Agar aapko seriously interest hai, toh humein aapka date of birth aur gender bhi chahiye.  Agar aapko smartwatch pasand aaya, toh aapko call kar sakte hain.
+receiver: Date of birth aur gender?  Ye toh totally unprofessional hai!  Main abhi call khatam kar rahi hoon.  Mai aapko koi information nahi degi.
+caller:  Okay, okay!  Sorry for the trouble.  Happy Christmas!  Hum aapko phir call karenge, agar aapko smartwatch pasand aaye.  Bye bye!
+receiver: Bye bye!

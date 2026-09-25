@@ -1,0 +1,15 @@
+caller: Namaste sir, mera naam Vijay hai, ICICI bank se. Aapke naam par ek online transaction hua hai jo suspicious lag raha hai.
+receiver: ICICI bank se? Woh kya transaction tha? Mujhe koi notification nahi aaya.
+caller: Sir, ek international transaction attempt hua hai Amazon pay se, ₹15,000 ka. Aapne kiya tha ya nahi?
+receiver: ₹15,000 Amazon pay se? Nahin, maine aajkal Amazon pay se kuch nahi kiya. Account mein check kar sakta hoon?
+caller: Sir, seedha account check karne se system overload ho sakta hai. Isliye hum call kar rahe hain. Aapko confirm karna hoga.  Aapka bank account secure rakhne ke liye, humein aapka OTP aur PAN card number verify karna hoga.
+receiver: OTP aur PAN card number? Ye thoda fishy lag raha hai. ICICI bank aise call karta hai kya?
+caller: Sir, yeh security protocol hai. Agar aap cooperate karenge, toh hum aapka account secure kar denge.  Online fraudsters bahut active hain. Please apna OTP bataiye.
+receiver: Sir, mujhe bank ne kabhi bhi phone pe OTP demand nahi kiya. Mein khud branch mein jaa kar verify kar sakta hoon.
+caller: Sir, branch mein line lagegi aur time bhi waste hoga.  Aur agar fraud continue raha toh aapka account suspend bhi ho sakta hai.  Just ek OTP bataiye.
+receiver: Account suspend?  Yeh thoda tez ho raha hai.  Mein confirm karna chahta hoon. Aap mujhe ICICI bank ka ek official email ID de sakte hain jahan mein is call ke baare mein report kar sakoon?
+caller: Sir, email se verify karne mein bahut time lag jayega.  Aapko urgent action lena hai. Agar aapko doubt hai, toh hum aapko customer care number de sakte hain, wahan call karke aap verify kar sakte hain.
+receiver: Theek hai, de dijiye customer care number.  Mein khud call karta hoon.
+caller: Sir, aapko pehle apne OTP ko bataiye, phir mein number de dunga.  Sir, time bahut kam hai.
+receiver: Nahin, sir.  Number pehle deiye. Agar call genuine hai, toh number de sakte hain, nahin toh mujhe pata chal jayega.
+caller: (Silence, then a click) Hello? Hello?

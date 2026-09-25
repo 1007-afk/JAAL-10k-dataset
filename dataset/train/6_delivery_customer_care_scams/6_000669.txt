@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mera naam Rahul hai, Flipkart Customer Care se. Aapke account mein ek pending payment ka issue hai, jiski wajah se aapka ek order hold ho gaya hai.
+receiver: Oh, really? Which order is it? I don’t recall any pending payments.
+caller: Sir, order number is FLP789456. It’s a ₹7,500 order for a new television. We need to verify your details quickly to release it. Can you please share the OTP you received on your registered mobile number?
+receiver: OTP? I haven't received any OTP. And I don’t remember ordering a television for that much. Are you sure you have the right number?
+caller: Sir, this is a security protocol. Without verification, we can’t release the order and you’ll be charged a late fee. Just a quick OTP, please. Also, just to be safe, can you quickly confirm the last four digits of your bank account linked to your Flipkart account?
+receiver: Hold on a minute. This sounds fishy. Why do you need my bank details? And why can't I just check my Flipkart account online? I'm calling Flipkart customer care directly now.
+caller: Sir, please don't do that. This is a special emergency line. If you hang up, you’ll lose the order and incur extra charges. Just the OTP, sir, that’s all we need! We can even send a one-time link to your email ID to verify your information.

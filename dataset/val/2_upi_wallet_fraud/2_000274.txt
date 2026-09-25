@@ -1,0 +1,7 @@
+caller: Namaste! Mai Amazon se call kar raha hoon. Aapke account mein ₹1500 ka cashback pending hai, lekin verification ke bina woh expire ho jayega.
+receiver: Amazon se? Mai ne toh koi purchase nahin kiya tha. ₹1500 cashback?
+caller: Haan ji, aapne Diwali ke time ek product return kiya tha, aur refund ke paise cashback ke taur par aapke account mein add ho gaye hain. Ab bas verification karna hai, taaki woh aapke wallet mein transfer ho jaye.
+receiver: Verification? Kasie karna hai? Mujhe koi OTP aaya nahin hai.
+caller: Sir, OTP aapke phone pe nahin aayega. Aapko ek link mil jayega, us par click karein aur apna PAN card number aur bank account number de dein. Yein sirf ek time ka process hai.
+receiver: PAN card number? Bank account number? Amazon aise nahin puchta hota. Aur link bhi mujhe nahin mila hai.
+caller: Sir, jaldi karein, link abhi expire ho sakta hai. ₹1500 aapke haath aayenge, aur aapke Amazon account mein bhi benefit milega. Verification ke bina, ₹1500 ka loss ho sakta hai.

@@ -1,0 +1,15 @@
+caller: Namaste, main Rohan hoon. Main Kisan Solutions Pvt. Ltd. se baat kar raha hoon. Aapse ek small payment related issue per baat karna chahta hoon.
+receiver: Namaste Rohan ji, main sun rahi hoon.
+caller: Aapke account mein 1.75 rupay ka transaction dekha tha, Kisan Solutions ke naam se. Kya aapne kabhi Kisan Solutions ke products ya services ko use kiya tha?
+receiver: Haan, maine Kisan Solutions ka software try kiya tha, par mujhe koi problem mili thi.
+caller: Thoda interesting hai. Toh, aapke account mein ye transaction kitni dinon se hai?
+receiver: Ehsaas nahi ho raha, abhi tak, maybe ek do din se.
+caller: Okay, Priya ji, humare system mein yeh transaction dekha jaa raha hai. Seem karta hai yeh kisi automatic update ke karan hua hai. Par, agar aapko yeh charge pasand nahi aaya toh hum isko cancel kar sakte hain. Ismein aapko sirf ek confirmation click karna hoga.
+receiver: Cancel kar sakte hain? Ji haan, mujhe yeh charge pasand nahi aaya.
+caller: Excellent! Now, just to confirm your identity, could you please provide the last four digits of the card you use for online payments?
+receiver: Ji haan, last four digits hain 9876.
+caller: Thank you, Priya ji. And can you confirm the month and year of your birth? This is simply for our security protocol.
+receiver: Meri janmdi mahina aur saal hai April 1990.
+caller: Shukriya, Priya ji. Just one final step - can you repeat back the full amount of the transaction, including the rupee symbol?
+receiver: Transaction ka poora amount hai 1.75 rupaye.
+caller: Perfect! The transaction has been successfully cancelled and a full refund will be processed within 3-5 business days. You’ll receive a notification shortly.

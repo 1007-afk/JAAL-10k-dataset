@@ -1,0 +1,11 @@
+caller: Namaste, sir? Ye BharatPay customer support se Rohit bolta hoon. Aapke BharatPay account mein kuch suspicious activity detect hui hai.
+receiver: BharatPay? Kya hua? Mein toh aaj kal BharatPay use nahi karta.
+caller: Sir, kal raat ko aapke account se 20000 rupaye ka transaction hua hai ek unknown merchant ke account mein. Yahi par suspicion hai. Aapne kiya tha yeh transaction?
+receiver: 20000 rupaye? Nahin, main toh aisa kuch bhi nahi kiya. Mujhe toh pata bhi nahi tha ki 20000 rupaye balance tha mere BharatPay mein.
+caller: Sir, humein isko jaldi block karna hai aapke account ko. Varana hacker loot jayega sab. Is transaction ko reverse karne ke liye, aapko apna BharatPay app mein log in karke ek OTP provide karna hoga.
+receiver: OTP? Par main BharatPay app se logon karne mein comfortable nahi hoon. Yeh thoda risky lag raha hai.
+caller: Sir, risky nahi hai. Yeh fully secure system hai. OTP humein confirm karega ki aap sahi owner hain. Jab aap OTP send karenge, hum isko reverse kar denge.
+receiver: Okay, theek hai. Par OTP kaise bhejooge?
+caller: Sir, aap apne BharatPay app mein jaaiye, 'Transaction Verification' option milega. Wahaan par OTP generate ho jayega. Woh OTP mujhe bata dijiye.
+receiver: Haan, mujhe samajh mein aa raha hai. Mein OTP check kar ke aapko bataata hoon.
+caller: Bilkul sir, jaldi kijiye, time kam hai. Hacker kabhi bhi account hack kar sakta hai.

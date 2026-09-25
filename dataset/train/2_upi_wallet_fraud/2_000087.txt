@@ -1,0 +1,12 @@
+caller: Hello sir, main BharatPay security department se Atul bol raha hoon. Apke BharatPay account mein suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Kaun se activity? Mujhe toh kuch pata nahi hai.
+caller: Sir, ek bahut zyada amount ka transaction attempt kiya gaya tha. ₹7,500 Paytm se aapke BharatPay account mein transfer karne ki koshish ki gayi thi. Isiliye hum aapko verify kar rahe hain.
+receiver: ₹7,500? Areh, yeh to main kabhi bhi transfer nahi karunga. Mujhe confirm karo yeh koi scam toh nahi hai?
+caller: Sir, scam hone ki koi possibility nahi hai. Hamara system automatic hai. Aapko bas apne BharatPay app mein ‘Verify Transaction’ option pe click karna hai aur ek OTP dalna hai jo hum aapke number par bhejenge.
+receiver: Okay, ek minute. Mein app dekhta hoon. Haan, ‘Verify Transaction’ option dikh raha hai. OTP ka intezaar karta hoon. Sir, OTP aane mein kitna time lagega?
+caller: Sir, OTP abhi hi aana chahiye. Jab aayega toh woh enter karein. OTP dalne ke baad, aapko ek confirmation message milega aur aapka account secure ho jayega.
+receiver: Okay, OTP mil gaya. ₹7,500 ka OTP hai.
+caller: Sir, woh OTP sahi se enter karein. Thoda caution rakhna hai. Phir aapka account secure ho jayega.
+receiver: Enter kar diya. Now what? Mujhe koi confirmation message nahi mil raha.
+caller: Sir, ek aur OTP dalna padega. Yeh security protocol hai. Ek confirmation code aapke bank ke naam se milega, woh bhi dal do.
+receiver: Bank ka naam? Areh, yeh to zyada ho

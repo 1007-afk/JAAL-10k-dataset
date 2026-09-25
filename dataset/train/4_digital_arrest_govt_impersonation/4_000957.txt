@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Singh? This is the Cyber Crime Investigation Cell. We're calling regarding a suspicious package linked to your name. It appears to contain items related to international drug trafficking.
+receiver: Cyber Crime Investigation Cell? Yeh kaun baat kar raha hai? Mujhe koi package nahi mila. Aur drugs? Main toh kabhi drugs nahi leta.
+caller: Sir, our records indicate a parcel addressed to you arrived at a Delhi customs facility last night. The contents are flagged as highly concerning. To avoid legal proceedings and potential arrest, we need to verify your identity and process a small settlement fee.
+receiver: Settlement fee? Arrest? Yeh kya bol rahe hain aap? Main toh Delhi mein nahi rehta. Main Mumbai mein hoon. Aur mujhe koi parcel nahi mila.
+caller: Sir, we understand this is alarming, but cooperation is crucial. The amount is ₹15,000 to cover administrative and verification costs. We’ll keep you on a video call to ensure this is handled discreetly. Please use UPI to pay to this ID: 7890123456@ybl. You must do this within the hour.
+receiver: ₹15,000? UPI? Sir, yeh to scam lag raha hai. Main police station mein report karunga. Aapko pata hona chahiye, main yeh nahi karunga.
+caller: Sir, please don’t be hasty. This is a very serious matter. Refusal to cooperate will result in a warrant being issued in your name. Just a quick payment and this will all go away. The video call is about to start, please remain online.
+receiver: Dekho, mere paas koi parcel nahi hai, aur main ₹15,000 nahi dene wala. Tum log scammer ho. Main abhi police ko phone karta hoon.
+caller: Sir, one last chance. Think about your

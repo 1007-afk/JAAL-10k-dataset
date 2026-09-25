@@ -1,0 +1,6 @@
+caller: Namaste! Mai Flipkart se Rahul bolta hoon. Aapke account mein ek pending payment hai, order ID FLP7890123. Payment clear nahi karne par order hold ho jayega aur account suspend bhi ho sakta hai.
+receiver: Flipkart? Order ID? Mujhe koi order yaad nahi. Mai ne kuch order kiya tha kya? Aur pending payment ka notification mujhe nahi mila.
+caller: Sir, system mein dikh raha hai. Yeh ek kitchen appliance ka order hai. Aapki security ke liye, aap mujhe OTP bataiye, mai payment verify kar dunga. 
+receiver: OTP? Koi bhi OTP kabhi bhi nahi batana chahiye. Flipkart aise calls karta hai? Ye kuch gadbad lag rahi hai. Koi number hai Flipkart ka jo mai check kar sakta hoon?
+caller: Sir, time bahut kam hai. Account block hone se pehle jaldi se bataiye OTP. Agar aap OTP nahi batayenge toh aapko kuch mahine tak Flipkart se koi bhi product nahi lena milega. 
+receiver: Thoda wait karo. Mai Flipkart app mein check karta hoon. Aap thode minute ruk jayenge?

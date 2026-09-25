@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? We are calling from ‘QuickCash Advance’ regarding your recent loan application. Congratulations, you’ve been pre-approved for a loan of ₹75,000!
+receiver: Haan, main Priya Sharma hoon. QuickCash Advance? Loan application ka kya hua?
+caller: Excellent! To finalize the loan and process the funds, we just need you to verify a small security deposit of ₹2,500. This is a standard procedure to prevent fraud and ensure your account safety. You can easily transfer it through UPI to the number 9876543210.
+receiver: ₹2,500? Security deposit? Loan dene se pehle deposit dena padega? Yeh toh bilkul sahi nahi lag raha hai.
+caller: Madam, please understand, this is for your own protection. We've noticed some suspicious activity on your device, and this deposit confirms you are the rightful applicant. If you don’t do this immediately, we'll have to cancel your loan application and flag your account. We have proof of photos and contacts from your phone. Don’t make us send it to your friends and family.
+receiver: Photos and contacts? Kya bol rahe ho aap log? Yeh toh blackmail hai! Main koi bhi deposit nahi karungi.
+caller: Don't be foolish, Madam! We are watching you. Transfer the ₹2,500 now and get your loan. Or, you'll regret it. We know where you live.

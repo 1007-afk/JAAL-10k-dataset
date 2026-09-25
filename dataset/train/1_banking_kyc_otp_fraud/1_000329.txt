@@ -1,0 +1,19 @@
+caller: Namaste! Main Bharat Services se bol raha hoon. Aapke liye ek bahut zaroori customer support message hai. Parichay karna, yeh call record kiya ja raha hai, quality check ke liye. Humne aapki account mein koi potential problem dekhi hai aur hume kuch details verify karne ki zarurat hai, jab tak aapka protection nahin hota. Agar aap mujhse apni poori naam bata sakte hain, to shuru karein.
+receiver: Namaste ji! Mein aapko sun raha hoon. Mera naam Sanjay Kumar hai. Kya problem hai? Account mein kya hua? Bolo, kya verify karna hai?
+caller: Dhanyavaad Sanjay Ji, aap ne poori naam batayi. Humne dekha hai ki aapki account mein ek din ka transaction thoda badhiya hua hai. Isliye hume aapki account ko safe rakhne ke liye kuch sawaal puchna padega. Pahle, agar aap apni account ka email id bata sakte hain?
+receiver: Email id? Haan ji, mera email id [sanjay.kumar@email.com] hai.  Yeh transaction badhiya kyun hua? Koi data theft ho gaya hai kya? Mujhe abhi tak pata nahi hai kya happening hai.
+caller: Shukriya Sanjay Ji, email id confirm ho gayi.  Humne dekha hai ki aapki account par ek VPN connect kiya gaya hai.  Isliye hume aapki account ko safe rakhne ke liye kuch extra steps lein pehchaane hain. Agar aap apne account ka address bata sakte hain?
+receiver: Address?  Main toh Gurgaon mein rehta hoon. Woh address hai [Gurgaon Sector 15].  Kya ye online fraud hai?  Mujhe itni tension lag rahi hai.
+caller: Dhanyavaad Gurgaon Sector 15, Sanjay Ji.  Aapki account ko safe rakhne ke liye, hume aapki mobile number verify karne hogi.  Agar aap mujhse apni mobile number bata sakte hain, to shuru karein.
+receiver: Mobile number? Haan ji, meri mobile number [9876543210] hai.  Koi bhi cheating kar raha hai kya?  Mujhe abhi tak kuchh samajh mein nahin aaya.
+caller: Shukriya Sanjay Ji, mobile number confirm ho gayi.  Aapki account ko safeguard karne ke liye, hume aapke password ka half bataana hoga.  Agar aapmujhe password ka first half bata sakte hain, to shuru karein.
+receiver: Password ka half?  Oh God!  Yeh kitna serious hai?  Haan ji, password ka first half hai [abcde].  Mujhe bahut ghabra rahi hai.
+caller: Dhanyavaad Sanjay Ji, password ka half confirm ho gaya.  Aapki account ko complete security ke liye, hume aapke bank account ka IFSC code verify karna hoga.  Agar aap mujhse apni bank account ka IFSC code bata sakte hain, to shuru karein.
+receiver: IFSC code?  Mein toh yeh bhi yaad nahin karta.  Ek minute, main dekh leta hoon…  Haan, woh hai [XYZABC1234].  Mujhe bahut pareshaan hona laga hai.
+caller: Dhanyavaad XYZABC1234, Sanjay Ji.  Aapki account ko safe rakhne ke liye, hume aapke debit card ka expiry date verify karna hoga.  Agar aap mujhse apni debit card ka expiry date bata sakte hain, to shuru karein.
+receiver: Debit card expiry date? Haan ji, woh [MM/YY] hai.  Mujhe abhi tak pata nahin chal raha ki kya ho raha hai.
+caller: Shukriya Sanjay Ji, debit card expiry date confirm ho gaya. Aapki account ko secure rakhne ke liye, hume aapke PAN card ka last four digit verify karna hoga. Agar aap mujhse apni PAN card ka last four digit bata sakte hain, to shuru karein.
+receiver: PAN card ka last four digit?  Haan ji, woh [1234] hai.  Mujhe abhi tak koi idea nahin hai.
+caller: Dhanyavaad 1234, Sanjay Ji. Aapki account ko complete security ke liye, hume aapke registered mobile number verify karna hoga. Agar aap mujhse apni registered mobile number bata sakte hain, to shuru karein.
+receiver: Registered mobile number?  Haan ji, woh [9876543210] hai.  Mujhe abhi tak pata nahin chal raha ki kya ho raha hai.
+caller: Shukriya 9876543210, Sanjay Ji. Aapki account ko safeguard karne ke liye, hume aapke family member ka naam verify

@@ -1,0 +1,6 @@
+caller: Hello, darling! I hope you’re having a wonderful day. I saw your profile on ChaiMatch and I’m absolutely smitten! You're looking very beautiful in your photos. I'm Rohan, by the way.
+receiver: Hi Rohan! Thank you! That’s really sweet of you to say. ChaiMatch is fun, isn't it? What do you do?
+caller: I’m a software engineer working on a project overseas in Singapore. It's quite demanding, but the pay is amazing, which lets me treat my special someone nicely. I've been wanting to bring someone special along but work keeps me so busy. Could I see a photo of you, just to make sure it’s really you?
+receiver: Sure, here’s a photo. You're quite persistent! Singapore sounds exciting though. Is it really busy there?
+caller: Wonderful! It's you! Exactly as gorgeous as I imagined. Life here is hectic, and honestly, my mom isn’t doing too well back in Delhi. She needs a small operation.  I’d love to fly her over here, but the costs are piling up. I was wondering if you could possibly help me out with just a little amount, like 15,000 rupees? I'll pay you back as soon as I get paid next month.
+receiver: 15,000 rupees? That’s quite a lot, Rohan. I barely know you. And you’re overseas. This sounds a little fishy, doesn't it? I think I need to think about this. Maybe you could show me some proof? Like a screenshot of your payslip?

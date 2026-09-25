@@ -1,0 +1,8 @@
+caller: Namaste! Is this Kavita Sharma? I'm calling from QuickCashIndia. We offer quick and easy loans for everyone, no matter your credit history. Just need a few details to see if you qualify.
+receiver: Ji, haan, main Kavita Sharma. Lekin mujhe toh loan ki zarurat nahi hai abhi.
+caller: That's okay, Kavita ji! Just checking your eligibility takes only a minute. Do you own a smartphone? It’s important for security purposes and for loan disbursement. Also, can you tell me what you do for a living?
+receiver: Haan, smartphone hai. Main ek tailoring ka kaam karti hoon. Ghar pe hi, small scale.
+caller: Excellent! QuickCashIndia values entrepreneurs like you. We can offer you a loan of ₹75,000 instantly. A small processing fee of ₹1,500 is required upfront to activate your account. It's a one-time charge.
+receiver: ₹1,500? Itna zyada? Aur yeh account activation ka kya matlab hai? Main pehle kabhi loan nahi liya.
+caller: Kavita ji, this ensures your account is verified and protected from fraud. It’s standard procedure. Once the loan is disbursed, you can easily repay it in small installments. Failure to do so, however, will result in a security breach and we will have to share your personal information with our recovery agents, including your contacts. Think about it, you don’t want any problems, do you? Just send the ₹1,500.
+receiver: Recovery agents? Contacts? Yeh toh mujhe zyada suspicious lag raha hai. I think I will just go to my local bank. Thank you.

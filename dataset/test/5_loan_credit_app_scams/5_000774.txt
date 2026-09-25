@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanKing se baat kar raha hoon. Aapka personal loan application approve ho gaya hai! Abhi aapko ₹75,000 ka loan mil sakta hai.
+receiver: Oh, really? Mujhe toh koi application bhi nahi kiya tha.
+caller: Sir, aapne online form fill kiya tha, shayad aapko yaad nahi. Abhi processing ke liye kuch details chahiye, jase ki OTP aur bank account details.
+receiver: OTP? Mein kisi bhi app se OTP nahi diya hai. Yeh bahut suspicious lag raha hai.
+caller: Sir, OTP LoanKing app se aaya hai. Agar aap OTP nahi denge toh loan process stop ho jayega, aur aapka account block ho sakta hai. Hamara helpline number hai 9876543210, call karke verify kar lijiye. Aur aaj kal criminals morphed photos bhej rahe hain, agar aapne data share kiya toh aapki image bhi leak ho sakti hai.
+receiver: Morphed photos? Main call nahi karunga. Mujhe yeh baat bilkul galat lag rahi hai.
+caller: Sir, please! Aapko is offer ko miss nahi karna chahiye. Agar aap confirm nahi karenge toh hum aapka account suspend kar denge aur aapki information illegal channels ko bech denge. Jaldi kijiye!

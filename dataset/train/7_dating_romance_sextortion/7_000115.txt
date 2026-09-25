@@ -1,0 +1,8 @@
+caller: Hello? Is this Priya Sharma? This is Rohan, I’m 24 and recently moved to Mumbai. I am searching for someone who likes to explore the city together. If you're interested, send a WhatsApp message to 78945.67. The first 3 messages are free, after that it costs ₹2 per message. Let me know if you're up for exploring!
+receiver: Oh, hello? No, this isn't Priya Sharma. I think there’s been a mistake. Sorry, I’m not particularly interested in that.
+caller: Oh, sorry, my mistake! I seem to have dialed incorrectly. I'm still getting used to this new phone system. Have a pleasant day!
+receiver: Koi baat nahi, abhi to hai. It happens. You're new to Mumbai, so it takes time to get used to things. If you need any assistance, please let me know; I'll try to help. Take care!
+caller: Arey yaar, thank you very much! That’s very kind of you. Haan, Mumbai mein naya hoon, toh thoda confuse ho jaata hai. But I was hoping to find someone to share some experiences with. Maybe we could go to Bandra or Juhu beach sometime, agar tum free ho?
+receiver: Arey, I’m called Anjali. And I’m not really looking for anything beyond friendly companionship, you know? But yes, if you need information about places to visit, I can certainly assist. Don’t want you to feel lonely here.
+caller: Arey, just companionship is fine! Going to the beaches sounds great. Thank you for offering to help. But regarding the exploration, I simply wish to enjoy myself and meet new people in Mumbai. Know anyone, or have any suggestions?
+receiver: Oh, I see. Well, I'm working as an accountant at a firm, nothing exciting. I'm mainly busy with my job and daily routine. I hope you understand. However, if you require assistance with using local trains or finding a decent restaurant, feel free to ask.

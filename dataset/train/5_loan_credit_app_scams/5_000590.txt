@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Verma? We’re calling from QuickLoan Solutions. We’ve processed your loan application and it’s been approved for ₹50,000. Just need to confirm a few details.
+receiver: Really? That’s great news! I applied for a loan, but I wasn’t sure if I’d get approved. What do you need from me?
+caller: Wonderful! To finalize the process and prevent fraud, we need to verify your identity. Can you please tell me the last four digits of your Aadhaar card and the name of your bank?
+receiver: Okay, the last four digits of my Aadhaar are 7890. And my bank is Axis Bank. Is this secure?
+caller: Absolutely secure, sir. We’re just following standard verification protocols. Now, there’s a small processing fee of ₹2,500 that needs to be deposited to activate your loan. Please transfer it to the UPI ID quickloans.service@axis.
+receiver: Two thousand five hundred? But I thought the loan was interest-free. And this UPI ID looks a bit suspicious… I’ve never used this before.
+caller: Sir, regulations have changed. The fee is mandatory. If you don't pay within the next hour, the loan will be cancelled. We don’t want you to miss this opportunity. Transfer now, or lose the loan.

@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Kumar? This is ASI Sharma calling from the Delhi Customs Department. We have a serious matter regarding a parcel registered under your name.
+receiver: Ji, haan, main Rajesh Kumar bolta hoon. Parcel? Kya baat hai?
+caller: Sir, our intelligence reports indicate this parcel contains prohibited items – suspected counterfeit currency and electronic devices used for illegal gambling activities. We need to confirm your involvement to prevent further legal complications.
+receiver: Counterfeit currency? Illegal gambling? Main toh kabhi parcel nahi bheja. Mere naam se koi parcel aaya hai kya? Main toh kuch bhi nahi pata.
+caller: Sir, the tracking number is DL789456123. It originated from Malaysia. To clear this matter and avoid arrest, you need to pay a processing fee of ₹15,000 as a security deposit. It’s a standard procedure, sir. We need to verify your funds.
+receiver: ₹15,000? Arrest? Sir, yeh toh kuch galat lag raha hai. Main police station jaa kar complaint karunga. Aapko mujhe dhakke se paise nahi mang sakte.
+caller: Sir, please don’t misunderstand. This is to protect you from serious charges. We can arrange a video call with the investigating officer to explain the situation further. But time is of the essence. Payment details are 9876543210 Paytm/Google Pay. Act fast, Sir.
+receiver: Sir, aapko ek minute rukna hai. Main apne lawyer se baat karta hoon aur phir main aapko jawab deta hoon. Main kuch bhi haste haste nahi karunga.

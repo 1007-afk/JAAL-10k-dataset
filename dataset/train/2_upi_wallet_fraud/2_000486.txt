@@ -1,0 +1,9 @@
+caller: Namaste Madam, mai Axis Bank se Deepak bolta hu. Aapke Axis Bank account mein achanak ₹15,000 ka transaction hua hai.
+receiver: ₹15,000? Kaunsa transaction hai? Mujhe toh koi message nahi aaya.
+caller: Haanji, sir. Yeh transaction Amazon pe hua hai. Security ke liye, aapko apne account ko verify karna hoga.
+receiver: Verify? Kab se hua yeh? Mujhe to kuch pata hi nahi. Amazon se mera koi relation bhi nahi hai.
+caller: Madam, galatfee nahi karein. Yeh ek fraud transaction hai. Aapko apne account ko secure rakhne ke liye Paytm pe ek OTP verify karna hoga. Main aapko Paytm number de dunga.
+receiver: Paytm number? Maine to kabhi bhi Paytm se nahi khareeda. Aur OTP verify karne se account secure hoga kya?
+caller: Haan madam, bilkul. OTP verify karne se aapka account secure ho jayega aur Amazon wale log bhi pata karenge ki yeh aap ne nahi kiya transaction. Aapko sirf OTP send karna hai.
+receiver: Theek hai, ek minute. Main Paytm check karti hu... Arre yaar, mujhe ek collect request aaya hai ₹15,000 ka.
+caller: Haan madam, wohi toh confirm ho gaya. Ab aapko OTP send kar dijiye, tabhi security complete ho jayegi. Madam, jaldi karein, fraud hone se pehle.

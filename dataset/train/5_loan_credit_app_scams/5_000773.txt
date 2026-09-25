@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Rohan Verma, QuickLoan India se baat kar raha hoon. Aapne hamari app par personal loan apply kiya tha, right? Verification ke liye call kar raha hoon. Aapke paas pan card ki copy ready hai kya?
+receiver: Haan, Rohan ji. Pan card toh hai. Verification ke liye kya karna hai? App mein toh sab details de chuki hoon.
+caller: Ji sir, bahut accha. Mein aapke loan application number check karta hoon. Wait a minute… Yeh hai ABC123456. Confirm ho gaya. Ab aapko SMS ke through verification code milega. Woh code mujhe bata dijiye.
+receiver: SMS aaya hai. Yeh hai 789012. Verification ho gaya? Interest rate kitna hai, yeh batao?
+caller: Yes sir, confirmed! Verification complete. Loan approved ho gaya hai. Principal amount 50,000 hai, lekin processing fee ke charges 15,000 honge. Aapko abhi 35,000 transfer karne honge, warna loan approve nahi hoga. Account number mein transfer kijiye.
+receiver: 15,000 processing fee? Aur 35,000 transfer karna hai? Yeh toh galat hai! Mein nahi karunga!
+caller: Sir, jaldi kijiye! Agar aap abhi transfer nahi karenge, toh hum aapke contacts ko aapki personal photos bhej denge. Sochna mat, sir. Jaldi transfer kijiye.

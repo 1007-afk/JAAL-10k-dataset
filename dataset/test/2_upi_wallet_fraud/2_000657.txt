@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Sharma? I'm calling from Paytm Payments Bank regarding a cashback offer on your recent transaction. You’ve been selected for a ₹7,500 cashback reward!
+receiver: Really? Paytm is giving cashback? I didn’t get any notification. What transaction are you talking about?
+caller: Yes sir, it’s a special promotion. To process the cashback, we just need to verify your bank account details. It's a quick process, just need your account number and IFSC code.
+receiver: Hold on, that sounds a little odd. Paytm usually just credits to my wallet. Why would I need to give my bank details for a cashback? Is this secure?
+caller: Absolutely secure sir. We're updating our system. Giving bank details is the new secure way, no OTPs needed.  It's a one-time process, and the ₹7,500 will be credited directly to your account within 15 minutes. Don't miss out on this fantastic offer!
+receiver: I’m still not comfortable sharing my bank details. Paytm has never asked for this before. Can you give me a reference number for this promotion, or direct me to the official Paytm website to verify this myself?
+caller: Sir, this is a limited-time offer, a unique promotional code for you. No reference numbers available, it's a privilege. Don’t delay, give your bank details now to claim the ₹7,500 cashback before it expires!

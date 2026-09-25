@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? We are calling from QuickCash Loans. Your application for a ₹50,000 instant loan has been pre-approved! This is a limited-time offer.
+receiver: Really? That's great! I did apply, but I wasn’t sure if I’d qualify. What do I need to do?
+caller: Congratulations! To finalize the loan, we just need to verify a small processing fee of ₹2,500. This guarantees your loan approval and avoids any delays. You can transfer it to our secure payment gateway - UPI ID is quickcash.pay@axis.
+receiver: Two thousand five hundred rupees? That seems a bit high just for processing. Is that really necessary?
+caller: Absolutely necessary, madam. This fee covers verification and security checks. Without it, we cannot guarantee the loan's release, and your application will be rejected. Many people are taking advantage of this offer – don't miss out! Send the UPI payment and we will activate your loan immediately.
+receiver: Okay, hold on a second. I’ll make the payment. What’s the loan repayment schedule like? And can I be sure I’ll actually receive the ₹50,000 after paying the fee?
+caller: Once the payment is confirmed, we will release the funds within 15 minutes. The repayment is simple: ₹15,000 within 7 days.  You will receive SMS updates. You have a great opportunity, Priya ji. Please hurry and transfer the fee now.
+receiver: Fifteen thousand to repay fifty thousand? That’s a ridiculous interest rate! I’m not paying anything. I’m reporting this!

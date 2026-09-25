@@ -1,0 +1,8 @@
+caller: Namaste sir, congratulations! Aapke naam par ₹5000 ka lottery ticket mila hai! Aap ne bahut badi selection ki hai! Claim karne ke liye, 09876543210 pe call karein, subah 8 baje se shahar 6 baje tak. Call ka charge ₹5 hai. Bahut mazaaful offer hai!
+receiver: Hello, thanks a lot! Lottery ticket? Really? So, I have to call 09876543210 to receive it? And the cost is ₹5? Is that correct?
+caller: Haan ji, absolutely! Aapke naam par ₹5000 ka lottery ticket benar-benar mila hai! Aur haan, claim karne ke liye aapko sirf 09876543210 pe call karna hai. Charge bhi ₹5 hai, so koi baat nahin! Jaldi se call kar lijiye, offer khatam hone wala hai! Aapko abhi call karna chahte hain?
+receiver: ₹5000? Wow, that’s quite a sum! It’s ending soon, huh? Number is 09876543210, yes? And ₹5 for the call? Okay, I will give it a try.
+caller: Bahut achcha! Aur haan, number yaad rakhna, 09876543210. Agar aap jaldi call karenge toh aapko pakka mil jayega. Aur agar koi confusion ho toh mujhe batana, main aapki help karunga. Main phone rakhta hoon, jaldi se call kijiye!
+receiver: Ji, thank you very much for your assistance. I am dialing the number now. Please wish me luck!
+caller: Haa ji! Best of luck! Mujhe yakeen hai aapko zarur kuch milega. Aur agar koi problem aaye toh mujhe bata dijiyega, theek hai? Ab main phone rakhte hain, go ahead and call! Khoob maza aa jayega!
+receiver: Ji, definitely! Thank you again! I hope I win something. Bye!

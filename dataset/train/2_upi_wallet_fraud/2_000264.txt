@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Akash calling from BharatPe support. We've noticed some unusual activity on your BharatPe account and need to verify a small transaction to ensure your funds are secure.
+receiver: BharatPe? What unusual activity? I haven't done anything.
+caller: Yes, ma'am. A collect request for ₹250 was initiated from your account a few minutes ago. It seems to have failed due to a technical glitch, and we need your confirmation to process it. To avoid any blockage of your account, please confirm by entering the last four digits of your UPI PIN.
+receiver: Last four digits of my UPI PIN? That sounds very risky. Why can't you just verify it through the BharatPe app?
+caller: Ma'am, due to the urgency and the technical error, our system is experiencing some limitations. This is a temporary measure to protect your account. It’s just the last four digits, nothing else. Please cooperate, or your account might be temporarily suspended.
+receiver: Suspended? But I need my BharatPe account! Okay, fine. It's… 4321.
+caller: Thank you, ma'am. Processing now… Just one moment. We've detected another potential unauthorized attempt. To complete the security check, please send ₹50 to the following number: 7890123456. This is a one-time refundable fee.

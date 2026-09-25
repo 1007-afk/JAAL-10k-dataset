@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Sunil Kumar from the Delhi Police Cybercrime Unit. We've detected suspicious activity linked to your bank account, involving a large sum being transferred to an overseas account.
+receiver: Oh! Really? Which bank account? I don't understand.
+caller: It's your ICICI Bank account, sir. We have evidence suggesting your account was compromised and used for transferring funds related to an illegal cryptocurrency operation. To verify your identity and prevent further losses, we need you to remain on this call.
+receiver: This sounds very strange. Can you give me a case number or connect me to someone I recognize at the bank?
+caller: Due to the sensitive nature of the investigation and to protect you from further risk, we cannot disclose the case number at this time. We’re working closely with the Enforcement Directorate on this. To secure your assets, we need you to immediately transfer ₹25,000 to a secure government account as a processing fee to clear the investigation. It’s a small price to pay to ensure your funds are safe.
+receiver: Twenty-five thousand? This seems like a scam. I’m going to hang up and call ICICI Bank directly.
+caller: Sir, please don't do that! Hanging up will be considered obstruction of a police investigation, and it will only worsen your situation. This is a final warning. The funds will be seized if you do not comply immediately. We are monitoring your every move. Provide the details for the transfer now, or face the consequences.
+receiver: I am contacting my lawyer. Goodbye.

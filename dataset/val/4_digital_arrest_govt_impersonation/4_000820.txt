@@ -1,0 +1,9 @@
+caller: Namaste! Main Inspector Sharma bol raha hoon, CBI se. Aapke naam par ek parcel aaya hai, Delhi se.
+receiver: Parcel? Mujhe toh koi parcel order nahi kiya tha. Kahan ka parcel hai?
+caller: Yeh parcel Gujarat se aaya hai, aur usmein illegal items mile hain – drugs. Aapko pata bhi nahi hoga, lekin aapke naam se aaya hai.
+receiver: Drugs? Yeh kya bol rahe hain aap? Mein toh kabhi drugs ka sahara nahi liya.
+caller: Dekhiye, is matter mein court mein case chal raha hai. Aapko court mein present hona hoga. Lekin, court mein jaane se pehle, aapko ₹50,000 fine bhar dena padega. Tabhi aapko clean chit milegi.
+receiver: ₹50,000? Mein itna paisa kahan se laaunga? Aur court mein present hone ki kya zaroorat hai? Yeh kuch gadbad hai.
+caller: Gadbad nahi hai. Yeh legal process hai. Paise ka transfer account number [gives account number] par karein. Jaldi karein, warna police aapke ghar aaegi aur arrest karegi.
+receiver: Thoda rukiye, Inspector sahab. Mein ek baar check kar leta hoon. Mujhe verification karna hai.
+caller: Verification? Time nahi hai verification ka! Police aapke address par aa rahi hai, aur FIR register ho rahi hai. Jaldi se ₹50,000 transfer karein. Agar aap cooperate karenge toh sab kuch theek ho jayega.

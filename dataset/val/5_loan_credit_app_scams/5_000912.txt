@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya from LoanBuddy Express. I see you recently applied for a personal loan online. We’ve pre-approved you for a significant amount, but we need to verify a few details first.
+receiver: Haan, ji. Loan apply kiya tha. Verification ke liye kya chahiye?
+caller: Very good sir. First, we need to confirm your transaction history. Can you please share the last three months' bank statement? You can send it as a PDF to this email: verify.loans@securemail.net
+receiver: Bank statement? It's quite a large file. Can't we verify it some other way?
+caller: Sir, this is standard procedure. Unfortunately, without verifying the statement, we cannot release the loan amount. However, to expedite things, we can take a small processing fee of just ₹500. This will clear the verification quickly. You can deposit it in this UPI ID: LoanBuddySecure@axisbank.
+receiver: ₹500? But you said it was a pre-approved loan! Why a processing fee?
+caller: Sir, it's a security measure to prevent fraudulent applications. Once you’ve made the payment, send us the transaction ID and we’ll process your loan immediately. We’ll also send you a verification code via SMS. This is the final step.

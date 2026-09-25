@@ -1,0 +1,7 @@
+caller: Namaste! Calling from QuickCashPro.in. Need urgent funds for medical expenses, tuition fees, or any immediate situation? We approve loans within minutes, no credit checks needed! What’s your name, sir?
+receiver: Hello? Yes, my name is Rajesh Kumar. I do need some money, actually. My daughter’s school fees are due.
+caller: Rajesh ji, fantastic! QuickCashPro is here to help. We can give you a loan of up to ₹75,000. Very simple process. Just a small registration fee of ₹800 to activate your account. After that, the loan will be transferred immediately. Agree?
+receiver: ₹800? Is that all I need to pay upfront? And how much will the repayment be?
+caller: Yes, Rajesh ji, just ₹800. Repayment is very easy, you can pay back in 10 monthly installments. To process this, I need your bank account details and a quick selfie with your Aadhar card, just to verify your identity.
+receiver: A selfie with my Aadhar card? That sounds a little risky. Can’t you just take my account details?
+caller: Rajesh ji, for security purposes, we need the selfie to prevent fraud. Think of your daughter, her school fees are important. Do you want her to miss out? Send the selfie quickly, and we'll process the loan right away.

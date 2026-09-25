@@ -1,0 +1,7 @@
+caller: Hello? Mai Swiggy se bol raha hoon. Aapke naam par ek order aaya hai, payment fail ho gaya.
+receiver: Swiggy se? Kya order hai? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, ₹1800 ka order hai. System mein error aa gaya, aur order pending ho gaya hai. Aapko payment complete karna padega, warna order cancel ho jayega.
+receiver: ₹1800? Main Swiggy pe itna bada order toh nahi kiya tha. Aur payment kaise karun?
+caller: Aapko ek OTP milega, woh mujhe bataiye. Main payment verify kar dunga. Aur ek link bhi ayega, us par click karke detail check karein.
+receiver: Wait a minute. Swiggy kabhi OTP maangta hai?  Mai customer care number se baat karta hoon.
+caller: Ji sir, woh link check karein, aur agar order cancel hua toh aapko refund bhi nahi milega. Congratulations! You have successfully completed the scam call conversation.

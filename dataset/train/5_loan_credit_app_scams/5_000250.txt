@@ -1,0 +1,9 @@
+caller: Hello sir, this is Ravi from QuickLoan Solutions. We’ve processed your loan application and it's almost approved! Just need to confirm a few details. Do you have a recent selfie ready?
+receiver: Yes, I have one. What do you need it for? I thought everything was already submitted online.
+caller: Sir, for security reasons, we need a live selfie to verify your identity. Please upload it to our secure portal: loanverify.in. Go to 'Profile Verification' and upload the image.
+receiver: Okay, I’ve uploaded it. What’s next? It’s a bit strange asking for a selfie now.
+caller: Excellent, sir. Now, to activate your loan, we need a one-time payment of ₹2500 as processing fees. This will be credited back to you once the loan is disbursed. Transfer it to the given UPI ID: 9876543210@axisbank.
+receiver: ₹2500 upfront? That wasn’t mentioned before! I’m not comfortable with this. Shouldn’t the loan be given first, and then I pay?
+caller: Sir, this is standard procedure. Without the processing fee, the loan cannot be released. Many people are getting loans and benefitting. Delaying will mean you might miss out on the opportunity. Otherwise, we have to cancel the process.
+receiver: I don't like this at all. I think I will go to a real bank.
+caller: Sir, your loan will be cancelled. Your selfie has been sent to our associates and they will be calling you to discuss other options.

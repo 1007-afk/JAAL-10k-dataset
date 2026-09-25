@@ -1,0 +1,7 @@
+caller: Hello, sir? This is from PhonePe support. We have detected some suspicious activity on your account and need to verify your details immediately to prevent unauthorized access.
+receiver: Oh really? Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Yes sir, a failed transaction attempt was made from your account to a new UPI ID. To secure your funds, we need you to complete a quick verification process. We need you to send ₹500 as a 'collect request' to a temporary verification ID for a moment, we'll return it immediately after verification.
+receiver: ₹500? Why do I have to send money to verify? That doesn’t sound right. Usually, you just ask for some information, right?
+caller: Sir, this is a new security protocol implemented by PhonePe. It’s to ensure the authenticity of the account holder. Don't worry, you will get your ₹500 back instantly. Just send it to UPI ID: verify.phonepe.secure.  Please do it quickly, sir, to avoid any further issues.
+receiver: Okay, fine. I’ll send ₹500. But I'm writing down this UPI ID. And I’m expecting that ₹500 back right away.
+caller: Excellent sir! Thank you for your cooperation. The system is processing your verification now. You’ll receive confirmation shortly. Congratulations, your account is now fully secured.

@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Verma? My name is Rahul, calling from Zomato customer care. We've detected an unusual transaction on your account – a failed delivery attempt for an order you didn’t place, worth ₹875.
+receiver: Haan, yeh mera phone hai. ₹875 ka order? Mujhe toh koi order nahi kiya tha.
+caller: Ji haan sir, system mein dikh raha hai ki order kiya gaya tha, lekin delivery ke samay address sahi nahi mila. Humara delivery agent ne kuch screenshots bheje hain. Isliye, we need to verify your payment details to reverse the charge and prevent further issues. Can you please share the OTP you received on your registered mobile number?
+receiver: OTP? Lekin kyun? Mujhe toh Zomato se koi OTP nahi aaya. Ye bahut hi strange lag raha hai.
+caller: Sir, OTP sirf verification ke liye hai. Agar OTP nahi share karenge toh payment reverse nahi ho payega, aur ₹875 aapke account se cut ho jayega. Iske alawa, aapke account ko suspend bhi kiya ja sakta hai. Please share the OTP, sir. Iske bad aapko ₹875 back mil jayega.
+receiver: Wait a minute… Zomato kabhi OTP maangta nahi hai. Ye toh scam lag raha hai. Main police mein report karunga.

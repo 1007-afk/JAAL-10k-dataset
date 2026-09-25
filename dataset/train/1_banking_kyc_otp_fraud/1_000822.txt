@@ -1,0 +1,7 @@
+caller: Namaste, main State Bank of India se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious transactions detect hue hain, sir.
+receiver: Kya? Suspicious transactions? Kaise? Bataiye.
+caller: Sir, ek online transaction try kiya gaya hai Nepal mein, ₹12,000 ka. Aapne kiya tha ya nahi?
+receiver: Nepal mein? Bilkul nahi! Main toh ghar pe baitha hoon. Yeh kya ho raha hai?
+caller: Sir, isko confirm karne ke liye aur aapka account secure karne ke liye, humein aapke registered mobile number pe ek OTP verify karna hoga. Is OTP se hum pata karenge ki aap hi baat kar rahe hain.
+receiver: OTP? Par mujhe toh koi OTP nahi mila. Aur aapne yeh kaise confirm kar rahe hain? Yeh toh risky lag raha hai.
+caller: Sir, OTP abhi gaya hoga. Check karo ek baar. Agar nahi aaya toh ek aur OTP bhejta hoon. Isko jaldi se verify karwa lijiye, warna account suspend bhi ho sakta hai.

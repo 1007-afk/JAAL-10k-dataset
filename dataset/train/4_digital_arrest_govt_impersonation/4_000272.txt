@@ -1,0 +1,9 @@
+caller: Namaste, sir. This is Inspector Raj from the Delhi Police Cybercrime unit. We’ve detected suspicious activity linked to your bank account – unusual international transfers.
+receiver: Delhi Police? Really? What’s going on? Why am I getting this call?
+caller: Sir, it appears your account is being used for money laundering linked to an illegal cryptocurrency operation. We need to freeze your account immediately to prevent further losses. We've traced a large sum to your account from a known shell company.
+receiver: Hold on, this sounds fishy. I haven't made any unusual transfers. Can you give me a case number or tell me which bank this is about?
+caller: Sir, this is a sensitive investigation, and we can’t disclose the case number at this stage.  However, to verify your identity and secure your funds, we need you to transfer ₹15,000 to a secure government account as a temporary holding fee.  This is standard procedure to show your cooperation.
+receiver: ₹15,000? That’s ridiculous! I’m not paying anything. I want to report this number. Can I speak to your supervisor?
+caller: Sir, please understand, delaying this could result in your account being permanently blocked and you facing serious legal consequences. We can connect you to a senior officer on a video call right now to explain everything in detail.  Just transfer the amount, and we’ll resolve this immediately.  It’s just a temporary security measure.
+receiver: A video call? Okay, fine. Let me see... but I'm recording this call.  What’s the account number to transfer to?
+caller: Sir, please transfer it to account number 1234567890, IFSC code GCIS0000123.  It's a special account set up

@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Riya Sharma calling from Axis Bank’s KYC verification team. We’ve noticed some unusual activity on your account and need to confirm your details to prevent any fraud.
+receiver: Haan, bolo. What kind of unusual activity? I haven’t done anything different.
+caller: Sir, there’s been an attempt to transfer a large sum of money from your account to an unknown beneficiary. To secure your funds, we need to quickly verify your information. Could you please share the last four digits of your Aadhaar card?
+receiver: My Aadhaar number? I don’t give that out over the phone. That’s risky, isn’t it? Any sensible bank employee wouldn’t ask for that.
+caller: Sir, please understand, we're following strict protocols. It’s a one-time verification and completely secure. If you don't provide the last four digits, we’ll be forced to temporarily suspend your account as a precaution. It will take at least 24 hours to reactivate it then.
+receiver: Suspend my account? That sounds very alarming. Okay, fine, it's 4567. But I'm noting down your number. What is your employee ID and the branch you're calling from, please?
+caller: Thank you, sir. Your cooperation is greatly appreciated. My employee ID is AX8923 and I’m calling from the Axis Bank National Verification Center. Now, as a final security measure, we need you to confirm your debit card CVV – the three-digit code on the back.

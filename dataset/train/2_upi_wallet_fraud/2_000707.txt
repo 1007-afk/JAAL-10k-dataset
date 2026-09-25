@@ -1,0 +1,7 @@
+caller: Namaste! Main Bharat Aadhaar Seva se call kar raha hoon. Aapke aadhaar card ko KYC update karna hai, otherwise account block ho sakta hai. ₹500 ka cashback offer hai, sirf BharatPe par pay karne par.
+receiver: Aadhaar card update? Block ho jayega? BharatPe se ₹500 cashback? Yeh kya hai?
+caller: Haan ji, bilkul! Government rule hai abhi. BharatPe par ₹500 pay karne par, aapko ₹500 cashback milega instant. Number pe ‘UPDATE’ send karein, 99999 pe.
+receiver: ₹500 pay karunga, phir ₹500 cashback? Aur 99999 pe update send karunga? Batao, BharatPe mein account hai mera?
+caller: Haan ji, check kar ke bataata hoon. Aapka BharatPe account hai, naam se match ho raha hai. Jaldi karein, offer valid sirf 10 minute ke liye hai. 99999 pe ‘UPDATE’ send kar dein!
+receiver: 10 minute? Arey yaar, mujhe check karne do, ek minute ruko. Mein phone mein dekh leta hoon.
+caller: Beta, 10 minute ka time hai! Offer chala jayega. Fast ho jao! ‘UPDATE’ send karein, aur ₹500 cashback claim karein!

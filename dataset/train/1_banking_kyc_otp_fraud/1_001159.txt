@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Sharma? My name is Rohan speaking, calling from Secure Credit Solutions. We’ve detected some unusual activity on your Axis Bank savings account linked to your Aadhaar.
+receiver: Haan, bolie. Unusual activity? Kya hua?
+caller: Yes ma’am. A large withdrawal attempt was flagged. To prevent your account from being suspended, we need to verify some details immediately. Just a few quick questions, please. Can you confirm the last four digits of your Aadhaar number for verification?
+receiver: Wait a minute. Why are you calling me about this? I haven’t received any notification from Axis Bank. And why do you need my Aadhaar number?
+caller: Ma’am, it’s a precautionary measure. Axis Bank is proactively protecting its customers. We need to verify the Aadhaar to ensure it’s you and prevent fraudulent transactions. The system flagged this withdrawal, and we are trying to secure your funds. It's a security protocol, nothing to worry about. Just tell me the last four digits, please, it will only take a second.
+receiver: This sounds very suspicious. I’m not comfortable giving out my Aadhaar details over the phone. I'll call Axis Bank directly myself to confirm this. Thank you.
+caller: Ma'am, please don't do that! This is a direct line from Secure Credit Solutions, authorized by Axis. If you hang up, the system might automatically suspend your account as a safety precaution. Just those last four digits, ma'am. Please, it’s for your own good.

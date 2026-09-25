@@ -1,0 +1,10 @@
+caller: Aapi aapke WhatsApp status ko dekha, amazing photo hai woh.  Humare group mein upload karein ge, sabko dikhayenge.
+receiver: Oh, really?  Thank you!  Main abhi upload nahi kar sakta.  Kya aapko isko send kar sakte hain?
+caller: Ji, aapka naam [Invented Name, e.g., Ms. Verma] hai aur aapne ek sticker pack download ki hai.  Hum aapke order ko process kar rahe hain.  Aapko ek confirmation message mil jayega kuch hi der mein.
+receiver: Achcha, great!  Thank you so much for letting me know.  Main wait kar rahi hoon confirmation message ka.  Aapko mera naam pata hai kya?  Bas naam confirm karna tha taaki mujhe pata rahe ki yeh mera hi order hai.
+caller: Ji, aapka naam Ms. Verma hai aur aapne ek sticker pack download ki hai. Kya yeh sahi hai?
+receiver: Haanji, bilkul sahi hai. Ms. Verma hi hoon main. Thank you so much for confirming! Bahut Khushi hui yeh sunke.
+caller: Bahut achha, Ms. Verma! Hum aapke sticker pack order ko process kar rahe hain aur aapko kuch hi der mein confirmation message mil jayega. Kya aapko payment karne mein koi issue aa raha hai? Hum aapko ek link bhej sakte hain payment ke liye.
+receiver: Nahi nahi, payment mein koi issue nahi hai. Actually, payment toh maine kar diya tha pehle hi. Bas main yeh confirm karna chahta tha ki order successfully book ho gaya hai. Agar confirmation message aa jayega toh I'll be all set. Thank you for offering though!
+caller: Okay, Ms. Verma. Aapne payment pehle hi kar di hai, yeh sunke achha laga. Hum bas confirmation ke liye process kar rahe hain. Agar aapko confirmation message mil jaaye toh aapki order process ho jayegi.  Aapki sticker pack ki details mein koi specific request hai? Jaise ki koi particular design ya colour scheme?
+receiver: Haanji, actually maine ek particular design select kiya tha. Kya uski details aap check kar sakte hain? Main naam toh bhool gaya hoon, but it's a popular cartoon character. Agar aapko mil jaaye toh bahut achha hoga. Thanks!

@@ -1,0 +1,8 @@
+caller: Namaste! Hai tum? Is this Mr. Sharma? This is Rahul from Creative Designs calling. How’s your day going? I’m calling to tell you about a fantastic promotion we have for Diwali decorations. We're offering premium festive banners and a complimentary celebratory sound effect for your calls. Sounds exciting, doesn’t it?
+receiver: Ji, main Sharma sir hoon. Kaise ho aap? Diwali ke decoration ka offer sunne mein acha laga.
+caller: Haanji, bahut achcha laga! And listen, this deal is valid only for the next few hours. We only have 5 deluxe packages left. These will really enhance the festive vibe on your phone. Are you interested? Just type ‘DIYA’ on 9876, and you’ll get everything, costing just ₹120 per package. You won’t find deals like this again!
+receiver: ₹120? Fir ek package kitni badi hai? Dobara bataiye, number bataiye jo se connect ho saktha hu.
+caller: Absolutely! The number is 9876. And yes, only 4 deluxe packages remain now, so the first one to text ‘DIYA’ will get it! Hurry up, don't miss out on these beautiful festive banners and the delightful sound effect!
+receiver: Okay, it seems to be ending soon. Alright, let me check with my family. What's your name, so I can call you back?
+caller: My name is Rahul from Creative Designs. And yes, only 2 deluxe packages are left now. Type ‘DIYA’ on 9876 quickly, and it will be yours for sure. Then you can talk to your family later. Don’t miss this offer!
+receiver: Only 2 left? Main toh bas dekhne aaya tha. But they say ₹120 is too cheap for such decorations. Could this be some kind of recurring payment scheme? Will there be additional charges later?

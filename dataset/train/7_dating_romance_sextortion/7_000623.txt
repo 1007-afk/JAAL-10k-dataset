@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? My name is Rohan, and I saw your profile on Dil Mil. You seem like a lovely person! I’d love to chat a little bit if you’re free.
+receiver: Hi Rohan! Yes, this is Priya. Thanks for reaching out. I'm quite busy with work at the moment, but I can chat for a bit. What's up?
+caller: Wonderful! I'm based in London, UK, just starting a new business here. It’s been hectic, but I really enjoy it. I was just thinking about how nice it would be to connect with someone special. Can I call you later? My number is +44 7911 123456.
+receiver: London, that’s cool. Yes, sure, you can call. I'm in Mumbai right now. Just let me know when you’ll be calling, and I’ll be ready.
+caller: Perfect! I’ll call you around 9:00 PM IST. Just a heads-up – international calls can sometimes be a bit pricey, especially with roaming charges. There's a small fee involved to ensure the connection is clear and secure, around ₹5 per minute. It’s just a standard thing with this service I use. Are you okay with that?
+receiver: ₹5 per minute? That's a little steep, but okay, I suppose. If it’s to ensure a good connection, I understand. Let's talk at 9:00 then.
+caller: Fantastic! I’m really looking forward to speaking with you, Priya. It's so rare to find someone with such a kind face and warm aura. Until then!

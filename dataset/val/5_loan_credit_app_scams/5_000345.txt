@@ -1,0 +1,8 @@
+caller: Namaste, mujhe Rajneesh Verma bolte hain, LoanSecure Solutions se. Aapko jaldi se paisa chahiye kya? Koi bhi urgent requirement hai?
+receiver: Haan, actually mera beta ka school fees dena hai, woh bhi urgent hai. Kitna loan mil sakta hai?
+caller: Bilkul, hum madad karenge. Aapko ₹15,000 se ₹30,000 tak ka loan mil sakta hai, bas kuch basic details deni hogi. Aapka naam aur pan card number bataiye.
+receiver: Mera naam Suresh Kumar hai aur pan card number [Receiver’s Pan Number] hai. Aur mujhe yeh batao, interest kitna lagega?
+caller: Suresh Ji, sirf ₹500 ka processing fee lagega, aur interest rate market standard ke hisab se hoga. Jab aap loan repay kar denge, toh woh bhi koi big deal nahi hoga. Ab aapka bank account number aur IFSC code bataiye verification ke liye.
+receiver: Nahin, main account details phone pe nahi bata sakta. Ye thoda suspicious lag raha hai. Main bank mein jaake khud verify karunga.
+caller: Suresh Ji, aap galat samajh rahe hain. Yeh process secure hai. Agar aap details nahi denge, toh loan approve nahi hoga. Aur agar aapne time waste kiya, toh humko loss hoga, aur uske baad hum aapko call kar ke disturb kar lenge. Ab bataiye, aap kya chahte hain?
+receiver: Main abhi call disconnect kar raha hoon.

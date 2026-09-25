@@ -1,0 +1,11 @@
+caller: Namaste, sir! Is this Mr. Rajesh Verma? I'm calling from the Cyber Crime Investigation Cell, Delhi.
+receiver: Haan, bolhiye. What’s this about?
+caller: Sir, we've detected suspicious activity linked to your bank account. It appears a large sum of money was used to facilitate illegal parcel deliveries across the country.
+receiver: Illegal deliveries? What are you talking about? I haven’t sent any parcels!
+caller: Sir, we have records. To clear this up and avoid legal action, you need to cooperate. We need to verify your identity and secure your funds. I will need you to stay on this call, and I will transfer you to our verification officer. There is a small verification fee of ₹8,750 to prove you’re not involved and to freeze the transaction. You can pay via Google Pay or PhonePe.
+receiver: ₹8,750? Just to clear my name? This sounds very fishy. Can I call you back or speak to someone else?
+caller: Sir, I understand your hesitation, but we cannot disconnect the call. This is standard procedure. If you hang up, it will look like you are trying to evade investigation, and a warrant will be issued.  The verification officer is waiting. Just confirm the payment, sir, and we'll resolve this quickly. We can even give you a receipt.
+receiver: A warrant? That’s ridiculous. I want to speak to your supervisor.
+caller: Sir, our supervisor is currently in a meeting with senior officials regarding this very case. We’re prioritizing cases like yours.  To expedite the process, and show your good faith, please provide the last four digits of your bank account number to confirm the transaction.
+receiver: I'm not giving you anything. I'm calling the police.
+caller: Sir, this

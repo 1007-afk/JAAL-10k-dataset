@@ -1,0 +1,9 @@
+caller: Hello! Is this Priya Sharma? We’ve noticed you applied for a personal loan recently. Congratulations! You've been pre-approved for an instant loan of up to ₹75,000 with minimal interest.
+receiver: Really? I did apply through LoanBuddy, but I haven’t heard anything since. Who is this?
+caller: I’m Rohan from SecureLoans. LoanBuddy partnered with us for quick approvals. To finalize the loan, we just need a small security deposit of ₹850 to verify your bank account. It’ll be refunded immediately after the loan is disbursed.
+receiver: ₹850? That seems odd. LoanBuddy never mentioned a security deposit. And how will you verify my account?
+caller: It’s standard procedure, Priya. We’ll send you a link to a secure portal to enter your bank details. This ensures the loan goes to the correct account and prevents fraud. The money will be back in your account instantly, trust me. We need it quickly, though; our system resets tonight.
+receiver: A secure portal? I'm not comfortable doing that. It sounds risky. Can I speak to someone at LoanBuddy to confirm this?
+caller: Priya, don't be foolish! This is a fantastic opportunity, and you're letting it slip away. Think about all the things you can do with ₹75,000! Time is running out - the offer expires in one hour. Give me the OTP you receive on your phone, and we'll start the process immediately.
+receiver: OTP? That’s it. This is a scam. I’m reporting your number. Goodbye.
+caller: Priya! Don’t be so hasty! I can help you with your credit score! Send me your Aadhaar details, and I’ll have everything processed.

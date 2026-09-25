@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart Customer Care se Rohit bol raha hoon. Aapke naam par ek parcel aaya hai, par address mein kuch problem aa rahi hai.
+receiver: Oh, really? What's the problem? I was expecting a delivery today.
+caller: Ji, aapki delivery address incomplete hai. OTP verify karna hai, taaki parcel aap tak pahunche. Ye security check hai.
+receiver: OTP? Why do I need to give you an OTP? Isn't that a bit risky? Flipkart never asked for an OTP before.
+caller: Sir, ye ek naya security protocol hai. Fraud se bachne ke liye. Kuch log address chori kar rahe hain. Just 4 digits ka OTP do, bas.
+receiver: Four digits? Okay, hold on. Let me quickly check my Flipkart app… (pause) Wait a minute. This feels suspicious. I’m not giving you anything. I’ll call Flipkart directly.
+caller: Sir, please don’t waste time. Parcel ruk jaayega, aur aapko late charge bhi lag sakta hai. Just one OTP, please. This is a limited-time offer to secure your delivery.

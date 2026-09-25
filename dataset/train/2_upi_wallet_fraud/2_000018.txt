@@ -1,0 +1,23 @@
+caller: Namaste, main Rohan hu NetSecure Solutions se. Aapke mobile recharge ke transaction ka reference number hai SR78923. Jaise aap jaante hain, hum ne aapko ₹150 ka recharge kiya tha, lekin abhi aapko ₹150 ka bill mila hua hai. Kya aap mujhe apne account number aur OTP verify kar sakte hain?
+receiver: Namaste Rohan ji, main Sita devi hoon. Ji haan, main Rohan ji se baat kar rahi hoon. ₹150 ka recharge, woh sach hai. Mera account number hai [invented account number, e.g., 1234567890], aur OTP mil gaya hai.
+caller: Shukriya, Sita ji. Aapse OTP verify ho gaya hai. Ab mein aapko refund procedure shuru karunga. Parantu, agar aapko koi technical issue aa rahi hai, toh mujhe bataiye.
+receiver: Ji haan Rohan ji. Koi problem nahi hai. Refund kab tak milega?
+caller: Refund ki process 3-5 working days mein complete hogi. Aapko bank statement mein refund ka entry dekhne ko milega.
+receiver: Okay Rohan ji, thank you for the update.
+caller: Aapka mahol khush rahe!
+caller: Hello, this is Dev from SecurePay Services. We detected an unusual purchase of ₹150 for a ‘Premium Filter’ on your account. Could you please provide me with the last four digits of your debit card for confirmation purposes?
+receiver: Namaste Dev ji, main Kavita Devi hoon. Ji, main Dev ji se baat kar rahi hoon. Premium Filter, woh shayad online order ka part tha. Mera debit card ka last four digits hain 7890.
+caller: Excellent, Kavita. Now, for added security, could you please confirm your date of birth – DD/MM/YYYY? This will help us quickly identify any potential fraud.
+receiver: Main November 15th, 1985 hoon. Yani 15/11/1985.  Aur kya chahiye?
+caller: Thank you, Kavita. One moment while I process this information…  It appears there’s a slight discrepancy. The 'Premium Filter' purchase wasn't authorized. We need to take a temporary hold on your account to investigate.
+receiver: Hold? Kyon hold?  Mujhe kuchh samajh nahin aaya.
+caller:  We require a small fee of ₹50 to cover the investigation costs. It’s a standard procedure to protect your account from further unauthorized activity. Please transfer this amount via UPI to [invented UPI ID, e.g., securepayrefund@upi].
+receiver: UPI transfer?  ₹50?  Main ismein achha nahin hun.  Aap mujhe bolte hain kya karana hai?
+caller:  Don't worry, Kavita. It’s a very simple process. Just follow the instructions you’ll receive after the payment is processed.  We want to assure you that we’re here to help resolve this swiftly.
+caller: Namaste, main Sanjay dari NetSafe Solutions se. Aapke internet data usage ke karan ₹150 ka bill mila hai. Jaise aap jaante hain, hum ne aapko data pack diya tha, lekin bill mein ₹150 ka extra charge dekha hai. Kya aap mujhe apne registered mobile number verify kar sakte hain?
+receiver: Namaste Sanjay ji, main Lakshmi Bai hoon. Ji haan, main Sanjay ji se baat kar rahi hoon. ₹150 ka extra charge, woh sach hai. Mera registered mobile number hai [invented mobile number, e.g., 88776 54321].
+caller: Shukriya, Lakshmi ji. Aapse number verify ho gaya hai. Ab mein aapko refund procedure shuru karunga. Parantu, agar aapko koi technical issue aa rahi hai, toh mujhe bataiye.
+receiver: Ji haan Sanjay ji. Koi problem nahi hai. Refund kab tak milega?
+caller: Refund ki process 3-5 working days mein complete hogi. Aapko bank statement mein refund ka entry dekhne ko milega.
+receiver: Okay Sanjay ji, thank you for the update.
+caller: Aapka mahol khush rahe!

@@ -1,0 +1,7 @@
+caller: Hello, is this speaking to Mr. Sharma? I'm calling from QuickCash Solutions. We've noticed you're eligible for a personal loan of up to ₹75,000 with minimal paperwork. Just a quick verification process.
+receiver: QuickCash Solutions? I wasn’t expecting a call. What’s the interest rate like?
+caller: Sir, the interest is competitive, around 9%. The best part is, we don't do hard credit checks. So even if your credit history isn't perfect, you're still approved. To proceed, we just need a quick OTP verification sent to your mobile number and a copy of your most recent bank statement.
+receiver: OTP? Sounds a little risky. And a bank statement? Why do you need that?
+caller: Sir, it’s standard procedure to verify your account ownership for security purposes. If you don't provide it, we can't release the loan, and the offer will expire in 24 hours. We can also send you a link for a short video explaining the process.
+receiver: A video? Okay, send me the link. Let me check it first.
+caller: Absolutely, sir. The link is quickcashsolutions.info/verify.  Please don't delay, sir! The offer is only valid for today.  Also, for security purposes, can you confirm your date of birth for me?

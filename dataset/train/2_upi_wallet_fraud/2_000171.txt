@@ -1,0 +1,8 @@
+caller: Namaste! Main Paytm Customer Care se Atul bolta hoon. Aapke Paytm wallet mein security breach ka attempt hua hai.
+receiver: Oh! Really? What happened? Is my money safe?
+caller: Sir, aapka account suspend karne par मजबूर हैं ताकि aapki harakat ko control kar sakein. Aapko apna account reactivate karne ke liye, Paytm app mein ek OTP verify karna होगा। www.paytmsecure.online par jake OTP enter karein.
+receiver: Paytmsecure.online? Main toh Paytm app se hi use karta hoon. Kuchh link share karein?
+caller: Sir, woh app ka purana version hai. Yeh new security protocol hai. Jaldi karein, otherwise aapka account permanently block ho jayega aur aapka ₹8000 ka balance bhi gum ho sakta hai.
+receiver: ₹8000? Wait, wait. Let me check my Paytm balance first.
+caller: Ji bilkul sir. Jaldi check karein. www.paytmsecure.online par jake OTP enter karein, bas. Apni security ke liye jaldi karna zaroori hai.
+receiver: Okay, just give me a minute. I’ll check my balance and then enter the OTP.

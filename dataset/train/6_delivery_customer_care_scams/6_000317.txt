@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? I'm calling from Bluedart Courier. We have a package addressed to you, but there’s a problem with the delivery address. It’s showing incomplete.
+receiver: Haan, main hi hoon. Kya package hai? Mujhe koi order toh kiya hai?
+caller: Yes sir, it's from Reliance Digital. A new smart TV. But the pin code is incorrect in our system. To get it delivered quickly, we just need to verify a few details. Can you confirm your full address and pin code for me, please?
+receiver: Reliance Digital? Smart TV? Mujhe toh yaad nahi ki maine kuch order kiya tha. Aur address aur pin code… woh main baad mein check kar sakta hoon. Kuch urgent hai?
+caller: Sir, it’s a little urgent. Because of this issue, the package is at the sorting hub and might get returned. To avoid that, we need to update the details within the next two hours. For security reasons, we’ve sent you an OTP to your registered mobile number. Can you please tell me what that OTP is?
+receiver: OTP? Dekhiye, mujhe shaqaq ho raha hai. Koi package mujhe yaad nahi, aur OTP… yeh kuch ghalat lag raha hai.
+caller: Sir, please don't worry. It’s just a standard verification process. If you didn’t order anything, we can simply cancel the delivery and return the package. But you'll need to confirm the OTP for security purposes. Otherwise, we can't proceed.
+receiver: Nahi, sir. Main koi OTP nahi dunga. Mujhe lagta hai aap ghalat number par phone kar rahe hain. Main abhi call kaat raha hoon.
+caller: Sir, please! Just a moment. We need to update the address quickly. We can offer you a discount on the delivery fee

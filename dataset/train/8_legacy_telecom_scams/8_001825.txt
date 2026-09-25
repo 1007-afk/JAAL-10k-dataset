@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se baat kar raha hu. Apne mobile par ek special offer mila hai - ₹5000 cashback! Agar aap abhi subscribe karte hain, toh aapko yeh offer mil jayega.  Mera naam Sanjay Kumar hai.
+receiver: Namaste Sanjay Ji. Cashback offer? Bahut accha!  Mera naam Rohan Verma hai.  Mujhe bataiye, subscribe karne ke liye kya karna padega?
+caller: Rohan Ji, sirf ek click dedo aur aapko subscription ho jaayega.  Aapko Paytm pe ₹500 deposit karne honge, jisse cashback apply hoga.  Iske badle aapko ₹5000 cashback mil jayega.  Agar aapko koi problem hai toh bataiye.
+receiver: Paytm pe deposit?  Haan, woh thik hai.  Kitna time lagega cashback mile?  Aur Paytm account number kya hona chahiye?
+caller: Cashback aapko 15 dinon mein mil jayega. Paytm account number kisi bhi valid Paytm account number ka ho sakta hai.  Par mujhe aapka mobile number chahiye, jisse hum aapko updates de sakein.  Kya main aapka mobile number le sakta hoon?
+receiver: Mobile number? Haan, mera mobile number hai 887766 5555.  Sanjay Ji, yeh sab bahut achha lag raha hai, lekin mujhe koi risk lag rahi hai.  Koi fees wagere toh nahi lagni chahiye, right?
+caller: Rohan Ji, aapki shakmatiyon ko maaf karein. Yeh Bharat Telecom ka ek legitimate offer hai. Koi extra charge nahi lagega.  Abhi bas aapka email address confirm karna hoga, taaki hum aapko confirmation mail bhej sakein.
+receiver: Email address?  Mera email address hai rohan.verma@gmail.com.  Confirmation mail lekar mujhe bataunga.  Agar mail nahi aata toh kya karna hoga?
+caller: Rohan Ji, aapko email check karna hoga. Agar aapko koi doubt hai toh humein contact kar sakte hain.  Bharat Telecom se aapka din khushi se guzara jaye!

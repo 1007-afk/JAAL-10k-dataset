@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? My name is Akash, calling from QuickTrack Courier. We're experiencing a slight delay with a package addressed to you. It's a high-value item, and there's been a security alert.
+receiver: Haan, main hi hoon. QuickTrack se? Kya hua package ke saath?
+caller: Yes, ma'am. The package requires a small verification fee of ₹250 to proceed. It’s a standard procedure to ensure the safety of your goods. We need this to confirm your identity and clear the security hold.
+receiver: ₹250? Security fee? Par maine to kuch fee nahi di thi jab package order kiya tha.
+caller: I understand your concern, ma'am. But unfortunately, new security protocols have been implemented. To avoid sending the package back to the sender, you can quickly pay using UPI. Can you share your UPI ID?
+receiver: UPI ID? Ek minute rukiye, main check karti hoon. Aur mujhe package tracking number bhi bataiye, please.
+caller: Absolutely, ma’am. The tracking number is QT789456123. Please send your UPI ID so we can process the payment and get your package delivered swiftly. Time is of the essence, ma'am!
+receiver: Thoda wait kijiye, main apne bank account se check karti hoon... yeh zyada suspicious lag raha hai.

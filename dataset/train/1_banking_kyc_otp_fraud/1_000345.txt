@@ -1,0 +1,16 @@
+caller: Namaste ji, main Ramesh Kumar bol raha hun. Aapke SBI account mein ek badi problem hai, aur humein isko asap solve karna hai.
+receiver: Hello? Ji, main sun raha hun.
+caller: Main aapko SBI ke customer care department se connect karne wala hun. Sirf ek minute, please.
+receiver: Haanji, bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, dekho, humne aapke account mein ek suspicious transaction dekha hai. Iske wajah se bank ko kuch steps lene padege. Agar aap yahaan cooperate karenge, toh aapki paisa safe reh jaayengi. Aapka account number ka last five digits bata dijiye, please.
+receiver: Suspicious transaction? Mein toh confuse ho gaya. Mera account number ka last five digits... woh main abhi yaad nahi kar paa raha hun. Kya aap mujhe phir se yaad puch sakte hain?
+caller: Nahin, nahin, time bahut zyaada nahi rehta.  Aapse ek secure website par jana hoga, jahan aap apni details easily verify kar sakte hain. Main aapko website ka address bhejna chahta hun.
+receiver: Website?  Koi website mat bhejana. Bank kabhi bhi aisa website nahi banata.  Aapko koi website nahi bhejana chahiye aur mujhe koi information nahi dena chahiye.  Apeen, main is call ko cut kar raha huon.  Kyun bata rahe hain aap log mujhe yeh sab?
+caller: Namaste ji, main Ramesh Kumar bol raha hun. Aapke SBI account mein ek badi problem hai, aur humein isko asap solve karna hai.
+receiver: Hello? Ji, main sun raha hun.
+caller: Main aapko SBI ke customer care department se connect karne wala hun. Sirf ek minute, please.
+receiver: Haanji, bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, dekho, humne aapke account mein ek suspicious transaction dekha hai. Iske wajah se bank ko kuch steps lene padege. Agar aap yahaan cooperate karenge, toh aapki paisa safe reh jaayengi. Aapka account number ka last five digits bata dijiye, please.
+receiver: Suspicious transaction? Mein toh confuse ho gaya. Mera account number ka last five digits... woh main abhi yaad nahi kar paa raha hun. Kya aap mujhe phir se yaad puch sakte hain?
+caller: Nahin, nahin, time bahut zyaada nahi rehta.  Aise karte hain, main aapko ek secure website par jana hoga, jahan aap apni details easily verify kar sakte hain. Main aapko website ka address bhejna chahta hun.
+receiver: Website?  Koi website mat bhejana. Bank kabhi bhi aisa website nahi banata.  Aapko koi website nahi banaana chahiye aur mujhe koi information nahi dena chahiye.  Apeen, main is call ko cut kar raha huon.  Kyun bata rahe hain aap log mujhe yeh sab?

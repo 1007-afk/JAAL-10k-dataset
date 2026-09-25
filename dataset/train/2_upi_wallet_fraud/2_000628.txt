@@ -1,0 +1,8 @@
+caller: Namaste! Main Payzi se Rahul bol raha hoon. Aapke Payzi wallet mein ek transaction fella hai, ₹750 ka. Kuch problem hai, aapko verify karna hoga taaki transaction complete ho sake.
+receiver: ₹750? Transaction? Mujhe toh koi notification nahi aaya. Kya hua?
+caller: Haan ji, ek unusual activity detect hui hai. Security ke liye, aapko verify karna padega. Main aapko ek link send karta hoon, us par click karke aapka OTP verify karo. Link yeh hai: payzi.secure.online/verify. Jaldi karo, 15 minutes mein verify nahi kiya toh transaction cancel ho jayega aur aapka wallet bhi suspend ho sakta hai.
+receiver: Arre yaar, link bahut suspicious lag raha hai. Payzi ka toh aisa link kabhi nahi aaya. Main confirm karna chahta hoon.
+caller: Bilkul confirm! Yeh official link hai, sir. Main Payzi se hi bol raha hoon. ₹750 aapka transaction block ho raha hai. Verify karein jaldi! Agar aap verify nahi karenge toh ₹750 permanent loss ho jayega.
+receiver: Okay, theek hai. Main link par click karta hoon… Acha, OTP manga raha hai. Koi aur details bhi maang raha hai, naam aur bank account number bhi?
+caller: Haan ji, naam verify hone ke liye aur bank account number verification ke liye. Jaldi karo sir! Account suspend hone se pehle verify ho jaye. ₹750 aapke haath mein rahega.
+receiver: Thoda wait karo, main check karta hoon. Mujhe kuch toh galat lag raha hai…

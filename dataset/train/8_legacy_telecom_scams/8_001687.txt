@@ -1,0 +1,27 @@
+caller: Namaste, sunao! Yeh Rohan hai, Digital Harmony Solutions se baat kar raha hoon. Aapke mobile usage ke bare mein kuchh important information share karna hai. Kaise haal hai?
+receiver: Namaste ji. Batao kaun hai aur kis baat ka? Mobile usage ke bare mein kya bolne wala hai?
+caller: Namaste ji. Batao kaun hai aur kis baat ka? Mobile usage ke bare mein kuchh important information share karna hai. Aapke mobile internet connection mein ek small technical issue hai, jisse aapko trouble ho rahi hai. Hum isko solve karne waale hain. Kya aapko internet slow lagta hai ya kabhi kabhi disconnect ho jaata hai?
+receiver: Haanji, yeh to hai. Internet thodi slow rehti hai, aur kabhi kabhi disconnect bhi ho jaata hai. Lekin main soch raha hoon ki network provider ne kuchh change kiya hoga.
+caller: Haanji, woh to possible hai. Par humara system aapke data ko analyze karta hai aur dekhta hai ki aapko internet speed mein consistently low performance aa raha hai. Isliye hum aapko call kar rahe hain. Aapke mobile number ka SIM card kitna barah mila hai?
+receiver: Sirf ek saal. Aur mujhe toh pata bhi nahi tha ki aisa record hona chahiye. Aapke paas mere mobile number ka deta hai toh bataiye ki kya wrong hai.
+caller: Naam, address, aur date of birth - yeh sab check kar rahe hain. Jeechhi, dekho, aapka SIM card 3 year door mila hai. Woh mistake hai. Aur iska reason yeh hai ki aapko premium services ka access mil raha hai jo aapne nahi liya hai.
+receiver: Premium services? Main unmein interested nahi hoon. Main sirf normal calls aur messages ke liye mobile use karta hoon.
+caller: Haanji, woh to expected hai. Par humara system technically correct hai. Isliye hum aapko suggest karte hain ki aap apni subscription details check karein aur agar koi unnecessary services enabled hai toh woh disable karein. Kya aapko pata hai ki aapko recently WhatsApp Business ka subscription mila hai?
+receiver: WhatsApp Business? Main WhatsApp sirf personal use ke liye leta huun. Yeh kaise hua?
+caller: Nahin pata, lekin hum aapko advise karte hain ki aap apne device settings mein check karein aur koi bhi unknown app uninstall karein. Aapko help chahiye toh hum helpline number par call karein.
+caller: नमस्ते! मैं विक्रम हूँ, स्मार्ट सिग्नल सॉल्यूशंस से। आपके डिवाइस पर कुछ समस्या है जिसके बारे में हमें पता चला है। क्या आप सुन रहे हैं?
+receiver: नमस्ते! कौन बोल रहा है और किस बारे में बात कर रहे हैं? मेरे डिवाइस पर क्या समस्या है?
+caller: नमस्ते! मैं विक्रम हूँ, स्मार्ट सिग्नल सॉल्यूशंस से। आपके डिवाइस पर कुछ समस्या है जिसके बारे में हमें पता चला है। आपका डिवाइस थोड़ा धीमा चल रहा है, है ना? क्या आप इसे इस्तेमाल करते समय कोई परेशानी महसूस कर रहे हैं?
+receiver: हाँ, कभी-कभी थोड़ा धीमा लगता है। लेकिन मुझे लगा कि यह नेटवर्क की समस्या है।
+caller: हाँ, यह संभव है। लेकिन हमने देखा है कि आपके डिवाइस के प्रोसेसर का उपयोग बहुत अधिक हो रहा है। क्या आपने हाल ही में कोई नया ऐप इंस्टॉल किया है?
+receiver: नहीं, मैंने कुछ भी इंस्टॉल नहीं किया है।
+caller: ठीक है। हम आपकी सुरक्षा सुनिश्चित करना चाहते हैं। हमें लगता है कि आपके डिवाइस पर एक मैलवेयर हो सकता है। हम आपको एक मुफ्त स्कैन करने के लिए आमंत्रित करना चाहते हैं। क्या आप सहमत हैं?
+receiver: मैलवेयर? मुझे ऐसा लग रहा है कि आप मुझे डरा रहे हैं। मुझे स्कैन करने की आवश्यकता क्यों है?
+caller: हम केवल आपकी मदद करना चाहते हैं। स्कैन करने से आपको किसी भी खतरे से बचाने में मदद मिलेगी। स्कैन पूरा होने के बाद, हम आपको बताएंगे कि क्या पाया गया।
+receiver: मुझे अभी स्कैन करने में दिलचस्पी नहीं है। मैं अपनी डिवाइस को किसी भी चीज़ से स्कैन नहीं करवाना चाहता।
+caller: ठीक है, हम समझ गए। फिर भी, हम आपको कुछ सुझाव दे सकते हैं जो आपके डिवाइस को बेहतर बनाने में मदद कर सकते हैं। जैसे कि कैश साफ़ करना या अनावश्यक ऐप्स हटाना।
+receiver: मैं ये चीजें खुद भी कर सकता हूं। धन्यवाद।
+caller: कोई बात नहीं। यदि आपको कोई अन्य सहायता चाहिए तो कृपया हमसे संपर्क करें। शुभ दिन!
+caller: Namaste, sunao! Yeh Rohan hai, Digital Harmony Solutions se baat kar raha hoon. Aapke mobile usage ke bare mein kuchh important information share karna hai. Kaise haal hai?
+receiver: Namaste ji. Batao kaun hai aur kis baat ka? Mobile usage ke bare mein kya bolne wala hai?
+caller: Namaste ji.

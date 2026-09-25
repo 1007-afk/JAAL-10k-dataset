@@ -1,0 +1,8 @@
+caller: Hello? Hello, madam? Can you hear me properly? Yes, this is the special offer service you’ve been calling about! We have fantastic deals and promotions just for you. First, I need to verify if you're above 18, okay?
+receiver: Haan ji, sunn raha hoon. Age toh 50 se zyada hi hai.
+caller: Wonderful, madam! Your age confirms your eligibility. Now listen carefully, this is a limited-time opportunity, right? This month you’ll receive 6 international calls. To proceed with the next level, we’ll need a few personal details. Would you prefer a cute nickname or would you like us to use your full name?
+receiver: Haan, sunn raha hoon. International calls toh expensive hote hain, pata hai. Nickname… mujhe kuch unique chahiye, koi interesting.
+caller: Excellent! How about ‘Simran’ or ‘Priya’? Something memorable. And after that, we’ll quickly complete the registration process to access those extra calls.  ‘Simran’ ya ‘Priya’, which do you like better? Let’s decide now!
+receiver: Simran? Priya? Nahin, wo donon thode formal lag rahe hain. Mujhe kuch casual rakhna hai. Kaise karein, koi common name jaisi? Jaise... Sonu? Haan, Sonu chalega.
+caller: Sonu, very good! You've chosen wisely, Sonu ji. For your account security, we need to double-check some information. Could you please repeat your full name again?
+receiver: Sonu? Haan, mera naam Sonu Kumar.

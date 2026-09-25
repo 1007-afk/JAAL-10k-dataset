@@ -1,0 +1,7 @@
+caller: Namaste uncle, main Vijay Bharti IDFC First Bank se baat kar raha hoon. Aapke IDFC First Bank account mein ek transaction fail ho gaya hai. Security ke liye, aapko account verify karna hoga.
+receiver: Arre, fail? Kaunsa transaction? Mujhe toh koi message aaya nahi.
+caller: Sir, ek online transaction attempt hua tha, lekin OTP wrong hone ke karan fail ho gaya. Verification ke liye, mujhe aapke account se associated mobile number par ek OTP bhejna hoga, woh share karna hai.
+receiver: OTP? Par kyun? Bank toh khud verify karta hai na? Aur IDFC First Bank ka koi bhi call karta hai toh woh ID check karta hai.
+caller: Sir, security protocol hai yeh. OTP se pata chal jayega ki aap sahi number par baat kar rahe hain. Agar OTP share karenge toh main aapka account secure kar dunga. Varina account freeze bhi ho sakta hai.
+receiver: Freeze? Nahin, nahin, aise kuch nahi hona chahiye. Toh OTP dedo, dekhte hain. Lekin agar kuch gadbad hui toh main tumhare bank ko complain karunga.
+caller: Theek hai sir, main OTP bhej raha hoon. Check kar lijiye. Abhi bataiye OTP kya aaya?

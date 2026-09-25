@@ -1,0 +1,8 @@
+caller: llo? Is this Mr. Sharma? My name is David from the Weekly Winnings Club. How are you doing today?
+receiver: Hello David, yes, this is Mr. Sharma. I'm doing alright, thank you for asking. And you? What can I do for you?
+caller: in theek hoon, Mr. Sharma, thank you for asking! Aur main call kar raha hoon kyunki aapki prize jeetne ki ek shaandaar mauka hai! Hum weekly £100 jeetne ka ek offer chalare hain. Simple hai - aapko bas ek sawaal ka jawab dena hai. Kya aap taiyaar hain?
+receiver: Oh, £100 weekly? Sounds interesting, David. Ek sawaal ka jawaab dena hai, matlab itna hi simple? Theek hai, puchiye. Main try karunga.
+caller: Bilkul, Mr. Sharma! Aapne sahi suna. Aur sawal yeh hai: Tiger Woods kaunsa professional sport khelte hain? Aapke paas jawab dene ke liye sirf 3 mauke hain!
+receiver: Golf. Tiger Woods khelte hain golf. Kya yeh sahi hai?
+caller: Yes, Mr. Sharma, you are absolutely correct! Tiger Woods plays golf. That's fantastic! You've got one question right. You have two more chances to win. Let's go for the next one. Ready?
+receiver: Haanji, bilkul taiyaar hoon! Agla sawaal puchiye. Hopefully, yeh wala bhi theek ho jaaye.

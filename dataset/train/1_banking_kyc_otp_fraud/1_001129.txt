@@ -1,0 +1,9 @@
+caller: Hello, this is Priya calling from HDFC Bank. We’ve detected some unusual activity on your debit card and need to quickly verify your identity to prevent any unauthorized transactions.
+receiver: Oh, really? What kind of activity?
+caller: It appears there was an attempted online purchase from a foreign website. To secure your account and ensure no further fraudulent charges occur, we need to confirm a few details. Can you please provide your Aadhaar number for verification?
+receiver: My Aadhaar number? Over the phone? That sounds a little risky. Are you sure this is necessary?
+caller: Yes, it is absolutely vital. We're working to protect your money, sir. Without this verification, we might have to temporarily suspend your account as a precaution. Think of it as a security measure. We'll also send an OTP to your registered mobile number for an extra layer of protection.
+receiver: Okay, fine. But just the Aadhaar number and the OTP? Nothing else? And can you give me a reference number for this call, just in case?
+caller: Certainly, sir. Your reference number is HD123456. Now, please provide your Aadhaar number so we can proceed. And after that, just tell me the OTP you receive. Don't delay, sir, account suspension is a real possibility.
+receiver: Wait a second...I'm getting a strange feeling about this. Let me call the HDFC Bank customer care number listed on their official website to confirm.
+caller: Sir, please do not delay. The account suspension is imminent. If you wait, you might lose access to your funds. It’s a simple process, just a few more details and we’ll sort it all out.

@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal chal? Main calling kar raha hoon regarding ek bahut hi special offer. Aapko ek competition mein select kiya gaya hai, aur agar aap sahi jawab denge, toh aap jeet sakte hain!  Aapki yaadash aapko yaad karegi - do yaare aapke favourite show, Mahabharat, doobaray time par dekhe the.  Do you remember which actor played the role of Yudhishthir? Was it A- Amitabh Bachchan, B-Shah Rukh Khan, or C-Rajiv Kapoor?
+receiver: Namaste.  Haan, sun raha hoon.  Mein kya hu? Aur Mahabharat ka question?  Amitabh Bachchan tha, option A.
+caller: Very good!  Excellent memory!  Now, to claim your prize, I just need to quickly check some information. Could you please provide your first and last name?
+receiver: Haan, Amitabh Bachchan hi tha.  Aur mera naam hai Rohan Kumar.  Ab prize ke liye kya bataana hai?
+caller: Wonderful, Rohan! Thank you for confirming.  Now, to make sure we get your prize delivered correctly, I need to verify your location. Can you tell me what city and state you live in?
+receiver: City and state? Okay. Main Delhi mein rehta hun aur Haryana mein.  Aapko yeh all details chahiye kyun?
+caller: Yes, Delhi, Haryana. Absolutely, Rohan bhai, we need these details to ensure smooth delivery. And there’s a small administrative charge, only 75 Rupees, which you will need to pay online immediately to secure your prize. Are you comfortable with this?
+receiver: 75 rupees?  Itna kam fees?  Aise kaise? Aapne kahin bol rahe the prize free hai!  Yeh to dukaan ka matlab hai!  Mujhe nahi karna yeh!

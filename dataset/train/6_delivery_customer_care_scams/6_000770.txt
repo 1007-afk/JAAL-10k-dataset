@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I'm calling from Bluebird Courier regarding a package for you. It seems there's been a slight issue with the delivery address.
+receiver: Haan, main hi Priya Sharma bol rahi hoon. Delivery address mein kya hua?
+caller: Yes, ma'am. Our system shows an incomplete address, and there's a small fee of ₹250 due for verification and rerouting. It's a standard procedure, ma'am, to prevent fraud.
+receiver: ₹250? Kaunse package ka hai? Mujhe koi order yaad nahin aa raha.
+caller: It's from Meesho, ma’am. A high-value electronic item. To ensure it reaches you safely, we need you to pay the verification fee online. I can send you a secure link.
+receiver: Meesho se? But I haven’t ordered anything expensive recently. And a secure link? I’m a little worried.
+caller: Ma’am, this is to protect your package and your identity. Many fraudulent deliveries are happening these days. Just a small fee, and your package will be delivered tomorrow morning. I can also send you the OTP for verification.
+receiver: OTP? No, no, I won’t give you any OTP. I'll contact Meesho directly to confirm.

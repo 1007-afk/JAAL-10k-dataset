@@ -1,0 +1,7 @@
+caller: Namaste! Main CRED se call kar raha hoon. Aapke CRED score bahut accha hai, sir. Ek special offer hai aapke liye - ₹7,000 cashback agar aap ₹10,000 ka transaction karwaein.
+receiver: CRED? Cashback? ₹7,000? Yeh offer hai toh batao, kaise karwaun?
+caller: Haan sir, bahut easy hai. Bas apna UPI ID bata dijiye, hum aapko ek collect request bhejenge. ₹10,000 transaction karte hi aapka account ₹7,000 se credit ho jayega.
+receiver: UPI ID? Collect request? CRED toh aise nahi karta, na? Usually toh notification aata hai app mein, main khud karta hoon transaction.
+caller: Sir, yeh ek limited time offer hai, isliye collect request ke through hi karna padega. CRED system mein thoda technical problem aa raha hai, isliye direct app se nahi ho pa raha. Trust kijiye, hum aapko scam nahi kar rahe. ₹7,000 ka loss toh aapko ho sakta hai agar aap is offer ko ignore karein.
+receiver: ₹7,000 ka loss? Thoda zyada lag raha hai. Mujhe doubt ho raha hai. Main baat karne se pehle CRED app check karta hoon. Aap wait karein.
+caller: Sir, time barbaad na karein. Offer abhi hi expire hone wali hai. Jaldi se UPI ID bata dijiye, ₹7,000 aapke account mein transfer ho jayega. Bas ek minute ka kaam hai.

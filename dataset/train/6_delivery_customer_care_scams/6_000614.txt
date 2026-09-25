@@ -1,0 +1,7 @@
+caller: Hello! This is Akash from BlueLine Logistics. We’re trying to reach the recipient of a package destined for your address. There's a problem with the payment authorization and it needs to be sorted out urgently.
+receiver: A package? I wasn’t expecting anything. What’s the problem exactly?
+caller: Yes, ma'am. It appears there's a small discrepancy of ₹499 in the payment details. We need to verify it to ensure smooth delivery. We can resolve this quickly if you just provide an OTP we’ll send to your mobile.
+receiver: OTP? That sounds a little fishy. Why can't I just pay online? And what’s the sender of the package?
+caller: Ma’am, our system is experiencing a temporary glitch. Paying online isn’t possible right now. The sender is listed as "Gift4U," a promotional giveaway. It’s a surprise package, you see! The OTP is just to confirm your address and prevent fraud, absolutely safe.
+receiver: Gift4U? I’ve never heard of them. And a glitch? I think I’ll call BlueLine Logistics directly to confirm this. Can you give me a contact number?
+caller: Ma'am, the main line is quite busy at the moment. This is a dedicated verification team. Please, just quickly share the OTP for a hassle-free delivery. This offer won’t last long, ma'am! We can’t hold the package indefinitely.

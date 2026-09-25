@@ -1,0 +1,9 @@
+caller: Namaste sir, main Ankit Verma, LoanKing se baat kar raha hoon. Aapne online loan apply kiya tha, isliye call kar raha hoon. Aapke paas aadhaar card copy ready hai kya?
+receiver: Namaste Ankit ji. Haan, aadhaar toh hai. Loan kitne ka tha maine apply kiya tha?
+caller: Ji sir, aapne 50,000 ka loan apply kiya tha. Abhi verification process complete hone ke liye kuch details chahiye. Kya main aapka loan application ID check kar sakta hoon, jo aapko apply karte samay mila tha?
+receiver: Haan, wait karo. Loan ID number… yeh hai GHI987654321. Abhi batao kya karna hai.
+caller: Bahut accha! Aapka loan ID number GHI987654321 hai, confirm ho gaya. Ab aapke registered WhatsApp number pe ek OTP ayega. Woh OTP mujhe bataiye, security ke liye.
+receiver: Okay, wait. Aaya OTP. Yeh hai 789012. Verification ho gaya kya?
+caller: Ji sir, absolutely! Aapka OTP 789012 hai, confirmed. Documents verification complete ho gaya hai. Loan sanction ho gaya hai, lekin processing fee ke liye 5000 rupees bank account mein transfer karne hai.
+receiver: 5000 rupees? Loan sirf 50,000 ka tha, aur mein 5000 aur doon?
+caller: Sir, rules hai. Processing fee bina bina de bank loan nahi deta. Jaldi karo, nahi to loan reject ho jayega. Aapka account number batao.

@@ -1,0 +1,6 @@
+caller: Hello! I'm Ankit. I saw your profile on SparkMatch and I'm really drawn to your smile. You look like someone with a beautiful soul. I'd love to chat more and get to know you.
+receiver: Hi Ankit! Thanks! That's really sweet to hear. I'm Neha. SparkMatch is fun, haven't had much luck though! What do you do?
+caller: I’m a freelance architect, I travel a lot for work. Right now, I'm in Dubai on a project. It’s stunning here, but I miss having someone to share it with. I was thinking, maybe we could video call sometime? It would be nice to see your face.
+receiver: Dubai sounds amazing! Video call sounds good, but I’m a little shy. Maybe just chatting for a bit longer first? I'm a teacher, so I'm pretty busy during the week.
+caller: I understand, no pressure at all. I just feel a real connection with you. Listen, my boss just told me we need to rush a delivery of some blueprints tomorrow, but I’m a bit short on cash right now to pay the courier. It’s just ₹5000, I’ll pay you back as soon as I get paid. Can you help me out?
+receiver: ₹5000? That’s quite a bit. I don’t usually lend money to people I’ve just met online. And you're in Dubai, right? How would I even know you’ll pay me back? I’m not sure about this, Ankit.

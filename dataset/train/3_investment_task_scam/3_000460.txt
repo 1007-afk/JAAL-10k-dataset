@@ -1,0 +1,26 @@
+caller: Hello? Ji haan, main bol raha hoon. Aapko insurance claim ke baare mein baat karni thi? ₹50,000 se ₹10,00,000 tak ka cover, sabhi vehicles ke liye available. Kisi bhi accident mein madad milegi. Kabhi pehle claim file kiya tha? Koi baat nahi, hum help kar sakte hain. Aapka naam jaan sakta hoon?
+receiver: Ji haan, bilkul. Mera naam Priya hai. Aur haan, insurance claim ke baare mein hi poochhna tha.
+caller: Nice to meet you, Priya ji. So Priya ji, aapki vehicle ka registration number kya hai aur aapki vehicle ka model kya hai? Basically, aapko yeh insurance kis vehicle ke liye hai?
+receiver: Haanji, main Maruti Suzuki Swift chalati hoon. Registration number hai HR36ABC1234.
+caller: Okay, Maruti Suzuki Swift, nice! And aapki age kitni hai, Priya ji? Aur aapki professional life kaisi hai? Kya aapka job secure hai?
+receiver: Jee, meri umar 32 saal ki hai. Aur main software engineer hoon. Job secure hai, par salary kam hai.
+caller: Bahut acche, Priya ji. Software engineer aur 32 saal ki umar, yeh sab bohot good hai. Hum aapke liye definitely kuch achha dhoondh sakte hain. Toh, Priya ji, hum aapko policy ki terms and conditions ke baare mein thoda aur detail mein bata sakte hain. Humko bas kuch documents ki verification karni hogi, jisme aapki id proof, address proof aur driving license shamil hai. Kya aapko yeh sab documents provide karne mein koi problem hoga?
+receiver: Nahi, koi problem nahi hai. Mere paas sab documents ready hain. Aap bataiye, kab tak ho jayega yeh sab?
+receiver: my name is dev kumar.
+caller: excellent, mr. kumar. now, let's talk about your employment situation. what is your current occupation, and how long have you been working in this field?
+receiver: i am a delivery driver, and i've been doing it for approximately three years.
+caller: that's great to hear, sir. and could you tell me approximately how much do you earn each month before taxes? a rough estimate is perfectly fine.
+receiver: i usually make around ₹35,000 per month.
+caller: okay, ₹35,000. and what is the primary reason you require a loan at this time? is it for something specific, such as renovations, medical expenses, or perhaps consolidating existing debts?
+receiver: i would like to renovate my kitchen; it’s quite old and outdated.
+caller: renovating your kitchen – a worthwhile investment, sir. so, roughly, how much do you anticipate spending on the renovation project?
+receiver: i'm thinking around ₹60,000 to ₹70,000.
+caller: alright, ₹60,000 to ₹70,000. and where are you located? could you provide me with your city and state?
+receiver: i live in surat, gujarat.
+caller: surat, gujarat. perfect. now, just to verify your information, could you confirm your residential address, including street number, street name, and postal code?
+receiver: it’s plot number 10, shanti nagar, surat - 395001.
+caller: thank you, mr. kumar. one moment while i input this into our system… (pause) …okay, we’re seeing some promising indicators. we can likely offer you a loan up to ₹50,000. however, we will need to conduct a brief credit check to ensure everything aligns. are you comfortable with us running a small background check?
+receiver: yes, sure.
+caller: fantastic. just a few more questions, and then we’ll get the ball rolling. do you own or rent your residence?
+receiver: i rent it.
+caller: Namaste! Main aapko ek badi scheme batawana chahunga. Aapko ek new mobile pack milna hai, sirf ₹99 per mahine! Unlimited calling aur data, sab kuch mil jaye ga. A

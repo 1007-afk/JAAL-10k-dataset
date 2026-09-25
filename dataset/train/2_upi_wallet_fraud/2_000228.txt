@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from PhonePe Payment Solutions. We've noticed unusual activity on your account and need to quickly verify your details to prevent any fraudulent transactions. Are you available for a quick verification process?
+receiver: PhonePe? What kind of unusual activity? I haven’t done anything different.
+caller: Sir, our system flagged a pending cashback payout of ₹5000 to your account. This is unusual as you haven't participated in any recent promotions. To release it, we just need to confirm a few details. Can you please tell me the last three digits of your bank account number linked to PhonePe?
+receiver: ₹5000? That’s a lot! And why do you need my bank account number? I thought you just needed my PhonePe details. Seems fishy.
+caller: Sir, it's a security measure to ensure the payout goes to the correct account. It’s standard protocol. Don't worry, just three digits. Once confirmed, the ₹5000 will be credited immediately.  To speed things up, could you also confirm the last four digits of your Aadhaar card linked to your PhonePe account?
+receiver: Aadhaar card details too? No way! That's way too much information to give over the phone. I’m not comfortable with this at all. I’m going to report this to PhonePe directly.
+caller: Sir, please don’t do that! You’ll lose the ₹5000. We are the only ones who can release it. Just provide those last four digits and we'll sort it out. You’re jeopardizing your cashback.

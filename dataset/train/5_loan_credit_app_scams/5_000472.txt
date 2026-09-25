@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from SwiftCredit Solutions. We’ve noticed you recently applied for a personal loan, and we can approve you instantly for up to ₹10 lakhs with minimal paperwork! Just need to verify a few details.
+receiver: Oh really? ₹10 lakhs? That's quite a lot. I only applied through that one website, LoanConnect. Are you affiliated with them?
+caller: LoanConnect is a partner, yes. We are streamlining the process. To proceed, we need a small verification fee of ₹7,500 to activate your account and prevent fraud. It's a one-time charge, refundable once the loan is disbursed.
+receiver: ₹7,500? Before the loan even comes through? That sounds a bit odd, doesn't it? LoanConnect didn't mention anything like that.
+caller: It’s standard procedure, madam. Many people try to take advantage, so this fee ensures you're serious about receiving the loan. To avoid delays, you can easily pay through UPI using this number: 9876543210. Payment reference should be “SwiftCreditVerification”.
+receiver: Okay, hold on a minute. Let me just double-check something on the LoanConnect website. I’ll call you back in a few minutes. What's your name again?
+caller: It's Rahul, madam. Just a reminder, the offer is only valid for the next hour. Don’t miss out on this opportunity for quick funds. The verification fee is essential.

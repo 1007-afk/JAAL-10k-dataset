@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, this is Anjali calling from LoanMani. We’ve noticed you recently applied for a personal loan online. Just a quick verification process to finalize it for you.
+receiver: Oh, really? I did apply. What do you need?
+caller: Wonderful! First, could you please share the last four digits of your bank account number for quick identification? It’s a standard security measure.
+receiver: Hmm, I’m a little hesitant to give out my bank details over the phone. Is this really LoanMani? I’ll check their website.
+caller: Absolutely, sir/madam! No worries at all. We understand your concern. But to expedite the process, we just need that one small piece of information. Also, for a small processing fee of just ₹500, we can guarantee immediate loan approval and disbursement to your account within the hour. Is that acceptable to you?
+receiver: ₹500? That seems a bit much. And I'm still not comfortable sharing my bank details. I’ll call LoanMani directly to confirm.
+caller: Sir/madam, please be careful! If you delay, this lucrative offer will be lost, and your loan approval will be cancelled. We have limited slots available. You can also send us a selfie with your Aadhaar card to expedite the process. It will help us verify your identity faster.
+receiver: That’s a huge red flag. I’m ending this call now. Thank you.

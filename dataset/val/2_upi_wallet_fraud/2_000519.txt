@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay se bol raha hoon, Reliance Jio se. Aapko ek achha recharge offer mil raha hai.
+receiver: Jio offer? Batao kya offer hai.
+caller: Aapko ₹1000 cashback milega aapke next recharge pe, sirf ₹20 OTP dene se. Yeh offer sirf Reliance Jio customers ke liye hai.
+receiver: ₹1000 cashback? Zyadah sunta hoon yeh. Kaise verify karun?
+caller: Aapko apne Jio phone mein *199# dial karna hai, aur phir OTP receive hoga. Wo OTP mujhe bataiye.
+receiver: *199#? Par main OTP kahan receive karunga? Aur aapko kyun bataana hai?
+caller: OTP aapko SMS se aayega, aur mujhe bataane se cashback verify ho jayega. Jaldi karo, offer khatam hone wala hai!

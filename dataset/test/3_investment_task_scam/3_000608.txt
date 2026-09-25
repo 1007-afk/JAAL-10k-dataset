@@ -1,0 +1,7 @@
+caller: Hello, madam! This is Rohan from Global Task Force. We're hiring remote data entry assistants. Very easy work, just verifying details on websites, liking posts, simple stuff. Good money, ₹1500 per hour.
+receiver: Really? That sounds good! What kind of details would I be verifying? And how do I apply?
+caller: It's all very straightforward. We need people to rate new apps on the Google Play Store and occasionally like promotional videos.  The first payment, a small registration fee of ₹500, is required to activate your account and get the tasks. It’s a security deposit, we'll return it with your first payment.
+receiver: ₹500? A registration fee? That seems a bit odd. Why do I need to pay before starting the work?
+caller: Look, madam, it's just to ensure you're serious and to prevent fake applicants.  Many people apply but don't commit. Think of it like this – it shows you’re dedicated. Once you pay, I’ll send you the task details and your payment link. You'll start earning immediately!
+receiver: Okay, fine. How should I send the ₹500? UPI?
+caller: Yes, madam, UPI is best. Please send it to this number: 7890123456. Once the payment goes through, let me know and I’ll send you the access details right away. The earnings are really good, you can make a lot.

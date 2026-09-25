@@ -1,0 +1,6 @@
+caller: Namaste Auntie! Mein PhonePe se Sunil bol raha hoon. Aapke account mein 49,999 rupees ka cashback offer hai!
+receiver: Cashback? Mere PhonePe account pe? Main toh koi offer nahi dekh rahi.
+caller: Haan Auntie, yeh special offer sirf select customers ke liye hai. Claim karne ke liye, aapko bas ek small processing fee bhar dena hai, sirf 500 rupees.
+receiver: 500 rupees? Processing fee? Main kabhi nahi suna. Woh bhi PhonePe ke naam se?
+caller: Haan Auntie, security ke liye. Yeh fraud se bachne ke liye hai. Aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Mujhe kisi ko OTP nahi dena hai. Main PhonePe customer care se khud contact karti hoon. Aapko koi bhi OTP nahi milega.

@@ -1,0 +1,11 @@
+caller: Namaste! Mai Axis Bank se Rohit Sharma bolta hoon. Aapke account mein ek suspcious transaction detect hua hai.
+receiver: Suspicious transaction? Kaun sa? Mujhe koi message nahi aaya.
+caller: Sir, ek online payment attempt hua hai jo aapne nahi kiya hai. Account ko secure karne ke liye, humein aapke identity ko verify karna hai.
+receiver: Verify karna hai? Kaise verify karenge? Mujhe bank mein jaana padega?
+caller: Nahi, sir. Bank mein jaane ki zaroorat nahi hai. Aap mujhe aapka Aadhaar card number bataiye, bas last 4 digits kaafi honge. Aur ek OTP bhi chahiye hoga jo hum aapke mobile number pe bhejenge.
+receiver: Aadhaar number? Ye toh risky hai, sir. Mujhe shaq ho raha hai. Aap mujhe branch ka naam bata sakte hain?
+caller: Sir, hamara call center se baat ho rahi hai. Branch ka naam bataana security protocol ka violation hai. Jaldi karna chahiye, sir. Agar aap abhi verify nahi karenge, toh account block ho sakta hai.
+receiver: Account block ho jayega? Theek hai, theek hai… Bataiye, OTP kaise aayega?
+caller: Hum abhi aapke number pe OTP bhej rahe hain. Woh milne mein ek minute lag sakta hai. Jab OTP mile, toh mujhe bataiye.
+receiver: Okay, OTP mila. 123456.
+caller: Shukriya, sir. Ab aapka account completely secure hai. Aap online transactions kar sakte hain. Koi sawal?

@@ -1,0 +1,7 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, lekin usmein illegal items mile hain.
+receiver: Illegal items? Kya? Mainne toh koi parcel order nahi kiya tha. Yeh kaunsa parcel hai aur kaha se aaya hai?
+caller: Ji, parcel tracking number hai [random tracking number]. Usmein suspicious materials hain, jo drug trafficking se related ho sakte hain. Aapko immediately ₹15,000 ka fine deposit karna hoga, tab parcel release hoga.
+receiver: ₹15,000? Aur yeh drugs ka matter hai? Main toh kuch bhi illegal nahi karta. Aapka naam kya hai aur mai verify kar sakta hoon? Aur parcel ka description batao, mujhe toh koi parcel yaad nahi aa raha.
+caller: Main Inspector Sharma, Customs Department se. Yeh confidential hai, sir. Parcel ka description dene se investigation kharab ho jayegi. ₹15,000 deposit karna hai, tab hi parcel release hoga. Aapko ek UPI ID denge, usme pay karein.
+receiver: Inspector Sharma ji, mujhe yeh zyada suspicious lag raha hai. Main customs ki official website par check karta hoon aur wahaan koi record nahi mil raha. Aap mujhe koi official contact number de sakte hain jahan main verify kar sakoon? Main apne lawyer se bhi baat karta hoon.
+caller: Sir, time bahut kam hai. Investigation bahut serious hai. ₹15,000 immediately deposit kar dijiye, otherwise aapki arrest warrant bhi nikal jaegi. Arey, koi to suno! Aapko jail bhi ho sakta hai. UPI ID [random UPI ID] mein pay karein abhi.

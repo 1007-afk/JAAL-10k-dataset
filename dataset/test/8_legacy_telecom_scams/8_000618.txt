@@ -1,0 +1,8 @@
+caller: Namaste! Shukriya keh liye jo aapki Diwali ke liye ₹5000 ki hadiah mein select hui hain. Mera naam Rahul hai aur main Rewards Team se bol raha hoon. Kya aapko pata hai, aapke Bharat Telecom ke account par ₹5000 ka reward waitin’ hai?
+receiver: Namaste Rahul ji! Haan, yeh toh main hi hoon, Sanjay Kumar. ₹5000 ki hadiah? Wah, bahut mazaa aata! Batao mujhe yahaan kya karna hai?
+caller: Sehr acha Sanjay! Aapko bohat maza aaega. Toh, ₹5000 ka reward aapke liye waitin’ hai, aur humein isko aapke account mein daalne ke liye kuch cheezon ka verification karana hoga. Ye sirf ek safaai ke liye hai, agar reward sahi loge ko mile. Aapka mobile number jo aap use karte hain, usko bata sakte hain?
+receiver: Haan Rahul bhai, woh number mera hi hai - 9876543210. Fir ab kya karna hai?
+caller: Thik hai Sanjay! Dhanyavaad. Aur aapke account ka naam kya hai? Account ka naam jo Bharat Telecom par hai?
+receiver: Mera account ka naam… woh dekhoon main.  Haan, yeh toh ‘Sanjay Kumar’ hai.
+caller: Super Sanjay! Shabas! To, ₹5000 ka reward aapke liye hai. Ab, ₹5000 ko aapke account mein daalne ke liye humein ek chota surcharge lena hoga. Ye Bharat Telecom ki policy hai, har ₹5000 ke reward ke liye. Ye sirf ek maliyaat ki cheez hai, ye aapko ₹4950 nahin dega. Agar aap is surcharge dene ko tay ho, toh hum isko jaldi se aapke account mein daal sakte hain.
+receiver: Surcharge? Woh kya hai?  ₹5000 mil rahe hain, toh koi surcharge dena hoga?  Yeh bilkul bhi achha nahin lag raha. Surcharge kitna hai?

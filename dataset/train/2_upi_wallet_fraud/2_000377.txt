@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from CashWinner Rewards. We're calling to inform you that you’ve won a fantastic prize – a brand new smartphone! Congratulations!
+receiver: CashWinner Rewards? Mein toh kabhi participate nahi kiya. Yeh kya ho raha hai?
+caller: No worries, sir! We randomly select winners for promotional giveaways. To claim your prize, you just need to pay a small processing fee of ₹200 to verify your winnings. It’s a standard procedure.
+receiver: ₹200? Phone toh free milna hai, aur processing fee lag rahe hai? Yeh thoda fishy lag raha hai. Koi document hai iske proof mein?
+caller: Absolutely! We’ll send you a digital confirmation letter and a screenshot of your name being selected in the draw. But first, we need to confirm your payment. You can use Paytm or UPI. Just send it to the number [invent a mobile number, e.g., 7890123456].
+receiver: Okay, wait a minute. Let me check something. (pause) Arre, yeh number toh ek fake account hai! CashWinner Rewards ka koi website bhi nahi hai! Aap log fraud kar rahe ho!
+caller: Sir, please don't accuse us like that! This is a legitimate offer. I am not able to continue the conversation, I need to assist another customer.

@@ -1,0 +1,9 @@
+caller: Namaste! Ji, speaking. I'm calling about a loan application you made through 'QuickCash India'. Congratulations, you’re almost approved for a loan of ₹75,000 to ₹1,80,000! Just a few quick verifications. Can I get your name, please?
+receiver: Ji haan, bilkul. Mera naam Anjali Sharma hai.
+caller: Anjali Sharma ji, very good! So, Anjali ji, what is the purpose of this loan? And what is your current occupation?
+receiver: Haanji, main actually apne papa ke medical expenses ke liye loan apply karna chahti hoon. Main ek teacher hoon.
+caller: Very good, Anjali ji. Teacher and helping your parents - commendable! Now, to proceed, we just need a small processing fee of ₹5,000 to activate your account and verify your information. You can transfer it to this UPI ID: 8765432109@ybl. Is this okay with you?
+receiver: ₹5,000? Par loan ₹75,000 ka hai... yeh thik nahi hai.
+caller: Anjali ji, this is standard procedure! Without this, we cannot guarantee the loan. And if you refuse, we’ll have to cancel your application and, unfortunately, your parents' medical approval will be delayed. Please understand, this is to ensure your safety and prevent fraud. Transfer the amount immediately!
+receiver: Sir, please... I don't have that much money right now.
+caller: Anjali ji, time is of the essence. We have many applicants waiting. If you don’t transfer the amount within 10 minutes, we will have to cancel your application and... well, let’s just say things won’t be pleasant for you or your family. Consider this

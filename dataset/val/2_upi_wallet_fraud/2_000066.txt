@@ -1,0 +1,7 @@
+caller: Namaste, Maiya hoon IDFC First Bank se. Aapke naam par ek account hai, aur usmein ₹5000 ka cashback offer chal raha hai.
+receiver: Oh, really? ₹5000 cashback? Kaise?
+caller: Ji, yeh Diwali special offer hai. Cashback claim karne ke liye, aapko sirf ₹299 ka processing fee deposit karna hoga.
+receiver: ₹299? Aur yeh fee kahan deposit karni hai? Koi link ya QR code bhejo.
+caller: Nahi, nahi, QR code ya link nahi. Yeh system se connected hai. Aapko sirf apna PhonePe app kholna hai aur usmein ₹299 deposit karna hai. Deposit ke baad, cashback automatically aapke account mein add ho jaayega.
+receiver: PhonePe mein deposit? Aur ye sahi hai? Mera account hack ho jaayega kya?
+caller: Bilkul nahi, madam. Yeh IDFC First Bank ka official offer hai. Aapko koi chinta karne ki zaroorat nahi hai. Jaldi karo, offer limited time ke liye hi hai.

@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio digital support se bol raha hoon. Aapke mobile number ka KYC verification chal raha hai, isliye aapko ek 6-digit OTP mila hoga. Kya aap mujhe bata sakte hain, OTP aaya tha kya?
+receiver: Haan, main Jio se hi hoon. Ek OTP aaya tha, 876543. Bolo, kya karna hai?
+caller: Dhanyavaad sir, 876543. Ab humare system mein ek small update hai, isliye aapke account detail ko verify karne ke liye ek aur message aaya hai. Kya aap us message ko dekh sakte hain, aur mujhe batayenge ki usmein kaunse information dikhe hue hain? Sir, yeh sirf update ke liye important hai.
+receiver: Just a sec, dekhta hoon... Hmm, ek message aaya hai. Ismein likha hai 'Jio Prime membership renewal reminder'. Link pe click karna hai kya?
+caller: Nahi sir, link pe click mat karna. Us message mein jo details hain, unhein mere paas pahle se hi hain. Aap mujhe woh details padh kar bata dijiye - account number hai 9876543210, aur reference ID hai JioABC123.  Yeh sab update procedure ka hissa hai, sir.  Relax, aapki account secure hai.
+receiver: Account number 9876543210 aur reference ID JioABC123... Theek hai.  Aapko yeh sab kis liye chahiye?  Yeh itna complicated lag raha hai.
+caller:  Thank you sir, 9876543210 aur JioABC123.  Aapne bahut achcha kaam kiya hai.  Ab hamesha ke liye aapki Jio account ko upgrade karenge.  Isliye, aapke phone par abhi ek notification aayega, jismein ek aur link hoga.  Jab woh link aaye, toh mujhe us link mein jo code woh number bata dijiye.  Yeh sirf upgrade complete karne ke liye hai, sir.  Don’t worry, aapki account safe rahegi.
+receiver:  Arre, phir ek link aur code?  Mujhe samajh mein aata nahin hai yeh kya chalana hai.  Bhi BSNL ki tarah, ye bhi koi scam hai kya?  Aap BSNL se hain na?

@@ -1,0 +1,8 @@
+caller: Namaste! Apne life me ek badi success ke liye congratulations! Aapko mil rahe hain 200 rupees ke movie tickets ya phir 50 rupees ka guaranteed gift! Aur haan, online quiz mein free participation bhi hai 75 rupees ke monthly prize mein! Sirf CINEMA type karke 98765 pe text kar dein. Aapki mummy kaisi hai ji?
+receiver: Arre, thanks! Mummy acha hai, alhamdulillah. Mera naam Rohan hai ji.
+caller: Rohan ji, bahut sundar naam hai! Toh aapko yeh sab facilities milega. Sirf aapko ek small task karna hai. Jo maine number bataya hai, 98765, uss par sirf CINEMA likhkar ek SMS bhejna hai. Aap SMS bhej denge abhi? Aur haan, yeh offer sirf pahle 5 people ke liye hai, toh haste haste karna hoga.
+receiver: Haan ji, bilkul. Abhi bhejta hoon. Sirf CINEMA likhna hai na? Aur 98765 pe? Theek hai, abhi ho jayega.
+caller: Bahut shubh Rohan ji! Jaise hi aapka SMS aa jayega, aapka naam record mein aa jayega aur hum aapko batayenge ki aage kya karna hai. Yaad rakhiyega, sirf 2 log aur hain jinke liye yeh offer hai, so hurry up. So, jaldi se SMS bhej dijiye.
+receiver: Ok ji, I’ve sent it. Hopefully, I’m one of the first 5. What happens next?
+caller: Super Rohan ji! That’s fantastic! Abhi hum dekhte hain. Aap tension mat lein. Dekhiye, humko aapka SMS mila hai. Bahut hi pyaari! Abhi jo next step hai, woh yeh hai ki aapko ek chota sa processing charge pay karna hoga ₹299 ka. Yeh sirf confirmation ke liye hai aur yeh amount aapko prize mein hi return ho jayegi, ya phir aapke vouchers mein add ho jayega.  Yeh kaise karna hai, main aapko sahi tarike se samjhata hoon. Aap Paytm use karte hain?
+receiver: Haan ji, Paytm use karta hoon. Account number kya hai?

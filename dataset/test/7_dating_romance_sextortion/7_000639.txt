@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? It’s Akash from Lotus Bloom dating site. Just checking in and seeing how your evening is progressing. Such a lovely breeze tonight, isn't it?
+receiver: Yes, hello Akash. It is Priya. The evening is pleasant, thank you. Lotus Bloom seems quite active!
+caller: Arey yaar, Priya! Glad to hear it. Lotus Bloom is running a special promotion for our top members. We're giving away a luxury weekend getaway to Goa for two! Think white sand beaches, delicious seafood… a perfect romantic escape.
+receiver: Goa! That sounds incredible. How does one become a "top member" and enter the promotion?
+caller: It's very simple, actually. To verify your interest and to ensure you're eligible, we need a small confirmation fee. Just ₹3,500 to cover the processing and registration. Once that's done, you’ll automatically be entered into the draw. It's a one-time payment only.
+receiver: ₹3,500? That’s quite a bit. Is there any other way to enter, or are there any guarantees of winning?
+caller: Priya, understand this is for a very exclusive opportunity. The lucky draw is tomorrow, and spaces are limited. I can personally vouch that sending the fee will significantly improve your chances. It's like putting a little extra sprinkle of luck on your side! Think about it - Goa! Are you in?
+receiver: I need to think about it, Akash. That's a considerable amount of money. I'll have to check my finances first.
+caller: I understand completely, Priya. But don’t miss out! The promotion closes very soon. Just a gentle reminder, the number to send the payment to is 98765-43210. Once you’ve done that

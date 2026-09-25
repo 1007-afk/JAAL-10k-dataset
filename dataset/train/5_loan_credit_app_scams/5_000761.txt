@@ -1,0 +1,6 @@
+caller: Namaste! This is Deepak from LoanExpress. We've pre-approved you for a quick loan of Rs. 30,000 with easy installments. Just a small processing fee of Rs. 2500 is required upfront to activate your account.
+receiver: Loan? I didn't apply for any loan. This sounds fishy. Why do you need money from me?
+caller: Madam, it’s a limited-time offer! The system automatically identified you as eligible.  To show your commitment, pay the Rs. 2500 to this UPI ID: 9876543210@axisbank. Once that's done, the loan will be credited immediately.
+receiver: Hold on. UPI ID? That's a scam, isn't it? I'm not giving you any money. Why can't I just get the loan?
+caller: Madam, don't be difficult! This is a standard verification process. If you don’t pay, we’ll have to cancel your loan approval. Also, we have your family photos from social media, and if you don’t cooperate, we'll share them with your contacts. 
+receiver: What?! You have my photos? That’s blackmail! I’m reporting you to the police. This is absolutely ridiculous.

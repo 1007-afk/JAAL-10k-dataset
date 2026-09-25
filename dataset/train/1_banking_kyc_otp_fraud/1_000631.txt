@@ -1,0 +1,16 @@
+caller: Namaste sir, ye Mera Bharat Rashtra Bank ka branch manager hai. Apke Aadhaar linked pan card ka validity expire ho gaya hai. Covid ki wajah se hum harakisi online par KYC karte hain. Aapke account jaanch ke liye kuch details lena chahte hain.
+receiver: Oh, okay. Aadhaar linked pan card expire? Mein samajh raha hu. Account jaanch ke liye kya requirements hai? Account number ya bank statement ya koi aur document?
+caller: Haan bhai, account number, aadhaar card number, aur aapka registration date. Yeh sab details dikha dijiye toh hum aapki KYC process jaldi se kar denge.
+receiver: Okay, mein deta hu. Mere account number ko dekho - 9876543211. Aadhaar card number hai 1234567890. Aur registration date hai 20th January 2018. Kya sahi hai?
+caller: Haan, yeh details sahi hain. Dhanyavaad. Abhi hum aapki KYC update kar rahe hain. Aapko ek SMS aayega aapke registered mobile number pe. Woh SMS number please bataiye taaki hum verification complete kar sakein.
+receiver: SMS? Haan, mein dekhta hoon. Mobile pe aaya hai... haan, mila. SMS number hai 456789. Yeh bata doon toh ho jayega confirm?
+caller: Haan bhai, yeh SMS number mil gaya hai. Shukaar hai aapne madad ki. Aapki KYC process abhi ho rahi hai. Aapko bank se koi aur information chahiye hai?
+receiver: Nahin sir, bas yahi tha. Dhanyavaad ji, aapne mujhe update kiya. Bahut achcha kaam kiya aapne. Shub din!
+caller: Namaste, ye SBI ke regional representative ka office se baat kar raha hu. Apke debit card ka transaction limit badalne ka time aa gaya hai. Covid guidelines ke zariye hum sirf online process karte hain. Isliye aapke card details jankarein seekte hain.
+receiver: Oh, okay. Debit card limit badalna hai? Kaise badalna hai? Mujhe bataein, kya karna hai?
+caller: Haan, sir, aap apne card number, expiry date, aur CVV number batayein. Uske baad hum aapko new limit set karne mein help karenge. Aur aapka address bhi pata karna chahte hain.
+receiver: Karte hain. Mere debit card number ko dekho - 7890123456. Expiry date 31/12/2024 hai. Aur CVV number 123. Aur mera address Delhi mein hai, Mukherjee Nagar.
+caller: Haan, yeh details sahi hain. Dhanyavad. Abhi hum aapki card limit update kar rahe hain. Aapko ek OTP aayega aapke registered mobile number pe. Woh OTP please bataiye taaki hum verification complete kar sakein.
+receiver: OTP? Haan, mein dekhta hoon. Mobile pe aaya hai… haan, mila. OTP hai 987654. Yeh bata doon toh ho jayega confirm?
+caller: Haan, bhai, yeh OTP mil gaya hai. Shukriya aapne. Aapki debit card limit abhi update ho gayi hai. Aapko bank se koi aur detail chahiye hai?
+receiver: Nahin sir, bas is kadar hi tha. Dhanyavaad ji, aapne mujhe inform kiya. Bahut sundar kaam kiya aapne. Jai Hind!

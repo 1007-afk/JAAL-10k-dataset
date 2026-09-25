@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Priya Sharma? My name is Inspector Vijay from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Customs? What suspicious items? I haven't ordered anything unusual.
+caller: Mrs. Sharma, the package originated from overseas and our scanners flagged it for containing potentially illegal substances. It could lead to serious charges – drug trafficking. We need to verify your identity and financial details to determine if you were involved knowingly.
+receiver: Drug trafficking? This is ridiculous! I’ve never been involved in anything like that. How could a package addressed to me contain such things?
+caller: Mrs. Sharma, to clear this up quickly and avoid further legal action, we require a small payment of ₹15,000 to cover processing and inspection fees. This will allow us to release the package and close the case. We’ll need it through UPI.
+receiver: ₹15,000? That seems like a lot. And I'm not giving you my UPI details over the phone. This is probably a scam. Can I speak to someone higher up?
+caller: Mrs. Sharma, time is of the essence. We’re under pressure to resolve this case promptly. Continuing to resist will only complicate matters and attract more attention. Think about the consequences. A delay could result in a summons and further investigation. Transfer the amount to this UPI ID: 9876543210@axisbank.

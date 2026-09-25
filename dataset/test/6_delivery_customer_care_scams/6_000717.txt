@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Ajay Verma? This is Akash from Bluestar Courier. We have a parcel addressed to you, but there's a problem with the delivery address.
+receiver: Haan, bolie kya hua? (Yes, what's the matter?)
+caller: Sir, it seems there's an outstanding ₹350 processing fee attached to your parcel. This is due to an incorrect pin code entered during the order placement.
+receiver: ₹350? Konse order ki baat kar rahe ho aap? (₹350? Which order are you talking about?)
+caller: Sir, the order originated from Flipkart. We need you to verify your payment details to release the parcel. Please share your last four digits of your card and the OTP you’ll receive on your phone. Just to confirm it’s you.
+receiver: Wait a minute. Flipkart never asks for OTPs. This sounds fishy.
+caller: Sir, these are new security protocols. It's a standard procedure to prevent fraudulent activities and ensure the safety of your parcel. Please cooperate, sir. We don’t want to return the parcel to the sender. This will cause a lot of inconvenience.
+receiver: I'm not giving you any information. I’m reporting this number.

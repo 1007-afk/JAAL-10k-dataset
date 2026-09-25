@@ -1,0 +1,7 @@
+caller: Hi! Saw your profile on SparkMatch. You're gorgeous! Just thought I’d say hello. 😊
+receiver: Hey! Thanks! You too. What do you do?
+caller: I'm a marine engineer, working on a ship right now – quite busy but managed to sneak a quick chat. It's a long project, near Singapore. Been missing home a lot, you know?
+receiver: Oh wow, that’s interesting! A marine engineer – that sounds challenging! Singapore is so far. Missing home is tough.
+caller: Exactly! The pay is good, but it's lonely. Actually, something unexpected happened. My mom's hospital bills are piling up, and I’m short on funds to send back urgently. It’s just a small amount, really – about 30,000 rupees would make a huge difference right now. Can you help a fellow Indian out?
+receiver: 30,000? That’s… quite a bit. Are you sure there’s no way your company can help? Or insurance?
+caller: I’ve exhausted all options, honestly. They're being really difficult. It’s really stressing me out. I’d be eternally grateful if you could send it to this UPI: [UPI ID]. Just promise me you won't tell anyone. It's embarrassing. I’ll pay you back double as soon as I get paid next month, I swear!

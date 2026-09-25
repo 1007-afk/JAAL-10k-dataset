@@ -1,0 +1,16 @@
+caller: Namaste Sir, HDFC Bank se baat kar raha hoon. Kya main Ms. Verma se baat kar sakta hoon?
+receiver: Ji, Namaste. Verma ji? Main hi hoon. Kahiye, kya madad kar sakta hoon?
+caller: Haanji, Ms. Verma. Main HDFC Bank se bola raha hoon. Aapke account mein ek unusual activity detect hua hai, madam. Kya aapko yaad hai, aapne kal koi online payment kiya tha?
+receiver: Unusual activity? Arre nahi sir, mujhe toh bilkul yaad nahi hai. Kahi koi galat toh nahi ho gaya?
+caller: Aapke account mein ek unusual activity detect hua hai, madam. Kya aapko yaad hai, aapne kal koi online payment kiya tha?
+receiver: Arey, unusual activity? Mujhe toh bilkul yaad nahi hai kuch bhi aisa karne ka. Kahi kuch gadbad toh nahi ho gayi?
+caller: Madam, yeh thoda serious matter hai. Aapke account se ek amount bahar gaya hai, aur humein turant action lena hoga. Aapke registered mobile number pe ek OTP gaya hai, kya woh aapko mila hai madam?
+receiver: OTP? Nahi madam, mujhe toh koi OTP nahi mila. Aap keh rahe hain mere account se paise nikal gaye? Yeh toh chinta ki baat hai. Aap bataiye, kya karna hoga?
+caller: Namaste Sir, ICICI Bank se baat kar raha hoon. Kya main Mr. Patel se baat kar sakta hoon?
+receiver: Ji, Namaste. Patel ji? Main hi hoon. Kahiye, kya madad kar sakta hoon?
+caller: Haanji, Mr. Patel. Main ICICI Bank se bola raha hoon. Aapke debit card se ek recent purchase record dekha hai, sir. Kya aapko yaad hai, aapne yesterday evening Amazon se kuchh order kiya tha?
+receiver: Recent purchase? Arre nahi sir, mujhe toh bilkul yaad nahi hai. Kahi koi galat toh nahi ho gaya?
+caller: Aapke debit card se ek recent purchase record dekha hai, sir. Kya aapko yaad hai, aapne yesterday evening Amazon se kuchh order kiya tha?
+receiver: Arey, recent purchase? Mujhe toh bilkul yaad nahi hai kuch bhi aisa karne ka. Kahi kuch gadbad toh nahi ho gayi?
+caller: Sir, yeh thoda serious matter hai. Aapke card se ek amount bahar gaya hai, aur humein turant confirmation lena hoga. Aapke registered email ID pe ek security alert gaya hai, kya aapko woh mila hai sir?
+receiver: Email ID? Nahi sir, mujhe toh koi alert nahi mila. Aap keh rahe hain mere card se paise nikal gaye? Yeh toh bahut bura hai. Aap bataiye, kya karna hoga?

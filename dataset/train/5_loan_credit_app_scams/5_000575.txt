@@ -1,0 +1,7 @@
+caller: Namaste! I’m calling from FastCashApproval.in. We’re offering instant loans to people who need quick funds. Are you facing any financial difficulties right now?
+receiver: Hello? I'm a bit busy. What kind of loans are you offering?
+caller: We provide loans from ₹5000 to ₹50,000 with minimal paperwork. Perfect for emergencies or unexpected expenses. Just tell me your name and what you need the money for.
+receiver: My name is Anjali. I have a medical bill to pay, yes. How much interest will I be charged?
+caller: Anjali ji, for you, we can offer a very special rate. Just 5% interest for the first month! To process, we need to quickly verify your bank details and a one-time password. It's just a formality, don’t worry.
+receiver: 5%? That seems…very low. I'm not comfortable giving my OTP over the phone. I think I’ll have to consider this.
+caller: Anjali ji, this is a limited-time offer! Don’t miss out! What if someone else gets this amazing rate? We want to help you get rid of that medical bill. Just the bank account number and OTP, that's all.

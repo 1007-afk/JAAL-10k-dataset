@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main AadhaarFinance se Sunil bol raha hoon. Aapne recent mein ek personal loan ke liye apply kiya tha, hai na?
+receiver: Haan, ji. Apply toh kiya tha, lekin mujhe koi message ya call nahi aayi thi.
+caller: Haan sir, system mein thoda delay ho gaya tha. Aapka loan approve ho gaya hai, 25,000 rupay. Lekin processing fees ke liye kuch documents ki zaroorat hai. Photo ID aur bank statement ka scan copy chahiye. Email karein?
+receiver: Haan, email kar do. Mera email address soniagupta78@gmail.com hai.
+caller: Theek hai, sir. Email mein ek link bheja jayega. Wahan documents upload karne ke baad, hum aapko OTP bhejenge. OTP verify karne ke baad, aapka account mein 25,000 rupay transfer ho jayega. Abhi aapko ₹1500 processing charge pay karna hoga.
+receiver: ₹1500? Lekin maine loan application mein aisa kuch nahi dekha tha.
+caller: Sir, yeh ek security charge hai. Iske bina hum transfer nahi kar sakte. Aur abhi, agar aap pay nahi karenge, toh aapka loan cancel bhi ho sakta hai. Aapki family ko bhi hamein contact karna padega.
+receiver: Aur kya karna hoga?

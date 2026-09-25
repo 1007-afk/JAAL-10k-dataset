@@ -1,0 +1,7 @@
+caller: Hello sir, main calling karta hu Paytm Cashback Offer team se. Aapko Paytm se ₹5000 ka cashback win hua hai!
+receiver: ₹5000? Really? Mujhe bataiye kaise? Main kya kiya tha?
+caller: Sir, yeh ek lucky draw tha, aur aapka number draw hua hai. Cashback claim karne ke liye, aapko sirf ₹500 processing fee bharvani hogi.
+receiver: ₹500? Processing fee? Ye toh thoda zyada lag raha hai. Aur main online kaise pay karu?
+caller: Sir, aapko ek UPI link mil jayega. Aap uspe ₹500 send karein, fee bhar jane ke baad aapka cashback aapke Paytm wallet mein credit ho jayega, sirf 5 minute mein!
+receiver: Theek hai, bhijwao link. Par mujhe doubt ho raha hai, fir se check kar lo.
+caller: Ji sir, yahan pe aapka UPI ID hai: 7890123456@ybl. Apni UPI app khol ke ₹500 send kar de. Jaldi karo, offer limited time ke liye hi hai!

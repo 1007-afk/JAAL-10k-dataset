@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Verma? This is Ankit calling from PhonePe Security.
+receiver: Haan, phone pe security? Kya hua?
+caller: Ma'am, we've detected a suspicious UPI request of ₹12,000 being sent from your PhonePe account to an unknown recipient. We need to verify this urgently.
+receiver: ₹12,000? Nahin, maine toh kisi ko payment nahi kiya. Mein PhonePe bilkul use kar rahi hu.
+caller: Ma'am, this could be a fraudulent transaction. To secure your account, we need you to immediately confirm a one-time password we're sending to your registered mobile number. It's just a quick verification process.
+receiver: OTP? Kaise verify karna hai? Mujhe PhonePe app mein check karna hai. Tum mujhe OTP mat do.
+caller: Ma'am, for security reasons, we cannot share OTPs over the phone. Please check your SMS and enter it on our secure verification portal. The link will be sent to your number. This is to prevent unauthorized access to your funds.
+receiver: Koi link mat bhejo. Main khud PhonePe app open karungi aur check karungi. Tumhara number suspicious lag raha hai.

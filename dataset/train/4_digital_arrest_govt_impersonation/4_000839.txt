@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Sharma?
+receiver: Haan, bolhiye. Kaun hai?
+caller: Ji, main Inspector Verma se baat kar raha hoon, Mumbai Customs. Aapke naam par ek parcel aaya hai, aur jaise lag raha hai, usmein illegal items hain.
+receiver: Illegal items? Yeh kya keh rahe hain aap? Main to koi parcel order nahi kiya tha.
+caller: Sir, parcel tracking number hai XYZ12345. Jaanch ke baad pata chala ki usmein suspicious materials hain. Agar aap cooperate nahi karenge toh humko aapko arrest karna padega. Case number 786-MC-2024 hai.
+receiver: Arrest? Sir, yeh toh bakwas hai! Main arrest hone wala kahan hoon? Mujhe koi parcel nahi mila hai. Aur aapka voice bhi authentic nahi lag raha hai.
+caller: Sir, time kam hai. Aapko ₹15,000 fine bhar na hoga taaki parcel ko release kiya jaye. Otherwise, humko case file karna padega.
+receiver: ₹15,000? Sir, suniye, yeh scam hai. Main koi bhi payment nahi karunga. Main police mein complaint karunga.
+caller: Sir, aapko serious consequences ka samna karna padega. Aakhir mein aapki safety ke liye hi main yeh keh raha hoon. Aapka cooperation bahut important hai.
+receiver: Sir, aapka naam aur contact number do. Main verify karunga.

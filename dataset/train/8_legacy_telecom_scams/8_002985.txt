@@ -1,0 +1,15 @@
+caller: Namaste, aap kaise hain? Main Sanjay hai Premier Solutions se. Aapko Humara ‘BrightView Connect’ offer mila hoga, right? Humare office mein aapse connectivity ke bare mein baat karna hai.
+receiver: Namaste Sanjay ji, main theek hoon. Haan, mujhe offer mila tha. Bataiye kya hua?
+caller: Haan ji, humare system mein kuch technical issue aaye hain. Aapse baat karne ke liye humein aapke connection ki speed check karna hoga. Kuch log complaint karte hain ki internet slow chal rahi hai.
+receiver: Slow chal rahi hai? Woh to expected hai, bas update karein. Kya aap mujhse data le lenge?
+caller: Haan ji, isliye humein aapke router ki model number aur IP address chahiye. Yeh information aapke account detail mein available hai. Aapko sirf ek form bharna hoga.
+receiver: Form? Kahan bhunnu? Online hi mil jayega.
+caller: Haan ji, online bhi mil sakta hai, lekin humari team ne verified data se booking shuru karna prefer kiya hai. Ismein aapko 3 months ka free internet access bhi milega, agar aap abhi subscribe karte hain.
+receiver: 3 months free internet? Thoda acha hai. Parantu, mujhe data le kar worry hai.
+caller: Fir aapko sirf router model number aur IP address chahiye. Koi personal information nahi lena hai.  Aapko assurance dena chahte hain ki aapki privacy safe hai.  Yeh offer sirf 5 people ke liye available hai, so aapko jaldi decide karna hoga.
+receiver: Jaldi karna hoga? Kyon?
+caller: Ek new server upgrade hai, aur wo limited time ke liye hi available hai.  Isliye humein booking limit lagani padengi.  Agar aap abhi booking nahi karte, toh aapko wait karna parega. So, aap kaise hain?  Aapko BrightView Connect subscribe kyonahi chahiye?
+receiver: Hmm…  Mujhe abhi decide nahi pata.  Aur aapki privacy policy bataiye.
+caller: Privacy policy toh hai ji, bilkul. Aapko website par dikha di gayi hai.  Parantu, sirf 2 bache hain.  Aapko abhi decision likhna hoga.  Aapko internet ki speed badhane ki zaroorat hai, right?
+receiver: Haan, speed badhana hai.  Parantu, mujhe abhi jitna data le rahe hain, woh rahat de rahi hai.
+caller: Haan ji, aapko rahat dene ke liye humein aapke router details chahiye.  So, let’s get started with the booking process?

@@ -1,0 +1,16 @@
+caller: Namaste sir, main Airtel customer service se bol raha hoon. Aapke phone mein jo SIM card hai, woh 72 hours mein suspend ho jaega. Kya aap isko continue karna chahte hain?
+receiver:  Haan, par mujhe koi notification nahi mila. Mein Airtel ka user hoon, lekin abhi tak koi alert nahi aaya. Kya aapka number bata sakte hain jiske liye yeh happening hai?
+caller: Sir, Airtel ke alerts kabhi-kabhi late hote hain, don’t panic. Main aapka SIM card continue kar dunga. Par uske liye mujhe kuch information chahiye. Aapka backup mobile number bataiye, jahaan par aapko OTP milega.
+receiver:  Mein toh sirf ek hi number deta hoon - 8765432198.  Aapko kya chahiye?
+caller: Shukriya.  Ab mujhe aapke SIM card ka serial number lagna hoga, taki main verification kar saku.  Aap apna SIM serial number bata sakte hain?  Vo aapke phone pe bhi dikhta hai.
+receiver:  SIM serial number?  Maine kabhi iski picture nahi li hai!  Mujhe pata bhi nahi tha yeh likha hota hai.  Koi alternative method nahi hai?  Kya aap Aadhar card ya bank statement check kar sakte hain?
+caller: Sir, sorry, main aapko confuse kar raha hoon.  Woh number jo aapke phone ke back cover par print kiya gaya hai, vah bataiye.  Ek 15 digit ka alphanumeric number hota hai.  Vo aapne kabhi dekha hoga.
+receiver:  Arey yaar, woh back cover pe wala number?  Mai phone ko chota rakhta hun, woh dekhne ki hi koshish nahi karti.  Mujhe malum nahi hai kon sa number hai.  Yeh sab kitna gadbad hai!  Aap mujhse kya kar sakte hain?
+caller: Namaste sir, main Vodafone Idea customer care se bol raha hoon. Aapke phone mein jo SIM card hai, woh 48 hours mein deactivate ho jaayega. Kya aap isko continue karna chahte hain?
+receiver: Hello, achcha? Mein Vodafone Idea ka user hoon, par mujhe koi alert nahi aaya. Aapka number bata sakte hain jiske liye yeh issue aa raha hai?
+caller: Sir, Vodafone Idea ke alerts kabhi-kabhi delay hote hain, don't worry. Main aapka SIM card continue kar dunga. Lekin uske liye mujhe kuch details chahiye. Aapka Aadhaar card ka number bataiye.
+receiver: Mein toh sirf 9922334455 deta hoon.  Aapko kuch aur chahiye?
+caller: Thank you.  Ab mujhe aapke SIM card ka IMEI number lagna hoga, taki main verification kar saku.  Aap apna SIM IMEI number bata sakte hain?  Vo aapke phone settings mein mil sakta hai.
+receiver: IMEI number?  Maine kabhi yeh nhi dekha hai!  Mujhe pata bhi nhi hai yeh kya hota hai.  Koi aur option nahi hai?  Aap meri help kar sakte hain?
+caller: Sir, sorry, main aapko confuse kar raha hoon.  Woh number jo aapke phone ke side panel par embossed hai, vah bataiye.  Ek 15 digit ka alphanumeric number hota hai.  Vo aapne kabhi dekha hoga.
+receiver: Arey yaar, side panel pe wala number?  Mai phone ko har pal nahi dekhta!  Mujhe pata bhi nahi tha yeh number hota hai.  Yeh to bahut irritating hai!  Aap mujhse kya kar sakte hain?

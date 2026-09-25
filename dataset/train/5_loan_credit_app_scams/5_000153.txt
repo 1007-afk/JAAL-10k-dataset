@@ -1,0 +1,10 @@
+caller: Hello, is this Rahul Verma? We are calling from FastCash Solutions regarding a pending loan application. There's an urgent issue that needs your immediate attention.
+receiver: Haan, yahan Rahul Verma bol raha hoon. Loan application? Mujhe koi yaad nahi aa raha.
+caller: Sir, you applied for a personal loan through our website last week. Approval is pending but there are some verification steps required to release the funds. Please provide your OTP received on your registered mobile number.
+receiver: OTP? Kaise verification ke liye? Mujhe toh koi loan apply karne ka yaad nahi. Kya ho raha hai?
+caller: Sir, to avoid any delays in disbursing your loan, quickly share the OTP. This is standard procedure. We need to confirm your identity. The loan amount is approved for ₹75,000.
+receiver: ₹75,000? Haan, kuch din pehle apply kiya tha, par mujhe thoda shaq ho raha hai. Tumhara naam aur company naam batao, aur koi proof do ki ye legit hai.
+caller: Sir, my name is Akash, and I am a verification officer at FastCash Solutions. I cannot provide any documents over the phone, but our website, fastcashsolutions.in, has all the necessary information and our registration details. Please do not miss out on this opportunity due to security concerns. Share the OTP quickly, sir.
+receiver: Wait, wait. FastCashSolutions.in? Mujhe yeh website toh familiar nahi lag rahi. Aur tumne mujhe OTP ke bare mein keh diya? Mein kisi ko OTP nahi dene wala.
+caller: Sir, the loan is about to be cancelled if you do not cooperate. We are running out of time. Without the OTP, we cannot proceed with the verification. Think about your loan getting rejected and all your time wasted.
+receiver:  Loan rejected? Bahut ho gaya!  Yeh scam hai

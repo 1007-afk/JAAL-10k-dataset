@@ -1,0 +1,7 @@
+caller: Namaste, sir? Is this Mr. Sharma? This is Inspector Verma speaking from the Cyber Crime Investigation Cell. We've detected unusual activity on your bank account linked to suspected involvement in illegal cryptocurrency transactions.
+receiver: Illegal cryptocurrency? What are you talking about? I don’t even use cryptocurrency!
+caller: Sir, our records indicate a large number of transfers originating from your account to several anonymous wallets. This is a serious matter linked to money laundering. To clear this up and prevent further legal action, we need your cooperation.
+receiver: This is a scam, right? You’re trying to get my money. Why didn't you just send a notice?
+caller: Sir, due to the sensitive nature of this investigation, we are handling it discreetly to avoid alerting the perpetrators.  We need to verify some details quickly to prevent your assets from being frozen. Can you confirm the last four digits of your debit card and your OTP for verification?
+receiver: Absolutely not! I'm hanging up. You're a fraudster.
+caller: Sir, please don't do that. This is your opportunity to resolve this matter. If you refuse to cooperate, we'll be forced to issue a warrant and you'll have to appear in court. We can avoid all of this if you simply provide the requested information. It will take less than a minute.

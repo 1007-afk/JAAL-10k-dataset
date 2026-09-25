@@ -1,0 +1,8 @@
+caller: Namaste, madam. My name is Rohan Kumar, calling from HDFC Bank’s KYC verification team. We’ve noticed some unusual activity on your account.
+receiver: Haan, bolo. What kind of activity?
+caller: It seems there’s been an attempt to update your address and contact details using a different mobile number. For security reasons, we need to quickly verify your identity.
+receiver: Oh really? That’s concerning. What do you need me to do?
+caller: To confirm it's you, could you please provide the OTP that just arrived on your registered mobile number? It’s a one-time password for immediate verification. We need to act fast to prevent unauthorized changes.
+receiver: OTP? Wait a minute. I’m not sure about this… HDFC Bank usually sends OTPs through SMS, not a phone call.
+caller: Madam, this is a priority alert. The system requires immediate OTP confirmation to secure your account. If you don’t do it within the next two minutes, your account will be temporarily suspended for security reasons. Just read out the OTP. It’s just 4 digits.
+receiver: Suspended? Okay, okay… let me check my messages. But I'm still a bit nervous.

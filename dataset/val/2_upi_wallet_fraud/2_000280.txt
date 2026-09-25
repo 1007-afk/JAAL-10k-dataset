@@ -1,0 +1,6 @@
+caller: Hello! Mein BharatPay customer support se bol raha hoon. Aapke BharatPay account mein aaj ek suspicious transaction ka attempt kiya gaya hai.
+receiver: Kya? Kaunsa transaction? Mein toh koi transaction nahi kiya tha. Mera BharatPay ID [invented number, e.g., 7890123456] hai.
+caller: Haan sir, ek ₹4999 ka transaction hua tha ek online gaming website par. Security protocol activate ho gaya hai, aur aapka account temporarily suspend kar diya gaya hai.
+receiver: ₹4999? Bilkul galat! Mein toh kabhi online games nahi khelta. Account ko reactivate karne ke liye kya karna hoga?
+caller: Sir, account reactivate karne ke liye, aapko bas ek OTP verify karna hoga jo aapke registered mobile number par aayega. Is OTP se hum verify karenge ki aap hi account ke owner hain.
+receiver: Theek hai, dekh lete hoon. Lekin mujhe zyada suspicion ho raha hai. OTP aane de, main check karta hoon. Agar kuch gadbad lagi toh main police complaint bhi kar sakta hoon.

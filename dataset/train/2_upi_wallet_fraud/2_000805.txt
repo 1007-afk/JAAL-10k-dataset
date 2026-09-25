@@ -1,0 +1,6 @@
+caller: Hello sir, is this Rohit Sharma? We’ve noticed some unusual activity on your FreeCharge wallet. For security reasons, we need to verify your details immediately.
+receiver: Unusual activity? What kind of activity? I haven’t done anything unusual.
+caller: Sir, there was a recent attempted transaction of ₹5000 to an unknown wallet. To prevent fraud and keep your money safe, you need to confirm a one-time security code. Please share the OTP we just sent to your registered mobile number.
+receiver: OTP? I didn’t receive any OTP. And why would FreeCharge send an OTP over the phone? Shouldn’t it be through the app?
+caller: Sir, this is a priority security check. Sometimes messages get delayed. Just quickly tell me the OTP, and we’ll secure your account. Failure to do so will result in the temporary freezing of your FreeCharge wallet for your own safety.
+receiver: Freezing my wallet? Okay, wait a second. Let me just check my messages...I still don’t have an OTP. What’s your FreeCharge employee ID?

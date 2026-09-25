@@ -1,0 +1,6 @@
+caller: Namaste, is this Mrs. Sharma? This is Inspector Verma from the Directorate of Enforcement, Delhi. We’re investigating a case of illegal cryptocurrency trading linked to your IP address.
+receiver: Inspector Verma? Illegal crypto? But I don’t even use cryptocurrency. I’m a teacher, Priya Sharma. This must be a mistake.
+caller: Mrs. Sharma, our intelligence suggests transactions were made using your internet connection. We need to verify your financial records to ensure you are not unknowingly involved. Can you please provide a list of all bank accounts linked to your name?
+receiver: Wait, wait! Hold on. Why would you need my bank account details just because someone used my internet connection? This sounds very suspicious. Shouldn’t you be investigating the actual crypto traders?
+caller: Ma'am, we are, but we need to rule out any potential collusion. It’s a standard procedure. To help expedite this process and avoid further legal complications, please also share the last four digits of your debit and credit cards. This will help us trace the source of the transactions.
+receiver: Absolutely not! I am not giving you any financial information over the phone. This is a scam. I’m reporting this number to the cybercrime helpline. Goodbye.

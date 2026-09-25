@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? We’re calling from SwiftLoan Solutions. We’ve reviewed your application and you’re pre-approved for a personal loan of up to ₹2 lakhs! Fantastic news, isn't it?
+receiver: SwiftLoan Solutions? I don’t remember applying for a loan. Can you tell me more about this? And how did you get my number?
+caller: No worries, Priya! Many people fill out forms online without realizing it. We found your details through a partner website. The interest rates are very competitive, especially for someone with your profile. Just a small processing fee of ₹99 to activate the loan and transfer the funds immediately.
+receiver: ₹99? To activate a ₹2 lakh loan? That seems a little off. And if I didn’t apply, why would I need to pay anything? It feels like a scam.
+caller: Priya, don’t be suspicious! It's standard procedure to verify your account and prevent fraud. Think of it as a security deposit. Once the loan is disbursed, it’s refunded with interest. Otherwise, we cannot proceed and you will lose the chance for this amazing offer. We have many applicants waiting, so please confirm quickly.
+receiver: I’m not comfortable with this at all. I'm going to report your number and investigate this further. I am not paying any fees. Goodbye.
+caller: Wait, Priya! What about your financial freedom? ₹2 lakhs could change your life! Just the UPI ID, please! Don't miss this opportunity!

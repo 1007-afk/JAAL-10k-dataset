@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Verma calling from the Delhi Customs Department. We’ve intercepted a parcel at the airport addressed to you containing suspicious items.
+receiver: Delhi Customs? What suspicious items? I haven’t ordered anything.
+caller: Sir, our scanners flagged the parcel. Preliminary investigation suggests it contains prohibited substances. To clear it, we need to verify a few details and process a small penalty for oversight.
+receiver: A penalty? How much penalty are we talking about? And why would I be receiving something like that?
+caller: It’s ₹7,500, sir. A standard fee to expedite the clearing process and ensure the parcel isn’t detained. We need to prevent further complications. You can pay online through our secure portal: securecustomspayment.online.
+receiver: Securecustomspayment.online? That looks… fishy. Shouldn't I be getting a notice through official channels? And why can’t I just refuse the parcel?
+caller: Sir, refusing the parcel will only escalate the matter and involve legal proceedings. This is a simple, straightforward way to resolve it quickly. Think of it as a minor administrative hiccup. Please proceed with the payment immediately to avoid further delays. We’re experiencing high call volumes right now.
+receiver: Look, Inspector Verma, I'm not paying anything until I can verify this is a legitimate call. I’m going to contact Delhi Customs directly through their official website and report this. Goodbye.

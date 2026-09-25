@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me clearly? I’m calling regarding a fantastic chance – you’ve been chosen to receive a valuable reward! To ensure you’re eligible, I need to ask you a simple question. It concerns that hit Bollywood film, “Dilwale Dulhania Le Jayenge” from 1995. Do you remember the song that played during Shah Rukh Khan and Kajol’s iconic train sequence? Was it A - ‘Tujhe Dekha Toh Ye Jaana,’ B - ‘Zara Zara,’ or C - ‘Kuch Kuch Hota Hai’? Please respond with A, B, or C.
+receiver: Ji, sunaa de raha hun, clear hai.  Aapkaa naam bataiye, please. Aur yeh DDLJ ka question?  B, Zara Zara tha.
+caller: Wonderful! Absolutely correct, it was 'Zara Zara,' option B. Great memory! Now, let’s proceed with claiming your reward. Could I get your first name and last name, please?
+receiver: Ji, Zara Zara hi tha. Mera naam hai Rohan Kumar Singh. Ab prize milne ke liye kya karna padega?
+caller: Fantastic, Rohan! Thank you for confirming. Next, we require a small verification step. Can you provide me with the name of your nearest post office?
+receiver: Post office? Okay. Mera gaon ka naam hai Chandni Chowk aur post office hai ‘Shree Hari’.  Aapko yeh sab verification ke liye chahiye, right?
+caller: Exactly, Chandni Chowk, ‘Shree Hari’. Completely necessary to secure your reward, Rohan. And there’s a minimal administrative charge, just ₹350, which you’ll need to pay through an instant transfer to ensure your prize is officially confirmed. Are you willing to complete this transaction?
+receiver: ₹350? Seriously? You said there was no charge before! This seems fishy.  I don’t want to do this.

@@ -1,0 +1,8 @@
+caller: Hello, is this Rahul Sharma? I’m calling from QuickCash Loans. We saw your online application for a personal loan.
+receiver: Yes, speaking. I did apply, but haven’t heard anything back yet.
+caller: Wonderful! We’ve pre-approved you for a loan of ₹75,000. Very straightforward process. Just need to verify a few details. Can you confirm your date of birth for me?
+receiver: Sure, it's 14th August 1988.
+caller: Excellent. Now, for security purposes, we need a small upfront processing fee of ₹5,000. This will activate your loan and ensure it's released immediately. It’s a one-time charge, refundable. Please send it to this UPI ID: 9876543210@ybl.
+receiver: ₹5,000? That wasn’t mentioned in the application.
+caller: Rahul ji, this is standard procedure. Many people try to take advantage. We need to confirm your seriousness. Without this fee, we can't proceed. Think of it as insurance. Otherwise, we will have to cancel your application and send it to our recovery department. We have your address and can easily send our representatives.
+receiver: Recovery department? What are you threatening me with?

@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Verma, BlueSky Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein thodi confusion hai.
+receiver: Oh, really? Okay. Which address are you talking about? I wasn’t expecting anything.
+caller: Ji, aapki delivery address mein ek digit wrong dikh raha hai. Aur parcel mein kuch important documents hain. Isi wajah se parcel deliver karne se pehle, mujhe confirm karna hai.
+receiver: Confirm? What do you need to confirm?
+caller: Sirf ek OTP, jo aapko parcel ke delivery ke liye allow karega. OTP bhijwa diya hai aapke phone pe. Bataiye, OTP kya hai?
+receiver: Wait a minute… why do you need my OTP? I thought you just needed to confirm the address.
+caller: Ji, security ke liye, sir. Parcel mein sensitive information hai. OTP se confirm hoga ki aap hi sahi receiver hain. Just tell me the OTP, and I will get your parcel delivered right away.

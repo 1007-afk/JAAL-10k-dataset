@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Akash from QuickCash Loans. We’ve reviewed your application, and you’re pre-approved for a loan of ₹50,000. Just need to verify a few details.
+receiver: QuickCash? I don’t recall applying for a loan. I’m a bit busy right now.
+caller: Sir, it was submitted through our website, QuickCashLoans.in. Just a quick formality. To proceed, can you confirm your date of birth?
+receiver: I'm still not sure I applied. And I'm hesitant to give out personal information over the phone.
+caller: Sir, it's urgent. We have many applicants. If you don’t confirm, the offer will be given to someone else. Also, to activate the loan, there's a small processing fee of ₹2,500. We need it upfront.
+receiver: ₹2,500 before I even receive the loan? That doesn’t sound right. I'm going to have to decline.
+caller: Sir, if you don’t pay the fee, we will have to send a notice to your contacts regarding your loan application and the outstanding amount. It reflects poorly on your credit profile, sir. Think carefully.

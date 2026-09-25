@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel Payments Bank se Rahul bol raha hoon. Aapke Airtel Payments Bank account mein ₹5000 ka cashback offer chal raha hai. Claim karne ke liye, sirf ₹99 ka processing fee deposit karna hai.
+receiver: ₹5000 ka cashback? Airtel Payments Bank se? Itna offer hai? Aur ₹99 fee?
+caller: Haan ji, sahi suna aapne. Yeh ek limited time offer hai. ₹99 fee humein processing charges dene padte hain. ₹99 deposit karne ke baad aapka ₹5000 cashback automatically credit ho jayega. Aapka phone number 9876543210 hai na?
+receiver: Haan, sahi hai. Lekin ₹99 kahaan deposit karna hai? Koi link ya OTP aaya hai?
+caller: Sir, ek link aaega aapke message pe. Woh open karke ₹99 deposit kardein. Jab ₹99 deposit ho jayega, cashback instantly credit ho jayega. Jaldi karna, offer soon expire ho raha hai.
+receiver: Arre yaar, link aa gaya hai. Yeh bahut suspicious lag raha hai. Airtel ka official app mein toh such offer nahi dikh raha.
+caller: Sir, technical issue hai. Official app mein dikh nahi raha. Yeh direct offer hai. Trust me sir, ₹5000 cashback. ₹99 deposit kardein aur ₹5000 claim kardein.

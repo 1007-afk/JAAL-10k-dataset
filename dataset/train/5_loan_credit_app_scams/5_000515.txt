@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? We’re calling from ‘CreditBoost Now,’ a registered loan provider. Your application for a quick loan has been pre-approved! We’re happy to offer you a loan of ₹75,000.
+receiver: Haan, mein Priya Verma. Loan? Mujhe loan apply toh nahi kiya tha.
+caller: Yes, ma'am. It appears you filled out a preliminary form on our website. To finalize and disburse the loan quickly, we need to verify a few details. Could you please send us a selfie holding your Aadhaar card and a photograph of your debit card, just the front side? It’s for security purposes only.
+receiver: Selfi? Aadhar card aur debit card photo? Yeh kyun chahiye?
+caller: Ma'am, this is standard procedure to prevent fraud. We need to confirm you are the cardholder. Don’t worry, your information is safe with us. We'll transfer the ₹75,000 to your account within 15 minutes of verification. Please send the photos to 8800223344.
+receiver:  Hmm…thoda doubt ho raha hai.  Koi aur proof chahiye toh do.
+caller:  Ma'am, we're being very efficient here to get you your loan fast! A few more hours and the offer disappears. The loan will be disbursed immediately after we receive the pictures. The interest rate is a special 8% for approved applicants like you. Quickly send those photos to activate your loan.
+receiver: 8% interest?  Okay, I’ll think about it.  I’ll call you back.

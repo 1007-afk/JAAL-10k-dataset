@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan Sharma? This is Priya from Melody Tunes.  Hope you’re doing well today! I’m just calling to follow up on your recent music subscription. You should have gotten an SMS with your account ID, A729, and a payment of ₹199. Just checking to see if everything processed smoothly for you.
+receiver: Namaste Priya! Haan, main hi Rohan Sharma.  I am speaking. Oh, let me check my messages... Yes, I saw the SMS with A729 and ₹199. It seems fine. Thanks for letting me know.
+caller: Excellent!  Mujhe suno, kya aapko music streaming ke liye koi aur plan chahiye? We have some fantastic deals on ad-free listening and offline downloads – really amazing value!
+receiver: Nahin Priya, mujhe abhi iske bare mein pata nahin. Ad-free plans achhi hain, lekin main abhi decide nahin kar paya.  Maybe later. Shukriya bahut!
+caller:  Koi problem nahi Rohan. Agar aapko kabhi bhi interest ho toh humein call kar sakte hain. And do you need any other assistance today?
+receiver: Nahin Priya, abhi toh bas yeh zaroori tha. Dhanyavaad ke samay dene ke liye.
+caller:  Theek hai Rohan. Agar aapko kisi bhi cheez ki madad chahiye, to humein call karna. Apni subah achchi gujiye!  Goodbye!
+receiver: Dhanyavaad Priya! Aapki jugaat bhi achchi gujiye. Goodbye!

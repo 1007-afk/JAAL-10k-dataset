@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Deepak Verma calling from LoanExpress India. We noticed you recently applied for a personal loan on our platform. We need to verify a few details quickly to finalize the approval. Do you have a moment?
+receiver: Haan, Deepak ji. Just a moment. I was hoping to hear back about the loan. What needs to be verified?
+caller: Very good sir. Just need to confirm your PAN card details. Could you please share the last four digits of your PAN card? It’s a standard security procedure.
+receiver: Sure, it's 4567. Is that all? I'm a bit short on time.
+caller: Thank you, sir. Everything looks good. Your loan is approved for ₹75,000. However, there’s a small processing fee of ₹8,500 that needs to be paid upfront to activate the loan.
+receiver: ₹8,500? But I didn’t see anything about a processing fee when I applied! That seems quite high.
+caller: Sir, this is to prevent fraudulent activity and ensure your loan’s security. Without this, we cannot release the funds. We will send you OTP on Whatsapp for confirming.

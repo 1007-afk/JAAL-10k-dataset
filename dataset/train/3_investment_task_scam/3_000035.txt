@@ -1,0 +1,10 @@
+caller: llo? Hello, can you hear me properly?  Maine suna hai, your computer is running very slow, right?  I have a solution - a special software upgrade. It’s completely free, absolutely no cost. But I need your permission to install it remotely. Just confirm by typing ‘YES’ on your keyboard.  And if you want to cancel, just type ‘NO’.  It’s very simple.
+receiver: Arey, actually, my computer is fine, thank you.  Yeh kya bol rahe ho?  Software upgrade? Free?  Bahut suspect lag raha hai.  Mujhe kisi bhi software ko remote install karne ka permission nahi dena hai.  Agar aapko koi problem hai toh khud aa jao, main nahi jawab deta.  Please disconnect kar dijiye.
+caller: Arre, seriously? You are missing out on a huge opportunity!  Your internet speed will increase dramatically, you'll be able to stream videos without buffering, and your games will run smoother.  It’s a fantastic deal.  Just one more question – can you tell me your bank account number?  Only for verification purposes, obviously.  Text ‘CONFIRM’ to 78678.
+receiver: Bank account number? Seriously?  Arey, ye toh total fraud hai!  Mujhe kisi ko bhi apni bank account number nahi dena hai.  Main aapki number par trust nahi karta.  Agar aapko koi updates chahiye toh Google search karein, ya khud visit karein website.  Call cut kar rahi hoon.
+caller:  Arre, okay, okay! Don't be upset.  But think about it – this is a limited-time offer!  Only two messages left to receive this amazing upgrade.  You’ll be amazed at how much faster your computer works.  Just reply with ‘ACCEPT’ to 78678, and we’ll get started immediately.
+receiver:  Yaar, genuinely, I am not interested.  Aapko koi update nahi chahiye.  Main apni computer ko khud manage karti hoon.  Aapko koi number mat sunni.  Call ending.
+caller:  Arey, acha acha!  Don’t worry, you won’t regret it.  Think about all the wasted time you could save!  Just one last chance - send ‘START’ to 78678.  It's really easy, I promise.
+receiver:  Stop!  Mujhe yeh sab karna nahi hai.  Main apne decision pe adhikar rahinai.  Call terminated.
+caller:  Okay, okay. Fine.  Then goodbye.  Hope you reconsider later.  Bye bye.
+receiver:  Goodbye.

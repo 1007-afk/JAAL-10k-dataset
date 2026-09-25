@@ -1,0 +1,8 @@
+caller: Namaste! Calling from LoanExpress India. We've noticed you recently applied for a personal loan online. Congratulations, you've been pre-approved for ₹7,50,000! Just a quick verification needed to release the funds. Can I confirm your name and date of birth, please?
+receiver: Haan, mera naam Rajesh Kumar hai. Date of birth 15 August 1988 hai.
+caller: Excellent, Rajesh ji! This is a fantastic opportunity. To finalize the process and avoid any delays, we require you to pay a small processing fee of ₹9,999. This is a one-time charge, fully refundable upon loan disbursement. You can pay via UPI to the ID loanexpress.payment@axis.
+receiver: ₹9,999? Lekin maine toh such mein loan apply kiya tha. Processing fee ka zikar apply karte samay nahi kiya gaya tha.
+caller: Rajesh ji, security reasons. It is a new policy to verify if the applicant is genuine.  Look, many fraudulent applications come through. We must be certain. It's a very small price to pay for ₹7,50,000. Think of all the opportunities!  The UPI ID again is loanexpress.payment@axis.  Don’t miss out.
+receiver: Okay, fine. I will pay. But after that, the loan will be disbursed immediately, right? And there will be no more hidden charges?
+caller: Absolutely, Rajesh ji! Once the payment is confirmed, the loan will be credited to your account within 30 minutes. No hidden charges, I promise. Please send the screenshot of the payment after you complete the transaction. We are waiting for your confirmation to dispatch your loan.
+receiver: Okay, I have transferred the money. Sending the screenshot now…

@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Rahul Verma bol raha hoon. Aapke Axis Bank account mein KYC update pending hai. Agar aapne 72 hours mein KYC update nahi kiya toh aapka account freeze ho sakta hai.
+receiver: KYC update? Meri account freeze ho jayegi? Mein toh Axis Bank app check karta hoon hamesha.
+caller: Ji, aapko app mein notification dikh raha hoga. Lekin security reasons se, mujhe aapke Aadhaar card ke last four digits verify karne hai. Aur OTP bhi bejna padega.
+receiver: Aadhaar number? OTP? Yeh thoda fishy lag raha hai. Mein Axis Bank ke customer care number se khud verify kar leta hoon.
+caller: Madam, aapko koi chinta nahi leni chahiye. Yeh security process hai. Agar aap account freeze hone se bachaana chahti hain, toh please Aadhaar card ke last four digits bataiye aur OTP share karein.
+receiver: Okay, wait a second... Mein just checking the Axis Bank official website... Ek minute...
+caller: Ji madam, please jaldi karna, time barh raha hai. Account freeze hone se pehle aapko KYC update karna hoga.

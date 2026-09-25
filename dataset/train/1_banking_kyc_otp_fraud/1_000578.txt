@@ -1,0 +1,9 @@
+caller: Namaste! Caller speaking. You received a notification regarding your 2018 loyalty program membership. There’s a significant amount – 1234 rewards credits – that are expiring soon. We need to quickly verify some information before they vanish. Could you tell me your full name, please?
+receiver: Namaste ji, main Sanjay Kumar hoon.  Haan, maine notification dekha tha.  Rewards credits expire hote hain? Kya karne ki zaroorat hai?
+caller: Excellent, Sanjay! That’s good to know. Now, to unlock those 1234 credits, we require a quick confirmation. Firstly, could you provide the postal code associated with your 18 membership account? Just the postcode will suffice.
+receiver: Postal code? Hmm... Woh 411001 hai.  Aapko yahaan kuch aur chahiye?
+caller: Wonderful, 411001.  And secondly, could you confirm the secondary email address used when you registered for the 18 program? It's vital for security.
+receiver: Secondary email?  I believe it was ‘sanjay.kumar@gmail.net’.  Batao, ab kya karna hai?
+caller: Fantastic, sanjay.kumar@gmail.net. Finally, for final verification, can you share the last three digits of the phone number linked to your account? This ensures only you can access your rewards.
+receiver: Haan ji, woh last three digits hain 987.  Ab mein points redeem kar sakta hun?
+caller: Wonderful, 987. Your verification is complete! You can now redeem your 1234 rewards credits immediately through our website. Thank you for your cooperation.

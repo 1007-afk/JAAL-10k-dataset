@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Delhi Customs Department. We need to speak with you urgently regarding a suspicious package linked to your name.
+receiver: Customs Department? Kya baat hai? Main toh koi package nahi order kiya tha.
+caller: Sir, our records show a package containing suspicious items was intercepted at Indira Gandhi International Airport addressed to your residential address. It’s flagged for potential involvement in illegal cryptocurrency transactions. We need to verify your identity and cooperation is mandatory.
+receiver: Illegal cryptocurrency? Yeh toh galat hai. Main cryptocurrency mein deal bhi nahi karta. Mujhe yeh sab kuch kuch samajh mein nahi aa raha hai. Aap mujhe koi reference number de sakte hain?
+caller: Sir, providing a reference number at this stage would compromise the ongoing investigation. However, to expedite the process and prevent further legal complications, we require a small compliance fee of ₹15,000 to cover processing and verification costs. This is a standard procedure to clear the package.
+receiver: ₹15,000? Sir, yeh fraud lag raha hai. Main police station mein complaint kar dunga.
+caller: Sir, please understand this is a sensitive matter. Refusal to cooperate will be documented and could result in further investigation and potential legal action against you. We need to settle this quickly to avoid any unwanted consequences. You can pay through UPI to the number 9876543210.
+receiver: Sir, ek minute rukiye. Mai apne lawyer se baat karta hoon aur phir main aapko jawab deunga. 
+caller: Sir, time is of the essence. The deadline for compliance is within the next hour. Delaying will only complicate matters further. Remember, we are trying to help you avoid serious legal trouble.

@@ -1,0 +1,8 @@
+caller: Hello, this is Raj from QuickCash Solutions. We've noticed you recently applied for a personal loan on our platform. There’s a small verification process before we can disburse the funds. Can I confirm your full name and date of birth, please?
+receiver: Yes, sure. My name is Anika Verma, and my date of birth is 12/05/1992.
+caller: Thank you, Anika. Everything seems to be in order. However, to prevent fraudulent activity, we require a one-time security deposit of ₹2,500. This will be returned immediately after verification, and your loan of ₹50,000 will be processed. Please transfer it to the account number provided in the SMS.
+receiver: Two thousand five hundred? For a deposit? But I thought it was an instant loan. Why do I need to pay anything upfront?
+caller: It's a standard security measure, Anika. Many banks and financial institutions follow this procedure. Think of it as insurance against fraud. We want to ensure your money is safe. Please make the transfer quickly so we can activate your loan. The reference number for the transaction is VC4789.
+receiver: Okay… I guess. I’ll transfer it. But I want to be clear, this ₹2,500 will be returned to me immediately, right? And then I get my ₹50,000 loan?
+caller: Absolutely, Anika! We guarantee the return of your deposit and the immediate disbursement of your loan. Please send a screenshot of the transaction to this number so we can expedite the verification process. Once received, your loan will be credited within the next hour.
+receiver: Fine. Just sending the screenshot now. I’m really hoping this goes through smoothly. I need this money urgently.

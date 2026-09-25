@@ -1,0 +1,10 @@
+caller: Namaste! Aapse baat kar raha hoon 'Golden Opportunities India' se. Aapke liye ek bahut hi achhi baatein hain! Hum ne aapko Diwali ke liye ek special gift voucher milane ke liye select kiya hai.
+receiver: Diwali ke liye gift voucher? Interesting! Kya type ka voucher hai? Kitni value hai?
+caller: Haan ji, yeh ek 500 rupees ka gift voucher hai, Flipkart par spend karne ke liye. Aapki loyalty ke wajah se humne aapko yeh surprise deya hai. Apne family ko bhi bataiye, ye Diwali mela ke liye ek amazing deal hai!
+receiver: 500 rupees ka Flipkart voucher? Bahut mazaa aayega! Lekin, kaise claim karenge hum is voucher ko? Kuch details chahiye. Kya koi surcharge hai ya koi condition hai?
+caller: Arre, claim karna sangat nahi hai! Yeh voucher aapko immediately milega, aur aapko sirf Flipkart website par use karna hai.  Aapko bas iss number pe call karna hai, 7898989890, aur voucher ID confirm karna hai.  Hamare paas sirf 3 bache hain is Diwali offer ke liye, toh jaldi se call kar lijiye!
+receiver: 3 bache? Jaldi karo! Flipkart voucher 500 rupees ka. Okay, I’ll call that number. Thoda confusion hai lekin interesting hai.
+caller: Haan ji, bilkul! Aapko Diwali ki subah shandaar hasil honi hai. Aur main aapko bata doon, yeh offer sirf aaj shaam 8 baje tak valid hai. Hamare paas bas 3 vouchers bache hain, toh aap jaldi se call kar lijiye, taaki aap yeh 500 rupees miss na kar dein. Aapki Diwali shandaar ho jaye, isiliye toh yeh offer hai!
+receiver: Shaam 8 baje tak? Okay, I will definitely call then. Shukriya!
+caller: Haan ji, bilkul! Aapko Diwali ke liye best wishes! Aur is Diwali offer ko apne dosto ke saath share karna mat bhule. Hamare paas bas 3 vouchers bache hain, toh jaldi se call kar lijiye, taaki aap yeh 500 rupees miss na kar dein. Aapki Diwali shandaar ho jaye!
+receiver: Got it! 500 rupees Flipkart voucher, shaam 8 baje tak. Thanks again!

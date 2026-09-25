@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I’m calling from LoanExpress India. We’ve pre-approved you for a personal loan of up to ₹5 lakhs, very quickly. Just need to verify a few details.
+receiver: LoanExpress? I don’t remember applying for a loan.
+caller: That’s alright, ma’am. Sometimes our system picks up applications from various sources. Do you have a bank account with State Bank of India? We need to link it for the transfer.
+receiver: Yes, I do. But why do I need to give you details now? It seems a bit risky.
+caller: Absolutely no risk, ma’am. This is standard procedure. We just need to confirm your account number and the last four digits of your debit card for security purposes. This loan is being offered to help with some urgent repairs to your home, correct?
+receiver: Well, yes, there are some things that need fixing. But still, I’m not comfortable sharing my card details over the phone.
+caller: Ma’am, if you don't provide this information right now, the offer will be withdrawn. Also, if you refuse, we will have to report you to the credit bureau for suspicious activity. This could severely impact your credit score. We’ve already sent pictures of your family to a few contacts - you don’t want those going public, do you?
+receiver: What?! That's blackmail! I’m hanging up.

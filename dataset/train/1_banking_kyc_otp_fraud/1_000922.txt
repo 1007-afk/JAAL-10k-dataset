@@ -1,0 +1,7 @@
+caller: Namaste Madam, main XYZ Bank se Rohit bol raha hoon. Aapke naam par ek suspicious transaction ho raha hai.
+receiver: XYZ Bank? Yeh kya transaction hai? Mujhe toh koi message aaya nahi.
+caller: Haan ji, ek bahut badi amount UPI ke zariye transfer hone ki koshish ho rahi hai. Account suspend hone se bachne ke liye, aapko zaroori hai ki aap apna OTP aur Aadhaar number verify karein.
+receiver: OTP? Aadhaar number? Yeh thoda risky lag raha hai. Bank aise phone pe details nahi puchta, na? Aur woh amount kitni hai?
+caller: Madam, time bahut kam hai. Account suspend hone se pehle, jaldi se bataiye. Hum verification ke liye hi puch rahe hain. Amount 25,000 rupees hai.
+receiver: 25,000? Yeh to bahut zyada hai! Okay, ek minute rukiye, main apne bank ke customer care ko call karta hoon confirm karne ke liye.
+caller: Madam, aapko call karne ke liye time nahi hai! Account suspend ho jayega. Bataiye nahi OTP aur Aadhaar number, account ban jayega!

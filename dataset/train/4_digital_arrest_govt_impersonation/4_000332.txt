@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Raj from the Directorate of Revenue Intelligence, DRI. We've detected some suspicious activity linked to your bank account.
+receiver: DRI? What kind of suspicious activity? I haven’t done anything wrong, I hope.
+caller: Ji, sir. Our systems flagged a series of small international transfers originating from your account, seemingly related to a hawala network involved in funding illegal narcotics.
+receiver: Narcotics? That’s ridiculous! I only send money to my daughter studying in Canada. Can you give me some specifics? Dates, amounts?
+caller: Yes, sir, of course. We have records of five transactions over the last week, totaling nearly 7 lakh rupees. To clear this up and avoid further legal action, we need you to pay a small administrative fee—50,000 rupees—to demonstrate your cooperation.
+receiver: Fifty thousand? Hold on. This sounds like a scam. Why would the DRI ask for money over the phone? Shouldn’t I be getting a notice from the court or something?
+caller: Sir, this is to expedite the process and prevent your assets from being frozen. Think of it as a precautionary measure. We need to verify your identity, and the fee covers that.  Please use the UPI ID: DRI-Compliance-786. Do this immediately, sir.
+receiver: Absolutely not. I'm reporting this to the cybercrime cell right now. You're a fraud. Don't call me again.

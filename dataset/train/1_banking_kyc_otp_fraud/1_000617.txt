@@ -1,0 +1,20 @@
+caller: Namaste sir, main BharatPay se baat kar raha hoon. Kya aapki profile ki details update nahi hui hai? Agar nahi toh, aapko soon submit karna padega. Aapka landline number bata dijiye please.
+receiver: BharatPay? Update nahi hui? Yaaro, mujhe number yaad nahi aa raha. Batao, aapko kis liye chahiye? Reference ID todegi main.
+caller: No sir, reference ID nahi hai. Main aapko hi calling kar raha hoon taki aapki profile updated ho jaaye aur aapko payment problem nahi ho. Please apna landline number bataiye, agar nhi toh aapka account suspend ho sakta hai.
+receiver: Suspended? Seriously? Yaaro, mujhe number nahi bataana. Kya KYC mein kya niyam hai? Batao, bank ne toh kaha tha ki OTP chahiye hoga.
+caller: OTP? Arey, OTP sirf verification ke liye hota hai. Aapko profile update karne ke liye sirf landline number chahiye. Trust me, yeh bahut easy hai. Hum aapko online portal mein guide karenge.
+receiver: Online portal? Yaaro, online portals mein bhi toh risk hota hai. Mujhe koi assurance mat do. Bank representative toh gaya tha, woh bhi bol raha tha ki OTP chahiye hoga.
+caller: Sir, bank representative toh aapke liye nahi, hum log aapke liye bol rahe hain. Yeh secure hai, promise! Us portal mein aapko apna landline number enter karna hoga, aur phir aapki profile automatically update ho jayegi.
+receiver: Automatically? Okay, okay. Batao, portal ka address bataoge? Ya phir aap mujhe call back kar sakte hain, main aapko guidance doon?
+caller: Portal ka address yaad nahi hai sir, lekin main aapko screenshot bhejna chahta hoon, whatsapp par. Just apna mobile number bata dijiye.
+receiver: Mobile number? Arey, seriously? Mein toh mobile number kabhi bhi nahi de sakta. Mera paisa toh safed hai, ye sab black money ka khel hai.
+caller: Namaste sir, main BharatPay se baat kar raha hoon. Kya aapki profile ki details update nahi hui hai? Agar nahi toh, aapko soon submit karna padega. Aapka landline number bata dijiye please.
+receiver: BharatPay? Update nahi hui? Yaaro, mujhe number yaad nahi aa raha. Batao, aapko kis liye chahiye? Reference ID todegi main.
+caller: No sir, reference ID nahi hai. Main aapko hi calling kar raha hoon taki aapki profile updated ho jaaye aur aapko payment problem nahi ho. Please apna landline number bataiye, agar nhi toh aapka account suspend ho sakta hai.
+receiver: Suspended? Seriously? Yaaro, mujhe number nahi bataana. Kya KYC mein kya niyam hai? Batao, bank ne toh kaha tha ki OTP chahiye hoga.
+caller: OTP? Arey, OTP sirf verification ke liye hota hai. Aapko profile update karne ke liye sirf landline number chahiye. Trust me, yeh bahut easy hai. Hum aapko online portal mein guide karenge.
+receiver: Online portal? Yaaro, online portals mein bhi toh risk hota hai. Mujhe koi assurance mat do. Bank representative toh gaya tha, woh bhi bol raha tha ki OTP chahiye hoga.
+caller: Sir, bank representative toh aapke liye nahi, hum log aapke liye bol rahe hain. Yeh secure hai, promise! Us portal mein aapko apna landline number enter karna hoga, aur phir aapki profile automatically update ho jayegi.
+receiver: Automatically? Okay, okay. Batao, portal ka address bataoge? Ya phir aap mujhe call back kar sakte hain, main aapko guidance doon?
+caller: Portal ka address yaad nahi hai sir, lekin main aapko screenshot bhejna chahta hoon, whatsapp par. Just apna mobile number bata dijiye.
+receiver: Mobile number? Arey, seriously? Mein toh mobile number kabhi bhi nahi de sakta. Mera paisa toh safed hai, ye sab black money ka khel hai.

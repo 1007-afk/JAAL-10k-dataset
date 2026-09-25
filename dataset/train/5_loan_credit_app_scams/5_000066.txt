@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from LoanExpress. We’ve noticed you applied for a personal loan recently. Congratulations! Your application is pre-approved for up to ₹50,000. Just a few quick verification steps and the money will be in your account.
+receiver: Oh, really? That's great news! I was hoping to get a loan for some urgent expenses. What verification steps do I need to complete?
+caller: To proceed, we need to verify your account details. Could you please share the last four digits of your bank account number and your OTP received on your phone? It's crucial for security purposes, madam.
+receiver: Okay, sure. The last four digits of my account number are 1234. And the OTP I received is 8765.
+caller: Excellent! Thank you for your cooperation. Now, to activate your loan, we require a small processing fee of ₹2,500. This will ensure the loan is released immediately. You can transfer it to this UPI ID: 9876543210@axisbank.
+receiver: Two thousand five hundred? That seems a bit steep for a processing fee. Is that really necessary? I thought loans didn’t usually have upfront fees.
+caller: Madam, it's a standard procedure to prevent fraudulent applications. Without this fee, we can’t guarantee the loan release. Think of it as insurance. Once the fee is processed, we will disburse the ₹50,000 to your account immediately. Don't miss this opportunity!

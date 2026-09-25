@@ -1,0 +1,10 @@
+caller: Namaste! Yeh call India Customs se hai. Aapka naam Rajesh Kumar hai, correct?
+receiver: Haan, main Rajesh Kumar hi hoon. India Customs? Kya hua?
+caller: Rajesh ji, ek parcel aaya hai aapke naam par, lekin usmein illegal items mile hain. Drugs ka suspicion hai.
+receiver: Drugs? Mere naam par? Yeh galat hai! Main toh kabhi drugs nahi leta!
+caller: Look, we have evidence. Yeh matter serious hai. CBI investigation chal raha hai. Aapko court mein present hona padega. Par, agar aap ₹25,000 fine bhar denge, toh case ko settle kiya ja sakta hai.
+receiver: ₹25,000? Court mein present hona? Yeh theek nahi lag raha hai. Main police mein complaint karunga.
+caller: Rajesh ji, aapko agar khair chahti hoon toh jald se jald payment karein. Police aapko arrest kar legi.  Aapko apne family ke bare mein sochna bhi nahi chahiye. Payment karne ke liye hum ek UPI ID de rahe hain. Jaldi karna chahiye!
+receiver: Thoda wait karna. Main check karta hoon. Kuch official document number do jo main verify kar sakta hoon.
+caller: Rajesh ji, time barbaad mat karein. Yeh urgent hai.  Agar aapko kuch doubt hai, toh hum video call par bhi baat kar sakte hain, taki aap ko sab dikh sake. Agar aap kuch bhi karte ho toh main monitor karunga.
+receiver: Yeh scam hai! Main report karunga.

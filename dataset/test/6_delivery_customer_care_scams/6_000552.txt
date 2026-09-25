@@ -1,0 +1,11 @@
+caller: Namaste, sir? Main Flipkart customer care se Rahul bol raha hoon. Aapke naam par ek order aaya hai, tracking ID hai FLP789456.
+receiver: Haan, bolo kya hua? Flipkart par order toh main karta hoon aksar.
+caller: Sir, order delivery ke dauraan ek problem aa gayi hai. Package damage ho gaya hai, aur usmein kuch items missing bhi hain.
+receiver: Missing items? Kaun se items missing hain? Aur damage ka kya hua?
+caller: Sir, security reasons se hum aapko phone par exact details nahi de sakte. Par hamara system suggest karta hai ki aapka bank account compromise ho sakta hai. Refund process ko start karne ke liye, aapko OTP verify karna hoga.
+receiver: OTP? Flipkart aise OTP maangta hai? Mujhe toh koi email ya SMS nahi aaya.
+caller: Sir, abhi system update hone ke baad direct call se hi verify karna padega. Please, OTP share karein taaki aapko refund mil jaaye aur aapka account secure rahe. Main aapko confirm kar sakta hoon ki yeh ek urgent matter hai.
+receiver: Theek hai, ek minute… (pause) Sir, yeh bahut hi suspicious lag raha hai. Main police mein report karunga agar aapne mujhe disturb karne ki koshish ki.
+caller: Sir, please don't do that! I am just trying to help you. This is a standard procedure for all damaged orders.
+receiver: Standard procedure? I'm reporting you. Good bye!
+caller: Sir, please! Don't hang up! I can resolve this for you immediately!

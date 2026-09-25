@@ -1,0 +1,7 @@
+caller: Hello? This is regarding your recent application for a quick loan with LoanExpress. We need to verify some details urgently.
+receiver: LoanExpress? I don’t recall applying for a loan. I’ve been busy with work.
+caller: Yes, sir/madam. It seems you filled out a pre-approval form online. The approval is almost complete, but we need to confirm a small processing fee of ₹750 to activate your ₹50,000 loan.
+receiver: A processing fee? That’s unusual. Most loans don’t require a fee upfront. And I still don’t remember applying. Can you tell me the reference number for my application?
+caller: Absolutely, sir. The reference number is LX78923. But please, don't delay. We’re experiencing high demand, and this offer won't last long. Failure to pay the ₹750 within the next 15 minutes will result in cancellation and a mark on your credit report.
+receiver: A mark on my credit report? That sounds like a threat. I’m not paying anything until I can verify this LoanExpress company and this application number. I’m going to report this.
+caller: Sir/Madam, please understand, this is standard procedure. To avoid any negative impact on your credit score and secure your loan, kindly transfer the ₹750 to this UPI ID: expressloan75@axisbank. Hurry, sir, time is running out!

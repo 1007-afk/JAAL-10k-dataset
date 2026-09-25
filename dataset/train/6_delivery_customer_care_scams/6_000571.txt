@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Verma? I'm calling from Swiggy Customer Care regarding your recent order, #SW12345. There's been an unusual hold on the delivery due to a payment verification issue.
+receiver: Haan, hello. Yes, this is Rohit Verma. What payment issue? I paid online already.
+caller: Yes sir, we’re seeing a slight discrepancy. Our systems flagged it as potentially fraudulent. To release the order and ensure smooth delivery, we need to quickly verify your payment details. Can you please provide the last four digits of your credit card and the CVV code? Just to confirm it’s you.
+receiver: Wait a minute! Why do you need my CVV? Swiggy never asked for that before.  This seems a little fishy.
+caller: Sir, it’s a new security protocol implemented just today to prevent fraud. It's perfectly safe; we’re just ensuring your account is protected.  We’re experiencing a lot of fraudulent activity, so we have to be extra cautious. Please provide the information quickly, so your food doesn't get delayed. It's a special offer from Domino’s!
+receiver:  No, I don't think so. I'm going to call Swiggy's official customer care number directly. Give me that number, please.
+caller: Sir, maaf kijiye, main aapko confuse kar raha hu. Main genuinely try kar raha hu aapki help karne ke liye. Swiggy's customer care number ko yaad nahi hai, lekin main aapko one-time password (OTP) send kar sakta hu.

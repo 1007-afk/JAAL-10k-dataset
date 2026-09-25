@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? My name is Akash from SwiftTrack Logistics. We're having trouble locating your package destined for delivery tomorrow. It seems there's an outstanding delivery fee of ₹350.
+receiver: Hello? SwiftTrack Logistics? I don't recall ordering anything that requires a delivery fee.
+caller: Madam, it appears there was an oversight during the initial booking. The system flagged it, and we need to confirm payment to prevent the parcel from being returned to the sender. It's a new smart TV, valued at over ₹20,000.
+receiver: A smart TV? I didn’t order a smart TV. Are you sure you have the right address?
+caller: Yes, madam, the address matches perfectly. To proceed, we require a one-time OTP sent to your registered mobile number to verify the payment. It’s a standard security procedure. Just read it to me.
+receiver: OTP? Hold on a minute. This sounds very suspicious. I’m not giving out any OTPs to anyone. I'll call Flipkart directly to verify.
+caller: Madam, delaying the process will result in your parcel being returned. This is your last chance to receive your TV. Without the OTP, we cannot proceed. We're experiencing a high volume of deliveries today, so act quickly.

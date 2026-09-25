@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Raj from Bluebird Courier. We have a parcel addressed to you, but there’s a delivery issue. Seems like there's an outstanding customs fee of ₹2800 to clear it.
+receiver: ₹2800? What parcel? I wasn’t expecting anything. Could you tell me the sender's name and tracking number?
+caller: Sure sir. The sender is ‘Global Mart’ and the tracking number is AB1234CD56. It's a high-value item. To proceed with delivery, we just need to verify your payment details. We can accept UPI or debit card.
+receiver: Global Mart? I don't recognize that name. And why haven’t I received any notification about this fee? Can I speak to a supervisor?
+caller: Sir, these notifications sometimes get delayed. Look, time is running out, and the parcel will be returned to the sender if the fee isn’t cleared by today. Just the last four digits of your debit card will do, for security purposes.
+receiver: Okay, the last four digits are 4567. But I still don’t feel right about this. I’ll check with Global Mart directly.
+caller: Excellent sir! Now, for final verification, can you please share the OTP you’ll receive on your registered mobile number? It's a standard procedure to ensure it’s you.

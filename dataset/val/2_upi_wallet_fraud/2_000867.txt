@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Sanjay hai, main BharatPay se bol raha hoon. Aapke BharatPay wallet mein ek transaction fail ho gaya hai, ₹789.95 ka.
+receiver: Haan? ₹789? Kya hua? Mainne toh koi transaction nahi kiya.
+caller: Ji, system mein dikh raha hai ki ek merchant payment fail ho gaya hai. Aapko ye amount verify karna hoga aur phir woh automatically revert ho jayega.  Aapke BharatPay app mein ek link aayega, us par click karke verify kar dijiye.
+receiver: Theek hai, check karta hoon.  Aha, link mila hai. BharatPay se hi hai? https://verify-bharatpay.online/transaction
+caller: Haan ji, wohi link hai.  Aapko bas apna OTP enter karna hai, jo aapko SMS se milega. OTP se aap confirm kar denge ki aapne ye transaction kiya tha ya nahi.
+receiver: Okay, OTP mila hai... 4829. Enter kar raha hoon.
+caller: Bahut achha! Aapka account ab verify ho gaya hai. Woh ₹789.95 abhi revert ho jayega.  Aapke wallet mein ₹50 cashback bhi add kar diya hai, ek special reward ke taur par.
+receiver: ₹50 cashback?  Bahut dhanyavaad!

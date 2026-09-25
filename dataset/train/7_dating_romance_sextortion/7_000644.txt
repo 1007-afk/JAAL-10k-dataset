@@ -1,0 +1,7 @@
+caller: Hi, is this Riya Sharma? I'm Arjun, from London. Saw your profile on 'Desi Hearts' – you look lovely! Just thought I'd reach out and say hello.
+receiver: Hello? Yes, this is Riya. Thank you. But I don't recall seeing anyone named Arjun on Desi Hearts. Are you sure you have the right profile?
+caller: Oh gosh, my apologies! Must be a glitch with the app. Happens sometimes. Anyways, I'm a structural engineer working on a project in Dubai. It's hectic, but rewarding. I'm looking for someone to share experiences with when I have some downtime.  I’m planning a trip back to India in a few months, maybe we could meet up then?
+receiver: Dubai, wow! That sounds exciting. I'm a teacher here. I'm quite busy with work, but I do enjoy exploring new places sometimes. Meeting up... that's a bit premature, isn't it? We just started talking.
+caller: I know, I know! But I'm a firm believer in connecting with people first. Listen, my project is facing a bit of an emergency situation. My equipment is stuck at customs, and I need to pay a release fee of ₹12,000 urgently. It's frustrating, but I'm confident it will be resolved soon. Would you be able to assist me with a small loan until I get paid? I’ll pay you back double as soon as possible, I promise.
+receiver: ₹12,000? Arjun, that’s…a lot to ask someone we just met online. And this sounds incredibly suspicious. I’m not comfortable with this at all.
+caller: Please, Riya, I wouldn't ask if it wasn't important. It's a matter of weeks of

@@ -1,0 +1,8 @@
+caller: Namaste, mai Axis Bank se Rohit Sharma bol raha hoon. Aapke naam par ek transaction fail hua hai, ₹15,000 ka. Security ke liye, humein kuch details verify karni hogi.
+receiver: ₹15,000? Transaction fail? Maine toh koi transaction nahi kiya.
+caller: Haan sir, system mein dikh raha hai. Aapko apne account ko secure rakhne ke liye, mujhe aapka naam, date of birth aur ek OTP chahiye hoga jo aapke registered mobile number par aayega.
+receiver: OTP? Par aise kaise? Bank toh aise nahi karta.
+caller: Sir, yeh security protocol hai. Agar aap OTP nahi denge, toh aapka account suspend bhi ho sakta hai. Abhi jaldi se OTP dijiye.
+receiver: Theek hai, wait karo… haan, OTP mila. 876543.
+caller: Thank you sir. Ab aapko aapka PAN card number dena hoga, verification ke liye.
+receiver: PAN card number? Abhi kyun? Yeh toh suspicious lag raha hai.

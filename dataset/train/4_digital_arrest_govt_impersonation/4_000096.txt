@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Rajeev from the Directorate of Revenue Intelligence. We’re investigating a matter of suspected money laundering linked to your bank account.
+receiver: Mere bank account? Kya baat kar rahe ho? Mujhe toh kuch pata hi nahi.
+caller: Ji, sir. Our intelligence suggests a large sum of money, originating from overseas, was recently routed through your account. We need to verify a few details to ensure your cooperation and clear your name in this matter. Could you please confirm your full name and the last four digits of your bank account number?
+receiver: Inspector sahib, yeh zyada serious lag raha hai. Mujhe bank se baat karni chahiye, na? Aur account number phone pe kyun pooch rahe ho?
+caller: Sir, time is of the essence. The investigation is progressing rapidly. To prevent further complications and potential asset freezing, we need your immediate assistance. We understand your hesitation, but providing this information now will greatly expedite the process. We need to know the last four digits of the account to trace the money's origin. It's a routine verification, nothing to worry about.
+receiver: Routine verification? Aur agar main na doon? Is there any other way to do this?
+caller: Sir, unfortunately, without this verification, we’ll be forced to escalate the matter to the legal department, which could lead to more serious consequences for you. Just the last four digits, sir. For your own benefit, cooperate. It will only take a moment.
+receiver: Okay, okay… it’s 4782. But I am reporting this call.

@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Rohan hai, FutureCredit Solutions se. Main aapko call kar raha hoon ek achhi loan offer ke bare mein. Aapko ₹10,000 tak ki urgent loan chahiye kya?
+receiver: Hello, mujhe toh abhi loan ki zarurat nahi hai, par pata hai, ek kaam hai… mujhe apne papa ke medical bills bharne ke liye kuch paise chahiye the.
+caller: Bahut achha! Hum madad kar sakte hain, ji. ₹10,000 ki loan approve hone mein sirf 10 minute lagenge. Aapko sirf ek small processing fee bharne hogi, ₹1500. Tabhi hum process shuru kar sakte hain.
+receiver: ₹1500? Lekin maine suna hai ki processing fee toh itni nahi hoti. Aur main bank account se direct transfer nahi kar sakti.
+caller: Ye ek security measure hai, ji. Agar aap hamara trust nahi karte, toh hum loan nahi de sakte. Otherwise, very easy. Agar aap refuse karenge, toh humko maf karna padega. Hamare client’s reports bataate hain aapki credit history achhi nahi hai.
+receiver: Theek hai, ₹1500 bhar deta hoon. Par promise karo, loan ka interest zyada nahi hona chahiye aur mujhe abusive calls nahi aayenge.
+caller: Promise hai, ji! ₹1500 ko UPI se send kijiye: 7890123456@yono. Aapko abhi ek verification code milega SMS se. Wo bataiye, please.

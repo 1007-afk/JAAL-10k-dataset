@@ -1,0 +1,8 @@
+caller: Hello sir, main Rahul IDBI Bank se bol raha hoon. Aapke PhonePe account mein security breach ka attempt hua hai.
+receiver: Arre, serious? Kya hua? Meri account mein toh kuch nahi dikh raha hai.
+caller: Sir, hackers ne try kiya tha, lekin humein detect ho gaya. Ab aapko urgently apna account verify karna padega, warna account freeze ho jayega.
+receiver: Verify? Kaise verify karna hai? OTP milega kya?
+caller: Bilkul sir, OTP nahi milega. Process bahut simple hai. Aapko PhonePe app mein ‘Security Update’ section mein jaana hai aur ek link par click karna hai. Link aapke SMS mein aayega.
+receiver: SMS? Kya link aayega? Mujhe thoda doubt ho raha hai, aise kaise verify hoga?
+caller: Sir, tension mat lo. Yeh official link hai. Jaldi karo, freeze hone se pehle verify kar lo. Link check karo, ‘Update Now’ button par click karo aur ek small processing fee of ₹250 deposite karo. Isसे aapka account secure ho jayega.
+receiver: ₹250? Processing fee? Main thoda sochta hoon, okay?

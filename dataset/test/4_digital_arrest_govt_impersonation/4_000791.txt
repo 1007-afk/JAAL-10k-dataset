@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspected contraband.
+receiver: Hello? Haan, main hi Sharma bolta hoon. Customs? Kya package?
+caller: Ji Sharma sahib, a parcel arrived from overseas with your name and address. Our scanners flagged it as potentially containing illegal narcotics. We need to verify your involvement. This is a very serious matter, and we need your full cooperation.
+receiver: Illegal narcotics? Lekin main toh kabhi parcel order nahi kiya. Yeh kya baat ho rahi hai?
+caller: Sharma sahib, we understand this may be concerning. To clear this up quickly and prevent further legal action, we require a small fee to expedite the verification process and ensure the package is released. It’s just ₹15,000 to cover administrative costs and expedite the inspection. You can pay via UPI to this number: 8794XXXXXXXX.
+receiver: ₹15,000? Agar main parcel order nahi kiya toh main kyun pay karoon? Aur yeh bahut zyada lag raha hai. Main police station mein complaint karunga!
+caller: Sharma sahib, please understand, we're trying to avoid a lengthy and costly investigation for you. Refusal to cooperate will result in a formal inquiry and potential arrest. We are keeping the call on video to ensure transparency and deter any attempts to deceive us. Just pay the amount and we will release the parcel immediately.
+receiver: Dekhiye, main koi foolish nahi hoon. Aap logon ka call hi scam hai. Main police ko report karta hoon aur media ko bhi!
+caller: Sharma sahib, you are making a grave mistake. This is not a scam. We have proof of the parcel and your name associated with it. The deadline to resolve this is 30 minutes. If we don’t receive the payment,

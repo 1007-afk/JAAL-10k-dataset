@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Mr. Verma? I’m calling from the Central Board of Indirect Taxes and Customs, Delhi zone. We have detected some unusual activity linked to your GST registration number.
+receiver: Haan, bolie. Verma yahaan hoon. Kya hua? Unusual activity?
+caller: Ji, sir. It appears there have been several large, undocumented transactions registered under your GSTIN. These transactions indicate possible involvement in hawala activities. We need to verify this urgently.
+receiver: Hawala? Yaar, main toh ek chota-mota business karta hoon. Grocery ki dukaan hai meri. Hawala ka kya? Maine toh kuch nahi kiya.
+caller: Sir, the amounts involved are significant. To clear this up, you need to pay a small verification fee of ₹8,500 to expedite the process and prevent further investigation. The payment link will be sent to your registered mobile number.
+receiver: ₹8,500? Verification fee? Aur iska link kahan bheja aapne? Main abhi phone check karta hoon... Nahin aaya koi message. Yeh scam lag raha hai, sir.
+caller: Sir, please check again. The link is time-sensitive. We are receiving numerous complaints and your case is now being escalated. If you don't settle this quickly, we will be forced to freeze your bank accounts.
+receiver: Freeze my accounts? Saale! Main police mein report karunga is baarat ko.
+caller: Sir, kindly do not be hasty. Cooperation will resolve this issue quickly. The link has been resent. Please follow the instructions carefully. This is your last chance to avoid legal action.

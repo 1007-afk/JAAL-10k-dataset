@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, main Bharat Telecom se bol raha hun. Apke mobile plan ka number 9 mahine ho gaya hai, sahi na? Hum apko premium Samsung aur Xiaomi phones free milenge, aur apki data limit bhi dubara hogi. Apne interest ka confirmation liye, just reply ‘Yes’ agar aapko details sunne ki desire hai, ya phir ‘No’ agar aap yahan se remove karna chahte hain.
+receiver: Namaste. Haan, 9 mahine ho gaye hain plan ka. Free phones? Samsung aur Xiaomi? Wow, yeh interesting hai. Data limit dubara hona bhi acha hai. Main abhi thoda busy hoon, par mujhe details sunne mein interest hai. 'Yes' type kar deta hun, aap mujhe callback kar lein. Dhanyavaad!
+caller: Shubh kaam! Aapne 'Yes' message bheja hai. Hum aapko aaj shahar ke andar 6 PM tak ya kal raat 8 baje tak call karenge, sabhi exciting offers ke saath. Apki data limit do baar hogi aur aap ek premium phone free milayega. Just keep checking your phone! Shukriya!
+receiver: Okay, dhanyavaad. Mujhe kab tak call karne ki guarantee hai?
+caller: Ji haan, aapko aaj raat 7 baje tak ya kal subah 10 baje tak definitely call aa jayegi. Hum try karenge ki aapko maximum details jald se jald de dein. Aabhar aapki patience ke liye!
+receiver: Theek hai, samajh gaya. Raat 7 baje tak ya subah 10 baje tak. Achcha. Dhanyavaad!
+caller: Namaste sir/madam, main Bharat Telecom se bol raha hun, disha speaking. Aapne yesterday send kiya tha 'Yes' message regarding your mobile upgrade. Mein apke liye sabhi premium phones aur doubled data limits ke details ready hai. Aap abhi baat kar sakte hain, ya aapko kuch aur time chahiye?
+receiver: Namaste disha, yaad hai mujhe. Yesterday evening mein aaplogo ne bola tha. Haan, abhi hi baat kar sakta hoon. Batao, kaunse phones available hain?

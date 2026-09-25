@@ -1,0 +1,7 @@
+caller: Namaste sir, main Bharat Bank se bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Sir, security ke vajah se hum aapko phone kar rahe hain. Koi ne aapke account se ₹500 ka transaction karne ki koshish ki hai. Aapne kiya ya nahi?
+receiver: ₹500? Nahi, maine toh kuch nahi kiya. Yeh kaise hua?
+caller: Sir, yeh ek online scam ho sakta hai. Aapko apne account ko secure karne ke liye ek OTP verify karna hoga. OTP main aapka account number aur last 4 digits send kar dunga.
+receiver: Account number aur OTP saath send karna? Yeh theek nahi lag raha hai. Mein khud bank app mein check karta hoon.
+caller: Sir, jaldi karo! System automatic block kar dega aapka account agar aap verify nahi karein. Bas OTP share karo, aur sab theek ho jayega.

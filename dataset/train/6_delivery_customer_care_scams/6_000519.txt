@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma speaking?
+receiver: Haan, bolie. Kaun hai?
+caller: Ji, mera naam Rahul hai, mai Swiggy Customer Care se phone kar raha hoon. Aapki recent order mein kuch problem aa gaya hai, sir. Payment process fail ho gaya hai.
+receiver: Kya problem hai? Maine toh payment kar diya tha.
+caller: Haan sir, system mein error dikh raha hai. Confirm karne ke liye, aapka last 4 digit OTP share kar sakte hain? Tabhi hum process ko re-initiate kar sakte hain.
+receiver: OTP? Swiggy kabhi OTP maangta hai?
+caller: Haan sir, security ke liye. Agar aap OTP share nahi karenge, toh order cancel ho jayega aur aapka ₹850 refund nahi hoga.
+receiver: ₹850? Mein check karta hoon. Ek minute.
+caller: Ji, jaldi karen sir, otherwise order cancel ho jayega.

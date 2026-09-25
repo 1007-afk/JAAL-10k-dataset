@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mein Priya Sharma, LoanHelp24 se baat kar rahi hoon. Aapne apna loan application recent mein submit kiya tha, correct?
+receiver: Haan, ji. Maine kuch din pehle apply kiya tha.
+caller: Ji, sir. Aapki application approve ho gayi hai, lekin pehle humein verification ke liye kuch details chahiye. Aapke bank account mein ek small processing fee deposit hone ki expected hai, ₹2500. Iska purpose verification hai.
+receiver: ₹2500? Loan to ₹50,000 ka tha.
+caller: Ji, sir, yeh standard procedure hai. Agar aap verification complete nahi karte, to aapka loan process halt ho jayega. Aapse request hai ki aap immediate payment kar de. Account number hai [invent a bank account number, e.g., 1234567890].
+receiver: Theek hai, mein transfer karta hoon.
+caller: Dhanyawad, sir. Payment confirm ho gaya?
+receiver: Haan, ho gaya.
+caller: Excellent, sir. Ab, aapko aapke contacts se ek OTP milega. Immediately share karo OTP. Verification urgent hai.

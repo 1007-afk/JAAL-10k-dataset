@@ -1,0 +1,11 @@
+caller: ji haan, maine suna hai ki aapko ek maamooli car ka insurance free mil gaya hai, bas kuch details verify karne hain! Yeh ek amazing offer hai, sirf 10 logon ke liye available hai. Aapko interest hai ya nahi?
+receiver: hain na? free insurance? Car ka?  Arey yaar, yeh toh bahut achcha laga.  Haan ji, interest hai. Mein toh insurance bhuta bhi nahi karta hoon.
+caller: great!  Aapko jitna interest hai, utna hi chance hai ki aap jeet jayenge.  Abhi, please mujhe apna full name bataiye, jaise ki passport mein likha hua hai.  Aur aapke paas koi working WhatsApp number hai?
+receiver: ji haan, mera naam Sanjay Kumar hai.  Aur meri WhatsApp number 9876543210 hai.  Bataiye, abhi kya karna hai?
+caller: excellent, Sanjay ji!  Yeh to bohot sundar hai.  Humein aapke insurance policy ko activate karne ke liye, aapko kuch small verification details submit karne hony wale hain.  Kya aapki age 25 saal se upar hai?
+receiver: ji, main 28 saal ka hoon. Sanjay Kumar naam hai mera, aur WhatsApp number 9876543210 hai.  Bataiye, verification kyon nehi kar rahe hai?
+caller:  very good, Sanjay ji!  Ek choti si question puchhna chahte hain.  Humein aapke bank account ki IFSC code chahiye hogi, yeh sirf insurance claim process mei madad karte hain.  Kucch confusion nahi hona chahiye.
+receiver:  haan, mein samajh raha hoon. Mera IFSC code HDFC0000001 hai.  Bataiye, abhi kya karna hai?
+caller:  fantastic, Sanjay ji!  Bas ek hi step rehta hai.  Aapko ek small screenshot upload karna hoga, jo aapke address proof dikhe.  Apne phone mein screenshot le lo aur humein bhejo.
+receiver:  ji haan, screenshot le li hai.  Bataiye, usko kahaan bhejna hai?
+caller:  usko yahaan pehle mail karein, phir humein confirm karna hoga.

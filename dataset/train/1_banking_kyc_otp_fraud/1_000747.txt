@@ -1,0 +1,16 @@
+caller: Namaste, main Axis Bank se bol raha hoon, Rohan Sharma. Kya aap wahan hain?
+receiver: Haan, bolo. Axis Bank se kya kaam hai?
+caller: Sir, aapke account pe ek small problem aa gaya hai. Humne dekha hai ki aapke account se ek suspicious transaction try kiya gaya tha.
+receiver: Suspicious transaction? Kya transaction tha? Mujhe toh koi notification nahi aaya.
+caller: Sir, woh transaction block ho gaya tha, isliye aapko notification nahi aaya. Par humein aapke account ko secure karne ke liye verification karna padega.
+receiver: Kaise verification karoge?
+caller: Sir, humein aapka Aadhaar number aur account number chahiye hoga, aur phir hum ek OTP bhejenge aapke registered mobile number par.
+receiver: OTP? Bank wale OTP kyun maangenge? Yeh toh risky lag raha hai.
+caller: Sir, yeh toh security ke liye hai. Agar aap OTP nahi denge, toh humein aapka account temporarily block karna padega.
+receiver: Block karoge? Just verification ke liye? Mujhe kuch toh explain karo properly.
+caller: Sir, humein maafi chahiye, par yeh humari policy hai. Woh transaction block kar diya gaya tha, lekin humein confirm karna hai ki woh aapne hi nahi kiya. OTP se confirm ho jayega. Sir, aapke paas sirf do attempts hain.
+receiver: Do attempts? Agar maine sahi OTP nahi dala toh?
+caller: Sir, agar aap sahi OTP nahi daalte, toh humein aapke account ko 24 hours ke liye freeze karna padega.
+receiver: Freeze karoge? Okay, theek hai. Batao, woh OTP kab aayega?
+caller: Sir, bas abhi bhej diya gaya hai. Please, jaldi se share karein. Aur sir, main aapko batana chahta hoon ki agar aapne OTP share kar diya toh humein aapke account ki security check karne mein madad milegi, aur aapka account safe rahega.
+receiver: Theek hai, theek hai. (pause) OTP 123456 hai.

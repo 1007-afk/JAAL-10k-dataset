@@ -1,0 +1,7 @@
+caller: Namaste! This is regarding your QuickCash loan application. We’ve noticed a discrepancy in your verification documents. Please call us immediately on 9812345678 to resolve this. Failure to do so will result in loan cancellation and potential legal action.
+receiver: Hello? What discrepancy? I submitted everything they asked for. Which documents are you talking about?
+caller: Ji, our system flagged a mismatch in your address details. We need to verify this urgently. To avoid further complications, we require a small processing fee of ₹500 as a refundable security deposit. This will confirm your identity and prevent your loan from being blocked.
+receiver: ₹500? Why wasn't I informed about this earlier? I didn’t agree to pay any fees. This feels very suspicious.
+caller: Madam, this is standard procedure for all pending loan applications. We understand your hesitation, but time is running out. If you don’t pay within the next 15 minutes, we’ll have to escalate this to our legal department, and that will involve much higher charges. You can pay using UPI – the details will be sent to you.
+receiver: Wait a minute! Legal department? This is ridiculous. I’m reporting this number. You’re a scammer.
+caller: Madam, don’t be hasty! This is a genuine verification process. We’re only trying to help you secure your loan. If you refuse to cooperate, your account will be permanently suspended. Think about it – you’ll lose the opportunity for instant funds!

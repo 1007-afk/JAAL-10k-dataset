@@ -1,0 +1,9 @@
+caller: Namaste sir, yeh Mumbai Metropolitan Bank ka spokesperson hai. Aapka credit card statement update karne ki zaroorat hai. Covid-19 ke vishesh swabhav se, hum log online update karte hain. Aapka card number aur mobile number jo aapke card se linked hai, please bataiye.
+receiver: Oh, yes sir. Credit card statement update? Kaise karein? Kya mujhe account number aur mobile number lena padta hai?
+caller: Haan, card number, mobile number jo aapke card se connected hai, aur aapka pan card number bhi chahiye. Yeh sab details dikhai dijiye toh hum aapki statement update kar denge.
+receiver: Card number hai 7890123456. Mobile number mera registered hai 8765432190. Pan card number hai 9876543210. Isliye kya karna hoga?
+caller: Haan, yeh details sahi hain. Shukriya. Ab hum aapki statement update kar rahe hain. Aapko ek OTP aayega aapke registered mobile number par. Woh OTP please bataiye taaki hum verification kar sakein.
+receiver: OTP? Haan, phone par dekh sakta hoon. Aaya hai... haan, mila. OTP hai 234567. Bata doon toh ho jayega complete?
+caller: Haan sir, yeh OTP sahi hai. Dhanyavaad aapne madad ki. Aapki credit card statement update ho gayi hai. Aapko koi aur information chahiye kya bank se?
+receiver: Nahin sir, bas is baat ka thank you. Aapne bahut mushkil kaam kiya. Good bye!
+caller: Aapki din mein khushi!

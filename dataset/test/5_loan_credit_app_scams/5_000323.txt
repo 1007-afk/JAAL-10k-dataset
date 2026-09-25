@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? This is Rohan from ‘CreditBoost India.’ We've reviewed your recent online activity and you qualify for a guaranteed loan of ₹75,000! No credit check needed. Just a few quick details to confirm.
+receiver: Haan, main Verma hi hoon. CreditBoost India? Loan? Kitne interest ka hoga?
+caller: Sir, the interest is nominal, just 8% for a six-month repayment period. But, to activate your loan and transfer the funds immediately, we need to verify your bank account. Please share your account number and IFSC code. It's a simple security measure.
+receiver: 8% interest? Aur verification ke liye account number dena hai? Yeh thoda risky lag raha hai…
+caller: Sir, we understand your concern, but this is standard procedure. Think of it as a small investment to secure a significant loan! Also, we need you to pay a one-time processing fee of ₹2,500 to unlock the loan. This is fully refundable.
+receiver: ₹2,500 ka processing fee? Loan bhi ₹75,000 ka, aur processing fee ₹2,500? Main toh confused hoon. Aur refund bhi toh milna hai…
+caller: Sir, this fee ensures your application is prioritized. Without it, it might get delayed. Many people are applying for loans right now.  Also, to proceed, we require a screenshot of your Aadhar card, for validation purposes. Hurry, sir! This offer is only valid for the next hour.

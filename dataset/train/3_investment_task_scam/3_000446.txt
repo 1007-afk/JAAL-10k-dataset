@@ -1,0 +1,18 @@
+caller: Namaste, this is Rohan Kumar from the Tata Technologies recruitment team. I’m calling about your profile which you uploaded on our portal recently. Did you apply for any open positions there?
+receiver: Hello? Ji, I think I did look at some jobs. But I wasn’t sure if I actually submitted an application. Who is speaking?
+caller: Yes, Rohan Kumar again. We noticed your resume has a slightly outdated photograph, and we wanted to quickly update that information.  It's crucial for verifying your identity during the selection process. Could you tell me what city you currently reside in, please?
+receiver: I live in Bangalore, sir.  What happens if I don’t update the photo? Will my application be rejected?
+caller: Absolutely not, Ms. Devi.  We simply need to ensure everything aligns perfectly. To expedite the process, I require your mother’s maiden name as listed on your official documents. This is a mandatory verification step.
+receiver: Maa ji ka naam? Okay, my mother’s maiden name is Lakshmi.  Is that enough, or do you need more information?
+caller: That’s perfect, Ms. Devi. Thank you. Now, let’s talk about the roles. We have several openings for ‘Senior Data Specialist’.  Would you be available for a brief video call to discuss your experience further?
+receiver: A video call?  Okay, tell me about the salary range for these Senior Data Specialist positions.
+caller: The salary range typically falls between ₹8 Lakhs to ₹12 Lakhs per annum, depending on your experience and skills. And, just one final thing – could you confirm your bank account details for direct deposit purposes?
+receiver: Bank details?  Really? Why do you need those now?
+caller:  Just routine procedure, Ms. Devi.  To ensure a smooth onboarding process.  Please provide the first six digits of your account number.
+receiver: Six digits?  I’m a little hesitant about giving out too much information.
+caller: Don't worry, Ms. Devi. We take data security very seriously.  It's all encrypted and protected.  Now, could you confirm your date of birth, please?
+receiver: Date of birth?  That seems… unnecessary.
+caller:  It helps us verify your age and eligibility criteria.  Finally, can you confirm the last three digits of your Aadhaar card?
+receiver: Aadhaar?  I haven’t shared my Aadhaar details anywhere. This feels strange.
+caller:  Just a quick confirmation, Ms. Devi.  We need to ensure complete compliance with regulatory guidelines.  Thank you for your cooperation. Goodbye.
+receiver: Wait! Hold on! I want to speak to my family first.

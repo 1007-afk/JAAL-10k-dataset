@@ -1,0 +1,10 @@
+caller: Hello, good evening. I’m calling from the Directorate of Revenue Intelligence, DRI. We have some concerns regarding a suspicious parcel registered under your name, Mr. Sharma.
+receiver: DRI? Package? Kya baat kar rahe ho? Mein toh koi package nahi bheja.
+caller: Yes, Mr. Sharma. A package containing what appears to be prohibited goods was intercepted at the Mumbai customs. The reference number is DRI/MH/2024/478. We need to verify your involvement.
+receiver: Prohibited goods? Mein toh abhi tak kuch bhi nahi bheja. Yeh fraud hai. Mujhe kuch samajh nahi aa raha.
+caller: Mr. Sharma, to clear this matter and prevent further legal action, you need to deposit ₹12,000 as a processing fee. This will expedite the investigation and ensure the package is released. We can proceed with a video call to verify your identity.
+receiver: ₹12,000? Aur video call? Mein police mein report karunga, yeh scam hai.
+caller: Please understand, Mr. Sharma, resisting will only complicate things. We are just trying to resolve this quickly. Delaying will only lead to more serious charges and higher fines. The video call is simply for security measures.
+receiver: Security measures? Yeh bahut hi shady lag raha hai. Mein abhi ye baat nahi karunga.
+caller: Mr. Sharma, please don’t make this difficult. We are offering you a chance to resolve this peacefully. If you fail to cooperate, we will have no option but to involve the local authorities and initiate a formal investigation.
+receiver: Formal investigation? Okay, wait. Let me just check something… Mujhe thoda time do.

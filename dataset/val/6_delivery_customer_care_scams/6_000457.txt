@@ -1,0 +1,8 @@
+caller: Hello, main Blue Dart Courier se Rahul bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Haan, bilkul. Kya issue hai? Mujhe to koi message nahi aaya.
+caller: Aapko message nahi aaya? Shayad system mein kuch gadbad hai. Parcel ke liye aapko ₹750 ka clearing charge dena padega.
+receiver: ₹750? Clearing charge? Blue Dart aise charge nahi lete. Main verify karna chahta hoon.
+caller: Sir, verify karne ke liye, aapko ek OTP milega, woh mujhe batao. Phir main aapko delivery confirmation number de dunga. Koi chinta mat karo, yeh secure hai.
+receiver: Ek minute rukiyega. Main Blue Dart ke official website par check karta hoon. Yeh kuch toh ghalat lag raha hai.
+caller: Sir, jaldi karo! Parcel abhi cancel ho sakta hai. Yeh offer sirf 10 minute ke liye valid hai. OTP batao, sir!
+receiver: Nahi, main nahi doonga. Aapka number block karta hoon. Yeh scam hai!

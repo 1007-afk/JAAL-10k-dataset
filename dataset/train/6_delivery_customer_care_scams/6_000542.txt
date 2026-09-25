@@ -1,0 +1,9 @@
+caller: Hello, good afternoon! This is Rohan calling from Bluebird Courier Services. We're experiencing a slight issue with a parcel addressed to your name.
+receiver: Oh, really? What's the issue? I was expecting a delivery today.
+caller: Yes, madam. It seems there's a discrepancy in the payment details. The sender, Flipkart, flagged it as potentially fraudulent. To ensure secure delivery, we need to quickly verify some information.
+receiver: Flipkart? Okay, that’s a little worrying. What information do you need?
+caller: Just a quick OTP verification, madam. We'll send a one-time password to your registered mobile number - 9892345678, is that correct?  It’s just a security measure to confirm you’re the rightful recipient.
+receiver: Yes, that’s my number. Send the OTP, please.
+caller: Wonderful! We've sent the OTP. Please share it with me once you receive it and your parcel will be dispatched immediately. We're really sorry for the inconvenience.
+receiver: Just a moment… Okay, I received it. It’s 876543.
+caller: Thank you, madam. Now, for final security, we just need to confirm the last four digits of the card used for the Flipkart purchase. It's standard procedure, I assure you.

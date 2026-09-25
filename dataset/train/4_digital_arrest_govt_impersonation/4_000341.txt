@@ -1,0 +1,8 @@
+caller: Hello, this is Mr. Sharma from the Customs Department. We’ve intercepted a parcel addressed to you containing suspected contraband.
+receiver: Contraband? What? I haven’t sent any parcel. What’s going on?
+caller: Sir, our investigation reveals the parcel originated from an overseas address linked to money laundering activities. You’re being considered a person of interest. To clear this up quickly, we need a small processing fee of ₹8,500.
+receiver: ₹8,500? For a parcel I didn’t even send? This sounds really suspicious. Can you give me a case number or the name of the investigating officer?
+caller: Sir, providing those details over the phone would compromise the ongoing investigation.  We need the fee urgently to verify your cooperation. You can pay via UPI to this number: 9876543210. It's a simple, fast process.
+receiver: Wait a minute.  You’re asking me to pay to *clear* myself from a suspicion? That doesn’t make any sense. I’m going to report this to the Cyber Crime cell immediately. Don't contact me again.
+caller: Sir, are you sure? This is a very serious matter. Ignoring this will lead to further legal complications. ₹8,500 is a small price to pay for avoiding serious trouble.
+receiver: No, I am absolutely sure. This is a clear scam. I'm documenting everything and filing a complaint. Goodbye.

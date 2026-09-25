@@ -1,0 +1,6 @@
+caller: Hello Madam! I’m calling from FreeCharge support. There's been unusual activity on your FreeCharge account. To prevent it from being blocked, we need to quickly verify some details.
+receiver: Oh really? What kind of activity? I haven't done anything unusual.
+caller: Sir, there were several attempts to send money to a new UPI ID. We're blocking the account temporarily to secure your funds. To reactivate it, we just need you to confirm a small OTP. Can you please share it with me?
+receiver: OTP? But I didn’t receive any OTP. And why would FreeCharge need me to share an OTP over the phone? Usually, it comes on my phone.
+caller: Madam, due to the urgency, we're skipping the usual SMS process. This is a security protocol to prevent further fraudulent attempts. It's just a one-time verification. Just share that OTP and we can unblock your account immediately. Otherwise, you’ll lose access to your balance.
+receiver: Wait a minute. That sounds suspicious. I’m not giving you any OTP. I'm going to call FreeCharge’s official customer care myself to check this. Goodbye.

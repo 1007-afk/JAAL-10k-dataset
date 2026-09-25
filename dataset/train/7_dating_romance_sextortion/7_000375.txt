@@ -1,0 +1,6 @@
+caller: Namaste! I have some fantastic news for you. We've detected significant interest in your profile on 'GlamourMatch,' a premium dating platform. A very lovely woman is eager to connect with you and wants to schedule a private video call!
+receiver: Really? Wow, that’s incredible! Who is she? I’m intrigued, but also a little nervous. GlamourMatch, huh? I haven’t heard much about it.
+caller: Her name is Priya, and she's a successful entrepreneur based in London. She admires your work ethic and your charming personality. To ensure the video call is secure and private, GlamourMatch requires a small verification fee. It's just ₹400.
+receiver: ₹400? For a video call? That seems a bit steep, doesn't it? Is this some kind of standard practice on GlamourMatch? I'm just a little wary, you know?
+caller: Absolutely! It's to verify your identity and prevent unwanted interruptions. Think of it as a privacy guarantee. Once verified, you'll receive a secure link to Priya's profile and the details for your private video chat. Just send the ₹400 to the account number I'll provide, and we’ll get you connected immediately.
+receiver: Okay, hold on. You're asking me to send money to an account number before I've even seen a profile? That’s a huge red flag. I think I’m going to pass. I appreciate the offer, but I'm not comfortable with this.

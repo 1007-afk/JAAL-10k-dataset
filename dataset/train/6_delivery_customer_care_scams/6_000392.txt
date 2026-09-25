@@ -1,0 +1,8 @@
+caller: Namaste! Main XYZ Courier se Rohan bolta hoon. Aapke naam se ek parcel aaya hai, address [Invented Address, e.g., 123, Patel Nagar, Delhi]. Lekin parcel mein kuch discrepancy hai, security check ke wajah se.
+receiver: Hello? XYZ Courier? I wasn’t expecting a parcel. What kind of discrepancy?
+caller: Ji, parcel mein kuch documents missing hain, aur ek payment bhi pending hai, ₹2800. Parcel release karne ke liye, aapko ye payment karna padega. Aapko OTP milega, woh mujhe bataiye.
+receiver: Two thousand eight hundred? That’s a lot. What was the item? I don't remember ordering anything that expensive. And why do you need my OTP?
+caller: Beta, parcel mein ek high-end smartphone hai. Aapne Flipkart se order kiya tha, yaad hai kya? OTP sirf confirmation ke liye hai, taki hum parcel aapke naam se release kar saken. Please cooperate, otherwise parcel wapas sender ko jayega.
+receiver: I did order a phone, but not for that much! And I paid directly on Flipkart, not through any other source. Something doesn't feel right.
+caller: Riya ji, please don’t worry. Hamara system Flipkart se linked hai. Security protocol ka part hai. OTP send karo, zyada time na liyega.
+receiver: Okay, hold on. Let me just quickly check my Flipkart account. I'm going to call them back after this.

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? We’re calling from QuickCash Solutions regarding your recent loan application. We’ve pre-approved you for a ₹50,000 instant loan!
+receiver: QuickCash Solutions? I don’t remember applying for a loan. Are you sure you have the right person?
+caller: Absolutely, Madam. Your number is registered with Aadhaar and PAN. It’s a limited-time offer, just for you. To activate, we need a small verification fee of ₹2,500 to process the paperwork.
+receiver: Two thousand five hundred rupees? Just to *activate* the loan? That seems a bit high. What will happen if I don’t pay?
+caller: Madam, this is standard procedure to ensure your identity and prevent fraud. If you don’t pay, we'll have to cancel the loan and, unfortunately, we’ll have to report your details to a debt recovery agency. We also have photos you’ve posted on social media.
+receiver: What photos? That’s ridiculous! I’m hanging up now. This sounds like a scam.
+caller: Wait, Madam! Don't hang up! We can still save this. We’ll reduce the fee to ₹1,500 if you pay now. Otherwise, we'll have to escalate this matter and it could seriously damage your reputation.

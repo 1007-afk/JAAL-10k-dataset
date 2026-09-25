@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Rahul Verma, SecureLoans se baat kar raha hoon. Aapne recently ‘LoanEasy’ app mein loan apply kiya tha, isliye call karta hoon. Verification ke liye kuch details confirm karne hain.
+receiver: Haan, ji. LoanEasy app mein apply kiya tha. Bolo, kya confirm karna hai?
+caller: Ji sir, aapka PAN card number check kar sakte hain? Aur jo mobile number aapne register kiya tha, uske last four digits bataiye verification ke liye. Sirf confirm karne ke liye hai, bahut simple process hai.
+receiver: PAN card number… wait karo, dekhta hoon. Haan, yeh hai ABCDE1234. Aur mobile number ke last four digits… yeh hai 5678.
+caller: Excellent! Thank you sir. Ab aapko apne WhatsApp number pe ek OTP milega. Woh OTP mujhe bataiye, verification complete ho jayega aur aapka loan approve ho jayega.
+receiver: OTP? Okay, wait…  Aaya hai. Yeh hai 987654.  Loan approve ho jayega? Kitne ka approve hoga?
+caller: Ji sir, OTP confirm ho gaya hai! Aapka loan 50,000 rupay ka approve ho gaya hai. Ab, sir, ek small processing fee ke liye 5,000 rupay aapke account mein transfer karne ke liye, ek link bheja jaa raha hai. Tab hi loan release hoga.
+receiver: 5,000 rupay? Processing fee? LoanEasy app mein to kuch bhi mention nahi tha. Itna paisa kyun deni padegi?

@@ -1,0 +1,6 @@
+caller: Hello Sir, this is Rahul calling from Paytm Payments Bank. We have noticed some unusual activity on your Paytm wallet.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, it appears someone tried to make a large transaction from your wallet. To secure your funds, we need you to verify your linked bank account details urgently. Please share your account number and IFSC code.
+receiver: Hold on, why do you need my bank details now? Paytm usually doesn't ask for this over the phone. Is this really Paytm?
+caller: Sir, for security reasons, we need to quickly confirm that your account is still under your control. It's a standard verification process. If you don't cooperate, we might have to temporarily freeze your wallet to prevent further fraud.
+receiver: Freeze my wallet? That sounds suspicious. I'm not comfortable sharing my bank details over the phone. I'll contact Paytm customer support directly through the app. Goodbye.

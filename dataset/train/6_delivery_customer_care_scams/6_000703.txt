@@ -1,0 +1,6 @@
+caller: Namaste sir, mein Amazon customer care se Rahul bol raha hoon. Apke naam par ek order aaya hai, order ID hai AX12345. Lekin payment processing mein ek problem aa raha hai, aur order suspend ho gaya hai.
+receiver: Amazon? Order suspend? Mainey toh koi order nahi kiya tha. Mera naam Rajesh Sharma hai. Yeh kya ho raha hai?
+caller: Sir, system mein dikh raha hai ki aapne ek smart watch order kiya tha. Payment gateway kuch technical issues ki wajah se fail ho gaya, isliye order suspend ho gaya hai. Aapko payment complete karna hai, warna order cancel ho jayega.
+receiver: Smart watch? Mein toh kabhi nahi order kiya. Aur payment complete karna hai? Kaunse payment? Yeh to scam lag raha hai. Aapka naam aur Amazon ka employee ID bataiye.
+caller: Sir, tension mat leiye. Aapko sirf ₹500 ka security deposit dena hai, taki payment gate ko activate kiya ja sake. Aapka credit card number aur expiry date bataiye, main security deposit ko verify kar dunga.
+receiver: ₹500 deposit? Credit card number? Bilkul nahi! Yeh toh bhej raha ho aap. Mein call cut kar raha hoon. Yeh scam hai!

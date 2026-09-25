@@ -1,0 +1,6 @@
+caller: Hi there! I noticed you on 'Heartstrings' - your profile really caught my eye. I'm Aarav, by the way. What are you up to tonight?
+receiver: Hey Aarav! Thanks! It's nice to hear from you. Just relaxing at home after a long week. You?
+caller: Same here, trying to unwind. I'm a photographer, travel a lot for work. Would love to show you some of my pics sometime. But lately, work has been crazy - I’m shooting a project in Maldives next week! It's so beautiful.
+receiver: Maldives! Wow, that sounds amazing. Photography must be a passion then. What kind of photography do you specialize in?
+caller: Exactly! It's my life. I mostly do wildlife and nature, but right now, it’s all about luxury resorts. Listen, things are a bit tight with flights and gear for this Maldives trip. Could you maybe help me out with a small amount - just ₹5,000 to cover a crucial lens upgrade? I’ll pay you back as soon as I get paid for the project.
+receiver: Five thousand rupees? For a lens? That’s a lot to ask someone we just met. I'm not really comfortable with that. I think I’ll pass.

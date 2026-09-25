@@ -1,0 +1,16 @@
+caller: Namaste sir, main Ramesh hoon. Aapka ek important message aaya hai. Kya aapne check kiya voicemail? Is number par call kare: 9876543210. Agar 3 minute ke andar call nahi karte, toh aapki subscription expire ho jaayegi. Aapka name bataiye.
+receiver: Ahaan, expiry ka dar hai. Mein abhi kaam mein hoon. Kya main baad me call kar sakta hun? Mera naam Vikram singh hai. Mujhe bataayein, isme seriously hai kya?
+caller: Nahin sir, name toh zaroori hai. Subscription expire hone ka risk hai. Agar aapko delay karna hai, toh main aapko SMS se notification bhejna shuru karta hoon. Aapka mobile number kya hai?
+receiver: Mobile number meri 87987654321 hai.  Expiry kaise hota hai?  Kab expiry hoga?  Matlab, expiry hone ki time limit kya hai?
+caller: Ji, aapki subscription 30 days ke andar expire ho jaayegi. Unauthorised transactions ke wajah se system ne flag kar diya hai. Verification ke liye aapko is number par call karna hoga. Agar aap 2 minutes mein call nahi karte, toh aapka account freeze ho sakta hai. Just a simple verification, don’t worry.
+receiver: Okay, 30 days. Fine. Thank you for the information and the SMS alert. I will try to call soon.  I hope this is not complicated.
+caller: Koi baat nahin sir. Jaldi kar le, account secure rahega. Agar koi aur question hai, toh mujhe puchho.
+receiver: Hai, aapki madad ke liye dhanyavad. Mein jald se jald call karne ki koshish karunga. Agar koi aur update chahiye toh mujhe bataiye, theek hai?
+caller: Hello? Haan ji, main Sanjay hoon. Aapka ek new voicemail aaya hai. Kya aapne check kiya? Aapko uske liye iss number pe call karna hoga: 09876543211. Agar aap 4 minute ke andar call nahi karte hain, toh aapki membership suspend ho sakta hai. Aapka naam bataiye.
+receiver: Oh, suspension ka dar hai, yaar. Par main abhi office mein hoon. Aap bataiye, kya main baad mein call kar sakta hun? Mera naam Priya Sharma hai. Yeh membership suspend hone wala kya chakkar hai?
+caller: Nahin ji, naam toh zaroori nahi hai abhi. Lekin membership suspend hone ka khatra hai na, isliye keh raha hoon. Agar aap abhi nahi kar sakte, toh chaliye, main aapko reminder bhej deta hoon. Aapka phone number kya hai?
+receiver: Haan ji, reminder bhej dijiye, please. Phone number mera hai 88001234567. Yeh membership suspend kaise hota hai?  Kis karan suspend ho raha hai?
+caller: Ji, aapki membership कुछ suspicious transactions ke wajah se deactivate ho gayi hai, aur isko confirm karne ke liye aapko us number pe call karna padega. Agar aapne 3 minutes mein call nahi kiya, toh woh security reasons se temporarily deactivate ho sakta hai. Bas ek quick verification ke liye hai, aap chinta mat kijiye.
+receiver: Okay, suspicious transactions. Got it. Thanks for explaining, and I appreciate the reminder. I'll try to call that number as soon as I can. Hopefully, it's a quick process. Thanks again!
+caller: Koi baat nahi ji. Bas jaldi kar lijiyega taaki membership safe rahe. Aur kuch poochhna ho toh mujhe bataiye ga, agar ho saka toh help karunga.
+receiver: Bilkul, aapki madad ke liye shukriya. Main koshish karunga ki jald se jald call kar lungi. Agar koi aur detail chahiye ho ya kuch pata chale toh mujhe bataiye, theek hai?

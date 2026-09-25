@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Flipkart se Atul bol raha hoon. Aapke naam par ek order aaya hai, order number FLP789456. Lekin delivery ke dauraan ek problem ho gaya hai. Package damage ho gaya hai.
+receiver: Flipkart se? Kya hua? Damage kahaan ho gaya? Mein order ka intezaar kar raha tha.
+caller: Ji, delivery boy ne kaha ki package barish mein geela ho gaya hai. Isliye, humein ek verification process se guzarna padega. Aapka OTP please?
+receiver: OTP? Kaunse OTP? Flipkart kabhi OTP puchhti hai? Mein confuse hoon.
+caller: Ji, yeh security check hai, Mrs. Sharma. Package aap tak safe pahunche, isliye OTP zaroori hai. Agar OTP nahi denge, toh package return ho jayega. ₹100 ka damage charge bhi lag jayega.
+receiver: ₹100 damage charge? Package return ho jayega? Wait a minute... Mein Flipkart customer care number se check karta hoon. Aap thoda rukiye.
+caller: Aapko jald hi check karna chahiye, Mrs. Sharma. Package return hone se aapko inconvenience hoga. Aapko ₹100 bhi dene padenge. Abhi OTP de dijiye, time waste na karein.

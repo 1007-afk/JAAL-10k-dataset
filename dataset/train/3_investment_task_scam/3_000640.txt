@@ -1,0 +1,8 @@
+caller: Namaste! Sir, mera naam Rahul hai, mai 'TaskPro' se call kar raha hoon. Aapke mobile number ko ek special task opportunity ke liye select kiya gaya hai.
+receiver: TaskPro? Kya hota hai ye? Mai abhi busy hoon, thoda baad call kar sakta hoon?
+caller: Bilkul sir! Ye ek bahut hi simple task hai - aapko sirf kuch videos dekhne aur unke ratings dene hai. Har rating ke ₹50 milenge. Bahut easy hai, aur aap ghar baithe paise kama sakte hain.
+receiver: ₹50 per rating? Kitne videos dekhne ke honge? Aur KYC check toh nahi hai na?
+caller: Sir, koi KYC nahi hai. Bas register karne ke liye ₹100 ka verification fee dena hoga. Ye process complete hone ke baad aapko unlimited videos milenge. Fees back aapko rating karne ke baad mil jayega.
+receiver: ₹100 verification fee? Aur phir rating karne par ₹50? Thoda zyada lag raha hai.
+caller: Sir, is offer mein ₹100 verification fee ek small investment hai, jo aapko unlimited opportunities dega. Abhi register karein aur unlimited paise kamaen!  Apne bank details de dijiye, main register kar dunga.
+receiver: Wait, mujhe sochte hun.

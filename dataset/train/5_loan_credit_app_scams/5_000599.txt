@@ -1,0 +1,8 @@
+caller: Namaste, sir? My name is Rohan from QuickLoan India. I’m calling about your recent loan application. We've almost processed it, just need a quick verification.
+receiver: Oh, really? That’s good news. I applied, yes. What’s the verification process?
+caller: Very simple, sir. To prevent fraud, we need to confirm your account details. Could you please share the last four digits of your bank account number? Just for security, you understand.
+receiver: Okay, it's 4578. Is that alright?
+caller: Excellent. And sir, a small processing fee is required upfront, ₹5,000. We’ll deduct it from your loan amount later. It’s standard policy, you see. Can you transfer that to the UPI ID I'll share?
+receiver: ₹5,000? That seems like a lot for a processing fee! The loan was only for ₹20,000.
+caller: Sir, rules are rules. If you don't pay this now, we’ll have to cancel your application and report you for suspicious activity. We have your details, sir. We know where you live. Do you want us to send your contacts some… compromising photos we found online?
+receiver: What? No! That’s blackmail! I’m hanging up.

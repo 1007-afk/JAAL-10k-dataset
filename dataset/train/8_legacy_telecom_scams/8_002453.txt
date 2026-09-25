@@ -1,0 +1,8 @@
+caller: Hello sir, main Jio customer care se bol raha hoon. Aapke phone mein jo SIM hai, woh 23 ghante mein deactivate ho jayegi. Kya aap usse activate karna chahte hain?
+receiver: Hello, achha? Main toh Jio use kar raha tha, par abhi toh koi message ya alert nahi aaya hai. Aap kis number ki baat kar rahe hain?
+caller: Sir, aapke number pe jo alert aata hai wo kabhi kabhi miss ho jata hai. Don't worry, main aapka SIM activate kar dunga. Lekin uske liye mujhe kuch details chahiye hongi. Aapka registered mobile number bataiye jismein SIM hai.
+receiver: Haan, mera registered mobile number hai 98xxxxxxxx. Aap bataiye kya details chahiye?
+caller: Sir, thank you for confirming. Ab mujhe aapka SIM number batana hoga taki main verify kar sakoon. Aap apna SIM number bata sakte hain?
+receiver: SIM number? Aap woh kaunsa SIM number bol rahe hain? Mera toh ek hi Jio number hai. Mujhe samajh nahi aa raha aap kya maang rahe hain.
+caller: Sir, woh jo aapke phone mein SIM card laga hua hai na, uske upar likha hota hai. Ek 20 digit ka number hota hai. Vo bataiye please, taaki main aapki SIM ko properly verify kar sakoon aur activate kar sakoon.
+receiver: Arey yaar, woh SIM number toh maine kabhi notice hi nahi kiya. Phone ke box mein hoga shayad, but abhi toh woh mere paas hai nahi. Kuch aur tarika nahi hai verify karne ka? Jaise ki mera Aadhar ya kuch aur?

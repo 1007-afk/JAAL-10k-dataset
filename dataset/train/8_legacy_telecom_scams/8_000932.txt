@@ -1,0 +1,10 @@
+caller: Namaste! Namaste! Suno, maine aapke liye ek sundar khabar di hai! Aap Bharat Telecom ke ek mahobat customer bane hue hain aur aapko ek badi sari ₹5000 ka prize mila hai! Kya baat hai na? Agar aap yahaan par call karte hain, toh aapko yeh prize milega.  Just dial 88001234567.  Ye lottery ka koi bhi shuruwat nahi hai, sirf Bharat Telecom ke vipul customers ke liye!
+receiver: Namaste!  ₹5000? Bharat Telecom?  Yeh toh bahut achcha khabar hai!  Aapne kaha, 8800123456 pe call karna hai prize claim karne ke liye?  Mujhe samajh mein nahin aa raha hai yeh kaise ho sakta hai, lekin main try karunga.
+caller:  “Haanji, aapko ek OTP chahiye hoga.  OTP aapko SMS ke zariye bheja jayega.  Is OTP ko 8800123456 par enter karein.  Phir hamari team aapko prize transfer karne ke liye guide karegi.  Sirf 3 log hain jo yeh prize jeet sakte hain, so jaldi kijiye!”
+receiver:  OTP? SMS?  Aise lag raha hai jaise kisi ne kuchh plan kiya hai.  Theek hai, main try karunga.  Aapne kaha, OTP SMS ke zariye bheja jayega?  Okay, main check karunga.
+caller: “Haanji, OTP 15 minutes mein bheja diya jayega.  Aapko kitna time mil raha hai?  Agar OTP expire ho gaya, toh aapko phir se apply karna padega.  Yeh offer sirf aaj raat ke 10 baje tak chal raha hai!  Number is 8800123456.”
+receiver:  15 minutes?  Raat 10 baje?  Yeh bahut hurry bana rahe hain!  Okay, main check karunga.  Aapne kaha, sirf Bharat Telecom ke vipul customers ke liye hai?  Haanji, woh sahi hai.  Thank you!
+caller: "Bilkul! Aur OTP receive karne ke baad, aapko apne bank account ki details provide karne hogi.  Aapko 100 rupees charge hona paisa bhi ho sakta hai.  Abhi tak 2 log aur hain jinhe yeh prize mil sakta hai.  So, call quickly on 8800123456. Don’t miss out!"
+receiver:  Bank account details?  ₹100 charge?  Yeh toh bahut dubara hai!  Main abhi call band kar dunga.  Thank you anyway.
+caller: “Chaliye, dil se mat karein! Yeh aapko ek badi sari gift hai!  Agar aap call nahi karte, toh aapko yeh prize mili nahi sakta.  Last chance! Number is 8800123456.”
+receiver:  (Hangs up)

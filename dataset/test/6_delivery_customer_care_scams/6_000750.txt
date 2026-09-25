@@ -1,0 +1,8 @@
+caller: Namaste, sir! I'm calling from BlueDart Courier. We have a package addressed to you, but there’s a slight issue with the delivery address. It needs urgent verification.
+receiver: Oh, really? What’s the issue? I was expecting something.
+caller: Sir, the system flagged a discrepancy. It appears there’s an unpaid shipping fee of ₹285 attached to the package. We need to clear this before it can be released.
+receiver: ₹285? That's odd. I thought I paid online when I placed the order. Can you tell me the order number or tracking ID?
+caller: Absolutely, sir. To pull up your details, could you please share the last four digits of your bank account? It's just a security measure, sir. We need to make sure we’re speaking to the correct account holder.
+receiver: Wait a minute. That's strange. Why do you need my bank details to verify a shipping fee? Shouldn’t I be able to pay through something like Google Pay or UPI? And what was I ordering, anyway?
+caller: Sir, it’s a standard procedure. The system requires bank verification for these urgent payments. The package is a high-value electronics item. We're trying to prevent fraudulent activities. Please provide the last four digits of your account, sir, or we’ll have to return the package to the sender.
+receiver: That sounds fishy. I’m not comfortable giving out my bank details over the phone, especially for a shipping fee. I’ll check my order details directly on the seller’s website and call BlueDart directly using a number from their official website. Goodbye.

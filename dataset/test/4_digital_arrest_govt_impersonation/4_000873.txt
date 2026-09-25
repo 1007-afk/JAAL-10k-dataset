@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma?
+receiver: Haan, bolhiye. Kaun hai?
+caller: Ji, main Inspector Rajan, Mumbai Customs se bol raha hoon. Aapse ek urgent matter par baat karne ki zaroorat hai. Aapke naam par ek parcel aaya hai, mein illegal items mila hai.
+receiver: Illegal items? Mera naam? Yeh kya keh rahe hain aap? Mein toh kabhi parcel order nahi kiya.
+caller: Haan sir, parcel mein narcotics substances mila hai. Yeh matter bahut serious hai aur aapko court mein ghaseeda ja sakta hai. Case settle karne ke liye, aapko ₹50,000 ka fine bharana padega. Abhi video call pe aaiye, varna main warrant issue kar dunga.
+receiver: ₹50,000? Warrant? Yeh sab pakad hai! Mein police station jaaunga aur complaint karunga.
+caller: Sir, aapko police station jaane ki zaroorat nahi hai. Main aapko video call pe connect karunga, tab aapko process ke baare mein samjhaya jaaega. Ismein bas ₹50,000 ka fine bhar den, aur sab ho jaayega.
+receiver: Nahin, main koi video call nahi karunga aur na hi koi paisa den. Aapko meri police ke paas jaa kar jaana chahiye.
+caller: Sir, time bahut kam hai. Agar aapne abhi fine nahi bhara, toh main arrest warrant issue kar dunga aur aapko jail bhi jaana pad sakta hai. Please cooperate.

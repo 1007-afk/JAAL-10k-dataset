@@ -1,0 +1,9 @@
+caller: Namaste! Hello, can you hear me properly? Good, good. Listen, I’m calling from the Airtel Platinum Loyalty Program. We’ve noticed your mobile number, ending in 7391, has won you a whopping ₹5000 prize! Believe it or not, it's completely free! All you need to do is dial 08800-800-8000 immediately. Just a simple verification call, and the money will transfer directly into your account. So, that's 08800-800-8000. Don't delay, this offer is valid only for today!
+receiver: Namaste! Haan, sunta hoon. Airtel Platinum Loyalty Program? ₹5000 prize? Seriously?  Mujhe kya karna hai?  Dial 08800-800-8000?  Okay, main abhi call karta hoon.
+caller: Exactly! Just a quick confirmation, that’s 08800-800-8000. And please provide your full name and mother’s maiden name when prompted. This is essential for processing your winnings.  Koi confusion na kare, yeh totally legitimate hai.
+receiver: Okay, okay.  Mein apni naam bhi deta hoon, Rahul Sharma.  Aur maa ki samne ka naam bhi bataunga.  Aapke number par trust hai?
+caller: Absolutely!  We're a trusted organization.  Just confirm those details, Rahul.  And then we’ll send you an SMS with instructions on how to receive your ₹5000.  Bahut dhanyavad aapki!
+receiver:  Okay, fine.  Main abhi call karta hoon. Thank you.
+caller:  Excellent!  Remember, 08800-800-8000.  Enjoy your ₹5000, Rahul!  Have a wonderful day!
+receiver:  Thank you!  Bye!
+caller:  "Namaste! Hello, can you hear me properly? Good, good. Listen, I’m calling from the Airtel Platinum Loyalty Program. We’ve noticed your mobile number, ending in 7391, has won you a whopping ₹5000 prize! Believe it or not, it's completely free! All you need to do is dial 08800-800-8000 immediately. Just a simple verification call, and the money will transfer directly into your account. So, that's 08800-800-8000. Don't delay, this offer is valid only for today!"

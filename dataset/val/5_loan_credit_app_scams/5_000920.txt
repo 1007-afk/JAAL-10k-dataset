@@ -1,0 +1,8 @@
+caller: Namaste! My name is Raj, calling from QuickCash Solutions. I understand you might be needing some quick funds for urgent expenses? We're offering instant personal loans with very easy terms. Just a few questions to see if you qualify.
+receiver: Hello, yes, I am facing some unexpected medical bills. How much can I borrow?
+caller: Fantastic! We can certainly help. You could qualify for up to ₹75,000! Very simple process, just need your Aadhaar card and a recent bank statement.  Our helpline is 9876543210, we’re available 24/7.
+receiver: Okay, that sounds good. What are the interest rates and repayment terms?
+caller: The interest is minimal, just a small processing fee. Let's say you borrow ₹50,000, the repayment is ₹65,000 within 3 months. Very manageable, right?  We'll send you a simple agreement. Number again is 9876543210, for any clarification.
+receiver: ₹65,000? That seems a bit high. Can we negotiate the repayment amount?
+caller: Look, we’re helping you out in a crisis! If you don't accept now, the offer vanishes. Also, if you don’t pay on time, we will have to take strict action – and that may involve informing your family and sharing your personal details to put pressure on you. Don't delay, call 9876543210 now.
+receiver: I think I need to think about it.

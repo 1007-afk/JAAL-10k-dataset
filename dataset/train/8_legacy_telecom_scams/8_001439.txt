@@ -1,0 +1,8 @@
+caller: Hello? Hello, do you hear me properly?  Aapko meri awaaz chal rahi hai na? Listen, I was calling because you’ve been selected as one of our valued customers and you qualify for a chance to win a 50GB data pack giveaway.  Just type ‘YES’ back to us.  Are you ready to participate?  Bas ‘YES’ likh dena hai.
+receiver: Oh, hi! Yes, I am hearing you clearly. A 50GB data pack, you say?  That does sound quite good.  ‘YES’ to send, right? Okay, I’ll try to type ‘YES’. Thank you for informing me!
+caller: Wonderful! So glad to hear that, Madam/Sir.  And just a heads up, there are only 5 slots remaining for this exciting giveaway!  Can I quickly verify this number – is this [Invented Name, e.g., Ms. Devi’s] mobile number?  For accurate record keeping, you see.
+receiver: Yes, this is [invented name, e.g., Priya Singh]'s number.  And five slots left?  Okay, that's helpful to know.  Thank you for confirming!
+caller: Excellent, Ms. Priya Singh! Your entry has been successfully recorded. You now have only 4 slots remaining, so act fast! Would you like to refer any friends or family members to take advantage of this incredible opportunity? They could also benefit!
+receiver: Oh, really? Only four slots left now?  Interesting…  I might tell my brother, but I'm a little busy right now. Let me consider it and get back to you if I decide.  Thanks for the update!
+caller: Absolutely! No worries, Ms. Priya Singh! Just a reminder, you only have 3 slots remaining for this 50GB data pack giveaway. Don’t delay your decision! If you have any questions or need further clarification, please don’t hesitate to ask.
+receiver: Three slots? Alright, alright.  Thank you for the reminder.  No questions for now, I’ll think about it.  Let's see what unfolds.

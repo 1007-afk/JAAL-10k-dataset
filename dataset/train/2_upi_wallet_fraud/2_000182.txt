@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Verma? This is Rohan speaking from FreeCharge Customer Care.
+receiver: Haan, main Priya Verma hun. Kya baat hai?
+caller: We've noticed a small transaction of ₹200 from your FreeCharge wallet to an unknown UPI ID. It seems like it might be a phishing attempt. We need to verify your identity urgently to secure your funds. Can you confirm the last four digits of your registered mobile number?
+receiver: ₹200? Main toh koi transaction nahi kiya. Aur mera phone number… woh 87654 main…
+caller: Excellent, Mrs. Verma! Just a quick security measure. Now, to complete the verification, we need you to visit a verification link I'll send you via SMS. It’s a one-time process. Please do not share this link with anyone.
+receiver: SMS? Kahan bhejooge link? Aur ₹200 ka transaction? Mujhe koi transaction yaad nahi.
+caller: We're sending it to your registered number ending in 87654. Click on the link and enter the OTP you receive. This is crucial, Mrs. Verma, to prevent further unauthorized transactions and protect your wallet balance. The link is: bit.ly/freecharge-verify
+receiver: Bit.ly wala link? Yeh to suspicious lagta hai! Main koi OTP nahi dunga. FreeCharge ka genuine link toh FreeCharge app mein hi hota hai.
+caller: Mrs. Verma, this is a priority verification. Due to increased security breaches, we've implemented this new method to ensure the safety of our customers. Do not delay – your funds are at risk. Please enter the OTP now, it’s a simple process.

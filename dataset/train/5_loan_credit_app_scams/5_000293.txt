@@ -1,0 +1,7 @@
+caller: Hello? Is this Rohan Verma? I'm calling from 'SwiftCash Loans'. We've pre-approved you for a loan of ₹75,000! Fantastic news! Just a few quick details to confirm, and the money will be in your account within the hour. Can you confirm your date of birth?
+receiver: Haan, main Rohan Verma hi hoon. ₹75,000? Bilkul? Bataiye kya details chahiye. Date of birth... 15th August, 1992.
+caller: Excellent, Rohan ji! Everything’s looking good so far. Now, to activate your loan and ensure complete security, we need you to pay a small processing fee of ₹2,500. This is a standard procedure. You can pay it through UPI to this number: 9876543210.
+receiver: ₹2,500? Processing fee? Lekin... aapne toh bola tha loan free hai!
+caller: Rohan ji, rules change sometimes. It’s a security measure to prevent fraud. Think of it as an insurance policy against scammers. It's very important to do this otherwise your loan application will be rejected. Very few people qualify.
+receiver: Okay, okay... ₹2,500. UPI pe send kar doon.
+caller: Wonderful! Send it quickly, Rohan ji. As soon as it reflects, we'll release the ₹75,000. Just be aware, unfortunately, due to an unexpected surge in loan requests, we now require a small 'activation bonus' of another ₹3,000 before disbursement.

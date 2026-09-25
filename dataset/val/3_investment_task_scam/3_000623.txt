@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vikram hai. Tumhara naam kya hai? Main ek achha investment opportunity lekar aaya hoon, sirf selected logon ke liye.
+receiver: Hi Vikram, mera naam Anjali hai. Investment opportunity? Bataiye kya hai?
+caller: Anjali, yeh ek new cryptocurrency trading platform hai – 'GlobalRise'. Abhi early stage mein hai, toh profits bahut zyada ho sakte hain.  Sirf ₹5000 invest karke ₹25,000 tak kama sakte ho! 
+receiver: ₹25,000 sirf ₹5000 se? It's too good to be true, na?  Koi risk toh hoga hi?
+caller: Bilkul nahi!  GlobalRise ek AI-powered platform hai, jo automatic trading karta hai.  Koi risk nahi, sirf profits! Aapko bas apna bank details dene hai, verification ke liye.
+receiver: Bank details?  Aur kya-kya details chahiye?  Kya koi fees bhi hai?
+caller: Haanji, verification ke liye ₹500 processing fees lagte hain. Aur bank account number, IFSC code, aur PAN card ka screenshot.  Yeh sab kuch completely secure hai, Anjali.
+receiver: Okay, ₹500 processing fees.  Chalo, fine.  Main form fill kar rahi hoon.
+caller: Excellent! Aapko ek email milega, usmein link hai. Jaldi karo, limited spots hai – sirf 3 bache hain! GlobalRise mein shamil ho jaiye!

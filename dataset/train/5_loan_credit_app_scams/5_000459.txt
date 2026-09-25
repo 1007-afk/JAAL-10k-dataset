@@ -1,0 +1,6 @@
+caller: Hello, this is Rohan from 'SwiftCash Loans'. We've pre-approved you for a loan of ₹50,000. Very easy process, just need a few details to verify.
+receiver: SwiftCash Loans? I don’t think I applied for any loan. Are you sure you have the right number?
+caller: Yes, madam. Your Aadhaar is linked. Just confirm your PAN number and mother’s maiden name for security purposes. This is just a standard procedure. Once verified, the loan will be credited to your account within 15 minutes.
+receiver: Wait a minute. This sounds fishy. Why are you asking for my PAN and mother’s name over the phone? A legitimate lender wouldn't do that. I’m going to hang up.
+caller: Madam, please don't hang up! This is a time-sensitive offer. If you disconnect now, the approval will be cancelled. We’ll also have to register a complaint against you for attempting to defraud the company. And we have your contacts – we can send morphed photos to your family if you don't cooperate. ₹750 is needed for processing fees.
+receiver: Morphed photos? That’s a threat! This is clearly a scam. I’m reporting this number to the police. You are a criminal. I'm blocking you now.

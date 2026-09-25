@@ -1,0 +1,6 @@
+caller: Namaste, mai Paytm se Rahul bol raha hoon. Aapke account mein ek transaction fail hua hai, ₹5000 ka.
+receiver: Oh, really? Transaction fail hua? Mujhe toh koi notification nahi aaya. Transaction ID kya hai?
+caller: Haan sir, system mein dikh raha hai. Transaction ID hai TXN-7890123. Fail hone ka reason technical error hai. Aapko ₹5000 refund milna chahiye, lekin refund process start karne ke liye ek small verification fee bharne hogi.
+receiver: Verification fee? Kitni fee hai? Aur Paytm toh refund automatically karta hai, na?
+caller: Sir, technical error hone ki wajah se manual process start karna padega. Verification fee sirf ₹200 hai. Aapko ek UPI link de dunga, wahaan pay kardo. Paytm.com/verify/200.
+receiver: ₹200? Woh link bhi toh suspicious lag raha hai. Main Paytm app se check karta hoon. Acha, yeh link toh fake hai! Aap fraudster hain!

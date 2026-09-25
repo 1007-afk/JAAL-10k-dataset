@@ -1,0 +1,6 @@
+caller: Namaste, main Customs Department se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items paye gaye hain.
+receiver: Kya? Illegal items? Mera parcel? Main toh kuch order nahi kiya tha.
+caller: Ji, parcel Mumbai se aaya hai aur usmein electronic components paye gaye hain jo drug trafficking mein use kiye jaa sakte hain. Aapko is case mein involve kiya jaa raha hai.
+receiver: Yeh galat hai! Main drug trafficking se involved nahi hoon. Aapko proof dikhana hoga. Aur aapka naam Rohan Verma hai? Konse department se bol rahe hain?
+caller: Proof main aapko email se bhej raha hoon. Please check your email. Aur mera ID number 784921 hai. Agar aap cooperate karenge toh case ko settle kar sakte hain. Isko settle karne ke liye ₹80000 lagenge.
+receiver: ₹80000? Yeh bohot zyada hai! Main koi payment nahi karunga. Main police mein complaint karunga. Aap dono ko pakadwa lunga. Yeh ek scam hai.

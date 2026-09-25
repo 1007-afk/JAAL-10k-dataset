@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul? We’ve noticed some unusual activity on your SecureCash loan account. It appears someone may have attempted to access it.
+receiver: SecureCash? I don’t think I have an account with SecureCash. I’ve never applied for a loan there.
+caller: Sir, please don’t be confused. Our records show you applied for a ₹15,000 loan on the 12th. To verify your identity and secure your account, we need to confirm a few details. Just a small OTP verification process.
+receiver: Wait a minute. This is very strange. I definitely didn't apply for any loan. And why would you call me instead of sending a text or email? This feels like a scam.
+caller: Sir, this is a matter of security. We’re trying to prevent your personal information from being compromised. If you haven't applied, someone might be using your identity. Give me the OTP that just came to your phone so we can block the suspicious activity. It’s very important, sir.
+receiver: Absolutely not. I'm hanging up now. You're clearly trying to scam me. I'm reporting this number.
+caller: Sir, please! If you don’t provide the OTP, we will have to freeze your account permanently and file a fraud report. This will affect your credit score! Just the OTP, sir. One minute.

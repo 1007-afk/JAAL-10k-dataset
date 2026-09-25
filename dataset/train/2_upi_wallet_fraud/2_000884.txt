@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I’m calling from FreePay Rewards. We’ve noticed you’re eligible for a ₹5,000 cashback bonus for being a loyal user.
+receiver: Really? That's great! I do use FreePay quite a bit. How do I claim it?
+caller: Wonderful! To activate the bonus, we need to quickly verify your account. It’s a one-time process. Could you please share the last four digits of your bank account number linked to your FreePay wallet?
+receiver: My bank account number? Is that really necessary? Doesn't seem very secure.
+caller: Absolutely necessary, Madam. It’s just a security check. Without it, we can't process the ₹5,000 cashback. We need to confirm it’s your legitimate account. It’s a standard procedure. Just the last four digits, please? Time is running out; the offer expires in 2 hours.
+receiver: Okay, fine. It’s 1234.
+caller: Thank you! Now, for final verification, please open your FreePay app and quickly transfer ₹50 to my temporary verification wallet – the UPI ID is free.pay.verify. This is just to ensure your account is active.
+receiver: ₹50? Why do I have to send money to verify a cashback? That doesn't make sense!
+caller: Madam, it’s a very small fee to activate the bonus and prevent fraudulent claims. It is completely refundable along with your ₹5000 once the verification is complete. Please do this urgently!

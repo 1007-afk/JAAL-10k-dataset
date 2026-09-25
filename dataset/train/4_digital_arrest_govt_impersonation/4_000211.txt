@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Sharma? My name is Rajesh Kumar, calling from the Central Board of Indirect Taxes and Customs. We've detected some suspicious activity related to a parcel registered under your name.
+receiver: Parcel? Maine toh koi parcel nahi order kiya hai. Yeh kya ho raha hai?
+caller: Sir, according to our records, a package containing prohibited items has been intercepted at the Mumbai customs. It seems your address is listed as the recipient. This is a serious matter, sir.
+receiver: Prohibited items? Mein toh kuch bhi illegal nahi hai. Kon se items? Mujhe yeh batao.
+caller: Sir, to clear this up and prevent legal action, we need a small fee for inspection and processing. Just ₹7,500. We can process it immediately if you transfer the amount to this account.
+receiver: ₹7,500? Inspection ke paise? Yeh kitna zyada hai! Main police se report karunga agar yeh scam hai.
+caller: Sir, please understand, this is to ensure your cooperation and prevent further complications. We'll need you to share your bank account details for the transaction. This is for security verification purposes only.
+receiver: Bank account details? Bahut hi suspect hai. Mein phone kaat raha hoon.

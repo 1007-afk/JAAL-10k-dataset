@@ -1,0 +1,7 @@
+caller: Namaste! My name is Ankit Verma from 'QuickCash Solutions'. I’m calling regarding your recent loan application. We've pre-approved you for a loan of Rs. 50,000! Just need to confirm a few details quickly.
+receiver: QuickCash Solutions? I don't remember applying for any loan.
+caller: Sir, don't worry. It was an online application, very common these days. Just need to verify your address and a small processing fee of Rs. 2,500. This is to activate your loan account. Can you confirm your current address?
+receiver: Two thousand five hundred just to activate the loan? That seems… excessive. And I really don’t recall applying online.
+caller: Sir, this is standard procedure. We need to secure the loan and prevent fraud. If you refuse, we'll have to cancel the pre-approval. Furthermore, we have a record showing you’ve been contacting women inappropriately, and we’ll share this with your family and friends if you don’t cooperate. Pay the fee, and we’ll forget about the other matter.
+receiver: What? That’s a complete lie! I’ve done nothing of the sort. You’re threatening me! I’m reporting this number.
+caller: Sir, don’t be foolish. We have proof, screenshots. Pay the Rs. 2,500 now through UPI to this number: 9876543210. Do it quickly, or we start the process of informing your contacts immediately. Think about your reputation!

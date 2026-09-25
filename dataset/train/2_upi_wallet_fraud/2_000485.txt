@@ -1,0 +1,6 @@
+caller: Namaste Aunty, PhonePe se bol raha hu. Aapke PhonePe wallet mein 5000 rupay ka cashback offer hai, government scheme ke under.
+receiver: Oh, really? PhonePe? Main toh PhonePe kaafi use karti hu. 5000 rupay? Kuch details batao?
+caller: Haan Aunty, ek small processing fee bhar deni hai, sirf 299 rupay. Phir cashback aapke wallet mein deposit ho jayega. Yeh offer sirf aaj ke liye hai.
+receiver: 299 rupay? Processing fee? Maine toh PhonePe par kabhi koi processing fee nahi paid ki. Yeh sahi hai na?
+caller: Haan Aunty, bilkul sahi hai. Scam nahi hai, government ki taraf se offer hai. Jaldi karo, offer expire hone wali hai. Payment karne ke liye is link pe click karo: http://secure-phonepe-offer.com
+receiver: Wait a minute, yeh link toh mujhe zyada correct nahi lag raha. PhonePe ka official website toh alag hoti hai. Main verify kar lungi.

@@ -1,0 +1,6 @@
+caller: Namaste, Main Indian Customs Department se Rohit bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin parcel mein illegal items paye gaye hain.
+receiver: Illegal items? Kya? Mera naam? Yeh kya bol rahe hain aap? Main toh kuch bhi order nahi kiya tha.
+caller: Ji, sir. Parcel mein suspicious substances paye gaye hain. Isliye aapko parcel release karne se pehle, humein kuch details verify karni hogi. Aapka bank account number bataiye taaki hum parcel ke fine ka payment kar saken.
+receiver: Bank account number? Sir, yeh toh theek nahi lag raha hai. Customs department bank account number phone pe poochti hai? Aise fraud calls bhi hote hain.
+caller: Sir, yeh process compulsory hai. Illegal items ke case mein, fine ka payment ke bina parcel nahi release hoga. Aapka bank account number bataiye, main aapko payment receipt number bhi de dunga. Jaldi kijiye, sir, warehouse mein parcel hold karna hai.
+receiver: Receipt number? Aur yeh parcel ka details bataiye, kaha se aaya hai, kiska naam hai sender ka? Mujhe kuch details toh dijiye, tabhi main account number bataunga. Yeh thoda suspicious lag raha hai.

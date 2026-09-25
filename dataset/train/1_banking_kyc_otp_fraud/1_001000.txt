@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank se Rahul bol raha hoon. Aapke account mein ek suspicious transaction ki report aayi hai. ₹12,000 ka payment hone wala hai, lekin details sahi nahi lag rahi hain. Aapki security ke liye, mujhe aapke account details verify karne ki zaroorat hai.
+receiver: ICICI Bank? Main toh koi transaction approve nahi kiya hai. Aur mujhe koi message bhi nahi aaya hai.
+caller: Haan, sir. System mein dikh raha hai. Chalte chalte hone ki possibility hai. Isliye, aapko apne PAN card number aur ek OTP dena hoga jo aapke registered mobile number par aaega. Ye sirf verification ke liye hai, sir.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai. ICICI Bank toh aise nahi puchega.
+caller: Sir, security protocol hai yeh. Koi doubt mat karna. Agar aap details nahi denge, toh transaction block ho jayega aur aapka account suspend bhi ho sakta hai. Aapka loss bhi ho sakta hai. Abhi jaldi se details share karein. OTP milte hi share karein.
+receiver: Account suspend? Theek hai, theek hai. OTP check karta hoon… mujhe OTP mila hai, 458721 hai. Lekin PAN card number nahi dena chahunga. Aap ek email bhejo jahan main yeh details send kar sakta hoon.
+caller: Sir, email mein time lagega. Account suspend hone se pehle aapko jaldi se dena padega. Aapka account risky situation mein hai. Aage ki verification ke liye, mujhe aapke bank account ke last four digits bhi chahiye.

@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from SecurePay. We've detected some unusual activity on your account and need to verify your details to prevent potential fraud. Can you confirm your registered mobile number, please?
+receiver: SecurePay? Which bank are you associated with? I don’t recall using SecurePay. And why are you calling about unusual activity?
+caller: It's a payment gateway, sir, linked to many banks. The unusual activity is a failed login attempt. We just need to verify a few details. Can you please share the last four digits of your Aadhaar card for confirmation? It’s a security measure.
+receiver: Aadhaar details? Over the phone? That’s not right, is it? I thought banks are supposed to be very careful about that.
+caller: Sir, this is a priority. If we don't verify this quickly, your account could be temporarily suspended due to the security risk. Just the last four digits will suffice. We need to act fast.
+receiver: Suspended? Okay, hold on. Let me just check something on the SecurePay website first. Give me a moment. I'm going to search for your official contact number and call you back.
+caller: Sir, time is of the essence. Every minute increases the risk of unauthorized access. Please provide the details now to avoid disruption of your services.

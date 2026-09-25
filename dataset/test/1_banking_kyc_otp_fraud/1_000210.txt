@@ -1,0 +1,8 @@
+caller: Namaste sir, yeh aapka HDFC bank ka branch manager hai. Aapka digital transaction verification expire ho gaya hai. Covid karnyaviro ki wajah se, hum digital transactions abhi online hi karte hain. Mujhe apne account details chahiye.
+receiver: Namaste! Branch manager? Digital transaction expire? Theek hai, samajh mein aa raha hai. Kya account details chahiye? Mera account number ya koi aur information?
+caller: Ji sir, pehle aap apna account number bata dijiye. Phir hum aapko bata denge ki kitne aur details chahiye.
+receiver: Haanji, mera account number hai [account number yahaan daalen]. Aur please bataiye ki yeh kaise karna hai?
+caller: Ji sir, thank you. Ab aapka registered mobile number bataiye jo HDFC bank mein link hai.
+receiver: Haanji, mera registered mobile number hai [apna mobile number yahaan daalen]. Kya ab pata chalega?
+caller: Ji sir, thank you. Ab aapko ek OTP send kiya gaya hai aapke registered mobile number pe. Woh OTP mujhe bataiye taaki hum verification complete kar sakein.  Please jaldi bataiye, yeh OTP sirf 60 second ke liye valid hai.
+receiver: OTP? Okay, ek minute. Main check karta hoon. Yes, I have it. It’s [OTP yahaan daalen]. Hopefully this is correct.

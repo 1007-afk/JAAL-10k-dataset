@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I’m calling from PhonePe customer support. We’ve noticed some unusual activity on your account.
+receiver: Haan, mein Priya Verma bol rahi hoon. Kya hua? Unusual activity matlab kya?
+caller: It seems someone attempted to transfer ₹800 to an unknown UPI ID from your account earlier today. We're calling to verify if you initiated this transaction. For security purposes, we need to confirm a few details.
+receiver: ₹800? Nahin, main toh aisa koi transaction nahi kiya. Mein toh aaj kal PhonePe se payments bhi nahi kar rahi hoon.
+caller: Understandable, ma’am. That’s why we’re reaching out. To secure your account, we need you to quickly verify your PhonePe profile. Can you please provide the last four digits of your Aadhaar card for verification? It's a standard security measure.
+receiver: Aadhaar card ke last four digit? PhonePe mein toh Aadhaar card ki zaroorat hi nahi hoti. Yeh toh scam lag raha hai! Main koi bhi details nahi dungi.
+caller: Ma’am, please don't worry. We are just following protocol. For your protection, we need to confirm your identity. If you don't cooperate, we might have to temporarily suspend your account to prevent further unauthorized access.
+receiver: Account suspend kar denge? Lekin maine toh koi galat transaction nahi kiya. Main police mein complaint kar dungi agar aapko mujhse koi details mang rahe ho.

@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Atul bol raha hoon. Aapke BharatPay wallet mein ₹7,500 ka cashback offer available hai, government scheme ke under.
+receiver: BharatPay? Cashback offer? ₹7,500? Main toh BharatPay kabhi use nahi karta.
+caller: Haan ji, aapke naam par account register hai, sir. Aur government ne special offer di hai BharatPay users ke liye. Confirm karne ke liye, sirf ₹50 verification fee bhar den.
+receiver: ₹50 verification fee? Verification fee kyun? BharatPay helpline number to available hi hoga, main wahaan check kar leta hoon.
+caller: Sir, helpline par delay hogi. Yeh instant process hai, sir. ₹50 fee sirf confirm karne ke liye hai ki account aap ka hi hai. Send karein ₹50, number 98765-4321 pe.
+receiver: ₹50 number pe? ₹7,500 ka cashback offer aur ₹50 fee? Koi dikkat toh nahi hai na? Yeh achha lag raha hai, par kuch gadbad bhi lag rahi hai.
+caller: Sir, bilkul safe hai! Aap ₹7,500 kama sakte hain! Jaldi karein, offer limited time ke liye hai. Number send karein ₹50, sir.

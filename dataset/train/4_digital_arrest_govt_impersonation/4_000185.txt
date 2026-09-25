@@ -1,0 +1,11 @@
+caller: Namaste, is this speaking to Mr. Rajesh Kumar? This is Inspector Sunil from the Directorate of Revenue Intelligence, Delhi.
+receiver: Haan, bolhiye. Who is speaking?
+caller: Sir, we’ve detected suspicious activity linked to your mobile number – several large international transactions flagged as potentially related to illegal cryptocurrency trading. It’s a very serious matter.
+receiver: Cryptocurrency? Mein toh kuch nahi karta. Yeh kaise ho sakta hai?
+caller: We have records, sir. It seems someone is using your number as a receiving account. To clear this up, we need you to verify a few details and remit a small processing fee of ₹15,000 to secure your release from further investigation. We’re holding you on video call currently to ensure you don't tamper with evidence or contact any accomplices.
+receiver: ₹15,000? Kaise kaise? Mein ek accountant hoon, mere paas itna paisa nahi hai. And why video call?
+caller: Sir, this is a standard procedure. The fee covers the forensic analysis of the transactions. Resistance will only complicate matters. We'll need you to transfer the funds immediately to the account I'll provide. We can then proceed with the verification process. Otherwise, we will be forced to register a formal case against you.
+receiver: Account number? Wait a minute… Yeh toh galat lag raha hai. Main police station mein jaunga.
+caller: Sir, don’t be hasty. We are operating under strict protocol. This is just a temporary measure. Transfer the money now, and we can resolve this quickly and discreetly. Think about your reputation, sir. This could be very damaging.
+receiver: No, no. I am calling the real police now. This is a scam.
+caller: Very well, sir. Have a good day.

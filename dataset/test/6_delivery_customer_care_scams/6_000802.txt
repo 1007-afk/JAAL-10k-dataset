@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rohan bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke wajah se delivery hold kar di gayi hai.
+receiver: Oh, Flipkart parcel? Mujhe koi notification nahi mila. Kya hai problem?
+caller: Problem yeh hai ki address ek bit different dikh raha hai system mein. Aapki security ke liye, hum delivery se pehle verification karna chahte hain. Aapko ek OTP phone pe milega, woh bataiye.
+receiver: OTP? Par kyon? Flipkart toh direct delivery kar deti hai. Koi OTP nahi mangta.
+caller: Ji, yeh naya security protocol hai. Fraud se bachne ke liye hum sabhi customers se verification karte hain. OTP ke bina hum parcel deliver nahi kar sakte, madam. Aapka parcel mein bahut important hai, aur ismein delay nahi hona chahiye.
+receiver: Theek hai, thik hai. Mujhe doubt ho raha hai par chalega. OTP bata rahi hoon... [Receiver states OTP].
+caller: Dhanyavaad, madam! OTP verified ho gaya hai. Ab, parcel deliver hone ke liye, humein ek small processing fee pay karna hoga, ₹299. Aapko credit card se pay karna hoga.
+receiver: ₹299? Flipkart parcel ke liye fee lag rahi hai? Woh bhi credit card se? Yeh toh galat lag raha hai.

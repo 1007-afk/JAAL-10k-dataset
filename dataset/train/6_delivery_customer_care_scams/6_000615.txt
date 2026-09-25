@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Swiggy Customer Care. We've noticed some unusual activity on your Swiggy One account. A large order was placed from an unknown location.
+receiver: Swiggy? What order? I didn’t place any order.
+caller: Exactly, sir! That’s why we’re calling. It appears someone might have your OTP. We need to quickly secure your account. Can you please confirm the last four digits of your registered phone number?
+receiver: My phone number is private. Why do you need that? Swiggy never asks for that.
+caller: Sir, this is a security protocol. If we don’t verify, we’ll have to temporarily suspend your account to protect it. To reactivate, we need you to quickly pay a small refundable fee of ₹250 as a security deposit. You can do it through this link: swiggysecurepay.com.
+receiver: ₹250? A refundable fee? This sounds very fishy. I’m not clicking any link. Let me call Swiggy directly.
+caller: Sir, please don’t delay! The system is flagging your account for fraudulent activity every second. This link is the only way to quickly resolve the issue and keep your Swiggy One benefits active. We're losing time, sir. Please, confirm the payment now.

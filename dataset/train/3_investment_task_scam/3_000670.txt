@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Patel? I’m calling from CryptoGain Pro regarding a special opportunity for you. We’ve noticed your interest in cryptocurrency.
+receiver: Haan ji, main hi hu Mr. Patel. CryptoGain Pro? Kyon, kya baat hai?
+caller: Excellent! Our team has identified a new, high-yield trading bot using AI that's generating phenomenal returns - over 12% daily. We're offering a limited number of spots to our valued clients. To activate your access, you need to deposit a small amount – just 5000 rupees – to cover the initial setup fees and security protocols.
+receiver: 12% daily? Uff, yeh toh bahut zyada lag raha hai. Koi scam toh nahi hai na? Aur 5000 rupees? Main abhi invest karna soch raha tha…
+caller: Absolutely not a scam, Mr. Patel! We understand your concern. This bot uses advanced algorithms, and the 5000 rupees is essential to sync it with your exchange account and ensure maximum security. Think of it as an activation fee. Once it’s running, you’ll start seeing profits within hours!
+receiver: Synchronization? Exchange account? Ye kaise chalega? Main koi technical expert nahi hu. Aur agar bot kam nahi kiya toh kya hoga mere paise ka?
+caller: Don't worry, it’s extremely simple. We'll guide you through the process. We use Binance or WazirX – whichever you prefer. As for your investment, we guarantee a minimum return of 5% within the first 24 hours, regardless of the bot's performance. This is a limited-time offer, Mr. Patel.
+receiver: Guarantee? 5% within 24 hours? Toh phir bot kam na kare toh bhi mere paise wapas mile jaenge? Aur iska koi written agreement

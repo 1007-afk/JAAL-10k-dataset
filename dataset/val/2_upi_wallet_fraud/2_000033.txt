@@ -1,0 +1,8 @@
+caller:  speak to the account holder please? This is regarding your current cash balance of 500 po
+receiver: Ji, main account holder hoon. Kya baat hai? Cash balance ki baat kar rahe ho?
+caller: Ji sir, aapka cash balance filhaal 500 pounds hai. Isko maximize karne ke liye, abhi COLLECT likh kar 83600 pe SMS karein. Sirf 150p per message lagega. Aur koi enquiry ho toh 08718720201 pe call kar sakte hain. Address hai PO BOX 114/14 TCR/W1.
+receiver: Achha, 500 pounds? Maximize karne ke liye bol rahe ho... Lekin ye 150p per message, ye kiska charge hai? Aur ye COLLECT likhna hai, kahan likhna hai? Phone pe likhna hai ya koi app pe?
+caller: Sir, ye 150p ka charge jo hai na, ye humari service fee hai for processing your cash maximization. Aur 'COLLECT' likhna hai woh aapko apne phone se hi, jo message wala section hota hai na, wahan type karke 83600 pe send karna hai. Jaise koi normal message bhejte hain.
+receiver: Arre, matlab message bhejne ka charge hai? Aur ye 500 pounds, ye mera hi account hai na? Pehle confirm kar lo. Aur ye 'COLLECT' likh ke bhejne se kya hoga? Ye paise apne aap aa jayenge ya kuch aur karna padega?
+caller: Ji sir, bilkul aapka hi account hai. Aur 'COLLECT' likh ke bhejoge toh woh automatically aapka cash balance jo hai na, woh maximize ho jayega, matlab aapko extra benefit milega. Woh service processing ke liye woh 150p ka charge hai, samajh lijiye ek chota sa processing fee hai for the special offer.
+receiver: Achha, matlab ek tarah ka fee hai ye 150p ka. Aur ye 'maximize' hone ka kya matlab hai? Matlab zyada paisa aayega mere account mein? Aur ye automatic ho jayega? Matlab main bas 'COLLECT' likh ke bhej doon aur phir mera balance badh jayega? Ye koi scheme hai kya aapki company ki?

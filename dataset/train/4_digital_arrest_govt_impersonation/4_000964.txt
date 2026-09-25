@@ -1,0 +1,7 @@
+caller: Namaste, madam. Main karta hoon Customs Department se, Rahul Verma. Aapki ek parcel Gujarat se Delhi aayi hai, par usmein kuch suspicious items mile hain.
+receiver: Oh, Gujarat se parcel? Mujhe toh koi parcel yaad nahi. Kya items hain suspicious?
+caller: Madam, parcel mein neelam ke patthar ke fake stones aur illegal currency ke signs hain. Isliye parcel rok diya gaya hai. Aapko ise release karwane ke liye kuch formalities complete karna padega.
+receiver: Illegal currency? Maine toh kabhi aisa koi parcel nahi bheja. Ye toh galat baat ho rahi hai! Mujhe koi information nahi hai is bare mein.
+caller: Madam, humare system mein aapka naam aur address parcel se match kar raha hai. Aapko ek bank account detail dena hoga, jismein 12,000 rupees deposit karwayein. Yeh security deposit hai, parcel release hone ke baad aapko wapas mil jayega.
+receiver: 12,000 rupees? Wait a minute! Ye scam lag raha hai. Main abhi kisi se baat karta hoon. Yeh mujhe bilkul galat lag raha hai. Main custom department ka helpline number check karti hoon.
+caller: Madam, aapko agar cooperation nahi karna chahti, toh parcel confiscate kar lenge aur legal action bhi lena padega. Aapka time barbaad nahi karna chahta, madam. Fast ho jayiye.

@@ -1,0 +1,7 @@
+caller: Hello! Are you in urgent need of funds? We at 'SwiftCredit' offer instant loans with minimal paperwork. No credit checks needed. It's super easy, just a few clicks!
+receiver: Really? That sounds too good to be true. What are the terms and conditions? I'm a bit skeptical.
+caller: No worries! The terms are simple. A small processing fee of 10% upfront, which is refundable if approved. To start, send us a selfie and a copy of your Aadhar card. Just to verify your identity, you know.
+receiver: 10% upfront? That seems high. And sending my Aadhar card feels risky. Can I speak to someone, get a proper loan agreement?
+caller: Of course! But to expedite the process and show you're serious, please transfer ₹5,000 as a verification deposit. This will be returned along with your loan amount once approved. We'll send you the loan agreement instantly after the deposit.
+receiver: ₹5,000? I need to think about it. This is still making me uncomfortable. Are you sure this is legitimate?
+caller: Time is money! This offer won't last forever. Think of the opportunities a quick loan can bring. And if you’re feeling unsure, why not send a photo of a trusted friend or family member instead of yourself? Just for now, to see how the system works. Don’t miss out!

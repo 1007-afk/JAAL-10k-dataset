@@ -1,0 +1,8 @@
+caller: Namaste ji, aap ka swagat hai! Main Rahul Kumar hu, aap kaise hain?
+receiver: Namaste Rahul ji, main achha hu, aap kaise hain? Mein ek delivery order ke baare mein baat karna chahta hu. Aap mera naam Priya Devi note kar sakte hain.
+caller: Namaste Priya ji, Rahul Kumar mein yaad rakhiye. Aap kis delivery order ke baare mein baat kar rahi hain? Agar aapko order number ya tracking id hai to bataiye, main usse check kar sakta hoon.
+receiver: Ji, mere pass tracking id hai - XYZ987654. Maine ek laptop purchase kiya tha, lekin delivery date change ho gaya hai aur mujhe confirmation chahiye.
+caller: Priya ji, XYZ987654 tracking id dekh raha hun. Just a moment please. Okay, Priya ji, pata chala hai ki aapka laptop Delhi mein stuck hai, delivery agent ko problem aa rahi hai.  Aapse ek small verification required hogi, sirf security ke liye. Kya aap mujhe apna bank account number bata sakti hain jo aapne payment karte samay diya tha?
+receiver: Ji, meri bank account number hai 1234567890.  Mujhe yeh worry hai ki refund delay ho sakta hai.
+caller: Priya ji, thank you for providing your bank account number. Yes, we are checking that now.  Your laptop will be delivered within next 48 hours and you’ll receive full refund if there's any issue.  Aapko aur koi assistance chahiye?
+receiver: Nahi Rahul ji, abhi toh bas yeh information sahi tha. Dhanyavaad!

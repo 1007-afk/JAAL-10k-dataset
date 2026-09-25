@@ -1,0 +1,8 @@
+caller: Hello? This is the Directorate of Enforcement. We are calling regarding an investigation into suspicious financial transactions linked to your account.
+receiver: Directorate of Enforcement? What transactions? I haven’t done anything suspicious.
+caller: Sir, our records indicate a series of small transfers, totaling ₹1.2 lakh, originating from your bank account to several shell companies involved in hawala activities. We need to verify this immediately.
+receiver: ₹1.2 lakh? That’s impossible! I barely use my account, and I certainly don’t know anything about hawala. Can you tell me which bank account you are referring to?
+caller: We understand you’re concerned, sir. To prevent further legal complications, we require you to deposit ₹50,000 as a processing fee to demonstrate your cooperation. This will allow us to clear your name quickly and avoid freezing your assets. Use UPI to 7890123456.
+receiver: ₹50,000? Seriously? Why would I pay to clear my name? This sounds like a scam. Can I speak to someone with a direct line, an official from the ED? Give me a number I can call back.
+caller: Sir, this is a sensitive matter and we cannot disclose direct lines due to security protocols. This UPI transaction will create a secure audit trail. Just do this to prove your innocence, and all will be sorted, I promise. Please, time is of the essence.
+receiver: No, I'm not paying anything. I'm reporting this number to the cybercrime helpline. Goodbye.

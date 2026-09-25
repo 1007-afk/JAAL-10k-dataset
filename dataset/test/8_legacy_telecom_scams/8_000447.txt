@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr./Ms. Sharma? Congratulations, you have won a free Samsung Galaxy A54 smartphone! You’ve been chosen as one of the lucky winners in our recent customer appreciation campaign. To finalize your claim, we require you to call us back immediately at 08899876543 using a regular telephone. This is a limited-time offer, so please act quickly!
+receiver: Namaste ji, main hi hoon Sharma. Wow, Samsung Galaxy A54 jeeta? Amazing! Kaise ho aap? Landline se call karna hai, theek hai. Dhanyavaad!
+caller: Namaste, Mr. Sharma! So happy to hear from you! Yes, absolutely! The Galaxy A54 is a fantastic device, truly top-of-the-line. We need you to provide your bank account details over the phone to deposit the winnings. It’s standard procedure for these kinds of prizes. Please do it securely.
+receiver: Bank account details? Seriously? That sounds a little suspicious. Can you tell me more about the delivery process first? Where would the phone be shipped from?
+caller: Of course, Mr. Sharma! No worries at all. The phone will be shipped directly from our Mumbai warehouse. We just need those details to ensure the transfer is smooth. It takes less than five minutes, and then you’ll be enjoying your new phone!
+receiver: Mumbai warehouse? That’s quite far. And why do I need to give my bank details before receiving the phone? Isn’t it supposed to be delivered to my address?
+caller: There might be a small processing fee, Mr. Sharma, to cover shipping and handling costs. It's a very minimal amount – just ₹500. And it's essential for the secure transfer of funds. Trust us, it's perfectly safe.
+receiver: ₹500? For shipping? That doesn't sound right. I think I’m going to hang up now. Thank you anyway.
+caller: Wait, Mr. Sharma! Don't go yet! We still have one unit left! If you don’t confirm your details soon, another deserving customer will grab it! Act fast!
+receiver: One left? Really? Okay, okay, let me see… I’ll call you back later. Goodbye.

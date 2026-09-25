@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Sharma? This is Inspector Verma calling from the Mumbai Customs Department.
+receiver: Haan, main hi Sharma bolta hoon. Kuchh baat hai?
+caller: Ji, sir. We’ve intercepted a parcel registered to your name containing suspicious items. It appears linked to a case involving international money laundering.
+receiver: Kya? Mere naam par parcel? Main toh kabhi parcel order nahi kiya. Yeh kya bakwaas hai?
+caller: Sir, this is a serious matter. To clear the parcel and avoid legal complications, you’ll need to pay a small processing fee of ₹12,000. It’s to verify your identity and ensure the contents are legitimate.
+receiver: ₹12,000? Aur parcel toh mujhe pata bhi nahi hai! Main police station mein jaunga, tumhara number block kar dunga.
+caller: Sir, please don't do that. If you don’t cooperate, we’ll have to escalate the matter to the higher authorities and you will face arrest. A senior officer is waiting to speak to you on a video call, but first, we need the fee. You can pay via UPI to this number: 9876543210.
+receiver: Video call? Yeh toh clear scam hai! Main kabhi bhi ₹12,000 nahi de raha. Main abhi police ko call kar raha hoon.
+caller: Sir, please understand the urgency. This is for your own good. We need to act fast to prevent further damage. The video call will allow you to see the parcel and verify its contents directly with the investigating officer. Just pay the fee and everything will be sorted.
+receiver: Sorched! Main koi bhi paisa nahi de raha. Tum log mere saath time waste kar rahe ho.

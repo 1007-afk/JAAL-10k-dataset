@@ -1,0 +1,7 @@
+caller: Hello? Is this Rahul Verma? I’m calling from ‘QuickCash Solutions’. We’ve pre-approved you for a personal loan of ₹75,000 with very easy terms! Just a small processing fee to release the funds.
+receiver: Oh, really? That’s good news! But I didn’t apply for any loan. Are you sure you have the right Rahul Verma?
+caller: Yes, sir, definitely. We have your details here. The processing fee is just ₹7,500 upfront. You can deposit it in this UPI ID: quickcash75@axisbank. Once the payment is confirmed, the loan will be credited to your account immediately.
+receiver: ₹7,500? That’s a lot for a processing fee. And why do I have to pay before I even get the loan? That sounds a bit strange.
+caller: Sir, this is standard procedure. We need to verify your commitment. Many people try to take advantage of our offers. Once you show your commitment with the fee, we release the loan.  Don't worry, this is a one-time charge. Otherwise, the loan will be cancelled.
+receiver: Okay, one moment. Let me check something… (pause) Sir, this UPI ID isn’t showing up as Axis Bank. It’s showing as a Paytm business account. I think this might be a scam.
+caller: Sir, there must be a technical error.  Don't worry about it. Just complete the payment quickly. We have many other applicants waiting. If you delay, someone else might take your opportunity.

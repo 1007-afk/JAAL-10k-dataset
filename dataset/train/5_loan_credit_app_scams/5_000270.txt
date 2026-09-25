@@ -1,0 +1,9 @@
+caller: Namaste! This is Akash from FastLoan India. We're offering instant loans, ₹25,000 to ₹1,20,000, for any purpose! Quick and easy approval. Aapka naam bataiye?
+receiver: Hello? FastLoan India? I'm interested. My name is Rohan.
+caller: Bahut achhi, Rohan ji! So, Rohan ji, kitni amount ka loan chahiye aapko? Aur kya aap employed hain ya self-employed?
+receiver: I need around ₹70,000. I’m self-employed; I run a small online store.
+caller: Wonderful! Online store, very good. We can definitely help. To verify your details, we need a copy of your Aadhar card, PAN card, and a recent bank statement. Please send them to this WhatsApp number: 9876543210.
+receiver: Wait a minute… that sounds a bit suspicious. Why do you need my Aadhar and PAN for a small loan?
+caller: Rohan ji, it’s standard procedure for KYC verification. Without it, we cannot process your application. It’s for your security as well, to prevent fraud. Send the documents now, or we'll have to cancel your loan request.  Also, a small processing fee of ₹2000 is required upfront.
+receiver: ₹2000? I've never heard of paying a processing fee before getting a loan! I think I’ll just look elsewhere.
+caller: Rohan ji, don’t miss this opportunity! This offer is only valid for a few hours. Send the documents and the ₹2000 now, or the offer will expire. Aapko nuksan hoga!

@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rahul se baat kar raha hoon, Bluestar Courier se. Aapke address par ek parcel aaya tha, lekin delivery ke dauraan kuch problem ho gaya.
+receiver: Haan, sahi sunne mein aaya. Kya hua? Parcel kahaan hai?
+caller: Madam, parcel mein kuchh security issues nikale hain. Regulations ke according, hamein usko hold karna pad raha hai. Aapko ise release karne ke liye kuch verification process complete karna hoga.
+receiver: Verification? Kaise verification? Mujhe toh koi message nahi aaya tha.
+caller: Haan ji, madam. Verification ke liye, aapko ek OTP milega apne mobile par. Wo OTP mujhe bataiyein, aur phir mai aapko parcel release karne ki process start karunga.
+receiver: OTP? Par aise kaise? Courier company OTP mangti hai?
+caller: Madam, security protocol hai. Agar aap OTP nahi batayengi, toh parcel return ho jayega sender ke pass. Aapka naam kya hai? Main kal se hi aapke ghar delivery ke liye aaya hu.
+receiver: Main kal se hi aapke ghar delivery ke liye aaya hu?  Aur main apna OTP den?  Yeh to galat lag raha hai.  Mai police mein complaint karungi.

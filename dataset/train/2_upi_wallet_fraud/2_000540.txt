@@ -1,0 +1,6 @@
+caller: Hello, Madam! Good news for you! You’ve been selected for a lucky draw by BharatPe! You’ve won a cashback of ₹15,000 on your next transaction!
+receiver: Really? BharatPe lucky draw? That’s amazing! How do I claim it?
+caller: To activate this offer, you just need to pay a small processing fee of ₹499. This is to verify your account and ensure the cashback is credited correctly.
+receiver: ₹499? Is that really necessary? I thought lucky draw wins were free.
+caller: Yes, Madam, this is a new security protocol. It prevents fraudulent claims. It’s a one-time fee only. Pay via UPI to 8690123456 and send the transaction ID to claim your ₹15,000. Hurry, the offer ends in 10 minutes!
+receiver: Okay, let me check something first. Can you tell me the official BharatPe customer care number so I can verify this?

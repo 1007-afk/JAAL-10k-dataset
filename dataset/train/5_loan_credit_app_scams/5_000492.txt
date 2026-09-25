@@ -1,0 +1,7 @@
+caller: Hello? Namaste! This is a call from SecurePay Loans. We’ve noticed some unusual activity on your account and need to verify your details immediately.
+receiver: SecurePay Loans? I don't recall applying for a loan. What's this about unusual activity?
+caller: Ji, there’s a pending disbursement of ₹25,000 to your account. To release it and prevent it from being flagged as fraudulent, we need you to confirm a small processing fee of ₹1,500.
+receiver: ₹1,500? For a loan I didn’t apply for? That sounds suspicious. Can you send me some details about the loan application first?
+caller: See, this is the problem. Time is of the essence. If you don’t act quickly, the disbursement will be reversed, and you'll lose out on the opportunity. We’re just trying to help you secure this loan. You can pay using UPI – I'll send you the QR code.
+receiver: No, thank you. I’m not comfortable paying anything upfront for a loan I don't remember requesting. I’ll contact SecurePay directly to verify this. Give me your official phone number.
+caller: Listen carefully. If you don't pay within the next 10 minutes, we’ll have to report your account for suspicious activity and it will be blocked. We have all your details, and we can easily send compromising information to your family and friends if you don't cooperate.

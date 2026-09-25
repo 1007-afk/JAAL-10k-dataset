@@ -1,0 +1,8 @@
+caller: Hello sir, kaise hain? I am calling from 'Future Gains Advisory'. We have a very limited-time opportunity in the cryptocurrency market, specifically in the new 'NovaCoin' project. Initial investors are seeing returns of up to 15% daily!
+receiver: NovaCoin? Never heard of it. Sounds a little too good to be true, honestly. What's the catch?
+caller: No catch, sir! It's a new decentralized platform with a unique algorithm. To get started, you need to deposit a small amount – just ₹50,000 as an initial investment. We'll handle all the trading.
+receiver: Fifty thousand? And how long until I see these returns? And can I withdraw my money whenever I want?
+caller: The returns start accruing within 24 hours, sir. And yes, you can withdraw at any time, but there's a small 5% withdrawal fee to cover processing costs. We need your bank details to activate your account.
+receiver: A 5% withdrawal fee? That's quite high. Let me think about it. Can you send me some more information about NovaCoin and the advisory first? I'll need to do some research.
+caller: Absolutely, sir. Here's the link: bit.ly/NovaGain. But sir, this offer is closing soon. Many people are already investing! Don’t miss out on this chance to multiply your money quickly.  Just a small deposit, and you'll be on your way to financial freedom!
+receiver: Okay, I will check that link. But I am not giving you my bank details over the phone. Definitely not today.

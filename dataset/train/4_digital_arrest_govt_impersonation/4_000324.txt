@@ -1,0 +1,9 @@
+caller: Namaste, sir. This is Senior Inspector Verma from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your mobile number involving an illegal cross-border transaction.
+receiver: Illegal? Kya baat kar rahe ho? Mera naam Rajesh Kumar hai. Main toh itni bhi kharab vyavsay nahi karta. What kind of transaction?
+caller: Sir, our systems show a large sum of cryptocurrency was routed through your number, potentially linked to hawala operations and money laundering. We need to verify your details urgently to prevent you from being implicated.
+receiver: Cryptocurrency? Yeh toh mujhe kabhi bhi nahi pata tha! Main toh online gaming karta hoon, kabhi kabhi. Kaise mera number involve hua? Yeh bahut ajeeb lag raha hai.
+caller: Sir, these fraudsters often use compromised mobile numbers for these transactions. To clear your name and prevent legal action, we require you to provide a few documents - a copy of your Aadhaar, PAN card, and bank statements reflecting the last six months' transactions.
+receiver: Bank statement? Aadhaar card? Sir, yeh toh bahut zyada lag raha hai. KYC toh banks bhi lete hain, lekin itni details? Aur aapne mujhe name bhi nahi bataya, senior inspector bol rahe ho? I need some proof that you are who you say you are.
+caller: Sir, these protocols are strictly followed. We understand your hesitation, but delaying will only complicate things. Failure to cooperate could result in a summons to our headquarters and further investigation. Please send the documents via WhatsApp to 9876543210, and we’ll process your clearance immediately.
+receiver: Wait a minute, headquarters?  Dekhiye, mereko kuch madad chahiye, but itni jaldi mein documents nahi de sakta. I need to think about this. Koi helpline number hai?
+caller: Sir, there’s no helpline available for

@@ -1,0 +1,7 @@
+caller: Namaste, main State Bank of India se Rahul bolta hoon. Aapke account mein achanak se kuch suspicious activity dikhi hai.
+receiver: Oh! Suspicious activity? Kya hua? Kuch problem hai kya?
+caller: Ji, ek transaction attempt hua hai jo aapne nahi kiya hai. Account ko secure rakhne ke liye, aapko kuch details verify karni hogi.
+receiver: Theek hai. Batao, kya verify karna hai? Meri OTP mat puchna.
+caller: Bilkul nahi, OTP nahi. Sirf aapka Aadhaar card number check karna hai, taaki hum confirm kar sake ki account aapka hi hai. Yeh security protocol hai.
+receiver: Mera Aadhaar number?  Why do you need that? Can't you verify through something else? This feels a bit off.
+caller: Sir, please understand, time is of the essence. Agar aap jaldi se verify nahi karte, toh humko account suspend karna padega. Just give me the first 4 digits.

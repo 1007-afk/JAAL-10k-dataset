@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Airtel customer care se Rohit bolta hoon. Aapke Airtel account mein ek suspicious transaction detect hua hai. ₹1999 ka payment attempt fail ho gaya hai.
+receiver: Oh, really? Airtel se call? Kuch problem hai kya?
+caller: Haan ji, ek OTP gaya tha aapko, lekin woh verify nahi hua. Security ke liye, mujhe aapka account verify karna hoga. Aapka last 4 digits ka mobile number bataiye?
+receiver: Umm, sure. It’s 7890.
+caller: Thank you. Ab, mujhe aapka OTP bataiye jo aapko Airtel se aaya hai. Ye sirf verification ke liye hai.
+receiver: Wait a minute... why didn't I receive an OTP? I haven't received any message from Airtel.
+caller: Sir, ho sakta hai message delay se aaya ho. Thoda aur time diyein. Aur ek baat hai, ye ₹1999 ka transaction urgent hai, warna aapka account suspend bhi ho sakta hai. Aapko ye confirm karna hoga ki aapka account secure rahe. Aap mujhe OTP bataiye please.
+receiver: No, no. I'm not giving you any OTP. I’m going to call Airtel's official customer care number myself. This seems fishy.

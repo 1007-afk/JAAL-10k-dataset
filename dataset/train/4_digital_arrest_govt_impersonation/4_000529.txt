@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? We’re calling from the Directorate of Revenue Intelligence, DRI. We have reason to believe a package containing contraband items was recently shipped under your name.
+receiver: Haan, mein hoon Mr. Sharma. Contraband? Kya baat kar rahe ho? Main toh kabhi package nahi bheja.
+caller: Sir, our records show a shipment originating from Mumbai, addressed to your residence in Delhi. It’s flagged for suspicious contents – potentially narcotics. This is a very serious matter. To avoid legal complications and potential arrest, we need to verify some details and process a small security deposit.
+receiver: Arrest? Narcotics? Yeh jhoot hai! Main toh Delhi mein rehta hoon. Mumbai se koi package aaya hi nahi. Aur security deposit? Tum log kaun ho?
+caller: Sir, we understand your concern, but we need your cooperation. To expedite the verification process, we require a deposit of ₹15,000 to cover administrative fees and customs clearance. We need to ensure the package is thoroughly inspected and cleared of any irregularities. We’ll need you to stay on this call with us while we process this.
+receiver: ₹15,000? Dekhiye, yeh bilkul scam lag raha hai. Main police se report karunga. Koi bhi achha insaan phone pe paisa nahi deta.
+caller: Sir, please don’t be hasty. We can arrange for a video call with a senior officer to further verify our identity. Refusing to cooperate will only escalate the situation and may lead to more severe consequences. Just pay the amount and we can resolve this quickly.
+receiver: Video call? Theek hai, let’s see this officer. Par main koi paisa nahi dene wala. Main report file karunga.

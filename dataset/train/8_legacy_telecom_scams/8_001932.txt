@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga ‘Free Recharge Offer’ aur aapko ₹50 recharge karne ke liye invitation de raha hoon.
+receiver: Haan, dekha tha. Kaisa offer hai?
+caller: Ji, toh aapko ₹50 ke bare mein bataane wala hoon. Is offer mein aapko ₹100 ka recharge voucher milega, lekin wo valid sirf 7 days ke liye hai.  Iske baad, woh voucher invalid ho jaayega.  Yeh ek special offer hai, aur aapke paas sirf 3 vouchers bache hain claim karne ke liye.  Aapko bas woh voucher activate karna hai, woh bhi bilkul free!
+receiver: ₹100 ka voucher, acha hai. Toh mujhe kahan voucher use karna hai? Kuch form fill karna hai ya kuch?
+caller: Nahi ji, kuch bhi form fill nahi karna. Aapko bas ek chota sa confirmation dena hai, jisse hum aapka voucher activate kar sakein. Aapka naam kya hai ji?
+receiver: Mera naam Amit hai. Toh bas confirmation dena hai? Aur kuch nahi?
+caller: Haan ji Amit ji. Bas ek chota sa confirmation chahiye. Agar main aapka ‘transaction ID’ verify kar doon toh aapka voucher immediately activate ho jayega. Kya main aapki transaction ID jo aapko email mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charge nahi hai.
+receiver: Transaction ID? Oh, haan, abhi dekhta hoon. Ek minute…Haan, ye raha. XYZ12345.

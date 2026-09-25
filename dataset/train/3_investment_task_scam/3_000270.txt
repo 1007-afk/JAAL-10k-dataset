@@ -1,0 +1,9 @@
+caller: Namaste, is this Ms. Devi? I’m calling from the Indus Trust Wealth Management division. How are you feeling today?
+receiver: Ji, main hi Ms. Devi bol rahi hoon. Main theek huongi, aap kaise hain? Aur Indus Trust se aap kaun ho?
+caller: Wonderful to hear from you, Ms. Devi! I'm doing fantastic, thank you. I’m reaching out on behalf of our Portfolio Performance group. We’ve discovered a remarkable investment possibility that could yield substantial gains.
+receiver: Substantial gains? Yeh toh sunne mein hi achchha laga. Kya batayen aap aur yahaan kis cheez ka fayda milega?
+caller: Ms. Devi, we have an opportunity involving shares in a burgeoning pharmaceutical firm called ‘BioNexus Solutions’. Their stock ticker is BNXN. Our projections indicate a potential rise of around 280% within the next year. Currently, it’s trading at just $6.75 per share.
+receiver: BioNexus Solutions? Woh kaisi company hai? 280% growth ka promise bhi bada hai. Aap logon ko iske piche itni trust hai, kya?
+caller: Absolutely, Ms. Devi. BioNexus is focused on developing innovative treatments for autoimmune diseases. They recently secured a major contract with a leading hospital chain and their clinical trials are showing incredibly promising results. Our analysts believe this will significantly boost their revenue and market presence. That’s why we're advising a ‘Buy’ rating with a strong potential for growth.
+receiver: Autoimmune diseases… okay. Clinical trials… Yeh toh thoda complicated lag raha hai. Aap mujhe is technology ke baare mein aur kuchh bata sakte hain? Aur yeh ‘Buy’ recommendation kitne din ke liye valid rahega?
+caller: Certainly, Ms. Devi. The core of their innovation lies in a new immunotherapy approach targeting inflammation at a cellular level. It’s a complex process, but preliminary data suggests it could revolutionize treatment options. This recommendation is valid for the next six months, giving us ample time to observe the market response.

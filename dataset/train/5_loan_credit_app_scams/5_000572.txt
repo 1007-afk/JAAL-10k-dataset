@@ -1,0 +1,8 @@
+caller: Hello, this is Raj from SpeedLoan. We see you applied for a loan through our app, and it's been approved for ₹50,000! Very quick process. Just need to confirm a small security deposit of ₹2,500 first.
+receiver: ₹2,500? But the app didn't mention anything about a deposit before approval. I thought it was instant.
+caller: Yes, it is! But for security purposes, this small fee is required. Think of it as insurance against fraud. We need to make sure you’re the genuine applicant. If you don't pay, we will have to cancel your loan.
+receiver: That’s strange. Are you sure? It seems a bit fishy. I didn’t authorize this.
+caller: Listen, this is a time-sensitive offer. If you don't make the payment within the next hour, the approval will expire. And we’ve already started the loan disbursement process, so non-payment will incur penalties. We have your address, and we will have to escalate this.
+receiver: Escalate? What do you mean? Are you threatening me? This is ridiculous! I'm reporting you!
+caller: Don't waste time with reports. We know where you live. Just pay the ₹2,500, and your loan will be released. Otherwise, we will have to take further action. We can even send your contacts details to authorities. Consider it a final warning.
+receiver: You are a fraud! I am blocking your number and going to the police. Don't you dare call me again!

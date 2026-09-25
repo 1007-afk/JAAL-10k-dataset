@@ -1,0 +1,7 @@
+caller: Hello! I came across your profile on Vibez and thought you looked really interesting. You seem like a lot of fun! I'm Rohan, by the way. What do you like to do for a good time?
+receiver: Hi Rohan! Thanks! I’m Neha. Nice to hear from you. I like movies, good food, and just chilling with friends. Vibez is new for me, so hoping to meet some cool people. What about you?
+caller: That's awesome, Neha! I'm into similar things. I'm actually a freelance photographer, traveling a lot for work. Right now, I’m in Bangkok for a shoot, it’s beautiful here. Listen, I wanted to ask, would you be comfortable sharing a selfie with me? Just to put a face to the name, you know?
+receiver: Bangkok! Wow, sounds amazing! Sure, I can send a selfie. But why a selfie right away? Seems a little fast, no? And you’re a photographer? That's cool!
+caller: It's just that I’m heading back home to Delhi tomorrow and I really wanted to remember this conversation. I feel a connection already! But… there’s a slight problem. My phone got damaged during the shoot and I need to quickly transfer some money to my family back home for repairs. I’m short about 7000 rupees, could you possibly send it to this UPI ID: [fake UPI ID]? I’ll pay you back the moment I get my phone fixed.
+receiver: 7000 rupees? That's a lot to ask upfront, especially when we just started talking. And a damaged phone delaying a transfer? Something doesn't sound right. Let me think about it. Can you at least show me proof of the phone damage?
+caller: Look, I understand your hesitation,

@@ -1,0 +1,4 @@
+caller: Fantastic! Congratulations! You have won a free gift card worth ₹5000! Just confirm your address and pin code to receive it. Please provide them now.
+receiver: Wait, really? ₹5000? Seriously?!  Wow!  That's amazing!  Okay, okay...  Let me just check my address...  It's [Address] and my PIN code is [PIN Code].  Send it to this number please.  Thank you so much!
+caller: Great! Your gift card has been delivered! Enjoy your shopping spree! Thank you for calling!
+receiver: Thank you!

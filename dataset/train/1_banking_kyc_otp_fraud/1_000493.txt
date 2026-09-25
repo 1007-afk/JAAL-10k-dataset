@@ -1,0 +1,10 @@
+caller: Namaste, main Rahul hoon, Digital Solutions se baat kar raha hoon. Aapse ek bahut hi important update hai. Tumhare bank account mein ek special discount ka opportunity hai - ₹5000 tak cashback mil sakta hai, agar tum 6 mahine ke liye humari new digital wallet use karein. Kaise chal raha hai?
+receiver: Oh, hello Rahul bhai!haan, bolna. Cashback hai? ₹5000 tak? Wow, yeh suna toh acha laga. Kahanse mila yeh update?
+caller: Tumhara ID number, sir/madam, [Receiver's Name], humara database mein tha. Is discount ko unlock karne ke liye, humein sirf ek small verification process chahte hain. Tumhara debit card ka last 4 digits bata dijiye, please. Just for security purposes, obviously!
+receiver: Haan, dekho, mera debit card number hai [Caller says their number, e.g., 87654321]. Last 4 digits hai [Receiver’s last four digits]. Koi risk hai?
+caller: Kabhi bhi nahi, [Receiver's Name] ji. Hamara system abhi bhi safe hai. Is verification ke baad, tumhein immediately ₹5000 cashback milega.  Aapko ek OTP bhi bheja jayega, jisse tum check kar sakte ho.
+receiver: OTP bhi bheja jayega? Good, good. Bhej do.  Kaha bheje jaayega?
+caller: OTP aapke registered mobile number par bheja jayega, [Receiver's Number].  Just copy paste karo aur mujhe bataiye.
+receiver: Copy paste kar deta hoon.  [Reads out OTP].  Yeh raha OTP.
+caller: Shukriya, [Receiver's Name] ji. OTP verified ho gaya.  Ab tumhein ₹5000 cashback automatically apply ho jayega.  Humari team ne tumhein thank you kehna chaheta hai!
+receiver: Thoda confuse hoon main, lekin cashback hai toh acha laga. Thank you Rahul bhai.

@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya? This is Arjun, I’m 28 and just moved to Bangalore for work. Feeling a bit lost and lonely. If you’re interested in chatting, send 'Connect' to 99000. First message is free, then ₹8 per message. Let’s get to know each other!
+receiver: Hi? No, this isn’t Priya. Wrong number, sorry.
+caller: Oh, my bad! This new phone is being weird. Apologies! I’m still figuring out the settings. Hope you’re having a good day anyway.
+receiver: It’s okay, happens all the time. Bangalore can be overwhelming at first. Need any help settling in, let me know.
+caller: Thanks! That’s really kind of you. Actually, I'm hoping to find someone to explore the local cafes and maybe go hiking on weekends. Kya pata, maybe we could go together? By the way, what's your name?
+receiver: I’m Neha. I’m pretty busy with work and studies, but I’m not looking for anything beyond friendly chats. But I know some really nice places for chai and dosas if you're interested!
+caller: Friendly chats are perfect! Chai and dosas sound amazing. Listen, I’m having some trouble with my bank account. Can you please send me a photo of your ID card? Just to verify some details, it's a new requirement they have. I'll send you my details afterwards.

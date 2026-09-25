@@ -1,0 +1,16 @@
+caller: Namaste sir, aapke SBI account ka debit card expiry date kal raat ko finish ho jaega. Kindly, apna card online rakhna.
+receiver: Ji, mere haath mein card hai. Kya hua?
+caller: Sir, suno yaar, aapka debit card jo hai, uska validity kal raat ko expire ho jaayega. Agar aap abhi recharge nahi karenge, toh aapko money transfer mein trouble aa sakte hain.  Aapka card abhi activa rahega, okay?
+receiver: Haanji, bilkul card mere possession mein hai. To phir main kya karun ab?
+caller: Sir, aapko kisi bhi kind ke information disclose karne ki requirement nahi hai.  Hum sirf yeh bata rahe hain ki aapka card active hai.  Aapko koi notification aaya hai ye samband mein?
+receiver: Notification? Haanji, mujhe ek SMS aaya tha lekin maine uspar muchh daraya.  Aap kaise bol rahe hain? Bank se to lagta hai.
+caller: Haanji sir, main bank ka representative hoon. Yeh SMS aaya hai kyunki aapka card activa rahega aur aapko koi inconvenience nahi hogi.  Basically, hum karte hain ki aapke card ka status check karein.  Aap card ko deactivate toh nahi kar rahe na?
+receiver: Nahin, nahin, card toh mere haath mein hai. Deactivate toh nahin kiya.  To matlab, mera card abhi chalega na?
+caller: Namaste sir, aapke SBI account ka debit card expiry date kal raat ko finish ho jaega. Kindly, apna card online rakhna.
+receiver: Ji, mere haath mein card hai. Kya hua?
+caller: Sir, suno yaar, aapka debit card jo hai, uska validity kal raat ko expire ho jaayega. Agar aap abhi recharge nahi karenge, toh aapko money transfer mein trouble aa sakte hain.  Aapka card abhi activa rahega, okay?
+receiver: Haanji, bilkul card mere possession mein hai. To phir main kya karun ab?
+caller: Sir, aapko kisi bhi kind ke information disclose karne ki requirement nahi hai.  Hum sirf yeh bata rahe hain ki aapka card active hai.  Aapko koi notification aaya hai ye samband mein?
+receiver: Notification? Haanji, mujhe ek SMS aaya tha lekin maine uspar muchh daraya.  Aap kaise bol rahe hain? Bank se to lagta hai.
+caller: Haanji sir, main bank ka representative hoon. Yeh SMS aaya hai kyunki aapka card activa rahega aur aapko koi inconvenience nahi hogi.  Basically, hum karte hain ki aapke card ka status check karein.  Aap card ko deactivate toh nahi kar rahe na?
+receiver: Nahin, nahin, card toh mere haath mein hai. Deactivate toh nahin kiya.  To matlab, mera card abhi chalega na?

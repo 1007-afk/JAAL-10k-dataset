@@ -1,0 +1,9 @@
+caller: Hello? Hello? Can you hear me properly? Good! So, you’re keen on our WhatsApp Lottery, correct? We have a fantastic opportunity for you today - a shiny Samsung Galaxy S23 Ultra! It’s the newest model, you understand? And the best part? Entering is completely free! You simply need to message GALAXY to 98765. Have you tried that yet? Very easy, you see?
+receiver: Haan, suna hai. Yes, I am listening. A Samsung Galaxy S23 Ultra? Really? No, I haven't sent any message yet. Just message GALAXY to 98765, isn’t it? Okay, I will do it immediately.
+caller: Absolutely! Tumhara message jo aaega, woh ek lottery system mein jaayega. And remember, this Samsung Galaxy S23 Ultra is extremely popular, everyone wants one! Don't delay, you know? We've only got 5 of these available for today's draw, so it’s first come, first served, obviously.
+receiver: Five? Wow, that’s quite a few. Okay, I’ve sent the message. GALAXY to 98765. I hope I win! What happens after I send the message?
+caller: Wonderful! You are now registered. Now, you'll receive SMS updates regarding the lottery results. We’ll let you know if you've won a prize. It’s all happening very quickly, you understand? Keep checking your phone regularly. There are three more remaining, so hurry up!
+receiver: Three more? Okay, I’m waiting for an update. When will the results be announced?
+caller: The results will be announced within the hour. As soon as you receive a notification, you can check your winning status. Only two phones are left, so don’t waste any time! This is a chance of a lifetime!
+receiver: Two phones left? Seriously? I'm eagerly awaiting the notification. This is getting exciting!
+caller: Exactly! Just stay tuned, and good luck! Congratulations to the lucky winner!

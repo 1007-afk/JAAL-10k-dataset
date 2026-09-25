@@ -1,0 +1,16 @@
+caller: Namaste ji! Main aapko do din se phone kar raha hu. Aapne WhatsApp message dekha tha na? Aapki 750 extra calling minutes free mil sakti hain, bas 'YES' reply karna hai. Aapne check kiya tha?
+receiver: Haan, namaste! Sorry, maine bahut kaam kiya tha. Message dekha tha, par abhi check nahi kiya. Aisa hi karna hai, sirf 'YES' type karke reply?
+caller: Haan ji, bas 'YES' type karke reply karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapki calling minutes immediately activate ho jayengi. Kya aapni wish karte ho?
+receiver: Achha, theek hai. Chalo, abhi check karti hoon. Dekhte hain pata chalta hai ya nahi. Bas 'YES' type karna hai, correct? Ya koi special code hai?
+caller: Haan ji, bilkul 'YES' likhna hai. Koi code nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main madad kar dunga. Aapke liye hi toh yeh offer hai.
+receiver: Oh, thanks! Aap itne achhe se bol rahe ho. Theek hai, abhi check karti hoon. Jaldi ho jaaye yeh, hope karta hu.
+caller: Haan ji, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi dikkat aaye toh bina dhyan na dai, main hoon na madad karne ke liye. Yeh offer abhi khatam hone wali hai, so jaldi kar lijiye.
+receiver: Okay, maine 'YES' send kar diya. Dekhte hu kya hota hai. So, is there any kind of notification that comes through, or how will I know it’s been activated?
+caller: Namaste sir! Main aapko ek saati se call kar raha hun. Aapne SMS message dekha tha na? Aapka 1000 rupees ka cashback waitlist par hai, bas 'CLAIM' reply karna hai. Aapne dekha tha?
+receiver: Haan, namaste. Sorry, thoda tension mein tha. Message dekha tha maine, par abhi reply nahi kiya. Aise hi karna hai, sirf 'CLAIM' type karke reply?
+caller: Haan sir, bas 'CLAIM' type karke reply karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapka cashback immediately process ho jayega. Kya aapko chahiye?
+receiver: Achha, theek hai. Chalo, abhi try karti hoon. Dekhte hu yeh waitlist se nikalta hai ya nahi. Bas 'CLAIM' type karna hai, right? Ya koi reference number hai?
+caller: Haan sir, bilkul 'CLAIM' likhna hai. Koi reference number nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main support kar dunga. Aapke liye hi toh yeh offer hai.
+receiver: Oh, thanks! Aap itne polite ho. Theek hai, abhi try karti hoon. Jaldi ho jaye yeh, hope karta hu.
+caller: Haan sir, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi dikkat aaye toh bhool jao, main hoon na madad karne ke liye. Yeh offer bahut kam logon ko mila, so jaldi kar lijiye.
+receiver: Okay, maine 'CLAIM' send kar diya. Let's see what happens. So, is there any update I'll get, or how will I know my cashback is confirmed?

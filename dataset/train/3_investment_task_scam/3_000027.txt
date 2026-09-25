@@ -1,0 +1,8 @@
+caller: Namaste! Caller speaking. You received a notification about your loyalty rewards account from 2018, right? There are 923 bonus credits about to lapse. We need to quickly verify some information to let you cash them out. What’s your full name, please?
+receiver: Ji, maine message dekha tha. Mera naam Priya hai. Haan, credits expire hone waale hain. Kya karne ki zarurat hai?
+caller: Excellent, Priya! Glad to hear it. To unlock those 923 credits, we just need to check a couple of things. Firstly, can you tell me the postcode where you were registered for this account? Just the numerical part would be fine.
+receiver: Ji, mera zip code hai 411001. Koi aur baat hai?
+caller: Wonderful, 411001. Now, could you please confirm the secondary email address that was used when setting up your account, Priya? It’s important for security reasons.
+receiver: Email? Hmm, mujhe yaad nahi aa raha. Parantu, woh ‘priya.desai@gmail.com’ hoga.  Batao, kuch aur chahiye?
+caller: Great, priya.desai@gmail.com. Finally, for confirmation only, what are the last three digits of the phone number linked to the account? This ensures secure access.
+receiver: Ji, last three digits hain 234. Confirm ho gaya?  Ab mein credits redeem kar sakti hoon?

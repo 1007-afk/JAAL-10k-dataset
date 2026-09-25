@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main State Bank of India se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Account ki security ke liye, humein aapki KYC details confirm karne hai.
+receiver: Haan, toh? Kya hua? Kuch suspicious activity?
+caller: Ji, sir. Ek logon ne aapke naam se kuch online transactions karne ki koshish ki hai. Account block hone se bachane ke liye, aapko ek OTP milna chahiye apne phone par. Mujhe woh OTP bata dijiye, please.
+receiver: OTP? Kaun sa number se aaya OTP? Aur mujhe KYC ke liye OTP kyun dena padega?
+caller: Sir, OTP 778899 se aaya hoga. KYC verification ke bina, hum aapke account ko suspend karna pad sakta hai. Yeh security protocol hai, sir. Aapka account safe rakhna mera duty hai.
+receiver: Wait, wait. Ek minute. State Bank se toh aise phone nahi karte. Main police mein report karunga agar kuch gadbad hui toh.
+caller: Sir, please mat karein! Main aapki madad kar raha hoon. Account block nahi hone dena chahta hoon. Sir, please, ek chah mein OTP bata dijiye. Last chance hai, sir!

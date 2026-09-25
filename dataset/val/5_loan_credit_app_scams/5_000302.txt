@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? We're calling from QuickCash Loans. We’ve processed your loan application, and it’s almost approved. Just need to verify a few details.
+receiver: QuickCash Loans? I think I did apply for a small loan online. What details do you need?
+caller: Great! Just confirm your date of birth for verification purposes. And to activate your loan, we need a small processing fee of ₹2,500 to be deposited into our secure account.
+receiver: Two thousand five hundred rupees? I don't remember seeing anything about a processing fee when I applied. The website said it was interest-free!
+caller: Yes, that's correct for the loan itself. But this is a mandatory security fee to protect you from fraud and ensure the loan disbursement. It’s a one-time charge, and we'll refund it immediately after the loan is credited to your account. Just send it to UPI ID: secureloanpay@xyz.
+receiver: Hmm, I'm a bit hesitant. Can you tell me your company's registration number or give me a contact number I can verify independently? This feels a little fishy.
+caller: Priya ji, I understand your concern, but time is of the essence. Other applicants are vying for these quick loans. To avoid delays, just complete the payment. Once the money is confirmed, your ₹10,000 loan will be instantly released.

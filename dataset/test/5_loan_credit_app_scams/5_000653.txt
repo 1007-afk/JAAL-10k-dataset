@@ -1,0 +1,7 @@
+caller: Hello! This is Akash from LoanExpress. We’ve noticed you’ve been browsing our website, and we have a special offer just for you – a quick loan of up to ₹75,000 with minimal paperwork. Interested?
+receiver: LoanExpress? I don’t remember browsing any website like that. And I'm a bit wary of unsolicited calls offering loans. What’s the catch?
+caller: No catch at all, madam! We are trying to help people like you. Just need to quickly confirm your details. Can you give me your Aadhaar card number for verification? It's just a standard procedure to prevent fraud, you see.
+receiver: Aadhaar number over the phone? That’s not something I’m comfortable doing. It’s not safe. Are you even a legitimate company? Can you give me a website address or a license number?
+caller: Madam, please don't be so suspicious! LoanExpress is a fully registered financial institution. Our website is loanexpressindia.net. But to process your loan quickly, we need to verify your ID. Also, there's a small processing fee of ₹500 to activate your account.
+receiver: loanexpressindia.net? That website looks very basic and doesn’t have any secure connection. And I’m definitely not paying a processing fee upfront for a loan. This sounds like a scam. I’m reporting this number.
+caller: Wait, wait! Madam, don't do that! This is a genuine opportunity. For a limited time, we’re waiving the processing fee if you act now. Just send us a screenshot of your bank passbook so we can quickly assess your eligibility. It’s just for verification, I assure you!

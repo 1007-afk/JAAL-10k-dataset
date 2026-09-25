@@ -1,0 +1,9 @@
+caller: Hello sir, is this Deepak Sharma? We're calling from Paytm Rewards.
+receiver: Haan, main Deepak Sharma bolta hoon. Kya baat hai?
+caller: Sir, congratulations! You've been selected for a special Paytm cashback offer. You can win up to ₹10,000 cashback on your next transaction. To activate it, you just need to send a small processing fee of ₹200 via UPI to the ID: 9876543210@ybl.
+receiver: ₹10,000? Kaise? Aur ₹200 processing fee? Paytm toh kabhi aise fees nahi lete. Ye sahi hai kya?
+caller: Sir, it's a limited-time offer, to verify your eligibility. It's a one-time fee for security purposes only. Just send ₹200 to the UPI ID, and we'll automatically credit the ₹10,000 cashback to your Paytm wallet within 15 minutes.
+receiver: ₹200 bhejna padega? Aur woh ID bhi dekha nahi hai. Mujhe thoda doubt ho raha hai.
+caller: Sir, please don’t miss this fantastic opportunity! The offer expires in just 30 minutes. It's completely safe and secure. Just send the ₹200, and you’ll have ₹10,000 in your wallet shortly. Think of it as an investment!
+receiver: Okay, ek minute ruk jao. Main check karta hoon. Aur aap ka customer care number dedo, main wahaan call karta hoon.
+caller: Sir, there's no need to call customer care. The offer is ending soon. Quickly send the ₹200 to secure your ₹10,000 cashback. It’s a great deal, trust me!

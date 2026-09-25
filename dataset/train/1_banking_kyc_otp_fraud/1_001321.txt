@@ -1,0 +1,8 @@
+caller: Namaste, mai ICICI Bank se Rahul bol raha hoon. Aapke account mein achanak se kuch suspicious activity dikh raha hai. Security ke liye, humein aapki KYC details verify karni hogi.
+receiver: Kya? Suspicious activity? Mujhe toh kuch pata nahi hai. Kaise verify karna hai?
+caller: Hmmm, koi baat nahi. Hum bas kuch basic details check karenge. Pehle, aapka Aadhaar card number bataiye, please.
+receiver: Aadhaar card number? Ye toh bahut personal information hai. Bank toh SMS se verify karta hai na?
+caller: Sir, ye ek new security protocol hai. OTP sirf ek step hai. Account suspend hone se bachane ke liye, aapko full Aadhaar number dena padega. Aur aapka full naam bataiye, please.
+receiver: Mera naam Rajesh Kumar hai. Par Aadhaar number dene se main thoda uncomfortable feel kar raha hoon.
+caller: Rajesh ji, tension mat leiye. Yeh bilkul secure hai. Last four digits bataiye, bas.
+receiver: Okay, last four digits hain 4567. Aur abhi aur koi detail chahiye?

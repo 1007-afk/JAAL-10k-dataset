@@ -1,0 +1,9 @@
+caller: Namaste, sir! Mera naam Deepak hai, mera company DigiCash Solutions se. Aapne hamare app par personal loan ke liye apply kiya tha, correct?
+receiver: Haan, ji. Mainne apply kiya tha. Kya hua?
+caller: Ji, sir. Aapka application approved ho gaya hai, lekin verification ke liye kuch details ki zaroorat hai. Aapke bank account ka last transaction statement aur aadhaar card ki copy chahiye.
+receiver: Aadhaar card? Aur statement? Why so much? App toh instant loan deta hai na?
+caller: Ji sir, security ke liye. Aur aapko bataoon, yeh offer sirf limited time ke liye hai.  ₹50,000 ka loan bas ₹10,000 ki processing fee ke saath mil jayega!
+receiver: ₹10,000 processing fee? Yeh to bahut zyada hai! Mein soch raha hoon.
+caller: Sir, aap soch rahein hain?  Dekhiye, agar aap abhi document nahi bheje, toh offer cancel ho jayega. Aur aapko interest rate aur bhi jayada pay karna padega.  Aapke contacts mein bhi yeh offer share kar sakte hain, extra commission ke liye.  Zalil hone se bachiye, sir. Jaldi karein!
+receiver: Mujhe thoda time chahiye. Mein kal call karta hoon.
+caller: Sir, kal tak yeh offer rahegi nahi! Aur aapke photo wale contacts ko morph karke blackmail bhi kar sakte hain.  ₹10,000 abhi send kijiye, otherwise aapki khabar poori duniya jaayegi!

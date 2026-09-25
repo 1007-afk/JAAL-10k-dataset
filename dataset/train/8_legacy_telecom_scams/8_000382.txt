@@ -1,0 +1,9 @@
+caller: Can you hear me clearly? This is Rajeev from Global Getaways calling. Hope you’re doing well. We’ve got a super exciting opportunity for you today! We're giving away a free luxury weekend getaway to Goa! Are you available to tell us a bit about yourself?
+receiver: Haan, suni de raha hoon. Doing good, thank you. Goa weekend, sounds nice! Tell me more about this giveaway.
+caller: Wonderful! So, to enter this incredible prize, all you need to do is complete a short survey online. Visit our website, www.GlobalGetaways.com/survey and fill it out. It only takes about 5 minutes.  The deadline for submissions is next Friday. Have you ever been to Goa before?
+receiver: Website dekha maine, www.GlobalGetaways.com/survey.  It looks easy enough.  Just filling out a form.  What happens if I don't submit the survey?
+caller: Don't worry, it’s completely voluntary! But, completing the survey increases your chances of winning.  We’ll randomly select one lucky winner next Friday.  Is there any other information you would like to know about the contest?
+receiver: Okay, so I just need to go to the website, fill out the survey, and wait for the results next Friday. Anything else I should be aware of?
+caller: Absolutely! To confirm your entry, we also require a small processing fee of ₹500 via Google Pay. Please send it immediately to the account number 8765432109. This ensures we can properly process your application.  Can you do that right now?
+receiver: ₹500 Google Pay? Seriously? Why do I need to pay that? What exactly does that fee cover?
+caller: It’s simply a standard administrative charge to cover the cost of verifying your identity and ensuring fair play. It’s a very small amount for a huge reward!  Don't delay, send it now!

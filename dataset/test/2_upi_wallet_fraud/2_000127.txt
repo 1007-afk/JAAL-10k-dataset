@@ -1,0 +1,7 @@
+caller: Namaste! Mai calling kar raha hoon Bank of Baroda se, Rahul Verma. Aapka Bank of Baroda digital wallet account mein kuch suspicious activity dikha hai.
+receiver: Oh! Kya hua? Kuch problem hai? Mai toh aaj tak kabhi use nahi kiya digital wallet.
+caller: Haanji, koi ek transaction attempt hua hai Nepal mein ₹4999 ka. Immediate verification ki zaroorat hai, warna aapka account freeze ho sakta hai.
+receiver: Nepal mein? ₹4999? Lekin maine toh kabhi Nepal se transaction nahi kiya. Ab main kya karoon?
+caller: Aapko apne wallet ID aur OTP verify karna hoga. Woh OTP aapko SMS se milega. Phir mai aapko ek secure link भेजूंगा, uspe click karke confirm kardo.
+receiver: Okay, OTP aaya hai. ₹4999 ka transaction... thoda dar lag raha hai. Woh link bhijwao, main check karta hoon.
+caller: Excellent! Ab aapko sirf ₹99 clearing fee pay karni hai, verification complete karne ke liye. Account safe karne ke liye. Aapko Paytm ya GPay se pay karna hai 9876543210 pe.

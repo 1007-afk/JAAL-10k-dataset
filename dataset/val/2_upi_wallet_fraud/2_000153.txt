@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Vijay se baat ho rahi hai, PhonePe se. Aapke Flipkart account mein ₹1200 ka transaction hua tha, aur ab aapko ₹600 ka cashback milega. Cashback claim karne ke liye, aapko ek OTP verify karna hai. 98767 pe SUBMIT send karein. Jaldi karein, offer sirf aaj ke liye hai!
+receiver: Hello Vijay. Flipkart mein ₹1200 ka transaction? Mujhe yaad nahi aa raha. Aur cashback mil raha hai? OTP verify karna hai? 98767 pe SUBMIT send karoon?
+caller: Haanji, bilkul! Aapka transaction record hamare system mein hai. ₹600 cashback claim karne ke liye, 98767 pe SUBMIT send kar dein. OTP jaldi receive karein, otherwise offer expire ho jayega. Yeh Diwali special offer hai!
+receiver: Diwali special offer? Parle mein OTP verify karna hai, lekin mene PhonePe app mein koi notification nahi dekha. Tumhare PhonePe account number dedo, main check kar leta hoon.
+caller: Aapko koi notification nahi dikh raha? Arey, technical issue ho sakta hai! Aapko OTP verify karna hi hai, otherwise cashback chala jayega. Time bahut kam hai, sirf 30 seconds bache hain. Jaldi se 98767 pe SUBMIT send karein!
+receiver: 30 seconds? Yeh bahut zyada pressure hai! Main abhi Flipkart app mein check karta hoon. Tumhara number dedo.
+caller: Beta, abhi number dene ka time nahi hai! Cashback claim karna important hai. Jaldi se 98767 pe SUBMIT send karein, OTP verify karein, aur cashback aapke PhonePe wallet mein transfer ho jayega. Aapko koi regret nahi hoga!

@@ -1,0 +1,21 @@
+caller: Namaste sir, main Bharat Telecom support se bol raha hoon. Aapki mobile internet service 48 hours mein expire ho jayegi. Kya aap ise renew karna chahte hain?
+receiver: Acha? Mobile internet expire ho rahi hai? Mera name Shekhar Kumar hai. Kisko bolna tha? Aur expiry date kab hai?
+caller: Ji sir, mera naam Rahul hai. Internet expire hone ka reason yeh hai ki aapke account mein payment update nahi hua hai. Humne aapko notification bheja hai. Agar aap renew karna chahte hain toh main aapko ek OTP bhejunga, woh aapko verify karna hoga.
+receiver: Oke Rahul ji, thanks for telling me. To, mobile internet expire ho rahi hai, lekin ye OTP verification wala process hai? Main abhi OTP check karne ke liye call back karunga, sahi hai na?
+caller: Arre sir, yeh toh sirf process hai. Agar aap abhi nahi kar paate hain toh theek hai, hum dusre tarike se try karenge. Lekin iske liye hamein aapki bank details verify karni hogi, kyuki internet expire hone ka risk hai. Aapko koi aur time convenient lagega jab aap verification kar paayein? Hum kal bhi try kar sakte hain, lekin aapki internet band hone se pehle renew karna zaroori hai.
+receiver: Oh, so the main thing is to prevent my internet from getting disconnected because of an expired subscription, and you need my bank details to avoid that? Can I just pay online through your website instead?
+caller: Haan sir, woh ho jayega. Bas aap ek baar apni bank account number aur IFSC code bataiye, please? Aur yeh account kis naam par hai?
+receiver: Okay Rahul ji. Meri bank account number hai 123456789012 aur yeh account mere naam par, Shekhar Kumar ke naam par hai. Verification code verify karne ke liye main thoda time baad call back karunga, is it okay?
+caller: Ji sir, thank you. Apni account details verify ho gayi hain. Ab aapki internet service renew ho jayegi.  Aapko notification bheje jayenge.
+caller: Namaste sir, main DigiConnect support se bol raha hoon. Aapki SIM card 30 dinon mein band ho jayegi. Kya aap isko reactivate karna chahte hain?
+receiver: Haan, seriously? Mein recently transfer hua tha. Mera naam Priya Sharma hai. Kaise band ho jayegi?
+caller: Ji madam, mera naam Vivek hai. AAPki SIM card ko deactivate karne waala new regulation hai. Isliye, humne aapko notification bheja hai. Reactivate karne ke liye, aapko ek verification code enter karna hoga. Main aapko woh code bhejna chahta hoon.
+receiver: Oke Vivek ji, to yeh regulatory issue hai. Parantu, mujhe abhi code send karne ki permission chahiye. Main apne network provider se contact karungi aur phir se check karungi.
+caller: Arre madam, yeh bahut important hai. Agar aap 30 dino tak SIM card reactivate nahi karte hain, toh woh band ho jayega. Hamare paas aapki details hain, isliye hum aapko code bhejakar rahatenge. Aapko sirf code enter karna hoga. Aapko koi aur time milega jab aap verification kar paayen?
+receiver: Actually, main apni SIM card recently upgrade kari thi. Kya aap mujhe tell karna sakte hain ki meri SIM card band hone ka exact reason kya hai?
+caller: Madam, aapki SIM card ko deactivate karne ka reason yeh hai ki aapke account mein recharge ka balance nahi hai. Isliye, telecom company ne aapki SIM card ko deactivate karne ka decision liya hai. Agar aap recharge karna chahte hain, toh main aapko recharge karne ke option de sakta hoon.
+receiver: Oh, to yeh recharge related issue hai? Then, what about the verification code?
+caller: Sir, verification code sirf aapki identity verify karne ke liye hai. Agar aap recharge karna chahte hain, toh aap directly recharge kar sakte hain. Jab aap recharge karegin, toh aapko verification code send hoga.
+receiver: Fine, Vivek ji.  Mujhe samajh aa gaya.  Main jaldi se recharge kar dungi.  Verification code banane ke liye main thode paise deposit kar dungi.
+caller: Ji madam, aapka bohat sara intezaar hai. Recharge karne ke liye aapko koi specific amount deposit karna hoga. Aapko koi aur time milega jab aap verification kar paayen?
+receiver: Okay, Vivek ji. Main thode saat minute baad call back karungi.

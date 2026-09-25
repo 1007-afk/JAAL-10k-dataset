@@ -1,0 +1,8 @@
+caller: Hello, this is Ankit Verma from State Bank of India’s fraud prevention department. We've detected some unusual activity on your account linked to your Aadhaar card.
+receiver: Haan, bolie. Kya hua?
+caller: Sir, there's a new KYC update required by RBI for all accounts. If you don't complete it within 24 hours, your account will be temporarily suspended. It’s very important.
+receiver: Account suspend? Kaise update karna hai?
+caller: Sir, for verification, we just need you to share your Aadhaar number with me. It's a standard procedure to confirm your identity. And just to be absolutely sure, can you also provide the last four digits of your PAN card?
+receiver: Aadhaar number? PAN card? Yeh thoda risky lag raha hai. Mere bank mein toh aisa kabhi nahi kaha.
+caller: Sir, please understand, this is to protect your account from fraudulent transactions. We are following RBI guidelines strictly. Without this verification, your account will be blocked, and you won't be able to access your funds. We just need that information to keep your account secure. Don't delay, sir.
+receiver: Okay, okay... Fine. Let me check where I keep them. Just a moment.

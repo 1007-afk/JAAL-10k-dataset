@@ -1,0 +1,7 @@
+caller: Hello, is this Anjali? I hope I’m not disturbing you. It’s Rajeev.
+receiver: Rajeev? Oh wow, it’s been ages! How are you? I barely remember your number.
+caller: I’m doing great, Anjali! I’ve been thinking about you a lot lately. You looked so beautiful in our college photos. Listen, I’m in a bit of a sticky situation. I need to fly to Delhi urgently for my grandmother's medical check-up, but I'm short on funds. Can you possibly help me out with ₹15,000? I’ll pay you back as soon as I get my salary.
+receiver: Delhi? Your grandmother? That sounds serious. ₹15,000 is a lot of money, Rajeev. Are you sure you can't manage it somehow?
+caller: I’ve exhausted all my options, Anjali. I really don’t want to miss this. My family is depending on me. Just imagine, if something happens to her... I’d never forgive myself. Could you just transfer it to this UPI ID: 9876543210@ybi? It would mean the world to me.
+receiver: Okay, Rajeev. I’m a little hesitant, but… alright. I’ll send you the money. But promise me you’ll pay me back ASAP.
+caller: Thank you so much, Anjali! You're a lifesaver! To show my gratitude, I wanted to share something personal with you. I’ve been feeling a little down lately, and I took some photos that really captured my mood. Would you like me to send them to you? Just to lighten the mood, you know?

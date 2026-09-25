@@ -1,0 +1,7 @@
+caller: Namaste, Madam! This is Rahul calling from BharatPay Security. We’ve detected unusual activity on your BharatPay wallet. To prevent unauthorized transactions, we need to verify your identity.
+receiver: Unusual activity? What kind of activity? I haven't made any big transactions lately.
+caller: Yes, Madam. There's been an attempt to transfer a large sum of money to an unknown account. As a security measure, we need you to complete a small verification process. It’s a one-time fee of just ₹25 for security clearance.
+receiver: ₹25? What kind of verification? Can’t you do it online? I’m a little wary about sending money over the phone.
+caller: Absolutely, Madam. This is a standard procedure.  Just send ₹25 to the verification number we'll provide – it’s a secure BharatPay collect request.  Once the ₹25 is received, your wallet will be unlocked and secure. It's very quick and simple, just to ensure your funds are protected. The number is 9988776655.
+receiver: Okay, hold on. A collect request? I thought BharatPay didn't use those.  And why do *I* have to send money to *you* to verify my account? Doesn't it sound backwards?
+caller: Madam, due to system upgrades, we temporarily using collect requests for verification. It’s a new, extra secure measure. We understand your concern, but without this ₹25 clearance, your account will be temporarily blocked for 24 hours for your safety. Just a quick payment, and your wallet is safe.

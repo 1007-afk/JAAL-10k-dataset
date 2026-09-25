@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Verma? This is Inspector Rajesh from the Delhi Customs Department.
+receiver: Haan, main hi Priya Verma. Inspector sahab? Kya baat hai?
+caller: We've intercepted a package registered under your name containing suspicious items. It appears to be linked to a case of international money laundering.
+receiver: Kya? Yeh kya keh rahe hain aap? Main toh kabhi package register nahi kiya. Mere naam se package?
+caller: Don't panic, Ms. Verma. We need to verify a few details to clear this up quickly.  To proceed, please share a screenshot of your bank account statement and Aadhaar card. It's standard procedure.
+receiver: Bank account statement aur Aadhaar card?  Inspector sahab, yeh toh fraud hai! Aap logon ka koi official number hai na? Main us par call karta hoon.
+caller:  Look, Ms. Verma, time is of the essence. Delaying this will only complicate things. These criminals are very sophisticated. We need to act fast to protect you.  Just send the screenshot via WhatsApp to this number - it's a secure line. 9876543210
+receiver: Secure line? 9876543210? Yeh number toh koi official number lag raha hai.  Dekhiye, main koi bhi screenshot nahi bhejungi. Main abhi hi police helpline par call karta hoon aur aapke against complaint karunga.
+caller: Ms. Verma, think carefully.  Your family's safety could be at risk if you don't cooperate. These criminals have access to your personal information and are watching you.

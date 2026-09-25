@@ -1,0 +1,11 @@
+caller: Namaste! Aapko badi khabar dakhane ke liye call kiya hai! Aapne lottery mein jeeti hai ₹5,000!
+receiver: Arre bhai! Seriously? ₹5,000? Ye kya ho raha hai?
+caller: Haan, benar bol rahe hain! Aapko government ke ek scheme mein selected kiya gaya hai aur aapne jeeta hai! Parantu, yeh raashi aapke account mein directly nahi jaayegi.
+receiver: Kaise nahi? Mein chaaunga hi!
+caller: Agar aapko yeh raashi lena hai, toh humein aapke bank account ki kuch details lagani padengi. Kya aap apna account number aur IFSC code bata sakte hain?
+receiver: Haan, bata sakta hoon. Mera account number hai 1234-5678-9012-3456 aur IFSC code hai ABCBANK0000123.
+caller: Dhanyavaad! Now, just to verify, can you tell me your full address including pin code?
+receiver: Mera address hai Mumbai, Maharashtra, 400001.
+caller: Shubhavati! Aapse OTP bhejna hai, taki hum parivartan kar saken. OTP aapke mobile mein aa gaya hai na?
+receiver: Haan, OTP aa gaya hai. Yeh hai: 8765432190.
+caller: Achcha! Transfer ho jayega, aur aapko ₹5,000 aapke account mein mil jayenge! Shukriya!

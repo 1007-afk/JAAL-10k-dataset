@@ -1,0 +1,9 @@
+caller: Namaste, mere naam Rohan hai, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Kya problem hai? Mujhe to koi notification nahin aaya tha.
+caller: Sir, system mein dikha raha hoon ki address incomplete hai. OTP verify karna padega, taaki parcel aapke naam se correct ho sake.
+receiver: OTP? Kyon OTP verify karna padega? Blue Dart toh aise nahin karta.
+caller: Sir, security ke liye hai. Kuch fraud cases ho rahe hain. Just ek minute, mein OTP send karta hoon. 629873.
+receiver: Yeh toh theek nahin lag raha. Mein kisi aur se confirm kar leta hoon.
+caller: Sir, jaldi karo, otherwise parcel return ho jayega. OTP verify karke mujhe batao, main aapki help karunga. Yeh offer sirf aaj tak hai.
+receiver: Sir, yeh pakka Blue Dart wala hai? Mein Blue Dart customer care number se baat karta hoon.
+caller: Sir, customer care busy line par hai, aapko wait karna padega. OTP verify karna hi best option hai. Jaldi karo sir.

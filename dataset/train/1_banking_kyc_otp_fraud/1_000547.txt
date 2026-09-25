@@ -1,0 +1,16 @@
+caller: Namaste! Aapse baat ho rahi hai regarding your 2018 travel rewards account. We’ve detected a substantial amount of unused miles – 1248 specifically – waiting for you. This offer expires on December 15th, 2018, so it’s important to act quickly. You're looking into this today, aren't you?
+receiver: Ji,haan. Main iski detail jaanane ke liye call kar raha hu. Kisko batayen ye kaise claim kare?
+caller: Excellent! First, we need to confirm your booking reference number. It's crucial for us to ensure we're speaking with the rightful owner of this account. Could you please share your booking reference number?
+receiver: Booking reference number? Woh 6789-2461-0357 hai.
+caller: Thank you, sir. Just one moment while I verify that. Okay, sir. Your booking reference number 6789-2461-0357 has been confirmed. Now, to redeem those 1248 miles, all you need to provide are the last four digits of your credit card associated with the booking. Can you tell me those digits, please?
+receiver: Credit card ke last 4 digit? Hmm, mujhe yaad nahi aa raha. Let me think…Haan ji, woh 5678 hain.
+caller: Wonderful! So, 5678. Now, for a quick security check, we require the last three digits of your primary phone number linked to the account. This is just to make sure the miles reach the right person.
+receiver: Primary phone number ke last 3 digit? Okay, woh 987 hain.
+caller:नमस्कार! आपको कॉल कर रहे हैं आपके 2022 गोल्ड लोन के बारे में। आपके खाते में 952 अतिरिक्त क्रेडिट उपलब्ध है, जिसे अभी तक इस्तेमाल नहीं किया गया है। यह ऑफर 30 अप्रैल 2023 को समाप्त हो रहा है, इसलिए जल्दी करना महत्वपूर्ण है। आप इस पर विचार करने के लिए कॉल कर रहे हैं, है ना?
+receiver: हाँ जी, मैं इसकी जानकारी लेने के लिए कॉल कर रहा हूँ। मुझे बताएं कि इसे कैसे दावा किया जाए?
+caller: बहुत बढ़िया! सबसे पहले, हमें आपकी गोल्ड लोन खाता संख्या की पुष्टि करने की आवश्यकता होगी ताकि हम सुनिश्चित कर सकें कि हम सही व्यक्ति से बात कर रहे हैं। कृपया अपनी गोल्ड लोन खाता संख्या बताएं।
+receiver: गोल्ड लोन खाता संख्या? हाँ जी, वो 4567-8901-2345 है।
+caller: धन्यवाद, सर। बस एक पल के लिए मैं इसकी पुष्टि कर रहा हूं। ठीक है, सर। आपकी गोल्ड लोन खाता संख्या 4567-8901-2345 सत्यापित हो गई है। अब, इन 952 अतिरिक्त क्रेडिट का दावा करने के लिए, आपको बस अपने अंतिम 3 अंक प्रदान करने होंगे - आपके खाते के अंतिम 3 अंक। क्या आप कृपया उन्हें बता सकते हैं?
+receiver: अंतिम 3 अंक? थोड़ा सोचता हूँ...हाँ जी, वो 234 हैं।
+caller: शानदार! तो 234। अब, इन क्रेडिट को आपके खाते में ट्रांसफर करने के लिए, हमें एक छोटा सा सत्यापन चरण पूरा करने की आवश्यकता होगी। आपको अपना पंजीकृत मोबाइल नंबर का अंतिम 3 अंक बताना होगा। यह सिर्फ सुरक्षा के उद्देश्य से है ताकि हम सुनिश्चित हो सकें कि क्रेडिट सही व्यक्ति तक पहुंचे।
+receiver: मोबाइल नंबर के अंतिम 3 अंक? ठीक है, वो 789 हैं।

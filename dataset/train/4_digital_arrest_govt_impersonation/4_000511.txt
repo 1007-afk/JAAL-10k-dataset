@@ -1,0 +1,9 @@
+caller: Namaste, is this speaking with Mr. Singh? My name is Inspector Kumar, calling from the Delhi Cyber Crime Unit. We've detected unusual activity linked to your bank account involving an international parcel.
+receiver: Haan, main hoon. Parcel? Kya hua? Mujhe toh koi parcel aane ka koi message nahi mila.
+caller: Ji, Mr. Singh, according to our records, a package containing suspected narcotics was intercepted at Indira Gandhi International Airport, addressed to your name. It's a serious matter, linked to money laundering.
+receiver: Narcotics?! Yeh toh galat hai! Maine toh kabhi bhi cocaine ya kuchh bhi nahi dekha! Main ek accountant hoon, sir. Kyun pareshan kar rahe ho mujhe?
+caller: Mr. Singh, we understand your distress, but protocol demands we verify this. To clear your name and prevent further legal action, a small administrative fee of ₹15,000 is required to cover investigation costs and secure your release from this inquiry.
+receiver: ₹15,000? Aur yeh fee kahan bhejna hai? Aur release? Release se kya matlab hai? Main toh kuchh bhi nahi kiya hoon!
+caller: Ji, the fee needs to be deposited immediately to this account: [Invented Account Number]. Once the payment is confirmed, we'll provide you with a clearance certificate. We are on a video call to ensure you don’t contact anyone and tamper with the investigation. Do not end this call.
+receiver: Ek minute, sir. Main yeh account number check karti hoon. Thoda time de dijiye.
+caller: Mr. Singh, time is of the essence. Delaying this will only escalate the matter. We have evidence, and this is your final opportunity to resolve this amicably. The video feed is being recorded.

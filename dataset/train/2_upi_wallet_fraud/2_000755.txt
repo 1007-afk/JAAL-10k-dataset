@@ -1,0 +1,7 @@
+caller: Hello, main Vijay Sharma bol raha hoon, BharatPay customer support se. Aapke BharatPay wallet mein ₹5000 ka cashback offer chal raha hai. Claim karne ke liye, ek small verification process complete karna hoga.
+receiver: ₹5000 ka cashback? BharatPay pe? Verification process kya hai?
+caller: Haan, sahi sun rahe hain. Verification ke liye, aapko apna BharatPay wallet linked bank account ka last 4 digits aur ek OTP bataana padega jo aapke registered phone number pe aayega.
+receiver: Bank account ka last 4 digits? Yeh thoda risky lag raha hai. BharatPay support number toh available hai, main wahaan call kar sakta hoon.
+caller: Haan bilkul kar sakte hain, lekin line busy toh hoti rehti hai. Phir, ye process bahut fast hai, sirf 2 minute lagega. Aur cashback instant mil jayega. Aapka account safe rahega, worry mat karein.
+receiver: Okay, OTP check karta hoon. (pause) Haan, mujhe ek OTP mila hai. ₹5000 ka cashback? Yeh sahi hai kya?
+caller: Haan, bilkul sahi! Ab bank account ke last 4 digits bataiye, taaki cashback aapke wallet mein transfer ho sake. Jaldi karna hoga, offer limited time ke liye hai!

@@ -1,0 +1,9 @@
+caller: Namaste! Madam, this is Akash Sharma calling from EaseMyTrip customer care. We've noticed an unusual transaction on your account related to a flight booking to Goa.
+receiver: Goa? Mujhe Goa ka koi flight nahi book kiya tha. Main toh confused hoon.
+caller: Yes, madam. The booking reference is EM78945. It appears someone attempted to book a flight for ₹8,500 using your card details. For security reasons, we need to verify this and cancel the booking immediately. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Kaise OTP? Mujhe toh koi OTP nahi mila. Aur main toh karta nahi hoon.
+caller: Madam, this is very urgent. If we don't verify your OTP, the fraudulent transaction will go through. We need to block your card instantly. Please, just quickly share the OTP so we can secure your account. It's just a 4-digit number.
+receiver: Theek hai, wait karun. Main check karti hoon. But seriously, mujhe kuch samajh nahi aa raha. Koi flight booking nahi kiya tha, aur OTP bhi nahi mila.
+caller: Madam, it’s possible the OTP is delayed. Could you please quickly call our helpline number, 9876543210, to quickly resolve this urgent matter?  We'll guide you through the steps to cancel the fraudulent booking, but we need your immediate assistance.
+receiver:  9876543210?  Yeh number real hai kya?  Let me check on Google.
+caller: Madam, time is of the essence! Don’t waste a second. It’s the official EaseMyTrip helpline number. We need to act fast, or you might lose a significant amount of money.

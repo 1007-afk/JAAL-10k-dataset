@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se call kar raha hoon. Aapke BharatPay wallet mein ₹5000 cashback offer chal raha hai, lekin claim karne ke liye sirf aaj raat tak time hai.
+receiver: BharatPay? Cashback? ₹5000? Kaise claim karunga?
+caller: Haan ji, sir. Aapko sirf ₹100 processing fee bhar deni hai. ₹100 BharatPay se hi deduct ho jayega, lekin uske baad aapka ₹5000 cashback account mein add ho jayega.
+receiver: ₹100 bharne ke liye kya karna hai? OTP maangenge kya?
+caller: Haan, OTP maangenge. Aapka BharatPay app kholo aur OTP check karo. OTP 987654 hai. Usse BharatPay agent ko bol do. Jaldi karo, offer abhi khatam hone wala hai!
+receiver: ₹5000 ka cashback? Itna zyada? Yeh theek lag nahi raha hai. BharatPay ka customer care number mujhe dedo, main khud check kar leta hoon.
+caller: Sir, time khatam ho raha hai! ₹5000 aapke haathon mein hai, sirf ₹100 invest karke. Customer care pe call karne mein time barbaad kareinge, aur offer chala jayega. Ab OTP dedo, warna cashback chala jayega!

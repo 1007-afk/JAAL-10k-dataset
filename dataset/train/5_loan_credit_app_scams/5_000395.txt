@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickCash Loans. We saw your application for a personal loan of 2 lakhs. Congratulations, you’re almost approved! But first, we need to verify your details.
+receiver: Yes, speaking. That's me. I did apply. So, what needs to be verified?
+caller: Great! Just a few quick questions. Can you confirm your full address and date of birth for security purposes? Also, could you send us a selfie holding a piece of paper with the application reference number, which is QC78945? It's just to prevent fraud, you see.
+receiver: Okay, sure. My address is 45, Maple Apartments, Sector 18, Noida. And my date of birth is 12th August 1990. I'll send the selfie now.
+caller: Perfect, Priya ji. We've received the selfie. Everything looks good. Now, for final approval, we require a small processing fee of ₹5,000 to be deposited into our secure account. Once that's done, your 2 lakh loan will be credited to your account within the hour. Account details are: [invent a bank account number].
+receiver: Five thousand rupees? That wasn't mentioned in the application. And why do I have to pay before I get the loan?
+caller: Priya ji, it's standard procedure. Think of it as an insurance deposit. It guarantees your loan and protects you from any future issues. Without it, we can't finalize your loan. Otherwise, we will have to reject the loan and you will lose your opportunity.

@@ -1,0 +1,8 @@
+caller: Hello, sir? I am calling from BharatPe support. We’ve detected some unusual activity on your account. It looks like someone attempted to make a large withdrawal.
+receiver: Oh really? What kind of unusual activity? I haven’t done anything different.
+caller: Sir, it seems a payment of ₹7,500 was initiated to an unknown UPI ID. To secure your account and prevent the transaction from going through, we need you to verify a small security fee of just ₹499.
+receiver: ₹499? That's a lot. Why do I have to pay a fee to secure my own account? Shouldn't BharatPe be handling this?
+caller: Sir, this is a standard security protocol. The fee confirms you are the rightful owner of the account and reverses the pending transaction. You can pay through this link: bit.ly/securebharatpe. It's completely safe, sir.
+receiver: A link? I’ve heard that those can be dangerous. I’m not clicking on any links. Can you give me a BharatPe official contact number so I can verify this with your customer care?
+caller: Sir, due to the urgency of the situation, we cannot risk a delay. The withdrawal is still pending.  Please, quickly pay the ₹499 through the link so we can block the unauthorized transaction. This is a time-sensitive matter, sir.
+receiver: I’m still not comfortable with this. I think I'll just contact BharatPe directly through their official app.

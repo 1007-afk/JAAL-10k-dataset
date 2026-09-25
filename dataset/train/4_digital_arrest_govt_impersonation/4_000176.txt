@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Sharma? This is Inspector Singh from the Directorate of Revenue Intelligence, DRI. We have intercepted a package linked to your name containing suspicious items.
+receiver: Yeh kya keh rahe hain? Package? Mujhe toh koi package nahi mila. Aur DRI se phone kyu kar rahe hain?
+caller: Sir, we have evidence indicating your involvement in facilitating the illegal import of restricted goods. This is a serious matter, potentially linked to money laundering. We need to confirm some details urgently to prevent further legal complications for you.
+receiver: Illegal import? Main? Yeh to bakwaas hai! Main toh kabhi import-export ka kaam nahi kiya. Aur aapko yeh kaise pata chala?
+caller: Sir, we have records showing a significant transaction linked to your bank account coinciding with the package's arrival. We require a small amount of ₹15,000 as a processing fee to verify your identity and clear this misunderstanding swiftly. This is to ensure there’s no fraudulent activity linked to your name. We can arrange for a secure payment link.
+receiver: ₹15,000? Aur secure payment link? Sir, this sounds like a scam. DRI kabhi phone pe paise nahi maangta. Main police station jaunga complaint karne.
+caller: Sir, please understand, time is of the essence. We are under pressure to resolve this case quickly. Delaying this payment could lead to more serious consequences, including a formal investigation and potential arrest. We can provide you with a case reference number.
+receiver: Case reference number? Thek hai, deko. Main abhi nahi bolunga. Main apni bank se baat karta hoon aur phir decide karta hoon. Aap call mat karo.
+caller: Sir, we are just trying to assist you. However, the package remains under our custody, and the legal proceedings will commence if the payment isn't made within

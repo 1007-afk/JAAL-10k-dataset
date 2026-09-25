@@ -1,0 +1,9 @@
+caller: Namaste, mai Axis Bank se Rahul bol raha hoon. Tumhara account suspend hone ka risk hai, sir.
+receiver: Account suspend? Kyun? Mujhe toh koi message nahi aaya.
+caller: Sir, humein ek suspicious activity detect hui hai aapke account mein. Ek OTP abhi tumhare register number par gaya hai. Woh verify karna bahut zaruri hai, warna account block ho jayega.
+receiver: OTP? Par mera phone toh mere paas hai. Kaise block hoga?
+caller: Sir, security ke liye humein verify karna padega. OTP share karein, please. Aur tumhara Aadhaar card number bhi, account details confirm karne ke liye.
+receiver: Aadhaar card number? Woh kyun chahiye? Mein toh kabhi share nahi karta Aadhaar number phone pe.
+caller: Sir, ye bank policy hai. Agar aap verify nahi karte toh account freeze ho jayega, aur aap online transactions bhi nahi kar payenge. Fast please, time is running out.
+receiver: Wait a minute. I'm calling Axis Bank directly to confirm. I'll call you back.
+caller: Sir, please don’t delay! Account suspend hone se pehle OTP share karein, otherwise bahut mushkil ho jayegi.

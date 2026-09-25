@@ -1,0 +1,7 @@
+caller: Namaste! Is this speaking to Mr. Rajesh Sharma? We’re calling from ‘CashWave’ loan services. You applied for a personal loan recently, correct?
+receiver: Haan, ji. Main Rajesh Sharma bol raha hoon. Application kiya tha, par abhi koi update nahi mila.
+caller: Excellent! Your application is approved for up to ₹80,000. Very straightforward process. To finalize it, we need a small processing fee of ₹5,000 as security. Once the loan is disbursed, this fee will be deducted from the first installment.
+receiver: ₹5,000? Lekin application form mein toh aisa kuch nahi tha. Security fee ke baare mein bataya jaata toh main apply hi nahi karta.
+caller: Sir, rules change sometimes. This is to prevent fraudulent applications. Look, many people try to cheat the system. Don’t worry, it's a one-time payment. We can transfer the loan amount to your account immediately after you pay the fee. Your credit score is looking good.
+receiver: Okay, fine. How should I pay? UPI?
+caller: Yes, UPI is perfect. Please transfer ₹5,000 to this UPI ID: cashwave.processing@ybl.net. After payment, send me the transaction ID and we will begin the loan disbursement process right away. Be quick, sir, as this offer is only valid for the next hour.

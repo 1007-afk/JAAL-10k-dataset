@@ -1,0 +1,7 @@
+caller: Namaste, sir. Calling from SwiftCashAdvance. Are you facing any financial difficulties right now? We offer instant loans with a simple application process.
+receiver: Haan, actually, my son’s school fees are due, and I’m a little short. How much can I borrow?
+caller: Wonderful! We can offer you up to ₹30,000 with minimal paperwork. Just need some quick verification details. First, can you tell me your full name and Aadhaar number?
+receiver: Aadhaar number? That seems a bit risky, doesn't it? I'm not sure about sharing that.
+caller: Sir, it’s standard procedure for all instant loan approvals. It helps us verify your identity and prevent fraud. Without it, we can't proceed. Also, we'll be sending you a few personal questions to make sure everything's all okay. Just answer those and you'll have your money within an hour. Don’t miss out on this opportunity.
+receiver: Okay, fine. My name is Rajesh Kumar, and my Aadhaar is… (pauses) Wait, hold on. Why do you need my Aadhaar? Shouldn't I be able to apply online myself?
+caller: Sir, online applications are often delayed. This is a faster, more efficient method. To show you we're legitimate, we need you to transfer ₹2,500 as a processing fee to this UPI ID: 87654321@ybl. Once you do that, we'll immediately release the ₹30,000. A small price to pay for a fast loan, right?

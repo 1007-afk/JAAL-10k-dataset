@@ -1,0 +1,9 @@
+caller: Namaste, main Flipkart customer support se Deepak bolta hoon. Aapke account mein ek pending payment ka issue hai, jo aapke recent order ke wajah se hua hai.
+receiver: Oh, really? Which order is it? I don't think I have any pending payments.
+caller: Ji, order number FLP789456 hai. Payment fail ho gaya tha, aur ab aapko kuch extra steps lene honge. Refund process start karne ke liye, mujhe aapka OTP verify karna hoga.
+receiver: OTP? Why do I need to give you an OTP for a refund? That sounds suspicious.
+caller: Sir, Flipkart ki security policy kehti hai, refund verify karne ke liye OTP zaroori hai. Koi tension nahi lene ka. Bas OTP de dijiye, main aapko ₹3500 refund kar dunga.
+receiver: Okay, fine. It's 123456. But please make sure the refund goes through quickly.
+caller: Shukriya sir! Ab mujhe aapke bank account number ke last four digits chahiye. Refund process complete hone ke liye, woh ek hi minute ka kaam hai.
+receiver: My account number ends in 9876. Please confirm this is going to my correct account.
+caller: Perfect sir! Refund process start ho gaya hai. Aapko 24 hours mein amount mil jayega. Dhanyavaad!

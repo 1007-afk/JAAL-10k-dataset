@@ -1,0 +1,6 @@
+caller: Hey! Saw your profile on "Connect Hearts," you look amazing! I'm Alex, just moved here from London for work. Feeling a little lonely exploring a new city. Fancy chatting?
+receiver: Hi Alex! That's nice to hear, London is a long way! What kind of work do you do? And what brings you to Bangalore?
+caller: I'm in tech, software development actually. Banglore felt like a good move for career growth, you know? It's pretty hectic, long hours though. Just wanted to unwind a bit and meet someone cool. Say, if you're free later, maybe we could video call?
+receiver: Video call? That’s a bit fast, isn't it? I usually prefer to get to know someone a little before doing that. It’s a bit safer, you see.
+caller: Totally get that, safety first! I just get a good vibe from your messages. Listen, my mum's not well, I had to quickly send her some money back to the UK. My bank transfer isn’t working properly right now. Could you possibly lend me ₹5000 until tomorrow? I promise to pay you back as soon as I can.
+receiver: ₹5000? That’s quite a lot to ask from someone we just started talking to. I really don’t feel comfortable with that. It sounds a bit suspicious, to be honest.

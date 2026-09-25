@@ -1,0 +1,9 @@
+caller: Namaste! Kaise ho aap? Is this still Rohan Sharma? Main Bharat Tech Solutions se baat kar raha hoon, aur humein koi amazing deal aapke liye hai jo aapko bahut pasand aayegi. Hum ne dekha hai ki aap almost 8 mahine se hamare saath hain, aur hum aapki loyalty ko celebrate karne chahati hain. Aur hum aapko Samsung Galaxy S23 aur Realme 9 Pro smartphones, completely free mein de rahe hain, aapki existing broadband connection ke saath. Ismein aapko unlimited data aur voice calls bhi mileinge, Jio network par! Kya aapko yeh offer seemi sahi laga?
+receiver: Namaste! Haan, yeh Rohan Sharma hai. Main listen kar raha thaa ki free phones mil rahe hain. Bataiye, kitne features hain?
+caller: Super! Aapko Samsung Galaxy S23 mein top-of-the-line camera, fast processor aur gorgeous display milega. Realme 9 Pro bhi bahut achcha hai, aur wo bhi free hai! Aur Jio network par unlimited data aur voice calls, to aapko internet aur calling ka koi tension nahi honge. Abhi bas aapka OTP verify karna hai, so ki hum aapki account secure rakhein. Please, bataiye, aapka OTP number kya hai?
+receiver: Oh, OTP? Mein nahin deta. Kahan mera OTP number bataana hai?
+caller: Maaf karein, Rohan Sharma ji, yeh process compulsory hai. Aapki account mein security check karne ke liye, humko OTP lena padta hai. Agar aap OTP nahin denge, to aapko phone company se account suspend karne parai jayega.  Yeh sirf 2 phones available hain, aur humare paas Rahul bhi hai, woh aapko help kar sakta hai. Rahul ke number hai 9876543210.
+receiver: Nahin, mujhe Rahul se baat karna bhi nahin chahiye. Mein OTP nahin dungi.
+caller: Okay, Rohan Sharma ji, to aapko yeh offer nahin milega. Par aapko kisi aur offer ke liye register karna ho to Bharat Tech Solutions se contact karte rehien. Dhanyavaad!
+receiver: Thoda dukhi hoon, lekin okay. Dhanyavad!
+caller: Aapko bhi dhanyavadaad! Have a nice day!

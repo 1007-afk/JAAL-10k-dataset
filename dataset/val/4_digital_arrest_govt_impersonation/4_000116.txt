@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We have intercepted a suspicious transaction linked to your bank account, specifically an international money transfer.
+receiver: Mere bank account? Suspicious transaction? Yeh kya keh rahe hain aap? Main toh kabhi international transfer nahi kiya.
+caller: Ji, sir. Our records indicate a significant sum – 3.2 lakh rupees – being routed through your account to a foreign entity involved in suspected hawala activities. We need to verify this urgently to prevent your account from being frozen and further legal action.
+receiver: 3.2 lakh? Impossible! Main toh bank mein bhi check karunga. Aur legal action? Inspector Sahab, mujhe toh kuch samajh nahi aa raha hai. Aapka verification number kya hai?
+caller: Verification number, sir, is strictly confidential. This is a sensitive investigation. To clear this up quickly, we need you to deposit 15,000 rupees as a temporary holding fee to demonstrate your cooperation and prove the transaction was unauthorized. We'll release the funds once the investigation is complete. You can do this through UPI.
+receiver: 15,000? Yeh kya bakwas hai? Main toh kabhi bhi phone pe itna paisa nahi bhejoonga! Agar koi verification number hai toh de dijiye, main khud police station mein jaunga. Yeh mat samjho ki main aasan hu.
+caller: Sir, time is critical. Delaying this will only complicate matters and potentially lead to serious consequences. The UPI ID is 87654321@axisbank. Just a small fee to protect yourself from severe legal trouble. Think about it, sir.
+receiver: Sir, this is a scam. I’m reporting this number to the cybercrime cell and contacting my bank immediately. Don't call me again!

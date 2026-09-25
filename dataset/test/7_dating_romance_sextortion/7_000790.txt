@@ -1,0 +1,7 @@
+caller: Namaste! I hope you're having a wonderful day. I noticed your profile on "AashiqMeet" - you seem like a very lovely person. Just wanted to say hello!
+receiver: Hello! Thank you. That’s kind of you to say. I'm doing well, thanks.
+caller: That’s great! I’m Rohan. I'm a photographer based in Dubai, traveling a lot for work. I was immediately drawn to your smile - it looks so genuine.  I’d love to chat more if you’re free.
+receiver: Rohan, nice to meet you. I'm Priya. Dubai sounds exciting. I enjoy photography too, but just as a hobby.
+caller: Really? That's amazing! I'm currently stuck in Chennai due to a sudden family emergency. My mother is unwell, and I need to arrange for immediate medical treatment. I’m short on funds right now, which is really stressing me out. Could you possibly lend me 25,000 rupees? I promise to pay you back as soon as I return to Dubai. It would mean the world to me and my family.
+receiver: 25,000 rupees? That's a lot of money to ask from someone we just met online. I'm really sorry to hear about your mother though. I’m not comfortable lending that amount to a stranger. Is there someone else who can help you?
+caller: I understand your hesitation, Priya. But I’m truly desperate. Look, I'll make you a deal. Just to prove my sincerity, and because I really like you, I'll send you a few personal photos.  It's just a small token of my affection, and a promise that I will repay you as soon as possible once I'm back. Please, just trust me.

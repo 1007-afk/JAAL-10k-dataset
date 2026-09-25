@@ -1,0 +1,16 @@
+caller: Namaste ji, main Rahul hoon. Aapke mobile mein ek important message aaya hai. Kya aapne dekha? Iske liye aapko iss number par call karna hoga: 09876543210. Agar aap 3 minute ke andar call nahi karte hain, toh aapki subscription expire ho jaegi. Aapse ka naam kya hai?
+receiver: Oh God! Subscription expire hogya? Thoda tension mein hoon, yaar. Par bataiye, kya main baad mein call karoon? Mera naam Sanjay hai. Aapko batawaani zaruri hai kya?
+caller: Nahi ji, naam toh sirf check karne ke liye hai. Par expiry ka risk hai, isliye keh raha hoon. Agar aapko delay nahi milta, toh main aapko ek SMS send kar dunga. Aapka mobile number kya hai?
+receiver: Haan ji, SMS bhej dijiye. Mobile number meri hai 8765432109. Yeh subscription expire hona kya chakkar hai? Woh kaise ho sakta hai?
+caller: Ji, aapka subscription online gaming platform par hai, aur do month se koi payment update nahi hua hai. Isko automatically suspend kar diya gaya hai. Security reasons se, aapko us number par call karna padega. Agar aap 2 minutes mein call nahi karte hain, toh aapka account ban ja sakta hai. Bas ek small verification ke liye hai, samajh me aaya?
+receiver: Okay, okay, I get it. Online gaming, payment update. Thanks for telling me. I’ll try my best to call that number quickly. Hope it doesn't take too long. Thank you!
+caller: Koi baat nahi ji. Jaldi kar lijiye, taaki aapki game safe rahe. Agar aapko koi aur problem aaye toh mujhe batayein, mein madad karunga, if possible.
+receiver: Theek hai, aapki madad ke liye dhanyavaad. Mein koshish karunga ki jald call kar lूँ. Agar koi aur information chahiye hota hai ya kuchh pata chal jata hai, toh mujhe batao, theek hai?
+caller: Namaste sir, main Ashok hoon. Aapke mobile mein ek important notification aaya hai. Kya aapne dekha? Iske liye aapko iss number par call karna hoga: 09212345678. Agar aap 4 minute ke andar call nahi karte hain, toh aapka loan application reject ho sakta hai. Aapke name ka spelling bataiye, please.
+receiver: Loan application? Arre yaar, yeh toh serious matter hai. Par main abhi thoda busy hoon. Bataiye, kya main baad mein call karoon? Mera naam Ravi Kumar hai.
+caller: Nahi ji, naam toh zaroori hai. Loan rejection ka chance hai, isliye keh raha hoon. Agar aapko delay nahi milta, toh main aapko WhatsApp message bhi bhejoonga. Aapka phone number kya hai?
+receiver: Haan ji, WhatsApp message bhejo. Number mera hai 7894561230. Loan apply karne ka kya matlab hai? Aur rejection kyun ho sakta hai?
+caller: Ji, aapka loan application bank ne kuch technical issues ki wajah se reject kar diya hai. Isko rectify karne ke liye aapko us number pe call karna padega. Agar aap 3 minutes mein call nahi karte hain, toh aapka account freeze ho sakta hai. Just a quick verification ke liye hai, don't worry.
+receiver: Okay, okay, I understand. Technical issues, account freeze. Thanks for explaining. I’ll try to call that number immediately. Please tell me if there is any other issue.
+caller: Koi baat nahin sir. Jaldi kar le, taaki aapka loan secure rahe. Agar aapko koi aur query aaye toh mujhe batayein, mein madad karunga, agar mumkin ho toh.
+receiver: Dhanyavaad Ashok ji, aapki madad ke liye. Mein koshish karunga ki jald call kar lूँ. Agar koi aur information chahiye hota hai ya kuchh pata chal jata hai, toh mujhe batao, theek hai?

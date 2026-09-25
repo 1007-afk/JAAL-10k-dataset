@@ -1,0 +1,7 @@
+caller: Hello! This is Rohan from QuickCash Solutions. I’m calling regarding your recent loan application. It’s been pre-approved for ₹75,000! Fantastic, isn't it? Just a small processing fee of ₹7,500 is needed upfront to activate it.
+receiver: ₹7,500? I don’t remember applying for a loan. I think you have the wrong number.
+caller: No, no, we have your details. Priya Sharma, correct? You applied through the FastLoan app. There was a slight system error, but we've rectified it. This fee secures your loan and prevents it from being offered to someone else. Otherwise, we'll have to cancel it.
+receiver: I genuinely didn't apply for any loan. I don’t even use that app. Look, I’m going to hang up now.
+caller: Wait, Priya! Don't be hasty. If you don’t pay this fee, we'll have to report you for loan fraud. And we also have your contacts. We can send some… compromising information about you to your friends and family. It's better to just pay the fee.
+receiver: Compromising information? What are you talking about? This is a scam! You're threatening me.
+caller: We aren't threatening, Priya. We’re merely outlining the consequences. Transfer ₹7,500 to the UPI ID provided. This is your last chance. Otherwise, we begin the process. Do you understand?

@@ -1,0 +1,9 @@
+caller: Hello, I'm calling from Axis Bank. We’re doing a security update on your account. Can you quickly verify some details to ensure everything is working smoothly?
+receiver: Oh really? What kind of details do you need?
+caller: Right now, we just require your Voter ID number, your latest address proof document, and the last four digits of your credit card. This is simply to update our records.
+receiver: Voter ID and credit card details? That seems like quite a lot of information to ask for over the phone. Is there no other way to verify this? What about an OTP through SMS?
+caller: Absolutely! It’s completely secure, and we use top-level encryption. Just give us those details so we can finalize the update. Don’t worry, we won’t ask for your full credit card number. We just need the last few digits for verification purposes.
+receiver: I'm still a little hesitant sharing all this information. There has to be another method, maybe an online portal where I can check it myself? Or perhaps a visit to a branch?
+caller: Look, it’s incredibly important that we verify your identity immediately. Online portals aren’t reliable for this specific type of update. And visiting a branch takes too long. Please trust me; this is standard protocol for securing your account against fraud. Provide me with these details, and I’ll send you an immediate confirmation text.
+receiver: So, this is standard protocol for preventing fraud? I haven't heard of this before. Could you please provide me with a direct customer service number, so I can speak to someone about this further? Or an email address where I can get more clarification? I’d rather not disclose everything over this phone call.
+caller: Of course! Here's our official helpline number: 1800-XXX-XXXX. You can call them anytime for any questions or concerns regarding this verification process. Please don’t hesitate to reach out if you have any doubts.

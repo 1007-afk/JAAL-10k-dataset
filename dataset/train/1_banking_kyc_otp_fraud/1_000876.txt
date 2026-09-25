@@ -1,0 +1,8 @@
+caller: Hello, this is Rohan calling from HDFC Bank security. We’ve noticed some unusual activity on your account and need to quickly verify a few details to prevent potential fraud.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: It seems there was an attempt to transfer a large sum to an unknown account from your device. To secure your funds and prevent further unauthorized access, we need to confirm your Aadhaar number and the OTP sent to your registered mobile number. It's a standard security measure, madam.
+receiver: Aadhaar number? Over the phone? That sounds very risky. HDFC would never ask for my Aadhaar number, right?
+caller: Madam, with the rise in online scams, we are taking extra precautions. This is a mandatory step to protect your account. If you don’t verify immediately, we’ll have to temporarily suspend your account for security reasons. Think of it as a small inconvenience to avoid a major loss.
+receiver: Suspend my account? Okay, wait a minute. Let me just quickly check the HDFC Bank website to see if there’s any notice about this kind of verification.
+caller: Madam, don’t delay! Every second counts. Hackers can be very fast. Just give me the Aadhaar number and OTP, and I’ll immediately whitelist your device and ensure your account is safe. Don’t risk losing your money, madam.
+receiver: You know what? I’m not comfortable with this at all. I’m going to call the official HDFC Bank customer care number printed on my debit card. Thank you.

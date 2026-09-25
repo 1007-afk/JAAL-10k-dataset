@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank se Rohit Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapki security ke liye, humein aapke details verify karne ki zarurat hai.
+receiver: Axis Bank se? Mujhe koi message nahi aaya tha. Kya galat ho raha hai?
+caller: Sir, ek new online transaction attempt hua hai jo approved nahi hai. Account freeze hone se bachne ke liye, aapko jald se jald verify karna hoga. Main aapko ek OTP bheju, woh bataiye.
+receiver: OTP? Aur kisliye? Main toh koi transaction nahi kiya tha. Mein kabhi online payments nahi karta.
+caller: Sir, woh OTP aapke account ki security check ke liye hai. Yeh humara new fraud detection system hai.  Aapke OTP se pata chalega ki aap hi account ke sahi owner hain.  Agar aap verify nahi karenge, toh kal subah tak aapka account block ho sakta hai.
+receiver: Account block ho jayega?  Yeh toh bahut serious hai.  Par OTP share karne mein thoda khauf ho raha hai.  Kya main bank branch mein jaa kar verify kar sakta hoon?
+caller: Sir, branch mein line lagenge, aur time bhi waste hoga.  Yeh process bahut urgent hai.  Sir, please, OTP bata dijiye, phir main aapko aapke account details confirm karunga.  Aapki security hi humara priority hai.  Sir, abhi sirf 1 attempt baki hai, jaldi karo.
+receiver: Ek attempt? Yeh kya keh rahe hain? Kuch toh gadbad hai. Main report karta hoon isko.

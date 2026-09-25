@@ -1,0 +1,7 @@
+caller: Namaste! Main Swiggy se Rohit bol raha hoon. Aapke naam par ek order aaya hai, lekin payment mein kuch problem ho gaya hai.
+receiver: Swiggy? Mere naam par order? Mujhe toh koi order yaad nahi. Aur payment problem?
+caller: Haan ji, Mr. Sharma. Order number hai SWG789456. Payment nahi hua, isliye delivery stop ho gayi hai. Aapko confirm karna hai toh OTP send kar sakte hain.
+receiver: OTP? Swiggy aise OTP maangta hai kya? Main toh confused hoon. Koi link bhejo jahan main order dekh sakoon.
+caller: Sir, security ke vajah se OTP send karna padega. OTP send karne ke baad main aapko payment link bhi de doonga. 1 minute ka kaam hai.
+receiver: Theek hai, bhijwa do OTP. Par jo bhi ho, main check karunga order number ko, aur koi shaanti ho toh main direct Swiggy customer care number pe call karoonga.
+caller: Bilkul sir! OTP hai: 876543. Ab main aapko payment link de raha hoon. Jaldi karo, offer abhi valid hai.

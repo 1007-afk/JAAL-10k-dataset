@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay se bol raha hoon, Paytm se. Aapke Paytm wallet mein ₹5000 ka cashback offer chal raha hai.
+receiver: Paytm cashback? ₹5000? Mujhe to koi notification nahi mila.
+caller: Haan ji, offer limited time ke liye hai. Verify karne ke liye, aapko ek OTP send karenge mere phone pe.
+receiver: OTP? Aapko OTP chahiye? Paytm toh SMS direct mere phone pe send karta hai.
+caller: Woh system mein technical problem hai, Vijay se verify karna padega. OTP do jaldi, otherwise offer expire ho jayega.
+receiver: Theek hai, wait kar raha hoon. OTP aaya hai mujhe - 1234.
+caller: Shukriya, madam. Ab aapka account verify ho gaya hai. ₹5000 cashback aapke wallet mein transfer ho jayega. Just ek chota processing fee ₹50 UPI ke zariye transfer kar dijiye.
+receiver: ₹50 fee? Paytm mein toh aise fee nahi lagta. Main verify karna chahti hoon.

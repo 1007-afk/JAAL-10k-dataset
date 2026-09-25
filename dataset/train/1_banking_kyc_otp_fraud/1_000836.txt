@@ -1,0 +1,6 @@
+caller: Hello, this is Priya from Axis Bank fraud prevention. We’ve noticed some unusual activity on your linked Paytm wallet. Have you made any recent transactions you don't recognize?
+receiver: Unusual activity? No, I don't think so. What kind of activity are you seeing? My Paytm is mostly for utility bills.
+caller: Yes, sir. We’re flagging a payment of ₹2,500 to a gaming platform called “Royal Spin.” This is potentially a fraudulent transaction. To secure your account and prevent further unauthorized access, we need to quickly verify some details. Can you please confirm your registered mobile number?
+receiver: Royal Spin? I never heard of that. My mobile number is 9876543210. But why are you asking me this? Shouldn't you already have that?
+caller: Sir, for verification purposes, we need to confirm. Additionally, we also need the last four digits of your Aadhaar card to complete the security protocol. It’s just a standard procedure to prevent further loss.
+receiver: Aadhaar? Hold on a second. I’ve heard about these scams. You're asking for my Aadhaar and mobile number… that’s a huge red flag! I'm not giving you anything. I'm calling Axis Bank directly.

@@ -1,0 +1,7 @@
+caller: Namaste, is this Ms. Sharma? I'm calling from the Directorate of Revenue Intelligence, DRI. We've detected some unusual activity linked to your bank account.
+receiver: Hello? DRI? What kind of activity? Is something wrong?
+caller: Ji, Ms. Sharma. Our system has flagged several international transactions originating from your account, appearing to be related to the smuggling of electronic goods. We need to verify your details to prevent further illegal activity.
+receiver: Smuggling? That’s impossible! I haven’t made any international transactions. I only use my account for regular expenses. This is very strange.
+caller: We understand your surprise, Ms. Sharma, but it’s crucial we act fast. To secure your account and prevent legal complications, we require a small processing fee of ₹15,000 to cover investigation costs. It’s a refundable amount, of course.
+receiver: Fifteen thousand rupees? To investigate something I didn't even do? Look, this sounds like a scam. The DRI wouldn't ask for money over the phone like this. I'm going to call my bank and report this. Goodbye.
+caller: Ms. Sharma, please listen! Delaying this will only escalate the situation. If you don't pay the fee, we’ll have to issue a warrant for your arrest. This is a very serious matter, and the court won't be lenient.

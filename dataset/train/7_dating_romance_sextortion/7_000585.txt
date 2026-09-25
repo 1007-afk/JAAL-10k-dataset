@@ -1,0 +1,6 @@
+caller: Namaste, Madam! Kaise hain aap? I hope you're having a lovely evening. I noticed your profile on "Hearts Unite," you seem like a very interesting woman.
+receiver: Hello. Yes, I’m fine, thank you. And you? Hearts Unite? I haven’t been on there long.
+caller: Wonderful! I'm Raj, I’m an architect from Dubai. Been working on some very exciting projects, lots of travel. You have such a kind smile, it reminded me of someone special. We both seem to like old Bollywood films, don't we?
+receiver: That’s true. I do love a good classic film. Dubai sounds glamorous, though I imagine it must be very busy.
+caller: It is, very busy! But I manage. Listen, there's a crucial meeting tomorrow, a big opportunity for me, but I need to quickly send some important documents to a client. My bank is being difficult with international transfers right now. Could you possibly help me out with a small advance – just 5000 rupees - to cover the courier fee? I’ll repay you the moment I get paid, I promise.
+receiver: 5000 rupees? For a courier fee? That seems awfully high. And why can't you use your own bank? This sounds a bit suspicious, to be honest.

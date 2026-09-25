@@ -1,0 +1,8 @@
+caller: Namaste! Main Paytm Care se calling kar raha hoon. Aapko ₹50 cashback offer mil raha hai aapke Paytm wallet pe.
+receiver: Paytm cashback? Haan, mujhe offer ke bare mein bataiye.
+caller: Ji, Paytm aapke last transaction pe ₹50 cashback de raha hai, lekin claim karne ke liye aapko ₹10 processing fee pay karna hoga. Yeh offer sirf aaj ke liye hai.
+receiver: ₹10 fee? ₹50 cashback ke liye ₹10 fee dena hai?
+caller: Haan ji, ₹10 processing fee ke baad ₹60 cashback aapke wallet mein deposit ho jayega. Verification ke liye aapka OTP number bataiye.
+receiver: OTP? Main yeh trust nahi karta. Paytm ka official number kya hai? Mujhe confirm karna hai.
+caller: Sir, time is running out. Yeh offer sirf 10 minutes mein khatam ho jayegi! Jaldi se OTP de dijiye, warna aap ₹50 ka cashback miss kar jayenge. Abhi OTP de dijiye!
+receiver: Theek hai, ₹10 fee se behtar ₹50 cashback miss karna hai.

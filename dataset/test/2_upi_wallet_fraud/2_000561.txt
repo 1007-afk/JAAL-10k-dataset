@@ -1,0 +1,7 @@
+caller: Namaste, main Amazon se call kar raha hoon. Aapne Amazon par ₹1200 ka order kiya tha, lekin payment fail ho gaya. Payment complete karne ke liye, aapko ₹200 processing fee deposit karni hogi.
+receiver: ₹200 processing fee? Amazon aise call karke fee maangta hai kya? Mujhe toh kuch yaad nahi aa raha.
+caller: Haan ji, sir. System mein technical issue hai. ₹200 Paytm par send kar dijiye, main aapko verification link bhejuunga. Bas ₹200, phir aapka order process ho jayega.
+receiver: ₹200 Paytm par? Thoda wait karo, main apna Amazon app check karta hoon. Ek minute.
+caller: Sir, jaldi karo, offer sirf 10 minutes ke liye hai. ₹200 deposit nahi kiya toh aapka order cancel ho jayega aur aapko ₹1200 ka loss bhi hoga.
+receiver: ₹1200 ka loss? Yeh bahut hi wrong lag raha hai. Main koi bhi payment nahi karunga. Main call end kar deta hoon.
+caller: Sir, aapko ₹1200 ka loss hoga! Jaldi karo! AAPKA ORDER CANCEL HO JAYEGA!

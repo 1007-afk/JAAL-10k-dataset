@@ -1,0 +1,11 @@
+caller: Namaste, sir? Is this Mr. Sanjay Patel speaking? This is Inspector Sharma from the Delhi Customs Department.
+receiver: Haan, mein Sanjay Patel hi hoon. Inspector Sharma? Kya hua?
+caller: Sir, we have intercepted a parcel registered in your name containing suspicious items. Initial investigation suggests it might be linked to a money laundering operation originating from abroad.
+receiver: What?! Mein toh koi parcel nahi bheja. Yeh kya keh rahe hain aap?
+caller: Sir, please don’t panic. We need your cooperation to clear this matter quickly. To avoid legal complications and potential arrest, you’ll need to pay a small processing fee of ₹15,000 to expedite the investigation and ensure the parcel is released.
+receiver: ₹15,000? Par mein toh kuch bhi parcel nahi bheja hai! Aur arrest bhi? Yeh bahut galat hai.
+caller: Sir, we understand this is concerning, but we need to verify your financial records. To prove your innocence and expedite the process, please provide us with your UPI ID so we can securely process the payment. This is a standard procedure.
+receiver: UPI ID? Nahin, main koi bhi details nahi dene wala. Yeh scam lag raha hai!
+caller: Sir, delaying this will only complicate matters. We have evidence linking your name to this transaction. This is your final opportunity to resolve this discreetly. Failure to cooperate will result in formal charges being filed against you.
+receiver: Aur kya charges honge? Main police station mein jaaunga agar aapko mera phone number pata hai.
+caller: Sir, we simply want to ensure compliance. To confirm you understand the severity of the situation and are willing to cooperate, could you please acknowledge that you understand the need for the ₹15,000 processing fee to avoid further legal action?

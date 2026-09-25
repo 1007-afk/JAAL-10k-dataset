@@ -1,0 +1,12 @@
+caller: Namaste, sir. Main IDFC First Bank se Rohit bol raha hoon. Aapke naam par ek account hai, aur usmein kuch suspicious activity dikh raha hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi hai.
+caller: Sir, ek online transaction hua hai ₹12,500 ka, Nepal mein. Aapne kiya tha kya?
+receiver: ₹12,500? Nepal? Bilkul nahi! Main toh kabhi Nepal nahi gaya.
+caller: Sir, ye bahut serious hai. Account suspend bhi ho sakta hai. Immediately aapko apna OTP bataana padega, taaki main transaction block kar sakoon aur aapke account ko secure kar sakoon.
+receiver: OTP? Lekin bank toh aise OTP nahi manta hai. Main shaq kar raha hoon.
+caller: Sir, please! Time is running out. Agar aap OTP nahi batayenge, toh account block ho jayega aur aapka paisa bhi chala jayega. Ye security protocol hai. Just bata dijiye, sir. Main apki help kar raha hoon.
+receiver: Okay, theek hai. Bataata hoon. Par jab sab theek ho jaye, toh main bank branch mein jaakar complaint register karwaunga.
+caller: Haan, bilkul, sir. Bata dijiye OTP.
+receiver: Dekhiye, main ek test OTP de raha hoon. 1234. Agar ye kaam karta hai, toh samajh lijiye aap fraudster hain.
+caller: Sir, aapka OTP wrong hai. Please sahi OTP bataiye. Aur jaldi bataiye, otherwise account suspend ho jayega.
+receiver: Theek hai, bye.

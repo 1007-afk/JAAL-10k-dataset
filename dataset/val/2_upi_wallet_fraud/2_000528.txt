@@ -1,0 +1,9 @@
+caller: Namaste! Main Vijay Sharma, Paytm Customer Care se bol raha hoon. Aapke Paytm wallet mein ek transaction fail hua hai, ₹2500 ka, jo ek unknown number se kiya gaya tha.
+receiver: Oh no! Really? I wasn’t expecting any transactions. What happened?
+caller: Haan ji, ek suspicious activity detect hui hai. Security ke liye, humein aapke account ko verify karna hoga. Aapko ek OTP milega, woh bataiye please.
+receiver: Okay, just received it. It’s 876543.
+caller: Thank you! OTP verified. Ab, aapko ₹2500 recover karne ke liye ek small processing fee deposit karna hoga, sirf ₹500. Yeh amount sirf ek baar hi lagega, promise! Aapko ek UPI ID milega, wahan deposit karke bataiye.
+receiver: ₹500? Seriously? Is that really necessary to get my money back?
+caller: Haan ji, sir! Rules hai. ₹500 fee deposit karke aapka account safe ho jayega aur ₹2500 recover ho jayega. UPI ID hai: securepay786@yono.
+receiver: Okay, I’ll transfer ₹500 to that UPI ID. Let me do that now.
+caller: Bahut achha! Transaction confirm hone ke baad mujhe bataiye, fir mein aapko recover karne ka code dunga. Jaldi kariye, sir!

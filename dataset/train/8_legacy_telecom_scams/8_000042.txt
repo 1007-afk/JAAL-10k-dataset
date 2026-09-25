@@ -1,0 +1,12 @@
+caller: Namaste, main ‘Shubh Fortune Solutions’ se baat kar raha hoon. Aap kaise hain? Main ek achchhi baat ke saath aapko connect karne aaya hun. Aapko ek ‘Golden Ticket’ mila hai, jisse aap ek luxury car jeet sakte hain! Lekin, agar aap jeetna chahte hain, toh aapko ek small verification process complete karna hoga. Just a simple question, okay?  Aapki aankhon ka colour kya hai?
+receiver: Namaste, main theek hoon, dhanyavaad.  Aapki aankhon ka colour kya hai?  Mujhe samajh mein nahin aa raha.
+caller: Wah, superb! Aapki aankhon ka colour brown hai!  Ab aapko yeh answer 87890 pe SMS karna hai.  Lekin yaad rakhein, aapke paas sirf 5 attempts bache hain!  Agar aap 5 attempts fail ho gaye, toh aap woh car nahi jeet sakte.  Speed karo, is offer ko miss mat karein!
+receiver: Okay, 87890 pe SMS karna hai.  Aur yeh 5 attempts kab tak chalengi?  Matlab, kitna time mil sakta hai mujhe?
+caller: Oh, 5 attempts 12 ghante mein valid hain, ji.  Aur haan, 5 nahi, ab aapke paas sirf 4 attempts bache hain!  Please SMS your answer to 87890 immediately! Don't miss this incredible opportunity to drive away in a brand new luxury car!
+receiver: Arre, 12 ghante? Aur ab 4 attempts? Theek hai, mein abhi SMS kar dungi. Dhanyavaad!
+caller: Arre haan ji, bas ab aapke paas sirf 3 attempts bache hain! Speed se SMS kar dein 87890 pe aapka answer. Agar aap fail ho gaye, toh yeh offer khatam ho jaayega, aur aap car nahi jeet payenge.  So, hurry up!
+receiver: Arre yaar, ab sirf 3 attempts? Ye toh seriously speedy hai! Theek hai, main abhi SMS kar rahi hoon. Shukriya bataane ke liye!
+caller: Arre haan ji, bas ab aapke paas sirf 2 attempts bache hain! Jaldi se SMS kar dein 87890 pe aapka answer. Iske baad yeh offer pura khata ho jaayega, aur aap woh luxury car nahi jeet payenge. Please, please hurry!
+receiver: Arre, sirf 2 attempts? Seriously? Theek hai, main abhi send kar rahi hoon. Dhanyavaad!
+caller: Arre haan ji, bas ab aapke paas sirf 1 attempt bacha hai! Last chance! Send your answer to 87890 immediately! If you don't respond, you won't get a chance to win the luxury car!
+receiver: Okay, sending now!

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rahul se bol raha hoon, CryptoGain se. Aapki account mein ek unclaimed bonus hai – ₹75,000. Yeh ek loyalty reward hai jo aapko recently crypto trading ke liye diya gaya tha. Isko claim karne ke liye, aapko kuch details verify karwani hogi. Aapka naam bata sakte hain?
+receiver: Hello Rahul, CryptoGain? Main toh abhi tak bonus ke bare mein nahi suna tha. Sure, mera naam Priya Sharma hai.
+caller: Thank you, Priya Sharma. Ab, verification ke liye, humein aapke bank account ke last four digits chahiye. Yeh sirf confirm karne ke liye hai ki bonus sahi account mein transfer ho. Batao, last four digits kya hain?
+receiver: Umm, let me check... woh 1234 hain.
+caller: Dhanyavaad! Priya ji, verification ho gaya hai. Ab, bonus ko aapke account mein transfer karne ke liye, humein ek small processing fee chahiye - ₹2,500. Yeh fee sirf ek baar laggi hogi aur phir bonus aapke account mein transfer ho jayega. Aapko yeh fee transfer karne ke liye convenience hai?
+receiver: ₹2,500? Yaar, mujhe toh yeh baat pehle batani chahiye thi. Aur ₹75,000 ka bonus hai aur ₹2,500 fee?
+caller: Priya ji, yeh fee transfer process ko secure karne ke liye hai. Agar aap fee pay nahi karte, toh bonus expire ho jayega. Aapko ₹75,000 haarne ka risk hai! Aapko UPI se pay karna hai – number mai send karunga. Jaldi karo, Priya ji, time limited hai.

@@ -1,0 +1,12 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan from GlobalTech Support. I’m calling about a potential security issue related to your internet connection. We detected unusual activity on your router last week. Do you remember any strange lights or noises coming from it?
+receiver: Namaste, yeh Mr. Sharma ki line hai. Kisko Rohan ji GlobalTech se call kar raha hai? Internet connection se kya hua? Mujhe kuchh yaad nahin aa raha... Router mein kya hua?
+caller: Koi baat nahin sir, yeh bilkul normal hai ki aapko yaad na ho. Yeh GlobalTech Security Alert system ke baare mein hai. Router mein kuch problem tha, aur humne usko fix kiya hai. Lekin, verification ke liye, humein aapke account mein jo password hai, wo confirm karna hoga. Just for safety reasons, sir/madam. Can you tell me your current password?
+receiver: Password? Mein shaant hoon. Kahan likh rahi ho? Yeh mera private information hai. GlobalTech ko yehi sab seekhna hai?
+caller: Ji bilkul, sir/madam. Yeh sirf verification ke liye hai. Hamare system mein aapki security profile updated ho jayegi. Ismein koi risk nahi hai. Aur humein aapke router model number ki bhi zaroorat hai - it's usually printed on a sticker on the back. Could you please provide that?
+receiver: Router model number? Woh jaanta bhi nahi hoon! Main toh computer user hoon, technical matters mein interest nahi karta. Ye sab kitna complicated hai!
+caller: Koi baat nahi sir, woh bahut easy hai. Hum aapko step-by-step guide karenge. Aur ek aur baat, humein aapke IP address ki bhi zaroorat hai, just for confirmation. It's a unique number assigned to your internet connection. Could you share that with us, please?
+receiver: IP address? Mera IP address kya hai? Main toh internet use karte hain, mujhe ye kamzor lagta hai. Kya aap mujhse paisa loot rahe ho?
+caller: Ji bilkul nahi, sir/madam. Yeh sirf aapki security check karne ke liye hai. Hamare system mein aapki identity verified hogi. Aur agar aap agree karenge, toh hum aapko free antivirus software de sakte hain. Free antivirus software, sir/madam?
+receiver: Antivirus software? Bahut acha offer hai! Lekin main abhi thak gaya hoon. Mujhe yeh sab malum nahi hai.
+caller: Sir, yeh aapki security ke liye hai. Agar aap agree karenge, toh hum aapko helpline number de sakte hain jisse aap madad le sakte hain. Helpline number hai 91-XXXXXXXXXX. Are you ready to proceed?
+receiver: Haanji, okay. Helpline number bataiye.

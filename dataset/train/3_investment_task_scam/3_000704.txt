@@ -1,0 +1,6 @@
+caller: Namaste! Main Rohan se baat kar raha hun, CryptoGain Solutions se. Aapko ek bahut hi achha investment opportunity mil raha hai – Bitcoin mein daily 1% profit! Iske liye sirf ₹5000 invest karni hai.
+receiver: Daily 1%? Yeh bahut zyada lag raha hai. Koi risk toh hoga hi na?
+caller: Haanji, risk hai, lekin humara algorithm bahut strong hai. Market mein fluctuations aate hain, lekin hum ensure karte hain ki aapko profit mile. Aap bas apna naam aur phone number bataiye, main aapko details send karunga.
+receiver: Theek hai, mera naam Vijay hai, aur phone number 9876543210 hai. Details send karo.
+caller: Bahut accha, Vijay ji. Ab aapko ek small verification fee bharne hogi – sirf ₹500. Yeh fee humare system ko secure karne ke liye hai. Aap Paytm ya UPI se pay kar sakte hain.
+receiver: ₹500 verification fee? Pahle profit ki baat kar rahe the, ab fee bharne ko bol rahe ho? Yeh thoda funny lag raha hai.

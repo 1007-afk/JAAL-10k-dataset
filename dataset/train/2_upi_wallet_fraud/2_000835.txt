@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mai Paytm se Rahul bol raha hu. Aapke Paytm wallet mein ₹15,000 ka cashback offer aa gaya hai!
+receiver: Paytm se? ₹15,000 cashback? Wah, sach mein? Batao, kya karna hai?
+caller: Haan sir, sach hai. Yeh offer sirf limited time ke liye hai, sirf ek ghante ke liye. Aapko sirf ₹500 ka processing fee deposit karna hai, tab cashback aapke account mein transfer ho jayega.
+receiver: ₹500 fee? Aur ₹15,000 cashback? Main koi link ya app install karna padega?
+caller: Nahin, sir. ₹500 fee aapko ek UPI ID par send karna hai jo mai aapko dunga: 9876543210. Jab fee confirm ho jayegi, cashback apne aap aa jayega.
+receiver: Theek hai, check karta hu. (pause) ₹500 send kar diya hu. Ab kya?
+caller: Bahut achha, sir! Fee confirm ho gayi hai. Ab aapko ek OTP milega apne phone pe. Woh OTP mujhe bataiye, tab cashback activate ho jayega.
+receiver: Haan, OTP aa gaya… 4782. Bata diya?

@@ -1,0 +1,7 @@
+caller: Namaste, sir? My name is Rajesh Kumar, calling from the Central Board of Indirect Taxes and Customs, CBIC. We've detected some suspicious activity linked to your PAN card, sir. It appears a large sum of money was recently transferred overseas using your PAN details without your knowledge.
+receiver: What? This is a scam, right? How can that be possible? I haven't transferred any money.
+caller: Sir, please don't be alarmed. We're calling to assist you. It looks like your PAN has been compromised. To prevent further illegal transactions and to clear your name, we need you to verify a few details. I need you to confirm the last four digits of your bank account number.
+receiver: No, I will not give you my bank details. You're clearly trying to scam me. CBIC will never ask for that information over the phone.
+caller: Sir, this is a very serious matter. We need to act quickly. If you don't cooperate, we’ll have to register a case against you and issue a warrant. We can avoid all this if you just tell me the last four digits. You are at risk of being implicated in a money laundering case.
+receiver: A warrant? This is ridiculous! I’m reporting this number to the cybercrime helpline. You are a fraud!
+caller: Sir, please! Just a few digits, and we can resolve this. A court notice will be sent to your address if you don't comply. Think about your family, sir.

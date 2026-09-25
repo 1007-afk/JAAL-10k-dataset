@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya calling from Axis Bank KYC department. We’ve noticed some unusual activity on your account, possibly related to online transactions from a new device. For security reasons, we need to quickly verify your details to prevent any unauthorized access.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, it seems a few small transactions were attempted from a mobile number we don’t recognize. To block this immediately and secure your funds, could you please share the OTP you just received on your phone? It's a one-time password for immediate verification, just 4 digits.
+receiver: OTP? But why can't you verify with my registered mobile number? I'm already talking to you. This feels a bit off, to be honest.
+caller: Sir, for extra security, we’re using a new verification method. This is standard procedure. If you don't share the OTP now, we will have to temporarily suspend your account for your safety. You will not be able to access online banking or UPI until we resolve this. Only 2 attempts left to verify, sir.
+receiver: Suspend my account? Okay, okay, don’t panic. But I still feel weird. Let me just call Axis Bank directly from their official number. Give me that number.
+caller: Sir, our systems are experiencing high call volumes right now. It's best to complete this verification quickly to avoid any disruption to your services. The OTP is the fastest and safest way. Please share it, sir. Time is running out.

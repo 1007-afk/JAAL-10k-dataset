@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Verma? We've detected some unusual activity on your Freecharge wallet. It appears someone attempted to make a payment of Rs. 2,500 from your account.
+receiver: What? Really? That's not me. I didn't make any payment.
+caller: Yes, sir. Our system flagged it. To secure your wallet and prevent further unauthorized transactions, we need to quickly verify some details. Could you please confirm the last four digits of your PAN card?
+receiver: Why do you need my PAN card? Isn’t that a bit much for just verifying a payment?
+caller: Sir, it's a standard security protocol. We need to make absolutely sure we're speaking to the rightful owner of the account.  We also need a one-time password sent to your registered mobile number to complete the verification process. It's a simple, one-time thing.
+receiver: A one-time password? I’m really not comfortable sharing that. Could you give me a reference number or a way to verify you’re really from Freecharge? I’ll call them directly.
+caller: Sir, time is of the essence! If you don't verify now, we'll have to temporarily freeze your account for your safety.  Just send the OTP and the last four digits of your PAN – it’s just to confirm everything. Please, don't delay!

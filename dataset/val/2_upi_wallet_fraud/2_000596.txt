@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Vijay hu, Axis Bank se call kar raha hu. Aapke account mein achanak se 5000 rupay ka transaction hua hai, aur woh suspicious lag raha hai.
+receiver: 5000 rupay? Kisne kiya transaction? Mujhe toh koi notification nahi aaya.
+caller: Sir, hacker ne try kiya hai, lekin humne block kar diya. Ab aapko confirm karna hai ki aapne nahi kiya. Confirm karne ke liye, aapko apna PhonePe UPI ID aur OTP send karna hoga, tab hum aapke account ko secure kar payenge.
+receiver: UPI ID aur OTP? Bank aise phone pe nahi poochta. Itni saari information, mujhe doubt ho raha hai.
+caller: Sir, security protocol hai ye. Without verification, hum account ko completely block kar denge. Imagine, sir, if hackers get complete access! Aapse cooperation ki zarurat hai, sirf UPI ID aur OTP send karein.
+receiver: Block kar denge? Chalo, ek minute ruk jao. Mein khud Axis Bank ke customer care number se call karta hu aur check karta hu. Aap wait karein.
+caller: Sir, time bahut kam hai! Hackers anytime access kar sakte hain! Please, provide the information now, otherwise your account will be compromised immediately!

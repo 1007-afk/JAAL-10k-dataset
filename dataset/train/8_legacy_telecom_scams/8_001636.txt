@@ -1,0 +1,24 @@
+caller: Namaste, yeh sabhi baat kar rahe hain 'SoundWave' team se. Apne phone mein music listening kartey hain na? Toh, hum ne dekha hai ki aapke device mein sound quality ka koi problem hai. Isliye, humein aapko ek special update provide karna hai. Ye update aapko free mein high-quality audio experience denge! Kaise hai aap?
+receiver: Oh, hello! Hai na, maine bhi suna hai ki my phone ka sound quality badhiya nahin hai. SoundWave team, update detaayen!
+caller: Fantastic! Sir/Madam, ye update install karne ke liye, humein sirf aapke device ki IMEI number chahiye hogi. EMI number ek unique identification code hoti hai, aur ismein aapki privacy ka complete protection hota hai. Don’t worry, hum aapki data ko kisi bhi tarah se leak nahi karenge.
+receiver: IMEI number? Woh kahaan milega? Haan, aapke paas ye number hai na?
+caller: Haan, [Receiver’s Name], humein aapke device ka IMEI number already pata hai. Just let us verify it. It's completely safe and secure.  Aapko ek small verification code bhejna hoga, jisse pata chalega ki aap actual user hain.
+receiver: Okay, okay. Verification code bhejein. Batao, kaise bhejein?
+caller:  Great! Verification code aapke registered email address pe bheja gaya hai. Please check karo.  Agar aapka email id wrong hai, to hum aapko correct kar sakte hain.
+receiver: Hmm, jaa rahi hai...  Aapne jo email id di hai, woh sahi hai. Code mila.
+caller: Excellent! Code enter karo, [Receiver's Name] ji.  Code submit karne ke baad, aapka update automatically install ho jayega.  Yeh update aapke device ko speed boost karega aur sound quality ko bhi improve karega.
+receiver: Okay, code enter kiya. Submit kiya. Kya ho raha hai?
+caller:  Update install hone wala hai.  Ismein aapko kuch minute toh milenge. Thank you for choosing SoundWave!  Aapko bohot-bohat thanks!
+caller: Namaste, yeh sabhi baat kar rahe hain 'QuickPay' team se. Tumhare bank account mein ek special offer hai. Tumhare debit card se online transactions karne par aapko cashback milega! Kaise hai aap?
+receiver: Oh, hello! Cashback? Online transaction par? Interesting! QuickPay team, batao kya hai offer?
+caller: Great to hear, [Receiver’s Name]! Sir/Madam, tumhare account se ₹500 tak cashback milega har month par, jab tum online shopping kareinge ya bill pay kareinge. Ye offer sirf limited time ke liye hai!
+receiver: ₹500 tak? Wow! Haan, mujhe online shopping bahut pasand hai. Batao, kaise apply karna hai?
+caller: Bilkul, [Receiver’s Name] ji.  Ek small verification process karna hoga. Humhein sirf tumhare bank account ki last four digits aur tumhara date of birth jankari chahiye hogi. Don't worry, hum aapki financial information ko kisi bhi tarah se leaked nahi karenge.
+receiver: Last four digits aur date of birth? Okay, batao, aapke paas yeh information hai na?
+caller: Haan, [Receiver’s Name], humein tumhare account ki basic details already pata hain. Just let us verify it. It’s completely safe and secure.  Aapko ek small security question puchna hoga.
+receiver: Security question? Batao, kaunse question puchhenge?
+caller: Great! Security question aapke registered email address pe bheja gaya hai. Please check karo. Agar aapka email id wrong hai, to hum aapko correct kar sakte hain.
+receiver: Hmm, jaa rahi hai...  Aapne jo email id di hai, woh sahi hai. Code mila.
+caller: Excellent! Code enter karo, [Receiver’s Name] ji.  Code submit karne ke baad, cashback activation ho jayega.  Yeh cashback tumhare bank account mein 7-10 days mein transfer ho jayega.
+receiver: Okay, code enter kiya. Submit kiya. Kya ho raha hai?
+caller:  Cashback activation hone wala hai.  Ismein aapko kuch minute toh milenge. Thank you for choosing QuickPay!  Aapko bohot-bohot thanks!

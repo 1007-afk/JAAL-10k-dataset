@@ -1,0 +1,7 @@
+caller: Namaste Aunty, main State Bank of India se Rohit bol raha hoon. Aapke account mein security breach ka ek attempt hua hai. Aapka account suspend karne se pehle, humein KYC update karna hoga, taaki aapki deposit safe rahe.
+receiver: State Bank of India? Main toh koi breach jaanta nahin. Aur suspend bhi? Kaise?
+caller: Haan ji, system ne flag kiya hai. Ek new transaction aaya tha Nepal mein, aur hume verify karna hai ki woh aapne kiya tha ya nahin. Bas apna Aadhaar number aur OTP bata dijiye, ek minute mein sab ho jayega. Account suspend hone se pehle jaldi kijiye.
+receiver: Nepal mein transaction? Mujhe toh koi notification nahin aaya. Aadhaar number bataane se pehle mujhe thoda doubtful lag raha hai.
+caller: Aunty, yeh security procedure hai. Hum aapko secure kar rahe hain. OTP aapko aapke phone pe milega, woh humein bata dijiye. Bas ek baar bata dijiye taaki hum aapka account safe kar sake. Without OTP, we cannot proceed.
+receiver: Theek hai, OTP aaya hai. Par main abhi bank branch mein jaungi aur check karungi.
+caller: Aunty, account suspend hone se pehle aapko OTP bata dena chahiye. Bank branch mein line lagegi, aur account suspend ho jayega! Please, just give me the OTP quickly. It's very urgent.

@@ -1,0 +1,9 @@
+caller: Hello sir, this is Akash from LoanExpress. We saw your recent loan application and it's almost approved! Just need a quick verification. Do you have a recent photo of yourself handy?
+receiver: Yes, I do. I have one on my phone. What do you need it for?
+caller: Wonderful! We need to digitally watermark it with our security seal. Could you please send it to our secure upload portal? The link is loanexpress.in/verify.
+receiver: Okay, sending it now. It’s uploaded.
+caller: Excellent. Now, for final approval, we need to confirm your account details. Could you please share the last four digits of your bank account number and an OTP that we’ll send to your registered mobile?
+receiver: Sure. The last four digits are 4567. And I just received an OTP, it's 879012.
+caller: Perfect! Thank you, sir. Your loan of ₹10,000 is now approved and will be credited to your account within 24 hours. However, there's a small processing fee of ₹1500 that needs to be cleared immediately via UPI.
+receiver: ₹1500? But I didn't agree to any processing fee.
+caller: Sir, this is standard procedure. Without the fee, the transaction will be blocked. Please UPI to [invent a UPI ID] immediately, or we will have to cancel your loan and report you for fraudulent activity.

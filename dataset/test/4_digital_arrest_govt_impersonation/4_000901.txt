@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan Sharma calling from the Cyber Crime Investigation Cell. We’ve detected unusual activity on your bank account linked to a suspicious cryptocurrency transaction.
+receiver: Cyber Crime? Cryptocurrency? What’s happening? I didn’t do anything like that.
+caller: Sir, we’ve flagged a transaction of ₹15,000 to a known crypto wallet involved in illegal activities. To clear you of any suspicion and prevent further fraudulent transactions, we need you to verify your account details and make a small security payment.
+receiver: Security payment? How much are we talking about? And why do I need to pay anything if I’m being investigated?
+caller: Sir, it's just ₹5,000 as a processing fee to expedite the verification and ensure your funds are secure. We need this payment through UPI to this number: 9876543210. Once verified, we will close the case. This is a standard procedure.
+receiver: ₹5,000? UPI? Wait a minute… This feels really fishy. Can you tell me the case number and the officer’s ID? Let me verify with my bank first.
+caller: Sir, please do not delay! The window for verification is closing. Delaying will only escalate the situation. Quickly send the amount via UPI, or we’ll have to issue a warrant for your arrest.

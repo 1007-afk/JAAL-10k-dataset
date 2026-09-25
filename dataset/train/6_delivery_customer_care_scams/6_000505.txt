@@ -1,0 +1,9 @@
+caller: Namaste! I'm calling from Bluestar Courier. We have a package addressed to you, but there's a customs clearance issue.
+receiver: Oh really? I wasn’t expecting anything. What’s the package?
+caller: It's a mobile phone, sir. Worth quite a bit, approximately ₹28,000. The customs department needs to verify the payment details to release it.
+receiver: ₹28,000? That's a lot! I didn't order a phone. Are you sure it’s for me? What's the tracking number?
+caller: Yes sir, the address matches yours perfectly. The tracking number is BLS7890123. To proceed, we need a small verification fee of ₹2,500 to cover the customs processing charges. You can pay through UPI.
+receiver: ₹2,500? That seems strange. Can I speak to a supervisor? And why do I need to pay upfront?
+caller: Sir, I understand your concern, but this is standard procedure. A supervisor is unavailable right now. We need to clear this quickly or the package will be returned to the sender. Just send the money to UPI ID 9876543210@ybl. Once the payment is confirmed, your package will be released immediately.
+receiver: Okay, wait a second. Let me check something. I'll call you back.
+caller: Sir, please don’t delay! The offer is only valid for the next 10 minutes. After that, we will have to return the package.

@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? This is Rohan calling from State Bank of India’s security department. We've detected some suspicious login attempts on your account from an unknown device.
+receiver: Haan, main Priya Verma bol rahi hoon. Suspicious login attempts? Kab hua? Mujhe toh kuch pata nahi.
+caller: Just an hour ago, ma’am. To protect your funds, we need to quickly verify your identity. Can you please share the last four digits of your debit card for immediate verification?
+receiver: Debit card ke last four digits? Meri card details! Ye thoda risky toh lagta hai. Aap se bataun toh?
+caller: Ma'am, it's a standard security procedure. Otherwise, we might have to temporarily freeze your account, which will be a great inconvenience. We can't risk any unauthorized transactions. Please share the last four digits for your safety.
+receiver: Freeze karna padega? Itna serious hai? Okay, ek minute...  Aur aapka employee ID bataiye?
+caller: My employee ID is SB-4592. Just give me those last four digits and everything will be fine, ma'am.  Remember, it’s for your account security. We also need to confirm the OTP that was just sent to your registered mobile number. Can you please read that to me?

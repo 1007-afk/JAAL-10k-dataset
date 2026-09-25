@@ -1,0 +1,8 @@
+caller: Namaste sir, main Reliance Jio ki customer support se baat kar raha hu. Aapke mobile number ko 18 hours mein deactivate ho jaane wala hai. Aapko number save rakhna hai na?
+receiver: Really? Reliance Jio? But my number is definitely Jio. And 18 hours? That’s strange. Is there something wrong with my connection?
+caller: Sir, aapke number mein koi issue nahi hai, yeh sirf update hai. Agar aapko apna number continue rakhna hai, to aapko sirf confirm karna hai. Main aapke account details check karna chahta hun, like your registered phone number and your birth year.
+receiver: Okay, sure. My number is 9789012345. And my birth year is… let me see. It’s January 2nd, 1988.
+caller: Aapki birth year bilkul correct hai, sir. For this confirmation, I need your Jio account ID. Can you provide that to me?
+receiver: Jio account ID? I haven’t used that in ages! Can you tell me how to find it on my Jio app?
+caller: Sir, we cannot share that information due to security protocols. Instead, we can send an OTP to your home address. Please provide your current address so we can initiate the process.
+receiver: My home address is 123 Mango Street, Delhi. But sending an OTP to my house? That seems risky. Can you just tell me what kind of charges I might face if I don't confirm now?

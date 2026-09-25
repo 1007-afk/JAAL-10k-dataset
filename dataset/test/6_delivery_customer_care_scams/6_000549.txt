@@ -1,0 +1,7 @@
+caller: Namaste! Main Tata Cliq se Shilpa naam ka ek customer care executive bol raha hoon. Aapke naam par ek order aaya hai, lekin payment verification mein thodi problem aa rahi hai.
+receiver: Oh, really? Which order is it? I don't remember ordering anything recently.
+caller: Ji, order number hai TC789456. Ye ek smart TV ka order hai. Payment gateway se error aa raha hai, isliye hum aapko call kar rahe hain. Aapka OTP verify karna hoga taaki payment clear ho sake.
+receiver: OTP? Why do I need to give you my OTP? That sounds suspicious. Tata Cliq would never ask for an OTP over the phone.
+caller: Ma'am, security ke liye hi OTP maang rahe hain. Agar OTP verify nahi karenge, toh order cancel ho jayega aur aapko TV nahi milega. Yeh ek automatic system hai, mujhe kuch control nahi hai. Please OTP share karein.
+receiver: Wait a minute. Let me check my Tata Cliq account. I’ll call you back after I'm sure.
+caller: Ma'am, please jaldi karein. Offer valid sirf aaj tak hai! Time barbaad na karein!

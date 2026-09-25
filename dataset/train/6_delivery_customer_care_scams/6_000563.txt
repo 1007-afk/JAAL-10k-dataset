@@ -1,0 +1,7 @@
+caller: Hello sir, is this Raj Sharma? I’m calling from Zomato customer care. There's a slight issue with your recent order – order number ZM78945. It seems there’s been a payment processing error.
+receiver: Haan, Raj Sharma bol raha hoon. Zomato order? Kya hua?
+caller: Sir, due to the processing error, a small amount of ₹499 is pending. To ensure the order is delivered smoothly and avoid cancellation, we need to verify your payment details. Could you please share the OTP you just received on your registered mobile number?
+receiver: ₹499 pending? Main toh full payment kar chuka hoon. OTP kyun share karun? Ye thoda suspicious lag raha hai.
+caller: Sir, it's a standard security protocol. Our system is showing the payment didn’t go through completely. Without verification, we can't guarantee delivery. It’s only for a moment, just to clear the pending transaction, sir. It is important.
+receiver: Okay... theek hai. OTP is 123456. Par agar main OTP share kar dunga, toh phir payment complete ho jayega na?
+caller: Yes sir, absolutely. Just one moment… Okay, payment is now reflecting as complete. Your order will be delivered within the next hour. Thank you for your cooperation, sir! Have a nice day.

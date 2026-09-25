@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Rahul bolta hoon. Aapke naam par ek order hai, lekin payment confirmation mein thodi problem aa rahi hai. Order number hai FK458923.
+receiver: Hello? Flipkart se? Kya problem hai?
+caller: Sir, payment gateway down ho gaya tha, isliye system ne aapko SMS nahi kiya. Payment confirm karne ke liye aapko ek OTP send karenge. Please share OTP jab milega, tabhi delivery ho paayegi.
+receiver: OTP? Flipkart aise bhi OTP maangta hai? Main toh abhi tak kabhi nahi diya.
+caller: Haan sir, security ke liye. Fraud cases zyada ho rahe hain, isliye hum abhi aise karte hain. OTP send kar rahe hain, check karo please.  Agar aap OTP nahi dengay, toh order cancel ho jayega.
+receiver: Theek hai, check karta hoon. (pause) Okay, mujhe OTP mila – 123456.
+caller: Shukriya sir! Payment confirm ho gaya hai. Aapka order aaj hi deliver ho jayega.  Aapko parcel receive karne par please delivery boy ko positive feedback dena. Have a great day!

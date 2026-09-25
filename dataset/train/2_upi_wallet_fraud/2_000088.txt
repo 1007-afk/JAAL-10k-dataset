@@ -1,0 +1,11 @@
+caller: Hello sir, this is Rupali calling from FreePay wallet support. We have noticed some suspicious activity on your account.
+receiver: Suspicious activity? What happened? I haven't done anything unusual.
+caller: Sir, there's been a small transaction of 200 Rupees going out to an unknown wallet. To secure your account, we need you to verify this and do a quick reversal.
+receiver: 200 Rupees? I definitely didn't make that transaction. Why didn't I get a notification?
+caller: Sir, our system flagged it as potentially fraudulent and blocked the transaction, but to fully reverse it and prevent further issues, you need to do a small verification charge of 50 Rupees. Just to confirm you are the account holder.
+receiver: 50 Rupees verification charge? That sounds fishy. Why can’t I just report the fraudulent transaction directly through the app?
+caller: Sir, this is a new security protocol. The app doesn’t have this option currently. You just need to send 50 Rupees to the number I’ll provide. It’s a one-time process. This will prove to our system that you are the account holder.
+receiver: Okay, give me the number. But I'm still not comfortable with this.
+caller: Sure sir, please send it to 9123456789. Once the transaction is complete, your account will be fully secured.
+receiver: Right. I’ll do it quickly and then check my account balance.
+caller: Excellent, sir! Just confirm once it’s done, and your account will be back to normal. Thank you for your cooperation!

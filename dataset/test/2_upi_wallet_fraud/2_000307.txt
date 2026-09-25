@@ -1,0 +1,7 @@
+caller: Namaste sir, mai PhonePe se Rahul bolta hu. Aapke PhonePe account mein cashback offer aa raha hai, lekin verification karna hai.
+receiver: Cashback offer? Kitna cashback hai? Verification ka kya hai?
+caller: Sir, 5000 ka cashback hai. Verification ke liye aapko ek link par click karke apna PAN card number aur OTP dena hai.
+receiver: PAN card number? PhonePe toh aise nahi karta na? OTP bhi do sakta hu?
+caller: Haan sir, yeh naya rule hai government ne banaya hai. Agar aap nahi karenge, toh aapka account suspend ho jayega aur cashback bhi chala jayega. sirf 2 ghante ka time hai.
+receiver: Account suspend ho jayega? Theek hai, de do link. Par kuch galti ho gayi toh?
+caller: Sir, koi chinta nahi. Link sahi hai, check kar lijiye. Haan, naam aur phone number bhi bataiye verification ke liye.

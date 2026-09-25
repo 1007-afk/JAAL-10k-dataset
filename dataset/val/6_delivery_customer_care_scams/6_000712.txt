@@ -1,0 +1,9 @@
+caller: Hello, good morning! This is Raj from Delhivery. We have a problem with your parcel – it’s showing as ‘undeliverable’ due to an incorrect address.
+receiver: Oh, really? That’s strange. I’m sure I entered the address correctly. What’s the tracking number?
+caller: The tracking number is DL789456123. It seems there’s a discrepancy with the pin code. To re-route the parcel, we need to verify your payment details. There’s a small delivery fee of ₹250 due to the error.
+receiver: ₹250? That seems a bit steep for a redirection fee. Can I pay on delivery?
+caller: Unfortunately, due to security protocols, we require online verification. We can send you a secure link to make a quick payment. It’s just to confirm your details and avoid the parcel being returned to sender.
+receiver: A secure link? What website will it be? I don’t want to click on anything suspicious. Is it the official Delhivery website?
+caller: Yes, absolutely! It's a secure portal linked directly to Delhivery. The link is: secure-payment.online/delhivery. Please confirm within the next 15 minutes to avoid any delays.
+receiver: Secure-payment.online? That doesn’t look right. I've never seen that URL before. I’m not comfortable with that. I’ll just check the Delhivery official website myself.
+caller: Ma’am, this is a very urgent matter. If you don't confirm immediately, the parcel will be sent back, and you'll lose the item. Please, just click the link and confirm. It's very simple. We are very busy, I have many calls to make.

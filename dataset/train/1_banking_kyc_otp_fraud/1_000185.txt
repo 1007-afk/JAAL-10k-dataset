@@ -1,0 +1,27 @@
+caller: Namaste sir, yeh to aapka HDFC bank ka executive hai. Aapka digital wallet verification expire ho chuka hai. Covid se badhkar hum digital wallet ko update karne ke liye online verification karte hain. Mujhe aapke wallet details chahiye.
+receiver: Namaste! HDFC bank? Digital wallet verification expire? Theek hai, mein samajh raha hoon. Kya aap mujhe bol sakte hain ki aapko kaunse details chahiye? Mera wallet number ya koi aur information?
+caller: Ji sir, pehle aap apna wallet ID bata dijiye. Fir hum aapko bata denge ki kya-kya aur chahiye.
+receiver: Haan ji, mera wallet ID hai [wallet ID yahaan daalen]. Aur please bataiye ki humein kya karna hai?
+caller: Ji sir, thanks. Ab aapka registered phone number jo HDFC bank mein linked hai, wo bataiye.
+receiver: Haan ji, mera registered phone number hai [phone number yahaan daalen]. Isliye ab sab sahi hai na?
+caller: Ji sir, thanks. Now, aapko ek temporary password generate hoga jo aapke phone par aa jayega. Wo password mujhe bataiye taaki hum aapke wallet verification complete kar sakein.  Yeh password sirf 30 seconds ke liye valid hai, jaldi bataiye.
+receiver: Temporary password? Okay, ek minute... Yes, it’s [password yahaan daalen].  Hope I typed it correctly.
+caller: Namaste sir, yeh to aapka ICICI bank ka executive hai. Aapkaa Aadhaar e-KYC expiry ho gaya hai. Covid ke vakt mein hum sabhi ke liye online KYC compulsory hai. Mujhe aapke aadhaar details chahiye.
+receiver: Namaste! ICICI bank? Aadhaar e-KYC expiry? Theek hai, mein samajh raha hoon. Aapko kis cheezon ki zarurat hai? Mera Aadhaar card number ya koi aur detail?
+caller: Ji sir, pehle aap apna Aadhaar number bata dijiye. Uske baad hum aapko bata denge ki kya-kya aur chahiye.
+receiver: Haan ji, mera Aadhaar number hai [Aadhaar Number Yahaan Daalen]. Aur please bataiye ki humein kya karna hai?
+caller: Ji sir, thanks. Ab aapka registered mobile number jo ICICI bank mein linked hai, wo bataiye.
+receiver: Haan ji, mera registered mobile number hai [Mobile Number Yahaan Daalen]. Isliye ab sab sahi hai na?
+caller: Ji sir, thanks. Now, aapko ek OTP send kiya jaega aapke registered mobile number par. Woh OTP mujhe bataiye taaki hum Aadhaar verification complete kar sakein.  Yeh OTP sirf 60 seconds ke liye valid hai, jaldi bataiye.
+receiver: OTP? Oh, okay. Ek minute, main check karta hoon. Ah, yes, I have it. It's [OTP Yahaan Daalen].  Yeh sahi hai na?
+caller: Hello madam, yeh SBI ka representative hai. Aapki credit card ka validity expire ho chuka hai. Covid-19 ke karan, hum har credit card ke liye online verification karte hain. Mujhe aapki credit card ki details chahiye.
+receiver: Hello! SBI? Credit card validity expire? Theek hai, mein samajh raha hoon. Aapko kaunse information chahiye? Mera credit card number ya koi aur detail?
+caller: Ji madam, pehle aap apna credit card number bata dijiye. Uske baad hum aapko bata denge ki kya-kya aur chahiye.
+receiver: Haan ji, mera credit card number hai [Credit Card Number Yahaan Daalen]. Aur please bataiye ki humein kya karna hai?
+caller: Ji madam, thanks. Ab aapka registered email id jo SBI mein linked hai, wo bataiye.
+receiver: Haan ji, mera registered email id hai [Email Id Yahaan Daalen]. Kya ab sab sahi hai?
+caller: Ji madam, thanks. Now, aapko ek security question ka jawab dena hoga. Woh question mujhe bataiye.
+receiver: Security question? Okay, yeh tha - "Main ne apni zindagi kiske saath guzari?"
+caller: Ji madam, thanks. Correct jawab hai. Ab aapka OTP receive hoga aapke registered mobile number par. Woh OTP mujhe bataiye taaki hum credit card verification complete kar sakein. Yeh OTP sirf 5 minutes ke liye valid hai, jaldi bataiye.
+receiver: OTP? Okay, ek minute... Yes, it’s [OTP Yahaan Daalen].  Yeh sahi hai na?
+caller: Namaste sir, yeh Punjab National Bank ka executive hai. Aapka debit card ka transaction limit

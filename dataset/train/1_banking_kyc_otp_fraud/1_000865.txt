@@ -1,0 +1,11 @@
+caller: Namaste, this is Priya Sharma calling from Paytm Financial Services. I’m calling regarding your Paytm wallet.
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, we’ve noticed some unusual activity on your wallet. It appears someone tried to make a transaction to a cryptocurrency exchange.
+receiver: Cryptocurrency? Mein toh kabhi bhi cryptocurrency mein interest nahi leeka. Yeh kya ho raha hai?
+caller: Don't worry, sir. We've temporarily frozen your wallet to prevent further unauthorized transactions. To unlock it and ensure your funds are secure, we need to verify your identity. Can you please share the last four digits of your Aadhaar card and the OTP we just sent to your registered mobile number?
+receiver: Aadhaar number? OTP? Paytm aise details phone par puchhta hai? Itna risk nahin lene ka.
+caller: Sir, this is standard procedure for security verification. We understand your concerns, but without this verification, we cannot guarantee the safety of your funds. It's a quick process, just two steps. The system needs to confirm that you are the rightful owner.
+receiver: Mujhe toh kuch toh gadbad lag rahi hai. Mein khud Paytm customer care se contact karunga.
+caller: Sir, contacting customer care will take time, and those unauthorized transactions are still pending. This verification is the quickest way to safeguard your money. Please, just provide the last four digits of your Aadhaar and the OTP. We can also send you a link to a secure portal to complete the verification.
+receiver: Okay, fine. Send me the link. I'll check it on my computer.
+caller: Certainly, sir. Here’s the link: paytmsecureverify.com/otp. Please enter the OTP you receive on your mobile. It is very important to act quickly so we can secure your funds.

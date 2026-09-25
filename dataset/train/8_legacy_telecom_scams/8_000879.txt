@@ -1,0 +1,8 @@
+caller: Namaste! Aapko batana hai ki aap ne lottery mein jeeti hai ₹5,000! Government ke uchyal se, aapko yeh raashi apne bank account mein receive karni hogi. Kya aap agree karte hain?
+receiver: Oh my god! Seriously? ₹5,000 jeet gaye? That's amazing! Definitely, I want this amount transferred to my account. Tell me what I need to do.
+caller: Absolutely! Now we just need some information about your account so we can deposit these ₹5,000 into it. Could you kindly provide your bank account number and the IFSC code?
+receiver: Sure, no problem. My bank account number is XXXXX-XXXXX-XXXXX-XXXXX and the IFSC code is ZZZZ0000234. Is that correct?
+caller: Thank you for sharing those details. Just to double check, is the name on the account Rohan Sharma? We need to make sure the money goes to the right person. And also, for security reasons, could you tell us your registered mobile number with the bank?
+receiver: Yes sir, the name is Rohan Sharma. And my registered mobile number with the bank is 9876543210. Is everything alright?
+caller: Many thanks, Rohan Sharma. To verify your mobile number, your bank will send an OTP to your registered number. Have you received it yet?
+receiver: Yes, I have received the OTP. It’s 1234567890. Then the transfer will happen, right?

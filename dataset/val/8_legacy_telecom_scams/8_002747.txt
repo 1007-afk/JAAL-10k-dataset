@@ -1,0 +1,9 @@
+caller: Namaste, main Rohan hoon. Main calling doosron ko NetSolutions India Pvt. Ltd. se bol raha hoon. Aapke account mein ₹299 ka ‘Premium Data Boost’ package activate ho gaya hai. Kya aapne yeh package khud se activate kiya tha?
+receiver: Namaste Rohan ji, main Anjali hoon. Haan, mujhe pata hai, lekin main yeh activate nahi kiya tha. Mujhe yeh bill mein dikha.
+caller:  Aapka account mistakenly activate ho gaya hai. Don't worry, main aapko isse cancel karwane mein madad karunga.  Parle, mujhe aapke bank account ka IFSC code chahiye. Iske liye, mujhe sirf aapke account pe naam jis tarah se dikhta hai woh verify karna hoga.
+receiver:  Ji Rohan ji, mere account pe naam Deepak Kumar hai.
+caller:  Dhanyavaad Deepak Kumar.  Aur mujhe aapki debit card ki expiry date bhi chahiye.  Iske liye, mujhe sirf card pe naam jis tarah se dikhta hai wo bhi verify karna hoga.
+receiver:  Ji, expiry date hai 12/26.  Ab kya karna hai?
+caller:  Dhanyavaad Deepak Kumar!  Aapko ₹299 waive kar diya jaaega.  Bas aapko yahaan par confirmation karna hoga ki aapko abhi koi premium data boost nahi chahiye.  Yeh process complete hone ke liye mujhe sirf ek baar aur account number chahiye.
+receiver:  Mujhe account number nahi chahiye. Yeh dukaan ka fraud hai!  Main tumhare paas koi information nahi dega.
+caller:  (frustrated tone)  Aapko maaf karna padega Deepak Kumar, humein yahaan par abhi koi option nahi hai refunds dene ke liye.  Agar aapko koi problem hai toh humein koi contact number de sakte hain jahan aap complaint kar sakte hain.

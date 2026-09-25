@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Mr. Sharma? This is Inspector Verma, calling from the Delhi Customs Department. We have an urgent matter regarding a parcel registered under your name.
+receiver: Hello? Haan, main Mr. Sharma. Parcel? Kya baat hai?
+caller: Sir, we've intercepted a parcel at the airport containing suspicious items. Preliminary investigations suggest it's linked to a money laundering operation. You're listed as the recipient.
+receiver: Money laundering? Lekin maine toh kabhi parcel nahi bheja! Yeh kya bakwas hai?
+caller: Sir, please don't get agitated. We need to verify your details to clear this up. To prevent further legal complications, you will need to deposit a small processing fee of ₹15,000 to secure the parcel’s release and close this case.
+receiver: ₹15,000? Sir, yeh fraud hai! Main police station mein complaint karunga.
+caller: Sir, please listen carefully. This is a serious matter. If you don't cooperate, we will have to involve higher authorities and you’ll be facing arrest. I can connect you with my superior officer, ACP Singh, right away. He will explain the procedure. Just trust the process, sir.
+receiver: ACP Singh? Kaise connect karenge aap? Mujhe toh seedha police station jaana hai.
+caller: Sir, we’re operating under strict protocols. The ACP is currently overseeing the investigation. To confirm your identity, can you please provide the last four digits of your bank account number? It’s a standard verification process.

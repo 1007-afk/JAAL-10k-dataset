@@ -1,0 +1,10 @@
+caller: Namaste! Is this number registered with Priya's matrimonial profile? She mentioned she was updating it.
+receiver: Yes, this is her number. Who's asking?
+caller: Hello, I am Akash. Priya’s profile really caught my eye. We have so much in common - love for old Bollywood and gardening! She seemed very interested in chatting too. She shared your number with me, said I should call.
+receiver: Really? Priya hasn't mentioned anyone named Akash. She's been busy with work lately. Are you sure?
+caller: Absolutely! She was quite excited about connecting with me. Listen, I’m currently working abroad, in Dubai, on a construction project. Things are a bit hectic, and I’m facing an urgent issue – a vital piece of equipment broke down, and I need to send ₹7,000 immediately to get it fixed, otherwise the whole project gets delayed and I lose a lot of money. Could you possibly help her send it from her account quickly? I'll repay her the moment I get paid next week.
+receiver: Seven thousand rupees? That seems like a lot. And why is Priya sending money to you? I need to speak with her first.
+caller: I understand your concern, but time is critical here. Priya wouldn't share her number if she didn't trust me. She's a kind soul. Just a small help, and I promise to make it up to her. Just send the money to UPI ID: buildfast.786. Please, Priya will be so grateful.
+receiver: This is very strange. I'm calling Priya now. Hold on.
+caller: Please hurry! Every minute counts. The workers are waiting. The project depends on this.
+receiver: Priya says she doesn't know you! And she’s never mentioned any broken equipment. This is a

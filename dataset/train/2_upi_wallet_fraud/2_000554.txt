@@ -1,0 +1,6 @@
+caller: Namaste! Sir, mai PhonePe se Rohan bol raha hoon. Aapke PhonePe wallet mein ajeeb transactions dikhe hain, security ke liye aapko urgent verification karna hoga.
+receiver: Kya? Ajeeb transactions? Main toh PhonePe use karta hoon regular, koi dikkat toh nahi hogi na? Verification kaise karwaun?
+caller: Haan sir, ek scam attempt hua hai. Aapko ek OTP mil raha hoga aapke phone pe, woh mujhe bata dijiye taaki hum aapka account secure kar sakein. Jaldi kijiye, time bahut kam hai!
+receiver: OTP? Lekin maine toh koi OTP abhi tak nahi mila. Aur aapko OTP bataana safe hai kya? Maine sun rahaa hoon aise cases mein scammer OTP le lete hain.
+caller: Sir, galat mat samjein. OTP sirf verification ke liye hai. Agar aapko OTP nahi mila toh hum ek link send kar sakte hain aapke wallet mein, us link pe click karke aap verification kar sakte hain. Woh link bilkul secure hai, PhonePe ka official link hai.
+receiver: Link? PhonePe toh khud SMS se hi OTP send karta hai. Mujhe koi link nahi chahiye. Main koi risk nahi lene wala. Aapka naam aur PhonePe ID batao pehle.

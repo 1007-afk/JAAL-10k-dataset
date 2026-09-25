@@ -1,0 +1,7 @@
+caller: Hello, good morning! This is Rohan from Zepto Logistics. We have a parcel addressed to you, but there's a small issue with the payment verification. Could you please confirm your registered mobile number?
+receiver: Yes, hello. My mobile number is 9876543210. What’s the payment verification issue?
+caller: Thank you. It seems there was a slight discrepancy in the OTP received during the initial transaction. To secure the parcel and prevent fraud, we need you to quickly complete a one-time payment of ₹299 to re-authenticate the payment. It's a small security deposit.
+receiver: ₹299? I don’t recall being asked for a deposit. I ordered through the Zepto app, and it was supposed to be free delivery. What’s the order ID?
+caller: Yes, madam, it’s a new security protocol. The order ID is ZPT78492.  To expedite the process, you can make the payment using UPI – any UPI ID will do, and then share the transaction ID with us. We can then immediately release your parcel for delivery.
+receiver: I'm a little suspicious. Can you confirm the name on the order and the item I ordered? I'll check my Zepto app.
+caller: Absolutely, madam! The order is under the name Anita Sharma, and you ordered a new smart TV. Just a quick ₹299 to clear the verification and you’ll have it delivered today. Time is running out to secure this delivery – please hurry.

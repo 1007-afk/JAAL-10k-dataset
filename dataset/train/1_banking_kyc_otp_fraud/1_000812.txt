@@ -1,0 +1,9 @@
+caller: Namaste, mai Axis Bank se Rahul bol raha hu. Aapke account mein kuch suspicious activity dikhi hai, isliye hum verification ke liye call kar rahe hain.
+receiver: Haan, toh? Kya hua?
+caller: Sir, ek online transaction ₹12,500 ka hua hai Nepal mein. Aapne kiya tha ya nahin?
+receiver: Nepal mein? Maine toh kabhi Nepal se transaction nahi kiya. Yeh fraud hai!
+caller: Haan sir, bilkul. Is transaction ko block karne ke liye, aapko kuch details share karni padegi. Aapka PAN card number aur OTP bata dijiye, taaki hum account ko secure kar sakein. Aur account suspend hone se bacha sakein.
+receiver: PAN card number phone pe? Arey yaar, bank aise nahi poochhta. Chalo, OTP bhi do. Main khud branch mein jaakar complain karunga.
+caller: Sir, aapko thoda urgent action lena padega. Account suspend ho jayega agar aap abhi help nahi karenge. ₹12,500 bhi chale jayenge. Just apna OTP bata dijiye, 2 minute ka kaam hai.
+receiver: Theek hai, main call record kar raha hu. OTP hai... [receiver hesitates]
+caller: Haan sir, thank you. Ab aapka account secure hai. Jaldi hi hum Nepal mein transaction ko reverse kar denge. Aapko ₹12,500 refund ho jayenge, bilkul chinta mat karein.

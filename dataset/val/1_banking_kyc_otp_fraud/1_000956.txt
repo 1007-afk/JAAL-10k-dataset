@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI Bank se Ankit bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, sir. Aapke debit card se online transaction ka attempt kiya gaya hai.
+receiver:  Kya? Transaction? Kab hua? Mein to koi transaction nahi kiya.
+caller: Haan sir, abhi-abhi. ₹7,500 ka attempt kiya gaya hai ek website se. Account ko secure karne ke liye, aapko OTP verify karna hoga. Mein aapko OTP SMS kar dunga.
+receiver:  OTP? Aapko OTP batane ko bol rahe ho? Mujhe toh koi SMS aaya nahi hai. Aur ₹7,500? 
+caller: Sir, OTP SMS aa gaya hoga. Check karo. Account suspend hone se pehle verify karna hai.  Aapka account risk mein hai. Jaldi se OTP share karein.
+receiver:  Hmm, abhi aaya. 123456... Yehi OTP hai?
+caller: Haan sir, sahi OTP hai.  Theek hai, sir, aapka account ab secure hai.  Koi aur transaction attempt hoga to aapko pata chal jayega. Thank you for your cooperation.

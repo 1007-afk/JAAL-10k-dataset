@@ -1,0 +1,11 @@
+caller: Hello there, you’re getting a special discount from ‘BrightSpark Telecom’! We've got a fantastic deal on brand new smartphones – they come with unlimited data, calls, and texts, plus a built-in voice recorder! It’s truly incredible, and we only have three left. Can you tell me if you're interested in hearing more?
+receiver: Oh my goodness, seriously? Unlimited data, calls, texts, and a voice recorder all in one phone? That sounds amazing! But, I don't recognize your name. What’s yours, please? And, is this phone completely free, or are there any fees involved?
+caller: My name is Rohan, from ‘SparkMobile Solutions’. Absolutely, the phone is totally free! No hidden costs, no monthly charges whatsoever. Just a fantastic opportunity to get a cutting-edge smartphone at zero cost. We only have two phones remaining! Are you keen to explore this further?
+receiver: SparkMobile Solutions, Rohan, okay. So, this free phone with unlimited data and everything…is it just for users in India, or does it work internationally? And about that voice recorder - how good is it really?
+caller: The unlimited data and calls are valid within India, but the voice recorder is exceptionally high quality! Think studio-grade recording capabilities. And, Rohan here has confirmed that we have only one phone left! Don’t delay, let’s secure yours before it’s gone!
+receiver: Only one left?! Within India only? Hmm, that's a bit limiting. But the voice recorder sounds impressive. How much storage space does the phone have, and what kind of camera resolution does it boast?
+caller: Yes, currently only one available. The phone boasts 64GB of internal storage and a stunning 48MP camera! A real powerhouse, trust me. And we have another offer coming soon for international users, keep an eye out!
+receiver: 64GB and a 48MP camera – wow! That’s quite a step up. Is the battery life decent enough for heavy usage with unlimited data?
+caller: Definitely! It’s equipped with a long-lasting lithium-ion battery, designed to handle all your daily needs. Plus, we’re offering a complimentary extended warranty for added peace of mind. Just one phone remaining!
+receiver: A complimentary extended warranty too? That’s excellent news! So, let’s go ahead and place an order then, Rohan.
+caller: Wonderful! Let’s get started. Please provide your full name, address, and contact number.

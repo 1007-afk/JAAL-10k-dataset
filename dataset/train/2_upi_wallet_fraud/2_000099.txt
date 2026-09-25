@@ -1,0 +1,8 @@
+caller: Namaste! Main Airtel Payments Bank se Rahul bol raha hoon. Aapke account mein ek suspicious transaction ka attempt kiya gaya hai.
+receiver: Oh, really? Airtel Payments Bank se? Mujhe koi message nahi aaya. Transaction kitna ka tha?
+caller: ₹4999 ka attempt kiya gaya hai, lekin woh block ho gaya. Security ke liye, humein aapke account details verify karne ki zaroorat hai. Aapka UPI PIN bataiye.
+receiver: UPI PIN? Aapko meri UPI PIN bataane ki zaroorat hai? Mujhe toh yeh thoda suspicious lag raha hai. Airtel toh aise direct PIN nahi manta.
+caller: Don't worry, madam. Yeh ek standard security protocol hai. Agar aap UPI PIN nahi batayengi, toh aapka account freeze ho sakta hai.  Aapko chahie ki hum aapko safe rakhain.
+receiver: Account freeze ho jayega? Theek hai, theek hai. Main bata rahi hoon... lekin agar kuch ho gaya toh main tumhe zaroor poochungi.
+caller: Shukriya, madam. Ab hum aapke account ko secure kar denge. Sirf ek final cheez, aapka OTP bataiye jo aapko SMS se mil raha hai.
+receiver: OTP? Aur OTP bataane se account secure hoga?

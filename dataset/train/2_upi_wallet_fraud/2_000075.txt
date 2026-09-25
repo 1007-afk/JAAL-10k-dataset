@@ -1,0 +1,8 @@
+caller: Hello, this is Vijay from Paytm Customer Support. We’ve noticed some unusual activity on your account and need to verify your details to secure it.
+receiver: Ji, hello. Unusual activity? Kya hua?
+caller: Yes, sir. There’s a potential risk of unauthorized access. To prevent any loss, we are offering you a ₹10,000 cashback bonus for your prompt cooperation and verification.
+receiver: ₹10,000 cashback? Paytm side se offer hai? It sounds a bit fishy, though.
+caller: Absolutely sir, it’s a limited-time promotion to reward loyal customers. We just need you to send a small processing fee of ₹299 via UPI to a secure Paytm ID to activate the bonus. Just a one-time fee.
+receiver: ₹299 processing fee? And which Paytm ID should I send it to? I want to be sure this is legitimate.
+caller:  Please send it to 9876543210@paytm. It’s a verification ID. Once the payment is successful, the ₹10,000 will be credited to your account within 15 minutes.
+receiver: Okay, let me check something first. Can you give me a reference number for this promotion?

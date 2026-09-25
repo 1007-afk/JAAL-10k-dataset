@@ -1,0 +1,9 @@
+caller: Namaste! Main StarInvest se Rahul bolta hoon. Humare platform par ek amazing investment opportunity hai, jismein aap sirf 15 din mein apna paisa double kar sakte hain. Aap interested hain?
+receiver: Double? Itna jaldi paisa kaise double ho sakta hai? Yeh kya hai?
+caller: Yeh ek new crypto trading bot hai, jo market trends ko analyze karta hai aur automatic trading karta hai. Iska performance bahut achcha hai, aur humare existing investors bahut khush hain. Aapko sirf ₹5000 invest karne hain.
+receiver: ₹5000? Aur is bot ko kaise use karenge? Kya yeh safe hai?
+caller: Haanji, bilkul safe hai! Humara platform secure hai, aur bot ek trusted algorithm par kaam karta hai. Aapko ek login detail milegi, aur aap apne account ko monitor kar sakte hain. Aapko koi technical knowledge nahi chahiye.
+receiver: Okay, ₹5000... Bataiye, withdrawal process kya hai? Paise kaise nikalenge?
+caller: Bahut achha sawal! Aapka paisa aapke StarInvest wallet mein rahega. Withdrawal karne ke liye, aapko sirf ₹500 withdrawal fee bharani hogi, taki hum aapke account ki verification kar sake. Yeh bahut hi simple process hai.
+receiver: Withdrawal fee? But you said I’d double my money…
+caller: Haan, lekin verification ke bina hum paise nahi nikal sakte. Yeh security ke liye hai. Aapko fee bharne ke baad, aapka paisa 24 hours mein aapke bank account mein ajayega. Aapko yeh fees bhar kar paisa double karne ka mauka nahi chudna chahiye!

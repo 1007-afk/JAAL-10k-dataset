@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? I am calling from Paytm Rewards. You have been selected for a special loyalty program offer! You’ve won a guaranteed prize of ₹12,000, plus a bonus ₹3,000 cashback on your next transaction!
+receiver: Paytm Rewards? ₹12,000? Wow! That's fantastic! But how did I win? And what do I need to do?
+caller: It’s a random draw, ma’am, to reward our loyal Paytm users. To claim your prize and the cashback, you just need to pay a small processing fee of ₹499. This is to verify your account and to activate the reward. Very simple process.
+receiver: ₹499? Processing fee? But I've never heard of Paytm charging a fee to *receive* a prize. Shouldn't the cashback be automatically added to my account?
+caller: Yes, normally it is. But this is a special loyalty program, and this fee ensures the funds are routed correctly and securely to your account. It’s a one-time charge, and it's non-refundable. Think of it as a security deposit. This offer is only available for the next 15 minutes, ma’am.
+receiver: Fifteen minutes? That sounds a bit rushed. Can you give me a reference number for this offer? Or perhaps direct me to a page on the Paytm website where I can verify this?
+caller: Ma'am, due to the limited time nature of the offer, we don't provide reference numbers. It’s a very exclusive offer, only available to a select few. Just quickly send ₹499 via UPI to this number: 7890123456. After that, your ₹12,000 and ₹3,000 cashback will be credited

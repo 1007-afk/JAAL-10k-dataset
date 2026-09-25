@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? This is Deepak from SmartAlert Services. I’m calling because we have a fantastic opportunity for you – a monthly subscription to receive important government alerts directly to your mobile. Think of it as staying informed about crucial updates!
+receiver: Hello Deepak, yes, this is Priya Sharma. Government alerts, you say? What kind of alerts would I be getting?
+caller: Haanji, aapko har mahine ek SMS milenge, jismein sabse important notifications honge - gayaat e hukumat, road closures, ya phir emergency warnings.  It’s like having a personal alert system, totally free of cost!
+receiver: Okay, so these are official government announcements, right?  Like, things that actually matter?  And it’s completely free? No setup fees or anything?
+caller: Haanji, bilkul!  Koi setup fees nahi hain. Ekdum free hai, jaise main bol raha hoon.  Aapko har mahine ek SMS milega, aur woh SMS mein aapko sab kuch pata hoga.  To bataiye, kya aapke paas koi family member hai jo ko bhi alerts chahiye?
+receiver: Well, my brother lives in Bangalore, he’d probably find those alerts useful. But I just want to make sure there aren't any spam messages mixed in with the real ones. How do you ensure that?
+caller: Ah, sab theek hai!  We have a very strict filtering system.  Only genuine government sources send their notifications through our network.  So, aapko koi problem nahi hogi.  Aur agar aapko koi suggestion dena ho, to hum sun rahe hain.  Now, let’s get you registered for this valuable service, shall we?  Do you have your mobile number handy?
+receiver:  Okay, let’s go ahead and register then. My number is [Invented Phone Number].  Can you confirm that you have it correctly?
+caller: Just a moment... [Sound of typing] ...Yes, Priya Sharma, your number is confirmed.  You’ll receive your first alert within 24 hours.  Congratulations, you’re now protected with SmartAlert Services!

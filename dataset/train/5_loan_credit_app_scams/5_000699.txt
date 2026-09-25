@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from SwiftCash Loans. We've reviewed your recent application and pre-approved you for a loan of ₹50,000. To activate, we need a small processing fee of ₹2,500 to verify your account.
+receiver: ₹2,500? But the application didn't mention any upfront fees. It said instant approval.
+caller: Yes, that's correct. However, to prevent fraud and ensure the security of your funds, a small verification fee is required. Think of it as insurance. We need to see you're serious about receiving the loan. Just transfer it to the UPI ID provided.
+receiver: This seems really strange. I’m a little hesitant. Can I speak to someone about this? And what happens if I don’t pay the fee?
+caller: There’s no one else to speak to, this is the final step. And if you don’t pay, we’ll have to cancel your application, and your credit score will be negatively impacted, making it much harder to get a loan in the future.  It's a simple formality. Just the ₹2,500.
+receiver: Negatively impacted my credit score? That sounds like a threat. I’m going to check with someone before I do anything. I’m not comfortable with this.
+caller: Look, time is running out. Other applicants are waiting. We can't hold this pre-approval for long. Do you want the ₹50,000 or not? Don't let this opportunity slip away. Just send the money, and the loan will be in your account within minutes.

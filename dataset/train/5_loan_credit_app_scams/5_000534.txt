@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Ankit Verma, LoanZone se baat kar raha hoon. Aapke naam se ek loan application aaya tha, Paytm se. Verification ke liye call kar raha hoon. Aapka mobile number 9876543210 sahi hai na?
+receiver: Haan, sahi hai. Mein Paytm se loan apply toh kiya tha, lekin abhi koi confirmation nahi mili.
+caller: Ji sir, aapka application approve ho gaya hai. ₹50,000 ka loan approve hai, lekin abhi pending hai kuch security checks ke wajah se. Aapko WhatsApp pe ek OTP milega. Woh OTP mujhe bataiye.
+receiver: OTP? Theek hai, wait karo. Acha, mila. Yeh hai 987654.
+caller: Ji sir, OTP 987654 hai, confirm. Abhi ₹10,000 ka processing fee deposit karna padega, security ke liye. Account number mein send kar dunga.
+receiver: ₹10,000? Loan milne se pehle fee? Yeh to thoda zyada lag raha hai.
+caller: Sir, rule hai yeh, otherwise loan release nahi hoga. Agar aap cooperate nahi karenge, to loan reject ho jayega aur aapka record blacklisted ho jayega. Aur aapki contacts ko bhi morphed photos bhi send kar denge. Aapka decision jaldi lijiye.

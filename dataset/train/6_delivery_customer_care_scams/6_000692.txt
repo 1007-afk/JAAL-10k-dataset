@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from BlueDart Courier. We’re calling regarding a package addressed to you. It’s showing as ‘delivery exception’ due to insufficient address details.
+receiver: Oh really? What package is it? I wasn't expecting anything.
+caller: It’s a high-value electronic item, sir. Seems like there’s a missing pin code in the delivery instructions. To avoid it being returned to the sender, we need to verify a few details. Can you confirm the last four digits of your phone number associated with the delivery address?
+receiver: Why do you need my phone number? Shouldn’t you have that already? BlueDart usually just leaves a card.
+caller: Due to new security protocols, we’re verifying all details before re-attempting delivery. It's a standard procedure to prevent fraudulent deliveries. Just the last four digits, sir. It will only take a moment. We have a new delivery window for tomorrow morning.
+receiver: Hmmm...okay, fine. It’s 4567. But are you sure this is BlueDart? I’m a little wary.
+caller: Absolutely, sir! It’s for your security as well. Now, for final verification, we need a one-time password that we’ll send to your registered mobile number to confirm the delivery address. Could you please provide that OTP once you receive it?  We want to make sure this parcel gets to you safely.

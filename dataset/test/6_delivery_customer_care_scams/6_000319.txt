@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Verma? I'm calling from Bluebird Courier regarding a parcel for you. It’s a high-value item, and we’re having trouble with the delivery address.
+receiver: Yes, speaking. What’s the issue? I was expecting a package.
+caller: Sir, the pin code you provided doesn't match our records. There's a small delivery fee of ₹750 to confirm the address and release the package. It's a standard security procedure for valuable goods.
+receiver: ₹750? That seems a bit much. I didn't expect any extra charges. What’s the order number or sender's name?
+caller: The order is from Shopzila, and the tracking number is CB12345XYZ. We need to verify this payment quickly, otherwise, we’ll have to return the parcel to the sender. I can send you a secure payment link via SMS. Just confirm your registered mobile number.
+receiver: My number is 9876543210. But I’m still a little unsure about paying upfront. Can you double-check the address details with Shopzila?
+caller: Sir, unfortunately, our system shows a mismatch. To avoid delays, I'll send you a one-time password (OTP) to your registered number. Please share the OTP once you receive it, so we can proceed with the address confirmation. This will just take a moment.

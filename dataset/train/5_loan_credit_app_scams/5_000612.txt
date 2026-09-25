@@ -1,0 +1,8 @@
+caller: Namaste! This is Akash from QuickCash Solutions. We've pre-approved you for a personal loan of up to ₹2 lakh with easy installments. Just a few quick details and the money will be in your account.
+receiver: Really? That’s good to hear. I need some money for medical expenses. What details do you need?
+caller: Wonderful! First, I need to verify your identity. Can you please share the last four digits of your Aadhaar card and your registered mobile number? It's just a security measure.
+receiver: Okay, the last four digits of my Aadhaar are 7890, and my mobile number is 9876543210.
+caller: Thank you. Everything looks good. Now, to activate the loan, we require a small processing fee of ₹5,000 to be transferred to this account: [provides a random bank account number]. It will be refunded along with your loan amount.
+receiver: Five thousand rupees? That seems a little steep. Are you sure about this? I’m a little worried.
+caller: Madam, this is standard procedure to prevent fraud and ensure the loan is legitimate. Without this, we can't process your application. Think of it as insurance. Don’t delay, or your pre-approval might expire. Please do it now, otherwise, I will have to cancel the loan and inform the bank.
+caller: Okay, please transfer the ₹5,000 to the account, and once it reflects, I will immediately disburse the ₹2 lakh to your account. It’ll be faster than you can imagine.

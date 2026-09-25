@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Vijay hai, mai Axis Bank se call kar raha hoon. Aapka naam Rajesh Sharma hai, correct?
+receiver: Haan, sahi hai. Bolie kya baat hai?
+caller: Sir, aapke Axis Bank UPI account se ek suspicious transaction detect hua hai – 9,999 rupees Paytm se kisi ne transfer kiya hai. Isko verify karne ke liye, mujhe aapka UPI PIN aur OTP chahiye.
+receiver: Yeh kya keh rahe hain? Main Paytm use hi nahi karta! Aur aapko mera PIN aur OTP kyun chahiye? Yeh toh risky hai.
+caller: Sir, please understand, security protocols ne yeh require kiya hai. Agar aap verify nahi karenge toh bank account freeze ho sakta hai. Is transaction ka confirmation aapko security reasons ke liye chahiye.
+receiver: Account freeze ho sakta hai? Aur koi aur tareeka nahi hai?
+caller: Sir, ek aur option hai. Aap Paytm app mein login karein aur khud transaction check karein. Tabhi main confident ho paunga ki koi fraud nahi hua hai. Aapko OTP require hoga verification ke liye.
+receiver: Okay, thik hai. Main app mein dekhta hoon. Aap wait karein.

@@ -1,0 +1,6 @@
+caller: Hello, this is Inspector Verma from the Delhi Customs Department. We have intercepted a suspicious package linked to your name and address.
+receiver: Delhi Customs? What package? I haven’t received anything unusual.
+caller: Sir, the package contains prohibited items, potentially linked to money laundering activities. We need to verify your details to clear it. Can you provide your PAN card number, please?
+receiver: Wait a minute. Why do you need my PAN card? Shouldn’t you be sending this through official channels? This sounds fishy.
+caller: Sir, this is a standard verification process to prevent fraud. We are under immense pressure to resolve this case quickly. If we don't confirm your identity, the package will be seized and legal action will be taken. To avoid any trouble, please provide the PAN card number and also a small security deposit of ₹5,000 as processing fee.
+receiver: ₹5,000? That's a lot of money to just verify a package. And why a security deposit? I’m calling the actual Delhi Customs number to confirm this right now.

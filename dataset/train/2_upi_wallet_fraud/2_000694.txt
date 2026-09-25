@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mein BharatPay se Rahul bol raha hu. Aapke BharatPay wallet mein ek suspicious transaction attempt kiya gaya tha, aur security ke liye aapko verify karna hoga.
+receiver: BharatPay se? Woh kya suspicious transaction tha? Mujhe toh koi notification nahi aaya.
+caller: Haan sir, system ne detect kiya. Rupees 500 ka attempt tha. Verify karne ke liye, aapko apna BharatPay UPI PIN aur OTP share karna hoga. It's a standard protocol, sir.
+receiver: UPI PIN share karna hai? Yeh thoda risky lag raha hai. BharatPay se koi direct OTP ya PIN maangta hai kya?
+caller: Sir, security ke liye hi toh maang rahe hain. OTP aapko apne BharatPay app mein milega. UPI PIN jo aapne set kiya tha woh bataiye. Worried mat ho, sir. Account secure hone ke baad aap tension free ho jayenge.
+receiver: Haan toh woh OTP app mein check karta hoon. Meri UPI PIN share karne ki zaroorat nahi hai na?
+caller: Sir, OTP toh confirm ho gaya? UPI PIN key verification process ka ek important part hai. Bina uske, account full secure nahi hoga. Just a few seconds, sir.
+receiver: Sir, mujhe yeh sab kuch galat lag raha hai. Mein abhi BharatPay app check karta hoon aur phir bolta hoon. Call cut.

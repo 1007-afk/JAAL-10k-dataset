@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Rohit from QuickLoanIndia. We saw your recent online application for a personal loan. Just need to verify a few details. Can you confirm your full name and date of birth, please?
+receiver: Hello Rohit. My name is Sanjay Verma and my date of birth is 15th August 1982.
+caller: Thank you, Sanjay Verma. Everything matches our records. Now, for security purposes, can you please share the OTP you just received on your WhatsApp? It’s a one-time password.
+receiver: OTP? Just now? Let me check... Okay, got it. It's 789456.
+caller: Perfect! OTP verified. Great news, Sanjay ji! Your loan is approved for ₹75,000. But, there's a small processing fee of ₹5,000 that needs to be deposited immediately to activate the loan. You can send it to this UPI ID: paytm@secure.
+receiver: ₹5,000? That's quite a bit just for processing. The loan was approved for only ₹75,000.
+caller: Sir, this is a standard procedure. Without this, the loan cannot be released. Think of it as insurance against fraud. We are protecting you! Please, send the money urgently, or the offer will expire. Otherwise, we’ll have to cancel the loan application and you won't get the money.

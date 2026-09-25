@@ -1,0 +1,8 @@
+caller: Namaste sir, main ICICI Bank se Priya Sharma bol rahi hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Kaunsa activity? Mujhe toh koi message nahi aaya.
+caller: Sir, ek OTP wrong enter kiya gaya tha, isliye hamko account verify karna hai. Aapka account suspend hone se pehle fast verify karna important hai.
+receiver: OTP? Main kabhi bhi OTP wrong nahi daalta. Aur aapko OTP kahan se mila?
+caller: Sir, security ke liye, humko aapka Aadhaar card number aur bank account number verify karna hoga. Yeh sirf kuch minutes lagenge.
+receiver: Aadhaar number aur account number phone pe? Yeh toh bakwas hai! ICICI Bank aisa kabhi nahi kahega. Main police mein complaint karungi agar aapne meri koi bhi information maangi.
+caller: Sir, aapko ₹5000 rupees transfer karne ke liye bolte hain, verification ke liye. Aapse mamuli transfer request hai, woh bhi account secure karne ke liye. Jab verification complete ho jayega, tab ₹5000 aapko dobara mil jayega.
+receiver: ₹5000? Yeh toh daylight robbery hai! Main abhi police ko call kar rahi hoon.

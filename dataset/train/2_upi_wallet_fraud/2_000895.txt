@@ -1,0 +1,6 @@
+caller: Hello sir, this is Aditya from PhonePe. We have noticed some unusual activity on your account and for security purposes, we need to quickly verify a small transaction.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Sir, a collect request of ₹200 has been initiated from your account. To ensure it’s not fraudulent, we need you to confirm it with a one-time password. Just a precaution, sir.
+receiver: A collect request? I didn't initiate any collect request. That’s weird. Why would someone send me money like that?
+caller: It’s possible sir, someone is trying to test your account's security. We need that OTP immediately to block the pending transaction. Otherwise, the money might get deducted. Don't worry, it's a standard procedure.
+receiver: Wait a minute. If it's a fraudulent transaction, shouldn't you be blocking it without me needing to give you an OTP? Something definitely doesn't feel right about this.

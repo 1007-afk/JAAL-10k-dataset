@@ -1,0 +1,11 @@
+caller: Namaste, mai Axis Bank KYC department se Rahul bol raha hoon. Sir, aapke account ki security ke liye ek urgent verification process chal rahi hai.
+receiver: Haan, bolo. Kya baat hai?
+caller: Sir, RBI ke guidelines ke according, aapko apna account suspend hone se bachane ke liye kuch details verify karne hain. Aapko WhatsApp par ek OTP aaya hoga, na?
+receiver: Haan, aaya hai. 458723.
+caller: Shukriya sir. Ab, aapka Aadhaar card number verify karwana hoga. Yeh sirf ek minute lega aur aapka account safe rahega.
+receiver: Aadhaar number? Mujhe thoda doubt ho raha hai. KYC toh bank mein bhi kar sakte hain, na?
+caller: Sir, security reasons se ab online hi verification karna padega. Agar aap cooperate nahi karenge, toh account suspend ho sakta hai. Aapka Aadhaar number bata dijiye, please.
+receiver: Theek hai, ek minute. [Receiver provides Aadhaar number]
+caller: Shukriya sir. Ab mujhe aapke bank account se associated mobile number ke last three digits bataiye, please.
+receiver: Aur details? Yeh bahut zyada lag raha hai. Mujhe nahi lagta yeh sahi hai.
+caller: Sir, yeh final step hai. Iske baad aapka account completely secure ho jayega. Please, cooperate kijiye.

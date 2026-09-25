@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from FastCash Solutions. I see you’re eligible for a quick loan of ₹30,000. Just a few simple steps, and the money will be in your account.
+receiver: Really? That’s great! What’s the interest rate like?
+caller: The interest is very competitive, just 8% annually. We need to verify your details quickly though, so we can process your application. Can you please share your PAN card number with me?
+receiver: PAN card number over the phone? That seems risky.
+caller: Don't worry, it’s completely secure. We use end-to-end encryption. Look, we're offering you a fantastic opportunity to get funds quickly. If you delay, someone else might grab this offer.
+receiver: Okay, but can I talk to someone about this first? I'm a little unsure.
+caller: There’s no time for that! This is a limited-time offer. We can start the transfer right away. Just confirm your PAN and I'll send you a quick OTP to verify. If you don’t respond in 5 minutes, I will have to cancel the loan.

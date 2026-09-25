@@ -1,0 +1,7 @@
+caller: Namaste! This is Aditya from QuickPay Rewards. We’ve noticed you recently used QuickPay to send ₹500 to a new merchant. As a thank you, you're eligible for a cashback bonus of ₹5,000! Isn't that great?
+receiver: ₹5,000 cashback? Really? I did send money to someone new, yes. But how do I claim it?
+caller: Very simple! To process the bonus, we need to verify your account details. Please send ₹99 as a 'processing fee' to this UPI ID: rewardclaim99@upi. This is just a one-time charge to ensure your eligibility.
+receiver: ₹99? A processing fee?  This sounds a little fishy, to be honest. Why do I have to pay to receive a cashback?
+caller: It’s a standard security measure, madam. We need to confirm your account is active and prevent fraudulent claims. Think of it as an insurance policy for your bonus! The ₹5,000 will be credited immediately after the ₹99 is received. Just send it, please, it's a limited time offer!
+receiver: Okay, fine. I'll send the ₹99. But if I don’t get the ₹5,000, I’m reporting this. I’m sending it now…
+caller: Fantastic! Just a quick verification – could you share the last four digits of your bank account number linked to QuickPay? It's just to match the transaction and expedite the bonus.

@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mein Paytm Payments Bank se Rahul bol raha hoon. Aapka account suspend karne ka notification aaya hai, ek security issue ke karan.
+receiver: Paytm account suspend? Kya hua? Mujhe koi message nahi aaya.
+caller: Sir, ek unusual login attempt hua hai aapke account se. Security ke liye, humne temporarily suspend kar diya hai. Verification ke liye, aapka Aadhaar number aur OTP share karein, please.
+receiver: Aadhaar number aur OTP? Paytm aise number maangta hai? Mujhe toh suspicion ho raha hai.
+caller: Sir, yeh standard procedure hai. Agar aap cooperation nahi karenge, toh account permanently block ho sakta hai. Aapka loss hoga. Just Aadhaar number aur OTP, kuch aur nahi.
+receiver: Permanent block? Wait, wait… Mein bank branch mein call karta hoon. Aap ka naam aur designation batao.
+caller: Sir, meine toh bata diya, Paytm Payments Bank se Rahul. Designation ka koi zarurat nahi hai, hum call center agent hain. Sir, time guzaar rahe hain, account block ho jayega.
+receiver: Bilkul nahi, mein verification karta hoon. Aapko koi bhi information nahi deni chahiye. Bye.

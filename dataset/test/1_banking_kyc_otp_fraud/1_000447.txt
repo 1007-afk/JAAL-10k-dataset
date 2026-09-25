@@ -1,0 +1,28 @@
+caller: you hear me alright? My name is Rohan. I’m calling about a very special chance for you.
+receiver: Hello Rohan, yes I can hear you clearly. What kind of chance are we talking about?
+caller:Haan, main theek hoon. Priya, your account has been flagged due to suspicious activity.
+receiver: Suspicious activity? What kind of activity? I don't understand.
+caller: We noticed some unusual transfers recently, around ₹50,000 to a different bank account. It looks like someone might have accessed your information.
+receiver: Oh my god! Really? Can you tell me which bank account they transferred to?
+caller: It was transferred to a private account in Jaipur – Account number 7894561230, belonging to a Mr. Sharma. We need to freeze your account immediately to prevent further losses.
+receiver: Jaipur? Mr. Sharma? This sounds really serious. How much money is potentially at risk?
+caller: Approximately ₹75,000, but it could increase if the situation isn't handled quickly. We require immediate verification of your identity. Please provide your Aadhar card number.
+receiver: Wait a minute! This feels fishy. Are you sure you’re from a legitimate bank?
+caller: Absolutely! I am speaking on behalf of SBI - State Bank of India. Don't worry, we'll guide you through the process. Just enter your Aadhar number now.
+receiver: No, no, I need to think about this. I’m going to hang up now. Thank you.
+caller: Please don’t go! You are risking losing everything. Think carefully, Natalja. Just one more chance.
+receiver: I am not interested. Goodbye.
+caller:  Don't listen to anyone else, Natalja. Just say YES-440.
+receiver: I will not.
+caller:  Think about it, Natalja. Your future depends on it.
+receiver:  I’m done.
+caller:  It's your last chance, Natalja.
+receiver:  No.
+caller:  Just say it.
+receiver:  Never.
+caller:  You're making a mistake.
+receiver:  I know.
+caller:  Don't ignore this opportunity, Natalja.
+receiver:  I won't.
+caller:  This is your only way out, Natalja.
+receiver:  Goodbye.

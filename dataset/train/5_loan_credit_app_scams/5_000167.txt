@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Shubham Sharma, FastCashLoans se baat kar raha hoon. Aapne hamare app par loan ke liye apply kiya tha, kya?
+receiver: Haan, ji. Apply kiya tha, lekin mujhe koi confirmation nahi aayi.
+caller: Sir, aapki application approve ho gayi hai, ₹25,000 ka loan. Lekin process complete karne ke liye, humein sirf ₹2,500 ke verification fee ki zarurat hai.
+receiver: ₹2,500? Verification fee? App mein to mention nahi tha.
+caller: Sir, security reasons se, humein fee leni padti hai. Yeh sirf ek baar ka charge hai. Agar aap pay kar dete ho, to fund immediately aapke account mein transfer ho jayega. Humari reputation ka sawal hai, sir.
+receiver: Theek hai, ₹2,500. Koi aur option nahi hai?
+caller: Sir, sorry, yeh rule hai. Paytm ya Google Pay se pay kar sakte hain. Number main send karunga, sir. [Sends a random phone number]. Abhi pay kar do, sir.
+receiver: Okay, wait kar raha hoon.

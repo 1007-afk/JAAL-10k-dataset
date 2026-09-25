@@ -1,0 +1,8 @@
+caller: Namaste, mai Axis Bank se Rohan bol raha hoon. Aapka naam Sachin Verma hai, kya?
+receiver: Haan, main Sachin Verma hi hoon. Bolo, kya baat hai?
+caller: Sir, aapke Axis Bank account mein ek suspicious transaction attempt kiya gaya hai. Security ke liye, humein aapke KYC details update karne ki zarurat hai.
+receiver: KYC details? Kaun se details? Aur koi transaction attempt kiya gaya? Mujhe toh koi message nahi aaya.
+caller: Haan sir, ek online shopping transaction attempt hua tha, ₹7,500 ka. Ab humein aapka Aadhaar card number verify karna hoga, aur ek OTP bhi bhejna padega, jisse hum confirm kar sakte hain ki account aapka hi hai.
+receiver: Aadhaar card number? Phone pe? Yeh thoda risky toh lag raha hai. Main branch mein jaakar bhi verify kar sakta hoon na?
+caller: Sir, branch mein line bahut lambi hogi. Is urgent situation mein, online verification hi fastest aur secure hai. OTP bhejna hai, phir Aadhaar number jo aap bataiye, woh sirf verification ke liye hai, promise. Aapka account suspend hone se bach jayega, sir.
+receiver: Okay, ek minute ruk jao. Mai sochta hoon.

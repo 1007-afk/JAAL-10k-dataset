@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, hopes you’re having a pleasant day! I’m calling from Digi-Sounds. Your monthly Digi-Sounds melodies are ready for installation! This month's fresh tunes include: 1) Justin Bieber - Baby, 2) Rihanna - Umbrella, and 3) Maroon 5 - Moves Like Jagger. You’ve only got 3 installations remaining for this month. Would you like to install them now?
+receiver: Hello! Yeah, Digi-Sounds, I think.  Justin Bieber’s Baby… that was everywhere!  Umbrella, yes, I remember that song. And Maroon 5 – Moves Like Jagger – quite catchy.  Let me see… okay, install those three for me. Please.
+caller: Excellent selection, sir! So, just to double check, your account currently has only 2 installations available for this month. Are you sure you want to install these three tunes - Justin Bieber, Rihanna, and Maroon 5? Or would you like to add any others?
+receiver: Haan, just those three are fine. Only two installations left? Okay, no problem. Just install those three, thanks.
+caller: Absolutely! So, you need those three tunes installed, and your account shows only 1 installation remaining, correct? Is it alright to proceed with installing Justin Bieber, Rihanna, and Maroon 5?
+receiver: Yes, yes, absolutely. Go ahead. And my name is Rohan, if you need to jot something down. Just install quickly, please.
+caller: Thank you, Rohan! So, you require those three tunes installed, and now you have zero installations remaining for this month. Is it okay to proceed with installing Justin Bieber, Rihanna, and Maroon 5? Just confirming one last time before I finalize the process for you.
+receiver: Arey yaar, yes, okay! Fine, proceed then. Done on my end. Is it finished already? Thanks a lot!

@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rahul Verma, PhonePe se baat kar raha hoon. Aapke PhonePe account mein ek pending transaction hai. ₹999 ka.
+receiver: ₹999 ka transaction? Mainey toh koi transaction kiya nahin.
+caller: Haan ji, ek merchant ne aapko paid kiya hai, lekin verification pending hai. Isko complete karne ke liye, aapko apna registered bank account number aur OTP share karna hoga.
+receiver: Bank account number? PhonePe se aise details maangte hain? Yeh thoda suspicious lag raha hai. Mainey kabhi PhonePe app mein aise kuch nahi dekha.
+caller: Sir, security ke liye hamara rule hai. Verification ke bina transaction complete nahi hoga aur ₹999 aapko nahi milega. Abhi sirf 2 attempts bache hain, otherwise transaction fail ho jayega.
+receiver: ₹999 nahi milega? Aur sirf 2 attempts? Yeh toh bohot hi strange hai. OTP bhi doonga? Yeh scam lag raha hai!
+caller: Sir, OTP toh verification ke liye hi hai. Jaldi karein, otherwise ₹999 ka loss ho sakta hai. Aapka bank account number batao please.

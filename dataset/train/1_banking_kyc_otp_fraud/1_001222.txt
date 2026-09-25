@@ -1,0 +1,7 @@
+caller: Namaste, mai Citibank se Atul bol raha hoon. Aapke Citibank account mein ek suspicious transaction attempt kiya gaya hai. Hamara security system ne detect kiya hai.
+receiver: Citibank? Suspicious transaction? Kya hua? Mujhe notification toh nahi aaya.
+caller: Ji, woh notification system mein delay ho rahi hai. Account ko secure rakhne ke liye, humein aapki identity verify karni hogi. Aapka OTP share karein, please. OTP sirf aapko mila hoga.
+receiver: OTP? Bilkul nahi. Citibank kabhi OTP phone pe maangta hai nahi. Mai banking app pe check karti hoon. Aap kis transaction ki baat kar rahe hain?
+caller: Mai samajh raha hoon aapko confusion ho rahi hai, Madam. Lekin, yeh extremely urgent hai. Hacker aapke account mein access try kar rahe hain. OTP share karein, tab tak account freeze ho sakta hai. Agar account freeze ho gaya toh aapka paisa bhi ja sakta hai.
+receiver: Freeze ho jayega? Chalo, ek minute ruk jao. Mai Citibank customer care number pe call karti hoon, phir baat karte hain. Aur tumhara number mujhe batao, taaki mai check kar sakoon.
+caller: Ji, lekin Madam, agar aap abhi OTP nahi share karti toh hacker aapke account mein access kar jaenge aur aapko pata bhi nahi chalega. Aapko urgent action lena hai!

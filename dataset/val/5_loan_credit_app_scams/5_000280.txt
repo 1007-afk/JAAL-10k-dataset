@@ -1,0 +1,7 @@
+caller: Namaste! Main SmartCash Solutions se Deepak bol raha hoon. Aapko jald se jald ₹50,000 tak ka loan chahiye tha, hai na? Approval process bahut easy hai, sirf kuch details check karne hain. Aapka naam bataiye, sir?
+receiver: Haan, sahi bol rahe ho. Mujhe loan chahiye tha. Mera naam Sanjay hai.
+caller: Sanjay ji, bahut achha. Aur aapka occupation kya hai? Aur kitne saalon se aap wohi kaam kar rahe hain? Bataiye, ek check karne do.
+receiver: Main ek shop mein kaam karta hoon, last 3 saalon se.
+caller: Sanjay ji, ek minute. Check kiya toh dikhta hai aapka credit score thoda kam hai. Lekin chinta mat kijiye, hum aapki madad karenge. Loan approve karne ke liye, humein sirf ₹2,500 verification fee ke taur pe chahiye. Jab aap loan receive karenge, toh woh fees automatically cut ho jayegi.
+receiver: ₹2,500? Par toh itna zyada hai! Loan ke bina fee kyun?
+caller: Sanjay ji, yeh security check hai. Agar aap fee bhar dete hain, toh aapka loan aaj hi aapke account mein transfer ho jayega. ₹50,000, bilkul secure hai. Koi aur option nahi hai. Account details dijiye.

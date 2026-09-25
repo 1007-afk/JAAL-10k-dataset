@@ -1,0 +1,7 @@
+caller: Namaste! Main QuickCashHelp se Rohit bol raha hoon. Aapko ghar ke liye urgent loan chahiye kya? ₹10,000 se ₹80,000 tak ka loan, bina koi credit check ke.
+receiver: Ji haan, main Radha hoon. Actually, mere papa ka ilaaj ka kharcha ho gaya hai aur thoda paisa chahiye.
+caller: Radha ji, bohot achha. Hum aapki madad karenge. Aapki salary kitni hai monthly? Aur aap kitne saal se job kar rahi hain?
+receiver: Main ek private school mein teacher hoon. Meri salary around ₹32,000 hai, aur main last 3 saal se job kar rahi hoon.
+caller: Bahut khoob, Radha ji. Aapko approve hone mein bohot time nahi lagega. Bas humko aapke bank account number aur OTP chahiye verification ke liye.
+receiver: OTP? Kyun? Aur bank number bhi? Yeh thoda suspicious lag raha hai.
+caller: Radha ji, relax! Yeh security check hai. Without OTP, hum process nahi kar sakte. Aur bank number toh loan transfer karne ke liye toh dena hi padega. Jaldi karo, warna offer expire ho jayegi!

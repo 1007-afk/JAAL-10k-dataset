@@ -1,0 +1,10 @@
+caller: Main Hindustan Assurance Company se bol raha hun. Ek new scheme aaya hai, tumhare liye bahut fayadamandi ho sakta hai.
+receiver: Oh, really? Kaisa scheme hai? Tumhara naam batao, phir hi poochhoonga.
+caller: Haan ji, yeh 'Silver Shield' name ka scheme hai. Isme tumhari poori family - beta, pati, mata - sabko cover karta hai. Aur ismein dengue aur chikungunya ke liye bhi extra benefits hain.
+receiver: Silver Shield? Dengue aur chikungunya ke liye benefits? Sunne mein toh acha laga. Batao, is scheme mein kya kya cover hota hai? Kuch specific things hain ya koi general coverage hai? Aur premium kab tak valid rahega?
+caller: Haanji, isme hospital mein jaane ka cost, medicines ka cost, aur doctor ka fee sab cover hota hai. Beta aur mata ko cover karne ke liye extra charges honge, lekin overall scheme bohot reasonable hai. Premium 1 year ke liye valid rahega. Form fill karne mein kitna time lagega?
+receiver: Kitna time lagega? Humare paas poora family hai, isliye form fill karne mein time lagega. Aur humare bete ka age 14 saal hai. Ismein use bhi include karna hoga?
+caller: Haanji, definitely! Betta ko bhi include karna hoga. Form fill karte samay aapko apne family members ka age aur medical history bhi bataana hoga.  Form bhejna shuru kar deta hun. Meri naam hai Rajesh Sharma.
+receiver: Rajesh Sharma? Okay, send kar dijiye form. Aur aapka contact number bhi batao, phir hi woh download kar sakta hun.
+caller: Mera number hai 9876543210. Form mail bhi kar dunga Rajesh Sharma.
+receiver: Thank you.

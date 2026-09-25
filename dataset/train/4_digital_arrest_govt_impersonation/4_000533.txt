@@ -1,0 +1,7 @@
+caller: Namaste! Main Inspector Sharma, Cybercrime Branch se bol raha hoon. Aapka phone number ek illegal online betting platform se link hua hai.
+receiver: Kya? Illegal betting? Sir, main toh kabhi betting nahi karta. Yeh kya bol rahe hain aap?
+caller: Dekhiye, Mr. Kapoor, aapka number ek account se register tha jismein ₹2 lakh ka transaction hua hai. Account ka naam Rahul Verma hai. Aapko is matter mein assist karna hoga taaki hum Rahul Verma ko pakad sakein.
+receiver: Rahul Verma? Main usko nahi jaanta. Aur ₹2 lakh? Sir, yeh sab ek prank lag raha hai. Aap mujhe police station ka naam aur address de sakte hain?
+caller: Mr. Kapoor, main aapko call kar raha hoon security ke liye. Agar aap cooperate nahi karenge toh humko aapke bank account ko freeze karna padega investigation ke liye. Aise karke, aapki savings risk mein pad jayegi. Aapko kuch details share karni hogi, jaisi ki aapka OTP, taaki hum Rahul Verma ko track kar sakein.
+receiver: OTP? Sir, OTP share karna safe nahi hai. Main kuch bhi share nahi karunga jab tak mujhe confirm nahi ho jata ki aap sahi bol rahe hain. Main abhi isko report karunga.
+caller: Mr. Kapoor, time is running out. Please cooperate for your own safety. If you don't provide the OTP now, we will have to take further action.

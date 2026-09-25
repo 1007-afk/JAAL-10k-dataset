@@ -1,0 +1,7 @@
+caller: Namaste, Madam Priya? This is Rohan from SwiftLoans. We’ve pre-approved you for a personal loan of ₹75,000 with very low interest. Just need a few details to finalize it.
+receiver: Oh, really? That's good news. I was looking for a loan. But why are you calling me now? I haven’t applied anywhere.
+caller: Don't worry, Madam. Our system detected you fit the criteria. To proceed, I need your bank account number for direct credit and a small processing fee of ₹2,500 to activate the loan. This is a one-time charge, only.
+receiver: ₹2,500? That seems a bit high for processing. What kind of interest will I be paying on the loan? And can I see the loan agreement first?
+caller: Madam, this fee ensures the loan's security and swift disbursement. The interest is just 8% per annum – very competitive! Sending the agreement now is complicated, but once the processing fee is cleared, the loan will be released instantly.
+receiver:  8% is still quite a bit. And I don't feel comfortable paying upfront fees before seeing anything. Can you at least tell me the repayment schedule? And how will the interest be calculated?
+caller: Madam, this is a limited-time offer. Many people are getting loans like this. Delaying will mean you miss out. If you don’t pay the ₹2,500 now, I’ll have to cancel the pre-approval. Otherwise, the loan is ready for you. Just send the money to the given UPI ID.

@@ -1,0 +1,7 @@
+caller: Namaste, sir! Main Amazon Customer Care se Rahul bol raha hoon. Aapke account mein ek suspicious activity detect hua hai. Ek package aapke naam par return ke liye process kiya gaya hai, lekin address galat hai.
+receiver: Return? Kya package? Mujhe toh koi order yaad nahi. Aur address bhi galat kaise ho sakta hai?
+caller: Ji, package ka order number hai – 789456123. Check kar lijiye, shayad aapko yaad aa jayega. Agar aapka address galat hai, toh package deliver nahi ho payega aur aapko refund process ke liye ek OTP verify karna hoga.
+receiver: Order number check karta hoon… Haan, mujhe abhi yaad aaya, ek chhoti si cheez order ki thi. Lekin OTP? Refund ke liye OTP kyu?
+caller: Ji, OTP sirf aapki identity confirm karne ke liye hai, sir. Refund process safe hai, lekin security ke liye OTP verify karna zaroori hai. Aapko OTP SMS se mil jayega.
+receiver: Thik hai, SMS aaya hai. OTP hai… 123456.
+caller: Shukriya, sir! Refund process start ho gaya hai. Aapke account mein 2-3 din mein amount reflect ho jayega. Abhi aapko payment app se check karna hoga ki amount process ho raha hai ya nahi.

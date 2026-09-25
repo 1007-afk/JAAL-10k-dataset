@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from BlueBird Courier. We have a parcel addressed to you, but there’s a slight issue with the delivery address. Could you please confirm your name and delivery address for verification?
+receiver: Hello, yes. My name is Rohan Verma and the address is Flat 302, Sai Apartments, Sector 8, Dwarka, Delhi, 110075.
+caller: Thank you, Rohan ji. Everything seems correct on our end. However, the payment gateway flagged a discrepancy. It appears there’s an outstanding delivery fee of ₹285. It’s a new security protocol.
+receiver: A delivery fee? I wasn't informed of any extra charges when I ordered from Meesho.
+caller: Meesho does sometimes have unexpected charges, sir. To release the package, we need to confirm that you’re aware of this. We can send a secure OTP to your registered mobile number for verification and processing the payment. Would that be alright?
+receiver: Okay, fine. Send the OTP to 9876543210. I’ll pay it through Google Pay.
+caller: Excellent! We’ve sent the OTP. Please share it with us, and we'll process the payment immediately and get your parcel dispatched.

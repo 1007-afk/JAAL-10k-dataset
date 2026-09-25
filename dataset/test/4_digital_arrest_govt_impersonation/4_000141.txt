@@ -1,0 +1,7 @@
+caller: Namaste! Main Customs Department se Rohan bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par adhura hai.
+receiver: Customs Department? Parcel? Mujhe koi parcel yaad nahi. Mainne kuch order kiya hi nahi tha.
+caller: Ji, parcel mein illegal items mile hain - currency notes aur electronic gadgets. Isliye parcel rukwa diya gaya hai. Aapko is parcel se judi enquiry complete karne ke liye ₹8000 fine bharne hoga.
+receiver: ₹8000? Illegal items? Yeh kya bol rahe hain aap? Main toh kabhi parcel order hi nahi kiya. Mujhe parcel ka tracking number batao.
+caller: Tracking number main nahi de sakta, sir. Yeh confidential matter hai. Aapko payment karne ke liye bank details mujhe de den. Rupees 8000 se zyada damage ho sakta hai agar parcel release nahi hota. Apne UPI ID de dijiye.
+receiver: UPI ID nahi dunga. Main police mein report karunga. Aap log fraud kar rahe hain!
+caller: Please sir, yeh bahut serious matter hai. Apni safety ke liye jaldi se payment kar dijiye. Agar aap nahi karenge, toh humko nipatna padega, aur police ko bhi inform karna padega.

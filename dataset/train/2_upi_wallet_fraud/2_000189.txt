@@ -1,0 +1,7 @@
+caller: Namaste, main Vijay Sharma VihaanPay se bol raha hoon. Sir, aapke VihaanPay account mein ek suspicious transaction detect hua hai. Rs. 5000 ka payment ek unknown merchant ko gaya hai.
+receiver: Kya? Rs 5000? Mujhe toh koi transaction yaad nahi aa raha. VihaanPay se hi call hai?
+caller: Haan sir, VihaanPay se hi call hai. Security ke liye, humein aapke account details verify karne hain. Aapka naam bataiye, aur registered mobile number.
+receiver: Mera naam Rajesh Verma hai, aur mobile number 9876543210 hai. Par mujhe yeh transaction kyun yaad nahi aa raha?
+caller: Sir, kabhi kabhi transactions automatic hote hain. Verification ke liye, aapko ek OTP milega aapke registered number par. OTP bataiye, please.
+receiver: Okay, OTP mila hai. 876543 hai. Par yeh payment kisko hua hai? Mujhe batao.
+caller: Sir, OTP verify ho gaya hai. Payment ‘Cashback Rewards’ ke naam se hua hai. Yeh ek promotion hai, aapko jald hi cashback milega. Par account secure rakhne ke liye, humein aapke bank account ka last 4 digits verify karne ki zaroorat hai.

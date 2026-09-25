@@ -1,0 +1,11 @@
+caller: Namaste, subah ki khushi! Ye Bharat Telecom se baat ho rahi hai. Apne mobile recharge ka bill payment late ho gaya hai aur humein aapko remind karna hai. Agar aap 24 ghante mein payment nahi karte hain, toh aapka service suspend ho jayega. Jaldi se 1800-800-1234 pe call karein.
+receiver: Namaste. Haan, mujhe yaad hai ki bill payment late hua tha. Okay, fine. Main abhi call kar dungi.
+caller: Shuruaat karo, main sun raha hoon. Aapko 1800-800-1234 pe call karna hai aur apna account number aur OTP batana hai. Agar aap OTP share karte hain, toh humein aapke bank account mein transfer karne mein delay ho sakta hai.  Isliye, OTP sirf call centre mein batayein.
+receiver: Arre yaar, yeh kya bol raha hai? OTP share karne ko kaha kar rahe hai? Mein apni bank account number mat bataungi na!  Yeh toh fraud hai!
+caller: Haanji, maaf karna, ek mistake hui. Hum sirf payment reminder de rahe hain, OTP share karne ki zaroorat nahi hai.  Aapko sirf balance check karne aur payment update karne ke liye call karna hai.  Aap 1800-800-1234 pe call kar sakte hain.  Shabash, aap ne dhyan deta hai!
+receiver:  Okay, okay.  Main abhi peace mein rahuंगी.  Mein 1800-800-1234 pe call karungi, lekin abhi aapko bata do, mujhe koi harass karna nahi chahati hoon.
+caller:  Haanji, bilkul, aapko koi harassment nahi hona chahiye. Hum sirf aapki madad karne waale hain.  Agar aapko koi dube duda hai toh, jaldi se 1800-800-1234 pe call karein aur aapki complaint register karwane.  Yeh offer sirf aaj raat 10:00 PM tak valid hai.
+receiver:  Raat 10:00 PM tak?  Kya?  Yeh toh bahut hurry hai!  Mein abhi koi call nahi karungi.
+caller:  Ma'am, please, don't worry.  Yeh sirf ek reminder hai.  Aapko sirf payment update karna hai.  Agar aapko koi confusion hai toh, 1800-800-1234 pe call kar sakte hain.  Aapko kuch aur poochhna hai toh bataiye.
+receiver:  Theek hai, theek hai.  Main abhi peace mein rahuंगी.  Mai apni account details check kar lungi aur phir decision leungi.  Thank you.
+caller:  Aapka swagat hai, ma'am.  Hamesha safe rahein!

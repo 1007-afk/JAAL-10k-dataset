@@ -1,0 +1,8 @@
+caller: Hello, I'm calling from the Directorate of Revenue Intelligence, DRI. We've intercepted communications linking your mobile number to a potential case of illegal gold smuggling.
+receiver: Illegal gold smuggling? Yeh kya keh rahe hain aap? I don’t know anything about that.
+caller: Sir, we have records indicating a significant amount of gold was being transferred using your phone number as a reference. To clear this up and avoid legal complications, we need you to cooperate. We can resolve this quickly.
+receiver: But I haven’t done anything! I just use my phone for talking and WhatsApp. Koi gold nahi mila mera. Please show me the records you are talking about.
+caller: Sir, for security reasons, we cannot disclose the details over the phone. However, to verify your identity and proceed with the investigation, we require a small processing fee of ₹15,000 to cover legal expenses. This is a standard procedure.
+receiver: ₹15,000? Are you serious? This sounds like a scam! I’m reporting this to the police.
+caller: Sir, please don't misunderstand. If you don't pay this amount, we'll have to issue a warrant and you’ll be brought in for questioning. A court appearance will be much more expensive and inconvenient. Just think of it as a small payment to avoid further trouble.
+receiver: Court appearance? Wait, let me check something…

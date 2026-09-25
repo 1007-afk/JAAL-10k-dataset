@@ -1,0 +1,8 @@
+caller: Namaste! I'm calling from EasyLoan India. We've reviewed your application and you’re approved for a personal loan of Rs. 18,000. Very quick process!
+receiver: Really? That's great! I applied through the app, right? I didn’t get any confirmation call before.
+caller: Yes, sir! The system sometimes delays confirmations. To activate the loan, we need to verify a small security fee of just Rs. 750. It’s refundable, of course, once the loan is fully disbursed. Can you transfer it to this UPI ID: 9876543210@axisbank?
+receiver: Rs. 750? The app didn't mention any security fee. And why UPI? Isn't it safer to pay through the app itself?
+caller: Sir, a technical glitch occurred. UPI is the fastest and most secure method right now. It ensures your loan gets processed immediately. Trust me, this is a standard procedure. Quickly transfer it so we can disburse your loan!
+receiver: Okay, fine. I’ll transfer it. But if this is a scam, I’m reporting you. Let me do it now.
+caller: Excellent choice, sir! The money has been received. Just one more verification now, we need you to share OTP which we will send on your registered number for final approval.
+receiver: Okay, I'll wait for the OTP.

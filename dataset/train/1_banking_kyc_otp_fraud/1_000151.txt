@@ -1,0 +1,15 @@
+caller: Namaste ji, main Rahul Kumar hoon. Aapke SBI account mein ek urgent notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main SBI ki customer service se baat kar raha hoon. Aapke account mein ek suspicious transaction dekha hai. Kya aapko thoda time mil sakta hai?
+receiver: Haanji, Rahul ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. We’ve noticed a large transfer attempt recently. To protect your money, we need to quickly confirm a few things. Could you please tell me your registered mobile number?
+receiver: Acha? Suspicious transaction? Large transfer?  Main toh bahut confused ho gaya. Mera registered mobile number... woh toh main abhi check kar raha hoon.  Kya aap thoda wait kar sakte hain? Main aapko bataunga?
+caller: Problem, sir.  Aise karte hain, main aapko ek OTP send kar dunga.  Usse aap apna account verify kar sakte hain.  Is OTP ko receive karne waale sabhle fraud hote hain. Aapko kya lagta hai?
+receiver: OTP?  Aapne OTP bheja?  Yeh toh bilkul nahi ho sakta! Bank kabhi bhi OTP nahi leta.  Aap log kitna bada fraud karte hain!  Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Namaste ji, main Vijay Singh hoon. ICICI Bank se baat kar raha hoon. Aapke account mein ek security issue hai.
+receiver: Haanji, Vijay ji. Haan, bilkul. Bataiye, kya problem hai? Main sun raha hoon.
+caller: Okay, thanks. We have detected an unauthorized login attempt on your account. For your safety, we need to reset your password immediately. Can you provide the name of the primary cardholder?
+receiver: Unauthorized login?  Mein toh pagal ho gaya. Primary cardholder ka naam?  Mujhe yeh sab samajh mein nahin aa raha.  Dekhiye, main toh abhi pehle shuru karta hoon. Kya aap thoda wait kar sakte hain? Main dekh kar batata hoon?
+caller: Problem, sir. Aisa karte hain, main aapko ek verification code bhejna chahta hoon. Is code ko entering karne waale sabhle fraud hote hain.  Aapko uss code ko kisi bhi website par enter karna nahin hai.  Aapko kya lagta hai?
+receiver: Verification code?  Aise kaise hota hai? Bank kabhi bhi verification code matlaata.  Aap logon ka kaam sirf people ko bharna hai! Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

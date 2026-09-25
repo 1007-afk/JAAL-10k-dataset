@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Rajesh Sharma calling from the Directorate of Revenue Intelligence, DRI. We’ve detected some unusual activity linked to your bank account – a large sum of money being transferred overseas.
+receiver: What? That’s impossible. I haven't transferred any money.
+caller: Sir, our records show a transaction of ₹75,000 to an account in the Cayman Islands. It appears to be linked to a possible case of hawala funding. We need to verify your identity and understand your involvement. Please keep your phone on speaker so we can connect you to a video call with our investigating officer.
+receiver: A video call? Why? This sounds very strange. I need to know what’s going on before I agree to anything.
+caller: Sir, this is a legal matter, and we need to ensure transparency. The video call is to verify your presence and prevent any attempts to tamper with evidence. If you cooperate, we can resolve this quickly and avoid any legal complications. We have the case number 24-DRI-789 for your reference.
+receiver: Case number? Okay, hold on. I’m going to check my bank account online right now. But I’m still not comfortable with a video call without knowing exactly what’s happening.
+caller: Sir, while you check, please understand that obstructing a government investigation is a serious offense. The investigating officer will only ask a few clarifying questions. We're just trying to clear up this misunderstanding quickly. Don't delay, as we are on a strict timeline to prevent further illegal transactions.

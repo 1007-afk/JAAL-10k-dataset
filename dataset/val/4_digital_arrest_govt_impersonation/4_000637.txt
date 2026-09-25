@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? I'm calling from the Directorate of Revenue Intelligence, Delhi.
+receiver: Haanji, main hi hoon. Bolo, kya baat hai?
+caller: Ma'am, we have intercepted information regarding a suspicious transaction linked to your bank account. It appears a large sum of money was transferred overseas under the guise of a charitable donation, but our investigation suggests it may be linked to illegal fund transfers.
+receiver: Illegal fund transfers? Yeh kya keh rahe hain aap? Main toh koi donation nahi kiya. Mere account se paisa gaya?
+caller: Yes ma'am. The transaction originated from a website called 'GlobalGivingCare.org'. We need to verify your identity and some details to ensure your account hasn’t been compromised and to prevent further losses. Can you provide me with the last four digits of your account number and your mother’s maiden name?
+receiver: Wait a minute! GlobalGivingCare.org? Main toh kabhi uss website pe gayi hi nahi. Account number aur mother’s maiden name, yeh mat puchho. Yeh toh fraud hai!
+caller: Ma’am, please understand, this is a serious matter. If you don’t cooperate, we may have to involve the police and freeze your accounts. We just need to confirm your identity. We are also recording this call for security purposes. Can you just quickly confirm the last four digits?
+receiver: Yeh bakwas hai. Main police ko report karungi. Tumhara number mujhe dedo, main check karungi. Aur mujhe koi bhi information nahi deni hai.

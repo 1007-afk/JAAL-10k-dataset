@@ -1,0 +1,10 @@
+caller: Namaste, is this Priya Sharma? This is Ankit calling from Paytm Rewards. We've noticed you've recently qualified for a special cashback offer on your Paytm wallet!
+receiver: Paytm Rewards? Cashback offer? What’s the catch?
+caller: No catch at all, Madam! It’s a promotional offer for loyal Paytm users. To activate it, we just need you to confirm a small processing fee of ₹50. This will ensure the cashback is credited directly to your wallet.
+receiver: ₹50? Why do I need to pay a processing fee for a cashback? That doesn’t sound right.
+caller: It’s a standard security measure, Madam, to prevent fraudulent claims. We need to verify that you’re the legitimate owner of the wallet. Just a quick one-time fee. We'll give you ₹500 cashback immediately after!
+receiver: Okay, let me see. Where do I do this in the Paytm app? I don’t see anything like this.
+caller: Wonderful! It’s a new feature, Madam. We’ll send you a link via SMS – just click on it and enter your Paytm UPI PIN to complete the verification. It's super secure, I assure you.
+receiver: UPI PIN? Wait a minute… That sounds really risky. I’m not clicking on any links.
+caller: Madam, please don't delay! This offer is only valid for the next 15 minutes. After that, the opportunity will be gone. Think of the ₹500 cashback you’ll miss out on!
+receiver: No, thank you. I think I’ll pass. This is definitely a scam. I’m blocking your number.

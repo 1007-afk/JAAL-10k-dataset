@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, mai Paytm Customer Care se bol raha hoon. Aapke Paytm wallet mein cashback offer chal raha hai, aur iske liye verification karna hoga.
+receiver: Paytm se call? Theek hai, batao kya verification hai?
+caller: Sir, aapko ek chhoti si processing fee bharani hogi, ₹50, taaki aapka account premium category mein aa jaaye aur ₹5000 ka cashback mile. Yeh offer sirf aj kal hi valid hai.
+receiver: ₹50? Aur woh fee Paytm wallet se hi bharani hai?
+caller: Haan sir, Paytm wallet se hi bharani hai. Aapko ek UPI link milega, wahaan ₹50 send kar dijiye, aur cashback automatically aapke account mein add ho jayega. UPI ID: 8888111222@ybl.
+receiver: Theek hai, ek minute. (pause) Ho gaya. ₹50 send kar diya.
+caller: Bahut achha! Ab aapko ek OTP milega, woh mujhe bataiye taaki cashback process complete ho sake.

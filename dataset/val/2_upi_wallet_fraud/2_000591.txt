@@ -1,0 +1,7 @@
+caller: Hello, this is calling from Freecharge customer care. There's a cashback offer of ₹7500 on your Freecharge wallet if you verify your details now.
+receiver: 7500 cashback? Really? I didn't get any notification about this. What details do you need?
+caller: Just a quick verification, madam. We need your UPI ID linked to your Freecharge wallet and a screenshot of your bank passbook showing the last transaction. It's to confirm your identity and process the cashback.
+receiver: My bank passbook? That sounds a bit risky. Why would Freecharge need that? Shouldn't the cashback just go into my wallet?
+caller:  It’s a new security protocol, ma’am. To prevent fraud and ensure the money goes to the correct account. We are following strict guidelines. Just send the screenshot via WhatsApp to this number and the UPI ID. 
+receiver: This is making me very uneasy. I’ve used Freecharge for years, and I’ve never had to share these kinds of details. Is there an official Freecharge contact number I can call to confirm this is legitimate?
+caller: Madam, we are extremely busy processing these cashback requests. Calling the customer care line will take a lot of time. This is a limited-time offer and you’ll miss out if you don’t act fast. Trust us, it’s completely safe. Send the screenshot now, and the money will be credited immediately.

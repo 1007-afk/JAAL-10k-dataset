@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya from State Bank of India. We've noticed some suspicious activity on your savings account, linked to online gaming transactions. To ensure your account is secure, we need to quickly verify your details.
+receiver: Hello? Online gaming? I don't usually do that. What kind of suspicious activity?
+caller: Sir, it appears several small transactions have been made through your account to various gaming platforms. To prevent further unauthorized access, we require you to confirm your account details and a one-time password (OTP) we’ll send to your registered mobile number.
+receiver: Wait a minute. Why would I be making these transactions? And why are you calling me instead of sending an SMS? I’m a bit worried now.
+caller: Sir, security protocols dictate a phone call for urgent verification. Failure to verify within the next 5 minutes will trigger an automatic freeze of your account. We need to send a quick OTP to confirm you are the legitimate account holder. Could you please provide your Aadhaar number for quick verification?
+receiver: Aadhaar number? Over the phone? That doesn't sound right at all. I've heard about these scams.
+caller: Sir, this is standard procedure to prevent fraud. Without verifying with your Aadhaar, we cannot guarantee the safety of your funds and your account will be suspended. Please cooperate to avoid any inconvenience.

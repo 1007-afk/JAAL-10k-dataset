@@ -1,0 +1,8 @@
+caller: Namaste, sir. My name is Rohan Sharma, calling from the Directorate of Revenue Intelligence, DRI. We’ve detected some unusual activity linked to your bank account, specifically regarding a parcel intercepted at the Chennai customs.
+receiver: Chennai? I haven't sent any parcels. What kind of activity?
+caller: Sir, the parcel contained what appears to be precursors for illegal drug manufacturing. Your bank account was used for a small payment related to the shipping label. This is a serious matter, sir. We need to confirm your identity to clear things up.
+receiver: Drug manufacturing? This is ridiculous! How can my bank account be involved? I’ll call my bank right away.
+caller: Sir, please don't do that. Any attempt to contact external parties could be interpreted as obstruction. We have you on a secure video call to ensure transparency. We simply require a small processing fee of ₹15,000 to cover the investigation costs and prevent further legal action.
+receiver: Fifteen thousand rupees? What kind of investigation requires me to pay? Can I speak to someone higher up? This sounds like a scam to me.
+caller: Sir, this is standard procedure. The fee is refundable once the investigation is complete. Delaying this will only complicate matters and could lead to more serious penalties. To proceed, we need the fee transferred to this UPI ID: dri.investigations.786. Please do it quickly to resolve this issue.
+receiver: I’m not paying anything to anyone claiming to be DRI. I’m reporting this to the cybercrime cell. Goodbye.

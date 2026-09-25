@@ -1,0 +1,16 @@
+caller: Hello? Hello, Mr. Sharma? Can you hear me okay? This is Priya from Lucky Draw Solutions. I’m calling with some incredibly exciting news for you today. Congratulations, Mr. Sharma! You've won a state-of-the-art Smart TV! Isn’t that wonderful?
+receiver: Hello? Haan, Priya? Sunai de raha hai. Lucky Draw Solutions se? Wow! Smart TV jeeta hoon? Seriously? Thank you so much! Kya ho raha hai?
+caller: Haan, Mr. Sharma, seriously! Absolutely incredible news! Aapko yeh Smart TV milne wala hai! Bas ek kaafi important step hai, taaki hum yeh TV aap tak pahuncha saken. Kya aap abhi busy nahi hain baat karne ke liye?
+receiver: Haan, Priya, completely free right now. Tell me what needs to be done? Is there any form to fill or something?
+caller: Fantastic, Mr. Sharma! So, we just need to verify your information to ensure this Smart TV gets delivered safely. It’s a quick and easy process, where we’ll ask you for a few essential details to confirm you are the rightful winner. Could you please tell me your full name and postal address?
+receiver: Haan, sure. My name is Vikram Sharma. And my address is… 45, Rose Lane, Sunnyvale.
+caller: Excellent, Vikram! Thank you. And your preferred phone number, please? Just to double check everything.
+receiver: It’s 9876543210.
+caller: Hello? Hello, Mr. Kapoor? Can you hear me okay? This is Rahul from Prize Central. I'm calling with some truly remarkable news for you today. Congratulations, Mr. Kapoor! You've won a luxurious gold watch! Isn’t that thrilling?
+receiver: Hello? Haan, Rahul? Sunai de raha hai. Prize Central se? Oh my goodness! Gold watch jeeta hoon? Really? Thank you very much! What’s happening?
+caller: Haan, Mr. Kapoor, really! Absolutely sensational news! Aapko yeh gold watch milne wala hai! But before we ship it out, we have to complete a small confirmation procedure to make sure it reaches the correct person. Are you available to chat for a moment?
+receiver: Haan, Rahul, totally free. Tell me what I need to do. Is there any paperwork involved, or just a phone call?
+caller: Wonderful, Mr. Kapoor! So, all we need to do is verify your identity. This involves providing us with a few basic details, such as your full name and residential address, to ensure the prize is delivered securely. Could you share your full name and city with me?
+receiver: Haan, of course. My name is Sanjay Kapoor. And I live in… 8, Oak Street, Mumbai.
+caller: Perfect, Sanjay! Thank you. Now, could you provide your year of birth, please? It's simply for security purposes to confirm your eligibility.
+receiver: My year of birth is… 1988. And is there anything else?

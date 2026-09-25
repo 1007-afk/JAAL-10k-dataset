@@ -1,0 +1,12 @@
+caller:  Aap kaise hain, Mr. Joshi? Mai Rahul Sharma bol raha hoon, Digital Solutions India se. Aapko ek important update hai.
+receiver:  Haan ji, mai Sanjay Kumar bol raha hoon. Bolna, Rahul bhai.
+caller:  Sanjay, aapke office ki internet speed bahut slow chal rahi hai, hai na? Hamare analysis per, dekha hai ki aapke router mein problem hai. Isliye humne aapke liye ek solution provide karne ka decision liya hai.
+receiver:  Woh to hai, Rahul. Internet speed kam pad gayi thi, fir se normal ho gayi hai.
+caller:  Haan, lekin humne dekha hai ki aapke network connection mein bhi kuch issues hain. Uske karan, humne aapke liye ek premium router upgrade ke liye invitation send kiya hai. Ye router bahut fast hai aur aapko bohat zyada benefit milegi.
+receiver:  Premium router? Woh kitni mushkil hai install karna? Aur cost kya hoga?
+caller:  Install karna bahut easy hai, Sanjay. Humara technician ek din mein aapke office mein aa jayega aur woh sab setup kar dega. Cost ₹2,500 hai, lekin aapko ek year warranty milega.
+receiver:  ₹2,500? Woh toh achcha deal hai. Lekin, ye router genuinely better hogi na? Agar ye badhiya hai toh, internet speed mein improvement dekh paayenge?
+caller:  Bhot zyada better hoga, Sanjay. Ye router speed boost karega aur aapko online gaming aur video conferencing mein bhi smoothness milegi. Aur aapko ek free antivirus software bhi milega.
+receiver:  Antivirus software? Thoda confusion hai. Mein internet speed ka sawaal kar raha tha. Fir aapne antivirus offer kar diya.
+caller:  Arre Sanjay, antivirus bhi important hai! Online transactions ke liye, aapko secure rahein chahiye. Aur ye antivirus software aapko malware se bachane mein madad karega.  Iske karan, humne aapko ye offer join karne ko encourage kiya hai.  Aapne bilkul justified reason hai. Kya aap is offer ko accept karna chahenge?
+receiver:  Hmm, ek minute…  Mujhe pata nahi, Rahul. Ye router upgrade ka idea thoda dubara sochna padega.  Agar internet speed mein koi change nahin hota, toh ₹2,500 pura kyun kharcha hoga?

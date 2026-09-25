@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank security department se Rohan Verma bol raha hoon. Aapke account mein suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Mujhe bataiye kya hua?
+caller: Sir, ek online transaction attempt hua hai ₹15,000 ka Nepal mein se. Aapne kiya tha transaction ya nahin?
+receiver: Nepal mein? Nahin, maine toh koi transaction nahi kiya. Main toh ghar pe baitha hoon.
+caller: Sir, mujhe confirm karna hoga. Aapka account suspend ho sakta hai agar verification na karein. Main aapko ek OTP SMS kar raha hoon. Jo OTP aayega, woh bataiye.
+receiver: OTP? Sir, mujhe doubt ho raha hai. Axis bank toh aise phone nahi karta. Main khud customer care number se call karta hoon.
+caller: Sir, please aap OTP bataiye. Time bahut kam hai. Account suspend ho jayega. Aur ek verification question bataiye - aapki birthday kab hai?
+receiver:  Stop! Main call cut kar raha hoon. Yeh scam hai.

@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, main PhonePe security team se bol raha hoon. Aapke PhonePe account mein se kuch suspicious transactions detect hue hain.
+receiver: Kya? Kuch transactions? Mujhe to koi message nahi aaya. Mein PhonePe hamesha use karta hoon. Meri account number check karo, zara.
+caller: Ji haan, sir. Check kar raha hoon. Haan, dekhiye, ek transaction 15000 ka hua hai Amazon pe. Aapne kiya tha?
+receiver: 15000? Nahin! Mainne toh kabhi Amazon se itna zyada kharcha nahi kiya. Yeh to fraud hai! Mujhe yeh transaction nahi pata.
+caller: Relax, sir. Hum isko resolve karenge. OTP verify karwa len aap se, tab hum account block kar denge aur refund process shuru karenge. OTP aapke registered phone number par aayega.
+receiver:  Achha, theek hai. Par mujhe thoda dar lag raha hai. Kuch wrong number bhi chal sakte hain, na? Aur refund mein kitna samay lagega?
+caller: Bilkul sahi mein sir, koi tension nahi hai. Hum official PhonePe team hain. OTP milte hi verify karwa len, refund process shuru ho jayegi aur 3-5 working days mein aapko paisa wapas mil jayega. Aapka OTP hai 4872, confirm kardo sir.
+receiver: 4872? Okay, wait a minute. Let me just confirm…

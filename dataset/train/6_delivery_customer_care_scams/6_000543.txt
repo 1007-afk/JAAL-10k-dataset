@@ -1,0 +1,8 @@
+caller: Hello! Is this Mr. Sharma? We're calling from Bluebird Courier regarding a parcel addressed to you. There seems to be a delivery issue.
+receiver: Haan, wohin hoon. Parcel? Kya hua?
+caller: Sir, the parcel is quite large and requires a special handling fee of ₹2800 due to unexpected customs charges. It’s from Flipkart, a new washing machine.
+receiver: ₹2800? Flipkart se mujhe toh kuch order nahi kiya tha. Yeh kya ho raha hai?
+caller: Sir, sometimes orders are placed accidentally. To release the parcel, we need you to confirm the payment through a secure OTP. We'll send it to your registered mobile number.
+receiver: OTP? Kaise secure hai? Flipkart toh aise OTP nahi maangta. Mujhe kuch gadbad lag rahi hai.
+caller: Sir, this is standard procedure to prevent fraud. It's a one-time verification. Without it, we’ll have to return the parcel to Flipkart, and you’ll lose the washing machine. The OTP is 1947.
+receiver: Ek minute! Main police se report karunga. Yeh scam hai!

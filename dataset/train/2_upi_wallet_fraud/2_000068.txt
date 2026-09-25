@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart Customer Care se Rahul bol raha hoon. Tumhare Flipkart account mein ek pending transaction hai, ₹499 ka. Payment fail ho gaya hai.
+receiver: Oh, really? ₹499? Koi order toh main recent mein nahi kiya tha. Kya hua?
+caller: Sirf verification ke liye ek chhota sa OTP number check karna hai, tabhi transaction complete ho jayega. Aapko Flipkart Pay app mein OTP milega.
+receiver: Flipkart Pay app? Par main toh kabhi use nahi kiya. Yeh thik lag raha hai?
+caller: Haan sir, totally safe hai. Account secure rakhne ke liye hum verification kar rahe hain. Just enter the OTP on this number - 7890123456.
+receiver: Okay, wait, let me check my Flipkart app... Haan, ek OTP mila hai. 123456.
+caller: Shukriya sir! Aapka transaction complete ho gaya hai. Ab aapko Flipkart pe exclusive deals aur cashback offers milenge. Abhi ₹10 cashback claim karne ke liye, ‘CLAIM’ type kar ke 7890123456 par message karo.

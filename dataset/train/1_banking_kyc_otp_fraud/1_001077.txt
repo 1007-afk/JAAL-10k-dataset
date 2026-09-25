@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank security department se Rahul bol raha hoon. Aapke naam par ek online transaction ki koshish ki gayi hai, jo suspicious lag rahi hai. Aapke account ko secure rakhne ke liye, mujhe aapka Aadhaar number aur ek OTP verify karna hoga.
+receiver:  Aadhaar number? Aur OTP? Maine toh koi online transaction nahi kiya. Axis Bank se call hai kya?
+caller: Ji haan, sir. Account ki security ke liye verification karna bahut zaroori hai. Agar aap verification nahi karwayenge toh aapka account suspend bhi ho sakta hai. Kuch hi minute mein ho jayega, sir. Just aapka Aadhaar number aur OTP.
+receiver:  Suspend?  Lekin main toh apna internet banking use hi nahi karta. Mujhe koi OTP nahi mila hai.
+caller: Sir, ho sakta hai aapko message aaye na, security ke liye hum log system mein automatically generate karte hain. Aapko ek OTP mila hoga, woh bata dijiye please. Aur Aadhaar number toh sirf confirm karne ke liye, sir. Account suspend hone se bachne ke liye jaldi kar lijiye.
+receiver:  Dekhiye, mujhe yeh thoda uncomfortable lag raha hai.  Agar aap Axis Bank se hain, toh aapko toh mera naam aur account number toh pata hona chahiye na?  Aadhaar number aur OTP phone pe share karna mujhe theek nahi lag raha.
+caller: Sir, humara system security ke liye encryption se protected hai. Isliye hum phone pe verification karte hain. Aapka account suspend hone se pehle jaldi se details bata dijiye. Aapka loss bhi ho sakta hai.

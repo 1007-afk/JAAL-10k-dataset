@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, Paytm Customer Care se. Aapke Paytm account mein ek transaction failure hui hai.
+receiver: Transaction failure? Kaun sa transaction? Mujhe toh koi notification nahi aaya.
+caller: Ji, ek bahut zyada amount ka transaction attempt kiya gaya tha, ₹12,000. Security ke liye, hum aapke account ko temporary suspend kar diya hai. Aapko dobara activate karna hoga.
+receiver: ₹12,000? Mein toh kabhi itna paisa transfer nahi kiya! Account activate kaise karunga?
+caller: Activation ke liye, aapko ek OTP verify karna hoga, jo hum aapke registered mobile number par bhejenge. Iske baad, ₹500 ka processing fee bhar denge, jo instantly aapke account mein credit ho jayega, aur account dobara active ho jayega.
+receiver: ₹500 processing fee? Paytm mein toh kabhi processing fee nahi bharte. Yeh fraud lag raha hai.
+caller: Sir, security protocol hai. ₹500 fee hone se aapka account secure rahega.  Koi aur option nahi hai.  Trust us, sir.  Fast fast!
+receiver: Okay, theek hai. OTP bhejo. Par agar ₹500 credit nahi hota toh main complain karunga.

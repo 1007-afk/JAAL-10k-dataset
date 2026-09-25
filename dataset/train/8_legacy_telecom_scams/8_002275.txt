@@ -1,0 +1,8 @@
+caller: Hello? Hello? Kaise ho aap? Mujhe batana hai ki aaj ke liye 'Golden Melody' ringtone aapke phone pe aani wali hai. Suno, yeh bahut hi special hai!
+receiver: Hello? Oh, yes, main sun sakta hu! Golden Melody ringtone? Bahut achcha! Main unse bahut excited hu. Yeh kab aane wala hai?
+caller: Haanji, bas thoda time lagega, mayus mat hona. Kya aapka naam [Receiver’s Name] hai? Humne record mein dekha tha, par confirm karna chahte the. Yeh Golden Melody collection bahut hi unique hai, aapko bahut pasand aayega, guaranteed! Kisi ko koi problem nahi aa rahi ye ringtone ke liye? Hum bas check kar rahe hain ki sab sahi ho.
+receiver: Haanji, bilkul! Aapka naam [Receiver’s Name] hi hai. Shukriya! Aur haan, mujhe Golden Melody collection bhi bahut pasand hai, sounds nice! Abhi tak toh koi problem nahi hai, sab smooth chal raha hai. Agar kuch hua toh zaroori bata dunga. Dhanyavaad!
+caller: Oh, that's good to hear, [Receiver’s Name]! Hum bas yeh check kar rahe hain kyuki ek chota sa verification step hai jo humein karna padta hai, you know, to ensure ki Golden Melody ringtone sahi person ko mile. Is your current phone number ending in ...YYYY? Just a quick final check!
+receiver: Haanji, bilkul! Mera current phone number issi number se end ho raha hai…YYYY. Aapne sahi pakda hai! Dhanyavad, aapki madad shukriya!
+caller: Perfect, [Receiver’s Name]! Aur ek last cheez, is Golden Melody ringtone ka access ek temporary password ke through hoga. Hum aapko woh password abhi WhatsApp message kar rahe hain. Aapko bas woh password enter karna hai jab aapko notification aaye. Simple hai, right? Aur koi sawaal?
+receiver: Oh, temporary password? Theek hai, wait karunga. Sounds easy. Aur koi sawaal nahi hai abhi. Dhanyavaad!

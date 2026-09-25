@@ -1,0 +1,9 @@
+caller: Namaste, mein Paytm Payments Bank se Shilpa Sharma bol rahi hoon. Aapka naam Ankit Verma hai, kya?
+receiver: Haan, main Ankit Verma hoon. Kya baat hai?
+caller: Sir, aapke Paytm account mein ek non-verified transaction ka attempt hua hai. Security ke liye, humein aapke KYC details update karne hain. Iske bina aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? KYC update? Mein toh koi transaction nahi kiya. Koi OTP aaya hai mujhe?
+caller: Sir, OTP nehi. Humein sirf aadhaar card number aur PAN card number chahiye verification ke liye. I see a mismatch in your registered address. Ek baar verify ho gaya toh aapka account safe rahega.
+receiver: Aadhaar number aur PAN card? Bank aise phone pe poochta hai kya? Yeh thoda suspicious lag raha hai. Mein bank branch mein jaakar verify karwa lunga.
+caller: Sir, branch mein line bahut lambi hogi. Time bhi kharab hoga. Sirf do minute mein hi sab kuch ho jayega. Apne account ko suspend hone se bachaaiye. Dekhiye, humein sirf last four digits aadhaar card ke chahiye, aur PAN card ka bhi.
+receiver: Haan, lekin mujhe thoda shaq hai. Koi official email ID ya phone number do jahan mein contact kar sakun. Mein verify karke phir bolunga.
+caller: Sir, humara helpline number 1800-123-4567 hai. Woh check kar lijiye. Abhi OTP nehi chahiye?

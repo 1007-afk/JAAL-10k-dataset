@@ -1,0 +1,9 @@
+caller: Namaste! Suno, mein hu Rohan, ‘Global Taskers’ se. Aap kaise hain?
+receiver: Namaste, Rohan. Main theek hu. Global Taskers? Kya hai yeh?
+caller: Bahut achha opportunity hai, sir! Hum online tasks dete hain – apps ko rate karna, videos ko like karna, surveys fill karna - aur aapko payment milta hai. Ek task ₹50 se ₹200 tak ka hota hai, bahut easy hai!
+receiver: ₹50 se ₹200? Kitne tasks karne honge? Aur payment kaise milega?
+caller: Sirf 5 tasks karo din mein, ₹2500 tak kama sakte hain! Payment UPI se milega, bilkul safe hai. Lekin pehle ₹500 ka registration fee dena padega. Yeh ek-time charge hai, registration ke liye.
+receiver: ₹500 registration fee? Aur registration ke baad tasks milenge, ya fir kuch aur charges lagenge?
+caller: ₹500 fee sirf registration ke liye hai, sir. Tasks free honge, promise! Abhi karo registration, limited slots available hain. Payment karne ke liye UPI ID mein ₹500 deposit karein.
+receiver: Okay, wait a minute. I need to think about this first. I’ll call you back.
+caller: Sir, jaldi karo! Offer last minute mein chal raha hai. ₹500 deposit karein aur kamaana shuru karein!

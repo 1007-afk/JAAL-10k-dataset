@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence, Delhi. We have intercepted a suspicious parcel linked to your IP address.
+receiver: Kya? Mere IP address se? Main toh kabhi koi parcel nahi order kiya. Yeh kya baat ho rahi hai?
+caller: Sir, preliminary investigation suggests the parcel contains illegal contraband. We need to confirm your involvement. To clear this matter quickly and avoid legal complications, you’ll need to pay a small processing fee of ₹8,500 to secure the release.
+receiver: ₹8,500? Lekin main toh kuch bhi illegal nahi kiya. Yeh fraud lag raha hai. Main police station mein report karunga.
+caller: Sir, please don't jump to conclusions. This is a sensitive operation. To prove your innocence and expedite the process, we need confirmation of payment immediately. We're currently on a video call to monitor your activity - do not end the call under any circumstances. You can deposit to this UPI ID: 9876543210@upi.
+receiver: Yeh UPI ID toh fake lag rahi hai. Main abhi call cut kar raha hoon aur police ko report karunga. Yeh loog fraudster hain.
+caller: Sir, wait! This is your last chance to cooperate. Cutting the call will be considered as obstruction of justice and we will have to issue a warrant. Please pay the amount immediately. This is for your own safety, sir.

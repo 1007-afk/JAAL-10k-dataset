@@ -1,0 +1,7 @@
+caller: Namaste, Sir! Main Indian Customs se Ankit Sharma bol raha hoon. Aapke naam par ek parcel Gujarat mein intercept kiya gaya hai jo illegal items se bhara hua hai.
+receiver: Kya? Illegal items? Yeh kya bol rahe hain aap? Mera naam? Main Gujarat mein kabhi parcel nahi bheja.
+caller: Sir, parcel tracking number IND-789456 hai. System mein dikh raha hai ki aapne Mumbai se Gujarat bheja hai.  Parcel mein suspicious drugs paaye gaye hain.  Aapko serious consequences ka samna karna padega agar yeh matter suljha nahi jaata.
+receiver: Lekin yeh toh galat hai! Main toh kabhi drugs nahi dekhe hain!  Aap mujhe OTP send karein, main verify karunga.  Phir hum baat karte hain.
+caller: Sir, OTP nahi. Yeh procedure nahi hai.  Aapko ek bank account detail provide karna hoga taaki legal fees pay ki jaa sakein, yeh parcel ko clear karne ke liye.  Fees sirf ₹15,000 hai.  Agar aap cooperate karenge toh matter sorted ho jayega.
+receiver: ₹15,000? Yeh bahut zyada hai!  Customs department aise phone pe paise maangti hai kya? Main police station mein jaakar report karunga.
+caller: Sir, main aapko help kar raha hoon!  Agar aap report karte ho toh case aur complicated ho jayega aur aapko arrest bhi ho sakta hai.  Time is running out.  Aapko abhi bank details provide karne honge, otherwise humko action lena padega. Main aapko final chance de raha hoon.

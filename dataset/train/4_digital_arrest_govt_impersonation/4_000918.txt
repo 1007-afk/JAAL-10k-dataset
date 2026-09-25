@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Special Agent Rajeev Verma, Income Tax Department se bol raha hoon. Aapko ek serious allegation mein phasaya gaya hai.
+receiver: Kya allegation? Income Tax department? Maine toh kabhi koi problem nahi kiya. Bataiye kya hua?
+caller: Sir, hamari department ko ek confidential source se pata chala hai ki aapka naam ek international hawala transaction mein aa raha hai. Yeh money laundering se related hai, sir.
+receiver: Hawala transaction? Lekin main toh Gujarat mein ek saree shop chalaata hoon. Yeh sab galat hai! Koi meri shop mein nahin aata tha, sir.
+caller: Sir, yeh bahut serious matter hai. Hamari team ne aapke bank account details access kar liye hain. Yeh case CBI ko transfer hoga. Isko settle karne ke liye, aapko ₹75,000 ka security deposit jama karna padega. Aapko UPI se pay karna hoga, sir.
+receiver: ₹75,000? Yeh bahut zyada hai! Aur CBI ko transfer? Mein ek advocate se baat karunga!
+caller: Sir, agar aapko hamari baat samajh mein nahi aa rahi hai, toh hum case CBI ko transfer kar denge aur aapko arrest bhi kar sakte hain. Agar aap cooperate karein toh yeh matter silently settle ho sakta hai. Aapko Paytm se pay karna hai, sir.
+receiver: Wait, wait! I need to check with my family first. Please give me a reference number for this case.

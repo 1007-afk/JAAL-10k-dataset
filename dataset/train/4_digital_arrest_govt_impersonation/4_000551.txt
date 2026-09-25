@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is the Central Goods and Services Tax (CGST) department. We've detected suspicious activity linked to your GST registration, number 12ABCDE3456F78.
+receiver: GST? What suspicious activity? I haven’t done anything wrong. Can you tell me exactly what’s happened? And how did you get my number?
+caller: Sir, our system flagged several unusual transactions originating from your GST account, indicating potential involvement in fraudulent input tax credit claims. This is a very serious matter, sir. To resolve this swiftly and avoid legal action, we need you to transfer ₹15,000 as a security deposit to verify your account.
+receiver: ₹15,000? That’s outrageous! Why would I pay a security deposit to prove my innocence? This sounds like a scam. Give me a reference number and the official CGST contact number so I can verify this.
+caller: Sir, this is a standard protocol for swiftly resolving such cases. Delaying action will only escalate the situation and attract more scrutiny. The reference number is CGST-URG-786. You can transfer the amount to this UPI ID: gstsecurity@axisbank. If you fail to comply, we’ll be forced to initiate legal proceedings. 
+receiver: Okay, hold on a second. I'm not falling for this. GST doesn’t ask for money via UPI. I’m reporting this to the government helpline immediately. You're a fraudster. Don’t call me again.
+caller: Sir, please reconsider. The deadline is approaching rapidly. Ignoring this will result in severe consequences. A quick transfer of ₹15,000 will resolve everything immediately. Think about it.

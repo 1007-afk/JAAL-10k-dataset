@@ -1,0 +1,8 @@
+caller: Namaste! This is Raj from BharatPay customer care. We’ve noticed unusual activity on your BharatPay wallet. A transaction of Rs. 500 was attempted to a merchant you haven’t used before.
+receiver: Oh really? I didn’t make any transaction like that. What was the merchant's name?
+caller: It appears to be a purchase from ‘Digital Solutions Hub’. To secure your account and get a refund processed quickly, we need to verify your UPI PIN. Just the last three digits will do for now.
+receiver: My UPI PIN? That seems risky. Why can’t I just report this transaction through the BharatPay app?
+caller: The app is experiencing some technical difficulties right now, ma’am. This is a temporary measure to prevent further fraudulent activity. Sharing the last three digits of your UPI PIN will allow us to block that merchant immediately and begin the refund process. We'll also send you a confirmation SMS.
+receiver: Okay, alright. Fine, the last three digits are 456. But I'm still not comfortable with this.
+caller: Thank you, ma’am. Now, to complete the refund and prevent any further unauthorized attempts, we also need you to confirm the last four digits of the bank account linked to your BharatPay wallet. It’s a standard security procedure.
+receiver: Wait a minute! Now you want my bank account details too? This is getting really suspicious. I think I’ll just call BharatPay directly from their official number.

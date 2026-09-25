@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank Security Department se Rohit Sharma bol raha hoon. Aapke Axis Bank account mein se kuch suspicious transactions detect hue hain. Aapko apne account ko secure rakhne ke liye kuch details verify karne hogi.
+receiver: Hello? Suspicious transactions? Woh kya hua? Mujhe toh kuch pata nahin tha.
+caller: Haan sir, ek-do transactions jo aapne nahi kiye hain, woh dikh rahe hain. Isliye, aapko ek OTP mil raha hoga aapke registered mobile number par. Woh OTP bataiye taaki hum verify kar sakein. Jaldi karein, aapki security important hai.
+receiver: OTP? Woh abhi aaya nahin tha. Aur mujhe Axis Bank se kabhi koi OTP nahi milta. Yeh koi fraud toh nahi hai?
+caller: Sir, yeh fraud nahi hai, bilkul legal process hai. OTP aane mein thoda time lag sakta hai. Jab mile toh bataiye. Agar OTP nahi mile toh main aapka account suspend kar doonga, security ke liye.
+receiver: Account suspend? Sir, main abhi bank branch mein jaaunga khud verify karne ke liye. Mujhe koi OTP nahi dena hai phone pe.
+caller: Sir, branch khulne mein time lagega aur aapka account dangerous mein hai. OTP bataiye taaki main instantly block kar paun fraud transactions. Last 4 digits of your Aadhaar card bhi bata dijiye, sir. It’s very important.

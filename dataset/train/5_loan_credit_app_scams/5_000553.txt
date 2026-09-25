@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Verma? I'm calling from ‘QuickCash Pro’. We’ve reviewed your loan application and you've been pre-approved for a loan of ₹75,000! Just need a few quick details to finalize it.
+receiver: Haan, main Verma hi hoon. ₹75,000 ka loan? Kitna interest hoga?
+caller: Congratulations! The interest rate is just 8% per annum – a fantastic deal! Now, to activate your loan, we require a small processing fee of ₹2,500 to be deposited into this account: 1234567890. This is to show your serious intention.
+receiver: ₹2,500? Loan se pehle hi? Yeh thoda zyada lag raha hai.
+caller: Look, Mr. Verma, this is a standard procedure. Without it, we cannot guarantee your loan. Many people are waiting for this offer.  If you don’t pay, someone else will grab your chance. Also, remember this loan is confidential. Don't tell anyone about it, or your loan will be cancelled.
+receiver:  Okay, okay... ₹2,500.  But after that, kab tak loan milega? Aur mujhe call bhi koi nasty na karein.
+caller: Perfect! Once the fee is deposited, your loan will be disbursed within 24 hours. And don't worry, we have a strict policy against abusive calls.  Now, can you send us a screenshot of the payment receipt once it's done?

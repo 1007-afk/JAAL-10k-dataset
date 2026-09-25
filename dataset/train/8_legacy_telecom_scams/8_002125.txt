@@ -1,0 +1,8 @@
+caller: Namaste! Suno, main Bharat Telecom se baat kar rahi hu. Aapko ek important notification mila hai. Yeh Reliance Jio ka update hai.  Agar aapko yeh update nahi mila, toh yeh ek final warning hai. Text ‘INFO’ par 98765 pe. Kya aapko notification mila?
+receiver: Namaste ji. Reliance Jio? Haan, ek message mila tha. Update hai? Thoda confused hu mai.
+caller: Exactly! Confusion bahut hota hai. Yeh update aapke data ko secure rakhne ke liye hai.  Isliye, agar aapko text nahi diya, toh aapki internet speed kam ho jaegi.  Yeh ek final chance hai.  Text ‘INFO’ par 98765 pe, aur aapka account safe rahega.
+receiver: Oh, okay. Data secure karega?  Phir yeh ‘INFO’ likhne ke baad 98765 pe send karna hai?  Aur is update ka koi benefit hai kya, jisse mujhe yeh karna chahiye?
+caller: Haanji! Yeh update aapko special offers bhi deta hai.  Jisko aap miss nahi karenge.  Agar aapko text nahi diya, toh aapko sirf basic services hi milegi.  Toh jaldi se text kar dijiye.  Text ‘INFO’ par 98765 pe bhej dijiye.  Bahut hurry hai.
+receiver: Achcha, samajh gaya. Basic services hi milegi.  Theek hai, abhi bhejta hoon.  Aapko mera number pata hai kya, jisse aap meri confirmation check kar sake?
+caller: Arre nahi, number ki koi zaroorat nahi hai.  Bas woh message bhej dijiye, toh aapka registration complete ho jayega.  Agar aapke koi sawal hain toh main yahan hoon abhi.  Toh bas, ‘INFO’ likh ke 98765 pe bhej dijiye.  Jaldi se.
+receiver: Okay, understood. Number nahi toh theek hai.  Bas ‘INFO’ par 98765 pe bhejna hai, right?  Aur is update ka kya fayada hai, samjha sakte hain?  Kuch discount milega ya koi new feature add hoga?

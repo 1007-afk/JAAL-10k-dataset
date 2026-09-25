@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Rajan from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your Amazon account.
+receiver: My Amazon account? What kind of activity? I haven't ordered anything unusual.
+caller: Sir, our intelligence indicates that your account was used to facilitate the illegal import of restricted goods. It appears to be linked to a money laundering scheme.
+receiver: That's impossible! I only use my Amazon account for buying books and groceries. Are you sure you have the right person? Can you give me a case reference number?
+caller: Sir, providing a case reference number at this stage could compromise the investigation. To clear this up quickly, we need to verify your account details and a small processing fee. A nominal amount of ₹15,000 will suffice to secure your account and prevent further legal action. We need this urgently.
+receiver: Fifteen thousand rupees? To secure my account? This sounds like a scam. Why would DRI ask for money over the phone? I’m reporting this to the cybercrime cell immediately.
+caller: Sir, don’t be hasty. If you delay, your account will be frozen and you'll face serious legal consequences. Think about it, sir, saving ₹15,000 now is better than paying a hefty fine later. Just transfer the amount to this UPI ID: 8765432109@axisbank.
+receiver: Absolutely not. I’m hanging up now. You are a fraudster.

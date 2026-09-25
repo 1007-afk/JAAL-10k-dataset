@@ -1,0 +1,7 @@
+caller: Namaste! Mai Vijay Sharma bol raha huun, BharatPay se. Aapko ek achha cashback offer mil raha hai.
+receiver: BharatPay? Cashback offer? Bolo, kya offer hai?
+caller: Aapke BharatPay wallet mein ₹1000 cashback mil raha hai, sirf ₹100 processing fee bhar kar. Yeh limited time offer hai, sirf 2 ghante ka time hai.
+receiver: ₹1000 cashback? Processing fee? Yeh legal hai kya? BharatPay direct offer deta hai na?
+caller: Haan beta, legal hi hai! BharatPay ne ek special partner ke saath yeh offer launch kiya hai. Aapko bas apne BharatPay app mein ‘Cashback Claim’ option find karna hai aur ₹100 deposit karna hai UPI se.
+receiver: UPI se? Kaise deposit karu? Koi link bhejo, main check karu. Aur yeh partner kaun hai? Bataiye na.
+caller: Haan, ek minute. Yeh link use karein: bharatpay.cashback.info/claim. Jaldi karein, time barbaad mat karein! ₹100 bhar deyin, ₹1000 cashback aapka hoga.

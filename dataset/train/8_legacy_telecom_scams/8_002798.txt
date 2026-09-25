@@ -1,0 +1,9 @@
+caller: Namaste ji, is this Ms. Devi? This is a payment reminder from DigiStream about your PrimeView Plus membership.
+receiver: Ji ji, bolo. Kaise hain aap?
+caller: Namaste ji, Ms. Devi, we’re calling from DigiStream regarding your PrimeView Plus membership. There was an automated transaction for ₹75, and we just want to verify that you received it and would like to keep your membership active. It gives you access to all our latest movies and shows.
+receiver: PrimeView Plus? Haan, mujhe yaad nahi aa raha ki maine ye membership liya tha. ₹75 charge ho gaya hai? Main dekha dekhai karunga.
+caller: Haan ji, Ms. Devi, I understand it might be forgotten. This charge happened automatically through your online banking. If you wish to cancel, we can do that immediately. Otherwise, if you want to continue, you'll get exclusive behind-the-scenes footage of upcoming films this month. What's your preference?
+receiver: Behind-the-scenes footage? Kis film ka? Mujhe yakeen nahi aa raha. Kya koi website hai jahan se main check kar sakoon ki maine ye subscribe kiya tha?
+caller: Haan ji, Ms. Devi. Let me quickly check your account details – it usually takes around 30 seconds. But honestly, if you don't remember subscribing and don’t want to pay the ₹75, we can cancel the membership right away. Or, if you're interested in seeing those exclusive clips, we can keep it active. So, what will it be?
+receiver: Hmm, ₹75 charge ho gaya hai. Okay, cancel kar dijiye. Mera account number check karo aur mujhe confirmation message bhejo.
+caller: Ji ji, Ms. Devi. Absolutely. I am cancelling your PrimeView Plus membership now. Please allow a few minutes for the cancellation to process, and you’ll receive a confirmation email shortly. Just one moment...

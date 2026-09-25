@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, Express Finance se baat kar raha hoon. Aapko urgent loan chahiye tha, hai na? ₹50,000 se ₹20 lakh tak, jald hi mil sakte hain.
+receiver: Haan, ji. Main ek chota loan seekh raha hoon, ₹30,000 tak ka. Insurance ke payment ke liye.
+caller: Bahut achha, sir! Express Finance mein hum urgent cases handle karte hain. Aapka naam aur mobile number bataiye, main check karta hoon aapki eligibility. Koi hidden charges nahi, promise!
+receiver: Mera naam Ankit hai, aur mobile number 9876543210 hai. Aap check kijiye.
+caller: Ankit ji, aapki eligibility confirm ho gayi hai! Bahut achha. Abhi sirf ₹1,000 ki processing fee jama kijiye, tab loan approve ho jayega. Account details main aapko SMS kar raha hoon.
+receiver: ₹1,000? Par aapne kaha tha koi charges nahi.
+caller: Sir, rules change kabhi-kabhi. ₹1,000 ke baad loan approved hoga, promise! Agar aapne fee nahi jama ki toh account suspend ho jayega aur aapka application reject ho jayega. Aur hum aapke contacts ko bhi batayenge ki aap loan nahi pay kar rahe.

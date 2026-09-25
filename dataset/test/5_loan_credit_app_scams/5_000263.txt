@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit from Loan Express. We saw you recently applied for a personal loan online. Congratulations! You’ve been pre-approved for a loan up to ₹75,000. Just need to verify a few details.
+receiver: Really? That's great news! What details do you need?
+caller: Just your bank account number and a small processing fee of ₹2,500 to activate the loan. It’s a standard procedure. You can deposit it in this account: [provides a random account number].
+receiver: ₹2,500? Before I even get the loan? That sounds a bit fishy. Why do I have to pay anything upfront?
+caller: Sir, it’s to cover the verification and security charges. Without it, we can’t release the funds. Think of it as an insurance against fraud. Otherwise, your loan will be cancelled.
+receiver: Cancelled? Look, I'm not comfortable with this. I’m going to check with someone else. I don't think this is Loan Express. I’ll call the official number. Goodbye.
+caller: Sir, don't be foolish! This is a limited-time offer! If you don’t pay the ₹2,500 now, you'll lose the chance! I also have some compromising photos of you that were found on your device, you don't want them sent to your family, do you?

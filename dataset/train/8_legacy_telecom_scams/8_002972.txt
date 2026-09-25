@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, hope you’re doing well! I’m calling from Digi-Sounds. Your monthly Digi-Sounds melodies are ready to update! This month’s fresh tunes include: 1) Enrique Iglesias – Baila Salsa, 2) Rihanna – Diamonds, and 3) Justin Bieber – Sorry. You've only got 3 updates available this month. Would you like to update your device now?
+receiver: Hello! Oh, Digi-Sounds melodies, yes! Those are nice. Baila Salsa, Rihanna… yeah, I know those songs. Sorry, Justin Bieber too. Hmm, let me think. Okay, download all three for me, please. Thank you!
+caller: Excellent choice, sir! So, to finalize everything, there are just 2 updates remaining on your account for this month. Are you sure you want to download Enrique Iglesias, Rihanna, and Justin Bieber? Or would you like to add any other selections?
+receiver: Haan, exactly those three are fine. Only two updates left? Okay, go ahead and download those three, thanks.
+caller: Perfect! So, you’re downloading Enrique Iglesias, Rihanna, and Justin Bieber, and there are only 1 update left on your account, correct? Can you confirm that it’s alright to proceed with the download of those three tracks?
+receiver: Yes, absolutely. Please proceed. And my name is Kavita, if you need to jot something down. Just hurry up and download them quickly, please. Thanks a lot!
+caller: Wonderful, Kavita ji! So, you’re downloading Enrique Iglesias, Rihanna, and Justin Bieber, and now you have zero updates remaining this month. Can you confirm that it’s okay to proceed with the download of those three tracks? Just double checking one last time before I complete the transaction.
+receiver: Oh, yes, okay! It’s completely fine. Go ahead and proceed. I'm done now. Thank you so much!

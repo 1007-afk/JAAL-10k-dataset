@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We've noticed a pending loan application with ‘SwiftCash Loans’ under your name for ₹50,000. There's a small verification fee of ₹2,500 to release the funds.
+receiver: SwiftCash Loans? I don't remember applying for a loan. And a verification fee? That seems odd.
+caller: Yes, ma'am. It's a standard procedure to prevent fraud. We’ve already processed your application and it's approved, but this fee needs to be paid urgently to activate the loan. We can send you a morphed photo of your contacts if the payment is not made.
+receiver: Morphed photos? What are you talking about? This sounds like a scam! I'm not paying anything.
+caller: Don't be silly, ma'am. We have your contact list. We can easily create fake images and send them to your family and friends, making it look very real. Just pay the ₹2,500, and we'll forget about it. Think about the embarrassment and damage to your reputation.
+receiver: You’re threatening me? I’m reporting this number to the police. You won't get a rupee from me.
+caller:  Don't do that, Priya! You’ll regret it. This is your last chance. If you don’t pay now, we'll send the photos within the hour. Consider this a final warning.

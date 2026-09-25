@@ -1,0 +1,6 @@
+caller: Namaste! This is Priyank from LoanFast India. I’m calling regarding your recent loan application. It’s showing a verification issue.
+receiver: LoanFast? I don't remember applying for a loan. Are you sure you have the right number?
+caller: Yes, madam. Your number is registered as applying for a quick loan of ₹50,000. To proceed and disburse the loan, we need to verify a few details. It’s a very simple process.
+receiver: ₹50,000? Really? I’m very careful about these things. What details do you need? Please tell me the loan reference number so I can check.
+caller: The reference number is LF78945. Now, to verify, could you please share the last four digits of your bank account number? Just to make sure it matches our records. And listen carefully, if you don't complete this verification within the next 10 minutes, your loan application will be rejected and we will be forced to take legal action regarding outstanding dues.
+receiver: Legal action? Hold on! This sounds very suspicious. I’m going to hang up now. You’re a scammer!

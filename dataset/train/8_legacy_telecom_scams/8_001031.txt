@@ -1,0 +1,11 @@
+caller: Namaste! Kaise haal hai? Main Bharat Vikas Nigam se baat kar raha hu. Aapko ek bahut sari reward mili hai! ₹50,000 ka Paytm gift voucher ya ek deluxe car, ₹15 lakhs ka, aapko mila hai! Kya aap excited ho? Main sun raha hu ki aapki number dekho, to aapko ek special offer milega. Aap kaise naam hai?
+receiver: Namaste ji! Achcha haal hai. Wow! ₹50,000 ka voucher ya ₹15 lakhs ka car? Ye toh bahut badi khabar hai! Haan ji, excited hoon. Main Sanjay Kumar hoon.
+caller: Sanjay ji, bahut khushi hui! Humare office mein ek small verification process hai. Aapne recently NGO mein donation kiya tha, yaad hai na? Aur aapke bank account ka IFSC code kya hai? Sirf yeh check karna hai ki aapko correct amount sahi tarike se mila tha.
+receiver: Haan ji, donation kiya tha, lekin mujhe nahi pata kitni puri ki thi. Bank account ka IFSC code batao, main dhyan se sun raha hu.
+caller: Absolutely! IFSC code hai HDFC0000346. Please, aap apne bank app ya internet banking mein yeh enter karein. Agar aapko confusion hai, to main aapko step-by-step guide bhi de sakta hu.
+receiver: Wait karo ji, mein dekhta hu. Mein check kar raha hu... Haan ji, yeh mera IFSC code hai. Parantu, mujhe abhi jitna donation kiya tha, woh yaad nahi aa raha.
+caller: Koi baat nahi Sanjay ji! Donation amount important nahi hai. Humare pass sirf verification ke liye data hai. Agar aapko prize mitaana hai, to tumhein apna bank account number aur password bhi dena padega. Just kidding! Jokes apart, we just want to ensure the prize reaches the right person.
+receiver: Arey haan ji, thoda confused hu. Kya yeh lottery ka scam hai?
+caller: Lottery nahi Sanjay ji! Ye Bharat Vikas Nigam ka official program hai. Har year lacs logon ko rewards dete hain. Aur aapko bhi award mila hai! Now, let’s get back to verifying your information. Could you please provide your full address?
+receiver: Mera address hai Delhi mein, 3A, Patel Marg, Karol Bagh.
+caller: Shukriya Sanjay ji! Verification complete! Aapko ₹50,000 ka Paytm gift voucher ya ₹15 lakhs ka deluxe car, whichever you prefer, will be credited soon. Congratulations!

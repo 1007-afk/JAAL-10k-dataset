@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan Verma? I’m calling from Zomato Customer Care. We've noticed some unusual activity on your account and a pending payment of 750 rupees.
+receiver: Haan, main Rohan Verma hi hoon. Zomato? Kya hua? Unusual activity?
+caller: Ji, sir. It appears someone attempted to place an order using your saved card details, but the transaction failed. To secure your account and prevent further unauthorized charges, we need to verify a one-time password (OTP) we just sent to your registered number.
+receiver: OTP? Par maine koi order nahi kiya tha. Aur meri card details safe hain.
+caller: Absolutely, sir. We understand your concern. This is a precautionary measure. The OTP is just to confirm you are the legitimate cardholder and to block the fraudulent transaction. Please provide the OTP so we can complete the verification process and issue a refund for the attempted charge.
+receiver: Mujhe OTP nahi mila hai. Aur mujhe ye kuch shabda samajh nahi aa raha hai.
+caller: Sir, sometimes it takes a minute. Check your SMS inbox again. While you’re checking, could you confirm the last four digits of the card associated with this account, just as a final verification step?
+receiver: Theek hai, ek minute rukta hoon.

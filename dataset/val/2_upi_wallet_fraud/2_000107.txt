@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rajesh from BharatPay customer service. We have noticed some unusual activity on your account and to secure it, we need to verify some details.
+receiver: Okay, what kind of unusual activity? I haven’t done anything different.
+caller: Sir, there's a pending cashback of ₹5,000 on your BharatPay wallet linked to your SBI account. But before it gets processed, we require a small verification fee of ₹300 to confirm your identity.
+receiver: ₹300? For cashback? That sounds strange. Why can't you just verify with my bank directly?
+caller: Sir, due to bank security protocols, we need to process this fee through BharatPay first. Please send ₹300 via UPI collect request to the number 9876543210.
+receiver: UPI collect? To a random number? I’m not comfortable doing that. Can I speak to a supervisor?
+caller: Sir, the offer is valid only for the next 15 minutes. After that, the ₹5,000 cashback will be cancelled. Please cooperate to avoid losing out. Send the ₹300 collect now and we'll immediately credit your wallet with the cashback.

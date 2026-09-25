@@ -1,0 +1,7 @@
+caller: Namaste! Mein calling karta hoon BharatPe support se. Tumhara BharatPe account mein kuch suspicious activity dikhai de rahi hai. Security ke liye, humein tumhari KYC verify karna hai.
+receiver: Kya? Suspicious activity? Maine toh kuch bhi kiya nahin. KYC verify karna hai? Kaise?
+caller: Haan ji. Bahut simple hai. Aapko BharatPe app mein 'KYC Update' section mein jaana hai aur apna Aadhaar card number aur OTP enter karna hai.
+receiver: OTP? Kahan milega OTP? Maine toh kabhi koi OTP receive nahin kiya. Aur KYC update section bhi dikh nahi raha.
+caller: Haan ji, woh instant receive ho jayega BharatPe app pe. Jaldi karo, sir/madam! Account block hone se pehle update kardo. Agar tum update nahi karoge toh tumhara ₹5000 block ho jayega.
+receiver: ₹5000? Yeh kya ho raha hai? Mujhe thoda time do, mein check karta hoon. Aapka naam bataiye, aur mein dobara call karta hoon.
+caller: Mein Rahul, BharatPe verification department se. Tumko dobara call karne ki zarurat nahin hai. Jaldi karo, sir/madam! Time khatam ho raha hai. Abhi OTP enter karo!

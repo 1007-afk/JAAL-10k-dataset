@@ -1,0 +1,7 @@
+caller: Namaste! Maine sunna hai aapne Flipkart par kuch products return kiye hain?
+receiver: Haan, ji. Mein ne kal ek saree return kar di thi. Kya hua?
+caller: Wah, bahut achha! Flipkart ne ab aapke account mein 1200 ka cashback approve kiya hai, return ke wajah se. Lekin, isko activate karne ke liye, aapko sirf 200 rupaye verification fee bhar deni hogi.
+receiver: Verification fee? Flipkart toh kabhi koi fee nahi lete, na? Yeh thoda fishy lag raha hai.
+caller: Haan bhai, yeh offer sirf limited time ke liye hai. Security reasons se, verification fee bharne padegi. Aap Paytm ya PhonePe se bhar sakte hain, number mein jaise likha hai.
+receiver: Okay, wait a minute. Mein check karta hoon Flipkart ke website pe. Mein tumhare number pe ek message bhi send karta hoon, verify karne ke liye.
+caller: Bilkul sahi! Jaldi kijiye, offer sirf 10 minutes mein expire ho jayega! Fir cashback mil hi nahi payega. Baki, sirf 200 rupaye bhar den, aapka cashback activate ho jayega.

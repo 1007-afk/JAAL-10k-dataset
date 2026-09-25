@@ -1,0 +1,8 @@
+caller: Hello, main Bharat Heavy Electricals se Rohit Verma bolta hoon. Aapke naam par ek parcel aaya hai, lekin customs department ne rok diya hai. Illegal items ki suspicion hai.
+receiver: Parcel? Illegal items? Mera toh koi order nahi aaya tha. Yeh kaise ho sakta hai?
+caller: Sir, parcel Delhi se aaya tha, ek international courier company se. Aapko parcel release karne ke liye kuch formalities complete karni hogi. Kuch details ki zaroorat hai, aur kuch charges bhi lagenge.
+receiver: Charges? Kitne charges honge? Aur mujhe kaha jaana hai yeh parcel release karne ke liye? Main toh Delhi se bahut door hoon.
+caller: Sir, charges sirf ₹7,500 hain. Yeh government charges hain. Aapko ek secure link pe jaake payment karna hoga. Link main aapka Aadhar card aur PAN card scan karna hoga.  Seedhe bank transfer mat karna, sir, fraud ho sakta hai.
+receiver: Aadhar card aur PAN card scan? Sir, woh toh bahut risky hai! Customs department toh kabhi bhi aise details maangti nahi. Main police mein report karunga.
+caller: Sir, time bahut kam hai! Agar aap abhi payment nahi karte, toh parcel destroy kar diya jayega aur aapke naam pe case bhi file ho jayega. This is a very serious matter. Please cooperate, sir.
+receiver:  Woh toh hona nahi chahiye. Kuch aur tarika bhi toh hona chahiye. Main police se baat karta hoon.

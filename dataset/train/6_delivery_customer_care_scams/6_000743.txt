@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? I’m calling from BlueLine Logistics regarding a parcel addressed to you. There seems to be a discrepancy with the shipping address, and we need to confirm a few details to ensure smooth delivery.
+receiver: Haan, main hoon Verma. Parcel? Mujhe koi parcel expected nahi tha. Kya hai usme?
+caller: Sir, it’s a high-value item, looks like electronics.  We’re holding it at our Noida hub. To release the parcel, we need to verify your OTP sent to your registered mobile number for security purposes. It's just a quick verification process.
+receiver: OTP? Mere phone pe OTP nahi aaya. Aur maine kabhi bhi koi electronics order nahi kiya. Ye kuch ghalat ho raha hai.
+caller:  Arre, sometimes the OTP gets delayed.  Let me check your details.  Could you please quickly confirm the last four digits of your bank account number? We just need to cross-reference for security and ensure we're speaking to the correct recipient. It’s standard procedure, sir.
+receiver: Bank account number? Bilkul nahi! Main kabhi bhi phone pe bank details nahi bataata. Ye scam lag raha hai!  Tum kon ho? BlueLine Logistics ka koi office number dedo taaki main khud contact kar sakun.
+caller: Sir, don’t worry, this is purely for verification. We understand your concern. To avoid any further delays with your parcel, could you at least tell me the name associated with the mobile number you’re using? Just to ensure we have the right contact.
+receiver: Mera naam Verma hi hai. Lekin main OTP ya bank details nahi dene wala. Tumhara number do, main khud contact karoonga. Ye baat clear hai.
+caller: Sir, unfortunately, we can't provide the office number directly due to security protocols. But please, just one

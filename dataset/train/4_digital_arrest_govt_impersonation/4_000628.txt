@@ -1,0 +1,7 @@
+caller: Namaste, speaking with Mr. Sharma? This is Inspector Verma from the Delhi Customs Department. We’ve detected a suspicious transaction linked to your account – a parcel containing potentially prohibited items was shipped under your name.
+receiver: Customs Department? Parcel? What’s going on? I haven’t sent any parcels recently.
+caller: Sir, our records show a package originating from Dubai, declared as “clothing items,” but flagged for further inspection due to unusual weight discrepancies. There's a possibility it contains contraband, sir.
+receiver: Dubai? Clothing items? This is completely absurd! I don't even know anyone in Dubai! How did my name get attached to this?
+caller: Sir, to clear this matter and prevent legal action, we require a small fee of ₹5,000 to expedite the verification process and secure the release of the parcel. It’s a standard procedure to ensure compliance, you understand.
+receiver: Five thousand rupees? Just to verify a parcel I didn't even send? This sounds like a scam, Inspector. Can I speak to your superior? What’s your official ID number?
+caller: Sir, time is of the essence. The parcel is currently being held, and further delays could lead to confiscation and potential charges. You can transfer the amount to the given UPI ID: customs.verification@axisbank. Please do it quickly to avoid complications.

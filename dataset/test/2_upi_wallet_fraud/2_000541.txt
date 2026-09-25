@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? I’m calling from PayNearby support. We’ve detected some unusual activity on your PayNearby wallet and need to verify your details urgently.
+receiver: Unusual activity? What kind of activity? Everything seems fine on my end.
+caller: Sir, there’s been a attempted transaction from your wallet to an unknown account. To secure your funds and prevent further unauthorized access, we need you to confirm a small processing fee of ₹500.
+receiver: ₹500? Why do I have to pay a fee to secure my own money? That doesn’t sound right.
+caller: Sir, this is standard procedure. It’s a security verification charge. We need to make sure you are the legitimate owner of the wallet. You can pay it through a UPI collect request. I’ll send you the UPI ID.
+receiver: Okay, send the UPI ID. But I’m still a little worried about this.
+caller: Absolutely, sir. It's for your safety. Here's the UPI ID: collect@verifysecure.in. Please make the payment quickly to avoid further account restrictions.

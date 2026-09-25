@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohit from 'QuickKart Logistics'. We have a slight issue with your recent order, order ID KC78945. It seems the address label is damaged.
+receiver: Oh, really? What's the problem? I'm waiting for a package.
+caller: Yes sir, unfortunately, due to the damage, the system is flagging it as potentially undeliverable. To ensure smooth delivery, we need to verify some details. Could you please confirm the last four digits of your card used for the QuickKart payment? It’s just a security measure, sir.
+receiver: Why do you need my card details? That sounds suspicious. Shouldn't you already have that information?
+caller: Sir, this is standard procedure to secure your order. We also need a one-time password (OTP) sent to your registered mobile number for verification. Just a quick verification, and your parcel will be on its way. Please share the OTP after you receive it.
+receiver: I am not comfortable sharing my card details or OTP. I will contact QuickKart directly to confirm.
+caller: Sir, time is running out! If you don't verify now, we might have to return the parcel to the sender. This is a limited-time offer to prevent any delays. Please, share the OTP quickly, otherwise your delivery will be delayed for weeks.

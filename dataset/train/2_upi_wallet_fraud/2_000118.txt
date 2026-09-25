@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Rohan from FreeCharge customer care. We have a special offer for FreeCharge users today – a cashback of ₹500 on any recharge of ₹50 or more.
+receiver: FreeCharge? Mein FreeCharge app use karti hoon. Cashback ka offer hai? Kitna cashback milega?
+caller: Exactly! ₹500 cashback, madam.  To claim it, we need to quickly verify your account details. It’s just a formality. Can you please tell me the last three digits of the bank account number linked to your FreeCharge wallet?
+receiver: Bank account number? FreeCharge mein bank account number ki kya zarurat hai?  Yeh kuch ghalat lag raha hai.
+caller: Madam, it’s for security purposes only! We’ve noticed some unusual activity and need to confirm you’re the account holder.  We'll also need a one-time password that will be sent to your registered mobile number to confirm your identity.  Please tell me the OTP when you receive it.
+receiver: OTP? Haan, abhi OTP aaya.  Lekin main nahin bataungi. Koi bhi OTP share nahin karna chahiye. Yeh scam hai!  Main FreeCharge customer care ko report karungi.
+caller: Madam, please don't be alarmed. This is a genuine verification process. Without the OTP, we can’t process your cashback and your account might be temporarily suspended. Just provide the OTP and you'll receive your ₹500 cashback immediately.
+receiver: Suspended? ₹500 ke liye account suspend kar denge?  Nahi, nhi, nhi! I'm blocking this number now.

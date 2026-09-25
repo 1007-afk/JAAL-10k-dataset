@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Flipkart Customer Support se. Aapke naam par ek order aaya hai, order ID FLP78923. Lekin address verify karne mein thodi problem aa rahi hai.
+receiver: Oh, really? What’s the problem? I just placed an order yesterday, but I haven’t received any updates.
+caller: Haan ji, system mein dikh raha hai ki address incomplete hai. OTP verify karke aapka address confirm karein, taaki delivery jaldi ho jaaye. Mein aapko OTP send karunga.
+receiver: An OTP? Why do you need an OTP for address verification? Flipkart never asked me for an OTP before.
+caller: Security ke liye, Neha ji. Phir bhi, aapka package urgent hai, aur humein deliver karna hai. OTP send kar raha hu, please confirm karein.
+receiver: Wait a minute. This feels wrong. I’m not giving you any OTP. I’m going to call Flipkart directly from their official number. Goodbye.
+caller: Arre, wait! Don't do that! Just one moment. This is a special offer for loyal customers! If you give me a small fee of ₹200, I'll ensure your package arrives within the next hour. It's a promotional charge, just for you!

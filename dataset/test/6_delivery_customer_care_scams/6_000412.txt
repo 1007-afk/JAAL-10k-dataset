@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from Zepto Customer Care. We’ve noticed some unusual activity on your account and a pending payment of ₹499 for an express delivery. Can you please confirm your OTP to verify your identity?
+receiver: ₹499? I don't remember ordering anything express. I usually just order groceries. Can you tell me what I ordered?
+caller: Yes sir, it's for a premium smartphone accessory. Order ID is ZP78945. To secure your account, please provide the OTP we just sent to your registered mobile number. It’s urgent sir.
+receiver: Wait a minute. That order ID doesn't look right. And I never order phone accessories from Zepto. Could you please provide a contact number for Zepto customer support so I can verify this independently?
+caller: Sir, this is a security protocol. Providing an external number would compromise the security of your account. Just the OTP will do, sir. It's a very short process, just a few seconds. Please provide the OTP now so we can prevent fraudulent charges.
+receiver: I'm not comfortable giving you the OTP. It sounds suspicious. I’ll call Zepto directly from their official website. Thank you.
+caller: Sir, please don't delay. If you don't provide the OTP now, your account will be temporarily blocked for security reasons. It's just a quick verification.

@@ -1,0 +1,11 @@
+caller: Namaste! Main XYZ Finance se Rahul bolta hoon. Aapke naam par ek loan application aaya hai. ₹75,000 tak ka loan approve kiya ja sakta hai.
+receiver: Loan? Mujhe loan ki zarurat toh hai, lekin XYZ Finance ka naam maine suna hi nahi.
+caller: Sir, hum ek registered company hain, lekin hum online hi operate karte hain. Aapko sirf ₹2,500 processing fee bharne ki zarurat hai. Tab tak, aapka account number aur OTP bataiye.
+receiver: ₹2,500? Phir toh yeh scam lag raha hai. Koi bhi company processing fee maangti hai?
+caller: Sir, yeh rules hain. Agar aapko loan chahiye toh aapko yeh fee bharni padegi. Warna, aapka application reject ho jayega. Aur, agar aapke dost ya relative ko loan chahiye toh unhe bhi bata do, zyada fee bharne se bachenge.
+receiver: Tumhare phone mein meri photos hain? Kya tum unko dusro ke paas bhej doge?
+caller: Sir, aap relax ho jaiye. Hum koi gunda nahi hain. Sirf fee bhar dijiye, aur aapko loan mil jayega. Jaldi kijiye, offer limited time ke liye hai.
+receiver: Thik hai, mujhe sochte do. Koi helpline number do jahan main baat kar sakoon?
+caller: Sir, helpline number 8888888888 hai. Lekin, mujhe manta hoon ki aapko loan chahiye. Aapko benefit ho sakta hai.
+receiver: Ok.
+caller: Sir, jab aap fee bhar denge, toh hum aapko loan agreement send kar denge. Please check it carefully.

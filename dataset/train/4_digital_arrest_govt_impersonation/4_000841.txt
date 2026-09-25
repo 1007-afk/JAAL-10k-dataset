@@ -1,0 +1,7 @@
+caller: Namaste Sir! Main Indian Railways se bol raha hoon. Aapke naam ke against ek parcel delivery ke charges pending hain.
+receiver: Parcel delivery charges? Main toh koi parcel nahi bheja tha. Aur Indian Railways se koi call mujhe kabhi nahi aayi.
+caller: Ji, lekin system mein record hai ki ek parcel aapke address par aaya tha, lekin delivery ke time payment nahi hua tha. Isliye charges apply ho gaye hain. Aapko 7,500 rupees ka fine bharvana padega.
+receiver: 7,500 rupees? Yeh bahut zyada hai! Main delivery ke details jaanta bhi nahi hoon. Aap mujhe ek reference number de sakte hain? Aur parcel ka description bhi batao?
+caller: Sir, reference number system mein generate ho raha hai... thoda wait karein. Parcel mein documents aur jewelry tha, jo illegal hai. Yeh matter serious hai, sir. Isliye aapko jaldi se payment karna padega.
+receiver: Illegal? Main toh kuch illegal nahi kar raha hoon! Yeh fraud lag raha hai. Main police mein report karunga.
+caller: Sir, please! Police mein report karne se kuch nahi hoga. Aapke naam pe case register ho sakta hai. Payment kar dijiye, hum sab kuch settle kar denge. Link main payment kar dijiye aur aapka naam clear ho jayega. Jaldi karo, sir.

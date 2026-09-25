@@ -1,0 +1,6 @@
+caller: Namaste! Main Paytm se Ishan bolta hoon. Aapko cashback offer mil raha hai Flipkart pe. ₹1000 ka purchase karne par ₹500 ka cashback direct aapke Paytm wallet mein.
+receiver: Flipkart pe ₹1000 ka purchase? Aur ₹500 cashback? Really? Kuch proof hai is offer ka?
+caller: Haan ji, offer valid hai. Claim karne ke liye, aapko ek small processing fee bharvani padegi – sirf ₹50. Yeh verification ke liye hai.
+receiver: ₹50 fee? Verification ke liye? Flipkart app mein toh kuch bhi nahi dikh raha hai. Aur ₹50 fee bharne ka koi option bhi nahi hai.
+caller: Sir, yeh direct Paytm ke through hai. ₹50 fee ₹99999 pe send karein. Verification complete ho jayega, aur cashback instant transfer ho jayega. Jaldi karein, offer sirf 10 minutes ke liye hai.
+receiver: ₹99999 pe? ₹50 fee send karne ke liye ₹99999 pe number? Yeh toh clearly scam hai! Main call cut kar raha hoon.

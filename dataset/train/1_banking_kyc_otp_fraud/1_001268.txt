@@ -1,0 +1,8 @@
+caller: Namaste, main State Bank of India se Ankit Verma bol raha hoon. Aapke account mein KYC update pending hai, sir. Jaldi se karwa lijiye nahin toh account suspend ho jayega.
+receiver: KYC update? Maine toh abhi-abhi hi update karwaa tha.
+caller: Sir, system mein error dikha raha hai. Naya update karna padega. Aapka Aadhaar card number aur ek OTP share karein, main verify kar dunga.
+receiver: Aadhaar number phone pe? Yeh theek nahi lag raha hai. Bank toh aisa nahi kahega.
+caller: Sir, security ke liye hi karwa rahe hain. Account suspend na ho, please cooperate karein. Aapka OTP bhi send ho gaya hoga, woh bhi bata dijiye. Bas 2 minute ka kaam hai.
+receiver: Thoda wait kar raha hoon, bank branch mein jaake karvaunga. Ek minute, main check karta hoon.
+caller: Sir, branch mein line hogi bahut, aur account suspend bhi ho sakta hai. Please abhi bata dijiye, just ek baar. Mere paas bahut calls hain, time kam hai.
+receiver: Okay, sir. OTP hai 4567. Ab aadhaar number nahi bataunga. Main bank mein jaunga.

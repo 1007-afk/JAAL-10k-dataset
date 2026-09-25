@@ -1,0 +1,17 @@
+caller: Namaste, beta. How are things going on your end? I’ve been thinking about you, and I need to talk to someone special. Tell me, do you enjoy listening to Bollywood music?
+receiver: Namaste! Things are good here, thank you. Yes, I love Bollywood music! Especially old classics. Who’s calling?
+caller: My name is Rohan. I’m…let’s say I’m an investor, and I’ve come across some very interesting information about you. You seem like a bright, ambitious young woman. I want to help you achieve your dreams.
+receiver: Really? That's very kind of you to say. What kind of investment are we talking about?
+caller: It’s a unique opportunity, a small inheritance left behind by my grandfather. He was a businessman, you see. But there's a catch - it needs to be transferred through a secure account, which requires some paperwork.
+receiver: A secure account? Like a bank account?
+caller: Exactly! We need to set up a trust fund first. It’s quite complicated, but I assure you, it’s completely legitimate. I need your help to navigate this process. Can you assist me with these documents?
+receiver: Wait a minute. This all sounds a bit strange. Why are you asking me for help with legal documents? Are you sure you know what you're doing?
+caller: Don’t worry, beta. Trust me. This is a chance of a lifetime! Think about it – you could finally pursue your passion, maybe open your own business, or even travel the world. I believe in you.
+receiver: Travel the world? That sounds amazing, but I still don’t feel comfortable. There’s something fishy about this whole situation. I'm going to hang up now. Goodbye.
+caller: Please, beta! Don't go! Just think about the possibilities! I’ll call you back later.
+receiver: Hello. It's okay, thanks. Just busy with work. Who are you?
+receiver: A software company? Interesting. What kind of software do you develop?
+receiver: Collaboration? Could you elaborate on that? I'm not really interested in business calls right now.
+receiver: An inheritance? That’s surprising. What kind of restrictions?
+receiver: I am not a financial advisor! This sounds incredibly suspicious. Why are you suddenly interested in my opinion?
+receiver: A bonus? Seriously? This is getting weirder and weirder. I'm ending this call now. Bye.

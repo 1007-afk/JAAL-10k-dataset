@@ -1,0 +1,8 @@
+caller: Haan ji bhai, main Vimal bol raha hoon. Kya kar rahe ho? Arre, woh ATM card chahiye tha, de doon?
+receiver: Haan Vimal, main theek hu. Bas thoda kaam mein laga hu. Arre haan, ATM card? Kab chahiye tha? Batao, le aao.
+caller: Haan Vimal, main theek hu. Bas thoda kaam mein laga hu. Arre haan, ATM card? Kab chahiye tha? Batao, le aao.
+receiver: Arre, kab chahiye tha? Abhi chahiye ya thoda der baad? Batao, main nikal deta hoon.
+caller: Arre bhai, abhi hi chahiye! Tum jaldi se aa jao, main tumhe card de deta hoon. Tumhe pata hai na mera address? Jaldi se aaja, bohot zaroori kaam hai.
+receiver: Achha, abhi hi chahiye? Theek hai, chala aa raha hu. Address toh yaad hai mujhe, tension mat le. 5-10 minute mein pahunch jaunga.
+caller: Arre, 5-10 minute? Itna late? Jaldi aa bhai, bohot zaroori hai! Tumhe pata hai na kitna urgent hai yeh. Aur ek baat, card mein jo PIN number hai na, woh bhi bata dena, taaki koi dikkat na ho.
+receiver: Kya? PIN number bhi? Arre, yeh toh private hota hai Vimal. Hum aise phone pe PIN share nahi karte. Main card leke aa raha hu, wohi pe baat karte hain. Baki sab theek hai na? Kyun itna urgent hai? Jaldi bata dena waha pahunch ke.

@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? This is Inspector Sharma from the Delhi Customs Department. We’ve intercepted a package addressed to you containing what appears to be a substantial amount of undeclared currency.
+receiver: Customs? Yeh kya keh rahe hain? Mere naam pe package? Main toh kabhi package order nahi kiya.
+caller: Sir, it was shipped from abroad, and unfortunately, it triggered our suspicion due to the unusual amount of cash inside. We need to verify your involvement. This could be related to money laundering.
+receiver: Money laundering? Arre yaar, yeh toh bahut serious allegation hai! Main toh kabhi bhi aise nahin karunga. Main ek accountant hoon, koi criminal nahi. Kya proof hai aapke paas?
+caller: Sir, we have photographic evidence of the package and the serial numbers of the currency. To clear this up quickly and avoid further investigation, we need a small processing fee of ₹15,000 to cover the inspection and verification costs.
+receiver: ₹15,000? Lekin yeh kitna zyada hai! Aur main bank transfer kar dunga? Koi receipt milegi? Aur agar yeh galat hai toh mujhe refund milega?
+caller: Sir, we need the funds immediately to expedite the process. A receipt will be provided once the payment is confirmed.  If there’s a genuine misunderstanding, we’ll issue a full refund. We’re just trying to resolve this swiftly and efficiently. Please transfer to this UPI ID: customsverify123.

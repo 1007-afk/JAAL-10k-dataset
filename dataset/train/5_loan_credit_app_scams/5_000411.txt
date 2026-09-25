@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanKing se Raunak bolta hoon. Aapke naam par ₹75,000 ka loan approve ho gaya hai, sir. Aapko sirf kuch details confirm karne hain.
+receiver: Loan approve ho gaya? Mujhe toh koi application hi nahi kiya tha.
+caller: Haan sir, online apply kiya tha lekin details mein kuch mistake hai. Woh hum sudhar denge. Aapka Aadhaar card number aur bank account number dedo, main verify kar leta hoon.
+receiver: Aadhaar card number? Aur bank account number? Yeh thoda risky lag raha hai.
+caller: Sir, risk toh hai hi, lekin ₹75,000 toh milenge aapko! Jaldi karo, offer limited time ke liye hai. Abhi aapko ₹1500 processing fee bharne hogi, tabhi account activate hoga.
+receiver: ₹1500? Lekin maine toh koi application kiya hi nahi. Main police mein complaint kar doonga.
+caller: Arre sir, mat karo! Yeh just verification fee hai. ₹1500 bharne ke baad aapko ₹75,000 mil jayenge. Please sir, jaldi do, otherwise offer expire ho jayega.

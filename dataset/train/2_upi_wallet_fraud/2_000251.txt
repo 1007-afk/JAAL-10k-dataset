@@ -1,0 +1,10 @@
+caller: Namaste uncle, main Axis bank se Ankit bol raha hun. Aapke PhonePe account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kaunsa transaction? Mujhe toh koi notification nahi aaya.
+caller: Haan uncle, ek bahut bada amount, ₹12,000, BharatPe par gaya hai. Woh bhi ek unknown number pe. Aapne kiya tha ye transaction?
+receiver: ₹12,000? Nahin, maine toh kabhi BharatPe pe transaction nahi kiya. Yeh fraud hai!
+caller: Haan uncle, shayad. Par aapko phone banking se verify karna hoga. Aapka OTP main SMS se bhejuunga, woh bataiye.
+receiver: OTP? Chalo, bhejo. Lekin sahi number pe bhejo.
+caller: Haan uncle, bilkul. Aapka OTP hai 4589. Bataiye uncle, taaki hum aapke account ko secure kar sakein.
+receiver: Ye toh koi OTP nahi dik raha, mujhe kuch bhi SMS nahi aaya.
+caller: Uncle, technical issue hoga. Main aapko ek link send karta hu, us par click karke apni details update kar lijiye.
+receiver: Link? Main kisi bhi link pe click nahi karunga. Tum log fraudster ho!

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? This is Ankit calling from FreeHit Rewards. We’ve credited a cashback of ₹12,500 to your account as a promotional bonus!
+receiver: FreeHit Rewards? Cashback? Mujhe toh kuch yaad nahi aa raha. Main toh kabhi FreeHit use nahi karti.
+caller: Absolutely, Mrs. Verma. Congratulations! To activate this cashback and transfer it to your bank account, we need to verify a few details. It’s a very simple process. Just a small OTP verification.
+receiver: OTP verification? Aur bank account details bhi maangenge kya? Itna zyada cashback? Thoda suspicious toh lag raha hai.
+caller: No, no, Mrs. Verma, absolutely not. We are compliant with all data privacy regulations. The OTP is just to confirm you are the rightful owner of the FreeHit account linked to your mobile number, [Receiver's Phone Number]. It’s purely for security purposes.
+receiver: Security purposes? Par mujhe toh FreeHit se koi offer nahi mila. Aur OTP share karne se fraud ho sakta hai. Main koi OTP nahi dungi.
+caller: Mrs. Verma, please understand, this is a limited-time offer. If you don't verify it now, you risk losing this ₹12,500 cashback. We’re trying to make it as easy as possible for you to receive your reward. Just a one-time verification.
+receiver: Nahin, mujhe yeh offer chahiye nahi. Yeh scam lag raha hai. Main FreeHit app par hi check karungi, OTP nahi dungi. Aur mai customer care number par phone karungi.

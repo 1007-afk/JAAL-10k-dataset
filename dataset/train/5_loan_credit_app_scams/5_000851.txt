@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from SwiftLoan Solutions. We're offering quick personal loans, no paperwork, instant approval. Just need your name and a few details.
+receiver: Oh really? I'm interested. My name is Anjali Verma. I need about 70,000 rupees urgently for a medical bill.
+caller: Excellent, Anjali ji! SwiftLoan Solutions understands emergencies. We can definitely help. To process your loan, we need a small verification fee of 5000 rupees, just to secure your loan and avoid fraud. Transfer it to this UPI ID: 9876543210@axisbank.
+receiver: 5000 rupees? Before the loan even gets approved? That seems a bit unusual, doesn’t it?
+caller: Anjali ji, this is standard procedure. We have many applicants, and this fee ensures you’re serious. Without it, we can’t guarantee approval. Think of it as an insurance against rejection. Once the loan is processed, you'll get it back with the 70,000.
+receiver: Okay, fine. I'll transfer it. But if this is a scam, I'll report you.
+caller: Wonderful decision, Anjali ji! It will be credited in our account. Now, just for extra security, could you share a recent photo of your PAN card and Aadhaar card with me via WhatsApp? Just so we can cross-reference the information.

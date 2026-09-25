@@ -1,0 +1,8 @@
+caller: Namaste! This is Vansh from LoanConnect India. I'm calling regarding your recent application for a quick personal loan. We’ve pre-approved you for up to ₹50,000! Very simple process, just need a few details to finalize.
+receiver: Oh really? That's great news! I was actually looking for a loan for some urgent medical expenses. But I haven’t applied anywhere though…
+caller: No worries, sometimes our system picks up pending requests. To activate the loan, we need a small processing fee of ₹2,500. It will be refunded immediately upon disbursement. This is standard procedure, sir. And can you confirm your registered mobile number, please?
+receiver: Two thousand five hundred? But you said it would be refunded. And I'm a bit confused, I didn't even apply. My number is 9876543210.
+caller: Yes, sir, the refund will happen after the loan is released. Just a small verification. Now, we also need to ensure your account is secure. Can you tell me the last four digits of your bank account number? We're trying to prevent fraudulent activities, you understand?
+receiver: Wait a minute. This feels wrong. Why do you need my bank details just for a processing fee? I’m not comfortable sharing that information.
+caller: Sir, please don’t misunderstand. This is to protect you! Without verifying the account, we can’t release the loan. Many people have lost money due to scams. If you don’t share, the approval will be cancelled and you’ll lose the opportunity. And one last thing, do you have any photos on your phone of your family or friends? Just to make sure your phone is secure.
+receiver: No, absolutely not. I think I’ll just cancel this call. This

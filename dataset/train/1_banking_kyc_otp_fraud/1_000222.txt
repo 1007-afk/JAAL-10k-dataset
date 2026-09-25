@@ -1,0 +1,8 @@
+caller: Namaste sir, SBI Bank se main bol raha hoon. Aapko naya account kholna hai, sahi samjha na? Iske liye mujhe aapka Aadhaar number chahiye hoga. Kya aap share kar sakte hain?
+receiver: Haan ji, namaste. Account toh khulwana hai, par Aadhaar number abhi mere paas nahi hai. Kuch aur tarika hai kya?
+caller: Koi baat nahi sir, hum aapki help kar denge. Kya aapka koi dusra ID proof hai, jaise PAN card ya Passport? Agar woh bhi nahi hai, toh hum aapko ek temporary account number issue kar sakte hain aur baaki details baad mein collect kar sakte hain. Lekin Aadhaar sabse jald ho jayega. Ek aur tarika hai, aapko bank aana padega. Par agar aap ghar se hi karna chahte hain, toh aapke liye ek online form hai. Uske liye hum aapko ek OTP share karenge, jisse aap form verify kar payenge. Kya aap yeh OTP receive karne ke liye taiyar hain?
+receiver: Haan ji, OTP receive karne ke liye taiyaar hoon. Bhej dijiye aap.
+caller: Theek hai sir, aapko ek OTP aayega abhi. Woh OTP mujhe bataiyega, taaki main aapka form verify kar sakoon aur aapka account kholne ki process aage badha sakoon.
+receiver: Ji, aa gaya OTP. 739481 hai.
+caller: Achha, 739481? Dhanyawad sir. Ab yeh OTP se aapka application verify ho jayega aur aapka new SBI account hum khol denge. Bahut jaldi ho gaya na? Aapko kisi aur service ke liye bhi help chahiye? Jaise ki debit card activation ya online banking setup?
+receiver: Nahi sir, abhi toh filhaal itna hi kaafi hai. Bahut bahut dhanyawad aapki madad ke liye. Jaldi se sab ho gaya.

@@ -1,0 +1,8 @@
+caller: Namaste sir, yeh hai Apna Sahakar Bank ka branch. Aapka account statement update karne ke liye humein aapki account details lagani padengi. Covid se badhkar yeh update important hai. Kaise ho aap?
+receiver: Namaste! Account statement update? Achcha, important hai? Bataiye, kaunse details chahiye? Mera account number ya phir bank ka IFSC code?
+caller: Jee sir, shuru matlab aap apna account number bata dijiye. Phir hum aapko poochhenge ki aapko koi extra information chahiye ya nahi.
+receiver: Haanji, mera account number hai [account number yahaan daalen].  Aur yeh batao, yeh update kyon zaroori hai?
+caller: Jee sir, thanks for giving us the account number. Ab aapka registered email ID bataiye jo bank mein linked hai.
+receiver: Haanji, mera registered email ID hai [apna email id yahaan daalen].  Kya ab pata chala?
+caller: Jee sir, thank you. Ab aapko ek verification code send kiya gaya hai aapke registered email address pe. Woh code mujhe bataiye taaki hum update complete kar sakein.  Code jaldi bataiye, woh 3 minute ke liye valid hai.
+receiver: Verification code? Okay, ek minute, main check karta hoon. Yes, I got it. It’s [verification code yahaan daalen]. Hopefully, yeh sahi hai.

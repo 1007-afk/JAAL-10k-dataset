@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rahul, FastCashLoans se bol raha hoon. Aapko urgent loan chahiye kya? Credit score kam hone se pareshaan mat hoiye, hum sabko help karte hain!
+receiver: Hello, Rahul. Actually, I'm a little short on funds this month. How much can I borrow?
+caller: Bahut accha! Hum 5,000 se 50,000 tak ka loan provide karte hain, jise aap easily repay kar sakte hain. Aapka naam aur phone number bataiye, main aapka account check karta hoon.
+receiver: My name is Anjali Verma and my phone number is 9876543210.
+caller: Anjali ji, aapka application approved ho gaya hai! 10,000 rupaye ka loan, sirf 3% interest ke saath. Par, isko approved karne ke liye, aapko processing fee ke taur pe 1500 rupaye humare account mein transfer karne honge.
+receiver: 1500 rupaye? That seems a bit much. Is that really necessary?
+caller: Anjali ji, yeh totally secure hai! Agar aap fee transfer nahi karte, toh loan process rok di jayegi. Please do it quickly, warna aapka offer expire ho jayega. Aapka account number bataiye, main transfer karne ke details de deta hoon.
+receiver: I… I need to think about this.

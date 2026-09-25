@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel Customer Care se bol raha hoon. Aapke phone number 9876543210 par ek urgent notification aaya hai. Aapke Airtel account se ₹2500 ka suspicious transaction hua hai.
+receiver: ₹2500? Kya? Mujhe toh koi notification nahi aaya. Mein Ravi Kumar hoon, aur mujhe yeh batao, transaction kab hua?
+caller: Ji, Mr. Kumar. Transaction aaj subah 8 baje hua tha. Shayad koi ne illegal access kar liya. Hamara security team isko investigate kar rahi hai, lekin aapko isko secure karne ke liye kuch steps lene padenge. Aapko ek OTP mil sakta hai, woh mujhe bataiye.
+receiver: OTP? Kahan aaya OTP? Aur ₹2500 ka transaction? Main toh koi transaction nahi kiya. Mujhe kuch samjh nahi aa raha.
+caller: Haanji, Mr. Kumar, OTP aapke registered mobile number par aayega. Isko bataiye taaki hum aapke account ko lock kar sake. Yeh security protocol hai, koi chinta mat karna.
+receiver: Yaar, yeh bahut suspicious lag raha hai. Main Airtel ke office mein jaakar check karunga. Main koi OTP nahi bataunga. Yeh scam lag raha hai.
+caller: Mr. Kumar, aapko samajh nahi aa raha. Agar aap OTP nahi batayenge, toh aapka account permanently block ho jayega aur ₹2500 ka loss aapko suffer karna padega. Please cooperate!

@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Axis Bank se. Aapko cashback offer mil raha hai, sir? Diwali special offer. Aapka account eligible hai 5000 Rupees ka cashback jeetne ka.
+receiver: 5000 Rupees? Mujhe koi offer nahi mila. Main toh Axis Bank ka customer hi nahi hoon.
+caller: Sir, system mein dikh raha hai aap Axis Bank ke customer hain. Offer check karne ke liye, aapko ek small verification fee pay karna hoga – sirf 299 Rupees. Isसे aapka account verify ho jayega aur cashback automatically aapke account mein transfer ho jayega.
+receiver: Verification fee? Diwali offer mein fee lag rahi hai? Yeh toh thoda funny lag raha hai.
+caller: Sir, technical process hai. Yeh fee sirf verification ke liye hai, fraud se bachne ke liye. Aap Paytm ya GPay se 299 Rupees send kar dijiye, number hai 8989898989. Cashback ka amount bahot bada hai, isliye verification zaruri hai.
+receiver: Okay, wait a minute. Main check karta hoon. De’ bhai, number de.
+caller: Ji, number hai 8989898989. Jaldi karein, sir, offer limited time ke liye hi hai!

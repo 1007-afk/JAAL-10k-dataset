@@ -1,0 +1,8 @@
+caller: Namaste! Mein hu Vijay, Axis Bank se call kar raha hu. Aapke Axis Bank account mein ₹5000 ka cashback offer chal raha hai. Yeh offer sirf aaj ke liye hai.
+receiver: Oh really? ₹5000 cashback? How do I get it?
+caller: Haanji, bahut easy hai. Aapko sirf apne PhonePe app mein log in karke meri OTP verify karni hai. Main aapko OTP send karunga. Phir aapko ek link par click karna hai aur apna PAN card number share karna hai.
+receiver: PAN card number? Why do you need my PAN card number for a cashback offer? That sounds a bit fishy.
+caller: Sir, PAN card number verification ke liye zaruri hai. Yeh KYC process ka part hai. Agar aap PAN card number share nahi karenge toh aapka cashback offer cancel ho jayega. Jaldi karo, time khatam ho raha hai!
+receiver: No, I don't think so. I'm not sharing my PAN card details with anyone over the phone. I’ll check with Axis Bank directly. Thank you.
+caller: Sir, aapko bahut nuksan hoga. Ye last chance hai ₹5000 cashback ka. Just one minute, please share your PAN card number.
+receiver: I'm hanging up now. Goodbye.

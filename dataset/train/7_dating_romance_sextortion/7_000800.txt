@@ -1,0 +1,9 @@
+caller: Namaste! My name is Rohan, I saw your profile on SparkMatch and thought you seemed like a lovely person. Kaise ho, aajkal?
+receiver: Ji haan, Namaste Rohan! Main theek hu, thank you. SparkMatch pe aapka bhi profile dekha, you seem very interesting. Kya kar rahe ho aajkal?
+caller:  I’m just relaxing at home, thinking about how amazing it would be to meet someone special. I really admire your profile picture - you look so beautiful!  I’ve been meaning to find someone like you. Do you believe in destiny?
+receiver:  Destiny? Hmm, that's a nice thought! I don’t know, but I'm open to meeting new people. You’re very complimentary. Kya tum kaam karte ho?
+caller:  I work as a freelance architect, designing beautiful homes. It's a very rewarding job! Listen, I’m part of a small group, 'Elite Connections', where we share premium dating profiles. I just saw a notification that someone is *very* interested in you within our group and wants to offer you a premium package - unlimited messages and voice calls - for just ₹499.  It’s a one-time offer.
+receiver:  ₹499? Elite Connections? Wow, that sounds interesting! Unlimited messages and voice calls...  What kind of people are in this group? And how do I pay?
+caller:  It's a group of professionals, people seeking serious relationships. To confirm your interest and activate the premium features, you just need to pay via UPI to this ID:  [Fake UPI ID]. It’s automatic. Once the payment goes through, you’ll be connected immediately.
+receiver:  Okay, a UPI ID…  Hmm.  Let me check. One moment, please.
+caller:  Sure

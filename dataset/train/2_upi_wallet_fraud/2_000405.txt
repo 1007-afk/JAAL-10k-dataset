@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit calling from PhonePe customer care. We’ve noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity?
+caller: Sir, there's a pending cashback of ₹750 due to a recent transaction at Reliance Digital. But to process it, we need you to verify a small charge of ₹30 as a processing fee.
+receiver: ₹30? Cashback of ₹750, and I need to pay ₹30? Seems a bit odd.
+caller: Sir, it's a standard security protocol. We need to confirm it’s genuinely you. Just a one-time charge, and the ₹750 cashback will be credited instantly. Please dial 9012345678 to confirm.
+receiver: 9012345678? I don't recall any such number associated with PhonePe. Is this really PhonePe?
+caller: Yes sir, absolutely. It's a verification line. Don’t delay; the cashback offer is time-sensitive. Dial the number quickly, please!

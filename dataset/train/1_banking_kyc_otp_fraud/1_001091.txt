@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main PolicyBazaar se Rohan bol raha hoon. Aapke insurance policy ke records mein kuch inconsistencies dikh rahe hain. KYC update karne ki zaroorat hai, taaki aapki policy active rahe.
+receiver: PolicyBazaar? KYC update? Main toh online hi policy manage karta hoon.
+caller: Ji, sir. Security ke liye humein yeh karna padta hai. Aapka naam aur pan card number bataiye, please.
+receiver: Pan card number bataunga? Yeh theek toh lag raha hai? Aadhar card bhi chahiye hoga?
+caller: Haan sir, aapka Aadhaar card bhi zaroori hai. Isse hum verify kar sakte hain ki aap sahi owner hain. Aur ek OTP bhi receive hoga aapke phone par, woh bhi bataiye. Account suspend hone se pehle urgent hai yeh.
+receiver: Account suspend? Wait a minute. Main PolicyBazaar app check karta hoon. Ek second.
+caller: Ji sir, please jaldi karein. Offer limited time ke liye hi valid hai. Aapki policy suspend ho jayegi agar update nahi hua toh. Abhi OTP receive ho gaya hai na?

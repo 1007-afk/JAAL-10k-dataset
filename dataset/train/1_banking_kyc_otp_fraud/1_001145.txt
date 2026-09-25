@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Paytm Payments Bank se Rahul bol raha hoon. Aapke account mein KYC verification pending hai, isliye aapki account suspend hone ki possibility hai.
+receiver: Kya? Account suspend? Main toh recently hi update kiya tha. Kya hua?
+caller: Sir, system mein ek error dikh raha hai. Aapko ek OTP mila hoga, verify karne ke liye. OTP bata dijiye please.
+receiver: Haan, ek OTP aaya tha - 567890. Ab kya karunga?
+caller: Shukriya sir. Ab aapko account secure rakhne ke liye apna PAN card number dedo, sirf last four digits ka. Verification ke liye hi hai.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai. Main Paytm app pe check karta hoon.
+caller: Sir, app mein technical problem aa rahi hai, woh correct information nahi dikhayega. Koi chinta nahi, sirf last four digits hi chahiye, humara system completely secure hai. Agar aap nahi bataenge, toh account suspend ho jayega.

@@ -1,0 +1,8 @@
+caller: Namaste, Sir? Main Flipkart se Ankit bol raha hoon. Aapke ek smart TV order mein ek problem aa gaya hai. Payment gateway error ke wajah se delivery hold ho gayi hai.
+receiver: Oh, really? Which order are we talking about? I don’t recall any issues.
+caller: Sir, order number is FLP789234. Aapne recently ek 55-inch Samsung smart TV order kiya tha, na? Delivery ke liye kuch pending payment clear karna hai, otherwise delivery postpone ho jayega.
+receiver: Payment? I paid for it online already! Are you sure it's Flipkart calling? This sounds fishy.
+caller: Sir, system mein error dikha raha hai. Just a small verification of ₹1500, sir.  Koi bhi delay nahi hona chahiye. Aap OTP share karein, verify ho jayega instantly.
+receiver: ₹1500? For a delivery that’s already been paid for?  Hold on a second, I'm going to check my Flipkart account.
+caller: Sir, please hurry. The delivery window is closing fast.  ₹1500 verify karva dijiye, I'll resend the delivery confirmation right away.
+receiver: No, this is definitely a scam. I’m reporting this number.

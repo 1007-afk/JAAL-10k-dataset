@@ -1,0 +1,22 @@
+caller: Namaste, main HDFC bank se Ajay Kumar bol raha hoon. Apka credit card expire hone wali hai, kya aap naya card apply karna chahenge?
+receiver: Namaste, Ajay ji. Kahaan se bol rahe hain aap? HDFC se? Mera credit card expire ho raha hai?
+caller: Haanji, bilkul. Apka credit card jo aap use karte hain, woh 15th January ko expire ho jaayega. Isliye maine aapko call kiya hai taki koi confusion na ho. Hum aapko immediately naya card provide karenge. Parantu, humein kuch information jankarik check karne honge.
+receiver: Theek hai, bataiye kya check karna hai? Aur yeh card apply karne par koi charges lagega kya?
+caller: Ji, absolutely. Credit card apply karne par koi extra charges nahi lagenge, yeh completely free hai. Humein sirf aapki poori naam, doobtaa ka hissa, aur aapke address ka postcode check karna hoga. Aapki poori naam bata dijiye, phir date of birth poochhenge.
+receiver: Meri poori naam Ramesh Sharma hai, doobtaa ka hissa 27th August 1985 hai, aur postcode 110001 hai.
+caller: Dhanyavaad, Ramesh ji. Yeh details bahut sahi hain. Ab, humein ek small verification karna hai. Aapke registered mobile number pe ek SMS message mein OTP bhejna hai. Kya aapko OTP mil jaaye? Woh OTP mujhe bata dijiye.
+receiver: Haanji, OTP aa gaya hai. OTP hai 6789012345. Aur yeh card kab tak milega mujhe?
+caller: Namaste, main ICICI bank se Rahul Singh bol raha hoon. Aapka ATM card expire hone wala hai, kya aap naya card apply karna chahenge?
+receiver: Namaste, Rahul ji. Kahaan se bol rahe hain aap? ICICI se? Mera ATM card expire ho raha hai?
+caller: Haanji, bilkul. Aapka ATM card jo aap use kar rahe hain, woh 10th February ko expire ho jaayega. Isliye maine aapko call kiya hai taki koi problem na ho. Hum aapko immediately naya card provide karenge. Parantu, humein kuch information jankarik check karne honge.
+receiver: Theek hai, bataiye kya check karna hai? Aur yeh card apply karne par koi charges lagega kya?
+caller: Ji, absolutely. ATM card apply karne par koi extra charges nahi lagenge, yeh completely free hai. Humein sirf aapki poori naam, doobtaa ka hissa, aur aapke address ka pincode check karna hoga. Aapki poori naam bata dijiye, phir date of birth poochhenge.
+receiver: Meri poori naam Priya Devi hai, doobtaa ka hissa 12th June 1992 hai, aur pincode 400001 hai.
+caller: Dhanyavaad, Priya ji. Yeh details bahut sahi hain. Ab, humein ek small verification karna hai. Aapke registered mobile number pe ek SMS message mein OTP bhejna hai. Kya aapko OTP mil jaaye? Woh OTP mujhe bata dijiye.
+receiver: Haanji, OTP aa gaya hai. OTP hai 9876543210. Aur yeh card kab tak milega mujhe?
+caller: नमस्कार, मैं एचडीबीएल से विनय कुमार बोल रहा हूँ। आपका डेबिट कार्ड एक्सपायर होने वाला है, क्या आप नया कार्ड जारी करवाना चाहेंगे?
+receiver: नमस्ते, विनय जी। ये कहाँ से बोल रहे हैं आप? एचडीबीएल से? मेरा डेबिट कार्ड एक्सपायर हो रहा है?
+caller: हाँ जी, बिल्कुल। आपका डेबिट कार्ड जो आप इस्तेमाल कर रहे हैं, वह 20 जुलाई को एक्सपायर हो जाएगा। इसलिए मैंने आपको कॉल किया है ताकि कोई परेशानी न हो। हम आपको तुरंत एक नया कार्ड जारी करेंगे। लेकिन, हमें कुछ विवरण सत्यापित करने होंगे।
+receiver: ठीक है, बताएं कि क्या विवरण चाहिए? और नए कार्ड के लिए कोई शुल्क नहीं लगेगा, है ना?
+caller: जी बिल्कुल, सर/मैडम। नए कार्ड पर कोई अतिरिक्त शुल्क नहीं होगा, यह पूरी तरह से मुफ्त है। हमें बस आपकी पूरी नाम, जन्मतिथि और आपके पंजीकृत मोबाइल नंबर का अंतिम 4 अंक बताना होगा। हम इन विवरणों को हमारी प्रणाली में सत्यापित करने के लिए चाहते हैं ताकि हम सुनिश्चित कर सकें कि हम सही व्यक्ति से बात कर रहे हैं।
+receiver: ठीक है, मेरी पूरी नाम राकेश पासवान है, जन्मतिथि 15 मार्च 1988 है, और मोबाइल नंबर का अंतिम 4

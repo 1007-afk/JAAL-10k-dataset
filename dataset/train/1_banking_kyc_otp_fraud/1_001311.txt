@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main HDFC Bank se Atul bol raha hoon. Aapke naam par ek credit card approve hua hai, lekin KYC verification pending hai. Aapko fraud se bachaane ke liye kuch details chahiye mujhe.
+receiver: HDFC Bank? Oh, really? I didn't apply for a credit card. I’m a bit confused. Which branch are you calling from?
+caller: Sir, yeh central verification process hai. Branch details abhi available nahi hain. Security ke liye, aapka Aadhaar number aur OTP bataiye, please. Yeh sirf 2 minute ka kaam hai.
+receiver: Aadhaar number? Over the phone? I've heard about these scams. I don't feel comfortable giving that out. Can you send me an SMS with a reference number, and I'll call the official HDFC Bank helpline myself?
+caller: Sir, time bahut kam hai. Account suspend hone se pehle, aapko verification karna padega. OTP bina OTP, hum verify nahi kar sakte. Bas ek baar bata dijiye, aur main aapko confirm kar dunga.
+receiver: Listen, I'm not budging. I'm going to hang up now and call HDFC directly from the number on their official website. This feels really fishy.
+caller: Sir, please don't do this. Account suspend ho jayega! Just the OTP.

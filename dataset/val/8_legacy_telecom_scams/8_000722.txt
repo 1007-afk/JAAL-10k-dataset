@@ -1,0 +1,8 @@
+caller: llo? Hello? Can you hear me? I'm calling from the National Lottery. I have some very exciting news for you! It seems you've won a prize, but you have one new message with the details. Please call this number to claim your prize: 08712400200. This is a limited-time offer, so please call as soon as possible. You only have 5 more chances to claim it.
+receiver: Hello? Haan, sunai de raha hai. Lottery se? Arey waah! Kya jeeta hai? New message hai? Theek hai, main abhi call karta hoon us number pe. Shukriya!
+caller: Bahut badhiya! Jaldi se call kar lijiye. Aapke paas sirf 4 mauke aur hain. Call nahi karenge toh prize miss ho jayega. Yaad rakhiye, yeh number hai 08712400200.
+receiver: Achha, theek hai. 4 mauke? Main abhi try karta hoon. Thank you for informing me!
+caller: Haan ji, bilkul! Bas 3 mauke aur bache hain. Time kam hai, toh jaldi se us number pe call kijiye: 08712400200. Koi detail hai jo aapko chaiye? Main bata sakta hoon.
+receiver: Arey, 3 mauke? Theek hai, theek hai. Koi aur detail nahi chahiye, bas yeh bataiye, yeh prize actual mein hai na? Matlab, koi fraud toh nahi? Aur agar main abhi nahi kar paya toh baad mein call kar sakta hoon?
+caller: Bilkul actual hai ji! Lottery waalon ne hi message bheja hai. Aur nahi, sirf 2 mauke aur bache hain ab. Abhi turant call kijiye us number pe 08712400200, warna sab chala jayega. Last chance hai!
+receiver: Arey yaar, sirf ek mauka? Abhi toh main busy hoon! Agar kal subah tak call kiya toh milega kya? Ya koi aur hai jisse main baat kar sakoon?

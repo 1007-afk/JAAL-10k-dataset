@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Ankit from Axis Quick Loans. You recently applied for a personal loan online, correct?
+receiver: Haan, ji. Apply kiya tha. What's this about?
+caller: Sir, your application is almost approved! But we need to verify some details. Could you please share the last four digits of your bank account number with me? Just for security purposes.
+receiver: Account number? Why? Is this really Axis?
+caller: Yes sir, absolutely. It's standard procedure to confirm the beneficiary account.  Also, could you quickly share a selfie holding your Aadhaar card? This is to prevent fraud, sir. It’s for compliance.
+receiver: A selfie? With my Aadhaar? That sounds a bit odd…
+caller: Sir, please don't worry. It's a simple verification. Once we have this, the ₹10,000 loan will be credited to your account within 15 minutes.  Just a few more steps, sir!
+receiver: ₹10,000? I applied for much less than that.
+caller: Sir, due to your excellent credit history, we are offering you a higher loan amount as a special promotion. But first, we need that selfie and account number confirmation.

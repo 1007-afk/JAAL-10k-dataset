@@ -1,0 +1,7 @@
+caller: Namaste! Main Deepa, ICICI Bank se bol rahi hoon. Aapke naam par ek credit card approve hua hai, par verification pending hai.
+receiver: Credit card? Mujhe toh apply nahi kiya tha. Verification ke liye kya karna hai?
+caller: Haanji, application online system se automatically generate hua tha. Verify karne ke liye, aapko apna Aadhaar card ka last 4 digits aur OTP bataiye jo aapke registered mobile number par aaega.
+receiver: Aadhaar number? Main toh kabhi bhi Aadhaar number phone pe nahi deta.
+caller: Sir, security ke liye hi toh hai. Agar aap verify nahi karenge, toh card block ho sakta hai, aur aapko offer bhi miss ho jayega. Yeh sirf 2 minute ka kaam hai.
+receiver: Tumhara point valid hai, lekin main abhi confirm karna chahta hoon. Kya tum mujhe ICICI Bank ka customer care number de sakte ho, jise main khud check kar sakoon?
+caller: Sir, customer care number busy lines mein hai abhi. Par main aapko assure karti hoon, yeh ICICI Bank ka official verification process hai. Jaldi karo, otherwise aapka loss ho sakta hai.

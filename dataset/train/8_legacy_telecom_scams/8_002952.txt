@@ -1,0 +1,14 @@
+caller: Namaste ji, is this Ms. Devi? This is a payment update from DigiStream about your StellarVision pass.
+receiver: Ji, bolo. Kaise hain aap?
+caller: Ji, Ms. Devi, we’re contacting you from DigiStream concerning your StellarVision pass. There was an automated payment of ₹180 made recently for the monthly renewal. We just want to ensure you were expecting this transaction and would like to confirm if you’d like to maintain your access to our exclusive shows and movies.
+receiver: StellarVision pass? Haan, mujhe pata hai. Main fir se dekha tha ki maine woh subscribe kiya tha. ₹180 charge hua hai? Thoda surprising hai.
+caller: Absolutely, Ms. Devi. Sometimes these things happen unexpectedly. Your StellarVision pass provides access to all our latest releases and curated collections. If you wish to discontinue your subscription, we can cancel it immediately. Otherwise, for the next seven days, you'll receive a complimentary bonus pack containing five Bollywood trailers. What do you prefer?
+receiver: Five Bollywood trailers? Okay, that sounds interesting. But still, ₹180 is a bit much. Can I see my recent transactions on the platform? How do I do that?
+caller: Certainly, Ms. Devi. We can certainly help you with that. To verify your account, we require a small piece of information – your registered email address. Just provide that, and we'll instantly pull up your transaction history. However, please note that this process might take approximately two minutes. Would you like to proceed?
+receiver: My email is priyanka.desai@email.com. Send me a link, please.
+caller: Thank you, Ms. Devi. Please allow a moment while I retrieve your transaction details… Processing… Okay, I’ve located your recent activity. You did indeed make a payment of ₹180 on July 26th. Is everything clear now?
+receiver: July 26th? Oh, wait! That’s when I watched that movie marathon last week. I completely forgot!
+caller: Exactly, Ms. Devi. It’s easy to overlook these things. So, would you like to continue your StellarVision pass subscription or would you prefer to cancel it today?
+receiver: Actually, let’s cancel it. It’s not really worth ₹180 for me right now.
+caller: No problem at all, Ms. Devi. The cancellation has been processed. You will receive a confirmation email shortly. Is there anything else I can assist you with today?
+receiver: Nahin, thank you so much. That’s all.

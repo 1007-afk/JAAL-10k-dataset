@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma? This is Anjali calling from Swift Courier. We have a package addressed to you, but there’s a slight issue with the delivery.
+receiver: Haanji, main hi hoon. Kya hua? Package kaun sa hai?
+caller: Sir, according to our records, there’s a customs clearance fee of ₹2,800 that needs to be settled before we can proceed with the delivery. It's a standard procedure for international shipments.
+receiver: ₹2,800? Lekin mujhe toh koi international package expect nahi tha. Package ka tracking number kya hai? Main check karta hoon.
+caller: Absolutely sir! The tracking number is SWFT-7849231. However, for security reasons, we need to verify your identity. Could you please share the OTP that we just sent to your registered mobile number? It’s a one-time password.
+receiver: OTP? Kuch paaya nahi OTP. Tum log galat number pe OTP bhej rahe ho shayad. Package ka naam batao zara.
+caller: Sir, I understand your concern. To quickly resolve this, I need to confirm a small detail. Can you provide the last four digits of your debit or credit card? It’s just to authenticate your payment and expedite the delivery process. Only 1 package left for delivery today, sir!

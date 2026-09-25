@@ -1,0 +1,16 @@
+caller: Namaste, bohut subah mausam bura nahi hai! Main Bharat Tele Services se baat kar raha hu. Aap kaise hain is Diwali? Humne ek bahut hi shukriya ki deal banaayi hai - 50 free data recharge aur ek naya smart phone, jake line rental sirf ₹300 mein milega! Tumhare ghar mein sabko dekho, video calls karte karte! Agar aap yahaan par call bachkar batate hain, to 09876543210 pe jawab den. Ek baar phir, woh number hai 09876543210. Is Diwali ko khushiyaan bhar dein!
+receiver: Namaste! Diwali Mubarak! Haan, Free Data aur Smart Phone, yeh sunkar achcha laga. Main ek saati hoon, kya yeh offer sirf pre-paid users ke liye hai ya postpaid bhi mil sakta hai?
+caller: Haanji, yeh offer sabhi types ke users ke liye hai – pre-paid aur postpaid dono!  Aapko sirf ek baar register karna hoga, aur tumhara ID jo bhi ho, woh kaam karega. Agar aapko koi bhi confusion hai, to beech mein call kar sakte hain.  Is Diwali ke liye ek special discount de rahe hain!
+receiver: Okay, yeh sunkar thoda rahat hua.  Mujhe ek cheez puchhna chahte hai - agar main yeh offer accept karta hun, to kya mujhe kisi bhi extra charges ke liye request karna padega?
+caller:  Nahi, nahi! Koi extra charge nahi honge. Yeh deal puri set hai, humare paas pura paisa hai!  Hum aapki madad karne ke liye yahan hain.  Agar aapko koi bhi problem hai, to beech mein call kar sakte hain.  Happy Diwali once again!
+receiver:  Thik hai, thanks.  Main aaj raat call bachkar bolunga, kyonki abhi time hai.  Happy Holidays!
+caller:  Ji ji! Hum aapka wait karenge.  Agar koi sawaal ho, to beech mein call kar sakte hain.  Yeh offer sirf Diwali ke liye hai, toh jaldi karo!
+receiver:  Okay, thank you!
+caller:  Namaste! Is Diwali ke liye ek aur offer hai - 500 free voice minutes aur ek naya wireless earphone, jake voice calls karte karte! Agar aap yahaan par call bachkar batate hain, to 09876543211 pe jawab den. Ek baar phir, woh number hai 09876543211.  Khushi bhar dein apni dil mein!
+receiver: Namaste! Haan, voice minutes aur wireless earphone, yeh suna hai. Kya yeh offer sirf Delhi wale logon ke liye hai ya har jagahon mein available hai?
+caller: Haanji, yeh offer har jagahon mein available hai!  Koi bhi user jo India mein reside karta hai, woh is offer ko claim kar sakta hai. Agar aapko koi bhi confusion hai, to beech mein call kar sakte hain.  Diwali ke baad bhi aise deals banayenge!
+receiver: Okay, good to know.  Mujhe ek aur cheez puchni hai - agar main yeh offer accept karta hun, to kya mujhe kisi bhi extra charges ke liye request karna padega?
+caller: Nahi, nahi! Koi extra charge nahi honge. Yeh deal puri set hai, humare paas pura paisa hai!  Hum aapki madad karne ke liye yahan hain.  Agar aapko koi bhi problem hai, to beech mein call kar sakte hain.  Happy Diwali!
+receiver: Thik hai, thanks.  Main aaj raat call bachkar bolunga.  Happy Holidays!
+caller: Ji ji! Hum aapka wait karenge.  Agar koi sawaal ho, to beech mein call kar sakte hain.  Yeh offer sirf Diwali ke liye hai, toh jaldi karo!
+receiver: Okay, thank you!

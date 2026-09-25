@@ -1,0 +1,10 @@
+caller: Namaste Madam, is this Mrs. Sharma? This is Rohan from Axis Bank Security Department.
+receiver: Haan, main Mrs. Sharma hi hoon. Kya baat hai?
+caller: Madam, we have detected some unusual activity on your Axis Bank savings account. A large transaction attempt was flagged originating from overseas. For your account’s security, we need to quickly verify your identity.
+receiver: Overseas transaction? Main toh kabhi bahar nahi gayi. Kaise hua yeh?
+caller: Yes Madam, it appears someone might have gotten hold of your card details. To prevent unauthorized access and a potential loss of funds, we require you to provide us with the OTP sent to your registered mobile number. It’s a standard security protocol.
+receiver: OTP? Par OTP toh bank automatically send karta hai. Mujhe koi message nahi aaya hai. Aur aapne kaise pata chala ki meri account mein kuch hua hai?
+caller: Madam, sometimes there’s a slight delay. We’re initiating the verification process now. Can you also please confirm the last three digits of your Aadhaar card, just to cross-reference the details? It’s purely for confirming your identity.
+receiver: Aadhaar number? Woh toh main kisi ko kabhi nahi bataungi! Yeh toh fraud hai! Main police mein complaint karungi!
+caller: Madam, please don’t jump to conclusions. We are Axis Bank officials trying to protect your money. A small delay in OTP delivery is possible. For extra safety, can you tell me the name of your mother? Just a simple verification question.
+receiver: Maa ka naam? Abhi toh meri sabhi jaankari nikali jaa rahi hai! Yeh bahut hi bura hai. Main abhi phone kaalo kar rahi hoon.

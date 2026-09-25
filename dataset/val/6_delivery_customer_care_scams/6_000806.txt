@@ -1,0 +1,8 @@
+caller: Hello, good afternoon. I’m calling from FedEx regarding a parcel addressed to you. It seems there’s a slight issue with the delivery address, and we need to verify some details before we can proceed. Could you please confirm your name and address?
+receiver: Haan, hello. This is Priya Sharma. What’s the issue? I wasn’t expecting anything.
+caller: Okay, Ms. Sharma. It appears there’s been a small customs processing fee attached to your package. It’s just ₹750 to clear it. Once you pay, we can get it delivered to your address immediately. We’ll send you a secure link to make the payment.
+receiver: ₹750? But I didn't pay any customs fees when I ordered it. What’s the tracking number? I want to check the details.
+caller: Absolutely, Ms. Sharma. The tracking number is XZ45789123. You can see it on our website, but the payment portal is the quickest way to resolve this and get your package. We need to secure it before someone else claims it. Please, just a quick payment and your parcel will be on its way.
+receiver: Wait a minute. I’m a little unsure. Can you tell me what the package contains? I really didn't order anything recently.
+caller: It’s marked as ‘Electronics – High Value.’ It’s quite bulky, Ms. Sharma. We understand your concern, but to ensure its safe delivery, we just need that small fee. You can pay through this link: bit.ly/fedexpayment. It's absolutely secure, I assure you.
+receiver: Okay, I'm not comfortable with this. I'm going to call FedEx directly to verify. Thank you.

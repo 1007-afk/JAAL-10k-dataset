@@ -1,0 +1,8 @@
+caller: Namaste, mai Priya Sharma bol rahi hoon, HDFC Bank se. Aapke account mein ek urgent alert aaya hai.
+receiver: Haan, hello? Kya hua? Urgent alert?
+caller: Ji, aapke account se ek international transaction ka attempt hua hai, Rs. 12,000. Chhekk karne ke liye, humein aapka OTP verify karna hoga.
+receiver: International transaction? Rs. 12,000? Mujhe toh koi notification nahi aaya. OTP? Bank toh aise nahi karta.
+caller: Sir, yeh security protocol hai. Agar aap OTP nahi denge, toh transaction proceed ho sakta hai aur account block bhi ho sakta hai. Aapka loss ho sakta hai.
+receiver: Account block ho jayega? Par OTP mujhe hi receive karna chahiye, bank ko na. Yeh kuch gadbad lagi. Main call cut kar rahi hoon.
+caller: Sir, please don't cut the call. We can also ask you to share your Aadhaar number for verification. It’s a quick and secure process.
+receiver: Aadhaar number? Abhi? Koi baat nahi. Main abhi call end kar rahi hoon. Yeh fraud hai!

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? I’m calling from Blueridge Logistics regarding a parcel addressed to you. It's a high-value item, and we've encountered a slight issue with the payment verification.
+receiver: Haan, main Priya Sharma hoon. Kya hua parcel ke saath? Payment verification mein problem?
+caller: Yes, ma'am. There seems to be a discrepancy with the payment details linked to your account. To release the parcel, we need to quickly verify a one-time password sent to your registered mobile number. Just tell me the OTP when you receive it.
+receiver: Ek minute... OTP? Delivery ke liye OTP maang rahe ho? Yeh theek toh hai na? Amazon ya Flipkart se aise call aate hain?
+caller: Absolutely, ma’am! This is standard security protocol. We've had a few instances of fraudulent transactions, and we're taking extra precautions.  Without this verification, we’ll have to return the parcel to the sender. It’s a premium delivery, so it's important to resolve this immediately.
+receiver: Premium delivery?  Kaun ne bheja hai yeh parcel? Aur main phone pe OTP dena secure hai kya? Mujhe thoda doubt ho raha hai.
+caller: It's from a reputable electronics retailer, Tech Solutions.  The OTP is essential for confirming your identity, ma'am. We have protocols.  Please, provide the OTP now to avoid delays and ensure a smooth delivery.  We only have a few minutes to complete this process.
+receiver:  Tech Solutions? Mainne toh kabhi order nahi kiya tha unse. Aur OTP phone pe dena... Mujhe lagta hai yeh scam hai.  Mai call cut kar rahi hoon.
+caller: Wait! Don't hang up! I can give you a reference number. Just to confirm your identity, could you please provide your date of birth?

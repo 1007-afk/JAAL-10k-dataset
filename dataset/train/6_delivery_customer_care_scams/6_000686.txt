@@ -1,0 +1,9 @@
+caller: Namaste! Main Flipkart se Deepak bolta hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke liye kuch details chahiye.
+receiver: Flipkart se? Mujhe toh koi notification nahi aaya hai. Kya parcel mein hai?
+caller: Haan, ek smart TV aur kuch kitchen appliances hain. Lekin delivery agent ko kuch confusion ho raha hai, address verify karna hai bas. Mujhe aapka OTP chahiye taaki parcel aapke naam se attach ho sake.
+receiver: OTP? Par aise deliver karte hain? Mujhe toh doubt ho raha hai. Flipkart toh aise nahi karta.
+caller: Sir, yeh ek standard procedure hai, fraud se bachne ke liye. OTP bhejo jate hai, aur delivery ke baad aap payment kar sakte hain. Jaldi karo, otherwise parcel return ho jayega.
+receiver: Return ho jayega? Thoda wait karo, main Flipkart customer care se baat karta hoon.
+caller: Sir, customer care busy line hai. Yeh offer sirf aaj ke liye hai. Thoda OTP de do, aur main confirm kar dunga. Bas 4 digits ka number de do.
+receiver: Chalo, de deta hoon. Phir dekhenge.
+caller: Shukriya! Ab mujhe aapka bank account number bhi chahiye taaki delivery charges ko clear kiya ja sake.

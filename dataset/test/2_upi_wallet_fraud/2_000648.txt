@@ -1,0 +1,7 @@
+caller: Namaste Aunty, this is Rohit from Freecharge customer care. We’ve noticed a cashback offer is available on your Freecharge wallet for paying your electricity bill. You'll get 20% cashback, up to ₹500.
+receiver: Freecharge cashback? Main Freecharge se bill pay karti hoon, lekin kabhi koi offer nahi dekhi. Yeh kaise hoga?
+caller: Very simple Aunty. Just pay your electricity bill through Freecharge using UPI. A small verification fee of ₹20 is required to activate the cashback. It will be credited back to your wallet immediately after the bill payment.
+receiver: ₹20 verification fee? Freecharge mein such fee nahi lete. Yeh thoda suspicious lag raha hai. Aur mera bill amount kitna hai?
+caller: Just ₹20 Aunty, a one-time fee. We need to verify your account. Your bill amount is ₹1200. So, pay ₹1220 via UPI and get ₹500 cashback! Use this UPI ID: 8765432109@axisbank.
+receiver: UPI ID?  Mai toh kisi ko UPI ID kabhi nahi deta. Freecharge se direct message aana chahiye tha. Iska number kon sa hai?
+caller: Don’t worry Aunty, it’s a secure UPI ID. Just do it quickly, the offer is ending in 30 minutes. Think of the ₹500 cashback! Just a little extra effort for big savings.

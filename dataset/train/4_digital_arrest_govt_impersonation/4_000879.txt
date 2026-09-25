@@ -1,0 +1,6 @@
+caller: Namaste sir, mai Indian Customs se Vishal Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par stuck ho gaya hai. Usmein illegal items milne ki sambhavna hai.
+receiver: Illegal items? Mere naam par? Yeh kya bol rahe hain aap? Main toh kuch illegal nahi order kiya hai.
+caller: Sir, parcel mein suspicious documents hain, jo money laundering se linked ho sakte hain. Case number 789456 hai. Aapko is case ko settle karna hoga, warna CBI action lega.
+receiver: CBI? Yeh bahut serious lag raha hai. Main kya karun? Kitna paisa mang rahe hain aap? Aur CBI se meri baat kyun karwa rahe hain?
+caller: Sir, CBI officer aapki baat karenge, lekin pehle case settle karna padega. ₹15,000 ka security deposit denge toh case close ho jayega. Aapko ek UPI ID dena hoga, aur hum video call par bhi baat karenge taki aapko koi shak na ho.
+receiver: ₹15,000? Aur video call? Yeh toh bilkul scam lag raha hai. Mai kisi bhi number pe nahi dene wala koi bhi paisa. Main police mein complaint karunga.

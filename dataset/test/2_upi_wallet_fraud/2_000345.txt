@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ₹12,000 ka cashback offer chal raha hai! Bahut kam logon ko yeh offer mila hai.
+receiver: Paytm cashback? ₹12,000? Mujhe koi notification nahi aaya. Yeh offer kaise claim kar sakta hoon?
+caller: Arre, technical issue hone se notification bhi nahi aati. Aapko sirf apna Paytm registered phone number pe ek OTP mil raha hai, woh OTP mujhe bata dijiye. Phir main aapke wallet mein cashback activate kar dunga.
+receiver: OTP? Paytm toh OTP sirf transaction ke time hi maangta hai. Cashback ke liye nahi. Aur phone number bhi? Ye thoda risky lag raha hai.
+caller: Sir, ye security check hai. ₹12,000 ka offer hai, isliye verification karna padta hai. Trust me, hum sirf aapki help kar rahe hain. Bas OTP de dijiye, aur cashback aapka hoga. Koi risk nahi hai.
+receiver: Theek hai, mujhe yeh offer bahut attractive lag raha hai. Par mujhe pehle Paytm customer care se baat karni hai. Main call disconnect karta hoon aur confirm karta hoon.
+caller: Sir, jaldi karein! Offer sirf 2 minute ke liye valid hai. Jab tak aap confirm nahi karte, offer expire ho jayega. Jaldi se OTP de dijiye, otherwise aap ₹12,000 ka offer miss kar sakte hain.

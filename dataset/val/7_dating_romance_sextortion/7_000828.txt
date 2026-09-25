@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I’m Raj, from ConnectHearts app. I think you've matched with a very charming gentleman, Mr. Sharma. He's been asking about you.
+receiver: ConnectHearts? Oh, yes. I think I did match with someone. I haven't really spoken to him much.
+caller: Wonderful! He's quite keen to chat more, but there's a small verification process. To confirm your account and ensure his safety, please send 'VERIFY-458' to 98765. It’s just a standard procedure.
+receiver: Verify? Why do I need to verify it now? I thought the matching was done.
+caller: It's a new security measure, Priya. Very important. Mr. Sharma wants to send you a small gift, and this confirms your address details. Just send 'VERIFY-458' to 98765. It’s quick. And tell him I sent you!
+receiver: A gift? What kind of gift? And I’m a little uncomfortable sending a code.
+caller: It’s a surprise! He's very generous. Don’t worry, it’s completely safe. He’s very excited to speak with you. Just the one code, ‘VERIFY-458’ to 98765, and you’ll be all set. He’s been waiting!

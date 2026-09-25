@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? I am calling regarding an amazing opportunity you’ve recently joined – it's a virtual reality gaming session, directly on your tablet! You can experience thrilling adventures with beautiful avatars, and explore fantastical worlds. Just type ‘GAME’ to 67890 to get started. To unsubscribe, simply send ‘CANCEL’ to 67890. Are you ready to dive into this exciting world?
+receiver: Namaste, kaun baat kar raha hai? Main koi online game mein sign up nahi kiya hai. Yeh kya ho raha hai?
+caller: Don't worry, my friend! There seems to be a slight glitch in our system. You haven't actually enrolled in anything yet, but the chance is still available! Send ‘GAME’ to 67890. And if you really aren't interested, then just send ‘CANCEL’ to 67890. No problem at all!
+receiver: Suno, mujhe koi game sign up karne ka koi intazaar nahi hai. Aur mujhe yeh calls bhi irritate karte hain. Agar koi mistake thi toh thik hai, lekin mujhe phir se aise calls nahi chahiye. Main ‘CANCEL’ text kar raha hoon, please confirm karna ki mera account delete ho gaya hai.
+caller: Yes, I received the ‘CANCEL’ message. Your account has been deleted. Relax, you won't receive any further calls. Thank you for your cooperation.
+receiver: Theek hai, thanks. Yeh sab bakwaas nahi chahiye tha. Bye.
+caller: Okay, thank you for confirming. It was nice talking to you. Have a wonderful day!
+receiver: Bye. Yeh sab bakwaas nahi chahiye tha. Bye.

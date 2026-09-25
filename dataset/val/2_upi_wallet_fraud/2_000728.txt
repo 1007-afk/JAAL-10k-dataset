@@ -1,0 +1,7 @@
+caller: Namaste, mein Freecharge customer care se Rahul bol raha hoon. Aapki Freecharge account mein ek transaction fail ho gaya hai, aur isko rectify karne ke liye, aapko ek OTP verify karna hoga.
+receiver: Fail? Kya transaction fail hua? Mujhe toh koi notification nahi aaya. Mera account number batao, check karta hoon.
+caller: Haan ji, ek online payment transaction fail ho gaya hai. Aapka Freecharge account number [invented number, e.g., 9876543210] hai na? OTP aapke phone pe aayega, woh bataiye.
+receiver: Haan, woh number hai. Par OTP kyon chahiye? Fail transaction toh Freecharge khud rectify kar dega na?
+caller: Sir, security reasons ke liye humko aapka verification karna padega. OTP verify hone ke baad, hum immediately fail transaction ko rectify kar denge, aur aapka account bhi secure ho jayega. Kuch seconds mein OTP aa jayega.
+receiver: Theek hai, dekh leta hoon. Hmm, aaya OTP... 4782. Batata hoon, 4-7-8-2. Lekin agar kuch bhi wrong hua toh main Freecharge customer care se bhi contact karoonga.
+caller: Bahut accha! Sir, aapka OTP verify ho gaya hai. Ab hum fail transaction ko rectify kar rahe hain. Is process ke liye, humko sirf ₹50 processing fee chahiye, jo aapki linked bank account se debit ho jayegi.

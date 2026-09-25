@@ -1,0 +1,7 @@
+caller: Hello, good afternoon! This is Rahul from BlueDart Courier. We’re calling regarding a parcel addressed to you, but there's been a slight issue with the delivery address.
+receiver: Oh really? What's the problem? I was expecting a package.
+caller: Yes, sir. It seems there’s a discrepancy between the address on the package and what we have on file. To avoid a return to sender, could you quickly verify your delivery address and registered mobile number?
+receiver: Sure, go ahead. My address is 45, Gandhi Nagar, Pune, 411005. And my number is 9988776655.
+caller: Thank you, sir. Everything checks out, but for security purposes, we need to confirm your identity. We’ve sent a one-time password (OTP) to 9988776655. Could you please share that with me so we can finalize the address confirmation? It's a standard procedure to protect your package.
+receiver: Okay, the OTP is 123456.
+caller: Excellent, sir. Thank you for your cooperation. We’ve now confirmed the address and your identity. However, there's a small outstanding customs clearance fee of ₹750. It can be paid online to expedite the delivery. I can send you a secure payment link.

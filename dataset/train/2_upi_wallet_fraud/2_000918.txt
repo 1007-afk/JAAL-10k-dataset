@@ -1,0 +1,11 @@
+caller: Namaste! Mai Vijay Bolta Hu, BharatPay se calling karta hu. Aapke BharatPay wallet mein ek suspicious transaction detect hua hai.
+receiver: Kya? Suspicious transaction? Kitna hua tha? Mujhe toh koi notification nahi aaya.
+caller: Ji, ₹8000 ka transaction hua tha ek unknown website par. Aapki security ke liye humne transaction hold kar diya hai. Ab aapko verify karna hoga apna wallet.
+receiver: Arre, ₹8000? Main toh kabhi bhi aise nahi karta. Verify kaise karna hai? OTP milenge kya?
+caller: OTP nahi, sir. OTP se fraud ho sakta hai. Aapko sirf apna BharatPay wallet linked bank account number dena hai, taaki hum verify kar saken ki account aapka hi hai.
+receiver: Bank account number? Yaar, woh toh risky hai. BharatPay toh kabhi aise nahi maanga. Main call disconnect karta hu.
+caller: Sir, disconnect mat kijiye! Account block ho jayega. Just ek minute dijiye, sir. ₹8000 ka loss nahi hona chahiye aapko. Please bank account number de dijiye, sir.
+receiver: Theek hai, theek hai. Batao, bank account number dene se kya hoga? Kya security guarantee hai?
+caller: Sir, hum BharatPay se he hain. Account number dene se, hum verify kar saken ke aapka account aapka hi hai, aur aapka paisa safe rahega. Aap trust kijiye, sir. Ek hi minute lagega.
+receiver: Okay…mera bank account number [invent a mobile number, e.g., ‘9876543210’] hai. Par agar kuch ho gaya toh main BharatPay se complaint karunga.
+caller: Thank you sir! Transaction verify ho gaya hai, aur aapka account ab safe

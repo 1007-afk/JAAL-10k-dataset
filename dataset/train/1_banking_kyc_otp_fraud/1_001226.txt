@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit Sharma calling from Paytm Payments Bank. We've noticed some unusual login attempts from a foreign IP address on your account. For security reasons, we need to verify your details urgently.
+receiver: Paytm? What kind of unusual logins? I haven’t been doing anything different. Which foreign IP address are you talking about?
+caller: Ji sir, the IP address is showing as originating from Romania. It’s a precautionary measure. To secure your account and prevent unauthorized access, we need to confirm your PAN card details. Can you please provide the first five digits?
+receiver: Romania? That's strange. I’ve never been there. Why do you need my PAN card details just for a login issue? Can't you verify through something else like my registered mobile number?
+caller: Sir, our system requires PAN verification for this particular security protocol. It’s standard procedure. Please, cooperate so we can quickly resolve this and prevent your account from being temporarily blocked. Just the first five digits are needed – a quick check only.
+receiver: Okay, fine. The first five digits of my PAN card are [Invent a plausible 5-digit PAN card suffix, e.g., ABCDE]. But I’m still worried. What happens after this?
+caller: Thank you, sir. Just one final verification. For security purposes, we need to send a one-time password (OTP) to your registered email address. Could you please confirm the email address linked to your Paytm account?

@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, Paytm se. Aapko ek notification mila hoga ki aapko ₹10,000 ka cashback Paytm wallet mein credit karne ke liye approve kiya gaya hai?
+receiver: Haan, mujhe ek message mila tha. ₹10,000? Woh kahan ka cashback hai?
+caller: Woh ek loyalty program ka part hai. Aapne recently kuch transactions kiye the, aur aap eligible hain. Cashback process karne ke liye, mujhe aapke wallet mein linked bank account number ki zaroorat hogi.
+receiver: Bank account number? Paytm toh aise number nahi puchti na?
+caller: Haan, ji. Yeh security protocol hai. Account number se hum confirm karenge ki cashback aapke account mein jaaye. Aur ek small verification fee ₹99 deposit karne ke liye bolunga, cashback instant mil jayega.
+receiver: ₹99 fee? Aur bank account number? Mujhe yeh thoda suspicious lag raha hai.
+caller: ₹99 fee verification ke liye hai, aur bank account number toh sirf aapki safety ke liye hai. Koi chinta mat karo. Phir main aapko ek OTP send karunga jo aapko verify karna hai. Jaldi karo, offer limited time ke liye hai!

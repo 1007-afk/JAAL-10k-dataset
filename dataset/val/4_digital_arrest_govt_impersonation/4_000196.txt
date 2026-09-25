@@ -1,0 +1,7 @@
+caller: Namaste! Sir, this is the Cyber Crime Investigation Department. We've detected some suspicious activity linked to your bank account – unusual international transactions.
+receiver: Oh no! Really? What kind of transactions? I haven't seen anything.
+caller: Sir, it appears you've been unknowingly used for money laundering. A large sum was transferred through your account to a foreign country. We need to freeze your account immediately to prevent further illegal activity.
+receiver: Freeze my account? But I didn't do anything! How much money are we talking about?
+caller: Sir, the amount is 25 lakh rupees. To clear your name and ensure your account isn't seized, you need to pay a small processing fee of 7,500 rupees. This will cover the investigation costs and secure your cooperation. You can pay via Google Pay.
+receiver: 7,500 rupees just to clear my name? Is there any other way? Can't I just provide the documents you need?
+caller: Sir, time is of the essence. The court is already involved. This fee is standard procedure, it ensures the investigation proceeds smoothly and swiftly. I’ll send you the Google Pay QR code. Please do this quickly so we can protect your financial reputation.

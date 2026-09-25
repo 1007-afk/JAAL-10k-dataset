@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Verma from the Directorate of Revenue Intelligence. We have detected suspicious activity linked to your bank account – several large international transactions flagged as potential money laundering.
+receiver: Kya? Money laundering? Lekin main toh kabhi international transaction nahi kiya! Account mera normal hi hai. Kaise ho sakta hai?
+caller: Sir, these transactions are masked. They appear as legitimate purchases but are linked to an ongoing investigation involving illegal cryptocurrency transfers. To clear your name and prevent further action, you need to pay a small processing fee of ₹15,000.
+receiver: ₹15,000? Aur kaise clear karun?  Koi receipt ya FIR number milega kya? Main kisi fake website pe nahi fallna chahta. Yeh kuch fishy lag raha hai.
+caller: Sir, we cannot provide an FIR number over the phone for security reasons. The fee is just to verify your account and ensure it's not being used unknowingly.  Use UPI and pay to this ID: 9876543210. Once done, we’ll send you a confirmation SMS.
+receiver: UPI ID?  Aur confirmation SMS?  Inspector Sahab, aapka naam aur department verify kar sakta hoon?  Main FIR lodge kar dunga agar yeh fake nikla toh.  Aap mujhe koi official email ID de sakte hain?
+caller: Sir, verifying over the phone is against protocol. Just complete the payment, and everything will be sorted. Don't delay, or the case will be escalated to the court, and you’ll face serious consequences. The UPI ID is 9876543210.
+receiver: Court? Serious consequences? Okay, wait, let me check something.

@@ -1,0 +1,6 @@
+caller: Hello! Kaise ho? I’ve been thinking about you a lot. Miss our chats, sweetheart. This week has been so hectic!
+receiver: Hi! I’m good, just working. You too? What's been keeping you so busy?
+caller: Work, work, work! And then my mom’s health is not great. She needs a surgery urgently, but I’m short on funds. It's really stressful, you know? Doctors are asking for around ₹75,000.
+receiver: Oh no! That’s awful. I’m so sorry to hear about your mom. Is there anything I can do to help?
+caller: It would be a huge help if you could send me ₹30,000. Just until my salary comes in, I promise I’ll pay you back immediately! I’m in such a bind, and I don't want to lose my mom. Can you please do this for me?
+receiver: ₹30,000 is quite a bit. Let me think about it. I need to check my accounts. I’m a little worried sending that much.

@@ -1,0 +1,8 @@
+caller: Namaste! Sir, is this Raj Patel? We're calling from Global Crypto Partners. We have an incredible opportunity for you, sir – a guaranteed 30% daily return on Bitcoin investments. Very limited slots available!
+receiver: Hello? Global Crypto Partners? 30% daily? That sounds… very high. Is this legitimate?
+caller: Absolutely, sir! We’re working with a new AI trading algorithm that’s revolutionizing the market. Just a small initial investment, say ₹10,000, and we'll manage everything for you. We can show you some initial successful trades already.
+receiver: ₹10,000? Okay. But where does this algorithm get its information? And who exactly are Global Crypto Partners? I haven’t heard of you.
+caller: Sir, Global Crypto Partners is a newly formed venture funded by several prominent Indian investors. The AI pulls data from multiple exchanges and uses complex predictive models. To get you started quickly, we just need a small verification fee of ₹499 to activate your account and cover transaction processing costs.  You'll see the returns almost immediately!
+receiver: ₹499 verification fee? So I have to pay *before* I see any returns? And where can I verify the credentials of these 'prominent Indian investors'?
+caller: Yes, sir, a small fee. It’s a standard security measure. Once your account is activated, you’ll receive a login link to view your portfolio and track your profits. Once you’ve seen the first ₹3,000 return, you'll understand!  We can send you a QR code for UPI payment, very convenient.  Do you want to proceed?
+receiver: Wait a minute. I’m not comfortable paying a verification fee upfront, especially when the returns seem so unbelievable. I think I'll do some research

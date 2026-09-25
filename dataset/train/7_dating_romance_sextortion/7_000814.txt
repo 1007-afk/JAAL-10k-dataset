@@ -1,0 +1,9 @@
+caller: Hey! I was just thinking about you. Remember we talked about going to Goa? It would be so much fun! I've been looking at flights, and there's a really good deal if we book soon.
+receiver: Really? Goa! That sounds amazing. I've been wanting to go for ages. What kind of deal are we talking about?
+caller: The airline, SkyWings, is having a flash sale. But I need to transfer them some money to secure the booking – just a small amount for now to hold the seats. They only accept through this new platform called "SwiftPay." It’s super secure, I promise! Just 8000 rupees to start.
+receiver: 8000 rupees? That’s a bit much for a deposit, isn’t it? I’m a little hesitant about this SwiftPay thing. I've never heard of it.
+caller: Don’t worry, sweetie! It's brand new, that’s why you haven’t heard of it. The airline is trying out new payment methods. Trust me, it'll be worth it for the flights! Think of the beaches! I sent you the SwiftPay link, just click and enter the amount. It’s really simple.
+receiver: Okay, let me check the link first. I'm just being careful, you know? My friend got scammed once.
+caller: Of course, be careful! But don't miss out on this deal, it's too good to pass up. Once you pay, I'll send you the flight confirmation details right away. Just a few minutes, and we're off to Goa!
+receiver: Alright, I’ve checked the link. It looks pretty legit. I’ll go ahead and do it.
+caller: Wonderful! You won't regret this. Get ready

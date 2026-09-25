@@ -1,0 +1,10 @@
+caller: Namaste, sir. Main Axis Bank se Tarun bol raha hoon. Kya aapka naam Mr. Sharma hai?
+receiver: Haan, main Mr. Sharma hi hoon. Bolo, kya zaroorat hai?
+caller: Achha, Mr. Sharma ji. Hamare system mein aapke Axis Bank account se Gujarat mein ek online transaction hua hai ₹8,000 ka. Aapne kabhi Gujarat mein kabhi purchase kiya hai?
+receiver: ₹8,000 Gujarat? Nahin, kabhi nahi. Main toh Delhi mein hoon. Yeh kya ho raha hai?
+caller: Ji sir, hamare records ke anusar, transaction Gujarat mein Flipkart se hua hai. Aapki safety ke liye, humein aapka OTP verify karna hoga. OTP send kar den aap?
+receiver: OTP? Nahin, sir. Main bank mein call karoonga. Yeh scam lag raha hai.
+caller: Sir, aapko jaldi karna hoga. Agar aap OTP nahi denge, toh aapka account suspend ho sakta hai. Ye security protocol hai.
+receiver: Account suspend? Sir, woh galat hai. Main bank branch jaunga aur wahaan baat karunga. Aap mat bolo.
+caller: Sir, time bahut kam hai. Just ek minute. Hamara system automatic hai. Aapka OTP do, please.
+receiver: Nahin sir, mai OTP nahi dunga. Main police mein complaint karunga.

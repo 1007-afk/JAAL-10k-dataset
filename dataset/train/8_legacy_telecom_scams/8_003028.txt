@@ -1,0 +1,17 @@
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hamara ek amazing offer hai – aapko mil sakta hai ek free smart watch, saath mein 30% tak discount line rental par, aur 200 local calls aur 50 SMS! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achcha offer lag raha hai. Smart watch free mein milega, aur line rental par discount bhi? Kaise milega yeh?
+caller: Haan ji, absolutely! Yeh offer sirf logon ke liye hai jo apne existing broadband connection ko upgrade karte hain. Agar aapko internet speed badhna hai, toh yeh offer aapke liye ideal hai. Sirf do minute mein complete process ho jayega. Kya aap interest hai yeh details sunne mein?
+receiver: Haan ji, bilkul interested hoon. Bataiye, mujhe batao yeh process kaise hota hai?
+caller: Okay! To process shuru karna, hamein kuch information chahiye. Kya aapka naam hai Amit Kumar, aur aapka current mobile number hai 8765432109? Isse hum aapki layakiyat check kar sakte hain.
+receiver: Haan ji, mera naam hai Amit Kumar, aur mera current mobile number hai 8765432109. Bataiye, layakiyat check ho gayi?
+caller: Dhanyavaad Amit ji! Aapki layakiyat check ho gayi hai aur aap is offer ke liye completely eligible hain. Abhi humein bas aapke bank account ka verification karna hoga. Kya aapke paas cheque book hai?
+receiver: Haan ji, cheque book mere paas hi hai. Bataiye, verification ke liye kya karna hoga?
+caller: Apsa! Tumko pata hai ki tum MobileLife se baat kar rahe ho? Hum ne tumliye ek special deal layi hai - tumko milega ek free wireless earbuds, saath mein 40% tak discount line rental par, aur 300 local calls aur 100 WhatsApp messages! Kya yeh suna kar thoda excite nahi hona?
+receiver: Haan, sun raha hoon. Yaar, earphones free milega aur line rental par discount bhi? Itni achi deal hai! Kaise milega yeh?
+caller: Haan ji, yeh toh sirf tumhare liye hai jo MobileLife mein apni data pack upgrade karte hain. Agar tumne online gaming bhi kartay ho, toh yeh offer tumhein bahut fayda karega. Just a little bit of paperwork, that's it! Kya tum yeh details sunna chaaho?
+receiver: Haan ji, sun lo, batao yeh paperwork kaunsa hai?
+caller: Okay, then! Toh, hamein tumhara Aadhaar card number aur bank account IFSC code chahiye. Isse hum tumhari identity aur account check kar sakte hain. Kya tum ready ho?
+receiver: Haan, Aadhaar card number hai 123456789012345 aur bank account IFSC code hai XYZABCD123. Bataiye, kya ho gaya?
+caller: Shukriya! Tumhara Aadhaar aur bank account verified ho gaya hai. Ab tum is offer ke liye totally eligible ho. Abhi humein sirf tumhara home address chahiye. Kya tum bataoge?
+receiver: Haan, mera ghar address hai Mumbai, Maharashtra.
+caller: Great! Thank you so much for sharing your address. Your application has been processed and you’ll receive a confirmation message soon. Enjoy your free wireless earbuds!

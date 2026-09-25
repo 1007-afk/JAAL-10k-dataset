@@ -1,0 +1,7 @@
+caller: Namaste sir, main ICICI Bank se Aakash bol raha hoon. Aapke naam par ek online shopping transaction hua hai, jo suspicious lag raha hai. Account ko secure karne ke liye, kuch details verify karne hongi.
+receiver: Online shopping? Main toh aajkal kuch zyada nahi khareeda hai. Kis tarah ka transaction tha?
+caller: Sir, Rs. 7,800 ka transaction Flipkart pe hua hai. Aapne check kiya bhi nahin? Account block hone se pehle, OTP bataiye, please.
+receiver: Rs. 7,800? Bhai, main toh Flipkart pe kabhi kuch purchase nahi karta. Aur OTP phone pe kaise aaega?
+caller: Sir, OTP sirf verification ke liye hai. Account safe rakhne ke liye, woh share karna padega. Agar aap share nahi karenge, toh account suspend ho jayega.
+receiver: Sir, yeh kuch ghalat lag raha hai. Main ICICI Bank ke customer care number se call karta hoon aur verify karta hoon. Aapko call cut karna padega.
+caller: Sir, yeh official number hai. Koi confusion nahi hona chahiye. Account suspend hone se bachne ke liye, please OTP share karein.

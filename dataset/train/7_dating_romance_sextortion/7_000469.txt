@@ -1,0 +1,8 @@
+caller: Hi Neha! Saw your profile on 'ConnectHearts'. You’re absolutely stunning! I'm Arnav, by the way. Just wanted to say hello and see if you’re open to chatting.
+receiver: Hi Arnav! Thank you! That’s kind of you to say. I’m Neha. What do you do?
+caller: I'm a marine engineer, currently working on a project offshore near Singapore. It’s pretty intense, long hours, but the pay is good. I miss having someone special to share evenings with, you know? Your profile really caught my eye.
+receiver: That sounds interesting and demanding. Singapore is far away though. So, what kind of project are you working on? Is it really dangerous?
+caller: It's a bit tricky. We’re repairing a vital underwater cable, crucial for communications across the region. There's been an unexpected setback, and I need to rush back home for a week to sort out some paperwork and finances. I’d really love to see you then, Neha. Could I borrow 50000 rupees to cover the visa extension and travel costs? I’ll pay you back immediately when I get paid next month.
+receiver: 50000 rupees? That's a lot of money Arnav. I don't know... it feels a bit sudden. I hardly know you. What paperwork needs immediate attention?
+caller: I understand your hesitation, Neha. It's just a small emergency, honestly. I can send you a copy of my work ID and the company's paperwork, prove everything is legit. Really, it would mean the world to me if you could help. I'm thinking of you, and I want to meet you when I return.
+receiver: Okay, send me the documents. Let me see them first.

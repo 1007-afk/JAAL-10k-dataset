@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is Rajesh from Flipkart Customer Care. We've noticed an unusual transaction of ₹12,500 from your account.
+receiver: What? ₹12,500? I didn't make any purchase like that. Flipkart? Are you sure?
+caller: Yes sir, absolutely. There seems to be a fraudulent order placed. To secure your account and prevent further unauthorized transactions, we need to verify a one-time password (OTP) sent to your registered mobile number.
+receiver: An OTP? Okay, let me check... but this sounds suspicious.
+caller: Exactly sir, it’s a precautionary measure. Just a quick OTP and we’ll block the suspicious order. The OTP is 498271. Please confirm immediately.
+receiver: 498271… wait a second. Why do you need me to say it out loud? Wouldn’t it be safer to just enter it on my phone?
+caller: Sir, sometimes there are technical glitches with the automated system. We want to ensure we're speaking to the correct account holder and that the OTP is processed correctly. Please, for your security, just read it to me. It’s very important.

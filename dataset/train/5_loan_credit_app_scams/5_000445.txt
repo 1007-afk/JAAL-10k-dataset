@@ -1,0 +1,10 @@
+caller: Namaste, sir? Main Rohit Verma, QuickLoanIndia se baat kar raha hoon. Aapke naam par ek personal loan apply kiya gaya tha, hai na?
+receiver: Haan, ji. Maine kuch din pehle apply kiya tha, par mujhe confirmation nahi mili.
+caller: Haan sir, application process ho gaya hai. Bas aapko ek small verification process se guzar na hoga. Aapke bank account ka last statement upload karna hoga. Kyuki security check karna important hai.
+receiver: Theek hai, mein upload kar sakta hoon. Woh mere paas PDF mein hai.
+caller: Shandar! Ab, verification ke liye, hume aapke registered mobile number par ek OTP bhejna hoga. Woh OTP bata dijiye, sir.
+receiver: [Invent an OTP, e.g., 789012]
+caller: Ji, OTP 789012 receive ho gaya hai. Sir, verification complete! Loan approved ho gaya hai, ₹75,000. Kal tak aapke account mein credit ho jaayega. Par sir, ek small processing fee hai, ₹2,500, jo aapko abhi clear karna padega.
+receiver: ₹2,500? Par loan toh ₹75,000 ka tha.
+caller: Ji, yeh rule hai. Processing fee bina iske loan release nahi hoga, sir. Aur agar aapne fee nahi paid kiya toh aapka loan cancel ho jayega aur aapka account block ho sakta hai. Iske alawa, hum aapke contacts ko aapki personal details bhi bhej sakte hain.
+receiver: Contacts ko kyun bhejenge?

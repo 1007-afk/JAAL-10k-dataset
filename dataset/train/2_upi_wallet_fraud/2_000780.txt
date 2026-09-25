@@ -1,0 +1,7 @@
+caller: Namaste, Madam! Mera naam Rohan hai, BharatPay se calling karta hoon. Aapko ek achha cashback offer mil raha hai.
+receiver: BharatPay? Cashback? Kya offer hai?
+caller: Ji, BharatPay ek Diwali special offer launch kar raha hai. Aap ₹1000 se zyada UPI transaction karenge, toh aapko ₹300 cashback milega! Bahut easy hai.
+receiver: ₹300 cashback? Aur kaise karun transaction? Kisi special website par karna hai?
+caller: Haan, madam. Ek limited number of merchants ke saath partnership hai. Main aapko ek link send karta hoon, uss website par ₹1100 ka transaction kar dijiye. Cashback automatically aapke BharatPay wallet mein add ho jayega.
+receiver: ₹1100? Kispe karna hai transaction? Aur link kahaan milega?
+caller: Ek online jewellery store hai, ‘Shine Bright’. Link main hi send kar raha hoon. Jaldi kijiye, offer sirf aaj tak hi hai! ₹1100 transaction karte hi aapka cashback confirm ho jayega.

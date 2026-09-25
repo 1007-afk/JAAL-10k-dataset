@@ -1,0 +1,6 @@
+caller: Namaste, this is Inspector Verma from the Delhi Customs Department. We have intercepted a suspicious package linked to your phone number.
+receiver: Delhi Customs? Package? What’s this about? I haven't ordered anything.
+caller: Yes, sir. The package contained undeclared electronic goods, potentially linked to money laundering. Your phone number was listed as the recipient. This is a serious matter.
+receiver: Money laundering? But I assure you, this is a mistake. I don't know anything about this. Is there a case number I can refer to?
+caller: Sir, to resolve this quickly and avoid legal complications, we require a small processing fee of ₹8,000 to cover verification and disposal of the package. It's a standard procedure.
+receiver: Eight thousand rupees? For a mistake? Is there any way to verify this package? Can you give me some details about the sender or the contents? This sounds like a scam.

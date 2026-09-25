@@ -1,0 +1,6 @@
+caller: Namaste! Sir/Madam, this is a crucial update regarding your recent investment in StellarCoin. We’ve noticed unusual activity and need to verify your account immediately. Please call 987-654-3210 to prevent losses.
+receiver: Hello? StellarCoin? I don't recall investing in that. What's this about unusual activity?
+caller: Ji, very important! Our security system flagged a potential withdrawal request. We need to confirm it was you before it's processed. Just a few quick questions, sir. Call the number, 987-654-3210, right away.
+receiver: Hold on. Why am I getting this call instead of an email or SMS? And why do I need to call a separate number? Shouldn't you already have my details?
+caller: Sir, for utmost security, we follow this procedure. Calling allows for real-time verification. To proceed and secure your investment of ₹75,000, you need to transfer ₹5,000 as a verification fee to this UPI ID: secureinvest.upi.in.
+receiver: A verification fee? That sounds like a scam. I'm not transferring any money. I'm reporting this number. Goodbye.

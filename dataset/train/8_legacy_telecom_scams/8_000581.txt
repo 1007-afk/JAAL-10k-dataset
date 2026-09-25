@@ -1,0 +1,18 @@
+caller: Namaste! Kaise haal hain? Yeh humne phir se aapke liye baat karne ke liye call kiya hai. Aapko kal ki ₹25000 ka jeet neend prize abhi tak mil nahin saka. Aapke paas sirf 6 minute baqyaat hain. Please jaldi se hame phir se call karein aur number check karein - 08899234567. Ye bahut zaroori hai!
+receiver: Namaste! Main theek hoon, shukriya. Haan, woh jeet neend prize ka call tha na? 6 minute? Matlab seriously? Main abhi call karta hoon ussi number pe.
+caller: Haan, bahut zaroori! Bas 5 minute baqyaat hai ab, toh jaldi se call kar lein. Agar koi bhi confusion ho toh mujhe bata dein. Main aapki madad karne ke liye taiyar hoon.
+receiver: Ok, 5 minute?  Main abhi call kar raha hoon. Agar line busy mili toh main do baar try karunga. Thank you for reminding me.
+caller: Achcha, yeh theek hai! Bas 4 minute baqyaat hai ab, toh jaldi se call kar lein. Agar koi bhi problem aaye toh mujhe bata dein. Main aapko prize milane mein madad karunga.  Chalo, jaldi karo!
+receiver: 4 minute?  Okay, ab toh definitely kar raha hoon. Agar call uthaaya toh sab theek hai, nahi toh... kya pata! Dekhte hain. Dhanyavaad!
+caller:  Perfect! Bas 3 minute baqyaat hai ab! Make sure you call 08899234567 asap. Don’t miss out on ₹25000.  Hope the line is clear for you. Hurry up!
+receiver: 3 minute?  Arre yaar!  Theek hai, bas ab toh definitely kar raha hoon. Agar uthaaya toh good, nahi toh...  Abhi soch raha hoon. Shukriya pushing me!
+caller: Hello? Can you hear me? This is our second attempt to contact you. Your £900 prize from yesterday is still awaiting collection. You only have 5 minutes left to claim it, so please call us back immediately at 09061702893. This is urgent!
+receiver: Hello? Haan, sunn raha hoon. Woh prize wala call tha na? Achha, matlab 5 minute hi bache hain? Theek hai, main abhi call karta hoon usi number pe.
+caller: Oh, that's great! Bahut achha. Haan, bas 4 minute hi bache hain ab, toh jaldi se call kar lo. Agar kuch problem aaye toh mujhe batana. I'll be waiting for your call.
+receiver: Okay, theek hai. Bas 4 minute? Koi tension nahi, main bilkul abhi call kar raha hoon. Agar line busy mili toh main dobara try karunga. Thanks for the reminder.
+caller: Ah, yes, excellent! Bilkul theek. Just 3 minutes left now, so make sure you call soon. Agar koi bhi issue ho toh mujhe bata dena. I'm here to help you get your prize! Jaldi karo!
+receiver: Okay, 3 minute? Got it. Ab toh pakka call kar raha hoon. Agar kuch bhi gadbad ho toh main pakka bolunga aapko. Hope phone receive ho jaaye. Thanks for staying on the line and reminding me.
+caller: Exactly! Just 2 minutes left now! Make sure you call 09061702893 right away. Don't miss out on your £900. Fingers crossed the line is free for you. Hurry!
+receiver: 2 minutes? Arre yaar! Theek hai, bas ab toh pakka kar raha hoon. Agar call uthaaya toh sab theek hai, nahi toh... kya hoga? Dekhte hain. Thanks for pushing me!
+caller: Namaste! Kaise haal hain? Yeh humne phir se aapke liye baat karne ke liye call kiya hai. Aapko kal ki ₹25000 ka jeet neend prize abhi tak mil nahin saka. Aapke paas sirf 6 minute baqyaat hain. Please jaldi se hame phir se call karein aur number check karein - 08899234567. Ye bahut zaroori hai!
+receiver: Namaste! Main theek hoon, shukriya. Haan, woh jeet neend prize ka call tha na? 6 minute? Matlab

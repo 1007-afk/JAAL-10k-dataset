@@ -1,0 +1,20 @@
+caller: Namaste! Main Sanjay hu, Bharat Telecom se call kar raha hoon. Hum log ek special offer leke aaye hain, jab tum log Bharat Telecom mein upgrade karte ho, toh hum free internet data de rahe hain. Tumhara mobile number activa hai na?
+receiver: Namaste Sanjay, yes my number is active. But I’m not interested in upgrading right now.
+caller: Haan, koi baat nahi. Lekin hum chahte hain ki aapko is offer ka pata ho. Agar tum log abhi upgrade karte ho, toh tumhare paas 5GB daily free internet data milega, 6 months ke liye. Plus, tumhari network speed bhi badhegi. Tumhara current plan kya hai?
+receiver: I am currently using the standard plan. It doesn’t include any extra data.
+caller: Theek hai. Toh, agar tum log upgrade karte ho, toh tumhare paas unlimited data ka option bhi available hai, sirf ₹199 per month. Aur is offer mein, tum logo ko ek free screen protector bhi milega. Kaise lagta hai?
+receiver: A free screen protector sounds nice, but I still don’t want to upgrade.
+caller:  Aapko koi pressure mat dena. Hum bas tumhein information de rahe hain. Agar tum kabhi bhi change karna chaaho toh, tumhle upgrade kar sakta ho.  Main tumhe phir se call karunga, kya aapko wait karna hai?
+receiver: No, thank you. That was all I needed.
+caller:  Theek hai, aapko bahut bahut thanks. Bharat Telecom mein aapse kitna dilchasp hai.  Shubh din!
+receiver: You too. Goodbye.
+receiver: Namaste Deepak, I don't have JioFiber.
+caller: Thoda sa confusion hai, sir. Aapko ek SMS mila hoga, jahaan humne aapko JioFiber trial period ke liye invite kiya tha. Agar aapko woh invitation SMS nahi mili, toh humare pass aapka contact number hai, aur hum aapko JioFiber ka opportunity dene ke liye ready hain. Aapka mobile number verify kar sakte hain?
+receiver: I didn’t get any such SMS.
+caller:  Haan, koi problem nahi.  Hum aapko jo bhi details maanghenge, vahi sirf aapke safety ke liye honge.  Aapka home address confirm kar sakte hain, please?  Isliye ki hum JioFiber installation schedule aapko send kar sakenge.
+receiver:  No, I'm not comfortable sharing my address.
+caller:  Koi tension mat lo.  Hum sirf delivery purpose ke liye request kar rahe hain.  Agar aapko koi problem hai, toh hum aapko alternate way bhi dikha sakte hain.  Aapko jaise koi option chahiye, boliye.
+receiver:  I just want to end this call.
+caller:  Theek hai, aapko koi issue nahi hua.  Hum aapko future mein JioFiber ke bare mein update karte rahange.  Aapka din khubh hazeeraat ho!
+receiver:  Thank you. Goodbye.
+caller:  Ji ji, aapki bhi.

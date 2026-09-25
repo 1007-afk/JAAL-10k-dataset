@@ -1,0 +1,13 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se baat kar raha hu. Aapko ek important notification aaya hai, jaise ki ‘Aarambh’ app.
+receiver: Oh, Aarambh app? Woh jo news updates wala app hai?
+caller: Haanji, woh hi. Yeh ek final alert hai. Isliye hum aapko call kar rahe hain. Aapko ek SMS mila hoga, 'Update Now'. Did you receive it?
+receiver: Haan, mila tha. Par mujhe yaad nahi ke koi alert mili thi.
+caller:  Haanji, technically, aapko mila hai. Yeh Aarambh app ka premium subscription offer hai. Last chance, really. Text ‘INFO’ to 9876543210.
+receiver: Info… okay. But what exactly does this premium subscription give me? Like, will I get more news?
+caller: Haanji, aapko daily exclusive articles, video content, and ad-free experience milega.  It’s a very good deal. Agar abhi subscribe nahi kiya, toh aapko yeh benefits miss karna padega.
+receiver:  Okay, okay.  But my name isn't available on your records. Can you see my number? Just to confirm, you know?
+caller:  Arre, naam ki koi need nahi hai.  Just send that text message, and you're all set.  Registration complete.  If you have any questions, I am here for you. So, just text ‘INFO’ to 9876543210.
+receiver:  So, no name needed? And what if I don't want to subscribe?
+caller:  Agar aap subscribe nahi chahte, toh aapko koi problem nahi hogi.  Bas text bhejein aur aapko koi notifications nahi milegi Aarambh app mein.  It's completely up to you.  Just send ‘INFO’ to 9876543210.
+receiver:  Okay, okay.  Then I'll just send the message.  Is there any kind of discount or something?  Like, is it cheaper than other subscriptions?
+caller:  Haanji, yeh offer sirf aaj raat 12 baje tak chalega.  And it's actually a special price for new users.  Jaldi karo!  Text ‘INFO’ to 9876543210.

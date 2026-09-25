@@ -1,0 +1,10 @@
+caller: Namaste sir, Jio network support se bol raha hu. Aapka mobile account 24 hours mein suspend ho jayega. Activate karna chahte hain?
+receiver: 24 hours? Kaha pucha ye suspension ka? Mein Jio ka regular user hun, koi problem nahi hani. Kaise ho tum?
+caller: Sir, main [Vikram Sharma invented] hu, Jio customer care. Suspicion samajh raha hu, lekin yeh security reasons ke liye zaroori hai. Aapne recently data usage bahut zyada kiya tha, woh trigger ho gaya hai.
+receiver: Data usage zyada kiya? Mein toh sirf online banking aur emails check karta hun. Koi video streaming nahi karta. Yeh kya bakwaas hai? Mera number suspend kyun ho sakta hai?
+caller: Sir, technically, jo bhi data usage ho, hum aapko alert karte hain. Parantu, aapne limit cross kar diya hai. Suspension remove karne ke liye, aapko verification process complete karna hoga. Aapko ek OTP milega.
+receiver: OTP? Mere registered number pe hi aayega, ya koi andara number? Mein toh Jio se recharge bhi karta hun, sirf ishi number pe hi messages milte hain. Ismein koi risk hai kya?
+caller: Sir, bilkul koi risk nahi hai. OTP sirf aapke registered number pe hi aayega. Verification ke baad, aapka account immediately reactivate ho jayega. Just provide the OTP, it's a quick process.
+receiver: Okay, fine. But batao, OTP kab ayega? Aur yeh verification process kitna lambi jagayega? Mujhe pata hona chahiye.
+caller: OTP 2 minute mein arrive karega, aur verification process sirf 30 second ka hai. Super easy! Ready ho?
+receiver: Hai. OTP kab aa raha hai?

@@ -1,0 +1,6 @@
+caller: Namaste, sir? Is this Mr. Sharma? I'm calling from XYZ Courier Services. We have a package addressed to you, but there's a slight issue with the payment details.
+receiver: Haan, hello. Yes, this is Sharma. What's the problem with the payment? I thought I had cleared everything online.
+caller: Sir, our system shows an incomplete transaction. There's a pending amount of just ₹499 to confirm the delivery. It’s a standard security verification process. Could you please share the OTP you just received on your phone?
+receiver: ₹499? But I already paid when I placed the order with Myntra. Are you sure this is legitimate? Can you give me a tracking number to verify?
+caller: Absolutely, sir! The tracking number is MN782349. This is just a quick verification. Many customers face this, and it’s crucial to resolve it immediately to prevent the package from being returned. Just the OTP, please? To confirm the pending payment of ₹499
+receiver: Wait a minute. This seems a little fishy. I’m not going to give you my OTP until I confirm this with Myntra directly. I'm calling them now.

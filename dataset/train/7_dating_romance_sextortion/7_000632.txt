@@ -1,0 +1,7 @@
+caller: Hello priya! I saw your profile on 'DesiHearts' - you are absolutely stunning! My name is Rohan, what do you do for fun?
+receiver: Hi Rohan! Thank you! I’m a teacher. I like reading and going for walks.
+caller: A teacher! Wonderful! I'm an engineer working abroad in Dubai. It's lonely here sometimes. I’ve been thinking about finding someone special. Your profile really stood out. I'm planning a trip back to India next month, to visit my family, and I’d love to meet you if you're free. I'll send you a link to my LinkedIn profile, just so you can see who I am.
+receiver: That’s kind of you. I’d like to see your profile. But I’m a little cautious about meeting people online.
+caller: I understand completely! Safety is important. Check this link: 'linkedin.com/in/rohan-singh-engineer'. See? Totally legit. Listen, a friend of mine is having trouble with their visa renewal, it's a bit urgent, and I need to send them some money quickly. Could you possibly send me ₹5000 as a temporary loan? I'll pay you back the moment I get my salary next week. It would really help them out.
+receiver: That’s a lot of money to ask for, especially when we’ve just met. I’m not comfortable with that.
+caller: Oh, come on! Just a little help? I'm sending you a picture of my passport to prove I'm who I say I am. I wouldn't ask if I wasn't desperate. It’s really important. Account details are 1234567890 with bank name ‘Bharat Bank’. Please, priya.

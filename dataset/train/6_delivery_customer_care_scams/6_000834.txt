@@ -1,0 +1,8 @@
+caller: Namaste, main Swiggy customer care se Rahul bol raha hoon. Aapke recent order mein kuch problem aa gaya hai, delivery ke timing mein.
+receiver: Kya problem hai? Mujhe delivery time ke bare mein batao.
+caller: Sir, delivery agent ne kaha ki aapka address mil nahi raha hai, woh ghoom ghoom kar thak gaya hai. Usko ek OTP verify karne ki zarurat hai, taaki woh confirm kar sake ki order aapke hi address par jayega.
+receiver: OTP? Swiggy aise OTP maangta hai? Mujhe toh kabhi nahi maanga.
+caller: Haan sir, security ke liye. OTP aapke phone pe aayega, woh mujhe bata dijiye. Aur sir, ek small verification fee bhi lag rahi hai, ₹299, is delivery issue ko resolve karne ke liye.
+receiver: ₹299? Aur OTP bhi? Ye toh scam lag raha hai. Main Swiggy app mein check karti hoon.
+caller: Sir, please jaldi bataiye OTP, delivery agent ka time barbaad ho raha hai. Aur ₹299 fee aapko transaction ID milega, woh aapko SMS se aa jayega. Jaldi karo sir, nahi to order cancel ho jayega.
+receiver: Main report karti hoon tumhari company ko.

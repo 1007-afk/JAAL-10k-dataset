@@ -1,0 +1,7 @@
+caller: Namaste, Main Rahul bol raha hoon, Axis Bank se. Aapke naam par ek online transaction hua hai, 7,500 rupaye ka, jo aapne approve nahi kiya hai.
+receiver: Oh! Haan, mujhe bhi ek notification aaya tha. Par main toh kahin se bhi transaction nahi kiya.
+caller: Sir, tension mat lo. Main bas aapko inform kar raha hoon taaki aapka account secure rahe. Hamko check karna hai ki kya ye transaction aapka hai. Aap mujhe OTP bata sakte hain jo aapko aapke phone pe aaya hai?
+receiver: OTP? Par why do you need my OTP? Axis Bank toh aise OTP nahi manta hai.
+caller: Sir, ye ek security protocol hai. OTP se ham confirm kar sakte hain ki aap hi bol rahe hain. Agar aap OTP nahi dete, toh hamko account suspend karna padega, taaki scammer ka control na ho sake. 24 ghante ke liye suspend hoga.
+receiver: Account suspend? Yeh bahut weird lag raha hai. Main bank branch mein jaakar hi confirm karunga. Thank you.
+caller: Sir, please! Account suspend hone se bahut inconvenience hoga. Just ek minute, OTP bata dijiye aur main sab check kar dunga. Sirf aapki help ke liye call kiya hai.

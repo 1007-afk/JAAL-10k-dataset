@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul calling from Bluebird Courier. We have a package addressed to you, but there's a customs clearance issue.
+receiver: Oh really? I haven't ordered anything recently. What’s the package?
+caller: It’s showing as a high-value electronic item. To release it, we need to verify a few details. Could you please confirm the last four digits of your credit card used for online purchases?
+receiver: Wait a minute. Why do you need my credit card details for customs? Shouldn't I be hearing from customs directly?
+caller: Security protocol, sir. We need to flag the transaction for potential fraud. Just those last four digits are required. Also, a one-time password will be sent to your registered mobile number.
+receiver: I'm still not comfortable giving you my card details over the phone. Can you give me a reference number so I can call back?
+caller: Absolutely sir! The reference number is CB7492. Please call us back immediately at this number, so we can quickly resolve this and deliver your package. Don’t delay, as the package might be returned to sender.

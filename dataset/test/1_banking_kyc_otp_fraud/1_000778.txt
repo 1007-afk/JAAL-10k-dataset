@@ -1,0 +1,8 @@
+caller: Namaste! Main State Bank of India se Atul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye hum aapke account ki security check karna chahte hain.
+receiver: Hello, Atul. What kind of suspicious activity? I haven't done anything unusual.
+caller: Ji, ek international transaction ka attempt kiya gaya tha, lekin fail ho gaya. Par hum safety ke liye confirm karna chahte hain ki aapne koi international transaction kiya hai ya nahi. Isliye, mujhe aapka OTP (One Time Password) chahiye jo aapko SMS se mila hai.
+receiver: OTP? But why do you need my OTP? Shouldn’t you be sending it to my phone directly? This feels wrong.
+caller: Madam, yahan pe technical issue hai. OTP direct phone pe nahi aa raha hai, isliye main pooch raha hoon. Account suspend hone se bachne ke liye, OTP bataiye jaldi se.
+receiver: Account suspend? Really? But I always thought SBI was very secure. Let me just… can you give me a reference number for this call so I can verify it with the bank later?
+caller: Reference number is SBIN-SEC-2024-789. Ab OTP bataiye please, time bahut kam hai. Aapka account khatre mein hai.
+receiver: Wait a minute. Something feels really off. I’m going to call SBI directly from their official number on their website to verify this.

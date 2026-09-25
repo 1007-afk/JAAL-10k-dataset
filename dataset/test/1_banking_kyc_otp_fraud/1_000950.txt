@@ -1,0 +1,7 @@
+caller: Namaste, this is Ankit calling from HDFC Bank's fraud prevention team. We've detected some unusual activity on your linked Paytm wallet.
+receiver: Oh really? What kind of activity? I haven’t done anything unusual.
+caller: Sir, there was an attempt to transfer ₹8,000 to an unknown account from your wallet. We’ve temporarily frozen your account to prevent further loss. To reactivate it and verify your identity, we need to confirm a few details.
+receiver: ₹8,000? That’s alarming! What do you need me to do exactly?
+caller: Sir, just a couple of quick verifications. First, can you please provide the last four digits of your Aadhaar card and a one-time password that we’ve just sent to your registered mobile number? This will unlock your wallet and secure your funds.
+receiver: Wait a minute. You’re asking for my Aadhaar details over the phone? HDFC usually doesn't do this. Can you please give me a reference number for this call, or direct me to a callback number on the official HDFC website so I can verify this myself?
+caller: Sir, due to the urgency of the situation, we’re working directly to secure your funds. Providing the OTP now will prevent any further unauthorized transactions. Just the last four digits of your Aadhaar and the OTP, please. We need to act fast.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Verma, 'LoanExpress' se baat kar raha hoon. Aapka naam Rajesh Sharma hai na? Aapne humare app par ₹75,000 ka loan apply kiya tha. Verification ke liye call karta hoon.
+receiver: Haan, ji. Main Rajesh Sharma hi hoon. Loan apply toh kiya tha, par abhi koi update nahi mila.
+caller: Excellent! Rajesh ji, aapka application approved ho gaya hai, bas kuch formalities bachi hain. First, humein aapka PAN card ka front aur back photo chahiye. WhatsApp pe send kar dijiye.
+receiver: PAN card? Loan ke liye PAN card photo kyun chahiye?
+caller: Security ke liye, Rajesh ji. Policy hai hamari. Jab aap photo send kar denge, then I'll send you a link for final verification. Just one minute.
+receiver: Okay, wait. Sending now.
+caller: Thoda wait kijiye Rajesh ji. Aapka PAN card mila. Ab humko aapke bank account details chahiye. Account number aur IFSC code WhatsApp pe send kar dijiye. Verification ke liye sirf ek bar.
+caller: Rajesh ji, aapka account number aur IFSC code bhi mila. Ab aapko OTP milna chahiye, woh bhi share kar dijiye. Yeh last step hai, promise. Phir aapka loan approve ho jayega.

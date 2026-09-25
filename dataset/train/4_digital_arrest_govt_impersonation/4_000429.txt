@@ -1,0 +1,9 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: What? Suspicious items? What kind of items? I haven’t ordered anything.
+caller: Sir, our investigation suggests the package contains components linked to illegal cryptocurrency mining operations and possibly, drug trafficking. This is a very serious matter.
+receiver: This is ridiculous! I don’t know anything about cryptocurrency or drugs. There must be a mistake.
+caller:  Unfortunately, sir, the evidence is pointing towards you. To avoid legal complications and further investigation, we require a small processing fee of 15,000 rupees to clear the package and conduct a thorough verification. You can pay via UPI.
+receiver: Fifteen thousand rupees? For a package I didn't even order? And I need to pay before you even tell me what’s in it? This sounds like a scam. Can I speak to someone higher up?
+caller: Sir, time is of the essence.  The package is currently being held at Indira Gandhi International Airport and the window for processing is closing.  If the fee isn't paid within the next hour, we’ll be forced to escalate this to the higher courts, which will result in significantly higher penalties. I'm sending you the UPI ID now. Please confirm payment.
+receiver: Wait a minute… let me just call my lawyer. I'm not paying anything until I've spoken to them.
+caller: Sir, I understand your concern, but delaying this further will only worsen the situation. This is a standard procedure.  We have recorded our conversation.  For your security, I am disconnecting now.

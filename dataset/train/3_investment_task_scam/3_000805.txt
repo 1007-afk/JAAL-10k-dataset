@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Sharma? I’m calling from Global Task Solutions. We’re currently recruiting individuals for a simple online data entry project. It's very easy work, just verifying details on websites.
+receiver: Data entry? Okay. What kind of details? And how much can I earn?
+caller: It’s mostly rating apps and checking online store product descriptions – very straightforward. For every 100 tasks completed, you’ll receive ₹500. Payments are processed weekly via UPI. To get started, we just need a small registration fee of ₹300 to cover the access codes and training materials.
+receiver: ₹300 registration fee? That seems a bit unusual. Why do I have to pay to do a job?
+caller: It’s standard practice, sir. This ensures commitment and verifies your eligibility for the project. Plus, we send you the necessary login credentials and a short instructional video. It’s a small investment for a good earning opportunity. We’ve already allocated you project ID GT-789.
+receiver: Hmm… I’m still not sure. Can I see some proof that people are actually getting paid?
+caller: Absolutely! We can provide you with testimonials from previous successful participants. But before we do that, just to confirm, would you like to proceed with the registration and get your project ID activated? We have limited spots available.
+caller: Fantastic! To complete the registration, could you please share your UPI ID so we can transfer the access codes and training materials?

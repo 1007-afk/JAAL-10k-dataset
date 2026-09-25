@@ -1,0 +1,8 @@
+caller: Namaste ji, main Mr. Verma bol raha hoon. Aapke Jeevan Raksha Bima Yojana policy ke baare mein kuchh important information hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main Mr. Verma bol raha hoon. Aapki Jeevan Raksha Bima Yojana policy ki expiry date kab hai?
+receiver: Haanji, Mr. Verma. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thank you. Actually, our records show that your policy is expiring soon and we need to renew it for continued coverage. To ensure everything is correct, could you please confirm your date of birth?
+receiver: Acha? Policy expire ho raha hai?  Main sun raha hoon. Dekhiye, mera date of birth… woh toh abhi mere paas hai nahi. Kya aap thoda wait kar sakte hain? Main dekh kar batata hoon?
+caller: problem, sir. Aisa karte hain, main aapko ek secure website address bhej deta hoon. Usse aap apni details easily verify kar sakte hain. Woh bilkul safe aur official hai. Aapko kya lagta hai?
+receiver: Secure website address? Aisa bilkul nahi ho sakta, Mr. Verma. Insurance company kabhi bhi aise website send karta nahi. Yeh toh lag raha hai koi fraud hai. Aapko koi website nahi dekhni chahiye aur na hi mujhe koi details share karni chahiye. Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

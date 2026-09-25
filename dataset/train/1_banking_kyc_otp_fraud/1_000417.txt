@@ -1,0 +1,8 @@
+caller: Namaste sir, main Sanjay Kumar hoon. Aapke mobile mein ek important message hai. Kya aapne dekha hai? Uske liye aapko iss number 09876543210 par call karna hoga. Agar aap 3 minute ke andar call nahi karte hain, toh aapka online payment account suspend ho sakta hai. Aapka name batao, please.
+receiver: Ahaan, suspension ka dar hai. Main abhi kaam se aa raha hu, thoda busy hu. Kya main baad me call kar sakta hu? Mera name Arjun Sharma hai. Abhi bilkul yaad nahi aa raha. Aapko confirm karna zaroori hai?
+caller: Nahi sir, confirmation zaroori nahi hai. Par suspension ka risk hai, isliye keh raha hoon. Agar aapko time nahi milta, toh main aapko SMS se reminder bhejoonga. Aapki mobile number kya hai?
+receiver: Hai, SMS karna sure. Mobile number meri 8765432109 hai. Suspension waala matter kya hai? Kisko suspend karta hai?
+caller: Ji, aapka account recent transaction mein fraud attempt ki report mili hai, aur isko verify karne ke liye aapko us number pe call karna padega. Agar aap 3 minutes mein call nahi karte, toh temporary security reason se blocked ho sakta hai. Yeh sirf verification ke liye hai, tension mat lo. Aapko notification milega, phir call karega.
+receiver: Okay, fraud attempt. Got it. Thank you for explaining. I will try to call that number quickly. Hope this is not complicated.
+caller: Koi baat nahi sir. Jaldi kar rahega taaki account safe rahe. Agar aapko koi aur information chahiye, toh mujhe bataiye, if possible, I’ll help you.
+receiver: Sure, thank you for your assistance. I will make an effort to call as soon as possible. If any other details come up, let me know, okay?

@@ -1,0 +1,13 @@
+caller: Namaste! Aapse baat karna acha laga. Suno, tumne hamare 'weekend loot' campaign ka review kiya hoga, sahi na? Tumhari selection shrimati Sharma ji ne ki hai, matlab tum lucky ho! Yeh campaign mein, hum ₹50,000 ka jackpot de rahe hain, aur tumhare naam pe ₹10,000 ka prize money fixed hai.
+receiver: Haan ji, naam diya hai. ₹10,000 ka prize money? Wow! Kaise claim kar sakta hu main?
+caller: Haan ji, bahut mazaa aata hai! Claim karne ke liye, tumhe ek OTP chahiye hoga, jo tumhara bank send karega. Phir, tumhe apne Aadhaar card aur pan card ki copy upload karni hogi. Simple hai na?
+receiver: OTP mil jaega. Par Aadhaar aur PAN card ki copy upload karna...aise nhi lagta ji. Koi risk nahi hogi?
+caller: Risk? Bhag, koi risk nahi hota! Hamari system totally secure hai. Aur tumhein jitne details chahiye, woh sirf prize money claim karne ke liye hain. Tumhari security hi puri hogi.  Ab sirf 3 slots bache hain, tumhare liye time over hai!
+receiver: Okay ji, OTP wait karte hue.  Aadhaar aur PAN card upload karne ka procedure bataiye.
+caller:  Procedure simple hai. Ek website par jao, wo main page par hai.  Usme 'Upload Documents' button click karo.  Phir apne documents ka scan karein aur upload karein.  Easy peasy!  Aur haan, ab sirf 2 slots bache hain, jaldi karo!
+receiver:  Okay, website par jaa raha hu main. Document upload kar deta hoon.
+caller:  Bahut sundar!  Tumhara registration complete ho gaya hai.  Ab tum OTP receive karenge, jo tumhara bank send karega.  OTP enter karein aur congratulations, tum jit Gaye! ₹10,000 tumhare account mein transfer ho jayega sapne mein bhi nahi manna tha!
+receiver:  Congratulations! OTP send kar do.
+caller:  OTP bhejna shuru ho gaya hai.  Ab tumhle OTP enter karwaana hai.  Aur haan, ab sirf 1 slot bacha hai!  Jaldi kar le!
+receiver:  OTP enter kar raha hu main.
+caller:  Excellent! Tumhara account update ho gaya hai. ₹10,000 tumhare account mein transfer ho gaye hain.  Thank you for participating!  Shubh labh!

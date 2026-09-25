@@ -1,0 +1,7 @@
+caller: Namaste! Main Ankit, ‘SwiftLogistics’ se baat kar raha hoon. Aapke Flipkart order number FLP784923 ke delivery mein thodi dikkat aa rahi hai. Payment gateway mein error aa raha hai, isliye mujhe aapko call kar raha hoon.
+receiver: Hello? Flipkart order? Maine toh kuch order kiya hi nahi tha. Shayad aapko galat number mila hai?
+caller: Nahin, madam. System mein sabhi details sahi dikh rahi hain. Aapka naam Sunita Sharma hai, aur aapne ek smart watch order kiya tha. Payment clear nahi hua hai, isliye delivery hold ho gayi hai.
+receiver: Sunita Sharma main hoon, lekin maine kabhi Flipkart se kuch order nahi kiya. Yeh to scam lag raha hai.
+caller: Madam, scam bilkul nahi hai. Security ke liye, mujhe OTP verify karna hoga. Aapko jo OTP aaya hai, woh mujhe bata dijiye, taaki hum delivery process complete kar sakein.
+receiver: Yeh bahut hi suspicious hai. Main koi OTP nahi dene wali. Aapko mera number report karna chahiye.
+caller: Madam, delay hone se aapko damage ho sakta hai. Aapka package return bhi ho sakta hai. Jaldi se OTP dijiye, warna aapka order cancel ho jayega aur aapko phir se order karna padega.

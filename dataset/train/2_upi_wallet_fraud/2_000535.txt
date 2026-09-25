@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Gupta, QuickCash Rewards se bol raha hoon. Aapka UPI ID ek lucky draw mein select hua hai aur aapko ₹5000 ka cashback milne wala hai!
+receiver: ₹5000? Woh toh bahut achha hai! Kaise hoga?
+caller: Haan ji! Cashback claim karne ke liye, aapko sirf ₹250 ka processing fee deposit karna hoga. Yeh fee humare bank account mein UPI ke zariye transfer karein - QuickCashRewardsPay@upi.
+receiver: ₹250? Processing fee? Cashback toh free milna chahiye na?
+caller: Sir, security reasons se fee lagti hai. Yeh humare system ko verify karta hai aur aapka account safe rakhta hai. Jab aap ₹250 deposit kar denge, ₹5000 instant aapke UPI wallet mein transfer ho jayega!
+receiver: Theek hai, main transfer karta hoon. Kahan karta hoon? Payment confirmation aane ke baad kya karna hai?
+caller: Payment confirmation aane ke baad, humko ek screenshot bhejen aapko WhatsApp par - 91XXXXXXXXX. Tab aapka cashback instant credit ho jayega. Jaldi karein, offer limited time ke liye hi hai!

@@ -1,0 +1,7 @@
+caller: Hello, is this Rajesh Verma? My name is Akash, calling from Zomato customer care. We’ve noticed an unusual transaction of ₹4,750 on your account. It appears someone attempted to place a very large order using your payment details.
+receiver: ₹4,750? Zomato? That's impossible! I haven’t ordered anything like that. What's going on?
+caller: Sir, this is a serious security breach. To prevent further fraudulent activity, we need to verify your identity and secure your account. I need you to share the OTP that we just sent to your registered mobile number. It's a one-time password for verification purposes only.
+receiver: OTP? Why do I need to give you an OTP? Shouldn't I be calling Zomato myself? This sounds a bit fishy, Akash.
+caller: Sir, to ensure your safety and prevent further unauthorized transactions, it's our policy to verify through OTP. Time is of the essence, sir; the fraudulent order is still processing and we need to cancel it quickly. Just give me the OTP, and I'll take care of everything.
+receiver: Okay, wait a second. Let me just quickly check the Zomato app myself. Give me one minute.
+caller: Sir, please hurry. The order is about to be dispatched and once it does, we won't be able to reverse the charges. The customer has already selected a delivery address. We don’t want you to be charged for something you didn’t order! Please give me the OTP.

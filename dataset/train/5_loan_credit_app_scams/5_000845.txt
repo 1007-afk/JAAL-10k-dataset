@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickCash Loans. We saw your online application and you’re pre-approved for a personal loan up to ₹2 lakhs. Very easy process!
+receiver: Oh, really? That's good news. I was looking for a loan for some medical expenses.
+caller: Fantastic! We can definitely help with that. To finalize the loan, we need a small processing fee, just ₹3,000 to verify your account. You can deposit it using UPI to this ID: quickcashloan.pay.
+receiver: ₹3,000? That seems a bit much.
+caller: Priya ji, it’s a security measure to prevent fraud. Without it, we can't guarantee the loan.  If you don't pay now, we'll have to cancel the approval immediately. And you know, if anything happens to you and your family, we will need to disclose this information to people you know for security.
+receiver: Okay, fine. I’ll do it. Just give me the UPI link again.
+caller: Very wise decision, Priya ji. You won't regret it. Just transfer to quickcashloan.pay. Once it reflects, we’ll send the loan amount instantly. Also, we need a selfie of you holding a valid ID card.

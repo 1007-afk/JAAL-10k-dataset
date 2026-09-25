@@ -1,0 +1,7 @@
+caller: Hello? Sir, this is the Customs Department calling from Delhi airport. We have intercepted a package registered to your address containing suspicious items.
+receiver: Kya? Package? Mujhe toh koi package register karne ka yaad nahi. Kaise interception hua?
+caller: Sir, the package was sent from abroad. Our scanners detected illegal goods, potentially violating the Import Act. We need to verify your identity and clear this up quickly. We need your bank account details for a small processing fee.
+receiver: Bank account details? Customs Department ko mere bank account details kyun chahiye? Yeh thoda… suspicious lag raha hai. Aur illegal goods? Main toh kabhi kuch illegal nahi order kiya.
+caller: Sir, it’s a standard procedure. We need to ensure you weren’t unknowingly involved.  The processing fee is just ₹8,500 to cover verification costs and to release the package to you.  We'll need the account number, IFSC code, and the last four digits of your card to process it quickly.
+receiver: ₹8,500? Yeh toh bahut zyada hai! Aur card details bhi? Main police mein complaint karunga agar kuch gadbad hui toh.
+caller: Sir, please understand, delaying this will result in legal action. We need to resolve this immediately. It's a small price to pay to avoid further complications and getting your package back. Please provide the information so we can avoid further delays and potential legal charges.

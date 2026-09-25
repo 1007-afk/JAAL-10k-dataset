@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI bank se Priya Sharma bol rahi hoon. Aapke naam par ek transaction attempt hua hai Rs 8,500 ka Nepal mein. Account secure karne ke liye, abhi call karein aur verify karein.
+receiver: Nepal? Mujhe toh koi transaction yaad nahin. Main toh aaj kal ghar par hi hoon. Yeh kya ho raha hai?
+caller: Ji ji, aapko chinta mat karein. Yeh fraud transaction hai aur hume isko rokna hai. Verify karne ke liye, mujhe aapka Aadhaar card ka last 4 digits aur OTP chahiye jo aapko SMS se milega.
+receiver: Aadhaar card number? Aur OTP bhi? Mujhe yeh thoda risky lag raha hai. ICICI bank toh aise nahi karta.
+caller: Ma’am, security ke liye hi humein yeh details chahiye. Account suspend hone se bachane ke liye, fast action lijiye. OTP SMS se he mil sakta hai, online portal se nahi.
+receiver: Theek hai, ek minute. Mein ICICI bank website par check karti hoon. Aap thoda wait karein. Aur mujhe bataiye, koi reference number hai is call ka?
+caller: Ji ji, reference number ICICI/SEC/2024/789 hai. Please check kar lijiye aur jaldi se OTP bata dijiye. Waqt bahut kam hai, ma'am.

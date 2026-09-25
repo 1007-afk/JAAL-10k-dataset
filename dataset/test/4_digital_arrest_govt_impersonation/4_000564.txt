@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is a formal notification from the Directorate of Revenue Intelligence, Mumbai. We've detected unusual activity linked to a parcel registered under your name, possibly containing contraband.
+receiver: Hello? Haan, main Priya Sharma hoon. Parcel? Kya baat kar rahe hain aap? Mujhe koi parcel nahi mila hai.
+caller: Ma'am, this is serious. Our records indicate a high-risk parcel intercepted at the airport. It requires immediate investigation. To clear this up and prevent legal complications, you’ll need to pay a processing fee of ₹15,000.
+receiver: ₹15,000? Yeh kaise ho sakta hai? Main toh kabhi parcel nahi bheja. Yeh koi bakwaas hai. Aap kaun bol rahe hain?
+caller: Ma'am, I am Inspector Verma from DRI. This is not a negotiation. Failure to comply will result in your immediate arrest and prosecution under the Narcotic Drugs and Psychotropic Substances Act. The payment must be made through UPI to the provided QR code. We are monitoring your call.
+receiver: Inspector Verma? Arrest? Yeh toh seedhi scam hai! Main police mein complaint karungi. Aapka QR code? Mujhe kuch nahi dena hai. Main call cut kar rahi hoon.
+caller: Ma'am, please don't disconnect! This is a final warning. Time is of the essence. Just complete the payment, and we’ll immediately close the case. Think about your family, Priya Sharma!

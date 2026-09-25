@@ -1,0 +1,8 @@
+caller: Hello, this is Akash calling from BlueDart Courier. We have a package addressed to you, but there's a small customs clearance issue. Can you confirm your address for verification?
+receiver: Haan, ji. Main hi hoon [Victim's Name]. Address bataoon?
+caller: Yes, please. Also, there's a small fee of ₹750 required to clear the customs. It's a standard procedure. You can pay online through a secure link I’ll send you.
+receiver: ₹750? Kuch pakk hai ye? Mera toh koi order nahi tha. BlueDart se hi pata chala?
+caller: Yes, madam. It's a standard fee for international shipments. I can give you the tracking number. It's BD1234567890. Please check and confirm the fee to avoid delivery delays. The link is secure, don't worry.
+receiver: BD1234567890...Hmm, mujhe BlueDart app mein tracking number check karne do.
+caller: Absolutely, madam. While you check, just confirm if you’re using a smartphone? We need to ensure compatibility for the payment gateway.
+receiver: Mujhe thoda doubt ho raha hai. Main abhi check karti hoon, phir baat karti hoon.

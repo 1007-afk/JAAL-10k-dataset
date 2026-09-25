@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from QuickCredit India. We've noticed you recently applied for a personal loan on our website. We have good news - your application is pre-approved for ₹25,000! Just a few quick details to confirm and we’ll transfer the funds. Can you please confirm your full name and date of birth?
+receiver: Ji, mera naam Rajesh Kumar hai. Birthday 15 August 1988 hai.
+caller: Wonderful, Rajesh ji! Everything looks good. Now, to activate your loan and prevent fraud, we require a small processing fee of ₹1,500. This will secure your account. You can transfer it to the UPI ID: quickcredit.pay. Please send the screenshot of the transaction.
+receiver: ₹1,500? But the website didn't mention anything about a processing fee.
+caller: Yes, sir, this is a new security protocol. Very important to secure your funds. Many people are trying to scam others now. Just ₹1,500, and your loan will be released immediately. You'll receive the full ₹25,000 plus interest within an hour. Please, don’t delay.
+receiver: Okay, I'll transfer it. But I want the ₹25,000 as promised.
+caller: Absolutely! Once we receive the confirmation of the payment, we will instantly activate your loan. You'll get an OTP on your registered mobile number to verify the transfer. Send the screenshot and we will process it right away. It's a very simple and secure process.

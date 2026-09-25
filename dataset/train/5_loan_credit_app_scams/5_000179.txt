@@ -1,0 +1,8 @@
+caller: Namaste! I’m calling from QuickCash Solutions. We’ve noticed you recently applied for a personal loan online. Just confirming your details to process it quickly. Can I please have your full name and date of birth?
+receiver: Yes, hello. My name is Priya Sharma, and my date of birth is 12/05/1992.
+caller: Thank you, Priya ji. Excellent. Your application looks promising. To finalize the loan of ₹75,000, we just need a small processing fee of ₹5,000 as a security deposit. Once the loan is disbursed, this will be refunded. You can transfer it to the account number 1234567890, IFSC code XYZ001.
+receiver: ₹5,000? But I thought the loan was supposed to be instant, and there were no upfront fees mentioned.
+caller: Priya ji, security is very important. This is standard procedure to prevent fraud. Think of it as insurance for your loan. We wouldn’t want any issues later. Plus, we have a special offer – pay within the next hour, and we’ll increase your loan amount to ₹85,000.
+receiver: I'm really not comfortable with this. It sounds suspicious. I'm going to have to think about it. Can I call you back?
+caller: Priya ji, please don't delay! This offer is only valid for the next 30 minutes. We also have a policy to send a photo to your contacts if the payment is not received. It's for verification purposes only, so we can prove you have taken the loan.
+receiver: What?! You’re threatening me? I’m reporting this number. Goodbye.

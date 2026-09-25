@@ -1,0 +1,7 @@
+caller: Namaste! Mai Vodafone customer care se Rohit bolta hoon. Aapke Vodafone account mein ek suspcious transaction detect hua hai. ₹12,000 ka payment attempt kiya gaya tha.
+receiver: ₹12,000? Kaunsa transaction? Mujhe toh koi notification nahin aaya. Mai toh koi payment nahin kiya tha.
+caller: Haan ji, sir. System mein dikh raha hai. Security ke liye, mujhe aapka OTP pata karna hoga. Woh OTP aapko SMS se milega.
+receiver: OTP? Par aise kaise? Vodafone toh kabhi OTP maangta nahin hai. Yeh kuch ghalat lag raha hai.
+caller: Sir, time bahut kam hai. Account block hone se pehle, OTP batao jaldi karo. Account secure karna important hai. Main aapko verify karta hoon.
+receiver: Wait a minute. Mai abhi Vodafone ke official number se check karta hoon. Mujhe yeh theek nahin lag raha hai.
+caller: Sir, please hurry. Account block ho jayega. Wohi OTP batao. ₹12,000 ka loss hoga. Jaldi karo!

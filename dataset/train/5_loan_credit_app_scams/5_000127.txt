@@ -1,0 +1,8 @@
+caller: Namaste! Calling from QuickCash India. I see you’re an active online user. Are you looking for a quick loan to handle some urgent expenses? It’s very simple and fast. Can I get your name, please?
+receiver: Hello? Yes, my name is Anjali Verma. I do have some bills piling up, actually.
+caller: Anjali ji, great! QuickCash India specializes in helping people just like you. We offer instant loans up to ₹2 lakhs with minimal paperwork. No credit checks needed. To get started, we just need a small processing fee of ₹750 to verify your account.
+receiver: ₹750? That seems a bit high for just processing. And how will I repay this?
+caller: Anjali ji, this fee secures your loan and prevents fraud.  Repayment is very flexible – we work with you. Once your loan is approved and disbursed, we'll send you a repayment schedule. It's designed to be manageable. Send the ₹750 to this UPI ID: quickcash.pay750. Once that’s done, your ₹2 lakh will be in your account within the hour.
+receiver: Okay, I’ll try it. I’m really in a tight spot.
+caller: Wonderful! Anjali ji, you won’t regret this. We’re here to help you get back on your feet.  Remember, don't share this information with anyone else. This is strictly confidential. Once the money is transferred, we’ll send you the loan agreement and start the approval process.
+receiver: Alright, I’ve sent the money. What happens next?

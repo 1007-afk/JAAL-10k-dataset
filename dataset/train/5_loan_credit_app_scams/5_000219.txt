@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? I’m calling from QuickCash Solutions. We’ve reviewed your application for a personal loan and you’re pre-approved for a significant amount! Just a few formalities to complete.
+receiver: Oh, really? That’s good news. I need about 3 lakhs for some urgent medical bills.
+caller: Absolutely, Mr. Kumar. We can certainly help with that. To verify your identity and finalize the loan, we need you to upload a scanned copy of your Aadhaar card and a recent photograph. You can upload it to our secure portal: QuickCashSolutions.online/verify.
+receiver: QuickCashSolutions.online? I'm a little hesitant about uploading sensitive documents to a new website.
+caller: Sir, it's perfectly secure. We use end-to-end encryption. Think of it as an investment in securing your loan.  Plus, we've noticed a small discrepancy in your PAN card details.  Upload the documents, and we'll sort it out immediately - otherwise, we'll have to deny the loan.
+receiver: Okay, I’ll try uploading them now. Let’s hope everything goes smoothly.
+caller: Excellent!  Now, just to be absolutely certain about your details and prevent any fraud, we need a small processing fee of ₹5,000 to be transferred to this account: [Provides a long, convoluted bank account number]. This is a one-time fee.

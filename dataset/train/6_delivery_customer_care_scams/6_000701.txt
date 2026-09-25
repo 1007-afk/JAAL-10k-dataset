@@ -1,0 +1,7 @@
+caller: Namaste, sir? Yeh Kalyan Jewellers se Vishal bol raha hoon. Aapke naam par ek order aaya hai, amount ₹12,500 ka. Aapne order kiya tha?
+receiver: Arre, Kalyan Jewellers? Maine toh kuch order nahi kiya tha. Koi mistake hoga.
+caller: Haan sir, system mein dikh raha hai. Shayad aapne accidently confirm kar diya hoga. Abhi payment process ho raha hai. Aapko cancel karna hai toh kuch verification karna padega.
+receiver: Verification? Kya verification karna hai? Mujhe toh kuch samajh nahi aa raha hai.
+caller: Haan sir, security ke liye OTP chahiye. Woh aapke phone par aayega. Woh mujhe bataiye, main process complete kar dunga. Jaldi karna hai, sir, otherwise payment ho jayega aur aapko loss hoga.
+receiver: OTP? Wait, wait… ₹12,500? Mujhe kuch gadhbad lag rahi hai. Main police mein report kar dunga.
+caller: Sir, aapko fraud lag raha hai? Main Kalyan Jewellers se hi hoon! Sir, jaldhi bataiye OTP, warna aapko bahut nuksan hoga!

@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay se bol raha hoon. Aapko PhonePe se ek achha cashback offer mil raha hai.
+receiver: Kya offer hai? Batao, please.
+caller: Aapke PhonePe wallet mein ₹1000 cashback offer hai, lekin isko claim karne ke liye, aapko ek small processing fee bhar deni hogi.
+receiver: Processing fee? Kitni bhar deni hogi? Aur yeh offer sahi hai kya?
+caller: Sirf ₹50. Aap apne PhonePe app se ₹50 UPI ke zariye humare account mein transfer kar dijiye. Jab ₹50 transfer ho jayega, cashback automatically aapke wallet mein credit ho jayega.
+receiver: ₹50? Aur UPI ID kya hai? Mujhe thoda doubt ho raha hai.
+caller: UPI ID hai 7890123456@ybl. Isko jaldi se kar lijiye, offer time-limited hai! Jaldi karo sir, warna miss ho jayega.
+receiver: Okay, theek hai. Main try karta hoon.

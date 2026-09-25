@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mera naam Rohit hai, mai LoanConnect se bol raha hoon. Aapke naam par ek personal loan approve ho gaya hai, ₹75,000. Approve hone ke liye kuch details confirm karna hai.
+receiver: Oh, really? That's good news! I've been needing a loan. What details do you need?
+caller: Sir, bas verification ke liye aapka OTP (One Time Password) chahiye. Hamare system mein aapka Aadhaar card register hai, isliye sirf OTP se confirm ho jayega. Aapko OTP ₹75,000 ke loan ke liye verify karna padega.
+receiver: An OTP? Okay, but how will I know it's genuine? I'm a little worried about fraud these days.
+caller: Sir, bilkul genuine hai. LoanConnect ek registered company hai. Aapko OTP message aayega, woh mujhe bataiye. Jab OTP mil jayega, tab loan account activate ho jayega aur aapko ₹75,000 aapke account mein transfer ho jayenge. Koi tension nahi lene ki baat hai, sir.
+receiver: Alright, I got the OTP. It's 487219.
+caller: Thank you sir! Ab loan activate ho gaya hai. Lekin sir, loan processing charges ₹5,000 hain, jo aapko pehle clear karne hongay. Bas ₹5,000 deposit kar dijiye, ₹75,000 aaj hi aapke account mein transfer ho jayenge. Hamara bank detail main aapko SMS karega.

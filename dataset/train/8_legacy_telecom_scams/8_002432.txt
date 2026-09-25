@@ -1,0 +1,8 @@
+caller: Namaste sir, main Reliance Jio se baat kar raha hoon. Aapki mobile number 24 hours mein suspend hone wali hai. Kya aap isko renew karna chahenge?
+receiver: Reliance Jio se? Meri number suspend hone wali hai? Kaise hua yeh? Mein toh recently upgrade kiya tha. Aapka name jaan sakte hain, please? Aur suspension ka koi reason todi hai kya?
+caller: Ji sir, absolutely. Aapka naam kya hai, sir? Woh, technically, aapke account mein recharge ki expiry date ho gayi hai, isliye suspension aa gaya hai. Hum aapki number verify karne ke liye aapka DOB chahiye, just to confirm that you are the rightful owner.
+receiver: Okay, fine. Mera naam hai Amit Kumar. To, means recharge expired ho gaya, isliye suspend? Theek hai, samajh gaya.  Aap number verify karne ke liye kya kareinge?
+caller: Ji Mr. Kumar.  Aapko number renew karne ke liye, mujhe aapke last four digits of your Aadhaar card ki jaankari chahiye. Aur, for verification purpose, kya aap mujhe apna year of birth bata sakte hain? Ye sab details sirf aapki number suspend hone se bachane ke liye hain.
+receiver: Ji, main Amit Kumar hoon.  Mere Aadhaar ka last four digits hai 7890.  Meri year of birth hai 1st January 1988.  Ab number renew ho jayega na? Koi extra charge bhi nahi lagega?
+caller: Mr. Kumar, certainly.  Aapke provided details ke hisaab se aapki number renew ho gayi hai.  Ab aapko koi inconvenience nahi hogi.  Aapko koi aur assistance chahiye?
+receiver:  Achha, renew ho gayi?  Bahut shukriya aapne.  Aur nahi sir, abhi toh koi requirement nahi hai.  Bas thoda confusion tha.  Agar baad mein koi problem hui toh main call karunga. Thank you so much!

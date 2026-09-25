@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, FastLoanIndia se. Aapko jald se jald paisa chahiye? Kisi urgent medical bill ke liye, ya phir ghar ki emergency repair ke liye? Hum 24/7 instant loan provide karte hain.
+receiver: Haan, actually, mere papa ko operation karna hai, aur paise thode kam hai. Kitna time lagega?
+caller: Bilkul! Hum aapki madad karenge. Sirf kuch basic details aur documents chahiye. Account number aur OTP bhi, verification ke liye.
+receiver: OTP? Why do you need my OTP? I heard that’s risky.
+caller:  Sirf verification, madam! Security ke liye.  Agar aap OTP nahi doge toh hum kaise pataa karenge ke aapka account sahi hai?  Aapko loan approve ho sakta hai.
+receiver:  Okay, but how much interest will I have to pay back?
+caller: Interest?  Thoda sa hi!  Main baat yeh hai ke aapko jald se jald paisa mil jayega.  Abhi OTP send kijiye, aur main aapko approve kar dunga.  Kal tak aapko paisa account mein mil jayega.
+receiver: Wait, something feels wrong. I’m going to call my family.

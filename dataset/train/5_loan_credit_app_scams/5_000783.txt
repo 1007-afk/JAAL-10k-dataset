@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from LoanQuick Solutions. We've noticed you applied for a loan recently, and there's a quick verification needed to release the funds. Please confirm your details by calling this number: 9876543210. It’s urgent!
+receiver: LoanQuick Solutions? I don't recall applying for a loan. Can you tell me more about this? What loan was I applying for?
+caller: Absolutely! We processed an application for a ₹50,000 instant loan, sir. Just a formality to prevent fraud. To complete the process, we require a small security deposit of ₹2,500 to activate your account. It's refundable, of course.
+receiver: ₹2,500? That's a lot for a security deposit. I haven't even received the loan yet! And I really don’t remember applying. Can you send me some documentation?
+caller: Sir, unfortunately, due to high volume, we can't send documents right now. This is a time-sensitive offer, and we need the deposit urgently to secure your loan. Otherwise, someone else might take it. If you don’t pay, we’ll have to report a suspicious activity and your credit score will be affected.
+receiver: Wait a minute. This sounds like a scam. I’m not paying anything. I’m ending this call.
+caller: Sir, please don't do that! We have your personal details, and if you don't cooperate, we will send morphed images of you to your contacts to embarrass you. Pay ₹2,500 right now and everything will be fine.

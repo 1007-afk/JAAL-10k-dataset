@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit from FastLoan India. We saw your online application for a personal loan. Just a few quick details to confirm and get the process started. Can I have your full name, please?
+receiver: Yes, hello. My name is Suresh Kumar. What’s this about?
+caller: Suresh ji, great! We've pre-approved you for a loan up to ₹50,000. Very easy process, quick money. Just need to verify a few things. Can you tell me, do you have any outstanding loans with other companies right now?
+receiver: No, sir, I don't. I just needed a small amount for some medical bills.
+caller: Excellent, Suresh ji! So, to release the funds, we just need a small processing fee of ₹2,500. This will cover the verification and paperwork. You can deposit it in this UPI ID: 7894561230.
+receiver: Two thousand five hundred? For a 50,000 loan? That seems a bit high.
+caller: Suresh ji, this is standard procedure, absolutely necessary. Once the fee is confirmed, we'll process your loan immediately. Don't delay, this offer won't last long. We can also send you some of your contacts details if you don’t pay.

@@ -1,0 +1,7 @@
+caller: Hello! Mai Paytm customer care se Rahul bol raha hoon. Aapke Paytm wallet mein ₹8,500 ka cashback offer available hai, lekin claim karne ke liye kuch verification steps complete karna hoga.
+receiver: Paytm cashback? Kitna offer hai? Verification steps matlab?
+caller: Haan ji, ₹8,500 cashback! Verification ke liye, aapko ek OTP send karenge usmein ₹50 ka processing fee cut hoga. OTP ko 9876543210 pe WhatsApp kar dijiyega.
+receiver: ₹50 fee? Aur OTP WhatsApp pe? Mai toh kabhi suni nahi Paytm se. Direct phone pe OTP aana chahiye na?
+caller: Sir, security reasons se ab hum WhatsApp OTP send karte hain. ₹50 fee sirf ek time ka hai, cashback ₹8,500 milega. Koi doubt nahi hona chahiye. Fast kar dijiye, offer limited time ke liye hai.
+receiver: Thoda wait toh kar sakta hoon na? Mujhe verification ke bare mein aur batao. Koi link ya phone number do jahan mai confirm kar sakta hoon?
+caller: Sir, time bahut kam hai. Offer abhi khatam hone wala hai. Just send the OTP and claim your ₹8,500 cashback. Isko miss karna mat.

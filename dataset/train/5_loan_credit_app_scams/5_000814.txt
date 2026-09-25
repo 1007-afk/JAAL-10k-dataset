@@ -1,0 +1,10 @@
+caller: Namaste sir, mera naam Rohit hai, FastLoan se baat kar raha hoon. Aapne hamari website par ₹10,000 ka loan apply kiya tha, verification ke liye call kar raha hoon. Aapke aadhaar card ka scan ready hai kya?
+receiver: Haan, Rohit ji. Aadhaar card toh hai. Kya aur kuch chahiye?
+caller: Ji sir, bahut achcha. Ab aapke bank account ka ek OTP milega. Woh mujhe bataiye. Verification ke liye, ek minute.
+receiver: Haan, wait karo. Aa gaya hai. Yeh hai 987654.
+caller: Ji sir, OTP 987654 confirm ho gaya. Ab aapko ₹10,000 loan approve ho gaya hai. Lekin processing fee ke rup mein ₹1500 transfer karne honge. ₹1500 Paytm ya Google Pay se kar dijiye.
+receiver: ₹1500? Loan milna hai aur fee bhi dena padega? Yeh to zyada ho gaya.
+caller: Sir, rule hai. Processing fee bina bina loan nahi milega. Agar fee nahi denge, toh loan reject ho jayega. Aage bahut pareshaan honge aap. Urgent hai sir, fast pay kijiye.
+caller: Sir, aapki security ke liye ye essential hai. Otherwise, loan process block ho jayega aur aapko phir se apply karna padega. Abhi ₹1500 transfer kijiye.
+receiver: Theek hai, mein dekh leta hoon.
+caller: Sir, time barbaad na karein. Aapko abhi ₹1500 transfer karna hai, warna aapko bahut nuksaan ho sakta hai.

@@ -1,0 +1,6 @@
+caller: Hello sir, this is Paytm customer care. We've noticed some unusual activity on your Paytm wallet and for security reasons, we need to verify it.
+receiver: Unusual activity? What kind of activity? I haven't done anything different. My Paytm number is [invented number, e.g., 9876543210].
+caller: Sir, there was a request to send ₹5000 to an unknown UPI ID. To prevent fraud, we need to confirm this transaction wasn't unauthorized. We will just need an OTP to confirm.
+receiver: ₹5000? That's a lot! I definitely didn't make that request. Wait a minute, can you give me your employee ID? I want to check if you're a genuine Paytm representative.
+caller: Sir, our system doesn’t provide employee IDs to customer service representatives. It's a security protocol. We're just trying to protect your money. Just share the OTP and we'll reverse the transaction immediately.
+receiver: Reverse the transaction? Sounds fishy. Why can’t you tell me your ID? And why do I need to share an OTP when you're supposedly going to reverse it? I’m calling Paytm customer care directly now.

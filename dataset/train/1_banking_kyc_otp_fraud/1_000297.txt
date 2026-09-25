@@ -1,0 +1,16 @@
+caller: Namaste ji, main Deepak Kumar hu. Aapke SBI account mein ek important notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main aapke bank se baat kar raha hoon, Mr. Patel. Aapke account mein ek small issue hai jo hamaare ne dekha hai.
+receiver: Haanji, Mr. Patel. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks for waiting. Actually, we’ve noticed a suspicious transaction on your card recently. We want to make sure everything is alright and prevent any potential loss. Could you please tell me the last six digits of your ATM card?
+receiver: Acha? Suspicious transaction? ATM card?  Main toh bahut confused hoon. Dekhiye, ATM card ka last six digits… woh toh maine kabhi bhi kisi ko nahi bataa. Kya aap thoda wait kar sakte hain? Main check karunga.
+caller:  Koi problem nahi, sir.  Aise karte hain. Main aapko ek website address bhej deta hoon.  Uss website par aap apne details enter kar sakte hain.  Yeh totally secure hai, promise!  Aapko kya laga rahi hai?
+receiver: Website address?  Bhi nahi, Mr. Patel. Bank kabhi bhi aisa website nahi dega. Yeh toh kamaal hai! Aapko koi website send karne wala nahi hona chahiye aur na hi mujhe koi information dhena chahiye.  Aapka naam batao aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.
+caller: Namaste ji, main Deepak Kumar hu. Aapke SBI account mein ek important notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main aapke bank se baat kar raha hoon, Mr. Patel. Aapke account mein ek small issue hai jo hamaare ne dekha hai.
+receiver: Haanji, Mr. Patel. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks for waiting. Actually, we’ve noticed a suspicious transaction on your card recently. We want to make sure everything is alright and prevent any potential loss. Could you please tell me the last six digits of your ATM card?
+receiver: Acha? Suspicious transaction? ATM card?  Main toh bahut confused hoon. Dekhiye, ATM card ka last six digits… woh toh maine kabhi bhi kisi ko nahi bataa. Kya aap thoda wait kar sakte hain? Main check karunga.
+caller:  Koi problem nahi, sir.  Aise karte hain. Main aapko ek website address bhej deta hoon.  Uss website par aap apne details enter kar sakte hain.  Yeh totally secure hai, promise!  Aapko kya laga rahi hai?
+receiver: Website address?  Bhi nahi, Mr. Patel. Bank kabhi bhi aisa website nahi dega. Yeh toh kamaal hai! Aapko koi website send karne wala nahi hona chahiye aur na hi mujhe koi information dhena chahiye.  Aapka naam batao aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

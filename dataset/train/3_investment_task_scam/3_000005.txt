@@ -1,0 +1,15 @@
+caller: Namaste! Is this Mr. Sharma? Haan, mai bol raha hoon. Maine aapke liye ek bahut hi achcha deal mila hai, ekdam special. Kya aapko pata hai Mumbai ka sabse famous cricket coaching centre? Actual practice sessions, live streamed directly on your phone. Kaise lagta hai, acha hai na?
+receiver: Haan, main Mr. Sharma hoon. Cricket coaching? Mein toh sirf my son, Rohan ke liye coach ki enquiry karne came. What’s going on?
+caller: Rohan! Excellent! That’s exactly who we were looking for. See, we’re running a limited-time offer on premium access to our coaching sessions. Imagine, Rohan getting expert guidance from top players, all from his own phone! It's a game changer, truly.
+receiver: Premium access? Kitne paise lagenge? And what kind of top players are we talking about?
+caller: Just a small investment, sir – only ₹500 per month. We’ve got former Indian international cricketers involved, plus some very talented young coaches. They’ll be sharing drills, strategies… everything! You won’t believe how much Rohan can improve.
+receiver: ₹500? Hmm, mein soch raha hoon. My son is just 12 years old. Aur online coaching bhi nowadays available hai.
+caller: Absolutely! But this isn’t just any online coaching, sir. This is personalized feedback, real-time interaction. Plus, you get access to our exclusive WhatsApp group where parents can discuss techniques and share tips. It's like having a dedicated support system for Rohan’s cricket journey. Believe me, it’s worth it!
+receiver: WhatsApp group? Okay, okay. Tell me more about these ‘former Indian international cricketers’. Are they actually coaching?
+caller: Yes, absolutely! We have Sachin Tendulkar’s cousin, Vikram Singh, and another legend, Kapil Dev’s nephew, Rahul Verma, both actively involved. They're giving individual attention to promising youngsters. Don’t miss out on this opportunity!
+receiver: Sachin ka cousin aur Kapil ka bhai? Seriously? This sounds too good to be true.  Mein abhi calls cut kar deta hoon.
+caller: Wait, wait! Please don’t go! Just give us one more minute. We’re offering a free trial period - just ₹100 for the first month. Think about it, sir! A chance for Rohan to learn from the best!
+receiver: ₹100? Fine, tell me how to sign up.
+caller: Great! Just send an SMS with “Cricket Trial” to 9876543210. We’ll send you the details immediately. Thank you so much! Have a wonderful day!
+receiver: Okay, sending now. Bye.
+caller: Shukriya! Enjoy the day!

@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma?
+receiver: Haan, bolo. Who’s speaking?
+caller: Ji, this is Rahul from CryptoGainz. We’ve noticed your recent interest in cryptocurrency. We're offering a limited-time opportunity to invest in a new altcoin, StellarX, with guaranteed 30% returns in just 7 days.
+receiver: 30% in 7 days? That’s a lot. Which platform is this? I haven't heard of CryptoGainz.
+caller: CryptoGainz is a private investment firm. We don’t advertise publicly. To start, you need to deposit a small amount – just ₹5000 – to activate your account and receive the StellarX tokens.
+receiver: ₹5000? And how do I send the money? Is there a secure payment gateway?
+caller: Yes, sir. Please send it via UPI to this ID: cryptogainz.payments@axis. Simple and secure. Once the transaction is confirmed, your StellarX tokens will be credited to your account immediately.
+receiver: Wait a minute. I’m not comfortable sending money to an unknown UPI ID based on a phone call. Can you send me a website link or some official documentation?

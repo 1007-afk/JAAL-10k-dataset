@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapka Jio number hai na? Ji, main is baat ke liye call kiya tha ki aapko ab premium support services ke liye free trial mil rahi hai. Just dial 555 from your Jio mobile.  Aur koi details chahiye aapko?
+receiver: Haan ji, sun raha hoon. Achha, matlab main is premium support se kaise fayda uthayen sakta hoon?
+caller: Ji bilkul! Kisi bhi technical problem ya network issue ke liye aap 555 dial kijiye aur humare expert technicians aapki madad karenge.  Iske aloo, koi aur baat thi aapki?
+receiver: Nahi ji, aur kuch nahi. Bas mujhe yeh pata hona chahte the ki yeh trial kitna chalta hai?
+caller: Ji bilkul! Yeh trial 30 din ke liye free hai, aur phir aapko subscription fee milega. Parantu, isliye hum aapko free trial de rahe hain ki aap check kar sakein ki yeh aapke liye sahi hai. Isse aloo, koi aur baat thi aapki?
+receiver: Nahi ji, thoda confusion hai. Bas yeh jaan na tha ki subscription fee kitna hoga.
+caller:  Subscription fee ₹299 per month hota hai. Agar aapko yeh offer pasand nahin aaya toh aap koi bhi plan select kar sakte hain. Isse aloo, koi aur question hain aapke Bharat Telecom benefits ke baare mein? Bas ek small detail confirm karna tha, aapka registered Jio number kya hai taaki main yeh verify kar sakoon ki aapke account mein yeh offer correctly activate ho gaya hai?
+receiver: Haan ji, mera Jio number hai [Your Jio Number]. Aap verify kar lijiye.

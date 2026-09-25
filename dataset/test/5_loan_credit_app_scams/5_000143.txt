@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Deepak from LoanExpress. We've noticed you recently searched for quick loans online. We're offering instant approval, very simple process. Interested?
+receiver: LoanExpress? I don’t remember applying for anything. What kind of loans are we talking about?
+caller: Sir, we have personal loans, business loans, everything. Amounts up to ₹5 lakhs can be approved within minutes. Just need a few details to verify your eligibility. It’s all online, very easy.
+receiver: Okay… what details do you need? And what’s the interest rate like? Seems too good to be true.
+caller: Just your Aadhaar card number and a recent photograph for verification, sir. The interest will be a little higher than a bank, around 22%, but the approval is almost instant. No lengthy paperwork or credit checks.
+receiver: 22% is quite high. And you need my Aadhaar? I’ve heard that’s risky. Can I see some documentation or a website?
+caller: Sir, for fast approval we need Aadhaar. Website is under maintenance right now, but rest assured this is a legit service. We just need you to transfer ₹5000 as processing fee to this UPI ID: 9876543210. Once done, the loan will be disbursed immediately.

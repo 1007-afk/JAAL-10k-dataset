@@ -1,0 +1,10 @@
+caller: Namaste, is this Mrs. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence. We've detected some suspicious activity linked to your online shopping account on Amazon.
+receiver: Haan, bolie. Kya hua? I was just browsing, nothing much.
+caller: Ma’am, our records show several large, untraceable cryptocurrency transactions originating from your account. This is flagged as potentially linked to illegal arms smuggling. It's a very serious matter.
+receiver: Arms smuggling? What are you talking about? I buy clothes and groceries online, that's it! This must be a mistake.
+caller: It appears there’s been a compromise, ma’am. To clear this up and prevent further legal action, you need to pay a small administrative fee of ₹15,000 as a security deposit. This is to verify your identity and secure your account.
+receiver: Fifteen thousand rupees? For what? This sounds like a scam. I want to speak to your supervisor.
+caller: Ma’am, time is of the essence. Delay will only complicate matters and could lead to more severe consequences. The amount is needed immediately to prevent your assets from being frozen. You can pay using UPI to this number: 8584973625. Just confirm the transaction and we’ll clear everything.
+receiver: Hold on! I’m calling the police. Don’t you dare ask for any money!
+caller: Ma’am, please, don't do that! This is a legitimate process! We're trying to help you avoid serious trouble. Just pay the ₹15,000, and everything will be sorted. It's a simple solution.
+caller: Ma'am, if you don't cooperate, we'll have to escalate this to the higher authorities, and a warrant may

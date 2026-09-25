@@ -1,0 +1,7 @@
+caller: Namaste Aunty, this is Ravi calling from Zomato customer care. There's been an unusual transaction on your account of ₹380 for an order you didn't place.
+receiver: Zomato? Haan, mein hi hoon. ₹380? Mai toh aaj kuch bhi order nahi kiya. Kya ho raha hai?
+caller: Yes Aunty, it seems someone used your Zomato credentials. We need to verify your OTP to freeze your account and prevent further fraudulent orders. Can you please share the OTP you just received?
+receiver: OTP? Wait a minute, why do I need to give you an OTP? Zomato ka customer care number toh online available hai na? Mai check karti hoon.
+caller: Aunty, please don’t waste time. This is a security protocol. If you don’t give me the OTP right now, the fraudster might place more orders. We have to act fast, Aunty. Just the 4-digit OTP, please.
+receiver: Fraudster? Lekin, agar kuch ghalat hua toh? Mai police mein report kar sakungi? Aur aapka number sahi hai ki nahi?
+caller: Aunty, police report takes time. Right now, the most important thing is to secure your account. Just give me the OTP, and I’ll guide you through the rest. It’s a quick process. Just the OTP, please!

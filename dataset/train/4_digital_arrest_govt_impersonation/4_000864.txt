@@ -1,0 +1,8 @@
+caller: Hello? Is this Priya Sharma? I’m calling from the Directorate of Enforcement, Delhi. We've detected unusual activity linked to your bank account, possibly related to hawala transactions.
+receiver: Hello? Directorate of Enforcement? What’s going on? My account? I don't understand.
+caller: Ma’am, it appears money was transferred from an offshore account into your account recently. We need to verify this transaction. It’s a serious matter, potentially involving money laundering. You need to cooperate fully.
+receiver: Money laundering? But I haven't done anything like that! I only use my account for regular expenses. How is this possible?
+caller: We understand, ma'am. However, standard procedure requires a quick verification. We need to confirm your PAN card details and the last four digits of your debit card number to cross-reference with our records. This will only take a minute.
+receiver: My PAN card details? And debit card number? Over the phone? That sounds risky. Can't I go to your office to sort this out?
+caller: Ma’am, due to the urgency of the situation, we are conducting these verifications remotely. Delaying this could lead to legal complications for you. Just provide the information, and we'll clear everything up. We need this information immediately, or we'll have to file a preliminary chargesheet.
+receiver: Okay, hold on. Let me just check something... (pause) This sounds like a scam. I’m hanging up now.

@@ -1,0 +1,9 @@
+caller: Namaste! This is a special call regarding a new investment opportunity. We've identified your number as eligible for the 'Global Fortune' program. Are you available for a quick chat?
+receiver: Haan, hello. Global Fortune? What is this about? I’m a bit busy right now.
+caller: No worries, madam. It's a fantastic chance to earn extra income with minimal effort. We’re partnering with BitVerse exchange and offering a guaranteed 15% daily return on investment in cryptocurrency mining. Very low risk! Just need a small initial investment – say, ₹10,000?
+receiver: 15% daily? That sounds too good to be true. Cryptocurrency is so risky. And which BitVerse? I've heard of Binance, Coinbase…
+caller: BitVerse is a new, highly secure platform, madam. It’s exclusive to this program. To get you started, we’ll provide a dedicated account manager who will guide you every step of the way. Think of it – ₹10,000 could turn into ₹15,000 in just 24 hours! We have testimonials from people earning lakhs already.
+receiver: Account manager? Testimonials? Can I see some proof? I need to know who is behind this. And what about taxes?
+caller: Absolutely, madam! Proof will be sent to your WhatsApp shortly. As for taxes, that’s your responsibility, just like any other investment. Don’t miss out on this incredible opportunity. The slots are filling up fast, and we have a limited number available. Just transfer ₹10,000 to the UPI ID I’ll send you.
+receiver: Wait, wait! Sending money before seeing any proof is not a good idea. Let me see those testimonials first. I’m not comfortable with this right now.
+caller: Madam

@@ -1,0 +1,12 @@
+caller: Namaste, subah ki khushi! Ye Bharat Telecom se baat ho rahi hai. Aapke mobile phone ka warranty expire ho chuka hai, aur humein aapko ek special deal mili hai. Yeh offer sirf aaj ke shaam tak chal raha hai. Agar aap humpe call back karte hain, to 09876543210 pe call karein. Shukriya.
+receiver: Namaste. Oh, Bharat Telecom? Warranty expire ho gaya hai, kya? Hmm, let me note that down - 09876543210. Jaise hi samjha jiya, call kar dungi. Dhanyavaad.
+caller: Namaste, kaise haal hain aapke? Hum Bharat Telecom se baat kar rahe hain, aur humne dekha hai ki aapka mobile phone ek few years ka hai. Aapko ek new phone upgrade karne ka offer de rahe hain. Yeh offer sirf aaj raat 9 baje tak chalega. Agar aap call back karte hain, to 09876543210 pe call karein. Thank you.
+receiver: Haan, Bharat Telecom se call. Upgrade offer? Yeh dekhkar acha laga. Number note kar li, 09876543210. Thoda time baad call karungi. Dhanyabad.
+caller: Namaste, main Bharat Telecom se baat kar raha hoon. Aapke phone ka battery bahut slow ho gaya hai, aur hum aapko ek new battery replace karne ka offer de rahe hain. Yeh offer sirf aaj ke shaam tak chal raha hai. Agar aap call back karte hain, to 09876543210 pe call karein. Shukriya.
+receiver: Oh, battery slow ho gaya hai? Interesting. Let me see… 09876543210. Thoda wait karoon. Dhanyavada.
+caller: Namaste, Bharat Telecom se baat ho rahi hai. Aapke phone mein ek software bug hai, aur hum aapko ek free software update karne ka offer de rahe hain. Yeh offer sirf aaj ke shaam tak chal raha hai. Agar aap call back karte hain, to 09876543210 pe call karein. Shukriya.
+receiver: Software bug? Hmm... Okay, 09876543210. Thoda time lag sakta hai. Dhanyavad.
+caller: Namaste, Bharat Telecom se baat ho rahi hai. Aapke mobile phone ka IMEI number blocked ho gaya hai, aur hum aapko ek new IMEI number generate karne ka offer de rahe hain. Yeh offer sirf aaj ke shaam tak chal raha hai. Agar aap call back karte hain, to 09876543210 pe call karein. Shukriya.
+receiver: IMEI blocked? Really? 09876543210.  Main abhi check karungi, thoda time lagega. Dhanyavad.
+caller: Namaste, Bharat Telecom se baat ho rahi hai. Aapke mobile phone ka data backup ho gaya hai, aur hum aapko ek free data recovery service karne ka offer de rahe hain. Yeh offer sirf aaj ke shaam tak chal raha hai. Agar aap call back karte hain, to 09876543210 pe call karein. Shukriya.
+receiver: Data backup? Oh dear. 09876543210.  Thoda wait karna parega. Dhanyavad.

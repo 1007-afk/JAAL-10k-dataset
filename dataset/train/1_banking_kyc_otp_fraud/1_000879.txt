@@ -1,0 +1,8 @@
+caller: Namaste Madam, main State Bank of India se Rohan bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Kuch suspicious activity? Aur kya hua? Batao zara.
+caller: Ji, aapke naam par ek online shopping transaction try kiya gaya hai, ₹7,500 ka. Aapne kiya tha kya?
+receiver: ₹7,500? Nahin, maine kuch bhi order nahi kiya tha. Yeh toh fraud lag raha hai.
+caller: Haan ji, shayad! Isliye hum call kar rahe hain. Aapko account secure karne ke liye ek OTP verify karna hoga. Main aapko SMS se bheju dunga.
+receiver: OTP? Aur mujhe batao, kaise pata ki tum SBI se ho? Koi email address ya phone number dedo jo main verify kar sakta hoon.
+caller: Madam, OTP bahut confidential hota hai. Hum phone par nahi share karte. Aap SMS check karein. Ek minute mein, main phir call karunga, jab aap OTP verify kar lenge. Account suspend hone se pehle, jaldi kijiye.
+receiver: Wait, ek minute. Main SBI ki official website par check karti hoon.

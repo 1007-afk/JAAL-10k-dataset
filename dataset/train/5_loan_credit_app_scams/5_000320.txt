@@ -1,0 +1,8 @@
+caller: Namaste, main Rahul se bol raha hoon, LoanExpress se. Aapne hamare app par loan ke liye apply kiya tha, kya?
+receiver: Haan, maine apply kiya tha. Kya hua?
+caller: Sir, aapka application approve ho gaya hai, lekin security check ke liye kuch details chahiye. Aapki ATM card ki last 4 digits aur expiry date bataiye?
+receiver: ATM card details? Main woh bata nahi sakta. It's not safe.
+caller: Sir, bina iske hum loan release nahi kar sakte. Yeh ek standard procedure hai. Agar aap cooperation nahi karenge, toh application cancel ho jayega aur blacklisted bhi ho sakte hain. Aur, hum aapki contacts ko bhi inform kar denge ki aap loan ke liye apply karke details hide kar rahe hain.
+receiver: Contacts ko inform karoge? Yeh kya bol rahe ho? Main police mein report karunga.
+caller: Sir, please calm down.  Hum bas procedure follow kar rahe hain. Bataiye, OTP – 487295 – yeh aapka OTP hai?  Confirm karo, please.
+receiver:  Main abhi disconnect kar raha hoon. Yeh scam hai!

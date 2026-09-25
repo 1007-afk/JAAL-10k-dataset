@@ -1,0 +1,7 @@
+caller: Namaste, mai Indian Customs se Special Officer Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par adhura hai.
+receiver: Parcel? Mere naam par? Mai toh koi parcel order nahi kiya tha.
+caller: Ji, parcel aaya hai lekin usmein illegal items paaye gaye hain - confidential documents aur suspicious electronic devices. Yeh matter bahut serious hai, aur CBI ismein involve ho gayi hai.
+receiver: Illegal items? Document? Kya bol rahe hain aap? Main toh ek teacher hoon, mai toh kabhi kuch illegal nahi karta.
+caller: Teacher saheb, humko pata hai ki aap innocent hain, lekin parcel aapke naam par aaya hai. Aapko is case ko close karne ke liye ₹15,000 ka fine deposit karna padega. Aapko isko online transfer karna hai, aur hum aapko further instructions denge.
+receiver: ₹15,000? Online transfer? Yeh toh scam lag raha hai! Main police se complain karungi agar aapne mujhe aur call kiya.
+caller: Ji, mai samajhta hoon aapko doubt ho raha hai, lekin is case ko serious lijiye. ₹15,000 deposit karne se aapki reputation save ho jayegi aur further legal problems se bach sakte hain. Isko confirm karo aur paisa transfer karo.

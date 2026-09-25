@@ -1,0 +1,9 @@
+caller: Namaste! This is Priya calling from HDFC Bank’s KYC verification team. We noticed some discrepancies in your account details and need to update them to prevent suspension.
+receiver: KYC? Haan, bolie. Kya hua?
+caller: Ji, there's an issue with your address on file. To rectify this and keep your account active, we need to verify a few details. Could you please provide your Aadhaar number for quick verification?
+receiver: Aadhaar number? Itna sensitive detail phone pe dena safe hai?
+caller: Absolutely madam. Our system is fully encrypted and secure. If you don't provide it, we'll have to temporarily freeze your account for security reasons. It’s a standard protocol. We’re just protecting you from potential fraud.
+receiver: Freeze kar denge? Ok, wait. Let me check something... But why do I need to do this now? I updated my address recently.
+caller: Madam, our systems occasionally require re-verification to comply with RBI regulations. Can you please provide the last four digits of your Aadhaar card so I can quickly locate your record?
+receiver: Fine, last four digits... it’s 4321.
+caller: Thank you! Now, for one final step, we need to send a one-time password to your registered mobile number to confirm your identity. Please share that OTP with me as soon as you receive it.

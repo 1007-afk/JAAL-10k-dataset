@@ -1,0 +1,9 @@
+caller: Namaste Sir! This is Akash calling from the Cyber Crime Investigation Cell. We've detected some suspicious activity linked to your bank account, specifically regarding a large international transaction.
+receiver: Kya? Suspicious activity? How much? And which bank?
+caller: Yes sir. A transaction of ₹1.2 crore has been flagged originating from a foreign IP address. It looks like your account might have been compromised and used for money laundering. We need to secure it immediately. To verify your identity and prevent further unauthorized access, we'll need you to confirm your UPI details.
+receiver: ₹1.2 crore? That’s huge! Why wasn't I informed before? UPI details? Which UPI?
+caller: Sir, it's a sensitive situation and we're working quickly to contain it.  We need to confirm your UPI ID and linked bank account details urgently. This will allow us to freeze the transaction and launch a full investigation.  It's a standard protocol in such cases, sir. Just tell me your UPI ID please.
+receiver: My UPI ID is priyank.singh@ybl.  But this sounds fishy... why are you asking over the phone? Shouldn’t you send me an email or SMS?
+caller: Sir, time is of the essence!  A delay could result in a significant financial loss for you.  We need to act fast.  Now, to confirm, can you also tell me the last four digits of the linked bank account? And for verification purposes, can you also state your date of birth?
+receiver: Wait a minute. This is definitely a scam. You're asking for my bank details and date of birth over the phone. I’m reporting this number.
+caller: Sir, please don't do that! You are jeopardizing your financial security! We can help you recover your funds, but you must cooperate

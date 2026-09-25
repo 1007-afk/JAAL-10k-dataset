@@ -1,0 +1,6 @@
+caller: Namaste! Calling from SpeedyShip Logistics. We’re experiencing a slight issue with your package destined for delivery tomorrow. The tracking number is SR789456123. Could you please verify the delivery address for us?
+receiver: Haan, boliyee. SpeedyShip Logistics? Mera address H.No. 24, Sector 8, Vasant Kunj hai. Wohi correct hai?
+caller: Thank you. It appears there's a temporary hold due to a security protocol update. To release the package and ensure its speedy delivery, we require a one-time verification fee of ₹499 to cover the processing charges.
+receiver: ₹499? Security protocol? I haven't been asked for money before. Is this really necessary? And how do I pay?
+caller: Yes, ma'am, it's standard procedure now. To avoid any delays and ensure your package is delivered tomorrow, you can easily pay via UPI. We'll send you a QR code. Please share your UPI ID so we can send you the QR code.
+receiver: Hold on a minute. I’m feeling a bit uneasy. Let me check with SpeedyShip’s official website or customer care number before I provide my UPI ID. I will call you back.

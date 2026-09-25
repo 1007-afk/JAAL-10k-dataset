@@ -1,0 +1,7 @@
+caller: Namaste! This is regarding your Paytm wallet. We've detected some unusual activity and need to verify your details to prevent fraud. Please confirm your registered mobile number for verification.
+receiver: Hello? Yes, this is me. What kind of unusual activity? Everything seems fine on my end.
+caller: Sir, a few small transactions have been attempted from your wallet to a new merchant account. To secure your funds, we need you to quickly complete a verification process. Please click on this link: paytm.verify.online/security to proceed.
+receiver: Paytm.verify.online? That doesn’t look like the official Paytm site. I usually get verification links from SMS. Why a link?
+caller: Sir, this is a new enhanced security protocol. The SMS system is being updated. Please, this is urgent. If you don’t verify within the next 10 minutes, your wallet will be temporarily suspended for security reasons.
+receiver: Ten minutes? Okay, let me quickly check…wait a minute. I just got an SMS from Paytm saying there's a suspicious login attempt from a different location. It tells me to contact Paytm customer service directly through their official app. This feels very fishy.
+caller: Hello?

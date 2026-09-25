@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai ICICI Prudential Life Insurance se Rahul bol raha hoon. Aapke naam par ek life insurance policy hai, number [Invented Policy Number].
+receiver: Insurance policy? Mujhe toh yaad nahi aa raha. Main toh kabhi insurance policy nahi li.
+caller: Madam, yeh policy 2021 mein li gayi thi, ek promotional offer ke under. Ab policy renew hone wali hai, aur renew karne ke liye kuch details verify karwani padengi. Account suspended hone se bachne ke liye please cooperate karein.
+receiver: Account suspend ho jayega? Aur kya details chahiye aapko? Mujhe thoda doubt ho raha hai.
+caller: Madam, aapko sirf apna date of birth aur pan card number dena hai, verification ke liye. Aise scams toh roj hote hain, aap tension mat lein. OTP bhi send karenge, verify karne ke liye.
+receiver: OTP? Main toh bank account number bhi nahi dungi. Koi baat nahi, main ICICI Prudential website par jaake khud check karunga.
+caller: Madam, online process mein thode delays ho sakte hain. Aapka time waste hoga. Fast verification ke liye please provide OTP.
+receiver: No, thank you. Mai police complaint karungi agar aapne mujhe disturb kiya.

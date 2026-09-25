@@ -1,0 +1,8 @@
+caller: Namaste! Aapse mil gaya hai 50 Lakh rupee ka lottery prize! Aur haan, aapko 25000 rupayen ka Amazon gift card bhi milega! Aur haan, free membership bhi hai 5000 rupayen ke monthly subscription mein! Sirf ‘PRIZE’ type karke 98765 pe message karein. Aapka naam bataiye, please.
+receiver: Oh my god! Seriously? My name is Amit Sharma.
+caller: Amit ji, superb! Aapko sabhi facilities milegi. Sirf aapko ek small task karna hai. Jo maine number bataya hai, 98765, uss par 'PRIZE' likhkar ek message bhejein. Message bhej rahe hain? Aur haan, yeh offer sirf top 5 winners ke liye hai, so hurry up!
+receiver: Yes sir, definitely. I’ll send it now. Just ‘PRIZE’ and that’s it? And to 98765? Okay, sure, sending it now.
+caller: Excellent Amit ji! Jaise hi aapka message aa jayega, aapka naam record mein aa jayega aur hum aapko bata denge ki aage kya karna hai. Yaad rakhiyega, sirf 2 people aur hain jinke liye yeh offer hai, so don’t delay! So, quickly send the message.
+receiver: Okay sir, I’ve just sent it. Fingers crossed I am among the top 5. What will happen after this?
+caller: Fantastic Amit ji! Great news! Now we are checking. See, our message has received your message. Very good! Next step is that you need to pay a small processing fee of ₹299. This is just for verification purposes and the amount will be refunded to you in the draw or added to your gift cards. How do you prefer to make the payment? Do you use Google Pay?
+receiver: Yes, I use Google Pay. What is your Google Pay ID?

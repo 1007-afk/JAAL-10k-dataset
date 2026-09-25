@@ -1,0 +1,18 @@
+caller: Namaste ji! Welcome to Tech Solutions Plus! Your device is almost 18 months old, right?
+receiver: Haan ji, roughly 16 months, I think.
+caller: Exactly! That’s perfect timing. We have just two premium software upgrades left and your account is ready for activation. You know, these offers are only for those whose devices are at least 18 months old, just like yours! So, are you interested in getting the latest security features and enhanced performance, completely free?
+receiver: Wow! Completely free? Enhanced performance too? That sounds amazing! Is this offer really just for me? Is there no catch, absolutely nothing?
+caller: Absolutely not! No catches here, totally genuine. This offer is specifically designed for users who meet our criteria and you perfectly fit that description! Look, we only have one upgrade remaining. Now, I need to quickly verify your ID number to ensure everything is processed correctly and register this free upgrade under your name. Could you please provide your ID number?
+receiver: Okay, sure. My ID number is 7894561230. Can you double-check that it matches my details?
+caller: Let me check... Yes, 7894561230 – excellent match! Now, for the delivery, it will take approximately 10-14 business days after the upgrade installation. Regarding the ‘upgrades’, they are essentially new versions of our operating system that improve your phone's speed and security. They'll automatically install when you connect to Wi-Fi.
+receiver: Ten to fourteen days? That’s quite a wait. And what exactly do these ‘versions’ include?
+caller: Just a moment, please. While I am checking your account…Rahul ji, hello! It seems you have been selected for a special promotion. Your device is indeed quite old, around 18 months now, isn’t it?
+receiver: Haan ji, you are correct. Approximately 18 months.
+caller: Wonderful! We've got a fantastic opportunity for you - a complimentary mobile optimization package. It includes the latest security patches and performance enhancements. This is exclusively for devices that are at least 18 months old, like yours. Are you eager to receive this valuable upgrade?
+receiver: Really? Complimentary? That’s great news! But is there any small fee involved, even a minimal one?
+caller: Not at all! It's entirely free, a token of our appreciation for your continued loyalty. We just need to finalize the registration process to activate the optimization package on your device. To begin, could you tell me your full name, please?
+receiver: My name is Priya Patel.
+caller: Thank you, Priya. Let me confirm your address… 456, Maple Drive, Midtown, Mumbai. And how long will it take to receive this optimized version?
+receiver: How soon?
+caller: Typically, within 7 to 10 working days after the activation. The optimization involves installing updated drivers and software components to enhance your device’s overall performance.
+receiver: Seven to ten days? That’s acceptable. Can you briefly explain what these “updated drivers” entail?

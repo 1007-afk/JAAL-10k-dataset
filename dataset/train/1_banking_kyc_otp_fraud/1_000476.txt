@@ -1,0 +1,14 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Debit card launch hone ka istemal par aapka PAN card aur OTP chahiye hoga.
+receiver: Oh, HDFC? Eh, main abhi ghar pe hoon, kaam karte hue busy hoon. OTP kaise milega mujhe?
+caller: Koi problem nahi sir, aapko sirf SMS se OTP milega. Jaab aap OTP enter karenge, toh card aapko 5 din mein mil jayega. Kya aapka naam Ajay hai?
+receiver: Haan, main Delhi mein rehta hoon. Delhi mein abhi subah ki shuruwat hai.  Aur mera naam Rahul Kumar hai.
+caller: Ji sir, Rahul Kumar!  Aapko kal raat 8 baje call karunga, phir aapka card ready hoga.  Delhi mein abhi morning traffic bahut badhiya hai.
+receiver: Theek hai, Rahul Kumar. Kal raat 8 baje call karein.  Thank you.
+caller:  Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Debit card launch hone ka istemal par aapka PAN card aur OTP chahiye hoga.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Debit card launch hone ka istemal par aapka PAN card aur OTP chahiye hoga.
+receiver: Oh, HDFC? Eh, main abhi ghar pe hoon, kaam karte hue busy hoon. OTP kaise milega mujhe?
+caller: Koi problem nahi sir, aapko sirf SMS se OTP milega. Jaab aap OTP enter karenge, toh card aapko 5 din mein mil jayega. Kya aapka naam Ajay hai?
+receiver: Haan, main Delhi mein rehta hoon. Delhi mein abhi subah ki shuruwat hai.  Aur mera naam Rahul Kumar hai.
+caller: Ji sir, Rahul Kumar!  Aapko kal raat 8 baje call karunga, phir aapka card ready hoga.  Delhi mein abhi morning traffic bahut badhiya hai.
+receiver: Theek hai, Rahul Kumar. Kal raat 8 baje call karein.  Thank you.
+caller:  Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Debit card launch hone ka istemal par aapka PAN card aur OTP chahiye hoga.

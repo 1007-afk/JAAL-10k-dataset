@@ -1,0 +1,7 @@
+caller: Namaste sir, main Cyber Cell se Rohan bol raha hoon. Aapke naam par ek parcel aaya hai, lekin customs clearance ke liye kuch formalities complete karni hai.
+receiver: Parcel? Mujhe koi parcel nahi mila. Aur customs clearance ka kya mamla hai?
+caller: Ji sir, parcel mein kuch confidential documents hain. Security check ke vajah se customs ne rok liya hai. Aapko ek OTP aur ₹3500 clearance charge ke liye deposit karna padega.
+receiver: ₹3500? Kaunsa parcel hai aur kyun mujhe OTP dena padega? Main customs office mein khud jaakar check kar sakta hoon.
+caller: Sir, yeh ek urgent matter hai. Parcel mein sensitive information hai jo leak hone se aapko legal trouble ho sakta hai. OTP se hum verify karenge ki aap parcel ke owner hain. ₹3500 UPI ke zariye deposit karna hai.
+receiver: Dekhiye, mujhe yeh kuch samajh nahi aa raha hai. Koi genuine customs officer phone pe aise paisa nahi maangega. Main police station mein report karunga.
+caller: Sir, please, mat karna. Aapko legal trouble se bachaane ke liye main help kar raha hoon. Yeh ek special operation hai, official channels se nahi ho sakta. Aapko ₹3500 deposit karna hai ya parcel ko hold kar diya jaayega.

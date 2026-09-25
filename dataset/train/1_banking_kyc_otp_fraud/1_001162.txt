@@ -1,0 +1,6 @@
+caller: Namaste, mein Paytm se Ram Sharma bolta hoon. Aapke Paytm account mein ajeeb transaction ka attempt kiya gaya hai.
+receiver: Paytm se? Kya hua? Transaction kitna ka tha?
+caller: Yeh attempt ₹12,500 ka tha, aur woh bhi Nepal mein se kiya gaya tha. Aapne kuch bhi purchase nahi kiya tha? Aapki security ke liye, hamein kuch details verify karni hogi.
+receiver: Nepal? Maine toh Nepal se kabhi koi transaction nahi kiya. Lekin ₹12,500 bahut zyada hai. Kya karna hai?
+caller: Hoom, bilkul. Isliye, aapko apne account ko secure rakhne ke liye, OTP verify karna hoga. Mein aapko ek OTP SMS karunga, woh mujhe bata dijiye. Aur koi bhi verification code jo aapko bank se aa raha hai woh bhi bata dijiye.
+receiver: OTP? Koi bhi verification code bank se? Wait a minute… yeh toh scam lag raha hai. Main call cut kar raha hoon.

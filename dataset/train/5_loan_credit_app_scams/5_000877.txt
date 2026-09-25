@@ -1,0 +1,7 @@
+caller: Namaste sir, main Sunil Verma, LoanMudra se baat kar raha hoon. Aapke naam par ek loan application aaya tha, ₹75,000 tak ka. Verification ke liye call kar raha hoon. Aapki adhaar card ki copy handy hai kya?
+receiver: Haan, Sunil ji. Adhaar card ki copy hai. Kya aur kuch chahiye?
+caller: Ji sir, ek small verification process hai. Aapke registered mobile number par ek OTP bheja jayega. Woh OTP mujhe bata dijiye.
+receiver: Theek hai. Wait karo. Aa gaya hai. Yeh hai 876543.
+caller: Ji sir, OTP 876543 confirm ho gaya. Loan approve ho gaya hai, par security ke liye ek small processing fee jama karne hogi. ₹5,000.
+receiver: ₹5,000? Lekin application mein to kuch nahi bola tha fee ke baare mein.
+caller: Sir, yeh last minute change hai. Security check hai, bina iske loan release nahi ho payega. Account number mein transfer karna hai. Jaldi karna hai, warna loan cancel ho jayega aur aapke contacts ko aapki personal details mil jayengi.

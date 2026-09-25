@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I'm Ankit from Axis Bank's security department. We've detected some unusual activity on your linked credit card – a potential transaction of ₹12,000 to an online gaming site. We need to quickly verify this to prevent fraud.
+receiver: Haan, main Priya Verma bolti hu. ₹12,000? Main toh kabhi online games nahi khelti!
+caller: Exactly, Madam! That's why we're calling you. It seems like someone might be trying to use your card fraudulently. For security purposes, we need to confirm a few details. Could you please share the OTP you just received on your registered mobile number? It starts with 4.
+receiver: OTP? Bank kabhi OTP phone pe poochta hai? Mujhe toh kuch OTP nahi mila. Aur mujhe doubt ho raha hai.
+caller: Madam, don't worry, this is standard procedure. We need to verify your identity instantly to block the fraudulent transaction. The OTP is crucial to securing your account. It's a one-time password, just for this verification. Please share it quickly, otherwise the transaction will go through. We’re trying to save you ₹12,000 here.
+receiver: Dekhiye, mujhe maaf karna. Main koi OTP share nahi karungi. Koi bhi real bank aise call karta hai. Aur ₹12,000 ki baat hai, toh mujhe bank ke original number pe call karna chahiye, jisko main abhi karungi. Apne branch se contact karungi.
+caller: Madam, please understand the urgency. Every second counts. Your account is at risk! If you don’t cooperate, we’ll be forced to temporarily suspend your card. Just give me the OTP, and I’ll immediately block the transaction.
+receiver: Account suspend? Yeh toh aur bhi suspicious lag raha

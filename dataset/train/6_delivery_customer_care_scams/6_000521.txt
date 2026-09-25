@@ -1,0 +1,7 @@
+caller: Hello, this is Anjali from Bluebird Courier Services. We have a parcel addressed to you but there's been a slight issue with the delivery location. Could you please verify your address for us?
+receiver: Yes, sure. It’s 12, Sunrise Apartments, Sector 7, Gurugram. Is that correct?
+caller: Yes, thank you. The system shows a discrepancy with the payment details linked to the order. To proceed with the delivery, we need to confirm a one-time password sent to your registered mobile number to verify the address and payment.
+receiver: Okay, I just received a message. The OTP is 482915.
+caller: Thank you. Just one moment while I process that... Alright, it seems there's still a minor hold-up. Our system indicates a potential unauthorized access attempt related to this package. For security purposes, could you please provide the last three digits of the card you used for the purchase?
+receiver: I'm not comfortable giving out card details over the phone. Is there another way to resolve this?
+caller: I understand your concern, but this is standard protocol to prevent fraud. Without this verification, we are unable to release the parcel. It contains sensitive items and we must ensure its security. Please, just those three digits for verification?

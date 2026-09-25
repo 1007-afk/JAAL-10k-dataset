@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Priya calling from Zepto customer care. We've noticed some unusual activity on your account and a pending delivery issue with order #ZT45892. Could you please verify a few details?
+receiver: Kya issue hai? Mein toh kal ek order kiya tha.
+caller: Yes sir, the delivery partner claims he attempted delivery but couldn't reach you. He’s flagged it as “address unclear.” To reroute the delivery and avoid cancellation, we need to quickly verify your OTP. We've just sent one to your registered number.
+receiver: OTP? Kaise delivery partner ko address clear karne ke liye OTP chahiye?
+caller: It's a security measure, sir. Just to ensure it's you authorizing the rerouting. It prevents someone else from changing the delivery address and potentially stealing your order. Can you please share the OTP so we can resolve this?
+receiver: Theek hai, OTP hai [invent an OTP, e.g., 123456]. Lekin ye pakka Zepto ka call hai?
+caller: Yes sir, absolutely. Just confirming everything now… Thank you. To finalize the rerouting and ensure the package arrives safely, we need to confirm your card's CVV for a small security deposit of ₹50, which will be refunded once the delivery is successful.
+receiver: CVV? Security deposit? Mujhe nahi lagta Zepto aise karta hai.

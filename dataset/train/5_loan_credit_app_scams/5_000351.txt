@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mera naam Rohit hai, SpeedLoan Solutions se. Aapne recent mein loan apply kiya tha, na? Verification ke liye call kar raha hoon.
+receiver: Haan, ji. Apply kiya tha. Kya baat hai?
+caller: Sir, aapki application approved ho gayi hai, lekin kuch security checks karne hain. Aapka Aadhaar card number check kar sakta hoon?
+receiver: Haan, bolie. 9876543210.
+caller: Excellent! Sir, abhi aapke registered WhatsApp number pe ek OTP ayega. Woh OTP mujhe bata dijiye, please. Just verification ke liye.
+receiver: Wait, wait… aaya! 789012.
+caller: Thank you, sir! Verification complete. Aapka loan amount ₹75,000 approved hai. Ab, processing fees ke liye ₹5,000 UPI mein transfer karni padegi. Payment details main aapko SMS se bhejta hoon.
+receiver: ₹5,000? Loan ₹75,000 ka hai aur ₹5,000 processing fees? Yeh to bahut zyada hai!

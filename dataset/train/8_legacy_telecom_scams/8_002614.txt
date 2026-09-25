@@ -1,0 +1,8 @@
+caller: y I missed your call. Let's talk when you have some free time. I'm on 0709020
+receiver: Oh, hey! No worries at all. I was just busy for a bit. Thanks for the number, I'll save it. When works for you? I'm pretty free now actually.
+caller: Haanji, achha hai. Agar aap abhi free hain toh we can talk. Main actually ek bahut hi khaas offer ke baare mein baat karna chahta hoon, jo sirf aaj ke liye valid hai. Isse pehle ki yeh khatam ho jaaye, kya aap thoda time nikaal sakte hain?
+receiver: Haanji, bilkul! Aaj ke liye valid offer? Sunke toh mujhe interest aa raha hai. Bataiye, kya hai yeh offer? Main pura time de sakta hoon abhi.
+caller: Haanji, thank you for your time. Dekhiye, ye offer ek bahut hi premium subscription plan ke liye hai, jahan aapko unlimited calling and data milta hai bahut hi kam price mein. Hum ek special promotion chalare hain jahan hum 50% discount de rahe hain, but yeh offer bas aaj raat tak valid hai. Agar aap interested hain, toh main aapke account details verify kar sakta hoon aur yeh offer aapke liye secure kar sakta hoon. Bas kuch basic information chahiye hogi, jaise aapka registered mobile number aur aapke account se linked email ID.
+receiver: Haanji, 50% discount sunke toh aur bhi achha lag raha hai! Unlimited calling aur data toh waise bhi zaroori hai. Mere registered mobile number toh mera yeh wala hi hai jo aapke paas hoga, 0709020. Aur email ID meri hai [your.email@example.com]. Aap bataiye, kya details chahiye?
+caller: Haanji, thank you for confirming. Aur kya aap mujhe apna full name bata sakte hain? Jisse main aapke account ko sahi se verify kar sakoon.
+receiver: Haanji, mera naam [Receiver's Full Name] hai. Toh bataiye, kya process hai aage ka?

@@ -1,0 +1,22 @@
+caller: Namaste sir/madam, you’ve reached DigiConnect. Just checking if you’re available to upgrade your internet speed? We’ve got a special promotion going on for Jio Fiber, offering triple data and unlimited calls, plus a smart TV absolutely free! It’s just for a limited time, so I wanted to give you a quick heads up.
+receiver: Namaste,haan bolte hain. Sunta hoon.
+caller: Wonderful! With this promo, you’ll get three times the data you currently use, and unlimited local and STD calls. And as a bonus, you’re getting a brand new Smart TV - think Samsung, LG, or even Xiaomi – totally free! We’ve only got around 15 slots remaining, so I’m calling to see if you’re interested.
+receiver: Triple data aur unlimited calls? Sab theek lagnata hai. Lekin Smart TV kaunsa brand ka hai? Aur yeh data kitni gigabytes ka hai?
+caller: Absolutely! The Smart TV will be from some of the biggest brands, like Samsung, LG, or maybe even a Xiaomi, depending on availability. As for the data, you’ll get approximately 300 GB per month – enough for heavy users! This offer is valid for six months, sir.  We're almost sold out, just 8 slots left. Would you like me to set up an appointment for you?
+receiver: Six mahine?  Aapka Samsung TV dekhna chahunga.  Aur 300 GB data, wo kaise milega?  Ismein koi hidden charges hain kya?
+caller: Of course! For the Samsung, we'll provide you with a 55-inch model, which is a fantastic display. Regarding the 300GB data, it's delivered through a dedicated JioFiber connection. No hidden charges, sir, everything is transparent. We only have 5 slots left, so don't delay! Are you ready to proceed?
+receiver: 55 inch Samsung TV?  Dekh le.  Aur JioFiber connection mein data kaise milega?  Koi technical issues hain kya?
+caller: Yes, definitely! The JioFiber connection comes with seamless streaming and no buffering issues. And regarding the TV, you'll receive a remote control with all the necessary features. We have just 3 slots remaining, sir. Let’s secure yours today!
+receiver: Three slots? Okay, main soch raha hoon.  Aap mujhe ek confirmation message bhijwa de rahe hain?
+caller: Absolutely! I’ll send you a confirmation SMS immediately with all the details. Just confirm your mobile number, please.
+receiver: Mera number hai 9876543210.
+caller: Thank you, sir! Your appointment is confirmed. You’ll receive the SMS shortly. Have a great day!
+receiver: Dhanyavaad. Aapki madad ke liye shukriya.
+caller: You’re most welcome, sir! Goodbye.
+receiver: Bye bye.
+receiver: Hello, what’s this about? I’m not interested in refinancing.
+caller: Don’t worry, sir, it’s just a quick check. Based on our analysis, your current loan rates are higher than average. We can potentially switch you to a much better rate, saving you significant money. We’re seeing high demand for this offer, so we need to act fast.
+receiver: Higher rates? My loan is already at a good rate. Can you tell me exactly how much I could save?
+caller: Certainly. Let’s say you have a $150,000 mortgage. With our refinance option, you could reduce your monthly payment by around $300-$400, translating to savings of $36,000-$48,000 over the life of the loan. That’s a substantial amount, isn’t it?
+receiver: $36,000 to $48,000? That sounds too good to be true. What kind of fees are involved?
+caller: There’s a small processing fee of $499, but it’s more than offset by the long-term savings. Plus, we offer flexible repayment plans to make it easier on your budget. We’ve had many satisfied customers who were pleasantly surprised by the

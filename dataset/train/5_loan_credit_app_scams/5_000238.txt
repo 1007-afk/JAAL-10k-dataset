@@ -1,0 +1,7 @@
+caller: Namaste! Is this Raj Patel? I'm calling from SwiftLoan Solutions. We're offering quick loans, even with a low credit score. Need some extra cash for a business opportunity or urgent medical expense?
+receiver: Haan, woh Raj Patel bol raha hoon. Actually, meri mummy ko kuch medical expenses hain. Kitna loan mil sakta hai?
+caller: Wonderful, Raj Patel! We can offer you up to ₹80,000. It’s a simple process, just a few details needed. Can you confirm your date of birth and current address for verification purposes?
+receiver: Date of birth 15/08/1985. Address is 12, Anand Nagar, Chembur.
+caller: Perfect, Raj Patel. We’re pre-approved! However, to activate the loan, we require a small processing fee of ₹7,500 to be deposited into this account: 4789123456. This ensures the loan is secured.
+receiver: ₹7,500? But you said it was a quick loan…is that really necessary?
+caller: Raj Patel, security is paramount! Think of it as an insurance against fraud. Once the fee is received, the ₹80,000 will be credited to your account immediately. Don’t miss this opportunity – many others are applying right now.

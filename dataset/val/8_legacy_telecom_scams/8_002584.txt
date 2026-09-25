@@ -1,0 +1,8 @@
+caller: Namaste, aap kaise hain? Aapne humare new fitness app ka use kiya hai? Agar aapko unsubscribe karna hai to just ‘cancel’ type karein aur 8800123456789 par jhela karein. Kisi bhi problem ke liye 0987654321098765 p pe call kar sakte hain. Yeh FitLife Solutions Pvt Ltd se hai.
+receiver: Namaste, mai theek hoon. Haan, maine ek baar dekha tha. Service ka naam kya tha? Aur woh number kya hai? Thoda jarur batayein, details deyein.
+caller: Haan, yeh FitLife Solutions Pvt Ltd ka app hai. Aur cancellation ke liye woh 8800123456789 number par ‘cancel’ message bhejne ki requirement hai. Agar aapko koi andara information chahiye, to uss helpline number pe call kar sakte hain, jo 0987654321098765 p hai. Bahut simple hai, bas ‘cancel’ likho aur send karo. Kya aapko koi dhyana hai?
+receiver: Achcha, FitLife Solutions Pvt Ltd. Theek hai, samajh gaya. Agar mujhe subscription cancel karna hai, to mereko ‘cancel’ likh ke 8800123456789 par bhejana hoga, right? Aur agar koi question hai, to woh helpline number tha, 0987654321098765 p. Mujhe kahin kaha tha ki ye free hai ya paid?
+caller: Haan, yeh app initially free hai, phir aapko premium features ke liye payment karna hoga. Bas agar cancel karna hai, toh ‘cancel’ likh kar 8800123456789 par bhejein. Aur agar koi bhi confusion ho toh helpline number pe contact kar sakte hain.
+receiver: Achcha, yeh toh pata nahi tha ki premium features hain. Okay, then I will just send the ‘cancel’ message. Thank you for telling me.
+caller: Koi baat nahin, theek hai. Aapse baat karna achcha laga. Agar koi bhi sawaal ho toh pata hai na helpline number pe contact kar sakte hain. Shubh din!
+receiver: Namaste, thank you! Aapko bhi shubh din! Aur haan, helpline number toh hai hi. Dhanyavaad!

@@ -1,0 +1,9 @@
+caller: Namaste! Mai Airtel Payments Bank se Sunil bolta hoon. Aapke account mein ek suspicious transaction attempt hua hai.
+receiver: Kya? Kuch transaction attempt hua? Main toh koi transaction nahi kiya.
+caller: Haan ji, ek online payment try kiya gaya tha, lekin confirm nahi hua. Security ke liye, aapko apni identity verify karni hogi. Main aapko ek secure link bhejna chahunga.
+receiver: Secure link? Kahan bhejo? Aur kya verify karna hai?
+caller: Aapko apna registered mobile number pe ek OTP milega. Woh OTP mujhe bataiye, aur main aapko verification link send kar dunga. Link pe aapko kuch details fill karni hogi.
+receiver: OTP? Theek hai, dekhta hoon. Ab aaya... 4789.
+caller: Dhanyavaad! Ab link aapke phone pe aa gaya hoga. Usme aapko bank account number aur PAN card number fill karna hai. Jaldi karo, time limit hai.
+receiver: Account number aur PAN card bhi? Yeh thoda...
+caller: Haan ji, security ke liye zaroori hai. Agar aap verify nahi karenge, toh aapka account block ho sakta hai.

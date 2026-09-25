@@ -1,0 +1,8 @@
+caller: Namaste! Speaking with Mr. Verma? This is Anjali from 'QuickCash Solutions'. We’ve pre-approved you for a personal loan of up to ₹2,00,000! Just a few quick verification steps and the money can be in your account today. Are you there?
+receiver: Haan, main Verma hi hoon. QuickCash Solutions? Loan ka kya process hai?
+caller: Wonderful! To activate your loan, we need to confirm your bank account details. Please visit our secure website: secureverifyloans.com. You'll find a form there where you can enter your account number and IFSC code. It’s very simple, takes just 2 minutes. We’re assisting many applicants right now, so please don't delay.
+receiver: Secureverifyloans.com? Kya yeh safe hai? Koi scam to nahi hai na? Itni badi amount approve ho gayi, thoda toh doubt toh hota hai.
+caller: Absolutely safe, sir! We use 256-bit encryption! Look, to further prove our legitimacy, we need you to send a small processing fee of ₹5000 as a security deposit to this UPI ID: payquick@axis. This ensures your loan application is prioritized. Just a small fee to unlock the full ₹2,00,000.
+receiver: ₹5000 fee? Loan milne se pehle? Yeh toh kuch galat lag raha hai. Aur payquick@axis… mujhe check karne do.
+caller: Sir, without this deposit, we can't guarantee your loan approval. Many applicants are trying to grab this offer, and we only have a few slots left. Think of it as an investment in your financial future! We'll deduct it from your first loan installment, no worries. Please hurry, sir! Don’t miss out on this golden opportunity!
+receiver:

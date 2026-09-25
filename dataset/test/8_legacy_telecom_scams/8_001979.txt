@@ -1,0 +1,9 @@
+caller: Namaste! Kaise ho aap? Mujhe ek badi news dakhleni thi, jo aapke smartphone ko bahut zyada achcha banayega!
+receiver: Namaste! Main theek hoon, aap bataiye. Kya news hai, sunne mein bahut interest lag raha hai!
+caller: Arre, thoda patience! Toh suniye, hum ne ek new app launch kiya hai, jo aapke phone ko update karega aur unahi ke saath, aapko har din alag-alag Bollywood songs ke ringtones mileinge! Aapka phone bajega toh sabhi dekhenge ki aap kaunse song ko pasand karte hain!
+receiver: Bollywood ringtones? Wow! Isliye mera phone ekdam party jaisa lagega!  Aapne kaha ki is app ko install karna hai? Koi extra charges hai ya nahi?
+caller: Arre, installation totally free hai! App store se download kijiye, and then aapko bas ek small task karna hai. Aapko ek SMS bhejna hai - "VIP42" number "9876543210" par. Simple hai na? Aur pata hai kya? Aapko pehla ringtone absolutely free mila jayega!
+receiver: Okay, “VIP42” number “9876543210” par SMS bhejana hai... Theek hai.  Aur pehla ringtone free?  Yeh to ek acha offer hai!  Kab tak yeh offer chalega?  Is scheme ka validity period kya hai?
+caller: Arre, yeh offer sirf 24 ghante ke liye hi available hai, specially aapke liye! Jitni jaldi aap install karenge, utni hi jaldi aapko naye-naye songs ke ringtones milne lagenge. Sirf aaj raat ke 12 baje tak, hurry up karo!  Aur haan, har ringtone ke liye sirf ₹50 ka payment, aur aapko 10 confirmation messages mileinge, agar aapko koi aur detail chahiye. So, ready hain apni smartphone ko upgrade karne ke liye?
+receiver: 24 ghante ke liye?  Wow!  Yeh toh seriously amazing ho gaya!  Okay, main abhi SMS send kar dungi. "VIP42" number "9876543210" par.  ₹50 ka payment…  Theek hai. Dhanyavaad!
+caller:  Ji ji!  Apne smartphone ko better banane ke liye congratulations!  Enjoy karein apne naye ringtones!  Agar koi problem ho toh humein contact karein.  Namaste!

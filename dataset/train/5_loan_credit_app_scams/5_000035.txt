@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We are calling from Loan Express India. Your loan application has been pre-approved for ₹30,000! Very simple process, just a few details to confirm.
+receiver: Loan Express? I don’t remember applying for a loan. I’m a bit busy right now.
+caller: No problem, madam! This is a limited-time offer. To activate, we just need a small processing fee of ₹2,500 to verify your account and prevent fraud. You can send it through UPI – 8765432109@ybl.
+receiver: ₹2,500? To activate a loan I didn’t even ask for? That sounds suspicious. I’m not paying anything upfront.
+caller: Priya ji, please don't misunderstand. This is just a security measure. Without this, we can't guarantee your loan approval. Think of it as insurance against scammers!  We also need a selfie with your Aadhar card, just to confirm your identity.
+receiver: A selfie with my Aadhar card? That's ridiculous and a huge privacy risk! I’m ending this call. This is definitely a scam.
+caller: Priya Sharma, don't be foolish! If you don’t pay the ₹2,500 now and send the selfie, we will be forced to report you for attempting to defraud Loan Express India! We have your number, we know who you are.

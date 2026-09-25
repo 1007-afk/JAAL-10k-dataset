@@ -1,0 +1,7 @@
+caller: Hello? This is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We need to speak with you urgently regarding a suspected involvement in a case of illegal gold smuggling.
+receiver: Illegal gold smuggling? Yeh kya bol rahe hain? Main toh kabhi gold ka koi deal nahi kiya. Who are you really?
+caller: Sir, we have intelligence suggesting a significant amount of gold was shipped under a false declaration using your GST number. This is a serious matter, sir. We need to verify some details immediately to avoid further legal complications.
+receiver: GST number? Lekin main ek chota business karta hoon. Gold ka kya relation hai mere se? Show me some proof. Aur GST number public record hai, anybody can use it.
+caller: Sir, we understand your concern, but time is of the essence. We have recorded evidence linking your GST number to the transaction. For your own safety, we need to keep you on this call with us while we investigate further. We’ll need you to transfer ₹50,000 to this bank account - it’s a processing fee to clear your name. Account number is 1234567890, IFSC code is ABCD0001234.
+receiver: ₹50,000? Processing fee? Yeh toh scam lag raha hai! Main police station jaa raha hoon abhi. Don't call me again.
+caller: Sir, please don't do that! You are making a huge mistake. This is a sensitive operation, and we cannot risk exposure. Transfer the money quickly to avoid arrest and serious legal repercussions. We have your location tracked.

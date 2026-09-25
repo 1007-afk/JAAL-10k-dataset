@@ -1,0 +1,14 @@
+caller: Koi baat nahin sir/madam! Aapka waqt vala. Par yaad rakhein, yeh offer sirf aaj raat 6 baje tak chal raha hai! Aapko hurry shuru karni chahiye!
+caller: Namaste sir/madam, welcome to DigiConnect! Aapko pata hai kya, humare paas Galaxy Z Flip Lite aur InstaSnap X7 camera phones par 3/4 price installment plan mil raha hai! Is offer ko dekh kar aapko bhi dikhone layak lagta hai, isn’t it?
+receiver: Haanji, sun raha hoon. Mera naam Ramesh Kumar hai. Mujhe toh Flipkart par mobile kharidne ka idea tha, lekin yeh offer bhi acha laga. Galaxy Z Flip Lite kaisi hai? Aur InstaSnap X7 ka quality kya hai?
+caller: Ramesh ji, absolutely! Galaxy Z Flip Lite toh bahubhar hai! Super slim, super cool, aur colours bhi bahut hi trendy hain. And the InstaSnap X7, woh bhi top class photography ke liye famous hai.  Aapko picture bahut hi clear aur vibrant milengi.  Installment plan mein, aapko mobile ki actual price ka 3/4th pay karna hoga monthly.
+receiver: 3/4th? Matlab, agar phone ka price 20000 rupees hai, toh mujhe monthly 5000 rupayenge denge? Aur InstaSnap X7 ka warranty kya hai?  Bhi bataiye na.
+caller: Exactly sir! 20000 ka phone aapko 5000 rupayenge monthly padega.  And regarding the InstaSnap X7, wohme 1 year ka official warranty hai.  Plus, humari company extra 6 months ka extended warranty bhi provide karti hai, woh aapko totally free mein milega!
+receiver:  Free extended warranty?  Yeh toh accha hai!  Par mujhe jitni detail chahiye, mujhe yeh bhi bataiye ki installation charges kab tak payable honge.  Aur yeh Z Flip Lite, woh screen size kya hai?  Bhi bataiye na.
+caller: Installation charges?  Woh ek chota sa setup fee hai, jo aapko phone install karne ke liye dena hota hai.  Woh 500 rupayen ka hai, aur woh ek baar hi dena hota hai.  Z Flip Lite ka screen size 6.7 inches ka hai, very spacious and perfect for gaming and watching videos.  Aapko is deal ko lock karne mein kitna time lagta hai?  Humare paas sirf 3 offers bache hain, aur yeh bahut jaldi khatam ho rahe hain!
+receiver: 500 rupayen? Okay, okay.  Par mujhe yeh bhi bataiye ki agar main payment delay kar deta huon toh kya hoga?  Koi penalty charges lagenge?  Aur yeh extended warranty, woh kaise claim kar sakta huon agar phone mein koi problem hogi?
+caller:  Koi baat nahin sir, if you delay the payment by even just a day, we will apply a small late payment fee of 100 rupees. But don’t worry, we’ll give you a reminder before that happens. Regarding the warranty claim, you can easily contact our customer support team through our website or helpline number.  They will guide you through the process.  Aapko yeh offer lock karne mein kitna time lagta hai?  Is deal ko miss mat karein!
+receiver:  Okay, thank you. Main thoda sochunga.  Thank you.
+caller: Koi baat nahin sir! Aapka waqt vala. Par yaad rakhein, yeh offer sirf kal subuh 8 baje tak chal raha hai!
+caller:
+receiver:

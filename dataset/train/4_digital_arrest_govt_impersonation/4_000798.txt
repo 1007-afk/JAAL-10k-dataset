@@ -1,0 +1,8 @@
+caller: Namaste Sir! Ye call Indian Customs se hai. Aapke naam par ek parcel aaya hai jo illegal items se bhara hua hai.
+receiver: Illegal items? Kya? Main to kuch bhi illegal order nahi kiya hai.
+caller: Sir, parcel tracking number [fictional number] hai. Records mein dikh raha hai ki parcel mein banned substances mile hain. Aapse judne ke liye CBI officer ka phone call aa sakta hai, lekin pehle hamein malwana hai ki aapko is bare mein pata hai ya nahi. 
+receiver:  Par kya? Main to kabhi bhi suchi mein nahi aaya hoon. Aapko kaise pata?
+caller: Sir, hukum se hamein strict instructions diye gaye hain. Aapse kuch details aur documentations chahie taaki case ki investigation begin ho sake. Thoda sa amount, legal processing fee ke taur pe, deposit karna padega.
+receiver:  Processing fee? Kitna amount hai? Aur main kaha deposit karun? Yeh sab kuch mujhe fraud jaise lag raha hai.
+caller: Sir, amount 10,000 rupees hai. Aapko payment gateway link send karenge, aur jab case resolve ho jayega, toh refund mil jayega. Please cooperate karein.  Time bahut kam hai, Sir.
+receiver:  10,000 rupees? Main report karunga police mein.

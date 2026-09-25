@@ -1,0 +1,7 @@
+caller: Hey Priya! Missing you so much. Just saw the most amazing sunset and wished you were here to share it with me. I’m at a resort near Goa. Thinking of you constantly.
+receiver: Hey! Wow, Goa sounds incredible! That's lovely to hear. Work’s been crazy here, but I'm glad you're having a good time. What resort are you staying at?
+caller: It’s called the Azure Paradise. It’s a little pricey, but totally worth it for the view. Listen, I’m in a bit of a bind. My wallet got stolen, along with my cards. I need to extend my stay here for a few more days, but I'm short on funds. Can you possibly send me ₹8,000 to help me out? I’ll pay you back the moment I get my new cards.
+receiver: Oh no! That's terrible! Stolen wallet and cards... that's awful. Goa is expensive, I understand. But sending money over the internet is risky. Are you sure there’s no other way? Can't you contact your family?
+caller: I tried, but they're all unreachable right now. This is really embarrassing, but I'm desperate. I’d really appreciate it if you could help me out. I’m sending you a photo of my passport as proof. Just a quick transfer to this UPI ID: 9876543210@axisbank. I'll be eternally grateful.
+receiver: Hold on. Let me double-check something first. I'm going to report this to the cybercrime helpline. I have a bad feeling about this.
+caller: Priya, please don’t do that! I swear I’m telling the truth. I wouldn’t ask if it wasn't urgent. Think of all our

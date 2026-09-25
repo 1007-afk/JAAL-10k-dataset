@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Verma? My name is Priya from Global Crypto Investments. We've noticed your interest in digital assets and have an exclusive opportunity for you.
+receiver: Haan ji, Verma bol raha hoon. Crypto Investments? Exclusive opportunity, batao kya hai?
+caller: We’re offering a guaranteed 12% daily return on a new cryptocurrency trading bot. It’s incredibly simple - you deposit funds, and the bot does all the trading for you. To activate your account, we require a small activation fee of ₹7500 to cover transaction processing and security.
+receiver: 12% daily? That seems too good to be true, Priya ji. Is this really a legitimate investment? Can you tell me more about this bot?
+caller: Absolutely, sir! It's based on proprietary AI algorithms developed by our team of expert traders. This is a limited-time offer for select clients. To get started, please send the ₹7500 to the UPI ID: globalcrypto.payments@xyz. Once received, your bot will be activated within 24 hours.
+receiver: UPI ID? I'm a little hesitant sending money through UPI for a new investment. Can I see some proof of previous returns, or talk to someone who’s already used this bot?
+caller: We understand your concern, sir. Due to client privacy, we cannot share personal details. However, we can guarantee your investment and offer a bonus of ₹2000 on your first deposit as a sign of our good faith.  This is truly a risk-free opportunity.
+receiver: ₹2000 bonus? Hmm... Okay, I'll make the payment. Please send me the transaction confirmation once it’s received.
+caller: Wonderful, Mr. Verma! Your account will be activated immediately after we receive the payment. You will see your profits start

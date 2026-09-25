@@ -1,0 +1,11 @@
+caller: Hello! Main XYZ Courier se Atul Sharma bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: XYZ Courier? Haan, mein Deepak Verma hoon. Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Deepak ji, parcel IndiaPost ke through aa raha hai, isliye notification nahi aaya. Yeh ek mobile phone ka parcel hai, Tata Nano X. Value ₹18,000 hai. Address mein gaon ka naam sahi nahi likha hai, isliye parcel ruk gaya hai.
+receiver: ₹18,000 ka phone? Main toh kuch order nahi kiya tha. Gaon ka naam sahi hi likha hua hai.
+caller: Deepak ji, woh delivery boy galti se wrong address lik deta hai kabhi-kabhi. Parcel deliver karne se pehle, aapko ₹350 ka verification fee pay karna padega. Payment karne ke baad, main delivery boy ko call karunga aur woh parcel aapke address par deliver kar dega.
+receiver: ₹350? Verification fee? Yeh toh scam lag raha hai. Main police mein report karunga.
+caller: Deepak ji, please! ₹350 bahut kam hai, aur parcel ₹18,000 ka hai. Main aapko OTP de dunga, usko pay karte hi parcel deliver ho jaega. Jaldi karo, warna parcel return ho jayega.
+receiver: Theek hai, thik hai. Payment kaise karun?
+caller: UPI se kar sakte hain, Deepak ji. Mere account number se pay kardo. 8765432109.
+receiver: Main dekhunga. Tumko call karunga.
+caller: Jaldi karo, Deepak ji! Time bahut kam hai!

@@ -1,0 +1,8 @@
+caller: Namaste! Flipkart customer care se baat kar rahi hoon, mera naam Priya hai. Aapke recent order number FLP987654321 ke saath ek chhoti si issue aa gayi hai.
+receiver: Oh, really? What happened? I was waiting for that delivery.
+caller: Ji, delivery agent ne kaha ki address galat hai. Vahi koi extra charge apply ho sakta hai isliye hum verify karna chahte hain ki address sahi hai. Aapka OTP share karein please?
+receiver: OTP? Why do you need my OTP for verifying the address? Flipkart never asked for OTP before.
+caller: Ji, security ke liye. Fraud se bachne ke liye OTP bahut zaroori hai. Is OTP se hum confirm kar sakte hain ki aap hi bol rahe hain. Fast please, delivery delay ho rahi hai.
+receiver: No, I don't think so. I’ll check my Flipkart account directly. This sounds suspicious. Thank you.
+caller: Madam, please, very urgent. Rs.250 charge apply ho jayega. Please share OTP, otherwise delivery cancel ho jayega.
+receiver: I'm ending this call. You are a scammer.

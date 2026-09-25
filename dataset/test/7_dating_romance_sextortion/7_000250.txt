@@ -1,0 +1,16 @@
+caller:  Tum sun rahe ho kya? Mera naam Sanjay hai. Main tumhein ek bahut badi deal ke bare mein baat karne chale gaya hun.
+receiver:  Haan Sanjay, main sun raha hun. Kya deal hai yeh? Batao mujhe.
+caller:  Haan, main theek hoon. Priya, tumhara jawaab HAI-789. Yeh tumhare liye ek superb chance hai.
+receiver:  Okay Sanjay, HAI-789, acha.  Yeh deal kya hai?  Jo bataoge vo sab sahi hoga.
+caller:  Dekho Priya, yeh deal tumhein ek nayi dosti banane ki salahdarii deta hai. Ek dosti jo tumhari madad karegi, tumhari sunegi aur tumhein khushi hogi. Tumhare liye yeh ek khaas offer hai.
+receiver:  Hmm, ek nayi dosti jo meri madad karegi?  Bas is ‘khaas offer’ mein kya karna hai?  Kya koi investment hai ya koi commitment hai?  Mujhe jitni possible tarah se jaante hain.
+caller:  Priya, yeh deal sirf dosti banane ki salahdarii hai. Tum ek nayi aur achhi dosti mil rahi hai. Tum samajh pahunch rahi ho na? Tumhein sirf ‘HAI-789’ kehna tha aur tumne kar liya. Ab woh dosti tumhare liye ready hai.  Abhi sirf 3 chances bach gaye hain, soch le.
+receiver:  Okay, Sanjay, let me get this straight. This deal is just about finding a new friend, and by saying ‘HAI-789’, I have secured it?  That's all there is to it? No other steps or promises?  And how many more chances are available now, you said three?
+caller:  Aap sun rahe hain kya? Mera naam Rahul hai. Main aapko ek bahut important information dena chahta hun.
+receiver:  Haan Rahul, main sun raha hun. Information kya hai? Bataiye mujhe.
+caller:  Haan, main theek hoon. Shreya, aapka jawab IS-234. Yeh aapke liye ek bahoot accha jaga hai.
+receiver:  Okay Rahul, IS-234, acha.  Yeh information kya hai?  Jo aap bataayenge vo sab sahi hoga.
+caller:  Dekho Shreya, yeh information aapko ek nayi business starting karne ki salahdarii deta hai. Ek business jo aapko paisa kamane mein madad karega, aapki sunegi aur aapko zyada khushi hogi. Aapke liye yeh ek khaas offer hai.
+receiver:  Hmm, ek nayi business? Bas is ‘khaas offer’ mein kya karna hai?  Koi paperwork hai ya koi investment hai?  Mujhe jitni possible tarah se jaante hain.
+caller:  Shreya, yeh information sirf business starting karne ki salahdarii hai. Aap ek nayi aur achhi business mil rahi hai. Tum samajh pahunch rahi ho na? Tumhein sirf ‘IS-234’ kehna tha aur tumne kar liya. Ab woh business tumhare liye ready hai.  Abhi sirf 5 chances bach gaye hain, soch le.
+receiver:  Okay Rahul, let me get this straight. This information is just about starting a new business, and by saying ‘IS-234’, I have secured it?  That's all there is to it? No other steps or promises?  And how many more chances are available now, you said five?

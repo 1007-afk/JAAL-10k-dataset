@@ -1,0 +1,8 @@
+caller: Namaste sir, main ICICI Bank se Rahul bol raha hoon. Aapke account mein achanak se kuch suspicious activity dikh rahi hai. Account secure rakhne ke liye, humein KYC update karna hoga.
+receiver: ICICI Bank? Maine toh koi suspicious activity toh feel nahi kar raha. KYC update? Abhi kyun? Main busy hoon, later kar sakte hain kya?
+caller: Sir, yeh urgent hai. System ne automatically detect kiya hai. Agar aap abhi update nahi karayenge, toh aapka account 24 hours mein suspend ho sakta hai. Kuch hackers ne aapke account ko target karne ki koshish ki hai.
+receiver: Account suspend? Sir, yeh toh bahut serious lag raha hai. Lekin mujhe phone pe apni details share karne mein comfort nahi ho rahi. Aapko mera PAN card number ya bank details chahiye?
+caller: Haan sir, verification ke liye humko sirf PAN card number aur ek OTP chahiye jo aapke registered mobile number pe aayega. Bus itne hi details ki zaroorat hai, aur aapka account safe ho jayega. Seedhe-saadhe 4 minutes mein ho jayega.
+receiver: OTP? Sir, ICICI Bank toh OTP phone pe nahi maangta. Mujhe doubt ho raha hai. Aap mujhe koi official email ID ya customer care number bataiye jahan main khud call karke verify kar sakoon.
+caller: Sir, email ID ya customer care number bataane ki permission mujhe nahi hai. Yeh process direct hai. Sir, aapka account suspend hone se pehle jaldi se OTP share kar dijiye. Abhi sirf ek minute bacha hai, sir.
+receiver: Seedha suspend kar denge kya? Sir, yeh zyada fraud lag raha hai. Main call cut kar raha hoon.

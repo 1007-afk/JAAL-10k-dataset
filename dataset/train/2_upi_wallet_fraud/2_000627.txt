@@ -1,0 +1,9 @@
+caller: Hello sir, is this Raj Sharma? We’ve noticed unusual activity on your FreeCharge wallet.
+receiver: Unusual activity? What kind of activity? Everything seems fine to me.
+caller: Sir, someone tried to make a large transaction from your wallet to a new account. To secure your funds and prevent further unauthorized access, you need to verify your FreeCharge details immediately.
+receiver: Verify? How do I do that? Is there a message on the FreeCharge app? I don’t see anything.
+caller: No sir, there's no message in the app. We need you to quickly share a one-time password (OTP) that we'll send to your registered mobile number. Just to confirm it's you.
+receiver: An OTP? Why can’t I do this directly in the app? Seems suspicious, actually.
+caller: Sir, this is a new security protocol. The app system is temporarily down. Quickly, please share the OTP so we can freeze your account and prevent the fraud!
+receiver: Okay, fine. Send the OTP.
+caller: Excellent, sir! Now, for extra verification, could you kindly tell me the last four digits of your linked bank account number? Just to double-check everything.

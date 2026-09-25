@@ -1,0 +1,7 @@
+caller: Hello, this is Deepak from QuickCash Solutions. I see you recently applied for a personal loan through our app. Congratulations, your application is pre-approved for up to ₹50,000! Just need to verify a few details. Your name?
+receiver: Yes, hello. My name is Anjali Sharma. But I wasn't really expecting approval, my credit history isn't great.
+caller: That’s alright, Anjali ji! QuickCash Solutions helps everyone. To activate the loan, we need a small processing fee of ₹2,500 upfront. This ensures your account is secured and the funds released immediately. You can transfer it to this UPI ID: 9876543210@axisbank.
+receiver: ₹2,500? But I thought it was an instant loan. And why upfront payment? That doesn't sound right.
+caller: Anjali ji, this is standard procedure. Other banks do it too! Without this, we can’t guarantee the loan.  And trust me, if you don’t pay, these guys at Recovery Department will get aggressive, sending morphed photos of you to your family! You don’t want that, do you?
+receiver: Morphed photos? That’s a threat! I’m not paying anything. This sounds like a scam. I’m ending this call.
+caller: Wait, wait, Anjali ji! Don't be hasty! We can reduce the fee to ₹1,500. Just to resolve this quickly. Think of it as a small investment to avoid a big problem. Please, just transfer the money, and you’ll have your ₹50,000 within the hour.  We don't want your reputation ruined, do we?

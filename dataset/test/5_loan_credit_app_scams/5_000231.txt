@@ -1,0 +1,9 @@
+caller: Hello, is this speaking to Mr. Rajesh Sharma? I am calling from QuickLoan India. We've pre-approved you for a personal loan of up to ₹15,000. Just a few simple steps and the money is in your account.
+receiver: Oh really? That’s good. I could use a little extra cash right now. What’s the interest rate like?
+caller: Congratulations, sir! For a valued customer like you, we’re offering a promotional rate of just 8%. Very attractive. To activate the loan, we need to verify your identity. Can you please share the last four digits of your PAN card?
+receiver: I'm a little hesitant to give out that information over the phone. It seems risky.
+caller: Sir, please don't worry! This is standard procedure to prevent fraud. We need it to confirm you are the legitimate account holder.  Otherwise, we can’t release the funds. Think of the ₹15,000! And just to confirm, are you currently facing any financial difficulty?
+receiver: I am a bit short on funds this month, yes.
+caller: Excellent, Mr. Sharma! Now, for the final verification step, could you quickly tell me the OTP that was just sent to your registered mobile number? It is for security reasons.
+receiver: I don’t think I received an OTP.
+caller: Sir, this is very unusual. We are trying to help you out here. Let me check something... *long pause* ...Oh dear, it seems there's been a slight technical issue with our system. We will have to block your loan application unfortunately.

@@ -1,0 +1,7 @@
+caller: Namaste Sir! Is this Mr. Rajesh Sharma? We are calling from the Cyber Crime Investigation Cell, Delhi. We have detected some suspicious activity on your bank account linked to an international parcel.
+receiver: Haan, bolhiye. What happened to my account? Parcel? I didn’t order anything.
+caller: Sir, it appears a large sum of money was transferred to your account from abroad, linked to a shipment containing illegal narcotics. This is a very serious matter, Sir. To clear this up and prevent legal action, we need you to cooperate.
+receiver: Narcotics? Illegal shipment? But I didn't do anything! I’m a retired teacher. What kind of nonsense is this?  Can you give me a case number?
+caller: Sir, we understand this is concerning. To verify your identity and resolve this quickly, we need you to deposit ₹15,000 as a processing fee to secure your assets. We will keep you on a video call so you don't share this information with anyone else.
+receiver: Fifteen thousand rupees? This is a scam, isn’t it? I’m reporting this to the police. I won’t pay anything!
+caller: Sir, please don't be hasty. This is a standard procedure to protect you from further complications.  We'll send you a UPI ID. Payment is the only way to avoid arrest and prosecution, Sir.

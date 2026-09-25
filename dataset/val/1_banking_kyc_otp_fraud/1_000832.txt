@@ -1,0 +1,9 @@
+caller: Namaste, Madam. This is Priya from Secure Investments. We've noticed some unusual activity on your RuPay card linked to your IndusInd Bank account.
+receiver: Haan, bolo. Unusual activity? Kya hua?
+caller: Yes, Madam. A transaction of ₹5,200 was attempted to an online gaming platform yesterday evening. We are blocking the card as a precaution, but to reinstate it and prevent any further issues, we need to quickly verify your details.
+receiver: Gaming platform? Maine toh kabhi online games nahin khela. ₹5,200? Yeh toh bahut zyada hai! Verify kaise karein aap?
+caller: Absolutely Madam, you're right to be cautious. Just a few simple security questions. Can you please tell me the last four digits of your Aadhaar card? This will confirm we are speaking to the rightful owner.
+receiver: Aadhaar number? Main apna Aadhaar number phone pe kisi ko bhi nahi de sakta. Yeh toh risky hai.
+caller: Madam, please understand this is a standard security protocol. Without verifying, we cannot unblock your card and you won't be able to access your funds. This is to protect you from fraud.
+receiver: Fraud? Par agar aap IndusInd Bank se hain toh aapko toh meri details toh pata hona chahiye na? Ek moment, main IndusInd Bank ke customer care number se call karta hoon aur confirm karta hoon.
+caller: Madam, please don’t waste time. The security breach is ongoing. If you don’t provide the information now, your account will be temporarily suspended. We need to act fast.

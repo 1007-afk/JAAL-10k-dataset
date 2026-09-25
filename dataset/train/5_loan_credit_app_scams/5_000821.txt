@@ -1,0 +1,8 @@
+caller: Namaste! Mein Raj Financials se baat kar raha hoon. Aapka naam Priya Sharma hai, kya? Humare record ke hisab se aapki loan application pending hai.
+receiver: Haan, ji. Main Priya Sharma hoon. Loan apply toh kiya tha, lekin abhi koi update nahi mila.
+caller: Ji haan, verification ke liye kuch details chahiye. Humare system mein kuch inconsistencies dikh rahi hain. Aapka pan card aur bank statement ki copy humein urgently chahiye.
+receiver: Bank statement? Pan card toh main offline submit kar chuki hoon. Online kyun chahiye?
+caller: Dekhiye, online verification security purpose ke liye hai. Agar aapko loan approve karna hai, toh yeh zaroori hai. Aur humein aapke phone mein install hue apps ka bhi screenshot chahiye, verification ke liye.
+receiver: Kya? Apps ka screenshot? Yeh thoda se zyada lag raha hai. Loan ke liye apps ka screenshot kyun chahiye?
+caller:  Priya ji, security reasons. Hum chahte hain ki aapka account secure rahe. Aur agar aap online banking bhi use karte hain toh uska OTP bhi chahiye verification ke liye.
+receiver: OTP? Bas abhi mein thoda busy hoon. Mein baad mein call karunga.

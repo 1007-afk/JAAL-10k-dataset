@@ -1,0 +1,7 @@
+caller: Namaste! Calling regarding your recent order from Zomato. There seems to be an issue with your payment authorization. Can you please confirm your delivery address for verification?
+receiver: Hello? Yes, sure. It's 123 Main Street, Apartment 4B, Mumbai. What’s the problem?
+caller: Thank you. Our system flagged a potential security concern. To resolve this, we need to verify a one-time password (OTP) that we’ve sent to your registered mobile number. This is standard procedure.
+receiver: An OTP? Okay, let me check... Yes, I got it. It's 456789.
+caller: Excellent! Thank you for that. Now, to complete the verification, we require access to your device to run a security scan. It's a simple process, and we’ll guide you through it. It will only take a minute. We’ll send you a link.
+receiver: Wait a minute… access to my device? That sounds a little strange. Why do you need that? Is Zomato really asking for this?
+caller: Absolutely! It's a new security protocol implemented to protect our customers. Just click the link and follow the instructions. It's fully secure. This will prevent fraud and ensure your order is delivered safely. Don't worry; we’ll be here to assist you.

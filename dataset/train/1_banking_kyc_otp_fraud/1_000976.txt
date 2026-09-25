@@ -1,0 +1,6 @@
+caller: Namaste sir, main HDFC Bank se calling karta hoon. Aapke naam par ek international transaction try kiya gaya hai, jo fail ho gaya. Security ke liye, humein aapke account details verify karne hain.
+receiver: HDFC se? International transaction? Mujhe toh koi notification nahi aaya. Account details matlab kya verify karna hai? Mera naam Raj Sharma hai.
+caller: Haan, Raj Sharma ji. Humein aapka registered mobile number aur OTP verify karna hai. Isse hum confirm kar sakte hain ki transaction aapne kiya hai ya nahi. Aur kuch details bhi jankari hogi KYC ke liye update karne ke liye.
+receiver: OTP? Sir, main abhi phone pe OTP nahi de sakta. Koi aur method hai kya? Main branch mein jaakar verify kar sakta hoon?
+caller: Sir, branch mein jaane mein time lag jayega aur transaction risky ho sakta hai. OTP se hume ek minute mein confirm ho jayega aur aapka account safe rahega. Aage transaction fail ho sakta hai aur aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Wait, mujhe ek second. Let me check something on my online banking app. *(sound of typing)* Nahin, sir, online banking mein kuch bhi suspicious nahi dikh raha. Mujhe lagta hai koi scam hai. Bye.

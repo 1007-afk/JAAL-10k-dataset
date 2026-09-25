@@ -1,0 +1,8 @@
+caller: Hello sir, main SBI Bank se bol raha hoon. Kya aapko naya credit card chahiye? Card issue karne ke liye aapka Aadhaar aur mobile number milega?
+receiver: Oh, hello. SBI se? Naya credit card? Acha, dekhta hoon. Aadhaar aur mobile number? Abhi toh nahi hai mere paas, kyunki main bahar hoon. Koi aur time call kar sakte ho?
+caller: Koi baat nahi sir, aap jab convenient ho tab bata dena. Main aapko time se call karunga. Kya main aapka naam jaan sakta hoon sir, taaki main aapko properly address kar sakoon?
+receiver: Haan, main Mumbai mein hoon. Kya time chal raha hai wahan? Aisa hai ki main kal shaam ko office mein aa jaunga. Tab call kar sakte ho? Aur mera naam... mera naam Rahul hai.
+caller: Ji sir, bilkul. Kal shaam ko aapke office mein hi call karunga. Mumbai mein abhi around 4 PM hai. Aapka naam Rahul hai, yeh note kar liya maine. Thank you sir.
+receiver: Theek hai, thank you. Kal shaam ko phone karna. Bye.
+caller: Hello Sir, main SBI Bank se bol raha hoon. Kya aapko naya credit card chahiye? Card issue karne ke liye aapka Aadhaar aur mobile number milega?
+receiver: Oh, hello! Achha, main toh abhi bahar hoon. Kal shaam ko office mein aa jaunga. Tab call kar lena? Aur haan, mera naam Rahul hai.

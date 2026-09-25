@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from ICICI Bank security. We’ve detected some unusual activity on your savings account. Just confirming you are the account holder.
+receiver: Haan, mein hu. Unusual activity? Kya hua?
+caller: Ma’am, a transaction of ₹12,500 is pending for verification. To secure your account and prevent this fraudulent withdrawal, we need to confirm a few details. Can you please provide the last four digits of your PAN card?
+receiver: PAN card? Kyon? Bank mein to already PAN card hai mera. Yeh kyun pooch rahe hain?
+caller: Ma'am, it's a standard security protocol to confirm your identity. If you don't cooperate, we may have to temporarily suspend your account as a precautionary measure. We are trying to avoid that, so could you please provide those digits? Also, a one-time password has been sent to your registered mobile number. Kindly share that too, for immediate verification.
+receiver: Account suspend kar denge? Wait a minute… OTP? Mein toh koi OTP receive nahi kiya. Aur PAN card ka last four digit bataane se kya hoga? Yeh kuch ghalat lag raha hai.
+caller: Ma’am, please don't delay this. The transaction is flagged for immediate review.  The OTP is crucial to blocking the unauthorized withdrawal. We’ve sent it just now, please check. Providing the PAN details confirms it's you, and the OTP verifies your phone is still active. It’s a quick process. Just a few moments, ma'am.
+receiver: Nahin, nein OTP mila hai.  Aur mein PAN card number bhi nahi dunga. Tum log ICICI bank se nahi ho.  Mein police ko report karungi.  Goodbye.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma?
+receiver: Haan, bolie.
+caller: This is Akash calling from Zomato customer care. We've noticed some unusual activity on your account, specifically a large pending order of ₹1850 to an unknown address in Jaipur.
+receiver: ₹1850? Jaipur? I didn't order anything like that! What’s happening?
+caller: Yes ma'am, it appears someone used your Zomato credentials. To secure your account and prevent further fraudulent charges, we need to verify a one-time password sent to your registered mobile number. Can you please share it?
+receiver: Wait a minute! Why do I have to give you the OTP? Shouldn't I be calling Zomato directly?
+caller: Ma'am, this is a security protocol. Sharing the OTP ensures we can quickly block the unauthorized transaction. Otherwise, the money will be deducted from your account.  It’s a standard procedure.  Please give the OTP, and I will block that fraudulent order.
+receiver: Okay, fine. The OTP is 478291.
+caller: Thank you, ma'am. Just one moment while I process that... Also, to complete the verification, we require remote access to your device to secure your Zomato app, otherwise the order may still go through. Can you allow us access using this link? [Provides a suspicious link]

@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash from BharatPe support. We've detected some unusual activity on your BharatPe account, specifically a few attempted UPI transactions that failed. We’re just calling to verify your details and secure your account.
+receiver: BharatPe? Haan, mein Priya Verma hoon. Kya hua? Kuch problem hai?
+caller: Yes, ma’am. There were three failed attempts to send ₹1500 to a new UPI ID. It seems someone might be trying to access your account. To prevent any losses, we need to verify a few details. Can you please confirm the last three digits of the bank account linked to your BharatPe? It’s for security purposes.
+receiver: Bank account number? Kyun bataun? BharatPe mein bank account ka number public nahi karte. Yeh theek nahi lag raha hai.
+caller: Ma'am, please understand, we’re doing this to protect your money. These failed transactions could indicate a hacking attempt. To lock your account temporarily and investigate, we need this verification. It’s a standard procedure. Also, we need to send you a one-time password (OTP) to your registered mobile number to confirm you’re the account holder.
+receiver: OTP toh ata hai hamesha, lekin bank account number kyun? Koi dikkat hai. Mein BharatPe customer care number se call karta hoon aur report karta hoon.
+caller: Ma'am, don't worry, we're here to help. The OTP is just a confirmation, but the bank details are crucial for us to trace the failed transactions and block the suspicious UPI ID. Otherwise, there's a risk of further attempts. Think of it as safeguarding your hard-earned money. Please cooperate, it will only take a minute.
+receiver: Nahin, mein kuch nahi bataungi. Yeh scam lag raha hai. Aapko bye bolna,

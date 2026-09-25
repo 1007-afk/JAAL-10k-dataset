@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma calling from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items. Preliminary investigations suggest it may be linked to illegal import activities.
+receiver: Ji, main hi hoon. Kya? Package? Mujhe toh koi package nahi mila. Kuchh galat fehmi hai.
+caller: Mr. Sharma, our records indicate a shipment arrived three days ago, originating from Hong Kong. The contents are flagged for further examination. To clear this parcel and prevent legal action, you need to pay a processing fee of ₹12,500. We can arrange a secure online transfer.
+receiver: ₹12,500? Yeh bahut zyada hai! Main kabhi package order nahi kiya. Aur online transfer? Main scared hoon. Kaise pata chalega ki parcel mere naam se hai?
+caller: Mr. Sharma, we have your shipping address and Aadhaar number linked to the parcel. Refusal to cooperate will result in a formal investigation and potential arrest. To avoid this, please transfer the amount to the provided UPI ID: customs.clearance@axisbank. We are on video call to verify your identity and ensure transparency.
+receiver: Aadhaar number? Arrest? Ye toh fraud lag raha hai! Main police station mein report karunga. Main UPI transfer nahi karunga.  Dekhiye, main abhi video call end kar raha hoon.
+caller: Mr. Sharma, please don’t be hasty. Think about the consequences. We can send you a temporary clearance certificate to show the authorities if you cooperate.  Just transfer the amount, and we’ll send you the certificate immediately via WhatsApp. It’s a very simple process.
+receiver: WhatsApp certificate?  Sir, mujhe lagta hai aap log fraud kar rahe hain.  Main abhi se disconnect kar raha hoon.  Yeh number block kar doonga.

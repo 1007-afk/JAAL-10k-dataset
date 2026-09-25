@@ -1,0 +1,7 @@
+caller: Namaste, main IDFC First Bank se Rohan bolta hoon. Aapke naam par ek transaction request aaya hai, aur security ke liye humein aapka verification karna hai.
+receiver: IDFC First Bank? Mujhe koi transaction request yaad nahin aa raha. Kya hi ho raha hai?
+caller: Ji sir, ek online shopping transaction hua hai, 7,500 rupay ka. Aapne approve kiya tha ya nahin, mujhe pata nahin. Verification ke liye, mujhe aapka OTP chahiye, jo aapko abhi milega. Tabhi account secure ho payega.
+receiver: Wait, 7,500 rupay? Main toh koi shopping nahi ki hai! Aur OTP share karna safe hai kya? Bank aise nahi puchta hota.
+caller: Sir, please hastein mat. Account suspend ho sakta hai agar aap verification nahi karte. Yeh ek urgent matter hai. OTP se confirm ho jayega ki aap hi sahi account holder hain. Phir main transaction ko block kar dunga. 2 minute se kam time lagega.
+receiver: Account suspend? Okay, ek minute rukiye. Main apne bank app mein check karti hoon. Aap wait kijiye. (pause) Haan, sir, yeh transaction mein bhi dikh raha hai, par main toh isko recognise nahi karti.
+caller: Sir, achha! Toh phir OTP se confirm karke transaction ko block karwa lijiye.  Agar aap nahi bataenge, toh isko fraud declare kar denge aur aapka account freeze ho jayega.  Ek chhoti si help kar dijiye.

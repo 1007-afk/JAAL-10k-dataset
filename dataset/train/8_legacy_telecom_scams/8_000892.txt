@@ -1,0 +1,8 @@
+caller: Hello, hello! Haanji, aapne FreeMSG se ek message received kiya hoga, right? Ek FREE mini DIGITAL CAMERA ke baare mein? Maine check kiya, aapka number eligible hai! Sirf aapko 'SNAP' reply karna hai to collect your prize.  Easy peasy! Kya aap ready hain collect karne ke liye?
+receiver: Oh, really? A free camera? 'SNAP' karna hai bas? Okay, kar deta hoon 'SNAP'.
+caller: Haanji, bilkul! Bahut badhiya! Ab bas aapko ek chhota sa verification process complete karna hoga, taaki hum aapki prize ko safely aap tak pahuncha sakein. Iske liye humein aapke naam ki zarurat padegi.  Kya main aapka naam jaan sakta hoon?
+receiver: Haanji, mera naam Rohan Sharma hai.
+caller: Bahut shukriya, Rohan ji! Rohan Sharma ji, ab aapko ek chhota sa OTP verify karna hoga, jo aapke registerd mobile number pe aa jayega. Kya aapko abhi receive hua?
+receiver: Haanji, abhi aaya hai. Ek minute, check karta hoon.
+caller: Oh, great! Rohan ji, yeh OTP aapke bank details ko secure karne ke liye hai taaki aapka prize koi aur collect na kar sake. Ek baar yeh verify ho jaye, toh hum prize dispatch ki process start kar denge. Aapko bas woh OTP mujhe bata dena hai.
+receiver: Ji haan, abhi receive hua. 7... 8... 9... 0... 1... 2... yeah, 789012 hai OTP.

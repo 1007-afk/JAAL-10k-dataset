@@ -1,0 +1,22 @@
+caller: Suno madam, mere naam pe Arjun hai. Main aapse ek important baat karne aaya hun.
+receiver: Arjun ji, sunao, kya baat hai?
+caller: Haan, mai theek hoon.  Shanti ji, aapko ek bahut zaruri cheez mili hai -  Code Alpha-789. Yeh aapke liye ek bahut sundar sahayak ban sakta hai.
+receiver: Code Alpha-789? Kya hai yeh?  Mujhe kuchh samajh nahin aa raha.
+caller: Dekho Shanti ji, yeh code aapko ek new business ke liye madad karega. Isse aap apne ghar par paisa kama sakte hain, aur sabhi log aapko appreciate karenge.
+receiver: Hmmm, ghar par paisa kamaane ka scope hai?  Bas code likh le toh kya hota hai?  Ismein koi risk hai kya?
+caller: Shanti ji, yeh code free hai!  Aur yeh aapko bohat zyada earning ki guarantee dega.  Yeh ek bohot achha investment hai.  Abhi sirf 3 chances bache hain, soch lein aur decide karo.
+receiver:  Free hai?  Arjun ji, mujhe abhi time lagta hai.  Main phir se bulaunga.
+caller:  Theek hai, Shanti ji.  Par agar aap decide nahi karte, toh aapko loss ho sakta hai.  Code Alpha-789 yaad rakh lein.
+receiver:  Okay, Arjun ji. Dhanyavaad.
+caller:  Koi baat nahi.  Aapko subah ki dua mangnu.
+caller: Hello Madam, my name is Rohan. I’m calling about a fantastic chance for you.
+receiver: Hello Rohan, yes, I hear you clearly. What kind of chance is this?
+caller: Haan, I am fine. Priya Ji, we have received information – Beta-222. This is very beneficial for you.
+receiver: Beta-222? What is that? I don't understand.
+caller: See Priya Ji, this information will help you in a new project. It will bring good luck and success to your family.
+receiver: Good luck and success? Sounds interesting. But what exactly does ‘Beta-222’ involve? Is there any cost?
+caller: Priya Ji, it's completely free! Just share this information with three people, and you will receive a special reward. Only two slots remaining, so think carefully.
+receiver: Free? Really? Rohan, I need to check with someone first. I’ll call back later.
+caller: Alright, Priya Ji. Don't delay too long, because these opportunities won’t last forever. Remember Beta-222.
+receiver: Okay, Rohan. Thank you.
+caller: You are welcome. Have a blessed day.

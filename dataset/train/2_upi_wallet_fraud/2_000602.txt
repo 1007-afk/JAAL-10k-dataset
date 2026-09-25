@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is Akash from Paytm Rewards. We've noticed you’re eligible for a fantastic cashback offer on your Paytm wallet – ₹15,000! A promotional gift just for loyal users.
+receiver: Paytm Rewards? ₹15,000 cashback? Really? How did I qualify for this?
+caller: It's a random selection, ma’am. Very lucky you! To process the cashback, we just need to verify a small transaction to confirm your wallet is active. It’s a one-time charge of ₹250 as a ‘processing fee.’
+receiver: ₹250 processing fee? For cashback? That doesn't sound right. Paytm never asked me for a processing fee.
+caller: Ma’am, it's a standard procedure to prevent fraudulent claims. This ensures the reward goes to the rightful owner. Just send ₹250 through UPI to the number I'll provide - it will be instantly reversed. Think of it as an insurance against scammers trying to steal your reward.
+receiver: Wait a minute… what's the UPI ID you want me to send to? And why can’t this be done through the Paytm app itself? This feels very fishy.
+caller: The system is overloaded right now, ma'am. For faster processing, please use UPI. The ID is 87654321@axis. It's a secure, temporary payment. Don't worry, you’ll get your ₹15,000 immediately after.

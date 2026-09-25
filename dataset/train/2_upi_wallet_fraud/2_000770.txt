@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rahul bolta hoon. Aapko ek achha cashback offer mila hai – ₹5000 cashback aapke BharatPay wallet mein! Claim karne ke liye, sirf ₹99 ka processing fee deposit karna hai.
+receiver: ₹5000 cashback? BharatPay pe? ₹99 fee? Yeh sahi hai kya?
+caller: Haan ji, bilkul sahi! Yeh ek limited time offer hai. ₹99 fee sirf verification ke liye hai, taaki aapka account secure rahe. Aapko UPI ke through fee deposit karna hai, number main hi send kar dunga.
+receiver: UPI number send karo. Aur ₹99 fee kab se deposit karna hai?
+caller: Haan ji, yahan rakhta hoon – 7891234567@upi. BharatPay mein hi pay karo. Jaldi karo, offer abhi khatam hone wala hai! ₹5000 aapka ho sakta hai.
+receiver: Ek minute, main check karta hoon. BharatPay app mein to kuch dikh nahi raha hai. Koi offer nahi hai.
+caller: Sir, aapko galat samajh rahe hain. Yeh offer sirf select customers ke liye hai. Apne BharatPay app ko update karo, shayad is se ho jaayega. Jaldi karo, sir! Offer khatam hone wala hai!
+receiver: Nahi, mujhe nahi lagta. Main BharatPay customer care se baat karta hoon. Yeh scam lag raha hai.

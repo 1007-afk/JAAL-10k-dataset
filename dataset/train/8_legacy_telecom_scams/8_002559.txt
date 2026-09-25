@@ -1,0 +1,9 @@
+caller: Namaste! Main Vikram Sharma bol raha hoon. Aapko ek important update milne wali hai, 16+ content hai. Ismein ek new app install hona hai, bahut hi special hai. Just 3 seconds bache hain.
+receiver: Kya? 16+ content? App install? Main toh koi app install nahi kar raha hoon. What is this?
+caller: Sir, patience rakhiye. App aapki safety and security ko badhti hai. Ismein ek verification process hai, bas complete karna hai. 2 seconds remaining. Confirm karne ke liye ‘hai’ bol dijiye.
+receiver: Hai? Verification process? Mein unka verification process kyun karunga? Yeh kitna cheating hai! Main koi risk lena nahi chahta.
+caller: Re sir, yeh koi cheating nahi hai. Yeh ek premium subscription hai. App install karne ke baad, aapko access milega. 1 second left. Agar aapko subscribe cancel karna hai, to abhi bata dijiye.
+receiver: Subscribe cancel karna? But I didn’t even download the app! This is ridiculous! I want to end this call now.
+caller: Chill sir, just one more thing. App aapke device ko protect karega. Ismein ek automatic update bhi hai. 5 seconds remaining. If you say ‘haan’, then you will see the update.
+receiver: Haan? Update? I don't need any updates. I am done with this. Goodbye!
+caller: Okay, great! Thank you for your time. Have a nice day!

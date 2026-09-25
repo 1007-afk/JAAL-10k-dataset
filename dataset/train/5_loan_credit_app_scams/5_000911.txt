@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rahul Verma, FastLoanHelp se bol raha hoon. Aapko urgent paisa chahiye kya? Ghar ki emergency ya medical bill? Hum 24 hours mein loan approve karte hain, koi credit check nahi.
+receiver: Ji haan, actually meri mother ko hospital mein admit hone ke baad bill clear karne ke liye paisa chahiye tha.
+caller: Samajh gaya. Kitni amount ki zaroorat hai? ₹20,000 se ₹5 lakh tak, koi bhi amount hum de sakte hain. Aapka naam bataiye?
+receiver: Mera naam Priya Sharma hai. Aur mujhe approximately ₹60,000 se ₹70,000 tak ki zaroorat hai.
+caller: Priya Sharma, bahut achha naam hai. ₹70,000 hum aapko de sakte hain, lekin processing fee ke liye pehle ₹10,000 deposit karne honge. Account number hai 1234567890, IFSC code XYZ0000001.
+receiver: ₹10,000? Lekin aapne toh kaha tha credit check nahi hoga?
+caller: Priya ji, security ke liye kuch formalities hai. ₹10,000 deposit karke aapko pata chalega ki hum serious hain. Jab ₹10,000 deposit ho jayega, toh hum ₹70,000 aapke account mein transfer kar denge. Aur ager aap payment nahi kar payengi, toh hum aapke contacts ko message bhi kar denge, sharmindagi ka matter hai.

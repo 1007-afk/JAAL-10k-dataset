@@ -1,0 +1,7 @@
+caller: Namaste! Hello, this is SecureCredit Solutions calling. We've pre-approved you for a quick loan of up to ₹75,000! No credit check needed, instant approval. Just a few quick questions to verify your details.
+receiver: Oh, really? That's interesting. What kind of questions? And how much interest would I be paying?
+caller: First, can you confirm your full name and date of birth? It’s just standard procedure. As for the interest, it's a special promotional rate, just 5% per month. Very competitive, you see! It's designed for urgent needs.
+receiver: 5% a month seems a bit high. And why didn't my bank tell me about this? I have a good credit score with them.
+caller: Your bank might not offer these quick solutions, madam. This is a specialized service. Now, to release the funds, we need a small processing fee of ₹2,500 as a security deposit. Send it to UPI ID: SecureCreditPay@xyzbank.
+receiver: A processing fee *before* I get the loan? That sounds very suspicious. I think I'll have to decline. I'm ending this call now.
+caller: Wait! Don’t be hasty! This is a limited-time offer. If you don’t pay the ₹2,500 now, we'll have to cancel the approval and report you for wasting our time! We'll send the details to your contacts too, so they know you’re trying to cheat a legitimate company.

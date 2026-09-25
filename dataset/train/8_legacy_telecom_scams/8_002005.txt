@@ -1,0 +1,8 @@
+caller: Hello, ji! Main aapko kal raat se call kar raha hoon. Aapne message dekha tha na? Aapke 500 free text messages activate ho sakte hain, bas 'FREE' reply karna hai. Kya aapne try kiya?
+receiver: Haan, hello ji! Sorry, thoda busy tha. Message dekha tha maine, par abhi try nahi kiya. Aise hi karna hai, sirf 'FREE' type karke reply?
+caller: Haan ji, bas 'FREE' type karke reply karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapke 500 messages turant activate ho jayenge. Kya karna chahte ho?
+receiver: Achha, theek hai. Chalo, abhi try karti hoon. Dekhte hain hota hai ya nahi. Bas 'FREE' type karna hai, right? Ya koi number bhi hai?
+caller: Haan ji, bilkul 'FREE' likhna hai. Koi number nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main help kar dunga. Aapke liye hi toh hai ye offer.
+receiver: Oh, thank you! Aap itne helpful ho.  Theek hai, abhi try karti hoon.  Fingers crossed, hope ho jaye yeh jaldi se.
+caller: Haan ji, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi dikkat aaye toh bina jhijhak bataiye ga, main hoon na help karne ke liye. Ye offer bahut limited hai, toh jaldi se kar lijiye.
+receiver: Okay, I just typed 'FREE'. Sending it now.  Let's see if it works.  So, is there like a confirmation message I should expect, or how will I know it's done?

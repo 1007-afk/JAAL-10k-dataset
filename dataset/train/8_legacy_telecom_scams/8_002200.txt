@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal chahte hain? Main Bharat Telecom se baat kar raha hu. Aapko ek special offer mila hua hai - unlimited data 3 mahine ke liye, totally free!  Dekhiye, ek message aaya tha aapke phone par, right?  Toh, ab humein sirf ek cheez jankari chalni hogi, agar aapko data free milna hai.  Aapko jaise naam yaad hai?
+receiver: Namaste ji, achcha tha. Bharat Telecom se ho?  Haan, message dekha tha maine.  Fikar mat karo, naam yaad hai.  Phir kya karna hai?
+caller:  Bas, ek small verification process chahie.  Aapka ID number bataa sakte hain?  Aur kis network ka phone use karte hain?  Yeh toh sirf isliye le rahe hain, ki aapko data genuinely milna hai.  Iska koi kharaab effect nahi honge.  3 mahine ki unlimited data, aapke phone par, abhi hi shuru ho jayega!
+receiver:  Mujhe ID number yaad nahi hai.  Main Airtel use karta hoon.
+caller:  Okay, okay, don’t worry.  ID number important nahi hai.  Par, kis network ka phone use karte hain, wo batao.  Aur aapka email address bhi bataa sakte hain?  Yeh sirf isliye le rahe hain, ki aapka profile correct hai.  Data free milne ke liye.
+receiver:  Airtel hi hai, aur email address hai – rajesh.kumar@gmail.com.
+caller:  Shandar!  Great job, Rajesh!  Just one final step.  To confirm, aapka home address bataa sakte hain?  Ye toh sirf isliye le rahe hain, ki aapki identity correct hai.  3 mahine ki unlimited data, aapko free mil jayega!
+receiver:  Home address?  Uhmm... woh bataane mein time lag sakta hai.  Kahaan hai?

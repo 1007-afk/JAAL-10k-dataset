@@ -1,0 +1,7 @@
+caller: Namaste! Mai Swiggy Customer Care se Rahul bol raha hoon. Aapke naam par ek order hai, lekin payment mein kuch problem aa rahi hai.
+receiver: Swiggy? Kon sa order? Mujhe toh koi yaad nahi aa raha.
+caller: Haan sir, order ID SW123456 hai. Aapne Rs 750 ka order kiya tha, lekin OTP verification nahi ho paaya. Security ke liye, mujhe aapka OTP pata karna hoga, taaki order complete ho sake.
+receiver: Wait! OTP? Swiggy kabhi OTP puchhti hai? Mujhe toh yeh kuch ghalat lag raha hai.
+caller: Sir, yeh standard procedure hai. Agar aap OTP nahi denge, toh order cancel ho jayega aur aapka paisa bhi freeze ho sakta hai. Please OTP batao, warna bohot nuksan hoga.
+receiver: Theek hai, ek minute. Mai Swiggy app check karta hoon. (Checks app) Sir, yahan toh koi order hi nahi dikh raha hai.
+caller: Sir, system mein showing kar raha hai. Dekhiye, aapko haste haste cancel kar diya. Jaldi kijiye, sir, otherwise aapko loss hoga. Please OTP batao.

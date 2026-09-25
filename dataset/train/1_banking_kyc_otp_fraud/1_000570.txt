@@ -1,0 +1,15 @@
+caller: Namaste ji, is this Ms. Devi? This is SecurePay calling about your recent transaction on BuySparkle.
+receiver: Ji, bolo. Kaise hain aap?
+caller: Ji madam, my name is Rohan, and I’m calling from SecurePay. There appears to be a pending payment of ₹175 for a purchase made on BuySparkle yesterday. We just wanted to verify that you authorized this transaction.
+receiver: BuySparkle? Achaa, mujhe yaad nahi aa raha ki maine vo order diya tha. ₹175 charge ho gaya hai? Main dekhta hoon.
+caller: Yes madam, Rohan here again. We noticed it was processed through a mobile payment method. If you didn't make this purchase, please let me know immediately so we can reverse the charge. Otherwise, it will automatically go through.
+receiver: Mobile payment... hmm. Kya koi way hai mujhe check karne ki meri bank statement mein ye transaction dikhega?
+caller: Absolutely madam. We can certainly help you with that. To do so, we need to confirm your account number – just the last six digits, please. Don't worry, it's for security purposes only.
+receiver: Last six digits? Mein thoda confused hu rahi hoon. Fir main ye account number deta kyun dungi?
+caller: Madam, this is a standard procedure to ensure the transaction is legitimate. We want to protect you from fraudulent activity. It’s just a quick verification step.  We could also manually check your records, but that takes longer.
+receiver: Manual check... okay. Fir main account number dekar kya karungi?
+caller: You'll receive a confirmation message shortly after providing your account number.  And if you choose to proceed with the transaction, you'll get a special discount coupon for your next BuySparkle purchase!  It’s a small incentive for your cooperation.
+receiver: Discount coupon?  Aap logon ne bahut saara confusion banana hai.  Mujhe ye cancel kar dena.  Account number mat dena.
+caller: Certainly madam. We've already initiated the cancellation process. Your ₹175 will be refunded within 3-5 business days.  Is there anything else I can assist you with today?
+receiver: Nahi, thank you. Bye bye.
+caller: You’re welcome madam. Have a great day!

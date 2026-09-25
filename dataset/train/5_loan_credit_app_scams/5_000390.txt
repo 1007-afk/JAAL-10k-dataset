@@ -1,0 +1,9 @@
+caller: Hello! This is Raj from InstaCredit. We’ve noticed you’ve been browsing online for quick cash solutions, and we have a fantastic offer just for you. Instant loan approval, guaranteed!
+receiver: InstaCredit? I don’t remember applying for anything. What kind of loans are we talking about? And how instant is instant?
+caller: Absolutely! We offer personal loans up to ₹50,000 with minimal paperwork. Approval takes just 5 minutes! All we need is a quick verification of your details, and a small processing fee of ₹75. Very simple.
+receiver: A processing fee? That sounds a bit odd. Usually, you don't have to pay anything upfront. Can I see your website? I want to check out the terms and conditions.
+caller: Our website is InstaCredit.in, but it's currently undergoing maintenance. Don't worry, it's completely secure. The fee is just to activate your account and prevent fraudulent applications. Think of it as an insurance policy, you see? We need it to protect you. Only a few slots are available right now.
+receiver: Insurance? For a loan application? I’m not sure about this. It feels a bit fishy. What if I just provide my bank details, what happens then?
+caller: Relax, madam! We'll transfer the loan amount immediately after verification. Just share your bank account number and the last four digits of your debit card. It's a standard procedure, trust me. And don't miss out on this amazing offer!
+receiver: Okay, you know what? I’m going to report this number. This is clearly a scam. Goodbye.
+caller: Madam, please! Don't do that! It's a genuine opportunity. Just the OTP sent to your phone, and the loan will be credited. Just one second, please

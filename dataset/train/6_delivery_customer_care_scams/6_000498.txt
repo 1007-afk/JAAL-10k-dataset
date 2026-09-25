@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohit from SwiftShip Logistics. We’re contacting you regarding a parcel addressed to you. There seems to be an issue with the delivery address.
+receiver: Oh, really? What's the issue? I was expecting something.
+caller: Yes, sir. The pin code doesn’t match our records. We need to verify your details to ensure the package reaches you safely. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? I haven't received any OTP. I'm quite sure about my address.
+caller: That’s unusual, sir. Sometimes there’s a slight delay. To avoid the package being returned to sender, we require a small verification fee of ₹250 to update the address. You can pay through this secure link: bit.ly/updatesecure
+receiver: ₹250? That sounds suspicious. I'm not paying anything until I know for sure what this is about. I’ll check with the sender.
+caller: Sir, we understand your concern, but unfortunately, this policy is in place to protect all our customers. Without this verification, we cannot guarantee delivery. Please, we don't want your parcel to be lost. The link is bit.ly/updatesecure

@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Patel? We're calling from State Bank of India's security department. We’ve detected some unusual activity on your account, specifically a large withdrawal attempt from a foreign IP address.
+receiver: What? A withdrawal attempt? How much? And from where? I haven’t authorized anything.
+caller: It was for ₹15,000, sir, originating from Romania. To prevent this fraudulent transaction and protect your account, we need to verify a few details. Could you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Why would you need my OTP? Shouldn’t I be getting a message *from* the bank about this? This sounds suspicious.
+caller: Sir, this is a standard security protocol. We need to confirm you are the account holder. Please, time is of the essence. If you don’t provide the OTP within the next two minutes, we'll have to temporarily freeze your account to prevent further unauthorized access. It's for your own safety.
+receiver: Freeze my account? Now you’re threatening me? Look, I’m not giving you any OTP. A real bank employee wouldn't ask for this over the phone. I’m going to call the official State Bank of India helpline and report this. 
+caller: Sir, please don’t do that! It will only delay the process. The helpline is experiencing high call volume right now and we need to act quickly. Just provide the OTP, and we’ll resolve this immediately. We are just trying to help, sir. This is a matter of your financial security.

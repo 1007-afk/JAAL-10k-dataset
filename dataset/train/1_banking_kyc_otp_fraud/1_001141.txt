@@ -1,0 +1,8 @@
+caller: Namaste, mai Axis Bank se Deepak bol raha hoon. Aapke naam par ek online transaction attempt kiya gaya hai jo fail ho gaya. Security ke liye, humein aapke account details verify karne hain.
+receiver: Hello? Axis Bank se? Mujhe koi message nahi aaya tha. Aur fail hua transaction ka koi detail bhi nahi bata rahe hain.
+caller: Ji, sir. System mein record hai. Fail transaction ₹12,500 ka tha, international site par. Aapke account ko secure rakhne ke liye, mujhe aapka PAN card number aur registered mobile number par jo OTP aayega woh chahiye.
+receiver: ₹12,500 ka transaction? Main toh kabhi international site par shopping nahi karta. Aur OTP? Mereko koi OTP nahi mila.
+caller: Sir, jaldi karo. System 24 hours mein update hota hai. Agar aap verify nahi karenge, toh humko account suspend karna padega. OTP check karein, aapke phone mein message aaya hoga.
+receiver: Account suspend? Thoda wait toh kar sakta hoon na? Mujhe verification process ke bare mein zyada information chahiye. Aap mujhe Axis Bank ka helpline number de sakte hain? Ya phir branch address?
+caller: Sir, time bahut kam hai. Helpline number mein busy line lagegi. Aapko ₹50 bhi UPI par send karne hain verification ke liye. Tabhi account safe rahega.
+receiver: ₹50? UPI mein send karne hain? Yeh toh scam lag raha hai! Main call cut kar raha hoon.

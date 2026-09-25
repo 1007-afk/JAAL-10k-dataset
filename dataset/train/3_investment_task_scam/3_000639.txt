@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from CryptoGainz. We're offering a special opportunity to invest in a new crypto project called 'LunarCoin' and earn up to 30% returns in just one week! It’s a guaranteed profit. Interested?
+receiver: CryptoGainz? 30% in a week? Sounds a bit too good to be true, doesn't it? What's the catch?
+caller: No catch at all! LunarCoin is backed by a revolutionary AI trading algorithm. We’re giving early investors a massive advantage. All you need to do is transfer some funds to our wallet address, and we’ll handle the rest. Minimum investment is ₹5000.
+receiver: ₹5000? Okay. What’s the wallet address? And can you show me some proof of these supposed returns? I've heard stories...
+caller: Sure! The wallet address is 1A2b3C4d5e6F7g8h9I0jK1l2m3N4o5. We’ll send you screenshots of the AI's performance once you've made the deposit. Think of it as a small investment for a big reward. And there is a small processing fee of ₹750 to verify the transaction, payable via PhonePe.
+receiver: A processing fee *after* I transfer the money? And screenshots can be faked. Can I speak to someone who's already made this investment? Someone I can contact independently?
+caller: Unfortunately, due to privacy reasons, we cannot share our investors' contact information. However, we can guarantee your investment is safe with us. This offer is only valid for the next few hours, so don’t delay! Transfer the ₹5000 plus ₹750 to PhonePe number 987654321

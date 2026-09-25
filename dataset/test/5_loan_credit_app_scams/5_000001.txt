@@ -1,0 +1,16 @@
+caller: Namaste sir, Main Rahul Sharma, State Bank se baat kar raha hoon. Aapne online loan apply kiya tha, isliye call karta hoon. Aapke account mein kuch documents update karne hain, isliye mene call kiya hai. Aapke paas bank ka ID proof ready hai kya?
+receiver: Namaste Rahul ji. Haan, ID proof toh hai. Kya chalega mera driving license?
+caller: Ji sir, driving license chalega. Kya main aapke loan application ID number check kar sakta hoon, jo aapko apply karte samay mila tha? Just one moment, verification complete ho jaayega.
+receiver: Haan, sure. Loan ID number… wait, dekhta hoon. Haan, yeh hai XYZ789012345. Bank ka address bhi ready hai, bataiye kaise karna hai.
+caller: Excellent! Aapka loan ID number XYZ789012345 hai, confirmed. Now, aapke registered email id pe ek verification code ayega. Woh code aap mujhe dikha sakte hain kya? Just for security purposes, it will take only few seconds.
+receiver: Verification code? Okay, wait. Aa gaya hai. Yeh hai 123456. Code verify ho gaya? Kaise procedure hai?
+caller: Ji sir, absolutely! Aapka verification code 123456 hai, confirmed. Documents verification process complete ho gaya hai. Aapka loan sanction ho gaya hai, aur aapko amount next week tak transfer ho jayegi. Kuch aur information chahiye sir?
+receiver: Haan, thanks. Koi aur requirement nahi hai. Shukriya.
+caller: Namaste sir, Main Priya Patel, HDFC Bank se bol rahi hoon. Aapne debit card apply kiya tha, isliye call kar rahi hu mai. Aapke profile mein kuch changes nehene hai, islie mene call kiya hai. Aapke paas bank ka ID proof ready hai kya?
+receiver: Namaste Priya ji. Haan, ID proof toh hai. Aadhar card chalega kya?
+caller: Ji sir, Aadhar card chalega. Kya main aapke debit card application number check kar sakta hoon, jo aapko form bharte samay mila tha? Just ek minute, verification ho jayega.
+receiver: Haan, sure. Debit card application number… wait, dekhta hoon. Haan, yeh hai PQR456789012. Mobile number bhi ready hai, bataiye kaise karna hai.
+caller: Bahut sundar! Aapka debit card application number PQR456789012 hai, confirm ho gaya. Abhi aapke registered whatsapp number par ek verification code aaega. Woh code aap mujhe bata sakte hain kya? Just verification ke liye, ek minute lagega.
+receiver: Whatsapp code? Okay, wait. Aa gaya hai. Yeh hai 567890. Verification ho gaya? Jaldi bataiye, main office mein hoon.
+caller: Ji sir, bilkul! Aapka WhatsApp code 567890 hai, confirm ho gaya. Documents verification complete ho gaya hai. Aapka debit card aapke paas mail se send ho jayega, iske andar 24 hours mein. Kuch aur madad chahiye sir?
+receiver: Haan, koi madad nahi chahiye. Dhanyavaad.

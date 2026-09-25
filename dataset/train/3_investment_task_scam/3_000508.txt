@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan? I’m calling from CryptoGainz India. We’re having a special promotion today – guaranteed 30% daily returns on Bitcoin investments. Very limited spots available!
+receiver: CryptoGainz? 30% daily? That sounds a bit too good to be true, no?
+caller: Sir, it's a new AI-powered trading system. We only accept a small number of clients to ensure consistent returns. To get started, you need to deposit a small amount - just ₹5000 as a trial. We'll show you the system in action.
+receiver: ₹5000? Okay, I'm a little hesitant, but I'm also curious. How do I send the money? And what happens after the trial?
+caller: You can send it through UPI to 9876543210@ybl. You’ll receive a confirmation immediately. After the trial, if you’re happy with the results, you can invest more for even higher returns. We’ll guide you every step of the way.
+receiver: Alright, fine. I'll send the ₹5000. Please give me your WhatsApp number so I can send you the transaction proof.
+caller: Excellent choice, Rohan! Here's my WhatsApp number: 7890123456. Send the proof, and I'll set up your account right away. You will see your returns within 24 hours!
+receiver: Okay, just sent the UPI payment. Screenshot coming right up.

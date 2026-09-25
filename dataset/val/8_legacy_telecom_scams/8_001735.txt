@@ -1,0 +1,21 @@
+caller: Namaste! Main Rajiv Kumar hoon. Apne mobile pe ek superb offer aaya hai – aapko free Bollywood songs access karne ka chance mila hai! Just send ‘PRIYA’ to 98765 to activate your account, and enjoy unlimited music!
+receiver: Oh, Bollywood songs? Okay, but who is this calling from and what is 98765? It seems like a random number.
+caller: Haan ji, main Zee Music Company se hoon. Hum apne new app launch kar rahe hain, aur aapko beta tester ki taraf se selected kiya gaya hai. 98765 ek temporary activation code hai. Don't worry, it will expire after 24 hours.
+receiver: Beta tester? Seriously? And why aren’t you giving me the actual company name? This feels very suspicious. Also, how does sending 'PRIYA' to that number help activate my account?
+caller: Arre bhai, beta testing ka matlab hai ki aapko first time app experience karna hai aur feedback dena hai. Priya text karne se aapka account automatically generate ho jayega. It’s completely safe, just follow the instructions. Only 2 songs are available for testing right now, so hurry up!
+receiver: Two songs? So there's a limited selection? And still no company name? I don’t understand how sending a message activates anything. Is this even legal? What if my phone gets spammed afterwards?
+caller: Sir, Zee Music Company ka identity protect karna zaroori hai promotional reasons se. Aapka data totally secure hai, humein privacy ke matters mein bahut care hai. Just send 'PRIYA' one last time, and you’ll receive a confirmation SMS with the song links. It’s very fast and convenient! Now only 1 song left!
+receiver: Wait, wait! You're pressuring me again! I need to know exactly who is offering this and what this ‘PRIYA’ thing actually does. Can I at least see some information about the app before I send any messages?
+caller: Sir, believe me, this is the best way to try out the app. Sending 'PRIYA' is just a small step. After that, you’ll have full access to all our Bollywood hits. Only 0.5 songs remaining now! Don’t miss out!
+receiver: I am not convinced at all. This whole thing is too vague and confusing. I’m ending this call now. Goodbye.
+caller: Hello, I’m calling from Smart Deals today. We’ve identified you as eligible for a huge discount on your next purchase at Electronics World! Just reply ‘FLASH’ to 78945 to unlock your exclusive voucher. It’s a limited-time opportunity!
+receiver: Flash? What kind of discount are we talking about? And who are “Smart Deals”? This number looks unfamiliar.
+caller: Haan ji, Smart Deals is a trusted affiliate program helping consumers find the best deals. Electronics World is a leading retailer, and we’re offering you 30% off any item over ₹5000! Reply ‘FLASH’ to 78945 to claim your voucher. It expires tonight!
+receiver: Thirty percent? Okay, that’s tempting. But why are you asking me to text ‘FLASH’? What happens when I do that? Is this a spam call?
+caller: Arre sir, ‘FLASH’ is just an activation code. Once you reply, you’ll receive a unique voucher code via SMS instantly. It’s super simple and secure! Only 5 vouchers left - don't delay!
+receiver: Vouchers left? So it’s a race against time then? Still, I want to know where this Electronics World store is located. And what’s your company doing with my number?
+caller: Sir, Electronics World has multiple locations across Delhi NCR. You can find them on their website – electronicsworld.in. As for your number, we only use it to send you the voucher code and updates about future offers. Completely legit, promise! Only 2 vouchers remaining!
+receiver: Website address… okay. But I’m still skeptical. If this is such a good deal, why are you hiding your company name? And what guarantee do I have that I won’t get charged extra later?
+caller: Sir, we value transparency. Our partnership with Electronics World allows us to offer these incredible discounts without additional charges. Just reply ‘FLASH’ to 78945 and you’ll have your voucher. Last chance – only 1 voucher left!
+receiver: One voucher? Seriously? This is getting ridiculous. I’m not interested. Thank you, goodbye.
+caller: Namaste

@@ -1,0 +1,11 @@
+caller: Namaste, main Rohit Sharma, QuickPay Customer Care se bol raha hoon. Aapke QuickPay wallet mein ₹2500 ka suspicious transaction detect hua hai.
+receiver: Kya? ₹2500? Kaun transaction hua? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, ek online shopping transaction hua hai ek "StyleHub" website par. Aapne kabhi shopping nahi ki is website se? Chahiye verification karwa len, security ke liye.
+receiver: Haan theek hai, verify kara lo. Kya karna hai?
+caller: Aapka registered mobile number suniye. Woh OTP bhijwa denge, verify hoga. Woh number jo aap ne QuickPay register karte samay diya tha.
+receiver: Haan, mera number 98765 43210 hai. OTP aane do.
+caller: Shukriya. Ab OTP receive ho gaya hai na? OTP suniye.
+receiver: Haan OTP mila hai. 789012.
+caller: Thank you, madam. Verification process complete ho gayi hai. Ab ₹50 ka small fee pay kijiye, refund process start karne ke liye. UPI ID hai: securequickpay@upi.
+receiver: ₹50 fee? Refund ke liye? Thoda shaq aa raha hai.
+caller: Madam, yeh standard procedure hai.  Agar aap pay nahi karte, toh refund process halt ho jayegi aur aapka account suspend bhi ho sakta hai.

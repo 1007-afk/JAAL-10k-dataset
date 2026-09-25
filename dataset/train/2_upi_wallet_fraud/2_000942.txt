@@ -1,0 +1,7 @@
+caller: Namaste! Mai Bharat Aadhaar Seva se Rahul bolta hoon. Apke aadhaar card ke upar ek pending transaction hai, ₹499 ka. Ye KYC verification ke liye hai.
+receiver: KYC verification? Mere aadhaar card ke upar? Maine toh kuch bhi transaction kiya nahi hai. 499 rupay?
+caller: Haan ji, security ke liye. Fraud se bachne ke liye. Aapko is transaction ko complete karna hoga. Aapko ek UPI link milega, us par click karke payment kar dijiye. Jab payment ho jayega, aapke aadhaar card ki security confirm ho jayegi.
+receiver: UPI link? Mujhe kuch email ya SMS nahi mila hai. Ye bahut hi suspicious lag raha hai. Main koi bhi payment nahi karunga.
+caller: Suniye, ye ek urgent matter hai. Agar aap abhi payment nahi karenge, toh aapke aadhaar card ki validity risk mein aa jayegi aur aapko government ke taraf se penalty bhi lag sakta hai.
+receiver: Penalty? Validity risk mein? Mujhe pata nahi. Mai iske bare mein ek baar check karunga. Main aaj nahi kar sakta.
+caller: Ji, lekin sir, samay kam hai. Aapko abhi payment karna hi hoga. Otherwise, aapke aadhaar card ke facilities band ho jayengi. Please sir, 499 rupay hi payment kar dijiye aur apne aadhaar card ko secure rakhiye.

@@ -1,0 +1,9 @@
+caller: Namaste, this is Inspector Sharma calling from the Delhi Customs Department. We've intercepted a parcel registered to your address containing suspicious items.
+receiver: Kya? Suspicious items? Mere address pe? Main toh kuch order nahi kiya tha.
+caller: Ji, sir. Preliminary scans indicate possible involvement with illegal pharmaceuticals. We need to verify your identity and assess the situation. We need to initiate an investigation, and for that, you need to pay a small processing fee of ₹12,500.
+receiver: ₹12,500? Keh rahe kya ho? Customs department aise phone pe paisa maangti hai? Yeh thoda kuch toh gadbad hai. Aur parcel kahaan hai?
+caller: Sir, the parcel is currently held at Indira Gandhi International Airport. To expedite the clearance process and prevent further legal complications, you need to make the payment immediately. We can provide you with a secure payment link. Delaying might result in a formal FIR being registered against you. We are on a video call to monitor the situation, so you cannot hang up.
+receiver: Video call? Thoda wait karo, mujhe ek minute do. Main apne wife se baat karta hoon. Legal complications? Main toh kabhi pharma ka koi business nahi kiya.
+caller: Madam, with all due respect, the investigation is already underway. Any attempts to obstruct the process will be viewed seriously. The link will expire shortly. Please confirm the payment, otherwise, we will have to take action. Just enter the OTP you receive.
+receiver: OTP? Woh bhi? Arre yaar, bahut kuch ho raha hai. Main police station se baat karta hoon.
+caller: Sir, please don't take drastic measures. This is a simple formality to clear the parcel and avoid unnecessary legal entanglement. The link is about to expire, and we're monitoring your activities. Cooperate, and we'll resolve this quickly

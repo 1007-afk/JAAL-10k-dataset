@@ -1,0 +1,8 @@
+caller: Namaste, mein Vi India se bol raha hoon. Aapke UPI account mein kuch suspicious activity dikha raha hai. Ek transaction attempt hua hai, ₹1999 ka, jo aapne approve nahi kiya tha.
+receiver: Oh no! ₹1999? Vi se call hai? Mujhe toh koi message nahi aaya.
+caller: Haan sir, yeh security check hai. Aapko apna UPI PIN verify karna hoga, taaki hum is transaction ko block kar sakein aur aapka account secure kar sakein. Kripya apna UPI PIN bataiye.
+receiver: Sir, main apna PIN phone par nahi bata sakta. Yeh risky hai. Vi toh aise nahi puchti hogi.
+caller: Sir, aap tension mat leiye. Yeh procedure hai humare security protocol ka. Agar aap PIN nahi bataiye, toh humko transaction block karne mein problem hogi aur aapka account hack ho sakta hai. Kuch seconds ka kaam hai.
+receiver: Okay, theek hai. ₹1999 ke transaction se bachane ke liye main bata deta hoon. Mera UPI PIN hai... [Receiver invents PIN, e.g., 4852].
+caller: Shukriya sir! Ab aapko ek OTP milega aapke PhonePe app par. Woh OTP mujhe bataiye, taaki hum confirm kar sakein ki aap sahi owner hain.
+receiver: Woh OTP mein check karta hoon...

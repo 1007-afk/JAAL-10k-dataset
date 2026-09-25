@@ -1,0 +1,8 @@
+caller: Hello? Caller here. Did you get my message about your 2004 account? It says you have 786 points that are about to expire. Just need to confirm a few things for you to claim them. What's your name?
+receiver: Haan ji, hello. Aapka message mila tha. Mera naam Rahul hai. Haan, woh points expire hone wale hain. Bataiye, kya confirm karna hai?
+caller: Great, Rahul! Good to hear. So, to get these 786 points redeemed, I just need to verify a couple of details. First, can you please confirm the address associated with your 2004 account? Just the street name and city will do.
+receiver: Ji haan, mera address hai MG Road, Pune. Kuch aur puchna hai?
+caller: Okay, MG Road, Pune. Perfect. And just to be absolutely sure, could you confirm the email address linked to your account, Rahul? It's a standard security step.
+receiver: Email address? Hmm, I think woh 'rahul.sharma123@email.com' hoga. Agar kuch aur hai toh batana.
+caller: Perfect, rahul.sharma123@email.com.  And lastly, for verification purposes, can you confirm the last four digits of your mobile number linked to the account?  This is just to make sure no one else is trying to access your points.
+receiver: Haan ji, woh last four digits hain 5678. Ho gaya confirm? Ab points redeem ho jayenge na?

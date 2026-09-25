@@ -1,0 +1,9 @@
+caller: Namaste! Main ICICI Bank se Priya Sharma bol rahi hoon. Aapka account mein kuch irregularities dikhe hain. Security ke liye aapke account details verify karna zaroori hai.
+receiver: ICICI Bank? Mere account mein problem? Kya hua?
+caller: Haan sir, ek suspicious transaction attempt kiya gaya tha.  Aapke account ko secure rakhne ke liye, mujhe aapke naam aur aadhaar card ka picha digit check karna hoga, aur ek OTP bhi verify karna hoga jo aapke registered number par aayega.
+receiver: Aadhaar number? Aur OTP?  Ye theek lagta nahi hai. Bank aise details phone pe nahi manta.
+caller: Sir, time bahut kam hai. Agar aap aaj verify nahi karte toh humko account suspend karna padega. Account suspend hone se aapko bahut pareshaan hona padega.  Is OTP se confirm hoga ki aapka phone aapke hi naam se register hai.
+receiver:  Ek minute, main ICICI Bank ke website pe check karti hoon.
+caller: Sir, website pe information slow load hoti hai.  Aur humko real-time verify karna hai. Please OTP bataiye, sir. Account suspend hone se bachiye.
+receiver: Okay, OTP hai 123456.
+caller: Thank you sir, aapne apne account ko secure kar diya hai. ICICI Bank aapki raksha ke liye har pal tayyar hai.

@@ -1,0 +1,7 @@
+caller: Namaste! My name is Rohan, I'm a photographer based in Goa. Saw your profile on Insta, you have a lovely smile! 😊 I'm running a promotion, offering exclusive photo shoots for a limited time. Just reply 'PHOTO' to 9876543210 for details. First 5 messages are free.
+receiver: Hello Rohan. Thanks for the compliment! What kind of photoshoot are you offering? And what’s the usual cost like?
+caller: Arey, welcome! It’s a lifestyle shoot, very relaxed and natural. We can do it at the beach, in a cafe, wherever you feel comfortable. Usually, it's ₹8000 for a 2-hour shoot, including high-res images. But for Insta followers, I’m offering a special price of ₹5000. 😊 Just send 'PHOTO' to 9876543210 to confirm, and I’ll send you a form to fill out.
+receiver: Okay, ₹5000 sounds reasonable. I'm a bit busy right now, but maybe sometime next month. Is there a deposit I need to pay upfront to secure a slot?
+caller: That’s great! Yes, to secure your slot, I require a small refundable deposit of ₹1500. It ensures I don't double-book. Once you've paid, I'll send you my bank details and schedule a call to discuss the shoot further. Send 'PAY' to 9876543210, and I’ll send you the details.
+receiver: Okay, I’ll send 'PAY' now. Just need to quickly double-check your account details before I transfer anything. Can you please share them with me?
+caller: Perfect! I’m so excited to work with

@@ -1,0 +1,16 @@
+caller: Namaste! Main DigiServe ki taraf se bol raha hoon. Tumhara Airtel number hai na? Ji, hai. Main tumhare liye ek super exciting news ke liye call kar raha hoon. Airtel ne ab special assistance team se connect hone ke liye ek new number launch kiya hai - 800-567-890. Tum sirf 800-567-890 pe call karo, aur humara expert tumhari madad karenge. Kuch aur pata karna chahte ho?
+receiver:Haan ji, sun raha hoon. Yeh 800-567-890, woh totally free hai?
+caller: Jihaan! Koi charges nahi honge. Airtel ka commitment hai ki hum sabhi ko support karein. Is number par koi bhi problem ho, ya aapko kisi bhi matter ke bare mein jaanna ho, expert aapki wait kar rahe hain. Kya tum koi specific question puchhna chahte ho?
+receiver: Nahin ji, abhi koi question nahi hai. Mujhe just yeh karna tha ki yeh number hai hi. Shukriya batane ke liye.
+caller: Tumhara dil cho Gaya! Har koi problem ke liye 800-567-890 pe call karna remember karo. Airtel ke services ko enjoy karte rehna. Bye bye.
+receiver: Theek hai ji, dhanyavad. Bye.
+caller: Achaa, great to hear that! Tumhara Airtel number verify karne ke liye, mujhe ek small detail chahiye. Tumhara registered Airtel number batao, taaki main check kar saku ki tumhare account mein yeh new service properly apply ho gayi hai.
+receiver: Haan ji, mera Airtel number hai [Your Airtel Number]. Aap verify kar lijiye.
+caller: Namaste! Main DigiServe ki taraf se bol raha hoon. Tumhara Airtel number hai na? Ji, hai. Main tumhare liye ek super exciting news ke liye call kar raha hoon. Airtel ne ab special assistance team se connect hone ke liye ek new number launch kiya hai - 800-567-890. Tum sirf 800-567-890 pe call karo, aur humara expert tumhari madad karenge. Kuch aur pata karna chahte ho?
+receiver:Haan ji, sun raha hoon. Yeh 800-567-890, woh totally free hai?
+caller: Jihaan! Koi charges nahi honge. Airtel ka commitment hai ki hum sabhi ko support karein. Is number par koi bhi problem ho, ya aapko kisi bhi matter ke bare mein jaanna ho, expert aapki wait kar rahe hain. Kya tum koi specific question puchhna chahte ho?
+receiver: Nahin ji, abhi koi question nahi hai. Mujhe just yeh karna tha ki yeh number hai hi. Shukriya batane ke liye.
+caller: Tumhara dil cho Gaya! Har koi problem ke liye 800-567-890 pe call karna remember karo. Airtel ke services ko enjoy karte rehna. Bye bye.
+receiver: Theek hai ji, dhanyavad. Bye.
+caller: Achaa, great to hear that! Tumhara Airtel number verify karne ke liye, mujhe ek small detail chahiye. Tumhara registered Airtel number batao, taaki main check kar saku ki tumhare account mein yeh new service properly apply ho gayi hai.
+receiver: Haan ji, mera Airtel number hai [Your Airtel Number]. Aap verify kar lijiye.

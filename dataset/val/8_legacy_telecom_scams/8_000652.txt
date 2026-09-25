@@ -1,0 +1,8 @@
+caller: Hello? Hello, Mrs. Sharma? Can you hear me alright? This is Priya from Secure Solutions. I’m calling to share some wonderful news! You've been selected as a recipient of a luxury smartwatch! Isn’t that exciting?
+receiver: Hello? Haan, Priya? Sunai deta hai. Secure Solutions se? Smartwatch jeeti hoon? Really? Thank you so much! It's unbelievable!
+caller: Yes, Mrs. Sharma, really! Fantastic news! You are going to receive this smartwatch! But first, we need to complete a quick verification step to ensure its safe delivery. Are you available to chat briefly now?
+receiver: Haan, Priya, totally free. Tell me what needs to be done. Is there any paperwork involved or something else?
+caller: Wonderful, Mrs. Sharma! So, just to get this smartwatch delivered to you, we require a small confirmation. This involves providing your address and a few basic details, so we can guarantee secure shipment. Could you please tell me your full name and delivery address?
+receiver: Yes, of course. My name is Kavita Sharma. And my address is… 45, Rose Lane, Sunnyvale.
+caller: Excellent, Kavita! Thank you. And could you provide your date of birth, please? This is purely for security purposes, to verify you’re the rightful owner of this prize.
+receiver: My date of birth is… 2nd January, 1988. Anything else you need?

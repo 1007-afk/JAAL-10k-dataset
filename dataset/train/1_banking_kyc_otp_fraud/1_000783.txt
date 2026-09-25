@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Deepak Verma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, sir. Ek transaction ₹12,000 ka hua hai jo aapne nahi kiya hai.
+receiver: ₹12,000? Kya? Mujhe toh kuch pata hi nahi hai. Transaction kahan hua hai?
+caller: Sir, transaction Nepal mein hua hai. Aapke account ko secure karne ke liye, hamein KYC update karna hoga. Aur OTP verify karna hoga, sir.
+receiver: KYC? Abhi? Mein toh kal bank mein gaya tha KYC ke liye. Aur OTP phone pe share nahi kar sakta.
+caller: Sir, yeh ek urgent process hai. Agar aap OTP nahi denge, toh account suspend ho jayega aur ₹12,000 bhi jam ho jayega. Aur Nepal se transaction bhi continue hoga. Just 4 digit OTP bataiye, sir.
+receiver: Bhie, aap mujhe branch ka naam bataiye jahan se mai verify kar sakta hoon. Mein kisi bhi tarah ka OTP phone pe share nahi karunga. Aur Nepal ka transaction...Yeh toh bilkul scam lag raha hai.
+caller: Sir, abhi humara system down hai, branch se verify nahi ho payega. Sir, just 4 digit OTP dijiye, warna aapka account block ho jayega.

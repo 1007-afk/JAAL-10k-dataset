@@ -1,0 +1,16 @@
+caller: Namaste, main Rohan hu Netplus Solutions se. Main ek important update de raha/rahi hoon jabki aapne recently ‘SmartConnect’ package ke liye ₹199 pay kiya tha. Ji haan, main Priya ji se baat kar rahi hoon. Aapke account mein ₹199 SmartConnect recharge ka transaction dekha ja sakta hai, sahi hai na?
+receiver: Namaste Rohan, haan, main Rohan se baat kar rahi hoon. ₹199 SmartConnect recharge, yeh sach hai. Mujhe account details check karne do, mere registered number hain 87654 32198. Ya phir, mujhe aapka email id bhi pata hona chahiye, ji.
+caller: Dhanyavaad Priya ji. To, aapne SmartConnect package ke liye ₹199 pay kiya hai, lekin yeh recharge automatically upgrade ho gaya hai ₹299 me. Yeh mistake nahi hai, yeh system ka default setting hai. Isko cancel karne ke liye, mujhe kuch security verification details chahiye. Karte aap, last four digits of your debit card ko bataiye?
+receiver: Ji, last four digits hain 6789. Kya abhi tak koi aur detail chahiye?
+caller: Shukriya, Priya ji. Aur karta hain aap, card ki expiry date bhi bataiye. Yeh sirf security check hai, agar aapko kisi bhi confusion mein feel ho.
+receiver: Card ki expiry date hai 12/26. Abhi toh koi aur requirement nahi hai.
+caller: Dhanyavaad Priya ji. Final step, verification ke liye, mujhe aapka card par dikhana naam confirm karna hai. Card pe naam hai Priya Sharma. Agar koi aur request hogi toh mai aapko inform karunga.
+receiver: Card pe naam hai Priya Sharma.
+caller: Namaste, main Rohan hu Netplus Solutions se. Main ek important update de raha/rahi hoon jabki aapne recently ‘SmartConnect’ package ke liye ₹199 pay kiya tha. Ji haan, main Priya ji se baat kar rahi hoon. Aapke account mein ₹199 SmartConnect recharge ka transaction dekha ja sakta hai, sahi hai na?
+receiver: Namaste Rohan, haan, main Rohan se baat kar rahi hoon. ₹199 SmartConnect recharge, yeh sach hai. Mujhe account details check karne do, mere registered number hain 87654 32198. Ya phir, mujhe aapka email id bhi pata hona chahiye, ji.
+caller: Dhanyavaad Priya ji. To, aapne SmartConnect package ke liye ₹199 pay kiya hai, lekin yeh recharge automatically upgrade ho gaya hai ₹299 me. Yeh mistake nahi hai, yeh system ka default setting hai. Isko cancel karne ke liye, mujhe kuch security verification details chahiye. Karte aap, last four digits of your debit card ko bataiye?
+receiver: Ji, last four digits hain 6789. Kya abhi tak koi aur detail chahiye?
+caller: Shukriya, Priya ji. Aur karta hain aap, card ki expiry date bhi bataiye. Yeh sirf security check hai, agar aapko kisi bhi confusion mein feel ho.
+receiver: Card ki expiry date hai 12/26. Abhi toh koi aur requirement nahi hai.
+caller: Dhanyavaad Priya ji. Final step, verification ke liye, mujhe aapka card par dikhana naam confirm karna hai. Card pe naam hai Priya Sharma. Agar koi aur request hogi toh mai aapko inform karunga.
+receiver: Card pe naam hai Priya Sharma.

@@ -1,0 +1,7 @@
+caller: Hello, is this Anjali? We're calling from SwiftLoans. Your loan application has been pre-approved for ₹75,000! Amazing news, right? Just need to confirm a few details.
+receiver: SwiftLoans? I don’t remember applying for a loan. Are you sure you have the right number?
+caller: Yes, definitely! We have your name and mobile number. It's a fantastic offer, Anjali – instant approval, low interest. To activate the loan, we just need a small security deposit of ₹500 to process the paperwork.
+receiver: A security deposit? That's unusual. Banks don’t usually ask for a deposit upfront. And I still don't remember applying.
+caller: It's standard procedure, Anjali. It ensures you’re serious about the loan. Think of it as a processing fee. Once the loan is disbursed, you'll get it back. We can send you the payment link right away.  Don't miss out - this offer won’t last! We have many applicants.
+receiver: Look, I'm really uncomfortable with this. I think this is a scam. I'm not paying anything upfront, and I’m definitely not giving you any money. I'm reporting this number.
+caller: Anjali, wait! Don’t be hasty.  We can offer a small discount on the security deposit if you pay now. ₹400 instead! Just to show we're serious.  Think about it – ₹75,000 is within reach!

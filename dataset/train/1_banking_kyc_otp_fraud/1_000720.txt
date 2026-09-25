@@ -1,0 +1,16 @@
+caller: Namaste sir, Airtel customer care se baat kar raha hu. Aapke number ki KYC update chal rahi hai. Aapke phone par ek 6-digit PIN code aaya hoga, woh bataiye please.
+receiver: Ji,haan. Ek minute... Aa gaya. 879234. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Priya hai. Thank you for providing the PIN code.  Abhi hum aapki account ki security check kar rahe hain. Kya aap mujhe apna current mobile number bata sakte hain?
+receiver: Ji Priya. Mera current mobile number hai [current mobile number yahan daalein].
+caller: Thank you sir, for confirming your current mobile number. Ab hum aapki account ko further verify karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Hai na. Mera registered email id hai ‘sandeep.kumar@gmail.com’. Koi aur information chahiye?
+caller: Ji madam, aapki email id confirm ho gayi hai. Ab aapko ek option milega, uspar click karke verification karna hai. Verification karne ke baad, aapko internet speed mein badta hua offer milega. Aapko kisi cheez ka niyam nahi hai na?
+receiver: Nahi Rahul, koi niyam nahi hai. Just tell me about the speed boost offer.
+caller: Namaste sir, Airtel customer care se baat kar raha hu. Aapke number ki KYC update chal rahi hai. Aapke phone par ek 6-digit PIN code aaya hoga, woh bataiye please.
+receiver: Ji,haan. Ek minute... Aa gaya. 879234. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Priya hai. Thank you for providing the PIN code.  Abhi hum aapki account ki security check kar rahe hain. Kya aap mujhe apna current mobile number bata sakte hain?
+receiver: Ji Priya. Mera current mobile number hai [current mobile number yahan daalein].
+caller: Thank you sir, for confirming your current mobile number. Ab hum aapki account ko further verify karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Hai na. Mera registered email id hai ‘sandeep.kumar@gmail.com’. Koi aur information chahiye?
+caller: Ji madam, aapki email id confirm ho gayi hai. Ab aapko ek option milega, uspar click karke verification karna hai. Verification karne ke baad, aapko internet speed mein badta hua offer milega. Aapko kisi cheez ka niyam nahi hai na?
+receiver: Nahi Rahul, koi niyam nahi hai. Just tell me about the speed boost offer.

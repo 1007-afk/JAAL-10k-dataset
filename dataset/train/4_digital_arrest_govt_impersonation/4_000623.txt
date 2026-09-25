@@ -1,0 +1,8 @@
+caller: Hello? Is this Priya Sharma? This is a serious matter regarding an investigation into suspicious activity linked to your bank account.
+receiver: Haan, main hi Priya Sharma. Kya hua? Why are you calling me?
+caller: Ma’am, I’m Inspector Verma, calling from the Economic Offences Wing, Delhi Police. Our records indicate a large sum of money was transferred from your account to a cryptocurrency exchange in the last 24 hours. This is flagged as potentially linked to illegal online gambling.
+receiver: Cryptocurrency? Gambling? But I don't do any of that! I barely use my online banking. This is very strange.
+caller: Ma'am, we need to verify your identity and secure your funds. For this, we require you to immediately transfer ₹5,000 to a secure government account to prove your innocence and stop the investigation. We’ll send you the account details via SMS.
+receiver: ₹5,000? To prove I’m not involved in illegal activity? That sounds very suspicious. Can I speak to someone else, like my bank?
+caller: Ma'am, time is of the essence. Delaying could lead to further complications and even legal charges. The SMS with the account details has been sent. Please transfer the funds quickly and confirm the transaction number to me.
+receiver: Wait a minute... This whole thing feels wrong. I'm calling my bank right now. I think this is a scam.

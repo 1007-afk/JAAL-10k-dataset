@@ -1,0 +1,10 @@
+caller: Namaste! Main Rajesh Sharma, Bharat Telecom se bol raha hoon. Aapke mobile bill mein ek badi mistake ho gayi hai, aur humein isko fix karna hai. Agar aap abhi 09876543210 par call karte hain, to hum aapko free mein internet pack provide karenge. Ismein koi problem nahi hai, lekin agar aap delay karte hain, to aapko ₹500 ka charge lag sakta hai.
+receiver: Arre yaar, seriously? Mein abhi bill dekhunga. Kya aapne mera naam bataaya?
+caller: Haan ji, aapka naam Sanjay Kumar hai. Humare server mein ek technical issue ka karan hai ye message aaya hai. Agar aap 5 minute ke liye wait karte hain, to hum aapko premium data plan bhi free mein denge. Iska koi cost nahi hai, sirf aapko call karna hai.
+receiver: Okay, okay, wait karo main. Par mujhe jitni bhi detailin suna rahe ho, itna experience nahi hai.
+caller: Don’t worry, we are here to help you. Just confirm that you want to receive the free internet pack by pressing 1.
+receiver: Wait, wait, wait... Mujhe thoda time chahiye.  Main check karungi.  Isme koi fraud hai kya?
+caller: Absolutely not! This is a genuine offer from Bharat Telecom.  Agar aap 09876543210 par call karte hain, to aapko ₹200 cashback milega.  Par is offer ka deadline hai, sirf aaj raat tak valid hai.
+receiver: Cashback? Thoda interesting hai.  Mujhe check karne do.  My phone number is 9876543211.
+caller:  Excellent!  Just one more thing – please tell your children to avoid sharing their personal information with strangers online.  It's very important for their safety.  Agar aap 09876543210 par call karte hain, to aapko special Diwali offers bhi milenge!
+receiver: Okay, okay, I will definitely remember that.  Thank you for the advice.  Now, let's see if I can get that cashback.  I am calling now.

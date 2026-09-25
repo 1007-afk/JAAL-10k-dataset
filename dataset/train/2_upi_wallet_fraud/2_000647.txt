@@ -1,0 +1,9 @@
+caller: Namaste! Is this speaking with Mr. Verma? This is Riya from PhonePe Customer Support.
+receiver: Haan, main Verma bolta hoon. Kya baat hai?
+caller: Sir, we've detected unusual activity on your PhonePe account. A transaction of ₹7,500 was attempted to a new UPI ID, and it’s been flagged as potentially suspicious. We need to verify your identity to secure your funds.
+receiver: ₹7,500? Nahi, main toh koi transaction nahi kiya! Mujhe toh kuch bhi pata nahi hai. Yeh kya ho raha hai?
+caller: Sir, it appears the transaction is still pending. To cancel it and prevent further issues, we need to quickly verify your account. Can you please share the OTP you just received on your registered mobile number? Just 4 digits will do.
+receiver: OTP? Aap PhonePe se OTP bhejein? Main toh kabhi OTP nahi mila. Yeh kuch gadbad lag rahi hai. Fraud lag raha hai.
+caller: Sir, please don't worry. It's a standard security protocol. Our system will automatically detect the OTP. Just tell me the last four digits of your Aadhaar card to confirm your identity.
+receiver: Aadhaar card ka number? Nahin, main unhein kabhi nahi dunga. Yeh to scam hai! Main police mein complaint karunga!
+caller: Sir, with all due respect, if you don't cooperate, we'll have to temporarily freeze your account to protect it from potential fraudulent activity. It’s just a quick verification process – think of it as safeguarding your money. Give me those last four digits, please.

@@ -1,0 +1,7 @@
+caller: Namaste! Sir, this is Akash from BlueBird Courier. We’re trying to reach you regarding a package addressed to you. There seems to be an issue with the delivery address.
+receiver: Oh, really? What's the issue? I was expecting something.
+caller: Yes, sir. The system shows an incomplete address. To ensure safe and prompt delivery, we need you to verify some details and pay a small ₹350 for address confirmation and insurance.
+receiver: ₹350? That seems a bit much for insurance. What if I just give you the correct address now?
+caller: Unfortunately, sir, protocol dictates we need to confirm it through a secure payment gateway. It’s to prevent fraudulent deliveries. Could you please share the last four digits of your debit card, just for verification?
+receiver: Wait a minute... Debit card details? That sounds risky. Are you really BlueBird Courier? I’m going to check your website.
+caller: Sir, please don't delay. Time is running out, and the package might be returned to the sender. Just those last four digits, and we'll update the system immediately. It’s a standard security procedure, sir. You wouldn’t want your package to be lost, would you?

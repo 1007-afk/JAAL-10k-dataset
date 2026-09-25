@@ -1,0 +1,6 @@
+caller: Namaste, sir? My name is Rohan, calling from LoanExpress India. We saw you recently inquired about a personal loan online. Just a few quick checks, and you could be approved for up to ₹75,000. Do you have your Aadhaar card handy?
+receiver: Haan, Rohan ji. Aadhaar toh hai. What do you need it for? I applied for a loan a while back, but haven't heard anything.
+caller: Excellent. We just need to verify a few details. Can you please tell me the last four digits of your Aadhaar number? It’s purely for security purposes, sir. And also, do you have a recent photo of yourself, just to confirm your identity?
+receiver: I'm a little hesitant to give out Aadhaar details over the phone. It doesn’t feel secure. The photo is fine, I can send it.
+caller: Sir, absolutely understandable. But LoanExpress is fully secure. We’re regulated by the RBI.  This is a standard procedure.  If you don’t cooperate, we can't process your loan application. Now, about the photo, please send it quickly. Also, we’ve noticed a few unauthorized transactions linked to your account. To resolve this, you need to deposit ₹5,000 as a processing fee immediately.
+receiver: Five thousand? That's ridiculous! I didn’t authorize any transactions. This sounds like a scam. I’m ending this call.

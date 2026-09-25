@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? I’m calling regarding an amazing opportunity – a virtual yoga class, right on your smartphone! You can learn some incredible poses and relax at home. Just reply ‘YOGA’ to 54321. To unsubscribe, simply send ‘CANCEL’ to 54321. Interested in learning more?
+receiver: Namaste, kaun bol raha hai? Kya kar rahe ho aap? Mein koi yoga class sign up nahi kiya hai.
+caller: Achaa, sorry for the inconvenience. There seems to be a slight technical glitch. But the chance is still available if you’re open to it. Just send ‘YOGA’ to 54321. And if you absolutely don’t want this, type ‘CANCEL’ to 54321. No worries at all.
+receiver: Suno, mujhe koi technical glitch nahi chahiye. Mein yoga karna chahti hoon lekin woh online sign up karne ka koi option nahi hai. Please humare calls band karo. Mein ‘CANCEL’ text kar rahi hoon, please confirm jo meri number delete ho gayi hai.
+caller: Haan, 'CANCEL' message aaya hai. Aapki number delete ho gayi hai. Don't worry, no further calls will come. Thank you for your patience.
+receiver: Theek hai, thanks. Bas, yeh sab thoda irritating tha. Bye.
+caller: Thanks for letting us know. We appreciate your understanding. Have a pleasant day!
+receiver: Bye. Bas, yeh sab thoda irritating tha. Bye.

@@ -1,0 +1,8 @@
+caller: Hello, I am calling from Axis Bank security department. We have detected unusual activity on your account and need to verify your identity.
+receiver: Okay, what kind of unusual activity? I haven’t done anything different.
+caller: We noticed a failed transaction attempt from an unknown device in Kolkata. To prevent any unauthorized access, we need to confirm some details. Could you please provide the OTP you just received on your registered mobile number?
+receiver: Wait a minute. Why didn’t I get an OTP? And Kolkata? I haven’t been to Kolkata in years. Is this really Axis Bank?
+caller: Sir/Madam, it’s crucial to act fast. If we don't verify your account immediately, we may have to temporarily suspend it for security reasons. The OTP is your best protection. Please share it so we can secure your account now.
+receiver: I’m still not comfortable sharing an OTP without verifying you first. Can you tell me your employee ID or give me a callback number for Axis Bank’s customer service?
+caller: Sir/Madam, due to security protocols, I cannot disclose employee IDs.  We are following standard procedure to protect your funds. Please, just give me the OTP. It will only take a moment to resolve this issue. Your account is at risk.
+receiver: I think I’m going to call Axis Bank directly using the number on their website. Thank you.

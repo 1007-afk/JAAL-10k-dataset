@@ -1,0 +1,8 @@
+caller: Hello sir, this is Raj from Paytm Care. We’ve detected some suspicious activity on your Paytm account. To secure your funds, we need to verify your UPI details immediately.
+receiver: Kya suspicious activity? Mujhe koi message nahi aaya. Mein toh abhi Paytm use kar raha tha.
+caller: Yes sir, it was a very fast transaction. To prevent further loss, we need you to send ₹500 to a temporary verification ID we’ll provide. This will lock your account and initiate a security check.
+receiver: ₹500? Verification ke liye? Paytm toh kabhi aisa nahi karta tha. Aur verification ID kahan bhejna hai?
+caller: Yes sir, it’s a standard procedure. Just send it to 9876543210 via UPI. Once done, we’ll guide you through the remaining steps. Don’t worry, sir, you'll get your money back and your account will be completely safe.
+receiver: 9876543210? Yeh toh koi registered number nahi hai. Aur ₹500 kyun? Koi aur tarika nahi hai?
+caller: Sir, time is crucial. The fraudulent transaction is ongoing. Sending ₹500 now is the only way to stop it. Just a small amount to secure your large balance, understand? Please do it quickly, sir.
+receiver: Okay, wait a minute. I'll check something first.

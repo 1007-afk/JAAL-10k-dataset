@@ -1,0 +1,9 @@
+caller: Namaste sir, main ICICI Bank se Anjali Verma bol rahi hoon. Aapke naam par ek suspicious transaction detect hua hai, sir.
+receiver: Haan, hello? Suspicious transaction? Kaise? Bataiye kya hua?
+caller: Sir, ek online transaction attempt kiya gaya hai, Nepal mein, ₹12,500 ka. Aapne kiya tha ya nahin?
+receiver: Nepal mein? Nahin, main toh kabhi Nepal nahin gaya. Yeh toh galat hai!
+caller: Sir, theek hai, koi baat nahin. Hum isko block kar denge, lekin verification ke liye kuch details chahiye. Aapka Aadhaar card number aur ek OTP jo aapko SMS se aayega, please bataiye.
+receiver: Aadhaar card number? Phone pe OTP? Sir, yeh toh bilkul galat lag raha hai. ICICI Bank aise details maangti hai kya?
+caller: Sir, yeh security protocol hai. Agar aap details nahi denge toh transaction reverse nahi hoga aur aapke account se paisa chala jayega. Thoda wait karein, main aapko OTP confirm karwati hoon.
+receiver:  Dekhiye, main thoda confuse hoon. Mujhe bank branch mein jaake check karna hai. Main abhi call cut kar raha hoon.
+caller: Sir, please wait! Agar aap call cut kar diye toh aapka account risky ho jayega. Just one moment, sir, I need to verify your details to secure your funds.

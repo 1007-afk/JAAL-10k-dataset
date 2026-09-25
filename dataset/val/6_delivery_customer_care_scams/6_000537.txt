@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Kapoor for the mobile number ending in 1234567890? My name is Akash, and I’m calling from Bluedart Courier regarding a parcel addressed to you. It’s currently held at our Mumbai sorting facility due to an incorrect address.
+receiver: Haan, woh mera number hai. Incorrect address? Kya hua?
+caller: Yes ma'am. The pin code is slightly different from what's on file. We need to verify your details to release the parcel. Could you please provide the last four digits of your bank account used for online shopping? It's just a security measure to confirm your identity and prevent fraudulent deliveries.
+receiver: Bank account details? Yeh toh safe nahi lag raha hai. Bluedart aise puchhti hai? Parcel ka naam kya hai? Aur parcel kiska hai?
+caller: Absolutely safe, Mrs. Kapoor. We’re just confirming it’s you. The parcel is from “ShopEasy” and contains a high-value electronic item. To proceed, we require a one-time password (OTP) sent to your registered mobile number to confirm the address update.
+receiver: OTP? Toh mujhe message aayega? ShopEasy se order karne ka koi yaad nahi. Main bank ke details nahi batayungi. OTP bhi check karunga jab aayega.
+caller: Yes ma’am, an OTP will be sent shortly. Please check your messages immediately. Once you receive it, kindly share it with me so I can update the address and schedule the delivery. Without the OTP, unfortunately, we cannot release the parcel.
+receiver: Thoda wait karo, main check karta hoon. Par abhi message nahi aaya hai. Koi scam toh nahi hai ye?

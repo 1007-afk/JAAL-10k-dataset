@@ -1,0 +1,12 @@
+caller: ion would go, assuming it's a new call and you're the scammer:
+
+```json
+{
+  "message": "scammer : Hanji hello! Aapka mobile number 07xxxxxxxxx ne ek £2,000 ka bonus prize jeeta hai! Yeh aapka doosra alert hai, call 09066362231 ASAP! Aapke paas sirf 5 minute bache hain!
+receiver: scammer : Ji haan, main sun raha hoon. Sirf 5 minute? Aur yeh £2,000 ka prize kis cheez ka hai? Phone bill ka bonus hai ya kuch aur?
+caller: scammer : Aapko pata nahi chala, yeh ek lottery prize hai! Aapne bilkul 02/06/03 ko iss prize ko jeeta tha. Aur agar aapne abhi call nahi kiya toh aapka bonus expiry ho jayega!
+receiver: receiver: Lottery prize? Mujhe toh yaad bhi nahi aa raha maine koi lottery kheli ho. Aur woh bhi £2,000 ki? Koi proof hai aapke paas, koi ticket number ya kuch aisa?
+caller: scammer : Arre Sir/Madam, proof ki kya zaroorat? Yeh prize hamare system mein automatic aata hai. Aapne bilkul 02/06/03 ko iss prize ko jeeta tha. Aur agar aapne abhi call nahi kiya toh aapka bonus expiry ho jayega! Bas 5 minute bache hain! Jaldi karein!
+receiver: receiver: System mein automatic aata hai? Yeh kaise ho sakta hai? Koi company ka naam, koi official website jahan main yeh check kar sakoon? Aur 2003 ka lottery? Itna time ho gaya, mujhe bilkul yaad nahi hai. Kahin yeh koi fraud toh nahi?
+caller: scammer : Arre Sir/Madam, fraud bilkul nahi hai! Yeh ek official lottery hai, jiska naam hai 'Lucky Mobile Bonus'. Hum aapko bas yaad dila rahe hain taaki aap apna jeeta hua paisa na kho dein. Aapko bas 09066362231 par call karna hai aur apna 'prize code' batana hai. Woh code bhi aapko message mein mil jayega. Jaldi karein, sirf 5 minute hain!
+receiver: receiver: Lucky Mobile Bonus? Yeh naam maine pehle kabhi nahi suna. Aur yeh 'prize code' kya cheez hai? Kya yeh paisa bank account mein nahi aa sakta? Aur yeh number 09066362231 pe call karne se mera identity verify ho jayega kya? Ya mujhe kuch documents bhejne padenge?

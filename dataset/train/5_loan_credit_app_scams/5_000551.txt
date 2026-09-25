@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? I'm calling from 'QuickCash Solutions'. We've reviewed your recent loan application and it's been pre-approved! Congratulations! To finalize it, we just need a small verification fee.
+receiver: QuickCash Solutions? Loan apply toh kiya tha, lekin verification fee? Kitna dena hai?
+caller: It’s just ₹2,500, sir. A standard security deposit to prevent fraud. Once the loan is released, it will be deducted from your first installment. You can pay through UPI – I'll send you the QR code.
+receiver: ₹2,500? Loan kitna approve hua hai? Aur yeh UPI wale QR code ka kya hai?
+caller: You’ve been approved for ₹75,000, sir! The QR code is for instant verification. Scan it and pay – it’s very quick. We need to process it immediately because this offer is only available for a few hours. Don’t miss out!
+receiver: ₹75,000 ka loan aur ₹2,500 verification fee? Zyadhi lag raha hai. Aur QR code se payment karna risky ho sakta hai.
+caller: Sir, this is a limited-time offer with extremely low interest!  And the fee is a formality, ensuring your security. I'm sending you the QR code again. Please pay quickly, otherwise your application will be cancelled, and we can't guarantee it will be reactivated.
+receiver: Okay, wait. Let me check.

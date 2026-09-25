@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Amazon customer care se Rahul bol raha hoon. Aapke account mein ek suspicious transaction ka attempt kiya gaya hai. ₹3500 ka payment try kiya gaya tha, aur woh block ho gaya hai.
+receiver: ₹3500? Kaun try kar raha tha? Amazon se hi call hai?
+caller: Haan sir, Amazon se hi call hai. Security ke liye, aapko apna OTP dena padega, jisse hum aapke account ko secure kar saken. Aur aapka naam confirm karna hoga, sir.
+receiver: OTP? Main Amazon app mein dekhunga, koi notification nahi aaya hai. Aur mujhe naam dene se kya fayda?
+caller: Sir, notification kabhi-kabhi late bhi aati hai. Account ko secure karne ke liye OTP important hai. Aapka naam sirf confirm karne ke liye, sir. Woh confirm karo, naam batao, phir main OTP mangaunga.
+receiver: Acha, naam toh bata doonga. Mera naam Rajesh Kumar hai. Par woh OTP mat doonga. Main khud check karta hoon.
+caller: Rajesh Kumar, thank you sir. Ab OTP dena, please, sir! Account safe ho jayega. 30 seconds mein ₹3500 ka withdrawal try kiya gaya tha, sir!
+receiver: Yeh toh scam hai! Main police mein complaint karunga!

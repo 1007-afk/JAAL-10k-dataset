@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? I am calling from ‘Global Crypto Partners’. We have a fantastic opportunity for you to earn extra income from home.
+receiver: Global Crypto Partners? I don't remember signing up for anything. What’s this about?
+caller: Yes, ma'am! We’ve identified your profile as suitable for our affiliate program. You can earn up to ₹500 for every friend you refer who invests in our partner platform, ‘CoinSpark’. It’s very simple.
+receiver: ₹500 per referral? That sounds good. But how do I get started? Is there any upfront cost?
+caller: No upfront cost at all, Mrs. Verma! Just share your unique referral link with your friends and family. Once they invest a minimum of ₹2000 in CoinSpark, you’ll receive your ₹500 commission. We will need your bank account details to process the payments.
+receiver: Wait a minute. Invest ₹2000? And you need my bank details before I even start referring anyone? This feels a bit strange.
+caller: Ma’am, it’s a standard procedure to verify your account for secure payment processing. Don’t miss this great chance to earn quickly! Think of the extra money you could have! Just send your account number and IFSC code and you’ll be earning in no time.
+receiver: I’m not comfortable sharing my bank details like this. I think I’ll do some more research on ‘Global Crypto Partners’ and ‘CoinSpark’ before I proceed. Thank you for calling. Goodbye.

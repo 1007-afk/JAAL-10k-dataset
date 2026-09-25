@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya Sharma? I’m calling from SpeedyLoans. We saw your recent application and it’s been pre-approved for a loan of ₹75,000! Super easy process, just need to confirm a few details.
+receiver: ₹75,000? Really? That's amazing! But I don't recall applying for a loan… How did you get my number?
+caller: No worries, madam! We partner with many online platforms. Just a quick verification, we need your PAN card number and the last four digits of your bank account to activate the loan. It's all secure, don’t worry! A small processing fee of ₹150 is required upfront.
+receiver: PAN card? Account details? That sounds a bit risky. I’m not comfortable sharing that information over the phone. Are you sure this is a legitimate company? Can you give me a website address?
+caller: Madam, please don't be difficult! This is a limited-time offer. If you don’t confirm now, the approval will expire. ₹150 is a small price to pay for ₹75,000! We will also send you some personalized loan offers to your contacts to show them you are trustworthy.
+receiver: Personalized offers to my contacts? What are you talking about? This is getting really weird. I think you're trying to scam me. I'm hanging up.
+caller: Wait, wait! Don't be like that. Just send me the OTP you received on your phone. It’s just a standard security measure. Don't you want that money, Priya? We can even add a small insurance amount to cover any unforeseen circumstances.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I am calling from FastTrack Logistics, regarding a parcel addressed to you. There seems to be an issue with the delivery.
+receiver: Haan, main Priya Verma hu. Kya hua parcel ke saath?
+caller: Madam, your parcel has been flagged for a customs clearance fee of 2800 rupees. It's a standard procedure for international shipments. To release the parcel, we need you to confirm this payment.
+receiver: Customs clearance fee? Mujhe to aisa koi notification nahi mila. Aur kis company se parcel aaya tha?
+caller: This is a shipment from GlobalMart online store, madam. The fee needs to be paid immediately to avoid delays. You can make the payment through our secure portal: fasttrackclearance.net/payment. Just one moment while I verify your address.
+receiver: Wait a minute... GlobalMart? Main toh kabhi GlobalMart se kuch order nahi kiya. Ye to galat lag raha hai.
+caller: Madam, please do not delay. We need this payment to be completed within the next 15 minutes or the parcel will be returned to sender. For your convenience, we can also accept payment via UPI. Do you have Google Pay or PhonePe?
+receiver: No, I am not paying anything. This is a scam, I think. I am ending this call now.
+caller: Madam, please listen! You’ll miss out on a wonderful deal if you don’t cooperate. A special gift card of 5000 rupees will be included as compensation for the inconvenience.

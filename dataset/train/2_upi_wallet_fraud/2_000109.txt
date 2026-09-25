@@ -1,0 +1,8 @@
+caller: Namaste! Mai Priya hoon, Axis Bank security department se call kar rahi hoon. Aapke account mein aaj ek suspicious transaction ka attempt hua hai.
+receiver: Oh no! Really? What happened? I was just checking my balance.
+caller: Haanji, ek transaction request aaya tha Paytm ke through, 5000 rupees ka. Woh block kar diya gaya hai, lekin aapki security ke liye, humein confirm karna hai ki yeh aapne kiya hai.
+receiver: Okay, that’s good you blocked it. What do I need to do?
+caller: Sir/Madam, humein aapka OTP (One Time Password) verify karna hoga jo aapke registered mobile number par gaya hai. Woh bataiye, please.
+receiver: Wait a minute. I haven’t received any OTP. Are you sure you have the right number?
+caller: Aapko check karo ek baar. Sometimes delay ho jaata hai. OTP milega hi. Jab OTP milega toh mujhe bataiye.  Ye confirm karna bahut zaroori hai, otherwise account freeze ho sakta hai.  Aapko bahut pareshaan hona padega!
+receiver:  Okay, okay… I’m checking now. Still nothing. Maybe it’s a mistake.

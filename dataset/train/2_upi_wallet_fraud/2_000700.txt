@@ -1,0 +1,8 @@
+caller: Namaste, madam? Ye Ankit hai, PhonePe se calling kar raha hoon. Aapke PhonePe account mein ek suspicious transaction aaya hai, 2500 Rupees ka.
+receiver: 2500 Rupees? Nahin toh! Mainne koi transaction nahi kiya. Kya hua?
+caller: Ji, madam, system mein dikh raha hai ki ek online purchase kiya gaya hai. Lekin payment failed ho gaya hai, bank se. Ab aapko 50 Rupees ka verification charge pay karna padega, otherwise transaction cancel ho jayega aur aapke account se limit lag jayegi.
+receiver: Verification charge? PhonePe mein toh kabhi sunna nahi padha. Ye fraud lag raha hai.
+caller: Madam, security ke liye hi ye process hai. Apni PhonePe ID bataiye, main check kar ke batata hoon. Aur please, jaldi karna, otherwise aapko problems ho sakti hain.
+receiver: PhonePe ID? Main phone pe nahi bataungi. Main PhonePe app mein khud check karti hoon. Aapko band karo!
+caller: Madam, aap wrong ho rahi hain. Hum official PhonePe representative hain. Agar aap confirm nahi karti, toh humko report karna padega, aur aapke account mein lock lag sakta hai. Aapko thoda loss hoga, lekin security zaruri hai. Confirm kar dijiye, 50 Rupees bas!
+receiver: Lock lag jayega? Nahi, nahi, main check karti hoon. Bye!

@@ -1,0 +1,11 @@
+caller: Namaste! Main Airtel Customer Care se Rahul bol raha hoon. Aapke Airtel account mein ek suspicious activity detect hui hai, sir.
+receiver: Kya suspicious activity? Mujhe kuchh pata nahi hai.
+caller: Ji, ek number se aapke account se ₹500 ka transaction hone ki koshish ki gayi hai. Aapne kiya ya nahi?
+receiver: Nhi, maine koi transaction nahi kiya. Mere paas phone bhi nahi hai us number ka.
+caller: Theek hai sir, tension mat leiye. Ham isko block kar denge. Lekin isse pehle hamein aapki identity verify karni hogi. Aap mujhe apna OTP de sakte hain?
+receiver: OTP? Customer care kabhi OTP maangta hai?
+caller: Ji sir, security ke liye zaroori hai. OTP se hum pata karenge ki account aapka hi hai. Thodi der mein hum aapko ek verification link bhi bhejenge.
+receiver: Verification link? Matlab aapko mere bank details bhi chahiye?
+caller: Sir, bank details ki zaroorat nahi hai, bas verification link par click karke aapko ek short quiz complete karna hoga. Quiz ke sawalon se pata chalega ki aap asli user hain ya nahi.
+receiver: Quiz? Yeh bahut zyada complicated lag raha hai. Mujhe nahi lagta ki mein yeh kar paunga.
+caller: Sir, yeh bahut simple hai, sirf 3 sawal hain. Agar aap quiz complete kar lenge toh aapka account secure ho jayega aur transaction bhi cancel ho jayega. Otherwise, ₹500 ka loss ho sakta hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Ms. Verma? Speaking, associated with the number ending in 789? This is Rahul from 'QuickCredit Solutions'. We've noticed some activity on your account that indicates you might need some extra funds quickly. We’re offering a special loan program just for people like you.
+receiver: Haan, main Verma hoon. Kya offer hai aapke paas? Mujhe zyada paise ki zaroorat toh hai, lekin main loan lene mein thoda sceptical hoon.
+caller: No worries, Ms. Verma! It’s a very simple process. You’re pre-approved for a loan of ₹3,00,000 with a minimal processing fee. To release the funds, we just need you to verify your information via our secure app, 'CreditBoost'. You can download it from the Play Store.
+receiver: CreditBoost? Woh app main dekhunga. Processing fee kitna hai? Mujhe koi extra charges ke baare mein pata hona chahiye.
+caller: The processing fee is ₹5,000, a small price to pay for ₹3,00,000. Once the loan is active, the repayments will be manageable and very clearly explained in the app. Just install CreditBoost and use the code VERMA789 to confirm. Very limited slots left for this offer, Ms. Verma.
+receiver: ₹5,000?  Thoda zyada lag raha hai.  Main sochta hoon.  Kya koi guarantee hai ki loan approve ho jayega?
+caller: Absolutely! Once you verify your details in the app using the code, approval is automatic. And Ms. Verma, just a friendly reminder, if you hesitate, we might have to report your account for suspicious activity, which could affect your credit score.  It's very easy, just a quick verification.

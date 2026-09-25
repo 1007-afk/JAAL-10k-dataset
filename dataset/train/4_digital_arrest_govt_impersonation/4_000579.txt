@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Singh? This is Constable Rajesh Kumar from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Oh? Parcel? I wasn't expecting anything. What kind of suspicious items?
+caller: Sir, we cannot disclose the specifics over the phone for security reasons. However, preliminary investigations suggest potential links to illegal import of restricted electronics. To clear this parcel and avoid legal complications, you need to pay a small processing fee of ₹15,000.
+receiver: Fifteen thousand? For a parcel I didn’t even know I was receiving? This sounds very fishy. Can I see some identification or a case number?
+caller: Sir, I understand your concern, but this is a sensitive matter. Our procedure requires immediate payment to prevent further delays. You can make the payment through UPI to this number: 7891234567. We'll provide the clearance document once the payment is confirmed. Do not tell anyone about this, sir; it’s confidential.
+receiver: UPI? That's highly unusual. Why can't I come to the customs office and sort this out properly? I'm going to report this to the cybercrime helpline.
+caller: Sir, please don’t do that. You’ll be causing yourself a lot of trouble. The cybercrime helpline can’t intervene in a legitimate customs investigation. It's best to settle this quietly and swiftly. The window to do so is closing. Otherwise, we have no choice but to escalate the matter to higher authorities.
+receiver: Fine, fine, tell me what’s the reference number on this “parcel”?

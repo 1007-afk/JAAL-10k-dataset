@@ -1,0 +1,8 @@
+caller: Namaste! Main Blue Dart Courier se mil raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, really? What’s the problem? I wasn’t expecting anything.
+caller: Address incomplete hai sir. OTP verify karna hoga, tabhi parcel deliver hoga. Mein aapko OTP number send karunga.
+receiver: An OTP? That sounds a bit strange. Can’t you just call me back with the details?
+caller: Security protocol hai sir, sorry. OTP send karne se aapki personal details safe rahegi. ₹200 bhi clearance fee ke liye jama karne होंगे. Paytm se कर दीजिये.
+receiver: ₹200? For a delivery issue? That’s unusual. And why Paytm specifically? I usually use net banking.
+caller: Arre, sir, speedy process ke liye Paytm hi sahi rahega. Jaldi se pay kar dijiye, warna parcel return ho jayega. Last warning hai!
+receiver: Wait a minute… I’m going to check something.

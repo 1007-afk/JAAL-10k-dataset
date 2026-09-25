@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Anjali from QuickCashLoans. We’ve noticed you recently filled out a loan application online. Just confirming, do you have a clear photograph of yourself readily available?
+receiver: Namaste Anjali ji. Haan, mein photograph ka copy bana li hai. Digital format mein hai.
+caller: Excellent! Sir, for verification purposes, we need to upload it to our secure portal. Please go to SecureDocs.net/verify and upload the photograph under ‘Identity Verification’ section. It’s very simple.
+receiver: Okay, I'm uploading it now... Done. What's next?
+caller: Wonderful! The system shows a slight discrepancy. To proceed, we require a small OTP verification fee of ₹750. This ensures your account’s security and confirms your willingness to take the loan. Can you please share the OTP we're about to send to your registered number?
+receiver: OTP? Wait a minute... okay, got it. It's 879421.
+caller: Thank you, sir. Processing... Unfortunately, the system flagged some unusual activity. We're very sorry, but we need you to make a payment of ₹1500 to resolve this security issue. It's a one-time charge and will be fully refunded upon loan disbursement. If you don’t pay, the loan will be cancelled, and we'll have to report your application.

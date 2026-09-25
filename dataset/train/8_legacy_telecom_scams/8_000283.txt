@@ -1,0 +1,8 @@
+caller: Namaste, aapne humare notification ko dekha hai ki aapko ₹4000 ke guarantee prize mili hai? Yeh bahut urgent hai! Aaj ka lottery confirm karega ki aap jeet gaye hain, lekin aapko 09876543210 se call karna hai, Delhi mein kisi office mein. Seedha ‘A12’ bolenge.  Yeh offer sirf 6 ghante ke liye valid hai! Miss mat karo ye achcha samlaina!
+receiver: Haan, dekha hai. ₹4000 prize? Urgent laga hua hai? A12 bolna hai. Okay, try karta hoon Delhi office se call karne ka. 6 ghante? Theek hai, thanks.
+caller: Achchhi! Yaad rakhiyega, sirf Delhi office se aur A12 code zaroor bataiye ga. Time khatam ho raha hai, isliye jaldi karna hoga. All the best!
+receiver: Haan, bilkul. Delhi office pe hu abhi. A12 code yaad hai. Koshish kar raha hoon. Kya main kisi specific person se baat karunga ya koi naam hai jisko main mention kar sakta hoon?
+caller: Kisi khaas person ka naam nahi hai, bas ‘Prize Verification Team’ keh sakte hain ya seedha ‘A12 code’ bataiye ga. Unko pata hoga. Jaldi kariye!
+receiver: Okay, Prize Verification Team. Ya A12 code. Got it. Call connect ho rahi hai... Hello? Hello? Koi hai? Lagta hai line busy hai ya network problem hai. Wapas try karunga Delhi office se. Dhanyavaad.
+caller: Hello? Haan, woh number busy aa raha tha. Kya koi aur number hai? Ya thoda wait karke try karoon? Time bahave na!
+receiver: Arre yaar, busy aa raha hai? ₹4000 prize toh hai! Haan, thoda wait karke try karta hoon. Agar phir bhi busy aaya toh koi aur number hoga kya aapke paas? Ya yeh Delhi office line hi hai?

@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Patel? I'm calling from SecureLoanPro regarding your recent application. We're just verifying a few details before approval.
+receiver: Yes, this is Raj. I did apply for a loan. What details do you need?
+caller: Excellent! To proceed, we need to confirm your Aadhaar card details for security purposes. It's a standard verification process. Could you please share the first four digits and the last four digits?
+receiver: Hold on a second. Why do you need only parts of my Aadhaar number? That seems a bit strange.
+caller: Sir, it's just to cross-reference with our system and prevent fraud. Completely secure, I assure you. Also, for complete verification, could you please quickly transfer ₹500 to this UPI ID – fastverify786@axisbank? It’s a one-time processing fee.
+receiver: ₹500 upfront? Before even getting the loan? This is starting to feel like a scam. I’m not comfortable with this. I'm going to report this number.
+caller: Sir, please don’t do that! You're missing out on a fantastic opportunity to get quick funds! This is a limited-time offer, sir. Just send the ₹500 and we'll immediately disburse ₹15,000 to your account. Think of the possibilities!

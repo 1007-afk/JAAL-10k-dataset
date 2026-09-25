@@ -1,0 +1,8 @@
+caller: Hello, sir? This is Priyank Sharma calling from LoanExpress. We saw you recently filled out a loan application on our website. Just a few quick verifications needed.
+receiver: Okay, hello. Yes, I remember applying. What do you need to verify?
+caller: Sir, for security purposes, we need a photo of your Aadhaar card and PAN card. Please upload them through this secure link: [invented link]. It’s very important for processing your ₹15,000 loan.
+receiver: Aadhaar and PAN? That seems a bit risky, doesn’t it? I'm not sure I'm comfortable sending those.
+caller: Sir, it’s standard procedure. Without it, we can't proceed.  Plus, we’ve noticed some fraudulent activity linked to your application. To prove it’s really you, we need those documents urgently. Failing to provide these documents could delay the loan or even result in its cancellation.
+receiver: Fraudulent activity?  Okay, but is there any other way to verify?  I’m really worried about sending my Aadhaar.
+caller: Sir, unfortunately, no.  Now, once you upload the documents, we’ll require an OTP for final confirmation.  A small processing fee of ₹999 needs to be paid as well to activate the loan, which will be deducted from your approved amount. Can you do that now?
+receiver: ₹999 upfront?  That wasn't mentioned earlier.  I need to think about this.

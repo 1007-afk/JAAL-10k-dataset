@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We've intercepted a parcel at Indira Gandhi International Airport addressed to you containing suspicious items.
+receiver: Hello? Haan, main hoon. Kuch parcel? Kya hua?
+caller: Yes, sir. Preliminary scans indicate the parcel contains what appears to be electronic components that could be used for illegal activities. We need to verify its contents and your involvement. This is a very serious matter, Mr. Sharma.
+receiver: Illegal activities? Par main toh kuch order kiya tha online... Clothes. Kya bol rahe hain aap?
+caller: Sir, our investigation reveals inconsistencies with the declared contents. To clear this parcel and avoid further legal complications, you will need to pay a small processing fee and a security deposit. We can arrange a video call to verify your identity and discuss the matter further.
+receiver: Processing fee? Kitna fee hai? Aur video call? Why should I do that? Yeh thoda suspicious lag raha hai.
+caller: The total amount is ₹15,000, sir. The video call is standard procedure to prevent fraud and ensure the safety of our staff. We’ll need to see you quickly to resolve this. Otherwise, we’ll have to escalate this to the higher authorities and file a case.
+receiver: ₹15,000? That's a lot! Main kisi se baat karna chahunga, aur mujhe kuch documents bhi chahiye. Yeh parcel kis company se aaya tha?
+caller: Sir, our legal team has advised against further discussion until the fees are paid. We can send you a link for the secure payment portal immediately. The parcel originated from a shipping company called "Global Swift Logistics." Don't delay, Mr. Sharma, time is of the essence.
+receiver: Global Swift Logistics? I’ve never heard of them.  I want to

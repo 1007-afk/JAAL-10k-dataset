@@ -1,0 +1,6 @@
+caller: Hello, Neeraj? This is Anya from SoulMatesIndia. We noticed you’ve been quite active – your profile is really catching eyes! We've matched you with someone special, and they're eager to chat. Just reply "START" to confirm.
+receiver: Hi! Anya? SoulMatesIndia? Okay, sounds interesting. Let me see… START.
+caller: Wonderful, Neeraj! That's it – the connection is active! It’s Rahul, he's a software engineer based in London. He’s been really impressed by your photography skills. He's a bit shy, but I think you'll really click. He’s online now and looking forward to saying hello.
+receiver: Rahul, huh? London? Photography, huh? Okay, that’s a decent start. Software engineer sounds stable. I hope he isn’t one of those bots people keep complaining about. Hello to him, I guess.
+caller: Rahul says hello! He's just sent you a message - something about admiring your landscapes. He's actually facing a bit of a tight spot right now. His mum is quite unwell, and he needs to transfer some funds urgently back to Delhi for her treatment. He’s a little short on his bank limit temporarily.
+receiver: His mum is unwell? Transferring funds? That sounds…serious. And a bank limit? Seems a bit odd. Why can't he just use another account? I'm not sure I want to get involved in this. Can I at least see some photos of his mum?

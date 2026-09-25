@@ -1,0 +1,11 @@
+caller: Namaste! Kaise haal hai? Main Ajay Sharma hoon, Tech Support department se bol raha hoon. Apke mobile pe ek new update arrive jaa raha hai, 'Golden Melody' ringtone. It’s absolutely brilliant, trust me!
+receiver: Namaste Ajay ji. Theek hoon, shukriya. Golden Melody ringtone? Oh, really? Tell me more.
+caller: Haanji, yeh ek special edition hai, sirf limited quantity mein available hai. Apka phone number [Receiver's Phone Number] records mein hai. Humne dekha hai ki aap tech-savvy hain aur aapko music pasand hai. Yeh ringtone aapko bahot impress karegi.  Isliye, apko yeh update install karna chahiye. Kya aapko koi difficulty nahi aa rahi?
+receiver: Hmm… [Receiver's Phone Number]? That’s correct. And I do like music. Okay, so it's a limited edition ringtone? What happens if I don't install it?
+caller: Koi baat nahi, lekin aapko miss karna padega! Yeh ringtone bahut hi unique hai.  Agar aapko koi technical issue aaye toh, hum helpline number - 9876543210 par call kar sakte hain.  Aapko ek OTP code bhejna hai, kya aapko OTP code receive hone wala hai?
+receiver: OTP code? Yes, I think so. I usually get them. Just waiting for it now.
+caller: Great! Code dikhao, agar recieve ho jaaye.  Aur ek cheez, yeh ringtone activate karne ke liye ek small fee lagana hoga.  It's just ₹50 only, for security reasons.  Don't worry, it's completely safe.
+receiver: ₹50? Seriously? For a ringtone?
+caller: Haanji, secure payment gateway ke through paisa transfer hoga.  Apko UPI ID dena hoga.  UPI ID is [UPI ID].  Just copy and paste it.  Agar aapko koi confusion hai toh, hum helpline number par call kar sakte hain.
+receiver: [UPI ID]? Okay, I will try it. But what if something goes wrong?
+caller:  Koi tension mat lo, [Receiver's Name]! Hum aapki madad karenge.  Yeh process bahut simple hai.  Aapko sirf UPI ID enter karna hai aur phir confirmation button click karna hai.  And remember, this offer is valid till tomorrow. Don't delay!

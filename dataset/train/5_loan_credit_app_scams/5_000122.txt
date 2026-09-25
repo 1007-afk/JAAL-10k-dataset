@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from QuickCash Solutions. We’ve reviewed your application and pre-approved you for a personal loan of ₹50,000! Very easy process, just a few details to confirm.
+receiver: Oh, really? That’s good news! I applied for a loan online, did I? I’m Neha Sharma. What details do you need?
+caller: Excellent, Neha Ji! Just to finalize everything, we require a small processing fee of ₹2,500 to activate your loan. It’s a one-time charge, fully refundable, and ensures your loan is secured. We can transfer you the ₹50,000 as soon as this is done.
+receiver: ₹2,500? Refundable, you said? It just sounds a bit… suspicious. Why would I pay before I even get the loan?
+caller: Neha Ji, it's standard procedure. Many people try to take advantage of QuickCash Solutions, so this prevents fraudulent activity. Think of it as an insurance policy for your loan.  Without it, we cannot guarantee the funds. Please send it to this UPI ID: quickcash.secure.
+receiver: Hmm, okay. I'm still not completely comfortable, but I really need this loan. I'll send the ₹2,500. But I want to be clear, it *is* refundable, right?
+caller: Absolutely Neha Ji! 100% refundable. Once the transaction is confirmed, your ₹50,000 will be credited to your account within 15 minutes. We’re very excited to offer you this fantastic opportunity! Just confirm the payment and we'll get started immediately.

@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Verma? This is Akash calling from FreeCharge. We have a special offer running for our loyal customers. You’ve been selected for a cashback of ₹8000 on your next transaction!
+receiver: Really? ₹8000 cashback? I didn’t receive any notification about this. What’s the catch?
+caller: No catch at all! It's just a token of our appreciation. To activate this cashback, we need to verify your account. Can you please share the last four digits of your bank account number linked to your FreeCharge wallet?
+receiver: Wait a minute... FreeCharge never asked for my bank account number for cashback. Usually, it’s credited directly to the wallet. This sounds a bit fishy.
+caller: Madam, don't worry! It’s a new security protocol.  We’re tightening up our systems to prevent fraud. Sharing the last four digits is just a quick verification process.  Think of it as extra security for your money. Otherwise, you might miss out on this amazing offer.
+receiver: I'm still not comfortable sharing my bank details. What if it's a scam? Can’t you just credit the ₹8000 to my wallet directly?
+caller: Madam, that is impossible. Our systems require this verification. We’re just trying to protect you and your money.  The ₹8000 is waiting, but we need that last four digits to release it. It's very simple.

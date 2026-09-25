@@ -1,0 +1,9 @@
+caller: Namaste! Main Rupali hai, CreditQuickLoans se. Aapko ₹50,000 tak ka instant loan chahiye tha, correct? Approval process bahut simple hai, sirf kuch details ki zaroorat hai. Aapka naam bataiyein, please?
+receiver: Ji haan, woh correct hai. Mera naam Ankit hai.
+caller: Achha Ankit ji, bahut achha! Aur aap kya karte hain? Yahaan koi income proof requirement nahi hai, hum sabko madad karte hain.
+receiver: Main ek call center mein kaam karta hoon. Salary thodi kam hai, lekin chalne mein aasani hai.
+caller: Bohut sundar, Ankit ji! Toh, hum aapko ₹40,000 approve kar sakte hain. Bas ek small processing fee, ₹2,500, aapko account mein transfer karni hogi. Yeh guarantee karega ki loan aapko milega.
+receiver: ₹2,500? Lekin maine suna hai ki aise scams hote hain...
+caller: Ankit ji, yeh bilkul legal hai. Yeh sirf processing fee hai, agar aap loan nahi lete toh yeh wapas nahi milega. Jaldi kijiye, offer limited time ke liye hai. Number hai 7890123456.
+receiver: Theek hai, theek hai. Mein check karta hoon.
+caller: Bohot shukriya, Ankit ji! Agar aapko koi problem aaye toh 7890123456 par call karein. Hum aapki madad ke liye hamesha taiyar hain. Jaldi karo, offer expire hone wala hai.

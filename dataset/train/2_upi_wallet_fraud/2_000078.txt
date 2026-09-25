@@ -1,0 +1,8 @@
+caller: Namaste, main BharatPay se Ramu bol raha hoon. Aapka BharatPay wallet ek special cashback offer ke liye eligible hai.
+receiver: BharatPay? Cashback offer? Achha, batao kya offer hai.
+caller: Sir, hum Flipkart par ek lucky draw chalayenge, jisme aapko ek naya smartphone jeetne ka mauka milega. Ismein participate karne ke liye, aapko sirf ₹50 ka processing fee bhar dena hai. Yeh fee sirf ek baar lagegi.
+receiver: ₹50? Smartphone? Aur processing fee BharatPay se hi bharani hai? Thoda doubt ho raha hai.
+caller: Sir, yeh Flipkart aur BharatPay ka joint offer hai. Processing fee BharatPay ke through hi dena padega taaki aapka entry confirm ho sake.  ₹50 fee dene se aapko Flipkart par ₹1000 ka cashback bhi milega.  Fast ho jayiye, offer limited time ke liye hai!
+receiver: ₹1000 ka cashback aur smartphone? Toh BharatPay app mein jaake fee bharu?
+caller: Exactly sir! BharatPay app mein, ‘Add Money’ section mein jao aur ₹50 bhar do.  Ek OTP aayega, woh batao.  Smartphone toh mil hi jayega, aur ₹1000 cashback extra!
+receiver: Okay, fine.  App mein add money section mein ₹50 bhar deta hoon.  Dekhte hain kya hota hai.

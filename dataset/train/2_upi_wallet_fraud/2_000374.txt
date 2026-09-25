@@ -1,0 +1,9 @@
+caller: Hello sir, is this Rohan Sharma?
+receiver: Haan, main Rohan Sharma bolta hoon. Bolo?
+caller: Sir, congratulations! You've won a cashback prize of ₹15,000 from PhonePe!
+receiver: Kya? ₹15,000? Mein PhonePe ka koi contest toh participate nahi kiya tha.
+caller: Bilkul sir, it's a surprise reward. To claim it, you just need to pay a small processing fee of ₹999 through UPI. This is to verify your account and process the cashback.
+receiver: ₹999? Processing fee?  Yeh toh thoda zyada lag raha hai.
+caller: Sir, it's a mandatory fee. PhonePe ne yeh rule banaaya hai. Once you pay, the ₹15,000 will be credited to your PhonePe wallet immediately. Just send it to this UPI ID: 7890123456@axisbank.
+receiver: Ek minute ruk jao.  Mein check karta hoon.  Kya koi reference number bhi hai is reward ka?
+caller: Sir, reference number bahut zyada hai, main aapko SMS se bhi bhejuunga. Just hurry, offer valid sirf 10 minutes ke liye hai!

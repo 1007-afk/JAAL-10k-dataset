@@ -1,0 +1,7 @@
+caller: Namaste! Main Vinay, Zomato Rewards se bol raha hoon. Aapke Zomato Pay wallet mein ₹1500 cashback offer hai!
+receiver: Zomato Pay? Mere account mein cashback? Mujhe to koi notification aaya nahin.
+caller: Haan ji, limited time offer hai. Valid karne ke liye, aapko sirf ₹50 ke verification fee bharne hai. ₹50 bharne se cashback automatically activate ho jayega.
+receiver: ₹50 fee? Verification ke paise?  Yeh thoda funny lag raha hai. Zomato app mein to aise koi offer nahi dikh raha.
+caller: Sir, ye special offer hai, sirf Zomato Rewards customers ke liye. Aapko ek UPI link mil jayega, wahaan ₹50 deposit kardein.  Link hai: 7890123456@axisbank.
+receiver: ₹50 UPI mein deposit karne ko bol rahe ho?  Aap kon ho?  Zomato wale dikh rahe ho par mujhe doubt ho raha hai. Account number check kar leta hoon...
+caller: Sir, time barbaad mat karein! Offer khatam ho jayegi. ₹50 bhar den, cashback mil jayega. Jaldi karo!

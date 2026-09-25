@@ -1,0 +1,9 @@
+caller: Namaste sir, kaise haal hai? Yeh Mumbai Police se baat kar raha hoon. Aapke naam ka address check karna chahte hain.
+receiver: Oh, police sahab? Mein theek hoon, dhanyavaad. Mera naam Rahul Sharma hai, Delhi mein...
+caller: Delhi mein? Haan sir, humare records mein naam Rahul Sharma hai, lekin address nahi mila. Aapko FIR register karne ke liye apne address ka proof dena hoga. Agar aap address dedo, toh hum aapke case ko jaldi solve kar sakte hain.
+receiver: Fir dekho, main Delhi mein rehta hoon, mujhe address yaad hai. Parantu, police station mein fir register karne ke liye mujhe online form bharna padega, sahi?
+caller: Haan, technically correct hai. Lekin humare pass ek special procedure hai. Agar aap apne address ka screenshot send karein, toh hum aapki case jaldi handle kar sakte hain.  Sirf screenshot bhejo, koi question nahi puchunga.
+receiver: Screenshot? Okay, wait karo. Mein upload kar deta hoon. Parantu, main worry karta hoon ki ye information kisi gundagari mein use ho jae.
+caller: Sir, aapko kisi gundagari se koi darr nahi hona chahiye. Hum police hain, hum apna responsibility nibhate hain. Aapki privacy ka safeguard karna humara duty hai.  Agar aap screenshot bhejein, toh hum aapki case ko priority mein rakhenge. Customer Care: 9876543210
+receiver: Okay, okay. Mein screenshot bhejna shuru kar deta hoon. Parantu, main ek saati request karta hoon ki ye screenshot public forum par share karna mein bandh dunga.
+caller: Thank you sir, aapka cooperation appreciated.  Aapki case jaldi solve hone wali hai.  Aapko notification mil jayega.

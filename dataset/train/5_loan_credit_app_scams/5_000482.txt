@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev Kumar? This is Rishi from LoanFast India. We've pre-approved you for a quick loan of ₹50,000. Very simple process, money in your account within an hour.
+receiver: Oh, really? That’s good news! I’m a little short on funds right now. What’s the catch?
+caller: No catch, sir. Just a few standard verification steps. First, can you confirm your bank account number and the last four digits of your debit card? Just to link the account for the transfer.
+receiver: Wait a minute… why do you need my debit card details? Isn’t that a bit risky? I've heard of scams like this.
+caller: Sir, it's standard procedure for security, completely safe. We need it to ensure the funds go directly to your account, no intermediaries. Otherwise, there will be a delay. And listen, as a special offer, to expedite the process, we need a small processing fee of ₹2,000 upfront.
+receiver: ₹2,000? That's a lot! And I’m still not comfortable giving my debit card details over the phone. Is there any other way?
+caller: Sir, this is the only way to release the loan. Otherwise, your application will be cancelled. And, just so you know, if you default on this loan, we will have to take action. We have ways of finding your contacts and... well, let’s not get into that. Transfer the ₹2,000 to the UPI ID I'll send you.

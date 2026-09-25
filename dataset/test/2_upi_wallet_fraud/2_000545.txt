@@ -1,0 +1,7 @@
+caller: Hello, is this [Receiver's Name Invented, e.g., Rohan Kumar]? We're calling from BharatPe regarding a pending transaction. A payment of ₹12,500 was attempted through your BharatPe account to a merchant named ‘Sunrise Solutions’. Did you initiate this transaction?
+receiver: ₹12,500? No, I didn’t. That’s a lot of money. What’s happening?
+caller: It seems the transaction failed due to insufficient funds, but the amount is showing as pending. To clear this pending transaction and prevent it from impacting your credit score, we need to verify a few details. Can you share the last six digits of your bank account associated with BharatPe?
+receiver: Wait a minute. Why do you need my bank account details? Shouldn’t I be getting a notification on my BharatPe app about this?
+caller: Yes, you should, but sometimes there's a slight delay. To expedite the process and ensure your account isn’t flagged, we need to quickly verify. We’ll also send you a small cashback of ₹500 as a token of apology for the inconvenience. Just provide those last six digits, and we'll sort this out immediately.
+receiver: Cashback? Hmm, still... I'm not comfortable sharing my bank details over the phone. Can you give me a reference number or direct me to the official BharatPe website or helpline number I can call to confirm this?
+caller: Absolutely! Your security is our priority. Here's a reference number: BP-Verify-789456. Now, to quickly process the ₹500 cashback, just confirm your UPI ID linked to your BharatPe account. It’s just a quick step.

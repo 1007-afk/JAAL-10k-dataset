@@ -1,0 +1,9 @@
+caller: Namaste, Maiya Rahul se bol raha hoon, Axis Bank se. Aapko ek notification aaya hoga ki aapke account se ₹499 ka transaction hua hai Flipkart pe, hai na?
+receiver: Haan, ji. Mujhe notification aaya tha. Maiya Lakshmi hoon main. Maine Flipkart se kuch nahi kharida tha.
+caller: Samajh mein aaya Lakshmi ji. Hamara system dikhata hai ki aapne kuch ‘premium gaming accessories’ order kiye the.  Yeh ek technical error ho sakta hai. Hum isko fix karne mein aapki madad kar sakte hain.
+receiver: Acha?  Yeh kaise fix hoga? Mujhe toh kuch bhi samajh nahi aa raha.
+caller:  Chaliye dekhte hain. Humko aapke account ko verify karna hoga.  Aapka PayTM registered mobile number ka OTP bataiye, ek minute mein fix ho jayega.
+receiver: OTP... hmm, yeh hai 9287.
+caller: Dhanyavaad Lakshmi ji. Abhi humein aapko ₹499 refund karne ke liye ek link bhejna hoga. Is link pe click karke, aapko ek ‘verification fee’ bhar deni hogi, sirf ₹19, taaki refund process shuru ho jaye. Yeh fees hum bank ko pay karte hain.
+receiver: ₹19?  Lekin refund ke liye ₹19 bharne padenge?
+caller: Haan ji, Lakshmi ji.  Aapko ek message milega link ke saath. Jaldi karein, offer limited time ke liye hi hai.  Bahut log yahi fees pay kar ke apna refund le rahe hain.

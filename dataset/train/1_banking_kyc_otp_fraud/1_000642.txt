@@ -1,0 +1,18 @@
+caller: Namaste sir, main BharatPay se baat kar raha hu. Kya aapki profile ki KYC abhi tak complete nahin hui hai? Agar nahin, to bahut zaroori hai ki aap jaldi se karwa lijiye. Aapka phone number bataiye sir?
+receiver: Oh, KYC? Mujhe yaad nahi aa raha ki complete kiya tha ya nahi. Mobile number… woh bhi thoda busy huya huya. Aap mujhe apna account ID bataiye, phir check karta huon.
+caller: Account ID? Mein BharatPay pe nahi deta. Main sirf aapke phone number par hi check kar sakta hun. Agar aapka account band ho jaane wala hai, to yeh hi sahi tareeka hai. Please sir, apna phone number bata dijiye.
+receiver: Haan, acha hai. Mobile number… hmm… 5678901234. Par maaf karein, ek pal ke liye busy tha.
+caller: Shukriya sir. Thoda sa wait karein, main aapke account status ko check kar raha hun. Just one moment. Ab main aapko ek SMS bhejna chahta hun, jismein verification code hoga. Is code ko enter karne se aapka KYC complete ho jayega.
+receiver: Verification code? SMS se? Mujhe aisa lag raha hai, koi dhang badal raha hai. Ye genuine hai kya? Kya main koi risk le raha hun?
+caller: Ji ji, completely genuine hai! Yeh BharatPay ke rules ka part hai. Agar aapko koi confusion hai, to aap BharatPay helpline number par call kar sakte hain.  Aapka account band ho sakta hai, sir. Jaldi kar lenge!
+receiver: Helpline number? Hmm... okay, fine. Code bhejein. Lekin agar kuchh ghalat hua toh aap sabhi ne jawab deena.
+caller: Code bheja gaya hai sir.  Verification complete ho gayi hogi. Aap apne app mein login karke dekh sakte hain.  Bahut shukriya!
+caller: Namaste sir, main Jeepe Pay se baat kar raha hoon. Kya aapne apni Jeepe profile ki KYC abhi tak update nahi ki hai? Agar nahi, to aapko itni hurry hai, otherwise aapka account band ho sakta hai. Aapka mobile number bataiye sir?
+receiver: Jeepe profile? KYC? Mujhe abhi yaad nahi aa raha. Mobile number… hmm, thoda busy huya huya. Aap mujhe apna email id bataiye, phir check karta hoon.
+caller: Email ID? Mein Jeepe pe nahi deta. Main sirf aapke phone number par hi check kar sakta hun. Agar aapka account band ho jaane wala hai, to yeh hi sahi tareeka hai. Please sir, apna phone number bata dijiye.
+receiver: Okay, fine. Mobile number… 9876543210. Par maaf karein, ek pal ke liye busy tha.
+caller: Shukriya sir. Thoda sa wait karein, main aapke account status ko check kar raha hun. Just one moment. Ab main aapko ek WhatsApp message bhejna chahta hun, jismein verification code hoga. Is code ko enter karne se aapka KYC complete ho jayega.
+receiver: WhatsApp message? Yeh kya ho raha hai? WhatsApp par verification code? Yeh toh confirm scam hai.
+caller: Ji ji, completely genuine hai! Yeh Jeepe ke rules ka part hai. Agar aapko koi confusion hai, to aap Jeepe helpline number par call kar sakte hain. Aapka account band ho sakta hai, sir. Jaldi kar lenge!
+receiver: Helpline number? Hmm... okay, fine. Code bhejein. Lekin agar kuchh ghalat hua toh aap sabhi ne jawab deena.
+caller: Code bheja gaya hai sir. Verification complete ho gayi hogi. Aap apne app mein login karke dekh sakte hain. Bahut shukriya!

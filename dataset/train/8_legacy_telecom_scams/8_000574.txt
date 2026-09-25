@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal chaahe? Main Bharat Telecom se baat kar raha hoon.  Aapke mobile account mein ek important update hai, aur aapko verification ke liye ek small test chalani hogi.  Yeh ek special offer ka hissa hai, aur aapko select hua hai.  Dekho, ye 2015 ki blockbuster movie, ‘PK’ mein main lead actor, Amir Khan ne kya gaya tha?  Was it A -  ‘Chupke Chupke’, B – ‘Dil Se,’ ya C – ‘3 Idiots’?  Just tell me A, B, or C.
+receiver: Namaste. Haaan, suna de raha hu, clear.  Aapka naam kya hai? Aur ‘PK’ movie ka question?  A, 'Dil Se', woh gaana yaad hai.
+caller: Correct! You remembered perfectly, ‘Dil Se’! Wonderful! Now, to activate your prize, we require some information. Can I get your complete name, please?
+receiver: Haan, ‘Dil Se’ hi tha.  Aur mera naam hai Rohan Kumar. Ab prize ke liye kya requirements hai?
+caller: Fantastic, Rohan! Thank you for confirming. To ensure everything is correct, let’s confirm your city and state. Could you please tell me which city you live in?
+receiver: City? Okay. Main Mumbai mein rehta hun. Aur state kya hai? Maharashtra. Aapko yeh sab details prize ke liye chahiye, na?
+caller: Absolutely, Mumbai and Maharashtra. We need all this information to properly process your prize. And there's a minor administrative charge of only 50 Rupees, which you will need to pay online immediately to secure your prize. Are you ready to proceed?
+receiver: 50 Rupees? Sirf 50 rupees?  It seems like this is a bit strange.  You said there was no charge earlier.  This feels like a scam, actually.  Mujhe nahi karna yeh.

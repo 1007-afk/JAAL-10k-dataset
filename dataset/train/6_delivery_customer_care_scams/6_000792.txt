@@ -1,0 +1,7 @@
+caller: Namaste, sir/madam. This is Rohan from Zomato Customer Care. We noticed an unusual payment attempt on your account just now for ₹875. Did you authorize this transaction?
+receiver: Haan, hello. ₹875? No, I didn't make any order like that. What's happening?
+caller: Sir, it appears there was a technical glitch during a recent order placement. To secure your account and process a refund, we need to verify a few details. Can you please provide the last four digits of your linked debit card?
+receiver: Wait a minute. Zomato never asks for card details over the phone. I’m not comfortable sharing that. Are you sure you’re from Zomato?
+caller: Sir, this is a standard security protocol. We need it to reverse the fraudulent charge immediately. Otherwise, the money will be lost. Please, just the last four digits, and we’ll sort this out right away. For your safety, we need to proceed urgently.
+receiver: I’m still not convinced. I'll call Zomato directly from their official number on the app. Thank you.
+caller: Sir, please be careful. This is a very important matter. The fraudulent transaction is still pending and you need to act quickly to avoid financial loss. Please, just one moment...

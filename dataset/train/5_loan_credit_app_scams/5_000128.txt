@@ -1,0 +1,7 @@
+caller: Hello, this is Ankit from LoanExpress. We’ve reviewed your application and pre-approved you for a loan of ₹15,000. To finalize, we need a small processing fee of ₹500.
+receiver: ₹500? For processing? I thought pre-approved meant no fees upfront.
+caller: Yes, sir, it’s a standard security verification fee. We need to confirm your identity. You can deposit it via UPI to this ID: 87654321@ybl. Please send a screenshot after the payment.
+receiver: Okay, I’ll do that. Just give me a moment. (Pause) Okay, done. Screenshot sent.
+caller: Excellent! Now, to ensure loan safety, we require a selfie holding your Aadhar card and a short video of you reciting a specific phrase – “LoanExpress ke saath mera future hai shandaar”. This is to prevent fraud.
+receiver: A video? That seems a bit odd. Why a video and a phrase?
+caller: Sir, it’s a new security protocol. If you don't comply, we'll have to cancel the loan and blacklist you. Do you want to proceed or not? Your Aadhar card and video are very important to secure your loan.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I’m calling from Bluebird Courier regarding a parcel addressed to you. There seems to be an issue with the delivery address and we need to verify some details.
+receiver: Haan, main hi Priya Verma hoon. What’s the issue? What parcel is it?
+caller: It’s a package from Myntra, a very important one it appears, containing a high-value item. Our system shows an incomplete address and we're unable to deliver it. To get it back on track, we need to confirm a one-time security OTP sent to your registered mobile number.
+receiver: OTP? Why do I need to give you an OTP? Isn't that a bit risky? Can’t you just confirm the address with Myntra directly?
+caller: Absolutely not, ma'am. Our policy prevents us from sharing customer details with third parties. It's a security measure to protect your privacy. The OTP is a simple verification. Just share it with me, and we’ll update the address and ensure delivery. It’s a very urgent matter, the parcel cannot be held indefinitely.
+receiver: Hmmm...okay. The OTP is 4872. But I still feel a little uneasy. What's the tracking number for this parcel, so I can check?
+caller: Thank you, ma'am. The OTP has been verified. The tracking number is XB987654. Now, to complete the address update, we require a small processing fee of ₹250 to cover the expedited delivery charges. You can pay it through UPI.
+receiver: ₹250? For expedited delivery? That seems like a lot.  I’m going to call Myntra to confirm this.  Hold on a second.
+caller: Ma'am, please don’t delay. This offer is only

@@ -1,0 +1,8 @@
+caller: Namaste, sir? My name is Inspector Rajan from the Delhi Cyber Crime Unit. We've detected unusual activity linked to your Paytm account.
+receiver: Kya? Unusual activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, our system shows multiple attempts to transfer large sums to cryptocurrency wallets. It seems your account has been compromised. This is related to an illegal online gambling ring operating across several states.
+receiver: Gambling? I don’t gamble! This has to be a mistake. Can you give me a reference number for this case?
+caller: Sir, we are working under strict instructions to handle this discreetly to avoid alerting the criminals. To verify your identity and secure your funds, we need you to immediately transfer ₹15,000 to a secure government account. This is to block the fraudulent transactions.
+receiver: ₹15,000? That's a lot of money! Why do I have to pay to secure my own funds? This sounds really suspicious. Can I speak to someone higher up?
+caller: Sir, time is of the essence. Each minute delays the process, and more money could be lost. This is a standard procedure to prevent further damage. The account details are: [provides a long account number]. Please transfer immediately. We’ll need proof of payment to complete the process.
+receiver: Hold on a second… This feels wrong. I'm going to report this.

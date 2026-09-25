@@ -1,0 +1,7 @@
+caller: Namaste, sir! My name is Inspector Verma, calling from the Delhi Police Cyber Crime Unit. We’ve detected some unusual activity linked to your bank account – several large transactions to overseas accounts.
+receiver: Delhi Police? What kind of transactions? I haven’t made any big transfers recently. Are you sure you have the right person?
+caller: Sir, we need to verify your identity immediately to prevent further fraudulent activity. Our records show transfers to shell companies linked to online gambling and money laundering. We need you to cooperate fully; otherwise, we might have to file an FIR against you.
+receiver: An FIR? That sounds serious. Can you give me a case number or a contact number for the police station you're calling from? I’m a bit worried and want to verify this myself.
+caller: Sir, giving out case numbers over the phone is against protocol. We're working on high-priority cases, and security is paramount. For your protection, we need you to download a secure app on your phone - “CyberSafe Verify” - so we can remotely access your device and secure your account. It’s absolutely essential.
+receiver: Wait a minute. Downloading an app from an unknown source to give you access to my device? That sounds incredibly risky. I've heard about these scams before. Can I speak to your supervisor, please?
+caller: Sir, there's no time for that! The fraudsters are actively trying to empty your account. Downloading the app now is the only way to stop them. Think of your money, sir!

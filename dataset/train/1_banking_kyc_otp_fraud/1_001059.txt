@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? My name is Ankit from Axis Bank’s fraud prevention unit. We've noticed some unusual activity on your account related to a recent online purchase.
+receiver: Haanji, Mrs. Verma hun. Kya hua? Online purchase? Main toh kuch purchase nahi kiya tha.
+caller: Yes ma'am. It appears a transaction of ₹8,750 was attempted through a mobile wallet linked to your Axis Bank account. To prevent potential fraud, we need to quickly verify your identity. Can you please confirm the last three digits of your PAN card?
+receiver: PAN card number? Is this really Axis Bank calling? I'm a little nervous giving out my PAN details over the phone.
+caller: Absolutely, ma'am. We understand your concern. It’s standard procedure. We need to confirm the PAN to ensure we’re speaking with the account holder. Just the last three digits are sufficient. Time is of the essence, as the transaction could be processed any moment.
+receiver: Okay, okay... the last three digits are 456. But why a mobile wallet? I don't even use mobile wallets.
+caller: Thank you, Mrs. Verma. That confirms your identity. Now, to completely block the fraudulent transaction and secure your account, we need you to immediately transfer ₹2,000 to a temporary secure account we've created. This is a one-time charge to cover the investigation costs.
+receiver: ₹2,000? Investigate costs? This doesn't sound right at all! Why would Axis Bank ask me to transfer money to secure my account?
+caller: Ma'am, this is a standard emergency protocol. It's the fastest way to neutralize the threat. We’ll refund the ₹2,000 once the investigation is complete. Please don’t delay, as

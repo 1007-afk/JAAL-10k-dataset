@@ -1,0 +1,17 @@
+caller: Namaste sir, HDFC Bank se main Bol raha hoon. Aapko naya savings account khulwana hai, sahi samjha na? Iske liye mujhe aapki Voter ID number chahiye hogi. Kya aap share kar sakte hain?
+receiver: Haan ji, namaste. Account toh khulwana hai, par Voter ID abhi mere paas nahi hai. Kuch aur tarika hai kya?
+caller: Koi baat nahi sir, hum aapki help kar denge. Kya aapka koi dusra ID proof hai, jaise Aadhar Card ya Driving License? Agar woh bhi nahi hai, toh hum aapko ek temporary account number issue kar sakte hain aur baaki details baad mein collect kar sakte hain. Par Voter ID sabse jald ho jayega. Ek aur tarika hai, aapko bank branch aana padega. Par agar aap ghar se hi karna chahte hain, toh aapke liye ek online registration portal hai. Uske liye hum aapko ek OTP send karenge, jisse aap registration verify kar payenge. Kya aap yeh OTP receive karne ke liye taiyar hain?
+receiver: Haan ji, OTP receive karne ke liye taiyar hoon. Bhej dijiye aap.
+caller: Theek hai sir, aapko ek OTP aayega abhi. Woh OTP mujhe bataiyega, taaki main aapka registration verify kar sakoon aur aapka account kholne ki process aage badha sakoon.
+receiver: Ji, aa gaya OTP. 567890 hai.
+caller: Achha, 567890? Dhanyawad sir. Ab yeh OTP se aapka registration verify ho jayega aur aapka naya HDFC account hum khol denge. Bahut jaldi ho gaya na? Aapko kisi aur service ke liye bhi help chahiye? Jaise ki cheque book activation ya UPI setup?
+receiver: Nahi sir, abhi toh filhaal itna hi kaafi hai. Bahut bahut dhanyawad aapki madad ke liye. Jaldi se sab ho gaya.
+caller: Namaste sir, Punjab National Bank se bol raha hoon. Aapko personal loan lena hai, sahi samjha na? Loan approve karne ke liye, mujhe aapka Income Tax Return copy chahiye hoga. Kya aap share kar sakte hain?
+receiver: Haan ji, namaste. Loan toh lena hai, par Income Tax Return copy abhi paas nahi hai. Koi aur option hai kya?
+caller: Koi baat nahin sir, hum aapki madad karenge. Kya aapka PAN card hai? Ya phir Ration Card ka copy? Agar nahi, to hum aapko ek provisional loan amount assign kar sakte hain aur baad me details confirm kar sakte hain. But IT return bahut important hai. Ek aur option hai, aapko bank office pe jana padega. Par agar aap ghar se hi karna chahte hain, to hum aapko online application form bhejen ge. Uske liye aapko kuch basic information fill karke OTP verify karna hoga. Kya aap OTP receive karne ke liye ready hain?
+receiver: Haan ji, OTP receive karne ke liye ready hoon. Bhej dijiye.
+caller: Theek hai sir, aapko ek OTP milega abhi. Woh OTP mujhe bataiye, taki main aapka application verify kar sakta hun aur loan process ko forward kar sakta hun.
+receiver: Ji, aa gaya OTP. 234567 hai.
+caller: Achha, 234567? Dhanyawad sir. Ab yeh OTP se aapka application verify ho jayega aur aapka naya personal loan hum approve kar denge. Sehr jaldi ho gaya na? Aapko credit card activation ya overdraft facility bhi chahiye?
+receiver: Nahin sir, abhi toh sirf loan ka hi kaam chal raha hai. Dhanyavad aapki madad ke liye.
+caller: Theek hai sir, aapka loan apply ho gaya hai. Aapko email se confirmation mil jaega. Jaldi se sab ho gaya.

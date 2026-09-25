@@ -1,0 +1,9 @@
+caller: Hello, is this speaking with Mrs. Khanna? My name is Inspector Rajan, calling from the Directorate of Revenue Intelligence. We have intercepted a suspicious package linked to your IP address.
+receiver: Haan, main Mrs. Khanna bolti hoon. Package? Kya baat kar rahe hain aap?
+caller: Yes, Mrs. Khanna. This package contained undeclared foreign currency, and the tracking information points to your internet connection. This is a serious matter, potentially linked to money laundering. We need to verify some details to clear this up before it escalates.
+receiver: Money laundering? Main toh sirf ghar par baithti hoon, online shopping karti hoon. Mere IP address se? Yeh kab hua?
+caller: It happened two days ago, Mrs. Khanna. Our records indicate a transaction involving a significant sum. To avoid legal complications, you’ll need to pay a small processing fee of ₹15,000 to secure the package and prevent further investigation. You can pay via UPI.
+receiver: ₹15,000? Yeh toh bahut zyada hai! Main kyun pay karoongi? Agar package mere IP se linked hai toh aapko woh samjhega nahin. Main police station mein jaungi.
+caller: Mrs. Khanna, understand this is to expedite the process and demonstrate your cooperation. If you refuse, we’ll have no choice but to escalate this to a formal investigation, which could lead to significant penalties. It’s much easier to resolve this now with a small payment. Please, for your own safety.
+receiver: Haan... theek hai. Theek hai. UPI number do. Main check karti hoon.
+caller: Certainly, Mrs. Khanna. Please transfer to 8690012345@upi. Once the payment is confirmed, we’ll arrange for the package to be released and close the case. Do it quickly,

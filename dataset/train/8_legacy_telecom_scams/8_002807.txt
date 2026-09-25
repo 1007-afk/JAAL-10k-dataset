@@ -1,0 +1,24 @@
+caller: Bolo meri naman, bohot buraa din hai, aur main aapko Diwali ki hardik prarthana de raha hoon. Main Sanjay Sharma se baat kar raha hoon, Free Connect Services se. Aap kaise hain? Kya aap Diwali ke liye kuch naya kharidne wale hain? Humare paas ek special offer hai - 50 free data recharge aur ek bagli wala smart phone, sabse kam ₹300 ka bill charge! Kaise lagta hai?
+receiver: Oh, Diwali Mubarak! Sanjay ji, main theek hoon, dhanyavaad. Haan, main Diwali ke liye kuch kharidna hi sahi rahega. Smart phone ka offer sunkar maza aa gaya. ₹300 ka bill charge? Woh thoda zyada nahin hai?
+caller: Haanji, woh thodi zyada hai, lekin hum aapko ek extra discount milayega agar aap abhi subscribe karein. Aur hum aapko ek complimentary charger bhi denge! Agar aap aaj hi subscribe karte hain, to aapko ₹250 ka bill charge milega. Ismein kya hai?
+receiver: ₹250 ka charge? Theek hai, yeh achcha lag raha hai. Lekin, yeh recharge 50 data recharge hai, ya phir ek complete plan hai? Aur smartphone ka warranty kitna hai?
+caller: Yeh ek single recharge hai, aur smartphone ka warranty 1 saal ka hai. Hum aapko ek SMS bhi bhejen ge jo aapko subscription process ka pata chalayega. Aapka mobile number bataiye, bhai.
+receiver: Mera number hai 9876543210.
+caller: Shukriya! Hum aapko abhi call back karenge jab aapki subscription ready hogi. Diwali ki hardik prarthanaen!
+receiver: Dhanyavaad! Aapko bhi Diwali Mubarak!
+caller: Hey, tumhare pass ek WhatsApp number hai jahaan par hum aapko updates de sakenge?
+receiver: Haan, 7000000000.
+caller: Shukriya! Tumhari subscription soon ready hogi. Happy Diwali!
+receiver: Happy Diwali!
+caller: Bolo meri naman, bohot buraa din hai, aur main aapko Diwali ki hardik prathana de raha hoon. Main Sanjay Sharma se baat kar raha hoon, Free Connect Services se. Aap kaise hain? Kya aap Diwali ke liye kuch naya kharidne wale hain? Humare paas ek special offer hai - 50 free data recharge aur ek bagli wala smart phone, sabse kam ₹300 ka bill charge! Kaise lagta hai?
+receiver: Oh, Diwali Mubarak! Sanjay ji, main theek hoon, dhanyavada. Haan, main Diwali ke liye kuch kharidna hi sahi rahega. Smart phone ka offer sunkar maza aa gaya. ₹300 ka bill charge? Woh thoda zyada nahin hai?
+caller: Haanji, woh thodi zyada hai, lekin hum aapko ek extra discount milayega agar aap abhi subscribe karein. Aur hum aapko ek complimentary charger bhi denge! Agar aap aaj hi subscribe karte hain, to aapko ₹250 ka bill charge milega. Ismein kya hai?
+receiver: ₹250 ka charge? Theek hai, yeh achcha lag raha hai. Lekin, yeh recharge 50 data recharge hai, ya phir ek complete plan hai? Aur smartphone ka warranty kitna hai?
+caller: Yeh ek single recharge hai, aur smartphone ka warranty 1 saal ka hai. Hum aapko ek SMS bhi bhejen ge jo aapko subscription process ka pata chalayega. Aapka mobile number bataiye, bhai.
+receiver: Mera number hai 9876543210.
+caller: Shukriya! Hum aapko abhi call back karenge jab aapki subscription ready hogi. Diwali ki hardik prathanaen!
+receiver: Dhanyavad! Aapko bhi Diwali Mubarak!
+caller: Hey, tumhare pass ek WhatsApp number hai jahaan par hum aapko updates de sakenge?
+receiver: Haan, 7000000000.
+caller: Shukriya! Tumhari subscription soon ready hogi. Happy Diwali!
+receiver: Happy Diwali!

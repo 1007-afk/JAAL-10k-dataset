@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Rahul, calling from Bluestar Courier. We have a package for you, but there's a small issue with the payment.
+receiver: Haan, woh sahi hai. Package mera hi hai. Kya hua?
+caller: Sir, it seems there’s a discrepancy in the delivery address. To confirm, we need to verify your payment details. It's a standard security protocol. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Lekin, main toh kuch order nahi kiya tha. Yeh kaisa payment hai?
+caller: Sir, sometimes orders are placed accidentally, or as gifts. No worries. Just the OTP so we can quickly resolve this and get your package dispatched. It's a high-value item, sir, so security is paramount.  It is just a 4 digit code.
+receiver: Ok, ok...  Just sent it. 4839.  Ab kya?
+caller: Thank you, sir.  Just one final step to ensure everything is correct. Could you please confirm the last four digits of the card you used to pay the delivery charges?

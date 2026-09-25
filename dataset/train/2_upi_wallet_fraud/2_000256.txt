@@ -1,0 +1,7 @@
+caller: Hello sir, this is Akash from Federal Bank’s fraud prevention department. We’ve detected some unusual activity on your Airtel Payments Bank account. A transaction of ₹5,500 is pending.
+receiver: Really? What kind of transaction? I didn't initiate anything.
+caller: Sir, it appears someone tried to make a payment using your Airtel Payments Bank UPI. To secure your account, you need to verify a one-time code we’re sending to your registered mobile number via SMS. Just tell me the code, sir.
+receiver: Wait a minute. Why do you need the code from me? Shouldn’t I be the one verifying directly within my Airtel Payments Bank app?
+caller: Sir, due to a security upgrade, we're now verifying directly with the bank for urgent cases like this. It’s a new protocol to protect your funds. Just the OTP, please, so we can block the fraudulent transaction. Time is critical, sir. The payment could go through any moment.
+receiver: Okay, okay. The code is 123456.
+caller: Thank you, sir. Just to confirm, can you tell me the last four digits of your Aadhaar card for verification purposes? It’s standard procedure.

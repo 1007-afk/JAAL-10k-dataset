@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek notification dekha hoga ‘Bharat Offer – Get ₹150 Recharge’ , uske baare mein baat karna chahte hain.
+receiver: Haan ji, hello. Mein bhi dekh raha tha. Kya hai ismein?
+caller: Ji, toh aapko ₹150 ka recharge offer mila hai! Yeh ek special deal hai, aur aapke paas sirf 3 'recharge points' bache hain use kartey hue. Aapko bas recharge points ko activate karna hai, woh bhi totally free!
+receiver: ₹150 ka recharge? Wow, yeh achcha deal hai. Toh main kaise recharge kar sakta hu? Kuch download karna hai ya kuchh?
+caller: Nahi ji, kuchh download karne ki zaroorat nahi. Aapko sirf ek small request sunni hogi, jisse hum aapki recharge points activate kar sakte hain. Aapka naam bataiye please.
+receiver: Mera naam Vikram hai.  To sirf request sunni hai? Aur kuchh nahi?
+caller: Haan ji Vikram.  Bas ek small request karna hai. Agar main aapki ‘activation number’ jo aapko app mein dikhti hai, wo verify kar doon toh aapki recharge points immediately activate ho jayegi. Kya main aapki activation number le sakta hoon?  Koi extra charges nahi honge, promise!
+receiver: Activation number? Okay, let me check…  Haan, ye raha. 8762.

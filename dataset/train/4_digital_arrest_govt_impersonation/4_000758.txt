@@ -1,0 +1,9 @@
+caller: Hello, this is Inspector Verma from the Delhi Customs department. We’ve intercepted a suspicious package linked to your name, Mr. Rajesh Patel.
+receiver: Customs? What package? I haven’t sent anything.
+caller: Sir, the package contains items related to illegal cryptocurrency transactions. We have evidence connecting it to your bank account. A case has been registered under section 138 of the IT Act.
+receiver: Cryptocurrency? But I don't deal in cryptocurrency. This must be a mistake.
+caller: Mr. Patel, we need to resolve this quickly. To clear your name, you'll need to pay a fine of ₹25,000 as a settlement. Transfer it to this UPI ID: 7890123456@axisbank.
+receiver: ₹25,000? I need to check this. Can you give me a reference number and a contact for the department?
+caller: Sir, time is critical. Delaying this will only escalate the charges and lead to more serious legal action. The reference number is DGC-777. Please make the payment immediately to avoid arrest.
+receiver: Arrest? I'm going to call the actual customs department to verify this.
+caller: Sir, attempting to interfere with a police investigation is a serious offense. We are monitoring your calls. Do not contact anyone. Complete the payment, or we will have to take further action.

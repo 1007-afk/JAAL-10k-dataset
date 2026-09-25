@@ -1,0 +1,8 @@
+caller: Namaste ji, thanks for your "Jingle Tunes" order, reference code MP82. You’ll be paying INR 6 per month. You can cancel this service any time by dialing 08882244.
+receiver: Oh, thanks for letting me know! INR 6 a month, okay. And I’ll save that 08882244 number just in case I want to cancel. Thanks for the update.
+caller: Haan, aur ek cheez – yeh INR 6 per month ka charge, yeh automatically continue hoga until you explicitly cancel it. So if you wish to stop the subscription, please dial 08882244444. Understand?
+receiver: Arre, matlab Jab tak main khud cancel nahi karta, tab tak paise chalte rahoge? Correct. Aur agar cancel karna hai, to 08882244444 pe call karna hai. Yaad rakhunga, thanks!
+caller: Exactly, sir! Just wanted to confirm that you’re fully aware of this. No immediate action required unless you decide to cancel. Is there anything else you’d like to know?
+receiver: Nahin, abhi kuchh nahi. Aapne sab kuch samjhaya. Dhanyavaad!
+caller: Wonderful! Glad to hear everything is clear. For any further queries, remember this number, 08882244444. Have a fantastic day!
+receiver: Thank you so much! You’ve been really helpful. I’ll keep that number safe. You too, enjoy your day!

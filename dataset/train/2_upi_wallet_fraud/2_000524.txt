@@ -1,0 +1,8 @@
+caller: Hello sir, is this Mr. Sharma? We are calling from FreeCharge regarding a cashback offer on your recent transaction.
+receiver: Haan, mein hu Sharma. Cashback offer? Kyu, kya offer hai?
+caller: Sir, we detected a high-value transaction on your FreeCharge account. As a reward for your loyalty, we're offering a 10% cashback, which will be credited directly to your bank account. But first, we need to verify your account details for security purposes.
+receiver: Theek hai, par kaise verify karoge? OTP toh kabhi bhi nahi dena chahiye.
+caller: Sir, no OTP is required. We just need you to send ₹50 as a ‘collect’ request via UPI to a temporary verification ID. This is to ensure your account is secure and eligible for the cashback. Once the ₹50 is received, the cashback will be processed immediately.
+receiver: ₹50 collect request? Yeh thoda funny lag raha hai. KYC verification ke liye toh bank bhi aise nahi karta. Mein nahi karunga.
+caller: Sir, this is a special promotional offer, only available for a few select customers. It’s a very small amount, and it guarantees your cashback. Think of it as a security deposit. Don’t miss out on the 10% cashback – it's a great deal!
+receiver: Okay, fine. But agar yeh fraud nikla toh main tumhe report karunga. Send me the UPI ID.

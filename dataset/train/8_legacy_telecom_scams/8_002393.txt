@@ -1,0 +1,9 @@
+caller: Namaste sir, main Airtel customer service se baat kar raha hoon. Aapki mobile internet 48 hours ke andar expire ho jaayegi. Aapko isko renew karna hoga.
+receiver: Airtel? Mein Airtel ka user hoon. Mujhe ye notification nahi mila. Kaise renew karoon?
+caller: Haan sir, aapko sirf kuchh information jaroori chahiye. Aapka full name aur aapki mobile account ka serial number bata sakte hain?
+receiver: Serial number? Airtel ne mujhe kabhi serial number seekha nahi tha. Ye toh bahut suspect lag raha hai.
+caller: Sir, yeh company policy hai. Technical reason se yeh information seekhna zaroori hota hai. Agar aapko koi darr hai toh main aapko ek verification code bhejna chahta hoon. Woh code aap mujhe bata denge, phir main aapka naam aur serial number check kar lunga. Iske baad aapki internet activate ho jayegi. Completely safe hai.
+receiver: Verification code? Lekin, unhe meri personal details seekhne ki zarurat bhi nahi honi chahiye. Agar genuine Airtel to hai toh yeh code banaane ka option bhi hona chahiye. Mein bata nahi sakta koi code.
+caller: Sir, samajh lijiye, yeh automatic process hai. Airtel ka latest security update hai. Code generate ho jayega, aur aapko sirf woh code enter karna hai. Iske badle aapki internet immediately activate ho jayegi. Agar aapko koi problem hai toh please reply karein.
+receiver: Bhai, mein abhi yahaan par hi rukta hoon. Yeh sab bohut fake lag raha hai. Airtel ke official app mein bhi internet renew karne ka option hota hai. Mein koi bhi number bata nahi sakta. Call end kar dunga. Agar genuinely Airtel wali taraf se call hua toh bataiye.
+caller: Sir, please! Yeh online payment gateway ka update hai. Internet activate karne ke liye, aapko sirf woh code dikhana hoga. Please, aapki internet band hone se bachne ke liye yeh code bata dijiye.

@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Verma? This is Inspector Kumar calling from the Central Goods and Services Tax (CGST) department. We've detected some unusual activity linked to your GST registration.
+receiver: Haan, main Mr. Verma hi hoon. CGST? Kya hua?
+caller: Sir, our system shows several high-value transactions originating from your registered business, but the recipient details don't match any legitimate entities. It appears there's a possibility of your GST registration being misused for hawala transactions.
+receiver: Hawala transactions? Yeh kaise ho sakta hai? Main toh itna saara business karta hoon, lekin koi hawala nahi chalaata. Batao, details kya hain?
+caller: Sir, we need to verify your involvement immediately to prevent further complications. We have recorded all these transactions and have evidence. To clear your name and avoid a formal investigation and potential arrest, you need to deposit a small processing fee of ₹15,000 as a guarantee of your cooperation.
+receiver: ₹15,000? Arrest? Sir, yeh toh bahut galat lag raha hai. Main bank transfer nahi karunga. CGST department aise nahi maangta hai paise.
+caller: Sir, this is a sensitive matter. Delaying cooperation will only escalate the situation. We are currently holding you under suspicion. To expedite the process and secure your release from any legal action, please transfer the amount to the account number [Invent a plausible Indian bank account number].
+receiver: Theek hai, ek minute. Mein abhi CGST ka official number check karta hoon. Koi official letterhead bhi bhej do email pe, fir main decide karunga.
+caller: Sir, time is of the essence. The window for cooperation is closing fast. We cannot risk further legal action. Transfer the amount immediately, and we will provide you with a receipt confirming your compliance.
+receiver:

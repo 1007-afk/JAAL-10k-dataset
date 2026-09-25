@@ -1,0 +1,15 @@
+caller: Hello? Hello, sir? Kya haal chaal hai? Ye toh ek special offer hai jab aapko free internet access mila sakta hai! Are you eligible for this amazing deal?
+receiver: Haan ji, mein sun raha hoon. Eligibility kya hai?
+caller: Bahut sundar hai! Agar aapke mobile number pe 500 paisa se kam recharge nahi hota hai, toh aapko yeh offer milega. Toh, sir, aapka mobile number bataiye, please.
+receiver: Mein ek number use karta hoon, lekin usmein kitna recharge hota hai mujhe nahi pata.
+caller: Koi baat nahi! Main aapko check karunga. Just tell me the last four digits of your account number. It’s just for verification purposes, you understand?
+receiver: Account number? Mujhe account number nahi malum.
+caller: Seriously? Okay, okay, don’t worry. Let’s try another way. What is your favorite color? This is just a quick security question. Tell me, what is your favourite colour?
+receiver: Mera favourite colour blue hai.
+caller: Blue, nice! Rahul, let’s proceed with your registration. To activate your free internet, we need to confirm your address. Can you provide me with your city and state?
+receiver: Main Mumbai mein rehta hoon, Maharashtra mein.
+caller: Mumbai, excellent! Now, to finalize your setup, we require a small payment of ₹500. Don't worry, it's a refundable deposit. Just transfer it through UPI ID - abcdefghijk.
+receiver: ₹500? Refundable? Yeh toh bahut gadha lag raha hai.
+caller: Absolutely! It’s completely safe. You’ll receive a confirmation message after the transfer.  Just double check the UPI ID before sending it, Rahul.  It’s very important.
+receiver: UPI ID? Main UPI ka istemaal nahi karta.
+caller: Oh no! Then I guess this offer isn’t for you. Thank you for your time, Rahul. Have a good day!

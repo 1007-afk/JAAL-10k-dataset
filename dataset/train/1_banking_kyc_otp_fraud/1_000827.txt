@@ -1,0 +1,7 @@
+caller: Hello, this is Vijay from SBI Bank fraud prevention. We've noticed unusual activity on your savings account. A large attempted transaction was flagged, and we need to urgently verify your details to secure your funds.
+receiver: Oh no! What kind of transaction? How much?
+caller: It was an attempt to transfer ₹15,000 to an unknown account. We’ve temporarily blocked the account to prevent unauthorized access. To unblock it and confirm your identity, could you please provide the OTP you just received on your registered mobile number?
+receiver: Okay, let me check… I just got a message. It's 456789.
+caller: Thank you. Just one moment while I verify… Alright. To further secure your account, as per RBI guidelines, we need to confirm your Aadhaar number. It’s a standard security protocol for all SBI customers.
+receiver: My Aadhaar number? I don't usually share that. Is this really necessary? It sounds a bit fishy.
+caller: Sir, security is paramount. If you don't provide your Aadhaar, we’ll have to permanently block your account for your own safety. Think of it as protecting your money. This is a one-time process only. You can call our helpline 1800-SBI-CARE after this is done to confirm.

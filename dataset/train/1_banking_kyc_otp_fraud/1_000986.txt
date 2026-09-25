@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Anita Verma, ICICI Bank se baat kar rahi hoon. Aapke account mein aaj ₹7,500 ka suspicious transaction detect hua hai.
+receiver: Kya? ₹7,500? Kahan gaya? Mujhe toh koi transaction yaad nahi.
+caller: Sir, transaction Nepal mein hua hai. Isko reverse karne ke liye, aapko apne account details confirm karne honge. Ek OTP aapke registered number par aaega, woh bhi batao.
+receiver: Nepal? ₹7,500 Nepal? Maine kabhi Nepal se transaction nahi kiya. Account details kyun doon? OTP bhi nahi bataunga.
+caller: Sir, yeh urgent hai. Agar aap confirm nahi karenge toh transaction permanent ho jayega aur bank account suspend bhi ho sakta hai. ₹7,500 wapas paane ke liye aapko sab details dehana padega. OTP se verify ho jayega, aur phir main account details confirm karungi.
+receiver: Account suspend? ₹7,500 permanent? Sir, mujhe toh yeh kuch samajh nahi aa raha. Main ICICI bank ke customer care number se baat karta hoon. Aapka number dedo.
+caller: Sir, hamare customer care number busy hai. Is call mein hi aapko sab confirm karna padega. ₹7,500 ka nuksan nahi chahiyega na? Thoda aur time nahi mil sakta aapko?

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We are calling from LoanExpressIndia, a government-approved instant loan service. We see you recently applied for a personal loan online.
+receiver: Yes, I did apply. What's this about?
+caller: Excellent! Your application is pre-approved for ₹75,000. Just a quick verification and the money can be credited to your account within the hour. Can you please confirm your PAN card number?
+receiver: Wait a minute. This sounds a bit fishy. I haven't heard of LoanExpressIndia. Why didn’t the bank call me directly?
+caller: Madam, these are standard procedures. We work with various banks to provide faster approvals. To process, we need a small security deposit of ₹5000, which will be returned after the loan is disbursed. Please transfer it to the UPI ID: LoanExp.786.
+receiver: ₹5000? That's ridiculous! You’re trying to scam me. I'm reporting this number. Goodbye!
+caller: Priya Sharma! Don’t be so hasty! This is a limited-time offer. If you don't pay the ₹5000 now, your pre-approval will be cancelled. And to make things worse, we have your pictures from social media, and we’ll share them with your family and friends if you don’t cooperate. Act quickly!

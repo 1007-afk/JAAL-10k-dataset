@@ -1,0 +1,8 @@
+caller: Namaste sir, main Bharat Telecare ki taraf se bol raha hoon. Aapka Jio number hai na? Ji, main yahaan aapko inform karne ke liye call kiya tha ki aapko ab premium customer support service ke liye special discount mila hai. Just 303 number pe call karna hai.  Aur koi detail chahiye aapko?
+receiver:Haan ji, sun raha hoon. Achcha, matlab main is premium customer support service se free mein help pa sakta hoon?
+caller: Ji bilkul! Koi bhi problem aaye, Jio se related ya kisi bhi technology ka, aap bas 303 number pe call karna hai aur hamare expert team aapki madad karenge. Iske alawa, aapko ek small offer bhi milna hai. Aapko sirf 50 rupees mein ek month ke liye premium support milega. Kya aapko interest hai?
+receiver: Nahin ji, mereko interest nahin hai. Bas yeh jaan na tha ki yeh facility hai. Bahut shukriya batane ke liye.
+caller: Paka bahut bahut shukriya. Agar kabhi bhi koi problem aaye toh yaad rakhiye, bas 302 number pe call karna hai. Enjoy your Jio offers! Goodbye.
+receiver: Theek hai ji, yaad rahega. Dhanyawad aapka bhi. Bye.
+caller: Great to hear that! Ji, aapke Jio experience ko aur bhi enhanced hoga. Aur koi questions hain aapke Jio plans ke baare mein? Bas ek chota sa detail confirm karna tha, aapka registered Jio number kya hai taaki main yeh check kar sakoon ki aapke account mein yeh offer correctly apply ho gaya hai?
+receiver:Haan ji, mera Jio number hai [Your Jio Number]. Aap verify kar lijiye.

@@ -1,0 +1,11 @@
+caller: Namaste! Main Vijay, Axis Bank se bol raha hoon. Aapke Axis Bank digital account mein kuch unusual activity dikh raha hai.
+receiver: Kya unusual activity? Mujhe toh kuch pata nahi hai.
+caller: Ji, ek transaction attempt hua hai Nepal mein, ₹3000 ka. Aapne kiya tha kya?
+receiver: Nepal? Nahin, maine toh koi transaction Nepal se nahi kiya. Yeh fraud lag raha hai.
+caller: Haan ji, shayad fraud hi hai. Isliye hum aapko call kar rahe hain. Aapko apne account ko secure karne ke liye, humein aapka OTP verify karna hoga. Tabhi hum transaction block kar paayenge.
+receiver: OTP? Account secure karne ke liye OTP mang rahe hain? Yeh thoda suspect lag raha hai. Main Axis Bank branch mein jaake baat karta hoon.
+caller: Sir/Madam, branch khulna time lagega, aur iske baad transaction ho sakta hai. Abhi OTP verify kar lijiye, 2 minute ka kaam hai. ₹3000 toh jayenge!
+receiver: Theek hai, theek hai. OTP bhejiye.
+caller: Excellent! Ab OTP receive ho gaya?
+receiver: Haan, receive ho gaya.
+caller: Dhanyavaad! Aapka account abhi secure hai. Humne Nepal mein transaction block kar diya hai. Aapko koi problem nahi hoga.

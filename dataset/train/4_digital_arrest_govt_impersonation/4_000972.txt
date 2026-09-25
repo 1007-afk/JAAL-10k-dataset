@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is the Cybercrime Investigation Cell calling. We've detected suspicious activity linked to your bank account with State Bank of India.
+receiver: Cybercrime? What's happened? My account is fine, I think.
+caller: Sir, we’ve identified several unauthorized transactions involving cryptocurrency transfers, totaling ₹2.5 lakhs. We believe your account has been compromised. To secure your funds and prevent further losses, you need to cooperate with our investigation.
+receiver: Two and a half lakhs? That’s impossible! I haven't done any crypto. This must be a mistake. Who are you really?
+caller: Sir, please don't be alarmed. We need your immediate assistance. To verify your identity and initiate the recovery process, we require you to provide a few details and a one-time OTP we'll send to your registered mobile number. This is a standard procedure.
+receiver: OTP? But why would I give you an OTP? That sounds dangerous. Shouldn't I call the bank myself?
+caller: Sir, time is of the essence. Every minute counts in preventing further fraudulent activity. The OTP is solely for secure verification purposes. Please provide it so we can freeze your account and start the investigation immediately. Otherwise, your account will be blocked by the bank.
+receiver: Okay, okay… hold on. Let me just check something… (silence)
+caller: Sir? Are you still there? We need that OTP urgently. Your account security is at risk.

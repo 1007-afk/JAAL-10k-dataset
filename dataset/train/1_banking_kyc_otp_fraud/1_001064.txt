@@ -1,0 +1,8 @@
+caller: Namaste, mai hu Rajesh, ICICI Bank se. Aapke account mein ek suspicious transaction ki activity detect hui hai. 25000 rupaye ka withdrawal attempt kiya gaya tha.
+receiver: Oh! 25000 rupaye? Kaise? Main toh koi transaction nahi kiya.
+caller: Haanji, sir. Isliye mai call kar raha hu. Security ke liye, aapko apna KYC update karna hoga. Aur iske liye, aapko ek OTP milna chahiye apna registered mobile number par.
+receiver: OTP? Chalo, dekhta hoon… Haan, aaya ek message. 1234.
+caller: Shukriya sir. Ab, confirmation ke liye, mujhe aapka Aadhaar card ka last 4 digit bhi chahiye, sir. Bas security purpose ke liye.
+receiver: Aadhaar card number? Mujhe toh yeh thoda risky lag raha hai.
+caller: Sir, bina Aadhaar number ke hum account suspend kar sakte hain. Yeh bank rule hai, sir. Aapka account secure rakhne ke liye, please cooperate karein. Jaldi se, sir.
+receiver: Theek hai, theek hai. Last 4 digits hain 8901.

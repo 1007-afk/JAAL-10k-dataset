@@ -1,0 +1,8 @@
+caller: Hello Sir, this is Inspector Verma from the Cyber Crime Investigation Cell. We have detected suspicious activity linked to your mobile number, involving unauthorized parcel deliveries from overseas.
+receiver: Parcel deliveries? Mujhe toh koi parcel nahi mila. Main toh Bharat mein hi hu.
+caller: Sir, our records show several packages addressed to you containing suspected contraband - drugs and counterfeit currency. We need to verify your involvement urgently. We’re putting you on a video call now so we can confirm your identity and discuss the situation. Please remain calm.
+receiver: Drugs? Yeh kya keh rahe hain aap? Mera naam Vijay Patel hai, aur main Gujarat mein rahata hu. Koi drugs nahi, koi counterfeit currency nahi.
+caller: Sir, we have irrefutable evidence. To avoid legal action and potential arrest, you need to pay a small processing fee of ₹15,000 to clear these packages. This is just to cover the investigation and verification costs. Please transfer to this UPI ID: 8765432109@axisbank.
+receiver: ₹15,000? Sir, yeh bahut zyada hai! Main toh police station mein jaaunga complaint karne.
+caller: Sir, please understand the severity of the situation. We are operating under strict protocol. Refusal to cooperate will result in immediate legal proceedings. The video call will continue until the payment is confirmed. Delaying will only worsen your situation.
+receiver: Okay, okay... but mujhe yeh guarantee chahiye ki payment karne ke baad, sab case close ho jaayega.

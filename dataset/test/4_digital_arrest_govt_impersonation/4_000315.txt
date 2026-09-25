@@ -1,0 +1,10 @@
+caller: Namaste Sir, this is Rajesh from the Customs Department. We’ve intercepted a parcel addressed to you containing suspicious items. It appears linked to a money laundering investigation.
+receiver: Customs Department? Kya baat hai? I wasn't expecting any parcel.
+caller: Yes Sir. The parcel originated from overseas. Preliminary scans indicate it contains large sums of cash, potentially linked to illegal activities. To clear it and prevent further investigation against you, you'll need to pay a small processing fee of ₹15,000.
+receiver: ₹15,000? But I didn't order anything. And why haven’t I heard from you before?
+caller: Sir, this is a sensitive matter and we’re trying to handle it discreetly. Delaying payment will escalate the case and may result in legal action against you. To verify your identity and process the payment securely, please send us your Aadhaar card and PAN card through WhatsApp. I’ll send you my number.
+receiver: Aadhaar card and PAN card? That seems risky. Are you sure you’re from Customs? Can you give me a reference number for this case?
+caller: Absolutely Sir. Your safety and the integrity of our investigation are our priorities. The reference number is CD2024-789-Alpha. This is standard procedure. Please send the documents ASAP via WhatsApp to prevent further complications. We need to release the parcel immediately.
+receiver: Okay, I'll think about it and call the Customs department directly to confirm. What is the official phone number?
+caller: Sir, please understand the urgency. Any delay could significantly impact the outcome. I’m sending you the WhatsApp number now. Time is of the essence. Please respond quickly.
+receiver: I’m not comfortable sharing my Aadhaar or PAN details like this. I need to verify this with the official Customs helpline

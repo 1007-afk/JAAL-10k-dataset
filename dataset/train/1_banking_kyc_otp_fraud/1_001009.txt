@@ -1,0 +1,8 @@
+caller: Namaste Madam, this is Raj from Axis Bank’s fraud prevention team. We’ve noticed some unusual activity on your account linked to a recent online transaction.
+receiver: Oh really? What kind of activity? Which transaction are you talking about? I haven’t made any big purchases recently.
+caller: It appears a withdrawal attempt of ₹12,000 was initiated from a device registered in Kolkata. To secure your funds and prevent unauthorized access, we need to quickly verify your identity.
+receiver: Kolkata? I’ve never been to Kolkata! This is a bit worrying. What do you need me to do exactly? Is this a genuine call, or...?
+caller: Absolutely, Madam. To confirm you're the rightful owner, we require a one-time password (OTP) sent to your registered mobile number. This is a standard security protocol. Just read it out to me.
+receiver: Wait a minute! OTP over the phone? I've heard about these scams. Why can't I just call Axis Bank directly to verify? Give me a number, I’ll call you back.
+caller: Madam, time is of the essence. If we don’t verify immediately, the transaction might go through and your account will be temporarily suspended for security reasons. Please, just the OTP. It will only take a second.
+receiver: Suspended? Okay, okay. But are you absolutely sure this is Axis Bank? Can you tell me my account number to confirm?

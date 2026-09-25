@@ -1,0 +1,9 @@
+caller: Hello sir, is this Rajeev Sharma?
+receiver: Haan, main Rajeev Sharma bolta hoon. Bolo, kya baat hai?
+caller: Sir, congratulations! You’ve won a cashback prize of ₹10,000 from PhonePe! To claim it, you need to do a small verification process.
+receiver: ₹10,000? Wow! Verification process matlab? Kya karna padega? PhonePe pe hi hoga na?
+caller: Yes sir, just a small payment of ₹250 as a processing fee. Once you pay, the ₹10,000 will be credited to your PhonePe wallet instantly. Please use UPI and send the amount to 7890123456.
+receiver: ₹250 processing fee? PhonePe toh aise fees nahi lete, right? Aur UPI pe direct paisa bhejna hai? Main confused hoon. Confirm karo phone number.
+caller: Sir, this is a limited-time offer! If you don't pay the fee now, the prize will expire. Just a small fee to unlock your winnings.  The UPI ID is linked to PhonePe officially. Hurry!
+receiver: Okay, wait. Let me check my PhonePe app. Just a second... I don’t see anything about this offer. It seems suspicious.
+caller: Sir, sometimes the offers don’t show up immediately. Just trust us, and send the ₹250. This is a genuine PhonePe promotion. Don't miss out on your chance to get ₹10,000!

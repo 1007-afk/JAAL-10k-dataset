@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from QuickCash India. I see you recently applied for a personal loan on our website. Just verifying your details to process the approval. Can you confirm your full name and date of birth, please?
+receiver: Yes, this is Raj Patel. Date of birth is 15th August 1988.
+caller: Thank you, Raj. Great news! Your loan application is pre-approved for ₹25,000. Very simple process. Just need you to pay a small processing fee of ₹2,500 upfront to activate the loan. This is standard procedure. You can pay via UPI.
+receiver: Two thousand five hundred? That seems a bit high. I thought the loan was free to apply.
+caller: Sir, due to recent RBI guidelines, there’s a mandatory processing charge. It's a one-time fee, and it’s non-refundable. But the interest rates on the loan itself are very competitive, and you’ll get the money within an hour of payment. Otherwise, the approval will lapse.
+receiver: Okay, fine. Send me the UPI details.
+caller: Excellent. Please use this UPI ID: quickcash.india@xyzbank. Once you've made the payment, send me a screenshot as proof and we'll transfer the ₹25,000 to your account immediately.

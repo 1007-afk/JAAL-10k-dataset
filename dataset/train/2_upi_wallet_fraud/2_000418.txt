@@ -1,0 +1,7 @@
+caller: Namaste, main Freecharge customer care se Rahul bol raha hoon. Aapke Freecharge wallet mein cashback offer aaya hai, ₹5000. Claim karne ke liye kuch details chahiye.
+receiver: ₹5000 cashback? Kaise? Mujhe toh koi notification nahi aaya.
+caller: Haan sir, special offer hai. Verify karne ke liye, mujhe aapka wallet registered phone number aur ek OTP chahiye.
+receiver: OTP? Mere phone par hi aayega na? Aur Freecharge ka official number bataiye, main khud check kar leta hoon.
+caller: Haan sir, phone par hi aayega. Official number hai 1800-258-0808. OTP verify karwa dijiye, offer claim karne ke liye.
+receiver: Thoda suspicious lag raha hai. Mujhe koi link ya code nahi mila. Main khud app mein check karta hoon. Aapko koi bhi OTP nahi dena chahta.
+caller: Sir, jaldi karein, offer limited time ke liye hai. OTP verify na karne par offer expire ho jayega.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from QuickCash Solutions. We've noticed you meet the criteria for a pre-approved personal loan of up to ₹75,000. Just a few quick details and it's yours. Can I confirm your full name, please?
+receiver: QuickCash Solutions? I haven't applied for any loan. Are you sure you have the right person?
+caller: Absolutely, madam. Our system flagged you as a suitable candidate. It's a limited-time offer. To verify your identity, could you share the last four digits of your bank account number? It's just a formality, we assure you.
+receiver: Wait a minute. Asking for my bank details over the phone? That doesn't sound right. Is this secure?
+caller: Of course, madam! We use the highest level of encryption. But just to expedite the process, we need to activate your account. A small verification fee of ₹500 is required, which will be credited back to your account once the loan is disbursed. You can send it via UPI to this number: 8800223344.
+receiver: ₹500? This is getting suspicious. I'm not paying anything upfront for a loan. I think I'll just call my bank directly.
+caller: Madam, you are making a huge mistake! This is your chance to get a loan without any credit checks. Don't let this opportunity pass you by. Are you really going to refuse ₹75,000? Think about it! We can also send some personal photos you have to your contacts if you don't pay, so you will be embarrassed.

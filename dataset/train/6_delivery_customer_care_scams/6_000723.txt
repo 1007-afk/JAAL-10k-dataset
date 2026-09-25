@@ -1,0 +1,7 @@
+caller: Namaste! Main Akash, BlueLine Logistics se baat kar raha hoon. Aapka ek parcel aaj delivery ke liye tayyar hai, lekin kuch information missing hai.
+receiver: Haan, kya missing hai? Mujhe toh koi order yaad nahi.
+caller: Theek hai. System mein dikh raha hai ki aapne 'ShopSmart' se ek smart watch order kiya tha. Delivery address confirm karna hai. Payment details bhi check karne hai.
+receiver: Smart watch? Mujhe toh ShopSmart se kabhi kuch order nahi kiya. Ye galat ho raha hai.
+caller: Sir, mistake ho sakta hai, lekin parcel deliver karne ke liye hamein confirmation chahiye. Verification ke liye OTP bhijwa rahe hain aapke phone par. Jo OTP aayega, woh mujhe bata dein.
+receiver: OTP? Main kabhi bhi OTP kisi ko nahi batata. Ye scam lag raha hai.
+caller: Sir, ye process hai. OTP bina dekhe parcel return ho jayega. Fast please, time barbaad ho raha hai aur parcel return hoga.

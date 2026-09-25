@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mai ICICI Bank se Rahul Sharma bolta hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Kuch problem hai? Batao.
+caller: Haan sir, ek logon ne aapke naam se loan application kiya hai. Agar aap isko verify nahi karte, toh aapka account suspend ho sakta hai.
+receiver: Loan application? Maine toh kabhi nahi kiya. Kaise hoga verify?
+caller: Sir, aapko ek OTP milega, woh mujhe batao. Aur aapka Aadhaar card number aur PAN card number bhi confirm karna hoga, security ke liye.
+receiver: Aadhaar number aur PAN number bataun? Bank aise poochta hai kya?
+caller: Haan sir, urgent hai. Account safe rakhne ke liye yeh zaroori hai. OTP batao jaldi karo.
+receiver: Wait, ek minute. Mai apne bank manager se baat karta hoon.

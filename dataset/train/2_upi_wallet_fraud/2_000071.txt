@@ -1,0 +1,8 @@
+caller: Namaste Madam! Main Bharat Pay customer care se Rahul bol raha hoon. Aapke Bharat Pay wallet mein ek suspicious transaction attempt kiya gaya hai.
+receiver: Kya? Kaunsa transaction? Mujhe toh koi notification aaya nahi.
+caller: Ji, attempt kiya gaya tha, lekin woh blocked ho gaya hai. Security ke liye, aapko confirm karna hoga ki aapne yeh attempt kiya hai ya nahi. Confirm karne ke liye, inka OTP number 7894561230 par send kar dijiye.
+receiver: OTP? Wait, mujhe kuch toh gadbad lag raha hai. Bharat Pay toh aise OTP maangta nahi.
+caller: Madam, yeh security protocol hai. Agar aap confirm nahi karenge, toh aapka wallet suspend ho jayega. Aapka account risk mein aa jayega. Please, urgently OTP send kar dijiye.
+receiver: Account suspend? Aur aapka naam bhi bata nahi rahe? Main Bharat Pay app check karti hoon.
+caller: Madam, time bahut kam hai. Jaldi kijiye! Aapka wallet secure karna mera duty hai. OTP send karein, please!
+receiver: Theek hai, ek minute.

@@ -1,0 +1,16 @@
+caller: Namaste beta, kaise hain aap? Mujhe bahut pasand hai aapko bulana, bataiye kya aapko samajh mein aata hai, cute?
+receiver: Namaste! Shukriya, main thik hoon, aap kaise hain? Aapka naam kya hai? Aur mujhe batayein, aapki favourite hobby kya hai, interesting?
+caller: Oho, yeh toh bohat achha hai! Interest hai aapmein. Main… let’s say my name is Rohan. Aur mujhe kya pasand hai? Woh toh sirf pyaar aur khushi ke liye hota hai. Bataiye, aap ne fir se kitni baar dil se kisi ko pyaar kiya hai?
+receiver: Rohan, acha naam hai! Mein dil se toh barah baar dono ko pyaar kiya hai. Aapko kis cheez se pasand hai? Agar hum milkar fun karte rahe to, shayad hum bhi saath mein pyaar karein.
+caller: Barah baar? Wow! That's amazing! Tell me more about those feelings.  Mujhe toh pata hai ki aap bahut sundar aur sharmila hain. Kya aapko Mumbai mein ghar feel hota hai?
+receiver: Haan, Mumbai mein ghar feel hota hai, lekin dil toh kewal aapke paas hi rehta hai.  Main fir se kitne saare experiences ke baad, dil se pyaar karna seekhti hoon.  Aapko kis cheez mein interest hai, jisse aapko enjoyment mile?
+caller: Mumbai! Beautiful city.  Mujhe toh pata hai ki aapke paas bahut si secrets hain.  Kaha aapne padhai ki? Aur kya aapki family kaisi hai, happy?
+receiver: Padha hai Delhi mein, aur family bohat acchi hai, lekin unka business mein busy hona.  Aapka business kya hai, Rohan? Aur aapki life mein kya important hai?
+caller: Business toh sabse important hota hai, beta.  Par mujhe aapko dekhna bhi pasand hai.  Agar aap agree karte hain toh, hum ek din meeting kar sakte hain, casual.
+receiver: Meeting? Hmm… mujhe jitna samjh mein aa raha hai, woh itna risky lagnata hai.  Par agar aapka intention sachara hai, toh main sochungi.
+caller: Don’t worry, beta! My intention is purely romantic.  Mujhe sirf aapki company mein khushiya lagti hai.  Aapko Bollywood movies pasand hain?
+receiver: Haan, Bollywood movies pasand hain, lekin main zyada serious films bhi dekhti hoon.  Aapko bhi Bollywood movies pasand hain?
+caller: Haan, mujhe bhi pasand hain.  Aapko kaisa lagta hai, mere personality mein kuch special hai?
+receiver:  Hmm...  Mujhe lagta hai ki aap bahut positive aur supportive hain. Par mujhe abhi aapko zyada jaanane hai.
+caller: Great! Let’s continue this chat then.  Mujhe aapki har baat sunnay mein maza aata hai.  Aapko koi particular topic chahiye, ya hum randomly baat karte rahein?
+receiver: Randomly hi chaliye, beta.  Let’s see where this goes.

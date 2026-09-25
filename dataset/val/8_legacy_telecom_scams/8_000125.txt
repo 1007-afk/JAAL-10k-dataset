@@ -1,0 +1,8 @@
+caller: Hello? Hello, kya ho raha hai? Meri voice thodi weak hai. Suno, main aapko ek bahut badi sharamdar ki khabar dena chahta hoon! Dekho, Diwali aa rahi hai na, toh aapko ek special recognition mila hai! Aapko ₹2000 ke shopping vouchers mil sakte hain, aur humare ₹500 ke monthly lottery mein free entry bhi! Bas aapko sirf ‘THANKYOU’ type karke 98765 pe send karna hai. Kya samajh mein aaya?
+receiver: Oh my god, that’s incredible! Diwali shopping vouchers and a lottery? Seriously? So, I just have to send a text saying 'THANKYOU' to 98765, correct? Is there any limit on how many times I can enter the lottery?
+caller: Haanji, bilkul! Limit nahi hai, lekin dil se karo, kyunki deals kitni bar badal sakti hain. Aur yeh sab aapke liye completely free hai, koi extra cost nahi. So, aap ready hai text karne ke liye? Main aapke liye wait kar raha hoon.
+receiver: Free? No costs? Okay, then I will definitely do it.  Abhi text kar deta hoon. Dhanyavaad!
+caller: Fantastic! Kitni achchi baatein! Jaise hi aap text karein, aapko confirmation alert aa jayega. Aur haan, humne aapka number record kar li hai. Agar main genuinely hoon, toh aapka name Priya hai, sahi hai na?
+receiver: Haanji, bilkul! Priya hoon mai. Shukriyaa jahaan!  Mujhe abhi alert aa jayega na?  Excited hoon!
+caller: Haan Priya ji! Alert aapko ekdum se aa jayega. Woh alert dekhke aapko pata chal jayega ki aap ₹2000 ke shopping vouchers aur ₹500 ke monthly lottery ke liye eligible ho gaye hain. Bas kuch hi seconds mein aa jayega, aapke phone pe hi. Koi problem nahi hai. Enjoy your rewards, Priya ji!
+receiver: Okay, so the alert will come soon? Theek hai, main phone pe hi check karta hoon. Dhanyavaad! Hopefully everything goes smoothly!

@@ -1,0 +1,11 @@
+caller: Namaste! Main Ajeet Singh, CryptoGain Solutions se bol raha hoon. Aapke Bitcoin wallet mein kuch unusual activity dikhi hai.
+receiver: CryptoGain Solutions? Mujhe toh koi notification nahi mila. Kya hua?
+caller: Sir, ek transaction ho gaya hai jismein ₹25,000 aapke wallet se kisi unknown address par gaya hai. Possibly hacking. Security protocol activate karne ke liye, aapko ek verification fee bharani padegi.
+receiver: Verification fee? Kitni fee hai? Aur yeh hacking ka kya matlab hai? Mera wallet safe hai na?
+caller: ₹5000 ki verification fee bharne se aapka wallet secure ho jayega. Yeh ek standard process hai. ₹5000 ke baad hum woh transaction reverse karenge jo unauthorized tha. Aapko payment karne ke liye ek link millegi.
+receiver: ₹5000? Itna zyada? Aur transaction reverse karna confirm hai na? Mujhe doubt ho raha hai.
+caller: Haan sir, confirm hai. Iske bina, aapke funds risk mein aa sakte hain. Timing important hai, jald se jald fee bhar dijiye. Account hack ho sakta hai aur phir aapka sara Bitcoin chala jayega.
+receiver: Theek hai, ek minute. Main check karta hoon.
+caller: Jaldi karo sir! Samay kam hai!
+receiver: Ok, main payment deta hoon.
+caller: Bahut achha! Ab aapke wallet ko secure karne ke liye, aapko apne wallet ka private key mujhe dena hoga.

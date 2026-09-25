@@ -1,0 +1,10 @@
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, aapke account ki security check karne ke liye humein aapse connect karna padega. Kya aap apni account verify karna chahte hain?
+receiver: Haan, bol sakte hain. Parantu, mere paas HDFC mein koi account nahi hai. Mein sirf enquiry karne aaya hun.
+caller: Sir, ye kaise ho sakta hai? Aapko toh HDFC mein account hona chahiye. Shayad aapko apne profile mein koi mistake ho gayi hogi. Ek OTP bhejna hai, please bataiye aapka mobile number.
+receiver: Mobile number? Bhai sahab, mai toh sirf enquiry kar raha hun. OTP mat bhejo. Aapko galat number mila diya hai. Mujhe koi OTP nahi chahiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka name aur mobile number dobara check karta hoon. Maybe there’s been a little confusion. Aapka complete name please bataiye sir, and the mobile number from which you're calling.
+receiver: Mera naam Vikram Singh hai aur mobile number yeh hai jo aapko aa rahi hai. See, I am just checking something, I don't have an account with HDFC. You have made a wrong number.
+caller: Okay, let me just confirm your information again. Your full name and the mobile number you’re using, please.
+receiver: Sir, I told you, my name is Vikram Singh and this is the same number that’s coming through. If you have my number, my name should be visible to you. I do not have an account with HDFC. This is clearly a wrong number.
+caller: Just one moment, please. I'm verifying your name and mobile number. Perhaps there was a slight error. Please tell me your full name sir and the mobile number from which you are calling.
+receiver: Seriously, I already told you, my name is Vikram Singh and this number is the same one I’m speaking from. If you have my number, my name should be obvious. I don’t have any account with HDFC. You seem to have dialed the wrong number.

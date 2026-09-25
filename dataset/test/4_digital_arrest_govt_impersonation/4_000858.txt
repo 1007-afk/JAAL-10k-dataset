@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is the Indian Customs Department calling. We have intercepted a parcel addressed to you containing suspicious items linked to international money laundering activities.
+receiver: Customs? What parcel? I haven’t ordered anything recently. Which city are you calling from?
+caller: Sir, this is a sensitive matter. We're calling from Delhi. The parcel was intercepted at Indira Gandhi International Airport. Due to the nature of the suspected illegal goods, you are required to cooperate with our investigation. To clear the parcel and avoid legal action, a small processing fee of ₹15,000 is required.
+receiver: Fifteen thousand rupees? Just like that? What kind of suspicious items? Can you tell me exactly what’s in the parcel? And how do I know this isn’t a scam?
+caller: Sir, we cannot disclose the specifics of the contents for security reasons. It’s standard protocol. You can verify our authenticity by calling the official Customs helpline - 9876543210. However, time is of the essence. Failure to comply will result in further investigation and potential legal penalties. You can pay through UPI to this number.
+receiver: Wait a minute. Let me call that number you gave me myself to confirm. I’m not paying anything until I’m sure this is legitimate. I’m feeling very uneasy about this.
+caller: Sir, that number is a verification line for this specific case. Any delay could jeopardize the investigation and increase your liability. For your own safety and peace of mind, please make the payment immediately. We need to act fast and close this case.
+receiver: I’m still not convinced. I’m going to report this to the cybercrime cell. Goodbye.

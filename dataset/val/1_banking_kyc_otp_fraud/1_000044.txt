@@ -1,0 +1,10 @@
+caller: Airtel customer care se baat kar raha hoon. Aapka number internet speed ko verify karne ke liye block kiya gaya hai. Isliye aapko ek six-digit OTP pehla mila hoga. Kaise hai aap?
+receiver:  Haanji, toh mujhe ek OTP mila. Main dekhta hoon. Oh, yeh toh 876543 hai. Aapko yeh number chahiye tha, sahi naa?
+caller: Haanji, 876543 hi chahiye tha. Shukriya, beta. Aapka number verify ho gaya hai. Par humein aapke account mein kuch small transactions dekhe gaye hain. Kuchh aur deta hai kya?
+receiver:  Aise toh lag raha hai.  Kuchh transactions dekhe gaye hain? Mein dekh leta hoon.  Thanks for the information. Aapko bhi samjh me raho.
+caller:  Haanji, 876543 hi. Shukriya, beta. Aapka number verify ho gaya hai. Par humein aapke account mein kuchh small transactions dekhe gaye hain. Kuchh aur deta hai kya?
+receiver:  Aise toh lag raha hai.  Kuchh transactions dekhe gaye hain? Mein dekh leta hoon.  Thanks for the information. Aapko bhi samjh me raho.
+caller:  Haanji, 876543 hi. Shukriya, beta. Aapka number verify ho gaya hai. Par humein aapke account mein kuchh small transactions dekhe gaye hain. Kuchh aur deta hai kya?
+receiver:  Aise toh lag raha hai.  Kuchh transactions dekhe gaye hain? Mein dekh leta hoon.  Thanks for the information. Aapko bhi samjh me raho.
+caller:  Haanji, 876543 hi. Shukriya, beta. Aapka number verify ho gaya hai. Par humein aapke account mein kuchh small transactions dekhe gaye hain. Kuchh aur deta hai kya?
+receiver:  Aise toh lag raha hai.  Kuchh transactions dekhe gaye hain? Mein dekh leta hoon.  Thanks for the information. Aapko bhi samjh me raho.

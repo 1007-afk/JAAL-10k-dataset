@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev? I'm calling from LoanExpress. We’ve reviewed your application and you’re pre-approved for a loan of up to ₹2.5 lakhs! Very easy process. Just a few quick details to confirm.
+receiver: LoanExpress? I don’t remember applying for a loan. I’m a bit busy right now. Can you call me back later?
+caller: Sir, this is a limited-time offer! We’re giving out very few loans today. If you wait, you’ll miss out. Just need to verify your bank account details to release the funds. It's just ₹75 for a security check.
+receiver: Security check? That sounds strange. Why would I pay to receive a loan? And I still don't recall applying.
+caller: Sir, it’s standard procedure! To prevent fraud, we need to verify. Think of it as insurance. Just send the ₹75 UPI payment and I’ll give you the loan account details. Otherwise, I’ll have to cancel your pre-approval.
+receiver: Cancel my pre-approval? Look, I'm not comfortable with this. I'm going to report this number. Goodbye.
+caller: Wait, wait! Don't be hasty, Rajeev ji! Just the UPI ID - that’s all I need. You'll regret it. Think about the possibilities with that ₹2.5 lakhs! Just a small amount to secure your future!

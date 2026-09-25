@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? I’m calling from FedEx regarding a parcel addressed to you. There's an issue with the delivery address and a customs fee needs to be cleared.
+receiver: Oh, really? I wasn't expecting anything. What's the tracking number, please?
+caller: Ji, the tracking number is 9876543210. The problem is, the delivery attempt failed because the address was incomplete. To release the parcel and complete the delivery, we require you to pay a small customs processing fee of ₹2,800.
+receiver: Two thousand eight hundred? That seems a bit steep for a customs fee. Can you tell me what the parcel contains? And why wasn't I informed about this beforehand?
+caller: Sir, due to confidentiality reasons, we can't disclose the contents. However, the fee is standard for international shipments. To proceed, you’ll need to provide your debit card details, or an OTP we'll send to your registered mobile number. We need this urgently to avoid the parcel being returned to sender.
+receiver: Hold on. You’re asking for my card details over the phone? That sounds really suspicious. Can I speak to a supervisor, or get a reference number I can use to call FedEx directly?
+caller: Sir, our supervisors are currently assisting other customers. We’re under strict time constraints to process these deliveries. Please, just provide the OTP so we can quickly resolve this and get your parcel to you. It's very important, sir.
+receiver: I'm not giving you any OTP. I’m calling FedEx directly to verify this. Goodbye.

@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? We are calling from 'CreditBoost', regarding your recent loan application. We've pre-approved you for a ₹50,000 loan with very low interest. Just need to verify a few details.
+receiver: CreditBoost? I don’t remember applying for a loan. I was just looking at some options online.
+caller: That's perfectly alright, Madam. Often people browse and the application gets auto-filled. To release the loan, we just need a small processing fee of ₹2,500. It will be credited back to you once the loan is fully disbursed. Can you transfer it to the given UPI ID?
+receiver: ₹2,500? Before a loan is even given? That sounds really weird. Is this secure?
+caller: Madam, it’s a standard procedure. Think of it as insurance against fraud. Without it, we can't guarantee the loan's safety. We are registered and verified. Many people already did this, and they got their loans. If you don't pay now, someone else might grab this offer.
+receiver: Okay, wait a second. Can I speak to someone who can verify this? Give me a contact number.
+caller: Madam, unfortunately, our verification team is currently assisting many customers. This is a time-sensitive offer, and delays can lead to cancellation. Just send the ₹2,500, and you'll have your loan within the hour. Don’t miss this opportunity.
+receiver: I am not comfortable doing this. I'm going to report this number. Goodbye.

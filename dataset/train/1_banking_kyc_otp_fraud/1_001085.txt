@@ -1,0 +1,6 @@
+caller: Namaste! Mai Airtel se Deepak Sharma bolta hu. Aapke Airtel account mein kuch suspicious activity dikh rahi hai. KYC update karna zaroori hai, warna aapka sim card suspend ho sakta hai.
+receiver: Airtel? Yeh kya suspicious activity hai? Mai toh phone use karta hu, koi problem nahi hai.
+caller: Sir, security ke liye update karna padega. Aapko apna Aadhaar number aur OTP share karna hoga. OTP aapke registered mobile number par aayega. Thoda time lega, lekin account secure rahega.
+receiver: Aadhaar number? OTP bhi? Airtel aise phone par Aadhaar number nahi maangta. Mujhe doubt ho raha hai.
+caller: Sir, fraud cases bahut badh rahe hain. Ye ek standard procedure hai. Agar aap nahi karenge toh account block ho jayega. Aapko call bhi disconnect ho jayega. Koi aur option nahi hai. Just share the OTP, sir.
+receiver: Okay, wait a minute... I’ll check with Airtel directly. Thank you for the call. Goodbye.

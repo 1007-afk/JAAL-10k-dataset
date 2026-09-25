@@ -1,0 +1,16 @@
+caller: नमस्ते, श्री वर्मा बोल रहा हूँ? मैं ‘म्यूजिक वर्ल्ड’ से बात कर रहा हूँ। आज हम आपको एक खास ऑफर दे रहे हैं - आप मुफ्त में एक महीने के लिए सभी गाने डाउनलोड कर सकते हैं! क्या आपको यह पसंद आएगा?
+receiver: हाँ, वर्मा बोल रहा हूँ। मुफ्त में गाने डाउनलोड करने का ऑफर अच्छा है। तो मुझे बताइए कि इसके लिए क्या करना होगा?
+caller: बिल्कुल! श्री वर्मा, ये बहुत आसान है। आपको बस 'अल्फा-टाईम' लिखकर 9876543210 पर टेक्स्ट करना है। वो है ए-एल-एफ-ए-टी-आई-एम 9876543210। एक बार जब आप ऐसा करते हैं, तो आपको एक महीने की मुफ्त सदस्यता मिलेगी और आपके पास हजारों गाने होंगे। एक महीने बाद, यह सिर्फ ₹2 प्रति माह होगा। अगर आप कभी भी रोकना चाहते हैं, तो बस 'रद्द' मैसेज करें। कैसा लगता है?
+receiver: ठीक है, तो बस 'अल्फा-टाईम' 9876543210 पर टेक्स्ट करना है? और सब्सक्रिप्शन ₹2 प्रति माह से शुरू होगा? अगर मुझे पसंद नहीं आया तो रद्द मैसेज करके बंद भी हो जाएगा? ठीक है, मैं कोशिश करता हूँ। धन्यवाद जानकारी देने के लिए!
+caller: बढ़िया! श्री वर्मा, बहुत बढ़िया! मुझे खुशी है कि आप शामिल हो रहे हैं। तो, बस पुष्टि करने के लिए, आपने 'अल्फा-टाईम' 9876543210 पर टेक्स्ट किया है। बहुत बढ़िया! आपको तुरंत एक पुष्टिकरण संदेश मिलना चाहिए। और याद रखें, एक महीना मुफ्त है। हमारे शानदार गानों को ब्राउज़ करने का आनंद लें! यदि आपके कोई प्रश्न हैं, तो कृपया हमें बताएं। आपका दिन शुभ हो!
+receiver: ठीक है, धन्यवाद! आपका दिन भी शुभ हो! अलविदा!
+caller: बढ़िया बात हुई, श्री वर्मा! बस पुष्टि करने के लिए, आपने 'अल्फा-टाईम' 9876543210 पर टेक्स्ट किया है, है ना? शानदार! आपको कोई पलक झपकते ही पुष्टिकरण संदेश मिल जाना चाहिए। याद रखें, एक महीना हमारी तरफ से है, पूरी तरह से मुफ्त! आगे बढ़ें और उन सभी अद्भुत गानों को एक्सप्लोर करें। यदि कुछ भी आता है, तो बस चिल्लाओ। आपका दिन सुपर हो!
+receiver: हाँ, मैंने टेक्स्ट कर दिया है। पुष्टिकरण संदेश का इंतजार कर रहा हूँ। धन्यवाद!
+caller:
+receiver:
+caller: speaking with Mr. Patel? I'm calling from Smart Home Solutions! We're offering a limited-time discount on smart thermostats – save up to 50%! Intere
+receiver: হ্যাঁ, पटेल जी बोल रहा हूँ। स्मार्ट थर्मोस्टैट्स? 50% तक छूट? सुनाने में दिलचस्प लग रहा है। तो बताइये इसमें क्या है?
+caller: Fantastic! Mr. Patel, we’ve noticed you live in a larger home, which means you could really benefit from our energy-saving thermostat. It connects directly to your Wi-Fi and learns your heating patterns. To activate this offer, simply send a picture of your electricity bill to support@smarthomesolutions.com. That's support at smarthomesolutions dot com.
+receiver: फोटो बिल भेजने का क्या मतलब है? यह कैसे काम करेगा? मुझे तो बस गर्मी और ठंड के लिए पैसे भरने होते हैं।
+caller: Absolutely! It’s a quick process, Mr. Patel. By sending the photo, we can verify your address and ensure you receive the full 50% discount. Plus, we’ll send you a personalized setup guide. After you receive the thermostat, you’ll just need to download our app and follow the instructions. It’s incredibly easy!
+receiver: 50% की छूट? यह तो काफी अच्छी डील है। लेकिन मुझे ये बिल भेजना थोड़ा अजीब

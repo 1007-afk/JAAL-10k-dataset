@@ -1,0 +1,7 @@
+caller: Hello, is this Neha Patel? My name is Arjun, and I’m a photographer based in London. I saw your profile on Global Hearts and thought you looked absolutely stunning. If you're interested in chatting and seeing some of my work, send ‘GALLERY’ to 91234. It’s a one-time fee of ₹15 to access the premium gallery.
+receiver: Hello? Arjun? I don't think I'm Neha Patel. This must be a wrong number. I'm not using Global Hearts anymore, either.
+caller: Oh, my apologies! My apologies! The number's a little fuzzy on my end, it's a long distance call you see.  I’m doing a project showcasing beautiful faces from around the world, and your picture stood out. No worries about Global Hearts, it's just a platform.  I’d still love to share my photos with you, if you're open to it. A little glimpse of London.
+receiver: Well, I appreciate the compliment, but sending money to a stranger for photos seems rather… risky. I'm not comfortable with that. I don’t even know you.
+caller: I understand your concern, completely. It's a small fee to prevent bots and spammers, you see. But here’s a compromise. I can send you a single sample image, just to prove my authenticity. It’s a picture of the Tower Bridge at sunset, really spectacular.  Then, if you like it, you can decide about the gallery.  Send ‘SAMPLE’ to 91234, that’s only ₹5.
+receiver: Okay, fine. Send the sample. But if it’s just some random stock photo, I'm blocking you.
+caller: Wonderful! The sample should arrive shortly. I promise, it’s

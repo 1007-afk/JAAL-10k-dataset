@@ -1,0 +1,7 @@
+caller: Hello, I am calling from BharatPe support. We noticed a pending transaction of ₹1500 from your account. It appears someone tried to make a payment using your UPI ID.
+receiver: Oh really? ₹1500? I haven't made any transactions recently. What happened?
+caller: Sir, it seems like a failed collect request was initiated. To secure your account and prevent any further unauthorized activity, we need to verify a few details. Could you please share the last six digits of the bank account linked to your BharatPe ID?
+receiver: Wait a minute. BharatPe support usually sends an SMS for this kind of thing. Why are you calling and asking for my bank details directly? It sounds a little suspicious.
+caller: Sir, we're implementing a new security protocol, and direct verification calls are part of that. It’s faster and more secure than SMS.  We just want to make sure it's really you.  Quickly share those digits so we can lock your account.
+receiver: I'm still not comfortable. What if I just block this call and report it to BharatPe? I’ll check my app and contact them directly through the official channels.
+caller: Sir, blocking the call now might complicate things further and delay the security process. We don't want someone else accessing your account and making fraudulent transactions. Just give me those numbers and I'll confirm your account is safe.

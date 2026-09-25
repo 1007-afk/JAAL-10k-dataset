@@ -1,0 +1,7 @@
+caller: Namaste! Main Rohan Sharma, Paytm Customer Care se baat kar raha huun. Aapko ek cashback offer mil rahi hai Flipkart par. Aapne kuch din pehle ek saree Flipkart se purchase ki thi, aur ab aapko ₹300 cashback milne wala hai.
+receiver: Oh, really? Mainne saree toh purchase ki thi, lekin cashback ka koi message nahi mila.
+caller: Ji, woh system mein update hone mein thoda time lagta hai. Cashback get karne ke liye, aapko ek small verification process complete karna hoga. Aapko apna Paytm OTP share karna hoga.
+receiver: OTP? Verification ke liye OTP dena zaroori hai? Thoda suspicious lag raha hai.
+caller: Arre, bilkul zaroori hai! Yeh security ke liye hai, beta. Agar OTP nahi denge, toh cashback miss ho jayega. Bas 77777 par send karna hai. Jaldi karo, offer sirf aaj valid hai.
+receiver: Okay, fine. Main send kar deta hu. But agar kuch gadbad hui toh main tumhari complaint karunga.
+caller: Ji ji, thank you! Aapka cashback abhi process ho raha hai. Abhi aapko ek confirmation message milega. Thank you for using Paytm!

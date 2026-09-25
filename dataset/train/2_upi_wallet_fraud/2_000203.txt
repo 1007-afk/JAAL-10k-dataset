@@ -1,0 +1,7 @@
+caller: Hello sir, is this Rahul Verma? We’ve noticed some unusual activity on your FreeCharge account.
+receiver: Unusual activity? What kind of activity? Everything seemed fine to me.
+caller: Yes sir, someone attempted to transfer a large sum of money out of your account. To secure your funds, we need you to verify your transaction details immediately.
+receiver: Verify? How do I do that? Should I check my app?
+caller: Yes sir. Please send a confirmation SMS with the code 'SECURE' followed by your last 4 digits of your registered mobile number to 92780. It's a one-time password for verification.
+receiver: Okay, sending now. But why SMS? Why can’t I do this in the app itself?
+caller: Sir, due to the urgency, this is the fastest way to prevent further unauthorized access. The system will automatically verify your details once the SMS is received. Please ensure you send it quickly before your account gets blocked.

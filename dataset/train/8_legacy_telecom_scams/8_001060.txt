@@ -1,0 +1,8 @@
+caller: Namaste sir, congratulations! You have won ₹5000 cashback on your last Jio recharge! You’ve been selected as one of the lucky winners! Please call 9876543210 immediately between 10 am and 6 pm to confirm your win and receive the reward. Just a small processing fee of ₹5 applies. It’s a great opportunity, don’t miss out!
+receiver: Oh really? Wow, that's fantastic news! So, I just need to call 9876543210 to get this cashback? And there’s only ₹5 processing fee? That sounds pretty good! Tell me more about how I can claim it.
+caller: Yes, absolutely! You have indeed won ₹5000 cashback! We need to verify your account to ensure smooth delivery. Please dial 7898987654 between 11 am and 5 pm. There's a nominal service charge of ₹10 for verification. Don’t delay, this offer expires soon! Are you ready to proceed?
+receiver: Expiring soon? Okay, let me check the number. It’s 7898987654, correct? And the service charge is ₹10? Alright, I will give it a try. I’m hoping to get this cashback!
+caller: Exactly! And remember that number, 7898987654. If you call quickly, you’ll secure your cashback. If you encounter any issues, please do contact me; I’m here to assist you. Now, I’ll hang up, go ahead and call! Hurry up!
+receiver: Okay, thank you very much for the assistance! I’m dialing the number right now. I really appreciate your support. Let’s see if I get through!
+caller: Absolutely! Good luck! I believe you’ll definitely get your cashback. And if anything comes up, let me know, okay? Now I’m disconnecting, call away! It will be exciting!
+receiver: Sure! I’m looking forward to receiving the cashback. Goodbye!

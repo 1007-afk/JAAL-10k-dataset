@@ -1,0 +1,9 @@
+caller: Namaste! Mai CryptoGain se bol raha hoon. Aapko cryptocurrency mein invest karne mein dilchaspi hai? Hum ek naya scheme launch kiya hai jismein sirf ek mahine mein 30% ka profit mil sakta hai.
+receiver: CryptoGain? Main toh cryptocurrency ke bare mein itna nahi jaanta. 30% profit? Itna zyada profit kaise possible hai?
+caller: Sir, humara platform artificial intelligence aur machine learning ka istemal karta hai trading ke liye. Isiliye hum itna zyada profit generate kar sakte hain. Aapko sirf ₹5000 se shuru karna hai.
+receiver: ₹5000? Aur ismein risk kya hai? Main toh bank balance mein zyada nahi hai.
+caller: Sir, risk bahut kam hai. Hum aapke invest ka poora responsibility lete hain. Aapko ek month mein ₹1500 ka profit milega, aur aapka invest safe rahega. Account create karne ke liye, mujhe aapka naam, email address, aur phone number de dijiye.
+receiver: Okay, mera naam Rajesh Sharma hai, email address rajesh.sharma@example.com aur phone number 9876543210 hai.
+caller: Thank you, Rajesh ji! Aapka account create ho gaya hai. Ab aap ₹5000 invest kar dijiye. Hum aapko payment link send kar denge.
+receiver: Wait a minute… I’m getting a weird feeling about this. Are you registered with SEBI? Can you provide me with your company registration details?
+caller: Sir, SEBI registration a time-consuming process hai, lekin hum completely legal hain. Don't worry, just invest now and see the profits! Aapka profit confirm ho gaya hai, but we need the investment to activate it.

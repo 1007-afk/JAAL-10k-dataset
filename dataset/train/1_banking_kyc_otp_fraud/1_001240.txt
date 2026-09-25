@@ -1,0 +1,10 @@
+caller: Namaste, mein Axis Bank se Priya Singh bol rahi hoon. Aapke account mein ek suspicious transaction ki report aayi hai.
+receiver: Suspicious transaction? Kaun sa? Mujhe toh kuch pata nahi hai.
+caller: Ji, ek online transaction hua hai Rs. 12,000 ka, jo hume suspicious lag raha hai. Aapko account secure karne ke liye kuch details verify karni hogi.
+receiver: Account secure karna hai? Lekin mujhe toh koi message nahi aaya.
+caller: Ji, security protocol ke wajah se SMS nahi jaata. Humko bas aapka naam aur OTP check karna hai. OTP aapke registered number par aya hoga, na?
+receiver: Haan, OTP aya hai, lekin main itna sure nahi hoon. Account block hone ka khatra hai?
+caller: Ji, agar aap verify nahi karenge toh account block ho sakta hai. Helpline number 8989898989 pe bhi call kar sakte hain, lekin wahan wait time zyada ho sakta hai. OTP please?
+receiver:  Okay, OTP hai 456789.  Par mujhe thoda doubt ho raha hai.
+caller: Shukriya, madam. Account abhi secure hai. Aapko koi aur problem nahi hoga.
+receiver: Theek hai, thank you.

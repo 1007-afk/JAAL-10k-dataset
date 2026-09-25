@@ -1,0 +1,13 @@
+caller: Hello, this is customer support from Paytm. We've detected some suspicious activity on your account and need to verify your details.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya. Main toh abhi phone use kar raha hoon.
+caller: Ji, sir, hamara system ne dikhaya ki koi logon se aapke account se ₹100 ka payment attempt kiya gaya tha. Isko cancel karne ke liye, aapko ek small verification process se guzarhna hoga.
+receiver: ₹100? Kisliye? Mainne toh koi payment nahi kiya.
+caller: Haan sir, humein bhi confusion hai. But security ke liye, please share the last four digits of your bank account number linked with Paytm. Aur OTP jo aapko SMS se aayega, woh bhi bataiye.
+receiver: Bank account number? Main woh phone pe nahi bata sakta. Ye theek nahi lag raha hai.
+caller: Sir, please understand, without this we cannot process the cancellation request and your money could be at risk. Just the last four digits, sir. Just a small step to protect your funds.
+receiver: Ok, fine.  Account number ke last four digits hain 4567.  OTP bataun toh?
+caller: Thank you sir. Now, please share the OTP you just received on your phone. This is very important, sir.
+receiver:  OTP... hmm... 987654.
+caller: Excellent, sir. Just one moment while we process this... we need you to confirm a small processing fee of ₹20 to fully cancel the transaction and secure your account. You can send ₹20 via UPI to this number: 8888888888.
+receiver: ₹20?! Processing fee? Abhi toh nahi samjha main isko.
+caller: Sir, this is

@@ -1,0 +1,8 @@
+caller: Main calling from Reliance NetConnect. Aapko internet speed mein kuch dikkat aa rahi hai, so hum check kar rahe hain. Aap mujhe apna mobile number bata sakte hain pl
+receiver: Haanji, batao kya hua? Mobile number chahiye? Wait, number mere paas hi hai. Yahan likh lo, [invented mobile number, e.g., 9876 5432 1098]. Kuch problem aa rahi hai? Kya problem hai?
+caller: Ji haan, thank you. Hmm, 9876 5432 1098. Ek second, mujhe yeh verification ke liye aapke mobile number ka OTP bhi chahiye hoga. Kya bata sakte hain aap?
+receiver: OTP? Haanji, bilkul. OTP hai 123456. Bas itna hi tha kya? Kuch aur chahiye toh bataiye.
+caller: Haanji, bilkul. OTP hai 123456. Bas itna hi tha kya? Kuch aur chahiye toh bataiye. Ji haan, thank you. Hmm, 9876 5432 1098. Ek second, mujhe yeh verification ke liye aapke mobile number ka OTP bhi chahiye hoga. Kya bata sakte hain aap?
+receiver: Yaar, yeh message jo pucha gaya tha, woh abhi tak nahi aaya. Aapne meri number duplicate upload kar di hogi. Kaise pata chala? Aap phir se apna sawal pooch sakte hain?
+caller: Arre nahi madam, woh server mein thoda technical issue aa gaya hoga. Main wohi dobara pooch raha tha. Aapki number 9876 5432 1098 thi, right? Koi problem nahi hai, hum bas check kar rahe the.
+receiver: Oh, okay! Server issue, got it. Haanji, bilkul, 9876 5432 1098 hi hai. Acha, toh sab theek hai na phir? Koi tension wali baat toh nahi hai?

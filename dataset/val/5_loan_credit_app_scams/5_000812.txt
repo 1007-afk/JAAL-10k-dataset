@@ -1,0 +1,10 @@
+caller: Namaste! Mera naam Rahul hai, QuickCash Solutions se. Aapka naam kya hai? Hamare records mein dikh raha hai aapne kal hi loan ke liye apply kiya tha.
+receiver: Haan, main Anita Sharma. Main apply toh kiya tha, par mujhe koi message aaya nahi.
+caller: Haan Anita ji, verification ke liye kuch documents ki zaroorat hai. Aur, ek security deposit ki bhi. ₹5000 sirf security ke liye. Jo ki loan dene ke baad vapas kar diya jaega.
+receiver: ₹5000? Loan kit ka tha?
+caller: ₹10000 Anita ji. Par ₹5000 security ke bina hum loan nahi de sakte. Yeh protocol hai. Abhi karo, otherwise kal tak offer expire ho jaega.
+receiver: Kal tak? Kuch proof bhi dikhao offer ka. Koi link ya email?
+caller: Link nahi bheje sakte, Anita ji. Yeh system problem hai. Trust us, we are a certified company. ₹5000 UPI se karo, aur pata karo aapko loan kab credit ho jaega. Jaldi karo! Offer abhi abhi khatam ho raha hai.
+receiver: ₹5000? Ek minute ruk jao, mujhe check karne do.
+caller: Anita ji, time barbaad mat karo! Dusre log ₹10000 ka loan le rahe hain, aur aap miss kar rahe ho! Yeh last chance hai.
+caller: Okay, Anita ji. ₹5000 send kar dijiye, aur main aapko account details check kar ke bata dunga.

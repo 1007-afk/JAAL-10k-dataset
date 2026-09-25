@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Delhi Customs Department. We need to speak with you urgently regarding a parcel registered under your name, tracking number DL-478923. It appears to contain items flagged as potentially illegal.
+receiver: Illegal items? Yeh kya bol rahe hain? Mein toh kabhi parcel nahi kiya.
+caller: Sir, our records clearly show the parcel was shipped from Mumbai and addressed to your residence. We need to verify some details to clear it for release. Failure to do so will result in the parcel being seized and legal action taken. To proceed, could you please confirm your date of birth and the last four digits of your bank account?
+receiver: Bank account number? Nahi, nahi! Ye galat hai. Mai apni bank details kisi se nahi dungee. Mein police station mein complaint karunga.
+caller: Sir, please, don't escalate the situation. We are simply following protocol.  This is a matter of national security. To demonstrate your cooperation, please send ₹15,000 as a processing fee to this UPI ID: customs.clearance@axis. This will immediately expedite the verification process and ensure your parcel is released.
+receiver: ₹15,000? Yeh toh loot hai! Mai report karunga.
+caller: Sir, this is your final opportunity to resolve this matter amicably. Without the processing fee, we are obligated to hand the case over to the cybercrime unit. We have all your details, Mr. Sharma.  This is the last chance. Payment should be made within 15 minutes or else action will be taken.
+receiver: (Silence)

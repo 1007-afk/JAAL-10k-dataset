@@ -1,0 +1,8 @@
+caller: Namaste Sir! Main Cyber Crime Investigation Department se Rahul Sharma bol raha hoon. Aapke bank account mein illegal transactions ki activity detect hui hai.
+receiver: Kya? Illegal transactions? Main toh koi transaction nahi kiya. Kya hua hai?
+caller: Sir, aapke naam par ₹12 lakh ka transaction Maldives mein kiya gaya hai. It's linked to a money laundering case. Don’t worry, we will help you clear this, but you need to cooperate.
+receiver: ₹12 lakh? Ye toh bahut bada amount hai! Mujhe kuch samjh nahi aa raha hai. Kya mujhe police station jana padega?
+caller: Police station jaane ki zaroorat nahi hai Sir. We need to verify your details urgently to block the transaction and prevent further damage. Please share your full bank account details and OTP with me over WhatsApp for immediate verification. It’s a very urgent procedure.
+receiver: WhatsApp? Sir, mujhe fear lag raha hai. OTP share karna safe hai kya?
+caller: Absolutely safe, Sir! We need to act fast. Share the OTP, and I'll give you the reference number for your case. Please do not call back the bank, as they might be involved. Just share the OTP and we'll sort this out.
+receiver: Sir, mujhe doubt ho raha hai. Main kisi aur se baat karta hoon.

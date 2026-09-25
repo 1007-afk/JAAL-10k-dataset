@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Rohan bolta hoon. Aapke naam par ek parcel aaya hai, lekin address verify hone mein thodi problem aa rahi hai.
+receiver: Oh, Flipkart ka parcel? Kya problem hai? Mujhe to koi notification nahi aaya.
+caller: Ji, system mein ek temporary error hai. Parcel delivery hone ke liye, humein aapka OTP verify karna hoga. Sirf 4 digit ka OTP, kuch pal lagega.
+receiver: OTP? Par kyun? Flipkart toh kabhi OTP nahi maangta.
+caller: Sir, security ke liye zaroori hai. Agar OTP verify nahi hua to parcel wapas Flipkart warehouse mein chala jayega. Aapko phir se order karna padega.
+receiver: Hmm... okay, theek hai. Dijiye OTP.
+caller: Bahut achha! Ab aapko ek confirmation link milega aapke phone par. Us par click karke confirm kijiye. Aur parcel kal tak aapke address par aa jayega.

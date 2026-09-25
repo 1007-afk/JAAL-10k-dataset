@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Priya se baat ho rahi hai, Paytm Payments Bank se. Aapko ₹500 ka cashback mil raha hai apne Paytm Wallet mein, sirf KYC complete karne ke liye.
+receiver: Paytm se? KYC? Mujhe toh koi message mila nahi.
+caller: Haanji, message gaya hoga. KYC complete karne ke liye, aapko ek verification link send karenge WhatsApp pe. Aap us link pe click karke apna naam, address aur ek OTP dalna hoga.
+receiver: OTP? Kyun OTP dalna padega? Ye safe hai na?
+caller: Haanji, bilkul safe hai. OTP se aapki identity verify hogi. Jab aap KYC complete kar lenge, ₹500 cashback automatically aapke wallet mein add ho jayega. Bas WhatsApp pe link pe click karein aur details fill karein.
+receiver: Theek hai, bhijwao link. Main dekh leta hoon.
+caller: Excellent! Link bhijwaa rahi hoon WhatsApp pe. Jab form fill kar rahe ho toh dekhein ki website Paytm Payments Bank ki hi dikh rahi hai, ya nahi.
+receiver: Okay, got the link. Wait, this looks a bit fishy. It's asking for my bank account details too, not just Paytm info.
+caller: Sir, KYC process mein bank account details bhi lagte hain, account verification ke liye. Aapko ₹500 cashback milna hai na?

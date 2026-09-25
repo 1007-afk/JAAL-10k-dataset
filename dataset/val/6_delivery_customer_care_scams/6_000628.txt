@@ -1,0 +1,9 @@
+caller: Namaste, Madam! Main Bharat Post se bol raha hoon. Aapka naam Neha Sharma hai, correct?
+receiver: Haan, woh main hoon. Bharat Post? Kya hua?
+caller: Dekhiye, aapne recently Flipkart se ek saree order kiya tha, correct? Woh saree delivery ke liye tayyar hai, lekin payment mein thodi dikkat aa rahi hai. Aapko sirf ₹799 ka security deposit dena padega, tabhi delivery boy aapke ghar aayega.
+receiver: ₹799? Flipkart toh COD (Cash on Delivery) karta hai. Mujhe koi security deposit dene ki zarurat nahi hai.
+caller: Haan, lekin is saree mein kuch special security features hain. Government ke order se, har expensive saree ke liye ye deposit mandatory hai. Aur woh sirf 5 minute ke liye hi valid rahega. Jaldi karo, Neha Ji!
+receiver: Yeh bahut hi suspicious lag raha hai. Main Flipkart se direct contact karti hoon.
+caller: Arre, mat suniye! Main aapko confirm karta hoon, Neha Ji. Rs. 799 deposit karke aapke ghar delivery boy aajayega, saree leke! Yeh offer sirf aapke liye hai. Fast!
+receiver: Fine. Theek hai, ek minute. Mujhe apne bank account se transfer karna hai.
+caller: Haan! Bas apna account number aur OTP bataiye. Aapka future zyada khushiyaan layega Neha Ji!

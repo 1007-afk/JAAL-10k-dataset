@@ -1,0 +1,8 @@
+caller: Namaste, main calling se Harish Kumar hoon, India Post se. Aapke parcel delivery ke update ke liye calling kar raha hoon. Aap mujhe apna tracking ID bata sakte hain?
+receiver: Haan ji, batao ye kya hai? Parcel tracking ID chahiye? Dekhiye, maine abhi parcel bheja hai, fir kaise update milega?
+caller: Ji haan, thank you. Tracking ID hai 9876543210.  Ek second, mujhe yeh verify karne ke liye aapka delivery address bhi chahiye hoga. Kya bata sakte hain aap?
+receiver: Delivery address? Haanji, bilkul. Address hai Mumbai ka, Girgaon, Shivaji Nagar, house number 302. Bas itna hi tha kya? Kuch aur chahiye toh bataiye.
+caller: Haanji, bilkul. Address hai Mumbai ka, Girgaon, Shiviji Nagar, house number 302. Bas itna hi tha kya? Kuch aur chahiye toh bataiye. Ji haan, thank you. Tracking ID hai 9876543210. Ek second, mujhe yeh verify karne ke liye aapka delivery address bhi chahiye hoga. Kya bata sakte hain aap?
+receiver: Yaar, mai ne jo parcel bheja hai uske regarding details online mil jaate hain. Aapne already tracking ID check kiya hoga. Yeh copy paste karna bahut irritating hai. Aap phir se apna sawal pooch sakte hain?
+caller: Arre nahi madam, woh system mein thoda technical issue aa gaya hoga. Main wohi dobara pooch raha tha. Aapki address 302, Shiviji Nagar, Mumbai hai, right? Koi problem nahi hai, hum bas confirm kar rahe the.
+receiver: Oh, okay! Technical issue, got it. Haanji, bilkul, address 302, Shiviji Nagar, Mumbai hi hai. Acha, toh sab theek hai na phir? Koi tension wala matter toh nahi hai?

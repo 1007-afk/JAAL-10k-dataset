@@ -1,0 +1,9 @@
+caller: Namaste! Is this speaking with Mrs. Verma, residing at Flat 7, Lotus Apartments, Gurugram? We're calling from the Directorate of Revenue Intelligence, DRI.
+receiver: Haan, mai hi Mrs. Verma hoon. Kya hua?
+caller: Madam, we’ve detected some unusual activity linked to your bank account. It appears a significant amount of funds – approximately ₹1.2 crore – has been flagged for potential money laundering.
+receiver: ₹1.2 crore? Yeh kya keh rahe hain aap? Main toh kabhi bhi money laundering nahi karti!
+caller: Madam, it's a serious matter. To clear this up and prevent your account from being frozen, you need to cooperate fully. We need you to verify some transaction details and remit a small processing fee of ₹7,500 to secure the release of funds.
+receiver: ₹7,500? Aur kaise transaction? Main toh bilkul samajh nahi pa rahi hoon. Main bank mein call karta hoon.
+caller: Madam, please don't do that. This is a sensitive investigation, and bank staff are not authorized to discuss this. The fee needs to be paid immediately to a designated account - 1234567890, SBI, Branch code 789012.
+receiver: Theek hai, theek hai. Account number bataiye phir se. Aur receipt mujhe milegi?
+caller: Yes, madam. The account number is 1234567890, SBI, Branch code 789012. Once the payment is confirmed, we'll send you a receipt via SMS. This will ensure swift resolution of the matter. Please proceed quickly to avoid any further complications.

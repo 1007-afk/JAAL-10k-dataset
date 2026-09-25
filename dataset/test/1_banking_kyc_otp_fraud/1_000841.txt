@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Riya calling from HDFC Bank. We have noticed some suspicious activity on your account and for security reasons, we need to quickly verify your details.
+receiver: Oh, okay. What kind of suspicious activity?
+caller: Sir, a login attempt was made from a foreign IP address. To prevent any unauthorized transactions, we need to confirm your PAN card details. Could you please share it?
+receiver: My PAN card? That seems a bit risky, doesn't it?
+caller: Sir, it's just a standard security measure. If you don't share it, we will have to temporarily freeze your account to protect your funds.
+receiver: Freeze my account? Alright, fine. It's ABCDE1234F.
+caller: Thank you, sir. Now, for further verification, could you please provide the OTP you just received on your registered mobile number? It's important to act fast, sir.
+receiver: Just received it. It’s 987654.
+caller: Excellent sir, thank you for your cooperation. We are now updating your account. You’ll receive a confirmation SMS shortly. As a bonus for your prompt action, we're giving you access to a special high-yield investment scheme available only to verified customers.

@@ -1,0 +1,8 @@
+caller: Namaste, main State Bank of India se Rohan Sharma bol raha hoon. Aapke naam par ek suspicious transaction ka attempt hua hai.
+receiver: Haan, bolie. Kya hua?
+caller: Sir, ek online shopping site se ₹7,500 ka transaction try kiya gaya tha. Hamara security system ne ise block kar diya hai, lekin aapko account secure karne ke liye kuch details confirm karne hain.
+receiver: ₹7,500? Mein toh online shopping nahi kar raha tha. Aur aapko kya details chahiye?
+caller: Sir, aapka OTP (One Time Password) aur KYC details – naam, address, aur janamdin – verify karne ke liye. Yeh sirf 2 minute ka kaam hai, aur aapka account safe ho jayega.
+receiver: OTP? KYC details phone pe? Yeh thoda suspicious lag raha hai. Bank aise calls karte hain?
+caller: Sir, hume maaf karna, lekin security protocol ke vajah se, hum yeh details phone pe hi verify karte hain. Agar aap nahi karenge, toh aapka account temporarily suspend kar denge. Jaldi kijiye sir, time kam hai.
+receiver: Suspend? Theek hai, wait karo. Mein apne bank ke official number se call karta hoon aur fir bolta hoon. Aap wait karein.

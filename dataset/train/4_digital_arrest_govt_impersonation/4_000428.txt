@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Verma? My name is Inspector Singh, calling from the Cybercrime Investigation Cell, Delhi. We’ve detected suspicious activity linked to your bank account – unusually large transactions going overseas.
+receiver: Haan, ji. Rajesh Verma bol raha hoon. Kya hua? My account mein?
+caller: Sir, it appears funds have been transferred to an account linked to an illegal cryptocurrency operation. This involves serious charges – money laundering. We need to verify your identity and secure your funds immediately. Please do not share this information with anyone else. Our official helpline is 9818234567.
+receiver: Money laundering? Lekin main toh itna bhi paisa nahi kamata! Aur cryptocurrency se mujhe kya pata hai?
+caller: Sir, these operations are sophisticated. They often use unwitting individuals. To resolve this, we require a small payment – ₹15,000 – as a security deposit to freeze the fraudulent accounts and prevent further losses. We need it urgently to prevent the police from taking action. You can pay it through UPI to this number – 8768768768.
+receiver: ₹15,000? Yeh thoda zyada toh lag raha hai. Aur main UPI se kisi ko bhi paisa nahi bhejta.
+caller: Sir, understand that this is to safeguard your assets and avoid legal complications. We are holding you on video call so that you do not raise alarm. Failure to comply will result in your account being frozen and a warrant being issued. We have video evidence, sir, linked to your name and bank account. Please cooperate. The UPI payment is the only way to clear this situation quickly.
+receiver: Okay, wait a minute, sir. I'm going to call my bank right now to confirm this. I'm not sure I trust this.
+caller: Sir

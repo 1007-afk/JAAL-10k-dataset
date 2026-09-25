@@ -1,0 +1,8 @@
+caller: Namaste! Main PhonePe se call kar raha hoon. Aapke account mein ₹750 cashback pending hai, Diwali offer ke under.
+receiver: ₹750 cashback? PhonePe se? Mujhe toh koi notification nahi mila.
+caller: Notification kabhi-kabhi late bhi aate hain. Yeh offer sirf 24 ghante ke liye hi hai. Cashback claim karne ke liye, aapko ek OTP verify karna hoga. Main aapko ek link send karunga, us par click karke OTP submit karein.
+receiver: Link? Kahan send karoge? Aur ₹750 ka cashback kiske liye hai? Mai toh koi offer claim nahi kiya tha.
+caller: Main aapko WhatsApp pe send karunga. Yeh offer PhonePe ne Diwali par sabhi user ke liye introduce kiya hai. ₹750 cashback claim karne ke liye, jaldi karein! Time barbaad na karein, link par click karein aur OTP verify karein.  Aapka account secure rahega, aur cashback automatically aapke wallet mein add ho jayega.
+receiver: Theek hai, WhatsApp pe send karo. Par OTP verify karne se mere account ka koi risk toh nahi hoga na? Mujhe thoda dar lag raha hai.
+caller: Bilkul nahi, sir! OTP sirf verification ke liye hai. Account safe rahega. Aapko bas link par click karna hai aur OTP submit karna hai.  Aapko ₹750 cashback milna hai, aur main aapki madad karne ke liye yahan hoon.  Aapka OTP, jald se jald send karein!
+receiver: Okay, fine. Send the link.

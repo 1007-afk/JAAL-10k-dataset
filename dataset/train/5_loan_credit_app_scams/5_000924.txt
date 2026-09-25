@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Anjali Verma, QuickCash Solutions se baat kar rahi hoon. Aapne hamari website par ₹75,000 ka personal loan apply kiya tha, isliye call kar rahi hoon. Aapka application process mein hai, bas kuch formalities baqi hain.
+receiver: Haan, mainne apply toh kiya tha. Koi formalities hain? Kya kuch documents chahiye?
+caller: Ji, aapki KYC verification ke liye kuch details chahiye. Pehle toh aapka PAN card number aur dob bataiye. Aur aapke bank account ke details bhi chahiye, taaki loan transfer kar sake.
+receiver: PAN card number to mein bata sakta hoon, lekin bank account details phone pe bataunga? Thoda risky lagta hai.
+caller: Sir, worry mat karein. Hamara system completely secure hai. Yeh verification ke liye sirf ek hi baar karenge. Otherwise, application reject ho jayega. Aapka PAN number aur bank account number bataiye, please. Aur aapke pass phone mein OTP aaya hoga, woh bhi bataiye.
+receiver: Sir, mujhe OTP koi aaya nahi hai. Aur account number phone pe batane mein mein comfortable nahi hoon. Mein bank mein jaake check kar ke baad bataunga.
+caller: Sir, dekhiye, OTP aapke registered number pe aayega. Tumhara account number bataiye, warna application reject ho jayega, aur aapko loan nahi milega. Time barbaad mat karein, sir. Aur woh image bhi hai na, jo aapne profile mein daali thi?

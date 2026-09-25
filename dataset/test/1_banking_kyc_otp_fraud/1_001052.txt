@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Kartik bol raha hoon. Aapke account mein kuch security issues aaye hain, isliye humein aapka KYC update karna hai.
+receiver: Axis Bank? KYC? Mujhe koi message toh nahi aaya tha. Kya issue hai?
+caller: Sir, ek fraudulent transaction ka attempt hua tha. Account safe rakhne ke liye, humein aapka PAN card aur OTP verify karna hoga. Jaldi karna ji, warna account suspend ho sakta hai.
+receiver: Account suspend? Oh no! Lekin OTP toh main kabhi bhi share nahi karta. Yeh sahi hai na? Tumhara naam aur employee ID batao.
+caller: Sir, time bahut kam hai. Main aapko phone mein hi bata dunga. Aapka PAN card ka last 4 digits bataiye, main verification karta hoon.
+receiver: Okay, last 4 digits hain [Invented PAN Last 4 Digits]. Aur mujhe confirm karna hai, yeh phone number Axis Bank wala hi hai na? Check kar sakta ho?
+caller: Haan ji sir, verified. Ab aapka OTP bataiye jo aapko SMS mein aaya hai. Jaldi ji, account block hone se pehle.
+receiver: Wait, I'm checking my messages. I don't see any OTP. Are you sure you have the right number?

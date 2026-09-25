@@ -1,0 +1,8 @@
+caller: madam, thanks for your Ringtone Order, Reference T91. You will be charged GBP 4 per week. You can unsubscribe at anytime by calling customer services on 09057039
+receiver: Oh, thank you for confirming! GBP 4 a week, got it. And yes, I'll make a note of that 09057039 number in case I need to unsubscribe. Thanks for the clear info!
+caller: Aur madam, bas ek choti si baat reh gayi hai. Yeh jo GBP 4 per week ka charge hai na, yeh automatically deduct hota rahega jab tak aap unsubscribe nahi karte. To agar aapko yeh subscription band karni ho to bina bhule 09057039994 par call kar lena. Samjhi na aap?
+receiver: Achha, matlab jab tak main khud band na karun, tab tak paise cutte rahenge? Got it. Aur agar band karna ho, to 09057039994 pe call karna hai. Bilkul, yaad rakhungi. Thank you for reminding me again!
+caller: Bilkul, madam! Aap bilkul sahi samjhi. Hum bas yeh sunishchit karna chahte hain ki aapko sab pata ho. Abhi aapke liye koi action lena zaroori nahi hai, unless aap unsubscribe karna chahti hain.  Kya aapko aur koi sawal hai mere liye?
+receiver: Nahi, abhi toh koi sawal nahi hai. Aapne sab kuch ache se bata diya. Bahut shukriya!
+caller: hut khushi hui madam ki aapko sab kuch clear ho gaya. Agar future mein koi bhi sawal ho, toh yeh number yaad rakhiyega, 09057039994. Have a great day!
+receiver: Okay, thank you so much! You've been very helpful. I'll definitely keep that number handy. You too, have a wonderful day!

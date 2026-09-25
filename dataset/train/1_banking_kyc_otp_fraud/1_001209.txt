@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Axis Bank Cyber Security se. Aapke naam par ek account hai, aur usmein se aaj ₹15,000 ka withdrawal kiya gaya hai. Aapko is bare mein pata hai?
+receiver: Haan, lekin mujhe koi SMS nahi aaya. Aur main toh online banking use karta hoon, toh mujhe notification milna chahiye tha.
+caller: Woh toh ho sakta hai, sir. System mein thodi der se delay ho rahi hai. Security ke vajah se, humein yeh transaction verify karna hai. Aapka Aadhaar card number bata sakte hain, sir? Bas pehli 4 digits kaafi hain.
+receiver: Aadhaar card number? Woh toh main kisi ko kabhi nahi deta. Ye theek nahi lag raha hai. Aap ek OTP send karo, main check karta hoon.
+caller: Sir, OTP send karne se pehle, humein aapki identity confirm karni hai. Woh isliye, kyuki log fraud transactions se bachane ke liye bol rahe hain. Aapka PAN card ke pehle 3 digits bata dijiye, please.
+receiver: PAN card? Main ise phone par nahi bata sakta. Aap mujhe call karein, main check karta hoon. Ya phir mujhe bank branch mein jaake verify karna hoga.
+caller: Sir, branch mein line bahut lambi hogi. Abhi aapko ₹15,000 ka nuksan ho sakta hai. Sir, Please, ek chhoti si help karke hamare trust mein baat karein. Aapka loss prevention is our top priority.

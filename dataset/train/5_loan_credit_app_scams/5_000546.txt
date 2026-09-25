@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Akash Verma, FastLoanHub se bol raha hoon. Aapne online application kiya tha personal loan ke liye, right?
+receiver: Haan, ji. Mainne apply kiya tha. Kya update hai?
+caller: Sir, aapka application approved ho gaya hai! ₹60,000 tak ka loan, zyada interest nahi, bas kuch formalities bachen hain. Aapka naam aur dob confirm kar sakte hain?
+receiver: Haan, mera naam Rajesh Kumar hai, aur dob 15/08/1988 hai.
+caller: Excellent, Rajesh ji. Ab, security ke liye aapke WhatsApp number par ek OTP aayega. Woh OTP mujhe bata dijiye. Aapse sirf ₹2500 security deposit ke liye manaenge, fir aapka loan account activate ho jayega.
+receiver: ₹2500? Lekin maine toh apply karte samay free loan ki baat suni thi!
+caller: Sir, security deposit har company lete hain. Isse aapka account secure rahega. OTP bataiye, main aapko transfer details send karta hoon. Jaldi bataiye, sir, otherwise offer expire ho jayega.
+receiver: Woh nahi, main nahi dunga.

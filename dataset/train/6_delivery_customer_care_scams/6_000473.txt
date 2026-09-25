@@ -1,0 +1,8 @@
+caller: Namaste! Mein Swiggy se Ram Kumar bolta hoon. Aapke Swiggy account mein ek transaction fail ho gaya hai. ₹1499 ka, aur woh refund nahi ho payega.
+receiver: ₹1499? Maine toh kuch order nahi kiya tha. Account mein check karta hoon.
+caller: Haan sir, system mein dikha raha hoon. Payment fail hone ke karan, aapko verification karna hoga taaki refund process start ho sake.
+receiver: Verification? Kis tarah ka verification? Mujhe koi OTP nahi aaya hai.
+caller: Sir, security ke liye, aapko ek OTP check karna hoga. Woh aapke registered mobile number par aayega. Just bata den aapko, koi problem nahi.
+receiver: Ok, wait… Haan, aaya OTP. 8… 6… 2… 5…
+caller: Shukriya sir! Ab aapka account secure hai. Payment failure ki process start ho gayi hai. Kuch minutes mein aapko refund mil jayega. Ab main aapko ek confirmation code de raha hoon, please woh bhi bataiye.
+receiver: Confirmantion code? Sunai nahi de raha.

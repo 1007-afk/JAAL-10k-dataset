@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma for the mobile number ending in 7890123456? My name is Akash, calling from Zomato customer care. We’ve noticed an unusual transaction of ₹1500 on your account, a recent order placed to an address in Mumbai that you didn't authorize.
+receiver: Haan, main Verma bolta hoon. ₹1500? Mumbai mein? Main toh kabhi Mumbai nahi gaya, aur Zomato pe order bhi nahi kiya tha. Yeh kya ho raha hai?
+caller: Ji haan sir, we understand your concern. It seems like a fraudulent order. To reverse this charge and secure your account, we need to verify your details. Can you please provide the OTP you just received on your registered mobile number? This is just a standard security procedure.
+receiver: OTP? Aur account secure karna hai? Par mujhe toh koi OTP nahi mila. Aur ₹1500 ka order? Main confused hoon. Zomato se toh main kabhi online order bhi nahi karta, cash pe karta hoon.
+caller: Sir, the OTP is crucial to cancel the order and prevent further unauthorized transactions. It’s a one-time code for verification. Perhaps check your SMS inbox again? It might have been delayed. To be absolutely sure, I can also send it again. Just confirm your current location for verification purposes.
+receiver: Location? Sir, yeh toh suspicious lag raha hai. Main ek minute rukta hoon. Aap wait karein. Main Zomato app check karta hoon, aur customer care number bhi check karta hoon.
+caller: Absolutely sir, take your time. While you're checking, could you just confirm the last four digits of your payment card used on the Zomato app? Just for quick verification. It'll expedite the process significantly.
+receiver: Sir, main abhi check karta hoon,

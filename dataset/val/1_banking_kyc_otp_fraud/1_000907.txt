@@ -1,0 +1,8 @@
+caller: Namaste, mai Anita Verma, Axis Bank se bol rahi hoon. Aapka account suspension risk mein hai, sir. Hamari system ne ek unusual transaction detect kiya hai.
+receiver: Account suspension? Kya? Transaction kaunsa? Mujhe toh koi message nahi aaya.
+caller: Ji, sir. ₹12,500 ka online transaction hua hai Gujarat se. Aapne kiya tha ya nahi? Hamari security protocol ke hisaab se, verification ke bina account block karna padega.
+receiver: ₹12,500? Nahin, maine toh kuch bhi nahi kiya! Gujarat se? Main toh Gujarat mein bhi nahi gaya hoon kabhi! Verification ke liye kya karna hai?
+caller: Sir, verification ke liye, aapko OTP send karenge aapke registered mobile number par. Woh OTP mujhe bataiye, aur apna PAN card number bhi share karein. Yeh sirf ek minute ka kaam hai, aur aapka account safe rahega.
+receiver: PAN card number? Mere PAN card number ko aapko kyun chahiye? Main kisi bhi bank account se linked PAN card number share nahi karunga. Yeh toh bilkul fraud lag raha hai!
+caller: Sir, hamari protocol hai, PAN card number se ham verify kar sakte hain ki account aapka hi hai. Isko bina verify kiye, ham aapka account suspend kar denge.
+receiver: Koi protocol nahi hai aise! Yeh sab toh lollipop hai. Main police mein complaint karunga! Main abhi Axis Bank customer care number pe call karta hoon aur verify karta hoon. Phone cut kar rahi hoon.

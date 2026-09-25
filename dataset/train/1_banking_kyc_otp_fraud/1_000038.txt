@@ -1,0 +1,20 @@
+caller: Namaste sir, Main Bharat Telecom se hu. Hum apne network ki stability check karte hue yahaan aapse contact kiya hai. Sir, aapke mobile par ek three digit security code bhejna hai, can you give me that code please?
+receiver: Namaste, ek minute ruk jao, phone mein message nahi aa raha.
+caller: Ji sir, thoda wait karein, yeh process complete hone mein bara minute bhi lagega. Agar message nahi mila toh aap apna phone recharge kar lenge, iske upar hum aapko free data de denge. Yeh offer sirf aaj ka hai!
+receiver: Oh really? Free data? Thoda interest lag rahi hai. Okay, let me check my inbox again. Message nahi aaya. Mein phone ko off-on kar deta hoon.
+caller: Ji sir, off-on karna acha rahega. Sir, aapki account number jo aapne Bharat Telecom par register ki hai, woh bataiyein. Just a small verification step, sir.
+receiver: Mera account number hai 8765432190.
+caller: Shukriya sir, aapka verification complete ho gaya hai. Sir, aapko ek aur OTP bhejna hai, please provide it.
+receiver: OTP nahi aaya. Rahul, kaise ho aap?
+caller: Sir, sorry, ek aur OTP bhejna hoga. Aapko koi problem nahi hai, just give me the OTP now. (Just a quick question, sir, what’s your mother’s maiden name?)
+receiver: Mujhe yeh yaad nahi, Rahul. Mein OTP dekh lunga, phir batata hoon.
+caller: Namaste sir, Main Jio Customer Care se baat kar raha hun. Hum aapke mobile connection ko secure karne ke liye ek small verification kar rahe hain. Aapke phone par ek six digit verification code bhejna hai, please share that code with me.
+receiver: Namaste, ek minute ruk jao, message nahi aaya.
+caller: Ji sir, thoda wait karein, yeh process complete hone mein kuch minute bhi lagega. Agar message nahi mila toh aapko ek complimentary month ke liye unlimited calling pack mil jayega. Ye offer limited time ke liye hi available hai.
+receiver: Unlimited calling? Achcha, yeh suna. Let me check my messages again. Message nahi aaya. Mein phone ko restart kar deta hoon.
+caller: Ji sir, restart karna fayda hoga. Sir, aapke Jio ID ka name bataiyein. Yeh sirf verification ke liye hai, assure karo.
+receiver: Mera Jio ID name hai PriyaSharma123.
+caller: Dhanyavaad sir, aapka verification complete ho gaya hai. Sir, aapko ek aur OTP bhejna hai, please provide it.
+receiver: OTP nahi aaya. Rahul, aap kaise hain?
+caller: Sir, sorry, ek aur OTP bhejana hoga. Aapko koi inconvenience nahi hona hai, just give me the OTP now. (Just a quick detail, sir, what is the last four digits of your bank account?)
+receiver: Mujhe yeh yaad nahi, Rahul. Mein OTP dekhunga, phir batata hoon.

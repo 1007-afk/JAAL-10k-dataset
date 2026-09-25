@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Sharma? This is Inspector Verma from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Haan, main Mr. Sharma bol raha hoon. Delhi Customs? Package? Kya baat hai?
+caller: Ji, Mr. Sharma. Preliminary scans show traces of narcotics and potentially counterfeit currency. You need to cooperate with us immediately to clear this matter. We’ve initiated a legal inquiry, and to prevent further complications and potential arrest, you’ll need to pay a small processing fee of ₹15,000 to secure the package's release.
+receiver: ₹15,000? Narcotics? Yeh toh galat baat hai! Mujhe toh koi package nahi mila. Aur customs department aise phone karta hi nahi. Aapka naam aur ID number bataiye.
+caller: Mr. Sharma, I understand your surprise, but these things happen. To verify my identity and expedite the process, I’ll send you a secure link via WhatsApp. It contains the official case file and my department credentials.  Please ensure you pay the fee within the next 30 minutes; otherwise, the package will be seized, and a warrant will be issued for your arrest. This is a serious matter.
+receiver: WhatsApp? Warrant? Yeh bahut hi shakti se bol rahe ho. Ek minute, main police station phone karta hoon aur check karta hoon.
+caller: Mr. Sharma, I strongly advise against that. Contacting the police could delay the process and potentially implicate you further. We are trying to help you avoid a lengthy legal battle.  The link is already sent – please check your WhatsApp and make the payment through the secure portal. It's very simple and will resolve this quickly.
+receiver: Arrey yaar, mujhe toh abhi se dar lag raha hai.  Yeh link check karta hoon. Par ek baat batao, main kahan

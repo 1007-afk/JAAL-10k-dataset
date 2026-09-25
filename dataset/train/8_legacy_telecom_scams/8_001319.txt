@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main TechConnect se bol raha hu. Tumhara phone ek competition mein jeet gaya hai, aur tumhare liye ₹5000 ka voucher ready hai!  Ek message aaya hai, jaab tumne check kiya tab samajh aa gaya hoga.  Tumhein sirf kuch details chahiye hongi, aur tumhari ₹5000 ki voucher tumhare phone par instantly available hogi!  Ehsaas karo, kitna achcha hai, naa?
+receiver: Oh, seriously? Main toh bahut excited hu!  Haan, maine message dekha tha.  To, main kya karna parega?
+caller:  Bas, tumhari ID number janna chahte hain, aur tumhara bank account ka IFSC code.  Yeh sirf verification ke liye hai, trust me!  Yeh tumhari voucher ko unlock karne ke liye zaruri hai.  Agar tumhle yeh details nahi diye, toh tumhari voucher wait karte rahegi.  Toh, jaldi bolo, kya ID number hai?
+receiver: Meri ID number hai 1234567890.  Aur bank account ka IFSC code XYZ1234567890 hai.
+caller:  Shandar! Shukriya Rohan.  Ab tumhari voucher ready hai.  Tumhein abhi ₹5000 deposit karne ke liye email id lagani hogi.  Email id dalo, agar tum sahi banao toh tumhari voucher immediately available hogi.
+receiver: Email id?  Mujhe email id yaad nahi.  Kya koi aur tareeka hai?
+caller: Nahin, Rohan, ye compulsory hai.  Tumhari voucher ko activate karne ke liye, tumhari email id zaroor chahiye hogi.  Agar tumhle email id nahi di, toh tumhari voucher wait karte rahegi.  Toh, jaldi bolo, email id kya hai?
+receiver:  Okay, okay!  Meri email id hai rohan.sharma@gmail.com.
+caller:  Perfect!  Tumhari voucher abhi deposit hone wali hai.  Aapko abhi SMS par confirmation milega.  Thank you Rohan, and have a great day!

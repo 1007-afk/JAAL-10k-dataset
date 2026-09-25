@@ -1,0 +1,7 @@
+caller: Namaste! My name is Rajesh from SwiftLoan Solutions. We're offering pre-approved personal loans with incredibly low interest rates – just 8% per annum. Are you interested in knowing more?
+receiver: 8%? That's quite low. What's the catch? And how did you get my number?
+caller: No catch at all! It's a special promotion for select customers. We received your details through a government initiative to help citizens access affordable credit. To process your loan, we need to verify a few details quickly. Can you share your PAN card number?
+receiver: PAN card number? Over the phone? That sounds risky. Shouldn't I be applying online, on your official website?
+caller: Our website is undergoing maintenance, sir. This is a streamlined process to ensure you get your loan approved urgently. Just the PAN card number, and we’ll also need a one-time OTP that we'll send to your registered mobile. It's for your security, of course. This is a great opportunity to get Rs. 50,000 instantly.
+receiver: I’m not comfortable sharing my PAN card number over the phone, especially when you haven't confirmed what company you’re actually representing. I'm going to check your company’s details online and then decide. Goodbye.
+caller: Sir, please don’t be hasty! This offer won't last long. Just the PAN card and OTP, and you’ll have the money in your account within an hour. Don't miss out on this amazing chance to clear your debts. I’m sending you the OTP now.

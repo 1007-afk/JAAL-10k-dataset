@@ -1,0 +1,6 @@
+caller: Namaste! I'm calling from QuickCash Solutions, sir. We provide instant personal loans. Are you facing any urgent financial needs, like medical bills or school fees?
+receiver: Hello. Actually, yes. My son's college fees are due, and I'm a bit short.
+caller: Wonderful! We can definitely help, sir. QuickCash Solutions offers a very simple process. Just need a few details. How much are you looking to borrow?
+receiver: Around ₹75,000 would be perfect. Can I know the interest rate?
+caller: Absolutely. We’re offering a special rate of 12% for new customers. To process this quickly, we just need you to complete a digital verification form, sir. A one-time charge of ₹500 for verification. It's completely secure, don't worry.
+receiver: ₹500? Upfront? Is that really necessary?

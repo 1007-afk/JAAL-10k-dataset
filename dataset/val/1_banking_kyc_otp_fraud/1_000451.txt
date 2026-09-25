@@ -1,0 +1,15 @@
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Aapko humare bank mein naya savings account kholna chahte hain? Account open karne ke liye aapka pancard aur mobile number lagana hoga.
+receiver: Oh, HDFC? Savings account? Dekh lete hain. Pancard? Mein abhi market mein hoon, thodi der me aa jaoonga. Kya koi aur call kar sakta hai?
+caller: Koi baat nahin sir, aap jab convenient ho tab bata dena. Main aapko phir se call karunga. Aapka naam kya hai? Agar aap mujhe pata kar sakta hai, to better ho.
+receiver: Haan, main Delhi mein hoon. Yeh time chal raha hai? Mein apne bete ke saath shopping karte hue hoon. Kaise hai?
+caller: Ji sir, bilkul. Mein aapko kal subah ki shuruat mein call karunga. Aapka naam Rahul hai, yeh note kar li thi. Delhi mein abhi around 8 AM hai. Thank you sir.
+receiver: Theek hai, thank you. Kal subah ki shuruat mein phone karna. Bye.
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Aapko humare bank mein naya savings account kholna chahte hain? Account open karne ke liye aapka pancard aur mobile number lagana hoga.
+receiver: Oh, HDFC? Savings account? Dekh lete hain. Pancard? Mein abhi market mein hoon, thodi der me aa jaoonga. Kya koi aur call kar sakta hai?
+receiver: Oh, ICICI? Current account? Acha, dekhte hain. Aadhaar card? Mein abhi home par hoon, kuch din baad call kar sakta hun. Koi aur person call kar sakta hai?
+caller: Koi baat nahi sir, aap jab convenient ho tab bata dena. Main aapko phir se call karunga. Aapka naam kya hai? Agar aap mujhe pata kar sakta hai, to better ho.
+receiver: Haan, main Pune mein hoon. Yeh time chal raha hai? Mein apne gharwaleon ke saath roti bana rahi hoon. Kaise hai sab?
+caller: Ji sir, bilkul. Mein aapko kal do baje ki shuruwat mein call karunga. Aapka naam Ramesh hai, yeh note kar li thi. Pune mein abhi around 6 PM hai. Thank you sir.
+receiver: Theek hai, thank you. Kal do baje ki shuruwat mein phone karna. Bye.
+caller: Namaste sir, main ICICI Bank se bol raha hoon. Aapko humare bank mein naya current account kholna chahte hain? Account open karne ke liye aapka Aadhaar card aur mobile number mil jayega.
+receiver: Oh, ICICI? Current account? Dekh lete hain. Aadhaar card? Mein abhi office mein hoon, fir aayenge. Kya koi aur call kar sakta hai?

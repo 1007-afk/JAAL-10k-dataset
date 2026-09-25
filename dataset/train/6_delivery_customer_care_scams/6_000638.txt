@@ -1,0 +1,8 @@
+caller: Namaste! Is this Anjali Patel speaking? I’m calling from Zomato Customer Support. We’ve noticed some unusual activity on your account.
+receiver: Haan, ji. Bolo, kya hua? Unusual activity matlab kya?
+caller: Seems like someone attempted to place a large order using your account, but the payment failed. To prevent fraudulent charges and secure your account, we need to verify your identity. Can you please confirm the last four digits of the card linked to your Zomato account?
+receiver: Wait a minute. I haven’t placed any order. And I don’t usually give out my card details over the phone. Is there another way to verify?
+caller: Absolutely, Madam. For immediate verification, we require a one-time password (OTP) sent to your registered mobile number. This is standard security procedure. The OTP will be a six-digit code.
+receiver: Okay, fine. Let me check my messages... (pause) ...Okay, I’ve received an OTP. It’s 487291.
+caller: Thank you, Anjali ji. Now, to complete the security check and unlock your account, we need you to confirm a small refundable security deposit of ₹500. This will be refunded immediately after verification. You can use any UPI method, like Google Pay or PhonePe.
+receiver: ₹500? A refundable deposit? That sounds suspicious. I'm not comfortable with this. I’ll call Zomato directly to confirm.

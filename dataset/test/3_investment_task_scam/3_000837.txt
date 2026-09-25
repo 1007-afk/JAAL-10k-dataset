@@ -1,0 +1,9 @@
+caller: Namaste! Is this Ms. Verma? I'm calling from Global Fortune Investments.
+receiver: Haan, main hi hoon. Bolie, kya baat hai?
+caller: Ji, Ms. Verma, we've identified you as a high-potential investor. We're currently offering exclusive access to a new cryptocurrency, StellarCoin, which is projected to give 300% returns within the next month. It's a very limited opportunity!
+receiver: 300% returns? It sounds too good to be true, honestly. What’s the catch? And who are you really? Can you give me some details about Global Fortune Investments?
+caller: There's no catch, Ms. Verma! This is a genuine opportunity to multiply your savings. Global Fortune Investments is registered with the Ministry of Corporate Affairs – I can send you the registration number if you’d like. To get started, you'll need to deposit a small amount, say ₹15,000, to activate your StellarCoin wallet. This secures your place in this exclusive round.
+receiver: ₹15,000 just to activate a wallet? That’s a lot. And what happens after I deposit the money? Do I get access to a dashboard to track my investment?
+caller: Yes, absolutely! Once your deposit is confirmed, you'll receive immediate access to a secure dashboard where you can monitor your StellarCoin holdings and track your returns in real-time. We will also assign you a personal investment manager. To facilitate the deposit, can you please send the money to this UPI ID: investglobal@hdfcbank?
+receiver: A UPI ID? I’m not comfortable sending money to a UPI ID I don’t recognize, especially for something like this. Can I pay through a bank transfer or something more secure? I need to think about this.
+caller: Ms

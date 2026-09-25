@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Verma? This is Priya from PhonePe Security. We’re calling about a concerning activity on your account.
+receiver: Haan, bolie. PhonePe? Kya hua?
+caller: Sir, we've detected a series of small transactions – ₹50, ₹100, ₹150 – all going to the same UPI ID. Our system suspects this might be a phishing attempt. To secure your account, we need you to verify a small charge of ₹20 for a security check.
+receiver: ₹20? Security check? Kaise verify karna hai? Mujhe toh kuch samajh mein nahi aa raha.
+caller: Yes sir, just send ‘VERIFY’ to number 9876543210. It’s a one-time verification fee. Once done, we’ll immediately block any suspicious activity and ensure your funds are safe. This is a standard protocol, sir.
+receiver: Number toh Indian hai, lekin ₹20 message bhejne ke liye? Aur kya suspicious activity hai, bataiye? Mujhe doubt ho raha hai.
+caller: Sir, please don’t worry. We’re just taking precautionary measures. The UPI ID receiving those small payments is linked to a known scammer.  Just send ‘VERIFY’ now, and we’ll handle everything.  Delaying this could expose your entire balance.
+receiver: Nahin, main ₹20 nahi bhejoonga. Mujhe PhonePe customer care number pata hai, main wahaan call karta hoon. Aapko band kar do.
+caller: Sir, this is the direct line from our security team. Please cooperate. We cannot risk your funds.

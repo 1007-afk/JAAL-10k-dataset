@@ -1,0 +1,22 @@
+caller: Namaste! Congratulations, you’ve won a free upgrade to First Class on Indigo Airlines for your upcoming Delhi to Mumbai flight next week! Plus, we’re giving you a complimentary Bose noise-canceling headphones as a bonus! You just need to call 8800337766 to confirm your prize. Only three seats are available, so act fast!
+receiver: Oh my god! Seriously? First Class on Indigo and free headphones? That's unbelievable! Okay, so I call 8800337766, correct? And only three seats remaining?
+caller: Absolutely! And listen, Mr. Sharma, another passenger has already booked one of those upgraded seats. Now there are just two left! Don’t delay, call immediately, 8800337766. This is a fantastic opportunity!
+receiver: Mr. Sharma here.  Arre yaar, only two left?  This is getting intense, isn't it?  Okay, okay, I’ll dial that number now.  Thank you for informing me, please!
+caller: Wonderful! One seat remains!  Arey, you're doing great, keep going! Call 8800337766, and one of our agents will finalize everything for you.  Don't let this slip away!
+receiver:  Arey! Seriously? Only one seat left?  Okay, okay, I am dialing the number right now. Thank you so much for all this, really!  Goodbye!
+caller: Great! The last seat is yours!  Arey, congratulations, you’ve secured your upgrade! Just confirm with the agent when you get through.  Enjoy your flight!
+receiver:  Arey yaar, thank you so much!  I’m so excited about this!  Bye bye!
+receiver: Really? A Samsung Galaxy S23? Tell me more! What kind of questions are we talking about?
+caller: Excellent! We just need some basic information to verify your eligibility. Could you tell us your address – street name, city, and postal code, please?
+receiver: My address is Main Street, Jaipur, 302005. Is that alright?
+caller: Perfect! Now, could you please state your favourite colour? It's important for our research purposes.
+receiver: Hmm, my favorite color is blue. Why does that matter?
+caller: Blue is a very popular choice! Almost everyone loves blue. Now, for a final question - can you confirm you've never participated in a similar survey before?
+receiver: No, I haven't. I’ve never done anything like this before.
+caller: Fantastic! Congratulations, you've been selected as a winner! Your Samsung Galaxy S23 will be shipped to your address within 7-10 business days. Please stay on the line while we process your reward.
+receiver: Wait, seriously? I won? That’s amazing! But… how will I actually get the phone?
+caller: Don't worry, we’ll send you an email with instructions on how to claim your prize. Just need to verify your email address first... Can you provide it?
+receiver: Sure, it’s rajesh.kumar@email.com.
+caller: Thank you! Just one moment while we update your account... Okay, your Samsung Galaxy S23 is confirmed! Enjoy your new phone! Goodbye!
+receiver: Arre yaar, finally! Thank you so much! I was starting to think this was a waste of time. Bye!
+caller: You’re welcome! Have a wonderful day!

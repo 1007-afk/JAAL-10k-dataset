@@ -1,0 +1,7 @@
+caller: Namaste Aunty, mai Google Pay se Rahul Sharma bolta hu. Aapke Google Pay account mein 50,000 ka cashback offer hai, sarkar ne special offer di hai.
+receiver: Google Pay se? 50,000? Mujhe toh koi notification nahin aaya. Yeh offer sabke liye hai?
+caller: Haan Aunty, special logon ke liye. Lekin isko claim karne ke liye, aapko bas apna Google Pay wallet mein 2,500 rupees processing fee jama karne honge.
+receiver: 2,500 rupees? Processing fee? Kaise jama karu? Mujhe yeh thoda doubtful lag raha hai.
+caller: Aunty, bilkul safe hai. Mai aapko ek UPI ID de dunga, us par 2,500 jama kar dijiye. Jab processing complete ho jayegi, toh aapke account mein 50,000 cashback deposit ho jayega. UPI ID hai - 8888888888@axisbank.
+receiver: 8888888888@axisbank? Ek minute, mai check karti hoon. Meri Google Pay app mein toh koi offer dikh nahi raha hai.
+caller: Aunty, jaldi kariye, yeh offer sirf aaj ke liye hai. Agar aap abhi jama nahin karayenge toh offer expire ho jayegi aur aapko cashback nahin milega.

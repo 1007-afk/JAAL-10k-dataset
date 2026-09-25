@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? I’m calling from BlueLine Logistics, regarding a package delivery for you from Zestify. We've encountered a slight issue with the delivery address.
+receiver: Haan, main Verma bolta hoon. Zestify se package? Kya problem hai?
+caller: Sir, it appears there's a discrepancy between the address on the order and the one we have on file. To ensure smooth delivery, we need to quickly verify your delivery OTP which has been sent to your registered mobile number.
+receiver: OTP? Delivery ke liye OTP? Yeh thoda funny lag raha hai. BlueLine Logistics ki website pe check kar sakta hoon kya?
+caller: Sir, due to high delivery volume, our website is currently experiencing technical difficulties. It’s a temporary issue. For security reasons, we must verify the OTP immediately. It’s a one-time code, so don't delay. Just read it out to me.
+receiver: Okay, wait a sec… the OTP is 478291. Now what?
+caller: Thank you, sir! That confirms your address. Now, sir, to complete the verification, we need to pay the delivery charge of ₹250 for some security clearance. It will be refunded automatically once delivery is confirmed. Please use UPI - BlueLineLogistics@axis.
+receiver: ₹250 delivery charge? Zestify se toh free delivery ho rahi thi! Yeh kuch gadbad lag rahi hai. Main police mein report karunga. Bye!

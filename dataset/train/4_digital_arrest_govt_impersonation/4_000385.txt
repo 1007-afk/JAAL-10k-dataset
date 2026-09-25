@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Rajesh Kumar calling from the Directorate of Revenue Intelligence, DRI. We've detected some suspicious activity linked to your Amazon account and a recent international parcel delivery.
+receiver: Yeh kya keh rahe hain aap? Mera Amazon account? Parcel delivery? Mainne toh kuch order nahi kiya tha.
+caller: Ji, our records indicate a significant transaction and a package addressed to you is currently being held at customs in Delhi. It contains items flagged as potentially related to illegal online gambling activities. We need to verify your involvement to prevent further legal complications.
+receiver: Illegal gambling? Main toh kabhi bhi gambling nahi karta. Yeh toh galat hai. Aapko kaise pata ki package mere liye hai?
+caller: Sir, we have the tracking number. It’s linked to your Amazon account, which shows the delivery address. We are required to conduct a thorough investigation. To clear this, we need a small processing fee of ₹15,000 to facilitate the release of the parcel and close the case. You can pay using UPI to this number: 9876543210.
+receiver: ₹15,000? Yeh kitna zyada hai! Aur why should I pay? Agar package illegal hai, toh aapko usko hi barbaad karna chahiye. Main toh police mein complaint karunga.
+caller: Sir, you’re misunderstanding. This fee isn't a penalty. It's a standard processing charge for expedited clearance and to ensure the parcel is handled securely. If you don’t pay immediately, the case will be escalated to a higher authority and you may face serious consequences. We can't risk further delays due to protocol.
+receiver: Sir, yeh scam lag raha hai. Main UPI number nahi dunga. I'm ending this call right now. You are a fraud.

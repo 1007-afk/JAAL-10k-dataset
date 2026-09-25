@@ -1,0 +1,16 @@
+caller: Namaste sir, Main Bharat Telecom Se Hua Hai. Hum Apni Service Ko Update Kar Rahe Hain, Isliye Aapke Mobile Par Ek Six Digit Code Aa Gaya Hai. Plz Bolo Ki Code Bataoge Kaise?
+receiver: Oh,haan sir. Just a moment please. Yaar, aaya hai. Code hai 7391. Kya bol rahe the?Haan, 7391.
+caller: Achha sir, thanks for verifying. Ab, Process Complete Hone Ke Liye Mujhe Kuch Details Seekne Lage Hain. Kya Aap Mujhe Aapke Credit Card Ke Last Four Digits Bata Sakte Ho Jo Bharat Telecom Se Linked Hai?
+receiver: Credit card ke last four digits? Hmm, ek second please. Check kar leta huon. Hold karo please.
+caller: Haan sir, jaldi kijiye. Yeh update process bahut important hai. Aur zyada time nahi le sakte hum. Agar aap nahi bata sakte to humara process ruk jayega. Please, 4 digits bata dijiye credit card jo Bharat Telecom se linked hai. Itna zaroori hai sir.
+receiver: Uhm, sorry sir. Mera credit card number abhi yaad nahi aa raha hai. Kya yeh seriously required hai? Koi aur tareeka hai update karne ka?
+caller: Arre sir, yeh toh sangat zaroori hai. Aapka mobile number telecom system mein update karne ke liye credit card details chahiye. Bina uske hum update pura nahi kar sakte. Kya aapko yaad nahi hai kaunsa credit card aapne link kiya hai? Thoda effort kijiye sir. Dekhiye, humara time bhi waste ho raha hai aur aapka bhi.
+receiver: Sir, maine bataya na, mujhe sach mein yaad nahi aa raha hai. Kaunsa credit card link hai, ye toh maine kab se link kiya tha, mujhe dhyan nahi hai. Kya koi aur option nahi hai? Number pe message check kar sakte hain ya kuch aur?
+caller: Namaste sir, Main Reliance Jio Se Hua Hai. Hum Apne Network Ko Improve Karenge Wali Services Add Karenge, Isliye Aapke Phone Par Ek Five Digit Code Aa Gaya Hai. Bolde Ki Woh Code Kya Hai?
+receiver: Oh, ok sir. Just a sec please. Aaya hai. Code hai 9876. Kya bol rahe the? Haan, 9876.
+caller: Thanks sir, verified ho gaya. Ab, System Ko Update Karne Ke Liye Mujhe Kuch Information Lena Padega. Kya Aap Mujhe Aapke Debit Card Ke Last Four Digits Bata Sakte Ho Jo Reliance Jio Se Link Kiya Hai?
+receiver: Debit card ke last four digits? Hmm, wait karte raho. Checking... Hold karo please.
+caller: Haan sir, jaldi kijiye. Ye network upgrade bahut important hai. Aur zyada time nahi le sakte hum. Agar aap nahi bata sakte to humara process ruk jayega. Please, 4 digits bata dijiye debit card jo Reliance Jio se linked hai. Itna zaroori hai sir.
+receiver: Uhm, sorry sir. Mera debit card number abhi yaad nahi aa raha hai. Kya yeh genuinely needed hai? Koi aur way hai update karne ki?
+caller: Arre sir, yeh toh sangat necessary hai. Aapka mobile number telecom system mein update karne ke liye debit card details chahiye. Bina uske hum update pura nahi kar sakte. Kya aapko yaad nahi hai kaunsa debit card aapne link kiya hai? Thoda effort kijiye sir. Dekhiye, humara time bhi waste ho raha hai aur aapka bhi.
+receiver: Sir, maine bataya na, mujhe sach mein yaad nahi aa raha hai. Kaunsa debit card link hai, ye toh maine kab se link kiya tha, mujhe dhyan nahi hai. Kya koi aur option nahi hai? Number pe message check kar sakte hain ya kuch aur?

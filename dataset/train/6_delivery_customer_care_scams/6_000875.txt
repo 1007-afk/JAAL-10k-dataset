@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma speaking? We are calling from Blueridge Logistics regarding a parcel for you.
+receiver: Haan, main hi Sharma hoon. Parcel? Kya baat hai?
+caller: Ji, Mr. Sharma. We've encountered a slight issue with your delivery – a security hold. To release it, we need to verify your identity and payment details. Could you please provide the OTP we just sent to your registered mobile number?
+receiver: OTP? Kahan se OTP aaya? Mainko koi message nahi aaya.
+caller: Sir, sometimes there's a slight delay. Let me quickly check. Ah, yes, it appears there’s a technical glitch. To bypass this, we require a one-time payment of ₹500 as a security clearance fee. It will be refunded once the parcel is released.
+receiver: ₹500? Security clearance fee? Yeh toh scam lag raha hai. Mainko kuch pata nahi hai is bare mein.
+caller: Sir, please understand, this is standard procedure. Without this clearance, your parcel, containing a very valuable item, will be returned to the sender. Do you want to lose your parcel, sir? We only have a few minutes to resolve this before the parcel is rerouted.

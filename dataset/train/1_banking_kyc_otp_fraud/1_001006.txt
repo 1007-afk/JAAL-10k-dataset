@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Priya calling from Axis Bank’s KYC compliance team. We’ve noticed some unusual activity on your account and need to verify your details immediately to prevent fraud.
+receiver: Haan, bolie. What unusual activity? Everything seems fine on my end.
+caller: Sir, it appears someone attempted to transfer ₹75,000 to an unknown account from your savings account yesterday evening. We’ve temporarily restricted the account to safeguard your funds. For full verification and to unlock your account, we need a few details.
+receiver: ₹75,000? Are you sure? I didn’t make any such transfer. This is concerning. What do you need?
+caller: Sir, we require a one-time password sent to your registered mobile number, and a copy of your Aadhaar card for quick validation. This is standard procedure to confirm your identity and lift the restriction. Just send those over and we’ll sort it right away.
+receiver: Aadhaar card? But that seems risky to send over the phone. Can’t you verify through some other means? I am not comfortable sharing that.
+caller: Sir, with all due respect, time is of the essence. The account remains blocked until we confirm your identity. Many fraudsters try to exploit these situations. It's for your own safety, really. Give me the OTP now, and then we'll discuss the Aadhaar.

@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, speaking with SpeedyCash Solutions. We’ve pre-approved you for a quick loan of up to ₹75,000! Just a few details and the money will be in your account. Your name please?
+receiver: Hello? SpeedyCash? Okay, my name is Anjali Verma. A loan, really? That’s good news. What's the catch?
+caller: No catch at all, Anjali ji! It's a fantastic opportunity. To verify your identity, could you send us a photo of your Aadhar card and PAN card? It's just standard procedure.
+receiver: Wait, send my Aadhar and PAN? That seems risky. Why can't you verify with the government database directly?
+caller: Anjali ji, it's for security purposes, to prevent fraud. We also need a recent selfie with the documents so we can confirm it's you. This helps avoid identity theft. Don’t worry, it’s completely secure. Think of it – ₹75,000 in your hand today!
+receiver: Hmmm… okay, I'll send the selfie and Aadhar but I’m still a bit nervous about this. What about the interest rate?
+caller: Absolutely, Anjali ji! Send the photos quickly. Once we verify, we'll share the loan agreement. The interest is nominal, just 8% per month, a great deal for quick cash. Don't miss out!

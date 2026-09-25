@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma? I’m calling from the Cyber Crime Investigation Cell. We’ve detected suspicious activity linked to your bank account and a potential involvement in an illegal online betting ring.
+receiver: Kya? Illegal betting? Maine toh kabhi betting nahi ki! Account mein kya activity hui? Bataiye.
+caller: Sir, our system flagged several large transactions originating from your account to offshore gambling websites. It appears your account has been compromised and used unknowingly. We need to verify your identity and freeze the account to prevent further losses. We've got a warrant against you.
+receiver: Warrant? Aur main betting karta hoon? Yeh toh galat hai! Main bank mein phone karta hoon, yeh confirm karta hoon. Aapko kaise pata ki main Sharma hoon?
+caller: Sir, do not call the bank! They are in on it. This is a coordinated effort. To clear your name, you need to transfer ₹50,000 to this secure account – 7894561230. This is just to prove your cooperation and we'll process your case immediately. We need the money within the next hour, or we’ll have to issue a public notice.
+receiver: ₹50,000? Sir, yeh toh bribery lag raha hai! Main police station mein report karta hoon. Aur aapko kaise pata ki yeh mera account hai?
+caller: Sir, be wise. Police will not help you. This is confidential. Transfer the amount immediately, and we’ll show you the evidence linking you to the gambling ring. Otherwise, we will proceed with the arrest warrant. Do you want to be humiliated and arrested, or cooperate? Your time is running out.

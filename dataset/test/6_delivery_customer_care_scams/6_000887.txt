@@ -1,0 +1,10 @@
+caller: Namaste! Flipkart customer care se bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Oh, really? What happened? My account is safe, right?
+caller: Sir, ek order aapne diya hai, amount ₹12,500 ka, jo aapne nahi diya hai. Security ke liye, mujhe aapka OTP chahiye hoga.
+receiver: OTP? But why? I didn't place any order. Which order is it?
+caller: Haan sir, yeh order aapke address par gaya tha, lekin delivery boy ne kaha ki aap nahi mile. Confirm karne ke liye, mujhe OTP chahiye.
+receiver: Wait a minute. Let me check my Flipkart app. I’ll call you back.
+caller: Sir, please jaldi karein. Account block ho sakta hai. OTP jaldi se share karein.
+receiver: This feels fishy. I'm not giving you anything. I'll contact Flipkart directly.
+caller: Sir, aap galat samajh rahe hain. Main Flipkart se hi hoon. Account save karne ke liye, thoda time nahi milega?
+receiver: No. Goodbye.

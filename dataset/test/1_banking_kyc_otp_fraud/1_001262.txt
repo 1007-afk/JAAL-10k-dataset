@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Ankit bol raha hoon. Sir/Madam, aapke Axis Bank account mein kuch suspicious activity detect hui hai. Security ke liye, humein aapka KYC update karna hai.
+receiver: KYC update? Maine toh abhi koi transaction nahi kiya. Kuch detail puchna chahte ho?
+caller: Haan ji, bas kuch basic details. Aapka Aadhaar card number aur PAN card number bata dijiye, please. Aur ek OTP aapke phone par aayega, woh bhi bata dijiye verification ke liye.
+receiver: Aadhaar number aur PAN card phone pe?! Yeh theek nahin lag raha hai. Bank aise details phone pe nahi poochta.
+caller: Sir/Madam, security protocol ka hissa hai yeh. Account suspend hone se bachne ke liye, zaroori hai. Account mein 50,000 rupees ka pending transaction hai, verification bina kare, woh hold kar diya jayega.
+receiver: 50,000 ka transaction?! Aur OTP bhi?! Nahin, bhai. Main koi detail nahi dene wala. Yeh scam lag raha hai. Main bank se direct contact karta hoon.
+caller: Sir/Madam, please samjhe. Time bahut kam hai. Account block ho jayega.  Aapko sirf ek OTP hi dena hai.

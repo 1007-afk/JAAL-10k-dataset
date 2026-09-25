@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul Verma? We're calling from Bluedart Courier regarding a package addressed to you. It seems there's an issue with the delivery address and a small outstanding charge.
+receiver: Haan, ye Rahul Verma bolta hoon. What's the problem?
+caller: Sir, the address we have on file is slightly incorrect, and there's a 350 rupees processing fee due to the rerouting. To complete the delivery and update the address, we need a one-time OTP sent to your registered mobile number.
+receiver: 350 rupees? That’s a bit strange. I wasn’t expecting any charges. What’s the AWB number?
+caller: Absolutely, sir. The AWB number is BD1234567890. Just confirm the OTP we’ve sent, and we’ll get this sorted right away. The package is quite valuable, sir - electronics.
+receiver: Okay, I’ve received an OTP. It’s 869210.
+caller: Thank you, sir! Just one more quick verification. Could you please confirm the last four digits of your credit card to ensure this is your device? This is standard procedure for security.

@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Ankit calling from PhonePe support. We’ve noticed a small issue with your account, specifically regarding cashback eligibility for a recent transaction.
+receiver: PhonePe? Haan, yeh Mrs. Verma bol rahi hoon. Cashback mein kya hua? Mein toh ek transaction kiya tha Amazon pe.
+caller: Yes, ma'am. The transaction went through, but there seems to be a slight discrepancy. To ensure you receive the full cashback amount of ₹75, we need to quickly verify a few details. It's a standard security protocol.
+receiver: ₹75? Aur mujhe verification ke liye kya karna hai? Mein toh PhonePe app hi use karti hoon. Koi OTP ya kuch bhejna hai kya?
+caller: Not an OTP, ma'am.  It's quite simple. Just open your PhonePe app and go to the ‘Offers’ section. You’ll see a new banner asking you to ‘Claim Cashback’. Click on that banner and enter the verification code - VP75 - to confirm your eligibility.
+receiver: Verification code? VP75? Mein yeh code PhonePe mein kahaan dekhoon? Aur yeh banner dikhega bhi toh, woh genuine hai ya nahi, kaise pata chalaun?
+caller: It appears on the Offers page, ma'am, right at the top. It’s very clear, with the PhonePe logo. If you don't do this within the next 10 minutes, the cashback will be forfeited, and we can't guarantee you’ll get it back. It's just a quick step to protect your account.

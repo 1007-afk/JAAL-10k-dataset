@@ -1,0 +1,8 @@
+caller: Namaste! Main Amazon customer care se Rohan bol raha hoon. Aapke account mein ek suspicious activity detect hua hai, sir.
+receiver: Suspicious activity? Kya hua?
+caller: Sir, ek order kiya gaya hai ₹7,500 ka, jo aapne nahi diya. Payment fail ho gaya hai lekin security reasons se order process ho raha hai. Aapko isko cancel karne ke liye OTP verify karna hoga.
+receiver: OTP? Amazon kabhi OTP phone pe maangta hai?
+caller: Haan sir, yeh security protocol hai. Aapka account safe rakhne ke liye. Mein aapko OTP SMS kar dunga.
+receiver: Theek hai, bhijwao.
+caller: Sir, ₹500 ka verification fee laguga, isko bank ke QR code se pay karo aur OTP check karwao.
+receiver: ₹500? Verification fee? Nahi, yeh toh galat hai. Main Amazon customer care se baat karta hoon.

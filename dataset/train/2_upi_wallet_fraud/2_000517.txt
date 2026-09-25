@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul Sharma? We’ve detected some unusual activity on your Freecharge wallet. Seems like someone attempted to transfer a large sum – around Rs. 12,000 – from your account. Just want to quickly verify your identity to secure your funds.
+receiver: Oh really? Rs. 12,000? That's a lot! What happened? I haven’t done anything unusual.
+caller: Yes sir, a transaction was flagged. To prevent any further unauthorized access, we need to confirm a few details. Could you please share the last four digits of your Freecharge registered mobile number? Just to be sure.
+receiver: Okay, sure. It’s 7890. Is this really Freecharge customer care? I’m a bit worried.
+caller: Absolutely, sir! We are calling from Freecharge security. Now, to whitelist your account, we need a one-time verification code. We’ll send it to your registered mobile number. Just share it with us so we can complete the process. Don't worry, it's a standard security measure.
+receiver: A verification code? Wait a minute... shouldn't I be calling Freecharge myself to confirm this? This feels a little strange. I’ll just check their official number online.
+caller: Sir, time is of the essence! The fraudulent transaction is still pending. If you don't verify now, the money will be lost permanently.  Please, just provide the code quickly to secure your funds. We can’t wait any longer.

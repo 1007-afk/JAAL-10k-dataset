@@ -1,0 +1,8 @@
+caller: Hello, good afternoon! This is Raj from BlueDart Logistics. We’re calling regarding a parcel addressed to you. There seems to be a slight issue with the payment confirmation linked to it.
+receiver: Oh really? What kind of issue? Can you give me the tracking number?
+caller: Certainly! The tracking number is BD4589231KL. The issue is, there's been a failed payment attempt for the delivery charges. It's a standard procedure, we just need to verify a small amount to release the parcel.
+receiver: A failed payment? I don't remember any payment being due. What amount are you talking about?
+caller: Just ₹399, sir/madam. It's a security measure to prevent fraud. I can send you a link to make the payment via UPI, it’s super quick. We'll clear the issue immediately.
+receiver: Hold on a second. Can you please tell me the name of the sender and what's in the package? I'm a little suspicious.
+caller: The sender is listed as "Global Emporium," and it appears to be a high-value electronics item. A new smartphone, I believe. Very popular model. We absolutely need this payment to release it from our hub. Otherwise, it will be returned. Just that one last ₹399, please.
+receiver: I think I’ll just contact BlueDart directly to confirm this. I don’t feel comfortable doing this over the phone. Goodbye.

@@ -1,0 +1,9 @@
+caller: Namaste, main ICICI bank se Aman Sharma bol raha hoon. Kya main Shri Rajesh Kumar se baat kar sakta hoon?
+receiver: Haan, boliyee. Main Rajesh Kumar hi hoon.
+caller: Shri Kumar, aapke ICICI bank account mein ek suspicious login attempt detect hua hai. Security ke liye, humein aapki KYC update karni hogi.
+receiver: KYC update? Kaise karenge? Main toh abhi ghar par hi hoon.
+caller: Sir, yeh ek urgent matter hai. Agar aapki KYC update nahi karenge, toh account suspend bhi ho sakta hai. Aapko OTP aaya hoga, woh mujhe bataiye taaki verification complete ho sake.
+receiver: OTP? Haan, mujhe ek OTP aaya hai, 123456. Par main thoda dar raha hoon…
+caller: Bilkul sahi OTP hai sir. Ab aapka account secure hai. Sir, ek aur formality bachi hai. Aapke PAN card ke last 4 digits mujhe bataiye, verification ke liye.
+receiver: PAN card? Par...
+caller: Sir, please, time bahut kam hai. Account suspend hone se pehle, jaldi se bataiye.

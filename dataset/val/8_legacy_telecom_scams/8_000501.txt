@@ -1,0 +1,8 @@
+caller: e reached our prize claim line. Congratulations, you've been selected to win either a fantastic 4-star holiday in the beautiful Costa del Sol or a cool £5000 cash prize! To find out which prize you've won and how to claim it, please stay on the line. The cost is just £1.50 per minute, with a maximum call duration of 10 minutes. Ready to claim your winn
+receiver: Hello? Haan ji, sun raha hoon. Kya keh rahe hain aap? Prize claim line se bol rahe hain? Wow, ye toh badi interesting baat hai. Costa del Sol ki holiday ya phir 5000 pounds cash? Suna nahi tha maine kabhi aisa kuch. Aur ye sab jaan ne ke liye 1.50 pounds per minute lag rahe hain? Aur 10 minute tak chal sakta hai call? Theek hai, theek hai, I'm ready to claim my win. Bataiye kya karna hai.
+caller: Excellent! So glad you're ready to claim your prize. Now, to confirm your eligibility for this incredible offer, I just need to ask you a few quick questions.  Firstly, can you please confirm your full name for me?
+receiver: Haan ji, mera naam hai Priya Sharma. Aur bataiye kya poochhna hai?
+caller: Thank you, Priya. And to ensure we get this prize to the right person, can you please confirm your date of birth?  This is just a security measure, you understand.
+receiver: Ji haan, meri date of birth hai 15th August, 1990. Koi aur poochhna hai?
+caller: Thank you for that, Priya.  Now, just to finalize your claim and to confirm the delivery of your prize, can you please provide me with your current residential address, including the postcode?  This is just so we can make sure we send all the important details and any winning vouchers to the correct place.
+receiver: Address? Ah, theek hai. Mera address hai 12, Sunshine Apartments, Green Fields Road. Postcode hai SW1A 0AA. Aur kuch hai?

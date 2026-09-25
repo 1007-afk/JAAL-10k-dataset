@@ -1,0 +1,9 @@
+caller: Namaste, madam. Main Rahul Verma, QuickCash Solutions se baat kar raha hoon. Aapne hamari website par personal loan ke liye apply kiya tha, hai na?
+receiver: Haan, ji. Maine apply kiya tha. Kya hua?
+caller: Ji madam, aapki application approved ho gayi hai. ₹75,000 tak ka loan, bas KYC complete karna hai. Aapke bank account ka last four digits aur OTP mujhe bataiyein.
+receiver: KYC? Aur OTP? Maine toh kabhi aisa kuch sunna nahi suna.
+caller: Madam, ye security process hai. OTP ke bina hum transfer nahi kar sakte. Aur ₹75,000, aapki har problem solve ho jayegi! Jaldi kijiye, offer limited time ke liye hai.
+receiver: Wait, mujhe thoda time dijiye. Main check kar ke bataati hoon.
+caller: Madam, time waste na karein! Agli baar aapko deny bhi kar sakte hain. Aagey, aapke contacts mein se koi bhi call kar sakta hai aur aapki sharmindaagi ho sakti hai. ₹75,000 ke liye itna tension lene ki zaroorat nahi hai. OTP de dijiye, main aapko confirm kar dunga.
+receiver: Haan, theek hai. [provides OTP].
+caller: Excellent! Madam, transfer ho gaya hai. ₹75,000 aapke account mein credit ho gaya hai. Ab aap enjoy kijiye. Agar koi problem aaye toh contact karein.

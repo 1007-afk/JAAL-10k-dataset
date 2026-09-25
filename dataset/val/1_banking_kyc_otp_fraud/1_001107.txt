@@ -1,0 +1,7 @@
+caller: Namaste Madam, ye ICICI Bank se Rohit bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, ek online transaction hua hai ₹7,800 ka, jo aapne nahi kiya hai.
+receiver: ₹7,800? Kaise? Mujhe toh koi notification aaya nahin.
+caller: Haan, Madam. Security ke lie, humein aapka account verify karna hai. Please apna Aadhaar card number aur ek OTP bataiye jo aapko SMS se milega. Isse hum confirm kar lenge ki account aapka hi hai.
+receiver: Aadhaar number? Main phone pe Aadhaar number share nahi karta. ICICI Bank toh aise nahi puchti.
+caller: Madam, yeh urgent hai. Agar aap OTP nahi denge toh humko account freeze karna padega, aur phir aapka access bhi chala jayega. ₹7,800 to recover bhi nahi ho payega, Madam. Just ek baar cooperate kijiye.
+receiver: Wait a minute. Koi wait karo. Main ICICI Bank ke official number se call karta hoon check karta hoon. Tumhara number kya hai?
+caller: Madam, aap trust kar sakte hain. Hamare pass aapka data secure hai. Abhi OTP bataiye, otherwise account block ho jayega. Time is running out, Madam.

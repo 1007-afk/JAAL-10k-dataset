@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay se baat kar raha hoon, PhonePe se. Aapko ek achcha cashback offer mila hai – ₹500 cashback on your next mobile recharge, sirf ₹50 processing fee bharne par!
+receiver: ₹500 cashback? Really? PhonePe ne aise offers send kiye?
+caller: Haanji! Limited time offer hai. Aapko sirf ₹50 UPI ke through bharne hai, phir cashback automatically aapke PhonePe wallet mein add ho jayega.
+receiver: Okay, but which UPI ID should I use?
+caller: Aapko ek UPI ID dena padega, jisse ₹50 transfer ho sake. Ek minute, main generate karta hoon... Use this ID: 9876543210@yono.axisbank.co.in. Jaldi karo, offer expire ho rahi hai!
+receiver: Wait a second... I think I’ve heard this before. Is this really from PhonePe? I’m going to check on the official PhonePe app.
+caller: Don't waste time! Yeh offer sirf abhi ke liye hai! Quick, send ₹50 now, otherwise you will miss the offer.

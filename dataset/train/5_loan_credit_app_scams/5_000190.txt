@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mera naam Sanjay hai, FastCash Loans se baat kar raha hoon. Aapne hamari app se personal loan ke liye apply kiya tha, right?
+receiver: Haan, ji. Maine apply toh kiya tha, par abhi tak kuch confirmation nahi mili.
+caller: Ji, sir, aapka application approved ho gaya hai! Aapko ₹75,000 tak ka loan mil sakta hai, sirf aadhaar card aur bank account details dene se.
+receiver: ₹75,000? Aur yeh process kitni simple hai? Koi hidden charges toh nahi honge?
+caller: Bilkul nahi, sir. Koi hidden charges nahi. Abhi aapko apne aadhaar card ka last four digits aur bank account number share kijiye, verification ke liye. Aur ek small processing fee ₹2,500 UPI se deposit karna padega.
+receiver: ₹2,500? Processing fee? Mein toh app par nahi dekha.
+caller: Sir, security reasons se, humko yeh fee check karni padti hai. Jaldi se kar lijiye, warna offer expire ho jayegi. Aur agar aap reject karenge, humko aapki contacts list send karni padegi, taaki unko bhi pata chale aap loan default kar rahe hain.
+receiver: Contacts list? Yeh toh fraud hai!

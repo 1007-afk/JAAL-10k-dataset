@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Bharat Cash Scheme se. Aapko ₹10,000 ka cashback jeeta hai! Diwali ke tyohar par lucky draw mein aapka naam chuka hai.
+receiver: ₹10,000? Woh bhi cashback? Main toh kabhi Bharat Cash Scheme ke bare mein sunna tak nahi.
+caller: Haan ji, yah ek naya scheme hai sarkar dwara launch kiya gaya hai. Cashback receive karne ke liye, aapko sirf ₹500 processing fee bhar deni hai. Paytm ke through aapko bhar dena hai.
+receiver: ₹500 fee? Processing fee toh normally free hoti hai, na? Aur yeh Bharat Cash Scheme hai ki nahi? Mujhe confirm karo.
+caller: Confirm karta hoon! Yeh scheme ka part hai, sir. Fee sirf OTP verification ke liye hai, aur account activate karne ke liye. Fast karo, offer sirf 30 minute ke liye valid hai. Bharat Cash ke website par check kar sakte hain - BharatCash.info.
+receiver: BharatCash.info? Mene toh kabhi sunna nahi. Chalo, dekhte hai. Par mujhe kuch shaq ho raha hai. ₹500 Paytm mein send karunga, phir dekhenge.
+caller: Bahut achha! Jaldi karo, sir. Time barbaad mat karo. Yeh offer phir nahi milega. Apni Paytm ID aur OTP send karo, sir.

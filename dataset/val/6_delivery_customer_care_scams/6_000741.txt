@@ -1,0 +1,8 @@
+caller: Namaste, mai Flipkart se Rohit bolta hoon. Aapke Flipkart account mein ek suspicious activity detect hui hai.
+receiver: Oh, kya hua? Kuch problem hai?
+caller: Ji, aapne recently ek order kiya tha, lekin payment fail ho gaya. System ne automatic block kar diya hai. Aapko payment complete karna hai warna order cancel ho jayega.
+receiver: Arrey yaar, mujhe to pata bhi nahi tha! Payment kaise karun?
+caller: Aapko ek OTP milna chahiye, woh mujhe bataiye. Mein check karunga payment process karne ke liye.
+receiver: Thik hai, OTP hai 123456.
+caller: Dhanyavaad! Ab mujhe aapke bank account se ₹2999 deduction karne ke liye permission chahiye. Confirm karein?
+receiver: ₹2999? Main to aisa kuch order nahi kiya tha!

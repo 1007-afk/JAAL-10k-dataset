@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Singh, calling from the Delhi Customs Department.
+receiver: Haan, main Verma hi hoon. Kya baat hai?
+caller: Sir, we’ve intercepted a parcel registered to your address containing suspicious items. Preliminary investigation suggests it’s linked to illegal currency exchange.
+receiver: Illegal currency? Yeh kya keh rahe hain aap? Mujhe toh koi parcel nahi mila.
+caller: Sir, we need to verify your involvement to prevent further legal complications. We require a small fee of ₹8,000 for expedited investigation and clearance.  You’ll need to deposit it into this account: 1234567890.
+receiver: ₹8,000? Aur yeh account number bhi? Yeh toh suspicious lag raha hai. Main police station ka number check karta hoon.
+caller: Sir, delaying this will only worsen your situation. We’re also conducting a video verification to confirm your identity and ensure there's no foul play. Please join this link immediately: secureverify.net.  Don’t try to disconnect the call, sir.
+receiver: Secureverify.net? Sirf ek minute. Main check karta hoon.
+caller: Sir, that link is crucial for your safety. Don’t share it with anyone. Now, can you please verify your PAN card details and last transaction history?
+receiver:  Wait a minute! I'm calling the actual Delhi Customs number to confirm. This all feels very wrong.

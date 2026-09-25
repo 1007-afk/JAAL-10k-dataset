@@ -1,0 +1,10 @@
+caller: Hello, mai hu Akash, PayU customer care se. Aapke naam par ek transaction hua hai ₹7,800 ka, jo aapne nahi kiya hai.
+receiver: ₹7,800? Nahin, maine koi transaction nahi kiya. Kya batayenge?
+caller: Sir, ek scam alert aaya hai. Aapko yahan se ek OTP aayega, woh OTP mujhe bataiye taaki mai aapke account ko secure kar sakoon.
+receiver: OTP? Customer care wale toh OTP nahi maangte, sir. Woh toh fraudster karte hain.
+caller: Sir, ye emergency hai. Phir se bata raha hu, OTP bataiye, warna aapka account block ho jayega aur ₹7,800 chor hai woh le jayega.
+receiver: Okay, theek hai. ₹7,800 bahut paise hain. Mujhe woh number do jahan OTP aayega.
+caller: Sir, woh aapke register number par aayega. Jaldi karein, time barbaad ho raha hai.
+receiver: Sir, wait, ek second. Mai PayU app check karti hu.
+caller: Sir, aapko jaldi karna chahiye. Mere paas bahut se calls hain. Sirf OTP bataiye aur aap safe ho jayenge.
+receiver: Sir, aapka phone number check kar sakta hu mai?

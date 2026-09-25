@@ -1,0 +1,7 @@
+caller: Namaste, Madam. I’m calling from QuickLoanPlus.com. We offer instant personal loans with quick approval. Aapka naam bataiye, please?
+receiver: Hello. My name is Anjali Verma. I am a teacher, and I need a loan for my daughter’s medical expenses.
+caller: Very good, Anjali ji. QuickLoanPlus provides loans specifically for urgent situations like this. We can offer you ₹2 lakhs easily. No credit checks are needed. Just a small processing fee of ₹2,500 upfront, which will be credited back to your account after loan approval.
+receiver: Two thousand five hundred rupees? Upfront? That sounds a little… high.
+caller: Anjali ji, this fee ensures your application's priority and secures your loan. Without it, we cannot proceed. Once your loan is approved, you pay it back in easy monthly installments. Just send the amount to this UPI ID: payquickloan@axis.
+receiver: Okay, I’ll check with my husband first. Send me the loan agreement on WhatsApp, please.
+caller: Absolutely, Anjali ji. But for faster processing, it's best to transfer the fee now. Also, to confirm your identity, could you please share a recent photo of yourself? It's a standard verification procedure.

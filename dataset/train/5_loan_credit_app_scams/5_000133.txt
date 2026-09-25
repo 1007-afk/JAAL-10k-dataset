@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main LoanKing se baat kar raha hoon. Aapko ₹2 lakh ka personal loan instant approve ho sakta hai, sirf aadhaar card aur bank details se.
+receiver: LoanKing? Main kabhi suna nahi. Interest rate kitni hogi? Aur mujhe yeh kyun approve ho jayega?
+caller: Sir, humara interest rate industry mein sabse kam hai, sirf 8% per annum. Aur aapka credit score koi matter nahi karta. Hum sabko help karte hain.
+receiver: 8% toh kam hi hai. Lekin mujhe shaq hai. Koi hidden charges toh honge na?
+caller: Bilkul nahi, sir. Koi bhi hidden charges nahi hain. Apne bank account number aur OTP share karein, main aapka account activate kar dunga. Process simple hai.
+receiver: OTP? Main yeh confirm karna chahta hoon. Aap se baat karne ke baad mujhe kuch uncomfortable feel ho raha hai.
+caller: Sir, time waste mat karein! Yeh offer sirf limited time ke liye hai. Agar aap abhi apply nahi karte, toh yeh offer expire ho jayegi. Please OTP do, warna maaf karna!
+receiver: Wait, wait… mujhe sochna hai.
+caller: Sir, agar aapko paisa nahi mila, toh meri responsibility nahi hogi. Apni marzi!

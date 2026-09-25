@@ -1,0 +1,7 @@
+caller: Namaste uncle, main PhonePe se Rohit bolta hoon. Aapke PhonePe wallet mein cashback offer aaya hai!
+receiver: Cashback offer? Kaise? Mujhe toh koi notification nahi aaya.
+caller: Haan uncle, ye special offer hai, sirf kuch select customers ke liye. Cashback claim karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Verification process? Kya karna padega? Mujhe fraud se dar lagta hai.
+caller: Bilkul safe hai uncle. Bas aapko ek OTP send karunga, woh OTP verify kar lijiye, aur cashback aapke wallet mein add ho jayega. 
+receiver: OTP? Aur main aapko apna OTP de doon? Mujhe doubt ho raha hai. PhonePe toh aise nahi karta.
+caller: Uncle, time limit hai, 5 minute mein verify nahi kiya toh offer expire ho jayega. Jaldi kijiye!

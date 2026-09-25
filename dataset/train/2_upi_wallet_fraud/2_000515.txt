@@ -1,0 +1,8 @@
+caller: Namaste! Sir, mera naam Ravi hai, BharatPay se. Aapke BharatPay account mein cashback offer aa gaya hai.
+receiver: Cashback offer? Kitna cashback hai?
+caller: Sir, aap Paytm se ₹500 ka payment karte ho, toh aapko ₹1000 ka cashback milega. Bahut achcha offer hai, sirf 24 ghante ke liye!
+receiver: ₹1000 ka cashback? It’s too good to be true, isn't it? Mujhe verification karwana padega?
+caller: Haan sir, verification ki zaroorat hai. Bas ek link open karo aur apna PAN card number aur OTP share karo. Bilkul secure hai.
+receiver: PAN card number? No way! I don't share my PAN card over the phone. Yeh kuch ghalat lag raha hai.
+caller: Sir, jaldi karo! Offer abhi khatam hone wala hai. Agar aap abhi verification nahi karoge toh aapka account suspend ho sakta hai aur aap cashback se miss ho jaoge.
+receiver: Account suspend? Nahin, nahin, mujhe nahin chahiye. I'm ending this call.

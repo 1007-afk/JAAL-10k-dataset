@@ -1,0 +1,8 @@
+caller: Hello, is this Rajeev Sharma? We have a problem with your recent Swiggy order. It seems there's an outstanding payment of ₹785 due to a failed transaction.
+receiver: Swiggy? I don't remember any recent order. I usually order from Zomato. Can you tell me the order number?
+caller: Yes, sir. The order number is SWG458923. Due to the failed transaction, the delivery is currently on hold. To release it and complete the payment, we need you to verify your bank OTP.
+receiver: OTP? Why can't I pay on the app itself? This sounds suspicious. I’ll check my Swiggy account.
+caller: Sir, there's a system error preventing payments through the app right now. This is a temporary issue, and we need to resolve it quickly to avoid delaying your delivery. Please, just provide the OTP for a swift resolution. We can also process it through UPI.
+receiver: UPI? Which UPI ID are you giving me? And can you confirm which bank you're representing? I'm not giving out any information until I'm absolutely sure.
+caller: Sir, the UPI ID is SwiggyPay@hdfcbank.com. We are working directly with HDFC Bank to ensure a secure transaction. Please provide the OTP, sir, so the delivery can continue. It's a limited-time offer, and the delivery guy is waiting outside.
+receiver: Wait a minute...SwiggyPay@hdfcbank.com? Swiggy uses their own UPI ID, not a generic HDFC one. This is definitely a scam. I’m reporting this number.

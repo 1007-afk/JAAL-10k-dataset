@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Kumar? I’m calling from Bluebird Courier regarding a parcel addressed to you. There seems to be a delivery discrepancy and we need to confirm some details to prevent it from being returned to sender.
+receiver: Hello? Yes, speaking. A parcel? I wasn’t expecting anything. What kind of discrepancy?
+caller: It appears the payment for the shipping charges hasn’t been fully processed. It's a fairly large package, sir, coming from a luxury goods retailer. To ensure smooth delivery, we require a small verification fee of ₹750 to clear the pending payment.
+receiver: ₹750? To deliver a parcel? That seems odd. I don’t recall any shipping charges. What’s the sender’s name? And what’s the tracking number?
+caller: The sender is Prestige Emporium, sir. And the tracking number is BB789456123. You can verify this on our website - bluebirdcourier.in. The payment can be made easily via UPI. Just share your UPI ID and we'll send you a QR code.
+receiver: Hold on a minute. Bluebird Courier? I've never heard of them. And why can’t I just pay when the parcel arrives? Why do you need the money now?
+caller: Sir, due to increased security protocols and to prevent fraudulent transactions, we’re implementing this verification process for all high-value parcels. It's a standard procedure now. This is to protect both you and the sender. To avoid any delays, could you please provide your UPI ID?
+receiver: I’m not comfortable giving out my UPI ID over the phone. It sounds suspicious. Let me check your website first. I'll call you back if I need anything.
+caller: Sir, time is of the essence. We have a

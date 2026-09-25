@@ -1,0 +1,8 @@
+caller: Namaste, main Priya Flipkart Customer Care se bol rahi hoon. Aapke Flipkart account mein ek suspicious transaction hua hai, ₹250 ka.
+receiver: Oh, really? That's strange. I didn't make any purchase for that amount.
+caller: Haan ji. Shayad aapne unknowingly koi link click kar diya tha. Security ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? But why? Flipkart usually doesn’t ask for OTP over the phone.
+caller: Ye new security protocol hai, ma’am. Account ko protect karne ke liye zaruri hai. Aapko OTP mila na mila?
+receiver: I just got an OTP. Should I tell you?
+caller: Haan, please bataiye. Aur ek minute, humein aapka bank account number bhi chahiye taaki refund process shuru kar sakein.
+receiver: Hold on! Bank account number? This sounds fishy. I’m not giving you my bank details. I’ll contact Flipkart directly.

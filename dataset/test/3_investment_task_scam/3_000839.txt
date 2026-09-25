@@ -1,0 +1,6 @@
+caller: Namaste! I'm calling from 'Global Trade Solutions'. We’re recruiting people to complete simple data entry tasks online, rating apps and websites. It’s a fantastic way to earn extra income in your free time. Are you interested?
+receiver: Data entry? Okay, sounds alright. What kind of apps are we talking about? And what's the pay like? I don’t want to waste my time.
+caller: Wonderful! We work with a variety of popular apps – games, shopping platforms, even news websites. Each task takes just a few minutes, and you earn ₹150 per task. We pay weekly via UPI.
+receiver: ₹150 per task? That's decent. But how do I get started? Do I need to download anything? And is there any upfront cost?
+caller: To get started, we need to verify your account. It's a quick process. Could you please share your Aadhaar number and the last four digits of your bank account? It’s just for security purposes, you see.
+receiver: Aadhaar and bank details? That sounds a bit risky, doesn't it? I’m not sure I’m comfortable sharing that information with you. Can I speak to a supervisor?

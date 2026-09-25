@@ -1,0 +1,7 @@
+caller: Namaste, mai Indian Customs se Atul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Bangkok se, lekin ismein kuch suspicious items mile hain.
+receiver: Kya? Mere naam par parcel? Main toh koi parcel order nahi kiya tha. Se toh kitne din pehle ka baat kar rahe hain aap?
+caller: Ji, parcel 15 din pehle aaya tha. Ismein electronic gadgets aur medicines hain jo illegal hain. Aapko ise clear karne ke liye ₹12,000 ka fine bharvana padega.
+receiver: ₹12,000? Lekin main toh kuch order nahi kiya. Aur yeh medicines kaunsi hain? Mujhe to kuch pata hi nahi. Yeh scam to lag raha hai.
+caller: Look, ma’am, time is running out. If you don’t pay the fine, we’ll have to seize the parcel and issue a warrant against you. We need to verify your bank details quickly to process the payment. Aapko kab tak ₹12,000 transfer kar sakte hain?
+receiver: Wait, wait! Let me call my husband. I am getting suspicious of this. I will check this properly, I’m not going to give you anything now.
+caller: Ma’am, this is a matter of national security. Delaying will only make things worse. Do you want a warrant issued against you? Please hurry.

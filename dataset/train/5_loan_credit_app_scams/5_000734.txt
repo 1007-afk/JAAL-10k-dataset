@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from LoanExpress. We’ve pre-approved you for a ₹75,000 loan with a very easy repayment plan. Just need a few details to process it.
+receiver: LoanExpress? I don’t remember applying for a loan. Are you sure you have the right number?
+caller: Yes, madam. Your number is registered with Aadhaar. It's a government-backed scheme to help people. Just tell me the OTP you received on your phone.
+receiver: OTP? But I haven't received any OTP. And I’m still not sure about this loan. Why wasn't I informed beforehand?
+caller: Maybe it got delayed. No problem. But the offer is for a limited time. To activate your loan and prevent it from being cancelled, we need to verify your bank account. Please share the last four digits of your account number.  If you don’t, the loan will be withdrawn.
+receiver: Wait a minute! This feels really suspicious. You're asking for an OTP and bank details? I'm calling the bank now.
+caller: Madam, please don't do that! You'll lose the opportunity. This is a one-time offer.  If you disconnect, your loan will be cancelled forever, and a legal notice will be sent to your address. Tell me those four digits now!

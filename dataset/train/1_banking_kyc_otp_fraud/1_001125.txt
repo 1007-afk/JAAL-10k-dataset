@@ -1,0 +1,8 @@
+caller: Namaste, mai Airtel se Rohan bolta hoon. Aapke Airtel Payment Bank account mein kuch suspicious activity detect hui hai. Account safe rakhne ke liye, humein kuch details verify karni hogi.
+receiver: Airtel se? Woh kya suspicious activity hai? Mujhe koi message nahi aaya.
+caller: Sir, security reasons ki vajah se hum details disclose nahi kar sakte. Lekin aapko jald se jald apna PAN card number bataana hoga, warna account suspend ho sakta hai. Yeh ek emergency procedure hai.
+receiver: PAN card number? Arey yaar, Airtel kabhi phone pe PAN card number manta hai? Yeh to scam lag raha hai. Mein koi detail nahi dunga.
+caller: Sir, aapko serious mein lena chahiye. Account suspend hone se behtar hai aapko PAN card number bata de. Hamein sirf verification karni hai. Ek OTP bhi send karenge aapke registered mobile number par.
+receiver: OTP? Okay, chalo dekhte hain. OTP bhejo. Par koi bhi aur detail mein nahi dunga. Aur agar kuch bhi galti hui toh main Airtel customer care pe complaint karunga.
+caller: Sir, OTP hai 123456. Ab apna PAN card number bataiye, please. Time waste na karein, sir. Account suspend hone se bach jaega.
+receiver: 123456? Yeh OTP toh galat hai. Aur mein abhi call kaat raha hoon. Fraudsters!

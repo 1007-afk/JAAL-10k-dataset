@@ -1,0 +1,9 @@
+caller: Hello, this is Raj from QuickCash Solutions. We’ve noticed you meet the criteria for a fast loan approval. Need some urgent funds? We can offer up to ₹75,000 with minimal paperwork. Can I have your name please?
+receiver: Yes, hello. My name is Anita Verma. I do need some money, actually. My son's school fees are due.
+caller: Fantastic, Anita ji! QuickCash Solutions is here to help. So, ₹75,000 will surely solve your problem. Just to confirm, are you employed or self-employed? And what’s your approximate monthly income?
+receiver: I’m a homemaker, but my husband works. His income is around ₹80,000 per month.
+caller: Wonderful, Anita ji. That’s perfectly acceptable. Now, to activate your loan, we require a small processing fee of ₹2,500 to verify your account details. It’s a one-time charge. You can deposit it through UPI to 9876543210.
+receiver: Two thousand five hundred? That seems a lot upfront. Is this really necessary? What if I don't get the loan after paying the fee?
+caller: Anita ji, this is standard procedure. Without verification, we can't guarantee the loan. Think of it as insurance against fraudulent applications. Once the payment clears, your loan will be processed immediately. Don’t miss this opportunity. The offer is valid only for today.
+receiver: Okay, fine. I will transfer the money. But I want a guarantee that I will receive the loan after this.
+caller: Absolutely, Anita ji. Once the payment is received and verified, your loan of ₹75,000 will be credited to your account within 2 hours. Just confirm the transaction once it’

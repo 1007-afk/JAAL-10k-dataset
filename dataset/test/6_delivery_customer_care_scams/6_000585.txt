@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, Flipkart customer care se. Aapke Flipkart account mein ek unexpected transaction detect hua hai, ₹7,800 ka.
+receiver: Haan? ₹7,800? Maine toh kuch order kiya hi nahi tha.
+caller: Ji, bilkul. System mein dikha raha hoon, ek expensive mobile phone aapke address par dispatch ke liye ready hai. Yeh galat address ho sakta hai ya kuch fraud activity. Aapko isko cancel karna hoga aur verify karna hoga.
+receiver: Verify? Kab aur kaise verify karoon? Mujhe kuch samajh nahi aa raha hai.
+caller:  Verify karne ke liye, mujhe aapka OTP (One Time Password) chahiye jo aapko SMS se milega. Yeh sirf do minute ka kaam hai, aur phir hum aapka account secure kar denge.  Aur ek confirmation ke liye, mujhe aapka bank account ka last four digits bhi chahiye.
+receiver: Bank account ka number?! Yeh thoda suspicious lag raha hai. Flipkart aise phone par nahi poochta hoga.
+caller: Madam, security ke liye hi poochenge.  Fraud ho sakta hai, aur hum aapko isse bachaana chahte hain.  ₹7,800 ka phone hai, madam. Jaldi karna chahiye, is transaction ko revert karne ke liye.

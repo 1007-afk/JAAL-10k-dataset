@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mera naam Akash hai, Bajaj Finance se. Aapke naam par ek personal loan ke liye application aaya hai, approve hone ke liye just kuch details confirm karne hai.
+receiver: Oh, loan application? Maine to koi apply nahi kiya tha.
+caller: Haan sir, lekin aapki details ek website par register ho gayi thi. Choti si processing fee lag rahi hai, sirf ₹2500, verification ke liye. Account mein transfer karte hi loan approve ho jayega.
+receiver: ₹2500?  Aur website kaunsi hai? Mujhe toh kuch yaad nahi.  Yeh thoda suspicious lag raha hai.
+caller: Sir, aap tension mat leiye. Yeh Bajaj Finance ka official process hai.  ₹2500 sirf verification fee hai, waise hi loan amount aapko ₹50,000 tak mil sakta hai. Account number aur IFSC number de dijiye, mai transfer kara doonga.
+receiver:  Dekhiye, mujhe yeh galat lag raha hai. Main police mein report karunga agar aapko koi problem hua. Main abhi baat nahi karna chahta. Bye.
+caller: Sir, aapko aage jaake regret hoga!  Yeh last chance hai ₹50,000 ka loan milne ka. Jaldi kijiye! Aapko humare account mein ₹2500 deposit karne par loan approved ho jayega.
+receiver:  Sirf paisa maang rahe ho!  Fraud hai yeh!

@@ -1,0 +1,7 @@
+caller: Namaste! This is Deepak from QuickCredit Solutions. I understand you're looking for a quick loan? We offer instant approval for anything from ₹20,000 to ₹10 lakhs. What’s your name, please?
+receiver: Ji, hello. My name is Anjali Verma. Yes, I do need a loan. My daughter’s school fees are due.
+caller: Wonderful, Anjali ji! QuickCredit Solutions is here to help. So, ₹20,000 to ₹10 lakhs… what amount are you thinking of? And just to confirm, are you a salaried employee or self-employed?
+receiver: I think ₹75,000 would be enough. I’m a teacher, salaried.
+caller: Excellent, Anjali ji. A teacher, very respectable! We can certainly help you. Now, for a formality, we just need you to complete a quick online verification form. It requires access to your phone's contacts for security purposes, is that alright?
+receiver: My contacts? Why do you need my contacts? That seems a bit strange.
+caller: Anjali ji, it’s to prevent fraud. We’re ensuring your safety and protecting your loan amount. It’s standard procedure. Just a one-time access, and then we'll process your loan immediately. Please confirm to proceed.

@@ -1,0 +1,7 @@
+caller: Hello sir, this is customer service from Paytm. We've detected unusual activity on your account and to prevent fraud, we need to verify your details.
+receiver: Kya? Fraud? What happened? I haven't done anything unusual.
+caller: Sir, there's been an attempted transaction of ₹2500 from your Paytm wallet to an unknown number. To secure your funds, we need you to send ₹500 as a 'collect' request to our verification ID: 9876543210.
+receiver: ₹500? Why do I have to send money to verify? Shouldn’t you be stopping the transaction? And why a ‘collect’ request? That sounds strange.
+caller: Sir, this is a new security protocol. Sending the collect request confirms that you are the genuine account holder. It's a small fee to ensure your money is safe. If you don’t do it immediately, we’ll have to temporarily freeze your account.
+receiver: Freeze my account? Just like that? Can I speak to a supervisor? This sounds like a scam. I’m not sending anyone any money.
+caller: Sir, there’s no time for a supervisor. The system is flagging your account. Just send the ₹500 collect request now, and we'll resolve everything instantly. It’s a quick process, sir. Just do it!

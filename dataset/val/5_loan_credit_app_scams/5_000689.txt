@@ -1,0 +1,11 @@
+caller: Namaste! Mai Rahul se bol raha hoon, FastLoan India se. Aapko instant loan chahiye tha na? ₹50,000 se ₹2 Lakh tak ka, sirf 10 minute mein!
+receiver: Haan, mujhe loan chahiye tha. Mere account mein paisa kab aayega?
+caller: Theek hai. Pehle, aapko ₹2000 processing fee bharne hogi. Yeh fees humare system mein aapke application ko verify karne ke liye hai.
+receiver: ₹2000? Loan ₹50,000 ka hai aur mujhe ₹2000 fee bharne ko bol rahe hain?
+caller: Haan sir, yahan rules aise hi hain. Without fees, hum verify nahi kar sakte. Payment karne ke liye hum aapko UPI ID de denge. Jaldi karo, time limit hai.
+receiver: Theek hai, UPI ID de dijiye.
+caller: UPI ID hai 9876543210@axisbank. Payment karne ke baad mujhe confirm karna.
+receiver: Mai payment kar deta hoon.
+caller: Bahut achha. Payment confirm ho gaya?
+receiver: Haan, kar diya.
+caller: Sir, system mein kuch problem aa raha hai. Aapko ₹5000 aur bharne honge, verification fee ke liye. Agar aap fee nahi bharenge toh aapke account se ₹2000 bhi cut ho jayega.

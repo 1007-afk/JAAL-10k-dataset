@@ -1,0 +1,10 @@
+caller: Namaste! Suniye, ek achha investment opportunity hai. Hamara naya platform, ‘CryptoRise’, aapko Bitcoin mining mein participate karne ka mauka de raha hai.
+receiver: CryptoRise? Bitcoin mining? Main toh is baare mein sunta hi nahi. Bataiye, kaise kaam karta hai ye?
+caller: Ye bahut simple hai. Aap ₹5000 invest karte hain, aur hamari automated system se aap din mein ₹2000 tak kama sakte hain. Bahut se log already kama rahe hain!
+receiver: ₹2000 din mein ₹5000 invest karne se? Yeh kitna zyada hai. Koi risk toh hoga hi, na? Aur yeh CryptoRise ki website hai kaunsi?
+caller: Bilkul sahi, risk toh hai hi investment mein, lekin CryptoRise ke saath, risk bahut kam hai. Hamari website hai CryptoRiseIndia.com. Abhi sirf 20 slots bache hain, jaldi karein!
+receiver: CryptoRiseIndia.com... Okay, dekhta hoon. Aur mujhe payment kaise karna hai? Direct bank transfer ya kuch aur?
+caller: Direct bank transfer hi karenge. Hum aapko ek UPI ID denge. ₹5000 transfer karein, aur aapka account activate ho jayega. Achi baat yeh hai ki withdrawal fees bilkul free hai.
+receiver: Free withdrawal fees? Hmm, yeh to accha hai. UPI ID bhijwao, main check karta hoon. Par fir bhi, ek baar website dekh ke aayega.
+caller: Haan ji, bilkul! UPI ID: CryptoRisePay@axis. ₹5000 transfer karne ke baad, aapka account activate ho jayega aur mining shuru ho jayega! Jaldi karein, slots finish ho rahe hain.
+receiver: Okay, UPI ID mil gaya. Main think kar ke bata

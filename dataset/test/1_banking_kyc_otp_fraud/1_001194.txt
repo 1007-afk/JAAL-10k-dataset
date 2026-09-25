@@ -1,0 +1,8 @@
+caller: Namaste Sir, main Axis Bank se Rahul Sharma bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai.
+receiver: Oh, really? Suspicious activity? What kind of activity?
+caller: Sir, ek unknown device se aapke account mein login attempt kiya gaya tha. Account secure karne ke liye, aapko kuch details verify karni hogi. KYC update hai yeh.
+receiver: Account secure? But I haven't done anything. What details do you need? And how do you know it’s me?
+caller: Sir, yeh protocol hai. Hamko OTP verify karna hoga aur bank account number bhi confirm karna hoga. Tabhi account block hone se bachega. Just 3 minutes ka kaam hai.
+receiver: OTP? Bank account number? This sounds very fishy. Why can’t I just go to the branch?
+caller: Sir, branch mein line lagenge bahut. Is time mein account bhi block ho sakta hai. Urgent matter hai. Aapko OTP share karna hoga aur bank account number confirm karna hoga – ek last check ke liye.
+receiver: No, I am not sharing any OTP or account details over the phone. I will go to my branch to verify this myself. You can call off.

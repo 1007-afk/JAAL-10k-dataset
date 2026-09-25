@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay, QuickPay Support se bol raha hoon. Aapke QuickPay wallet mein ek suspicious transaction detect hua hai, ₹250 ka.
+receiver: ₹250? Kyun, maine toh koi transaction nahi kiya.
+caller: Haan ji, ek online game app se hua transaction. Security ke liye, humko aapka wallet OTP verify karna padega, taaki transaction rollback kar sake.
+receiver: Woh toh bilkul ghalat hai. Main koi game nahi khelta. Mera OTP mat puchna.
+caller: Sir/Madam, agar aap OTP verify nahi karenge, toh humko aapke account ko temporary suspend karna padega. ₹250 aap ki loss ho jayega.
+receiver: Account suspend? ₹250 loss? Aur yeh online game transaction bhi… ek minute ruk jaao. Main apne QuickPay app check karta hoon.
+caller: Jaldi kijiye, Sir/Madam. Time barbaad ho raha hai. Fraudster kabhi bhi account access kar sakte hain. Aapka ₹250 at stake hai. Please provide the OTP.
+receiver: Thoda wait karo, main check karta hoon…

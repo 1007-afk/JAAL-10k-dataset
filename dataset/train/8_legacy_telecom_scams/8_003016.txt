@@ -1,0 +1,8 @@
+caller: Namaste sir, main Rahul hoon. Aapke mobile mein ek important message aaya hai. Kya aapne dekha? Mujhe aapko iss number par call karna hai: 9876543210. Agar aap 3 minute ke andar call nahi karte hain, toh aapki subscription expire ho jaegi. Apka naam batao, please.
+receiver: Ahaan, subscription expire? That’s not good. Main abhi kaam mein hoon. Kya main baad me call kar sakta hu? Mera naam Vikram hai. Thoda busy hoon, samajh le. Kya aapko actually naam zaroori hai?
+caller: Nahin, naam toh nahi chahiye. Lekin expiry jo hogi, woh toh zaroori hai. Agar aapko problem hai, toh mai aapko notification bhejnaa mumkin hun. Aapki phone number kya hai?
+receiver: Haan, notification bhejein. Mere phone number ka number hai 8765432109. Yeh subscription expire kaise hota hai? What exactly is happening?
+caller: Ji, aapki subscription online gaming platform par hai, aur wahan kuchh suspicious transactions dekhe gaye hain. Isliye, verification ke liye aapko iss number pe call karna padega. Agar aap 2 minute mein call nahi karte hain, toh aapka account temporary suspend ho sakta hai. It’s just a simple check, don’t worry much.
+receiver: Okay, suspicious transactions. Got it. Thanks for letting me know. I will try to call that number quickly. Hopefully, it’s not too complicated. Shukriya!
+caller: Koi baat nahin. Jaldi kar le, aur agar koi dhyan dena hai toh mujhe bataiye.
+receiver: Theek hai, aapki madad ke liye dhanyavaad. Main jald hi call karne ki koshish karunga. Agar koi aur information chahiye hota hai, toh mein batata hun.

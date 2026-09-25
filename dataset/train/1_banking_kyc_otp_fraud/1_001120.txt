@@ -1,0 +1,7 @@
+caller: Namaste, madam. Mera naam Rohan hai, Axis Bank se. Mai aapke account se related ek urgent matter pe baat karne ke liye call kar raha hoon.
+receiver: Haan, bolo. Kya hua?
+caller: Madam, aapke naam par ek online transaction ki attempt ki gayi hai, jo ki suspicious lag rahi hai. Security ke liye, humein aapke account details verify karne hain. Kya aap mujhe apna Aadhaar number ka last 4 digits bata sakti hain?
+receiver: Aadhaar number? Bank kabhi bhi phone pe Aadhaar number maangta nahi. Mujhe yeh thoda suspicious lag raha hai.
+caller: Madam, mujhe samajh mein aa rahi hai aapki chinta, lekin yeh ek mandatory verification process hai. Agar aap verify nahi karti, toh humko aapke account ko suspend karna padega safety ke liye. Ismein sirf 4 digits mang rahe hain.
+receiver: Account suspend? Dekhiye, mujhe bank branch mein jaake hi check karna hai. Main phone pe koi bhi personal details nahi dungi. Aap mujhe matter ka description toh bataiye, kya transaction hua tha?
+caller: Madam, transaction details aapko verify karne ke baad hi pata chalenge. Otherwise, humko system se account suspend karna padega. Please cooperate.

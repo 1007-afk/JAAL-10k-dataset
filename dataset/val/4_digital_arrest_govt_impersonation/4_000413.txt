@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sharma? This is Inspector Verma from the Cyber Crime Investigation Cell. We’ve detected unusual activity linked to your bank account. It appears several high-value cryptocurrency transactions have been made using your details.
+receiver: Kya? Cryptocurrency? Mujhe toh kuch bhi pata nahi. Mera account?
+caller: Yes, Mrs. Sharma. We need to verify your identity immediately to prevent further fraudulent transactions. We've also received intelligence linking your account to a smuggling operation involving illegal diamonds. This is a very serious matter. We need you to cooperate fully. Please provide your full bank account details and the last four digits of your PAN card. We need to secure your funds.
+receiver: Illegal diamonds? Yeh kya bol rahe hain aap? Main toh bas ghar par hoon, koi smuggling nahi kar rahi hoon. Account ki details main nahin dungi.
+caller: Mrs. Sharma, understand this is a mandatory procedure. Failure to cooperate will be recorded and could escalate the situation. We are currently monitoring your calls and location. To clear this up quickly, we need you to deposit ₹50,000 into the designated escrow account we will provide. This is just to ensure the security of your funds while we investigate.
+receiver: ₹50,000? Yeh toh bakwas hai! Main police station jaungi agar aapne mujhe disturb kiya.
+caller: Mrs. Sharma, please do not be alarmed. This is standard protocol. Consider it a small price to pay for clearing your name and preventing severe legal consequences. We have evidence, Mrs. Sharma. We are ready to share it with you once the deposit is confirmed. The account details are: [Invented Bank Details]. Please transfer the amount immediately.
+receiver: Main koi rupiya nahin dungi. Tum log gunde ho!

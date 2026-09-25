@@ -1,0 +1,11 @@
+caller: Namaste! Main Rajesh Sharma, Bharat Telecom se bol raha hoon. Aapke mobile bill mein ek badi mistake thi, kyuki aapko extra data recharge kiya gaya tha.  Aapko ₹2000 return karne hain, warna FIR hogi! Call 8800662233 immediately!
+receiver: Arre yaar! Kitna bakwaas hai! Mein toh kabhi bill dekhta bhi nahi.  Mujhe kya karna hai?  ₹2000?  Yeh kya bol rahe hain?
+caller: Shanti shanti, beta!  Aapko sirf ₹2000 return karne hain.  Humne aapke account mein extra data load kar diya tha.  Agar aapko FIR hogi, toh samajh lo ki aapko galti hui hai.  Call 8800662233 asap!
+receiver: Haanji, ji.  Mujhe bataiye ki main kya kar sakti hoon?  Mujhe toh koi idea bhi nahi tha.  Mein toh bank gayi hoon, aur wo keh rahe hain ki unpasen koi charge nahi hai.
+caller:  Arre, woh to bas fir hogi!  Aapko ₹2000 refund karna hoga.  Agar aapko refund nahi karna hai, toh hum police ko bulenge.  Call 8800662233, please!  Sabse jaldi!
+receiver: Okay, okay, chill.  Mein abhi call kar rahi hoon us number par.  Aur bataiye, ye refund kaise karein?  Online kyon nahi?
+caller: Online refund karna mushkil hai, beta.  Aapko cheque mil jayega, aur usmein paisa daal kar post par bhijwane huye.  Iska koi alternative nahi hai.  Call 8800662233, agar aapko FIR hogi!
+receiver:  Cheque? Post par?  Arre yaar, yeh toh bahut slow process hai.  Mein toh frustration mein aa rahi hoon.  Mujhe toh abhi paisa chahiye.
+caller:  Beta, speed matter nahi karta, security important hai.  Aapko FIR hogi agar aapko refund nahi karna hoga.  Call 8800662233, please!  Last warning!
+receiver: Okay, okay, fine.  Mein abhi call kar rahi hoon.  But bataiye, cheque kab ayega?
+caller:  Cheque ka delivery 10-15 days ka timings lag sakta hai.  Aapko patience rakhna hoga.  Call 8800662233, agar aapko FIR hogi!  Sabse akhir!

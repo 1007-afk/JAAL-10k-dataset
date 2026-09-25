@@ -1,0 +1,8 @@
+caller: Hanji hello
+receiver: Haanji, namaste. Kaun bol rahe hain?
+caller: receiver : Ji, namaste. Kaun bol rahe hain?
+receiver: Haanji, namaste. Kaun bol rahe hain? Aur ji, main sun raha hoon, bataiye kya chal raha hai.
+caller: scammer: Ji, main bol raha hoon. Aapka naam kya hai?
+receiver: Hello ji, mera naam Rohan hai. Aap kaun bol rahe hain aur kya kaam tha?
+caller: receiver : Rohan ji, main Rohan bol raha hoon. Aapka number mujhe ek friend ne diya tha. Woh keh raha tha ki aapko kuch help chahiye thi.
+receiver: Achha, Rohan naam hai aapka bhi? Interesting. Par mere friend ne to nahi kaha tha ki mujhe kisi Rohan se baat karni hai. Aur kya help chahiye thi mujhe, yeh pata hai aapko?

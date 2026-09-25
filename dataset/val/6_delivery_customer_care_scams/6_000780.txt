@@ -1,0 +1,9 @@
+caller: Namaste! This is Rahul calling from SwiftShip Courier. We’ve identified a potential issue with a parcel addressed to you. Seems like there’s an incorrect shipping fee applied.
+receiver: Oh, really? What's the problem exactly? I haven't ordered anything recently that I know of.
+caller: Yes, sir. The system flagged it as a high-value item and charged an extra ₹750. To release the parcel and get it delivered, we need to verify your bank account details briefly. Just to reverse the extra charge.
+receiver: Wait a minute, my bank details? Over the phone? That sounds a bit risky. Why can’t I just pay it online when the parcel arrives?
+caller: Sir, due to security protocols, we can't process payments on delivery. It’s quicker and safer to do it now. Just the last four digits of your card and the OTP you receive on your phone. Very quick, I promise. We have lots of parcels to sort!
+receiver: Hmm, I’m still uneasy about giving out my card details. Can you at least tell me what the parcel contains and the sender’s name?
+caller: It’s marked as confidential, sir. Company policy. But I assure you, this is a standard procedure. We need that information now to avoid further delays. Think of the parcel sitting in our warehouse, costing us extra!
+receiver: I'm not comfortable proceeding. I'll contact my bank to verify this claim. Thank you.
+caller: Sir, please understand. Time is running out. The parcel will be returned to the sender if we don’t confirm quickly. Don’t let your parcel go!

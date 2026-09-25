@@ -1,0 +1,9 @@
+caller: Namaste! This is Priya from PhonePe Customer Care. We have a fantastic offer for you today! You've been selected for a cashback promotion – a guaranteed ₹500 cashback on your next transaction.
+receiver: PhonePe? Cashback offer? Kaise? Kuch condition hai kya?
+caller: Absolutely not! It's simple. Just make a small payment of ₹50 towards a 'processing fee' to activate the cashback. It’s a one-time fee and will be credited back to your wallet immediately along with the ₹500 cashback.
+receiver: ₹50 processing fee? Mere wallet se? Yeh toh banna hi nahi chahiye. PhonePe aise offers deta hai kya?
+caller: Yes, sir! This is a limited-time offer specifically for valued customers like you. The link to make the payment is [invented short URL, e.g., bit.ly/cashoffer]. It will redirect you to a secure payment gateway. Quickly do it, sir, before the offer expires!
+receiver: Wait, wait! Link check karta hoon. Bit.ly wala link? Yeh risky lag raha hai. PhonePe app mein offer show nahi ho rahi.
+caller: Sir, bit.ly is perfectly safe. We use it for short links. Don’t miss out on ₹500! The offer is only valid for the next 10 minutes. Please confirm you’ve received the link.
+receiver: Link pe click karne se pehle mujhe doubt ho raha hai. Main police mein report karunga agar kuch ghalat hua toh.
+caller: Sir, please don't worry! We're just trying to reward loyal customers. If you don't activate the offer now, you'll miss out on a great opportunity. Think of the ₹500 cashback!

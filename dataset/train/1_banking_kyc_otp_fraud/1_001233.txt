@@ -1,0 +1,7 @@
+caller: Namaste, main Vijay Sharma, Axis Bank se bol raha hoon. Aapke naam par ek suspicious transaction ki report aayi hai, sir. 15,000 rupaye ek international website par gaya hai.
+receiver: Kya? 15,000? International website? Mujhe toh koi idea nahi hai. Main abhi se transaction check karta hoon.
+caller: Sir, jaldi karo. Account suspend karne ka risk hai agar yeh transaction fraudulent sabit hota hai. Hamein verify karna hoga ki aap genuine hai. Isliye, mujhe aapka OTP patao, taaki main account verify kar sakun. Aur aapka Aadhaar number bhi chahiye hoga, sir. Just for verification purposes.
+receiver: OTP? Aadhaar number phone pe? Yeh theek nahi lag raha hai. Bank toh aise details nahi manta, na?
+caller: Sir, security protocols ke vajah se, hamein yeh details verify karne ki zaroorat hai. Yeh standard procedure hai. Agar aap cooperate karenge toh aapka account safe rahega. Aur agar aap OTP nahi denge toh account suspend ho jayega, aur aapka paisa bhi khatre mein pad jayega. Jaldi se batao OTP!
+receiver: Dekho Vijay, main bank mein jaake check karta hoon. Aapko koi bhi OTP ya Aadhaar number nahi dene ka main. Yeh scam lag raha hai. Main police mein bhi report kar sakta hoon.
+caller: Sir, aapko samajh nahi aa raha. Account suspend hone se pehle aapko jaldi se react karna hai. Main aapki madad kar raha hoon. Aapka account khatre mein hai! Just the OTP, sir, please!

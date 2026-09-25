@@ -1,0 +1,10 @@
+caller: Namaste, main Delhi NCB se bol raha hoon. Aapka naam kya hai?
+receiver: Haan, bolie. Mera naam Rahul Sharma hai.
+caller: Rahul Sharma, suniye. Humare paas ek intelligence report hai ke aapke naam par ek parcel Gujarat se aa raha hai, jismein illegal drugs hai.
+receiver: Kya? Yeh kya keh rahe hain aap? Main toh kabhi parcel order nahi kiya. Yeh galat hai.
+caller: Rahul ji, yeh bahut serious matter hai. Hukum ne aadesh diya hai ki aapko ek senior officer ke samne present hona hoga. Aapko 50,000 rupees ka bail deposit karna hoga taaki parcel ko check kar sakein aur aapko clear ho sakein.
+receiver: 50,000? Par main toh kuch bhi kiya nahi hoon! Aapko kaise pata ki main drugs se involve hoon? Main bank transfer karta hoon?
+caller:  Aapko jaldi se karna hoga, Rahul ji.  Agar aapko problem hai, toh hum online transfer accept karenge.  Aapko ek UPI ID do, main payment ka detail de dunga.  Time bahut kam hai, aur senior officer ka pressure hai.
+receiver:  Yeh thoda shubaath lag raha hai.  Main UPI ID nahi de sakta.  Main police station jaane ko tayyar hoon, agar mujhe arrest karna hai toh arrest karein.
+caller: Rahul ji, aapko police station nahi aana hai.  Aapko sirf bail deposit karna hai.  Senior officer aapka background check kar rahe hain.  Yeh aakhiri mauka hai, otherwise legal action lena padega.
+receiver:  Yeh bohot hi suspicion hai.  Main koi transaction nahi karunga.  Main abhi police complaint karunga.

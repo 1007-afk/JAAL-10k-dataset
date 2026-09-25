@@ -1,0 +1,8 @@
+caller: Namaste! Mai Ankit Verma, Swift Logistics se bol raha hoon. Aapke Amazon se ek parcel aa raha hai, lekin delivery address mein kuch confusion hai.
+receiver: Haan, kya confusion hai? Mein Rahul Verma hoon. Mujhe kal parcel milna hai.
+caller: Rahul ji, parcel mein likha address aap ke current address se alag hai. Isi wajah se delivery ruk gayi hai. Isko clear karne ke liye, mujhe aapka OTP pata karna hoga, verification ke liye.
+receiver: OTP? Par ye kyun? Amazon toh OTP nahi manta.
+caller: Rahul ji, yeh Swift Logistics ka security protocol hai. OTP se hum confirm karenge ki parcel aapke liye hi hai. Aur parcel mein ₹5000 ka electronic gadget hai, toh security maat lena.
+receiver: ₹5000 ka gadget? Maine toh kuch order nahi kiya tha.
+caller: Par Rahul ji, aapne Amazon par recently kuch order kiya tha, shayad aapko yaad nahi. Jo bhi ho, OTP de dijiye, main address clear kar dunga aur parcel kal subah aapke darwaze par pahunch jayega. Aapka time zaya ho raha hai, jaldi OTP de dijiye.
+receiver: Theek hai, thoda wait karo. Main Amazon app check karta hoon.

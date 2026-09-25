@@ -1,0 +1,8 @@
+caller: Hello, is this Rajeev? I'm calling from Global Crypto Investments. We have a very special opportunity for you today.
+receiver: Global Crypto Investments? I don't think I've heard of them. What’s this opportunity about?
+caller: Yes, sir! We're offering a chance to invest in a new Ethereum mining pool, "NovaMine." It’s projected to give 300% returns in just 30 days. Very limited spots available.
+receiver: 300% in 30 days? That sounds a little too good to be true. What’s the minimum investment?
+caller: For this pool, the minimum is just ₹10,000. Think of it as a small investment for a massive return.  We’ll send you our secure payment link. It’s very easy.
+receiver:  ₹10,000? Okay. And how do I actually receive these returns? Do I need to provide my bank details?
+caller: Absolutely, sir! Once the mining is complete, we’ll need your bank details to transfer the profits. There’s a small withdrawal fee of 10% to cover processing charges, but the remaining 270% will be yours.
+receiver: A 10% withdrawal fee? Now you're telling me. Let me think about this. Can you send me some information about this "NovaMine" pool first, and some proof of returns from previous investors?

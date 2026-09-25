@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart Customer Support se Rohit bol raha hoon. Aapka naam kya hai?
+receiver: Haan, bolie. Mera naam Anjali Sharma hai. Kya hua?
+caller: Anjali Sharma ji, aapke account mein ek suspicious transaction detect hua hai. ₹4800 ka payment ek unknown website pe gaya hai.
+receiver: ₹4800? Kya? Main toh koi payment nahi kiya. Flipkart se meri account details leak ho gayi kya?
+caller: Haan, shayad. Lekin chinta mat kijiye. Humara technical team isse handle kar lega. Aapko sirf apna OTP share karna hoga, tab hum account secure kar sakte hain.
+receiver: OTP? Account secure karne ke liye OTP share karna padega? Mujhe toh ye zyada suspicious lag raha hai. Flipkart toh aise kabhi nahi kahega.
+caller: Anjali ji, ye emergency hai. Agar aap OTP nahi denge toh aapka account permanent block ho jayega aur ₹4800 bhi nikal jayega. Iska koi aur tareeka nahi hai. Jaldi karo!
+receiver: Thik hai, thik hai. Main OTP share karti hoon... lekin agar kuch bhi hota hai toh main tumhe dhoondh lungi!

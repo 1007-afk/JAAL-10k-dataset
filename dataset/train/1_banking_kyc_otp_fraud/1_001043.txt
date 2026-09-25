@@ -1,0 +1,6 @@
+caller: Namaste, main Bharat Aadhaar update helpline se bol raha hoon. Aapke Aadhaar card ki information mein kuch changes hone ke hai, security rules ke according.
+receiver: Aadhaar update? Woh kya changes hain? Mujhe toh koi message nahi aaya.
+caller: Ji ji, yeh automatic system se ho raha hai. Kuch details verify karne hain, jisse aapka Aadhaar card safe rahe. Agar aap verify nahi karenge toh woh deactivate ho sakta hai.
+receiver: Deactivate? Woh kaise? Mujhe toh Aadhaar card bahut zaruri hai. Kya mujhe kuch fee bharne ki zaroorat hai?
+caller: Fee nahi, sir. Sirf ek OTP verify karna hai. Main aapko ek link send karunga, usmein aapka OTP enter karna hai. Isse aapka Aadhaar card secure ho jayega. Link yeh hai: bit.ly/aadhaar-verify-now
+receiver: Bit.ly ka link? Yeh toh suspect lag raha hai. Main kabhi bhi short link click nahi karta. Aur aapne mujhe apna naam bhi nahi bataya, na koi ID. Yeh sab thoda fishy hai.

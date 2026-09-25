@@ -1,0 +1,12 @@
+caller: Namaste! Kaise haal hai? Main Sanjay hai, DigitalSolutions India se calling karta hoon. Mujhe ek achhi baatein hain aapke liye! Online shopping par cashback claim karne ka ek special opportunity aapke paas hai. Agar aap “XYZ” message karein, toh aap automatically our lucky draw mein enter ho jayenge. Kya aap interested hain?
+receiver: Namaste Sanjay ji, sahi sunne wala hoon. DigitalSolutions India se ho? Cashback claim karna hai? Haan, mujhe interest hai. “XYZ” message karne ke baad kya hoga?
+caller: Haan, "XYZ" message karne ke baad, aapko ek confirmation SMS mil jaayega. Ismein aapko ek unique code honi hogi jo aapko online form bharte waqt use karna hoga. Simple hai na? Sirf 5 free tablets aur bache hain, toh hurry up karo!
+receiver: 5 free tablets? Theek hai, main “XYZ” message kar deta hoon. Code milne ke baad fir kya karna hoga?
+caller: Haan, code milne ke baad, aapko website par jake form fill karna hoga. Form mein aapko apni basic details, like name and address, darhana hoga. Don’t worry, yeh sirf verification ke liye hai. Just complete the form carefully.
+receiver: Okay, understand. Code milne ke baad form fill karunga. Par mujhe yeh bhi bataiye ki yeh verification ke liye hai, warna toh main nahi karta.
+caller: Bilkul! Verification bahut zaroori hai. Aur aapko confirm karna hoga ki aapke account mein paisa hai, otherwise aap cashback claim nahi kar sakte. Just check it quickly.
+receiver: Mein dekh leta hoon. Account mein paisa hai. Now what?
+caller: Great! Aapka form submit ho gaya hai. Aap now officially hamare lucky draw mein participate ho gaye hain. Yeh sirf 4 free laptops bache hain, toh wait karna padega. Result soon announce hoga. Best of luck!
+receiver: Thank you Sanjay ji. Wait karunga.
+caller: Aapki madad karne ke liye thank you! Agar aapko koi doubt hai, toh humein contact karna mat bhoye. Hamara team aapki service mein ready hai.
+receiver: Dhanyavaad!

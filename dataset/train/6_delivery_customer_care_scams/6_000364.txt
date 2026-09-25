@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash calling from BlueSwift Courier. We have a parcel addressed to you, but there's been a slight issue with the payment confirmation.
+receiver: Oh, really? What kind of issue? I didn't order anything expensive.
+caller: Yes sir, the payment gateway flagged a discrepancy. To release the parcel, we need to quickly verify your details. Could you please share the OTP you just received on your registered mobile number? It’s for security purposes, of course.
+receiver: OTP? I haven't received any OTP. Which payment gateway are you talking about? And what's the parcel?
+caller: Sir, sometimes OTPs are delayed. It's likely still on its way. The parcel contains a mobile phone you ordered from ShopShine. To prevent the parcel from being returned to sender, please provide the OTP as soon as you receive it. There's a ₹500 processing fee if it's not verified within the next 10 minutes.
+receiver: Hold on a second. ShopShine? I haven't ordered a phone from ShopShine. This sounds very fishy. I'm not giving you any OTP.
+caller: Sir, please don't be alarmed. We just need to confirm your identity. As a last resort, we can ask for the last four digits of your bank account number to proceed. Otherwise, we’ll have to mark the parcel as undeliverable and return it to the sender.

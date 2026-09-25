@@ -1,0 +1,7 @@
+caller: Hello? Main Swiggy Customer Care se Rohit Singh bol raha hun. Aapke Swiggy account mein ek suspicious transaction detect hua hai, ₹350 ka. Confirm karein aapne kiya tha ya nahi?
+receiver: ₹350? Nahin, mainne toh aaj kuch order nahin kiya tha. Koi issue hai kya?
+caller: Ji haan, sir. System mein dikha raha hai ki aaj subah aapka order kiya gaya tha aur payment bhi ho gaya tha. Isko resolve karne ke liye, mujhe aapki OTP number se verify karna padega.
+receiver: OTP? Swiggy aise bhi verify karta hai? Mujhe toh pehle kabhi OTP nahi manga tha.
+caller: Ji haan sir, security ke liye abhi is process ko follow karte hain. Kuch hackers active hain, isliye hamein verify karna zaroori hai. OTP SMS karein.
+receiver: Theek hai, dekh leti hoon. (Pause) Arre, mujhe OTP nahi mila. Aur abhi Swiggy app mein bhi kuch dikh raha hai.
+caller: Sir, ho sakta hai network problem ho. Koi aur number hai aapka? Ya phir main aapko ek link send kar deta hoon jisse aap verify kar sakte hain.

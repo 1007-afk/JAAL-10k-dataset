@@ -1,0 +1,15 @@
+caller: Namaste ji, benar sunao. Main abhi Raipur ke <location> wale hoon. Aapko ek parcel chahiye tha na? Kaise chal raha hai?
+receiver: Haan ji, woh sahi hai. Bahot delay ho rahi hai, ek ya do minute lagege. Kya paisa hai aapko? Aur meri madad karna Anya hai.
+caller: Anya ji, acha hai. Mai bas do minute mein pahunch raha hoon. Koi tension mat lo.  Aur haan, aapko jo mila tha, wo parcel abhi ready hai mere paas. Aap bas bataiye kya chahiye tha.
+receiver: Wah, itni jaldi! Bahut sundar. Haan ji, mujhe ek suitcase chahiye tha, usmein kuch clothes hain. Aapse milkar achcha laga.
+caller: Anya ji, bilkul. Suitcase wala parcel ready hai. Kuch clothes hain ya formal clothes ya casual? Aur koi aur cheez toh nahi chahiye na? Batayega bas.
+receiver: Ji, clothes to bahut hain, pura ek suitcase bhar ke hai. Formal ya casual, koi fark nahi, puri set hai. Aur kuch nahi chahiye tha, bas yahi ek suitcase tha. Aap pahunch gaye kya?
+caller: Anya ji, bilkul, bas pahunch hi gaya hoon. Aapka suitcase ekdum ready hai, clothes se bhara hua. Koi extra parcel chahiye ho toh bataiye, kuch accessories ya kuch aur? Humare paas sab mil jata hai yahan.
+receiver: Arre, accessories ki zaroorat nahi hai, bas suitcase ka parcel hi kaafi hai. Aapne bataya nahi, aapka naam kya hai? So, if I have to call you next time, I’ll know who I’m talking to.
+receiver: Haan, betul sunao. Bahut delay ho rahi hai, 3-4 minute lagehenge. Kitna money chahiye? Mera name Anya hai.
+caller: Anya ji, okay. Mai 3 minute mein aa raha hoon. Tension mat lo. Tumhara parcel abhi ready hai, batao kya chahiye tha.
+receiver: Oh, wow! Itni jaldi? Achha achha. Mujhe ek laptop bag chahiye tha, usmein kuch electronics hain. Aapse milkar achcha laga.
+caller: Anya ji, bilkul. Laptop bag ready hai. Electronics kitne hain? USB drives ya headphones chahiye na? Ya kuchh aur chahiye?
+receiver: Ji, electronics bahut hain, ek bag bhar ke hain. USB drives chahiye, unhe bahut kaam aayega. Aur kuchh nahi chahiye, sirf laptop bag chahiye. Aap kaise aaye?
+caller: Anya ji, already pahunch gaya hoon. Tumhara laptop bag ready hai, USB drives se bhara hua. Agar kuchh aur chahiye, to accessories ya charging cables mil jayenge.
+receiver: Arre, charging cables ki zaroorat nahi hai, sirf laptop bag aur USB drives ka parcel hai. Aapka naam bataiye, agar phir call karu toh pata rahega.

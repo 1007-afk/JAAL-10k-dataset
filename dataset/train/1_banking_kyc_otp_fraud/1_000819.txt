@@ -1,0 +1,7 @@
+caller: Namaste! Mai Axis Bank se Rahul bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. Aapke account ko secure rakhne ke liye, humein aapki KYC update karvani hogi.
+receiver: Oh, suspicious activity? Kaise? Mujhe koi message nahi aaya.
+caller: Haan ji, ek international transaction attempt hua tha. Account block hone se bachane ke liye, aapko jald se jald verification karna hoga. Iske liye aapka PAN card number aur dob batao.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai. Main branch jaakar karwa sakta hoon?
+caller:  Branch mein line bahut lambi hogi aur account block bhi ho sakta hai. Yeh process sirf 5 minute mein ho jayega. Trust me, security ke liye hai. Aise hi PAN card number bata do, main aapko verification link bhi bhej dunga.
+receiver: Thik hai, mera PAN card number ABCDE1234F. Par yeh link check karna hai, aur koi mistake nahi hona chahiye.
+caller: Excellent! Ab mujhe aapke account associated mobile number ke last 4 digits bataiye taaki main verification process complete kar sakun. Offer valid sirf 10 minutes ke liye hai.

@@ -1,0 +1,8 @@
+caller: Hello? I’m calling from XYZ Courier Services. We have a parcel addressed to you, but there’s a problem with the payment. The delivery is currently held at our Delhi hub.
+receiver: XYZ Courier? Okay… what’s the problem? I wasn’t expecting anything, though.
+caller: Ji, the problem is that the declared value of the item is higher than what was initially paid. There's an outstanding payment of ₹3,750 to clear for delivery. We need to confirm this payment urgently to release the parcel.
+receiver: ₹3,750? That's a lot! What's the item? And how do I pay? I don’t recognize this transaction.
+caller: It's a mobile phone, sir/madam. Very high-value item. To release the parcel, we require you to make the payment through a secure link we’ll send you via SMS. It’s a one-time payment, and then we’ll immediately dispatch the parcel. Please provide your phone number to receive the link.
+receiver: Hold on a second. Can you give me a tracking number for this parcel? And why am I being asked to pay this now? Shouldn't I have received a notification earlier? Also, I’m very wary of clicking links from unknown numbers.
+caller: The tracking number is XZD123456789. The notification was sent, but our system sometimes experiences delays. For security reasons, we can only send the payment link directly to your phone. Please share your phone number so we can proceed quickly before the parcel is returned to sender, which will incur additional charges. We need to resolve this within the next 10 minutes.
+receiver: 10 minutes? Seriously? This all sounds very suspicious. I think I’m going to have to call XYZ Courier directly to verify

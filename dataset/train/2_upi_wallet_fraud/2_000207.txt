@@ -1,0 +1,8 @@
+caller: Hello, mai BharatPay customer care se Rohit bol raha hoon. Aapke BharatPay wallet mein ek suspicious transaction attempt kiya gaya hai.
+receiver: Kya? Kaun sa transaction? Mujhe toh koi message nahi aaya.
+caller: Sir, ek payment attempt kiya gaya tha ₹1500 ka Amazon par. Aapne kiya ya nahi?
+receiver: ₹1500 Amazon par? Nhi, mai toh kuch bhi nahi kiya. Mujhe Amazon pe order bhi nahi karna tha.
+caller: Sir, security ke liye, mujhe aapka BharatPay wallet ka OTP chahiye. Woh OTP aapke BharatPay app mein milega. Tabhi mai is transaction ko block kar paunga.
+receiver: OTP? Mai kabhi bhi phone pe OTP nahi batata. Yeh scam lag raha hai. Mai BharatPay customer care number se call karta hoon aur check karta hoon.
+caller: Sir, please mat dhekiye. Time bahut kam hai, transaction abhi confirm ho jayega. OTP without OTP, transaction confirm ho jayega. Aapka account risk mein aa jayega.
+receiver: Mujhe yeh call cut karna padega. Thank you.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this [Receiver’s Name – e.g., Rohan Verma]? We're calling from Bluestar Courier regarding a parcel addressed to you originating from Flipkart. There seems to be a customs clearance issue.
+receiver: Haan, Rohan Verma bol raha hoon. What customs clearance issue? I haven't ordered anything expensive.
+caller: Sir, the parcel contains a high-value electronic item, and there’s a small discrepancy in the declared value. To resolve this quickly and avoid delays, we need to verify a one-time security fee of ₹750. This will cover the paperwork and ensure smooth delivery.
+receiver: ₹750? For customs? Flipkart never asked me for this. I’m a bit skeptical. Can you give me a reference number or something?
+caller: Absolutely, sir. The reference number is BLS-78642. We’ll need you to pay through UPI to process this immediately. Our UPI ID is bluestarcourier.payment@xyz. Please confirm the payment, sir, so we can update the system and get your parcel moving.
+receiver: UPI ID? Wait a minute. This sounds suspicious. I'm not comfortable paying through UPI for a delivery fee. I'll contact Flipkart directly to confirm.
+caller: Sir, please do not delay. This offer won't last long! This is a limited time offer to help release your delivery faster. Sir, we're waiting for your payment.

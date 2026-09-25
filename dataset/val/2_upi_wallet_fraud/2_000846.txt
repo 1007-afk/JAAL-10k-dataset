@@ -1,0 +1,7 @@
+caller: Hello sir, this is Raj from PhonePe customer care. We've noticed some unusual activity on your account and need to verify your details to prevent fraud.
+receiver: Oh really? What kind of unusual activity? I haven’t done anything different.
+caller: Sir, a small amount, ₹50, has been attempted for transfer to a new UPI ID. It’s pending, and we need to confirm if you initiated it.  We just need you to share the OTP you'll receive on your registered mobile number to whitelist the transaction.
+receiver:  ₹50? I definitely didn’t try to send anything. And why can’t you do it automatically if it’s a potential fraud?
+caller: Sir, for security reasons, we need your confirmation first. It’s a new security protocol.  Plus, we're offering you a special cashback of ₹100 if you verify the transaction now. A little bonus for being so vigilant. Just share the OTP.
+receiver:  ₹100 cashback? Hmm, okay. Let me check my messages... Oh wait, I'm getting a message saying "PhonePe: OTP 123456 for transaction verification".
+caller: Wonderful, sir! Please share that OTP to complete the verification and claim your cashback. Once you do that, the pending transaction will be cancelled.

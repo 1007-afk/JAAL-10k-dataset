@@ -1,0 +1,8 @@
+caller: Namaste! Main One97 se Aakash bol raha hoon. Aapko Paytm Cashback Offer ke baare mein inform karne ke liye call kar raha hoon.
+receiver: Paytm Cashback Offer? Kya offer hai?
+caller: Sir, aapke Paytm wallet mein ₹10,000 cashback ka credit hone wala hai, bas ek chota verification process complete karna hai.
+receiver: ₹10,000? Itne zyada? Verification ke liye kya karna hai?
+caller: Sir, aapko ek link pe click karna hai, jo main aapko SMS karega. Us link pe jake apne wallet number se associated OTP enter karna hai.
+receiver: Link? SMS? Mujhe thoda doubt ho raha hai. Paytm toh khud SMS karta hai, hume koi link nahi bhejna chahiye.
+caller: Sir, yeh ek special promotional link hai, direct Paytm server se. It’s a limited-time offer, sir. Jaldi karo, warna offer miss ho jayegi. Link: bit.ly/paytmcashbackoffer
+receiver: Bit.ly? Ye link to suspicious lag rahi hai! Main report karta hoon.

@@ -1,0 +1,7 @@
+caller: Sir, aap PhonePe use karte hain? Achanak se security alert generate hua hai. Aapko apna PhonePe account verify karna hoga, warna block ho jayega.
+receiver: Kya? Kaun ne kiya verify? Main toh abhi se PhonePe use kar raha hun. Block ho jayega?
+caller: Haan sir, government ne naya rule dala hai. Account secure rakhne ke liye verify karna mandatory hai. Sirf 1 ghanta ka time hai. Jaldi kijiye.
+receiver: Ek ghanta? Yaar, maine kabhi verify nahi kiya. Koi link bhejo jahan par verify kar sakta hun. Aur sahi hai government ka rule?
+caller: Sir, koi link nahi bhejna hai. PhonePe app mein hi hoga. Aapko 'Verify Now' button mil jayega. Agar verify nahi kiya toh aap nahi kar payenge koi transactions, paise bhi stuck ho jayenge.
+receiver: Verify Now button kahan hai? Main dekh nahi pa raha hun. Aur agar kuch galat dala toh?
+caller: Sir, wo app ke main screen par dikhega, ek red color ka banner. Thoda zoom karke dekhiye. Aur galat nahi hoga, sir. Aapka KYC information sahi hi daalna hai.

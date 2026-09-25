@@ -1,0 +1,9 @@
+caller: Namaste! Mai call kar raha hoon Paytm Customer Care se. Aapka naam kya hai?
+receiver: Ji, mera naam Rajesh Kumar hai.
+caller: Rajesh Ji, aapke Paytm wallet mein ₹1000 ka cashback offer chala hai. Yeh offer sirf aaj ke liye hai.
+receiver: ₹1000 ka cashback? Mujhe koi notification nahi mila.
+caller: Chinta mat kijiye, Rajesh Ji. Offer activate karne ke liye, aapko ek small processing fee bharne hogi, sirf ₹50.
+receiver: ₹50? Kaise bharu?
+caller: Aapko ek UPI link milega, wahaan ₹50 send kijiye.  Link hai: paytm.cashback.50. Send karte hi cashback aapke wallet mein add ho jayega.
+receiver: Theenks.
+caller: Bahut achha, Rajesh Ji. Ab ₹50 send kar dijiye aur Paytm ka fayda uthaiye!

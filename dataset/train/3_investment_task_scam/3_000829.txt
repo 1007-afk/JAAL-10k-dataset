@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I’m calling from CoinLaunch Investments. We're excited to reach out to promising investors like yourself.
+receiver: Haan, main hi Priya Verma bol rahi hoon. CoinLaunch Investments? Yeh kya hai?
+caller: We specialize in identifying emerging cryptocurrency projects with high growth potential. Right now, we're seeing incredible returns with a new project called StellarX. Early investors are seeing gains of over 400% in just a few weeks!
+receiver: 400%? That’s a lot. But cryptocurrency is risky, na? StellarX is a new project, you say? Can you tell me more about it?
+caller: Absolutely! StellarX is building a decentralized platform for AI-powered trading. It’s incredibly innovative, and their token is currently undervalued. We're offering a special opportunity for our clients to get in early at a discounted rate – just $500 to start, and we project you could double your investment in the next month. We need your bank details to process this investment. Just the last four digits will do.
+receiver: Wait a minute. Bank details for a cryptocurrency investment? This sounds a little fishy. Why do you need my bank details for crypto?
+caller: It’s a standard KYC (Know Your Customer) procedure, Priya ji. We need to verify your identity to comply with regulations. Plus, it’s the fastest way to send you the profits once StellarX takes off, which it definitely will. We’ll also need a small processing fee of ₹2500 to activate your account - it's essential.
+receiver: ₹2500 just to activate? That's a lot for a small investment! I’m not comfortable sharing my bank details, especially with a new investment platform I don't know.
+caller: Don't miss out on this

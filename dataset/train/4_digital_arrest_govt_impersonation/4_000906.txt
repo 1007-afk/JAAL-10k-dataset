@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sharma? My name is Rajesh, calling from the Cyber Crime Investigation Cell. We’ve detected unusual activity on your bank account linked to a series of suspicious international transactions.
+receiver: Haan, Mrs. Sharma bol rahi hoon. Kya hua? Kyun suspicious transactions? Main toh koi transaction nahi kiya.
+caller: Ma’am, our system flagged several small payments totaling ₹18,000 being sent to cryptocurrency wallets in Dubai. These are often linked to online gambling rings. We need to verify your identity to secure your account. Can you please tell me the last four digits of your Aadhaar card?
+receiver: Aadhaar card details?! Yeh kya bakwaas hai? Cyber Crime Investigation Cell toh aisa nahi puchhta!
+caller: Ma’am, this is standard procedure. We need to confirm you are the account holder. To further verify, can you tell me the OTP you just received on your registered mobile number? It's crucial to stop these transactions before they escalate and potentially involve you in a money laundering scheme.
+receiver: Mujhe koi OTP nahi mila. Aur main kuch bhi nahi batayungi jab tak aap proof nahi dikhate ki aap sach mein Cyber Crime Cell se hain.
+caller: Alright ma'am, let’s try a different approach. To ensure the safety of your funds, we require a small refundable security deposit of ₹5,000 to temporarily freeze the account and conduct a thorough investigation. This deposit will be returned once the verification is complete. You can transfer it to the account number I'll provide.
+receiver: ₹5,000? Yeh toh scam hai! Main police mein report karungi.

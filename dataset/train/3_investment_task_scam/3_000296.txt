@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? I’m calling from the Zenith Financial Security Services. How are you doing today?
+receiver: Ji, main hi Mrs. Kapoor bol rahi hoon. Main theek hoon, aap kaise hain? Aur aap Zenith Financial se kaun hain?
+caller: Wonderful to speak with you, Mrs. Kapoor! We’re contacting you regarding an incredibly lucrative investment opportunity that we believe would be perfect for your portfolio. It's a unique chance to secure high returns.
+receiver: Lucrative investment? That sounds intriguing. What kind of opportunity are you talking about and why do you think it's suitable for me?
+caller: Mrs. Kapoor, we’ve noticed a substantial increase in shares of ‘SolarBright Energy’ – its ticker symbol is SRNG. Our experts have predicted a remarkable surge, potentially exceeding 400% within the next six months. Currently, they are trading at just $7.50 per share.
+receiver: SolarBright Energy? I haven’t heard of them. And 400% growth...that seems like a very big claim. What makes you so confident about this particular stock?
+caller: Absolutely, Mrs. Kapoor. SolarBright is focused on developing sustainable energy solutions, specifically concentrating solar panels. They've recently secured a major government contract and their technology is considered groundbreaking. Our analysts have conducted thorough due diligence and strongly recommend investing now.
+receiver: Sustainable energy… that’s good, but still, 400% growth is a lot to take in. Can you tell me more about this government contract and when we might realistically see this growth materialize?
+caller: Certainly. The contract involves supplying these panels to several state governments for large-scale renewable energy projects. We anticipate seeing a significant uptick in demand as these projects come online, driving up the share price substantially. This recommendation remains valid for the next three months.

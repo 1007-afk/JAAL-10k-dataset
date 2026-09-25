@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay Sharma hai, FastLoan Solutions se. Aapki loan application receive ho gayi hai, sir. Bas kuch formalities bachengi.
+receiver: Haan, ji. Mein ne application diya tha. Kya hua ab?
+caller: Sir, aapki credit score check karne ke baad, hum aapko ₹15,000 instant loan approve kar sakte hain. Bas ek small processing fee deposit karna hai. ₹1,500, sirf itna.
+receiver: ₹1,500? Processing fee? Application form mein to kuch nahi likha tha.
+caller: Ji sir, government regulations a gaye hain. Ab har loan ke liye processing fee mandatory hai. ₹1,500 deposit karke aapka loan account activate ho jayega. Aapko link send karunga, usmein payment karke confirm kar lijiye.
+receiver: Theek hai, bhej do link. Mein check karta hoon.
+caller: Yeh rahe link - [invent a fake link]. Payment complete ho jaane ke baad, ₹15,000 aapke account mein 5 minute mein deposit ho jayenge. Aur sir, ek baat batao, hum aapko ₹25,000 bhi de sakte hain, lekin processing fee ₹2,500 ho jayega.
+receiver: ₹25,000? ₹2,500 bhi? Mujhe thoda samne se sochna hai.
+caller: Sir, dekhiye, offer sirf aaj ke liye hai. Kal se processing fee ₹5,000 ho jayegi. Jaldi kijiye!

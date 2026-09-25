@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Kumar? I'm calling from ICICI Bank’s security department.
+receiver: Haanji, main Rajesh Kumar hi hoon. Bolo?
+caller: Sir, we've detected some unusual activity on your ICICI Bank credit card. A large online transaction of ₹7,800 was attempted to a shopping site you’ve never used before.
+receiver: ₹7,800? Kya? Mainne toh online kuch nahi kiya aaj tak! Yeh kaunsa shopping site hai?
+caller: Sir, to confirm your card is secure and prevent fraudulent charges, we need to quickly verify your identity. Can you please share the OTP you just received on your registered mobile number? This is a standard security protocol.
+receiver: OTP? Par kyun? Main toh Paytm se online shopping karta hoon, ICICI se nahi. Aur mainko koi OTP nahi mila.
+caller: Sir, please double check your SMS inbox. Sometimes these messages get delayed. It’s very important to act quickly, as your card might be suspended if we can’t verify you immediately. We are trying to prevent a much bigger loss for you, sir.
+receiver:  Dekhiye, mainko koi OTP nahi mila. Aur mainko koi bhi card suspend nahi karna hai.  Main abhi ICICI app mein check karta hoon.
+caller: Sir, just one moment.  Our system shows the OTP was sent. Perhaps there’s a network issue. To prevent further unauthorized activity, we’ll need to confirm your PAN card details as well. It's a simple verification process, sir.

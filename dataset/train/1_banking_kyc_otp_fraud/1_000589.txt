@@ -1,0 +1,8 @@
+caller: Hello sir, this is your Allahabad Bank manager. Your KYC has expired. So you have to KYC yourself. But due to COVID situation, we are doing KYC online. Please tell me your account details.
+receiver: Oh, okay. KYC expired? I see. Account details, right. Which account details do you need exactly? Like account number, name... or something else?
+caller: Haan sir, account number, mobile number jo aapke account se link hai, aur fir aapka date of birth. Yeh sab details bata dijiye toh hum aapki KYC process kar denge.
+receiver: Okay, okay. Account number hai 1234567890. Mobile number mera registered hai 9876543210. Aur date of birth hai 15th August 1985. Ho jayega abhi?
+caller: Haan sir, yeh details mil gayi hain. Thank you. Abhi hum aapki KYC update kar rahe hain. Aapko ek OTP aayega aapke registered mobile number pe. Woh OTP please bataiye taaki hum verification complete kar sakein.
+receiver: OTP? Haan, abhi dekhta hoon. Phone pe aaya hai... haan, mil gaya. OTP hai 789012. Yeh bata doon toh ho jayega confirm?
+caller: Haan sir, yeh OTP mil gaya hai. Bahut shukriya aapke cooperation ke liye. Aapki KYC process ho gayi hai. Kuch aur jankari chahiye thi aapko bank se related?
+receiver: Nahi sir, bas itna hi tha. Thank you so much for calling and updating me. Bahut helpful tha. Have a good day!

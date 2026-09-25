@@ -1,0 +1,21 @@
+caller: Namaste! Tumne online game mein participaiton kiya tha na? ₹800 ka prize hai, aaj ka. Jaldi karo, sirf 10 chances bache hain!
+receiver: Namaste. Online game? Oh, ₹800 ka prize? Aaj ka? Mereko abhi yaad nahi aa raha ki main koi game khela tha. Koun bol raha hai aap? Aur ‘sirf 10 chances’ ka matlab kya?
+caller: Haan ji, ₹800 ka prize! Aaj hi message aaya tha, tumne reply nahi kiya. Yeh ek contest tha, jismein tumne naam register kiya tha. Aur ‘10 chances’ matlab ki aapko confirm karne ke liye 10 baar call karna padega, otherwise prize wait list mein reh jayega. Tumhara mobile number record mein hai, isliye hum call kar rahe hain. Ab sirf 9 chances bache hain. Aapko confirm karna hai prize collect karne ke liye?
+receiver: Arey, ₹800 ka prize? Contest? Kahaan register kiya tha maine? Mujhe toh bilkul yaad nahi. Aur yeh kya baat hui ki 10 baar call karna padega? Aisa contest hota hai bhala? Aur aap mera naam kaise jante hain?
+caller: Dekhiye ji, naam toh hamare system mein hai, number tumara hai toh tumara hi hoga. Contest registration ka details hum nahi de sakte, woh privacy ka mamla hai. Bas itna jaaniye ki tumhara number record mein hai aur prize urgent hai. Ab sirf 8 chances bache hain. Agar aap confirm nahi karenge toh prize postpone ho jayega. Aapko claim karna hai ya nahi?
+receiver: Dekho bhaiyya, mujhe toh abhi bhi kuch gadbad lag rahi hai. Contest mein naam register karna aur phir prize jeetna, woh bhi bina kisi yaad ke? Aur yeh ‘chances’ wala system bhi bahut ajib hai. Kya aap bata sakte hain ki yeh contest kis platform ki taraf se hai? Aur mujhe bataiye, agar main confirm nahi kar paaya toh kya hoga? Matlab, mera prize postpone ho jayega? Kuch toh batao yaar.
+caller: Ji, ji, sab samjh gaya. Platform ka naam privacy policy ke according hum share nahi kar sakte, security reasons hain. Aur haan, agar aap abhi confirm nahi karenge toh prize definitely postpone hojayega. Ab sirf 7 chances bache hain! Jaldi decide kariye, warna itna bada amount waste ho jayega. Aap claim karna chahte hain?
+receiver: Arey waste ho jayega? Lekin yeh kya tareeka hai? Aap log platform ka naam bhi nahi bata sakte? Privacy policy, security reasons… yeh sab toh theek hai, par mujhe bhi toh assurance chahiye na ki yeh sab asli hai. Agar main confirm kar bhi doon, toh prize kaise milega? Koi process toh hoga na? Aur yeh ‘7 chances’ wala system? Matlab abhi main baat kar raha hu, toh 1 chance kam ho gaya? Bahut confusing hai yeh sab. Aur koi ID proof ya kuch verify karne ke liye?
+caller: Ji, ji. ID proof ka option bhi hai, lekin wo optional hai. Agar aap waha profile banate hain, toh aapko verification process karna padega. Ab sirf 6 chances bache hain!
+receiver: Profile banane ki zaroorat? Okay, fine. Thoda time mil sakta hai?
+caller: Haan ji, thoda time mil sakta hai. Par jaldi karo, time bigad raha hai. Ab sirf 5 chances bache hain!
+receiver: Okay, okay. Bataiye, profile banane ke baad kya hoga?
+caller: Profile banane ke baad aapko verification ke liye OTP milega. OTP enter karne ke baad aapki profile verified ho jayegi. Ab sirf 4 chances bache hain!
+receiver: OTP? And then what?
+caller: Then aapko prize claim karne ke liye application form bharna hoga. Ab sirf 3 chances bache hain!
+receiver: Application form? Seriously? This is getting complicated.
+caller: Ji, ji. But trust me, ₹800 ka prize aapka hai. Ab sirf 2 chances bache hain!
+receiver: Fine, I will try. But if this is some kind of trick, I will complain.
+caller: Ji, ji. Please confirm your identity. Ab sirf 1 chance bach gaya hai!
+receiver: Okay, okay. Just tell me one more thing – how will I receive the prize?
+caller: Prize aapke mobile number par transfer hoga. Ab chance khatam!

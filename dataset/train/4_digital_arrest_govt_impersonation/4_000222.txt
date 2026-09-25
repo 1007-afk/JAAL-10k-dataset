@@ -1,0 +1,9 @@
+caller: Hello? Main Raj Sharma, Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam se? Yeh kya bol rahe hain aap?
+caller: Haan, sir. Ek international parcel mein drugs milaye gaye hain. Isliye aapko yahan summon kiya gaya hai.
+receiver: Drugs?! Mein toh kabhi parcel order nahi kiya. Ye toh galat baat hai.
+caller: Sir, yeh matter serious hai. Aapko ek verification process se guzarna hoga. Aapko ₹10,000 ka security deposit jama karna hoga.
+receiver: ₹10,000? Aur yeh verification kaise hoga? Mujhe koi receipt toh milegi na?
+caller: Verification ke liye aapko apne bank account details dene honge. Receipt SMS se milegi, lekin pehle deposit karo. Jaldi karo, case khatam karne ke liye.
+receiver: Bank details?! Mein kabhi bhi apna bank account number kisi ajnabee ko nahi dunga. Yeh scam hai! Mai phone kat rahi hu.
+caller: Aapse maaf karna, sir. Hummein technical fault hogaya. Shubh din!

@@ -1,0 +1,8 @@
+caller: Namaste, mai Axis Bank se Rahul bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye KYC update urgent hai.
+receiver: Oh, really? What kind of suspicious activity? And why do you need to update my KYC now?
+caller: Sir, ek nehi, bahut se transactions ho rahe hain jo aapne nahi kiye hain. Account secure karne ke liye, mujhe aapka Aadhaar number aur OTP chahiye. Thodi der mein account suspend bhi ho sakta hai.
+receiver: Aadhaar number aur OTP? That’s quite risky, isn’t it? Can't you verify through the app or something?
+caller: Sir, app mein yeh option available nahi hai. Is urgent situation mein, aapko fast verification karna padega. Just batao OTP aur Aadhaar number, bas.
+receiver: I’m still not comfortable sharing this. Can you at least give me a reference number for this call, or the manager's name I can follow up with?
+caller: Sir, reference number hai 786AB123. Manager ka naam Vijay Sharma hai. Ab batao OTP, please! Account suspend hone se pehle.
+receiver: Okay, one second. Let me just verify something…

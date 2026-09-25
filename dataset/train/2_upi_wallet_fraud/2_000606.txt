@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rajesh bol raha hoon. Aapke BharatPay wallet mein aaj ek transaction attempt fail hua hai, security ke wajah se.
+receiver: Oh, kya? Fail hua? Transaction kitna tha?
+caller: ₹2500 ka attempt tha, sir. System ne suspect kar diya. Aapko confirm karna hai ki yeh aapne kiya tha ya nahi? Aur apna wallet secure karna hai toh BharatPay Helpdesk par call karein – number hai 8888222333. Jaldi karein, otherwise account block ho sakta hai.
+receiver: Account block ho jayega? Lekin main toh koi transaction nahi kiya. Mein abhi ghar par hi hoon. BharatPay Helpdesk number bhi check kar leta hoon, ek minute.
+caller: Ji bilkul, sir. Account block hone se bachne ke liye jaldi call karna zaroori hai. Aur ek special offer bhi hai! Agar aap abhi ₹500 BharatPay se kisi bhi number pe recharge karte hain, toh aapko ₹200 cashback mil jayega. Isसे aapka account verify ho jayega aur secure bhi ho jayega.
+receiver: ₹200 cashback? Recharge? Yeh offer toh achcha lag raha hai.  Par account block hone ka dar bhi toh hai. Main kya karoon?
+caller: Sir, yeh dono ek saath ho sakte hain! Aap ₹500 recharge karein aur account bhi verify ho jayega, aur account block hone ka risk bhi khatam ho jayega. Phir ₹200 cashback bhi aapko mil jayega. Just recharge karein, sir. Number bataiye jispe recharge karna hai.
+receiver: Theek hai, theek hai. Mera phone number hai 9876543210.  Par cashback kab milega?

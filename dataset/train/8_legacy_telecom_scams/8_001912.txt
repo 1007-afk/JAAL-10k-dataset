@@ -1,0 +1,9 @@
+caller: Hello? Hello? Can you hear me properly? Madam, it’s your lucky day! I’m calling from ‘GiftPlus Solutions’, we have fantastic deals for you today. Are you currently using Jio network, madam?
+receiver: Haan, sun rahi hoon. Kaise hain aap? Kitna chal raha hai yeh lucky day ka offer?
+caller: My name is Sanjay, from GiftPlus Solutions. You’ve been selected for a special promotion - a brand new Samsung Galaxy S23 smartphone and a Bose QuietComfort headphones set! Just need to quickly verify a few details about your Jio account, ma'am. Is that okay?
+receiver: Samsung Galaxy S23 aur Bose headphones… woh toh acha lagta hai, lekin ye verification ka kya matlab hai? Koi extra charge nahi hoga, na?
+caller: Absolutely not, ma'am! This is a limited time offer just for valued Jio users. The Samsung and Bose are completely free. Also, we’ll give you an additional 5GB data every month for the next year as a bonus. It’s a simple update to your existing Jio plan, nothing complicated. Does that sound good to you?
+receiver: Sanjay ji, yeh sab sunkar mujhe thoda suspicion ho raha hai. Woh Bose headphones, wo genuine hain ya fake? Aur Samsung phone, uska warranty kitna hai?  Just want to be sure.
+caller: Ma'am, these are absolutely genuine Bose headphones – they come with full manufacturer warranty. And the Samsung S23 is the newest model, still in stock. We only work with authorized retailers, so you can trust us. So, shall I proceed with confirming this wonderful offer for you?
+receiver: Wah! Genuine Bose aur naya Samsung? Okay, fine, confirm kar do. Lekin, yeh headphones aur phone mere doorstep pe kab tak aaenge? Aur agar koi problem hogi toh kis number on helpline number pe call kar sakte hain?
+caller: They will be delivered within 3-4 business days, ma'am. And you can always reach our customer support at 1800-XXX-XXXX for any assistance. Don’t worry, everything will be taken care of!

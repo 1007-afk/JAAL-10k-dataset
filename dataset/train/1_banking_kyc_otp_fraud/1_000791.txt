@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Airtel Payments Bank se raha hoon. Aapke Airtel account mein suspicious activity detect hui hai, sir. Aapke account ko secure rakhne ke liye, humein aapki KYC details verify karni hogi.
+receiver: Airtel Payments Bank? Kya hua? Suspicious activity? Main toh koi transaction nahi kiya hoon. KYC details? Mujhe kuch samajh nahi aa raha hai.
+caller: Haan sir, ek transaction attempt hua tha, lekin woh fail ho gaya. Par hum safety ke liye verify karna chahte hain. Aapka Aadhaar number aur PAN card number share karein, please. Account suspend hone se bachane ke liye yeh zaroori hai.
+receiver: Aadhaar number aur PAN card? Phone pe kaise share karun? Yeh thoda risky lag raha hai, sir. Aap ek OTP send karein, main usko verify karta hoon.
+caller: OTP send karne se security compromise ho jayegi, sir. Yeh direct verification process hai.  Aapko ek OTP receive hoga OTP sirf Airtel Payment Bank wale message se, lekin Aadhaar aur PAN details bhi provide karna padega, otherwise account suspend ho jayega. Jaldi karein, sir, time limited hai.
+receiver: Account suspend? Aur OTP bhi nahi mil raha hai? Main wait karta hoon. Mujhe confirm karna hai ki yeh call genuine hai. Main Airtel customer care number pe call karta hoon aur phir decide karta hoon.
+caller: Sir, please samjhein, time bahut kam hai. Account suspend hone se pehle aapki details share karein. Yeh final warning hai.

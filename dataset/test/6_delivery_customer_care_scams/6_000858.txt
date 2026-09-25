@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart customer care se Rahul bolta hoon. Apke naam par ek order aaya hai, lekin payment verification mein thodi dikkat ho rahi hai.
+receiver: Flipkart order? Mujhe koi order yaad nahi aa raha. Mein ne kuch order kiya tha kya?
+caller: Haan ji, order ID hai FK789456. Ek smart watch ka order hai, ₹2800 ka. Payment fail hone ke karan order hold ho gaya hai.
+receiver: ₹2800 ka watch? Mujhe toh koi bhi watch order karne ka yaad nahi. Kaise check kar sakta hoon ki order kiya tha ya nahi?
+caller: Sir, check karne ke liye aapko ek OTP verify karna padega. Mein aapko SMS karega, OTP receive hone ke baad mujhe bata dijiye. Tabhi order release hoga.
+receiver: OTP?  Yeh thoda suspicious lag raha hai. Flipkart toh aise nahi karta hoga. Mein direct Flipkart app check karta hoon.
+caller: Sir, system mein technical issue aa raha hai, isliye OTP verification zaroori hai. Jaldi karna aapko, nahi toh order cancel ho jayega. Sir, SMS kar diya hai?

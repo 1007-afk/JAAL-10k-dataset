@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? We're calling from 'SwiftCredit Solutions.' You've been pre-approved for a fantastic personal loan offer! Just needs a quick verification.
+receiver: Haan, mai Priya Sharma. Loan offer? Kitna hai? Aur verification kya hai?
+caller: Wonderful! You’re eligible for a loan up to ₹75,000 with a very competitive interest rate. For verification, we just need you to visit our website and upload a copy of your PAN card and a recent bank statement. The link is: https://swiftcreditverify.online. Don’t wait, this offer is for a limited time only!
+receiver: PAN card aur bank statement? Online? Seems a bit risky, no? I’ve heard about these things.
+caller: Priya Ji, don’t worry! Our site is completely secure, encrypted with the latest technology. It's standard procedure to verify your identity before disbursing the loan. It takes just five minutes. Think about it – ₹75,000 instantly! Many people are availing the offer, there are only three spots left!
+receiver: Okay, I’ll think about it. What happens after I upload the documents? Will I get the loan immediately?
+caller: Yes, once the documents are verified, the loan will be credited to your account within 15 minutes. However, there’s a small processing fee of ₹999 that needs to be paid upfront to activate the loan. It's a one-time charge.
+receiver: ₹999 processing fee? Why so much? And why do I need to pay before I even get the loan? This is sounding more and more suspicious.
+caller: Priya Ji, that’s the standard fee for all instant loans. It ensures your application is prioritized. Don't miss out on this golden opportunity! We

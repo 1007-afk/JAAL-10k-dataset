@@ -1,0 +1,6 @@
+caller: Hello, is this Raj Sharma? We're calling from FreeCharge regarding a cashback offer on your recent transaction. You're eligible for a Rs. 1200 cashback, but we need to verify a few details quickly.
+receiver: Cashback? Really? Which transaction are you talking about? I don’t remember any such offer.
+caller: It was for a mobile recharge done yesterday evening. We’ve noticed a slight discrepancy and want to ensure the cashback is credited to your FreeCharge wallet correctly. Could you please confirm the last four digits of your registered mobile number?
+receiver: Okay, it's 4567. But why do I need to give you that? Shouldn’t you already have that?
+caller: Yes, of course, but our system requires a secondary verification for security purposes.  We just need to confirm. Now, for the cashback to process, we'll need you to send a small processing fee of Rs. 50 to this UPI ID: paytm@ybl. This is just to confirm you’re the wallet holder and prevent fraudulent claims.
+receiver: Rs. 50? A processing fee for cashback? That doesn’t sound right. Can you give me a number to call FreeCharge customer care and I’ll verify this with them directly? I'm not comfortable sending money like this.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Rajesh Kumar? I’m calling from Axis Bank’s fraud prevention department.
+receiver: Haan, bolie. What's the matter?
+caller: Sir, we’ve detected some unusual activity on your Axis Bank credit card – a payment request for ₹8,500 to a merchant in Delhi. Can you confirm if you initiated this transaction?
+receiver: ₹8,500? Delhi mein? Nahin, main toh Delhi mein nahi tha. Aur mujhe koi payment request yaad nahi aa raha.
+caller: That's concerning, sir. To secure your account and prevent further unauthorized transactions, we need to quickly verify your identity. Can you please provide the last four digits of your Aadhaar card for verification? It’s standard procedure.
+receiver: Aadhaar card? Why do you need my Aadhaar number for a credit card transaction? That seems risky, doesn't it?
+caller: Sir, it’s just a quick check to ensure you are the genuine cardholder. We need to comply with KYC regulations. We're just trying to protect your money.  Please, it will only take a moment. And if you don’t provide it, we may have to temporarily freeze your card to protect you.
+receiver: Freeze my card? Wait a minute. Let me call Axis Bank directly from the number on my card. This feels a little off…

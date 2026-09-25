@@ -1,0 +1,13 @@
+caller: Namaste! Aapse baat ho rahi hai ‘Golden Opportunities India’ se. Aaj aapne ek bahut hi sundar din diya hai! Humein abhi aapko ek achcha khabar dena hai. Humein aapko ‘Rural Growth Scheme’ ke under selected kiya gaya hai!
+receiver: Rural Growth Scheme? Woh kya hai? Mujhe is bareme kuch bhi pata nahin hai.
+caller: Haan ji, woh ek govt. ka scheme hai, Maharashtra sarkar ne launch kiya hai. Aapko rural areas mein solar panels install karne ke liye ₹50,000 ka grant milega. Hum aapko yeh grant apply karne mein madad karenge.
+receiver: ₹50,000 ka grant? Bas apply karna hai? Koi charge hai ya nahin?
+caller: Arre, koi charge nahi hai! Yeh sab aapke liye free hai.  Humein sirf aapki basic details jankari chalchi chahiye, jaise aapka naam, address aur bank account number.  Yeh details aapko apne Aadhaar card se mil jayegi.
+receiver: Bank account number suni hai...  Aur mujhe ye scheme kitne time tak available hai?  Mujhe jitna soon possible apply karna hai.
+caller:  Haan ji, yeh scheme 30 December tak available hai.  Aapko jaldi se call karna hai, sirf 5 seats bache hain, aur humein aapki confirmation needed hai. Aapki Christmas celebrations shandar ho sakti hain!
+receiver:  5 seats?  Mujhe jaldi se call karna hai.  Bank account number batao, phir main call karta hoon.
+caller:  Aapka bank account number bataiye, please.  Yeh information aapke future benefits ke liye zaroori hai.  Agar aapko koi confusion hai, toh humhein batayein. Aapka Christmas shandaar ho jaye!
+receiver:  Okay, my account number is… [Account Number].
+caller: Dhanyavaad! Aapki registration process jaldi se shuru hogi.  Aapko humein confirm karna hoga ki aap yahaan participate karna chahte hain.  Is offer ko apne family members ke saath share karo, agar aapko acha lag raha hai!
+receiver:  Thank you!
+caller:  Shandaar Diwali aur Merry Christmas aapko!

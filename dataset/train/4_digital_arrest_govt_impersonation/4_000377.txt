@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is ASI Singh calling from the Directorate of Revenue Intelligence. We've detected suspicious activity linked to your bank account – several large international transfers flagged for potential money laundering.
+receiver: Yeh kya baat kar rahe ho? Main toh Sharma nahi hoon.
+caller: Sir, our records indicate this number is registered to a Mr. Sharma. It's crucial we verify this immediately. We need to confirm these transactions were authorized. We’ve placed a temporary hold on your account to prevent further illegal activity.
+receiver: Lekin sir, meri account mein toh kuch nahi hua hai. Aur main koi illegal kaam nahi karta.
+caller: Sir, we understand this is unsettling, but your cooperation is vital. To release the hold, we require a small fee – ₹15,000 – as processing charges to clear the case. We need to ensure everything is compliant with regulations. We will keep you on a video call to confirm your identity and prevent any interference.
+receiver: ₹15,000? Yeh kya bakwas hai? Main koi paisa nahi dene wala.
+caller: Sir, this is a standard procedure. We can't risk further investigation. This is the only way to resolve this swiftly. If you don't comply, we'll be forced to escalate the matter to a higher authority and file a formal FIR against you.
+receiver: Tum log gundey ho! Main police mein complaint karunga.
+caller: Sir, please, don't be hasty. We are just following protocol. This is for your own protection. We are trying to protect you from potentially severe legal consequences. The video call is ready now. Just click this link: [fake link]

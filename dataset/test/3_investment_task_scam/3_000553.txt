@@ -1,0 +1,8 @@
+caller: Namaste! Sir, I am calling from Global Trade Ventures. We're offering a fantastic opportunity to invest in a new cryptocurrency, StellarX. Initial investors are seeing returns of up to 30% per week!
+receiver: StellarX? Never heard of it. Sounds a little too good to be true, no? What's the catch?
+caller: No catch, sir! It's a new blockchain project with massive potential. We're giving early access to select clients. To activate your investment account, you just need to deposit a small sum—₹5000—to verify your account and start earning.
+receiver: ₹5000? Just to verify? And how do I send this money? Is it through a bank transfer or something?
+caller: Yes, sir, a simple bank transfer is fine. The details are: Account Name: Global Ventures, Account Number: 1234567890, IFSC Code: GVBN0000001. Once you’ve done that, send me a screenshot via WhatsApp, and we’ll activate your account immediately.
+receiver: Okay, I’ll do that. But how do I withdraw my earnings later? What are the fees?
+caller: To withdraw, there's a small processing fee of 15% to cover transaction costs, sir. Completely standard. Just send a withdrawal request through our platform once you've reached a minimum balance of ₹10,000. 
+caller: Wonderful! I've received your screenshot, sir. Your account is now active. You’ll start seeing your returns within 24 hours. Just remember, this is a limited-time offer – spots are filling up fast!

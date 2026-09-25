@@ -1,0 +1,6 @@
+caller: Namaste! Main Rahul, Axis Bank se baat kar raha hoon. Sir, aapke account mein achanak se kuch suspicious activity dikh raha hai. KYC update karna bahut zaroori hai, warna account suspend bhi ho sakta hai.
+receiver: Kya? Account suspend? Kaise? Kuch toh batao, kya hua? Mein toh aaj tak bank se kuch suspicious activity ka message nahi mila.
+caller: Sir, security kehta hai ki aapne ek new device se login kiya hai. Yeh confirm karne ke liye, please apna OTP (One Time Password) bata dijiye jo aapko SMS se mila hai.
+receiver: OTP? Phone pe? Sirf OTP se confirm hoga? Aur koi aur way nahi hai? Mujhe toh zyada confidence nahi ho raha.
+caller: Sir, bank ka rule hai, OTP se hi verify karna padta hai. Koi aur option nahi hai. Jaldi karo, sir, time limit hai. Account suspend hone se pehle batao OTP.
+receiver: Theek hai, thoda wait karo. Mein khud Axis Bank app mein check karta hoon. Koi pressure nahi dalna.

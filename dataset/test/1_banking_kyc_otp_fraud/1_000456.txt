@@ -1,0 +1,13 @@
+caller: Namaste, is this Ms. Devi? This is SecurePay regarding your recent transaction on Shopperz app.
+receiver: Ji, bolo. Kaise hain aap?
+caller: Ji madam, my name is Rohan, calling from SecurePay. There was an automated payment of ₹175 for a purchase you made on Shopperz. We just want to verify that you authorized this transaction.
+receiver: Shopperz? Actually, I don’t remember making any purchase on Shopperz recently. ₹175 deducted? That’s strange.
+caller: Yes sir, it appears to be an accidental charge. We can immediately reverse this for you, but we need to confirm your card details one more time – the last four digits please.
+receiver: Wait, what? Reverse it? Why would I give you my card details again? I already gave them when I downloaded the app.
+caller: Sir, it’s standard procedure for SecurePay to ensure the security of your transactions. We just need to double-check everything before initiating the reversal. Please provide the last four digits of your card number. It’s only for verification purposes.
+receiver: No, no, I am not comfortable giving out my card details over the phone. Let me check my Shopperz app history first.
+caller: Okay sir, understood. But if we don't get confirmation within five minutes, we will have to close your account due to suspected fraudulent activity. Don’t worry, it’s for your own protection.
+receiver: Fraudulent activity? That’s ridiculous! I’m not doing anything wrong. I want to report this call.
+caller: Sir, please don’t panic. Just provide the card details so we can resolve this quickly. If you cooperate, you won’t face any issues.  We are here to help you.
+receiver: Never mind. I think I’ll just ignore this call. Goodbye.
+caller: Okay, thank you for your time, Ms. Devi. Have a good day.

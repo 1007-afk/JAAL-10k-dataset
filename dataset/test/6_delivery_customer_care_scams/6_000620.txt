@@ -1,0 +1,8 @@
+caller: Namaste! Main Shivam, BlueLine Logistics se bol raha hoon. Aapke naam se ek parcel aaya hai, lekin address verification mein thodi problem aa rahi hai.
+receiver: Haan, theek hai. Main bataao, kya problem hai? Main Anjali Verma hoon.
+caller: Anjali Verma ji, parcel mein kuch documents incomplete hain. Security check ke vajah se, hum parcel deliver karne se pehle aapki identity confirm karna chahte hain.
+receiver: Identity confirm karna hai? Kaun se documents chahiye? Mujhe to kuch pata nahi tha.
+caller: Aapko OTP confirm karna hoga, jo aapke registered mobile number pe aaega. Isse hum verify kar sakte hain ki parcel aapke naam se hi hai. OTP milne ke baad, hum parcel deliver kar denge.
+receiver: OTP? Par mainko OTP ka koi message nahi aaya hai. Aur parcel mein kya hai? Mujhe yaad bhi nahi ki mainne kya order kiya tha.
+caller: Woh hum system mein check karte hain. OTP check kar ke hum confirm karenge. Thoda wait karein. Abhi ek payment link bheja jayega, ₹500 ke security deposit ke liye. Phir OTP confirm karne ke baad parcel aapke doorstep pe pahunch jayega.
+receiver: ₹500 deposit? Yeh toh scam lag raha hai. Main koi payment nahi karungi. Main police mein complaint kar dungi.

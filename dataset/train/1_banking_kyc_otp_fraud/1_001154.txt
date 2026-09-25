@@ -1,0 +1,8 @@
+caller: Namaste! Mai Axis Bank KYC department se Ankit Verma bol raha hoon. Sir, aapke account mein illegal activity ka suspicion hai. Security maintain karne ke liye, aapko apna KYC update karna hoga urgently.
+receiver: Illegal activity? KYC? Mein toh kuch bhi unusual nahi dekha. Aur Axis Bank se toh mujhe kabhi call nahi aaya tha. Tumhara phone number share karo, main check karta hoon.
+caller: Sir, call record mein confirm ho jayega. Lekin pehle, mujhe aapki birth date aur mother's maiden name chahiye verification ke liye. Account suspend hone se bachne ke liye, jaldi karein.
+receiver: Birth date aur mother's maiden name? Yeh toh security questions hain! Bank aise phone pe poochta hai kya? Aur account suspend? Kitne attempts bache hain mujhe?
+caller: Sir, yeh standard protocol hai.  Just 3 attempts bache hain. Agar aap details nahi dete, toh account block ho jayega, aur aapka credit card bhi cancel ho sakta hai.  Aapka naam bataiye, please?
+receiver: Credit card bhi?  Yeh bahut serious lag raha hai.  Dekhiye, mujhe bank branch mein jaake hi yeh karna hai.  Tumhara employee ID number dedo, main Axis Bank mein call karta hoon.
+caller: Sir, branch band hai aaj.  Main tumhein ek OTP bhej raha hoon, confirm karke dekhiye.  Woh OTP aapke account ko secure karega.  Aapka trust mera trust hai.
+receiver: OTP?  Yeh mat karo! Main police mein report karunga agar tumne mere account se kuch kiya.

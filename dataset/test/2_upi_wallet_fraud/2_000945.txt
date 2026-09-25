@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajesh hai, mai Paytm support se bol raha hoon. Aapke Paytm account mein kuch suspicious activity detect hui hai, aur hum isko secure karne ke liye aap se baat karna chahte hain.
+receiver: Oh, really? Kya hua? Mujhe toh koi notification nahi mila.
+caller: Ji, yeh issue abhi internally detect kiya gaya hai. Hamari team iska resolve kar rahi hai, lekin aapko confirm karna hoga ki aapke account se koi unauthorized transaction toh nahi hua hai. Hamara system aapko ₹2000 ka cashback offer karta hai agar aap isko urgently verify karwate hain.
+receiver: ₹2000 cashback? Kaise verify karwana hai? Mujhe thoda suspicion ho raha hai, yeh scam toh nahi hai?
+caller: Bilkul nahi, sir/ma’am! Yeh Paytm ki taraf se special security initiative hai. Aapko bas ek OTP verify karna hai jo hum aapke registered number pe bhejenge. OTP verify hone ke baad, cashback automatically aapke account mein add ho jayega.
+receiver: Theek hai, fir try karte hain. My registered number is 9876543210.
+caller: Excellent! Ab aapko OTP mil jayega. Jaldi verify karwadein, cashback offer limited time ke liye hi hai, aur sirf pehle 3 customers ke liye. Thank you for your cooperation!

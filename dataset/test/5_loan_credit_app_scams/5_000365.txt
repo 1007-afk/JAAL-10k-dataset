@@ -1,0 +1,7 @@
+caller: Namaste! My name is Vivek from QuickCash Solutions. We've noticed you recently applied for a personal loan online. Just confirming, is this still your active Jio number, 9876543210?
+receiver: Hello? Yes, this is my number. I did apply for a loan, but I haven't heard anything yet.
+caller: Excellent! Your application has been pre-approved for a loan of ₹50,000! It's a fantastic offer, especially given your recent credit score improvement. To finalize the process, we need to verify a small processing fee of ₹2,500 upfront.
+receiver: Two thousand five hundred? For a ₹50,000 loan? That seems a bit high. Are you sure this is legitimate?
+caller: Absolutely! It’s a standard security measure to prevent fraudulent activity. Think of it as an insurance policy. Once the fee is paid via UPI to this number, the loan will be immediately disbursed to your account. It's a very limited-time offer, though. We've had many applicants today.
+receiver: UPI? Okay, let me think about this for a moment. Can I get some more details about QuickCash Solutions? A website maybe?
+caller: Yes, of course. Our website is QuickCashSolutions.in. But please hurry! This offer won’t last. There are many people waiting for this approval, and slots are filling up fast! Just send the ₹2,500 via UPI to secure your loan.

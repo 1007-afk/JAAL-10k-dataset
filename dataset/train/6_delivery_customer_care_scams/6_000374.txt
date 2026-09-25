@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? We’re calling from Bluebird Courier regarding a package addressed to you. It seems there’s been a problem with the delivery address.
+receiver: Haan, main Priya Verma hoon. Kya hua? Package? Mainne kuch order kiya tha?
+caller: Yes, ma’am. It’s a rather large parcel, originating from Meesho. The system flagged a potential mismatch in the pin code. To ensure it reaches you safely, we need to verify a one-time password sent to your registered mobile number.
+receiver: OTP? Kaise? Meesho se toh mainne kuch hafte pahle hi order kiya tha. Aur pin code mismatch? Woh theek hona chahiye tha.
+caller: Absolutely. It’s a standard security protocol, ma’am. Just provide the OTP, and we’ll update the delivery details immediately. There’s also a small delivery processing fee of ₹75 due to the address discrepancy. You can pay it quickly through UPI.
+receiver: ₹75? Delivery processing fee? Meesho kabhi aisa nahi bola tha. Aur UPI se payment? Mujhe suspicion ho raha hai. Let me check with Meesho directly.
+caller: Ma’am, please don’t delay! The package is currently at our regional hub, and it will be returned to sender if we don't resolve this quickly. The OTP expires in just 2 minutes. Think of the hassle of reordering! Just a quick OTP and payment will get it sorted.
+receiver: Two minutes? Okay, wait a second. I’m going to call Meesho's customer care first. Don't hang up.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call for Free Data' aur is offer ko claim karne ki kismat hui hai.
+receiver: Namaste ji, hello. Haan, dekhli maine woh advertisement. Bataiye, kya hai is offer mein?
+caller: Ji, toh aapko 1 GB data absolutely free mil raha hai! Yeh ek special offer hai sirf Diwali ke baad ke customers ke liye. Aur aapke paas sirf 3 'data packs' bache hain claim karne ke liye. Aapko bas woh pack activate karna hai, woh bhi bilkul free!
+receiver: Wow, 1 GB data? Ye toh achcha deal hai. Toh, mujhe yahaan kuchh form bharna padta hai ya kuchh?
+caller: Nahi ji, kuchh bhi form fill nahi karna. Aapko bas ek chhota sa confirmation dena hai, jisse hum aapka data pack activate kar sakein. Aapko mera naam bataaye, please.
+receiver: Mera naam Priya hai. Toh, confirmation dena hai? Aur kuchh nahi?
+caller: Haan ji Priya ji. Bas ek chota sa confirmation chahiye. Agar main aapka 'activation number' verify kar doon toh aapka data pack immediately activate ho jayega. Kya main aapki activation number jo aapko SMS mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charge nahi hai.
+receiver: Activation number? Oh, haan, abhi dekhta hoon… 8765.

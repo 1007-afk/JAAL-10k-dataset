@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mera naam Rajat hai, TalkLoan se. Aapne apne phone pe TalkLoan app install kiya tha, correct?
+receiver: Haan, install kiya tha. Kuch problem hai?
+caller: Sir, verification process ke liye thoda aur information chahiye. Account secure karne ke liye, mujhe aapke Google Play Store account ka password chahiye, sirf ek baar.
+receiver: Google Play Store password? Woh kyun chahiye? Mein toh app install kar chuka hoon.
+caller: Sir, security protocol ka part hai. Hackers se bachaane ke liye. Agar aapko problem aa raha hai, to mein aapke registered email ID par ek OTP send kar sakta hoon, uska bhi bataiye.
+receiver: Email ID par OTP? Okay, email ID hai [Invent a plausible email address].
+caller: Ji, OTP send kiya hai. Woh check karke bataiye. Verification ke baad, aapko instant ₹50,000 ka loan mil jayega, sir. Bahut easy hai!
+receiver: Sir, OTP aaya hai, lekin main abhi online banking nahi kar raha hun. Mein baad mein verify karunga.
+caller: Sir, OTP sirf 5 minute ke liye valid hai. Jaldi se verify karein, warna offer expire ho jayegi aur aapka account block bhi ho sakta hai. Aapko kisiko financially support karna hai kya, urgent?

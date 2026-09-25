@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Bharat Bank se bol raha hoon. Aapke Bharat Bank digital savings account mein ₹15,000 ka cashback offer hai, government scheme ke under.
+receiver: Bharat Bank? Mere paas Bharat Bank ka account hai, lekin mujhe toh koi message nahi aaya. Tumhara naam kya hai? Aur tum kaise pata kar rahe ho mera number?
+caller: Sir, humara naam Amit hai. Aapke account se linked mobile number pe offer update hota hai, lekin technical fault se kabhi kabhi notification nahi jaata. Yeh offer sirf tab hi valid hai jab aap aaj ek small processing fee jama karenge – ₹999 sirf.
+receiver: ₹999 processing fee? Cashback offer mein fee jama karna padega? Yeh toh galat lag raha hai. Bharat Bank aise offer kabhi deta hi nahi.
+caller: Sir, government scheme hai, isliye fee jama karni padegi, verification ke liye. Jaldi karo, offer abhi khatam hone wala hai. Aapko ₹15,000 cashback milega, aur sirf ₹999 jama karne hain. UPI ID main aapko de deta hoon – ek second.
+receiver: UPI ID mat do. Mein koi bhi information share nahi karunga. Yeh scam hai, mujhe pata hai. Aur Bharat Bank se koi bhi phone nahi karta aise. Aapko report kar dunga main.
+caller: Sir, aapko loss ho jayega! Government scheme free mein nahi hoti. ₹999 jama kar dijiye, cashback automatically account mein credit ho jayega.
+receiver: Loss? Woh toh aapko hoga! Mein police mein report karunga, aur apne bank ko bhi bataunga.
+caller: Sir, aapko samajh nahi aa raha. Is offer se aapko bahut benefit hoga. ₹999 jama kar dijiye, main aapko number de deta hoon, uspar transaction kar

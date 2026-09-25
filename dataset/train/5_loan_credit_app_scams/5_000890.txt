@@ -1,0 +1,9 @@
+caller: Namaste sir, main Rohan, QuickLoanHelp se baat kar raha hoon. Aapne online personal loan apply kiya tha, right? Aur verification ke liye kuch details check karne hai.
+receiver: Haan, ji, apply toh kiya tha. Kya details chahiye?
+caller: Sir, aapka PAN card number check kar sakta hoon? Aur woh photo copy bhi chahiye jo apply karte samay send kiya tha. It's just a formality for security reasons.
+receiver: Woh PAN card number main yaad nahi aa raha, aur photo copy bhi computer mein nahi hai.
+caller: Sir, problem hai. Agar aap cooperation nahi karenge toh loan process stop ho jayega. Aur abhi aapka account suspend bhi ho sakta hai. Bataiye, aapko ₹50,000 ki loan urgently chahiye ya nahi? Abhi ₹10,000 bhi nahin mil payega.
+receiver: ₹50,000 toh chahiye tha. Kya karoon main?
+caller: Sir, dekhiye, fast kar rahe hai toh hi kuchh ho sakta hai. Aapko apne phone mein kuch private photos milenge na? Hum unko apne contacts mein send kar denge. Tab tak ₹15,000 ka urgent processing fee deposit kar dijiye.
+receiver: Private photos? Main kuchh nahin send kiya hai! Yeh fraud hai!
+caller: Sir, mat boliyega, time nahi hai. Jaldi se payment kar dijiye, otherwise...

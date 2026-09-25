@@ -1,0 +1,9 @@
+caller: Namaste Madam, main Axis Bank Security Department se Rahul Sharma bol raha hoon. Aapke Axis Bank account mein suspicious activity detect hui hai.
+receiver: Oh, really? What kind of activity? I haven't received any unusual notifications.
+caller: Sir, ek international transaction attempt kiya gaya tha aapke debit card se. Immediate action lene ke liye, aapko KYC verification complete karna hoga.
+receiver: KYC verification over the phone? I’ve heard about these scams. Can’t I do this online through the Axis Bank app?
+caller: Sir, online process mein delay ho sakta hai. Is urgent matter ko handle karne ke liye, mujhe aapka PAN card number aur OTP chahiye verification ke liye.
+receiver: OTP? Why do you need my OTP? That seems very risky to share over the phone. Can you provide me with a reference number or a direct contact number for Axis Bank customer care so I can verify this myself?
+caller: Sir, yeh standard security protocol hai. Reference number hai AXS-786-4321.  Aapka OTP share karna hi account ko secure karne ka best way hai. Just give me the OTP, and I’ll handle everything. Don't delay, Sir, or the transaction might go through.
+receiver: Okay, wait a minute. I will call the customer care number separately to verify this. I'm not providing any OTP right now.
+caller: Madam, it’s a matter of minutes, and if you delay, someone else could access your account. Just give me that OTP, please.

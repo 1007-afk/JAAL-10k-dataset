@@ -1,0 +1,19 @@
+caller: Namaste sir, Airtel se bol raha hu. Aapke number ka KYC update chal raha hai. Aapke phone par ek 6-digit PIN code aaega, wo bataiye please.
+receiver: Oh, ji? Dekhte dekhte...Haan, aa gaya. 890123. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Deepak hai. Thank you for providing the PIN code. Hum abhi aapki account ki security settings check kar rahe hain. Kya aap mujhe apne bank account number bata sakte hain?
+receiver: Haan Deepak. Mera bank account number hai [mera bank account number yahan daalein].
+caller: Thank you sir, for sharing your bank account number. Now we need to verify some transaction history. Could you tell me the last four digits of your credit card?
+receiver: Okay, Deepak. Last four digits are 7890. Kuch aur chahiye kya?
+caller: Ji sir, aapka credit card detail confirm ho gaya hai. Ab aapko ek website link aa jaayegi, uspar click karke verification karna hoga. Verification ke baad, aapko premium services ke liye subscription lelena hoga. Kaise hai sir?
+receiver: Nahin, Deepak. Mujhe premium services mein interest nahin hai. Koi offer bataiye.
+caller: Ji sir, aapko premium services mein access milega, aur aapko exclusive discounts milengi. Agar aap subscribe karte hain, toh aapko 20% tak cashback milega. Kya aap subscribe karna chahte hain?
+receiver: Haan, dikha de offer ki terms and conditions.
+receiver: Oh, ji? Dekhte dekhte...Haan, aa gaya. 890123. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Deepak hai. Thank you for providing the PIN code. Hum abhi aapki account ki security settings check kar rahe hain. Kya aap mujhe apne bank account number bata sakte hain?
+receiver: Haan Deepak. Mera bank account number hai [mera bank account number yahan daalein].
+caller: Thank you sir, for sharing your bank account number. Now we need to verify some transaction history. Could you tell me the last four digits of your credit card?
+receiver: Okay, Deepak. Last four digits are 7890. Kuch aur chahiye kya?
+caller: Ji sir, aapka credit card detail confirm ho gaya hai. Ab aapko ek website link aa jaayegi, uspar click karke verification karna hoga. Verification ke baad, aapko premium services ke liye subscription lelena hoga. Kaise hai sir?
+receiver: Nahin, Deepak. Mujhe premium services mein interest nahin hai. Koi offer bataiye.
+caller: Ji sir, aapko premium services mein access milega, aur aapko exclusive discounts milengi. Agar aap subscribe karte hain, toh aapko 20% tak cashback milega. Kya aap subscribe karna chahte hain?
+receiver: Haan, dikha de offer ki terms and conditions."""

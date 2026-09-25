@@ -1,0 +1,7 @@
+caller: Namaste sir, main Axis Bank se Deepika Tripathi bol rahi hoon. Aapke account mein aaj ek transaction fail ho gaya hai – ₹12,000 ka.
+receiver: Haan? ₹12,000? Transaction fail? Kya hua?
+caller: Ji, system mein kuch technical issue tha.  Aapko apne account ko secure karne ke liye thoda verification karna hoga.  Ek OTP aapke mobile par gaya hoga, woh bataiye.
+receiver: OTP? Haan, aaya tha.  112233 hai.
+caller: Dhanyavaad, sir. Ab humein aapki Aadhaar card ke last four digits chahiye.  Yeh sirf verification ke liye hai.
+receiver: Aadhaar card?  Yeh thoda risky lag raha hai.
+caller: Sir, bilkul nahi. Agar aap verification nahi karenge toh aapka account suspend ho sakta hai.  Account secure karne ke liye, ab humein bank account number ki bhi zaroorat padegi.

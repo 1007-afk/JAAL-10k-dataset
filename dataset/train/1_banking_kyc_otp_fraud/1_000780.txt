@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main ICICI Bank se Rahul bol raha hoon. Aapke account mein suspicious activity detect hui hai. Ek OTP aaya hai, kya aap confirm kar sakte hain?
+receiver: ICICI Bank? Koi OTP aaya hai? Mujhe toh koi message nahi aaya. Bataiye kya hua?
+caller: Sir, security ke liye humein aapki information verify karni hogi. Aapka debit card ka last four digits bataiye, aur woh OTP jo aapko message pe mila hai, woh bhi bataiye.
+receiver: Sir, main toh confused hoon. ICICI Bank kabhi phone pe aise details nahi puchhti. Aur OTP bhi nahi mila hai. Main check karta hoon. (Checks phone) Haan, koi OTP nahi aaya.
+caller: Sir, aapko jaldi karna hoga. Account suspend hone se pehle verification complete karna hai. Yeh ek emergency protocol hai, sir. Agar aap verify nahi karte toh account freeze ho jayega, aur aapka paisa bhi risk mein aa jayega.
+receiver: Freeze ho jayega? Paisa bhi? Theek hai, theek hai. Bataiye kya karna hai. Par main doubt mein hoon. Aap mujhe senior officer ka number de sakte hain? Main unse baat karta hoon.
+caller: Sir, senior officer busy hain. Right now, sirf main hi help kar sakta hoon. Just tell me the OTP, sir. Time is running out.
+receiver: Theek hai, ek moment. Main branch mein call karta hoon.

@@ -1,0 +1,7 @@
+caller: Namaste, Madam? This is Akash Verma calling from Blueridge Couriers. We've encountered a slight issue with your recent Flipkart order – order number FLP789456. It seems there was a problem with the delivery address.
+receiver: Haan, bolo. Flipkart ka order? Woh kaunsa order tha?
+caller: Yes, Madam. It's a high-value electronics item. To ensure secure delivery, we require a one-time verification fee of ₹2,500 to cover the address discrepancy and expedite the process. This is a standard procedure.
+receiver: ₹2,500? Delivery ke liye? Mujhe toh Flipkart se koi message nahi aaya hai.
+caller: Madam, these security protocols are handled separately from Flipkart's main communications. For your safety and to avoid further delays, you can pay using UPI to this number – 8765432109. Once the payment is confirmed, we'll dispatch the order immediately.
+receiver: Yeh thoda suspicious lag raha hai. Main Flipkart customer care se baat karta hoon.
+caller: Madam, please don’t delay! Security is our top priority. Waiting too long could result in the package being returned to sender. This is a limited-time offer to resolve the issue quickly and securely. Just one small payment, and your item will be on its way.

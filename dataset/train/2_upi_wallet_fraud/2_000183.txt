@@ -1,0 +1,7 @@
+caller: Namaste sir, mai Paytm customer care se bol raha hoon. Aapke Paytm wallet mein cashback offer chala hai. Aapko ₹500 cashback mil sakta hai.
+receiver: ₹500 cashback? Kaise? Mujhe koi notification nahi mila.
+caller: Haan sir, ye ek special offer hai Paytm users ke liye. Cashback claim karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Verification? Kya karna hoga? Mere ko kuch samajh nahi aa raha hai.
+caller: Sir, bas aapko apne Paytm wallet se ₹200 ek special OTP number pe send karne ke hoga. Verification hone ke baad, ₹500 cashback aapke wallet mein add ho jayega. OTP number hai 7890123456.
+receiver: ₹200 send karna hai? Aur OTP number bhi? Ye thoda suspicious lag raha hai. Mai Paytm app mein check karta hoon. Wait karun.
+caller: Sir, time barbaad na karein. Offer limited time ke liye hai. ₹200 send kar dijiye aur cashback claim kar lijiye. Sir, aapko ₹500 ka loss hoga agar aap abhi nahi karte.

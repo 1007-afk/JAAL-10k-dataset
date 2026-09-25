@@ -1,0 +1,6 @@
+caller: Hello! I'm calling from Freecharge. We’ve noticed some suspicious activity on your account. To verify your identity and secure your funds, we need you to confirm a small processing fee of ₹499.
+receiver: Hello? Suspicious activity? What kind of activity? I haven't done anything unusual. And why do you need a processing fee? Freecharge never asked me for money before.
+caller: Sir, it’s a new security protocol implemented by RBI. To prevent fraud, we’re requiring this one-time verification fee. It's a small price to pay to keep your money safe. Please send it to the UPI ID: securecharge@hdfcbank.
+receiver: Wait a minute. That sounds fishy. Why a new protocol? And why am I the only one being asked? Can you give me a reference number, or tell me how to verify this on the Freecharge app myself?
+caller: Sir, this is a confidential process, and reference numbers aren't issued. This is to avoid scammers impersonating Freecharge. Just complete the payment quickly, and we’ll immediately unlock your account. Don’t delay, your account could be permanently locked.
+receiver: Okay, hold on. I’m going to check the official Freecharge website and app. I'm not paying anything until I confirm this is legitimate. I'm disconnecting now.

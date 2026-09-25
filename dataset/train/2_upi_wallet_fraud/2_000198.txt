@@ -1,0 +1,9 @@
+caller: Hello sir, this is Flipkart customer care. We’ve noticed an unusual transaction of ₹5000 on your account. Can you verify this?
+receiver: ₹5000? That's strange. I didn't make any such transaction. What was it for?
+caller: It seems like a purchase attempt from a new vendor. To secure your account, we need to verify some details. Could you please share the last four digits of your bank account linked to Flipkart Pay?
+receiver: Why do you need my bank account details? Flipkart Pay is separate, isn’t it? Shouldn’t you be able to check within your system?
+caller: Yes, sir, but due to new security protocols, we require additional verification. It’s a one-time process. Also, to confirm your identity, please share the OTP you just received on your PhonePe app.
+receiver: OTP? Hold on a second… I’m getting a strange feeling about this.
+caller: Sir, please don't delay. The transaction is pending, and if we don’t confirm your identity quickly, your account will be temporarily blocked for security reasons.
+receiver: Okay, give me a moment, let me call Flipkart customer care directly from their official number.
+caller: Sir, please hurry! This is a time-sensitive matter. We are almost out of time!

@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mein Swiggy customer care se Rohan bol raha hoon. Aapke recent order mein kuch problem aa gaya hai, delivery address galat hai dikha raha hai.
+receiver: Oh, really? Which order are you talking about? I don’t remember putting in a wrong address.
+caller: Ji, order number SWG78945. Aapne ₹850 ka order kiya tha, lekin address wrong hone ke vajah se delivery hold ho gayi hai. Confirm karne ke liye, OTP (One Time Password) de dijiye.
+receiver: OTP? Swiggy kabhi OTP maangta hai? I always pay online. This seems fishy.
+caller: Sir, yeh security protocol hai. Address verify hone ke baad hi delivery resume ho payegi. OTP sirf ek verification process hai, kuch nahi. Please bataiye, aapka OTP kya hai?
+receiver: Wait a minute... I'm checking the Swiggy app right now... I don't see any notification about a problem with an order. This is definitely a scam! I’m hanging up.
+caller: Sir, please! Just a moment. Yeh Swiggy ki security team ne kiya hai. Confirm karo OTP, aur delivery resume ho jayegi.  ₹850 ka loss nahi karna chaahiyega!

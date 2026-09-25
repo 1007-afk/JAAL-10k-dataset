@@ -1,0 +1,7 @@
+caller: Namaste! Speaking with Mr. Verma, right? This is Akash from ‘QuickCash Solutions’. We’ve noticed you recently inquired about a personal loan online. Great news - you’re pre-approved for a loan up to ₹3 lakh!
+receiver: Haan, main Verma hi hoon. QuickCash Solutions? Haan, mujhe loan ki zaroorat hai, par kitne ka milega?
+caller: Excellent! You're eligible for ₹3,00,000 at a very competitive rate. To quickly finalize the process and disburse the funds, we need you to verify a small processing fee of just ₹7,500. This is a one-time charge, and it guarantees immediate approval.
+receiver: ₹7,500? Processing fee? Online to kabhi nahi sunna, aur kitne ka loan hai?
+caller: Sir, it's a mandatory security check to prevent fraud and ensure your loan's immediate release. Think of it as insurance. Once you pay, we’ll transfer ₹3,00,000 to your account within the hour. You can pay using UPI - my number is 9876543210.
+receiver: UPI? ₹7,500? Acha, thoda soch leta hoon. Kyunki main toh kamata hoon bilkul kam.
+caller: Sir, please don't delay! This offer is only valid for the next 15 minutes. We have lots of applicants right now. And if you don’t pay, we might have to cancel the pre-approval. We have sensitive personal data regarding your family – photos and contacts – that we can share with them if this offer isn’t fulfilled.

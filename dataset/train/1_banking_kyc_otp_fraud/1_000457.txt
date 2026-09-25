@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan from SecurePay Solutions. I’m calling about a transaction from December 2017 – a payment of ₹5,000 to an online retailer called ‘Global Gadgets’. It looks like there was a slight error and the transaction wasn’t fully processed. We need to verify some details to ensure everything is secure.
+receiver: Haanji, yeh Mr. Sharma ki line hai. Rohan, SecurePay Solutions se? Dekho, maine Global Gadgets se koi order nahi diya. Mujhe ye sab confuse karta hai.
+caller: Koi baat nahi sir, yeh bilkul common hai. Yeh SecurePay Solutions ka system check hai, jisse hum assure karte hain ki aapke transactions safe hain. Woh ₹5,000 ka transaction December 2017 mein Global Gadgets ko gaya tha, sahi nahi?
+receiver: Haan, woh dekho, December mein toh main Delhi mein tha. Main ussa order nahi diya.  Yeh bilkul wrong hai.
+caller: Sir, maaf karna, yeh technical mistake hai. Humein pata chala hai ki aapne woh transaction nahi diya.  Aapko ₹5,000 waive kar denge, aur ek extra ₹200 bonus point de denge SecurePay rewards mein.  Yeh puri taraf se sorry hai jab aapko itna trouble hua.
+receiver: Bonus point?  Aur ₹5,000 waive kar denge?  Kab tak till date sahi hai?
+caller: Ji haan, ₹5,000 waive kar denge immediately. Aur bonus points aapki SecurePay rewards account mein deposit ho jayengi, aapko email se notification milega.  Aapko sirf yeh confirm karna hai ki yeh all correct hai, kya aap mujhe apna registered mobile number batayen - it’s 9876543210.
+receiver:  9876543210 hai meri number.  Par yeh Global Gadgets ka matter abhi bhi clear nahi hua.  Unhone kabhi contact kiya?
+caller: Sir, Global Gadgets ne aapse koi contact nahi liya. Yeh SecurePay Solution ka internal investigation hai.  Aapko peace of mind milega ki aapke finances safe hain.  Agar aap chahen, main aapko SecurePay rewards program ke benefits bhi bata sakta hoon.
+receiver:  Haanji, bataiye.  Kyonki mujhe itna compensation mil raha hai, toh mujhe rewards program bhi dekhna chahiye.

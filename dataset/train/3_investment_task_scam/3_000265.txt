@@ -1,0 +1,12 @@
+caller: Namaste! Suno, aapse baat kar raha hoon 'Happy Travels' se Ajay. Kaise ho bhai?
+receiver: Namaste Ajay ji. Main theek hoon, aap kaise hain?
+caller: Achcha hua! Main aapko ek bahut hi achhi deal batawana chahunga. Maine suna hai aap Delhi mein shaadi karwa rahe hain!
+receiver: Haan, isshaar ka shaadi ka plan hai. Kya?
+caller: Toh, hum ne 'Golden Memories Tour' launch kiya hai – Rajasthan ke rajasthani villages mein picnic! Ek week ka trip, sab milati hai - transport, food, accommodation, aur ₹5000 ka gift voucher!
+receiver: Rajasthan mein picnic? Woh kitni door hai? Aur ₹5000 ka gift voucher?
+caller: Woh to bahut pahale hi mil jayega, bhai! Yeh offer sirf 7 days ke liye chalega, aur hum ne sirf 50 logon ke liye booking open ki hai. Hamara hotel Jaipur ke centre mein hai, Riddhi Patel ke paas.
+receiver: Jaipur? Riddhi Patel ke paas? Hmm... ₹5000 ka voucher toh acha hai. Par mujhe jitni distance hogi, utna bother karna padega. Kya hum train se ja sakte hain? Aur hotel mein internet available hai kya?
+caller: Train se ja sakte ho, bhai! Hotel mein WiFi hai, aur hum aapko free breakfast bhi denge. Lekin bhai, yeh offer bahut hi special hai, aur humne booking start kar di hai. Aapko jaldi decide karna hoga!
+receiver: Jaldi decide karna hoga? Okay, okay. Mujhe thoda time chahiye. Aap mujhe tomorrow evening till 6 PM tak confirm kar sakte hain? Aur hotel ka address detahein, phir main decide karta hoon.
+caller: Theek hai, bhai. Tomorrow evening 6 PM tak confirm karenge.  Hotel ka address aapko mail kar dunga.  Shubh Bhav!
+receiver: Shubh Bhav Ajay ji!

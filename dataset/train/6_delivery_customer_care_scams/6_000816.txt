@@ -1,0 +1,11 @@
+caller: Namaste! Main Akash Sharma, Amazon Customer Care se baat kar raha hoon. Aapke naam par ek package aaya hai, lekin delivery address mein kuch confusion hai.
+receiver: Amazon? Kya confusion hai? Mujhe toh koi package expect nahi hai.
+caller: Haan, sir. Package number is AZ789456. Yeh ek smart TV hai, aur delivery address hai… (pauses) … Lucknow mein, hai na?
+receiver: Lucknow? Nahin, sir, mera address Mumbai mein hai. Main toh kabhi smart TV order bhi nahi kiya.
+caller: Hmm, technical error hoga. Chaliye, main isko fix karta hoon. Sirf verification ke liye, aapka OTP share kar sakte hain?
+receiver: OTP? Nahin, main OTP share nahi karungi. Yeh kuch ghalat lag raha hai. Amazon kabhi OTP maangta hi nahi.
+caller: Sir, please understand. Yeh security protocol hai. Agar OTP nahi dege, toh package return ho jayega aur aapka ₹7,500 ka loss hoga. Jaldi kijiye sir!
+receiver: ₹7,500? Nahin, main koi package nahi order kiya hai. Main police mein report karungi agar aap mujhe disturb karte rahe.
+caller: Sir, please don't escalate the matter. Let's resolve this amicably. Just a simple OTP, sir.
+receiver: Nahi, main kuch bhi share nahi karungi. Goodbye.
+caller: Sir, aapko maaf karna. Last chance! Is package ko secure rakhne ke liye, aapko ₹500 ka security deposit dehna padega. UPI ID dedo, sir!

@@ -1,0 +1,7 @@
+caller: Namaste, is this Ms. Priya Verma? I'm calling from Axis Bank’s KYC compliance department. We’ve noticed some discrepancies in your account details, and we need to urgently update your information to avoid account suspension.
+receiver: KYC update? What discrepancies? I haven't done anything unusual.
+caller: Yes, ma’am. The system shows an address mismatch. To rectify this and prevent temporary freezing of your account, we need to verify a few details. Could you please provide your Aadhaar number for verification?
+receiver: My Aadhaar number? That seems a bit risky to share over the phone. Can’t this be done online?
+caller: Ma'am, due to recent security protocols, this verification is mandatory and must be done over the phone. We also need a one-time password that we'll send to your registered mobile number to complete the process and ensure the security of your account.
+receiver: Okay, let me check my messages… Got it. The OTP is 987654.
+caller: Thank you, Ms. Verma. Just one last step. For extra security, we'll send you a link via WhatsApp to a secure portal where you can confirm your banking details. Please be aware this portal requires a small payment of ₹500 as a processing fee. This amount will be refunded immediately after verification.

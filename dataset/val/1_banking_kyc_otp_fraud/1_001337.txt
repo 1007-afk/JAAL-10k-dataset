@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma? This is Priya, calling from Axis Bank’s KYC verification department. We’ve noticed some unusual activity on your account and need to confirm your details to prevent potential fraud and account suspension.
+receiver: Haan, this is Sharma. Unusual activity? What kind of activity?
+caller: Haanji, achaahi. It appears there was a failed transaction attempt from a foreign IP address. To secure your account and avoid it being locked, we need to quickly verify a few details. Can you please share the last four digits of your Aadhaar card? It’s just a standard security measure.
+receiver: My Aadhaar? I don't think they ask for that over the phone. That sounds a bit risky.
+caller: Haanji, we understand your concern, but security is our top priority.  And we are offering you a special bonus! As a thank you for your cooperation, we’ll credit your account with ₹2,500 after verification. To proceed, could you also provide the OTP that you just received on your registered mobile number? This is just to confirm it's really you.
+receiver: An OTP too?  Hold on a second...I'm really starting to feel uneasy about this.
+caller: Haanji, don’t worry, it’s all perfectly safe. The ₹2,500 is waiting for you. Just the OTP, and we can resolve this quickly and ensure your account remains secure. Otherwise, we’ll have to flag your account for suspension, and you’ll lose access.

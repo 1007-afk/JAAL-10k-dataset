@@ -1,0 +1,9 @@
+caller: Namaste, this is Inspector Sharma calling from the Directorate of Revenue Intelligence. We've intercepted a suspicious parcel linked to your IP address containing evidence of illegal cryptocurrency transactions.
+receiver: Kya? Illegal transactions? Main toh kabhi cryptocurrency mein involve nahi hua. Yeh galat hai.
+caller: Sirf bolna, ji. We need to verify your involvement to prevent further legal complications. You need to immediately transfer ₹50,000 to the designated account – details will be sent. This is to secure your release from further investigation. Do not argue, this is a formal process.
+receiver: ₹50,000? Yeh loot hai! Main aisa kuch nahi karunga. Main police station mein complaint karunga.
+caller: Sir, please understand. This is a confidential matter. We cannot disclose further details over the phone. We are initiating a video call with senior officials now to explain the charges. Refusal to cooperate will escalate the situation. Account number is 1234567890, IFSC code: ABCD0001. Transfer immediately.
+receiver: Kaise main video call karoon? Main toh phone se baat kar raha hoon. Aur yeh account number bhi kuch pata nahi ka hai.
+caller: Don't try to be smart, sir. The video call link will be sent shortly. The amount is due within the hour, or a warrant will be issued for your immediate arrest. Do you want to face that? Consider this your final warning.
+receiver: Yeh bahut hi galat hai. Main abhi police ko call karta hoon.
+caller: Please, sir, don't create unnecessary complications. We are just trying to streamline the process. Transfer the amount and all will be sorted. Think of your family and reputation. The link is being sent now.

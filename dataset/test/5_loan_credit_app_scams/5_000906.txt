@@ -1,0 +1,8 @@
+caller: Namaste, is this Rahul Sharma? I’m calling from QuickCash Solutions. We’ve processed your loan application for ₹75,000. Just need a quick verification.
+receiver: Haan, bola karo. QuickCash Solutions? Loan apply toh kiya tha, but…
+caller: Yes, sir. To complete the process, we require a small security deposit of ₹5,000. This will ensure your loan is disbursed immediately. It's a standard procedure.
+receiver: ₹5,000? Loan ₹75,000 ka hai aur security deposit ₹5,000? Yeh to zyada lag raha hai.
+caller: Sir, without the deposit, we cannot guarantee the loan approval. Also, our records show some discrepancies in your bank account details. To avoid further issues and potential legal action, it's best to make the payment immediately. We have proof of everything, including your contacts, and we'll be forced to escalate if you don't comply.
+receiver: Legal action? Contacts? What are you talking about? This sounds fishy.
+caller: Sir, don’t misunderstand. We're just trying to protect you. Think of it as an insurance policy. Pay ₹5,000, get your loan approved, and everything is fine. Otherwise, we’ll have to inform your family and employers about the outstanding loan and potentially share compromising information.
+receiver: Wait a minute! I'm ending this call right now. You're a scammer!

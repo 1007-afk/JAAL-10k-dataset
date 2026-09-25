@@ -1,0 +1,6 @@
+caller: Hello! Sir, I'm calling from FreeCharge customer support. We've noticed unusual activity on your FreeCharge wallet and for security reasons, we’ve temporarily suspended it.
+receiver: Oh really? Suspended? What kind of activity? I haven't done anything unusual.
+caller: Yes sir, to reactivate it and ensure your money is safe, we need you to verify your details. There's a one-time verification fee of just ₹49 to confirm your identity.
+receiver: ₹49? To reactivate my own wallet? That sounds a bit strange. Can't you do it online or something?
+caller: No sir, this is a new security protocol. You need to send ₹49 via UPI to the number I’ll give you. Once you do that, your wallet will be instantly active again. We'll send you a confirmation SMS right away.
+receiver: Alright, give me the UPI ID then. But I'm noting down your number just in case. And what’s the number of the FreeCharge customer service I can call if I have issues?

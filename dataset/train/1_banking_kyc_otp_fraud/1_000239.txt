@@ -1,0 +1,12 @@
+caller: Hello? Hello? Can you hear me properly? I am calling because we have identified a small unclaimed sum belonging to your grandfather, Rajesh Kumar. It’s a very important matter.
+receiver: Hello? Yes, I can hear you. Unclaimed sum? My grandfather? What is this about?
+caller: Haanji, bilkul! We found his account at Axis Bank, branch in Delhi, account number 1234567890. There was a deposit made ten years ago that hasn't been withdrawn. A significant amount, approximately ₹5 lakhs. We need to transfer it to a secure account for you.
+receiver: ₹5 lakhs? From my grandfather’s bank account? That's surprising! Let me think about this for a moment. What do you need from me exactly?
+caller: Bas, aapko ek OTP chahiye. And then we will initiate the process. It’s just a standard procedure to verify your identity. This is a legitimate claim, [Receiver’s Name]. Don't worry, everything is completely safe.
+receiver: Okay, okay. An OTP first. But what kind of security measures are in place? How do you know this is really my grandfather's account?
+caller: Haanji, bilkul! We have cross-referenced the information with multiple sources. Also, we have sent an email to the bank regarding this transaction. They are assisting us in verifying everything.  Your address is Sharma House, Sector 12, Noida, correct?
+receiver: Sharma House, Sector 12, Noida. Yes, that’s correct. And the email address is rajesh.sharma@email.com?
+caller: Haanji, bilkul! Exactly! Now, please provide your mobile number so we can send you the OTP. It's crucial for completing this transfer.
+receiver: My number is 9876543210. Send it immediately.
+caller: Perfect! Sending now… You will receive it within a minute. Please enter the OTP carefully when prompted.  Is there anything else you want to ask?
+receiver: No, nothing more for now. Just send the OTP. Thank you.

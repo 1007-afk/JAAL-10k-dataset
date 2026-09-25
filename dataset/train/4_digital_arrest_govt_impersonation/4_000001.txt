@@ -1,0 +1,22 @@
+caller: Namaste! Is this Mr. Sharma residing at house number 123, Sector 5? I’m calling from a government agency regarding an important matter concerning your tax returns. We’ve identified a minor discrepancy and need to verify some information.
+receiver: Haan, woh main hi hoon. Main Mr. Sharma, house number 123, Sector 5 mein rehta hoon. Kya problem hai?
+caller: Absolutely! Due to a system update, we require you to confirm your bank account details. It's a standard procedure for all taxpayers, sir. Please provide the last four digits of your account number. This will help us expedite the process.
+receiver: Last four digits? Okay, woh 6789 hain.
+caller: Excellent! Thank you. Now, we also need to confirm your address. Could you please repeat your full postal address, including pin code?  We want to ensure accuracy and avoid any delays. There are currently high volumes of calls being processed, so cooperation is greatly appreciated.
+receiver: My address is 123, Sector 5, Delhi, 110019.
+caller: Wonderful! Just one moment while I input that data...  Sir, there’s a small fee of ₹500 to cover processing charges. This is mandatory for verification purposes. Don't worry, it will be deducted automatically.
+receiver: Fee? ₹500? Seriously? Why?
+caller: It's a new regulation introduced by the Income Tax Department, sir. It's required for secure online verification.  Only 3 more slots are available, so hurry up!
+receiver: But why didn’t they tell me about this beforehand?
+caller: Details were sent to your registered email address, but perhaps it went unnoticed.  Please provide your email address so I can resend the notification. It's crucial that we complete this verification promptly.
+receiver: My email is sharma.ravi@gmail.com. Send it again please.
+caller:  Okay, sending now...  Just confirm your mobile number too, sir – it's vital for updates. It’s 9876543210.
+caller: Hello! Is this the lucky individual associated with the number ending in 789? I've got some absolutely fantastic news for you today! It seems you've been chosen for a very special surprise. To find out what it is, you just need to visit a website. It's a simple step, and I promise, it's worth your while. Are you ready to hear more?
+receiver: Haan, woh main hi hoon. Number 789 wala. Kya news hai? Website ka naam bataiye?
+caller: Bahut badhiya! Aapka number 0789xxxxxxx, hai na? Toh suniye, aaj aapka din hai! Aapne ek fantastic surprise jeeta hai! Iske baare mein details janne ke liye, aapko sirf http://www.urawinner.com pe jaana hai. Wahan aapko ek bohot bada surprise milega! Sirf 4 aur lucky winners hain, toh jaldi kijiye!
+receiver: Urawinner.com? Achha, main abhi check karta hoon. Thanks for the news! Hope it's something really good.
+caller: Hello? Aapne check kiya website? Did you see the surprise? It's something truly amazing! We're only down to 3 more lucky winners, so you're super fortunate to have gotten this chance. What did you find on the site?
+receiver: Hello? Haan, main abhi abhi dekh raha tha. Website pe toh bas kuch ek form aa raha hai bhara hua. Koi surprise dikh toh nahi raha. Aap bataiye, kya hai woh actually? Maine toh bas woh 'click here for your prize' button dabaya tha.
+caller: Arre, woh form toh bas confirmation ke liye hai! Aapne sahi button dabaya hai, congratulations! Aapne jeeta hai ek FREE smartphone! Bas, us form mein apna address detail fill kar dijiye, aur hamari delivery team usse aap tak pahuncha degi. Sirf 2 aur winners bache hain, so you're one of the very few lucky ones!
+receiver: Free smartphone? Waah, yeh toh sach mein kamaal ki baat hai! Address fill karna hai? Theek hai, main dekh leta hoon. Aap bataiye, yeh delivery kab tak ho jayegi? Aur kya koi special delivery charge wagera hai?
+caller: Namaste! Is this Mr. Sharma residing at house number 123, Sector 5? I’m calling from a government agency

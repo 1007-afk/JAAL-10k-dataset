@@ -1,0 +1,11 @@
+caller: Namaste! Main Indian Customs Department se baat kar raha hoon. Aapke naam par ek parcel aaya hai Bangkok se, aur usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kabhi Bangkok se kuch order nahi kiya.
+caller: Ma’am/Sir, system mein record hai ki parcel aapke address par register kiya gaya tha. Is parcel mein suspicious substances hain jo drug trafficking se related ho sakte hain.
+receiver: Yeh galat hai. Mujhe yeh parcel nahi mila hai. Main police mein report daalungi agar aapko koi proof hai.
+caller: Ma’am/Sir, police mein report daalna aapki baat ka waste hai. Humko parcel ko release karne ke liye ₹15,000 ka fine chahiye. Agar aap payment nahi karte hain, toh humko majbur karna padega ki aapko arrest karwaa dein. Humko aapko video call pe bhi connect karna padega taaki aapko pata chale ki hum serious hain.
+receiver: ₹15,000? Arrest? Mainko call pe connect karvao, main apne lawyer se baat karti hoon.
+caller: Ma’am/Sir, lawyer se baat karne se koi fayda nahi hoga. Humko ₹15,000 ki payment UPI ke zariye urgent chahiye. Iske baad hum parcel release kar denge aur arrest warrant bhi cancel ho jayega. Time bahut kam hai.
+receiver: Payment ka proof do, ya koi official document dikhao.
+caller: Ma’am/Sir, security ke liye hum koi document nahi dikha sakte. Payment karte hi aapko parcel mil jayega aur arrest warrant bhi cancel ho jayega. Please hurry.
+receiver: Main koi payment nahi karungi. Tumhara call fraud hai. Main cyber cell ko complaint karungi.
+caller: Ma’am/Sir, aapko

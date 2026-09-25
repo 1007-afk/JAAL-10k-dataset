@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Verma? This is regarding a parcel registered to your name with Blueridge Logistics. There's been an unusual hold on the delivery due to a suspected payment discrepancy.
+receiver: Kya? Payment discrepancy? Mein toh kuch order kiya nahi hai.
+caller: Haan ji, Mrs. Verma. Our system shows a transaction for ₹7,890 linked to your card for this shipment. To release the parcel and prevent it from being returned to sender, we need to verify your card details and a one-time password sent to your registered mobile number.
+receiver: ₹7,890?  Yeh toh bahut paisa hai! Aur mujhe koi parcel yaad nahi.  Koi OTP mat bhejo.
+caller: Mrs. Verma, security is our priority. We just need to confirm your identity.  The parcel contains some important documents - we cannot risk sending them back. Please provide the OTP so we can process the release immediately.  Our reference number is BRG45892.
+receiver:  Important documents?  Mein toh kuch bhi nahi order kiya. Yeh kuch gadbad lag rahi hai. Blueridge Logistics se direct baat karungi.
+caller: Mrs. Verma, direct contact is difficult as our lines are very busy.  Delaying the verification process will unfortunately result in the parcel being returned and you incurring a ₹500 handling fee. Please cooperate, it will only take a minute.
+receiver: ₹500 fee bhi?  Ab toh pakka scam hai. Main police mein report karungi.
+caller: Mrs. Verma, please don’t jump to conclusions.  We’re simply trying to resolve this quickly. As a final offer, if you provide the OTP now, we will waive the ₹500 fee AND expedite the delivery. This is a one-time opportunity!

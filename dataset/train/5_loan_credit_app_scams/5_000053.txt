@@ -1,0 +1,7 @@
+caller: Hello, this is Deepak from CreditWave. We've processed your loan application and it’s almost approved! Just need to verify a few details. Can you confirm your full name and address?
+receiver: Yes, it’s Anjali Verma, and my address is 123 Gandhi Nagar, Patna. Is this about the ₹10,000 loan I applied for?
+caller: Correct, Anjali ji. Wonderful! To activate the loan and prevent fraud, we require a small processing fee of ₹750. It will be credited back to your account once the loan is disbursed. You can transfer it to the UPI ID: swiftloan.pay.
+receiver: ₹750? The application didn't mention a fee. And this UPI ID looks a bit strange.
+caller: Ma'am, it’s a standard security procedure. Many people are trying to misuse these quick loan offers. Without it, your loan will be rejected. It's just to ensure your safety. Please hurry, the offer is valid for only one hour.
+receiver: Okay, fine. I'll transfer it. Let me do that now… Alright, done. The transaction is complete.
+caller: Excellent! Just one more quick verification... For security purposes, could you please share the last four digits of your ATM card and the expiry date? It's a mandatory step before we can finalize the disbursement.

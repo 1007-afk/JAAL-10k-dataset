@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Verma? This is Ankit Sharma calling from Freecharge Payments. We’ve noticed a pending cashback refund of ₹750 in your Freecharge wallet from a previous transaction.
+receiver: Freecharge? Haan, mein Verma hi hoon. ₹750 cashback? Mujhe toh koi notification nahi aaya.
+caller: Sir, the system automatically processes these refunds. However, for security reasons, we need to verify a few details before releasing the amount. It's a standard procedure. Can you please confirm the last three digits of the bank account linked to your Freecharge wallet?
+receiver: Bank account number? Freecharge mein bank account number batauna hai? Yeh thoda garal hai, sir. Mein thoda doubt kar raha hoon.
+caller: Sir, it's just a verification to ensure the refund goes to the correct account. This is a common security protocol, especially for larger refunds. To expedite the process, we can also offer you an additional ₹100 cashback if you complete the verification now. A total of ₹850 in your wallet!
+receiver: ₹850? Okay, that’s tempting. Par, kaise verify karna hai? OTP milega kya?
+caller: Exactly, sir! We'll send a one-time password to your registered mobile number. Just read it out to me, and the ₹850 will be credited to your wallet instantly. It’s a quick and simple process.
+receiver: Theek hai, bhijwado OTP. Mera number [Mobile Number Invented, e.g., 9876543210] hai.
+caller: Excellent, Mr. Verma! The OTP has been sent. Please read it out when you receive it.

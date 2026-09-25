@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Sharma, Paytm se call kar raha hoon. Aapke Paytm wallet mein cashback offer aa gayi hai. Aapko ₹5000 ka cashback milega, sirf ek chota verification process complete karna hai.
+receiver: ₹5000 cashback? Kaise? Main toh kuch offer ke bare mein nahi sun raha tha.
+caller: Haan ji, ye ek special offer hai sirf select users ke liye. Verification ke liye, humein aapke wallet se ₹50 ka processing fee lena padega. ₹50 bahut kam hai, aur cashback ₹5000 milega!
+receiver: ₹50 fee? Paytm app mein toh kuch dikh nahi raha hai. Aur main kabhi bhi Paytm se aise calls nahi pata.
+caller: Sir, ye automatic process hai, app mein nahi dikhega. Aapko sirf ek OTP dena hai jo aapke registered mobile number par aayega. OTP se hum verify karenge ki aap genuine user hain.
+receiver: OTP? Yeh bahut suspicious lag raha hai. Main aapko koi bhi OTP nahi dene wala. Main khud Paytm app mein check karta hoon.
+caller: Sir, please, time barbaad mat karein. ₹50 fee dene se aap ₹5000 ka cashback pa sakte hain! Offer limited time ke liye hai, aaj hi complete karein!
+receiver: Nahi, main nahi karunga. Aapka call ek scam hai. Main police mein report karunga.

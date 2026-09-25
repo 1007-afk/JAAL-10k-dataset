@@ -1,0 +1,6 @@
+caller: Hello sir, calling from Paytm customer care. We've noticed some unusual activity on your account. For security reasons, we need to verify a small transaction of ₹500 to ensure it wasn’t fraudulent.
+receiver: Paytm? Really? I didn't initiate any unusual activity. What transaction are you talking about? And why do you need to send money to verify?
+caller: Sir, it’s a standard verification process. We’ll send ₹500 to a secure Paytm verification account, and once it clears, your account will be fully secured. Just give me your UPI ID and I'll send the request.
+receiver: Wait a minute. I've never heard of this verification process before. Paytm usually sends OTPs, not asks for a transaction. This seems really suspicious.
+caller: Sir, this is a new security protocol we’re implementing. OTPs are easily intercepted. This is more secure. Just trust us, sir. Think of it as protecting your hard-earned money. Quickly send ₹500 so we can secure your account before something worse happens.
+receiver: No, thank you. I’m not comfortable with this. I'm going to report this to Paytm directly through their official website. Goodbye.

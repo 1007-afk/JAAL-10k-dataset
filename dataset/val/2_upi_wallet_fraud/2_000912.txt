@@ -1,0 +1,8 @@
+caller: Namaste, main Ankit Sharma, BharatPay se bol raha hoon. Aapke BharatPay wallet mein ek suspicious transaction attempt kiya gaya hai. ₹200 ka attempt hua hai ek unknown website par.
+receiver: Hello? BharatPay se? ₹200 ka attempt? Woh kya website thi? Mujhe toh koi idea nahi hai.
+caller: Sir, yeh ek gaming website hai, 'RoyalWins'. Humara system ne detect kiya hai. Isko block karne ke liye, aapko bas apna wallet OTP verify karna hai, aur ek small security fee deposit karna hai.
+receiver: Security fee? Kitna fee hai? Aur mujhe koi website ke bare mein bataiye. RoyalWins? Main toh kabhi sunta hi nahi.
+caller: Sir, ₹50 ka fee hai, sirf account secure karne ke liye. ₹50 viyah BharatPay UPI ID par transfer karein: secureBharatPay@upi. Jab OTP verify ho jayega aur fee deposit ho jayegi, toh hum aapka account immediately secure kar denge.
+receiver: ₹50? Aur UPI ID? Sir, yeh toh thoda suspicious lag raha hai. BharatPay app se hi confirmation nahi mil sakta?
+caller: Sir, app mein technical issue hai, is time ke liye. Isliye hum UPI transfer se process kar rahe hain. ₹50 transfer karo aur OTP share karo, aur aapka account safe rahega. Please jaldi karo, system automatically 2 ghante mein account block kar dega.
+receiver: Account block? Thoda wait toh karta hoon, main BharatPay customer care se baat karta hoon.

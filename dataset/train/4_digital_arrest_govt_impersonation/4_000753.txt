@@ -1,0 +1,8 @@
+caller: Hello? Main Inspector Rajan, Income Tax Department se bol raha hoon. Aapko ek urgent matter mein madad chahiye hogi.
+receiver: Income Tax? Kya hua? Mujhe koi notice ya kuch nahi mila.
+caller: Dekhiye, aapke naam par ek account se illegal transactions ho rahe hain. Hai ek cryptocurrency related matter. Aapko is baare mein aage ki jankari ke liye hamare helpline number par call karna hoga - 9789012345. Jaldi karein, otherwise legal action lena pad sakta hai.
+receiver: Cryptocurrency? Lekin main toh kabhi cryptocurrency nahi kiya. Ye sab fraud hai! Aapko kaise pata ki mere account se kuch hua?
+caller: Humare system mein records hain, madam. Aapko helpline number par call karke details verify karna hoga. Wahaan aapko ek small amount deposit karni padegi security ke liye. Sirf ₹5000. Phir sab clear ho jayega.
+receiver: ₹5000? Aur hamara system records maintain karta hai, lekin mujhe sahi jankari bhi nahi de sakta? Aur cryptocurrency ka matter? Main police mein complaint karungi, fraud ho tum!
+caller: Madam, please! Yeh ek sensitive matter hai.  ₹5000 ka deposit karva do, tab hum aapko details bata sakte hain. Time kharab ho raha hai, aur aap legal action lene ki baat kar rahi hain. Isse better hai agar aap cooperate karein.
+receiver: Cooperate? Tumse main kabhi bhi cooperate nahi karungi. Tumhara phone cut kar rahi hoon.

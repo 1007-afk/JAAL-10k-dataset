@@ -1,0 +1,11 @@
+caller: Namaste, sir? Yeh Indian Customs se baat kar raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par rukaa hua hai.
+receiver: Customs? Kya baat hai? Parcel mera hi hai?
+caller: Haan sir, lekin parcel mein kuch suspicious items milaye gaye hain. Drugs ke sandeghat hai.
+receiver: Drugs? Lekin main toh kabhi drugs nahi leta! Yeh ek galti hai.
+caller: Sir, legal process start ho chuki hai. Aapko Rs. 15,000 fine bhar ke case clear karwa sakte hain. Otherwise, case register hoga aur aapko arrest bhi kiya jayega.
+receiver: Rs. 15,000? Itna jyada? Main bank transfer kar sakta hoon?
+caller: Haan sir, ek account number deta hoon. Aap immediately transfer karein.  Main aapko video call par rakhunga taaki aapko koi shak na ho aur aapko kuch bhi khali karne ki zarurat nahi hai. Account number hai 1234567890, SBI mein.
+receiver: Theek hai, mein transfer kar deta hoon. Par agar arrest hua toh mein kisko phone karunga?
+caller: Sir, aapko arrest nahi hoga, agar aapko fine bhar diyein.  Main aapko customer support number bhi deta hoon, 9000000000. Abhi transfer complete karne ke baad mujhe confirm karein.
+receiver: Okay, transfer ho gaya hai.  Check kardein.
+caller: Excellent sir! Aapka cooperation bahut important tha.  Aapka parcel ab release ho jayega.  Koi fursat mein humse contact kar sakte hain.

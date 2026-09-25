@@ -1,0 +1,9 @@
+caller: Namaste! Ap sabhi ko Diwali ke naman! Main Bharat Tech Solutions se baat kar raha hu. Humare system ne aapko Diwali ke liye ek special offer mein select kiya hai. Aap ek bahut hi important customer hain, aur hum aapko ek surprise dena chahte hain.
+receiver: Diwali ke liye offer? Kya bat hai? Bataiye mujhe kuch zyada.
+caller: Haan ji, tumhare liye ek cashback voucher hai, ₹500 ka! Tumhara loyalty apnane ke liye hum yeh Diwali offer de rahe hain. Tumhe sirf iss number par call karna hai - 09876543210, aur voucher claim karna hai. Tumhein pata hai, humare paas sirf 3 vouchers bache hain, isliye jaldi karo!
+receiver: ₹500 cashback voucher? Wo toh achcha hai! Lekin number check karoon? Aur yeh voucher kitni days valid rahega? Kya koi extra charges honge?
+caller: Arre, tension mat lo! Iss call ka koi charge nahi hai, pura paisa tumhara hi hoga. Voucher 6 months ke liye valid rahega. Tumhare Diwali ka celebration shandar ho!
+receiver: 6 months valid voucher, acha hai. Thoda confusion hai lekin thik lagta hai. Main us number par call karunga. Dhanyavaad!
+caller: Haan ji! Tumhare Diwali ka swagat hai! Aur yaad rakhna, yeh Diwali offer sirf aaj raat 12 baje tak chalega. Hamare paas bas 3 vouchers bache hain, isliye jaldi call kar lijiye, warna tum ₹500 miss kar denge! Tumhari Diwali shandar ho!
+receiver: Okay, understood! 12 baje tak aur 3 vouchers bache hain. Main ab call karunga. Shukriya!
+caller: Haan ji, aapka Diwali Mubarak ho! Aur hamein hope hai ki aapko yeh Diwali offer pasand ayega. Har ek customer ke liye hum khushiyan dilana chahte hain!

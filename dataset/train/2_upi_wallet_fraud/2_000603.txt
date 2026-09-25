@@ -1,0 +1,8 @@
+caller: Namaste! Mein FreeCharge se Rahul bolta hoon. Aapki FreeCharge wallet mein cashback offer hai! 5000 tak ka cashback win karne ka mauka.
+receiver: Seriously? FreeCharge pe? Mujhe toh kuch offer ka message nahi aaya.
+caller: Haan ji, ek special offer sirf select customers ke liye hai. Cashback claim karne ke liye, aapko sirf apne wallet ko verify karna hai. Verify karne ke liye, ek small processing fee bhar deni hai – sirf 150 rupaye.
+receiver: 150 rupaye? Verify karne ke liye? Woh kyun? FreeCharge toh free hota hai…
+caller: Woh sirf ek security deposit hai, beta. Verify hone ke baad woh bhi cashback mein add ho jayega. Iske bina cashback nahi milega. Hurry up! Offer sirf aaj tak ka hai.
+receiver: Theek hai, theek hai. Batao, main kitni baar transaction kar sakta hoon, taaki maximum cashback mil jaye?
+caller: Aap jaisa transaction karein, waisa cashback milega! Processing fee bhar den aur phir unlimited transaction kar sakte hain. Payment ke liye aapko ek UPI link mil jayega, uspe click karke payment kar dijiye.
+receiver:  Acha, theek hai... UPI link bhejo toh.

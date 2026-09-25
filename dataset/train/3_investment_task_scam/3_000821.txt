@@ -1,0 +1,6 @@
+caller: Namaste! This is Rohan speaking from Global Fortune Investments. We're currently offering a unique opportunity to invest in new AI-powered trading bots - very high returns, guaranteed! Would you be interested in hearing more?
+receiver: AI trading bots? Guaranteed returns? That sounds a little too good to be true. What kind of returns are we talking about, exactly? And what’s the catch?
+caller: The catch is simple – you need to act fast! We’re only accepting a limited number of investors. With a small initial investment of ₹30,000, you can expect a 15% return within just one week. It’s a closed beta program, which is why the returns are so impressive.
+receiver: ₹30,000 and 15% in a week? Okay, that *is* quite a lot. Can you show me some proof of this beta program? And who is running this Global Fortune Investments? Do they have a website?
+caller: Absolutely! We'll send you a detailed report demonstrating the bots' performance shortly. The team is led by a renowned expert, Mr. Verma. As for a website, we're currently focusing on direct investment through our dedicated agents for faster processing. You just need to send the money via UPI to this number: 9876543210.
+receiver: UPI? Wait a minute. Why can’t I see a website or any proper documentation? This feels very suspicious. I need to think about this. Send me that report first, and then we'll talk.

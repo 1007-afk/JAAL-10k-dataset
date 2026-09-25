@@ -1,0 +1,20 @@
+caller: Namaste! Kaise haal hai? Achcha hai na? Main Vikram hu, Sharma Associates se baat kar raha hun. Aapko ek badi khabar hai! Ek lucky draw mein aapko ₹5,000 ka prize mila hai! Tumhara address Delhi mein hai, sahi na?
+receiver:  Haan, Delhi mein rehta hun. Paise kaise milega? Kya koi form bharna padega?
+caller:  Arre, paisa direct transfer kar denge! Tumhare bank account mein ₹5,000 deposit kar denge. Lekin, agar aapko verification process complete karna hai, toh aapko humein apni Aadhaar card ka number aur bank account number dena hoga. Isliye, jaldi se 09876543210 pe call kijiye. Ye offer sirf 6 minute ka hai!
+receiver: Aadhaar card ka number? Bank account number?  Yeh kitna riskar hai?  Mujhe thoda suspicion hai.
+caller:  Arre, don't worry! Yeh sirf verification ke liye hai, aapki security nahi hai! Humare system mein data secure hai. Agar aapko verify nahi kiya toh aapko prize nahi milega.  Abhi sirf 5 minute bache hain!  Call kijiye!
+receiver:  Mai toh abhi confuse ho gaya hun. Verification ke baad paise milega?  Aur yeh Sharma Associates ki website bhi nahi hai, sirf phone par baat kar rahe ho.
+caller:  Arre, website ka requirement nahi hai! Hamari business ek traditional business hai.  Aapko sirf 09876543210 pe call karna hai aur verification karna hai.  Abhi sirf 4 minute bache hain!  Jaldi call kijiye!
+receiver:  Thoda time do mereko. Mai soch raha hun.  Is deal mein koi hidden charges nahi honge?
+caller:  Hidden charges? Nahin, nahin! Yeh completely free hai!  Aapko koi extra paise bhi dene nahi honge.  Agar aapko verify nahi kiya toh aapko prize nahi milega.  Abhi sirf 3 minute bache hain!  Final chance! Call kijiye!
+receiver:  Okay, fine. Mai call karta hun. Par agar koi gadbad hui toh main aapko blame nahi karunga.
+caller:  Arre, aapko kisi bhi gadbad se darne ki koi zaroorat nahi hai! Hamari team aapki madad karegi.  Aapko sirf 09876543210 pe call karna hai.  Abhi sirf 2 minute bache hain!  Last chance!
+caller: Namaste! Kaise haal hai? Achcha hai na? Main Vikram hu, Sharma Associates se baat kar raha hun. Aapko ek badi khabar hai! Ek lucky draw mein aapko ₹5,000 ka prize mila hai! Tumhara address Delhi mein hai, sahi na?
+receiver: Haan, Delhi mein rehta hun. Paise kaise milega? Kya koi form bharna padega?
+caller: Arre, paisa direct transfer kar denge! Tumhare bank account mein ₹5,000 deposit kar denge. Lekin, agar aapko verification process complete karna hai, toh aapko humein apni Aadhaar card ka number aur bank account number dena hoga. Isliye, jaldi se 09876543210 pe call kijiye. Ye offer sirf 6 minute ka hai!
+receiver: Aadhaar card ka number? Bank account number? Yeh kitna riskar hai? Mujhe thoda suspicion hai.
+caller: Arre, don’t worry! Yeh sirf verification ke liye hai, aapki security nahi hai! Humare system mein data secure hai. Agar aapko verify nahi kiya toh aapko prize nahi milega. Abhi sirf 5 minute bache hain! Call kijiye!
+receiver: Mai toh abhi confuse ho gaya hun. Verification ke baad paise milega? Aur yeh Sharma Associates ki website bhi nahi hai, sirf phone par baat kar rahe ho.
+caller: Arre, website ka requirement nahi hai! Hamari business ek traditional business hai. Aapko sirf 09876543210 pe call karna hai aur verification karna hai. Abhi sirf 4 minute bache hain! Jaldi call kijiye!
+receiver: Thoda time do mereko. Mai soch raha hun. Is deal mein koi hidden charges nahi honge?
+caller: Hidden charges? Nahin, nahin! Yeh completely free hai! Aapko koi extra paise bhi dene nahi honge. Agar aapko verify nahi kiya toh aap

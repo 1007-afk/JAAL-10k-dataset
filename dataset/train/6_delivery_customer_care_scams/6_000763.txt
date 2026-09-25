@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Kapoor? My name is Rohit from Bluebird Courier. We have a package addressed to you, but there’s been a slight issue with the delivery.
+receiver: Haan, Mrs. Kapoor bol rahi hoon. Kya hua?
+caller: Ma'am, the package is currently held at our Jaipur hub due to a discrepancy in the payment details. It seems there’s a ₹750 outstanding shipping fee. Just a small amount to clear the delivery.
+receiver: Shipping fee? I ordered nothing recently. Kaise hua yeh?
+caller: It appears it was linked to a recent order on Meesho. Sometimes these things happen. To release the package, we need to verify your payment details. Could you please share the OTP you just received on your mobile? It’s just for security purposes, ma'am.
+receiver: OTP? Kaise OTP? Mein Meesho se kuch order nahi kiya tha. Yeh to theek nahi lag raha.
+caller: Ma'am, please don't worry. It’s a standard security protocol. We’re protecting your package and your information. Just the OTP, please? The delivery driver is waiting with your parcel. The package contains important documents, you understand?
+receiver: Nahi, nahi, main nahi de sakti OTP. Mujhe doubt ho raha hai. Mein police mein report karungi.
+caller: Ma'am, please! Don't do this! This will delay your delivery. It's just a small fee! We are trying to help you.

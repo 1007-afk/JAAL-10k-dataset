@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mera naam Rohan Sharma hai, Income Tax Department se. Aapke naam par ek account mein illegal transactions ki report aayi hai – bahut zyada amount.
+receiver: Income Tax? Illegal transactions? Yeh kya bol rahe hain aap? Mujhe toh kuch bhi pata nahi.
+caller: Sir, yeh matter bahut serious hai. Aapke account se Mauritius aur Cayman Islands mein paisa gaya hai. Yeh money laundering ke signs dikha rahe hain.
+receiver: Mauritius aur Cayman Islands? Main toh kabhi wahan nahi gaya! Main toh ek normal accountant hoon, sir. Yeh galat baat hai.
+caller: Sir, humko bhi pata hai ki aapko yeh sab kuch jankari nahi hai. Par rule hai, humko inquiry karna padega. Agar aap is matter ko settle karna chahte hain, toh aapko ₹50,000 ka fine bhar dena hoga.
+receiver: ₹50,000? Yeh kitna bakwas hai! Main kisi se bhi baat karna chahta hoon, mujhe apne lawyer se baat karne do!
+caller: Sir, yeh confidential matter hai. Legal process me time lega aur aapke naam pe case register ho sakta hai. ₹50,000 bhar den toh sab kuch clear ho jayega. Abhi account number de dijiye.

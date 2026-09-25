@@ -1,0 +1,7 @@
+caller: Namaste, main State Bank of India se Atul bol raha hoon. Aapke naam par ek account hai, aur usmein se ₹8,000 ka ek transaction hua hai jo suspicious lag raha hai.
+receiver: Haan, toh? Maine koi transaction kiya nahi hai.
+caller: Sir, humein system mein ek error dikh raha hai. Is transaction ko block karne aur aapke account ko secure karne ke liye, mujhe aapke account se jude kuch details ki zaroorat hai. Bas aapka Aadhaar card number de dijiye.
+receiver: Aadhaar number? Main bank ko apna Aadhaar number nahi de sakta. Yeh theek nahi lag raha hai.
+caller: Sir, please, yeh urgent hai. Agar aap Aadhaar number nahi denge, toh aapka account suspend ho sakta hai. Hum aapko ₹8,000 ka nuksan se bachaana chahte hain. Number de dijiye, main aapko ek OTP bhi send karunga verification ke liye.
+receiver: OTP? Par kyu? Main bank ke website par logon ke sath aisa ho raha hai. Tumhara number verify karo. Mera naam aur dob check karo.
+caller: Sir, aapko zyada tension nahi lene hai. OTP aapko confirm karne ke liye hai ki aap hi baat kar rahe hain. Thode hi minute ka kaam hai. Please, jaldi se number de dijiye, warna account block ho jayega.

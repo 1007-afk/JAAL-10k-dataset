@@ -1,0 +1,8 @@
+caller: Hello, is this Ankit Sharma? We've noticed a pending transaction of Rs. 2800 from your Paytm wallet to a merchant named ‘Online Deals’. Did you initiate this transaction?
+receiver: No, I definitely didn’t. That's strange! What does this mean?
+caller: It seems like there might have been a fraudulent attempt on your account. To secure your funds, we need to verify a few details. Could you please share the last four digits of your PAN card for verification?
+receiver: My PAN card? Is that really necessary? Shouldn’t I be contacting Paytm directly?
+caller: Yes, you could, but this is a faster process. We're working to resolve this immediately and prevent further unauthorized transactions. The PAN verification is just a standard security protocol. Just the last four digits will do.
+receiver: Okay, fine. It's 4582. But I'm still a little worried. What happens after this?
+caller: Thank you, Ankit ji. Now, to fully protect your wallet, we’ll need to temporarily freeze it and issue a new one. For this, we require a small processing fee of Rs. 999 to activate the new security features. You can pay it through a UPI collect request. I’ll send you the UPI ID.
+receiver: Hold on! A processing fee? That sounds really fishy. I'm not paying anything. I'm going to call Paytm's official customer care right now.

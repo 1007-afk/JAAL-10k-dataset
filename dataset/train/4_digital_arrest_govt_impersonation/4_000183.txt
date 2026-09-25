@@ -1,0 +1,8 @@
+caller: Namaste, sir? Ye Amit Sharma, Indian Customs se baat kar raha hoon. Hamko aapke naam par ek parcel mila hai jo Mumbai customs warehouse mein aa raha hai. Us parcel mein illegal items paaye gaye hain, sir.
+receiver: Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya. Yeh kya bol rahe hain aap?
+caller: Ji, sir. Hamare records mein aapka naam aur address parcel ke shipping label par hai. Hamko parcel mein kuchh electronic gadgets aur medicines paaye hain jo India mein import karne ke liye illegal hain. Aapko ise clear karne ke liye kuchh charges pay karne honge.
+receiver: Charges? Kitne charges? Aur mujhe yeh parcel kab mila tha? Hamare yahan koi parcel nahi aaya. Main toh kabhi online bhi nahi shopping karta.
+caller: Sir, total charges ₹12,500 hain. Yeh fine aur legal fees hai.  Aap UPI ya net banking se pay kar sakte hain. Agar aap pay nahi karte, toh parcel ko confiscate kar lenge aur aapke khilaaf criminal case bhi register hoga.
+receiver: ₹12,500?  Criminal case?  Yeh bahut zyada lag raha hai, aur mujhe ispe trust nahi ho raha. Main koi bhi online payment nahi karunga. Main customs department ke official number pe call karta hoon aur verify karta hoon.
+caller: Sir, yeh hamara official number hi hai.  Samajhdaar ban jiyega, warna bahut pareshaan hongega. Fast pay karo, aur aapko parcel mil jayega.  Iska koi aur option nahi hai.
+receiver: Theek hai, aur mujhe payment details share karein.

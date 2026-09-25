@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from MobiKwik Customer Care. We've noticed a cashback offer available for new MobiKwik users, and you're eligible! You can get ₹500 cashback just for adding ₹100 to your wallet.
+receiver: MobiKwik? Cashback offer? Really? But I hardly use MobiKwik. How do I claim this?
+caller: It's very simple, madam. Just add ₹100 to your MobiKwik wallet using this link I’ll send you - it's a one-time process to verify your eligibility. A small verification fee of ₹20 will be deducted initially, which will be instantly refunded along with the ₹500 cashback.
+receiver: ₹20 verification fee? That seems a little odd. Usually, cashback offers don't have fees. And why are you calling me? I didn’t receive any message about this.
+caller: Madam, this is a special offer just for select customers. The ₹20 is just a standard security measure to prevent fraud. It’s automatically refunded, don't worry. Think of it as a small investment for ₹500! We need to activate the offer before it expires. Can I send you the link now?
+receiver: Wait a minute. Let me just check the official MobiKwik app... *pause* ...This doesn’t seem right. I don't see anything about this offer on the app or their website. This looks like a scam.
+caller: Madam, our system is updating, that's why you're not seeing it. It's a limited-time offer. Don’t miss out on the chance to get ₹500 cashback! Please, just click the link, it’s urgent!

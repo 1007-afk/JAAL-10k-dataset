@@ -1,0 +1,9 @@
+caller: Namaste Sir! Is your PAN card updated with the latest address? Government is doing a verification drive.
+receiver: Haan, mujhe lagta hai update hai. Lekin kaise pata chalega?
+caller: Sir, there's a minor discrepancy showing in our system. You need to quickly update some documents on our secure portal to avoid penalties.
+receiver: Penalties? Kitne penalties honge? Aur yeh portal kon sa hai?
+caller: Sir, it can be up to ₹15,000 if you don’t rectify it immediately.  Visit securepanupdate.info and upload a copy of your Aadhaar and latest bank statement.  I’ll stay on the line to guide you.
+receiver: Okay, main dekhunga. Aadhaar card aur bank statement? Ye site secure hai kya?
+caller: Absolutely Sir, it's a government initiative.  Just upload the documents.  I need to verify quickly on my end.  Once you upload, give me a call back on this same number. Don’t close the window, or it will time out!
+receiver: Theek hai, abhi karta hoon.
+caller: Excellent sir! After uploading, please share the OTP you receive on your mobile. It’s required to complete the verification.

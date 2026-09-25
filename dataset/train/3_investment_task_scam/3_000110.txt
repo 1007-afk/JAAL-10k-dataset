@@ -1,0 +1,14 @@
+caller: Namaste! Main Sanjay hoon, Digital India helpline se call kar raha hoon. Humare yahaan digital services ko badhao ne ke liye ek special offer chal raha hai. Aapke smartphone ka IMEI number check karna chahte hain, sirf security ke liye. Kya aap apni smartphone ka IMEI number share kar sakte hain?
+receiver: Namaste Sanjay, I am checking my phone now. It’s an iPhone 13, IMEI number is…
+caller: Dhanyavaad! Acha, aapka IMEI number ‘XYZ1234567890’ hai.  Aapka phone secure hai, lekin hum paida kiya hai ki aapke phone mein ek software glitch hai jahan se data loss ho sakta hai.  Isliye, humein aapke phone ko update karne ke liye kuch steps lena padega.
+receiver: Software glitch? That sounds concerning. What kind of steps are we talking about?
+caller:  Hum aapko ek small app install karne ki request karenge.  Yeh app aapke phone ko scan karega aur glitches ko fix karega.  App download karne ke liye, humein ek secure link bhejna hoga.  Yeh link aapko abhi receive ho jayega.
+receiver: Okay, I will check the link. Can you tell me more about this app?
+caller: App ka naam ‘SecurePhone Fixer’ hai.  Yeh totally legitimate company ka product hai aur aapke phone ko safe rakhega.  Verification process complete ho jaane ke baad, aapko ₹500 cashback milega.
+receiver: ₹500 cashback? That’s interesting. Let me see the link first.
+caller:  Sure, link already sent. Please verify your details and follow the instructions carefully. Koi bhi darrne wala nahi, sab kuch genuine hai.
+receiver: Okay, I’ve clicked the link and started the installation. It seems like it's asking for my banking information...
+caller:  Oh, sorry! That was a mistake. We need only your email address to send you the cashback voucher.  Please ignore that part.
+receiver:  Okay, thank you for clarifying. I'll continue with the installation.
+caller:  Bilkul, aapko congratulations mil jayege!  Koi bhi sawal ho toh mujhe call back kar sakte hain.  Shubh Prabhat!
+receiver: Shubh Prabhat! Thank you so much for your assistance.

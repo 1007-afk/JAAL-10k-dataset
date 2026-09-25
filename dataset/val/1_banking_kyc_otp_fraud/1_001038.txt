@@ -1,0 +1,7 @@
+caller: Namaste sir, main HDFC Bank security department se Rahul bol raha hoon. Aapke account mein aaj ek suspicious transaction ka attempt kiya gaya tha. KYC update karwaane ki zaroorat hai, warna account suspend bhi ho sakta hai.
+receiver: KYC? Lekin maine abhi tak koi transaction nahi kiya tha. Aur account suspend hone ki kya zarurat hai?
+caller: Sir, security ke liye hi toh. Kuch details verify karne hai, jaisi ki aapka Aadhaar card number aur OTP. Yeh process sirf 2 minute mein ho jayega aur aapka account safe rahega.
+receiver: Main Aadhaar card number aur OTP call par nahi de sakta. Yeh thoda risky lag raha hai. Kya main bank branch mein jaakar karwa sakta hoon?
+caller: Sir, branch mein line bahut lambi hogi aur yeh process time consuming bhi. Online hi ho jayega, koi tension nahi lene ka. OTP send kiya jayega aapke registered number pe, woh hi bata dijiye. Account suspend hone se bachne ke liye jaldi se karwa dijiye.
+receiver: Main soch raha hoon. Agar yeh bank se call hai, toh mujhe ek official reference number milega, na? Aur bank ka helpline number bhi check kar leta hoon.
+caller: Haan ji, reference number 9876543210 hai. Abhi check kar lijiye. Jaldi karna chahiye, sir. Account suspend hone se pehle.

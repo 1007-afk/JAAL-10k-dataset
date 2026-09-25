@@ -1,0 +1,6 @@
+caller: Namaste! Main Inspector Verma, Income Tax Department se bol raha hoon. Aapke naam par ek illegal cryptocurrency transaction hua hai, ₹50,000 ka.
+receiver: Illegal? Cryptocurrency? Mujhe toh kuch bhi samajh nahi aa raha hai. Mein toh kabhi cryptocurrency nahi kharida.
+caller: Haan, lekin humein system mein ek transaction mila hai jo aapke PAN card se connect hai. Yeh ek serious matter hai, aur agar aap cooperate nahi karenge toh hamein FIR register karni padegi.
+receiver: FIR? Lekin mein toh kuch bhi galat nahi kiya! Koi mistake hoga. Aapko kya chahiye?
+caller: Aapko ek small verification process se guzar na hoga. Aapko apne bank account ka last four digit number aur OTP dena hoga, sirf verification ke liye.
+receiver: Bank account number aur OTP?! Yeh toh sakht hi scam lag raha hai! Mein nahi dunga! Aapko koi bhi meri information nahi milne wali. Mein abhi police ko phone karunga.

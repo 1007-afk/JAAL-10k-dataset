@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Rohit bol raha hoon. Aapke naam par ek credit card apply kiya gaya hai, lekin address verification pending hai.
+receiver: Haan ji, Axis Bank? Mujhe toh koi credit card apply karne ka yaad nahi hai.
+caller: Sir, aap ghabraiye mat. Ye ek automated process hai. Verification ke liye, mujhe aapka Aadhaar number aur OTP pata karna hoga, taaki hum aapke record ko match kar sake. Account suspend hone se bachne ke liye urgently provide karna hoga.
+receiver: OTP? Lekin ye thoda risky lag raha hai. Agar meri information leak ho gayi to?
+caller: Sir, hamara system completely secure hai. OTP sirf verification ke liye use hoga aur phir expire ho jayega. Hamara duty hai aapke account ko safe rakhna. Aapke account ke block hone se pehle, please provide the details.
+receiver: Thik hai, thik hai. Lekin mujhe ek alternate option chahiye. Kya main kisi branch mein jaa sakta hoon verification ke liye?
+caller: Sir, branch mein line bahut lambi hogi aur process me time lagega. OTP se verification jaldi ho jayega. Sir, bas ek last baar batao - Aadhaar number last four digits batao?

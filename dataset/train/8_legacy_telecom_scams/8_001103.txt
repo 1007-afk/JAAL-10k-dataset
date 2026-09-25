@@ -1,0 +1,11 @@
+caller: Namaste sir ji, ek badi baatein hai! Aapko ‘Golden Chance’ scheme mein selected kiya gaya hai! Aapke account mein ₹5000 transfer hone wali hai! Parantu, bank ne verification ke liye, aapko ek small amount deposit karne ki zaroorat hai - sirf ₹75!  Aapni UPI ID - pankaj.sharma78@gmail.com pe money transfer karein aur phir call karein 9876543210.  Yeh offer sirf aaj ke liye hai!
+receiver: Wow, ₹5000? Really? So, I have to send ₹75 first? Through UPI? Is that correct? Can you tell me the exact UPI ID again please?
+caller: Haan ji, absolutely correct! Aapke account mein ₹5000 transfer honge, parantu verification ke liye ₹75 deposit karna hai. UPI ID hai pankaj.sharma78@gmail.com.  Phir call karein 9876543210.  Hurry up, time is running out! Don’t miss this golden opportunity!
+receiver:  Okay, okay, I understand. Pankaj Sharma… pankaj.sharma78@gmail.com.  I’ll try to transfer it immediately. Just to confirm, after I do that, I call 9876543210?
+caller: Exactly!  Phir call karein aur jo bhi happen, mujhse baat karen.  Main aapki madad karenge.  Aapko bohot zyada khushi hogi jab aapko ₹5000 milegi!  Aapko wait karna hoga, transaction complete hone ka wait karo.
+receiver: Ji ji, thank you so much! I am transferring the money now. Please let me know when you receive it. I’m really looking forward to this!
+caller:  Ji, ji! Transaction complete ho gaya hai?  Agar complete ho gaya hai, toh aapko ₹5000 account mein transfer ho jayenge.  Phir aap mujhse contact karein.  Jaldi kar lijiye!  Yeh offer abhi ke abhi khatam ho sakta hai!
+receiver:  Yes! It’s done! I transferred ₹75 to pankaj.sharma78@gmail.com. Now what?
+caller:  Amazing!  Now, aapko 9876543210 pe call karna hai.  Mujhe bolna ki transaction successful hua hai.  Aur haan, ₹5000 aapke account mein transfer ho jayenge.  Wait karo, main check karta hoon...  (pause) ...Okay, congratulations! Aapko ₹5000 transfer ho gaye hain!
+receiver:  Seriously?!  Thank you so much! You guys are incredible!  Bye bye!
+caller:  Ji, ji!  Happy to help!  Aapko ek aur offer milega!  Keep checking!  Bye bye!

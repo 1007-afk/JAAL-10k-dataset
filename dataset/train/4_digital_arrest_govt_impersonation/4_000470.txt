@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is a formal notification from the Directorate of Enforcement, regarding suspicious activity linked to your bank account.
+receiver: Directorate of Enforcement? What suspicious activity? I haven't done anything wrong.
+caller: Ma'am, our records indicate a large sum of money was recently transferred through your account, potentially linked to an illegal cryptocurrency exchange. We need to verify your identity and prevent further transactions. To do this, we require a small compliance fee of ₹7,500.
+receiver: ₹7,500? That seems a bit odd. Why would I need to pay a fee to prove I’m not doing anything wrong? Can I speak to someone with a proper designation?
+caller: Ma'am, this is Agent Verma speaking. Due to the sensitive nature of this investigation, we are operating under strict protocol. The fee is necessary to ensure the security of your funds and expedite the verification process. You’ll need to deposit via UPI – I’ll send you the UPI ID.
+receiver: UPI? But I’ve heard about scams using UPI IDs. Shouldn't I be able to report this to the actual Directorate of Enforcement? What’s your official contact number?
+caller: Ma'am, delaying this process could result in your account being frozen. Time is of the essence. The UPI ID is 8765432109@axisbank. Please send the amount immediately to avoid further complications and a formal legal notice.

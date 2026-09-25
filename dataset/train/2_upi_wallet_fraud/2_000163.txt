@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? This is Akash from PhonePe security. We’ve detected some unusual activity on your account.
+receiver: PhonePe? Haan, main Priya Verma. Kya hua?
+caller: We noticed a request to send ₹7,500 to an unknown UPI ID. This is flagged as potentially fraudulent. To secure your funds, we need to verify your identity. Could you please share the last four digits of your linked bank account?
+receiver: ₹7,500? Main toh kisi ko ₹7,500 nahi bheja. Aur bank account number kyun pooch rahe ho? PhonePe toh OTP se verify karta hai, na?
+caller: Yes, usually we do, but this is a new security protocol. Just a quick verification to ensure it’s you. We're seeing a surge in scams and this is to protect our customers. Please provide those four digits so we can quickly block the transaction if it’s not authorized.
+receiver: Nahin, main bank account number kisi ko bhi nahi bataungi. Yeh galat lag raha hai. I'll call PhonePe customer care directly from their official number.
+caller: Madam, please, this is urgent. The transaction is pending right now. Waiting for your confirmation could lead to a loss of funds. Give me just those last four digits and I can assure you, your money will be safe.
+receiver: I'm ending this call.

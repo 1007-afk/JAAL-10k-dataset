@@ -1,0 +1,6 @@
+caller: Namaste sir, main State Bank of India se Atul Verma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye humein KYC update karne ki zarurat hai.
+receiver: KYC update? Maine toh koi request nahi kiya tha. Aur yeh toh pehle bhi sunne mein aaya hai, scam calls ke bare mein.
+caller: Sir, security ke liye yeh compulsory hai. Agar aap update nahi karenge, toh aapka account suspend ho sakta hai. Aapko kuch inconvenience ho sakti hai. Sir, please cooperate kijiye. Bas aapka naam aur aadhaar card number bata dijiye, verification ke liye.
+receiver: Account suspend? Sir, mujhe toh kuch samajh nahi aa raha hai. Main toh bank mein jaakar hi check karunga. Phone pe koi bhi detail nahi dene wala.
+caller: Sir, branch mein line bahut lagenge. Aur humara system automatic verification karta hai. Sir, trust kijiye. Aapko bas OTP confirm karna hai jo hum aapke registered number pe bhejenge.
+receiver: OTP? Sir, OTP toh bank kabhi bhi phone pe nahi maangta. Yeh toh clear scam hai. Main koi bhi OTP share nahi karunga aur abhi call cut kar raha hoon.

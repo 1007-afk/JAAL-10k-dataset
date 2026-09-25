@@ -1,0 +1,9 @@
+caller: Namaste ji, main Rahul hu, SBI se call kar raha hu. Sir, aapke debit card ke liye ek OTP verify karna hai, technically kuch gadbad aa gayi hai, please bataiye apna mobile number.
+receiver: Arre bhai, OTP verify qilish me kitna zamana lagega? Bataiye, OTP kya hai? Aur aap SBI kee taraf hain?
+caller: Haanji, OTP verification system mein ek error aa gaya hai. Isliye humein aapke mobile number aur OTP ki confirmation lagani paregi. Aapki account ki security maintain karne ke liye yeh zaroori hai.
+receiver: Bhai, security toh sabse pahile hai, lekin OTP toh already mila hua hai. Mein unhein bata dunga. Aapka bank kaunsa hai, aur aapne kyun OTP verify karne ke liye mobile number maanga?
+caller: Sir, OTP verification process complete nahi hua. System mein ek glitch aa gaya hai, isliye humein aapke mobile number se aapko alert karna padega. Aapse account ki security check karna hai. Agar aap OTP share nahi karenge toh aapka account suspend ho sakta hai.
+receiver: Suspend ho sakta hai? Ye batao, aap SBI kee taraf hain ya nahi? Agar SBI hai toh aapko pehle mera name pucha karana chahiye. Aur OTP bhi mila hua hai, isme kya gadbad hai? Aapka employee ID batao, kabtak verification karna hai?
+caller: Sir, hum SBI kee representative hain, aur aapki account ki security hamein bahut mushkil hai. AAPNE OTP share karna hai, phir hi hum aapko alert kar sakte hain. Aur yeh glitch ka matlab hai ki hum aapko immediately alert karna chahte hain. Aapki account ko protected rakhne ke liye yeh required hai.
+receiver:  Bhai, yeh toh puri scam lag rahi hai! Mera name, account number, mobile number, kuch bhi bataane wala nahi huon.  Aap SBI kee taraf nahi hain, aur aapne OTP share karne ki dhamki de رہی हैं। Main call cut kar raha hu.
+caller: Sir, aapko account blocked ho jayega agar aap OTP share nahi karenge. Jaldi bataiye!

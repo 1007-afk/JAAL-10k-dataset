@@ -1,0 +1,8 @@
+caller: Hello Sir, main LIC se bol raha hoon. Ek nayi policy aayi hai. Kya aap lena chahenge?
+receiver: Haanji, LIC se hain? Bataiye kya policy hai. Abhi thoda busy hoon, par sun sakta hoon.
+caller: Ji haan sir, bilkul. Yeh ek dhamakedaar policy hai sir, aapke future ke liye bahut acchi. Ismein aapko milega...
+receiver: Achha, future ke liye acchi hai? Chaliye, bataiye. Lekin zyada detail mein mat bataiye, bas highlights bataiye, time kam hai.
+caller: Achha sir, time kam hai toh main aapko bas sabse important baatein bata deta hoon. Is policy mein sir, aapka paisa double hone ki guarantee hai, bilkul risk-free! Aur sir, ismein aapko life cover bhi milega, jo sabse important hai. Aur toh aur, kuch saalon baad aapko monthly income bhi start ho jaayegi, ekdum fixed. Kya kehna hai aapka sir?
+receiver: Wahan! Paisa double guarantee, risk-free aur life cover bhi? Ye toh sach mein dhamakedaar lag raha hai. Par monthly income kab se start hogi aur kitni hogi? Aur yeh 'kuch saal' matlab kitne saal?
+caller: Sir, monthly income aapko 10 saal baad se start ho jayegi, aur yeh income aapke policy ke total value ka 10% hogi. Toh matlab agar aapka investment Rs. 1 lakh hai, toh aapko har saal Rs. 10,000 milenge for life! Aur 'kuch saal' matlab sirf 10 saal, sir. Iske baad aapka paisa double hone ki guarantee toh hai hi, aur yeh sab bilkul risk-free hai.
+receiver: 10 saal baad se? Aur 1 lakh pe saal ka 10,000? Matlab zindagi bhar ke liye? Ye toh thoda dheela lag raha hai. Paisa double toh theek hai, par monthly income ka tenure aur amount thoda aur clear kijiye na. Aur risk-free toh sab bolte hain, par koi detail? Investment kitna hoga?

@@ -1,0 +1,8 @@
+caller: Namaste. Main Indian Customs Department se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items mile hain.
+receiver: Illegal items? Mein toh kuch order nahi kiya tha.
+caller: Sir, parcel mein suspicious materials hain, jisse drug trafficking ka suspicion hai. Aapko ek investigation complete karni padegi.
+receiver: Investigation? Mujhe kya karna hai? Mein toh koi criminal nahi hu.
+caller: Sir, aapko ek small fine bharne ki zaroorat hai, 15,000 rupees, parcel release karne ke liye. Aapko video call pe aana hoga, verification ke liye.
+receiver: 15,000? Aur video call? Yeh toh fraud lag raha hai! Mein police mein complaint karunga.
+caller: Sir, jaldi karo. Agar aap fine nahi bharate, parcel destroy kar diya jayega aur aapke khilaf case register hoga. Aapko meri UPI ID [Random UPI ID] pe payment karna hoga, sir.
+receiver: Nahin, mein nahi bharunga. Yeh ek scam hai, aur main isko report karunga!

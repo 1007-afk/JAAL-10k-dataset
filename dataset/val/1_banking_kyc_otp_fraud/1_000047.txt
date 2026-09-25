@@ -1,0 +1,10 @@
+caller:  Arey yaar, suno yeh digital payment app, "ShinePay" bolta hai, wo kaise chal raha hai?  Mere cousin Rohan, usko wo fraud ka victim bana diya hai.  Main soch raha tha, yehi baat tumhare saath bhi ho sakti hai.
+receiver: Haan, seriously? ShinePay? Woh toh bohat dangerous lagta hai.  Mujhe bhi Rohan ne bataya tha, wo bahut upset hai.  Usne kaha ki unhone all their money lose kar diya.
+caller: Arre, genuinely, they were sending OTPs to fake WhatsApp numbers and then using those OTPs to transfer money.  It’s like, completely exposed!  Yeh toh bohot scary hai.
+receiver:  Wow, truly shocking.  OTPs to fake numbers...  Ye toh seriously misuse hone ka risk hai.  Agar koi aisa OTP loot sakega toh...  Mai bhi worried ho raha hu.
+caller: Exactly!  And I was thinking, maybe we can try to trace these fake numbers?  Like, find out who’s behind them?  It will be a challenge, but worth trying.
+receiver: Haan, technically possible hai, par tabhi to itni tricky hogi.  Koi tool hai jo OTP tracking mein help kar sakta hai?  Ya phir koi website?  Mein search karunga.
+caller:  Arre, maine suna hai ek website hai, "SecureTrace."  Woh claims ki vo suspicious activity track karta hai.  Par mujhe pata nahi, wo sahi hai ya nahi.  Mujhe bhi check karna hai.
+receiver: SecureTrace?  Okay, bata de, unka website address.  Mein dekhunga.  Par mujhe jitni worry ho rahi hai, woh bataane ki zarurat hai.  Yeh matter serious hai.
+caller: Website address hai securetrace.net.  But listen, don’t share any personal info on that site. Just browse and see what they offer.  Very important.
+receiver: Okay, okay, noted.  Don't share any personal information.  Just browsing.  Let’s see if this SecureTrace actually does something useful.  Yeh toh bohot risky lag raha hai, par dekhna zaroori hai.

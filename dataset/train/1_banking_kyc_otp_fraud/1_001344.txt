@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main Aadhar Verification Cell se Rohit Sharma bol raha hoon. Aapke Aadhar card se linked bank account mein kuch suspicious activity detect hui hai. Security ke liye kuch details verify karne hai.
+receiver: Aadhar card se linked bank account? Suspicious activity? Yeh kya ho raha hai? Main abhi phone pe baat karne mein thoda busy hoon.
+caller: Ji sir, samjhe. Lekin yeh bahut urgent hai. Agar hum abhi verify nahi karte, toh bank account suspend bhi ho sakta hai. Aapka naam confirm kar sakte hain? Aur ek OTP bhi send karenge aapke registered mobile number par.
+receiver: Account suspend? Bilkul nahi! Main Rajesh Kumar hoon. Par OTP? OTP kyu chahiye? Main kabhi bhi apna OTP kisi ko nahi deta. Yeh theek nahi lag raha hai.
+caller: Sir, OTP sirf aapke identity confirm karne ke liye hai. Humara system verify karega ki aap hi sahi bank account holder hain. OTP send hone ke baad, woh mujhe bataiye. Thoda time le lijiye. Account suspend hone se bachane ke liye jaldi karna padega.
+receiver: Thik hai, thik hai. OTP mila hai. [Invented OTP: 482915]. Par ek minute, humara conversation record ho raha hai na? Aur main Bharat Petroleum ka customer care number check kar raha hoon, yeh number match nahi ho raha hai.

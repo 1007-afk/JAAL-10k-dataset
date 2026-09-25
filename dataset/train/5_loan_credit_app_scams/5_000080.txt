@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya calling from LoanExpress. We've noted your recent interest in a quick personal loan. Just a few quick details and we can get the process started. Do you have your PAN card handy?
+receiver: Hello? LoanExpress? I don’t remember applying for a loan. Are you sure you have the right number?
+caller: Yes sir, absolutely. Your mobile number is registered with our system. We offer loans up to ₹7 lakhs with minimal documentation. Just confirm your date of birth and we'll proceed with verification. It’s a limited-time offer, sir.
+receiver: Okay, my date of birth is 15th August 1988. But I still don’t remember applying… Why are you calling me?
+caller: Perfect, sir. Date of birth confirmed. Now, for security purposes, we need to send a one-time password to your registered email address. Can you please tell me the email address associated with your PAN card? This is just to ensure it's you.
+receiver: Hold on a second. This feels fishy. Why do you need my email address now? I’m not comfortable giving that out. I think I’ll just hang up.
+caller: Sir, please don't hang up! It's just a security measure. You'll miss out on this fantastic opportunity! We can offer you ₹3 lakhs at a very low interest rate. Just the email address, sir, quickly. Don't let this go.

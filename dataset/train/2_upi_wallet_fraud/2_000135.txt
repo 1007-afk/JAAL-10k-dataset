@@ -1,0 +1,9 @@
+caller: Hello sir, is this Raj Sharma?
+receiver: Haan, main Raj Sharma. Bolo?
+caller: Sir, we have noticed some unusual activity on your Freecharge wallet. Someone has attempted to make a transaction of ₹4500 from your account.
+receiver: ₹4500? Bilkul nahi! Maine toh koi transaction kiya hi nahi. Yeh kya ho raha hai?
+caller: Sir, it’s urgent. To secure your account, please call us immediately on 98765 43210 and verify your OTP. Otherwise, your wallet will be temporarily blocked for security reasons. We need to confirm it's you.
+receiver: OTP? Kon se OTP? Mujhe koi message nahi aaya hai. Aur Freecharge toh direct OTP se confirm karta hai, na?
+caller: Sir, this is a priority verification call. The standard OTP system is down temporarily due to a security upgrade. Please, cooperate for a minute and share the OTP we will send to your registered mobile number, just to make sure your account is safe.
+receiver: Wait a minute. Freecharge support number is different, right? Tumhara number bhi toh check karunga. Yeh kuch gadbad lagi.
+caller: Sir, please don't delay. This is a very sensitive matter, and delaying it could lead to irreversible damage. We’re just trying to help you safeguard your money, sir. Just give me the OTP.

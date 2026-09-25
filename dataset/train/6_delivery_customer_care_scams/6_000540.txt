@@ -1,0 +1,8 @@
+caller: Namaste! Mai Swiggy delivery office se bol raha hoon. Aapke order number SWG784512 mein ek chhoti si problem hui hai. Payment gateway me kuch technical fault aa gaya hai.
+receiver: Oh, aisa? Kya hua? Mein toh order track kar raha tha, sab theek dikh raha tha.
+caller: Haan ji, system me ek unexpected error aa gaya. Aapko kuch extra security check karna hoga. Please 9876543210 pe call karein aur OTP share karein. Yeh sirf 2 minute ka kaam hai, aur aapka order deliver ho jayega.
+receiver: OTP? Swiggy se OTP phone pe? Maine toh kabhi aisa nahi suna.  Ek minute, mein Swiggy app check karta hoon.
+caller: Ji bilkul, sir. Security ke liye hi. Time bahut kam hai, delivery boy aapke address pe pahunch chuka hai. Agar aap abhi call nahi karenge, toh order cancel ho sakta hai aur aapko refund bhi delay ho sakta hai.
+receiver: Okay, thoda wait karvaao. Mein app mein dekh leta hoon.  Koi confirmation message ya notification Swiggy app pe aaya hai kya?
+caller: Sir, automated system ki wajah se, notification direct phone pe hi aati hai. Order cancel hone se bachne ke liye please jaldi call karein. 9876543210, OTP share karein.
+receiver: Theek hai, mujhe kuch kharab lag raha hai. Mein direct Swiggy customer care number search karta hoon aur unse baat karta hoon.  Koi pressure nahi dalna.

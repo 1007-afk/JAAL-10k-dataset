@@ -1,0 +1,7 @@
+caller: Namaste Aunty, mai Rahul se bol raha hu, Axis Bank se. Aapke Axis Bank account mein ek suspicious transaction hua hai, ₹500 ka, Amazon Pay se.
+receiver: Kya? ₹500? Maine toh kuch Amazon Pay se nahi kiya.
+caller: Haan Aunty, koi ek website se kiya hai. Aapko secure rakhne ke liye, humein aapka OTP verify karna hoga. Paytm par register kiya hua OTP bataiye, please.
+receiver: OTP? KYC ke liye OTP to bank bhi le leta hai, lekin woh phone par nahi poochta.
+caller: Aunty, yeh security check hai. OTP bataiye, aur hum is transaction ko block kar denge. Fir Amazon Pay support se contact kar sakte hain. OTP bataiye taaki mai aapko isse bachay.
+receiver: Theek hai, wait karo, main check karti hu. OTP 123456.
+caller: Shukriya Aunty. Aapka account ab secure hai. ₹500 ka transaction reverse karwa denge. Aur ek ₹20 processing fee lagegi, woh bhi Paytm se pay kar denge?

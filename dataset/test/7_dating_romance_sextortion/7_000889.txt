@@ -1,0 +1,7 @@
+caller: Namaste! My name is Vikram. I saw your profile on 'HeartConnect' and found it quite charming. You seem like a wonderful person. I'm a doctor, working in a hospital in Delhi. Just thought I'd reach out and say hello. Kya haal hai?
+receiver: Hello Vikram! Thanks for the message. Nice to hear from you. I’m doing well, thank you. A doctor, that’s a very important job! I’m Priya, by the way.
+caller: Priya, it's a pleasure. Yes, it's demanding, long hours, but I enjoy helping people. I was looking at your photos, you seem to love traveling! I’m planning a trip to Goa next month, to unwind a little. It’s been a stressful few weeks. I wish you were here, Priya.
+receiver: Goa sounds lovely! I’ve always wanted to go. Stressful weeks, I understand. Medicine must be tough. I like photography, especially landscapes. I’m saving up for a new lens actually.
+caller: That’s beautiful, Priya. You have a good eye. Listen, something unexpected has come up. My mother needs a surgery urgently. The cost is quite high, around 50,000 rupees. I’m trying to manage, but it’s proving difficult. I know it’s a lot to ask, but could you possibly help me a little? I’ll pay you back as soon as I can.
+receiver: 50,000 rupees? That’s a lot of money, Vikram. Are you sure there’s no other way? Can’t your hospital help, or insurance? This is a bit sudden, to be asking for that much.
+caller: I've exhausted all options, Priya. The hospital is only covering part of it, and insurance won

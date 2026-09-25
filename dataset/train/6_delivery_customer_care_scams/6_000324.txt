@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Priya calling from QuickShip Courier. We have a package addressed to you, but there’s been an issue with the delivery address. Can you confirm your address for us, please?
+receiver: Hello? Yes, sure. It’s [Invent a name, e.g., 123, Gandhi Nagar, Mumbai, Maharashtra 400001].
+caller: Thank you, madam. We noticed a discrepancy with the payment details attached to this package. For security reasons, we need to verify your OTP sent to your registered mobile number. It’s just a quick verification process, won’t take a minute.
+receiver: OTP? Why do I need to give you an OTP for a delivery? That seems suspicious.
+caller: Madam, it's standard procedure to verify the payment before we dispatch the package. It’s to ensure the package reaches the correct recipient and to prevent fraudulent activity. We are ISO certified and follow all security protocols. Please share the OTP so we can complete the process. Otherwise, we'll have to hold the package.
+receiver: Hold the package? What’s inside the package? And why didn't you call before holding it?
+caller: Madam, it's a high-value item, so we must follow strict security guidelines. It appears to be electronics, possibly a mobile phone. We want to ensure its safety. Sharing the OTP is vital to proceed, otherwise we have no choice but to return it to the sender. Please cooperate.
+receiver: A mobile phone? I don’t remember ordering anything like that. This sounds like a scam.

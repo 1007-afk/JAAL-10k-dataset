@@ -1,0 +1,7 @@
+caller: Hello, main HDFC Bank se Rohit bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye, aapko ek verification process complete karna hoga.
+receiver: HDFC Bank? Mujhe koi message nahi mila. Aur suspicious activity ka kya matlab hai?
+caller: Ji, system ne automatically detect kiya hai. Aapko apne account se linked OTP mujhe bataiye taaki hum verify kar sakein. Jaldi karna zaroori hai, warna account suspend ho sakta hai.
+receiver: OTP? Account suspend? Yeh to bakwas lag raha hai. Main bank branch mein ja kar hi verify karunga.
+caller: Sir, branch jaane ki zarurat nahi hai. Yeh process bilkul safe hai aur bank dwara sanctioned hai. Aapko sirf OTP bataana hai, bas. Account secure rakhna hamara priority hai.
+receiver: Lekin main aapko apna OTP kaise de sakta hoon? Yeh sunke mujhe shaq ho raha hai. Koi detail mujhe bataiye, fir sochta hoon.
+caller: Sir, OTP ek time-sensitive code hai jo aapke registered mobile number par aayega.  Vahi bataiye. Account block hone se bachane ke liye, jaldi bataiye. Time bahut kam hai.

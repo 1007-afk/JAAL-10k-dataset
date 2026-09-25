@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Vijay hai, FutureCredit Solutions se. Aapne aapni mobile app se ek personal loan ke liye apply kiya tha, na?
+receiver: Haan, mujhe yaad hai. But I haven't heard anything back yet.
+caller: Ji sir, aapka application approve ho gaya hai. But verification ke liye kuch details confirm karne hai. Aapki birth date aur mother's maiden name bataiye?
+receiver: Why do you need that information? Seems a bit suspicious. Can’t you just verify through the app?
+caller: Sir, security purposes ke liye. Agar aap details provide karenge, toh mai aapko loan transfer kar dunga immediately. Plus, agar aap aaj tak apply karwayenge, toh aapko processing fees mein 20% ka discount milega!
+receiver: Okay, fine. My birth date is 15th August 1985, and my mother’s maiden name was Sharma.
+caller: Thank you, sir. Now, for final verification, we need you to pay a small security deposit of Rs. 2500.  Once that’s done, your loan of Rs. 10,000 will be released instantly.  You can use UPI or net banking?

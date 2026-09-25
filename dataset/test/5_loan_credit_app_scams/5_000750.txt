@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit from QuickCash Solutions. We saw you recently requested a personal loan online. Just a quick verification process needed, sir. Do you have your Aadhaar card handy?
+receiver: Haan, sir. Aadhaar card toh hai. What do you need it for?
+caller: Wonderful! Sir, we need to quickly confirm your details. Can you please tell me the last four digits of your Aadhaar number? Just for security purposes, sir.
+receiver: Okay, sir. It's 4567.
+caller: Thank you, sir. Verification complete. Congratulations! Your loan has been pre-approved for ₹50,000. However, a small processing fee of ₹5,000 is required upfront to activate the loan. You can easily pay through UPI, sir.
+receiver: ₹5,000? But I thought it was a loan. Why do I have to pay anything before getting the loan?
+caller: Sir, this is standard procedure. It’s to verify your payment capability. Once you pay, the ₹50,000 will be credited to your account immediately. Don't miss this opportunity, sir! Many others are already benefiting.

@@ -1,0 +1,7 @@
+caller: Namaste! Calling from SwiftShip Courier. We have a parcel addressed to you, but there’s been a delivery attempt failure due to an incorrect address. To reroute the delivery and avoid a ₹500 return fee, kindly verify your payment details.
+receiver: SwiftShip? Haan, mujhe koi parcel aane ki umeed nahi hai. Kya address check kar sakte hain?
+caller: Of course! Your registered address is Ratanlal Sharma, 123 Gandhi Nagar, Jaipur. Is this correct? We need to confirm you authorize the rerouting charges. Just a small fee, sir.
+receiver: Haan, address correct hai. Par ₹500? Woh kitna zyada hai! Kya proof hai ke mujhe parcel aane wala hai? Mujhe koi order yaad nahi aa raha.
+caller: Sir, our system automatically generates the rerouting fee. To avoid any delays and ensure your parcel reaches you, we require a one-time OTP verification for the payment process. It will be sent to your registered mobile number shortly.
+receiver: OTP? Kyun OTP? Ye theek nahi lag raha. Koi scam toh nahi hai ye? Main police mein report karunga!
+caller: Sir, please don’t panic! This is a standard security measure to protect your account. We’re just verifying your identity. Send the OTP, sir, and we’ll process everything immediately. We’ll also send you the tracking number then.

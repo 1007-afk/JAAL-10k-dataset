@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? My name is Inspector Kumar, calling from the Delhi Customs Department.
+receiver: Haan, main Mrs. Sharma bol rahi hoon. Customs? Kya baat hai?
+caller: Mrs. Sharma, we’ve intercepted a package at Indira Gandhi International Airport addressed to you. Preliminary scans indicate it contains suspicious items – potentially linked to an online drug trafficking network.
+receiver: Yeh kya keh rahe hain aap? Mujhe toh koi package nahi mila. Main toh kabhi drugs nahi lete!
+caller: Ma’am, we understand this is alarming, but we need your cooperation to clear this up quickly. To prevent legal action and potential arrest, we require a small fee of ₹15,000 to cover the inspection and verification costs. We need to ensure the package is clear of any illegal substances.
+receiver: ₹15,000? Yeh bahut zyada hai! Aur main bank transfer karungi? Main ek scam ke bare mein sun rahi hoon. Aapko kya proof hai ki aap Delhi Customs se hai?
+caller: Ma’am, we are currently on a secure video call with you to verify your identity and prevent any misunderstandings. We can’t reveal operational details over the phone. This is standard procedure to maintain confidentiality. Please transfer ₹15,000 to this UPI ID: [Invent a plausible UPI ID]. Once confirmed, we’ll release the package immediately. We’ll keep the video call active to monitor the process.
+receiver: Dekhiye, mujhe yeh sab kuch shaq lag raha hai. Main police station mein complaint karungi agar yeh fake hai. Aapko yeh UPI ID kisi aur ka naam se register kiya hua hoga!
+caller: Mrs. Sharma, delaying this will only complicate matters. The longer this package remains under investigation, the more serious the charges against you will become. If you don’t cooperate, we will have

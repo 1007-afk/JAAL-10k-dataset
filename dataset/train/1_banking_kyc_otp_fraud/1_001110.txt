@@ -1,0 +1,6 @@
+caller: Namaste! Main Axis Bank se Atul bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai. Security ke liye, aapko KYC update karna hoga.
+receiver: Axis Bank? Haan, toh kya details chahiye? Mujhe kuch OTP aaya nahi hai.
+caller: Sir, OTP hone mein thoda time lag sakta hai. Phir bhi, aapka naam aur aadhaar card number bata dijiye, verification ke liye. Urgent hai, sir, warna account suspend ho sakta hai.
+receiver: Arey, account suspend ho jayega? Maine toh kabhi sun hi nahi. Aadhaar number… woh dangerous bhi ho sakta hai. Aap confirm karein, aap real mein Axis Bank se hain?
+caller: Sir, hum aapko call kar rahe hain aapki hi security ke liye. Hum aapka account protect karna chahte hain. Aapka Aadhaar number bataiye, aur main aapko ek verification code bhi send kar dunga.
+receiver: Thik hai, thik hai. Tension mat lo. Mera Aadhaar number [Invented Aadhaar Number] hai. Par OTP bhi chahiye mujhe.

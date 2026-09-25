@@ -1,0 +1,16 @@
+caller: Hello, is this Mrs. Kapoor? My name is Raj from Axis Bank Fraud Prevention. We've detected some unusual activity on your Axis Bank savings account.
+receiver: Haan, main Mrs. Kapoor hi hoon. Kya hua? What unusual activity?
+caller: Ji Mrs. Kapoor. Our system flagged a few attempted online transactions from a different location. To safeguard your account, we need to verify some details right away. Account suspension is a possibility if we can't confirm you.
+receiver: Account suspension? Why wasn't I notified earlier? What kind of transactions are we talking about?
+caller:  We’re working quickly to prevent any further issues. Just a few quick questions. Can you please confirm the last four digits of your Aadhaar card? This is standard protocol.
+receiver: My Aadhaar number? I don’t think I should give that out over the phone. That seems risky.
+caller: Mrs. Kapoor, I understand your concern, but this is vital to securing your funds. Think of it this way – it’s protecting your hard-earned money. We're just doing our due diligence. Now, could you confirm the last four digits, please?
+receiver: Okay, fine. It’s 4782. But I still think this is strange.
+caller: Thank you, Mrs. Kapoor. That confirms the details. Now, to fully protect your account from potential fraudulent access, we need to update your registered mobile number for OTP verification. What is your current mobile number?
+receiver: It's 9876543210. But why do you need to change it?
+caller:  We’re migrating to a new secure system, Mrs. Kapoor.  Updating your number ensures you receive all OTPs promptly. One last thing - for verification purposes, can you please tell me the name of your first pet?
+receiver: My first pet? That's a very odd question! What does my pet have to do with my bank account?
+caller:  It’s a random security question, Mrs. Kapoor, just to ensure you are the account holder. It’s a final step.
+receiver: My first pet was a cat named MeowMeow. Now, I’m feeling very uncomfortable. Can I speak to your supervisor?
+caller:  Unfortunately, Mrs. Kapoor, my supervisor is currently unavailable. Just one more tiny thing – can you please confirm the last three digits of your ATM card number for a final verification?
+receiver: No! Absolutely not. I'm calling the Axis Bank customer care number from their official website right now. Goodbye.

@@ -1,0 +1,8 @@
+caller: Namaste! Main calling karta hoon BharatPay se. Aapka naam Mrs. Verma hai, correct?
+receiver: Haanji, main Mrs. Verma hoon. BharatPay ka kya connection hai?
+caller: Mrs. Verma, aapki BharatPay wallet mein ek cashback offer aaya hai – ₹5000 cashback! Yeh offer sirf limited time ke liye hai.
+receiver: ₹5000 cashback? Kaise? Main kya karna hoga?
+caller: Aapko bas apne BharatPay wallet mein ₹500 processing fee deposit karna hoga. Jab ₹500 deposit ho jayega, ₹5000 cashback instantly aapke wallet mein add ho jayega.
+receiver: ₹500 deposit? Kahan deposit karna hai? Koi link send karo.
+caller: Ji, ek minute. Main aapko ek link send karta hoon. Is link par click karke, ₹500 deposit karein. Jab deposit ho jayega, cashback automatically aapke account mein transfer ho jayega. Hurry, offer ending soon!
+receiver: Wait, ₹500 fee? BharatPay app mein toh aisa kuch notification nahi aaya. Woh link check karta hoon. Yeh kuch wrong lag raha hai...

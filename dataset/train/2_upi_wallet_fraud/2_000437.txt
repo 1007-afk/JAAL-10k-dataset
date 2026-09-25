@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is Rajesh from FreePay Wallet support. We've detected some unusual activity on your FreePay account.
+receiver: Unusual activity? What kind of activity? I haven’t done anything out of the ordinary.
+caller: Yes, ma'am. There’s been an attempt to transfer a large sum of money from your account to an unknown beneficiary. To secure your funds, we need to quickly verify your identity. Could you please provide the last three digits of your ATM card number?
+receiver: Wait a minute. FreePay never asks for ATM details. That sounds suspicious. Is this really FreePay?
+caller: Ma'am, please don’t worry. This is a standard security protocol to prevent fraud. We're doing this to protect you. Time is crucial, as the transaction is still pending. Just those last three digits, please? We’re also sending a one-time password to your registered mobile.
+receiver: I didn’t receive any OTP. And I’m not giving you my ATM card details. This is clearly a scam. I'm reporting this number.
+caller: Ma’am, this is very unfortunate. It seems there’s been a misunderstanding. The OTP might be delayed. We are trying to help you secure your account. Please reconsider.

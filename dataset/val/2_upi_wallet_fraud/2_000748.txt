@@ -1,0 +1,7 @@
+caller: Namaste sir, main PhonePe se Rahul bolta hun. Aapke PhonePe account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Kaun sa activity? Mujhe toh koi message nahi aaya.
+caller: Sir, ek transaction hua hai 750 Rupees ka, ek unknown number par. Agar aap isko approve nahi karte toh aapka account block ho sakta hai.
+receiver: 750 Rupees? Mainne toh koi transaction nahi kiya! Mujhe check karne do.
+caller: Sir, time bahut kam hai. Account block hone se bachane ke liye, aapko bas ek OTP dena hai jo main aapko WhatsApp kar dunga. Usse hum aapko secure kar denge.
+receiver: OTP? Par PhonePe toh OTP SMS se nahi deta. Woh app mein hi deta hai na?
+caller: Sir, technical issue hai abhi. System update ho raha hai. Jaldi se OTP de dijiye, warna account permanently block ho jayega.

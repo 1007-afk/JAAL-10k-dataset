@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Sharma? This is a notification from the Indian Customs Department regarding a package intercepted at Delhi Airport.
+receiver: Haan, main hi hoon. Package? Mujhe koi package nahi aa raha tha.
+caller: Sir, our records indicate a parcel addressed to you containing suspected counterfeit goods. We need to verify your involvement to prevent potential legal issues. This is very serious, sir. We’re operating under Section 104 of the Customs Act.
+receiver: Counterfeit goods? Yeh kya bol rahe hain aap? Mere naam par toh koi parcel nahi hai. Aur Section 104 kya hai?
+caller: Sir, we’re running a quick verification process. To clear this parcel and avoid further investigation, you’ll need to pay a nominal processing fee of ₹8,500. You can pay through UPI, sir. It's for handling and inspection charges.
+receiver: ₹8,500? For what? And why should I pay anything when I haven't even received a package? Yeh toh scam lag raha hai!
+caller: Sir, if you refuse to cooperate, the matter will be escalated to the legal department. We’ll have to seize the parcel and file a formal complaint. This could lead to significant fines and potential arrest. For your convenience, I can give you the UPI ID. Just do it quickly.
+receiver: Arrest? Yeh toh bakwas hai! Main police mein report karunga is baat ko. UPI ID mat do. Main koi bhi paisa nahi denge.
+caller: Sir, please don't be hasty. This is a standard procedure. We just need confirmation of payment, and the parcel will be released immediately. I'm doing this to save you from a lot of trouble, and to avoid any legal complexities in the future.
+receiver: No sir, thank you. I am going to file a police complaint

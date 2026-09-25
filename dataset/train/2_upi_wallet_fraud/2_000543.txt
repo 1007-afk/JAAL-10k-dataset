@@ -1,0 +1,7 @@
+caller: Hello, mai Paytm se Rohit bolta hoon. Aapke Paytm wallet mein cashback offer aaya hai – ₹10,000 cashback, sirf naya transaction kar ke.
+receiver: ₹10,000? Really? How to claim it? I use Paytm a lot.
+caller: Haan ji! Offer claim karne ke liye, aapko ek small processing fee bhar deni hogi – sirf ₹300. Verify karne ke liye.
+receiver: ₹300? Processing fee? Paytm mein toh kabhi koi fee nahi lagti thi. What’s the transaction ID? Aur aapka number batao, mai Paytm customer care se check karta hoon.
+caller: Transaction ID hai PX7892. Aur mai Paytm se direct bol raha hoon. Offer limited time ke liye hai, sir. ₹300 bhar den, ₹10,000 cashback ka milega! OTP jo milega usko share karo.
+receiver: Wait, OTP? But why do you need my OTP? This feels wrong. I’m calling Paytm customer care right now.
+caller: Sir, jaldi karo! Offer khatam ho jayega. OTP verification ke bina cashback nahi milega. Apni Paytm account ka loss mat karo!

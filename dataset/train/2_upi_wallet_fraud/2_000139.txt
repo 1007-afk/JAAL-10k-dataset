@@ -1,0 +1,8 @@
+caller: Hello sir, this is Priya calling from FreeCash Rewards. You’ve been selected for a cashback bonus!
+receiver: FreeCash Rewards? I don't remember signing up for anything. What's the bonus for?
+caller: It's a loyalty reward for using PhonePe regularly, sir. You’ve qualified for ₹5,000 cashback! To claim it, we just need to verify your account.
+receiver: ₹5,000? That’s quite a lot. How do I verify? Do I need to share any details?
+caller: Yes sir, just a small verification fee of ₹500 to process the cashback and prevent fraud. You can send it via UPI to the number I’ll give you.
+receiver: ₹500 verification fee? That seems a bit odd. Why can’t I just claim it directly through the PhonePe app?
+caller: Sir, it’s a new security protocol. PhonePe wants to ensure only the genuine account holder claims the reward. This is a one-time fee and it’s refundable along with the cashback once the process completes. Send the money to 8765432109 using UPI, sir.
+receiver: Wait a minute. This feels suspicious. I'm not comfortable sending money. I'll check with PhonePe directly.

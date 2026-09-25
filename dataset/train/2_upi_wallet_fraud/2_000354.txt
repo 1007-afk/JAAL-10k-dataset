@@ -1,0 +1,6 @@
+caller: Namaste, is this Mrs. Verma? This is Ankit calling from PhonePe Security. We've detected unusual activity on your account - a few small transactions to a new merchant.
+receiver: PhonePe? Haan, mein hoon Mrs. Verma. Kya hua? Kuch transactions? Mujhe toh koi yaad nahi aa raha.
+caller: Yes ma'am, that’s why we’re calling. It appears someone might be trying to access your account. To secure your funds, we need to do a quick verification. We’ll send you an SMS with a link to a secure webpage – just click on it and follow the instructions.
+receiver: Link? SMS se link? Yeh thoda risky toh lag raha hai. PhonePe toh kabhi SMS se link nahi bheja.
+caller: Ma’am, security protocols are changing. This is a new, enhanced verification process. It’s just to confirm you’re the legitimate account holder. Once you complete the steps, your account will be fully secured, and you can continue using PhonePe as usual. Just follow the link and enter the last six digits of your Aadhar card.
+receiver: Aadhar card ke digits? Kaise? Yeh PhonePe wale log toh bluff kar rahe hain. Mein toh koi link nahi kholungi.

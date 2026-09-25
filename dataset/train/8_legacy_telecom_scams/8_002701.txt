@@ -1,0 +1,8 @@
+caller: Namaste, kaise haal hain? Main Bharat Telecom se baat kar raha hoon. Aapko ek naya opportunity mil chuka hai - ek online gaming platform jo bahut hi exciting hai! Aap sirf 199 rupees mein ek month ke liye access pa sakte hain. Agar aap khelte hain, toh aap paise jeet sakte hain! Just message ‘WIN’ to 56789 and we will send you all the details. If you wish to unsubscribe, simply type ‘CANCEL’ to 56789.  So, what do you think? Interested in knowing more?
+receiver: Namaste, main theek hoon, dhanyavaad.  Mujhe samajh nahi aaya, main online gaming wala koi platform sign up nahi kiya hai.  Yeh kitna bakwaas hai!
+caller:  Aapko maaf karna, madam/sahab.  Ek technical issue ka naam le sakta hun.  Aapko purposely signup nahi kiya gaya tha.  Par agar aap curious hain, toh bas ek message karein.  Aur agar aap chahte hain ki aapko isme koi bhi account na lage, toh 'CANCEL' message karein.  Koi problem nahi hogi, believe me.
+receiver:  Main koi gambling ya betting mein interested nahi hoon.  Maine koi account banawa bhi nahi.  Agar koi mistake hui hai, toh thik hai, par mujhe phir se aise calls waala nhi chahiye.  Main 'CANCEL' message band kar dunga, please confirm karein ki mera account delete ho gaya hai.
+caller:  Haan, 'CANCEL' message mili hai. Aapka account delete ho gaya hai.  Koi tension mat lo, isse badhiya calls nahi aane wali.  Dhanyavaad.
+receiver:  Theek hai, dhanyavaad.  Bas, yeh sab bakwaas nahi chahiye.  Achcha, goodbye.
+caller:  Achcha, dhanyavad ke aapne confirm kiya.  Aapse baat karne mein khushi hui.  Aapka din achcha jaaye.
+receiver:  Achcha, dhanyavad.  Bas, yeh sab bakwaas nahi chahiye.  Achcha, goodbye.

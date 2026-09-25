@@ -1,0 +1,6 @@
+caller: Namaste, mein Airtel se Rahul bol raha hoon. Aapke Airtel account mein kuch suspicious activity dikhai de rahi hai. Aapko isko verify karna hoga urgent basis par.
+receiver: Airtel? Kya hua? Koi issue hai kya? Mujhe toh koi message nahi aaya tha.
+caller: Haan, sir. Ek OTP aapke registered number pe gaya hai. Woh OTP mujhe bata dijiye, taaki main aapke account ko secure kar sakoon. Account suspend bhi ho sakta hai warna.
+receiver: OTP? Mere number pe? Lekin mujhe toh koi OTP nahi mila. Aur aapka voice bhi thoda different sunai de raha hai.
+caller: Sir, network ke issue se kabhi kabhi OTP late milta hai. Dekhiye, time bahut kam hai. Account ki security important hai. Main aapko ek verification link bhi send kar sakta hoon, aap usko click kar ke details verify karein.
+receiver: Verification link? Nahin, bhai. Main aisa kuch click nahi karunga. Koi scam lag raha hai. Mujhe koi doubt ho raha hai. Main Airtel customer care number se call karta hoon aur check karta hoon. Tumhara number block kar raha hoon.

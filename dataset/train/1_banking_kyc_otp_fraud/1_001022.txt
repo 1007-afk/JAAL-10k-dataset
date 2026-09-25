@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main Paytm se call kar raha hoon. Aapke Paytm account mein security breach ka attempt hua hai. Aapke account ko secure rakhne ke liye kuch details verify karni hogi.
+receiver: Paytm se? Kya? Breach? Mujhe koi notification nahi mila.
+caller: Sir, yeh attempt bahut recent hua hai. Hum log abhi aapke account ko freeze kar rahe hain. Jaldi se verify karna hoga, warna account permanent suspend ho sakta hai. Aapka OTP share karein, please?
+receiver: OTP? Nahin, main OTP kisi ko nahi share karunga. Paytm kabhi OTP puchta nahi. Yeh fraud lag raha hai.
+caller: Sir, please! Account suspend hone se pehle verify karein. Humko sirf aapka Aadhaar card number chahiye, bas. Account secure karne ke liye. Thoda time waste ho jayega.
+receiver: Aadhaar card number bhi? Nahi, bilkul nahi. Main police mein complaint karunga. Yeh bahut hi badhiya scam hai!

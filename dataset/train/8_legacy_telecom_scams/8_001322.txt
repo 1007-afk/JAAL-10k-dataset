@@ -1,0 +1,8 @@
+caller: ammer : Hello ji, welcome! Aapko sunai de raha hai?  Receiver : Haan ji, sunai de raha hai. Kaun bol rahe ho?
+receiver: Ammer ji, main [Your Name] bol raha hoon. Aapka bahut bahut shukriya call karne ke liye. Kahiye, kya madad kar sakta hoon?
+caller: caller: Ji, main [Your Name] bol raha hoon from the Weekly iPod Competition. Aapne hamare number par call kiya tha for a chance to win an iPod, yaad hai?
+receiver: Oh, Weekly iPod Competition! Haan ji, mujhe yaad hai. Kya khabar hai uske baare mein?
+caller: scammer : Ji, bilkul yaad hai! Bahut mazedaar comp hai ye. Aapko pata hai, har hafte hum ek lucky winner ko ek brand new iPod jeetane ka mauka dete hain. Aapko bas ek chhota sa kaam karna hai to get your entry in.
+receiver: Achha ji, woh toh theek hai. Toh kya karna hoga mujhe jeetne ke liye?
+caller: scammer : Ji, aapko entry karne ke liye sirf ek chhota sa kaam karna hai. Aapko ek text message bhejna hai hamare special number par. Bas text \"POD\" likh ke 80182 par send kar dijiye. Toh aapki entry pakki ho jayegi. Yaad rahe, standard text rates apply hain.
+receiver: Text \"POD\" to 80182? Achha, theek hai. Aur yeh jo 'standard text rates apply hain' bol rahe ho, yeh kya matlab hai iska? Kitna charge hoga?

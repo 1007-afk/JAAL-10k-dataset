@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from Zomato customer care. We’ve noticed an unusual payment attempt on your account for ₹2700.
+receiver: Priya Sharma speaking. ₹2700? What's happened? I didn’t make any such order.
+caller: Yes, ma'am. It appears a large order was placed and partially processed. To prevent further fraudulent activity and cancel this order, we need to verify some details. Can you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need an OTP? Shouldn't you be able to cancel it from your end? This sounds a bit fishy.
+caller: Ma'am, for security purposes, we need to confirm it’s you requesting the cancellation. It's standard procedure.  The order contains expensive items and to confirm you didn't authorize it, the OTP is crucial to reverse the payment. Just a one-time verification.
+receiver: Okay, fine. Let me check... I got an OTP. It's 4582.
+caller: Thank you, ma’am. Just one moment while I process that… Okay, verification complete. Now, to fully reverse the payment and protect your account, we require remote access to your phone to disable the fraudulent order. Can you download and run TeamViewer?

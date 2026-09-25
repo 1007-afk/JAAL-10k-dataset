@@ -1,0 +1,9 @@
+caller: Namaste, main Ankit se baat kar raha hoon, DigiCash Solutions se. Aapke DigiCash wallet mein ₹500 ka cashback offer hai, sirf limited time ke liye.
+receiver: Oh, achha Ankit? Main Meena Sharma hoon. Cashback offer? Kispe?
+caller: Ji, Meena ji. Aapki last shopping transaction par. Aapko sirf ₹20 ka processing fee pay karna hai, tab cashback aapke wallet mein add ho jayega.
+receiver: ₹20? UPI se pay karna hai?
+caller: Haan, Meena ji. UPI se pay karna hai. ₹20 DigiCashRefund@upi par transfer karein. Transaction successful hone ke baad aapko ₹500 cashback mil jayega.
+receiver: ₹500?  Hmm, sahi hai.  Ek minute... transfer kar rahi hoon.
+caller: Shukriya, Meena ji. Aapka cashback abhi process ho raha hai. Please allow 5-10 minutes.
+receiver: The money is gone!  ₹2000 deducted from my account! What's happening?
+caller: Ma'af kijiye Meena ji. Ek technical error hua hai.  Aapko ₹1980 ka refund mil jayega.  Aapko ek aur ₹20 ka fee pay karna hoga refund process ke liye.  DigiCashRefund@upi par transfer karein.

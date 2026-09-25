@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit calling from DigiCash Rewards. We have a special cashback offer for our loyal customers. You've qualified for a ₹500 cashback prize!
+receiver: Oh, really? That's wonderful! How do I claim it?
+caller: Congratulations! To process your cashback, we need to verify your account. Can you please share the last four digits of your Paytm wallet linked phone number?
+receiver: Sure, it’s 4321.
+caller: Thank you. Just one more step. To activate the cashback and transfer it to your bank account, we need a small processing fee of ₹50 to cover the transaction charges. Please send it via UPI to digicashrewards@upi.
+receiver: ₹50? Is that really necessary?
+caller: Yes, it’s a one-time fee. Without it, we can’t release the ₹500 cashback. It’s standard procedure to protect your account from fraudulent activity. Once payment is received, your ₹500 will be credited instantly.

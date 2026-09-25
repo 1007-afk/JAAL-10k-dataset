@@ -1,0 +1,12 @@
+caller: Namaste sir, main Axis Bank security department se bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. Account ko suspend karne se bachane ke liye, aapko verification karna hoga.
+receiver: Axis Bank se? Suspicious activity? Mujhe koi notification nahi mila. Mera naam Rajesh Verma hai. Kaise detect hua?
+caller: Ji sir, Rajesh Verma ji. Hamara system ne ek lagta hai ki aapke account se ek online transaction attempt kiya gaya tha. Security ke liye, mujhe aapka OTP aur dob batao.
+receiver: OTP aur dob? Yeh thoda uncomfortable lag raha hai. Direct bank se toh aise nahi poochte.
+caller: Sir, yeh ek standard procedure hai. Account ko safe rakhne ke liye, hamko verify karna padega. OTP tumhare phone pe aayega. Dob batao.
+receiver: Theek hai, OTP aaya. Dekhte hoon… Par dob bataane se main comfortable nahi hoon. Yeh secure hai kya?
+caller: Sir, confirm karo OTP. Dob batao, otherwise account suspend ho jayega. Sir jaldi karo.
+receiver: Account suspend ho jayega? Arre yaar, yeh toh bohot serious hai. Dob bata doon to kya damage hoga?
+caller: Sir, dob ke bina hum verification nahi kar sakte. Aadhar card number bhi do.
+receiver: Aadhar card number bhi? Abhi zyada details pooch rahe ho. Main apne bank branch mein jaunga.
+caller: Sir, branch mein line lagenge. Time waste hoga. OTP aur Aadhar number do.
+receiver: Okay fine, OTP bata rahi hoon. Aadhar number 9876543210. But I am reporting this to the bank.

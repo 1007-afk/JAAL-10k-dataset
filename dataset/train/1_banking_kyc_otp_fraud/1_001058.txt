@@ -1,0 +1,9 @@
+caller: Namaste, main Axis Bank security department se Atul bol raha hoon. Aapke account mein suspicious activity dikhai de rahi hai.
+receiver: Oh! Kya hua? Kuch problem hai?
+caller: Ji, aapke naam par ek online transaction ka attempt kiya gaya hai, lekin verification ke bina ho gaya toh confirm karna hai. ₹15,000 Nepal mein gaya hua hai. Account suspend hone se bachne ke liye, aapko kuch details confirm karni hogi.
+receiver: ₹15,000? Nepal? Yeh to galat hai! Mujhe kuch pata nahi hai.
+caller: Sir, koi chinta mat kariyega. Aadhar card number aur OTP mil jaaye toh hum account secure kar sakte hain. Jaldi karna zaroori hai, warna account freeze ho jayega.
+receiver: Aadhar card number?! Aapko yeh kyu chahiye? Main trust nahi karta.
+caller: Sir, government’s new guidelines hai. KYC update compulsory hai. Aapko ₹15,000 ka loss bhi hoga.
+receiver: ₹15,000 ka loss… okay, ek minute. Main apne Axis Bank app check karta hoon.
+caller: Jaldi karna sir. Time bar raha hai. Account suspend hone se pahale details de dijiye.

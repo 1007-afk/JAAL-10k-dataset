@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Vinay, QuickLoanHub se baat kar raha hoon. Aapki KYC details ke according, aapko personal loan ke liye apply kiya tha. Sab kuch theek hai?
+receiver: Haan, ji. Main apply kiya tha. What’s the status?
+caller: Sir, aapka application approved ho gaya hai. ₹75,000 ka loan aapko milega, bas kuch formalities complete karne hain. Aapke bank account ka last transaction ka screenshot aur aadhar card ki copy chahiye hogi.
+receiver: Account ka screenshot? Why do you need that? It seems a bit risky.
+caller: Sir, yeh security check hai. Fraud se bachne ke liye hum yeh process follow karte hain. Aapko ₹75,000 urgently chahiye na? Iske bina, loan process ruk jayega. Aapka mobile number kya hai, main WhatsApp pe send kar doon?
+receiver: Okay, send WhatsApp number. But I’ll think about it.
+caller: Theek hai sir. WhatsApp number hai 9876543210. Please send the documents jaldi karo, otherwise loan approve nahi ho payega. And sir, ek chota sa favor. Agar aap apne dost ko bhi QuickLoanHub ke bare mein batayenge, to aapko loan pe interest kam milega.

@@ -1,0 +1,8 @@
+caller: Namaste sir, main Reliance Jio ke customer support se baat kar raha hu. Aapke phone ki SIM card 18 ghante mein deactivate ho rahi hai. Kya aap isko renew karna chahenge?
+receiver: Seriously? Jio se? Mein toh abhi saja number le saka tha. Deactivate kyun ho rahi hai? Itne saare ghante mein?
+caller: Sir, aapki SIM card mein koi technical issue nahi hai. Yeh Jio ka standard policy hai. Agar aap apni SIM card chalti rehna chahte hain, to sirf yeh confirmation lena hoga. Kya main aapke account details ko briefly verify kar sakta hoon - aapka registered number and aapki birth year?
+receiver: Okay, sure. Mere number is 8765432109. Aur meri birth year… let me see… 2nd January 1998.
+caller: Aapki birth year bilkul correct hai, sir. Aur confirmation ke liye, mujhe aapke SIM registration ke liye jo email id thi, wo bhi chahiye hogi. Batao, woh email id kya tha?
+receiver: Email ID? Uff, actually, I am not very clear about it. Can you tell me which email address Jio has saved for my account? Perhaps I can recall it.
+caller: Sir, security reasons se hum woh information share nahi kar sakte. Aap please try kijiye yaad karne ka. Agar yaad nahi aa raha hai, to hum ek alternate method par jayenge. Main aapke registered address pe ek verification code send karenge, woh code aap mujhe batayein. Isse confirmation hoga aur aapki SIM card activate ho jayegi.
+receiver: Verification code? On my registered address? This seems a bit complex. Could you just tell me what address they have on file for me? That might trigger my memory.

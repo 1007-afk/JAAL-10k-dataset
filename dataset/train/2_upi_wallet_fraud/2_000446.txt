@@ -1,0 +1,9 @@
+caller: Namaste sir, mai Bharat Bank se Rohit bol raha hu. Aapke naam par ek transaction fail hua hai.
+receiver: Transaction fail hua? Kab hua? Mujhe toh koi message nahi aaya.
+caller: Sir, transaction kal raat ko hua tha. ₹2500 ka attempt gaya tha, aur security reasons se bank ne hold kar diya hai.
+receiver: ₹2500? Mere account se? Mein toh kisi bhi transaction ka request nahi kiya tha.
+caller: Sir, aapko verify karna hoga taaki hum account release kar den. Verify ke liye aapko apna PhonePe UPI ID aur ek small amount ka OTP share karna hoga.
+receiver: OTP share karna? Aur PhonePe ID bhi? Yeh bahut risky lag raha hai. Mein PhonePe se direct contact karunga.
+caller: Sir, PhonePe se contact karne mein time lagega. Account block bhi ho sakta hai. Thoda time hai, offer abhi valid hai.
+receiver: Block ho sakta hai? Aur aapko mera UPI ID aur OTP chahiye? Nahin, yeh toh bilkul wrong hai. Mein call cut kar raha hu.
+caller: Sir, please, account block nahi hone den. Bas ek OTP, ₹100 ka.

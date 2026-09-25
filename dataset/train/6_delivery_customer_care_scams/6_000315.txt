@@ -1,0 +1,8 @@
+caller: Hello, good morning! This is Rohan calling from Bluedart Courier. We're experiencing a slight delay with your package destined for Mumbai. Can you confirm your delivery address for verification?
+receiver: Yes, sure. It's 123, Patel Nagar, Mumbai. What's the issue with the delivery?
+caller: Thank you. It appears there's a discrepancy in the payment details attached to the package. Our system flagged a potential fraud alert. To release the package and ensure safe delivery, we need to verify a one-time password we've just sent to your registered mobile number.
+receiver: A fraud alert? That’s concerning. Why wasn’t I informed earlier? And why do you need an OTP now?
+caller: We're working diligently to resolve these issues quickly. The OTP is just a security measure to protect your information and ensure the package reaches you securely. Please share the OTP so we can proceed with the delivery. It’s very important.
+receiver: Hold on. This sounds suspicious. I’m not giving you any OTP. I’ll contact Bluedart directly to confirm. What’s your employee ID?
+caller: Sir, please don’t delay the delivery. Time is running out. We need to resolve this immediately before the package is returned to sender. Share the OTP; it's a simple process, and your package will be on its way.
+receiver: No, thank you. I’m ending this call.

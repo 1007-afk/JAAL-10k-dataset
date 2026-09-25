@@ -1,0 +1,8 @@
+caller: Namaste, main BharatPay customer care se Rohit bol raha hoon. Aapke BharatPay wallet mein cashback offer kaafi popular ho raha hai.
+receiver: BharatPay? Cashback offer? Mujhe toh koi notification mila hi nahi. Woh kaise?
+caller: Sir, yeh offer sirf select customers ke liye hai. Aapki account eligible hai. Cashback claim karne ke liye, humein aapke BharatPay UPI ID ki verification karni hogi, aur ek chhoti si processing fee apply karni hogi, sirf ₹50.
+receiver: ₹50 processing fee? Cashback claim karne ke liye fee lagti hai? Yeh toh thoda funny hai. BharatPay app mein to koi fee nahi dikhati.
+caller: Sir, yeh fee sirf offer claim karne ke liye hai, yeh permanent nahi hai. ₹50 ke baad aapko ₹200 ka cashback milega. Aise offers baar baar nahi milte. Aapko apna UPI ID bata dijiye, main verification kar dunga.
+receiver: UPI ID? Haan, par mujhe thoda doubt ho raha hai. Kya aap mujhe ek BharatPay branch ka number de sakte hain jahan main call karke confirm kar sakta hoon?
+caller: Sir, BharatPay ka koi branch nahi hai. Sab kuch online hota hai. Aapko ₹50 fee confirm karni hai, tabhi aapko cashback ka benefit milega. Otherwise, offer expire ho jayega. Jaldi karo.
+receiver: Theek hai. Fir main ek minute rukti hoon aur apne BharatPay app mein check karti hoon. Aap wait karo.

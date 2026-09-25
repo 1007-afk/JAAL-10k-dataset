@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma speaking? I’m calling from ‘Global Trade Solutions’. We have a fantastic opportunity for you to earn extra income from home!
+receiver: Haan, main hi hun. Global Trade Solutions? Kya opportunity hai? Bataiye.
+caller: Absolutely! We are partnering with various e-commerce platforms and need people to verify product listings – just checking if the descriptions are accurate and if images are clear. Very simple work! You can earn up to ₹15,000 per week!
+receiver: ₹15,000? Really? And what’s the catch? It sounds too good to be true.
+caller: No catch at all! We just need a small initial payment of ₹750 to activate your verification account and provide you with access to the platform. It’s a one-time fee and fully refundable if you are not satisfied.
+receiver: ₹750? Why would I pay to *earn* money? What if I don't like the work?
+caller: It’s to cover the setup and security costs, Mrs. Verma. Think of it as a small investment in your potential earnings. And don’t worry, the money is guaranteed to come back. We can send you a payment receipt right now! Just give me your UPI ID.
+receiver: Wait a minute. A payment receipt? This feels very suspicious. I'm not comfortable giving you my UPI ID just like that.

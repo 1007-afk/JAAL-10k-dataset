@@ -1,0 +1,8 @@
+caller: Hello, this is Rohan from SwiftLoans. We've noticed some unusual activity on your linked bank account. Did you recently apply for a personal loan online?
+receiver: Yes, I did apply a few days ago, through LoanBuddy. What's the issue?
+caller: It appears someone attempted to process a loan application using your details, but with a different nominee.  We're just verifying it's you. To confirm, can you tell me the last four digits of your PAN card?
+receiver: I'm a little hesitant to give that out over the phone. How do I know this is really SwiftLoans?
+caller: Of course, madam. We understand your concern. This is a standard security protocol. For your peace of mind, our verification code is SL789. Can you confirm that?  We need to urgently secure your account. Also, a small processing fee of ₹2500 is required to unlock the loan.
+receiver: Two thousand five hundred? For what? I thought you said the loan was pre-approved. And the verification code doesn't match anything I received.
+caller: Madam, the fee is to prevent further fraudulent attempts on your account. It's a one-time charge. Transfer ₹2500 to the account number 1234567890, IFSC code SBIN0000123. Please do this immediately, otherwise, we might have to freeze your account due to suspected identity theft. We are also compiling evidence of your suspected involvement in the fake loan application.
+receiver: Freeze my account? What are you talking about? This is ridiculous! I'm reporting you.

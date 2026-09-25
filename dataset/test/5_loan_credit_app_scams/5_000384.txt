@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Anand Verma? I’m calling from SwiftCredit Solutions. We’ve reviewed your recent loan inquiry and pre-approved you for a substantial amount, up to 10 lakhs.
+receiver: SwiftCredit Solutions? That’s news to me. I don’t recall applying for a loan.
+caller: Sir, it was a simple online application through our partner portal, LoanConnect. Perhaps you filled it out without realizing? The approval process is incredibly fast, but we need to verify a few details first. Just to confirm, your mobile number is 9876543210?
+receiver: Yes, that’s my number. But why do you need to verify it now? I haven’t applied for anything.
+caller: To prevent fraudulent activity, sir. We need you to send a scanned copy of your Aadhaar card and a recent photograph to this WhatsApp number: 7777888899. Once we receive those, we’ll finalize the loan disbursement. It’s a standard security procedure.
+receiver: Wait a minute! Sending my Aadhaar and photo? That sounds risky. I've heard about scams like this.
+caller: Sir, please don't worry. We are a legitimate company. This is just to ensure the loan reaches the correct person. Think of the benefits - 10 lakhs in your account within hours! We’re ready to release funds as soon as we have those documents. It's a simple process, sir. Don't miss out on this opportunity.

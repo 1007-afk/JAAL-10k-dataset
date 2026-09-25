@@ -1,0 +1,7 @@
+caller: Namaste! Mein BharatPay se Rohit bolta hoon. Aapko Cashback Offer ke neeche ₹5000 ka Instant Cashback mil raha hai. Verification ke liye kuch details chahiye.
+receiver: BharatPay? ₹5000 Cashback? Mujhe toh koi offer yaad nahi. Aur details kya chahiye?
+caller: Haan ji, offer limited time ke liye hai. Sirf apna UPI ID aur ek OTP chahiye verification ke liye. OTP aapke registered phone number pe aayega. Isse cashback activate ho jayega.
+receiver: UPI ID toh fine, par OTP? Mujhe OTP share karne mein thoda hesitation ho raha hai. Yeh safe hai kya?
+caller: Sir, bilkul safe hai! BharatPay ne security standards maintain kiye hain. OTP sirf verification ke liye hai, aur cashback aapke BharatPay account mein instantly credit ho jayega. Ab aap UPI ID bata sakte hain?
+receiver: Theek hai, mera UPI ID hai [Victim's UPI ID]. Lekin mujhe yeh offer ke bare me jaanna hai, BharatPay app mein toh kuch dikh nahi raha.
+caller: Sir, yeh offer specially selected customers ke liye hai, jo BharatPay app pe dikhata nahi hai. Ab OTP bata dijiye, ₹5000 cashback aapka ho jayega!

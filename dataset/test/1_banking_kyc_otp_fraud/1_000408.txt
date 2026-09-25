@@ -1,0 +1,12 @@
+caller: Namaste sir, main HDFC bank se bol raha hoon. Kya main Mrs. Verma se baat kar sakta hoon?
+receiver: Ji, bol payenge. Sharma ji nahi hai. Aapko galat number lagaya hoga.
+caller: Haan, mujhe maaf karna. Maine thoda confusion mein number check kiya tha. Main Mrs. Gupta ko dhundhne wala tha. Aapki madad ke liye dhanyavaad. Main abhi call cut karta hoon. Good day!
+receiver: Koi baat nahi sir. Number mistake hoti hai. Aapka din achha jaye.
+caller: Namaste sir, main ICICI bank se bol raha hoon. Main aapke account mein ek mahatvapurn notification dena chahti hoon. Kya aap Mrs. Khan se baat kar sakti hain?
+receiver: Ji, bol payegi. Wrong number hai yeh. Aapko kuch search karna padega.
+caller: Oh, sorry madam! Mujhe pata chala ki maine galat number lagaya. Main Mr. Singh ko connection karne ki koshish kar rahi thi. Aapki wajah se mujhe confusion hua. Dhanyavad. Main call end karta hoon.
+receiver: Koi baat nahi madam. It’s okay. Check your number carefully next time. All the best.
+caller: Namaste sir, main SBI bank se bol raha hoon. Main aapko apne account ke bare mein ek important information tellna chahta hoon. Kya main Mr. Patel se baat kar sakta hoon?
+receiver: Ji, bol sakte hain.  Yahan koi Mr. Patel nahi rehte.  Aapko kisi aur ka number lagana padega.
+caller: Arre, mujhe maaf karna.  Maine number galat mila tha.  Main Mrs. Joshi ko contact karne ki koshish kar raha tha.  Aapki madad ke liye thank you.  Main abhi call cut karta hoon.  Have a nice day!
+receiver:  Koi baat nahi sir.  Number mistake hoti hai.  Aapka din khush ho.

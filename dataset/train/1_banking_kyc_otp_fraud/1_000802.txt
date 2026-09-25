@@ -1,0 +1,7 @@
+caller: Namaste! Calling from Axis Bank KYC department. We noticed some unusual activity on your account and need to update your information to prevent fraud. Can you please confirm your date of birth for verification?
+receiver: Axis Bank? Unusual activity? Which account are you talking about? I have multiple accounts.
+caller: Yes, sir, your savings account ending in 4582. To secure it, we need to verify your date of birth and then send a one-time password to your registered mobile number for final confirmation. This is a standard security protocol.
+receiver: Okay, my date of birth is 12/07/1988. But why can't I do this online through the Axis Bank app?
+caller: Sir, this is a priority update due to the detected risk. Online portals are not equipped to handle such immediate security threats. Now, please check your mobile for the OTP. It will be a six-digit number.
+receiver: I just got an OTP. It’s 864210. But I'm still a bit unsure. Can you give me the direct number of my local Axis Bank branch so I can verify this with them?
+caller: Absolutely, sir! Please do not worry. To proceed with confirming the update and prevent any further risk, we just need one last piece of information: the expiry date of your debit card. This will allow us to fully lock down any suspicious activity.

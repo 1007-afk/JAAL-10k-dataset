@@ -1,0 +1,6 @@
+caller: Namaste! Welcome to QuickCash Solutions. We're excited to offer you a pre-approved personal loan of ₹50,000, just for being a valued customer. It’s super fast and easy!
+receiver: ₹50,000? That's good. But I haven't applied for any loan. How did you get my number?
+caller: No worries, sir! It's a special promotion. To activate the loan, we just need a small registration fee of ₹2,500 as security. Once the loan is released, it will be deducted.
+receiver: ₹2,500 just for registration? That seems a bit much. I'm not comfortable with that. Can I see some details about the loan terms and interest rates?
+caller: Sir, time is critical! This offer is only valid for the next few hours. If you delay, someone else will grab it. Think about it, you get ₹50,000 instantly, and we just need the ₹2,500. To secure your loan, please send the amount to UPI ID: quickcash.secure. Payment confirmation is vital!
+receiver: Wait a minute... I’m getting a bad feeling about this. I'm going to disconnect the call now. I’m reporting this number.

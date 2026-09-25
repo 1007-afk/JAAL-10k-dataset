@@ -1,0 +1,8 @@
+caller: Namaste, mai Indian Customs se Manish Sharma bolta hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rukaya gaya hai. Ismein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Mai toh koi parcel order nahi kiya tha. Yeh kya ho raha hai?
+caller: Ji, parcel number is IN3456789012. Isi naam aur address par aaya hai. Parcel mein suspicious electronic devices mili hain, jo drug trafficking mein uthaayi jaati hain.
+receiver: Drugs? Electronic devices? Lekin main toh kuch nahi janta. Mujhe yeh sab dhoka lag raha hai. Aapka identification number bataiye?
+caller: Sir, identification number disclose karne ki ijazat nahi hai. Lekin, aapko ise clear karne ke liye ₹15,000 fine bhar dena hoga. Woh bhi credit card se hi bhar payenge, online transaction ke zariye. Varna, case register hoga aur aapko arrest bhi kiya ja sakta hai.
+receiver: ₹15,000? Arrest? Yeh bahut hi badmasti hai! Main police mein complaint karunga. Aapka phone number dedo, mai us par call karta hoon.
+caller: Sir, please, mat karna yeh. Police se call karne se kuch nahi hoga. Yeh system underground hai. Aapko apne credit card number aur CVV bataiye, mai transaction process karta hoon. Jaldi karna chahiye, otherwise police aapke ghar aa jayegi.
+receiver: CVV number nahi bataunga. Koi bhi serious officer aise nahi bolta. Yeh ek scam hai! Mai abhi call kat raha hoon.

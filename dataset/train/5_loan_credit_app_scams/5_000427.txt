@@ -1,0 +1,8 @@
+caller: Namaste, sir! My name is Amit from LoanExpress India. I’m calling regarding your recent loan application. We’ve pre-approved you for a quick loan of Rs. 50,000! Just a few simple formalities to complete, and the money will be in your account within the hour.
+receiver: LoanExpress India? I don’t remember applying for a loan.
+caller: That’s perfectly alright, sir. Sometimes applications are submitted online without the applicant realizing. To verify your identity, could you please share the last four digits of your bank account number? It’s just for security purposes, sir.
+receiver: I’m not comfortable sharing my bank details over the phone with someone I don't know. Are you sure this is a legitimate company?
+caller: Sir, there’s absolutely no need to worry. We are a fully registered and licensed financial institution. But, to process your loan immediately, we require a small processing fee of Rs. 2,500, which will be refunded to you once the loan is disbursed. Pay it via UPI to this number – 8768768768.
+receiver: A processing fee? This sounds very suspicious. I'm going to have to decline this.
+caller: Sir, please don’t be hasty! This is a fantastic opportunity to get a loan quickly. If you don't pay the processing fee within the next 30 minutes, your application will be rejected and we will send a negative report to the credit bureaus. This will severely impact your credit score.
+receiver: That’s a threat! You're trying to blackmail me! I am reporting this number. Goodbye.

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? I am calling from the Directorate of Revenue Intelligence, Delhi.
+receiver: Haan, main hi Mrs. Sharma. Bolo?
+caller: Mrs. Sharma, we have detected some unusual activity linked to your bank account, specifically some transactions involving cryptocurrency exchanges. It appears there might be a case of money laundering connected to your account.
+receiver: Kya? Money laundering? Lekin main toh itna bhi nahi kamaati ki... Yeh kaise ho sakta hai?
+caller: We understand it’s concerning, Mrs. Sharma. However, our initial investigations suggest your account was compromised and used without your knowledge. To prevent legal complications and further investigation by the Enforcement Directorate, we need you to deposit ₹15,000 as a processing fee to demonstrate your cooperation.
+receiver: ₹15,000? Aur ye processing fee kahan bhejna hai? Main tumhe koi bhi amount nahi bhejoongi jab tak mujhe sachchai nahi dikhayenge. Aur main FIR bhi karwaungi.
+caller: Mrs. Sharma, you are putting yourself at serious risk. This is a standard procedure to clear your name. You can deposit the amount to the given UPI ID: 8877889900@axisbank. Please do this immediately, or we will have no choice but to escalate the matter to a higher authority and you will be subjected to a detailed investigation and potential arrest.
+receiver: Arrest? Main abhi police ko call kar rahi hoon. Tumhara number save kar rahi hoon aur complaint register kar rahi hoon. Yeh fraud hai!
+caller: Mrs. Sharma, please don't do that! You are making a mistake. Once the payment is verified, we will provide you with a clearance certificate. This is just a small price to pay to avoid a lengthy and costly legal battle. Time is running out, Mrs. Sharma. Please cooperate.

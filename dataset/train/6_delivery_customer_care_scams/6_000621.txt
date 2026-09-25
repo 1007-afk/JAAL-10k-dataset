@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Rajesh Verma? I’m calling from Swiggy Customer Care. We’ve noticed a discrepancy with a recent order placed through your account.
+receiver: Yes, speaking. What discrepancy?
+caller: Sir, it appears there was an attempted payment of ₹8,750 for a premium delivery service you didn't authorize. It’s flagged as potentially fraudulent.
+receiver: ₹8,750? That's ridiculous! I haven't ordered anything that expensive, and definitely not a premium delivery.
+caller: Yes, sir. To secure your account and prevent further unauthorized transactions, we need to verify your identity. Could you please share the last four digits of your registered card? Just a quick security check.
+receiver: Wait a minute. Swiggy doesn't ask for card details over the phone. This sounds suspicious.
+caller: Sir, it’s standard procedure. We are protecting your account from misuse. Also, we've sent a one-time password (OTP) to your registered mobile number. Please share that with us so we can block the fraudulent charge.
+receiver: I'm not giving you any OTP or card details. I'm going to call Swiggy directly through their official number. Goodbye.
+caller: Sir, please don't disconnect! This is urgent. Without the OTP, your account will be temporarily suspended, and you won’t be able to place future orders. You'll lose access to all your Swiggy privileges.
+receiver: I don’t care. You’re a scammer.

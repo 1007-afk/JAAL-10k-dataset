@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Amazon Pay se. Aapko ek cashback offer mila hai, ₹500 ka, agar aap Amazon Pay wallet mein ₹100 recharge karein. Bahut simple offer hai, Diwali special.
+receiver: ₹500 cashback? Really? Amazon Pay mein recharge?
+caller: Haanji, bilkul! ₹100 recharge karwa ke ₹500 cashback apne wallet mein le jayenge. Offer limited time ke liye hai. Aapko sirf ek OTP verify karna hai.
+receiver: OTP? Kaise verify karna hai? Mujhe toh koi offer notification mila hi nahi hai.
+caller: Sir, OTP aapke registered mobile number par aayega. Usse verify karwa lijiye, tab cashback instantly activate ho jayega. Offer valid hai sirf aaj tak ka, jaldi karna hoga.
+receiver: Wait a minute… Amazon ne kabhi OTP maanga nahi hai recharge ke liye. Let me check my Amazon Pay app directly.
+caller: Sir, app mein technical issues ho sakte hain. Yeh direct offer hai Amazon Pay ke side se. Jaldi do, nahin to offer miss ho jayega.
+receiver: Okay, this is definitely fishy. I’m not giving you any OTP. I'm going to report this.

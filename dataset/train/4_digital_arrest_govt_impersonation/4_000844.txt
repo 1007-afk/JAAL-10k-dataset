@@ -1,0 +1,6 @@
+caller: Namaste, mai Indian Customs se Deepak Verma bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par roka gaya hai. Is parcel mein illegal items paye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya. Yeh kya ho raha hai? Aur aap Indian Customs se bol rahe hain, yeh confirm kar sakte hain?
+caller: Ji, hum Indian Customs se hi hain. Aapko legal formalities complete karni padengi aur ek fine bhar payega taaki parcel release ho sake. Fine ki amount 12,000 Rupees hai.
+receiver: 12,000 Rupees? Lekin main toh kuch bhi order nahi kiya hai. Aur parcel mein kya illegal items hain? Aap mujhe parcel ka description toh batayiye, ya tracking number toh dijiye.
+caller: Parcel mein electronic gadgets hain jo customs regulations ka violation karte hain. Aapko phone pe hi payment karna hoga, otherwise humko मजबूरी में आगे की कार्रवाई करनी पड़ेगी. Aapka bank account number dijiye.
+receiver: Bank account number? Dekhiye, yeh toh galat lag raha hai. Main police mein report karunga agar aapko koi proof nahi hai aur bank account number bhi nahi dunga. Aapka number save karta hoon aur complaint register karta hoon.

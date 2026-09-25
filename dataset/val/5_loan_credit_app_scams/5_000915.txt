@@ -1,0 +1,9 @@
+caller: Namaste! Main Akash, LoanHelp se baat kar raha hoon. Aapka naam Rahul Verma hai na? Aapne apne phone mein LoanHelp app install kiya tha, aur aapki loan application approved ho gayi hai!
+receiver: Haan, mujhe LoanHelp app install kiya tha. Loan kitne ka approve hua hai?
+caller: Sir, ₹15,000 approve hue hain. Lekin abhi transfer karne se pehle, hamein aapka bank account detail check karna hai. Ek OTP aapke phone pe aayega, woh bataiye.
+receiver: Theek hai, wait karo... Aaya OTP. Yeh hai 458923.
+caller: Ji, 458923 confirm ho gaya! Ab, sir, security ke liye, aapko ₹500 verification fee jama karvani padegi. Iska payment UPI se kar sakte hain - ID hai LoanHelpUPI@hdfc.
+receiver: ₹500 verification fee? LoanHelp app mein toh aisa kuch nahi tha.
+caller: Sir, yeh ek new security measure hai, government ne naya rule banaya hai. ₹500 jama kar dijiye, tabhi loan transfer hoga. Jaldi karna hai, offer limited time ke liye hai.
+receiver: Paanchsau rupay? Mai baad mein jama kar dunga.
+caller: Sir, nahi, abhi jama karni hogi. Varna offer cancel ho jayega. Aapko loan bhi nahi milega. Aapka loan approve ho gaya hai, iska fayda uthayiye.

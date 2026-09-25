@@ -1,0 +1,8 @@
+caller: Namaste! Yeh BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein ₹12,000 ka cashback offer chal raha hai, sirf limited time ke liye.
+receiver: ₹12,000 ka cashback? BharatPay pe? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, special offer hai. Verify karne ke liye, aapko sirf ek OTP dena hai jo aapke registered number pe aaega. Isse pata chal jayega aap offer ke liye eligible hain ya nahin.
+receiver: OTP? Par kaise pata chalaun ki yeh BharatPay ka genuine call hai? Mujhe thoda doubt ho raha hai.
+caller: Sir, chinta mat karo. OTP sirf verification ke liye hai, aur yeh bilkul secure hai. Woh check kar lenge aap BharatPay ke valid user hain ya nahin. Jaldi karo, offer jaldi hi end ho jayega!
+receiver: Theek hai. Chalo dekhte hain. OTP check kar raha hoon.
+caller: Bahut achha! Ab OTP check ho gaya hai. Ab aapko apna BharatPay wallet mein ₹500 sirf ‘processing fee’ ke taur pe daalna padega, fir cashback aapke account mein transfer ho jayega.
+receiver: ₹500 processing fee? Yeh to fraud lag raha hai! Main nahi karunga.

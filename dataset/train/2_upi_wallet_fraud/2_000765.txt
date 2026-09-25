@@ -1,0 +1,8 @@
+caller: Namaste! Main PhonePe se Rahul bolta hoon. Aapke PhonePe account mein cashback offer aaya hai ₹750. Aapne recently Flipkart se kuch kharida tha, isliye aap eligible hain.
+receiver: ₹750 cashback? Flipkart se purchase kiya tha, haan. Batao kaise claim karun?
+caller: Claim karne ke liye aapko ek OTP verify karna hoga. Main aapko ek link send karunga, us par click karke OTP enter karein. Jab OTP verify ho jayega, ₹750 cashback aapke PhonePe wallet mein add ho jayega.
+receiver: Link send karo. Aur sahi se check kar lo, mere number pe OTP kabhi bhi nahi chahie.
+caller: Ji ji, thoda wait karein. Main link send karta hoon. Abhi aapko ₹750 ka cashback claim karne ka golden chance hai. Jaldi karo, offer sirf 20 minute ke liye hai!
+receiver: ₹750 ka offer? Okay, link check kar raha hoon. Dikhega toh hi confirm karunga. Par lein, main PhonePe app se hi check karunga.
+caller: Haan haan, bilkul check karna. Offer valid hai, aur aapka cashback confirm ho jayega. Parle me 10 minute ka time hai, jaldi click karein!
+receiver: Chalega. Jaldi kar do.

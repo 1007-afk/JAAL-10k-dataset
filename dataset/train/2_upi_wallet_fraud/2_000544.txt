@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We are calling from Google Pay regarding a cashback offer on your recent transaction. You've been selected for a special reward of ₹1500!
+receiver: Google Pay? Oh really? Which transaction are you talking about? I don't remember any special offer.
+caller: Sir, it’s linked to a purchase you made at Reliance Digital yesterday. To activate the cashback, we need to verify your account. Please send 'CLAIM' via SMS to 98765. It’s a one-time verification fee of just ₹50.
+receiver: ₹50 verification fee? That sounds a bit strange. Google Pay usually doesn't ask for money to give cashback. Can you please tell me the transaction ID?
+caller: Sir, due to high volume, transaction IDs are not being shared currently.  This is a limited-time offer and the system is automatically processing claims.  If you don’t send ‘CLAIM’ to 98765 within the next minute, you will lose the ₹1500 cashback. Please don't delay.
+receiver: Just a minute. I'm checking the Google Pay app right now... No, there’s nothing about this offer here. This feels like a scam. I am not sending anything to anyone. Thank you.
+caller: Sir, don’t miss out! This is a genuine offer.  Just send CLAIM now and receive your ₹1500 cashback. We can't guarantee it will be available for long!

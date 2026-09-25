@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Rohit bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. Security ke liye, aapko apna account verify karna hoga.
+receiver: Axis Bank? Suspicious activity? Kya hua? Account mein kitna paisa hai?
+caller: Sir, woh main bata nahi sakta. Account suspend hone se bachne ke liye, aapko bas kuch details confirm karni hai. Pehle, apna naam bataiye please.
+receiver: Mera naam Rajesh Sharma hai. Aur OTP kyon nahi aaya mujhe? Jab koi call karta hai toh OTP aana chahiye na?
+caller: Sir, OTP security reason se automatic nahi bhej rahe hain. Yeh ek new process hai. Ab aapko apna Aadhaar card ka last 4 digits bataiye.
+receiver: Aadhaar number? Ye thoda risky toh lag raha hai, sir. Par account suspend na ho, isliye bata raha hoon. 4589.
+caller: Dhanyavaad, Rajesh ji. Ab, aapka bank account number ka last 6 digits bataiye, taaki hum verify kar sake.
+receiver: Bank account number ka last 6 digits? Thoda wait karo, main check karta hoon…

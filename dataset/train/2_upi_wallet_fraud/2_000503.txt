@@ -1,0 +1,8 @@
+caller: Namaste, main Rahul, PaySecure Solutions se. Aapke Paytm account mein kuch suspicious activity detect hui hai. ₹250 ka ek unauthorised transaction hua hai.
+receiver: Kya? ₹250? Mein toh koi transaction kiya hi nahi.
+caller: Haan ji, hamko bhi pata chala tab. Security ke liye, hamko aapka account verify karna hoga. Aapka OTP share karein, please?
+receiver: OTP? Haan, par kaise verify karoge? Mein toh koi bhi scam nahin padna chahti.
+caller: Koi chinta mat karein. Ham sirf aapka account secure karna chahte hain. OTP se ham confirm kar lenge ki account aapka hi hai. OTP mil gaya hai kya?
+receiver: Haan, mil gaya. Par ₹250 kahaan gaya?
+caller: Woh ek pending transaction hai. Jab aap OTP verify kar lenge, toh woh automatically revert ho jayega. Ab, ₹50 ka processing fee UPI ke zariye transfer karein, taaki ham process start kar sakein.
+receiver: ₹50 fee? Yeh to theek nahi lag raha hai. Mein police mein report karungi.

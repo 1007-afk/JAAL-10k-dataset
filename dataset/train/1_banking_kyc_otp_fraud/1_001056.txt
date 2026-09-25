@@ -1,0 +1,6 @@
+caller: Namaste, main IDFC First Bank se Ankit bol raha hoon. Aapke naam par ek suspicious transaction ka detection hua hai. Is transaction ko block karne aur aapke account ko secure karne ke liye, mujhe kuch details verify karne ki zaroorat hai.
+receiver: Hello, kya hua? Suspicious transaction? Main abhi hi bank mein gaya tha, kuch hua hai kya?
+caller: Haan ji, sir. Ek online transaction attempt hua hai, jo Delhi se kiya gaya tha. Aapne kabhi Delhi visit nahi kiya hai, isliye humein verify karna padega. Pehle, kya aap mujhe apna Aadhaar card ka last 4 digits bata sakte hain?
+receiver: Aadhaar number? Bank mein toh Aadhaar number kabhi nahi puchhte. Yeh thoda suspicious lag raha hai.
+caller: Sir, is verification ke bina hum account block kar denge. Yeh security protocol hai. Agar aap account nahi chahate, toh hum karenge. Bas last 4 digits ka number bata dijiye, bas itna hi.
+receiver: Okay, theek hai. Last four digits hain [XXXX]. Par mujhe ek message aaye tha bank se, OTP number se. Woh message main dekh raha hoon. Jaldi batao, kya karna hai.

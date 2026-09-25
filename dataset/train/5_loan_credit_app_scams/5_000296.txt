@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Sanjay hai, CreditQuick se. Aapki KYC details ke according, aapko ₹25,000 tak ka instant loan mil sakta hai. Approve hone mein sirf 2 minute lagenge.
+receiver: ₹25,000 ka loan? Mujhe toh kabhi loan nahi lene ka plan tha. KYC details se aapko kaise pata chala?
+caller: Sir, humara system sabse connect hai. Aapki financial history ko dekh kar pata chala ki aap credit ke liye eligible hain. Processing fee ke liye sirf ₹750 dalne hai, aur phir loan direct aapke account mein transfer ho jayega.
+receiver: ₹750 processing fee? Yeh thoda zyada lag raha hai. Aur account mein transfer karne se pehle, koi document check karna hai kya?
+caller: Sir, yeh security ke liye hai. Dusri koi company itni safe process nahi deti. Aur document check karne ki zaroorat nahi hai, hum online hi verify kar lete hain. Jaldi karo, sir, offer limited time ke liye hai.
+receiver: Yeh kuch kharab lag raha hai. Main nahi karoonga. Aapko block kar raha hoon.
+caller: Sir, arre! ₹25,000 aapke haathon mein hai! Just one last thing - bank OTP de dijiye, main verify karunga aur loan approve ho jayega.

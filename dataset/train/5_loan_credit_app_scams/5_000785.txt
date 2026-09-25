@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul from InstaCredit Solutions. We’ve noticed you recently applied for a personal loan online. Just a quick verification to process your application – can you confirm your date of birth please?
+receiver: Yes, it’s 14th August, 1988.
+caller: Excellent! Your application looks promising. We can offer you a loan up to ₹75,000. But first, we need to verify your account security. Could you please share the OTP you just received on your phone?
+receiver: OTP? Why do you need my OTP? I didn't ask for a loan. This feels suspicious.
+caller:  It's standard procedure, sir! We need to make sure it’s really you. It’s for your protection against fraud, you see.  Once we verify, the money will be in your account within the hour. We will transfer ₹75,000 straightaway.
+receiver: No, thank you. I am not giving you my OTP. I will report this number. Goodbye.
+caller: Wait, sir! Don't hang up! Just one moment, I can offer you ₹10,000 credit instead, to compensate your time. This is just a gesture of goodwill.

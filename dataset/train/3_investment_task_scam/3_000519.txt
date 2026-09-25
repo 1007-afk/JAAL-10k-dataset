@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Sharma? I’m calling from ‘Global Task Rewards’. We’ve noticed your profile shows interest in extra income. We have a very simple data entry task, just verifying app ratings. Very easy, pay is 500 rupees per 100 tasks.
+receiver: Global Task Rewards? Really? Sounds good, I could use some extra money. What kind of apps are we talking about? Is it legit?
+caller: Absolutely legit! We work with several popular app developers. Mostly lifestyle and gaming apps. The work is straightforward - just rate them based on your experience. To get started, we need a small verification fee of 200 rupees to activate your account. It’s a one-time fee.
+receiver: 200 rupees? Verification fee? I wasn’t expecting that. Is there any guarantee I'll actually get paid after I finish the tasks? I don't want to waste my money.
+caller: Of course! We are fully transparent. Once you complete 50 tasks and reach 2500 rupees, we'll send you the verification fee back plus your earnings! Just send the money to the UPI ID I’ll provide. It’s a quick process.
+receiver: Okay, UPI ID then. What is it? And can you show me some proof of people getting paid before I send anything? Just to be sure.
+caller: The UPI ID is 9876543210@ybl.  We can’t share individual payout details for privacy reasons, but we have testimonials on our website. Just complete the tasks, and you'll see for yourself!

@@ -1,0 +1,8 @@
+caller: Namaste, sir. Yeh Indian Customs se baat kar raha hoon. Aapke naam par ek parcel aaya hai Delhi airport par, jismein illegal items paye gaye hain.
+receiver: Illegal items? Woh kaise? Mein toh kuch order kiya tha kapde ka.
+caller: Sir, parcel mein suspicious substances mile hain. Isliye case register ho gaya hai. Aapko CBI ke officer se baat karni padegi. Abhi video call pe aao, warna case aage badhega aur fine lag sakta hai.
+receiver: Fine kitna lagega? Aur CBI officer se kaise baat karoon? Mujhe koi samajh nahi aa raha hai.
+caller: Sir, fine ₹50,000 lagega. Mein hi CBI officer hoon. Abhi call par dekhiye, warna aapko court mein bhi jaana pad sakta hai.  Dekhiye sir, aur zyada pareshani nahi hona chahiye. Abhi ₹50,000 ka settlement kar lijiye.
+receiver: ₹50,000 bahut zyada hai! Main kaha se laaunga? Mein toh ek normal aadmi hoon.
+caller: Sir, aapko bank transfer karna hoga. Account number mein daal dijiye, aur main aapko release kar dunga.  Aapko koi galti nahi karni chahiye. Yeh bahut serious matter hai. Account number hai: 1234567890.
+receiver: Theek hai, mein transfer karta hoon. Parantu, mujhe yeh receipt chahiye hogi.

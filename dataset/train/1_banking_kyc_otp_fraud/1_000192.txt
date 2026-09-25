@@ -1,0 +1,8 @@
+caller: Namaste Sir, Kotak Mahindra Bank se baat kar raha hoon. Kya main Mr. Sharma se baat kar sakta hoon?
+receiver: Ji, Namaste. Sharma ji? Main hi hoon. Kahiye, kya madad kar sakta hoon?
+caller: Haanji, Mr. Sharma. Main Kotak Mahindra Bank se bola raha hoon. Aapke account mein ek suspicious transaction detect hua hai, sir. Kya aapko yaad hai, aapne aaj koi large amount transfer kiya tha?
+receiver: Suspicious transaction? Arre nahi sir, mujhe toh bilkul yaad nahi hai. Kahi koi galat toh nahi ho gaya?
+caller: Aapke account mein ek suspicious transaction detect hua hai, sir. Kya aapko yaad hai, aapne aaj koi large amount transfer kiya tha?
+receiver: Arey, suspicious transaction? Mujhe toh bilkul yaad nahi hai kuch bhi aisa karne ka. Kahi kuch gadbad toh nahi ho gayi?
+caller: Sir, yeh thoda serious matter hai. Aapke account se ek amount bahar gaya hai, aur humein confirm karna hai ki yeh aapne hi kiya hai. Agar aapne nahi kiya, toh humein turant action lena hoga. Aapke registered mobile number pe ek OTP gaya hai, kya woh aapko mila hai sir?
+receiver: OTP? Nahi sir, mujhe toh koi OTP nahi mila. Aap keh rahe hain mere account se paise nikal gaye? Yeh toh chinta ki baat hai. Aap bataiye, kya karna hoga?

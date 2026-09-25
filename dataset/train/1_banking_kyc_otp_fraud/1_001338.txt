@@ -1,0 +1,7 @@
+caller: Hello, this is Anjali calling from HDFC Bank’s KYC department. We've noticed some discrepancies in your account details and need to update your information urgently to prevent account suspension.
+receiver: KYC update? Okay. What kind of discrepancies? My account seems fine to me.
+caller: It appears your registered mobile number is outdated, and we’ve received a request for a change of address. To verify, could you please share the last four digits of your PAN card? It’s a standard security measure.
+receiver: Last four digits of my PAN? Why can't you just verify through SMS or something? This feels a bit strange.
+caller: Unfortunately, due to increased security protocols, we need to manually verify with a PAN detail. This is a one-time process only. Account suspension is imminent if we don't confirm this within the hour. We have to follow strict regulations.
+receiver: Okay, let me check. It’s 4582. But I’m still a little uneasy about this. Can you tell me the official HDFC phone number you're calling from? I want to double-check.
+caller: Thank you. Yes, for your safety, we'll now require a one-time OTP to be sent to your registered email address to complete the process. Please share the OTP once you receive it.

@@ -1,0 +1,8 @@
+caller: llo? Hello? Can you hear me? I’m calling from the State Tax Department. We have an urgent matter regarding your outstanding tax payment. There's a notification about a significant penalty and interest charges. Please call this number immediately: 09212345678. Don't delay, because if you don't respond within 24 hours, legal action will be taken.
+receiver: Haan, sunai de raha hai. State Tax Department? Arey yaar, maine kabhi tax diya tha kya? Kya penalty hai? Notification hai? Theek hai, main abhi call karta hoon us number pe. Shukriya!
+caller: Bahut badhiya! Jaldi se call kar lijiye. Aapke paas sirf 3 attempts left. If you don’t respond within the next 12 hours, we’ll have to escalate this issue to the authorities. Remember, this number is 09212345678.
+receiver: Achha, 3 attempts? Main abhi try karta hoon. Thank you for letting me know!
+caller: Haan ji, bilkul! Just 2 tries remaining now. Time is running out, so quickly dial 09212345678. Do you need any information about the amount due? I can provide details.
+receiver: Arey, 2 tries? Theek hai, theek hai. Koi aur detail nahi chahiye, bas bataiye, yeh penalty actual mein hai na? Matlab, koi government department hai na? Aur agar main abhi nahi kar paya toh baad mein call kar sakta hoon?
+caller: Bilkul actual ji! The tax officials sent this notification themselves. And no, there are only 1 opportunity left now. Immediately call 09212345678, or everything will be lost. Last chance!
+receiver: Arey yaar, sirf ek try? Abhi toh main kuch kaam kar raha hoon! Agar kal subah tak call kiya toh milega kya? Ya koi aur contact number hai jisse main baat kar sakoon?

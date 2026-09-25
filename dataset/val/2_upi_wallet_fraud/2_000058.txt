@@ -1,0 +1,7 @@
+caller: Namaste, mai Rahul se bol raha hu Flipkart customer care se. Aapke Flipkart account mein ek transaction fail hogaya hai, ₹499 ka.
+receiver: Flipkart se? Kya transaction fail hogaya? Mujhe to koi notification nahi aaya.
+caller: Ji, system mein dikh raha hai. Transaction fail hone ke wajah se aapka account temporary suspend ho gaya hai. Account reactivate karne ke liye, aapko apna registered mobile number pe jo OTP aaya hai woh share karna padega.
+receiver: OTP? Flipkart toh kabhi OTP maangta nahi. Yeh kuch ghalat lag raha hai.
+caller: Sir, security ke liye, OTP confirm karna zaroori hai. Aur kuch details bhi manaunga jo verify kar sake. OTP bataiye, please, aur account zaroor reactivate ho jayega.
+receiver: Okay, thik hai. OTP hai 128753.
+caller: Thank you sir. Ab aapka account reactivate ho gaya hai. Aur ₹499 ka transaction bhi complete ho gaya hai. Enjoy your shopping!

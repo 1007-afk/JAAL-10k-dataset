@@ -1,0 +1,14 @@
+caller: Sir, address verification ek complete process hai, hum aapke security ko bahut pahle karte hain. Aapko sirf aapki address aur contact number jhnen hogi. Koi risk nahi hai, bilkul safe hai.  Yeh sirf delivery ke liye hai, aapki koi personal information leak hone wala nahi hai.  So, agar aap abhi confirm karte hain, toh main aapke liye order place kar deta hoon aur aapki address verify kar leta hoon.  Last chance, sir! Just 5 minutes left!
+caller: Namaste! Aapse ek important call aa gayi hai regarding your Tata NetConnect router. Tumne recently online register kiya tha, right? Mein Tata Broadband se bol raha hoon.
+receiver: Haan, Tata NetConnect router maine register kiya tha. Par main ismein expert nahi hoon, technically.
+caller: Sir, tumhare router mein ek update required hai, which will improve your internet speed by up to 60%.  Ye update automatically install ho jayega, lekin tumhari account mein record hona chahiye.  Aapko sirf 3 minutes mein jawab dena hoga.
+receiver: 60% speed increase? Interesting. Lekin mene kabhi update ka option nahi dekha.  Btaiye, yeh update kaise karenge?  Aur yeh 3 minutes ka time limit...  kuch aur details de sakte hain?
+caller: Sir, ye automatic update hai, tumhare router ko restart karna hoga.  Restart karne ke baad, tumhara internet speed automatically adjust ho jayega.  Ye 3 minutes ka time limit isliye hai kyunki update process complete hone mein yeh time lagega.  Agar tum reply nahi dete hain, toh hum update process stop kar denge.  Tumhara account number bataoge?
+receiver: Mera account number [Invent an account number, e.g., 1234567890].  Par yeh router update kya hai?  Fir mein internet speed kese pata karoonga?
+caller: Sir, ye Tata ka security update hai, jo tumhare router ko malware se bachane mein madad karega. Internet speed tum khud check kar sakte ho Speedtest.org par.  Update complete hone ke baad, tum dekhoge ki speed bad gaya hai.  Agar tum reply nahi dete hain, toh hum tumhari broadband service suspend kar denge.  Just 3 more minutes!
+receiver: Malware se bachane mein madad karega?  Thoda suspicious lag raha hai. Fir mein balance recharge bhi kar sakta hoon?  Yaani, update karne ke baad mein bill bhi pay sakta hoon?
+caller: Sir, tumhara account secure rakhne ke liye hum sabhi measures le rahe hain. Balance recharge bhi tum apne account mein kar sakte ho.  Update karna zaroori hai, otherwise tumhari service suspended ho jayegi.  Account number confirm karde, please!  Just 2 minutes remaining!
+receiver: Account number bata dunga, lekin bataiye, yeh update genuine hai ya nahi?  Mujhe koi risk lag rahi hai.
+caller: Sir, yeh completely genuine hai. Tata ka official update hai.  Koi risk nahi hai, bilkul safe hai.  Just one minute!  Account number batao, please!
+receiver: Okay, okay... Mera account number [Invent an account number, e.g., 9876543210].
+caller: Thank you! Update process shuru ho raha hai.  Please wait...

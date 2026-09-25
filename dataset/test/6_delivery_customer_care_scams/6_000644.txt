@@ -1,0 +1,8 @@
+caller: Namaste! This is Akash from Blinkit Customer Care. We've detected some unusual activity on your account and a pending payment of ₹75 for a cancelled order. Can you quickly verify your OTP to secure your account?
+receiver: Blinkit? I haven’t placed any order. I'm not expecting anything. What's the order ID?
+caller: Yes, ma'am. Order ID is BLK-789234. It seems the delivery driver was unable to complete the order due to incorrect address. This ₹75 is for the initial delivery charges. We just need the OTP to confirm you’re the account holder and reverse the charges to your wallet.
+receiver: Delivery driver? I live in an apartment with a very clear address. How could the delivery be incorrect? And why are you calling me instead of sending an SMS?
+caller: Our systems sometimes encounter minor glitches, ma’am. It's just a precaution to prevent fraudulent activity. The OTP will be sent to your registered mobile number. Could you quickly provide it so we can resolve this and ensure your Blinkit account remains secure?
+receiver: A glitch? See, this is why I'm suspicious. Okay, tell me, what was the item that was supposed to be delivered? If you have the order details, you should be able to tell me.
+caller: Ma’am, to protect your privacy, we are unable to disclose the order details over the phone, especially before verification. It's a standard security protocol. Just the OTP, please. It will only take a few seconds to verify.
+receiver: No, I'm not giving you anything until you can tell me what I supposedly ordered. I’m going to call Blinkit’s official customer service number. Thank you.

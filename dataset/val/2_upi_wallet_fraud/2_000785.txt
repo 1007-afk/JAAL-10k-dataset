@@ -1,0 +1,7 @@
+caller: Hello, mai Paytm support se Rahul bol raha hoon. Aapke Paytm wallet mein ₹10,000 ka cashback credit ho gaya hai, ek promotional offer ke under.
+receiver: Really? ₹10,000? Mujhe koi notification nahi aaya. Paytm mein itna cashback kabhi offer nahi hota.
+caller: Haan sir, offer limited time ke liye hai. Cashback claim karne ke liye, humein sirf aapka UPI ID verify karna hai. Kuch minutes mein aapke account mein deposit ho jayega.
+receiver: UPI ID? KYC ke liye bhi toh kabhi OTP manga hota hai. Yeh UPI ID kyun chahiye? Aur why Paytm support call nahi kar raha, number pe SMS kyun nahi aaya?
+caller: Sir, ye ek new security protocol hai. OTP se fraud ho sakta hai, UPI ID se verification safe hai. Aapka UPI ID bataiye, ₹10,000 jaane ka risk mat leiye.
+receiver: Okay, wait a second. Let me check my Paytm app first… Acha, app mein koi offer nahi dikh rahi. Yeh toh scam lag raha hai. Main apna UPI ID nahi dunga. Thank you, bye.
+caller: Sir, aap ₹10,000 haar jaayenge. Jab opportunity aa rahi hai, tab refusal kyun kar rahe hain? Thoda trust kijiye.

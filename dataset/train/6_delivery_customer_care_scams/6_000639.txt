@@ -1,0 +1,10 @@
+caller: Namaste! Is this Mrs. Sharma? My name is Rahul, I’m calling from Blueridge Logistics. We have a package addressed to your son, Aryan, but there's a slight issue with the delivery.
+receiver: Oh, really? What's the problem? He was expecting something important.
+caller: Yes, ma’am. It seems the payment wasn't fully processed. There's a ₹750 pending amount to clear the delivery. We need to verify a one-time password sent to Aryan’s registered mobile number.
+receiver: A one-time password? That sounds a little strange. I’ve never had to do this before. Is this really Blueridge Logistics?
+caller: Absolutely, ma’am. It’s a new security protocol. Just share the OTP, and we'll release the package immediately. We are very strict about verifying the details. It’s for your son's safety. Please share the OTP quickly, the package might be returned if we don't get it soon.
+receiver: Okay, fine. The OTP is 123456. But please confirm the package details – what's being delivered?
+caller: Thank you, Mrs. Sharma. The OTP is confirmed. Now, to finalize the process, we require a small, refundable security deposit of ₹2000 via UPI. This will be returned once the package is successfully delivered to Aryan.
+receiver: ₹2000? That seems like a lot for a security deposit! Can I speak to your supervisor?
+caller: Ma’am, I’m very sorry, but the supervisor is currently unavailable. This is a time-sensitive matter, and the package cannot be released without the deposit. We are offering a special discount if you pay right now. Please make the payment fast.
+receiver: I am not sure about

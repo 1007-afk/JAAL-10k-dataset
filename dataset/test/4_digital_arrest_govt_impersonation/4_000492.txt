@@ -1,0 +1,7 @@
+caller: Namaste, speaking with Mr. Patel? This is the Directorate of Revenue Intelligence, calling from Delhi. We need to verify some details regarding a shipment associated with your address.
+receiver: Haan, bolie. What shipment? Mujhe toh koi expectation nahi hai.
+caller: Ji, Mr. Patel, we have intercepted a parcel containing suspected contraband goods – illegal electronics. The manifest shows your address as the recipient. It’s a serious matter. We need to confirm your involvement to prevent further legal complications.
+receiver: Illegal electronics? Yeh kya bol rahe hain aap? Main toh kabhi aisa kuch order nahi kiya. Mere address pe koi parcel aaya bhi tha ya nahi mujhe yaad nahi.
+caller: Sir, the parcel is currently being held at the customs warehouse. To clear this up and avoid arrest, you'll need to pay a small processing fee - ₹8,500 - as a penalty and guarantee of cooperation. We can arrange for a secure online transfer.
+receiver: ₹8,500? Arrest? Wait, wait. Why would I pay for something I didn't order? This sounds like a scam. Let me call my lawyer.
+caller: Sir, time is of the essence. Delaying this will only escalate the situation. We can provide you with a case reference number - DRI/DEL/2024/789. This is to show you we are legitimate and are acting within legal parameters. Consider this a one-time chance to rectify the situation. The online payment link is [invented link].

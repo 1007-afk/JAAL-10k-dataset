@@ -1,0 +1,13 @@
+caller: Namaste sir, Main ID Solutions ke customer support se hoon. Your internet speed has been reduced due to some network maintenance. We need to update your account for security reasons.
+receiver: Kya? Internet speed kam ho gaya? ID Solutions? Mein toh kabhi bhi internet recharge nahi kiya tha. Mera number kya hai? Aur aapne internet kyun kam kar diya?
+caller: Mera naam Vijay Kumar hai, sir. Network maintenance ka matlab hai ki server ko update karne ke liye kaam chal raha hai. Ye aapke account mein dekhe hue changes hain. Aapko sirf kuch information chahiye, that’s all. Your mobile number please?
+receiver: Mobile number? Oh, woh jo internet slow ho raha hai, woh number? Wait a minute, let me see. Mein toh pehle bhi online payment kiya tha, na? Thoda time do, dekh leta hoon. Vijay ji, yeh server update ka kya matlab hai? Mujhe koi email nahi mila.
+caller: Sir, don’t panic. Server updates are necessary for better connectivity. Just to confirm, can you tell me your full name and address? This helps us to ensure everything is correct.
+receiver: Haan, Vijay Sharma hai main. Address hai Delhi mein, Greater Kailash. Lekin ye server update ka kya fayda hai? Mujhe toh sirf internet slow ho raha hai. Aur aap ne mujhe koi warning nahi di?
+caller: Sir, this update will improve your overall internet experience. Now, just provide your date of birth. This is crucial for verification purposes.
+receiver: Date of birth? Seriously? Okay, fine. Mai December 15th ko hua tha. But what if this date of birth is wrong? What happens then?
+caller: Sir, it's okay, we will verify it. Let’s proceed with activating your faster internet plan. Would you like to upgrade now?
+receiver: Upgrade? Toh mere paise bhugte kab tak? Rahul ji ke call mein toh bolne waala problem zyada bada tha.
+caller: Sir, upgrading will give you a smoother and more reliable connection. You can choose any plan which suits you best. Just confirm your current plan type.
+receiver: Fine, mein ek saati karta hoon. Par mujhe assurance do ki internet band nahi hoga.
+caller: Absolutely! Your internet will stay connected. Now, could you please provide your email address?

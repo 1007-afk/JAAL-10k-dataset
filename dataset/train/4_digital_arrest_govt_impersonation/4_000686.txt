@@ -1,0 +1,10 @@
+caller: Namaste, main Cyber Crime Cell se Special Officer Verma bol raha hoon. Aapke naam par ek parcel delivery mein gherebazi ho rahi hai.
+receiver: Parcel delivery? Mainne toh koi parcel order kiya nahi hai.
+caller: Ji, parcel mein illegal items mile hain, aur tracking details se aapka address dikh raha hai. Isliye hum aap se baat kar rahe hain. Is matter mein ₹15,000 ka fine lag sakta hai.
+receiver: ₹15,000? Lekin mainne kuch bhi illegal nahi bheja hai! Yeh koi sakht mazaak hai. Aapko kaise pata ki mera address hai?
+caller: Sir/Madam, is matter mein koi goof up ho sakta hai, lekin humko parcel ki detail verify karni hai. Apne bank account se ₹15,000 humare provided account mein transfer karein, aur hum isko solve karne ki try karenge. Hum video call par bhi baat kar sakte hain taaki aapko confidence ho.
+receiver: Video call? Sir, mujhe yeh sab bahut suspicious lag raha hai. Main koi bhi payment nahi karunga. Aur main apna bank account detail bhi nahi dunga. Main police station mein jaakar report karunga.
+caller: Sir/Madam, aapko koi legal trouble ho sakta hai. ₹15,000 ka payment jaldi se karein. Yaha par court fees bhi apply hogi.
+receiver: Aur court fees kitni hogi? Koi legal reference number ya FIR number de sakte hain aap? Main verify karna chahunga.
+caller: Sir/Madam, aap time waste kar rahe hain, aur case advance ho raha hai. ₹15,000 immediately deposit karein, otherwise aapko arrest warrant bhi nikal sakte hain. Is account mein transfer karein: [Provides a long, random account number].
+receiver: Theek

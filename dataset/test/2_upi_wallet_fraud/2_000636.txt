@@ -1,0 +1,6 @@
+caller: Namaste! This is Ankit Sharma calling from Freecharge Customer Care. We’ve noticed a pending cashback of ₹750 in your Freecharge wallet from a recent electricity bill payment.
+receiver: Freecharge? Haan, main Freecharge use karta hoon. ₹750 cashback? Mujhe bataiye kaise claim karu?
+caller: Excellent! To claim it, we just need to verify your account. It's a quick security check. Could you please share the last three digits of the card linked to your Freecharge wallet?
+receiver: Card details? Main woh bataaunga? It seems a bit risky, doesn't it? Freecharge se toh kabhi call nahi aaya tha.
+caller: Sir, it's completely secure. We need to prevent someone else from claiming your cashback. Think of it as a final verification step. Also, to activate the cashback, we need you to install a small, free security app. It will protect your wallet from fraud. You can download it from this link: [fake link].
+receiver: Security app? And card details? Yeh toh fraud lagta hai. Main koi app install nahi karunga aur card number bhi nahi bataunga. Main Freecharge customer care ko report karunga.

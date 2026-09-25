@@ -1,0 +1,16 @@
+caller: Namaste sir, yeh toh Bharat Vikas Bank se Arjun Kumar ne call kiya hai. Aapka Aadhaar card ka verification ho raha hai aur usmein ek small problem aa gayi hai. Aapko apne bank account ki information dikhana hogi.
+receiver: Namaste, Bharat Vikas Bank? Arjun Kumar? Okay, what kind of problem? Main unchi cheezon mein nahi deta.
+caller: Sir, aapko apni savings account number aur IFSC code bataana hoga. Iske badle hum aapko free internet data denge. Ye sirf verification ke liye hai, mat wahin soch rahe ho.
+receiver: Free internet data? Seriously? Mera saving account number? That sounds too good to be true.
+caller: Sir, yeh bilkul sach hai. AAPko sirf account number aur IFSC code chahiye. Agar aapko koi doubt hai, to aap Bharat Vikas Bank ke customer care ko call kar sakte hain.
+receiver: Hmm, okay. Mera account number hai [account number yahaan daalen] aur mein IFSC code hai [IFSC code yahaan daalen].
+caller: Thank you very much. Ab aapko ek OTP send kiya gaya hai aapke registered mobile number pe. Woh OTP mujhe bataiye taaki hum verification complete kar sakein. Yeh OTP sirf 30 seconds ke liye valid hai, jaldi bataiye.
+receiver: OTP? Okay, wait a second… I got it. It’s [OTP yahaan daalen]. Hopefully, that’s correct.
+caller: Namaste sir, yeh toh Bharat Vikas Bank se Arjun Kumar ne call kiya hai. Aapka Aadhaar card ka verification ho raha hai aur usmein ek small problem aa gayi hai. Aapko apne bank account ki information dikhana hogi.
+receiver: Namaste, Bharat Vikas Bank? Arjun Kumar? Okay, what kind of problem? Main unchi cheezon mein nahi deta.
+caller: Sir, aapko apni savings account number aur IFSC code bataana hoga. Iske badle hum aapko free internet data denge. Ye sirf verification ke liye hai, mat wahin soch rahe ho.
+receiver: Free internet data? Seriously? Mera saving account number? That sounds too good to be true.
+caller: Sir, yeh bilkul sach hai. AAPko sirf account number aur IFSC code chahiye. Agar aapko koi doubt hai, to aap Bharat Vikas Bank ke customer care ko call kar sakte hain.
+receiver: Hmm, okay. Mera account number hai [account number yahaan daalen] aur mein IFSC code hai [IFSC code yahaan daalen].
+caller: Thank you very much. Ab aapko ek OTP send kiya gaya hai aapke registered mobile number pe. Woh OTP mujhe bataiye taaki hum verification complete kar sakein. Yeh OTP sirf 30 seconds ke liye valid hai, jaldi bataiye.
+receiver: OTP? Okay, wait a second… I got it. It’s [OTP yahaan daalen]. Hopefully, that’s correct.

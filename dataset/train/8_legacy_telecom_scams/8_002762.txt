@@ -1,0 +1,13 @@
+caller: Namaste, main Vikram Hoon. Aapne recently ek website par signup kiya tha, 'ShineBright'? Kya aapki account mein koi issue hai? Main just check kar raha hoon ki sab sahi chal rahi hai.
+receiver: Namaste Vikram Ji,haan, main Ramesh Kumar Hoon. Account mein koi problem nahi hai, thank you.
+caller: Good, good. Then I’ll just quickly check your profile details. Are you sure your email address is still correct – ramesh.kumar@example.com? Just want to make sure everything is up to date.
+receiver: Haan, yes, my email is still correct. But what exactly are you checking?
+caller: Just routine maintenance, Ramesh ji. We need to update our system to ensure better security and faster service. It’s important for all our users.
+receiver: Okay, I understand. But why suddenly this check? I haven't received any notifications about updates.
+caller: Sometimes these things happen automatically, Ramesh ji. And we also want to offer you a special discount on our premium services - 50% off! Only for today.
+receiver: 50% discount? Seriously? On what?
+caller: On our new ‘ShineBright Pro’ package, which includes extra features and priority support. It’s a very lucrative deal, Ramesh ji. Please provide your payment details so we can process your order immediately.
+receiver: Wait! Hold on! I don’t trust this at all. This seems like a scam. I will not give you my payment information.
+caller: No, no, Ramesh ji! Don't worry, it’s perfectly safe. We just need your card number and expiry date to confirm your identity. It’s standard procedure, believe me.
+receiver: Absolutely not! I am ending this call now. Goodbye!
+caller: Arrey yaar! Don’t do that! You are missing out on a fantastic opportunity!

@@ -1,0 +1,8 @@
+caller: Hello! Main XYZ Courier se Atul bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai.
+receiver: XYZ Courier? Mujhe koi parcel expect nahi kar raha hoon.
+caller: Haan, sir. Parcel IndiaMART se aaya hai. Lekin pin code mein dikkat hai. OTP check kar lijiye taaki hum parcel deliver kar sakein.
+receiver: OTP? Kaun sa OTP? Mein toh koi order nahi kiya IndiaMART se.
+caller: Sir, ek minute, mein system check karta hoon... Haan, naam sahi hai, lekin address incomplete hai. OTP se confirm kar lijiye, bas ek second lega. Sir, OTP hai 4582.
+receiver: Wait a minute! This is suspicious. Why would they need an OTP to confirm an address? I’m calling XYZ Courier directly to verify.
+caller: Sir, please don’t waste time! This is a security measure. The delivery is time-sensitive, and your parcel contains important documents. Just enter the OTP, and I'll complete the process. Otherwise, the parcel will be returned.
+receiver: No, I'm not giving you anything. I'm going to report this number. You’re a scammer!

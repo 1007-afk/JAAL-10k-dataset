@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai State Bank of India se Rohan bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kaise? Mujhe koi message nahi aaya.
+caller: Haan ji, ek online transaction attempt hua hai, jo approve nahi hua, lekin security ke liye aapko KYC update karna hoga urgently. Warna account suspend bhi ho sakta hai.
+receiver: Account suspend? Aur mujhe KYC update karni hai? Main toh kabhi online banking nahi karti. Aapka naam aur ID bataiye pehle.
+caller: Madam, yeh protocol hai. Main Rohan Sharma, SBI fraud prevention department se hoon. Aapko sirf ek OTP verify karna hai, aur kuch basic details dene hain - Aadhaar card number aur dob.
+receiver: Aadhaar number? Woh main kabhi bhi nahi dungi! Yeh to scam lag raha hai. Aapko kaise pata ki main SBI account holder hoon?
+caller: Madam, aapke naam se account hai, woh system mein dikh raha hai. Yeh process sirf aapki security ke liye hai. OTP aapke registered mobile number par aayega.  Jab OTP milegi toh mujhe bataiye, aur kuch aur questions bhi poochunga.  Please cooperate, time bahut kam hai. Account block hone se pehle kar lijiye.
+receiver: Time kam hai? Arey, ek minute ruk jao, main apne bank ke official number pe call karti hoon.  Yeh number konsa hai jo aapke paas hai?

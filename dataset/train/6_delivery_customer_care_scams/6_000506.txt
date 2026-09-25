@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul calling from Bluestar Logistics. We have a parcel addressed to you, but there's a small issue with the delivery address. Can you confirm your name and address for verification?
+receiver: Yes, this is Anjali Verma. My address is 14B, Patel Nagar, New Delhi. What’s the issue?
+caller: Thank you, Anjali ji. Our system flagged a discrepancy – a small delivery fee of ₹750 is due to cover the extra handling charges. It's a standard procedure for deliveries to certain postal codes. We can process it quickly through UPI.
+receiver: ₹750? I wasn't informed about any extra charges when I ordered. What is the item being delivered?
+caller: It’s a high-value electronics item, Anjali ji. For security reasons, we need to confirm payment before releasing it. Just a quick UPI transfer, and your parcel will be out for delivery tomorrow. Can you please provide your UPI ID?
+receiver: Wait a minute. I’m going to check with the seller first. Can you give me a tracking number for the parcel so I can verify this?
+caller: Absolutely, Anjali ji. The tracking number is BLS-789456-DEL. Please note that this offer, including the waived delivery fee, expires in 15 minutes. We don't want you to miss out! Provide your UPI ID now, and we'll process everything.

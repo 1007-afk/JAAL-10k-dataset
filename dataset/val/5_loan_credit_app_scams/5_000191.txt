@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mera naam Vijay Sharma hai, LoanExpress se. Aapne recent mein online personal loan ke liye apply kiya tha, correct?
+receiver: Haan, ji. Apply kiya tha, lekin mujhe koi confirmation nahi mila.
+caller: Ji, sir, verification ke liye call kar raha hoon. Aapka application approved ho gaya hai, 25,000 rupay ka loan. Par, processing fee ke liye sirf 2,500 rupay ki requirement hai.
+receiver: Processing fee? Kitni jaldi hai yeh fee bharne ki?
+caller: Sir, offer limited time ke liye hai. Agar aap abhi fee bhar diye, toh amount instant aapke account mein transfer ho jayega. Account details bataiye, sir.
+receiver: Thik hai, my account number hai 9876543210, IFSC code XYZB0000123. Aur woh fee payment kaise karun?
+caller: Bahut achha, sir. Ab aapko ek UPI link milayega, uspe click karke fee pay kar dijiye. Jab fee confirm ho jayegi, toh loan amount aapke account mein transfer ho jayega immediately.
+receiver: Okay, wait kar rahe hoon. Dekhta hoon link…

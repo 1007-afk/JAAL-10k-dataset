@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Raj from the Delhi Customs Department. We have intercepted a suspicious parcel registered under your name containing suspected contraband.
+receiver: Kya? Contraband? Mein toh kabhi parcel nahi kiya. Yeh kya baat ho rahi hai?
+caller: Ji, Mr. Sharma. Our records indicate a parcel was shipped from overseas with your name and address. Due to the nature of the contents, we require you to cooperate with our investigation. We need to confirm a few details and potentially levy a small processing fee to clear the parcel – a sum of ₹7,500 to cover inspection costs.
+receiver: ₹7,500? Lekin mein toh kuch bhi nahi kiya! Aur kisne parcel bheja hai? Mein Delhi mein hoon, parcel kahan aaya?
+caller: Sir, we understand your concern. To expedite the process and avoid further complications, we require immediate payment. We can arrange a video call with a senior officer to explain the situation further. This is to ensure transparency and address any doubts you might have. The officer will provide you with a reference number. Please transfer the money to this UPI ID: customs.clearance@axisbank.
+receiver: Yeh UPI ID dikhao. Aur senior officer ka number bhi do. Mein check karta hoon. Aur koi verification process hai kya? Mein kisi website par check kar sakta hoon?
+caller: Sir, sharing the UPI ID on this call is against protocol. The video call will provide the verification. The officer will explain everything during the call. We are trying to help you avoid legal repercussions. Delaying the payment could lead to serious consequences, including arrest. Please understand, this is to secure your freedom.
+receiver: Aur officer ka naam batao. Mein verify karta hoon. Tumhara number bhi do. Main verify karunga aur phir decide karunga.
+caller: Sir, the officer is currently in a

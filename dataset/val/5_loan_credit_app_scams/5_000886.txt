@@ -1,0 +1,8 @@
+caller: Namaste! Is this Ms. Priya Verma, registered with the mobile number ending in 287? I'm calling from 'QuickCash Connect', and we're delighted to inform you that your application for a personal loan has been pre-approved!
+receiver: Haan, main Priya Verma. QuickCash Connect? Pre-approved? Kitna loan mila?
+caller: Excellent! You've been approved for a loan amount of ₹2,50,000, with a very competitive interest rate of 8% per annum. To activate your loan and receive the funds, we need to quickly verify a few details. Could you please confirm your date of birth for us?
+receiver: 8%? Achha… Haan, mera date of birth 15th August 1992 hai.
+caller: Thank you, Ms. Verma. That confirms your identity. Now, as part of our security protocol, we require a small processing fee of ₹5,000 to be deposited into our secure account. This will ensure immediate loan disbursement. The account details are: [Provides fake bank details].
+receiver: ₹5,000 processing fee? Loan milne se pehle? Yeh toh bilkul sahi nahi lag raha hai. Kaise main bharoosha karun?
+caller: Ms. Verma, this is a standard procedure to prevent fraudulent activities. Without this fee, we cannot guarantee the loan's release. We have many happy clients who have benefitted from our quick and reliable service. Think of it as a small investment for a large sum of money! Don't miss out on this opportunity, Ms. Verma.
+receiver:  Acha…Theek hai, main check kar ke bataati hoon. Mujhe thoda time chahiye sochne ke liye.

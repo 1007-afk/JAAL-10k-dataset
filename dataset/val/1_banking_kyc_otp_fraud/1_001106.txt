@@ -1,0 +1,6 @@
+caller: Namaste Madam, mera naam Rohan Sharma hai, main IDFC First Bank se baat kar raha hoon. Aapke account mein security breach ka ek attempt hua hai, isliye humein aapke account ko secure karne ke liye kuch details verify karne ki zaroorat hai.
+receiver: Haan, theek hai. Kya hua? Account mein breach? Main kuch online shopping karti hoon, par mujhe toh kuch pata nahi chala.
+caller: Haanji Madam. Kuch hackers ne aapke account details access karne ki koshish ki hai. Isliye, humein aapka PAN card number aur ek OTP verify karna hoga. Isse aapka account safe rahega. Mat chinta karein, yeh sirf 2 minute ka kaam hai.
+receiver: PAN card number? Aur OTP? Yeh sab pooch rahe ho? Thoda suspicious toh lag raha hai. Bank toh aise direct details nahi poochta, na?
+caller: Madam, yeh bank ka standard procedure hai. Agar aap details provide nahi karenge toh humko aapka account suspend karna padega. Account suspend hone se aapka online banking aur debit card bhi block ho jayega. Aapki convenience ke liye hi main pooch raha hoon.
+receiver: Account suspend? Okay, okay, wait. PAN card number... woh yaad nahi aa raha mujhe. OTP bhi... zara phone check karta hoon. Par agar kuch gadbad hua toh main tumhe zimmedar rokunga!

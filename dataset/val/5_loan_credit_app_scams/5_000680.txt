@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev? We are calling from FastCash Solutions. We've noticed you recently applied for a loan on our platform. There's been a slight issue with the verification process.
+receiver: Hello? Yes, this is Rajeev. I did apply. What kind of issue?
+caller: The system flagged a potential discrepancy with your linked bank account. We need to quickly confirm some details to unblock the loan. It’s a standard security check. Can you please share the last four digits of your account number and the OTP you just received on your phone?
+receiver: Wait a minute. Why are you asking for an OTP over the phone? Shouldn’t I be receiving this on the app itself?
+caller:  Sir, due to increased security threats, we’re now conducting verification via phone call. It’s a new protocol.  Just quickly share those details, and your loan will be approved within minutes. Don't delay, sir, as your loan approval is time-sensitive.
+receiver: This feels very suspicious. I’m not comfortable sharing my OTP. I'm going to check with FastCash Solutions directly through their website.
+caller: Sir, please don’t be difficult. This is your opportunity to get the funds you need urgently.  If you don't cooperate immediately, the application will be rejected and a small processing fee will be charged. We’re trying to help you, don't miss out.

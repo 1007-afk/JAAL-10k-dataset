@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Verma? I’m calling from ‘SwiftCash Loans’. We’ve pre-approved you for a loan of ₹2,50,000 at a very special interest rate. Just for loyal customers like you!
+receiver: Haan, main Verma hi hoon. SwiftCash? Loan? Mujhe toh koi application kiya tha yaad nahi.
+caller: No worries, sir! It was a simple online form. You're already eligible! To activate the loan, we need to verify a small processing fee – just ₹5,000 to secure it. You can transfer it to this UPI ID: 7890123456@ybl.
+receiver: ₹5,000? Loan ka pehle hi fee? Yeh toh thoda zyada lag raha hai. And why can’t I see any paperwork or details?
+caller: Sir, this is a promotional offer, so the fee is very minimal. It ensures the loan is processed immediately. Think of it as insurance! Otherwise, your approval will expire in 24 hours, and you'll lose this fantastic rate. Do you want to miss out on such a great opportunity?
+receiver: 24 hours? ₹5,000?  Sounds fishy, sir. I think I'll have to think about it. Let me check their website.
+caller: Sir, please don’t delay! We've already processed your loan request. Other applicants are waiting for your slot. This is a limited-time offer, sir. Just transfer the ₹5,000 now and we’ll activate your ₹2,50,000 loan immediately! You can repay it comfortably over 12 months. Don't let this slip away, sir. We're about to cancel your approval.

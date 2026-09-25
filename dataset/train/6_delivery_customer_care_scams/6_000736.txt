@@ -1,0 +1,9 @@
+caller: Namaste! Main Ankit Verma, Bluebird Courier se baat kar raha hoon. Aapki ek parcel delivery mein thodi dikkat aa rahi hai.
+receiver: Haan, kya baat hai? Mujhe koi message nahi aaya tha.
+caller: Ji, system mein error a gaya tha. Parcel aapke naam par hai, Raj Sharma.  Aapko parcel release karne ke liye ₹350 clearance fee bharne hogi.
+receiver: ₹350? Kaunsa parcel hai? Mujhe yaad nahi aa raha.
+caller:  Ji, yeh Amazon se hai. Aapne kuch electronics order kiya tha, yaad hai na?  Speed se fee bhar dijiye, warna parcel return ho jayega. Main aapko payment link bhejnaga.
+receiver: Wait, wait!  Amazon kabhi aise nahi karta.  Mujhe kuch shak ho raha hai.
+caller:  Sir, time bahut kam hai.  Yeh company policy hai.  ₹350 bhar dijiye, bas.  Link - bit.ly/bluebirdpay.  Aapko apne paisa fir mil jayenge.
+receiver:  No, no.  I'm not clicking that link.  Yeh fraud lag raha hai.  Main police mein report karunga.
+caller:  Sir, mat karo!  Yeh galti se hua hai.  Just pay the fee.  Please!

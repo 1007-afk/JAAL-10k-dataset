@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Axis Bank se Neeraj Sharma bol raha hoon. Aapke naam par ek online transaction hua hai jo suspicious lag raha hai – Rs. 7,500 ek unknown website par. Aapko ye transaction yaad hai?
+receiver: Rs. 7,500? Nahin, mujhe koi transaction yaad nahi hai. Main Axis Bank ka customer hoon, lekin kabhi bhi online shopping nahi ki aaj kal.
+caller: Sir, yeh ek serious matter hai. Kisi ne aapke account se unauthorised access kar liya hai. Aapko apne account ko secure karne ke liye, humein aapke account details verify karne ke liye kuch information chahiye. Please apna OTP bataiye jo aapko aapke registered mobile number par mil raha hai.
+receiver: OTP? Aapko OTP kyun chahiye? Main kisi bhi stranger ko OTP share nahi kar sakta. Axis Bank kabhi bhi call par OTP maangta nahi.
+caller: Sir, yeh security protocol hai. Agar aap OTP nahi bataenge, toh humko aapke account ko block karna padega. Yeh fraud transaction hai, aur agar hum jaldi nahi karenge, toh aapko nuksaan ho sakta hai. Main aapki har possible help karne ke liye prepared hoon. Just give me the OTP.
+receiver: Dekhiye, mujhe doubt ho raha hai. Main Axis Bank ke official website par jaata hoon aur khud check karta hoon. Aap mujhe wait karwaaiye.
+caller: Sir, time bahut kam hai. Account ko block karne se pehle, please OTP bataiye. Agar aapko koi doubt hai, toh aap customer care number par call kar sakte hain - 1800-425-2247. Jaldi kijiye, sir!

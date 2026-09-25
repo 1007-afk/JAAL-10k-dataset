@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Sharma? I'm calling from Freecharge Rewards. You've been selected for a special cashback offer – a guaranteed ₹15,000 cashback on your next Freecharge transaction!
+receiver: Really? Wow! That's a great offer. But how do I claim it? Is it genuine? I've heard about scams.
+caller: Absolutely genuine! To activate it, we need to verify your Freecharge account. Just send a quick SMS with your Freecharge User ID and the code 'CASHBACK' to 74389. It’s a simple security check.
+receiver: Okay, my User ID is FR123456. Should I send it right away? What if it's a fake number?
+caller: Yes, please send it now! The offer is ending soon. Once we receive your SMS, we’ll process the verification and credit your account with ₹500 immediately as a bonus. Just to make sure it's you.
+receiver: ₹500 right away? Fine, I’ll send it. But if anything goes wrong, I'm reporting this number.
+caller: Excellent!  One last quick thing. To fully secure your bonus and prevent fraud, kindly share the last 4 digits of your linked bank account. For verification purposes only.

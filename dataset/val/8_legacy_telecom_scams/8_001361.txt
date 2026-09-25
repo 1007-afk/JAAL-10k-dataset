@@ -1,0 +1,8 @@
+caller: Namaste!  Namaste, Mrs. Sharma?  Can you hear me clearly?  This is Priya from Smart Solutions.  We have incredible news for you today!  Congratulations, Mrs. Sharma! You’ve won a shiny new Samsung Galaxy S23 Ultra!  Isn't that wonderful?
+receiver: Namaste, Priya?  Sunayega kya? Smart Solutions se?  Samsung Galaxy jeeta hoon?  Seriously?  Thank you very much!  What a surprise!
+caller: Haan, Mrs. Sharma, seriously!  It's truly exciting news!  Your Galaxy will be delivered to your doorstep soon!  Just a small step to ensure everything goes smoothly.  Are you available to talk for a few minutes right now?
+receiver: Haan, Priya, I am free. Tell me what needs to be done. Is there any paperwork involved?
+caller: Excellent, Mrs. Sharma! So, we just need to verify your identity to make sure this awesome gift reaches you safely. It's a quick and easy check – you’ll just provide us with your address and a few basic details to confirm it's really you who's holding the winning voucher.  Could you tell me your full name and postal address, please?
+receiver: Haan, certainly. My name is Rajesh Sharma. And my address is… 45, Sapphire Court, Lakeside Heights.
+caller: Wonderful, Rajesh! Thank you. Now, could you please share your birthdate? Just for security purposes, to confirm you're the rightful owner of the voucher.
+receiver: My birthdate is… July 2nd, 1988.  Is that all?

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Verma? This is Akash from SwiftShip Logistics. We’re calling regarding a parcel addressed to you, tracking ID SV78492. There seems to be a delivery issue – the address is incomplete.
+receiver: SwiftShip? Haan, main Priya Verma hoon. Kya problem hai? Mujhe koi parcel nahi mila hai.
+caller: Ma’am, according to our records, the pin code is missing. We can’t proceed with the delivery without it. For security reasons, we need to verify your identity before completing the address. Could you please share the last four digits of your bank card?
+receiver: Bank card ka number? Yeh kya baat kar rahe ho? Parcel delivery ke liye bank card ka number chahiye? Yeh toh galat hai.
+caller: Ma’am, please understand, this is standard procedure to prevent fraudulent deliveries. We're protecting you from potential theft. We also need to confirm the recipient’s age is above 18 for this particular shipment. Just the last four digits – that’s all we need. Our system will auto-delete it immediately.
+receiver: Arey, bas last four digits? Fine. It's 4567. But agar kuch bhi gadbad hua toh...
+caller: Thank you, Ma’am. That confirms your identity. Now, a small processing fee of ₹250 is required to clear the delivery hold. You can pay via UPI - please send it to the number 8291954738.

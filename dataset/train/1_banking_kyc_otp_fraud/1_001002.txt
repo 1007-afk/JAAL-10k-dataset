@@ -1,0 +1,6 @@
+caller: Namaste, main State Bank of India se Ankit bol raha hoon. Aapka account suspend hone ka risk hai, sir. KYC update karna bahut zaroori hai.
+receiver: KYC update? Lekin mujhe toh koi message nahi aaya tha.
+caller: Sir, system mein technical issue aa gaya tha. Aapko OTP SMS nahi mila hoga. Verification ke liye apna PAN card number aur bank account number bataiye. Bas 2 minute lagenge.
+receiver: Yeh thoda suspicious lag raha hai. Main bank ke branch mein jaakar update kar dunga.
+caller: Sir, branch mein line bahut lambi hogi. Account suspend bhi ho sakta hai. Koi bhi online transaction block ho sakta hai. Ek last chance hai, sir. Please apna OTP bataiye.
+receiver: Achha, koi baat nahi. Mein abhi call karunga. Aapka naam aur employee ID bataiye?

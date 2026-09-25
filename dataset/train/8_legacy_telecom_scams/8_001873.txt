@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Arjun Sharma se baat ho rahi hai, Reliance Jio se call kar raha huun.  Mujhe sunao, aapki mobile internet ka bill kitna aata hai?  Hum aajkal aapke liye ek amazing deal nikal rahe hain - ₹150 mein unlimited data aur calls!
+receiver: Oh, hello Arjun. Mobile internet ka bill? Mein to sirf WhatsApp aur Instagram use karta huun. Bill ki kya baat hai?
+caller: Haanji, har mahine aapka bill kitna aata hai?  Yeh bahut important hai. Agar aapka bill kam hai, toh hum aapko ₹300 tak cashback de sakte hain!  Aapko sirf apna naam, address, aur bank account number dena hoga.  Dekh, hum sab kuch verify karte hain.
+receiver: Cashback?  Mein to paisa bhi nahi karta huun.  Aur address kyun chahiye?  Mere ghar mein koi nahi hai.
+caller: (Slight pause)  Haanji, address sirf registration ke liye hota hai.  Aapko profile create karne ke liye likhte hain.  Aur bank account number, isliye agar cashback mile toh woh aapke account mein transfer ho jaayega.  Ismein koi dukh nahi hai.
+receiver:  But why do you need my bank account number?  It feels a little suspicious.  Aap ne kaha ki yeh Reliance Jio ka offer hai, lekin mujhe koi text nahi mila.
+caller:  (Trying to sound urgent)  Haanji, tumhare device par notification nahi aa raha hai?  Yeh kabhi-kabhi hota hai.  Main tumhe direct activation link bhejna chahta huun.  Bas apna naam, address aur bank account number batao, phir aapko immediately activation ho jaayega.  Aapko koi problem nahi hogi.
+receiver:  Activation link?  Maine kabhi aisa nahi dekha hai.  Mujhe jitni bhi confusion ho rahi hai, yeh bura lagta hai.  Main abhi call khatam kar deta hun.
+caller:  (Desperate tone)  Bhai, please!  Yeh offer expiry date par chaleega!  Agar aapko miss ho gaya toh aapko phir se apply karna padega!  Aapko meri help chahiye!

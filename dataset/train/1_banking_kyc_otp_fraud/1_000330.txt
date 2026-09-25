@@ -1,0 +1,9 @@
+caller: Namaste, I’m calling from Axis Bank. We're doing a security update on your account. Can you quickly verify some details to ensure everything is secure?
+receiver: Oh really? What kind of details do you need?
+caller: Right, we just require your Voter ID number, your latest Income Tax return reference number, and the last four digits of your credit card. This is essential for updating our records.
+receiver: Voter ID and Income Tax return? That seems like a lot of personal information. Is there no other way to do this, perhaps through an online portal? Still, if it's necessary, how can I give you those details?
+caller: Absolutely, this system is completely protected. These details are vital for maintaining account security. You just need to tell me these numbers; that’s all. Don’t worry about any doubts, I will clarify them.
+receiver: Honestly, I'm feeling a little uneasy sharing all this over the phone. Are there any alternative methods, like logging into my account or visiting a branch? It doesn't feel very secure.
+caller: Sir, this process is entirely safe. There isn’t an option within the app or at an ATM for this particular verification. Believe me, this is the standard protocol for confirming accounts with significant transactions. Just provide me with these numbers, and I’ll send you a confirmation message immediately afterward.
+receiver: Significant transactions? I haven't made any large purchases recently. This sounds a bit unusual. Could you provide me with an official helpline number so I can check this out further? Or maybe an email address where I can ask questions about this process? Sharing all this information over the phone feels quite risky, don’t you think?
+caller: Of course! Here’s our customer support number: 1800-XXX-XXXX. Please feel free to call us anytime. We are here to help.

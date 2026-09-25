@@ -1,0 +1,6 @@
+caller: Namaste, sir. Main Rahul Verma, Axis Bank se baat kar raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. Account secure karne ke liye, kuch details verify karne honge.
+receiver: Axis Bank se? Kuch suspicious activity? Mein toh aaj tak kabhi koi transaction nahi kiya. Kya ho raha hai?
+caller: Sir, humein ek login attempt hua hai Nepal se. Agar aapne Nepal se kabhi login nahi kiya toh ye galat hai. Account banne se bachne ke liye, aapko apna Aadhaar card number aur ek OTP share karna padega.
+receiver: Aadhaar card number? Nepal se login? Mujhe toh koi message bhi nahi aaya. OTP bhi dena hai? Ye thoda risky lag raha hai.
+caller: Sir, isko jald se jald karna hoga. Agar hum verify nahi karenge toh aapka account permanent block ho sakta hai. Ismein koi aur option nahi hai. Aapka OTP aapke phone pe aa raha hoga.
+receiver: Permanent block? Arre yaar, ye mat bolo. Okay, dekhiye, mujhe OTP mil raha hai. Par Aadhaar card number main kyun bataun? Bank toh wo bhi maangta hai, jab account open karte hain.

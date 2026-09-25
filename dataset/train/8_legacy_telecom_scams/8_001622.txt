@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly?  Aapki suno sahi aa rahi hai na? Dekho, main aapko keh raha hun, aap hamare premium members mein se hain, aur isiliye aapko free internet data ke draw mein shamil karne waali hain.  Bas aapko 'OK' text karna hai reply mein.  Chahiye aapko OK likhtein?
+receiver: Oh, hello! Yes, I can hear you clearly. Free internet data, you say? That’s nice. ‘OK’ text karna hai, correct? Okay, I will do that. Thank you!
+caller: Great! That's wonderful to hear, madam/sir. And remember, you only have 3 attempts left for this fantastic prize!  Just a quick check, is this [Invented Name, e.g., Ms. Verma’s] mobile number? So I can ensure your entry is recorded accurately.
+receiver: Yes, this is [invented name, e.g., Rohan Patel]'s number. Three attempts left?  Okay, good to know. Thank you for verifying!
+caller: Sehr acha, Mr. Rohan Patel! Aapka entry record ho gaya hai.  Aapke paas abhi sirf 2 tries bache hain, isliye jaldi se decide kar lijiye.  Kya aap apne bachche ko bhi is offer ke baare mein jaankaari dene chahate hain? Unhe bhi chances mil sakta hai!
+receiver: Oh, really? Only two tries remaining? Hmm, that’s interesting.  I might tell my son, but I am a bit busy right now. Let me consider it and I’ll get back to you if I decide to forward it. Thanks for the update!
+caller:  Arre, absolutely nothing wrong with that, Mr. Rohan Patel!  Just to reiterate, aapke paas ab sirf 1 attempt bacha hai for this incredible internet data prize draw.  Don’t delay – seize this opportunity! Agar aapko kuch aur pata chalna hai ya koi baat puchni hai, toh bilkul pooch sakte hain.
+receiver: Just one attempt? Okay, alright.  Thank you again for informing me. No further questions for now. Let's see what happens.

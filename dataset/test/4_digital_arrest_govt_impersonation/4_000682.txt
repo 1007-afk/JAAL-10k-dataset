@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Rajesh Kumar speaking? I'm calling from the Directorate of Revenue Intelligence, DRI. We've detected some unusual activity linked to your bank account.
+receiver: Haan, main Rajesh Kumar. Kya hua? Unusual activity?
+caller: Ji, sir. We’ve noticed several large international transfers originating from your account, linked to a suspected parcel containing illegal narcotics. It’s a very serious matter. We need to confirm your identity and prevent further transactions.
+receiver: Narcotics? Yeh kya keh rahe hain aap? Main toh kabhi international transfer nahi karta! Mere account mein kya ho raha hai?
+caller: Sir, it appears the transactions were masked, using cryptocurrency exchanges. To clear this up and prevent your assets from being frozen, we need you to complete a verification process. Please be prepared to share the OTP you will receive on your WhatsApp.
+receiver: OTP? WhatsApp? Sir, yeh bahut hi strange lag raha hai. I am going to call my bank. Why are you asking for an OTP over WhatsApp? That’s not how government agencies work!
+caller: Sir, for security purposes, we are using a secure WhatsApp channel to facilitate the verification. We need to act quickly to prevent further damage. Failing to cooperate will result in your account being immediately seized and a case being filed against you. We can also arrange a video call with our senior officers for you to explain your situation, but that would require a small initial processing fee of ₹15,000 to be deposited into a specified account.

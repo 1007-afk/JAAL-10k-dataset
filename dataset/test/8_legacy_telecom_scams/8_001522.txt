@@ -1,0 +1,20 @@
+caller: Okay, okay! Fine, listen carefully. I am calling about a lottery ticket you bought recently. It’s a winning ticket, but there’s a small complication. The authorities need to verify your identity before you can claim the prize. We need 20p per minute to run a background check. Don’t worry, it's completely legitimate. Just provide me with your full name, date of birth, and address. Once we confirm everything, you’ll receive your winnings instantly. It's a fantastic opportunity, don't miss out!  So, let’s get started – 20p per minute.
+receiver: Lottery ticket? Winning ticket? Seriously? Mere paas lottery tickets nahi hote. Mein lottery nahi karta. Ye sab fake hai, hai na?
+caller:  Don't be silly! Everyone buys lottery tickets sometimes. This is just a standard procedure to ensure security. The background check is crucial. It only costs 20p per minute, and we need to complete it quickly. Please, just tell me your full name, date of birth, and address. Think of the money – millions!  We are talking about a huge sum here. Let's proceed, 20p per minute.
+receiver: Millions? Woh toh bohot zyada hai! Koi cheating nahi hona chahiye. Mein abhi call cut kar deta hun.
+caller: Wait! Just one more minute. If you don’t provide the information, you’ll lose your chance at winning millions.  It’s a limited-time offer. Give me your name first. It's important.  20p per minute.
+receiver:  Okay, my name is Rahul Sharma.
+caller: Great! Now, your date of birth…
+caller: Hello, is this Rohan Verma? We have an incredible investment opportunity for you, something truly exclusive. It’s a limited-time offer that could change your financial future.  I understand discretion is key, so I won’t go into all the details over the phone, but it involves a significant return on investment. Are you open to hearing more? Just 20p a minute, and it’s an absolute game changer.
+receiver: Rohan Verma? Haan, yeh Rohan hoon. Kya baat hai? Investment opportunity? Kyon bol rahe ho? Bataiye zara abhi.
+caller: “Arre, Rohan, you deserve a little luxury. This is a confidential venture, designed for discerning investors like yourself. It’s a unique chance to diversify your portfolio and generate substantial profits. Don't worry about the specifics; they’re complex. But trust me, it’s incredibly lucrative. Just 20p per minute for a brief consultation.”
+receiver: Luxury? Portfolio? Mujhe iske bare mein kuchh pata nahin hai. Kya kar rahe ho tum? Bolo sach mein kya hai?
+caller: "Relax, Rohan. It's a short-term rental agreement. You’re essentially lending your property for a premium rate. High demand, minimal upkeep – a truly passive income stream. A single apartment in Delhi, highly sought after. It's generating incredible returns.  Let’s talk numbers - 20p per minute."
+receiver: Apartment? Delhi mein? Mein toh businessman hoon, apartments mein invest nahin kartaa. Kya bakwaas hai ye?
+caller: "Come on, Rohan, don't be stubborn! This isn’t just any apartment; it’s prime location, high occupancy rates. Think of the cash flow! You'd be surprised how easily this generates profit. It’s a secure investment, fully insured. Just 20p per minute to outline the details. Don’t miss out on this golden opportunity!"
+receiver: Golden opportunity? Insurance? Mujhe koi risk nahin lena hai. Mein call cut kar deta hun.
+caller: “Wait, Rohan! Just a quick question... Can you confirm your PAN card number? It’s essential for verification purposes. Only 20p per minute – it’s a simple step to unlock this amazing deal.”
+receiver: PAN card number? Mera PAN card number bataane wala koi nahin hai. Ye sab fraud hai.
+caller: “Seriously, Rohan? Don’t play games with me. This is a genuine investment. Providing your PAN is standard procedure. It protects both parties involved. And remember, this is a limited-time offer. 20p per minute – let’s finalize this!”
+receiver: Bye! Call mat karo mujhe phir.
+caller: One last thing, Rohan! Just a quick confirmation of your mobile number... It helps us keep you updated. 20p per minute.

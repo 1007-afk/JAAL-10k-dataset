@@ -1,0 +1,6 @@
+caller: Namaste, main BharatPe customer care se Rahul bol raha hoon. Aapke BharatPe account mein cashback offer chal raha hai, lekin verification ke bina woh expire ho jayega.
+receiver: BharatPe? Cashback offer? Mujhe to koi notification aaya nahi. Mera BharatPe number hai 7891234567.
+caller: Haan ji, offer limited time ke liye hai. Verify karne ke liye, aapko ek small processing fee bharne hogi, sirf ₹500. Yeh verification fee hai, cashback amount se kaat liya jayega.
+receiver: ₹500? Verification fee? BharatPe aise bhi charge lete hai? Main check karta hoon... Wait a minute.
+caller: Sir, jaldi karo, offer abhi khatam ho sakta hai. ₹500 bharne ke liye, mujhe aapke bank account ka last 4 digits aur OTP chahiye jo aapko SMS se milega.
+receiver: Paagal bana rahe ho! ₹500 ka fee? Tum log fraudster ho! Mujhe koi OTP nahi milega. Main police mein report karunga.

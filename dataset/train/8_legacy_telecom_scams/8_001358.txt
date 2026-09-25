@@ -1,0 +1,18 @@
+caller: Can you hear me alright? This is Rajesh from Happy Travels India! Hope you’re doing well. We have some brilliant news for you today - a chance to win a luxury wellness retreat! Are you ready for a bit of relaxation?
+receiver: Haan, suni de raha hu! Totally ready. What’s happening with Happy Travels India? Sounds good!
+caller: Wonderful! So, we’re giving away a completely free ‘spa-escape’ – a five-day all-inclusive wellness getaway! To enter, you simply need to mail a pre-paid, return envelope to: Dream Weaver Solutions, Suite 42B, Manchester, Lancashire, England. The registration closes next Friday, so act fast! Would you like me to read the address again?
+receiver: Oh yes, a ‘spa-escape’? That sounds amazing! Could you repeat the address, please? I want to make sure I write it down correctly.
+caller: Absolutely! The address is: Happy Travels India, Dream Weaver Solutions, Suite 42B, Manchester, Lancashire, England. More information about the spa and activities will be sent after you register. Do you have any other questions?
+receiver: Okay, so I need to send a pre-paid envelope to ‘Dream Weaver Solutions’ at that address. And the registration closes next Friday. Will there be any costs involved besides sending the envelope?
+caller: Not at all! It's completely free to enter. You just need to send that envelope quickly, okay? Anything else you wanted to know?
+receiver: Right, let me confirm. I send a pre-paid envelope to ‘Dream Weaver Solutions’ in Manchester. And the registration closes next Friday. What happens if I win?
+caller: If you win, you’ll receive confirmation of your spa-escape and travel arrangements will be sent shortly after. Exciting, isn’t it?
+caller: Can you hear me okay? This is Vikram from Elite Destinations! I hope you're having a great day. We have a fantastic opportunity for you today – a chance to win a luxurious cruise vacation! Are you excited?
+receiver: Haan, suni de raha hu! Yes, I am excited. Tell me more about Elite Destinations. What's the deal?
+caller: Fantastic! We're giving away a complimentary ‘ocean-view’ cruise – a seven-day journey across the Mediterranean Sea! To enter, you need to send a stamped, addressed postcard to: Global Services Inc., Unit 7, Bristol, Avon, United Kingdom. The draw takes place next week, so hurry up! Do you want me to repeat the address?
+receiver: Ah, an ‘ocean-view’ cruise? That sounds incredible! Please repeat the address, I want to write it down properly.
+caller: Certainly! The address is: Elite Destinations, Global Services Inc., Unit 7, Bristol, Avon, United Kingdom. Further details regarding the itinerary and onboard activities will be mailed to you upon receipt of your postcard. Do you have any further inquiries?
+receiver: Okay, so I need to send a stamped postcard to ‘Global Services Inc.’ at that address. And the draw is next week. Will there be any hidden charges or fees associated with winning the cruise?
+caller: Absolutely not! It's entirely free to participate. Just send that postcard quickly, okay? Anything else you would like to ask?
+receiver: Alright, let’s confirm. I’m sending a stamped postcard to ‘Global Services Inc.’ in Bristol. And the draw is next week. What happens if I win the cruise?
+caller: If you win, you’ll receive a confirmation email outlining your cruise booking details and travel documents will be dispatched shortly thereafter. Isn’t that wonderful?

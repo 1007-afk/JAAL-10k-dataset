@@ -1,0 +1,6 @@
+caller: Namaste! Mein Vodafone Idea se Rahul bol raha hoon. Aapke Vodafone Pay UPI ID par ek suspicious transaction attempt hua hai.
+receiver: Kya? Woh transaction kitna tha? Mujhe toh koi notification nahi aaya.
+caller: Sir, attempt 5000 rupees ka tha. Security ke liye, hum aapke Vodafone Pay ID ko temporary suspend kar rahe hain. Isko reactivate karne ke liye, ek small verification fee submit karna padega.
+receiver: Verification fee? Vodafone toh kabhi bhi koi fee nahi lete. Yeh kuch ghalat lag raha hai. Mujhe Vodafone ka official helpline number batao, main khud check karunga.
+caller: Sir, aapka suspicion sahi hai ki fraud ho sakta hai. Official number 199 toll-free hai, lekin is channel se reactivate karna fastest way hai. Sirf 200 rupees ka verification fee submit karna hai Vodafone Pay ke through hi. Tabhi aapka ID reactivate ho jayega.
+receiver: 200 rupees? Aur woh bhi Vodafone Pay se hi? Nahin, main yeh nahi karunga. Mujhe yeh scam lag raha hai.

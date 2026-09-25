@@ -1,0 +1,8 @@
+caller: Namaste, Main Ravi Sharma IDFC First Bank se baat kar raha hoon. Sir, aapke account mein ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, aapko zaroori hai ki aap humein kuch details provide karein.
+receiver: IDFC First Bank? Kaunsa transaction? Mujhe koi message nahi aaya.
+caller: Sir, yeh ek high-risk transaction tha, lekin humne ise block kar diya hai. Account safe rakhne ke liye, please apna PAN card number aur ek OTP share karein jo aapke registered mobile number par aayega.
+receiver: PAN card number? Aur OTP? Bank aise details phone pe nahi puchta, sir. Yeh scam lag raha hai.
+caller: Sir, main samajh sakta hoon aapka doubt, lekin yeh bank ki policy hai. Agar aap details provide nahi karenge, toh humko account suspend karna padega. Sirf 5 minutes mein yeh process complete ho jayega. Account suspend hone se aapko bahut mushkil hogi.
+receiver: Account suspend? Dekhiye, mujhe bank ka customer care number pata hai, main us number pe call karta hoon. OTP share karne ka sawal hi nahi hai.
+caller: Sir, woh number busy ho sakta hai ya delay ho sakta hai. Abhi main aapki help kar sakta hoon. Sirf last attempt hai, otherwise account block ho jayega. Please PAN number bataiye.
+receiver: Theek hai, ek last sawal. Agar meri details sahi hain, toh account block nahi hoga, na?

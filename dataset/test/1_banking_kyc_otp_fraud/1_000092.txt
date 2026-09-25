@@ -1,0 +1,16 @@
+caller: Namaste sir, main HDFC bank se bol raha hoon. Aapka naam jaan sakta hoon?
+receiver: Haan, boliye. Mera naam toh... abhi samajh nahi aa raha, sorry. Kya baat hai, bataiye?
+caller: Koi zaruri baat nahi sir. Main HDFC ki cybersecurity team se call kar raha hoon. Humein aapke account mein kuchh din se bahar kuch suspect transactions dekhe gaye hain, isliye hum verify karne waali hain. Kya aapko koi SMS ya email mein OTP mila hai?
+receiver: OTP? Nahi, sir. Koi message nahi mila. Account mein kya chal raha hai, batao. Koi badi deal nahi bani thi, ya kuch special purchase nahi kiya?
+caller: Aapka naam nahi pata sir, par agar aap apna full name bata de to main check kar sakta hun. Aapko koi notification aya hai sir, jisme code likha ho?
+receiver: Yaar, naam poora yaad nahi aa raha, itna pressure nahi tha. Par account mein 'suspect transactions' ka matlab kya? Koi transfer nahi hua, ya koi online payment nahi kiya? Agar koi notification aya hota toh batta karta. Aap bol rahe hain ki verification ke liye kuch chahiye? Bata do, bata do.
+caller: Sir, aapki account ki safety ke liye yeh bahut important hai. Agar aap apna naam bata de to main jaldi se check kar paunga. Koi transfer ya payment details abhi aapke phone pe nahi aa ta, jab tak ki hum verify na karein ki yeh aap hi hain. Kya aapne kabhi online shopping ki hai?
+receiver: Arre, account safety toh important hai. HDFC mein account hai, par naam poora yaad nahi aa raha. Kya aap mujhe bata sakte hain ki 'suspect transactions' kab hue the? Koi specific date bata do, ya time bata do. Mujhe samajh nahi aa raha ki kya ho raha hai.
+caller: Namaste sir, main Axis Bank se bol raha hoon. Aapka naam jaan sakta hoon?
+receiver: Haan, boliye. Mera naam toh... abhi samajh nahi aa raha, sorry. Kya baat hai, bataiye?
+caller: Koi zaruri baat nahi sir. Main Axis ki cyber security team se call kar raha hoon. Humein aapke account mein kuchh din se bahar kuch suspect transactions dekhe gaye hain, isliye hum verify karne waali hain. Kya aapko koi SMS ya email mein OTP mila hai?
+receiver: OTP? Nahi, sir. Koi message nahi mila. Account mein kya chal raha hai, batao. Koi badi deal nahi bani thi, ya kuch special purchase nahi kiya?
+caller: Aapka naam nahi pata sir, par agar aap apna full name bata de to main check kar sakta hun. Aapko koi notification aya hai sir, jisme code likha ho?
+receiver: Yaar, naam poora yaad nahi aa raha, itna pressure nahi tha. Par account mein 'suspect transactions' ka matlab kya? Koi transfer nahi hua, ya koi online payment nahi kiya? Agar koi notification aya hota toh batta karta. Aap bol rahe hain ki verification ke liye kuch chahiye? Bata do, bata do.
+caller: Sir, aapki account ki safety ke liye yeh bahut important hai. Agar aap apna naam bata de to main jaldi se check kar paunga. Koi transfer ya payment details abhi aapke phone pe nahi ta, jab tak ki hum verify na karein ki yeh aap hi hain. Kya aapne kabhi online shopping ki hai?
+receiver: Arre, account safety toh important hai. Axis mein account hai, par naam poora yaad nahi aa raha. Kya aap mujhe bata sakte hain ki 'suspect transactions' kab hue the? Koi specific date bata do, ya time bata do. Mujhe samajh nahi aa raha ki kya ho raha hai.

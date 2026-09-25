@@ -1,0 +1,6 @@
+caller: Namaste, is this Rajeev Sharma? Main Vodafone Customer Care se bol raha hoon. Aapke Vodafone account mein kuch technical issues aa rahe hain, isliye aapko confirm karna hai ki aapka account safe hai?
+receiver: Haan, main Rajeev Sharma hoon. Vodafone se baat ho rahi hai? Kya hua?
+caller: Ji, Rajeev ji. Hamari system mein dikh raha hai ki aapke account se kuch suspicious activities ho rahi hain. Kisi ne OTP request kiya hai. Aapko apna account secure karne ke liye ek OTP verify karna hoga, otherwise aapka account suspend ho jayega.
+receiver: OTP? Par mujhe toh koi OTP nahi mila. Aur main apne account mein logon in karne ke liye OTP dalne se pehle confirm karna chahta hoon.
+caller: Bilkul sir. Hamare security protocol ke hisaab se, aapko ek link bhi follow karna hoga, jahan aapko aapka bank account details enter karne honge taaki hum problem ko solve kar sakein. Ye link aapki email mein bhi a jayega.
+receiver: Bank account details? Yeh toh zyada suspicious lag raha hai. Main Vodafone customer care number se contact kar ke confirm karta hoon.

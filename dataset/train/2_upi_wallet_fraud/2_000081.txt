@@ -1,0 +1,8 @@
+caller: Namaste, ji! Main Paytm Payments Bank se Ankit bol raha hoon. Aapko ek cashback offer ke baare mein inform karne ke liye call kiya hai.
+receiver: Paytm Payments Bank? Cashback offer? Kya baat hai?
+caller: Ji, aapke Paytm wallet mein ₹500 cashback mil sakta hai. Yeh offer sirf tab tak valid hai jab tak aap ek small processing fee jama nahi karte.
+receiver: Processing fee? Kitna jama karna padega? Aur yeh offer kyon sirf mere liye hai?
+caller: Sirf ₹20 jama karne se aap ₹500 cashback get karenge. Yeh offer humein special customers ko reward karne ke liye provide karna padta hai. Aapko ₹20 UPI ke zariye send karne hain, mera Paytm number hai: 9876543210.
+receiver: ₹20 send karne ko bol rahe hain? Aur yeh processing fee ka pata offer mein clear nahi tha. Yeh kuch shabash lag raha hai.
+caller: Sir, jaldi karein, offer valid hai! Jab tak aap ₹20 send nahi karenge, offer expire ho jayegi aur aapko cashback nahi milega.
+receiver: Nahi, sir. Main ₹20 send nahi karunga. Yeh definitely scam hai. Main apni bank ko report karunga.

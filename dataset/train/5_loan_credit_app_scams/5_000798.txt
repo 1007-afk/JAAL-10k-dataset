@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit? We’re calling from SpeedLoan Solutions. You recently applied for a personal loan online, correct? We've pre-approved you for a loan of ₹75,000. A fantastic offer!
+receiver: SpeedLoan Solutions? I don’t remember applying for a loan. Are you sure you have the right person?
+caller: Yes, sir, absolutely. We received your application through LoanConnect portal. Just need to confirm a few details to finalize the process. A small processing fee of ₹750 is required upfront to activate the loan.
+receiver: A processing fee? That seems unusual. Most loans don't require upfront fees. And I still don’t recall applying.
+caller: It’s a standard security measure, sir. To prevent fraud. Think of it as insurance for your loan. Plus, you’ll receive a confirmation SMS with your loan agreement details. Quickly transfer ₹750 to this UPI ID: fastloan75@axis.
+receiver: Hold on. I’m going to look into LoanConnect and SpeedLoan Solutions right now. This feels very suspicious. I'm not sending any money.
+caller: Sir, don't waste this opportunity! Your loan approval is about to expire. We have many people waiting. Once the fee is paid, we'll send you your loan agreement and a link to download the loan app. A missed opportunity can affect your credit score, you know.

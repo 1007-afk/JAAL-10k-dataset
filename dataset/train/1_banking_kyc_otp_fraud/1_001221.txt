@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel se Deepak Sharma bol raha hoon. Aapke Airtel account mein kuch a-usual activity detect hui hai. Aapka account suspend hone ka risk hai.
+receiver: Airtel? Kya hua? Account mein kya problem hai?
+caller: Sir, security ke liye, mujhe aapki personal details verify karni hogi. Aapka Aadhaar card ka last 4 digits bataiye, please? Aur OTP jo aapko SMS karega woh bhi bataiye.
+receiver: Aadhaar number? OTP? Yeh thoda suspicious lag raha hai. Mai Airtel ke customer care number se call kar ke check karunga.
+caller: Sir, aapko samajh mein nahi aa raha hai. Account suspend hone se bachne ke liye, aapko abhi verify karna hoga. Yeh ek emergency procedure hai. OTP bina verify kiye, aapka account block ho jayega.
+receiver: Okay, thoda wait karo. Mai Airtel ke official number pe call karta hoon aur phir baat karte hain.
+caller: Sir, time is running out! Account suspend hone se pehle aapko verify karna hoga. Aapko sirf last 4 digits bataane hai, aur OTP. Sir please!

@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein ₹7,500 ka cashback offer hai, sirf limited time ke liye.
+receiver: BharatPay? Cashback offer? ₹7,500?
+caller: Haan ji, absolutely! Yeh ek special Diwali offer hai. Isko claim karne ke liye, aapko sirf ₹50 verification fee bhar deni hai.
+receiver: Verification fee? ₹50? BharatPay mein to kabhi verification fee bharne ko bola nahi.
+caller: Haan ji, lekin yeh naya rule hai, security ke liye. Aapko 'VERIFY' number 88888 pe send karna hai. ₹50 sirf ek minute ke liye cut hoga, cashback offer claim hone ke baad wah ₹7,500 mil jayega.
+receiver: ₹7,500? Thoda suspicion ho raha hai. Mein BharatPay customer care number se confirm kar lunga.
+caller: Please, jaldi karo, offer abhi khatam hone wala hai! Agar aap confirm nahi karenge toh yeh offer vanish ho jayega. Helpline number 99999-00000.

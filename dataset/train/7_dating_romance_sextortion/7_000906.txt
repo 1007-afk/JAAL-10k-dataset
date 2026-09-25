@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? I’m Rohit, from Delhi. I saw your profile on ‘Rishton ki Dhun’ – you’re looking absolutely beautiful, truly. I felt a connection immediately.
+receiver: Hello? Rohit? I don’t think I remember you. Rishton ki Dhun? I haven’t been very active there lately.
+caller: Don't worry, your profile is stunning! It caught my eye. I’m a businessman, travelling a lot for work. We should definitely chat more. I’m currently in Dubai on a project, things are a little hectic, but I wanted to reach out.  I’m sending you a small gift through a courier. Just need a little confirmation fee. It’s ₹1500. Can you transfer it to this UPI ID: 9876543210@ybl?
+receiver: A gift? A confirmation fee? That sounds a bit strange, Rohit. I just met you. Why would you send a gift and ask for money? I think something’s wrong here.
+caller: It's a small token of appreciation, Priya! A beautiful shawl from a local artisan. The courier company requires confirmation before they deliver. I wouldn't ask if it wasn't necessary. Think of it as a small investment in a potentially wonderful connection. It's just ₹1500.  Please, do it quickly, so the shawl reaches you today.
+receiver: No, I am not going to do that. This is a scam, isn’t it? I’m reporting your UPI ID. Don't contact me again.
+caller: Priya, wait! Don’t do that! I understand your hesitation, but I’m genuinely interested in getting to know you. I'll pay the courier fee myself, please don't report me.

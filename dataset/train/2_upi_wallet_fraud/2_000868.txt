@@ -1,0 +1,12 @@
+caller: Namaste! Main Vijay Sharma bol raha hoon. Aapko Flipkart se ek achcha news milne wala hai.
+receiver: Haan, sunao. Flipkart se kya news hai?
+caller: Aapke Flipkart account mein ₹10,000 ka cashback mila hai! Yeh Diwali special offer hai.
+receiver: ₹10,000? Yeh toh bahut zyada hai! Yeh real hai kya?
+caller: Haan, bilkul real hai! Parantu cashback claim karne ke liye, aapko ek small processing fee bharne hogi, sirf ₹500.
+receiver: ₹500 processing fee? Kidhar bharne hai? Koi link bhejo.
+caller: Haan, ek minute. Yeh link copy karke apne browser mein open karein: bit.ly/flipkart-cashback-fee. Wahan aap Paytm ya PhonePe se pay kar sakte hain. Jaldi karein, offer limited time ke liye hai!
+receiver: bit.ly? Yeh thoda suspicious lag raha hai. Main Flipkart app check karta hoon.
+caller: Arre bhai, app mein offer dikhegi nahi! Yeh special offer sirf direct link se hi claim ho sakti hai. Time barbaad mat karein, ₹500 bhar do aur ₹10,000 claim karein!
+receiver: Nahin, mujhe nahi lag raha hai. Main Flipkart customer support se baat karta hoon.
+caller: Customer support ko kuch nahi milega! Yeh confidential offer hai, sirf selected customers ke liye. ₹500 bhar do, otherwise ₹10,000 cashback miss ho jayega!
+receiver: Okay, I am ending this call.

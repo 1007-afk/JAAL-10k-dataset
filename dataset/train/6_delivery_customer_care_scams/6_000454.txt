@@ -1,0 +1,9 @@
+caller: Namaste! Is this Raj Sharma? I'm calling from Bluebird Courier. We have a parcel addressed to you, but there’s a problem with the delivery address.
+receiver: Haan, yahan Raj Sharma bolta hoon. Kya baat hai?
+caller: Sir, our system shows a discrepancy. The pin code doesn’t match the registered address. To prevent the parcel from being returned, we need to verify a few details. Can you please provide the last four digits of your registered mobile number on file with Flipkart?
+receiver: Flipkart par? Woh yaad nahi…
+caller: Sir, it's very important. Otherwise, we'll have to hold the parcel at our hub. It’s a high-value item, apparently – electronics, right? To proceed, we just need that OTP that we are sending to your number.
+receiver: OTP? Kyun OTP dena padega?
+caller: Sir, it's to confirm you’re the rightful owner of the parcel and prevent fraudulent claims. It’s standard procedure. Just a one-time verification. Please share the OTP so we can schedule your delivery.
+receiver: Thoda shaq ho raha hai… main Flipkart customer care se baat karta hoon.
+caller: Sir, please don't delay the delivery. I understand your concern but the system requires this verification. Otherwise we will return your package, and you will have to pay a ₹500 return charge.

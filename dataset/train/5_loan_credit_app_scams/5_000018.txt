@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, mera naam Rohan hai aur main HDFC Bank se baat kar raha hun. Kya aapke paas koi new loan apply karna hai?
+receiver: Namaste Rohan, thanks for calling. Mera naam Priya hai. Haan, actually main ghar renovation ke liye ek loan chah rahi hu, par abhi tak koi plan nahin bana hai. Bataiye kuchh offer hai?
+caller: Achaa, Priya ji. To HDFC mein ek superb opportunity chal raha hai – home improvement loans ke liye. Agar aapke paas koi existing account hai, toh main aapki credit score dekh sakta hun aur jaanta hun ki aapko kaunse options suit karte hain.
+receiver: Home improvement loans? Woh suna hai. Kya mujhe koi extra charges lagega?  Mujhe jitni possible paisa kamaana hai.
+caller: Nahin, Nahin Priya Ji. Hamari scheme mein koi hidden charges nahi hain. Sab clear and transparent hai.  Aapko sirf interest rate aur processing fees milega.  Aapko sirf ₹1.5 lakh tak ka loan mil sakta hai.
+receiver: ₹1.5 lakh?  Theek hai.  To, mujhe jo bhi details chahiye, aap kaise de sakte hain?  Account number ya mobile number?
+caller:  Sir Priya, aapki comfort level ko priority dena hai.  Agar aap apni registered mobile number share karein to main aapki eligibility check kar sakta hun.  Email se details send karne ka option nahi hai.  Par maaf karna, yeh HDFC Bank ki official line se hi call hai.
+receiver: Okay Rohan. Mera registered mobile number hai 8765432109.  Check karo, please.

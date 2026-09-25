@@ -1,0 +1,7 @@
+caller: Namaste! Calling from Bluebird Courier regarding a parcel addressed to you. It seems there's a slight issue with the customs declaration form. Can you please verify your name for me?
+receiver: Yes, hello? What issue? I haven't ordered anything recently.
+caller:  Arre, no worries! It's a high-value item – a new camera lens, it says here. From Camera World. Looks like a small discrepancy in the paperwork. To release it, we need to quickly verify some details. Could you please confirm the last four digits of your bank account number? Just for security purposes, you see.
+receiver: My bank account? Why would you need that for a delivery? That sounds suspicious.
+caller: Madam, it's standard procedure. To prevent fraudulent activity, we need to match the account details to the billing address. It’s for your safety. Just a quick verification, then your lens will be delivered tomorrow. Can you just tell me the last 4 digits? We can also send you an OTP to verify.
+receiver:  No, I'm not giving you my bank details. I’ll contact Camera World directly. This is a scam, isn’t it?
+caller: Madam, please don’t be alarmed. This is a genuine process. If you don’t provide the OTP now, we will have to hold the parcel and you'll be charged a storage fee. It’s just a simple confirmation, please cooperate.

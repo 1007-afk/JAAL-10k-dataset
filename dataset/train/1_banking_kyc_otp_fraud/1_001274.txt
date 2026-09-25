@@ -1,0 +1,8 @@
+caller: Namaste, Mai Airtel Payment Bank se Rohit bolta hoon. Aapke Airtel Payment Bank account mein ek suspicious transaction detect hua hai. ₹12,000 ka withdrawal attempt kiya gaya hai jo ki approve nahi hua hai.
+receiver: Airtel Payment Bank? Mujhe koi notification toh aaya hi nahi. Woh ₹12,000 ka withdrawal attempt… kab hua?
+caller: Sir, attempt abhi hi kiya gaya tha, approximately 5 minutes pehle. Security ke liye, humein aapki identity verify karni hogi. Aapka OTP share karein, tab hum process ko secure kar sakte hain.
+receiver: OTP? Par main toh apne phone pe koi OTP receive nahi kiya. Aur Airtel Payment Bank toh call bhi nahi karta OTP ke liye.
+caller: Sir, system mein thoda delay ho sakta hai. Aapko OTP aa jayega, sir. Jaldi karein, agar aap OTP nahi share karenge toh humko account temporarily suspend karna padega. Aapka ₹12,000 risk mein aa jayega.
+receiver: Account suspend? Theek hai, OTP check karta hoon. Par aap mujhe bataiye, aapka caller ID kya hai? Aur hum bank statement se verify kar sakte hain kya?
+caller: Sir, caller ID system automatically generate hota hai. Bank statement verify karne mein time lagega. Aapka ₹12,000 toh abhi bhi risk mein hai. Please share the OTP immediately.
+receiver: Wait, I'm checking something.

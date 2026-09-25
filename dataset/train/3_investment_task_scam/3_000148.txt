@@ -1,0 +1,10 @@
+caller: Namaste! Kaise hain aap sab? Main Rahul Sharma hoon, Bharat Travel Solutions se baat kar raha hoon. Aapse ek bahut hi sunder yojन ke baare mein baat karna chahte hain - Himalayas ke lokpriya yatra!  Aapko jo premiya darshan ke liye ticket milegi, uske liye government ne ₹5000 ka subsidy de diya hai!  Agar aap humein ₹1000 deposit kar denge, to aapko ₹6000 ka ticket milega.  Yeh offer sirf 72 ghante ke liye chal raha hai, toh jaldi se reply karein.
+receiver:  Arre yaar, Himalayas yatra? Woh toh bahut achha idea hai! ₹5000 ka subsidy?  Mujhe bataiye, kab tak deposit karna hai?  To, main ₹1000 deposit kar dunga?
+caller:  Shabash! Aapki antarrashtriya patriotism ko dekhkar mujhe bohat maza aa raha hai!  Deposit karne ke liye, aapko Paytm par ₹1000 transfer karne honge.  Payment kaise hoga, woh mene aapko email se bataane wala hoon.  Ab sirf 4 minute 30 second bache hain, toh haste haste reply karein.
+receiver:  Paytm?  Ok, fine.  Mere email id kya hai?  Koi number bhi mat deta hoon?  Mujhe email per instructions chahiye.  Aur agar koi personal information maange toh main aapko block kar dunga.
+caller:  Aapka email ID aman hai, lekin koi personal details mat sunaye.  Email ID hai rajesh.kumar@example.com.  Yeh offer sirf aaj raat ko 10 baje tak chal raha hai, isliye hurry ho jao!
+receiver:  Rajesh Kumar...ok.  Main email check karunga.  Kab ticket milega?  Aur ₹1000 deposit karne ke baad, ticket price bad jayega?
+caller:  Ticket aapko 24 saat ke andar deliver ho jaayegi.  Deposit karne ke baad ticket price ₹6000 hi rahega, koi badal nahi.  Ab sirf 2 minute 30 seconds bache hain! Jaldi ho jaiye!
+receiver:  Okay, okay.  Maine email check kar liya.  Instructions hain.  ₹1000 deposit kar dunga.  Thank you!
+caller:  Dhanyavaad!  Aapko Himalayas ke darshan ke liye bahut-bahut congratulations!  Enjoy your trip!  Jaldi se reply karein agar koi problem aaye.
+receiver:  Ji ji, thank you again!

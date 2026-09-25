@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Priya calling from Axis Bank’s KYC verification department. We need to urgently update your KYC details to comply with RBI regulations.
+receiver: KYC update? Okay. But I just did my KYC a few months back. What's the issue?
+caller: Yes, Madam, but regulations change. There's a new directive, and we need to re-verify all accounts. To proceed, can you please share the last four digits of your Aadhaar card for security confirmation?
+receiver: Aadhaar details over the phone? That sounds risky. Can’t I do this online through the Axis Bank app?
+caller: Madam, the system is experiencing technical difficulties with the app at the moment. This is a critical update, and your account will be temporarily suspended if you don't comply within the next 15 minutes. The four digits of your Aadhaar, please? It’s completely secure.
+receiver: Fifteen minutes? Suspended account? Wait a second. Let me just call Axis Bank directly from the official number on my card to verify this.
+caller: Madam, you're wasting valuable time.  Delaying this verification will result in an immediate freeze on your account. Please, just provide the Aadhaar digits—it will only take a moment. Think of your hard-earned money being locked out!

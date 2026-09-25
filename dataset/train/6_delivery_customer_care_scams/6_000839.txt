@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? I'm calling from Zomato customer support. We’ve noticed some unusual activity on your account and a pending payment of ₹2800 for an undelivered order.
+receiver: Haan, main hi Verma. Zomato se call hai? Undelivered order? Mujhe toh koi order yaad nahi.
+caller: Sir, it appears the order was placed through a third-party app linked to your Zomato account. To prevent further fraudulent charges, we need you to verify your OTP immediately. It’s been sent to your registered mobile number.
+receiver: OTP? Fraudulent charges? Kya ho raha hai? Mujhe toh kuch samajh nahi aa raha hai. Koi OTP dene se pehle mujhe aur details chahiye.
+caller: Sir, time is crucial. The payment gateway is about to expire. To secure your account and reverse the unauthorized charge, please share the OTP. Just confirm it, and we’ll block the suspicious order.
+receiver: Okay, ek minute. Main Zomato app check karta hoon. Aur mujhe woh order number bhi batao jo undelivered hai.
+caller: Sir, our system doesn’t provide order numbers in this preliminary security check. Sharing the OTP now is the fastest way to resolve this. Otherwise, the fraudulent transaction will complete, and you’ll be responsible for the ₹2800 charge. The OTP is…

@@ -1,0 +1,8 @@
+caller: Hello, I'm calling from 'Lucky Draw Promotions'. How are you today?  So, I'm just calling to let you know about a fantastic opportunity you've been entered into! You've got a chance to win a £100 gift voucher.  For your chance to win, all you need to do is answer a quick question.  When was Elvis Presley's birthday?
+receiver: Oh, hello Lucky Draw Promotions. I'm doing alright, thanks for asking.  Elvis Presley's birthday... hmm, wait a sec.  Is it January 8th?
+caller: Wah, brilliant! January 8th it is! Bahut khoob! Ab bas aapko yeh answer 80062 pe text karna hai. Yaad rahe, aapke paas sirf 4 chances bache hain! Jaldi kijiye, kahin yeh offer nikal na jaaye!
+receiver: Okay, 80062 pe text karna hai. Thank you! Aur yeh 4 chances kab tak valid hain? Matlab, kitne time tak mujhe text karna hoga?
+caller: Oh, the 4 chances are valid for the next 24 hours, ji. Aur haan, ye 4 nahi, ab aapke paas sirf 3 chances bache hain! So, please text your answer to 80062 as soon as possible!  Don't miss out on this chance to win your £100 gift voucher!
+receiver: Arre, 24 ghante? Aur ab 3 chances? Theek hai, theek hai. Main abhi text kar deti hoon. Thanks for the heads up!
+caller: Arre haan ji, bas ab aapke paas sirf 2 chances bache hain! Jaldi se text kar dein 80062 pe aapka answer.  Iske baad offer nikal jayega, aur aap £100 gift voucher nahi jeet payenge.  So, please hurry!
+receiver: Arre yaar, ab sirf 2 chances? Yeh toh bahut jaldi ho raha hai! Theek hai, main abhi text kar rahi hoon. Shukriya bataane ke liye!

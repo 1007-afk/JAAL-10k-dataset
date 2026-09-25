@@ -1,0 +1,11 @@
+caller: Namaste! Main Rahul se bol raha hoon, XYZ Crypto Investments se. Aapka naam kya hai?
+receiver: Namaste, main Vijay Sharma hoon. Crypto Investments? Kya hai yeh?
+caller: Toh, Mr. Sharma, hum ek naya platform launch kiya hai jahan aap Bitcoin aur Ethereum mein invest kar ke bahut zyada profit kama sakte hain. Hum currently 3% daily return offer kar rahe hain!
+receiver: 3% daily? Yeh bahut zyada lag raha hai. Koi risk toh hoga hi, na?
+caller: Bilkul, sir! Lekin humara platform bahut secure hai, aur humke expert traders market ko monitor karte hain. Apko sirf ₹5000 invest karne hain, aur 7 din mein aapka profit ₹1500 se zyada ho jayega.
+receiver: ₹5000? Okay. Mujhe bataiye, yeh platform kaise kaam karta hai? Aur mujhe mera account kaise milega?
+caller: Sir, hum aapko ek secure link send karenge jahan aap account bana sakte hain. Phir aap UPI ke zariye ₹5000 deposit karenge. Profit automatically aapke account mein add ho jayega. Jaldi kijiye, sir, offer limited time ke liye hai!
+receiver: Jaldi kijiye? Thoda aur bataiye, please. Account banane ke baad main apne paise kaise withdraw karunga?
+caller: Withdraw karne ke liye, aapko ₹2000 ka withdrawal fee deposit karna padega. Yeh humare processing charges hain. Once fee is paid, aapka withdrawal approve ho jayega.
+receiver: ₹2000 ka fee? Phir profit nikal hi nahi payega! Yeh to scam lag raha hai!
+caller: Sir, aap galat samjh rahe hain. Withdrawal fee sirf ek baar apply hoga. Aap baad mein jitna chahen utna

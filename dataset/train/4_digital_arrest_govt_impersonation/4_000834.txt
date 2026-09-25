@@ -1,0 +1,10 @@
+caller: Namaste! Mai Raj Sharma bol raha hoon, Central Board of Indirect Taxes and Customs se. Aapka naam Anjali Verma hai, correct?
+receiver: Haan, main hi Anjali Verma hoon. Kya baat hai?
+caller: Didi, ek urgent matter hai. Aapke naam par ek parcel aaya tha, jo Chennai se aaya hai. Parcel mein illegal items mile hain, drugs ke sambandh mein.
+receiver: Drugs?! Yeh kya bol rahe hain aap? Mujhe koi parcel nahi mila.
+caller: Didi, system mein record hai. Agar aap cooperation nahi karenge, toh humko nirdesh hai aapko arrest karna padega aur case register karna padega. Aapko 10,000 rupees ka bail deposit karna padega.
+receiver: Arrest? Bail deposit? Yeh sab jhuth hai! Main kabhi parcel order bhi nahi kiya. Main police mein report karungi.
+caller: Didi, police mein report karne se kuch nahi hoga, case toh register ho gaya hai. Is matter ko settle karne ke liye, aapko bank transfer ke zariye 10,000 rupees deposit karne honge. Main aapko ek UPI ID de deta hoon: cbitax@sbi. Jaldi karo, time kam hai.
+receiver: Yeh UPI ID fake hai! Main banking details kabhi share nahi karungi. Tumhara number main block kar rahi hoon aur main cyber cell ko report karungi.
+caller: Didi, aap apne aap ko pareshan kar rahi hain. Itna simple hai, bas 10,000 rupees pay karo aur aap safe ho jaaoge. Urgent hai!
+receiver: Tum ek criminal ho! Main abhi hi cyber cell ko call kar rahi hoon aur tumhara number block kar rahi hoon.

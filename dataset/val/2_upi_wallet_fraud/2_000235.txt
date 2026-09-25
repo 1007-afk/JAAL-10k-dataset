@@ -1,0 +1,9 @@
+caller: Namaste, Sir? Mai BharatPay se bol raha hoon. Aapke BharatPay wallet mein ek special cashback offer hai.
+receiver: BharatPay? Kya offer hai? Mein abhi busy hoon, thoda later bhi baat kar sakte hoon?
+caller: Sir, yeh offer sirf aaj ke liye hai! ₹1000 cashback sirf ₹100 se transaction karne par. Agar aap abhi transaction karte hain, toh instant cashback mil jayega.
+receiver: ₹1000 cashback? ₹100 transaction pe? Itna zyada? Sunne mein achha lag raha hai, lekin kaise transaction karna hai? Koi link ya app download karna hai kya?
+caller: Bilkul nahi, Sir! Koi app download karne ki zaroorat nahi hai. Bas BharatPay app khulein, ₹100 ka transaction UPI se kisi bhi merchant ko karein. Instant cashback aapke wallet mein add ho jayega.
+receiver: UPI se transaction? Par main kisi ko ₹100 kyun dekar ₹1000 ka cashback lunga? Yeh thoda fishy lag raha hai. Koi scam toh nahi hai yeh?
+caller: Sir, scam bilkul nahi hai! Yeh ek promotional offer hai. Trust us, Sir! ₹100 ka transaction karein aur ₹1000 cashback sahi sahi aapke account mein credit ho jayega.
+receiver: Okay, I will think about it. Do not call again.
+caller: Sir, time is running out! Offer ends in 1 hour! Just a small transaction, Sir!

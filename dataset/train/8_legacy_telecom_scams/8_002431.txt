@@ -1,0 +1,9 @@
+caller: Namaste sir, main Reliance Jio ki customer service se baat kar raha hu. Aapke phone ki SIM 18 ghante mein deactivate hone wali hai. Kya aap isko reactivate karna chahenge?
+receiver: Oh really? Reliance Jio? Mein toh Reliance Jio ka hi user hu. Par 18 ghante mein deactivate? Kaise ho sakti ye situation? Mujhe abhi tak koi notification nahi mila.
+caller: Sir, aapke account mein kuch technical issue aa gaya hai. Isliye aapko notification nahi mila. Par aapki SIM ko protect rakhne ke liye, aapko jaldi confirm karna hoga. Kya main aapke bank details ko briefly check kar sakta hoon, just to see if there’s any suspicious activity?
+receiver: Bank details? No way! Mein apni banking details kisi ko bhi share nahi karta. Yeh kitna serious hai?
+caller: Sir, yeh sirf verification ke liye hai. Aapke account mein koi fraud attempt detect hua hai. Just a few details like your debit card expiry date and the last four digits would suffice. It's a safety precaution.
+receiver: Wait, wait. Let me think. My debit card expires next month, and the last four digits are 1234. But still, I am not comfortable sharing this information.
+caller: Excellent! That confirms everything. Now, to finalize the reactivation, I need you to provide the name of the person who usually receives your courier deliveries at your home address.
+receiver: Courier deliveries? I rarely get any deliveries at my home. Can you double-check the address you have on file?
+caller: Sir, we can’t disclose that information due to privacy concerns. We need to ensure your account remains secure. Please provide the full name of the primary contact at your residence.

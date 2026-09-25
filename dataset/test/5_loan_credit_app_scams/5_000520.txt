@@ -1,0 +1,13 @@
+caller: Hello, sir? Main Rahul se bol raha hoon, FastLoan India se. Aapne toh FastLoan app par loan ke liye apply kiya tha, right? ₹50,000 tak ka instant loan, koi hassle nahi.
+receiver: Haanji, apply toh kiya tha. Lekin mujhe koi message ya call nahi aayi thi ab tak.
+caller: Sir, aapka application approve ho gaya hai! Abhi sirf kuch basic details check karne hai. Aapka full name aur date of birth bataiye, please?
+receiver: Mera naam Rajesh Kumar hai, aur date of birth 15 August 1985 hai.
+caller: Excellent, Rajesh ji. Ab mujhe aapka bank account number aur OTP chahiye verification ke liye. OTP aapke phone pe aayega.
+receiver: Arre, OTP? Mereko toh koi OTP nahi aaya. Aur bank account number share karna safe hai kya? Maine suna hai, log account empty bhi kar lete hain.
+caller: Sir, tension mat leiye. Ham completely secure hain. OTP aane mein thoda time lag sakta hai. Jab aayega, tab bata dijiye. Account number bhi sirf verification ke liye hai, fear nahi karna chahiye. Agar aapko loan nahi chahiye, to bata dijiye, ham cancel bhi kar sakte hain.
+receiver: Thik hai, wait karta hoon OTP ke liye.
+caller: Sir, OTP aaya?
+receiver: Haan, aaya. 4782 hai.
+caller: Thank you, Rajesh ji! Ab aapko ₹1500 processing fee deposit karni hogi, otherwise loan release nahi hoga. Account details send karta hoon WhatsApp pe.
+receiver: ₹1500? Loan toh ₹50,000 ka tha, aur ab ₹1500 deposit karna hai? Yeh toh scam lag raha hai!
+caller: Sir,

@@ -1,0 +1,11 @@
+caller: Hello sir, this is Rajesh from ‘FastLoan India’. We’ve reviewed your application and pre-approved you for a loan of ₹10,000. Just a few formalities left.
+receiver: Okay, that’s good news. What formalities are these? I need the money urgently.
+caller: Sir, for security purposes, we need to verify your contact list. Could you please share a screenshot of your phone contacts? Just to ensure we’re dealing with a legitimate applicant.
+receiver: Share my contacts? Why do you need that? Seems a bit strange.
+caller: Sir, it’s standard procedure. It helps prevent fraud and assures us you're who you say you are. We need to make sure there are references. It’s just a photo, don’t worry. Send it to this number.
+receiver: Alright, fine. I’ve sent the screenshot. What’s next?
+caller: Excellent, sir! Now, for processing fees, we require a small upfront payment of ₹500 as insurance and verification. This will be credited back to your account once the loan is disbursed. Use UPI to [invent UPI ID].
+receiver: ₹500 upfront? I didn’t see anything about this in the application.
+caller: Sir, it’s a one-time fee. Without it, the loan cannot be processed. Many people are requesting loans, so we need to process the fees quickly.
+receiver: Hmm, I’ll have to think about it. Seems a little suspicious now.
+caller: Sir, don’t delay! This offer is only valid for the next 15 minutes. After that, the offer will expire, and you’ll have to reapply and go through the entire process again. ₹500 now for ₹10,000 later. It's a great deal

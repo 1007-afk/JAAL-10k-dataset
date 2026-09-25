@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? I’m calling from ‘Global Task Rewards’. We’re having a limited-time promotion for new members.
+receiver: Haan, main hi Verma. Global Task Rewards? Yeh kya hai?
+caller: Wonderful! We connect people with simple online tasks – rating apps, watching videos, doing short surveys. It’s super easy, and you can earn a decent income. Right now, we're offering a bonus of ₹5000 for completing just 10 tasks.
+receiver: ₹5000?  Simple tasks?  Sounds too good to be true.  What kind of tasks are we talking about?
+caller: Mostly app ratings and short video views.  Very straightforward. To get started, we just need a small verification fee of ₹500 to ensure your account is secure and eligible for the bonus. This is a one-time fee, and it will be refunded along with your first payout.
+receiver: ₹500?  Okay… aur payment kaise hoga?  I don't want to give my bank details just like that.
+caller: We use a secure payment gateway, PaySecure. You can use UPI or debit card. It's completely safe. The verification process is crucial to prevent fraud and ensure you receive your bonus promptly. Just a few minutes and you're set!
+receiver: Okay, let me see PaySecure. Is there a website I can check?

@@ -1,0 +1,8 @@
+caller: Namaste, main ICICI Bank se Priya Sharma bol rahi hoon. Aapke naam par ek online transaction hua hai jo suspicious lag raha hai.
+receiver: Oh, really? Mein toh abhi ghar par thi. Kya hua?
+caller:  Sir, ek foreign transaction attempt hua hai, ₹12,000 ka.  Aapki security ke liye, humein aapki KYC update karni hogi urgently.  Account suspend hone se pehle.
+receiver:  KYC update?  Kaise karoge? Mujhe toh koi email ya message nahin aaya.
+caller:  Sir, yeh process phone se hi ho jayegi.  Mujhe aapka Aadhaar card number aur OTP chahiye hoga verification ke liye.  Chinta mat karein, yeh bilkul safe hai.
+receiver:  Aadhaar number phone pe?  Yeh thoda risky lag raha hai.
+caller:  Sir, agar aap share nahi karenge, toh humko reluctantly account suspend karna padega.  Company policy hai.  Aapko phir se sab kuch process karna padega.  
+receiver: Theek hai, theek hai. Batao, kya karna hai.

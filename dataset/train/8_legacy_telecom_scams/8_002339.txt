@@ -1,0 +1,8 @@
+caller: Namaste ji, suno? Tumhare phone pe Woh ‘FlashDeal’ ke ads aa rahe hain na? Aur log tumhari call karne ki wait kar rahe hain. Baithaao, hum chat karke rozi kamaoge. Just ‘IGNORE’ likhkar send kar do agar pasand nahi hai.
+receiver: Arre bhai, yeh kya bol rahe hain? Mujhe aise ads nahi aa rahe. Shayad woh wrong number le rahe hain.
+caller: Arey yaar, yeh to bahut ajeeb hai! Number toh sahi hai, maine thrice check kiya. Shayad tumhara internet connection thik nahi hai? Ya fir number mein jo name hai, woh kisi aur ka mobile hai? Kiski baat sunne ki hai tum, batao na?
+receiver: Dekho, mujhe kuch bhi nahi mili. Tumko koi aur number try karna chahiye. Mera phone totally fine hai aur number mein mera hi naam hai. Maybe unko problem hai?
+caller: Arey, itna serious mat lo! Humne toh tumhare number pe hi send kiya tha. Sometimes network ka delay hota hai. Tum phone ko restart karo aur spam folder bhi check karo. Jab message milega, then just ‘OK’ likhkar reply de. Then I will give you the instructions how to proceed.
+receiver: Hmm, okay. Internet connection check kar lunga. Spam folder bhi dekhungi. Message mile toh ok likhkar reply dungi. Please, tum bhi sure karo ki tum sahi number par call kar rahe ho.
+caller: Haan, absolutely. I am sure that number is correct. You just have to check once again, maybe there is some network issue. I have sent it on your number only. If you get ‘OK’ reply, then I will understand that you received the messages and we will talk further. Just try it. Your name what is? So that I can remember for future.
+receiver: Ji, meri naam Kavita hai. Aapne sahi number par bheja hai, ab bus message ka wait hai. Phone restart kar diya hai, dekhte hain kya hota hai.

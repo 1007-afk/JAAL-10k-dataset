@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel Payments Bank se bol raha hoon. Tumhare Airtel Payments Bank account mein ek cashback offer hai! ₹50,000 cashback!
+receiver: ₹50,000? Kaise? Main toh Airtel Payments Bank nahi use karta.
+caller: Haan ji! Yeh ek special offer hai sirf Airtel customers ke liye. Cashback claim karne ke liye, tumhein bas ₹500 ek processing fee ke taur pe pay karne hai.
+receiver: ₹500? Kahan pay karna hai? Airtel Payments Bank app mein?
+caller: Exactly! Paytm pe pay karo. Yeh bilkul safe hai. Account activate hone ke baad tumhein ₹50,000 mil jaayega! UPI ID hai: 9876543210@paytm.
+receiver: Wait a minute…₹500 Paytm pe? Airtel ka number toh ye nahi hai. Mujhe kuch gadbad lag rahi hai.
+caller: Arre, koi gadbad nahi hai! Jald karo! Yeh offer sirf abhi ke liye hai. Agar tum delay karoge toh offer khatam ho jayega aur tumko ₹50,000 ka cashback nahi milega! Fast karo!

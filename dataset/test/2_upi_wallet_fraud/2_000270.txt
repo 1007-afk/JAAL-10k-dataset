@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay security team se Rahul bol raha hoon. Aapke BharatPay wallet mein aaj ek suspicious transaction attempt kiya gaya tha, ₹7500 ka. Aapne kiya tha ya nahi?
+receiver: Kya? ₹7500? Nahi, maine toh koi transaction nahi kiya. Main toh abhi bank mein tha.
+caller: Sir, yeh bahut serious matter hai. Humesha safe side par rehana chahiye. Account ko secure karne ke liye, aapko ek OTP verify karna hoga. WhatsApp par OTP bhejo 9876543210 par. Bas 5 minutes ka kaam hai.
+receiver: OTP? WhatsApp par? Maine toh BharatPay app mein OTP dekha tha, WhatsApp par nahi. Aur ₹7500 ka attempt? Mainko abhi call karta hoon BharatPay customer care ko.
+caller: Sir, customer care tak time lagega. Ye hackers bahut fast hain. Abhi OTP bhejo nahi toh aapka pura account hack ho jayega aur ₹7500 hi nahi, ₹20,000 bhi chale jayenge! Koi risk nahi lijiye. Aapko ₹100 ka charge lagega OTP verification ke liye.
+receiver: ₹100? Abhi ₹7500 ka transaction attempt hua hai aur mujhe ₹100 pay karna padega? Yeh toh thoda zyada lag raha hai. Mainko sochna hai.
+caller: Sir, ek minute bhi mat sochiye! Account hack hone se achcha ₹100 pay karna achcha hai. OTP jaldi bhejo, time barbaad na karein. Yeh offer sirf aaj ke liye hai.

@@ -1,0 +1,10 @@
+caller: Namaste! This is Priya from BlueDart Logistics. We have a parcel addressed to you, but there's been a slight issue with the payment. Could you please verify your address for us?
+receiver: Haan, ji. Which address are you referring to? I'm expecting a delivery, yes.
+caller:  Excellent! It's registered to 123, Gandhi Nagar, Pune. Now, to confirm the delivery, we require a small security fee of ₹350 to cover customs processing. It’s a standard procedure for international shipments.
+receiver: ₹350? I didn't see anything about a fee when I ordered it. What's the parcel about, and can you give me a tracking number?
+caller: The parcel’s contents are confidential, sir, due to privacy regulations. However, I can confirm it's a high-value item. The tracking number is BD789012345. To proceed, we just need that small fee. You can pay it through UPI.
+receiver: UPI? That sounds a little risky. Can't I pay on delivery? And what's the sender's name?
+caller: Unfortunately, we’ve stopped cash on delivery due to increased security risks. The sender’s details are protected, sir. But to avoid further delays and potential return of the parcel, it's best to settle the fee quickly. Just a quick UPI payment, and it'll be sorted.
+receiver: Okay, I'm a little wary, but alright. What's your UPI ID?
+caller: It's bluedart.payments@axis. Please send ₹350. Once you do, I’ll mark the delivery as confirmed and it will reach you tomorrow morning.
+receiver:  Wait a minute. Something doesn’t feel right. I’m going

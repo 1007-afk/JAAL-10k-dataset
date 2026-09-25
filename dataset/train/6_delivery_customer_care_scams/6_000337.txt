@@ -1,0 +1,8 @@
+caller: Hello, mai Swiggy customer care se Rahul bolta hoon. Aapke account mein ek suspicious transaction detect hua hai, ₹780 ka.
+receiver: ₹780? Mujhe toh koi order yaad nahi.
+caller: Haan sir, kuch time pehle aapke naam se ek order hua tha. Agar aapne kiya hai toh koi baat nahi, lekin agar nahi kiya toh hamein zaroorat hai aapke OTP ka verification ke liye.
+receiver: OTP? Mujhe doubt ho raha hai. Customer care aise number mangaate hain?
+caller: Sir, security ke liye hamko verification karna padta hai. OTP bhejo, main isko resolve kar dunga. Koi chinta mat karo. Fast please!
+receiver: Sir, mujhe WhatsApp pe Swiggy ka official number dikh raha hai. Mein wahan check karta hoon.
+caller: Arre sir, ye bahut important hai! Agar aap OTP nahi bheje toh aapka account block ho sakta hai aur ₹780 bhi nikal jayega! Abhi bhejo, please!
+caller:  Sir, abhi sahi OTP bhejo, warna account permanent block ho jayega.  Time ending fast, last chance.

@@ -1,0 +1,7 @@
+caller: Namaste! My name is Aryan, I saw your profile on ‘HeartConnect’ app. You seem like a lovely person. I really liked your pictures.
+receiver: Namaste Aryan. Thank you. HeartConnect? I don’t remember messaging you.
+caller: Oh, maybe you didn't get my message properly. Anyway, I am based in Dubai, working in the oil industry. It's a bit hectic, but I enjoy it. I was wondering if you’d like to chat more?
+receiver: Dubai, huh? That’s a long way from here. What kind of oil industry work do you do exactly? And why are you on HeartConnect if you are so busy?
+caller: I'm a project manager, mostly overseeing logistics. Long hours, definitely. But HeartConnect is a nice way to unwind a little, you know? Listen, my mother is in a bit of a fix. She needs a small operation, and I'm just trying to gather funds quickly. Could you perhaps send me 5000 rupees to help out? It would mean a lot.
+receiver: 5000 rupees? Just like that? And your mother needs an operation? That sounds a bit sudden, Aryan. I hardly know you. I’m not comfortable with that. I need to see proof, or talk to her myself.
+caller: I understand your hesitation. Truly. It's a bit embarrassing to ask, but it’s really urgent. I can send you pictures of my mother’s medical reports if that helps. Just a little help, promise I’ll pay you back as soon as I can. It’s just until my next paycheck.

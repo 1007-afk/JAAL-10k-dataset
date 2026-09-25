@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay customer care se Rahul bol raha hoon. Aapke BharatPay wallet mein aaj ek karodon rupay ka transaction attempt hua hai jo fail ho gaya hai. Security ke liye, aapko isko verify karna hoga.
+receiver: Karodon rupay? Fail ho gaya? Main toh kuch bhi transaction nahi kiya! Yeh kya ho raha hai?
+caller: Haan ji, sahi suniye. System detect kar raha hai ki koi shakal se attempt kar raha hai. Verify karne ke liye, mujhe aapki UPI ID aur registered mobile number ka last 4 digits bataiye. Bas verify karna hai, aur aapka wallet safe rahega.
+receiver: Mera UPI ID hai [redacted] aur mobile number ka last 4 digits 4321 hai. Lekin aapko yeh details why chahiye? Direct BharatPay app mein verify nahi kar sakte?
+caller: Woh system mein technical issue aa raha hai, sir. Isliye main aapko phone par verify kar raha hoon. Verification complete hone ke baad, main aapko ek OTP भेजूंगा जो aapko BharatPay app mein enter karna hai.
+receiver: Theek hai, OTP ka wait kar raha hoon. Kyun karta hoon, mujhe kuch gadbad lagi hai. Koi kamal ka lag raha hai.
+caller: Sir, OTP 123456 hai. Jaldi se BharatPay app mein enter kijiye, warna aapka account suspend ho sakta hai.  Aur sir, OTP enter karne ke baad, mujhe bataiye ga.
+receiver: Wait, are you sure this is BharatPay? The OTP format seems off.

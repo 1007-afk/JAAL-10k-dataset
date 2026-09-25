@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? My name is Ankit from CryptoGain Advisors. We're calling regarding a limited-time opportunity in StellarChain, a new cryptocurrency with incredible potential.
+receiver: Haan ji, mein Mrs. Kapoor bol rahi hoon. StellarChain? Woh kya hai?
+caller: StellarChain is a revolutionary blockchain platform focused on secure data storage and transactions. It’s currently in its early stages, meaning the potential for significant returns is very high – easily 300% in the next few weeks, we predict. We're offering a special introductory bonus for our valued clients.
+receiver: 300%? Yeh toh bahut zyada lag raha hai.  Koi risk toh hoga na? Aur yeh bonus kaise milega?
+caller: Minimal risk, Mrs. Kapoor. Our team has done extensive research. The bonus is a small investment boost - if you invest ₹8,000 today, we’ll add an additional ₹2,000, effectively doubling your initial investment power. It’s a promotional offer.
+receiver: ₹10,000?  Main sirf ₹2,000 hi invest karna chahti hoon. Kya woh ho sakta hai?
+caller: Unfortunately, Mrs. Kapoor, the bonus only applies to the ₹8,000 minimum. But, for you, as a valued potential client, I can extend a slightly reduced bonus for ₹3,000 investment, adding an extra ₹1,000.  This is a special exception.  You can send the money via UPI to 9876543210.
+receiver: UPI? Main UPI se payment karna comfortable nahi feel kar rahi. Koi aur way hai?
+caller: Mrs. Kapoor, for security reasons, we only use UPI for these promotions. It’s the most secure method. If you hesitate

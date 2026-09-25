@@ -1,0 +1,6 @@
+caller: Namaste Aunty! Mein PhonePe se bol raha hoon. Aapke account mein cashback offer aaya hai, bilkul free!
+receiver: Oh, really? PhonePe cashback? Main toh koi offer nahi dekh rahi. Aur PhonePe se toh koi call bhi nahi karta, humesha message karta hai.
+caller: Haan Aunty, yeh special offer hai, sirf kuch select customers ke liye. Cashback claim karne ke liye, aapko sirf ek chota processing fee dena padega, ₹250 tak.
+receiver: ₹250? Processing fee? PhonePe toh free cashback deta hai. Yeh kuch gadbad lagi. Main abhi bank details nahi de sakti.
+caller: Aunty, mat chinta karo! ₹250 fee sirf ek baar lagega. Phir aapko ₹5000 ka cashback milega! Jaldi karo, offer sirf aaj tak hai. Account block bhi ho sakta hai agar aap fee nahi bharengi.
+receiver: Account block ho jayega? ₹5000 ka cashback? Bas ek chota fee bhar dungi... Wait, ₹250 kahan bharu? Koi link hai kya?

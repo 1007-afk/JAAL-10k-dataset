@@ -1,0 +1,8 @@
+caller: Namaste sir, main ‘Shanti Wellness’ centre se bol raha hoon. Aapke health checkup ke liye call kiya hai. Kya aap is number 9876543210 par call kar sakte hain?
+receiver: Haanji, main sun raha hoon. Health checkup ke liye call aaya hai? Achha, okay. Main thode minute mein aapko 9876543210 par call back karunga. Thank you.
+caller: Ji bilkul sir, aap jab bhi comfortable hon, tab aap is number par call kar lijiye. Humein aapka wait karna rahega. Koi bhi doubt ho toh abhi bata sakte hain.
+receiver: Arre, nahi sir. Abhi toh main thoda busy hoon. Bas isliye kaha ki thode minute mein call back karunga. Aapko koi special test ka enquiry hai kya? Warna main 9876543210 par hi call karunga.
+caller: Ji sir, koi special test ka enquiry nahi hai. Aap jab convenient ho tabhi call kijiye. Hamare centre mein blood tests, ECG aur ultrasound bhi available hain.  Aapki healthy life style ko maintain karne ke liye humein yeh vaccination drive chal rahi hai. Bas aap 9876543210 par call kar lenge toh hum aapki medical history verify kar payenge aur appointment fix kar denge.
+receiver: Okay, good to know. Aapne sab kuch clear kar diya. I’ll definitely call back on 9876543210 as soon as I am a little free. Thanks for the information. Stay well!
+caller: Ji sir, koi urgent baat nahi hai. Aap jab convenient ho tabhi call kijiye. Hamare centre mein blood tests, ECG aur ultrasound bhi available hain. Bas aap 9876543210 par call kar lenge toh hum aapki medical history verify kar payenge aur appointment fix kar denge.
+receiver: Okay, thank you for clarifying. I’ll call 9876543210 when I have a moment. You take care!

@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Sharma? My name is Akash from QuickLoan India. We’ve reviewed your recent loan application and it’s almost approved for a sum of ₹2 lakhs.
+receiver: Oh, really? That’s great news! I applied, yes. I'm a little surprised, I wasn't sure I’d qualify.
+caller: Wonderful! It’s a simple process. To finalize, we just need a small verification fee of ₹5,000 to cover processing and insurance. It will be refunded upon loan disbursement, of course. Can you transfer it to the UPI ID: quickloan.verify@axis?
+receiver: ₹5,000? That seems a bit high, doesn't it? I thought these things were usually free to apply for.
+caller: Ma’am, security is very important. This is standard procedure to prevent fraud. Many people are trying to scam us, so this is the only way to ensure your application is legitimate. Consider it an investment in securing your loan. Just a quick transfer, and the money will be back in your account very soon.
+receiver: Hmm… okay, I’ll do it. But I expect that ₹5,000 back as soon as the loan comes through.
+caller: Absolutely, Mrs. Sharma! You’ve made a very wise decision. Please send a screenshot of the transaction to this number so we can activate your loan. You’ll receive the money within 24 hours, guaranteed.

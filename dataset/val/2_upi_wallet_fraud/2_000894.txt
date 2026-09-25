@@ -1,0 +1,8 @@
+caller: Namaste sir, isko bolo Payzi support se. Aapke Payzi digital wallet mein kuch suspicious activity detect hui hai.
+receiver: Suspicious activity? Kya hua? Mein toh aajkal Payzi use bhi nahi karta hoon.
+caller: Haan sir, ek small amount aapke wallet se transfer hone ki koshish ho rahi hai. Security ke liye, hum aapka wallet temporary suspend kar rahe hain. Reactivate karne ke liye, sirf ek OTP verify karna hai.
+receiver: OTP? Kaise milega OTP? Aur mujhe koi message bhi nahi aaya hai.
+caller: Sir, OTP aapke registered mobile number par milega.  Woh ek minute mein arrive ho jayega. Iske baad, mujhe woh number bataiye, aur hum aapka wallet reactivate kar denge. Jaldi karna hai sir, agar aap reactivate nahi karayenge toh aapka wallet permanent block ho jayega aur aapka paisa bhi risk mein aa jayega.
+receiver: Permanent block? Yeh bahut hi suspect lag raha hai. Payzi ka official helpline number mujhe bataiye. Main khud verify karta hoon.
+caller: Sir, aapko tension lene ki zarurat nahi hai.  Official helpline number 1800-PAYZI-CARE (1800-72994-2273) hai.  Lekin aapko pata hai na ki kabhi-kabhi line busy hoti hai?  Aapko yahan immediately help mil rahi hai.
+receiver:  Hmm... Okay, OTP mila hai.  458291.  Par main abhi bhi confirm nahi ho pa raha hoon ki yeh Payzi se hi hai.

@@ -1,0 +1,7 @@
+caller: Namaste, sir. I'm calling from the Cyber Crime Investigation Cell, Delhi. We’ve detected some suspicious activity linked to your Paytm account. It appears someone has attempted to transfer a large sum of money using your account details.
+receiver: Kya? Paytm account? Koi suspicious activity? Mujhe toh kuch pata nahi hai. Main abhi Paytm use kar raha hoon.
+caller: Ji sir, exactly. That’s why we’re calling you immediately. To prevent any further fraudulent transactions, we need to verify a few details. It's a matter of national security, sir, as it might be linked to an international money laundering scheme.
+receiver: National security? Arre yaar, ye kya bol rahe ho? Mujhe toh kuch samajh nahi aa raha hai. Koi proof hai? Koi transaction ID ya kuch?
+caller: Sir, all the details are already with our team. But to secure your account, we need you to confirm your UPI pin number, just to verify it's you. We need to freeze your account temporarily until we complete the investigation. It’s a standard procedure.
+receiver: UPI pin number? Sir, main UPI pin phone pe nahi bol sakta. It's risky. Kya main kisi official website par check kar sakta hoon? Ya koi number mil jayega?
+caller: Sir, for your safety, we cannot share any direct links. This is a very sensitive matter. If you don’t cooperate, sir, we might have to escalate this to the authorities and your account will be permanently blocked and a case will be filed against you. Just the pin, sir. Please.

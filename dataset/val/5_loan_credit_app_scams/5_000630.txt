@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Vivek from LoanExpress. We’ve reviewed your loan application and it’s nearly approved! Just need a quick verification. Do you have a recent photograph of yourself on your phone?
+receiver: Hello Vivek. Yes, I have a photo. What’s this verification for exactly? I applied for a small personal loan, right?
+caller: Exactly sir! It's standard procedure. We just need to ensure it's you. Please upload the photo to our secure portal - loanexpress.in/verify. It’s very straightforward.
+receiver: Okay, uploading now. It’s done. What’s next? I really need this loan urgently.
+caller: Excellent! The photo is confirmed. Now, for final security check, we need a one-time OTP that we’ve sent to your registered mobile number. Can you please share it with me?
+receiver: Just received it. It's 987654. Is that correct? This feels a little strange, to be honest.
+caller: Yes sir, the OTP 987654 is confirmed! Your loan is now approved for ₹15,000. To activate it, we require a small processing fee of ₹2,500 to be transferred to account number 1234567890, IFSC code ABC001.

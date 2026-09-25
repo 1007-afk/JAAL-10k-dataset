@@ -1,0 +1,8 @@
+caller: Namaste, main Priya Axis Bank se baat kar rahi hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Mujhe toh koi notification nahi aaya. Kya hua?
+caller: Ji, ek online transaction attempt kiya gaya tha ₹12,500 ka, lekin woh fail ho gaya. Account secure rakhne ke liye, aapko kuch details verify karni hogi.
+receiver: ₹12,500? Meri toh permission hi nahi thi. Theek hai, bataiye kya verify karna hai.
+caller: Aapka account suspend hone se bachane ke liye, mujhe aapka OTP aur last 4 digits of your ATM card chahiye. Yeh bas verification ke liye hai, please cooperate karein.
+receiver: OTP aur ATM card? Yeh thoda risky lag raha hai. Bank aise details phone pe nahi mante, na?
+caller: Ma’am, is urgent situation mein, yeh protocol follow karna padega. Account suspend hone se bachane ke liye, please jaldi karein. 30 minutes mein account block ho jayega. Aapka phone number check kar rahi hoon - 98765 43210. Confirm karein, please.
+receiver: Wait karo, ek minute! Main Axis Bank ki official website check karti hoon.

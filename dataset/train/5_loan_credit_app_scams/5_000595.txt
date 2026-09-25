@@ -1,0 +1,8 @@
+caller: Namaste sir, mera naam Vijay hai, SpeedLoan India se. Aapne online emergency loan ke liye apply kiya tha, hai na?
+receiver: Haan, ji. Mainne apply kiya tha. Kya hua?
+caller: Sir, aapka application approved ho gaya hai, bahut achha news! Lekin security ke liye, mujhe aapke account details check karne hai. Bas ek OTP send kar rahe hai, confirm karo.
+receiver: OTP? Kon se number pe send karenge? Mujhe thoda suspicion ho raha hai.
+caller: Aapki registered mobile number pe send karenge sir, 9876543210. Jaldi karo, offer limited time ke liye hai. ₹50,000 ka loan aapko instant mil sakta hai.
+receiver: ₹50,000? Aur interest kitna hoga? Aur mujhe OTP dene se pehle, mujhe confirm chahiye ki aap real hain.
+caller: Sir, interest rate sirf 12% hoga, market mein sabse kam! OTP toh bas confirm karne ke liye hai, bina OTP bina loan nahi milega. Doston se mat poocho, yeh limited time offer hai!
+receiver: Okay, wait. Dekhta hoon.

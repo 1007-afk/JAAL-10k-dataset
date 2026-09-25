@@ -1,0 +1,6 @@
+caller: Namaste! Main CryptoGain se baat kar raha hoon. Aapko Bitcoin trading mein bada profit kamaane ka mauka mil raha hai.
+receiver: CryptoGain? Bitcoin trading? Profit kitna milega, sir? Aur yeh kaise hoga?
+caller: Sir, hum ek special automated trading bot use karte hain jo market ko analyze karta hai aur best deals find karta hai. Aapko sirf ₹20,000 invest karne hain, aur hum promise karte hain ki aapko ek mahine mein ₹60,000 tak profit mil sakta hai.
+receiver: ₹20,000 invest karna hai? Aur ek mahine mein ₹60,000 profit? It sounds too good to be true. Koi risk toh hoga hi na?
+caller: Sir, market mein risk toh hamesha rehta hai, lekin humare bot ko isliye banaya gaya hai ki woh risk ko kam kare.  Aapko ₹20,000 ko humare wallet mein transfer karna hoga, aur bot automatically trading shuru kar dega. Account number main aapko SMS karega.
+receiver: Wait a minute.  Koi wallet number SMS karne se pehle, main CryptoGain ki website check karta hoon. Aur mujhe ek guarantee chahiye, agar loss hua toh kya hoga?

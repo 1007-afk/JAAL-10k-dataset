@@ -1,0 +1,16 @@
+caller: Namaste! Main Bharat Telecom se bol raha hun. Aapka broadband connection 9 mahine ka ho gayi hai, sahi na?  Aapko humein ₹500 ka bill a Gaya hai jo aapne deposit kiya tha.  Humare paas ek special offer hai - sirf ₹300 mein aapko naya router mil jaayega!  Agar aap humein ₹300 deposit karte hain, toh aapke bill ko clear kar denge.  Aap interest rakhte hain?  Jabao hum aapko confirmation message send karein, phir aap reply karein.
+receiver: Namaste...Haan, woh hai sach. Broadband connection 9 mahine ka ho gaya hai. ₹500 ka bill?  Yeh toh achcha laga. Router ₹300 mein?  Woh bhi acha deal hai.  Mujhe thoda time chahiye.  Main dekh leta hu.  Reply karne ke liye kahan jana hoga?
+caller:  Ji haan, aapko ek simple OTP verification process karna hoga.  Hum aapko SMS se OTP bhegenge.  OTP enter karne ke baad, aapke payment details submit karne hote hain.  Aapke account se ₹300 automatically deduct ho jayenge.  Isliye aapko OTP verify karna zaruri hai.  Aap ready hain?
+receiver:  OTP?  Aap OTP kaise bhegenge?  SMS se?  Okay, fine.  Batao, OTP receive karne ke liye mujhe kya karna hoga?  Aapke number pe message aayega?
+caller: Haan ji, aapke registered number pe message aayega.  Aapko OTP copy karna hoga aur humein return call par bolna hoga.  Phir hum aapko verification karne ke liye guide karenge.  Aapko koi darr nahi lagna hai, yeh puri procedure hai.  Aapko abhi response dena hai.
+receiver:  Ok, okay.  Verification process…  Kahaan karunga main verification?  Online? Ya offline?
+caller: Online hi karna hoga.  Aap apne browser me humara website visit karein – telecomsupport.in.  Upar right corner me 'Verify Account' option hoga.  Click karein aur follow karein.  Aapko OTP copy karna hoga aur submit karein.  Aapko koi problem nahi hogi.
+receiver:  Telecomsupport.in?  Dekh sakta hoon.  (Pause)  Okay, dekha.  Koi error message nahi aaya.  Aapne number dikhaya?
+caller: Haan ji, aapne apna number dikhaya hai.  Ab aapko sirf OTP copy karna hai aur humein return call par bolna hai.  Aapko jitni bhi mushkil ho, hum aapki madad karenge.  Aapko abhi confirm karna hai, agar aap accept karte hain.
+receiver:  Theek hai, accept karta hun.  Aap mujhe kab tak call karoge?
+caller:  Kal subah 7 baje tak ya kal shahar 6 baje tak zaroor call aa jayegi.  Aapko jitni soon possible help karenge.  Thank you!
+receiver:  Theek hai.  Shubh Prabhat!
+caller: Shubh Prabhat!  Aapko bahut dhanyavaad!
+receiver: Haan, Unlimited data aur calls? ₹1000 mein? Thoda expensive lag raha hai.  Mujhe thoda time chahiye.  Recharge karne ka koi alternative way hai kya?
+caller: Ji haan, aapko UPI ID se payment karna hoga.  Aap apne Paytm, Google Pay ya PhonePe account se ₹1000 transfer kar sakte hain.  Payment complete hone ke baad, aapko confirmation message milega.  Aapko koi problem nahi hogi.  Aapko jitni jaldi possible, recharge karna hai, kyunki offer limited time ke liye hai.
+receiver: UPI ID?  Batao UPI ID kya hota hai

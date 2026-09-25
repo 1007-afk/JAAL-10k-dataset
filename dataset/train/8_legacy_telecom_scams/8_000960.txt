@@ -1,0 +1,9 @@
+caller: Namaste! Aapko badi khabar dakhane ke liye call karta hu, aapne lottery mein jeeti hai ₹5,000!
+receiver: Arre seriously? Lottery mein jeeti? Itni badi khabar hai! Kya sach hai ye?
+caller: Haan, totally true! Tumhein ₹5,000 ka cheque jo mail se bheja tha, usmein signature dekhna. Iske liye tumhein kuch details chahiye hongi.
+receiver: Okay, okay, dekhoonga. Kya details chahiye tumhein?
+caller: Bahut achcha! Ab humein tumhara bank account number aur Aadhaar card number lagana padega. Yeh sirf verification ke liye hai, don't worry.
+receiver: Haan ji, meri bank account number hai 1234-5678-9012-3456 aur Aadhaar card number hai 9876543210.
+caller: Shukriya! Tumhare bank account mein ₹5,000 transfer karne ke liye, humein OTP bhi lena hoga. Aapke bank dwara bheja hua OTP bataiye.
+receiver: OTP aa gaya hai. Yeh hai OTP: 8765432190.
+caller: Dhanyavaad [Invented Name] ji! Aapka ₹5,000 transfer ho raha hai!

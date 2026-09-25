@@ -1,0 +1,7 @@
+caller: Hello, mai calling from Blue Dart Courier. There's a problem with your parcel destined for Mumbai. It’s showing as ‘undeliverable’ due to incorrect address details.
+receiver: Arre? What incorrect details? I filled everything properly when I ordered. What’s the tracking number?
+caller: The tracking number is BD123XYZ. The system shows a missing apartment number. To re-route the parcel, we need to verify your identity and confirm a small outstanding shipping fee of ₹75.
+receiver: ₹75? But I already paid for shipping. And why can't you just contact the sender?
+caller: Due to company policy, we must verify the recipient directly. Please provide the OTP you'll receive on your registered mobile number for security purposes.
+receiver: Okay, hold on. I just got an OTP. It’s 839217. But still, I’m a bit suspicious. Can you give me a callback number from Blue Dart to confirm?
+caller: Thank you. Your parcel is now being processed for re-delivery. To complete the process, we require you to install our secure remote access application 'BlueDart Assist' to quickly update the address details. The link is bluertassist.com.

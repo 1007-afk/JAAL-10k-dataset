@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart se Rohan bolta hoon. Aapke naam par ek order aaya hai, lekin payment confirmation mein kuch problem hai.
+receiver: Flipkart? Kya order? Mujhe yaad nahi aa raha. Mai Flipkart se kuch order kiya tha kya?
+caller: Haan ji, order number RF7890123. Yeh ek smart watch ka order hai. Payment failed hone ke karan delivery ruk gayi hai. Aapko uska payment complete karna hoga taaki delivery ho sake.
+receiver: Payment failed? Mai ne toh payment kiya tha!  Ye kaise ho sakta hai?  Payment kaise complete karun?
+caller: Aapko ek OTP milega, woh OTP mereko bataiye, aur mai payment complete kar dunga. OTP dene se aapki delivery jaldi ho jayegi. Theek hai na?
+receiver: OTP?  Kyon mereko OTP dena padega?  Flipkart toh aise nahi karta hoga. Mai police mein complaint kar dunga.
+caller: Arre ji, aap galat soch rahe hain!  Main sirf aapki help kar raha hoon!  Aapko delivery jaldi chahiye na?  Bas OTP de dijiye.

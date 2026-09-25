@@ -1,0 +1,8 @@
+caller: Hello, mai Flipkart se Rohan bol raha hoon. Aapke naam par ek order aaya hai, lekin payment processing mein kuch problem aa rahi hai.
+receiver: Haan, bataiye kya hua? Mujhe ek order aaya tha, yaad hai.
+caller: Haan ji, order number RF789453 hai. Payment fail ho gaya hai, aur aapko 24 ghante ke andar confirm karna hoga warna order cancel ho jayega. Aapko OTP dena padega.
+receiver: OTP? Flipkart kabhi OTP phone pe maangta hai? Main to online payment kar chuka hoon.
+caller: Sir/Madam, security ke liye OTP zaroori hai. OTP generate hone ke baad, main aapko ek secure link भेजूंगा jahan aap payment confirm kar sakte hain. Yeh sirf 5 minute ka kaam hai.
+receiver: Theek hai, phir number bataiye. Par yeh link check karna bahut zaroori hai.
+caller: Aapka OTP hai 123456. Ab, woh link check karke payment confirm kar dijiye. Aapka order safe rahega.
+receiver: Okay, wait. I will check this link…

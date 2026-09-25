@@ -1,0 +1,7 @@
+caller: Namaste, main Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai jo Nepal se aaya hai aur ismein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mere naam par? Main toh kabhi Nepal se kuch order nahi kiya. Yeh kya ho raha hai?
+caller: Sir, parcel number IN457892345. Details mein illegal drugs paye gaye hain. Isliye aapko is matter mein cooperate karna hoga. Legal action se bachne ke liye, aapko ₹50,000 ka fine pay karna hoga.
+receiver: ₹50,000? Yeh sab jhooth hai! Main kabhi drugs nahi istemal karta. Aapko galat number lag gaya hai. Mujhe parcel nahi mila hai. Aapka claim prove karein.
+caller: Sir, humare paas customs record hai. Jaldi karo, case escalate ho raha hai. Aapko online payment link bhejna hai. ₹50,000 ka payment kar dijiye aur matter settle ho jayega. Agar aap cooperate nahi karenge, toh hum FIR register karenge.
+receiver: FIR? Nahin, nahin, yeh theek nahi hai! Main police station mein jaunga aur complaint karunga. Aapko legal action ka samna karna padega.
+caller: Sir, aapko FIR register karne se pehle ₹50,000 pay kar dijiye. Payment kar dijiye, link hai: [fake link]. Jaldi karo, time guzar raha hai.

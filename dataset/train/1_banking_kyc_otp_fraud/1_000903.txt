@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank Cyber Security team se Rohit Sharma bol raha hoon. Aapke Axis Bank account mein se kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Aur kaunsa activity? Mujhe toh kuch pata nahi hai.
+caller: Sir, ek online transaction attempt kiya gaya hai Nepal mein, 50,000 rupees ka. Agar yeh aapne nahi kiya, toh humein aapke account ko freeze karna padega aur kuch details verify karni hogi.
+receiver: 50,000? Nepal mein? Nahin, maine toh kabhi Nepal se transaction nahi kiya. Ye toh galat hai!
+caller: Sir, account secure rakhne ke liye, humein aapka OTP aur KYC details verify karna hoga. Aapka Aadhaar card number aur ek baar OTP bataiye, please. Abhi bataiye.
+receiver: Rukiye, rukiye. Main thoda confused hoon. KYC details phone pe? Mein toh kabhi bank ko yeh details nahi deta. Yeh scam lag raha hai.
+caller: Sir, maaf karein, lekin humein security protocol follow karna hai. Agar aap OTP nahi denge, toh humein aapka account 24 hours ke liye suspend karna padega.  Aur yeh 50,000 ka transaction proceed ho sakta hai. Aapka nuksan ho sakta hai.

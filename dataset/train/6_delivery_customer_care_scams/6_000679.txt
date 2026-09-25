@@ -1,0 +1,7 @@
+caller: Hello, good afternoon! This is Rahul from Bluebird Courier. We’re calling about a parcel addressed to you. It’s showing as ‘pending delivery’ due to an incorrect address format.
+receiver: Oh, really? I wasn’t expecting anything. What’s the sender?
+caller: The sender is listed as ‘Shopzone India’. It’s a fairly large package, approximately 5 kg. To get it dispatched correctly, we just need to quickly verify a few details. Could you confirm your registered mobile number please?
+receiver: Sure, it’s 9876543210.
+caller: Thank you. Now, for security purposes, we need to send a one-time password (OTP) to that number to confirm your identity. This is standard procedure for high-value deliveries. Please let me know the OTP once you receive it.
+receiver: Okay, I've got the OTP. It's 123456.
+caller: Excellent! Thank you for your cooperation. Now, there's been an issue with the payment linked to this order – it’s flagged as potentially fraudulent. To prevent the parcel from being returned, we require a small verification fee of ₹500. You can pay it through UPI. The UPI ID is bluebird.pay@axis.

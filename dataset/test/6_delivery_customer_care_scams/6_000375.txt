@@ -1,0 +1,6 @@
+caller: Hello, this is Ravi from BlueDart courier. We’ve noticed an attempted delivery to your address yesterday failed. There's a payment issue with the package.
+receiver: Payment issue? What package? I wasn't expecting anything.
+caller: Yes sir, it's an urgent delivery from Flipkart for a new mobile phone. The payment didn’t go through completely, just a small amount of ₹799 is pending. We need to verify it quickly.
+receiver: ₹799? That’s strange. Can you give me the order number or some details to check on Flipkart’s side?
+caller: Absolutely, sir. To process this verification, we'll need a one-time password (OTP) sent to your registered mobile number. This is just to secure your transaction. Please share it when you receive it.
+receiver: Wait a minute. This sounds a bit fishy. I'm going to check with Flipkart directly before I give you anything.

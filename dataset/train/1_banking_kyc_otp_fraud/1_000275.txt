@@ -1,0 +1,16 @@
+caller: Namaste sir, main Rahul, SBI bank se baat kar raha hoon. Aapne online loan apply kiya tha, isliye call kar raha hoon. Aapke paas passport size photo ready hai kya?
+receiver: Namaste Rahul ji. Haan, picture toh hai. Kaisa hai? Credit card ka reference number chahiye tha na?
+caller: Ji sir, picture sahi hai. Kya main aapka loan application ID check kar sakta hoon, jo aapko apply karte samay mila tha? Just one second, verification complete hoga.
+receiver: Wait a minute… yeh hai XYZ789012345. Picture bhi clear hai. Aadhar card bhi ready hai, bataiye ab kya karna hai?
+caller: Very good! Aapka loan application ID XYZ789012345 hai, confirm ho gaya. Now, aapke registered mobile number par ek SMS message ayega. Woh message aap mujhe dikha sakte hain kya? Just for verification, it will take a moment.
+receiver: SMS aaya hai. Yeh hai DEF1234567. Verification ho gaya? Please tell me fast, I'm really busy.
+caller: Yes sir! Aapka SMS code DEF1234567 hai, confirmed. Document verification complete ho gaya hai. Aapka loan sanction ho gaya hai, cheque soon aapke address par aa jayega.
+receiver: Okay, thank you. No further help needed. Thank you.
+caller: Namaste sir, main Priya, HDFC bank se baat kar rahi hoon. Aapne debit card apply kiya tha, uske liye kuch documents verify karne hai. Aapke paas driving license ready hai kya?
+receiver: Namaste Priya ji. Haan, driving license toh hai. Kya chahiye?
+caller: Ji madam, driving license chalega. Kya main aapka debit card application number check kar sakti hoon, jo aapko apply karte samay mila tha? Ek minute mein verification ho jayega.
+receiver: Okay, wait a second... yeh hai PQR456789012. Driving license bhi ready hai, bataiye ab kya karna hai?
+caller: Great! Aapka debit card application number PQR456789012 hai, confirm ho gaya. Abhi, aapke registered email id par ek verification mail ayega. Woh mail aap mujhe dikha sakte hain kya? Just for verification, ek minute lagega.
+receiver: Email aaya hai. Yeh hai abc@example.com. Verification ho gaya? Please tell me quickly, I’m very busy.
+caller: Yes ma’am! Aapka email id abc@example.com hai, confirm ho gaya. Debit card verification complete ho gaya hai. Aapka debit card soon aapke address par bhijwa di jayegi.
+receiver: Okay, thanks. No more help required. Thank you.

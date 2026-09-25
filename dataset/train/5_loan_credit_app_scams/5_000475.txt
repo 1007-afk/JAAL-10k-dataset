@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from CreditQuick Solutions. We’ve pre-approved you for a personal loan of ₹75,000. Very simple process.
+receiver: Oh, really? That’s good news. I could use some extra money. What's the interest rate?
+caller: The interest is competitive, just 8% per annum. To finalize the loan, we need a small processing fee of ₹2,500 as verification. You can deposit it to our UPI ID: QuickCredit77.
+receiver: ₹2,500 upfront? That seems a bit unusual. Usually, you pay after you receive the loan, right?
+caller: Look, Priya ji, time is of the essence. This offer won’t last. If you don’t pay the processing fee now, we'll have to cancel the approval. And if you refuse, we have ways of finding out about your financial situation, especially since you applied online. We know your address and details.
+receiver: What do you mean, "ways of finding out"? Are you threatening me?
+caller: Don't be silly. We’re just telling you to be serious. Pay the fee, get the loan. Or don't. Your choice. Just remember, we have your information. Hurry up!

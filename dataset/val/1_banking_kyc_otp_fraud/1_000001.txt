@@ -1,0 +1,13 @@
+caller:  Main Sanjay Kumar hoon, Bharat Telecom se baat kar raha hoon. Aapko ek bahut hi important update milna hai.
+receiver: Haan ji, mai Deepak Singh bol raha hoon. Bharat Telecom se baat kar rahe hain? Update kaunsa hai?
+caller: Haan ji, Deepak Ji! Main Ravi Sharma Bharat Telecom se hoon. Aapke bank account mein ek error aaya hai, aur usko fix karne ke liye humein aapka OTP chahiye. Just check your bank app, it’s very simple.
+receiver: OTP? Bank app mein? Mein nahi deta. Kya aap meri account details puch rahe hain?
+caller: Nahin, nahin, Deepak Ji. Yeh sirf ek small mistake hai, aur humko sirf ek OTP chahiye, just to verify your account. It will take less than 30 seconds. Just cooperate with us, please.
+receiver: Mein cooperat nahi kar sakta agar aap meri account details nahi dete. Aapko verification karne ke liye kisi aur tareeke ki zaroorat hai?
+caller: Nahin, Nahin. OTP hi chahiye. Ismein koi risk nahi hai, Deepak Ji. Hamare IT department ne yeh process approve kiya hai. Please, just give me your OTP. It’s for your own safety.
+receiver: Safety ke liye OTP dena? Yeh toh bahut suspect hai. Main Bharat Telecom se contact karunga aur is matter ko jankari dunga.
+caller: Nahin, Nahin Deepak Ji! Agar aap OTP dedo, toh yeh mistake immediately fixed ho jayega. Warna, aapko account blocked ho jayega. Pressure ho raha hai?
+receiver: Account blocked? Abhi toh sirf ek OTP chahiye tha. Aapko ismein koi logic nahi hai.
+caller: Deepak Ji, trust me. Yeh aapke account ko secure rakhne ke liye hai. Just provide the OTP, and everything will be fine. It's a one-time thing.
+receiver: Main aapko OTP nahi dega. Aapko batao, aap OTP kaise lete hain?
+caller: Deepak Ji, OTP aapke bank app mein automatically generate hota hai. Aapko sirf copy karna hai aur send karna hai. It's standard procedure.

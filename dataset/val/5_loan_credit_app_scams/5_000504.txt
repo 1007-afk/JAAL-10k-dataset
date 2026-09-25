@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from FastCash Loans. We saw your application online and you’re pre-approved for a loan up to ₹2 lakhs. Just need to verify a few details.
+receiver: Oh, really? That’s great! I’m Neha. What details do you need?
+caller: Wonderful, Neha ji! First, can you confirm your Aadhaar card number for verification purposes? It’s just standard procedure.
+receiver: I'm a little hesitant to give that out over the phone. Is there another way?
+caller: Neha ji, trust me. It’s completely secure. If you don't provide it, we can't proceed and you'll lose your pre-approval. Also, we need a small processing fee of ₹5000 to activate the loan. You can send it to this UPI ID: [invent a UPI ID, e.g., fastcashloans@axisbank].
+receiver: ₹5000? That seems like a lot for a processing fee. And I still don’t feel comfortable sharing my Aadhaar.
+caller: Neha ji, think of it as an insurance policy. And without your Aadhaar, we can’t even start the loan process. We’ve already approved it. Just send the money and we’ll get the loan transferred to your account immediately. Don’t miss this opportunity. We’re also going to send some pictures of you to your contacts to confirm your identity.

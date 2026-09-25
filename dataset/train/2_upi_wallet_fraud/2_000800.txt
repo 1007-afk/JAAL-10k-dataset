@@ -1,0 +1,11 @@
+caller: Namaste, main Bharat Bank se Rahul bol raha hoon. Aapke naam par ek transaction fail hua hai, ₹4999 ka.
+receiver: ₹4999? Kaise? Mujhe toh koi transaction yaad nahi aa raha.
+caller: Sir, woh online shopping ke daerajayega. Aapne kisi website se kuch order kiya tha, shayad aapko yaad nahi. Yeh transaction verify karna bahut important hai, warna aapka Bharat Bank account block ho sakta hai.
+receiver: Account block ho jayega? Aur isko verify karne ka kya tareeka hai? Mujhe koi OTP ya link bhejo.
+caller: Haan, sir, ek OTP bheja jayega aapke registered mobile number par. Aap woh OTP mujhe bata dijiye, main isko verify kar dunga. Aapko security ke liye aapka Bharat Bank app bhi open karna hoga.
+receiver: Thoda wait karo, main apna app dekhta hoon. ₹4999 ka transaction, mujhe toh kuch bhi yaad nahi. Aur tumhara naam, Bharat Bank mein tumhara employee ID number batao.
+caller: Sir, time bahut kam hai, account block hone wala hai. Aapko OTP jaldi dena hoga. Main Rahul Sharma hoon, employee ID number 789456.
+receiver: ₹4999 ka transaction aur aapko OTP bhi chahiye? Woh site kaunsi thi jahan yeh transaction hua? Mujhe doubt ho raha hai.
+caller: Sir, woh site hamara database system mein encrypted hai, main aapko bata nahi sakta. Phir bhi account block hone se bachane ke liye jaldi se OTP do.
+receiver: Haan, main de deta hoon, par pehle batao yeh site konsi thi. Woh site ka naam toh bata sakte ho?
+caller: Sir, abhi OTP hi dena, site ka naam baad mein bataunga. Fast karo, account block

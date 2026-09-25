@@ -1,0 +1,11 @@
+caller: Namaste! Ji, suna rahi hu. Main Sanjay Kumar hoon, India’s Best Deals ka representative. Tumhara number dekha toh, tumko ₹50,000 ka jackpot mila hai! Ya phir ₹15,000 ka Diwali gift voucher bhi mil sakta hai! Kya acha lagta hai?
+receiver: Wow! Seriously? ₹50,000? Haan, sunao bat karo. Yeh toh bahut badi khabar hai. Mera naam Deepak Mishra hai.
+caller: Deepak ji, toh tumhare account mein ₹50,000 deposit hone wali hai. Parle, humein kuch small details check karne huye. Just want to make sure everything is correct, okay? Tumhara bank account number aur IFSC code batao, please. Security ke liye, ji.
+receiver: Actually, main recently my bank account change kiya tha. Account number is 789456123000 and IFSC code is HDFC0000600.
+caller: Okay, thank you. Toh, Deepak ji, tumhari account mein ₹50,000 deposit hone wali hai. Parle, tumhein ek OTP chahiye hoga. OTP dedo, ji.
+receiver: OTP? Mujhe OTP nahi mil raha hai. Mein try bhi kar raha tha lekin pata nahi.
+caller: Koi baat nahi. Hummein alternate method se bhi OTP generate kar sakte hain. Tumhara date of birth aur pin code batao, ji.
+receiver: My date of birth is 15th August 1990 and my pin code is 411001.
+caller: Shukriya. Deepak ji, tumhara OTP hai. Verification complete ho gaya. Tumhara ₹50,000 account mein transfer ho jayega. Congratulations!
+receiver: Really? ₹50,000? Wow! Thank you so much!
+caller: Aapka naman. Agar koi problem ho toh humein contact karna.

@@ -1,0 +1,7 @@
+caller: Hello sir, this is Akash from BharatPay customer service. We've noticed some unusual activity on your BharatPay wallet and for security reasons, we need to verify your details.
+receiver: Okay, what kind of unusual activity? Is everything alright?
+caller: Yes sir, everything is fine, just a precaution. To verify, we need you to send ₹50 as a test transaction to this UPI ID: 7890123456@axisbank. Just to make sure your wallet is active.
+receiver: ₹50? Why do I have to send money? Can’t you just ask me some questions?
+caller: Sir, this is the standard procedure. The ₹50 will be automatically refunded to your wallet within 24 hours after verification. It's a one-time thing, just to secure your account.  Please send it quickly, sir, as the system might lock your wallet if it remains inactive for too long.
+receiver:  That sounds suspicious. Why can’t you refund it immediately? And why do I need to send it to a random UPI ID?
+caller: Sir, our refund system is currently undergoing maintenance. It will take 24 hours to reflect. This is a temporary measure to ensure your wallet’s security.  Don't worry, it's perfectly safe. Just send the ₹50, and you'll be all set.  We are doing this for your benefit.

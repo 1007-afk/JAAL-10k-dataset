@@ -1,0 +1,16 @@
+caller: Maaf kijiye, aapka call miss hua. Mujhe ek kaam karo, phir baad mein baat karte hain jab aap free honge. Mera number hai 0837456
+receiver: Achaa, okay! Koi baat nahi. Main busy tha, thanks for the number. Kab timings acha hain aapke liye? Main abhi free hoon.
+caller: Theek hai. Agar aap abhi ready hain, toh hum baat kar sakte hain. Main aajkal ek badi deal ke baare mein baat karna chahta hoon, jisko sirf is evening ke liye mila hai. Kaise hai aap, thoda time de sakte hain?
+receiver: Theek hoon! Is evening ke liye deal? Sunne mein hi interest aa rahi hai. Batao, kaunsi deal hai? Main abhi gussa bhi de sakta hoon.
+caller: Theek hai. Dekho, yeh deal ek premium internet package ke liye hai, jahaan aapko sabse fast speed aur unlimited data milega bahut kam paise mein. Hum ek special offer chalare hain, jahan hum 30% discount de rahe hain, lekin yeh offer bas issi shaam ko 9 baje tak valid hai. Agar aap excited hain, toh main aapki bank account details check kar sakta hoon aur yeh offer aapke liye activate kar sakta hoon. Just kuch basic details chahiye hogi, jaise aapka bank account number aur aapke online account se linked social media handle.
+receiver: 30% discount sunke toh bohot achha laga! Internet speed aur unlimited data toh waise bhi important hai. Mera bank account number hai 9876543210. Aur social media handle hai Instagram - [Instagram Handle]. Aap bataiye, kya requirements hain?
+caller: Shukriya! Aur agar aap mujhe apna address bata sakte hain? Jisse main aapke area mein network availability check kar sakoon.
+receiver: Theek hai, mera address hai [Address]. Kya process hai abhi?
+caller: Maaf kijiye, aapka call miss hua. Mujhe ek kaam karo, phir baad mein baat karte hain jab aap free honge. Mera number hai 0837456
+receiver: Achaa, okay! Koi baat nahi. Main busy tha, thanks for the number. Kab timings acha hain aapke liye? Main abhi free hoon.
+caller: Theek hai. Agar aap abhi ready hain, toh hum baat kar sakte hain. Main aajkal ek badi deal ke baare mein baat karna chahta hoon, jisko sirf is evening ke liye mila hai. Kaise hai aap, thoda time de sakte hain?
+receiver: Theek hoon! Is evening ke liye deal? Sunne mein hi interest aa rahi hai. Batao, kaunsi deal hai? Main abhi gussa bhi de sakta hoon.
+caller: Theek hai. Dekho, yeh deal ek premium internet package ke liye hai, jahaan aapko sabse fast speed aur unlimited data milega bahut kam paise mein. Hum ek special offer chalare hain, jahan hum 30% discount de rahe hain, lekin yeh offer bas issi shaam ko 9 baje tak valid hai. Agar aap excited hain, toh main aapki bank account details check kar sakta hoon aur yeh offer aapke liye activate kar sakta hoon. Just kuch basic details chahiye hogi, jaise aapka bank account number aur aapke online account se linked social media handle.
+receiver: 30% discount sunke toh bohot achha laga! Internet speed aur unlimited data toh waise bhi important hai. Mera bank account number hai 9876543210. Aur social media handle hai Instagram - [Instagram Handle]. Aap bataiye, kya requirements hain?
+caller: Shukriya! Aur agar aap mujhe apna address bata sakte hain? Jisse main aapke area mein network availability check kar sakoon.
+receiver: Theek hai, mera address hai [Address]. Kya process hai abhi?

@@ -1,0 +1,9 @@
+caller: Namaste! Hai mai baat kar raha hun [Invented Name]? Yeh hai Rajesh ji Sunshine Trivia Weekly se. Aapke liye ek mazaak wala sawaal hai jo aapko ek naya Samsung Smart TV jeetne ki salahiyat de sakta hai! Kaise hain aap?
+receiver: Namaste Rajesh ji! Mera naam [Your Invented Name] hai, [Invented Name] nahi. Aur Samsung Smart TV? Wo bhi achcha hai! Bataiye mujhe zyada jaanaben.
+caller: Achha, [Your Invented Name], shukar hai ki aap pehla sawaal hi pucha. Okay, so, here’s the question to win that amazing Samsung Smart TV: Which state in India did Chennai Super Kings recently play their last match in? Just send your answer to 98765. It’s just ₹2.50 to participate.  Aap kya keh rahe hain?
+receiver: Chennai Super Kings… recent match? Mujhe cricket ka itna pata nahi hai. Kya koi suggestion dedo? Ya koi idea?
+caller: Arre, koi problem nahi. Main aapko thode hints dunga. Woh team Bharat mein khelta hai aur unka captain Dhoni hai. Yaad aaya kuch?
+receiver: Bharat mein khelta hai aur Dhoni captain hai? To, woh India mein hi tha? Koi famous city hogi? Mumbai? Kolkata? Ya Bangalore? Batao, batao, John!
+caller: Haan, woh India mein hi tha! Aur unka stadium bahut badi hai, jisse sab dekh sakte hain. Socho, India mein, bade stadium, Dhoni... kaunsa city ho sakta hai?
+receiver: Samsung Smart TV! You mean Bangalore, Rajesh ji? Unka IPL ka season bhi Bangalore mein tha. Agar galti hui toh koi baat nahin, Smart TV jeetna hai!
+caller: Haan, Bangalore! Correct! Congratulations, [Your Invented Name], aap ne jeeta! Aapko SMS se Flipkart par Samsung Smart TV ke liye discount coupon mil jayega. Thank you and have a great day!

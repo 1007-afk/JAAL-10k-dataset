@@ -1,0 +1,11 @@
+caller: Hello? Kaise haal hai? Apni mobile recharge account mein 20 extra rupees mil gaye hain! Wah! Just go to myrewardsplus.in and verify your account, it’s super easy! You'll get those bonus rupees immediately. Don’t delay!
+receiver: Haan ji, suno suno. Recharge account mein 20 rupees extra? Mein samajh nahi sakta. Kya bol rahe ho aap? Myrewardsplus.in? Wo kahaan hai?
+caller: Haan ji, website par jaaoge toh pata chalega. There’s a simple form, just fill it out with your account number and OTP. It takes less than a minute, guaranteed! This is a limited time offer, so hurry up!
+receiver: OTP? Account number? Mujhe thoda saamne se bataiye. What exactly will I get if I do this? Is there any catch?
+caller: Absolutely not! Just verification, that's all. To confirm your identity and ensure you receive these extra rupees. And trust me, it’s really beneficial for you. Don’t miss out on this great opportunity!
+receiver: Okay, okay, yeh achha lag raha hai. Par agar kuchh galat hua toh? Agar wo rupees nahi milte?
+caller: Don’t worry at all! We have a dedicated support team ready to assist you instantly. Just contact us back through this same number. We guarantee a full refund if there's any issue.
+receiver:  Aapka number kya hai? Main aapko phir call karunga agar kuch samj nhi aaya. And what about the expiry date of these rupees?
+caller:  My number is 9876543210.  As for the expiry, they're valid for 7 days after verification. So don’t wait too long! Hurry now!
+receiver: 7 days?  Okay, then I’ll check it out quickly.  Let me go to myrewardsplus.in right away.  What’s your name?  Just so I know who I am talking to.
+caller:  My name is Rohan.  And please, don't hesitate to call me back if you need anything.  It’s a fantastic deal, truly!

@@ -1,0 +1,7 @@
+caller: Namaste, is this Rajeev Kumar? This is Anjali from Freecharge customer support. We've noticed a successful transaction of ₹12,000 from your Freecharge wallet to a new recipient. Just confirming if you initiated this transaction?
+receiver: ₹12,000? Nahin, main toh koi transaction nahi kiya. Main Freecharge ittefaq se hi use karta hoon, kabhi-kabhi. Yeh kya ho raha hai?
+caller: Sir, it appears the transaction was made just 15 minutes ago. To secure your account and prevent further unauthorized access, we need to quickly verify some details. Can you please share the last four digits of the card linked to your Freecharge wallet? Just to ensure we're speaking to the rightful owner.
+receiver: Card details? Why should I give you my card details over the phone? That’s very risky. I haven’t even used a card with Freecharge. I only load money through UPI.
+caller: Sir, this is a standard security protocol, completely safe. We're just following procedure to protect your funds. We can also offer you a small cashback bonus of ₹500 for your cooperation in helping us resolve this issue quickly. Think of it as a thank you for your prompt response to a potential security threat.
+receiver: ₹500 cashback? Okay, that’s interesting. But I still don’t feel comfortable giving my card details. Can't you just verify my phone number or something?
+caller: Absolutely, sir. Let’s do that. To confirm your identity, could you please tell me the exact amount of your last top-up to your Freecharge wallet? It's just a quick confirmation.

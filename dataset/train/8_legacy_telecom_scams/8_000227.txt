@@ -1,0 +1,12 @@
+caller: Hello there!  I’m calling about that fantastic prize draw you entered. You won a significant amount! Just visit secure-rewards.in/win on your laptop to verify and redeem your winnings. Don’t delay, you have only 24 hours!
+receiver: Haan, sunta hoon. Prize draw ki baat kar rahe ho? Mein jo competition mein participate kiya tha? Kya jeeta hoon?
+caller: Absolutely! You did win, my friend! We’ve identified you as one of the lucky winners of our recent Diwali promotion. There's a substantial sum – ₹50,000 – waiting for you. But we need to confirm your details to release the payment. Please go to secure-rewards.in/win and enter your registration ID, which is R789234.
+receiver: ₹50,000? Seriously? Mein toh excited hoon! Registration ID? Woh kaise pata karein? Mein kitne competitions mein participate kiya hai.
+caller: Don't worry, it’s easy! Your registration ID was sent to your registered email address, remember? It’s R789234. Now, quickly log in to secure-rewards.in/win and provide those details. Time is running out, just 12 hours left! We also need your bank account details for transfer.
+receiver: Email check karunga. Bank account details? Kyon zaroori hain? Yeh thik nahi lag raha. Kaise guarantee hoga ki yeh genuine hai?
+caller: Relax, everything is legitimate! This is part of the process to ensure security. To finalize the transaction, we require your account number and IFSC code. It’s for tracking purposes only, assure yourself. Just type them in securely on the website. Only 4 slots left!
+receiver: Account number aur IFSC code? Mein toh confused hoon. Mujhe jitni bhi excitement thi, ab darr lag raha hai. Let me think about it. Maybe I will check with my family first.
+caller: Don’t hesitate! This is a once-in-a-lifetime opportunity! Think of the money! We have only 3 slots available now. Go ahead and claim your reward before it disappears.  We'll contact you if you have any questions.
+receiver: Okay, okay, fine. I’ll try to do it. But agar kuchh galat hua toh main aapko call karunga. Hopefully, it's not a trick.
+caller: Wonderful! That’s great news! Just complete the form on secure-rewards.in/win. Once you submit, you'll receive a confirmation email. And remember, only 2 slots are remaining! Hurry up!
+receiver: Two slots bache hain? Okay, I am going to do it now. Thank you!

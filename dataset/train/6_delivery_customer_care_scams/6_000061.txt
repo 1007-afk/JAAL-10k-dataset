@@ -1,0 +1,12 @@
+caller: Hello? Can you hear me properly? I’m calling regarding that fantastic cashback bonus you were supposed to receive for ordering from Shreeji Electronics last month. It seems there was a slight technical glitch!
+receiver: Haan, sunta hoon. Cashback ka baat kar rahe ho? Shreeji Electronics se order kiya tha?
+caller: Exactly! Yes, it's about the cashback you earned when you bought the new Smart TV last month. We detected an error during processing, and we need to verify some information to rectify it. Just go to securepay.in/verify on your mobile, please. Don’t delay, only 6 chances remain.
+receiver: Six chances?  Okay, okay. But what kind of verification are you talking about? What exactly did I buy? And what is this ‘securepay.in/verify’?
+caller: Absolutely! It's about the Smart TV – a 55-inch LED model, remember? We just need to confirm your address and payment method to ensure everything goes through smoothly. Go to securepay.in/verify now.  It will take less than two minutes.  I am calling because your account has been flagged, and only 4 more opportunities exist.
+receiver: Four more opportunities?  That sounds concerning.  So, I just enter my details on the website?  Is this really legitimate, or is it some kind of phishing attempt?
+caller: Of course! It’s completely legitimate. This is our standard procedure to protect your account.  We can’t release the full amount until we confirm these details. Please visit securepay.in/verify immediately.  I’ll stay on the line while you do it.  Only 3 left, so hurry up!
+receiver: Hmm… Okay, let me check the website.  Wait a minute... it looks suspicious. There's no mention of Shreeji Electronics at all!  This is definitely not right.  I won't give any personal information.
+caller: Oh, come on! Don’t be difficult! It’s a simple process.  Just one more chance -  we need your date of birth and bank account details.  There are only 2 left.  Please, don’t make things complicated.
+receiver: No way! I’m ending this call.  I think I’ve realized it's a scam. Goodbye!
+caller: Wait!  One final opportunity! If you cooperate now, you’ll get a bonus reward – a free wireless mouse! Hurry, only 1 left!
+receiver:  Seriously? A wireless mouse?  I’m done. Bye bye!

@@ -1,0 +1,7 @@
+caller: Namaste! Main call kar raha hoon Airtel Payments Bank se. Aapke Airtel Payments Bank account mein ₹5000 ka cashback offer hai, government scheme ke under.
+receiver: ₹5000 ka cashback? Really? Mujhe toh kuch pata nahi tha.
+caller: Haan ji, sahi bata raha hoon. Offer claim karne ke liye, aapko apne account details verify karne honge. Bus ek chota sa process hai.
+receiver: Theek hai, bataiye kya karna hai. Account details matlab kaunse details chahiye?
+caller: Aapko sirf apne Airtel number par aane wala OTP share karna hai. Isse hum verify kar sakte hain ki aap hi baat kar rahe hain.
+receiver: OTP? Par kaise? Main toh kabhi OTP share nahi karta kisi ko bhi.
+caller: Please don’t worry, madam. Yeh security process hai. ₹5000 claim karne ke liye, OTP verify karna hoga. Jab OTP mile, mujhe bataiye.

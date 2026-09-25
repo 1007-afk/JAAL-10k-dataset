@@ -1,0 +1,26 @@
+caller: Namaste sir, main Bharat Telecom se Rahul bol raha hoon. Aapki mobile internet speed bahut kam aa rahi hai, aur humare system mein ek problem hai. Aapki connection ko activate karne ke liye, humein aapka OTP chahiye.
+receiver: OTP? Kaisa OTP? Aur kyun chahiye? Mera data plan bhi complete hai.
+caller: Ji sir, OTP sirf aapki account ko secure karne ke liye hai. Hamare system mein technical issue hai, isliye aapko OTP verify karna hoga. Aapki account ID bataiye, please.
+receiver: Account ID? Main unmein nahin hoon. Mujhe samajh mein nahin aata ye sab.
+caller: Sir, yeh ek mandatory process hai. Agar aap apni account ID aur OTP provide nahi karte hain, toh aapki internet connection band ho jayegi. Aapko ₹500 ka recharge bhi karna padega.
+receiver: Recharge? Seriously? Ye toh bahut gadbad hai! Kya aap mujhe helpline number de sakte hain?
+caller: Helpline number? Nahin sir, yeh process online hi hota hai. Aapko sirf OTP verify karna hai. Aapki account ID bataiye, please. Is bare mein jaanta hoon ki aap confusion mein hain, lekin yeh aapki safety ke liye hai.
+receiver: Fine, give me the account ID then. It’s [Account ID]. But I want assurance that this won’t lead to any fraud.
+caller: Ji sir, aapko assurance dena mushkil hai. Par hum aapki account ko protect karne ke liye sabse achha tareeka yeh hai. OTP verify karein, phir aapko rahat milegi. OTP send kar dunga, please reply.
+receiver: Okay, sending a message. Please send the OTP immediately.
+caller: OTP bhejna shuru ho gaya hai. Aapko abhi reply karna hai.
+caller: Namaste sir, main DigiPay support se Vivek bol raha hoon. Aapke bank account mein ek suspicious transaction dekha gaya hai. Kuch paise transfer karne ke liye, humein aapka verification code chahiye.
+receiver: Verification code? Kyon chahiye? Mein ne to kabhi kuch transfer nahin kiya.
+caller: Ji sir, security ke liye yeh important hai. Hamare system mein error aa gaya hai, isliye humein verification code maang rahe hain. Aapki bank name bataiye, please.
+receiver: HDFC bank hai. Par mujhe yeh process pasand nahin aaya. Koi alternate method nahi hai?
+caller: Nahin sir, verification code bina aapki account ko activate nahin kar sakte hain. Agar aapko koi problem hai, toh aapki account suspend ho jayegi. Aapko ₹300 ka penalty bhi dena padega.
+receiver: Penalty? Seriously? Mein to abhi bhi confused hoon.
+caller: Sir, yeh sirf suspension ke penalty ke liye hai. Agar aap verification code provide karte hain, toh aapki account secure reh jaayegi. Aapko sirf ek minute ka time lagenga. Aapki debit card number bataiye, please?
+receiver: Debit card number? Mein unhein bhi nahin bataungi.
+caller: Sir, yeh sirf verification ke liye hai. Agar aap debit card number provide nahi karte hain, toh hamari team aapki account ko investigate karegi, aur ismein bahut time lag sakta hai.
+receiver: Investigation? Mujhe isme koi interest nahin hai. Kya aap mujhe apne office address de sakte hain?
+caller: Office address? Nahin sir, yeh process online hi hota hai. Aapko verification code provide karna hai. Aapki bank account type bataiye, please – rupiya ya dollar?
+receiver: Rupiya hai. Thoda sa time do, main soch raha hoon.
+caller: Sir, time bahut zaroori hai. Aapki account number bataiye, please. Agar aap verification code provide nahi karte hain, toh aapki account band ho jayegi.
+receiver: Okay, fine. Mein OTP bhejeongi.
+caller: Haan sir, OTP bhejna shuru ho gaya hai. Reply karo.

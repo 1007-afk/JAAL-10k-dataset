@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from FirstCry Logistics. We have a package addressed to you, but there's a slight issue with the delivery address. Can you confirm your full name and delivery address for verification?
+receiver: Hello Raj, yes sure. This is Anjali Sharma. The address is Flat 302, Sunshine Apartments, Sector 12, Panchkula.
+caller: Thank you, Anjali ji. The system is showing a small discrepancy in the payment details associated with this order. For security reasons, we need to quickly verify your OTP sent to your registered mobile number. It’s just a one-time verification process.
+receiver: OTP? For a delivery? That sounds strange. I already paid for the order online. Can’t you just confirm with FirstCry directly?
+caller: Yes, of course, but to avoid any fraudulent activity, our security protocol requires this OTP verification. It’s standard procedure. The OTP is 478291. Please share it with me so I can complete the delivery.
+receiver: Hold on. I'm calling FirstCry's customer care number right now to double-check this. I’ll get back to you.
+caller: Madam, please don’t delay. The package is time-sensitive and contains a perishable item. We're experiencing high delivery volumes today and we cannot hold the package much longer. The OTP is expiring soon.

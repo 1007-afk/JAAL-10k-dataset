@@ -1,0 +1,10 @@
+caller: Namaste, Madam. I am calling from ICICI Bank’s KYC department. Is this speaking with Mrs. Sharma?
+receiver: Haan, main Mrs. Sharma hoon. Bolhiye.
+caller: Excellent. We’ve noticed some unusual activity on your ICICI Bank savings account linked to your PAN card. A large withdrawal attempt was flagged, originating from a foreign IP address.
+receiver: Withdrawal? Kitna withdrawal attempt kiya gaya tha? Mujhe toh kuch pata nahi.
+caller: It was for ₹12,500, Madam. To prevent unauthorized access and potential fraud, we need to urgently update your account information. We require you to share the OTP that we've just sent to your registered mobile number.
+receiver: OTP? Aapko OTP kyu chahiye? Bank toh SMS se hi OTP send karta hai. Main phone pe OTP share nahi karungi.
+caller: Madam, this is a high-priority security measure. The system requires immediate verification. If you don’t verify now, we'll have to temporarily freeze your account for security reasons, and it will take 48 hours to unfreeze.
+receiver: Freeze karein toh theek hai. Lekin main koi OTP nahi dungi. Main khud bank branch mein jaakar verify karungi.
+caller: Madam, the branch is closed for the weekend. This is a crucial step to protect your funds. To proceed, could you please share the last four digits of your Aadhaar card for confirmation?
+receiver: Aapko meri Aadhaar number ki kya zarurat hai? Ye toh scam hai. Main call kat rahi hoon.

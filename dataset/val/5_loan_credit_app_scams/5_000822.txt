@@ -1,0 +1,7 @@
+caller: Namaste! Speaking from LoanExpress, this is Priya. We noticed you recently inquired about a personal loan online. We have a fantastic offer for you! You've been pre-approved for a loan up to ₹2,50,000 with a very competitive interest rate. Just confirm your details quickly.
+receiver: LoanExpress? Haan, main sun raha hoon. Pre-approved? Kitna interest rate hai? Aur documents kya-kya lagenge?
+caller: Excellent! The interest rate is only 8%, and it’s a limited-time offer. To finalize the process, we just need a small verification fee of ₹2,500 to cover processing charges. You can pay it through our secure UPI ID: loanexpress.upi@xyz. Once done, your loan will be approved within minutes.
+receiver: ₹2,500 verification fee? Aur UPI ID? Yeh thoda strange lag raha hai. Loan approval ke baad hi toh charges lagte hain, na?
+caller: Don’t worry, it's standard procedure. This fee ensures your application is prioritized. We need to confirm your commitment. Delaying this could mean losing the offer! Many people have already benefited from this. Please send the ₹2,500, and we’ll proceed immediately. Think about it - ₹2,50,000 in your hands!
+receiver: ₹2,50,000...Okay, main try karta hoon. UPI pe send kar doon?
+caller: That’s the spirit! Send it quickly to loanexpress.upi@xyz. Just ensure it's ₹2,500 exactly. Once it's confirmed, I’ll send you a link to officially accept the loan terms. We need to act fast, before someone else grabs this offer!

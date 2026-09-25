@@ -1,0 +1,8 @@
+caller: Namaste! This is Raj from QuickShip Logistics. We’re calling about a parcel addressed to you, but there's a delivery issue – the address is unclear and we need to verify your details.
+receiver: Haan, bolie. Kya problem hai?
+caller: Yes, sir. The system shows a potential delivery fee of ₹750 due to the address ambiguity. To proceed with the delivery, we need a one-time password (OTP) sent to your registered mobile number to confirm the address and waive the fee.
+receiver: ₹750? Why wasn't I informed earlier? And why do you need an OTP?
+caller: Sir, it's standard procedure for verification. We are preventing fraud, you understand.  We can also arrange for a courier to personally deliver the parcel, but that'll cost an extra ₹1200. The OTP is a quick way to avoid that, and confirm you're the recipient.
+receiver: ₹1200 also? This seems fishy. What's the tracking number for this parcel?
+caller: The tracking number is QSL789456123. However, it’s currently showing as ‘pending verification’ - this is why we’re calling. To unlock it, please provide the OTP we just sent. Don’t worry, it’s completely secure! 
+receiver: Just a moment, let me check my messages.

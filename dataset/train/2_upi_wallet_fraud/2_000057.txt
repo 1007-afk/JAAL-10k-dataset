@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, BharatPay se. Aapko ek bahut hi achha cashback offer mila hai. Aapke BharatPay wallet mein ₹500 cashback milega agar aap ek small verification process complete karein.
+receiver: Oh, really? ₹500 cashback? That’s great! What’s the verification process?
+caller: Haanji, bilkul! Ek OTP bheja jayega aapke registered mobile number par. Aapko sirf woh OTP mujhe bataana hai, tab cashback activate ho jayega. Ek minute, main OTP generate karta hu.
+receiver: Okay, sure. But why do I need to tell you the OTP? Shouldn't I just enter it in the app?
+caller: Woh system mein technical issue hai, Priya ji. Isliye hum OTP phone par hi confirm kar rahe hain. It’s a one-time thing, I promise. OTP mila aapko?
+receiver: Yes, I received it. It’s 4892. But I still feel a bit uneasy about telling you the OTP. Shouldn’t I be careful?
+caller: Absolutely no worries, Priya ji! It’s a completely secure process. We are just confirming your identity. Now, the cashback will be credited to your BharatPay wallet within 5 minutes. Enjoy!

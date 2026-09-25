@@ -1,0 +1,9 @@
+caller: Namaste! I'm calling from Bluedart Courier. We have a package addressed to you, but there's been a slight issue with the delivery address. Could I speak to the recipient, please?
+receiver: Haan, bolie. Main hi recipient hoon. Kya problem hai?
+caller: Excellent! Your package is a high-value item, and for security reasons, we need to verify a few details before we can proceed with the delivery. Could you please provide the last four digits of your phone number associated with the order?
+receiver: Okay, last four digits are 4567. What’s this high-value item anyway? I don't remember ordering anything expensive.
+caller: Just a standard security protocol, madam. The item is listed as "Electronics Accessory." Now, to complete the verification, we need to send a one-time password (OTP) to that same number for confirmation. Please confirm when you receive it.
+receiver: Alright, I got an OTP. It’s 8923.
+caller: Thank you. Just one final step to confirm your identity and unlock the delivery. We're facing a temporary system issue which requires a small, refundable security fee. It's just ₹300 to activate the delivery and prevent the package from being returned to sender. Can you please make a quick payment using this link: [suspicious link]
+receiver: ₹300? For delivery? That doesn't sound right. I've never had to pay a fee before. Is this really Bluedart?
+caller: Madam, this is a new security measure implemented due to recent fraudulent activities. It's completely refundable once the package is delivered. Without it, we’ll unfortunately have to return the item. It's your only option to receive the item.

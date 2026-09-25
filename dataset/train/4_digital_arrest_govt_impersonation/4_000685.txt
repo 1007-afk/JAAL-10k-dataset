@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Customs Department, Mumbai. We’ve intercepted a suspicious package linked to your registered mobile number. Preliminary investigations suggest it contains undeclared goods – potentially involving serious violations.
+receiver: Customs? Undeclared goods? What’s this about? I haven’t sent any packages recently.
+caller: Yes sir, the tracking details show the package originated from an overseas address and was rerouted to your address by mistake. To clear this matter quickly and avoid further legal complications, we need you to deposit ₹5,000 as a processing fee. It will cover the assessment and clearance charges.
+receiver: Five thousand rupees? Just like that? Can’t I just come to the customs office and sort this out? I need to see the package and what’s being alleged.
+caller: Sir, due to the ongoing pandemic and security protocols, we are currently handling these cases remotely to minimize contact. It’s very important to act fast to avoid arrest warrants. The package has your name on it, and delaying the payment will escalate the matter to the legal team.
+receiver: Arrest warrants? Look, this sounds like a scam. I’m not paying anything until I see some proof or speak to someone in person. Can you give me a reference number for this case or a direct contact number for the Mumbai Customs office?
+caller: Sir, providing those details would compromise the ongoing investigation. As a gesture of good faith, we're prepared to reduce the processing fee to ₹3,000.  Just a small amount to secure your release from this temporary hold. Transfer the amount to this UPI ID: customs-clearance-786.
+receiver: Absolutely not. I'm reporting this number to the cybercrime authorities. You're a fraud. Goodbye.
+caller: Sir, please don't do that! This

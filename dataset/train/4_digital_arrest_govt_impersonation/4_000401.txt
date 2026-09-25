@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Rajesh Verma?
+receiver: Haan, main Rajesh Verma bolta hoon. Kyon?
+caller: Sir, this is Inspector Kumar from the Delhi Customs Department. We've intercepted a package registered to your address containing suspicious items. It appears linked to a money laundering investigation involving cryptocurrency.
+receiver: Yeh kya keh rahe hain aap? My address? I haven’t ordered anything. Aur customs department se aap phone kyu kar rahe hain?
+caller: Sir, this is a serious matter. We need to verify your involvement to prevent further legal complications. To expedite the process and avoid potential arrest, we require a small processing fee of ₹8,000 to clear the package and conduct a thorough investigation.
+receiver: Arrest? ₹8,000? Sir, yeh to scam lag raha hai. I will contact the Customs Department directly to confirm. Please, give me a contact number or some official reference.
+caller: Sir, time is of the essence. We cannot risk delaying the investigation. If you fail to cooperate, we may be forced to take further action.  I can provide you a secure payment link, sir. Just one moment, I'm sending it now. Click it immediately to avoid legal trouble.
+receiver: Wait! I am not clicking any links. You haven’t given me any valid identification. I'm reporting this number to the cybercrime cell right now.

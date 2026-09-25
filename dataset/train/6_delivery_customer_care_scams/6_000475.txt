@@ -1,0 +1,9 @@
+caller: Namaste! Mai XYZ Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification ki zaroorat hai.
+receiver: Haan, theek hai. Kya parcel mera hi hai? Mujhe koi order nahi yaad aa raha.
+caller: Ji, aapne Snapdeal se ek smart watch order kiya tha. Order ID hai SD12345. Parcel deliver karne se pehle, humein confirm karna hai. Aapka OTP share karein, please?
+receiver: OTP? Kyun? Courier company OTP nahi lekti na?
+caller: Sir, security ke liye. Yeh new process hai. OTP se hum confirm karenge ki aap hi parcel receive kar rahe hain. ₹1000 ka delivery charge apply hoga OTP verify hone ke baad.
+receiver: ₹1000? Bahut zyada hai! Mujhe yeh order yaad bhi nahi. Par parcel mein kya hai?
+caller: Sir, smart watch hai, high quality. Aapko bilkul pasand aayega. Ab OTP share karein, taki mai delivery ka arrangement kar sakun.
+receiver: Thik hai, wait karo, mujhe Snapdeal app check karne do.
+caller: Ji sir, bilkul. Abhi OTP send ho gaya hai?

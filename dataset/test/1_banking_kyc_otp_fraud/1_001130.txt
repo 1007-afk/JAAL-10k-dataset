@@ -1,0 +1,7 @@
+caller: Namaste, Madam. I am calling from ICICI Bank’s security department. We’ve detected unusual activity on your account.
+receiver: Unusual activity? What kind of activity? Is everything alright?
+caller: Yes, Madam. There’s been an attempted login from a different location. To secure your account, we need to verify your identity. Can you please share the last four digits of your debit card and the OTP you just received on your registered mobile number?
+receiver: Wait, why do you need the last four digits of my card? I’ve always been told not to share that information. And an OTP?
+caller: Madam, this is standard procedure. Our systems flagged the login attempt, and we need to confirm it was you. Otherwise, we will have to temporarily suspend your account for your own safety. It's a new security protocol.
+receiver: Suspend my account? But I need my account for important transactions! Are you sure this is ICICI Bank? Can you give me a reference number or a direct line to verify with your customer service?
+caller: Madam, there’s no time for verification. This is urgent. Just provide the OTP so we can complete the security check and avoid any disruption to your services. The OTP is for confirming your identity and preventing potential fraud.

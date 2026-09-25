@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev Sharma? We’re calling from First Flight Courier regarding a parcel addressed to you. There seems to be an issue with customs clearance – a small discrepancy in the declared value.
+receiver: Oh, really? I wasn't expecting a parcel. What’s the tracking number, please?
+caller: Absolutely! The tracking number is FF459823XL. The problem is, to release the parcel, we require a small verification fee to cover the customs processing charges. It’s only ₹2850. We need to ensure the package reaches you safely.
+receiver: ₹2850? That seems a little high for a customs fee. Could you tell me what’s in the parcel? I don't recall ordering anything.
+caller: Sir, we're not permitted to disclose the contents for security reasons. However, it’s urgent and needs to be cleared immediately. Just a quick payment through UPI, and we can schedule delivery for tomorrow. Please use this UPI ID: firstflight.verify@hdfc.
+receiver: Wait a minute. First Flight doesn't usually ask for payments over UPI. Let me just check their website… I’ll call you back.
+caller: Sir, please hurry! The system will automatically return the parcel to the sender if the fee isn't paid within the next 15 minutes. We don't want you to lose your package, do we?

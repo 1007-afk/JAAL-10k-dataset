@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main Vijay Kumar hoon, Global Savings Solutions se baat kar raha hoon. Mujhe ek achhi baatein hain aapke liye! Aapko ek free Smart Watch mil sakta hai, parle warna reply karein “YES”. Ismein ek bohot badi discount bhi hai!
+receiver: Namaste Vijay ji, theek hoon. Global Saving Solution se ho? Smart watch jeetna hai? Yeh sunne mein thoda interesting hai. Agar main "YES" reply karu toh kya hoga?
+caller: Haan, definitely! Agar aap “YES” reply karenge toh aap automatically hamare draw mein name register ho jayenge. Hamara stock limited hai, sirf 5 smart watches bache hain. Jaldi reply kar dijiye, warna aapka chance miss ho jayega!
+receiver: 5 bache hain? Okay, main reply karunga "YES". Dekhte hain kya hota hai. Dhanyavaad!
+caller: Superb! Aapse hearing ho gaya mera “YES” reply. Aap ab officially hamare sweepstakes mein included ho gaye hain. Fir 4 smart watches bache hain, so hurry up!
+receiver: Theek hai Vijay ji, dhanyavaad ke bataye. Main just pray kar rahi hoon agar mujhe jeet paye! Agar jeet gayi toh notification zaroori dena.
+caller: Absolutely! Aapki participation hamari liye bahut mushkil hai. Agar aapko koi aur details chahiye toh bataiye, ya hum is deal ko forward kar sakte hain?
+receiver: Nahi Vijay ji, mujhe koi aur details nahi chahiye. Sab theek hai. Aap forward kar sakte hain.

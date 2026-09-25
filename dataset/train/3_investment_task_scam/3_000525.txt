@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Sharma? This is Ravi from Global Data Entry Solutions. We’re calling about a new opportunity to earn extra income from home.
+receiver: Haan, main hi Priya Sharma. Global Data Entry Solutions? Kis baare mein baat kar rahe hain aap?
+caller: Wonderful! We're looking for data validators for a project involving image recognition. It's incredibly simple – you just need to verify if images match a description. Easy money, really! We pay ₹50 per task.
+receiver: ₹50 per task? That sounds quite good. But how many tasks are there, roughly? And how do I get started?
+caller: It’s flexible, you can do as many or as few as you like. To get started, we need a small registration fee of ₹250 to cover background checks and system access. This is a one-time fee only.
+receiver: ₹250? Registration fee? Why do I need a background check for just verifying images? That seems a bit strange.
+caller: It's standard procedure to prevent fraudulent activity, Priya ji. It's a small investment for a potentially significant income. Once you pay, we'll send you login details and training materials. Are you ready to proceed?
+receiver: Wait a minute. Let me think about it. Can I get some more information first?

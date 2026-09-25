@@ -1,0 +1,8 @@
+caller: Hello! Main Aadhaar Loan Seva se Deepika bol rahi hoon. Aapne recently ek loan apply kiya tha, right? Your application is almost approved, but we need to verify a few details.
+receiver: Haan, ji. Mainne apply toh kiya tha, par mujhe yaad nahi ki kab kiya tha.
+caller: No worries! We have your Aadhaar number here. To proceed, we require a small processing fee of ₹500 as security. Once the loan is disbursed, this amount will be adjusted.
+receiver: ₹500? Processing fee? Loan apply karte samay toh kuch bhi nahi bola tha.
+caller: Ji, rules change sometimes. It's a standard procedure now to prevent fraud. Just pay ₹500 and send us the screenshot of the payment. Then your ₹10,000 loan will be released immediately.
+receiver: Theek hai, let me check… Okay, I’ve sent ₹500 to the UPI ID you gave. Screenshot is ready.
+caller: Excellent! One moment while I check... Hmm, that's strange. The payment is showing as rejected. Can you please try again? There seems to be a technical issue. This time, please pay ₹750 to ensure smooth processing.
+receiver: What? Just now I paid ₹500. Now you are asking for more money?

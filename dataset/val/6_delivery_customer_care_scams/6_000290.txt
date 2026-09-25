@@ -1,0 +1,7 @@
+caller: Namaste! Calling from Bluestar Courier. We have a package addressed to you, tracking ID is LX4792. There seems to be a delivery issue regarding customs clearance.
+receiver: Haan, sun rahi hoon. Bluestar Courier se baat kar rahe ho? Mujhe koi package nahi mila abhi tak.
+caller: Exactly! Our system indicates a temporary hold due to an unexpected charge of ₹450. To release the package, we need to verify your identity and clear this charge quickly.
+receiver: ₹450? Main ne koi such mein nahi diya tha. Package ke liye ₹450 dene ki kya zaroorat hai?
+caller: It’s a standard procedure, madam. The charge is refundable after successful delivery. We just need a one-time verification OTP that will be sent to your registered mobile number.
+receiver: Okay, theek hai. Send karo OTP. Phir main dekhoon.
+caller: Great! Please share the OTP as soon as you receive it to confirm the release. This is very important to avoid the package getting returned.

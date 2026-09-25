@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank se Rahul Sharma bol raha hoon. Sir, aapke Axis Bank account mein kuch suspicious activity detect hui hai. Security ke liye aapko apna account verify karna hoga.
+receiver: Kya? Suspicious activity? Main toh aaj tak Axis Bank se koi call nahi mila.
+caller: Ji sir, hum aapko OTP bhejenge aapke registered mobile number par. Woh OTP verify karne ke baad, hum aapke account ko secure kar denge. Account suspend hone se bachne ke liye, please OTP bataiye.
+receiver: Wait, wait. OTP? Mujhe toh koi OTP nahi mila. Aur Axis Bank se phone number toh main kabhi nahi diya.
+caller: Sir, check karo ek baar. Sometimes message delay ho sakta hai. Account suspend hone se pehle, please verify karo. Aapka account safe rakhna humara responsibility hai.
+receiver: Nahin, nahin. Mujhe kuch gadbad lag rahi hai. Main bank mein jaa kar khud verify karunga. Aapko koi bhi detail nahi dunga phone par.

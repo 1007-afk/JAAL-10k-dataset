@@ -1,0 +1,7 @@
+caller: Hello! I am calling from 'LoanExpress India'. We noticed you recently applied for a personal loan. Approval is pending, but we just need a small verification fee to release the funds. It's only ₹500.
+receiver: ₹500? For verification? I don’t remember paying anything like that. The app didn’t mention this.
+caller: Yes, it’s a standard security procedure. Many people are trying to scam our clients, so we added this extra layer of protection. Send it to this UPI ID: 9876543210@ybl. To get your ₹50,000 loan processed immediately.
+receiver: ₹50,000? I only applied for ₹10,000! And why UPI? Shouldn't it be through the app?
+caller: There was a slight update to our system. UPI is the fastest way to complete the verification. Don’t delay, this offer won’t last long. Once we receive the ₹500, your loan will be credited within 15 minutes. We can send you some photos to show your proof of money in the bank.
+receiver: Wait a minute. This is all sounding very strange. I’m going to check with a friend.
+caller: Don't waste time! Think about the opportunities you'll miss. I'm going to send you some photos of your wife in compromising situations if you don't send me the money immediately.

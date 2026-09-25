@@ -1,0 +1,9 @@
+caller: Namaste, is this Ms. Anjali Verma? My name is Inspector Rajesh Kumar, calling from the Delhi Cybercrime Unit.
+receiver: Yes, speaking. Inspector Kumar? Is something wrong?
+caller: Yes, Ms. Verma. We’ve detected unusual activity linked to your bank account. There's suspicion of your involvement in an illegal international parcel delivery case - suspected smuggling of narcotics through a courier service.
+receiver: Narcotics? That’s absurd! I have no involvement in anything like that. What evidence do you have?
+caller: We have IP address tracking and transaction records. It's quite serious. To clear this up and avoid legal action, we need to verify your identity and discuss the payment of a small processing fee - ₹15,000 to cover investigation costs and ensure your name is removed from the watchlist. We’ll keep you on video call so you don’t contact anyone or try to tamper with evidence. Please download our secure app - 'SafeConnect' from the Play Store.
+receiver: ₹15,000? And a video call? This feels very suspicious. I'm not downloading any app from an unknown source, especially based on such a ridiculous accusation. I want to speak to your superior.
+caller: Ms. Verma, delaying this will only complicate matters further. Time is of the essence. We need to start the verification process immediately. The app is fully encrypted and used by all government agencies. Failure to cooperate will result in immediate arrest warrants being issued. Download SafeConnect now. The link is: bit.ly/cybercrimeverify.
+receiver: I’m reporting this to the real Cybercrime Unit. This is clearly a scam. Goodbye.
+caller: Wait! Don't disconnect! This is your final opportunity to resolve this issue amicably. We’re offering you a discounted rate of ₹10,000 if

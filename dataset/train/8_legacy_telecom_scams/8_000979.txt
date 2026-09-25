@@ -1,0 +1,11 @@
+caller: Namaste! Ye ₹500 ka prize money ki baat hai. Tumhara Paytm number ending in 7890 dekho, tumne WhatsApp par ek message dekha tha ya nahin?
+receiver: Haan, maine dekha tha. Paytm number 7890 wali message, hai na? Kya hua ye prize money ka?
+caller: Haan ji, tumhari account mein ₹500 deposit hone wali hai. Just apna OTP 6666 batana hai jab tum 9876543210 pe call kareinge. Simple hai na?
+receiver: ₹500 ka prize money? OTP 6666? Theek hai, main call karunga. Meri Paytm number 7890 hai, hai na?
+caller: Haan ji, correct hai. Tumne jo message diya hai, woh ₹500 ka prize money karne ke liye hai. Tumhare paas sirf 10 prizes bache hain, very limited stock hai. Jaldi call karein 9876543210 pe, warna kisi dusre ko pata chal jayega.
+receiver: Oh, sirf 10 prizes bache hain? Thoda tension ho gaya. Theek hai, main abhi call karunga. Kitne people call kar rahe hain?
+caller: Haan ji, bahot log call kar rahe hain, everyone wants to win ₹500! So, jaldi call kijiye 9876543210 pe, aur OTP 6666 bataiye. Yeh offer ab zyada der tak nahi rahega!
+receiver: Okay, okay, main abhi call karunga. Thank you for telling me!
+caller: Haan ji, bilkul sahi! Agar tum 4 prizes jeetoge toh bahut khush hoga. Just call 9876543210 pe aur OTP 6666 bataiye. Jaldi kijiye!
+receiver: Jeechhe, jeechhe! Main abhi call kar rahi hoon.
+caller: Shubh kaam karte raho!

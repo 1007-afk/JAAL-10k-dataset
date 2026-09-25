@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I'm calling from QuickCash Solutions. We've reviewed your recent loan application and you’re pre-approved for a loan of ₹75,000! Just need a quick verification to finalize things.
+receiver: QuickCash Solutions? Haan, mein Priya Verma hoon. Verification ka kya hai?
+caller: Great! To activate your loan, we need you to pay a small processing fee of ₹2,500 as a security deposit. This ensures your loan is genuine and prevents fraud. You can pay via UPI to this number: 9876543210.
+receiver: ₹2,500? Loan ₹75,000 ka hai aur processing fee ₹2,500? Yeh thoda zyada lag raha hai.
+caller: It's a standard procedure, Madam. Without this, we cannot release the loan. We have many applicants, and this secures your place. Think of it as an investment in your financial future. Once you pay, the ₹75,000 will be credited to your account within 15 minutes.
+receiver: Okay, fine. I’ll pay. What’s the UPI ID?
+caller: Excellent decision, Madam! The UPI ID is quickcash75@axisbank. Once payment is successful, please send a screenshot to this number so we can proceed. Your loan is almost yours!
+receiver: Okay, I sent the screenshot. Waiting for the loan.
+caller: Thank you, Madam. We are seeing some issues with your account verification. To resolve it, we need you to share a selfie video of yourself holding your Aadhaar card and PAN card. This is just a one-time requirement for security purposes.

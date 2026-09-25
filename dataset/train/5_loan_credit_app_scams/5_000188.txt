@@ -1,0 +1,9 @@
+caller: Hello sir/madam, my name is Akash from QuickLoan India. We’ve noticed you recently showed interest in personal loans online. Just a quick verification call to process your application.
+receiver: Okay, yes, I remember looking at some options. What do I need to do?
+caller: Wonderful! So, to begin, could you confirm your date of birth and the last four digits of your Aadhaar card for security purposes? This is standard procedure, sir.
+receiver: My date of birth is 12/05/1988 and the last four digits of my Aadhaar are 7890.
+caller: Thank you, sir. Everything seems to be in order. We can approve a loan of ₹2 lakh at a very attractive rate of 9%. However, there's a one-time processing fee of ₹15,000 which needs to be paid upfront to activate the loan.
+receiver: ₹15,000 upfront? That seems a little high. Can I see the loan agreement first?
+caller: Sir, unfortunately, we don't send agreements electronically. It's against our policy. This fee secures your loan and prevents fraud. If you refuse to pay, we’ll have to cancel your application and you'll be blacklisted from future loans. We've already forwarded your details to our recovery department.
+receiver: Blacklisted? Recovery department? That sounds threatening.
+caller: Sir, we are just following protocol. You can send the money to this UPI ID: quickloan.payments@axis. To avoid any further complications, please make the payment immediately. We can also share some compromising photos of you with your contacts if the payment is not received.

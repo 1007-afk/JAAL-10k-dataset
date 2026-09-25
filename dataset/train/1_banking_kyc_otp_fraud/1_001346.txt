@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Bhartiya Reserve Bank se Rohit Verma bol raha hoon. Aapke naam par ek suspicious transaction report aaya hai.
+receiver: Reserve Bank? Kya transaction? Mujhe toh kuch pata nahin hai.
+caller: Sir, ek online payment hua hai ₹15,000 ka, jo ki international account mein gaya hai. Security ke liye, aapko apna OTP aur PAN card number verify karna hoga.
+receiver: ₹15,000? Nahin, mujhe toh aisa koi transaction yaad hi nahin. Aur OTP phone pe kyun share karoon?
+caller: Sir, yeh RBI ki standard procedure hai. OTP se hum confirm kar sakte hain ki aap hi call kar rahe hain. Agar aap help nahi karenge toh account freeze ho sakta hai. Kuch seconds mein process complete ho jayega.
+receiver: Account freeze? Wait a minute. Let me check my net banking app quickly. (pause) Okay, I don’t see anything. Sir, this sounds fishy. I am not giving you any OTP or PAN details. Can you give me a reference number for this supposed transaction?
+caller: Sir, reference number system mein generate hoga jab aap OTP provide karenge. Time bahut kam hai, sir. Account freeze hone se pehle OTP bataiye.
+receiver: Absolutely not. I'm ending this call right now. I’m going to report this to the cybercrime helpline.

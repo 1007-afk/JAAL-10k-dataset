@@ -1,0 +1,8 @@
+caller: Namaste, main Rohan Verma, BharatPe se baat kar raha hoon. Aapke BharatPe account mein ek cashback offer hai, lekin uske liye verification karna hoga.
+receiver: BharatPe se? Cashback offer? Kya offer hai?
+caller: Sir, aapko ₹1000 ka instant cashback milega apne BharatPe wallet mein, lekin verification ke liye aapko apna wallet se ₹50 sirf processing fee bharne होंगे.
+receiver: ₹50 processing fee?  ₹1000 cashback ke liye? Yeh thoda zyada lag raha hai.
+caller: Sir, yeh ek limited time offer hai, aur processing fee sirf BharatPe ke server ko secure karne ke liye hai. Aur aapko OTP se verify bhi karna होगा.
+receiver: OTP?  Koi link aaya tha kya mujhe? Mujhe toh kuch yaad nahi.
+caller: Sir, OTP aapke registered mobile number par aayega. Aap woh mujhe bata dijiye. Jaldi karnaaji, offer abhi khatam hone wala hai.
+receiver: Wait karo, mujhe phone check karne do.

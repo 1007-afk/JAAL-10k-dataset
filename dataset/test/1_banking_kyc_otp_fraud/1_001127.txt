@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya calling from Axis Bank’s KYC verification team. We've noticed some recent unusual activity on your account and need to quickly update your information to prevent any potential security breaches.
+receiver: Haan, bolie. Unusual activity? Kya hua? Mein toh koi activity notice nahi kiya.
+caller: Ji, we’ve flagged some attempts to access your account from an unknown IP address. As a security measure, we require you to verify your PAN card details and Aadhaar number. This is a one-time process to safeguard your funds.
+receiver: PAN card aur Aadhaar number? Phone pe? Yeh thoda risky toh lag raha hai. Email se verify kar sakte ho? Ya phir main khud branch mein jaata hu?
+caller: Sir/Madam, due to a system upgrade, we can't process KYC updates through branches or email at the moment. This is a temporary measure to protect all our customers. If you don’t verify now, your account will be temporarily suspended within 24 hours for your safety.
+receiver: 24 hours? Suspension? Wait, wait. Let me just quickly check something... (pause) This feels wrong. Axis Bank kabhi phone se personal details nahi puchega. I’m calling their official number to confirm.
+caller: Sir/Madam, we understand your concerns, but please don't delay. Time is of the essence to avoid any inconvenience. To proceed with the verification quickly, could you please share the last four digits of your Aadhaar card?

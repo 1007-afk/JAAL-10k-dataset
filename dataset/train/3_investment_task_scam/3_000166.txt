@@ -1,0 +1,8 @@
+caller: Hello sir, main Covid-19 center se bol raha hoon. Aapne vaccination ke liye form bhara tha, uski verification ke liye call kiya hai. Kya main aapka naam jaan sakta hoon?
+receiver: Ji haan, main hi hoon. Mera naam Anand Sharma hai. Bataiye kya verification karna hai?
+caller: Thank you, Anand ji. Verification ke liye, kya aap mujhe apna registration number bata sakte hain jo vaccination form bharte samay mila tha?
+receiver: Arre, registration number toh abhi mere paas nahi hai. Ek minute rukna, main dekh ke batata hoon. Kahan rakha tha... Haan, mil gaya! Mera registration number hai VAX789012345.
+caller: Thank you, Anand ji. VAX789012345. Aapke liye ek special offer bhi hai, agar aap apna vaccination certificate download karne ke liye humein kuch details provide karein toh. Jaise ki aapka date of birth aur aapke registered mobile number ke last 4 digits.
+receiver: Haanji, date of birth hai 15th August 1990. Aur mobile number ke last 4 digits hain 5678.
+caller: ank you, Anand ji. 15th August 1990 aur last 4 digits 5678. Great! Sir, aapke records ab check ho rahe hain. Just to confirm, kya aap apna vaccination certificate download karne ke liye ready hain abhi?
+receiver: Haanji, bilkul ready hoon. Jald se jald mil jaye toh achha hai.

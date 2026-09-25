@@ -1,0 +1,9 @@
+caller: Namaste, sir. This is Inspector Verma from the Directorate of Revenue Intelligence. We are investigating a case of illegal import of luxury goods using your mobile number as a receiving point.
+receiver: Excuse me? What are you talking about? I haven't imported anything. This must be a mistake.
+caller: Sir, our records indicate a shipment was registered to your number. The documents are quite complex, involving a company called 'Global Trade Solutions' and a consignment of expensive watches. It appears someone used your number without your knowledge to receive it.
+receiver: Global Trade Solutions? I've never heard of them. And I certainly didn’t order any watches. This is ridiculous! Is there a case number I can refer to?
+caller: Yes, sir, the case file is DRI/IMP/2024/456. To clear this up quickly and avoid further complications, we require you to provide us with a small processing fee to verify your identity and the legitimacy of your claim. A sum of ₹15,000 will suffice.
+receiver: ₹15,000? To prove I'm not involved in illegal importing? That sounds like a scam. I’m going to report this.
+caller: Sir, please understand, delaying this will only worsen the situation. We need to ensure this shipment wasn’t linked to any illicit activities. We can process your refund of the ₹15,000 once we verify your innocence. We need your cooperation.
+receiver: No, absolutely not. I’m not paying anything to prove I’m innocent of something I didn’t do. I'm reporting you to the cybercrime cell.
+caller: Sir, this is extremely unfortunate. Due to your lack of cooperation, the case will proceed with a presumption of guilt. You will be required to attend a hearing at our Delhi office. Please record

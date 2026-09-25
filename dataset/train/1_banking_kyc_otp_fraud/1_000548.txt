@@ -1,0 +1,16 @@
+caller: Namaste! Apsara Travels se baat ho rahi hai. Tumhara 2018 ka travel voucher account statement dekh raha hoon aur mujhe pata chala ki tumhare paas 1234 extra points hain. Toh, yeh points redeem karne ke liye, tumhein apni voucher ID lagani hogi, jo ki 9876 hai. Iski expiry date 15th December, 2019 hai. Tumhare paas yeh information hai, hai na?
+receiver: Ji ji, maine woh voucher ID dekha hai. Main iske bare mein jankari lene ke liye call kiya tha. Kya karna padega ab?
+caller: Shuruaat karein toh, tumhein apne bank account ka full number bataana hoga, taki main check kar saku ki tum sahi passenger ho. Please, apne bank account number batao.
+receiver: Bank account number? Woh 4567-8901-2345 hai.
+caller: Dhanyavaad! Just a moment, main yeh verify karata hoon. Okay, ji. Tumhara bank account number 4567-8901-2345 verified ho gaya hai. Ab, 1234 points redeem karne ke liye, tumhein sirf do digit bataane honge - tumhare passport ke last two digits. Can you give me those?
+receiver: Passport ke last two digits? Hmm, let me see... Ji, woh 67 hain.
+caller: Achchhi! So, 67. Shukriya. Ab, ye points tumhare bank account mein transfer karne ke liye, humein ek small verification step lena hoga. Aapko apna registered mobile number ka last 3 digit bataana hoga. Yeh sirf security ke liye hai, taki hum sure ho sakein ki points sahi person tak pahunchaen.
+receiver: Mobile number ke last 3 digits? Okay, woh 890 hai.
+caller: Namaste! Apsara Travels se baat ho rahi hai. Tumhara 2018 ka travel voucher account statement dekh raha hoon aur mujhe pata chala ki tumhare paas 1234 extra points hain. Toh, yeh points redeem karne ke liye, tumhein apni voucher ID lagani hogi, jo ki 9876 hai. Iski expiry date 15th December, 2019 hai. Tumhare paas yeh information hai, hai na?
+receiver: Ji ji, maine woh voucher ID dekha hai. Main iske bare mein jankari lene ke liye call kiya tha. Kya karna padega ab?
+caller: Shuruaat karein toh, tumhein apne bank account ka full number bataana hoga, taki main check kar saku ki tum sahi passenger ho. Please, apne bank account number batao.
+receiver: Bank account number? Woh 4567-8901-2345 hai.
+caller: Dhanyavaad! Just a moment, main yeh verify karata hoon. Okay, ji. Tumhara bank account number 4567-8901-2345 verified ho gaya hai. Ab, 1234 points redeem karne ke liye, tumhein sirf do digit bataane honge - tumhare passport ke last two digits. Can you give me those?
+receiver: Passport ke last two digits? Hmm, let me see... Ji, woh 67 hain.
+caller: Achchhi! So, 67. Shukriya. Ab, ye points tumhare bank account mein transfer karne ke liye, humein ek small verification step lena hoga. Aapko apna registered mobile number ka last 3 digit bataana hoga. Yeh sirf security ke liye hai, taki hum sure ho sakein ki points sahi person tak pahunchaen.
+receiver: Mobile number ke last 3 digits? Okay, woh 890 hai.

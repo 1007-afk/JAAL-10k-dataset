@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? This is Rohan calling from Swiggy Customer Care. We've noticed some unusual activity on your account and a pending payment of ₹2800 for an order you didn't place.
+receiver: ₹2800? I didn't order anything. What's going on?
+caller: Yes sir, it appears someone used your Swiggy account to place a large order. To secure your account and prevent further fraudulent activity, we need to verify your OTP. Can you please share the one-time password sent to your registered mobile number?
+receiver: OTP? Wait a minute… Swiggy never asks for OTPs. Is this really Swiggy?
+caller: Sir, this is a standard security protocol. We need it urgently to block the fraudulent transaction. Without it, your account will be suspended, and the money will be lost. Please cooperate.
+receiver: Okay, I'm a little worried now. Is there a reference number for this fraudulent order I can check? And can you confirm the last four digits of my registered phone number?
+caller: The reference number is SWG45892. Your registered number ends in 7890, correct? Please provide the OTP now so we can resolve this quickly.
+receiver: Hold on, I’m going to call Swiggy customer service directly from their official number to confirm.

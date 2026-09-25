@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit calling from Zomato Customer Care. We have noticed some unusual activity on your account.
+receiver: Oh really? What kind of activity? I haven’t placed any recent orders.
+caller: Sir, there’s been a failed delivery attempt for an order placed to your address, and the delivery partner is asking for a small verification fee of ₹350 to re-attempt the delivery. It's a standard security protocol.
+receiver: ₹350? That seems a bit strange. I didn’t place any order, and Zomato doesn't usually ask for money upfront.
+caller: Sir, to ensure the safe delivery of your order, please provide the OTP you'll receive on your registered mobile number. We need to quickly confirm your identity. The order contains some important documents along with the food.
+receiver: Important documents? What documents would be in a Zomato order? I'm still not comfortable with this. Let me call Zomato customer care directly.
+caller: Sir, calling the main line will take too long, and the delivery partner is waiting. If you don’t confirm now, the order will be cancelled and the delivery partner will leave.  Just the OTP, sir. Very quickly.

@@ -1,0 +1,8 @@
+caller: Namaste, ji! Mai IDBI Bank se Ankit bolta hoon. Aapke naam par ek transaction attempt kiya gaya hai jo successful nahi hua, aur security ke liye aapka account suspend karne ka risk hai.
+receiver: Account suspend? Kya hua? Koi transaction attempt? Mujhe toh pata hi nahi.
+caller: Haan ji, ek online payment attempt hua hai Rs. 12,500 ka. Verify karne ke liye, mujhe aapka OTP aur Aadhaar card ka last 4 digit bataiye. Kuch minute ke liye suspend hoga, verify hone ke baad automatically activate ho jayega.
+receiver: Wait, wait! OTP main phone pe milta hai na? Aur Aadhaar number phone pe de dena secure nahi lagta. Tum IDBI se ho? Tumhara naam aur ID batao?
+caller: Sir, ye procedure hai, fast karna hoga. Time bahut kam hai, account suspend hone se pehle verify karna hai. Tumhara OTP main check kar sakta hoon, woh bhi IDBI ke system se verify ho jayega. OTP aur last 4 digits do, please.
+receiver: Sir, mujhe suspicion aa raha hai. Main apne bank branch mein jaakar khud verify karunga. Tumhara phone number note kar raha hoon, main IDBI branch mein complaint karunga.
+caller: Sir, complaint karne se account suspend ho jayega. Just the last 4 digits of your Aadhaar, please! Sir, bahut urgent hai!
+receiver: Nahin, sir, main nahi dunga. Tumko maaf karna, mere account ka risk nahi lunga.

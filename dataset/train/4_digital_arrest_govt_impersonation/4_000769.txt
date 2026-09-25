@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Inspector Raj from the Directorate of Enforcement. We are investigating a case of suspected money laundering linked to illegal online gambling operations. Your bank account has been flagged for unusual activity.
+receiver: Inspector Sahab? Really? I don't understand. I just have a regular savings account.
+caller: Yes sir, we have evidence suggesting funds were transferred through your account linked to these activities. To clear this up and avoid further legal action, we need you to verify some details. Can you please confirm the last transaction you made online, including the website address?
+receiver: Okay, let me check. I recently bought something from 'Deals4U.com'. It was a washing machine, around ₹25,000.
+caller: Thank you for that information. Now, to ensure your cooperation and security, we need you to transfer ₹10,000 to a secure government account. This is a temporary holding fee to verify your innocence. We’ll refund it once the investigation is complete. We’ll keep you on a video call so you don't inform anyone.
+receiver: ₹10,000? But why? How do I even do that? Can’t we just talk more about this?
+caller: Sir, time is of the essence. Delaying will only complicate matters. Transfer the amount to account number XYZ123456, IFSC code GOEN000001. Once it’s done, send us the transaction receipt. The video call will remain active during the process. We need immediate compliance.
+receiver: Wait, this seems… suspicious. I’m going to check with someone.

@@ -1,0 +1,11 @@
+caller: Hello? Is this Mr. Sharma? We’ve got some exciting news for you regarding your recent investment with Global Growth Securities! Congratulations, you’ve been identified as a potential beneficiary of a significant bonus payout! Don't delay, call us immediately at 0800 777888 before the end of today to secure your claim.
+receiver: Haan, main Mr. Sharma hoon. Bonus payout? Kitni amount hogi? Aur kya karna hoga?
+caller: Excellent! Due to an administrative error, there’s a substantial sum – approximately ₹50 lakhs – awaiting your disbursement. To initiate the transfer, we need to verify a few crucial details. Please provide your account number and the last four digits of your PAN card.
+receiver: ₹50 lakhs? Wow! Account number bata dunga, lekin PAN ka last four digits nahi puchna chahiye tha. Ye thik nahi hai.
+caller: Please understand, sir, this is standard procedure. We require these details to ensure the security of your funds and comply with regulatory requirements.  We only have one chance to make this transfer successful.  There’s a limited window of opportunity – only two parcels remaining for this special allocation.
+receiver: Parcel? Kya bol rahe ho? Main account number deta hoon, lekin parcel kaise?  Aapka naam kya hai?
+caller: My name is Priya, and I'm assisting you from Global Growth Securities.  Just provide those details quickly so we can finalize everything.  The deadline is approaching rapidly - less than 6 hours left to claim your bonus!
+receiver:  Arre Priya, thanks. Account number is 1234-5678-9012.  PAN last four digits are 7890.  But why only two parcels?  This doesn't sound right.
+caller:  Sir, due to unforeseen circumstances, we’ve had to reduce the initial allocation. This is purely logistical.  Let me just confirm… Your bonus will be credited within 48 hours once we receive the verification. And your surprise awaits!
+receiver: Surprise? Kya surprise hai?  Batao, batao!
+caller: That information will be revealed upon completion of the transfer process. For now, focus on providing the necessary details to expedite the process.  Please hurry, only one parcel remains!

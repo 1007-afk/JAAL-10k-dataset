@@ -1,0 +1,7 @@
+caller: Namaste, is this [Receiver's Name]? We're calling from Bluedart Courier regarding a parcel addressed to you. There seems to be an issue with the payment attached to the shipment – it's showing as insufficient funds.
+receiver: Oh really? Which parcel is it? I'm expecting a delivery. What's the tracking number?
+caller: Certainly. The tracking number is BD7429KL. The sender is listed as 'GlobalMart Online'. The payment gateway is showing a failed transaction of ₹1200. To release the parcel and complete the payment, we need to verify your bank details.
+receiver: ₹1200? I don't remember ordering anything for that amount. And why would you be calling me about payment verification? Shouldn't I be able to pay when it arrives?
+caller: Due to new security protocols, we're required to verify all outstanding payments before delivery. To avoid the parcel being returned to the sender, we need a one-time password (OTP) sent to your registered mobile number to authorize the transaction. It’s a standard procedure.
+receiver: An OTP? That sounds a bit fishy. I'm going to call Bluedart directly to confirm this. Give me your direct number.
+caller: Unfortunately, due to high call volumes, direct numbers aren't available. However, I can quickly process the verification now. Just send the OTP, and the parcel will be dispatched immediately. It’s very important to do this quickly, or the parcel may be sent back.

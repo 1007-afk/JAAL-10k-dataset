@@ -1,0 +1,9 @@
+caller: Namaste, mai Rahul Verma, Axis Bank se bol raha hoon. Aapka naam Ankit Mishra hai, sahi?
+receiver: Haan, mai Ankit Mishra hoon. Kyu, kya hua?
+caller: Sir, humein aapke account mein ek suspicious login attempt mila hai. Ek unknown device se attempt kiya gaya hai. Aapki security ke liye, humein kuch details verify karne hain.
+receiver: Unknown device? Kyu, maine toh koi device nahi use kiya. Batao, kya details chahiye?
+caller: Sir, humein bas aapke account ke registered mobile number par gaya ek OTP confirm karna hai. Ek moment, OTP aapko mil gaya hoga na? Wo share kar dijiye, please.
+receiver: OTP? Par OTP toh mujhe mila nahi. Aur phone pe OTP share karna safe nahi lagta.
+caller: Sir, yeh ek automatic system se gaya hai, aapko shayad notice nahi kiya. Yeh urgent hai, otherwise aapka account suspend bhi ho sakta hai. Aapko apna account save karna hai na?
+receiver: Account suspend? Dekho, mujhe confusion ho raha hai. Aap mujhe Axis Bank ka customer care number de sakte hain jahan mai khud call karke verify kar sakun?
+caller: Sir, humara system hi customer care hai. Time nahi hai. OTP jaldi dijiye, otherwise account lock ho jayega.

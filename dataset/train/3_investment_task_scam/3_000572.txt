@@ -1,0 +1,7 @@
+caller: Namaste! I hope you're doing well. I'm calling from CryptoGainz, a registered investment firm. We've noticed your profile indicates an interest in Bitcoin. We're offering a limited-time opportunity for a guaranteed 25% return in just 7 days on a small investment.
+receiver: CryptoGainz? Never heard of you. 25% in a week? That sounds a little too good to be true, doesn’t it? What’s the catch?
+caller: Sir, it's a proprietary trading strategy using AI. The catch is, to activate your account and participate, we need a small activation fee of just ₹5,000. This covers the verification and setup of your trading portfolio. Completely secure, I assure you.
+receiver: ₹5,000? Okay… and how does this trading strategy work exactly? Can you explain it in simple terms? And what’s your company registration number?
+caller: Absolutely, sir! Our AI analyzes market trends and executes trades at lightning speed. It’s far too complex to explain fully, but rest assured, it's highly profitable. The registration number is CG-8945-DEL. You can verify it on the MCA website. Just a small investment for a big return! Once the 25% is earned, there's a small 10% withdrawal fee to cover processing.
+receiver: A 10% withdrawal fee? So, if I invest ₹5,000 and earn ₹6,250, I’ll only get ₹5,625? That doesn't seem like a great deal.
+caller: Sir, the 10% is a standard industry practice. It covers the security and processing of your funds. Think of it as a small price to pay for guaranteed returns. Plus, after this first successful

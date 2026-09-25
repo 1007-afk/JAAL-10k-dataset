@@ -1,0 +1,7 @@
+caller: Namaste, main Rahul IDFC First Bank se baat kar raha hoon. Aapke IDFC First Bank account mein ₹7,500 ka cashback offer hai, government scheme ke under. Claim karne ke liye, aapko bas ₹99 processing fee pay karna hai.
+receiver: ₹7,500 cashback? Meri account mein? IDFC First Bank se? Yeh toh bilkul new hai! ₹99 fee? Kaise pay karun?
+caller: Haan ji, bilkul sahi. Aapko UPI se ₹99 pay karne hai. Main aapko ek UPI ID de dunga. ₹99 pay karte hi cashback aapke account mein transfer ho jayega. UPI ID hai: 8765432109@yono.
+receiver: 8765432109@yono? Yono kya hai? IDFC First Bank ka UPI ID toh alag hota hai, mujhe lagta hai. Aur ₹7,500 ka cashback offer toh mujhe IDFC app mein dikhta hi nahi.
+caller: Sir, government ne recently yono ko authorise kiya hai cashback transfer ke liye. Aap jaldi karo, offer sirf aaj ke liye hai. Agar aap late karoge toh aapka claim cancel ho jayega aur cashback milna band ho jayega. Jaldi se pay karo ₹99.
+receiver: Arre yaar, mujhe doubt ho raha hai. Main check kar ke aata hoon. Aap wait karo zara.
+caller: Sir, aapko jaldi karna hai! ₹99 pay karte hi aapka ₹7,500 cashback claim ho jayega. 20 minutes baad yeh offer khatam ho jayegi!

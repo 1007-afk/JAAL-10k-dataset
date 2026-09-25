@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Axis Bank se Aakash bol raha hoon. Aapke naam par ek online transaction hua hai jo suspicious lag raha hai.
+receiver: Suspicious transaction? Kaise? Mujhe koi notification nahi aaya.
+caller: Sir, ₹12,000 ka transaction Nepal mein hua hai. Account secure karne ke liye, aapka Aadhaar card number aur ek OTP bataiye, taaki hum account block kar sakein.
+receiver: Nepal mein? ₹12,000? Meri toh permission nahi hai! Aadhaar number kyun chahiye? Aur OTP bhi? Yeh toh zyada suspicious lag raha hai.
+caller: Sir, security protocol hai yeh. Humko verify karna padega ki aap hi sahi owner hain account ke. Agar aap verify nahi karenge toh account suspend ho jayega, aur phir ₹12,000, woh loot jayega.
+receiver: Looteega? Main toh police mein report kar dunga! Aap mujhe bataiye, Axis Bank mein aapka employee ID number kya hai? Aur mujhe aapki branch ka naam aur address bataiye, main wahan jaakar check karunga.
+caller: Sir, woh number confidential hai. Main aapko advise karta hoon ki aap jaldi se OTP bataiye, warna account permanent block ho jayega. Just the OTP, sir. Nothing else.

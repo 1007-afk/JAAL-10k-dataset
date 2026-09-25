@@ -1,0 +1,8 @@
+caller: Namaste sir, Bharat Telecom se bol raha hoon. Aapke mobile number ka KYC update chal raha hai. Aapke phone par ek 6-digit PIN code aaega, wo bataiye please.
+receiver: Ji, bata deta hun.  Dekh rahi hoon...Haan, aa gaya. 829173.  Aapse kaun baat kar raha hai?
+caller: Namaste sir, mera naam Priya hai. Thank you for verifying the PIN code. Abhi hum aapki account details ko check kar rahe hain. Kya aap mujhe apne registered WhatsApp number bata sakte hain?
+receiver: Ji Priya. Mera registered WhatsApp number hai [apna registered WhatsApp number yahan daalein].
+caller: Thank you sir, for confirming your WhatsApp number. Ab hum aapki account ko further verify karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Ji Priya. Mera registered email id hai ‘info.xyz@domain.net’. Koi aur details chahiye?
+caller: Namaste sir, aapki email id confirm ho gayi hai. Abhi aapko ek link aa jayegi, uspar click karke verification complete karni hai. Uske baad, hum aapke account par kuch exclusive deals bhi provide karenge. Aapko koi aur question hai sir?
+receiver: Nahin Priya, koi aur question nahin hai. Yeh deals ki kahani mein kuchh bata sakte ho?

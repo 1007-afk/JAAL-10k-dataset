@@ -1,0 +1,7 @@
+caller: Namaste, main Cyber Crime Investigation Cell, Delhi se Manish Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jo illegal items se bhara hua hai.
+receiver: Illegal items? Yeh kya bol rahe hain? Mujhe toh koi parcel nahi mila.
+caller: Ji, madam. System mein dikh raha hai ki Delhi se aapke address par ek parcel aaya tha, jismein suspicious material mila hai.  Agar aap FIR register nahi karwati, toh aapko arrest bhi hona sakti hai. ₹5000 ka fine deposit karwataye, taaki case ko close kiya ja sake.
+receiver: ₹5000? Arrest? Sirf parcel ke wajah se? Mein toh kabhi online order bhi nahi karti.  Ye bahut hi bewakoofana lag raha hai.
+caller: Madam, is case mein koi joker nahi hai. Aapko urgently ₹5000 UPI se deposit karne hain. Mein aapko ek secure link send karta hoon, wahan pay karein.  Agar aap FIR nahi karwati, toh CBI bhi aapke case mein involve hogi.
+receiver: Secure link? CBI? Nahin, nahin, mujhe ye sab kuch risky lag raha hai. Mein police station mein jaungi.
+caller: Madam, police station mein jaane se kuch nahi hoga, woh bhi humare contact mein hai. Aapko ₹5000 ka fine deposit karna hi padega, warna aapko serious consequences ka mukaam hona hai.  Aapko legal trouble hoga, madam.

@@ -1,0 +1,9 @@
+caller: Namaste! Main Ramesh Kumar, Bharat Entertainment se baat kar raha hoon. Aapko pata hai kya, iss weekend, 14th November tak, aap ‘Jungle Book’ mein Mowgli ke saath dekh sakte hain, aur ek complimentary small samosa bhi milega! Kya interest hai?
+receiver: Arre yaar, main Sanjay Singh hoon. Bharat Entertainment se call? Jungle Book? Mowgli? Woh toh achcha film hai. Samosa bhi? Hmm, acha laga. Kahaan dekhoongi main yeh?
+caller: Haan ji, Mr. Sanjay Singh! Aap kisi bhi CineStar theatre mein dekh sakte hain jo Bharat Entertainment ka franchisee hai. Iss weekend, 14th November tak, sirf yahi cinema hall mein yeh offer valid hai.  Aap apne nearest CineStar kinare dekhege.  Aur samosa complimentary hai, free mein milega!
+receiver: Oh, okay. CineStar theatre mein toh main jaa sakti hoon.  Main Mumbai mein rehta hoon.  Mumbai mein CineStar kahaan hai?  Aur 14th November tak sirf CineStar mein hi ye offer valid hai?
+caller: Haan ji, Mumbai mein donon CineStar theatres mein yeh offer valid hai - Bandra Kurla Complex aur Andheri West.  Aur jaise aapne kaha, 14th November tak hi yeh offer valid rahega.  Aap seedha CineStar mein jao, ticket lane par jayen aur yeh message dikhao.  Koi extra charge nahi lagega.
+receiver:  Okay, bandra kurla complex aur andheri west…  Dekhunga.  Mujhe confirm karna chahte hain, sirf yeh message dikhaati hoon CineStar ke ticket counter pe, aur mujhe 'Jungle Book' aur samosa mil jayega?  Koi booking ki zaroorat nahi hai?
+caller:  Haan ji, Mr. Sanjay Singh! Absolutely! Yeh message dikha dijiya aur aapko 'Jungle Book' aur complimentary samosa milega. Booking ki zaroorat nahi hai, aap seedha CineStar mein jao aur enjoy kariyega movie! Kuch aur puchna hai toh bataiyein.  Saturday ko dekhenge!
+receiver:  Perfect! Shukriya, Ramesh Ji.  Main bahut excited hoon.  Saturday ko andar jaungi.  Thank you for the amazing deal!
+caller:  Ji Maharaj!  Enjoy kariyega movie aur samosa!  Bhi abhi enjoy karein!  See you later!

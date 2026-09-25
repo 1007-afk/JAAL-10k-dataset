@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Ankit bol raha hoon. Aapke BharatPay wallet mein ₹12,000 ka credit refund aaya hai, lekin yeh hold mein hai.
+receiver: ₹12,000? Mujhe koi notification nahi aaya. Mein BharatPay use karta hoon. Confirm karo?
+caller: Haan ji, confirm hai. Refund aapke online shopping order ke liye aaya hai. Isko release karne ke liye, aapko ek OTP verify karna hoga aur ₹500 verification fee bhar deni hogi.
+receiver: ₹500 fee? Refund ke liye fee? Yeh thoda funny lag raha hai. BharatPay aise bhi karta hai?
+caller: Sir, security protocol hai. ₹500 fee bharne se aapka account safe rahega aur refund aapke wallet mein transfer ho jayega. Payment karne ke liye, www.securepayindia.in par jaayein aur OTP enter karein.
+receiver: Securepayindia.in? Maine kabhi sunna nahi.  Mein direct BharatPay app se check karta hoon. Wait karo, I will check.
+caller: Jaldi karo sir, offer sirf 15 minute ke liye hai! Agar aap verify nahi kar paye toh refund cancel ho jayega aur aapko kuch nahi milega.

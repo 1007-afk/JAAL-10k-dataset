@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Ankit calling from FastCashLoans. We’ve received your application for a quick loan of up to ₹75,000. Just a few verification steps remain. Do you have your Aadhaar card handy?
+receiver: Ji haan, Aadhaar card toh hai. Loan kitne ka approve hoga? Aur interest rate bataiye.
+caller: Excellent! Your loan amount is pre-approved for ₹60,000, sir. The interest rate is a special 12% for first-time users like you. To activate, we need to verify a small processing fee of ₹2,500 upfront to secure the loan. You can easily transfer it to the given UPI ID.
+receiver: ₹2,500 processing fee? Phale toh bola nahi tha aise kuch. Loan approve hone ke baad hi charge lagana chahiye, na?
+caller: Sir, this is standard procedure. Think of it as insurance against fraud, safeguarding your loan. We have to protect you, right? Without it, the bank won't release the funds. Send it quickly, time is running out. We have many applicants.
+receiver: Wait a minute… Yeh thoda suspicious lag raha hai. Main sochna chahta hoon.
+caller: Sir, please don’t delay! This offer is available only for a limited time. If you don't pay this fee now, your application will be cancelled and you’ll lose your chance for a loan altogether! And also, there are rumors going around about people defaulting on loans, so if you don’t cooperate, we might have to share your details with your family and employer.

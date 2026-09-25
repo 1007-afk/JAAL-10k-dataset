@@ -1,0 +1,8 @@
+caller: Namaste! Namaste, suno mein Bharat Travel Deals se bol raha hun. Aapko ek achha khabar hai, aapne ek competition mein jeet liya hai aur aapko ₹10,000 ka coupon mil gaya hai India mein vacation ke liye! Reference number is 98765 4321. Claim number hai 23451. Sirf 3 coupons bache hain! Suno, aapke paas claim number ready hai?
+receiver: Namaste! Haan, sunao. Bharat Travel Deals? Okay, ₹10,000 ka coupon… that’s good news! Reference number is 98765 4321, claim number is 23451.  Haan, claim number ready hai.  Sirf 3 coupons bache hain, huh?
+caller: Achcha!  To, 98765 4321 aapka reference number hai aur 23451 aapka claim number hai. Abhi toh sirf 2 coupons bache hain, aur yeh bahut jaldi khatam ho rahe hain.  Aap kaise hain is prize ko claim karne ke liye?  Bas kuch small details chahiye, aur hum sab poora karenge.
+receiver: Haan, mai taiyar hu. Bataiye kya karna hoga?  Details chahiye, okay.
+caller: Fantastic!  Toh, aapka naam [Receiver's Name] hai na? Humne isko verify karna hai. Aur kya aapke paas Aadhaar card hai, ya bank statement, jisse aapki identity check kar sakein?  Yeh information bahut zaroori hai.
+receiver: Haan, mera naam [Invented Receiver's Name] hai. Aur paas Aadhaar card hai. Uske details chahiye?
+caller: Bahut sundar!  [Receiver's Name], aapke Aadhaar card ke details chahiye, taaki hum aapki identity confirm kar sakein aur coupon ko aapke naam par register kar sakein. Ismein Aadhaar number, expiry date (jo nahi hota), aur aapka address shamil hai.  Share karein yeh details.
+receiver: Haan, Aadhaar number hai [Invented Aadhaar Number], expiry date hai [Invented Expiry Date], aur address hai [Invented Address]. Bas itna hi?

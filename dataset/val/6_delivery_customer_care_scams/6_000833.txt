@@ -1,0 +1,6 @@
+caller: Namaste! Main Blue Dart Courier se Rohit bol raha hoon. Aapka ek parcel Jaipur se Lucknow tak aana tha, lekin delivery ke dauraan address sahi nahi mila. Aapki help zaroorat hai.
+receiver: Oh, kya hua? Mujhe to koi order yaad nahi. Mai toh kuch order nahi kiya tha.
+caller: Ji, checking kar raha hoon... Haan, yahan naam Priya Sharma likha hai. Parcel ID hai BD7891234. Parcel mein kuch electronic items hain. Address confirm karne ke liye, OTP mujhe bataiye.
+receiver: OTP? Nahi, main OTP kisi ko nahi dungi. Blue Dart kabhi OTP maangta hai kya? Mujhe to kabhi such message nahi aaya.
+caller: Ji, ye security protocol hai, ma'af karna. Parcel safe rukayega jab tak aap OTP share nahi karengi. Jaldi karo, otherwise parcel return ho jayega. Please OTP share karo.
+receiver: Theek hai, ek minute. Mai Blue Dart ki official website per check karti hoon. (pause) Nahi, ye scam lag raha hai. Main abhi nahi bolungi.

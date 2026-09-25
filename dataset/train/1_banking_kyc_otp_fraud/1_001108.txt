@@ -1,0 +1,8 @@
+caller: Namaste, mein IndusInd Bank se Atul Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye KYC update karna bahut zaroori hai.
+receiver: IndusInd Bank? Maine toh koi suspicious activity toh nahi dekhi. Aap kaise pata karenge?
+caller: Sir, hamari system ne detect kiya hai. Account secure rakhne ke liye, mujhe aapka Aadhaar card ke last four digits chahiye, aur ek OTP jo aapke registered mobile number pe aayega.
+receiver: Aadhaar number? Mujhe yeh kuch shubha lag raha hai. Bank toh khud check kar sakta hai na? Aur OTP bhi toh milta hai.
+caller: Sir, security reasons se, hamein verification karna padta hai. Agar aap cooperate nahi karenge, toh hamein aapke account ko temporarily suspend karna pad sakta hai, aur phir aap online transactions nahi kar paayenge. Isko jald se jald karna hai, sir.
+receiver: Account suspend ho jayega? Theek hai, lekin mujhe pehle bataiye aapka employee ID number kya hai? Aur aap mujhe call kar rahe hain kis branch se?
+caller: Sir, employee ID number confidential hai, main woh share nahi kar sakta. Ham main branch se call kar rahe hain, lekin right now mein verification process mein busy hoon, woh batana impossible hai. Please, sir, aapka Aadhaar number ke last four digits de dijiye, please. Agar aap account ka use karna chahte hain, toh jald se jald respond karna zaroori hai.
+receiver: Theek hai, ek minute.

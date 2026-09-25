@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Customs Department se Rahul Verma bol raha hoon. Aapki ek parcel customs clearance ke liye pending hai.
+receiver: Oh? Parcel? Mujhe yaad nahi ki maine koi parcel bheja tha. Kya hai andar?
+caller: Sir, parcel mein illegal documents mili hain. Yeh drug trafficking se related case hai. Aapko ismein phasna nahi hai.
+receiver: Drug trafficking? Yeh galat hai! Main aisa kuch nahi kar raha. Aur kis parcel ki baat kar rahe ho? Mujhe check kar ke batao.
+caller: Sir, agar aapko clear ho jaane hai toh humein ₹8,500 clearance fee ke तौर पे चाहिए. Aapko UPI ya Google Pay se pay karna hoga. Jald pay kar dijiye, warna case register ho jayega.
+receiver: ₹8,500? Yeh bahut zyada hai. Aur agar main pay kar dunga toh parcel mujhe mil jayega? Mujhe koi receipt ya confirmation number chahiye.
+caller: Sir, receipt abhi nahi de sakte, process mein time lagega. Par trust kijiye, pay karne ke baad parcel aapko zaroor milega. Aur case bhi close ho jayega. Time is running out sir.
+receiver: Okay, ek minute. Main check karta hoon. Mujhe pehle parcel ka tracking ID chahiye. Aur yeh batao ki parcel mere naam par register hai ya kisi aur ke naam par?

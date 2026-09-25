@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay se baat kar raha hoon, Paytm Security Department se. Aapke Paytm wallet mein ₹2500 ka ajeeb transaction detect hua hai. Kya aap confirm kar sakte hain ki aapne aaj yeh transaction kiya tha?
+receiver: Haan, Vijay ji. Main Sunita Sharma hoon. ₹2500 ka transaction? Mujhe toh yaad nahi aa raha. Mai dekhti hoon.
+caller: Sunita ji, yeh transaction XYZ Electronics se hua hai. Aapne unke website se kuch order kiya tha shayad? Security ke liye, mujhe aapka OTP verify karvana hoga. OTP mein bhejo Paytm pe, please.
+receiver: OTP? Shayad kuch order kiya tha, lekin mujhe yaqeen nahi hai. OTP Paytm pe bheju? Thoda suspicious lag raha hai.
+caller: Sunita ji, worry mat karo. Yeh sirf security process hai. Agar aap OTP nahi bhejengi, toh hum aapke account ko freeze kar denge. ₹2500 ka transaction revert nahi ho payega, aur account secure nahi rahega.
+receiver: Account freeze kar denge? ₹2500 revert nahi hoga? Okay, theek hai. Main OTP bhejti hoon.
+caller: Shukriya, Sunita ji. Ab hum aapke account se ₹50 ka verification fee cut karenge. ₹50 bhi Paytm pe transfer kardo. Yeh just temporary charge hai, phir aapko refund mil jayega.
+receiver: ₹50 aur? Verification fee? Abhi Paytm se ₹50 transfer kar dungi.

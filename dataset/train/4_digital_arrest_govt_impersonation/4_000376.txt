@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Directorate of Revenue Intelligence. We've detected suspicious activity linked to your bank account – specifically, a series of transactions indicating potential involvement in Hawala funding.
+receiver: Kya? Hawala funding? Sir, yeh galat baat hai. Main toh ek simple teacher hoon, Rajeev Kumar. Mujhe Hawala funding se koi lena-dehna nahi hai.
+caller: Mr. Kumar, our systems flagged several unusual transfers originating from overseas accounts and routed through your account. We need to verify your details immediately to prevent further legal complications. We are holding a video call with you right now. Please do not disconnect.
+receiver: Overseas accounts? But I have no idea about this. I only use my account for my salary and basic expenses. Who would use my account for such things?
+caller: Mr. Kumar, it appears someone has compromised your account without your knowledge. To clear your name and avoid arrest, you need to demonstrate your cooperation. We require a sum of ₹15,000 to facilitate a thorough audit and prove your innocence. You can transfer it to the account number provided on screen.
+receiver: ₹15,000? Sir, this sounds like a scam. Why can’t you investigate without asking me for money? I want to speak to your supervisor. This is ridiculous.
+caller: Mr. Kumar, time is of the essence. Every minute you delay increases the risk of a warrant being issued for your arrest. Transfer the amount immediately to secure your future. The link for the transfer is on screen. Do it now.

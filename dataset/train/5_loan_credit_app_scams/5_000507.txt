@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan from QuickCash Solutions. We've approved a loan for you, ₹75,000, based on your online application. Just a few formalities to complete, sir. Can I confirm your name?
+receiver: Yes, my name is Suresh Kumar. But I don't remember applying for any loan.
+caller: That’s okay sir, sometimes applications get lost in the system. We saw your details and thought you might need some financial assistance. To release the loan, we need you to pay a small processing fee of ₹5,500 as security. It will be refunded once the loan is disbursed.
+receiver: ₹5,500? That seems a bit strange. Why do I have to pay before receiving the loan?
+caller: Sir, this is standard procedure to prevent fraud. All banks and legitimate loan providers do this. Think of it as an insurance against any potential issues. Please send it to the UPI ID: quickcash75@axis. We’ll process your loan immediately after payment. We don't want you to miss out on this opportunity.
+receiver: Okay, I will transfer the money. But I want the loan details in writing.
+caller: Excellent decision sir! The loan will be credited to your account within 24 hours. Just a reminder, if you don’t pay, we will have to cancel your application. Also, we have your contact list stored – so it’s best not to cause any trouble.

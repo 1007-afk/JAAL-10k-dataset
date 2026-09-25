@@ -1,0 +1,8 @@
+caller: Namaste! Shubhkos! Aapko mil gaya hai 250 rupees ke online shopping vouchers ya phir 75 rupees ka guaranteed prize! Aur haan, Diwali ke liye free entry bhi hai 50 rupees ke monthly draw mein! Sirf 'SHOPPING' type karke 98765 pe message karein. Aapki mummy kaisi hai ji?
+receiver: Arre bhai, yeh toh bahut achcha offer hai. Mera naam Amit hai.
+caller: Amit ji, bahut sundar! Toh aapko yahaan par sabhi fayde mileinge. Sirf aapko ek small task karna hai. Mere number ko yaad rakhein, 98765, uss par ‘SHOPPING’ likhkar ek message bhejein. Message bhejoge kab?
+receiver: Haan ji, bhejta hoon. ‘SHOPPING’ likhne ka kya matlab hai? Aur 98765 pe message karna hai?
+caller: Tumhare liye simple banayeinge. Just ‘SHOPPING’ likho aur message karo. Jaise hi aapka message aa jaye, aapka naam record mein daal diya jaayega aur hum aapko bata denge ki abhi kya karna hai. Yeh offer sirf pahle 5 people ke liye hai, so hurry up!
+receiver: Haan ji, bhej diya. Hopefully, I am one of the five. Kya hoga ab?
+caller: Excellent Amit Ji! Great! Abhi hum dekh rahe hain. Tension mat lein. Humare pass aapka message aa gaya hai. Bahut shukriya! Abhi jo nex step hai, woh yeh hai ki aapko ek small registration charge ₹299 ka dena hoga. Yeh sirf confirmation ke liye hai aur yeh money aapko draw mein hi return ho jayega, ya phir vouchers mein add ho jayega. Kaise karna hai, main aapko samjhata hoon. Aap Paytm use karte hain?
+receiver: Haan ji, Paytm use karta hoon. Account number kya hai?

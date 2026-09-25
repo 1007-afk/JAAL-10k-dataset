@@ -1,0 +1,6 @@
+caller: Hello! I’m calling from Freecharge customer support. We’ve detected some unusual activity on your Freecharge wallet. It seems a small transaction of Rs. 250 has been attempted using your wallet, which you haven’t authorized.
+receiver: Rs. 250? I haven't done any transactions like that. What's happening?
+caller: Don't worry, Sir. It's likely a fraudulent attempt. We're calling to secure your wallet. To verify, could you please tell me the last three digits of the mobile number linked to your Freecharge account?
+receiver: It’s 456. But why are you asking this? Shouldn’t you already have this information?
+caller: Yes, Sir, we do. Just a routine security check to ensure it's really you. Now, to reverse the unauthorized transaction and fully secure your account, we need to temporarily freeze it and then require you to re-authenticate via a one-time password.  We'll send a collect request to your bank account for a small refundable amount of Rs. 5 to confirm your identity.
+receiver: A collect request to my bank account? That sounds a bit odd. Can you give me a reference number for this call, or a direct number to Freecharge customer care I can verify this with? I’m a little hesitant to give bank details over the phone.

@@ -1,0 +1,6 @@
+caller: Namaste! I saw your profile on ‘Desi Hearts’ and thought you seemed like a really lovely person. I'm Rohan, by the way. Just wanted to say hi!
+receiver: Hi Rohan! Nice to hear from you. I'm Priya. Desi Hearts is fun, finding someone genuine is the challenge, isn't it? What do you do?
+caller: Exactly! It’s so hard these days. I work as a shipping manager for a company that deals with exports. Pretty busy, but I like to unwind with photography. Do you have any hobbies, Priya?
+receiver: That sounds interesting! I’m a teacher – primary school. Keeps me on my toes! Photography is cool, do you have a favourite place to take pictures?
+caller: That's amazing, Priya! Teaching is so important. As for photography, I’m actually planning a trip to Kerala next month to capture the backwaters. It's been a dream for a long time, but my mum’s unexpectedly unwell, and I’m struggling to cover all the costs. I’d be so grateful for any little bit of help. Even ₹5000 would make a difference, you know?
+receiver: Oh no, Rohan, I'm so sorry to hear about your mum. That's terrible. I'll have to think about it, it’s just a bit sudden. Do you have any documentation I could see?

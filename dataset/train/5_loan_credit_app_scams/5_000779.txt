@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? This is Raj from LoanExpress. We’ve pre-approved you for an instant loan of ₹75,000. Very quick and easy process!
+receiver: LoanExpress? I don’t think I applied for a loan. Are you sure you have the right number?
+caller: Yes sir, absolutely. Your mobile number 9876543210 is registered. We just need to verify a few details to release the funds. Could you please confirm your date of birth for security purposes?
+receiver: My date of birth is 12/05/1988. But I still don't remember applying for a loan. Why are you contacting me?
+caller: Excellent, sir. Verification complete. Now, there's a small processing fee of ₹5,000 that needs to be deposited upfront to activate your loan. Transfer it to the account number provided in the SMS. This is standard procedure.
+receiver: ₹5,000? For a ₹75,000 loan? That seems excessive. And you sent me an SMS? Let me see… It’s a very strange link. This is starting to feel off.
+caller: Sir, without the processing fee, we can't release the funds. And if you delay, the offer will expire. Moreover, if you fail to pay the loan on time, we'll have to take legal action, including sharing your details with your contacts and publishing them online. Act fast, sir.
+receiver: Legal action? Contacts? Publishing online? That’s a threat! I'm ending this call now. You’re a scammer!

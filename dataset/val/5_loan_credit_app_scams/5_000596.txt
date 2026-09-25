@@ -1,0 +1,7 @@
+caller: Hello! I'm calling from 'LoanExpress India'. We've pre-approved you for a personal loan of ₹75,000 with very low interest. Just a few quick details to confirm and the money will be in your account within the hour!
+receiver: A personal loan? That's… surprising. I didn't apply for anything. Can you tell me more about LoanExpress India? Is it a registered company?
+caller: Of course! We're a fully licensed NBFC. To verify your identity, we need a small processing fee of ₹999. It’s just to prevent fraud and activate your loan. You can pay it via UPI, any UPI will do.
+receiver: A processing fee *before* I even get the loan? That seems very unusual. Legitimate loan companies don’t typically do that. Can I have a reference number for this loan offer?
+caller: Absolutely! Your reference number is LEXI78945. Think of this small fee as insurance, beta! We want to ensure your safety and the loan's smooth disbursement. Don't miss out on this fantastic opportunity - many people are getting loans already! Just send the UPI payment now.
+receiver: I’m not comfortable with this. It feels like a scam. I'm going to research 'LoanExpress India' online and I'm ending this call now.
+caller: Arre, wait! Just a quick question - what's your mother's maiden name? Just to double-check the details before you miss this big chance!

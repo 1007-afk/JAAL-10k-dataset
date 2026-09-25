@@ -1,0 +1,7 @@
+caller: Namaste Madam, this is Ravi from Paytm Payments Bank. We’ve noticed some unusual activity on your account, and for security purposes, we need to quickly verify your details.
+receiver: Paytm? Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Madam, a small transaction of ₹2500 was attempted from a different location. To prevent any further unauthorized access, we need to confirm your PAN card number and the last four digits of your debit card. Just a formality, please cooperate.
+receiver: ₹2500? I didn't authorize that! My PAN and debit card details over the phone? That sounds risky. Can I call Paytm directly to verify this?
+caller: Absolutely, Madam. But time is crucial. If we don't verify this immediately, your account will be temporarily suspended for your safety. We are just following protocol. Please provide the information quickly, and we’ll resolve this instantly. You can call Paytm after we've finished, to confirm everything.
+receiver: Suspended account? Wait a minute... Let me quickly check my Paytm app... Okay, hold on, I’m seeing a notification about a similar security check *inside* the app itself.
+caller: Madam, the notification you see is just to create a sense of urgency. The actual verification needs to be done over the phone to ensure your device hasn't been compromised. Please hurry, Madam, or your account will be blocked permanently.

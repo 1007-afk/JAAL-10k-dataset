@@ -1,0 +1,6 @@
+caller: Namaste sir, speaking from QuickCash Solutions. We’ve processed your loan application and it's almost approved! Just a few quick verifications are needed.
+receiver: QuickCash Solutions? Haanji, I applied for a loan, yes. What needs to be verified?
+caller: Excellent! To finalize everything, we require a small security deposit of ₹5000 to activate your loan limit of ₹50,000. It's a one-time fee, sir.
+receiver: ₹5000 deposit for a ₹50,000 loan? That sounds a bit steep. Can't I just verify my details and get the loan?
+caller: Sir, this is standard procedure. It ensures your account security and prevents fraudulent activity. We also need you to share the last four digits of your bank account number to confirm your identity.
+receiver: Wait a minute. This is getting suspicious. Why do you need a deposit upfront? And why do you want my bank details now? I think I’ll have to check this.

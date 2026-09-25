@@ -1,0 +1,6 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein. Parcel mein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kuch order kiya tha. Kya cheez hai? Aur Indian Customs se phone kyu kar rahe hain?
+caller: Ji, parcel mein banned drugs paaye gaye hain. Yeh serious matter hai. Aapko CBI investigation mein cooperate karna hoga aur fine bhar payega, otherwise arrest warrant nikal jayega.
+receiver: Drugs? Yeh toh galat ho gaya hai! Main toh kabhi drugs nahi use karta. Par arrest warrant? Fine kitna bharne ki baat ho rahi hai? Aur main CBI ke office se contact kaise kar sakta hoon?
+caller: Fine ₹50,000 hai. Aapko UPI se bhar payega. Main aapko CBI officer ka number de deta hoon, woh aapki verification karega. Jaldi karo, time kam hai. Case register ho gaya hai.
+receiver: ₹50,000? Thoda rukiye, sir. Main verify kar sakta hoon. CBI officer ka number do aur mujhe ek minute de dijiye. Main apne dost se baat karta hoon. Mujhe yeh thoda suspicious lag raha hai.

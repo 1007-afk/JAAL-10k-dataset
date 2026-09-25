@@ -1,0 +1,14 @@
+caller: Bolo, ye kaise Sharma sahib? Main Rohan, Global Fortune Helpline se baat karta hu. Kaise ho aap aaj?
+receiver: Namaste Rohan, ji. Mai accha hi hu, dhanyavaad. Aur aap kaise hain? Kahan se kar rahein call?
+caller: Thik thak mein hu, dhanyavaad! Aur main call kar raha hu kyuki aapki jackpot jeetne ki ek badi badi kismat hai! Hamara helpline aapko har maahina ₹50,000 jeetne ka offer chalara hai. Bahut asaan - aapko bas ek small question ka jawab dena hai. Kya aap ready hain?
+receiver: ₹50,000 har maahina? Yeh sunkar bahut maza aa gaya! Bas ek question ka jawab dena hai? Itni achi baat hai! Puchiye mujhe sawaal.
+caller: Absolutely, Madhav ji! Aapne sahi sunaya. Aur sawal yeh hai: Ramayana mein Hanuman ka raajya naam kya hota hai? Aapke paas jawab dene ke liye sirf 2 mauke hain!
+receiver: Lanka. Hanuman ka rajya naam Lanka tha. Yeh sahi hai na?
+caller: Haanji, Madhav ji, aapne sahi kaha! Hanuman ka rajya naam Lanka hai. Kitni khoob jawab diya aapne! Abhi doorein sawal hai. Ready?
+receiver: Ji, dil se taiyar hu! Agli sawaal puchiye. Lekin abhi toh dono sawaalon ka jawaab sahi tha.
+caller: Aao, madam ji, kaise hain aap? Main Sanjay, Prosperity Solutions Pvt Ltd se bol raha hun. Aapke liye ek bahut hi shubh khabar hai! Hum har mahine ₹25,000 jeetne ka ek lucky draw chalara hai. Sabse zyada aasani se jeetne ke liye, aapko bas ek simple question ka jawab dena hoga. Aap ready hain?
+receiver: Sanjay ji, namaste. Mai theek hu, dhanyavaad. ₹25,000 jeetne ka lucky draw? Yeh sunkar bahut khushi hui. Jo simple question hai woh puchhe.
+caller: Tumhare paas sabse zyada khushi hona chahiye, madam ji! Kyunki aapko jeetne ka ek mauka mil gaya hai! Sawal yeh hai: India ki sarkari bank ka naam kya hai? Aapke paas sirf ek hi chance hai!
+receiver: State Bank of India. Woh to sahi hai na?
+caller: Haaniji, Shanti Priya ji! Tumhara jawaab sudhar hai! India ki sarkari bank ka naam State Bank of India hai. Wah, tumhari dikkat nahi hai! Abhi doosra sawal hai. Are you ready?
+receiver: Ji, buraaro, ready hoon! Agli sawaal puchho. Khoob ho!

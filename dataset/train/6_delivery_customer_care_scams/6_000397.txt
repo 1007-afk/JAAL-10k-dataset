@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart Customer Support se Atul bol raha hu. Aapke account mein ek pending payment ka issue hai, jo delivery hold kar raha hai.
+receiver: Flipkart? Kya delivery hold ho gaya hai? Mujhe koi notification nahi mila. Kuchh details batao.
+caller: Ji, ek courier payment gateway mein problem a gaya tha, isliye hold ho gaya hai. Aapko ₹250 ka security deposit pay karna padega, taaki delivery continue ho sake. Payment karne ke liye OTP send kar do.
+receiver: ₹250? Security deposit? Flipkart aise nahi karta. Main apne app mein check karti hu. Aapka name aur employee ID batao.
+caller: Haan ji, ek OTP confirm karne se aapki delivery secure ho jayegi. Mere ID number hai FC2389. OTP aapke phone pe aa jayega. Hurry, delivery window closing!
+receiver: Ek minute ruk jao. Mai check karti hu. (pause) Yeh scam lag raha hai. Flipkart kabhi OTP nahi puchta payment ke liye. Main police mein report karungi.
+caller: Madam, please! Time bahut kam hai! ₹250 pay kar de delivery ke liye! Aapko product nahi milega!

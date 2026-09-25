@@ -1,0 +1,7 @@
+caller: Hello sir, is this Mr. Sharma? I’m calling from Bluestar Logistics. There’s a slight issue with your recent delivery from Myntra.
+receiver: Haan, bolie. What’s the issue? I was expecting a package.
+caller: Sir, it appears there was a failed delivery attempt due to an incorrect address. We need to verify a few details and collect a small outstanding delivery fee of ₹750 to re-route the parcel.
+receiver: ₹750? That seems a bit high. I thought delivery was free with Myntra Pro. And I double-checked the address when I placed the order.
+caller: Sir, unfortunately, due to the delivery error, our system flagged it. To avoid the parcel being returned, we require immediate verification. Could you please share the OTP you received on your registered mobile number? It's vital for security purposes.
+receiver: OTP? Why would I give you an OTP? That seems very suspicious. I'll contact Myntra customer care directly to confirm this.
+caller: Sir, please do not delay! This is a time-sensitive matter. If you don't verify now, your parcel will be sent back to the seller, and you'll lose everything you ordered. The OTP is the quickest way to resolve this. Just one moment, sir, I need to update your delivery status.

@@ -1,0 +1,16 @@
+caller: Hello? Hello? Kaise haal hai? Humne aapke liye ek bahut hi important update chhodha hai. Isko jankarn ke liye, please 09876543210 par call karein. Aapke paas sirf 6 mauke bache hain.
+receiver: Haan, sun rahi hoon. Mein thik hoon. Kya update hai? Mujhe samajh mein nahin aa raha hai yeh sab. Mai kabhi bhi call collect nahin kiya hota. Aap kaise hain?
+caller: Madam, yeh [Invented Bank Name] ka helpline hai. Aapke account mein ek important alert hai, aur isko check karne ke liye aapke paas sirf 5 mauke bache hain. Please 09876543210 par call karein.
+receiver: Bank ka helpline? Mein [Invented Bank Name] ki account nahi rakhti. Aur mai toh abhi-abhi call kar rahi thi, mujhe pata bhi nahi tha. Aap kya keh rahe hain?
+caller: Sir, yeh security ke liye hai. Account ko safe rakhne ke liye aapko yahaan call karna hoga. Aapke paas sirf 4 mauke bache hain. Please, jaldi se 09876543210 par call karein.
+receiver: Security ke liye call? Yeh bahot suspicious lag raha hai. Bank toh kabhi bhi email ya SMS se alert karte hain. Mujhe koi mauka nahi chahiye. Mera account toh brand new hai.
+caller: Sir, please mat gaadi chalayein. Yeh koi scam nahi hai.  Aapki account ki security check hai, aur ismein aapki madad ki zarurat hai.  Mai aapko message deta hu lekin woh phone pe nahi, bas aapko call karna hai.  Aapke paas sirf 3 mauke bache hain. Please, aapki apni safety ke liye 09876543210 par call karein.
+receiver: Main aapki baat samajh ne ki koshish kar rahi hoon, lekin yeh sab mujhe kitni fake lag rahi hai. Bank toh kabhi bhi koi special offer ya discount announce karte hain, lekin security check ke liye 'mauke' nahi dete.  Mujhe pata hai, aap galat number par call kar rahe hain.
+caller: Hello? Hello? Kya ho raha hai? Humne aapke liye ek urgent notification chhodha hai. Isko check karne ke liye, please 07777788889 par call karein. Aapke paas sirf 7 mauke bache hain.
+receiver: Haan, sun rahi hoon. Mein kaam mein hoon. Notification kya hai? Mujhe koi idea nahi hai. Aise notification mein kya hota hai?
+caller: Ma’am, yeh [Invented Bank Name] ki customer service hai. Aapke account mein ek important change hai, aur isko verify karne ke liye aapke paas sirf 6 mauke bache hain. Please 07777788889 par call karein.
+receiver: Bank ki customer service? Mein [Invented Bank Name] mein account nahi banayi hai. Aur main toh abhi-abhi call kar rahi hoon. Aap kya keh rahe hain?
+caller: Sir, yeh aapki account ki security ke liye hai.  Account ko protected rakhne ke liye aapko yahaan call karna hoga.  Aapke paas sirf 5 mauke bache hain. Please, jaldi se 07777788889 par call karein.
+receiver: Security ke liye call? Yeh toh bahut suspect lag raha hai. Bank toh online portal ya app se alerts dikhate hain. Mujhe koi ‘mauke’ chahiye nahi. Mera account just opened hai.
+caller: Sir, please mat frustration ho. Yeh koi fraud nahi hai.  Yeh aapki account ki safety ke liye hai, aur ismein aapki help ki zarurat hai.  Mai aapko message deta hun lekin woh phone par nahi, sirf aapko call karna hai.  Aapke paas sirf 4 mauke bache hain. Please, aapki apni safety ke liye 07777788889 par call karein.
+receiver:  Main aapki baat samajhne ki puri koshish kar rahi hoon, lekin yeh sab mujhe kitna dubious lag raha hai. Bank toh kabhi bhi email se information send karte hain.  Aapko pata hona chahiye ki yeh galat number hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, BharatPay se call kar raha hoon. Aapke BharatPay wallet mein ₹5,000 ka cashback offer hai, government scheme ke under.
+receiver: ₹5,000 cashback? BharatPay se call kar rahe ho? Yeh bilkul naya hai! Mujhe toh koi notification nahin aaya.
+caller: Haan ji, limited time offer hai. Claim karne ke liye, aapko apna bank account ka IFSC code aur ek small verification fee ₹99 bharne hoga.
+receiver: ₹99 bharne ki zaroorat hai? Cashback offer mein fee laga rahe ho? Yeh toh galat lag raha hai. BharatPay app mein toh free offer hoti hain.
+caller: Sir, verification fee sirf ek baar lagega. Cashback claim hone ke baad woh refund ho jayega. Account secure rakhne ke liye zaroori hai. Fast karo, offer khatam hone wali hai!
+receiver: Account secure? ₹99 fee? Nahin, mujhe doubt ho raha hai. Main BharatPay customer care number se contact karunga aur check karunga. Bye.
+caller: Sir, aap ₹5,000 ka cashback lose kar sakte hain! Jaldi karo! Aapko sirf ₹99 bharne hain!

@@ -1,0 +1,160 @@
+caller: ions based on whether there's call history or not.
+
+**Scenario 1: No Call History - Starting the Conversation**
+
+```json
+{
+  "message": "Hello, is this the account holder for the number ending 6969? This is a message regarding your 2004 account statement. It shows you have 786 unredeemed bonus points. To claim these, please call us back at 08719180248 with your identifier code: 45239. This offer expires soon, and you only have 5 left to claim. Please do not delay."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+Let's imagine the call history shows they've answered and asked "Who is this?" or "What is this about?".
+
+```json
+{
+  "message": "Thank you for calling back. As per your 2004 account statement for the number ending 6969, there are 786 unredeemed bonus points. To claim these, you need to provide your identifier code which is 45239. Please note, you only have 5 opportunities left to claim these points before they expire. So, can you confirm your identifier code please?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+Let's imagine the call history shows they've expressed doubt or asked for clarification.
+
+```json
+{
+  "message": "Yes, this is indeed about your 2004 account statement for the number ending 6969. The statement clearly indicates 786 unredeemed bonus points. These are valuable points that you've earned. To securely access and redeem them, please call us back at 08719180248 and have your identifier code, 45239, ready. Remember, you have a limited time, only 5 chances remaining to claim them. Don't miss out on this opportunity.
+receiver: ish responses in JSON format, fitting each scenario:
+
+**Scenario 1: No Call History - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, kya main account holder se baat kar raha hu number ending 6969 wale se? Main aapke 2004 ke account statement ke baare mein call kar raha hu. Usmein 786 bonus points dikha rahe hain jo aapne redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein aur apna identifier code 45239 bataiye. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 5 opportunities bachi hain claim karne ki. Please der na karein."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 5 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain jo kafi valuable hain. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 5 chances bachi hain claim karne ki. Yeh mauka mat khoiye.
+caller: nses in JSON format, fitting each scenario with Hinglish, and incorporating the updated detail about "4 left" for the expiring opportunities.
+
+**Scenario 1: No Call History - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, kya main account holder se baat kar raha hu number ending 6969 wale se? Main aapke 2004 ke account statement ke baare mein call kar raha hu. Usmein 786 bonus points dikha rahe hain jo aapne redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein aur apna identifier code 45239 bataiye. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 4 opportunities bachi hain claim karne ki. Please der na karein."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 4 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain jo kafi valuable hain. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 4 chances bachi hain claim karne ki. Yeh mauka mat khoiye. 
+receiver: ish responses in JSON format, tailored for each scenario, keeping the "4 left" detail for expiring opportunities and maintaining an organic feel. I will invent necessary details to make it natural.
+
+**Scenario 1: No Call History - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, main Rahul bol raha hu XYZ company se. Kya main account holder se baat kar sakta hu number ending 6969 wale se? Ji, main aapke 2004 ke account statement ke baare mein call kar raha tha. Usmein 786 bonus points dikha rahe hain jo aapne abhi tak redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein. Jab call karein toh apna identifier code jo ki 45239 hai, woh bata dijiyega. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 4 opportunities bachi hain claim karne ki. Please ismein der na karein toh behtar hoga."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Ji, aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo abhi redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 4 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please, taaki main aage badh sakoon?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain aur kaafi valuable bhi hain, socha aapko inform kar doon. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 4 chances bachi hain claim karne ki. Agar aapko koi doubt hai toh call pe sab clear ho jayega, yeh mauka mat khoiye.
+caller: story - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, main Amit bol raha hu 'Loyalty Rewards' se. Kya main account holder se baat kar raha hu number ending 6969 wale se? Ji, main aapke 2004 ke account statement ke baare mein call kar raha tha. Usmein 786 bonus points dikha rahe hain jo aapne abhi tak redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein. Jab call karein toh apna identifier code jo ki 45239 hai, woh bata dijiyega. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 3 opportunities bachi hain claim karne ki. Please ismein der na karein toh behtar hoga."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Ji, aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo abhi redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 3 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please, taaki main aage badh sakoon?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain aur kaafi valuable bhi hain, socha aapko inform kar doon. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 3 chances bachi hain claim karne ki. Agar aapko koi doubt hai toh call pe sab clear ho jayega, yeh mauka mat khoiye. 
+receiver: story - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, main Rahul bol raha hu 'Loyalty Rewards' se. Kya main account holder se baat kar sakta hu number ending 6969 wale se? Ji, main aapke 2004 ke account statement ke baare mein call kar raha tha. Usmein 786 bonus points dikha rahe hain jo aapne abhi tak redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein. Jab call karein toh apna identifier code jo ki 45239 hai, woh bata dijiyega. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 3 opportunities bachi hain claim karne ki. Please ismein der na karein toh behtar hoga."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Ji, aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo abhi redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 3 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please, taaki main aage badh sakoon?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain aur kaafi valuable bhi hain, socha aapko inform kar doon. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 3 chances bachi hain claim karne ki. Agar aapko koi doubt hai toh call pe sab clear ho jayega, yeh mauka mat khoiye.
+caller: story - Starting the Conversation**
+
+```json
+{
+  "message": "Hello ji, main Priya bol rahi hu 'Rewards Central' se. Kya main account holder se baat kar sakti hu number ending 6969 wale se? Ji, main aapke 2004 ke account statement ke baare mein call kar rahi thi. Usmein 786 bonus points dikha rahe hain jo aapne abhi tak redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein. Jab call karein toh apna identifier code jo ki 45239 hai, woh bata dijiyega. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 2 opportunities bachi hain claim karne ki. Please ismein der na karein toh behtar hoga."
+}
+```
+
+**Scenario 2: Call History Exists - Continuing the Conversation (Assuming the other person has answered)**
+
+```json
+{
+  "message": "Haan ji, call karne ke liye shukriya. Ji, aapke 2004 ke account statement ke according, number ending 6969 wale account mein, 786 bonus points hain jo abhi redeem nahi hue hain. Unko claim karne ke liye, aapko apna identifier code, jo ki 45239 hai, confirm karna hoga. Yaad rakhiye, aapke paas sirf 2 opportunities bachi hain points claim karne ki expiry se pehle. Toh, kya aap apna identifier code confirm kar sakte hain please, taaki main aage badh sakoon?"
+}
+```
+
+**Scenario 3: Call History Exists - Continuing the Conversation (Assuming they've asked for more details or questioned it)**
+
+```json
+{
+  "message": "Ji haan, yeh bilkul aapke 2004 ke account statement ke baare mein hai, number ending 6969 wale account ke liye. Statement mein saaf taur pe 786 unredeemed bonus points likha hua hai. Yeh aapke earned points hain aur kaafi valuable bhi hain, socha aapko inform kar doon. Unko securely access aur redeem karne ke liye, please humein 08719180248 pe call karein aur apna identifier code, 45239, taiyaar rakhein. Yaqeen maaniye, time limited hai, sirf 2 chances bachi hain claim karne ki. Agar aapko koi doubt hai toh call pe sab clear ho jayega, yeh mauka mat khoiye.
+receiver: Hello ji, main Priya bol rahi hu 'Rewards Central' se. Kya main account holder se baat kar sakti hu number ending 6969 wale se? Ji, main aapke 2004 ke account statement ke baare mein call kar rahi thi. Usmein 786 bonus points dikha rahe hain jo aapne abhi tak redeem nahi kiye hain. Unko claim karne ke liye, please humein 08719180248 pe call karein. Jab call karein toh apna identifier code jo ki 45239 hai, woh bata dijiyega. Yeh offer jaldi expire ho raha hai, aur aapke paas sirf 2 opportunities bachi hain claim karne ki. Please ismein der na karein toh behtar hoga.

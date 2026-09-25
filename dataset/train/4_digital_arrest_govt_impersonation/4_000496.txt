@@ -1,0 +1,7 @@
+caller: Namaste sir, mai CBI se Rahul Sharma bol raha hoon. Aapke naam par ek parcel customs mein rok diya gaya hai, Mumbai airport par.
+receiver: CBI? Parcel? Mujhe toh koi parcel yaad nahi. Kya bata sakte hain parcel ka description?
+caller: Ji sir, parcel mein illegal currency aur narcotics mili hai. Aapka naam sender ke records mein dikh raha hai. Yeh ek serious matter hai.
+receiver: Illegal currency? Main toh kabhi parcel nahi bheja. Yeh thora ajeeb lag raha hai. Kya koi tracking number hai jo aap mujhe de sakein?
+caller: Sir, tracking number confidential hai. Aapko case settle karne ke liye ₹8000 kaatne padenge. Tabhi parcel release hoga aur case band hoga.
+receiver: ₹8000? Ek minute! Main police station mein report karunga, agar yeh fake nikla toh. Mujhe koi proof dikhao, koi official document. Main payment nahi karunga.
+caller: Sir, please. Yeh legal process hai. Agar aap payment nahi karenge, toh warrant nikal di jayegi aur aapko court mein haazir hona padega. Aapka time barbaad na karein, ₹8000 transfer kijiye.

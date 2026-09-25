@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sunita Verma? This is Aditya from BharatPay security. We’ve detected unusual activity on your BharatPay UPI account – several failed transaction attempts from an unknown device.
+receiver: Haanji, Sunita Verma bolti hoon. What unusual activity? I haven't tried to do anything.
+caller: Exactly, Mrs. Verma, that’s concerning. It indicates someone might be trying to access your account. For your safety, we need to quickly verify your identity and secure your funds. Can you please provide the last four digits of your Aadhaar card? Just to confirm it's you.
+receiver: Aadhaar number? Why do you need my Aadhaar number? BharatPay should already have that. This sounds suspicious.
+caller: Mrs. Verma, please understand, this is standard procedure to prevent fraud. We need to verify your identity immediately to lock the suspicious activity and protect your money. If you don't cooperate, we might have to temporarily freeze your account for security reasons. We can also send a one-time password to your registered mobile number for confirmation. Which would you prefer?
+receiver: Freeze my account? Okay, send me an OTP. But I’m still worried about giving out my Aadhaar details.
+caller: Wonderful, Mrs. Verma! I’ve just sent an OTP to your registered mobile. Could you please read it out to me so I can verify your identity? This is critical to secure your account before further attempts are made. It’s a six-digit number.
+receiver: Wait a minute. I just received a message from my bank saying to be wary of calls asking for OTPs and personal information. I think this is a scam. I’m hanging up now.

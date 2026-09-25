@@ -1,0 +1,8 @@
+caller: Namaste sir, Main Bharat Telecom Se Hua Hai. Apni number ki verification kar rahe hain, isliye apme six digit PIN code bheja hua hai. Plz bolna PIN code kya hai?
+receiver: Oh, thaak gaya. Ek minute sir, dekh leta hu main. Haan, aaya hai. Mera PIN code hai 7891. Aap ne kya kaha? Haan, 7891.
+caller: Achha sir, dhanyavaad confirmation ke liye. Ab verification shuru karne ke liye mujhe kuchh detailsin chetane hain. Kya aap mujhe apne debit card kee last four digits bata sakte hain jo apke Bharat Telecom number se linked hai?
+receiver: Debit card ke last four digits? Uhm, ek minute, mujhe check karna hoga. Just one moment please.
+caller: Haan sir, jaldi kijiye. Yeh verification process bahut important hai. Aur humare pass zyada time nahi hai. Agar aap yeh details nahi de sakte to hamara process rok jaayega. Plz, four digits bata dijiye debit card ke jo Bharat Telecom number se linked hai. Yeh bahut zaroori hai sir.
+receiver: Uhm, maaf kare sir. Mera debit card number abhi yaad nahi aa raha hai. Kya yeh zaroori hai? Koi aur tareeka hai verify karne ka?
+caller: Arre sir, yeh toh bahut zaroori hai. Apke Bharat Telecom number ko hamare system mein verify karne ke liye debit card details chahiye. Bina uske ham verification shuru nahi kar sakte. Kya aapko yaad nahi hai kaunse debit card ko aapne link kiya hai? Thoda attempt kijiye sir. Dekhiye, hamara time bhi waste ho raha hai aur aapka bhi.
+receiver: Sir, maine kahata tha na, mujhe sach mein yaad nahi aa raha hai. Kaunsa debit card link hai, woh maine kab se link kiya tha, mujhe dhyan nahi hai. Kya koi aur option nahi hai? Number pe message check kar sakte hain ya kuch aur?

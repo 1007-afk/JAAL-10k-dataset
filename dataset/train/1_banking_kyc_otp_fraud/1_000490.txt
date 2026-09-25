@@ -1,0 +1,16 @@
+caller: Namaste sir, main HDFC Bank se bol raha hun. Sir, humne aapko aapke debit card ki security check ke liye call kiya hai. Kya aap apna card verify karna chahte hain?
+receiver: Haan, bolie. Verify kyon kar raha ho? Mera HDFC mein koi debit card nahi hai.
+caller: Aapke HDFC mein koi debit card nahi hai? Sir, yeh kaise ho sakta hai? Shayad aap galat number de rahe honge. Ek baar apna number check karein sir. Main aapko ek OTP bhej raha hoon, wo bataiye fir hum check karte hain.
+receiver: OTP? Bhai sahab, mere paas to koi debit card nahi hai. OTP ka kya fayda hoga? Aur mera number sahi hai, aap galatey se phone laga rahe hain. Aap kisi aur ko phone lagaiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Naam? Mera naam Deepak hai. Aur mobile number jahan se baat kar rahi hun, woh 9876543210 hai. Dekho, aapne galat number mila liya hai. Mein HDFC mein koi account nahi rakhata.
+caller: , ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hun. Shayad koi typo ho gaya ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Deepak hai aur mobile number 9876543210 hai. Agar aapke paas mera number hai toh mera naam bhi dikha raha hai aapko. Sach mein HDFC mein mera koi account nahi hai. Lagta hai aapko kisi aur ko phone karna chahiye tha.
+caller:  Aapka naam Sanjay hai, hai na? Main ICICI Bank se bol raha hun. Sir, humne aapko aapke online banking ki details update karne ke liye call kiya hai. Kya aap apni details update karna chahte hain?
+receiver: Haan bolie, lekin mera ICICI mein koi online banking nahi hai.
+caller: Aapka ICICI mein online banking nahi hai? Sir, yeh kaise ho sakta hai? Shayad aap galat number de rahe honge. Ek baar apna number check karein sir. Main aapko ek OTP bhej raha hoon, wo bataiye fir hum check karte hain.
+receiver: OTP? Bhai, mere paas to online banking nahi hai. OTP ka kya hoga? Aur mera number sahi hai, aap ne galat jagah phone laga diya hai. Kisi aur ko phone lagaiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Naam? Mera naam Priya hai. Aur mobile number jahaan se baat kar rahi hun, woh 8765432109 hai. Dekho, aapne galat number mila liya hai. Mein ICICI mein koi account nahi rakhti.
+caller: , ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hun. Shayad koi typo ho gaya ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Priya hai aur mobile number 8765432109 hai. Agar aapke paas mera number hai toh mera naam bhi dikha raha hai aapko. Sach mein ICICI mein mera koi account nahi hai. Lagta hai aapko kisi aur ko phone karna chahiye tha.

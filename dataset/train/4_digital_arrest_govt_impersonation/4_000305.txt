@@ -1,0 +1,8 @@
+caller: Namaste, main Inspector Verma, Central Goods and Services Tax (CGST) department se call kar raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items mile hain. Is matter mein aapko zaroorat hai ek clarification dene ke liye.
+receiver: CGST department? Illegal items? Mujhe koi parcel nahi mila. Aur main toh kabhi parcel order bhi nahi karta.
+caller: Dekhiye, parcel aapke naam se aaya hai, aur isi liye hamein aap se baat karni pad rahi hai. Is parcel mein suspicious items hain, jisein drug trafficking se link kiya ja sakta hai. Yeh matter bahut serious hai, aur aapko urgently 9876543210 pe call karna padega.
+receiver: Drug trafficking? Yeh toh bakwaas hai! Main kabhi bhi drugs nahi chahunga. Mujhe yeh parcel kis address pe aaya hai, batao? Aur mujhe koi official ID card bhi dikhao tumhara.
+caller: ID card main tumhe nahi dikha sakta, yeh departmental policy hai. Lekin main tumhe assurance deta hoon ki hum sach bol rahe hain. Parcel Delhi mein aaya hai, aur ismein kuchh chemicals mile hain. Isko clear karne ke liye, aapko ₹5000 ka fine pay karna hoga.
+receiver: ₹5000? Fine? Tum logo ko yeh kahan ka rule hai? Main police mein report karunga agar tumne mujhe lootne ki koshish ki.
+caller: Police mein report karo, karo! Ye matter bahut serious hai, aur aapki arrest warrant bhi nikal sakti hai. ₹5000 pay karo, aur sab clear ho jayega. Time bahut kam hai.
+receiver: Arrest warrant? ₹5000? Tum harami ho! Main abhi police ko call kar rahi hun aur tumhara number block kar rahi hun.

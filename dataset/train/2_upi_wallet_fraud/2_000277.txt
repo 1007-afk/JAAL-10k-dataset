@@ -1,0 +1,6 @@
+caller: Hello, is this Rohit Sharma? I'm calling from Freecharge. There’s a new government scheme offering a cashback of ₹7500 on all digital transactions.
+receiver: Oh really? ₹7500? That’s a lot. I use Freecharge, but I haven't heard anything about this.
+caller: Yes, it’s a limited-time offer. To activate it, we just need your linked bank account details so we can process the cashback directly. It’s very simple.
+receiver: Wait a minute. I’ve never had Freecharge ask for my bank details before. Usually, the cashback goes straight to my Freecharge wallet, right? This sounds a bit suspicious.
+caller: Sir, due to high traffic, there's a temporary processing update. This is to ensure every eligible user receives their cashback quickly. Don't worry, it’s completely secure. We need just the last four digits of your account number to verify.
+receiver: I'm still not comfortable with this. I’ll contact Freecharge’s official customer support myself to confirm. I'm not giving out any bank details over the phone. I’ll disconnect now.

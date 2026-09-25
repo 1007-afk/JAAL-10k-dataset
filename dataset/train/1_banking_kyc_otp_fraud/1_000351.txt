@@ -1,0 +1,21 @@
+caller: Haanji, aapko reference number se hamari customer care mein baat karna hoga - number hai [Invented Customer Care Number - e.g., 1800-888-9999]. Woh aapko sab kuch details mein samjhayenge. Jo payment ki koshish hui hai, woh internet mein hui thi – humne usko immediately stop kar diya hai. Please, sir/madam, agar aap apni services secure karna chahte hain, toh please aapka account number confirm karein.
+receiver: Okay, okay. Fine. Mera account number hai [Your Account Number - e.g., 1234567890]. Confirm karein.
+caller: Thank you very much! We have confirmed your account. Your services are now secured. You will receive a confirmation email shortly. Dhanyavaad!
+caller: Hello? Sir/Madam, this is a critical security update from ‘SecureNet Solutions’ regarding your mobile device. We've identified potential vulnerabilities and require immediate verification to safeguard your data. Can you please provide your IMEI number? It’s essential for our system.
+receiver: Haan ji, kaise hain? IMEI number? Mobile device mein IMEI number kahaan hota hai? Main samajh nahi karta yehi.
+caller: Don’t worry, it’s quite simple. The IMEI number is a unique identifier for your phone. It's usually found in your phone’s settings menu. Just go to Settings -> About Phone -> Status Information and you’ll find it listed there. Now, please provide that number so we can proceed with securing your device.
+receiver: Settings… About Phone… Status Information... Haa, dekha. Ye number hai [IMEI Number - e.g., 354678901234567]. Yeh kya hai? Yeh SecureNet Solutions ko kya hai?
+caller: Excellent! That’s exactly what we needed. Now, we need to confirm this number against our database to ensure its authenticity. To do this, could you please answer a quick security question? What was your mother's maiden name?
+receiver: Maa ki mata! Kya? Maa ki maa ka naam? Main woh number kyun de raha hoon? Yeh kitni strangeli hai! Mein ispe rahat nahi karta.
+caller: Sir, this is a standard security protocol. We take data protection extremely seriously. Providing this information confirms your identity and helps us prevent unauthorized access to your device. Think of it as a small step to keep your personal information safe.
+receiver: Par main isko genuinely feel nahi karta. Yeh number toh main online search bhi kar sakta tha. Ismein koi risk hai kya? Mujhe mat bolna ki yeh secure hai, mujhe risk samajhna hai.
+caller: There’s absolutely no risk. We assure you that your information is encrypted and stored securely on our servers. We just need to verify your identity before implementing the necessary security updates. It only takes a moment. Please, just tell us your mother’s maiden name.
+receiver: Okay, okay. Fine. Maa ki maa ka naam... [Mother's Maiden Name - e.g., Devi]. Yeh hai.
+caller: Thank you! That’s correct. Your device is now being protected. You will receive a notification within 24 hours confirming the update. Shukriya!
+caller: Hello? This is Urgent Security Alert from ‘Digital Shield Technologies’ concerning your online banking account. We’ve noticed unusual login attempts and want to verify your identity to prevent fraudulent activities. Kindly provide your registered email address.
+receiver: Haan, suno. Unusual login attempts? Mujhe samajh nahi aaya. Mein online banking karta hoon, par kabhi aisa nahi hua. Kya ho raha hai? Mere email id ka kya lena dena hai?
+caller: We apologize for any inconvenience. We’re detecting suspicious logins originating from unfamiliar locations. To safeguard your funds, we need to confirm that you are the legitimate owner of this account. Providing your email address allows us to send you a verification link.
+receiver: Verification link? Kya hai yeh? Mein email nahi check karta. Jab check karta hoon, toh ads aur spam message hi milte hain. Is link mein kya hai?
+caller: The link will direct you to a secure page where you’ll complete a simple verification process. It's completely automated and takes less than a minute. Just provide your email address so we can send it to you.
+receiver: Email id hai [Email Address - e.g., rajesh.kumar@example.com]. Lekin main unko email nahi bheeg sakta. Mein unka address nahi pata.
+caller: Please don't worry about that. We

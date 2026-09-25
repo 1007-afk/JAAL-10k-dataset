@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Ankit calling from QuickLoan India. We saw you filled out a loan application recently. Just need to confirm a few details. Do you have a recent photograph on your phone?
+receiver: Hello, yes I do. What’s this about? I don't remember applying for a loan.
+caller: It's alright sir, we can sort this out.  Just to verify, could you please share the application ID you received when you initially applied? It should be six digits long.
+receiver: Let me check... I think it’s GHI567.
+caller: GHI567, confirmed! Excellent. Now, a small verification process requires you to share a picture of your PAN card. It’s for security reasons.
+receiver: My PAN card? That seems a bit risky. Are you sure this is necessary?
+caller: Sir, it's standard procedure. Without this, we can't process your loan.  Once verified, you’ll get ₹50,000 in your account within the hour.
+receiver: Okay, fine. Here’s the picture of my PAN card.
+caller: Thank you sir.  We see a slight blur. Please send a clearer image, and also, for extra verification, please send a photo of your Aadhar card too. We need to be absolutely certain it’s you.

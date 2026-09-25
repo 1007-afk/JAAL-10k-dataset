@@ -1,0 +1,8 @@
+caller: “Namaste, Airtel customer service mein bol raha hoon. Aapkaa prepaid card 24 hours mein expire ho jayega. Kya aap isko renew karwana chaahe?”
+receiver: “Haanji, Airtel se? Aise kya bol rahe hain aap? Mera card expire ho jayega? Yeh to bilkul sahi nahi hai. Mere side se koi problem nahi hai, shayad network mein kuch gadbad hai.”
+caller: “Sir, darrne ka koi zaroorat nahi hai. Hum check kar rahe hain aapke account mein. Aapkaa complete name aur aadhaar number bataaye please?”
+receiver: “Mere naam ka address hai Vijay Kumar. Aur mera Aadhaar number hai 7894561230. Aap bataiye, ismein kya pata hai?”
+caller: “Thank you Vijay ji. Aapkaa number 7894561230, correct hai na? Sir, hamara system update hone ka process chal raha hai. Isiliye aapkaa prepaid card automatically suspend hone wala hai. Hum isko jaldi fix kar sakte hain. Bas aapko ek verification code enter karna hoga. Verification code mil gaya hai kya?”
+receiver: “Verification code? Kaisa verification code? Mujhe to koi code nahi mila abhi tak. Aap ye kya bol rahe hain? Phone par koi code bheja diya hai kya aapne? Yeh sab kya ho raha hai?”
+caller: “Haan, sure. Woh code aapke registered WhatsApp number pe gaya hoga. Hamare system mein woh automatic process hai. Kindly woh code bataiye taaki hum aapkaa card activate kar sakein. Please sir, time bahut kam hai.”
+receiver: “WhatsApp? Arey, mera WhatsApp number aapke paas registered hoga na? Mujhe WhatsApp check karne padega abhi. Yeh sab itna complicated kyu hai? Main abhi WhatsApp check karta hoon aur agar code mila toh bataunga. Please thoda wait karein.”

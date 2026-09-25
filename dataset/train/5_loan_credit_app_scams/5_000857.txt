@@ -1,0 +1,9 @@
+caller: Namaste! Ji haan, main Rahul bol raha hoon, FastLoan India se. Aapko urgent loan ki zaroorat hai kya? ₹15,000 se ₹80,000 tak ka loan, jald se jald. Koi bhi credit history, koi sawal nahi. Aapka naam bataiye?
+receiver: Haan, ji. Mera naam Rajesh hai. Aur haan, loan ke bare mein janna tha.
+caller: Acha Rajesh ji, bahut achha. Aapko kitni amount chahiye, aur kya yeh loan aap kis kaam ke liye chahte hain? Kuch urgent hai kya?
+receiver: Mujhe ₹40,000 chahiye, mere papa ka ilaaj ke liye. Doctor ne paise maange hain.
+caller: Rajesh ji, bahut bura suna, lekin FastLoan India mein hum aapki madad karenge. Aapki dob bataiye, aur kitne saal se aap is address par rehte hain?
+receiver: 12/05/1988 hai meri dob. Aur main last 5 saalon se yahan rehta hoon.
+caller: Bahut achha Rajesh ji. Ab, humko aapka bank account number chahiye, aur aapki ek photo. Photo sirf verification ke liye hai, promise.
+receiver: Photo? Verification ke liye photo? Aur bank account number?
+caller: Haan ji, Rajesh ji. Photo se hum verify karenge ki aap wahi hain jo aap batate hain. Aur bank account number se paise aapke account mein jayenge. Koi tension nahi lene ka. Abhi photo send karein.

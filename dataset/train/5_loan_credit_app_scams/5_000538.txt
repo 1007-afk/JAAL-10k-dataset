@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya Verma? We're calling from 'QuickCash Advance'. Congratulations! You've been pre-approved for a personal loan of ₹75,000! Just a few quick details to confirm, and the money will be transferred to your account within the hour. Can you verify your date of birth for me?
+receiver: Haan, main Priya Verma hoon. ₹75,000 ka loan? Really? Date of birth… it's 14th August, 1992.
+caller: Excellent, Priya ji! That matches our records. Now, to activate your loan, we need you to pay a small processing fee of ₹2,500. This is just to cover the verification charges. You can pay it via UPI to this ID: 8765432109@ybl. Can you do that?
+receiver: ₹2,500? Processing fee? I didn't see anything about a processing fee when you said I was pre-approved.
+caller: Priya ji, it’s a standard procedure. Many people try to take advantage of offers like this. This fee ensures your application is genuine. Just a small sacrifice for a big benefit! Transfer the amount and I'll give you the reference number to confirm. We need to process this quickly, as this offer is only valid for the next 15 minutes!
+receiver: Okay, fine. I'll transfer the money. But after that, I expect the loan to be credited immediately.
+caller: Perfect! The money has been received. Now, to fully activate your loan and avoid any complications, we need you to share a screenshot of your WhatsApp contacts. It’s a security measure to prevent fraudulent applications, Priya ji. Just a quick snapshot, and we'll have your loan processed in minutes!

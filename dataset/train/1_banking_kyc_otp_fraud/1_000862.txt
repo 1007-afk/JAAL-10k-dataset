@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Verma? My name is Priya from Paytm Financial Services. We've noticed some unusual activity on your Paytm wallet and need to verify your identity to prevent fraudulent transactions.
+receiver: Paytm? Kya baat hai? Unusual activity? Woh kya hua? I haven't done anything different.
+caller: Sir, a recent transaction of ₹7,500 to an unknown merchant is showing. We just need to confirm this transaction and update your KYC details to ensure your wallet’s security. Can you please provide your Aadhaar number for verification?
+receiver: Aadhaar number? Over the phone? That sounds risky. Paytm sends SMS, na? Why do you need Aadhaar?
+caller: Sir, this is a new security protocol implemented by RBI. For high-value transactions, Aadhaar verification is mandatory. If you don’t cooperate, your wallet will be temporarily suspended. We need to act fast. We will also need the OTP sent to your registered mobile for complete verification.
+receiver: Suspended? Okay, wait a minute. Let me just quickly check the Paytm app myself… Give me two minutes. I'll call you back.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash from PhonePe Security. We’re calling about a cashback offer on your recent purchase from Reliance Digital.
+receiver: PhonePe? Cashback? Reliance Digital se toh kuch purchase nahi kiya tha. Kya offer hai?
+caller: Yes, ma’am. As a thank you for being a loyal PhonePe user, you've been selected for a special ₹500 cashback bonus. To claim it, we just need to verify your account. It’s very simple.
+receiver: ₹500 cashback? Kaise verify karoge? Mere PhonePe account ka kuch bhi details check karna hai?
+caller: Just a quick OTP verification, ma’am. We’ll send a one-time password to your registered mobile number.  Please provide it to us so we can activate the cashback. It’s to prevent fraud, you see.
+receiver: OTP? PhonePe app pe toh kuch notification nahi aaya. Aur main koi OTP phone pe nahi dunga. Yeh scam lag raha hai.
+caller: Ma’am, sometimes there’s a slight delay. Let me check your details… *pause*… Ah, yes, it seems there's a slight issue. To bypass this, can you quickly share the last three digits of your bank account number linked to PhonePe? It'll help us override the system error and ensure you receive your cashback.
+receiver: Bank account number? Bahut hi se hai yeh. Main OTP bhi nahi dunga, aur bank account number bhi kyun doon? Yeh phonepe wala offer jhootha hai. Main police mein complaint karungi.

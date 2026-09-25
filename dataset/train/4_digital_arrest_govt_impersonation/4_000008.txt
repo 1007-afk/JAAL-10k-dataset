@@ -1,0 +1,28 @@
+caller: Hello? Kaise haal hain? Main Vinod Kumar hoon, India Government Tax Department se. Aapke phone mein ek maliya ka problem hai, aur main aapko uska solution batawana chahunga.
+receiver: Haan? Kya ho raha hai? Mein samajh nahin sakta. Kya aap mujhe phir se samjhayein?
+caller: Sorry, sorry. Main Vinod Kumar hoon, India Government Tax Department se. Aapke bank account mein ek small mistake hai, jisse aapki tax return mein problem aa rahi hai.  Aapko sirf ek small verification process karna hai.
+receiver: Tax return? Mein tax return nahi karta. Aap kaise jaanta?
+caller: Haan, woh tumhare bank account ki information par mila hai.  Aapko sirf ek small confirmation lena hai - aapka home address, sahi hai na?  Yeh ek important matter hai, aur hum chahte hain ki aapki tax return file hone wali hai.
+receiver: Mera address Delhi mein hai, Greater Kailash.  Kya aapko yeh address dikhana hai?
+caller: Haan, mujhe dikhana hai.  Main abhi aapko ek screenshot bhejna chata hun, agar tumhara mobile camera open hai.  Yeh sirf aapki safety ke liye hai.
+receiver: Mobile camera kyon?  Mein camera khol sakti hun.  Aapko meri address dikhana bhi nhi chahiye. Yeh bahut suspesh lag raha hai.
+caller:  Haan, maaf karna.  Yeh ek automated system hai.  Aapko sirf ek small code number entry karna hai, jo aapko SMS se milega.  Code number likhkar mujhe bataiye.
+receiver: Code number?  Mereko SMS mein code milega?  Kab milega?
+caller:  Iske liye mujhe aapka debit card number chahiye.  Yeh verification ke liye zaruri hai.
+receiver: Debit card number?!  Mujhe aisa koi bhi number mat bataana.  Mein samajh gaya, aapki scam hai.  Maine phone band kar diya.
+caller:  Aapko maaf karna, sir.  Hummein confusion hogaya.  Shubh din aapka!
+caller: Hello? Kaise chal raha hai? Main Sanjay Patel hoon, National Security Agency se. Aapke computer mein ek virus mili hai, aur main aapko uska solution batana chahunga.
+receiver: Haan? Kya bol rahe hain? Mujhe samajh nahi aaya. Please samjhayein.
+caller: Sorry, sorry. Main Sanjay Patel hoon, National Security Agency se. Aapke internet connection mein ek problem hai, aur main aapko uska solution batana chahunga. Hum ne aapko online survey ke liye invite kiya tha, lekin aapne response nahi diya.
+receiver: Online survey? Maine aisa kuchh nahi kiya. Mein samajh hi nahi sakta.
+caller: Haan, woh aapke IP address par mila hai. Aapko sirf ek small checkup karna hai – aapka city kitna bada hai?
+receiver: Mumbai mein rehta hu. Mumbai ek bada shehar hai.
+caller: Haan, woh sahi hai. Par, ek small detail chahiye. Aapko apni birthdate bataani hogi, sirf 10 digit numbers mein. Yeh sirf aapki profile update karne ke liye hai.
+receiver: Birthdate? Mein apne birthdate kyun bataonga? Yeh bahut strang hai.
+caller: Haan, yeh ek compulsory field hai. Aapko sirf ek small step karna hai, aur aapki profile complete ho jayegi. Aapko apna pincode bhi bataana hoga.
+receiver: Pincode? Mera pincode 400001 hai.
+caller: Haan, 400001. Ab aapko ek small code number SMS se milega. Code number dikhao mujhe.
+receiver: Code number? Mereko SMS se code milega? Kya aap mere OTP ko dekh sakte hain?
+caller: Haan, main dekh sakta hun. Yeh aapki safety ke liye hai. Aapko sirf code number entry karna hai.
+receiver: No, no! Main kisi ko apni code nahi deta. Mein samajh gaya, ye scam hai. Maine phone band kar diya.
+caller: Aapse maaf karna, madam. Hummein confusion hogaya. Shubh ratri!

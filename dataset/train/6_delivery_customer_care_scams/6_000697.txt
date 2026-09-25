@@ -1,0 +1,6 @@
+caller: Namaste! Main Flipkart Customer Care se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai. OTP ke bina hum deliver nahi kar sakte, security ke liye.
+receiver: Flipkart? Parcel? Mujhe koi order kiya tha toh yaad nahi. Aur OTP? Main kahan OTP mila?
+caller: Haan ji, aapko recently ek smart watch ka order kiya tha. Order ID hai FLP789456. Aapke registered mobile number par OTP aa gaya hoga. Please bataiye, taaki hum parcel deliver kar sakein.
+receiver: Smart watch? Maine toh kabhi nahi maanga. Aur OTP bhi nahi mila. Yeh kya ho raha hai?
+caller: Ms. [Receiver Name Invented – e.g., Anjali Sharma], OTP check karein. Zaroor aaya hoga. Yeh bahut important hai, kyunki parcel mein sensitive items hain. Jaldi bataiye, otherwise parcel return ho sakta hai.
+receiver: Sensitive items? Par maine toh kuch order kiya hi nahi! Yeh bahut hi suspicious lag raha hai. Main police mein report kar dungi agar aapne mujhe disturb karna chalu rakha.

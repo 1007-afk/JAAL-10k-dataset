@@ -1,0 +1,7 @@
+caller: Hello Sir, this is Rohan calling from BlueSwift Courier. We have a package addressed to you, but there’s a delivery issue. It requires a small verification fee of ₹750 to proceed.
+receiver: ₹750? What kind of verification? I wasn’t expecting any package that would require a fee.
+caller: Sir, it’s a security protocol. A new regulation, you see. We need to confirm the recipient's details and ensure the package isn't being sent to the wrong address. Please send the payment to this UPI ID: 9876543210@ybl.
+receiver: Wait a minute. BlueSwift Courier? I don’t recognize this number, and I’m not comfortable sending money through UPI without knowing what this is about. Can you give me a tracking number or a reference number?
+caller: Sir, the system generated a temporary reference number - BW22487. But, to activate it, we need the one-time password (OTP) sent to your registered mobile number, for verification purposes. It’s a simple process, Sir.
+receiver: OTP? Seriously? This is getting suspicious. Why do you need my OTP just to verify a payment? I’m going to call BlueSwift directly to confirm this.
+caller: Sir, time is of the essence! The package is currently at our regional hub, and it can't be released without the OTP verification. This is a one-time opportunity, Sir! Don't miss it, otherwise the package will be returned to sender.

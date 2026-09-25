@@ -1,0 +1,7 @@
+caller: Namaste, main Paytm se Sunil bol raha hoon. Aapko pata hai na, Paytm Cashback Offer chal raha hai?
+receiver: Haan, sunta hoon. Paytm toh main use karta hoon bilkul. Kya offer hai?
+caller: Sirf limited time ke liye, ₹10,000 cashback offer hai Paytm se. Par isko claim karne ke liye, aapko ek small processing fee bharvani padegi.
+receiver: ₹10,000 cashback? Aur processing fee kitni hai?
+caller: Sirf ₹500, ji. Paytm wallet se bhar den aap. Mein aapko UPI ID de dunga.
+receiver: ₹500 processing fee?  Hmm, thoda dubiously lag raha hai.  Dekhiye, main sochkar bataata hoon.
+caller: Sir, offer abhi khatam hone wala hai! ₹500 bhar den, ₹10,000 cashback aapka hoga. UPI ID hai 8765432109@yppaisa. Jaldi karein!

@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma bolta hoon, Flipkart customer care se. Aapki ek saree ki delivery mein thodi problem aa gayi hai.
+receiver: Oh, really? Which saree is it? I ordered a silk saree last week. My order number is FLP7890123.
+caller: Haan ji, wohi order. Tracking details ke according, delivery agent ko address mil nahi pa rahi hai. Aapka OTP check karwa len, phir main usko update karwa dunga.
+receiver: OTP? Why do I need to give you my OTP? That seems suspicious. Is this really Flipkart?
+caller: Ji, security ke liye zaroori hai. OTP se main confirm karunga ki aap sahi owner hain. OTP bhejo, aur saree aapke paas pohanchegi.
+receiver: No, I'm not comfortable sharing my OTP. I'll call Flipkart's official number directly to verify. Thank you.
+caller: Abhi aapko saree nahi milegi, aur refund bhi nahi hoga. Koi aur number try karo!

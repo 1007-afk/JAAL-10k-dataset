@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Sunil Sharma bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai – ₹15,000 ka online transfer, jo aapne nahi kiya hai. Aapki account security ke liye, humein kuch details verify karni hogi.
+receiver: Haan, theek hai. Main abhi check karta hoon. ₹15,000? Woh kitne baje hua transaction tha?
+caller: Sir/Madam, yeh transaction aaj subah 9:15 baje hua tha. Aapko jald se jald confirm karna hoga, warna humko account suspend karna padega. Security ke liye, mujhe aapka OTP bataiye jo aapko SMS mein aaya hai.
+receiver: Account suspend? Paagal ho gaya kya? OTP kyun doonga? Main Axis Bank ka customer hoon, mujhe toh koi OTP nahi aaya.
+caller: Sir/Madam, ghabraiye nahi. OTP sirf verification ke liye hai, aapki security ke liye. Woh OTP, jo aapko aapke registered mobile number pe aaya hai, woh bataiye. Agar aap OTP nahi denge, toh humko account freeze karna padega.
+receiver: Freeze? Wait a minute. Main apne Axis Bank app pe check karta hoon. Aacha, OTP nahi mila. Aur aap ka phone number bhi check karta hoon…Yeh toh unknown number hai. Scam hai yeh!
+caller: Sir/Madam, please don’t be alarmed. This is a genuine security protocol. For your safety, please call our secure helpline on 9876543210 and speak to a representative with reference ID AB-SEC-2024. Thank you.

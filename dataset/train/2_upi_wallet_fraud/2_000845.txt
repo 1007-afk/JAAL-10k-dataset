@@ -1,0 +1,7 @@
+caller: Hello sir, this is calling from Paytm support. We've detected some suspicious activity on your Paytm wallet.
+receiver: Oh really? What kind of activity? I haven’t done anything unusual.
+caller: Sir, a transaction of ₹2500 was attempted to a new merchant. To secure your account, we need to verify you. We’ll send you a one-time password (OTP) to your registered mobile number.
+receiver: Okay, send the OTP. But why didn’t I receive any notification about this transaction?
+caller: Sir, the system automatically flagged it due to unusual patterns. It's for your safety. Please share the OTP as soon as you receive it, so we can quickly block the suspicious transaction and keep your wallet secure. Don't delay sir, fraudsters are very clever these days.
+receiver: Right, I got the OTP. Let me check... wait a minute. Why is this Paytm support number showing as a Delhi number? I thought Paytm's helpline would be from Bangalore.
+caller: Sir, we are routing calls from different locations to manage high call volumes. Don't worry about that, just tell me the OTP to process your verification.

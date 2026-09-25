@@ -1,0 +1,8 @@
+caller: Namaste, is this Anjali Verma speaking? This is Inspector Rajesh Kumar from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Ji, Inspector Kumar? Haan, main Anjali Verma hi hoon. Kya hua? Package? Mujhe toh koi package nahi mila.
+caller: Madam, our scanners detected illegal substances inside. We need to confirm your involvement. It's a serious matter – potential involvement in drug trafficking. To clear this up quickly, we need you to verify your identity. Can you please provide your Aadhaar card number for confirmation?
+receiver: Aadhaar card number? Inspector saab, yeh kya baat kar rahe hain aap? Main toh kabhi nahi order kiya koi package. Aur Aadhaar card number phone pe dena? It’s not safe.
+caller: Madam, understand that this is a security protocol. We need to confirm you are not being impersonated. A small amount, just ₹5,000, needs to be deposited as a processing fee to release the package and clear your name. It’s a refundable amount, once the verification is complete. You can use UPI.
+receiver: ₹5,000? And you want me to pay this over the phone? Inspector saab, mujhe yeh kuch galat lag raha hai. Main police station jaungi aur complaint karungi.
+caller: Madam, don’t be hasty! This is to avoid further legal complications. If you refuse, we will have to escalate this to the higher authorities, and you will face arrest. The UPI ID is 888888@axisbank. Please, cooperate and we can resolve this quickly.
+receiver: Arrest? Okay, wait. Just... let me check something. I’m calling my husband.

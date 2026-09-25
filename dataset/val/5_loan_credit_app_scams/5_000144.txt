@@ -1,0 +1,8 @@
+caller: Hello, this is Rohit from SwiftLoanz. We’ve noticed you recently applied for a personal loan through our app. Just confirming some details to process it quickly. Can I get your full name, please?
+receiver: Hi, yes. My name is Anjali Verma. I did apply, but haven't heard anything back yet.
+caller: Wonderful, Anjali Verma. Your application looks promising. To finalize the approval, we need to verify a small security deposit – just ₹500 to activate your account and protect against fraudulent activity. You can deposit it using UPI to the number 9876543210.
+receiver: ₹500? I don't remember seeing anything about a deposit in the app. It sounded too good to be true, honestly.
+caller: Yes, it’s a new security protocol we’ve implemented for all our clients. It’s for your safety and to prevent unauthorized access to your loan details.  Without it, we can’t proceed. This is a one-time payment only. Just send ₹500 to that UPI and share the transaction ID with me.
+receiver: Okay, let me just check... It's gone through. The transaction ID is 1234567890. So, once I send this, my loan will be approved?
+caller: Absolutely, Anjali! You’ve made a great choice. Now, a slight adjustment – due to increased security measures, we require an additional processing fee of ₹2,000 to release the funds. It’s a temporary hold that will be refunded once your loan is fully disbursed.
+receiver: Another ₹2,000? This is ridiculous! I’m calling the police.

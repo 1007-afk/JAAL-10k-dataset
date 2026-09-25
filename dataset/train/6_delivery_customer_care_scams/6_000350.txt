@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Amazon Customer Care se Rahul bol raha hoon. Aapke naam par ek order aaya hai, ID number XYZ123, lekin payment processing mein ek choti si problem aa rahi hai.
+receiver: Oh, okay. Amazon se call hai? Koi payment issue hai? Mujhe toh koi order yaad nahi aa raha.
+caller: Haan sir, dekhiye, system mein dikh raha hai ki aapne kuch electronics order kiya hai. Payment confirm karne ke liye, please apna OTP bataiye jo aapko SMS mein mila hai.
+receiver: OTP? Sir, mujhe koi SMS nahi mila. Aur main toh online shopping kabhi-kabhi hi karta hoon. Thoda wait kar ke dekhta hoon, shayed OTP aa jaye.
+caller: Sir, yeh offer sirf limited time ke liye hai. Agar aap OTP nahi de payenge, toh order cancel ho jayega aur aapko refund bhi nahi milega. Zyadah der na karein, sir.
+receiver: Acha! ₹2000 ka order hai kya? Aur ₹1000 ka refund nahi milega? Chalo, dekhte hain… wait kar ke dekhta hoon. ₹2000 ka electronics? Mujhe toh kuch yaad nahi.
+caller: Haan sir, ₹2100 ka Smartwatch hai, brand XYZ. ₹1000 refund process mein time lega, sir. Aapka trust important hai, OTP de dijiye aur order secure ho jayega.
+receiver: Theek hai, theek hai. Chalo, OTP hai… 123456. Lekin yeh smartwatch mujhe yaad nahi, aur refund mein itna time kyun lega?

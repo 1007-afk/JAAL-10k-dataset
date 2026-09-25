@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat Vikas Nigam se baat kar raha hun. Tumhara naam Vikram Singh hai na? Hum ne tumhein Diwali Mela ka sponsorship ke liye select kiya hai. ₹50,000 ka cheque tumhein milega, ya ek exotic vacation India ke andar! Kya tum excited ho?
+receiver: Namaste ji! Achcha haal hai. Vikram Singh? Haan, woh mera naam hai. ₹50,000 ka cheque ya vacation? Wah, yeh bahut achhi khabar hai! Main interested hoon. Main Sanjay Kumar hoon.
+caller: Shubh kaam karte hain Sanjay ji! Tumhari excitement dekhkar bohot khushi hui. Abhi humein kuch basic information confirm karne honge. Tumne Diwali Mela mein kitna participation kiya tha? Aur kya tum Delhi mein reside karte hain? Just checking, you know, for security reasons.
+receiver: Haan ji, Diwali Mela mein main stall set up kiya tha, lekin mujhe nahi pata ki kitna participation kiya tha. Aur main jab Delhi mein rahata tha, woh 2 saal purana baat hai. Main ab Mumbai mein rehta hoon.
+caller: Ah, okay Sanjay ji. Koi problem nahi. Tumhare stall ki location kya thi? Aur kya tummein bank account number bhi chahiye, agar aap cheque receive karna chahte hain? Just confirming everything, it’s important.
+receiver: Stall toh Connaught Place mein tha. Bank account number? Mein woh disclose karna chaahe nahi. Mujhe cheque hi lena hai.
+caller: Okay, okay. Toh, Connaught Place mein stall tha. Lekin humein sirf confirmation ki zaroorat hai ki tumhi Sanjay Kumar ho jo Diwali Mela mein participate kiya tha. Tumhara bank account number tumhare privacy ke liye safe hai. Tum apna address batao, phir hum check karenge.
+receiver: Mera address hai 7, Shivaji Marg, Mumbai, Maharashtra 400020. Wohi jo maine Diwali Mela mein registration karte samay diya tha. Ab ho gaya verification?
+caller: Haan Sanjay ji, verification ho gaya! Tumhari details correct hain. Tumhein ₹50,000 ka cheque mail se send kar dunga. Enjoy your trip!

@@ -1,0 +1,8 @@
+caller: Haanji sir, I am from Airtel customer care. We are doing a verification of your number, for which a four-digit OTP has been sent to your phone. Can you please tell me that OTP?
+receiver: Haanji, ek minute ruk jao. Phone pe aaya nahi abhi tak.
+caller: Haanji sir, thoda time lag sakta hai. Agar nahi aaya to ek baar aap apna phone restart karke check kar sakte hain? Wahi se shayad jaldi aa jaye. Ya fir main aapko dobara bhej du?
+receiver: Haanji, theek hai. Ek minute rukta hoon. Agar nahi aaya to main restart kar leta hoon phone. Aap fir se bhej dijiye agar zaroori ho toh. Kya naam hai aapka, ji?
+caller: Haanji sir, mera naam hai Rahul, Airtel customer care se. Aapke number pe OTP abhi bhi nahi aaya hai? Koi baat nahi, ek baar aap phone ko aeroplane mode pe daal ke ek minute baad wapas normal kar lijiye. Ya main aapko ek aur baar bhej deta hoon?
+receiver: Arre haanji, yeh plane mode wala try karta hoon. Aapse baat karke achha laga Rahul. Dekhte hain ab aata hai kya OTP. Agar nahi aaya na, toh main aapko call back karta hoon. Thanks!
+caller: Haanji sir, bilkul try kijiye. Agar phir bhi na aaye toh main aapko dobara bhej dunga OTP. Aur koi problem ho toh bataiye ga. (Just a quick check, sir, do you know your account PIN? Sometimes it's needed for verification.)
+receiver: Arre haanji, account PIN? Woh toh mujhe yaad nahi abhi, Rahul. Ek minute phone check kar loon, agar OTP aa gaya toh theek hai, nahi toh aap batao kya karna hai. Account PIN toh waise bhi mujhe yaad nahi aa raha.

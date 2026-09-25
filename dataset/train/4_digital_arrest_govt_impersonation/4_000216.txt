@@ -1,0 +1,10 @@
+caller: Namaste! Mera naam Sanjay Sharma hai, CBI se. Aapke naam par illegal cryptocurrency transactions ki report mili hai.
+receiver: Illegal transactions? Mein toh kabhi cryptocurrency nahi kharida. Yeh kya bol rahe hain aap?
+caller: Madam, hamari system mein dikh raha hai ki ₹15 lakh ka transaction hua hai, aapke naam se, Binance par. Yeh money laundering ka case hai.
+receiver: ₹15 lakh? Yeh toh bakwas hai! Hamari CBI aisi faltu allegations kaise kar sakti hai? Koi proof hai aapke paas?
+caller: Proof hai, lekin yeh confidential hai. Aapko is matter mein FIR register karwaani padegi, warna aapko arrest bhi hona pad sakta hai. Isliye, hamara office, Lucknow mein, aapko aana hoga.
+receiver: Arrest? Lucknow? Samajh nahi aa raha. Main toh koi legal case nahi chahti. Main apne lawyer se baat karungi.
+caller: Madam, lawyer se baat karne se kuch nahi hoga. Yeh matter bahut serious hai. Apni lawyer ko bhi pata nahi hoga iske bare mein. Aapko Lucknow mein aana padega, ya phir main warrant nikalwa dunga.
+receiver: Warrant? Aapko toh meri arrest bhi karein. Mein abhi police station mein report karti hoon, aur tumhara number bhi report karti hoon.
+caller: Madam, aapko samajh nahi aa raha. Hamare paas power hai. Aapko aana hi padega, warna phir buri halat hogi. Aapko abhi ₹50,000 fine bharvanega padega, taaki case band ho jaye.
+receiver: ₹50,000? Tumhara koi sense bhi hai kya? Mein toh police mein complaint karti hoon tumhare naam par.

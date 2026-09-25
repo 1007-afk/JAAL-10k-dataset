@@ -1,0 +1,8 @@
+caller: Namaste! This is Rohan from CryptoGainz. We're calling about your recent interest in our premium crypto trading signals. Did you subscribe through our website, ji?
+receiver: Haan, ji. I think I did see something about it online. What kind of signals are we talking about?
+caller: Excellent! Our signals have been generating incredible returns for our clients - up to 30% weekly! We've noticed you're eligible for a special introductory offer: a 7-day trial of our Platinum package completely free! Just to verify your account, we need a small refundable deposit of ₹500 to cover transaction fees.
+receiver: A refundable deposit? Why can’t I just try it out for free without putting any money down? Seems a bit odd.
+caller: It’s standard procedure, sir. This ensures your commitment to the platform and prevents fraudulent activity. Plus, once you see the returns, you’ll understand why it's necessary.  Just send the ₹500 to this UPI ID: upi_transfer888.  The trial will start immediately after that.
+receiver: UPI ID? That's... that’s not what I expected.  Can you give me a website address I can verify this on? And what’s CryptoGainz’s registered company name?
+caller: Sir, the website address is on the confirmation SMS we just sent you. As for the company name, it's a new venture, still in the registration process. The key is the amazing potential for returns, sir. Don't miss out! The offer is only valid for the next hour. Please send the deposit, and you can start earning!
+receiver:  Hold on. A new venture, not registered? And a confirmation SMS I haven’t received? This is getting very suspicious. I'm going to end this call now.

@@ -1,0 +1,12 @@
+caller: Hello there! I’m Rohan from ‘SwiftLink Telecom’, and we've got an incredible promotion going on for you today – a completely free smartphone with data and talk time! Can you believe it? Just for today, we have only three devices available.
+receiver: Really? A free smartphone with data and talk time? That sounds interesting. But I don't recognize your name, Rohan. What's your number? And is this phone truly free, without any catch?
+caller: My apologies! It's Rohan Sharma. From SwiftLink Telecom. Absolutely, the phone is entirely free! No hidden fees whatsoever. Just a quick question, are you currently using Jio or Airtel? This helps us tailor the plan perfectly for you.
+receiver: I am using Airtel. So, this free phone will work with Airtel? And what about the data allowance? How much data are we talking about? Also, is the camera decent? I need a good camera for my family photos.
+caller: Excellent! The phone works seamlessly with Airtel. As for the data, you'll get 10GB of high-speed internet every month. The camera is superb – 48MP sensor, capturing stunning images. Only two phones left, quickly!
+receiver: 10GB of data each month? That's pretty good. But what if I travel abroad? Will the data still work, or is it just for India? And how long does the battery last? I need a phone that lasts all day.
+caller: The data is valid only within India. However, we have special roaming packs available if you ever decide to travel internationally. Regarding the battery, it has a massive 5000mAh battery, ensuring all-day usage. Just one phone remaining!
+receiver: Roaming packs… okay. And what kind of phone is it? Is it a popular brand, like Samsung or Xiaomi? What about the screen size?
+caller: It's a brand-new ‘NovaTech Z5’. It’s a beautiful 6.7-inch display, very vibrant colours. We only have one left! Don’t delay, act fast!
+receiver: NovaTech Z5… never heard of it. 6.7-inch screen… sounds nice. Is it easy to use? And what about customer support? If something goes wrong, will they help?
+caller: Of course! The NovaTech Z5 is incredibly user-friendly. And we provide excellent customer support - 24/7 assistance via phone and online chat. Last phone available! Grab it before it’s gone!
+receiver: Alright, alright! Let's do it. Book the NovaTech Z5 for me. What information do you need?

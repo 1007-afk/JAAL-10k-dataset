@@ -1,0 +1,13 @@
+caller: Namaste, main ‘Prabha Fortune Services’ se baat kar raha huun. Aap kaise hain aaj? Mein aapko ek bahut hi shubh khabar dena chahta huun! Aap ek lottery mein enter hue hain aur aapki ek SUV jeetne ki puri koshish kar rahe hain!  Aapki jeep ko aapki har dharak pe mil jayegi!  Aapki jeep ka brand kya hai?
+receiver: Namaste, main theek huun, dhanyavaad. SUV ka brand… hmm, soch rahi huun. Iska naam Tata hai ya Maruti?
+caller: Haan, Tata hai! Ek bahut hi achcha jawab hai! Ab aapko yeh answer 77778 pe SMS karna hai.  Yeh SMS sirf ek baar jagah parayega, aapke paas sirf 5 attempts bache hain!  Dheere mat karo, is offer ko kabhi bhi khatam karne ka mauqa mil sakta hai!
+receiver: Okay, 77778 pe SMS karna hai. Dhanyavaad! Aur yeh 5 attempts kab tak valid hain?  Matlab, kitni waqt hogi mujhe SMS karna?
+caller: Oh, 5 attempts 12 ghante ke andar complete honge, ji. Aur haan, yeh 5 nahi, ab aapke paas sirf 4 attempts bache hain!  Shayad, yeh offer kal raat ko nikal jaye!  Agar aap jeetnaa chahte hain, toh jaldi se 77778 pe SMS karein!
+receiver: Arre, 12 ghante? Aur ab 4 attempts? Theek hai, mein abhi SMS kar rahi hoon. Dhanyavaad bataane ke liye!
+caller: Haan ji, bas ab aapke paas sirf 3 attempts bache hain!  Jaldi se SMS karein 77778 pe aapka answer. Agar aap SMS nahi karte, toh aap SUV nahi jeet saktegi.  Kitna dilchasp hai na?
+receiver: Arre yaar, ab sirf 3 attempts?  Yeh toh bahut hastee raha hai!  Theek hai, mein abhi SMS kar rahi hoon. Shukriya bataane ke liye!
+caller: Arre haan ji, bas ab aapke paas sirf 2 attempts bache hain!  Jaldi se SMS karein 77778 pe aapka answer.  Yeh offer abhi tak hai, lekin sabse jaldi karein!
+receiver: Arre, sirf 2 attempts?  Yeh toh bohot thodi waqti hai!  Theek hai, mein abhi SMS kar rahi hoon. Dhanyavaad!
+caller: Haan ji, bas ab aapke paas sirf 1 attempt bacha hai!  Jaldi se SMS karein 77778 pe aapka answer!  Agar aap kuch bhi nahi karte, toh aap SUV jeet nahi saktegi!
+receiver: Okay, mein abhi SMS kar rahi hoon! Dhanyavaad!
+caller: Haan ji, congratulations! Aap ne SUV jeeti!  Aapko humein phir call karna hoga agar aapko koi problem ho.  Shubh bhavishya!

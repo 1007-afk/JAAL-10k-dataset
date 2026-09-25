@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me? I'm calling about a fantastic new service you've been signed up for. It's a live sex video chat, right on your mobile! You can see the sexiest, dirtiest girls live on your phone. Do you want details? Just text 'HORNY' to 89070. If you want to cancel, just text 'STOP' to 89070. So, are you interested in the details?
+receiver: Hello? Kaun bol rahe hain? Yeh kya baat kar rahe ho aap? Mujhe kuch samajh nahi aa raha hai. Main toh kisi service ke liye sign up nahi kiya hai.
+caller: Oh, I apologize if there was any confusion, sir/madam.  It seems there might have been a system error.  You definitely haven't been signed up for anything you didn't want.  But the offer is still there if you're curious!  Just a quick text to 89070.  And if you're sure you don't want any of this, just text STOP to 89070.  No harm done either way.
+receiver: Dekhiye, mujhe koi confusion nahi chahiye. Maine koi service sign up nahi kiya hai aur na hi mujhe ismein koi interest hai. Agar koi error tha toh theek hai, par please mujhe dobara aise calls mat kijiye. Main abhi 'STOP' text kar raha hoon, please confirm kijiye ki meri subscription cancel ho gayi hai.
+caller: Haan ji, 'STOP' text aa gaya hai. Aapki subscription cancel ho gayi hai.  Chinta mat kijiye, dobara call nahi aayega.  Thank you for your time.
+receiver: Theek hai, thank you.  Bass, yeh sab nahi chahiye tha.  Achha, bye.
+caller: Achha, thank you for confirming. Glad we could sort that out. Have a good day!
+receiver: Achha, thank you. Bass, yeh sab nahi chahiye tha. Achha, bye.

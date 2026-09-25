@@ -1,0 +1,7 @@
+caller: Hello? Is this Rohit Verma? I’m calling from SwiftLoans India. We’ve pre-approved you for a personal loan of up to ₹1,80,000. Just confirming, do you need this loan urgently?
+receiver: Yes, actually I do. I need some money for my daughter’s education. How much interest will it be?
+caller: Fantastic! This is great news. SwiftLoans India is known for its quick approval. The interest rate is very competitive, around 12% per annum. To proceed, we just need a small upfront processing fee of ₹7,500 to verify your details. It's a one-time charge, refundable if the loan isn't approved.
+receiver: ₹7,500 upfront? That seems a bit high. Can I pay it later?
+caller: Rohit ji, that’s standard procedure. This ensures your application's priority. Without it, we can’t guarantee approval. Once the loan is approved, we'll deduct the ₹7,500 from the principal amount. Please send it to this UPI ID: swiftloans@axisbank.
+receiver: Okay, I’ll send it. What documents do I need to provide after I pay the fee?
+caller: Excellent choice, Rohit ji. After the payment reflects, send us a copy of your Aadhaar card and a recent photograph via WhatsApp to 9876543210. Then we'll initiate the final verification, and the loan amount will be credited to your account within 24 hours.

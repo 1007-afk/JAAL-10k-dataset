@@ -1,0 +1,9 @@
+caller: Namaste! Mein Bajaj Finance se Rahul bol raha hoon. Aapke UPI ID par cashback offer aaya hai.
+receiver: Bajaj Finance? Yeh kaise? Mujhe koi notification toh nahi mila.
+caller: Sir, offer automatic hai. Aapko Flipkart pe ₹5000 se zyada ka order karne par ₹1500 ka cashback milega, UPI se payment karne par.
+receiver: ₹1500 cashback? Really? Flipkart pe order karna hai?
+caller: Haan sir. Par cashback process karne ke liye ek small verification fee bharne hogi, sirf ₹299. Yeh fee Bajaj Finance ki taraf se security deposit hai.
+receiver: ₹299? Verification fee? Flipkart toh free cashback deta hai, maine suna hai.
+caller: Sir, yeh ek special offer hai, sirf selected customers ke liye. Aapko ek UPI link deta hoon, us par ₹299 deposit karein. Ek baar fee deposit ho gaya, cashback automatic ho jayega.
+receiver: Woh link bhejo toh. Mein dekh leta hoon. Aur koi OTP nahi milega ismein?
+caller: Haan sir, OTP milega. Aapko OTP check karna hai aur confirm karna hai. OTP milne ke baad aapka account verify ho jayega aur cashback process start ho jayega. Jaldi karein, offer limited time ke liye hi hai.

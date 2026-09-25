@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from ‘CreditQuick Solutions’. We’ve reviewed your application and you’re pre-approved for a business loan of ₹75,000! Fantastic news, isn't it? To process this quickly, we just need to verify a few details.
+receiver: Haan, main Priya Sharma hoon. Business loan? Mujhe toh application hi nahi kiya tha.
+caller: That's interesting! Sometimes applications get submitted indirectly. Don't worry, it's a common process. For verification, can you share the last four digits of your bank account number? This is just to ensure we're speaking to the right person.
+receiver: Account number? Kyun? Aur ₹75,000 ka loan? Main toh ek small tailoring business chalaati hoon.
+caller: Absolutely! It’s a smart investment for your tailoring business. The last four digits simply confirm your identity. It's a security measure. And yes, ₹75,000 is a great starting point for expansion. Share the digits, and we'll send you the loan agreement immediately.
+receiver: Okay, last four digits are 4321. Par agar main loan nahi le sakti toh?
+caller: Excellent! The loan is approved! Now, there’s a small processing fee of ₹2,500 that needs to be deposited to activate the loan. It will be refunded as soon as the loan is disbursed. Account details: UPI ID - processfees@ybl.in. Please confirm the payment.
+receiver: ₹2,500? Processing fee? Lekin aapne toh bola tha free loan!
+caller: Hello? Hello?

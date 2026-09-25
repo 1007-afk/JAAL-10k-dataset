@@ -1,0 +1,6 @@
+caller: Hello, mai ICICI bank se Rohit bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye, aapko KYC update karna hoga.
+receiver: Kya? Suspicious activity? Mujhe koi message nahi aaya. Aur KYC update?
+caller: Ji, sir. Ek OTP aapke register mobile number par bheja gaya hai. Woh OTP bataiye taaki hum aapka account secure kar sakein aur account suspend na ho.
+receiver: OTP? Chalo, check karta hoon. Wait karo. (pause) Haan, OTP mila hai.  Lekin mujhe yeh thoda strange lag raha hai.  Tumhara ICICI bank ka employee ID number bata sakte ho kya?
+caller: Sir, employee ID details confidential hain. Account suspend hone se pehle jaldi se OTP bata dijiye.  Aapka account risk mein hai. OTP hai [Invented OTP like 1234].
+receiver: Thoda rukiye. Tum ne mujhe naam pocha bhi nahi aur OTP hi maang rahe ho? Aur account suspend karne ki dhamki de rahe ho? Mujhe doubt ho raha hai.

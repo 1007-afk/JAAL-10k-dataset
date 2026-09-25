@@ -1,0 +1,8 @@
+caller: Namaste, main Inspector Rajan bol raha hoon, Delhi Police se. Aapke naam par ek parcel aaya hai, aur usmein illegal items mile hain.
+receiver: Illegal items? Yeh kya baat ho rahi hai? Main toh kabhi parcel order nahi kiya.
+caller: Haan ji, records mein dikh raha hai ki parcel aapke address par aaya hai. Ismein drugs ka suspicion hai. Aapko is matter mein cooperation karna hoga.
+receiver: Drugs? Abhi yeh bol rahe hain? Kya proof hai? Main toh bilkul innocent hoon.
+caller: Proof humare paas hai, lekin is matter ko settle karne ke liye, aapko ₹8000 ka fine pay karna hoga. Yeh amount police ka account mein transfer karna hai. Jab amount aa jayega, toh parcel release ho jayega.
+receiver: ₹8000? Yeh bahut zyada hai! Aur main abhi online payment nahi kar sakta, mujhe check karna hai. Koi aur tarika hai?
+caller: Look, time is of the essence here. Yeh fine amount pay karne ke baad, aapko ek video call par bhi join karna hoga, jismein hum aapke statement record karenge. UPI se pay karna hi best option hai, otherwise, matter escalate ho sakta hai aur aapko court mein bhi jaana pad sakta hai.
+receiver: Court? Abhi toh. Bataiye, yeh UPI ID sahi hai na? Aur yeh video call bhi secure hai?

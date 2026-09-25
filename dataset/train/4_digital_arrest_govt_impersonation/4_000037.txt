@@ -1,0 +1,8 @@
+caller: llo? Hello? Can you hear me? I’m calling from the Department of Income Tax. We have an urgent matter regarding your recent tax return. There’s a small discrepancy that needs immediate attention. Please call this number for verification: 09291234567. Don't delay, we need to resolve this within 24 hours. Only three attempts left to rectify this.
+receiver: Hello? Haan, sunay de raha hu. Income Tax se? Discrepancy? Kya bolti hai? Mein abhi call karta hu us number pe. Shukriya!
+caller: Bahut shubh! Jaldi se call kar lijiye. Aapke paas sirf 2 tries bache hain. If you don’t respond within the next hour, we might have to initiate further investigation. Remember, this number is 09291234567.
+receiver: Achha, theek hai. 2 tries? Mein abhi check karta hu. Dhanyavaad ke bataye!
+caller: Haan ji, bilkul! Just 1 attempt remaining now. The deadline is approaching fast, so quickly dial 09291234567. Do you require any supporting documents? I can provide them if needed.
+receiver: Arey, sirf ek try? Theek hai, theek hai. Koi aur document nahi chahiye, bas bataiye, yeh tax matter asli hai na? Matlab, ye fraud bhi nahi hai? Aur agar main abhi nahi kar paya toh baad mein call kar sakta hoon?
+caller: Bilkul asli hai ji! The tax authorities have sent this notification directly. And no, absolutely not a fraudulent scheme. Only one opportunity remains, so please call immediately at 09291234567.  We will guide you through the process.
+receiver: Arey yaar, sirf ek mauka? Abhi toh main kaam mein hoon! Agar kal subah tak call kiya toh milega kya? Ya koi aur contact number hai jisse main baat kar sakta hoon?

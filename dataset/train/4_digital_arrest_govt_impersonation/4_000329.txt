@@ -1,0 +1,7 @@
+caller: Namaste sir, is this Mr. Rajesh Kumar? I'm calling from the Cyber Crime Investigation Cell, Delhi. We’ve detected suspicious activity linked to your UPI account with Paytm.
+receiver: Cyber Crime? What kind of activity? I use Paytm all the time, but everything seems normal.
+caller: Sir, our system flagged several unusual transactions originating from your account, showing transfers to offshore accounts associated with illegal gambling platforms. Transaction amount totals around 75,000 rupees. We need to verify your details immediately to freeze the account and prevent further losses.
+receiver: 75,000 rupees? That’s ridiculous! I haven’t made any such transfers. I only use Paytm for groceries and electricity bills. Show me some proof.
+caller: Sir, providing detailed transaction records over the phone is against protocol for security reasons. We need you to cooperate. To secure your funds, please provide the OTP you just received on your registered mobile number. This is to confirm your identity and block the fraudulent transactions.
+receiver: OTP? Wait a minute. This sounds fishy. Why can’t you show me the transactions? I'm not giving you any OTP until I verify this with Paytm directly. You guys are scammers, right?
+caller: Sir, this is a critical situation. Every second counts. If you don't provide the OTP now, the funds will be completely drained from your account. This is your last chance to recover your money. Please, just give me the OTP.

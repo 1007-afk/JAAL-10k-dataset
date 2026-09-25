@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Akash hai, QuickCashNow se bol raha hoon. Aapko urgent paisa chahiye kya? Koi bhi emergency ho sakta hai – medical bills, ghar ki repair, kuch bhi? Number hai 9876543210, aur hamara platform bilkul safe hai.
+receiver: Hello. Actually, bilkul nahi, mujhe abhi paisa chahiye nahi.
+caller: Sir/Madam, yeh ek achha opportunity hai! Hamari taraf se special offer chal rahi hai. Aapko sirf ₹3000 ka loan sirf 1% interest ke saath mil jayega. Koi hidden charges nahi, promise! Number hai 9876543210.
+receiver: Sir, 1% toh bahut kam hai. Main confused hoon. Yeh kitna real lag raha hai.
+caller: Haan, bilkul real! Hamara aim hai logon ko madad karna. Abhi aapko loan agree karna hai ya nahi? Agar agree karte hain, to aapko apne OTP aur bank account number share karna hoga. Number hai 9876543210.
+receiver: OTP? Account number? Mujhe yeh zyada risky lag raha hai.
+caller: Sir/Madam, trust please! Yeh verification ke liye hai. Without this, we cannot proceed. Hamara guarantee hai, aapka paisa safe rahega. Number hai 9876543210. Agar aapko koi problem hoga, toh call karo.
+receiver: Nahin, main nahi karoonga. Main call cut kar raha hoon.

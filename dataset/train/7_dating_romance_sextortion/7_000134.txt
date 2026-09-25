@@ -1,0 +1,13 @@
+caller: Hello? Tumne mujhe kabhi dekha bhi hai? Main woh hoon, jisse tumhari beta ne mujhe bulaya hai. Tumhari beta ka number hai... 8800112233.
+receiver: Oh, hello! Haan, yaad aaya. Beta ne kaha tha ki ek aadmi aane wala hai. Toh, tumhare naam ka kya matlab hai?
+caller: Mera naam…mera naam toh tumhare beta ki manzil hai. Lekin, agar tumko aisa lagta hai, toh main tumhara koi new friend hoon, jo tumhari beta ko dekhna chahta hai. Tumhari beta kaise hai aaj?
+receiver: Wow, very creative! Okay, ‘manzil’ wala friend, batao, tumhara job kya hai? Aur tumhari beta ki sehat kaisi hai?
+caller: Main ek specialist hoon, Doctor saab. Tumhari beta ki sehat ko dekhne ke liye humara team aayi hai. Humare pass ek important message hai, jo tumhari beta ke liye hai. Aapko kya chahiye?
+receiver: Doctor? Seriously?  Mujhe ab samajh aa raha hai.  Tumhara team kahan hai?  Main unhe dekhna chahti hoon. Tumhara number batao, phir hum baat karte hain.
+caller: Tumhara number mera number hai. Aur tumhari beta ka number bhi. Sab kuch ek saath hai. Tumhari beta ko bahut mushkiliyat hain, aur humari madad ki zaroorat hai.  Aapko jitni bhi pata hai, sab samjhado.
+receiver: Mushkilein? Kya hua? Batao, kya chal raha hai?  Mujhe sach bolna padega.
+caller: Tumhari beta ne online ek game khela tha, aur us game mein ek badi problem hai. Us game ka solution sirf humein pata hai. Aur humari madad se tumhari beta sharminda hoga.
+receiver: Online game?  Itne serious matter mein online game?  Dekho, main kisi ko bhi madad nahi deongi.  Batao, kitna money chahiye?
+caller: Paise? Paise toh sirf ek medium hai, Madam. Tumhari beta ki शान ko bachane ke liye humari madad lena hi sahi hai.  Humare pass ek special software hai, jo tumhari beta ki problem solve karega.  Iske liye ₹5000 chahiye.
+receiver: ₹5000?  For a game?  Yeh kya ho raha hai?  Main abhi police ko call karungi!
+caller: Police?  Police se kya hoga?  Tumhari beta ka future hi jeetna hai!  Agar tum paise nahi deti hain, toh tumhari beta kabhi bhi...  (The call abruptly cuts off).

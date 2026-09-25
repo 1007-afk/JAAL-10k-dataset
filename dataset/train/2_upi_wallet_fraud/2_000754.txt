@@ -1,0 +1,11 @@
+caller: Namaste! Main IDFC First Bank se Rohit Singh bol raha hoon. Aapke account mein suspicious activity detect hua hai.
+receiver: Kya? Suspicious activity? Kaise? Mujhe toh koi message nahi aaya.
+caller: Haan sir, ek online transaction attempt hua tha jo aapne verify nahi kiya tha. Isliye security ke liye, humein aapke account details verify karne ke liye kehna padega.
+receiver: Theek hai, bataiye kya details chahiye? Account number bhi bataun?
+caller: Bilkul sir. Aapka UPI ID aur OTP chahiye sirf verification ke liye. Apna PhonePe app khulein aur OTP check karein.
+receiver: Haan, OTP aaya hai. 123456 hai.
+caller: Shukriya sir. Ab mujhe aapka last transaction ka reference number bataiye.
+receiver: Wait, why do you need the reference number? Isn't the OTP enough?
+caller: Sir, ek extra layer of security ke liye. Without it, our system won’t consider it completely verified. Just a quick one.
+receiver: Okay, let me check... It was a bill payment to Tata Power, the reference number is TP876543.
+caller: Perfect, sir. Account fully verified ab. Ab aapko ek cashback offer mil raha hai IDFC First Bank se. ₹5000 cashback ke liye ‘CLAIM’ type kar ke 987654 pe SMS karein.

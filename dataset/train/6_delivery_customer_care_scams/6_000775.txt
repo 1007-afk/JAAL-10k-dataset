@@ -1,0 +1,7 @@
+caller: Namaste, main Flipkart se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, Flipkart ka parcel? Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, system mein dikh raha hai ki aapne jo address diya hai, woh incomplete hai. Security ke liye, mujhe aapka OTP pata karna hoga taaki main address verify kar sakoon aur parcel deliver karwa sakoon.
+receiver: OTP? Par why do I have to give you my OTP? Flipkart toh aise nahi karta hota.
+caller: Sir/Madam, yeh standard procedure hai. OTP se pata chal jayega ki aap hi sahi owner hain. Agar OTP nahi milega toh parcel return ho jayega.  Fast action lijiye, parcel mein aapke liye ek important document hai.
+receiver: Wait a minute. Let me check my Flipkart account first.
+caller: Sir/Madam, time is running out. Sirf 5 minutes mein aapko OTP dena hoga ya parcel wapas chala jayega.

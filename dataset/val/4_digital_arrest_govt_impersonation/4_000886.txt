@@ -1,0 +1,7 @@
+caller: Namaste, sir? My name is Inspector Rajeev Sharma, calling from the Directorate of Enforcement. We've detected some unusual activity linked to your bank account, specifically concerning cryptocurrency transactions.
+receiver: Haan, Inspector Sahab? What kind of activity? I use cryptocurrency sometimes, yes, but everything is above board.
+caller: Sir, our initial investigations suggest funds were routed through your account and linked to an illegal online gambling platform operating overseas. It appears your account was unknowingly used for money laundering.
+receiver: What? That’s impossible! I would never knowingly participate in anything illegal. Can you tell me more about these transactions? I want to see the details.
+caller: We understand your concern, sir. However, providing details over the phone would be a security risk. To clear this up and prevent further legal complications, you need to deposit INR 50,000 as a precautionary measure into the designated account number we'll provide. It will be refunded after the investigation is complete.
+receiver: Fifty thousand rupees? Hold on, Inspector Sahab. This sounds like a scam. I'm not paying anything until I’ve verified this with my bank and a lawyer. I'm calling them right now.
+caller: Sir, delaying this will only escalate the matter. We are under immense pressure from higher authorities to resolve this case swiftly. The account number is 1234567890, IFSC code ENIN0000123. Don’t let this opportunity to cooperate slip away, sir. Time is of the essence.

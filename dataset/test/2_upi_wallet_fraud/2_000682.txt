@@ -1,0 +1,7 @@
+caller: Namaste sir, mera naam Vijay hai, main FreeCharge se baat kar raha hoon. Aapke FreeCharge wallet mein cashback offer aa gaya hai!
+receiver: Cashback offer? FreeCharge se? Kya offer hai?
+caller: Sir, aapko ₹500 ka instant cashback milega, sirf ₹10 processing fee bhar den. Yeh offer limited time ke liye hai.
+receiver: ₹10 processing fee? FreeCharge toh kabhi processing fee leta nahi hai. Yeh kuch gadbad lag rahi hai.
+caller: Sir, yeh new security update hai, jo cashback claims ke liye mandatory hai. ₹10 UPI se bhar de, main aapko OTP send karunga verification ke liye.
+receiver: UPI se? ₹10 bhi? Mujhe kuch shaq ho raha hai. FreeCharge helpline number dedo, main khud check karta hoon.
+caller: Sir, helpline number publically share nahi kar sakte, security reasons se. ₹10 bharne ke baad cashback ka proof aapko instant mil jayega. Just send ₹10 to the UPI ID main aapko send karunga. Jaldi karo, offer expire hone wala hai!

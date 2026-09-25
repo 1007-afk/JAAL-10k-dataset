@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya calling from Axis Bank security. We've noticed unusual activity on your linked Paytm wallet. A payment of ₹7500 has been attempted to an unknown merchant.
+receiver: ₹7500? What? I didn’t authorize that! What merchant?
+caller: Sir, it's flagged as a transaction to ‘GamesGalaxy’. It seems like a potential phishing attempt. To secure your account and prevent further unauthorized transactions, we need to quickly verify your details. Could you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? Shouldn't you be able to see this on your end? This sounds very suspicious.
+caller: Sir, our systems are currently experiencing a temporary glitch. We need the OTP to bypass this glitch and ensure your account is fully protected. Failing to do so within the next 2 minutes will result in a temporary freeze of your Paytm wallet for security reasons. Please provide the OTP now.
+receiver: Two minutes? Freeze my wallet? Hold on a second. Let me call Axis Bank directly from their official number on the website. I'm not giving you anything until I confirm.
+caller: Sir, calling the helpline will take too much time, and the fraudulent transaction might go through. This is a time-sensitive matter. For your safety, please just provide the OTP. It's the fastest way to secure your funds. We’ll also need your PAN card last four digits to proceed.

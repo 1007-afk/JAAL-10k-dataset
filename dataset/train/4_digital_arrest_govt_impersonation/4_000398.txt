@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Gupta? This is Inspector Sharma calling from the Delhi Customs Department. We have a serious matter regarding a parcel registered under your name.
+receiver: Hello? Haan, main hi Gupta bolta hoon. Parcel? Kya baat hai?
+caller: Ji, Mr. Gupta, according to our records, a package containing prohibited items has been intercepted at the Indira Gandhi International Airport. The tracking number is DG789456123. It appears to be linked to an illegal online gambling operation.
+receiver: Illegal gambling? Lekin main toh kabhi gambling nahi karta! Yeh to galat number hoga.
+caller: That's what most people say, Mr. Gupta. However, the parcel is registered under your name and address. To clear this matter quickly and avoid legal action, we require a small processing fee of ₹15,000. This is to verify your identity and ensure the parcel doesn't fall into the wrong hands.
+receiver: ₹15,000? Yeh bahut zyada hai! Main kaise trust karun? Koi proof hai kya?
+caller: We understand your concern, sir. We can initiate a video call with our senior officer, who will explain the situation in detail. You will also see the intercepted parcel. However, we need the processing fee upfront to facilitate this verification process immediately. You can deposit it through UPI to the number 9876543210.
+receiver: UPI? Haan, mein dekhunga. Par mein pehle video call dekhna chahunga.
+caller: Certainly, sir. Once the payment is confirmed, we’ll send you the video call link within 15 minutes.  Don't delay, as time is running out to clear this parcel and avoid further complications.
+receiver: Theek hai. Main dekhta hoon. Par agar yeh fraud nikla toh

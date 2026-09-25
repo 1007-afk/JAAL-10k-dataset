@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mera naam Rohan hai, Flipkart customer care se. Aapke account mein ek delivery ke saath kuch problem aa raha hai. Tracking ID hai XYZ12345.
+receiver: Oh, really? What’s the problem? I was expecting a package today.
+caller: Sir, yeh package delivery ke dauraan damage ho gaya hai. Company policy ke mutabik, humein ek verification process complete karna hai. For security purposes, can you please share the last 4 digits of your bank account from which you made the payment?
+receiver: Wait a minute. Why do you need my bank account details for a damaged package? That sounds suspicious. Flipkart never asked me this before.
+caller: Sir, please don't worry. Yeh completely secure hai. Agar aap verification nahin karenge, toh package return ho jayega aur aapka refund process bhi delay ho sakta hai. Just the last 4 digits, sir.
+receiver: I'm not comfortable sharing that. I'll contact Flipkart directly through their official website. Thank you.
+caller: Sir, please be careful! Without verification, your account might get blocked. This is a one-time offer, sir. Just share the digits…

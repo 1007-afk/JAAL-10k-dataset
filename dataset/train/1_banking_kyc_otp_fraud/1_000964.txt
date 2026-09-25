@@ -1,0 +1,8 @@
+caller: Hello, this is Priya Sharma calling from Axis Bank’s fraud prevention team. We’ve detected unusual login attempts from a foreign IP address on your account. It's very urgent, sir/madam.
+receiver: Haan, hello? What's happening? I was just about to check my account online.
+caller: Yes, that's what we suspected. Someone might be trying to access it remotely. To secure your funds and prevent unauthorized transactions, we need to verify a few details immediately. Can you please confirm the last four digits of your Aadhaar card?
+receiver: My Aadhaar number? That's risky, isn't it? Why do you need that? I thought you already had my details.
+caller: Sir/Madam, it’s standard protocol for verification in such situations. We need to be absolutely sure we're speaking to the account holder. Also, for added security, please tell me the OTP you just received on your registered mobile number. It’s a one-time password, just to confirm it’s you.
+receiver: OTP? Wait a minute... I haven't received any OTP. This feels very wrong.
+caller: Are you sure you didn't receive it? Sometimes messages get delayed. It’s very important, sir/madam. We need to act fast before the fraudulent transaction goes through. We can avoid account suspension if you cooperate. Just the OTP please?
+receiver: No, no OTP. I’m calling my bank directly. You are not from Axis Bank. Goodbye.

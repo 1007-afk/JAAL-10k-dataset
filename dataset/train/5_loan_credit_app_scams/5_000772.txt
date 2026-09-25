@@ -1,0 +1,10 @@
+caller: Hello, is this Rajesh Kumar? We are calling from SwiftLoanPro, a government-approved instant loan provider. Are you facing any urgent financial needs, sir?
+receiver: Yes, hello. I am Rajesh Kumar. I do have some expenses coming up, but I'm not sure about instant loans. They always seem risky.
+caller: Sir, SwiftLoanPro is completely secure and legitimate. We offer quick loans with minimal paperwork, perfect for unexpected situations. How much are you looking to borrow? We have a special offer for new clients.
+receiver: Hmm, maybe 2 lakhs would help. But what are the interest rates and repayment terms? I've heard of loans with huge hidden charges.
+caller: Sir, the interest is competitive, just 12% per annum, and the repayment is flexible, spread over 6 months. To verify your identity and process quickly, we need you to deposit a small processing fee of 5000 rupees into this account: 7864532109. This is a one-time fee, sir.
+receiver: 5000 rupees upfront? That doesn't sound very secure. Shouldn't I get the loan first, and then pay the fees?
+caller: Sir, it’s standard procedure to secure your application and prevent fraud. We want to ensure you're a genuine applicant.  Once the fee is processed, your loan of 2 lakhs will be credited within the hour. Please confirm the transaction.
+receiver: I... I think I need to think about this. It seems a bit unusual.
+caller: Sir, this offer is only valid for today. Don't miss out on this opportunity to solve your financial problems quickly.  Many others have already taken advantage of this, and are very happy. Just the 5000 rupees, sir.
+receiver: I’ll

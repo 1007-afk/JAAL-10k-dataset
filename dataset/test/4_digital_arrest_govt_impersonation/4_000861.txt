@@ -1,0 +1,8 @@
+caller: Hello, my name is Inspector Sharma from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: What? A parcel? I didn't order anything. Which parcel are you talking about?
+caller: Yes, ma’am. It appears to be linked to an ongoing investigation regarding illegal import of high-value electronics. We need to verify your identity to prevent further complications. Can you please provide your Aadhaar card details?
+receiver: Aadhaar card? Over the phone? That doesn't sound right. Why do you need my Aadhaar? Can’t you just check the parcel’s details?
+caller: Ma'am, this is a sensitive matter and we need to ensure the parcel doesn’t fall into the wrong hands. Failure to cooperate could result in legal action. We can arrange for a video verification call to confirm your details securely.
+receiver: Video call? Okay, fine. But I'm going to keep this call recorded. I'm also going to tell my husband about this. Where do I need to go for the video call?
+caller: Excellent. We'll send you a link via WhatsApp. Please be ready with your ID proof and a pen. The call is scheduled for 3 PM today. Don’t share this information with anyone. This is strictly confidential, ma’am.
+receiver: WhatsApp? Wait a minute… This is a scam, isn’t it? I'm reporting this number to the cybercrime helpline now.

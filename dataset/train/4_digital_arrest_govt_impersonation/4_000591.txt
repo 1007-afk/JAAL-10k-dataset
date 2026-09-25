@@ -1,0 +1,7 @@
+caller: Namaste! Sir, speaking with the Cyber Crime Investigation Cell, Delhi. We have a serious matter regarding your name and a parcel intercepted at Indira Gandhi International Airport.
+receiver: Haan, bolie. What’s the matter? Parcel? I haven't sent anything.
+caller: Yes sir, a large consignment containing illegal narcotics was found linked to an address registered under your name. We’re trying to reach you to prevent further legal complications. This is a very sensitive case.
+receiver: Narcotics? My name? This is ridiculous! I don’t deal with such things. Are you sure you have the right person?
+caller: Sir, our records are precise. To clear this up quickly and avoid arrest warrants, you’ll need to pay a small fine – 50,000 rupees – as a security deposit. We need to verify your funds.
+receiver: 50,000 rupees? For something I didn’t do? This sounds like a scam. I want to speak to your supervisor, give me a name and a department.
+caller: Sir, we understand your concern, but time is of the essence. Please transfer the amount to this UPI ID: 8765432109@ybl. We will send you the clearance document immediately after the payment, so please do it fast to avoid further problems.

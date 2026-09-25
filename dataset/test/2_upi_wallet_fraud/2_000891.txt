@@ -1,0 +1,10 @@
+caller: Namaste, sir? Yeh Rahul se baat kar raha hoon, BharatPe Customer Care se. Aapke BharatPe wallet mein ek unexpected transaction hua hai.
+receiver: BharatPe? Woh kya transaction hai? Mujhe notification toh kuch nahi aaya.
+caller: Sir, ek payment aaya hai 12,000 rupay ka, ek online gaming site par. Aapne kiya tha?
+receiver: 12,000? Nahin, maine kabhi nahi kiya! Main toh bilkul games nahi khelta. Yeh fraud hai.
+caller: Haan sir, shayad. Apne account ko secure karne ke liye, humein aapka BharatPe PIN number confirm karna hoga. Tabhi hum is transaction ko reverse kar sakte hain.
+receiver: PIN number? Customer care kabhi bhi PIN number nahi poochta! Main yeh nahi karunga. Aapko report karunga.
+caller: Sir, please, time mat barbaad karein. Yeh process very urgent hai, warna hacker aapke entire wallet ko empty kar denge. Bas OTP share karein, woh hi kaafi hai.
+receiver: OTP? Main koi bhi OTP nahi dunga! Aapko police mein report karunga.
+caller: Sir, aapko serious damage ho sakta hai! Account freeze ho jayega, aur aapke paise bhi chala jayega. Trust me, just give the OTP.
+receiver: Main koi bhi OTP ya PIN nahi dunga. Main BharatPe customer support number se khud contact karunga. Phir dekha jayega.

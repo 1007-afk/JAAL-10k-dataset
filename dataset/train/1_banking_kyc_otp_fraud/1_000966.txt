@@ -1,0 +1,7 @@
+caller: Namaste, main HDFC Bank se Rahul Sharma bol raha hoon. Sir, aapke account mein illegal activity ka detection hua hai. Security ke liye, aapko apna KYC update karna hoga.
+receiver: HDFC se? Illegal activity? Kya hua? Mein toh koi transaction nahi kiya recent mein.
+caller: Ji sir, ek suspicious transaction attempt hua tha. Iska verification karne ke liye, please aapka Aadhaar card number aur ek OTP bata dijiye jo aapke phone par aa raha hai.
+receiver: OTP? Aadhaar number? Yeh thoda suspicious lag raha hai. HDFC ka number toh pata hai mujhe, mein khud check karta hoon.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle, please cooperate karein. OTP bas 2 minute mein mil jayega. Agar aap cooperate nahi karenge toh account freeze ho sakta hai aur transaction block ho jayega. Isse aapki important services bhi stop ho jayengi.
+receiver: Account freeze? Matlab mein bank mein bhi nahi ja paunga? Yeh bahut serious hai toh. Theek hai, dekhta hoon. OTP aaya hai. Kya OTP share karu? Aur phir Aadhaar number?
+caller: Haan sir, please OTP share karein taaki mein aapke account ko secure kar sakoon. Bas ek minute lagega. Fir Aadhaar number bataiye. Sir, jaldi karo, system se alert aa raha hai.

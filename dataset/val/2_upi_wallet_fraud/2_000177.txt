@@ -1,0 +1,10 @@
+caller: Namaste, main Rahul Sharma bol raha hun. Kaise hain aap? Main Axis bank se call kar raha hun.
+receiver: Haan, theek hu. Axis bank se? Kya baat hai?
+caller: Sir, aapke UPI account mein ek suspicious transaction ka attempt kiya gaya hai. 9999 rupay Paytm se kisi ne transfer karne ki koshish ki hai.
+receiver: Kya? 9999 rupay? Aur mujhe koi notification bhi nahi aaya?
+caller: Notification system mein thodi technical issue aa rahi hai, sir. Isliye aapko message nahi gaya. Security ke liye, aapko apna UPI PIN confirm karna hoga, taaki hum transaction block kar de.
+receiver: UPI PIN? Par woh toh confidential hota hai na? Main phone pe bataunga nahi.
+caller: Sir, yeh bank protocol hai. Aapko bilkul safe hai. Main aapko OTP bhi send karunga, confirm karne ke liye. Jaldi karo, sir, transaction block nahi toh ho jayega.
+receiver: Koi baat nahi. Main Axis bank ke customer care number pe call karta hun aur confirm karta hun.
+caller: Sir, main hi bata dun. Aapka OTP hai 1234. Ab batao apna PIN.
+receiver: Theek hai, bye.

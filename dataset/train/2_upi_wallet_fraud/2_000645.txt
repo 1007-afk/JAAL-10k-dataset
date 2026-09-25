@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Aapke BharatPay wallet mein ₹1000 ka cashback offer hai, sirf new users ke liye.
+receiver: ₹1000 cashback? Woh kaise? Main toh BharatPay ka istemal kar raha hoon.
+caller: Haan, lekin yeh ek special promotion hai. Verify karne ke liye, mujhe aapka OTP chahiye. Isसे aapka account secure ho jayega aur cashback automatically wallet mein add ho jayega.
+receiver: OTP? But why do I need to give you the OTP? I thought it’s a cashback offer, not some verification process.
+caller: Yeh security protocol hai, sir. ₹1000 cashback claim karne ke liye, humein verify karna hoga ki aapka wallet active hai. OTP send karwao, bas! Offer limited time ke liye hai. Jaldi karo!
+receiver: Okay, fine. Send the OTP to my number then. Let me check.
+caller: Aapka OTP likhiye, please. ₹1000 cashback aapka intezar kar raha hai! Don't miss it!

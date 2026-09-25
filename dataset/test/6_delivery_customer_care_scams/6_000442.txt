@@ -1,0 +1,7 @@
+caller: Namaste! Main Swiggy Customer Care se Rahul bol raha hoon. Aapke recent order mein kuch problem hai. Payment gate ko lekar ek issue aa raha hai.
+receiver: Swiggy? Order mein problem? Mujhe toh kuch nahi pata. Mein kal ek biryani order kiya tha, woh toh deliver ho gaya.
+caller: Haan ji, woh toh ho gaya, lekin uske baad ek pending transaction dikh raha hai. ₹499 blocked ho gaya hai. Isko resolve karne ke liye, mujhe aapka OTP chahiye.
+receiver: ₹499 blocked? Mein apna bank statement check karta hoon. OTP nahi de sakta hoon pehle.
+caller: Sir, time bahut kam hai. System automatic hi close kar dega. ₹499 block ho jayega aur aapko biryani bhi nahi milega. Just OTP de dijiye, mein instant resolve kar dunga.
+receiver: Dekhiye, mujhe yeh kuch itna sahi nahi lag raha. Swiggy app mein toh koi notification nahi aaya hai. Mein khud check karti hoon. Aapka naam aur employee ID batao pehle.
+caller: Sir, woh details main aapko baad mein bataunga. Right now focus on the pending transaction. Agar aap OTP nahi denge toh ₹499 permanent block ho jayega!

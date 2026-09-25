@@ -1,0 +1,8 @@
+caller: Namaste! Main Reliance Jio Pay ke taraf se bol raha hoon. Aapke JioPay wallet mein cashback offer aa gaya hai.
+receiver: JioPay? Oh, that’s nice! What’s the offer about?
+caller: Ji, aapke wallet mein ₹10,000 tak ka cashback mil sakta hai, lekin iske liye pehle ₹500 ‘processing fee’ bharne होंगे. Bahut simple है, sirf ₹500 Paytm ke through send कीजिए.
+receiver: ₹500 processing fee? But why? And how do I know this is really JioPay? I’m a bit skeptical.
+caller: Sir/Madam, ye security verification के लिए है। Aur trust karne ki koi zarurat nahi, main aapko OTP (One Time Password) send karunga, check कीजिए aur confirm कीजिए। Offer sirf limited time के लिए है, jald कीजिए!
+receiver: Okay, send the OTP. But once I send the ₹500, will I definitely get the cashback? And is there anything else I need to do?
+caller: Ji bilkul! ₹500 send करने ke baad, aapka account verify ho jayega aur cashback automatically आपके wallet mein credit ho jayega. Koi aur kaam nahi karna होगा, sirf ₹500 send कीजिए। Abhi send कीजिए, offer khatam ho jayega.
+receiver: Hold on, let me double-check something on the JioPay app first. I'll get back to you.

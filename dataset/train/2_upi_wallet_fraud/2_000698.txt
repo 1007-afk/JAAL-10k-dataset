@@ -1,0 +1,7 @@
+caller: Hello sir, this is from FreeCash Rewards. Congratulations! You’ve won a cashback prize of ₹15,000!
+receiver: FreeCash Rewards? Main toh kabhi participate nahi kiya. Kaise hua ye?
+caller: Sir, you were automatically enrolled in our Diwali bumper offer. To claim your prize, you just need to pay a small processing fee of ₹350. It's to verify your account and avoid tax deductions.
+receiver: ₹350? Tax deduction? Par main toh lottery nahi khela tha. Koi link ya document bhejo jisse mujhe confirm ho sake.
+caller: Sir, we don't send links for security reasons. It's best to pay directly using UPI to avoid fraud. Our UPI ID is freecashrewards@hdfcbank.com. Jaldi karo, sir, yeh offer sirf aaj ke liye hai aur time bahut kam hai. Account ka freeze hone ka risk hai agar payment nahi kiya.
+receiver: Wait, wait. Freeze hone ka risk?  Yeh bahut suspect lag raha hai. Main kisi aur se baat karta hoon.
+caller: Sir, please don't delay! If you don’t pay now, you'll lose your ₹15,000! Aur freecashrewards.com pe jaake verify karein, tab jaake aapka account activate hoga. Jaldi karna ji!

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? This is Inspector Rajan from the Delhi Customs Department. We have a serious issue regarding a parcel registered under your name.
+receiver: Haan? Parcel? Mujhe koi parcel nahi mila. Mein toh ghar par hoon.
+caller: Madam, according to our records, a parcel containing suspicious items has been intercepted at the Delhi airport. It’s linked to your address. To clear it, we need to verify some details. This is a very sensitive matter.
+receiver: Suspicious items? Kya items? Mein toh kabhi parcel nahi order kiya. Yeh kuch ghalat ho raha hai.
+caller: Madam, we understand your concern, but we need to act quickly. The parcel contains undeclared electronics, potentially related to online fraud. To avoid legal complications and further investigation, a small payment of ₹15,000 is required to expedite the clearance process. Please transfer it to the account number I’ll provide.
+receiver: ₹15,000? Online fraud? Kaise? Mein bank account number nahi de sakti. Yeh scam lag raha hai.
+caller: Madam, this is not a scam. This is a standard procedure to confirm your identity and prevent any further issues. If you refuse to cooperate, we will have to involve the legal department, which will be much more costly.
+receiver: Legal department? ₹15,000 bhi bahut zyada hai. Main police mein complaint karungi. (Hangs up)
+caller: Madam? Madam, are you there? This is a matter of national security.

@@ -1,0 +1,6 @@
+caller: Namaste, main Neeraj Sharma, HDFC Bank se baat kar raha hoon. Aapka account suspend hone ka risk hai, sir. Kuch suspicious transactions detect hue hain.
+receiver: HDFC Bank? Mera account suspend? Kya hua? Batao zara, kaunse transactions suspicious hain?
+caller: Sir, aapke account se Gujarat mein ek online purchase attempt kiya gaya tha, ₹12,500 ka. Aapne kiya tha ya nahin? Confirm karne ke liye kuchh details verify karna padega.
+receiver: ₹12,500? Nahin, maine Gujarat se toh kabhi purchase nahi kiya. Tum kon ho sach mein? Tumhara employee ID number batao.
+caller: Sir, employee ID number confidential hai. Par aapki security important hai. Verify karne ke liye, mujhe apna OTP bataiye jo aapko SMS se aayega. Account secure rahega.
+receiver: OTP? Tum ek scammer ho! Main police mein report karunga. Call cut kar raha hoon.

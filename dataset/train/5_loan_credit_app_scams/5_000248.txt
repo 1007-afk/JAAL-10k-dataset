@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from QuickCash Solutions. We saw your application on LoanConnect and you seem to be pre-approved for a loan of ₹75,000 to ₹150,000. Just confirming, is this your correct mobile number?
+receiver: Yes, it is. I applied on LoanConnect, but I wasn't expecting to hear from anyone so quickly.
+caller: Fantastic! It's because your profile looks very strong. To finalize the approval, we need a small verification fee of ₹2,500 to process the paperwork. This is a one-time charge.
+receiver: ₹2,500? The application didn't mention any fees upfront.
+caller: Yes, it’s standard procedure. Think of it as an administrative cost. Once the loan is disbursed, this fee will be deducted from your first installment. Otherwise, we might have to put your application on hold. We wouldn't want that!
+receiver: I'm not comfortable paying a fee before receiving the loan. Can I speak to a supervisor?
+caller: Look, Priya ji, things have gotten complicated. There’s a security issue that needs to be handled urgently. A few questionable images were sent to your contacts, and to ensure your reputation, we need a repayment of ₹15,000 immediately to resolve this. We can provide proof if necessary. Think of the embarrassment otherwise!

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Rajeev Sharma? We're calling from FastCash India, a registered loan provider. We noticed you recently applied for a personal loan online.
+receiver: Haan, main Rajeev Sharma bol raha hoon. Haan, apply kiya tha. Kya baat hai?
+caller: Sir, your application is almost approved! We just need to verify a few details. For security purposes, can you please confirm the last four digits of your bank account number?
+receiver: Account number? Why do you need that? Shouldn't you already have that information?
+caller: Sir, it’s a standard verification process. We need to make sure we're speaking to the correct account holder. Just the last four digits are fine. Without it, we can't process your loan. Also, we need a selfie with your Aadhar card.
+receiver: Selfie? With my Aadhar? That sounds really risky. I'm not comfortable with that.
+caller: Sir, if you don’t provide the selfie and the last four digits, we will have to reject your application. This is a great opportunity to get a quick loan of ₹15,000. Think about it, sir. It’s a very limited-time offer!
+receiver: No, thank you. I don't think I'll go ahead with this. I'm going to hang up now.
+caller: Sir, are you sure? You're missing out on a fantastic deal. Just a little more cooperation and you’ll have the money in your account within hours.

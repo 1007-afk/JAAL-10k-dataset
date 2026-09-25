@@ -1,0 +1,11 @@
+caller: Namaste! Main ICICI Bank se Rahul Verma bol raha hoon. Aapke account mein achanak se 50,000 rupaye ka transaction ho gaya hai.
+receiver: Oh no! Really? Kitne bajay hua? Mujhe toh koi message nahi aaya.
+caller: Sir, transaction Gujarat se hua hai. Scam hone ki sambhavna hai. Aapko account secure karne ke liye kuch details verify karne hogi.
+receiver: Kya verify karna hai? Mujhe toh kuch darr lag raha hai.
+caller: Sir, security ke liye, mujhe aapka OTP aur PAN card number chahiye hoga, taaki hum account block kar sakein. Otherwise, account permanent suspend ho sakta hai.
+receiver: OTP? PAN card? Yeh thoda suspicious lag raha hai. ICICI Bank aise details phone par poochta hai kya?
+caller: Sir, time bahut kam hai. Account suspend hone se pehle OTP batao. Yeh process ICICI Bank ki security protocol ka hissa hai. Jaldi karo!
+receiver: Thoda ruko. Main ICICI Bank ke official number pe call karta hoon aur check karta hoon.
+caller: Sir, aapko bilkul trust karna chahiye. Hum ICICI Bank ke representative hain. Aur agar aapko time nahi milega to account permanently suspend ho jayega.
+receiver: Okay, fine. Batao kya karna hai.
+caller: Sir, first aapko OTP batao jo aapke phone pe aa raha hai.

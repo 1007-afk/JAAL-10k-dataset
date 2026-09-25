@@ -1,0 +1,7 @@
+caller: Hello Sir, this is Akash from QuickCart Customer Support. We noticed a failed payment attempt on your recent order of a new mobile phone. Can you please verify your OTP for security purposes?
+receiver: QuickCart? I don’t remember ordering a mobile phone. What's the order number? And how did you get my number?
+caller: Sir, the order number is QC789456. It was placed yesterday evening. We're just trying to complete the transaction so your phone gets shipped out. Please share the OTP so we can confirm. It’s a limited-time offer, Sir, and the price won't last!
+receiver: A mobile phone order I didn’t make? This sounds suspicious. I’ll call QuickCart directly to confirm. What's your employee ID? And please tell me the last four digits of the card used.
+caller: Sir, it’s against company policy to disclose employee IDs. Just quickly provide the OTP, and we’ll resolve this. The phone is highly sought after, Sir, and many people are trying to buy it right now! You might miss out if you wait.
+receiver: I’m not giving you any OTP. I’m going to report this. You're a scammer. Goodbye.
+caller: Sir, please, don't be hasty! There's a small charge of ₹500 for verification. Just a small fee to secure the order, Sir. We'll refund it immediately after verification!

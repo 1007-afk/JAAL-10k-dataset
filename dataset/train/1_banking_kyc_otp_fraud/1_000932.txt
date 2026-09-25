@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Rohan Verma bol raha hoon. Aapke naam par ek transaction detect hua hai jo suspicious lag raha hai.
+receiver: Haan, kya hua? Mein toh koi transaction nahi kiya.
+caller: Ji, ek online shopping site par ₹7,500 ka transaction hua hai. Account security ke liye, humein aapka KYC update karna hoga.
+receiver: KYC update? Mujhe toh kabhi aisa nahi kaha gaya.
+caller: Ji, yeh ek urgent process hai. Agar aap cooperate nahi karenge toh aapka account suspend bhi ho sakta hai. Aapko apna Aadhaar card ka number aur OTP dena hoga.
+receiver: OTP? Mein OTP kisi ko nahi dunga. Yeh theek nahi lag raha hai.
+caller: Sir/Madam, please understand. Yeh aapki security ke liye hai. OTP sirf verification ke liye hai. Aapka account risk mein hai. Isko confirm karne ke liye aapko OTP share karna hoga.
+receiver: Theek hai, ek minute. Mein Axis Bank ke customer care number se call karta hoon aur confirm karta hoon.

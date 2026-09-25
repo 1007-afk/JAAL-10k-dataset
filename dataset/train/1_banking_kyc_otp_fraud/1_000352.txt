@@ -1,0 +1,8 @@
+caller: Namaste sir, Airtel customer care se bol raha hun. Aapke number ka security check chal raha hai. Aapke phone par ek 6-digit PIN code aaega, woh bataiye please.
+receiver: Haan, ji? Ek minute, dekhti hu...Haan, aa gaya. 8293. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Priya hai. Thank you for verifying the PIN code. Abhi hum aapki account mein transaction history ko check kar rahe hain. Kya aap mujhe apne bank account number bata sakte hain?
+receiver: Haan, Priya. Mera bank account number hai [apna bank account number yahan daalein].
+caller: Thank you sir, for confirming your bank account number. Abhi hum aapki account ko further verify karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Haan, Priya. Mera registered email id hai 'info@mycompany.net'. Koi aur details chahiye?
+caller: Ji sir, aapki email id confirm ho gayi hai. Abhi aapko ek message aa jayega, usmein click karke verification complete karna hai. Uske baad, hum aapke account par some exciting discounts bhi apply karenge. Aapko koi aur sawaal hai madam?
+receiver: Nahin Priya, aur koi sawaal nahin hai. Bas yeh discounts ki detay thode batwa sakte ho?

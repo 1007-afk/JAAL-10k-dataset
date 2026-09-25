@@ -1,0 +1,13 @@
+caller: Namaste, mein Rahul hoon. Ye ek bahut zaroori baat hai Reliance Digital se. Tumhara account ek special deal ke liye eligible hai, jisse tumhare smartphone par sabse naye apps ka access free mein milega, six months ke liye! Kaise hai aap?
+receiver: Oh, namaste Rahul ji.haan, app se baat kar sakta hoon. Reliance Digital? Six months ke liye free apps? Wo toh bahut acha lagta hai. Bataiye, kaise karo?
+caller: Shuruaat karein, Priya madam! Hamare paas tumhara device ID mila hai - [Device ID, e.g., ABC123XYZ]. Isko verify karne ke liye, humein ek small verification process chahte hain. Agar aap yahaan par click karein – [Fake Website Link] – to aapko ek OTP milega. Kya aap ready hain?
+receiver: Haan, click karunga. Website ka address batao. Aur OTP kaise milega?
+caller: Website ka address hai – [Fake Website Link, e.g., secure-relianceapps.com]. OTP aapke registered mobile number pe ayega. Woh copy karein aur mujhe bataiye.
+receiver: Okay, click kiya. Website open hua. OTP aa raha hai… [Pause] …Aaya, OTP hai 548921. Ab kya?
+caller: Shukriya, Priya madam! Yeh OTP sahi hai. Ab, humare paas tumhara payment method bhi check karna hai. Just one question – do aap Paytm ya Google Pay use karte hain?
+receiver: Haan, Paytm use karta hoon.
+caller: Excellent! To, humein Paytm ke account deta chahiye. Parantu, abhi koi information mat dedo. Humein sirf UPI ID chahiye.
+receiver: UPI ID? Woh kaise pata karoon?
+caller: Woh tumhare Paytm profile mein available hai, Priya madam. Humein sirf UPI ID chahiye, matlab tumhari Paytm account ki unique identifier.
+receiver: Okay, UPI ID hai [UPI ID, e.g., mypaytm-1234567890].
+caller: Dhanyavaad, Priya madam! UPI ID verified. Now, we can activate your free app access. Enjoy!

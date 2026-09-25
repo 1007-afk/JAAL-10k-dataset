@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is a final notice from the Directorate of Revenue Intelligence, DRI. We’ve detected suspicious online transactions linked to your bank account, possibly related to illegal cryptocurrency trading.
+receiver: Illegal cryptocurrency? What are you talking about? I don’t do that.
+caller: Ma’am, our records show multiple large transfers originating from your account to unknown offshore wallets. This is a serious matter and could be linked to money laundering. To clear this up, we need you to verify your account details and make a small payment of ₹5,000 as a security deposit to demonstrate your cooperation.
+receiver: ₹5,000? Why should I pay anything? I need to see proof of these transactions. I’m going to report this.
+caller: Ma’am, we understand your concern, but delaying this will only complicate matters and attract more serious penalties. Our officer, Inspector Verma, is on a video call with you right now to explain everything. Please don't hang up. We need to resolve this quickly. Do you have UPI? We can accept payment through UPI.
+receiver: A video call? Let me see… This is all very fishy. Inspector Verma? I don’t believe you. I’m calling the DRI directly to verify this.
+caller: Ma'am, please don't waste time calling anyone else. Every minute is crucial. Inspector Verma is waiting to speak with you. Just make the payment, and we’ll sort this out immediately. We can provide you with a reference number for future tracking.

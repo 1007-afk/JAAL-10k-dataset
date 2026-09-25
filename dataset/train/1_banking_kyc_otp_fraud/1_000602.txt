@@ -1,0 +1,15 @@
+caller: Namaste sir, Main Sanjay Sharma, Paytm se baat kar raha hoon. Sir, aapka Paytm KYC update nahi hai. Account active rakhne ke liye, please aap apna Aadhaar card aur Voter ID number bata sakte hain? Aur verification ke liye ek OTP bhi aaega.
+receiver: Paytm se? KYC update nahi hai? Aadhaar aur Voter ID? Haan, woh record check karna padega. Mujhe thoda time chahiye, pehle check kar leta hoon. Koi shortcut nahi hai kya?
+caller: Sir, samjha hoon aapko time chahiye. Par sir, Paytm ka rule hai, KYC update compulsory hai. Iske bina account block ho sakta hai. Aur koi alternate method nahi hai. Sir, yeh process bahut easy hai, sirf Aadhaar aur Voter ID number dikhao. Verification ke liye OTP important hai.
+receiver: Block ho sakta hai? Arre yaar, yeh toh serious matter hai. Voter ID bhi nahi hai paas. Woh toh cupboard mein hai. Aadhar number bhi check karleta hoon. OTP share karne ka risk mat le, kya hota hai agar OTP galat hua?
+caller: Sir, OTP galat hua toh attempt count ho jayega. Yani, aapko phir se OTP send hogaya. OTP correct karne ke liye aapko Aadhaar aur Voter ID number again provide karne pareinge. Aur yeh process repeat hoga.
+receiver: Ohh, repeat hoga? Bas OTP share karne ka hi toh problem hai. Agar main number galat likh deta hoon, toh kya hoga? Account lock ho jayega? Please clear karo, yeh process kaise chalega?
+caller: Sir, aapko Aadhaar aur Voter ID number sahi se enter karne hain. Number mistake ho toh ek attempt count hoga. OTP bhi correctly enter karna hai. Agar OTP bhi galat hua toh attempt count hoga. Total three attempts bache hain.
+receiver: Three attempts? Just a second... mujhe Voter ID number milna hai. Woh ek minute check karta hoon. Aadhar number bhi dekh sakta hoon. Par yeh OTP ka matter mujhe tension dahta hai.
+caller: Sir, aapko Aadhar number dikhana hai. Main wait kar raha hoon. Sir, haste haste, sirf three attempts bache hain, jaldi kariye.
+receiver: Okay, Aadhar number mila. Now, let’s see… Lekin yeh OTP ki confirmation, woh kaise hogi? Agar main OTP share kar doon, toh reply milega?
+caller: Sir, OTP receive hoga aur aapko confirm karna hoga. Reply dena hai. OTP verify hone ke baad hi aapko account active karne deenge.
+receiver: Right, right. I am typing the OTP now. Let me just double check everything. Aadhar number, Voter ID... all correct?
+caller: Sir, aapko OTP confirm karna hai. OTP receive ho gaya hai?
+receiver: Yes, I received it. Now what?
+caller: Congratulations! Aapka Paytm KYC update ho gaya hai. Thank you!

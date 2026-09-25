@@ -1,0 +1,18 @@
+caller: Namaste sir, main HDFC bank se bol raha hun. Kya main Mrs. Verma se baat kar sakta hoon?
+receiver: Haan ji, bol sakte hain. Verma ji, aap bataiye.
+caller: Mrs. Verma, humein ek important matter par aapki khoj mein madad chahiye. Sirf ek minute le lo, ji. Aapke account mein ek small issue hai jo aapko immediately solve karna hoga.
+receiver: Okay sir, tell me what’s going on. But hurry up, I have work to do.
+caller: Sir, aapke account mein ek suspicious transaction dekha gaya hai. Humare records mein dikhta hai ki ek large amount, ₹50,000, aapke account se recently withdraw kiya gaya hai.
+receiver: Seriously? ₹50,000? Woh toh bahut zyada hai! Mujhe malum nahi hai yeh kya chal raha hai.
+caller: Please don't worry, madam. We just need to confirm that this transaction was indeed made by you. For security reasons, we need to ask you some verification questions.
+receiver: Verification questions? Kaise?
+caller: We need to know your date of birth and last four digits of your debit card. Just to ensure it's really you. It will only take a few seconds, madam.
+receiver: Mein apni DOB aur debit card ka last four digit bataungi, lekin mujhe kitna time lagega?
+caller: Just one moment, please. We are processing your information now. And also, we want to inform you that your account has been temporarily suspended due to this suspicious activity.
+receiver: Suspended? Kyon?
+caller: Because we need to investigate this transaction thoroughly before reactivating your account. Don't panic, madam. We assure you, we'll resolve this as quickly as possible. Now, let’s proceed with the verification.
+receiver: Okay, okay. Dob hai 15th August 1985 aur debit card ka last four digit 1234.
+caller: Thank you very much, Mrs. Verma. Just confirming... Your date of birth is August 15th, 1985 and the last four digits of your debit card are 1234. Is that correct?
+receiver: Haan, sahi hai.
+caller: Excellent! Now, we can proceed with resolving this issue.  We appreciate your cooperation, madam. Have a good day.
+receiver: Theek hai, thank you.

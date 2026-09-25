@@ -1,0 +1,6 @@
+caller: Namaste, main Rahul se baat kar raha hoon, PhonePe se. Sir, aapke PhonePe wallet mein ek transaction pending hai. ₹499 ka, woh bhi Gujarat se hua hai. Kya aapne yeh transaction kiya hai?
+receiver: ₹499? Nahin, maine toh koi transaction nahi kiya. Gujarat se? Yeh kya ho raha hai?
+caller: Sir, kuch galat transaction hone ki sambhavna hai. Security ke liye, aapko apna PhonePe OTP aur last 4 digits ka bank account number bata dega, taaki hum transaction block kar sakte hain.
+receiver: OTP? Bank account number? PhonePe support toh aise details nahi maangta. Yeh thoda suspicious lag raha hai.
+caller: Sir, yeh emergency protocol hai. Agar aap OTP nahi batayenge, toh account permanent block ho sakta hai, aur ₹499 ke saath zyada bhi chop ho sakta hai. Sir, thoda time kam hai.
+receiver: Account block ho jayega? Okay, okay, thoda ruk jao. OTP check karta hoon... Wait, mujhe PhonePe app mein message nahi aaya.

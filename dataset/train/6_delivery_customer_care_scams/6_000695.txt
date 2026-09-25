@@ -1,0 +1,11 @@
+caller: Namaste! This is Akash from QuickShip Courier. We have a parcel addressed to you, but there’s been a payment failure during processing.
+receiver: Payment failure? Kya? Mainey toh kuch order kiya tha, par mujhe yaad nahi aa raha.
+caller: Yes, sir. The amount of ₹499 is showing as unsuccessful. To release the parcel and complete the delivery, we need you to verify this payment through a secure link. I'll send you a link on WhatsApp.
+receiver: ₹499? Link pe click karna safe hai? Mujhe dar lag raha hai, kabhi kabhi kuch fake links aate hain.
+caller: Absolutely safe, sir. It's a direct link from our payment gateway. Without this verification, the parcel will be returned to the sender. Just one small step, and your delivery will be on its way. Can you please share your WhatsApp number?
+receiver: Okay, give me a minute. My WhatsApp number is 9821012345. But just to be clear, this is for a delivery, right? Not for anything else?
+caller: Exactly, sir. Just to verify the ₹499 payment. The link will be sent to you immediately. This is crucial for your parcel to reach you safely.
+receiver: Alright, send the link. I'll check it out. But if something seems wrong, I'll call QuickShip directly.
+caller: Wonderful, sir! The link has been sent. Please click it and follow the instructions carefully. Once verified, your parcel will be dispatched within the hour.
+receiver: Okay, I have clicked the link. It's asking for my OTP.
+caller: Yes, sir! That’s the final step to secure your payment. Please share the OTP with me so I can proceed and update your delivery status.

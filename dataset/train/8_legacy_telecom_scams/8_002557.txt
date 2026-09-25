@@ -1,0 +1,9 @@
+caller: Mr. Sharma, this is Rajesh from DigiConnect calling. Just wanted to let you know about your premium data boost package. It’s almost expired and we need to renew it quickly.
+receiver: Hello Rajesh, thanks for the call. I have a premium data boost package? I wasn't aware of it. Could you tell me more about this?
+caller: Absolutely, sir.  Your package provides you with double the data speed, which is extremely beneficial for streaming videos and playing online games.  We noticed you’ve been using quite a bit of data lately.  Just to ensure uninterrupted service, we require a small verification step.  Are you ready to proceed?
+receiver: Double data speed, huh? That does sound nice. What kind of verification step are we talking about? I’m a little cautious about sharing personal information over the phone.
+caller: Don't worry, sir. It's a very simple procedure. We just need you to confirm a few details to verify your account.  It only takes about 30 seconds.  Please provide your last four digits of your bank card and your date of birth – January 15th, 1988.
+receiver: Wait a minute... my bank card number and date of birth? Why do you need that? This sounds a bit suspicious.  Can you assure me this is legitimate?
+caller: Sir, this is standard protocol with DigiConnect.  We need to comply with regulations to prevent fraudulent activity.  It's completely secure, we promise.  We just need to update your profile with this information to maintain your premium benefits.  If you don’t confirm this now, your data speeds could slow down significantly.
+receiver: Slow down my data speeds? That's concerning. Let me just check with my internet provider first.  Thank you for the call, Rajesh.  I’ll get back to you later.
+caller: Please do, sir.  Don’t delay, time is running out! The offer expires tonight at midnight. We value your business immensely.

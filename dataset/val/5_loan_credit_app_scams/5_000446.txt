@@ -1,0 +1,9 @@
+caller: Namaste, Madam. This is Akash from LoanExpress. We've pre-approved you for a quick loan of up to ₹2 lakhs with easy installments. Just a few details and you’re set!
+receiver: Oh really? That's interesting. I'm a bit short on funds right now. What's the interest rate like?
+caller: Excellent! For a limited time, we’re offering a promotional rate of just 8% per annum. Very competitive, Madam. To proceed, could you share your registered mobile number for verification? It's a standard security procedure.
+receiver: Okay, sure. It’s 9876543210. But are there any hidden charges I should be aware of?
+caller: Absolutely not, Madam. LoanExpress is completely transparent. You’ll only pay the agreed-upon interest on the principal amount. Just to confirm your eligibility, could you share the last four digits of your Aadhaar card? Completely safe with us, I assure you.
+receiver: Aadhaar details? That sounds a bit risky, doesn't it? I'm not sure about this...
+caller: Madam, without verifying your identity, we can’t process the loan. It's a mandatory step to prevent fraud. Think of it as guaranteeing your security. If you don't provide it, we'll have to cancel your pre-approval. It's a simple process - just 4 digits.
+receiver: Wait, just a moment. I need to check something. This seems very urgent.
+caller: Madam, time is of the essence! The offer is only valid for today. If you miss out, you'll have to wait months for another chance. Quickly, provide the Aadhaar digits so we can complete the process!

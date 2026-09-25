@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from SwiftLoan Solutions. We've noticed you recently applied for a personal loan online. Congratulations, you’ve been pre-approved for up to ₹1,50,000!
+receiver: Really? I did apply a few days ago, but I wasn’t expecting to hear back so soon. What's the catch?
+caller: No catch at all! Just need to quickly verify your details. A small processing fee of ₹75 is required to activate your loan. It’s a security measure, you see. Can you transfer it to the UPI ID: swiftloan.pay?
+receiver: ₹75? And you’re asking for a UPI transfer? That seems a bit unusual. Usually, they take a card payment or something. Is this really SwiftLoan Solutions? Do you have a website I can check?
+caller: Yes, of course! Our website is swiftloansolutions.in. The UPI is perfectly safe, beta. Just think, ₹1,50,000 in your account within the hour! Don't miss this opportunity – others are getting approved as we speak! Your details are about to expire!
+receiver: Hold on a minute. I just checked the website. It looks… very basic. And I’m not finding any contact information. This smells fishy. I’m not paying anything upfront, and I’m hanging up now.
+caller: Priya ji, please! Don't do this to yourself! Just the ₹75. Think of the possibilities! I'll send you a link to a morphed photo of your brother, Ravi. It’s… embarrassing. Just pay and I will delete it.

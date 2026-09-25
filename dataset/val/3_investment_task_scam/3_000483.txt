@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit calling from CryptoGainz. We’ve noticed you have a dormant cryptocurrency wallet. We’re offering a special opportunity to unlock it and receive a significant bonus - up to 2% of your holdings.
+receiver: CryptoGainz? I don't remember signing up with them. How do you know I have a wallet?
+caller: Sir, our system identifies eligible users. To verify your identity and activate the bonus, we need a few details – just your wallet address and a small verification fee of ₹500 via UPI. This fee secures your account and ensures the bonus is credited correctly.
+receiver: A verification fee? That seems a little unusual. Can I speak to someone about this first, or see some proof that CryptoGainz is legitimate?
+caller: Of course, sir! Here’s our registered office address: 123 Lotus Tower, Bangalore.  And to expedite the process, we need the UPI ID linked to your bank account for the ₹500 verification. It's a one-time charge, I assure you.
+receiver: Bangalore? Okay, I’ll look into that address. And why do you need my UPI ID specifically? Can’t I pay another way?
+caller: Sir, UPI is the fastest and most secure method for this verification. It ensures immediate processing. Please provide the UPI ID so we can start the bonus activation process. Time is of the essence, this offer is for a limited time only!

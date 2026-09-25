@@ -1,0 +1,8 @@
+caller: Namaste, kaise hain? Main State Bank of India se Rohit bol raha hoon. Aapke PAN card ko Income Tax department ne suspend kar diya hai, verification ke liye kuch details chahiye.
+receiver: State Bank of India se? Mujhe toh koi notification nahi aaya. Aur PAN card suspend kar diya?
+caller: Haan ji, urgent matter hai. Agar aap verification nahi karayenge toh account freeze ho jayega aur penalties lagenge. Aapka naam bataiye aur ek OTP bhi chahiye mujhe PAN card ko re-activate karne ke liye.
+receiver:  Dekhiye, mujhe kuch suspicion ho raha hai. Main khud SBI helpline number par call karta hoon aur verify karta hoon. Aap mujhe OTP nahi bata sakta.
+caller: Sir, ye official process hai. SBI helpline par wait karne mein time lag jayega, aur account freeze hone ka risk hai.  Dekhiye, ek website hai – sbiverification.online – wahan aap apna OTP daal sakte hain, zyada secure hai.
+receiver: sbiverification.online?  Yeh website toh dikhti nahi hai official hai. Main koi bhi details nahi daalungi.
+caller: Sir, time barbaad mat karein!  Agar aap cooperate nahi karenge toh aapka account block ho jayega.  Main aapki help kar raha hoon, jald se jald OTP bata dijiye.
+receiver:  Sir, main apna account secure rakhna chahti hoon. Main bank branch jaakar verify karungi. Thank you.

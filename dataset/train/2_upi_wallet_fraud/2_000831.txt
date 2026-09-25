@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Akash from MobiKwik Customer Care. We've detected some unusual activity on your MobiKwik account.
+receiver: Haan, main Priya Sharma. Kya hua? Unusual activity matlab?
+caller: Sir, it appears someone attempted to transfer ₹3500 from your MobiKwik wallet to an unknown UPI ID just now. To secure your funds, we need to quickly verify your identity. Could you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Lekin mujhe toh koi OTP nahi mila. Aur main ne koi transfer toh kiya hi nahi.
+caller: Please check again, Madam. Sometimes it takes a few seconds. It's vital that we confirm your identity before any further transactions happen. This is to protect your hard-earned money, you see. We are also showing a small cashback offer available for users who verify their account quickly, of 20 rupees.
+receiver: ₹20 cashback? Chalo, theek hai. Let me check my messages again... Okay, I got it. The OTP is 4582.
+caller: Thank you for your cooperation, Madam. Just one more quick verification. Could you please confirm the last three digits of your linked bank account's IFSC code? It's just a standard security measure.

@@ -1,0 +1,7 @@
+caller: Hello sir, is this Rahul Verma? I am calling from FreeCharge Rewards. You’ve been selected for a special cashback offer!
+receiver: FreeCharge? Really? How much cashback are we talking about?
+caller: A fantastic ₹5000 cashback, sir! But to activate it, we need to verify your account. It's a quick process. Just need you to confirm a small processing fee of ₹500.
+receiver: ₹500? Processing fee? I haven’t heard of this before for cashback offers. What if I don’t pay?
+caller: Sir, this is a one-time fee to ensure the transaction is secure and compliant with RBI guidelines. If you don't pay, you’ll miss out on the ₹5000 cashback and your eligibility for future FreeCharge rewards will be paused. Just send ₹500 to the UPI ID I'll give you – it’s a secure payment gateway.
+receiver: Okay, which UPI ID should I send it to? And how will I get the ₹5000 cashback after that?
+caller: Please send to paytm@fraudscammer.com. Once the payment is confirmed, your ₹5000 cashback will be credited to your FreeCharge wallet within 24 hours. It's a limited-time offer, so don't delay, sir!

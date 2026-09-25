@@ -1,0 +1,7 @@
+caller: Namaste! I am calling from SpeedTrack Logistics. We have a parcel addressed to you, but there's a customs clearance issue. It seems there's a small discrepancy in the declared value.
+receiver: Customs clearance? What parcel? I haven’t ordered anything recently. Can you give me a tracking number?
+caller: Absolutely! The tracking number is ST-789456123. The issue is that the declared value is slightly different from what the customs authorities require. To release the parcel, we need a small verification fee of ₹2500 to cover the processing charges.
+receiver: ₹2500? That seems a bit excessive for a customs fee. And why can't I just pick it up from a local depot? Can you give me the depot address?
+caller: Unfortunately, due to security protocols, we can't release it to a depot without this verification. It's a standard procedure. To proceed, we need you to make the payment through a secure link I'll send you via SMS.
+receiver: Secure link? I’m not comfortable clicking on a link you’re sending. Can I speak to your supervisor? And can you confirm the name and address on the parcel?
+caller: My supervisor is currently in a meeting. Let me double-check the details... The parcel is addressed to Ms. Anjali Verma, 14B, Shanti Apartments, Sector 7, Faridabad. The payment link is now sent to your number. Please make the payment quickly, or the parcel will be returned to sender.

@@ -1,0 +1,6 @@
+caller: Namaste! Hello, this is Deepak from 'MoneyPlus Loans'. We saw you recently applied for a personal loan online. Just a quick verification call. Can you confirm your date of birth for me?
+receiver: Hello, Deepak. Yes, I remember applying. My date of birth is 15th August, 1988. What's this about?
+caller: Excellent! Thank you for confirming. We’ve approved your loan application for Rs. 50,000, a very special offer for you. To activate it, we just need a small processing fee of Rs. 2,500 as an upfront payment.
+receiver: Rs. 2,500? What? I never agreed to any upfront fees! The website said it was a zero-fee loan. This sounds very fishy.
+caller: Sir, please don’t misunderstand. This is a security deposit, it ensures the loan is completely secure and guaranteed. Think of it as insurance. We can also send you some morphed photos of your contacts if you don’t pay this small fee. It’s just a precaution.
+receiver: What?! Morphed photos? You're threatening me? This is a scam, right? I’m reporting you to the cybercrime cell. Don't call me again!

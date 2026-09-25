@@ -1,0 +1,7 @@
+caller: Hello sir, calling from Freecharge customer care. We’ve noticed some suspicious activity on your account and a potential security breach. To secure your funds, we need to verify your account details urgently.
+receiver: Oh no, really? Suspicious activity? What happened? I use Freecharge just for small recharges, nothing big.
+caller: Yes sir, there was an attempt to transfer a large sum from your wallet. Don’t worry, we’re here to help. To confirm it wasn't you, can you please provide your bank account number linked to Freecharge? Just for verification purposes.
+receiver: Wait a minute... Freecharge usually doesn't ask for my bank account number. Why do you need that? Can’t you just verify with my registered mobile number or email?
+caller: Sir, this is a new security protocol. The system requires bank verification to prevent further unauthorized access. It’s a standard procedure. We also need the last four digits of your debit card to complete the verification process. It’s for your own safety, sir.
+receiver: That sounds really fishy. Asking for my bank account and debit card details over the phone? I’m not comfortable with that at all. I think I’ll call Freecharge’s official helpline number myself to confirm this.
+caller: Sir, please don’t delay. The fraudulent transaction could happen any moment. Time is critical. Giving us these details now is the only way to ensure your money is safe. Sir, just a few more details and your account will be secure.

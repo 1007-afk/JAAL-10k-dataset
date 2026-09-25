@@ -1,0 +1,10 @@
+caller: Namaste, mai hu Rahul, QuickCash Solutions se. Aapko urgent paise chahiye kya? Koi medical emergency ya kharcha hai?
+receiver: Ji, ha, actually meri beti ki school fees bharne ki zarurat hai, aur thoda kam lag raha hai.
+caller: Samajh mein aaya. QuickCash Solutions me hum offer kar rahe hain ek super fast loan scheme. ₹30,000 tak ki loan sirf 1 hour mein aapke account mein transfer ho jayegi. Koi credit check nahi, koi paper work nahi!
+receiver: ₹30,000? Itni easily? Aur interest kitna hoga?
+caller: Interest? Woh toh sirf ₹3,000 hoga! Bahut kam hai. Lekin, is offer ke liye ek small processing fee dena padega, ₹500. Aur payment ke liye, ek OTP number jo aapko SMS se milega, woh share karna hoga.
+receiver: ₹500 processing fee? Aur OTP share karna? Mujhe yeh thoda suspicious lag raha hai.
+caller: Arre, sir, yeh security ke liye hai! Agar aap OTP share nahi karenge, toh scammer log aapke account ko loot sakte hain. Hum aapki security ke liye hi yahi kar rahe hain! ₹30,000 ki loan sirf aapke liye hi hai, urgent. OTP share karo, aur paise le jao!
+receiver: Theek hai, thik hai. Mai sochta hu.
+caller: Socho mat! Offer sirf abhi tak hi valid hai! Agar aap late kar diye, toh offer expire ho jayegi. Aapki beti ki fees time pe bharo, ya phir delay ho jayegi! Aapko kya chahiye?
+receiver: Fine, theek hai. Mai OTP share karta hu.

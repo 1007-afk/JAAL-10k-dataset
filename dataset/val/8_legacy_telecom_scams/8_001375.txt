@@ -1,0 +1,10 @@
+caller: Namaste! Kaise haal chalne wala hai? Main Sanjay TechSolutions se baat kar raha hoon. Maine suna hai ki aapko Amazon Echo Dot lena pasand hai. Isliye main aapko ek special offer dainaa chahta hoon. Agar aap "XYZ" message karein, toh aap automatically winners list mein aa jayenge. Kya aap mujhe chance de sakte hain?
+receiver: Namaste Sanjay ji, sahi sun ri hoon? Amazon Echo Dot jeetna hai?haan, yeh acha offer hai. "XYZ" message karne ke baad kya hoga? Kuch risk hai kya?
+caller: Risk nahi hai, absolutely not! Yeh ek totally legitimate offer hai. Hamare paas sirf 5 Echo Dots bache hain, aur har ek ko jeetne ka prayog hai. Aapko sirf “XYZ” message karna hai, aur aapko notification mil jayega. Jaldi karo, kyunki ye opportunity kam dinon mein khatam ho jayega!
+receiver: 5 bache hain? Okay, then I’ll send “XYZ”. But what if I don’t get it? What happens then?
+caller: Agar aapko notification nahi mila toh matlab aapko selection nahi kiya gaya. Parantu, aapko jitna chance diya gaya hai, woh hum ne sabse achcha kiya hai. Aapse sirf ek baar request hai – agar aapko koi extra detail chahiye toh bol sakte hain, lekin wo bandhi hai.
+receiver: No, thank you. Mujhe koi extra details nahi chahiye. Just send the “XYZ”.
+caller: Excellent! Aapka “XYZ” message receive ho gaya hai. Congratulations! Aap now officially part of our giveaway contest. Bahut hi kam Echo Dots bache hain, sirf 4 hain, aur winner ka announcement kal raat ko hoga. Good luck!
+receiver: Okay, thanks Sanjay. I will keep my fingers crossed. If I win, I’ll definitely let you know.
+caller: Apni koshish karte raho! Aapki support hamare liye bahut muhimati hai. Agar aap is offer ko appreciate karte hain, toh yahaan bataiye ki aapko koi andeka information chahiye ya hum aage badh sakte hain?
+receiver: Nahin, Sanjay ji. Koi andeka information nahin chahiye. Thoda wait kar leta hoon.

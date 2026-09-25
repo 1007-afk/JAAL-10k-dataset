@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? This is Rohan calling from QuickShip Courier. We have a package addressed to you, but there's been a slight issue with the delivery address.
+receiver: Haan, main hi hoon. QuickShip? Package? Kya issue hai?
+caller: Yes, ma’am. It appears there’s an outstanding delivery fee of ₹350 due to a rerouting charge. To release the package for immediate delivery, we just need to verify a few details. Could you please provide the last four digits of your bank account for a quick security check?
+receiver: ₹350? Bank account details? But I didn't order anything. QuickShip se main kuch order nahi kiya tha.
+caller: Ma'am, sometimes these charges can be confusing. It's a standard procedure to verify the account before releasing the parcel. We also need a one-time password (OTP) sent to your registered mobile number to confirm your identity. It's completely safe, and your package will be delivered within the hour.
+receiver: OTP? Wait a second.  Let me check my messages. Just a minute… Acha, aaya OTP. 4-9-2-7.
+caller: Thank you, Mrs. Verma. Just one final step to ensure everything is secure.  We need you to install our QuickAssist app on your phone so our technicians can remotely access your device to resolve the address discrepancy.  It's very simple and will only take a minute.
+receiver:  Remote access?  App install karna?  Are you sure about this?  This sounds a little fishy now.

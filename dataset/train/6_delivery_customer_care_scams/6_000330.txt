@@ -1,0 +1,11 @@
+caller: Namaste, mai Neeraj Verma, Zomato Customer Care se bol raha hoon. Aapka naam Priya Sharma hai na?
+receiver: Haan ji, mai Priya Sharma. Bolo, kya baat hai?
+caller: Priya ji, dekhiye, aapke recent order number ZM458923 mein kuch problem aa gaya hai. Payment fail hogaya, aur order pending hai.
+receiver: Kya? Payment fail? Mai ne toh payment kar diya tha.
+caller: Haan Priya ji, system mein error dikh raha hai. Aapko ek OTP milega, woh OTP check karke hum aapko confirm kar denge. Aur agar kuch payment bhi fail hogaya toh hum uski process kar denge.
+receiver: OTP? Kahan milega OTP?
+caller: OTP aapke registered mobile number par milega, Priya ji. Jaise hi mile, mujhe bataiye, mai usko verify karunga. Yeh security process hai.
+receiver: Security process? Mujhe kuch samajh nahi aa raha hai. Zomato se direct OTP nahi ata kya?
+caller: Priya ji, system overloaded hai, isliye hum direct verify kar rahe hain. Jaldi se OTP check karke bataiye, warna aapka order cancel ho sakta hai.
+receiver: Wait, let me check my messages. I’m a little unsure.
+caller: Priya ji, time barbaad na karein. Order cancel hone se pehle OTP bataiye.

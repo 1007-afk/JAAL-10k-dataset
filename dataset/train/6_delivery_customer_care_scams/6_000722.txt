@@ -1,0 +1,7 @@
+caller: Hello, this is Rajesh from Blue Dart Courier. We’re experiencing a slight issue with your recent shipment to your address. Could I speak to the recipient, please?
+receiver: Haan, bolo. This is Meena Verma speaking.
+caller: Namaste, Meena ji. I’m calling regarding a package addressed to you. It appears there’s an outstanding customs fee of ₹2,800 that needs to be cleared before delivery can be completed.
+receiver: ₹2,800? I didn’t receive any notification about this. I was expecting a small gift.
+caller: Yes, sometimes these notifications get missed. To process the payment and expedite delivery, we require a one-time verification code. This is for security purposes only, Meena ji. Can you please provide the OTP you just received on your registered mobile number?
+receiver: Okay, let me check. (pause) I received a message. It’s 458729.
+caller: Thank you, Meena ji. Just confirming, the last four digits of your registered mobile number are 9876, is that correct? And to finalize the payment, we need to confirm your bank details to secure the transaction. Can you please tell me the last four digits of your debit card?

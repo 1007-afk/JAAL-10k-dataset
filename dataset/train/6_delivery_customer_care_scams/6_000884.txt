@@ -1,0 +1,7 @@
+caller: Namaste, Madam! This is Akash from BlueSwift Logistics. We have a package addressed to you originating from Myntra, but there's been an issue with the delivery address. It seems there’s a discrepancy.
+receiver: Oh really? What kind of discrepancy? I’m expecting a delivery today. Can you tell me the tracking number?
+caller: Absolutely! The tracking number is BWL7892345. The address we have on file is slightly different - missing the apartment number. To ensure smooth delivery, we need to verify a few details. Could you please share the last four digits of your phone number associated with the Myntra account? Just a security measure, you understand.
+receiver: Last four digits? That seems a bit odd. Why can't you just update the address? And why do you need my phone number? This feels a little suspicious.
+caller: It's standard procedure, Madam. We’re preventing fraudulent deliveries. Once we confirm the number, I can quickly update the details in our system and reschedule your delivery for tomorrow morning. It's just a one-time verification, I assure you. To proceed, could you please share those last four digits, please? The delivery contains some very valuable items as well.
+receiver: I'm still not comfortable sharing that information. Can I call Myntra directly to verify this?
+caller: Madam, time is of the essence. The delivery window is closing fast. If you don't confirm now, the package may be returned to the sender and you’ll incur a redelivery charge of ₹500. Just the last four digits, please. It’s a simple process.

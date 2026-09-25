@@ -1,0 +1,11 @@
+caller: Namaste! Main SecureCredit Solutions se Rohit bol raha hoon. Kya aapko emergency ke liye ₹30,000 tak ka loan chahiye? Credit score koi matter nahi karta, hum sabko help karte hain. Aapka naam kya hai, sir?
+receiver: Ji, mera naam Vijay hai. Aur haan, loan ke baare mein hi puchna tha.
+caller: Bahut achha, Vijay ji! Toh, aapko ₹30,000 ki zarurat kisliye hai? Kuch medical expenses hai ya kuch urgent shopping?
+receiver: Actually, meri beti ki school fees bharne ke liye paise chahiye. Deadline aagayi hai.
+caller: Vijay ji, bilkul samajh mein aaya. Hum apki madad karenge. Aapko sirf ₹500 ka processing fee deposit karna hoga. Apna bank account number bataiye, main आपको link भेज दूंगा.
+receiver: Sir, ₹500 processing fee? Loan toh ₹30,000 ka hai.
+caller: Vijay ji, yeh government charges hain, hum क्या कर सकते हैं? Otherwise loan nahi hoga. Jaldi karo, deadline आ रही है.
+receiver: Theek hai, theek hai. My account number is 9876543210 and IFSC code is PNBJ0001234.
+caller: Excellent, Vijay ji! Fee deposit karte hi loan aapke account mein transfer ho jayega. Agar koi confusion ho toh call karte raho.
+receiver: Okay, thank you.
+caller: Aapka mahol mein khayal rakhna. Shubhkamnayen! Aur Vijay ji, fee deposit hone ke baad humein call karna.

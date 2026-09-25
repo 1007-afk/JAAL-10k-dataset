@@ -1,0 +1,8 @@
+caller: Namaste, madam? This is Inspector Sharma from the Delhi Customs Department. We've intercepted a suspicious parcel registered to your address. It appears to contain items related to illegal cryptocurrency mining equipment.
+receiver: Illegal cryptocurrency mining? Yeh kya keh rahe hain aap? Maine toh kabhi parcel order kiya hi nahi.
+caller: Madam, the parcel was sent from abroad. Our initial investigations suggest it’s linked to a money laundering scheme. We need to verify your involvement to prevent legal complications. Can you provide your PAN card number for verification?
+receiver: PAN card? Why do you need my PAN card over the phone? This sounds very fishy. Can you tell me the tracking number of this parcel?
+caller: Madam, for security reasons, we cannot disclose the tracking number immediately. We must first confirm your identity. A small compliance fee of ₹7,500 is required to clear the parcel and prevent further investigation. This is just a temporary holding charge.
+receiver: ₹7,500? To clear a parcel I didn't even order? And why can't I just go to the customs office directly?
+caller: Madam, to expedite the process and avoid lengthy court proceedings, this is the most efficient method.  We’ve set up a secure payment portal for you. Please visit securepay.gov.in/customs to complete the transaction immediately. Failure to comply will result in further legal action and potentially a police case registered against you.
+receiver: Securepay.gov.in? That doesn’t look right. This is a scam, isn't it?

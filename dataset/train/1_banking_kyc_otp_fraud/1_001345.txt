@@ -1,0 +1,8 @@
+caller: Namaste sir, main ICICI Bank se Deepak Verma bol raha hoon. Aapke account mein ek suspicious transaction attempt kiya gaya hai.
+receiver: ICICI Bank? Woh kya transaction attempt tha? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek online transaction try kiya gaya tha Nepal mein, 12,000 rupaye ka. Aapne kiya tha kya? Humara system detect kar raha hai. Account ko secure rakhne ke liye, humein aapka OTP verify karna hoga.
+receiver: Nepal? Main toh kabhi Nepal nahi gaya, aur karta bhi nahi. 12,000 rupaye? Yeh to bahut serious hai. OTP kyun chahiye?
+caller: Sir, OTP hone ke baad hum aapke account ko temporarily suspend kar denge, taki koi aur transaction nahi kar payega. Phir hum police ko report karenge. Agar aap OTP nahi denge, toh account permanent block ho sakta hai.
+receiver: Account permanent block ho jayega? Thoda wait karo, main apne ICICI app check karta hoon. Ek minute... (pause) Haan, app mein bhi koi notification nahi hai. Yeh kuch ghalat lag raha hai. Main OTP nahi dunga.
+caller: Sir, aapko samjh nahi aa raha hai. Yeh scammer bahut clever hain. Aapko fast action lena hoga. OTP send karo, warna bahut nuksan ho sakta hai. Is bar, agar aap OTP nahi denge, toh humko lagaenge ki aapke account se hacking ho gaya hai aur hume force fully block karna padega.
+receiver: Hacking?  Dekho, main ICICI bank customer care number call karta hoon aur phir baat karta hoon. Tumhara number main note kar raha hoon.

@@ -1,0 +1,6 @@
+caller: Namaste! Mein Bharat Aadhaar Helpline se Rahul bol raha hoon. Aapke Aadhaar-linked Paytm wallet mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Main toh aajkal Paytm use hi nahi karta hoon. Batao kya hua?
+caller: Sir, aapke Paytm wallet se ₹5000 ka transaction attempt hua hai Nepal mein. Isliye, security ke liye, aapka wallet temporarily suspend kar diya gaya hai.
+receiver: ₹5000 Nepal? Yeh toh bilkul galat hai! Maine toh kabhi Nepal transaction nahi kiya. Main ghar pe nahi hoon, mujhe verify karne ka time nahi hai abhi.
+caller: Sir, verify karna bahut zaroori hai. Varna aapka wallet permanently block ho sakta hai. Verify karne ke liye, aapko sirf ₹500 processing fee bhar deni hai, Paytm se hi. Jab fee bhar denge, tab wallet automatically reactivate ho jayega.
+receiver: ₹500 processing fee? Yeh bahut suspect hai! Bharat Aadhaar Helpline toh free hoti hai. Main apne official Aadhaar helpline number se contact karunga.

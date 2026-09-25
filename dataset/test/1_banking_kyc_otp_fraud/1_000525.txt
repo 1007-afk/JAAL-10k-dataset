@@ -1,0 +1,24 @@
+caller: Namaste, I’m Rohan Kumar from SecureTech Solutions. I was calling about your recent interest in our cloud storage services. We noticed you were browsing our website, and we wanted to offer you a special introductory discount.
+receiver: Hello? Sorry, I wasn't expecting a call. Who is speaking? Kya hua yeh?
+caller: Rohan Kumar again, sir. Don't worry, it's just a quick check-in. We saw you looked at our ‘Pro Plus’ plan – it's incredibly popular. To secure this discount, we need to quickly verify some information. Could you tell me the last six digits of the debit card you typically use for online purchases?
+receiver: Debit card? Actually, I don't regularly buy things online. But, okay, let me see… the last six digits are 876543.  Aap yahaan kyun kar rahe hain?
+caller: Excellent! That confirms everything perfectly. Now, to finalize the offer, we require a small verification fee of just $25. This ensures the security of your account and protects against fraudulent activity. It’s a one-time charge, completely refundable if there’s any issue.
+receiver: Twenty-five dollars? Refundable? That sounds suspicious.  Tell me more about this ‘security’ thing.  Aap kaise jaan sakte hain ki main online purchase karta hoon?
+caller: Absolutely. It’s a simple process. We just need to confirm your address. Can you provide me with the full street address where you currently reside? And also, your postal code?
+receiver: My address is 123 Main Street, Delhi 110001.  Aur, aap ne mujhe kis liye call kiya hai?
+caller: Wonderful! Thank you, Rohan Kumar, SecureTech Solutions. We appreciate your business. Your discounted Pro Plus plan will be activated immediately. Just one moment while I process the confirmation...*pause*...Okay, your plan is now active! Congratulations!
+receiver: Wait, what? There was no plan activated!  It seems like a waste of time.
+caller: One moment, please. Let me double-check the system...*longer pause*...Oh dear, there appears to be a slight technical glitch. We'll rectify it immediately. In the meantime, could you please provide your mother's maiden name for verification purposes?
+caller: Namaste, I am Anil Patel from Global Finance Investments. I’m contacting you regarding an exciting investment opportunity we believe aligns perfectly with your financial goals.
+receiver: Hello? I don’t recall applying for anything. Kaise ho aap?
+caller: Anil Patel again, sir. We noticed you have a substantial savings account with Axis Bank.  We’ve identified a potential high-yield investment that could significantly boost your returns. To initiate the process, we need to quickly verify a few details for compliance reasons. Can you please state the first four digits of your Axis Bank account number?
+receiver: Axis Bank? I have several accounts. Let me think… the first four digits are 1234.  Aap kahan se pata chala?
+caller: Perfect! That’s all we needed to confirm. Now, to safeguard your investment, we require a nominal processing fee of $75. This covers legal documentation and regulatory approvals—a standard procedure. It’s non-refundable, but the potential gains far outweigh this initial cost.
+receiver: Seventy-five dollars? Non-refundable? That doesn’t sound right at all.  What kind of returns are we talking about?  Aapka company kitna bada hai?
+caller: Our clients consistently achieve an average annual return of 8-12%. It’s a low-risk, high-reward strategy. Furthermore, to finalize your paperwork, we need to confirm your date of birth. Please provide the month and day.
+receiver: Date of birth? Why do you need that?  Aap mein kya special hai?
+caller: It’s simply part of our standard due diligence process, ensuring accurate record keeping.  Now, just to complete the verification, could you confirm the name of your current employer?
+receiver: I work at TechSolutions India.  Aur, ye investment kitni riskly hai?
+caller: It's a carefully managed portfolio designed to minimize risk. However, as with any investment, there is always a degree of uncertainty. Now, for final security, could you please confirm the name of your spouse?
+receiver: My spouse’s name is Sunita Verma.  Aap sab questions pooch rahe ho!
+caller: Thank you, Ms. Verma. That completes our verification. Your investment has been successfully initiated. You’ll receive detailed instructions via email shortly

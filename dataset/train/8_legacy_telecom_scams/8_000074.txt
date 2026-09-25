@@ -1,0 +1,8 @@
+caller: Hello there! We’ve contacted you because you’ve been randomly selected as a winner in our lottery draw. You have a chance to win either a luxurious trip to Bali or a substantial sum of $8000.  To process your winnings and arrange for the prize disbursement, we require a small processing fee of $3.75 per minute, lasting up to 15 minutes. Are you prepared to accept your amazing reward?
+receiver: Oh wow! Seriously? Bali ya phir 8000 dollars? Maine kabhi sapne mein bhi nahi socha hota tha. Processing fee? $3.75 per minute? Aur 15 minute tak chal sakta hai call? Okay, okay, let's see what's happening. Batao mujhe kaise claim kar sakta hoon.
+caller: Wonderful! Let's proceed then. First, could you kindly tell me your full name as it appears on your official identification documents?
+receiver: Ji, mera naam hai Rohan Kumar. Kya poochh rahe hain?
+caller: Thank you, Rohan. For verification purposes, could you please provide your year of birth? This is purely for security reasons, absolutely no problem.
+receiver: Haan, meri janmvaar ki saal 1988 thi.  Aapko kuch aur chahiye?
+caller: Perfect! Now, to officially secure your prize and ensure swift delivery, please share your postal address, including the area code.  We need this information to send you the necessary paperwork and confirmation letters.
+receiver: Address? Okay, let's see... Mera ghar ka address hai 45, Maplewood Lane, Unit 3B. Area code hai 60611. Kuch aur chahiye?

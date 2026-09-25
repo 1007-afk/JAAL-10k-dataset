@@ -1,0 +1,7 @@
+caller: Namaste! Hello sir/madam, this is Rohan calling from CryptoGainz. We’ve identified you as a high-potential investor in the booming crypto market!
+receiver: CryptoGainz? I haven’t heard of them. What’s this about?
+caller: Sir, our AI has flagged your profile for exceptional growth potential. We are offering you exclusive access to a new project, StellarCoin, projected to give 300% returns in just 30 days!
+receiver: 300%? That sounds too good to be true. What’s the catch? What do I need to do?
+caller: No catch, sir! It's a limited-time offer. To activate your account and receive your StellarCoin allocation, we need a small activation fee of ₹5,000 – purely to cover regulatory compliance and security.
+receiver: ₹5,000? And how do I pay this? What kind of regulatory compliance are we talking about? Can you show me some documentation?
+caller: Sir, we accept payments through UPI. Just send it to the number 9876543210. Once the payment is confirmed, your StellarCoin will be automatically allocated to your account! Don't miss out on this incredible opportunity!

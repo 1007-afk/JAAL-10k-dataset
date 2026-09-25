@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Rajesh Verma? This is Inspector Sharma calling from the Delhi Customs Department. We’ve intercepted a parcel addressed to you containing suspected contraband.
+receiver: Customs Department? What parcel? I haven’t received any parcel.
+caller: Sir, the parcel's contents are flagged as potentially illegal. We need to verify this urgently. To clear it, you'll need to pay a small processing fee of ₹12,500 to avoid further legal complications. We can provide you with a temporary release number.
+receiver: ₹12,500? For a parcel I didn’t even receive? This sounds like a scam.
+caller: Sir, this isn't a scam. We need to follow procedure. We’ve placed you on a secure video call with our verification team so you can see the parcel and documents. Please do not hang up. The call recording will be used as evidence.
+receiver: Video call? I don’t want any video call. I want to report this.
+caller: Sir, obstructing a government investigation is a serious offence. To avoid further consequences, please transfer ₹12,500 to the account details I’ll send you via SMS. Once the payment is confirmed, we'll release the parcel immediately. We can send you a receipt for your records as well.

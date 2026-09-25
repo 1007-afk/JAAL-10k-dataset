@@ -1,0 +1,6 @@
+caller: Hello sir, is this Rajeev Sharma? We’ve noticed some unusual activity on your PhonePe wallet.
+receiver: Unusual activity? What kind of activity? Everything seems fine from my end.
+caller: Sir, it appears someone tried to make a large transaction from your wallet to a new account. To secure your funds, we need to quickly verify your details and put a temporary hold on transactions.
+receiver: Oh no, really? How can I verify? Do I need to go to a PhonePe service center?
+caller: No sir, no need to go anywhere. Just open your PhonePe app, and you’ll see a pop-up asking you to confirm a small security deposit of ₹200. This is just to verify you're the account holder.
+receiver: ₹200? Why such a small amount? And shouldn't the app notify me directly? Is this a scam?

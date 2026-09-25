@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Khan, calling from the Delhi Customs Department. We have intercepted a parcel registered under your name.
+receiver: Hello, Inspector Khan? Haan, main hi hoon. What’s the matter?
+caller: Sir, the parcel contained suspicious items – believed to be linked to a money laundering operation. We need to confirm some details to clear it. It's a serious matter.
+receiver: Money laundering? But I haven’t ordered anything suspicious! What kind of items are you talking about?
+caller: The details are confidential at this stage, sir. But to proceed, we require a small processing fee of ₹7,500 to cover the forensic analysis and legal verification. This is standard procedure. You can pay via UPI to this number: [Invent a UPI ID, e.g., customs.verification@axis].
+receiver: ₹7,500? That seems a bit steep. Can I speak to someone higher up, or get a reference number for this?
+caller: Sir, this is a sensitive case and time is critical. Delaying payment will only complicate things further. To prevent legal action, please complete the payment within the next hour. We're monitoring your call, so please cooperate.

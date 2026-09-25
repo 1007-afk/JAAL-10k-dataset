@@ -1,0 +1,9 @@
+caller: Namaste! Main QuickCash Solutions se bol raha hoon. Aapko urgent ₹20,000 ka loan chahiye tha, hai na?
+receiver: Haan, ji. Maine application kiya tha. Process kya hai?
+caller: Aapka application approve ho gaya hai! Bahut achha. Ab sirf ₹2,500 processing fee bharne do. Tabhi paisa aapke account mein transfer ho jayega. Payment karne ke liye UPI ID do.
+receiver: ₹2,500 fee? Application mein toh kuch bhi mention nahi tha.
+caller: Arre, security reasons ke vajah se abhi fee lag rahi hai. Abhi fee nahi bharte toh loan approve nahi hoga. Aur yeh offer sirf aaj tak hai. Jaldi karo! Warna offer cancel ho jayegi.
+receiver: Aur agar main fee bharu toh? Paisa mil hi jayega?
+caller: Haan, bilkul! ₹20,000 aapke account mein chhutki se deposit ho jayega. UPI ID send karo.
+receiver: Okay, wait a minute. Let me check something.
+caller: Kya dekhna hai? Abhi karo, please. Time barbaad ho raha hai.

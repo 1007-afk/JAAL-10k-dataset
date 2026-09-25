@@ -1,0 +1,11 @@
+caller: Namaste, is this Mr. Verma? This is Ankit Sharma calling from Paytm Payments Bank.
+receiver: Haan, woh main hoon. Kya baat hai?
+caller: Sir, we've noticed some unusual activity on your Paytm wallet. There’s a pending transaction of ₹7,500 to an unknown merchant. For security reasons, we need to verify your details immediately.
+receiver: ₹7,500? Kya? Mujhe toh koi transaction dikh raha hai. Paytm mein toh main sirf small transactions karta hoon.
+caller: Sir, it appears to be a fraudulent attempt. To safeguard your funds, we need to quickly confirm your identity. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Mujhe koi OTP nahi mila. Aur main Paytm wallet hi use karta hoon, bank account nahi.
+caller: Sir, sometimes OTPs get delayed. Please check your message inbox again.  It’s critical to act fast to prevent the unauthorized transaction from completing. For verification, could you tell me the last four digits of your Aadhaar card, please?
+receiver: Wait a minute… mujhe kuch toh gadbad lag raha hai. Paytm wale aise OTP ya Aadhaar number nahi mante.
+caller: Sir, these are standard security protocols. Without this verification, we will be forced to temporarily freeze your Paytm wallet to protect your money. We don’t want that, do we? The transaction is still pending.
+receiver: Freeze kar den, mujhe koi baat nahi. Main Police mein report kar dunga.
+caller: Sir, please don't be hasty. Just provide the last four digits of your Aadhaar, it will just take a moment.

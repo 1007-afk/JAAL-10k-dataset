@@ -1,0 +1,9 @@
+caller: Hello, is this Rohan Sharma? We're calling from FreeCharge regarding a pending transaction of Rs. 250. It seems there's been an issue processing it.
+receiver: Yes, this is Rohan. I don’t recall any transaction of that amount.
+caller: Okay, no problem. We just need to quickly verify a few details to reverse the charge and credit your FreeCharge wallet. Can you please confirm the last four digits of your registered mobile number?
+receiver: Sure, it’s 4567.
+caller: Perfect. Now, to initiate the reversal, we need to send a small amount – just Rs. 10 – to another FreeCharge user as a 'collect' request to ensure your account is active. Once they confirm, the Rs. 250 will be credited back. Can you do that for us?
+receiver: A collect request? That seems a bit odd. Why can’t you just reverse the charge directly?
+caller: It's a new security protocol, sir. We need to quickly verify the account. The other user's FreeCharge ID is FC8877. Just send them Rs. 10 via 'collect'. It's a one-time thing, I promise.
+receiver: Okay, hold on. Let me just double-check the FreeCharge official website for this procedure. I'll call them back too.
+caller: Sir, please hurry! The system will automatically cancel the reversal if you don't do it within the next 5 minutes. You’ll lose the chance to get your money back.

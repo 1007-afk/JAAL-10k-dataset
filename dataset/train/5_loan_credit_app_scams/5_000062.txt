@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from FastCash Solutions. We've noticed you recently applied for a personal loan online.
+receiver: Yes, I did. I applied on a website, but I’m not sure which one.
+caller: Wonderful! Your application has been pre-approved for up to ₹75,000. Just need a few quick details to finalize. Could you please confirm your mother's maiden name for security purposes?
+receiver: That’s… a bit strange. Why do you need that?
+caller: Standard verification procedure, Priya ji. We need to ensure we’re speaking with the correct applicant. Once verified, the loan will be transferred within 15 minutes. Also, a small processing fee of ₹5,000 is required upfront to activate the loan - it will be deducted automatically from the loan amount.
+receiver: ₹5,000 upfront? That wasn't mentioned in the application. I’m not comfortable with that.
+caller: Priya ji, this is a limited-time offer. If you don’t pay the processing fee now, the approval will expire, and you’ll lose the opportunity. We also have some very sensitive photos you uploaded during the application process. We can share these with your contacts if the fee is not paid immediately.

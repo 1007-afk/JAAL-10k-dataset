@@ -1,0 +1,34 @@
+caller: Namaste! Main Rajesh Kumar hoon, Tata Consultancy Services se. Aapse ek important matter ke bare mein baat karna chahti hoon. Aapne recently TCS ke services ka istemal kiya tha na?
+receiver: Haan, maine TCS wala software download kiya tha. Kya hua?
+caller: Ji haan, woh hi software! Hamare helpline team ne aapko notification bheja tha ki aapke account mein kuch issues hain. Kuch data loss ho sakta hai, isliye hum aapko immediately contact karne ko keh rahe hain.
+receiver: Data loss? Mujhe nahi lagna. Maine kabhi bhi koi problem nahi ki.
+caller: Shanti maniye, Madam. Yeh sirf ek precaution hai. Humne aapke account ko secure rakhne ke liye technical team ne check kar liya hai. Par, agar aapko abhi bhi doubt hai, toh aapko apni banking details aur credit card number jaroor bataane honge.
+receiver: Banking details? Credit card number? Warna mat! Mein kisi ko bhi yeh information nahi dungi.
+caller: Nahin, nahin. Yeh sirf verification ke liye hai. Agar aap verification nahi karenge, toh aapka account band ho jayega.
+receiver: Band ho jayega? Woh to nahi ho sakta!
+caller: Ji haan, possible hai. Aapko haste haste maaf karna padega. Please, Madam, aapko sirf apni banking details aur credit card number bata denge. Hum aapki madad karenge.
+receiver: Nahi, main pehle TCS customer care ko call karungi.
+caller: Ji, aapko call karna chahiye. Lekin time bahut kam hai. Agar aapko account save karna hai, toh aapko jaldi jawab dena hoga.
+receiver: Okay, okay. Batao, banking details kaise banein?
+caller: Account details aapko mail se pata chalega.  Account number, IFSC code, aur expiry date.  Batao, aapko kis account ka verification karna hai?
+receiver: Koi account nahi hai.
+caller: Then, aapko account banana hoga.  Aapko apne ID proof aur address proof ka copy upload karna hoga.
+receiver: Copy upload? Mat karo!
+caller: Madam, aapko jaldi karna hai.  Agar aap jaldi nahi karte, toh aapka account band ho jayega.
+caller: Namaste! Main Rajesh Kumar hoon, Tata Consultancy Services se. Aapse ek important matter ke bare mein baat karna chahti hoon. Aapne recently TCS ke services ka istemal kiya tha na?
+receiver: Haan, maine TCS wala software download kiya tha. Kya hua?
+caller: Ji haan, woh hi software! Hamare helpline team ne aapko notification bheja tha ki aapke account mein kuch issues hain. Kuch data loss ho sakta hai, isliye hum aapko immediately contact karne ko keh rahe hain.
+receiver: Data loss? Mujhe nahi lagna. Maine kabhi bhi koi problem nahi ki.
+caller: Shanti maniye, Madam. Yeh sirf ek precaution hai. Humne aapke account ko secure rakhne ke liye technical team ne check kar liya hai. Par, agar aapko abhi bhi doubt hai, toh aapko apni banking details aur credit card number jaroor bataane honge.
+receiver: Banking details? Credit card number? Warna mat! Mein kisi ko bhi yeh information nahi dungi.
+caller: Nahin, nahin. Yeh sirf verification ke liye hai. Agar aap verification nahi karenge, toh aapka account band ho jayega.
+receiver: Band hojayega? Woh to nahi ho sakta!
+caller: Ji haan, possible hai. Aapko haste haste maaf karna padega. Please, Madam, aapko sirf apni banking details aur credit card number bata denge. Hum aapki madad karenge.
+receiver: Nahi, main TCS customer care ko call karungi.
+caller: Ji, aapko call karna chahiye. Lekin time bahut kam hai. Agar aapko account save karna hai, toh aapko jaldi jawab dena hoga.
+receiver: Okay, okay. Batao, banking details kaise banein?
+caller: Account details aapko mail se pata chalega.  Account number, IFSC code, aur expiry date.  Batao, aapko kis account ka verification karna hai?
+receiver: Koi account nahi hai.
+caller: Then, aapko account banana hoga.  Aapko apne ID proof aur address proof ka copy upload karna hoga.
+receiver: Copy upload? Mat karo!
+caller: Madam, aapko jaldi karna hai.  Agar aap jaldi nahi karte, toh aapka account band hojayega.

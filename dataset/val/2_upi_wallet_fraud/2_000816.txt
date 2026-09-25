@@ -1,0 +1,7 @@
+caller: Namaste! Main Bharat Bank se Rohan bol raha hoon. Aapke account mein ₹7,500 ka cashback offer chala hai, Diwali special.
+receiver: Bharat Bank? Cashback? Mujhe toh koi message nahi aaya.
+caller: Sir, offer limited time ke liye hai. Aapko sirf ek small verification process complete karna hai, ₹99 ka processing fee bhar dena hai.
+receiver: ₹99? Verification ke liye ₹99 bharne ki kya zarurat hai? Yeh to kuch gadbad lag rahi hai.
+caller: Sir, security reasons se fee bharani padegi, otherwise offer cancel ho jayega. Aap Paytm ya GPay se 9876543210 number par ₹99 send kar dijiye.
+receiver: ₹99 send karu? Aur yeh number ka kya hai? Bharat Bank ka official number toh do. Aur koi OTP nahi mil raha hai.
+caller: Sir, OTP system mein technical issue hai abhi. Jaldi kijiye, offer expire hone wala hai. ₹99 send karte hi aapka cashback aapke account mein credit ho jayega.

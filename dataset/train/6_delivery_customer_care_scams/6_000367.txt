@@ -1,0 +1,7 @@
+caller: Namaste! Is this Ravi Kumar? I'm calling from Bluestar Courier. We have a package addressed to you, but there’s a slight problem with the payment. Could you verify your address quickly?
+receiver: Yes, this is Ravi Kumar. What kind of payment issue? I didn’t order anything expensive.
+caller: Sir, it seems there’s a discrepancy in the declared value. Our system flagged it, and we need to confirm a small outstanding amount to release the package. Just ₹2,500. It’s a security protocol, sir.
+receiver: ₹2,500? That sounds suspicious. I haven't received any notification about this. What's the package’s tracking number? And why can't I pay this online, directly with Bluestar?
+caller: The tracking number is BLS789456123.  Online payment is temporarily down due to a system upgrade, sir.  We need the payment urgently to avoid delaying the delivery. For verification, can you tell me the last 4 digits of your debit card? Just to confirm you’re the owner.
+receiver: No, absolutely not. I’m not giving you my card details over the phone. This is a scam. I'm reporting this number.
+caller: Sir, please don’t do that! You’ll lose your package! I'm just trying to help you get it delivered.  Just a simple OTP sent to your phone is all I need to confirm. Please, sir!

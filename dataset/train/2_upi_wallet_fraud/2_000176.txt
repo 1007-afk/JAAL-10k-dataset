@@ -1,0 +1,8 @@
+caller: Hello, mai Axis bank se Deepak bolta hu. Aapke Axis bank account mein kuch suspicious activity dikhi hai.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Sir, aapke account se ₹5000 ka transaction hua hai ek unknown wallet mein. Immediate action lena padega.
+receiver: ₹5000? Lekin maine koi transaction nahi kiya! Yeh fraud hai.
+caller: Haan sir, fraud hi lag raha hai. Aapko apna account secure karne ke liye ek OTP verify karna hoga. Mai aapko ek link send karunga, us par click karke verify karein.
+receiver: Woh link share karein, aur OTP kabhi nahi dunga. Mein bank branch jaake baat karta hu.
+caller: Sir, time bahut kam hai. Account block ho sakta hai. Aapko PhoneyPe app mein ek collect request milegi, usko accept karke ₹200 ka verification fee de dijiye. Tabhi account unblock hoga.
+receiver: ₹200? Yeh kya bakwas hai! Mein report karta hu.

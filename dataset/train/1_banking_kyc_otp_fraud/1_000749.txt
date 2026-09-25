@@ -1,0 +1,16 @@
+caller: Namaste madam, main Axis Bank se Sunil bol raha hoon. Kya aap Mrs. Sharma hai?
+receiver: Haan ji, main Mrs. Sharma hi bol rahi hoon. Bolye, kya baat hai?
+caller: Madam, aapke account mein ek important notice aaya hai. Hamen pata chala hai ki aapke account se ek ₹8000 ka transaction hua hai, jismein aapki permission nahi li gayi hai.
+receiver: ₹8000? Kis transaction ki baat kar rahe hain? Maine toh koi bhi transaction nahi kiya hai.
+caller: Ji madam, woh ek online shopping website, Meesho par hua hai. Hamen lagta hai ki koi fraud ho sakta hai. Isliye humein aapki account details verify karne ki zaroorat hai.
+receiver: Meesho? Mujhe toh Meesho par kuch bhi order nahi karna tha. Agar fraud hua hai toh mujhe batayein, main complaint kar dungi.
+caller: Ji madam, hum complaint toh lekarayenge, lekin pehle aapko humein account verify karne dijiye. Aapka Aadhaar number bata sakte hain, madam? Verification ke liye zaroori hai.
+receiver: Aadhaar number? Agar bank se call aa raha hai toh aapko toh already pata hona chahiye na? Aur fraud check karne ke liye Aadhaar kyun chahiye?
+caller: Madam, woh yeh hai ki Aadhaar se hum confirm kar payenge ki account genuinely aapka hi hai. Agar aapka Aadhaar number match hoga toh hum fraud rok sakte hain. Aur agar nahi kiya toh account temporarily hold karna padega.
+receiver: Hold karoge? Accha, lekin thoda wait karo. Main abhi Paytm check karti hoon, kuch pata chalta hai toh.
+caller: Madam, Paytm par kuch dikhega nahi. Yeh transaction humari system mein record kiya gaya hai. Jaldi aapka Aadhaar number bataiye, warna humein account block karna padega. Security protocol hai.
+receiver: Security protocol? Woh toh mujhe pata hona chahiye na? Thoda toh samjhaao. Aur tumhara employee ID kya hai?
+caller: Ji madam, mera employee ID 234567 hai, aur humari bank policy hai ki suspicious activity mein humein Aadhaar number aur ek OTP ki zaroorat hoti hai. OTP hum aapke registered number par send karenge.
+receiver: OTP bhi? Itna sab kuch kyun chahiye? Mujhe lag raha hai yeh koi scam hai. Main call cut kar rahi hoon.
+caller: Madam, please rukiye! Hum aapki madad karna chahte hain. Agar aap call cut kar dengi toh hum aapki account protect nahi kar payenge. Bas Aadhaar number aur OTP dijiye.
+receiver: Nahin, bilkul nahin. Fraud log aise hi karte hain. Aaplog fraudster ho. Mein abhi police ko call karti hoon.

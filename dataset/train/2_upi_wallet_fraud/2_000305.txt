@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Priya se baat ho rahi hai, Amazon Rewards se. Aapko ek achha news mili hai! Aapke Amazon account par ₹5000 ka cashback offer hai, sirf Diwali special offer ke under.
+receiver: ₹5000 cashback? Really? Mujhe koi notification nahi mila.
+caller: Haan ji, offer limited time ke liye hai. Confirm karne ke liye, aapko bas apne UPI ID verify karna hai. Aapka UPI ID jo phone pe register hai, woh share kardo.
+receiver: UPI ID?  Kyon verify karna padega?  Amazon toh kabhi bhi aise nahi puchta.
+caller: Arre, security ke liye! Fraud se bachne ke liye hum verify karte hain.  Aapka account safe rahega.  Aapka UPI ID share kar do, main verify kar dungi aur cashback activate kar dungi. Jaldi karo, offer abhi khatam hone wala hai!
+receiver: Wait, wait.  Ek minute.  Mein check karta hoon.
+caller: Jaldi karo ji! Offer time-limited hai.  Aapka ₹5000 cashback chala jaayega! Aapka UPI ID share karein, please!
+receiver: Okay, fine. UPI ID hai 9876543210@axisbank.
+caller: Thank you! Offer activate ho gaya hai. Ab aapko ek small processing fee bhar na hoga ₹200, taaki cashback aapke account mein transfer ho sake. Aapko ek link mil raha hai – uspe click karke payment karein.

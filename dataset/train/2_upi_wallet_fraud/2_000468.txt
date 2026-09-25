@@ -1,0 +1,8 @@
+caller: Namaste ji, main PhonePe se Amit bol raha hoon. Aapke PhonePe account mein ek suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Kaun sa? Mujhe toh koi message nahi aaya.
+caller: Ji, system ne khud detect kiya hai. Ek transaction ki attempt ki gayi hai ₹499 ka, lekin payment fail ho gaya. Account secure rakhne ke liye, aapko verification karna hoga.
+receiver: ₹499? Lekin main toh kabhi ₹499 ka transaction nahi kiya. Aur verification kaise karna hai? OTP milega kya?
+caller: Haan ji, OTP milega. Aapko apna PhonePe app open karke ‘Security Check’ section mein jaana hai. Wahan par ek link milega, us par click karein aur OTP enter karein.
+receiver: App mein ‘Security Check’ section nahi mil raha hai. Aur mujhe yeh sab zyada suspicious lag raha hai. PhonePe ka official helpline number toh mujhe pata hai.
+caller: Ji, woh old version mein nahi dikhta. App update karein aur fir check karein. Update ke baad aapko OTP verify karna hoga, otherwise aapka account block ho sakta hai.
+receiver: Account block ho jayega? Theek hai, dekhta hoon. Lekin mujhe abhi bhi trust nahi kar raha hoon.

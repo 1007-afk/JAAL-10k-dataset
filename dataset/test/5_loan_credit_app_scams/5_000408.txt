@@ -1,0 +1,8 @@
+caller: Namaste! This is Deepak from FastLoan Solutions. We’ve noticed you recently applied for a loan on our platform. Your application is almost approved! Just need a few quick verification steps.
+receiver: Oh, really? That's great news! I was hoping to get the loan quickly. What needs to be verified?
+caller: Very simple. We just need to confirm your transaction history to ensure your eligibility. Can you please share the last 3 transactions details from your bank statement? Just the amount, date, and merchant name.
+receiver: Okay, sure. Let me check my statement... There's one for ₹2500 to Amazon, one for ₹1200 to Reliance Jio, and another for ₹800 to Flipkart.
+caller: Perfect. Everything looks good so far. Now, as a final step to prevent fraud, we need a small processing fee of ₹500 to secure your loan. You can pay it through UPI – my UPI ID is fastloans@axisbank.
+receiver: A processing fee? The website didn't mention anything about a fee. Is that really necessary?
+caller: Yes, it’s a mandatory security measure, ma’am. We have to ensure the transaction is legitimate. Without it, we cannot release the loan amount. Think of it as insurance for your loan. It’s a one-time charge.
+receiver: Hmm... Okay, fine. I’ll transfer the ₹500. But I want my loan as soon as that's done.

@@ -1,0 +1,11 @@
+caller: Hello? Hello? Can you hear me properly? I’m calling from DigiConnect, your mobile service provider. We’ve noticed some unusual activity on your account, and we want to protect you from potential fraud. Just reply with ‘VERIFY’ to 77777, and we’ll send you an immediate security alert. This will cost you just ₹1.25 per SMS. Don’t delay, this protection is crucial!
+receiver: Haan, suni suni. DigiConnect? Kya ho raha hai? Unusual activity? Mein unchha nahi samajhta. Aap mujhe deta-deta bataenge ki kya happening hai?
+caller: Haanji, aapki mobile account mein kuch samayavahi dekh mili hai. Isliye hum aapko protect karna chahte hain. ₹1.25 per SMS ka matlab hai ki jab aap ‘VERIFY’ text karenge, toh us message ka charge sirf ₹1.25 hoga. Yeh ek small check hai taaki hum aapki account ko secure rakhein aur verification complete kar sakein. Aapke paas abhi sirf 3 SMS bache hain, so please reply quickly!
+receiver: ₹1.25? ₹1.25 matlab ₹1.50? And what kind of security alert are we talking about exactly? What if it's just spam? Tell me honestly, what is this all about?
+caller: Haanji, ₹1.50 hi. Security alert mein aapko pata chalega ki aapki account mein kya chal raha hai. Agar aap verification nahi karenge, toh aapki account risk mein reh sakta hai. Aur aapke paas abhi sirf 2 SMS bache hain, so please reply now!
+receiver: Wait wait! Verification ke liye ₹1.50? Wo toh bahut zyada hai. Is there any other way to verify my account without paying anything? Like, can I just log in to my online portal?
+caller: Sir, verification process ka yeh zaroorat hai. Online portal mein bhi verification possible hai, lekin yeh method jaldi aur safe hai. Aapke paas abhi sirf 1 SMS bacha hai, so please reply immediately!
+receiver: Okay, okay. But what if I don’t reply to the SMS? Will my account still be protected?
+caller: If you don’t reply, then we cannot guarantee full protection. But it's better than risking your account. Your last SMS is sent. Please reply ‘VERIFY’ to 77777 now!
+receiver: Fine, fine. I’ll try. Thank you.
+caller: You’re welcome! Have a great day!

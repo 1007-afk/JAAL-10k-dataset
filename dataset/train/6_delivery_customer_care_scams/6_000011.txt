@@ -1,0 +1,16 @@
+caller: Namaste! Aapne 'GiftKart' se ek offer dekha hoga, right? Ek FREE Bluetooth speaker ke baare mein? Mein check kiya, aapka number eligible hai! Bas 'PLAY' message karna hai to aapko speaker mil jaayega. Simple hai na? Kya aap excited hain speaker collect karne ke liye?
+receiver: Oh wow, Bluetooth speaker free mein? 'PLAY' karna hai? Ok, play kar deta hoon.
+caller: Exactly! Very good! Ab bas aapko ek small verification step complete karna hoga, taaki hum aapki gift ko safe deliver kar sakein. Uske liye humein aapki address ki zarurat padegii. Kya main aapki address jaan sakta hoon?
+receiver: Haanji, meri address Delhi mein hai, Janpath ka naka.
+caller: Shukriya, Delhi ji! Sanjay Kumar ji, ab aapko ek small OTP verify karna hoga, jo aapke registered mobile number par aa jayega. Kya aapko abhi receive hua?
+receiver: Haanji, abhi aaya hai. Just a sec, check karta hoon.
+caller: Awesome! Sanjay Kumar ji, yeh OTP aapke account details ko secure karne ke liye hai, taaki aapki gift koi aur use na kare. Once yeh verify ho jaaye, toh hum delivery process start karenge. Aapko bas woh OTP mujhe bata dena hai.
+receiver: Ji haan, abhi receive hua. 3... 4... 5... 6... 7... 8... yeah, 345678 hai OTP.
+caller: Hello, hello! Kaise ho aap? Aapne ‘LuckyDraw’ app se ek notification dekha hoga, right? Ek FREE smartphone case ke baare mein? Maine check kiya, aapka number shortlisted hai! Bas ‘CLAIM’ reply karna hai to aapko case mileyga. Itni simple! Kya aap ready hain claim karne ke liye?
+receiver: Oh, seriously? A free case? ‘CLAIM’ karna hai? Okay, I will claim it.
+caller: Haanji, absolutely! Bahut achcha! Ab bas aapko ek small information update karna hoga, taaki hum aapki prize ko smoothly aap tak pahuncha sakein. Iske liye humein aapki city ki zarurat padegi. Kya main aapki city jaan sakta hoon?
+receiver: Haanji, meri city Mumbai hai.
+caller: Dhanyavaad, Mumbai! Priya Patel ji, ab aapko ek small verification code verify karna hoga, jo aapke registered email id par aa jayega. Kya aapko abhi receive hua?
+receiver: Haanji, abhi aaya hai. Let me see…
+caller: Oh, fantastic! Priya Patel ji, yeh code aapke payment details ko secure karne ke liye hai, taaki aapki case kisi bhi problem mein na pade. Once yeh verify ho jaye, toh hum prize dispatch ki process start kar denge. Aapko bas woh code mujhe send karna hai.
+receiver: Ji haan, abhi receive hua. 9... 0... 1... 2... 3... 4... yeah, 901234 hai code.

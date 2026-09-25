@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Deepesh se baat ho rahi hai, Vi Pay se. Aapko apne recent online shopping pe ₹300 cashback offer mila hai. Flipkart se ₹700 ki purchase ki thi na?
+receiver: Haan, maine Flipkart se kuch saman liya tha. ₹300 cashback? Kab milega?
+caller: Cashback milne ke liye, aapko ek small verification process complete karna hoga. Aapko sirf apne Vi Pay account se ₹10 verify karna hai, taaki cashback transfer ho sake. 98767 pe VERIFY send karein.
+receiver: ₹10 verify? Vi Pay se? Main generally Vi Pay use nahi karta. Flipkart directly cashback nahi dega kya?
+caller: Bhai, Vi Pay ek special Diwali offer hai, Flipkart ke saath partnership mein. Yeh bahut limited time offer hai, sirf aaj tak. 98767 pe jaldi send karein, otherwise aapka offer miss ho jayega. ₹10 bahut kam hai, aapko ₹300 milenge!
+receiver: Okay, theek hai. I’ll try.  But please tell me, exactly how will the ₹10 be used?
+caller: ₹10 sirf verification ke liye use hoga. Woh Vi Pay account mein credit ho jayega, aur aapko cashback mil jayega. Ab jaldi send karein, time barbaad mat karein!

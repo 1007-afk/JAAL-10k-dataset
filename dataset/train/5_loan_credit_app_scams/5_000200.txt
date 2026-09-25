@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Rahul Verma, FinEase Loans se baat kar raha hoon. Aapne hamare app se personal loan ke liye apply kiya tha, hai na? Verification ke liye call kar raha hoon.
+receiver: Haan, ji. FinEase app se apply kiya tha. Kya baat hai?
+caller: Sir, aapka application approved ho gaya hai, bahut achha credit score hai aapka. Lekin, security check ke liye, mujhe aapke bank account ka last statement chahiye. Tabhi loan transfer kar sakte hain.
+receiver: Bank statement? Kyun? App mein document upload karne ka option tha.
+caller: Sir, system mein technical issue aa gaya hai. Isliye main aap se directly phone pe details lera hoon.  Bas last month ka statement, account number aur last five transactions ka details chahiye.
+receiver: Theek hai, account number hai [Receiver’s Account Number]. Transactions ka details… wait, wait. Yeh lo… [Receiver lists a few transactions].
+caller: Bahut achha! Sir, ab jo last transaction hua tha, uska reference number bataiye? Iske baad main aapke account mein 25,000 rupees transfer kar dunga.

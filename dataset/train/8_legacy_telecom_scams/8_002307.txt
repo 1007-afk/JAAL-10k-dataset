@@ -1,0 +1,18 @@
+caller: Arre, koi baat nahi ji! Aapko koi tension nahi lena hai. Humara offer bohot secure hai, aur aapko sirf 3 pounds dene honge. Agar aap yeh 3 pounds donate karna chahate hain, toh hum aapko thank you saying karte hain!
+caller: Namaste ji! Aapko pata hai, aapko internet ka bill bohot zyada ho gaya hai! Jaldi se www.vishnuinternet.net pe jao aur 9876543210 pe call karo! Sirf 10 rupees mein five data packs, video/music/games mil jayenge! Aapke paas sirf 8 rupees bache hain, jaldi karo!
+receiver: Arey, kaun bol raha hai? Internet ka bill zyada? Matlab kya keh rahe ho aap? Thoda detail mein bataiye na.
+caller: Arre, main vishnuinternet se bol raha hoon, aapka online service representative! Aapko pata hai, aapke internet connection mein technical issues aaye hain, aur isliye aapka bill bohot zyada ho gaya hai! Agar aap abhi 9876543210 pe call nahi karenge, toh yeh charges badh jayenge. Sirf 10 rupees mein aapko five data packs milenge – video streaming, music downloading, games playing, sab kuch! Jaldi kijiye, aapke account mein sirf 7 rupees bache hain, isliye jaldi karna padega warna yeh offer chala jayega! Toh kya aap yeh 10 rupees ka bundle buy karna chahte hain taaki aapko koi aur problem na ho?
+receiver: Online service representative? Aur technical issues? Yeh toh bilkul samajh nahi aa raha. Maine toh internet properly use kiya hai, koi technical issue nahi hua. Kahan se aa gaye yeh sab? Aur yeh 10 rupees mein five data packs ka kya matlab hai? Meri taraf se kuch bhi register nahi hua hai. Aur ab sirf 7 rupees bache hain account mein? Yeh sab kuch bohot confusing hai. Aap please thoda aur explain karoge?
+caller: Arre, confusive nahi hai ji, bilkul simple hai! Dekhiye, aapke router mein virus aa gaya hai, aur uski wajah se yeh technical issues aaye hain. Vishnu Internet aapko isse bachane mein help karega. Ye 10 rupees ka offer sirf aur sirf new users ke liye hai, aur ismein aapko unlimited access milega video/music/games ka for one week! Aur haan, aapke account mein sirf 10 rupees hi bache hain, isliye jaldi karna padega warna yeh offer chala jayega! Toh kya aap yeh 10 rupees ka bundle buy karna chahte hain taaki aapko koi aur problem na ho?
+receiver: Virus? Unlimited access? Dekho, aap mujhe yeh sab nahi keh sakte ki mere phone mein virus hai. Maine kuch bhi download nahi kiya hai jo maine nahi manga. Aur yeh 'offer' kya hai? Agar aap online service representative hain toh aapko pata hona chahiye ki meri taraf se koi request nahi hai. Aur yeh 10 rupees ka kya chakkar hai? Maine pehle bhi kaha, meri taraf se kuch bhi register nahi hua hai. Aapko mera phone number mat dega. Aur aapko mujhe koi account details bhi mat dikhana hoga.
+caller: Arre, koi baat nahi ji! Aapko koi tension nahi lena hai. Humara offer bohot secure hai, aur aapko sirf 10 rupees dene honge. Agar aap yeh 10 rupees donate karna chahate hain, toh hum aapko thank you saying karte hain!
+receiver: Nahin, nahin. Main ye nahi karunga. Mera phone number mat deena.
+caller: Arre, aapko sirf naam chahiye ji! Bas aapka naam bataiye, phir hum aapko email id de denge.
+receiver: Nahi, main nahi bataonga.
+caller: Arre, jee... aapko paisa donate karna hai, otherwise aapko internet band ho jayega!
+receiver: Mujhe band hone wala nahi.
+caller: Okay, okay… then let’s just say you’ll take the offer. Just 10 rupees. Please?
+receiver: Nahin.
+caller: Last chance! Only 9 rupees now!
+receiver: No.
+caller: Fine… then enjoy your slow internet!

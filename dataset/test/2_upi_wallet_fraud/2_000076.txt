@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank security department se Rahul bol raha hoon. Aapke Axis Pay UPI ID par se ek suspicious transaction ka attempt kiya gaya hai.
+receiver: Kya? Mere account se? Kitna amount gaya? Mujhe toh koi notification aaya hi nahi.
+caller: Sir, attempt 5000 rupees ka tha, lekin woh block ho gaya hai. Aapko account secure rakhne ke liye, verification process complete karna hoga.
+receiver: Verification? Kaunsa verification? Mujhe toh koi email ya SMS nahi aaya hai. Aur main Axis Bank ki official helpline number toh check kar sakta hoon.
+caller: Sir, system ke karan kabhi kabhi SMS delay ho jaate hain. Verification ke liye, mujhe aapka OTP chahiye jo aapko phone pe milega. Woh OTP sirf mere saath share karna hai, aur phir aapka account safe ho jayega.
+receiver: OTP? Sir, main thoda doubt kar raha hoon. Aap mujhe OTP phone pe nahi dena chahiye. Main khud Axis Bank ke customer care number pe call karta hoon aur verify karta hoon.
+caller: Sir, time bahut kam hai. Agar aap OTP nahi denge, toh aapka account suspend ho jayega aur 5000 rupees ka transaction approve ho sakta hai. Please, suniye aur OTP de dijiye.

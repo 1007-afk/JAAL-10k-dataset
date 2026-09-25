@@ -1,0 +1,7 @@
+caller: Namaste! Caller ID shows this is Rajesh Kumar? I’m calling from HDFC Bank security. We’ve noticed some unusual activity on your linked PayTM wallet linked to your HDFC account.
+receiver: HDFC Bank? Haan, Rajesh Kumar. Kya hua? Itni jaldi call kyu kar rahe ho?
+caller: Sir, we've detected a few failed transaction attempts from an unknown device. To protect your funds, we need to quickly verify your identity. Can you please confirm the last four digits of your Aadhaar card number? It's just a routine security check.
+receiver: Aadhaar number? Why would you need that? I thought you already have my details. This feels a bit suspicious.
+caller: Sir, due to new RBI guidelines, we are implementing stricter verification protocols. It's to safeguard all our customers, especially with rising online fraud. To proceed, could you also provide the OTP that we just sent to your registered mobile number? Just confirm that you received it.
+receiver: Wait a minute. I haven't received any OTP. And I’m very uncomfortable giving you my Aadhaar number over the phone. I will call HDFC directly from their official number to verify this.
+caller: Sir, that’s a good idea to be cautious. However, the delay could leave your account vulnerable. The OTP is crucial to prevent further unauthorized access. Just quickly provide it, and we’ll secure your account immediately. Time is of the essence, sir. Your account might be temporarily blocked if we don't hear back from you within the next 3 minutes.

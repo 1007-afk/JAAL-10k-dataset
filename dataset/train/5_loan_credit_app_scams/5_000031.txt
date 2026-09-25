@@ -1,0 +1,8 @@
+caller: Hello? Ji haan, main bol raha hoon. Aapko loan ke baare mein baat karni thi? £500 se £75,000 tak ka loan, kisi bhi purpose ke liye. Gharwalon ya tenants, sab apply kar sakte hain. Kabhi pehle refuse hue hain? Koi baat nahi, hum help kar sakte hain. Aapka naam jaan sakta hoon?
+receiver: Ji haan, bilkul. Mera naam Rahul hai. Aur haan, loan ke baare mein hi poochhna tha.
+caller: Nice to meet you, Rahul ji. So Rahul ji, aapko loan ki amount kitni chahiye aur aapki requirement kya hai? Basically, aapko yeh loan kis purpose ke liye chahiye?
+receiver: Haanji, main actually ghar ke liye loan apply karna chahta hoon. Amount lagbhag 15 lakh tak ka dekh raha hoon. Thoda renovation work hai.
+caller: 15 lakh ka renovation? Great choice, Rahul ji! Bahut acche plans honge. Aapka current address kya hai aur kya aap homeowner hain ya tenant? Aur kya aapki income per month kitni hai, roughly?
+receiver: Ji haan, main homeowner hoon. Address hai mera 12B, Green Avenue, Dwarka Sector 10. Aur monthly income meri lagbhag 80,000 ke aas paas hai.
+caller: Bahut badhiya, Rahul ji. Homeowner aur Rs. 80,000 income, yeh sab bohot positive hai. Hum aapke liye definitely kuch achha dhoondh sakte hain. Toh, Rahul ji, hum aapko loan ki approval process ke baare mein thoda aur detail mein bata sakte hain. Humko bas kuch documents ki verification karni hogi, jisme aapki identity proof, address proof aur income proof shamil hai. Kya aapko yeh sab documents provide karne mein koi issue hoga?
+receiver: Nahi, koi issue nahi hai. Mere paas sab documents ready hain. Aap bataiye, kab tak ho jayega yeh sab?

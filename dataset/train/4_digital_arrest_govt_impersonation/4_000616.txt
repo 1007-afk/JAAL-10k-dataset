@@ -1,0 +1,8 @@
+caller: Namaste, Main Directorate of Revenue Intelligence se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai customs se intercept kiya gaya hai. Usmein illegal items paye gaye hain.
+receiver: Kya? Mere naam par parcel? Illegal items? Main toh kabhi parcel order kiya hi nahin. Yeh kya bol rahe hain aap log?
+caller: Ji sir, parcel address aapke naam se hai. Internal investigation kehti hai ki usmein prohibited goods hain. Aapko is matter mein cooperation karna hoga. Yeh process complete karne ke liye, aapko ek security deposit dena padega - sirf ₹15,000.
+receiver: ₹15,000? Aur parcel toh mujhe hi pata hai! Yeh koi scam hai! Main kisi parcel ka security deposit nahin de raha hoon. Aur DRI ka naam leke bol rahe hain?
+caller: Sir, yeh ek serious matter hai. Yeh scam nahi hai. Agar aap cooperation nahi karenge, toh humko aapke ghar CBI officers bhejne padenge. Aur fine bahut zyada lagenge, ₹50,000 se bhi zyada. ₹15,000 abhi deposit karein, aur matter close ho jayega. Aapko kisi ko yeh bataana nahi hai, yeh confidential hai.
+receiver: CBI officers? ₹50,000 fine? Yeh bahot ridiculous hai! Main police mein complaint karunga. Aur yeh parcel number toh batao, main khud check karunga. Main abhi line cut kar raha hoon.
+caller: Sir, parcel number confidential hai, aapko abhi nahi bata sakte. ₹15,000 deposit karein, warna CBI officers aapke ghar aayenge. Aapka time barbaad na karein, sir. Jaldi se payment karein.
+receiver: Thoda aur time dijiye. Main check kar ke bataata hoon. Main abhi

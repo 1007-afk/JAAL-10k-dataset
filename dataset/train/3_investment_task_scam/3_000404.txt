@@ -1,0 +1,11 @@
+caller: Namaste! Yeh Sanjay Sharma bol raha hun, 'Digital Solutions India' se. Aapko humare online course ke bare mein batana chahay ji. Humein pata chha hua hai ki aapne recently 'Data Analytics Basics' ka search kiya tha.
+receiver: Namaste Sanjay Ji. Haanji, mene search kiya tha, lekin mujhe koi course nahi mili. Aur main digital marketing ka training le raha hun.
+caller: Ah, excellent! Toh aapko digital marketing mein bahut zaruri data analysis skills ki zaroorat hai, hai na? Humare course mein isse zyada knowledge milegi. Ismein Excel, SQL, aur Python bhi shamil hai.
+receiver: Haan, mujhe pata hai, lekin mujhe abhi ye sab seekhna nahi chahta. Maine jo training li hai, usse hi kaam chalega.
+caller: Bas karo! Ye ek bahut hi special offer hai. Just ₹5000 mein aapko complete course mil jayega. Aur is offer mein, hum aapko free laptop bhi denge!
+receiver: ₹5000? Laptop? Wo bhi? Koi mistake hai kya? Mujhe koi laptop bhi chahiye nahi.
+caller: Arey, wo sirf limited time ke liye hai. Aur sirf few selected people ke liye. Tumhein jitna opportunity milta hai, utna valuefull hai. Iske baad, tumhare paas is offer ko book karne ka chance nahi rahega. Just 2 attempts bache hain. So, kya aap agree karte hain?
+receiver: Nahin, main agree nahi karta. Main jo kar raha hu, usse hi kharch karunga. Aapka number meri record se remove kar dijiye.
+caller: Arey, koi baat nahin! Par agar tum apne dil se keh rahe ho, toh hum kisi aur ko call kar lenge.  Tumhari selection process abhi tak chal rahi hai.  Just one last try – are you sure you don’t want to grab this amazing deal?
+receiver: Haan, mujhe assurance nahi hai. Main definitely nahi chahta. Please mujhe disturb mat karein.
+caller: Okay, okay! Fine!  Hum aapko phir se contact karenge.  But remember, yeh offer sirf 24 hours ke liye valid hai.  Agar aapko koi confusion ho toh humein bataiye. Shukriya!

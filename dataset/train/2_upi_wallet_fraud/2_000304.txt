@@ -1,0 +1,8 @@
+caller: Namaste, yeh Vijay se baat kar rahe hain, PhonePe support team se. Aapke PhonePe account mein ₹5000 ka cashback offer hai, sirf naya PhonePe wallet create karke.
+receiver: ₹5000 ka cashback? PhonePe wallet create karke? Kaise? Mujhe toh koi offer nahi dikh raha.
+caller: Haan ji, yeh special offer hai sirf select customers ke liye. Aapko ek verification link mil raha hai, us par click karke apne bank account details daalna hai. Verification ke liye sirf OTP daalna hai, bas.
+receiver: Bank account details PhonePe mein? Seedha daalna hai? Yeh thoda risky toh lag raha hai, sir. PhonePe toh bank details nahi maangta.
+caller: Sir, security ke liye OTP daalna bahut zaroori hai. Aur ₹5000 cashback mil jayega, sir. Abhi offer valid hai, sir, jaldi kijiye. Verification link yahan send kar raha hoon.
+receiver: ₹5000? Verification link? Thoda wait karo, main PhonePe app mein check karta hoon, phir bolta hoon. Mujhe yeh kuch galat lag raha hai.
+caller: Sir, jaldi please! Offer expiry ho raha hai. Abhi click karein, sir!
+receiver: Nahin, mujhe verification link nahi chahiye. Main nahi karunga.

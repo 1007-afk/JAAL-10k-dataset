@@ -1,0 +1,12 @@
+caller: Namaste! Namaste! Suno beta, congratulations! Aapko ek badi Diwali ki lottery mein jeet mili hai! ₹15,000 ka prize aapka hai, sabse achcha dost ne kiya hai yeh gift! Ye jo number bata rahi huon, 9876543210 pe call karein, sirf ₹1 paisa per second! Agar aap call nahi karenge, toh prize aapko nahi milega, samajh mein aaya?
+receiver: Oh wow! ₹15,000? Jeet gayi? Seriously? Mera naam Mukesh hai. Kya bata rahe hain aap? Number bata do, please. ₹1 paisa per second? Yeh kya baat hai!
+caller: Haan Mukesh ji, aapko congratulations! Ek special client ne aapko Diwali ki wish di hai, aur woh aapko ₹15,000 ka prize de raha hai! Parantu, agar aap koi documents submit karna chahte hain, toh 9876543210 par call karein, unhe bol denge ki Mukesh ji Diwali ki wish kar rahe hain. Agar aap call nahi karte, toh prize aapko nahi milega!
+receiver: Documents submit karna hai? Okay, okay. Main unhe bolunga ki Mukesh ji Diwali ki wish kar rahe hain. Number bata do phir se. 9876543210. Please tell me, is this really legit?
+caller: Haan Mukesh ji, yeh totally legit hai! Hamare office mein sab log Diwali ki pooja karte hain, aur hamara boss ne kaha ki Diwali ki wish karne walon ko prize milni chahiye! Isliye, aapko sirf 9876543210 par call karna hai aur unhe bolna ki Mukesh ji Diwali ki wish kar rahe hain. Jaldi se call karein, prize jaldi khatam ho jaayega!
+receiver: Okay, okay. Jaise ki aap keh rahe hain. Main abhi call karta hoon. Dhanyavaad!
+caller: Haan Mukesh ji, dhanyavad aapne call kiya! Diwali ki pooja mein aapko khushiyon ki sari wished! ₹15,000 ka prize aapka hai! All the best, aur jaldi se call karein 9876543210! Bye!
+receiver: Bye bye!
+caller: Haan Mukesh ji, Diwali ki pooja mein aapko khushiyon ki sari wished! ₹15,000 ka prize aapka hai! All the best, aur jaldi se call karein 9876543290! Bye!
+receiver: Ahaan... 9876543290? Woh number bhi bata do!
+caller: Haan Mukesh ji, 9876543290.  Agar aap call nahi karte, toh prize aapko nahi milega! Bye!
+receiver: Okay, okay. Main abhi call karta hoon. Dhanyavaad!

@@ -1,0 +1,11 @@
+caller: Namaste, main XYZ Courier se Rahul bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai.
+receiver: XYZ Courier? Haan, mujhe yaad hai maine kuch order kiya tha. Kya problem hai?
+caller: Ji, parcel mein likha hai ‘Sector 12, Noida’, lekin system mein ‘Sector 12, Ghaziabad’ dikh raha hai. Parcel deliver karne se pehle, mujhe confirm karna hai.
+receiver: Ghaziabad? Nahin, main Noida mein rehta hoon. Sector 12, Noida hi hai.
+caller: Ji, maaf karna. Lekin is parcel ko deliver karne ke liye, ek small verification fee bharne hogi – ₹250 sirf. Iska payment UPI se kar sakte hain.
+receiver: ₹250? Verification fee? Parcel free mein nahi mil raha hai kya? Ye thoda zyada lag raha hai.
+caller: Sir, security protocol hai. Payment karne ke baad, main instant delivery arrange kar dunga. Yeh humara standard procedure hai, sir. Payment karke aapko parcel jaldi mil jayega.
+receiver: Theek hai, ₹250. UPI ID de do. Main check karta hoon.
+caller: Ji, UPI ID hai: paynow.xyz/verify. Jaldi karo sir, warehouse mein parcel return hone wala hai.
+receiver: Okay, wait a minute... I'll make the payment.
+caller: Dhanyavaad sir! Payment confirm hone ke baad, main aapko delivery boy ka number de dunga. Aapko parcel 1 hour mein mil jayega.

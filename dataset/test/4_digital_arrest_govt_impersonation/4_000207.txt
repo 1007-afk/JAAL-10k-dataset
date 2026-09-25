@@ -1,0 +1,7 @@
+caller: Namaste! Mai Inspector Verma, Delhi Police se bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal drugs paye gaye hain.
+receiver: Drugs? Lekin, mai toh kabhi parcel order nahi kiya. Mere paas koi expectation nahi hai.
+caller: Ye koi order nahi hai, sir. Yeh ek courier hai jo kisi aur ne bheja hai, lekin aapka address us par likha hai. Case number 2023-DL-7894 hai.
+receiver: Case number? Ye bahut serious hai. Mai toh bilkul innocent hu. Mujhe kuch bhi pata nahi hai.
+caller: Innocent hone se kuch nahi hota, sir. Abhi aapko ek video call ke zariye police station mein aana hoga, taki aapke statement ki recording ho sake aur parcel ko identify kar sake. Agar aap call nahi karte, toh warrant nikalna padega.
+receiver: Warrant? Mai abhi call nahi kar sakta. Mujhe ye sab bahut doubtful lag raha hai. Mai apni local police station mein report karunga.
+caller: Police station mein report karna sahi nahi hai, sir. Yeh matter bahut confidential hai aur sirf hum hi handle kar sakte hain. Agar aap cooperation nahi karenge, toh humko majboori mein legal action lena padega. Apki safety bhi at stake hai. Abhi call karo, 9876543210 pe.

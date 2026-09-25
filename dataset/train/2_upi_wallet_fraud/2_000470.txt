@@ -1,0 +1,9 @@
+caller: Hello sir/madam, this is BharatPay customer care. We noticed some unusual activity on your account and need to verify your details to prevent fraud.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes sir, a large amount – 15,000 rupees – was attempted to be sent from your BharatPay wallet to an unknown account. We’ve temporarily frozen your account to secure your funds.
+receiver: 15,000 rupees? That’s crazy! I didn’t authorize that. What do I need to do?
+caller: To unfreeze your account and reverse the transaction, we require a small verification fee of 999 rupees. This will help us trace the fraudulent transaction and ensure your money is safe. You can pay it through a UPI collect request.
+receiver: A verification fee? That sounds suspicious. Why can’t I just report this to BharatPay directly?
+caller: Sir, due to the urgency and the potential loss of funds, we need to process this quickly. The collect request is from BharatPay official ID: bharatpay.verify@upi. Please confirm your payment immediately to avoid permanent account closure and further losses.
+receiver: Okay, fine. Send the collect request. But if this is a scam, I'm reporting you.
+caller: Excellent! Your account will be restored within minutes. You've made a wise decision to protect your funds. Have a good day, sir/madam.

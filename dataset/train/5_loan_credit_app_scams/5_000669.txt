@@ -1,0 +1,9 @@
+caller: Hello, is this Raj Patel? I'm calling from SwiftLoan Solutions. We've pre-approved you for a business loan of ₹75,000 based on your recent online activity.
+receiver: Really? That's great! I could use some extra capital for my tailoring shop. What’s the interest rate?
+caller: Fantastic! The interest is a promotional 8%, very low for an instant loan. Just a few quick details to confirm your identity, and the money will be in your account within hours. Can you tell me the last four digits of your bank account number?
+receiver: Shouldn't I be getting some paperwork or something? This feels a bit quick.
+caller: Sir, this is a streamlined process. Paperwork slows things down. Look, there's a small processing fee of ₹2,500 which needs to be deposited first to unlock the loan. It's just to verify the account. Account number is 9876543210, IFSC code is ABCD0000001.
+receiver: ₹2,500 upfront? That wasn’t mentioned before. I’m not comfortable with that.
+caller: Sir, we don't want you to miss out on this amazing offer! If you don’t pay the fee now, we’ll have to cancel the approval, and we’ll also be forced to send a formal notification to your contacts about your loan application failing. It will be embarrassing for you, understand?
+receiver: Send a notification to my contacts? What are you talking about?
+caller: Sir, we have access to your contact list for verification purposes. It’s standard procedure. Just pay the fee and everything will be fine. Don’t delay!

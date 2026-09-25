@@ -1,0 +1,9 @@
+caller: Namaste! Main Flipkart se Deepak bolta hoon. Aapke recent order number FLP789321 mei ek problem aa gaya hai. Payment gateway ne transaction fail kar diya hai.
+receiver: Oh, really? Which order are you talking about? I haven't received any notification.
+caller: Haan sir. Ye order aapne last week diya tha, ek smart TV ka. Payment fail hone ke karan delivery ruk gayi hai. Aapko ye resolve karne ke liye ₹700 ka verification fee deposit karna padega.
+receiver: ₹700? Verification fee? Flipkart kabhi aisa nahi manta. I’ve been shopping with them for years.
+caller: Sir, ye security measure hai. Fraudulent activities ke cases badh rahe hain. Payment fail hone ke karan system suspect kar raha hai. Main aapko ek secure link send karunga, wahaan pay kar dijiye aur delivery resume ho jayegi.
+receiver: Wait a minute. Can you give me the direct contact number of Flipkart customer care? I want to confirm this with them first.
+caller: Sir, direct number toh mujhe nahi pata, par main aapko claim ID number de sakta hoon – FLPCLAIM007. Aap Flipkart app mein check kar sakte hain. Jaldi karein, link expire ho jayega.
+receiver: Okay, I'll check the app. But I'm not clicking on any link you send me. I'll go directly to the Flipkart website.
+caller: Sir, link mein security protocols hain. Chinta mat karein. ₹700 deposit karein aur aapka TV jaldi hi deliver ho jayega. Time is running out!

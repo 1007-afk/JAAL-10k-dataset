@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Sharma? We've noticed you recently applied for a loan through FastCashPro. Congratulations, you're almost approved! Just a few quick verification steps remain.
+receiver: FastCashPro? I don't remember applying for a loan. I've been pretty busy lately. Are you sure you have the right person?
+caller: Yes, definitely. Your Aadhaar and mobile number match our records. To finalize the approval, we need you to pay a processing fee of ₹75. It's a one-time charge to activate your account and prevent fraud.
+receiver: ₹75? For a loan I didn't even apply for? This sounds very suspicious. I’m not paying anything upfront.
+caller: Look, Rohan, don’t be silly. This is standard procedure. Many people apply and get approved every day. If you don't pay, your application will be rejected, and you’ll lose the chance to get a quick loan. Plus, we have some sensitive information about your family that we could share with them if you cause issues.
+receiver: Sensitive information about my family? That’s a threat! I’m reporting you to the cybercrime unit. Do not contact me again.
+caller: Rohan, please! Don't do this. Just send the ₹75 UPI payment and we’ll activate your loan immediately. We don't want to have to... take further action. Think about it, ₹75 for peace of mind.

@@ -1,0 +1,7 @@
+caller: Namaste sir, mai SuperFastLoans se Rohit bol raha hoon. Aapne hamari website par loan ke liye apply kiya tha, kya? Verification ke liye call kar raha hoon.
+receiver: Haan, ji. Apply kiya tha. Kya baat hai? Mujhe urgent paisa chahiye tha.
+caller: Bahut achha! Aapki application approved ho gayi hai, sir. Lekin security ke liye, aapko apne bank account ka last four digits batao, aur ek OTP share karna hoga.
+receiver: OTP? Kasie OTP? Main toh kisi bhi link par click nahi kiya tha.
+caller: Sir, OTP aapke phone par aayega. Woh number share karna hai, taaki hum account verify kar sakein. Agar OTP share nahi karenge toh loan nahi milega, aur humko laga rahega ki aap fraud kar rahe hain.
+receiver: Sir, yeh thoda shubha dik raha hai. Mujhe thoda confuse ho raha hai.
+caller: Sir, time bahut kam hai. Dusre ko bhi loan approve ho raha hai. Aap jaldi karein, warna offer chala jayega. Aur agar aapko paisa urgent chahiye tha toh aapko rule follow karna padega.

@@ -1,0 +1,10 @@
+caller: Hello sir, is this Priya Verma? This is Akash from Freepik Pay. We have a special cashback offer for you.
+receiver: Freepik Pay? Mein toh kabhi Freepik Pay use nahi kiya. Yeh kya hai?
+caller: Ji madam, aapne recently Freepik website se ek photo download ki hai. Us par aapko ₹1000 ka cashback mil raha hai.
+receiver: ₹1000 ka cashback? Photo download karne se? Itna zyada?
+caller: Haan madam, limited time offer hai. Cashback claim karne ke liye, aapko apne bank account se sirf ₹200 processing fee bhar deni hai.
+receiver: ₹200 processing fee? Aur yeh Freepik Pay account bhi toh mujhe pata nahi. Yeh kuch gadbad lagi. Mein bank account ka detail nahi dungi.
+caller: Arre madam, tension mat leiye. Yeh totally secure hai. ₹200 fee sirf verification ke liye hai. Iske baad ₹1000 cashback aapke account mein transfer ho jayega.
+receiver: Verification ke liye mujhe koi OTP ya link nahi bhejna chahiye. Yeh scam lag raha hai.
+caller: Madam, please understand, without verification, we cannot process your claim. Think about the ₹1000 cashback. It’s a great deal! Just a quick verification.
+receiver: Nahin, thank you. Main kisi bhi link pe click nahi karungi. Aur apne bank ka detail bhi nahi dungi. Main abhi phone kaat deti hoon.

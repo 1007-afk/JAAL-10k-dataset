@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is the Cyber Crime Investigation Cell speaking. We've detected unusual activity on your online banking account, linked to potential involvement in an illegal cryptocurrency exchange.
+receiver: Haan, sunai de raha hoon. Cyber Crime? Kya activity? Mein toh koi cryptocurrency nahi karta.
+caller: Sir, our system flagged several large transactions originating from your account to an unknown offshore wallet. This raises serious concerns about money laundering. To clear this up, we need you to verify some details and make a small payment for a forensic audit. The amount is ₹15,000.
+receiver: ₹15,000? Forensic audit? Kyon? Mein toh koi illegal kaam nahi karta! Aapko kaise pata chala, aur kahan se call kar rahe ho?
+caller: Sir, we are tracking this case live. We’re currently on a secure video call with you to prevent any interference. The money is needed to secure the evidence before it’s compromised. You can use UPI—the number is 9876543210@axisbank. Quickly transfer, sir.
+receiver: Wait, video call? Mein toh koi video call nahi dekh raha hoon! Yeh galat lag raha hai. Mein police station mein jaakar report karunga agar yeh scam nikla!
+caller: Sir, please don't do that. This is a sensitive matter and going to the police could complicate things. Just complete the payment quickly, and we'll resolve this immediately. We have records linking you to this activity – a delay could lead to serious legal consequences. The UPI is 9876543210@axisbank.

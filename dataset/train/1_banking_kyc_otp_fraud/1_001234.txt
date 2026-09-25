@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai ICICI Bank se Rohan bol raha hoon. Aapke naam par ek international transaction attempt kiya gaya hai, jo fail hogaya hai.
+receiver: Haan, international transaction? Fail hogaya? Main toh kuch transaction nahi kiya tha.
+caller: Haan Madam, usliye mai call kar raha hoon. Account secure karne ke liye, mujhe aapka OTP aur ek baar account number verify karna padega. Security protocol ka part hai ye.
+receiver: Account number aur OTP? Ek minute, mujhe thoda doubt ho raha hai. ICICI Bank ka number toh hoga hi, mai check karta hoon.
+caller: Madam, time bahut kam hai. Transaction attempt hone ke karan aapke account pe suspend bhi ho sakta hai. Jaldi se OTP de dijiye, warna account freeze ho jayega.
+receiver: Freeze ho jayega? Okay, toh batao, OTP se pehle mujhe confirm karo ki mai ICICI ka hi customer hoon. Mere account mein last transaction kitne ka hua tha?
+caller: Madam, OTP dene mein hi confirm ho jayega. OTP de dijiye, fir mai aapko details bataunga. Agar OTP nahi milega toh, mai aapko email karein, jisme verification link hai.
+receiver: Email? Toh abhi wait karunga. Phone pe zyada trust nahi kar raha hoon. Aapka number de dijiye, mai check karta hoon.

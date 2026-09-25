@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? I'm calling from BlueDart Courier regarding a package addressed to you. There seems to be an issue with the delivery address – it’s showing as incomplete.
+receiver: Haan, main hi hoon. Kya hua? Package mera hi hai na?
+caller: Yes, sir, it is. The reference number is BD789456. To get the delivery back on track, we need to verify a small security detail. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Kyun? Mujhe toh koi OTP nahi aaya. Aur address incomplete kaise? Mainne toh sahi address diya tha jab maine order kiya tha.
+caller: Sir, it's a standard security protocol. It ensures it's you who is claiming the package. Sometimes there are address discrepancies in the system. Please check your messages again, it might be delayed.  The package contains some sensitive documents, so we must verify.
+receiver: Sensitive documents? Kaun ne sent kiya hai mujhe? Aur blue dart se mujhe message kabhi nahi aaya. Ye thoda suspicious lag raha hai.
+caller: Sir, the sender's details are confidential for privacy reasons.  But please, just the OTP. Once verified, we'll reschedule the delivery for tomorrow morning. We'll also waive the redelivery fee as a gesture of goodwill. It's just a simple 4-digit code.
+receiver: Wait, redelivery fee waive karne ki baat kar rahe ho? Ye toh kuch samajh nahi aa raha hai. BlueDart aise offer deta hai kya? Mujhe toh doubt ho raha hai.
+caller: Sir, we want to ensure the package gets to you safely and promptly. This is a one-time courtesy for our valued customers. Please, the OTP, sir? Just 4 digits.

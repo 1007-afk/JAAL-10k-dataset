@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? This is Inspector Rajesh Kumar calling from the Delhi Customs Department. We've intercepted a suspicious parcel linked to your name.
+receiver: Kya? Parcel? Mujhe toh koi parcel nahi mila. Main toh kuch order kiya hi nahi tha.
+caller: Madam, according to our records, a package containing prohibited items – specifically, suspected contraband – was shipped to your address using your name. We need to verify some details urgently to avoid legal complications. This is a very serious matter.
+receiver: Contraband? Yeh kya bol rahe hain aap? Meri toh kabhi parcel nahi rukta tha. Main toh saare legal documents maintain karti hoon.
+caller: Madam, we understand your concern. To clear this up quickly, we need to confirm a few details. Could you please provide the last four digits of your bank account associated with your online shopping? It’s standard procedure for verifying identity in these cases.
+receiver: Bank account details? Are you serious? Kuch toh gadbad hai. Customs department aise details nahi poochti hogi. Main helpline number se contact karti hoon.
+caller: Madam, please, don’t delay this. We're under pressure to resolve this quickly. If you don’t cooperate, we might have to issue a warrant for your questioning. Just the last four digits, madam. It will only take a second.
+receiver: Warrant? Yeh toh dangerous ho gaya. Aapko mujhe apni identity dikhao, phir main sochna chaungi. Main abhi phone cut karti hoon.

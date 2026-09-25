@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main ApnaPay se call kar raha hoon. Aapke ApnaPay wallet mein ₹15,000 ka transaction hua hai jo verify nahi kiya gaya hai.
+receiver: ₹15,000? Aur kab hua transaction? Mujhe toh koi notification aaya nahi.
+caller: Sir, ye transaction Nepal mein hua hai. Aapko jaldi verify karna hoga warna account suspend ho jayega.
+receiver: Nepal mein? Main toh kabhi Nepal nahi gaya. Verification kaise karun?
+caller: Sir, aapko ApnaPay app mein ₹500 ka OTP verification karna hoga. OTP aane ke baad mujhe bata dena. Verification hone ke baad aapka account secure ho jayega.
+receiver: ₹500? Verification ke paise? Aur mujhe OTP bataana hai?
+caller: Haan sir, ₹500 security deposit hai. OTP sirf verify karne ke liye hai, woh safe hai. Jaldi karo sir, account suspend hone wala hai.
+receiver:  Theek hai, mujhe OTP check karne do. Ek minute.

@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Rupali calling from Paytm Payments Bank. We've noticed some unusual activity on your account and need to verify your identity to prevent fraud.
+receiver: Paytm se baat ho rahi hai? Kya hua? Unusual activity matlab?
+caller: Ji sir, there’s a pending transaction request for ₹7,500 which hasn’t been authorized. For your security, we need to quickly confirm some details. Can you please tell me the last three digits of your PAN card?
+receiver: PAN card number pooch rahe ho? Ek minute, main check karta hu... But why do you need just the last three digits?
+caller: Sir, it’s just a quick security check, sir. Without this, we may have to temporarily suspend your account to protect your funds. Just the last three digits will do.
+receiver: Theek hai, theek hai. Last three digits hain 456. But please, tell me your employee ID and the Paytm helpline number so I can verify this later.
+caller: Your employee ID is RP789. Our helpline number is 1800-11-7296. Now, to complete the verification, we need you to confirm an OTP that’s been sent to your registered mobile number. Please tell me the OTP.
+receiver: Okay, let me check... It’s 9876. Is this all done now?

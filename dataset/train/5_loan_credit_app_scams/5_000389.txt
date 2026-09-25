@@ -1,0 +1,8 @@
+caller: Namaste sir, mein Rahul Verma, FastLoan India se baat kar raha hoon. Aapka loan application receive ho gaya hai. Aapke bank account ka last transaction statement chahiye hoga.
+receiver: Haan, Rahul ji. Mein apna statement check karta hoon. Kya OTP milega mere phone par?
+caller: Ji sir, OTP aayega. Woh OTP mujhe bataiye. Verification ke liye hai. Ek minute please.
+receiver: Haan, aaya hai. 482915.
+caller: Confirm ho gaya. Loan approved ho gaya hai, sir. ₹10,000 aapke account mein jaldi transfer ho jayega. Lekin, processing fee ke ₹500 abhi aapko deposit karne hai.
+receiver: ₹500? Processing fee? Application karte samay toh kuch zyada nahi bola tha.
+caller: Ji sir, rules change hote hain. Aapko ₹500 Paytm ya Google Pay kar den. Fir loan transfer ho jayega. Account number mein de do.
+receiver: Dekhiye, yeh kuch ghalat lag raha hai. Mein nahi karunga.

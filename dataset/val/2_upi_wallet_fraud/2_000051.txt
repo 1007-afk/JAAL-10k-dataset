@@ -1,0 +1,11 @@
+caller: Namaste, is this Priya Sharma? This is Rahul from MobiCash support. We’ve detected unusual activity on your MobiCash wallet.
+receiver: Haan, main Priya Sharma. Kya hua? Unusual activity? Mujhe toh kuch pata nahi.
+caller: Ma'am, it appears someone attempted to transfer ₹2500 from your wallet to an unknown UPI ID. We’ve temporarily frozen your account to prevent further unauthorized transactions. To unlock it and retrieve your funds, you need to verify a few details.
+receiver: ₹2500? Nahi, maine kabhi transfer nahi kiya. Mera account freeze kar diya? Aur mujhe kya karna hai?
+caller: Yes, ma'am. It's a standard security protocol. We’ll need you to visit a secure MobiCash verification link – mobicash.verify.net – and enter the OTP sent to your registered mobile number. This will confirm it’s really you.
+receiver: Verify link? Mujhe thoda shaq ho raha hai. MobiCash app mein toh koi notification nahi aaya hai. Aur ye link bhi dikh raha hai... lagta hai zyada sahi nahi hai.
+caller: Ma’am, please don’t worry. The official link might not show notifications immediately due to system delays. This is a direct line to our verification team. Just enter the OTP, and we’ll resolve this within minutes.  Aapko ₹2500 back mil jayega.
+receiver: Ok, fine. Send the OTP.
+caller: The OTP is 876543. Please enter it quickly.
+receiver: Okay, I've entered it. What now?
+caller: Wonderful! Now, to complete the process, we require a small processing fee of just ₹50 to ensure the security of your transaction. This is to prevent any further fraudulent activity. Please send ₹50 to the

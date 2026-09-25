@@ -1,0 +1,9 @@
+caller: Namaste, Sir! Main Indian Customs Department se Rahul Sharma bolta hoon. Aapke naam par ek parcel aaya hai, jismein illegal items mile hain.
+receiver: Illegal items? Kya? Main toh kuch bhi illegal order nahi kiya tha.
+caller: Sir, parcel Delhi se aaya hai aur usmein suspicious items hain. Legal process ke anusar, aapko iska clarification dena hoga aur fine bhar dena hoga.
+receiver: Fine? Kitna fine hai? Aur main clarification kaise dunga? Main toh kuch bhi nahi jaanta!
+caller: Sir, fine ₹12,500 hai. Aapko UPI ke zariye pay karna hoga. Main aapko ek QR code bhejta hoon. Phir hum video call par baat karenge, taaki aapko process samjhayein.
+receiver: ₹12,500? Yeh bahut zyada hai! Main police mein report karunga!
+caller: Sir, please! Police mein report karne se kuch nahi hoga. Aapko fine bharne ke baad parcel release hoga. Aapko video call pe aana hoga, taaki aapko process dikhayen. Ye humara standard procedure hai.
+receiver: Thik hai, ek minute rukiye. Main kuch check karta hoon.
+caller: Sir, time waste na karein. Yeh parcel bahut risky hai. Aao video call pe, aur aapko sab bataata hoon.

@@ -1,0 +1,6 @@
+caller: Namaste, mai Directorate of Revenue Intelligence (DRI) se Rahul Sharma bol raha hoon. Aapke naam par ek parcel Mumbai airport pe rukaya gaya hai, jismein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mere parcel mein? Yeh kaise ho sakta hai? Mai toh kabhi kuch illegal nahi order karta.
+caller: Sir, hamari investigation mein pata chala hai ki aapke address pe ek parcel aaya tha jismein banned electronic components the. Yeh national security ke khilaf hai. Aapko is mamle mein cooperation karna hoga aur kuch details provide karne honge.
+receiver: Lekin yeh galat hai! Mai toh computer parts order karta hoon, banned components nahi. Mujhe koi parcel yaad nahi. Aur details bhi, aapko kya details chahiye?
+caller: Sir, hamein yeh confirm karna hai ki aapka account safe hai aur koi fraud kar raha hai. Hamein aapka bank account number aur OTP chahiye verification ke liye, aur ek video call par aana hoga taaki hum aapki identity verify kar sakein.
+receiver: Bank account number aur OTP? Video call? Sir, yeh toh suspicious lag raha hai. Mai police station mein jaunga aur complaint karunga agar aap mujhe koi personal information maangen. Aur mujhe koi parcel yaad nahi.

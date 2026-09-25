@@ -1,0 +1,9 @@
+caller: Namaste, Madam. This is Akash calling from QuickCash Solutions. We noticed you recently applied for a personal loan online?
+receiver: Haan, ji. Maine ek app par apply kiya tha, FastLoan. Bataiye, kya hua?
+caller: Great! Your application is almost approved. Just a quick verification needed. To finalize things, can you share your bank account number and OTP received on your mobile?
+receiver: OTP? Why do you need my OTP? The app didn't ask for OTP.
+caller: Madam, it’s a new security protocol. FastLoan has updated their verification process, and we are assisting them. It’s to prevent fraud. Don’t worry, it’s perfectly safe. Just share it so you can get the loan quickly.
+receiver: Mujhe thoda doubt ho raha hai. I’ll have to check with them first.
+caller: Madam, delay means missing out on a fantastic opportunity! Other people are getting their loans approved right now. Sharing the OTP is just a one-time process. Think of it – you could have the money in your account within the hour! Are you sure you want to wait?
+receiver: Okay, the OTP is 478215.
+caller: Wonderful! Just one last thing, Madam. We need a small processing fee of ₹500 to activate your loan. Can you transfer it to this UPI ID: 9876543210@ybl?

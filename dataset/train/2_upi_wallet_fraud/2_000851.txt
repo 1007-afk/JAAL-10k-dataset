@@ -1,0 +1,7 @@
+caller: Namaste, Madam! Main Paytm Care se Atul bolta hoon. Aapke Paytm account mein ek suspicious transaction detect hua hai – ₹2500 ka.
+receiver: ₹2500? Mujhe toh koi transaction dikh nahi raha.
+caller: Ji, woh transaction ho gaya hai, lekin payment confirm nahi hua. System mein error aa raha hai. Aapko ₹50 ka verification charge deposit karna padega, tab sab theek ho jayega.
+receiver: ₹50? Verification charge? Paytm toh aise charge nahi leta.
+caller: Madam, yeh technical issue hai. Hamare system ko confirm karna hai ki account aapka hi hai. ₹50 sirf verification ke liye hai, fir woh automatically revert ho jayega. Please do the needful, otherwise account suspend bhi ho sakta hai.
+receiver: Account suspend? Mujhe yeh kuch galat lag raha hai. Mein kisi number pe call karunga Paytm customer care ka.
+caller: Madam, please hurry! Yeh offer sirf 10 minutes ke liye hai. Agar aap ₹50 deposit nahi karein, toh ₹2500 bhi haar jayenge. Number dial karein: 9022345678. Jaldi karein!

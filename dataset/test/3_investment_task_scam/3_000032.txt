@@ -1,0 +1,18 @@
+caller: Namaste! Apsa, aapko "Shakti Rewards" program ke baare mein inform karna hai. Aapki 2018 ki account statement mein 921 bonus points ki ek badi amount hai jo abhi tak redeem nahi hui hai. Is points ko claim karne ke liye, aapko ek identifier code lena hoga – yeh code hai 87654. Aur yeh code 28 February 2023 tak valid rahega. Aapko is matter ke baare mein call kiya hai, hai na?
+receiver: Ji haan, maine hi iske baare mein sunaya tha. Mujhe samajh mein nahin aa raha ki abhi tak yeh points redeem kyun nahin hone de rahi hain. Kya karna hoga?
+caller:  Koi dukh mat karo! Shuru matlab, aapko apna bank account number bataana hoga, jisse main verify kar saku ki aap Shakti Rewards ke eligible hain. Bank account number batao, please.
+receiver: Mera bank account number 6789-0123-4567 hai.
+caller: Dhanyavaad!  Main abhi verify kar raha hoon… Okay, ji. Apna bank account number 6789-0123-4567 verified ho gaya hai. Ab aapko 921 bonus points claim karne ke liye, sirf do digits aur bataane honge - aapke bank account ke last two digits. Batao, kaunse do digits hain?
+receiver: Bank account ke last two digits?  Umm... Woh 34 hain.
+caller:  Achha!  So, 34. Shukriya.  Ab, in 921 bonus points ko aapke account mein transfer karne ke liye, humein ek aur verification step karna hoga.  Aapko apne registered email id ka domain name bataana hoga.  Yeh sirf confirmation ke liye hai, agar koi mistake ho toh hum aapko alert karenge.
+receiver: Email id ka domain name?  Okay, woh gmail.com hai.
+caller: Hello? Thank you for calling regarding your 2004 account statement. I see you have a significant amount of unredeemed bonus points, 786 to be exact. To claim these, you’ll need to use your identifier code, which is 45239. The deadline to claim is May 6th, 2005. So, you’re calling about this now, correct?
+receiver: Haan ji, sahi bola aapne. Main usi ke baare mein baat karne ke liye call kar raha hoon. Batayiye aage kya karna hoga?
+caller: Great! So, pehle aapko apna full account number bataana hoga taaki main yeh confirm kar sakoon ki aap sahi person hain. Please, aap apna account number bataiye.
+receiver: Account number? Haan ji, woh 1234-5678-9012 hai.
+caller: Thank you, ji. Just a moment, main verify kar leta hoon. Okay, ji. Aapka account number 1234-5678-9012 verify ho gaya hai. Ab aapko 786 bonus points claim karne ke liye, sirf 3 digits aur bataane honge - aapke account ke last 3 digits. Can you please provide those?
+receiver: Last 3 digits? Uhm, let me check... Haan ji, woh 9012 mein se last 3 hain... 012.
+caller: Perfect, ji! So, 012. Thank you. Ab, in 786 bonus points ko aapke account mein transfer karne ke liye, humein ek chota sa verification step karna hoga. Aapko apna registered mobile number ka last 4 digits bataana hoga. Yeh sirf security purpose ke liye hai, taaki hum sure ho sakein ki points sahi person tak pahunchein.
+receiver: Mobile number ke last 4 digits? Okay, woh 1234 hai.
+caller: Namaste! Apsa, aapko “Shakti Rewards” program ke baare mein inform karna hai. Aapki 2018 ki account statement mein 921 bonus points ki ek badi amount hai jo abhi tak redeem nahi hui hai. Is points ko claim karne ke liye, aapko ek identifier code lena hoga – yeh code hai 87654. Aur yeh code 28 February 2023 tak valid rahega. Aapko is matter ke baare mein call kiya hai, hai na?
+receiver: Ji haan, maine hi iske baare mein sunaya tha. Mujhe samajh mein nahin aa raha

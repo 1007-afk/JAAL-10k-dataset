@@ -1,0 +1,9 @@
+caller: Namaste, main Cyber Crime Investigation Cell se Manish Verma bol raha hoon. Aapka naam Priya Sharma hai, correct?
+receiver: Haan, ji. Cyber Crime Investigation Cell? Kya hua?
+caller: Madam, humein ek suspicious transaction ka pata chala hai aapke naam par. Illegal cryptocurrency transfer hua hai, 1.2 lakh rupees ka. Aapko is bare mein koi idea hai?
+receiver: Illegal cryptocurrency? Main toh itna kuch nahi karti. Mujhe toh kuch pata hi nahi. Yeh kaise hua? Yeh fraud lag raha hai!
+caller: Madam, yeh bahut serious matter hai. Police investigation chal raha hai. Aapko is matter mein cooperate karna hoga. Aapko account details share karne honge taaki hum is transaction ko trace kar sakein. Aur ek OTP bhi chahiye hoga verification ke liye.
+receiver: Account details? OTP? Par aise kaise? Main toh kisi ko bhi apni details nahi dungi. Yeh scam lag raha hai. Main police station mein complaint karungi.
+caller: Madam, please don’t jump to conclusions. Hum official cell se hi call kar rahe hain. Yeh procedure hai, otherwise aapko arrest bhi hona sakta hai. Aapse thoda cooperation chahiye aur kuch minutes mein yeh matter settle ho jayega. Account number ke last four digits aur OTP de dijiye.
+receiver: Arrest? Lekin maine toh kuch kiya hi nahi! Aur OTP bhi nahi dunga. Hum police station mein jaungi, aapko meri details nahi milengi. Yeh loota hua scam hai.
+caller: Madam, please listen. We are trying to help you. Delaying this process will only complicate things. The court is already involved. If you don't cooperate, a warrant will be issued. Please just provide the OTP.

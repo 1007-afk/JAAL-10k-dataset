@@ -1,0 +1,6 @@
+caller: Namaste! Mai Paytm Customer Care se Rahul bol raha hoon. Aapke Paytm account mein aaj ek suspicious transaction detect hua hai, ₹7,800 ka.
+receiver: ₹7,800? Kaise? Mujhe koi notification nahi aaya. Main Paytm ka regular user hoon.
+caller: Haan sir, system ne automatically detect kiya hai. Shayad koi ne aapka OTP try kiya tha. Security ke liye, humein aapka account temporary suspend karna padega aur verify karna hoga. Aapka OTP share karein, please?
+receiver: OTP? Bilkul nahi! Paytm Customer Care kabhi OTP maangta hai nahi. Ye scam lagta hai.
+caller: Sir, please! Time bahut kam hai! Account block ho jayega. Just OTP share karein, iske baad main aapko confirm kar dunga. Thoda aur time nahi milega, sir. Account suspend hone se bachayen.
+receiver: Nahi, sorry. Mai police mein report karunga. Goodbye.

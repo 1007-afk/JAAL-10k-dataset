@@ -1,0 +1,13 @@
+caller: Airtel customer care se baat kar raha hoon. Aapka number, 9876543210, internet connection ko verify karne ke liye call kar raha hai. Aapko ek six-digit OTP mila hoga. Kya aap mujhe woh OTP bata sakte hain?
+receiver: Ji, maine OTP mila hai. Main check karta hoon... Oh, yeh toh 987654 hai. Aapko number chahiye tha, sahi hai na?
+caller: Haan, 987654 hi mila hai. Dhanyavaad, sir. Aapka verification complete ho gaya hai. Parantu, humein aapke account mein recently Paytm se ek small transaction dekha jaise ₹299. Can you confirm this?
+receiver: Paytm se ₹299 ka transaction? Jaise ki aap keh rahe hain? Main abhi dekhta hoon...Haan, maine dekha hai. But it was for online gaming subscription.
+caller: Online gaming subscription? Okay, thanks for confirming. Just to be sure, can you please provide your full name and address as per your registered mobile number?
+receiver: Mera naam Ramesh Kumar Sharma hai aur mera address Delhi mein, Mukherjee Nagar mein hai.
+caller: Shukriya, Ramesh Ji. Verification complete ho gaya hai. Aapke account mein koi problem nahi hai. Aapko koi surcharge nahi lagengi. Aapse mulaqat khatir, humein ek appointment fixed karna hai. Kaise rahega?
+receiver: Appointment? Kahan hogi? Aur kaise?
+caller: Appointment Mumbai mein hogi, Tata Hotel mein. Hummein ek technician aaega aur aapke device ko check karega. Aapko ₹500 deposit karna hoga. Technical issues solve hone ke baad, ₹500 aapko refund kar denge.
+receiver: ₹500 deposit karna hai? Woh toh bahut zyada hai!
+caller: Sir, yeh sirf security deposit hai. Device mein koi technical problem hai, isliye humein yeh deposit lena padega. Agar problem solve ho gayi, toh ₹500 aapko back mil jayenge. Believe me, yeh aapke device ko safe rakhega.
+receiver:  Main phir se yeh check karunga.
+caller:  Ji, please do.  Aapko confirmation SMS bhejna hai.  Aapko ek minute dena hai.  Thank you.

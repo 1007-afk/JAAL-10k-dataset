@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Verma? I’m calling from FreeCashback Rewards. We’ve selected you for a special promotion.
+receiver: FreeCashback Rewards? Maine kabhi signup nahi kiya. Yeh kaun hai?
+caller: Yes, ma'am! You were entered automatically when you made a purchase on Amazon recently. As a thank you, we're giving away ₹7500 cashback. To claim it, we just need to verify a few details and send you a secure collect request on PhonePe.
+receiver: ₹7500? Collect request? PhonePe pe? Yeh zyada zyada lag raha hai. Verify karne se kya hoga?
+caller: It’s a simple verification process, ma’am. We need to make a small ₹500 collection request to your PhonePe wallet as a security deposit. Once we confirm the transaction, the ₹7500 cashback will be instantly credited to your account. It's just to verify that you're the rightful owner.
+receiver: ₹500 collect request? But why? And why PhonePe?
+caller: It's standard procedure to prevent fraud, ma'am. We need to ensure the funds are going to the correct person. Just generate the collect request on PhonePe and send it to this number: 9876543210. 
+receiver: Thoda wait karunga. Mein PhonePe pe check karta hoon.
+caller: Absolutely ma’am, time is of the essence. The offer is valid for the next 15 minutes only. Don’t miss out on the ₹7500!

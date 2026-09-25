@@ -1,0 +1,19 @@
+caller: aap Paytm use karte hain? Sir, aapko apna Paytm profile update karna hoga, warna aapka account freeze ho jaayega.
+receiver: Arre yaar, maine toh suna tha ki Paytm update automatically hota hai. Matlab abhi mera account freeze ho jayega? Kya koi alternative hai?
+caller: Nahi nahi sir, automatic nahi hota. Ye ek new security update hai jo aapko khud karna padega. Agar aap abhi nahi karenge toh 3 hours mein account freeze ho jaayega. Time bahut kam hai, sir.
+receiver: 3 hours mein? Seriously? Abhi hi karna hai? Koi QR code bhejo ya Paytm app mein koi setting change karna hai? Mera account kis reason se freeze hoga, Paytm account ya mera bank account?
+caller: Nahi sir, koi QR code nahi, koi setting change karne wala nahi. Bahut easy hai. Bas aapko Paytm app open karna hoga aur home page par ek alert dikhega ‘Update Required’ ka. Us pe click karna hoga. Agar account freeze ho gaya toh aap Paytm se money transfer nahi kar payoge. Bank account blocked nahi hoga, lekin payments block ho jayegi. Aapka Paytm wallet access chala jayega.
+receiver: Okay, okay, mein samajh raha hu. Toh bas app open karke ‘Update Required’ wala alert click karna hai? Ismein koi specific instruction hai? Aur agar maine accidentally koi wrong option select kar diya toh?
+caller: Arre sir, bilkul tension mat le. Aap Paytm app open karein. Wahan pe aapko 'Security Update' ka option dikhega. Us par click karna hoga. Koi problem nahi hogi, aur agar aap zoom in karein to clear ho jayega. Agar kuchh bhi samajh nahi aaya toh main hun aapki madad ke liye ready hoon. Just tell me.
+receiver: Theek hai. Toh ‘Security Update’ wala option kahaan milta hai? Main home screen par nahi dekh sakta. Aur agar wo alert banner nahin dikhta, phir kya karunga?
+caller: aap BHIM/UPI use karte hain? Sir, aapko apna BHIM/UPI upgrade karna hoga, warna aapka account block ho ja
+receiver: Arre yaar, maine toh suna tha ki ye sab automatically ho jata hai. Matlab abhi mera account block ho jayega? Kuch aur karna padega kya?
+caller: Nahi nahi sir, automatic nahi hoga. Ye ek new update hai jo aapko khud karna padega. Agar aap abhi nahi karenge toh 4 ghante mein account block ho jaayega. Aapke paas sirf 4 ghante ka time hai.
+receiver: Arre, 4 ghante mein? Matlab abhi hi karna padega? Koi link bhejo ya koi app download karna hai? Aur yeh mera account kis cheez se block hoga, mera bank account ya BHIM app ka account?
+caller: Nahi sir, koi link nahi, koi app download nahi karna hai. Bahut simple process hai. Bas aapko apna app open karna hoga aur ek option pe click karna hoga. Agar aapka account block ho gaya toh aap UPI transactions nahi kar paoge. Bank account block nahi hoga, lekin aap payment nahi kar paoge. Aapka UPI ID ka access chala jayega.
+receiver: Okay, okay, samajh gaya. Toh bas app open karke ek option pe click karna hai? Koi specific option ka naam bata sakte hain? Aur agar maine bhool se koi galat button daba diya toh?
+caller: Arre sir, bilkul chinta mat kijiye. Aap bas apna BHIM app open kijiye. Wahan pe aapko ek banner ya notification dikhega 'Update Now' ya 'Upgrade Account' ka. Us pe aapko click karna hoga. Bilkul simple hai. Aur galat button ka koi dar nahi hai, agar aap thoda dhyan se dekhenge toh clearly pata chal jayega. Aur sir, agar kuch bhi samajh nahi aaye toh main aapki help ke liye yahan hoon. Bas bataiye ga.
+receiver: Arey, theek hai. Toh yeh 'Update Now' waala option kahaan milega? Home screen pe hi hoga kya? Aur agar woh banner dikha nahi toh? Phir kaise pata chalega ki update karna hai?
+caller: Aapko BHIM app ke settings section mein jana hoga. Woh paas hi hoga. Thik se dekho. Aur agar banner nahi dikhta hai toh aapko apne profile picture par click karna hoga. Wahan pe 'Update Profile' ka option milega. Click karo aur sare instructions follow karo.
+caller: aap Google Pay use karte hain? Sir, aapko apna Google Pay account verify karna hoga, warna aapka account suspend ho jaayega.
+receiver: Arre

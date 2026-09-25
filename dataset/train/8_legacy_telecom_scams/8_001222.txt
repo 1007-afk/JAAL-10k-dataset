@@ -1,0 +1,16 @@
+caller: Namaste ji, main Airtel se bol raha hoon. Aapke liye ek bahut hi achhi khabari hai! Aapne hamare ek premium offer mein ₹500 jeete hain! Congratulations!
+receiver: Oh bhai! ₹500? Seriously? Yeh bahut accha khabar hai! Kya offer tha yeh? Main abhi to busy tha.
+caller: Haan ji, humare ek limited edition offer mein aapko ye prize mili hai. Bas aapko ye prize claim karne ke liye 8800123456 pe call karna hoga. Itni simple hai!
+receiver: Okay, 8800123456?  Aur koi process hai ya sirf call karna hai?  Koi registration wagera?
+caller: Nahi ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko poori instructions mil jayegi. Bahut easy hai. Apka number kahan hai sir/madam, taaki main check kar saku ki yeh aap ke liye hai?
+receiver: Mera number hai 9876543210.  Aur aapne kaha tha Airtel se hai?  Yeh Airtel ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine check kar liya hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi dikkat nahi hogi.
+receiver: Theek hai. Toh main us number pe call karunga. Aur yeh ₹500 kab tak claim kar sakta hoon? Koi deadline hai kya?
+caller: Hello ji, main Jio se bol raha hoon. Aapke liye ek bohut sundar khabari hai! Aapne hamare ek scratch card campaign mein ₹2000 jeete hain! Congratulations!
+receiver: Wah! ₹2000? Really? Yeh toh bahut khoob khabar hai! Scratch card campaign? Main toh itna paisa nahi soch raha tha.
+caller: Haan ji, humare ek surprise scratch card campaign mein aapko ye prize mili hai. Bas aapko ye prize claim karne ke liye 7777889900 pe call karna hoga. Itni simple hai!
+receiver: Okay, 7777889900?  Aur scratch card kaise milega?  Online bhi mil jaayega kya?
+caller: Nahi ji, scratch card sirf call karte samay milega. Aapko bas us number pe call karna hai, aur wahan pe aapko poori details mil jayegi. Bahut easy hai. Apka number kahan hai sir/madam, taaki main verify kar saku ki yeh aap ke liye hai?
+receiver: Mera number hai 8888777766.  Aur aapne kaha tha Jio se hai?  Yeh Jio ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine verify kar liya hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi problem nahi hogi.
+receiver: Theek hai. Toh main us number pe call karunga. Aur ₹2000 kab tak claim kar sakta hoon? Koi expiry date hai kya?

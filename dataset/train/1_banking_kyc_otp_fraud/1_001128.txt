@@ -1,0 +1,7 @@
+caller: Namaste! I'm calling from HDFC Bank security department. We've detected some suspicious activity on your account – a failed transaction attempt from an unknown device. Just wanted to confirm a few details to secure your funds.
+receiver: Oh really? Suspicious activity? What kind of transaction?
+caller: It was a payment request for Rs. 2500 to an online gaming platform. Since it failed, your account is currently locked for security reasons. To unlock it and prevent any further issues, we need to quickly verify your identity. Can you please tell me your registered mobile number?
+receiver: Yes, it's 9876543210. What do you need to verify?
+caller: Thank you. Now, to confirm you are the account holder, could you please share the OTP that just got sent to your mobile number? It's a one-time password for verification purposes only.
+receiver: OTP? Wait a second... why do you need an OTP to unlock my account? Shouldn't I be calling the bank directly? This feels a bit off.
+caller: Arre, don’t worry, we’re streamlining the process. It's a new security measure.  The OTP confirms it's really you. Otherwise, we'll have to escalate it to a higher security team and it will take 24-48 hours to resolve. Just the OTP, please!

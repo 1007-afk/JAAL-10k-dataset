@@ -1,0 +1,8 @@
+caller: Namaste, sir? My name is Deepak from LoanExpress. We’ve reviewed your application and you’re pre-approved for a ₹15,000 loan. Just a few quick details to confirm. Do you have a recent photo of your Aadhaar card available?
+receiver: Hello Deepak. Yes, I do have a copy of my Aadhaar. What do you need it for? I applied for a loan, but I'm a little cautious about sharing personal documents.
+caller: Sir, it's just standard verification procedure. To complete the process, please upload the photo to our secure portal – loanexpress.in/verify. Go to ‘Document Upload’ and select ‘Aadhaar Photo’. It takes just a minute.
+receiver: Okay, I’ve uploaded the photo. It went through. Now what? I still haven’t seen any loan amount credited to my account.
+caller: Excellent, sir! Now, for final verification, we need you to pay a small processing fee of ₹750 to unlock the loan. This is a one-time charge, sir. You can deposit it via UPI to this ID: 8765432109@ybl.
+receiver: ₹750? That seems a bit high. The loan was supposed to be instant. And why do I have to pay *before* receiving the loan?
+caller: Sir, government regulations require this fee. Without it, the loan can’t be released. Many people are waiting. Once the payment is confirmed, you’ll receive the ₹15,000 within 15 minutes. Please, complete this step so we can release your loan.
+receiver: I am still not comfortable with this. I’m going to check with my bank first.

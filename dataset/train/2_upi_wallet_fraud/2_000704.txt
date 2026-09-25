@@ -1,0 +1,6 @@
+caller: Namaste sir! Mein Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ek suspicious activity detect hui hai.
+receiver: Kya? Kuch problem hai? Mujhe koi notification toh aaya nahi.
+caller: Haan sir, ek transaction attempt hua tha, jise abhi block kar diya gaya hai. Aapke account ko secure rakhne ke liye, aapko verify karna hoga.
+receiver: Verify? Main toh kuch bhi transaction nahi kiya tha. Kaise verify karu? Koi link bhejo.
+caller: Koi link nahi sir. Aapko Paytm app mein jake ‘Verify OTP’ option choose karna hai. Ek OTP aapke registered mobile number par aayega, woh enter karein.
+receiver: Arre yaar, aise kaise? Paytm toh kabhi OTP se verification nahi karta. Ye sahi hai kya? Mujhe kuch suspicion ho raha hai.

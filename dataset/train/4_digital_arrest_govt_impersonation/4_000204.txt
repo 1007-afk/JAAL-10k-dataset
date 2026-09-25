@@ -1,0 +1,9 @@
+caller: Namaste sir, is this Mr. Sharma? This is the Cyber Crime Investigation Cell, Delhi. We've detected unusual activity linked to your ICICI Bank account – several large cryptocurrency transfers to offshore accounts.
+receiver: Cyber Crime? Cryptocurrency? Mein toh kuch nahi kiya. Mera account safe hai. Yeh kya bol rahe hain aap?
+caller: Sir, don't panic. This is a standard procedure. Our records show transactions totaling ₹12 lakh within the last 48 hours, linked to a suspected online gambling ring. To clear your name and prevent further legal action, you need to cooperate. You'll need to transfer ₹50,000 as a security deposit to secure your account.
+receiver: ₹50,000? Aise kaise? Mujhe toh koi transaction dikh nahi raha. Yeh bahut hi suspect hai. Aapko koi aur number lag gaya hai. Mein bank mein call karta hoon.
+caller: Sir, please, don't delay. We are currently monitoring your calls, and any attempt to contact the bank will be flagged. This is to protect you. We need the money transferred immediately to the account details I’ll send you via WhatsApp. If you don't, we will have to freeze your account and involve the higher authorities.
+receiver: Freeze my account? Nahin, nahin! Main kuch karunga. Whatsapp number do.
+caller: Okay, sir. Please send a WhatsApp message to +91 8291112233 with your account details. The transfer needs to happen within the next 15 minutes, or we'll have to file a formal complaint. Please understand, this is for your own good.
+receiver: Okay, okay...I'll do it. Just send the number again.
+caller: Just confirming sir, the transaction reference number is CCIC-2024-05-

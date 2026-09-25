@@ -1,0 +1,17 @@
+caller: Namaste! Aapko pata hai ki aap DigiConnect se baat kar rahe hain? Hum aapke liye ek amazing deal leke aaye hain! Aapko mil sakta hai ek free smart watch, saath mein 30% tak discount line rental par, aur unlimited local calls aur 200 international roaming minutes! Kya yeh sunne mein interesting nahi lagta?
+receiver: Namaste! Haan, main sun raha hoon. Yeh toh achcha laga. Smart watch free mein, line rental par discount... yeh sab kahan se milega?
+caller: Haan ji, yeh sab aapko hamare exclusive program ke through milega. Agar aap apne internet connection ko upgrade karna chahte hain, toh yeh offer aapke liye sahi hai. Sirf kuch easy steps follow karne honge. Kya aap interested hain yeh details sunne mein?
+receiver: Haan ji, bilkul interested hoon. Bataiye, kya karna padega?
+caller: Great! To get started, we just need to confirm a few details. Can you please tell me your name and your current mobile number? This will help us check your eligibility for the offer.
+receiver: Haan ji, mera naam hai Priya Patel, aur mera current mobile number hai 8765432109. Bataiye, eligibility check ho gayi?
+caller: Dhanyavaad Priya ji! Aapki eligibility check ho gayi hai aur aap is offer ke liye completely eligible hain. Abhi humein bas aapke account ka kuch verification karna hoga. Kya aapke paas aapka SIM card abhi available hai?
+receiver: Haan ji, SIM card mere paas hi hai. Bataiye, verification ke liye kya lena hoga?
+caller: Hello! Kaise haal hai? Aapko pata hai ki aap SecurePay se baat kar rahe hain? Hum aapke liye ek special offer leke aaye hain - agar aap ₹500 deposit karte hain, toh aapko ₹1000 return milenge! Isse paisa kamaane ka ek bahut hi simple tareeka hai, na?
+receiver: Hello! Mein theek hoon, dhanyavad. ₹500 deposit kar ke ₹1000 return? Yeh kitna safe hai?
+caller: Haan ji, yeh bahut hi safe hai! Hum SecurePay ke partner bank mein paisa deposit karte hain. Ye ek limited time offer hai, so jaldi karo! Agar aap deposit karna chahte hain, toh hamein sirf ₹500 chahiye. Kya aap ready hain yeh offer accept karne ke liye?
+receiver: Hmm… ₹500 deposit kar ke ₹1000 return, yeh acha lagta hai. Lekin mujhe batao, yeh process kitna sudhura?
+caller: Process bahut hi simple hai. Humein sirf aapka mobile number aur bank account details chahiye. Aur phir aapko ₹500 transfer karne honge. Itni hi madadgar! Kya aap ready hain?
+receiver: Haan ji, mobile number aur bank account details de doon. Lekin mujhe yeh bhi bataiye ki ye legit hai ya nahi?
+caller: Sirf aapki madad ke liye hum gareeb hain! Yeh offer hamari company ke CEO ne approved kiya hai. Please, jaldi karo, yeh offer expire hone wali hai! Aapko sirf ₹500 deposit karne hain.
+receiver: Okay, okay. Mobile number hai 9988776655 aur bank account details bhi de doon? Lekin mujhe assurance dijiye ki meine koi fraud nahi kar raha hoon.
+caller: Shukriya! Aapki details received ho gayi hain. Jaldi se paisa deposit ho jayega. Aapko notification mil jaayega. Thank you!

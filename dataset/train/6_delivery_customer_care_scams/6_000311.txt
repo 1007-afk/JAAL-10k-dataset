@@ -1,0 +1,9 @@
+caller: Namaste! Mai Ankit Verma bol raha hu, Flipkart customer care se. Aapka ek parcel delivery mein thoda problem aa raha hai, sir.
+receiver: Oh, really? Which parcel is that? I placed a few orders recently.
+caller: Sir, tracking ID hai ABC123456. Woh ek smart watch hai jo aapne last week order kiya tha. Delivery boy ke paas address nahin mila, aur woh parcel return hone wala hai.
+receiver: That's strange, I double-checked the address. What's the issue?
+caller: Sir, address verify karne ke liye, mujhe aapke bank account ke last 4 digits chahiye. Bas verification ke liye, sir. 1 minute lagega.
+receiver: My bank account details? That seems a bit risky, doesn't it? Why can't you verify it another way?
+caller: Sir, security protocol hai. Koi aur option nahin hai. Account number ka sirf last 4 digits hi chahiye, sir. Parcel return nahi hona chahiye.
+receiver: Okay, fine. It's 4567. But please make sure my watch isn’t returned.
+caller: Thank you, sir. Just one moment while I process this. Sir, abhi ek aur small fee apply ho rahi hai delivery delay hone ke wajah se. 250 rupees. Kya aap OTP share kar sakte hain jo aapko aapke phone pe mil raha hai?

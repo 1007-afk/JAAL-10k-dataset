@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Neha Sharma, QuickLoan Solutions se baat kar rahi hoon. Aapke naam par ek loan application aaya tha, approved ho gaya hai. Bas abhi kuch formalities complete karni hai.
+receiver: Oh, really? That's good news! I was looking for a loan. What formalities are left?
+caller: Ji, aapko ek small processing fee bharne ki zaroorat hai, ₹3,500. Verification ke liye. Phir loan aapke account mein transfer ho jayega.
+receiver: ₹3,500? That seems a bit much for processing fee. I thought these things were usually much lower.
+caller: Sir, security reasons se hai. Hamara company bahut strict hai fraud se. Agar aap fee bhar dete hain, main aapko OTP (One Time Password) send karungi verification ke liye.
+receiver: Okay, fine. Send the OTP then. My number is [Invent an OTP, e.g., 987654].
+caller: Ji, OTP 987654. Ab fee bharne ke liye, UPI ID mein transfer kijiye: quickloans@axis. Abhi aapka account block ho sakta hai, please urgently transfer the money.
+receiver: Wait, what? Account block? Why is it so urgent? And this UPI ID doesn't look right...
+caller: Sir, time is running out. If you don't transfer now, your loan application will be cancelled and your credit score will be affected permanently. Do it fast!

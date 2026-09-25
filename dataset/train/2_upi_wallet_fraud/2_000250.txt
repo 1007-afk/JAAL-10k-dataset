@@ -1,0 +1,10 @@
+caller: Namaste! Main Ankit, PhonePe se bol raha huun. Aapko ek achha cashback offer mil raha hai, sir.
+receiver: PhonePe? Cashback? Kya offer hai?
+caller: Sir, aapka PhonePe wallet ₹1000 ka cashback jeet gaya hai! Yeh Diwali special offer hai. Par isko claim karne ke liye, aapko ek small processing fee pay karna hoga.
+receiver: Processing fee? Kitna pay karna padega? Yeh thoda suspicious lag raha hai.
+caller: Sir, sirf ₹99 pay karne hai. ₹99 pay karne se cashback aapke wallet mein deposit ho jayega. Payment karne ke liye, main aapko ek link bhejuunga.
+receiver: ₹99? Link bhejo. Par mujhe PhonePe se koi message nahi mila.
+caller: Sir, link yahan par check karo: phonepe.cashback.in/verify. Link open karke OTP enter karo, aur ₹99 pay karo. Yeh offer sirf 5 minutes mein khatam ho jayegi.
+receiver: phonepe.cashback.in? Yeh toh PhonePe ka official website lagta nahi. Main nahi karunga.
+caller: Sir, jaldi karo! ₹1000 ka cashback miss ho jayega. Yeh ek limited time offer hai, aur humein check karna hai ki aap hi sahi owner hain.
+receiver: Nahin, thank you. Main phonepe customer care number se baat karunga. Aapko band karo.

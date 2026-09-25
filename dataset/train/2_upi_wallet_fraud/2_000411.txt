@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Aapke account mein ₹10,000 ka cashback offer hai, Diwali special!
+receiver: BharatPay? Cashback? ₹10,000? Wow! Main abhi check karta hoon… ek minute.
+caller: Haan ji, theek hai. Offer avail karne ke liye, aapko ek small verification process complete karna hai. Yeh bilkul secure hai. Aapko sirf ek link pe click karke apna PAN card number dena hai.
+receiver: PAN card number? BharatPay app mein PAN card ka option toh nahi hai… yeh sahi lagta hai kya?
+caller: Haan ji, yeh special Diwali offer ke liye BharatPay ne hi bola hai. Link yeh hai: bharatpay-diwali-offer.net/verify. Jaldi karo, offer sirf aaj ke liye hai! Kal tak ye offer khatam ho jayega.
+receiver: Bharatpay-diwali-offer.net? Yeh domain naam thoda funny lag raha hai. BharatPay ka toh naam BharatPay.com hota hai. Main check karta hoon.
+caller: Beta, aapke paas sirf 20 seconds ka time hai! Offer khatam hone wala hai! Jaldi se click karo, warna ₹10,000 ka cashback haar jaoge. Manager ne kaha hai jaldi karo.
+receiver: Theek hai, theek hai. Main check karta hoon...

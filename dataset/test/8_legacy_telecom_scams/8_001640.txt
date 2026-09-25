@@ -1,0 +1,8 @@
+caller: ope I'm not disturbing you. This is a very important call from the Ringtone team. We've noticed that your account is eligible for a special offer where you get unlimited ringtones for free for the next 3 months!  Are you interested in hearing more about this amazing d
+receiver: Oh, hello! No, no, you're not disturbing me at all. Ringtone team, you say? Unlimited ringtones for free for 3 months? That sounds really interesting! Yes, please, I'd love to hear more about it. What do I need to do?
+caller: Great to hear, [Receiver's Name]! Sir/Madam, it's super simple. We just need to verify your mobile number to activate this offer. Can you please confirm the number you're using right now? And don't worry, it's absolutely free to activate, no hidden charges or anything like that.
+receiver: Haanji, mera mobile number hai [Caller says their number, e.g., 9876543210]. Aur haan, koi hidden charges toh nahi honge na? Sirf ye confirm karna tha.
+caller: Bilkul, [Receiver's Name] ji. Hamare paas aapka number hai [Receiver's Number]. Ab, is offer ko activate karne ke liye, humein bas ek chhota sa OTP verify karna hoga jo aapke isi number pe ayega. Kya aap taiyaar hain?
+receiver: Haan, haan, OTP. Bhej do. Taiyaar hoon main. Jaldi se ho jaye toh achha hai.
+caller: Great! OTP bhej diya hai, [Receiver's Name] ji. Aapko ek 6-digit code aayega. Jaise hi woh aa jaye, please mujhe bataiye.
+receiver: Okay, okay, aa gaya OTP. [Reads out OTP]. Yeh raha aapka code. Ab kya karna hai aage?

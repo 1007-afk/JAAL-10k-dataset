@@ -1,0 +1,9 @@
+caller: Namaste! Main Swiggy Customer Care se Rahul bol raha hoon. Aapke Swiggy account mein kuch security issues hain. Kisi ne aapke naam se order karne ki koshish ki hai.
+receiver: Oh, Swiggy? Kya hua? Mujhe koi message nahi aaya.
+caller: Haan ji, system ne detect kiya hai. Aapko confirm karna hoga ki aapne yeh order kiya hai ya nahi. Confirm karne ke liye, ek OTP aapke registered mobile number par bheja jayega.
+receiver: OTP? Woh kyun? Main toh kuch order nahi kiya hai.
+caller: Sir, security protocol hai. OTP se hum confirm kar sakte hain ki aap sahi owner hain. Phir hum aapke account ko secure kar denge. Aapko ₹299 ka order cancel ho gaya tha, jo aapne nahi kiya tha.
+receiver: ₹299? Aur OTP bhi? Theek hai, dekhte hain. (receiver enters OTP)
+caller: Thank you sir! OTP verify ho gaya hai. Ab, humein aapke account ko secure karne ke liye ₹49 ka verification fee chahiye. Payment UPI se kar sakte hain - 9876543210@axisbank.
+receiver: ₹49? Verification fee? Swiggy aise fees nahi lete. Mujhe doubt ho raha hai.
+caller: Sir, yeh security measure hai, government guidelines ke according. ₹49 se aapka account safe ho jayega, warna account block ho sakta hai aur ₹5000 ka loss ho sakta hai. Jaldi karein!

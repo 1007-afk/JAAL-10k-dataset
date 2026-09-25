@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Kapoor? This is Inspector Verma from the Directorate of Revenue Intelligence. We are investigating a potential case of illegal import activity linked to a parcel registered under your address.
+receiver: Haan ji, bolie. Illegal import? Mere address par? Main toh kabhi parcel order bhi nahi karti, beta.
+caller: Madam, our records indicate a high-value shipment declared as "textiles" arrived at the customs warehouse. However, preliminary scans suggest discrepancies. To prevent legal action and ensure the parcel isn't seized, you need to pay a small processing fee of ₹8,500 to clear the investigation.
+receiver: ₹8,500? Lekin main toh kuch order kiya hi nahi. Aur kiski parcel hai? Yeh toh dhoka lag raha hai. I'll check with my family.
+caller: Madam, time is of the essence. The parcel is being held and further investigation will be launched, which may lead to serious consequences. To avoid this, pay the fee immediately. We can process it through UPI. Please use the number 7890123456 and add a note 'Parcel Clearance'.
+receiver: UPI? Yeh number main save karu? Main thoda doubt feel kar rahi hu. Can you give me the official DRI contact number so I can verify? Or tell me the parcel tracking number.
+caller: Madam, due to security protocols, we are not allowed to share the tracking number. But I can assure you, we're trying to help. Please cooperate. The parcel will be released instantly once the payment is confirmed. We can also do a quick video verification to prove our authenticity – just hold up your Aadhar card for a moment.
+receiver: Aadhar card bhi dikhana hai? Bilkul nahi! Main police station mein report karungi agar aapko koi suspicion hai. Aap log fraud kar rahe hain!

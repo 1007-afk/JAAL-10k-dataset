@@ -1,0 +1,9 @@
+caller: Namaste! This is Raj from Wealth Multipliers. We're calling regarding a new crypto trading opportunity exclusively for our valued customers.
+receiver: Crypto trading? I’m a little wary of crypto. What kind of opportunity is it?
+caller: Sir, we've identified a new altcoin, 'NovaCoin', with incredible potential. We're offering a guaranteed 15% return on investment in just 7 days. Very low risk, high reward. We need your bank details to facilitate the investment.
+receiver: Guaranteed 15%? That sounds too good to be true. What's the catch? And why do you need my bank details?
+caller: Sir, it’s a limited-time offer based on insider information. We just need your account number and IFSC code to process the investment and automatically distribute the profits. It's all very secure, we use industry-standard encryption. We'll also need a small activation fee of just ₹500 to verify your account.
+receiver: An activation fee? So, I have to pay you ₹500 before I can even invest? What’s the name of your company registered under? Can I verify it?
+caller: Sir, the ₹500 is for processing and security verification. It's a standard procedure. Our company is registered as WM Global Solutions, but for this exclusive offer, it's handled directly by me, Raj. Just trust me, sir, this is a fantastic opportunity.
+receiver: WM Global Solutions? I’m not comfortable sharing my bank details or paying a fee for an investment. I think I'll pass.
+caller: Sir, are you sure? This offer won’t last. Just imagine the extra income you could have in a week! Think about it, ₹500 for a chance at 15% return. This is a real chance

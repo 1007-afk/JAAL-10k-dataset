@@ -1,0 +1,7 @@
+caller: Namaste Aunty, mein Rahul, apna bank se bol raha hu. Aapke naam par ek online shopping transaction hua hai ₹4990 ka Flipkart pe, jo aapne approve nahi kiya.
+receiver: Kya? ₹4990? Maine toh Flipkart se kuch bhi nahi kharida.
+caller: Haan ji, transaction record mein dikh raha hai. Isko fraud hone se pehle aapko isko block karna hoga. Aur aapka bank account bhi secure karna hoga.
+receiver: Toh main kya karun? Mera account freeze ho jayega kya?
+caller: Nahin aunty, freeze nahi hoga. Par aapko apna UPI PIN batao, Paytm ya PhonePe jispe aap trust karte ho, taaki hum isko secure kar sake. Bas ek baar bata do, aur phir sab theek ho jayega.
+receiver: UPI PIN? Mujhe yeh thoda suspicious lag raha hai.
+caller: Aunty, please jaldi batao. Agar aapko koi problem ho toh humein bataiye. Hum aapki madad ke liye yahan hain!

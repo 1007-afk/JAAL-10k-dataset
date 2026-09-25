@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya calling from BlueSpark Logistics. We’re trying to reach you regarding a pending delivery for a high-value electronics item. There seems to be an issue with the payment authorization.
+receiver: Haan, hello. Which item is it? I haven't ordered anything recently that's high-value.
+caller: It’s a new Samsung Galaxy S24 Ultra, sir. The order originated from Myntra, and it’s scheduled to arrive tomorrow. However, the bank is showing an insufficient funds error. We just need to verify a one-time password to complete the process.
+receiver: Samsung phone? From Myntra? That’s strange. I don’t remember ordering that. And OTP? Why would I give you an OTP?
+caller: Sir, this is standard procedure. It’s to confirm you authorized the transaction and unlock the delivery. Without it, we’ll have to return the package to the sender. The OTP will be sent to your registered mobile number. Please share it with me so we can proceed quickly. It's very important.
+receiver: Wait a minute. Let me check Myntra account first. This sounds fishy. I’m not sharing any OTP with you. I will call Myntra directly.
+caller: Sir, please don't delay. If you don't confirm within the next 5 minutes, the delivery will be cancelled and you will lose out on this fantastic phone. We can even offer a small discount if you act now. Think about it, sir.

@@ -1,0 +1,9 @@
+caller: Namaste, sir. Mein hu Akash, Axis Finance se. Aapne online aapse personal loan ke liye apply kiya tha, correct?
+receiver: Haan, ji. Meinne apply kiya tha. Kuch update hai?
+caller: Haan sir, aapki application approved ho gayi hai, lekin verification ke liye kuch details chahiye. Aapke bank account ka last statement mujhe WhatsApp pe send kar sakte hain?
+receiver: WhatsApp pe?
+caller: Haan sir, isliye process fast ho jayega. Aapka number check kar raha hu… 9876543210? Send kar dijiye, please. Jab verification complete ho jayega, aapko loan amount 50,000 tak instantly mil jayega.
+receiver: Theek hai, send kar deta hu.
+caller: Shukriya sir. Ab mujhe aapki date of birth aur PAN card ki copy bhi chahiye, verification ke liye. Jab send kar denge, toh mein aapko OTP send kar dunga, usko verify karna.
+receiver: Aur OTP baad mein hi aaega?
+caller: Haan sir, OTP tabhi aaega jab aap documents send kar denge. Jaldi kar dijiye, offer limited time ke liye hai.

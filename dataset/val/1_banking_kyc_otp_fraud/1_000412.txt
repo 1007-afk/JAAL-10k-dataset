@@ -1,0 +1,16 @@
+caller: Namaste ji! Main aapse do din se call kar raha hoon. Aapne email dekha tha na? Aapka bank account secure rakhne ka ek amazing opportunity hai, bas 'SECURE' likhne aur send karne hai. Kya aapne check kiya?
+receiver: Haan, namaste! Sorry, thoda work pressure tha. Email dekha tha maine, par abhi check nahi kiya. Aise hi karna hai, sirf 'SECURE' likhne aur send karna hai?
+caller: Haan ji, bas 'SECURE' likhne aur send karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapki account details tumhare pass safe rahenge. Kya karna chahte ho?
+receiver: Achha, theek hai. Chalo, abhi check karti hoon. Dekhte hain hota hai ya nahi. Bas 'SECURE' likhne aur send karna hai, right? Ya koi special code bhi hai?
+caller: Haan ji, bilkul 'SECURE' likhne aur send karna hai. Koi code nahi, bas woh word. Simple hai ekdum. Check kijiye, agar koi doubt aaye toh mujhe bataiye, main help kar dunga. Aapke liye hi toh ye offer hai.
+receiver: Oh, thanks! Aap itne helpful ho. Theek hai, abhi check karti hoon. Fingers crossed, hope ho jaye yeh jaldi se.
+caller: Haan ji, bilkul check kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi confusion aaye toh bina hesitate na kare, main hoon na help karne ke liye. Ye offer bahut limited availability mein hai, toh jaldi se kar lijiye.
+receiver: Okay, I just typed 'SECURE' and sent it. Let’s see if it gets through. So, is there any kind of response I’ll receive, or how will I confirm it?
+caller: Salaam! Main aapko ek saati se call kar raha hoon. Aapne WhatsApp message dekha tha na? Aapke mobile internet speed ko badhane ka ek naya app hai, ‘SPEEDUP’ likhne aur install karna hai. Kya aapne dekha?
+receiver: Haan, salaam! Sorry, thoda family function tha. Message dekha tha maine, par abhi install nahi kiya. Aise hi karna hai, sirf ‘SPEEDUP’ likhne aur install karna hai?
+caller: Haan ji, bas ‘SPEEDUP’ likhne aur install karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapka internet speed zyada fast hoga. Kya karna chahte ho?
+receiver: Achha, theek hai. Chalo, abhi dekhti hoon. Dekhte hain hota hai ya nahi. Bas ‘SPEEDUP’ likhne aur install karna hai, right? Ya koi QR code bhi hai?
+caller: Haan ji, bilkul ‘SPEEDUP’ likhne aur install karna hai. Koi QR code nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main help kar dunga. Aapke liye hi toh ye offer hai.
+receiver: Oh, okay! Aap itne helpful ho. Theek hai, abhi dekhti hoon. Fingers crossed, hope ho jaye yeh jaldi se.
+caller: Haan ji, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi issue aaye toh bina delay na kare, main hoon na help karne ke liye. Ye offer sirf today ke liye available hai, toh jaldi se kar lijiye.
+receiver: Okay, I just typed ‘SPEEDUP’ and clicked on it. Let’s see what happens. So, is there some kind of notification I’ll get to confirm that it worked?

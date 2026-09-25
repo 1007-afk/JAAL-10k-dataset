@@ -1,0 +1,9 @@
+caller: Hello! My name is Deepak, calling from LoanExpress. I see you’re a valued customer. We’re offering a quick and easy personal loan of up to ₹2 lakh with minimal paperwork. Just a few details and it's done!
+receiver: Oh really? That sounds interesting. I could use some extra cash right now. What’s the interest rate like?
+caller: Very competitive, madam! Just 12% per annum. And the best part is, approval is almost instant. To verify your identity, can you share your Aadhaar card number? Just for a quick check.
+receiver: Aadhaar? Isn’t that a bit risky? I’ve heard they misuse that information.
+caller: Absolutely not! It’s standard procedure, madam. We are completely secure. Look, we need to process this quickly. If you don't give me the Aadhaar number, the offer expires. Plus, we’ll need a small processing fee of ₹500 upfront, payable through UPI.
+receiver: ₹500? Before even getting the loan? That doesn’t sound right. I need to think about it.
+caller: Madam, time is running out! Don’t miss out on this fantastic opportunity! Once the processing fee is paid, we'll immediately disburse the loan. The ₹500 is for verification and activation. I can also send you a photo of my ID – to prove I’m a genuine LoanExpress employee.
+receiver: Okay, send me the ID photo first. I'll review it before I do anything.
+caller: Certainly! Just confirm your UPI ID, and I’ll send you the ID photo and the UPI link. After payment, your loan of ₹2 lakh will be in your account within minutes!

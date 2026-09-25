@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Customer Care se Rohit bol raha hoon. Aapke Paytm account mein aaj ₹7,999 ka transaction hua hai, jo aapne approve nahi kiya hai.
+receiver: ₹7,999? Kya? Mujhe toh koi notification bhi nahi aaya.
+caller: Ji, system mein error ho gaya tha. Fraud transaction hai. Aapko ise block karwaana hoga. Iske liye OTP mil raha hai aapko, woh mujhe bataaiye.
+receiver: Ek minute, mujhe message nahi aa raha. Aur agar customer care hai toh aapka employee ID number bataiye.
+caller: Sir, network mein problem ho rahi hai. OTP aane mein thoda delay ho sakta hai. Employee ID number main abhi nahi bata sakta, lekin main aapko assure karta hoon, hum aapki help karenge. Aapko OTP milte hi bataaiye, aur main usko verify karunga. Jaldi bataiye, sir, security ke liye zaruri hai.
+receiver: Theek hai, mujhe message mil gaya. OTP hai 4872.
+caller: Thank you, sir! Ab aapko apne account ko secure karne ke liye ek link mil raha hai. Is link pe click karke aapke bank details verify karvanenge, tabhi account block ho jayega. Link yeh hai: bit.ly/paytmsecure

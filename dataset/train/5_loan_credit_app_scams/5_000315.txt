@@ -1,0 +1,8 @@
+caller: Namaste! I am calling from LoanExpress India. We’ve pre-approved you for a quick personal loan of ₹75,000! Just a few easy steps to get it transferred to your account. Are you free to discuss this now?
+receiver: LoanExpress India? Haan, boliye. Mujhe ₹75,000 ka loan mil sakta hai? Main ek tuition centre chalata hoon, thode paise ki zarurat hai.
+caller: Absolutely! We understand the needs of small business owners. To proceed, we need to verify your identity and a small processing fee of ₹900 to activate your account. This ensures the funds are transferred securely. You can pay through UPI – my number is 9876543210.
+receiver: ₹900? Processing fee? Main toh kisi website par likha dekha tha ki processing fee loan ke baad hi lagti hai.
+caller: Sir, this is a special limited-time offer to protect you from fraud and ensure immediate disbursement. Think of it as a security deposit. Once the loan is in your account, we’ll refund you if you wish! Otherwise, the loan will be cancelled and unavailable.
+receiver: Refund bhi? Aur agar main loan nahi leta toh?
+caller: Yes sir, both options are available. But hurry, this offer is valid only for the next 15 minutes. We have many applicants waiting. Just send ₹900 through UPI to 9876543210 and I’ll guide you through the final steps.
+receiver: Okay, wait. Main check karta hoon.

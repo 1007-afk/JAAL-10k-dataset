@@ -1,0 +1,8 @@
+caller: Namaste sir, mera naam Vijay hai, ExpressLoan se baat kar raha hoon. Aapne hamare app par ₹10,000 ka loan apply kiya tha, na? Verification ke liye call kar raha hoon. Aadhar card ki copy digital format mein ready hai aapke paas?
+receiver: Haan, Vijay ji. Aadhar card scan copy mere paas hai. Mujhe kya karna hai?
+caller: Sir, aapko ExpressLoan website par login karna hai – expressloan.in. 'Documents' section mein jaakar ‘KYC Verification’ ke option mein Aadhar card upload karna hai. Jaldi karo, offer limited time ke liye hai.
+receiver: Okay, kar raha hoon. Website mein logon karne mein thoda samay lag raha hai.
+caller: Sir, upload ho gaya kya? Aadhar card clear dikh raha hai? Bahut achha! Ab ek small processing fee bharne ki zaroorat hai, ₹850. Verification ke baad aapka loan approve ho jayega.
+receiver: ₹850? Loan ₹10,000 ka hai aur processing fee ₹850?
+caller: Ji sir, government guidelines ke according processing fee bharani padegi. Bina iske loan approve nahi hoga. Aapke account se ₹850 debit hone ke baad OTP aayega, woh mujhe bataiye.
+receiver: Wait karo, mein check karta hoon…

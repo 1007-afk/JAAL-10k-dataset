@@ -1,0 +1,9 @@
+caller: Namaste, main Axis Bank KYC department se Rohit bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai, isliye aapko KYC update karna hoga urgent basis par.
+receiver: KYC update? Aur kya suspicious activity hui hai? Mujhe toh koi message nahi aaya.
+caller: Ji, system mein ek transaction attempt dikha raha hai Delhi se, ₹12,000 ki amount. Aapne kiya tha ya nahi? Account secure karne ke liye, mujhe aapka naam, aadhaar number, aur ek OTP verify karna padega jo aapke registered mobile number par aayega.
+receiver: ₹12,000? Nahin, main toh aaj tak Delhi se kabhi transaction nahi kiya. Aadhaar number aur OTP phone par share karna mujhe theek nahi lag raha. Koi aur tareeka hai?
+caller: Dekhiye, security protocol ke according, yeh ek standard process hai. Agar aap KYC update nahi karenge, toh aapka account suspend bhi ho sakta hai.  Aapko apni savings risk karna padega.  Just give me the OTP, and I'll quickly verify everything.
+receiver: Account suspend? Koi official confirmation number ya reference number de sakte hain? Main Axis Bank ke official website par check kar sakta hoon.
+caller: Haan, bilkul! Confirmation number hai AX-8765-KYC. Aapko online verification ke liye mujhe OTP hi dena padega. Iske bina kuch nahi ho payega. Please cooperate, sir/madam, for your own benefit.
+receiver: Okay, let me just quickly check the Axis Bank website...
+caller: Aap jaldi karo sir/madam. Time running out.

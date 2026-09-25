@@ -1,0 +1,7 @@
+caller: Hello sir, this is Akash from QuickLoanz. We saw your online loan application, and it’s almost approved! Just need to verify a few details quickly. Are you available for a minute?
+receiver: Ji haan, available hun. What do you need?
+caller: Great. So, sir, for security purposes, can you please tell me the last four digits of your bank account number? Just to confirm it matches our records.
+receiver: Last four digits are 8765. Is that okay?
+caller: Perfect, thank you. Now, sir, to process the loan, we need a small processing fee of ₹2,500 to be transferred to this UPI ID: securepay@xyzbank. It will be refunded immediately after the loan is disbursed.
+receiver: ₹2,500? But the application didn't mention any fees.
+caller: Sir, this is a standard procedure to prevent fraud. It's a one-time fee, and it ensures your loan gets processed faster. Without it, we can’t proceed. We have many complaints of people not paying their loans on time, so we've implemented this measure. Please transfer and let me know, and I'll give you the loan confirmation number.

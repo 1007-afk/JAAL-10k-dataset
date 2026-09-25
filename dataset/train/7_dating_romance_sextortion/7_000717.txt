@@ -1,0 +1,10 @@
+caller: Namaste! Suno, tumhare profile ne mere dil ko churaya hai. Tum kitni sundar ho! I'm Rohan, by the way.
+receiver: Namaste Rohan. Thanks, that's sweet of you to say. I’m Priya.
+caller: Priya, tum ek angel ho! I was thinking we could chat more, maybe share some photos? I have some really fun ones, just clicked them near the beach.
+receiver: I'm not really comfortable sharing photos right away. We just met, right?
+caller: I understand, Priya. But I trust you. And I’m feeling very connected to you. Please, just one photo? It would make me so happy. I’ll send you mine too, just to show you I’m genuine. I’ll send you a picture of my new motorbike.
+receiver: Okay, fine. But nothing too revealing. I’m sending a picture of my cat, Mittens.
+caller: Mittens is adorable! But Priya, I need to be honest with you. My business is facing some trouble. I desperately need 50,000 rupees to cover an urgent invoice. It’s a small amount, just to get back on track. Can you help a friend in need?
+receiver: 50,000 rupees? That’s a lot of money to ask from someone we just met! I think you're scamming me.
+caller: Priya, please don’t say that! I would never hurt you. Think of it as an investment in our future together. I promise to pay you back with interest once things are better. I have proof too; see this screenshot of the unpaid bill?
+receiver: That screenshot could be anything! I'm blocking you and reporting this. Goodbye.

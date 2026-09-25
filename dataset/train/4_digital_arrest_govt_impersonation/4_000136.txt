@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Rajan from the Directorate of Revenue Intelligence. We need to speak with you urgently regarding a suspicious international transaction linked to your bank account.
+receiver: Inspector Rajan? What transaction? I haven't made any international transactions recently. I use HDFC, is this about that?
+caller: Yes, ma'am. A large sum of money, approximately ₹8 lakh, was traced originating from an overseas account and deposited into your HDFC account. Our initial investigation suggests it may be related to illegal cryptocurrency trading and money laundering.
+receiver: Eight lakh? That’s impossible! I haven't received anything like that. Someone must be using my details fraudulently. My account statement shows no such deposits.
+caller: Ma'am, these criminals are sophisticated. They can manipulate records. However, to clear your name and prevent legal action against you, you need to cooperate. We require a small processing fee of ₹15,000 to verify your records and secure your assets. You can pay through UPI to this number: 7890123456.
+receiver: Fifteen thousand? But you said I need to clear my name, not pay money! Shouldn’t you be investigating the people who did this, not me? And why UPI? Why not through HDFC directly?
+caller: Ma'am, we have strict protocols. UPI is the fastest and most secure method for these urgent cases. Think of it as a temporary security deposit to protect you. Delaying this process could lead to asset freezing and more serious consequences. Do you understand? Please transfer the amount immediately, and we’ll resolve this swiftly.
+receiver: This is sounding more and more like a scam. I’m reporting this number to the cybercrime department right now. I am not paying anything.

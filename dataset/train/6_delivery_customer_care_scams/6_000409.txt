@@ -1,0 +1,6 @@
+caller: Hello, is this Mr. Sharma? I'm calling from Zomato customer care. We have detected an unusual transaction of ₹2500 from your account.
+receiver: ₹2500? What transaction? I didn't make any big order.
+caller: Yes sir, a large order was placed to a restaurant in Mumbai. We believe your account may have been compromised. To secure it, we need to verify some details. Can you please share the OTP you just received on your phone?
+receiver: OTP? Why would you need an OTP to verify a transaction? Zomato never asked for OTPs before.
+caller: Sir, this is a new security protocol. We need to confirm it's really you. It’s important to avoid further fraudulent charges. Just a quick 4-digit code. It’s for your safety!
+receiver: Okay, hold on a second. Let me just check my Zomato app... (pause) ...you know what? There's no such transaction showing in my app at all. And I certainly didn't receive any OTP.

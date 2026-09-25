@@ -1,0 +1,6 @@
+caller: Namaste Sir, main Zompay se bol raha hoon. Aapke Zompay wallet mein ₹10,000 ka cashback offer hai, sirf naye users ke liye.
+receiver: Zompay? Cashback? Mujhe toh koi offer mila nahi tha. Main toh last 2 saalon se Zompay use karta hoon.
+caller: Haan Sir, yeh offer sirf limited time ke liye hai aur sirf woh log jo abhi Zompay par transaction karte hain. Aapko sirf ₹100 ka transaction karna hai aur ₹10,000 cashback milega!
+receiver: ₹100 ka transaction? ₹10,000 cashback? Itna zyada? Ye thoda fishy lag raha hai yaar. Koi catch toh zaroor hoga.
+caller: Sir, koi catch nahi hai! Zompay toh aapki security hi guarantee karta hai. Bas aapko apna wallet verify karna hai, ek OTP ke zariye. OTP aapko SMS karega.
+receiver: OTP? Aur mujhe kahan transaction karna hai? Koi link share karo, main check karunga. Aur woh OTP bhi mat bolna, thoda doubt hai yaar.

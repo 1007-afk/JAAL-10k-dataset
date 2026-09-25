@@ -1,0 +1,7 @@
+caller: Namaste! Mai IDFC First Bank se Rahul bol raha hoon. Aapke account mein cashback offer chal raha hai, sirf ₹500 verify karwa lijiye, ₹5000 cashback aapke account mein aa jayenge.
+receiver: ₹5000 cashback? Kaise? Mere account mein ₹500 verify karna hai? Thoda aur batao, mujhe kuch samajh nahi aa raha hai.
+caller: Haan ji, government scheme hai. Aapko sirf ek small transaction karna hai ₹500 ka, ek specific UPI ID pe, verification ke liye. Phir ₹5000 aapke account mein deposit ho jayenge. UPI ID hai 7890123456@axis.
+receiver: ₹500 transaction? Aur yeh UPI ID axis ka hai? Yeh thoda suspect lag raha hai. Main verify karna chahta hoon.
+caller: Sir, time limit hai, sirf 15 minute. Agar aap abhi verify nahi karwaaye toh offer expire ho jayega, aur cashback mil nahi payega. UPI ID waisa hi hai jaise maine bola, 7890123456@axis. Jaldi karo!
+receiver: Wait, wait… Main bank se baat karta hoon, fir dekhta hoon. Aap ka naam aur employee ID batao, main verify karta hoon.
+caller: Sir, jab cashback mil jayega toh aap khush ho jayenge! 15 minute! Abhi ₹500 send karo.

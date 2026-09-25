@@ -1,0 +1,7 @@
+caller: Namaste Aunty! Mera naam Rahul hai, main Swiggy ka customer care se bol raha hoon. Aapke order number SW123456 mein kuch problem aa gaya hai.
+receiver: Kya problem hai? Main order ke intezaar mein thi.
+caller: Ji, delivery agent ne kaha ki aapne jo address diya hai woh galat hai. Yeh address system mein match nahi ho raha.  Aapko sahi address confirm karna hoga taaki delivery ho sake.
+receiver: Lekin maine sahi hi address diya tha! Ek baar check karke bolna. Aur mujhe delivery agent ka number dedo, main khud se baat kar sakti hoon.
+caller: Ma'af kijiye Aunty, security ke liye main aapko direct number nahi de sakta. Par yeh confirm karna zaruri hai.  Address confirm karne ke liye aapko ek OTP mil sakta hai, woh mujhe de dijiye.
+receiver: OTP? Kis company ka OTP? Main Swiggy se OTP nahi le sakti. Yeh kuch ghalat lag raha hai.
+caller: Aunty, please haste na hon. OTP sirf aapki security ke liye hai. Isse pata chalega ki aap hi order karwai thi ya nahi. Please OTP de dijiye, delivery urgent hai.

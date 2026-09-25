@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Rajesh Kumar? This is an urgent matter from the Directorate of Enforcement, Delhi. We need to speak with you regarding an investigation into a potential case of illegal cryptocurrency trading linked to your IP address.
+receiver: Haan, bolie. Mai hi Rajesh Kumar hoon. Illegal cryptocurrency? Main toh kabhi bhi cryptocurrency nahi kiya.
+caller: Sir, our records indicate a significant number of transactions originating from your internet connection. We’ve flagged this as potentially linked to money laundering activities. To clear this up and avoid further legal action, you need to cooperate. We require you to call 9876543210 immediately to verify some details. A court hearing is scheduled next week.
+receiver: Court hearing? Yeh kya bakwas hai? Mai toh computer bhi bilkul normal use karta hoon. Koi cryptocurrency wala account mere paas nahi hai. Aapko galat number mila hai.
+caller: Sir, please don’t be alarmed. This is a standard procedure. To prevent a warrant from being issued, you must call the verification number—9876543210—and provide the reference code, DE-87654. There's a small fee of ₹15,000 to cover the verification costs, to be deposited immediately, so we can clear your name.
+receiver: ₹15,000? Yeh toh loot loote ki baat ho rahi hai! Mai koi bhi payment nahi karunga. Koi case FIR file kiya hai mere naam par? Police ko call karta hoon.
+caller: Sir, please understand, this is to avoid a very serious situation. Delaying will only complicate things and increase the fine. If you call 9876543210 and complete the verification, we can ensure the case is dismissed. This is your final opportunity to resolve this matter peacefully.
+receiver:

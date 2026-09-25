@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Directorate of Enforcement, ED. We are investigating a case of illegal cryptocurrency trading linked to your IP address.
+receiver: Illegal crypto? Yeh kya keh rahe hain? Main toh itni toh crypto trade karta hoon.
+caller: Sir, our records show substantial transactions from your device to offshore accounts, exceeding permissible limits. This falls under money laundering protocols. We need to verify your involvement.
+receiver:  Yeh galat hai! Main aisa kuch nahi karta. Mere device se koi bhi illegal activity nahi ho rahi.  Konse offshore accounts ki baat kar rahe hain? Mujhe proof dikhao.
+caller: Sir, providing specifics now would compromise the ongoing investigation. However, we need to freeze your bank accounts temporarily to secure the funds until we can verify. For this, we require details of your primary bank account and a one-time OTP for verification. This is standard procedure.
+receiver:  Freeze my accounts?  Sir, yeh toh fraud lag raha hai. ED aise phone kar ke bank details nahi puchhti. Main police complaint karunga. Aapko koi haq nahi hai mere accounts ko freeze karne ka.
+caller:  Sir, please do not be alarmed. Delaying cooperation will only complicate matters and potentially lead to more severe consequences. We understand your apprehension, but time is of the essence. We have already contacted your bank; they are awaiting your OTP to proceed. A refusal will be documented as obstruction of justice. Please share the OTP now to avoid further escalation.
+receiver: Sir, main koi OTP nahi dene wala. Yeh absolutely a scam hai. Main abhi hi apne bank ko call karta hoon aur police ko bhi report karta hoon. Don't call me again.

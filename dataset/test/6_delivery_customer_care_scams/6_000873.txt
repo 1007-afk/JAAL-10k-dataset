@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? This is Akash from Bluebird Courier. We're calling regarding a parcel for you, scheduled for delivery today, but there seems to be a slight issue with the payment.
+receiver: Haan, mai hi Priya Sharma bolti hoon. Parcel? Mujhe koi order toh yaad nahi. Kya hai issue?
+caller: Yes, madam. Our system shows a payment discrepancy. The OTP you received earlier didn't go through completely. To ensure secure delivery, we need to re-verify your payment details. Just a quick confirmation process.
+receiver: OTP? Mujhe koi OTP toh nahi mila. Aur payment discrepancy ka matlab kya hai? Mainne toh online payment kiya tha jab order kiya tha.
+caller: It must have been a temporary glitch, madam. It's very common these days. To avoid the parcel being returned to the sender, could you please provide the last four digits of the card you used for the purchase? It’s just for verification.
+receiver: Last four digits of my card? Yeh phone pe?! Itna personal information, kaise de sakta hoon? Mujhe yeh sab kuch risky lag raha hai. Koi scam toh nahi hai yeh?
+caller: Madam, please don't worry. We understand your concern. Bluebird Courier is a completely reputable company. To expedite the delivery, please just give me those four digits. Otherwise, the parcel will be sent back, and you'll have to pay a higher return fee.
+receiver: Return fee? Okay, wait a second. I am calling my husband and then I will decide. What is the tracking number for this parcel again?

@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rahul Sharma bol raha hun, Flipkart se. Aapke Flipkart account mein ek pending transaction hai, ₹2499 ka.
+receiver: ₹2499? Kya transaction hai? Mujhe koi notification nahi aaya.
+caller: Woh ek order hai jo aapne accidental hai karta hai, sir. Abhi woh aapke account se deduct ho gaya hai, lekin Flipkart rules ke hisab se, hume verify karna hoga ki aapko refund chahiye ya nahi.
+receiver: Verify? Kab karna hai? Aur kaise verify karna hai?
+caller: Sirf ek OTP number verify karna hai. Aapko OTP milega apne phone par, woh mujhe bataiye, refund process start ho jayega. Offer sirf aaj ka hai, sir.
+receiver: OTP? Wait a minute. Flipkart toh aise OTP nahi puchta. Koi link do website ka, ya customer care number.
+caller: Sir, time bahut kam hai. Offer khatam ho jayega. OTP bataiye, ₹2499 wapas ho jayega. Abhi!
+receiver: No, thank you. I'm going to call Flipkart directly.

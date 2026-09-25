@@ -1,0 +1,8 @@
+caller: Hello! Congratulations, you’ve been chosen to win a free Samsung Galaxy S23 Ultra! And we’re also sending you a complimentary pair of noise-canceling headphones – isn’t that fantastic?  Just dial 08839978564 to confirm your prize and provide some basic information.  We only have three slots available currently.
+receiver: Hello? Seriously? A new Samsung and headphones? That's unbelievable! Okay, I’ll call 08839978564, but what kind of information do they need?
+caller: Absolutely! Someone else has already secured their prize, leaving just two spots remaining. Don’t delay, call immediately, 08839978564.  It's very simple process, just a few minutes of your time.
+receiver: Oh my god, only two left?  That’s crazy!  Alright, I am dialing it now. Thank you so much for this wonderful opportunity!  Goodbye!
+caller: Wonderful! Now, only one slot is open!  Arey, you're doing brilliantly, don’t let this slip away! Call 08839978564 and finalize your claim quickly.
+receiver: Arre yaar! Just one left?  Arey, this is getting intense!  I'm actually calling now.  Thank you again for alerting me!  Bye bye!
+caller: Fantastic! The last spot is yours!  Arey, congratulations, you’ve won!  Call 08839978564 to complete the registration. You're absolutely lucky!
+receiver: Arre, really? I won?  Wonderful!  Let me just confirm everything.  Thank you so much! Goodbye!

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Indian Customs Department se Rohan Verma bol raha hoon. Aapke naam par ek parcel Mumbai airport par rok diya gaya hai.
+receiver: Parcel? Mere naam par? Mai toh kuch order nahi kiya tha. Yeh kya ho raha hai?
+caller: Sir, parcel mein illegal items paaye gaye hain. Drugs ke suspicion mein parcel rok diya gaya hai. Aapko yeh matter clear karna hoga, warna police case register hoga.
+receiver: Drugs?! Yeh toh galat baat hai! Mai toh kabhi drugs nahi use karta. Kya proof hai aapke paas? Mujhe yeh parcel kisne bheja hai?
+caller: Sir, parcel sender ka naam confidential rakha gaya hai. Security reasons se. Aapko matter clear karne ke liye ₹50,000 fine pay karna padega. Bank transfer details main aapko message karunga. Koi jurrimat nahi karna, sir.
+receiver: ₹50,000? Sir, yeh toh bahut jyada hai! Mai police station mein jaakar complaint karunga agar aap log mujhe darrana-darrana kar rahe hain. Main koi paisa nahi pay karunga. Mujhe proof chahiye.
+caller: Sir, aapko samajh nahi aa raha hai. Police case register hone par ₹1 lakh ka fine lag sakta hai aur jail bhi ho sakti hai. Please, ₹50,000 pay karke apna naam saaf karein. Account number message mein aa jayega.

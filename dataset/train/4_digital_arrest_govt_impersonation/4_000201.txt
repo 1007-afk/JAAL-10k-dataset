@@ -1,0 +1,7 @@
+caller: Namaste, this is Inspector Sharma from the Delhi Customs Department. We’ve intercepted a package at Indira Gandhi International Airport addressed to you containing suspected illegal narcotics.
+receiver: Illegal narcotics? Yeh kya keh rahe hain? Mujhe toh koi package nahi bheja. Main toh kabhi drugs nahi leta.
+caller: Sir, we have proof. Tracking number DLX78945. It seems you were unknowingly used as a courier. To clear this, you need to pay a processing fee of ₹15,000 to expedite the investigation.
+receiver: ₹15,000? Tracking number dikhaiye? Aur yeh package kis naam se aaya hai? Main police station jaa sakta hoon, main complaint kar sakta hoon. Yeh sab kuch fake lag raha hai.
+caller: Sir, for security reasons, we cannot disclose the sender’s name. The tracking number is for your reference only. Payment can be made through UPI to expedite the process. Delay will result in a formal investigation and potential arrest.
+receiver: UPI? ₹15,000? Sir, mujhe maaf karna. Main aapko trust nahi karta. Main abhi police mein report karunga. Aapko mujhse koi paisa nahi milega.
+caller: Sir, please don't do that. This is a serious matter. Consider this a final warning, just pay the ₹15,000 and everything will be resolved quickly and quietly. Otherwise, we will be forced to take legal action.

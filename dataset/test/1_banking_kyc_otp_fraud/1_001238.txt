@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main State Bank of India se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: Oh? Kya hua? Mein toh koi transaction nahi kiya abhi tak.
+caller: Ji, sir. Ek online transaction attempt kiya gaya tha Rs. 12,000 ka, lekin woh fail ho gaya. Security ke liye, humein aapka account verify karna hoga.
+receiver: Verify karna hai? Kaise verify karenge? OTP nahi bhejna hai mujhe. Last time ek scammer ne OTP maanga tha aur mera sab kuch nikal gaya.
+caller: Bilkul sir, OTP nahi bhejna hai. Hum sirf aapke KYC details confirm karenge. Aapka Aadhaar number aur PAN card number bataiye, taaki hum account secure kar sakein.
+receiver: Aadhaar number PAN card number phone pe? Yeh thik nahi hai. Bank aise nahi puchta.
+caller: Sir, aapko tension lene ki zaroorat nahi hai. Yeh standard procedure hai. Agar aap details nahi denge, toh humko account freeze karna padega. Aapka paisa bhi risky mein aa jayega.
+receiver: Freeze karenge? Aur paisa risky mein aa jayega? Thik hai, thik hai. Batao, aadhaar number kya hai?

@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya Sharma calling from Paytm Payments Bank. We noticed a small discrepancy in a recent transaction on your Paytm wallet. It seems like a payment of ₹250 was flagged as potentially fraudulent. To secure your funds, we need to quickly verify a few details.
+receiver: Oh really? I hadn’t noticed. What kind of details do you need?
+caller: Just your Paytm registered mobile number and a one-time password that we’ll send to that number. It's just a standard security procedure to confirm it’s really you. We need this to release the hold on your wallet.
+receiver: Okay, my mobile number is 9988776655. But why are you calling? Paytm usually sends SMS.
+caller: Yes, usually we do, but because of the potential fraud risk, we’re taking extra precautions. The OTP has been sent. Could you please share it with me once you receive it? Don’t worry, it’s completely safe.
+receiver: I received an OTP. It’s 458291. But I’m still a little unsure. Can you give me a reference number for this verification, or the customer care number I can call to confirm?
+caller: Absolutely! Your reference number is PAYTM-SEC-7892. Now, to complete the verification and release your funds, we also need you to quickly deposit ₹50 as a processing fee into this UPI ID: bharatpay@axisbank. Once that's done, your wallet will be instantly unlocked and the ₹250 will be available.

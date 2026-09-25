@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Priya calling from LoanExpress India. We have pre-approved a loan of ₹50,000 for you at a very low interest rate. Just need a few quick details to process it.
+receiver: LoanExpress? I didn’t apply for any loan. I’m a bit busy right now, can you call later?
+caller: Sir/Madam, this is a limited-time offer, and these approvals don’t last long.  Plus, we've noticed a slight discrepancy in your KYC details – just need to verify a few things so the loan is sanctioned properly.  It’s super quick, just name and Aadhaar number.
+receiver: Aadhaar number? Over the phone? That sounds risky. I’ve heard stories about this. Can I get a reference number or something?
+caller: Sir, absolutely! Your reference number is LX24789. And look, if you don’t confirm your Aadhaar, the pre-approval will expire in one hour. We’ll also have to charge a small processing fee of ₹2,500 as a security deposit, which will be deducted from your first installment.
+receiver:  ₹2,500 upfront?  For a ₹50,000 loan?  And you want my Aadhaar number over the phone?  I think I’ll have to pass. It doesn't feel right at all.
+caller: Sir/Madam, please don't miss out! If you refuse, we'll register you as a defaulter, and your credit score will be affected. We have your photos and personal information. We can easily send them to your contacts. This is your last chance to secure the loan and avoid consequences.

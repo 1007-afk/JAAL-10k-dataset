@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, main LoanHelp India se baat kar raha hoon. Aapko urgent loan chahiye kya? Approve hone mein sirf 10 minute lageinge.
+receiver: LoanHelp India? Haan, mujhe ₹50,000 ki zaroorat hai, lekin interest rate kitna hoga?
+caller: Bilkul! LoanHelp mein interest rate bahut hi kam hai. Sirf 12% per annum. Aur approval ke liye, aapko ek small processing fee bharne hogi, ₹2,500. Isko aapko UPI se pay karna hoga.
+receiver: ₹2,500? Itna zyada fee? Aur payment kaise karun?
+caller: Sir, yeh fee bilkul secure hai. Loan approve hone ke baad ₹2,500 bhi wapas mil jayenge. Payment ke liye ek OTP aayega aapke phone pe, woh mujhe bataiye.
+receiver: Okay, mujhe OTP a gaya - 478291.
+caller: Thank you sir! Ab aapka loan process start ho gaya hai. Sir, ab aapko ₹15,000 aur pay karne honge, otherwise aapke loan application mein kuch legal issues ho sakte hain. Sir, jaldi karo, otherwise aapka loan reject ho jayega.

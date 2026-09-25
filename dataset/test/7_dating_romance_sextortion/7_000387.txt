@@ -1,0 +1,6 @@
+caller: Hello, is this number active? I saw your profile on ‘Dil Mil’ and you seem very interesting.
+receiver: Hello! Yes, it’s active. Thank you. Who is this? And what made you think I’m interesting?
+caller: My name is Arjun. Your pictures and your bio about loving old Bollywood songs really caught my eye. I'm a big fan too. I was wondering if you’d like to chat a little?
+receiver: Arjun, nice to meet you virtually. Old Bollywood is the best! I’m Priya. What do you do? It’s rare to find someone else with that taste these days.
+caller: It’s a pleasure, Priya. I work as a software engineer, mostly from home. Things have been hectic lately though, with my mom needing an urgent operation. The hospital bills are piling up, you know? It’s quite a difficult situation.
+receiver: Oh my god, Arjun! That’s terrible news. I’m so sorry to hear about your mother. I hope she’s okay. Is there anything I can do to help? Sending strength and positive thoughts your way.

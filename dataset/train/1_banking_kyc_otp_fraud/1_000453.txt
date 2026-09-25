@@ -1,0 +1,8 @@
+caller: Namaste sir, main Rahul, Axis bank se baat kar raha hoon. Aapne online loan apply kiya tha, islie humein aapke account details verify karne hai. Aapke paas bank statement ready hai kya?
+receiver: Namaste Rahul ji. Haan, bank statement toh hai. Kaisa hai aapka account?
+caller: Ji sir, aapka account balance ₹5,67,890 hai, aur last transaction abhi hua tha. Kya main aapke email id check kar sakta hoon, jo aapne loan apply karte samay diya tha?
+receiver: Haan, my email id hai [invent an email id, e.g., rajesh.kumar@gmail.com]. Dekh lein. Jaise aapko chahiye.
+caller: Bahut shukriya sir! Aapka email id rajesh.kumar@gmail.com hai, confirm ho gaya. Abhi aapke mobile number par SMS ayega, usmein likha hua code bataiye mujhe.
+receiver: SMS aaya hai. Yeh hai [invent an SMS code, e.g., 12345]. Verification complete?
+caller: Ji sir, verification ho gaya hai. Aapke loan application ki status update ka letter aapko tomorrow morning mail hone wala hai. Koi aur madad chahiye?
+receiver: Haan, koi madad nahi chahiye. Dhanyavaad.

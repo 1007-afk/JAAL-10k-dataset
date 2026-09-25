@@ -1,0 +1,6 @@
+caller: Hello, good afternoon. This is Rahul from Bluebird Courier. We have a package addressed to Mr. Sharma in your area, but there’s a slight issue with the delivery.
+receiver: Sharma? Yes, that’s me. What's the problem?
+caller: Sir, the package requires a small customs clearance fee of ₹2850. It's a standard procedure for international shipments. Can you confirm your full name and address for verification?
+receiver: ₹2850? I wasn't expecting any fees. What’s the package? And why wasn’t I notified beforehand?
+caller: Sir, it’s a high-value item. We sent an SMS, but sometimes the network is patchy. To complete the clearance process, we just need a one-time password (OTP) sent to your registered mobile number. It's a security measure.
+receiver: OTP? Hold on. This sounds suspicious. I’m not giving out any OTPs over the phone. Can you give me a reference number or a contact number for Bluebird Courier I can call back?

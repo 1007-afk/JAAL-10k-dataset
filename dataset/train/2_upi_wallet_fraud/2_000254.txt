@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rupesh Sharma, PhonePe se calling kar raha hoon. Aapke PhonePe account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Woh transaction kaun sa hai? Mai toh koi transaction nahi kiya.
+caller: Ji, ek ₹2500 ka transaction hua hai, Rajasthan mein. Aapne check kiya? Urgent hai yeh, warna PhonePe aapka account suspend kar sakta hai.
+receiver: ₹2500? Nahin, maine nahi kiya. Account suspend? Aur kya karna padega?
+caller: Account safe rakhne ke liye, aapko apne PhonePe wallet se ₹500 security deposit ke taur par deposit karne hoga. Just ₹500, sir. Verification ke liye.
+receiver: ₹500 security deposit? Yeh toh galat lag raha hai. PhonePe aise nahi karta hota. Mujhe koi official email ya message bhi nahi aaya.
+caller: Haan ji, security update kaafi new hai. Fraud cases badhte ja rahe hain, isliye PhonePe ne yeh step liya hai. Jaldi karo, otherwise account suspend ho jayega aur ₹2500 bhi fraudster le jayega.

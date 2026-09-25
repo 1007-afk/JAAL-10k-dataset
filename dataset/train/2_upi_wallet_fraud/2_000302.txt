@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai Flipkart Customer Care se Rohit bolta hu. Aapke Flipkart account mein ₹499 ka pending transaction hai, jo ek suspicious device se kiya gaya tha.
+receiver: Oh, ji. ₹499? Mujhe toh koi transaction yaad nahi.
+caller: Ji Madam, security ke liye humein aapki verification karni hogi. Please bataiye aapka PhonePe registered mobile number kya hai?
+receiver: Why do you need my PhonePe number? Flipkart toh PhonePe se related nahi hai na?
+caller: Madam, humein verify karna hai ki aap hi account ke owner hain. Aapka number dedo, fir main aapko transaction details bhej sakta hu. Koi chinta mat karna.
+receiver: Okay, mera number 9876543210 hai. Par transaction ka proof bhi dikhaiye mujhe.
+caller: Thank you Madam. Ab aapko OTP milega PhonePe se. Woh OTP mujhe bataiye, taaki hum verification complete kar sakein.
+receiver: OTP? Wait a minute… yeh thoda suspicious lag raha hai. Flipkart Customer Care aise OTP maangta hai kya?

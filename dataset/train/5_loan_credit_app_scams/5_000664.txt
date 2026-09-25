@@ -1,0 +1,7 @@
+caller: Hello, this is Deepak calling from LoanExpress India. We’ve pre-approved you for a quick loan of ₹50,000 to ₹80,000. Very easy process, no paperwork needed upfront. Just a few details to verify.
+receiver: Oh, really? That’s good to hear. I’ve been needing a loan for some time now. What details do you need?
+caller: Wonderful! First, can I get your full name and date of birth? And tell me, what is the purpose of this loan - is it for medical expenses, education, or something else?
+receiver: My name is Priya Sharma, and my birthday is 15th August, 1992. I need the money for my father’s medical treatment; he’s been unwell.
+caller: Priya Sharma, very nice. Medical expenses are a serious matter. To proceed, we require a small verification fee of ₹2,500 as processing charges. Once paid, the loan will be instantly credited to your account. It's a one-time fee. You can pay via UPI.
+receiver: ₹2,500? But you said it was easy and no upfront fees. Shouldn’t I get the loan first and *then* pay something?
+caller: Priya ji, rules have changed. This is a security measure to prevent fraudulent applications. Many people try to misuse our services. Think of it as an insurance. Once you pay, we'll send you the loan amount immediately. Don't delay; this offer won't last long.

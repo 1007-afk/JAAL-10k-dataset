@@ -1,0 +1,16 @@
+caller: Namaste sir, is this Mr. Verma? Ji, main Tech Solutions India se baat kar raha hoon. Aapne recently jo online course enroll karne ke liye payment kiya tha, woh abhi tak aapne access nahi kiya hai. Aapko techsolutionsindia.com par login karvaane hai aur apni account activate karne hai. Aapke paas sirf 4 minutes ka time hai. Please haste.
+receiver: Haan ji, hello. Main Rohit Verma hoon. Online course? Oh, yes, I remember that. I thought I had completed the payment. Let me check techsolutionsindia.com immediately. Thank you for reminding me. 4 minutes, okay, I’m going to log in now.
+caller: Ji Rohit, time bahut important hai. techsolutionsindia.com par login kar lijiye aur apne profile mein go kar ke ‘Activate Course’ button click kar lijiye. Agar delay ho rahi hai, toh agar aapko koi problem hogi.
+receiver: Haan ji, login kar raha hoon… Acha, dekho mujhe error message dikha raha hai. “Invalid Payment.” Kya hoga ab?
+caller: Jeevan bhai, yeh toh expected hai. Sometimes payment gateway mein technical issues hote hain. Aapko apne bank statement ya credit card bill check karo aur sure check karo ki payment complete hua hai ya nahi. Jaldi karo, time fast chal raha hai!
+receiver: Okay, ji, check kar raha hoon... Yes! Payment complete hua hai! Thank you so much for your help. Kya course mein koi special features hain?
+caller: Ji Rohit, course mein advanced analytics tools and case studies hain. It’s a very valuable resource. But time over, jaldi ho gayi. Aapko abhi enjoy karna hai.
+receiver: Achha, theek hai. Thanks again. Koi aur madad chahiye?
+caller: Namaste sir, is this Mr. Verma? Ji, main Tech Solutions India se baat kar raha hoon. Aapne recently jo online course enroll karne ke liye payment kiya tha, woh abhi tak aapne access nahi kiya hai. Aapko techsolutionsindia.com par login karvaane hai aur apni account activate karne hai. Aapke paas sirf 4 minutes ka time hai. Please haste.
+receiver: Haan ji, hello. Main Rohit Verma hoon. Online course? Oh, yes, I remember that. I thought I had completed the payment. Let me check techsolutionsindia.com immediately. Thank you for reminding me. 4 minutes, okay, I’m going to log in now.
+caller: Ji Rohit, time bahut important hai. techsolutionsindia.com par login kar lijiye aur apne profile mein go kar ke ‘Activate Course’ button click kar lijiye. Agar delay ho rahi hai, toh agar aapko koi problem hogi.
+receiver: Haan ji, login kar raha hoon… Acha, dekho mujhe error message dikha raha hai. “Invalid Payment.” Kya hoga ab?
+caller: Jeevan bhai, yeh toh expected hai. Sometimes payment gateway mein technical issues hote hain. Aapko apne bank statement ya credit card bill check karo aur sure check karo ki payment complete hua hai ya nahi. Jaldi karo, time fast chal raha hai!
+receiver: Okay, ji, check kar raha hoon... Yes! Payment complete hua hai! Thank you so much for your help. Kya course mein koi special features hain?
+caller: Ji Rohit, course mein advanced analytics tools and case studies hain. It’s a very valuable resource. But time over, jaldi ho gayi. Aapko abhi enjoy karna hai.
+receiver: Achha, theek hai. Thanks again. Koi aur madad chahiye?

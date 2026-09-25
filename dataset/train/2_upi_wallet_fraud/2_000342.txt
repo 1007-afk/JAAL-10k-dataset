@@ -1,0 +1,7 @@
+caller: Namaste! Mai Paytm se Rahul bol raha hu. Aapke Paytm wallet mein kuch suspicious activity dikhi hai. Security ke liye, aapko apne account ko verify karna hoga.
+receiver: Kya? Suspicious activity? Main toh aaj tak kabhi koi transaction nahi kiya. Verify karna hai, kaise?
+caller: Haan ji. Yeh ek OTP verification process hai. Aapko Paytm app mein 'Security Update' section mein jana hai, aur wahan ek link milega. Us link pe click karein aur OTP enter karein.
+receiver: OTP? Par koi link to dikha nahi raha. Aur main toh app pehle se hi update kiya hua hai.
+caller: Shayad app ka version purana hai. Aapko ek QR code scan karna hoga. Main aapko ek link send karta hu, wahan se QR code generate hoga. Us QR code ko Paytm app mein scan karein aur phir OTP enter karein. ₹50 ka verification fee lagga hai.
+receiver: ₹50? Verification fee? Paytm toh kabhi bhi fee nahi lete. Mujhe doubt ho raha hai.
+caller: Sir, yeh ek temporary fee hai. Account suspend hone se bachane ke liye aapko jaldi karna hoga. Link pe click karein, QR code scan karein aur OTP enter karein. Fast!

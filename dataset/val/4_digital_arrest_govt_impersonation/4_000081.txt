@@ -1,0 +1,7 @@
+caller: Namaste? Ji, is this Mrs. Sharma? This is Inspector Singh from the Cyber Crime Investigation Cell. We've detected suspicious activity linked to your bank account - unusual online transfers to a cryptocurrency wallet.
+receiver: Hello? Inspector Singh? Suspicious activity? What's going on? My account is safe, I check it regularly.
+caller: Ma'am, we are working swiftly to contain the situation. These transfers are linked to an illegal gambling operation. To clear your name and prevent further losses, we require you to deposit ₹50,000 as a security deposit. This is a standard procedure.
+receiver: ₹50,000? Security deposit? Why would I pay to clear my name? This sounds fishy. Can you give me a case number, or an official contact number for the Cyber Crime Cell?
+caller: Ma'am, we understand your concern, but time is of the essence. Delaying could result in your account being frozen and a formal investigation launched.  The case reference is CCIC/2024/08/117. Please transfer the amount to this UPI ID: secure-payments123@xyzbank.co.in.
+receiver: Wait a minute! Secure-payments123@xyzbank.co.in? That doesn't look right. XYZ Bank is not a real bank. I’m calling the actual bank right now to confirm. You should be careful Inspector Singh.
+caller: Ma’am, this is a matter of national security, and we’re handling it discreetly. The UPI ID is perfectly legitimate. Do not try to be smart with us, we have your records. Please, quickly make the payment.

@@ -1,0 +1,8 @@
+caller:  is a recorded message from our delivery service. We recently tried to make a delivery to your address but were unable to do so. Please call us back at 07090298926 to re-schedule your delivery. Your reference number is 9307622. We repeat, please call 07090298926 to re-schedule your delivery. Thank
+receiver: Hello? Haanji, woh delivery ka message aaya tha? Haath mein number hai 07090298926, right? Aur reference number 9307622? Okay, main call karta hoon abhi. Thank you.
+caller: Hello? Haanji, woh delivery ka message aaya tha? Haath mein number hai 07090298926, right? Aur reference number 9307622? Okay, main call karta hoon abhi. Thank you.
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Delivery schedule karne ke liye. Kya aap bata sakte hain ki koi problem hui thi delivery mein?
+caller: Haanji, main abhi call kar raha hoon aapke diye hue number par. Delivery schedule karne ke liye. Kya aap bata sakte hain ki koi problem hui thi delivery mein?
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Delivery schedule karne ke liye. Kya aap bata sakte hain ki koi problem hui thi delivery mein?
+caller: Haanji, thanks for calling back. Ji, actually, there was a slight issue with the delivery attempt at your address. We need to confirm a few details to re-schedule it for you. Can you please confirm the full delivery address you had provided?
+receiver: Haanji, zaroor. Address hai [Your Full Delivery Address]. Kya woh sahi hai? Aur kya aap bata sakte hain ki kya specific issue hua tha delivery mein? Taki aage se problem na ho.

@@ -1,0 +1,9 @@
+caller: Hello sir, this is Inspector Sharma from the Delhi Customs Department. We have intercepted a package registered under your name containing suspicious items.
+receiver: Delhi Customs? Kya package? Mein toh koi package nahi bheja tha.
+caller: Sir, the package originated from overseas and contains items we suspect are linked to illegal import activities. To clear this, you need to pay a small processing fee of ₹7,500 to verify your identity and confirm you weren't involved.
+receiver: Illegal import? ₹7,500? Sir, yeh toh theek nahi lag raha hai. Mein toh kuch import nahi kiya. Can you give me a reference number, please?
+caller: Sir, time is of the essence. We need to resolve this swiftly to avoid further legal complications. The reference number is DEL-IMP-2024-4789. Please use UPI and send the money to this ID: customs.clearance@upi.  Failure to do so will result in a warrant being issued.
+receiver: Warrant? Sir, wait, wait. Main check karta hu.  Yeh UPI ID mujhe strange lag raha hai.  Let me call my lawyer first, okay?
+caller: Sir, lawyers will only complicate things and delay the process. You have just 15 minutes to make the payment. After that, we cannot guarantee your safety.  This is a serious matter.
+receiver: Fifteen minutes? Okay, okay. Just give me the UPI ID again. I'll see what I can do.
+caller: customs.clearance@upi.  Sir, please ensure it's ₹7,500 exactly.  Any discrepancy will cause further delays. We are waiting for your confirmation.

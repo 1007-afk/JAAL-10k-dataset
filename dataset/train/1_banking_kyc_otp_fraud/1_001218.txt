@@ -1,0 +1,10 @@
+caller: Namaste, sir? Is this Mr. Verma? I am calling from HDFC Bank’s security department.
+receiver: Haan, bolie. What’s this about?
+caller: Sir, we’ve detected unusual activity on your account. A large transaction is pending – Rs. 18,000 to an unknown merchant in Mumbai. We need to verify your details immediately to prevent this fraudulent transaction from going through.
+receiver: Rs. 18,000? That’s a lot! What kind of activity are we talking about?
+caller: Sir, to protect your account, we need to confirm your registered mobile number and the OTP we’re sending to it right now. Could you please read out the OTP when you receive it? This is purely for security purposes.
+receiver: Wait a minute. Why can't you just send me an SMS? Why are you calling?
+caller: Sir, due to new RBI guidelines, we're required to verbally confirm the OTP for enhanced security. Just read out the OTP, sir, and your account will be safe.
+receiver: I'm not comfortable giving out an OTP over the phone. I'll go to my branch to sort this out.
+caller: Sir, please don't delay! If we don’t verify this within the next five minutes, your account will be temporarily blocked for security reasons. It's a simple process, sir; just tell me the OTP.
+receiver: No, thank you. I'm hanging up now.

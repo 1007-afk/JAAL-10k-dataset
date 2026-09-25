@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from FastCash Loans. We’ve reviewed your profile and you’re pre-approved for a loan of up to ₹50,000. It's very easy and quick to get! Just need to confirm a few details.
+receiver: FastCash Loans? I don't think I applied for any loan. Are you sure you have the right number?
+caller: Yes, we have your registered mobile number, 9876543210. To process your loan, we need to verify a small processing fee of ₹2,500 to prevent fraud and activate your account. It will be refunded along with your loan amount.
+receiver: ₹2,500 just to process? That seems weird. No legitimate loan company asks for money upfront. And I still don’t remember applying.
+caller: Sir/Madam, this is a standard security procedure. We’ve had many fraudulent applications, and this fee protects you. Without it, we cannot guarantee the loan's security. Please send it to the UPI ID: fastcash.loans@axis.  Once verified, your ₹50,000 will be disbursed immediately. Think of the opportunities!
+receiver: This is definitely a scam. I’m reporting this number. You’re trying to steal money. Don’t call me again.
+caller: Arre, wait a minute! This is not right.  We'll reduce the processing fee to ₹1,500! Just a small amount to prove you’re serious. Don’t miss this chance to get easy money! Please send it now.

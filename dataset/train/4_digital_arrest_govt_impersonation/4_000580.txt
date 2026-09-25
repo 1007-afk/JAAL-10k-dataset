@@ -1,0 +1,6 @@
+caller: Namaste, mai Indian Customs Department se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Gujarat se, lekin parcel mein illegal documents mile hain.
+receiver: Kya? Illegal documents? Mere naam se? Mainne toh koi parcel order nahi kiya tha.
+caller: Ji, parcel tracking number XYZ123456 hai. Documents ke wajah se parcel ab release nahi hoga. Aapko parcel release hone ke liye ek small amount clear karni padegi.
+receiver: Kitni amount hai? Aur main kaise pay kar sakta hoon? Yeh bahut strange lag raha hai, mujhe yeh bilkul fraud jaisa lag raha hai.
+caller: Amount sirf ₹7,500 hai. Aapko UPI se pay karna hoga. Phir hum parcel release kar denge. Jaldi karein, warna parcel confiscat kar lenge.
+receiver: ₹7,500? Yeh bahut zyada hai. Aur UPI se pay karne ko bol rahe hain? Main police mein report karunga. Yeh loag thek nahi hain.

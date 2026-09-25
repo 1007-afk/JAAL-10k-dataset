@@ -1,0 +1,11 @@
+caller: Namaste, is this Priya Sharma? This is Rohan from the DigiRewards Support Team. I’m calling regarding your 2007 account activity. It shows you have 950 DigiPoints which were awarded during the ‘Summer Splash’ event of that year. They are scheduled to lapse on December 15th, 2007. Do you recall participating in any promotions around that time?
+receiver: Haan Rohan, woh main hi hoon. 950 DigiPoints? December 15th, 2007?  Actually, I do remember something about a summer sale. But I didn't keep track of the points. Can you tell me more about the ‘Summer Splash’ event?
+caller: Absolutely! Don’t worry, it happens to many people. Those points were earned through a multi-tiered reward program we had running throughout 2007, often linked to online shopping with our affiliated retailers. The system automatically registers them as “pending”. We can definitely help you convert those points into rewards before they vanish. Would you like to hear about the available redemption options?
+receiver: Summer Splash… yes, I remember seeing ads for that. What kind of rewards can I get with these points? I don't want to waste them on something useless.
+caller: Certainly! With 950 DigiPoints, you’re looking at some fantastic choices. We’ve got premium movie tickets, vouchers for popular food delivery services, and even a discount coupon for a leading electronics store. Alternatively, we can also transfer them directly to your mobile recharge balance. Which one seems more suitable for you?
+receiver: Mobile recharge sounds useful. How much will 950 points translate to in terms of recharge value? And how long will it take to complete the transfer?
+caller: Let me check that for you. Okay, 950 DigiPoints would currently equate to approximately ₹650 in mobile recharge credits. The transfer process typically takes between 24 to 48 hours, depending on your service provider.
+receiver: ₹650? That’s decent. Is there any transaction fee involved in transferring these points?
+caller: There isn’t a transaction fee, Priya. We want to ensure you get the maximum value from your DigiPoints. Just to confirm, you are Priya Sharma, correct?
+receiver: Yes, that’s me.
+caller: Great! Now, to proceed with the transfer, I'll just need a few details from you…

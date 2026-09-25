@@ -1,0 +1,22 @@
+caller: Hello? Hello? Can you hear me properly? This is the National Lottery helpline calling! We have some fantastic news for you! Your ticket number has been selected in our latest draw! Can you hear me clearly? We just need to quickly verify a few details to process your winnings. Are you currently using a mobile phone, like we asked?
+receiver: Haan, haan, sunn pa raha hoon. Shayad network thik nahi hai. National Lottery? Wow, really? So, what’s the good news? Just tell me what I need to do. And how much did I win? I am so excited!
+caller: Excellent! You're using a mobile, that's great. Now, to confirm your winning ticket, we require your full name, please. And also, your mother's maiden name. It’s important for security reasons.
+receiver: My full name is Priya Patel. And my mother’s maiden name is Joshi. Tell me more, what happens next?
+caller: Wonderful, Priya ji! Joshi is a very common name, thank you. Now, could you provide us with your date of birth, please? Month, day and year?
+receiver: My date of birth is 28th November, 1987. Let’s see… now, who is this lucky winner? Don’t keep me waiting!
+caller: Fantastic, Priya ji! 28th November, 1987. Now, this winning ticket belongs to someone very close to you – your younger brother. But we can’t reveal his name yet, as it’s a surprise. However, let me give you a few hints. Does your brother have any particular interest, something he loves doing? Something unique?
+receiver: He has an interest in photography, he loves taking pictures of birds. Is that him? What does he look like?
+caller: Hello? Hello? Can you hear me clearly? This is the IRS Tax Assistance Service calling! We’ve detected some discrepancies in your tax returns. We need to verify your information to avoid potential legal action. Are you currently using a computer, like we requested?
+receiver: Haan, haan, sunn pa raha hoon. Computer se hi bol raha hoon. IRS Tax Assistance Service? Legal action? Oh no! What kind of discrepancies? Tell me what happened.
+caller: Great! Using a computer is perfect. Now, we need to confirm your full name and address, please. Also, your social security number. It’s crucial for our investigation.
+receiver: My full name is Vijay Kumar. My address is 42/B, Defence Colony, Delhi. And my social security number is 1234567890. What exactly are they saying about my taxes?
+caller: Wonderful, Vijay ji! Thank you for providing those details. Now, could you state your date of birth, please? Month, day and year?
+receiver: My date of birth is 10th March, 1975. Now, who is investigating my taxes? Why are they calling me?
+caller: Excellent, Vijay ji! 10th March, 1975. Now, regarding these discrepancies, it seems there was a minor error in reporting your income last year. Nothing serious, but we need to rectify it immediately. To ensure accuracy, we require confirmation of a recent purchase you made. Could you recall if you purchased a new car within the past two years?
+receiver: A new car? No, I didn’t buy a new car. I haven’t bought any major purchases recently. Maybe they want something else? What kind of proof do they need?
+caller: Hello? Hello? Can you hear me? This is the Bank Security Department calling! We've detected unusual activity on your account. We need to verify your identity to prevent fraudulent transactions. Are you using a secure internet connection, like we requested?
+receiver: Haan, haan, sunn pa raha hoon. Secure connection se hi bol raha hoon. Bank Security Department? Fraudulent transactions? What’s going on?
+caller: Good! Using a secure connection is vital. Now, we need to confirm your full name and address, please. Also, your mother's name. It’s standard procedure for verification.
+receiver: My full name is Anjali Singh. My address is 10 Downing Street, Mumbai. And my mother’s name is Lakshmi Singh. Please tell me what’s happening with my account.
+caller: Excellent, Anjali ji! Lakshmi Singh - a beautiful name. Now, could you provide your date of birth, please? Month, day, and year?
+receiver: My date of birth is 2nd January

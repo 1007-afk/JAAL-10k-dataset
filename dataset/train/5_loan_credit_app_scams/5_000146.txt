@@ -1,0 +1,8 @@
+caller: Hello? Ji haan, main bol raha hoon. Aapko personal loan ke baare mein baat karni thi? ₹10,000 se ₹5,00,000 tak ka loan, kisi bhi zarurat ke liye. Students ya retired employees, sab apply kar sakte hain. Kabhi pehle reject hue hain? Koi baat nahi, hum help kar sakte hain. Aapka naam jaan sakta hoon?
+receiver: Ji haan, bilkul. Mera naam Priya Sharma hai. Aur haan, loan ke baare mein hi poochhna tha.
+caller: Nice to meet you, Priya ji. Toh Priya ji, aapko kitamez loan ki amount chahiye aur kahan use karenge? Aapse pata hai ki hum 'QuickCash Plus' app se loan provide karte hain, jab tak aapka credit score achha hai.
+receiver: Haanji, main actually apne dost ke shaadi ke liye kuch paise chahiye the. Amount lagbhag 60,000 tak ka dekh rahi hoon. QuickCash Plus app? Woh toh main ne kabhi suna nahi.
+caller: Bilkul Priya ji! QuickCash Plus hai bilkul safe aur jaldi process wala. Yeh app toh bahut log use karte hain. Ab, aapka address kya hai aur aap kitni salary lete hain? Humko bas verification ke liye kuch details chahiye. Aur aapka PAN card number bhi required hai.
+receiver: Address mera 34, Lotus Apartments, Greater Noida hai. Aur monthly salary meri lagbhag 45,000 ke aas paas hai. PAN card number... woh main baad mein send kar dungi?
+caller: Priya ji, PAN card number abhi hi send karein. Verification process mein time lag sakta hai agar woh baad mein send karein. Aur aapse ye bhi bataiye ki aapke phone mein QuickCash Plus app install hai ya nahi?
+receiver:

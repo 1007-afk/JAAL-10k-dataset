@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Care se Rahul bol raha hoon. Aapke Paytm wallet mein ₹5,000 ka cashback offer aa gaya hai! Claim karne ke liye, ek OTP verify karna hai.
+receiver: Paytm cashback? Really? Kitna time hai claim karne ke liye?
+caller: Haan ji, offer limited time ke liye hai – sirf 30 minute. OTP 92XXXXXXXXX number par send kiya jayega. Aapko woh OTP mujhe WhatsApp pe send karna hai, taaki hum aapke account ko verify kar saken.
+receiver: WhatsApp pe? Paytm se toh SMS pe hi OTP aana chahiye. Mujhe kuch doubt ho raha hai.
+caller: Haan, lekin yeh naya procedure hai, sir. Security ke liye hum WhatsApp verification kar rahe hain. Jaldi karo, sir, offer expire hone wala hai! ₹5,000 cashback aapka!
+receiver: Okay, theek hai. OTP bhejo WhatsApp pe. Lekin agar kuch gadbad hui toh main dobara call karunga.
+caller: Bilkul, sir! Aapka ₹5,000 cashback secure hai! WhatsApp pe OTP check kar lijiye aur jaldi send kar dijiye!

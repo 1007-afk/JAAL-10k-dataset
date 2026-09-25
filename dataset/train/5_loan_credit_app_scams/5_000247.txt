@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from SwiftLoan Solutions. I'm calling to let you know you've been pre-approved for a personal loan of up to ₹75,000! No credit check required. Are you Mr. Sharma?
+receiver: Haan, main Sharma hi hoon. ₹75,000 ka loan? Mujhe toh koi loan ke liye apply nahi kiya tha.
+caller: That's alright, sir! We’re offering a special promotion for select customers. Just a small verification fee of ₹200 upfront to unlock the loan. You can repay it in easy installments. Quick and easy!
+receiver: ₹200 verification fee? Woh kyun? Aur installments kitne honge? Yeh thoda kuch suspicious lag raha hai.
+caller: Sir, it’s to prevent fraud and ensure your security. The installments will be manageable, around ₹3,000 per month. Think of it, instant money for whatever you need! Now, your bank details…
+receiver: ₹3,000 per month for ₹75,000? Woh toh zyada ho gaya! Aur bank details dohne ki kya zaroorat hai? Main interest nahi hai. Block this number.
+caller: Arre sir, don't be hasty! A limited time offer! I’ll reduce the verification fee to ₹100. Just one minute, sir. Otherwise, the opportunity will be lost. Just your account number and a one-time password.

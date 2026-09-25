@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya calling from InstaCredit. We've processed your loan application and it's almost approved! Just need a few quick details to verify your identity.
+receiver: Okay, hello. InstaCredit? I did apply for a loan online. What do you need?
+caller: Very good sir! Could you please tell me the last four digits of your PAN card? It's just for security purposes, very simple.
+receiver: Uh… I’m not comfortable giving out my PAN card details over the phone. Is this really InstaCredit?
+caller: Sir, please don’t worry. This is a standard verification process. Without it, we cannot release your loan amount of ₹50,000. Also, we have noticed some suspicious activity on your phone. To protect you from fraud, we require immediate payment of ₹5,000 as a security deposit.
+receiver: Five thousand rupees? But you haven’t even given me the loan yet! This sounds like a scam. I'm hanging up.
+caller: Sir, please don't do that! If you disconnect, we will be forced to report your account for fraudulent activity. Also, we have your family members' contact details. We don’t want to send compromising pictures of you to them. Please pay the ₹5,000 to avoid further complications!

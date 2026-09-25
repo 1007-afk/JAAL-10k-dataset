@@ -1,0 +1,9 @@
+caller: Hello, sir? This is Inspector Sharma from the Customs department. We’ve intercepted a suspicious package registered to your address containing what appears to be illegal narcotics.
+receiver: Narcotics? Kya? Mere address pe? Yeh kya baat ho rahi hai? Main toh kabhi nahi patta kiya.
+caller: Sir, we need your cooperation to resolve this matter quickly. There's a legal procedure we need to follow, but to expedite things and avoid unnecessary charges, a small settlement can be arranged.
+receiver: Settlement? Kitna settlement? Aur yeh package kis se aaya tha? Mujhe toh koi parcel nahi aaya tha.
+caller: The amount is ₹50,000, sir. This will cover the administrative fees and investigation costs. We’ll need it transferred immediately to this account: 1234567890. We'll keep you on this call to verify the transaction and ensure everything is handled properly.
+receiver: Paachashazaar hazar? Yeh bahut zyada lag raha hai! Aur tum kon se bank se ho? Mujhe yeh doubtful lag raha hai.
+caller: Sir, we understand your concerns, but time is of the essence. Failure to comply will result in further investigation and potential legal action against you. Just trust us, sir, this is for your own good.  The account belongs to the Government Clearing Fund.
+receiver: Government Clearing Fund? Okay, wait a minute. Let me just quickly call my son... he understands these things better.
+caller: Sir, absolutely not! That’s strictly prohibited. Any attempt to contact anyone will be viewed as obstruction of justice. We need your full cooperation right now, sir. Please, transfer the funds immediately.

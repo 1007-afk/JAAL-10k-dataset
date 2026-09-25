@@ -1,0 +1,14 @@
+caller: Namaste! Main Bharat Lottery Company se bol raha hun. Aapke naam ke saath ek badi lottery jeet gayi hai! ₹25,000 ka cheque aapke naam par bheja gaya hai, lekin usmein ek chhota surcharge hai - ₹500. Iska payment kyonchita online krna hoga. Agar aap payment karte hain, toh aapka cheque mil jaayega. Phone karna hai?
+receiver: Namaste ji! Bharat Lottery Company? Jeevan mein pehla fursat! Lottery jeeta hu mai? ₹25,000? Wow! Achha, surcharge hai? ₹500? Kaise karein payment? Phone karna hai?
+caller: Haan ji, aapko jo number dega main, wo number pe log in karna hoga. Uske baad aapko bank account details mileinge aur unhein enter karna hoga. Payment secure rahega, don’t worry! Agar aap payment nahi karte hain, toh aapka cheque cancel ho jayega. Phone karna hai?
+receiver: Okay, okay. Number deyein, phir main log in karunga. Bank account details bhi mileinge? Hai na? Secure rahega? Fir cheque milega? Phone karna hai?
+caller: Haan ji, absolutely! Number hai 123-456-7890. Log in karte hi aapko bank details dikhayenge. Sab secure hai. Fir aap ₹500 transfer kar denge. Agar transfer ho jaaye, toh aapko cheque mail hoga. Phone karna hai?
+receiver: 123-456-7890… Okay, main log in kar raha hun.  Aapke website pe…  Oh, wait!  Payment kaise karna hai?  Online payment?  ₹500?  Arey yaar, yeh sab kitna complicated hai!  Phone karna hai?
+caller: Haan ji, aapko UPI ID dega main. UPI ID lekar aapko payment karna hoga. Simple hai, baccha!  Agar UPI ID lekar payment karoge, toh aapko cheque milega.  Phone karna hai?
+receiver: UPI ID? Kya hota hai UPI ID?  Mai toh technically illiterate hoon!  ₹500 UPI ID lekar payment karunga?  Okay, fine.  Number deyein.  Phone karna hai?
+caller: Number hai 987-654-3210. UPI ID hai ‘EasyPayIndia’.  Le kar payment karo.  Fir aapko cheque mail hoga.  Shukriya!
+receiver: 987-654-3210… EasyPayIndia…  Okay, main UPI lekar payment karunga.  Bas, cheque mil jaayega na?  Phone karna hai?
+caller: Haan ji, absolutely!  Check karein email id,  ‘winner@lotteryindia.com’ pe aapko cheque mail hoga. Shukriya!
+receiver: winner@lotteryindia.com…  Okay, dekh sakta hun.  Thank you very much for everything, Mr./Ms. [Invent a name, e.g., Verma]!  Bahut dhanyavaad!
+caller: Aapka naman kar rahe hain.  Aapko lottery jeetne ke liye congratulations!  Aapki premi company, Bharat Lottery Company.  Good bye!
+receiver: Good bye!

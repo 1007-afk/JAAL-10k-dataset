@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Axis Bank se Priya Singh bol rahi hoon. Aapke naam par ek transaction fail hua hai.
+receiver: Haan? Transaction fail? Kya hua?
+caller: Ji, sir. Ek online transfer attempt kiya gaya tha, lekin KYC details mismatch hone ke karan woh fail ho gaya. Account suspend karne se pehle, humein sirf aapke Aadhaar card ka last four digits verify karna hai.
+receiver: Aadhaar card? Bank toh kabhi Aadhaar number maangta nahi hai. Yeh kuch ghalat lag raha hai.
+caller: Sir, security ke liye ye zaroori hai. Agar aap verify nahi karte, toh aapka account 24 ghante ke liye block ho sakta hai. Apne family ke paise ki soch karo!
+receiver: Thoda wait karo, main Axis Bank ki official website par check karta hoon. Aur aap mujhe apna employee ID bataiye.
+caller: Sir, employee ID bataane ke rules hai nahi, lekin main aapko ek OTP bhej deti hoon apne registered mobile number par. Aap woh bata dijiye, aur sab clear ho jayega. Aapka time bahut important hai, sir.
+caller: Sir, OTP receive kar liya? Bataiye, please.

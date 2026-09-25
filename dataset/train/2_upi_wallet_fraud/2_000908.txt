@@ -1,0 +1,6 @@
+caller: Hello sir, this is Akash calling from PhonePe customer care. We have detected some suspicious activity on your account, and for security reasons, we need to verify your details.
+receiver: Suspicious activity? What kind of suspicious activity? I haven't done anything unusual.
+caller: Yes sir, someone attempted to transfer a large amount of money from your account a few minutes ago. To prevent further loss, we need you to send us a screenshot of your UPI ID and the last four digits of your bank account number via WhatsApp.
+receiver: Wait a minute. PhonePe customer care asks for bank details and UPI ID screenshot over WhatsApp? That sounds really fishy. Why can't you verify it within the PhonePe app itself?
+caller: Sir, due to a system upgrade, our in-app verification is temporarily unavailable. This is a standard security protocol. If you don't cooperate, your account will be locked for 24 hours as a precaution.
+receiver: Locked for 24 hours? That's ridiculous! I’m not sending you any screenshots or information. I’ll contact PhonePe directly through their official website. This feels like a scam. Bye.

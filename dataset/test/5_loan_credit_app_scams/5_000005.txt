@@ -1,0 +1,13 @@
+caller: Namaste sir, main Rahul Sharma, SBI bank se baat kar raha hoon. Aapne online loan apply kiya tha, isliye call karta hoon. Aapke paas passport size photo ready hai kya?
+receiver: Namaste Rahul ji. Haan, mein passport size photo ka copy digital format mein send kar deta hun. Kahan par upload karna hai?
+caller: Ji sir, aapko ye photo [website address] par upload karna hoga. Account details section mein jaake 'Documents' tab click karein, phir file upload option select karein. Abhi upload karna shuru karein.
+receiver: Okay, upload kar raha hun. Photo upload ho gaya. Ab aap kya chahte hain?
+caller: Bahut sundar! Aapka photo successfully upload ho gaya hai. Abhi, aapke account mein ₹5000 deposit karne ke liye request aaya hai. Verification ke liye OTP chahiye.
+receiver: OTP? Wait karte hain. Aa gaya hai. Yeh hai [invent an OTP, e.g., 123456]. Verification ho gaya?
+caller: Ji sir, OTP 123456 hai, confirm ho gaya. Loan process jaldi se complete hone wali hai. Aapke bank account mein ₹5000 transfer ho gaye hain.
+receiver: ₹5000? Mein to is samay account mein paisa nahi dekh raha hun. Kya hua?
+caller: Ji sir, technically error aa gaya hai. Aapko apne internet connection ko refresh karo aur phir check karo. Paisa jaldi hi transfer ho jayega.
+receiver: Okay, refresh kar raha hun. Par abhi bhi paisa nahi dikh raha hai.
+caller: Ji sir, agar problem continue rehti hai, to aapko apne bank branch mein jana padega. Branch ka address [invent a branch address] hai.
+receiver: Branch address? Thode din ka kaam ho jayega, main aaj check karunga. Shukriya.
+caller: Koi baat nahin sir, aapka loan approved ho gaya hai. Thank you.

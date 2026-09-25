@@ -1,0 +1,9 @@
+caller: Hello, is this Raj Patel? We are calling from SwiftCash Loans. Congratulations! Your application for a quick loan has been pre-approved for ₹2,50,000. To activate this offer and complete the formalities, we need to verify a few details.
+receiver: Haan, Raj Patel bolta hoon. SwiftCash Loans? Kya details verify karne hain?
+caller: Wonderful! First, we need to ensure your identity. Please go to our verification portal at QuickVerifyNow.online and enter the OTP we are sending to your registered mobile number. This is a one-time process, and the loan will be credited within the hour!
+receiver: QuickVerifyNow.online? OTP aaya hai. Main abhi website par check karta hoon. ₹2,50,000 ka loan…thoda zyada lag raha hai, but okay.
+caller: Excellent! You've entered the OTP correctly. Now, we just need your bank account number and a recent photograph for KYC verification. It's a standard procedure, Raj Ji, nothing to worry about. This is to prevent fraud and ensure a smooth transfer.
+receiver: Photograph bhi? KYC toh bank mein bhi hota hai. Aur account number bhi toh already registered hai na?
+caller: Yes, but this is an extra layer of security.  We need it to comply with RBI regulations. Also, just to confirm, are you currently employed, Raj Ji? This helps us finalize the repayment plan.
+receiver: Haan, employed hoon.  Company mein kaam karta hoon.  But why so many steps? It's getting a little suspicious.
+caller: Don't worry, sir! It’s just to safeguard both you and our company.  Now, just quickly send that photo to this WhatsApp number: 919876543210. It will only take a second and then the

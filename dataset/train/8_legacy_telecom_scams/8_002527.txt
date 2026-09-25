@@ -1,0 +1,14 @@
+caller: Namaste sir, main Bharat Telecom se bol raha hoon. Aapki mobile internet band ho jayegi. Kaise chal raha hai aapka connection?
+receiver: Acha? Mobile internet band? Kaha dekha yeh? Mein har din use karta hoon. Kya ho rahi hai?
+caller: Ji sir, humare company ne ek naya update release kiya hai. Iske badle aapki data speed kam ho jayegi. Agar aapko yeh change pasand nahi hai, toh aapko subscription renew karna hoga.
+receiver: Renewal? Kabse? Maine pehli baar subscribe kiya tha ek saal pehle. Main ismein interested nahi hoon.
+caller: Sir, ye ek compulsory update hai. Aapko sirf ₹500 deposit karna hoga. Ispe aapko ek year ke liye internet access milega. Isko reject karna mumkin nahi hai.
+receiver: ₹500? Kyunki mujhe pata hai yeh scam hai. Aapka number block kar deta hoon.
+caller: Nahi sir, nahi. Aapko sab details verify karni hogi. Aapka account number, bank name, aur IFSC code. Agar aap yeh details provide karein, toh hi aapko internet access mil sakta hai.
+receiver: Koi bhi details mat bataungi. Aap log kitna chor rahe ho?
+caller: Sir, yeh sirf account verification ke liye hai. Agar aapko internet chahie toh aapko yeh steps follow karne honge. Aapko ek OTP receive hoga, jo aapko verify karna hoga.
+receiver: OTP? Mein OTP kabhi nahi dete. Aap log har cheez fake karte hain!
+caller: Sir, yeh aapki security ke liye hai. Hum aapko ek temporary password bhi denge, jo aapko login karne ke liye use karna hoga.
+receiver: Temporary password? Yeh toh bahut hi suspect hai. Mein abhi call khatam kar raha hoon.
+receiver: Aapko call back karne ke liye encourage karna hai.
+caller: Sir, aapko yeh update install karna zaroori hai. Agar aapko koi problem hai, toh aapko hamara customer support contact karna hoga. Hamara helpline number hai 800-123-4567.

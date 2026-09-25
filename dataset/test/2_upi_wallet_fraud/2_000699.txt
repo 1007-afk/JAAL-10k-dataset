@@ -1,0 +1,7 @@
+caller: Namaste! Mein Google Pay se Deepika Sharma bol rahi hoon. Aapke Google Pay wallet mein ₹10,000 ka cashback offer available hai, sirf Reliance Jio recharge karne par!
+receiver: Google Pay? Cashback? ₹10,000? Batao, kaise recharge karun?
+caller: Haan ji! Bohut simple hai! Aapko sirf ₹250 ka Jio recharge pack buy karna hai aur ₹10,000 cashback claim karna hai. Iske liye, ek OTP code number 45678 pe send karna hai.
+receiver: ₹250 ka recharge aur OTP number 45678 pe send karna hai? ₹10,000 cashback… yeh sahi hai kya?
+caller: Haan ji! 100% sahi! Yeh Google Pay ka official offer hai, sirf limited time ke liye. Jaldi karo, offer miss mat ho! OTP send karte hi aapka account activate ho jayega.
+receiver: Wait karo, ek minute. Mein Google Pay app check karti hoon…
+caller: Jaldi karo! Offer kab tak chalega pata nahi. Number 45678 pe OTP send karna bahut zaroori hai, warna aapka cashback miss ho jayega!

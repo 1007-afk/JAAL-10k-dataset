@@ -1,0 +1,13 @@
+caller: Hello, is this Mr. Sharma? We’re calling from Secure Solutions regarding your recent online purchase.
+receiver: Yes, this is he. Who is calling?
+caller: Thank you for calling. We detected some suspicious activity on your credit card linked to an order placed yesterday from ‘Gadget Galaxy’.
+receiver: Suspicious activity? What kind of activity?
+caller: Our system flagged a potentially fraudulent transaction – a high-value item was purchased using a different billing address than your usual one. To investigate further and prevent any unauthorized charges, we need to verify your identity. Can you please provide your full name and date of birth?
+receiver: Why do you need my date of birth?
+caller: It's standard procedure for security verification, sir. We just want to ensure this is truly you. Also, could you confirm the last four digits of the credit card used for the purchase?
+receiver: I don’t feel comfortable giving you all this information over the phone.
+caller: Sir, please understand this is crucial for protecting your account. We assure you, we’re acting in your best interest. If you don’t cooperate, we may have to temporarily freeze your account, leading to potential inconvenience. Just a quick confirmation of those details will suffice. Your account number is 1234567890.
+receiver: Look, I'm not going to give you any personal information. You're trying to steal my money!
+caller: Absolutely not, sir! We’re here to help protect you. Let me reiterate, providing the requested information will expedite the process and avoid any disruption to your account. We can also send you a secure link to verify your details through our website. However, without confirming your identity, we cannot proceed. One moment, please…
+receiver: No, thank you. I’m hanging up now.
+caller: Wait! Sir, please! Before you go, let me just quickly ask if you've recently traveled outside the country? It helps us identify potential risks...

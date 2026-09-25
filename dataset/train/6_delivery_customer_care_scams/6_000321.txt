@@ -1,0 +1,9 @@
+caller: Namaste, main Reliance Jio se Rohit bolta hoon. Aapke account mein ek technical issue hai, jisse aapka data kaam nahi kar raha.
+receiver: Oh, kya hua? Mujhe toh data toh chal raha hai.
+caller: Sir, system mein dikh raha hai ki aapne ek suspicious login attempt kiya hai. Security ke liye, humein aapka OTP verify karna hoga.
+receiver: OTP? Kon sa OTP? Mujhe koi message nahi aaya.
+caller: Sir, OTP aapke registered mobile number pe aayega.  Yeh sirf ek minute ka kaam hai.  Iske bad aapka data normal ho jaayega.  Check karo message.
+receiver:  Ek minute mein data ki problem solve hogi?  Yeh thoda fishy lag raha hai. Koi link bhi aaya tha message mein?
+caller: Sir, koi link nahi hai.  Yeh direct OTP verification process hai.  Aapko trust karna padega.  Aapke account ki security zaroori hai.  Dena nahi toh data band ho jayega. Bataiye OTP kya hai?
+receiver:  Nahi, main nahi dunga. Koi bhi data band nahi hoga.  Mein complaint karunga.
+caller: Sir, please!  Account block ho jayega, aur phir aap online banking bhi nahi kar paenge.  Yeh final warning hai.  Doon OTP ya nahi?

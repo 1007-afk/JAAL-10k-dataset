@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Rohit bol raha hoon. Aapke account mein ek delivery issue aa rahi hai. Package delivery ke liye address verify karna hai.
+receiver: Flipkart se? Kya hua? Package mein problem?
+caller: Haan ji. Package delivery ke route mein kuch technical difficulty aa gayi hai. OTP verify karwaakar hum issue solve kar sakte hain. Aapka number pe OTP aa jayega, woh bataiye.
+receiver: OTP? Theek hai, dekhne do… Acha, aaya hai. 4892.
+caller: Shukriya! Ab aapko security ke liye payment details confirm karne hain. Rs. 500 sirf verification ke liye, refund ho jayega. UPI se kar sakte hain?
+receiver: Rs. 500? Refund? Main confirm karna chahta hoon. Flipkart aise direct payment nahi lete na?
+caller: Sir, is baar technical issue hone ke wajah se direct payment verify karna padega. Bilkul safe hai. Aapka package deliver ho jayega. Jaldi karo, warna package wapas bhej denge.

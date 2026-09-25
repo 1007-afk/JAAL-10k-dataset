@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We've noticed a pending loan application through 'LoanExpress' using your mobile number. Did you apply for a loan recently?
+receiver: LoanExpress? No, I don't think so. I haven’t applied for any loans online. What’s this about?
+caller: It seems an application was submitted requesting ₹25,000. To prevent this from being processed fraudulently and impacting your credit score, we need to verify your details urgently. Can you confirm your date of birth?
+receiver: ₹25,000? Seriously? I definitely didn’t apply for anything like that. My date of birth is 12/08/1992. But I'm still very suspicious about this.
+caller: Thank you, Ms. Sharma. Your date of birth matches our records. Now, to secure your account and cancel this unauthorized application, we need to verify your OTP that we’re sending to your number. Please share it with us immediately.
+receiver: OTP? Wait a minute... That sounds really dodgy. Why do you need my OTP? This feels like a scam. I’m not giving you anything.

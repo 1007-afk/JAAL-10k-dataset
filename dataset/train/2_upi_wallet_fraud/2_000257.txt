@@ -1,0 +1,7 @@
+caller: Namaste! This is Rupali calling from Paytm Payments Bank. We’ve noticed some unusual activity on your linked Paytm wallet. It seems someone attempted to make a large transaction.
+receiver: Oh really? A large transaction? I haven’t made any big transactions recently. What kind of activity are we talking about?
+caller: Just to be safe, and to prevent any fraud, we’re asking you to quickly verify your wallet details. You need to send ₹500 as a ‘collect request’ to this number: 98765 43210. This will activate a security lock on your account.
+receiver: ₹500? A collect request? Why would I need to send money to verify my account? Shouldn't you be asking me to confirm transactions *within* my Paytm app? This sounds a bit fishy.
+caller: I understand your concern, but this is a new security protocol we’ve implemented. It’s a one-time verification to ensure it’s truly you. Don’t worry, the ₹500 will be immediately returned to your wallet after verification is complete. Time is of the essence to secure your funds.
+receiver: Wait a minute. A one-time verification that requires me to send money? That doesn't make sense. I’m not sending anything. I’m going to check with Paytm directly through their official app. Goodbye.
+caller: Hello? Namaste! This is Rupali calling from Paytm Payments Bank. We’ve noticed some unusual activity on your linked Paytm wallet.

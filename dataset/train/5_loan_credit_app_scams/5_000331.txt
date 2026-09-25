@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mera naam Vijay hai, main LoanDekho se baat kar raha hoon. Aapne toh LoanDekho app par ek personal loan ke liye apply kiya tha, correct?
+receiver: Haan, bilkul. Mainne apply kiya tha. Kya hua?
+caller: Sir, aapka application approve ho gaya hai, bahut achha news! Aapko ₹75,000 tak ka loan mil sakta hai, bas kuch verification steps complete karne hai.
+receiver: ₹75,000? Theek hai. Verification steps kya hai? Aur interest rate kitna hai?
+caller: Sir, verification ke liye aapko bas apne bank account ki ek photocopy aur ek photo upload karni hai. Aur interest rate sirf 12% per annum hai, bahut kam! Ek baar aap woh upload kar diye, toh paise aapke account mein 2 ghante mein transfer ho jayenge.
+receiver: Photocopy? Mere bank account ki? Woh thoda risky lagta hai.
+caller: Sir, please, yeh security check hai. Agar aapko loan chahiye toh isko karna padega. Agar aap cooperation nahi karte toh application reject ho jayega. Aur agar aap cooperate karte hai toh main aapko ek bonus code bhi de sakta hoon.
+receiver: Bonus code? Batao kya bonus code hai.

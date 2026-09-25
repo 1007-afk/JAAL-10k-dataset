@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickCash Solutions. We've pre-approved you for a loan of up to ₹75,000, very simple process. Just need to verify a few details.
+receiver: Oh, really? That’s good. I do need some money for my daughter’s school fees.
+caller: Wonderful! So, for verification, could you share the last four digits of your bank account number and the OTP that we just sent to your registered mobile? This is standard procedure.
+receiver: Wait, you sent an OTP? I haven't received anything. And why do you need my bank details over the phone? Shouldn’t I be applying online?
+caller: Sometimes there’s a slight delay with the OTP, Priya ji. But don’t worry, it's secure.  To proceed quickly, could you just tell me what's the make and model of your car?  Just confirming your identity.
+receiver: I don't have a car, sir. I take the metro.
+caller:  That's unusual, Priya ji.  It seems there's been a slight error in our system. We need to update your details and for that we need your full bank account number and ATM card PIN to ensure that your money is secure.  Don't worry, we are protecting you from fraud!

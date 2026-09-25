@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit calling from QuickCash India. We’ve noticed you recently inquired about a personal loan online. Great news - you’ve been pre-approved for a loan of ₹75,000! Just need to verify a couple of details.
+receiver: Oh, really? That's good to hear. I was looking for a loan for some home repairs. What details do you need?
+caller: Fantastic! First, to activate your loan and prevent it from expiring, you need to pay a small processing fee of ₹2,500 to secure it. This is standard procedure, sir. You can pay through UPI - my UPI ID is quickcash.india@axis.
+receiver: ₹2,500 just to process the loan? That seems a bit much.
+caller: Sir, this is to ensure you’re a genuine applicant and to cover the bank’s verification charges. Without it, the loan will be cancelled immediately. Many others are trying to grab this offer, so don't miss out. Send the money, and I’ll guide you on how to complete the final steps.
+receiver: Okay, fine. I’ll send it. Let me do that now. *[Receiver makes payment]* Done.
+caller: Excellent! Now, for added security, please share a selfie with your Aadhaar card so we can cross-verify. It’s a simple verification process, sir. We need to make absolutely sure there are no fraudulent activities.

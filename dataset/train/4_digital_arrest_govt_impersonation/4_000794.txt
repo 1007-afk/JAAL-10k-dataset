@@ -1,0 +1,7 @@
+caller: Namaste Sir! This is Rohan from the Cybercrime Investigation Unit. We’ve detected suspicious activity linked to your bank account – unusually large transactions originating from overseas.
+receiver: Kya? Kaise? Main toh koi transaction nahi kiya. Mera account check karwa doo.
+caller: Exactly, Sir. That’s why we’re contacting you. These transactions appear to be related to illegal cryptocurrency trading using your account. It's a serious matter, involving potential money laundering. We need to verify your identity urgently to prevent further unauthorized access.
+receiver: Oh no! Yeh toh bahut ghabrahat ka baat hai. Mujhe kya karna chahiye? Koi paise maang rahe hain kya?
+caller: No, Sir, not at all. We just need to confirm some details. For security purposes, can you please share a screenshot of your bank statement via WhatsApp? This will help us identify the fraudulent transactions and block them immediately. Send it to this number: 7890123456. Also, we need to put you on a video call to verify your face against your KYC documents.
+receiver: WhatsApp pe screenshot? Aur video call? Yeh thoda risky lag raha hai. Main KYC documents nahi de sakta.
+caller: Sir, please understand, this is for your own protection. If you don't cooperate, we may have to escalate this to a formal investigation, which could lead to legal complications for you. We are working very urgently to secure your account. The video call is just to confirm you are the genuine account holder and not someone impersonating you. Please cooperate for a quick resolution.

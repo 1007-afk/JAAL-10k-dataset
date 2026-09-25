@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rohan bolta hoon. Aapke BharatPay account mein ek suspicious transaction detected hua hai - ₹750 ka.
+receiver: Haan, toh? Mujhe koi transaction yaad nahi.
+caller: Aapko verify karna hoga, otherwise aapka account block ho sakta hai. Mein aapko ek OTP bhejna chahta hoon aapke registered mobile number par.
+receiver: OTP? Theek hai, bhejo.
+caller: Acha, OTP hai 4892. Ab mujhe aapke bank account details do - last 4 digits, please.
+receiver: Bank details? Kyun? BharatPay ko toh bank details nahi chahiye.
+caller: Arre, security ke liye. Fast, please. Account block ho jayega. Bataiye, last 4 digits.
+receiver: Nahin, main nahi dunga. Tum log fraud ho.

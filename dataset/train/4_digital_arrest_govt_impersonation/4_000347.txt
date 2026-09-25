@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Verma? My name is Inspector Sharma, calling from the Delhi Customs Department. We have a serious issue concerning a package registered under your name.
+receiver: Haan, main hi hoon. Kya hua, Inspector sahab? Package? Mainne toh kuch order nahi kiya tha.
+caller: Ma'am, it appears a parcel containing suspicious items has been intercepted at the Indira Gandhi International Airport. The tracking number is XYZ123456. Preliminary investigation suggests it contains prohibited goods, potentially linked to online gambling activities.
+receiver: Gambling? Lekin main toh kabhi gambling nahi karti! Yeh galat baat hai. Kisne mera naam istemaal kiya?
+caller: We understand, ma’am. However, standard procedure dictates we verify the details with the recipient. To clear the parcel and avoid legal repercussions, you need to pay a release fee of ₹8,000. We can accept payment via UPI.
+receiver: ₹8,000? Yeh kitna zyada hai! Main UPI pe trust nahi karti. Iska koi aur tareeka hai? Aur yeh parcel kis address pe bhej diya gaya hai?
+caller: Ma’am, we’re dealing with a very sensitive situation. The fee is non-negotiable. To expedite the process and prevent further delays, a UPI payment is the most secure and convenient option. We've sent you a UPI ID on your registered mobile number. Please confirm receipt.
+receiver: Main UPI ID check karti hoon… Arre, yeh toh ek unknown number se aaya hai. Inspector sahab, yeh scam lag raha hai! Main koi bhi payment nahi karungi.

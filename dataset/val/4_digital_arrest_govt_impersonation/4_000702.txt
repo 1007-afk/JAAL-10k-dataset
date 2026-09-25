@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Singh? This is Inspector Verma from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items. This is a serious matter regarding potential involvement in illegal goods.
+receiver: Illegal goods? Mein? What are you talking about? I haven’t ordered anything.
+caller: Sir, our records indicate a package was shipped under your name and address. It contains items flagged as restricted. To clear this, you need to pay a small processing fee of ₹5,000 to expedite the investigation. Please transfer to this UPI ID: 7890123456@ybl.
+receiver: ₹5,000? Look, this sounds like a scam. I’m not paying anything until I know what’s going on. Can you give me a case number or something?
+caller: Sir, time is of the essence. Delaying this will only complicate matters and could result in further legal action. We need to resolve this quickly. The UPI ID is 7890123456@ybl. To prove this is genuine, can you confirm your date of birth? Just a quick verification.
+receiver: I’m not giving you my date of birth! This is a complete fraud. You’re trying to scam me. I am reporting this to the cybercrime unit.
+caller: Sir, please don’t be hasty. This is a legitimate investigation. Just a small payment to resolve this minor issue. You’re risking serious consequences. Think about your family. The UPI ID again is 7890123456@ybl. One last chance to cooperate.

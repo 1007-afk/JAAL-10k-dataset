@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Sharma? My name is Inspector Singh, calling from the Mumbai Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Mumbai Customs? Haan, main Mrs. Sharma bol rahi hoon. Kya hua? Package kesa?
+caller: Ma’am, preliminary scans indicate the package contains materials linked to illegal currency exchange and potentially, drug trafficking. We need to verify your involvement before releasing the package. This is a serious matter, ma’am.
+receiver: Yeh kya keh rahe hain aap? Main toh kabhi package order kiya hi nahi. Yeh galat hai. Mujhe kuch samajh nahi ho raha.
+caller: Ma’am, please don't get agitated. Our records show the package was shipped via BlueDart with tracking number [Invent a tracking number, e.g., 8765432109]. To clear this up, we need you to confirm your bank account details – last four digits of your account number and the IFSC code – for a small verification fee of ₹15,000 to cover processing charges. We'll need to keep you on video call to confirm your identity and prevent any attempts to tamper with evidence.
+receiver: ₹15,000? Yeh kya bakwaas hai? Main bank details kabhi bhi nahi dungi. Aapko galat number mila hai.
+caller: Ma’am, this is non-negotiable. Failure to comply will result in further investigation and potential legal action. The video call is to ensure the authenticity of the transaction. We need to proceed quickly to avoid delays.
+receiver: Main police mein report karungi aapke against. Yeh scam hai!
+caller: Ma’am, do not threaten us. We are acting on duty. To proceed, I need confirmation of your PAN card number for additional verification. Please provide it immediately, ma’am.

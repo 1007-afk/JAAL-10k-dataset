@@ -1,0 +1,8 @@
+caller: Namaste Aunty, Flipkart se bol raha hoon. Aapke account mein ek pending order hai, amount ₹789.  Confirm karne ke liye, ek small processing fee bhar deni hogi.
+receiver: Flipkart se?  ₹789 ka order? Mujhe toh kuch yaad nahi aa raha.
+caller: Haan ji, order ID hai FLP-892347. Aapne ek smart watch order kiya tha. Process karne ke liye, ₹50 sirf fee bhar deni hogi.  Main aapko ek secure link send karta hoon.
+receiver: ₹50 fee?  Smart watch toh maine kabhi nahi order kiya.  Yeh kuch gadbad lag rahi hai.
+caller:  Aunty, fraud se bachaane ke liye humein confirmation zaruri hai.  Yeh link open karke details fill karein: https://flipkart-secure-pay.net/verify.  Jab aap confirm kar dengi, toh order process ho jayega aur aapko smart watch mil jayegi.
+receiver:  Yeh link kitna sahi lag raha hai… Flipkart ka original website toh alag hota hai.
+caller:  Aunty, yeh special security update ke liye hai.  Please jaldi karein, bahut saare customers ko call kar rahe hain.  ₹50 bhar deni hi hogi, warna order cancel ho jayega.
+receiver:  Okay, okay… thoda doubt hai, lekin chalega. Send karo link.

@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We’re calling from ‘LoanExpress India’ regarding your pending loan application. We’ve approved it for ₹75,000, a fantastic rate! Just need to verify a few details.
+receiver: LoanExpress India? I don't recall applying for a loan. I've been careful about those apps.
+caller: Sir, sometimes the application goes through silently. It’s a promotional offer.  To activate the loan, you need to pay a small processing fee of ₹5,000 to secure it.  Just transfer it to this UPI ID: 9876543210@axisbank.
+receiver: Five thousand rupees just to *activate* a loan I didn’t even apply for? That sounds very fishy, and I’m not transferring any money.  Give me the loan officer's name and a direct contact number.
+caller: Sir, don’t be difficult. This is a limited-time offer.  If you don't pay the fee within the next hour, we’ll cancel the approval and report you for loan fraud attempts. We have your contact details and we can easily get your family photos to send to your contacts if you cause us trouble.
+receiver:  What?  Threatening me and my family? This is outrageous!  I’m reporting this number to the cybercrime unit immediately. You’re a scammer.
+caller: Sir, please, don’t do that! We’re just trying to help you get a loan quickly.  A small payment now will prevent serious consequences later. Just ₹5,000, sir, and the money will be in your account within minutes. Please, don't make things difficult for yourself.

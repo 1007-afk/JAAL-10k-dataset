@@ -1,0 +1,8 @@
+caller: Namaste, main Ashish, Paytm Care se bol raha hoon. Aapke Paytm account mein ₹500 ka cashback offer live hai. Isko claim karne ke liye, humein aapke account details verify karne hain.
+receiver: Paytm Care? Achha, mujhe toh koi offer ka message nahi mila.
+caller: Offer limited time ke liye hai, Madam. Sirf kuch lucky customers ko hi mila hai. Aapko ₹500 cashback mil raha hai, lekin isko claim karne ke liye ek small verification fee, ₹50, aapko UPI ke zariye pay karna padega.
+receiver: ₹50 verification fee? Yeh toh kuch ghalat lag raha hai. Paytm toh aise fees nahi lete.
+caller: Madam, security ke liye hai. Yeh ek OTP verification process hai. UPI ID main aapko de deta hoon – paytmsecurity@upi. Payment karte hi cashback aapke wallet mein add ho jayega.
+receiver: Wait a minute. Main check karti hoon. (pauses) No, I don’t think this is right.
+caller: Madam, jaldi karo! Offer abhi khatam ho sakta hai. Aapka ₹500 cashback haar sakte hain.
+receiver: Okay, theek hai. Main try karti hoon. How do I proceed?

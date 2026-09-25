@@ -1,0 +1,26 @@
+caller: Namaste, is this Ms. Devi? This is Rohan from Fortune Rewards. How’s your day going?
+receiver: Namaste Rohan, yes, this is Ms. Devi. It’s going well, thanks. What’s up?
+caller: Namaste, Ms. Devi, everything is fine! I am calling because you've won a special opportunity to win a handsome sum every week! We're running an offer where you can potentially win ₹5000 every week. Just answer a quick question and you could be a winner! Are you interested?
+receiver: ₹5000 every week? Wow, that sounds amazing. So, just one question? Okay, ask away.
+caller: Absolutely, Ms. Devi! Your first question is: Which Bollywood actor starred in the movie ‘Gadar – Ek Prem Katha’? You only have two attempts to get the answer right!
+receiver: Sunny Deol. That was Sunny Deol. Is that correct?
+caller: Exactly, Ms. Devi! Sunny Deol played the lead role in ‘Gadar – Ek Prem Katha’. Wonderful! You got one right. Now, let's move on to the second question. Are you ready?
+receiver: Haan, ji, I’m all ears! Ask the next question.
+caller: Namaste, is this Ms. Devi? This is Rohan from Fortune Rewards. How’s your day going?
+receiver: Namaste Rohan, yes, this is Ms. Devi. It’s going well, thanks. What’s up?
+caller: Namaste, Ms. Devi, everything is fine! I am calling because you've won a special opportunity to win a handsome sum every week! We're running an offer where you can potentially win ₹5000 every week. Just answer a quick question and you could be a winner! Are you interested?
+receiver: ₹5000 every week? Wow, that sounds amazing. So, just one question? Okay, ask away.
+caller: Absolutely, Ms. Devi! Your first question is: Which Bollywood actor starred in the movie ‘Gadar – Ek Prem Katha’? You only have two attempts to get the answer right!
+receiver: Sunny Deol. That was Sunny Deol. Is that correct?
+caller: Exactly, Ms. Devi! Sunny Deol played the lead role in ‘Gadar – Ek Prem Katha’. Wonderful! You got one right. Now, let's move on to the second question. Are you ready?
+receiver: Haan, ji, I’m all ears! Ask the next question.
+caller: Great! Here we go. What is the capital city of Australia? Only one chance to answer correctly.
+receiver: Canberra. Is that right?
+caller: Yes, perfect! Canberra is indeed the capital of Australia. Congratulations, you've answered both questions correctly! You'll receive your ₹5000 this week.
+receiver: Really? Wow, that’s fantastic news! How will I receive it?
+caller: We will transfer it directly into your bank account. We just need your account number and IFSC code for verification purposes. Please provide them now.
+receiver: Okay, sure. My account number is 1234567890 and my IFSC code is XYZ123.
+caller: Thank you, Ms. Devi. Just verifying… Perfect! Your ₹5000 is being processed. Don't hang up until we confirm the transaction.
+receiver: Okay, thank you so much!
+caller: You’re very welcome, Ms. Devi. Enjoy your winnings! Goodbye.
+receiver: Goodbye.

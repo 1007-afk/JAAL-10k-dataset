@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Rahul Verma, Paytm Finance se bol raha hoon. Aapke naam par ek personal loan ke liye application aaya tha, aur woh approve ho gaya hai. Aapko loan amount milna hai kya?
+receiver: Paytm Finance? Loan approve ho gaya? Mujhe toh koi application kiya hi nahi tha.
+caller: Ji sir, humein system mein aapka application mila hai. Loan amount ₹15,000 approve ho gaya hai. Isko activate karne ke liye, aapko bas ek small verification fee bharne hogi, ₹500.
+receiver: ₹500 verification fee? Loan approve hone ke baad verification fee kyon? Yeh toh theek nahi lag raha.
+caller: Sir, security ke liye, yeh ek standard procedure hai. ₹500 aapko UPI se send karne hain, Phir aapka loan amount immediately aapke account mein transfer ho jayega.
+receiver: UPI ID dedo. Aur mujhe yeh bhi batao ki loan ke terms and conditions kya hain? Mujhe interest rate bhi jatan se sunana hai.
+caller: Sir, UPI ID hai 7890123456@yppaisa. Terms and conditions aapko email se mil jayenge, loan amount transfer hone ke baad. Abhi bas ₹500 pay kardo.
+receiver: Wait, sir. Mujhe abhi bhi shaq hai. Main koi payment nahi karunga jab tak mujhe proper details nahi milengi.

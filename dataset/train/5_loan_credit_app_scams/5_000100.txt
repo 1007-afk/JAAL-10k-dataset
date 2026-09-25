@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main LoanExpressIndia se Rahul bol raha hoon. Aapki recent online activity ke according, aapne loan ke liye apply kiya tha. Kya aapka mobile number 9876543210 hai?
+receiver: Haan, bilkul. Mainne loan ke liye apply kiya tha, lekin mujhe yaad nahi ki kab.
+caller: Bahut achha, sir. Loan approved ho gaya hai, ₹75,000. Abhi process complete karne ke liye, humein aapke bank account ke details aur ek OTP chahiye. OTP aapke phone pe aa jayega.
+receiver: ₹75,000? Bahut zyada hai. Aur OTP dene se pehle, mujhe confirm karna hai ki yeh LoanExpressIndia se hi hai.
+caller: Sir, worry mat karein. Yeh totally secure hai. Hamara website LoanExpressIndia.com par aap verification kar sakte hain. OTP send karwa dijiye, sir. Jaldi karna hai, offer limited time ke liye hi hai.
+receiver: Thik hai, OTP aa gaya. Yeh hai 567890.
+caller: Thank you, sir! Ab aapka loan account activate ho gaya hai. ₹75,000 aapke account mein jaldi hi transfer ho jayega. Sir, ek chhota-sa processing fee hai, ₹2,500, woh bhi aapke account se cut ho jayega. Iske baad aapko ₹72,500 milenge.
+receiver: ₹2,500 processing fee? Itne zyada paise kyun? Main toh itna nahin dena chahta hun.
+caller: Sir, iska karan processing charges hain. Abhi aapko ₹72,500 mil jayenge aur aapka credit score improve hoga. It's a win-win situation!

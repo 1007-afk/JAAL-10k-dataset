@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Vinay from the Cyber Crime Investigation Cell, Delhi. We've detected suspicious activity linked to your bank account – specifically, unusual cryptocurrency transactions.
+receiver: Cyber Crime? What suspicious activity? I haven't done any crypto transactions. This sounds like a scam.
+caller: Sir, please don't be alarmed. We're trying to prevent a significant financial loss. Our records indicate transfers to offshore accounts. To verify your identity and secure your funds, we need you to provide a few details, including your debit card number and CVV. We need to freeze the account immediately.
+receiver: Hold on! You're asking for my CVV? That’s crazy! No legitimate bank or police officer would ask for that. I'm reporting this number.
+caller: Sir, we understand your concerns, but time is of the essence. If you don’t cooperate, we’ll have to escalate the matter to the court and a warrant will be issued for your arrest for suspected money laundering. It's a very serious offense. For your safety, please just share the details; we need to confirm it's really you.
+receiver: Arrest warrant? Money laundering? This is ridiculous! I’m ending this call. You’re a fraud.
+caller: Sir, one last time, please, to avoid legal action, can you quickly confirm your bank account number? This will only take a moment and prevent a considerable inconvenience.

@@ -1,0 +1,6 @@
+caller: Namaste sir, main Delhi Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya.
+caller: Ji sir, parcel tracking number DC789456 hai. Usmein suspicious material mila hai. Legal action lene se pehle, aapko ek settlement option available hai.
+receiver: Settlement option? Legal action? Yeh bahut serious hai. Main police complaint kar dunga agar kuch galat hua. Koi reference number dedo.
+caller: Sir, police mein complaint karne se aur zyada problem hoga. Yeh matter sensitive hai. ₹8000 ka settlement deposit kar dijiye, tab hum case ko close kar denge. Aapko video call pe aana hoga verification ke liye.
+receiver: ₹8000? Video call? Main koi bhi payment nahi karunga. Yeh scam lag raha hai. Main abhi call kaat raha hoon.

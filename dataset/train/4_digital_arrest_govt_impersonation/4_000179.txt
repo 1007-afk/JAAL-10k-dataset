@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Ajay Sharma speaking? This is Inspector Rajeev from the Directorate of Revenue Intelligence, DRI. We're calling regarding a suspicious transaction linked to your bank account.
+receiver: Haan, bolie. Yeh kis baat ki baat ho rahi hai?
+caller: Sir, our investigations indicate a large sum of money, approximately 7 lakhs, was transferred through your account originating from a known shell company involved in hawala transactions. We believe you might be unwittingly involved in money laundering.
+receiver: 7 lakhs? Lekin main toh itna paisa kabhi receive nahi kiya. Mere account mein aise koi transaction hua hi nahi. Main ek teacher hoon, sir.
+caller: Sir, the transaction is registered. It's a complex case. To avoid legal complications and potential arrest, we need to verify your details and process a small settlement fee to clear your name. It's just 15,000 rupees, sir. A minor amount compared to the risk. We need it urgently to demonstrate your cooperation.
+receiver: 15,000 rupees? Agar koi mistake hai, toh main police mein jaake report karunga. Main paisa nahi de sakta.
+caller: Sir, please understand the gravity of the situation. We are not requesting this as a bribe, but as a processing fee to expedite the clearing of your name. We can do this over the phone. For security, I need the OTP that will be sent to your registered mobile number for verification. Please provide it.
+receiver: OTP? Sir, main ko kuch samajh nahi aa raha hai. Yeh bohot suspicious lag raha hai. Main abhi report karunga. Bye.
+caller: Sir, wait! This is a final warning! We are tracking your location. Ignoring this will result in immediate legal action. Our number is 9876543210.

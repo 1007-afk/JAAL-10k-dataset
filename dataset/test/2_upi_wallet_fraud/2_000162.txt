@@ -1,0 +1,7 @@
+caller: Namaste, is this [Receiver’s Name]? This is Akash from PhonePe support. We’ve noticed some unusual activity on your account.
+receiver: PhonePe? What kind of activity? Everything seems fine on my end.
+caller: Sir, there’s been a small transaction of ₹500 to an unknown UPI ID. We need to verify this immediately to prevent any further fraudulent activity. To confirm it's you, can you please share the OTP you just received on your registered number?
+receiver: ₹500? I didn’t make any transaction like that. And I don’t share OTPs over the phone, that’s against security protocols.
+caller: Sir, please understand, this is a critical security measure. If you don't share the OTP now, we might have to temporarily block your account for your safety. Just a one-time verification and we’ll resolve this quickly. We are following PhonePe’s protocol.
+receiver: Block my account? But how will I pay my bills? Look, I'm calling PhonePe customer care directly from their official website. Can you please confirm your employee ID and the location of the PhonePe support centre you're calling from?
+caller: Sir, I’m extremely sorry, there’s a system glitch. I’m unable to provide that information right now. Please, just the OTP, and we can avoid any inconvenience. This is a time-sensitive matter.

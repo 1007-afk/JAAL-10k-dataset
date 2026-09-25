@@ -1,0 +1,13 @@
+caller: Namaste, aapne Diwali ka offer dekha? ₹750 ka gift card hai, shuruwat ke liye.  Bas ek small payment karna hai, ₹199.
+receiver: Namaste, Diwali ka offer? Gift card?  Mujhe to koi Diwali nahi, mujhe yeh message kyun mila?  Koun bol raha hai aap?  ₹199 ka payment?  Kyun?
+caller: Haan ji, Diwali ka special offer!  Aapne online form fill kiya tha, Diwali ke celebration ke liye.  ₹199 sirf delivery charges hain, gift card mil jayega.  Aur sirf 3 chances bache hain, jaldi karo!
+receiver: Online form? Diwali ke celebration?  Mujhe to koi form nahi fill kiya.  Yeh kitna bakwaas hai! ₹199 delivery charges?  Agar delivery charges hain toh why not just tell me directly?  Aapka phone number koun lega?
+caller: Ji, ji, hamare system mein aapka number record hai.  Form fill karne ke liye aapka number compulsory hai.  Delivery charges ₹199, gift card ₹750, aapko bas payment karna hai.  Ab sirf 2 chances bache hain, hurry up!
+receiver: Delivery charges ₹199? ₹750 ka gift card?  Itna bada offer?  Mujhe to samajh hi nahi aa raha.  Aapke system mein mera number kaise?  Mujhe to koi idea nahi hai.  Kya yeh legitimate hai?
+caller:  Dekhiye ji, aapka number lottery ke liye register kiya gaya tha.  Lottery ka information hamare website pe hai, lekin hum share nahi kar sakte.  Ab sirf 1 chance bacha hai, please confirm karein.  Agar confirm nahi karenge toh prize cancel ho jayega.
+receiver: Lottery? Website?  Mujhe to lottery ka koi idea nahi hai.  Website ka address bataiye, mujhe check kar lunga.  Aur agar prize cancel ho jayega toh?  Matlab, ₹750 ka gift card pura nahi hoga?  Bhaiyya, yeh sab thoda zyada suspicious lagta hai.
+caller: Ji, ji, website ka address hai www.examplelottery.com.  Agar aap confirm nahi karenge toh prize cancellation policy apply hoga.  Ab time over hai, last chance!  Agar aapko prize chahiye toh confirm karein.
+receiver: www.examplelottery.com?  Okay, check karunga.  Par jo aap keh rahe hain, woh sab confuse karte hue.  Agar main confirm kar dunga toh prize milega?  Koi confirmation email ya SMS ayega?  Aur agar main reject kar dunga toh kya hoga?
+caller: Ji, ji, confirm karne ke baad aapko confirmation email milega aur SMS bhi ayega.  Agar aap reject karenge toh aapko koi notification nahi milega, prize cancelled ho jayega.  Last call, please confirm!
+receiver: Okay, okay, I am confirming.  But I still have some doubts.  Agar koi problem ho toh?  Koi helpline number bataiye, jab tak prize mile.
+caller: Ji, helpline number hai 9876543210.  Aapko koi problem hogi toh hum madad karenge.  Thank you and congratulations!

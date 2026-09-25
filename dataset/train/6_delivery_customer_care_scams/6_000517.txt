@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? I’m calling from Bluebird Logistics. We have a parcel addressed to you that’s currently held at our Jaipur hub due to an incorrect delivery address.
+receiver: Oh? What parcel is it? I haven’t ordered anything recently, I think.
+caller: It's from a retailer called "Style Haven," a large order of clothing items. The label is damaged, and we need to verify your details to proceed. Could you please provide the last four digits of your phone number associated with this delivery? It’s a standard security check.
+receiver: Last four digits? That seems a little strange... but okay, it’s 4321.
+caller: Thank you. Now, to confirm the payment details, as there was a slight issue with the initial transaction, could you quickly verify an OTP that we’ve just sent to your registered mobile number? It will only take a moment.
+receiver: An OTP? Now? Hang on a second. This is getting a bit fishy. Why would I need to verify payment for a delivery?
+caller: Ma'am, it's a new security protocol we're implementing to prevent fraudulent deliveries. Just quickly enter the OTP so we can get your parcel dispatched. The OTP is 8792. This is important to prevent your package from being returned.

@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? This is Rohan calling from QuickCash Loans. We’ve reviewed your recent application and it's almost approved! Just need to verify a couple of details before releasing the funds.
+receiver: QuickCash? I did apply for a loan online. What details do you need?
+caller: Great! First, could you confirm the last four digits of your PAN card and your registered mobile number, please? Just to ensure we have the correct records.
+receiver: My PAN last four digits are 7890, and my mobile number is 9876543210. Is everything alright?
+caller: Excellent, Mr. Verma. All looks good. Now, due to increased security, we require a small processing fee of ₹2500 to activate your account. This is a one-time charge. You can transfer it to this UPI ID: quickcash.payments@xyz.
+receiver: Two thousand five hundred rupees? I didn't see anything about a processing fee when I applied. That seems unusual.
+caller: Sir, this is a new policy implemented to combat fraud. It’s a standard procedure. Without this payment, we cannot release the loan. Once the payment is confirmed, your ₹50,000 will be credited to your account within the hour.
+receiver: Hmm… Okay, I'll transfer it. Let me do that now.
+caller: Wonderful! Please send a screenshot of the transaction once it’s complete, so we can quickly verify it and process your loan. It’s crucial we get it soon, sir, to meet the processing deadline.

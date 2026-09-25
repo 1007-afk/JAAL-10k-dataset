@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Amazon customer care se Shilpa bolti hoon. Aapke Amazon account par ek suspicious transaction detect hua hai - ₹14,800 ka.
+receiver: ₹14,800? Mein toh kuch order kiya hi nahi! Account check kar raha hoon main.
+caller: Ji bilkul, sir. Hamara system detect kar paya hai ki koi anauthorised device se aapke account mein login karne ki koshish kar raha hai. Aapko ₹14,800 ka transaction cancel karwane ke liye kuch verification karna hoga.
+receiver: Verification? Kaisa verification? OTP milega kya?
+caller: Haan, sir. Ham aapke registered mobile number par ek OTP bhejenge. Woh OTP bataiye, aur main transaction ko freeze kar dungi. Aur sir, security ke liye aapko apne debit card details bhi confirm karne honge.
+receiver: Debit card details? Amazon kabhi aise details manta hai? Mujhe toh kuch doubt ho raha hai.
+caller: Sir, ye protocol hai. Hamara system secure hai, aap tension mat lein. ₹14,800 aapke account se debit hone se pehle transaction ko freeze karna bahut zaroori hai.  Aapka cooperation hamare liye bahut mahatvapoorn hai.

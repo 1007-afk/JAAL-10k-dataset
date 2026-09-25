@@ -1,0 +1,8 @@
+caller: Hello? Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items paaye gaye hain.
+receiver: Illegal items? Mera toh koi parcel nahi aaya tha. Mein toh kuch order kiya bhi nahi hai.
+caller: Ji, hamare record ke hisaab se parcel aaya hai, aur usmein suspicious material mila hai. Aapko is matter mein zaroori hai ki aap humein thodi information provide karein. ₹5000 ka fine bharne se yeh matter settle ho sakta hai.
+receiver: ₹5000? Par lekin maine toh kuch bhi illegal nahi kiya hai! Mujhe yeh sab kuch bewakoof bana rahe hain.
+caller: Ji, ₹5000 ka fine bharne se parcel release ho jayega aur aapko koi legal problem nahi hogi. Yeh process bahut hi aasaan hai. Aap Google Pay ya PhonePe se kar sakte hain. Mein aapko ek UPI ID deta hoon.
+receiver: Wait, wait… ₹5000 bharne se parcel release ho jayega? Mujhe confirm chahiye. Koi official ID card dikhayenge ya koi helpline number jahan mein call karke verify kar sakoon?
+caller: Ji, hamare pass yahan pe verification karne ke liye time nahi hai. Yeh urgent matter hai. UPI ID hai: 8888888888@axisbank. Jaldi se payment kar dijiye, warna parcel seize ho jayega aur aapki arrest warrant bhi nikal sakta hai.
+receiver: Arrest warrant?! Mujhe abhi kuch bhi clear nahi ho raha hai. Mein koi payment nahi karunga.

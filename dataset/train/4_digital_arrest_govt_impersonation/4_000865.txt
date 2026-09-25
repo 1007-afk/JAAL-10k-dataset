@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Kumar, calling from the Directorate of Revenue Intelligence. We've intercepted a suspicious parcel linked to your address.
+receiver: Haan, bolie. Parcel? Main toh kuch order nahi kiya tha.
+caller: Sir, the parcel contains suspected contraband – illegal pharmaceuticals. We need to verify your involvement immediately. Failure to cooperate will result in further legal action. We need to confirm your identity and conduct a quick financial background check.
+receiver: Illegal drugs? Yeh kya keh rahe hain aap? Main toh itna bhi nahi peeta. Koi galti ho rahi hai.
+caller: Sir, we understand this is concerning, but we must follow protocol. To clear your name, we require a small payment – ₹15,000 – to cover investigation costs and expedite the process. We will keep you on a video call to ensure transparency.
+receiver: Paanchaur teen hazar?  Yeh thoda zyada lag raha hai. Main abhi bank se nikal nahi sakta. Koi aur tareeka hai?
+caller: Sir, this is a standard procedure. We cannot compromise the integrity of the investigation. The video call is crucial; it prevents third parties from interfering. Please make the payment to this UPI ID: 9876543210@axisbank. Do it now to avoid arrest.
+receiver: Arrest? Yaar, mujhe zyada stress ho raha hai. Main kal baat karta hoon.
+caller: Sir, delaying will only worsen the situation. The deadline is approaching rapidly. We have evidence, and your cooperation is paramount. This is your final opportunity to resolve this matter amicably. Please confirm payment.

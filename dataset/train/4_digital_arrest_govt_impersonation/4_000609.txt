@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Indian Customs Department se Manish Verma bol raha hoon. Aapke naam par ek parcel aaya hai jo illegal items se bhara hua hai.
+receiver: Kya? Illegal items? Mere naam par? Yeh kya bol rahe hain aap? Main toh kabhi parcel order nahi kiya.
+caller: Ji, parcel Delhi se aaya hai aur usmein suspicious items milaye gaye hain. Aapko is matter mein cooperate karna hoga aur ek small fine clear karna hoga taaki parcel release kar sakein. Fine ₹15,000 hai.
+receiver: ₹15,000? Aur yeh parcel kahaan hai? Main customs office mein jaakar khud dekhna chahta hoon. Aapko number pata hai kya?
+caller: Sir, customs office mein line bahut lambi hai aur process time-consuming hai. Parcel ek secure location par hai. Aapko UPI ya net banking se payment karna hoga. Payment kar diye toh main parcel release kar dunga.
+receiver: Wait, wait. Sir, yeh kuch gadbad lag rahi hai. Main police se contact karta hoon. Aapka naam aur police station ka naam bataiye. Main verify karta hoon.
+caller: Sir, aapko time barbaad karna nahi hai. Yeh ek serious matter hai aur police mein report karne se aapko aur pareshani hogi. ₹15,000 payment kar dijiye, sir.
+receiver: Main koi payment nahi karunga. Yeh scam hai. Main abhi police complaint register kar raha hoon.

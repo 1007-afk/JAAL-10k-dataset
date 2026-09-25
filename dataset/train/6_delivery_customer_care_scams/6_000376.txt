@@ -1,0 +1,7 @@
+caller: Hello, good evening! This is Rahul from SwiftShip Courier. We’re trying to reach you regarding a parcel addressed to you, tracking ID SW12345. There seems to be an issue with the delivery address – it’s showing as incomplete.
+receiver: Oh, really? I was expecting a package. What seems to be the problem with the address?
+caller: It's just missing a few details, sir. We need to confirm your pin code and a quick verification to ensure it's being delivered to the correct recipient. We wouldn’t want it going to the wrong address, would we?  It's standard procedure.
+receiver: Okay, I understand. My pin code is 411001. What verification do you need?
+caller: Excellent! Just a quick one, sir. To secure your parcel and prevent any fraudulent activity, we need a one-time password (OTP) that we’ll send to your registered mobile number. Could you please confirm that’s [Receiver’s Mobile Number]?
+receiver: Yes, that’s my number. Please send the OTP.
+caller: Thank you. Now, to process this, we require a small processing fee of ₹499 to cover the address rectification and security update. This is a one-time charge. You can pay via UPI. Please provide your UPI ID.

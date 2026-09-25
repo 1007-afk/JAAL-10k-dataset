@@ -1,0 +1,9 @@
+caller: Namaste sir, is this Mr. Sharma? My name is Inspector Rajan from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspected contraband.
+receiver: Customs Department? Contraband? What’s going on? I haven't ordered anything.
+caller: Yes sir, the parcel was shipped from overseas. Our initial scans indicate illegal substances. To avoid serious legal consequences and potential arrest, you need to clear this matter immediately. We require a payment of 45,000 rupees to process the verification and release the parcel.
+receiver: Forty-five thousand rupees? This has to be a mistake. I'll contact the Customs Department directly to verify. Give me a number.
+caller: Sir, please understand the urgency. Directly contacting Customs might delay the process and escalate the situation. We’re doing this as a courtesy to resolve it swiftly. To ensure discretion and handle sensitive matters, our payment gateway is secured. The UPI ID is cbic.legal.payment@axis. Kindly transfer the amount and share the transaction ID with us. We'll keep you on a video call so you do not alert anyone.
+receiver: Video call? Why do you need a video call? This sounds very suspicious. I'm not paying anything until I verify this with the official Customs helpline.
+caller: Sir, the video call is standard procedure. It verifies your identity and ensures the transaction is legitimate. It prevents fraud and protects you. We are just following protocol.  We have the parcel with us and the investigation is underway. Do you want the parcel or do you want us to proceed with legal action? Transfer the money now.
+receiver: I am reporting this number to the cybercrime cell. You are a scammer!
+caller: Sir, threatening us will only complicate matters. This is a serious offense, and we have your details.  For your own safety,

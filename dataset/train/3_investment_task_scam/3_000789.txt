@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I’m calling from CoinGain Investments. We’ve identified you as a potential high-earner and have a fantastic opportunity for you.
+receiver: CoinGain? Main toh koi investment nahi kiya hai kabhi. Yeh kaunsi offer hai?
+caller: We're offering early access to a new cryptocurrency, StellarX. It’s predicted to surge by 300% in the next few weeks. To get started, we just need a small initial investment of ₹5000 to activate your account.
+receiver: ₹5000? Aur yeh StellarX crypto kya hai? Mujhe toh kabhi suna hi nahi. Koi website ya details hai iske?
+caller: Absolutely! Go to CoinGain.net - it’s our secure platform. StellarX is a cutting-edge project with incredible potential. Once you invest the ₹5000, we'll guide you on how to earn daily profits through simple online tasks - rating apps and short surveys.
+receiver: Online tasks? Rating apps ke paise? Yeh bahut zyada promising lag raha hai. Aur CoinGain.net… mein toh koi secure sign-in nahi dikha. Koi phone number ya address bataiye, main verify kar loongi.
+caller: Look, Priya Ji, for security reasons, we don't release phone numbers publicly.  The website is all you need. Just invest the ₹5000, and I'll personally walk you through the first few tasks to ensure you understand. It's a limited-time offer, you don't want to miss out. Plus, to reassure you, we will send you a bonus of ₹1000 after your first successful task.
+receiver: ₹1000 bonus?  Yeh sab kuch itna suspect lag raha hai.  Mereko lagta hai yeh koi scam hai.  Main koi investment nahi

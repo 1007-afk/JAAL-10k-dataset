@@ -1,0 +1,11 @@
+caller: Hello? Can you hear me clearly? I’m calling regarding your recent purchase from ‘ShineBright Electronics’. We detected a small error during processing and want to make things right for you. You have a complimentary upgrade available – just visit secure-shinesale.com/bonus on your laptop. Don't delay, only two redemption codes remain!
+receiver: Haan, sunta hoon. ShineBright Electronics se baat kar rahe ho? Kya hua? Upgrade? Kitna upgradation mil sakta hai?
+caller: Yes sir, absolutely! Due to a system glitch, we accidentally applied a discount that wasn’t intended for your premium package. As compensation, we’re offering a free extended warranty - worth ₹8,000! It's exclusively for this week only, so please log onto secure-shinesale.com/bonus using your laptop. There are only three codes left to redeem. If you face any difficulty accessing the site, don't hesitate to call back.
+receiver: ₹8,000 ka warranty? Thoda surprising hai. Mein jo order kiya tha, usmein kya change hoga? Mere account mein refund milega kya?
+caller: No sir, not a refund. This is a direct upgrade! Think of it as an extra layer of protection for your new device.  We need to verify your order ID which is AB123CD456. Please provide it when you access the link. And remember, there are only two codes available now. Let's get this done quickly before they expire.
+receiver: Order ID AB123CD456? Okay, fine. But tell me honestly, is this a legitimate offer or some kind of trick? Just checking, you know?
+caller: Absolutely legitimate, sir! We value your business and want to ensure you receive the best possible service.  This is our way of showing appreciation for being a loyal customer.  Please confirm the last four digits of your credit card to proceed with the upgrade.
+receiver: Credit card details? Seriously? I am a little hesitant. Let me check the ShineBright website first.  I will contact you after reviewing it. Thank you.
+caller:  Understood, sir.  Just to reiterate, it's a simple process – visit secure-shinesale.com/bonus, enter your order ID, and use one of the remaining codes.  There’s only one code left now, sir. Hurry up!
+receiver: Okay, okay. I’ll see what I can find. But if I don’t hear from you within an hour, I won’t bother calling again. Bye!
+caller:  Alright, sir.  Have a great day!  And remember, secure-shinesale.com/bonus awaits you!

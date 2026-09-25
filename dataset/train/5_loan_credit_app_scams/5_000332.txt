@@ -1,0 +1,7 @@
+caller: Hello! Main Rohan bolta hoon, QuickCash Loans se. Aapko urgent ₹75,000 tak ka loan chahiye tha, correct? Application process bahut simple hai, sirf 10 minute lageinge.
+receiver: Haan, ji haan. Main dekh raha tha QuickCash ka add. Kitne interest se mil jayega?
+caller: Interest rate… woh thoda fluctuate karta hai, lekin hum aapko best deal denge. Bas aapko kuch basic details provide karne hain. Apna PAN card number aur bank account details bataiye.
+receiver: PAN card number? Itna jaldi? Seems a bit risky, no?
+caller: Bilkul nahi, madam. Yeh security verification hai. Agar aap cooperation nahi karenge, toh loan process postpone ho jayega. Aapko pata hai, abhi bahut saare fake companies chal rahi hain. Hum legal aur registered hain. ₹75,000 sirf aapke account mein transfer ho jayega, tension mat lein.
+receiver: Okay, fine. Let me see… My PAN number is ABCDE1234F. And my bank account is with SBI, account number 1234567890.
+caller: Bahut achha! Processing start ho gaya hai. Lekin, ek chota fee hai – ₹5000 processing fee. Isko urgent transfer kijiye, tabhi loan release hoga. Bank details main hi bhejiye, Madam.

@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Rohan from ‘FinancePlus’. We’ve reviewed your recent application for a personal loan. Congratulations, you're pre-approved for a loan up to ₹10,000! Just need to verify a few details.
+receiver: Haan, hello. FinancePlus? I did apply for a loan online… but I haven’t heard anything yet.
+caller: Exactly, sir! A small processing fee of ₹750 is required to activate the loan. It’s a standard security measure. You can transfer it to the account number I’ll provide.
+receiver: ₹750? I wasn’t expecting a fee upfront. Shouldn’t I get the loan first, then pay?
+caller: Sir, that's how it works with FinancePlus to ensure the applicant's seriousness. Once the fee is deposited, we’ll release the ₹10,000 immediately. The account details are: [invent an account number]. Please do it quickly so we can process it.
+receiver: Okay, wait a minute. I'm checking my bank account… This account name is different from FinancePlus. Something doesn't feel right.
+caller: Sir, please don't worry! There was a slight change in the bank account due to recent upgrades. Trust me, sir, this is just a formality to complete your loan. If you don't transfer the money now, the loan will be cancelled.

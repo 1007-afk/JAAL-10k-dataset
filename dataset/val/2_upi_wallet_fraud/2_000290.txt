@@ -1,0 +1,8 @@
+caller: Namaste sir, main Paytm se bol raha hoon. Aapke account mein ek suspcious activity detect hui hai.
+receiver: Kya suspcious activity? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek new transaction attempt kiya gaya tha, jisse aapka account block ho sakta tha. Isko secure karne ke liye, aapko OTP verify karna hoga.
+receiver: OTP? Paytm toh kabhi OTP demand nahi karta aise. Aur mein toh koi transaction nahi kiya tha.
+caller: Sir, security ke liye humein verification karna padta hai. Aapko ek link SMS karenge, us par click karke details verify karein. Ismein thoda sa time lagega, par aapka account safe rahega.
+receiver: Link SMS? Kya woh Paytm se hi aayega? Mein check karta hoon.
+caller: Haan sir, Paytm se hi aayega. Jaldi karein, time limit hai. Account block hone se pehle verify karna zaroori hai.
+receiver: Arey, wait karo. Mujhe SMS mila hai, par ismein ek link hai, ek number bhi hai. Paytm ka number toh aisa nahi hota. Yeh toh scam lag raha hai.

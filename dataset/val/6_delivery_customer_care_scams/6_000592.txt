@@ -1,0 +1,7 @@
+caller: Namaste! Mai Amazon se Rahul bolta hoon. Tumhare naam par ek parcel aaya hai, lekin address verification mein thodi dikkat aa rahi hai.
+receiver: Haan? Amazon parcel? Mainne kuch order kiya tha? Mujhe yaad nahi aa raha.
+caller: Ji, tumne kuch din pehle ek smart TV order kiya tha. Order number XYZ123. Lekin shipping address clear nahi hai. OTP bheja hai tumhare number pe, please check kar lijiye.
+receiver: OTP? Mere number pe OTP aaya bhi nahi. Aur smart TV toh mainne kabhi order nahi kiya. Yeh kya ho raha hai?
+caller: Sir, OTP check kar lijiye, kabhi kabhi delay ho jaata hai. Yakin kar rahe hain hum aapko safe delivery karwa denge, bas OTP daal lijiye.  Agar OTP nahi aaya toh kuch problem ho sakta hai, parcel return bhi ho sakta hai.
+receiver: Return? Nahin, nahin! Chalo, OTP daalta hoon. Par agar kuch bhi galat hua toh mai Amazon customer care pe complain karunga.  OTP hai 4589.
+caller: Thank you sir. Ab aapko ₹200 ka delivery charge pay karna padega.  Yeh secure payment gateway se hai. Payment ke liye link main aapko bheja hai, please check kar lijiye.

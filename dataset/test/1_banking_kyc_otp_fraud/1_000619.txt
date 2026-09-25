@@ -1,0 +1,22 @@
+caller: Namaste ji, main Rahul hu, Reliance Jio se call kar raha hu. Sir, aapka DigiLocker account verification ke liye ek OTP chahiye, please.
+receiver: Arre bhai, OTP kyun maang rahe ho? Mera DigiLocker private hai, kisi ko OTP nahi dena.
+caller: Haanji, technically speaking, Reliance Jio ne aapko verified user banaya hai, aur abhi account update karne ke liye yeh OTP verification compulsory hai. Technical glitch aa gaya hai, isliye humein OTP chahiye.
+receiver: No way! Reliance Jio by themselves verification nahi karta, woh toh third party vendors ka use karte hain. Aur aapka account update karna kis liye hai? Kya koi new plan apply karna hai?
+caller: Sir, koi plan nahi hai, yeh sirf aapke DigiLocker account ki security update hai. Recent security breach ke karan, hume aapke account ki validity check karna hai. Please, OTP dedo, otherwise aapka account suspend ho jayega.
+receiver: Suspend ho jayega? Fir bhi? Koi security breach nahi bola, sirf account update hai. Aur Reliance Jio ka name bhi fake lag raha hai. Aapka employee ID bataiye, ya koi reference number, agar aap genuine profile hain.
+caller: Sir, aapko account suspend karna zaruri hai, warna koi transaction blocked hojayega. Aapki account ki safety tumhare liye important hai, right? Just one digit, please. Aapka DigiLocker ID bataiye.
+receiver: DigiLocker ID? Mein kisiko meri DigiLocker ID nahi deta. Mujhe koi dhamki nahi dehni chahiye. Agar aap genuine hain toh aapko khud verification process follow karna chahiye, koi OTP maangne wala nahi hona chahiye. Main call cut kar raha hu.
+caller: Sir, sirf 6 digits ka OTP chahiye, please. Agar OTP nahi denge toh aapka account permanent block hojayega. Koi problem nahi hai, just give me the OTP.
+receiver: Okay, fine. Main OTP dedo, lekin agar yeh scam hai toh main police mein complaint karunga.
+caller: Shubh din! Thank you so much!
+caller: Namaste ji, main Rahul hu, Reliance Jio se call kar raha hu. Sir, aapka DigiLocker account verification ke liye ek OTP chahiye, please.
+receiver: Arre bhai, OTP kyun maang rahe ho? Mera DigiLocker private hai, kisi ko OTP nahi dena.
+caller: Haanji, technically speaking, Reliance Jio ne aapko verified user banaya hai, aur abhi account update karne ke liye yeh OTP verification compulsory hai. Technical glitch aa gaya hai, isliye humein OTP chahiye.
+receiver: No way! Reliance Jio by themselves verification nahi karta, woh toh third party vendors ka use karte hain. Aur aapka account update karna kis liye hai? Kya koi new plan apply karna hai?
+caller: Sir, koi plan nahi hai, yeh sirf aapke DigiLocker account ki security update hai. Recent security breach ke karan, hume aapke account ki validity check karna hai. Please, OTP dedo, otherwise aapka account suspend ho jayega.
+receiver: Suspend hojayega? Fir bhi? Koi security breach nahi bola, sirf account update hai. Aur Reliance Jio ka name bhi fake lag raha hai. Aapka employee ID bataiye, ya koi reference number, agar aap genuine profile hain.
+caller: Sir, aapko account suspend karna zaruri hai, warna koi transaction blocked hojayega. Aapki account ki safety tumhare liye important hai, right? Just one digit, please. Aapka DigiLocker ID bataiye.
+receiver: DigiLocker ID? Mein kisiko meri DigiLocker ID nahi deta. Mujhe koi dhamki nahi dehni chahiye. Agar aap genuine hain toh aapko khud verification process follow karna chahiye, koi OTP maangne wala nahi hona chahiye. Main call cut kar raha hu.
+caller: Sir, sirf 6 digits ka OTP chahiye, please. Agar OTP nahi denge toh aapka account permanent block hojayega. Koi problem nahi hai, just give me the OTP.
+receiver: Okay, fine. Main OTP dedo, lekin agar yeh scam hai toh main police mein complaint karunga.
+caller: Shubh din! Thank you so much!

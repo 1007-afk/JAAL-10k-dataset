@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Akash Sharma se baat ho rahi hai, BharatPe se. Aapko ₹500 cashback offer mila hai, apne BharatPe QR code se aaj ki sabhi payments karne par.
+receiver: Oh, really? ₹500? That's quite a bit. How do I claim it?
+caller: Haanji, bilkul. Bas aapko ek small verification link par click karna hai aur apne BharatPe account se ek payment karna hai. ₹50 ka payment kar dijiye, cashback automatically clear ho jayega.
+receiver: ₹50? Just ₹50? But why do I need to make a payment to get the cashback?
+caller: Verification ke liye, beta. Yeh system automatically verify karta hai ki aap eligible hain ya nahi. ₹50 ka payment kar den, cashback instant mil jayega. Link yeh hai: bit.ly/BharatPeCash
+receiver: Hmm, a bit.ly link? I'm a little hesitant about clicking on shortened links. Is this official?
+caller: Haanji, absolutely official! BharatPe toh. Don’t worry, beta. Jaldi karo, offer sirf aaj ke liye hai. ₹50 daal do, ₹500 cashback mil jayega!

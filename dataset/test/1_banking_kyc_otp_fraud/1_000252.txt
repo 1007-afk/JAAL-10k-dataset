@@ -1,0 +1,8 @@
+caller: Hello sir, main Paytm Bank se bol raha hoon. Kya aapka naam Mr. Sharma hai?
+receiver: Haanji, main Mr. Sharma hi bol raha hoon. Boliye, kya kaam tha?
+caller: Achha, Mr. Sharma ji, main aapko yeh batane ke liye call kar raha hoon ki aapke Paytm Bank account mein kuch unusual activity hui hai. Hamare systems ne ek suspicious transaction detect kiya hai, aur isliye hum chahte hain ki aapki verification ho jaye.
+receiver: Unusual activity? Kaunsi activity? Maine toh kuch nahi kiya hai. Aap bataiye kya hua hai aur mujhe kya karna hoga?
+caller: Ji sir, hamare records ke mutabik, aapke account se ek ₹999 ka transaction hua hai jo ki ek unknown merchant ko transfer hua hai. Yeh transaction kal raat 11:45 PM par hua hai. Kya aapko iske bare mein koi information hai, sir?
+receiver: ₹999? Kal raat 11:45 PM? Nahi sir, mujhe toh kuch yaad nahi hai aisa koi transaction hone ka. Na hi maine kisi unknown merchant ko koi payment kiya hai. Aap please confirm kar sakte hain ki yeh kahan gaya hai paisa aur yeh kis tarah ki activity thi?
+caller: Ji sir, hum samajh sakte hain ki yeh aapke liye chinta ki baat hai. Hum aapki puri help karenge. Is transaction ko confirm karne ke liye, humein aapke account ki verification karni hogi. Kya aap mujhe apna registered mobile number bata sakte hain jo aapka Paytm Bank se link hai?
+receiver: Haanji, mera registered mobile number hai 9876543210. Par yeh verification kyun chahiye? Agar koi problem hai toh main turant Paytm app mein check kar lunga.

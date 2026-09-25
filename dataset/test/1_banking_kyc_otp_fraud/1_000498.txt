@@ -1,0 +1,20 @@
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, humne aapko aapke debit card ki security check ke liye call kiya hai. Kya aap apna card verify karna chahte hain?
+receiver: Haan, boliye. Security check? Mera HDFC mein koi debit card nahi hai.
+caller: Aapka HDFC mein koi debit card nahin hai? Sir, yeh kaise ho sakta hai? Kya aap apne profile mein dekha hai? Shayad aapki account details mein koi mistake hai. Main aapko ek OTP bhejna chahayen, wo bataiye fir dekhte hain.
+receiver: OTP? Bhai, main online shopping hi karta hun, card nahi use karta. Toh OTP ka kya fayda hoga? Aur meri number sahi hai, aapko galat person mila hua hai. Aap kisi aur ko phone lagwao.
+caller: Sir, ek minute please. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi spelling mistake ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataayein.
+receiver: Mera naam Amit Sharma hai aur mobile number yeh hai jo aapko mila hai. Woh sab mehenga hai, aapko galat number mila hai. HDFC mein mera koi account nahi hai, samajh lein.
+caller: , ek minute please. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi spelling mistake ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataayein.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Amit Sharma hai aur mobile number yeh hi hai jo aapko mila hai. Agar aapko mera number dekh raha hai, toh mera naam bhi dikh raha hai. Sabse zyada suspect hai ki aapko koi andara employee fake bana kar phone kar raha hai.
+caller: Sir, ek minute. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataayein.
+receiver: Nahin bhai, mereko koi account nahi hai HDFC mein. Aur aapko galat number mila hai. Mujhe ab aapko phone kerna band karo.
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, humne aapko aapke debit card ki security check ke liye call kiya hai. Kya aap apna card verify karna chahte hain?
+receiver: Haan, boliye. Security check? Mera HDFC mein koi debit card nahi hai.
+caller: Aapka HDFC mein koi debit card nahin hai? Sir, yeh kaise ho sakta hai? Kya aap apne profile mein dekha hai? Shayad aapki account details mein koi mistake hai. Main aapko ek OTP bhejna chahayen, wo bataiye fir dekhte hain.
+receiver: OTP? Bhai, main online shopping hi karta hun, card nahi use karta. Toh OTP ka kya fayda hoga? Aur meri number sahi hai, aapko galat person mila hua hai. Aap kisi aur ko phone lagwao.
+caller: Sir, ek minute please. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi spelling mistake ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataiyein.
+receiver: Mera naam Amit Sharma hai aur mobile number yeh hai jo aapko mila hai. Woh sab mehenga hai, aapko galat number mila hai. HDFC mein mera koi account nahi hai, samajh lein.
+caller: , ek minute please. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi spelling mistake ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataiyein.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Amit Sharma hai aur mobile number yeh hi hai jo aapko mila hai. Agar aapko mera number dekh raha hai, toh mera naam bhi dikh raha hai. Sabse zyada suspect hai ki aapko koi andara employee fake bana kar phone kar raha hai.
+caller: Sir, ek minute. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gayi hai. Aapka poora naam bataayein, please. Aur woh number jahan se aap baat kar rahe hain, wo bataiyein.
+receiver: Nahin bhai, mereko koi account nahi hai HDFC mein. Aur aapko galat number mila hai.

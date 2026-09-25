@@ -1,0 +1,7 @@
+caller: Namaste uncle, main Vijay se baat kar raha hoon, IDFC First Bank se. Aapke account mein cashback offer chal raha hai, government scheme ke under.
+receiver: Oh, IDFC First Bank? Cashback offer? Kitna cashback milega?
+caller: Sir, aapko ₹5000 ka cashback milega, bas ek chhota verification process complete karna hai. Aapka UPI ID bataiye, verification ke liye.
+receiver: UPI ID? Woh kyun batauna chahiye? Bank ko toh pata hoga na?
+caller: Sir, government guidelines hai, hamein check karna padta hai ki account aapka hai. UPI ID bataiye, main aapko OTP send karunga, verify ho jayega. ₹5000 cashback, miss mat karna.
+receiver: Haan, theek hai. Mera UPI ID hai 9876543210@yono.
+caller: Thank you sir! Ab aapko Amazon Pay par ek OTP milega. Woh OTP mujhe bataiye, cashback aapke account mein transfer ho jayega.

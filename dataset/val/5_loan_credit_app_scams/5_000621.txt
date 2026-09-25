@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Vijay hai, FastCash Solutions se. Hum dikh rahe hain aapki profile ke hisaab se aap loan ke liye eligible hain. Aapko kitni urgent fund ki zarurat hai?
+receiver: Hello, mujhe loan mein interest nahi hai.
+caller: Sir, hum bahot achhe interest rates offer kar rahe hain. Aur registration process bahut simple hai. Bas ek chota sa verification process complete karna hai. ₹20,000 tak ki loan sirf 10 minute mein approve ho jayegi.
+receiver: Verification ke liye kya details chahiye?
+caller: Sir, aapko ek OTP (One Time Password) receive hoga, woh mujhe bataiye. Aur ek small amount – ₹500 – registration fee ke liye aapke wallet se debit hoga.  Yeh process absolutely secure hai.
+receiver: ₹500 fee? Aur OTP bhi dena hai? Mujhe suspicion ho rahi hai.
+caller: Sir, fee security ke liye hai aur OTP verification aapki identity confirm karega.  Agar aapko trust nahi ho raha, to mai aapko aapke nearby FastCash Solutions office ka address de sakta hoon.  Aap wahan aa kar bhi apply kar sakte hain.
+receiver: Nahi, thank you. Main apply nahi karunga.

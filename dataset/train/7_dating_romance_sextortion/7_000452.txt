@@ -1,0 +1,7 @@
+caller: Hi! I saw your profile on SparkMatch and I think we have a lot in common. You seem like a very kind and interesting person. What are you up to tonight?
+receiver: Hello! Thank you. I'm just relaxing at home. How did you find my profile on SparkMatch? It's not a platform I use very often.
+caller: It's a small world, isn't it? I was just browsing and your smile caught my eye. I'm Rohan, by the way. I’m an architect working on a big project in Dubai right now. It’s really keeping me busy. I'd love to get to know you better.
+receiver: Rohan, nice to meet you. I’m Anjali. An architect in Dubai? That sounds impressive! I’m a teacher here. So, what kind of project are you working on?
+caller: It’s a luxury hotel, really exciting designs! Things are getting a little stressful, actually. I had to send some urgent documents today, but my wallet got pickpocketed at the airport. I’m so worried. My flight back to India is in a week and I need to buy a new ticket. Could you maybe lend me ₹15,000? I’ll pay you back as soon as I get my salary.
+receiver: Pickpocketed? Oh no, Rohan, that's terrible! ₹15,000 is quite a lot. Are you sure you can't manage through your company or travel insurance? I'm not really comfortable sending money to someone I've just met.
+caller: Please Anjali, I'm really desperate. I'm sending you my bank details now. It will be such a relief. I promise I’ll send you a picture of my passport and ticket once I book it. I just need to get out

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? My name is Akash from CryptoGain Solutions. We've noticed some very promising activity in your account and wanted to discuss a special investment opportunity.
+receiver: Haanji, yeh Mrs. Sharma bol rahi hoon. CryptoGain Solutions? Kya baat hai?
+caller: We’re offering a chance to earn 30% daily returns on Bitcoin investments through our exclusive platform, CoinLeap. It’s a new, highly efficient automated trading system. To get started, you’ll need to deposit a small initial amount to activate the system. Just ₹5,000 will do.
+receiver: 30% daily? Itna zyada profit? Yeh thoda shak lag raha hai. CoinLeap ka naam sunna nahi pada hai.
+caller: Absolutely! It's a limited-time offer for our valued clients. We understand your concern, but this is a genuine opportunity to secure your financial future. We need to verify your identity quickly. Could you please share the last four digits of your bank account number to process the initial deposit?
+receiver: Okay, last four digits are 4321. Par agar yeh profitable nahi hua toh?
+caller: Don't worry, Mrs. Sharma! We guarantee your returns. Once you deposit the ₹5,000, we'll send you login details to your CoinLeap account so you can monitor your profits in real-time. You’ll see the returns happening almost immediately.
+receiver: Theek hai, ₹5,000 deposit kar dungi. Bataiye, transaction kaise karun?
+caller: Wonderful! We'll send you a secure payment link via WhatsApp. Just click on the link and follow the instructions. Once the deposit is confirmed, your account will be activated within minutes!

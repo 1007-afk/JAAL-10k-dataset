@@ -1,0 +1,8 @@
+caller: Hello sir, this is Rohan from WebTaskPro. We're looking for individuals to help us validate online ads. It's very easy work, just clicking on ads and rating them.
+receiver: WebTaskPro? What kind of ads? How much do they pay?
+caller: Sir, we’re running a campaign for various e-commerce sites. You'll get ₹50 per ad you rate. Very simple. We pay weekly via UPI.
+receiver: ₹50 per ad? That sounds okay. How many ads will I need to rate to get a decent payment? And how do I start?
+caller: It depends on your speed, sir. But usually, 50-60 ads will get you around ₹2500-₹3000. To start, we just need you to deposit ₹500 as a processing fee to ensure your UPI account is active and verified.
+receiver: ₹500 processing fee? Before I even do any work? That's a bit strange, isn't it? Most companies don't ask for money upfront.
+caller: Sir, this is to prevent fraud and ensure your account is legitimate. Many people try to scam us, so we have this verification process. Once you deposit, we’ll send you the first batch of ads immediately. UPI details are [Invented UPI ID].
+receiver: Hmm, I'll have to think about it. It seems like a lot of hassle for what should be a simple job. I need to check this WebTaskPro company first. I’m not comfortable sending money without verifying.

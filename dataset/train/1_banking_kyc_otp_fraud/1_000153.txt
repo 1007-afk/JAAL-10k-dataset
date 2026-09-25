@@ -1,0 +1,16 @@
+caller: Namaste sir/madam, mera naam Rohan hai aur main HDFC Bank se baat kar raha hoon. Kya aapke paas koi new credit card apply karna hai?
+receiver: Namaste Rohan, thanks for calling. Mera naam Priya Sharma hai. Haan, actually mujhe abhi credit card apply karne ki zarurat nahin hai, par agar koi good deals milte hain to bata do.
+caller: Achaa, Priya ji. Par humare paas ek super special offer chal raha hai sirf high net worth individuals ke liye. Agar aapke paas HDFC mein account hai toh main check kar sakta hoon ki aap eligible hain ya nahi. Aapko kuch simple questions puchna padega.
+receiver: Credit card offer? It's interesting. Mein HDFC mein account toh rakh rahi hoon. Kaise details poochhoge?
+caller: Shurp hai Priya Ji! Aapka HDFC mein account hai ye sunke bohot khushi hui. Mujhe sirf aapka account type - savings ya current - aur aapki annual income ka pata hona chahiye. Ye toh sirf eligibility check ke liye hai.
+receiver: Account type and income? That sounds okay. But, what if I don’t want to share my exact income? Kya aap alternate way se verification kar sakte hain, like maybe through OTP?
+caller: Rohan sir, aapki privacy hamara priority hai. OTP option nahi hai, lekin main aapko assure karta hoon ki yeh HDFC Bank ki official number se hi call hai. Aap apne account type aur income bata dijiye, main aapke eligibility ko check karunga.
+receiver: Okay Rohan. Mera account type savings hai aur meri annual income ₹8 lakhs hai. Check kijiye please.
+caller: Namaste sir/madam, mera naam Rohan hai aur main HDFC Bank se baat kar raha hoon. Kya aapke paas koi new credit card apply karna hai?
+receiver: Namaste Rohan, thanks for calling. Mera naam Priya Sharma hai. Haan, actually mujhe abhi credit card apply karne ki zarurat nahin hai, par agar koi good deals milte hain to bata do.
+caller: Achaa, Priya ji. Par humare paas ek super special offer chal raha hai sirf high net worth individuals ke liye. Agar aapke paas HDFC mein account hai toh main check kar sakta hoon ki aap eligible hain ya nahi. Aapko kuch simple questions puchna padega.
+receiver: Credit card offer? It's interesting. Mein HDFC mein account toh rakh rahi hoon. Kaise details poochhoge?
+caller: Shurp hai Priya Ji! Aapka HDFC mein account hai ye sunke bohot khushi hui. Mujhe sirf aapka account type - savings ya current - aur aapki annual income ka pata hona chahiye. Ye toh sirf eligibility check ke liye hai.
+receiver: Account type and income? That sounds okay. But, what if I don’t want to share my exact income? Kya aap alternate way se verification kar sakte hain, like maybe through OTP?
+caller: Rohan sir, aapki privacy hamara priority hai. OTP option nahi hai, lekin main aapko assure karta hoon ki yeh HDFC Bank ki official number se hi call hai. Aap apne account type aur income bata dijiye, main aapke eligibility ko check karunga.
+receiver: Okay Rohan. Mera account type savings hai aur meri annual income ₹8 lakhs hai. Check kijiye please.

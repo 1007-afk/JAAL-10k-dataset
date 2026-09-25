@@ -1,0 +1,7 @@
+caller: Namaste! Mai BharatPay se Rahul bolta hoon. Aapke BharatPay wallet mein ek suspicious transaction detect hua hai, ₹499 ka. Verify karne ke liye, 'VERIFY' number 99999 par send karein. 
+receiver: ₹499 ka transaction? Mujhe toh koi transaction yaad nahin. Mein check kar leta hoon. Meri BharatPay app mein dekhoon.
+caller: Haan ji, jaldi karein. Security reasons se, 5 minute mein verify karna hoga. Warna aapka wallet block ho sakta hai. ₹499 ka transaction kisi online shopping site par hua hai. ‘VERIFY’ send karein aur hamara helpline number hai 022-2888-7777.
+receiver: Online shopping? Mein toh last week se kuch purchase nahi kiya. Helpline number? Kab se block hoga wallet?
+caller: Sir, tension mat lein. ‘VERIFY’ send karte hi, hum aapko confirm kar denge. Block hone se bachane ke liye, sir, time bahut kam hai. Abhi ‘VERIFY’ send karein. ₹499 ka refund bhi aapko mil jayega verify hone ke baad.
+receiver: ₹499 ka refund? Hmmm... okay, theek hai. ‘VERIFY’ number 99999 par send kar deta hoon. Par mujhe OTP bhi milna chahiye, confirm karne ke liye.
+caller: Ji ji, thank you sir! Aapka BharatPay wallet ab secure hai! Aapko abhi ₹499 ka cashback offer ho raha hai. 'CLAIM' number 99999 par send karein!

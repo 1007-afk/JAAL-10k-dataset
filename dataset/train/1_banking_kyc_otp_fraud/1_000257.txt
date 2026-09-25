@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan from SecurePay Solutions. I’m calling about a transaction from June 15th, 2007 – a payment for ₹5,000 to ‘Tech Innovations Ltd.’ It seems there was a slight discrepancy and we need to verify some details. Can you confirm if you recognize this transaction?
+receiver: Haanji, yeh Mr. Sharma ki line hai. Kiska Rohan securepay bol rahe ho? Mujhe June 2007 ka koi transaction yaad nahi aa raha… ₹5,000 Tech Innovations ke naam par?  Matlab, mujhe confusion hai.
+caller: Koi baat nahi sir, yeh bilkul common hai, waqt badal jata hai. Yeh SecurePay Solutions ka transaction hai, jo aapne shayad online purchase ke saat jama kiya hota tha.  Aapke paas ₹5,000 ka transaction hai, aur hum chahte hain ki hum isko settle kar denge. Kya aap chahte hain ki main aapko bataun ki is transaction ko kaise check kar sakte hain?
+receiver: Haanji, bataiye na. Agar yeh settlement ho jaaye toh acha hoga.  Par yeh Tech Innovations kya company hai?  Unka koi website hai ya koi information mil sakta hai?
+caller: Ji haan, Tech Innovations Ltd. ek digital marketing agency hai. Unka website www.techinnovationsltd.in hai.  Hum chahte hain ki aap check karein ki aapne genuinely ₹5,000 ka order diya hota ya nahi.  Agar aapko doubt hai, to hum aapko transaction details aur account verification ke liye request karenge.
+receiver: Haanji, website dekha.  ₹5,000 ka order maine diya tha.  Par yeh transaction ID hai - 87654321.  Toh yeh settlement ho jaaye?
+caller: Ji bilkul, sir. Transaction ID 87654321 confirmed.  Now, just to ensure everything is correct, could you please provide your last four digits of your bank account number? This is standard procedure for verification purposes.
+receiver: Haanji, meri bank account ka last four digit 9876 hai.  Yeh settlement ho jaane wali hai?
+caller: Ji haan, sir. Apne details verified.  Transaction ID 87654321 will be settled within 24-48 hours.  Thank you for your cooperation!
+receiver: Okay, thank you.

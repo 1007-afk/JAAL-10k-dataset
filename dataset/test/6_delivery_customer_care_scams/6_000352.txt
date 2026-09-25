@@ -1,0 +1,7 @@
+caller: Namaste! This is an automated message regarding your recent order from Zomato. There seems to be an issue with your payment verification.
+receiver: Zomato? I didn't order anything recently. What's the problem?
+caller: Sir, our system flagged a discrepancy. To ensure your order is processed and delivered, we need to quickly verify your OTP. Please share the OTP you receive on your registered mobile number.
+receiver: OTP? Why do you need my OTP? Zomato never asked for an OTP before. Is this really Zomato?
+caller: Sir, security is our top priority. It’s a new security protocol. Without it, your order will be cancelled, and you'll lose the delivery. Please provide the OTP to avoid any inconvenience.
+receiver: Wait a minute. This sounds fishy. I'm not giving you anything until you tell me the order number.
+caller: Sir, the order number is ZM4589237. To proceed, we require the OTP immediately.

@@ -1,0 +1,8 @@
+caller: Hello? Yeh Flipkart customer care se Rohan bol raha hoon. Aapke naam par ek order aaya hai, lekin address verify hone mein thodi dikkat aa rahi hai.
+receiver: Flipkart se? Okay, kya hua? Woh order number batao, ek baar check karta hoon.
+caller: Haan ji, order number hai FLP7892345. Aapko yeh order receive hona hai, lekin security ke liye, ek OTP verify karna hoga. Main aapko ek SMS kar raha hoon, woh OTP mujhe bata dijiye.
+receiver: OTP? Flipkart toh kabhi OTP maangta nahi. Aur mujhe koi order yaad nahi. Tumhara number check kar sakta hoon?
+caller: Haanji, check kar lijiye. Yeh Flipkart ka official number hai, 9876543210. OTP sirf aapki security ke liye hai. Jaldi se bataiye, otherwise order deliver nahi ho payega.
+receiver: Ek minute. Mai Flipkart ke helpline number pe check karta hoon. Tumhara naam aur employee ID bhi batao.
+caller: Look, sir, time is running out. We need to verify you immediately. Just give me the OTP, or the package will be returned.  We are losing money on this shipment. Just the OTP, please?
+receiver: Nahi, sir. I'm ending this call now.  It's a scam.

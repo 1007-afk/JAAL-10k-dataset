@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Inspector Sharma hai, Central Intelligence Agency se. Aapke naam par ek parcel customs mein rukaa hai. Usmein illegal items mile hain, narcotics ke shabdon mein.
+receiver: Kya? Illegal items? Mere naam par? Mein toh kabhi parcel order bhi nahi karta. Yeh kya bol rahe hain aap?
+caller: Sirf parcel mein hai woh drugs, lekin hukum se aapki involvement jaanch kar rahe hain. Case serious hai. ₹15,000 clearance fine jama karne hain. Online transfer karna hai.
+receiver: ₹15,000? Yeh bahut zyada hai! Mein police station mein jaunga, tum log fake call kar rahe ho.
+caller: Suniye suniye! Abhi FIR register ho jayega, aur aapko jail bhi jaana padega. ₹15,000 jama karein, aur case band ho jayega.  Agar tumhare paas itna paisa bhi nahi hai, to aapse ek mahina tak jail mein rehna padega!
+receiver: Jail? Arre yaar, yeh toh bahut pareshani hai. Mein abhi bank se contact karta hoon aur dekhta hoon, phir bolta hoon. Tumhara phone number dedo.
+caller:  Koi number nahi dene ka, sir.  Directly bank account mein transfer karein.  Time bahut kam hai, FIR register hone se pehle karein. Is number pe transfer karna hai: 9876543210. Jaldi!

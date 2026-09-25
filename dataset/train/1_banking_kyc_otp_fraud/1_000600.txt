@@ -1,0 +1,8 @@
+caller: Namaste sir, ye Mera Bharat Rashtra Bank ka branch manager hai. Apka Aadhaar card verification jaldi ho raha hai. Covid ki wajah se hum sabhi verification online karte hain. Mujhe apne Aadhaar card ka information chahiye.
+receiver: Oh, okay. Aadhaar card verification? Kya hua? Mein kya karna parega?
+caller: Haan sir, aapka Aadhaar number, mobile number jo aapke Aadhaar se linked hai, aur aapka pan card number bata dijiye. Ye sab details agar aapde paas hai toh hum aapka verification jaldi kar sakte hain.
+receiver: Ok, mein samajh raha hun. Mera Aadhaar number hai 7894561230. Mobile number mera registered hai 8765432109. Aur PAN card number hai 123456789012.
+caller: Dhanyavaad sir, yeh details mil gaye hain. Abhi hum aapka verification jaldi se kar rahe hain. Aapko ek OTP aapke registered mobile number par aayega. Woh OTP please bataiye taaki hum verification complete kar sakein.
+receiver: OTP? Haan, mein dekhta hoon. Phone pe aaya hai... haan, mila. OTP hai 456789. Yeh bata doon toh ho jayega confirm?
+caller: Haan sir, yeh OTP mila hai. Shukaarya aapne madad ki. Aapka Aadhaar verification jaldi ho gaya hai. Aapko bank se koi aur jankari chahiye kya?
+receiver: Nahin sir, bas is tarah hi achha hai. Shukriya aapne call kiya aur mujhe update kiya. Bahut sundar tha. Achcha din!

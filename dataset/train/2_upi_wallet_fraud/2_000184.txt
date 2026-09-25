@@ -1,0 +1,9 @@
+caller: Hello! Main Flipkart se Rohit bol raha hoon. Aapke account mein cashback offer hai - ₹1500 ka Amazon gift card!
+receiver: Flipkart se? ₹1500 ka gift card? Mai toh koi offer check nahi kiya tha.
+caller: Haan ji, aapne kuch days pehle Flipkart pe kuch purchase kiya tha, uski verification process ka hissa hai yeh. Isko claim karne ke liye, ek small processing fee bhar do - sirf ₹50.
+receiver: ₹50 processing fee? Kahan bharne hai? Flipkart app mein toh kuch dikha nahi hai.
+caller: Haan, direct app mein nahi. Ek secure payment link hai - http://flipkart.verify.online/claim. Jaldi kijiye, offer sirf aaj tak hai. Bas ₹50 bharne hai, gift card instantly aapke account mein deposit ho jayega.
+receiver: Wait a minute… Flipkart.verify.online? Yeh toh Flipkart ki website nahi lag rahi. Mujhe doubt ho raha hai.
+caller: Sir, technical issue hai, abhi Flipkart ki website down hai. Verify link hi use karna hai. ₹50 bhar do aur gift card claim kardein! Varna offer expire ho jayega.
+receiver: Sir, yeh fraud lag raha hai. Mai nahi bharunga ₹50. Main Flipkart customer care se baat karta hoon.
+caller: Sir, agar aap nahi bhar rahe toh offer expire ho jayega. ₹1500 ka gift card chala jayega. Aapka nuksaan hoga.

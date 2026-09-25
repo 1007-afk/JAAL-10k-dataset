@@ -1,0 +1,6 @@
+caller: Namaste, main ICICI bank se Rahul bol raha hoon. Sir, aapke naam par ek naya debit card issue kiya gaya hai, lekin address verify karna zaroori hai.
+receiver: Haan, achha. Naya debit card? Mujhe toh koi notification nahi mila. Batao kya details chahiye?
+caller: Sir, aapka current address verify karna hai. Aapka Aadhaar card par jo address hai, woh match karta hai ki nahi? Aur ek OTP bheja gaya hai aapke registered mobile number pe.
+receiver: OTP? OTP toh secret hota hai. Main OTP phone pe nahi de sakta. Address to main bata sakta hoon, lekin OTP ka sawal hi nahi hai.
+caller: Sir, security ke liye OTP bahut zaroori hai. Agar OTP nahi denge toh hum bank account suspend karna padega. Yeh sirf 2 minute ka kaam hai.
+receiver: Account suspend? Koi rokna nahi chahiye? Paagal ho gaye ho? Main police mein complaint kar dunga. Call cut!

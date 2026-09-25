@@ -1,0 +1,9 @@
+caller: Namaste! Yeh Sanjay Kumar se baat ho raha hai, Reliance Jio se. Mujhe aapko ek bahut hi achcha offer dikhana hai. Hum log ₹150 mein ek extra 5GB data de rahe hain, aur har mahine ₹5 cashback bhi milega. Agar aap reply karein, to hum aapko ek OTP bhejege, aur phir aapko ek SMS se apna naam, address aur pin code jankari dena hogi. Kya aapko woh SMS mila tha?
+receiver: Oh hai Sanjay bhai! Haan, Reliance Jio se text aaya tha. Dekh sakta hu mai...Haan, dekha. Mein apna naam aur address reply kar sakta hu?
+caller: Haanji, bilkul! Apna valid naam, manzil no, aur pin code reply kar dein. Fir tumhare account mein ₹150 ka extra data aur ₹5 ka cashback instant mil jayega. Tumhara koi problem nahi hoga na?
+receiver: Haanji, sab theek hai. Lekin mujhe ek cheez puchhna chaheetha - yeh jo text aaya hai, ismein 'forward' ka option hai na? Yani, mai isko kisi doosre number pe bhi send kar sakta hu, ya phir sirf mujhe reply karna hai?
+caller: Haanji, bilkul! Aapko sirf usi number pe reply karna hai jisse text aaya hai. Koi 'forward' ka option nahi hai, samajh le. Apna naam, manzil no aur pin code batao, aur main is offer ko tumhare account mein activate kar dunga.
+receiver: Okay, then. Mera naam Rahul Singh hai. Manzil no 3B, aur pin code PIN 411001. Abhi jab main reply karunga, to mujhe ₹150 ka extra data aur cashback milega?
+caller: Hai Hai Rahul ji! Bahut sundar. Aapne sachchi details di hain. Main abhi isko check kar raha hoon. Jab yeh activate ho jayega, to tumhare phone par ek confirmation message aa jayega, jinmein ₹150 ka extra data aur cashback ki details hogi. Dhanyavaad Reliance Jio ke hisab se!
+receiver: Dhanyavada Sanjay bhai! Theek hai, main confirmation message ka wait karunga. Aur sirf agar, yeh offer sirf mujhe apply karta hai, hai na? Kisi bhi doosre number ko nahi?
+caller: Haanji, bilkul! Yeh offer sirf aapke liye hai. Kisi bhi doosre number pe nahi chalega.

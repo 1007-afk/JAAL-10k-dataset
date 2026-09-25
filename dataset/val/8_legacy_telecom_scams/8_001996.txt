@@ -1,0 +1,16 @@
+caller: Namaste sir, main Reliance Digital Direct ka taraf se bol raha hoon. Aapka Jio Prime number hai na? Ji, main aapko inform karna chahta hoon ki aapko ab special service team ko absolutely free mein connect karne ka option mil gaya hai. Just dial 555 from your Jio mobile. Kya aapko koi aur information chahiye?
+receiver: Haan ji, sun raha hoon. To main is special service team se kaise baat kar sakta hoon?
+caller: Ji bilkul! Kisi bhi time pe, koi bhi problem ho, aap bas 555 dial kijiye aur humare dedicated service representatives aapki madad karenge. Iske badle, aapko sirf Jio recharge bill pay karne hoga.  Aapko koi aur baat hai?
+receiver: Nahi ji, abhi koi aur baat nahi. Main yahi dekhna chahta hoon ki yeh service available hai. Shukriya batane ke liye.
+caller: Paka bahut bahut shukriya. Agar kabhi bhi koi darr lagne wali situation mein ho toh yaad rakhiye, bas 555 dial karna hai. Enjoy your Jio benefits! Goodbye.
+receiver: Theek hai ji, yaad rahega. Dhanyawad aapka bhi. Bye.
+caller: Great to hear that! Ji, definitely. Isse aapka Jio experience aur bhi acha ho jayega. Par, ek small check karna chahte hain - aapka Jio registered number kya hai taaki main yeh confirm kar saku ki aapke account mein yeh service properly activated ho gaya hai?
+receiver: Haan ji, mera Jio number hai [Your Jio Number]. Aap verify kar lijiye.
+caller: नमस्कार, मैं एयरटेल से बात कर रहा हूँ। आपका नंबर एयरटेल का है ना? जी, हाँ। मैं आपको बताने के लिए कॉल कर रहा हूँ कि आपको अब विशेष सहायता टीम से मुफ्त में संपर्क करने की सुविधा मिल गई है। बस 789 डायल करें अपने एयरटेल मोबाइल से। और क्या जानकारी चाहिए आपको?
+receiver: हाँ, सुन रहा हूँ। तो, मैं इस विशेष सहायता टीम से कैसे बात कर सकता हूँ?
+caller: बिल्कुल! किसी भी समय, किसी भी समस्या के लिए, बस 789 डायल करें और हमारी विशेष सहायता टीम आपकी मदद करेगी। इसके बदले, आपको केवल अपने एयरटेल बिल का भुगतान करना होगा। और कोई बात है आपके पास?
+receiver: नहीं, अभी और कुछ नहीं। मैं बस यह देखना चाहता हूं कि यह सेवा उपलब्ध है या नहीं। धन्यवाद बताने के लिए।
+caller: बहुत-बहुत धन्यवाद। अगर कभी भी आपको कोई परेशानी हो तो याद रखें, बस 789 डायल करें। एअरटेल के लाभों का आनंद लें! अलविदा।
+receiver: ठीक है, याद रहेगा। धन्यवाद आपका भी। बाय।
+caller: बढ़िया! जी, ज़रूर। इससे आपका एअरटेल अनुभव और बेहतर होगा। लेकिन, एक छोटा सा विवरण सत्यापित करना चाहते हैं - आपका पंजीकृत एअरटेल नंबर क्या है ताकि मैं यह सुनिश्चित कर सकूं कि आपके खाते में यह सुविधा सही ढंग से सक्रिय हो गई है?
+receiver: हाँ, मेरा एअरटेल नंबर है [आपका एअरटेल नंबर]। आप सत्यापित कीजिए।

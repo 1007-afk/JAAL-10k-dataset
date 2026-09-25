@@ -1,0 +1,9 @@
+caller: Namaste! Main Ankit, Zomato Customer Care se bol raha hoon. Aapke Zomato account mein kuch activity dikhi gayi hai jo suspicious lag rahi hai.
+receiver: Kya hua? Kuch problem hai?
+caller: Ji, sir/madam. Aapke naam par ek order place kiya gaya hai, jisse aapne approve nahi kiya hai. Order amount ₹2800 hai. Isko cancel karne ke liye, mujhe aapke OTP ki zaroorat hogi.
+receiver: OTP? Zomato kabhi OTP maangta hai?
+caller: Haan sir/madam, security ke liye. Is order ko block karne aur aapke account ko safe rakhne ke liye OTP mandatory hai. OTP SMS karein.
+receiver: Theek hai, bhijwao OTP.
+caller: Theek hai. Ab OTP aane ke baad, mujhe bataiye. Jaise hi OTP milega, mujhe SMS karein, aur main order ko cancel kar dunga.
+receiver: Abhi aaya OTP, 123456.
+caller: Thank you! Aapka account abhi safe hai.  Ab is order ko confirm karne ke liye, mujhe ek chhoti verification fee ₹500 deposit karne ke liye bolega. Payment karne ke liye, koi link share karunga.

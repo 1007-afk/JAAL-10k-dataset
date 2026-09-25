@@ -1,0 +1,8 @@
+caller: Namaste, main Bharat Customs se Inspector Verma bol raha hoon. Aapke naam par ek parcel Jaipur airport par aaya hai, lekin usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Yeh kya keh rahe hain aap? Main to kabhi parcel order bhi nahi kiya.
+caller: Dekhiye Madam, yeh parcel international courier se aaya hai aur usmein banned drugs mili hain. Yeh ek serious matter hai. Aapko ise settle karna hoga, warna aapki arrest warrant nikal jayegi. Aapko ₹50,000 kaatne padenge.
+receiver: ₹50,000? Yeh galat ho raha hai! Main ek student hoon, mere paas itna paisa bhi nahi hai. Aur aap logon ko parcel ki investigation karni chahiye, arrest warrant kyun nikal rahe hain?
+caller: Main pata karta hoon ki aap student hain, lekin rules hai rules. Yeh legal procedure hai. Paisa online transfer karke dikhaiye, tabhi case band hoga. Main aapko video call par bhi connect karunga taaki koi doubt na ho.
+receiver: Video call? Haan, video call karo. Main dekhna chahti hoon ki main kis se baat kar rahi hoon aur yeh sab sach hai ya nahi. Lekin pehle mujhe koi official document dikhaiye, jaise ki arrest warrant ya parcel receipt.
+caller: Thoda intezaar karein, main aapko document bhejna chahta hoon. Par pehle paisa transfer karna hoga, taaki hum aapki security verify kar sakein. Account number hai 1234567890, IFSC code: BARB0000001. Jaldi karein, time bahut kam hai.
+receiver: Yeh account number mujhe suspicious lag raha hai. Main koi bhi paisa transfer nahi karungi. Main police complaint karungi agar aapko

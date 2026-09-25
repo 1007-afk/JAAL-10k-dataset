@@ -1,0 +1,8 @@
+caller: Namaste! Can you hear me properly? We’re offering a special opportunity – a personalized travel planning service, completely free! We know exactly where you need to go for your next vacation, based on your interests. Just reply ‘EXPLORE’ to 67890 and we'll send you some amazing options. If you change your mind, simply text ‘CANCEL’ to 67890. Are you ready to explore some exciting destinations?
+receiver: Namaste, kaan mein nahi aa raha hai. Kya bata rahe hain aap? Main toh travel agency ke liye sign up nahi kiya hai.
+caller: Achaa, sorry for that misunderstanding. There has been a slight glitch in our system. You weren’t enrolled in anything you didn’t choose. But this incredible offer is still available! Send us a quick message to 67890. And if you really don’t want it, just type ‘NO’ to 67890. Don't worry, no pressure at all.
+receiver: Suno, mujhe koi travel agency nahi chahiye. Main toh ek retired teacher hoon, aur mujhe travel karne mein bhi interest nahi hai. Please mujhe issi number pe dobara calls mat kijiye. Main abhi 'NO' text kar raha hoon, please confirm ki mera request reject ho gaya hai.
+caller: Haan, 'NO' aaya hai. Your request has been rejected. Absolutely no further contact will be made. Thank you for your cooperation.
+receiver: Theek hai, thank you. Bas, yeh sab bakwaas nahi chahiye tha. Achha, phir bye.
+caller: Thanks for letting us know. We appreciate your business. Have a wonderful day!
+receiver: Theek hai, thanks. Bas, yeh sab bakwaas nahi chahiye tha. Achha, bye.

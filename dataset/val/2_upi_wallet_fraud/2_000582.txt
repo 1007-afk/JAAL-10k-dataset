@@ -1,0 +1,11 @@
+caller: Namaste! Main BharatPay se Rahul bol raha hu. Aapka naam Mr. Verma hai na?
+receiver: Haan, main Verma hu. BharatPay? Kya baat hai?
+caller: Sir, ek bahut achchi offer aa rahi hai. BharatPay ne ek lucky draw mein aapko select kiya hai, aur aapko ₹10,000 cashback milne wala hai.
+receiver: ₹10,000? Wow! Mujhe cashback kaise milega?
+caller: Sir, cashback claim karne ke liye aapko sirf ₹999 ka processing fee bhar dena hai. Yeh fee BharatPay wallet mein deposit karkein.
+receiver: ₹999 fee? Aur yeh wallet mein deposit karna hai? Batao, wallet number kya hai?
+caller: Haan sir, aap BharatPay app mein 'Add Money' section mein jayen, phir wallet number [Fake Wallet Number] enter karein aur ₹999 deposit karein. Cashback apne aap aap jayega.
+receiver: ₹999? Aur main verify kar sakta hu yeh wallet number BharatPay ka hai?
+caller: Sir, yeh direct BharatPay ka wallet hai. Koi doubt mat lena. Jaldi karein, offer limited time ke liye hi hai!
+receiver: Okay, wait kar raha hu. Mujhe BharatPay app check karna hai.
+caller: Sir, aapko OTP milega, woh bhi bhar denaa. Verification ke liye.

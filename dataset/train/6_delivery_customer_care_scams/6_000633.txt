@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, main Zepto customer support se bol raha hoon. Aapke recent order mein ek problem aa gaya hai. Payment gateway mein technical error ho gaya hai, isliye aapko delivery se pehle ek verification process se guzarne ki zarurat hai.
+receiver: Zepto se? Kya problem hai? Mujhe toh koi notification nahi mila. Aur verification ka kya matlab hai?
+caller: Sir, system automatic hai, notification sabko nahi jaata. Verification ke liye mujhe aapka OTP chahiye, jo aapke registered mobile number par aayega. Yeh sirf 2 minute ka kaam hai, please cooperate karein.
+receiver: OTP? Lekin Zepto toh COD accept karta hai. Koi OTP nahi maangta. Yeh kuch gadbad lag rahi hai.
+caller: Sir, yeh ek new security protocol hai, jo hum logon ne recently implement kiya hai. Fraud se bachne ke liye. Jaldi karein, otherwise aapka order cancel ho sakta hai. Please send the OTP.
+receiver: Fraud? Aur cancel hoga order? Theek hai, ek minute. Mein check karta hoon. Mein police ko call karunga agar kuch bhi gadbad hui toh!
+caller: Sir, please hurry! Time is running out! Just send the OTP and we will sort everything out.

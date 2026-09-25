@@ -1,0 +1,7 @@
+caller: Namaste! Mein Swiggy Customer Care se Sunil bolta hoon. Aapke naam se ek order aaya hai, lekin payment mein kuch problem ho rahi hai. ₹2999 ka order hai, lekin ₹99 verification ke baad hi confirm hoga.
+receiver: Swiggy se? ₹2999 ka order? Mujhe toh koi order yaad nahi hai. Aur ₹99 verification? Yeh kya hai?
+caller: Haan ji, madam. System mein dikh raha hai. Aapke account ko secure karne ke liye ₹99 OTP verification ke baad confirm karna hoga. ₹99 sirf temporary hai, security ke liye.
+receiver: OTP? Koi OTP nahi dena mujhe. Swiggy toh aise nahi karta. Mujhe doubt ho raha hai.
+caller: Madam, delay hone se aapka order cancel ho sakta hai. Yeh security process hai, Swiggy ke rules ke hisaab se. Aapka order urgent hai, please verify karo. Aapka favourite restaurant se hai.
+receiver: Yeh bahut suspicious lag raha hai. Mein Swiggy ke official number se check karti hoon. Aap ka number check karti hoon.
+caller: Madam, time barbaad mat karein! Order cancel ho jayega. Please ₹99 submit karo aur apna OTP share karo!

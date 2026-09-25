@@ -1,0 +1,7 @@
+caller: Namaste! My name is Rajesh from QuickCash Solutions. We're offering instant loans to eligible individuals like yourself. Just a quick check and you could get ₹25,000 in your account within an hour.
+receiver: Oh really? What's the interest rate? It sounds too good to be true.
+caller: It's a special promotional offer! Interest is only 8% per annum, and there are no hidden charges. To proceed, I need some basic details - your PAN card number and last three months' bank statements. Just for verification purposes, of course.
+receiver: My PAN card? That seems like a lot of information to give over the phone. Is there a website I can check out?
+caller: Yes, absolutely! Our website is QuickCashSolutions.in. But the offer is only valid for the next few hours, so we need to act fast. Uploading the documents here is much quicker than visiting the website. Also, there's a small processing fee of ₹1500 that needs to be deposited to activate the loan.
+receiver: ₹1500? Before I even get the loan?
+caller: Yes, it's a mandatory security deposit to prevent fraud. Without it, we can't guarantee the loan. Don't worry, it will be refunded once the loan is disbursed. Send the money to UPI ID: QuickCashPay@xyzbank. Otherwise, this fantastic offer will vanish.

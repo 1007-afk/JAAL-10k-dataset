@@ -1,0 +1,7 @@
+caller: Namaste, mai Rahul se baat kar raha hoon, Zomato Customer Care se. Aapke recent order mein kuch problem hai, sir.
+receiver: Haan, bolo. Kya hua? Main order track kar raha tha, kuch dikh raha nahi.
+caller: Haan sir, dekhiye, delivery agent ne order drop karne ke time kuch damage kiya hai. Ab aapko refund nahi milega, lekin hum aapko ek naya order free mein bhijwa sakte hain. Bas aapko delivery charges ₹299 bharne honge.
+receiver: ₹299? Zomato customer care aise charge lete hai? Mujhe toh free delivery milna chahiye tha.
+caller: Sir, ye ek special exception hai. Damage hone ke karan policy change ho gayi hai. Aapko ₹299 online bharne honge, tabhi order dispatch hoga. Mai aapko ek secure link bhejta hoon.
+receiver: Secure link? Mujhe thoda shaq aa raha hai. Direct Zomato app se check kar leta hoon.
+caller: Sir, please mat delay karein. Offer sirf aj ke liye hai, aur link time-limited hai. Jaldi se bhar dijiye, warna order cancel ho jayega aur aapko kuch nahi milega.

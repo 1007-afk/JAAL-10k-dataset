@@ -1,0 +1,14 @@
+caller: Tumhara broadband dekho, ek badi problem hai. Maine tumhein call kiya tha, ya fir tumne mujhe call kiya tha?
+receiver: Haan ji, tumne mujhe call kiya tha. Internet chal hi nahi raha, aur calls bhi drop ho rahe hain.
+caller:  Achaa, suno! Main tumhe ek quick solution deta hu. Ek website link bhejna hoga, click karo aur verify karo.  Yeh tumhare internet ko stable karega.  Tumko message mila tha na?
+receiver: Haan, message mila tha. Link par click kar diya.  Dekh sakte hain kya hota hai.
+caller:  Bahut achha!  Verification complete hua.  Humare system mein pata chala hai ki tumhare router mein ek small glitch hai.  Isko fix karne ke liye, tumhein ek new software update download karna hoga.  Us update ke liye, tumko ek Amazon login page open karna hoga.  Amazon account chahiye, sirf ek minute ke liye.  Bas tumhara username aur password enter karo.  Yeh update tumhari internet speed ko badhayega.  Kahan hai wo Amazon login page?
+receiver: Amazon login? Yeh thodi scary lag rahi hai.  Kitni speed badhegi?  Aur ismein kitna time lagega?
+caller: आप का नेटवर्क का मुद्दा हल करने के लिए मैंने आपको कॉल किया था। क्या आपकी कनेक्शन की समस्या अभी भी आ रही है?
+receiver: हाँ जी, बिल्कुल आ रही है। दरअसल, कॉल ड्रॉप हो रहा है बार-बार, और इंटरनेट तो चल ही नहीं रहा सही से। आपने जो पहले किया था, उससे कुछ खास फर्क नहीं पड़ा।
+caller: ओह, मुझे यह सुनकर बहुत दुख हुआ! पिछली कार्रवाई पूरी तरह से ठीक नहीं हुई। चिंता न करें, हम यह मुद्दा पाक्का सॉल्व करेंगे। अभी, एक और क्विक फिक्स ट्राई करते हैं। एक लिंक मैं आपको मैसेज में भेज रहा हूँ। अगर आप उस पर क्लिक करके एक छोटा सा वेरिफिकेशन कर दें, तो हमें पता चलेगा कि नेटवर्क में क्या इश्यू है। यह आपके इंटरनेट को भी स्टेबलाइज करेगा। क्या आपको मैसेज मिला?
+receiver: हाँ जी, मैसेज मिल गया। लिंक पर क्लिक कर देती हूँ अबी। देखते हैं इस से कुछ होता है कि नहीं। थोड़ा परेशान हो गया हूँ कॉल ड्रॉप होने से।
+caller: बहुत अच्छा, धन्यवाद! आप वो लिंक पर क्लिक करके वो वेरिफिकेशन स्टेप्स फॉलो करिए। बहुत सिंपल है, बस कुछ डिटेल्स फिल करनी होंगी। ये हमें एक टेक्निकल डेटा देगा जिससे हम पता लगा पाएँगे कि आपके नेटवर्क में प्रिसिसीली क्या गड़बड़ है। और हां, इससे आपका इंटरनेट भी पहले से बेहतर चलेगा। लेट मी नो जब आप वो कर लें, फिर हम चेक करेंगे।
+receiver: जी, मैंने वेरिफिकेशन कर दिया है। डिटेल्स फिल कर दी हैं। अब बताइए, क्या करना है आगे?
+caller: ग्रेट! धन्यवाद फॉर डूइंग दैट। और वो वेरिफिकेशन से, हमारे पता चला है कि आपके नेटवर्क में एक छोटा सा कॉन्फ़िगरेशन इश्यू है। इसको फ़िक्स करने के लिए, हमें एक क्विक अपडेट रन करना होगा। इस अपडेट के लिए, हम आपको एक स्पेशल लिंक भेजेंगे, जिसमें आपको एक नई AWS अकाउंट क्रिएट करना होगा। डोंट वरी, दिस इज ए स्टैंडर्ड प्रोसीजर टू एनश्यूर योर नेटवर्क इज़ रनिंग एट इट्स बेस्ट। इसके लिए आपको कुछ बेसिक डिटेल्स फिल करनी होंगी, जैसे आपका नाम और ईमेल आईडी। क्या आपको वो लिंक मिल गया है?
+receiver: AWS अकाउंट? ये थोडा कॉम्प्लेक्स लग रहा है। क्या ये सैफ है? और इस लिए कितना टाइम लगेगा? मेरे पास ज्यादा टाइम नहीं है अभी।

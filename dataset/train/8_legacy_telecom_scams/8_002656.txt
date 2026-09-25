@@ -1,0 +1,10 @@
+caller: Namaste! Kaise ho tum? Haan, mera bhi ek bahut busy hafta tha, sab thamaana tha. Tumhari baat sunne se toh achha lagega.  Aapse ek badi problem hui hai.
+receiver: Achaa? Mein bhi thik hoon, thank you. Kyon? Kya hua?  Tumhara number mere phone mein save hai.
+caller: See, maine ek online course sign kiya tha, "ShineBrightSkills".  Maine thought hai ki ye mujhe career mein madad karegi, lekin ab pata chala hai ki yeh fraud hai.  They are asking for money for premium features.  Mujhe abhi cancel karna hai.
+receiver: ShineBrightSkills?  Haan, maine bhi suna hai.  Kuch logon ne bola ki yeh acha hai, kuch ne kaha ki yeh bakwaas hai.  Okay, okay, batao kya karna hai.  Mere paas technical skills hai, tumse poochh lunga.
+caller:  Yaar, they are sending me messages through "QuickLearnAlerts" app. They say that my progress is stuck because I haven’t paid for the upgrade.  It's all lies!  I don’t want to pay anything. Can you please help me delete my account? It's giving me a lot of anxiety.
+receiver: QuickLearnAlerts?  Arre, woh toh irritating hai!  Main dekh sakta hun.  Dekho, ye website par jake account settings mein jaate hain.  Then find the “Cancel Subscription” option.  It might be hidden somewhere.
+caller:  Haan, main try kar rahi hu, lekin pata chal nahin raha.  Mujhe bohot worry hona shuru ho gaya hai.  Yeh company waali fake promises kar rahi hai.  Iske karan mujhe bahut tarasti hai.  QuickLearnAlerts.com, correct?
+receiver: Haan, QuickLearnAlerts.com hai.  Chal, main deta hun, slowly slowely.  Don’t panic!  Main dekh raha hun… Okay, I found it!  It's under ‘Billing Information’. Click on that, then click 'Cancel'.  It will ask you some questions, just answer them truthfully.
+caller:  Oh, God!  Thank you so much!  Main kar rahi hu…  Mujhe abhi rahat felt.  Yeh app toh bahut frustrating hai.  Main abhi cancel kar dungi, aur phir tumko message karungi.  Thank you again, truly!
+receiver:  Arre, koi baat nahi!  Happy to help.  Now, relax and enjoy your day.  And don't worry about those fake promises.  Let's talk later, okay?

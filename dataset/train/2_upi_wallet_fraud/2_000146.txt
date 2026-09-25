@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rupesh bolta hoon, PaySafe India se. Aapke PaySafe wallet mein ₹10,000 ka transaction try kiya gaya hai, jo fail ho gaya. Security ke liye, aapko verify karna hoga.
+receiver: ₹10,000? Fail ho gaya? Kyun? Main toh koi transaction nahi kiya.
+caller: Haan ji, ek unusual transaction attempt hua tha. Scam se bachne ke liye, hum verify karwa rahe hain. Aapko ek link pe click karna hai: paysafe.verify.online/security.
+receiver: Yeh link mujhe zyada theek nahi lag raha. PaySafe ka official link toh alag hi hota hai na?
+caller: Sir/Madam, yeh ek temporary security link hai. Is se verify nahi karenge toh aapka wallet block ho jayega aur ₹10,000 bhi miss ho jayega. 15 minute mein block ho jayega! Jaldi kijiye!
+receiver: Account block ho jayega? ₹10,000 miss ho jayega? Acha, toh doosra koi option hai kya?
+caller: Sir/Madam, koi aur option nahi hai. Yeh system automatic hai. Abhi verify kar dijiye. Account safe rahega aur ₹10,000 bhi. Link: paysafe.verify.online/security. Abhi click kijiye!

@@ -1,0 +1,7 @@
+caller: Namaste, main Paytm Payments Bank se Rohit bol raha hoon. Sir, aapke account mein kuch suspicious activity detect hui hai, isliye hum aapke account ki KYC update karne ke liye call kar rahe hain.
+receiver: Kya? Suspicious activity? Mujhe toh kuch pata nahi tha. KYC update karni hai?
+caller: Haan sir, security ke liye zaroori hai. Aapko apna Aadhaar Card number aur ek OTP jo aapke registered mobile number pe SMS karega, bataana hoga. Tabhi account safe rahega.
+receiver: Arre bhai, mujhe toh kabhi OTP nahi mila. Aur Aadhaar number bhi phone pe batauna nahi chahiye. Ye theek nahi lag raha hai.
+caller: Sir, please time waste mat karein. Agar aap KYC update nahi karenge toh aapka account suspend ho sakta hai. Aapka loss bhi ho sakta hai. Just Aadhaar number aur OTP bata dijiye.
+receiver: Account suspend? Aur loss bhi? Sir, ek minute rukiye, main Paytm app check karta hoon.
+caller: Ji sir, jaldi karein. Account suspend hone se pehle details bata dijiye. Aapka naam bataiye aur birthday bataiye.

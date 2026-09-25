@@ -1,0 +1,11 @@
+caller: Hello! Fantastic news! You’ve been chosen to participate in a ‘Golden Harvest Rewards’ lottery – 750 rupees worth of exclusive Golden Harvest rice coupons! To claim your prize, simply reply ‘GHR’ to 55555. Details are available at www.harvest-rewards.in.  Are you excited to potentially win some delicious rewards?
+receiver: Hello! Oh my goodness, 750 rupees in rice coupons? That sounds incredible!  I just need to text 'GHR' to 55555 to join, correct? And the website has more information at www.harvest-rewards.in. Yes, absolutely, let’s give it a shot! Sounds like a great opportunity.
+caller: Wonderful! Let’s proceed with the first step. For your initial question: What's your preferred type of cooking oil? This helps us tailor the rewards based on your tastes.
+receiver: Right, first question! My favorite cooking oil is probably Sunflower Oil. It's very versatile and works well in many dishes.
+caller: Sunflower Oil, perfect! Many of our lucky recipients enjoy using that. Now, moving onto the second question. Could you tell me which Bollywood film released this year did you find most captivating?
+receiver: This year? Hmm, let me think… I thoroughly enjoyed ‘Jawan’. The action sequences were breathtaking, and the storyline was truly compelling.
+caller: ‘Jawan’, excellent choice! Very popular amongst our participants. One moment please, before we get to the third question. Are you familiar with the concept of ‘sustainable farming’?
+receiver: Sustainable farming? Yes, of course. It's all about environmentally friendly agricultural practices, isn’t it?
+caller: Precisely! Finally, if you could meet any historical figure, who would it be and why? Choose anyone - from any era.
+receiver: If I had to pick one, I’d choose Marie Curie. She was such an inspiring scientist, and her dedication to research was remarkable. Meeting her would be an absolute honor.
+caller: Marie Curie, a wonderful selection! Thank you for participating. We will contact winners shortly.

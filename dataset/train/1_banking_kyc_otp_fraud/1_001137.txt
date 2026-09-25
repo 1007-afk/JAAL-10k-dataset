@@ -1,0 +1,8 @@
+caller: Hello, is this [Receiver's Name]? This is Akash from ICICI Bank’s fraud prevention team. We've detected a suspicious login attempt on your account from a device in Chennai.
+receiver: Haan, boliyega. Chennai se login attempt? Main toh Delhi mein hoon. Kuch toh gadbad lagi.
+caller: Yes sir, exactly. That’s why we're calling. To secure your account, we need to quickly verify a few details. We need you to share the OTP we’ve just sent to your registered mobile number.
+receiver: OTP? Sir, bank kabhi OTP phone par maangta hai? Mujhe toh seedha message milna chahiye tha. Aur Chennai ka zikar kar rahe hain? Mai toh kabhi Chennai nahi gaya.
+caller: Sir, due to the urgency of the situation and the potential for unauthorized access, we're taking extra precautions. This is standard procedure to prevent significant losses. Just share the OTP, and we'll block the suspicious login immediately. Think of it as protecting your hard-earned money.
+receiver: Paagal ho gaye ho kya? OTP share karne ko? Kuch bhi bol rahe ho. Meri account ki details maine kabhi bhi phone par nahi dungi. Main police mein complaint kar dungi agar koi aur attempt kar raha hai.
+caller: Sir, please don’t be alarmed. We understand your caution, but time is of the essence. Without confirming the OTP, we cannot guarantee the safety of your funds. We have your Aadhaar card details here, confirmed with UIDAI. Without verifying, we might have to freeze your account as a safety measure.
+receiver: Aadhaar card details? Yeh mat bol, yeh toh bilkul fraud hai! Mai abhi police ko phone karta hoon. Tum log mujhe dhamki de rahe ho aur personal details maang rahe ho.

@@ -1,0 +1,20 @@
+caller: caller: Hanji hello, good evening! This is an urgent call regarding a prize you've won! receiver: Ji kon bolre h?
+receiver: Aapne prize jeeta hai? Kiska prize? Aur aap kaun hain bolne wale?
+caller: cammer: Hanji hello, good evening! This is an urgent call regarding a prize you've won!\nreceiver: Ji kon bolre h?\nreceiver: Aapne prize jeeta hai? Kiska prize? Aur aap kaun hain bolne wale?
+receiver: Arey, kiska prize? Mujhey toh kuch pata nahi. Aap apna naam bataye pehle, kaun hain aap?
+caller: scammer : Hanji hello, good evening! This is an urgent call regarding a prize you've won! receiver: Ji kon bolre h? receiver: Aapne prize jeeta hai? Kiska prize? Aur aap kaun hain bolne wale? receiver: Arey, kiska prize? Mujhey toh kuch pata nahi. Aap apna naam bataye pehle, kaun hain aap?"
+}
+```
+
+```json
+{
+  "message": "scammer : Hanji, yeh aapke liye hai! Aapke mobile number ne ek £2,000 ka Caller Prize jeeta hai 02/06/03 ko. Yeh dusri koshish hai aapse contact karne ki! receiver: £2,000? Kaisa prize? Maine toh kuch register nahi kiya. Aap kya bol rahe hain?"
+}
+```
+
+```json
+{
+  "message": "scammer : Ji, yeh bilkul asli hai! Aapke number par yeh bonus nikla hai. Aapko jaldi se call back karna hoga 09066362220 pe taaki aap apna prize claim kar sakein. Yeh sirf aapke liye hai aur time nikal raha hai!
+receiver: 09066362220? Yeh kaunsa number hai? Aur yeh 'bonus' kya hota hai? Aap pehle apna naam aur company ka naam bataiye.
+caller: scammer : Dekhiye, naam se zyada zaroori hai ki aap apna prize jeetein! Yeh ek promotional offer hai. Call karna zaroori hai taaki hum aapko bata sakein ki kaise claim karna hai. Agar aap abhi call nahi karenge toh yeh offer khatam ho jayega. Please jaldi se 09066362220 pe call karein.
+receiver: Promotional offer? Kya promotional offer hai ye? Mujhe koi interest nahi hai aise promotional offers mein. Agar aap company ka naam nahi bata sakte, toh main baat nahi karunga. Aur ye 09066362220 jo number aapne bataya hai, ye kaisa number hai? Ekdum fake lag raha hai sab kuch. Phir se bol raha hu, apna naam batao aur company ka naam. Varna main call cut kar raha hu.

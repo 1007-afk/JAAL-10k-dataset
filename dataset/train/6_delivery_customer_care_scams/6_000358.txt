@@ -1,0 +1,6 @@
+caller: Namaste! Main Ankit Verma, Bluebird Logistics se baat kar raha hoon. Aapka ek parcel, order number BL789012, delivery ke liye tayyar hai, lekin address mein kuch confusion hai. Kindly confirm karein?
+receiver: Oh, kya baat hai? Mujhe toh koi order yaad nahi aa raha. Mainne toh kuch days pehle kuch order kiya tha, par yaad nahi aa raha. Kya parcel ka naam batayenge?
+caller: Haan ji, receiver naam hai Raj Patel. Parcel hai ek smart watch ka. Delivery address mein kuch missing hai, pin code incomplete hai. Verify karne ke liye, please apna OTP share karein jo aapko SMS mein mila hai. Security ke liye zaroori hai.
+receiver: OTP? Par mainko toh koi OTP mila hi nahi. Aur main Raj Patel nahi hoon. Mere naam mein Patel nahi hai. Yeh to kuch gadbad lag rahi hai.
+caller: Sir, please don’t worry. Yeh security protocol hai. OTP se hum verify kar sakte hain ki aap sahi owner hain. Bina OTP ke parcel deliver nahi ho payega. Check karein apna inbox aur spam folder bhi. Number hai 9876543210.
+receiver: Acha, ek minute rukiye. Main check karta hoon. Par mujhe abhi tak koi message nahi mila. Agar OTP nahi milega toh parcel kaise deliver hoga?

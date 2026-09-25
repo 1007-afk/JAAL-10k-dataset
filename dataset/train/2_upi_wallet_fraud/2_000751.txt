@@ -1,0 +1,6 @@
+caller: Hello sir, this is BharatPay customer care. We have noticed some suspicious activity on your BharatPay account. To secure your funds, we need you to verify your UPI ID immediately.
+receiver: Oh really? Suspicious activity? What happened? I haven’t done anything unusual.
+caller: Yes sir, a few failed transaction attempts were made from your account. For verification, we need you to send ₹50 as a test transaction to the number 8690543210. This is a standard security protocol.
+receiver: ₹50? Why do I have to send money? Can't you verify it some other way? Seems a bit odd.
+caller: Sir, it's a one-time verification process. We need to ensure you are the legitimate owner of the account. This is to prevent any unauthorized access. Send ₹50 now and we’ll confirm everything. Don’t delay, sir, for security reasons.
+receiver: Okay, fine. Let me do that. I'm sending it now. But I’m writing down this number just in case.

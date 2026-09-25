@@ -1,0 +1,8 @@
+caller: Hello? Is this Anjali? I'm calling from SwiftLoan. We’ve pre-approved you for a personal loan – a fantastic opportunity to clear off some debts!
+receiver: SwiftLoan? I don’t think I applied for a loan. Who is this?
+caller: Arre, don't worry, it’s just a quick check. You filled out a form online a few weeks ago. It’s a simple process. Just need to confirm a small processing fee of ₹75 to activate your account.
+receiver: A processing fee? That’s unusual. I don’t remember any fee being mentioned. Can you tell me more about this form I supposedly filled out? And what’s your company registration number?
+caller: Look, Anjali, time is running out. The offer expires today. Just send the ₹75 to the UPI ID I'll give you. Once that’s done, we’ll transfer ₹50,000 directly to your account. Don't miss out on this chance! It's UPI ID is quickloan75@axis.
+receiver: ₹50,000 with just a ₹75 fee? That sounds incredibly suspicious. I’m not comfortable with this. I’m going to report this number.
+caller: Arey, Anjali! Don't be like that. It's a limited-time promotion. We are just checking if you are serious about getting a loan. Just a quick UPI payment and then you get the money. Please, cooperate. We will send you details of your approval amount too.
+receiver: I'm hanging up now. You're clearly trying to scam me. Goodbye.

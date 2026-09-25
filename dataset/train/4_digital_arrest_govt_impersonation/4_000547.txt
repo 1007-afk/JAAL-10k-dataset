@@ -1,0 +1,8 @@
+caller: Namaste Sir! Main Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items mile hain.
+receiver: Illegal items? Mere naam par? Mujhe toh koi parcel expected nahi tha. Kya hota hai?
+caller: Ji Sir, parcel mein suspect drug substances the. Abhi parcel hold kar rahe hain, aur aapko is matter mein cooperation karna hoga. Agar aap cooperation karenge, toh parcel release ho jayega aur case close ho jayega.
+receiver: Cooperation? Kasie cooperation karna hai? Mujhe kuch samajh nahi aa raha hai. Aur parcel kahaan hai?
+caller: Sir, cooperation ka matlab hai aapko ek small fine pay karna hoga. Yeh fine ₹15,000 hai. Fine pay karte hi parcel aapko release kar denge. Aap WhatsApp pe payment details send kar sakte hain.
+receiver: ₹15,000? Itna zyada? Aur WhatsApp pe payment? Yeh thoda doubtful lag raha hai. Main Police se baat kar sakta hoon?
+caller: Sir, aapko koi tension lene ki zarurat nahi hai. Hum legal procedure follow kar rahe hain. Police ko involve karne se matter aur complicated ho jayega. Aur agar aap abhi payment nahi karte, toh case aage badh jayega, aur fine aur bhi zyada ho sakta hai. Payment karte hi parcel aapke address par deliver ho jayega.
+receiver: Fine aur zyada ho sakta hai? Okay, ek minute…main apne bank account check karta hoon.

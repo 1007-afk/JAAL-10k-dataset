@@ -1,0 +1,9 @@
+caller: Hello, this is Inspector Verma from the Delhi Customs Department. We’ve intercepted a package registered to your address containing suspicious items.
+receiver: Delhi Customs? Kya hua? Package? Main toh koi package order nahi kiya tha.
+caller: Sir, preliminary investigations suggest it contains unregistered electronic devices and components linked to an illegal import operation. We need to verify your involvement. Please provide your PAN card details for immediate cross-referencing.
+receiver: PAN card? Lekin yeh kaise? Main toh ek sadha insaan hoon. Koi illegal kaam nahi karta. Aur koi parcel ko check kar sakte ho kyun nahin?
+caller: Sir, standard procedure requires verification against national databases. Failure to cooperate will unfortunately lead to further legal proceedings, including potential questioning. A fine of 50,000 rupees will also be levied if you don't cooperate.
+receiver: Paachapachaasaa hazaar? Yeh bahut zyada hai! Mujhe logon se baat karne ki jarurat hai. Police station ka address do, main jaake baat karta hoon.
+caller: Sir, this is a sensitive matter and we operate discreetly. For your protection and to avoid media attention, we handle these cases privately. Transfer 25,000 rupees to the account number provided to clear the initial investigation costs.
+receiver: Account number? Sir, yeh scam lag raha hai. Main police mein report karunga.
+caller: Sir, are you sure about that? Consider the consequences. We are monitoring all communication. Cooperate, and this can all be resolved quickly and quietly. Send the money now to avoid serious trouble.

@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit Sharma se baat ho rahi hai, Paytm se. Humara ek naya cashback offer hai jismein aap ₹750 cashback kama sakte hain sirf apna bank account link kar ke.
+receiver: Oh, really? Paytm mein? I’m checking my app now. How does it work?
+caller: Haanji! Bahut easy hai. Aapko sirf apna bank account Paytm mein add karna hai aur ek transaction karna hai. Cashback instantly milega! But, registration complete karne ke liye, mujhe aapka OTP chahiye.
+receiver: OTP? For adding my bank account? That sounds a bit risky.
+caller: Bilkul safe hai! OTP sirf verification ke liye hai, taaki hum confirm kar sakein ki account aapka hi hai. Please send OTP WhatsApp par. Fast, offer limited time ke liye hai.
+receiver: Okay, wait a minute. Let me see… the OTP is 123456. I’ve sent it to your WhatsApp number.
+caller: Thank you! Ab ₹750 cashback aapke Paytm wallet mein transfer ho gaya hai! Enjoy! Ab aapka account activate ho gaya hai, aur aap naye offers ke liye ready hain.

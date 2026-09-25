@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We are calling from QuickCash Solutions regarding your recent loan application. Seems there's a small verification fee of ₹750 needed to process it.
+receiver: Loan application? I don't think I applied for any loan.
+caller: Yes ma'am, you filled out a form on LoanConnect.in. The application was almost approved for ₹50,000! This ₹750 is just to confirm your bank details and identity. Very standard procedure.
+receiver: LoanConnect? I vaguely remember seeing something like that. But why wasn't I informed about a fee?
+caller: Ma’am, it’s mentioned in the terms and conditions, a very small print. Just transfer ₹750 to this UPI ID: quickcash750@ybl. Once that’s done, we’ll release your loan immediately. And, just so you know, there's been a slight change in the interest rate - it's now 4% per month.
+receiver: 4%? That's quite high. And I really don’t feel comfortable sending money without being absolutely sure.
+caller: Priya ji, think of it as a security deposit. After the loan is repaid, this amount will be credited back to your account. Also, if you don't pay, we'll have to report your default to all credit bureaus, and send legal notices! Do you want that?

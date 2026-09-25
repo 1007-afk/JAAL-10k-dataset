@@ -1,0 +1,8 @@
+caller: Namaste, sir? Yeh Special Branch se Ramesh Verma bol raha hoon. Aapke naam par ek parcel customs mein rukaya gaya hai, Delhi airport se.
+receiver: Parcel? Mujhe toh koi order yaad nahi aa raha. Kya tha usmein?
+caller: Usmein illegal items hai, sir. Drugs ya fake currency hone ki sambhavna hai. Aapko criminal activity mein phas sakte hai.
+receiver: Drugs? Yeh toh galat hai! Main toh kabhi drugs nahi leta. Aur main ek parcel order bhi nahi kiya tha.
+caller: Yeh matter serious hai, sir. Aapko ₹35,000 ka fine bhar na hoga, taaki parcel release ho sakein aur investigation ho sake. Otherwise, legal action lena padega.
+receiver: ₹35,000? Main phone pe payment nahi karunga. Mujhe pata hai yeh scam hai.  Dekhiye, main police station mein complaint karunga agar tum mujhe disturb karte rahoge.
+caller: Sir, please, time bahut kam hai. Aapko bank transfer ya UPI se payment karna hai, varna arrest warrant nikalein ge. Yeh aapki safety ke liye hai.
+receiver: Bahut ho gaya. Main abhi police ko call kar raha hoon aur apna number block karwa raha hoon. Tumse koi deal nahi.

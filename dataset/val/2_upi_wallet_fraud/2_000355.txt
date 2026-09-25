@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Priya from Bharat Wallet support. We've detected some suspicious activity on your account. Can you confirm your name and registered mobile number?
+receiver: Haan, bol rahi hoon. Meri naam Anita Sharma hai, aur mobile number 9876543210 hai. Kya hua?
+caller: Thank you, Mrs. Sharma. We noticed a pending cashback of ₹7500 related to a recent transaction from Zepto. To process it, we need to verify your account details. Can you please share the OTP you just received on your WhatsApp?
+receiver: ₹7500 cashback? Zepto se? Mujhe koi cashback nahi mila. Aur WhatsApp pe OTP bhi nahi aaya.
+caller: Are you sure, Mrs. Sharma? Sometimes it takes a few minutes to appear. This is to prevent fraudulent claims. It's a one-time process, just need the OTP. Think of it as protecting your hard-earned cashback!
+receiver: Fraudulent claims? Yeh kuch gadbad lag rahi hai. Mai Zepto pe recently kuch nahi kharida. Aur WhatsApp pe OTP nahi a rahi hai. Aapka naam bataenge? Bharat Wallet se aapka customer care number kya hai?
+caller: Sir, for security reasons, we cannot disclose internal contact numbers. Just provide the OTP and we will sort it out immediately. It’s for your own benefit, so you can claim your cashback. The OTP is just a verification, nothing more.
+receiver: Nahi, nahi dungi OTP. Mai abhi Bharat Wallet app me check karti hoon. Aapko band karo.

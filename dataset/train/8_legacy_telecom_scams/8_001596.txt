@@ -1,0 +1,11 @@
+caller: Namaste, thank you for contacting SilverTech Solutions! I see you’ve been using your laptop for approximately 8 months now, isn't that right?
+receiver: Haanji, tumahre kahaane par maine bataya hai, mein 7 mahine se laptop use karta hoon. Kaise chal raha hai?
+caller: Wonderful! Based on your usage, you qualify for our exclusive performance boost program. We’re offering a completely free high-end processor upgrade – absolutely no cost to you! Plus, you'll get faster internet speeds and enhanced security features. Just reply with ‘Confirm’ to 555-4444 for a technician to contact you, or type 'Decline' if you aren't interested.
+receiver: Free processor upgrade? Really? Mai kuch aur jaan chata hun. Kya yeh upgrade meri laptop model ke liye sahi hoga? Aur ye installation kahan hoga?  Kab tak kar payega?  Mai Confirm text karu ya koi aur option hai?
+caller: Absolutely! And we’ve checked your laptop model – the ZestBook Pro 15 – and this upgrade is perfectly compatible. The installation will be done at your home by a certified technician, scheduled within 24-48 hours. It's a seamless process, truly. So, what do you think? Send ‘Confirm’.
+receiver: ZestBook Pro 15? Okay, that's good to hear. But tell me more about these enhanced security features.  Aur technician kab aaega?  Mai Confirm text kar deta hoon.
+caller: Of course! These features include advanced malware protection, real-time threat detection, and automatic software updates. The technician is aiming to arrive between 9 AM and 1 PM tomorrow.  We’re almost out of slots for this promotion, just 5 remaining! So, confirm your appointment quickly.
+receiver: 5 bache hain?  Okay, mai Confirm text kar deta hoon.  Agar technician nahi aaya, toh kya hoga?
+caller: Don't worry, we have backup technicians available. If there's any unforeseen delay, we’ll immediately reschedule your appointment. You won’t be inconvenienced at all.  Congratulations on taking advantage of this incredible offer!
+receiver: Thank you very much!  Mai Confirm text kar rahi hoon.
+caller: Fantastic! You've made a superb choice. Now, let’s get those details finalized…

@@ -1,0 +1,9 @@
+caller: Namaste ji, HDFC bank se baat kar raha hoon. Apne account ka KYC update karna hai, sir. Kya aapmeri madad se update kar sakte hain?
+receiver: HDFC? KYC update? Kaise? Mein jo account hoon, uska KYC already update hai. Fir aapne phone se puch raha hai? Koi mistake to nahi ho raha?
+caller: Sir, yeh automation system ka part hai. Har customer ke KYC check karna zaroor hota hai. Apne ID proof aur debit card number bataiye, sir.
+receiver: ID proof? Debit card number? Wo toh private information hai! Phone pe wo dena riskly hai.  Aapka name bataiye, sir. Aur yeh call achanak kyun aayi?
+caller: Mera naam Vijay Kumar hai, sir. Yeh system update ke liye hai, aapki account ki security ke liye.  Agar aap update nahi karenge toh aapka account future mein blocked ho sakta hai, sir.
+receiver: Blocked? Seriously?  Yeh bahut scary hai.  Kya koi alternative method hai? Bank branch mein jaakar update karwa lene ki option hai? Ya phir online portal mein login kar ke bhi update ho sakta hai?
+caller: Sir, branch mein jaane ka time nahi hai. Online portal mein bhi technically expertise nahi hai. Yeh hi process hai sir, sorry.  Apne details de do, otherwise aapka account blocked ho jayega.
+caller: Sir, aap bilkul tension mat le. Ye details sirf verification ke liye hain, koi fraud nahi hai.  Aapko OTP bhejna hai, woh OTP mujhe bataiye.
+receiver: OTP?  Aisa lagta hai jaisi koi game khel raha hai!  Mujhe OTP nahi dena hai.  Aapko koi other way bataiye.  Aur aapne blocked karne ki dhamki kyun dilayi? Is this a standard protocol?

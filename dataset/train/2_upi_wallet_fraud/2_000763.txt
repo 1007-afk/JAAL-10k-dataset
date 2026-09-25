@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel Payments Bank se Rahul bol raha hoon. Aapke Airtel Payments Bank account mein ₹5000 ka cashback offer chal raha hai, lekin isko claim karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Airtel Payments Bank ka cashback? Mujhe toh koi notification nahi aaya. Verification process kya hai?
+caller: Haan ji, offer limited time ke liye hai. Verification ke liye, aapko apne Airtel Payments Bank UPI ID aur ek OTP send karna hoga jo aapke registered mobile number par aayega. Isse aapki identity confirm ho jayegi aur cashback aapke account mein credit ho jayega.
+receiver: UPI ID aur OTP? Par main toh apne account details kisi ko bhi nahi dena chahta. Yeh safe hai kya?
+caller: Bilkul safe hai, madam! Aapki security hamara priority hai. Yeh offer government ka hai, aur hum sirf aapko time pe cashback claim karne mein help kar rahe hain. Jaldi karo, offer khatam hone wala hai.
+receiver: Government offer hai? Koi proof hai? Main bank mein call karke confirm kar leti hoon.
+caller: Madam, bank mein call karne mein time waste hoga, aur offer khatam ho jayega. Aap sirf ek baar UPI ID aur OTP send karo, aur cashback instantly aapke account mein ajayega. Aapka trust hamara sab kuch hai.

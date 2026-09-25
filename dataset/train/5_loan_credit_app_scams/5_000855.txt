@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul calling from ‘LoanFirst Express’. We’ve noticed you recently applied for a personal loan on our platform. Fantastic news – you've been pre-approved for a quick loan of ₹75,000! Just a small confirmation fee is needed to release the funds.
+receiver: LoanFirst Express? Haan, maine application kiya tha. ₹75,000? Confirm karne ka fee kitna hai? Aur main website per kahaan check kar sakta hoon?
+caller: The confirmation fee is just ₹700, a nominal charge to verify your identity and prevent fraudulent activity. It’s a one-time payment. Please use this UPI ID: UPI700. Send it quickly, sir, because this offer is only valid for the next 15 minutes. We’re processing many applications right now.
+receiver: ₹700 UPI se? Website par toh kuch nahi likha tha fee ke bare mein. Aur mein LoanFirst Express ko Google par search kiya toh koi proper website nahi dikh rahi.
+caller: Sir, please don’t worry! It’s a new promotional offer, and the details aren’t fully updated on the website yet. Trust me, sir, once you pay the ₹700, the ₹75,000 will be credited to your account immediately.  Quickly send the money - a few more people are trying to grab this deal.
+receiver: Sir, mujhe abhi yeh offer suspicious lag raha hai. Yeh bahut zyada achha lag raha hai. Mein abhi UPI se payment nahi karunga. Mein police ko report karunga agar aapko koi problem hai.
+caller: Sir, why are you being so difficult? You're losing a fantastic opportunity to get quick cash! Just ₹700, that’s all! Think about it – ₹75,000

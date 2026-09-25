@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Axis Bank se Ankit Sharma bol raha hoon. Aapke Axis Bank account mein kuch security issues aa rahe hain, aur KYC update karna zaroori hai. Account block hone se bachne ke liye, please thodi information provide karein.
+receiver: Axis Bank se? Mujhe koi SMS nahi mila KYC update ke baare mein. Account block hoga? Kaise issues hain?
+caller: Sir, yeh ek automatic notification process hai. Account ko secure rakhne ke liye aapko OTP verify karna hoga aur Aadhaar number bataana hoga. Agar aap abhi nahi karenge, to account 24 hours mein block ho jayega. Kuch fraud activity detect hui hai, sir.
+receiver: Aadhaar number? Koi OTP verify karna hai? Mujhe yeh sab suspicious lag raha hai. Axis Bank ka customer care number toh available hai, main wahan se confirm karunga.
+caller: Sir, customer care line bahut busy hoti hai. Time barbaad na karein. Sir, ek last chance hai, just OTP bata dijiye aur aapka account safe rahega. OTP aayega aapke phone pe, sir.
+receiver: Koi wait karo. Main apne Axis Bank app check karta hoon. Aur ek moment, agar aap Axis Bank se hain, toh aap meri account number pooch sakte hain? Confirm kar lo, phir main OTP bataunga.
+caller: Sir, aapka cooperation bahut zaroori hai. Account number bata dijiye, sir. Just 2 minutes ka kaam hai. Otherwise, account suspend ho jayega.

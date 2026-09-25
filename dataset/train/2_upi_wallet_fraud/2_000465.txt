@@ -1,0 +1,7 @@
+caller: Hello sir, is this Rohan Verma? We have a payment pending from your PhonePe wallet to a merchant named 'Sharma Ji Electronics'. The amount is Rs. 2,800. Can you confirm if you initiated this transaction?
+receiver: Sharma Ji Electronics? No, I didn't make any payment to that name. I don't even know who they are.
+caller: Okay, sir. That's concerning. It seems like there might be some fraudulent activity on your account. To secure your funds, we need to verify a few details. Could you please share the last four digits of your PhonePe registered mobile number?
+receiver: Why do you need my mobile number again? I already told you it wasn’t me who made that payment. Isn't that suspicious?
+caller: Sir, it's a standard security protocol. We just need to ensure we’re speaking to the correct account holder. We’ll also send a verification OTP to that number. Once verified, we can initiate a chargeback and recover your money. Just provide the last four digits, please.
+receiver: An OTP? I'm really uncomfortable giving out any more information. Can I speak to someone in a proper customer support department? I want a ticket number and a direct contact number. This all feels very dodgy.
+caller: Sir, time is of the essence! The fraudulent transaction is still active. If you don't verify immediately, the money will be lost permanently. We’re trying to help you recover it, but we need your cooperation. The OTP will be sent right away, just share the last four digits of your mobile number.

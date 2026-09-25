@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart Customer Care se Rahul bol raha hoon. Aapke account mein ek suspishit transaction detect hua hai.
+receiver: Flipkart Customer Care? Aur kaunsa transaction? Mujhe koi message nahi aaya.
+caller: Haan sir, ₹789 ka ek transaction hua hai ek unknown website par. Security ke liye, humein aapka OTP verify karna hoga. Please share your OTP received on your registered mobile number.
+receiver: OTP? Why do you need my OTP for a suspicious transaction? Shouldn't you be blocking the transaction first? Aur Flipkart toh kabhi OTP puchhti nahi.
+caller: Sir, OTP sirf verification ke liye hai. Isse hum confirm kar sakte hain ki aapka account safe hai aur transaction fake hai. Is transaction ko reverse karne ke liye humein OTP ki zarurat hai. Please provide the OTP quickly.
+receiver:  Wait a second.  This sounds really fishy. I’m not giving you my OTP. I’m going to call Flipkart’s official customer service number to verify this.
+caller: Sir, jaldi karo! OTP expire hone wala hai! Agar aap OTP nahi dete toh transaction permanent ho jayega aur aapko nuksan hoga!

@@ -1,0 +1,7 @@
+caller: Namaste Sir, my name is Inspector Sharma calling from the Central Bureau of Investigation, Cyber Crime division. We've detected unusual activity linked to your UPI account on PhonePe. It appears someone has attempted to use it for transferring funds related to an illegal cryptocurrency exchange.
+receiver: Oh no! Really? What’s the problem exactly? Is my money safe?
+caller: Sir, it's a serious matter. We need to verify a few details immediately to prevent further fraudulent transactions. We've traced a potential connection to a smuggling operation. For your safety, we need you to remain on this call and answer a few quick questions. Can you confirm the last four digits of your Aadhaar card?
+receiver: I… I don’t know, Inspector. I’m a little nervous. Is this really the CBI?
+caller: Sir, please don’t panic. We understand this is alarming. For verification purposes, we need you to transfer ₹5,000 to a secure government account. This is a standard procedure to confirm your identity and block the fraudulent activity. We’ll reverse the transaction once we’ve completed the verification.  The account details will be sent to you via SMS.
+receiver: ₹5,000? But why? I thought you were calling to *protect* me.
+caller: Sir, it's a necessary precaution. Consider it a security deposit. We're dealing with a very complex case involving international money laundering.  The money will be returned immediately after we confirm your details.  Without this, we can’t guarantee the safety of your funds. Please confirm you’re ready to proceed with the transfer.

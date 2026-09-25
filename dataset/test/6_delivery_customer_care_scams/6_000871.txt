@@ -1,0 +1,8 @@
+caller: Namaste! Main Zomato customer care se Rahul bol raha hoon. Aapke account mein ek transaction fail ho gaya hai, ₹450 ka. Security ke liye, humein kuch details confirm karne hain.
+receiver: Oh, really? I don't remember any failed transaction. What was the order ID?
+caller: Order ID hai ZM78923.  Aapka OTP confirm karna hoga taaki hum isko resolve kar saken.  Security purpose ke liye.
+receiver:  Hold on a minute. I’m a little suspicious.  Why can't I resolve this through the Zomato app itself?
+caller: App mein technical issue aa rahi hai, sir.  Isliye hum call kar rahe hain.  Aapka OTP jo SMS mein aayega woh bataiye.  It's very important to protect your account.
+receiver:  Okay, I'll give you the OTP. But please confirm, are you really from Zomato? Can you give me a direct number to call back to verify?
+caller:  Sir, OTP bataiye, please! Time is running out. We need to secure your account immediately. After you give OTP, I’ll tell you the verification number.
+receiver:  I'm not comfortable giving you the OTP until I can verify your identity. I’m going to call Zomato directly.

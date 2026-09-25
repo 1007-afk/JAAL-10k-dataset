@@ -1,0 +1,7 @@
+caller: Namaste! This is Ravi from BlueLine Logistics, calling regarding a parcel addressed to you. It seems there’s been a slight issue with customs clearance.
+receiver: Oh really? I wasn’t expecting anything. What’s the problem?
+caller: The issue is a small discrepancy in the declared value. To resolve this quickly and get your package released, we require a payment of ₹750 to cover the processing fee.
+receiver: ₹750? That seems a bit steep. Can’t I just collect it from your office?
+caller: Unfortunately, due to current protocols, direct collection isn't possible. It’s for your security and to prevent fraud. To proceed, we'll need to verify your identity and payment method. Can you please share the last four digits of your credit card and the OTP we’ll send to your registered mobile number?
+receiver: Wait a minute. I’m not comfortable giving out my credit card details over the phone. I’ll call BlueLine Logistics directly to confirm.
+caller: Sir, please don’t delay! The parcel is time-sensitive, and this offer won't last long. The delay will cause further charges. Just a few more steps and your package will be on its way. Don’t miss out, sir!

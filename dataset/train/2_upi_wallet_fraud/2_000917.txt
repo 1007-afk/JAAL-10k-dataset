@@ -1,0 +1,10 @@
+caller: Namaste! Yeh Ravi se baat ho rahi hai, FreeCharge se. Hum ek lucky draw chalaye hain, aur aapka number jeet gaya hai ₹5000 ka cashback!
+receiver: Oh, really? That’s great! How do I claim it?
+caller: Bahut easy hai! Aapko sirf apne FreeCharge wallet mein ₹500 deposit karne hai. Yeh verification charge hai, ₹500 hi. Jab ₹500 deposit ho jayega, cashback instantly aapke wallet mein add ho jayega.
+receiver: ₹500? Why do I need to deposit money to get cashback? Shouldn't they be giving it to me?
+caller: Woh toh rules hain, sir. Security check ke liye ₹500 deposit karna padega. Agar aap deposit nahi karte, toh draw mein aapka name cancel ho jayega. ₹500 bahut kam hai, ₹5000 cashback mil raha hai!
+receiver: Okay, I’ll deposit ₹500. What's the UPI ID I should use?
+caller: Theek hai! UPI ID hai paytm@hdfcbank.in. Jab deposit ho jayega, mujhe bata dena, main aapko confirmation message bhijwunga.
+receiver: Just sent it. The transaction is complete.
+caller: Wonderful! Verification process mein thoda time lagega. Aapko ek SMS milega jab aapka account verify ho jayega aur cashback add ho jayega. Aapko patience rakhna padega.
+receiver: Okay, waiting for the message.

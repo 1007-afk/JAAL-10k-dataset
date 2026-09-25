@@ -1,0 +1,7 @@
+caller: Hello? Is this Rohan Verma? I'm calling from QuickCash Solutions. We saw your online profile and you seem like a good candidate for a quick personal loan. ₹50,000 to ₹2 lakhs, approved in minutes! Just a few simple questions.
+receiver: Oh, really? That sounds interesting. I could actually use some extra cash right now. What do I need to do?
+caller: Wonderful! First, just verify your date of birth and occupation. And what’s your current address? We just need to confirm your details for security purposes. Don't worry, it’s completely safe with us.
+receiver: My date of birth is 15th August, 1992. I'm a software engineer, and my address is 12, Galaxy Apartments, Sector 10, Dwarka.
+caller: Perfect, Mr. Verma. Now, for the loan amount, how much are you looking for? And quickly, please share a selfie of yourself holding a recent bank statement. This is a standard verification process.
+receiver: Hold on a minute... a selfie with my bank statement? That seems a bit unusual, doesn’t it? I'm not sure about that.
+caller: Look, Mr. Verma, this is standard protocol for instant approval. Without it, we cannot proceed. We want to ensure you are who you say you are and that funds can be directly deposited. Otherwise, I will have to cancel your application, and you will miss out on this great offer. We've got many people getting their loans right now!

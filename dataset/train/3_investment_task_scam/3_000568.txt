@@ -1,0 +1,8 @@
+caller: Hello sir, is this Mr. Verma? I’m calling from ‘Global Trading Solutions’. We’ve identified you as a potential high-net-worth investor.
+receiver: Haan, bolie. Kya baat hai?
+caller: Sir, we’re offering a limited-time opportunity to invest in a new cryptocurrency, 'NovaCoin'. Early investors are seeing returns of over 30% in just a week. It’s a ground-floor opportunity! Just a small investment now can yield substantial profits.
+receiver: 30%? Itna zyada? Crypto mein itna return milna toh sambhav hi nahi hai. Kaise yeh possible hai? Bataiye.
+caller: Sir, NovaCoin is backed by a new AI trading algorithm that predicts market movements with incredible accuracy. It’s highly exclusive, only available to a select few. To start, you need to deposit a small amount – say, 5000 rupees – into our secure wallet address, which I’ll share.
+receiver: Wallet address? Yeh kuch gadbad lagi. Logon ne withdrawal fees ke bare mein suna hai. Aur agar AI algorithm hai toh woh site pe bhi available hona chahiye, na? Mereko kuch proof do. Koi legal document ya company registration detail?
+caller: Sir, the algorithm is proprietary. We can’t disclose the exact details, but we can guarantee its performance. The wallet address is 1234567890ABCDEFG. Just deposit the 5000 rupees, and we’ll automatically start the investment process. You’ll see profits within 24 hours. This is a very limited offer, sir, many are already investing.
+receiver: Arey yaar, itna jaldi? Koi document bhi nahi dikhayenge? Aur woh wallet address bhi suspicious lag raha hai. Koi proof of funds ya trading volume dikhaiye toh? Main invest

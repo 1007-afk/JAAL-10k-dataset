@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? I'm calling from PhonePe Rewards. You've been selected for a special cashback offer – a ₹500 cashback on your next transaction!
+receiver: PhonePe Rewards? Cashback? Kaise? Mujhe toh koi notification nahi aaya.
+caller: Yes, it's a limited-time offer for valued customers like you. To activate it, we just need to quickly verify your account. It’s a very simple process – just confirm a small fee for the processing. ₹50 only.
+receiver: ₹50 fee? Cashback offer mein fee? Yeh toh bhrastachar lag raha hai. PhonePe app mein aise koi option hi nahi hai.
+caller: Madam, this isn't a usual charge. It's a security deposit to prevent fraudulent claims on the cashback. Once the transaction goes through, the ₹50 will be returned to you along with your ₹500 cashback. We need to confirm this via UPI. Can you send ₹50 to the number I’ll provide?
+receiver: UPI pe ₹50 bheju? Theek nahi hai yeh. Koi scam lag raha hai. Main toh PhonePe app se hi transaction karta hoon. Aapko KYC karne ka koi aur tareeka nahi hai?
+caller: Madam, for security reasons, we cannot process it through the app. This is a direct verification process. Just a small payment to ensure the cashback is credited to your correct account.  Think of it as an insurance against fraud.
+receiver: Insurance? ₹50 ka insurance ₹500 ke cashback ke liye? Yeh toh theek nahi lag raha hai. Main nahi karungi. Aapko report karungi main PhonePe mein.
+caller: Madam, please don’t be hasty. We are offering you a great opportunity. Once you pay the ₹50, your cashback will be processed immediately. This is

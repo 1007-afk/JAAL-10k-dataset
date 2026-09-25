@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main HDFC Bank se Rohit bol raha hoon. Aapke naam par ek account hai, aur usmein kuch suspicious activity dikh rahi hai.
+receiver: Kya suspicious activity? Mujhe toh kuch pata nahi.
+caller: Sir, aapke account se kal raat ek online transaction hua hai, 12,500 ka, ek unknown website par. Is transaction ko block karne ke liye, aapko kuch details verify karni hogi.
+receiver: 12,500? Nahin, maine toh aisa koi transaction nahi kiya.
+caller: Sir, please mat ghabrayein. Account safe rakhne ke liye, mujhe aapka OTP aur PAN card ki copy chahiye hogi. Thodi der mein account suspend bhi ho sakta hai.
+receiver: OTP nahi dunga! Bank toh aise nahi puchta. Aur PAN card bhi nahi…
+caller: Sir, please, time bahut kam hai. Account suspend hone se pehle aapko cooperation karna hoga. Main aapko bank ka official number bhi send kar sakta hoon, aap call kar sakte hain verification ke liye. Par please, jald jaldi bataiye kya karna hai.
+receiver: Theek hai, mujhe ek baar check karna hai. Mai baad mein call karta hoon.

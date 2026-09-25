@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Vijay from FreeCash Rewards.
+receiver: Haan, main Priya Verma hi hoon. FreeCash Rewards? Woh kya hai?
+caller: Ji, Madam. We’ve detected that you’ve recently qualified for a cashback reward of ₹12,500 from a previous online purchase. To claim it, you need to complete a small verification process.
+receiver: ₹12,500? Main toh abhi tak kuch cashback reward nahi mila hai. Aur verification process kya hai?
+caller: Very simple, Madam. Just a small processing fee of ₹500 needs to be deposited into our secure payment gateway via UPI. Once that's done, the ₹12,500 will be credited instantly to your bank account.
+receiver: ₹500? Lekin why do I need to pay to receive cashback? Ye toh galat lag raha hai. Aur secure payment gateway ka naam batao.
+caller: Madam, this is just to verify your account and prevent fraud. The payment gateway is powered by PayNearby. Just use UPI and send ₹500 to this number: 7890123456. Once the payment is confirmed, your ₹12,500 will be processed within minutes.
+receiver: PayNearby? Hmm… koi baat nahi. Main aapse baat karta hoon jab cashback credit ho jayega. Right now, I'm busy. Bye.

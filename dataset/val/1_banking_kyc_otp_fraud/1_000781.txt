@@ -1,0 +1,7 @@
+caller: Salaam! Is this Mr. Rajesh Verma? I’m calling from Axis Bank’s fraud prevention team. We've detected some suspicious activity on your account.
+receiver: Really? What kind of activity? Is everything alright?
+caller: Sir, there’s been an attempt to make an international transaction from your account, but it was blocked. To ensure your account’s safety and prevent further unauthorized access, we need to quickly verify your identity.
+receiver: Verify my identity? How? I haven't made any international transactions.
+caller: Yes sir, it's a standard procedure. We just need you to confirm a one-time password that we are sending to your registered mobile number. Please provide the OTP as soon as you receive it. It’s very important to do this within the next 5 minutes.
+receiver: Wait a minute. Shouldn't you be calling me from Axis Bank directly? Why are you asking me for an OTP over the phone? I'm a bit uncomfortable sharing this.
+caller: Sir, security is our top priority. OTP verification is the fastest and safest way to confirm you are the account holder.  Please cooperate, sir. We need to secure your funds.  Now, please share the OTP.

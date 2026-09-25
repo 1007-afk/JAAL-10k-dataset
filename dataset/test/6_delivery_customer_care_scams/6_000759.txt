@@ -1,0 +1,7 @@
+caller: Namaste! Madam, this is Akash from BlueBird Courier. We have a parcel addressed to you, but there’s a slight issue with the payment.
+receiver: A parcel? I wasn't expecting anything. What's the issue?
+caller: It seems the payment didn't go through completely. Just ₹750 is pending. We need to clear this to get it dispatched. Can you quickly verify your bank details?
+receiver: Wait a minute. ₹750? I didn't order anything expensive. And why are you asking for my bank details over the phone? That sounds risky.
+caller: Madam, it’s a standard security protocol. We need to process the payment quickly. To avoid any delays, I’ll send you a link on WhatsApp. Please share your number so I can send you the link.
+receiver: No, I’m not going to share my number or click any link. This sounds like a scam. I’ll contact BlueBird Courier directly through their official website. Thank you.
+caller: But Madam, this is urgent! The parcel will be returned to sender if you don’t act now. Think of the hassle! Please, just the number?

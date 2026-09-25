@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? I'm calling from HDFC Bank’s KYC compliance department. We need to urgently update your KYC details to avoid account suspension.
+receiver: Haan, main hoon. KYC? Account suspend? Kya hua?
+caller: Sir, there’s a new RBI directive regarding customer verification. We’ve flagged your account due to incomplete documentation. To keep your account active, we need you to confirm your Aadhaar number and a few other details.
+receiver: Aadhaar number? Over the phone? That sounds risky. I’ve heard about scams. Why can’t I do this online, through the net banking portal?
+caller: Sir, for security reasons, we have to verify this information over the phone. The online portal isn't secure enough for this level of verification right now. We just need a few details to complete the process and avoid a temporary freeze on your funds. We're trying to protect you from fraud, actually.
+receiver: Protect me? By asking for my Aadhaar over the phone? I'm not comfortable with this. Can you give me a reference number for this call, or the name of the person I'm speaking with? And please tell me my account number you’re referring to?
+caller: Sir, your account number is 1234567890. My name is Raj Patel, and the reference number is HKC-7890. We need that Aadhaar number quickly, sir, to prevent a temporary account block. We really don't want you to face any inconvenience.

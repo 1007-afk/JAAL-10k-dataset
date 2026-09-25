@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Rohan Verma bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai – ₹12,000 Paytm wallet mein gaya hai. Account secure karna hai aur verification karna hai.
+receiver: Kya? ₹12,000? Mujhe toh koi transaction ka message nahi aaya. Mein verify karna chahta hoon, lekin call kaise verify karoon?
+caller: Bilkul, sir. Confirm karne ke liye, humein aapka Aadhaar card ke last 4 digits aur OTP verify karna hoga. Ek SMS se aapko OTP milega. Tabhi account block hoga, nahi to hacker access le sakta hai aur aapke paisa kho sakte hain.
+receiver: Aadhaar card ke last 4 digits? Mujhe thoda doubt ho raha hai. Axis Bank ka official number kya hai? Mein khud check karta hoon.
+caller: Sir, time kam hai! Hacker ne system ko compromise kiya hai, zyada sochne se aapki puri account khatre mein pad jayegi. Aadhaar number aur OTP check karwa len, main wait karunga, lekin jaldi karein. Account suspend bhi ho sakta hai, aur phir paisa vapas pane mein mushkil hogi.
+receiver: Theek hai, ek minute. Main bank ki website par check karta hoon…
+caller: Sir, OTP receive ho gaya hai? Jaldi karo, sir. Hackers phir se attack kar rahe hain!

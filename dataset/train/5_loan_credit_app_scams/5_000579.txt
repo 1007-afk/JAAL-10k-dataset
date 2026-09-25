@@ -1,0 +1,7 @@
+caller: Namaste, mai Yash Loans se bol raha hoon. Aapka naam Priya Sharma hai, correct? Humare record mein aapka loan application pending hai.
+receiver: Haan, woh to hai. Mein toh apply kiya tha, par mujhe koi update nahi mila. Kya hua?
+caller: Madam, verification ke liye kuch documents chahiye. Bank statement aur ek selfie humein aapke account details ke saath bhijwayega. Jab woh receive ho jayega, tab hum aapka loan approve kar denge.
+receiver: Selfie? Bank statement? Par bank mein to document submit kar diye the. Ye kya zarurat hai?
+caller: Madam, security ke liye. Aur jab aap loan receive karenge, to humein verification ke liye thoda extra amount, processing fee ke taur pe, chahiye. 5000 rupees.
+receiver: 5000? Loan se pehle? Ye to kuch galat lag raha hai. Mein report kar dungi.
+caller: Madam, please, yeh system hai. Agar aapko loan chahiye, toh ye karna padega. Warna, hum aapke contacts ko aapke private photos bhej denge. Think about it.

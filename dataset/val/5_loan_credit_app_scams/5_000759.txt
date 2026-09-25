@@ -1,0 +1,8 @@
+caller: Namaste sir, main Vijay, Axis Bank se baat kar raha hoon. Aapko sawal puchne ke liye call kar raha hoon. Aapne online personal loan ke liye apply kiya tha, hai na?
+receiver: Haan, mainne apply kiya tha. Kuch update hai?
+caller: Ji sir, aapka application review kiya gaya hai. Aap loan ke liye eligible hain, ₹2 lakh tak ka. Bas, kuch documents verify karne hain. Aapke bank statement ki PDF copy ready hai kya?
+receiver: Bank statement? Haan, hai. Kahan bhejna hai?
+caller: Sir, aapko woh PDF copy mujhe share karni hogi, taaki main verify kar sakta hoon. Aapka mobile number share karein, main WhatsApp par link send karta hoon. Verify karne ke baad hi loan approve hoga.
+receiver: Okay, WhatsApp number hai 9876543210.
+caller: Thank you sir. Ab verify hone ke baad, aapko ek small processing fee deposit karni padegi ₹5,000. Phir hi loan aapke account mein transfer hoga.
+receiver: ₹5,000? Loan ₹2 lakh ka hai aur fee ₹5,000? Yeh thik nahi lag raha hai.

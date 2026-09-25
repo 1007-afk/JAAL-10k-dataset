@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, ExpressCredit se. Aapko urgent loan ki zaroorat hai kya? Humme online loan provide karte hain, bahut easy process. Credit score koi matter nahi karta!
+receiver: Ji, loan ki zaroorat toh hai, lekin mujhe thode details chahiye. Kitna interest rate hoga?
+caller: Sir, humme special offer hai – sirf 12% interest, aur instant approval! Aapko sirf kuch basic details dena hai. Aapka naam, city, aur bank account number bataiye.
+receiver: 12% toh thoda zyada lag raha hai. Aur account number aise hi bata doon? Thoda risky toh lag raha hai.
+caller: Sir, trust me! Yeh offer limited time ke liye hai. Aapko sirf 5,000 rupay ka loan lo, aur hum aapko 2 days mein pay kar denge. Account number bataiye, sir!
+receiver: Okay, mera account number 9876543210 hai, Punjab National Bank mein. Aur IFSC code kya chahiye?
+caller: Bahut achha! IFSC code bhi bataiye, sir. Aur ek verification ke liye aapka last month ka electricity bill bhi chahiye. Wo bhi attach kardo.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Deepak bolta hoon. Aapko ek achha cashback offer mila hai, ₹5000 ka.
+receiver: Flipkart? ₹5000 ka cashback? Mainko toh koi notification nahi mila.
+caller: Ji, technical issue ke vajah se notification delay ho gaya. Offer avail karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Verification? Kya verification karna hai? Flipkart toh kabhi aise nahi karta tha.
+caller: Verification bahut simple hai. Aapko ek UPI link milenga, us par sirf ₹50 ke transaction karna hai, woh ₹5000 cashback mein convert ho jayenge.
+receiver: ₹50 ka transaction? UPI link? Mujhe yeh kuch thik nahi lag raha hai. Transaction kahan karna hai? Koi link bhejo.
+caller: Ji, ek minute. Main link send kar raha hoon. Fast kar dijiye, offer limited time ke liye hai. Abhi hi confirm karein.

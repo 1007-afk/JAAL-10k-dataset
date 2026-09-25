@@ -1,0 +1,8 @@
+caller: Namaste! Mein Vijay bolta hoon, BharatPay se call kar raha hoon. Aapko ek achha offer mil raha hai.
+receiver: Kya offer hai?
+caller: Ji, BharatPay ne Diwali ke upar ek lucky draw ka nirdhan kiya hai. Aapka account selected hua hai aur aap ₹10,000 ka prize jeet sakte hain!
+receiver: ₹10,000? Kaise?
+caller: Haanji, lekin prize claim karne ke liye, aapko ek small processing fee bharne hogi, sirf ₹500. Yeh BharatPay ke rules hain, aur hum ismein madad kar sakte hain.
+receiver: ₹500 fee? BharatPay toh aise offer deta hai? Thoda clarify karo.
+caller: Haanji, sir, processing fee ke bina hum prize nahi de sakte. Yeh security check ke liye hai. Aapko apna BharatPay app ka UPI ID aur ek OTP send karna hoga, fee bharne ke liye.
+receiver: UPI ID aur OTP? Yeh kuch galat lag raha hai. Mein call cut kar deta hoon.

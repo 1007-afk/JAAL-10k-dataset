@@ -1,0 +1,25 @@
+caller: Namaste ji, is this Ms. Devi? This is SecurePay calling about your recent transaction on ZestShop.
+receiver: Ji ji, bolo. Kaise haal hain aapki?
+caller: Namaste ji, Ms. Devi, we’re contacting you regarding a payment made for ₹750 to ZestShop last week. It appears there was an unauthorized charge, and we need to verify your information to investigate.
+receiver: ₹750 ZestShop? Haan ji, mujhe yaad nahi aa raha. Main dekhoon.
+caller: Absolutely, Ms. Devi. We understand it can be confusing. This transaction went through automatically using your saved card details. If you don't recognize this charge, we can immediately flag it as fraudulent and issue a refund. Alternatively, we could just update your card details to prevent future occurrences. What would you prefer?
+receiver: Fraudulent? Woh toh badhiya hai. Fir mujhe refund milega?
+caller: Yes sir, that’s correct. Once we confirm the unauthorized charge, we’ll initiate the refund process right away. To do this, we just need to confirm a few security questions - your mother’s maiden name, and your place of birth. Just for verification purposes, please?
+receiver: Mera maa ki mata ka naam... Sharma hai. Aur main Delhi mein pan bana.
+caller: Thank you, Ms. Devi. Just one moment while I input those details… Okay, everything looks good. The refund has now been processed and should reflect in your account within 3-5 business days. You’ll receive a confirmation email shortly. Is there anything else I can assist you with today?
+receiver: Email milega? Fir pata chalega ki refund mila ya nahi?
+caller: Yes sir, absolutely. You will definitely receive a confirmation email with all the details of the refund. And you can also track the status of the refund through our website – securepay.in/refundstatus. Please ensure your spam folder isn't blocking the email.
+receiver: Ok, thank you ji.
+caller: Hello, is this Mr. Verma? This is DigiBank regarding your account activity.
+receiver: Haan ji, bolo.
+caller: Mr. Verma, we are reaching out because there was a recent transaction of $250 to ‘Global Solutions Inc.’ that hasn't yet cleared. We want to make sure everything is alright and prevent any potential issues.
+receiver: Global Solutions Inc.? Haan, mujhe yaad nahi aa raha. Dekhoon main.
+caller: Certainly, Mr. Verma. This transaction was processed automatically due to a recurring service agreement you had with them. However, it appears there may have been a slight delay in processing. To resolve this, we need to quickly verify your identity. Can you please provide me with your date of birth?
+receiver: Date of birth? Kahan likhna huva hai woh?
+caller: Don’t worry, Mr. Verma. It’s simply stored securely in our system. We just need to confirm it for security reasons. Let’s say… your birthday is July 12th, 1988?
+receiver: July 12, 1988? Haan, woh sahi hai. Par mujhe yeh kisiliya call kiya gaya hai?
+caller: We apologize for the inconvenience, Mr. Verma. We take data security very seriously. After verifying your information, we can immediately release the funds associated with this transaction. Would you like us to proceed?
+receiver: Funds release karein. Fir main peace of mind paunga?
+caller: Exactly, Mr. Verma. Once the funds are released, the transaction will show as completed on your statement. You’ll also receive a notification via SMS confirming the release. Is there anything else you’d like to discuss today?
+receiver: No, thanks.
+caller: Alright then, Mr. Verma. Have a wonderful day!

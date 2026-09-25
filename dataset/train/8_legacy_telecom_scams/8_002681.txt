@@ -1,0 +1,13 @@
+caller: Namaste! Main calling kar raha hu’n, ‘VidyaStream’ par aapka subscription barabar hai. Aapko yaad hoga, initially free trial mila tha, right? Simple update karne ke liye calling karta hu’n.
+receiver: Haan ji, yaad hai. Free trial bahut acha tha. Kaisa hai VidyaStream?
+caller: Chahe tumhara feedback ho, ya agar koi suggestion dena hai, toh bataa dein. Hum sabhi users ke suggestions se VidyaStream ko badhiya banane ki koshish karte hain. Mera naam Sanjay hai.
+receiver: Sanjay ji, thanks. Suggestions? Mein toh abhi till second week enjoy kar raha hu’n, but let me think.
+caller: Absolutely! Apne dil maano. Dekho, aapko VidyaStream mein ‘Silver Plus’ plan upgrade karne ka offer de rahe hain. Ismein aapko daily latest movies and series access milenge, unlimited downloads, aur premium customer support bhi milega. First six months ke liye absolutely free!
+receiver: Six months free? Wow! That’s really amazing. But what kind of movies and series are we talking about? Are they mostly Bollywood or international?
+caller: Ji, sab kuch milega ji! Bollywood, Hollywood, regional language films – har cheez available hai. Aur ismein ek unique feature hai - aapko personalized recommendations bhi milegi, jisse aapko apni choice ke according content dekhna mushkil nahi hoga.
+receiver: Personalized recommendations… that’s good.  But is there any limit on the number of downloads?  I like downloading movies for offline viewing.
+caller: Download limit hai, lekin wo bahut zyada hai.  Aap ek mahine mein 50 movies download kar sakte hain.  Aur iske baad, aapko small fee lagana padega.  Upgrade karne ke liye sirf ‘ACCEPT’ message karein 87654 pe.  Kya bolti hai?
+receiver: Fifty movies?  Okay, that’s alright.  And this six month free period, is it continuous, ya does it have some pauses?
+caller: Continuous hai ji.  Six months puri enjoyment ke saath.  Agar aapko koi doubt ho toh, mujhe bataan ge.  Mein aapki madad karne ke liye ready hu’n.
+receiver: Okay, thank you Sanjay ji.  I will definitely consider it.  I need to think about it.
+caller:  Koi baat nahin ji.  Aapka din khush rahe!  Agar aapko koi question ho toh, 84321 number pe call karte rahin.

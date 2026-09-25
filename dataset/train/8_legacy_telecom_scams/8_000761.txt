@@ -1,0 +1,8 @@
+caller: Hello there! We’ve connected you to our lottery winnings department. Big news – you’ve been randomly selected to win either a luxurious weekend getaway to the Maldives or a substantial $8000 USD prize! To receive confirmation and instructions on how to redeem your reward, we require a small processing fee of $2.75 per minute, lasting up to 15 minutes. Are you prepared to claim your amazing prize?
+receiver: Hello ji! Seriously? Maldives ya phir 8000 dollars? Yeh bahut achha laga. Main sun raha hoon. Kaise pata laga aapke pass yeh prize? Aur ye claim karne ke liye ₹3 per minute charge karte hain, aur call 12 minutes ka chal sakta hai.  Mujhe samajh mein nahin aa raha hai yeh sab.
+caller: Wonderful! Let's proceed then. For verification purposes, could you please tell me your first and last name?
+receiver: Ji, mera naam hai Rohan Kumar.  Aur aap mujhe kya karna saying kar rahe hain?
+caller: Thanks, Rohan. Just to ensure everything is legitimate, could you confirm your year of birth? This is standard procedure.
+receiver: Haan ji, main 1997 mein hua huun.  Koi aur question hai?
+caller: Perfect. Now, let's move on to finalizing your claim. Could you share your current postal address, including the city and state, please?
+receiver: Address? Okay, my address is 45, Maplewood Terrace, Cityville. Postal code is 60601.  Is there anything else?

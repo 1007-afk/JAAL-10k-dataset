@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? I’m calling from Bluedart Courier. We’re having trouble locating your package – it’s a high-value item, looks like electronics. Tracking number is BD789456123.
+receiver: Haan, main Priya Sharma. Kya problem hai? What’s the issue with the delivery?
+caller: Madam, it seems there’s a discrepancy with the payment details associated with the order. Our system flagged a potential security concern. To ensure safe delivery, we need to verify a one-time password (OTP) we just sent to your registered mobile number.
+receiver: OTP? But I haven't ordered anything recently.
+caller: Yes, madam, it’s important to confirm. We've received reports of fraudulent activity, and we need to secure your package. Please share the OTP so we can complete the verification process. Without it, we'll have to return the package to the sender.
+receiver: Wait a minute. Which sender? What's the item?
+caller: The sender is ‘GlobalMart’. It’s a smart watch, madam, a very expensive one. We’re trying to avoid any complications, so just share the OTP. This will only take a moment.
+receiver: Okay, hold on...

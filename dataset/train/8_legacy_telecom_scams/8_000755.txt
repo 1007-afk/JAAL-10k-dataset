@@ -1,0 +1,10 @@
+caller: Namaste! Namaste! Can you hear me clearly? I’m calling from the Lucky Draw Helpline. My name is Priya, and I am absolutely thrilled to inform you that you’ve been selected as a winner of ₹15,000! Yes, that’s correct! To receive your fantastic reward, please dial 88001234567 immediately. This is a very special opportunity, and we only have three winners remaining. Don't hesitate, pick up the phone and claim your prize today!
+receiver: Namaste Priya! ₹15,000? That's incredible! Thank you so much for informing me. Could you repeat that number, please – 88001234567? Just to make sure I got it right.
+caller: Ji ji, bilkul sahi suna aapne! ₹15,000 ka prize! Aur haan, sirf 3 log paas hain, isiliye jaldi karein! Dial karein 88001234567, aur apna lottery ticket secure karein! Ye offer sirf ek do din ke liye chal raha hai.
+receiver: Oh wow, sirf 3 log paas hain? That’s surprising! Alright, I will definitely dial that number. Thanks for telling me, Priya!
+caller: Ji ji, bilkul sahi! ₹15,000 ka prize! Aur haan, sirf 2 log paas hain, isliye jaldi karein! Dial karein 88001234567, aur apna jackpot secure karein! Ye offer humesha ke liye nahi rahega, so don't lose this chance!
+receiver: Arre, bas 2 log paas hain? Really? Okay, I'm going to call that number now. Thank you for the information, Priya!
+caller: Ji ji, bilkul sahi! ₹15,000 ka prize aapka hoga! Aur haan, sirf 1 log paas hain, isliye jaldi kijiye! Dial karein 88001234567, aur apna ultimate reward secure karein! Ye offer khatam ho jayega, so hurry up!
+receiver: Oh my god, just one person left! I'm calling now. Thank you so much, Priya!
+caller: Ji ji! Aapka ₹15,000 ka prize aman rahega! Dhanyavaad!
+receiver: Dhanyavaad Priya!

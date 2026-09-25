@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Raj, QuickLoanPro se hai. Aapko urgently paise chahiye kya? Car ke insurance ke paise, ya medical bill? Kuch bhi ho, hum help kar sakte hain. Aapka naam bataiye?
+receiver: Ji, mera naam Anita Verma hai. Actually, mere papa ka medical bill aayega, aur urgently paison ki zarurat hai.
+caller: Anita ji, achcha. QuickLoanPro mein, hum ek minit mein loan approve karte hain. ₹50,000 ki loan aapke liye no problem hai. Koi credit check nahi, sirf ek small processing fee ₹800 deposit karna padega. Agree karte ho?
+receiver: ₹800 processing fee? Aur loan kitni percent interest se milegi? Mujhe yeh thoda expensive lag raha hai.
+caller: Anita ji, yeh offer sirf limited time ke liye hai. Interest rate bahut kam hai, 12% sirf. Aur ₹800 sirf processing charges hain, otherwise loan puri free hai! Agar aapko doubt hai toh sorry, offer cancel ho jayega. Apni family ke liye ₹50,000 urgently chaiye, right?
+receiver: Theek hai, theek hai. ₹800 deposit kar dungi. Kya UPI se kar sakti hoon?
+caller: Haan, bilkul! UPI se karo. Mere account details mein payment karo: 9876543210@upi. QuickLoanPro se Raj. Payment kar ke mujhe confirm karo, Anita ji, phir mai loan transfer kar dunga. Aur, ek baat bataiye, aapke papa ko kya hua tha?

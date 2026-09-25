@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Care se Rahul bol raha hoon. Aapke Paytm wallet mein ₹8,750 ka pending transaction hai, jo cancel nahi hua. Confirm karne ke liye 'VALIDATE' likh kar 98765 pe SMS karein, aur ₹50 ka verification charge lagega.
+receiver: ₹8,750? Woh transaction kaafi time pehle hona chahiye tha. Mujhe yaad nahi. Verification charge kyun lagega?
+caller: Ji, aapka pending transaction system mein dikh raha hai. ₹50 verification charge isko secure karne ke liye hai. Agar aap confirm nahi karte, toh account suspend bhi ho sakta hai. Aapka nuksan ho sakta hai.
+receiver: Account suspend? Aise kaise? Mujhe toh kuch samajh nahi aa raha. Paytm toh direct call bhi karta hai.
+caller: Technical issue ke vajah se SMS se verify karna pad raha hai.  ₹50 bahut kam amount hai, lekin aapka account safe zaroori hai. ‘VALIDATE’ likh kar jaldi karein.
+receiver: Theek hai, theek hai. Paanchas rupay to de sakte hai. ₹50 likhkar 98765 pe send karta hoon.
+caller: Bahut achha! Aapka account abhi secure ho gaya hai. Aapko jaldi hi Paytm se confirmation message milega.

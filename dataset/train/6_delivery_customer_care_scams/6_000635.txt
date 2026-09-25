@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? My name is Rajesh from Bluedart Courier. We have a package addressed to you that's currently stuck at our Delhi hub due to an unpaid shipping fee.
+receiver: Haan, main Mrs. Verma bol rahi hoon. Bluedart? Mujhe koi package yaad nahi.
+caller: Ji, madam. The reference number is BD789456123. It's a fairly large parcel, looks like electronics. There’s a ₹1850 outstanding shipping charge. We need to clear this to get it dispatched.
+receiver: ₹1850? Mainne toh kuch order kiya hi nahi tha. Yeh kya bakwas hai?
+caller: Ma'af kijiye, madam. Sometimes these things happen with online orders, especially during festive sales. To release the package, we need you to make a quick payment through our secure portal. I can send you a link.
+receiver: Link? Kya guarantee hai yeh safe hai? Mujhe yeh kuch khaas pasand nahi aa raha hai.
+caller: Madam, Bluedart is a reputable company. This is a standard verification process. If you don't clear the payment within the next hour, the package will be returned to the sender, and you’ll have to pay for the return shipping too. Please, to avoid any inconvenience, just confirm the payment.
+receiver: Theek hai, ek minute rukiye. Main check karti hoon.

@@ -1,0 +1,9 @@
+caller: Hello sir/madam, my name is Vikrant calling from FastLoan India. We've noticed you recently applied for a personal loan online. Is that correct?
+receiver: Yes, I did apply a few days ago. But I haven’t heard anything back yet.
+caller: Wonderful! You’ve been pre-approved for a loan of ₹2.5 lakhs at a very attractive interest rate. Just a small processing fee of ₹7,500 is required to activate your loan. We need to transfer it to this account: [Account Number].
+receiver: ₹7,500 upfront? That seems a bit strange. Usually, they deduct the processing fees from the loan amount itself, right?
+caller: Sir, this is a special promotional offer. It's a one-time fee.  Once that's cleared, the money will be disbursed to your account immediately. Also, we have noticed that you have pending dues with some other loan providers. If you don’t clear this processing fee quickly, we will have to cancel your loan application. We don’t want that to happen, do we?
+receiver: Okay, wait a minute. I'm feeling a bit uneasy about this. Let me just double-check with HDFC Bank directly, just to be sure.
+caller: Sir, please hurry! The offer is only valid for the next 30 minutes. We don't want you to miss out. If you delay, the offer will be lost, and we might have to report you for loan defaulting behavior as well.
+receiver: This is getting ridiculous. I'm ending this call now. You're a scammer!
+caller: Sir, please! Don't be hasty! Think about your credit score! It's a great opportunity! Don't let it go!

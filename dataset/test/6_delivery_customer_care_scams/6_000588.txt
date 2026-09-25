@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul hai, Zomato customer care se. Aapke recent order mein kuch problem aa gayi hai. Payment process mein ek error show ho raha hai.
+receiver: Arrey? Kya problem hai? Mai toh payment kar chuka hoon.
+caller: Haan ji, system mein showing nahi kar raha. Aapko ₹500 ka security deposit dena padega, tabhi order proceed hoga. UPI se kar sakte hain, 9876543210 iska account number.
+receiver: ₹500 security deposit? Zomato toh kabhi security deposit nahi leta. Ye fraud lag raha hai.
+caller: Nahin, nahin! Yeh new policy hai, security reasons ke liye. Otherwise, aapka order cancel ho jayega aur aapka ₹800 ka lunch bhi waste ho jayega. Jaldi karo!
+receiver: ₹800 ka lunch? Aur security deposit? Wait, let me check my Zomato app.
+caller: Jaldi karo, madam! Time barbaad ho raha hai. ₹500 deposit karvao, ya order cancel ho jayega. Jaldi karo, 9876543210 iska account number. Please.

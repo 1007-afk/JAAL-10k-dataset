@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from SwiftShip Courier. We've been trying to reach you regarding a parcel addressed to your name. It's currently held at our Mumbai sorting facility due to an unpaid customs fee.
+receiver: SwiftShip? I didn't order anything recently. Are you sure you have the right number?
+caller: Yes, ma'am. The reference number is ZC4789. It’s a high-value item, and to release it, we require a small customs clearance fee of ₹2,800. You can pay securely online through our website.
+receiver: Two thousand eight hundred? For customs? That seems awfully high. And why didn't I receive any notification about a fee? What's the item?
+caller: The item is listed as “Electronics Accessories,” ma'am. The notification system sometimes glitches. To avoid further delays and potential return of the package, please make the payment immediately. We can send you a secure payment link.
+receiver: Wait a second. "Electronics Accessories" is so vague. Could you please tell me the sender's name and a more detailed description of the item? Also, why can’t I just go to your office and sort this out in person?
+caller: Ma'am, due to current health and safety protocols, in-person visits are temporarily suspended. The sender's details are protected for privacy reasons. But to ensure the prompt delivery of your parcel, please confirm your OTP so I can generate the payment link.

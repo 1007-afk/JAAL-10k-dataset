@@ -1,0 +1,12 @@
+caller: Fantastic! Perfect! Just one moment while I enter your details... Thank you so much! You won’t regret this!
+caller: Namaste! Kaise ho? Main Bharat Telecom se baat kar rahi hu. Aapko ek bahut hi special offer mila hai, kya aapko smartphone lena pasand hai?
+receiver: Arre, achcha hua. Mein thik hoon. Smartphone? Haan, mujhe smartphone ki zarurat hai. Kitne ka offer hai?
+caller: Toh yeh hai, ek Samsung Galaxy M04 hai, aur ismein 64GB storage hai. Ismein 200 rupees ka recharge pack free mila hai, aur 100 SMS bhi free hain. Aur ek small LED flashlight bhi free mein milega! Kya aapko yeh deal pasand aaye?
+receiver: LED flashlight? Woh kya hai? Aur 200 rupees ka recharge pack? Thoda confused hoon main. Fir delivery kaise hogi?
+caller: Delivery? Toh yeh ek online order hai, sir. Aapko sirf payment karne hai, aur hum aapka phone 3 din mein deliver kar denge. Ek bahut hi speedy delivery hai, trust me! Aur yeh offer sirf aaj raat tak chalega. Pakka nahi hai ki iska koi date hai.
+receiver: Aaj raat tak? Fir delivery 3 din mein? Mein dekhunga. Mujhe kuch sawaal hain. Yeh phone genuine hai kya? Aur warranty hai kya?
+caller: Haan, completely genuine hai. Original Samsung hai, aur ismein 1 year ka official warranty hai. Flipkart se bhi khareeda tha, sir.  Aapko just ₹7999 pay karna hai.  Yeh deal bahut achcha hai, sir, aapko miss mat karna.
+receiver: ₹7999? Wo toh kitna expensive hai! Mere pass ₹8000 nahi hai. Kya koi alternative offer hai?
+caller: Arre, wo nahi, yeh ek exclusive offer hai sirf unlogo ke liye jo early adopter hain.  Agar aap abhi book karte hain, toh aapko ek extra USB cable bhi free mein milega!  Yeh offer sirf 2 phones bandhe hain, sir!  Agar aapko abhi nahi chahiye, toh kal subah aapko call karenge, aur yeh opportunity aapko miss kar sakte hain.  Just confirm kar do, aur main aapki delivery tomorrow ke liye book kar dunga. Kya bolte ho?
+receiver: 2 phones bandhe? Fir delivery? Aur USB cable bhi free mein?  Mein sochta hoon.  Delivery address kya hai?
+caller: Aapka address aap poochh rahi hain, sir.  Main aapki delivery address jankari le rahi hu...  Aapka address bataiye.  Thank you so much!

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Rathore calling from the Directorate of Enforcement. We need to speak with you urgently regarding a suspicious transaction linked to your account.
+receiver: Haan, main hoon Mr. Sharma. Kyun, kya hua?
+caller: Sir, we've detected a large sum of ₹12,000 being transferred to an overseas account linked to suspected illegal activities. We need to verify some details to ensure your involvement is unintentional. Can you please confirm the last four digits of your bank account number?
+receiver: Illegal activities? ₹12,000? Main toh itni badi baat se toh kabhi nahi sunna. Account number bataana hai? Kaise?
+caller: Sir, it’s a standard security protocol. We are working to prevent money laundering. To proceed, we require your full KYC details – your PAN card number and Aadhaar card number. We must verify your identity immediately, Sir. The case is escalating.
+receiver: PAN card aur Aadhaar card number? Kaise bhi? Main police station mein jaunga agar tum logon ne mujhse aise number maange. Tum log scammer ho!
+caller: Sir, please do not raise your voice. We understand this is alarming, but we are trying to help you. If you don't cooperate, we may have to issue a warrant for your arrest based on the evidence we have. We need to confirm these details before the situation worsens.
+receiver: Arrest warrant? Yeh toh bohot badmast hone ka naam hai! Main legal action lunga tumhare khilaf. Tumhara phone number mujhe do, main complaint register karunga.

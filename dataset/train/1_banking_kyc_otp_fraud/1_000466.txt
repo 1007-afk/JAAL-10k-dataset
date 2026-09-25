@@ -1,0 +1,8 @@
+caller: Hello, Namaste! Calling about some missed calls from this number, 9876543210. Did you get any calls from us recently? Just checking if you received an important update.
+receiver: Hello, Haan, namaste! Yes, I saw a couple of missed calls. I was busy working, so I didn’t answer. What was the update about?
+caller: Arre, koi baat nahi! It was regarding your account with ‘Shree Traders’. We were just informing you about a payment reminder – a small amount due on your last purchase.  We tried to reach you to ensure everything is settled smoothly.  Did you happen to buy anything recently from our store?
+receiver: Oh, a payment reminder! Yes, I bought a [mention a plausible item, e.g., 'small wooden shelf' or 'a set of kitchen utensils'] last month.  Okay, let’s proceed then. Can you confirm my details please?
+caller: Bahut achha! Please tell me your full name and address, so we can verify your account and make sure the payment goes through correctly.
+receiver: Okay, my name is Priya Sharma, and my address is Sector 16, Patel Nagar, Delhi, and the pin code is 110007. Please check if this is correct.
+caller: Shukriya, Priya ji! Your address is Sector 16, Patel Nagar, Delhi, pin code 110007. That seems right. Now, to fully confirm your account and process the payment, we need to send a one-time password (OTP) to your registered mobile number. Would you mind verifying that number? This is just for security purposes.
+receiver: Haan, yes, it’s 9876894532. Send the OTP. Let’s do it.

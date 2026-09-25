@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? This is Akash from BharatPe support. We've detected some unusual activity on your BharatPe account and need to verify it urgently to prevent potential fraud.
+receiver: BharatPe? Unusual activity? What happened? I haven’t done anything different.
+caller: Yes, ma'am. There was a request to send ₹12,000 to an unknown UPI ID. The transaction is currently pending due to security protocols. We need to verify if you initiated this transfer. Can you confirm the last four digits of your registered phone number?
+receiver: ₹12,000? No! I definitely did not request that. My phone number ends in 2837. But why is it pending?
+caller: That's good, ma’am. It's still pending, so we can stop it. To confirm it’s you and release the transaction hold, we need to quickly send a verification code to your BharatPe UPI address. Please share the UPI ID associated with your account. It's a one-time thing, just to secure your funds.
+receiver: Wait a minute. Sending a code to my UPI ID? That sounds very strange. BharatPe usually sends SMS. Can you give me the official BharatPe helpline number so I can double-check with them?
+caller: Ma’am, for speed and security, UPI is the most efficient method. We don’t want the fraudulent transaction to go through. Our helpline is very busy right now, and this is the fastest way to resolve it. Just give me the UPI ID, and I’ll initiate the verification immediately.
+receiver: No, I’m not comfortable sharing my UPI ID over the phone. I’ll contact BharatPe directly through their official app to report this. Thank you.

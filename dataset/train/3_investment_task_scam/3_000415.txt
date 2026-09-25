@@ -1,0 +1,9 @@
+caller: Namaste! Apsara Travels se baat ho rahi hai. Aapki 2018 ki travel voucher, 4821, abhi bhi aapke account mein hai. Ismein ek badi discount hai, ₹15,000 ka, lekin woh redeem nahi hui hai. Is redemption ke liye, aapko apna unique ID, 98765, enter karna hoga. Redemption ka time barabar hai, 30 June, 2018. Kya aap is voucher ke bare mein jankari le rahe hain?
+receiver: Ji ji, main iski puri tarah jankari le raha hoon. Mujhe bataiye, ab mein kya karna hoga?
+caller: Shuruaat karein toh, aapko apne bank account ki complete detailn bataani hogi, jo aapne Apsara Travels mein registration karte samay deki thi. Account number aur IFSC code, dono chahiye. Agar aapko ye detailn yaad nahi aa rahi hain, to hum aapko screenshot bhejna mushkil nahi hai.
+receiver: Bank account detailn? Haan ji, meri account number 4567-8901 hai aur IFSC code ABCDEF0123 hai.
+caller: Dhanyavaad! Just a second, main yeh check kar leta hoon… Okay, ji! Aapka bank account 4567-8901 verify ho gaya hai. Ab, is discount ko aapke account mein daalne ke liye, humein ek small verification step karna hoga. Aapko apna registered mobile number ke last 3 digitn bataani hogi. Yeh sirf secure karne ke liye hai, ki points aapko hi milen.
+receiver: Mobile number ke last 3 digitn? Um… Woh 789 hain.
+caller: Achcha! 789. Shukriya. Ab, is ₹15,000 ke discount ko aapke account mein transfer karne ke liye, humein ek final confirmation request karna hoga. Aapko apni address ka zip code bataana hoga. Yeh uss wale process ke liye zaroori hai.
+receiver: Zip code? Haan ji, mera zip code 110001 hai.
+caller: Thansk! Aapka transaction complete ho gaya hai. Aapko ₹15,000 discount aapke account mein transfer ho jayega. Thank you for choosing Apsra Travels!

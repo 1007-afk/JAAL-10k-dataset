@@ -1,0 +1,7 @@
+caller: Hello! Is this Priya? I'm Rohan, from SparkMatch. We’ve been trying to reach you. There’s a gentleman, Mr. Sharma, who's been admiring your profile and would like to send you a special gift to show his appreciation. It’s a lovely surprise, and he’s quite eager!
+receiver: Rohan? SparkMatch? I don't remember any Mr. Sharma. I've been pretty busy with work lately. What kind of gift are we talking about? And how does he even know I’m Priya?
+caller: He's been following your profile for a while, beta. He's very impressed. The gift is a brand new iPhone 15 Pro Max, straight from the Apple store. It’s a token of his… affection. All he needs is a small verification fee, just ₹5,000, to cover the shipping and customs charges. It will be refunded instantly once the gift is processed. 
+receiver: An iPhone? Seriously? That sounds a little too good to be true. Verification fee? I'm not comfortable sending money for something like this. It could be a scam. 
+caller: Arre, arre, don't be like that! Trust me, this is genuine. Mr. Sharma is a very respectable businessman. He just wants to make a good impression. Think of it - a free iPhone! Only three people left who can avail this offer today. Just send the ₹5,000 to the UPI ID: SecureGifts77. Do it quickly, beta, before it’s too late!
+receiver: SecureGifts77? That sounds incredibly fishy. I’m not sending any money to an unknown UPI ID. I'm reporting this to SparkMatch and blocking your number. This is a blatant scam.
+caller: Wait! Beta, don’t

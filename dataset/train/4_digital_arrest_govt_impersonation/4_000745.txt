@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence. We've intercepted a suspicious package linked to your mobile number.
+receiver: Haan, main hi hoon. Kuch hua? Package kiski baat kar rahe hain aap?
+caller: Sir, the package contained items that raise serious concerns regarding illegal import and potential involvement in money laundering. We need to verify your details immediately to avoid further legal complications. Can you confirm your full name and address for verification?
+receiver: Money laundering? Illegal import? Mujhe toh kuch pata nahi hai. Main toh online shopping karta hoon kabhi kabhi, lekin aise kuch nahi. Mera naam Rahul Sharma hai, aur mera address Flat 302, Green Heights Apartment, Pune.
+caller: Thank you, Mr. Sharma. Our records show a recent international transaction from your account linked to this package. To clear this up quickly and prevent arrest, we need you to deposit ₹15,000 as a temporary holding fee to secure your release and ensure the package is thoroughly checked.
+receiver: ₹15,000? Arrest? Yeh kya bakwaas hai? Main koi paisa nahi de raha hoon. Main police station mein jaakar report karunga.
+caller: Sir, please don't make this difficult. We have video evidence linking your account. We can arrange a video call with the investigating officer to show you the evidence. Do this quickly, and this matter will be resolved quietly. Failure to comply will result in immediate legal action.

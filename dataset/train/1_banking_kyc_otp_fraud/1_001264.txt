@@ -1,0 +1,9 @@
+caller: Namaste sir, mera naam Vikram hai, Axis Bank se baat kar raha hoon. Aapka naam Rajesh Kumar hai?
+receiver: Haan, main Rajesh Kumar hi hoon. Bolo, kya baat hai?
+caller: Rajesh ji, aapke Axis Bank account mein ek suspicious login attempt detect hua hai. Security ke liye, humein aapki verification karni hogi.
+receiver: Suspicious login? Kahan se ka attempt hua? Mujhe toh koi idea nahi hai.
+caller: Ji sir, hum abhi track kar rahe hain. Verification ke liye, mujhe aapka OTP chahiye jo aapke registered mobile number par aa raha hoga.
+receiver: OTP? Wait, main check karta hoon. Aapne mujhe ek minute aur rukne do.
+caller: Sir, OTP jaldi chahiye. Abhi kisi aur ke haath mein aapka account chal sakta hai. Account suspend hone se bachne ke liye jaldi bataiye.
+receiver: Nahin, main OTP nahi de sakta. Aapko koi bhi personal information nahi milega. Yeh scam lag raha hai.
+caller: Rajesh ji, aapka account suspend ho jayega. Main aapko verify kar raha hoon, aapko koi nuksan nahi hoga. Jaldi bataiye OTP.

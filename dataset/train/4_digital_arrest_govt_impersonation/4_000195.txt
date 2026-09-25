@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We’ve intercepted a suspicious package addressed to your name at the Indira Gandhi International Airport.
+receiver: Hello? Haan, mein hu Mr. Sharma. Kuch hua? Package? Kya baat hai?
+caller: Ji, Mr. Sharma. The package contained several items flagged as potentially linked to illegal arms trafficking. Your name appeared as the recipient, and we need to clear this up immediately. We're holding it pending further investigation.
+receiver: Arms trafficking? Yeh kya keh rahe hain aap? Mein toh kabhi koi package order nahi kiya. Aur arms trafficking? Itni galat baat!
+caller: Sir, we understand this may be alarming. To prevent further legal complications, you’ll need to pay a small processing fee of ₹12,000 to verify your identity and clear the package. This is standard procedure. We can arrange a video call so you can see the package and verify your details.
+receiver: ₹12,000? Aur video call? Yeh thoda fishy lag raha hai. Koi receipt milegi? Or koi official reference number? Aur customs department ka phone number toh available hai na online?
+caller: Sir, due to security protocols, we don’t issue receipts for this verification process. The video call is to assure you of our authenticity. If you don't cooperate, we’ll be forced to escalate this to the CBI and file a formal FIR against you. We have your details and are monitoring your phone.
+receiver: CBI? FIR? Wait a minute… This all sounds like a scam. I'm not paying anything. I'm going to report this number.
+caller: Sir, don't be hasty. This is your last chance to resolve this peacefully. The system is already processing your case. Make the payment now to avoid

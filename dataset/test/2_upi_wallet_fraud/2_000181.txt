@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main BharatPay se Sunil bolta hoon. Aapke BharatPay wallet mein ek suspicious transaction detect hua hai, ₹7500 ka.
+receiver: ₹7500? Mainne koi transaction kiya hi nahi! Kya ho raha hai?
+caller: Ji, sir, system mein error dikha raha hai. Payment pending hai, lekin kisi ne try kiya hai. Aapko confirm karna hoga taaki transaction cancel ho jaye aur aapka account secure rahe.
+receiver: Confirm? Kaise confirm karoon? Mujhe koi OTP ya kuchh nahi aaya.
+caller: Sir, confirm karne ke liye aapko apna BharatPay UPI ID aur ek OTP dena hoga jo main aapko abhi send karunga. Tabhi issue resolve hoga.
+receiver: UPI ID? Sirf phone pe bolke main woh kaise de sakta hoon? Yeh scam toh lag raha hai!
+caller: Sir, please understand, security ke liye hi kar rahe hain. Agar aap confirm nahi karenge toh aapka account freeze ho sakta hai. Fast please. Number dial karein: 9012345678.

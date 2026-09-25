@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Ravi hai, main PhonePe support se call kar raha hoon. Aapke PhonePe account mein security alert generate hua hai.
+receiver: Kya alert hua? Sab theek tha na abhi tak?
+caller: Sir, ek suspicious login attempt hua hai, Maldives se. Aapne kabhi Maldives mein travel nahi kiya, hai na? Isliye hum aapke account ko suspend karne ke liye tayyar kar rahe hain. Agar aap verify nahi karte toh aapka paisa bhi risk mein aa sakta hai.
+receiver: Maldives? Wow! Maine toh kabhi socha bhi nahi tha. Verify kaise karun? Koi link bhejo?
+caller: Koi link nahi sir, bohot risky hai. Aapko bas PhonePe app mein login karna hai aur ‘Verify Now’ button par click karna hai. Verify karte waqt, aapko ek small processing fee bhar deni hogi, sirf 500 rupay, security ke liye.
+receiver: 500 rupay? Security fee? PhonePe toh kabhi aise fees nahi maanga tha.
+caller: Sir, security standards strict ho gaye hain. Ab har account verify hona zaroori hai. Agar aap verify nahi karte toh account permanent suspend ho jayega aur aapka sab paisa bhi jam ho jayega. Aapko chahie ki aap abhi kar dein, nahi toh bahut late ho jayega.

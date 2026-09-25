@@ -1,0 +1,11 @@
+caller: Hello sir, this is from FreeCharge customer support. We've noticed unusual activity on your FreeCharge wallet and need to verify your details for security purposes.
+receiver: Oh really? Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes sir, there was a recent attempt to transfer money out of your wallet. To prevent any loss, we need you to confirm your account by providing a one-time password sent to your linked bank account.
+receiver: A one-time password? Why can’t you just verify it through the FreeCharge app itself? This seems a bit strange.
+caller: Sir, due to the security breach, we're following this procedure for all affected users. Just share the OTP with us and we’ll quickly secure your wallet. We are also offering a bonus of ₹50 cashback to thank you for your cooperation.
+receiver: Okay, I see. The OTP is 123456. So I’ll get ₹50 cashback, right?
+caller: Absolutely sir. Thank you for your quick action. Now, to activate the cashback, we need you to send ₹10 as a processing fee to this UPI ID: 8888888888@ybl. Please note this is a one-time charge.
+receiver: Wait, a processing fee? I thought you were giving me cashback, not asking me to pay!
+caller: Sir, it's a small fee to activate the cashback. This is a new security measure. Just transfer ₹10, and the cashback will be credited immediately. It's a limited-time offer.
+receiver: I don’t think I’m comfortable with this. I’m going to check with FreeCharge directly.
+caller: Sir, please don't delay. The offer is ending soon, and your wallet

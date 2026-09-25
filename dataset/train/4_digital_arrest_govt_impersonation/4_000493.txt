@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Inspector Sharma hai, CBI se. Humko ek parcel delivery ke bare mein ek serious allegation mila hai jo aapke naam se linked hai.
+receiver: CBI? Parcel delivery? Kya allegation hai? Mein toh koi parcel nahi order kiya tha.
+caller: Ji haan, sir. Ek suspicious parcel Gujarat se aaya tha, aur usmein illegal items milne ke chances hain. Aapko is matter mein involve pata chala hai. Agar aap cooperate karte hain toh hum case ko fast track kar sakte hain.
+receiver: Illegal items? Mein toh bilkul innocent hu! Mujhe kuch samajh nahi aa raha. Kya karna hoga mujhe?
+caller: Us parcel ki investigation ke liye, humein ₹12,000 ka security fee chahiye. Yeh amount us parcel ko detain karne aur verification karne ke liye hai. Paytm ya Google Pay se kar sakte hain.
+receiver: ₹12,000? Yeh bahut zyada lag raha hai! Mein police station mein jaakar report karunga agar yeh fraud nikla. Mujhe sahi account number chahiye, verification ke liye. Aur main kisi se bhi baat karna chahta hoon jo senior officer ho.
+caller: Sir, time bahut kam hai.  Fraud nahi hai, trust me. Yeh process hai, agar aapko trouble se bachna hai toh abhi payment kar dijiye. Mein aapko OTP bheju ga, payment confirm karne ke liye. Account number mein confirm karta hu – 9876543210. Jaldi karo, sir.

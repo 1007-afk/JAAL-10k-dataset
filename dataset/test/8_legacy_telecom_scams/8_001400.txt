@@ -1,0 +1,13 @@
+caller: Namaste, main ‘Shubh Fortune Services’ se baat kar raha huun. Kaise hain aap sab? Mein aapko batana chahata hun ki aap ek amazing competition mein enter hue hain! Aapko ek ₹5000 ka gift card jeetne ka chance mil gaya hai. Agar aap jeetna chahte hain, toh aapko ek simple question jawab dena hai. Sirf tell me, Gautam Buddh ne kaha tha kya?
+receiver: Namaste, main theek hoon, dhanyavaad. Gautam Buddh ne kaha tha...? Hmm, wait karo.
+caller: Wah, achha jawab! Gautam Buddh ne 'Dharma' ke prati pyaar rakhni kaha tha! Ab aapko yeh answer 789456 pe SMS karna hai. Apne paas sirf 5 attempts bache hain! Dhyaan rakhe, yeh offer expiry hone wali hai!
+receiver: Okay, 789456 pe SMS karna hai. Dhanyavaad. Aur yeh 5 attempts kab tak valid hain? Kitne samay tak mujhe reply karna hai?
+caller: Oh, 5 attempts 12 ghante mein valid hain, ji. Aur haan, 5 nahi, ab aapke paas sirf 4 attempts bache hain! So, please SMS your answer to 789456 as soon as possible! Don’t miss out on winning your ₹5000 gift card!
+receiver: Arre, 12 ghante? Aur ab 4 attempts? Theek hai, theek hai. Main abhi SMS kar dungi. Dhanyavaad ke baapki!
+caller: Arre haan ji, bas ab aapke paas sirf 3 attempts bache hain! Jaldi se SMS kar dein 789456 pe aapka answer. Iske baad offer nikal jayega, aur aap ₹5000 gift card nahi jeet sakte!
+receiver: Arre yaar, ab sirf 3 attempts? Yeh toh bahut jaldi ho raha hai! Theek hai, main abhi SMS kar rahi hoon. Dhanyavaad bataane ke liye!
+caller: Arre haan ji, bas ab aapke paas sirf 2 attempts bache hain! Jaldi se SMS kar dein 789456 pe aapka answer. Iske baad offer nikal jayega, aur aap ₹5000 gift card nahi jeet payenge. Please hurry!
+receiver: Arre yaar, ab sirf 2 attempts? Seriously? Theek hai, main abhi send kar dungi. Dhanyavaad!
+caller: Arre haan ji, bas ab aapke paas sirf 1 attempt bacha hai! Jaldi se SMS kar dein 789456 pe aapka answer. Iske baad offer nikal jayega, aur aap ₹5000 gift card nahi jeet sakte!
+receiver: Okay, okay, I'm sending it now!
+caller: Arre haan ji, congratulations! Aapko ₹5000 ka gift card mila hai! Ab aapko sirf payment karne ki requirement hai. Account number aur IFSC code batayein.

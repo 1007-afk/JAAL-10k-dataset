@@ -1,0 +1,22 @@
+caller: Namaste! Main Bharat Telecom se baat kar rahi hu. Aapko ek special offer mili hogi, jiske bare mein hum baat karna chahte hain. Aapse pehle bhi contact kiya gaya tha, yaani ki tumhari mobile number 9876543210 par ek message bheja gaya tha. Kya tumne wo message dekha?
+receiver: Haan, maine dekha tha. Woh offer kitna acha tha. Mein thoda confused tha kyunki number padh raha tha.
+caller: Absolutely! Is offer mein aapko 600 minutes ka internet, 200 SMS aur ek smart watch milega. Humne aapke liye online registration ka process start kar diya hai. Delivery kab tak mil sakta hai?
+receiver: Delivery kab tak? Mein office mein hoon, thoda busy hu. Tumhara helpline number bataiye, main baad mein call karunga.
+caller: Helpline number hai 09876543211. Parantu, agar aapko jaldi delivery chahiye toh hum aaj hi register kar sakte hain. Agar aaj register ho rahe hain, toh aapko smartwatch milega.
+receiver: Smartwatch toh achcha hai! Fir delivery kab hoga?
+caller: Aaj hi register karne ke baad, aapko email id mil jaayegi. Email id enter karne ke baad, delivery schedule confirm ho jayega. Aapka email id bataiye.
+receiver: Mera email id hai [Invented Email ID, e.g., example@email.com].
+caller: Thank you! Email id verify hone ke baad, aapko delivery date aur time pata ho jayega. Kal tak delivery ho jayega. Agar aapko koi problem hai toh hamara helpline number pe contact karte reh sakte hain.
+receiver: Okay, thank you so much!
+caller: Aapka mahfile kholsa! Yeh Bharat Telecom se bol raha tha. Aapko ek special offer mili hogi.
+caller: Namaste! Main Bharat Telecom se baat kar rahi hu. Aapko ek special offer mili hogi, jiske bare mein hum baat karna chahte hain. Aapse pehle bhi contact kiya gaya tha, yaani ki tumhari mobile number 9876543210 par ek message bheja gaya gaya. Kya tumne wo message dekha?
+receiver: Haan, maine dekha tha. Woh offer kitna acha tha. Mein thoda confused tha kyunki number padh raha tha.
+caller: Absolutely! Is offer mein aapko 600 minutes ka internet, 200 SMS aur ek smart watch milega. Humne aapke liye online registration ka process start kar diya hai. Delivery kab tak mil sakta hai?
+receiver: Delivery kab tak? Mein office mein hoon, thoda busy hu. Tumhara helpline number bataiye, main baad mein call karunga.
+caller: Helpline number hai 09876543211. Parantu, agar aapko jaldi delivery chahiye toh hum aaj hi register kar sakte hain. Agar aaj register ho rahe hain, toh aapko smartwatch milega.
+receiver: Smartwatch toh achcha hai! Fir delivery kab hoga?
+caller: Aaj hi register karne ke baad, aapko email id mil jaayegi. Email id enter karne ke baad, delivery schedule confirm ho jayega. Aapka email id bataiye.
+receiver: Mera email id hai [Invented Email ID, e.g., example@email.com].
+caller: Thank you! Email id verify hone ke baad, aapko delivery date aur time pata ho jayega. Kal tak delivery ho jayega. Agar aapko koi problem hai toh hamara helpline number pe contact karte reh sakte hain.
+receiver: Okay, thank you so much!
+caller: Aapka mahfile kholsa! Yeh Bharat Telecom se bol raha tha. Aapko ek special offer mili hogi.

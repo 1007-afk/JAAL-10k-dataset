@@ -1,0 +1,8 @@
+caller: Namaste! Yeh main Aditya se baat kar raha hoon, Paytm Payments Bank se. Aapko Diwali ke mela mein Paytm se ₹500 cashback jeeta hai! Confirm karne ke liye, aapko ek small verification process complete karna hoga.
+receiver: Really? Paytm cashback? Wow! Which plan did I need to participate?
+caller: Bilkul! Kisi plan ki zaroorat nahi hai. Paytm aapki lucky draw mein select kiya hai. Verification ke liye, mujhe aapka registered email ID aur last 4 digits of your PAN card number chahiye.
+receiver: My email is rajesh.mittal@gmail.com. PAN number ends in 4582. Is this really secure?
+caller: Haanji, bilkul secure! Isliye main aap se phone pe baat kar raha hoon. Abhi main ek OTP generate kar raha hoon jo aapko One97 app par milega. Woh OTP mujhe bataiye.
+receiver: Okay, just received the OTP. It’s 879321.
+caller: Shukriya! OTP correct hai. Ab, aapko cashback claim karne ke liye, ek small processing fee ₹50 pay karna hoga. Aapka Paytm wallet number bataiye, main transaction start karunga.
+receiver: Wait a minute... processing fee? I thought it was a free cashback? This feels a bit off.

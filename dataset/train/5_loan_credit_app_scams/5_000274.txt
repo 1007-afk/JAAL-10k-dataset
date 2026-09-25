@@ -1,0 +1,7 @@
+caller: Namaste! Main Rupali Verma, QuickCash Solutions se bol rahi hoon. Aapne recent mein online loan apply kiya tha, right? Verification ke liye call kar rahi hoon.
+receiver: Ji, Haan. Mujhe yaad hai. Kitna loan apply kiya tha maine?
+caller: Aapne ₹15,000 apply kiya tha, sir. Abhi process ho raha hai. Just few details confirm karne hain. Aapka PAN card number de sakte hain?
+receiver: PAN card number? Kyun? Loan to approve ho gaya tha, mujhe lagta hai.
+caller: Sir, security ke liye zaroori hai. Verification ke bina hum transfer nahi kar sakte. PAN card number… aur aapka OTP bhi chahiye hoga.
+receiver: Dekhiye, mujhe kuch gadbad lag rahi hai. Main police mein complaint kar doonga agar kuch bhi ghalat hua.
+caller: Sir, please don’t be like that! Hum toh bas aapki help kar rahe hain. ₹15,000 ka loan aapke account mein abhi transfer ho sakta hai, just give us the OTP and PAN number. Otherwise, process cancel ho jayega, aur dobara apply karna padega.

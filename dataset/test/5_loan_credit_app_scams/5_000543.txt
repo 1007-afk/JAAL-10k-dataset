@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? I'm calling from Loan Express. We saw your application for a quick loan of ₹10,000. Just a few quick verification steps, and it’s yours.
+receiver: Loan Express? Yes, this is she. I did apply. What do you need?
+caller: Excellent! Can you please confirm your Aadhaar number for verification purposes? It's just to ensure we're speaking with the correct applicant.
+receiver: It's 4567-9012-3456.  Is everything okay? I really need this loan urgently.
+caller: Yes, perfect! Now, as per our policy, we require a small processing fee of ₹1,500 to activate your account. You can deposit it to this UPI ID: 888888@ybl.  Once it's confirmed, we’ll release the ₹10,000 immediately.
+receiver: ₹1,500? That's a lot for just processing! Are you sure about this?
+caller: Madam, this is a standard procedure. Without it, we cannot release the loan. If you fail to comply, we will report you for loan fraud and send your details to your contacts for harassment. It's urgent.

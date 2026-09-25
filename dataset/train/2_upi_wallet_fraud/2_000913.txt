@@ -1,0 +1,6 @@
+caller: Namaste, main Google Pay se raha hoon. Aapke Google Pay account mein ek suspicious transaction detect hua hai. Security ke liye, humein aapki UPI ID aur OTP verify karna hoga.
+receiver: Google Pay se call kar rahe ho? Mere account mein kuch ghalat transaction hua hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, sir. System automatically detect karta hai. Aapko notification late se mil sakta hai. Humne aapko SMS se bhi alert bheja tha. Aapka OTP bataiye, hum isko verify kar lenge aur aapka account safe ho jaayega.
+receiver: SMS toh aaya tha, par OTP share karna mujhe thoda risky lag raha hai. Kaise pata chala ki aap Google Pay se hi call kar rahe ho? Koi verification number ya reference number bata sakte ho?
+caller: Sir, verification number confidential hai, woh hum disclose nahi kar sakte. Lekin agar aap OTP nahi de rahe ho, toh aapka account suspend bhi ho sakta hai. Security aapki responsibility hai, hum bas help kar rahe hain.  Aapka OTP de dijiye, zyada time na waste karein.
+receiver: Account suspend ho sakta hai? Par mujhe yakin nahi ho raha hai. Mein Google Pay app mein check karti hoon. Thoda wait karo.

@@ -1,0 +1,19 @@
+caller: Namaste! Aapko humara special lottery scheme mein welcome hai. Shuru ke liye, mujhe bataiye aapki umar aur gender. Like, 42M. Hum bahut excited hain dekhne ke liye ki aapko kaise selected kiya gaya hai!
+receiver: Oh, hello. Main 55 male hoon. Lottery scheme ka kya hota hai? Prizes kya hain?
+caller: Haanji, lottery scheme ka hi intazaar hai! Mujhe aapka name pata karna tha, sir/madam? Name pata karne ke baad hi, hum aapko scheme ke bare mein sabhi details batayenge!
+receiver: Mera naam Vijay Kumar hai. Bolo, lottery mein kya prizes hain?
+caller: Achha, Vijay ji! Aapka naam confirm ho gaya hai. Aapne jeeta hai ek beautiful Samsung Galaxy S23 Ultra! Picture karo, woh colourful display aapke haath mein! Just a few simple steps aur, aur yeh aapka ho jayega. Ek small security deposit lena hoga, just that.
+receiver: Wow, Samsung Galaxy S23 Ultra? Seriously? Security deposit kitna hai aur steps kya hain?
+caller: Exactly, Vijay ji! Samsung Galaxy S23 Ultra! Yeh hamare liye baraa formality hai, to ensure you are the real winner. Security deposit hai sirf ₹3499. Yeh ek very small amount hai, delivery charges aur warranty cover ke liye. Steps ke liye, humein aapki Aadhaar card number aur mobile number chahiye, taki hum check kar sake ki aap genuine user hain. Can you provide those to us?
+receiver: Aadhaar card number aur mobile number? Wait, wait. Yeh abhi bhi thoda suspicious lag raha hai. Galaxy jeetne ke liye Aadhaar card number kyu chahiye? Security deposit toh clear hai, delivery ka bhi. Lekin Aadhaar card number? Ye kya process hai?
+caller:
+receiver:
+caller: Hello! Welcome to our special prize draw. To start, please tell me your AGE and GENDER. For example, 35F. We're excited to see if you're our lucky winner!
+receiver: Uh, okay. Main 28 male hoon. Prize draw ke liye? Kaisa prize hai?
+caller: Haanji, prize draw ke liye hi hai! Aapka naam confirm karna tha, Sir/Madam? Jaise hi naam confirm hoga, we can tell you more about the amazing prize!
+receiver: Meri naam Rahul Sharma hai. Bataiye kya prize hai?
+caller: Bahut badhiya, Rahul ji! Aapka naam confirm ho gaya hai. Aapne jeeta hai ek dum shaandaar Apple iPhone 15 Pro! Imagine karo woh shiny naya phone aapke haath mein! Bas kuch verification steps aur hain, aur ye aapka ho jayega. Ek chhota sa processing fee dena hoga, bas.
+receiver: Oh wow! iPhone 15 Pro? Sach mein? Processing fee kitna hai aur verification steps kya hain?
+caller: Exactly, Rahul ji! iPhone 15 Pro! Ye hamare liye bas ek formality hai to make sure you are the rightful winner. Processing fee hai sirf ₹2999. Ye ek nominal amount hai for the shipping and handling, plus insurance for your brand new iPhone. Verification ke liye, humein bas aapka bank account details chahiye for the final payout, taki hum ye sure kar saken ki prize sahi bande tak pahunche. Can you share those with me?
+receiver: Bank details? Wait, wait. Ye thoda weird lag raha hai. iPhone jeetne ke liye bank details kyu chahiye? Processing fee toh samajh aata hai, shipping ke liye hoga. Lekin bank details? Ye kya verification hai?
+caller: Namaste! Aapko humara 'Digital Marketing Mastery' course mein welcome hai! Shuru ke liye, mujhe bataiye aapki age aur gender. Like, 3

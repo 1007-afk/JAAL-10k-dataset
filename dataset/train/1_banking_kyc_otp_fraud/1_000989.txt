@@ -1,0 +1,6 @@
+caller: Namaste, I’m calling from Axis Bank’s security department. We've noticed some unusual activity on your account and need to quickly verify your identity to prevent any unauthorized transactions.
+receiver: Unusual activity? What kind of activity? I haven't done anything out of the ordinary.
+caller: Yes sir, there was a login attempt from an unknown device in Mumbai. To safeguard your account, we need to confirm a few details. Could you please provide your PAN card number and the last three digits of your ATM card? It’s a standard security protocol.
+receiver: PAN card and ATM details over the phone? That sounds really risky. Banks usually don’t ask for that. Can I call your department back to verify? What’s the official number?
+caller: Sir, our official number is masked for security reasons, but this is a direct line to the verification team. Time is of the essence; if we don’t verify this quickly, we may have to temporarily suspend your account for your own protection. Just give me those numbers, and we can sort this out immediately.
+receiver: Suspend my account? Right. Look, I'm not comfortable with this at all. Can you at least send me an SMS with a reference number so I can call the bank back and confirm this is legitimate? I need some assurance before sharing any sensitive information.

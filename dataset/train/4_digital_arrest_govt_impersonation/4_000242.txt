@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Akash Verma? This is the Cybercrime Investigation Cell speaking.
+receiver: Haan, bolhiye. Cybercrime? Kya hua?
+caller: Sir, we've detected suspicious activity linked to your bank account. It appears someone has been using your details to process illegal cryptocurrency transactions. We need to verify a few details urgently to prevent further losses.
+receiver: Illegal transactions? Cryptocurrency? Par main toh kabhi cryptocurrency use nahi kiya. Kaise hua ye? Batao zara.
+caller: Sir, sophisticated hackers are using phishing techniques. To secure your funds, we need to confirm a small fee of ₹750 for a system security upgrade and audit. You can pay via UPI to the number I’ll provide. It’s a standard procedure.
+receiver: ₹750? System security upgrade? Maine toh kabhi aisa kuch suna nahi. Aur why UPI? Why can’t you guys take it from my bank account directly? And what about my data privacy, giving you my UPI details?
+caller: Sir, UPI is the fastest and most secure method in this scenario. Direct bank transfers trigger flags and delay the process, putting your funds at further risk. The fee is to temporarily lock your account while we conduct the audit. This is a standard protocol, sir, to prevent bigger losses. Payment details will be kept strictly confidential. Please pay to UPI ID: 9876543210@axisbank.

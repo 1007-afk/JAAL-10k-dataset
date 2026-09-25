@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Vijay hai, Axis Finance se. Aapko instant loan mil sakta hai, bahut easily. Bas kuch details chahiye.
+receiver: Haan, bolo. Mujhe ek personal loan chahiye tha, about 50,000 rupaye.
+caller: Bilkul, sir. Process bahut simple hai. Pehle, aapka PAN card number aur mobile number share karein. Fir, hum aapko ek OTP send karenge, usse verify hoga.
+receiver: Theek hai. PAN number hai ABCDE1234F, aur mobile number 9876543210.
+caller: Excellent, sir. OTP gaya hai aapke number pe. Check kar lijiye. Sir, OTP bataiye, please.
+receiver: Ji, OTP hai 456789.
+caller: Dhanyawad, sir. Verification ho gaya hai. Ab, sir, ek chota processing fee hai, sirf 2500 rupaye. Payment karne se loan approve ho jayega. Account details aapko send kar deta hoon.

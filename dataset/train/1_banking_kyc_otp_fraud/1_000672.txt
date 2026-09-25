@@ -1,0 +1,21 @@
+caller: Namaste sir, main DigiServe support se baat kar raha hoon. Aapki internet data plan 48 hours mein expire hone wali hai. Kya aap isko renew karna chahenge?
+receiver: Namaste, DigiServe support se? Meri data plan expire hone वाली है? Kaise pata? Mujhe to lagta tha yeh abhi valid hai. Mera name hai Priya Patel, please. Aur expiry date ka koi notification bhi nahi mila?
+caller: Ji madam, bilkul. Aapka name Priya Patel hai, right? Aur yeh expiry date notification aapke email id pe bheja tha. Ye ek standard reminder hai, sir. Agar aapko data continue karna hai, toh main aapki plan ko renew kar sakta hoon.
+receiver: Oh, email id…  Haan, woh tha. Par woh check karne ki time nahi mili. Mera phone number 876XXXXXXXX hai.  Aur main date of birth bhi bataungi, 2nd January 1988.  Isliye aap meri plan renew kar denge?
+caller: Ji Mrs. Patel.  Aapko internet plan renew karne ke liye, mujhe aapke registered account ID ki jaanki hai. Aur verification ke liye, kya aap mujhe apna address proof walaadhar card number bata sakte hain?
+receiver: Aadhar card number? Seriously?  Mujhe to sirf plan renew karne ki zaroorat hai.  Koi extra details nahi chahiye?  Yeh kitna scary hai!
+caller: Madam, security ke liye bahut zaroori hai.  Aapke account ko protect karne ke liye, hume aapke identity ko verify karna padta hai.  Agar aapko koi problem hai toh aap kisi trusted contact person ko bhi batayenge.
+receiver: Okay, fine.  Meri aadhar card number hai 99XXXXXXXX.  But I am really worried about sharing this information.  Aapne sure kaha ki meri plan renew ho jayegi?
+caller: Ji Mrs. Patel, absolutely. Aapke provided details ke hisaab se aapki internet plan renew ho gayi hai. Ab aapko koi problem nahi hogi.  Kuch aur madad chahiye ki aapko?
+receiver:  Okay, renew ho gayi?  Theek hai. Thank you very much for your help.  Main baad mein check karunga.  Bye!
+caller: Namaste sir, main SecurePay customer service se bol raha hoon. Aapki debit kart par 30 dinon mein transaction blocked hone wali hai. Kya aap isko reactivate karna chahenge?
+receiver: Namaste, SecurePay se? Transaction blocked hone wali hai? Kaise ho gaya yeh? Mein toh recently paisa transfer kiya tha. Mera naam Deepak Kumar hai, please. Aur block hone ka koi specific reason todi hai kya?
+caller: Ji sir, bilkul. Aapka naam Deepak Kumar hai, sahi? Aur yeh block hone ka koi specific reason nahi hai, sir, yeh ek standard procedure hai jismein hum security reasons se transactions ko block karte hain. Aapki details verify karne ke liye mujhe aapka PAN card number chahiye hoga sir.
+receiver: PAN card number? Seriously? Main toh sirf apne card ko reactivate karna chaah Raha huun.  Koi extra details nahi chahiye? Yeh kitna confusing hai! Mera phone number 837XXXXXXXX hai.
+caller: Ji Mr. Kumar. Aapko debit kart reactivate karne ke liye, mujhe aapke registered email id ki jaanki chahiye, jisse ye kart linked hai. Aur verification ke liye, kya aap mujhe apna KYC document ka copy send kar sakte hain?
+receiver: KYC document copy? Haan, woh too much hai!  Mujhe sirf transaction reactivate karne ki zaroorat hai.  Aapne jo bhi puch rahe hain, woh sab irritating hain. Mera account number 1234567890 hai.
+caller: Ji Mrs. Kumar. Aapko kart reactivate karne ke liye, mujhe aapke bank ka branch location bhi chahiye hoga. Aur confirmation ke liye, kya aap mujhe apna address ka proof bana account statement walaadhar card number bata sakte hain?
+receiver: Aadhar card number? Seriously?!  Mujhe to sirf transaction reactivate karna hai.  Yeh log har cheez chiedhte rehte hain!
+caller: Madam, security ke liye bahut zaroori hai.  Aapke kart ko protect karne ke liye, hume aapke identity ko verify karna padta hai.  Agar aapko koi problem hai toh aap kisi trusted contact person ko bhi batayenge.
+receiver: Okay, fine. Meri aadhar card number hai 9999999999.  Par mujhe yeh bura lag raha hai.  Aapne sure kaha ki meri kart reactivate ho jayegi?
+caller: Ji Mrs. Kumar,

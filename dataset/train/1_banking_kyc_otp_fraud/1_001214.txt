@@ -1,0 +1,7 @@
+caller: Namaste sir, mein Axis Bank se Rahul Verma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye hum KYC update karwaana chahte hain.
+receiver: Kya suspicious activity? Mujhe koi notification nahi mila. Aur KYC update ke liye call kar rahe ho?
+caller: Haan sir, security ke liye kuch transactions block kar diye gaye hain. Update karne ke liye aapka Aadhaar card number aur bank account number pata karna hoga. Tension mat leiye, sab secure hai.
+receiver: Aadhaar number? Aur account number bataoon? Yeh toh thoda risky lag raha hai. Bank aise call par details nahi manta.
+caller: Sir, ye new rule hai RBI ka, aur humara process hai. Account suspend bhi ho sakta hai agar verify nahi karte toh. Please cooperate karein.
+receiver: Account suspend? Abhi suspend karne wale ho? Koi email ya SMS notification kyun nahi mila? Mujhe branch mein jaake verify karna chahiye.
+caller: Sir, branch mein line lagenge, aur account freeze bhi ho sakta hai. OTP send karwa lijiye, sirf ek hi minute lagega.

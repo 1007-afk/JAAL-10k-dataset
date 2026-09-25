@@ -1,0 +1,19 @@
+caller: Namaste ji! Aapse baat karne kewal shukriya ki aapne line par rehna. Humare lottery draw ke baare mein baat kar rahe hain, sahi na? ₹50,000 har maahina jeetne ka ek mauka! Imagine karein, kya aap unmein kuch kharidenge?
+receiver: Haan ji, lottery toh achha hai! ₹50,000 har maahina? Wow! Main toh ek fridge lena chahta thaa, ya shayad ek laptop.
+caller: Oh, fridge ya laptop! Woh toh bahut acchi cheezein hain! Lekin ₹50,000 ke saath aap bahut zyada cheezein le sakte hain! Agar aap jeet gaye toh aapko kitni cheezein lag rahi hain? Abhi tak aap ne koi lottery khela hai?
+receiver: Nahi ji, fir baar pehla hi hai. Mein pehli baar hi yeh lottery tham raha hoon. Aapke lottery mein participation karne ke liye kya karna padega? Kuch special rules hain?
+caller: Oh, sabse aasan! Participation karna sirf ek SMS hi padta hai. Just type 'WINNER' aur jhooth 9876543210 bheje. Ye sirf ₹200 ka registration charge hai, aur iske badle mein aapko har maahina ₹50,000 jeetne ka chance milega! Chaliye, aap apna phone ready karein, aur abhi SMS bheje.
+receiver: ₹200 ka registration charge? Woh toh kam hai! Per ye 9876543210 number... Iska koi connection hai? Koi verification process hai kya?
+caller: Ji haan, woh number sirf sample ke liye hai ji! Aapko apna number likkhen, aur humein confirm karein. Verification ke baad, aapko har maahina ₹50,000 jeetne ka chance milega. Aapko sirf ₹200 deinge, aur phir aapko baraa baraa cheezein milengi!
+receiver: Okay ji, samajh gaya. Par agar main yeh SMS bheja aur jeeta bhi nahi? Fir kya karna padega? Cancellation policy bataiye, please.
+caller: Ji ji, woh toh humesha hota hai! Agar aap jeeta nahi, toh aapki registration expired ho jayegi, aur aapko koi aur registration charge nahi dena parega. Aapko sirf ₹200 dene wale ho, aur aapko lottery khelne ka option nahi milega. But don’t worry, aapko ₹200 bhi nahi deneka parega jab tak aap jeetna chahte hain!
+receiver: Hmm... Yeh thik lagta hai. Par agar main abhi text karoonga, phir bhi koi problem ho sakta hai?
+caller: Nahin ji, koi problem nahi hogi! Humari system puri automatic hai. Aap sirf 'WINNER' text karein, aur job done!
+receiver: Okay ji, fine. Main 'WINNER' text kar dunga.
+caller: Great! Aapka wait karte hain. Shukriya ji!</b>
+caller: Namaste ji! Aapse baat karne kewal shukriya ki aapne line par rehna. Humare lottery draw ke baare mein baat kar rahe hain, sahi na? ₹20,000 har safta jeetne ka ek mauka! Imagine karein, kya aap unmein kuch kharidenge?
+receiver: Haan ji, lottery toh achha hai! ₹20,000 har safta? Wow! Main toh ek scooter lena chahta thaa, ya shayad ek smartwatch.
+caller: Oh, scooter ya smartwatch! Woh toh bahut acchi cheezein hain! Lekin ₹20,000 ke saath aap bahut zyada cheezein le sakte hain! Agar aap jeet gaye toh aapko kitni cheezein lag rahi hain? Abhi tak aap ne koi lottery khela hai?
+receiver: Nahi ji, fir baar pehla hi hai. Mein pehli baar hi yeh lottery tham raha hoon. Aapke lottery mein participation karne ke liye kya karna padega? Kuch special rules hain?
+caller: Oh, sabse aasan! Participation karna sirf ek SMS hi padta hai. Just type 'GOLD' aur jhooth 9999999999 bheje. Ye sirf ₹100 ka registration charge hai, aur iske badle mein aapko har safta ₹20,000 jeetne ka chance milega! Chaliye, aap apna phone ready karein, aur abhi SMS bheje.
+receiver: ₹100

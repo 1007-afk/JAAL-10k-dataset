@@ -1,0 +1,8 @@
+caller: Namaste, sir! This is Neeraj calling from Axis Bank’s KYC department. We've noticed some unusual login attempts on your account from a foreign IP address. It's a serious security concern, sir.
+receiver: Oh really? Unusual login attempts? Which IP address was it? I haven't been travelling recently.
+caller: Sir, due to security protocols, we can’t disclose the exact IP address. However, to prevent unauthorized access and protect your funds, we need to quickly verify your identity. Can you please provide your Aadhaar number for immediate verification?
+receiver: My Aadhaar number? That seems a bit risky, doesn’t it? Why can’t I verify through something else, like an OTP sent to my registered mobile number?
+caller: Sir, for this specific case, Aadhaar verification is mandatory as per RBI guidelines. If we don't verify your details within the next 15 minutes, we'll be forced to temporarily suspend your account to safeguard it. We're just trying to help, sir. Please provide your Aadhaar number.
+receiver: Fifteen minutes? Suspend my account? Okay, okay, don't panic. Let me see… my Aadhaar number is 123456789012.
+caller: Thank you, sir. Now, to complete the verification, we require the last four digits of your PAN card. This is just a final check.
+receiver: Wait a minute. Shouldn’t I be calling Axis Bank directly to confirm this? This feels… off.

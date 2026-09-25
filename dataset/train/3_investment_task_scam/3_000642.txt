@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from Global Crypto Solutions. I'm calling regarding a fantastic investment opportunity in Ripple (XRP).
+receiver: Global Crypto Solutions? I haven't heard of them. What's the opportunity?
+caller: We’re offering early investors a chance to participate in a new mining pool for XRP. We project a 30% return in just two weeks, guaranteed. It's a limited-time offer for select clients.
+receiver: Thirty percent in two weeks? That sounds a little too good to be true. What’s the initial investment required?
+caller: Just ₹5,000 to get started. We need to verify your wallet address to allocate your mining power. You can send it via UPI to this number: 9876543210.
+receiver: UPI? Wait a second. Shouldn't I do more research before sending money? Could you give me a website or something?
+caller: Absolutely! We’re in beta phase currently, so no public website yet. But I can give you the wallet address to send to. Trust me, it's a sure thing. We’ve already had many successful investors. You don't want to miss this!

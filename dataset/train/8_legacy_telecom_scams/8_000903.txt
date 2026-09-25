@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal chalne waale hain? Yeh humein ‘Lucky Draw’ se tumhein ek ₹15,000 ka prashna mil gaya hai. Tumhare account mein ₹15,000 already transfer ho gaye hain.  Tumhe sirf verification process karna hai.  Agar tum 2 minute mein verify nahi karte, toh yeh paisa return ho jayega. Please call us back immediately at 8800987654.  Yeh bahut important hai.
+receiver: Namaste ji!  Haan, sunaa hai.  ₹15,000 ka prashna?  Achcha, matlab verify kyon karein?  Ismein kya karna hai?
+caller:  Simple hai! Tumko ek OTP chahiye hoga.  Humare system mein tumhara naam aur bank account number dal do.  OTP kabool ho jaane ke baad, tumhari account mein ₹15,000 secure ho jayegi.  Baki 2 minute mein verify kar le.  Agar koi confusion ho toh mujhe bata dena.  Main tumhare liye yahaan hoon.
+receiver:  Okay, OTP?  Thoda time do, main check kar raha hoon.  Mujhe apne bank account ka detail nikalne padenge, woh thoda delay hogi.  Par main jald se jald kar lunga.  Kyun delay hogi?
+caller:  Koi delay nahi hona hai!  Tumko sirf OTP chahiye, jo tum apni mobile par receive karenge.  Bank account number ya koi aur information nahi chahiye.  Just 1 minute 45 seconds left!  Jaldi karo!
+receiver:  Mobile par OTP?  Theek hai, main check kar raha hoon.  Ab toh OTP aa rahi hai.  Hai!  Aapko confirm karna hai ki yeh mera OTP hai?
+caller:  Haan, OTP ko confirm karna hai.  Verification complete ho jaane ke baad, tumhari account mein ₹15,000 safed ho jayegi.  Bas 45 seconds!  Jaldi karo, don’t miss out on your money!
+receiver:  45 seconds?  Arre yaar!  Verified!  Aapko confirmation message mila?  Thank you so much for helping me!
+caller:  Ji, message mila!  Congratulations!  Tumhara ₹15,000 ab tumhari account mein hai!  Enjoy!  Hurry up!

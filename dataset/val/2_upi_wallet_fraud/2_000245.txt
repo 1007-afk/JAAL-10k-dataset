@@ -1,0 +1,7 @@
+caller: Namaste! Suno ji, tumhari UPI ID pe ek offer aa rahi hai, Flipkart se! Tumhara account lottery mein select hua hai, aur tum jeet rahe ho ₹10,000 ka cashback! Bahut hi achhi baat hai!
+receiver: Kya? Flipkart ka lottery? Mujhe toh koi notification nahi aaya. ₹10,000 cashback?
+caller: Haan ji, bilkul! Ye offer sirf selected customers ke liye hai. Cashback claim karne ke liye, tumko sirf ₹500 processing fee bharne hai. ‘CLAIM’ type karo aur 9876543210 pe SMS karo. Jaldi karo, offer khatam hone wali hai!
+receiver: ₹500 fee? Flipkart toh free offer deta hai. Yeh thoda suspicious lag raha hai. Aur mujhe koi SMS bhi nahi aaya toh main kaise pata chalaun ki yeh Flipkart se hi hai?
+caller: Dekho ji, system mein kuch technical problem aa gaya tha, isliye SMS nahi gaya. Par ye offer sahi hai, tum trust karo. ₹500 bharne se tum ₹10,000 jeet sakte ho! Agar tum late karoge, toh ye offer wapas le li jayegi.
+receiver: Theek hai, theek hai. Par mai kab tak cashback milega? Aur mujhe confirmation kaise milega ki meri payment ho gayi?
+caller: ₹10,000 cashback tumhare UPI wallet mein 24 hours ke andar deposit ho jayega. Tumko ek SMS confirmation bhi milega. Ab jaldi karo aur ‘CLAIM’ type karke 9876543210 pe SMS karo!

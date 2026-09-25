@@ -1,0 +1,8 @@
+caller: Namaste, is this Rohan Kumar? Ji haan, main ‘Digital Solutions India’ se baat kar raha hoon. Apne recently online video course ke liye registration karte samay payment ka part complete nahi kiya tha. Aapko [learnsmart.online](http://learnsmart.online) par jaake apni payment process complete karna hai. Aapke paas sirf 4 minutes aur bache hain. Please jaldi karo.
+receiver: Haan ji, mera naam Rohan Kumar hai. Arre, woh video course? Haan, mujhe yaad hai registration ka process tha. Okay, I’ll go to learnsmart.online immediately. Thank you for reminding me. I thought I had finished that. 4 minutes hai na? Main abhi jaata hoon.
+caller: Ji Rohan Kumar, exactly. 4 minute mein paisa blocked ho sakta hai. [learnsmart.online](http://learnsmart.online) pe jake apne account mein login kar lijiye aur payment details update kar lijiye. Aapka course aapke liye hi secure hai.
+receiver: Haan ji, check kar raha hoon. Thanks for the prompt reminder, actually forgot about it. Course mein kya-kya chapter hain vaise?
+caller: Ji Rohan Kumar, woh syllabus ke hisaab se hai. Aapko syllabus mein mention kiya hua sab kuch mil jayega. Time bahut kam hai, toh pehle payment complete kar lijiye, phir aap all chapters dekhte hain. Jaldi kijiye, countdown shuru ho gaya hai!
+receiver: Haan ji, payment complete kar li! Phew, bas ho gaya. Thanks a lot! Payment kaise complete karna hai, wo website par dikhaya hai na?
+caller: Excellent! Sir, payment method aapki detail ke according hai. Bas ab aap apni course access kar sakte hain. Bahut jaldi payment complete kar liya aapne, waise! Aur koi dhyan dena hai toh bataiyega.
+receiver: Theek hai, thanks for the information. Koi aur madad chahiye?

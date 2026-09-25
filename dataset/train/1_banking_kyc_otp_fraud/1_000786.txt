@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI bank se Rohan Sharma bol raha hu. Aapke naam par ek high-value transaction ka attempt hua hai, sir/madam. Isliye hum verification ke liye call kar rahe hain.
+receiver: Haan, ICICI bank se? Mujhe koi notification nahi aaya tha. Transaction kitna hua tha?
+caller: Sir/Madam, transaction 25,000 ka tha, ek online shopping website par. Aapne kiya tha ya nahi? Aapki security ke liye humein iska confirmation zaroori hai. Agar aapne nahi kiya toh hum transaction block kar denge.
+receiver: Nahi, maine kuch nahi kiya. Mujhe kuch samajh nahi aa raha hai.
+caller: Theek hai, sir/madam. Toh humein aapka KYC update karna hoga. Iske liye aapko apne registered mobile number par jo OTP aayega woh bataiye, aur apne PAN card ke last 4 digits bhi bataiye. Isse hum verify kar lenge ki account aapka hi hai.
+receiver: PAN card ke last 4 digits? Mujhe yeh thoda suspicious lag raha hai.
+caller: Sir/Madam, yeh standard procedure hai. Security ke liye zaroori hai. Agar aap OTP aur PAN details nahi denge toh hum transaction block nahi kar payenge aur account suspend bhi ho sakta hai.

@@ -1,0 +1,7 @@
+caller: Hello! I'm calling from 'LoanExpress India'. We’ve pre-approved you for a quick loan of ₹50,000. Very simple process, money in your account within the hour! Just need to confirm a few details.
+receiver: Oh really? That’s… surprising. I haven’t applied for any loan. What details do you need?
+caller: Just your full name, date of birth, and the last four digits of your Aadhaar card for verification. It's standard procedure. And a small processing fee of ₹2,500 upfront to unlock the loan. It will be deducted automatically from your first repayment.
+receiver: ₹2,500 upfront? That seems a bit much. And I’m a little hesitant about giving my Aadhaar details over the phone.
+caller: Look, this is a limited-time offer! The ₹2,500 is just to activate your account and ensure your identity is verified. Without it, we can’t proceed. Think about it – ₹50,000 in your hand today! We can even send you a copy of your loan agreement via WhatsApp for you to review.
+receiver: Okay, fine. I'll send the ₹2,500. But I want to see that agreement first. What's your WhatsApp number?
+caller: Wonderful! Send the money to UPI ID: loanexpress.india@xyz. Once confirmed, I'll immediately send the agreement. Also, to finalize the loan, we need a few personal photos – just for KYC verification, of course.

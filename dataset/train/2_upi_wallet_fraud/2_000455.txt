@@ -1,0 +1,8 @@
+caller: Namaste! Mai Airtel customer care se Rahul bolta hoon. Aapke Airtel Payments Bank account mein kuch adhikaar transactions detect hue hain. Security ke liye, account temporarily suspend kar diya gaya hai.
+receiver: Airtel Payments Bank? Mere toh koi transaction nahi hua hai adhikaar ka. Mein toh bas phone use kar raha tha. Kya hua hai sach mein?
+caller: Sir, ye transactions kal raat ko hue hain. Aapne unknowingly kisi phishing website par click kar diya tha, jisse aapki details leak ho gayi. Account ko safe karne ke liye, aapko ek small verification fee pay karni padegi.
+receiver: Verification fee? Kaun si website? Aur main phishing website par click kaise kar sakta hoon? Mein toh kabhi nahi karta. Kitni fee hai?
+caller: Sir, fee sirf 50 rupees hai. Aapko Paytm ya Google Pay se ek UPI ID pe pay karna hai: 9876543210@axisbank. Payment karte hi, main aapko OTP send karunga verification ke liye.
+receiver: 50 rupees? Aur OTP kyon? Mein Airtel customer care number se contact karta hoon. Woh batayenge sahi process. Woh UPI ID bhi toh fake lag raha hai.
+caller: Sir, OTP verification ke bina, account block ho jayega. Iske baad, aapko apne account ko recover karne mein bahut mushkil hogi. 50 rupees bahut chhoti amount hai, aapke account ko save karne ke liye ye investment hai. Jaldi karo, sir. Time barbaad ho raha hai.
+receiver: Nhi, mai nahi karunga. Yeh scam lag raha hai. Main police mein report karunga.

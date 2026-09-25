@@ -1,0 +1,7 @@
+caller: Namaste, Madam. Main Airtel Payment Bank se Rahul bol raha hoon. Aapke Airtel Payment Bank account mein kuch security issues aa rahe hain, isliye humein aapke account ko verify karna hai.
+receiver: Airtel Payment Bank? Kya verify karna hai? Mujhe koi message nahi aaya tha.
+caller: Haan ji, Madam. System automatically detect kiya hai. Aapko ek OTP mila hoga aapke registered mobile number par, woh bata dijiye please. Ye bahut urgent hai, Madam. Account suspend bhi ho sakta hai agar verify nahi hua toh.
+receiver: OTP? Nahin, mujhe koi OTP nahi mila. Aur aapka phone number check karne ka koi tareeka hai? Ye genuine hai ya nahi?
+caller: Madam, dekhiye, ye Airtel ka official call hai. OTP sirf confirm karne ke liye hai ki aap hi sahi phone use kar rahe hain. Main aapko aapka account number bhi nahi puch raha. Bas OTP bata dijiye, aur sab safe ho jayega. Kuch minute mein aapka account theek ho jayega.
+receiver: Nahin, mujhe nahi pata. Main Airtel customer care number pe call karti hoon. Aapka number check karwaungi.
+caller: Madam, please, mat karna. Account suspend ho jayega. Just give me the OTP, I'll fix it quickly. It’s just a formality!

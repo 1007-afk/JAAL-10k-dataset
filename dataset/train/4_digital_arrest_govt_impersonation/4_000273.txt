@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Sharma? This is Inspector Verma calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items. It appears linked to an ongoing investigation of money laundering and drug trafficking.
+receiver: Hello? Haan, mein hu Sharma. Package? Mein toh kabhi package order bhi nahi kiya. What kind of suspicious items?
+caller: Sir, we cannot disclose the specifics over the phone for security reasons. However, the preliminary assessment is quite serious. To clear this, you'll need to pay a small processing fee of ₹15,000 to verify your identity and ensure the package isn't used for illegal activities. Please call this number immediately: 08287349102. Time is of the essence, sir.
+receiver: ₹15,000? Kya jokes kar rahe ho? I'll call the police. Customs department doesn't ask for money like this.
+caller: Sir, please don't misunderstand. This is a standard procedure to prevent fraud and ensure the package is legitimate. We need to verify the funds weren't acquired illegally. If you delay, we will have to escalate this to the higher authorities and confiscate the package. You have only 2 hours to comply. Call 08287349102 now!
+receiver: Two hours? Look, I'm busy right now. Can I speak to your supervisor? Can you give me a reference number for this case?
+caller: Sir, our supervisor is currently unavailable due to a high volume of calls. The reference number is DTC-2024-7891. But please understand, sir, every minute counts. The longer you wait, the higher the risk of legal complications. Call 08287349102 and clear this up.
+receiver: DTC-

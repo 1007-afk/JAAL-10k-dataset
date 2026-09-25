@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I'm calling from Swiggy Customer Support. We’ve noticed an unusual payment attempt on your account for ₹2,800.
+receiver: Swiggy? What payment attempt? I didn’t order anything for that much.
+caller: Ji, yes. It appears an order was placed to a new address, but the payment failed. To prevent any fraudulent activity and ensure your account is secure, we need to verify some details. Could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need an OTP? Swiggy customer support never asks for OTPs. This sounds suspicious. Can you tell me the order number?
+caller: Ji, I understand your concern. This is a standard security protocol. The order number is SWG789123. Just share the OTP so we can quickly resolve this and block the unauthorized transaction. It's important to do this right away to avoid further issues.
+receiver: Hold on a minute. Let me just check my Swiggy app… I’m not seeing any order like that. And I don't feel comfortable giving you an OTP over the phone.
+caller: Ji, there might be a slight delay in the app reflecting the pending transaction. This is due to a system update. For your security, please share the OTP now. We’re trying to protect your account from potential misuse.
+receiver: No, I’m not doing it. I'm going to call Swiggy’s official customer care number myself to verify this. Thank you, goodbye.

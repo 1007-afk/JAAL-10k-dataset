@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Verma? I’m calling from CoinTrade Investments. We’ve noticed your recent activity on the platform and believe you're eligible for a premium investment opportunity.
+receiver: Yes, speaking. What kind of opportunity?
+caller: Great! We’re offering a limited-time promotion where you can earn a guaranteed 35% return on a Bitcoin investment within just 7 days. Many of our clients have seen incredible results. It’s a simple process, just a small initial investment.
+receiver: 35% in a week? That sounds a little too good to be true, doesn't it? What's the catch?
+caller: No catch at all! It’s based on our proprietary algorithmic trading system. To get started, we just need you to transfer ₹5,000 to our designated wallet address, which I’ll send you via WhatsApp. Once the investment is processed, your returns will be automatically credited to your CoinTrade account.
+receiver: Okay, hold on. Can you give me some more details about your company? And what's the wallet address? I want to verify it first.
+caller: Certainly! Our company registration number is BT-2023-DEL-456. The wallet address is 1BvBMSEYstWetqfeUCoNV5XQQYBh9tTE95. Once you send the funds, please share the transaction ID with me so we can activate your investment. This offer won't last long!

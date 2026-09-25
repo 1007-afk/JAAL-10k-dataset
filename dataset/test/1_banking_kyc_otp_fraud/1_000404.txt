@@ -1,0 +1,9 @@
+caller: Namaste! Yeh, hi beta. It’s aunty Sharma, remember? Just calling to check on you after your surgery.  I was so worried! You haven't been picking up the phone. Are you okay?
+receiver: Aunty Sharma! Yaar, hello! Yes, of course, I am. The surgery went well, thank God. But yes, I have been a little busy.  Sorry I didn’t reply sooner. What’s wrong?
+caller: Beta, don’t worry, I understand. But I wanted to tell you, there’s a small problem. They said you owe them a significant amount of money for the hospital bills – around ₹50,000 approximately. They need to settle this urgently.  It's a matter of record, beta.
+receiver: ₹50,000? Seriously, Aunty? That's a lot!  I thought the insurance would cover most of it.  What happened?  Can I see the invoice?  I need proof.
+caller: See, beta, the insurance company… they are saying it’s a complicated case. They only covered a fraction, and the rest needs to be paid immediately to avoid further complications.  They said they need your bank account details to process the transfer.  It will be very easy, just a few clicks. (1 msg left)
+receiver: Bank account details?  That sounds fishy, Aunty.  Why would they suddenly ask for that now?  I wasn’t aware of any outstanding balance. Can you send me a copy of the letter from the insurance company?  I need to investigate this properly.
+caller:  Don’t worry, beta, it’s perfectly safe! This is just standard procedure. They need to confirm your identity before sending the funds. It’s for your own protection, you see.  Trust me, this is the quickest way to resolve everything.  (0 msgs left)
+receiver: "For my own protection"? That doesn’t sound right at all, Aunty.  I think I’ll hang up now. Thank you anyway.
+caller: Wait, beta! Don't go! Please, just give me your account number! 🙏

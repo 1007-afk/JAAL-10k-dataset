@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Singh from the Delhi Customs Department. We have a parcel registered under your name that’s currently held at the Indira Gandhi International Airport.
+receiver: Haan, main Sharma bol raha hoon. Customs Department? Parcel? Mujhe toh koi parcel order kiya tha yaad nahi.
+caller: Sir, according to our records, a package containing undeclared items was shipped to your address. It’s flagged for potential violations of import regulations. We need to verify your identity and the contents of the package before releasing it. We need to confirm details urgently to avoid legal complications.
+receiver: Undeclared items? Yeh kiski package hai? Aur mujhe why call kar rahe ho? I did not order anything.  Koi pakka bakwas hai.
+caller: Sir, this is a standard procedure. We understand your concern, but we must ensure compliance. To proceed, we require a small processing fee of ₹15,000 to cover the inspection and release costs. We need to clear this immediately to fast track the process. You can pay via UPI.
+receiver: ₹15,000? Kya bol rahe ho? This sounds fishy. If this is a genuine parcel, why are you asking for money over the phone? I'm not paying anything until I see the parcel myself. I'm calling the police.
+caller: Sir, please don’t misunderstand. This fee is non-negotiable and is required to expedite the release of your package. Failure to pay will result in the parcel being seized and legal action taken against you. We have your address and phone number. Be cooperative, Sir. This is a legal procedure.

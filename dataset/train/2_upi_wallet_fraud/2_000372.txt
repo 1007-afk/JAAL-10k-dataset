@@ -1,0 +1,7 @@
+caller: Namaste! Main FreePay Wallet se call kar raha hoon. Aapke account mein ₹8,700 ka credit refund approve hogaya hai! Confirm karne ke liye ‘CLAIM’ number 99999 par send karein. Just ₹5 verification charge lagega, par ₹8,700 ka refund claim karne ka mauka hai!
+receiver: Hello? FreePay? Refund? Mujhe toh koi notification nahi aaya. ₹5 charge? Yeh kya ho raha hai?
+caller: Haan ji, bilkul! FreePay se hi call hai. System automatically refund process start kar diya hai, abhi notification sabko nahi milte. ₹5 verification charge sirf OTP generate karne ke liye hai.  Aapko ₹8,700 ka refund ka benefit milega, aur ₹5 sirf cut ho jayega. Toh, ‘CLAIM’ number 99999 par send kar den?
+receiver: Wait karo, wait karo. Mujhe thoda doubt ho raha hai. FreePay se toh main kabhi transaction nahi kiya. Mere paas PhonePe aur Paytm hai, FreePay nahi.
+caller: Achha ji, confusion ho sakta hai. FreePay aur PhonePe dono ek hi company ke hain, sir! Abhi offer sirf select users ke liye hai. ‘CLAIM’ send karne se aap confirm kar rahe hain ki refund claim karna chahte hain. Aur ₹5 sirf security ke liye hai.
+receiver: Security? Lekin yeh toh suspicious lag raha hai. Agar mujhe refund milna hai toh FreePay se direct message aana chahiye na? Main koi number pe message nahi bhejoonga.
+caller: Hello? Namaste! Main ‘FreePay Wallet’ se call kar raha hoon. Abhi aapka refund process stop ho gaya hai! Jaldi se ‘RESTART’ number 99999 par send karein, ₹10 recharge charge lagega, warna

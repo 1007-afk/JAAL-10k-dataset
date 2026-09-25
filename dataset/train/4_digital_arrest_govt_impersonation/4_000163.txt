@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma, calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Haan, main Sharma bol raha hoon. Package? Kya suspicious items? Mujhe toh koi package order karne ko yaad nahi.
+caller: Ji, Mr. Sharma. According to our records, a package containing electronic components and currency was shipped to your address from overseas. Preliminary investigation suggests potential involvement in hawala transactions.
+receiver: Hawala transactions? Are you serious? Main toh kabhi hawala nahi kiya. Yeh toh galat ho raha hai. Main bank mein transaction karta hoon, cash nahi.
+caller: Mr. Sharma, to clear this matter quickly and avoid legal action, we need you to deposit ₹15,000 as a security clearance fee.  This will allow us to verify the contents and release the package. We can arrange a video call with senior officials to explain the process.
+receiver: ₹15,000? Kaise clear karun main yeh? Aur video call?  Yeh sab bahut hi pareshan karne wala lag raha hai. Mujhe clarification chahiye. Aap mujhe koi case number ya receipt number de sakte hain?
+caller: Mr. Sharma, time is of the essence.  Delaying this will result in further investigation and potential arrest warrants being issued. The case number is DEL-CUSTOMS-2024-789.  For the video call, we need to confirm your details first to ensure security. Please provide your PAN card number and bank account details so we can process the payment and initiate the video conference.
+receiver: PAN card number aur bank account details? Main yeh nahi dunga. Aap log correct department se call kar rahe hain ya nahi, mujhe doubt ho raha hai.
+caller: Mr. Sharma, this is your final opportunity to cooperate. Failure to comply will force us

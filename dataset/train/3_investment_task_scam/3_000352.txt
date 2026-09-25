@@ -1,0 +1,10 @@
+caller: Namaste, is this Mrs. Kapoor? I’m calling from the Zenith Financial Security Services. How are you doing today?
+receiver: Haan, main hi Mrs. Kapoor bol rahi hoon. Main theek hoon, aap kaise hain? Aur aap Zenith Financial se kaun hain?
+caller: Wonderful to hear from you, Mrs. Kapoor! I’m doing very well, thank you. I’m calling on behalf of our Wealth Management division. We’ve noticed an incredible investment opportunity that could significantly boost your portfolio.
+receiver: Boost my portfolio? That sounds exciting! What kind of opportunity are you talking about and why is it such a good deal for me specifically?
+caller: Mrs. Kapoor, we have identified a promising real estate development project in Gurgaon – it’s called ‘Sunrise Heights’. Our advisors believe there’s a huge potential for appreciation, especially considering recent infrastructure upgrades.
+receiver: Sunrise Heights? Gurgaon mein? Woh kis area mein hai? Aur yeh appreciation ka matlab kya hai? Kya koi specific reason hai iske piche ki itni potential hai?
+caller: It's located near Sohna Road, Mrs. Kapoor, a rapidly developing area. The projected ROI is around 250% within the next three years, based on anticipated population growth and increased commercial activity.
+receiver: 250%... Wow, that's quite a jump. Can you tell me more about the developers involved and their track record? And how long will this high return be guaranteed?
+caller: Absolutely, Mrs. Kapoor. The developers, Patel Constructions, have a strong reputation in Haryana. They've successfully completed several large-scale projects in the region. This return is estimated to be achievable for the first five years, contingent upon market conditions.
+receiver: Patel Constructions… okay. So, what’s the initial investment required and what percentage of profit can I realistically expect after five years?

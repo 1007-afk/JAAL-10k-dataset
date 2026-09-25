@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Inspector Rajan calling from the Directorate of Enforcement. We've detected some unusual activity linked to your mobile number, specifically regarding a large sum of money being routed through cryptocurrency exchanges.
+receiver: Oh really? That's concerning. I don't deal with cryptocurrency, sir.
+caller: Sir, we need to verify this urgently. It appears a significant amount, nearly 15 lakhs, was used to facilitate illegal parcel deliveries across the country. This is a serious matter, linked to drug trafficking.
+receiver: 15 lakhs? That’s impossible! I've never sent or received anything like that. What do you want me to do?
+caller: Sir, to clear your name and prevent further legal action, you'll need to pay a small processing fee of 50,000 rupees as a penalty and to ensure your account is cleared. We'll keep you on a video call to confirm you’re not being pressured by anyone. Please download the ‘SafeConnect’ app and follow the instructions to make the payment.
+receiver: 50,000 rupees? Wait a minute, sir. Is this a genuine call? Can you give me a case number or a contact number for the ED office so I can verify?
+caller: Sir, we are in a sensitive operation and cannot disclose case numbers over the phone. The SafeConnect app is secure and authorized by the government. Time is of the essence, sir. Please download the app immediately to avoid arrest.
+receiver: I'm not comfortable doing this, sir. I think I need to speak to someone else.

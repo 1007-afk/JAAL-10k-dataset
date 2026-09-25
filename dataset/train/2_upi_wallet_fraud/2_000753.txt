@@ -1,0 +1,6 @@
+caller: Namaste, sir? Mein Amazon se call kar raha hoon. Aapke account mein ₹15,000 ka cashback pending hai, lekin isko claim karne ke liye, aapko ek small verification fee bharvan hogi.
+receiver: ₹15,000? Amazon se? Verification fee kitna bharvan hoga? Aur main online dekhta hoon toh koi notification nahi dikh raha hai.
+caller: Sir, yeh offer limited time ke liye hai. Verification fee sirf ₹500 hai. Aapko apna PhonePe UPI ID aur ek OTP dena hoga, tab cashback aapke account mein transfer ho jayega.
+receiver: ₹500? Aur PhonePe ka UPI ID? Amazon toh email se hi offer deta hai. Itna risky lag raha hai.
+caller: Sir, security ke liye hum call kar rahe hain. Yeh ek new process hai. Jaldi karo, nahin toh offer expire ho jayegi aur ₹15,000 ka cashback jayega. Aapka loss ho jayega.
+receiver: ₹15,000 ka loss? Theek hai, wait karo. Mein PhonePe app check karta hoon. Wait a minute… yeh toh wrong lag raha hai. Mein call cut kar deta hoon.

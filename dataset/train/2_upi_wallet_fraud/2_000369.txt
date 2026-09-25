@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? I’m calling from FreeCharge customer care. We’ve noticed some unusual activity on your FreeCharge wallet.
+receiver: Haan, mein Priya Sharma. Kya hua? Unusual activity?
+caller: Yes, a transaction of ₹2,500 was initiated from your wallet to a new UPI ID. You didn't authorize this, right? It seems like a potential fraud.
+receiver: ₹2,500? No, I didn’t do that! What should I do?
+caller: Don't worry, we’ll block your wallet immediately. To do that, we need to verify your identity. Can you please share the last four digits of your Aadhaar card and the OTP you just received on your registered mobile number? Just to be safe, of course.
+receiver: Aadhaar card number? And an OTP? That sounds a bit risky, doesn’t it? I’ve heard about these scams.
+caller: Absolutely not, Priya ji! We’re working to secure your funds. Sharing this information is standard procedure. Think of it as protecting your wallet. We’ll get your wallet locked down right away. Please, just give me the OTP and the last four digits of your Aadhaar so we can prevent further unauthorized transactions. Time is of the essence.
+receiver: Okay, wait a minute. Let me just check the FreeCharge app myself. I'll call the official customer care number.
+caller: That’s a wise choice, Priya ji. However, those lines are very busy right now, and we can resolve this much quicker here. Just a few more details and your wallet will be secure.

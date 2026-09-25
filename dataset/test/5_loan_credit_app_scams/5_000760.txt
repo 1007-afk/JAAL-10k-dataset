@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mera naam Vijay hai, FastLoanHelp se. Aapne recently ek loan application kiya tha, lekin kuch information missing hai. Just a few details, aur aapko loan approve kar sakte hain.
+receiver: Ji haan, mujhe yaad hai. Kya chahiye? Mein busy hoon thoda.
+caller: Sir, aapki aadhaar card ki copy aur bank statement ki requirement hai. Thoda sa verification, bas. Aur, aapka PAN card number check kar sakte hain?
+receiver: Aadhaar card copy? Maine toh online hi submit kiya tha. Aur PAN card number kyun chahiye?
+caller: Sir, security purpose ke liye, bas. Aur, aapko bataiye, kitne rupay ka loan aapko chahiye tha?
+receiver: Main toh 15,000 rupay ka loan apply kiya tha. Par ye bahut suspicious lag raha hai.
+caller: Sir, aapka account compromise ho sakta hai agar aap verification nahi karte. Hum aapko aapke contacts pe morphed pictures bhi bhej sakte hain, agar aap cooperate nahi karte. Aur agar aap 25,000 rupay abhi transfer kar dete ho, tab aapka loan approve ho jayega aur aapka data safe rahega.
+receiver: Yeh toh scam hai! Main police mein report karunga!

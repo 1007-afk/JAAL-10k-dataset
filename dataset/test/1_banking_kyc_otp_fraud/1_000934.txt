@@ -1,0 +1,7 @@
+caller: Namaste, mein Atul Verma, IDFC First Bank se bol raha hoon. Aapka naam Shri Ramesh Sharma hai, kya?
+receiver: Haan, mein hi Ramesh Sharma bolta hoon. Kyuki baat kar rahe hain?
+caller: Sir, aapke bank account mein kuch suspicious activity detect hui hai. KYC update zaroori hai, warna account suspend bhi ho sakta hai.
+receiver: Account suspend? Kyon? Mein toh koi transaction nahi kiya abhi tak.
+caller: Sir, security ke liye, mujhe aapki birthdate aur PAN card ke last 4 digits chahiye. Bas verification ke liye, aur kuch nahi.
+receiver: PAN card number phone pe dena? Yeh thoda risky toh lag raha hai, sir. Mein branch mein jaakar karva sakta hoon.
+caller: Sir, branch mein line lagenge, aur time bhi waste hoga. Yeh process bahut easy hai, aur abhi hi ho jayega. OTP bhi verify karna padega, sir. Jaldi karo, time kam hai.

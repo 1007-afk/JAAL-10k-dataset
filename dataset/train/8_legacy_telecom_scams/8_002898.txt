@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan Kumar? This is Priya from Melody Tunes. Hope you’re having a pleasant day! I am calling to follow up about your new notification sound purchase. You should have gotten an SMS with your transaction ID, Z792, and a payment of ₹120. Just checking to see if everything processed smoothly for you.
+receiver: Namaste Priya! Haan, main hi Rohan Kumar hoon.  I'll quickly look at my messages. Yes, I see the Z792 ID and the ₹120 payment. It seems fine. Shukriya!
+caller: Excellent! Thoda sa kaam ho gaya. Now, do you need any other music features like custom playlists or background audio options? We also have some fantastic deals on personalized voice greetings.
+receiver: Nahin Priya, currently, that’s all I needed. Those voice greeting discounts are tempting, but I haven't decided yet. Possibly later. Dhanyavaad!
+caller: Absolutely! If you ever require assistance, feel free to contact us again. Are there any further questions or support needed?
+receiver: Nahin Priya, that’s enough for now. Thank you very much for the update and confirmation.
+caller: Wonderful! Please don’t hesitate to reach out if you need anything in the future. Have a great day! Goodbye!
+receiver: Thank you Priya! You too, goodbye!

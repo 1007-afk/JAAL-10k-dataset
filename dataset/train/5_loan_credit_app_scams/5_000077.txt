@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohan hai, main LoanPlus se bol raha hoon. Aapke area mein loan ke liye bahut demand hai, aur humein aapko ek special offer dene ka mauka mila hai. Aapko kitne rupaye ka loan chahiye tha, sir?
+receiver: Hello, LoanPlus? How much interest will you charge? I've heard bad things about instant loan apps.
+caller: Sir, hamara interest rate market mein sabse kam hai. Aur agar aap abhi apply karte hain, toh hum waive kar denge processing fee. Just send your Aadhaar card and PAN card copy to this number – 9988776655.
+receiver: Aadhaar and PAN? That sounds risky. Are you sure this is legitimate? Can I speak to someone in your company?
+caller: Sir, yeh security check ke liye hai. Aur koi doubt ho toh aap humare website LoanPlus.co.in par jaake verify kar sakte hain. Aapko abhi apply karna hai, otherwise yeh offer khatam ho jayegi. 9988776655 par message karo.
+receiver: Okay, fine. I'll send the documents. But if anything goes wrong…
+caller: Sir, kuch bhi galat nahi hoga. Hum aapke liye best deal provide karenge. Abhi message karo, aapka loan approved ho jayega. Number hai 9988776655.
+receiver: Alright, sending now. Let’s hope for the best.

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from MobiKwik Pay Secure. We've detected some unusual activity on your account and need to verify it urgently.
+receiver: Yeah, speaking. Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, it seems like someone attempted to transfer ₹7,500 from your MobiKwik wallet to an unknown UPI ID. To prevent fraud and secure your funds, we need to quickly confirm this transaction.
+receiver: ₹7,500? That’s a lot! I definitely didn't authorize any transfer. What do I need to do?
+caller: Just a simple verification, ma’am.  Could you please share the last four digits of your linked bank account number with me? It's just to make sure the account is still yours.
+receiver: Wait a minute. MobiKwik never asks for my bank account details over the phone. Is this really MobiKwik? This feels suspicious.
+caller: Ma'am, this is a standard security protocol. We’re trying to protect your money right now! We can't risk further unauthorized transactions. Please, just the last four digits, and we'll be all set.

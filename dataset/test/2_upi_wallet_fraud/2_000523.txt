@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, main Vi aur Paytm ka customer care se bol raha hoon. Aapke Vi aur Paytm account mein ek atyagya cashback offer hai.
+receiver: Cashback offer? Vi aur Paytm dono pe? Batao kya offer hai.
+caller: Haan ji! Aapko Vi mobile recharge ke saath Paytm se ₹150 cashback milega. Yeh offer sirf 2 ghante tak valid hai. Verification ke liye aapko apne Vi mobile pe ek OTP dena hoga.
+receiver: ₹150? Thoda zyada lag raha hai. Verification ke liye OTP? Kon sa OTP, Vi ka ya Paytm ka?
+caller: Sir, dono account link hai isliye ek hi OTP kaam karega. Aapko OTP message milega Vi number pe. Jaldi karo, offer khatam hone wala hai. Bas OTP bata do, ₹150 cashback aapke Paytm wallet mein transfer ho jayega.
+receiver: Yeh bahut suspect lag raha hai. Main Vi aur Paytm customer care se khud contact karunga. Aapka number batao, main call karke confirm karta hoon.
+caller: Sir, number toh confidential hai! Aapko trust karna padega. Offer khatam ho jayega! Abhi OTP send kardo, ₹150 cashback aapka hai!

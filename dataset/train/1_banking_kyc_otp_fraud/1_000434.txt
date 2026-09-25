@@ -1,0 +1,12 @@
+caller: Namaste, is this Ms. Devi? This is SecurePay regarding your DigiBank transfer.
+receiver: Ji ji, bolo. Kaise haal hain aapki?
+caller: Ji madam, Ms. Devi, we’re contacting you about a recent transaction made on the 18th of last month – ₹17,500 was transferred to an unknown recipient. We need to verify this transaction for security reasons.
+receiver: ₹17,500? Woh…main December mein kuch transfers hi karta hoon. Main dekhta hoon.
+caller: Absolutely, Madam. We understand that things can get confusing. This transfer appears to have gone to a mobile wallet linked to ‘Shanti Kumar’. He claims he received it by mistake. We require your confirmation to proceed with reversing the transaction. Would you like to help him out?
+receiver: Shanti Kumar? Mobile wallet? Mujhe yeh sab itna clear nahi hai. Kya mai refund kar sakti hun?
+caller: Yes, Madam. You can definitely request a refund. However, to expedite the process, we need to quickly confirm that you authorized this transfer. Just a few simple questions to verify your identity. Can you please provide me with your mother’s maiden name?
+receiver: Maa ka naam... Pandey.  Mujhe yeh transfer itna gussa aa raha hai.  Yeh kaise ho sakta hai?
+caller: Thank you, Madam. That information confirms your identity. Now, let's proceed with initiating the refund. Please note that this may take up to 3 business days to reflect in your account.  Also, for future security, consider enabling two-factor authentication on your DigiBank app.
+receiver: 3 din?  Thoda wait karna padega.  Aur two-factor authentication bhi?  Dekho, mere paise gaye aur tum khud refund kar rahe ho!
+caller: Precisely, Madam. We’re committed to resolving this issue swiftly. We want to ensure your peace of mind. And the two-factor authentication will prevent similar incidents in the future. Is there anything else I can assist you with today?
+receiver: Nahi, thanks.  Just process the refund immediately.

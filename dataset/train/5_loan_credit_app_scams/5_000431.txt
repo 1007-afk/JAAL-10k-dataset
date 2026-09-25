@@ -1,0 +1,7 @@
+caller: Hello, this is Rohan from ‘SwiftLoanPro’. We've pre-approved your loan application for ₹75,000. Just a quick verification to release the funds.
+receiver: SwiftLoanPro? I don't remember applying for a loan. Are you sure it’s not a mistake?
+caller: No mistake, sir. Your details were submitted through a partner website. To finalize, we need your device’s IMEI number and a small upfront processing fee of ₹2,500 to be transferred to this UPI ID: [Fake UPI ID]. This is to confirm your device ownership.
+receiver: ₹2,500 upfront? That’s unusual. Banks don’t usually ask for processing fees before releasing the loan. And why do you need my IMEI number?
+caller: Sir, this is standard procedure to prevent fraudulent activity and ensure your device security. Think of it as an insurance policy. Once you pay the fee and give the IMEI, the ₹75,000 will be in your account within 15 minutes. Otherwise, the approval will be cancelled.
+receiver: Okay, but just to be clear, after I pay the ₹2,500 and give you the IMEI, I'll get the ₹75,000 right away? No hidden charges or anything?
+caller: Absolutely, sir. It’s a completely transparent process. Give us the information, and your loan will be processed immediately. What is your device's IMEI number?

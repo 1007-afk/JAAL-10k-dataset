@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Verma? My name is Akash, and I’m calling from BlueBird Courier. We’re holding a package for you addressed to your Flipkart order, but there’s been a slight issue with the delivery address.
+receiver: Haan, Verma bolungi. Flipkart ka package? Kya issue hai?
+caller: Yes ma’am. The pin code is showing as invalid. To confirm your address and release the package, we need to verify your identity. Please provide the OTP you just received on your registered mobile number.
+receiver: OTP? Main toh koi OTP receive nahi kiya. Aur Flipkart ne toh mujhe delivery update diya tha.
+caller: Sometimes, the message gets delayed, ma'am. It’s very important to verify quickly, otherwise, the package might be returned. Could you quickly check your messages? While you're doing that, could you tell me the last four digits of your card used for the Flipkart payment? Just for verification.
+receiver: Card details? Yeh kuch toh ghalat lag raha hai. Flipkart aise nahi puchta. Mein koi bhi information nahi dungi.
+caller: Ma'am, please don't be alarmed! We’re just following protocol. If you don't verify, we’ll have to hold the package indefinitely. We are authorized to verify by asking details, and can release your parcel immediately after verification. A small amount of ₹250 is needed for address correction. We can send you a payment link.
+receiver: ₹250? Dekhiye, mujhe samajh mein aa raha hai. Yeh scam hai! Mein Flipkart se direct baat karungi. Aapse koi bhi information nahi dungi.
+caller: Ma'am, don't be foolish! This is a limited-time offer to secure your package. If you don't comply now, you’ll lose everything. We will have

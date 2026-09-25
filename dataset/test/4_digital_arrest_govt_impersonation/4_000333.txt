@@ -1,0 +1,9 @@
+caller: Hello? Is this Ms. Verma? My name is Inspector Kumar, calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Haan, main Ms. Verma hi hoon. Kya baat hai? Package? Mujhe koi package yaad nahi aa raha.
+caller: Yes, ma'am. The package originated from overseas and has triggered our automated screening system. Preliminary investigations suggest it contains prohibited goods related to money laundering.
+receiver: Money laundering? Yeh kya bol rahe hain aap? Maine to kabhi koi package order kiya hi nahi. Aur woh overseas se kaise?
+caller: We understand, ma’am. This is often the case with these fraudulent schemes. To clear this package and prevent further legal complications, we require a small processing fee of ₹8,500.
+receiver: ₹8,500? Aur yeh kitne jaldi karna hai? Yeh package toh mujhe dikhayenge bhi toh nahi?
+caller: Ma'am, time is of the essence. We have a strict deadline. To process this quickly and ensure your name is cleared, please transfer the amount to this UPI ID: customs.clearance@paytm. Only 2 slots are left.
+receiver: ₹8,500 aur UPI ID? Sirf phone pe baat karke itna paisa maang rahe hain? Main police station mein jaakar report karungi agar yeh fraud nikla.
+caller: Ma'am, please don't get agitated. This is a standard protocol. To verify your identity and expedite the process, I need your Aadhaar card number. Just the last four digits will suffice.

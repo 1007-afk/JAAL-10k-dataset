@@ -1,0 +1,9 @@
+caller: Namaste! Kaise ho aap? Suno, aapne ek super special lottery mein jeet li hai! Haridwar se Rajkumar ji ne jeet li hai ek brand new Samsung Galaxy S23 Ultra! To claim your prize, please send an SMS: just type ‘Samsung’ and send it to 98765. It's incredibly easy, and you're one of the selected few! Don't delay, this is a huge chance!
+receiver: Namaste! Haan, sun rahi hoon. Rajkumar ji? Mein Rajkumar ji nahi hoon. Kaha likhna hai? Samsung aur kaunsa number bhejna hai?
+caller: Achaa, toh woh mistake hai! Humne wrong number enter kiya hai. Actually, Haridwar mein Vivek Sharma ji ne jeet li hai yeh phone. Apne name ko correct kijiye - Vivek Sharma.  And then, again send the SMS: 'Samsung' to 98765.  Please don't make any further mistakes.
+receiver: Vivek Sharma... Okay, Vivek Sharma naam se bhej doon? Aur number bhi change kar do?  Yeh phone mujhse kitni paise mein milega?  Aur delivery kaise hoga?
+caller: Haanji, Vivek Sharma naam se bhej denge. Phone ka price ₹79,999 hai, lekin aapko koi paisa dene wala nahi hai!  Yeh gift hai, completely free!  Delivery hogi aapke doorstep pe, lekin delivery address confirm karne ke liye, aapko ek OTP chahiye.  Just reply with your full name and date of birth.
+receiver: OTP? Kya OTP chahiye?  Aur my full name is Rohan Kumar Singh and my date of birth is 15th August 1995. Reply karo OTP ke saath.
+caller: Shukriya Rohan Kumar Singh!  Aapka OTP hai 78945.  Please, copy paste karo aur send kijiye.  Agar aap OTP receive nahi karte, toh hum process stop kar denge.  So, hurry up!
+receiver: 78945… Copy paste kara diya. Ab kya?  Phone mujsko kab tak milega?  Delivery ka status check karne ki koi tarah hai?
+caller: Haanji, OTP receive hone wala hai.  Phone aapke paas 4-5 din mein arrive karega.  Delivery status check karne ke liye, aap website par jaakar track kar sakte hain – www.examplewebsite.com.  But remember, time is running out!

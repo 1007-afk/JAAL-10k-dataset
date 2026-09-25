@@ -1,0 +1,9 @@
+caller: Namaste! Main Rahul se baat kar raha hoon, XYZ Finance se. Aapke naam par ek loan approval aaya hai ₹75,000 ka, bahut hi achchi sharton ke saath.
+receiver: XYZ Finance? Main toh kabhi apply nahi kiya loan ke liye.
+caller: Haan ji, yeh ek special offer hai. Apne KYC details verify karwa len, tab main aapko loan ke details bataunga. Bas naam, aadhaar number aur bank account number chahiye.
+receiver: Aadhaar number? Woh toh main kisi ko bhi nahi deta. Yeh scam lag raha hai.
+caller: Arre, koi scam nahi hai! Yeh toh government ke rules hain, verification ke liye. Agar aap loan nahi chahte, toh chalega. Lekin agar chahte ho, toh fast karo. Bahut logon ne apply kiya hai aaj.
+receiver: Mujhe yeh offer pasand nahi aaya. Shukriya.
+caller: Wait! Just one moment. Main aapko ek 'guarantee' offer de sakta hoon. ₹5,000 verification fee jama kar dijiye, aur ₹75,000 loan aapke account mein tax-free deposit ho jayega.
+receiver: ₹5,000? Abhi tum mere se paisa maang rahe ho? Tum log fraud ho!
+caller: Arre, koi fraud nahi hai! Yeh security deposit hai, bhai. Otherwise, loan nahi milega. Think about it!

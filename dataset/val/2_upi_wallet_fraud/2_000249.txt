@@ -1,0 +1,9 @@
+caller: Namaste! Mai FreeCharge se Rahul bolta hu. Aapke account mein ₹1000 ka cashback pending hai, jo aap Amazon pe redeem kar sakte hain.
+receiver: Oh, really? Mai toh jankari nahi thi. Amazon pe cashback?
+caller: Haan, sir! Diwali offer ka hissa hai. Simple process hai - sirf ₹50 processing fee deposit karke aap ₹1000 ka Amazon voucher get kar sakte hain.
+receiver: ₹50 fee? Kahan deposit karna hai? Mere paas FreeCharge app mein koi option dikh nahi raha.
+caller: Bilkul sahi, sir! App mein direct option nahi hai. Aapko ek secure payment link milega. ₹50 deposit karne ke liye 'PROCESS' message 98765 pe send karein. Time limit hai, sirf 2 minute!
+receiver: ₹50 message 98765 pe?  Yeh thoda funny lag raha hai. Koi link bhejo na, mein check karunga.
+caller: Sir, link send karne mein der ho jayegi aur offer expire ho jayegi. Just send ‘PROCESS’ to 98765, its a one time thing, and you will get the voucher instantly. Baki sirf 1 chance hai, jaldi karein!
+receiver: Arre yaar, mujhe koi confidence nahi ho raha. Mai baad mein check karta hu.
+caller: Sir, last chance hai!  ₹1000 ka voucher aapke haath se chala jayega!  Jaldi 'PROCESS' 98765 pe send karein!

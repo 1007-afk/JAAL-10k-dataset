@@ -1,0 +1,7 @@
+caller: Namaste, main Priya hu Axis Bank Security se. Aapke Axis Bank account mein ek suspicious transaction hua hai – ₹200 ka payment Amazon par. Kya aapne kiya tha?
+receiver: Haan, mainne kal Amazon se kuch product order kiya tha. ₹200 se zyada nahi tha.
+caller: Ji, lekin system mein kuch gadbad dikh rahi hai. Account ko secure karne ke liye, mujhe aapka OTP verify karna hoga. Aur ₹100 ka processing fee bhi deposit karna hoga.
+receiver: ₹100 fee? Account secure karne ke liye? Yeh toh kabhi suni hi nahi.
+caller: Beta, security hi pehle hai. ₹100 Paytm se meri UPI ID par transfer karein: secureaxisrefund@upi. Jab OTP aur fee verify ho jayega, tab transaction clear ho jayega.
+receiver: Theek hai, ₹100 transfer karta hu. OTP bataun?
+caller: Haan, batao apna OTP. Aur check karo, UPI pay ho gaya kya? Main wait kar raha hu.

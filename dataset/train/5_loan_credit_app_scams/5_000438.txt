@@ -1,0 +1,8 @@
+caller: Hello! This is SecureCredit Solutions calling. We've pre-approved you for a personal loan of up to ₹1.5 Lakhs, instantly! Just need a few details to finalize. Are you Rajesh Kumar?
+receiver: Haan, ji. Main Rajesh Kumar hi hoon. Loan ka hai? Kitne ka offer hai?
+caller: Yes, Rajesh ji. ₹1.5 Lakhs. Very simple process. Just need your bank account number and OTP for verification. Once that's done, the money will be credited to your account within 15 minutes. Koi hassle nahi.
+receiver: OTP? Par... mujhe toh kuch document submit karne ki expectation thi. Aadhar ya pan card?
+caller: Rajesh ji, for instant approval, we skip those formalities. Speed hai hamara USP. Just the OTP, please. We need to secure your account before someone else takes advantage of this offer. Think of it as a security measure.
+receiver: Security measure? Toh agar OTP dene se koi problem hota hai toh? Aur yeh SecureCredit Solutions hai, main iska naam toh sunta hi nahi hoon.
+caller: Rajesh ji, don't worry about it. It's a new company, focusing on quick loans. The OTP will just verify you are the account holder. Jab aap OTP de denge, paise aa jayenge, aur fir aap relax ho sakte hain. Aakhir mein, aapko emergency ke liye paise chahiye the, na?
+receiver: Wait, wait! Main sochta hoon. Aap mujhse ₹500 ka processing fee bhi maang rahe the. Yeh toh bilkul wrong hai. Main police mein report karunga.

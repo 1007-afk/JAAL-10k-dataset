@@ -1,0 +1,22 @@
+caller: Namaste sir, main Axis Bank se baat kar raha hoon. Aapka PAN card number bataiye please?
+receiver: Namaste! Mein Sanjay Kumar hoon. Kya baat hai?
+caller: Sir, humare records mein Sanjay ji ko regarding ek important tax refund matter notification bhejna hai. Verification ke liye, hume aapke PAN card number ki confirmation chahiye. Yeh sirf ek formality hai.
+receiver: Tax refund? Mere paas toh tax refund nahi aaya hai. Aur aapne meri PAN card number maangi? Shayad mistake ho gayi hogi.
+caller: Haanji Sanjay ji, police station mein ek complaint fir hui hai ki aapke name par ek illegal transaction hui thi. Police ne verified kiya hai ki aapka PAN card number sahi hai. Isliye humein verification karna zaruri hai.
+receiver: Illegal transaction? Police? Ye kya bol rahe hain? Main toh Gurgaon mein resident hoon, aur mujhe koi transaction nahi hua.
+caller: Rajesh ji, humein aapke account mein unexpected debit happened hai. We have put your account on hold until we can verify this transaction. For this verification process, we need to collect some details from you.
+receiver: Unexpected debit? Account on hold? Mujhe samajh mein nahin aa raha hai yeh sab kya hai. Kya aap mujhe detaate hain ki aap kis liye verification kar rahe hain?
+caller: Rajesh ji, humein iske liye OTP aane wali hai aapke registered mobile number pe. Please provide that OTP to me so that we can complete this verification. It’s crucial for your account safety.
+receiver: OTP? Mobile number? Par mujhe woh number yaad nahi hai. Woh mera old mobile number hai jo maine change kar diya tha. Aur aapko isse kaise pata?
+caller: Rajesh ji, we have access to all your banking information including your previous mobile numbers. Don't worry, this is just a standard procedure. Is it okay if we proceed?
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapka Aadhaar card number bataiye please?
+receiver: Namaste! Mein Priya Patel hoon. Kya ho raha hai?
+caller: Sir, humare records mein Priya ji ko regarding ek important loan application matter notification bhejna hai. Verification ke liye, hume aapke Aadhaar card number ki confirmation chahiye. Yeh sirf ek formality hai.
+receiver: Loan application? Mujhe koi loan apply nahi kiya hai. Aur aapne meri Aadhaar card number maangi? Yeh thik nahi lagta.
+caller: Haanji Priya ji, cybercrime police station mein ek case fir hui hai ki aapke name par phishing attempt hui thi. Police ne verified kiya hai ki aapka Aadhaar card number sahi hai. Isliye humein verification karna zaruri hai.
+receiver: Cybercrime? Phishing? Main toh Mumbai mein rehta hoon, aur mujhe koi such incident nahi hui.
+caller: Vivek ji, humein aapke account mein unauthorized transfer happened hai. We have put your account on hold until we can verify this transaction. For this verification process, we need to collect some details from you.
+receiver: Unauthorized transfer? Account on hold? Mujhe samajh mein nahin aa raha hai yeh sab kya hai. Kya aap mujhe bata sakte hain ki aap kis account ko verify kar rahe hain?
+caller: Vivek ji, humein iske liye OTP aane wali hai aapke registered mobile number pe. Please provide that OTP to me so that we can complete this verification. It’s crucial for your account safety.
+receiver: OTP? Mobile number? Par mujhe woh number yaad nahi hai. Woh mera old mobile number hai jo maine change kar diya tha. Aur aapko isse kaise pata?
+caller: Vivek ji, we have access to all your banking information including your previous mobile numbers. Don't worry, this is just a standard procedure. Is it okay if we proceed?

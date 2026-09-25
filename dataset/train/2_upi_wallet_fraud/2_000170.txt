@@ -1,0 +1,8 @@
+caller: Namaste! Mai Freecharge se call kar raha hoon. Aapke Freecharge wallet mein ₹1000 cashback offer hai, Diwali special!
+receiver: ₹1000 cashback? Freecharge ka? Mujhe toh koi notification nahin aaya.
+caller: Haan bhai, offer limited time ke liye hai. Abhi sirf 15 minute mein aap ₹1000 claim kar sakte hain. Verify karne ke liye, aapko ek OTP send karenge, woh OTP mujhe bata denge.
+receiver: OTP? Kahan send karenge? Aur mujhe Freecharge app mein dekhna chahiye, na?
+caller: Haan, OTP aapke registered mobile number pe aayega. App mein dekhna thik hai, lekin time bahut kam hai. Jaldi karo, warna offer miss ho jayega! OTP send kar denge toh cashback automatically transfer ho jayega.
+receiver: Yeh theek lag raha hai. Par mera OTP share karne se mujhe hesitation ho raha hai. Mere dost ne kaha tha aise calls se sambhal ke rehna chahiye.
+caller: Arre, sambhalne ki zaroorat nahi hai! Freecharge khud call kar raha hai. ₹1000 free mein mil rahe hain! OTP sirf verification ke liye hai, aur bilkul safe hai. Koi tension nahi lene ka!
+receiver: Okay, fine. OTP check karte hoon, lekin koi bhi financial detail main share nahi karunga.

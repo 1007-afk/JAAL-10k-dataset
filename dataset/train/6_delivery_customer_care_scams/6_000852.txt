@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash calling from BlueDart Courier. We have a package addressed to you, but there's a slight issue with the delivery address.
+receiver: Oh really? What's the problem? I was expecting a parcel.
+caller: Yes, ma'am. The pin code doesn’t match our records. To reroute the package and ensure it reaches you, we need to verify a few details. Can you please confirm the last four digits of your debit or credit card associated with the order?
+receiver: Wait a minute! Why do you need my card details for a delivery? That seems suspicious.
+caller: Ma’am, it's just a standard security protocol. We need to verify the payment details to confirm the address is linked to the original buyer. It’s for your protection. Otherwise, the package will be returned to the sender.  For further verification, can you also share the OTP we've sent to your registered mobile number?
+receiver: No, I’m not going to do that. I’ll call BlueDart directly to confirm. Thank you.
+caller: Ma’am, please, it’s very urgent. If you don't verify, your package will be lost! The OTP is crucial to prevent fraud. Just share the OTP and everything will be sorted.

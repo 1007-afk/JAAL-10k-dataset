@@ -1,0 +1,16 @@
+caller: Namaste ji, main Airtel se baat kar raha hoon. Aapke liye ek bahut achhi cheezon ka daman hai! Aapne humare premium offer mein ₹5000 jeete hain! Really amazing!
+receiver: Oh wow! Seriously? ₹5000? Yeh toh bahut sundar khabar hai! Kya type ka offer tha yeh? Main unki website par dekhkar bhul gayi tha.
+caller: Haan ji, humare ek limited edition promotion mein jeet hui yeh prize, madam/sir. Bas aapko ye prize claim karne ke liye 8800987654 pe call karna hoga. Itni simple hai!
+receiver: Okay, 8800987654? Aur ye prize claim karne ke liye kisi bhi aur requirement ki zarurat hai? Kuch paperwork ya something?
+caller: Nahi ji, abhi koi paperwork nahi hai! Aapko bas us number pe call karna hai, aur wahan pe aapko poori process detail mil jayegi. Bahut easy hai. Aapka number bataiye please, madam/sir, taaki main check kar saku ki yeh aap ke liye hi hai?
+receiver: Mera number hai [your phone number here]. Aur aapne kaha tha ki Airtel se ho? Yeh Airtel ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine verify kar li hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi problem nahi hogi.
+receiver: Theek hai, thoda wait kar rahi hoon. Aur ye prize kab tak claim karna hai? Koi expiry date hai kya?
+caller: Namaste ji, main Jio se baat kar raha hoon. Aapke liye ek bahut achhi cheezon ka daman hai! Aapne humare gold membership scheme mein ₹10000 jeete hain! Really amazing!
+receiver: Oh wow! Seriously? ₹10000? Yeh toh bahut sundar khabar hai! Kya type ka scheme tha yeh? Main unki website par dekhkar bhul gayi tha.
+caller: Haan ji, humare ek exclusive loyalty program mein jeet hui yeh prize, madam/sir. Bas aapko ye prize claim karne ke liye 9912345678 pe call karna hoga. Itni simple hai!
+receiver: Okay, 9912345678? Aur ye prize claim karne ke liye kisi bhi aur requirement ki zarurat hai? Kuch paperwork ya something?
+caller: Nahi ji, abhi koi paperwork nahi hai! Aapko bas us number pe call karna hai, aur wahan pe aapko poori process detail mil jayegi. Bahut easy hai. Aapka number bataiye please, madam/sir, taaki main check kar saku ki yeh aap ke liye hi hai?
+receiver: Mera number hai [your phone number here]. Aur aapne kaha tha ki Jio se ho? Yeh Jio ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine verify kar li hai. Ab bas aap us number pe call kijiye, aur prize receive kar lijiye. Koi problem nahi hogi.
+receiver: Theek hai, thoda wait kar rahi hoon. Aur ye prize kab tak claim karna hai? Koi expiry date hai kya?

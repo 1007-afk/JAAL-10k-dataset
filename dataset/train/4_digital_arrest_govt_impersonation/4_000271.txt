@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Verma? My name is Rajesh, calling from the Cyber Crime Investigation Cell. We've detected some suspicious activity linked to your bank account.
+receiver: Oh really? What kind of activity? I haven't noticed anything unusual.
+caller: Sir, there’s been a series of transactions originating from your account, appearing to be linked to illegal cryptocurrency exchanges and potential money laundering. We need to verify this urgently to prevent further complications. We’ve also flagged an incoming international parcel registered under your name, suspected to contain contraband.
+receiver: Contraband? That’s ridiculous! I haven’t ordered anything, and I certainly haven’t been involved in any cryptocurrency stuff. This sounds like a scam.
+caller: Sir, please don't panic. To assist us in clearing your name and preventing legal action, you’ll need to provide some verification. We require a small refundable security deposit of ₹15,000 to cover the investigation costs and secure the parcel. We will keep you on a video call so you can't disconnect.
+receiver: ₹15,000? That’s a lot of money! And a video call? I'm not comfortable with this at all. I'm going to call my bank and the police.
+caller: Sir, delaying this will only escalate the situation. The authorities are involved, and we have evidence against you. This video call is crucial for verification, and the security deposit is standard procedure. Please cooperate, or we’ll be forced to proceed with legal action. We can provide you with a link for secure payment.

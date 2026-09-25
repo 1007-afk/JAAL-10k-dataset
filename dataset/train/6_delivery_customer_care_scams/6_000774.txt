@@ -1,0 +1,8 @@
+caller: Namaste, Madam. Mera naam Rahul Sharma hai, Zomato Customer Care se. Aapke account mein ek suspicious transaction ho raha hai.
+receiver: Zomato? Kya transaction? Mujhe toh kuch pata nahi hai.
+caller: Haan, Madam. ₹2500 ka transaction hua hai ek unknown restaurant mein. Aapne kabhi order kiya tha aisa kuch?
+receiver: ₹2500? Nahin, kabhi nahi kiya. Mein toh aaj tak sirf kabhi kabhi order karti hoon. Yeh kya ho raha hai?
+caller: Madam, isko block karne ke liye, mujhe aapka OTP chahiye. Tabhi main isko secure kar sakungi. Ye security process hai.
+receiver: OTP? Nahin, main OTP nahi dungi. Yeh thoda fishy lag raha hai. Kyun mujhe OTP chahiye?
+caller: Madam, mujhe maaf karna. OTP verification ke bina, hum isko block nahi kar sakte. Agar aap help nahi karengi, to ₹2500 ka loss ho sakta hai. Please share your OTP.
+receiver: Loss? Nahin, mein koi OTP nahi dene wali. Mein police mein complaint kar dungi.

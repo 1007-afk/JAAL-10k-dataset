@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se bol raha hoon. Tumne ek message mila tha, ‘Your Dream Vacation Awaits!’? Agar tumne message dekha hai, toh tumhare liye 10GB data free mil rahi hai, abhi abhi! Bahut asan hai isko claim karna. Message dekha kya hai?
+receiver: Namaste ji, sahi sunaya. Bharat Telecom se ho? Message mila tha. Data free mil rahi hai? Toh, kya karna hai?
+caller: Haan ji, bilkul! Bas kuch simple questions puch rahe hain to check karein ki yeh aapka hi account hai. Kya aapka naam Sanjay Kumar hai, please? Aur aap kaunse internet service provider se connect karte hain? Itna ho jayega toh tumhara data abhi hi free mil jaayega. Tumhare liye 10 GB data, sirf kuch second mein tumhare phone par hoga!
+receiver: Ji, mera naam Sanjay Kumar hai. Aur main Airtel use karta hoon.
+caller: Achcha, Sanjay! Thanks for confirming. Just to assure you, can you also provide your registered email address? We need it to send you the activation link. Don’t worry, this is just for verification.
+receiver: Mera registered email address hai example@email.com. Aapko aur kuch chahiye?
+caller: Excellent, Sanjay! Just one more detail. To complete the process, can you confirm the last three digits of your mobile plan ID? It’s a quick security step to ensure that your 10GB data is correctly applied to your account. This protects you from accidental misuse of your free data.
+receiver: Mobile plan ID ke last three digits? Hmm… main check karta hoon. Yeh toh my profile mein bhi dikha hota hoga na? Woh kahaan pata chala?

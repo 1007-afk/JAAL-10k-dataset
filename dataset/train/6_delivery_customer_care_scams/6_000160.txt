@@ -1,0 +1,20 @@
+caller: Namaste ji, woh to hai. Mai Gurgaon wale hoon, Delhi ke pass hi. Aapko kuch deliver karna hai na? Kaise chal raha hai?
+receiver: Haan ji, betul kar rahe hain. Bas do minute ka time lagega. Aapne kaha tha, ek laptop chahiye tha, sahi? Mera naam Vikram hai, aap batao kis company ka laptop chahte hain.
+caller: Vikram ji, theek hai. Mai do minute mein aa jaunga. Laptop ready hai mere paas, brand ka naam Lenovo. Aapko kis model ka laptop chahiye, ye bataiye.
+receiver: Oh, Lenovo! Bahut acha hai. Mujhe Lenovo ThinkPad X1 Carbon chahiye tha. Usmein processor bohat achcha hota hai. Aur aapke paas koi aur option bhi hai kya?
+caller: Vikram ji, ThinkPad X1 Carbon ready hai. Woh laptop ekdum perfect hai. Aapko delivery charge kab tak lagen? Aur haan, aapko koi extra accessories chahiye na? Mouse ya keyboard bhi milta hai.
+receiver: Delivery charge kitna hoga? Aur haan, mouse bhi chahiye, agar possible ho toh.
+caller: Vikram ji, delivery charge ₹1500 hoga. Aur yes, mouse bhi mil jayega, ekdum free of cost. Aapko address dikhana hai kya?
+receiver: Ji, address to maine tumhen pehle hi bata diya tha – Sector 18, Noida. Aapne check kiya tha na?
+caller: Haan ji, check kiya tha. Ekdum correct hai. Vikram ji, laptop ready hai, aapki wait karne wala hoon.
+receiver: Okay, thank you ji. Aapko payment kaise karenge?
+caller: Namaste ji, woh to hai. Mai Gurgaon wale hoon, Delhi ke pass hi. Aapko kuch deliver karna hai na? Kaise chal raha hai?
+receiver: Haan ji, betul kar rahe hain. Bas do minute ka time lagega. Aapne kaha tha, ek laptop chahiye tha, sahi? Mera naam Vikram hai, aap batao kis company ka laptop chahte hain.
+caller: Vikram ji, theek hai. Mai do minute mein aa jaunga. Laptop ready hai mere paas, brand ka naam Lenovo. Aapko kis model ka laptop chahiye, ye bataiye.
+receiver: Oh, Lenovo! Bahut achha hai. Mujhe Lenovo ThinkPad X1 Carbon chahiye tha. Usmein processor bohat achcha hota hai. Aur aapke paas koi aur option bhi hai kya?
+caller: Vikram ji, ThinkPad X1 Carbon ready hai. Woh laptop ekdum perfect hai. Aapko delivery charge kab tak lagen? Aur haan, aapko koi extra accessories chahiye na? Mouse ya keyboard bhi milta hai.
+receiver: Delivery charge kitna hoga? Aur haan, mouse bhi chahiye, agar possible ho toh.
+caller: Vikram ji, delivery charge ₹1500 hoga. Aur yes, mouse bhi mil jayega, ekdum free of cost. Aapko address dikhana hai kya?
+receiver: Ji, address to maine tumhen pehle hi bata diya tha – Sector 18, Noida. Aapne check kiya tha na?
+caller: Haan ji, check kiya tha. Ekdum correct hai. Vikram ji, laptop ready hai, aapki wait karne wala hoon.
+receiver: Okay, thank you ji. Aapko payment kaise karenge?

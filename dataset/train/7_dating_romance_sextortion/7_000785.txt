@@ -1,0 +1,7 @@
+caller: Namaste, is this Rohan? This is Priya from "Heartstrings Connect." You mentioned you were looking for someone special, right? I saw your profile - you seem like such a kind and thoughtful person. I’ve got a feeling we could have a wonderful connection.
+receiver: Oh, hi! Yes, that’s me. Heartstrings Connect, huh? I do like the name. And thanks, that's kind of you to say. What do you do?
+caller: I work as a freelance graphic designer. It’s pretty flexible, which is great because I’m travelling quite a bit for work right now. I’m currently in Dubai, but I'm heading to London next week. It's all very exciting, but a bit lonely being away from home. Listen, I have something a little unusual to ask… I'm having trouble accessing my bank account here to pay for my visa extension. It’s a temporary glitch, and I'm a little stressed about it.
+receiver: Oh no, that sounds awful! Visa problems are a nightmare. Is there anything I can do to help? I mean, I’m not rich, but if it’s a small amount…
+caller: It is. Just ₹5000 would be enough to cover the immediate fees and get everything sorted. I can pay you back double as soon as I’m back in India. Honestly, I’m desperate and you seem so trustworthy. I’d be eternally grateful. I can send you the details for an UPI transfer.
+receiver: ₹5000? That’s a fair bit, but if you promise to pay me back… and you seem genuine. Let me think about it. Send me your UPI ID and I'll see. I’ll need to check with my wife first, you know.
+caller: Absolutely, understand completely! Here’

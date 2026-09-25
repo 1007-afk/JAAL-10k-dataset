@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rahul Singh hai, DigiSafe Finance se. Aapka number humare database mein aaya hai, aur hum aapko ₹50,000 tak ka instant loan dene ka offer kar rahe hain, sirf PAN card aur basic details dekar.
+receiver: ₹50,000 loan? Mujhe toh loan chahiye tha. KYC details kya chahiye? Aur interest rate kitna hoga?
+caller: Bilkul! KYC ke liye sirf aapka PAN card number, address proof, aur ek selfie photo hi kaafi hai. Interest rate market ke hisaab se hai, ₹1.5% per month.  Loan amount ka 10% processing fee lagayega, ek baar loan approve ho jaye.
+receiver: 1.5% interest per month aur 10% processing fee? Itna zyada lag raha hai. Aur selfie photo... woh kyun chahiye?
+caller: Sir, yeh market standard hai. Aur selfie photo sirf aapki identity confirm karne ke liye hai, security ke liye. Agar aapko loan approve hone mein koi problem aati hai, toh hum aapko call karenge. Apni details abhi share karke aapko loan process start karwa sakte hain. Jab aap loan pay kar denge, toh aapka data safe rahega.
+receiver: Okay. PAN number [Receiver's PAN Number]. Address proof... woh main baad mein bhej doonga. Selfie photo abhi nahi bhejna chahta. Loan approval process kitna time lega?
+caller: Bahut achcha! Ab aapka Aadhaar card number bataiye, verification ke liye. Jab Aadhaar card number mil jayega, toh loan approve hone mein sirf 15 minute lagenge. Jab approve ho jayega, toh hum aapke bank account mein ₹50,000 transfer kar denge.

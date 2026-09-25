@@ -1,0 +1,11 @@
+caller: Namaste, sir? Mera naam Deepak hai, Axis Bank se. Aapke naam par ek new transaction attempt hua hai, jo suspicious lag raha hai.
+receiver: Haanji, Deepak? Kya hua? Transaction kitna tha?
+caller: ₹12,000 ka attempt hua tha international transaction mein, sir. Humare system ne flag kar diya hai. Aap confirm karein ki aapne yeh transaction kiya hai ya nahi?
+receiver: ₹12,000? Nahin, main toh international transaction nahi kar raha tha kabhi.
+caller: Theek hai, sir. Security ke liye, humko aapka OTP verify karna hoga, aur Aadhaar card ki ek copy bhi chahiye hogi. Isse hum aapke account ko secure kar sakte hain. Aapki account ki security hamara priority hai.
+receiver: Aadhaar card copy? Yeh thoda risky lag raha hai, Deepak. Main bank branch mein jaakar check karunga.
+caller: Sir, agar aap abhi nahi karayenge toh account suspend bhi ho sakta hai. Fraudulent activity hone par bank ko compulsory action lena padta hai. Jaldi se OTP aur Aadhaar card ki copy send karein, please.
+receiver: Account suspend? Theek hai, ek minute. Main sochta hoon.
+caller: Sir, time is crucial.  We have already blocked the suspicious transaction temporarily, but to make it permanent and unlock your account completely, we need the verification documents urgently. Just send the OTP and Aadhaar copy to this number. 
+receiver: Okay, fine. But please tell me the reference number, so I can track the process.
+caller: Absolutely, sir. Your reference number is AXB-2024-7891.  Please send your OTP and Aadhaar copy now, and your account will be secured within minutes.

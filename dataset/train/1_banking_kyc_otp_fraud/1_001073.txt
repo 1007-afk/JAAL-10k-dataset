@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Axis Bank se Ankit Verma bol raha hoon. Aapke naam par ek suspicious transaction ka attempt kiya gaya hai. ₹12,500 ki ek online payment attempt fail ho gaya hai, lekin humko confirm karna hai ki aap safe hain.
+receiver: Haan, hello. Axis Bank se? ₹12,500? Mainne koi payment nahi kiya. Kya ho raha hai?
+caller: Ji, sir, humko confirm karna hai ki aapka account safe rahe. Is transaction ko block karne ke liye, aapko apna PAN card number aur ek OTP dena hoga jo aapko abhi milna chahiye. Yeh sirf 2 minute ka kaam hai.
+receiver: PAN card number? Aur OTP? Maine toh kabhi aisa sunna nahi kiya. Bank toh aise details maangta hi nahi! Yeh thoda suspicious lag raha hai.
+caller: Sir, security protocols ke according, humko verify karna hai. Agar aap verify nahi karenge, toh humko aapka account temporary suspend karna padega, taaki ho sake toh koi damage na ho. Aapko inconvenience hoga, par yeh aapke liye better hai. Thoda sa time dijiye, sir.
+receiver: Account suspend? Sir, zara thamein. Mujhe ek minute dijiye, main Axis Bank ke official helpline number se call karta hoon aur confirm karta hoon. Phir main aapko koi bhi information nahi dunga.
+caller: Sir, helpline number pe call karne mein time lagega. Aur iske beech mein account block ho sakta hai. Please, sir, abhi hi OTP bata dijiye. Abhi sirf ek minute ka kaam hai.

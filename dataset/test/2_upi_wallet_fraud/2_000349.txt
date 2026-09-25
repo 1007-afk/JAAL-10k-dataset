@@ -1,0 +1,7 @@
+caller: Namaste! Maine dekhna tha ki aapka Paytm account active hai ya nahi. Ek achha cashback offer hai aapke liye.
+receiver: Paytm account? Cashback offer? Woh kya hai?
+caller: Haan ji, aap Flipkart se kuch purchase karte hain toh ₹1200 ka cashback direct aapke Paytm wallet mein aa jayega. Offer sirf Flipkart pe hi hai.
+receiver: ₹1200 ka cashback? Flipkart pe?  Yeh kaise hoga?  Koi link ya OTP toh nahi mang rahe?
+caller: Bilkul nahi! Sirf aapko ek small processing fee deposit karni hai, ₹250 sirf. Verification ke liye.  Yeh fees hum Paytm ke official service center ke zariye collect karenge.
+receiver: ₹250 deposit? Verification ke liye?  Kaise deposit karu? Mujhe kuch suspicious lag raha hai. Aapka naam kya hai?
+caller: Mai Ravi hu, Flipkart customer care se. ₹250 Paytm number par send kar dijiye, verification ke baad aapka cashback confirm ho jayega. Jaldi kijiye, offer end ho rahi hai!

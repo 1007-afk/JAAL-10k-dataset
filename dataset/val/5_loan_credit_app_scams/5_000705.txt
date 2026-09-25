@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, GoldFin Finance se. Hum dekhte hain aapko loan dene mein koi problem nahi hai, aur aapki financial needs complete karne ke liye ready hain. Aapka naam kya hai, sir?
+receiver: Ji, mera naam Rajesh Kumar hai. Main ek kirana store chalaata hoon.
+caller: Rajesh ji, achha! Kirana store bahut achha business hai. Hum aapko 10 lakhs tak ka loan provide kar sakte hain, sirf 10% processing fee ke saath. Payment karne ke liye aapko sirf ek OTP dena hai.
+receiver: 10% processing fee? Woh thoda zyada lag raha hai... aur OTP bhi?
+caller: Rajesh ji, yeh standard process hai, aur hum sabse kam rate offer kar rahe hain. OTP aapke account verification ke liye hai. Jaldi karo, offer limited time ke liye hai! Agar aap ignore karenge, toh hum kisi aurko loan de denge.
+receiver: Sir, mujhe thoda time dijiye, main sochte hoon.
+caller: Rajesh ji, time nahi hai! Hamare system mein aapki personal details register ho gaye hain. Agar aap payment nahi kar paye, toh hum aapki contacts ko abusive messages bhejenge aur aapke photo morph bhi kar ke social media par daal denge.
+receiver: Photo morph? Yeh toh galat hai! Main police mein complaint karunga!
+caller: Rajesh ji, mat karo woh! Thoda aur time de do! Aap abhi 50000 ka payment kar dijiye, phir main aapki photo delete kar dunga aur sab kuch theek kar dunga.

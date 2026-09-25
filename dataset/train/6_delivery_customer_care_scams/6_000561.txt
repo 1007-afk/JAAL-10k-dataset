@@ -1,0 +1,7 @@
+caller: Namaste, mai Reliance JIO customer care se Rahul bolta hoon. Aapke account mein 4999 rupees ka pending payment hai. Agar aapne aaj payment nahi kiya toh aapka connection cut ho jayega.
+receiver: Kya? 4999? Mujhe koi message nahi aaya tha. Mai toh last month bill pay kiya tha.
+caller: Sir, system mein dikh raha hai ki aapka payment pending hai. Aapko payment karne ke liye, please apna OTP mujhe bataiye.
+receiver: OTP? Nahi, main OTP kabhi bhi kisi ko nahi bataunga. Customer care aise OTP nahi maangta.
+caller: Sir, please samjhiye. Aapka connection cut ho jayega. Aapko payment karne ke liye OTP give karna padega, aur phir main aapko ek secure link send karunga jahan se aap payment kar sakte hain.
+receiver: Ye to scam lag raha hai. Main police mein complaint karunga.
+caller: Sir, please, mat karna ye. Main aapki help kar raha hoon. Aise hi connection cut ho jayega aur phir aapko phir se JIO connection lena padega. Number 9876543210 pe call karein aur apna account details share karein. Shukriya.

@@ -1,0 +1,10 @@
+caller: Hello! Fantastic news! You’ve been selected for a prize draw for ‘Golden Rewards’ – 750 rupees worth of digital gift cards from ‘Shine Store’! To claim your reward, simply reply ‘GOLD’ to 98765 to join. Details available at www.shineshopping.in. Are you excited to participate?
+receiver: Hello! Really? 750 rupees worth of Shine Store gift cards? That’s wonderful! Just replying ‘GOLD’ to 98765, correct? And the website is www.shineshopping.in. Yes, absolutely, I am eager to try my luck! Sounds like a great opportunity.
+caller: Wonderful! Let’s get started then. For your first question, what’s your preferred type of cuisine? Please select from Italian, Mexican, Chinese, or Indian. Just tell me one word.
+receiver: Okay, first question! My favorite cuisine would be…Indian. It’s so flavorful and comforting.
+caller: Excellent! Indian, very popular choice. Moving onto the next question - can you recall the name of the lead actor in the latest Bollywood blockbuster released this year?
+receiver: Bollywood blockbuster? Let me see… I believe it was Shah Rukh Khan in ‘Jubilee Nights’. It was a huge hit, aur sab ne dekha tha.
+caller: Jubileee Nights, superb! Very well done. Now for the final question: If you could travel anywhere in India, where would you most like to visit? Any city or region will do.
+receiver: Traveling? That’s a lovely thought! I’d really love to visit Goa. It’s known for its beautiful beaches and vibrant nightlife, aur woh ek achcha vacation option hai.
+caller: Goa, fantastic choice! We appreciate your participation. Congratulations, you’re among the lucky few who qualified for the prize draw.
+receiver: Thank you so much! This is truly exciting.

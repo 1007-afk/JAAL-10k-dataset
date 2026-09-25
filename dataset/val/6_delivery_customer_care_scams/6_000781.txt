@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? This is Akash from SwiftShip Courier. We attempted delivery of a parcel to your address earlier today, but the recipient wasn’t available.
+receiver: Haan, yahan hoon main. Parcel? Kon ne bheja hai?
+caller: It’s from Meesho. Tracking ID is 784XYZ. There seems to be an issue with the payment authorization, and we need to verify it quickly to prevent the parcel from being returned.
+receiver: Payment issue? Mujhe toh koi order yaad nahin aa raha. Lekin parcel Meesho ka hai toh shayad koi mistake ho. Kya hua exact?
+caller: Ji, there's a security alert flagging a potential duplicate payment. To resolve this, we need you to provide the last 4 digits of the card you used for the Meesho order and a one-time OTP we’ll send to your registered mobile number.
+receiver: Arey yaar, last 4 digits aur OTP? Yeh toh bohot suspicious lag raha hai. Meesho kabhi phone pe aise nahi poochta.
+caller: Ma’am, security is paramount. This is a standard procedure to protect your account. Without this verification, we’ll have to return the parcel to the sender, and you'll incur a return shipping fee of ₹350. Please, just cooperate.
+receiver: ₹350? Nahin, main koi fee nahi dene wali. Main Meesho customer care number pe call karti hoon aur puchti hoon. Tumhara number kya hai?

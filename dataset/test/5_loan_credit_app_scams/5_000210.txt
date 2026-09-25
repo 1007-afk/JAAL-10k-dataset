@@ -1,0 +1,8 @@
+caller: Namaste! Main UltraFastLoans se Rohit bolta hoon. Kya aapko urgent ₹75,000 tak ka loan chahiye? Approval process bahut simple hai, sirf 15 minute mein ho jayega.
+receiver: Haan, boliye. Loan ka kya process hai? Aur interest rate kitna hoga?
+caller: Achha, process bahut hi aasan hai. Hum sirf aapki kuch basic details check karna chahte hain. Aur interest rate sirf 10% per annum hoga, bilkul secure hai. Aapka naam aur bank account number bataiye, please.
+receiver: Mera naam Sanjay Verma hai. Account number bhi bata du? Ye safe hai na?
+caller: Haan Sanjay Verma ji, bilkul safe hai. Hum registered company hain. Aapko ₹75,000 loan easily mil jayega. Account number bataiye, aur ek OTP bhi send karenge verification ke liye.
+receiver: Okay, account number 1234567890. Ab OTP ka wait karta hoon.
+caller: Bahut achha Sanjay Verma ji. Ab aapko ₹75,000 loan repay karna hai 8 monthly installments mein. Har installment ₹11,000 se zyada hoga. Isko time par pay karna bahut zaroori hai warna...
+receiver: ₹11,000? Lekin maine toh ₹75,000 loan liya tha! Ye bahut zyada hai!

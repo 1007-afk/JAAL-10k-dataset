@@ -1,0 +1,11 @@
+caller: Namaste, main Sanjay Kumar hoon, Reliance Digital se baat kar raha hoon. Apke mobile phone ka warranty expire hone wala hai, aur humein apko ek special discount milega agar aap hamari updated service plan leta hain. Kaise chal raha hai?
+receiver: Oh, hello! Reliance Digital, warranty expire hone wala hai? Haan, mein use karta hoon mera phone. Batao, kya hai?
+caller: Sir/Madam, warranty update karne ke liye, humein aapke phone ka IMEI number lagana padega. Iska matlab, aapko phone ki settings mein jaakar ek specific option dikhayen ga, aur humein wo number chahiye. Agar aap woh number de sakte hain, to hum aapko immediately discount offer deta hun.
+receiver: IMEI number? Mein unhein bataaunga, lekin yeh thik hai kya? Ye genuine hai kya?
+caller: Haan, bilkul genuine hai. Reliance Digital ka official helpline hai. Aapko sirf warranty extend karne ke liye request kiya ja raha hai. Koi fraud nahi hai, garmi mat karo.
+receiver: Okay, mein number dekh raha hoon...Yeh hai [IMEI Number - invent something random]. Kya yeh sahi hai?
+caller: Jihaan, woh correct hai. Shukriya. Ab, humein ek small verification process karna hoga. Aapko ek SMS mein ek code bheja jayega, aur aapko woh code mujhe reply karna hoga.
+receiver: Code bhejna? Okay, bataiye code kaise bhjane hai.
+caller: Aapko SMS mein code copy karna hoga aur mujhe reply karna hoga. Simple!
+receiver: Fine, mein copy kar raha hoon.
+caller: Excellent! Code bhejna complete ho gaya. Aapko ab discount offer mil jayega. Thank you!

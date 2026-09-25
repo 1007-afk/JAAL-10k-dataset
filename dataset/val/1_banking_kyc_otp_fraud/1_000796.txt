@@ -1,0 +1,8 @@
+caller: Namaste, main HDFC Bank security department se Rohit Sharma bolta hoon. Aapke account mein aaj kal kuch suspicious activity dikh rahi hai.
+receiver: Suspicious activity? Kya hua? Mujhe koi message nahi aaya.
+caller: Sir, ek international transaction attempt hua tha, ₹15,000 ka. Abhi cancel ho gaya hai, lekin hum verify karna chahte hain ki aapne kiya ya nahi.
+receiver: ₹15,000? Haan, mujhe yaad hai, ek attempt tha, par mainne cancel kar diya tha.
+caller: Theek hai sir. Verification ke liye, mujhe aapka OTP chahiye jo aapke registered mobile number par aa raha hoga. Aur, aapka PAN card number bhi check karna padega security ke liye.
+receiver: OTP? PAN card number? Yeh toh bahut suspect hai. Main bank mein hi call karta hoon.
+caller: Sir, time bahut kam hai. Agar aap OTP aur PAN card number nahi dete, to account suspend kar na padega security reasons se. Please cooperate.
+receiver: Account suspend? Theek hai, theek hai… ek minute.

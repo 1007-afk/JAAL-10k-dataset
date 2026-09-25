@@ -1,0 +1,7 @@
+caller: Namaste! Main PayNearby se calling karta hoon. Aapko Paytm se ₹500 ka cashback offer mila hai. Yeh ek limited time offer hai sirf apne kirana dukane se payment karne ke liye.
+receiver: ₹500 cashback? Kirana dukane pe? Mujhe koi notification nahi aaya.
+caller: Haan ji, notification sabko nahi jaata. Yeh ek special offer hai Paytm ke select customers ke liye. Cashback claim karne ke liye, aapko sirf apna PAN card number verify karna hai.
+receiver: PAN card number? Yeh thoda risky lagta hai. Kya it’s safe?
+caller: Bilkul safe hai! Paytm toh trusted company hai. PAN verification se cashback process fast ho jayega. Aur ₹500 toh aapki khushi hai!
+receiver: Okay, theek hai. Mera PAN number [invent a PAN number, e.g., ABCDE1234F] hai.
+caller: Dhanyavaad! Ab aapko apne phone pe ek OTP milega. Woh verify kar lijiye, aur cashback automatically aapke Paytm wallet mein add ho jayega. Hurry up, offer jaldi khatam ho jayegi!

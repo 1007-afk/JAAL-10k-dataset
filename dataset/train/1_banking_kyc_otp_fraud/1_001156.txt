@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya from Axis Bank’s KYC department. We've noticed some unusual activity on your account and need to verify your information to prevent potential fraud.
+receiver: Unusual activity? What kind of activity? Should I be worried?
+caller: Yes sir, a large attempted transaction was flagged. To secure your funds, we require you to confirm a few details and share a one-time password sent to your registered mobile number. It’s a standard security protocol.
+receiver: Okay, but why can't I just do this online through the Axis Bank app? I always do my banking through the app.
+caller: Sir, due to a system upgrade, the online portal is temporarily unavailable for these specific security verifications. We need to do this over the phone to ensure the process is secure. Now, can you please confirm your date of birth for verification?
+receiver: My date of birth is 15th August 1985. But I’m still a bit hesitant about giving you an OTP over the phone. Is there absolutely no other way?
+caller: Sir, I understand your concern, but time is of the essence here. If we don’t complete this verification quickly, we may have to temporarily suspend your account as a precaution. The OTP will confirm that you are the rightful account holder. Please provide the OTP for your safety.

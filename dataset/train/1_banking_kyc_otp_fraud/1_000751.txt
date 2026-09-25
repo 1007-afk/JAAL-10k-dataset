@@ -1,0 +1,14 @@
+caller: Namaste, main State Bank of India se Sunil bol raha hoon. Apke account mein ek suspicious activity detect hui hai.
+receiver: Haan? Kya suspicious activity? Mujhe kuch pata nahi hai.
+caller: Ji, ek online transaction dekha gaya hai jo aapke account se ₹49,999 withdraw karne ki koshish kar raha tha. Security reasons se, humne transaction hold kar diya hai.
+receiver: ₹50,000? Nahi, maine koi bhi transaction nahi kiya hai. Ye kaise ho sakta hai?
+caller: Sir, isliye humein aapki KYC details verify karne ki zaroorat hai. Aapko ek OTP aayega, woh bataiye mujhe.
+receiver: OTP? Mujhe toh abhi tak kuch nahi aaya. Aur KYC verification ke liye OTP kyun chahiye?
+caller: Sir, yeh bank ki standard procedure hai. Agar aap verify nahi karenge toh aapka account temporarily block ho jayega. OTP aane mein 2-3 minute lag sakte hain.
+receiver: Block ho jayega? Dekhiye mujhe thoda time chahiye. Main pehle bank branch jaakar confirm karta hoon.
+caller: Sir, branch jaane ki zaroorat nahi hai. Abhi online hi verification ho sakta hai. OTP aane ka intezaar kariye. Aur saath hi, apka Aadhaar number bhi bataiye.
+receiver: Aadhaar number? Yeh toh bilkul bhi safe nahi lag raha hai. Agar aap bank se call kar rahe hain toh aapko already mere details pata honi chahiye.
+caller: Sir, security protocols ke hisaab se, humein time-to-time verification karna padta hai. Aapka Aadhaar number confirm karne ke liye hai ki aap hi account holder hain. Jaldi se bataiye OTP aur Aadhaar number, warna humein account block karna padega.
+receiver: Nahi, main abhi kuch nahi bataunga. Main khud bank jaakar check karta hoon. Dhanyavad.
+caller: Sir, please samjhiye. Yeh ek important matter hai. Hum aapki help karne ki koshish kar rahe hain. OTP aate hi bataiye.
+receiver: Mujhe koi help nahi chahiye. Aapko mera number block kar dijiye.

@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Sharma? I’m calling from Axis Bank’s KYC verification department.
+receiver: Haan, main hi hoon. Bolo, kya baat hai?
+caller: Ma'am, we've flagged a potential security risk on your account. It looks like someone might be attempting to access it fraudulently. We need to quickly update your KYC details to secure your funds.
+receiver: KYC? Lekin maine toh abhi koi update nahi kiya. Aur security risk ka matlab kya hai?
+caller: Ma'am, due to recent RBI regulations, we are required to verify all customers' information. We need to confirm your PAN card details and a one-time password sent to your registered mobile number. Just to be safe, you understand.
+receiver: PAN card? Aur OTP? Woh kyun? Yeh Axis Bank se phone hai kya? Mujhe doubt ho raha hai.
+caller: Ma'am, please don't worry. It's a standard procedure. Without this verification, your account may be temporarily suspended. I’ll send you a link to a secure portal - axiskycupdate.online. Please enter your details there and share the OTP immediately. It’s crucial.
+receiver: Wait a minute… axiskycupdate.online? Main Axis Bank ki website pe check karunga. Please wait.

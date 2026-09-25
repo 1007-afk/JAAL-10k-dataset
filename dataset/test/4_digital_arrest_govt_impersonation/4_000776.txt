@@ -1,0 +1,7 @@
+caller: Hello sir, this is Neeraj Sharma calling from the Cybercrime Investigation Cell. We have detected suspicious activity linked to your bank account ending in 4582.
+receiver: Cybercrime Investigation Cell? What kind of suspicious activity? I haven't done anything unusual.
+caller: Sir, our system flagged several large cryptocurrency transactions originating from your account. It seems your device might be compromised, and funds are being diverted to illegal channels. We need to verify your identity immediately.
+receiver: Cryptocurrency? I don't even know what cryptocurrency is! This sounds like a scam. Which branch are you calling from? Can you give me a reference number?
+caller: Sir, this is a sensitive matter, we operate directly from headquarters. To secure your funds, we need you to transfer ₹7,500 to a secure government escrow account. This will freeze your account while we investigate further. Use UPI ID: SecureGovPay@axis.
+receiver: ₹7,500? Freeze my account? This is ridiculous! I’m calling my bank right now. You are clearly a fraudster. Don't call me again.
+caller: Sir, please understand, this is for your own protection. Delaying this could result in permanent loss of funds and potential legal repercussions. The UPI ID is SecureGovPay@axis. Just a small amount to secure your account.

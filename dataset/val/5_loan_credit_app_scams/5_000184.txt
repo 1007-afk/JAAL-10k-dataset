@@ -1,0 +1,7 @@
+caller: Namaste, sir? My name is Amit from ‘LoanExpress India’. I am calling regarding your recent loan application on our platform. We’ve reviewed your profile and are happy to approve a loan of ₹50,000.
+receiver: Haan? Loan approved? That's great news! But I only applied for ₹20,000.
+caller: Yes sir, due to your excellent credit history, we’ve increased the offer to ₹50,000. However, a small processing fee of ₹2,500 is required upfront to activate the loan. This is a one-time charge.
+receiver: ₹2,500? But the app said there were no upfront fees.
+caller: Sir, that was for smaller loan amounts. This is a premium service. We need to ensure funds are secure. You can deposit it to this UPI ID: 7890123456@ybl. It’s absolutely essential to release your loan.
+receiver: Okay, fine. I’ll do it. Just tell me, once I deposit, when will I receive the loan amount?
+caller: Once the payment is confirmed, sir, we’ll transfer the ₹50,000 immediately. Please send us a screenshot of the transaction once complete. And sir, there's one more small charge...a security deposit of ₹1,000, to protect against fraudulent activity. It's non-refundable.

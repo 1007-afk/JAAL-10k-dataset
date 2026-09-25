@@ -1,0 +1,7 @@
+caller: Namaste sir, mai Indian Customs se Ramesh bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Parcel rok diya gaya hai? Mein toh koi parcel nahi order kiya tha.
+caller: Sir, parcel mein illegal items mile hain. Drugs ke anchaar hain. Aapko is matter mein involved paaya gaya hai.
+receiver: Drugs? Yeh toh galat hai! Main toh kabhi drugs nahi chaha. Aapko kaise pata ki yeh mera parcel hai?
+caller: Sir, parcel par aapka naam aur address tha. Case number 789456 hai. Is matter ko settle karne ke liye, aapko 50,000 rupees ka fine bharana padega. Video call par aao, tab baat karenge.
+receiver: Paachas hazaar? Yeh bahut zyada hai! Aur video call kyun? Main police station mein jaunga aur report karunga.
+caller: Sir, police station mein is matter mein koi help nahi karega. Yeh high-profile case hai. Agar aap fine nahi bharte, to aapko arrest bhi kiya ja sakta hai. Abhi video call pe aao, warna bahut pareshaan hongaa.

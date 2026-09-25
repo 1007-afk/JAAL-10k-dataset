@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit from BharatPay Customer Care. We’ve noticed some unusual activity on your BharatPay account. Seems like someone might be trying to access it. Just confirming – is this still Mr. Verma?
+receiver: Haan, bolie. BharatPay ka kaam hai? Kuch dikkat hai?
+caller: Yes sir, a small payment of ₹750 was attempted from your account to a new merchant. We're blocking it temporarily for security reasons. To reverse the transaction and secure your funds, we need you to verify a few details quickly. Can you please confirm the last three digits of the ATM card linked to your BharatPay?
+receiver: ATM card ka number? BharatPay mein ATM card ki kya zaroorat hai? Yeh theek nahi lag raha hai. Aap BharatPay se hi bol rahe hain?
+caller: Sir, it's a standard security protocol to prevent unauthorized access. Just a quick three digits, please. We can also send a verification code to your registered mobile number, but that will take longer. The merchant is named 'GharPay Solutions', perhaps you ordered something online?
+receiver: GharPay Solutions? Main toh kuch online nahi order kiya. Verification code behtar hoga. Mujhe koi number nahi dena chahunga.
+caller: Alright, sir. We'll send a one-time code to your registered number. Please tell me the code you receive so we can proceed with reversing that transaction. It's important to act fast, otherwise the funds might be lost permanently.

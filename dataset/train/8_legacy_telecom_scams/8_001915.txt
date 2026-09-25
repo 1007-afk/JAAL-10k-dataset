@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se bol raha hu. Aapke mobile mein ek important notification hai. Sabse pahle, humein aapke device par ek virus dekha gaya hai. Isliye, humne aapko call kiya hai. Helpline number hai 09876543210. Apne device ko secure karne ke liye, jaldi se call karein. Yeh sirf 3 attempts hain.
+receiver: Namaste! Haan, suni. Virus? Arey wah! Kya virus hai? Helpline number bataiye. Jaldi kar rahe hain.
+caller: Dono, koi specific naam nahi hai. Parantu, humne aapki internet speed ko slow dekhayi hai. Isliye, humne aapko update install karne ka request kiya hai. Update install karne ke liye, yahaan call karein: 09876543210. Yeh update aapki privacy ko protect karega. Dhyaan rakhiye, sirf 2 chances hain.
+receiver: Okay, update? Update install karna hai. Helpline number bataiye phir se.
+caller: Helpline number hai 09876543210. Just check karo. Agar aapko koi problem hai, toh humein batayein. Parantu, jaldi karo, sirf 1 attempt baaki hai.
+receiver: Fir ek chance nahi hai? Abhi toh main kaam mein hoon. Kya main baad mein call kar sakta hoon?
+caller: Haan ji, lekin aapko asap call karna hoga. Warna aapki data loss ho jayegi. Helpline number 09876543210. Last chance!
+receiver: Arey yaar! Fine, abhi call karunga. Dhanyavaad!
+caller: Aapka dhanyavad!

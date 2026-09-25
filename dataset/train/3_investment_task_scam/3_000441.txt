@@ -1,0 +1,16 @@
+caller: Hello, this is Rohan calling from Global Investments. We have an incredible opportunity for you regarding a lucrative property investment in Goa.
+receiver: Oh really? In Goa? What kind of investment are we talking about?
+caller: We’ve identified a prime beachfront plot – absolutely stunning views – that’s currently available at a significantly reduced price due to some minor structural issues, which our expert team can easily rectify.
+receiver: Structural issues? So, it needs repairs? How much are we looking at for those repairs?
+caller: Not a huge amount, honestly. Around ₹8 lakhs, but because of this discount, you’re essentially getting the land for just ₹3.5 lakhs. A fantastic deal, wouldn’t you agree?
+receiver: ₹3.5 lakhs for a beachfront plot in Goa… that does sound tempting. But what exactly do I need to do?
+caller: Just send us a copy of your Aadhaar card and a recent passport-sized photograph through a registered post to our office at Sector 7, Mumbai. That’s all!
+receiver: Registered post? Okay, why registered post? Isn't email enough these days?
+caller: Absolutely, registered post ensures complete security and verification of your identity. It's standard procedure for investments of this magnitude. And there’s a small processing fee of ₹1500, payable online via UPI.
+receiver: ₹1500 for a processing fee? That seems a little high. Can you tell me more about this ‘Global Investments’?
+caller: Global Investments has been operating successfully for over 20 years, helping countless investors realize their dreams. We have excellent reviews and a strong reputation. Trust us, you won’t regret it.
+receiver: 20 years? Really? Hmm, I’ll think about it. Could you please spell out the full address again? Sector 7, Mumbai…
+caller: Sure thing! It’s Sector 7, near the railway station, opposite the Reliance Petrol pump. Don’t miss out on this golden opportunity! Remember, act fast!
+receiver: Okay, thanks. I need to check things over carefully.
+caller: Of course! We’re here to answer any questions you may have. Just give us a call back. Goodbye!
+receiver: Goodbye.

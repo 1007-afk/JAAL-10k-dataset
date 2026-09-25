@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Verma? I'm calling from CoinLeap, a platform for earning cryptocurrency by completing simple tasks. We’ve noticed your profile and think you'd be a great fit.
+receiver: Haan, Verma bol raha hoon. CoinLeap? Simple tasks for crypto? Tell me more.
+caller: Absolutely! It’s very easy. We pay users in Bitcoin to rate mobile apps, watch short videos, and complete surveys. It’s a flexible way to earn extra income. New users get a bonus for joining.
+receiver: Bonus? How much bonus are we talking about? And what kind of apps would I be rating? It sounds almost too good to be true.
+caller: We’re offering a ₹500 bonus just for signing up and completing your profile. The apps are generally new releases - games, productivity tools, that sort of thing. To activate the bonus and access the tasks, we need a small verification fee of ₹150 to cover processing costs. This is fully refundable upon completion of your first task, of course.
+receiver: ₹150 verification fee? Refundable, you say? I'm a little hesitant to pay upfront, especially for a bonus. Can you explain why this is needed?
+caller: Sir, it’s purely for security purposes. It prevents fraudulent accounts and ensures the system is secure for all our users. It’s a standard procedure. To make it even better, if you pay now with UPI, we’ll add an extra ₹100 to your bonus. Think of it as a limited time offer.
+receiver: UPI? Let me think about it… I'll need to check something first.
+caller: Absolutely, sir. Take your time. But don’t delay too long, this promotion ends today. The earnings are fantastic, and it’s a really easy way to

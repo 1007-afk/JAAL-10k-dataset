@@ -1,0 +1,6 @@
+caller: Namaste, mai Airtel Payments Bank se Anjali Sharma bol rahi hoon. Aapke naam par ek transaction fail ho gaya hai, aur humein aapki KYC update karni hogi urgent basis par.
+receiver: Airtel Payments Bank? KYC update? Transaction fail? Main toh koi transaction nahi kiya. Kya hua?
+caller: Ji, ek suspicious transaction attempt kiya gaya tha, aur security ke liye humein aapke bank account details verify karne hain. Account number aur OTP bataiye, please. Time bahut kam hai, aur agar aap verify nahi karte toh aapka account freeze ho sakta hai.
+receiver: Freeze? Account freeze? Wait, wait… main phone pe bank details nahi de sakta. Yeh thoda risky lag raha hai. Aap mujhe ek official email id de sakte hain ya phir main bank branch mein jaa sakta hoon?
+caller: Sir, email pe time lag jayega, aur account freeze hone ki possibility hai. Isliye, please, thoda cooperate karein. Main aapko ek reference number de rahi hoon – AB789456 – isse verify ho jayega ki main genuine hu. Ab aapka account number aur OTP bataiye, please.
+receiver: AB789456… Ok, I'll just quickly check that reference number on the Airtel Payments Bank website… (pause) Wait a minute… I’m not seeing this reference number anywhere on the official website. Yeh toh scam lag raha hai. Main call cut kar raha hoon.

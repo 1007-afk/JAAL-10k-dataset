@@ -1,0 +1,7 @@
+caller: Hello sir, this is from PhonePe customer support. We noticed some unusual activity on your account and need to verify some details to prevent fraud.
+receiver: Oh, really? What kind of activity? I haven't done anything unusual.
+caller: Sir, there’s an attempted transaction for ₹5000 to a new UPI ID. To secure your account, we need to confirm the transaction and update your security settings. Could you please share the last four digits of your linked bank account?
+receiver: Wait a minute, ₹5000? I didn't authorize any transaction like that! And I’m not comfortable giving out my bank details over the phone. That sounds risky.
+caller: Sir, please understand, it's for your security. We're offering a special promotion right now – a ₹100 cashback instantly after verifying your account. Just share the last four digits and a one-time password that will be sent to your registered mobile number.
+receiver: Cashback? Okay, that sounds tempting. But are you really from PhonePe? Can you give me a reference number or something?
+caller: Absolutely, sir! Your reference number is PP-SEC-7890. The OTP has been sent. Please share it with me so we can process the cashback and secure your account.

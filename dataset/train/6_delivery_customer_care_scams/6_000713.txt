@@ -1,0 +1,8 @@
+caller: Namaste! Main Swiggy Customer Care se Rahul bolta hoon. Aapke Swiggy account mein kuch security issue aa raha hai. Aapka recent order suspicious lag raha hai.
+receiver: Oh, really? What happened? I just placed an order an hour ago.
+caller: Haan sir, ek delivery address change karne ka attempt kiya gaya tha. Security ke liye, mujhe aapka OTP verify karna hoga. Tabhi main aapke account ko secure kar paunga.
+receiver: OTP? I don’t usually give out OTPs. Is this really Swiggy?
+caller: Haan sir, bilkul Swiggy se hi hoon. Please OTP share kijiye, warna aapka account suspend bhi ho sakta hai. Just 4 digit ka OTP chahiye.
+receiver: Okay, hold on. Let me just check the Swiggy app… (pause) Wait a minute, I don't see anything about this in my app.
+caller: Sir, please don't waste time! Account suspend hone se pehle OTP share kijiye. Our system is showing a high-risk transaction.
+receiver: I think this is a scam. I'm not giving you anything. I’m reporting this number.

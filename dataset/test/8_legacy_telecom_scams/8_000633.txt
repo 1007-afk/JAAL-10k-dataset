@@ -1,0 +1,8 @@
+caller: Hello? Hello, Mr. Sharma? Can you hear me okay? This is Priya from SecureInvest Solutions. I’m calling with some really exciting news for you today. Congratulations, Mr. Sharma! You’ve won a premium smartwatch! Isn't that wonderful?
+receiver: Hello? Haan, Priya? Sunai de raha hai. SecureInvest Solutions se? Wow! Smartwatch jeeta hoon? Sach mein? Thank you so much! Kya baat hai!
+caller: Haan, Mr. Sharma, sach mein! Absolutely brilliant news! Aapko yeh smartwatch milne wala hai! Bas ek chota sa step hai, taaki hum yeh smartwatch aap tak pahuncha saken. Kya aap abhi thode free hain baat karne ke liye?
+receiver: Haan, Priya, bilkul free hoon. Bataiye kya karna hai? Koi paperwork hai ya kuch aur?
+caller: Bahut badhiya, Mr. Sharma! Toh bas yeh smartwatch aap tak pahunchane ke liye humein aapki verification karni hogi. Yeh ek simple verification process hai, ismein aapko apna address aur kuch basic details batani hongi, taaki hum yeh prize securely deliver kar saken. Kya aap mujhe apna pura naam aur delivery address bata sakte hain?
+receiver: Haan, bilkul. Mera naam hai Vikram Sharma. Aur mera address hai... 45, Oak Street, Sunnyvale.
+caller: Great, Vikram! Thank you for that. Aur aapki date of birth, please? Yeh bas security ke liye hai, taaki hum confirm kar saken ki aap hi hain winning ticket ke holder.
+receiver: Meri date of birth hai... 28th January, 1987. Aur kuch chahiye?

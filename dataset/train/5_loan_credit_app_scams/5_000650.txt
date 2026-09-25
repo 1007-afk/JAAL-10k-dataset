@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We’re calling from QuickCash Loans. Congratulations! You've been pre-approved for a ₹20,000 loan with very easy terms.
+receiver: QuickCash? I don’t think I applied for a loan. Are you sure you have the right number?
+caller: Absolutely, sir. We verified your details through CIBIL. Just a few simple steps to finalize the loan. We need a small processing fee of ₹2500 upfront to activate your account. This will show your seriousness. You can pay it through UPI.
+receiver: A processing fee? That's unusual. Most loans don’t ask for fees before giving the loan.  And I still haven’t applied for this.
+caller: Sir, this is to prevent fraud.  Many people try to take loans and then disappear. This fee guarantees your loan approval.  We can send you the UPI ID. Once you pay, the ₹20,000 will be credited to your account within an hour.  Don’t miss out on this great opportunity, sir.
+receiver: Look, I'm not comfortable with this. It sounds suspicious. I'm going to report this number. Goodbye.
+caller: Wait, sir! Don't do that! It’s a genuine offer! We can waive the fee, just confirm your date of birth for security purposes. Please, sir? Just a little more cooperation.

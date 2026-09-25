@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Priya Verma, EasyLoanPro se baat kar rahi hoon. Aapki loan application approved ho gayi hai! Abhi ₹15,000 aapke account mein transfer ho sakti hai.
+receiver: Really? Bahut achha! Main toh abhi expect nahi kar raha tha. KYC verification ke liye kya karna hai?
+caller: Sir, sirf ek small processing fee hai – ₹999.  Iske baad aapka loan approve ho jayega. Aap Paytm se pay kar sakte hain.
+receiver: ₹999? Loan ₹15,000 ka hai aur mujhe ₹999 fee dena hai? Yeh thoda zyada lag raha hai.
+caller: Sir, is processing fee se hi hum guarantee karte hain ki aapko instant loan mil jayega. Agar aap pay nahi karte, toh loan approve nahi hoga.  Aapka reputation bhi damage ho sakta hai, aur hum aapke contacts ko bhi inform kar denge.
+receiver: Contacts ko inform kar denge? Kaise? Aur reputation damage kaise hoga? Mujhe kuch samajh nahi aa raha hai.
+caller: Sir, aapka account suspicious lag raha hai.  Isliye hum aapki privacy ke liye aapke contacts ko alert kar rahe hain. Payment karein taaki hum isko solve kar sakein.  Otherwise, we'll have to escalate this matter to the police.

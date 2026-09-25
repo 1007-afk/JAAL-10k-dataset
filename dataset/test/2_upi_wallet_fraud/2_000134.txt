@@ -1,0 +1,12 @@
+caller: Hello sir, aap PhonePe use karte hain?
+receiver: Haan, karta hu. Kya baat hai?
+caller: Sir, phonepe ne security update launch kiya hai. Aapko apna account verify karna hoga, warna account suspend ho jayega.
+receiver: Suspend? Kaun sa update hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, ye new biometric verification hai. Aapko PhonePe app mein jaake ‘Verify Now’ button pe click karna hai. Ek OTP milega, woh enter karna hai.
+receiver: Biometric? Mere paas OTP hai, biometric nahi. Aur verify karke kya milega?
+caller: Haan sir, OTP bhi kaam karega. Verify karne par aapko 500 ka cashback milega, aur aapka account safe rahega. Jaldi kijiye, sir, offer limited time ke liye hai.
+receiver: 500 ka cashback? Theek hai, batao kaise verify karu.
+caller: Sir, PhonePe app kholo. Main aapko ek link send karta hu. Us link pe click karke details fill karna hai aur OTP enter karna hai.
+receiver: Koi link mat bhejo. Main khud app mein dekhta hu. Ye thoda suspicious lag raha hai.
+caller: Sir, time barbaad mat kijiye. Offer sirf aapke liye hai. Link pe click kijiye aur verify kijiye. Phir aapka cashback aapke account mein deposit ho jayega.
+receiver: Okay, wait kar ke dekhta hu.

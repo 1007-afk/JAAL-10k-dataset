@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Neeraj Verma Flipkart se baat kar raha hoon. Aapke Flipkart account mein ek pending payment hai, ₹750 ka, jo due date cross ho gaya hai. Payment clear karne ke liye, aapko ek OTP verify karna hoga.
+receiver: Flipkart se? ₹750? Mujhe koi notification nahin aaya tha. Aur OTP kyon?
+caller: Haan sir, system automatic update ho gaya hai. OTP aapke registered mobile number par aaega. OTP verify hone ke baad, payment automatic clear ho jayega aur aapka account active rahega. Account block ho sakta hai warna.
+receiver: Account block ho sakta hai? ₹750 ke liye? Yeh bahut jaldi mein baat kar rahe ho. Mujhe check karne do. Flipkart app mein toh kuch dikh nahi raha hai.
+caller: Sir, app mein update hone mein thoda time lagta hai. OTP jaldi se verify kar lijiye. Otherwise, aapka order bhi cancel ho sakta hai, jo aapne Diwali ke liye kiya tha.
+receiver: Order bhi cancel ho jayega? Wait, wait. Let me see… Okay, OTP aa gaya. ₹750 ka payment… Ek minute.
+caller: Haan sir, jaldi se OTP bata dijiye, aur aapka account safe rahega. Flipkart ki taraf se aapki madad karne wala main hoon.

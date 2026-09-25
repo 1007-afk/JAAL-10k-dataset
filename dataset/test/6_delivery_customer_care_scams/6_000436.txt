@@ -1,0 +1,8 @@
+caller: Namaste, mai Flipkart se Rahul bol raha hoon. Aapke naam par ek courier delivery mein kuch problem aa rahi hai, sir.
+receiver: Oh? Kya problem hai? Mai aaj toh kuch order nahi kiya tha.
+caller: Ji, aapne kuch din pehle ek smart watch order kiya tha, ₹3500 ka. Tracking ID hai XYZ123. Delivery boy delivery karte waqt hurt ho gaya, toh package hold kar diya hai.
+receiver: Smart watch? Mujhe toh yaad nahi. ₹3500? Aur delivery boy hurt?
+caller: Ji, sir. Package deliver karne ke liye ₹500 extra charge lag rahe hain, isiliye hum online payment request kar rahe hain. Payment hone ke baad, package abhi deliver kar denge. Aapka OTP share kijiye, sir.
+receiver: ₹500? OTP? Wait, Flipkart aise nahi karta. Mujhe doubt ho raha hai.
+caller: Sir, jaldi kijiye, otherwise package return ho jayega. ₹500 sirf delivery charge hain. Just OTP send kijiye sir.
+receiver: Theek hai, ek minute. Mai Flipkart customer care se confirm karta hoon.

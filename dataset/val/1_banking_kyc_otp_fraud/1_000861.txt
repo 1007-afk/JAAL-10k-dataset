@@ -1,0 +1,7 @@
+caller: Namaste, mai Airtel Security se Rohan bol raha hoon. Aapke Airtel account mein ek suspicious login attempt detect hua hai. Security ke liye, humein aapke account details verify karne hain. Kya aap mujhe aapka Airtel mobile number bata sakte hain?
+receiver: Haan, hello. Suspicious login? Mujhe toh koi notification nahi aaya. Mera number hai 9876543210. Kya hua hai?
+caller: Shukriya. 9876543210.  Sir, humein ek OTP aapke number par bhejna hai, usko verify karne ke liye. Woh OTP aapko milega, please bataiye.
+receiver: Thik hai, ek minute... Haan, OTP mila hai. 123456.
+caller: Shukriya, sir. Ab, humein aapke Airtel wallet mein linked bank account ka last four digits confirm karna hai. Yeh bas verification ke liye hai, sir. Koi tension nahi lene ka.
+receiver: Bank account? Main toh is number se Airtel nahi use karta hoon. Yeh to koi scam lag raha hai… Kaise kuch log log huye hain aajkal!
+caller: Ji sir, yeh aapki galti hai. Aapne galti se koi link click kar diya hoga. Ab humein aapko secure karne ke liye kuch details chahiye. Apne bank account ka details give karo, nahin toh aapka Airtel number deactivate ho jayega.

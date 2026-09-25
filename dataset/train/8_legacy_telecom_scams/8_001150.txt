@@ -1,0 +1,8 @@
+caller: Namaste! Aapse baat kar rahi hoon Vijay Kumar, Bharat Telecom se. Aapko mila hai 750 rupees ke online shopping vouchers ya phir 175 rupees ka guarantee gift! Aur haan, free entry bhi hai 50 rupees ke monthly lottery mein! Sirf "SHOPPING" likhkar 98765 pe message karein. Apka naam kya hai bhai?
+receiver: Arre yaar, yeh toh interesting laga rhi hai. Mera naam Deepak hai.
+caller: Deepak bhai, bahut achcha! Toh aapko yahaan sabhi fayde mileinge. Sirf aapko ek small task karna hai. Mai number batata hun, 98765, uss par sirf "SHOPPING" likhkar ek message bhejein. Message bhejoge abhi? Aur haan, yeh offer sirf pehle 5 logon ke liye hai, toh haste haste jaldi karna hai.
+receiver: Haan bhai, bhejta hoon. Just "SHOPPING" likhne hai na? And on 98765? Okay, okay, bhejta hoon.
+caller: Wah Deepak bhai! Jaise hi aapka message aa jaayega, aapka naam record mein daal diya jayega aur hum aapko bata denge ki aage kya karna hai. Yaad rakhein, sirf 2 log aur hain jinke liye yeh offer hai, to hurry up karo. So, message jaldi bhej dijiye.
+receiver: Ok bhai, send kiya. Hopefully, mai pehle 5 mein hoon. Next what?
+caller: Super Deepak bhai! Great! Abhi hum dekh rahe hain. Tension mat lein. Dekho, humara message aa gaya hai. Bahut shandar! Abhi jo next step hai, woh ye hai ki aapko ek chota registration charge dena hoga ₹299 ka. Yeh sirf verification ke liye hai, aur yeh paisa aapko lottery mein refund ho jayega ya phir vouchers mein add ho jayega. Kaise karna hai, main aapko samjhata hoon. Aap Paytm use karte hain na?
+receiver: Haan bhai, Paytm use karta hoon. Account number kya hai?

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Patel? My name is Inspector Sharma, calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspected illegal goods.
+receiver: Haan, woh main hi hoon. Mr. Patel. Illegal goods? Kya baat hai? Mujhe toh kuch pata nahi hai.
+caller: Sir, the package contained electronic components flagged as potentially used in drone construction. It's a serious matter, linked to national security. We need to verify your involvement. For your protection, we're initiating a preliminary investigation.
+receiver: Drone construction?  Yeh toh galat fehmi hogi na? Main toh koi drone nahi banaata. Maine kabhi parcel bheja bhi nahi. Kahan se package aaya tha?
+caller: Sir, the package originated from overseas. To clear this up quickly, we require a small fee – ₹7,500 – to expedite the examination and clear your name. Pay it to this UPI ID: customs.clearance@axis. Please, this needs to be done within the next 4 minutes.
+receiver: ₹7,500? What?  Yeh bhi toh kuch jyada lag raha hai.  Koi receipt milegi mujhe?  Aur koi proof toh dikhaiye, ki package mere naam se hi aaya hai?  Customs Department se calling card dikhaiye?
+caller: Sir, due to the sensitive nature of this investigation, we cannot disclose specific details over the phone. Payment is required to proceed, or we’ll have to involve higher authorities, which could lead to more serious consequences. Only 3 minutes remaining.
+receiver:  Serious consequences?  Yeh toh dhakke lag rahe hain.  Main police station mein report karunga agar yeh fraud nikla.  Aapka naam aur badge number bataiye.
+caller: Sir, I'm under strict orders not to disclose that information.  This is

@@ -1,0 +1,10 @@
+caller: Namaste ji, SecureFinanceSolutions.in se main bol raha hoon. Kya aapko online shopping ke liye quick loan chahiye, bhale hi aapke credit card limit kam ho? Online purchases se badh rahi hai, aur hum aapko support karna chahte hain! Aapka bank account kis city mein hai, sir/ma’am?
+receiver: Ji, Delhi mein hai. Dekhiye, mujhe abhi loan ki koi behov nahi hai, lekin aapke offer ko sunkar sawab laga.
+caller: Delhi ji, hamare paas special deals hain. Agar aapko laptop, smartphone, ya koi bhi electronics items kharidni hai, to hum aapko immediate loan provide kar sakte hain. Credit score matter nahi karta, aur aapki bank account Delhi mein hone wala hai. Bataiye, aapko kitne amount ka loan chahiye?
+receiver: Abhi toh sirf 10,000 rupay ka requirement hai.
+caller: Thoda wait kare, Rahul ji! Main aapka application check kar raha hoon. Just one moment... Okay, aapko 10,000 rupay ka loan approve ho gaya hai. Parle, aapko sirf 1500 rupay ka EMI lagega. Aur yeh loan 6 months ke time period mein repay karna hai. Kya aap agree karte hain?
+receiver: EMI toh dekh raha hoon. Sir, mujhe yeh loan puri krne mein thik lagega.
+caller: Achha! To, aapka account number and IFSC code bataiye, so that we can transfer the funds. And please confirm your date of birth, just for verification purposes.
+receiver: My account number is 1234567890 and my IFSC code is SBIN0000123. Date of birth is January 1st, 1990.
+caller: Dhanyavaad Rahul ji! Loan process complete ho gaya hai. Apne device ko recharge karke enjoy karo! Agar koi problem ho toh humein call karna. Thank you!
+receiver: Ji, aapko bhi thank you. Aapka din achcha jaaye.

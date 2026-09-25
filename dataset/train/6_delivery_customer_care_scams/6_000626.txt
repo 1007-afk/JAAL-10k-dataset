@@ -1,0 +1,6 @@
+caller: Hello, is this Mr. Sharma? This is Akash from BlueDart Courier. We have a package for you, but there's been a problem with the payment.
+receiver: Oh, really? What kind of problem? I was expecting a delivery today.
+caller: Yes sir, the payment details on the invoice don’t match. There’s a discrepancy of ₹280. We need to verify this before we can release the package. We can quickly sort this out.
+receiver: ₹280? That’s odd. What do you need me to do? Should I call the sender?
+caller: No need sir, we can resolve it here. Just give me the last four digits of your bank card and I'll update it. It's a standard security protocol. And an OTP that you'll receive on your phone.
+receiver: Wait a minute. I’m not comfortable giving out my bank details over the phone. Can you tell me the tracking number so I can check with BlueDart directly?

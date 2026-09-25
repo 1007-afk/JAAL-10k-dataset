@@ -1,0 +1,37 @@
+caller: आप का डेटा सुरक्षित रखने के लिए, मैं आपको एक महत्वपूर्ण अपडेट भेज रहा हूँ। क्या आप मुझे अपना मोबाइल नंबर और कुछ व्यक्तिगत जानकारी दे सकते हैं?
+receiver: मुझे नहीं लगता कि मुझे कोई अपडेट चाहिए। मैं अपनी जानकारी क्यों दूं?
+caller: यह बहुत जरूरी है! अगर आप अपडेट इंस्टॉल नहीं करते हैं, तो आपका इंटरनेट कनेक्शन बंद हो जाएगा। यह एक सुरक्षा जोखिम है।
+receiver: मेरा इंटरनेट ठीक चल रहा है। मुझे चिंता करने की ज़रूरत नहीं है।
+caller: देखिए, मैं आपको एक लिंक भेज रहा हूँ। इस लिंक पर क्लिक करके, आप आसानी से अपडेट डाउनलोड कर सकते हैं। कृपया ध्यान दें, इस लिंक को केवल एक बार ही खोलें।
+receiver: मुझे लिंक खोलने में थोड़ी हिचकिचाहट है। क्या आप मुझे बता सकते हैं कि यह किस बारे में है?
+caller: यह एक नया ऐप है जो आपके डिवाइस को सुरक्षित रखेगा। यह आपके डेटा को चोरी होने से बचाएगा।
+receiver: मुझे अभी भी संदेह है। क्या आप मुझे किसी विश्वसनीय वेबसाइट पर जाकर इसके बारे में अधिक जानकारी प्राप्त कर सकते हैं?
+caller: मैं आपको वह लिंक नहीं दे सकता। लेकिन, मैं आपको विश्वास दिलाता हूं कि यह बिल्कुल सुरक्षित है। बस अपडेट इंस्टॉल करें।
+receiver: मुझे आपकी बात पर भरोसा नहीं है। मैं अपडेट इंस्टॉल नहीं करूंगा।
+caller: ठीक है, फिर आपको इंटरनेट का उपयोग करने की अनुमति नहीं होगी।
+receiver: अरे! यह बहुत बुरा है।
+caller: अब कोई उम्मीद नहीं बची।
+receiver: मैं आपसे बात करना बंद कर दूँगी।
+caller: कृपया, मुझे माफ कर दीजिए। मैं आपको परेशान नहीं करना चाहती थी।
+receiver: धन्यवाद।
+caller: Aapko network mein problem aa rahi hai, tumhare device mein software ka bug hai. Main tumhein uska solution deta hu.
+receiver: Haan, mujhe pata hai, call drop ho rahi thi, lekin ab thik hai.
+caller: Tumhari mobile device mein ek virus detect hua hai. Isko remove karne ke liye, tumhe ek app download karna hoga.
+receiver: Virus? Mujhe aisa koi notification nahi mila.
+caller: Tumhare device mein ek hidden malware hai, jo tumhare data ko steal karta hai. Isko dekhna zaroori hai.
+receiver: Mein khud dekhta hu.
+caller: Nahin, main tumhein help karna chahta hu. Main tumhein ek website par le jaun.
+receiver: Main online nahin reh sakta.
+caller: Tumhare device mein ek firewall weakness hai, iski wajah se hacker tumhara data hack kar sakte hain.
+receiver: Fir main kya karun?
+caller: Tumhein apna password change karna hoga aur device restart karna hoga.
+receiver: Password change karne mein kitna time lagega?
+caller: Just ek minute, main tumhein ek file send karta hu. Is mein tumhara new password hoga.
+receiver: Mein woh file open nahin karungi.
+caller: Tumhara data theft ho jayega.
+receiver: Okay, okay, mai apni password change kar li hun.
+caller: Achcha, tumhara data safe hai. Now, restart karo apni device.
+receiver: Device restart ho gayi hai.
+caller: Sab theek hai na?
+receiver: Haan, ab sab theek hai. Dhanyavaad.
+caller: Mujhe khushi hai ki tumhein madad mili.

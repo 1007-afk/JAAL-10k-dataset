@@ -1,0 +1,13 @@
+caller: Namaste, sir? This is Priya from LoanDekho. We’ve reviewed your application, and you’re pre-approved for a ₹15,000 loan. Just a few quick verification steps, and the money will be in your account.
+receiver: LoanDekho? I don't recall applying for a loan. But okay, what verification steps are needed?
+caller: First, sir, we need a selfie with your Aadhaar card to confirm your identity. Just hold the card clearly and smile. Please upload it to this link: [fake website address].
+receiver: A selfie with my Aadhaar? That seems a little risky, doesn't it? Is this really necessary?
+caller: It’s standard procedure, sir. We need to prevent fraud. Once you upload that, we’ll just need a few OTPs for security confirmation. Don’t worry, it's completely secure.
+receiver: Alright, I’ve uploaded the selfie. Send the OTPs then.
+caller: Wonderful! The first OTP is 567890. Please confirm it's received.
+receiver: Yes, I received it. Confirmed.
+caller: Excellent. Now, we noticed a small discrepancy in your bank details. To correct this, we need you to transfer ₹1,500 as a processing fee to this UPI ID: [fake UPI ID]. This will immediately activate your loan.
+receiver: A processing fee? But you said the loan was pre-approved. And why UPI?
+caller: Due to a temporary system glitch, the fee is required. Once it’s processed, your loan will be disbursed immediately. It's a one-time charge, sir.
+receiver: This sounds wrong. I’m not paying anything. I’m calling my bank. Goodbye.
+caller: Sir, please wait!

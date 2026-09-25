@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Priya from MobiPay customer service. We’ve noticed an unusual attempt to transfer ₹7500 from your MobiPay wallet to an unknown account. Are you aware of this transaction?
+receiver: MobiPay? ₹7500? Nahin, mujhe koi transaction yaad nahi hai. Main toh aaj tak sirf ₹200-₹300 hi use karta hun.
+caller: Sir, it appears the transaction is still pending. To secure your funds and prevent it from going through, we need to quickly verify your identity. Can you please provide the last four digits of your bank account linked to your MobiPay wallet?
+receiver: Bank account details? Why do you need that? I thought you had my information already. It's sounding a bit suspicious now.
+caller: Sir, security protocol. Just a quick verification. Also, we're offering a special reward for quickly reporting suspicious activity - a ₹50 cashback to your wallet. Just provide those four digits, and we’ll immediately cancel the pending transfer.
+receiver: ₹50 cashback? Okay…but still, I'm a bit worried. Let me check something first. Just a minute, please.
+caller: Absolutely sir, take your time. But please hurry, the transaction is about to complete. Remember, ₹50 cashback is waiting for you!

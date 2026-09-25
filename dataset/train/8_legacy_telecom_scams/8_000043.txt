@@ -1,0 +1,8 @@
+caller: Namaste! Aapse baat kar raha hoon India Prize Promotions se. Aapke liye ek bahut hi achhi khabar hai! Humara system ne aapko, Delhi mein rehne wale ek bahut hi mehnat karne wale customer ko randomly select kiya hai. Aapko Diwali ke liye ek special gift voucher mil rahi hai!
+receiver: Diwali ke liye gift voucher? Really? Kya type ka voucher hai? Aur kis store ka hai?
+caller: Haan ji, yeh ek 5000 rupees ka Amazon gift voucher hai! Aapke loyalty ke vishay mein hum sabhi customers ke liye yeh Diwali ki dua hai. Aapko bas iss number par call karna hai, 786-987-6543, aur voucher activate karne ke liye instructions follow karein.  Aapko pata hai, humare paas sirf 3 bache hain is offer ke liye, so hurry up!
+receiver: 5000 rupees ka Amazon voucher? Wow! Lekin, 786-987-6543 pe call karna hai? Aur voucher activate karne ke liye kuch charges lagta hai? Is deal ko dekho, kya legit hai?
+caller: Arre, koi tension mat lo! Yeh call totally free hai, aapki liye. Aur voucher activation mein bhi koi extra charges nahi honge. Yeh offer Diwali ke shaam 9 baje tak chalega, so please call soon.  Aapko Diwali mela mein shopping karne ke liye yeh voucher bahut pasand aayega!
+receiver: Diwali shaam 9 baje tak? Okay, fine. Main us number par call karunga. Dhanyavaad!
+caller: Haan ji! Aapke liye hi hai. Aur main aapko bata dunga, is offer ke liye sirf 3 vouchers bache hain, so hurry up!  Diwali ke shaam 9 baje tak call kar lijiye, taaki aap yeh ₹5000 miss na kar dein.  Happy Diwali, and may your Diwali be grand!
+receiver: Okay, understood! 3 vouchers bache hain aur 9 baje tak chalega. Main abhi call karunga. Shukriya!

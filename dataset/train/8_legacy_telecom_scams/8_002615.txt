@@ -1,0 +1,11 @@
+caller: Namaste! Ahaan, welcome to our support helpline. My name is Rohan. I’m calling about your premium music subscription.
+receiver: Namaste Rohan, thanks for calling. I subscribed last week, but I haven't received my login details yet.
+caller: Absolutely! Let me check that for you. Your account ID is P78923456. We are charging ₹79.99 per month. If you don’t receive the login details within 24 hours, please call back at 09876543210. I see your account P78923456.
+receiver: Okay, so I’m paying ₹79.99. But I still haven’t got the login information. It's very important I access my music. And what happens if I don't get those details?
+caller: Yes, absolutely. Once the payment has been processed, you’ll receive both an email and a text message containing your login credentials. Just give it a little more time; sometimes there are delays with the system. To ensure everything goes smoothly, we are adding ₹10 as a verification fee.
+receiver: Verification fee? Seriously? That’s unexpected.  So, ₹89.99 total then?  And if I *still* don’t get the login details after that, what’s the next step?
+caller: Yes, ₹89.99 is correct.  If you don't receive them within another hour, please contact us on the number I provided – 09876543210.  We want to make sure you have a seamless experience. Please hold while I double-check the delivery status.
+receiver: Alright, Rohan. I’ll wait.  It seems like a lot of steps.  Can you assure me that the login details will definitely arrive before tomorrow?
+caller: Of course! We prioritize getting your login details delivered promptly.  Once they’re sent, you’ll be able to access all your favourite songs instantly.  Just stay patient, and you’ll enjoy uninterrupted listening.  Thank you for choosing our service! Have a wonderful day!
+receiver: Okay, thank you Rohan. I appreciate your reassurance.  I’ll watch for the email and text message. If it doesn't come, I’ll call the number you gave.  Bye!
+caller: Goodbye! Enjoy your music!

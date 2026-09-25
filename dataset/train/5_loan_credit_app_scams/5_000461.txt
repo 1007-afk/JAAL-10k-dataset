@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Deepak hai, mai CreditQuick Solutions se baat kar raha hoon. Aapke naam par ₹10,000 ka loan approve ho gaya hai. Aapko sirf kuch basic details confirm karne hain.
+receiver: CreditQuick Solutions? Mai to kabhi loan ke liye apply nahi kiya.
+caller: Sir, aapne hamari website par form bhara tha. Aapko ₹10,000 ka instant loan mil sakta hai, lekin processing fee ke taur par ₹500 deposit karne honge.
+receiver: ₹500 fee? Aur woh kaise deposit karun?
+caller: Sir, UPI ke zariye. Mai aapko QR code send karta hoon. Jaldi karo, offer limited time ke liye hi hai. Agar aap fee deposit nahi karte, toh loan approve nahi hoga.
+receiver: QR code? Theek hai, check karta hoon. Par agar loan nahi mila toh?
+caller: Sir, aapko loan definitely milega. ₹500 fee deposit karte hi loan process start ho jayegi. Hamari team aapke account mein ₹10,000 transfer kar degi. Ab QR code check karo aur payment karo.

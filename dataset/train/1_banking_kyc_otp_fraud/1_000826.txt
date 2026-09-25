@@ -1,0 +1,8 @@
+caller: Namaste! Main Axis Bank se Deepak Sharma bolta hoon. Aapke account mein kuch suspicious activity detect hui hai. Ek OTP galti se ek unknown number pe gaya tha.
+receiver: Oh, really? What kind of activity? I didn’t get any OTP.
+caller: Ji ji, exactly! Woh OTP aapko confirm karne ke liye tha ki aapne transaction kiya tha ya nahi. Right now, we need to verify your identity to secure your account. Please share your Aadhaar card number and PAN card number with me for verification. Urgent hai.
+receiver: My Aadhaar and PAN? Over the phone? That doesn't sound right. Banks don't usually ask for that.
+caller: Sir, security protocol ke wajah se, humein kuch details verify karne ke liye chahiye. Account freeze hone se bachane ke liye, abhi share karein. Agar aap refuse karenge, toh humko account suspend karna padega, aur aapka paisa bhi block ho sakta hai.
+receiver: Account suspend? Wait a minute... let me just call Axis Bank's official customer service number to double-check. Give me a moment.
+caller: Sir, please hurry! The system is flagging your account as high risk every passing second. We need to act fast. I can give you a reference number - AXB789456 - for verification with the main branch. Do it quickly.
+receiver: I'm calling them now. (pause, then hangs up)

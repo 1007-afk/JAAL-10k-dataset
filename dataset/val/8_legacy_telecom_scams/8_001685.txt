@@ -1,0 +1,10 @@
+caller: Namaste! Is this Mr. Verma? Haan, main bol raha hoon. Maine aapke liye ek bahut hi achcha deal mila hai, ekdum special. Kya aapko pata hai Delhi mein sabse famous cricket coaching centre? Sirf top players train karte hain woh yahaan.  Yeh dekho, kya seems interesting, bhai?
+receiver: Haan, main Verma hoon. Cricket coaching centre? Mein toh sirf my son Rohan ke liye tuition fee deposit karne ke liye call karta tha.  Ye kya ho raha hai?
+caller: Arey yaar, tuition? Oops, looks like I made a mistake. Actually, we’re promoting a premium sports association. Very exclusive, you know. My bad completely!
+receiver: Premium sports association? Okay, I get it. No problem, I suppose. Thanks for letting me know.
+caller: Really? Tuition! Haha, that’s quite funny. Maybe I accidentally dialed a wrong number from my contacts. Sorry for the confusion, ji. This was supposed to go to a different… uh… adventure camp. You know, for people who love trekking and stuff. My sincere apologies, totally! Have a great day, and enjoy your son Rohan’s tuition!
+receiver: Adventure camp?  Arre, trekking toh Rohan abhi complete hai. Par tuition fees ka matter hai, bhai.  Chalo, koi baat nahin, next time number confirm karlena.
+caller: Arey, I am so sorry about the tuition! I hope it comes through soon. The list had some errors. Anyway, have a good one!
+receiver: Errors?  Okay, okay. But listen, if anyone calls about ‘adventure camps’ again, just double check the number before you talk. Bye.
+caller: Arey, truly sorry!  I will make sure the list is checked properly. Have a wonderful day!
+receiver:  Theek hai, thanks. Bye!

@@ -1,0 +1,9 @@
+caller: Namaste! Main Vijay Sharma, BharatPay se bol raha hoon. Aapko ₹10,000 ka cashback offer mil raha hai.
+receiver: BharatPay? Cashback? Mujhe koi notification nahin aaya.
+caller: Ji, yeh offer sirf select customers ke liye hai. Aapko BharatPay app mein ek 'Collect' request milegi. Uska payment karne se cashback activate ho jayega.
+receiver: Payment? Kitna payment karna hai? Aur Collect request kahan milega?
+caller: Sirf ₹99 ka payment karna hai processing fee ke liye. Collect request aapko BharatPay app ke 'Offers' section mein milega. Hurry, offer abhi khatam hone wala hai!
+receiver: ₹99? Aur yeh processing fee BharatPay wale dete hain?
+caller: Haan sir, BharatPay hi deta hai. Yeh sirf guarantee karne ke liye hai ki aap offer ke liye eligible hain. Isse aapko ₹10,000 cashback milega! Jaldi karo, time limited hai!
+receiver: Thoda wait karo, main check karta hoon. BharatPay helpline number mil sakta hai?
+caller: Sir, helpline number se koi help nahi milegi. Woh log offer ke bare mein nahi jaante. Aapko khud hi process complete karna hai. ₹99 ka payment abhi karo aur ₹10,000 cashback claim karo!

@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? I’m calling from ‘Global Trade Ventures’. We’re conducting a survey for potential participants in our online task program. Just a few minutes of your time.
+receiver: Haanji, main hi Verma bol raha hoon. Global Trade Ventures? Task program? Bataiye kya hai.
+caller: Achha, Mr. Verma. We're looking for individuals to validate online advertisements. Very simple work – you just see an ad, rate it on a scale of 1 to 5, and provide a brief comment. We pay ₹50 per rating. It's a straightforward way to earn some extra income in your spare time.
+receiver: ₹50 per rating? Sounds… okay. But how do I get the ads? And how do you know I actually did the rating?
+caller: Excellent question, Mr. Verma! We use our proprietary ‘TaskLink’ app. You download it, create a profile, and we'll send you ads directly through the app. It automatically records your ratings and feedback. For verification, we need a small registration fee of ₹750 to activate your account and ensure fair play.
+receiver: ₹750 registration fee? That seems a bit much for a simple rating task. What guarantee do I have that I'll actually get paid after doing the ratings?
+caller: Absolutely! Once you complete your first 10 ratings, we’ll credit your account with ₹500 as a bonus. This demonstrates our commitment to transparency. You can then withdraw your earnings via UPI or bank transfer. Think of it as an investment in your earning potential!
+receiver: Hmm... Okay, send me the link to the TaskLink app. Let me check it out first. I’ll decide after that.

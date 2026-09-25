@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from Blinkit Customer Care. We’ve noticed an unusual charge of ₹499 on your account for a delivery that was never completed.
+receiver: Oh really? That’s strange. I haven’t ordered anything from Blinkit recently. Can you check my order history?
+caller: Yes, of course. I’m looking at your account now. It appears a large order was placed to an address in Gurgaon, which isn't your registered address. To resolve this and prevent further fraudulent activity, we need to verify your identity. Can you please provide the OTP we just sent to your registered mobile number?
+receiver: An OTP? That sounds a bit suspicious. Why can’t you just cancel the order from your end? And I definitely didn’t order anything to Gurgaon.
+caller: Ma’am, for security reasons, we need to verify your identity before we can cancel the order. This is standard procedure. Without the OTP, we cannot proceed and the fraudulent charge might remain on your account. It's important to act quickly. The OTP is crucial to protect your Blinkit account.
+receiver: Okay, fine. Give me a moment to find the OTP. (pause) It’s… 847219.
+caller: Thank you, ma’am. Now, to ensure the cancellation is fully processed, we need to connect you to our technical support team. They’ll guide you through a quick remote session to remove the incorrect delivery address from your account. Can you please install TeamViewer on your computer or phone? I'll send you the ID and password.

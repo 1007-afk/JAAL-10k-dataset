@@ -1,0 +1,6 @@
+caller: Namaste, sir? Mein Airtel se Ram Kumar bol raha hoon. Aapke Airtel account mein ek suspicious activity detect hui hai. Aapki UPI ID se 9999 rupay ka transaction attempt kiya gaya hai.
+receiver: Oh, really? Kya? Mujhe toh koi notification aaya hi nahi. Main abhi Airtel app check karta hoon.
+caller: Haan sir, woh attempt fail ho gaya hai, lekin agar aap OTP share kar lenge toh hum isko secure kar sakte hain. Security ke liye, please apna OTP bataiye.
+receiver: OTP? Koi OTP nahi batayega. Airtel aise message kyun bhejta hai? Main customer care number pe call karta hoon.
+caller: Sir, please samajhye. OTP share na karne se aapka account block ho sakta hai. Hum sirf aapki madad karna chahte hain. OTP mat chupaen, zyada nuksan hoga. Abhi batao.
+receiver: Theek hai, ek minute rukiye. Main apne Airtel app mein check karta hoon. Toh yeh message legitimate lag raha hai? Bahut confused hoon.

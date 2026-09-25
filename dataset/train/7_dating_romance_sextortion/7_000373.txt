@@ -1,0 +1,7 @@
+caller: Hey, this is Arjun! Saw your profile on “HeartConnect” – you seem really lovely! I'm from Melbourne, Australia, just visiting family in Bangalore for a few weeks. Thought I'd say hello. How’s your day going?
+receiver: Hi Arjun! That's nice to hear from you. My day’s been alright, a bit busy at work. Melbourne sounds amazing, I've always wanted to visit Australia. What brings you back to Bangalore?
+caller: Bangalore's great for family, but Melbourne… wow, it’s a different world! Listen, I’m actually facing a bit of a sticky situation. My flight back to Melbourne is next week, but I’ve had a bit of an unexpected emergency. My elderly aunt fell ill and needs immediate medical care, and I’m short on funds. It’s really stressful.
+receiver: Oh no, that's terrible! I'm sorry to hear about your aunt. I hope she recovers quickly. That sounds really difficult, Arjun. What kind of help do you need?
+caller: Thanks for the kind words. I really appreciate it. I need about ₹50,000 urgently to cover her medical expenses. It's just until my salary comes through. I know it's a lot to ask, especially when we’ve just started talking, but I’m in a real bind. I can pay you back as soon as I get back to Melbourne. I’ll send you my bank details.
+receiver: ₹50,000? Arjun, that’s a huge amount to ask someone you just met. I'm really sorry about your aunt, but I'm not comfortable with this. I wish you all the best, but I can't help you financially.
+caller: I understand your hesitation, sweetheart. I wouldn't ask if it wasn

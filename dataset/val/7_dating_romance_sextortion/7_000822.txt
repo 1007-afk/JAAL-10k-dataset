@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? I’m calling from SecureInvest Solutions. We detected some unusual activity on your linked bank account.
+receiver: Yes, speaking. Unusual activity? What sort of activity? I haven't noticed anything.
+caller: It appears someone accessed your account from a foreign IP address, attempting to transfer a significant sum. We’ve temporarily locked the account to prevent further unauthorized transactions. To verify your identity and unlock the account, we need you to confirm some details. Could you please read back the last four digits of your social security number?
+receiver: Wait a minute. SecureInvest Solutions? I don't recognize this number. And why would you ask for my social security number over the phone? That sounds… fishy.
+caller: Madam, please don't worry. This is standard procedure. We need to ensure we're speaking to the legitimate account holder. We are prioritizing the security of your funds. Just a few quick details and we can restore your access.  For extra verification, can you quickly transfer ₹2000 to this designated recovery account: 9876543210? It’s a one-time security fee.
+receiver: ₹2000? A security fee to unlock my account? Absolutely not! I’m reporting this number to the police. You’re a scammer!

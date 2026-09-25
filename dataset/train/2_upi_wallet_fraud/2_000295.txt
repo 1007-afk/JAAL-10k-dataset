@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Bharat Mobile Payments se. Aapko Diwali ke tyohar par ek special cashback offer mil rahi hai. Aapka phone number lottery mein select hua hai ₹500 cashback jeetne ke liye.
+receiver: ₹500 cashback? Yeh lottery kaise chali? Mujhe koi message ya notification mila nahi.
+caller: Lottery hai, bilkul. Yeh ek surprise offer hai humare lucky customers ke liye. Cashback claim karne ke liye, aapko sirf ek verification code enter karna hai. Code hum aapke One97 wallet mein send karenge.
+receiver: Verification code One97 wallet mein? Lekin mujhe toh One97 wallet use nahi karte, main PhonePe hi karta hoon.
+caller: Woh koi matter nahi hai, sir. OTP aapko One97 wallet mein milega, verification ke baad aap PhonePe mein bhi cashback redeem kar sakte hain. Jaldi karo, offer sirf 30 minutes ke liye hai! Aapko OTP enter karna hai 78901 pe.
+receiver: 78901 pe OTP? Wait, wait, mujhe phonePe app mein check karne do... Sir, yeh to wrong hai. Mera PhonePe account show kar raha hai ki koi suspicious activity ho rahi hai. Main report karta hoon.
+caller: Beta, aapko ghabraane ki zaroorat nahi hai. Yeh system error hai. Aapko sirf OTP enter karna hai. Jaldi karo, sir. Aapka ₹500 cashback fir mil jayega.

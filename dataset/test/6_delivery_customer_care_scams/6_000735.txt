@@ -1,0 +1,9 @@
+caller: Namaste! This is Akash from BlueSwift Courier. We have a package for you, but there's a slight issue with the delivery address. Can you confirm your full name and delivery address please?
+receiver: Hello, yes. This is Priya Verma. My address is 123 Maple Avenue, Bangalore.
+caller: Thank you, Priya ji. We've noticed a ₹750 outstanding customs clearance fee attached to your package. It needs to be settled before we can proceed with the delivery.
+receiver: Customs fee? I wasn't informed about this when I ordered it. What's the reference number for the package?
+caller: The reference number is BS789101. To clear the fee, we need to verify your bank details. Please share the last four digits of your card and the OTP you receive on your phone.
+receiver: Hold on a minute. That sounds very strange. Why do you need my card details and OTP? I've never had to do this for a courier delivery before. Can you please provide me with a direct contact number for BlueSwift Courier so I can confirm this?
+caller: Ma’am, this is a standard security protocol. Time is running out to deliver your package, and the window is closing fast. We can’t risk fraud. Just a quick OTP, please?
+receiver: No, I’m not comfortable providing that information. I think something is not right here. I’m going to call the company directly to verify this. Goodbye.
+caller: Ma’am, you are making a mistake! You will miss your package! Just the OTP!

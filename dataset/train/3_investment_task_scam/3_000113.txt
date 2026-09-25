@@ -1,0 +1,10 @@
+caller: Namaste! Aapko pata hai kya, humare paas ek naya mobile phone ka scheme hai, jisse aapko bahut zyada fayda milega?
+receiver: Haan, bataiye zara. Mein sun saktahoon, mujhe mobile phones mein interest hai.
+caller: Theek hai! Is scheme mein, aapko ek premium smartphone milega, aur usmein free internet data bhi!  4GB daily, 24 saat, kisi bhi network par. Aur jab aap phone kholtay hain, to aapko ₹500 cashback milenge!  Isse behtar deal kahaan milegi?
+receiver: ₹500 cashback aur 4GB daily data?  Yeh toh achha hai!  Par mujhe yeh batao, ye smartphone kaunsa brand ka hai aur iski battery life kaisi hai?
+caller:  Sir, yeh OnePlus ka flagship model hai. Battery life bohat achcha hai, ek charge mein poora din chalega.  Aur aapko special discount bhi milega, ₹2000 se kam mein mila sakta hai.  Agar aap abhi register hojate hain, to aapko extra ₹1000 cashback milega!  Yeh offer sirf 7 days ke liye available hai, so hurry up!
+receiver:  ₹2000 se kam mein OnePlus?  Wow!  Aur registration process ka kya hota hai?  Mujhe apne bank details bhi provide karne honge?
+caller:  Haan, aapko apne bank account number aur IFSC code dena hoga.  Par don’t worry, humara website secure hai aur aapki details safe rhengi.  Aapka name aur address bhi confirm karna hoga taaki hum aapko phone deliver kar saken.  Aapka naam kya hai, please?
+receiver: Mera naam Priya hai.  Aur is offer ko activate karne ke liye kab tak register hona hai?  Aur agar mujhe koi problem hogi to kahan contact kar sakta hoon?
+caller:  An ji, aapko aaj raat 10 baje tak register hona hai.  Aur koi bhi problem ho toh aap 09876543210 number par call kar sakte hain.  Abhi aapka naam aur address confirm karwa dijiye taaki hum aapki order place kar den.  Don't miss this fantastic opportunity!
+receiver:  Arre yaar!  Aaj raat 10 baje tak?  Okay, toh mera address hai 456, Patel Road, Mumbai.  Aur haan, phone number toh yahi hai, right? Jo aapne bataya, 09876543210? Bas ek last question, ye cashback kaise milega?

@@ -1,0 +1,18 @@
+caller: Namaste sir, main Jio digital support se bol raha hoon. Aapka internet connection 24 hours mein suspend hone wali hai. Kya aap isko continue karna chahte hain?
+receiver: Oh God, Jio? Mein to continue karna chahta hoon, yeh mera number hai 87xxxxxx43. Kya bata rahe hain aap?
+caller: Ji sir, absolutely. Aapka connection continue ho jaayega. Par sabse pahle, mujhe aapki account ki details check karne hogi. Kya aap mujhe apni birth date bata sakte hain?
+receiver: Mera dob hai 2nd January 1988. Batao phir aap kya karte hain?
+caller: Wonderful! 2nd January 1988. Shukriya. Aur sir, security ke liye, aapne recently paisa transfer kiya tha?
+receiver: Haan, kal ne 5000 rupees Paytm se transfer kiya tha. Agar yeh relevant hai.
+caller: Sir, aapka account verified ho gaya hai. Abhi aapko ek OTP aapke Vodafone number pe aa jayega. OTP mil jaaye toh mujhe bataiye, taaki main aapka connection activate kar saku. Aur sir, koi bhi account details kisi ko mat dikhana, okay?
+receiver: Okay, OTP ka wait kar raha hoon. Aa jaye toh tumhen bataunga. Yeh sirf OTP hi chahiye na?
+caller: Haan ji, sirf OTP chahiye. Bas OTP aur phir kaam hojayega.
+receiver: Arre yaar, Airtel? Mein to extension chahiye, yeh mera number hai 92xxxxxx76. Kya kar sakta hoon main?
+caller: Ji sir, definitely. Aapka number extend ho jaayega. Lekin, sabse pehle mujhe aapki profile verify karni padegi. Kya aap mujhe apni age bata sakte hain?
+receiver: Meri umar hai 29th December 1991. Yahaan tak.
+caller: Perfect! 29th December 1991. Dhanyavaad. Aur sir, aapke bank account ki details ka screenshot aapko bhejna hoga?
+receiver: Bank account ka screenshot? Kyon?
+caller: Security ke liye sir, verification process mein zaroori hai. Screenshot bhejne ke baad aapko OTP milega.
+receiver: OTP milega? Kaise?
+caller: Haan, aapke registered mobile number par OTP aa jayega. OTP receive hone ke baad aapko mujhe bata dena hoga. Ismein koi problem nahin hai, okay?
+receiver: Ok, OTP ka wait kar raha hoon. Aaja na, toh main tumhen bataunga. Kuch aur procedure hai kya?

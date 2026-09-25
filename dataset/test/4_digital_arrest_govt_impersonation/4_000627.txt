@@ -1,0 +1,9 @@
+caller: Namaste sir, is this Mr. Ajay Kumar? This is Assistant Director Sharma from the Directorate of Enforcement, Delhi. We've detected suspicious activity linked to your bank account.
+receiver: Haan sir, mein Ajay Kumar bolta hoon. Kyu, kya hua?
+caller: Sir, our records indicate several large transactions originating from your account that resemble money laundering linked to an international drug cartel. We need to verify these transactions immediately to prevent further legal complications for you.
+receiver: Yeh kya bol rahe hain aap? Maine toh aisa kuch bhi nahi kiya! Mere account se transactions?
+caller: Sir, don't panic. We understand this might be concerning. To clear this up quickly and avoid arrest, we need a small fee - just ₹15,000 - to cover investigation costs and secure your statement. It's a standard procedure in these cases. You can pay via UPI to this number: 8888888888.
+receiver: ₹15,000? Aur mujhe yeh UPI number bhi unknown hai! Yeh fraud lag raha hai.
+caller: Sir, time is of the essence. The longer you delay, the worse it gets. We’re currently putting you on a video conference to show you all the evidence. Once the payment clears, we'll finalize the matter, and you'll be in the clear. Please pay immediately, sir, and follow the instructions I am going to send on WhatsApp. 
+receiver: Theek hai, theek hai... main dekh loonga. Aapse baad mein baat karta hoon.
+caller: Sir, remember, this is your final opportunity to resolve this matter amicably. Delay will result in serious legal repercussions. We are awaiting your payment, sir.

@@ -1,0 +1,8 @@
+caller: Hello, mai BharatPe customer care se bol raha hoon. Aapke BharatPe account mein kuch suspicious activity detect hui hai. Security ke liye, aapko account verify karna hoga.
+receiver: Kya? Kaun si activity? Maine toh kuch bhi abnormal nahi kiya. Mera BharatPe account mein bahut paisa hai.
+caller: Sir, ek attempt kiya gaya tha ek international transaction ka. Lekin aapne nahi kiya tha, isliye hum verify kar rahe hain. Verify karne ke liye, aapko ek OTP enter karna hoga jo aapke registered phone number par aayega.
+receiver: OTP? Theek hai, mujhe phone par OTP aayega. Wait karo. (pause) Haan, OTP aa gaya hai. 4 digit ka OTP hai.
+caller: Excellent! Ab OTP enter karo, sir.
+receiver: Haan, enter kar diya. Sir, mere account mein sab theek hai na? Mujhe thoda doubt ho raha hai, aapka naam kya hai? Aur BharatPe ka official number bataiye, main khud check kar leta hoon.
+caller: Sir, naam batane ki zarurat nahi hai. Hum ek automated system se bol rahe hain. Verify karna bahut important hai, warna aapka account suspend ho sakta hai. Ab humein aapke account se ₹500 processing fee ke liye transfer karna hoga.
+receiver: ₹500? Processing fee? Main call nahi karunga. Yeh scam hai!

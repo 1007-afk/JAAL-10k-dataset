@@ -1,0 +1,14 @@
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humare pass aapka PAN card aur mobile number chahiye hogi.
+receiver: Oh, HDFC? Debit card? Mai toh just now kitchen mein tha. Chali jaao, koi baat nahin.
+caller: Koi problem nahi sir, aap jab free honge toh bol denge. Aapka name kya hai? Agar aap bata de to main aapko proper address kar sakta hu.
+receiver: Mein Gurgaon mein rehta hun. Aajkal traffic bahut badhiya hai. Kya aapko kuch extra details chahiye?
+caller: Haan sir, aapka home address bhi pata karna chahte hain. Just pehle aapka mobile number bataiye.
+receiver: Mobile number toh mai kabhi use karta hun. Mujhe itna security concern hai.
+caller: Sir, ye sirf card activation ke liye hai. Aapko kisi bhi risk ka darr lagne wala nahi hona chahiye.  Aapka mobile number 5678901234 hai.
+receiver: Okay, 5678901234. Thoda suspect hai mujhe isse.
+caller: Ji sir, aapka name Rahul Sharma hai na?  Agar aap confirm kare to hi main aapko card apply karne ke liye guide kar sakta hun.
+receiver: Haan, Rahul Sharma hun main. Par mujhe abhi dikkat hai. Kal raat ko call kar rahe hain?
+caller: Haan, kal raat ko 8 baje aapke house ke gate par call karunga.  Mumbai mein abhi evening time hai.
+receiver:  Okay, thoda wait kar leta hun. Bye.
+caller: Namaste sir, main HDFC Bank se baat kar raha hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humare pass aapka PAN card aur mobile number chahiye hogi.
+receiver: Oh, HDFC? Debit card? Mai toh abhi bahar mein hoon. Kal shaam ko office mein aa jaunga. Tab call kar lena? Aur haan, mera naam Rahul Sharma hai.

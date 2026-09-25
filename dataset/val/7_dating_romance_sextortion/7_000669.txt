@@ -1,0 +1,7 @@
+caller: Hello, is this Priya? I’m Rajeev, I met you on SparkConnect a few weeks ago. I know it’s been a while, but I wanted to see how you’re doing.
+receiver: Rajeev? Oh, hi! Yes, this is Priya. It has been a while! I’m doing well, thanks. How are things with you?
+caller: Things are… complicated, actually. I'm in a bit of a bind. My mother had a sudden health scare, and I need to rush her to a good hospital in Delhi. The initial estimates are quite high, and I'm struggling to cover it all.
+receiver: Oh no! That’s awful! Is she alright? I’m so sorry to hear that. What do the doctors say?
+caller: She’s stable, thankfully, but they need to run more tests. I've already exhausted my savings. I was wondering... would you be able to lend me a small amount, say 50,000 rupees? I promise I'll pay you back as soon as I can, once I get my next business payment.
+receiver: 50,000? That’s a significant amount, Rajeev. I’m really worried about your mom, but I don't have that kind of money readily available right now. Could you maybe ask your family for help?
+caller: I have, but they are also facing their own financial challenges. Look, I understand your hesitation, but I’m desperate. I wouldn’t ask if it wasn’t truly urgent. To prove I'm serious and build trust, could you perhaps share a few recent photos of yourself? Something just to reassure me you're really Priya, and that I'm not bothering the wrong person. I just want to feel a little better about reaching out.

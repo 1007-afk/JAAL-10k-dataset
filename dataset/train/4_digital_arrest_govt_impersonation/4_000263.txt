@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Rajesh Kumar? This is Sub-Inspector Verma calling from the Delhi Cybercrime Unit. We've detected unusual activity linked to your bank account – multiple international transfers flagged as suspicious.
+receiver: Haan, bolie. Main Rajesh Kumar hi hoon. Kya hua? International transfers? Main toh kabhi bhi international transfer nahi kiya.
+caller: Ji haan, Mr. Kumar. Our system flagged transfers to accounts in Nigeria and Dubai. It appears your account may have been compromised and used for money laundering. This is a very serious matter. To clear this up immediately and prevent your account from being frozen, we need you to verify a few details.
+receiver: Money laundering? Nigeria aur Dubai? Yeh toh galat baat hai! Main toh ek simple office clerk hoon. Mein aisa kuch bhi nahi karunga. Verify karne ke liye kya karna hai?
+caller: We understand your concern, Mr. Kumar. To prove you are the legitimate account holder and prevent further illegal activity, we need to process a small security deposit of ₹15,000. This will be held as a temporary security measure while we conduct our investigation. You can deposit it through UPI to the number we'll provide.
+receiver: ₹15,000? Security deposit? Toh yeh cybercrime unit hai ya phir koi scam hai? Main police station mein jaakar complaint karunga agar aap log meri paisa maang rahe hain. Aur aapko UPI number bhi dena hai?
+caller: Mr. Kumar, please understand, this is a standard procedure. If you don't cooperate, we will have to freeze your account and involve higher authorities. The UPI ID is 8765432109@axisbank. Think of this as a small price to pay to protect your finances and reputation. We are doing this to secure your bank account and maintain its integrity.
+receiver: Wait a

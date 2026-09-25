@@ -1,0 +1,13 @@
+caller: Namaste, sir? Main Paytm se Anita bol rahi hoon. Aapke Paytm account mein cashback offer aa gayi hai!
+receiver: Paytm? Cashback? Woh kaase? Batao, kya offer hai?
+caller: Sir, aapko bas ek small processing fee bhar deni hai. ₹299 jitne cashback aap milenge. Offer sirf aaj ke liye hai.
+receiver: ₹299? Arey yaar, itna zyada fee? Aur kya karna padega?
+caller: Sir, aapko ek link par click karna hai, wahaan par details milegi aur payment karne ke liye OTP bhi confirm karna hoga. Bilkul safe hai, Paytm ki taraf se official offer hai.
+receiver: Official? Par koi call kar ke kyu bata rahe ho? Main khud app mein check kar sakta hoon na?
+caller: Sir, yeh offer sirf select customers ke liye hai, app mein dikh nahi payega. Jaldi karo, offer khatam hone wala hai.
+receiver: Theek hai, toh link bhejo. Aur fir main dekhunga.
+caller: Sir, aapko koi link nahi kholna hai. Aapko sirf apna Paytm app kholna hai aur ek UPI ID generate karna hai. Main aapko ek number de dungi, us par ₹299 transfer kar den.
+receiver: ₹299 transfer? Woh kya bol rahe ho? Yeh toh scam lag raha hai!
+caller: Sir, aap ghabraiye nahi. Yeh sirf verification ke liye hai. Jab ₹299 transfer ho jayega, tab aapka cashback activate ho jayega.
+receiver: Bilkul nahi! Main ₹299 transfer nahi karunga. Aapko pata hai, yeh scam hai.
+caller: Sir, aapka loss ho sakta hai. Yeh bahut hi achha offer hai, sir. Please sir, jaldi decision lo.

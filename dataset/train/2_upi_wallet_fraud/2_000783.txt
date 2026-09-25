@@ -1,0 +1,9 @@
+caller: Hello, mai Rahul bolta hu, Axis Bank se. Aapko ek achha cashback offer mil raha hai, sir.
+receiver: Kya offer hai? Batao.
+caller: Aapke Axis Bank rupay wallet mein ₹5000 cashback mil sakta hai, sirf ek verification process complete karne se.
+receiver: ₹5000? Verification matlab kya karna padega?
+caller: Sir, aapko apna rupay wallet app open karna hai aur ‘Verify Transaction’ option select karna hai. Ek OTP aapke registered mobile number par aayega, woh mujhe bata dena.
+receiver: OTP? Lekin why do you need my OTP? It’s risky, no? Koi link bhejo ya kuch.
+caller: Sir, OTP sirf verification ke liye hai, security ke liye. Link bhejne se fraud ho sakta hai. Jaldi karo, sir, offer khatam hone wala hai. ₹5000 cashback miss mat karna!
+receiver: Wait a minute. I’m calling Axis Bank’s official helpline to confirm.
+caller: Sir, aap jo chahenge woh kar sakte hain, par time barbaad mat karein. Offer abhi hi khatam ho jayega.

@@ -1,0 +1,9 @@
+caller: Namaste, mai Vijay Sharma, BharatPay security team se bol raha hoon. Aapke BharatPay account mein aatke kuchh suspicious transactions dikhe hain.
+receiver: Kya? Maine toh kuch bhi unusual nahi kiya. Batao kya transactions the?
+caller: Haan, ek bahut badi amount ka transaction ek online gaming website par kiya gaya hai. Yeh ho sakta hai ki aapke account ki nikal ho gayi hai. Aapko apne account ko secure karna hoga.
+receiver: Oh God! Main toh kabhi gaming nahi karta. To ab main kya karoon? Mere paise kho jayenge?
+caller: Bilkul, agar aap abhi nahi secure karenge toh aapke sabhi paise chala jayenge. Aapko BharatPay helpline se baat karni padegi. Mein aapko ek OTP bhejna chahta hoon jo aapko helpline se connect kar dega.
+receiver: Theek hai, bhejo OTP. Par helpline number kaunsa hai?
+caller: Aapko apne BharatPay app mein helpline number milega, lekin is security issue ke chalte, mai hi aapko direct connect kar dunga. Aapko ek link mil raha hoga, us par click karke apna naam aur BharatPay ID enter karna hai, tab OTP aa jayega.
+receiver: Okay, ek link aaya hai… Enter kiya, ab OTP ka wait karunga.
+caller: Haan, OTP aa gaya hoga na? Ab us OTP ko mujhe batao, tabhi aapka account secure ho jayega. Jaldi karo, time kam hai!

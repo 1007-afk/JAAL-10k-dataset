@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? I am calling from QuickCash Loans. We’ve reviewed your application and you’re pre-approved for a loan of ₹75,000! Very good news!
+receiver: Really? That's fantastic! I was hoping to get a loan for some urgent medical expenses.
+caller: Excellent, sir! A very worthy cause. Now, to finalize the loan, we need to verify a small processing fee of ₹5,000. This is just to secure your loan amount and prevent fraud. You can send it through UPI to this ID: 9876543210@ybl.
+receiver: ₹5,000? That seems a bit high, doesn't it? For a ₹75,000 loan?
+caller: Sir, it's standard procedure. All banks do it. This ensures your loan is legitimate and protects you from scammers. Think of it as an insurance policy. Once you pay the fee, the ₹75,000 will be credited to your account instantly. Don't miss this chance, sir!
+receiver: Okay, fine. I’ll send it. Let me just quickly transfer the money.
+caller: Wonderful sir! I'm checking... Yes, the payment has been received. Now, just one last thing. To activate your loan, we require a copy of your Aadhaar card and a selfie holding it. This is for final verification purposes. Please send it to this WhatsApp number: 7788990011.

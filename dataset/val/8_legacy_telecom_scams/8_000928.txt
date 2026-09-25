@@ -1,0 +1,11 @@
+caller: Mr. Verma? This is Ms. Kapoor from the Mumbai Rewards Program. We’re thrilled to announce you’ve won a ₹10,000 shopping voucher! Congratulations!
+receiver: Oh my goodness, seriously?! A ₹10,000 shopping voucher? That's incredible! I can't believe it. Could you tell me more about this?
+caller: Absolutely! It’s a reward for being a loyal member of our program. You've been selected randomly, and we wanted to celebrate your loyalty.  It's a huge honour, isn't it?
+receiver: Yes, definitely! It is. So, how do I actually get this voucher? Is there anything I have to do?
+caller: Arre, simple hai! Just need to confirm your identity with a quick verification process. We’ll send you a text message with a link – it’s 7899978888. Please click on that link and follow the instructions.
+receiver: Okay, a text message with a link. Got it. And after I click that link, then I'll receive the voucher details?
+caller: Bilkul! Once you verify your details through the link, you’ll instantly receive the voucher code via email.  It's a very streamlined process, promise! Don’t delay, these vouchers are going fast!
+receiver: Alright, thank you, Ms. Kapoor! That sounds easy enough. I’ll check my messages and look out for the text. Shukriya!
+caller: Wonderful! We’re delighted to be able to reward you.  Remember, don't share your OTP with anyone.  Have a wonderful day!
+receiver: Okay, understood. Thank you again! Goodbye.
+caller: Bye-bye!

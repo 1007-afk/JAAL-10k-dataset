@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Sharma? This is Rohan from BlueDart Courier. We have a package for you, but there's a slight issue with the delivery address.
+receiver: Oh really? What’s the issue? I was expecting a delivery today.
+caller: Yes ma'am. It seems there’s a discrepancy. The payment confirmation didn't go through properly. To ensure the package is released, we need to verify a one-time password sent to your registered mobile number.
+receiver: A payment confirmation? I didn’t make any payment for a delivery. What’s the sender’s name? And what’s the tracking number?
+caller: The sender is listed as "XYZ Electronics." The tracking number is BD789456123. It’s a standard security protocol, ma’am. Just share the OTP and we’ll clear the hold immediately.
+receiver: Hold on a second. This sounds suspicious. I’m calling BlueDart directly to confirm this.
+caller: Ma’am, please don't delay! The package will be returned to sender if the verification isn't completed within the next 15 minutes. This is a time-sensitive matter.

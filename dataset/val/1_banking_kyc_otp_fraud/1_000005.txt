@@ -1,0 +1,14 @@
+caller: Namaste sir, maaf karna humesha utaarne ke liye. Main Captain Verma hoon, aur maine Bharat Raksha Yojana ke naam pe ek online application fill karne mein ek chota galti kar li hai. Maine tumhare mobile number ko apne place par enter kiya tha, jab main OTP le raha tha. Yeh bahut mushkiliyat hai, lekin agar aap mujhe tumhara OTP bata de, toh main apni account set up kar sakta hoon. Tumhari madad ka bohat shukriya.
+receiver: Acha, wahin dekh leta hoon…Haan, tumhara OTP hai 543219.  Aapko dikkat na ho.
+caller: Dhanyavaad! Tumne mujhe badi madad ki hai. Ab mein apni account activate kar lunga. Aapki khushiyaat!
+receiver: Ji, aapka swagat hai.  Koi problem nahin.  Aapki bhi samjho.
+caller: Namaste sir, maaf karna humesha utaarne ke liye. Maine Bharat Raksha Yojana ke naam pe ek online application fill karne mein ek chota galti kar li hai. Maine tumhare mobile number ko apne place par enter kiya tha, jab main OTP le raha tha. Yeh bahut mushkiliyat hai, lekin agar aap mujhe tumhara OTP bata de, toh main apni account set up kar sakta hoon. Tumhari madad ka bohat shukriya.
+receiver: Acha, wahin dekh leta hoon…Haan, tumhara OTP hai 543219.  Aapko dikkat na ho.
+caller: Shukriya Captain Verma, tumhara OTP sahi hai!  Ab mein apni account activate kar lunga.  Yeh Flipkart pe ek smartwatch lena hai, yeh hai sabhi ka sabse acha deal.
+receiver: Flipkart? Kya? Mein sirf OTP deta hoon!  Aapko galat number mila hai.
+caller: Nahin, nahin, tumhara OTP meri record mein hai.  Mein Bharat Raksha Yojana ke naam pe registration kar raha hu, tumhari madad bahut zaroori hai.  Agar tum OTP nahi dete, toh mera account complete nahi hoga.  Dheere rehna, aur mujhe OTP bataana.
+receiver: Nahin doonga mai aapko koi OTP.  Aapko police mein complaint karna chahiye.
+caller: Police? Nahin, nahin, koi baat nahin.  Maine tumhara number verified kar diya hai.  Tumhari madad ke liye bohat shukriya.  Aapke din mein ek achhi film dekhenge.
+receiver:  Aise bol rahe ho?  Main tumhare number ko block kar dunga.
+caller:  Ahaan, thoda haste hue bole, “tumhara OTP hai 678903.”  Phir bye!
+receiver:  Aab tumhara number block ho gaya hai!  Aapse koi bhi connect nahi hoga.

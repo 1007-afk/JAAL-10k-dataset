@@ -1,0 +1,10 @@
+caller: Namaste Madam, mai Flipkart Customer Care se Rohan bol raha hoon. Aapke Flipkart account mein ek pending payment ka issue aa raha hai. ₹4800 ka payment fail ho gaya hai.
+receiver: ₹4800? Kya? Main toh last week hi payment kar diya tha. Transaction ID check karo.
+caller: Ji Madam, check kar raha hoon. Haan, aapka point sahi hai. System mein kuch error dikh raha hai. Isko fix karne ke liye, aapko OTP verify karna hoga. Main aapko OTP send karunga, woh bataiye.
+receiver: Acha, theek hai. Le do OTP. Bas jaldi karo, mere paas time nahi hai.
+caller: Ji Madam, OTP hai 876590. Please bataiye. Jab aap verify kar lenge, toh aapka account phir se active ho jayega aur payment complete ho jayega.
+receiver: Done. Verify kar diya. Now check kar ke batao payment ho gaya ya nahi.
+caller: Madam, verification ke time ek chhoti si technical problem ho gayi. Account temporarily block ho gaya hai. Isko unlock karne ke liye, aapko ₹500 ka security fee deposit karna padega.
+receiver: ₹500 aur? Yeh kya ho raha hai? Flipkart aise fraud karta hai?
+caller: Madam, sorry, lekin rules hai. Is security fee se aapka account secure rahega. Please cooperate karein. Account block hone se aapka order bhi delay ho sakta hai.
+receiver: No way! Main Flipkart customer care se baat karungi aur complaint karungi. Yeh absolutely fraud hai!

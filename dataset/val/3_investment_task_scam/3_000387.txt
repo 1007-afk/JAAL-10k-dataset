@@ -1,0 +1,8 @@
+caller: Namaste ji, is this Mr. Verma? I’m calling from the Bharat Global Finance Customer Support. How are you doing today?
+receiver: Haan ji, main hi Mr. Verma bol raha hoon. Main theek hu, aap kaise hain? Aur Bharat Global Finance se aap kaun hain?
+caller: Wonderful to speak with you, Mr. Verma! We’re experiencing a high volume of calls today, so please bear with us. Our Wealth Management division has identified a fantastic investment opportunity that could yield substantial returns.
+receiver: Substantial returns? Woh kya hai? Kya aap mujhe batayenge ki kis mein invest karna hai aur yahaan ki deal kyon achchi hai?
+caller: Mr. Verma, we’ve noticed an exciting opportunity with a small tech startup called ‘NovaTech Solutions’. They're developing a revolutionary AI platform and have received a 'High Potential' rating from our advisors. The stock ticker is NVTS. Initial projections show a possible increase of around 250% within the next year.
+receiver: NovaTech Solutions? Never heard of them. And 250%... that sounds like a lot. What makes them so special? Why do your advisors think it's going to grow so fast?
+caller: Absolutely, Mr. Verma. NovaTech is focused on creating personalized learning experiences using artificial intelligence. Their core technology is incredibly unique – it adapts to each student’s individual needs and learning style. Our analysts have conducted thorough due diligence and believe this innovative approach will disrupt the education sector. That's why they're projecting such strong growth.
+receiver: Personalized learning… AI… It all sounds a bit complicated. Can you give me some more information about this technology? And how long does this ‘High Potential’ rating last? When can we realistically expect to see these gains?

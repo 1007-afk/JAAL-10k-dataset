@@ -1,0 +1,6 @@
+caller: Namaste! Main Paytm se Rahul bol raha hoon. Aapke Paytm account mein ek transaction fail hua hai, aur security ke liye verification ki zaroorat hai.
+receiver: Kya? Transaction fail hua? Mujhe toh koi notification nahi aaya. Check karta hoon… Arre wah, tumne sahi bola. Verify karna hai?
+caller: Haan ji, verify karna hai. Bina verify kare, aapka account suspend ho sakta hai. Ek OTP bheja gaya hai aapke registered number pe. Woh OTP mujhe bataiye.
+receiver: Ek minute, dekhta hoon… Haan, OTP aaya hai. Yeh hai – 4872.
+caller: Thank you! Ab aapko ek QR code scan karna hoga. Main aapko ek link bheja karta hoon, usmein QR code milega. Scan karke mujhe bataiye. Yeh sirf 2 minute ka kaam hai, aur aapka account safe rahega. Link yeh hai: https://paytmverify.com/qr
+receiver: Arre yaar, QR code? Main itna ache se phone use karta hoon, kabhi QR code scan kiya nahi. Aur yeh link bhi thoda fishy lag raha hai. Paytm toh aise QR code nahi bhejeta.

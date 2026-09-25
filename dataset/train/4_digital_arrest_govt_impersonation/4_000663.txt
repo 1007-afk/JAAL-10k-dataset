@@ -1,0 +1,9 @@
+caller: Namaste, mai Customs Department se Rohit Verma bol raha hoon. Aapke naam par ek parcel aaya hai Delhi se, lekin usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kuch order nahi kiya tha. Kis tarah ke illegal items?
+caller: Ji, parcel mein kuchh electronic gadgets aur kuchh suspected drugs milaye gaye hain. Case number 789456 hai. Aapko is matter mein investigation ke liye ₹15,000 kaatne होंगे ताकि parcel release ho sake.
+receiver: ₹15,000? Aur ye sab kya ho raha hai? Main toh kabhi parcel order kiya hi nahi. Main abhi police ko report karta hoon.
+caller: Sir, police mein report karne se case aur barhega. Aapko jald se jald payment karna होगा, warna aapke khilaf warrant nikal sakti है. Hum aapko video call par connect kar sakte hain CBI officer se, toh aap unse baat kar sakte hain.
+receiver: Video call? Woh bhi? Yeh bahut hi suspicious lag raha hai. Aap mujhe CBI officer ka naam aur phone number de sakte hain? Main khud unse baat karna chahta hoon.
+caller: Sir, CBI officer ka phone number confidential है. Lekin mai aapko video call par connect kar sakta hoon. Aapko ₹15,000 UPI se send karne होंगे. Payment karne ke baad, case close ho jayega.
+receiver: Thoda ruko. Mai pehle confirmation karna chahta hoon. Aap mujhe parcel ka tracking number bataiye, main online check karta hoon.
+caller: Sir, tracking number confidential है. Security reasons se hum woh bata nahi sakte. Trust us, hum aapki madad kar rahe hain. Jaldi se payment karein, warna aapko pareshaan hona padega.

@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Sharma? This is calling from PhonePe customer support regarding a pending cashback of ₹750 on your recent transaction.
+receiver:  PhonePe? Okay, ₹750 cashback? I don’t recall any such transaction. Can you give me details?
+caller: Yes sir, it was a transaction to XYZ Online Store. To process the cashback, we need to verify your PhonePe UPI ID and a screenshot of your PhonePe wallet balance for security purposes.
+receiver: Why do you need a screenshot? That seems very suspicious. Shouldn't you already have my UPI ID? And why a screenshot of my wallet?
+caller: Sir, it’s a new security protocol implemented by PhonePe. We’re combating fraudulent activities. It’s a one-time verification. Without it, we can’t release the cashback, and your account might face temporary restrictions.
+receiver: Temporary restrictions? That's a pressure tactic. Look, I’m not comfortable sending a screenshot of my wallet or my UPI ID. I’ll contact PhonePe support directly through their official app.
+caller: Sir, please understand, time is running out. The offer is expiring within the next 24 hours. Just a quick screenshot and UPI ID, and you’ll receive the ₹750 cashback instantly. Don’t miss out on this opportunity.

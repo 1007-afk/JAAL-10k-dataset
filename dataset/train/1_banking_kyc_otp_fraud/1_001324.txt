@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main Paytm Payments Bank se Atul bol raha hoon. Aapke account mein security breach ka attempt kiya gaya hai.
+receiver: Paytm se? Kya hua? Koi problem hai?
+caller: Haan sir, ek suspicious login attempt hua hai Dubai se. Aapka account suspend kar diya gaya hai. Security ke liye, aapko KYC update karna hoga.
+receiver: KYC? Abhi? Main toh bas phone pe baat kar raha hoon.
+caller: Sir, yeh urgent hai. Account permanent block ho sakta hai. Aapka PAN card number aur dobara OTP bata dijiye taaki main aapki identity verify kar sakoon aur account ko phir se activate kar sakoon.
+receiver: PAN card phone pe? Yeh thoda risky lag raha hai, sir.
+caller: Sir, aapka loss hoga. Account block ho jayega. Bas PAN card ke last 4 digits aur OTP bata dijiye, phir sab theek ho jayega.
+receiver: Okay, the last 4 digits of my PAN are 1234. But I'm not giving you the OTP. I’ll call Paytm customer care directly to verify.
+caller: Sir, please don't do that. Our helpline number is temporarily down due to maintenance. Just the OTP and everything will be sorted. Don't risk your account being locked permanently!

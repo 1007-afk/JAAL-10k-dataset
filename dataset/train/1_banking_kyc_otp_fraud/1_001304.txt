@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Axis Bank security department se Rahul bol raha hoon. Aapke naam par ek account hai, aur usmein se ₹18,000 ka ek transaction hua hai, jo suspicious lag raha hai.
+receiver: ₹18,000? Mujhe toh koi transaction yaad nahi aa raha. Main Axis Bank ka hi customer hoon.
+caller: Haan sir, humein bhi wohi lag raha tha. Security ke liye, humein aapke account details verify karne hain. Please share the OTP you just received on your registered mobile number.
+receiver: OTP? Par kyun? Kisi transaction ka OTP? Main toh koi OTP receive nahi kiya.
+caller: Sir, hum system mein check kar rahe hain. Aapko OTP nahi mila? Ek minute… Haan, lagta hai OTP delay ho raha hai. Main aapko ek aur OTP send karta hoon. Simultaneously, please provide the last three digits of your debit card for swift verification.
+receiver: Acha, debit card number bhi? Yeh bahut hi wrong lag raha hai. Main Axis Bank ke customer care number se call karta hoon aur verify karta hoon.
+caller: Sir, customer care number pe call karne mein time lag jayega. Yeh procedure aksar 15-20 minute se zyada nahi lagta. Inke baad, aapka account secure ho jayega. Trust us, sir. For your own safety.

@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? I’m calling from Blueridge Courier Services. We have a package for you, but there's a slight issue with the address.
+receiver: Haan, Rajesh Kumar bol raha hoon. Package? Kya address mein problem hai? Mujhe koi expectation nahi thi.
+caller: Yes, sir. The pin code doesn’t quite match the details we have. It seems there’s been a payment discrepancy. To release the package, we need to verify a small outstanding amount of ₹750.
+receiver: ₹750? Kaun se payment ki baat kar rahe ho? Mainne koi package order nahi kiya hai. Mujhe ye bahut suspicious lag raha hai.
+caller: Sir, it’s a standard security measure. It's to ensure the package reaches the correct recipient. You can pay through UPI - just send it to 9876543211@axisbank. It will be sorted immediately.
+receiver: UPI? Wait a minute... I'm not comfortable with this. Can you give me a tracking number for this package so I can verify it with the sender?
+caller: Sir, tracking is temporarily unavailable due to the system upgrade. Just a quick payment and you'll have your package. It contains valuable electronics; don’t miss out! Just ₹750, and it's yours.

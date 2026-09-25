@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Sharma bol raha hoon, FastLoan Solutions se. Aapke naam par ek personal loan ke liye application aaya hai. Approval process ke liye, mujhe confirm karna hai ki aapka phone number sahi hai.
+receiver: Haan, sahi hai. Lekin mujhe FastLoan Solutions ka koi application nahin mila. Main toh koi loan apply karwa hi nahi raha tha.
+caller: Samajh mein aaya. Hamari system mein ek technical error hua tha. Lekin achha hai ki aap confirm kar rahe hain. Ab, aapka credit score check karne ke liye, mujhe ek OTP (One-Time Password) chahiye. Mein aapko ek SMS karunga.
+receiver: Credit score check karne ke liye OTP? Yeh thoda suspicious lag raha hai. Unko mera OTP kyun chahiye?
+caller: Yeh security protocol hai, Madam. OTP se ham confirm kar sakte hain ki phone number aapka hi hai. Aur, OTP hone ke baad, hum aapko loan details send karenge – interest rate, repayment schedule, sab. Yeh bahut hi attractive offer hai.
+receiver: Nahi, mujhe yeh offer pasand nahin aaya. Main koi OTP share nahi karunga. Yeh scam lag raha hai. Main police mein report karunga.
+caller: Arre, arre, report karoge? Itna strict kyun ho rahe ho? Ek choti si baat hai. Agar aap OTP share kar denge, toh aapko bahut achha loan mil jayega. Aur main confirm karta hoon, koi scam nahin hai. Only 1 minute se zyada time nahi lagega.
+receiver: Mujhe koi interest nahi hai. Aapko report kiya gaya hai. Goodbye.

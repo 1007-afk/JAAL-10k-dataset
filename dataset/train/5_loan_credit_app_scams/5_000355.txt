@@ -1,0 +1,9 @@
+caller: Namaste! Mein Aditya bol raha hoon, LoanIndia se. Aapki profile dekh kar mujhe lagta hai aap ek personal loan ke liye eligible hain, ₹50,000 tak. Kya aapko loan chahiye?
+receiver: Haan, ji. Loan ki zaroorat toh hai, lekin kitni interest hogi?
+caller: Sir, LoanIndia mein interest rate bahut kam hai, sirf 12% per annum. Aur process bhi bahut easy hai. Aapko bas kuch basic details batani hai. Aapka naam aur dob bataiye?
+receiver: Mera naam Priya Sharma hai aur dob 15/08/1990 hai.
+caller: Thik hai Priya ji. Ab, aapka bank account number aur OTP share karein taaki hum loan application start kar sakein. OTP aapke phone pe aayega.
+receiver: Ji, OTP aa gaya. 487291.
+caller: Dhanyawad! Priya ji, aapka loan approve ho gaya hai. ₹50,000 aapko 24 hours mein mil jayenge. Lekin abhi processing fee ke ₹2,500 deposit karne honge.
+receiver: ₹2,500? Lekin tumne interest kam bola tha.
+caller: Priya ji, yeh processing fee hai, compulsory hai. Na toh hum loan transfer kar sakte hain. Jaldi se deposit karein, warna offer expire ho jayega.

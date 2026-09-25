@@ -1,0 +1,11 @@
+caller: Namaste! Main Axis Bank se Rahul bol raha hoon. Aapke account mein achanak ₹15,000 ka transaction attempt hua hai, jo suspicious lag raha hai. Aapka account suspend hone se pehle, KYC update karna hoga.
+receiver: KYC update? Main toh bank mein online KYC kar chuka hoon.
+caller: Haanji, lekin system mein ek technical glitch aa gaya hai. Isliye hamein aapka verification karna padega. Koi chinta mat karo, yeh sirf kuch minute ka kaam hai.
+receiver: Theek hai. Batao kya karna hai.
+caller: Sir/Madam, pehle aapka Aadhaar number ka last 4 digits bataiye, taaki main aapke account ko verify kar sakun.
+receiver: Aadhaar number? Yeh thoda risky lag raha hai, sir.
+caller: Sir/Madam, risk to nahi hai. Security protocols follow kar rahe hain hum. Account suspend hone se bachane ke liye iska urgent zaroorat hai. Jaldi karein, offer expire ho rahi hai.
+receiver: Okay, last 4 digits hain 4321.
+caller: Shukriya! Ab, ek OTP aapke mobile pe aa raha hai. Woh OTP bataiye.
+receiver: 5678.
+caller: Perfect! Aapka account ab secure hai. Aapko ₹15,000 ka transaction bhi ho gaya hai. Aapko message aayega. Thank you for cooperating.

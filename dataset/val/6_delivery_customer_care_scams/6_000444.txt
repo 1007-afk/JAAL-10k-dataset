@@ -1,0 +1,6 @@
+caller: Namaste, main Bluebird Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai.
+receiver: Bluebird Courier? Kya parcel hai? Mujhe toh koi order kiya nahi tha.
+caller: Ji, yeh Flipkart se hai. Ek mobile phone ka order hai. Lekin pin code galat dikh raha hai. OTP verify karna hoga. Mein aapko SMS karunga.
+receiver: OTP? Mobile phone? Mein Flipkart se kuch order nahi kiya hai. OTP mat bhejo. Koi scam lag raha hai.
+caller: Sir, OTP aapki safety ke liye hai. Agar aap verify nahi karenge, toh parcel wapas bhej denge. Aur delivery charge bhi apply ho jayega. ₹75 sirf verification ke liye.
+receiver: Delivery charge? Verification ke liye? ₹75? Yeh toh galat hai! Mein koi OTP nahi dunga. Mein Flipkart customer care number se contact karta hoon.

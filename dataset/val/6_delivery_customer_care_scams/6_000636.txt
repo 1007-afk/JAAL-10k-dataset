@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Sharma? This is Rohan calling from Swiggy Customer Care. We've noticed an unusual payment attempt on your account just now.
+receiver: Oh really? What happened? I haven’t ordered anything recently.
+caller: Yes ma'am. A large order was placed for delivery to an address in Delhi. The payment failed, but it triggered a security alert. To secure your account and process the refund, we need to verify a one-time password sent to your registered mobile number.
+receiver: A one-time password? Okay, let me check my messages. (pause) Yes, I got one. It’s 482917.
+caller: Thank you, Mrs. Sharma. Just one moment while I update your details. Now, to complete the refund and ensure there are no further issues, we need to confirm a small processing fee of ₹250 to cover the failed transaction. You can pay it through UPI.
+receiver: ₹250? But you said it was a refund! Why do I need to pay anything?
+caller: Ma’am, this is standard procedure. The failed payment caused a technical glitch, and this small fee covers the system adjustments. It will be refunded immediately after the transaction is processed. Please pay quickly to prevent your account from being temporarily suspended.

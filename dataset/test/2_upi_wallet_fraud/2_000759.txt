@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? This is Ankit from Freecharge Customer Support. We're calling regarding a cashback offer on your Freecharge wallet.
+receiver: Freecharge? Cashback offer? Haan, main Priya Sharma bol rahi hoon. Kya offer hai?
+caller: Great! We're offering a 500% cashback bonus for a limited time. To activate it, you just need to complete a small verification process and pay a one-time processing fee of ₹75. It's a completely secure process.
+receiver: ₹75 processing fee? Cashback pe fee? Main toh aise offers kabhi nahi suni. Yeh thoda fishy lag raha hai.
+caller: Madam, this is to prevent fraudulent claims and ensure the security of our users. It's a standard procedure. Just transfer ₹75 to the UPI ID we’ll send you – it’s for a temporary security hold. Once verified, you’ll get ₹375 cashback instantly.
+receiver: UPI ID? Which UPI ID? Aur kaise main trust karoon ki yeh Freecharge ka genuine call hai? Main Freecharge ke customer care number par check karungi.
+caller: The UPI ID is securepayment75@axisbank.com.  Madam, don't waste this opportunity! The offer is ending soon. Just complete the payment now to get the 500% cashback. This is a limited-time offer, don't miss out!
+receiver: Nahi, main koi payment nahi karungi. Yeh scam lag raha hai. Main police mein report karungi.

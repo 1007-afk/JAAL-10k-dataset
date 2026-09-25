@@ -1,0 +1,9 @@
+caller: Hello? This is regarding your Paytm account. We've detected some suspicious activity and your account is at risk of being blocked.
+receiver: Paytm? Suspicious activity? What kind of activity? My account is fine.
+caller: Yes sir, there was an attempted transaction from a foreign IP address. To prevent your account from being suspended, we need to verify your identity and update your KYC details.
+receiver: Update my KYC? Why? Paytm usually sends SMS for that. And why are you calling? Shouldn't I be calling Paytm?
+caller: Sir, due to the urgency of the situation, we're calling directly. It’s a security protocol. To unlock your account and ensure your money is safe, could you please provide your Aadhaar number for verification? It's a one-time requirement.
+receiver: My Aadhaar number? Over the phone? That’s not how this works. I'm not giving you my Aadhaar number. This feels very wrong.
+caller: Sir, please understand, if you don’t provide the information, your Paytm account will be temporarily blocked. We’re just trying to protect you from fraud. Do you want to lose access to your funds?
+receiver: Blocked? So, you're threatening me? Listen, I’m reporting this number. I know this is a scam. I’m hanging up now.
+caller: Sir, wait! Don’t do that! Just give me the last four digits of your bank account so I can quickly resolve the issue! It will only take a minute.

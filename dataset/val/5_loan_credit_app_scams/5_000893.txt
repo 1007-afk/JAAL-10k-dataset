@@ -1,0 +1,9 @@
+caller: Namaste, sir. This is Akash from LoanExpress. We’ve noticed you recently searched for quick loans online. We’re offering a fantastic opportunity for immediate approval. Just a few details and you’ll be on your way.
+receiver: LoanExpress? I don't remember applying anywhere. What kind of loans are you offering?
+caller: We offer instant personal loans, sir. Very easy process. We just need to verify your details. The loan amount can be up to ₹75,000 with a competitive interest rate. To start, could you share the last four digits of your bank account number? For security purposes, of course.
+receiver: ₹75,000? That sounds good, but I’m a bit wary. Why do you need my bank account details right away?
+caller: It's just for preliminary verification, sir. Standard procedure. Also, to process the loan quickly, we need a small processing fee of ₹2,500 to be sent to this UPI ID: quickloan24. Once we receive that, your loan will be approved within minutes.
+receiver: A processing fee? That wasn’t mentioned earlier. And sending money via UPI seems risky.
+caller: Sir, this is a one-time fee only. It covers the necessary paperwork and verification checks. Without this, we cannot proceed. Think of it as an investment in your loan approval. We have many happy customers who have already benefitted!
+receiver: I think I’ll have to reconsider. This doesn’t feel right.
+caller: Sir, please don’t delay. This offer is only valid for the next hour. After that, the opportunity will be lost. We’re doing this as a special promotion. Once the fee is paid, we send across your loan agreement for your signature.

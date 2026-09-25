@@ -1,0 +1,9 @@
+caller: Namaste! This is regarding an investment opportunity in StellarChain, sir. Your account shows potential for significant returns.
+receiver: StellarChain? Main sunta hoon. Account ka kya matlab hai? Mera koi account toh nahi hai StellarChain mein.
+caller: Ji, aapke naam par ek demo account register kiya gaya hai, sir, for promotional purposes. Currently, it has 2350 rupees. We’re offering a special opportunity to boost it significantly with a small investment of just 500 rupees.
+receiver: 500 rupees? Aur boost ka matlab kya hai? Yeh StellarChain kya hai actually? Ye share market wala kuch hai kya?
+caller: StellarChain is a revolutionary blockchain platform, sir, with guaranteed returns. For this specific boost, it's a 24-hour promotional offer. You just need to send 500 rupees to the provided UPI ID and the system will automatically multiply your balance threefold. It’s a limited-time opportunity! UPI ID is pay@stellarchain.in.
+receiver: Thoda wait karo. Yeh UPI ID toh sahi hai na? Aur guarantee ka matlab kya hai? Koi document hai isliye? Main kuch risky nahi karna chahta.
+caller: Absolutely sir, it is verified. And yes, it’s a guaranteed return within 24 hours, reflected in your demo account.  For verification purposes, please send a screenshot of the UPI transaction to +918800554433.
+receiver: Screenshot? Kyun screenshot? Aur 24 hours mein triple hone ka guarantee? Itna zyada return, it’s suspicious.
+caller: Sir, the screenshot is just to confirm the transaction has been completed so we can trigger the system’s automated processing. Triple returns is standard for this promotional boost on StellarChain. It's a very attractive offer, sir, don

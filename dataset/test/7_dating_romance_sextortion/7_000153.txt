@@ -1,0 +1,10 @@
+caller: Hello? Tumne mujhe kabhi sunaahi nahi hoga. Main woh hoon jo tumhare office ke saath milne aa raha tha. Aaj raat ki timing bhi same hai, yaani, hum bare excited hain.
+receiver: Oh, sorry, main thoda busy thi. Haan, yaad aaya, tum aane waale the. Shukriya ki call kiya. Main bhi bahut excited hoon, hai na? Tumhara naam kya hai, pata kar sakta hoon?
+caller: Mera naam…mera naam toh tumhare sapno mein hai, madam! Par agar tumko yaad nahi karta, toh main tumhara woh new colleague hoon jo tumhein shaam ko coffee share karne wala hai. Aaj raat ka plan batao, kya kar rahe ho?
+receiver: Ha ha, sapno mein toh har koi hai! Ok, ‘sapno mein’ wala colleague, acha naam hai! Lekin, seriously, mujhe naam chahiye, otherwise kaise samajhu ki tum sahi log ho. So, bolna, kya plan hai aaj raat ka?
+caller: Tumhari aankho mein dekhoon, madam. Mera naam hai Rohan. Aur aaj raat ka plan… woh tumhare dil ki baat sunega, aur tumhare har wish ko pura karega! Kya tumhari wish kya hai aaj raat ke liye?
+receiver: Rohan? Okay, Rohan. Acha, tumhara plan toh bahut interesting lag raha hai. Main sirf ek cheez chahti hoon - tum sahi timings pe pahunchao. Raat shuru hone wali hai, aur main prepare ho rahi hoon. Tum kitni door ho, batao, sirf isliye ki meri planning sahi ho.
+caller: Tumhe dar lagta hai, madam? Tumhara distance toh tumhari aankhon se zyada hai, tumhare dil mein. Tumhari har wish ko puri karna mera duty hai, aur main usme achcha hoon! Aaj raat ke liye tumari koi special request hai?
+receiver: ‘Tumhara distance tumhare dil mein’? Really? Just tell me where you are, Rohan! Main abhi Mumbai mein hoon, aur tumhara arrival waiting hai.
+caller: Mumbai? Wow! Tumhari har dream, meri responsibility hai! Aaj raat ke liye tumari koi specific requirement hai, yaani, koi special thing tumchi chaaho?
+receiver: Just let’s get this started, Rohan. Give me your address, please.

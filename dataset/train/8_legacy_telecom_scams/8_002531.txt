@@ -1,0 +1,10 @@
+caller: Namaste ji! Aapne recently WhatsApp status par ek music track ke liye subscribe kiya tha na? Bahut sundar! Aapka number selected ho gaya hai. Bas ek chota sa verification step rehta hai. Kya aap ek minute de sakte hain iske liye? Ye actually aapke internet plan ke liye hai, jisme aapko har shahar mein ek premium Bollywood song milega, sirf ₹30 per month. Aur ye sirf 25 years se upar wale logon ke liye hai. To, hum ise activate kar dein?
+receiver: Haan ji, main sun raha hoon. Ek minute toh de sakta hoon. Agar ₹30 per month hai toh theek hai, lekin ye music track wala plan ka confirm kar do. Aur ye activate karne se pehle koi OTP aayega kya ya koi confirmation chahiye hogi?
+caller: Haanji, bilkul OTP aayega. Aapko ek SMS mein ek 6 digit OTP milega, jise aapko humein bata karna hoga. Aur ye premium Bollywood songs ke liye hi hai, jisme aapko har shehar mein ek naya song milega. Toh, main ab OTP verify kar doon?
+receiver: Okay, sounds good. Bas ek baat aur clear kar loon, ye jo ₹30 monthly charge hai, ye sirf music service ke liye hi hoga na? Matlab koi aur hidden charges toh nahi hai? And isme koi subscription period toh nahi hai na, like I can cancel anytime if I don’t like it?
+caller: Haanji, bilkul! Yeh ₹30 sirf aur sirf naye Bollywood songs ke liye hai, koi hidden charges nahi. Aur commitment ka koi scene nahi, aap kabhi bhi cancel kar sakte hain agar aapko pasand nahi aaya toh. Toh, OTP verify karein?
+receiver: Haan ji, toh agar sab clear hai aur koi commitment nahi hai, toh please OTP verify kar do. Sounds like a decent deal for a new Bollywood song every month.
+caller: Great! Bahut badhiya. Toh aapka plan ab activate ho gaya hai. Aapko ab se har shehar mein ek naya premium Bollywood song milega. OTP verify karke dekh rahe hain. OTP hai 874921.
+receiver: 874921. Main verify kar raha hoon. Thank you!
+caller: Bahut dhanyavaad! OTP verify ho gaya. Aapko ab se har shehar mein ek naya premium Bollywood song milega. Enjoy your music!
+receiver: Thank you! Main wait karunga naye songs ka. Have a good day!

@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Kapoor? My name is Rohan from BlueSpark Courier. We have a package for you, but there's been a slight issue with the payment verification.
+receiver: Haan, Mrs. Kapoor bol rahi hoon. Package? Kya issue hai?
+caller: Yes, ma'am. It appears there's a ₹1,999 outstanding delivery charge. Our system flagged it. To release the package, we just need you to confirm a one-time password sent to your registered mobile number.
+receiver: ₹1,999? I wasn't expecting such a high delivery charge. What’s the sender’s name?
+caller: The sender is showing as "Online Retailer". It’s a confidential delivery. Just confirm that OTP, ma'am, and we’ll get it to you right away. It’s 4 digits.
+receiver: Okay, wait a minute. Let me check my orders first. Which retail outlet did it come from? I didn’t order anything expensive.
+caller: Ma'am, security protocols prevent me from disclosing the sender. It’s a standard procedure to verify the payment first. The OTP is crucial to prevent fraud. Just give me the OTP so I can quickly unlock your parcel.
+receiver: Fraud? Now you're making me nervous. I'm not giving you any OTP until you tell me more. Can you give me a tracking number?
+caller: I understand your concern, ma'am. But the system doesn’t provide tracking details until payment is confirmed. For your safety, please share the OTP. It’s a quick and simple process.

@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Aditya from PhonePe customer care. We’ve detected some unusual activity on your account and need to verify a pending cashback offer.
+receiver: Cashback offer? Mein PhonePe use toh karti hoon, par mujhe koi offer yaad nahi. Kya baat hai?
+caller: Yes, Mrs. Verma. You were eligible for a ₹500 cashback on a recent transaction, but to release it, we require a one-time security verification. It’s very simple, just a few steps.
+receiver: ₹500 cashback? Really? Mujhe kabhi PhonePe se aise offers nahi aate. Verification kya karna hai? Koi link bhejo ya app mein kuch change karna hai?
+caller: No need for any links or changes, madam. We just need you to confirm a small processing fee to activate the cashback. It's only ₹50. You can pay it through a UPI transaction to a designated ID we’ll provide.
+receiver: ₹50? Processing fee? PhonePe aise charge leti hai? Mein toh pehle kabhi suni hi nahi. Arey yaar, yeh toh scam lag raha hai! Main kuch nahi karungi.
+caller: Madam, please don't be alarmed. It's a standard procedure to prevent fraudulent claims. Think of it as an insurance against someone else fraudulently claiming your cashback. We'll be sending you the UPI ID now. Please do it quickly, the offer is time-sensitive.

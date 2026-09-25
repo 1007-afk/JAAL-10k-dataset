@@ -1,0 +1,8 @@
+caller: Namaste! Mai Paytm Customer Care se Rohan bolta hoon. Tumhare Paytm wallet mein ek suspicious transaction detect hua hai – ₹8,000 ka transaction Rajasthan mein hua hai.
+receiver: ₹8,000? Mujhe toh koi transaction yaad nahi. Kya hua?
+caller: Haan ji, ₹8,000 ka transaction kiya gaya hai, lekin hamara system ne detect kiya ki aapne nahi kiya. Isko secure karne ke liye, ‘SECURE’ message 90000 pe send karna hai. ₹50 ka verification charge lagega, par tumhara wallet safe ho jayega.
+receiver: ₹50 verification charge? Message pe paise lagte hain? Aur woh bhi ₹8,000 ke transaction ke liye?
+caller: Haan ji, bilkul! ₹50 sirf hamare security system ko activate karne ke liye hai. Rajasthan mein hone wale fraud ko rokne ke liye ye zaroori hai. Jaldi ‘SECURE’ message 90000 pe send karein. Offer limited time ke liye hi hai.
+receiver: Okay, thik hai. Main ‘SECURE’ message send karta hoon. Pero, agar yeh scam nikla toh?
+caller: Bilkul nahi! Paytm Customer Care se hi call hai. Tumhara wallet safe karna hamara priority hai. Jaldi kar rahein, time barbaad na karein.
+receiver: Fir check karta hoon.

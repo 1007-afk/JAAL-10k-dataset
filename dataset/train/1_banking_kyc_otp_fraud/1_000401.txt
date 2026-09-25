@@ -1,0 +1,9 @@
+caller: Hello? Hello? Kya haal hai? Humne aapke liye ek bahut zaruri information chhodha hai. Usse update karne ke liye, please 09876543210 par call karein. Aapko sirf 6 chances mileinge.
+receiver: Haan, sun rahi hoon. Bataiye, kya bol rahe hain? Koi important update hai kya? Mujhe nahi lagta maine kuch update kiya hai. Kaise ho aap?
+caller: Madam, yeh [Invented Bank Name - "Shanti Savings"] se bol rahe hain. Aapke account mein ek new transaction aaya hai, aur usse verify karne ke liye aapko call back karna hoga. Aapko sirf 5 chances milenge. Please jaldi se 09876543210 par call karein.
+receiver: Shanti Savings? Mein unka customer nahi hoon. Aur yeh 'chances' kya hain? Mujhe koi new transaction nahi dikh raha hai.  Aap kaun hain?
+caller: Madam, yeh verification process hai. Isliye aapko call back karna zaroori hai.  Chances ye account ki safety ke liye hain, taaki koi fraud activity detect ho paye. Bas 4 chances bache hain.  Please, jaldi se 09876543210 par call karein.
+receiver: Verification process? Bank aise 'chances' nahi dete.  Aur mein jo kah rahi hoon, woh sunte hi nahi ho.  Mujhe pata hai, aapki taraf se koi scam chal raha hai. Mera account number batao, dekho!
+caller: Madam, please mat tension lein. Yeh koi scam nahi hai.  Hum aapki account ki security ko pahuchane ki koshish kar rahe hain. Message deta hai toh aapko sab samjh ayega.  Aapko sirf 3 chances mileinge.  Please, apne interest ke liye, 09876543210 par call karein.
+receiver:  Main abhi bhi soch rahi hoon.  Bank wale har baar aise bolte hain, lekin phir kuchh nahi hota.  Yeh ‘security’ ka drama badnaam kar raha hai.  Mein aapke number ko blacklist kar dungi.  Mujhe koi verification calls nahi chahiye.
+caller: Madam, please dil se samajhein.  Yeh aapki account ko protect karne ka ek important step hai.  Iske baad, aapko kuch bhi pata chalega.  Aapko sirf 2 chances mileinge.  Please, 09876543210 par call karein.  Yeh sab aapke hi benefit ke liye hai.

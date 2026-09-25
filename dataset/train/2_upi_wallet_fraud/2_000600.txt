@@ -1,0 +1,8 @@
+caller: Namaste, main Airtel Payments Bank se Rahul bolta hoon. Aapke Airtel Payments Bank account mein ek suspicious transaction detect hua hai – ₹750 Paytm se. Kya aap is transaction ko recognize karte hain?
+receiver: Haan, hello. ₹750? Mujhe toh koi transaction yaad nahi aa raha. Main check karta hoon.
+caller: Ji, theek hai. Security ke liye, humein aapke registered mobile number par ek OTP verify karna hoga. Woh aapko abhi milna chahiye.
+receiver: Theek hai, OTP mil gaya. ₹750 ka transaction, kuch toh ghalat lag raha hai.
+caller: Shukriya. OTP verify ho gaya hai. ₹750 ka fraud transaction ko reverse karne ke liye, aapko ₹25 ka small processing fee deposit karna padega. Aapko ₹750 refund hone mein 24 hours lag jayenge.
+receiver: ₹25 fee? Aur kaise deposit karun? UPI se?
+caller: Haan, ji. ₹25 aap Airtel Payments Bank ke official UPI ID [invented UPI ID, e.g., airtelrefunds@upi] par deposit karein. Jab payment ho jayega, hum refund process start kar denge.
+receiver: Thoda wait karo, main check karta hoon.

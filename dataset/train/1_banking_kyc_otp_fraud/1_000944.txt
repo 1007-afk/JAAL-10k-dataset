@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? This is Anjali calling from State Bank of India’s fraud prevention department. We’ve detected some unusual activity on your account.
+receiver: Haan, bolie. What kind of unusual activity? I haven't done anything.
+caller: Sir, there’s been an attempt to update your KYC information with a new mobile number. If we don't verify this immediately, your account will be temporarily suspended for security reasons.
+receiver: Oh really? Suspended? But I didn't do anything! What do you need me to do?
+caller: We just need to confirm a few details, sir. Can you please provide the last four digits of your Aadhaar card, and also the OTP that has just been sent to your registered mobile number? It’s a quick process.
+receiver: Aadhaar number and OTP? Over the phone? I’ve heard about these scams. Why can't I just go to the branch and do this?
+caller: Sir, the branch is very busy. This is the fastest way to prevent your account from being locked. Just a few seconds and you’re all set. Your account security depends on it. Also, to make sure this isn't a prank call, can you confirm the last transaction amount you made?
+receiver: Wait a minute. I’m going to call the SBI customer care number on their official website to verify this. I’m not giving you any information over the phone.

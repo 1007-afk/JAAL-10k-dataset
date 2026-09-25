@@ -1,0 +1,8 @@
+caller: You’ve reached a secure hotline for instant rewards. Are you seeking a quick and easy way to boost your income? We’ve identified a lucrative opportunity just for you – a chance to earn extra cash with minimal effort. For only 15 rupees a minute, you can unlock this incredible potential. What's your response, ready to start earning?
+receiver: Hello? Kaise haal hain? Kya ho raha hai? Yeh koi secure hotline nahin hai, bhai. Koi mistake ho gayi hogi.
+caller:  Aapki mistake nahi hai, actually!  But if you want a little bit of money, some extra income, then this number will work for you: 08987654321. Just 15 rupees per minute. There are many more ways to earn, you'll love it. So, tell me, what do you think?
+receiver: Arre bhai, phir se? Maine kaha na yeh galat number hai! Main toh sirf apne cousin Rohan ko call kar raha tha.  Koi aur number try karna hai toh dekho, yeh mera nahi hai.
+caller:  Sorry, sorry!  Galti ho gayi, main soch raha tha ki aapko kuch profitable chahiye tha.  Toh agar Rohan bhi interested hai, toh yeh number bata dena: 08987654321.  Aise hi paise kamaane ka ek aur option hai.  Chalo, bye then!
+receiver: Achcha, theek hai. Thank you for the number, but seriously, yeh mera number nahi hai kisi kaam ke liye. Mujhe toh bas Rohan se baat karni thi. Chalo, have a good day!
+caller: Achcha, theek hai. Maine bola na, galti ho gayi thi. Par agar Rohan bhi kabhi boredom feel karta hai, toh bata dena yeh number: 08987654321. Paise kamaane ka guarantee! Chalo, have a good day yourself!
+receiver: Achha, okay. Chalo, bye! Aur bhai, yeh mera number nahi hai kisi kaam ke liye, sach mein. Bas Rohan se baat karni thi. Good day!

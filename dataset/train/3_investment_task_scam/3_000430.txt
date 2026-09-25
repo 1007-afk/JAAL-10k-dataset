@@ -1,0 +1,10 @@
+caller: Namaste! Kaise haal hai? Main Bharat Vikas Nigam se baat kar raha hu. Tumhara naam Ajay Kumar hai, right? Humme ek special scheme ka announcement karna hai. Tumhari village, Shyam Nagar, Rajasthan mein ek badi project chal rahi hai, aur tumhein usmein participant banane ka opportunity mili hai! Tumhein ₹50,000 ka reward milega agar tum join ho! Kya tum interest rakhte ho?
+receiver: Namaste ji! Achcha haal hai. Haan, mera naam Ajay Kumar Singh hai. ₹50,000 ka reward? Wah! Kyon thamna chahiye?
+caller: Absolutely! Tumhari village mein ek solar power plant banaana hai, aur tumhein project mein help karna hai. Bas tumhein ek small form fill karni hogi, sirf kuch basic details, like tumhara pan card number aur bank account details. Agar tum agree karte ho, toh humtumhein ₹50,000 transfer kar denge. Tumhare pass pan card hai?
+receiver: Pan card hai, lekin woh online hi available hai. Online hi submit kar sakta hoon?
+caller: Haan, online bhi kar sakte ho, lekin humari taraf se support milega warna koi problem hogi. Tumhara bank name aur IFSC code batao, phir hum tumhe link bhejo. Bank name Bharat Sanchar Nigam Limited, IFSC Code BSNL0000123.
+receiver: BSNL? Yeh kitni boring hai! Main HDFC bank ka customer hoon. IFSC code HDFCBBSHHH.
+caller: Okay, okay! Toh, HDFC bank hai. Good. Ab tumhein form fill karna hai. Form mein tumhara address, contact number, aur date of birth likkho. Iske baad, humein pan card aur bank account details confirm karne honge.
+receiver: Date of birth? Mujhe thoda suspicion lag raha hai. Yeh sab itna easy kyun hai?
+caller: Don’t worry, Ajay ji! Yeh sirf registration ka part hai. Tumhein ₹50,000 kamaane hai, kya mat karo! Tumhein baraa kuch bhi nahi karna hai. Just fill the form and we will take care of the rest.
+receiver: Thoda time dena hai. Main form fill kar leta hun.

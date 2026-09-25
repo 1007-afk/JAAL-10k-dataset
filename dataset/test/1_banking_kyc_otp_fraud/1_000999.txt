@@ -1,0 +1,7 @@
+caller: Namaste Madam, mera naam Ravi hai, BharatPay se. Aapke BharatPay account mein security breach ka suspicion hai. Aapka account suspend hone se pahle, verification karna zaroori hai.
+receiver: BharatPay se? Mujhe toh koi message aaya nahi tha. Kya hua?
+caller: Madam, cybercriminals ne attempts kiye hain. Aapko apne account ko secure rakhne ke liye kuch details confirm karna hai. Apna PAN card number aur registered mobile number bataiye. Zaroori hai, nahi toh account suspend ho jayega.
+receiver: PAN card number bataun? Aur mobile number bhi? Yeh thoda risky lag raha hai. Mein bank branch mein jaakar hi verify karungi.
+caller: Madam, branch band hai aaj. Emergency situation hai, online hi verify karna hoga.  Aapka ₹10,000 bhi risky mein hai. Quick action le lijiye, warna account freeze ho jayega aur paisa bhi. Bataiye, PAN number kya hai?
+receiver: Theek hai, theek hai... meine kabhi online detaunhi di. Par mera paisa important hai.  My PAN number is [Invented PAN Number].  Aur OTP milega kya ismein?
+caller: Haan madam, OTP mil jayega.  Aapko ek OTP milega aapke registered mobile number par. Woh OTP mujhe bataiye, verification complete ho jayega aur aapka account safe rahega. Jaldi karo, time kam hai.

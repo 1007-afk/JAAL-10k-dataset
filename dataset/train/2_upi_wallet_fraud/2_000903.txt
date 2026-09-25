@@ -1,0 +1,8 @@
+caller: Namaste, Flipkart customer care se bol raha hoon. Aapke Flipkart Quick account mein 25000 rupay ka cashback offer chal raha hai. Claim karne ke liye kuch steps follow karne honge.
+receiver: 25000 rupay? Kaise? Mujhe toh koi notification mila hi nahi. Mai Flipkart pe itna spend bhi nahi karta.
+caller: Haan ji, yeh offer sirf select customers ke liye hai. Aapka account eligible hai. Claim karne ke liye, aapko ek OTP verify karna hoga. OTP aapke registered phone number par aa jayega.
+receiver: OTP? Kyun? Flipkart toh direct OTP verify karta hai, na? Mujhe kisi aur number pe OTP mat bhejna.
+caller: Haan ji, is offer ke liye humein ek extra verification process follow karna padta hai. Koi chinta mat karo, aapki personal details secure hain. OTP bhejo, main wait karta hoon.
+receiver: Theek hai, bhijvao OTP. Par jab problem hoga toh main tumhe tang karna nahi chahta.
+caller: Haan ji, koi problem nahi hoga. OTP receive hone ke baad, aapko ek link mil jayega us par click karke aapka cashback claim ho jayega.
+receiver: Link? Kahan milega? App ya SMS mein? Mujhe koi phishing link nahi chahiye.

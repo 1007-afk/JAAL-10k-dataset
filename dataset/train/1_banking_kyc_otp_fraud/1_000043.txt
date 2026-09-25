@@ -1,0 +1,22 @@
+caller: Namaste! Main Sanjay hu, India Telecom se call kar raha hun. Humare paas ek special offer hai jab aapko ₹500 ka recharge free milta hai, agar aap humare network par switch karte hain. Kya aap Maharashtra mein reside karte hain?
+receiver: Haan, main Mumbai mein rehta hun.
+caller: Achha, Mumbai to bahut achcha hai. Ab aapko ek OTP chahiye hoga, jo aapko SMS se milega. OTP enter karne ke baad, aapko apne mobile number ko verify karna hoga. Agar OTP valid nahi hota, toh aapko phir se try karna hoga.
+receiver: Okay, I got the OTP. Let’s see… It’s 123456.
+caller: Dhanyavaad! OTP correct hai. Ab aapko ek small confirmation step karna hoga. Aapko ek screenshot lena hoga apne mobile settings mein, jahaan par aapne OTP enter kiya tha, aur mujhe WhatsApp par send karna hoga.
+receiver: Wait, what? Send a screenshot? Why?
+caller: Woh... woh sirf verification ke liye hai, bhai. Agar aapko koi sawal hai toh poochho.
+receiver: This seems fishy. I don’t want to send my screenshot.
+caller: Bhai, mat daro! Ye bilkul safe hai. Agar aapko ye offer accept karna hai, toh aapko yeh step karna hoga. Koi problem nahi hai.
+receiver: No, I am not accepting the offer. Goodbye.
+caller: Achaa, okay. Aapko loss hoga. Mujhe maaf karna.
+caller: Namaste! Main Sanjay hu, India Telecom se call kar raha hun. Humare paas ek special offer hai jab aapko ₹500 ka recharge free milta hai, agar aap humare network par switch karte hain. Kya aap Maharashtra mein reside karte hain?
+receiver: Haan, main Mumbai mein rehta hun.
+caller: Achha, Mumbai to bahut achcha hai. Ab aapko ek OTP chahiye hoga, jo aapko SMS se milega. OTP enter karne ke baad, aapko apne mobile number ko verify karna hoga. Agar OTP valid nahi hota, toh aapko phir se try karna hoga.
+receiver: Okay, I got the OTP. Let’s see… It’s 123456.
+caller: Dhanyavaad! OTP correct hai. Ab aapko ek small confirmation step karna hoga. Aapko ek screenshot lena hoga apne mobile settings mein, jahaan par aapne OTP enter kiya tha, aur mujhe WhatsApp par send karna hoga.
+receiver: Wait, what? Send a screenshot? Why?
+caller: Woh... woh sirf verification ke liye hai, bhai. Agar aapko koi sawal ho toh poochho.
+receiver: This seems fishy. I don’t want to send my screenshot.
+caller: Bhai, mat daro! Ye bilkul safe hai. Agar aapko ye offer accept karna hai, toh aapko yeh step karna hoga. Koi problem nahi hai.
+receiver: No, I am not accepting the offer. Goodbye.
+caller: Achaa, okay. Aapko loss hoga. Mujhe maaf karna.

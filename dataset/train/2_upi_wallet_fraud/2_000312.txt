@@ -1,0 +1,9 @@
+caller: Namaste Aunty, main Bharat Petroleum se Rahul bolta hoon. Aapke Bharat Petroleum pump par cashback offer chal raha hai.
+receiver: Oh, really? Cashback offer? Kitna cashback milega?
+caller: Aap sirf 5000 rupees Paytm se ek transaction kar dijiye, aur aapko 2500 rupees cashback mil jayega. Offer sirf aaj ke liye hai.
+receiver: 5000? Aur mujhe Paytm par send karna hai?  Yeh theek hai na?  Koi scam nahi hai?
+caller: Bilkul nahi Aunty. Yeh Bharat Petroleum ka official offer hai. Apne Paytm number se send kariye, jiska start 98... se hota hai.
+receiver: Okay, 98... se shuru hone wala number...  Thoda wait karo, main check karti hoon.  Bas ek baar confirm kar lo number sahi hai ya nahi.
+caller: Ji Aunty, jaldi karo. Time limit hai aur offer finish hone wala hai.  9876543210.  Yeh number sahi hai?
+receiver: Haan, woh correct hai.  Main abhi send kar deti hoon.  Cashback kab milega?
+caller: Cashback immediately mil jayega, Aunty. Check kariye apna Paytm wallet. Shukriya!

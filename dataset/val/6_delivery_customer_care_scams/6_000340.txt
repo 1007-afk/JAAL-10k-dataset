@@ -1,0 +1,8 @@
+caller: Namaste, Madam. I am calling from Bluedart Courier Services. We have a package addressed to you, but there’s been an unusual hold at our sorting facility due to a discrepancy in the payment details.
+receiver: Bluedart? Package? Mujhe koi order toh kiya hi nahi tha. Aur payment discrepancy ka matlab kya hai?
+caller: Ji, Madam. Sometimes, orders get mistakenly sent. The system flagged a potential issue – it seems a small amount, ₹250, was declined during processing. Just to clear this up and release the package, we need to verify a one-time OTP sent to your registered mobile.
+receiver: ₹250? OTP? Mein toh koi payment nahi kiya. Aur kabhi Bluedart se koi package bhi nahi aya tha. Yeh thoda suspicious lag raha hai.
+caller: Madam, please don't worry. It’s a standard security protocol. We need to authenticate you to prevent fraudulent activity. We can’t release the package until this is confirmed.  It’s a simple process, just a quick OTP verification. Think of it as ensuring your package arrives safely.
+receiver: Theek hai, mujhe OTP mila hai. 123456. But ek baat batao, package mein kya hai? Aur mujhe yeh package kis company se aaya hai?
+caller: Wonderful, Madam. Thank you for your cooperation. The OTP is confirmed. The package contains a new smart watch, and it was shipped by TechZone. It is ready for delivery. For the final step, could you please share the last four digits of your bank account to quickly resolve the discrepancy? This is just for a quick verification.
+receiver: Bank account number? Yeh toh bilkul galat hai. Mein toh koi bhi details nahi dene wali. Yeh scam lag raha hai! Main police mein complaint karungi.

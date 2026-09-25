@@ -1,0 +1,7 @@
+caller: Namaste, mein ICICI Bank se Aakash bolta hoon. Aapke account mein suspicious activity detect hui hai. KYC update process start karna hoga, warna account suspend bhi ho sakta hai.
+receiver: Kya? Account suspend? Mein toh abhi online transaction kar raha tha. KYC update zaroori hai?
+caller: Haan sir, security ke liye compulsory hai. Humara system aapki information verify kar raha hai.  Aapka Aadhaar card number aur OTP bata dijiye, please.  Bas ek minute lagega.
+receiver: Aadhaar number? OTP? Mein toh bank mein kabhi bhi Aadhaar number nahi deta. Ye theek nahi lag raha hai. Koi aur tarika hai?
+caller: Sir, humare senior officer ka instruction hai, jo bhi verification fast ho aapko convenient lage, woh karna hai. OTP mein security hoti hai, aapko no problem hona chahiye.  Aapka account suspend na ho, please cooperate kijiye.
+receiver: Theek hai, thoda tension aa raha hai, par mein understand karta hoon. OTP check kar raha hoon...
+caller: Thank you sir. Ab hum aapke bank account se ek small verification fee deduct karenge, sirf ₹50.  Aapko ek link mil jayega, us par click karke payment confirm kijiye. Account safe rahega.

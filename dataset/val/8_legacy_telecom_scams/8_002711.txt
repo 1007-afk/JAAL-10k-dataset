@@ -1,0 +1,9 @@
+caller: Namaste! Main Sanjay hoon, India Telecom se call kar raha hoon. Hum logon ka ek special offer aaya hai – sabhi subscribers ko ₹500 cashback milega agar woh apni broadband plan upgrade karein. Aapki broadband connection active hai kya?
+receiver: Hello Sanjay, yes my broadband connection is working fine. But upgrading seems like a hassle. What kind of upgrades are available?
+caller: Aapko sirf ek click mein upgrade করতে হবে। Hum log aapko ek unique code de denge, jo aap apne online account mein enter karenge. Is code ko enter karne se aapki plan automaticallly upgrade ho jaayegi aur ₹500 cashback aapke balance mein add ho jayegi. Code aapko abhi send ho jayega.
+receiver: Okay, what’s this unique code?
+caller: Code hai ‘ABC789’. Just copy and paste it in your account settings. Don’t worry, yeh totally safe hai. Aur hum ne aapko ek small reminder de diya hai – upgrade karne ke baad, aapko ek small survey bhi fill karna hoga, just for feedback.
+receiver: Alright, I’ve entered the code. It says the upgrade is confirmed and the cashback is being processed.
+caller: Excellent! Cashback aapke account mein 24 hours mein transfer ho jayega. Koi bhi confusion ho toh mujhe call back kar sakte hain.
+receiver: Great, thank you so much for your assistance, Sanjay.
+caller: Aapka swagat hai! Enjoy your upgraded broadband and the cashback.

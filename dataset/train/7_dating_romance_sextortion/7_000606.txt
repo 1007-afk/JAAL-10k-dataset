@@ -1,0 +1,7 @@
+caller: Hello? Is this Neha? This is Rohan, I’m 26 and just moved to Bangalore for a new job. Trying to make some friends here, especially girls. Send a message to FRIENDLY to 9123456789. First 5 messages are free, after that it's ₹2 per message. Let me know if you're interested in chatting!
+receiver: Hi? I think you have the wrong number. This isn’t Neha.
+caller: Oh no! Sorry about that! Must have mistyped. Still getting used to the new number. Hope you’re having a good day though!
+receiver: Yeah, all good. Happens all the time. Bangalore can be a bit confusing at first. If you need anything, like directions or restaurant recommendations, feel free to ask.
+caller: That's really kind of you! I'm looking for someone to explore Bangalore with, you know, check out the pubs and cafes. It's a bit lonely here by myself. What do you do? Maybe we have something in common. So, if you’re free sometime, just text FRIENDLY to 9123456789.
+receiver: I'm a software engineer, pretty busy with work usually.  I'm not really looking for someone to explore with, but I wish you luck finding friends. Enjoy your time in Bangalore.
+caller: Really? A software engineer! That’s awesome! Listen, I actually have a really good project going on, a startup. And it's been tough going, I'm short on funds for a vital marketing campaign. Could you maybe lend me ₹5000? I'll pay you back double when we hit our targets, I promise! Just send it to this UPI: rohan.ventures@axis.

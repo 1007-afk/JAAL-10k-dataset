@@ -1,0 +1,9 @@
+caller: Namaste! Sir, is your name Rajesh? We are calling from LoanFirst, a government-approved loan provider. We saw your application and you’re pre-approved for a personal loan of ₹75,000. Very easy process, sir!
+receiver: Haan, Rajesh naam hai. LoanFirst? Pre-approved? Mujhe application toh nahi kiya tha.
+caller: No problem, sir! Our team identified your eligibility based on public records. Just a few quick details to confirm. What is your occupation, sir? And approximately how much is your monthly salary?
+receiver: Main ek shopkeeper hoon. Monthly income roughly ₹40,000 hi hogi. Lekin, mujhe loan ki zarurat bhi nahi hai abhi.
+caller: That’s perfectly fine, sir! But this is a great opportunity. We are offering a special limited-time offer. However, to activate it, we need a small processing fee of ₹2,500 to verify your details. It will be deducted from your loan amount.
+receiver: ₹2,500? Processing fee? Koi bhi loan app aise fees leta hai? Aur mujhe loan bhi chahiye nahi!
+caller: Sir, this is a standard security measure to prevent fraud.  Without it, we cannot release the funds.  We have many complaints about people taking loans and then disappearing. If you refuse, we will have to cancel the pre-approval and mark your file as high-risk. This could affect your future loan applications. Think about it, sir. We don't want to do that.
+receiver: High-risk? Yeh kya baat ho rahi hai? Mein koee fraud nahi karunga. Aapko yeh fee nahi chahiye.
+caller: Sir, we're just following protocol.  We can’t risk it. And there's more – to ensure your safety, we need to send

@@ -1,0 +1,12 @@
+caller: Lo ji, kaise haal hai? Suno, ek bahut mahatvapurn baat hai. Tumhara naam Rajeev Kumar hai na?
+receiver: Haan, bhai. Mein Rajeev Kumar hoon. Kya baat hai?
+caller: Tumhari mobile number 9876543210 hai na?
+receiver: Haan, woh bhi correct hai.
+caller: Tumhe ek surprise milega! Tumhara naam ‘Golden Chance’ lottery mein daala gaya hai. ₹75,000 ka prize toh padega hi!
+receiver: ₹75,000? Wah, bhai! Seriously? Kaisa lottery hai?
+caller: Ye ek special campaign hai jo humari network partners ke saath chal raha hai. Tumhein ek SMS mila honga, usmein claim code hoga. Claim code hai AA789.
+receiver: AA789? Okay, note kar leta hoon. Lekin ye number toh…yeh koi premium number nahi hai, hai na? Aur tumhare network partners ka naam kya hai?
+caller: Don’t worry about the number, it’s just for this particular contest. Our partner is ‘Shine Telecom’. Just dial this number 9876543211 and tell them AA789. It’s super easy!
+receiver: 9876543211? Shine Telecom? Okay, okay. Par agar maine call kiya aur kuch aur hua toh? Mera time valueable hai. Aur ye code AA789, main bhool nahi sakta.
+caller: Sir, it’s absolutely secure.  We will never ask for any personal details like your bank account or address.  Just dial the number and provide the code.  This offer is valid until tomorrow morning, so hurry up!
+receiver: Tomorrow morning? Okay, fine. But if I call and get some different story then?  Aapko pata hai, itna jaldi bol rahe hain... Aur Shine Telecom ka number verify kar le, please.

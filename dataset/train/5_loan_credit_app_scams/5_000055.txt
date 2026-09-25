@@ -1,0 +1,7 @@
+caller: Namaste! Main RuPay Loan Service se bol raha hoon. Aapki file approved ho gayi hai ₹75,000 ka instant loan, sirf KYC complete karne ke baad. Aapki information ne bahut achha impression diya hai.
+receiver: Oh, really? ₹75,000? Mujhe toh ek loan chahiye tha. KYC ka matlab hai?
+caller: Ji bilkul! KYC ka matlab hai Know Your Customer. Aapko sirf apna Aadhaar card number aur bank account number share karna hai. Phir instant approval ho jayega. Koi aur question hai?
+receiver: Aadhaar card number? It sounds a little risky, doesn't it?
+caller: Risky nahi hai! Yeh completely secure process hai. Hum RuPay ke authorized representative hain. Agar aapko doubt hai toh aap RuPay customer care number 1800-835-0900 par call kar sakte hain.
+receiver: Okay, fine. Let me just double-check. What is the interest rate on this loan?
+caller: Interest rate? Woh toh abhi disclose nahi kar sakte. Loan get karne ke baad disclose karenge. Lekin aap jald se jald apna details share karein, warna offer expire ho jayegi. Phir se bolta hoon, aapka Aadhaar number aur bank account number share karein.

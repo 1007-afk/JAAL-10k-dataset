@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel Customer Care se Rohit bol raha hoon. Aapke Airtel Payments Bank account mein security breach ka attempt hua hai. Aapko apna account secure karne ke liye kuch details confirm karne hain.
+receiver: Oh, seriously? Airtel Payments Bank mein kuch problem? Mujhe toh koi notification nahi aaya. Kya confirm karna hai?
+caller: Haan, sir. Ek unauthorised login attempt hua hai. Security ke liye, mujhe aapka OTP aur Airtel Payments Bank account number chahiye. Iske bina aapka account block ho sakta hai.
+receiver: OTP? Account number? Yeh kuch suspect lag raha hai. Airtel Customer Care aise direct OTP poochta hai kya? Mein Airtel app check karta hoon.
+caller: Sir, yeh urgent hai. Hackers ne aapke account mein access try kiya hai. OTP sirf verification ke liye hai, account secure karne ke liye. Aur koi wait nahi karna chahiye, otherwise aapka paisa risk mein aa jayega.
+receiver: Paisa risk mein? Theek hai, wait karo. Mai apna Airtel app check karta hoon. Ek minute.
+caller: Sir, please jaldi karo. Hackers ka attempt abhi bhi chal raha hai. Aur agar aap time waste karenge toh aapka paisa chala jaayega.

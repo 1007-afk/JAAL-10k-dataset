@@ -1,0 +1,6 @@
+caller: Namaste, main PhonePe se Rahul bol raha hoon. Aapke PhonePe account mein kuch suspicious activity detect hui hai. Security ke liye, humein aapki verification karni hogi.
+receiver: Kya? Suspicious activity? Mujhe toh kuch pata nahin hai. Verification ke liye kya karna hai?
+caller: Sir/Madam, verification ke liye, mujhe aapka PhonePe UPI PIN aur OTP bataiye taaki hum aapke account ko secure kar sakein. Jaldi karo, yeh system automatic hai aur kuch der mein account block ho sakta hai.
+receiver:  Dekhiye, main UPI PIN kisi ko kabhi bhi nahi bataata. Aur OTP bhi abhi aya nahin hai. PhonePe customer care number toh available hai, main wahaan call karta hoon.
+caller: Sir/Madam, aap galat soch rahe hain. Customer care pe wait karne mein bahut time lagega aur tab tak aapka account block ho sakta hai. Main PhonePe ka authorized agent hoon aur bas aapki madad karne ke liye call kar raha hoon. Agar aapka account secure karna hai toh aapko thoda cooperation karna padega. Hum aapko Paytm se ₹500 cashback offer bhi kar rahe hain verification ke baad.
+receiver: ₹500 cashback? Aur account secure bhi hoga? Theek hai, par pehle bataiye, aap mujhe verification ke liye kya-kya puchhenge?

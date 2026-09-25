@@ -1,0 +1,7 @@
+caller: Namaste. This is Inspector Verma calling from the Delhi Customs Department. We've intercepted a package addressed to you containing items of serious concern.
+receiver: Hello? Customs? What package are you talking about? I haven't ordered anything recently.
+caller: Ji, according to our records, a parcel arrived from overseas, declared as "household goods," but our scanners flagged it for further inspection. It contains what appears to be counterfeit currency and potentially, narcotics. We need to confirm your involvement.
+receiver: Counterfeit currency? Narcotics? This is ridiculous! I would never be involved in anything like that. Please tell me the tracking number.
+caller: We understand your shock, sir. For security reasons, we cannot disclose the tracking number over the phone. However, to clear this up quickly and prevent legal action against you, we need you to deposit ₹25,000 as a processing fee to verify your identity and prove you were not knowingly involved.
+receiver: ₹25,000? What? This sounds like a scam. Why can't I go to the customs office and sort this out in person?
+caller: Sir, due to the sensitive nature of this case and to protect you from further complications, it's best to resolve this remotely. We’ll set up a video call so you can see the evidence. Just deposit the money into this account: [Provides a long, random account number] and send us the transaction receipt.

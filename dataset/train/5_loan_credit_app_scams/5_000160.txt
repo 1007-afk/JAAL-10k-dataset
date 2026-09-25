@@ -1,0 +1,8 @@
+caller: Namaste! Main EasyCash Solutions se Rohit bol raha hoon. Aapka naam Priya Sharma hai, correct?
+receiver: Haan, main hi Priya Sharma hoon. Kya baat hai?
+caller: Priya ji, humein pata chala hai ki aapki financial situation thodi tight chal rahi hai. Hum offer kar rahe hain ek instant loan, sirf ₹10,000, bahut hi kam interest rate se. Abhi aapki credit report achchi nahi hai, lekin hum help kar sakte hain.
+receiver: ₹10,000 loan? Interest kitni hogi? Aur credit report achhi nahi hai, yeh kaise pata?
+caller: Interest sirf 8% hogi, bahut kam hai. Aur aapki credit report, humein CIBIL se access hai. Aapko loan get karne ke liye sirf ₹500 verification fee bharne hogi. Paytm ya Google Pay se kar sakte hain, ek OTP aayega.
+receiver: ₹500 verification fee? Ye thoda suspicious lag raha hai. Koi document submit karna hai kya?
+caller: Koi document nahi, Priya ji. Just verify kar lijiye, aur loan aapke account mein deposit ho jayega. Otherwise, humko maaf karna padega, yeh offer sirf limited time ke liye hai. Jaldi karo, warna koi aur le jayega. Agar aap nahi karte toh hum ek photo verification bhi kar sakte hain, bas aapki smile dekhna chahte hain.
+receiver: Photo verification? Nahin, main nahi karungi. Thanks, bye.

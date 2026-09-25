@@ -1,0 +1,9 @@
+caller: Namaste, Madam! Mera naam Raj hai, CreditPlus Solutions se. Aapko urgent loan chahiye kya? Koi bhi emergency, medical bill ya kuch aur?
+receiver: Ji, haan, thoda kaam ka loan chahiye tha. Meri beti ki school fees bhi pending hai.
+caller: Bilkul! CreditPlus mein hum aapko fastest approval dete hain. Sirf ₹10,000 tak ka loan, zero interest! Aapka naam aur aadhaar number bataiyein, main check kar leta hoon.
+receiver: Mera naam Anjali Sharma hai, aur aadhaar number... woh main baad mein bataungi. Sab theek hai na?
+caller: Haan haan, Madam! Bilkul theek. Bas verification ke liye. Ab aapka bank account number aur OTP bataiyein, taaki process start ho sake. Agar aap OTP nahi dete, toh hum loan deny kar denge.
+receiver: OTP? Main OTP kabhi share nahi karti. Yeh kuch ghalat lag raha hai.
+caller: Madam, aapko loan chahiye ya nahi? Yeh process hai. Agar aap loan deny kar rahe hain toh sorry.
+receiver: Main nahi luga. Ye scam hai.
+caller: Seriously? Aapko pata bhi hai, kitne log loan deny karte hain jab unhe free mein mil sakta hai? Koi baat nahi, Madam. Apna din achha banayein.

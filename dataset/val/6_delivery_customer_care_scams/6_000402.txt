@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? This is Akash from BlueSwift Logistics calling regarding a package addressed to you. It's currently held at our Jaipur hub due to an outstanding customs clearance fee.
+receiver: Customs clearance fee? I haven’t ordered anything recently.
+caller: Sir, the tracking number is BW789456123. It seems to be a high-value electronic item. To release it, you’ll need to pay a fee of ₹3,500. You can pay securely through our website.
+receiver: ₹3,500? I really don’t think so. Can you tell me what item it is, and who sent it?
+caller: Sir, the item description is listed as "Smart Watch - Model X". The sender details are somewhat unclear, but we need the payment to proceed. For verification, could you quickly share the last four digits of your bank account number? Just to confirm the payment details.
+receiver: Absolutely not! That’s a scam. I'm reporting this.
+caller: Sir, please don’t be alarmed. This is a standard security procedure. If you don't share this information, the package will be returned to the sender. Just four digits, sir?
+receiver: I'm hanging up.

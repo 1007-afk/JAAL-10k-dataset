@@ -1,0 +1,15 @@
+caller: Namaste ji, SecureFinanceSolutions.in se main bol raha hoon. Kya aapko jaldi se paisa chahiye, kisi bhi purchase ke liye? Ya phir aapko rent bharna hai, ya ghar ke bills ke liye? Koi matter nahi, hum madad kar sakte hain. Aapka naam jaan sakta hoon, please?
+receiver: Ji, mera naam Priya hai. Main abhi koi shopping nahi kar rahi hoon, par mujhe rent ka payment delay hua hai.
+caller: Priya ji, hamara company bahut hi reliable hai. Ham aapko quick loan provide kar sakte hain, just few hours mein. Rent bharnewali tension se bachie. Aur koi problem nahi hogi, trust me. Aapko kitna loan chahiye, Priya ji?
+receiver: Actually, maine online ek course ki hai, aur usmein registration fee pay karna hai. Woh around ₹5000 hai.
+caller: Oh, thoda bada amount hai, Priya ji. Hum aapko upto ₹20000 tak loan de sakte hain. Agar aapki credit score normal hai, to aap easily approve ho jayenge. But even if it’s not good, we don’t worry. Jab aapki money ready ho, to aapne loan repay karna shuru kar sakte hain. Kitna loan chahiye aapko, Priya ji?
+receiver: Mein ₹8000 ka loan chahungi.
+caller: Perfect! Aapko sirf small interest charge hoga. Loan process jaldi se complete hoga. Aapko apne bank account details mil jaayengi, aur hum aapko SMS se notification denge. Aapko kuch questions poochhenge, simple questions hain. Kaise hai aap, Priya ji?
+receiver: Ji, sahi hai. Mere account ka IFSC code kya hai?
+caller: Please aap apne internet banking ID and password batayein. Just for verification purposes only.
+receiver: Nahin, nahin! Main woh details nahi bataungi. Ye dukaan hai, mujhe koi need nahi hai.
+caller: Priya ji, ye genuinely help karne ke liye hai. Agar aapko loan milega, to aapko sirf interest charge hoga. And we will never ask for your passwords. Are you sure about this?
+receiver: Nahin, main sure nahi hoon. Mujhe koi suspicion hai. Main abhi call khatam kar deta hoon.
+caller: Priya ji, please! Don't go away! We are here to help you. One last chance, give us your details.
+receiver: Bye bye.
+caller: Seriously? You are wasting our time!

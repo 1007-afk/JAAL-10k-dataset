@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Sharma? This is Akash from Paytm Payments Bank. We're calling regarding a pending cashback of ₹5000 on your recent transaction.
+receiver: ₹5000? Kya transaction? Mainko koi notification nahi mila.
+caller: Yes, ma'am. A payment of ₹25,000 was made through your Paytm wallet to a merchant identified as 'Lucky Deals Online'. A promotional cashback was applied, but it requires a small verification fee to process.
+receiver: Verification fee? Paytm mein cashback ke liye fee lagti hai? Yeh toh pehle kabhi nahi suna.
+caller: It's a one-time security measure, ma’am. Just ₹500 to ensure the transaction is legitimate and the cashback is credited to your account. We can send you a secure link to make the payment.
+receiver: ₹500? Aur woh link send karo. Dekhte hain. Par mainko doubt ho raha hai.
+caller: Absolutely, ma'am. The link is paytm-cashbackverify.com. Please use your Paytm UPI ID to complete the payment. It's very simple and will release your ₹5000 cashback immediately. Don't delay, offer valid for just 1 hour.

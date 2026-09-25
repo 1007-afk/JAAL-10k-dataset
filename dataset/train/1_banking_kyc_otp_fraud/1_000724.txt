@@ -1,0 +1,9 @@
+caller: Namaste, this is Rohan from the Tata Technologies recruitment team. I’m calling about your recent interest in a Senior Software Engineer position. Did you submit an application through our portal last month?
+receiver: Hello? Ji, main sun raha hoon.  Aapne kya kaha tha, mujhe samajh nahi aaya.  Please say again.  Kahaan se karibatay hain aap?
+caller: Yes, hello! Sorry, the connection might be a little fuzzy. Rohan here, from Tata Tech. We saw you were looking at the Senior Software Engineer roles and wanted to check if you've applied. Could you tell me which email address you used when submitting your application? Something like rajesh.verma@gmail.com, perhaps?
+receiver:Haan, Rohan ji. Mera email id hai raju.verma@outlook.com.  Aur, aapke office ka address kahan hai? Mumbai mein hai na?
+caller: Absolutely, Raju. That’s perfect. Now, let’s talk about the next steps. We're trying to fill these positions quickly, so we’ll be scheduling initial screenings within the next 5-7 working days. But first, I just need to double-check one small piece of information – could you please confirm the last three digits of your Aadhar card number? It’s only for verification purposes, completely secure.
+receiver:Ji, Rohan bhai. Aadhar ke peeche teen charekter kaise honge?  Aur, yeh job Delhi mein hai ya Bangalore mein?
+caller: Just the last three digits, Raju. They would be something like... 876. And yes, currently, most of these Senior Software Engineer roles are based in Bangalore, but we are open to considering candidates from other locations as well.
+receiver: 876.  Okay, thank you.  Aapne jo kaha tha, woh samajh gaya hoon.
+caller: Great! Wonderful. Just one final thing… to finalize everything, I require your bank account details for processing your salary.  Could you provide those now?

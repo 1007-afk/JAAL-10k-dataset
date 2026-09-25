@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Kumar? My name is Inspector Singh, calling from the Delhi Customs Department. We have intercepted a parcel registered under your name containing suspicious items.
+receiver: Haan, main Mr. Kumar hi hoon. Parcel? Kya baat hai? Mein toh koi parcel nahi bheja tha.
+caller: Sir, our scanners flagged the package due to unusual density. Preliminary investigation suggests it contains items related to illegal cryptocurrency mining equipment. This is a serious offense, sir.
+receiver: Cryptocurrency? Illegal? Arre yaar, yeh sab jhooth hai! Mein toh itna bhi nahi jaanta! Mein toh retire ho chuka hoon, ghar pe baithta hoon.
+caller: Sir, we need your cooperation to resolve this quickly. To clear the parcel and avoid legal proceedings, we require a small processing fee of ₹7,500. You can deposit it into the provided bank account. We need this urgently to expedite the investigation and prevent further action.
+receiver: ₹7,500?  Processing fee?  Inspector sahab, yeh toh theek nahi lag raha hai.  Mein police station mein aake baat kar sakta hoon?
+caller: Sir, for security reasons, we prefer online transactions. It's a standard procedure to prevent fraud. To proceed, kindly send us a screenshot of the payment confirmation. We’ll then send you a reference number to close this matter. A team is already on the way to your address to seize the contents of the parcel if we do not hear from you soon.

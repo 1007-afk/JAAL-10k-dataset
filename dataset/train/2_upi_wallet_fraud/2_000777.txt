@@ -1,0 +1,8 @@
+caller: Namaste, main Bharat Gas customer service se baat kar raha hoon. Aapke Bharat Gas connection mein kuch problem hai aur isko suspend karne ka risk hai.
+receiver: Oh? Bharat Gas? Mein to kuch pata nahi tha. Kya hua?
+caller: Sir, aapke account mein pending dues hai, 4500 rupay. Agar aap isko clear nahi karte toh connection cut ho sakta hai.
+receiver: 4500 rupay? Mein hamesha time se pay karta hoon.
+caller: Sir, system mein error dikha raha hai. Aapko instant payment karna hoga. Ke Liye, mujhe aapki UPI ID ya bank account number dedo. Verification ke liye sirf.
+receiver: UPI ID? Mera UPI ID [redacted] hai. Lekin main time se pay karta hoon, ye kaise ho sakta hai?
+caller: Haan sir, same ID hi hai.  Aapko abhi ek payment link milega aapke WhatsApp par.  Payment karne ke baad, main confirmation kar dunga.  Koi bhi confidential details share na karein, sirf link pe click karein aur payment complete karein.
+receiver: WhatsApp par link? Theek hai, main dekhta hoon.

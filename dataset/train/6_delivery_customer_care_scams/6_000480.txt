@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart Customer Support se Sunil bolta hoon. Aapke account mein ek transaction ki attempt hui hai, jo fail ho gaya hai. Security ke liye, humein confirm karna hoga.
+receiver: Oh, really? Flipkart se? Haan, theek hai. Kya hua exactly? Mein toh koi transaction nahi kiya tha.
+caller: Sir, ek attempted transaction ₹4,800 ka hua hai, Nepal mein. Aapko pata bhi nahi hoga. Humein aapka OTP chahiye hoga aur kuch details taaki hum isko block kar sakein aur aapko secure kar sakein.
+receiver: Nepal? ₹4,800? Woh toh bahut zyada hai! OTP nahi dunga mein, tum log fake ho. Flipkart kabhi aisa nahi karta.
+caller: Sir, please, haste na chalein. Yeh scammer bahut smart hote hain. Agar aapko apna account secure karna hai toh please OTP de dijiye. Main aapko confirm kar sakta hoon ki hum legit hain. Main aapko aapke order history ka last 4 digits bata sakta hoon.
+receiver: Haan batao, check karte hain.
+caller: Sir, aapke last 4 order digits 7892 hain. Ab please apna OTP de dijiye taaki hum isko block kar sakein. Thoda time waste ho jayega par aapka account safe rahega.
+receiver: Bas ek minute ruk jao. Mein Flipkart app check karta hoon.

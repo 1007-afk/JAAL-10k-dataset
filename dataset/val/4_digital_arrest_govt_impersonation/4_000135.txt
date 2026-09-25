@@ -1,0 +1,7 @@
+caller: Namaste, sir. Speaking with the Cyber Crime Investigation Cell. We’ve detected suspicious activity on your linked bank account – unusual transfers originating from overseas.
+receiver: Kya? Suspicious activity? Mein toh koi transfer nahi kiya. Bank account mein kya hua? Aapka naam kya hai aur kaise pata chala?
+caller: Ji, my name is Inspector Sharma. We've traced the transactions to an illegal online gambling site. To secure your funds and prevent further losses, we require you to confirm your OTP – the one-time password sent to your registered mobile number. This is standard procedure to freeze the account immediately.
+receiver: OTP? Arre, inspector sahib, yeh toh risky lag raha hai. Main thoda doubt kar raha hoon. OTP give karne se fraud aur badh jayega. Tum log check kar sakte ho na, ki OTP genuine hai ya nahi?
+caller: Sir, time is critical. Delaying the OTP verification could result in significant financial loss. Think of it as a safety measure—we are protecting you.  The OTP is a necessary step to prove you are the account holder.  We need it now to block the fraudulent transfers.  Please provide it.
+receiver: Okay, okay. But first, can you tell me the last four digits of my account number? Just to confirm you are talking about my correct account.
+caller: Absolutely, sir! It’s 4567. Now, please provide the OTP, and we'll resolve this immediately. We are just doing our job to secure your money. Don't worry!

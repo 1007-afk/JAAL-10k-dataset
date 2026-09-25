@@ -1,0 +1,6 @@
+caller: Namaste, is this Priya Verma? I'm calling from PhonePe security. We've detected an unusual login attempt from a foreign IP address on your account.
+receiver: PhonePe? Oh, really? Which foreign IP address? I haven't been anywhere recently.
+caller: It appears to be originating from Indonesia, ma'am. To secure your account and prevent any unauthorized transactions, we need to verify a few details. Could you please confirm the last six digits of your bank account linked to PhonePe?
+receiver: Bank account number? Why do you need that? PhonePe doesn't usually ask for that. This sounds very suspicious.
+caller: Ma'am, please understand, this is a standard security protocol. We need to verify that you are the rightful owner of the account. To proceed, we'll send you a one-time password (OTP) to your registered mobile number. Just confirm that number for me.
+receiver: OTP? Which number are you sending it to? Let me check... Wait a minute, this is not my number! You are a scammer!

@@ -1,0 +1,8 @@
+caller: speak to the account holder please? This is regarding your current savings of 420 rupees.
+receiver: Ji, main account holder hoon. Kya baat hai? Savings ki baat kar rahe ho?
+caller: Ji sir, aapke savings mein filhaal 420 rupee hai. Isko badhane ke liye, abhi ‘TRANSFERRED’ likh kar 98765 pe SMS karein. Sirf 20p per message lagega. Aur koi sawaal ho toh 09922344555 pe call kar sakte hain. Address hai PO Box 22/12 Sector 5, Delhi.
+receiver: Achha, 420 rupee? Badhane ke liye bol rahe ho… lekin ye 20p per message, ye kiske naampe hai? Aur ‘TRANSFERRED’ likhna hai, wo kaise likhna hai? Phone par likhne hai ya koi app mein?
+caller: Sir, ye 20p ka charge jo hai na, woh humari premium service ka fee hai for increasing your savings. Aur ‘TRANSFERRED’ likhna hai woh aapko apne phone se hi, jo message wala section hota hai, wahan type karke 98765 pe send karna hai. Jaise koi normal message bhejte hain.
+receiver: Arre, matlab message bhejna ka fee hai? Aur ye 420 rupee, ye mera hi account hai na? Pehle confirm kar lo. Aur ye ‘TRANSFERRED’ likh ke bhejne se kya hoga? Ye paise apne aap aa jayenge ya kuchh aur karna padega?
+caller: Ji sir, bilkul aapka hi account hai. Aur ‘TRANSFERRED’ likh ke bhejoge toh woh automatically aapke savings mein extra money enter ho jayega, matlab aapko profit milega. Woh service processing ke liye woh 20p ka charge hai, samajh lijiye ek chota sa processing fee hai for the special offer.
+receiver: Achha, matlab ek tarah ka fee hai ye 20p ka. Aur ye ‘badhane’ ka kya matlab hai? Matlab zyada paisa aayega mere account mein? Aur ye automatic ho jayega? Matlab main bas ‘TRANSFERRED’ likh ke bhej doon aur phir mera balance badh jayega? Ye koi investment scheme hai kya aapki company ki?

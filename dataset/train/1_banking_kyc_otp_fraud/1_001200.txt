@@ -1,0 +1,6 @@
+caller: Namaste, Sir? Mein ICICI Bank se Priya bol rahi hoon. Aapke naam par ek suspicious transaction detect hua hai UPI ke zariye. ₹7,500 ka transaction hua hai Paytm se kisi unknown account mein.
+receiver: Kya? ₹7,500? Mujhe toh koi transaction ka message bhi nahi aaya. Meri Paytm account mein check karti hoon.
+caller: Sir, jald se jald action lena zaroori hai. Account suspend bhi ho sakta hai agar aap verify nahi karte toh. Hum aapko OTP send karenge aapke registered mobile number par. Vo OTP humein bataiye taaki hum account secure kar saken.
+receiver: Theek hai, theek hai. Acha, OTP aaya hai. ₹7,500 ka transaction? Main toh kabhi ₹7,500 Paytm se nahi kiya. Mujhe confusion ho raha hai.
+caller: Sir, dekhiye, security ke liye humein aapka Aadhaar card number bhi verify karna padega. Bas last four digits bataiye. Aur koi bhi link click mat karna, woh safe nahi hai. Mein aapko iske zariye safe keep karungi.
+receiver: Aadhaar number bhi? Sirf last four digits? Theek hai, [Receiver provides last four digits of Aadhaar]. Par mujhe abhi ICICI Bank branch mein jaake baat karni hai. Yeh online thoda risky lag raha hai.

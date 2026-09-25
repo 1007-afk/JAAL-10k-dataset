@@ -1,0 +1,7 @@
+caller: Hello, is this Rajesh? I'm Anjali from "Eternal Hearts," a matchmaking service. I noticed your profile—you seem like a very genuine person. Are you feeling lonely this festive season?
+receiver: Yes, hello. Rajesh speaking. Eternal Hearts? I don’t recall signing up with you. A little lonely, yes, I suppose.
+caller: Wonderful! Eternal Hearts specializes in connecting truly compatible souls. We have a special Diwali offer: just send "JOIN" to 56789, and you'll get a personalized match report, including photos and details of potential partners. It’s just ₹50 for the report – a small price for finding happiness!
+receiver: ₹50? Okay, that sounds reasonable enough. I'm curious. Let me try that. Sent “JOIN” to 56789.
+caller: Brilliant, Rajesh! The report is being generated now. Just a quick verification – can you send me a picture of your ID card to confirm your identity? It's just a security measure, you see, for all our members. A clear selfie with the card would be perfect.
+receiver: My ID? That seems a bit strange, doesn't it? Why do you need my ID to send a match report? I’m starting to feel uncomfortable about this.
+caller: Rajesh, please don't worry! We've had a few fake accounts trying to misuse the service. Your ID is just for verification; we promise to keep it completely confidential. Think of it as an investment in your future happiness. And just to sweeten the deal, if you send the ID now, I’ll personally handpick a few extra matches for you!

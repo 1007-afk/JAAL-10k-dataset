@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Sanjay hai, FastCashLoans se. Aapne hamari website par ₹20,000 ka personal loan apply kiya tha, na?
+receiver: Haan, ji, maine apply kiya tha. Kya hua?
+caller: Aapka application approved ho gaya hai, lekin processing fees ke liye ₹2,500 ki requirement hai. Iska payment UPI se karna hai.
+receiver: ₹2,500? Lekin mujhe toh free loan milna chahiye tha!
+caller: Sir/Madam, rules change. Iske bina loan nahi hoga. Payment karne se aapka account activate ho jayega. Aur thoda wait karein, main aapko OTP bhejna chahta hoon, verification ke liye.
+receiver: Theek hai, bhejo OTP.
+caller: OTP hai 876543. Verify karke bataiye. Aur suniye, loan complete hone ke baad aapko ek confidential document milega. Isko kisi ko bhi dikhana nahi, warna legal action hoga.
+receiver: Legal action? Kyun?
+caller: Sir/Madam, confidentiality agreement hai. Loan ke terms and conditions mein likha hai. Abhi payment karke loan receive karein, please.
+receiver: Wait, I need to think about this.
+caller: Sir/Madam, time is running out. Offer valid sirf aaj tak hai. Jaldi karein, warna opportunity chala jayega.

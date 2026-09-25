@@ -1,0 +1,9 @@
+caller: Namaste, main Axis Bank se Rahul bol raha hoon. Aapka naam Rajesh Sharma hai?
+receiver: Haan, main Rajesh Sharma hoon. Kyon?
+caller: Sir, aapke Axis Bank account mein ek suspicious transaction attempt kiya gaya tha. Security ke liye, aapko KYC update karna hoga urgently. Main aapko kuch details check karunga, aur phir OTP verify karenge.
+receiver: KYC update? Lekin mujhe koi message ya email nahi aaya. Aur OTP share karne mein main comfortable nahi hoon.
+caller: Sir, yeh process automatic hai, email ya message nahi jaata. OTP sirf verification ke liye hai, aapki security ke liye. Agar aap update nahi karenge, toh account suspend bhi ho sakta hai. Sir, aapko apna account chahiye na? Just give me the OTP, I'll just confirm a few details.
+receiver: Main bank branch jaakar KYC update kar sakta hoon? Wo zyada secure hoga.
+caller: Sir, branch mein line lagenge, aur yeh process sirf 5 minute ka hai. Main aapko quick verification karwa dunga. Bas OTP share kijiye, aur phir sab theek ho jayega. Account suspend hone se bach jayega.
+receiver: Okay, fine. Give me the OTP.
+caller: Thank you Sir. Please share the OTP that you just received on your registered mobile number.

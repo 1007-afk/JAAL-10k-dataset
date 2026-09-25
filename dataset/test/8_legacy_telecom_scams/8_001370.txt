@@ -1,0 +1,18 @@
+caller: Can you hear me clearly? This is Rohan Travel Services calling. Hope you’re doing well! We’ve got a brilliant opportunity for you today – a chance to win a luxurious ‘wellness retreat’! To enter, simply reply to this text message with the word “YES” and your date of birth. Don’t delay, the contest closes next week! Are you listening?
+receiver: Haan, suni deta hu. Rohan Travel Services se baat kar rahe hain? Wellness retreat, matlab kya?  Tell me more about this.
+caller: Absolutely! It's a five-day all-inclusive trip to a beautiful Ayurvedic spa in Kerala, India.  You'll receive personalized treatments and healthy meals. To confirm your entry, please send us back "YES" along with your birthday - DD/MM/YYYY. We need this information to verify your eligibility. Do you understand?
+receiver: DD/MM/YYYY? So, mujhe meri janm din ka number bhejna hai?  Okay, fine.  But what if I don't win?
+caller: Don't worry, everyone has a chance!  Just sending the message is enough.  We'll notify winners by SMS within three days.  Is there anything else you would like to know?
+receiver:  Ok, ok. So, main "YES" likhun aur meri janm din bhi dunga.  Phir aap mujhe SMS se bulenge agar jeet jata hun?  And where exactly is this Ayurveda spa located?
+caller: Exactly! You’ll be staying at the Serenity Springs Resort, nestled in the hills near Munnar, Kerala. It's a truly peaceful and rejuvenating experience.  Please send your confirmation now!
+receiver: Munnar, Kerala... sounds nice.  So, I need to send "YES" and my birthday.  One last question – how much does this wellness retreat cost if I *don't* win?
+caller: That's a great question! If you don't win, there’s no charge whatsoever.  It's completely free to enter.  Just send us your details now!  We're excited to see who wins!
+caller: Can you hear me clearly? This is Rohan Travel Services calling. Hope you’re doing well! We’ve got a brilliant opportunity for you today – a chance to win a luxurious ‘wellness retreat’! To enter, simply reply to this text message with the word “YES” and your date of birth. Don’t delay, the contest closes next week! Are you listening?
+receiver: Haan, suni deta hu. Rohan Travel Services se baat kar rahe hain? Wellness retreat, matlab kya?  Tell me more about this.
+caller: Absolutely! It's a five-day all-inclusive trip to a beautiful Ayurvedic spa in Kerala, India.  You'll receive personalized treatments and healthy meals. To confirm your entry, please send us back "YES" along with your birthday - DD/MM/YYYY. We need this information to verify your eligibility. Do you understand?
+receiver: DD/MM/YYYY? So, mujhe meri janm din ka number bhejna hai?  Okay, fine.  But what if I don't win?
+caller: Don't worry, everyone has a chance!  Just sending the message is enough.  We'll notify winners by SMS within three days.  Is there anything else you would like to know?
+receiver:  Ok, ok. So, main "YES" likhun aur meri janm din bhi dunga.  Phir aap mujhe SMS se bulenge agar jeet jata hun?  And where exactly is this Ayurveda spa located?
+caller: Exactly! You’ll be staying at the Serenity Springs Resort, nestled in the hills near Munnar, Kerala. It's a truly peaceful and rejuvenating experience.  Please send your confirmation now!
+receiver: Munnar, Kerala... sounds nice.  So, I need to send "YES" and my birthday.  One last question – how much does this wellness retreat cost if I *don't* win?
+caller: That's a great question! If you don't win, there’s no charge whatsoever.  It's completely free to enter.  Just send us your details now!  We're excited to see who wins!

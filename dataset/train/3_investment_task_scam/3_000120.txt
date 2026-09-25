@@ -1,0 +1,9 @@
+caller: Namaste! Aapse baat ho rahi hai TechBright Solutions se. Hamara ek amazing deal hai aapke liye, jisse aap ek brand new smartphone le sakte hain aur broadband internet bhi free mil jayega! 50 GB data monthly, unlimited calling, aur ₹2000 cashback bhi milega! Kaise lagta hai?
+receiver: Namaste! Haan, sunaya gaya deal sun raha hoon. Broadband free mil raha hai? Aur cashback bhi hai?
+caller: Haan ji, absolutely! Broadband ko free milne ke liye aapko sirf ₹500 ka security deposit dena hoga. Aur cashback ₹2000, jo aapko payment karne par milega.  Aapki mobile service provider kis company ki hai?
+receiver: Main Airtel wala customer hoon. Mera number hai 8765432109.
+caller: Thoda wait karein, Rohan ji! AAPki profile check kar rahe hain… Okay, aapko is offer ke liye selected kiya gaya hai! Abhi humein sirf aapki bank details jankari chahiye. Bank ka naam aur IFSC code bataiye.
+receiver: Oke, my bank ka naam hai HDFC, aur IFSC code hai XYZ123ABCD.
+caller: Dhanyavaad Rohan ji! Sab set ho gaya hai. Aapko soon SMS par notification milega.  Aapko kisi bhi time till December 31st, 2024, jab tak yeh offer chal raha hai, broadband connection activate karne ke liye free hai.
+receiver: December 31st tak?  Okay, thanks!
+caller: Apna zamana aur raho!

@@ -1,0 +1,8 @@
+caller: Hello? Is this [Invented Name]? This is Sarah from Ringtone Services. Hope you're having a good day! I'm just calling to confirm your recent ringtone order. You should have received a text with your reference number, R836, and a charge of £4.50. Just wanted to make sure everything went through okay for you.
+receiver: Hello Sarah! Haan, main hi hoon. [Invented Name] bol raha hoon. Ah, text check karta hoon ek minute. Haan, mil gaya reference number R836 aur £4.50 ka charge. Sab theek hai, I got it. Thanks for confirming!
+caller: Great! Bahut achha. Toh Sir/Madam, isme aur koi service chahiye aapko? We also have some special offers on premium ringtones and caller tunes, if you are interested.
+receiver: Nahi Sarah, filhal toh bas yahi chahiye tha. Premium ringtones waali offers achhi hain, but abhi maine kuch decide nahi kiya. Maybe next time. Thanks a lot for your help!
+caller: Koi baat nahi Sir/Madam. Aapko kabhi bhi interest ho toh aap humein call kar sakte hain. Aur kuch help chahiye?
+receiver: Nahi Sarah, filhal toh bas itna hi tha. Thank you so much for your time and confirmation.
+caller: Perfect! Aapko kabhi bhi kuch chahiye ho toh please humein call karna. Aapka din achha ho! Goodbye!
+receiver: Thank you, Sarah! Aapka bhi din achha ho. Goodbye!

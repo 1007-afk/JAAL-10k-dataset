@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Indian Customs se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai Nepal se, lekin usmein illegal items mile hain.
+receiver: Nepal se parcel? Mujhe toh koi order kiya tha. Illegal items? Kya hai woh?
+caller: Sir, parcel mein banned medicines aur suspicious documents hain. Isliye parcel hold kar diya gaya hai. Aapko ₹7500 ka fine bharvana padega, tab parcel release hoga.
+receiver: ₹7500? Itni badi amount? Main parcel ka order toh kabhi nahi kiya. Main abhi bank se check karta hoon.
+caller: Sir, time bahut kam hai. Agar aap abhi payment nahi karte, toh hum case register kar lenge aur aapko court mein bhi haazri deni padegi. Aapka bank account number bataiye, main payment link send kar deta hoon.
+receiver: Wait a minute. Court mein haazri? Yeh bahut hi suspicious lag raha hai. Main police station mein complaint karunga.
+caller: Sir, police station mein complain karne se kuch nahi hoga. Yeh matter national security se related hai. Aapko ₹7500 bharne hi honge, warna bahut mushkil mein pad jaayenge. Ab jaldi karo sir.

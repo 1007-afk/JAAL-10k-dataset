@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Amit Sharma bol raha hoon. Aapke naam par ek suspicious transaction hua hai - ₹2700 ek online gaming website par. Aapki account security ke liye confirm karna zaroori hai.
+receiver: ₹2700? Gaming website? Main toh kabhi online games nahi khelta! Yeh kya ho raha hai? Axis Bank se call hai?
+caller: Ji haan, main Axis Bank se hi hoon. Yeh transaction aaj subah hua hai. Fraud hone se pehle, humein aapki details verify karni hogi. Aapka PAN card number bataiye, please.
+receiver: PAN card number? Account transaction ke liye PAN card number dena padega? Yeh thoda ajib lag raha hai. Mein bank mein kabhi aisa sunna nahi suna.
+caller: Sir, security protocol ka hissa hai yeh. Agar aap verify nahi karte, toh humko account temporarily suspend karna padega. ₹2700 ka fraud ho sakta hai, aur aap ka nuksaan ho sakta hai.
+receiver: Suspend? ₹2700? Theek hai, theek hai. Lekin mujhe thoda dar lag raha hai. Mein aapko OTP send karein? Par woh safe hai na?
+caller: Ji haan, sir. OTP se confirm ho jayega sab kuch. OTP receive karne ke liye aap ready hain sir?

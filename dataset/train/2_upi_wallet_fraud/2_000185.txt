@@ -1,0 +1,8 @@
+caller: Hello sir, mai Bharat Bank se bol raha hoon. Aapke Bank Account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Aur kya hua hai? Mujhe toh koi message nahi aaya.
+caller: Sir, ek international transaction ka attempt kiya gaya tha, lekin verification pending hai. Aapko confirm karna hai kyuki account safe rahe.
+receiver: International transaction? Mein toh kabhi international transaction nahi kiya. Aur aapko confirmation ke liye mujhe kya karna hai?
+caller: Sir, aapko apna OTP verify karna hai, tab transaction block ho jayega aur aapka account secure rahega. OTP main 4 digits ka hai.
+receiver: OTP? Sir, yeh kuch gadbad lag rahi hai. Bank aise phone par OTP nahi puchta. Mein koi bhi OTP share nahi karunga.
+caller: Sir, aapke account ke liye yeh bahut zaroori hai. Jaldi se OTP share karein, warna account suspend bhi ho sakta hai.
+receiver: Account suspend? Nahin, nahin. Mein bank branch jaakar check karunga. Aapko koi bhi OTP nahi milega.

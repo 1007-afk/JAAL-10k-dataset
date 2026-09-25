@@ -1,0 +1,16 @@
+caller: Hello there! We have some exciting news for you – you’ve been randomly selected to win either a luxurious weekend getaway to Goa or a substantial ₹15,000 prize money! Please stay on the line to verify your eligibility. There’s a small processing fee of ₹2.00 per minute, lasting up to 12 minutes. Are you ready to hear about your good fortune?
+receiver: Oh wow! Seriously? Goa trip ya phir ₹15,000? Yeh bahut achha hai! Main sun raha hoon. Kya karne wala hai ab? Processing fee ₹2.00 per minute, eh? Aur 12 minute tak chal sakta hai call? Thoda expensive lagta hai, lekin okay hai. Bolna what to do.
+caller: Fantastic! We're thrilled you're interested in claiming your prize. First, let's just quickly confirm a few details. Could you tell me your first and last name, please?
+receiver: Haan ji, mera naam hai Rohan Verma. Aur aap kaisein poochhne wale hain?
+caller: Thank you, Rohan. For verification purposes, could you kindly provide your year of birth? It’s essential for us to ensure the prize reaches the rightful winner.
+receiver: Ji haan, main 1998 mein janma le gaya huon. Kuch aur poochhna hai?
+caller: Wonderful, Rohan. Now, to complete the process, could you share your registered address, including the pincode? This will help us send you the necessary documents and instructions for claiming your reward.
+receiver: Address? Okay, mera address hai 3B, Silverwood Heights, Maple Avenue. Pincode hai 410001. Kyaa?
+caller: Namaste! You've been fortunate enough to win a grand prize - a brand new iPhone 15 Pro Max or a whopping ₹25,000 gift voucher! To receive your prize, we need to verify your information. The call lasts approximately 8-10 minutes, and there's a nominal charge of ₹1.75 per minute. Are you prepared to proceed?
+receiver: Arey yaar! iPhone 15 Pro Max ya phir ₹25,000 voucher? Seriously? Main sun raha hoon. Ye kitna amazing hai! Kaisein verify kareinge aap? ₹1.75 per minute, eh? Aur 8-10 minute tak chal sakta hai call? Dekh rahi hoon... Bolna kya karna hai.
+caller: Absolutely! Let’s begin with a simple verification step. Could you please state your full name as it appears on your official ID?
+receiver: Haan ji, mera naam hai Anjali Patel. Aur aap yahaan par kaisein check kareinge?
+caller: Thank you, Anjali. Now, for security reasons, could you share your mobile number, the one you primarily use?
+receiver: Ji haan, mera number hai 9876543210. Kuch aur poochhne wala hai?
+caller: Great, Anjali. And finally, to ensure accurate delivery, could you provide your postal address, including the city and state?
+receiver: Address? Okay, mera address hai 5C, Park View Residency, Nehru Nagar. City hai Mumbai, Maharashtra. Kyaa?

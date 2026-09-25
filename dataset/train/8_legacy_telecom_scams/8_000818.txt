@@ -1,0 +1,10 @@
+caller: Namaste! Kaise haal chal? Main Vijay Kumar hoon, Digital Savings ko uplabdh karne ke liye call kar raha hoon. Aapke liye ek badi badi khabar hai! Ek Free Smartwatch jeene ka mauka aapke paas hai. Ab aapko sirf “XYZ” likkrna hai aur reply karnaa hai. Bahut asan hai, na? Aap chaahe jeetna hai ya nahi, shuruwat karein!
+receiver: Namaste Vijay ji, sunn sakta hoon. Digital Savings se ho? Smartwatch jeetna mujhe thandakta hai. "XYZ" likrraun toh kya hoga? Ismein koi risk hai kya?
+caller: Haan, absolutely no risk! Agar aap “XYZ” likhreinge toh aap automatically our lucky draw mein naam le lenge. Humare paas sirf 5 Smartwatches bache hain, isliye jaldi reply kar dijiye. Time bahut kam hai!
+receiver: 5 Smartwatches? Okay, okay. Main reply karunga “XYZ”. Kya hota hai agar main reply nahi karta?
+caller: Agar aap reply nahi karte toh aapko miss karna hoga. Yeh ek amazing opportunity hai jo aapko perder karna nahi chahiye. Just one smartwatch remaining!
+receiver: Achaa, samajh mein aaya. Main “XYZ” reply kar deta hoon. Shukriya! Kya aap mujhe kuch aur batayen? Jo bhi optional hai.
+caller: Aapka “XYZ” reply receive ho gaya hai. Congratulations! Aap now officially our lucky draw mein included hain. Only 4 Smartwatches bache hain, so we’ll soon announce the winner. All the best!
+receiver: Thoda nervous hoon, Vijay ji. Lekin thank you for informing me. Zaroor check karunga. Agar jeet gaya toh batata hoon.
+caller: Aapki koshish hamari liye bahut zaroori hai. Agar aapko is offer mein koi dhyan dena hai, toh bas bataiye ki aapko koi surcharge apply karta hai ya hum aage badh sakte hain?
+receiver: Nahi Vijay ji, koi surcharge nahi apply hoga. Sab sahi hai. Aap aage badh sakte hain.

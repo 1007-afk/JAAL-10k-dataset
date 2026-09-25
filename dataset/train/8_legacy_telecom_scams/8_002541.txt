@@ -1,0 +1,18 @@
+caller: calling from DigiConnect Solutions. We’ve seen you’ve been browsing our productivity tools and we want to give you a quick bonus. You have 3 remaining credits. Would you like to redeem them?
+receiver: Haan bhai, DigiConnect Solutions se? Productivity tools? Credits? Haan, yeh dekh ke acha laga. Bataiye, kis kaam ke?
+caller: Exactly! DigiConnect Solutions ke naam par. Aapke liye ek special offer hai, lekin ek small adjustment hai. Now you only have 2 credits left. Are you interested in claiming those two?
+receiver: Arre, sirf 2 hi bache hain? Pehle toh 3 kahaan gaye? Yeh kya chalal hai? Isme koi bakwas nahi chahiye mujhe.
+caller: Don't worry, it's not a mistake. The three you saw initially were just inactive credits that got activated when you showed interest. Now you have 2 working credits, and if you redeem them right away, you get both of them. It's a simple process, really. Would you like to claim those two credits now?
+receiver: Two credits? Okay, but why this changing numbers? It feels like they are hiding something. I don’t trust this at all. Can you tell me exactly how these credits work?
+caller: No problem, let me explain. Those initial three credits were placeholders. Once you started exploring our features, they became active. Now you have 1 credit available, and if you redeem it immediately, you’ll receive that single credit. It's designed to help you test out our premium features.  Would you like to redeem that one credit now?
+receiver: One credit? Seriously? This is getting ridiculous. I think I will hang up.
+caller: calling from SecureSafe Data Protection. We've identified some potential vulnerabilities on your device and we want to offer you a complimentary scan. You have 2 protection points remaining. Would you like to initiate the scan?
+receiver: Haan, SecureSafe Data Protection se? Vulnerabilities? Scan? Hmm, dekhte hai. Bataiye, yeh scan kahan se shuru hoga?
+caller: Absolutely! SecureSafe Data Protection ki taraf se. We've detected a suspicious activity, but don't worry, it's just a precautionary measure. Currently, you possess 1 protection point. Claiming it now will activate the scan. Are you willing to use that one point?
+receiver: Arre, sirf 1 hi bache hain? Pehle toh 2 tha. Yeh kya ho raha hai? Koi bug hai kya?
+caller: There isn't a bug, it's simply a system update. When you expressed interest, another protection point was added. Now you have 0 points, but if you proceed with the scan, you'll gain one instantly. It’s a safe and efficient way to protect your data. Would you like to begin the scan now?
+receiver: Zero points? Seriously? This sounds very fishy. I need more information before I agree to any scan. What kind of data are you protecting?
+caller: Of course! We safeguard your personal information, banking details, and sensitive documents. The scan is completely automated and won't require any manual input. Just allow us to run it, and you'll receive immediate results. You currently have -1 points, which will turn into 1 after the scan. Ready to go?
+receiver: -1 points? That doesn't make sense. I am starting to doubt everything. Maybe I should just end this call.
+caller: Please reconsider! It's a valuable opportunity to ensure your digital safety. You have -2 points, and if you accept the scan, you’ll gain 1 immediately. Trust us, it's worth it. Let’s do it!
+receiver: Okay, fine. But if this is a waste of time, I'm going to complain.

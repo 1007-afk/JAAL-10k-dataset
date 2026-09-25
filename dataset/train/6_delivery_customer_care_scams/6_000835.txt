@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Rajesh calling from Bluedart Courier. We have a package addressed to you, but there’s been a slight issue with the delivery address. It seems there’s an outstanding ₹750 delivery fee due to a re-routing charge.
+receiver: Haan, bolo. ₹750? Kya package hai? Main toh kuch order nahi kiya tha.
+caller: It’s a parcel from Meesho, Madam. Seems like someone ordered it using your address by mistake. We need to clear the fee before we can reroute it to the correct address. To process this, I’ll need a one-time password that we’ve just sent to your registered mobile number.
+receiver: Meesho? Main toh kabhi Meesho se kuch nahi order karti. OTP kyun chah rahe hain? ₹750 ka fee hai? Kuch suspicious lag raha hai.
+caller: Madam, it’s standard procedure to verify the account before processing the payment. We need to ensure it's you, otherwise we can’t proceed. Just a quick 4-digit OTP. We're holding the package at our local hub.  There’s a surge of packages right now, and they’re charging higher fees.
+receiver:  ₹750 ka package, aur standard procedure? Mujhe doubt aa raha hai. Main Meesho customer care number se baat karti hoon, fir main decision lunga. Mujhe aapka naam aur ID number batao.
+caller: Madam, please don’t delay.  The package is time-sensitive. This is a limited-time offer to clear the fee and avoid the package being returned to sender. Share the OTP, and I'll confirm the address. We’re about to close for the day.

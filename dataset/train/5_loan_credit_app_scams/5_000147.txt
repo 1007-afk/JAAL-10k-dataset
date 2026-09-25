@@ -1,0 +1,11 @@
+caller: Namaste, main Akash Verma, FastLoan Solutions se baat kar raha hoon. Aapne hamari app se ₹10,000 ka loan apply kiya tha, bilkul sahi na?
+receiver: Haan, ji. Mainne apply kiya tha. Kya hua?
+caller: Sir, aapka application approved ho gaya hai, bahut achha baat hai! Lekin, processing fees ke liye ₹500 OTP verify karna hoga. Ek minute rukiye.
+receiver: OTP? Mein to abhi tak kuch nahi paya. Aur app mein bhi kuch nahi dikh raha.
+caller: Sir, technical issue ho gaya tha. Ab OTP aa gaya hai na? Check kijiye please.
+receiver: Haan, aaya hai. Yeh hai 789012.
+caller: Bahut achha! Sir, OTP verify ho gaya hai. Ab ₹10,000 aapke account mein transfer ho jaayega. Just wait kar dijiye. Par sir, ek chhoti si problem aa gayi hai.
+receiver: Problem? Kya problem hai?
+caller: Sir, security reasons se, ₹10,000 transfer hone se pehle ₹750 kisi aur account mein transfer karne ki zarurat pad rahi hai. Verification ke liye.
+receiver: ₹750 aur? Yeh kya ho raha hai? Mein loan bhi nahi mila aur ab ₹750 bhi dena hai?
+caller: Sir, yeh sirf verification process ka hissa hai. Agar aap ₹750 transfer kar diye to ₹10,000 ka loan instantly aapke account mein chala jayega. Koi aur option nahi hai, sir. Please understand.

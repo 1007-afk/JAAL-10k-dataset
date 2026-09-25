@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma, BharatPay se calling karta hoon. Aapko ek bahut hi accha cashback offer mila hai, sir/madam.
+receiver: BharatPay? Kya offer hai?
+caller: Ji, dekhiye, BharatPay ne apne users ke liye ek special scheme shuru kiya hai. Agar aap ₹5000 ka transaction karte hain, toh aapko ₹1500 ka cashback milega, instant. Yeh offer sirf aaj ke liye hai!
+receiver: ₹1500 cashback? ₹5000 ka transaction? Kaise transaction karun?
+caller: Aapse sirf ek OTP verify karna hai, sir/madam. Isliye main aapko ek link send karunga, usmein aap apna OTP dalenge, aur cashback aapke BharatPay wallet mein transfer ho jayega.
+receiver: OTP? Kis website par dalu? BharatPay ka official app toh main use karta hoon.
+caller: Haan, bilkul! Yeh BharatPay ka hi link hai. Jaldi karo, sir/madam, offer khatam hone wala hai! Abhi OTP dal dijiye.

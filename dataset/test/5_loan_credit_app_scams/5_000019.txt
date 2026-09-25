@@ -1,0 +1,11 @@
+caller: Namaste! Ji haan, main bol raha hoon. Aapko personal loan ke baare mein baat karni thi? ₹20,000 se ₹1,50,000 tak ka loan, kisi bhi reason ke liye. Seniors citizen ya bachche, sab apply kar sakte hain. Pehle reject hua tha? Koi problem nahi, hum madad karenge. Aapka naam jaan sakta hoon?
+receiver: Ji, bilkul. Mera naam Priya hai. Aur haan, loan ke baare mein hi puchhna tha.
+caller: Achhi Priya ji, so Priya ji, aapko loan ki kitni amount chahiye aur aapki need kya hai? Basically, aapko yeh loan kis liye chahiye?
+receiver: Haanji, main actually my business ko support karne ke liye loan apply karna chahti hoon. Amount lagbhag ₹60,000 tak ka dekh rahi hoon. Small inventory purchase hai.
+caller: ₹60,000 ka business? Very good, Priya ji! Bahut achhi investment hai. Aapki shop ka address kya hai aur kya aap owner hain ya contractor? Aur kya aapki monthly income per month kitni hai, roughly?
+receiver: Ji, main owner hoon. Shop ka address hai meri 4C, Market Lane, Rohini Sector 20. Aur monthly income meri lagbhag ₹55,000 ke aas paas hai.
+caller: Bahut sundar, Priya ji. Owner aur ₹55,000 income, yeh sab bohot positive hai. Hum aapke liye definitely kuch acha dhoondh sakte hain. Toh, Priya ji, hum aapko loan ki approval process ke baare mein thoda aur detail mein bata sakte hain. Humko bas kuch documents ki verification karni hogi, jisme aapki ID proof, address proof aur bank statement shamil hai. Kya aapko yeh sab documents provide karne mein koi difficulty hogi?
+receiver: Nahi, koi difficulty nahi hai. Mere paas sab documents ready hain. Aap bataiye, kab tak ho jayega yeh sab?
+caller: Sirf 7-10 dinon mein aapko result mil jaayega. Agar aapko koi confusion hai toh, humein batayein.
+receiver: Okay, thank you.
+caller: Aapka mahol mein khayal rakhna. Shubhkamnayen!

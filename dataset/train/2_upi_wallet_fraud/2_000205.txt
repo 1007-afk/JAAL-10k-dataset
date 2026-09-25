@@ -1,0 +1,8 @@
+caller: Namaste! Main FreeCash Rewards se call kar raha hoon. Aapko ₹7500 ka cashback jeeta hai! Congratulation!
+receiver: ₹7500? Main toh FreeCash Rewards par kabhi nahi khelna.
+caller: Haan ji, aapne ek survey participate kiya tha, wohi se prize jeeta hai. Claim karne ke liye, sirf ₹300 ka processing fee deposit karna hai.
+receiver: ₹300 fee? Survey ka prize mein fee dena padega? Ye thoda strange lag raha hai.
+caller: Sir, processing fee bina bina hai, yeh system verification ke liye hai. Aapko UPI ya Paytm pe ₹300 deposit karna hai, phir aapka ₹7500 cashback instantly aapke wallet mein transfer ho jayega.
+receiver: UPI pe? Kis number pe deposit karna hai? Aur mujhe proof bhi chahiye, koi confirmation number ya kuchh?
+caller: Haan ji, ₹300 deposit karo 9876543210 is number pe. Verification ke baad, aapko SMS milega. Hurry up, offer limited time ke liye hai!
+receiver: Wait karo, mujhe check kar ke bataata hoon.

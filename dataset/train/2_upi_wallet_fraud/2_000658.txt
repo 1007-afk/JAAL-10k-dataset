@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Customer Care se Manish bol raha hoon. Aapke account mein ₹2000 ka cashback offer hai, Diwali special.
+receiver: Oh, really? Paytm pe ₹2000 cashback? Kitne offer hain?
+caller: Haan ji, ₹2000 cashback! Offer claim karne ke liye aapko ek small processing fee bharne hogi, sirf ₹50. Yeh fee verification ke liye hai. Aap ₹50 Paytm wallet se send karein.
+receiver: ₹50 fee? Verification ke liye? Aur yeh ₹2000 cashback kab milega? Mujhe toh kuch pata nahi tha.
+caller: Haan, ₹50 fee bharne par aapka cashback instant activate ho jayega. Aap ₹50 Paytm number 9876543210 pe send karein. Jaldi karein, offer sirf 5 minute ke liye valid hai!
+receiver: 9876543210? Yeh to kuch gadbad lag rahi hai. Paytm se aise phone nahi aate. Main verify kar ke dekhta hoon.
+caller: Beta, jaldi karo! Time waste mat karo! Offer chala jayega! 9876543210 pe ₹50 send karo aur cashback claim karo! Jaldi karo!

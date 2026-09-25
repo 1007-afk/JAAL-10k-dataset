@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Verma? I’m calling from FreePay Wallet security. We’ve detected a suspicious login attempt on your account from an unknown device in Bangalore.
+receiver: Haan, main Priya Verma hi hoon. Suspicious login? Bangalore se? Mujhe toh koi idea nahi.
+caller: Exactly, Madam! That’s why we're calling. To prevent any unauthorized transactions, we need to verify your identity. We'll send a one-time password to your registered mobile number. Just tell me the OTP when you receive it.
+receiver: Ek minute, mujhe OTP aane do. (waits) Haan, OTP mil gaya – 876543. Par security ke liye OTP kyun? Aur Bangalore se logon ka login attempt kaise ho sakta hai?
+caller: Thank you, Madam. That confirms your identity. Now, to completely secure your FreePay account, we need you to quickly update your KYC details. There's a small processing fee of ₹50 to verify your Aadhaar card instantly. Can you transfer ₹50 to the UPI ID I'll provide?
+receiver: ₹50? KYC update karne ke paise lagte hain? Mai toh FreePay app mein KYC update free karta hoon. Aur main kabhi bhi kisi ko UPI ID nahi deta.
+caller: Madam, due to the security breach, this is a temporary measure. If you don’t do this now, your entire FreePay wallet, including all your money, will be blocked immediately. It's a government mandate to ensure your funds are safe. Just ₹50, Madam.
+receiver: Meri toh baat samajh mein nahi aa rahi hai. Government mandate? Account block ho jayega? Aur main ₹50 transfer karta hoon? Main abhi FreePay customer care number pe call karti hoon.

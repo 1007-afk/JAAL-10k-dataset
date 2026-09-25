@@ -1,0 +1,7 @@
+caller: Hello Rajeev! This is Aditya from SwiftLoan. We’ve approved your loan application for ₹12,000. Fantastic news, isn't it?
+receiver: Really? That’s great! I applied for a small amount, though. Just ₹5,000.
+caller: Yes, Rajeev, our system detected you're a prime candidate for a higher loan amount. To activate it, we need a small processing fee of ₹800 to verify your account. Just a one-time charge, we assure you.
+receiver: ₹800? That seems a bit much. I thought loans were supposed to be easy. And why so much higher than what I asked for?
+caller: Rajeev, this is standard procedure. This fee ensures your account security and unlocks the full ₹12,000 benefit. Without it, the loan will be cancelled, and your credit score will be negatively affected. We wouldn't want that, would we? Send the money to this UPI ID: speedyloan88.
+receiver: Wait a minute. Credit score? Negatively affected? That sounds like a pressure tactic. I'm calling my bank to check this.
+caller: Rajeev, please don't delay! Time is running out! The offer is only valid for the next 15 minutes.  If you don't pay the ₹800, we'll have to report your account for suspicious activity!  Think about it!

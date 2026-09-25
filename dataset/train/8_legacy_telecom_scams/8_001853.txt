@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat-connect-solutions se bol raha hoon. Aapko ek FREE alert mili hai, jismein Paytm ke upar free recharge ke information hai. Just a reminder, future alerts will be charged ₹10 per SMS. Cancel kareliye "stop" bheje 98765. Suno, kya aapko pata hai?
+receiver: Haan, sun raha hoon. Paytm ke upar free recharge? ₹10 per SMS? Toh, agar maine cancel nahi kiya toh baad mein paise lagne lagenge? Koi naam bataiye, Bharat-connect-solutions ka? Ya company ka complete name bata sakte hain?
+caller: Haanji, Bharat-connect-solutions ek service provider hai. Main Sanjay hu, aur aapki madad kar raha hoon yeh offer clear karne mein. Toh, yeh free recharge offer sirf initial alert ke liye hai. Agar aapko ₹10 per SMS charge nahi chahiye, toh "stop" message 98765 par bhejne wala hai. samajh mein aaya?
+receiver: Haanji, samajh mein aaya. Toh, Bharat-connect-solutions ne Paytm ke upar free recharge ka offer diya hai, aur agar maine cancel nahi kiya toh ₹10 per SMS charge lagega. Sanjay ji, koi contact number hai aapka? Ya email id?
+caller: Haanji, mera mobile number 9922334455 hai. Aur meri email id sanjay.s@bharatconnect.com hai. Toh, aapko koi dhyan rakhni hogi, agar aapko koi extra charges lagte hain.
+receiver: Okay, Sanjay ji. Toh Bharat-connect-solutions se Paytm ke upar free recharge ka offer hai, ₹10 per SMS charge. Mera mobile number 9922334455 aur email id sanjay.s@bharatconnect.com hai. Mujhe yeh sab thoda dubara dubara lag raha hai. Kya aap guarantee kar sakte hain ki mujhe koi hidden charges nahi lagegi?
+caller: Haanji, guaranteed! Hum sabhi customers ko protect karne ke liye yahaan hain. Agar aapko koi unexpected charges lagte hain, toh aap mujhse contact kar sakte hain. Lekin, bas 'stop' message bhejna hi sahi rahega.  Aapko koi aur sawaal hai?
+receiver: Nahin, Sanjay ji. Abhi toh bahut saara pata chala. Dhanyavaad!
+caller: Aapka swagat hai! Samjhiyega, aur paisa bachaye gi!

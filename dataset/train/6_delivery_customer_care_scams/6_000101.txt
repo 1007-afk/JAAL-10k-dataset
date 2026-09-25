@@ -1,0 +1,13 @@
+caller: Namaste! Main Bharat Telecom se baat kar raha hoon. Aapko ek special offer mili hogi, jiske karan hum aapse contact kar rahe hain. Aapse pehle bhi ek message aaya tha, yaad hai kya?
+receiver: Haan ji, yaad hai. Mein Rajesh Kumar hoon. Mein thoda confused hoon, yeh offer kya hai?
+caller: Rajesh ji, aapko ek naya smart phone mila sakta hai - ek Samsung Galaxy A54. Isme 6 GB RAM hai aur 128 GB storage. Aur saath mein aapko 300 GB data pack bhi milega, free of cost! Tumhare account mein already ₹5000 ka balance hai, right?
+receiver: Haan, thaak gaya tha. Par yeh data pack kis liye hai?
+caller: Yeh data pack sirf aapke liye hai, Rajesh ji. Iska koi expiry date nahi hai. Aur humne aapke liye ek free screen protector bhi booked kiya hai. Ek premium quality ka screen protector.
+receiver: Screen protector? Thik hai. Fir delivery kab hoga?
+caller: Delivery kal raat 8 baje, aapke gate par hogi. Aapko sirf delivery boy ko ₹200 ka tip dena hoga, agar woh aapko phone deliver karte hain. Simple hai na?
+receiver: ₹200 tip? Yaaro, yeh kitna kamzor hai!
+caller: Rajesh ji, yeh sirf delivery boy ko acknowledge karne ke liye hai. Iska koi connection delivery se nahi hai.  Aapko delivery boy ko thank you kehna hoga.  Agar aapko delivery nahi chahiye, toh aap delivery boy ko bol sakte hain "nahi chahiye".
+receiver: Okay, okay. Fir delivery confirm ho gayi?
+caller: Haan ji, delivery completely confirmed. Kal raat 8 baje aapko phone aur screen protector mil jaega.  Aapko sirf ₹200 ka tip dena hoga.  Koi questions nahi hain?
+receiver: Nahi, abhi koi question nahi hai. Shukriya!
+caller: Welcome!  Aapko kal delivery ke liye congratulations!  Bharat Telecom se salaam!

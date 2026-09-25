@@ -1,0 +1,11 @@
+caller: Namaste, is this Mrs. Gupta? This is Inspector Verma calling from the Delhi Customs department.
+receiver: Haan, main Mrs. Gupta. Kya hua?
+caller: We’ve intercepted a package addressed to you containing suspicious items. It appears to be linked to a case of illegal import. We need to verify your involvement.
+receiver: Illegal import? Yeh kya keh rahe hain aap? Main toh kabhi kuch illegal nahi import karti.
+caller: Ma'am, the investigation is ongoing. To clear this up quickly and avoid legal complications, we require a small processing fee of ₹8,000 to conduct a thorough examination of the package. We need it immediately to release the package. You can deposit it to this UPI ID: 9876543210@axisbank.
+receiver: ₹8,000? Aur yeh package kaha pe hai? Aur aapka naam aur badge number bataiye. Main police station mein complaint kar sakti hoon.
+caller: Ma'am, please don't escalate the situation. The package is currently at the Indira Gandhi International Airport customs facility. My badge number is 4782. Time is of the essence, and delaying payment could result in further legal action. If you delay, it becomes a very serious matter. 
+receiver: Bahut chalao bol rahe hain aap. Main koi bhi payment nahi karne wali. Tumhara UPI ID ek fake lag raha hai. Main abhi police ko call karti hoon.
+caller: Ma'am, please! Think of the consequences. A court case will be a lot more expensive than just ₹8,000. I can give you a confirmation code to show proof of the deposit once you pay. 
+receiver: Confirm code? Fake lagta hai yeh bhi. Main complaint register kar rahi hoon.
+caller: Ma'am, please don'

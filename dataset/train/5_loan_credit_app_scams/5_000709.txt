@@ -1,0 +1,9 @@
+caller: Namaste, sir. Main Ankit, Paytm Finance se baat kar raha hoon. Aapka naam Vijay Sharma hai, sahi? Aapne kuch din pehle Paytm se ₹50,000 ka personal loan apply kiya tha, yaad hai na?
+receiver: Haan, ji yaad hai. Lekin mujhe abhi loan ke bare mein koi notification nahin mila.
+caller: Sir, aapka loan approve ho gaya hai, lekin verification ke liye kuch details confirm karne hain. Aapke bank account ka last transaction ka screenshot mujhe send karein. Bas ek proof ke taur pe.
+receiver: Account ka screenshot? Kyun? Loan toh approve ho gaya hai na?
+caller: Sir, security purpose ke liye, aap samjhenge na? Iske baad aapko instant ₹50,000 mil jayenge. Screenshot send karte hi hum OTP send karenge, aur phir aapko paisa mil jayega.
+receiver: Theek hai, send kar raha hoon.
+caller: Sir, screenshot check karne ke baad, mujhe ek aur cheez chahiye. Aapke kisi relative ka number chahiye verification ke liye, taaki unko pata chale aap loan le rahe hain. Bas assurance ke liye, aur koi complaint na ho.
+receiver: Relatives ka number? Ye kya ho raha hai? Mujhe loan chahiye tha, guarantee nahi deni hai.
+caller: Sir, yeh rule hai, aapko comply karna padega. Warna loan process block ho jayega. Aapko ₹50,000 urgent chahiye tha, na? Thoda cooperate karein.

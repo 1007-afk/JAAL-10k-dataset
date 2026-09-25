@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? We're calling from QuickCash Loans. We've pre-approved you for a personal loan of up to ₹75,000. Just a quick verification to process it. Can you confirm your date of birth?
+receiver: QuickCash Loans? I don't think I applied for a loan. What's the interest rate? And how do you have my name?
+caller: Congratulations, Priya ji! The interest is competitive at 18% for a limited time. We got your details from a government database—it’s standard procedure. To activate the loan, we need a small processing fee of ₹2,500 to cover verification costs. You can transfer it to this account: 1234567890.
+receiver: A processing fee? That sounds fishy. I’ve never had to pay a fee to get a loan approved. And I definitely didn't give anyone permission to use my details.
+caller: Priya ji, please don't worry, this is a very common practice. It secures your loan and prevents fraud. We also need you to share a photo of your Aadhaar card to confirm your identity. It’s a standard security measure.
+receiver: Absolutely not! I am not sending you my Aadhaar card. This is a scam. I'm reporting this number. Goodbye.
+caller: Wait, Priya ji! Don't be hasty! As a special gesture, we'll waive the processing fee if you act now! Just send a selfie holding your debit card. It’s a one-time thing, just to prove you own the card.
+receiver: This is ridiculous. You’re not getting anything from me. I’m calling the cybercrime helpline right now.

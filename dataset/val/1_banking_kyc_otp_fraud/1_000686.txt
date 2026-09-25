@@ -1,0 +1,16 @@
+caller: Namaste sir, main Bharat Telecom Support se hoon. Aapki number ki verification kar rahe hain, isliye aapko ek six-digit PIN code bheja gaya hai. Plz bolna ki PIN code kya hai.
+receiver: Oh yes, okay. Just a moment please, dekh sakta hu main.Haan, aaya hai. Mera PIN code hai 7391. Aap ne kya kaha? Haan, 7391.
+caller: Thank you sir, confirmation mil gaya. Ab verification khatam karne ke liye, mujhe kuchh extra information chahiye. Aapne recently Reliance Jio mein recharge kiya tha na?
+receiver: Recharge? Uh, yes sir, dilhi mein recharge kiya tha. Ek minute please, check karta hu main. Second hold kijiye.
+caller: Haan sir, jaldi kijiye. Yeh update process bahut important hai. Isliye zyada time nahi le sakta. Agar aapko recharge details nahi pata to humari process band ho jayegi. Plz bolna Reliance Jio mein recharge ka date and amount.
+receiver: Uhm...sorry sir. Recharge ka date… mujhe itna yaad nahi aa raha.  Aapko koi aur option nahi hai? Ya phir, number par message dekh sakta hu main?
+caller: Arre sir, yeh toh zaroori hai. Jio mein recharge ka exact date aur amount malum hona chahiye.  Aapne kabhi bhi Jio app mein check kar liya hota na?  Dekhiye, humara time vaat raha hai aur aapka bhi.
+receiver: Sir, maine app mein check kiya tha, lekin mujhe exact date yaad nahi aa raha.  Kya koi aur way hai verify karne ki?  Number pe message check kar sakta hu main?
+caller: Namaste sir, main Airtel Customer Service se hoon. Aapke mobile number ki security check kar rahe hain, isliye aapko ek five-digit code bheja gaya hai. Code bataiye sir.
+receiver: Oh, okay. Just a second, dekh deta hun main.Haan, aaya hai. Code hai 9287. Aapne kya kaha? Haan, 9287.
+caller: Shukriya sir, confirm ho gaya. Ab verification complete karne ke liye, mujhe aapke SBI account ke last three digits chahiye.
+receiver: SBI account ke last three digits? Uhm, ek minute, check karte hu main. Hold kijiye please.
+caller: Haan sir, jaldi kijiye. Yeh process bahut important hai. Isliye zyada time nahi le sakte. Agar aapko account details nahi pata to humari process stop ho jayegi. Plz bataiye SBI account ke last three digits jo aapke Airtel number se connected hai.
+receiver: Sorry sir, mujhe yaad nahi aa raha hai. Mera SBI account number bataane mein confusion ho raha hai. Kya yeh legitimately required hai? Koi aur alternative method hai?
+caller: Arre sir, yeh absolutely required hai. Airtel ke system mein aapki identity verify karne ke liye SBI account details compulsory hai. Aapne kabhi bhi online payment kiya hai na? Dekhiye, humara time wastage ho raha hai aur aapka bhi.
+receiver: Sir, maine online payment kiya hai, lekin mujhe account numbers yaad nahi rehta. Kya koi other option available hai? Number pe message check kar sakta hu main?

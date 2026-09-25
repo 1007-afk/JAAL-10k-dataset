@@ -1,0 +1,10 @@
+caller: Namaste! Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Bharat mein, lekin ismein kuchh suspicious items mile hain.
+receiver: Indian Customs? Parcel? Kya hua? Mujhe toh koi intimation nahin mila.
+caller: Ji, parcel mein illegal drugs ke signs dikh rahe hain. Strict protocol hai, isliye hum contact kar rahe hain. Aapko parcel release karne ke liye ₹7500 fine bharvana padega.
+receiver: Drugs? Main toh kabhi drugs nahi liya. Yeh galat hai! Kya main parcel ka number check kar sakta hoon? Aur customs office ka naam bataiye?
+caller: Sir, parcel number check karne mein time lagega, aur hum urgently case close karna chahte hain. Yeh fine bharne se aapko any legal trouble se bacha lega. Main aapko UPI ID de deta hoon, ₹7500 Paytm ya Google Pay se kar dijiye.
+receiver: ₹7500? Yeh bahut zyada hai! Lekin main legal trouble se bachna chahta hoon. Kya koi aur tarika hai?  Aur is UPI ID ki verification kaisa kar sakta hoon? Koi receipt ya confirmation toh milega na?
+caller: Sir, ₹7500 hi amount hai. Kuch aur option nahi hai. UPI ID hai [fake UPI ID].  Payment karte hi hum parcel release kar denge. Receipt kaafi hoga, aur wo aapko SMS se mil jayega. Jaldi kijiye, sir, otherwise parcel seize ho sakta hai.
+receiver: Wait a minute. SMS?  Koi reference number ya case ID toh milega? Main customs website par check kar sakta hoon?  Yeh thoda suspicious lag raha hai.
+caller: Sir, website par check karne mein time waste hoga. Is scam se bachne ke liye jaldi payment kijiye, otherwise police bhi involve hogi.
+Receiver

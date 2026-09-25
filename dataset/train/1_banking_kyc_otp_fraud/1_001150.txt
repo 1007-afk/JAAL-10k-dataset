@@ -1,0 +1,8 @@
+caller: Namaste, main ICICI Bank se Aakash Sharma bol raha hoon. Aapka account mein ek suspicious activity detect hui hai.
+receiver: Suspicious activity? Kya hua? Mujhe toh koi message aaya nahi.
+caller: Sir, ek international transaction try kiya gaya tha, lekin fail ho gaya. Security ke liye, humein aapke OTP verify karna padega jo aapke registered number pe aa raha hoga.
+receiver: OTP? Par international transaction mein toh maine koi transaction nahi kiya. Mera account mein toh kuch bhi nahi hai.
+caller: Sir, yeh ek hacking attempt tha. Agar aap OTP nahi dete, toh hackers aapke account se paise nikal sakte hain. Account suspend bhi ho sakta hai. Jaldi se OTP bataiye.
+receiver: Wait, wait! Kuch toh gadbad hai. ICICI Bank toh aise call nahi karta. Mein online banking se check karta hoon.
+caller: Sir, online banking mein kuch der lagti hai. Abhi OTP bata dijiye, otherwise aapko bahut nuksan ho sakta hai. Account block bhi ho jayega.
+receiver: Mein koi OTP nahi dungi. Agar koi problem hai toh mein khud ICICI Bank branch mein jaake check karwaungi.

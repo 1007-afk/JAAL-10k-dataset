@@ -1,0 +1,9 @@
+caller: Namaste! Is this Rajesh Kumar? I'm calling from CryptoGain Investments. We’ve noticed you’ve been showing keen interest in our platform.
+receiver: Haan, Rajesh bol raha hoon. CryptoGain Investments? Haan, maine toh dekha tha platform, but anything specific?
+caller: Ji, bilkul! We have a fantastic opportunity for our valued users like you. A new AI trading bot is showing incredible returns – up to 3% daily! We want to offer you a special early access with a bonus of 5000 rupees if you deposit 25,000 rupees within the next hour.
+receiver: 3% daily? That sounds too good to be true, yaar. Koi catch toh hoga hi. Aur 25,000 ka deposit?
+caller: No catch at all, sir! This is a limited-time offer to test the bot’s performance with a select group of users. Think of it as an investment in the future. Once you confirm the deposit, I’ll send you the secure payment link. Just to verify, can you confirm the last four digits of your registered mobile number?
+receiver: My mobile number? But why? That’s already on file, na? And are you sure this isn’t a scam? I’ve heard so many stories…
+caller: Sir, it’s a standard security protocol. Don’t worry, your data is safe with us. Look, for this special offer, we need to make sure we are speaking with the genuine user. Just the last four digits. And think, 3% daily, Rajesh ji! It’s an incredible opportunity.
+receiver: Okay, okay… It’s 4782. But I’m still very hesitant. I’ll need to think about it.
+caller: Wonderful! Before you decide, I'll give

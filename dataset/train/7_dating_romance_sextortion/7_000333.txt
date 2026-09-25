@@ -1,0 +1,8 @@
+caller: Hello, is this Priya? It's Akash, we met on 'Connect Hearts' app, remember? Those late-night chats about our dreams?
+receiver: Akash? Oh my gosh, yes! It’s been a while! How are you? I’ve been so busy with work.
+caller: I’m good, Priya, just missing our conversations. Listen, I’m in a bit of a tricky situation. My mom is really unwell in Delhi and I need to rush to her, but my bank card is blocked, and I’m stuck here in Mumbai. Could you possibly send me ₹5000 as an urgent loan? I'll pay you back the moment my card gets sorted out.
+receiver: ₹5000? Really? That’s a lot of money to ask, especially after just reconnecting. Are you sure everything is okay? Can’t you borrow from anyone else?
+caller: Priya, please, my mom needs me. The doctor says it’s serious. I wouldn't ask if it wasn’t. I’ll send you a picture of my mom’s medical report. Just send the money to UPI ID: akash.mittal.22@okhdfc. You’re the only one I can trust right now.
+receiver: A medical report? Okay, send it over. But I’m still a little hesitant. It all feels a bit rushed. Let me think about it, okay?
+caller: Please hurry, Priya! I’m really worried about her. It's a matter of life and death! Just a quick transfer, and I'll be on the next flight. I'll show you the proof of flight ticket once I have the money.
+receiver: Wait, one second… This all feels really wrong. I’m not sending you anything. You're not Akash. I

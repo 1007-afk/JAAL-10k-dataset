@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Ankit bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai – ₹15,000 ki ek payment attempt ki gayi hai, jo fail ho gaya hai.
+receiver: Haan, theek hai. Mujhe bhi notification aaya tha. Kuchh ghalat to nahi hai?
+caller: Galat hai, sir. Yeh fraud ho sakta hai. Hamko sirf confirm karna hai ki aapne yeh transaction kiya tha ya nahi. Isliye, mujhe aapka naam aur aadhaar card ka last 4 digits chahiye honge, verification ke liye.
+receiver: Aadhaar card? Mujhe thoda shak ho raha hai. Bank aise phone pe Aadhaar number nahi manta.
+caller: Sir, security ke liye hi kar rahe hain hum. Abhi jo internet fraud cases ho rahe hain, usmein account suspend hone ka risk hai. Agar aap cooperate karenge toh aapka account safe rahega. Bataiye, aadhaar card ka last 4 digits kya hai?
+receiver: Pausa… Ek minute. Main Axis Bank ke customer care number se call karta hoon, aur check karta hoon. Aap wait karein.
+caller: Sir, main aapko ek OTP bhi send karunga, verification ke liye. Aap woh bhi bata dijiye, taaki hum aapke account ko secure kar saken. Jaldi kijiye, sir, fraud alert aa raha hai.

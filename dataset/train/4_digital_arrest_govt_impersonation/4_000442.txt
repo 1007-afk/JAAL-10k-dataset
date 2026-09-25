@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Singh, calling from the Directorate of Revenue Intelligence. We've flagged some unusual activity related to a parcel registered under your name.
+receiver: Haan, main hi hoon. Parcel? Kya hua? Mujhe toh koi parcel yaad nahi.
+caller: Ji, Mr. Verma. According to our records, a package containing suspected contraband was intercepted at the Delhi airport. The manifest shows it was addressed to you. This is a very serious matter.
+receiver: Contraband? Maine toh kabhi parcel order nahi kiya. Yeh galat hai. Koi mistake hogi. Aur aap inspector hain? Koi ID card number ya something?
+caller: Sirf ek minute. Haan, ID number hai 7894561230. Listen carefully, Mr. Verma. To clear this up and avoid further legal action, we need you to deposit a small sum – ₹15,000 – as a processing fee. This will facilitate the verification process.
+receiver: ₹15,000? Mere naam par jo parcel hai uske liye? Yeh bahut zyada lag raha hai. Aur mujhe kaise pata chale ki yeh scam nahi hai?
+caller: Sir, this is standard protocol. We need to ensure the package isn't linked to any illicit activity. We’ll send you a link to pay securely. Please do this quickly, otherwise we will have to involve the legal department, which will involve much larger fines and potential arrest. The link is [invented link, e.g., securepayment.in/verma].
+receiver: Arrest? Sir, mujhe yeh sab galat lag raha hai. Mein police station mein jaaunga, main authentic hoon.
+caller: Please, don't do anything rash. If you cooperate now, we can resolve this easily. Time is of the essence here. The deadline for payment is one

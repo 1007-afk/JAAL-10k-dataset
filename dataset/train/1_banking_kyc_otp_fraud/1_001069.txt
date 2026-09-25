@@ -1,0 +1,7 @@
+caller: Namaste, mujhe aapse Axis Bank se Ankit Verma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye hum KYC update karna chahte hain.
+receiver: Axis Bank se? Kya hua? Kuch suspicious activity?
+caller: Haanji, aapke naam par ek online transaction try kiya gaya tha, jo fail ho gaya, lekin security ke liye hamein yeh update karna zaroori hai. Aapka naam aur dob confirm kar sakte hain?
+receiver: Mera naam Rajesh Kumar hai, aur dob 15/08/1985 hai. Par mujhe yeh thik nahi lag raha, Axis Bank aise phone pe details nahi manta.
+caller: Sir, humein aapse yakin hai ki aap hamare saath cooperate karenge. Yeh sirf 2 minute ka kaam hai. Aur verification ke liye mujhe aapka OTP bhi chahiye hoga jo aapko SMS se milega.
+receiver: OTP nahi dunga. Tum log scam ho. Main police mein report karunga.
+caller: Sir, please! Aapko galat samajh ho rahi hai. OTP se aapka account safe rahega. Aapka account suspend bhi ho sakta hai agar aap cooperation nahi karenge.

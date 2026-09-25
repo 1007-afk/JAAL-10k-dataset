@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Raj from the Directorate of Revenue Intelligence, DRI. We're calling regarding a parcel registered under your name, ID number 789456123. It appears to contain items flagged for potential customs violations.
+receiver: DRI? Parcel? I haven't ordered anything recently. What kind of items?
+caller: Sir, initial scans indicate the presence of restricted electronics and possibly undeclared currency. We need to verify this urgently to avoid significant penalties. To initiate the verification process, we require a small processing fee of ₹5,000 to cover inspection costs.
+receiver: ₹5,000? Just for verifying a parcel? This seems suspicious. Can’t you just inspect the parcel yourselves? And why haven't I received any prior notification?
+caller: Sir, due to the sensitive nature of the potential violations, we are streamlining the process. This fee is non-refundable and ensures expedited handling. To proceed, please provide your bank details – account number and IFSC code – so we can remit the fee securely. We need to act quickly to avoid further escalation.
+receiver: Hold on, hold on. I'm calling my lawyer. This feels like a scam. You're asking for bank details over the phone based on a vague parcel claim? I'm reporting this number.
+caller: Sir, please don’t do that! This is a serious matter, and delaying will only result in higher penalties. The window for settling this is closing fast. Just provide the bank details, and we will clear everything immediately. Sir, are you sure you want to risk a legal action?
+receiver: I'm ending this call now. You're not DRI. Goodbye.

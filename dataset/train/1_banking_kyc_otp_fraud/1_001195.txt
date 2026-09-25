@@ -1,0 +1,8 @@
+caller: Namaste, mai ICICI Bank se Rahul bol raha hun. Aapke account mein kuch suspicious activity dikhai de rahi hai. KYC update ki zaroorat hai, warna account suspend ho sakta hai.
+receiver: Kya? Account suspend? Mai abhi office mein hun, baad mein baat kar sakta hun?
+caller: Sir, yeh urgent hai. Account suspend hone se pehle aapko kuch details verify karni padegi. Aapka Aadhaar card number aur OTP share karna hoga.
+receiver: OTP? Phone pe OTP nahi aaya hai mujhe. Aur Aadhaar number share karna safe hai?
+caller: Sir, yeh bank ki standard procedure hai. OTP aapke phone pe abhi nahi aaya, hum ek verification code email karenge. Aapko woh code bataana hoga, aur phir Aadhaar number. Koi chinta nahi, yeh totally secure hai.
+receiver: Okay, email karo toh. Dekhte hai.
+caller: Sir, aapke email address pe ek code gaya hai – 842915. Please jaldi bataiye, sir. Account suspend hone se pehle verify karna hai.
+receiver: Wait, wait... 842915. Mujhe thoda doubt ho raha hai. Bank se direct email nahi aaya, kuch unknown address se aaya hai.

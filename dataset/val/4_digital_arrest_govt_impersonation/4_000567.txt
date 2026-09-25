@@ -1,0 +1,11 @@
+caller: Namaste! Is this Mrs. Priya Sharma? This is Inspector Verma, calling from the Delhi Police Cybercrime Unit.
+receiver: Haan, mein Priya Sharma bol rahi hoon. Cybercrime Unit? Kya hua?
+caller: Mrs. Sharma, we've detected suspicious activity linked to your mobile number. It appears a large sum of money, approximately ₹2.5 lakhs, was transferred to an illegal cryptocurrency wallet using your device.
+receiver: ₹2.5 lakhs? Mein toh kabhi cryptocurrency use nahi karti! Yeh kya bol rahe ho?
+caller: We have evidence, Mrs. Sharma. This is a serious matter – potential involvement in money laundering. To clear your name and prevent further legal action, you need to cooperate. We need you to deposit ₹50,000 immediately into the designated government recovery account.
+receiver: ₹50,000? Par yeh sab fraud lag raha hai. Police toh aise phone nahi karti. Mujhe koi number do, mein khud police station mein jaungi.
+caller: Mrs. Sharma, this is a sensitive operation. Disclosing the station details could compromise the investigation. For your safety and to expedite the process, we require immediate compliance. We’re initiating a video call now to verify your identity and ensure transparency. Do not disconnect!
+receiver: Video call? Mein nahi jaanta hoon aapko!  Yeh toh pakkā scam hai. Mein police ko report karungi.
+caller: Mrs. Sharma, delaying will only escalate the situation. The court has issued a warrant based on the preliminary findings. Providing the ₹50,000 will show your good faith and allow us to dismiss the charges.  It’s a small price to pay to avoid a serious legal battle.
+receiver: Mein report karungi, wait kar rahein.
+caller: Mrs. Sharma, time is running out. We have already forwarded the evidence to

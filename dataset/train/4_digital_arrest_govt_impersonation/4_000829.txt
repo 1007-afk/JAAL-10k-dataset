@@ -1,0 +1,11 @@
+caller: Hello, is this Mr. Sharma? I'm calling from the Directorate of Revenue Intelligence.
+receiver: Haan, bolhiye. Who's calling?
+caller: Ji, this is Inspector Rajan. We’ve detected suspicious activity linked to your bank account – several large cryptocurrency transactions.
+receiver: Cryptocurrency? I don't do cryptocurrency. Yeh kya ho raha hai?
+caller: Sir, we need to verify these transactions. Our records show transfers to Binance and WazirX. It appears someone is using your account to launder money.
+receiver: This is ridiculous! I don't understand anything about this. I don't even know how to use Binance or WazirX.
+caller: Sir, to prevent your account from being frozen and further legal action, you need to cooperate. We require a small fee – ₹15,000 – to cover investigation costs and clear your name.
+receiver: ₹15,000? This is a scam, isn't it? I am not paying anything.
+caller: Sir, please understand, delaying this will only complicate things. We need this payment immediately to process your case. Provide the amount to the UPI ID I will share. It’s a security protocol.
+receiver: No, I will not do that! I am reporting this number. You're a fraud!
+caller: Sir, don't be hasty. This is your last chance to avoid serious consequences. Think about it, your reputation is at stake.

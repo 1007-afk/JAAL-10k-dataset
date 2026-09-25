@@ -1,0 +1,7 @@
+caller: Hello sir, this is Neeraj from FreeCharge. We are doing a special promotion for Diwali, and you’ve been selected to receive a ₹50 cashback on your next electricity bill payment.
+receiver: Really? That's great! How do I claim it?
+caller: It's very simple, sir. Just click on the link I’m sending you and enter your FreeCharge username and the last four digits of your bank account number. This is just to verify your details.
+receiver: My bank account number? That sounds a bit risky, doesn't it? I usually don't share that information.
+caller: Sir, don’t worry! It’s perfectly secure. We need it just to process the cashback quickly. The offer ends in 30 minutes, so please do it now or you’ll miss out.
+receiver: Okay, but can you tell me exactly what website I should go to? I want to make sure it’s the real FreeCharge site.
+caller: Yes, sir, of course! Go to freescharge-verify.com and enter the details as I instructed. Don't delay!

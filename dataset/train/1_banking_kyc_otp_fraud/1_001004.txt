@@ -1,0 +1,10 @@
+caller: Hello, sir? Is this Mr. Rajesh Verma?
+receiver: Haan, main Rajesh Verma hi bol raha hoon. Kya baat hai?
+caller: Sir, hum IDFC First Bank se Rahul bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai – 12,000 rupees, Gujarat se. This seems like a fraudulent attempt.
+receiver: Gujarat se? Main toh Gujarat mein kabhi nahi gaya. Kya hua exactly? Bataiye.
+caller: Sir, is transaction ko block karne aur aapke account ko secure karne ke liye, humein aapke account details verify karne honge. Please provide your last 4 digits of your Aadhaar card for immediate verification. It's a standard security protocol.
+receiver: Are you serious? Bank kabhi bhi phone par Aadhaar number maangta hai? Yeh thoda suspicious lag raha hai. Main koi personal information nahi dene wala.
+caller: Sir, please don’t be alarmed. This is a crucial step to prevent your account from being compromised. Without this verification, we will be forced to temporarily suspend your account as per RBI guidelines for your protection. We can’t risk further unauthorized access.
+receiver: Suspension? RBI guidelines? Yeh sab kuch ek aadhaar number dene se hoga? Main bank branch mein jaake verify karunga. Thank you.
+caller: Sir, with all due respect, your branch might be closed for the day. This needs immediate action. We are under strict instructions to resolve this now. Just those 4 digits, sir. Think of it as protecting your hard-earned money.
+receiver: Sir, I am not comfortable sharing any details over the phone. I’ll visit the branch tomorrow. Goodbye.

@@ -1,0 +1,9 @@
+caller: Namaste! This is Akash from SwiftLoans. We've noticed you've shown interest in quick personal loans. Good news! We have a special offer for you today. Just a small verification process and you could get up to ₹2 lakhs in your account within an hour. Are you there?
+receiver: Haan, ji. ₹2 lakhs? What's the catch? Seems too good to be true.
+caller: No catch at all! SwiftLoans is a government-approved lending platform. We just need to confirm a few details to prevent fraud, you understand. First, could you please share the last four digits of your Aadhaar card? It’s just for security purposes, madam.
+receiver: Aadhaar? I don’t think I’m comfortable sharing that. Is there another way?
+caller: Madam, security is our priority! We need to verify your identity. Look, we are offering a fantastic rate - only 8% interest. These deals don't last long. Also, for extra verification, we need a small processing fee of ₹500. You can send it to UPI ID: swiftloans.pay. This will ensure your loan gets processed faster.
+receiver: ₹500 upfront? That's suspicious. And I still don’t like sharing my Aadhaar.
+caller: Madam, please understand, this is a standard procedure. Without the processing fee, we can’t proceed. Think of it as an insurance against potential delays. And regarding Aadhaar, it’s just for basic validation. Without it, we can't even start! We are getting many requests, and this offer won't be available for long. ₹500 now or miss out on ₹2 lakhs!
+receiver: Okay, fine. I'll send the ₹500. But if this is a scam...
+caller: Wonderful! Send it immediately

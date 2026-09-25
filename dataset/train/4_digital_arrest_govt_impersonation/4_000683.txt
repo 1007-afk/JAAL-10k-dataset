@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Inspector Rajan hai, Central Cyber Crime Investigation Cell se. Aapke naam par ek parcel aaya hai, jo Mumbai se aaya hai. Usmein drugs paye gaye hain, sir.
+receiver: Drugs? Yeh kya keh rahe hain aap? Main toh kabhi parcel order bhi nahi kiya.
+caller: Haan ji. Hamare records mein dikh raha hai ki aapke address par ek parcel aaya tha. Isliye, aapko CBI office mein aana hoga, aur hamko saamne aake bataana hoga ki aapka is parcel se kya sambandh hai.
+receiver: Main CBI office nahi aa sakta. Yeh bahut sharminda karne wali baat hai. Main toh ek ordinary aadmi hoon.
+caller: Sir, ye matter bahut serious hai. Agar aap aate nahi, toh humko majbur karna padega FIR register karne ko. Aur phir, aapko jail bhi jaana pad sakta hai. Aapko 10,000 rupay kaatne padenge, aur FIR ko cancel hoga.
+receiver: 10,000 rupay? Jail? Yeh toh bewakoofi hai. Main kya karoon? Mujhe ek minute de dijiye, sir.
+caller: Sir, time bahut kam hai. Hamara officer aapka wait kar raha hai. Aapko ek video call bhi karna padega, taaki ham confirm kar sake ki aapko bolne se kuchh fark nahi padta. Call karein 9900112233.

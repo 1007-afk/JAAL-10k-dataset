@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mera naam Vijay hai, main LoanExpress se baat kar raha hoon. Aapne recently LoanExpress app mein loan ke liye apply kiya tha, kya?
+receiver: Haan, mainne apply kiya tha. Kuch process hai kya?
+caller: Haan sir, aapka profile approve ho gaya hai, lekin verification ke liye kuch details chahiye. Aapka bank account number aur OTP share karein, please.
+receiver: OTP? Main apne bank details kisi se share nahi karunga. LoanExpress se mainne kabhi sunna nahi.
+caller: Sir, please, urgent verification hai. Agar aap verification nahi karenge, to loan approve nahi hoga aur aapka application reject ho jayega. Aur aapke contacts mein bhi ek personal image dikhana padega, verification ke liye.
+receiver: Image? Tumhara kya business hai? Main police mein complaint karunga.
+caller: Sir, please, mat karo! Woh image sirf verification ke liye hai, promise! Main bas help kar raha hoon, aapko loan milna chahiye. ₹50,000 ka loan, interest bahut low hai.
+receiver: ₹50,000? Tumhara interest rate kitna hai? Aur woh image ka kya hoga?

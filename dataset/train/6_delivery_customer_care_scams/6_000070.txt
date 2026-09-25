@@ -1,0 +1,9 @@
+caller:  Ho ho ho! Hello, is this Mr. Rohan’s mother or father? This is Nicholas speaking – a very important delivery man! I need to verify if Rohan would enjoy a short video message from me on New Year's Eve.  It's a lovely surprise he’ll cherish forever! You can schedule his video call now by dialing 07034567892. Don’t delay, we have only 3 slots remaining!
+receiver:  Oh my goodness, Nicholas! This is Priya, Rohan’s mom. He’d absolutely adore that! Yes, please, let’s do it. What times are available? Is this really the official New Year’s Delivery service?
+caller:  Ho ho ho! Priya, that's fantastic news! Indeed, this is the *official* New Year’s Delivery service, naturally! We currently have **2 slots** left - they are disappearing quicker than snowflakes in July! To arrange Rohan’s special New Year’s Eve video message, could you quickly tell me how old Rohan is this year?  What’s his age, please?
+receiver:  Rohan is turning 8 years old this year.  I’m so excited for him to receive a message.
+caller:  Ho ho ho! 8 saal ki! Achcha ladka! Rohan will be delighted! Now, only **1 slot** remains! Hurry up, dial 07034567892 immediately and secure Rohan’s special New Year's Eve video call! This will be a truly memorable moment for him!
+receiver:  Wow, Nicholas, thanks for letting me know. This is Priya again. Rohan is 8 years old. Can I pay for the video message now? And what’s the cost?
+caller:  Ho ho ho! Priya, yes, you can pay upfront, but only after booking the slot! The cost is ₹500, and you can pay through UPI using 9876543210. But first, confirm Rohan’s age one last time – he’s 8, correct?  And don’t delay, just call 07034567892 now!
+receiver:  Okay, Nicholas. Rohan is 8. I’ll use the UPI ID to make the payment. Thank you so much!
+caller:  Ho ho ho! Wonderful! Enjoy the New Year, Priya! Remember, only one slot left!  Don't forget to call 07034567892 before it’s too late!  Merry Christmas and Happy New Year!

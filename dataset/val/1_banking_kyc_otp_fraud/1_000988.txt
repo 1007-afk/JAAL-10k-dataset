@@ -1,0 +1,11 @@
+caller: Namaste, mai ICICI bank se Rohit bol raha hoon. Mai Mrs. Sharma se baat kar sakta hoon?
+receiver: Haan, mai hi Mrs. Sharma hoon. Bolo, kya baat hai?
+caller: Mrs. Sharma, aapke account mein kuch security issues hain. Humara system ek attempt dikha raha hai jo Singapore se kiya gaya tha.
+receiver: Singapore se? Yeh kya ho raha hai? Mujhe toh kuch pata nahi.
+caller: Koi baat nahi, madam. Hum bas aapko secure karna chahte hain.  Aapke account ko suspend karne se pehle, mujhe kuch details confirm karni padengi. Mujhe aapka OTP pata karo, jo aapke phone pe aa raha hai.
+receiver: OTP? Lekin woh toh mai khud check karungi! Aapko kyun chahiye?
+caller: Madam, security protocol ke according, humein verify karna hoga. Aur agar aapko OTP nahi milega toh account suspend ho jayega. Please bataiye.
+receiver: Theek hai, ek minute... Woh 4567 hai.
+caller: Thank you, Mrs. Sharma. Ab aapko apna PAN card number bhi batao verification ke liye.
+receiver: PAN card number? Mai woh bhi bataoon? Yeh bahut risky lag raha hai!
+caller: Madam, relax.  Hum bas aapke account ko secure kar rahe hain. Agar aap cooperation karenge toh sab kuch theek ho jayega.

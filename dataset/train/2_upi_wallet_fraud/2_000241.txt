@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, BharatPay se call kar raha hoon. Aapke BharatPay wallet mein ₹5000 ka cashback offer hai.
+receiver: ₹5000 cashback? Mujhe koi notification nahi mila.
+caller: Ji, offer limited time ke liye hai. Verify karne ke liye, mujhe aapka wallet UPI ID aur ek OTP chahiye. Tabhi cashback activate hoga.
+receiver: UPI ID? Aur OTP? BharatPay toh khud notification deta hai. Kyun aapko chahiye?
+caller: Sir, system mein technical issue hai. Isliye direct verification karne ki zarurat hai. Jaldi karein, offer khatam hone wala hai. ₹5000 sirf aapke liye!
+receiver:  Technical issue? Mujhe kuch gadbad lag rahi hai. Mein koi information share nahi karunga. Koi baat kar raha hoon toh woh direct BharatPay app se hi karega. I’m ending this call.
+caller:  Sir, please! Account suspend ho jayega! Jaldi se UPI ID bataiye.

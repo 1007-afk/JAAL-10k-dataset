@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, hope you are having a pleasant day! I’m calling from Digi-Sounds. Your monthly Digi-Sounds updates are ready to install! This month's new soundscapes include: 1) Justin Bieber – Sorry, 2) Rihanna – Umbrella, and 3) Maroon 5 – Sugar. You have only 3 downloads available for this month. Would you like to install them now?
+receiver: Hi there! Oh, Digi-Sounds updates, yeah, that sounds alright. Sorry, let me check... "Sorry" by Justin Bieber, I heard that on the radio! And Rihanna’s “Umbrella,” that was everywhere. “Sugar” by Maroon 5… okay, those sound nice. Alright, install all three for me, please. Thank you!
+caller: Excellent choice, sir! So, to confirm, your account has just 2 downloads remaining for this month. Are you sure you want to install these 3 soundscapes - Justin Bieber, Rihanna, and Maroon 5? Or would you like to add any other selections?
+receiver: Haan, just those three are fine. Only two downloads left? Okay, no problem. Just install those three, please. Thanks!
+caller: Absolutely! So, you’re wanting to install those 3 soundscapes, and you currently have only 1 download left, correct? Is it okay to proceed with installing Justin Bieber, Rihanna, and Maroon 5?
+receiver: Yes, yes, absolutely correct. Please proceed. And my name is Kavita, if you need to make a note of anything. Hurry up with the download, please. Thanks a lot!
+caller: Wonderful, Kavita ji! So, you’re wanting to install those 3 soundscapes, and now you have only 0 downloads remaining for this month. Is it okay to proceed with installing Justin Bieber, Rihanna, and Maroon 5? Just confirming one final time before I finalize the installation for you.
+receiver: Oh dear, yes, okay! Please proceed then. Done, completely done now? Thank you so much!

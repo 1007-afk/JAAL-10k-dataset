@@ -1,0 +1,9 @@
+caller: Namaste! Maine BharatPay se call kiya hai. Aapke BharatPay wallet mein ₹15,000 cashback offer aaya hai, sirf naya UPI transaction karna hai.
+receiver: ₹15,000 cashback? Maine BharatPay kabhi use nahi kiya, mujhe confusion ho raha hai.
+caller: Haan ji, aapka account eligible hai. Offer sirf 24 ghante ke liye hai. UPI transaction karne ke liye, ‘CLAIM’ message 7890123456 number par send karein.
+receiver: ₹15,000? Aur mujhe sirf message send karna hai? Bilkul free?
+caller: Haan, bilkul free. Sirf ek small verification fee hai ₹50, jo aapke wallet se deduct hoga, lekin cashback ₹15,000 milega.
+receiver: ₹50 fee? Aur woh kaise deduct hoga? Mujhe thoda doubt ho raha hai.
+caller: Aapko tension lene ki koi baat nahi hai. ‘CLAIM’ message send karein, fee automatically deduct ho jayega, aur cashback instantly credit ho jayega. Jaldi karein, offer abhi khatam hone wali hai!
+receiver: Okay, thik hai, main try karta hoon.
+caller: Bahut achha! Fir jab aapka transaction complete ho jayega, to aapko ek OTP milega. Woh OTP mujhe send karein, taaki main aapki cashback process complete kar saku.

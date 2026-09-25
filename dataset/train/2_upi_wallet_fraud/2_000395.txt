@@ -1,0 +1,6 @@
+caller: Namaste! Mai PhonePe se Rahul bolta hu. Aapke PhonePe account mein ek transaction fail hua hai, aur isko fix karne ke liye, aapko kuch details verify karvani hogi.
+receiver: Kya? Transaction fail hua? Main abhi check karta hu. Kab hua transaction? Aur kitmana fail hua?
+caller: Haan sir, kal raat ko ₹12,000 ka transaction fail hua tha. Account secure rakhne ke liye, aapko ek OTP dena hoga jo mai aapko abhi SMS karega.
+receiver: OTP? Par PhonePe toh automatically OTP verify karta hai na? Mujhe koi SMS nahi aaya hai abhi tak.
+caller: Haan sir, lekin yeh ek new security protocol hai. OTP dene ke baad, mai aapko ek link send karunga jahan aapko ek small processing fee bharvana hoga – sirf ₹500, account activate karne ke liye.
+receiver: ₹500 fee? PhonePe mein toh fees nahi lagta hai. Yeh kuch gadbad lag rahi hai. Main police mein report karunga agar kuch bhi wrong hua.

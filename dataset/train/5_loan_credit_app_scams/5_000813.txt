@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Kumar? I'm calling from LoanExpress India. We saw your recent application for a business loan. Congratulations, you're pre-approved for up to ₹75,000! Just need to confirm a few details.
+receiver: Really? That's great news! I was hoping to get a loan for my tailoring shop.
+caller: Wonderful! So, Mr. Kumar, to finalize the approval, we need a small processing fee of ₹2,500 to verify your account. It's a standard procedure, sir. You can pay through UPI.
+receiver: ₹2,500? That wasn’t mentioned in the application. It seems a bit unusual.
+caller: Sir, this is to prevent fraudulent activity, you understand. We’re protecting your account. Once you pay, we’ll release the loan immediately. Otherwise, we may have to cancel the pre-approval due to security concerns. Also, we've received reports of people spreading false information about our company - don’t believe them!
+receiver: Okay, fine. Let me see if I can manage. Send me the UPI ID.
+caller: Absolutely, sir. The UPI ID is loanexpress.pay@icici. Please make the payment and send a screenshot to this number. Once we verify, your loan will be disbursed within the hour. And just a heads up, sir, there are some delays in processing for applicants with outstanding debts. Do you have any such issues?

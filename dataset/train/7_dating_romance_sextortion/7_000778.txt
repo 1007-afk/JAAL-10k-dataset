@@ -1,0 +1,7 @@
+caller: Namaste! I hope you are having a wonderful evening. I noticed your profile on 'Desi Hearts' - you're very beautiful! I'm Rohan, a doctor working overseas.
+receiver: Hello! Thank you. That's very kind of you to say. Nice to meet you, Rohan. What kind of doctor are you?
+caller: I’m a cardiac surgeon, mostly doing missions in remote areas. It’s very rewarding work, but also very demanding. Right now, I'm in Nepal, helping set up a new clinic. I was wondering, would you be open to sharing a few photos? It would be lovely to put a face to the name.
+receiver: Nepal? That’s quite far! It sounds like important work you’re doing. I’m usually quite cautious about sharing photos online, but I'm intrigued. Maybe just a few, if you don't mind.
+caller: Wonderful! That's so kind of you. I’ve sent you a picture of mine - it's a bit grainy, the internet here is patchy. Once the clinic is stable, I'd love to bring my family here to visit. There’s just one small problem - my bank account is frozen here until I return to the UK. Could you possibly do me a small favour? A transfer of 5000 rupees would really help me buy some essential equipment for the clinic before I head back. I'll pay you back double as soon as I can access my funds.
+receiver: 5000 rupees? That's a lot of money to ask for, especially when we’ve just met. And why can’t you use a local bank? This sounds a bit suspicious, Rohan. I'm not comfortable with this request.
+caller: Please don’t misunderstand! I would never want to take advantage of you. It

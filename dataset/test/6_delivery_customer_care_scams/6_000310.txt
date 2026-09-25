@@ -1,0 +1,9 @@
+caller: Namaste! Mai Priya Singh bol rahi hoon, Zomato Customer Care se. Aapke Zomato account par ek suspicious activity detect hui hai.
+receiver: Oh, really? What kind of activity? I haven't ordered anything unusual.
+caller: Sir, ek order kiya gaya tha ₹3800 ka, Delhi se. Aapne hi number se, lekin aapne confirm nahi kiya tha. Isliye hum verify karna chahte hain.
+receiver: ₹3800? That’s a lot! I definitely didn't order anything that expensive. What do you need me to do?
+caller:  Sir, security ke liye, humein aapka OTP verify karna hoga. SMS mein milega OTP, woh mujhe bataiye.
+receiver: OTP? Why do you need my OTP? Isn’t that a bit risky?
+caller: Sir, OTP sirf verification ke liye hai. Account ko secure rakhne ke liye. Bina OTP ke, hum order ko cancel nahi kar sakte. Please bataiye.
+receiver: Okay, I received an OTP, it’s 458219.
+caller: Thank you, sir! Ab hum order cancel kar denge aur aapke account ko secure kar denge. Aur iske bad, aapka account safe rahega.

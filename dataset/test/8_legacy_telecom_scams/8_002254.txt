@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Aapse Bharat Telecom se baat ho rahi hai. Tumne Bharat Telecom ke SMS mein 'Free Bonus' diye hue message dekha tha? Tumhein ₹500 ka recharge bonus milne wali hai, absolutely free! Ye offer sirf 2 ghante ke liye available hai, toh jaldi karo!
+receiver: Haan ji, dekha maine. Bharat Telecom se ho? Toh, mujhe kuchh bataana hai.
+caller: Haan ji, bilkul! Bas tumhari mobile number confirm karne do, please. Aur tum kaunse network ka user ho? Vodafone ya Airtel? Tumhara connection stable hai ya nahi? Itna hi pata hona chahiye ki tumko recharge bonus mila jaaye.
+receiver: Mera naam Priya Devi hai. Main Airtel ka user hoon. Connection bhi achcha hai.
+caller: Achhi ladki! Shandar! Just to be sure, can you tell me the last three digits of your IMEI number? It’s on the back of your phone, you know. It's just a quick verification step to make sure this bonus is going to the right person.
+receiver: IMEI? Woh kahaan milega? Mein phone ka back padta hoon…
+caller: Mobile number aur IMEI number, dono required hain. Isliye tumko recharge bonus milne wala hai.  Agar tum dono details provide karte ho toh tumko ₹500 ka bonus immediately mil jayega!
+receiver: Okay, okay. Mobile number hai 8765432109. Aur IMEI number... woh 3578901234 hai.
+caller: Excellent, Priya! Thank you so much for your cooperation. Your ₹500 recharge bonus will be credited to your account within the next few minutes.  Just keep an eye on your balance. Enjoy your free talk time!

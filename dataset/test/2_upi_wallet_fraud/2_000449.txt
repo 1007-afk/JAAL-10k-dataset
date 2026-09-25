@@ -1,0 +1,7 @@
+caller: Namaste! Mai Amazon Se bol raha hoon. Aapko ek ₹500 ka cashback offer mila hai, sirf naya Amazon Pay UPI a/c open karne par.
+receiver: ₹500 cashback? Kaise? Mujhe toh koi notification nahi aaya.
+caller: Ji, offer limited time ke liye hai. Aapko Amazon Pay UPI se ₹100 deposit karna hoga processing fee ke taur se, fir ₹600 cashback aapke account mein ajayega.
+receiver: Processing fee? ₹100? Amazon toh aise fees nahi lete. Main doubtful hoon.
+caller: Sir, yeh ek security check hai, fraud se bachne ke liye. Trust me! Offer sirf aapke liye hai. Agar aap open nahi karenge, offer expire ho jayega.
+receiver: Okay, toh mujhe UPI ID dedo, main ₹100 deposit kar dunga. Par mujhe promise karo ki ₹600 cashback milega.
+caller: Theek hai! Amazon Pay UPI ID hai - 9876543210@axisbank. Deposit karte hi cashback mil jayega, sir.

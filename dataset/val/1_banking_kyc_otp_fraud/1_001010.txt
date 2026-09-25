@@ -1,0 +1,9 @@
+caller: Namaste, mai Axis Bank se Rahul bol raha hoon. Aapke naam par ek transaction fail ho gaya hai. Security ke liye kuch details verify karni padengi.
+receiver: Haan, ji? Transaction fail? Kab hua?
+caller: Sir, kal raat ko 11 baje ek online transaction try kiya gaya tha, 5000 rupay ka, Flipkart pe. Aapne kiya tha?
+receiver: Nahin, maine Flipkart par kuch buy nahi kiya tha.
+caller: Sir, toh phir koi ne aapki card detail use kar raha hai. Account ko secure karne ke liye, mujhe aapka OTP mil jaaye, please.
+receiver: OTP? Main OTP share nahi kar sakta. Ye thoda suspicious lag raha hai.
+caller: Sir, please, ek minute ka kaam hai. OTP share karein, aur main aapke account ko freeze kar dunga. Agar aap OTP nahi denge, toh account suspend ho jayega aur aapka paisa bhi gaya.
+receiver: Account suspend? Theek hai, ek minute. Mujhe check karna hai.
+caller: Sir, please jaldi karein. Time guzar raha hai. Hum aapki madad karne ke liye yahan hain, lekin aapko cooperation karna padega.

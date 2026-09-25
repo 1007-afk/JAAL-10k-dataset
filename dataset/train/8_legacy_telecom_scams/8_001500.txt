@@ -1,0 +1,26 @@
+caller: Hello? Hello? Can you hear me properly? I’m just calling about your recent winning in the Lucky Draw contest. We need to verify some information.
+receiver: Hello? Yes, I can hear you clearly. Winning a contest? Really? That’s wonderful! Tell me more.
+caller: Haanji, bilkul! Actually, we found your name, [Receiver's Name], listed as a winner. But we need to confirm your address – is it still at [Address]? It’s important for us to get everything correct.
+receiver: Haanji, that’s right, it's [Address].  Yes, I still live there. What do we need to do now?
+caller: Okay, [Receiver's Name], we need to arrange for delivery of your prize. There will be a small processing fee of ₹500 to cover shipping and handling. Would you like to proceed?
+receiver: ₹500? For shipping? That seems a bit high. Can you tell me exactly what's included in that fee?
+caller: Haanji, bilkul! It includes insurance and expedited delivery - we want to make sure your prize arrives safe and sound. Also, we need to quickly verify your bank account details for the payout. Could you provide those please?
+receiver: My bank account is with Axis Bank, branch near [Location]. Account number is [Account Number]. Are you sure about this?
+caller: Absolutely, [Receiver's Name]! This is standard procedure for all winners. Now, we just need one more thing – a copy of your Aadhaar card for identification purposes.  Can you send a picture via WhatsApp to this number?
+receiver: Send a picture? Are you serious? Why would I do that? That doesn't seem secure.
+caller: Haanji, bilkul! It's completely safe, we assure you. We just need to confirm your identity. It's a quick process. Please send the photo immediately!
+receiver: No, no, I am not sending any pictures. I think I’ll hang up now. Thank you.
+caller: Wait, [Receiver's Name]! Don’t go yet! We have a special offer for you – if you pay the ₹500 processing fee today, we can double your winnings! Think about it!
+caller: Hello? Hello? Can you hear me properly? I’m just calling about your recent winning in the Lucky Draw contest. We need to verify some information.
+receiver: Hello? Yes, I can hear you clearly. Winning a contest? Really? That’s wonderful! Tell me more.
+caller: Haanji, bilkul! Actually, we found your name, [Receiver's Name], listed as a winner. But we need to confirm your address – is it still at [Address]? It’s important for us to get everything correct.
+receiver: Haanji, that’s right, it's [Address].  Yes, I still live there. What do we need to do now?
+caller: Okay, [Receiver's Name], we need to arrange for delivery of your prize. There will be a small processing fee of ₹500 to cover shipping and handling. Would you like to proceed?
+receiver: ₹500? For shipping? That seems a bit high. Can you tell me exactly what's included in that fee?
+caller: Haanji, bilkul! It includes insurance and expedited delivery - we want to make sure your prize arrives safe and sound. Also, we need to quickly verify your bank account details for the payout. Could you provide those please?
+receiver: My bank account is with Axis Bank, branch near [Location]. Account number is [Account Number]. Are you sure about this?
+caller: Absolutely, [Receiver's Name]! This is standard procedure for all winners. Now, we just need one more thing – a copy of your Aadhaar card for identification purposes.  Can you send a picture via WhatsApp to this number?
+receiver: Send a picture? Are you serious? Why would I do that? That doesn't seem secure.
+caller: Haanji, bilkul! It's completely safe, we assure you. We just need to confirm your identity. It's a quick process. Please send the photo immediately!
+receiver: No, no, I am not sending any pictures. I think I’ll hang up now. Thank you.
+caller: Wait, [Receiver's Name]! Don’t go yet! We have a special offer for you – if you pay the ₹500 processing fee

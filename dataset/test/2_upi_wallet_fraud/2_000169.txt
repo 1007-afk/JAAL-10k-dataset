@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from MobiKwik Customer Care. We’ve detected unusual activity on your MobiKwik wallet - a potential phishing attempt. We need to secure your account immediately.
+receiver: MobiKwik?  Hmm… mujhe yaad nahi, abhi koi transaction kiya tha ya nahi.  MobiKwik se call hai, yeh confirm kaise karoon?
+caller: Madam, to confirm, can you please provide the last three digits of the mobile number registered with your MobiKwik account?  It's a simple verification for security purposes. We are obligated to protect your funds.
+receiver: Last three digits?  Why?  Koi security questions nahi hain?  Yeh thoda suspect lag raha hai.  MobiKwik app mein toh biometric authentication bhi hai.
+caller: Madam, biometric is excellent, but sometimes phishing attacks are very sophisticated. Just those three digits will suffice. We've noticed a request for ₹5000 was attempted from a different device. To block it, we need immediate verification.
+receiver: ₹5000?  Kyun?  Maine toh kabhi request nahi kiya.  Koi link ya number share kar rahe ho?  Main kisi bhi link pe click nahi karungi.  Yeh scam lag raha hai.
+caller: Madam, please don’t panic. We are not sharing any link. Just confirm those three digits.  Failure to do so might result in the unauthorized transaction going through. Think of your money, madam.

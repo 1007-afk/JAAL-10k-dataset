@@ -1,0 +1,11 @@
+caller: Namaste! Namaste! Suno, suno! Mujhe ek chota sa sawaal puchna hai aur isse aap ₹5000 rupayenge! Just message your answer to 98765, simple hai! Yeh batao, Amitabh Bachchan ka age kaun hai?  Aapki reply se aapko prize milega, samajh mein aayaa?
+receiver: Haan ji, sun rahi hu. ₹5000 rupayenge?  Yeh bahut achha hai! Bachchan sahab ka age kaun hai…  Mujhe abhi yaad nahi aa raha.  Kuch time de do,  main soch rahi hoon.  Kya koi specific date hai ya koi number?
+caller: Arre, koi date ya number nahi hai!  Basta koi bhi naam batao jo aapko acha lage.  It’s just about getting your name in the draw, okay?  Ji, ji, jaldi jaldi message karo 98765 pe.  Paanch tries hai aapke paas!
+receiver:  Ok, ok,  main guess kar rahi hoon.  Agar prize hai toh  main guess kar dungi.  Main keh rahi hoon, Shah Rukh Khan!  Mai message kar dungi ‘Shah Rukh Khan’ 98765 par.
+caller: Haanji, bilkul sahi! Shah Rukh Khan hain. Message kar dijiye 'Shah Rukh Khan' to 98765.  Aapke chauthi tries baki hain,  dheere mat karo!
+receiver:  Oh wow!  Thanks!  Toh maine message kar diya hai ‘Shah Rukh Khan’.  Ab mujhe prize jeetne ka chance mila?  Aur aapko ₹5000 rupayen kab tak mil jaayenge? Prize money ki rules batayein.
+caller:  Absolutely!  Aapne sahi message kiya hai.  ₹5000 rupayen aapko mileinge, lekin iske liye aapko humein apna bank account number aur IFSC code bhejna hoga.  Just a formality, don’t worry!
+receiver:  Bank account number?  IFSC code?  Wo sab bataati hoon kyoon?  Yeh toh fraud lag raha hai!  Maine koi bhi number nahi bhegi.
+caller:  Arre, bhai, yeh sirf verification ke liye hai!  Koi darr mat lijiyen.  Agar aap verify nahi karenge, toh aap prize jeet nahi sakte.  Aapke barahare tries baki hain,  jaldi kijiye!
+receiver:  Koi darr nahi!  Main aapko koi bhi information nahi dungi.  Maine message send kar diya hai ‘Shah Rukh Khan’ aur uske baad koi bhi message nahi panchungi.  Bye bye!
+caller:  Achaa, acha!  Message mili hai.  Aapko ₹5000 rupayen mileinge.  Thank you!  Bye Bye!

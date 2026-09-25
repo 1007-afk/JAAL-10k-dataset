@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Axis Bank se Rohit Verma bol raha hoon. Aapke naam se KYC update pend ho raha hai. Agar aapne 24 hours mein update nahi kiya, to account suspend kar denge.
+receiver: KYC update? Lekin mujhe koi SMS ya email nahi aaya.
+caller: Sir, technical issue ke wajah se SMS nahi gaya. Security ke liye, mujhe aapke naam aur Aadhaar number ke last 4 digits chahiye verification ke liye.
+receiver: Aadhaar number? Koi bhi bank phone pe Aadhaar number maangta nahi. Yeh fraud lag raha hai.
+caller: Sir, please understand. Account suspend hone se better hai kuch details share kar de. Main aapko OTP bhi nahi maang raha hoon. Bas last 4 digits.
+receiver: Theek hai, ek minute. Let me check my Axis Bank app. I’ll verify on the official app, not over the phone. Thank you.
+caller: Sir, aapko aapki account ki safety ke liye fast action lena hai. Otherwise, your funds will be at risk. Please, just provide the last four digits now so I can proceed with the update, it takes just a minute.

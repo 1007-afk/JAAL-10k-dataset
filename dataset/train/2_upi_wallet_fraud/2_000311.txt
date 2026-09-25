@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank se Rohan bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity dikhi hai, ek online transaction ₹7,500 ka hua hai Nepal mein.
+receiver: Oh, Nepal? Maine toh kabhi Nepal se transaction nahi kiya. Yeh kya ho raha hai?
+caller: Haan sir, isliye hum aapko confirm karna chahte hain. Yeh transaction aapne kiya hai ya nahi? Jaldi reply karna zaroori hai, warna bank account suspend ho sakta hai.
+receiver: Account suspend? Main kya karoon? Yeh bahut scary hai!
+caller: Koi baat nahi, sir. Aapko ek OTP milega, woh humein bataiye, hum verify kar lenge. OTP milne ke baad, hum aapko ek secure link bhejenge jahan aap yeh transaction cancel kar sakte hain.
+receiver: OTP? Theek hai, ek minute… mujhe OTP mila hai – 487295.
+caller: Thank you sir. Ab wo link check karein. www.axisbanksecure.com par jayein aur OTP enter karein. Jaldi karein, time bahut kam hai.

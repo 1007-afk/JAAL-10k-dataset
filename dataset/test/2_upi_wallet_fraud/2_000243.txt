@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Neeraj bol raha hoon. Aapke BharatPay wallet mein kuch unusual activity detect hui hai. Security ke liye, aapko apna wallet verify karna hoga.
+receiver: BharatPay se? Kya unusual activity? Mujhe toh koi message nahi aaya. Verify karna hai?
+caller: Haan ji, verify karna hai. Verification ke liye aapko ek small processing fee bhar deni hogi, sirf ₹50. Iske baad aapka wallet puri tarah secure ho jayega. Agar aap verify nahi karte, toh kal se aapka wallet freeze ho sakta hai.
+receiver: ₹50? Freeze ho jayega? Kal se? Aur verify kaise karunga? Koi link bhejo.
+caller: Haan ji, aap ₹50 UPI ke zariye send karein, BharatPay ka pay ID hai - 9876543210@upi. BharatPay.co.in. Payment confirm hone ke baad, main aapko verification link send kar dunga. Jaldi karein, sir! Time bahut kam hai.
+receiver: Wait, wait! ₹50 send karne se pehle, mujhe confirm karna hai. BharatPay wale direct send karne ko bol rahe hain? Main jaake BharatPay app se check karta hoon.
+caller: Haan ji, bilkul! Jaldi karo, sir. Aapka wallet freeze hone se pehle verify zaroor karein. Offer sirf abhi ke liye hai.

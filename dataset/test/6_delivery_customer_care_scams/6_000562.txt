@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Priya Sharma calling from Zomato Customer Care. We’ve noticed some unusual activity on your account and a pending payment of ₹499 for an order you didn’t place.
+receiver: What? That's strange. I haven’t ordered anything from Zomato recently. Could you tell me more about this order?
+caller: Ji, absolutely! The order was placed through a mobile wallet transaction. To secure your account and reverse the charge, we need to verify your identity. Can you please provide the last 4 digits of your debit card and the OTP you just received on your registered mobile number? It’s just a standard security protocol.
+receiver: Hold on a minute. Asking for my card details and OTP over the phone? That doesn’t sound right. Zomato never asked me for this before. Is there a reference number for this issue I can look up on your website?
+caller: Sir, this is a highly sensitive matter and requires immediate attention. Time is of the essence to prevent further fraudulent activity. We can’t provide a reference number over the phone; it’s strictly confidential. To safeguard your account, please cooperate. We'll be able to help you once these details are confirmed.
+receiver: No, I’m not comfortable giving you that information. I’m going to call Zomato directly from the number listed on their official website. Thank you.
+caller: Sir, please don’t delay! This is your last chance to protect your account. Without verification, we cannot proceed and you will be held responsible for the unauthorized charge.

@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Rupesh Sharma, PhonePe se baat kar raha hoon. Aapke PhonePe account mein cashback offer aa rahi hai, lekin isko claim karne ke liye kuch details verify karni padegi.
+receiver: Cashback offer? Kya bol rahe ho? Mein toh koi offer dekha nahi. PhonePe pe kabhi-kabhi transaction karta hoon, lekin kabhi koi offer nahi dekhi.
+caller: Haan sir, yeh ek limited-time offer hai, sirf PhonePe users ke liye. Aapko ₹500 ka cashback mil sakta hai. Verify karne ke liye, aapka PAN card number ka last 4 digits bata dijiye. Aur ek OTP bhi send karenge, woh bhi share karna hoga.
+receiver: PAN card number? Aapko PAN card number ki zaroorat hai cashback ke liye? Yeh toh thoda funny lag raha hai. Aur OTP bhi?
+caller: Haan sir, government guidelines ke hisab se, cashback offer ko verify karne ke liye PAN card number ka last 4 digits aur OTP required hai. Yeh bilkul safe hai, sir. Hum aapke data ko secure rakhenge. Agar aapko verify nahi karte, toh aapko cashback mil nahi payega. Aur offer bhi expire ho jayega.
+receiver: ₹500 ka cashback? ₹500 ke liye PAN card number dena hai? Kuch toh gadbad hai. Mein phonePe se kabhi aise offer nahi dekha. Yaar, agar phonePe se call ho raha hai toh direct PhonePe app mein toh dikhana chahiye na?
+caller: Sir, yeh offer direct app mein nahi dikhayi deti. Yeh ek special promotional campaign hai. Sir, jaldi kijiye, offer abhi khatam hone wali hai. Bas last 4 digits bata dijiye, aur main OTP send kar dunga.

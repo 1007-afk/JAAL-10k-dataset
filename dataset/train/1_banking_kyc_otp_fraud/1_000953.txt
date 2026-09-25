@@ -1,0 +1,10 @@
+caller: Namaste, mai ICICI Bank se Rohan bolta hoon. Aapka naam Rajesh Verma hai, kya?
+receiver: Haan, main Rajesh Verma hi hoon. Kya baat hai?
+caller: Sir, aapke account mein kuch suspicious activity dikh rahi hai. Ek transaction hua hai Nepal mein ₹12,000 ka. Aapne kiya tha ya nahi?
+receiver: Nepal mein? Maine toh koi transaction nahi kiya. Yeh toh scam lag raha hai!
+caller: Sir, tension mat len, main hu na. Yeh fraud transaction hai, aur hum ise block karna chahte hain. Isliye, mujhe aapke account se linked OTP milna hoga, taaki main isko secure kar sakun. Bilkul 2 minute ka kaam hai.
+receiver: OTP? Maine kabhi bhi phone par OTP share nahi kiya. ICICI Bank aise nahi karti. Aapka number check karta hoon.
+caller: Sir, bank se ek official notification jaata hai. Aur yeh system se automatically generate hota hai, mere se nahi. Agar aap OTP nahi denge, toh account freeze ho jayega aur woh ₹12,000 nikal jayenge. Aapka nuksaan hoga.
+receiver: Freeze ho jayega? Yeh toh bahut darrlaane wali baat hai. Par main share nahi kar sakta. Mein khud ICICI bank branch mein jaakar check karunga.
+caller: Sir, thoda sa help kar dijiye. Account freeze hone se pehle OTP bata dijiye. Main guarantee karta hoon, aapka account safe rahega. Main bas aapki madad karna chahta hoon.
+receiver: Main maafi chahta hoon, par main aapko koi OTP nahi de sakta. Aapse baat karna theek tha, lekin mujhe abhi bank branch mein jaana parega.

@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? We’re calling from ‘SwiftCredit Solutions.’ Your loan application has been pre-approved for ₹75,000! Just a few quick verification steps, and the money can be in your account within the hour.
+receiver: SwiftCredit? I don’t remember applying for a loan. Could you tell me more? And how did you get my number?
+caller: No worries, sir! We partner with various lenders. Your details were submitted through a third-party portal. To finalize the approval, we need you to pay a small processing fee of ₹2,500 to secure the loan. This ensures your commitment and prevents fraud.
+receiver: ₹2,500? Before I even get the loan? That seems odd. Why can't the processing fee be deducted from the loan amount itself?
+caller: Unfortunately, sir, regulations require the upfront payment. It's a standard procedure. We'll send you a link to make the payment securely. Once the fee is cleared, we'll immediately release the ₹75,000 into your account. Think of it as a small investment for a significant financial boost. We’ll also need a copy of your recent bank statement.
+receiver: A bank statement? That’s getting a little too personal. I'm not comfortable sharing that. This feels very fishy. I think I’ll just decline.
+caller: Sir, please don’t make a hasty decision. This is a fantastic opportunity! Just complete the payment, and we’ll send you some photos of your family members - a small gesture to thank you for trusting SwiftCredit Solutions.

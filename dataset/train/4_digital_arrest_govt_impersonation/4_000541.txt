@@ -1,0 +1,8 @@
+caller: Namaste, main Constable Rana bol raha hoon, Delhi Customs se. Aapke naam par ek parcel aaya hai Mumbai se, lekin delivery ke time par illegal items milne ki sambhavna hai.
+receiver: Illegal items? Mujhe toh koi parcel order karne ki yaad nahi. Main kya karoon?
+caller: Sir, yeh bahut serious matter hai. Parcel mein suspicious items hain, aur aapka naam sender ke records mein dikh raha hai. Court mein case file ho chuka hai.
+receiver: Court mein case? Aur main? Main toh kabhi bhi illegal stuff nahi karta.
+caller: Sir, aapko is case ko settle karne ke liye ₹8,000 ka fine deposit karna padega. Hum aapko video call par connect kar sakte hain senior officer se, jo aapko process ke baare mein explain karenge.
+receiver: ₹8,000? Video call? Theek hai, par mujhe ek minute de dijiye. Main ek second mein decision nahi lega. Main apni family se bhi baat karta hoon.
+caller: Sir, time bahut kam hai. Agar aap abhi payment nahi karte, toh police aapke address par aayegi aur aapko arrest karna padega. Please, ₹8,000 urgently deposit karein.
+receiver: Arrest? Dekhiye, yeh toh scam lag raha hai. Main koi bhi payment nahi karunga. Main abhi police station mein complaint daalunga.

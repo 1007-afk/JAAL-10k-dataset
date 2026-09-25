@@ -1,0 +1,9 @@
+caller: Namaste! Kaise hain aap sab? Main Rahul Verma hoon, ‘SafeGuard Solutions’ se baat kar raha hoon. Humare system ne dekha hai ki aapke name par ek important alert hai. Iska matlab hai ki aapko har cheez update karne ki zarurat hai. Isliye humein aapse ek helpline number share karna hai. Helpline number hai 9876543210. Apne computer ko secure rakhne ke liye, jaldi call karein. Bus 3 minutes ka time hai.
+receiver: Namaste Rahul ji. Suni suni, helpline number? 9876543210? Computer ko secure rakhna? Kya huaa? Bataiye mujhe fir se.
+caller: Haan ji, aapka internet connection thik hai? Agar woh thik hai toh aapke data safe hain. Parantu, humare system ne dekha hai ki aapke bank account mein kuch changes happened hain. Isliye hume aapko inform karna hai. Toh, please call 9876543210. Bus 2 minutes bache hain, tumhare liye yeh important hai.
+receiver: Bank account mein changes? Mein toh kabhi bank jata bhi nahi! Rahul ji, kya bol rahe hain aap? Fir se batao.
+caller:  Aapko confusion ho raha hai? Hum aapke digital identity ko protect karne waali hain. Internet pe fraud happening hai, aur hum aapko save karna chahte hain. Isliye, agar aap call na karein toh aapki account mein problem aa sakta hai.  Jaldi call karein, sirf 1 minute ka time hai.
+receiver:  Arre yaar, 1 minute? Confusion ho raha hai! Rahul ji, mera naam Priya Sharma hai. Mein kya karu? Fir se batao.
+caller: Priya ji, aapko sirf helpline number 9876543210 pe call karna hai.  Hum aapki madad karenge. Bus der na karein, sirf 15 seconds bache hain.  Yeh aapki zindagi ke liye zaroori hai!
+receiver: 15 seconds? Seriously? Okay, fine, I am calling. 9876543210... Wait a second! This feels wrong.
+caller: Ji haan, Priya ji. Acha hai ki aap samajh gaye.  Yeh aapki security ke liye bahut zaroori thi.  Thank you!

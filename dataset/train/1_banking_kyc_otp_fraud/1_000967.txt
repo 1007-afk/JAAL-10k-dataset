@@ -1,0 +1,7 @@
+caller: Namaste, main HDFC bank se Rohit bol raha hoon. Aapke naam par ek account hai, aur usmein se kuch aashankaat transaction hue hain. Aapko KYC update karna hoga urgent basis par.
+receiver: HDFC se? KYC update? Mujhe toh koi message nahi aaya tha. Kya transaction hua?
+caller: Haan sir, ek international transaction hua hai. Fraud hone se pehle aapko apna account verify karna hoga. Isliye main aapko call kar raha hoon. Aapko apne account number aur Aadhaar card number ka last 4 digits batane होंगे.
+receiver: Account number aur Aadhaar? Par woh toh confidential hai na? Bank aise phone pe poochta hai?
+caller: Sir, security ke liye hai. OTP bhi send karenge aapke registered mobile number pe. Tabhi verify hoga. Account suspend bhi ho sakta hai agar update nahi kiya toh.
+receiver: OTP? Theek hai, dekhta hoon. Arey, OTP aa gaya. 123456.
+caller: Haan, sahi OTP hai sir. Ab aapka account verify ho gaya hai. Shukriya aapke cooperation ke liye. Aur ek baar OTP dene ke baad, hum aapke account mein 5000 rupees secure kar denge, fraud se bachne ke liye.

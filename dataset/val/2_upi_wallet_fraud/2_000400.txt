@@ -1,0 +1,7 @@
+caller: Namaste sir, mai Axis bank se Rahul bol raha hoon. Aapke PhonePe account mein ek suspicious transaction detect hua hai, 7500 Rupees ka. Security ke liye, humein aapki identity verify karni hogi.
+receiver: 7500 Rupees? Kaunsa transaction hai? Mujhe toh PhonePe par koi notification nahi aaya.
+caller: Sir, woh ek online shopping transaction tha, jisko aapne approve nahi kiya. Is transaction ko reverse karne aur aapke account ko secure karne ke liye, humein aapka OTP aur PhonePe PIN chahiye.
+receiver: OTP aur PIN? Yeh thoda risky lag raha hai. Axis bank aise phone calls karta hai kya?
+caller: Sir, yeh ek urgent security protocol hai. Agar aap OTP aur PIN nahi dete, toh hum transaction reverse nahi kar paenge aur aapka account hack ho sakta hai. Time bahut kam hai, sir. Just 2 minutes.
+receiver: Okay, wait karo. Mai apne PhonePe app check karta hoon. Agar koi suspicious transaction dikhta hai toh…
+caller: Bilkul sir, jaldi karo! Account hack hone se pehle OTP aur PIN do. Aapko message milega, woh read karein aur humein bataiye.

@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Rohan from Global Crypto Solutions. We're offering a fantastic opportunity to invest in a new cryptocurrency, StellarRise. It's projected to give 10x returns in just 30 days!
+receiver: StellarRise? Never heard of it. 10x returns? That sounds too good to be true. What's the catch?
+caller: No catch, sir! It's a new technology, early investment. We need a small initial investment to unlock higher tiers. Just ₹5000 to start, and you'll be on your way to big profits! We can do the transaction via UPI.
+receiver: ₹5000? And how do I withdraw my profits later? What are the fees?
+caller: Withdrawals are simple, sir. We have a small 5% processing fee to cover network costs. Completely standard. Once you deposit the ₹5000, I’ll send you the StellarRise wallet address.
+receiver: 5% fee every time I withdraw? That adds up. Can I see some proof of previous investors making these 10x returns?
+caller: Sir, unfortunately, those are confidential. But trust me, this is a legitimate opportunity. Just confirm your UPI ID and let's get you started on the path to financial freedom!

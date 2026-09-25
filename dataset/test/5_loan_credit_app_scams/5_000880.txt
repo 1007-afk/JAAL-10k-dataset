@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajesh hai, ExpressLoans se. Aapka phone number hamare database mein aaya hai – aapko ₹50,000 tak ka personal loan approve karne ka mauka hai. Koi credit check nahi, sirf ek small verification fee lagani hai.
+receiver: ₹50,000 loan? Credit check nahi hai? It sounds too good to be true. Kaise verify karna hai?
+caller: Ji bilkul! Sirf ₹250 verification fee hai.  Aapko apna PAN card aur bank account number dojna hoga. Hum ek OTP bhejenge, woh bataiye, bas! ExpressLoans app download bhi kar sakte ho, bahut easy hai.
+receiver: PAN card aur bank account number?  Hmm, I’m a little uneasy about that.  Can I talk to someone about this first?
+caller: Arre, time barbaad mat karein! Offer limited time ke liye hai. Aur bahut se log le rahe hain. Agar aapke paas PAN card nahi hai, toh aadhaar card se bhi ho jayega. Jaldi karein, beta, warna offer chala jayega!
+receiver:  Aadhaar card bhi? This is starting to feel like a scam. I'm going to block this number now.
+caller: Arre arre, thoda to samjho!  ₹250 fee ke baad, aapko ₹50,000 mil jayenge, instant!  Aur agar aap nahi lete, toh humko koi option nahi hai, hum ko aapki details police ko report karni padegi – fake documents use karne ki koshish karne ke liye.

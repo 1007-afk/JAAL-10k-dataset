@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul Sharma hai, Bajaj Finance se calling kar raha hoon. Aapko ek achha cashback offer mil raha hai UPI transactions pe!
+receiver: Cashback? Bajaj Finance se? Kya offer hai?
+caller: Haan ji! Aap apne UPI apps - PhonePe, GPay, Paytm - se ₹500 tak cashback kama sakte hain! Bas ek small verification process complete karna hai. Ek OTP bhejna hai, aur cashback automatically aapke account mein transfer ho jayega.
+receiver: Verification? OTP kyon bhejna hai? Mein toh koi Bajaj Finance offer ke bare mein nahi sunne wala.
+caller: Sir/Madam, security ke liye hai. Verification ke bina, fraud ho sakta hai. Aapka loss bhi ho sakta hai. ₹500 cashback miss bhi ho sakta hai!  Aapka mobile number bataiye, please, OTP bhejne ke liye.
+receiver:  Okay, mera number 9892012345 hai.
+caller: Dhanyavaad! OTP bheja gaya hai. Ab ₹500 cashback claim karne ke liye, aapko ek small processing fee sirf ₹50 bharne hogi. Aapko online shopping ke liye ₹500 cashback milega, aur ₹50 processing fee bhar denge. Deal hai na?
+receiver: ₹50 processing fee? Yeh toh sahi nahi lag raha hai.  Mein sochta hoon.

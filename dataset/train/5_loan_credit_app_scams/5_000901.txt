@@ -1,0 +1,8 @@
+caller: Hello! Is this Rahul? I’m calling from FastCashPro. We’ve got an incredible offer just for you – a guaranteed loan with super easy approval. How are you doing today?
+receiver: Rahul here. FastCashPro? Never heard of you. What’s this about? Sounds a bit fishy.
+caller: No worries, buddy! We’re new to the area, but we’re legit. We’ve partnered with a few banks to offer instant loans – even if your credit isn't perfect. Just need to confirm a few details. We can get you ₹75,000 within an hour. First, a small processing fee of ₹750 to unlock the loan.
+receiver: A processing fee *before* I even get the loan? That’s not how loans work. And what banks are you partnered with? Can you give me some names?
+caller: Listen, Rahul, it’s just to verify your account and prevent fraud. These things are standard. Don’t miss out on this amazing opportunity! Many people are applying right now. Just send the ₹750 to this UPI ID: securecash75@axisbank. Once that’s done, the money will be in your account immediately.
+receiver: Look, I'm not comfortable with this. You’re asking me to send money upfront for a loan. That's a huge red flag. I'm going to report this number.
+caller: Rahul, Rahul! Don't be like that! Just ₹750! Think of all the things you could do with ₹75,000! A new phone? A weekend trip?  The offer is only valid for the next 15 minutes.
+receiver: I’m ending this call. Goodbye.

@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Axis Bank se Aakash bol raha hoon. Aapke naam par ek international transaction ka attempt hua hai ₹28,000 ka, Nepal mein. Kyuki yeh suspicious hai, aapka account suspend kar diya gaya hai. Immediately call karein 022-24907777 par. Urgent hai, sir.
+receiver: ₹28,000? Nepal? Account suspend? Maine toh Nepal mein kabhi transaction nahi kiya. Yeh bahut hi alag lag raha hai. Account suspend hone ka kya matlab hai?
+caller: Ji ji, sir. Account suspend hone ka matlab hai ki aapka account temporarily block kar diya gaya hai, tak yeh transaction investigate ho sake. Hamare system ne Nepal mein dekha hai, isliye precautionary measure liya gaya hai. 022-24907777 pe call karein aur kuch details dein, taaki hum aapko verify kar sakein.
+receiver: The number is just a general Axis Bank number, isn't it? Mujhe thoda doubt ho raha hai. Agar account suspend hai toh banking app mein message kyun nahi dikh raha hai?
+caller: Sir, online banking system update ho rahi hai, isiliye message dikh nahi raha hai. Aapko urgently call karna padega. Ek minute delay bhi aapki account ke liye risky ho sakta hai. Aapka Aadhaar number aur dob bataiye, taaki main check kar sakoon.
+receiver: Aadhaar number? Dob? Sirf phone pe bataun? Yeh toh bahut risky hai! Mai kisi bhi number pe information nahi dene wala. Aapko bank mein aake verify karna chahiye.
+caller: Sir, bank mein aana bahut time waste karega. Aapka account suspend hai, aur hum chahte hain ki aapka paisa safe rahe. Ek OTP aapke phone pe aaega, woh bata

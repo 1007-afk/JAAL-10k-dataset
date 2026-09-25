@@ -1,0 +1,11 @@
+caller: Namaste, sir! Mera naam Vijay hai, main Paytm Care se phone kar raha hoon. Aapke Paytm wallet mein kuch suspicious activity dikhi hai.
+receiver: Kya? Suspicious activity? Kaun sa?
+caller: Ji, ek bahut badi amount ka transaction attempt kiya gaya tha, ₹15,000. Aapne kiya tha ye?
+receiver: ₹15,000? Nahin, maine toh aisa kuch bhi nahi kiya.
+caller: Sir, ye bahut serious hai. Aapke account ko secure karne ke liye, mujhe aapka OTP verify karna hoga, aur phir kuch details. Thode minutes lagega, lekin aapka account safe rahega.
+receiver: OTP? Par kyun? Mujhe toh lagta hai ye fraud lag raha hai. Paytm toh khud OTP se zyada protection provide karta hai.
+caller: Sir, ye ek new security protocol hai. OTP sirf verification ke liye hai, aur kuch details ke baad main aapko confirm kar dunga ki sab theek hai. Jaldi karna hoga, otherwise hacker aapke account mein access kar sakta hai.
+receiver: Theek hai, toh mujhe kya details dene hai?
+caller: Sir, aapka Paytm wallet linked bank account number aur expiry date batao, please. Tabhi main security check kar sakta hoon.
+receiver: Bank account number? Nahin, main ye nahi dunga! Ye toh fraud hai! Main police mein complaint karunga!
+caller: Sir, please! Aapko ₹15,000 ka loss hoga! Just give me the information, and I'll fix everything. Sir?

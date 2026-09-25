@@ -1,0 +1,6 @@
+caller: Namaste, main Bharat UPI se bol raha hoon. Aapke Bharat UPI account mein ₹50 ka cashback offer hai. Claim karne ke liye, ek small verification process complete karna hoga.
+receiver: Bharat UPI? Mein Bharat UPI use karta hoon. Cashback offer? Verification process kya hai?
+caller: Sir, verification ke liye humein aapke bank account ka last four digits chahiye. Aur ek OTP bhi verify karna hoga jo aapke mobile number par aayega.
+receiver: Bank account ka last four digits? Yeh bahut risky lag raha hai. Bharat UPI toh aise nahi karta.
+caller: Sir, yeh ek limited time offer hai. Agar aap verify nahi karenge, toh aap ₹50 ka cashback haar jaayenge. Aur aapka account bhi deactivate ho sakta hai.
+receiver: Account deactivate ho sakta hai? Mein bank mein call karta hoon, aur confirm karta hoon. Aapko koi bhi number ya information nahi milegi. Aap fraudster ho.

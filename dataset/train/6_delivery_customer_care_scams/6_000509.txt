@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? My name is Rohan from Bluebird Courier. We have a package addressed to you, but there's been an issue with the delivery address.
+receiver: Haan, this is Mr. Sharma. What's the issue? What package is it?
+caller: It’s a high-value item from Meesho, sir. Seems like there’s a discrepancy in the pin code. To reroute the package and confirm your address, we need to verify your identity with a one-time password sent to your registered mobile number.
+receiver: Okay, Meesho… I did order something recently. Send the OTP, please.
+caller: Absolutely, sir. The OTP is 482915. Please confirm this is correct to proceed with the delivery. We also need to quickly update the payment details, sir. There's a small charge of ₹250 for address correction and rerouting.
+receiver: ₹250? For address correction? That seems a bit much.
+caller: Sir, this is standard procedure for high-value items. Without it, we can't guarantee the security of your package. We’ll need you to pay via UPI. The payment needs to be made instantly, or we'll have to return the package.
+receiver: Wait a minute… I’m going to check with Meesho first.
+caller: Sir, please do not delay! The window for rerouting is closing. We are experiencing a high volume of deliveries, and if you miss this opportunity, the package will be returned to the sender. Provide the UPI ID quickly, sir.

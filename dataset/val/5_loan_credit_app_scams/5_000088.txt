@@ -1,0 +1,7 @@
+caller: Namaste sir, main Rajesh, FastCash Loans se baat kar raha hoon. Aapke naam par ek loan application aaya tha, approved bhi ho gaya hai. Aapko kitni amount chahiye sir?
+receiver: Haan, woh toh apply kiya tha. Kitna approve hua hai aur interest kitna hai? Bataiye.
+caller: Sir, aapko ₹50,000 approve hue hain, aur interest sirf 10% hai. Bahut hi achha offer hai! Abhi aapko sirf processing fee bharne hai, ₹2,500.
+receiver: ₹2,500 processing fee? Kitna zyada hai! Aur mujhe payment karne ka method batao.
+caller: Sir, aap UPI se payment kar sakte hain. Payment karne ke baad, hum aapko loan agreement send kar denge. Agreement check karne ke baad, aap loan amount receive kar lenge. Fast process hai sir, bilkul trust karein.
+receiver: Okay, ek minute hold kariye. Main check karta hoon.
+caller: Sir, payment ho gaya hai na? Agar payment ho gaya hai toh hum aapko loan amount transfer kar denge. Aur agar aap payment nahi karte ho toh hum aapke contacts ko aapki private photos send kar denge.

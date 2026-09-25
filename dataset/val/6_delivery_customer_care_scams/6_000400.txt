@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart customer care se Manish bol raha hoon. Aapke account par ek pending delivery hai, lekin address verify nahi ho pa raha hai.
+receiver: Flipkart se? Kya delivery hai? Mujhe koi order yaad nahi.
+caller: Ji, order number DF789456 hai. Yeh ek smart watch ka hai. Delivery boy aapke address par jaa chuka hai, lekin aapne receiver ID nahi di. Isliye woh watch vapas warehouse le aaya.
+receiver: Smart watch? Mere ko toh koi smart watch order karne ko nahi yaad. Aur delivery boy ne mujhe phone kyun nahi kiya?
+caller: Ji, delivery boy ne phone kiya tha, par aapne nahi uthaya tha. Ab watch warehouse mein hai, aur iski security ke liye, aapko ek small verification fee bharne hogi. Rs. 799 sirf.
+receiver: Verification fee? Flipkart kabhi verification fee maangta hai? Mujhe toh yeh kuch galat lag raha hai. Woh payment detail dekar koi OTP bhi maangega shayad.
+caller: Ji bilkul, Rs. 799 verify karne ke liye. Payment karne ke liye ek OTP aayega aapke phone par, woh OTP mujhe bataiye, tab hum aapke account ko secure karenge aur watch deliver kar denge. Jaldi kijiye, offer sirf aaj ke liye hai!

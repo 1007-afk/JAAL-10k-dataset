@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? We’re calling from LoanExpress India. We've processed your loan application for ₹75,000, approved! Just a few formalities to complete.
+receiver: LoanExpress? Oh, really? That's great news! I applied a few days ago. What formalities are left?
+caller: Yes, Priya ji. To activate the loan, we need to verify your account details. Could you please share the last four digits of your bank account number and a small OTP we'll send to your registered mobile? Just to confirm it’s you.
+receiver: Okay, the last four digits are 4321. And I've received an OTP… it’s 8765.
+caller: Thank you, Priya ji. Perfect! Now, there's a small processing fee of ₹5,000 that needs to be paid upfront to secure the loan. This is standard procedure. We’ll refund it once the loan is disbursed.
+receiver: ₹5,000? But I don't remember seeing anything about an upfront fee. Can’t I just get the loan first and pay it later?
+caller: Unfortunately, Priya ji, regulations have changed. This fee prevents fraudulent activity. If you don’t pay, we’ll have to cancel the loan approval.  And we'll need to report your attempted fraud to the authorities. We will also share the details with your family and friends to ensure you take this matter seriously. Do you understand?
+receiver: Wait, report me to the authorities?  Share with my family and friends? This sounds really fishy.  I think I need to check something first.

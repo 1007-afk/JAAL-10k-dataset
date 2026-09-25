@@ -1,0 +1,14 @@
+caller: scammer : Hanji hello, kaise hain aap? Aapke phone par hamari nai mobile music service ka offer mila hoga, right?
+receiver: Hanji, hello. Haan, kuch message mila tha. Kya service hai yeh?
+caller: scammer : Haan, bilkul! Yeh hamari ekdum nayi music streaming service hai, jisme aapko top artists ke saare latest gaane sunne ko milenge, bilkul free! Aapne jo message dekha, woh usi ka offer hai. Sabse achhi baat yeh hai ki aapko ek free music player bhi milega, jo kuch hi der mein aapke phone par pahunch jayega.
+receiver: Acha, free music player? Yeh toh badhiya hai. Toh mujhe kya karna hoga yeh sab paane ke liye?
+caller: scammer : Bahut simple hai! Aapko bas apne phone par ek chhota sa app install karna hoga. Yeh app hamari music service ko chalaega aur woh free music player bhi usi mein integrate ho jayega. Aur jaise hi aap install karenge, aapko access mil jayega top artists ke saare gaano ka. Bahut hi smooth experience hoga, aapko yakin nahi hoga!
+receiver: Oh, ek app install karna hoga? Woh app kon sa hai? Aur safe hai na yeh sab?
+caller: receiver: Oh, ek app install karna hoga? Woh app kon sa hai? Aur safe hai na yeh sab?"
+}
+```
+
+```json
+{
+  "message": "caller: scammer : Haan ji bilkul! App ka naam hai 'MelodyMax Player'. Bahut hi popular aur secure app hai, lakhon log use kar rahe hain. Aapke data ki full security ka hum dhyan rakhte hain, bilkul chinta na karein. Yeh aapke phone ko koi nuksaan nahi pahunchayega, balki aapke music experience ko next level le jayega!
+receiver: receiver: MelodyMax Player? Main pehle kabhi suna nahi iska naam. Aur secure hai, yeh aap pakka keh sakte hain? Kahi mera personal data toh leak nahi ho jayega?

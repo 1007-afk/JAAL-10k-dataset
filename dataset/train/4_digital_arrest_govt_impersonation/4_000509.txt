@@ -1,0 +1,12 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapka ek parcel Mumbai airport par ruk gaya hai.
+receiver: Customs se? Kya baat hai? Parcel ka kya hua?
+caller: Parcel mein illegal items paaye gaye hain, sir. Drugs ya faulte currency ki suspicion hai.
+receiver: Drugs? Yeh kaise ho sakta hai? Main toh itna saara online shopping karta hoon, kabhi kuch nahi hua.
+caller: Koi baat nahi, sir. Inquiries complete karne ke baad, aapko Rs. 15,000 ka fine bharne padega, tab parcel release hoga.
+receiver: 15,000? Sirf fine? Aur mujhe yeh kaise pay karna hai? Koi link hai?
+caller: Haan, sir. Paytm ya Google Pay ke zariye payment kar sakte hain. Main aapko secure link send karta hoon. Koi tension nahi lijiye, hum aapki madad ke liye hi call kar rahe hain.
+receiver: Wait, ek minute. Main confirm karna chahta hoon. Aapka naam bataiye aur koi reference number bhi dedo jo mai customs website par check kar sakta hoon.
+caller: Sir, policy ke according main apna naam bata nahi sakta. Par mai aapko assurance deta hoon, yeh legal process hai aur parcel ko release karne ke liye aapko payment karna hoga. Payment ke baad aapko parcel mil jayega.
+receiver: Sir, mujhe yeh sab kuch bahut suspicious lag raha hai. Main kisi aur se baat karna chahta hoon.
+caller: Sir, agar aap abhi payment nahi karenge, toh humko parcel ko police custody mein dena padega aur aapke khilaf legal action lena padega. Please, sir, cooperation kijiye.
+caller: Main aapko link send kar raha hoon sir, jaldi payment kar dijiye. Time khatam ho raha hai.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay, PaySafe se bol raha hoon. Aapke PaySafe wallet mein aaj ek transaction hua hai ₹7,500 ka, jo aapne nahi kiya hai.
+receiver: ₹7,500? Mainey toh koi transaction nahi kiya! Kya ho raha hai?
+caller: Ji, theek hai. Abhi humein yeh transaction block karna hai, warna aapke account se aur bhi paisa nikal sakte hain. Aapko bas apne account details confirm karne hain.
+receiver: Account details? Kaise confirm karwaun? Yeh kuch ghalat lag raha hai.
+caller: Aapko sirf OTP dena hai jo aapke phone pe aaega. Tabhi hum account ko secure kar paenge. ₹7,500 ka loss hone se bach jayenge. Jaldi karo!
+receiver: Theek hai, dekhta hoon… Ek OTP aaya hai… 4829.
+caller: Shukriya! Ab aapka account safe hai. ₹7,500 fir se aapke account mein deposit ho jayega. Aapko ₹500 ka processing fee dena padega, woh bhi PaySafe wallet se hi.
+receiver: ₹500 fee? Aur woh bhi wallet se?

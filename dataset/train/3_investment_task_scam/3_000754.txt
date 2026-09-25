@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Ravi hai, 'CryptoGainz' se. Aapke number par call kar raha hun ek special investment opportunity ke baare mein.
+receiver: CryptoGainz? Kis baare mein hai?
+caller: Ji haan, hum ek naya cryptocurrency, 'NovaCoin', launch kar rahe hain. Initial investors ko bahut zyada returns mili hai - up to 30% in just a week! Aap bhi participate kar sakte hain.
+receiver: 30%? It sounds too good to be true.
+caller: Absolutely not! Yeh ek limited-time offer hai. Sirf ₹5000 ka investment karein, aur aapko first 24 hours mein 15% ka profit milega. Hum aapko ek secure wallet address denge jahan aap NovaCoin deposit kar sakte hain.
+receiver: ₹5000? And how do I withdraw my profits?
+caller: Withdraw karne ke liye, ek small processing fee lagati hai, ₹499. Yeh fee security ke liye hai. Jab aap fee pay kar denge, toh aapka profit instantly aapke account mein transfer ho jayega.
+receiver: A processing fee *after* I’ve made a profit? That’s unusual.
+caller: Ji haan, yeh humara standard procedure hai. Yeh fee fraud se bachne ke liye hai. Trust us, yeh ek bahut hi profitable opportunity hai. Aapko maaf karna nahi chahiye.
+receiver: I need to think about this. I'll call you back.
+caller: Okay, sir. Par yaad rakhein, yeh offer sirf abhi ke liye valid hai. Fast action lenge toh zyada profit hoga. Hum aapka wait karenge!

@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Sharma? I’m calling from HDFC Bank’s fraud prevention department. We’ve noticed some unusual activity on your account – a large attempted transaction from a foreign IP address.
+receiver: Haan, Raj Sharma bolta hoon. Kya hua? Foreign IP address? Main toh kuch transaction nahi kiya.
+caller: Exactly, sir. That’s why we’re calling. To protect your funds, we need to quickly verify some details. It’s a new security protocol. Could you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Sir, yeh toh scam lag raha hai. Bank aise calls karta hai kya? Koi OTP nahi dene ka.
+caller: Sir, please don't be alarmed. This is a standard procedure. Your account could be suspended if we don’t verify immediately. We are just following protocol. For your safety, we need to confirm your Aadhaar number as well.
+receiver: Aadhaar number bhi?  Sir, yeh bahut hi suspicious lag raha hai. Main police mein report karunga agar aapko mere Aadhaar number ka koi zaroorat nahi hai.
+caller: Sir, please understand, this is for your benefit. We need to ensure the transaction is fraudulent. If you don't cooperate, we will have to freeze your account for further investigation. We can't risk you losing your money, sir. Please, just the Aadhaar number.

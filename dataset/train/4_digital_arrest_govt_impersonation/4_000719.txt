@@ -1,0 +1,10 @@
+caller: Namaste! Main Delhi Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel customs clear hone ke liye pending hai.
+receiver: Delhi Customs? Mere ko toh koi parcel order karne ka yaad nahi aa raha. Aur aapne mujhe call kyun kiya?
+caller: Dekhiye, parcel mein illegal items hain, isliye customs ne rok liya hai. Aapko parcel release karne ke liye kuch formalities complete karni padengi aur ek small amount deposit karna hoga.
+receiver: Illegal items? Main toh kabhi aisa kuch order nahi kiya. Yeh koi pakka fraud hai. Tumhara naam aur department ID batao.
+caller: Sir/Madam, main aapko details phone par nahi de sakta, security reasons se. Aapko ek secure payment link mil jayega, wahaan se aap payment kar sakte hain. Amount sirf ₹7,500 hai, aur parcel aapka hi hai, trust me. Isko jald se jald clear kara lo warna parcel destroy kar diya jayega.
+receiver: ₹7,500? Tum logon ko serious lagte ho. Main police mein complaint karungi. Aur parcel destroy kar diye jayega? Main certificate demand karta hoon.
+caller: Sir/Madam, aap police mein complaint kar sakte hain, lekin parcel toh destroy ho jayega. Dekhiye, main kar raha hoon aapki madad. Payment link: paysecureonline.com/customs-release. Jaldi karo, sir/madam. Yeh last chance hai.
+receiver: Mujhe koi certificate nahi mila, aur ye link suspicious lag raha hai. Main report kar dungi tumhare number ko.
+caller: Sir/Madam, aap time waste kar rahe hain. Aapki responsibility hai parcel clear karwaane ki. Link check karein, payment karein, aur parcel collect karein. ₹7,500 sirf!
+receiver: Stop calling me. This is a

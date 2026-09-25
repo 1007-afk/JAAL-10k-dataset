@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mr. Verma? This is Neeraj calling from FreeCharge customer service.
+receiver: Haan, bolie. FreeCharge? Kya baat hai?
+caller: Sir, we've detected an unusual cashback credit of ₹12,500 to your FreeCharge wallet. Seems like there was a system error. We need to verify this with you to prevent fraudulent activity.
+receiver: ₹12,500? Wow! System error? Toh mai abhi kya karoon? Kuch OTP nahi dunga, samajh rahe ho?
+caller: Sir, absolutely! No OTP required. Just a quick confirmation. To secure your wallet and process this cashback, please send a message with your FreeCharge User ID to 9223044777. It’s a one-time process.
+receiver: My User ID? Okay, wait, let me check. Arey, mere User ID toh [Receiver's ID] hai. Main abhi send kar deta hoon. Par agar yeh koi scam nikla toh main complaint karunga.
+caller: Excellent! Thank you, sir!  Now, to activate the cashback, we need you to confirm a small 'processing fee' of ₹250. Send 'PROCESS' to 9223044777. This is just to verify your commitment to receiving the full amount.
+receiver: ₹250 processing fee?  Kabhi suna nahi. Aur FreeCharge toh aise fees nahi lete. Wait a minute, mai call kar ke check karta hoon.
+caller: Sir, this is a limited-time offer to rectify the system error. If you don’t confirm now, the ₹12,500 cashback will be reversed. Don't miss out on this amazing opportunity! Send 'PROCESS' now!

@@ -1,0 +1,8 @@
+caller: Namaste sir, mein Axis Bank se Rahul Khanna bol raha hoon. Aapki UPI ID par kuch suspicious activity detect hui hai. Account secure karne ke liye, humein kuch details verify karne honge.
+receiver: Kya? Koi suspicious activity? Mujhe toh kuch pata nahi hai. Account mein balance check kar leta hoon.
+caller: Sir, time kam hai. Account freeze hone se pehle, please apna registered mobile number par aane wala OTP mujhe bataiye. Sirf verification ke liye hai.
+receiver: OTP? Par phir bhi, mein bank branch mein jaakar verify kar sakta hoon. It’s safer, na?
+caller: Sir, branch mein line lagenge, aur account freeze ho sakta hai jab tak aap verify nahi karte. Agar aap OTP bata denge, toh main instant confirm kar dunga aur aapka account safe rahega.  Sirf ek OTP, trust me.
+receiver:  Okay, wait kar raha hoon. Just bata do, OTP se kya verify hota hai exactly? Mein kitna careful hoon, you know?
+caller: Sir, OTP se hum check karte hain ki UPI ID aapki hi control mein hai. Aapko ₹50,000 transfer ka confirmation message bhi mil jayega jab verification ho jayega.  Please bataiye OTP, sir?
+receiver: ₹50,000? Transfer? Mein toh koi transfer nahi kiya. Acha, mujhe kuch galat lag raha hai. Mein call cut kar raha hoon.

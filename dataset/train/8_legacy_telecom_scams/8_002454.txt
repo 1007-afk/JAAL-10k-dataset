@@ -1,0 +1,12 @@
+caller: Namaste sir, main Reliance Jio customer support se baat kar raha hoon. Aapki mobile number 24 hours mein suspend hone wali hai. Aap isko renew karna chahenge?
+receiver: Reliance Jio se? Mein suspend hone wala hoon? Mujhe abhi tak koi notification nahi mila. Mera name hai Priya Patel, please bataiye kyun suspend ho rahi hai? Aur suspension ka koi reason todi hai kya?
+caller: Ji madam, bilkul. Madam ka name kya hai? Aur suspention ka reason yeh hai ki aapke account mein payment overdue hai. Isko renew karne ke liye, mujhe aapki account number aur bank detail chahiye. Verification ke liye, kya aap apni last six digits of your PAN card bata sakte hain?
+receiver: Oh, payment overdue? Yaaro, maine pehle bill diya tha. Mera name Priya Patel hai, and my mobile number is 8765432198. PAN card ke last six digits? Woh bataane ki zaroorat nahi hai, please. Suspenseion ka reason todi hai?
+caller: Ji madam, aapki account details check kar raha hoon. Account number hai 1234567890, and bank name hai HDFC. Suspension remove karne ke liye, aapko ₹500 deposit karne honge.
+receiver: ₹500? Seriously? Mere paas ₹500 nahi hain. Kya koi alternate way nahi hai? Ya phir jo bhi happened, batao mujhe sach kahin.
+caller: Madam, suspension remove karne ke liye ₹500 deposit karna zaruri hai. Agar aapko deposit karna nahi hai, toh aapki mobile number permanent suspend ho jayegi.  Aapko decision lena padega.
+receiver: Okay, okay. Fine. Main ₹500 deposit kar dungi. Kahan deposit karu?
+caller: Aap apne nearest Reliance Jio store mein deposit kar sakte hain, ya phir online transfer kar sakte hain. Transfer karne ke liye, mujhe aapki UPI ID chahiye.
+receiver: My UPI ID hai rs_priya@upi.
+caller: Thank you madam. Aapka subscription now renew ho gaya hai. Aapko koi problem nahi hogi. Aapse koi aur service chahiye?
+receiver: Thoda confusion hai. Mujhe pata nahi yeh sab haqeeqat hai ya nahi. Thanks for your time. Bye.

@@ -1,0 +1,8 @@
+caller: Namaste, mein hu Rajeev Verma, QuickCash Solutions se. Aapne humari website par loan ke liye apply kiya tha, hai na?
+receiver: Haan, ji haan. Meinne apply kiya tha, par abhi koi call expect nahi kar raha tha.
+caller: Bahut accha. Verification ke liye kuch details chahiye mujhe. Aapka naam aur aadhaar card number bataiye? Aur ek OTP bhi aapke phone pe aayega, woh bhi bataiye.
+receiver: Arre, Aadhaar number phone pe bataun? Yeh thoda risky toh lag raha hai. Aur OTP bhi… humesha caution karte hain hum.
+caller: Sir, security ke liye hi toh puchh raha hu. QuickCash Solutions ek trusted company hai, tension mat leiye. OTP se pata chal jayega ki aapka phone sahi hai ya nahin. Bataiye, naam aur aadhaar number?
+receiver: Theek hai. Mera naam Anand Sharma hai, aur aadhaar number [Receiver’s Aadhar Number]. Par OTP toh main khud verify karunga, phone pe dekhunga.
+caller: Bahut achha, Anand ji. OTP a gaya na? Bataiye. Jaldi karo, verification time limit hai.
+receiver: Haan, OTP mila. [Receiver enters OTP]. Ab kya hoga?

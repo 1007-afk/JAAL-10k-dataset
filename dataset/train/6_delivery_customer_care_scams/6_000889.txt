@@ -1,0 +1,7 @@
+caller: Namaste! Main XYZ Logistics se baat kar raha hoon. Aapke naam par ek parcel aaya tha, lekin address mein kuch problem hai.
+receiver: Haan, bolna. Mujhe to koi parcel aane ka message nahi aaya tha.
+caller: Ji, delivery boy ne attempt kiya tha, lekin koi nahi mila. Parcel return ho gaya tha warehouse mein. Ab, parcel deliver karne ke liye, humein aapke bank account se ₹500 verification fee ke taur pe chahiye.
+receiver: ₹500? Par parcel toh free hona chahiye tha! Maine toh kuch order kiya hi nahi tha.
+caller: Sir, ye verification fee humara standard procedure hai. Iske bina hum parcel deliver nahi kar sakte. Aap OTP share karein, hum account mein deposit kar denge.
+receiver: OTP share karne se pehle mujhe doubt ho raha hai. Main police mein report karunga agar ye scam nikla toh.
+caller: Sir, police report karne se kuch nahi hoga. Hum legal hai, hum XYZ Logistics hain. Apne parcel ko wapas lane ke liye ₹500 deposit kar dein aur OTP share karein. Time barbaad mat karein, sir. Parcel kal tak warehouse mein nahi hoga, aur fir cancel ho jayega.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sunita Kapoor speaking? This is Constable Rajesh Kumar from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspected contraband.
+receiver: Haan, main Sunita Kapoor. Parcel? Mujhe koi parcel yaad nahi. Kya deta hai parcel mein?
+caller: Ma'am, we cannot disclose the specifics of the contents at this stage of the investigation. However, preliminary scans indicate potential involvement in illegal pharmaceutical trafficking. This is a very serious matter. We need to verify your identity and understand your involvement.
+receiver: Illegal pharmaceuticals? Yeh kya keh rahe hain aap? Main toh kabhi drugs nahi dekhi. Mera toh koi connection nahi hai aise cheezon se.
+caller: Ma'am, it appears the parcel was shipped under your name and address. To clear this up and prevent further legal action, we require a small processing fee – ₹8,500 – to cover the examination and verification costs. We can arrange a secure online payment. This is to ensure your cooperation and prevent a formal investigation being launched against you.
+receiver: ₹8,500? Aur online payment? Sir, yeh toh banta hi nahi. Agar parcel illegal hai, toh aapko toh khud hi action lena chahiye.  Yeh scam lag raha hai.
+caller: Ma'am, understand this is a sensitive procedure. We require immediate compliance. We can provide you with a receipt number once the payment is made. Non-compliance will unfortunately result in immediate legal action and potential arrest.  Please provide your debit card details for a swift transaction.
+receiver: Arrest? Legal action? Listen, I am going to report this number to the cybercrime cell right now.  Aap log fraud kar rahe hain. Main abhi police mein complaint karungi.

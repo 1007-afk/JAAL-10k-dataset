@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Inspector Verma from the Delhi Customs Department. We've detected a suspicious transaction linked to your name and address regarding a parcel intercepted at Indira Gandhi International Airport.
+receiver: Delhi Customs? Kya hua? Main toh koi parcel nahi bheja tha.
+caller: Sir, the parcel contained undeclared high-value electronics, potentially linked to a case of online fraud and money laundering. We need to verify your involvement immediately. To clear this up quickly and prevent legal action, we need you to provide details for a small processing fee.
+receiver: Processing fee? Kitna processing fee? Aur main toh dobara keh raha hoon, maine koi parcel nahi bheja. Ye sab fraud lag raha hai.
+caller: Sir, the fee is ₹12,500 to cover verification and expedite the release process. It's a standard procedure to ensure compliance.  We need this amount transferred to this UPI ID: 8765432100@ybl.  We'll then schedule a brief video call to confirm your identity and explain the situation further. Please do it urgently; time is of the essence.
+receiver: ₹12,500? UPI ID? Sir, you are asking me to pay to prove my innocence? This is ridiculous! I am reporting this to the cybercrime cell. I'm taking down your number.
+caller: Sir, please don't be hasty. This is for your own benefit. If you don't cooperate, we will have to issue a warrant. Think about your reputation and potential arrest. Transfer the amount now, and we will resolve this amicably. Just do it, quickly.
+receiver: Warrant? Arrest? You are threatening me?  I'm blocking this number and filing a police report. Good bye.

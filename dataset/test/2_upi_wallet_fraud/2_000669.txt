@@ -1,0 +1,8 @@
+caller: Namaste! Main Airtel Payments Bank se bol raha hoon. Aapke Airtel Payments Bank account mein ₹7,500 ka pending transaction hai.
+receiver: Oh, pending transaction? Kaun sa transaction hai? Mujhe toh koi notification nahi aaya.
+caller: Haanji, ek online payment fail hogaya hai. Ise clear karne ke liye, aapko ‘VERIFY’ likh kar 9911223344 pe SMS karna hai. ₹50 ka verification charge lagega.
+receiver: ₹50 verification charge? Lekin main toh koi payment nahi kiya tha. Verify karke kya hoga?
+caller: Sir, verification hone ke baad, pending transaction automatically clear ho jayega aur aapka account secure ho jayega. Ye ek security measure hai, sir. Offer valid hai for the next 15 minutes only.
+receiver: Paanch minute? Aur ₹50 charge? Main ek baar check karta hoon. Wait a minute.
+caller: Ji sir, jaldi karein. Time gujar raha hai. Aur ₹50 ka charge sirf ek baar lagega. Tabhi aapka account safe rahega.
+receiver: Okay, fine. VERIFY likh kar 9911223344 pe send karta hoon.

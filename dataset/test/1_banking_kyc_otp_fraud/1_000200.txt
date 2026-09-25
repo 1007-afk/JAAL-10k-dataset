@@ -1,0 +1,17 @@
+caller: Hello, I'm calling from HDFC Bank. We’re doing a security update on your account. Is this still active?
+receiver: Haan, bolo. Active hai, par kya update hai?
+caller: For the update, we need to verify some details about your account. Could you please tell us your account number and date of birth?
+receiver: Account number aur DOB? Kyon zaroori hai? What will this update actually do?
+caller: It's just a routine check, sir. To make sure everything is working properly. We also need your mobile number for OTP verification.
+receiver: Mobile number? Okay, but why do you need my mobile number too? And what if I don’t want to give it?
+caller: It’s required for two-factor authentication, sir. This way, no one can access your account without your permission. It’s very important for your safety.
+receiver: Two-factor authentication… Hmm, that sounds okay. But could you maybe send me a link via WhatsApp so I can complete the verification myself? Or perhaps through an SMS?
+caller: Unfortunately, sir, our system doesn’t allow sending links directly. We have to collect all the information over the phone for security reasons.
+receiver: But honestly, this feels a little strange. Can you at least tell me the name of the person who is verifying my account?
+caller: My name is Rohan, sir. And I assure you, this is completely legitimate and part of HDFC’s standard security protocol. Just provide me with those details, and your account will be updated instantly.
+receiver: Rohan? Okay, fine. But what if I decide not to proceed? Will there be any consequences?
+caller: Absolutely not, sir! You’ll simply remain unaffected.  Just provide the necessary information, and we’ll take care of the rest. Please tell me your account number now.
+receiver: Wait, wait. Let me think about it first.  Could you just repeat the steps again, slowly?  I want to make sure I understand everything clearly.
+caller: Of course, sir. First, we need your account number, then your date of birth, and finally, your registered mobile number. That’s all.
+receiver: Okay, okay.  Let me double-check something.  Can you give me your employee ID number from HDFC Bank?
+caller: No, sir, that’s not needed. We only require the information I mentioned earlier.  Please focus on providing your account number and mobile number.

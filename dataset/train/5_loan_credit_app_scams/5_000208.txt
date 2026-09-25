@@ -1,0 +1,7 @@
+caller: Hello, is this Kamal Sharma? I’m calling from QuickCashSolutions.in. We’ve noticed you recently applied for a personal loan online. Just confirming your details for immediate approval.
+receiver: Yes, this is Kamal. I remember applying, but I wasn't sure if it went through.
+caller: Excellent, Kamal ji! Your application is pre-approved for up to 10 lakhs. A fantastic opportunity to clear any debts or invest. However, to finalize the process, we require a small processing fee of 5000 rupees. This ensures your account is verified and secures the loan.
+receiver: 5000 rupees? That seems a bit high for a processing fee.
+caller: Kamal ji, it's a standard procedure to prevent fraudulent activities. Think of it as insurance for your loan. Once the loan is disbursed, you’ll be paying significantly more than 5000 rupees, trust me. You can transfer it to the account number 9876543210, SBI.  It's for secure verification.
+receiver: Okay, I'll transfer it. But I need to be sure this loan is legitimate, and I'll receive the full amount.
+caller: Absolutely, Kamal ji! You have my word. Once the amount is received, your 10 lakh loan will be credited within the hour. Also, for security purposes, please send a picture of your ID proof to this number – just to double-check.

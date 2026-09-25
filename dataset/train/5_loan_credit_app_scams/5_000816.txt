@@ -1,0 +1,8 @@
+caller: Namaste sir, main Ankit Verma, FastLoanHelp se baat kar raha hoon. Aapne humari website par ek personal loan ke liye apply kiya tha? Check kar rahe hain ki aapka profile verify ho gaya hai ya nahin.
+receiver: Haan, mainne apply kiya tha. Kya verification process mein koi problem hai?
+caller: Sir, verification toh ho gaya hai, lekin humein aapke account details ki zaroorat hai, security ke liye. Aapka bank account number aur OTP jo aapko SMS se mila hai, woh share karein.
+receiver: OTP? SMS toh aaya nahin hai mujhe. Aur account number bhi phone pe nahi dena chahiye.
+caller: Sir, chinta mat karein. OTP humein hi chahiye verification ke liye, aur account number sirf fund transfer ke liye. Jo aapko SMS mila hai, woh mujhe bata dijiye. Agar SMS nahi aaya toh ek minute wait karein, main check karta hoon.
+receiver: Okay, wait kar raha hoon.
+caller: Sir, aapka OTP hai 789456. Ab aapka loan amount approve ho gaya hai, Rs. 25,000. Lekin processing fee ke taur pe, aapko pehle Rs. 2,500 deposit karne honge. Payment details mein check karein.
+receiver: Processing fee? Loan lene se pehle deposit dena hai? Yeh to galat lag raha hai.

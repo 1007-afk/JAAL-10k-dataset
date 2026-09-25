@@ -1,0 +1,8 @@
+caller: Namaste sir, main Rahul hoon. Aapka ek important voicemail aaya hai. Kaise hain aap? Kya aapne check kiya hai? Is number par call karein: 09876543210. Agar aap 3 minute ke andar call nahi karte hain, toh aapki subscription cancel ho sakti hai. Sir, aapka naam kya hai?
+receiver: Oh, cancellation ka dar hai, yaar. Mai abhi office mein hoon, thoda kaam mein hoon.  Aap bataiye, mai baad mein call karoon? Mera naam Sanjay Kumar hai.  Aapko bilkul batana zaroori hai kya?
+caller: Nahi sir, naam toh bas bata do. Lekin cancellation ka risk hai, isliye keh raha hoon. Agar aap abhi call nahi kar sakte, toh main aapko SMS se notification de sakta hoon. Aapka mobile number kya hai?
+receiver: Haan, SMS notification bhejo, please. Mobile number mera 8765432109 hai.  Cancellation wala ye kya chakkar hai?  Kis waja se cancel ho sakta hai?
+caller: Ji, aapki subscription kuch suspicious transactions ki wajah se suspend ho gayi hai.  Isko verify karne ke liye aapko us number pe call karna padega. Agar aap 3 minutes mein call nahi karte, toh temporary suspension ho sakta hai.  Bas ek small checkup ke liye hai, tension mat lo.  Aapko SMS pe confirmation milega, toh jab aap free honge, us number pe call kar lijiye.
+receiver: Okay, suspicious transactions, okay. Thank you for the explanation, and the SMS will be helpful. I’ll try to call that number shortly. It seems like a simple process. Shukriya!
+caller: Koi baat nahi sir.  Jaldi kar rahega taaki aapki account safe rahe.  Agar koi aur confusion ho toh mujhe bataiye.
+receiver: Theek hai, aapki madad ke liye dhanyavaad.  Mai jald se jald call karne ki koshish karunga. Agar koi aur information chahiye hota hai toh mujhe batayein, theek hai?

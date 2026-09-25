@@ -1,0 +1,9 @@
+caller: Namaste sir, kaise haal hain? Apke liye ek achha khabar hai! Aap ne "ShineBright" smartwatches ka lottery jeeta hai! Yeh toh bahut hi exciting hai! Kaise sun rahe hain aap?
+receiver:  Haan ji, sun raha hoon. Kya bol rahe ho? Smartwatch? Jeetna? Matlab kya?
+caller: Haan ji, ShineBright company ne Diwali ke baad aapko Diwali ki shubhkamnayein dene ke liye yeh smartwatch diye hain. Yeh ek premium model hai - 'Galaxy X500'. Aapko sirf ek small verification process karna hoga. Agar aap call back karenge, toh aapko free mein smartwatch mil jayega!  Yeh offer sirf 6 minutes ka hai, sir!
+receiver:  Six minutes? Really? Galaxy X500? Woh kitna cost hota hai?  Aur verification process kya hai?  Mujhe jitna pata hona chahiye.
+caller:  Sir, Galaxy X500 ka price ₹8,999 hai, lekin aapko yeh free mila hai! Verification process is simple - aapko apne bank account ki details aur OTP dena hoga.  Agar aap call back karenge, toh aapko smartwatch immediately deliver ho jaayegi.  Aapko sirf ₹999 tax ka charge milega!
+receiver:  ₹999 tax?  Okay, okay.  Phir bhi, yeh achcha deal hai.  Main abhi call karti hoon.  Number bataiye phir se.  09876543210? Theek hai, thoda wait karte hain.
+caller: Haan ji, woh number sahi hai! Sir, sirf 2 minute ka time hai.  Agar aap call back nahi karenge, toh yeh offer expire ho jayega.  Aapko smartwatch miss ho jayegi!  Aapko call karna zaruri hai!
+receiver:  Arre yaar, 2 minute!  Okay, okay, main abhi calling kar rahi hoon... Aa gaya mera phone!  Thank you for informing me about this wonderful opportunity.  Bye bye!
+caller:  Ji ji, aapko congratulations!  Aapka smartwatch soon dikhayega!  Agar koi bhi question ho, toh humein call karein.  All the best!

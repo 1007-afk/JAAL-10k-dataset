@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohan hai, Bajaj Finserv se. Aapke naam par ek Paytm wallet account hai, aur usmein ek unusual transaction detect hua hai – 5000 rupees ek unknown number pe gaya hai. Aapne kiya tha ye transaction?
+receiver: 5000 rupees? Nahin, maine koi transaction nahi kiya! Mere Paytm account mein kuch bhi galat nahi hua hai. Tum kon ho?
+caller: Sir, yahaan galat hone ki koi baat nahi hai. Hum aapki security ke liye call kar rahe hain. Hamari system ne ek suspicious activity detect kiya hai, aur hamein aapke account ko secure karne ke liye kuch details verify karne ki zaroorat hai. Sirf 2 minute lagega. Aapka registered mobile number bataiye, please?
+receiver: Mere registered number mein hi tum call kar rahe ho toh phir number kyon pooch rahe ho? Ye to suspect lag raha hai. Main koi bhi details nahi dunga.
+caller: Sir, isko seriously leiye! Yeh aapke account ki safety ka matter hai. Hamari protocol hai ki hum har transaction ke liye OTP verify karte hain. Aapko apne Paytm app mein ek OTP milega – woh bataiye, please? Woh OTP sirf 2 minute ke liye valid hai.
+receiver: OTP? Main Paytm app mein koi OTP nahi dekh raha. Tumhara voice bhi Indian nahi lag raha hai. Yeh koi scam hai. Main police mein report karunga.
+caller: Sir, please! Abhi agar aap OTP nahi deye, toh hacker aapke account se zyada paisa withdraw kar sakte hain. Time bahut kam hai! Sirf OTP deiye, aur aapka account safe rahega.

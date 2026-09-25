@@ -1,0 +1,8 @@
+caller: Namaste sir, main CRED se bol raha hoon. Aapke CRED score bahut acha hai, isliye aapko Amazon pe ₹1000 ka shopping voucher mil raha hai.
+receiver: CRED score? Haan, mera toh acha hi hoga. Amazon voucher? Kaise?
+caller: Sir, ye ek special offer hai CRED users ke liye. Voucher claim karne ke liye, aapko sirf ₹200 processing fee bhar deni hai. 
+receiver: ₹200? Processing fee? CRED toh aise fees nahi lete. 
+caller: Sir, ye fees sirf ek verification process ka hai. Isse aapka voucher activate ho jayega. ₹200 UPI se bhar de, mai number de deta hoon.
+receiver: UPI? Bilkul nahi. Mein CRED app se hi check karunga. Koi bhi UPI number nahi dene ka. Yeh kuch gadbad lag rahi hai.
+caller: Sir, aapko jald hi voucher claim karna hai, warna offer expire ho jayegi. Aapko Flipkart pe ₹500 ka bhi offer mil sakta hai, lekin woh offer bhi jaldi expire ho jayegi.
+receiver: Flipkart bhi? Ab to pakka scam hai! Main call disconnect kar raha hoon.

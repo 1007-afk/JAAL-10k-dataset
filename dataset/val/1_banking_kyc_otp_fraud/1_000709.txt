@@ -1,0 +1,11 @@
+caller: Namaste sir, main Bharat Telecom support se baat kar raha hoon. Aapki mobile internet connection 24 hours mein disconnect ho jaane wali hai. Kya aap isko renew karna chahenge?
+receiver: Namaste, Bharat Telecom support? Mobile internet disconnect ho rahi hai? Mein toh recently upgrade kiya tha, isliye disconnect hua tha. Aapka naam jaan sakte hain, please? Aur internet disconnect hone ka koi reason todi hai kya?
+caller: Ji sir, bilkul. Aapka naam kya hai, sir? Aur internet disconnect hone wala hai kyunki aapke account mein recharge overdue hai. Ye ek automatic notification hai jisse aapko bataya ja raha hai ki aapki internet service deactivate hone wali hai. Aapki details verify karne ke liye mujhe aapkaadhar card number chahiye hoga sir, toh main aapki internet ko renew kar sakoon.
+receiver: Oh, really? Recharge overdue? Mein toh recently recharge kiya tha.  Aapkaadhar card number? Woh toh confidential hai na?  Ismein koi mistake hai kya?
+caller: Ji Mr. Verma, aapke account mein recharge 2 weeks ago hua tha.  Agar aap recharge detail check karein toh aapko pata chalega ki recharge date 10th July hai.  Aapkaaadhar card number sirf aapki identity verify karne ke liye hai, sir.  Ye online process hai, aapko kuch bhi worry nahi hona chahiye.
+receiver: Hmm, okay. Mera naam Ravi Kumar Verma hai. Aur recharge date 10th July… Mein toh sure nahi hun, lekin mujhe lagta hai ki maine recharge kiya tha.  Aapko internet renew karne ke liye kya requirements hain?
+caller: Ji Mr. Verma. Aapko internet renew karne ke liye, mujhe aapke bank account details ki jaankari chahiye, jisse payment kar sakein.  Aur aapko confirmation ke liye apna PAN card number bhi bataana hoga.
+receiver:  Wait! Bank account details aur PAN card number?  Yeh bahut serious hai!  Aapko internet renew karne ke liye sirf valid ID aur recent recharge history chahiye tha, no?  Aapki company kitni fraud hai!
+caller: Sir, ye sirf verification ke liye hai.  Aapki security ko priority dena hai.  Agar aapko koi doubt hai, toh aap Bharat Telecom helpline number 1800-123-4567 par call kar sakte hain.
+receiver:  Okay, fine. Main Bharat Telecom helpline number pe call karunga. Dhanyavaad!
+caller:  Ji Mr. Verma, aapki madad karne ke liye thank you.  Aapko koi aur service chahiye thi?

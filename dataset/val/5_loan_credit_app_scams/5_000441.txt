@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from LoanExpress India. We’ve pre-approved you for a personal loan of ₹15,000! Very simple process, no paperwork needed.
+receiver: Oh really? That's good. I do need some money for a medical bill, but I'm worried about the interest rates.
+caller: Don't worry about interest, Priya ji! It's a promotional offer, just 2% for the first month. We just need a small verification fee of ₹500 upfront to process the loan. You can send it through Paytm or Google Pay.
+receiver: ₹500? To get a loan? That seems a little strange... I haven't heard of that before.
+caller: It’s a standard security measure, Priya ji. Everyone pays it. If you don’t pay, we’ll have to cancel your pre-approval and your loan will be gone. Also, we need to confirm your commitment. Send the money quickly!
+receiver: Wait a minute. I'm not comfortable with this. I think I’ll just call my bank instead.
+caller: Priya Sharma! You are making a huge mistake! This is a limited-time offer. We are losing money here! I have proof that I sent you this approval, and if you try to cheat us, we will send your photos to your contacts!

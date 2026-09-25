@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay Sharma bol raha hoon, Axis Bank se. Aapko ek achha cashback offer mil raha hai, lekin yeh offer bahut limited time ke liye hai.
+receiver: Haan, batao. Axis Bank ka offer hai? Kya offer hai?
+caller: Aapke Axis Bank UPI account par ₹750 cashback milega, sirf Paytm se ₹500 ka transaction karne par. Yeh offer sirf aaj ke liye hai, aur humein check karna hai ki aapka account verify hai ya nahin.
+receiver: ₹750 cashback? Paytm se transaction? Verify karna hai kaise?
+caller: Aapko Paytm app mein jake ₹500 ka koi bhi transaction karna hai, koi bhi merchant. Transaction ke baad, aapko ek OTP milega. Woh OTP mujhe bataiye, aur cashback aapke account mein deposit ho jayega.
+receiver: OTP? Lekin bank OTP nahi puchhta... Yeh thoda suspicious lag raha hai.
+caller: Arre bhai, OTP verification hai! Security ke liye. Offer khatam hone se pehle jaldi kijiye! 30 minute mein aapka ₹750 cashback aapke account mein ajayega!

@@ -1,0 +1,9 @@
+caller: Hello sir, is this Rajeev Verma? We've detected some suspicious activity on your Freecharge wallet.
+receiver: Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, someone tried to make a large transaction from your wallet, but it was blocked. To secure your funds, you need to verify your account urgently.
+receiver: Verify? How do I do that? Should I call Freecharge customer care directly?
+caller: No, sir, don’t call them. There’s a one-time verification fee of ₹500 to unlock your wallet and prevent the fraudulent transaction from going through.
+receiver: ₹500? That seems suspicious. Can't I just call Freecharge and confirm this?
+caller: Sir, this is to protect you.  If you don’t pay the fee within the next hour, your wallet will be temporarily frozen for security reasons. You can pay using UPI - any UPI will do, just send ₹500.
+receiver: Okay, wait a minute. Let me just double-check with Freecharge first. Give me the official customer care number.
+caller: Sir, there's no time!  That number is outdated. We're working directly with Freecharge to resolve this quickly. Just send the ₹500 and I'll manually update your account. Don't delay, sir.

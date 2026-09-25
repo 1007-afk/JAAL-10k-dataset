@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash from Zomato Customer Care. We’ve detected some unusual activity on your Zomato Pro account. It seems someone attempted to place a very large order using your saved payment details.
+receiver: Zomato? Haan, main Mrs. Verma hi hoon. Kya hua? Koi order kiya tha kya? Mujhe toh yaad nahi.
+caller: Yes ma'am, a substantial order of over ₹8000 was attempted, all going to a new address in Noida. We’ve temporarily suspended your account to prevent fraudulent charges. To reactivate it and verify your payment details, we need you to confirm a few security codes we'll send to your registered mobile number.
+receiver: ₹8000? Noida? Mujhe toh kabhi Noida nahi jaana pada. Aur Zomato se toh ek bhi order nahi kiya main ne recently. OTP bhijwao toh phir dekhiye.
+caller: Absolutely, ma'am. We understand your concern. We’ve already sent an OTP to [Receiver's Phone Number]. Please read it carefully and let us know. This is just a quick security check to ensure it’s you. Then we can get your account working again and you can cancel that unauthorized order.
+receiver: Okay, OTP mila hai. Ab main kya karoon? Aur woh order cancel hoga? Main toh Zomato ki regular customer hoon.
+caller: Wonderful! Please tell me the OTP, and then to fully protect your account and prevent further attempts, we need to verify the last four digits of the credit card associated with your account. Just a quick verification, ma’am.
+receiver: Credit card details phone pe? Kaise ho sakta hai? Yeh theek nahi lag raha hai. Main online Zomato app se hi check karungi. Aap please bataiye, kaun sa order tha aur kahaan bhejna tha

@@ -1,0 +1,16 @@
+caller: Namaste! Kaise haal hain? Main ek naye app ka advertisement de rahi hoon, jo aapko online gaming ke liye help karega. Aap apne smartphone pe cricket, badminton aur kabaddi mein khel sakte hain. Just text ‘GAME’ to 98765 and get all the details. Agar aapko cancel karna hai, toh text ‘STOP’ to 98765. Kya aap game khelte hain?
+receiver: Namaste, main theek hoon. Mein samajh nahi karta ki ye kya hai. Main online gaming ka use karta bhi nahi hoon. Mujhe koi app download karne ki zaroorat nahi hai.
+caller: Ah, main samajhta hoon. Sometimes these things happen unexpectedly. But this app is very popular and everyone is playing it. Just one text to 98765 and you’ll get all the information. And if you really don't want it, just text STOP to 98765. Isliye, kya aap yahaan try karna chahte hain?
+receiver: See, mujhe koi problem nahi hai. Main gamin nahi hoon aur mujhe is app ka koi need nahi hai. Agar yeh app sahi hai toh acha hai, lekin mujhe koi details chahiye nahi. Please mujhe dobara aise calls mat kijiye. Main 'STOP' text kar raha hoon, confirm karein ki meri account block ho gayi hai.
+caller: Haan ji, ‘STOP’ message aa gaya hai. Aapki account block ho gayi hai.  Koi tension mat le, dobara call nahi aayega.  Aapko congratulations, aap abhi gaming champion hain!
+receiver:  Theek hai, thanks.  Yeh sab bakwaas hai.  Achha, bye.
+caller:  Thanks for confirming.  Happy gaming!
+receiver:  Bye.
+caller: Namaste! Kaise haal hain? Main ek naye app ka advertisement de rahi hoon, jo aapko online gaming ke liye help karega. Aap apne smartphone pe cricket, badminton aur kabaddi mein khel sakte hain. Just text ‘GAME’ to 98765 and get all the details. Agar aapko cancel karna hai, toh text ‘STOP’ to 98765. Kya aap game khelte hain?
+receiver: Namaste, main theek hoon. Mein samajh nahi karta ki ye kya hai. Main online gaming ka use karta bhi nahi hoon. Mujhe koi app download karne ki zaroorat nahi hai.
+caller: Ah, main samajhta hoon. Sometimes these things happen unexpectedly. But this app is very popular and everyone is playing it. Just one text to 98765 and you’ll get all the information. And if you really don't want it, just text STOP to 98765. Isliye, kya aap yahaan try karna chahte hain?
+receiver: See, mujhe koi problem nahi hai. Main gamin nahi hoon aur mujhe is app ka koi need nahi hai. Agar yeh app sahi hai toh acha hai, lekin mujhe koi details chahiye nahi. Please mujhe dobara aise calls mat kijiye. Main ‘STOP’ text kar raha hoon, confirm karein ki meri account block ho gayi hai.
+caller: Haan ji, ‘STOP’ message aa gaya hai. Aapki account block ho gayi hai. Koi tension mat le, dobara call nahi aayega. Aapko congratulations, aap abhi gaming champion hain!
+receiver:  Theek hai, thanks.  Yeh sab bakwaas hai.  Achha, bye.
+caller:  Thanks for confirming.  Happy gaming!
+receiver:  Bye.

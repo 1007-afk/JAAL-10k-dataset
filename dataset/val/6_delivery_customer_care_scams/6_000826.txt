@@ -1,0 +1,8 @@
+caller: Hello, this is Rahul calling from PayU Money. We've detected some unusual activity on your Flipkart account. Seems like someone tried to make a large purchase using your card.
+receiver: Oh really? That's concerning. I haven't made any purchases recently. What happened exactly?
+caller: Yes, sir. They attempted to buy a mobile phone worth ₹18,500. Luckily, our security system blocked it. But to fully secure your account, we need to verify a one-time password sent to your registered mobile number. Can you please share the OTP?
+receiver: An OTP? Why do I need to give you the OTP? Shouldn’t Flipkart be contacting me directly?
+caller: Sir, we are working directly with Flipkart on this. To prevent further fraudulent activity, it’s crucial to verify your identity immediately. The OTP is just to confirm you’re the account holder and reset your security settings. Please provide it quickly so we can fix this.
+receiver: Okay, hold on a second. Let me just quickly check my Flipkart account online…
+caller: Absolutely sir, but time is of the essence. The longer you take, the higher the risk of them trying again. Please provide the OTP, sir? We need it to start the security reset.
+receiver: You know what? I'm just going to call Flipkart directly. I don't feel comfortable giving you the OTP over the phone.

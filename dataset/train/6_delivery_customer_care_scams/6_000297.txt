@@ -1,0 +1,7 @@
+caller: Namaste! Main Atul Verma, Blueridge Logistics se baat kar raha hoon. Aapke naam par ek parcel aaya tha, lekin address galat likha hua hai.
+receiver: Haan, bolie. Mujhe yaad nahi aa raha ki maine kuch order kiya tha ya nahi.
+caller: Sir, parcel mein kuch electronics items hain, aur humein confirmation chahiye ki yeh sahi address par jaa raha hai. Aapka OTP share karenge, tab hum parcel update kar denge.
+receiver: OTP? Kyun? Parcel toh mere address pe hi hona chahiye.
+caller: Sir, security ke liye, OTP verification compulsory hai. Agar OTP nahi denge toh parcel return hogaya, aur aapko phir se order karna padega. Aapka OTP 9876543211 par send kiya gaya hai.
+receiver: Ek minute... yeh bahut suspicious lag raha hai. Main police se contact karta hoon.
+caller: Sir, please don't do that! This is standard procedure. We just need to verify! This is very important, sir, for your package!

@@ -1,0 +1,6 @@
+caller: Namaste, mai Airtel security department se Rahul Sharma bol raha hoon. Aapke Airtel account mein kuch suspicious activity detect hui hai.
+receiver: Airtel security? Kya hua? Kuch suspicious activity? Bataiye.
+caller: Ji haan, sir. Aapke naam par ek naya sim card activate hone ki koshish ki gayi hai. Security ke liye, humein aapke account details verify karne honge. Kya aap mujhe apna Aadhaar card ka last 4 digits bata sakte hain?
+receiver: Aadhaar number? Par aise kaise? Mujhe toh koi notification aaya hi nahin. Airtel toh aise number nahin manta.
+caller: Sir, yeh ek urgent matter hai. Agar aap details verify nahi karenge, toh aapka account suspend bhi ho sakta hai. Aapka phone bhi block ho sakta hai. Just last 4 digits, sir.
+receiver: Account suspend? Yaar, yeh bahut scary lag raha hai. Ek minute, mujhe Airtel ke official number pe call karta hoon. Main koi bhi risk nahi lene wala.

@@ -1,0 +1,7 @@
+caller: Hello! This is Rakesh from FastLoan India. We’ve got fantastic news for you – instant personal loans, no credit check! Just need a few details to process your application.
+receiver: FastLoan India? I've never heard of it. Sounds a bit fishy. What's the catch?
+caller: No catch at all! We’re helping people like you get quick cash. Just a small processing fee of ₹300 to activate your loan limit of ₹75,000. We need your bank account details to transfer it.
+receiver: ₹300 upfront? And a loan I don't even need yet? That doesn't sound right. Are you sure this is a legitimate company? Can you give me a website or a license number?
+caller: Look, don't waste time arguing. This offer is only valid for the next hour. Once the limit is gone, it's gone! I can send you a copy of our registration certificate via WhatsApp if you just give me your account number. Think about it – ₹75,000 in your account, instantly!
+receiver: Registration certificate? Okay, that’s a little better. But still, I'm not comfortable sharing my bank details with someone I just spoke to. I'm going to report this number.
+caller: Arre, please! Don’t do that! It's a great opportunity. Just your OTP, please. Just the OTP, and the money is yours!

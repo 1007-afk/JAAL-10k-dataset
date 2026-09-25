@@ -1,0 +1,15 @@
+caller: Namaste! Kaise ho? Main Rahul Hoon, Digital Solutions India se calling karta hoon. Aapke paas ek important update hai. Aapne recently online shopping ki thi, hai na?
+receiver: Haan, kiya tha. Kya hua?
+caller: Ji, toh Digital Solutions India ne aapko ek special cashback offer deta hai. Aapko ₹500 tak cashback milega, lekin yeh offer jaldi khatam hone वाला hai! Aapne kahin notification mila tha?
+receiver: Notification? Hmm, abhi toh nahi mila. Kya link hai?
+caller: Haan, aapko apna mobile number verify karna hoga. Isliye main aapko OTP request kar raha hoon. Verification ke baad, cashback automatically aapke account mein daal denge.  Aapka mobile number bataiye, please.
+receiver: Mera number hai [invent a mobile number, e.g., ‘9876543210’].
+caller: Dhanyavaad! OTP bhejna shuru ho gaya hai.  Aapko SMS mein OTP milega.  Yeh process sirf 24 hours mein complete hona hai.  Agar aap OTP verify nahi karte toh aapka cashback miss ho jayega!  Mat karo, mat karo, hurry up!
+receiver:  OTP aaya hai. Dekhta hoon.  ₹500 cashback? Kis liye? Kiska shopping?
+caller:  Ji, kisi bhi online shopping ke liye! Flipkart, Amazon, Myntra – kisi bhi website pe aapko cashback milega.  Yeh ek limited stock offer hai, sir/madam.  Sapne sapne khol de!  Aapko ₹500 tak bachane wala hai!
+receiver:  Limited stock? Sirf 24 hours?  Kab tak hai yeh offer?  Aur OTP verify karne ke baad cashback milega kab?
+caller:  Offer jaldi khatam ho jaata hai, sir/madam.  Sabse zyada profit aapko 48 hours mein milega.  Aur OTP verification ke baad, cashback aapke account mein 7-10 days mein daal denge.  Don't delay, fast fast!
+receiver:  7-10 days?  Thoda wait karna hai?  Ismein koi fraud hai kya?  Digital Solutions India ke naam pe calling kar rahe ho?
+caller:  Fraud? Nahin, nahin! Hum toh aapki help karne aaye hain.  Aapko bohot achcha cashback offer deta hai.  Aapko jitni possible tarah information dena hai, sir/madam.  Verification ke baad sab acha ho jayega.  Trust me!
+receiver:  Okay, okay.  Verification kar leta hoon.  Thank you.
+caller:  Dhanyavaad!  Aapko wish karna, sir/madam.  Aapko bohot achha cashback milega!  Good luck!

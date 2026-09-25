@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I’m calling from Axis Bank’s KYC department. We've noticed some unusual activity on your account, and for security reasons, we need to quickly verify your details.
+receiver: Haan, boliyega. What kind of unusual activity? I haven't done anything out of the ordinary.
+caller: Madam, we're seeing a potential attempt to open a fraudulent loan against your PAN card. To prevent this, we need to confirm a few details and send you a one-time password via SMS. It's a very urgent matter; your account could be suspended if we don't resolve this quickly.
+receiver: Suspended? But why didn't I get a prior warning? And why are you calling instead of sending an email or SMS directly?
+caller: Madam, due to the sensitivity of the situation, we need to speak with you directly to verify. Please provide your Aadhaar number so I can quickly confirm your identity and proceed with the verification process. It will only take a moment.
+receiver: My Aadhaar number? Why do you need that? This sounds very suspicious. I’ve never given my Aadhaar number over the phone.
+caller: Madam, please understand, this is to protect your account. Without it, we cannot confirm your identity and prevent the fraudulent loan from being processed. If you don’t cooperate, your account will be frozen immediately. We need to act fast, please tell me your Aadhaar number.
+receiver: Wait a minute... I am going to call Axis Bank directly from their official number. I’m not providing you anything until I confirm you are who you say you are.

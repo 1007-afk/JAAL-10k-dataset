@@ -1,0 +1,8 @@
+caller: Namaste Madam, main IDFC First Bank se Rohan Sharma bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai.
+receiver: IDFC First Bank? Kya hua? Koi transaction hua hai jo mein nahi kar rahi?
+caller: Ji Madam, bilkul! Ek online transaction hua hai ₹15,000 ka, jo aapne nahi kiya hai. Aapke account ko secure karne ke liye, hamein kuch details verify karni hogi.
+receiver: ₹15,000? Meri toh sachhi mein galti se bhi nahi hoti. Verification ke liye kya karna padega? OTP mangoge kya?
+caller: Madam, bilkul nahi, OTP kabhi mat share karna! Aapko sirf apne PAN card ka last four digits aur dob batao, taaki hum aapke account ko verify kar sakein. Ye aapki security ke liye zaroori hai.
+receiver: PAN card details? Phone pe? Yeh thoda risky lag raha hai. Mein bank branch mein jaungi aur wahan verify karwaungi.
+caller: Madam, abhi branch khulega nahin. Account suspend hone se pehle, jaldi se verify karwa lo. ₹15,000 ka loss hone se pehle. Thoda sa time hai madam, 15 minute mein verify ho jayega.
+receiver: Account suspend? Mein ek baar check karti hoon IDFC First Bank ki website pe. Thank you.

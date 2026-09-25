@@ -1,0 +1,11 @@
+caller: Namaste sir, yeh apka Paytm account check kar raha tha. Aapne recently 1500 Rupees ka transaction hua tha, lekin aapne payment kiya nahi hai. Agar aap 50 Rupees charge ke saath confirm karein, toh yeh issue toot jayega. Number dial karein: 9876543210.
+receiver: Arre yaar, Paytm par 1500 Rupees ka transaction? Main usko dekha nahi tha. Kya hua fir?
+caller: Arre ji, technically speaking, transaction complete ho gaya tha, lekin aapne payment status check nahi ki. Isliye payment failed ho gayi. Agar aap 50 Rupees charge ke saath confirm karein, toh system automatically yeh transaction approve karega. Simple hai, no problem!
+receiver: 50 Rupees? Seriously? Fir yeh 50 Rupees kaunse company ka charge hai? Kisi bhi company ka nahi hai, na?
+caller: Arre ji, yeh Paytm ka internal charge hai, technical issues ke karan. Aapko sirf confirmation lena hai, and then everything will be fine. System mein error hai, isliye yeh charge apply hoga. Confirm karein, please!
+receiver: Error? Mein trust nahi karta ye koi. Kya koi galat person call kar raha hai? Ya phir genuine hai?
+caller: Arre ji, genuinely aapke account mein problem solve hone wali hai. Humare system mein automatic notification aa gaya ki aapko confirmation required hai. Agar aap ignore karein, toh aapko future mein lagi problems hogi. Just dial the number, it’s secure!
+receiver: Secure? Toh yeh number kya hai? Aur yeh company kya hai? Kisi bhi details nahi de rahe?
+caller: Arre ji, yeh Paytm ka official helpline number hai. Aapko sirf confirm karna hai, iske andar koi fraud nahi hai.  Aapko sirf 50 Rupees dena hai, and then aapko message milega ki aapka transaction successful ho gaya hai.  Itni simple hai!
+receiver: 50 Rupees... okay, fine. Thoda confusion hai, dil khich raha hai. Dial kar deta hun. Number dial kar do.
+caller: Ji ji, number dial karein: 9876543210.  Agar aap confirm karein, toh aapko immediately message milega.  Jaldi karin, please! Time wasting mat karein!

@@ -1,0 +1,8 @@
+caller: Namaste! Main FreeCharge se Rahul bol raha hoon. Aapke FreeCharge wallet mein cashback offer chal raha hai.
+receiver: Cashback offer? FreeCharge pe? Kaunsa offer hai?
+caller: Ji, aapko ₹2000 ka cashback mil raha hai. Isko claim karne ke liye, aapko sirf ₹100 processing fee bharne hogi. 
+receiver: ₹100 processing fee? Aisa toh kabhi sunna nahi padha. Direct cashback offer hi hota hai.
+caller: Sir, yeh ek special promotion hai. Fee bharne se aapka account verify ho jayega aur cashback instantly aapke wallet mein transfer ho jayega. Aapko ek OTP bhi milega verification ke liye.
+receiver: OTP? Kahan bhejo aap OTP? Mujhe kuch samajh nahi aa raha hai. Yeh zyada suspect lag raha hai.
+caller: Sir, OTP aapke registered mobile number par bheja jayega. Jab OTP aayega, toh woh mujhe bataiye.  Yeh ₹100 fee bharne ke liye, ek link mein click karein - bit.ly/freechargeoffer.
+receiver: bit.ly ka link? Nahin, main click nahi karunga. Yeh link risky lag raha hai. Main FreeCharge app se hi check karunga.

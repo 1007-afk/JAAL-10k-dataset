@@ -1,0 +1,8 @@
+caller: Hello! I saw your profile on SparkConnect, Priya. You seem like a lovely person. Just wanted to say hi! I’m Rohan, by the way.
+receiver: Hi Rohan! Thanks. SparkConnect, yeah, it's been interesting. You too! What do you do?
+caller: I'm a freelance photographer, mostly travel stuff. I was actually planning a trip to Goa next month, it's been too long since I've been. Anyway, I noticed you mentioned you love vintage Bollywood movies? I'm a huge fan too!
+receiver: Oh really? That’s awesome! I’m obsessed with Guru Dutt films. Have you seen 'Pyaasa'? It’s my favorite.
+caller: Absolutely! 'Pyaasa' is a masterpiece. Listen, I'm in a bit of a tricky situation right now. My flight to Goa is booked, but my bank card got blocked unexpectedly. It's just for a small amount, 15,000 rupees, to cover the ticket. Could you possibly lend it to me? I'll pay you back the moment my card is sorted. It’s really important.
+receiver: 15,000 rupees? That’s quite a bit. And a sudden card block? Are you sure everything is okay? Let me think about it.
+caller: I understand your hesitation, Priya. I wouldn't ask if it wasn't urgent. I’ve already contacted the bank, but they said it’ll take a few days to resolve. I’m really worried I’ll miss my flight and lose the money. It's just a temporary thing, I promise. Think of it as helping a struggling artist!
+receiver: Hmm… alright, Rohan. Send me your UPI ID, and I’ll transfer it. But you absolutely have to pay me back within

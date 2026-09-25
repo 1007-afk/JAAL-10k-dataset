@@ -1,0 +1,8 @@
+caller: Aapse baat kar raha hun, [Invented Name, e.g., Ms. Devi], apka mobile recharge done ho gaya hai. Hum aapke recharge ko process kar rahe hain. Aapko ek confirmation message mil jayega kuch hi der mein.
+receiver: Achcha, great! Thank you so much for letting me know. Main wait kar raha hun confirmation message ka. Aapko mera naam pata hai kya? Bas naam confirm karna tha taaki mujhe pata rahe ki yeh mera hi recharge hai.
+caller: Ji, aapka naam [Invented Name, e.g., Mrs. Verma] hai aur aapne ek mobile recharge ki hai. Kya yeh sahi hai?
+receiver: Haanji, bilkul sahi hai. Mrs. Verma hi hoon main. Thank you so much for confirming! Bahut Khushi hui yeh sunke.
+caller: Bahut achha, Mrs. Verma! Hum aapke mobile recharge ko process kar rahe hain aur aapko kuch hi der mein confirmation message mil jayega. Kya aapko payment karne mein koi issue aa raha hai? Hum aapko ek link bhej sakte hain payment ke liye.
+receiver: Nahi nahi, payment mein koi issue nahi hai. Actually, payment toh maine pehle hi kar diya tha pehle hi. Bas main yeh confirm karna chahta tha ki recharge successfully book ho gaya hai. Agar confirmation message aa jayega toh I'll be all set. Thank you for offering though!
+caller: Okay, Mrs. Verma. Aapne payment pehle hi kar di hai, yeh sunke achha laga. Hum bas confirmation ke liye process kar rahe hain. Agar aapko confirmation message mil jaaye toh aapki order process ho jayegi. Aapki mobile number details mein koi specific request hai? Jaise ki koi particular plan ya operator?
+receiver: Haanji, actually maine ek particular plan select kiya tha. Kya uski details aap check kar sakte hain? Main naam toh bhool gaya hoon, but it's a popular plan from Jio. Agar aapko mil jaaye toh bahut achha hoga. Thanks!

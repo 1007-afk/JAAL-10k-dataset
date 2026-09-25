@@ -1,0 +1,7 @@
+caller: Namaste, mai Rahul Sharma, Axis Bank se bol raha hoon. Kya aap Shri Rajesh Kumar se baat kar sakte hain?
+receiver: Haan ji, main Rajesh Kumar hi bol raha hoon. Bolo, kya zaroorat hai?
+caller: Sir, aapke account mein se ek unusual transaction detect hua hai. ₹15,000 ka transaction Nepal mein gaya hai. Isko reverse karne aur aapke account ko secure karne ke liye, humein aapki Aadhaar card ki copy aur OTP verify karna hoga.
+receiver: Nepal? ₹15,000? Lekin mai toh Nepal nahi gaya hoon kabhi. Aadhaar card ki copy phone pe de dunga? Aur OTP bhi? Ye thoda risky lag raha hai.
+caller: Sir, aapko tension lene ki zarurat nahi hai. Yeh standard procedure hai fraud cases mein. Hum bilkul secure channel se hi aapki information verify karenge. Agar aap cooperate karenge toh hum ₹15,000 ko reverse karwa sakte hain, warna account freeze ho sakta hai.
+receiver: Freeze ho sakta hai? Wait a minute… mujhe bank ke official number pe call karke confirm kar leta hoon. Aapko thoda rukna hoga.
+caller: Sir, please jald karo. Account freeze hone se pehle aapko OTP dena hoga. Yeh sirf ek baar ka process hai. Agar aapko koi shak hai toh hum aapko humara verification code de sakte hain. Check karo, 789012.

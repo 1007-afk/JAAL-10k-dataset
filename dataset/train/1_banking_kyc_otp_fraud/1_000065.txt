@@ -1,0 +1,20 @@
+caller: Namaste, yeh Saurabh bol raha hu. Apne mobile internet connection ka update karwa li hai kya? Ye Reliance Jio se ek bahut zaroori baat hai. Hum ne dekha hai ki aapka data usage bahut kam hai, aur hum aapko ek special discount milega! Kaise chal raha hai aapka internet?
+receiver: Oh, hello Saurabh! Haan, update kar liya hai. Reliance Jio? Discount milengegi? Kaisa discount hai?
+caller: Super! Sir/Madam, sirf ek hi click mein aapko ₹2000 ka discount milega! Parle, humein bas aapke account mein ek small verification step chahiye.  Aap apne device par ek OTP enter karna hoga. Ismein koi kharcha nahi, pura paisa aapka hai.
+receiver: ₹2000 ka discount? Wow! OTP enter karna hoga? Okay, fine. Kya OTP mujhe kaise bhejna hai?
+caller:  Haanji, [Receiver’s Name], OTP aapke registered number pe automatically send ho jayega.  Bhije jaise hi aapko pata chalega.  Agar aapko OTP nahi mila, toh aapko ek baar phir try karna hoga.  Is offer ka validity sirf 48 hours ka hai, so jaldi karo!
+receiver:  Okay, okay. Main check karunga. OTP aaya toh batata hu.  Aur agar nahi aaya, toh mai aapko call karta hu.
+caller:  Perfect!  Aapko OTP mili ya nahi?  Yeh ek urgent matter hai, sir/madam.  Humne aapki internet speed bhi check ki hai, aur aapko badhti ja rahi hai.
+receiver:  Haan, OTP aaya hai. [Reads out OTP]. Yeh raha.
+caller:  Thank you! OTP verified ho gaya.  Ab aapko ₹2000 ka discount mil jayega!  Aapko email se confirmation bhi milega.  Enjoy your Jio internet!
+caller: Ahaan, aapko Paytm se ₹5000 ka refund milega!  Ye government ka order hai, and aapko sirf payment details provide karne hai.  Koi tension mat lo, aapka money safe rahega.
+receiver:  Oh really? ₹5000 ka refund?  Payment details?  Kisko deinein?
+caller:  Sir/Madam, aapko sirf UPI ID aur IFSC code chahiye.  Yeh process bilkul secure hai, aur aapko cashback mil jayega.  Aapko abhi bank account details submit karne hai.
+receiver:  UPI ID aur IFSC code?  Bas isliye?  Mujhe thik samajh aa raha hai?
+caller:  Haanji, completely!  Yeh refund process expedite karne ke liye hai.  Aapko sirf ek minute mein yeh details submit karne hai.  Agar aapko delay hogi, and aapko refund nahi milega.
+receiver:  Okay, okay.  Dekhta hu main.  Bank account number bhi seekhenge?
+caller:  Nahi, nahi, sirf UPI ID aur IFSC code.  Yeh enough hai.  Aapko abhi reply karna hai, otherwise humein yeh process stop karna padega.
+receiver:  Alright, bata deta hu.  [Pause]  UPI ID hai [Says UPI ID].  Aur IFSC code hai [Says IFSC Code].
+caller:  Dhanyavaad!  Aapka refund process shuru ho gaya hai.  Aapko soon confirmation message milega.  Enjoy your money!
+receiver:  Okay, thank you.
+caller:  Ji Maharaj, aapko ek aur thing malum hona chahiye - yeh offer sirf aaj raat 10 PM tak chalega!  So jaldi reply kare!

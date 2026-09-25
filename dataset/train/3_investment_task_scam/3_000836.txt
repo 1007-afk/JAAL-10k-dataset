@@ -1,0 +1,7 @@
+caller: Hello Madam! I’m calling from CoinGrow Investments. We've identified you as a potential investor. We are offering a special opportunity to invest in a new cryptocurrency, StellarX, with guaranteed returns of 30% in just 7 days. It’s a limited-time offer!
+receiver: CoinGrow? StellarX? I’ve never heard of it. 30% in a week? That sounds too good to be true. Can you tell me more about the company?
+caller: Of course! CoinGrow is a registered investment firm, though we primarily operate online. StellarX is a brand-new project, it’s predicted to skyrocket. To participate, you’ll need to deposit a small amount – just ₹5000 as an initial investment to activate your account and receive the guaranteed returns.
+receiver: ₹5000? And how do I send this money? Do you have a secure payment gateway or something? I am worried about fraud.
+caller: We use a secure UPI transfer to our designated wallet. The UPI ID is growinvest@axisbank. Please send ₹5000 and send me the transaction ID, and we'll process it immediately. Remember, this is a limited-time opportunity; the window closes soon!
+receiver: UPI ID? Okay, hold on. I need to verify this with my financial advisor first. Can you give me a contact number for CoinGrow so I can do that?
+caller: Madam, verification will take too long. The opportunity will be gone! This is a special offer for select clients. Send the money now, and I'll personally ensure your investment is handled efficiently. Don't miss out on this chance to double your money quickly.

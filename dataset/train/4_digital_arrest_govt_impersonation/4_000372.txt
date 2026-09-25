@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Sharma? This is Inspector Verma calling from the Delhi Customs Department. We’ve intercepted a parcel addressed to you containing suspicious items.
+receiver: Hello? Haan, mein Mrs. Sharma. Kya baat hai? Parcel?
+caller: Ji Mrs. Sharma. According to our records, the parcel contained components linked to illegal cryptocurrency mining operations. This is a serious offense under the Indian Penal Code. To avoid arrest and legal proceedings, you need to pay a settlement fee of ₹50,000.
+receiver: ₹50,000? Illegal mining? Lekin maine to kabhi koi parcel order nahi kiya. Yeh kya bakwas hai?
+caller: Mrs. Sharma, these things are often sent without the recipient's knowledge. We need your cooperation to resolve this quickly. I’m transferring you to our legal representative, Advocate Singh. He will explain the process. Please remain on this line.
+receiver: Wait, Advocate Singh? Kuch toh gadbad hai. Main police station mein jaungi. Aapka number save mat karo.
+caller: Mrs. Sharma, this is not a joke! Advocate Singh is waiting. Delaying this will only complicate things and increase the fine. We can offer a discount if you settle immediately. Only ₹40,000 now, ma'am.
+receiver: ₹40,000 bhi bahut hai! Mein abhi koi payment nahi karungi. Main FIR register karwaungi.
+caller: Mrs. Sharma, please understand the gravity of the situation. We have all the evidence. Don’t let this escalate. Last offer: ₹35,000 and we will close the case immediately. This is for your own benefit.

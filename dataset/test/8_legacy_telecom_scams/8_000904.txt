@@ -1,0 +1,8 @@
+caller: Namaste ji, bahut mazaaq hai! Aapne do ‘ShineVision’ smart TV jeete hain! Kya bolti hai?
+receiver: Arey yaar! Shukriya! Mera naam Priya Patel hai. Itni khushi hui, naam yaad bhi nahi ho raha tha! Seriously? Do smart TVs?
+caller: Tumhare liye badi khabar hai, Ms. Patel! Suna hai aap bahut shansaarvangi hain aaj! Aapko ye donon TV ko claim karne ke liye ek chhoti si verification karna hogi. Aapki registered mobile number pe ek OTP gaya hoga, kya aap woh bata sakte hain mujhe?
+receiver: OTP? Ek minute rukiye, check karta hoon. Haan, mila. 7... 8... 6... 3... 2.
+caller: Achha, Ms. Patel! Dhanyavaad. Yeh OTP verification ke liye tha. Ab, in TV ko claim karne ke liye, aapko ek chhoti si donation karna hogi, yeh sirf packaging aur delivery ke liye hai. Aur ek mahatvapurn baat, yeh offer bahut kam din ka hai, aapke liye sirf 4 TV bache hain! Aapko yeh kaise deliver karna hai, uska address bataiye, please?
+receiver: Donation? Mein toh abhi marzi se TV dekh raha tha! Aur sirf 4 bache hain? Pahle toh do bol rahe the. Address toh batao, donation ka amount kya hai aur kaise pay karna hai?
+caller: Ji Ms. Patel, actually pehle toh bohot zyada TV the, par aapke jaisi shansaarvi women ne sab claim kar li hain! Aapke liye bas 3 TV bache hain ab, aur yeh premium brand ka offer hai. Packaging aur delivery ke liye sirf Rs. 1200 ka donation hai. Yeh aapko UPI par karna hoga, ek secure link bhejoonga. Address bataiye, jahan yeh TV deliver karne hain?
+receiver: Rs. 1200? UPI par? Aur sirf 3 bache hain? Yeh to badta ajeeb lag raha hai. Mein toh jeeti thi, toh mujhe hi milne chahiye na? Koi aur tareeka nahi hai donation ka? Aur yeh TV kaunse brand ki hain? Kuch detail toh de dijiye.

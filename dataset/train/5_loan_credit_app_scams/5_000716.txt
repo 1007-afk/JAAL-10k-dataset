@@ -1,0 +1,9 @@
+caller: Namaste! My name is Rahul from QuickCashPro.in. I see you recently applied for a personal loan online. Just confirming some details to process your application quickly. Can I have your full name, please?
+receiver: Yes, hello. My name is Anjali Verma.
+caller: Thank you, Anjali ji. Wonderful! Your application looks promising, but we need to verify your account security. A small processing fee of ₹750 is required to activate your loan and prevent fraud. This is a standard procedure. You can deposit it through UPI.
+receiver: ₹750? I don't remember seeing anything about a processing fee in the application.
+caller: Yes, Anjali ji, the system automatically updates these things. It’s to ensure your loan is legitimate and secure. Without it, we can’t proceed. It's a one-time fee. Once you pay, your ₹25,000 loan will be credited to your account within the hour.
+receiver: I’m not comfortable with this. It seems suspicious. I think I'll just go with a bank loan instead.
+caller: Anjali ji, don't be hasty! This is a fantastic opportunity! Think of the interest you’ll save versus a bank. Besides, if you don't pay, we’ll have to report this to authorities for attempted fraud and could affect your credit score. This is for your own protection. Please make the payment quickly.
+receiver: I'm ending this call. Goodbye.
+caller: Anjali ji, this is very unprofessional. You are losing out on a great opportunity and risking your credit! We are here to help you.

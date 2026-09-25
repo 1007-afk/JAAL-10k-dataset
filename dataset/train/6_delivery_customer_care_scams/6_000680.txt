@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from Swiggy Customer Care. We've noticed some unusual activity on your account. There’s a pending delivery that hasn’t been confirmed, and we need to verify your details to prevent fraud.
+receiver: Oh, really? What delivery is that? I haven't ordered anything recently.
+caller: Yes ma'am. It appears there’s a high-value order – a large electronics package – scheduled for delivery today between 2 and 4 PM. The system flagged it as potentially fraudulent. To secure your account and ensure the delivery goes through smoothly, could you please provide the OTP you just received on your registered mobile number?
+receiver: An electronics package? That's odd. I’m a little worried. Can you tell me the order number, please? And what company is delivering it?
+caller: Absolutely! The order number is SWG789456. The delivery is being handled by our partnered courier, Blue Arrow Logistics. Your security is our top priority, so please provide the OTP at your earliest convenience. It’s a one-time thing, just to confirm it’s you.
+receiver: Okay, hold on a second. I’m going to call Swiggy directly to verify this. Give me a moment.
+caller: Madam, please do not delay! The delivery is time-sensitive, and if we don’t verify your details immediately, the order will be cancelled, and you might lose access to Swiggy services. Just the OTP, please. A very quick step!

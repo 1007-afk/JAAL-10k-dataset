@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rahul bolta hoon. Aapke account mein ek delivery issue hai. Package stuck ho gaya hai, aur delivery address verify karne ke liye kuch details chahiye.
+receiver: Flipkart se? Woh kaunsa package hai? Mujhe koi notification nahi mila.
+caller: Ji, package details main aapko SMS kar raha hoon. Aapka OTP check karein, please? Aapka address verify karne ke liye. Ye security ke liye hai, madam.
+receiver: OTP? Main Flipkart app pe check karta hoon. Phone pe OTP dene se thoda dar lag raha hai.
+caller: Arre madam, app mein dikh raha hoga, delivery address incorrect hai. OTP se main confirm karunga ki aap sahi number se call kar raha hoon. Just a single OTP, please! Time limit hai, madam. Package wapas bhej denge agar verify nahi kiya toh.
+receiver: Theek hai, ek second. <types in OTP>
+caller: Thank you, madam! Ab ek chhoti si payment verification ki zarurat hai – sirf ₹299 delivery charges ke liye. Aapka debit card number de dijiye, please. Security purposes ke liye.
+receiver: Wait, ₹299? Flipkart kabhi bhi delivery charges ke liye phone pe card number manta hai? Mujhe yeh kuch wrong lag raha hai.

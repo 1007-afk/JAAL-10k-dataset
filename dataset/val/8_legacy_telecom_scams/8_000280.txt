@@ -1,0 +1,14 @@
+caller: Namaste! Namaste! Can you hear me properly? I’m calling from the Lucky Draw Helpline, my name is Priya, and I’m thrilled to inform you that you’ve been selected as a winner of ₹15,000! Yes, absolutely correct! To receive your fantastic reward, please dial 88001234567 immediately. This incredible opportunity is available for just 24 hours, and there are only 7 winners remaining! Don't hesitate, call now and claim your ₹15,000!
+receiver: Namaste Priya! ₹15,000? Seriously? Thank you so much for this wonderful news! Just one quick question – did you say 88001234567?  I want to make sure I got it right.
+caller: Haan bhai, aapko woh number dhyaan se sunna hai! 88001234567.  ₹15,000 ka prize, aur sirf 6 log bach gaye hain, to jaldi karein!  Call karein 88001234567 pe, aur apni lucky amount secure karein!  Yeh offer humesha nahi rahega.
+receiver: Six people left? That's quite a few! Okay, 88001234567.  I will definitely call that number.  Thank you very much, Priya!
+caller: Haan bhai, sabse pehle aapko apna bank account number batana hoga.  ₹15,000 aapke account mein transfer karne ke liye yeh zaroori hai.  Aur sirf 5 log bach gaye hain, isliye jaldi karo!  Call karein 88001234567 pe.
+receiver: Bank account number? Really? Okay, wait a minute...  Is this really legitimate?  I am a little hesitant.
+caller: Haan ji, bilkul sahi! Yeh poore saare rules ka follow kar raha hai. ₹15,000 aapka hoga, aur sirf 4 log bach gaye hain!  Call karein 88001234567 pe, agar aap apne prize ko nahi chahte toh, hum aapko call nahi karenge.
+receiver: Four people? Okay, okay… Let me just check something quickly.  I'll call 88001234567.  Please hold.
+caller: Haan ji, bilkul!  Ab toh sirf 3 log bach gaye hain! ₹15,000 ka prize aapka bana sakta hai!  Call karein 88001234567 pe, aur apni dream amount secure karein!  Yeh offer abhi khatam hone wali hai.
+receiver: Three people?  Wow!  Alright, I'm calling now.  Thank you again, Priya!
+caller: Haan bhai, ab toh sirf 2 log bach gaye hain! ₹15,000 ka prize aapka!  Call karein 88001234567 pe, aur aapki life badlega!  Agar aap call nahi karte toh, hum kisi aur ko call karenge.
+receiver: Two people left?  Oh my god!  I’m calling now.  Thank you so much for everything, Priya!
+caller: Haan ji, bilkul!  Ab toh sirf ek hi logo ne call kiya hai! ₹15,000 ka prize aapka!  Call karein 88001234567 pe, aur aapki destiny dikhao!  Chaliye, jaldi call karein!
+receiver: One person?  Seriously?  I'm calling now!  Thank you, Priya!

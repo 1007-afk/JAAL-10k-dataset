@@ -1,0 +1,11 @@
+caller: Namaste! Congratulations! You’ve been selected to receive a ₹50,000 bonus gift voucher from ‘ShineBright Rewards’! To redeem your voucher, please dial 09876543210 immediately. Don’t delay, this offer is valid only for the next 24 hours!
+receiver: Hello? A bonus voucher? Really? This sounds too good to be true. Are you guys actually legitimate, or is this another one of those fake schemes? I need to understand how I can get this voucher.
+caller: Absolutely! It’s completely genuine, beta! No scams here, just a fantastic opportunity for you. You simply need to call us back on 09876543210 and confirm your eligibility. We just need to verify your ID briefly, that's all.
+receiver: Okay, okay, I’m listening. But I still need assurance. Can you tell me what kind of ID verification we’re talking about? Will I have to send you a copy of my Aadhaar card or something similar? Because I'm very careful with my personal information.
+caller: Yes, Rohan Kumar ji, we require a simple photo of your PAN card. Just a quick snapshot will suffice. Don’t worry, it’s perfectly secure, and we use top-notch encryption technology. We just want to ensure everything is above board.
+receiver: Hmm, a PAN card photo… That does sound a bit suspicious. What if I don’t have a PAN card readily available? Or if I'm hesitant to share a picture of it?
+caller: Arre, Rohan Kumar ji, don't fret! If you don't have your PAN card, we can proceed with verifying your address instead. Just provide us with your full postal address, including pin code. We'll check it against our records.
+receiver: Alright, let’s try that then. My address is 123 Main Street, Mumbai, 400001. Send me the address, so I can verify it.
+caller: Wonderful! Just a moment while I input your details... Okay, Rohan Kumar ji, your address has been verified. Now, to redeem your ₹50,000 voucher, please call 09876543210 again within the next hour. Time is running out!
+receiver: Okay, fine. I’ll call again soon. But seriously, this feels like a lot of hassle for a voucher.
+caller: Believe me, Rohan Kumar ji, it’s worth it! This voucher is going to change your life! Don't miss out on this incredible opportunity. Call 09876543210 now!

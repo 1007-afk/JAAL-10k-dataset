@@ -1,0 +1,7 @@
+caller: Hello sir, this is Akash from Blueridge Logistics. We have a parcel addressed to you but there’s been an issue with customs clearance.
+receiver: Customs issue? What kind of issue? I haven't ordered anything expensive.
+caller: Yes sir, a small discrepancy in the declared value. To release the parcel, we need to verify your identity. Can you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? Is this really Blueridge? I'm a bit suspicious.
+caller: Sir, it's a standard security protocol. We need to confirm you're the rightful owner to prevent fraud. It takes only a second. It's for your protection too, sir.
+receiver: Okay, let me see… I received an OTP. It’s 8… 2… 9… 1… 4… 7.
+caller: Thank you, sir. Processing now... One moment please. Sir, there’s still a slight problem. A small processing fee of ₹750 is required to cover the customs charges. You can pay through UPI. Please share your UPI ID.

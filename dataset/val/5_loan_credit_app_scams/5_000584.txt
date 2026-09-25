@@ -1,0 +1,6 @@
+caller: Namaste, sir. Main Rupali Verma, SwiftLoan Solutions se baat kar rahi hoon. Aapne apne phone se ek personal loan ke liye apply kiya tha, hai na?
+receiver: Haan, ji. Mainne apply kiya tha, lekin mujhe koi message nahi aaya tha approval ke bare mein.
+caller: Aapka application approve ho gaya hai, sir. ₹75,000 ka loan. Bas, aapko ek small processing fee bharne ki zarurat hai, ₹2,500. Isse aapka account verify ho jayega aur paise direct aapke account mein transfer ho jayenge.
+receiver: ₹2,500? Loan ₹75,000 ka hai aur processing fee ₹2,500? Yeh thoda zyada lag raha hai.
+caller: Sir, yeh ek standard procedure hai. Iske bina hum transfer nahi kar sakte. Agar aapko problem hai toh hum loan cancel bhi kar sakte hain. Par agar aap speed se fee bhar de, toh aaj hi aapko paise mil jayenge. Aur agar aap fee nahi bharte, toh humko aapka account block karna padega. Hum aapko badnaam bhi kar sakte hain.
+receiver: Acha, theek hai. Bataiye, fee bharne ka kya tareeka hai?

@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Flipkart se Rahul bolta hu. Aapke Flipkart account mein ek cashback offer aa rahi hai, sirf registered users ke liye.
+receiver: Flipkart? Cashback offer? Kya offer hai?
+caller: Aapke last purchase pe 5000 ka cashback mil raha hai. But isko claim karne ke liye, aapko ek small processing fee bharani padegi. 
+receiver: Processing fee? Kitni fee hai? Aur main kitna purchase kar chuka hu?
+caller: Fee sirf 299 rupaye ki hai. Aapki last purchase 15,000 rupaye ki thi.  Payment karne ke liye, mai aapko ek UPI link bheju, us par click karke payment kar dijiye.
+receiver: UPI link?  Thoda wait karwao, mai check karta hu.  Mere dost ne kaha tha ki Flipkart kabhi bhi processing fee nahi lete.
+caller: Aunty, yeh ek limited time offer hai, aur sirf aaj hi valid hai. Agar aap abhi nahi karayenge, toh aapka cashback expire ho jayega. Aapka loss hoga.
+receiver: Haan toh... woh link bhejo. Par mai check karunga, Flipkart ka original link hai ya nahi.

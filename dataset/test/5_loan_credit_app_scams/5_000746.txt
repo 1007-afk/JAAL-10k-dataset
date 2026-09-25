@@ -1,0 +1,7 @@
+caller: Namaste! Is this Raj Patel? I’m calling from QuickCash Solutions. We’ve noticed you’re eligible for a ₹75,000 instant loan with minimal paperwork!
+receiver: Really? That sounds good. I do need some extra funds for my shop. But I’m worried about hidden charges.
+caller: No hidden charges, sir! QuickCash is fully government-approved. Just a small verification fee of ₹500 to activate your account. Once that’s done, the money will be in your account within the hour.
+receiver: ₹500? I need to pay that upfront? And how will I repay the loan?
+caller: Absolutely, sir. The ₹500 is for processing and security checks. Repayment is easy - small, manageable weekly installments. The total amount to be repaid will be ₹85,000 over 12 weeks, very simple. Just a little extra to unlock the offer. We’re offering amazing rates to new customers.
+receiver: ₹85,000? That’s a lot more than the ₹75,000 I was promised. I think I’ll just stick to my regular bank. Thank you.
+caller: Wait, sir! Don’t miss out! As a special bonus for loyal customers, if you pay ₹1000 now, we will give you 10% off the total loan amount. Think about it, sir! Just ₹1000 to save ₹8500! Just send it to this UPI ID: QuickCashLoans@axisbank.

@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from BharatPe customer care. We’ve noticed some unusual activity on your BharatPe account linked to your HDFC bank account.
+receiver: Really? What kind of activity? I haven't done anything unusual. My account number is [invented number, e.g., 1234567890].
+caller: Yes sir, we’ve detected a few small transactions, less than ₹50 each, originating from a different location. To secure your account, we need to verify your details. Can you please share the OTP you just received on your registered mobile number?
+receiver: OTP? But I didn't receive any OTP. Let me check... Nope, nothing. Are you sure it was sent to my number, 9876543210?
+caller: Sir, sometimes there's a slight delay. But just to be absolutely sure, can you quickly tell me the last three digits of your HDFC debit card linked to this BharatPe account? It’s just a standard security protocol.
+receiver: I'm a little hesitant to give that out. What if it's a scam? Can you give me your official BharatPe customer care number so I can verify this with them?
+caller: Sir, we understand your concern, but this is a standard verification process. If you don't cooperate, we might have to temporarily block your account as a precautionary measure. Our official number is 1800-BP-CARE. But please understand, this call *is* from BharatPe. Just provide the OTP when you receive it.

@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Verma from the Delhi Cyber Crime Unit. We've detected suspicious activity linked to your Flipkart account - several unauthorized transactions involving high-value electronics.
+receiver: Flipkart? What? That's impossible. I haven't ordered anything. Can you please give me a reference number?
+caller: Sir, we're working quickly to prevent further losses. The transactions show shipments being routed to a location in Gurgaon. We need to verify your identity immediately to freeze your account. Can you confirm your Aadhaar number and the last four digits of your bank account? It's for security purposes, sir.
+receiver: Aadhaar number? Over the phone? That sounds… risky. I’ve heard about scams like this. Why can't you just contact Flipkart directly?
+caller: Sir, time is of the essence. These hackers are sophisticated. Direct contact with Flipkart would take too long.  We need to secure your account now to prevent them from emptying it. Just the Aadhaar and bank details, sir.  We can also send you an OTP to verify your number.
+receiver: Okay, hold on. I’m going to call Flipkart’s customer service myself and confirm this. Give me their official number.
+caller: Sir, please do not delay. The longer you wait, the more risk you incur.  To expedite the process and prevent further fraudulent activity, could you transfer ₹5000 to the account I’ll provide as a temporary security deposit? This will guarantee protection of your funds during this crucial verification phase. It's fully refundable, sir.
+receiver: ₹5000? That's ridiculous! I'm reporting this to the police. Goodbye.

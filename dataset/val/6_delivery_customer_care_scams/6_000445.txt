@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Sharma? This is Akash calling from BlueLine Logistics. We've identified a potential issue with a parcel addressed to you.
+receiver: Haan, sun rahi hoon. Parcel ka kya hua?
+caller: Seems like there’s been a discrepancy in the shipping address and a customs clearance fee of ₹3850 is pending. To release the parcel and ensure delivery, we need you to verify a few details and make this payment.
+receiver: ₹3850? Kaunsa parcel hai? Mujhe koi order yaad nahi aa raha. Aur BlueLine Logistics? Main toh Flipkart se order kar rahi thi.
+caller: Yes, ma'am, sometimes the details get updated during transit. It might have been rerouted through us. The tracking ID is BL789456. To avoid delays, please provide the OTP we're about to send to your registered mobile number, so we can confirm your identity.
+receiver: OTP? Par ek minute, mujhe toh Flipkart app se notification nahi mila. Aur BlueLine Logistics ka koi website bhi nahi dik raha.  Yeh kuch ghalat lag raha hai.
+caller: Ma'am, sometimes the OTP doesn't appear immediately. It's a security measure.  Please check your spam folder too. If you don't receive it, we can try sending a verification link to your email address to confirm that you are the recipient. Just to be sure we have the correct email address, could you please confirm the email you used for your last Flipkart purchase?

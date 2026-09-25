@@ -1,0 +1,7 @@
+caller: Namaste, main Riya NetSafe Solutions se bol rahi hoon. Aapke PhonePe account mein ek suspicious transaction hua hai ₹200 ka, Amazon par. Aapne kiya tha yeh transaction?
+receiver: Haan, bolo. ₹200 ka Amazon transaction? Mujhe yaad nahi aa raha. Kya time pe kiya tha?
+caller: Sir, yeh 10 minute pehle kiya gaya tha. Security ke liye, humein aapke account se ₹50 ka verification fee lena padega. Tabhi hum aapke account ko secure kar sakte hain. Aapko koi problem hogi isse?
+receiver: ₹50 verification fee? Lekin ₹200 ke transaction ke liye? Yeh thoda zyada lag raha hai. Mujhe samajh nahi aa raha.
+caller: Sir, yeh ek standard procedure hai. Agar aap ₹50 ka fee transfer kar dete hain, toh hum aapke account ko immediately secure kar denge aur Amazon transaction ko cancel kar denge. UPI par transfer karein [invented UPI ID, e.g., netsafesupport@upi]. Jaldi kariye, sir, account hack hone se pehle.
+receiver: Hack hone se pehle? Thoda wait toh karein. Main customer care number pe call karta hoon PhonePe ka, aur phir dekhta hoon.
+caller: Sir, woh line busy hogi, trust me. Aapko fast action lena hai. Account secure karna priority hai. ₹50 transfer karein, sir!

@@ -1,0 +1,8 @@
+caller: Hello sir, main Groww se Rohit bol raha hoon. Aapke Groww investment account mein ek unexpected cashback offer hai.
+receiver: Cashback offer? Groww mein? Mujhe to koi notification nahi aaya.
+caller: Sir, yeh ek limited-time offer hai, sirf Groww Gold users ke liye. Aapke account mein ₹5000 cashback mil raha hai, lekin isko claim karne ke liye ek small processing fee bharne hogi.
+receiver: Processing fee? Kitni fee hai? Aur main Groww Gold user hoon bhi ya nahi?
+caller: Sir, fee sirf ₹500 hai. Aapko Paytm app ke through pay karna hai. Yeh verification process hai. Jab fee bhar denge, cashback instantly aapke account mein deposit ho jayega.
+receiver: ₹500 Paytm mein? Aur verification ke naam se? Mujhe yeh kuch galti lag rahi hai. Groww kabhi aise offers nahi deta.
+caller: Sir, yeh ek special promotion hai. Trust me, aapko loss nahi hoga. Aapko sirf ₹500 bharne hai, fir ₹5000 cashback aapke account mein mil jayega. Jaldi karo, offer abhi khatam hone wali hai.
+receiver: Nahin, thank you. Main khud Groww app check karta hoon. Mujhe koi fake offer nahi chahiye.

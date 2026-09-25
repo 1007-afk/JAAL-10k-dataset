@@ -1,0 +1,9 @@
+caller: Namaste! Kaise hai aap? Mujhe aapki profile pe ek bahut hi pyaara sa chehra dikha. Main Arjun bolta hoon.
+receiver: Namaste! Main fine, thank you. Aap bhi kaise hain? Arjun, acha naam hai. Kya karte hain aap?
+caller: Main ek software engineer hoon, Dubai mein. Yahaan kaam bahut hectic hai, lekin mujhe ek akele pan ka anubhav hota hai. Kya aap meri dost ban sakti hain? Kuch baat karne ke liye?
+receiver: Dubai mein? Wow! Software engineer toh bahut achha hota hoga. Dost banane mein koi bura nahin hai. Bataiye, aap kya karte hain Dubai mein?
+caller: Main ek new blockchain project par kaam kar raha hoon. Yeh bahut bada ho sakta hai, aur main thoda investment kar raha hoon. Lekin, meri taraf se ek problem hai. Meri bank account freeze ho gayi hai, kuch legal issues ke karan.
+receiver: Bank account freeze? Yeh toh bahut pareshaan hone wali baat hai. Kya aapko kisi ki madad chahiye?
+caller: Haan, mujhe madad chahiye. Agar aap mujhe ₹20,000 bhijwa sakti hain, tab tak main apne bank issues solve karunga. Phir main aapko ₹50,000 return kar dunga, promise! Yeh ek temporary help hai, please!
+receiver: ₹20,000? Aur ₹50,000 return? Yeh bahut zyada lag raha hai. Mujhe doubt ho raha hai.
+caller: Please, trust me! Main ek honest insaan hoon. Main tumhe kabhi bhi hurt nahi karunga. Main tere liye sab kuch karna chahunga.

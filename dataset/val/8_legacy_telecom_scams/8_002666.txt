@@ -1,0 +1,14 @@
+caller: Namaste! Kaise haal hai? Aapko bata rahi hoon ki aap "SmartConnect" se baat kar rahe hain. Hamara ek amazing offer hai - aapko ek totally free smartphone milega, saath mein data recharge par 20% tak discount, aur 200 SMS aur 100 calling minutes mileinge! Suno, yeh sunne mein kahan likha hai?
+receiver: Namaste! Mein theek hoon dhanyavaad. SmartConnect? Haan, yeh dekho, offer bohat achcha hai. Smartphone free mein? Aur data recharge par discount bhi? Bataiye, yeh kaise possible hai?
+caller: Ji ji! Yeh sab "SmartConnect Premium" scheme ke zariye mila sakta hai. Agar aapka current mobile plan aapke requirements ko match nahi karta hai, toh yeh offer aapke liye jald hi perfect hai. Kya aapko yeh details jaanen mein interest hai?
+receiver: Haan, interest hai. Batao, mujhe batayein ki mujhe kya karna hai?
+caller: Okay! To shuru karein, hamein sirf kuch basic information chahiye. Please bataiye aapka naam aur aapka mobile number. Iske zariye hum aapki layakigkeit check kar payenge.
+receiver: Mera naam Arjun Patel hai, aur mera mobile number 7894561230 hai. Kya meri layakigkeit check ho gayi?
+caller: Dhanyavaad Arjun ji! Aapki layakigkeit check ho gayi hai aur aap is offer ke liye absolutely eligible hain. Abhi humein bas aapke profile ka kuch small verification karna hoga. Kya aapke paas aapka SIM card abhi ready hai?
+caller: Namaste! Kaise haal hai? Aapko bata rahi hoon ki aap "SmartConnect" se baat kar rahe hain. Hamara ek amazing offer hai - aapko ek totally free smartphone milega, saath mein data recharge par 20% tak discount, aur 200 SMS aur 100 calling minutes mileinge! Suno, yeh sunne mein kahan likha hai?
+receiver: Namaste! Mein theek hoon dhanyavaad. SmartConnect? Haan, yeh dekho, offer bohat achcha hai. Smartphone free mein? Aur data recharge par discount bhi? Bataiye, yeh kaise possible hai?
+caller: Ji ji! Yeh sab "SmartConnect Premium" scheme ke zariye mila sakta hai. Agar aapka current mobile plan aapke requirements ko match nahi karta hai, toh yeh offer aapke liye jald hi perfect hai. Kya aapko yeh details jaanen mein interest hai?
+receiver: Haan, interest hai. Batao, mujhe batayein ki mujhe kya karna hai?
+caller: Okay! To shuru karein, hamein sirf kuch basic information chahiye. Please bataiye aapka naam aur aapka mobile number. Iske zariye hum aapki layakigkeit check kar payenge.
+receiver: Mera naam Arjun Patel hai, aur mera mobile number 7894561230 hai. Kya meri layakigkeit check ho gayi?
+caller: Dhanyavaad Arjun ji! Aapki layakigkeit check ho gayi hai aur aap is offer ke liye absolutely eligible hain. Abhi humein bas aapke profile ka kuch small verification karna hoga. Kya aapke paas aapka SIM card abhi ready hai?

@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Central Bureau of Investigation, CBI. We’ve detected some suspicious activity linked to your bank account. It appears your account may have been used for facilitating illegal cryptocurrency transfers.
+receiver: Illegal cryptocurrency? What? That's impossible. I don’t even use cryptocurrency. Who's doing this?
+caller: Sir, we understand your concern, but we’ve traced the transactions originating from your account. For your security and to prevent further damage, we need to verify a few details. Can you please confirm the last three digits of your ATM card? It’s just a standard security protocol.
+receiver: My ATM card details? Over the phone? I don't think that’s a good idea, Inspector. Isn't that a security risk? And why would someone be using my account for crypto?
+caller: Sir, time is critical. These transactions are happening right now. If we don't act fast, your entire bank account could be compromised and you could face serious legal repercussions. We need to secure your assets immediately. Please, just provide those last three digits so we can lock down the account and investigate. We’re on a secure line, don't worry.
+receiver: Okay, okay… I’m really nervous. Fine. It’s 789. But I'm reporting this to my bank immediately after this call.
+caller: Thank you for your cooperation, sir. That's very helpful. Now, sir, to completely safeguard your account, we require a small refundable security deposit of ₹12,000 to cover the investigation costs. This will be refunded to you once the investigation concludes. You can pay it through UPI.
+receiver: ₹12,000? That's a lot of money! I need to think about this. I really don’t feel comfortable sending

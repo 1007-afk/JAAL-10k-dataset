@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? My name is Deepak, I’m calling from Swiggy Customer Care. We've noticed some unusual activity on your account – a large pending payment of ₹7,800 for an order you haven't received.
+receiver: ₹7,800? Haan, ye mera number hai. Mein Swiggy pe order karta hoon, lekin itna bada payment? Woh order kya tha?
+caller: Sir, according to our records, it was a bulk order placed through a third-party vendor. There seems to be a payment processing error, and we need to verify your identity to reverse the charge. Can you please share the last four digits of your debit card for verification?
+receiver: Debit card ka number? Kyun? Swiggy toh kabhi card details nahi manta. Itna personal information phone pe?
+caller: Sir, it’s a standard security protocol. We need to confirm you are the rightful owner of the account. Just the last four digits, please. Also, could you provide a one-time password (OTP) that we'll send to your registered mobile number to complete the verification process?
+receiver: OTP?  Yeh kuch ghalat lag raha hai.  Mein online Swiggy app se check karta hoon.  Koi notification nahi hai.  
+caller: Sir, the system is automated.  We are just following protocol. The payment will stay pending until you confirm the OTP. Without verification, we will have to escalate this to the fraud department, which could freeze your account. Please, just provide the OTP for a quick resolution.
+receiver: Okay, ek minute...  Mein apne app mein check karta hoon.  Wait a second.

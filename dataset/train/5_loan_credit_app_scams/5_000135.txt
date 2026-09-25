@@ -1,0 +1,7 @@
+caller: Namaste! Sir/Madam, speaking with Lucky from Loan Express India. I see you recently inquired about a quick loan online.
+receiver: Haan, ji. I did. I need a small loan, around ₹30,000, for some medical expenses.
+caller: Absolutely! Loan Express India specialises in urgent situations like this. We can approve you instantly. Just need a few details. Could you please share your Aadhaar number for verification, sir?
+receiver: Aadhaar number? That seems a bit risky, doesn’t it? Isn't there another way?
+caller: Sir, it’s standard procedure. Without it, we can’t confirm your identity and process the loan quickly.  Also, we have a special offer - only ₹45,000 to be repaid over 12 months.  Very manageable.
+receiver: ₹45,000? But I only need ₹30,000! That’s a lot more.
+caller: Sir, that includes processing fees and a small insurance charge.  We need to ensure everything is secure.  Now, about that Aadhaar number... otherwise, the loan can't proceed. And also we have to send photos of you to a few contacts to ensure you are not a fraud, okay?

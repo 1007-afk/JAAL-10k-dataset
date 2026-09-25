@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Mr. Sharma? This is Inspector Rajan from the Directorate of Revenue Intelligence, DRI. We've intercepted a suspicious parcel linked to your mobile number, containing what appears to be counterfeit currency.
+receiver: Counterfeit currency? My number? Yeh kya keh rahe hain aap? I don’t understand.
+caller: Sir, it's a serious matter. We need to confirm your involvement to avoid legal complications. We’re currently holding the parcel at the Mumbai customs office. You’ll need to pay a small processing fee of ₹15,000 to clear it and have it returned.  Can you transfer it to this UPI ID: 9876543210@ybl?
+receiver: ₹15,000? This sounds like a scam! Why don't you just investigate the parcel and tell me what’s happening? I don’t believe you.
+caller: Sir, time is of the essence. We are operating under strict protocols. This UPI ID is secure, and the money will be returned to you after the verification. Delaying the process will only escalate the situation and might result in further legal action. We need confirmation of the payment within the next 10 minutes.
+receiver: Ten minutes? Okay, wait a moment. I will ask my son to check this UPI ID…
+caller: Excellent sir! We appreciate your cooperation. I am holding the line for you. Please remember to mention the reference number: DRI/MC/2024/789 when making the payment.
+receiver: Okay, my son says it’s a new UPI ID, and it’s not registered to any bank. This is definitely a scam.
+caller: Sir, there seems to be a system glitch. Please ignore the previous UPI ID.  We've updated it to 87

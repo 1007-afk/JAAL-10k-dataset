@@ -1,0 +1,7 @@
+caller: Hello sir, this is Ankit calling from Paytm Payments Bank. We’ve noticed some unusual activity on your linked UPI ID, and for security reasons, we need to quickly re-verify your account.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Sir, there’s been a failed transaction attempt from your UPI ID. To prevent any potential fraud, we need you to confirm a small processing fee of ₹500. It's a one-time charge to secure your account.
+receiver: ₹500? Why do I have to pay to secure my own account? That doesn’t sound right. Shouldn't the bank be protecting me?
+caller: Sir, this is a standard security protocol. The amount will be credited back to your account immediately after verification. Please send it via UPI to the number I’ll provide. Just to be sure, which bank account is linked to your Paytm UPI ID?
+receiver: Wait a minute. This sounds like a scam. You’re asking for money and then asking for my bank details? I'm calling Paytm customer care directly.
+caller: Sir, please don’t delay! This is urgent to prevent your account from being blocked. The transaction attempt is showing a high-risk flag, and it's a matter of minutes before your UPI services are suspended. Do you want to lose access to your money?

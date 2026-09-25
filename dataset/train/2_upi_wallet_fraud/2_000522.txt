@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mein BharatPe customer support se bol raha hoon. Aapke BharatPe wallet mein aaj ek transaction hua hai ₹12,500 ka, jo aapne approve nahi kiya hai.
+receiver: ₹12,500? Arre, nahi, maine toh koi transaction nahi kiya! Yeh kya ho raha hai? Mein abhi check karta hoon apna BharatPe app.
+caller: Ji sir, humein bhi dikh raha hai. Yeh urgent hai, sir. Account secure karne ke liye, aapko ek OTP verify karna hoga. Mein aapko ek link send karunga, us par click karke OTP enter karein.
+receiver: Link? Yaar, mujhe kuch shak ho raha hai. BharatPe toh aise OTP nahi bhejeta. Tum genuinely BharatPe se ho? Tumhara employee ID number batao.
+caller: Sir, security reasons se mein employee ID nahi bata sakta. Lekin link check karein, sir. Yeh aapki security ke liye hai. Link hai: https://bharatpe-security.com/verify. Jaldi karein, sir, account block ho sakta hai.
+receiver: Arre yaar, yeh link toh suspicious dikhta hai. BharatPe ka official link nahi hai yeh. Mein police mein report karunga agar tumne mujhe scam kiya!
+caller: Sir, please mat karna. Ek minute de do mujhe. Mein aapko call karta hoon ek aur number se. Woh number BharatPe ka official number hai.
+receiver: Thik hai, mein wait karta hoon. Par agar kuch bhi ho gaya to main responsibility aap logon ki lunga.

@@ -1,0 +1,12 @@
+caller: Namaste! Namaste, can you hear me properly? Oh, wonderful! Listen, I’m calling from the Airtel Prestige Rewards team. We have incredibly exciting news – it seems your Airtel mobile, registered under the name Sharma, has won a prize! A whopping ₹7500 is waiting for you! You just need to confirm some details over a short call to our helpline, 08992837561.  It's super simple, just a few questions and then the money will be transferred directly into your account. That’s 08992837561. Please don’t delay, this offer is very limited!
+receiver: Namaste! Haan, sunn raha hoon. Airtel Prestige Rewards? ₹7500 prize? Seriously? So, I just need to give them my bank details to get the money? 08992837561, okay, tell me more.
+caller: Absolutely! Just confirming your account number and IFSC code. This is crucial for processing the transfer.  We need to verify everything quickly, so please provide those details now.  Don’t worry, we take full security measures to protect your information.  That’s 08992837561 again.
+receiver: Okay, my account number is 1234567890 and the IFSC code is XYZ123456. But why do I need to give you my bank details? This sounds a bit suspicious, yaar.
+caller:  Relax, everything is perfectly safe. This is standard procedure for any prize claim. We just need these details to ensure the funds reach your account promptly. And believe me, you deserve this reward!  The helpline number is 08992837561.
+receiver: Nahin, main rahat nahi hu. I think I will hang up now. Thank you.
+caller:  Achaa, okay, no problem. Just remember the number, 08992837561. Enjoy your well-deserved ₹7500! Goodbye!
+receiver: Bye!
+caller:  Wonderful! Wonderful! Just a reminder, the number is 08992837561. Congratulations on winning your ₹7500! Have a fantastic day!
+receiver: Okay, thanks! Bye bye!
+caller:  Ji ji! Ji, remember 08992837561.  Enjoy your prize!  Have a good one!
+receiver: Bye!

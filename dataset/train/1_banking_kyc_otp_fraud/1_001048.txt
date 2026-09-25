@@ -1,0 +1,6 @@
+caller: Namaste madam, Axis Bank se Rohit bol raha hoon. Aapke naam par ek international transaction attempt hua hai, ₹12,000 ka. Security ke liye, humein aapke account details verify karne hain.
+receiver: International transaction? ₹12,000? Main toh international transaction nahi kar rahi thi. Kya verify karna hai aapko?
+caller: Ji madam, humein sirf aapka PAN card number aur last 4 digits bank account number chahiye, verification ke liye. Agar aap nahi dete toh transaction block ho sakta hai aur aapko nuksan ho sakta hai.
+receiver: PAN card number phone pe? Yeh thoda risky lag raha hai. Kya main bank branch mein jaakar verify karwaa sakti hoon?
+caller: Madam, branch mein jaane mein time lagega aur transaction block ho sakta hai. Yeh process sirf kuch minutes mein ho jayega, bilkul secure hai. Aapka account suspend bhi ho sakta hai, madam.
+receiver: Account suspend? Okay, theek hai. PAN card number… ₹12,000 toh bahut zyada hai. Chahiye toh bata do, final figure kitni hogi?

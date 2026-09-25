@@ -1,0 +1,21 @@
+caller: Oh, that’s really interesting, isn’t it? You got a call about your insurance claim, right? Just checking in.
+receiver: Haan ji, bolte hain. Insurance claim, yeah… mujhe yaad nahi aa raha ki koi claim file kiya tha.
+caller: Don’t worry, it's just routine verification. We're just confirming some details about your policy. You received two calls this week, and both were regarding that same claim. It’s a bit unusual, I admit.
+receiver: Dhoondhta phirta hoon. Dobara dobara calls aane vala insurance claim? Yaad nahi aa raha. Policy details kya hain?
+caller: Well, we need to verify your address, sir. Just standard procedure. Can you tell me your full address again? And also, what's your date of birth? Just for our records, obviously.
+receiver: Mera address... 123, Patel Nagar, Mumbai. Aur mera janmadin 15 August 1978.
+caller: Thank you very much, sir. Now, let's talk about the nature of the claim. Was it related to car accident, or maybe something else?  We need to understand the specifics.
+receiver: Car accident… hmm… mujhe pata hai, ek chhoti si accident hui thi. But maine police ko bataaya tha.
+caller: Ah, good, good. That’s important. We just want to ensure everything is properly documented. Could you describe briefly what happened during the accident? Just a few words will do.
+receiver: Ehsaan tha, ek small bump hui thi. Warna car safe rahi thi.  Police report number hai, woh deta hun.
+caller: Excellent. Now, one more thing - could you provide me with a recent photograph of yourself? Just a passport-sized photo would be perfect. This helps us to match your information.
+receiver: Photograph? Mein copy karunga, lekin asli nahi de sakta. Privacy issues hai.
+caller:  It’s okay, sir. It's just a quick confirmation. We need to ensure no fraudulent claims are being made.  Also, did you receive any emails lately mentioning this claim?  Anything at all?
+receiver: Emails? Hmm… mujhe nahi pata. Mein email nahi check karta.
+caller: Okay, understood. Let me just double-check some things on my end. Just a moment please.  I'm seeing here that you've been receiving multiple inquiries about this specific claim. That's rather strange, isn’t it?  Perhaps a competitor is trying to mislead you.
+receiver: Competitor?  Kya matlab?
+caller:  Just saying, it's worth considering.  Now, can you confirm your bank account details? We need to process the settlement.
+receiver: Bank account? Koi baat nahi.  Mein jald hi details bata dunga.  Par mujhe abhi thik nhi lagta.
+caller:  Don’t worry, sir. It’s a necessary step.  We just want to make sure everything goes smoothly.  And finally, could you confirm your mobile number?
+receiver: Mobile number 9876543210.
+caller: Thank you very much, sir.  That’s all the information we needed. We appreciate your cooperation. Have a nice day!

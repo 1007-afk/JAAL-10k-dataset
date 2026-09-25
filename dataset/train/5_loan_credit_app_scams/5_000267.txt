@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? My name is Akash, calling from ‘SwiftCash Loans’. We’ve pre-approved you for a personal loan of ₹2,50,000! Very easy process, just a few details to confirm. Are you there?
+receiver: Haan, Verma yahan hoon. SwiftCash Loans? Loan ka kya process hai?
+caller: Excellent! To get the loan processed quickly, we need to verify your bank account. Please visit our verification portal at swiftcashverify.com and enter your account details. It’s completely secure, sir. We have limited slots available.
+receiver: Swiftcashverify.com? Account details daalna hai? Koi charges hain?
+caller: No charges at all, sir! This is just a verification step. Once verified, the money will be credited to your account within an hour. Don't miss out on this fantastic opportunity! Have you gone to the website yet?
+receiver: Thoda doubt ho raha hai, sir. Website dekha toh bas account number aur OTP maang raha hai.
+caller: That's correct, sir! The OTP is for security purposes only. Please enter it on the website. We’re almost there! Just the OTP, and you'll have your loan!
+receiver: Okay, OTP daal diya. Now what?

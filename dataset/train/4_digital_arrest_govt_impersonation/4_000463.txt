@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Priya Sharma? This is the Delhi Customs Department. We have a serious matter regarding a parcel registered under your name.
+receiver: Customs? Parcel? What's the matter? I haven’t ordered anything recently.
+caller: Ji, according to our records, a parcel containing suspicious items has been intercepted at the Indira Gandhi International Airport. Preliminary investigation suggests possible involvement in illegal trade.
+receiver: Illegal trade? That’s ridiculous! I’ve never been involved in anything like that. What kind of items are you talking about?
+caller: We cannot disclose the specifics at this stage, Ms. Sharma. However, to clear this matter and prevent further legal action, you are required to pay a processing fee of ₹12,500. This will cover the investigation and verification costs.
+receiver: ₹12,500? Just like that? Without even knowing what’s in the parcel? Surely there’s another way. Can’t I just go to the customs office and sort this out?
+caller: Regrettably, due to security protocols and the sensitivity of the case, direct interaction is not possible at this time. The fee can be paid via UPI to expedite the process. We need to resolve this quickly, Ms. Sharma, as delayed payments can lead to further complications.
+receiver: This is sounding like a scam. I’m not paying anything until I’m absolutely certain this is legitimate. I’m going to report this number.

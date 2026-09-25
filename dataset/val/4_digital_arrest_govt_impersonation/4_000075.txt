@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Ashok Kumar? This is Inspector Verma from the Directorate of Revenue Intelligence, Delhi. We’ve detected unusual activity linked to your bank account, specifically regarding undeclared foreign remittances.
+receiver: Haan, haan, bolie. Ashok Kumar yahan hai. Undeclared remittances? Main toh abroad se paisa kabhi nahi liya. Kya ho raha hai?
+caller: Sir, our system flagged a series of small transfers from accounts in the Cayman Islands coming into your account over the past six months. It's a common tactic used to launder money. We need to confirm a few details to ensure your innocence and prevent further legal action. Can you confirm your date of birth, please?
+receiver: Date of birth? Yeh kya bakwaas hai? Main toh kabhi Cayman Islands se paise nahi leya. Date of birth… 15th August 1972. But I’m telling you, this is a mistake.
+caller: Thank you, Mr. Kumar. Your date of birth matches our records. Sir, to clear this up quickly, we’re just asking for a small processing fee of ₹7,500 to expedite the verification process and prevent your account from being frozen. You can pay it through BHIM UPI.
+receiver: ₹7,500? What kind of verification needs ₹7,500? This sounds like a scam! Why can’t I go to your office and sort this out in person?
+caller: Mr. Kumar, due to the sensitive nature of the investigation, we are conducting it remotely. Paying the fee ensures that your case is prioritized. Please do not delay, sir; failure to cooperate may result in legal consequences. A UPI ID is 8800112233@axisbank. Send the amount immediately.
+receiver: Wait a minute… 88001

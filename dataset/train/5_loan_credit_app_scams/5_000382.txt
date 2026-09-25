@@ -1,0 +1,11 @@
+caller: Namaste! Mai Rajan Global Finance se Rahul bolta hoon. Aapko urgent loan ki requirement hai kya? Hum door-door tak loan provide karte hain, credit score koi matter nahi karta.
+receiver: Hello! Haan, mujhe ek loan ki requirement hai, par mujhe ek achha deal chahiye. Kitni interest rate hogi?
+caller: Wah! Bohot achha. Humari special offer mein sirf 10% interest hai. Aapko ₹30,000 tak ka loan instant mil sakta hai. Aapka naam aur city bataiye?
+receiver: Mera naam Anjali hai aur mai Jaipur se hoon. ₹30,000 ka loan kaafi hoga.
+caller: Anjali ji, Jaipur toh bahut sundar city hai! Hum aapko loan approve kar sakte hain, lekin verification ke liye aapko ek small processing fee, ₹1500, deposit karni hogi.  Yeh humare bank account mein transfer karein - 9876543210, IFSC code RAJB0001.
+receiver: ₹1500? Loan se pehle fee? Yeh thoda strange lag raha hai.
+caller: Anjali ji, yeh ek standard process hai.  Yeh fee humari verification team ke liye hai.  Agar aap fee nahi bharte, toh hum aapko loan nahi de paenge.  Fast ho jayen, time limited hai!
+receiver: Okay, fine.  I will transfer the money.
+caller: Bahut achha Anjali ji! Transfer hone ke baad mujhe bataiye.  Aur yeh bhi bataiye aapki photo gallery mein kitne contacts hain. Hum check karna chahte hain aapka network kitna strong hai.
+receiver: My what? Contacts? Why do you need that information?
+caller: Anjali ji, aapko trust karna padega. Yeh humare security

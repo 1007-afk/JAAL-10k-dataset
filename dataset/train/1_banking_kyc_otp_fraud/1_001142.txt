@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main State Bank of India se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye verification ke liye call kiya hai.
+receiver: Kya suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Haan sir, ek online transaction attempt hua hai, jo block kar diya gaya hai. Account secure rakhne ke liye, aapko OTP verify karna hoga. Mein aapko ek OTP send karunga, woh bataiye.
+receiver: Bilkul nahi! State Bank kabhi phone pe OTP nahi manta. Yeh scam lag raha hai.
+caller: Sir, please, yeh security protocol hai. Account suspend hone se pehle OTP dedo. Main aapko confirm kar sakta hoon, aapka account number xxxxxxxx789 hai, correct?
+receiver: Haan, woh correct hai, lekin phir bhi OTP nahi dunga. Tum mujhe branch mein aake verify karne ko kaho.
+caller: Sir, branch mein line bahut lambi hogi. Aur yeh urgent hai, account block hone se pehle OTP dedo. Thode se aur details check karne ke liye aapka Aadhaar card ka last 4 digit bataiye?

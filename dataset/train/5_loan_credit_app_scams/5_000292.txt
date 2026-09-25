@@ -1,0 +1,7 @@
+caller: Namaste, Madam. This is Akash from Loan Express. We’ve pre-approved your loan application for ₹75,000. Congratulations! Just a few quick verification steps.
+receiver: Oh, really? That's great! I was hoping for a loan. What kind of interest rates are we talking about?
+caller: Very competitive rates, Madam! Just 1.5% per month, but we need to confirm your details. Can you please share the last four digits of your PAN card for quick verification? Also, can you send a selfie with your Aadhar card?
+receiver: 1.5%? That seems a little high, doesn't it? And sending a selfie with my Aadhar? That sounds a bit risky, doesn’t it? Are you sure this is legitimate?
+caller: Madam, these are standard security protocols. Don't worry, your information is completely safe with us. If you don't do this right away, we'll have to cancel your pre-approval. We're giving you this special offer now. Just send the selfie and PAN digits so we can finalize everything.
+receiver: Alright, fine. Just to get this over with. PAN last four digits are 4587. Sending the selfie now. But I’m still worried about this.
+caller: Thank you, Madam. Now, for final approval, we require a small processing fee of ₹2,500 to be transferred to this UPI ID: 9876543210@axisbank. Once you do that, your loan will be disbursed immediately.

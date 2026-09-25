@@ -1,0 +1,9 @@
+caller: Namaste! Main Indian Customs se Inspector Sharma bol raha hoon. Aapke naam par ek parcel intercept kiya gaya hai jo Mumbai airport par aaya tha.
+receiver: Kya? Mere naam par parcel? Mainne toh koi parcel nahi bheja tha.
+caller: Woh, parcel mein illegal items paaye gaye hain - fake currency notes. Yeh ek serious case hai, sir. Aapko is matter mein cooperate karna padega.
+receiver: Fake currency notes? Itni serious baat hai? Par main toh kuch bhi nahi pata. Yeh kaise ho sakta hai?
+caller: Dekhiye, investigation ke dauran, hamein yeh parcel aapke naam se mil raha hai. Is matter ko clear karne ke liye, aapko ek security clearance fee bharनी padegi - sirf 7,999 rupaye.
+receiver: 7,999 rupaye? Security clearance fee?  Yeh toh bahut zyada lag raha hai. Main police station mein jaakar report karunga.
+caller: Sir, please, mat karna! Yeh process bilkul legal hai. Agar aap payment nahi karte hain, toh humko case register karna padega aur aapko arrest karna padega.  Yeh urgent hai, sir. Aapka naam risk mein hai. Please, just pay the amount, aur hum isko jaldi se suljha denge.
+receiver: Arrest? Par main toh kuch bhi nahi kiya! Bataiye, payment kaise karun?
+caller:  Aap Paytm ya Google Pay se kar sakte hain. Main aapko QR code bhejnajiska aap scan kar sakte hain. Jaldi karo sir, time kam hai.

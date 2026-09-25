@@ -1,0 +1,8 @@
+caller: Hello? Main Indian Customs Department se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items mile hain.
+receiver: Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya. Yeh kya ho raha hai?
+caller: Haan, sir. Parcel Ahmedabad se aaya hai, aur usmein suspicious items hain.  Aapko ek penalty amount bharvana padega, tab hum parcel aap tak wapas bhejenge.  Rs. 12,500 bharne ke baad parcel release ho jayega.
+receiver: Rs. 12,500?  Main kya bol raha hai aap?  Customs department aise phone par amount nahi maangti.  Aapko parcel number bhi dena chahiye, aur main complaint karunga.
+caller: Sir, parcel number confidential hai.  Security reasons se hum woh share nahi kar sakte.  Aapko online payment karna hai, ek secure link main.  Rs. 12,500 bharne ke baad parcel aapke doorstep par pahunch jayega. Aapka time waste nahi hona chahiye.
+receiver: Secure link?  Mein koi bhi link open nahi karunga.  Aap mujhe fraud kar rahe hain.  Main police mein report karunga.
+caller: Sir, aap misunderstanding kar rahe hain.  Yeh legal process hai.  Agar aap payment nahi karenge, toh case register hoga, aur aapko court mein bhi jaana padega.  Please cooperate karein, aur Rs. 12,500 bhar dein.
+receiver: Mein koi bhi payment nahi karunga.  Aapko abhi mera phone kaatna chahiye.  Yeh scam hai, mujhe pata hai.

@@ -1,0 +1,21 @@
+caller: Namaste! Kaise haal hai? Main Sanjay, Digital Gems se baat kar raha hun. Aapko ek surprise hai! Ek free Smartwatch jeetne ke liye, sirf "XYZ" message karo. Ehsas hota hai na?
+receiver: Namaste Sanjay ji, theek huun. Digital Gems se ho? Smartwatch jeetna hai? Hmm, interesting.  Agar main “XYZ” message karoon toh woh jeet saktun?
+caller: Haan, absolutely! "XYZ" message karne waale sabhi ko lucky draw mein entry mil jayega. Hamara stock kam ho chuka hai, sirf 5 smartwatch bache hain.  Aap jaldi karo, time bahut limited hai!
+receiver:  Arre, sirf 5 smartwatch? Okay, okay. Main message kar dungi "XYZ".  Dekhti hoon kya hota hai. Dhanyavaad!
+caller: Great! Dhanyavaad aapko! Aapka "XYZ" message receive ho gaya hai.  Aap ab lucky draw mein included ho gaye hain.  Baki sirf 4 smartwatch bache hain, isliye winner ka announcement jaldi hi hoga. Good luck!
+receiver:  Theek hai Sanjay ji. Dhanyavaad aapne bataya.  Main pray kar rahihoon ki main jeeti!  Agar jeet gayi toh khabari dena.
+caller:  Absolutely! Aapki attempt hamare liye bahut important hai. Agar aapko koi aur detail chahiye, toh bataayein, ya hum is deal ko further enhance kar sakte hain?
+receiver:  Nahi Sanjay ji, mujhe koi aur detail nahin chahiye.  Sab theek hai. Aap aage badh sakte hain.
+caller: Namaste! Kaise haal hai? Main Priya from SilverLine Solutions calling about a potential opportunity for you. We’ve identified a significant sum of unclaimed funds linked to your late grandfather, Rajeev Sharma. Due to legal processes, we need to verify your identity and secure these funds for you. To proceed, please provide your date of birth and mother’s maiden name. It’s crucial for ensuring a swift transfer.
+receiver: Namaste Priya ji, theek huun. SilverLine Solutions se ho? Grandfather ke naam ke funds? Wo to bohat zamana beet gaya. Agar main apni janmadata aur maa ki mata naam de doon toh kya hoga?
+caller: Haan, bilkul! Yeh verification process bahut important hai. Iske bina hum funds transfer nahin kar sakte. Apni janmadata aur maa ki mata naam malum hai? Please bataiye.
+receiver: Haan, meri janmadata 15th August 1985 hai aur maa ki mata naam Neetu Sharma hai.  Yeh verification kyon zaroori hai?
+caller: Shukriya! Yeh information sahi hai. Ab hum verification complete kar sakte hain. Funds transfer hone mein sirf 7-10 days lagegi.  Humare paas ₹5,00,000 se zyada funds hain jo aapke liye wait kar rahe hain.
+receiver: ₹5,00,000? Seriously? Wow!  Agar yeh sach hai toh bahut achcha hai.  Kahaan transfers hoga?
+caller: Funds India ke kisi bhi bank mein transfer ho sakte hain jo aap select kare.  Abhi aapko ek small processing fee dena hoga - ₹2,000 sirf agar aap funds receive karna chahte hain.
+receiver: ₹2,000?  To phir puri amount mein toh fees nahi hoga?  Yeh kitna dubba hai?
+caller:  Nahin, yeh sirf transfer karne ka charge hai.  Agar aap fee nahi dete, toh funds wait karte rahange.  Aapka safety aur convenience hamara priority hai.  Aapko confirmation email bhejna hoga.
+receiver:  Okay Priya ji, thoda suspect hai mujhe.  Main fee nahi dungi.  Aap aage badh sakte hain.
+caller:  Bilkul! Aapki choice ko respect karte hain.  Aapko notification mil jayega jab funds ready honge.  Dhanyavaad Priya from SilverLine Solutions!
+receiver: Dhanyavaad.  Good bye.
+caller:  Goodbye!

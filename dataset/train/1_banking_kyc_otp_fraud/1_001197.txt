@@ -1,0 +1,10 @@
+caller: Namaste, is this Priya Verma? I'm calling from HDFC Bank's KYC verification department. We've flagged a potential security risk with your account.
+receiver: Haan, speaking. What's the issue?
+caller: Arre, koi baat nahi! Our systems have detected some unusual activity. To protect your account from unauthorized access and ensure compliance with new RBI regulations, we need to quickly update your KYC details. It's a very straightforward process.
+receiver: Okay, what details do you need? I'm a little worried, though. I always get these calls.
+caller: Absolutely understandable! To proceed, could you please share the last four digits of your Aadhaar card and a one-time password (OTP) that we’ll send to your registered mobile number? This is just a quick verification step.
+receiver: Wait a minute. Why do you need my Aadhaar number? Shouldn't you already have that on file? And why am I getting this over the phone?
+caller: Ji haan, we do, but our systems need a refresh to ensure accuracy. This is a mandatory security protocol. Agar aap OTP share nahi karein, toh aapka account temporarily suspend ho sakta hai. Just a few seconds, and your account will be secure.
+receiver: A suspension? That sounds serious. But I still don’t feel comfortable giving out my Aadhaar. Can I call the bank back to verify this?
+caller: Of course, you can! But the process will take much longer, and there’s a chance the risk window will close. For your convenience, just provide the OTP now, and we'll resolve everything instantly. Just the OTP, please.
+receiver: Alright, send the OTP then. But if something goes wrong, I’m holding you responsible.

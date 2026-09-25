@@ -1,0 +1,13 @@
+caller: Namaste! Main calling kar raha hoon regarding your account with ‘MovieStream Prime’. You remember that free trial you signed up for, right? Just wanted to make sure everything’s going smoothly.
+receiver: Haan ji, namaste.  Yes, I remember. I've been watching some movies, it's okay.  Thank you for calling.
+caller: Achaa, acha! Good to hear. Now listen, we have a special promotion running for our loyal viewers like yourself. We want you to explore our ‘Director’s Choice’ collection - it’s got some really amazing films.
+receiver: Director’s Choice? Tell me more, please.  What kind of movies are we talking about?
+caller:  It’s a curated selection, ji.  Think classic Bollywood hits and some newer Hollywood blockbusters – mostly action and thriller genres.  We’re offering you a limited-time upgrade to this collection for just ₹199 only, for the next seven days!
+receiver: ₹199? For seven days?  That's not bad at all. But what happens after those seven days? Will I still have access to watch?
+caller: Absolutely! After the seven days, you’ll continue to get access at the standard monthly rate, but you’ll have a significant discount on your first month - around 30%, approximately. So it’s a great value for you. Just reply ‘YES’ to 98765 to activate the upgrade.
+receiver: Thirty percent discount… okay, that sounds reasonable.  Can you tell me specifically which actors and directors are featured in these ‘Director’s Choice’ movies?
+caller:  Ji, definitely! Many popular Indian actors like Shah Rukh Khan and Salman Khan, along with some international stars like Tom Cruise and Leonardo DiCaprio.  Lots of big names, ji!  Just send ‘YES’ to 98765 to confirm your upgrade.
+receiver: Alright, I'll consider it.  Just one last question - is this offer available to everyone, or just for existing subscribers?
+caller:  This is exclusively for current subscribers, ji.  Only because we appreciate your loyalty.  Please reply ‘YES’ to 98765 to activate the upgrade.
+receiver: Okay, thank you for the information. I will think about it.
+caller:  Koi problem nahi ji!  Wishing you a wonderful day!  And don't forget to reply ‘YES’ to 98765.

@@ -1,0 +1,8 @@
+caller: Namaste ji, aapka swagat hai! Kya main aapki kuch madad kar sakta hoon aaj?
+receiver: Namaste ji! Thank you so much. Haan ji, mujhe thodi help chahiye thi ek order ke baare mein. Aap mera naam Rohan Sharma note kar sakte hain.
+caller: Namaste Rohan ji! Thank you for calling. Mujhe Rohan Sharma naam note ho gaya hai. Aap kis order ke baare mein baat kar rahe hain? Koi order ID ya reference number ho toh bataiye, main usse check kar leta hoon.
+receiver: Ji haan, bilkul. Order ID hai 123456789. Isme maine kuch items add ki thi, but usmein mistake ho gayi thi. Maine cancel karne ki koshish ki thi, par ho nahi paaya. Aap check kar sakte hain kya?
+caller: Rohan ji, 123456789 order ID check kar raha hoon. Thoda sa time de dijiye. Okay, Rohan ji, aapki order mein items mein kuch mistake ho gayi thi aur cancel karne ki koshish ki thi, woh dikh raha hai mujhe. Aapse ek choti si confirmation required hogi for security. Kya aap mujhe apna registered mobile number bata sakte hain jo aapne order karte waqt diya tha?
+receiver: Ji haan, zaroor. Mera registered mobile number hai 9876543210. Aap check kar lijiye. I hope it matches.
+caller: Rohan ji, thank you for confirming your mobile number. Yes, 9876543210 matches our records. Aapka order successfully cancel ho gaya hai. Aapko 24 ghante ke andar refund mil jayega.  Kya main aapki aur koi madad kar sakta hoon?
+receiver: Nahi ji, bas itni si hi help chahiye thi. Bahut-bahut shukriya aapka!

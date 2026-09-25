@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is Inspector Rajesh Kumar calling from the Directorate of Revenue Intelligence, DRI. We have intercepted a suspicious package linked to your mobile number containing what appears to be counterfeit currency.
+receiver: What? Counterfeit currency? My mobile number? That's impossible! I have no idea what you're talking about.
+caller: Madam, we need to verify this urgently. To avoid further legal complications and potential arrest, you need to cooperate. We require a small sum – ₹15,000 – to cover the investigation and verification costs. This will clear your name.
+receiver: Fifteen thousand? Just like that? Are you serious? Can I speak to someone higher up? Or can you give me a case number? This sounds like a scam.
+caller: Madam, time is of the essence. Delaying will only escalate the matter. Our superiors are currently busy. Just transfer the amount to this UPI ID: 87654321@axisbank. Once the transaction is confirmed, we'll release your name from the investigation. This is a standard procedure to prevent further issues, understand?
+receiver: A UPI ID? Standard procedure? This is getting fishier by the minute. I am not transferring any money. I'm reporting this number to the cybercrime helpline right now. You should be ashamed of yourselves.
+caller: Madam, don't be foolish! This is your last chance to resolve this quietly. Think about the consequences! You’ll be facing serious charges if you don't comply. Transfer the money immediately.

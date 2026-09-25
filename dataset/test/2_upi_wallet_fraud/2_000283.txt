@@ -1,0 +1,7 @@
+caller: Namaste, mai Rahul se baat kar raha hoon, BharatPay support team se. Aapke BharatPay account mein ek transaction fail hua hai, sir.
+receiver: BharatPay support? Transaction fail? Kab hua? Mujhe koi notification nahi aaya.
+caller: Haan sir, ek payment processing ke dauran kuch technical issue hua. Aapke account mein ₹2500 hold kar rahe hain verification ke liye. Verification ke liye, aapko apne bank account se ₹500 processing fee transfer karni padegi.
+receiver: ₹500 processing fee? BharatPay support aise fees lete hai? Mujhe toh koi information yaad nahi.
+caller: Sir, yeh ek temporary process hai. Security reasons se, yeh compulsory hai. Aap UPI ke through ₹500 transfer kar dijiye. Mai aapko BharatPay account number de dunga. Jab ₹500 verify ho jayega, ₹2500 release ho jayega.
+receiver: Thoda wait karo, mai BharatPay app check karta hoon. Kuch screenshot bhi dekh leta hoon... ₹2500 hold? Yeh toh zyada lag raha hai.
+caller: Sir, time bahut kam hai. Account block ho sakta hai agar aap jaldi nahi karte. UPI number mein transfer kar dijiye, sir, ₹500 sirf. Account number mai aapko SMS se bhejta hoon. Jaldi kar lijiye!

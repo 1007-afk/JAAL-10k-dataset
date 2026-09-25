@@ -1,0 +1,19 @@
+caller: Namaste! Main Bharat Vikas Nigam se bol raha hu. Aapke Kisan Credit Card (KCC) account ko update karne ki zarurat hai. Kya aap ₹1500 ka reward voucher redeem karna chahte hain? Humne aapke liye ek amazing offer nikala hai. Agar aap 5 minute mein ₹1500 transfer karte hain, toh aapko woh voucher milega. Aapka bank account number bataiye, hum confirm kar lete hain.
+receiver: Namaste? Kisan Credit Card? Reward voucher? ₹1500 transfer? Wait, wait... kaun bol rahe hain aap? Aur bank account number? Kuch samajh nahi aa raha hai, yeh kya chalu hai?
+caller: Ji ji, bilkul samajh mein aa raha hoga. Yeh aapke liye ek special offer hai government ki taraf se, ₹1500 ka voucher. Aapka naam kya hai sir/madam? Hum woh confirm kar lete hain ek baar. Aur yeh transfer jo hai, yeh voucher ke liye hai, koi account number ki demand nahi ho rahi hai.
+receiver: Achha, naam toh mera Priya Sharma hai. Par yeh voucher ka kya scene hai? Matlab, government se sach mein offer hai? Koi website ya kuch aisa hai jahan main check kar sakoon? Aur yeh ₹1500 transfer karne ko kyun bol rahe hain agar voucher mil raha hai toh? Thoda confusion lag raha hai.
+caller: Ji Priya ji, government se hi hai yeh offer, bilkul asli hai. Koi website nahi hai, yeh humari internal process hai. Aapko ₹1500 ka voucher milega, uske liye hi ₹1500 transfer karna hai, taaki voucher activate ho sake. Aapka Aadhaar card number bataiye, hum verification process pura karte hain.
+receiver: Wait, wait... ₹1500 transfer kar rahe hain voucher ke liye? Yeh toh thoda odd lag raha hai. Agar voucher mil raha hai toh phir paisa kyun transfer karna pad raha hai? Aur yeh 'internal process' matlab kya? Aap koi official ID dikha sakte hain ya koi official number jahan main call karke verify kar sakoon ki aap Bharat Vikas Nigam se hain? Mere paas mera Aadhaar card number hai, par uske liye kuch confirmation chahiye mujhe.
+caller: Ji Priya ji, aapko koi doubt nahi hona chahiye. Yeh ₹1500 voucher ke activation ke liye hain. Ek baar aap ₹1500 transfer kar denge, toh aapko voucher mil jayega. Hum Bharat Vikas Nigam se hain, yeh humari official procedure hai. Aapka Aadhaar card number bataiye, verification ke liye. Aur agar aapko koi doubt hai, toh hum aapko ek unique reference number provide karenge, jisse aap baad mein check kar sakte hain. Ab aapka Aadhaar card number bataiye.
+receiver: Dekhiye, mujhe abhi bhi thoda doubt ho raha hai. Agar yeh genuine offer hai Bharat Vikas Nigam se, toh yeh ₹1500 transfer karne ka kya logic hai? Voucher toh free milna chahiye na? Aur yeh 'official procedure' kaise ho sakti hai agar koi official ID ya verification ka koi concrete tareeka nahi hai? Main apna Aadhaar card number aise hi nahi bata sakta jab tak mujhe puri tarah se vishwas na ho jaaye ki aap sach mein Bharat Vikas Nigam se hain. Kya aap mujhe koi helpline number ya official website bata sakte hain jahan main yeh offer check kar sakoon? Mujhe lagta hai mujhe pehle wahan se confirm karna hoga.
+caller: Ji Priya ji, aapko koi darr nahi lena chahiye. Yeh sirf KCC holders ke liye hi hai. Helpline number hai 1800-XXX-XXXX, aur hamara official website hai www.bvn.gov.in. Aap yahaan se offer check kar sakte hain.  Aapko koi extra charge nahi jagana hai. Aapka Aadhaar card number bataiye.
+receiver: Okay, okay... Helpline number aur website… dekhta hoon. Par phir bhi mujhe yeh offer dubara dekhna hoga.
+caller: Ji, aapko bahut mahol mein rahat honi chahiye. Aapka Aadhaar card number bataiye.
+receiver: [Your Aadhaar Number]
+caller: Shukriya, Priya ji. Verification complete ho gaya hai. Aapko ₹1500 ka voucher mail hone wali hai.
+receiver: Mail? Woh kaise hoga? Email address bataiye.
+caller: Woh aapke registered email id mein jaayega. Aapka email id bataiye.
+receiver: [Your Email Address]
+caller: Shukriya, Priya ji. Aapko voucher mail hone wali hai. Aage bhi koi dharosa nahin lagega.
+receiver: Okay, thank you.
+caller: Aarogya Jay Ho

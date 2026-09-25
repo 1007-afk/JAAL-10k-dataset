@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul from 'FastLoan India'. We’ve reviewed your application and pre-approved a loan of ₹75,000. Just need a few quick details to finalize it.
+receiver: Oh, really? That's good news! I applied a while back, didn't hear anything. What details do you need?
+caller: First, to secure your account and prevent fraud, we need a small refundable verification fee of ₹2,500. This will be credited back to your account once the loan is disbursed. You can pay it through UPI.
+receiver: ₹2,500? I didn't see anything about a fee like that in the application. Is this really necessary?
+caller: Yes, sir, it is standard procedure. We are fighting against numerous fake applications. This fee ensures you are genuine. Without it, we can’t process your loan. Please understand.
+receiver: Okay, fine. Give me your UPI ID. I'll make the payment. I'm a little worried, though.
+caller: It’s FastLoanIndia@hdfcbank. Once the payment is confirmed, we'll send you a loan agreement. Also, as a standard security measure, can you share a selfie with your Aadhaar card? Just to confirm you are the account holder.

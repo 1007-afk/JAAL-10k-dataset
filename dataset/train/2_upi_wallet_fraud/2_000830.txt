@@ -1,0 +1,11 @@
+caller: Namaste! I am calling from PhonePe regarding a special cashback offer for our loyal users.
+receiver: Oh, really? Cashback? What's the catch? My name is Priya, by the way.
+caller: Priya ji, no catch at all! PhonePe is giving ₹750 cashback to new users who complete a small verification process. It’s a limited-time offer. You just need to confirm some details.
+receiver: ₹750? Sounds good, but what kind of details? I’m a bit worried about sharing too much information.
+caller: Just your UPI ID and a one-time OTP that we’ll send to your registered mobile number. That’s it! It’s to verify your account is active and eligible for the cashback. The offer is ending in 10 minutes, Priya ji!
+receiver: Okay, send the OTP then. Let me see it first. Which UPI ID are you asking for again?
+caller: Sure! Sending the OTP now. For the UPI ID, it’s the one you use for transactions, usually starts with your bank name. Don't delay, Priya ji! Time is running out!
+receiver: Hmm, okay, I received an OTP. But this seems a little too easy. Where exactly will this ₹750 be credited?
+caller: It will be credited directly to your PhonePe wallet, Priya ji, within 24 hours of verification. To complete the process, kindly share your OTP with me.
+receiver: Wait a minute. Why do I need to give you the OTP? Shouldn't I be entering it into my PhonePe app myself?
+caller:  Priya ji, due to a system upgrade, we are currently assisting customers over the phone. It's a temporary measure. Just share the OTP, and you’ll have your ₹750 in no

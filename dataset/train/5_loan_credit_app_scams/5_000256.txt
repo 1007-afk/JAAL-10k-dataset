@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Verma? We're calling from FastCash Solutions. We’ve noticed you applied for a personal loan recently. Approval is almost certain! Just need to confirm a few details.
+receiver: Haan, woh main hoon. But I didn't apply for any loan recently. I’m a bit confused.
+caller: Sir, our records show an application was submitted through our online portal. To process it quickly, we need you to pay a small processing fee of ₹5,000 to verify your account. It will be refunded immediately after approval.
+receiver: ₹5,000? But you said approval is certain. Why a fee now? This sounds suspicious.
+caller: Sir, it's standard procedure to prevent fraudulent applications. Think of it as a security deposit.  We’ll send you a temporary OTP to verify, followed by bank details for the payment. Please act fast; the offer expires in 2 hours. We also need your WhatsApp number to send you important loan documents.
+receiver:  Wait a minute. I’m not comfortable with this. Can I speak to a supervisor? I'm calling the police.
+caller: Sir, please don’t do that! This is a genuine offer, and the police will only delay the process.  If you refuse to pay the fee, your application will be automatically cancelled.  Think of the opportunities you'll miss! Just send the OTP to this number, 9876543210.

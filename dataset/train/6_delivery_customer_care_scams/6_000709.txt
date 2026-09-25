@@ -1,0 +1,8 @@
+caller: Namaste! Main Swiggy ka customer care se Rahul bol raha hoon. Aapke recent order mein kuch problem aa gaya hai. Payment fail ho gaya tha, so order deliver nahi ho paaya.
+receiver: Oh, really? I received a notification that the order was delivered. What's the issue then?
+caller: Haan, woh system mein error tha. Lekin abhi humne confirm kiya hai ki payment pending hai. Aapko sirf ₹499 ka OTP verify karna hai, tab order deliver ho jayega.
+receiver: ₹499? That's odd. I don't remember needing to pay extra for this order. I chose cash on delivery.
+caller: Cash on delivery option mein technical glitch ho gaya tha, sir. Security ke liye aapko OTP verify karna zaroori hai. Main aapko OTP text kar raha hoon.
+receiver: I’m not comfortable giving out an OTP over the phone. Can you please tell me what the order number is, and I’ll check my Swiggy app myself?
+caller: Order number? Hmm… actually, sir, security reasons, I can't disclose that information over the phone. Just verify the OTP and everything will be sorted. It's very important! Don’t delay, otherwise the order will be cancelled.
+receiver: I think I’m going to cancel the order then. This seems suspicious. I’ll order directly through the app. Thank you.

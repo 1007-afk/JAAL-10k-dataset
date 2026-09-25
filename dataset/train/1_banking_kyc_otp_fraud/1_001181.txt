@@ -1,0 +1,10 @@
+caller: Namaste, main Axis bank se Rohan Sharma bol raha hoon. Aapke Axis bank account mein suspicious activity detect hui hai. Security ke liye aapko verify karna hoga.
+receiver: Kya? Suspicious activity? Mujhe toh koi message nahi aaya.
+caller: Sir, system mein dikh raha hai ki ek online transaction attempt hua tha. Hum yeh confirm karna chahte hain ki woh aapne kiya tha ya nahi. Aapko apne registered mobile number pe ek OTP milega, woh mujhe bata dijiye.
+receiver: Theek hai, dekhta hoon. Abhi OTP aaya hai, 456789.
+caller: Dhanyavaad, sir. Ab, humein aapke account se link kiya hua bank account number verify karna hoga. Tabhi hum yeh transaction block kar sakte hain.
+receiver: Account number? Woh bataunga, lekin koi dikkat toh nahi hogi na?
+caller: Absolutely not, sir. Yeh sirf aapki security ke liye hai. Aapka account number bata dijiye.
+receiver: 1234567890.
+caller: Thank you. Sir, aapka account temporary suspend karne ki zarurat hai taaki ham isko aur secure kar sakein. Aur aapko ek new debit card bhi issue karenge. Iss ke liye hamein aadhaar card aur PAN card ki copy ki zarurat hogi.
+receiver: Aadhaar card aur PAN card? Wo kyun?

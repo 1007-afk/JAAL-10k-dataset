@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Inspector Singh from the Delhi Customs Department. We need to speak with you urgently regarding a parcel registered under your name, arrival reference number DC78429.
+receiver: Hello? Inspector Singh? What's this about?
+caller: Sir, preliminary scans indicate the presence of suspicious items within the parcel. Our intelligence suggests it may contain contraband – possibly narcotics or counterfeit currency. We need to verify your involvement.
+receiver: What? This is ridiculous. I haven’t ordered anything suspicious. I live in Mumbai.
+caller: Sir, we understand your concern. However, protocol dictates we must conduct a thorough investigation. To clear the parcel and avoid legal proceedings, we require a security deposit of ₹15,000 to cover inspection and storage costs. We will provide you with the necessary clearance documents afterward.
+receiver: Fifteen thousand rupees? Just like that? Can I speak to someone else? What’s the case number?
+caller: Sir, we’re under strict instructions to handle this discreetly. To prevent further delays and escalation, please transfer the amount to the provided UPI ID: customs.security@upi. You will remain on this call until the transaction is confirmed. This is crucial for your protection, sir.
+receiver: Wait a minute... I think this is a scam. I'm ending the call.
+caller: Sir, please do not disconnect! This is a serious matter and disconnecting will be considered obstruction of justice. The parcel will be seized, and you will face arrest. We have your location. Transfer the funds immediately and remain on the line.

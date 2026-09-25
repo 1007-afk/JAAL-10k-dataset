@@ -1,0 +1,8 @@
+caller: Namaste, sir! Mein Flipkart se Rahul bol raha hoon. Aapke naam par ek order hai, lekin payment gateway mein ek problem aa gayi hai.
+receiver: Oh, really? Which order is it? I don't remember ordering anything recently.
+caller: Ji, order number is FLP7890123. Yeh ek smart TV ka order hai. Payment pending hai, aur humara system aapko verify kar raha hai. Please, 08147272803 pe OTP share karein taaki hum payment complete kar sakein.
+receiver: OTP? But why do I have to share the OTP with you? Shouldn't Flipkart send it to me via SMS?
+caller: Sir, security ke liye hum direct call karte hain. OTP share karne se aapki payment secure rahegi, aur TV kal tak aapke ghar pahunch jayega. Trust me, sir, it’s a standard procedure. Please, jaldi share karein.
+receiver: Hmm, okay. Let me check something first... *pauses* Wait, I just got a notification from Flipkart about the order. It says payment is successful and the TV will be delivered tomorrow.
+caller: Sir, yeh notification galat hai. System mein abhi bhi payment pending dikha raha hai. Please, ek last chance dijiye aur OTP share karein. Otherwise, order cancel ho jayega.
+receiver: No, thank you. I'm not going to share any OTP. I'll contact Flipkart directly through their official website.

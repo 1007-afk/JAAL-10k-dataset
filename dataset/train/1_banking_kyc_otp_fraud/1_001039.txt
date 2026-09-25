@@ -1,0 +1,6 @@
+caller: Namaste! Is this Mrs. Verma? This is Akash calling from Axis Bank’s KYC department. We've noticed some unusual activity on your account and need to verify your details to prevent potential fraud.
+receiver: Haan, this is Mrs. Verma. Unusual activity? What kind of activity? I haven't done anything out of the ordinary.
+caller: Yes ma'am, it seems a transaction was attempted from a foreign IP address. It’s a standard security protocol now, ma’am. We just need to confirm a few details to secure your account. Can you please confirm your date of birth?
+receiver: My date of birth? Why do you need that? Shouldn't you already have that information? It seems a little risky sharing it over the phone.
+caller: Ma’am, it’s just a standard verification process. We're preventing someone else from accessing your account. To proceed, we require you to share the OTP you just received on your registered mobile number. This confirms you’re the account holder.
+receiver: OTP? Wait a minute. This doesn't sound right. I haven't received any OTP. I'm going to call Axis Bank directly from their official number to verify this. Goodbye.

@@ -1,0 +1,10 @@
+caller: Namaste! Kaise haal hai? Main Bharat Vikas Yojana se baat kar raha hu. Aapko ek bahut badi sansadya yojna mein select kiya gaya hai! ₹50,000 ka cashback ya ₹20,000 ki laptop jeetne ka mauka mil gaya hai! Kya aap excited ho? Main Rahul hu.
+receiver: Namaste! Achcha haal hai. Jeez, seriously? ₹50,000 cashback ya laptop? Yeh toh bahut achhi khabar hai. Maar rahi hu! Mein Sanjay Kumar hu.
+caller: Sanjay ji, bahut khushi hui! Tumhara selection sabse eligible hai! Ab tumhein sirf kuch simple questions puchne hain, taaki hum yeh confirm kar saken ki tumhari account sahi hai. Tumne pehle kabhi govt. yojnaon mein participate kiya hai? Aur tum currently Delhi mein rehte ho, sahi na?
+receiver: Haan, maine pehle bhi govt. yojnaon mein participate kiya hai. Aur main Delhi mein hi rehta hun. Parantu, mujhe abhi kuch confusion hai. Kya koi documents chahiye hogi?
+caller: Koi documents ka requirement nahi hai Sanjay ji, yeh ek online process hai. Hamesha online hota hai. Tumhein sirf apne bank account number aur IFSC code bataana hoga. Vo bhi sirf verification ke liye, samajh? Aur aapka mobile number bhi chahiye, taaki hum aapko notification send kar saken.
+receiver: Bank account number aur IFSC code? Okay, lekin yeh kitni secure hai? Mujhe thik nahi lagta.
+caller: Sanjay ji, yeh sirf verification ke liye hai, trust me! Hum koi bhi information leak nahi karenge. Yeh India sarkar ka scheme hai, matlab safe hai. Tumhein ye opportunity miss mat karo! Agar tum accept karega to hum immediately process shuru kar denge.
+receiver: Okay, okay. Mera bank account number 78945612300012345678 hai aur IFSC code HDFC0000601 है.
+caller: Dhanyavaad Sanjay ji! Aapka verification complete ho gaya hai. Tumhein ₹50,000 cashback ya ₹20,000 ki laptop jeetne ki taraf instruction soon hi mil jayega. Tumko congratulations!
+receiver: Congratulations! Thoda wait kar raha hoon.

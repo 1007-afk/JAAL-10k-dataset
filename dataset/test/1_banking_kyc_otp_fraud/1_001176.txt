@@ -1,0 +1,9 @@
+caller: Namaste, main ICICI Bank se Rohit bol raha hoon. Aapka naam Priya Sharma hai, kya?
+receiver: Haan, main hi Priya Sharma hoon. Bolo, kya baat hai?
+caller: Priya ji, aapke ICICI Bank account mein kuch suspicious activity dikh rahi hai. Ek urgent KYC update ki zaroorat hai. Account suspend hone se pehle, please aapka OTP share karein.
+receiver: OTP? Kyun OTP share karna padega? Koi security issue hai kya? Main bank mein call kar sakta hoon direct?
+caller: Priya ji, security ke liye hi OTP maang rahe hain. Woh sirf confirm karne ke liye hai ki aap hi baat kar rahe hain. Account suspend hone se bacha len, please OTP bataiye jaldi se. Dusre koi bhi attempt se aapka account block ho sakta hai.
+receiver: Yeh thoda risky lag raha hai. Mujhe koi official confirmation number toh de sakte hain? Main khud bank se verify kar lungi.
+caller: Priya ji, time bahut kam hai. Account block hone se pehle OTP bataiye. Main aapko ek reference number de sakta hoon: ICICIBANK-8765. Ab OTP bataiye please.
+receiver: Theek hai, ek minute. Mujhe apne family member se consult karne do, aur main call back karungi.
+caller: Priya ji, please jaldi karein. Account suspend hone se pehle OTP bataiye.

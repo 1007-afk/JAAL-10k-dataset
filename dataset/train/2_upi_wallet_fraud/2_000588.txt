@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Care se Rahul bol raha hoon. Aapke Paytm wallet mein ek suspicious transaction detect hua hai. ₹2500 ka withdrawal attempt kiya gaya hai. Aapko confirm karna hai?
+receiver:  Haan, Paytm se call? ₹2500? Nahin, maine koi withdrawal nahi kiya. Kya hua?
+caller:  Ji, humein bhi confirm karna pada hai. Security ke liye, humein aapko verify karna hai. Aapke OTP (One Time Password) share karein jo aapko registered mobile number pe aaya hai.  Sirf 3 OTPs hi bache hain aaj ke liye is verification process ke liye.
+receiver:  OTP?  Sirf 3?  Yeh thoda suspicious lag raha hai.  Paise kyun deduct ho rahe hain?
+caller:  Ji, ₹2500 ka attempt fail ho gaya hai jab aapne OTP share kiya toh.  But aapko confirm karna hoga ki aapke wallet se ₹500 processing fee ke taur pe cut hoga. Yeh fee humein security servers ko update karne ke liye pay karna padta hai.  Abhi sirf 2 slots bache hain, agar aap fee nahi bharte toh aapka account block ho jayega.
+receiver: ₹500 processing fee? Account block?  Yeh bahut hi wrong lag raha hai. Main koi fee nahi bharunga.  Main Paytm customer care se baat karna chahta hoon.
+caller:  Sir/Madam, time is running out. Last slot.  ₹500 bhar den, sab theek ho jayega.  Agar account block ho gaya toh aapka sabka paisa freeze ho jayega aur aapko phir se account create karna padega.  Offer valid only for the next 10 seconds.

@@ -1,0 +1,6 @@
+caller: Namaste! My name is Vikram. I am contacting you regarding a very exciting opportunity through 'Asha Connections', a new social platform. We've noticed your profile, Priya ji, and you seem like a very interesting person. To verify your account and unlock premium features, could you please tell me your full name?
+receiver: Hello! Asha Connections? I haven't heard of it. My name is Priya Sharma. What kind of premium features are we talking about?
+caller: Wonderful, Priya Sharma! With premium, you get access to exclusive events and enhanced visibility. But first, we need to confirm your identity.  Asha Connections uses a simple security verification process. Could you tell me, what is your favorite childhood memory? Just a short one will do.
+receiver: Hmm, my favorite childhood memory... I guess building sandcastles with my grandfather at Juhu beach. It was so much fun. Why do I need to tell you that?
+caller: That’s a lovely memory, Priya ji! It proves you are who you say you are. Now, to finalize the verification, we need to link your account to a secure payment method. It's a small fee of just ₹500 to activate your premium membership. You can send it via UPI to 9876543210, with the message "AshaVerify".
+receiver: ₹500? For premium features? And a UPI payment? That seems a bit strange… I’ll have to think about it.

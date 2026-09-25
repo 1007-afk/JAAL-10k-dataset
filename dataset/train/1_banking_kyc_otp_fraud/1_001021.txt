@@ -1,0 +1,7 @@
+caller: Namaste Madam, mai Axis Bank se Aakash bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapke naam par ek online transaction attempt kiya gaya tha, lekin security reasons se hold kar diya gaya hai.
+receiver: Axis Bank? Mujhe koi message nahi aaya tha. Koi transaction attempt? Mein toh kuch bhi nahi kiya. Bataiye, kaunsa transaction aur kiti ki?
+caller: Madam, ye ₹12,500 ka transaction tha, international website par.  Agar aap verify nahi karwati toh aapka account compromise ho sakta tha.  Aapka OTP share karein, tab main confirm kar sakta hoon aur transaction process complete kar dunga.
+receiver: OTP?  Mai toh kabhi bhi phone par OTP nahi deta.  Ye bahut risky hai.  Aapka naam aur employee ID bataiye.  Aur mujhe bank ke official number par call karta hoon.
+caller: Madam, time bahut kam hai.  Account block hone se pehle verify karna hoga.  Mera naam Rajesh Sharma hai, employee ID AXB-7890.  Dekhiye, OTP se hi verification ho paayegi, otherwise account suspend ho jayega, aur aapka paisa bhi risk mein aa jayega.
+receiver: Account suspend?  ₹12,500 ka transaction attempt?  Mujhe bank ke branch mein jaakar verify karna hai.  Mai phone par kuch bhi nahi bolungi.  Aapko meri detail nahi pata, aur aap OTP maang rahe hain?  Yeh fraud lag raha hai.
+caller: Madam, branch mein line bahut lambi hogi, aur aapko wahaan bhi details deni padegi.  OTP se hi sab kuch solve ho jayega, aur thodi der mein aapka account activate ho jayega.  Please, just the OTP.

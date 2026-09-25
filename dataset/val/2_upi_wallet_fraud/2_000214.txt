@@ -1,0 +1,7 @@
+caller: Namaste! Mai BharatPay customer care se Rahul bol raha hoon. Aapke BharatPe account mein ek suspicious transaction detect hua hai.
+receiver: BharatPe? Suspicious transaction? Mujhe toh koi message nahi aaya. Kya hua?
+caller: Sir, ek online retailer ne UPI ke zariye ₹2500 ka transaction attempt kiya hai. Security ke liye, humein aapki verification karni hogi. OTP sir, aapka OTP share karein.
+receiver: Sir, OTP share nahi kar sakta. Main kabhi bhi kisi ko OTP nahi deta. BharatPe toh aisa kabhi nahi bola.
+caller: Sir, ye security protocol hai. ₹2500 ka transaction block hone se pehle verification compulsory hai. Agar aap verify nahi karenge, toh transaction proceed ho sakta hai aur aapka account freeze ho sakta hai. Aapka BharatPe QR code bhi temporarily suspend ho jayega.
+receiver: Account freeze ho jayega? QR code suspend? Aur OTP mang rahe ho? Ye toh galat lag raha hai. Mein BharatPe helpline number se baat karta hoon.
+caller: Sir, ye same helpline number hai.  Dekhiye, offer bhi hai - ₹100 ka cashback agar aap verification abhi complete karte hain, aur hum ₹2500 ka transaction bhi block kar denge. Apne BharatPe app mein ek new offer section bhi dekhiye. Jaldi karein offer limited time ke liye hi hai!

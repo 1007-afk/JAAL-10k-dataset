@@ -1,0 +1,8 @@
+caller: Namaste! Miss Priya, this is Raj from LoanExpress India. We’ve reviewed your online application and pre-approved you for a personal loan of ₹75,000. Excellent news! Just a few quick verification steps.
+receiver: Oh really? That's wonderful! I applied a few days back, yes. I really need it for my daughter’s school fees. What do I need to do?
+caller: Fantastic! To release the funds, we need to confirm your identity. Could you please send us a clear photo of your Aadhar card and a recent photograph through WhatsApp on 8888888888? This is standard procedure, Miss Priya.
+receiver: Aadhar card? But I thought these things were supposed to be secure. Is this really necessary? And WhatsApp? Why not just through your official website?
+caller: It's a new, streamlined verification process, Miss Priya. It significantly speeds up the loan disbursement.  We are working on integrating it into our website. Think of it as a quick and easy solution! The quicker you send these, the sooner you get the loan. We need them immediately.
+receiver: Okay, fine. But I’m still a little uneasy. I’ll send them, but if anything happens, I’m holding you responsible.  Just promise me the loan will be released right away once you have those.
+caller: Absolutely, Miss Priya!  Once we receive the documents, the ₹75,000 will be credited to your account within 30 minutes, guaranteed. However, a small processing fee of ₹5,000 is required upfront to activate the loan. It will be deducted automatically from the disbursed amount. Please transfer it to UPI ID: loanexpress.india@xyz.
+receiver: Five thousand rupees upfront?! That wasn't mentioned earlier. That seems fishy now

@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Priya from QuickCash Solutions. We saw your recent application for a personal loan online. Congratulations, you’re pre-approved for an amount up to ₹50,000! Just need to verify a few details. Are you available for a quick chat?
+receiver: Haan, ji. QuickCash Solutions? I applied for a loan, yes. What do you need to verify?
+caller: Wonderful! First, can you please confirm your full name and date of birth for security purposes? And what’s your current occupation, sir?
+receiver: My name is Vijay Kumar, date of birth is 15th August 1982. I am a shopkeeper.
+caller: Thank you, Vijay ji. Now, for the final verification, we require access to your WhatsApp contacts. It's a new security protocol to prevent fraud. We just need to see the list, we won’t access any messages. It will only take a minute.
+receiver: WhatsApp contacts? Why? That seems a bit strange.
+caller: Sir, it’s mandatory for all new loan approvals. Without it, we can't proceed. Otherwise, I’m afraid your loan application will be rejected. We don't want that, right? Think of it as a small price to pay for quick access to funds!

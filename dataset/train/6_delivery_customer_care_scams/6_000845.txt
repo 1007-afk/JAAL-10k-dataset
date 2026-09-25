@@ -1,0 +1,6 @@
+caller: Namaste! Mai Zomato customer care se Rahul bol raha hoon. Aapke account mein ek pending payment hai, ₹450, jo ki ek order ke liye tha. Kyuki payment fail hua, order deliver nahi ho paaya.
+receiver: Oh, ₹450? Mujhe yaad nahi aa raha. Main toh kal Zomato se order kiya tha, lekin payment confirm hone ke baad hi.
+caller: Haan ji, payment gateway mein technical issue aa gaya tha. Aapke Zomato app mein notification bhi chala gaya hoga. Isko clear karne ke liye, mujhe aapka OTP chahiye, taaki mai payment process ko restart kar sakun.
+receiver: OTP? Customer care aise bhi OTP maangta hai? Thoda shaq aa raha hai. Meri OTP number main confidential hai na.
+caller: Suniye, sir. Security ke liye hi OTP maang rahe hain. Yakin rakhiye, aapki payment secure rahegi. Phir bhi aapko doubt ho raha hai toh, Zomato ke official website par check kar lijiye.
+receiver: Okay, theek hai. Dekhta hoon website par. Par agar kuch gadbad hui toh mai Zomato mein complaint kar dunga.

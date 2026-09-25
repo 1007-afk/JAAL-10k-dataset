@@ -1,0 +1,14 @@
+caller: Namaste! Kaise ho? Mein tumhe ek badi baat tellna chahti hu, jo tumhare mobile internet ko zyada fast banayega!
+receiver: Namaste! Mai theek hi hoon, tumhara kya hai? Mobile internet fast banane ka kya tareeka hai?
+caller: Arre, hamari team ne ek naya app launch kiya hai, "SpeedBoost". Is app se tumhara internet speed automatically increase ho jayega! Free mein download karna hai!
+receiver: SpeedBoost? Woh kya hai? Fir mai download karunga, par mujhe batao, yeh genuinely kaam karega kya? Ya phir ye bhi ek dhoosra scam hai?
+caller: Dhoosra scam nahi! Ye app totally genuine hai. Tumhari mobile data usage ko track karta hai aur jab koi busy route par hota hai, tab speed boost karta hai.  Aapko bas app install karna hai aur on karna hai. Simple!
+receiver: Okay, okay. Install karna hai, lekin mujhe batao, is app ko install karne ke liye kya requirements hai? Kya pura device update hona chahiye ya koi specific operating system required hai?
+caller: Arre, yeh app almost all phones par chalega. Android 7.0 ya usse above version chahiye, lekin iOS 13 ya usse above bhi chalega.  Simple hai!  Aur yeh app install karte samay, tumko ek verification code bheja jayega - 4792.  Uss code ko enter karo.
+receiver: Verification code? 4792... Okay, woh code enter kar dungi.  Phir yeh app install hone ke baad, fir se verification milega?
+caller: Haan, app install karne ke baad, ek notification aaega, aur phir tumko ek aur code bheja jayega.  Yeh security check hai, tumhari account ko secure rakhne ke liye.  Ismein koi problem nahi hai.  Aur yeh app use karne ka koi cost nahi hai, completely free hai!
+receiver:  Okay, so, app install karna hai, verification codes enter karne hai, aur phir internet speed automatically improve hoga?  To, yeh bohot achcha hai!  Koi extra step nahi hai, right?
+caller: Bohat achcha!  Exactly!  Ek hi click se tumhara internet speed zyada kar do!  Aur yeh app tumhare privacy ko bhi respect karta hai, tumhari data ko kisi se share nahi karta.  So, ready ho? Download karne ke liye?
+receiver:  Haan, ready hoon!  Download kar deta hun.  Par mujhe batao, is app ko uninstall karne ka kya procedure hai? Agar mujhse case ho gaya, to uninstall karna padega.
+caller: Uninstall karna bhi bahut hi easy hai! Settings menu mein jaake Apps section mein jayega, SpeedBoost select karo aur uninstall button dabdo.  Simple!  Aur tumhari help support ke liye, hamara helpline number hai 8888888888.  Thank you!
+receiver: Thank you!

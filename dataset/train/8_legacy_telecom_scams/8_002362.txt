@@ -1,0 +1,29 @@
+caller: Namaste sir, main Airtel support se bol raha hu. Aapke phone ka SIM card 18 ghante mein deactivation hone wali hai. Aapko activation renew karna hoga.
+receiver: Airtel se? Mein toh Airtel ka hi number use karta hu. Deactivation 18 ghante mein? Wo bhi kaise? Kya mein kuch wrong kar gaya hu?
+caller: Sir, aapne recently internet data consume kiya hoga, taki aapki network connectivity secure rahe. Yeh automatic process hai. Agar aapko connection maintain karna hai, toh sirf ek minute time dede.
+receiver: Haan, lekin mere internet usage ka kya karega 18 ghante mein? Mein toh online shopping bhi karta hu.
+caller: Sir, aapke account mein koi technical issue aa gaya hai. Isliye aapki SIM temporarily deactivate ho rahi hai. Humare system mein alert aa gaya hai. Verification ke liye, mujhe aapka PAN card number aur bank account details chahiye honge.
+receiver: PAN card number? Bank account details? Woh to main unchi-choti accounts mein rakhta hu. Yeh sab bataane wala nahi hu mai.
+caller: Sir, yeh sirf aapki account ko secure rakhne ke liye hai. Agar aapko verification nahi karna hai, toh aapki SIM permanent deactivate ho jayegi. Aapko phir se naya number lena padega.
+receiver: Permanent deactivate? Oh God! Main toh abhi bachcha hu. Matlab, mera number pakad jayega kisi ka?
+caller: Sir, aapke number ka koi risk nahi hai. Yeh sirf verification ke liye hai. Aap please provide karein aapka registered home address. Hum aapke address par ek SMS se OTP bhejege.
+receiver: Address? Okay, it’s 123, Mango Lane, Delhi. Send OTP there.
+caller: Namaste sir, main Jio customer care se bol raha hu. Aapke phone ki SIM card 24 ghante mein inactive hone wali hai. Aapko activation renew karna hoga.
+receiver: Jio se? Mein toh Jio ka hi number use karta hu. Inactive hone wala 24 ghante mein? Kya matlab?
+caller: Sir, aapki SIM card ka validity period khatam hone wala hai. Technical upgradation ke karan, aapki network connectivity secure rakhne ke liye, humein SIM ko deactivate karna padega.
+receiver: Technical upgradation? Mein toh kabhi bhi update karta hu. Mujhe jitni baar updates milte hain, mein unhe install bhi karte hain.
+caller: Sir, yeh update automatically hota hai. Aapko kuch nahi karna parega. Agar aapko apni service continue rakhna hai, toh humein verification ke liye aapka Aadhaar card number aur bank account details chahiye honge.
+receiver: Aadhaar card number? Mein toh wo number kabhi check bhi karta nahi hu. Aur bank account details bhi... Yeh bahut hassi hai.
+caller: Sir, yeh sirf aapki identity verify karne ke liye hai. Agar aapko verification nahi karna hai, toh aapki SIM permanent deactivate ho jayegi.
+receiver: Permanent deactivate? Yaar, mein toh abhi college mein hu. Mera number toh life ka part hai.
+caller: Sir, aapke number ka koi danger nahi hai. Yeh sirf verification ke liye hai. Aap please apna registered email address bataiye. Hum aapke email id par OTP bhejege.
+receiver: Email address? Mein toh wo forget kar diya tha. Jab se forget kiya hai, woh remember bhi nahi ho paata.
+caller: Sir, aapko apne email id ka password remember karna hoga. Ismein humari taraf se koi help nahi hogi.
+receiver: Password? Uff! Mein toh sab bhool jaata hu. Fine, bataiye, kya karoon?
+caller: Sir, aapko humein verification ke liye alternate method use karna hoga. Aapke registered mobile number par ek OTP bhejege. Woh OTP aap mujhe bata dijiye.
+receiver: Mobile number? Mein toh woh bhi change kar liya tha.
+caller: Sir, aapko apne new mobile number ka proof deta hona hoga.
+receiver: Proof? Kaisa proof?
+caller: Aapke registeredadhar card copy send karein.
+receiver: Adhar card copy? It's going to take so long to get it scanned and sent.
+caller: Sir, aapko haste haste maaf karna, ye ek scam hai. Aapko koi bhi information mat dijiyen.

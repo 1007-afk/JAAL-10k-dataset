@@ -1,0 +1,7 @@
+caller: Namaste! Mai Rahul bolta hoon, FastLoan Hub se. Aapko urgent loan chahiye tha, hai na? Hum ₹50,000 se ₹2,00,000 tak ki loan facility provide karte hain, sirf PAN card aur Aadhar card ke saath.
+receiver: Ji, haan. Mujhe ₹80,000 ki loan chahiye thi, urgent.
+caller: Bahut achha! Aapki requirement bilkul poori hogi. Aapka naam bataiye, aur woh address jahan hum documents send kar sakte hain.
+receiver: Mera naam Anjali Sharma hai, aur mera address H.No. 345, Gandhi Nagar, Jaipur.
+caller: Anjali ji, bahut achha. Loan approve hone mein sirf 24 hours lagenge. Lekin processing fee ke तौर पर ₹7,500 deposit karne honge. Account number hai… [provides a long, seemingly random account number]
+receiver: ₹7,500? Processing fee itna zyada hai?
+caller: Anjali ji, yeh rules hain. Agar aapko loan chahiye toh deposit karna hoga, warna loan nahi hoga. Abhi kar dijiye, nahin toh process ruk jayega aur aapka application cancel ho jayega. Aur ek baat, apne family members ya dost se mat poochna, ya humko trouble karenge.

@@ -1,0 +1,8 @@
+caller:  Main Airtel customer support se baat kar raha hoon.  Aapka prepaid account expiry date 24 hours mein khatam ho jaayega.  Kya aap isko renew karna chahte hain?
+receiver:  Airtel se? Jeez, yeh kya bol rahe hain? Mera prepaid account expiry hone वाला hai?  Yeh to bilkul bhi sahi nahi hai.  Mujhe koi problem nahi lag rahi hai, toh koi galti nahi hogi.  Aap check karein zara, kya koi error message dikhta hai?
+caller:  Sir, chill karo.  Hum check kar rahe hain aapki account details.  Aapka complete name aur delivery address bataiye please?  Isliye hum verification karne ke liye yahaan aate hain.
+receiver:  Haanji, mera naam Deepak Kumar hai.  Aur mera delivery address hai 123, Mango Lane, Delhi - 110001.  Aap bataiye, kya hua account ko?
+caller:  Thank you, Deepak ji.  Aapka number 1234567890 hai, sahi?  Sir,  humare system mein ek small technical glitch aa gaya hai.  Isliye aapka account automatically suspend hone wala hai.  Hum isko jaldi se solve kar sakte hain.  Bas aapko ek small verification code enter karna hoga.  Aapko verification code mila hai?
+receiver:  Verification code?  Kaisa verification code?  Mujhe koi code nahi mila jab tak.  Aap ye kya kar rahe hain?  Phone par koi code bhejna tha kya aapne?  Yeh sab ka matlab kya hai?
+caller:  Haan, woh code aapke registered WhatsApp number par gaya hoga.  Humare system mein automatic update hota hai.  Kindly woh WhatsApp code bataiye,  taaki hum aapki account reactivate kar sakein.  Please sir, time bahut kam hai.
+receiver:  WhatsApp?  Arey, mera WhatsApp number aapke database mein hona chahiye na?  Yeh to bohat confusion hai.  Mujhe WhatsApp check karna padega. Agar code mila toh batata hoon.  Thoda wait karein, please.

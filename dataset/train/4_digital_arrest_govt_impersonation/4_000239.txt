@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Kumar? This is Constable Sharma from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items. It appears to be linked to an investigation regarding illegal import of electronics.
+receiver: Illegal import? Yeh kya baat ho rahi hai? Main toh kabhi electronic items import nahi kiya.
+caller: Sir, our records indicate a shipment arrived yesterday under your name. It’s causing significant delays and requires immediate clearance. To avoid legal complications and potential arrest, you need to pay a small processing fee to expedite the inspection and release of the parcel. The amount is ₹8,500.
+receiver: ₹8,500? Aur parcel mein kya hai? Main toh koi parcel order kiya hi nahi hai.
+caller: Sir, we cannot disclose the specifics of the contents at this stage. It’s part of an ongoing investigation. But to ensure your cooperation and prevent further action, you must remit the amount immediately. We can accept payment via UPI. Please send to the number I’ll provide – 9876543210.
+receiver: Yeh bahut hi fishy lag raha hai. Main koi payment nahi karunga. Tumhe customs department se identification card dikhana chahiye. Aur parcel number bhi batao.
+caller: Sir, due to the sensitive nature of the case, we are unable to provide identification or the parcel number at this time. However, failure to comply will result in a warrant being issued for your arrest. This is a serious matter, sir. Just make the payment and we’ll clear everything. We need the confirmation of payment within the next hour.
+receiver: Main police mein complaint karunga. Yeh scam hai.
+caller: Sir, that would be unwise. We are simply trying to resolve this matter amicably. Just transfer the ₹8,500, and everything will be fine. Think about

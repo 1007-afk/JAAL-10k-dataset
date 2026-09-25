@@ -1,0 +1,13 @@
+caller: Namaste, suno! Mein Riya, PhonePe se baat kar rahi hoon. Kya aapka PhonePe account hai?
+receiver: Haan, hai. Kya baat hai?
+caller: Sir, aapko ek cashback offer mila hai! Aap humare ‘Lucky Spin’ campaign mein participate kare hain aur ₹10,000 ka cashback jeeta hain.
+receiver: ₹10,000? Wow! Kaise?
+caller: Haan sir, lekin is cashback ko claim karne ke liye, aapko sirf ₹500 processing fee bhar deni hogi. Bahut simple hai.
+receiver: ₹500 processing fee? Woh bhi?
+caller: Haan sir, yeh government rule hai. ₹500 bharne ke baad aapka cashback automatically aapke account mein transfer ho jayega. Mein aapko ek secure link bhejati hoon.
+receiver: Secure link? Kahan bhejoogi? Aur ₹500 ka payment kaise karunga? Koi app ya website hai?
+caller: Haan sir, yahan click karein: bit.ly/phonepeoffer. Wahan par aap UPI se payment kar sakte hain. Bahut jaldi ho jayega.
+receiver: bit.ly? Yeh link to zyada safe lag rahi hai. Aur cashback ka proof bhi nahi dikha rahi ho.
+caller: Sir, trust issue mat karna. Yeh offer sirf aaj tak hi hai. Agar aap abhi nahi karenge, toh offer expire ho jayegi. Jaldi kijiye!
+receiver: Nahin, mujhe doubt ho raha hai. Main PhonePe customer care number se khud call karta hoon aur confirm karta hoon.
+caller: Sir, aapka loss ho jayega! ₹10,000 ka cashback chala jayega. Koi baat nahin, main aapko aage se help karungi. Bas link pe click karke payment karo.

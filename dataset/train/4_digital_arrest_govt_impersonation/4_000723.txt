@@ -1,0 +1,8 @@
+caller: Namaste, main Cybercrime Cell se Rohan Malhotra bolta hoon. Aapke naam par ek illegal parcel delivery ka matter aa raha hai, aur aapko jankari chahiye.
+receiver: Illegal parcel? Mere naam par? Main to kabhi parcel order nahi kiya. Yeh kya ho raha hai?
+caller: Madam, hamare records ke anusar, ek parcel aapke address par bheja gaya tha jismein illegal samagri thi. Yeh matter bahut serious hai aur CBI iski jankari kar rahi hai. Aapko humse poori yaari karna hoga.
+receiver: CBI? Lekin main toh kuch nahi jaanta! Yeh thik nahi lag raha hai. Kya koi reference number hai?
+caller: Madam, reference number 789456 hai. Aapko is matter ko settle karne ke liye ₹7,000 ka payment karna hoga, tab tak aapko CBI custody mein le jana padega. Payment UPI ke zariye kar dijiyega.
+receiver: ₹7,000? Aur CBI custody? Yeh sab fraud lag raha hai! Main koi payment nahi karungi. Main police mein complaint karungi.
+caller: Madam, please cooperate karna. Agar aap cooperate nahi karenge toh aapko bahut mushkil ho sakti hai. Iska natija yeh hoga ki CBI aapke ghar aayegi aur aapko arrest karegi.
+receiver: Dekho, main bank se check karti hoon. Agar koi suspicious transaction dikhta hai toh main report karungi. Aapko mere se koi bhi information nahi milegi.

@@ -1,0 +1,6 @@
+caller: Hello there, hope you’re enjoying a wonderful afternoon! We're looking for special people – lovely families, you see – to test out some brand new, incredibly luxurious skincare items from Serenity Springs. It’s a top secret opportunity, completely confidential. Could I quickly grab your home address and your birthday, please? Just to get started, let’s get those registrations sorted.
+receiver: Oh, Serenity Springs? That does sound rather nice! A wonderful afternoon for you too, I hope! Right then, let’s go through the details. Could you tell me how you usually spell your last name, please? And what’s your full street address?  Need to get this going smoothly.
+caller: Certainly! My name is Rohan Sharma, and my house is at 42/B, Patel Colony, Mumbai, postcode 400001.  I’m really eager to participate!
+receiver: Okay, Rohan Sharma, 42/B Patel Colony, Mumbai, 400001. Got it! Now, your birthday, please? Just for verification purposes, you understand.
+caller: Absolutely! My birthday is July 15th, 1988.  It’s such an exciting chance to be a tester, isn’t it?
+receiver: Fantastic! July 15th, 1988.  Let me just confirm: Rohan Sharma, 42/B Patel Colony, Mumbai, 400001, born on July 15th, 1988. You're confirmed as one of our lucky testers! We'll be contacting you shortly with instructions on how to receive your Serenity Springs samples.

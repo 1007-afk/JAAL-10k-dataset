@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rohan Verma, Swiggy Customer Care se baat kar raha hoon. Aapne kal Swiggy se order kiya tha na, order ID SWG45892?
+receiver: Haan, ji. Maine kal order kiya tha. Kya hua?
+caller: Sir, payment processing mein thoda problem aa raha hai. Aapki payment gateway ne ₹250 hold kar rakha hai, lekin confirm nahi ho raha hai. Hamara system ek OTP send kar raha hai, usse confirm kar len aap.
+receiver: OTP? Swiggy ne kabhi OTP maanga nahi hai. Yeh kuch galat lag raha hai.
+caller: Sir, security ke liye hai. Woh bhi ₹250 release karne ke liye. OTP mujhe bataiye, main usse system mein enter kar dunga. Thodi der mein aapko update mil jayega.
+receiver: Dekhiye, mujhe doubts ho rahe hain. Mai Swiggy app par check karta hoon. Aap thode suspicious lag rahe hain.
+caller: Sir, aapko jaldi karna hoga. Time limit hai. Agar aap confirm nahi karte, toh order cancel ho jayega aur aapko phir se order karna padega. OTP jaldi bataiye, sir.
+receiver: Theek hai, ek minute. Mai check karta hoon…

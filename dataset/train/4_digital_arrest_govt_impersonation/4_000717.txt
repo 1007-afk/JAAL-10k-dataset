@@ -1,0 +1,7 @@
+caller: Namaste sir, kaise hain? Mein Indian Customs se Rahul Sharma bolta hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin parcel mein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Mujhe toh koi parcel order kiya tha. Kya hua hai?
+caller: Parcel mein hai kuch electronic gadgets jo drug trafficking se linked ho sakte hain, sir. Abhi parcel ko release karne ke liye, aapko ek penalty fee bharvani padegi.
+receiver: Penalty fee? Kitna bharwana padega? Aur main kabse parcel ka intezaar kar raha hoon?
+caller: Fee sirf 7500 rupees hai, sir. Aur ye fee bharne ke baad, parcel aapke address pe send kar diya jayega. Aap Google Pay ya PhonePe se pay kar sakte hain. Mein aapko QR code send kar sakta hoon.
+receiver: 7500? Yeh bahut zyada hai. Main police mein report karunga!
+caller: Sir, police mein report karne se kuch nahi hoga. Ye ek internal matter hai. Agar aap fee bhar dete hain toh hum aapko parcel free mein de denge. Aur agar aap police mein report karoge toh case aur complicated ho jayega aur aapko aur problems ho sakti hain. Hurry up sir, timing bahut kam hai.

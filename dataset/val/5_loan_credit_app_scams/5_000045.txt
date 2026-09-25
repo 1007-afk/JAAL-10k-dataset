@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? This is Akash from FastLoan Solutions. We've pre-approved your loan application for ₹25,000. Just need to confirm a few details.
+receiver: Oh, really? That’s good news. I was hoping to get a loan for some medical expenses. What details do you need?
+caller: Wonderful! First, for security purposes, could you tell me the last four digits of your debit card? And the name associated with the account. Just to verify.
+receiver: Wait a minute. The bank never asks for the last four digits of my card over the phone. That seems risky.
+caller: Madam, this is a standard verification process to prevent fraud. We need to ensure it’s actually you requesting the loan. If you don't provide this information, we’ll have to cancel the pre-approval.
+receiver: Okay, fine. It's [Receiver's last four digits]. The account is under my name, Sunita Verma. But please, be careful with this information.
+caller: Thank you, Madam Verma. Now, to activate the loan, we require a small processing fee of ₹1500, which will be credited back to your account once the loan is disbursed. Transfer it to the following UPI ID: [invent a UPI ID].

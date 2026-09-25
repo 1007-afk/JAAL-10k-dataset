@@ -1,0 +1,20 @@
+caller: Namaste sir/madam, main Bharat Telecom se baat kar raha hu. Apke mobile plan ka expiry date 8 mahine ho gaya hai, sahi na? Hum apko naya premium plan offer kar rahe hain, jismein Bollywood movies access free milenge aur internet speed bhi double hoga. Ismein apko Samsung Galaxy A14 ya Xiaomi Redmi Note 10 bhi milega, absolutely free!  Aap kaise hain?
+receiver: Namaste. Haan, expiry date 8 mahine ho gaya hai. Movies access free aur internet speed double?  Yeh bahut acha offer hai. Free phone bhi?  Mujhe dekhna padega. Thoda busy hoon, par mujhe interest hai.  Main aapko message kar deta hun, "Okay" agar aap mujhe back call karein.
+caller: Excellent! Dhanyavaad ke aapne confirm kiya. Hum aapko kal subah sephaur ke callback karenge, jismein aapko naye plan ke sab detay milengi aur phone ka complete specification bata denge.  Apne phone ko band rakhna, okay?  Dhanyavada!
+receiver: Theek hai. Aap mujhe kab call karenge?
+caller: Haan, hum aapko kal subah 7 baje se 9 baje ke beech mein call karenge. Hum try karenge ki aapko jitni possible hogi, sab details provide karein.  Thank you for your understanding!
+receiver: Theek hai, samjh gaya. 7 se 9 baje ke beech mein.  Shubh din!
+caller: Namaste sir/madam, main Bharat Telecom se baat kar raha hu. Aapne recently Jio network par switch kiya tha, hai na?  Hum aapko special discount offer kar rahe hain, jisse aap Rs. 500 cashback get kar sakte hain.  Aur hum aapko OnePlus Nord CE 2 Lite bhi free mein dene wale hain!  Aapko kya chahiye?
+receiver: Oh really? Rs. 500 cashback aur OnePlus phone?  Yeh interesting hai.  Mujhe jaankari chahiye.  Main thoda confused hoon.  Main aapko reply karunga, "Interest" agar aap mujhe callback karein.
+caller: Perfect! Dhanyavaad. Hum aapko aaj shaam ko call karenge, jismein aapko offer ke sab detail batayenge aur phone ka video demo bhi dikhayenge.  Aapko koi specific question hain ya nahi?
+receiver: Nahi, abhi koi questions nahi hain.  Batao aap mujhe kab call karenge?
+caller: Aaj shaam 6 baje se 8 baje ke beech mein call karenge.  Dhanyavaad!
+receiver: Theek hai, samjh gaya. 6 se 8 baje ke beech mein.  Shubh ratri!
+caller: Namaste sir/madam, main Airtel se baat kar raha hu. Apka data usage har mahina badh raha hai aur hum aapko unlimited data plan offer karna chahte hain, sirf ₹199 mein!  Is plan mein aapko Flipkart vouchers bhi milegi, ₹500 tak!  Aur aapko Samsung Galaxy M31 bhi free mein milega!  Aapko yeh offer sunana chahay ga?
+receiver: Namaste. Unlimited data ₹199 mein aur Flipkart vouchers ₹500 tak?  Aur Samsung phone bhi free?  Yeh bahut achcha deal hai.  Mujhe yahaan pr jaankari chahiye.  Main aapko message karunga, “Confirm” agar aap mujhe callback karein.
+caller: Absolutely! Dhanyavaad ke aapne confirm kiya. Hum aapko kal subah sephaur ke callback karenge, jismein aapko plan ke sab detay milengi aur phone ka full specification bata denge.  Aapne phone order karne ke liye ready hain?
+receiver: Haan, kal subah sephaur ke baad mein phone order karne ke liye ready hoon.  Aap mujhe kab call karenge?
+caller: Kal subah 7 baje se 9 baje ke beech mein call karenge. Dhanyavaad!
+receiver: Theek hai, samjh gaya. 7 se 9 baje ke beech mein. Shubh din!
+caller: Namaste sir/madam, main Vodafone Idea se baat kar raha hu. Apke mobile bill mein badi badi charges hain, hai na? Hum aapko new postpaid plan offer kar rahe hain, jismein roaming charges free honge aur voice & data bundle bhi unlimited! Aur aapko Realme Narzo 50i bhi free mein milega!  Aapko yeh offer sunana chahay ga?
+receiver: Namaste. Roaming charges free aur unlimited voice & data?  Real

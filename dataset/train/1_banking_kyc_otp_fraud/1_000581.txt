@@ -1,0 +1,16 @@
+caller: Namaste sir, yeh to aapkaa State Bank of India ka branch manager hai. Aapke account ka KYC expiry ho chuka hai. Isliye aapko KYC update karna hoga, lekin COVID ke karan hum online hi KYC karte hain. Mujhe apne account details chahiye.
+receiver: Oh, namaste! KYC expiry? Achcha, COVID ke karan. Theek hai, samajh mein aa raha hai. Mujhe kaunse details chahiye? Mera account number ya koi aur information?
+caller: Ji sir, pehle aap apna account number bata dijiye. Phir hum aapko poochhenge ki aur kya required hai.
+receiver: Haan ji, mera account number hai [account number yahaan daalen]. Aur please bataiye ki ab kya karna hai?
+caller: Ji sir, dhanyavaad. Ab aapka registered mobile number bataiye jo SBI mein linked hai.
+receiver: Haan ji, mera registered mobile number hai [apna mobile number yahaan daalen]. Kya ab sab sahi hai?
+caller: Ji sir, dhanyavado. Ab aapko ek temporary password (OTP) send kiya gaya hai aapke mobile par. Woh password mujhe bataiye taaki hum verification kar sakein. Please jaldi bataiye, woh password sirf 60 seconds ke liye valid hai.
+receiver: OTP? Okay, wait karne do. Main check karta hoon. Yes, I have it. It’s [OTP yahaan daalen]. Hopefully, yeh sahi hai.
+caller: Namaste sir, yeh to aapka HDFC bank ka regional representative hai. Aapke account mein kuch technical issues hain aur usko solve karne ke liye humein kuchh information chahiye. Covid ke vishwas se hum online hi process karte hain. Mujhe apne account details chahiye.
+receiver: Oh, hello! Technical issues? Achha, COVID ke vishwas se. Theek hai, samajh mein aa raha hai. Kaise hain issues? Mera account number ya koi aur detail chahiye?
+caller: Ji sir, pehle aap apna account number bata dijiye. Uske baad hum aapko batayenge ki aur kya details chahiye honge.
+receiver: Haan ji, mera account number hai [account number yahaan daalen]. Aur please bataiye ki ab kya karna hai?
+caller: Ji sir, thank you. Ab aapka registered email address bataiye jo HDFC mein linked hai.
+receiver: Haan ji, mera registered email address hai [apna email address yahaan daalen]. Kya ab sab clear hai?
+caller: Ji sir, thank you. Ab aapko ek security question ka answer send kiya gaya hai aapke email id par. Woh answer mujhe bataiye taaki hum aapki account ko secure kar sakein. Please jaldi bataiye, woh answer 3 minutes ke liye valid hai.
+receiver: Security question? Oh, okay. Wait karne do, main check karta hoon. Yes, I have it. The question was "What is your mother's maiden name?" And the answer is [answer yahaan daalen]. Hopefully, yeh sahi hai.

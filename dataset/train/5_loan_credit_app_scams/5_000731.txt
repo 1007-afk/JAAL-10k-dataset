@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Ravi hai, FastLoan Solutions se. Aapka loan application accept ho gaya hai, sir. ₹75,000 approved hain. Kuch formalities bas complete karni hai.
+receiver: Oh, really? Bahut achha! Mein toh apply bhi kiya tha hi, par mujhe confirm nahi tha.
+caller: Haan sir, lekin verification ke liye aapki bank statement aur recent photograph chahiye. Aur ek baat hai, kuch legal fees bhi apply hote hain, ₹5,000. Verification process ka hissa hai.
+receiver: ₹5,000? Lekin application mein to kuch fees ka mention nahi tha.
+caller: Sir, rules change time-to-time. Yeh fees aapko secure transaction ke liye pay karna padega. Aur agar aap payment nahi karte, toh hum loan approve nahi kar paenge. Plus, we have a policy of contacting your references if there are issues.
+receiver: References? Kaun se references? Mein toh kisi ko kuch nahi bola hai. Yeh kya baat ho rahi hai?
+caller: Sir, aapne application mein kuch contacts diye the. Agar aap payment nahi karte toh hum unke number par aapki morphed pictures bhejenge. Understand?

@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from Bluedart Courier. We have a package addressed to you, but there’s a slight issue with the delivery. It requires a small customs clearance fee.
+receiver: A customs fee? I wasn’t expecting that. What’s the amount and what’s the package?
+caller: The amount is ₹785, sir/madam. The package appears to be electronics. To release it for delivery, we need you to pay this fee quickly to secure it. You can use UPI or a prepaid card.
+receiver: ₹785? Can you give me a tracking number so I can verify this with Bluedart directly?
+caller: Certainly! The tracking number is BD749210. But due to high volume, our systems are experiencing a slight delay. To avoid the package being returned, please make the payment as soon as possible. The UPI ID is bluedart.payments@hdfcbank.
+receiver: Okay, let me just double-check the tracking number on the Bluedart website first. I’ll call you back in a few minutes.
+caller: Please hurry, sir/madam! We don’t want the package to be returned. This is a limited-time offer to avoid the return charges.

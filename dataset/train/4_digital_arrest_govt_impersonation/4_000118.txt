@@ -1,0 +1,9 @@
+caller: Namaste, mai Customs Department se Rohan Sharma bol raha hoon. Aapke naam par ek parcel hai jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Mere naam par parcel rok diya gaya hai? Mein toh koi parcel nahi bheja tha. Kya hua hai?
+caller: Parcel mein suspicious items mile hain, sir. Drug trafficking se related ho sakta hai. Case number XYZ12345 hai. Aapko is matter mein cooperate karna hoga.
+receiver: Yeh kya bol rahe hain aap? Drugs? Mein toh kabhi drugs nahi touch kiya. Koi galti se mera naam to likh diya hoga. Kya mujhe police station jaana padega?
+caller: Police station jaane ki zarurat nahi hai, sir. Par humein confirm karna hoga. Parcel clear karne ke liye 15,000 rupees ka fine lagna hai. Aapko UPI ya net banking se payment karna hoga. Jab payment ho jayega, parcel aapke address par dispatch kar denge.
+receiver: 15,000? Aur yeh sab online hoga? Sir, mujhe yeh zyada fishy lag raha hai. Mein apne dost se baat karta hoon, aur fir decide karta hoon. Aap mujhe ek official email ID de sakte hain jisse mein confirm kar sakta hoon?
+caller: Sir, time bahut kam hai. Parcel ko release karne ke liye abhi payment karna hoga. Official email ID dene se case delay ho sakta hai. Aap trust karein, sir. Payment karke aapko parcel mil jayega, aur case close ho jayega.
+receiver: Theek hai sir. Mein ek baar check karta hoon. Aap mujhe transaction ID de dijiyega jab mein payment kar dunga.
+caller: Theek hai, sir. Transaction ID mein baad mein de dunga. Abhi payment karke parcel clear kara lijiye.

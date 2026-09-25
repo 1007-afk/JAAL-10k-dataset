@@ -1,0 +1,9 @@
+caller: Namaste! Main Rajesh Sharma bol raha hoon, CryptoGainz se. Aapki online activity dikhayi de rahi hai, aur aapko ek exclusive investment opportunity mil raha hai.
+receiver: CryptoGainz? Investment opportunity? Main toh crypto ke bare mein bahut jaanta nahi. Batao, kya hai yeh?
+caller: Sir, hum ek naya blockchain project launch kar rahe hain, ‘NovaCoin’. Initial investors ko 50% returns sirf ek hafte mein milenge. Yeh ek limited-time offer hai, sirf selected investors ke liye. Aap sirf ₹2000 invest karne hai.
+receiver: 50% ek hafte mein? Itna zyada return? Itna achha toh kuch nahi bhi ho sakta. KYC ka chakkar kya hai? Aur payment kaise karunga?
+caller: Sir, KYC compulsory nahi hai. Trust karna zaruri hai. Payment UPI ke zariye kar sakte hai - ₹2000 sirf. Humari payment gateway secure hai. Account number 7890123456, IFSC code ICIC0001234.
+receiver: Hmm... ₹2000? Mai soochta hoon. Kya mujhe ek screenshot ya koi document de sakte ho, jo proof kare ki yeh legal hai?
+caller: Sir, screenshot mein kuch nahi dikhayenge, trust ka relationship important hai. Abhi invest karein, phir aapko pata chalega. Yeh offer abhi abhi khatam hone wali hai!
+receiver: Theek hai, wait karo. Mai apne dost se baat karta hoon. Mujhe yeh thoda suspicious lag raha hai.
+caller: Jaldi karein sir, time guzar rahega!

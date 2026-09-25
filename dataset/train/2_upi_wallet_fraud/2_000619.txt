@@ -1,0 +1,10 @@
+caller: Namaste Aunty! Mein Deepak, BharatPay se baat kar raha huun. Aapko BharatPay Cashback Offer ke bare mein bataane ke liye phone kiya hai.
+receiver: BharatPay? Cashback Offer? Kya offer hai?
+caller: Ji, dekhiye, BharatPay ek special offer laaya hai jismein aap sirf 50 rupees recharge karake 500 rupees ka gift voucher jeet sakte hain.
+receiver: 500 rupaye ka gift voucher? Woh bhi sirf 50 rupaye recharge se?
+caller: Ji haan! Lekin is offer ko activate karne ke liye aapko pehle apne BharatPay wallet mein 20 rupees deposit karne honge. Verification ke liye.
+receiver: Wallet mein deposit? Par kaise? Aur yeh verification ke liye kyun?
+caller: Ji, verification ke liye aapko OTP mil jayega. Woh OTP mujhe bata den. Phir aapka gift voucher activate ho jayega. Aapse sirf 20 rupees ka kaam hai.
+receiver: Arre yaar, OTP? Mujhe yeh kuch galat lag raha hai. Main koi OTP nahi bataungi. Main BharatPay customer care se baat karti huun.
+caller: Aunty, jaldi karna! Offer sirf 5 minutes ke liye hi hai. Agar aap 20 rupaye deposit nahi karenge toh aap yeh offer miss kar dengi.
+receiver: Miss karungi, koi baat nahi. Main apna paisa nahi risk karungi. Thank you, bye.

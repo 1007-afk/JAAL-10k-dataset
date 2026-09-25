@@ -1,0 +1,8 @@
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Kya aapka naam Mrs. Gupta hai?
+receiver: Haanji, main Mrs. Gupta hi bol rahi hoon. Bol dijiye, kya baat hai?
+caller: Achhi madam ji, main aapko yeh batane ke liye call kar raha hoon ki aapke HDFC Bank account mein ek potential security issue hai. Hamare systems ne ek suspicious login attempt detect kiya hai, aur isliye hum chahte hain ki aapki verification ho jaye.
+receiver: Security issue? Kaisea security issue? Main toh abhi bank tak pahunchi hoon. Aap bataiye kya hua hai.
+caller: Ji madam ji, hamare records ke mutabik, aapke account se Mumbai mein ek ₹1200 ka online purchase hua hai jo ki ek unfamiliar website ko transfer hua hai. Yeh transaction subuh ki antara mein hua hai. Kya aapko iske bare mein koi information hai, madam ji?
+receiver: ₹1200? Mumbai mein online purchase? Nahi madam ji, mujhe toh kuch yaad nahi hai aisa koi purchase hone ka. Na hi maine kisi unfamiliar website ko koi payment kiya hai. Aap please confirm kar sakte hain ki yeh kahan gaya paisa aur yeh kis tarah ki purchase thi?
+caller: Ji madam ji, hum samajh sakte hain ki aapke liye yeh chinta ki baat hai. Hum aapki puri help karenge. Is transaction ko confirm karne ke liye, humein aapke account ki verification karni hogi. Kya aap mujhe apni registered mobile number bata sakte hain jo aapka HDFC Bank se link hai?
+receiver: Haanji, meri registered mobile number hai 8765432109. Par yeh verification kyun chahiye? Agar koi problem hai toh main turant Paytm app mein check kar lunga.

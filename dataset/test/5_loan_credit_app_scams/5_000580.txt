@@ -1,0 +1,8 @@
+caller: Hello, this is Rahul from SwiftLoans. We’ve processed your loan application for ₹50,000. Just a quick verification, can I confirm your full name and date of birth please?
+receiver: Yes, hello. My name is Anjali Verma and my date of birth is 12th August, 1988.
+caller: Thank you, Anjali ji. Everything looks good. Now, for the processing fee, a small amount of ₹2,500 is required to activate your account. This is a one-time fee, and the loan will be credited to your account within an hour. You can transfer it to this UPI ID: 9876543210@ybl.
+receiver: ₹2,500? I don't remember seeing anything about a processing fee in the application. Is this really necessary?
+caller: Yes, Anjali ji, it is. This is standard procedure to prevent fraudulent applications. Without this fee, we can’t guarantee the loan. Think of it as insurance. Are you comfortable proceeding? We can even send you a screenshot of our terms and conditions.
+receiver: I… I’m still not sure. It all seems a bit rushed. Could you please send me that screenshot?
+caller: Absolutely! One moment. (pause) Look, Anjali ji, we’ve already approved your loan. Many others are waiting. If you delay, your application might be cancelled and you’ll lose the opportunity. We're offering a fantastic rate, and this fee is a small price to pay. Just ₹2,500! 
+receiver: Okay, fine. I'll transfer it. Please send me your UPI ID again.

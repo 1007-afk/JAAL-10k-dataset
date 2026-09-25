@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Verma? We’re calling from BlueSpark Courier regarding a parcel addressed to you. There seems to be an issue with the delivery address – it’s showing as incomplete.
+receiver: Oh, really? What’s the issue? I was expecting a package.
+caller: Yes, ma’am. It seems like the city is missing. To proceed with the delivery, we need to verify your address and secure the package. Could you please share the last four digits of your card used for the purchase? It’s just a security measure.
+receiver: Wait, what? Why do you need my card details for address verification? That seems a bit strange.
+caller: Ma’am, this is standard procedure. We're trying to prevent fraudulent deliveries. Plus, there’s a small customs fee of ₹350 to clear the parcel. We can process it quickly if you provide the last four digits.
+receiver: ₹350? I didn't receive any notification about a customs fee. Let me just check my order details… hold on a second.
+caller: Absolutely, ma’am. Just to confirm, can you also share the OTP that we’ve just sent to your registered mobile number? That will finalize the address verification and the fee payment.

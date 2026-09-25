@@ -1,0 +1,8 @@
+caller: Hello, mai State Bank of India se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. KYC update urgent hai, warna account suspend ho sakta hai.
+receiver: Kya? Account suspend? Yeh kya bol rahe ho? Main toh abhi ghar pe hoon.
+caller: Ji, sir, yeh security procedure hai. Aapka naam aur birth date bataiye, verification ke liye. Aur OTP bhi share karna hoga, sir.
+receiver: OTP? Koi OTP share karne ki zaroorat hai? Maine suna hai OTP kabhi bhi share nahi karna chahiye.
+caller: Sir, OTP sirf verification ke liye hai, aur kuch nahi. Account suspend hone se bachane ke liye, zara bhi delay nahi karna chahiye.  Ek minute wait karein, mai aapka account number confirm kar raha hoon.
+receiver: Thoda rukiye. Mai apne bank manager se baat karta hoon, phir bataata hoon.
+caller: Sir, please don't delay! Account suspend hone se pehle, OTP share kijiye. Account suspend hone par aap online transactions bhi nahi kar paenge.  Main aapko verify karne mein madad kar sakta hoon.
+receiver: Aur koi option nahi hai? Koi aur tarika se verify kar sakte ho?

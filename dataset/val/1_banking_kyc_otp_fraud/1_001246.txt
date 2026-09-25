@@ -1,0 +1,6 @@
+caller: Namaste sir, main Rahul Verma ICICI Bank se baat kar raha hoon. Aapke account mein ek suspicious transaction detect hua hai. Security ke liye, humein aapka KYC update karna hoga. Aapka PAN card number aur ek OTP share karein?
+receiver: ICICI Bank? Suspicious transaction? PAN card aur OTP? Yeh kya chal raha hai? Mujhe thoda time do, main check karta hoon.
+caller: Sir, samjh raha hoon aapko time chahiye, lekin yeh urgent hai. Agar humein 2 ghante mein KYC verify nahi ho gaya toh aapka account temporarily suspend ho sakta hai. Sir, process bahut simple hai – bas PAN card number aur OTP bata dein. 5 attempts hi bache hain.
+receiver: Account suspend? Five attempts? Yaar, yeh thoda zyada pressure lag raha hai. PAN card number yaad nahi, aur OTP bhi share karne mein dar lag raha hai. Koi aur tareeka hai?
+caller: Sir, policy ke hisaab se, yahi tarika hai. OTP sirf verification ke liye hai. Agar aapki details sahi hai toh OTP requirement bhi hat jayegi. Aadhar number bhi dena hoga. Aapne PAN card number enter kiya? Jaldi kariye, sir, time guzar raha hai.
+receiver: PAN card number... hmm... pata nahi. Dekhta hoon. Lekin yeh OTP ka kya hai? Agar main OTP galat enter kar doon toh account block ho jayega kya? Aur aadhaar number bhi dena padega?

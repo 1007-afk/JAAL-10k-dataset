@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya calling from BlueSpark Courier Services. We have a parcel addressed to you, but there's a small issue with the payment. Could you please confirm your address for verification?
+receiver: BlueSpark Courier? Mujhe koi parcel expect nahi hai. Aur payment ka issue kya hai?
+caller: Sir, according to our records, the sender made a partial payment, and we need to clear a small outstanding amount of ₹799 to release the parcel for delivery. It’s a very standard procedure. We can process it quickly over the phone.
+receiver: ₹799? Kaun ne bheja hai parcel? Aur main online payment nahi karta hun, woh achha rahega.
+caller: Sir, for security purposes, we cannot disclose the sender's details. However, we can confirm it’s a high-value item. To avoid any delay or the parcel being returned, we require a one-time password (OTP) sent to your registered mobile number for verification and payment confirmation.
+receiver: OTP? Sir, yeh theek nahi lag raha hai. Koi bhi courier company aise OTP maangti hai? Main police mein report karunga agar aap fraud nikle.
+caller: Sir, please don’t jump to conclusions! This is a secure system. We are just confirming you are the rightful recipient. Just provide the OTP, and your parcel will be delivered within the next two hours. We don't want you to miss out on your valuable package.
+receiver: Bahut ho gaya. Main koi OTP nahi dunge. Aapka number block kar raha hoon. Yeh scam hai.

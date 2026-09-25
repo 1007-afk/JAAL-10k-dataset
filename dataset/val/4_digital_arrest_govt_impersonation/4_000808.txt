@@ -1,0 +1,7 @@
+caller: Namaste! My name is Inspector Sharma, calling from the Delhi Customs Department. We’ve intercepted a parcel registered to your address containing suspicious items.
+receiver: Delhi Customs? Kya baat hai? What items?
+caller: It appears to contain unregistered electronics and potentially restricted substances. We need to verify this with you immediately to prevent legal complications. We'll need to keep you on a video call so you can confirm your identity and cooperation.
+receiver: Video call? But why? I haven’t ordered anything suspicious. My name is Priya Verma.
+caller: Ma'am, it's standard procedure. We need to ensure you are not involved in any illegal activity. There's a hefty fine associated with this, around ₹50,000, to clear the parcel. Pay it through UPI.
+receiver: Fifty thousand? That's a lot! Can I see the parcel manifest? And how can I be sure this isn't a scam?
+caller: We understand your concern, ma'am. But delays will only increase the fine. To build trust, I'll transfer ₹1000 to your UPI as a sign of good faith. Just provide your UPI ID so we can verify it. This will expedite the process.

@@ -1,0 +1,9 @@
+caller: Namaste! This is Aditya from SwiftLoan Solutions. We've noticed you recently applied for a personal loan. Congratulations, you've been pre-approved for a limit of ₹75,000! Just a quick verification process and the money will be in your account.
+receiver: Oh really? That's great news! I did apply through the app a few days ago. What verification do you need?
+caller: Fantastic! To complete the verification, we require a small processing fee of ₹5,500 to secure your loan. This is a one-time charge. Once processed, it’ll be deducted from your loan amount.
+receiver: ₹5,500? That seems like a lot for a processing fee. The app didn’t mention anything about this.
+caller: Sir/Madam, it’s a standard procedure. SwiftLoan Solutions is very strict about security. Without it, we can’t guarantee the safety of your funds. Also, we need you to share a few photos of your ID proof for KYC verification.
+receiver: Photos of my ID? Now that sounds suspicious. I'm not comfortable sharing those. And ₹5,500… I think I'll just wait and see if the loan goes through without those charges. Thank you though.
+caller: Sir/Madam, this is your last chance to secure this loan! Without the fee and KYC, we will have to cancel your application. Think about it. We can also get you some amazing deals on electronics and jewellery. Why would we do this if it wasn’t a good offer?
+receiver: I think I've made my decision. I'm not going to proceed. Please remove my number from your list.
+caller: Sir/Madam, you’re making a huge mistake! You will regret this! We’ve already started a background check on you,

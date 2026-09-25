@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from “Eternal Bonds,” a premium gifting service. We received a request to send a very special, personalized anniversary gift to you from someone who appreciates you immensely. It's a virtual crystal rose with a loving message. It's quite exclusive.
+receiver: Eternal Bonds? I don’t remember requesting anything. And who sent it? It sounds a little…strange.
+caller: It's a surprise, Priya! That’s the beauty of it. Think of it as a sweet gesture. To process the request, we just need a small verification fee of ₹50. This covers the creation and secure delivery of the rose and message directly to your phone. Just a small token to confirm it's genuinely for you.
+receiver: Fifty rupees? For a virtual rose? And why do I need to pay anything? Shouldn't the sender be covering the cost? It's getting more and more suspicious.
+caller: Look, these bespoke gifts are high-end, Priya. The sender wants to ensure you receive a truly premium experience. This is standard procedure to prevent fraudulent requests. Don’t miss out on this lovely surprise - it shows someone really cares. You can pay via UPI to 7890123456, mentioning “Rose-Priya”.
+receiver: UPI? That’s not very secure. I'm not comfortable with that. I think I'm just going to hang up. This whole thing feels like a scam.
+caller: Wait, Priya! Don't be hasty! We can offer you a special discount if you pay now. Just ₹30 instead of ₹50, as a one-time courtesy. It’s a sign of good luck! Don’t let this opportunity pass you by!

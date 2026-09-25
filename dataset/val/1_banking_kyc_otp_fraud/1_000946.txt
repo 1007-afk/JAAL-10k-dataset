@@ -1,0 +1,6 @@
+caller: Namaste Madam, mai Axis Bank Security Department se Vishal Sharma bol raha hoon. Aapke account mein logon ne hacking ka try kiya hai, isliye humein aapki identity verify karni hogi.
+receiver: Kya? Hacking? Mere account mein? Mein toh koi suspicious activity dekh rahi hoon. Abhi kya karna chahiye?
+caller: Madam, aapko tension lene ki zaroorat nahi hai. Hum bas kuch details check karenge. Please bataiye, aapke debit card ka last 4 digits kya hain?
+receiver: Debit card ka number kyun pooch rahe hain? Axis Bank toh aise call nahi karta. Yeh theek toh hai na?
+caller: Madam, security ke liye humein yeh details zaroori hai. Agar aap cooperation nahi karenge, to aapka account suspend hoga. Aapka naam aur dob bhi batao.
+receiver: Account suspend? Arey yaar, yeh toh bohot hi urgent lag raha hai. Thoda wait karo, main Axis Bank ki official website pe check karti hoon.

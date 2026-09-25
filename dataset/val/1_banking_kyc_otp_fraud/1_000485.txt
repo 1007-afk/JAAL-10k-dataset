@@ -1,0 +1,17 @@
+caller: Namaste, main HDFC bank se Sanjay Kumar bol raha hoon. Apka credit card expiry date leke aaya hoon, kya aapko naya card apply karna pasand hoga?
+receiver: Namaste, Sanjay ji. Kahaan se bol rahe hain aap? HDFC bank se? Mera credit card expire ho raha hai?
+caller: Haanji, bilkul. Aapka credit card jo aap use karte hain, woh 15th January ko expire hone वाला है. Isliye main aapko call karta hoon, agar aapko koi problem nahi hogi toh hum naya card immediately issue kar denge. Bas humein kuch information check karna hoga.
+receiver: Theek hai, bataiye kaunsa information chahiye? Aur naye card par koi annual fees lagega kya?
+caller: Ji, koi fees nahi lagega. Naya card completely free hai. Humhein sirf aapki full name, address, aur aapke account number ke last 4 digits jankari chahiye. Yeh sab information hamare system mein verify karne ke liye zaroori hai.
+receiver: Mein [Apna naam bataiye] hoon. Mera address [Apna address bataiye]. Aur account number ke last 4 digits hain [Apne account number ke last 4 digits bataiye].
+caller: Dhanyavaad, [Apna naam bataiye] ji. Yeh sab details correct hain. Ab, aapke mobile number pe ek SMS message mein OTP bheja jaayega. OTP mujhe bata dijiye, taaki hum naya card process kar saken aur aapko deliver kar saken. Koi surcharge nahi hai, yeh totally free hai.
+receiver: Haanji, OTP aa gaya hai. OTP hai [OTP bataiye]. Mujhe card kab tak mil sakta hai?
+receiver: Haanji, bataiye kyun deactivate ho raha hai? Axis Bank se bol rahe hain?
+caller: Haanji, aapke account mein suspicious activity detected hua hai. Isliye bank ne aapko alert kiya hai. Account deactivate karne से koi bhi fraud activity handle nahi ho sakta.
+receiver: Suspicious activity? Mere account mein kya hua tha?
+caller: Main detail nahin bata sakta, lekin security reasons se account deactivate karna zaruri hai. Naya account activate karne ke liye, hamein aapke identity ko verify karna hoga.
+receiver: Theek hai, bataiye kya verify karna hoga? Aur activation par koi charges lagega kya?
+caller: Ji, koi charges nahin lagenge. Humein sirf aapki full name, date of birth, aur aapke registered mobile number ke last 4 digits chahiye.
+receiver: Mein Rahul Verma hoon. Date of birth hai 10th August 1985. Mobile number ke last 4 digits hain 7890.
+caller: Dhanyavad, Rahul ji. Yeh details sahi hain. Ab aapke mobile number pe ek OTP bheja jayega. OTP mujhe bata dijiye.
+receiver: Haanji, OTP aa gaya hai. OTP hai 123456. Mujhe card kab tak mil sakta hai?

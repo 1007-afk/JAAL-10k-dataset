@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly? Aapko meri awaaz sahi aa rahi hai na? Dekho, main aapko keh raha hun ki aap hamare premium members mein se hain, aur isiliye aapko 50 GB data pack ke draw mein shamil karne waali hain. Bas aapko 'ACCEPT' likhni hogi reply mein.  Chahay aapko accept karein ya nahi?  Aapko sirf 'ACCEPT' likhna hai.
+receiver: Oh, hello! Yes, I can hear you clearly. 50 GB data pack, you say? That seems quite good! 'ACCEPT' likhni hogi, right? Okay, I will accept. Thank you for informing me!
+caller: Wonderful! That’s excellent news, madam/sir. And just a little heads up – you have only 2 entries remaining for this incredible opportunity!  Just to verify, is this [Invented Name, e.g., Mrs. Verma’s] mobile number? So we can make sure your entry is recorded accurately.
+receiver: Yes, this is [invented name, e.g., Rohan Singh]'s number. Two entries left? Interesting... thanks for confirming!
+caller: Very good, Mr. Rohan Singh! Your entry has been successfully registered. Now you only have one entry left, so please consider sharing this exciting offer with your relatives or friends. They could also benefit from this fantastic deal!
+receiver: Oh, really? Only one entry left now? Hmm, maybe I will share it. But I am a bit busy at the moment. Let me give you a call back later when I have some free time. Thanks for the update!
+caller: Absolutely fine, Mr. Rohan Singh! No worries at all. Just as a final reminder, you have zero entries remaining for this 50GB data pack draw. Don't delay any further - seize this chance! Agar aapko koi bhi baat puchhna ho ya koi confusion ho, to mujhse pooch sakte hain.
+receiver: Zero entries? Okay, I understand. Thank you for letting me know. No more questions for now. Bye!

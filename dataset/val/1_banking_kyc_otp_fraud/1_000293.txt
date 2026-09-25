@@ -1,0 +1,17 @@
+caller: Namaste! Caller speaking. You received an alert regarding your 2018 investment portfolio. There’s a small discrepancy – 923 credits are showing as inactive. We just want to quickly verify some information to resolve this. Could I have your full name, please?
+receiver: Namaste ji, main Suresh Kumar hoon. Haan, mein woh alerts dekha tha. Credits inactive hain, sahi hai. Kya karna hai?
+caller: Wonderful, Suresh! Glad to hear it. To process this correction, we require a quick confirmation. Firstly, can you tell me the location where you opened your 2018 investment account? Just the area name would suffice.
+receiver: Ji, mein Delhi mein khola tha, Connaught Place ka area.  Aap kuch aur pooch rahe hain?
+caller: Excellent, Connaught Place. Thank you. Now, let's check our records. Can you confirm the email address you used when setting up your account, Suresh? It’s important for security reasons.
+receiver: Email? Mein think karta hun, woh ‘suresh.kumar.99@gmail.com’ hogi.  Kab tak time hai?
+caller: That's correct, sushresh.kumar.99@gmail.com. Finally, for complete verification, could you provide the last three digits of the phone number linked to your account? This helps us ensure everything is legitimate.
+receiver: Ji, woh last three digits hain 123. Ab sab clear ho gaya? Points redeem ho jayenge?
+caller: Hello, this is Urgent Support calling about your recent purchase on BuyNowOnline. Your order #BN12345 is flagged for review due to unusual activity. We need to verify a few details to prevent any potential fraud. What’s your first name, please?
+receiver: Oh, really? Mera naam Priya Devi hai. Koi problem hai kya?
+caller: Yes, Priya, good to speak with you. Regarding Order #BN12345, we noticed a slightly higher than average transaction amount. To proceed with resolving this, can you confirm the city where you placed the order? Just the city name is fine.
+receiver: Ji, main Mumbai mein order diya tha.  Kya aapko koi aur detail chahiye?
+caller: Mumbai, excellent. Now, to double-check, could you confirm the email address you used during checkout, Priya? It's part of our standard security protocol.
+receiver: Email?  Mein soch rahi hu, woh ‘priya.gupta.786@yahoo.in’ hogi.  Mujhe bataiye, kya hua?
+caller: Priya.gupta.786@yahoo.in, perfect. Lastly, for verification, can you state the last two digits of the credit card you used for the purchase? Only the last two numbers are needed.
+receiver: Ji, credit card ke last two digits hain 45.  Ab ye matter solve ho jayega?
+caller: Wonderful, Priya. That completes the verification. We’ll investigate this further and resolve the issue promptly. Thank you for your cooperation.

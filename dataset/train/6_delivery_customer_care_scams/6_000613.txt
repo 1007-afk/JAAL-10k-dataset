@@ -1,0 +1,9 @@
+caller: Namaste, mai Bharat Courier se Atul bolta hu. Aapke naam par ek parcel aaya hai, lekin address verification incomplete hai.
+receiver: Oh, okay. Which address are you talking about? I haven't ordered anything recently.
+caller: Sir, parcel ka reference number BC123456 hai. Delivery ke liye ₹350 due hain. Payment karne ke baad hi parcel deliver hoga.
+receiver: ₹350? That seems a bit high. Can you tell me what’s inside the parcel? And from whom is it being sent?
+caller: Sir, security policies ke vajah se main parcel ke contents bata nahi sakta. Lekin, aapka payment kar dijiye, tab parcel aapke haath milega. Payment link mein send kar dunga.
+receiver: Wait a minute. I'm calling Bharat Courier’s official number to verify this. Something feels wrong.
+caller: Sir, ji, abhi is number pe call karne se time barbaad hoga. Payment kar dijiye, otherwise parcel return ho jayega.  Link is here: bit.ly/bharatpay
+receiver:  I'm not clicking any links.  You’re clearly a scammer. I’m reporting this number. Goodbye.
+caller: Sir, please!  ₹350 hi hain!  Sir, aapko maaf kar denge, sir.  Please pay now, otherwise parcel return ho jayega!

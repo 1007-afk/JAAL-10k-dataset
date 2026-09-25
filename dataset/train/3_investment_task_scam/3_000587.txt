@@ -1,0 +1,11 @@
+caller: Namaste! Mera naam Rohan hai, 'Global Crypto Solutions' se. Aapko cryptocurrency investments mein interest hai kya?
+receiver: Hello, Rohan. Haan, thoda bahut interest hai, lekin main expert nahi hoon.
+caller: Bahut achha! Hum ek naya, high-yield investment opportunity offer kar rahe hain – 'CoinX'. Yeh ek emerging cryptocurrency hai, aur humare analysis ke hisab se, ismein next month mein 30% ka return mil sakta hai.
+receiver: 30%? Itna zyada? Seems a bit too good to be true, yaar. What’s the catch?
+caller: Koi catch nahi hai, sir! Yeh ek limited-time offer hai, sirf select investors ke liye. Aap sirf ₹5000 invest karke shuru kar sakte hain.
+receiver: ₹5000? Okay, let me think about it. Can I see some proof of these returns you're talking about?
+caller: Sir, yeh ek confidential opportunity hai. Proof of returns hum share nahi kar sakte. Par trust kar lijiye, yeh ek excellent chance hai apni savings ko boost karne ka. Just send the money to this UPI ID: [fake UPI ID].
+receiver: Wait a minute. I need to research this 'CoinX' first. I’m not comfortable sending money without knowing more.
+caller: Sir, time is running out. Yeh offer abhi khatam hone wali hai. Agar aap invest nahi karte, toh aap zyada profit missing kar jayenge.
+receiver: No, I’m sorry. I’m not going to do this. I think this is a scam. I’m hanging up now.
+caller: Sir, please! Don't miss this golden opportunity! Just think about it…₹5000 will become ₹6500 in a month!  It

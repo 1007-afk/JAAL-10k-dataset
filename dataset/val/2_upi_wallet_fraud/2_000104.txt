@@ -1,0 +1,8 @@
+caller: Namaste, sir? Yeh Akash Sharma, PhonePe se bol raha hoon. Aapke account mein kuch unusual activity dikh rahi hai.
+receiver: Kya unusual activity? Batao kya hua?
+caller: Sir, ek bahut bada transaction attempt hua hai, ₹12,000 ka. Aapne kiya tha ya nahi? Jaldi batao, account block ho sakta hai.
+receiver: ₹12,000? Maine toh koi transaction nahi kiya. Account block karna kya zarurat hai?
+caller: Sir, security ke liye humein OTP verify karna padega, tabhi account secure hoga. PhonePe app mein OTP check karke mujhe batao.
+receiver: OTP? Koi bhi OTP share nahi karunga. Tum kon ho? PhonePe ka customer care number se main contact karta hoon.
+caller: Sir, yeh process hi OTP verification se hoti hai. Aapko ₹12,000 ka loss ho sakta hai.  Aapka loss hone se pehle mujhe OTP jaldi share kar do.
+receiver: Nahi, mujhe trust nahi ho raha hai. Main PhonePe support number pe call karta hoon aur complaint register karta hoon.

@@ -1,0 +1,22 @@
+caller: Namaste, main DigiConnect se bol raha hun. Aapke Reliance Jio data plan par ek amazing deal mili hai! Aapko 5G speed par 6 GB daily data 3 months ke liye 799 rupees mein milega, aur saath mein Netflix premium subscription bhi free. Kaise hai aap? Call to opt-out kar sakte hain agar nahi chahiye toh.
+receiver: DigiConnect se? Haan, main thoda busy tha. Kahan data plan badalne ka option hai? Aur aapne subscription ka kya detail bataya?
+caller: Ji ji, aapko apne Jio app mein jaakar profile section mein "Offers" tab dekho. Wohin aapko yeh deal dikhegi. Netflix premium subscription 12 mahine ke liye free hai, aur aapko sirf 799 rupees chukane hone wale hain. Is offer ko miss mat karo!
+receiver: 799 rupay? Haan, woh kitna time tak valid rahega? Aur jldi me expiry date bataiye.
+caller: Ji, yeh offer 3 months ke liye valid rahega, yani December 31 tak.  Aapko sirf data consume karne hai, streaming ke liye koi extra charge nahi hoga.  Aapko jo data milega, usse aap YouTube, Hotstar, Bollywood movies dekh sakte hain.
+receiver: Okay, December 31 tak. Mein kuch websites check karunga.  Aapne kaha ki profile section mein "Offers" tab hai?
+caller: Haan, absolutely!  Aapko profile mein jaake “My Offers” option select karna hoga, aur phir aapko yeh deal dikhegi.  Main aapko sab kuch help karunga.  Agar koi confusion ho toh humein bata do.  Aapka time waste nahi hoga, promise!
+receiver: Theek hai, thanks!  Kal subah 10 baje call karoge na?
+caller: Ji haan, kal subah 10 baje call karunga.  Aapka naam jaan sakta hoon? Taaki kal call par main aapka naam use kar sakoon. Shukriya!
+receiver: Mera naam Priya Sharma hai. Kal 10 baje milte hain. Bye!
+caller: Mujhe KisanSupport se call karna hai. Aapke Kisan Credit Card (KCC) par ek special scheme mil gaya hai! Aapko 10% tak cashback milega, aur saath mein crop insurance bhi free mein milega. Kya aap is scheme ke baare mein jaankari lena chahte hain? Opt-out karne ke liye call to opt-out kar sakte hain.
+receiver: KisanSupport se? Cashback?  Mujhe abhi credit card nahi chahiye.  Kya aap mujhe koi detay de sakte hain?
+caller: Ji, aapko KisanCreditCard.gov.in website par jaakar scheme ke bare mein jaankari mil jayegi. Cashback aapke KCC account mein automatically reflect hoga. Crop insurance aapko loan waiver ke liye madad karega.  Yeh scheme sirf limited time ke liye chalega, isliye jaldi apply karein!
+receiver: Website par?  Website par to batae mujhe.  Aur crop insurance kaise kaam karta hai?
+caller: Haan, website par aapko scheme ke rules and regulations, terms and conditions pata chal jayenge. Crop insurance aapki crop loss se bachayega, warna government aapko compensation dega.  Aapko sirf loan repay karna hai, rest sab company handle karega.
+receiver: Compensation?  To, agar meri crop fail gayi toh?
+caller: Ji, agar aapki crop failure hui toh aap insurance claim kar sakte hain, aur company aapko full compensation dedo ga.  Aapko sirf proof chahiye - crop damage ka photo aur loan document.  Aapko sirf 10% cashback milega, yeh scheme bohut profitable hai.
+receiver: 10% cashback…hmm.  Aapne kaha ki website par jaakar application karna hai?
+caller: Haan, absolutely!  Aapko profile mein jaake “Apply Now” option select karna hoga, aur phir aapko form fill karna hoga.  Main aapko sab kuch guide karunga.  Agar koi confusion ho toh humein bata do.  Aapka time waste nahi hoga, promise!
+receiver: Theek hai, thanks.  Aapko kal subah 8 baje call karoge na?
+caller: Ji haan, kal subah 8 baje call karunga.  Aapka naam jaan sakta hoon? Taaki kal call par main aapka naam use kar sakoon. Shukriya!
+receiver: Mera naam Vijay Kumar hai. Kal 8 baje milte hain. Bye!

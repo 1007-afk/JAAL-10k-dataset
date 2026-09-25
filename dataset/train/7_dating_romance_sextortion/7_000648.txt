@@ -1,0 +1,7 @@
+caller: Hi! Just saw your profile on SparkMatch – you seem really interesting. I’m Alex, by the way. Been having a tough week, just looking for some good vibes. What are you up to tonight?
+receiver: Hi Alex! Thanks! I’m just relaxing at home, watching a movie. Tough week? What happened?
+caller: Long story. Business deal fell through, lost a lot of money. It's been stressful. But seeing your profile cheered me up a bit. You have such a lovely smile! Listen, I know this is random, but my bank account is temporarily frozen due to the deal collapsing. I urgently need ₹20,000 to cover some immediate expenses. Can you possibly help me out? I’ll pay you back double within a week, promise.
+receiver: ₹20,000? That’s quite a bit of money to ask for from someone we just met online. I'm sorry to hear about your business deal though. I don't feel comfortable lending that much money. Can you show me some proof of your bank being frozen? Or at least, some ID?
+caller: I understand your concern, Priya. But the bank requires a verification fee before they'll unlock my account, and I don’t have the funds right now. It's only ₹3,000. Just to complete the process. Think of it as an investment to get my money back. I’ll send you the receipt once it's done. Trust me on this! It's a quick fix.
+receiver: Verification fee? That sounds suspicious, Alex. And why would the bank need me to pay anything? I think you're trying to scam me. I'm ending this conversation now.
+caller: Wait, Priya! Don’t be like that! I’m really in a tough spot here. Just

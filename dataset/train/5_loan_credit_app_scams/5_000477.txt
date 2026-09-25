@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Priyanshi calling from LoanBazaar. We've pre-approved you for a personal loan of up to ₹5 lakh with instant disbursal. Just need a few details to process it.
+receiver: Oh, really? That’s good news. I could use a loan. My name is Sanjay Verma.
+caller: Wonderful, Sanjay Verma ji! So, to confirm your eligibility, could you tell me your occupation and approximate monthly income? Also, which city do you currently reside in?
+receiver: I’m a shop owner – a small electronics store. My income is around ₹65,000 a month. I’m in Jaipur.
+caller: Excellent! Jaipur is a thriving city.  Now, for verification, we need a small processing fee of ₹3,500 upfront. This secures your loan and covers the paperwork. You can pay through UPI - I'll send you the QR code.
+receiver: ₹3,500 upfront? That wasn't mentioned before. Isn’t that a bit unusual? I thought instant loans didn’t require any fees beforehand.
+caller: Sir, this is a security measure to prevent fraudulent applications. It's standard practice.  The loan amount will then be credited to your account within minutes of the payment confirmation. Think of it as a small investment for a big opportunity, sir. Don't miss out on this incredible offer!

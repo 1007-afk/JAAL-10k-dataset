@@ -1,0 +1,8 @@
+caller: Namaste! Ji haan, Bol raha hoon. Aapko InstaLoan app ke baare mein baat karni thi? ₹10,000 se ₹80,000 tak ka loan, instant approval. Koi bhi apply kar sakta hai. Rejected hue hain pehle? Hum help karenge, koi tension nahi. Aapka naam bataiye?
+receiver: Ji haan, bilkul. Mera naam Neha hai. Loan ke baare mein hi puchni thi.
+caller: Acha Neha ji, bahut achha! Aapko kiti amount chahiye tha aur loan kisliye chahiye tha? Bataiye?
+receiver: Haanji, actually mummy ke ilaaj ke liye loan chahiye tha. Lagbhag ₹60,000 ke aas paas.
+caller: Neha ji, bohot achhi baat hai ki aap aapki mummy par itni pyaar karte hain. Hum definitely madad karenge. Aapka address aur occupation bataiye? Aur monthly kiti income hai?
+receiver: Main ek teacher hoon. Address mera 12, Anand Vihar, Uttam Nagar. Monthly income lagbhag 25,000 hai.
+caller: Bahut sundar, Neha ji! Teacher aur Rs. 25,000 income, yeh toh ek achha case hai. Loan approve ho jayega. Ab, humko sirf aapke bank details chahiye - account number aur IFSC code. Jaldi karo, offer limited time ke liye hai.
+receiver: Bank details? Wait, why do I need to give you my bank details now? Is this safe?

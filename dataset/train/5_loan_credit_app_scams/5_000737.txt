@@ -1,0 +1,9 @@
+caller: Hello, is this Rahul Sharma? We are calling from QuickCash Loans. You recently applied for a loan through our online portal, correct?
+receiver: Haan, ji. Maine kuch din pehle application kiya tha. Loan ki requirement hai urgent.
+caller: Excellent! Your application has been pre-approved for up to ₹80,000. However, there's a small processing fee of ₹3,500 that needs to be paid upfront to activate your loan. This is a standard procedure.
+receiver: ₹3,500? But I thought it was supposed to be an instant loan without any fees.
+caller: That’s right, initially. But due to recent security concerns, we've implemented this temporary fee to verify your account. Transfer it to the UPI ID: QuickCashPay@axisbank. Once we receive it, your loan will be disbursed immediately. Don't delay!
+receiver: Okay, I'll transfer it. But what about the loan repayment? How much will I actually have to pay back?
+caller: Once the fee is confirmed, your loan amount of ₹80,000 will be credited. The repayment schedule is flexible – you can choose weekly installments. However, if you miss a payment, we will have to take strict action. We have photos and documents you submitted, and we will have to share those with your contacts if you default.
+receiver: What?! Share my photos? That's blackmail! I am not paying you anything more.
+caller: Don’t be dramatic. We are just protecting ourselves. Pay the ₹3,500, and everything will be fine. Otherwise, we have your information and will proceed accordingly. Do you understand?

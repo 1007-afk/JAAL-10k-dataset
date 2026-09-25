@@ -1,0 +1,7 @@
+caller: Namaste sir, Flipkart se bol raha hoon. Aapke account mein ₹100 cashback offer hai, par redeem karne ke liye kuch steps follow karna padega.
+receiver: Flipkart? ₹100 cashback? Mujhe toh koi email ya message nahi aaya.
+caller: Haan sir, offer limited time ke liye hai. Aapko ek small processing fee bharani padegi, sirf ₹50, OTP se verify hoga. Phir cashback automatically aapke wallet mein add ho jayega.
+receiver: ₹50 fee? Flipkart toh kabhi fee nahi leta tha. OTP se verify? Yeh thoda risky lag raha hai.
+caller: Sir, security ke liye hai. Phir aap ₹150 ka benefit milega.  ₹50 fee Paytm ya PhonePe par pay karna hai, main ek UPI link send karta hoon. Hurry up, offer soon expire ho jayegi.
+receiver: ₹150 benefit? ₹50 fee?  Dekhiye, mujhe yeh thoda suspicious lag raha hai. Main ek friend se check kar leta hoon.
+caller: Sir, please hurry! Offer expire hone wala hai aur ₹100 ka loss ho jayega. Aapko bilkul benefit milega, trust us! Woh bhi ₹150 ka.

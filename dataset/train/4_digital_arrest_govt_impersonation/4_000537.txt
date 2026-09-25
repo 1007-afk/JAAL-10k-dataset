@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Rohan Sharma calling from the Directorate of Enforcement, Delhi. We've detected some suspicious activity linked to your ICICI Bank account – specifically, large sums being transferred to shell companies involved in cryptocurrency trading.
+receiver: Kya? Yeh kis baat ki baat kar rahe hain? Main cryptocurrency mein nahi deal karta. Account mein fund transfer ho raha hai? Mein toh check karunga.
+caller: Sir, it's a serious matter. We believe your account is being used unknowingly for money laundering purposes. To clear your name and prevent further investigation, you need to cooperate. We require a small amount – ₹15,000 – as processing fees to verify your transaction history and ensure your account is not flagged.
+receiver: ₹15,000? Yeh bahut zyada hai. Aur humein isko phone pe hi karna hai? Main police mein complaint kar sakta hoon. Yeh fraud lag raha hai.
+caller: Sir, time is of the essence. The more you delay, the more complicated this will become. The courts are already involved. We can send you a UPI link to deposit the ₹15,000. Once we receive the payment, we'll provide you with a reference number and a senior officer will call you to confirm the closure of the case.
+receiver: Yeh UPI link se main dal nahi sakta. Mujhe doubt ho raha hai, bahut zyada. Ek moment, main ED ki website check karta hoon.
+caller: Sir, please don't waste time. Our website is under maintenance for security upgrades. This is a confidential operation, so we're not sharing updates publicly. Just one small payment, and this will all be resolved. Think of it as an insurance policy against legal trouble, sir. ₹15,000 for peace of mind.
+receiver: Bas kar, sir. Main abhi phone kaat deta hoon. Yeh

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence, Mumbai. We need to speak with you urgently regarding a suspicious package linked to your address.
+receiver: Hello? Haan, main Sharma hi hoon. Suspicious package? Kya baat hai?
+caller: Sir, a package containing undeclared currency was intercepted at the airport and the delivery address listed is yours. This is a serious matter involving potential money laundering. We need to verify some details to ensure your involvement isn't accidental.
+receiver: Undeclared currency? Money laundering? Yeh toh galat ho raha hai! Mein toh kabhi kisi package ka order nahi kiya.
+caller: Sir, we understand this may be confusing. But for security purposes, and to avoid further legal complications, we require you to make a small payment of ₹12,500 as a processing fee to clear this matter. We need to verify your willingness to cooperate.
+receiver: ₹12,500? Processing fee? Kaise? Main toh police station jaunga complaint karne! Yeh scam hai!
+caller: Sir, please don’t raise your voice. This is standard procedure. We can send you a UPI ID to deposit the amount. We must receive it within the hour to prevent further action. Think of it as a small cost to avoid a lengthy investigation.
+receiver: UPI ID? Nahin, nahin, main koi payment nahi karunga. Yeh loag chor hain! Mein apne dost ko phone karta hoon!

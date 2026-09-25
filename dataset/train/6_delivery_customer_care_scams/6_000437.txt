@@ -1,0 +1,6 @@
+caller: Namaste Sir, main Amazon Care se Rohan bolta hoon. Aapke account mein ek transaction fail ho gaya hai, Rs. 3800 ka.
+receiver: Amazon Care? Transaction fail? Mujhe koi notification nahi aaya. Kaise hua ye?
+caller: Haan Sir, technical issue ke wajah se. Chahiye ki hum isko fix karein, warna aapka account suspend bhi ho sakta hai. Isliye aapko OTP verify karna padega.
+receiver: OTP? Amazon kabhi OTP maangta hai phone pe? Yeh kuch ghalat lag raha hai.
+caller: Sir, security ke liye zaroori hai. Main aapko OTP text kar raha hoon. Thodi der mein a jayega. Jaise hi aayega, mujhe bol dijiye. Account safe rakhne ke liye, jaldi karna zaroori hai.
+receiver: Wait a minute... Mujhe online check kar ke dekhta hoon. Sir, ek moment please.

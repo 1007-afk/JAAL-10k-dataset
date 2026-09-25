@@ -1,0 +1,7 @@
+caller: Namaste! Main Atul, Loan Mitra se baat kar raha hoon. Aapko urgent ₹75,000 ka loan approval mil sakta hai, bilkul bina credit check ke.
+receiver: Loan Mitra? Mujhe toh koi idea nahi tha. Kitna interest lagega? Aur process kya hai?
+caller: Sir, interest rate sirf 8% hai, ek limited time offer hai. Aapka mobile number share karein, main jald hi aapke liye options dekhta hoon. Yeh offer sirf aaj ke liye hai.
+receiver: 8% toh kam hai. Okay, mera mobile number 9876543210 hai. Par mujhe yeh bhi batao, koi hidden charges toh nahi?
+caller: Sir, bilkul nahi. Loan Mitra puri transparency maintain karta hai. Abhi main aapke account mein ₹75,000 transfer karne ki process start karta hoon. Par iske liye aapko ek small processing fee ₹2500 Paytm ya Google Pay se deposit karni padegi.
+receiver: ₹2500? Loan se pehle hi ₹2500? Yeh toh zyada lag raha hai.
+caller: Sir, yeh security check ke liye hai. Agar aap nahi karte, toh loan approve nahi hoga aur offer bhi expire ho jayegi. Aapko pata hi nahi, yeh bahut achha chance hai.

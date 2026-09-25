@@ -1,0 +1,8 @@
+caller: Namaste, sir? Ye Rahul se baat kar rahi hoon, Indian Customs Department se. Aapke naam ke against ek parcel mein illegal items mile hain, sir.
+receiver: Illegal items? Mere naam se? Main toh kabhi parcel nahi kiya. Yeh kya keh rahe hain aap log?
+caller: Sir, parcel aaya tha Mumbai se, aur aapke naam se address kiya gaya tha.  Usmein electronic gadgets hain jo import karne ke liye allowed nahi hain.  Isliye aapko ek settlement fee bharne ki zaroorat hai.
+receiver: Kitni fee bharne ki zaroorat hai? Aur kyon meri taraf se parcel aaya? Main toh Delhi mein rehta hoon.
+caller: Sir, fee 15,000 rupees hai.  Aapko ek bank account number doge aur woh amount transfer kar denge.  Tabhi case close ho jayega.  Agar aap cooperate nahi karenge toh hum court mein case file karenge.
+receiver: 15,000? Court mein case file karenge?  Dekhiye, mujhe yeh sab galat lag raha hai. Main ek lawyer se baat karunga aur phir dekhta hoon.
+caller: Sir, yeh aapki responsibility hai.  Dekhiye, hum ko ek number chahiye urgent.  Aapko call back nahi kar payenge.  Aapko fast action lena hai, warna aapko mushkil hoga.  Please provide the account details right away.
+receiver: Okay, wait. Let me check something first.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Inspector Rajan Verma, Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rukwaya gaya hai. Usmein illegal items paye gaye hain.
+receiver: Illegal items? Lekin main koi parcel order nahi kiya tha. Yeh kya ho raha hai?
+caller: Ji, parcel aapke address par register tha. Ab aapko ₹5000 fine bharne hoga taaki parcel release kiya ja sake. Payment UPI se kar sakte hain.
+receiver: ₹5000? Aur yeh illegal items kya hain? Mein toh kabhi parcel order bhi nahi kiya. Koi scam lag raha hai.
+caller: Shanti! Shanti! Aapko tension lene ki zarurat nahi hai. Ham log aapke parcel ko safe rakh rahe hain. ₹5000 bharne ke baad parcel aapke haath mein pohancha jayega. UPI ID: customs.payment@axis.
+receiver: Dekhiye sahab, mujhe yeh sab kuch kuch suspicious lag raha hai. Main police station mein report karunga agar aapne mujhe disturb kiya. Main abhi payment nahi karunga.
+caller: Dekhiye madam, time waste mat karein. Agar aap ₹5000 nahi bharte hain, toh hum parcel ko destroy kar denge aur aapke naam par FIR register kar denge. UPI ID: customs.payment@axis. Jaldi karein!

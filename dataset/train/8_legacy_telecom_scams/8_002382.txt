@@ -1,0 +1,20 @@
+caller: "Namaste, Airtel customer support ke liye Bol Raha Hoon. Aapka prepaid SIM card expiry date 15 dinon mein khatam ho jaega. Kya aap isko renew karna chahte hain?"
+receiver: "Haanji, Airtel? Mein samajh nahin sakta, expiry date? Mera SIM card to sahi chal raha hai. Kuch problem nahi hai. Aap bataein, kis reason par expiry ho raha hai?"
+caller: "Sir, please tension mat lo. Hamari team check kar rahi hai. Aapka full name aur address bataiye, please.  Iske bare me pata karne ke liye hume verification ki zarurat hai."
+receiver: "Mein Rohit Kumar hu. Mera address Delhi mein hai - Hauz Khas, 12/A, Patel Marg.  Aap bataiye, yeh verification kitna important hai?"
+caller: "Thank you Rohit ji. Aapka number 1234567890 hai, right? Sir, hamare server mein ek small glitch aa gaya hai. Isliye aapka SIM card automatically deactivate ho jaega. Ham isko immediately fix kar sakte hain. Just OTP verify karna hoga. OTP mila hai kya aapko?"
+receiver: "OTP? Mere pass koi OTP nahi aaya.  Aapne phone par bhi koi message nahi bheja.  Yeh kya kar rahe hain aap log?"
+caller: "Haan, woh OTP aapke registered WhatsApp account pe gaya hoga. Hamari system mein automatic process hai. Kindly WhatsApp par OTP bataiye taaki hum SIM activate kar sakte hain. Time bahut kam hai, please."
+receiver: "WhatsApp? Mein WhatsApp use nahin karta.  Aapko mera email id do, main check kar lunga.  Ye sab itna complicated kyun hai?"
+caller: “Ji, email id hai - rajesh.kumar@gmail.com.  Please sir, hurry up!  Expiry date se do minute pehle SIM activate karna hai.”
+receiver: “Mujhe email id dikha de, main dekhta hun.  Aapne kaha tha glitch hai? Kya matlab?”
+caller: "नमस्कार, Jio ग्राहक सेवा बोल रहा हूँ। आपका सिम कार्ड अगले सात दिनों में निष्क्रिय हो जाएगा। क्या आप इसे सक्रिय रखना चाहते हैं?"
+receiver: "क्या? Jio से? यह कैसे हो सकता है? मेरा सिम कार्ड ठीक से काम कर रहा है। मुझे कोई समस्या नहीं है। आप बताइये, इसका कारण क्या है?"
+caller: "सर, चिंता न करें। हमारी टीम जांच कर रही है। कृपया अपना पूरा नाम और पता बताएं, ताकि हम सत्यापन कर सकें।"
+receiver: "मेरा नाम अमित सिंह है। मेरा पता मुंबई में है - अंधेरी वेस्ट, 5/3, तिलक नगर रोड।"
+caller: "धन्यवाद, अमित जी। आपका नंबर 9988776655 है, है ना? सर, हमारे सिस्टम में एक छोटा सा त्रुटि है। इसलिए आपका सिम कार्ड स्वचालित रूप से निष्क्रिय हो जाएगा। हम इसे तुरंत ठीक कर सकते हैं। बस एक ओटीपी सत्यापित करना होगा।"
+receiver: "ओटीपी? मुझे कोई ओटीपी नहीं मिला। आपने मेरे फोन पर भी कोई संदेश नहीं भेजा। ये क्या कर रहे हैं?"
+caller: "हाँ, वह ओटीपी आपके पंजीकृत ईमेल आईडी पर गया होगा। हमारी प्रणाली में यह एक स्वचालित प्रक्रिया है। कृपया उस ओटीपी को बताएं ताकि हम सिम को सक्रिय कर सकें। समय बहुत कम है, कृपया।"
+receiver: "ईमेल आईडी? मेरे पास कोई ईमेल आईडी नहीं है। आप मेरे पास पंजीकृत आईडी प्राप्त कर लें। यह सब इतना भ्रमित करने वाला क्यों है? मैं ईमेल की जाँच करता हूँ और अगर ओटीपी मिलता है तो बताऊंगा। कृपया थोड़ा इंतजार करें।"
+caller: “ज़रूर, ईमेल आईडी है - vikram.sharma@yahoo.co.in। कृपया जल्दी करें! समाप्ति तिथि से दो मिनट पहले सिम सक्रिय करना होगा।”
+receiver: “मुझे ईमेल आईडी दिखा दे, मैं देखता हूँ। आपने कहा था कि एक त्रुटि है? इसका क्या मतलब है?”

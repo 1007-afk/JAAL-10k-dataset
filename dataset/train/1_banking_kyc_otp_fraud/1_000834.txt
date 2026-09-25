@@ -1,0 +1,7 @@
+caller: Namaste! Main Axis Bank security department se Rahul Sharma bolta hoon. Aapka account hacking hone ka risk hai. Urgent action lena hoga.
+receiver: Hacking? Kaise? Mera account number batao, main check karta hoon.
+caller: Haan, aapka account number 9123456789 hai? Ek suspicious transaction Gujarat se try kiya gaya hai. Account safe rakhne ke liye, aapko OTP verify karna hoga. Main aapko SMS karega.
+receiver: OTP? Main bank ko OTP kabhi nahi deta. Yeh scam lag raha hai.
+caller: Sir, yeh bank ki protocol hai. Koi aur tarika nahi hai. OTP se confirm hoga ki aap sahi owner hain. Agar confirm nahi kiya, toh account freeze ho jayega aur ₹15,000 block ho jayega.
+receiver: ₹15,000? Freeze? Thoda wait karo, main apne bank ke customer care number se call karta hoon.
+caller: Sir, please jaldi karo! Time kam hai. Account freeze hone se pehle OTP send karo. Yeh last chance hai, sir.

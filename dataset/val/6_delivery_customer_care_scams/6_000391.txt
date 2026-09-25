@@ -1,0 +1,7 @@
+caller: Namaste! Mein Zomato Customer Care se Rahul bol raha hoon. Aapke account mein kuch problem hai, sir/madam. Koi unauthorised transaction attempt kiya gaya hai.
+receiver: Oh! Kuchh transaction? Mujhe toh koi notification nahi aaya. Bataiye kya hua?
+caller: Haan ji. Aapke account se ₹2500 ka payment try kiya gaya tha, Flipkart par. Hamara security system ne catch kiya tha, lekin confirm karna zaruri hai ki aapne kiya ya nahi. Confirm karne ke liye, aapko OTP send karenge, woh bataiye please.
+receiver: ₹2500 Flipkart par? Maine toh aaj tak Flipkart se kuchh bhi nahi kharida! OTP mat bhejo, mujhe yeh zyada suspicious lag raha hai. Aap mujhe Zomato ka customer care number de sakte hain, mein khud call karta hoon?
+caller: Sir/Madam, yeh security protocol hai. OTP se confirm hoga ki account aapka hi hai. Agar aap confirm nahi karenge toh aapka account suspend bhi ho sakta hai. Aapka ₹2500 bhi risk mein aa jayega. Bas OTP bata dijiye, 2 minute ka kaam hai.
+receiver: Account suspend ho sakta hai? ₹2500 risk mein aa jayega? Theek hai, ek minute rukiye, mein Zomato ki website par official number check karta hoon.
+caller: Haan ji, jaldi karo. Time kam hai, system ko confirmation ki zarurat hai. Aapka account safe rakhne ke liye, OTP de dijiye please. Yeh deal abhi valid hai.

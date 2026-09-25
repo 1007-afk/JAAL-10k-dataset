@@ -1,0 +1,9 @@
+caller: Hello, Madam? Is this Mrs. Sharma? I'm calling from GlobalTrade Solutions. We've identified you as a potential investor for our new crypto-mining venture – it’s revolutionary!
+receiver: GlobalTrade Solutions? I don't recall signing up for anything. What’s this about?
+caller: Don’t worry, Madam. We run promotional campaigns to identify promising individuals. This is a chance to earn 12% profit in just 7 days – guaranteed! You only need to invest ₹25,000 initially.
+receiver: 12% in 7 days? That sounds… too good to be true. What kind of crypto are we mining? And can I see some proof of your operation?
+caller: Madam, we're mining a new altcoin called 'NovaCoin,' it's exclusive to our platform. Proof?  We’ve had a phenomenal run so far, just incredible returns! To get started, just send the ₹25,000 to our designated wallet address. It’s simple, quick, and lucrative!
+receiver: A wallet address? Can you give me the address? And what about transaction fees?
+caller: Absolutely, Madam. Here’s the address: 17aB4eC9d2f… Just send the amount, and you’ll see the profits rolling in within a week! There’s a small processing fee of ₹1,500, but trust me, it’s worth it.
+receiver: ₹1,500 processing fee on top of the ₹25,000 investment? And where can I find more information about NovaCoin?
+caller: Madam, the fee is just to activate your mining account. NovaCoin is brand new, that's why the returns are so high! Don't miss out on this amazing opportunity.

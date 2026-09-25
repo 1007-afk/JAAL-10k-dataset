@@ -1,0 +1,8 @@
+caller: Namaste! My name is Arjun, calling from CryptoGainz Pro. We’ve noticed you’ve shown interest in cryptocurrency trading and have a fantastic opportunity for you to earn significant returns.
+receiver: CryptoGainz Pro? Mai toh koi trading nahi kar raha hu, sir.
+caller: That’s perfectly alright! We’re offering a simple task-based earning program. You just need to rate some new mobile applications for us. Each rating pays ₹500, and we’ll deposit the earnings directly into your account.
+receiver: App rating? ₹500 per rating? Kitna apps rate karne hai?
+caller: Initially, you’ll need to rate 10 apps to unlock your first payout. To begin, we need a small verification fee to ensure your account security. It’s just ₹750. This will be refunded once you complete the first 10 ratings.
+receiver: ₹750 verification fee? Refund karoge, bol rahe ho? Account security ka kya zaroorat hai?
+caller: Absolutely, sir! It's standard procedure. Think of it as an activation fee. Once you’ve transferred the ₹750 to the provided UPI ID, we’ll send you the link and instructions for the app ratings. Then, your earnings will start flowing in! The UPI ID is 9876543210@axisbank.
+receiver: Ek minute ruk jao. Mein dekh leta hoon. UPI ID... aur ye apps ka link mujhe kab milega?

@@ -1,0 +1,22 @@
+caller:  Namaste, Mr. Sharma ji, Main Raj Kumar, Reliance Energy se baat kar raha hu. Kaise hain aap sab?
+receiver: Namaste ji, main theek hoon, aap batao. Reliance Energy se? Kya hua?
+caller: Ji, main theek hoon. Aapse ek important matter mein baat karna chahta hu. Aapke electricity bill mein ek small mistake ho gayi hai, ₹500 ka extra charge. Humne check kiya toh pata chula ki aapne online payment nahi kiya hai.
+receiver: ₹500 ka extra charge? Online payment nahi kiya? Wo toh bahut hi bura hua. Batao, kaise pata hua ki payment nahi kiya?
+caller: Ji, humare system mein pata chala ki aapne last month ki bill mein payment kiya tha, lekin yeh mahine payment nahi kiya hai. Aur isliye yeh extra charge dekha ja raha hai.  Aapne bill dekh lein, screenshot lein aur humein bhejin.
+receiver: Screenshot lein aur bhejin? Kaha bhejen? Koi website address dikhayein.  Aur yeh screenshot bhejne ke baad kya hoga?
+caller: Ji, aapko email karna hai - verification@relianceenergy.com. Screenshot jo bhejein, usmein aapka account number bhi clearly mention karein.  Account number toh aapki bill par dikha tha.
+receiver: Account number... mujhe yaad nahi aa raha.  Yeh account number bataiye.  Mujhe screenshot bhejna padega.
+caller: Ji, aapka account number 7894561230 hai. Screenshot bhejin aur phir hum verify karenge.  Iske baad, aapko ₹500 refund mil jayega.  Aapne screenshot bhejna shuru kar dein.
+receiver: Okay, screenshot bhejna shuru karungi.  Bhejte hi aapko notification milega?
+caller: Ji, aapko email received ka notification milega.  Screenshot bhejin aur relax karein, hum verify karte hain.
+caller:  Namaste, Mr. Sharma ji, Main Raj Kumar, Reliance Energy se baat kar raha hu. Kaise hain aap sab?
+receiver: Namaste ji, main theek hoon, aap batao. Reliance Energy se? Kya hua?
+caller: Ji, main theek hoon. Aapse ek important matter mein baat karna chahta hu. Aapke electricity bill mein ek small mistake ho gayi hai, ₹500 ka extra charge. Humne check kiya toh pata chula ki aapne online payment nahi kiya hai.
+receiver: ₹500 ka extra charge? Online payment nahi kiya? Wo toh bahut hi bura hua. Batao, kaise pata hua ki payment nahi kiya?
+caller: Ji, humare system mein pata chala ki aapne last month ki bill mein payment kiya tha, lekin yeh mahine payment nahi kiya hai. Aur isliye extra charge dekha ja raha hai.  Aapne bill dekh lein, screenshot lein aur humein bhejin.
+receiver: Screenshot lein aur bhejin? Kaha bhejen? Koi website address dikhayein.  Aur screenshot bhejne ke baad kya hoga?
+caller: Ji, aapko email karna hai - verification@relianceenergy.com. Screenshot jo bhejein, usmein aapka account number bhi clearly mention karein.  Account number toh aapki bill par dikha tha.
+receiver: Account number... mujhe yaad nahi aa raha.  Yeh account number bataiye.  Mujhe screenshot bhejna padega.
+caller: Ji, aapka account number 7894561230 hai. Screenshot bhejin aur phir hum verify karenge.  Iske baad, aapko ₹500 refund mil jayega.  Aapne screenshot bhejna shuru kar dein.
+receiver: Okay, screenshot bhejna shuru karungi.  Bhejte hi aapko notification milega?
+caller: Ji, aapko email received ka notification milega.  Screenshot bhejin aur relax karein, hum verify karte hain.

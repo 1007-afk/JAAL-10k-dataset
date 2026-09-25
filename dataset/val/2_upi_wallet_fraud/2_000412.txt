@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Bharat Bijli Company se Sunil bolta hu. Aapka electricity bill overdue hai aur humne notice bheja hai. Payment karne ke liye, aapko ek UPI ID dena hoga.
+receiver: Arre bill overdue? Mujhe toh koi notice mila nahi. Bharat Bijli se phone hai kya?
+caller: Haan ji, Aunty. System mein dikha raha hu, aapka account number hai 1234567890. Payment karne ke liye, mujhe aapka PhonePe UPI ID bataiye. Koi late fee apply hogi agar aap jaldi nahi karte.
+receiver: UPI ID? Bill payment ke liye UPI ID kyun chahiye? Mai toh net banking se pay karti hu hamesha.
+caller: Aunty, system mein kuch technical problem aa gaya hai. Isliye humko UPI ID se verify karna padega. Koi tension nahi lijiye, sirf ek minute lagega. Aapka PhonePe ID bataiye, mai verify kar dunga.
+receiver: Hmm… thoda shaq aa raha hai. Koi account number ya OTP share nahi karna chahiye. Mai Bharat Bijli office se contact karti hu.
+caller: Aunty, agar aap payment nahi karte toh light cut ho jayegi. Please, fast karo. Yeh final warning hai. Aapka UPI ID bataiye, warna light kaat denge.
+receiver: Light kaat denge? Bahut hi badmash ho tum log! Mai police mein complaint karti hu.

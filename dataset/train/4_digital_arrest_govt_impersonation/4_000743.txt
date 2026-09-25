@@ -1,0 +1,8 @@
+caller: Namaste, madam! Mai Special Task Force se Sunil Verma bolta hoon. Aapke naam par ek parcel customs mein rukaya gaya hai, jo Mumbai se aa raha tha.
+receiver: Parcel? Mujhe toh koi parcel order kiya tha. Kya hua?
+caller: Madam, parcel mein illegal drugs paye gaye hain. Yeh ek serious matter hai aur aapko ismein phasne se bachaane ke liye humein thoda verification karna hoga.
+receiver: Drugs? Yeh toh galat hai! Main toh kabhi drugs nahi leta. Kya koi proof hai?
+caller: Madam, proof humare paas hai. Aapko ek video call karna hoga Senior Inspector Sharma se. Uske baad hum aapko bachaane ke liye procedure bataenge. Lekin iske liye ₹15,000 ka fine bhar na padega, taaki parcel ko aapke naam se clear kiya ja sake. Call ka number hai 9876543210.
+receiver: ₹15,000? Aur video call? Wait a minute…yeh kuch toh judtab hai. Main police station mein report karungi.
+caller: Madam, police station mein report karne se koi faida nahi hai. Yeh matter bahut sensitive hai aur hume seedhe solve karna hai. ₹15,000 bhar dijiye, aur hum aapko free kar denge. Warna aapko jail jaane ka khataar hai.
+receiver: Yeh fraud hai! Main abhi call kat rahi hoon.

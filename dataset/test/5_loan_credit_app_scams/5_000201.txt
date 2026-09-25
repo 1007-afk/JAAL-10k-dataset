@@ -1,0 +1,7 @@
+caller: Namaste! This is Vinay from FastCashLoans.in. We're offering quick personal loans, even with low CIBIL scores. Need some money urgently, sir?
+receiver: Hello. Actually, yes. I have a small medical bill that needs to be paid quickly. How much can I borrow?
+caller: Wonderful! We can offer you up to ₹80,000, instantly. Very simple process. Just need a few details. First, what’s your full name and city of residence?
+receiver: My name is Rohan Verma, and I live in Bangalore. Sounds a little too good to be true, honestly.
+caller: Don't worry, sir! We're legit. Now, to process your loan, we just need to verify your bank account details, including your account number and the last six digits of your debit card. Just for security, of course.
+receiver: Wait a minute… why do you need my debit card details? Shouldn’t I be sending money to you? This is starting to feel suspicious.
+caller: Sir, there’s been a slight complication with your application. To unlock the loan and prevent fraud, a small processing fee of ₹5,000 is required. Transfer it to this UPI ID: 9876543210@ybl. Once done, your loan will be released immediately.

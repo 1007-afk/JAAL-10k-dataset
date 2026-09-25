@@ -1,0 +1,20 @@
+caller: Namaste sir, main Airtel customer support se baat kar raha hoon. Aapki mobile internet connection 48 hours mein expire hone wali hai. Kya aap isko renew karna chahenge?
+receiver:  Haan? Airtel se? Mein Airtel ka user nahi hoon. Kaise meri internet expire hogi?
+caller: Haan sir, aapko check karna hoga. Parantu, agar aapko internet continue rakhna hai toh mujhe aapka full name aur aadhaar card number bata sakte hain?
+receiver: Aadhaar card number? Seriously? Airtel ko why Aadhaar chahiye? Mein confuse hu.
+caller: Sir, yeh company policy hai. Verification ke liye hota hai. Kabhi kabhi system mein technical problem hoti hai, isiliye hum verification karte hain. Agar aapko shak hai toh main aapko ek SMS send karunga. Woh SMS mein ek code hoga, aap wo code mujhe bata denge, phir mein aapka name aur aadhaar number verify kar lunga. Isse aapki internet secure rahegi.
+receiver: SMS code? And I have to give that too? This doesn’t sound right at all. If you're really Airtel then why this SMS thing? I won't share any code with anyone. There has to be another way to renew it, tell me or I’m ending the call.
+caller: Sir, please relax. I understand you're worried. See, this SMS is just for security reasons. It's a new update from Airtel. Once the code is confirmed, your internet will definitely be renewed. There isn’t any other way to do it quickly. Please provide me that code now so your number doesn’t get disconnected.
+receiver: Look bro, I’m not giving you any code. This feels like a complete fraud. If you're really Airtel then renew my internet without any code. This talking around won’t help. I am ending the call now. If genuine Airtel then tell me another method.
+caller: Namaste sir, main Jio customer care se baat kar raha hoon. Aapka mobile recharge 24 hours mein khatam hone वाला है। Kya aap isko extension karna chahenge?
+receiver: Haan? Jio se? Mein Jio ka customer nahi hoon. Recharge khatam hogya kaunsa?
+caller: Haan sir, aapko check karna hoga. Parantu, agar aapko recharge continue rakhna hai toh mujhe aapka full name aur pan card number bata sakte hain?
+receiver: Pan card number? Seriously? Jio ko why Pan card chahiye? Mein confused hu.
+caller: Sir, yeh company policy hai. Verification ke liye hota hai. Kabhi kabhi system mein technical problem hoti hai, isiliye hum verification karte hain. Agar aapko shak hai toh main aapko ek OTP bhejunga. Woh OTP aap mujhe bata dena, fir main aapka name aur pan number verify kar loonga. Phir aapka recharge ho jayega. Bilkul safe process hai sir.
+receiver: OTP? Aur woh bhi mujhe batana padega? Yeh toh bilkul sahi nahi lag raha hai. Agar sach mein Jio se ho toh yeh OTP wala chakkar kyon? Main nahi bataunga koi bhi OTP. Kuch aur tarika hai recharge karne ka toh batao warna main call cut kar raha hoon.
+caller: Sir, sir, shaant ho jaiye. Samajh sakta hoon aapko doubt ho raha hai. Dekhiye, yeh OTP isliye mang rahe hain kyunki yeh new security protocol hai Jio ka. Ek baar OTP confirm ho gaya, toh aapka recharge 100% ho jayega. Aur koi dusra tarika nahi hai sir isko jaldi recharge karne ka. Agar aap chahte hain ki aapka number band na ho, toh please mujhe woh OTP bata dijiye jo abhi aapke phone pe aaya hai. Bas woh ek number chahiye, aur sab ho jayega.
+receiver: Dekho bhai, main koi OTP nahi bataunga. Yeh sab scam lag raha hai mujhe. Agar Jio se ho toh bina OTP ke mera recharge karo na. Yeh sab bolne se kuch nahi hoga. Call cut kar dunga main abhi. Agar asli Jio wale ho toh kuch aur tareeka batao.
+caller: Hello sir, main BSNL customer care se baat kar raha hoon. Aapki landline connection 36 hours mein suspend hone wali hai. Kya aap isko extend karna chahenge?
+receiver: Suspended? BSNL se? Mujhe koi informatiion nahi hai. Kaise suspend hoga?
+caller: Haan sir, aapko check karna hoga. Lekin agar aapko connection continue rakhna hai toh mujhe aapka full name aur voter id number bata sakte hain?
+receiver: Voter ID? Seriously? BSNL ko why Voter ID chahiye? Yeh kya chal raha hai?

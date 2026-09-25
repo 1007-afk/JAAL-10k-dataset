@@ -1,0 +1,9 @@
+caller: Hello, this is Rahul Verma calling from BlueDart logistics. We have a package addressed to you, but there's a discrepancy with the delivery address. Could you please confirm your full name and delivery address for verification?
+receiver: Haan, bolo. Mera naam Priya Sharma hai, aur address Flat 302, Sunshine Apartments, Sector 12, Faridabad.
+caller: Thank you, Ms. Sharma. Our system indicates a small customs processing fee of ₹750 is required to clear the package. It's a standard procedure for international shipments. Can you please provide the OTP you just received on your registered mobile number?
+receiver: ₹750? Mujhe koi message nahi aaya hai. Mainne kabhi international package order bhi nahi kiya. Kya confirm kar sakte hain ye package mera hi hai?
+caller: Yes, absolutely. To verify, can you tell me the last four digits of the card you usually use for online transactions? Just to confirm your identity and prevent fraudulent activity. It is for security purposes only.
+receiver:  Dekhiye, mujhe ye thoda suspicious lag raha hai. Main koi bhi card details nahi dungi. Tumhara naam kya hai aur tum kon se department se bol rahe ho BlueDart mein?
+caller: My name is Raj Patel, I’m from the customs clearance department.  To expedite the process, if you could just confirm the OTP, the package will be released immediately. Otherwise, it may get delayed, and you will be charged additional storage fees.
+receiver:  Nahi, thank you. Main abhi baat nahi karna chahunga. Bye.
+caller: Wait, Ms. Sharma! This is a time-sensitive matter. If you don’t confirm, the package will be returned to sender. Please, just the OTP for a smooth delivery.

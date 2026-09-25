@@ -1,0 +1,8 @@
+caller: Namaste! Speaking with Mr. Verma, correct? This is Raj from ‘QuickCash Connect’. We’ve noticed you recently applied for a small personal loan online. Great news – your application has been pre-approved for up to ₹75,000! Just a few quick steps to finalize it.
+receiver: Haan, main Verma hi hoon. ₹75,000? Kya zaroorat hai mujhe? Batao, kya karna hai?
+caller: Excellent! To activate your loan, we need to verify your WhatsApp contact. Please send a screenshot of your WhatsApp contacts to this number – 7012345678. This is just a standard security procedure, sir. It will only take a minute.
+receiver: WhatsApp contacts? Screenshot bhejna hai? Kya security procedure hai yeh? Kuchh doubtful toh lag raha hai.
+caller: Sir, don’t worry! It’s to prevent fraudulent activity. Many users have reported phishing scams. This is how we protect your information. After we receive your contacts, we’ll send you a secure link to complete the final verification. Just one screenshot, please.
+receiver: Okay, okay. Bas ek screenshot. De raha hoon. Screenshot bhej diya. Ab kya?
+caller: Thank you, Mr. Verma. Just perfect. Now, a small processing fee is required to activate your loan. It's ₹2,500, a one-time payment. Please send it to UPI ID: quickcash.pay@upi. Once the payment is confirmed, your ₹75,000 will be credited to your account within the hour.
+receiver: ₹2,500? Lekin application mein toh kuch charge bataya nahin tha!

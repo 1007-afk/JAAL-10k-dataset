@@ -1,0 +1,9 @@
+caller: Namaste sir, main Airtel customer service se bol raha hoon. Aapke phone mein jo SIM hai, woh 5 din mein deactivation hone wali hai. Kya aap isko extend karna chahte hain?
+receiver: Namaste, main Airtel ka user hoon, par mujhe koi deactivation ka notification nahi mila. Mein kaunsa number ki baat kar rahe hun?
+caller: Sir, Airtel ke notifications sometimes late hote hain. Don’t worry, main aapka SIM extend kar dunga. Par uske liye mujhe kuch information chahiye. Aapka registered email address bataiye.
+receiver: Haan, mera registered email id hai example@email.com. Aap bataiye kya requirement hai?
+caller: Sir, thank you for providing that. Now I need to know your SIM PIN. It’s a 6-digit number that you set when you activated your SIM. Can you tell me your SIM PIN?
+receiver: SIM PIN? Main SIM PIN nahan set kiya! Aap kaise maang rahe hain? Mein toh sirf number use karta hun.
+caller: Sir, it's essential for security purposes. Every SIM has a PIN. You can find it on the sticker on your SIM card – it's a 6-digit code. Please provide it so I can extend your SIM.
+receiver: Arey yaar, SIM card toh maine kabhi check bhi nahi kiya. Woh phone ke inside hoga. Kaise pata karunga? Kya koi aur option nahi hai?
+caller: Sir, please don't panic. Just look for the small sticker on the SIM tray. It usually says "ICCID" and then the PIN is next to it.  It's important to do this quickly; otherwise, your SIM will be deactivated.

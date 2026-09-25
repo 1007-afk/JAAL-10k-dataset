@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Verma? Good morning! I’m calling from Bluebird Courier. We have a package for you, but there’s a slight issue with the delivery address. It says there's an incorrect pin code listed.
+receiver: Oh, really? Yes, this is Mrs. Verma. I was expecting a delivery. What’s the problem with the pin code?
+caller: Yes, ma’am. The system is flagging it. It's showing 400001 instead of what’s on the package. To confirm you are the recipient and correct the address, could you please share the OTP we just sent to your registered mobile number? It's purely for security purposes.
+receiver: An OTP? I haven't received any OTP. Are you sure you're calling from Bluebird Courier?
+caller: Ma’am, it's very important for us to verify your identity. Without the OTP, we can't proceed with the delivery.  We need to make sure it doesn't land up with the wrong person. Just a quick four-digit code, and your package will be on its way.
+receiver: This is getting a little strange. I’m not comfortable giving out an OTP without verifying who you are. Can you give me a reference number for the package? And a contact number for Bluebird Courier I can call to confirm?
+caller:  I understand your concern, ma'am. But due to security protocols, I cannot disclose the reference number over the phone.  However, to resolve this quickly, we’re offering a one-time exception:  just a small ₹200 as a security deposit to fast-track the address correction.  This will ensure your package is delivered promptly.  You can pay via UPI using the number 9876543210@ybl.

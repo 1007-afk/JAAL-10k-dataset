@@ -1,0 +1,9 @@
+caller: Namaste sir, is this Mr. Rajesh Kumar? This is Inspector Sharma calling from the Delhi Customs Department.
+receiver: Haan, bolie. What’s the matter?
+caller: Sir, we have intercepted a parcel registered under your name at Indira Gandhi International Airport. Preliminary scans indicate the presence of suspicious items, potentially linked to international drug trafficking.
+receiver: What? Drug trafficking? That’s impossible! I never sent any parcel.
+caller: Sir, we understand it's concerning, but protocol dictates we investigate. To clear this matter quickly, we need you to verify some details and make a small payment to cover processing and inspection fees - just ₹15,000. We need to ensure no illegal substances are entering the country.
+receiver: ₹15,000? This sounds like a scam. I’m not paying anything until I’m sure about this. I want to speak to your superior.
+caller: Sir, unfortunately, our senior officers are currently engaged in a crucial operation. To avoid further legal complications and potential arrest, you must settle this immediately. We have your location details and can easily dispatch a team if you delay. I'm also transferring you to a video call with our verification officer to confirm your identity. Please accept the call on WhatsApp.
+receiver: Wait, arrest? What evidence do you have? I’m going to call the police.
+caller: Sir, please don’t do that. This is to protect you, not harm you. I’m sending you the officer's WhatsApp number. Accept the call immediately and let's resolve this quietly. His number is 9876543210. This is your final opportunity to cooperate.

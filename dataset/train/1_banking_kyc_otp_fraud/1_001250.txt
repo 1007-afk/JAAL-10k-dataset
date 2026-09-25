@@ -1,0 +1,11 @@
+caller: Namaste, sir! Main State Bank of India se Aakash bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai.
+receiver: Haan, kya hua? Kuch problem hai?
+caller: Ji, sir. ₹15,000 ka transaction Kerala mein hua hai. Aapne kiya tha yeh transaction?
+receiver: Nhi, bilkul ni kiya. Mujhe toh pata bhi ni.
+caller: Theek hai sir. Isko verify karne ke liye, hume aapka KYC update karna hoga urgently. Account suspend bhi ho sakta hai agar aap cooperate nahi karte. Aapka Aadhaar card number bataiye, please.
+receiver: Aadhaar card number? Woh kyun?
+caller: Sir, security ke liye. Bas naam aur Aadhaar number do, fir main aapko ek OTP send karunga verification ke liye. Account safe rahega.
+receiver: Theek hai, mera Aadhaar number [Aadhaar Number - Example: 123456789012] hai.
+caller: Thank you sir. Ab aapke mobile number par ek OTP bheja jaa raha hai. Woh OTP bataiye.
+receiver: [OTP - Example: 567890]
+caller: Shukriya sir! Ab aapka account verify ho gaya hai. Lekin ₹500 ka verification charge laguga. Aap Paytm se ₹500 send karein.

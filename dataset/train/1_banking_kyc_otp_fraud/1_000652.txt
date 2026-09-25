@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio digital support se baat kar raha hoon. Aapka internet connection 36 hours mein suspend hone wali hai. Kya aap isko renew karna chahte hain?
+receiver: Oh god, Jio? Mein to renew karna chahta hoon, yeh mera number hai 87xxxxxx43. Batao mujhe kya karna hai?
+caller: Ji sir, absolutely. Aapka internet connection renew ho jaayega. Par sabse pahle, mujhe aapki account details check karne ki zarurat hai. Kya aap mujhe apni birth date bata sakte hain?
+receiver: Mera DOB hai 22nd December 1988.  Aur aapko kya chahiye?
+caller: Excellent! 22nd December 1988. Shukriya. Aur sir, security ke liye, please apne PAN card ke last 4 digits bataiye.
+receiver: Haan ji, PAN ke last 4 digits... ek minute... yeh hain 9123.  Aapko kuch aur puchna hai?
+caller: Sir, aapki account details verify ho gayi hain. Abhi aapko ek OTP aapke registered number par aa jayega. Woh OTP aapko jab mile, toh mujhe bataiye, taaki main aapka internet renew kar saku. Aur sir, koi bhi bank account number ya ATM PIN kisi ko mat bataiye, okay?
+receiver: Haan ji, understood. OTP ka wait kar raha hoon. Aa jaye toh tumhein immediately bata dunga.  Bas OTP hi hai ya koi aur step hai?

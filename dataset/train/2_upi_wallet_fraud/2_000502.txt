@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Verma? I'm calling from FreeCash Rewards. We’ve noticed you recently completed some surveys, and you’re eligible for a significant cashback reward - ₹18,500!
+receiver: ₹18,500? FreeCash Rewards? Mein toh kabhi surveys nahi ki.
+caller: That’s strange, Madam. Our system shows a registered account under your number. To release the funds, we need to quickly verify your UPI ID. It's just a formality to prevent fraud. Can you share your PhonePe UPI ID with me?
+receiver: UPI ID? Par why do you need my UPI ID? This sounds fishy. FreeCash Rewards toh main kabhi suni hi nahi.
+caller: Madam, it's standard procedure. We need to link the reward to your account. Just send a screenshot of your PhonePe home screen showing your UPI ID – it's a quick and secure process. Also, there's a small processing fee of ₹250 to activate the reward.
+receiver: ₹250 processing fee? And a screenshot? Nahin, nahin, yeh galat hai. Main koi screenshot nahi bhejoonga. Aap log fraud kar rahe ho.
+caller: Madam, please don't be alarmed. This is a legitimate offer. Without the processing fee and UPI verification, we cannot release your winnings. Think about it - ₹18,500 is a substantial amount!
+receiver: ₹18,500? Acha, ek minute...Okay, fine. Send kar raha hoon screenshot. Par koi bhi mistake nahi.
+caller: Wonderful! Please send the screenshot to 7000000000. Once we receive it, we'll process the ₹250 fee and the ₹18,500 reward will be credited to your PhonePe wallet immediately

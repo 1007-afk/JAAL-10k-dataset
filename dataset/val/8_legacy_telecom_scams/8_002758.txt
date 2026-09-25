@@ -1,0 +1,8 @@
+caller: Namaste! Main Rohan hu, ‘Digital Solutions’ se baat kar raha hun. Mujhe ek small issue hai, check karna chahta hun. Aapka number mera database mein dekha, kya aapko yaad hai ki last month kisi app ko update kiya tha?
+receiver: Namaste Rohan ji, haan, main update kiya tha. Kya hua?
+caller: Achcha, thanks! Main dekh raha hun, seems like woh update ke baad, ek automatic subscription aa gaya hai - ‘Prime Entertainment Plus’. Amount ₹899 hai.  Aapne kabhi yeh app try kiya tha?
+receiver: Prime Entertainment Plus? No, honestly, I don't remember downloading anything like that. But ₹899? That's quite a lot.
+caller:  Yeh, technically, wo free trial tha, lekin expiry date khatam ho gayi hai.  So, now it’s becoming a paid subscription.  Main sirf aapko confirm karna chahta hun ki aapne yeh subscribe kiya tha ya nahi.  Isliye, main aapki complete name aur pin code check karna chahta hun.  It’s only for security reasons, you know?
+receiver: Pin code? Seriously?  Just asking for my pin code?  Mujhe abhi toh pata bhi nahi hai yeh app kya hai.  Main aapko koi details nahi de sakta.  Kahaan pehle yeh idea aaya ki mere account se ₹899charge hua?
+caller: Sir, I understand your hesitation, but this is standard procedure.  Main aapko assurance deta hun, koi fraud nahi hai.  Agar aap apne account details provide karte hain, toh main aapko immediately refund process initiate kar sakta hun.  Please, just give me your full name and pin code so I can access your account information.
+receiver: Refund process?  Koi refund nahi hoga agar main apni details de dunga.  Aapka number fake hai.  Main aapko koi bhi information nahi dega.  Yahan par kyon call kiya hai?  Aap kis company ka kaam karte hain?

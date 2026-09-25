@@ -1,0 +1,11 @@
+caller: Hello, sir? This is Ankit from LoanExpress. We’ve approved your loan application for ₹15,000. Congratulations! Just need a few quick details to finalize it.
+receiver: Oh, really? That's great news! I was hoping to get a loan quickly. What details do you need?
+caller: Wonderful! Firstly, for verification purposes, could you share a selfie holding a white sheet of paper with your PAN number clearly written on it? It’s standard procedure to prevent fraud.
+receiver: A selfie with my PAN? That seems a bit odd, doesn't it?
+caller: Sir, it's purely for security. Don’t worry, it’s completely safe with us. It's just to confirm you are the account holder. Send it to this WhatsApp number: [invent a WhatsApp number]. Once we receive it, the money will be credited to your account within 15 minutes.
+receiver: Okay, fine. I'll send the selfie. But I want the money in my account as soon as possible.
+caller: Excellent, sir! Just received your selfie. Now, to activate the loan and avoid processing delays, we need a small upfront charge of ₹750 as a processing fee. You can deposit it in this UPI ID: [invent a UPI ID].
+receiver: ₹750? I thought the loan was approved already. Why do I have to pay now?
+caller: Sir, this fee covers the final documentation and activation. It's a one-time charge. Without it, the loan cannot be disbursed. Many people pay it, sir.
+receiver: Hmm… Okay, I’ll transfer it. Please make sure the money comes to my account immediately after that.
+caller: Absolutely, sir! The transaction is reflecting. Just a moment... Sir, there seems to be a slight technical

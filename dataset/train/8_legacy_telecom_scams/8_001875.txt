@@ -1,0 +1,9 @@
+caller: Namaste, aapke mobile provider se baat kar raha hoon. Aapka naam Mr. Verma hai na?
+receiver: Haan, main hi Mr. Verma hoon. Kaise haal hain?
+caller: Namaste Mr. Verma ji! Apne network provider se call hai. Maine dekha hai ki aapka current plan expiry date leke aarah hai. Agar aapko is plan ko renew nahi karna hai, to aapko coming months mein 70% zyada data usage hogi, aur wo bhi aapki existing bill par. Yeh ek special offer hai, aur iske liye aapko 8877665544 pe call karna hoga.  Yeh number hamara official activation center hai.  Aapke liye sirf 5 activations available hain, aur yeh offer kal raat tak chalega.  Kaha main aapko iske bare mein aur details de saku?
+receiver:  Oh wow, 70% zyada data?  That’s quite a lot!  Haan, main samajh raha hoon.  Par ye 8877665544 number pe call karna hai?  Ye number genuinely aapka hi hai na?  Aur sirf 5 activations bache hain, matlab iska koi deadline hai, hai na?
+caller:  Ji benar Mr. Verma ji!  Yeh number hamara official customer support number hai.  Aur haan, yeh ek limited time offer hai, isiliye deadline hai.  Aapke liye sirf 3 activations bache hain!  Agar aap is offer ko avail karna chahte hain, to jaldi se 8877665544 pe call kar lijiye.  Is offer ko miss mat kijiye!
+receiver:  Acha, sirf 3 bache hain?  Dekho, main apne internet speed ko dekhna chahta hoon, is offer se badhtein phir.  Kya aap mujhe apna website address bata sakte hain jahan main jo kar sakta hoon vo dekh sakta hoon?
+caller:  Ji sir, aapko hamara website www.exampleprovider.com per jaana hoga.  Theer aapko apne account details dekhne aur check karne ke liye option milega.  Aapko sirf 2 activations bache hain!  Jaldi kar lijiye.
+receiver:  Okay, thank you for the information. Main website per jaaunga.  Phir aapko call karunga, agar kuch pata chala.
+caller:  Arre, sirf 1 activation bacha hai!  Mat wait karein, jaldi call kar lijiye.  Is offer ko miss mat kijiye!

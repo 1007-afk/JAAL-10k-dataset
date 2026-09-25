@@ -1,0 +1,11 @@
+caller: Main Bharat Telecom se calling karta hoon. Aapke 2018 ke account statement mein 650 unused data vouchers hain. Ismein koi problem hai, aur main aapke details verify karna chahunga. Aapka naam aur doobjee janm din bataiye.
+receiver: Oh, Bharat Telecom se? Haanji, mene kabhi iski aankh matki. Naam toh mera Priya Devi hai, aur doobjee janm din hai 2nd November 1992.
+caller: Dhanyavaad, Ms. Devi.  Ab main aapke account ke last three digits confirm karna chahunga.  Woh hain [Invent Last 3 Digits - e.g., 987]?
+receiver: Haanji, woh hain 987.  Aapko kuch pata hai ye digits kyon le rahe hain?
+caller: Shukriya.  Aapke unredeemed data vouchers ko activate karne ke liye, ek small processing charge lena hoga. Is charge ka purpose hai data vouchers ko system mein acknowledge karna.  Yeh charge ₹299 hogi.  Iske baad aap sabhi data vouchers ko easily redeem kar sakte hain.
+receiver: ₹299? Processing charge? Data vouchers redeem karne ke liye?  Yeh thoda zyada lagta hai.  Kahaan par payment ho sakta hai? Online ho sakti hai? Ya sirf cash mein hi ho sakta hai?  Aur yeh vouchers expiry date kab tak hai?
+caller: Haanji, Ms. Devi.  Online payment possible hai through UPI.  Vouchers ko expiry date nahi hota, lekin system mein activation ke liye yeh charge compulsory hai.  Yeh aapke data vouchers ko secure rakhne ka ek zaroori step hai.
+receiver: UPI?  Thoda confusion ho raha hai.  Mujhe yeh confirm karna hai ki yeh genuine hai. Kya aap mujhe Bharat Telecom ke customer care number batayenge?  Mujhe uske saath bhi check karna chahiye.
+caller: Haanji, Bharat Telecom ke customer care number hai [Invent Customer Care Number - e.g., 1800-889-9999].  Aap uske saath bhi contact kar sakte hain.  Par yaad rakhein, aapke data vouchers ko lose karne ka risk hai.
+receiver: Okay, thakka gaya hoon.  Main customer care se contact karunga. Dhanyavaad.
+caller: Dhanyavaad, Ms. Devi.  Aapko assist karne mein khushi hui.  Shubh Prabhat!

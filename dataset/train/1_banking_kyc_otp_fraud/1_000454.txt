@@ -1,0 +1,19 @@
+caller: Hello? Yes, is this Mr. Sharma? Namaste! I am Vikas from SecureGuard Security Solutions. We were calling about the recent email you received concerning your home security system upgrade. You responded saying ‘Update Details’ right? We need to quickly verify some information to ensure everything goes smoothly. Are you available to chat briefly?
+receiver: Namaste Vikas! Yes, I am Mr. Sharma. No, I didn't receive any email about a home security system upgrade. That's strange. What exactly are you trying to verify?
+caller: Excellent! We see you did respond. Okay, so we've noticed a slight discrepancy – our records show you inquired about installing a motion sensor and a smart doorbell last month. Can you confirm if you actually purchased these items? It’s important to keep your account secure.
+receiver: Motion sensor and a smart doorbell? I don't remember buying those. I think someone might have used my email address. This doesn't sound right at all. What do you want to do with this information?
+caller: Don’t worry, we can resolve this easily. To proceed, we require a quick confirmation of your bank details for a one-time transaction to clear the outstanding balance on the previous order. Could you please provide your account number and IFSC code?
+receiver: Hold on! You're asking for my bank details? That seems very suspicious. I wasn’t aware of any previous order. I need to investigate this further.
+caller: Of course! We just want to make sure everything is legitimate. We’ll also need your date of birth for verification purposes. Please provide it now.
+receiver: My date of birth? Why do you need that? This is getting increasingly unsettling. There has to be another way to verify my identity.
+caller: It’s standard procedure, Mr. Sharma. For security reasons, we absolutely need this information. Now, let's move forward. Your date of birth is...
+receiver: Namaste Rohan! Yes, Ms. Kapoor here. I did respond to the loan inquiry. But honestly, I haven't applied for any personal loans recently. What information are you needing?
+caller: Wonderful! Our system indicates you expressed interest in a loan amount of ₹50,000. We need to confirm your employment status and current salary to assess your eligibility. Could you tell us your profession and monthly income?
+receiver: I’m a freelance graphic designer, and my average monthly income is around ₹30,000. But I’ve never applied for a formal loan. Why are you suddenly asking these questions?
+caller: That's perfectly fine. However, for regulatory compliance, we require a copy of your latest payslip and a scanned ID proof. Would you be able to send those documents via WhatsApp to this number?
+receiver: Sending sensitive documents through WhatsApp? That’s incredibly risky! I’m very cautious about sharing my personal information online.
+caller: Absolutely! It’s a secure channel. And as an added incentive, we’re offering a slightly reduced interest rate if you apply today. It’s a limited-time promotion only for applicants who provide immediate documentation.
+receiver: Reduced interest rate? That sounds tempting, but I’m still hesitant. Can you assure me there are no hidden fees or charges involved?
+caller: Certainly! All our services are completely transparent. The only cost associated with the loan is a minimal processing fee of ₹499, which covers administrative expenses. It’s a small investment for a significant benefit.
+receiver: ₹499? Even for a processing fee? This is starting to feel like a scam. I’m going to end this call.
+caller: Please reconsider, Ms. Kapoor! This offer won't be available for long. Providing your documents now will expedite the approval process. Just send the payslip and ID scan to this number. Thank you for your cooperation!"""

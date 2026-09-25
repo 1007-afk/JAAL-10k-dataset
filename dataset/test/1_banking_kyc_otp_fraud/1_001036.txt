@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein Airtel security department se Rahul Verma bol raha hoon. Aapke Airtel account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Suspicious transaction? Kab hua? Mujhe toh koi notification nahi aaya.
+caller: Sir, yeh transaction kal raat ko hua tha. Kisi ne OTP se aapke account mein access karne ki koshish ki hai. Aapki security ke liye, humein aapke bank account details confirm karne honge.
+receiver: Bank account details? Kaise? Airtel ko mere bank account details ki kya zaroorat hai? Yeh toh scam lag raha hai.
+caller: Sir, sorry, isko seedhe Airtel security protocol mein include kiya gaya hai. Account protect karne ke liye, humein aapka account number aur last 4 digits ka CVV number chahiye. Agar aap details nahi denge, toh aapka account suspend ho sakta hai.
+receiver: Account suspend? Aur CVV number bhi? Nahin, main yeh nahi karunga. Mein Airtel customer care number se call karta hoon aur confirm karta hoon.
+caller: Sir, customer care busy hai, is emergency situation mein time nahi hai. Please, sir, security ke liye cooperate karein. Account suspend hone se bachne ke liye, jald se jald details dijiye.
+receiver: Theek hai, ek minute. Mein check karta hoon. Par mujhe yeh risky lag raha hai.

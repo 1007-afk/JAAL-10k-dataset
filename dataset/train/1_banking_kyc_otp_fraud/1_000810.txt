@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Priya, calling from Paytm Payments Bank. We’ve noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? Everything seems fine on my end.
+caller: Sir, there was a failed transaction attempt from a new device. To secure your account and prevent any unauthorized access, we need to verify your details. Can you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Why do you need my OTP? Paytm never asks for OTPs over the phone.
+caller: Sir, this is standard protocol for security verification. We're trying to prevent fraud. If you don’t share the OTP, we’ll have to temporarily freeze your account for your own safety. We'll also need to confirm your Aadhaar number for complete verification.
+receiver: Freeze my account? Hold on a minute. This sounds very fishy. I'm not giving you anything. I’m going to call Paytm directly from their official number.
+caller: Sir, please don't do that. This is the official Paytm verification line.  Time is of the essence. If you refuse to cooperate, your account will be suspended immediately.  We just need a quick confirmation, sir.

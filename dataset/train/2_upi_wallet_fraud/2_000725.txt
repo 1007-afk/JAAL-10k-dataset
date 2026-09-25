@@ -1,0 +1,7 @@
+caller: Namaste, main Flipkart customer care se Rohan bol raha hoon. Aapko ek cashback offer mil raha hai, bahut achha offer hai!
+receiver: Flipkart offer? Mujhe koi notification nahi aaya. Kya offer hai?
+caller: Haan, dekhiye, aapne last transaction mein ek special lottery jiita hai. 50,000 ka cashback aapko mil sakta hai! Bas, isko claim karne ke liye, ek small processing fee bhar deni hai, sirf 2,500 rupay.
+receiver: 2,500 rupay? Processing fee? Flipkart aise fee lete hain?
+caller: Haan, sir, security check ke liye hai. Iske bina cashback nahi mil payega. UPI se bhar den aap, Paytm ya PhonePe, jisko convenient lage. Number main send karunga.
+receiver: Theek hai, number send karo. Par mujhe thoda shaq ho raha hai…
+caller: Haan, sir, jald karo. Offer limited time ke liye hi hai. Payment karne ke baad, cashback instantly aapke account mein transfer ho jayega!

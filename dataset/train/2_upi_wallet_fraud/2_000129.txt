@@ -1,0 +1,7 @@
+caller: Namaste, Madam/Sir. Mein FreeCharge se Rohan bolta hoon. Aapke FreeCharge wallet mein ₹10,000 ka cashback offer aaya hai, sirf limited time ke liye.
+receiver:  FreeCharge? Cashback offer? Yeh kaise? Mujhe toh koi notification nahi mila.
+caller: Haan ji, yeh offer sirf select customers ke liye hai. Aapki loyalty dekhte hue hum aapko is offer se jodne ki soch rahe hain. Cashback claim karne ke liye, aapko bas apna wallet OTP do, verification ke liye.
+receiver: Wallet OTP? Mein apna OTP kisi ko nahi dunga. Yeh theek nahi lag raha. FreeCharge wale toh aise call nahi karte.
+caller: Madam/Sir, trust please! Yeh security process hai, hum aapki security ke liye hi call kar rahe hain. Agar aap OTP nahi denge, toh yeh offer expire ho jayega, aur aap ₹10,000 ka loss suffer karenge. Bus ek minute ka kaam hai, OTP send kijiye.
+receiver: ₹10,000 ka loss? Wait, wait. Mein FreeCharge app mein check karta hoon.
+caller: Jaldi kijiye, offer abhi hi close hone wala hai! Bas OTP send kijiye, aur cashback aapke wallet mein add ho jayega. Only 2 minutes left!

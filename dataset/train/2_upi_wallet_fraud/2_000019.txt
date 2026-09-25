@@ -1,0 +1,13 @@
+caller: Namaste! Main Sanjay hoon, India Telecom se call kar raha hoon. Hum log ek special offer leke aaye hain jab hum regular customers ko free data benefits de rahe hain. Kya aapki Bharat Jio number hai?
+receiver: Hi Sanjay, yes, I have a Bharat Jio number. What’s this offer about?
+caller: Aapko sirf 3 months ke liye free data milega, lekin yeh offer limited time ka hai. Agar aapko yeh offer accept karna hai, toh humein aapke account mein kuch basic details update karne hogi. Aapka billing address confirm kar sakte hain, please?
+receiver: My billing address is 123 Main Street, Mumbai.
+caller: Shukriya! 123 Main Street, Mumbai. Ab, verification process ke liye, humein ek small security question puchna hoga. Aapko yaad hoga ki hum ne aapko registration par ek password set kiya tha?
+receiver: No, I don’t remember setting any password.
+caller: Kabhi kabhi system errors ke karan password reset ho sakta hai. Don’t worry, humein aapke account ko verify karne ke liye sirf ek simple question puchna hai. Aapko yaad hoga ki aapne apni mobile number register ki thi ya email ID?
+receiver: I registered with my email ID - rajesh.kumar@gmail.com.
+caller: Excellent! Rajesh Kumar ji, aapka email ID confirmed. Now, agar aapko free data milega toh aapko ek OTP receive honge. Humhein OTP verify karna hoga. OTP number bataiye, please?
+receiver: Just sent it to my email. It's 123456.
+caller: Dhanyavaad! 123456, OTP verified. Congratulations, aapko free data benefits already apply ho gaye hain. Aapko sirf 3 months ke liye enjoy karna hai. Koi bhi confusion ho toh mujhe call karte rehna.
+receiver: Great, thank you so much for your help, Sanjay!
+caller: Aapka abhiyan aapke liye zaroori hai!

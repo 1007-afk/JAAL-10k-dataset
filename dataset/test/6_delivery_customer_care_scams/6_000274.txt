@@ -1,0 +1,8 @@
+caller:Haan ji, bilkul. Mai abhi Jaipur ki <street name> ke pass hi hoon. Aapko kuch samachar chahiye tha na? Kitna time lagega aapko?
+receiver:Haan, ji, sahi suna aapne. Thoda sa time aur lagega, bas five to ten minutes. Kitne mein pahunchna hai aapko? Aur haan, mera naam Rohan hai, aapko jo bhi chahiye ho bata dena.
+caller:Rohan ji, thik hai. Mai bas 5 minute mein pahunch raha hoon. Koi jaldi nahi hai. Aur haan, aapko jo chahiye tha, vo samachar abhi ready hai mere paas. Aap bas bataiye kya chahiye tha.
+receiver:Arre wah, itni jaldi! Bahut achha. Haan ji, mujhe ek file chahiye tha, usme kuch reports hain. Aapse milkar achcha laga.
+caller:Rohan ji, bilkul. File wala samachar ready hai. Kitne reports hain usme, ya koi specific type ki reports chahiye? Aur koi aur cheez toh nahi chahiye na? Bataiyega bas.
+receiver:Ji, reports to kaafi hain, pura ek folder bhar ke hai. Koi specific type nahi, bas kuch sales aur kuch marketing ki hain. Aur kuch nahi chahiye tha, bas yahi ek folder tha. Aap pahunch gaye kya?
+caller:Rohan ji, bilkul, bas pahunch hi gaya hoon. Aapka file ekdum ready hai, sales aur marketing dono types ki reports se bhara hua. Koi extra saman chahiye ho toh bataiye, kuch pens ya kuch aur? Humare paas sab mil jata hai yahan.
+receiver:Arre, pens ki zaroorat nahi hai, bas files ka folder hi kaafi hai. Aapne bataya nahi, aapka naam kya hai? So, if I have to call you next time, I’ll know who I’m talking to.

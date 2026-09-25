@@ -1,0 +1,8 @@
+caller: Namaste! Apne naam ko congratulations, aapko Diwali ka special offer mila hai - ₹5000 ki discount ek new smartphone par! Aur hum aapko free Bluetooth speaker bhi de rahe hain! Agar aap abhi call karte hain toh sirf 3 remaining hain, hurry up!
+receiver: Namaste! Really? ₹5000 ki discount? Free Bluetooth speaker? Wow, that’s fantastic! But, tell me more about how I can claim this offer.
+caller: HaanHaan! Toh aapko bas 8800123456 pe call karna hai aur humara representative aapko process mein guide karega.  Iske baad, aapko sirf ₹2999 mein smartphone mil jayega!  Just remember, these offers are extremely limited, only 2 slots available!
+receiver: Okay, 8800123456... Hmm, let me check that number.  So, after I call, I'll get the smartphone for ₹2999?  That’s a good deal!  But what if I have some questions?
+caller: Absolutely! Aapko koi bhi question pooch sakte hain, humara team sab se ready hai madad karne ke liye.  Par, aapko jaldi karna hoga, sirf 1 slot bandh ho gayi hai!  Call karo, 8800123456, aur apne Diwali celebration ko complete karein!
+receiver:  Arey yaar! Only 1 slot left? Arey, now I am feeling a bit pressured! Okay, okay, I’m calling now.  Thank you so much for telling me about this wonderful opportunity!  Bye bye!
+caller:  Excellent!  Only 0 slots remaining now!  Arey, don't delay, call immediately!  Humare helpline number par call karein – 7700987654.  Yeh Diwali ke liye ek amazing deal hai!
+receiver:  Arey, seriously? No slots left? Okay, I’m calling now. Thank you again!  Goodbye!

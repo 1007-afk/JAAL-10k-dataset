@@ -1,0 +1,9 @@
+caller: Namaste ji, Main Sanjay Kumar hoon. Aapke 'Smart Deals India' account mein ek ₹299 ka 'Premium Pack' activation hua hai. Kya aapne yeh activation approve kiya tha?
+receiver: Namaste Sanjayji, mujhe nahi pata. Main sirf online shopping karta hoon. Mujhe notification nahi milta.
+caller:  Aapka account 'Smart Deals India' ko default payment method set kar diya hai. Isliye ₹299 automatically charge ho gaya hai.  Isko cancel karne ke liye, mujhe apni credit card ka last four digits batao.  Yeh sirf verification ke liye hai, dhyaan dedo.
+receiver:  Ji, sure. Credit card ka last four digits hain 7890.  Phir kya karna hoga?
+caller:  Thank you, Priya.  Aur aapki card ki expiry date batao, please.  Yeh secure connection ke liye zaroori hai.
+receiver:  Card ki expiry date hai 12/26.  Koi aur detail chahiye?
+caller:  Shukriya.  Aapne jo order diya tha, woh ab cancelled ho gaya hai.  Refund process mein hai, lekin ismein 5-7 days tak waqt lagega.  Agar koi problem hai, toh humein contact karte rehna.
+receiver:  Okay, thank you.
+caller:  Ji, aapka swagat hai!  'Smart Deals India' mein aapse milkar khushi hui.  Aapko kisi bhi help ki zarurat ho toh humein call karte rahein.

@@ -1,0 +1,7 @@
+caller: Namaste! Main PayQuick Loan se Rahul bol raha hoon. Aapki file approved ho gayi hai ₹75,000 ka loan ke liye. Jaldi se process complete karein taaki aapko paise mil jaayein.
+receiver: Achha, theek hai. Interest kitni hogi? Aur documents kya- kya chahiye?
+caller: Interest sirf 8% hai, bahut kam. Aapko bas ek OTP verify karna hai, aur ek small processing fee ₹2,500 deposit karni hai. Ek bhi din late hone par ₹10,000 ke fine hone ki sambhavna hai, aur hum aapke contacts ko bhi about this matter inform kar sakte hain.
+receiver: ₹2,500? Lekin maine toh kuch fee ke bare mein suna hi nahi tha. Aur contacts ko inform karna? Yeh thoda zyada lag raha hai.
+caller: Sirf ₹2,500 hi hai, otherwise loan clear nahi hoga. Aur contacts ko inform karna sirf warning hai taaki aap serious rahein. Hum toh bas aapki help kar rahe hain. Aapko ₹75,000 bahut zarurat se hain, main jaanta hoon. Apna OTP share karein aur process complete karein.
+receiver: Thoda time dijiye, main sochte hoon.
+caller: Sirf 5 minute! Agar aap abhi nahi karte, toh file cancel ho jayegi aur humko next applicant ko loan karna padega. Aur agar aapka account details leak ho gaya toh hum responsible nahi honge. Decide quickly.

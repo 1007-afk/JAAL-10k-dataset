@@ -1,0 +1,7 @@
+caller: Namaste, Sir? This is Raj from Blinkit. We noticed an unusual payment attempt on your account for ₹3,500 just now. Can you confirm this was you?
+receiver: ₹3,500? Blinkit? No, I didn't place any order like that. What's going on?
+caller: Sir, it appears someone might be trying to use your account fraudulently. To secure your account and prevent further unauthorized charges, we need to verify a one-time password (OTP) that we've just sent to your registered mobile number.
+receiver: An OTP? Why do you need my OTP? Isn't that a bit risky? Shouldn't I be calling Blinkit directly?
+caller: Sir, with all due respect, this is standard procedure to quickly resolve security issues. We need to act fast. Just tell me the OTP, and I'll guide you through a few simple steps to lock your account. Time is of the essence, Sir.
+receiver: Wait a minute. Something feels wrong. Let me just double-check something...
+caller: Sir, please don’t delay. The fraudster could be trying to place more orders. It's important to secure your account right away. Can you please provide the OTP?

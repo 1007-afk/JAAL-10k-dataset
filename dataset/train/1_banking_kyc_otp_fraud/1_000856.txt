@@ -1,0 +1,7 @@
+caller: Namaste! Mein Divya Sharma bolti hoon, Axis Bank se. Aapke account mein achanak se kuch suspicious activity detect hui hai, sir.
+receiver: Kya? Suspicious activity? Main toh koi transaction nahi kiya.
+caller: Haan sir, ek online transaction ka attempt kiya gaya hai ₹12,000 ka. Aapko isko confirm karna hoga, warna account suspend kar denge. Security ke liye, mujhe aapka OTP chahiye.
+receiver: OTP? Lekin woh toh confidential hai. Main phone pe OTP nahi deta.
+caller: Sir, yeh bank protocol hai. Agar aap OTP nahi denge, toh hum account freeze kar denge aur ₹12,000 ka loss aapka hoga. Koi aur option nahi hai. Aapka PAN card number bhi verify karna padega.
+receiver: PAN card number? Yeh theek nahi lag raha. Mein police mein complaint kar dunga.
+caller: Sir, please! Police mein complaint karne se kuch nahi hoga. Account protect karne ke liye abhi OTP give kijiye. Jaldi kijiye, sir, time bahut kam hai. Account suspend hone se pehle, please OTP give kijiye.

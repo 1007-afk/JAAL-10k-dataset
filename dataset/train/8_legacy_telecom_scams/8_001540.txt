@@ -1,0 +1,14 @@
+caller: Namaste! Aapko badi khabariyan hain! Aapne ek lottery mein jeeta hain ₹5,000! Iska matlab hai ki aapke naam par ek badi amount ka cheque aaya hai!
+receiver: Arre yaar! Seriously? ₹5,000? Wow! Kaise ho mumkin yeh? Mein toh bahut khush hoon!
+caller: Tumhare naam par Delhi ki government ne cheque diya hai. Parantu, ismein kuchh documents ki zarurat hai jo aapko submit karna hogi. Agar aap yahaan se submit karte hain, toh koi charges nahi lagege.
+receiver: Documents? Kyon zaroorat hai? Aur kaunse documents chahiye?
+caller: Isliye ki hume apne identity ko verify karna hai. Humhein apna Aadhaar card aur pan card dikhana hoga.  Aapke account mein money transfer karne ke liye, humein ye details lagani padengi.
+receiver: Okay, mein apna Aadhaar card aur PAN card upload kar deta hun.  Kya aapko my account login details lagenge?
+caller: Haan, mujhe aapke bank account ki username aur password lagani hogi.  Yeh sirf transfer process ke liye hai, promise!
+receiver: Nahin, nahin! Mein apni account ki details kisi se bhi nahi dunga. Yeh bahut riskly lagta hai!
+caller:  Aapko maaf karna padega, lekin humein ye details zaroori hain.  Agar aap yeh details de denge, toh aapke cheque mein paisa transfer ho jayega.  Iska koi alternative nahi hai.
+receiver:  Mujhe samajh mein aata hai.  Parantu, main koi risk lena chahti hoon.  Main agar cheque submit karungi, toh kya hota hai?
+caller:  Cheque submit karne ke baad, hume ispar signature lena hoga aur phir paisa aapke account mein transfer ho jayega.  Yeh process mein ek ya do din lagega.
+receiver:  Okay, fine.  Mein cheque submit karne ka wait karungi.  Kyunki, yeh process mein time lagta hai, aapka number kya hai?
+caller:  Aapka number [Invented Phone Number] hai.  Agar koi problem aaye, toh aap mujhse contact kar sakte hain.
+receiver:  Thank you!

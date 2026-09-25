@@ -1,0 +1,12 @@
+caller: Namaste! Main Flipkart se Rohan bolta hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Haan, theek hai. Mein Rita hoon. Kya problem hai?
+caller: Dekhiye, parcel address mismatched dikh raha hai. Aur OTP verification ke bina hum deliver nahi kar sakte. Aapka OTP please?
+receiver: OTP? Par, mujhe koi message nahi aaya Flipkart se.
+caller: Sirf hum call karte hain, message nahi karte. Security ke liye OTP zaroori hai. Yeh OTP 6 digit ka hona chahiye.
+receiver: Theek hai, ek minute. (pause) Yeh mera OTP hai: 123456.
+caller: Shukriya! Ab hum payment details check karenge. Payment bhi pending hai, sir. 2000 rupay ka.
+receiver: Payment? Mujhe yaad nahi ki main kuch order kiya tha.
+caller: Haan, lekin order track karne ke liye, payment clear karna hoga. Agar payment clear nahi karenge toh parcel wapas Flipkart warehouse mein pahuncha jayega.
+receiver: Hmmm... mujhe kuch samajh nahi aa raha hai. Main Flipkart customer care se baat karta hoon.
+caller: Sir, please mat karna! Customer care se baat karne se aapka parcel delay ho jayega. Abhi payment kar dijiye. Flipkart account safe hai, trust me.
+receiver: Bas ek minute, main check karti hoon.

@@ -1,0 +1,16 @@
+caller: Hello? Hello, Mrs. Sharma? Can you hear me alright? This is Priya from Secure Solutions. I’m calling to share some wonderful news – you’ve been selected to receive a premium smartphone! Isn't that exciting?
+receiver: Hello? Haan, Priya? Sunai de raha hai. Secure Solutions se? Premium smartphone jeeta hoon? Seriously? Thank you so much! What an opportunity!
+caller: Yes, Mrs. Sharma, seriously! It’s incredibly exciting! You've been chosen as one of our lucky winners. Just a quick step to ensure everything goes smoothly. Are you available to chat briefly right now?
+receiver: Haan, Priya, absolutely. Tell me what needs to be done. Is there any form filling involved or something else?
+caller: Fantastic, Mrs. Sharma! So, to get this smartphone delivered to you safely, we just need to verify your identity. It’s a very simple procedure; you’ll just provide us with your address and a few essential details to confirm you are the rightful owner of this prize. Could you tell me your full name and delivery address, please?
+receiver: Yes, certainly. My name is Kavita Sharma. And my address is… 45, Oak Street, Sunnyvale.
+caller: Wonderful, Kavita! Thank you. Now, could you please provide your date of birth? This is purely for security purposes to make sure you’re the correct winner.
+receiver: My date of birth is... 2nd January, 1988. Anything else required?
+caller: Namaste, Mr. Patel? Is this Sunil speaking? From Global Rewards, we have some great news for you! You've been selected to win a brand new television! Believe it or not, it's true!
+receiver: Namaste, Sunil? Sunai mili. Global Rewards se? Television jeeta? Really? Wow, thank you! This is unexpected.
+caller: Haan, Mr. Patel, truly! A big congratulations! To claim your television, we just need to quickly verify a few details. Would you mind if we had a little chat for a moment?
+receiver: Haan, Sunil, I am available. Please tell me what I need to do. Is there any paperwork or anything like that?
+caller: Excellent! So, to send your television to your home, we require a small verification process. It involves confirming your address and providing some basic information to ensure the prize reaches the right person. Could you kindly give me your first and last name, along with your delivery address?
+receiver: Yes, definitely. My name is Vikram Patel. And my address is… 78, Pine Road, Riverside.
+caller: Perfect, Vikram! Thank you. Now, could you tell me your year of birth? Just a standard security check to confirm you are indeed the winner.
+receiver: My year of birth is… 1975. Is there anything more?

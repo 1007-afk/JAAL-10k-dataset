@@ -1,0 +1,6 @@
+caller: Hello Madam! This is calling from Paytm Customer Care. We’ve noticed some suspicious activity on your account.
+receiver: Oh really? What kind of suspicious activity? I haven’t done anything unusual.
+caller: Yes Ma’am, a large amount is being transferred from your Paytm wallet to an unknown account. To secure your funds, we need to verify your account immediately. Can you please share your Paytm password?
+receiver: My password? Wait a minute... Paytm never asks for my password over the phone. That sounds very risky.
+caller: Ma'am, it’s a security protocol. We’re doing this to prevent further unauthorized transactions. If you don’t cooperate, we’ll have to freeze your account for security reasons. We’re just trying to help.
+receiver: Freeze my account? I think I’m going to have to call Paytm’s official helpline number myself and verify this. I’m not comfortable sharing my password with you over the phone. Goodbye.

@@ -1,0 +1,25 @@
+caller: Greetings! We have exciting news – you’ve been randomly selected to win either a luxurious weekend getaway to Goa or a substantial INR 25,000 prize money! Please stay connected to hear about your winnings and how to redeem them. A small service fee of ₹1.75 per minute applies, with a maximum call duration of 8 minutes. Are you ready to accept your reward?
+receiver: Hello? Oh, wow! Seriously? Goa ki vacation ya phir 25,000 rupees? Maine kabhi such kuch sunah nahin. ₹1.75 per minute? Aur sirf 8 minute tak chalega call? Okay, okay, let’s see if I can claim this. Bolo, kya karna hai?
+caller: Wonderful! So happy to hear you're eager to receive your prize.  Let's verify your identity first. Could you please tell me your full name as it appears on official documents?
+receiver: Ji, mera naam hai Rohan Kumar.  Aur aap kaisein poochh rahe hain?
+caller: Thank you, Rohan. And for security purposes, could you kindly confirm your year of birth? This will help us ensure the prize reaches the rightful owner.
+receiver: Hai, meri janm shahi 1998. Kuch aur poochhne wala hai?
+caller: Great, Rohan. Just one more piece of information – please share your registered mobile number, along with your city and state? We need this to send you the confirmation details and instructions for claiming your prize.
+receiver: Mobile number hai 9876543210. Main Delhi mein rehta hun, Uttar Pradesh mein.  Batao, kuch aur hai?
+caller: Namaste! You’ve been fortunate enough to win a grand prize of either a deluxe trip to Kerala or INR 18,000 in cash! Please remain on the line to learn more about your victory and how to proceed. There’s a nominal charge of ₹2.00 per minute, lasting up to 9 minutes. Ready to celebrate your good fortune?
+receiver: Hello? Seriously? Kerala ki travel ya phir 18,000 rupees? Maine kabhi aisee kuch nahin suna! ₹2.00 per minute? Aur sirf 9 minute tak chalega? Ok, ok, lets do this. Kaisee claim karoon main?
+caller: Fantastic! We are delighted you want to claim your prize. First, we require some basic verification. Could you please state your full name exactly as it is written on your ID card?
+receiver: Ji, mera naam hai Lakshmi Devi. Aap kaisein puchh rahe hain?
+caller: Thank you, Lakshmi. Now, to secure your prize, could you confirm your age? It's simply a standard procedure.
+receiver: Hai, meri janm shahi 2002. Kisi aur cheez ka pata chudne wala hai?
+caller: Wonderful, Lakshmi. Lastly, could you provide your pin code and the name of your locality? This helps us deliver the prize securely.
+receiver: Pin code hai 400001, aur mera locality hai Mukherjee Nagar. Kuch aur hai?
+caller: Hello there! We’re thrilled to inform you that you’ve been chosen to win either a fabulous 3-day package to Jaipur or an amazing INR 16,000 gift voucher! To process your claim, please stay on the line. There’s a small connection fee of ₹2.50 per minute, valid for up to 7 minutes. Let’s get started!
+receiver: Oh my god! Jaipur ya phir 16,000 rupay ka voucher? Maine kabhi aisa nahin manaa! ₹2.50 per minute? Aur sirf 7 minute tak chalega? Okay, okay, tell me what to do.
+caller: That’s great! To begin the process, I need to confirm your identity. Can you please tell me your full name, as it appears on your bank account?
+receiver: Ji, mera naam hai Vijay Patel. Aap kya poochh rahe hain?
+caller: Thank you, Vijay. And for security reasons, could you please confirm the last two digits of your Aadhaar card?
+receiver: Hai, mere Aadhaar card ke last donon nagar 78 hai. Kisi aur cheez ka pata chudne wala hai?
+caller: Perfect, Vijay. Finally, could you share your city and state for record keeping purposes? We need to ensure accurate prize delivery.
+receiver: Main Mumbai mein rehta hun, Maharashtra mein. Batao, kuchh aur hai?
+caller: Attention! You’ve been lucky

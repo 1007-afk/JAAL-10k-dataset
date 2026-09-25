@@ -1,0 +1,6 @@
+caller: Hello? This is Inspector Sharma, calling from the Delhi Customs Department. We’ve intercepted a package at the airport addressed to your name containing suspicious items. We believe it may be linked to drug trafficking.
+receiver: Customs? What? This is… really weird. I haven’t sent anything. Which airport are you talking about?
+caller: Indira Gandhi International Airport, sir. We need to verify your identity and discuss this matter urgently. To avoid legal complications, you’ll need to make a small payment to clear the package for further inspection. 15,000 rupees.
+receiver: Fifteen thousand? Just like that? Can I speak to someone higher up? Or get a case number? This feels like a scam. Why can’t you just investigate properly?
+caller: Sir, for security reasons, I cannot disclose the case number over the phone. The process is confidential. We’re holding you on a video call now, so you can see I’m a real officer. Please transfer the money to this UPI ID: 9876543210@ybl. If you refuse, a warrant will be issued for your arrest.
+receiver: Video call? Okay, wait, let me see. This is blurry, I can barely see you. A warrant? That’s a bit much, isn’t it? Is there *any* other way to resolve this without paying money upfront? I’m still very suspicious.

@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Tata Play se bol raha hoon. Aapke Tata Play account mein kuch technical issues aa rahe hain, isliye aapke account ko verify karna hoga.
+receiver: Tata Play? Kya issue hai? Mujhe toh koi message nahi aaya.
+caller: Sir, yeh ek security update hai. Isliye aapko apna Aadhaar card number aur ek OTP dene hoga, jo hum aapke registered mobile number par send karenge. Isse aapka account secure ho jayega.
+receiver: Aadhaar number? Tata Play ko mere Aadhaar number ki kya zarurat hai? Yeh thoda suspicious lag raha hai.
+caller: Sir, security ke liye zaroori hai. Agar aap verify nahi karenge, toh aapka account suspend ho sakta hai. Aapka Tata Play connection bhi band ho sakta hai.
+receiver: Account suspend? Theek hai, ek minute. Main Tata Play ki official website par check karta hoon.
+caller: Sir, website par verify karne mein time lag sakta hai. Isliye mai hi aapko help kar raha hoon. Aapka Aadhaar number bataiye, please.
+receiver: Theek hai, main abhi call cut karta hoon aur khud check karta hoon.

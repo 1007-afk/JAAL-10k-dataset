@@ -1,0 +1,8 @@
+caller: Hello? Hello, Mr. Sharma? Can you hear me okay? This is Priya from Global Rewards, we have an incredible opportunity for you today. Congratulations, Mr. Sharma! You’ve won a state-of-the-art Smart TV! Isn’t that wonderful?
+receiver: Hello? Haan, Priya? Sunai de raha hu. Global Rewards se? Smart TV jeeta hoon? Seriously? Thank you so much! What a surprise!
+caller: Yes, Mr. Sharma, seriously! Fantastic news indeed! Your Smart TV is waiting for you! But there’s just a small step to get it delivered to your doorstep. Are you available to chat briefly now?
+receiver: Haan, Priya, completely free. Tell me what needs to be done. Is there any paperwork involved or something else?
+caller: Wonderful, Mr. Sharma! So, to ensure this Smart TV reaches you safely, we need to quickly verify your information. It’s a very simple verification process; you’ll just provide us with your address and a few basic details to confirm you’re the rightful winner. Could you tell me your full name and delivery address, please?
+receiver: Yes, definitely. My name is Amit Sharma. And my address is… 45, Sunshine Court, Chandigarh.
+caller: Excellent, Amit! Thank you. Now, could you please share your date of birth? This is purely for security purposes to confirm you're the valid recipient of this amazing prize.
+receiver: My date of birth is… 2nd January, 1987. Anything else?

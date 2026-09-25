@@ -1,0 +1,8 @@
+caller: Namaste, mein PhonePe se Ankit bol raha hoon. Aapke account mein ek transaction fail hua hai, ₹7,800 ka. Confirm karein?
+receiver: ₹7,800? Haan, lekin main ne koi transaction nahi kiya. Mujhe toh koi notification bhi nahi aaya.
+caller: Sir, woh ek online shopping transaction tha. Aapne recently ek website se kuch buy kiya tha, shayad aapko yaad nahi. Confirm karein, hum isko reverse karwa de sakte hain agar aap confirm karte hain.
+receiver: Wait, wait! Woh website kaunsi thi? Aur ₹7,800? Mein toh sirf ₹2,000 ki cheeze order ki thi.
+caller: Sir, system mein ₹7,800 dikh raha hai. Confirm karein, agar aap confirm nahi karte toh transaction permanent ho jayega aur aapko fraud report karna padega. Hum aapki help kar rahe hain, sir.
+receiver: Fraud report? Yeh toh zyada hi complicated lag raha hai. Mujhe thoda confuse ho raha hai. Koi OTP bhejo, phir main verify karunga.
+caller: Sir, OTP nahi bheja jayega. Humara system automatic hai. Aapko bas confirm karna hai. Aapko ₹7,800 refund chahiye ki nahi? Jaise hi aap confirm karte hain, ₹7,800 aapke account mein revert ho jayega. Sir, time bahut kam hai.
+receiver: Okay, okay, wait. Main apne PhonePe app check karta hoon. Ek minute.

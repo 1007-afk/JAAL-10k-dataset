@@ -1,0 +1,8 @@
+caller: Namaste! Main Sanjay Kumar hoon, aur main aapko ek bahut hi achcha deal batana chahunga! Kya aapke paas ek ghanta ke liye hai?
+receiver: Haan, boliye. Kya deal hai?
+caller: Haan, humne abhi ek online learning platform launch kiya hai, jismein aapko Bollywood ke sabse mashhoor songs ke audio lessons milegi! Just 'BLR' type karke 89789 pe message karein, aur first lesson totally free hai! Imagine, aap gaane kaise sikh sakte hain!
+receiver: Bollywood songs ke lessons? Free mein?  Lekin, yeh regular course hai kya, ya ek single session hai?
+caller: Haan ji, yeh ek full course hai!  First lesson toh aapko completely free milega, aur phir agar aapko pasand aaye toh har lesson sirf ₹99 mein milega.  Ye koi expensive subscription nahi hai, just few lessons to improve your singing skills! And this offer is valid only for the next 7 days, so don’t miss out on this golden opportunity! Send ‘GLD’ to 98765 to get more information.
+receiver: Okay, 7 days ka offer hai aur ₹99 per lesson?  Par yeh online lessons, unhone kuch specific requirements nahi diye hain?  Jaise microphone ya software?
+caller:  Aapki chinta samajhta hun!  Humne yeh design kiya hai that it works on any smartphone, no need for fancy equipment.  Just your phone and internet connection is enough.  And when you send ‘GLD’, you will receive all the detailed instructions - how to use the app, what kind of microphone is recommended, and the payment options available. No hidden costs, absolutely clear. Try it out, it's totally free to begin with! What do you think?
+receiver:  So, if I don't like the lessons, will I have to pay anyway? And what exactly will I get when I reply with ‘GLD’? Will I just get a website link or something?

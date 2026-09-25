@@ -1,0 +1,16 @@
+caller: Hello there! We’ve reached out because you’ve been randomly selected to win a luxurious weekend getaway to Goa or a whopping $3000 gift card! To receive your prize and learn more, please stay connected. There’s a small processing fee of $2.75 per minute, but only for the first five minutes. Let’s claim your victory!
+receiver: Hello? Oh my god, seriously? A trip to Goa or $3000? That’s amazing! What do I have to do?
+caller: Fantastic! To verify your identity and ensure everything goes smoothly, could you tell me your full name, please?
+receiver: My name is Rohan Kumar. What exactly are you asking?
+caller: Wonderful. And to confirm your details, what’s your birthday? Just a simple check, you know.
+receiver: It’s December 2nd, 1988. Anything else?
+caller: Great. Now, let’s proceed with claiming your prize. Could you give me your current address, including the zip code? We need to send you the confirmation letter and voucher.
+receiver: Okay, my address is 7, Silverwood Terrace, Maple Avenue. Zip code is 90210. Is there anything else?
+caller: Hello there! We’ve reached out because you’ve been randomly selected to win a luxurious weekend getaway to Goa or a whopping $3000 gift card! To receive your prize and learn more, please stay connected. There’s a small processing fee of $2.75 per minute, but only for the first five minutes. Let’s claim your victory!
+receiver: Hello? Oh my god, seriously? A trip to Goa or $3000? That’s amazing! What do I have to do?
+caller: Fantastic! To verify your identity and ensure everything goes smoothly, could you tell me your full name, please?
+receiver: My name is Rohan Kumar. What exactly are you asking?
+caller: Wonderful. And to confirm your details, what’s your birthday? Just a simple check, you know.
+receiver: It’s December 2nd, 1988. Anything else?
+caller: Great. Now, let’s proceed with claiming your prize. Could you give me your current address, including the zip code? We need to send you the confirmation letter and voucher.
+receiver: Okay, my address is 7, Silverwood Terrace, Maple Avenue. Zip code is 90210. Is there anything else?

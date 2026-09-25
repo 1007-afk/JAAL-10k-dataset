@@ -1,0 +1,7 @@
+caller: Namaste Madam, is this Priya Verma? I'm calling from Zomato Customer Care. We've noticed some unusual activity on your account.
+receiver: Haan, main Priya Verma hi hoon. Kya hua? Unusual activity matlab?
+caller: Ji, someone seems to have placed a very large order from your account to an address in Delhi. The amount is ₹4,500. You didn't place this order, correct?
+receiver: ₹4,500?! Nahin, main toh itna bada order kabhi nahi kiya. Yeh fraud hai!
+caller: Exactly, Madam! We need to secure your account immediately. To verify your identity and block the fraudulent order, could you please share the OTP you just received on your registered mobile number?
+receiver: OTP? Par kaise block karenge OTP se? Mujhe toh kuch samajh nahi aa raha hai. Yeh Zomato wale log sach mein call kar rahe hain kya?
+caller: Ji madam, bilkul. This is a standard security protocol. The OTP is a one-time passcode to confirm you're the account holder. Without it, we can't proceed with blocking the order. Please share it quickly, before the order is processed and sent. We can also ask for your bank details to refund the amount from that fraudulent transaction, if you prefer.

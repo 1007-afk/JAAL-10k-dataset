@@ -1,0 +1,9 @@
+caller: Namaste! Mai Flipkart se Rahul bolta hoon. Aapke naam par ek order aaya hai, lekin delivery ke vakt kuch problem ho rahi hai.
+receiver: Hello? Flipkart se? Kya hua?
+caller: Ji haan. Order number FLP7890123 hai. Payment gateway mein ek chhoti si gadbadi ho gayi hai, aur delivery ruk gayi hai.
+receiver: Oh no! Payment gateway? Mujhe toh koi notification nahi aaya.
+caller: Haan, technical issue hai. Security ke liye, mujhe aapka OTP chahiye hoga, jo aapko SMS se mila hoga. Tabhi delivery resume ho paayegi.
+receiver: OTP? Matlab mujhe apna OTP bataana hai?
+caller: Ji haan, sirf OTP hi. Kuch second lageinge. Aapka account safe rahega, yahaan delivery system ka kaam hai.
+receiver: Theek hai, theek hai. Dekhte hain. (receiver gives OTP)
+caller: Shukriya! Aapka OTP receive ho gaya hai. Ab delivery shuru ho jayegi. Aapko kal tak parcel mil jayega.

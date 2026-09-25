@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, Indian Customs se. Aapke naam par ek parcel Jaipur airport par gaya hai, lekin usmein illegal items milne ki sambhavna hai.
+receiver: Illegal items? Mujhe toh koi parcel yaad nahi. Mainne kuch order kiya tha, lekin mujhe koi notification nahi aaya.
+caller: Dekhiye, is parcel mein suspicious items ki scanning hui hai. Drugs hone ki aasha hai. Aapko legal complications se bachne ke liye, parcel details aur ID proof send karna padega. Tabhi parcel release hoga.
+receiver: Drugs? Yeh to bahut serious allegation hai. Mujhe koi bhi document nahi bhejna hai abhi tak. Mujhe airport se contact karna hai. Aap unka number de dijiye.
+caller: Airport se direct contact nahi ho payega, sir. Process legal hai. Aapko WhatsApp par apna Aadhaar card ka copy, PAN card ka copy aur bank account details send karne honge.
+receiver: Bank account details? Arey yaar! Yeh toh fraud lag raha hai. Main koi personal information nahi bhejna chahta. Main police mein complaint karunga.
+caller: Sir, please cooperate karein. Tumhari safety hi important hai. Criminals tumhari identity chori karne mein lage hain. Hamare officers ko tumhari help ki zarurat hai, aur tumhari privacy secure rahegi. Tumhare details ko sirf parcel ki verification ke liye use kiya jayega.
+receiver: Tumhari baat ka koi bharosa nahi hai. Main abhi baat kat raha hoon aur police se baat karunga.

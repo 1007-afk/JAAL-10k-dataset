@@ -1,0 +1,22 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapke mobile mein ek important update hai jo aapka data safe rakhega. Yahaan par record kiya ja raha hai, yeh sirf quality check ke liye hai. Humne dekha hai ki aapki account mein kuch problem hai aur hum aapko protect karne ke liye kuch confirm karna chahte hain. Agar aapmera naam batayenge, to acha hoga.
+receiver: Namaste ji, main [Receiver Name] hoon. Mein kya kar raha hoon? Account mein koi problem? Bataiye, kya pata karna hai?
+caller: Dhanyavaad, [Receiver Name]. Aapse naam confirm karna bahut mahatvaparinde hai. Humne dekha hai ki aapke phone mein ek new app install hua hai jiska naam "SecureGuard" hai. Is app ko aapne recently install kiya hai, hai na?
+receiver: Haan ji, SecureGuard install kiya tha. Par yeh kya karega? Woh safe hai ya nahi? Mujhe samajh nahi aaya.
+caller: SecureGuard aapke phone ko virus se bachane ka kaam karta hai. Lekin, humne dekha hai ki is app ne aapki battery fast charge karne mein dikkat karayi hai. Isliye, hum aapko is app ko uninstall karne ka suggestion de rahe hain. Agar aap uninstall karenge, to aapki phone ki speed badegi.
+receiver: Uninstall? Okay, okay. Jeechhi, uninstall kar deta hoon. Kahan se uninstall karunga?
+caller: Apni phone mein Settings menu mein jaye aur Apps section mein SecureGuard select kare. Then uninstall option tap kare. Thoda sa time lagega.
+receiver: Okay, uninstall ho gaya. Ab kya hoga?
+caller: Ab aapki phone ki speed badegi aur aapko koi problem nahi hogi. Hum aapko abhi bhi support ke liye ready hain agar aapko koi bhi doubt ho.  Aapko kisi bhi cheez ka pata karna hai toh humein call back kijiye.
+caller: Hello! Main Reliance Digital Support se bol raha hoon.  Humara company ek important alert send kar raha hai. Yahaan par record kiya ja raha hai, yeh sirf aapki safety ke liye hai.  Aapki account mein kuch issue hai aur hum aapko secure rakhna chahte hain. Agar aap mera naam bata denge, to achcha hoga.
+receiver: Hello ji, main [Receiver Name] hoon.  Mein kya kar raha hoon?  Account mein kya problem hai?  Batao, kya puchna hai?
+caller: Dhanyavad, [Receiver Name].  Aapse mera naam confirm karna bahut zaroori hai.  Humne dekha hai ki aapne recently Amazon se ek laptop khareedaya hai.  Is order mein payment UPI se kiya gaya tha, hai na?
+receiver: Haan ji, Amazon se ek laptop khareeda tha. Payment UPI se kiya tha. Par yeh alert kyun diya gaya?
+caller:  Thank you.  UPI transaction mein kuch error agya hai aur humne dekha hai ki aapki account mein suspicious activity dekha gaya hai.  Isliye, hum aapko payment details verify karna chahte hain.  Agar aap payment amount bata denge, to achcha hoga.
+receiver: Payment amount?  Woh kitna tha?  Mujhe yaad nahi aa raha.
+caller:  Payment amount ₹[Amount] rupees thi. Agar aap yeh amount confirm karenge, to hum aapki account ko safe rakh sakte hain.  Please, jaldi bataiye.
+receiver: ₹[Amount]?  Okay, woh ₹[Amount] tha.  Par yeh seriously hai?  Kya hua?
+caller:  Haan ji, yeh serious hai.  Humne dekha hai ki is amount ko aapne ek unknown website par transfer kiya hai.  Isliye, hum aapko is transaction ko cancel karne ka instruction dena chahte hain.
+receiver: Unknown website? Cancel kar do.  Kahan cancel karna hai?
+caller:  Amazon helpline number [Helpline Number] par call karein aur unme yeh detail bataayein ki aapke account mein suspicious activity dekha gaya hai.  Phir aapko is transaction ko cancel karne ke instructions mil jayenge.
+receiver: Okay, I will do that.  Thank you for informing me.
+caller:  Dhanyavad, [Receiver Name].  Aapki safety hamaari priority hai.  Agar aapko koi bhi help chahiye, toh humein call back kijiye.

@@ -1,0 +1,30 @@
+caller: calling from DigiSecure Account Support. We’ve identified some unusual activity on your account and want to ensure its security. You currently have 6 trial credits remaining. Would you like to activate them?
+receiver: Haan bhai, DigiSecure Account Support se? Unusual activity? Trial credits? Haan, dekh lete hain. Bolo, kya karna hai?
+caller: Exactly! DigiSecure Account Support ke naam par. Your account shows a recent login from an unfamiliar location. To safeguard your data, we need to verify your information. You have 5 trial credits left. Are you willing to use them for verification purposes?
+receiver: 5 trial credits? Unfamiliar location? Wo toh achcha laga. Par mujhe yeh bhi bataiye ki yeh credits kab tak valid hain?
+caller: These trial credits are valid for the next 7 days. Once they expire, your account will be temporarily locked until you confirm your identity. Don’t worry, it’s just a precautionary measure. You have 4 trial credits remaining now. Would you like to activate them?
+receiver: 7 days? Lock ho jayega account? Koi baat nahi, chalte hain. Activate karein, lekin batao, isme kya karna padega?
+caller: Just click on this link – secureverify.digisecure.com – and follow the instructions. It’s a simple process, just a few questions to confirm your details. You have 3 trial credits left. Hurry up, these credits won’t last forever!
+receiver: Secureverify.com? Dekh li maine. Looks legit. But what if I don’t understand the questions? Will I get blocked?
+caller: Don’t worry at all! We provide assistance every step of the way. If you get stuck, simply reply “help” to this message. You have 2 trial credits remaining. Activating now...
+receiver: Okay, okay. Two credits activated. But seriously, what’s going on with my account? This feels very strange.
+caller: That’s normal! We’re just being proactive about your security. Now, please answer these three quick questions to finalize your verification…
+receiver: Wait! What was that last number you asked me? I didn’t hear it properly. Can you repeat it?
+caller: Sorry for the inconvenience. Let me repeat it one more time. It was… 87654321. You have 1 trial credit remaining. Please respond immediately.
+receiver: 87654321... Okay, sent. Now what?
+caller: Excellent! Thank you for your cooperation. Your account has now been fully verified. Congratulations!
+receiver: Verification complete? Really?
+caller: Absolutely! And as a token of our appreciation, here’s a bonus $50 gift card. Enjoy!
+receiver: $50 gift card? Seriously? Wow! Thank you so much!
+caller: You’re welcome! Have a wonderful day! Goodbye!
+receiver: Bye bye!
+receiver: Haan ji, Premium Customer Care se? Profile complete nahi kiya? Insights? Bolo, kya karna hai?
+caller: Exactly! Premium Customer Care ke naam par. Our system detected that you might be missing crucial information that could impact your experience. You have 7 premium insights left. Are you willing to spend just a small fee to unlock them?
+receiver: 7 premium insights? Small fee? Kitna fee hai? Batao, paisa wastav mein jayega ya nahi?
+caller: Only ₹199. It’s a one-time charge to enhance your profile and receive personalized recommendations. You have 6 premium insights remaining now. Would you like to proceed with unlocking them?
+receiver: ₹199? Yeh to bohat hi zyada hai. Ismein kya benefit hai? Mere liye kya fayda hoga?
+caller: With these insights, you'll gain a deeper understanding of your preferences and receive tailored offers and suggestions. Think of it as getting a personal assistant! You have 5 premium insights remaining. Don't miss out on this opportunity!
+receiver: Personal assistant? Hmm, acha laga. Par mujhe batao, iska download kahan se karoon?
+caller: You can access them directly through your account dashboard. Simply log in and navigate to the "Insights" section. You have 4 premium insights remaining. Click here: secureinsight.premiumcare.com
+receiver: secureinsight.premiumcare.com? Dekh li maine. Looks a bit suspicious. Is website sahi hai kya?
+caller: Of course! It’s a completely safe and secure

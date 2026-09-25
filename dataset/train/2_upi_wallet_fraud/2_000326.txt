@@ -1,0 +1,8 @@
+caller: Namaste! Mai Deepak se bol raha hoon, BharatPay se. Aapke BharatPay account mein cashback offer hai.
+receiver: Cashback? Kya offer hai?
+caller: Ji, aapko Paytm, PhonePe, ya Google Pay se ₹2000 tak ka cashback mil sakta hai. Par iske liye aapko ek small verification process complete karna hoga.
+receiver: Verification? Kaun sa verification? Aur ₹2000 cashback kispe milega?
+caller: Sir, verification bahut simple hai. Aapko apne BharatPay account se ₹50 verify karna hoga, phir cashback automatically aapke account mein add ho jayega. Yeh sirf ek security check hai.
+receiver: ₹50 verify? BharatPay se? Main toh kabhi BharatPay use nahi kiya. Yeh thoda suspicious lag raha hai.
+caller: Sir, koi chinta mat kijiye. Yeh offer sirf limited users ke liye hai. Aur agar aap verify nahi karte toh aap ₹2000 ka cashback miss kar jayenge. Jaldi kijiye!
+receiver: Theek hai, okay. Bataiyein kaise verify karu.

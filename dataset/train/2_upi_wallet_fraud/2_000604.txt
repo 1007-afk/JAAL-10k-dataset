@@ -1,0 +1,9 @@
+caller: Namaste, Madam! Mein Bank of Baroda se Rahul bol raha hoon. Aapke Bank of Baroda account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Suspicious transaction? Kitna hua? Mein toh koi transaction nahi kiya.
+caller: Haan ji, ₹7,500 ka transaction hua hai ek online gaming app mein. Aapko jald se jald verify karna hoga, warna account freeze ho jayega.
+receiver: Freeze ho jayega? Arre, mujhe toh kuch samajh mein nahi aa raha. Main kya karoon?
+caller: Aapko sirf ₹499 pay karne hai ek OTP verification fee ke liye. Phir hum aapke account ko secure kar denge. Aapko PayTM par payment karna hai, number hai 9876543210.
+receiver: ₹499? OTP verification fee? Ye to zyada lag raha hai. Mein bank mein khud jaa ke verify kar lunga.
+caller: Madam, time bahut kam hai! Account freeze hone wala hai! Jaldi se karo, ₹499 PayTM par 9876543210 pe send karo, aur OTP mujhe SMS karein.
+receiver: Theek hai, mein payment karta hoon. Par agar kuch gadbad hui toh mein complain karunga.
+caller: Bilkul madam! Koi chinta nahi. Aapka account abhi secure ho jayega. Ab OTP SMS karo.

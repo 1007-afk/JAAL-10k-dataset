@@ -1,0 +1,8 @@
+caller: Namaste! Main StarTrack Courier se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Oh, kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Sir, system mein dikh raha hai ke address incomplete hai. Parcel deliver karne se pehle, humein verify karna hai. Aapka OTP bataiye, please.
+receiver: OTP? Courier company aise bhi OTP maangti hai? Mujhe thoda doubt ho raha hai.
+caller: Sir, security ke liye hai. Yeh standard procedure hai. Koi chinta mat karein. OTP se hum verify karenge ke parcel aapke hi naam par hai.
+receiver: Theek hai, ek minute. Main apna bank app check karti hoon.
+caller: Haan, please. Jaldi karo, otherwise parcel wapas bhej denge.
+receiver: Wait, mujhe ek message aaya hai bank se. Yeh scam hai! Main report karti hoon.

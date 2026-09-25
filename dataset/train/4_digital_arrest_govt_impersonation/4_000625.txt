@@ -1,0 +1,7 @@
+caller: Namaste! Main Cyber Cell se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai Gujarat se, lekin customs clearance mein kuch problems hain.
+receiver: Gujarat se parcel? Mujhe toh koi order kiya tha. Kya hua exactly?
+caller: Sir, parcel mein illegal items paaye gaye hain - suspected narcotics. Aapko isi parcel se connect kiya gaya hai. Ab aapko CBI investigation mein cooperate karna hoga.
+receiver: Illegal items? Yeh toh galat baat hai! Main toh kuch bhi illegal nahi order kiya.
+caller: Sir, humare records mein naam aur address match ho raha hai. Yeh process complete karne ke liye, aapko ₹15,000 ka security deposit dena padega, taaki parcel release ho aur aapka naam clear ho sake. Aap UPI se pay kar sakte hain.
+receiver: ₹15,000? Yeh bahut zyada lag raha hai. Main police station mein jaa sakta hoon, unke saath baat kar sakta hoon.
+caller: Sir, police station mein jaakar kuch nahi hoga. Yeh CBI ka matter hai. Agar aap payment nahi karte hain, toh aapke naam par criminal case file ho sakta hai. Isliye, jaldi se payment kar dijiye. Mere paas limited time hai. Main aapko screenshot bhejta hoon UPI ID ka.

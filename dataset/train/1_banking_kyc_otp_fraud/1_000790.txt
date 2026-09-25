@@ -1,0 +1,7 @@
+caller: Namaste! This is Anjali from Axis Bank’s KYC verification department. We’ve noticed some unusual activity on your account and need to confirm a few details to prevent potential fraud.
+receiver: KYC verification? Okay… I see. Which account are you referring to? I have multiple accounts with Axis.
+caller: Yes sir, we understand. It’s regarding your Axis Direct trading account. To proceed with the verification, could you please share the last four digits of your PAN card? It’s a standard security protocol.
+receiver: My PAN card? That’s a bit sensitive, isn't it? Can’t you verify through some other means, like OTP or something?
+caller: We can send an OTP sir, but our system is currently experiencing technical difficulties with OTP verification. The PAN card last four digits are the quickest and most secure way to proceed right now. It’s vital we complete this today to avoid temporary suspension of your trading account.
+receiver: Suspension? Okay, okay. Let me check… It’s 4582. But I’m still a little uneasy about this. Can you please confirm your employee ID?
+caller: Certainly sir. My employee ID is AX4792. Now, just to finalize the verification, could you quickly confirm the last three digits of the mobile number registered with your Axis Direct account? This is just a final security measure, sir.

@@ -1,0 +1,6 @@
+caller: Namaste! This is Priya calling from LoanExpress. We’ve pre-approved you for a quick loan of ₹50,000! Very easy process, just need a little verification.
+receiver: LoanExpress? I don't think I applied for any loan. What's the interest rate?
+caller: The interest rate is nominal, just 5% per month. But to activate the loan, we need to verify your details. Could you please share the last four digits of your Aadhaar card? It’s just standard procedure.
+receiver: Wait a minute. Asking for my Aadhaar? That sounds a bit risky. Why can’t I call your office and verify?
+caller: Madam, our system is automated. For security reasons, we can't accept calls. If you don't verify now, the offer will be cancelled. And we'll have to impose a processing fee of ₹2,500.
+receiver: ₹2,500?! That's ridiculous. I'm not giving you my Aadhaar number. You're definitely a scammer. I’m reporting this number.

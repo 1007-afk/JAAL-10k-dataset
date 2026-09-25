@@ -1,0 +1,9 @@
+caller: Namaste! My name is Akash, calling from LoanExpress India. We have a special offer today for instant personal loans – approval in just 5 minutes!
+receiver: LoanExpress India? I hadn't heard of you. What kind of interest rates are we talking about? I need a loan for a medical emergency, but I can't afford very high rates.
+caller: Absolutely, Madam. We understand your situation. For a first-time applicant, we're offering a very attractive rate of just 12% per annum. Plus, a small processing fee of ₹250 to verify your details and activate your account. Very nominal!
+receiver: 12% isn’t bad, and ₹250 isn't too much. What details do you need exactly? And how will the loan be disbursed?
+caller: Just your Aadhaar card number and your registered bank account details. It's a standard verification process, Madam. Once verified, the loan amount will be credited directly into your account within minutes. We are currently offering loans up to ₹3 lakh.
+receiver: Aadhaar and bank details… That sounds a little risky. Can I speak to someone in person at your office? I’d prefer to do things the traditional way.
+caller: Madam, our office is currently undergoing renovations. We are operating entirely online for now for faster service. This is a limited-time offer, only available through this call. Just confirm your Aadhaar number, and we’ll get you approved. We only have a few slots left, and they're going fast!
+receiver: I'm not comfortable sharing such sensitive information over the phone. I think I'll pass on this offer.
+caller: Madam, please don’t be hasty! What if I tell you we can also send you a morphed picture of you to your contacts if you don’t accept the

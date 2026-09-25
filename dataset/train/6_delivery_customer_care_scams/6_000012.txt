@@ -1,0 +1,8 @@
+caller: Namaste, hello! Aapse ek important message check karna chahay. Aise hi kuch missed calls aaye hain aapke number se. Kya aapko kisi bhi time missed calls milte hain? Humne aapko ek special offer ki notification di thi, aur isliye calls aaye hain.
+receiver: Haan, hello. Missed calls toh tha, lekin main busy tha. Kya tha wo notification mein? Kiski offer thi?
+caller: Arre, koi problem nahi. Woh notification tha ki aapne [Mention a plausible brand, e.g., ‘Tech Solutions’] se ek new smartphone register karne ka option liya tha. Aur iske liye hum aapko ek exclusive discount provide karte hain.  Aapko yaad hai kya? Chaliye, main aapka name aur address check karta hoon, abhi aapko delivery timings pata chal jayega.
+receiver: Oh, Tech Solutions! Haan, main ne ek smartphone dekha tha.  Jaaniye, mujhe yaad hai. Confirm karein to please.
+caller: Shuruaat karein! Aapka full name aur address batao, agar aapko delivery schedule pata chenge.
+receiver: Mera naam Rahul Sharma hai, aur main [Your Street Address], [Your Area], [Your City] mein rehta hun. Pin code [Your Pin Code] hai. Confirm karo, sahi hai kya?
+caller: Dhanyavaad, Rahul Ji! Aapka address hai [Your Street Address], [Your Area], [Your City], pin code [Your Pin Code].  Ab, hum delivery process ko complete karne ke liye aapke mobile number par ek verification code bhejeinge. Is code ko enter karne se aapka package delivery secure hoga.
+receiver: Haan, meri number hai [Your Mobile Number]. Verification code bhejo. Main ready hu.

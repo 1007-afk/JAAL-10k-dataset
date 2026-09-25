@@ -1,0 +1,9 @@
+caller: Namaste, main Bharat Customs se Deepak Verma bol raha hoon. Aapke naam par ek parcel aaya hai Dubai se, jismein illegal items paye gaye hain.
+receiver: Illegal items? Kya? Mere naam par parcel? Main toh kabhi Dubai se parcel nahi maanga. Yeh kya ho raha hai?
+caller: Ji, parcel tracking number XYZ123456789 hai. Inspection mein paaya gaya ki usmein high-value electronic gadgets hain, jo customs rules ka violation karte hain. Aapko penalties bharne honge aur parcel release karne ke liye clearance chahiye.
+receiver: Wait, wait! Aap ka phone number check kar sakta hoon? Ya phir Bharat Customs website par check kar sakta hoon ki aap ka number authentic hai? Mujhe yeh thoda suspicious lag raha hai.
+caller: Sir, hamara system secure hai aur direct phone se hi confirm karte hain. Payment karne ke liye aapko UPI mein ₹18,500 deposit karne honge. I will send you the UPI ID. Jaldi karna hai, otherwise parcel seize ho jayega aur aap par legal action bhi ho sakta hai.
+receiver: ₹18,500? Yeh bohot zyada hai! Aur legal action? Sirf ek parcel ke liye? Mujhe ek moment do, main apne friend se baat karta hoon. Aap wait karein.
+caller: Sir, time bahut kam hai. Parcel seizure hone se pehle immediately payment karo. Yeh aapki reputation ka matter hai aur aapka future bhi at stake ho sakta hai. Do you understand the seriousness of this situation?
+receiver: Okay, theek hai. Aap mujhe customs officer ka naam aur ID de sakte hain? Aur woh parcel kahaan track kar sakta hoon? Main khud check kar raha hoon.
+caller: Sir, security protocol ke vajah se ID disclose nahi kar sakte. Parcel track karne ke liye ye link use karein: customs

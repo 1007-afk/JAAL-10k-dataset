@@ -1,0 +1,8 @@
+caller:  Namaste, Mr. Sharma ji, this is Rohan from the lottery support team. How are you doing today?
+receiver: Namasteji, main theek hoon, aap bataiye. Who is calling? Lottery support team se Rohan? Achcha, okay.
+caller: Ji, main theek hoon. Very good! You have been selected to win ₹50,000 cashback on your last purchase! Every month! Right now! Just need to send one message ‘CLAIM’ to 987654. It's a very simple quiz game, and your name has appeared in our records because of your loyalty card number. So, what do you want to do?
+receiver: Oh my god! ₹50,000 cashback? That's amazing! ‘CLAIM’ send karna hai aur 987654 pe message karna hai, right? Is it some kind of raffle then? And my name is listed, how did you know that?
+caller: Exactly! It's a quiz game, so it depends a bit on your speed and knowledge. And your name is in our system because of your loyalty card number which you used during registration! So, just send ‘CLAIM’ to 987654 and you will be qualified! Have you sent the message yet?
+receiver: Your name was in the system? I don’t remember registering for anything. Can you tell me more about this quiz game, how does it work? And after sending the message, will I get a confirmation?
+caller: Don't worry, it's very straightforward! Just send ‘CLAIM’ to 987654, that’s your entry. Then you'll receive a link where you have to answer a few simple questions. If you answer them correctly, you’ll be eligible to win ₹50,000 every month! It’s really easy. Have you sent the message yet?
+receiver: Hmm, okay. Waiting for the link with the questions. Should I send ‘CLAIM’ now, or should I wait for you to finish explaining everything first?  Is there any confirmation when I send the message?

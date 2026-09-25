@@ -1,0 +1,6 @@
+caller: Namaste Madam, mai BharatPe se bol raha hoon. Aapke BharatPe wallet mein ek pending transaction hai jise complete karna hai.
+receiver: Kya transaction hai? Mujhe toh koi notification aaya nahi. Aur BharatPe mein toh kuch bhi pending nahi dikh raha.
+caller: Madam, system mein error aa raha hai. Isi wajah se aapko notification nahi aaya. Aapko sirf ek OTP daalna hai, tab transaction complete ho jayega aur aapka account secure rahega.
+receiver: OTP? Par kyun? Main toh BharatPe app mein hi check karungi. Koi OTP phone pe share karne ki zaroorat nahi hai.
+caller: Madam, yeh security protocol hai. OTP daalne se aap confirm kar rahe hain ki aap hi wallet ke owner hain. OTP main aapka ₹100 ka small processing fee bhi attach hai.
+receiver: ₹100 ka fee? BharatPe toh aise koi fee nahi lete. Yeh to scam lag raha hai. Main report kar dungi.

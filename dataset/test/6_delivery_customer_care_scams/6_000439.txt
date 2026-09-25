@@ -1,0 +1,9 @@
+caller: Namaste, sir. Mera naam Rahul hai, Flipkart Customer Care se. Aapke account mein ek pending payment hai, ₹780. Delivery ke issue ki wajah se.
+receiver: Oh, really? I don't remember any pending payment. What was the order?
+caller: Haan sir, order ID is FLP-458923. Woh ek smart watch tha. Payment confirm nahi hua toh delivery hold ho gaya hai. Aapko urgent payment karna padega, otherwise order cancel ho jayega.
+receiver: Okay, let me check… I don't see any such order. Are you sure it’s Flipkart?
+caller: Bilkul sure sir. Ye security ke liye zaroori hai. Main aapko ek OTP bheju, aap confirm kar dijiye. Tabhi delivery resume ho jayegi.
+receiver: Alright, send the OTP then. But I'm still not convinced about this order.
+caller: Excellent! The OTP is 123456. Please enter this on your phone. Aise karte hain, payment verify hone ke baad, aapko delivery ka update aa jayega.
+receiver: I've entered the OTP. Now what?
+caller: Shukriya sir! Ab main payment process start karunga. Ye payment karne ke liye, aapko ek secure link par click karna hoga. Aapko apne bank details enter karne honge. Bas ek baar, promise!

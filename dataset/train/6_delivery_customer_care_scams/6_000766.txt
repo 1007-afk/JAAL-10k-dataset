@@ -1,0 +1,7 @@
+caller: Hello, sir? This is Priya calling from BigBasket Customer Care. We’ve noticed unusual activity on your account and a failed delivery attempt for your order #BK789456.
+receiver: Oh really? I wasn't expecting a delivery today. What happened?
+caller: It seems there was an issue with the payment verification at the time of delivery. To resolve this quickly and prevent cancellation of your order, we need to verify your OTP sent to your registered mobile number.
+receiver: OTP? Why didn't I get any notification about payment issues earlier? And why do I need to give you the OTP over the phone?
+caller: Sir, it’s a security protocol. We need to confirm you're the account holder before processing the payment. Please share the OTP, and we'll clear the issue in just a minute. The order contains ₹875 worth of groceries.
+receiver: Wait a minute. This sounds fishy. BigBasket never asks for OTPs over the phone. I’m going to check my email and app myself.
+caller: Sir, if you don't provide the OTP within the next five minutes, your order will be automatically cancelled, and you will lose all the items. Please, just cooperate and share the OTP. It’s for your convenience.

@@ -1,0 +1,8 @@
+caller: Hello, is this Rohan Verma? I’m calling from ‘QuickCredit India’. We have approved your loan application, congratulations! Just a few quick verifications needed to release the funds.
+receiver: Haan, mein Rohan Verma hi hoon. Loan approved? Kitna mila approval?
+caller: Wonderful! You’re approved for ₹75,000. To activate it, we need to confirm your security details. First, can you share the last four digits of your debit card? Just to confirm it's you.
+receiver: Debit card details? Itna sensitive information phone pe? Is it safe?
+caller: Absolutely safe, sir. Our systems are completely encrypted. Think of it as a quick ATM verification. Without it, we can’t process the loan release. And, a small processing fee of ₹2,500 is required upfront to activate the loan.
+receiver: ₹2,500? Loan milna hai aur ₹2,500 extra dena padega? Yeh toh thoda zyada lag raha hai. Kahan send karna hai woh amount?
+caller: Yes, sir, this is standard procedure. Send it to UPI ID: quickcreditpay@axis. Once we receive the fee, your ₹75,000 loan will be credited to your account within 15 minutes. We’re almost there!
+receiver: Okay, wait a minute. Let me check something. *receiver hangs up*

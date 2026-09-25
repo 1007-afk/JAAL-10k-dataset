@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rohan hai, mai Axis Bank se call kar raha hoon. Aapke Axis Bank account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kis tarah ka transaction? Aur kitna amount hai?
+caller: Sir, ek online transaction hua hai ₹7,500 ka, jo aapne approve nahi kiya hai. Iska matlab aapke account ki security compromised ho sakti hai. Immediate action lena zaroori hai.
+receiver: Oh no! Toh main kya karoon? Mera account safe karein.
+caller: Sir, aapko ek OTP milega apne Axis Bank app mein. Woh OTP mujhe bataiye, taaki mai aapke account ko block kar sakun aur is transaction ko reverse karwa sakun. Aapse ek chhoti si processing fee bhi leni padegi ₹500, jo aapki UPI ID par pay karenge.
+receiver: ₹500 processing fee? Aur OTP bhi dena hai? Yeh thoda risky lag raha hai.
+caller: Sir, time bahut kam hai! Agar aap abhi nahi karenge toh hacker aapke account se aur bhi transactions kar sakte hain. ₹500 fee sirf security purpose ke liye hai, aur OTP se aapki identity verify hogi. Please, jald se jald karein!
+receiver: Theek hai, ek minute... Mai check karta hoon.
+caller: Jaldi karein sir, hacker ka koi pata nahi kab attack karega. Aapka account aapki responsibility hai.

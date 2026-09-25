@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Rahul, calling from BlueSwift Courier. We’re having trouble locating your package, tracking number BW45921. It needs urgent attention.
+receiver: Yes, this is Sharma. BlueSwift? I don’t recall ordering anything recently. What's the issue with the package?
+caller: Sir, the package is currently held at our regional sorting facility due to an incorrect address. To complete the delivery, we need to verify your payment details. There's a small outstanding fee of ₹385 for the address correction.
+receiver: ₹385? That seems unusual. Can't you just update the address? And why didn't I receive any prior notification about this fee?
+caller: Sir, security protocols are strict. We need to confirm the payment via OTP to prevent fraud. Just send us the OTP you receive on your registered mobile number and we will process the correction right away. It’s a quick process.
+receiver: Hold on a minute. I'm going to call BlueSwift directly to confirm this. What’s your direct number?
+caller: Sir, our policy doesn't allow direct calls due to high call volumes. Please just send the OTP, sir. Delivery is time-sensitive. We cannot risk delaying your package further.

@@ -1,0 +1,7 @@
+caller: Namaste, madam. This is Rohan calling from HDFC Bank’s KYC verification department. We've noticed some unusual activity on your account and need to urgently update your details to prevent any potential fraud.
+receiver: HDFC Bank? Okay. What kind of unusual activity? And what details do you need?
+caller: Madam, it appears there was an attempted transaction from a foreign IP address. To secure your funds, we need to confirm your identity. I'll send an OTP to your registered mobile number. Could you please share that OTP with me? It’s a standard security measure.
+receiver: OTP? But I haven't received any OTP. And why didn’t you just block the card or account? Also, can you please confirm my name and account number before I share anything?
+caller: Madam, the OTP is crucial to verifying you are the legitimate account holder.  We’re doing this proactively to protect you. Your name is Anjali Verma, and the account we're referring to ends in 4582. Please, share the OTP quickly – the system will automatically lock the account if we don't verify within the next 5 minutes.
+receiver: Five minutes? Lock the account? Wait a minute, this feels a bit fishy. HDFC Bank never asks for OTPs over the phone. Can you please give me a reference number for this verification so I can check with the bank directly?
+caller: Madam, a reference number isn’t necessary. This is a top-priority security protocol. Don't delay – your account is at risk. Just provide the OTP and we'll resolve this immediately. It's 147269.

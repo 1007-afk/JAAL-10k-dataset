@@ -1,0 +1,8 @@
+caller: Namaste, main Vijay se bol raha hoon, PaySecure Solutions se. Aapke Paytm wallet mein ek suspicious transaction detect hua hai – ₹250 ka ek payment kiya gaya hai jo aapne nahi kiya.
+receiver: Kya? ₹250? Mujhe toh koi transaction yaad nahi aa raha.
+caller: Ji, sir. Hamare system mein dikh raha hai. Isko secure karne ke liye, aapko bas ek OTP verify karna hai. Mein aapko ek link send karunga, usmein OTP daalna hai.
+receiver: OTP? Mereko OTP link ka wait karwao. Aap se mujhe koi trust nahi kar raha hai. Itni jaldi mein OTP kyun maang rahe ho?
+caller: Sir, time bahut important hai. Agar aap jaldi se verify nahi karenge, toh aapka Paytm wallet block ho sakta hai. OTP bas aapki security ke liye hai. Link send kar raha hoon…
+receiver: Dekho Vijay ji, mujhe lag raha hai yeh ek scam hai. Paytm kabhi bhi aise OTP maangta nahi hai. Main report karunga.
+caller: Sir, aapko ₹250 refund nahi milega agar aap verify nahi karenge. Please verify now!
+receiver: Nahin, main verify nahi karunga. Bye.

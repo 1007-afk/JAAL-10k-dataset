@@ -1,0 +1,9 @@
+caller: Ji sir, mai Axis Bank se Rahul bolata hu. Aapke Axis Bank digital wallet mein kuch suspicious activity dikhi hai.
+receiver: Arre? Kya activity? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek international transaction try kiya gaya tha ₹7,500 ka. Aapne kiya tha ya nahi?
+receiver: Nhi sir, maine toh koi international transaction nahi kiya.
+caller: Theek hai sir, tab aapko apna wallet secure karna hoga. Isliye mai aapko call kar raha hu. Aapko ek OTP mil raha hoga, woh mujhe bata dijiye, tab mai aapke wallet ko freeze kar dunga.
+receiver: OTP? Kaise? Mujhe toh koi OTP nahi mila. Aur freeze karne ki zarurat kya hai?
+caller: Sir, OTP aapke registered mobile number par aayega. Aapko jaldi karna hoga, warna hacker aapke account se aur bhi paisa nikal sakta hai. OTP bataiye, mai aapko secure karunga.
+receiver: Thoda wait kar ke dekhta hu, mujhe OTP nahi mila. Phir call karta hu mai.
+caller: Sir, aapko jaldi karna chahiye. OTP receive karein aur bataiye, warna aapka account block ho jayega. Block hone se aapka paisa bhi stuck ho sakta hai.

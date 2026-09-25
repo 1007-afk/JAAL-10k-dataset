@@ -1,0 +1,18 @@
+caller: Namaste! Kaise haal hai? Main Reliance Jio se baat kar raha hoon. Tumhara mobile number par ek notification aaya tha, Reliance Jio ne ek surprise diya hai tumhare liye! Tumhein ₹500 ka recharge voucher mila hai, totally free! Ye voucher sirf 2 ghante ke liye valid hai, so hurry up!
+receiver: Oh, ji! Hai ji! Reliance Jio se ho? Fir bhi? Mein toh abhi recharge kar hi raha tha.
+caller:Haan ji, woh toh acha hai! Par humein kuch details jankari chalni hogi, agar tum logo ne ₹500 ka voucher accept kiya hai.  Tumhara naam kya hai? Aur tum kaunse network ka user ho?  Bas iski confirmation karne ke baad, ₹500 ka voucher tumhare phone mein automatically transfer ho jayega!
+receiver: Mera naam Priya Patel hai, aur mein Airtel use karti hoon.
+caller:  Achaa, Priya! Shukriya!  Agar tumne ₹500 ka voucher accept kiya hai, to tumko ek OTP chahiye hoga.  OTP tumhare WhatsApp pe aa jaayega.  Is OTP ko humein dedo, phir tumhari account mein ₹500 deposit ho jayenge.  Yeh sirf verification ke liye hai, don’t worry.
+receiver: OTP? WhatsApp pe aaega?  Main toh WhatsApp ka user nahi hoon.
+caller:  Koi baat nahi! Tum ek stranger number par call kar sakti ho, aur OTP jo aaye, wo humein bata do.  Ye bahut simple hai!  Aapko ₹500 ka voucher mil jayega, and you can enjoy unlimited calls!
+receiver:  Unlimited calls?  Yeh toh badhiya lagta hai!  Par mujhe abhi abhi OTP chahiye nahi.  Mein fir se call karunga.
+caller:  Ji ji, koi problem nahi. Lekin yeh offer sirf 2 ghante ke liye available hai.  Agar tum forget ho gayi, toh tumhe ₹500 ka voucher nahi milega.  So hurry up!
+caller: Namaste! Kaise haal hai? Main Vodafone Idea se baat kar raha hoon. Tumhara mobile number par ek notification aaya tha, Vodafone Idea ne ek surprise diya hai tumhare liye! Tumhein ₹300 ka data pack mila hai, totally free! Ye pack sirf 1 ghante ke liye valid hai, so hurry up!
+receiver: Oh, ji! Hai ji! Vodafone Idea se ho? Fir bhi? Mein toh abhi data recharge kar hi raha tha.
+caller:Haan ji, woh toh acha hai! Par humein kuch details jankari chalni hogi, agar tum logo ne ₹300 ka pack accept kiya hai.  Tumhara naam kya hai? Aur tum kaunse network ka user ho?  Bas iski confirmation karne ke baad, ₹300 ka data pack tumhare phone mein automatically transfer ho jayega!
+receiver: Mera naam Kavita Singh hai, aur mein BSNL use karti hoon.
+caller: Achaa, Kavita! Shukriya! Agar tumne ₹300 ka pack accept kiya hai, to tumko ek OTP chahiye hoga.  OTP tumhare SMS pe aa jaayega.  Is OTP ko humein dedo, phir tumhari account mein ₹300 deposit ho jayenge.  Yeh sirf verification ke liye hai, don’t worry.
+receiver: OTP? SMS pe aaega?  Main toh SMS ka user nahi hoon.
+caller: Koi baat nahi! Tum ek stranger number par message kar sakti ho, aur OTP jo aaye, wo humein bata do.  Ye bahut simple hai!  Aapko ₹300 ka data pack mil jayega, and you can enjoy unlimited internet!
+receiver: Unlimited internet?  Yeh toh badhiya lagta hai!  Par mujhe abhi abhi OTP chahiye nahi.  Mein fir se call karunga.
+caller: Ji ji, koi problem nahi. Lekin yeh offer sirf 1 ghante ke liye available hai.  Agar tum forget ho gayi, toh tumhe ₹300 ka data pack nahi milega.  So hurry up!

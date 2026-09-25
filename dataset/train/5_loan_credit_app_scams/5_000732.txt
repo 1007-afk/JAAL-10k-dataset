@@ -1,0 +1,9 @@
+caller: Namaste! Main Rahul, SwiftLoanSolutions se bol raha hoon. Aapko urgent loan ki zaroorat hai kya? Hum ₹10,000 se ₹75,000 tak ka loan sirfadharan credit score wale logo ko bhi de rahe hain. Koi paperwork nahi, sirf thoda verification.
+receiver: Hello, Haan, mujhe ₹30,000 ki loan ki zaroorat hai. Interest rate kitna hoga?
+caller: Priya ji, SwiftLoanSolutions mein, humara interest rate industry mein sabse kam hai - sirf 12% per annum. Aur yeh offer sirf limited time ke liye hai. Aapko verification ke liye sirf aadhaar card aur photo copy send karna hoga.
+receiver: Aadhaar card? Yeh thoda risky lag raha hai. Aur mujhe koi upfront fees pay karna padega kya?
+caller: Priya ji, koi bhi upfront fees nahi. Hum complete trust ke saath loan provide karte hain. Aapka aadhaar card sirf identity verify karne ke liye hai, aur woh completely secure hai. Jaldi kijiye, offer khatam hone wala hai. Agar aapko delay kiya toh aapka loan approval cancel ho sakta hai.
+receiver: Okay, fine. But agar meri photo ko misuse kiya toh? Mujhe yeh baat pasand nahi.
+caller: Priya ji, please trust us. Hum legal agreement sign karte hain jisme hum photo misuse nahi karenge. Hum sirf aapko help karna chahte hain. Ab aap documents send karein taaki hum loan process start kar sake. Jaldi kijiye.
+caller: Priya ji, abhi aapke bank account details bataiye taaki hum loan transfer kar sake. Account number, IFSC code bataiye.
+caller: Priya ji, ek aur cheez! ₹2500 service charge ke liye aapko bank transfer karna hoga, tabhi loan transfer hoga.

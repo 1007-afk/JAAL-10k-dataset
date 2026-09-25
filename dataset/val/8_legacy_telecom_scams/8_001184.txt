@@ -1,0 +1,8 @@
+caller: Namaste sir, ek mahatvapurna khabar hai! Aapne online competition mein jeet liya hai aur aapko ₹5000 ka gift voucher mila hai! Aapke naam ki selection sabhi ne ki hai!  Aapko 09876543210 par call karna hai, subah 10 baje se shaam 6 baje tak. Call ka charge ₹2 hai. Yeh ek bahut hi sundar opportunity hai!
+receiver: Oh wow, ₹5000! Really? So I have to call 9876543210? Is that the correct number?  ₹2 charge hai?  That sounds good, tell me more about this gift voucher!
+caller: Haan, bilkul sahi! Aapne genuinely online game 'Raja Ki Rani' mein jeet liya hai.  Aapko Flipkart par ₹5000 ka gift voucher milega. Aur haan, claim karne ke liye, 09876543210 pe call karein. Charge ₹2 hai, lekin aapko cashback bhi milega!  Yeh offer humare Diwali campaign ka hissa hai.  Aap abhi call karne wali hain?
+receiver: Flipkart? Seriously? Okay, let me check the number - 09876543210.  ₹2 charge, but cashback too?  Interesting...  I’ll give it a try.
+caller: Ji, ji!  Call karke dekhein. Agar aapko koi dhyan nahin mili toh mujhe batayein, main aapki madad karunga.  Aapko ₹5000 ka gift voucher mil sakta hai!  Main phone rakhta hoon, jaldi call kijiye!
+receiver:  Okay, I'm calling now.  Thank you again for all the information.  I’ll let you know if anything happens. Bye!
+caller:  Shubh kaam karte rahein!  Aapko bohat mazaa ayega, aur agar koi samasya aaye toh mujhe malum kardein.  Main aapki service mein available hoon.  Phone rakhte hain, call karo!
+receiver:  Ji, thanks!  I will call.  Goodbye!

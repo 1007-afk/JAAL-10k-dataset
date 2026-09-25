@@ -1,0 +1,6 @@
+caller: Hello, this is Inspector Verma from the Directorate of Revenue Intelligence, DRI. We are investigating a case of suspected money laundering linked to your bank account.
+receiver: Money laundering? Yeh kya keh rahe hain aap? Mere account mein toh sirf savings hai, koi illegal transaction nahi.
+caller: Sir, our records indicate several large, untraceable deposits into your account over the past few months, followed by rapid withdrawals to offshore accounts. It’s a serious matter. We need to verify your identity and your involvement in this.
+receiver: Offshore accounts? Yeh toh galat hai! Main toh kabhi bhi offshore account nahi dekha. Kya proof hai aapke paas? Mujhe yeh sab suspicious lag raha hai.
+caller: Sir, we have digital evidence. To prevent further legal complications and potential asset freezing, we need you to make a small compliance payment – just Rs. 8,500 – to secure your account. This is a standard procedure to ensure you’re not unknowingly involved in these activities.
+receiver: Rs. 8,500? Compliance payment? Sir, yeh toh extortion lag raha hai. Koi bhi genuine government official aise demand nahi karta. Main police station mein report karunga agar aapko lage ki main cooperate nahi kar raha. Aapka naam aur ID number batao.

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from Frecharge Support. We've noticed some unusual activity on your Frecharge account, specifically a pending cashback claim.
+receiver: Frecharge? Mujhe Frecharge se koi offer nahi mila tha. Yeh kaise hua?
+caller: Yes ma’am, you recently participated in a promotional quiz and won a ₹5,000 cashback. However, to process it, we need to verify your account details for security reasons. It's a quick process, just a few details.
+receiver: ₹5,000? Wah! Lekin mujhe toh koi quiz bhi yaad nahi. Aur mujhe bank details kyun pooch rahe ho? Yeh safe hai?
+caller: Absolutely safe, ma’am. It’s standard procedure to prevent fraudulent claims. Could you please provide the last six digits of your bank account number linked to Frecharge? We need it to cross-reference the cashback amount.
+receiver: Bank account number? Itna personal information main kyun doon? Koi scam lagta hai.
+caller: Ma’am, please don't worry. We are following our company policy. Without this verification, we cannot release the cashback. Think of the ₹5,000 you're missing out on! It’s just a formality, we need to do it to process your claim.
+receiver: ₹5000 ka cashback... Hmm. Okay, the last six digits are 123456. Par agar kuch galti hui toh main tumhe report kar dungi.
+caller: Thank you, Mrs. Verma. Just one final step. We need you to click on this link to confirm your details: [Fake Link]. This will redirect you to a secure Frecharge page.

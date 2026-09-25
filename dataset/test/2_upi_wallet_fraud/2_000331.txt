@@ -1,0 +1,6 @@
+caller: Namaste! Main Paytm Customer Support se bol raha hoon. Aapke Paytm wallet mein ek suspicious transaction attempt dekha gaya hai.
+receiver: Kya? Transaction attempt? Kaunsa transaction? Mujhe toh kuch yaad nahi aa raha.
+caller: Ji, ₹499 ka transaction try kiya gaya tha Amazon pe. Iska proof mein aapko OTP ke through verify karna hoga taaki aapka account secure rahe.
+receiver: ₹499 Amazon pe? Mein toh Amazon pe kuch bhi nahi khareeda tha. Aur OTP kyun? Paytm toh OTP sirf transactions ke liye leta hai na?
+caller: Haan ji, lekin yeh ek security protocol hai. OTP check hone ke baad transaction cancel ho jayega. Please, OTP bata dijiye, woh hai 98765.
+receiver: Wait! Kuch toh gadbad hai. Paytm toh kabhi aise nahi bolta. Main abhi police mein report karunga.

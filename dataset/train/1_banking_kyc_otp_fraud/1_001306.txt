@@ -1,0 +1,7 @@
+caller: Namaste Madam, main ICICI bank se Rohit Sharma bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai, ₹15,000 ka payment online kiya gaya hai.
+receiver: Kya? ₹15,000? Mein toh koi payment nahi kiya. Check karo tum log.
+caller: Madam, yeh bahut serious hai. Account secure karne ke liye, mujhe aapka OTP aur bank account number chahiye hoga taaki main transaction block kar sakoon. Jaldi karo, otherwise hacker account loot le jayega.
+receiver: OTP? Account number? Par yeh toh fraud lag raha hai. ICICI bank aise call karke personal details nahi manta.
+caller: Madam, please, time bahut kam hai. Hamara system aapko secure kar raha hai. OTP sirf aapke registered mobile number pe hi aayega. Account number se hum verify kar lenge. Isko ignore mat kijiye.
+receiver: Dekhiye, mein khud ICICI bank ka customer hoon, aur mujhe pata hai bank kaise kaam karta hai. Tum log mujhe scare kar rahe ho. Mein koi bhi detail nahi dungi. Mein abhi hi police mein report karungi.
+caller: Madam, please don’t do that! We are just trying to help you. Just give me the OTP quickly, and I'll block the transaction immediately. Think about your money!

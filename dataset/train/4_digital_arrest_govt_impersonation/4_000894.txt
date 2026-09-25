@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Inspector Verma hai, Central Cyber Crime Investigation Cell se. Hum aapke naam par ek illegal cryptocurrency transaction ho raha hai. Account number 7890123456.
+receiver: Illegal transaction? What? I don't deal in cryptocurrency. This must be a mistake.
+caller: Mistake nahi hai. Our records show a significant amount transferred using your bank account. Agar aap cooperation nahi karenge, toh humko FIR register karne hogi aur aapko arrest karna padega.
+receiver: Arrest? But I haven’t done anything! Can you show me the details of this transaction? I want to see proof.
+caller: Proof is with our senior officers. For now, aapko ₹50,000 fine bharne hogi, tak case ko settle kiya ja sake. Otherwise, court mein aana padega. Call this number 9012345678 for payment details.
+receiver: Fifty thousand? This is outrageous! I'm contacting my bank and reporting this. I am not paying anything.
+caller: Wait! Don’t do anything rash! We can reduce the amount to ₹30,000 if you pay immediately. Otherwise, the case will escalate, and you'll face serious consequences. Call 9012345678, quickly!

@@ -1,0 +1,8 @@
+caller: Hello sir/madam, this is the Directorate of Enforcement, Delhi. We’ve detected suspicious activity linked to your WhatsApp account, potentially involved in illegal cryptocurrency transactions.
+receiver: What? My WhatsApp? But I don’t do anything like that. What kind of suspicious activity are you talking about?
+caller: Sir, our records show numerous transactions from your number, linked to several offshore wallets. To clear this up, we need you to verify your identity and provide some financial details. It's a standard procedure.
+receiver: This sounds really strange. The ED usually sends notices through official channels, right? Why are you calling me directly and asking for financial details? I’m a little nervous, to be honest.
+caller: Sir, time is of the essence. There's a court order in place, and we need to act quickly to prevent further financial losses. To complete the verification process, we need your bank account details and a small processing fee of ₹5,000 to cover investigation costs.
+receiver: Hold on! I'm not giving you my bank details over the phone. That’s incredibly risky. You’re supposed to be law enforcement. If there’s a court order, you should have documentation. I’m calling my lawyer and reporting this.
+caller: Sir, please don’t be hasty. This is a serious matter. You're risking severe legal consequences if you don't cooperate. We can provide a reference number – it’s Case ID: DE-2024-789. Just a quick transfer, and we’ll resolve this immediately.
+receiver: A reference number isn't proof of anything. I'm ending this call now. And I'm reporting you to the cybercrime cell.

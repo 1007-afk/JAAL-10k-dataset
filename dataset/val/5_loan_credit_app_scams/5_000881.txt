@@ -1,0 +1,11 @@
+caller: Namaste, Mrs. Sharma? Mera naam Rohan hai, SpeedyLoans se. Aapke account mein ₹12,000 ka pending transaction dikh raha hai.
+receiver: ₹12,000? Main toh koi transaction nahi kiya.
+caller: Haan, madam. Aapne kal raat ko ek online shopping application kiya tha, FastBuy se, aur payment fail ho gaya. Ab woh amount hold ho gaya hai.
+receiver: FastBuy? Mujhe toh FastBuy se koi order yaad nahi.
+caller: Chinta mat karo, madam. Hum aapko verify kar sakte hain. Aapka OTP send karo, bas. Phir hum aapko ₹12,000 back kar denge.
+receiver: OTP? Kaun se number pe send karo?
+caller: Haan, madam, ek second. Woh, ₹12,000 ke ilawa, aapke account mein ₹5000 ka ek aur suspicious transaction bhi hai, sir.
+receiver: ₹5000 bhi? Yeh kya ho raha hai?
+caller: Madam, isko solve karne ke liye aapko humein aapke bank account details bhi chahiye. Verification ke liye hi. Jaldi karo, warna aapke account se saare paise nikal jayenge.
+receiver: Wait, wait! Koi bhi information main nahi dene wala. Main police mein report karungi.
+caller: Madam, aap galat kar rahe hain. Hum legal procedures follow kar rahe hain. ₹12,000 aur ₹5000, dono aapke account se chala jayega. Hurry up!

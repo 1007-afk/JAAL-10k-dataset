@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from QuickCash Loans. I’m calling about your recent loan application. It’s been pre-approved for Rs. 18,000! Very exciting, right? Just need to verify a couple of details.
+receiver: QuickCash Loans? I don't remember applying for a loan. Are you sure you have the right number?
+caller: Yes, absolutely! Your number is registered with Aadhaar under the name Rajesh Kumar? We have excellent interest rates for first-time borrowers. Just need a small processing fee of Rs. 2500 upfront to activate the loan. You can send it to UPI ID: quickcashpay@axis.
+receiver: Wait a minute! A processing fee *before* the loan? That doesn’t sound right. Every bank I've dealt with takes the fee out of the loan amount itself.
+caller: Sir, this is a very streamlined process, much faster than a bank. Think of it as a security deposit. Once the loan is active, you’ll receive your Rs. 18,000 immediately.  And if you delay payment by even a few hours, we'll have to send reminders to your contacts about your loan default.
+receiver: Reminders to my contacts?! What are you talking about? This is a scam. I'm reporting your number. Goodbye.
+caller: Rajesh, please don't be like that! We're offering you a fantastic opportunity. Just a small fee now, and you’ll have money in your account. Think about it! We can give you another chance. Just send the Rs. 2500 and confirm!

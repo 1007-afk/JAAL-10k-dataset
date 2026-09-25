@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Akash from LoanExpress. We’ve noticed you recently applied for a personal loan. Congratulations, you’re pre-approved for an instant loan of up to ₹2 lakhs! Just a few quick verifications and the money will be in your account.
+receiver: LoanExpress? I don't think I applied with them. I've been looking at some options, but nothing concrete.
+caller: That’s okay sir, sometimes the application goes through different portals. To proceed, can you please confirm your full name and date of birth for verification? It’s standard procedure.
+receiver: My name is Vijay Patel, and my date of birth is 12/08/1985. Is this really secure? It feels a little strange giving that information over the phone.
+caller: Absolutely sir, completely secure. For additional security, we need to send a one-time password to your WhatsApp number. This is just to ensure you are the rightful applicant. What is your registered WhatsApp number?
+receiver: Okay, fine. It’s 9876543210. Just please be quick about this. I'm a little worried now.
+caller: Perfect, sir. Now, for disbursement of your loan, we require a small processing fee of ₹5,000 to be transferred to this account: 1234567890. This will activate your loan and ensure immediate transfer.

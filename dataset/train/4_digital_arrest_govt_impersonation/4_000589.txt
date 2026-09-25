@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Ajay Verma? This is Inspector Rajan from the Delhi Customs Department. We have a serious issue regarding a package registered under your name, destined for Mumbai.
+receiver: Haan, bolie, kya hua? Mujhe koi package nahi mila.
+caller: Sir, preliminary investigations indicate the package contains suspicious items – potentially linked to illegal narcotics trafficking. We need to verify your involvement immediately. For your safety and to clear this up swiftly, we require you to join a video call with our verification team. The number is 918800229911. Please call within the hour.
+receiver: Illegal narcotics? Lekin, main toh kabhi drugs nahi leta! Aur mai Mumbai mein nahi rehta, main Lucknow mein hoon.
+caller: Sir, the system shows a registered address in Mumbai, but addresses can be incorrect. This is a sensitive matter. Refusal to cooperate will be interpreted as obstruction of justice, which carries serious legal consequences. The video call is crucial to prevent further escalation. Have you recently sent any parcels internationally?
+receiver: Nahin, sir, main kabhi parcel nahi bhejta. Yeh toh galat hai! Main police station mein jayunga complaint karne.
+caller: Sir, please refrain from such hasty decisions. This is a formal investigation, and going to the police station won’t resolve the issue – it might complicate it. The video call will allow us to quickly clear your name. To expedite the process, could you please transfer ₹15,000 to the account number [invented account number] as a temporary security deposit? This is standard procedure for these kinds of investigations.
+receiver: ₹15,000? Aukat mein nahi hai! Aur koi security deposit nahi dene ka sawal hi nahi hai. Yeh scam hai!

@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? I am calling from the Directorate of Revenue Intelligence, Delhi. We have intercepted a suspicious parcel linked to your mobile number.
+receiver: Haan, main hi Priya Sharma. Parcel? Mujhe toh koi parcel nahi mila. Kisliye suspicious hai?
+caller: Ji, Ma'am. According to our records, this parcel contains items related to illegal cryptocurrency mining and money laundering. We need to verify your involvement, Ma'am.
+receiver: Kya bol rahe ho? Mujhe toh crypto se koi matlab nahi hai. Main toh ek teacher hoon. Yeh galat fehmi hai.
+caller: Ma’am, the parcel was shipped using your registered address and the tracking details are linked to your mobile. To clear this misunderstanding and avoid legal consequences, you need to pay a small processing fee of ₹8,000 as a security deposit.
+receiver: ₹8,000? Seriously? Government koi fee maangegi nahi. Aur parcel toh mujhe hi nahi mila! Yeh ek scam lag raha hai. Main police mein complaint karungi.
+caller: Ma’am, please don't jump to conclusions. This is a standard procedure to verify your innocence. We need to ensure the parcel wasn't used for illicit activities. We can arrange a video call with a senior officer for verification, but the fee must be paid first. Think about it, Ma'am, before it escalates.
+receiver: Video call? Aur fees bhi? Mujhe koi doubt nahi hai ki yeh scam hai. Main koi bhi payment nahi karungi. Aur main abhi complaint register kar rahi hoon.

@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Rajesh Kumar speaking? This is Inspector Sharma calling from the Delhi Customs Department. We need to speak with you urgently regarding a parcel intercepted at Indira Gandhi International Airport.
+receiver: Haan, bolie. Rajesh Kumar yahan. Parcel? Kya baat hai?
+caller: Sir, during routine screening, the parcel containing your name was found to be carrying suspicious items. Preliminary investigations suggest it might be linked to illegal currency exchange and potential smuggling.
+receiver: Illegal currency? Smuggling? Yeh kya keh rahe hain aap? I haven’t sent any parcel.
+caller: Sir, we have your details linked to the tracking number. We need to verify these details and prevent further legal complications. To clear this issue, we require a small processing fee of ₹8,000 to cover forensic analysis and clearance charges. You can pay via UPI to the ID: customs.clearance@axis.
+receiver: ₹8,000? For what? I told you, I didn’t send any parcel! This sounds like a scam.
+caller: Sir, please understand, this is a legal matter. Refusal to cooperate will lead to further investigation and potential legal action against you. We are also holding you on a video call to ensure you don’t share this information with anyone and attempt to destroy evidence. Cooperate and pay the fee immediately to resolve this.

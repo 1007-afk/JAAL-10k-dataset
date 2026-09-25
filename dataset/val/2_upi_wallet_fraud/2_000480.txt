@@ -1,0 +1,6 @@
+caller: Ji haan, aap PhonePe use karte hain? Sir, aapko apna PhonePe account secure karna hai, warna aapka account hackers ne hack kar sakte hain aur aapke paise chala jayenge.
+receiver: Kya? Hackers? Lekin maine toh PhonePe mein security settings set ki hui hain. Mujhe kuch karne ki zaroorat hai?
+caller: Haan bhai, security settings kaafi nahi hain. PhonePe ne ek naya security feature launch kiya hai, aur aapko usko activate karna hai. Agar aap activate nahi karenge toh 2 ghante mein aapka account risk mein aa jayega.
+receiver: 2 ghante? Itni jaldi? Koi link bhejo jahan se main activate kar sakoon. Aur woh kya feature hai?
+caller: Link nahi bhejna hai, bhai. PhonePe app open karein, profile section mein jaein, aur wahan ek notification dikhega 'Secure Your Account'. Uspe click karein aur ek OTP daalen. OTP aapke registered phone number par aayega.
+receiver: OTP? Okay, thik hai. Par agar OTP galat daal do toh? Aur ye 'Secure Your Account' notification kahan milega, mujhe toh kuch nazar nahi aa raha hai.

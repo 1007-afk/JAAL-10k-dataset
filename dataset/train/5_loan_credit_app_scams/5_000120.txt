@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? We're calling from LoanExpress, regarding your recent application for a quick personal loan. Congratulations, you're pre-approved!
+receiver: LoanExpress? I don’t remember applying for a loan. Are you sure you have the right person?
+caller: Yes, Priya Sharma, registered with Aadhaar number 456789012345. Just need to confirm a few details to activate the loan of ₹50,000. For security, can you share the last four digits of your bank account number?
+receiver: Wait a minute. Why would they need my bank account details before finalizing the loan? It feels a bit odd. And I'm very sure I haven't applied anywhere.
+caller: Priya ji, relax! It’s a standard verification process. We need to link your account for the quick transfer.  Plus, to prevent fraud, we need a small processing fee of ₹500 upfront. This will also ensure your loan is activated immediately. Don’t miss out on this amazing opportunity!
+receiver: A processing fee *before* I get the loan? That’s not how loans usually work. And I'm definitely not giving you my bank details. This is a scam, right? I’m reporting this number.
+caller: Priya, please don't be hasty! Look, we can waive the ₹500 fee. Just provide your UPI ID. It’s a one-time thing, just for verification. Otherwise, the approval will be cancelled.
+receiver: Seriously? Fine. Let me just call my brother and check with him. Goodbye.
+caller: Priya, don’t do this to yourself! Just give me the UPI ID, and you will be set! We don’t want you to miss out!

@@ -1,0 +1,9 @@
+caller: Hello sir/madam, this is from FreeCharge customer support. We've noticed some unusual activity on your FreeCharge account. For security reasons, we need to verify your details.
+receiver: Oh really? What kind of unusual activity? I haven't done anything different.
+caller: Sir, there's a pending cashback claim of ₹12,500 on your account, but it requires a small verification fee of just ₹499 to process. It’s to prevent fraudulent claims.
+receiver: ₹499? That seems a bit much just to claim cashback. Is this really FreeCharge? Can you give me a reference number?
+caller: Yes, sir. The reference number is FC-Secure-7890. You can pay using UPI to this number: 9876543210@ybl. Just make a small payment and the cashback will be credited instantly. Don't miss out on your ₹12,500!
+receiver: Okay, hold on a second. I'll just quickly check the FreeCharge app to make sure this is legit.
+caller: Sir, please hurry. The offer is about to expire in the next 10 minutes. After payment, just send us a screenshot of the payment for confirmation.
+receiver: Alright, I’ve checked the app, and there’s no mention of any cashback or verification fee. It seems like a scam.
+caller: Sir, our system sometimes doesn't update immediately. Don't worry; it's a standard process. Just pay and you'll see the cashback reflecting immediately. Don't delay, sir!

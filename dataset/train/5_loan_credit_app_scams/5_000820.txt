@@ -1,0 +1,9 @@
+caller: Hello? Is this Priya Sharma? I’m calling from LoanExpress. We’ve pre-approved you for a quick loan of ₹50,000! Very easy process. Just need a few details to verify.
+receiver: Oh, really? That’s…good. But I wasn’t really looking for a loan.
+caller: No worries! It’s a fantastic offer. Just to confirm, can you share the last four digits of your bank account number? It’s a standard security check. And a small processing fee of ₹2,500 will be needed upfront to activate the loan.
+receiver: ₹2,500? Upfront? That doesn’t sound right.
+caller: It's necessary, Priya ji. This is to show your commitment. Otherwise, we’ll have to cancel the pre-approval. Think of it as a small investment in your financial future! We’ll deduct it from your loan amount later, I promise. And if you don't pay that amount quickly, we’ll have to escalate this to our recovery department.
+receiver: Recovery department? What do you mean?
+caller: It means we'll have to contact your family and your workplace to ensure repayment. We don't want that, right? Just send the ₹2,500 to this UPI ID: LoanExpressPay123. Do it quickly, Priya, time is running out!
+receiver: Wait a minute…I need to think about this.
+caller: Priya ji, don't waste this opportunity! Many people are waiting for this loan. Send the money now and your ₹50,000 will be in your account within minutes! Otherwise, we'll have to flag your account as suspicious.

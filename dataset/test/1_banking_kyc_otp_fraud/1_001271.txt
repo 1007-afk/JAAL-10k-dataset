@@ -1,0 +1,8 @@
+caller: Namaste! Main Axis Bank’s fraud prevention team se Rahul bol raha hoon. Aapke account mein achanak se ₹12,000 ka transaction attempt kiya gaya hai, jo approve nahi hua hai.
+receiver: Haan? ₹12,000?  Kaise?  Main toh koi transaction nahi kiya.
+caller: Sir/Madam, yeh attempt Nepal se kiya gaya hai.  Security ke liye, aapko apne account ko verify karna hoga urgent basis pe. Main aapko ek link send karta hoon, wahan aapko kuch details enter karni hogi.
+receiver: Nepal se?  Verify karna hai?  Yeh thoda funny lag raha hai. Link send karna? Main click karunga toh safe rahega?
+caller: Sir/Madam, please do not worry. Yeh totally secure hai. Account suspend hone se pehle jaldi se verify kar lijiye. Link yeh hai: bit.ly/axis-security-verify
+receiver: Bit.ly?  Yeh toh risky lagta hai! Axis Bank aise link send nahi karta.  Mere dost ne mujhe yeh scam ke bare mein bataya tha.
+caller: Sir/Madam, please understand, time bahut kam hai. Account suspend ho jayega. Aapko sirf 4 digits OTP enter karna hai.
+receiver:  OTP?  Mai toh koi bhi OTP share nahi karunga.  Mai call cut kar raha hoon. Yeh fraud hai.

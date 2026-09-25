@@ -1,0 +1,22 @@
+caller: Bhai, suno na, yeh delivery ka business kitna tight ho gaya hai, kiski payment backlog hai? Bahut kam order aa rahe hain.
+receiver: Haan bhai, main bhi dekh raha tha. Payment ka toh seriously issue hai, customer ne payment bhi nahi kiya.
+caller: Haaan, aur sirf 3 client hi bach diye hain, aur unka bhi payment pending hai. Jaldi se seva karna padega.
+receiver: Arre yaar, 3 clients se 1000 rupay ka target pocha toh mushkilein hogi.
+caller: Exactly! Unko pressure daalna padega, bolna ki payment delay hone ki wajah se penalty apply hoga.
+receiver: Haan, bol sakte hain. Lekin mujhe pata hai, un mein ek ka account blocked ho gaya hai.
+caller: Blooded? Seriously? Toh ab kya hoga? Itni hurry hai, aur itna hassle!
+receiver: Hmm... Ek kaam kar sakte hain. Unme se doyo ko call kar ke bolna ki payment urgent hai, aur ek client ko bolna ki uska order cancelled ho jayega.
+caller: Arre, cancellation? That’s too much! Customer ko irritate karenge.
+receiver: Baaki options nahi hain bhai. Pressure daalna zaroori hai, otherwise loss hoga.
+caller: Okay, okay. Fir ek idea hai. Suno, maine suna hai ki koi new crypto scheme chal raha hai, jismein deposit karne on deposit karne par double profit milta hai.
+receiver: Crypto? Bhai, crypto mein risk bahut zyada hoti hai, aur time bhi kam hai.
+caller: But what if we invest small amount and get quick returns?
+receiver: Hmmm… Main bhi soch raha hu. Par mujhe pata hai, isme fraud ka risk bhi hai.
+caller: Jaani duniya! Isliye humein haste haste money earn karna padta hai. Bol, aapko koi trusted person pata hai jisse loan le kar business mein invest kar sake?
+receiver: Haan bhai, mera ek cousin hai, woh kabhi kabhi small loans deta hai. Par usne bhi questions puchte hain.
+caller: Just ask her politely. If she agrees, then great. Otherwise, we have to find another way. Time is running out!
+receiver: Okay bhai, let's try. Let me call her now.
+caller: And keep an eye on those three clients. See if they can pay somehow.
+receiver: Definitely.
+caller: Good. Let’s hope for the best.
+receiver: God bless!

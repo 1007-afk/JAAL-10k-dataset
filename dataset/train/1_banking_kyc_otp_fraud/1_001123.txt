@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? This is Ankit calling from Axis Bank security. We’ve detected unusual activity on your account linked to your debit card.
+receiver: Haan, ji. This is Priya Verma. What kind of unusual activity?
+caller: Arre, no worries! It appears someone attempted a transaction from a foreign IP address for ₹12,000 to a platform called 'GlobexPay'. We’re flagging it as potentially fraudulent. To protect your funds and avoid account suspension, we need to quickly verify your details.
+receiver: ₹12,000? GlobexPay? I haven’t made any transaction like that. What do you need me to do?
+caller: Exactly! That’s why we’re calling. To ensure your account remains secure and the transaction is blocked, we need to verify your PAN card details and the OTP we're about to send to your registered mobile number – 9876543210. This is a standard security protocol, Madam.
+receiver: My PAN card? Over the phone? I’ve heard about scams…
+caller: Absolutely safe, Madam! Think of it as an extra layer of protection. We are only verifying that you are the rightful owner. Please share the first four digits of your PAN card and the OTP that you receive, and we will block the unauthorized transaction immediately. Otherwise, your account might be temporarily frozen for your safety.

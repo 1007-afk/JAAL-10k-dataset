@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? I'm calling from PhonePe regarding a cashback offer on your recent transaction.
+receiver: Haan, mein Priya Sharma bol rahi hoon. Cashback offer? Kaun se transaction ki baat kar rahe ho?
+caller: Ji, aapne kal Flipkart se kuch kharidne ke baad ₹200 ka cashback jeeta hain! Yeh ek limited-time offer hai sirf PhonePe users ke liye. Isko claim karne ke liye, humein sirf aapka OTP verify karna hai.
+receiver: ₹200 ka cashback? Mujhe toh koi notification nahi mila. OTP? Kyun OTP dena padega? Ye theek nahi lag raha hai.
+caller: Arre, OTP sirf aapke account ko secure karne ke liye hai, Madam. Koi chinta nahi. Yeh PhonePe’s standard procedure hai. Fast ho jao, offer jaldi hi expire ho jayegi.
+receiver: Dekhiye, mujhe yeh trust karne mein problem ho rahi hai. Mere dost ne bhi aise hi ek scam ka shikaar kiya tha. Main koi information nahi dungi.
+caller: Please don't be suspicious, Madam. We are helping you to receive cashback. It’s a simple process, just a few seconds. If you don’t help us, you might lose your cashback opportunity.
+receiver: Nahi, mujhe nahi chahiye. Main PhonePe customer care ko report kar dungi.

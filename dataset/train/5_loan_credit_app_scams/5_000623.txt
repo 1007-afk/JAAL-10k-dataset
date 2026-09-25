@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from QuickLoan India. We've pre-approved you for a loan of up to ₹2 lakhs, instant approval, no paperwork needed! Just a quick verification.
+receiver: Oh, really? That’s… amazing! I do need some money for my daughter's school fees. But how do you know it's me?
+caller: We have your details from a government database. To finalize the loan, we need to verify your identity. Could you please share the last four digits of your bank account number and a selfie holding a valid ID card? Just to confirm it’s you, Priya ji.
+receiver: A selfie? That seems a little strange. Why do you need a selfie with my ID? I’m a bit worried about security.
+caller: Absolutely understandable, Priya ji! But it's a standard security protocol. It prevents fraud. Plus, we need to make sure the ID is valid. Just hold it clearly, smiling, in good light. It takes literally 5 seconds. Once we have that, the money will be in your account within the hour. Think of your daughter’s fees!
+receiver: Okay, fine. Here’s the selfie, holding my Aadhaar card. My account number ends in 4321. Please don't misuse my information.
+caller: Perfect, Priya ji! We see the Aadhaar clearly. Now, just one final step to activate your account and prevent unauthorized access. Could you please confirm the OTP we just sent to your registered mobile number? It’s a 4-digit code.

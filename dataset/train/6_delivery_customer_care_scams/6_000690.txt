@@ -1,0 +1,7 @@
+caller: Namaste, Madam/Sir. This is Rohit calling from Zepto customer support. We've detected some unusual activity on your account – a large, pending order for electronics exceeding ₹12,000. Can you confirm this order?
+receiver: Haan, bolie. ₹12,000 ka order? Mainne toh kuch order kiya nahi hai. Ye kya ho raha hai?
+caller: I understand your concern, Madam/Sir. It seems someone might have accessed your account. To secure your account and prevent further unauthorized transactions, we need to verify your identity. Could you please share the last four digits of your registered mobile number and the OTP that we've just sent?
+receiver: OTP? Par ye account secure karne ke liye OTP dedo? Ye theek toh lagta nahi hai. Zepto toh aise nahi karta hoga.
+caller: Yes, Madam/Sir, this is a standard security protocol. Without the OTP, we cannot guarantee the safety of your funds and personal information. It’s crucial to act quickly, as the fraudulent order is about to be processed. We’ll cancel the order immediately once we verify you. Just the last four digits and the OTP, please?
+receiver: Okay, okay. But agar kuch ghalat hua toh main tum logon ko chodunga nahi. Mobile number ke last four digits... 4782. Aur OTP... 8952.
+caller: Thank you for your cooperation, Madam/Sir. Just one last thing to be absolutely certain – can you quickly confirm the make and model of a recent purchase you made on Zepto? This is just a final verification step.

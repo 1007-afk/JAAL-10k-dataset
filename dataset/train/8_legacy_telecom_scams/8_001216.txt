@@ -1,0 +1,16 @@
+caller: Namaste ji, main Airtel se bol raha hoon. Aapke liye ek bahut achhi khabari hai! Aapne hamare ek special offer mein ₹5000 jeete hain! Congratulations!
+receiver: Oh wow! Seriously? ₹5000? That's fantastic news! Kya offer tha yeh? Mujhe kuchh yaad nahin aa raha.
+caller: Haan ji, humare ek limited-time offer mein sir/madam. Bas aapko ye reward claim karne ke liye 9876543210 pe call karna hoga. Itni simple hai!
+receiver: Okay, 9876543210? Aur yahaan par koi surcharge ya kuchh extra charges lagega kya? Koi form wala kaam hoga kya?
+caller: Nahin ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko complete details mil jayengi. Bahut easy hai. Apka number kahan hai sir/madam, taaki main verify kar saku ki yeh aap ke liye hi hai?
+receiver: Mera number hai 9xxxxxxxxxx. Aur aapne kaha na ki Airtel se ho? Yeh Airtel ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine check kar li hai. Ab bas aap us number pe call kijiye, aur aapki reward receive kar lijiye. Koi problem nahi hogi.
+receiver: Theek hai. Toh main us number pe call karunga. Aur ye reward kab tak claim karna hai? Koi expiry date hai kya?
+caller: Namaste, main Jio se bol raha hoon. Aapke liye ek super exciting news hai! Aapne hamare Diwali Dhamaka scheme mein ₹10,000 jeete hain! Congratulations!
+receiver: Really? ₹10,000? Wow! Kaisa scheme tha woh? Mujhe ab samajh mein nahin aa raha.
+caller: Haan ji, humare ek exclusive Diwali sale mein sir/madam. Bas aapko ye prize claim karne ke liye 8888999888 pe call karna hoga. Itni simple hai!
+receiver: Okay, 8888999888? Aur agar main us number pe call karta hoon, to mujhe kuchh documents chahiye ya nahin? Koi paperwork hoga kya?
+caller: Nahin ji, bilkul nahi! Aapko bas us number pe call karna hai, aur wahan pe aapko all the necessary information mil jayega. Bahut easy hai. Apka number kahan hai sir/madam, taaki main confirm kar saku ki yeh aap ke liye hai?
+receiver: Mera number hai 7xxxxxxxxxx. Aur aapne kaha na ki Jio se ho? Yeh Jio ka official number hai kya?
+caller: Haan ji, bilkul official hai! Aur number bhi aapka maine verified kar liya hai. Ab bas aap us number pe call kijiye, aur aapki prize receive kar lijiye. Koi tension mat le!
+receiver: Okay, theek hai. Toh main us number pe call karunga. Aur ye prize kab tak claim karna hai? Koi deadline hai kya?

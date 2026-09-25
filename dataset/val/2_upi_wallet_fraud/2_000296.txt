@@ -1,0 +1,8 @@
+caller: Namaste! Main Rupesh Sharma bolta hoon, BharatPay se. Aapko ek achcha cashback offer mil raha hai, sir.
+receiver: BharatPay? Woh kya offer hai?
+caller: Aapke BharatPay wallet mein ₹1000 cashback milega, bus aapko ek small processing fee pay karna hai – sirf ₹50.
+receiver: ₹50? Processing fee? Kyun?
+caller: System mein verification process chal raha hai, sir. Yeh security ke liye hai. Aapko ₹50 UPI ke through send karne hai, aur cashback instantly aapke account mein deposit ho jayega. Number hai 8899001122.
+receiver: 8899001122? Yeh number BharatPay ka official number hai? Mujhe thoda doubt ho raha hai.
+caller: Haan sir, absolutely! Yeh BharatPay ka official helpline hai. Abhi ₹50 send kardo, warna offer miss ho jayega, aur cashback bhi nahi milega. Last chance hai!
+receiver: Okay, wait karo. Main check karta hoon.

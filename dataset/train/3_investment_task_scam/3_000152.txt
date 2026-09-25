@@ -1,0 +1,12 @@
+caller: Achha, yeh bahut hi interesting hai! Kaise chal raha hai aapka kaam? Main sun raha tha ki aap Bharat Ratna Telecom Limited se contact karte hue.
+receiver: Haan ji! Itni badi project hai ki thoda confusion bhi ho raha hai. Bharat Ratna Telecom Limited, hume bahut khushi hai ki aapne humein call kiya. Sir, humne aapki requirement ka analysis kar li hai, aur aapke liye best solution hai.
+caller: Wah, acha! To, aapne kaha tha ki aapke paas special software hai jo aapke company ki productivity ko badhatega? Kya aap mujhe uska demo de sakte hain? Aur aapne bataya tha ki ye software sirf ₹5000 mein available hai.
+receiver: Haan ji, woh software hamara flagship product hai, ‘Prerna’. Iska demo aapko online dekhne ko milega, aur aapko bahut pasand aayega. Sir, is software ko install karne ke liye sirf ₹5000 ka payment lena hota hai.
+caller: Thoda suspicion hai, sir. Aapne mujhse apne bank account number maanga?
+receiver: (Hasty tone) Ahaan... sorry, mujhe yaad nahi. Mai confuse tha. Actually, humne aapke permission se UPI ID mila kar payment le rakhe hain. Payment process secure hai, don’t worry.
+caller: UPI ID? Meri knowledge mein, bank account number se hi payment hota hai. UPI ID kyon? Ismein koi dikkat hai kya?
+receiver: (Trying to smooth things over) Sir, yeh new technology hai. AAPI (Aapni Payment Interface) system ka part hai. Sab log istemaal karte hain. Aapko nahi samjha, maaf karna.
+caller: AAPI? Wo kya hai? Aur aapne mujhse personal information maanga, lekin aapne bank account number nahi maanga. Yeh sab kyon?
+receiver: (Becoming nervous) Sir, hum sirf aapke profile ka information le rahe hain. Aapke company ka naam, size, aur aapke requirements. Vo sab hi important hain. Bank account number… woh… wo just a formality tha.
+caller: Formalities nahi hote, sir. Yeh dukaan mein buying something purchase karte samay formality hoti hain. Aapne mujhse fraud karne ki puri taiyari ki hui hai. Main police mein complaint karunga.
+receiver: (Panicked) No, no, please! Don’t do that! Hum toh sirf aapki madad karna chahte hain. Please maaf karna.

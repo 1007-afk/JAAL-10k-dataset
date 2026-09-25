@@ -1,0 +1,8 @@
+caller: Haanji sir, main [Your Name], Bank se bol raha hoon. Aapne credit card ke liye apply kiya tha, uski documents verify karne the, isliye call kiya tha. Aapke paas aapke ID proof ready hai kya?
+receiver: Haanji, [Caller Name]. Haan, ID proof toh hai mere paas. Kya chahiye aapko? Aadhar card chalega ya PAN card?
+caller: Ji sir, Aadhar card chalega. Kya main aapka application reference number check kar sakta hoon, jo aapko application form bharte time mila tha? Ek minute mein verification ho jayega.
+receiver: Arre haan, reference number... ek minute, dekhta hoon. Haan, mil gaya. Yeh hai [invent a reference number, e.g., ABC123456789]. Aadhaar card bhi ready hai, aap bataiye kaise proceed karna hai.
+caller: Bahut badhiya sir! Aapka reference number ABC123456789 hai, confirm ho gaya. Abhi, aapke registered mobile number pe ek OTP ayega. Woh OTP aap mujhe bata sakte hain kya? Sirf verification ke liye hai, ek minute lagega.
+receiver: OTP? Okay, wait a minute. Aa gaya hai. Yeh hai [invent an OTP, e.g., 987654]. Ho gaya verification? Jaldi bataiye, main thoda busy hoon.
+caller: Ji sir, bilkul! Aapka OTP 987654 hai, confirm ho gaya. Document verification pura ho gaya hai. Aapke credit card ki approval ki confirmation kal tak aa jayegi. Kuch aur help chahiye sir?
+receiver: Haanji, koi aur help nahi chahiye. Shukriya.

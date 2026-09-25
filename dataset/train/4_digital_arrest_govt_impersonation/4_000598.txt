@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Singh, calling from the Central Board of Indirect Taxes and Customs, Mumbai. We've detected some unusual activity linked to a parcel registered under your name, scheduled for delivery tomorrow.
+receiver: Haan, main Mr. Verma hi hoon. Parcel? Kya activity? Mujhe kuch pata nahi hai.
+caller: Ji, sir. According to our records, the parcel contains suspicious items potentially linked to illegal import activity. We need to verify some details to ensure compliance and avoid any legal complications for you. This is a serious matter, sir.
+receiver: Illegal import? Yeh kya bol rahe hain aap? Mein toh kabhi parcel order kiya hi nahi. Aur customs department phone pe kaise call karti hai?
+caller: Sir, our investigation shows the parcel originated overseas and was rerouted to your address. To clear this, you’ll need to pay a small processing fee of ₹8,500 as a security deposit. We can arrange a secure online payment link. This is to prove you are not involved in the illegal import.
+receiver: ₹8,500? Sir, yeh to fraud lag raha hai. Mein koi payment nahi karunga. Mein apni bank se contact karta hoon aur police station mein report karta hoon. Aapka naam aur contact number do.
+caller: Sir, please understand, delaying this will only escalate the matter and could lead to further investigation and potential legal action. We're offering a chance to resolve this quickly and quietly. For your peace of mind, I can provide a temporary reference ID – CBIC-REF-7890. Just pay the fee, and we’ll clear the parcel immediately.
+receiver: CBIC-REF-7890? Sir, this entire conversation is extremely suspicious. I'm terminating this call and reporting this number to the cybercrime cell. Do not call me again.

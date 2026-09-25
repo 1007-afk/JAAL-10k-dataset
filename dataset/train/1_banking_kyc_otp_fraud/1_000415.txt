@@ -1,0 +1,15 @@
+caller: Namaste! Is this Mr. Sharma, residing at 987? I’m calling from ‘Secure Solutions’, we have an urgent matter regarding your account security. You’ve been identified as potentially vulnerable to fraudulent activity. To protect yourself, we need to verify some information immediately.
+receiver: Haan, main Mr. Sharma hoon, 987 mein rehta hoon. Secure Solutions? Kya bol rahe hain aap?
+caller: Yes, exactly! Your mobile number, 09876543210, has flagged a suspicious transaction. We need to confirm your identity before we can proceed. Please provide the last four digits of your bank account. Just for verification purposes, please.
+receiver: Last four digits of my bank account? Seriously? What kind of transaction?
+caller: A recent transfer of ₹50,000 was attempted from your account. We detected unusual patterns which require immediate attention. Don’t worry, it hasn’t gone through yet, but we need to act fast to prevent further losses. We also need to update your security settings.
+receiver: ₹50,000? Transfer nahi hui? But why are you calling me?
+caller: That's correct! We want to stop it. Now, about those security settings... We need to reset your password using a temporary code. This code will be sent directly to this number – 09876543210. Can you receive SMS messages?
+receiver: Haan, main SMS recieve karta hoon. But this sounds very strange. What if this is another scam?
+caller: Absolutely! We understand your concerns. However, this is a genuine alert from Secure Solutions. To confirm your authenticity, could you tell me your mother’s maiden name? It’s a standard security protocol.
+receiver: My mother's maiden name is Devi. Okay, let’s see what happens.
+caller: Thank you, Mr. Sharma. One moment while I process this information… Please do not hang up during this process. We are working diligently to secure your account. And remember, you’ve been alerted to a potential threat.
+receiver: Okay, I’ll wait. But I still feel uneasy about this.
+caller: Just a little longer, sir. Almost done… Congratulations, your account is now secured! You've received a free antivirus software upgrade as a token of our appreciation.
+receiver: Free antivirus? Really?
+caller: Yes indeed! Enjoy your enhanced security! We appreciate your cooperation. Have a wonderful day! Goodbye!

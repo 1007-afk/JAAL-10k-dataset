@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mera naam Ravi hai, RapidLoans se. Aapki credit report ke according, aap instant loan ke liye eligible hain. ₹75,000 tak ka loan, sirf pan card aur Aadhaar card se. Process bahut simple hai, sir.
+receiver: ₹75,000? Mujhe bilkul zaroorat hai, lekin RapidLoans ka naam pehle kabhi nahi suna. KYC kaise hoga?
+caller: Sir, hum government-approved hain. KYC ke liye, humko aapke bank account details aur ek selfie required hogi. Kuch OTPs bhi aayenge, woh bhi share karna hai. Isse hum verify kar sakte hain ki aap genuine hain. Koi tension nahi lene ka, sir.
+receiver: Bank details? Selfie? Itna zyada information… mujhe thoda doubt ho raha hai.
+caller: Sir, time bahut kam hai. Offer limited time ke liye hai. Agar aap abhi process start nahi karte, toh offer expire ho jayega. Aur ek ₹500 processing fee bhi apply hogi, jo aapko loan get karne se pehle pay karna hoga.
+receiver: ₹500? Processing fee? Yeh toh mujhe kisi ne nahi bataya.
+caller: Sir, ye standard procedure hai. ₹500 fee humari verification team ko pay karte hain.  Agar aap pay nahi karte, toh loan process ruk jayega. Account number [provides a random account number] UPI ID bhi hai [provides a random UPI ID]. Jaldi karo sir, offer expire hone wala hai!

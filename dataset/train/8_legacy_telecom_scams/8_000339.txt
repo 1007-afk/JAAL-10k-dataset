@@ -1,0 +1,8 @@
+caller: ? Can you hear me? I'm calling about a very important, exclusive opportunity. You've been selected to win a prize, but to confirm your eligibility, I need to ask you a quick question. It's about that popular movie, The Simpsons Movie, from 2007. Do you remember the band that tragically died at the beginning of the film? Was it A-Green Day, B-Blue Day, or C-Red Day? Just tell me A, B, 
+receiver: Haan, sunai de raha hai clear.  Aap naam kya hai apna? Aur yeh Simpsons movie wala question?  Green Day tha, option A.
+caller: Perfect! You're absolutely right, it was Green Day, option A.  Excellent recall!  Now, to process your prize, I just need to confirm a few details.  Can I have your full name please?
+receiver: Haan, Green Day hi tha.  Aur mera naam hai Priya Sharma.  Ab prize ke liye kya details chahiye?
+caller: Excellent, Priya! Thank you for confirming. Now, to finalize your prize, I just need to verify your address for delivery. Can you please tell me your street name and house number?
+receiver: Address? Oh, okay. Mera street name hai Maple Street aur house number hai 24. Aapko yeh sab kuch prize ke liye chahiye, right?
+caller: Haan, Maple Street, 24. Bilkul, Priya ji, yeh sab kuch prize ke liye chahiye taaki hum aap tak pahunch sakein. Aur bas ek chhota sa processing fee hai, sirf 100 rupees, jo aapko abhi online pay karna hoga taaki aapka prize confirm ho jaye. Kya aap ready hain?
+receiver: Processing fee? Sirf 100 rupees? Aise kaise? Aapne toh pehle kaha tha prize hai, koi fee nahi thi. Yeh kya fraud hai? Mujhe nahi karna yeh.

@@ -1,0 +1,8 @@
+caller: Namaste Sir, HDFC Bank se baat kar raha hoon. Kya main Ms. Verma se baat kar sakta hoon?
+receiver: Ji, Namaste. Verma ji? Main hi hoon. Kahiye, kya madad kar sakta hoon?
+caller: Haanji, Ms. Verma. Main HDFC Bank se bola raha hoon. Aapke account mein ek unusual activity detect hua hai, madam. Kya aapko yaad hai, aapne kal koi online payment kiya tha?
+receiver: Unusual activity? Arre nahi sir, mujhe toh bilkul yaad nahi hai. Kahi koi mistake toh nahi ho gayi?
+caller: Aapke account mein ek unusual activity detect hua hai, madam. Kya aapko yaad hai, aapne kal koi online payment kiya tha?
+receiver: Arey, unusual activity? Mujhe toh bilkul yaad nahi hai kuch bhi aisa karne ka. Kahi kuch galti toh nahi ho gayi?
+caller: Madam, yeh thoda serious matter hai. Aapke account se ek amount bahar gaya hai, aur humein turant check karna hai ki yeh aapne hi kiya hai. Agar aapne nahi kiya, toh humein turant action lena hoga. Aapki registered mobile number pe ek OTP gaya hai, kya woh aapko mila hai madam?
+receiver: OTP? Nahi madam, mujhe toh koi OTP nahi mila. Aap keh rahe hain mere account se paise nikal gaye? Yeh toh darr ki baat hai. Aap bataiye, kya karna hoga?

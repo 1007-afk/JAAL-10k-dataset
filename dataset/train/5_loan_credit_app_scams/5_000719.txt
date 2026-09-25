@@ -1,0 +1,7 @@
+caller: Namaste! This is Ravi from LoanExpress India. We’ve noticed you’ve been browsing loan options online. Are you looking for a quick loan to cover medical expenses or maybe a wedding? We offer instant approvals. Can I get your name, please?
+receiver: Ji, mera naam Anjali Verma hai. I need some money for my sister's wedding, yes. But I have a bad credit score, so I don’t know if I’ll qualify.
+caller: Anjali ji, don't worry about credit scores! LoanExpress is all about helping people. We work differently. To process your application, we just need you to confirm a small processing fee upfront - 2500 rupees. This ensures your application is taken seriously.
+receiver: 2500 rupees? But you said instant approval? Why a fee upfront? It feels a bit strange.
+caller: Anjali ji, this is a security deposit, to prevent fraudulent applications. It’s a standard procedure. Once your loan is approved, we’ll refund it along with the first month’s interest. We’re offering you a generous 1.5 lakh loan at a very competitive rate. Just send the 2500 rupees to this UPI ID: LoanExpressPay@axis.
+receiver: Okay, I'll transfer it. But please make sure the loan gets approved quickly. I really need it for the wedding preparations.
+caller: Excellent decision, Anjali ji! The loan will be processed as soon as the payment reflects. Just for verification, could you send me a selfie holding your ID card and a statement showing the payment of 2500 rupees? This is just a standard security check.

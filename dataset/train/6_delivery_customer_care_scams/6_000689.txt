@@ -1,0 +1,6 @@
+caller: Namaste! This is Akash from BlueSwift Logistics. We have a parcel addressed to you, but there’s a slight issue with the delivery address. Could you please confirm your mobile number for verification?
+receiver: Hello? BlueSwift? I don’t think I'm expecting anything. What's the tracking ID?
+caller: Absolutely! The tracking ID is XS789012. We need to update the address in our system to ensure smooth delivery. For verification purposes, can you please share the OTP you'll receive on your registered mobile number?
+receiver: OTP? Why do you need an OTP to update an address? That seems a bit strange. Can't you just ask for the address details again?
+caller: It’s a standard security protocol, ma'am. To protect your parcel and prevent it from falling into the wrong hands, we need to verify the number. Just the OTP, please. And there's a small ₹200 clearance fee due to unexpected customs charges.
+receiver: ₹200? Customs charges? I didn't order anything that would incur customs. I’m calling the police if you try anything.

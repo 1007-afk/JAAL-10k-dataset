@@ -1,0 +1,7 @@
+caller: Namaste, mai Axis Bank se Rahul bolta hoon. Aapke naam par ek suspicious transaction detect hua hai – 12,000 rupay ka transaction ek online gaming website par kiya gaya hai. Account secure karne ke liye, humein aapki KYC details verify karni hogi.
+receiver: Kya? 12,000? Maine toh koi gaming website par transaction nahi kiya. Yeh kya ho raha hai?
+caller: Ji, humein bhi confusion hai, lekin security protocol ka part hai. Aapka Aadhaar card number aur OTP bataiye taaki hum verification kar sakein. Time bahut kam hai, account suspend hone se pehle verify karein.
+receiver: Aadhaar card number? Woh toh main kisi ko bhi nahi bataunga! Yeh scam lag raha hai! Tumhara phone number check karwaata hoon.
+caller: Sir, aapko serious samjho. Account suspend hoga. Kuch seconds ke andar aapka paisa jaaega. Aapka pan card number bhi do, sir.
+receiver: Thoda wait karo, mai apne bank se baat karta hoon.
+caller: Sir, aapko jald karna hoga, account hack ho sakta hai. Bank ka branch bhi bataiye kahan se hai.

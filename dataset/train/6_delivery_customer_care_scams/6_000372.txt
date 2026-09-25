@@ -1,0 +1,8 @@
+caller: Namaste! Mai Zomato customer care se Rahul bolta hoon. Aapke account par kuch suspicious activity dikha hai. Kuch order details galat lag rahe hain.
+receiver: Oh, really? What details? I didn't place any unusual orders.
+caller: Ji, ek order 'XYZ Restaurant' se ₹1800 ka hua hai. Aapne confirm nahi kiya tha? Aur OTP bhi gaya tha aapko?
+receiver: ₹1800? No, I definitely didn't order anything that expensive! And no, no OTP came to me.
+caller: Sir, yeh bahut serious matter hai. Account hack ho sakta hai. Aapko apna OTP share karna hoga taaki hum account secure kar sakein aur order cancel kar dein. Please share kar dijiye, sir, urgent hai.
+receiver: Wait a minute... OTP? Why would Zomato ask for an OTP over the phone? That sounds fishy.
+caller: Sir, security protocol hai. Urgent hai, sir, account block ho jayega.
+receiver: I’m not giving you anything. I'm going to call Zomato directly from their official number. Goodbye.

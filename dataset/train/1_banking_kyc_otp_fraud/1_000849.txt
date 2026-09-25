@@ -1,0 +1,9 @@
+caller: Namaste! This is Axis Bank security speaking. We've noticed some unusual activity on your account and need to quickly verify your identity to prevent potential fraud.
+receiver: Haan, bolo. Kya hua? My account mein kuch problem hai kya?
+caller: Yes, sir. There’s been a login attempt from an unknown device in Kolkata. To secure your funds, we need to confirm a few details. Could you please share the last four digits of your Aadhaar card? Just for verification purposes, sir.
+receiver: Aadhaar number? I don’t think I should give that out. Isn’t that risky?
+caller: Absolutely not, sir! We understand your concern. This is standard procedure to ensure the safety of your account. If you don’t cooperate, we’ll have to temporarily suspend your account for security reasons. We can also not process any incoming transactions.
+receiver: Okay, okay. It’s 4567. Please be careful.
+caller: Thank you, sir. Now, to finalize the verification, can you please provide the OTP that was recently sent to your registered mobile number? This will ensure it’s truly you accessing the account.
+receiver: Let me check... It’s 1234.
+caller: Perfect, sir! Your account is now fully secured. As a token of appreciation for your prompt cooperation, we’re offering you a special loan scheme with incredibly low interest rates. Would you like to hear more about it?

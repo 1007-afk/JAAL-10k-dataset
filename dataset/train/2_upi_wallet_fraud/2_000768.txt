@@ -1,0 +1,7 @@
+caller: Hello sir, this is RuPay customer support. We've noticed some unusual activity on your RuPay card.
+receiver: Oh really? What kind of activity? Is everything alright?
+caller: Yes, everything will be alright if you follow these steps. To secure your card, you need to verify your transaction details. We'll send you a link via WhatsApp.
+receiver: A link via WhatsApp? That seems a little strange. RuPay usually sends SMS, no?
+caller: Yes, but due to a recent security upgrade, we're using WhatsApp now. Click the link, enter your card details, and confirm the OTP. It's a quick process, just to prevent fraud. You'll get a cashback of ₹500 for confirming!
+receiver: Okay, let me check the WhatsApp. But I'm still a bit nervous about sharing my card details online. Is this genuinely RuPay?
+caller: Absolutely, sir! It's a verified link. Don’t worry, this is just a standard security protocol. Think of the ₹500 cashback! Just click and verify.

@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? I am calling from Axis Bank KYC department. We have detected some unusual activity on your account and need to verify your details urgently.
+receiver: Haan, main Priya Sharma hoon. Kya hua? Unusual activity matlab kya?
+caller: Yes, ma'am. We noticed a login attempt from an unknown device in Kolkata. To secure your account and prevent fraudulent transactions, we need to re-verify your PAN card details and the OTP sent to your registered mobile number. Account suspension is imminent if verification isn't completed within the next 15 minutes.
+receiver: PAN card details? Waise banks toh phone pe aise details nahi lete na? Koi link send karo, main check kar lu.
+caller: Ma'am, due to security protocols, we cannot send links. This is to protect you from phishing scams. I need your PAN number and the OTP you just received to confirm your identity. Please don't delay, ma'am, your account is at risk.
+receiver: Wait a minute. Why didn't I receive an SMS about this unusual activity? And why Kolkata? I’ve never been to Kolkata.
+caller: Ma'am, sometimes the SMS gets delayed. It’s a technical glitch. But the security alert is real, and we need to act fast. Just confirm the OTP and PAN details now, please, to avoid suspension.  It’s very important.
+receiver: Okay, I'm calling Axis Bank's customer care right now to confirm this. I’ll get back to you.
+caller: Ma'am, please hurry! Customer care will tell you the same thing. Time is running out and your money is at risk!

@@ -1,0 +1,13 @@
+caller: Namaste sir, main HDFC Bank se Neeraj Bol raha hoon. Aapke naam par ek online transaction attempt kiya gaya hai, jo suspicious lag raha hai.
+receiver: HDFC Bank? Transaction attempt? Mujhe koi message aaya nahi. Kya hua?
+caller: Sir, aapke account se 5000 Rupees ka withdrawal attempt kiya gaya tha, lekin woh block kar diya gaya hai. Security ke liye, hum aapko verify karna chahte hain. Aapka OTP bataiye, please.
+receiver: OTP? Abhi? Mein toh phone use kar raha hoon. Aur mujhe koi OTP nahi mila.
+caller: Sir, OTP message mein delay ho sakti hai. Yeh ek emergency hai, aapka account secure karna zaroori hai. Jaldi se OTP bataiye, warna hacker access kar sakte hain.
+receiver: Yaar, mujhe doubt ho raha hai. HDFC Bank toh aise nahi call karta. Aapka employee ID number bataiye.
+caller: Sir, employee ID number confidential hai. Main aapko guarantee de sakta hoon ki main HDFC Bank ka genuine representative hoon. Bas OTP bataiye, aur mein aapko process complete karne mein help karunga. Account suspend hone se bacha lenge.
+receiver: Account suspend? Itna serious? Par mujhe bank ka naam aur branch bataiye, jahan se yeh call aa rahi hai.
+caller: Sir, yeh central security unit se call hai. Branch ka naam bataana legal reasons se possible nahi hai. Aise call me branch name reveal nahi karte. Just give me the OTP.
+receiver: Dekhiye sir, mujhe yeh sab kuch zyada suspicious lag raha hai. Mein koi information share nahi kar sakta. Mein khud bank mein jaakar check karunga.
+caller: Sir, aapko samajh mein nahi aa raha hai. Hacker aapke account ko loot sakte hain. Agar aap OTP nahi dete, toh aapko blame kiya jayega.
+receiver: Mein risk nahi lunga. Mein abhi call kaat raha hoon. Thank you.
+caller: Sir, please, ek minute! Aapko loss ho sakta hai. Sir… Sir…?

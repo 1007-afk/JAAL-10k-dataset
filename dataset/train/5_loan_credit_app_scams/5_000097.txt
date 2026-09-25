@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from SwiftCash Loans. Are you facing urgent financial needs? We offer instant personal loans with minimal documentation.
+receiver: Hello Akash, I’m a bit skeptical of these online loan offers. What’s the catch?
+caller: No catch, Madam! We understand life throws curveballs. SwiftCash is here to help. Just a few details and you’ll have the money in your account within an hour. How much are you looking for?
+receiver: Hmm, I think I might need around 25,000 rupees. But what about interest rates? I've heard some of these apps charge very high rates.
+caller: Don’t worry! Our introductory offer is just 10% interest for the first three months, and a small processing fee of ₹750. We’ll need your bank account details for verification to proceed quickly.
+receiver: 10% sounds alright, but ₹750 processing fee? Is there any other way to verify without giving my bank details over the phone? It seems a little risky.
+caller: Madam, we need those details to confirm your eligibility and transfer the funds. It's a standard procedure. Without them, we can’t process your application. It's completely secure, I assure you. Just tell me your account number and IFSC code, and we'll get started immediately.

@@ -1,0 +1,8 @@
+caller: Namaste sir, main Axis Bank se Atul Sharma bolta hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye aapko KYC update karna hoga.
+receiver: KYC update? Maine toh kuch transaction nahi kiya aaj kal. Kya hua specific?
+caller: Sir, ek international transaction attempt kiya gaya tha. Aapne approve nahi kiya tha, par system mein error aa gaya tha. Isko fix karne ke liye, aapko ek OTP dena hoga, jo aapke registered mobile number par milega.
+receiver: OTP? OTP toh bank se direct milna chahiye, phone pe nahi. Aur international transaction attempt? Mein toh kabhi bhi international transaction nahi kiya.
+caller: Sir, system mein technical fault aa gaya tha. OTP verification ke bina hum account suspend kar denge, aur aapka paisa bhi freeze ho sakta hai. Aapka naam aur aadhaar card number bataiye, verification ke liye.
+receiver: Aadhaar number? Bhai, main kabhi bhi phone pe Aadhaar number nahi bataunga. Tumhara bank account nahi hai. Tumhara number save karta hoon aur police ko report karta hoon.
+caller: Sir, aap ghabraiye nahi. Main aapko ek reference number de sakta hoon, aur humara call record bhi aapko mil jayega.
+receiver: Reference number dedo, phir dekhenge.

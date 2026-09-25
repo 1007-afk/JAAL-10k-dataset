@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel Payments Bank se Rahul bol raha hoon. Aapke Airtel Payments Bank account mein ek suspicious transaction ka attempt hua hai.
+receiver: Oh, really? What happened? Is my money safe?
+caller: Sir, ek payment attempt kiya gaya tha Rs 4999 ka, lekin ye fail ho gaya. Account secure karne ke liye, aapko verify karna hoga. Main aapko ek OTP bheju, usko bataiye.
+receiver: OTP? Why do you need my OTP? I thought Airtel sends OTPs through SMS.
+caller: Sir, security ke vajah se, hum call ke zariye OTP send karte hain ab. Just bataiye OTP, aur main account lock kar dunga taaki kisi ko access na mile.
+receiver: Hmm… Okay, send the OTP. But I’m still a little nervous.
+caller: Theek hai sir. OTP hai 123456. Ab main aapka account secure kar dunga. Sir, account secure karne ke liye, humein aapke bank account number aur expiry date ki confirmation chahiye.

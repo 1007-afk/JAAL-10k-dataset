@@ -1,0 +1,7 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapka naam Rajesh Verma hai, correct?
+receiver: Haan, boliyega. Indian Customs se? Kya hua?
+caller: Ji, sir. Aapki ek parcel delivery mein kuch discrepancies mili hai. Parcel number IN-789456123. Mein bataunga, parcel mein illegal documents ki shak hai, drug trafficking se linked.
+receiver: Illegal documents? Mujhe toh kuch pata nahi hai. Mein toh online shopping karta hoon, kabhi-kabhi. Woh parcel kis website se aaya tha?
+caller: Sir, woh confidential hai. Par legal process ke according, aapko ek investigation complete karne hogi aur fine deposit karna padega – ₹12,500. Tabhi parcel release hoga. Iske liye, mujhe phone pe video call karna hoga, verification ke liye.
+receiver: ₹12,500? Aur video call? Yeh thoda zyada lag raha hai. Mein police se contact karunga. Aap ka name aur ID number bataiye.
+caller: Sir, police mein complaint karna time waste karega. Yeh urgent matter hai. Main Inspector Sharma, Customs Department. Video call se, mein aapki identity verify karunga aur process speed up hoga. Aapko video call pe zoom link mil jayegi.  ₹12,500 deposit karne ke liye, hum aapko bank details send kar denge.

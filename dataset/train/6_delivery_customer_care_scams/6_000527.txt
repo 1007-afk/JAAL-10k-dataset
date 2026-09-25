@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Verma? I’m calling from Bluebird Courier. We have a parcel addressed to you, but there’s been a slight issue with the delivery address.
+receiver: Yes, speaking. What’s the issue?
+caller: The pin code doesn't match our records. To confirm your address and prevent the parcel from being returned, we need to verify a one-time password (OTP) sent to your registered mobile number.
+receiver: An OTP? What's the parcel? I’m not expecting anything.
+caller: It's a high-value item, sir. We can’t disclose the sender for security reasons. But to proceed with the delivery, please share the OTP so we can update the address in our system. It’s 789012.
+receiver: Wait a minute. That sounds suspicious. Why didn’t you just call the number on file? And how do you know the OTP is 789012?
+caller: Sir, our system automatically generates the OTP and relays it to us. There’s been a security protocol change, and this is the new verification process. If you don't share the OTP immediately, we will have to hold the parcel and potentially charge a storage fee. Just the OTP please.

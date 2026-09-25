@@ -1,0 +1,16 @@
+caller: Namaste! Acha, jab maine aapko woh digital wallet campaign ka reminder diya tha, toh phir se sunao! Aapke paas ab 7 chances hain, online shopping mein discount milne ke liye! Simple, just message ‘SHOP’ to 78901.  Don't delay, only 7 opportunities remaining!
+receiver: Oh, hello there! Haan, mujhe yaad hai.  Shopping ka reminder, acha!  ‘SHOP’ to 78901, okay.  But tell me, is this same campaign as yesterday, or is it something different?
+caller: Haan ji, totally same! Koi badal nahi hai.  Aapke paas ab sirf 6 chances bache hain.  Quickly send ‘SHOP’ to 78901, otherwise aapka discount expire ho jayega!
+receiver: Okay, okay, 6 chances!  Main jaldi kar dungi.  Thanks for letting me know, what's your name, please?  Just curious, you know?
+caller: Koi shakal nahi! Main Priya hoon, aapki assistance ke liye.  Aur haan, sirf 5 chance hain, toh hurry up and send ‘SHOP’ to 78901 and grab those discounts! :)
+receiver: Wow, Priya! Shukriya!  6 chances, noted.  I didn’t realize it was so urgent.  Thank you for keeping track, you people are very efficient!
+caller: Confirmation received! Now just 4 chances left, don’t waste any time. Send ‘SHOP’ to 78901 immediately and claim your discounts before they vanish!
+receiver: Seriously, only 4 now?  I'm sending it right away!  Thank you so much, Priya.  You have saved my shopping spree!  I will send it now!
+caller: Namaste! Acha, jab maine aapko woh digital wallet campaign ka reminder diya tha, toh phir se sunao! Aapke paas ab 7 chances hain, online shopping mein discount milne ke liye! Simple, just message ‘SHOP’ to 78901. Don't delay, only 7 opportunities remaining!
+receiver: Oh, hello there! Haan, mujhe yaad hai. Shopping ka reminder, acha! ‘SHOP’ to 78901, okay. But tell me, is this same campaign as yesterday, or is it something different?
+caller: Haan ji, totally same! Koi badal nahi hai. Aapke paas ab sirf 6 chances bache hain. Quickly send ‘SHOP’ to 78901, otherwise aapka discount expire ho jayega!
+receiver: Okay, okay, 6 chances! Main jaldi kar dungi. Thanks for letting me know, what's your name, please? Just curious, you know?
+caller: Koi shakal nahi! Main Priya hoon, aapki assistance ke liye. Aur haan, sirf 5 chance hain, toh hurry up and send ‘SHOP’ to 78901 and grab those discounts! :)
+receiver: Wow, Priya! Shukriya! 6 chances, noted. I didn’t realize it was so urgent. Thank you for keeping track, you people are very efficient!
+caller: Confirmation received! Now just 4 chances left, don’t waste any time. Send ‘SHOP’ to 78901 immediately and claim your discounts before they vanish!
+receiver: Seriously, only 4 now? I'm sending it right away! Thank you so much, Priya. You have saved my shopping spree! I will send it now!

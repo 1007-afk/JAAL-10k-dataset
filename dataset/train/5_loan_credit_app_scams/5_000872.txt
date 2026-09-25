@@ -1,0 +1,7 @@
+caller: Hello! Have you heard about 'DreamFinance'? It’s a new app giving instant loans – really quick, no paperwork. Need some extra cash for a wedding or something?
+receiver: Instant loan? Sounds too good to be true, doesn't it? What’s the interest rate like?
+caller: Just a small processing fee, nothing crazy. To verify your account, can you send me a selfie holding your ID and a recent bank statement? Just standard procedure, you see.
+receiver: A selfie with my ID? That feels a bit risky, doesn’t it? I’m not comfortable with that.
+caller: Relax, it’s totally secure. We need to verify you're real. Otherwise, we can't proceed with your loan of ₹10,000. Think of it as a small price to pay for financial freedom!
+receiver: ₹10,000? I was thinking more like ₹2,000. And still, sending a photo of my ID… I’m not sure.
+caller: Fine, fine, we can do ₹2,000, but the selfie is non-negotiable. Once the loan is approved, we'll send you the money immediately. We just need that confirmation. Don't miss this opportunity!

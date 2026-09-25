@@ -1,0 +1,7 @@
+caller: Namaste! Mein Rohan se baat kar raha hoon, XYZ Finance se. Aapne hamare app se Rs. 10,000 ka loan apply kiya tha, right? Verification ke liye kuch details chahiye.
+receiver: Haan, maine apply kiya tha. Kya baat hai?
+caller: Ji sir, aapka account suspend ho gaya hai. Payment pending hai. Aapko Rs. 12,500 clear karne hain. Otherwise, hum aapke contacts ko objectionable photos bhejenge.
+receiver: Objectionable photos? Yeh kya keh rahe ho tum log? Main abhi koi payment nahi karunga.
+caller: Sir, mat zid karo! Humare paas aapke phone se photos hain. Aapko 2 hours ke andar Rs. 12,500 UPI se send karne hain. Payment details mein bhej dunga. Otherwise, hum log sab contacts ko message karenge.
+receiver: Yeh fraud hai! Main police mein complaint karunga. Tumhara number block kar raha hoon.
+caller: Sir, aapko samajh nahi aa raha! Yeh aapki safety ka matter hai. Jaldi karo! 1 hour bacha hai!

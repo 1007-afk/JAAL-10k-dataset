@@ -1,0 +1,16 @@
+caller: Hello, this is Rohan from Global Investments. We have an incredible opportunity for you to double your money quickly.
+receiver: Double my money? How?
+caller: We’ve identified a promising investment in rare Himalayan gemstones – incredibly valuable and in high demand. But due to some… logistical issues, we need a small advance payment to secure the shipment. Just ₹5,000 to cover initial costs.
+receiver: ₹5,000? For gemstones? What happens to the rest of the money?
+caller: Once the shipment is confirmed, we’ll transfer the full amount - ₹50,000 - back into your account within 48 hours. Think of it as a secured loan, backed by these beautiful stones.
+receiver: Secured loan? And where are these gemstones located?
+caller: They’re currently being held in a secure vault in Kathmandu, Nepal. Our courier partner, Speedy Logistics, will handle the delivery. You'll receive tracking information once the shipment is ready.
+receiver: Kathmandu? Speedy Logistics? This sounds a little complicated. Can I see any documentation—like photos of the gems or a copy of the contract?
+caller: Absolutely! Let me send you a link to our website where you can view high-resolution images and download the terms and conditions. The link is: investgems.com. Also, please confirm your bank account details so we can initiate the transfer.
+receiver: Investgems.com… Okay. But before I give you my bank details, could you tell me exactly how much profit I'd make if I invested this ₹5,000?
+caller: With this initial investment, you're looking at a potential return of approximately ₹25,000 – a substantial profit! It's a very low-risk opportunity, guaranteed. Don't miss out!
+receiver: Guaranteed? That’s a strong word. I need to think about this carefully. Thank you for the information.
+caller: Of course! Just let me know if you have any further questions. And remember, time is of the essence – this offer expires tonight!
+receiver: Okay, thanks. I'll call you back later.
+caller: Great! Have a wonderful day! Bye bye!
+receiver: Bye.

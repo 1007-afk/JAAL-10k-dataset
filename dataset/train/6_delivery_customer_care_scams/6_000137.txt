@@ -1,0 +1,11 @@
+caller: Namaste! Main Rajesh Sharma, India Post se bol raha hoon. Aapke ghar mein ek important delivery hai. Isko aapko khud le jana hoga, warna iska damage ho sakta hai. Urgent hai, call 8800667755 immediately. Parcel mein ₹5000 ka jewellery hai.  T&C apply at www.indiaposturgent.com
+receiver: Oh really?  Arre yaar, main toh abhi busy hoon. Kya main thodi wait kar sakta hoon?  Mujhe delivery ke liye thoda time mile.
+caller: Nahin, nahin! Yeh bahut urgent hai. Parcel aapke pin code 400001 mein hai.  Isko aapko humein return karna hoga.  Agar aapko delay hua, toh ₹1000 ka penalty lagega.  Call 8800667755 now!  Parcel mein ₹6000 ka gold necklace hai.
+receiver: Gold necklace?  Arre, yeh toh badhiya hai!  Haanji, main abhi call karunga.  Par mujhe batayein, yeh parcel kahaan hai?  Main itna fargh nahi samajh sakta.
+caller: Parcel Maharashtra mein hai.  Humare courier wale ne kaha hai ki yeh aapke gate ke saamne hai.  Agar aapko yeh nahi milta, toh humein isko return karna hoga.  Agar aapko koi problem hai, toh call 8800667755. Parcel mein ₹7000 ka diamond earrings hai.
+receiver: Diamond earrings?  Seriously?  Arre, main toh abhi ghar par hoon.  Mujhe thoda time lagenga.  Kya main tomorrow call kar sakta hoon?
+caller: Nahin, nahin!  Yeh absolutely urgent hai!  Parcel aapke house number 12, street name Gandhi Road par hai.  Agar aapko yeh nahi milta, toh ₹2000 ka surcharge lagega.  Call 8800667755 immediately! Parcel mein ₹8000 ka sapphire ring hai.
+receiver: Sapphire ring?  Okay, okay, I’ll check right away.  But can I just ask one more question?  What if I don't know what a sapphire ring looks like?
+caller:  Arre, woh toh aap dekh lenge!  Important hai ki aap parcel pickup karein.  Agar aapko koi problem hai, toh call 8800667755.  Parcel mein ₹9000 ka ruby bracelet hai.  Last chance, call 8800667755 now!
+receiver: Okay, okay, I'm calling now...  Please hold... (sound of dialing)...  Hello?
+caller:  Bahut sundar!  Aapko parcel mila?  Parcel mein ₹10000 ka emerald pendant hai.  Agar aapko koi doubt hai, toh call 8800667755.  Thank you for your cooperation!

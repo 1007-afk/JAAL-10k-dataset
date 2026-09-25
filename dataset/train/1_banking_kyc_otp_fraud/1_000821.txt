@@ -1,0 +1,8 @@
+caller: Hello? Hello, is this Mr. Sharma? This is Riya from Secure Banking Services. We've detected unusual activity on your Axis Bank account.
+receiver: Haanji, speaking. Unusual activity? What kind of unusual activity?
+caller: Haanji, sir. We noticed a large transaction attempt from your account to a foreign wallet. We’re just verifying your identity to prevent potential fraud and freeze your account if it's compromised.
+receiver: Freeze my account? What do you need me to do? This sounds a bit suspicious.
+caller: Sir, we need to quickly confirm your Aadhaar number and the OTP sent to your registered mobile for verification purposes. It’s a standard security protocol. Please don’t delay, sir, your account will be suspended within the hour.
+receiver: Hold on a second. Can you tell me the last four digits of my account number to confirm you’re calling from Axis Bank? And why do you need my Aadhaar?
+caller: Sir, due to security protocols, we cannot disclose account details over the phone. Providing your Aadhaar is necessary for immediate verification and securing your funds. It's a matter of urgency. Please cooperate.
+receiver: I’m not comfortable sharing my Aadhaar number with someone who won't even confirm who they are. I'm going to call Axis Bank directly to verify this.

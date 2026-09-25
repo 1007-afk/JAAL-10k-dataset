@@ -1,0 +1,6 @@
+caller: Hello? Ji, this is SecureFinanceLoans calling. We're offering quick personal loans, no credit check needed. Thinking about a new phone, some extra cash? What's your name, sir?
+receiver: Yes, hello. My name is Amit. I'm just a bit busy right now, what kind of offers are you giving?
+caller: Amit ji, great to hear! We have fantastic rates right now. From ₹5,000 to ₹50,000, instantly approved. Perfect for anything you need – urgent medical bills, fixing your scooter, anything! How much were you looking for, Amit ji?
+receiver: Hmm, well, I wasn't really planning to take a loan, but a bit of extra money would be nice. Maybe ₹10,000?
+caller: ₹10,000 is very manageable, Amit ji. Absolutely doable. Now, we just need to verify a few details. For security purposes, can you tell me the last four digits of your bank account number? Very important, Amit ji, for fraud prevention.
+receiver: Wait a minute… that sounds a little strange. Why do you need my bank details? I don't think I’m comfortable sharing that.

@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Anjali Verma? My name is Inspector Rajeev Kumar, calling from the Delhi Customs Department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Delhi Customs? What suspicious items? I haven’t ordered anything unusual.
+caller: According to our records, the parcel contains electronic devices linked to illegal cryptocurrency transactions. This is a very serious matter, Ms. Verma. We need you to cooperate fully to avoid further legal complications. Please call our verification hotline immediately at 9876543210 to discuss this.
+receiver: Cryptocurrency? I don’t deal in cryptocurrency! This has to be a mistake. Can you give me a case number or some identification?
+caller: Ms. Verma, delaying this process will only escalate the charges. To clear this matter quickly and discreetly, a small administrative fee of ₹15,000 is required to process the investigation. Transfer it to the account number provided via SMS. Do not discuss this with anyone.
+receiver: Fifteen thousand rupees? I’m not paying anything until I’m sure this is legitimate. I'm going to verify this with Delhi Customs directly. Give me a contact number for your department.
+caller: Ms. Verma, time is of the essence. A warrant is being prepared as we speak. Transfer the amount now to avoid arrest. Our department policy doesn’t allow providing direct contact numbers to the public, but the verification number 9876543210 remains open. Act now.

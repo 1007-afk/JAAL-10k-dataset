@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart Customer Care se Sunil bol raha hoon. Aapke Flipkart account mein ek pending transaction hai aur usko confirm karne ke liye kuch details chahiye.
+receiver: Flipkart? Kya transaction hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, ek order hai, ₹250 ka. Aapne recently ek gift card order kiya tha, lekin payment full nahi hua. Isko complete karne ke liye, aapko ₹50 ke processing fee deposit karni hogi UPI se.
+receiver: ₹50? Flipkart aise ₹50 charge karta hai? Mujhe toh doubt ho raha hai.
+caller: Sir, ye security check hai. Scam activity se bachne ke liye hum ye process follow karte hain. Aap Paytm ya PhonePe se ₹50 send kar dijiye, main aapko confirmation number de dunga. Payment detail send karne ke baad, gift card activate ho jayega.
+receiver: Okay, ₹50 Paytm se send kar dunga. Account number ya UPI ID batao.
+caller: Ji, aap jo bhi UPI app use karte ho, usmein ₹50 send karke screenshot bhejo. Main screenshot check kar ke aapko confirm kar dunga aur gift card activate ho jayega. Jaldi karo, offer limited time ke liye hai.

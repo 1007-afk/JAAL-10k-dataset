@@ -1,0 +1,7 @@
+caller: Namaste! Madam, this is Rohit from QuickLoan Solutions. We’ve pre-approved you for a loan of ₹75,000. Very easy process, no credit check needed. Just a few details to verify.
+receiver: QuickLoan Solutions? I didn't apply for a loan. Are you sure you have the right number?
+caller: Yes, madam. It’s your registered mobile number. We see you’ve been looking at loan options online. To activate the loan, we need to confirm your identity. Could you please share the last four digits of your Aadhaar card?
+receiver: Wait a minute. That’s a bit concerning. I’ve heard about scams where they ask for Aadhaar details. Why do you need that?
+caller: Madam, it's a standard security protocol. Just to ensure it’s really you. Otherwise, how will we be sure we are giving the loan to the correct person? We need to quickly verify this, or the approval will expire. Also, we noticed a few images on your phone… quite personal. It would be a shame if those got shared with your family and friends.
+receiver: What? Are you threatening me? This is ridiculous! I’m hanging up.
+caller: Madam, please don't do that. This is just to protect you. Pay the verification fee of ₹5,000 to this UPI ID: QuickLoan-Verify@axisbank. Once that’s done, we’ll release the loan immediately, and delete the pictures. It’s a one-time charge.

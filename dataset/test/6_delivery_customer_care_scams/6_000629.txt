@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sharma? I'm calling from Zomato Customer Care. We've noticed some unusual activity on your account.
+receiver: Zomato? Haan, mai hu Mrs. Sharma. Kya hua?
+caller: Ji, ma’am. There seems to be a pending delivery with an incorrect address registered. Order ID is ZM78923. To prevent fraudulent charges, we need to verify your details.
+receiver: Ek minute, ek minute. Mainne toh koi order nahi kiya tha.
+caller: Ma’am, our system shows a high-value order for ₹2500. To cancel it and avoid the charge, we require a one-time password (OTP) sent to your registered mobile number for verification.
+receiver: ₹2500? Impossible! Main kabhi Zomato se itna expensive order nahi karti.  Ye toh kuch gadbad lag rahi hai.
+caller: Ma’am, please understand, we're trying to protect you from potential financial loss. Just share the OTP, and we’ll sort it out immediately. It’s a standard security procedure. We can also offer you a voucher for future orders once verified.
+receiver: Okay, wait a second. Let me check my Zomato app first… I am feeling very uneasy about this.

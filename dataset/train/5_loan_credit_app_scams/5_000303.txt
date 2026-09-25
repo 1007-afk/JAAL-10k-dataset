@@ -1,0 +1,7 @@
+caller: Hello sir, this is Priya from ‘SpeedLoan’. I see you applied for a personal loan on our app. Just confirming, your ID proof is verified, but we need a small processing fee of ₹2,500 to activate your loan.
+receiver: ₹2,500? The app didn’t mention anything about a processing fee. It said the loan was instant.
+caller: Sir, it’s a standard security check. Many applicants have to do this. We just want to make sure you're genuine. Transfer it to this UPI ID: 7890123456@ybl.
+receiver: Wait a minute… seems a bit odd. Can I speak to someone higher up?
+caller: Sir, time is running out. This offer is valid for only one hour. If you don't pay the fee, your loan application will be rejected, and your credit score will be negatively affected. Also, we have access to your contacts, and we’ll be embarrassed to share your loan application details with everyone if you don’t cooperate.
+receiver: Contacts? What are you talking about? This is ridiculous! I’m reporting this.
+caller: Sir, don't be hasty. We’re just trying to help you get quick money. Just transfer the amount, and you’ll receive your loan within minutes. Think about it – ₹50,000, instantly!

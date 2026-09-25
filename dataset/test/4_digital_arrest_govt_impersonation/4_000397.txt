@@ -1,0 +1,9 @@
+caller: Namaste! Main Inspector Sharma, Mumbai Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Delhi se, lekin inspection mein illegal items mile hain.
+receiver: Illegal items? Kya? Mujhe toh kuch pata nahi. Main toh kabhi Delhi se parcel order bhi nahi kiya.
+caller: Humein sachcha sachcha boliyega, sahab. System mein daraj hai aapke address par parcel aaya hai, aur usmein suspicious goods hain. Case number 789456 hai.
+receiver: Oh god! Case number? Yeh kya ho raha hai? Mujhe toh yeh sab bakwas lag raha hai. Mein kya karoon?
+caller: Aapko ₹5000 ka fine bharne hoga, aur parcel release ho jayega. ₹5000 nehi bharayenge, toh case register ho jayega aur aapko court mein bhi jaana padega.
+receiver: ₹5000? Court mein? Lekin main toh kuch galat nahi kiya! Mujhe yeh number dedo jahan main fine bhar sakta hoon, aur parcel kab release hoga?
+caller: Fine bharne ke liye, aapko PayTM ya Google Pay par ₹5000 send karne honge. Account number 9876543210. Parcel release hone mein 2-3 hours lagenge.
+receiver: Wait! Account number? Yeh kuch toh gadbad lagi. Main police station se contact karta hoon.
+caller: Police station se contact karne se kuch nahi hoga! Ye secret operation hai. Aapko ₹5000 bharne ka hi hoga, warna case register ho jayega.

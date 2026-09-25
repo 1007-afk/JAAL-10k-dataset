@@ -1,0 +1,8 @@
+caller: Namaste, SBI Bank se baat kar raha hoon. Sir, aapke bank account ko update karne ke liye call kar rahe hain.
+receiver: Haan, boliye. Update karna hai kyon?
+caller: Sir, AAPDRSHAA (Aadhaar) number aur PAN card number update karne ke liye humein verification ke liye request karna padta hai. Isliye humein aapka AAPDRSHAA number aur PAN card number chahiye. Aur agar aapne kabhi online banking use kiya hai toh uska transaction ID bhi bataiye.
+receiver: Arre, AAPDRSHAA number aur PAN card? Mein ne bank branch mein deposit kiya tha, woh number jo record mein hai, woh to tumhare paas hoga hi. Online banking toh mai kabhi nahi karta, transaction ID toh yaad bhi nahi hai. Ismein koi alternative way nahi hai?
+caller: Sir, alternate way nahi hai. Security check ka part hai yeh. AAPDRSHAA number, PAN card number aur transaction ID, ye sab compulsory hain. Agar aapne kabhi ATM ka istemaal kiya hai toh uska PIN code bhi bataiye, taki hum verification complete kar saken.
+receiver: Yaar, PIN code? Yeh toh bahut zyada pichaava hai! Mein ne kabhi ATM ka PIN change nahi kiya hai, woh number sirf meri maalikhani mein likha hota hai. Mujhe abhi pata nahi hai. Kaha se yeh number dhoondhnu parega? Verification kitna urgent hai?
+caller: Sir, verification bahut urgent hai kyunki AAPDRSHAA number aur PAN card number update karna zaroori hai. Hum aapke account ko fraud se bachaana chahte hain. Aapka AAPDRSHAA number aur PAN card number bataiye.
+receiver: Theek hai, mein bata deta hoon. AAPDRSHAA number hai [Receiver’s Aadhaar Number] aur PAN card number hai [Receiver’s Pan Card Number]. Transaction ID… woh mein nahi pahchaan paa raha hoon. Ab bataiye aage kya karna hai?

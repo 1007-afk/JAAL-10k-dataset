@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from StellarTrade Investments. We have a fantastic opportunity for you to earn significant returns on cryptocurrency trading.
+receiver: StellarTrade? I haven’t heard of them. What kind of returns are we talking about? And how does it work?
+caller: We're currently running a promotion on Ripple (XRP). Our AI-powered trading platform can generate up to 15% daily profit. It's very simple - you invest a small amount, say ₹8000, and our system does the trading for you.  You just sit back and watch your money grow!
+receiver: 15% *daily*? That sounds too good to be true. What's the catch? Is there a fee to use your platform?
+caller: There’s a small initial activation fee of ₹1500 to verify your account and unlock the AI trading capabilities. It's a one-time fee only, and it ensures your investment is securely managed. Once that’s done, profits are released immediately to your wallet.
+receiver: ₹1500 just to activate it? And where do I access this AI platform? Can I see some proof of these daily 15% returns?
+caller: Absolutely! Once the activation fee is processed, I’ll send you a link to our secure dashboard. You’ll see real-time trading results and can track your profits. The dashboard also has testimonials from other happy investors. Just send the ₹1500 to the UPI ID I’ll provide. This is a limited time offer!

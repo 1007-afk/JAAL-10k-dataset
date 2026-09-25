@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sanjay Patel? My name is Inspector Kumar, calling from the Directorate of Revenue Intelligence. We have detected some suspicious activity linked to your bank account – unusually large transactions flagged as potentially related to international hawala.
+receiver: Haan, yeh Sanjay Patel bolta hoon. Kya baat hai, sir? Hawala? Main toh kabhi hawala ka istemal nahi kiya.
+caller: Mr. Patel, we need to verify your involvement immediately. Our records show a transfer of 1.2 crore rupees to an account in Dubai. You need to clear this up to avoid serious legal complications. Please call this dedicated line immediately: 09019827777. Time is critical.
+receiver: Ek crore? Dubai? Yeh toh galat baat hai! Main toh itni sari paisa transfer kabhi nahi kiya. Mere account mein itna paisa bhi nahi hai!
+caller: Sir, we understand this might be alarming. But we need to proceed cautiously. This could be a case of identity theft. To verify your identity, could you please provide the last four digits of your PAN card? We need to confirm you are the rightful owner.
+receiver: PAN card details? Main phone pe PAN card number nahi de sakta! Yeh toh risky hai, sir. Aapko kaise pata ki main Sanjay Patel hoon?
+caller: Mr. Patel, your cooperation is vital. Our systems have cross-referenced your phone number and address. Refusal to provide this information will be taken as an attempt to obstruct a government investigation. Please understand the severity of the situation. You must call 09019827777 now and bring all relevant banking documents.
+receiver: Sir, I'm calling my lawyer. I think this is a scam. I’m not providing any information.

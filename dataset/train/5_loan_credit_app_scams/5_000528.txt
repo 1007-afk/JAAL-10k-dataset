@@ -1,0 +1,8 @@
+caller: Namaste! Mein Rahul Verma, Royal Finance se baat kar raha hoon. Aapka naam Rajesh Kumar hai, kya? Humare instant loan scheme mein aapka naam aaya hai. ₹50,000 tak ka loan, sirf aadhaar card se.
+receiver: Haanji, Rajesh Kumar hi hoon. Loan scheme? Mujhe toh kuch pata nahi tha. Kitna interest hoga?
+caller: Sir, interest rate bahut kam hai, sirf 12%. Lekin verification ke liye kuch details chahiye. Aapki bank account ki information aur ek selfie photo, account mein transfer hone ke liye.
+receiver: Selfie photo? Account details? Yeh toh thoda risky lag raha hai. Bank toh aise details nahi puchein.
+caller: Sir, yeh digital verification process hai. Security ke liye zaroori hai. Agar aap loan approve karwana chahte hain, toh details deni padegi. Aur abhi, hum ek small processing fee demand kar rahe hain ₹2500, account mein transfer hone ke liye.
+receiver: ₹2500? Lekin maine toh loan ke bare mein nahi poocha tha. Main soch raha tha ki sirf information check karwaun.
+caller: Sir, processing fee sirf ek baar lagayega. Loan milne ke baad aapko wapas mil jayega. Jaldi se transfer karein, warna offer expire ho jayegi.
+receiver: Dekhiye, mujhe yeh scheme pasand nahi aa rahi hai. Main nahi karunga.

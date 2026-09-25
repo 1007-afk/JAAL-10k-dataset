@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rajat hai, Bharat Cashback se call kar raha hoon. Aapko ek special cashback offer mila hai Paytm se.
+receiver: Bharat Cashback? Paytm pe offer? Batao kya offer hai?
+caller: Ji, dekhiye, Paytm ne select customers ke liye ek lucky draw ka announcement kiya hai. Aapki account lucky draw ke liye select ho gayi hai aur aapko Rs. 10,000 ka cashback jeetne ka mauka milega.
+receiver: Rs. 10,000? Wow! Iske liye kya karna padega?
+caller: Sirf ek chota processing fee dena hai, Rs. 499. Yeh fee aapke account verify karne ke liye aur cashback ko aapke account mein transfer karne ke liye lagegi. Aap Paytm ya Google Pay se pay kar sakte hain.
+receiver: Rs. 499? Itna zyada fee lag rahi hai. Aur verification ke liye mujhe koi OTP ya code nahi mila?
+caller: Sir, OTP toh security ke liye hai. Fee verification process ka ek part hai. Yeh offer sirf aaj ke liye hai, aur kal tak cancel ho jayega. Abhi pay kar dijiye, main aapko payment details send kar deta hoon. Jaldi karna ji, time barbaad ho raha hai.

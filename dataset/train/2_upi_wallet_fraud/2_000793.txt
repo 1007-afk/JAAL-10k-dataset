@@ -1,0 +1,7 @@
+caller: Namaste! This is Ankit from FreeCharge Customer Support. We have noticed a small discrepancy in your recent transaction on the FreeCharge app.
+receiver: Oh really? I didn't notice anything. What's the issue?
+caller: Sir, it appears there was an overpayment of ₹250 on your account. To rectify this, we need to do a quick verification. Can you please confirm the last four digits of the credit card you use with FreeCharge?
+receiver: Hmm, let me check. It’s 4567.
+caller: Shukriya, sir. Now, to process the refund and prevent any further issues, we need to send a one-time password to your registered mobile number for confirmation. Can you provide that OTP, please?
+receiver: OTP? Wait a minute. Why do I need to give you the OTP to get a refund? This feels a bit off. Shouldn’t I just be getting the money back automatically?
+caller: Sir, this is a new security protocol to prevent fraudulent refund requests. It’s a standard procedure. Just give me the OTP and the refund will be processed immediately. Don't worry, it's completely safe.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? I’m calling from Stellar Investments. We’ve been closely monitoring your portfolio and believe you’d be very interested in a new opportunity involving Solana cryptocurrency.
+receiver: Haan, mein hi hoon. Stellar Investments? Solana mein? Yeh kya offer hai?
+caller: Sir, our analysts have identified a little-known project on the Solana blockchain, "NovaChain," which is poised for massive growth. Early investors are seeing returns upwards of 400% in just a few weeks. We're offering exclusive access to our members like yourself.
+receiver: 400%? Yeh toh bahut zyada hai. Koi scam toh nahi hai na? Aur yeh NovaChain company kiski hai? Mujhe details chahiye.
+caller: Absolutely not a scam, sir! NovaChain is a decentralized finance protocol focusing on AI-powered trading. We have a whitepaper we can email you. To activate your access, we require a small verification fee of ₹750 to cover platform setup and security protocols.
+receiver: ₹750 verification fee? Yeh bilkul galat hai. Koi bhi authentic investment company aise fee nahi leti. Mujhe yeh offer nahi chahiye.
+caller: Sir, please reconsider! This is a limited-time offer. We need to verify your account quickly to secure your spot. We can transfer ₹1000 as a bonus once you confirm. Just send the ₹750 to the UPI ID: investstellar77@axisbank.
+receiver:  Yeh toh paka fraud hai! Mein police mein report karunga. Don't call me again!

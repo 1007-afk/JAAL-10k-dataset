@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Ravi hai, main Blue Dart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: Oh, parcel aaya? Kya hai andar? Aur address mein problem? Main toh correct address hi diya tha.
+caller: Parcel mein ek high-value electronics item hai, sir. Address mein ek digit missing hai, isliye parcel deliver nahi ho pa raha. Isko clear karne ke liye, aapko ek OTP mil raha hai apne phone pe, woh mujhe bataiye.
+receiver: OTP? Par courier company aise OTP poochhti hai? Mujhe toh lagta hai kuch ghalat ho raha hai. Blue Dart kabhi aise nahi poochhta.
+caller: Sir, ye security protocol hai, aapko ye confirm karna hoga ki parcel aapka hai. OTP bataiye, main check karunga aur parcel deliver kar dunga. Just OTP, sir, nothing else. Jaldi karna chahiye, otherwise parcel return ho jayega.
+receiver: Wait a minute! Main Blue Dart ke official number se call karta hoon. Yeh number check karta hoon. Aap rukiye.
+caller: Sir, please hurry! Jaldi karo, otherwise parcel kho jayega.

@@ -1,0 +1,10 @@
+caller: Namaste! This is Ajeet from LoanExpress India. We've noticed you meet the criteria for a quick personal loan. Just need to verify a few details for approval.
+receiver: LoanExpress India? I haven't applied for any loan. Are you sure you have the right number?
+caller: Yes, madam. We have your details linked to your Aadhaar and PAN. It's a fantastic offer - ₹75,000 instant loan, easy repayment options. Just need to confirm your OTP received on your phone.
+receiver: Okay, let me check… Yes, I got an OTP. It’s 487219.
+caller: Excellent! Thank you. Your loan is approved. The money will be credited to your account within 15 minutes. However, there’s a small processing fee of ₹4,500 that needs to be paid upfront via UPI before disbursement.
+receiver: ₹4,500? But you said it was a quick and easy loan! Why do I need to pay anything before getting the money?
+caller: Madam, it's standard procedure. It's a security deposit to prevent fraudulent activity. Without it, we can’t release the loan. Just a small amount to ensure everything is legitimate. Please send the UPI payment immediately to avoid delays.
+receiver: I don't feel comfortable doing that. It seems suspicious.
+caller: Madam, this is your chance to get the loan! If you don't pay now, your loan approval will be cancelled. We have many people waiting for this opportunity. You’ll regret it. Send the money quickly!
+receiver: I’m going to report this. Goodbye.

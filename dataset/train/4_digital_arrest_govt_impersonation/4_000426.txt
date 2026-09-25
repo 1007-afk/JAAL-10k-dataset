@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Indian Customs se Rahul Verma bol raha hoon. Aapke naam par ek parcel customs clearance ke liye pending hai.
+receiver: Customs? Mere naam par parcel? Main toh koi order nahi kiya tha. Kahan se aaya parcel?
+caller: Sir, parcel Dubai se aaya hai, aur screening ke dauran, usmein illegal items paaye gaye hain. Isliye, aapko is matter mein cooperate karna hoga.
+receiver: Illegal items? Kya items hain? Aur mujhe yeh sab bataane ka kya zarurat hai?
+caller: Sir, illegal items ki details aapko confidential rakhi gayi hain. Aapko case clear karne ke liye ₹15,000 ka fine jama karna padega.
+receiver: ₹15,000? Itne zyada paise? Main police mein report karunga. Yeh scam lag raha hai! Aapka naam aur ID number batao.
+caller: Sir, police report karne se kya faida? Case aapke naam par hai. Aapko fine jama karna hi padega. Main aapko OTP भेजूंगा, uska use karke payment कर दीजिए.

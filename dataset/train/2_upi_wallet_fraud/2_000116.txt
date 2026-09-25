@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash calling from FreeCash Rewards.
+receiver: Haan, main Priya Verma hoon. FreeCash Rewards? Woh kya hai?
+caller: Ji, Priya ji. Congratulations! You’ve been selected for a special cashback offer. We're giving away ₹50,000 cashback to a few lucky users, and you’ve been chosen! To claim it, we need to verify your bank account details. It’s a quick verification process, just to ensure the funds go to the correct account.
+receiver: ₹50,000? Free cashback? Yeh kuch fishy lag raha hai. Mujhe koi offer toh nahi mila tha. Aur bank details kyun chahiye?
+caller: Don’t worry, Priya ji. It's completely safe. We just need your UPI ID to transfer the cashback. It’s a promotional offer from PhonePe and we are authorized to facilitate it. Please share your UPI ID so we can initiate the transfer immediately.
+receiver: UPI ID? Main toh kabhi PhonePe nahi use kiya. Main sirf Google Pay karta hoon. Aur mujhe ₹50,000 ka cashback kyun milega?
+caller: It’s a random selection, Priya ji. Many people win these rewards. To avoid any delays, can you please share the last four digits of your Aadhaar card for verification purposes? It's a standard security protocol.
+receiver: Aadhaar card ke last four digits? Nahi, main woh nahi dungi. Yeh toh scam hai! Main police mein complaint karungi.

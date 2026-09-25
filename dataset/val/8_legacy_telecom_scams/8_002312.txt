@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main ek naye app ka promotion kar raha hoon, jo aapko online gaming ke liye help karega. App mein bahut sare exciting games hain, aur aap jeetkar paise kama sakte hain! Agar aap khelna chahte hain, toh just ‘GAME’ message karein 88990. Agar aap khelne mein interested nahi hain, toh just ‘STOP’ message karein 88990. Kya aap khelna chahte hain?
+receiver: Namaste, main theek hu. Mein samajh nahin sakta ki ye kya hai. Maine kabhi gaming apps sign up nahi kiya hai.
+caller: Achaa, maaf karna! Seemt there was some technical problem. But it’s a great opportunity, so just send ‘GAME’ to 88990 and let us know. If you do not want to play, just send ‘STOP’. Don’t worry, nothing will happen.
+receiver: Suno, mujhe koi gaming app nahi chahiye. Main isme koi interest nahi karta. Agar koi technical problem thi, toh theek hai, lekin mujhe dobara aise calls mat kijiye. Main ‘STOP’ message kar raha hoon, please confirm karein ki mera subscription cancel ho gaya hai.
+caller: Haan, ‘STOP’ message aa gaya hai. Aapka subscription cancel ho gaya hai. Chinta mat kijiye, dobara call nahi aayega. Thank you.
+receiver: Theek hai, thanks. Bas, yeh sab thoda irritating tha. Achha, bye.
+caller: Achha, thank you for confirming. Aapko game khelte enjoy karte hain. Good luck!
+receiver: Achha, thank you. Bas, yeh sab thoda irritating tha. Achha, bye.

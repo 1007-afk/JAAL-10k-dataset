@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from HDFC Bank’s security department. We've noticed some unusual activity on your account.
+receiver: Haan, hello. I am Priya Sharma. What kind of unusual activity?
+caller: It appears someone attempted to make an online transaction from your account to a gaming website, Paytm First Games, for a large sum. To prevent fraudulent activity, we need to verify your details immediately. Can you please confirm the last six digits of your Aadhaar card?
+receiver: Aadhaar card? Why do you need my Aadhaar number? That’s very sensitive information. Is this really HDFC?
+caller: Yes, absolutely. This is a standard security protocol. If you don't confirm, we'll have to temporarily freeze your account to protect your funds. Just six digits, please. And a one-time password sent to your registered mobile number?
+receiver: Wait a minute. I’m getting a really bad feeling about this. I’m not giving you anything. I’m going to call HDFC directly myself.
+caller: Please, don't be alarmed! It's just a precaution. To confirm you’re the account holder, can you tell me the answer to your security question? The one about your mother's favorite flower?

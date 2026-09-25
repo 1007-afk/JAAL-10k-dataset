@@ -1,0 +1,7 @@
+caller: Namaste, madam. Main Bharat Pay se Rohit bol raha hoon. Aapke Bharat Pay wallet mein recently ek transaction hua hai ₹999 ka, jo aapne approve nahi kiya tha.
+receiver: ₹999? Nahin, maine toh kabhi Bharat Pay se ₹999 ka transaction nahi kiya.
+caller: Madam, system mein dikh raha hai. Aapko security ke liye confirm karna hai. Verify karne ke liye aapka Bharat Pay PIN bataiye, please.
+receiver: PIN? Sir, main apna PIN phone pe nahi batati. Yeh theek nahi hai.
+caller: Madam, yeh emergency hai. Account secure karne ke liye zaroori hai. Abhi PIN bataiye nahin to account block ho jayega. ₹999 kisi ne galti se transfer kar diya hai, usko reverse karne ke liye aapko help karna hoga.
+receiver: Account block ho jayega? Toh phir koi aur tareeka hai kya? Meri account details ke bina bhi toh verify kar sakte hain na?
+caller: Madam, koi aur tareeka nahi hai. Abhi sahi PIN bataiye, fir main aapko next step bataunga. Jaldi karo, time kam hai.

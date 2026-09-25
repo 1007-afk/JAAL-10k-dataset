@@ -1,0 +1,8 @@
+caller: apki music streaming subscription received ho gayi hai. Hum aapke account ko activate kar rahe hain. Aapko ek activation email mil jaayega kuch hi der mein.
+receiver: Achha, great! Thank you so much for letting me know. Main wait kar raha hoon activation email ka. Aapko mera name pata hai kya? Bas name confirm karna tha taki mujhe pata rahe ki yeh mera hi account hai.
+caller: Ji, aapka naam Ms. Verma hai aur aapne ek music streaming subscription order ki hai. Kya yeh sahi hai?
+receiver: Haanji, bilkul sahi hai. Ms. Verma hi hoon main. Thank you so much for confirming! Bahut khushi hui yeh sunke.
+caller: Bahut achha, Ms. Verma! Hum aapke music streaming subscription ko activate kar rahe hain aur aapko kuch hi der mein activation email mil jaayega. Kya aapko payment karne mein koi problem aa rahi hai? Hum aapko ek QR code bhej sakte hain payment ke liye.
+receiver: Nahi nahi, payment mein koi problem nahi hai. Actually, payment toh maine already kar diya tha pehle hi. Bas main yeh confirm karna chahta tha ki account successfully create ho gaya hai. Agar activation email aa jaye toh I’ll be all set. Thank you for offering though!
+caller: Okay, Ms. Verma. Aapne payment pehle hi kar di hai, yeh sunke acha laga. Hum bas activation ke liye process kar rahe hain. Agar activation email mil jaaye toh aapki account process ho jayegi. Aapki music streaming preference mein koi specific genre hai? Jaise ki Bollywood ya classical?
+receiver: Haanji, actually maine ek particular genre select kiya tha. Kya uski details aap check kar sakte hain? Main naam toh bhool gaya hoon, but it's a Bollywood song from a recent release. Agar aapko mil jaaye toh bahut achha hoga. Thanks!

@@ -1,0 +1,7 @@
+caller: Namaste sir! Main Indian Customs se Atul Verma bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Mere naam par parcel rok diya gaya hai? Main to koi parcel order nahi kiya tha.
+caller: Sir, parcel mein illegal items paaye gaye hain - documents ke according gold ke barf. Isliye customs ne parcel hold kar liya hai. Aapko ise release karne ke liye kuch legal fees bharne honge.
+receiver: Gold? Sir, mujhe toh kuch bhi samajh nahi aa raha hai. Mein toh kabhi gold order nahi kiya. Fees kitni hai aur yeh fees kaise bharungi?
+caller: Sir, fees 15,000 rupees hai. Aapko UPI ke zariye payment karna hoga. Main aapko ek UPI ID deta hoon. Payment ke baad, parcel aapke address par dispatch kar diya jayega. Koi chinta mat karo, hum aapki help karenge.
+receiver: 15,000 rupees? Sir, yeh bahut zyada lag raha hai. Mein police mein report karunga agar yeh fraud nikla.
+caller: Sir, police mein report karne se kuch nahi hoga. Yeh illegal items hain. Aapko fees bharne hi hogi warna parcel destroy kar diya jayega. Abhi payment karte hain, sir. Time bahut kam hai.

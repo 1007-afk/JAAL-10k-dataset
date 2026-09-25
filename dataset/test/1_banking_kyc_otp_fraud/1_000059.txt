@@ -1,0 +1,10 @@
+caller: Namaste! Main Sanjay Kumar hoon, India Telecom se calling kar raha hoon. Aapke mobile bill mein ek badi mistake thi, aur humein usse correct karna hai. Kya aap apne last three digits jo check digit hain unhein sun sakte hain?
+receiver: Haan, sun sakta hoon. Bol payo.
+caller: Ismein ek error hua tha, ₹500 ka extra charge tha. Hum usko waive kar rahe hain, parle agar aap apna OTP verify karein. OTP 6 digit ka hoga, aur iska validity sirf 5 minute ka hai. Aapko apna bank account number bhi dena hoga.
+receiver: OTP? Bank account number? Mujhe abhi toh yeh sab samajh nahin aa raha hai. Kya aap mujhse paisa loot rahe hain?
+caller: Nahi ji, hum sirf apna network maintain karte hain. OTP verification sirf technical reasons ke liye hai. Agar aap call nahi karenge, toh hum aapki account ko suspend kar denge.
+receiver: Suspended? Account suspend? Mein abhi toh ghar jaa raha hoon. Kahan call karna hai?
+caller: Aapko hamara helpline number 1800-123-4567 pe call karna hoga. Woh aapko assistant connect karenge. Aarti madam hogi, woh aapki madad karenge.
+receiver: Aarti madam? Helpline number? Okay, main thoda time leke call karunga. Dhanyavaad.
+caller: Absolutely! Agar koi bhi problem ho, toh mujhe bataiye ga. Main yahaan aapki winning amount secure karne ke liye hoon! Thank you for your time!
+receiver: Haan, bol payo.

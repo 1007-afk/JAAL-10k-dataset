@@ -1,0 +1,20 @@
+caller: Main Bharat Vikas Insurance se bol raha hun.  Aapke liye ek bumper offer aaya hai, kya aap interested hain?
+receiver: Oh, really? Bharat Vikas Insurance? Kya offer hai, batao.
+caller: Haanji, yeh ek new personal accident cover hai.  Ismein agar koi incident hoti hai, to aapko full compensation milta hai, aur ismein medical expenses bhi covered hain.  Aapko iske baare mein aur jaanna hai kya?
+receiver: Personal accident cover? Interesting! Medical expenses bhi covered hain?  Yeh toh achha laga. Bataiye, is plan mein kya kya covered hota hai?  Aur ismein maximum limit kya hai, yani kitadi paisa mil sakta hai agar koi accident hoti hai?
+caller: Haanji sir, is plan mein aapki poori life covered hai. Agar koi accident hoti hai, to aapko ₹5 lakhs tak ka compensation milega, aur ismein aapki all medical bills bhi paid honge.  Aur aapko daily wage ka cover bhi milega, agar aap kaam nahi kar paate.  Aapko iske baare mein aur jaanna hai kya?
+receiver: ₹5 lakhs? Wow! Daily wage ka cover bhi hai?  Yeh bahut hi beneficial lag raha hai.  Dekho, mein apne beta ko register karna chahta hun, woh 16 saal ka hai.  Is plan mein unhein cover kar sakta hun? Aur premium ka kya rate hai?
+caller: Haanji sir, aapka beta 16 saal ka hai, toh unhein definitely cover kiya ja sakta hai. Premium aapki income level aur location ke according thoda vary karega, but generally ₹800 se ₹1200 per month aa sakta hai.  Form fill karne mein kitna time lagega?
+receiver: ₹800 se ₹1200 per month? Theek hai.  Mein ek estimated amount bata sakta hun, mein businessman hoon, mein aur meri aur ek beta hai.  Form agar send kar dijiye, main fill kar lunga.  Aur aapka naam bata sakta hoon? So that I know who am speaking with.
+caller: Haanji sir, mera naam Rajesh Kumar hai.  Yeh form aapko email se bhi send kar sakta hun, agar aapko convenience hai.
+receiver: Email se bheje toh behtar hoga. Mera email id [email protected] hai.
+caller: Thik hai, main aapko email se form bhejna shuru karta hun.  Aapko reply maangega jab aap form fill kar lenge.
+receiver: Okay, thank you.
+caller: Aapka khushi, sir.
+receiver: Oh, really? Bharat Vikas Insurance? Kya offer hai, batao.
+caller: Haanji, yeh ek new personal accident cover hai.  Ismein agar koi incident hoti hai, to aapko full compensation milta hai, aur ismein medical expenses bhi covered hain.  Aapko iske baare mein aur jaanna hai kya?
+receiver: Personal accident cover? Interesting! Medical expenses bhi covered hain?  Yeh toh achha laga. Bataiye, is plan mein kya kya covered hota hai?  Aur ismein maximum limit kya hai, yani kitadi paisa mil sakta hai agar koi accident hoti hai?
+caller: Haanji sir, is plan mein aapki poori life covered hai. Agar koi accident hoti hai, to aapko ₹5 lakhs tak ka compensation milega, aur ismein aapki all medical bills bhi paid honge.  Aur aapko daily wage ka cover bhi milega, agar aap kaam nahi kar paate.  Aapko iske baare mein aur jaanna hai kya?
+receiver: ₹5 lakhs? Wow! Daily wage ka cover bhi hai?  Yeh bahut hi beneficial lag raha hai.  Dekho, mein apne beta ko register karna chahta hun, woh 16 saal ka hai.  Is plan mein unhein cover kar sakta hun? Aur premium ka kya rate hai?
+caller: Haanji sir, aapka beta 16 saal ka hai, toh unhein definitely cover kiya ja sakta hai. Premium aapki income level aur location ke according thoda vary karega, but generally ₹800 se ₹1200 per month aa sakta hai.  Form fill karne mein kitna time lagega?
+receiver: ₹800 se ₹1200 per month?

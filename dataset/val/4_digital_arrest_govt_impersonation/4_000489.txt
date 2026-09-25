@@ -1,0 +1,7 @@
+caller: Namaste! Main Ankit Verma, Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, jismein illegal items mile hain.
+receiver: Illegal items? Yeh kya keh rahe hain? Mujhe toh koi parcel nahi mila.
+caller: Haan, Sir. Parcel track karne par aapka address dikh raha hai. Case number is IND-CUS-2024-78910. Aapko ₹5000 fine bharne hoga, warna legal action hoga.
+receiver: ₹5000? Legal action? Kaise bharu? Mujhe koi parcel nahi mila toh main kyon fine bharun?
+caller: Sir, yeh process fast hai. Aapko UPI se pay karna hoga. Main aapko QR code send karta hoon. Jaldi karo, otherwise police aapke ghar aaegi.
+receiver: UPI? Aur QR code? Yeh thoda suspicious lag raha hai.
+caller: Sir, delay se case aur badhega. ₹5000 pay karein, case band ho jayega. Call disconnect karne par FIR register ho jayegi. QR code send kar raha hoon.

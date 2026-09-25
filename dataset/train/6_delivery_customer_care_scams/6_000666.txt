@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Amazon customer care se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verify hone mein thodi dikkat ho rahi hai.
+receiver: Oh, theek hai. Kya problem hai?
+caller: Sir, parcel mein kuch security issue nikal ke aaya hai. Yeh kisi illegal item se related ho sakta hai. Humesha rules follow karne hote hain, so we need to verify aapki identity.
+receiver: Illegal item? Mujhe toh kuch order kiya yaad nahi.
+caller: Sir, it's a possibility.  Verification ke liye, mujhe aapka OTP chahiye jo aapko SMS se aayega. Aur ek small verification fee bhi deposit karni padegi, sirf ₹399.  Yeh process completely secure hai, sir.
+receiver: ₹399?  Kaise deposit karu?  Mai toh kisi parcel ka wait nahi kar raha tha.
+caller: Sir, aapko ek link milayega.  Payment karne ke baad, hum parcel release kar denge.  Link yeh hai [Invented Link, e.g., bit.ly/amazonverify]. Please be quick, sir, otherwise parcel return ho jayega.  Aapka trust important hai, sir.

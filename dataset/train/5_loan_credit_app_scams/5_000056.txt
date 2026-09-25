@@ -1,0 +1,7 @@
+caller: Namaste! This is Aman from QuickCash Solutions. We’ve noticed you recently applied for a personal loan online. Just verifying a few details to process your application faster. What's your full name and date of birth, please?
+receiver: Yes, hello. My name is Priya Sharma, and my date of birth is 12/08/1992.
+caller: Thank you, Priya ji! Excellent. Your application is looking promising. To finalize things, we require a small processing fee of ₹3,500 to activate your loan of ₹75,000. It's a one-time payment, fully refundable upon loan disbursement. You can deposit it to this UPI ID: 8765432109@axisbank.
+receiver: ₹3,500? That seems like a lot for a processing fee. I didn't see anything about this when I applied.
+caller: Priya ji, rules change sometimes, you see. This is standard procedure for all new applicants. Don't worry, it’s a small price to pay for quick access to funds. Once the payment is confirmed, your loan will be approved within the hour. A trusted family member can assist with the transaction if needed, just mention their name.
+receiver: I’m still not comfortable with this. Can I speak to a supervisor? It sounds suspicious.
+caller: Priya ji, there’s no need for that! We’re trying to help you get the money you need quickly. If you delay, we may have to cancel your application and offer it to someone else. Think carefully, this offer is only valid for the next 2 hours. Don't miss out on this chance to solve your financial problems!

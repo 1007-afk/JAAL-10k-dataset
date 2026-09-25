@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Rahul Axis Bank se baat kar raha hoon. Aapke account mein aaj ek suspicious transaction detect hua hai. ₹12,000 ki amount ek unknown website pe gaya hai.
+receiver: Haan, Rahul? Suspicious transaction? Mein toh kuch transaction nahi kiya. Website kaunsi thi? Mujhe batao.
+caller: Sir, security reasons se main website ka naam disclose nahi kar sakta. Lekin aapko account secure rakhne ke liye, KYC update karna hoga urgently. Warna account suspend kar dena padega.
+receiver: KYC update? Lekin main toh recently hi KYC karwa chuka hoon. Kya mujhe dob dobana padega? Aur why suspend karna padega?
+caller: Sir, new security protocols ke wajah se dob verification compulsory hai abhi. OTP hum aapke registered mobile number pe send karenge, woh enter karke aapko confirm karna hoga. Aapko ₹200 ka processing fee bhi deposit karna padega, sir.
+receiver: ₹200 ka fee? Aur dob bhi dobana hai? Mein thoda hesitant hu. Aap mujhe koi reference number de sakte hain? Ya aapke supervisor se baat kar sakta hoon?
+caller: Sir, time is critical. Account suspend hone se pehle OTP provide karein. OTP hai – 9876. Abhi provide karein, please.

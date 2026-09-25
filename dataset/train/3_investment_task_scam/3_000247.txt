@@ -1,0 +1,15 @@
+caller: Tum sun rahe ho kya? Mera naam Rohan hai. Main aapko ek bahot badi sharam deta hu ki humare paas ek awastha hai, jisse aapki zindagi bad jayegi.
+receiver: Hi Rohan, sun rahi hun. Kya hua? Aur tumhare paas kaunsa awastha hai?
+caller: Haan, main theek hoon. Priya, aapko ek naye shikaar ka pata lag raha hai. Yeh ek bohot sundar ghar hai, aur humare paas usko aapko dekar ek bohot achha fayda hai.
+receiver: Oh really? A beautiful house? And you want to give it to me? How does that work?
+caller: Dekho Priya, yeh shikaar abhi tak chhupa hua tha, lekin humara team ne usko bulwa liya hai.  Yeh ek bohot behtarin ghar hai, aur aapko sirf "Shikaar-786" bolna hai, aur woh ghar aapka ho jaayega.
+receiver: Shikaar-786… so I just say that number and the house is mine? Is there anything else I need to do?
+caller: Haan Priya, wohi baat karein.  Aur agar aapko koi darr lagta hai, to yaad rakhein - humare paas ek safa doctor hai, jisne yeh shikaar ko dekh ke bola ki yeh bohot behtarin hai.
+receiver: A doctor recommended this house? That’s interesting. Can you tell me a little more about this ‘behtarin’ house?
+caller: Priya, yeh ghar Mumbai mein hai, Ganeshpur ki taraf.  Ek bada haveli hai, 5 bhikwan kapde.  Aur humare paas sirf 3 mauke bache hain, socho yeh bohot zaroori hai.
+receiver: Mumbai, Ganeshpur? A five-bedroom mansion? This sounds too good to be true. Are you sure about this?
+caller: Haan Priya, yeh sach hai. Agar aapko yeh ghar chahiye, to abhi hi call karna.  Phir woh aapka ho jayega.  Agar nahi, toh koi baat nahi, lekin yeh mauka bohot kam logon ke milega.
+receiver: Okay, Rohan, let’s say I agree. What happens next?
+caller: Priya, abhi aapko ₹5000 deposit karna hoga.  Phir hum aapko ek confirmation email bhegenge.  Abhi sirf 1 mauka bacha hai, so chocho jaldi!
+receiver: ₹5000 deposit? Really? Where would I send that money?
+caller: Online, Priya.  Humare website par ek secure payment gateway hai.  Yaani, aapko apne bank account se transfer karna hoga.

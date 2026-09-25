@@ -1,0 +1,8 @@
+caller: ? Can you hear me? This is Mark from Gr8 Poly Tones, calling about your recent activity on our service. Are you still t
+receiver: Haanji, sunai de raha hai. Koun bol rahe ho? Aur Gr8 Poly Tones se kya kaam hai?
+caller: Haanji, sunai de raha hai. Koun bol rahe ho? Aur Gr8 Poly Tones se kya kaam hai?\n\nMain Mark bol raha hoon Gr8 Poly Tones se. Aapke account mein kuch problem hai, recent activity ke baare mein call kiya hai. Aapki service pe kuch issue aa raha tha, kya aap usko use kar paa rahe hain abhi?
+receiver: Hain? Mere account mein problem hai? Mujhe toh koi dikat nahi aa rahi thi. Aap mujhe detail mein bataiye kya issue hai?
+caller: Haanji, bilkul. Aapke account mein actually, humein ek alert mila tha ki aapki subscription ka renewal date nikal gayi hai aur service shayad band ho gayi ho. Hum bas confirm kar rahe the ki sab theek hai aur agar aap chahte hain toh hum usko turant restart kar sakte hain. Kya aapko koi notification mila tha iske regarding?
+receiver: Subscription renewal? Koi notification toh nahi aaya mujhe. Aur service toh chal rahi hai abhi tak. Aapke paas mera account detail hai toh check karke bataiye ki kya date thi renewal ki aur abhi kya status hai.
+caller: Aapke account detail check kar raha hoon. Ek minute lag jayega. Haanji, dekhiye, aapka renewal date 2 din pehle tha, 28th March ko. Aur subscription automatically cancel ho gaya tha. Par aap chinta mat kijiye, hum ise turant restart kar sakte hain. Bas aapki confirmation chahiye. Kya aap chahenge hum subscription restart kar dein?
+receiver: Achha, 28th March ko? Mujhe laga abhi time hai. Toh matlab abhi service band ho gayi hai meri? Agar restart ho jayegi toh mujhe wahi plan milega jo pehle tha ya naya plan lena padega?

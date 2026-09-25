@@ -1,0 +1,7 @@
+caller: Namaste! This is Rupali calling from Bluebird Courier. We have a package addressed to you, but there's a small issue with the delivery address.
+receiver: Oh, really? What’s the problem? My name is Anjali Verma, by the way.
+caller: Yes, Anjali Verma. The pin code doesn't match the address we have on file. It’s delaying the delivery of your shipment from Myntra. To proceed, we need to verify a few details. Can you confirm the last four digits of the card you used for the Myntra order?
+receiver: I'm a little hesitant to give out card details over the phone. Is this really Bluebird Courier?
+caller: Absolutely, ma'am. It’s standard security protocol. We just need to confirm you're the rightful owner of the package. Also, we have a small customs processing fee of ₹250 to clear the shipment. We can send you a secure payment link.
+receiver: ₹250? I don’t remember seeing anything about a fee when I placed the order. Can you give me a reference number for the package?
+caller: Certainly. The reference number is CB7890123. The payment link is ready. Please click it to complete the transaction so we can get your Myntra package to you as quickly as possible. It’s very important to do this within the next 15 minutes or the package will be returned to sender.

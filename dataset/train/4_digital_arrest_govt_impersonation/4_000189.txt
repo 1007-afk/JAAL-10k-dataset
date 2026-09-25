@@ -1,0 +1,10 @@
+caller: Namaste, main Indian Customs se Inspector Vijay Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Parcel? Mujhe to koi parcel yaad nahi.
+caller: Ji, parcel mein illegal items paaye gaye hain, jo drug trafficking se related ho sakte hain. Aapko is matter mein cooperate karna hoga, warna legal action lena padega.
+receiver: Illegal items? Main toh kabhi koi parcel nahi bheja. Yeh galat hai!
+caller: Madam, yeh serious matter hai. Hamare record ke according, parcel aapke naam aur address par bheja gaya tha. Aapko ek video call mein join karna hoga, aur kuch details provide karna hoga, taki hum is matter ko investigate kar sakein. Video call ke liye aapko 5000 rupees ka security deposit jama karna hoga.
+receiver: 5000 rupees? Video call? Yeh to scam lag raha hai! Main koi bhi payment nahi karungi.
+caller: Madam, agar aap cooperate nahi karein, toh humko niyamit procedure follow karna padega, aur aapko court mein ghaseetna padega. Yeh zyada costly hoga. Just 5000 rupees, aur matter settle ho jayega.
+receiver: Court? Main police mein complaint karungi! Aapka number save kar rahi hoon.
+caller: Madam, aapko galatfeeshe samajh rahe hain. Yeh aapki protection ke liye hai. Jaldi karein, otherwise aapko pareshani ho sakti hai. Aapko apni bank details aur PAN card ke screenshot provide karne hain.
+receiver: Bank details aur PAN card? Tum log pagal ho! Main abhi yahan se phone kaat rahi hoon.

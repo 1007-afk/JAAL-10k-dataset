@@ -1,0 +1,11 @@
+caller: Namaste sir, aapke SBI debit card ka expiry date kal raat ko khatam hone wala hai.  Please, apne card ko online rakhna bahut zaroori hai.
+receiver: Haanji beta, mere haath mein card hai.  Kya hua?
+caller: Sir, suno, aapka SBI debit card jo hai, uska validity kal raat ko expire ho jaayega. Agar aap abhi card activate nahi karenge, to aapko account mein paisa transfer karne mein mushkil ho sakta hai.  Aapka card abhi active rahega, thoda time le lo, theek hai?
+receiver: Haanji, card mera haath mein hai.  To phir main kya karun ab?
+caller: Sir, aapko koi bhi information share karne ki koi zarurat nahi hai. Hum sirf aapke card ko live rakhne ke liye check kar rahe hain.  Aapko koi notification aaya hai is bare mein?
+receiver: Notification? Haanji, mujhe ek SMS aaya tha lekin maine uspe dhyayan nahi diya.  Apsara kaun bol raha hai, bank ka representative hai na?
+caller: Haanji sir, main bank ka representative hoon.  Is SMS ka ilaaj hai ye taki aapka card active rahe aur aapko koi inconvenience na ho.  Bas, hum yahaan verify kar rahe hain ki card abhi chal raha hai.  Aap card ko off toh nahi kar rahe na?
+receiver: Nahi, nahi, card toh mere paas hai.  Off nahi kiya.  Toh matlab mera card abhi bhi kaam karega na?
+caller: Haanji, absolutely!  Aapka card abhi totally active hai.  Just relax and don’t worry about it.  We just wanted to give you a quick update.
+receiver: Okay, thanks.
+caller: Aapka khushi mein hoon, sir.  Thank you!

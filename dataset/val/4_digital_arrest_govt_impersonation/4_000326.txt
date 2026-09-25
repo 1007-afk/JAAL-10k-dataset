@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Verma? I’m calling from the Directorate of Revenue Intelligence, DRI. We’ve detected some unusual activity linked to your bank account.
+receiver: Haan, bolie. Unusual activity? What kind of activity? I haven't done anything wrong.
+caller: Sir, our systems show several large transactions originating from your account and routed through shell companies in Dubai. It appears you may be unknowingly involved in a case of hawala financing.
+receiver: Hawala financing? Are you serious? I do business locally, I don't know anything about Dubai or shell companies. This has to be a mistake. Can you give me a case number?
+caller: Sir, providing a case number at this stage would compromise the investigation. To clear this up quickly and avoid legal repercussions, we need your cooperation. We'll need to verify some details and collect a small processing fee to cover forensic audits. Rupees 15,000, sir. It’s refundable once the investigation clears you.
+receiver: Fifteen thousand rupees? Refundable? This sounds very fishy. Why can't I speak to your supervisor? And why are you calling me instead of sending a formal notice?
+caller: Sir, our superiors are very busy. Time is of the essence. If you delay, the case will escalate and you may face arrest. This is a sensitive matter. The amount is minimal compared to potential penalties. Just transfer the money to this UPI ID: 9876543210@ybl.
+receiver: Wait a minute! You’re asking for money over the phone? And a UPI ID? This is clearly a scam. I’m reporting this to the cybercrime cell. Don’t call me again.
+caller: Sir, please don’t be hasty. This is your last chance to resolve this quietly. Think about your

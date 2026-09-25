@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Sharma? This is the Cybercrime Investigation Cell, Delhi. We're calling regarding a suspicious transaction linked to your bank account.
+receiver: Cybercrime? Transaction? What’s happening? My account is fine, I check it regularly.
+caller: Madam, our records show an unauthorized attempt to transfer ₹12,500 to a cryptocurrency wallet using your debit card. We need to verify some details immediately to secure your funds. Please have your ATM card handy.
+receiver: ₹12,500? Cryptocurrency? This sounds very strange. I haven’t made any such transaction. Are you sure you have the right person?
+caller: Madam, it's vital we act quickly. Hackers are very clever. To confirm your identity and prevent further fraudulent activity, we need to ask you a few security questions. Can you please tell me the last four digits of your ATM card and your mother’s maiden name? This is standard protocol.
+receiver: Wait a minute! This doesn't sound right. A legitimate bank wouldn't ask for my ATM card details or my mother's maiden name over the phone. I’m going to hang up and call my bank directly.
+caller: Madam, do not hang up! This is a matter of national security. Delaying this verification will expose your account to further risk. Please cooperate, or we will be forced to freeze your account permanently.
+receiver: Freeze my account? This is ridiculous. You're a scammer! I’m reporting this number.

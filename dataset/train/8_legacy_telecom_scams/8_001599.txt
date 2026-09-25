@@ -1,0 +1,8 @@
+caller: ji hello aur receiver: Ji kon bo
+receiver: Ji, main sun raha hoon. Aapka naam jaan sakta hoon please? Aur aap kis bare mein baat karna chahte hain?
+caller: scammer: Hanji hello, aapka naam jaan sakta hoon please? Aur aap kis bare mein baat karna chahte hain?
+receiver: Ji, main sun raha hoon. Aapka naam jaan sakta hoon please? Aur aap kis bare mein baat karna chahte hain?
+caller: scammer: Haanji hello, main Vodafone se bol raha hoon. Aapko yeh batane ke liye call kiya hai ki aapka number ek khaas offer ke liye select hua hai. Kya main aapka naam jaan sakta hoon?
+receiver: Ji haan, main sun raha hoon. Mera naam Rahul hai. Vodafone se bol rahe hain? Kya offer hai?
+caller: scammer: Rahul ji, bohot khushi hui aap se baat karke. Toh main bata raha tha ki Vodafone ne ek special award scheme nikali hai, aur aapka number isme select hua hai. Aapke Vodafone number ke last four digits 0089 hain, right? Yeh number is award ke liye select hua hai, ek £350 ka award. Kya aapka number yahi hai?
+receiver: Haan, sahi hai. 0089 hi hai mera number. £350 ka award? Yeh toh surprising hai. Toh kya karna hoga mujhe?

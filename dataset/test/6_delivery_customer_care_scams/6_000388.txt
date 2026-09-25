@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? My name is Akash, calling from Blueridge Logistics. We have a parcel addressed to you, but there's been a delivery attempt failure. The tracking number is BR789456.
+receiver: Haan, Mrs. Verma bol rahi hoon. Blueridge Logistics? Parcel mera? Main toh kuch order nahi kiya tha.
+caller: Ji, Madam. Sometimes things get ordered accidentally online, or as gifts. The issue is, the parcel contains sensitive documents and requires a signature confirmation. Because of the attempted delivery failure, it's been flagged for temporary hold and a small processing fee of ₹250 is required to release it.
+receiver: ₹250? Processing fee? Yeh toh sunai nahi diya. Par main toh kuch order bhi nahi kiya. Amazon ya Flipkart se kuch hai kya?
+caller: No Madam, this isn't related to Amazon or Flipkart. It’s being shipped directly from a vendor. To process this fee and expedite the release, we need to verify your payment details. Could you please share the last four digits of your debit card and the OTP you'll receive on your phone? This is just for a quick security verification.
+receiver: Acha, debit card ka number aur OTP?  Yeh thoda risky lag raha hai.  Main bank se baat kar ke confirm kar leti hoon.
+caller: Madam, I understand your concern, but without this verification, the parcel will be returned to the sender. And you'll lose access to whatever’s inside.  It's a very simple process. Just the last four digits and the OTP, please. We're trying to get this resolved for you quickly.
+receiver: Okay, the last four digits are 4578.  Now OTP is coming…  It’s 9216.  I hope this is right

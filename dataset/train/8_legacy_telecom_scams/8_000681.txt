@@ -1,0 +1,9 @@
+caller: Namaste sir, kaise haal chaahe? Congratulations! Aap ne "ShineBright" smartwatches ka lottery jeeta hai! Yeh ek achha samachar hai! Kaise ho aap?
+receiver: Oh! Seriously? Smartwatch? Mein toh bahut khush hoon! Kya hua? Bolo mujhe kuch.
+caller: Haan ji, yeh sach hai! Aapko do ShineBright smartwatch milega! Yeh smartwatch me bluetooth connectivity hai aur voice assistant bhi hai. Model number hai SHW-789. Aapko humein abhi call karna hai 0888-222-9999, agar aap apne prize ko claim karna chaahen. Aapke paas sirf 6 minute baqyaat hai, shuru karein.
+receiver: Six minutes? Woh toh acha hai!  Aapka number sahi hai na? SHW-789?  Main abhi call kar deta hoon. 0888-222-9999? Theek hai, theek hai, main call karta hoon.
+caller: Haan ji, woh number sahi hai! 0888-222-9999.  Aapke paas abhi 4 minute baqyaat hai.  Agar aap apne smartwatch ko claim karna chaahen, toh jaldi call karna.  Aapko koi surcharge nahi dena hai, yeh puri free hai!
+receiver: Free? Really? Koi surcharge nahi? Amazing!  Aapko kya chahiye?  Koi information chahay?
+caller: Nahi, nahi, koi zaroorat nahi hai.  Bara smartwatch jeeto!  Aapko abhi 2 minute baqyaat hai.  Yeh aapka aakhri chance hai, jaldi call karna!  All the best!
+receiver: Okay, okay, just 2 minutes... Main abhi call kar rahi hoon... Aa gaya mera phone! Thanks again! Bye bye!
+caller: Haan, aapki congratulations!  Aapne ShineBright smartwatch jeeta hai!  Enjoy karo!

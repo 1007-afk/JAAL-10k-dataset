@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Vi helpline se Rahul bol raha hu. Aapke PhonePe wallet mein 10,000 ka cashback offer hai. Claim karne ke liye kuch details chahiye.
+receiver: Vi? Mereko toh koi message nahi aaya. Aur PhonePe pe offer? Check karte hai…
+caller: Haan Aunty, offer limited time ke liye hai. Aapka PhonePe number bataiye, main check kar leta hu.
+receiver: Mera number hai 8888888888. Lekin yeh thoda suspicious lag raha hai. Vi helpline aise call nahi karta.
+caller: Ji Aunty, sahi number hai. Ab OTP aa raha hai aapke phone pe, woh mujhe bataiye. OTP se aapka account verify ho jayega aur cashback claim ho jayega.
+receiver: OTP? Main PhonePe app mein check karti hu… Arre, koi OTP aaya hi nahi! Yeh toh fake hai, correct?
+caller: Aunty, thoda wait kijiye. Shayad network issue hai. Ab aapka bank account number aur IFSC code bataiye, verification ke liye.
+receiver: Bank details?! Bilkul nahi! Aise kuch bhi share nahi karne wali. Yeh scam hai! Mai police complaint karungi.

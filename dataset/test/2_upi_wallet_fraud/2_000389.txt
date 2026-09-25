@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Customer Care se Rahul bol raha hoon. Aapko ek cashback offer mila hai Paytm se.
+receiver: Oh, really? Cashback offer? Kitna cashback hai?
+caller: ₹5000 cashback offer hai, sir. Par isko claim karne ke liye, aapko ek small processing fee bharani hogi. ₹500 sirf.
+receiver: ₹500? Processing fee? Main toh Paytm pe kabhi nahi suna tha processing fee bharne ke bare mein.
+caller: Haan sir, yeh naya rule hai government ne banaya hai. Yeh verification fee hai. Aap apne Paytm wallet se ₹500 send karein ek specific UPI ID pe, aur cashback instantly aapke account mein deposit ho jaayega.
+receiver: Theek hai, UPI ID batao. Aur confirm karo ki yeh legit hai. Mujhe koi scam nahi hona chahiye.
+caller: Haan sir, bilkul legit hai. UPI ID hai 7890123456@axisbank. ₹500 send karke 'CLAIM5000' type karke message karein. Jaldi karein, offer limited time ke liye hai.

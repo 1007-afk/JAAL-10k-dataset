@@ -1,0 +1,9 @@
+caller: Namaste, sir. Mera naam Rajesh Sharma hai, Axis Bank se. Aapke Axis Bank account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Batao kya hua?
+caller: Sir, ek international transaction attempt hua hai, jo aapne nahi kiya hai. Security ke liye, aapko account verify karna hoga.
+receiver: Verify? Kaise verify karna hai? Koi OTP mang rahe ho kya?
+caller: Haan sir, ek OTP भेजूँगा aapke registered mobile number par. Woh OTP bataiye taaki hum account safe kar sakein. Account suspend bhi ho sakta hai agar aap verify nahi karte.
+receiver: Wait, let me check something. Is there a reference number for this suspicious transaction? And can you confirm the last four digits of my account number?
+caller: Sir, reference number hai TXN-789012. Aapke account ke last four digits 1234 hain. OTP भेजूँगा अभी.
+receiver: Okay, send the OTP then.
+caller: Aapka OTP hai 987654. Bataiye please, sir.

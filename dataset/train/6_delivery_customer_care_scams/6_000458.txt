@@ -1,0 +1,7 @@
+caller: Hello! Main Rahul se baat kar raha hoon, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address sahi nahi hai. Ek small issue hai, sir.
+receiver: Yeh? Mera parcel? Mainne toh kuch order kiya nahi tha.
+caller: Haan sir, ek online store se aaya hai. Lekin billing address galat hai, isliye parcel ruk gaya hai. Aapko woh sahi karna padega.
+receiver: Billing address sahi karna hai? Kaise karoon? Mujhe toh koi parcel nahi chahiye.
+caller: Sir, aapko ek OTP milega, woh OTP mujhe bataiye, tab main address update kar dunga. Phir parcel aapke address par chala jayega.
+receiver: OTP? Bilkul nahi! Main phone nahi dunga. Yeh scam lag raha hai.
+caller: Sir, please! Agar aap OTP nahi denge toh parcel wapas chala jayega. Aur aapko phir se order karna padega, jismein shipping charges lagenge. OTP sirf OTP hai, kuch nahi.

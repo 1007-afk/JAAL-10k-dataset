@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay hai, main Aadhaar helpline se bol raha hoon. Aapke Aadhaar card se linked phone number par kuch suspicious activity detected hui hai.
+receiver: Kya suspicious activity? Mere phone number mein? Mein toh aaj tak kabhi koi problem nahin dekha.
+caller: Haan ji. Aapke Aadhaar card se linked UPI ID se kal raat ko ek attempt hua tha ₹5000 ka transfer karne ka. Security ke liye, aapko verify karna hoga.
+receiver: ₹5000? Mein toh kabhi bhi kisi ko payment nahin kiya. Yeh fraud lag raha hai.
+caller: Bilkul correct. Isliye aapko verify karna hai. Verify karne ke liye, aapko ek OTP send karenge WhatsApp pe. OTP milne ke baad mujhe bataiye, aur mein aapko guide karunga.
+receiver: WhatsApp pe OTP? Theek hai. Abhi check karta hoon.
+caller: Haan ji, dekhiye OTP. Woh share karein mere saath.
+receiver: Mere paas OTP 987654 hai.
+caller: Thank you! Ab aapko ₹200 ka verification charge deposit karna hoga apne phonepe account mein. Tabhi aapka Aadhaar card safe ho jayega.

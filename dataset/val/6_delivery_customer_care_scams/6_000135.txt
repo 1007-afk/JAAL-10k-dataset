@@ -1,0 +1,8 @@
+caller: Haan ji, bilkul. Main abhi Hillsborough aur <address> ke aas-paas hi hoon. Aapko kuch samaan chahiye tha na? Kitna time lagega aapko?
+receiver: Haan, ji, sahi suna aapne. Thoda sa time aur lagega, bas five to ten minutes. Kitne mein pahunchna hai aapko? Aur haan, mera naam Anya hai, aapko jo bhi chahiye ho bata dena.
+caller: Anya ji, thik hai.  Mai bas 5 minute mein pahunch raha hoon.  Koi jaldi nahi hai.  Aur haan, aapko jo chahiye tha, vo saman abhi ready hai mere paas.  Aap bas bataiye kya chahiye tha.
+receiver: Arre wah, itni jaldi! Bahut achha. Haan ji, mujhe ek box chahiye tha, usme kuch books hain. Aapse milkar achha laga.
+caller: Anya ji, bilkul. Books wala box ready hai. Kitne books hain usme, ya koi specific type ki books chahiye? Aur koi aur cheez toh nahi chahiye na? Bataiyega bas.
+receiver: Ji, books to kaafi hain, pura ek box bhar ke hai. Koi specific type nahi, bas kuch fiction aur kuch history ki hain. Aur kuch nahi chahiye tha, bas yahi ek box tha. Aap pahunch gaye kya?
+caller: Anya ji, bilkul, bas pahunch hi gaya hoon. Aapka box ekdum ready hai, fiction aur history dono types ki books se bhara hua. Koi extra saman chahiye ho toh bataiye, kuch stationery ya kuch aur? Humare paas sab mil jata hai yahan.
+receiver: Arre, stationery ki zaroorat nahi hai, bas books ka box hi kaafi hai. Aapne bataya nahi, aapka naam kya hai? So, if I have to call you next time, I'll know who I'm talking to.

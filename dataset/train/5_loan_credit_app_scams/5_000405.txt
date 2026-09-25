@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Priya Sharma? I'm calling from QuickCash Solutions. We offer immediate personal loans, no credit check needed. Just a quick verification and the money is in your account.
+receiver: Haan, main Priya Sharma bol rahi hoon. Loan? Mujhe toh koi loan nahi chahiye tha.
+caller: Madam, kabhi bhi zaroorat padti hai! Life mein unexpected expenses toh aate rehte hain. We can approve a loan of up to ₹75,000 within minutes. Just tell me, what is your occupation?
+receiver: Main ek teacher hoon. Par mujhe abhi loan ki zaroorat nahi hai.
+caller: Okay, teacher madam! Very good. But imagine, a sudden medical emergency for your family, or a chance to invest in a good opportunity. We're here to help. Just a few questions – do you have any existing loans currently? And can you share your bank account details so we can check your eligibility quickly?
+receiver: Bank account details? Woh kyun share karun? Mujhe toh yeh suspicious lag raha hai.
+caller: Madam, it’s a standard procedure. Without it, we can't proceed. We have many happy clients who have benefited from our service. Otherwise, we will have to cancel the offer. We could also send you details of your loan agreement to your contacts if you don't cooperate. 
+receiver: Loan agreement contacts mein? Yeh toh fraud lag raha hai! Main police mein report karungi.
+caller: Madam, please don't do that! We are a legitimate company. Let’s just proceed with the verification. Just share the last four digits of your account number, and we’ll show you the loan offer right away.

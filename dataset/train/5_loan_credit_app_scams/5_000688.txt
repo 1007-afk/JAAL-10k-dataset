@@ -1,0 +1,8 @@
+caller: Hello? Is this Priya? I’m calling about a loan application you recently submitted through ‘FastLoanPro.’ Congratulations, you're pre-approved for ₹75,000! Just a few quick details to finalize it.
+receiver: Really? I don’t remember applying for any loan. Are you sure you have the right person?
+caller: Yes, definitely Priya. We sent you an SMS about it a few days ago. To activate the loan, we need a small processing fee of ₹2,500. It's standard procedure to verify your account and prevent fraud. You can pay via UPI.
+receiver: ₹2,500 before I even get the loan? That's unusual. And I still don't recall applying. Could you send me the reference number of my application?
+caller: The reference number is FLP-2024-789.  Look, Priya, don’t delay. Other applicants are trying for the same amount. If you don’t pay this fee within the hour, your approval will be cancelled. We need the UPI ID.
+receiver: This is starting to feel like a scam. I'm not giving you any money. I'm going to block this number and report it to the cybercrime unit.
+caller:  Wait! Priya, please! You’re making a mistake. We’re just trying to help you get this loan. You’ll be in serious trouble if you don’t cooperate. We have your photos, you know. We can share them with your family and social media.
+receiver: What? That’s a threat! You’re unbelievable. Goodbye.

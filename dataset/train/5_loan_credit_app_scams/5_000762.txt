@@ -1,0 +1,9 @@
+caller: Namaste! Main CreditQuick se Rahul bolta hoon. Aapki file approve ho gayi hai ₹80,000 ka loan ke liye. Bahut shubh baat hai!
+receiver: Oh, really? That's good news. What's the interest rate? And how quickly can I get the money?
+caller: Interest rate sirf 8% hai, bohot hi attractive offer hai. Aur paisa sirf 24 ghante mein aapke account mein transfer ho jayega. Lekin, verification ke liye kuch basic details chahiye.
+receiver: What kind of details? I'm a little wary of giving out too much information online.
+caller: Bilkul, sir. Woh toh sirf security ke liye. Aapko apna OTP dena hoga jo aapko SMS se milega, aur ek small processing fee ₹3500 deposit karna padega.
+receiver: ₹3500? Before even getting the loan? That doesn't sound right. Can I speak to someone about this?
+caller: Sir, ₹3500 processing fee toh compulsory hai, bina uske loan nahi release hoga. Yeh CreditQuick ki policy hai. Agar aapko loan chahiye toh jaldi karna hoga, otherwise offer expire ho jayega.
+receiver: I need to think about this. Give me a contact number for your company.
+caller: Sir, contact number mein time waste hoga. Yeh offer abhi aapke liye hi hai, kisi aur ko nahi milega. Just confirm the OTP aur deposit the fee, aur paisa aapke account mein aj hi ajayega.

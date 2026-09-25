@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Anand Sharma? I'm calling from QuickCash Loans. We saw your recent application for a personal loan.
+receiver: Yes, speaking. I did apply for a loan online.
+caller: Wonderful! Your application is almost approved for ₹75,000. Just a few quick verifications. For security purposes, can you confirm the last four digits of your debit card?
+receiver: I’m a bit hesitant to give out my card details over the phone.
+caller: Sir, it’s a standard procedure to prevent fraud. We need to ensure it's really you. And please, don’t delay. If you don’t confirm now, the offer will expire in 2 hours. Otherwise, a small processing fee of ₹2,500 will be charged.
+receiver: Okay, fine. It’s 4876.
+caller: Thank you, Mr. Sharma. Just one more thing, for ID verification, could you please send us a photo of your Aadhar card via WhatsApp to this number?

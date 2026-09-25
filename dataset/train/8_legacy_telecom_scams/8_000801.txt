@@ -1,0 +1,10 @@
+caller: Namaste, are you the lucky participant of the ‘Golden Lottery’ draw? This is an automated message informing you that you’ve won a brand new Samsung Galaxy S23 smartphone! Please call 876543210 immediately to confirm your win and arrange delivery. Congratulations!
+receiver: Namaste! Haan, main hi hoon. Golden Lottery? Samsung Galaxy S23 jeeta hoon? Seriously? That's fantastic news! Okay, I will call 876543210 right away. Shukriya!
+caller:  Arey yaar! Sunke bohot maza aaya, aapne lottery jeeta hai! Just call 876543210 and provide some basic information to activate your prize. It’s crucial to do this quickly – only five phones left to process!
+receiver:  Okay, so I need to give them some info?  Theek hai, I'll call now. Thanks for letting me know!
+caller: Absolutely, sir/madam! You heard correctly, and this is wonderful news! We only have two slots remaining for this week’s winners, so you absolutely must call 876543210 as soon as possible. Don't let this incredible Samsung Galaxy S23 slip away!
+receiver:  Oh wow, just two spots left? Alright, I’m picking up my phone now and calling that number.  Thank you for reminding me - I wouldn’t have known otherwise!
+caller: Exactly! Sir/Madam, you heard correctly, and this is wonderful news! We only have one slot remaining for this week’s winners, so you absolutely must call 876543210 as soon as possible. Don't let this incredible Samsung Galaxy S23 slip away!
+receiver:  Seriously?! Only one spot left?  I’m dialing now! Yaar, thanks for giving me such short notice, otherwise I would have completely forgotten about this!
+caller:  Precisely!  Just confirm your address and date of birth over the phone, and we can finalize your delivery. Call 876543210 immediately!
+receiver: Ok, fine. I'm calling now...

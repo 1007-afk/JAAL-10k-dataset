@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Kapoor? This is Inspector Rajan from the Delhi Customs Department. We've intercepted a suspicious package linked to your name and address.
+receiver: Hello? Haan, main Mrs. Kapoor bol rahi hoon. Kya baat hai? Kuch problem hai?
+caller: Ji, Mrs. Kapoor. The package contains items suspected to be related to international money laundering. It's a serious matter. We need to verify your involvement to prevent further legal complications. Could you please provide your Aadhar card number for verification?
+receiver: Aadhar card number? Kaise? Yeh package mere naam par kaise? Main toh kabhi bhi internationally kuch nahi bheja hai. Yeh theek nahi hai.
+caller: Madam, please understand this is standard procedure. The package originated from abroad and was misdirected. To clear this up and avoid a police case, you need to pay a small processing fee of ₹8,500. This will allow us to expedite the investigation and release the package. We can do it through UPI.
+receiver: ₹8,500? Aur yeh package kahaan hai? Main toh is bare mein kuch bhi nahi jaanti. Main police station mein report karungi.
+caller: Madam, please don't do anything rash.  We are trying to help you avoid a lengthy court case.  The money laundering investigation is very serious.  I can transfer you to the CBI officer in charge.  He can explain everything. Just pay the fee, and everything will be sorted out.
+receiver: CBI officer? Main abhi phone kaat rahi hoon. Yeh fraud hai.

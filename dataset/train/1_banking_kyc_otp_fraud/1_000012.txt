@@ -1,0 +1,18 @@
+caller: Namaste! Kaise haal hai? Main TechConnect India se bol raha hoon. Tumne recently jo WhatsApp message mila tha, woh jaankaar tha? Tumhara name WhatsApp account par ₹5000 ka free data waiting hai! Ye offer sirf 2 ghante ke liye valid hai, so jaldi karo.
+receiver: Namaste ji, sunay de. TechConnect India se ho aap? Woh WhatsApp message…haan, dekha maine. Fir kya karna hai?
+caller: Simplemente, tumhein ek verification code lena hoga. Is code ko apne WhatsApp account mein enter karna hai. Code ko receive karne ke liye, tumhari mobile number validate karni hogi.  Ismein tumhara naam aur mobile network bhi jaruri hai.  Tumhare WhatsApp account mein ₹5000 ka free data, bas ek code hi chahiye!
+receiver: Ji, mera naam Priya Devi hai, aur main Airtel use karti hoon.
+caller: Achhi, Priya! Shukriya. Verification code lene ke liye, tumhari mobile number ka last three digits batao.  Hum tumhari number validate karenge aur tumhein code send karenge.
+receiver: Mera mobile number ka last three digits hai 234.  Aapko aur kuchh chahiye?
+caller:  Perfect!  Verification code tumhein abhi aa rahi hai…wait karo.  Code hai 8765.  Yeh code ko apne WhatsApp account mein enter karo, and tumhara ₹5000 ka free data instantly activa ho jayega!
+receiver:  8765…yeh sahi hai.  Par mujhe lagta hai yeh thoda suspicious hai.
+caller:  Suspicious? Kyon?  Ye ek legitimate offer hai!  Agar tumko koi problem hai, to tum techsupport@techconnectindia.com par email kar sakte ho.  Jaldi karo, offer expire ho raha hai!
+caller: Namaste! Kaise haal hai? Main DigiLife Solutions se bol raha hoon. Tumne recently jo SMS message mila tha, woh jaankaar tha? Tumhara name DigiLife account par ₹1000 ka cashback waiting hai! Ye offer sirf 1 hour ke liye valid hai, so jaldi karo.
+receiver: Namaste ji, sunay de. DigiLife Solutions se ho aap? Woh SMS message…haan, dekha maine. Fir kya karna hai?
+caller: Simplemente, tumhein ek OTP lena hoga. Is OTP ko apne DigiLife account mein enter karna hai. OTP ko receive karne ke liye, tumhari mobile number validate karni hogi. Ismein tumhara naam aur mobile network bhi jaruri hai. Tumhare DigiLife account mein ₹1000 ka cashback, bas ek OTP hi chahiye!
+receiver: Ji, mera naam Sanjay Kumar hai, aur main Vodafone use karta hoon.
+caller: Achhi, Sanjay! Shukriya. OTP lene ke liye, tumhari mobile number ka last three digits batao. Hum tumhari number validate karenge aur tumhein OTP send karenge.
+receiver: Mera mobile number ka last three digits hai 567. Aapko aur kuchh chahiye?
+caller: Perfect! OTP tumhein abhi aa rahi hai…wait karo. OTP hai 1234. Yeh code ko apne DigiLife account mein enter karo, and tumhara ₹1000 ka cashback instantly activa ho jayega!
+receiver: 1234…yeh sahi hai. Par mujhe lagta hai yeh thoda suspect hai.
+caller: Suspect? Kyon? Ye ek legitimate offer hai! Agar tumko koi problem hai, to tum support@digilife.in par email kar sakte ho. Jaldi karo, offer expire ho raha hai!

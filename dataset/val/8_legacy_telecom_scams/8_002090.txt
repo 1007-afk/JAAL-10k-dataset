@@ -1,0 +1,8 @@
+caller: Hello! Kya aapko pata hai ki aap MobileUpd8 se baat kar rahe hain? Hum aapke liye ek bahut hi zabardast offer lekar aaye hain! Aapko mil sakte hain ek free video camera phone, saath mein half price line rental for 12 mahine, aur 500 cross network mins aur 100 texts! Kya yeh sunne mein exciting nahi lagta?
+receiver: Hello! Haan, main sun raha hoon. Yeh toh sach mein zabardast offer lag raha hai! Free video camera phone, line rental half price... yeh sab kaise milega?
+caller: Haan ji bilkul! Yeh sab aapko milega hamare ek khaas scheme ke through. Agar aap apna current mobile plan upgrade karna chahte hain, toh yeh offer aapke liye perfect hai. Sirf kuch simple steps follow karne honge. Kya aap interested hain yeh details sunne mein?
+receiver: Haan ji, bilkul interested hoon. Bataiye kya karna hoga?
+caller: Great! To get started, we just need to confirm a few details. Can you please tell me your name and your current mobile number? This will help us check your eligibility for the offer.
+receiver: Haan ji, mera naam hai Rohan Sharma, aur mera current mobile number hai 9876543210. Bataiye, eligibility check ho gayi?
+caller: Shukriya Rohan ji! Aapki eligibility check ho gayi hai aur aap is offer ke liye bilkul eligible hain. Abhi humein bas aapke account ka kuch verification karna hoga. Kya aapke paas aapka SIM card abhi available hai?
+receiver: Haan ji, SIM card mere paas hi hai. Bataiye kya verify karna hai?

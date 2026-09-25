@@ -1,0 +1,7 @@
+caller: Namaste, mai Bharat Credit Solutions se Deepak bolta hoon. Aapka loan application approve ho gaya hai, sir. Ab verification ke liye kuch details chahiye.
+receiver: Oh, theek hai! Mujhe yaad nahi ki apply kiya tha ya nahi. Batao kya chahiye?
+caller: Sir, humein aapke bank account ka screenshot chahiye, jismein last transactions dikhe. Aur aapka PAN card bhi. Verification ke liye sirf.
+receiver: PAN card? Loan apply karte samay to submit kar diya tha. Account screenshot mein kya zaroorat hai?
+caller: Sir, system mein kuch technical issue aa gaya hai. Screenshot se hum account active kar sakte hain. Aur ek baat, sir, aapko 10,000 rupees verification fee bharne hogi, sirf ek baar.
+receiver: 10,000? Verification fee? Yeh toh zyada ho gaya. Loan toh chota hi tha.
+caller: Sir, rule hai. Agar aap pay nahi karte, toh application reject ho jayega aur aapka credit score bhi affect hoga. Aur hum aapke contacts ko bhi message bhejenge inform karne ke liye. Time waste nahi karna chahenge.

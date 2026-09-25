@@ -1,0 +1,8 @@
+caller: Namaste sir, ye Bharat Rasayan Fertilizer Company ka manager bol raha hai. Apke crop ke liye fertiliser ki order mein problem hai. Apne order number ko batao, otherwise hum isko cancel kar denge.
+receiver: Oh, okay. Fertilizer order? Mein last month maine order diya tha. Order number kya hai?
+caller: Haan, apka order number hai 7890123456. Is order mein urea aur potash ki quantity wrong hai. Aapko yeh details check karne ki zarurat hai.
+receiver:  Mein dekh leta hoon.  Account number hai 9876543210, aur delivery address hai Delhi mein, Rajpur Road par.  Yeh details bata doon toh koi change hoga?
+caller: Haan, yeh details sahi hain.  Aapko ek OTP aayega aapke registered mobile number pe. Woh OTP please bataiye taaki hum is order ko update kar sakein.
+receiver: OTP? Haan, dekhta hoon...  Phone pe aaya hai... haan, mila. OTP hai 456789.  Bata doon toh ho jayega clear?
+caller: Haan sir, yeh OTP sahi hai. Dhanyavaad aapke sahayakta ke liye. Apka fertilizer order update ho gaya hai.  Aapko bank se kuch lena hai ya nahi?
+receiver: Nahi sir, sirf fertiliser ka order tha. Shukriya!  Have a good day!

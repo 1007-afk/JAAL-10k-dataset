@@ -1,0 +1,8 @@
+caller: Hello Madam/Sir, my name is Rohan from QuickCash Solutions. We’ve noticed you recently applied for a personal loan online. Just a few quick verifications and your loan could be approved within minutes! What’s your name, please?
+receiver: Yes, hello. My name is Anjali. I did apply, but I’m not sure why you’re calling.
+caller: Wonderful, Anjali Ji! Very good. We have several loan options available, even for those with less-than-perfect credit scores. To proceed, could you quickly share the last four digits of your Aadhaar card for security purposes?
+receiver: Wait a minute, Aadhaar details? Isn’t that a bit risky? I thought banks wouldn’t ask for that over the phone.
+caller: Absolutely safe, Anjali Ji. It’s standard procedure. We need to confirm your identity. Once that’s done, we can offer you a loan of up to ₹50,000 at a very competitive interest rate. Think about it—no more worries about immediate expenses! Just those four digits, please.
+receiver: Hmm… okay, fine. It's 4567.
+caller: Thank you, Anjali Ji! That's confirmed. Now, to activate your loan, we require a small processing fee of ₹2,500. This will be deducted as soon as the loan is disbursed. You can pay using UPI.  The UPI ID is QuickCash@hdfcbank. Please make the payment now so we can release your funds immediately.
+receiver: ₹2,500? But you said it was a quick loan with a good interest rate. Why this extra fee?

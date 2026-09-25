@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Akash from BlueStar Logistics. We’re calling regarding a package shipped to you from Flipkart. It seems there’s been an issue with the delivery address – it’s showing as incomplete.
+receiver: Haan, bolie. Flipkart se package? Kya problem hai?
+caller: Sir, the system flagged it. It needs a quick verification. To proceed, we require a one-time password sent to your registered mobile number. This is just to confirm you’re the intended recipient and prevent any misdelivery.
+receiver: OTP? Mere phone pe OTP aayega? Main thoda confused hoon. Flipkart toh direct hi call karta hai na?
+caller: Yes sir, OTP will be sent. It’s a standard security protocol. It’s for your safety, sir. We're just following protocol. After that, there’s a small outstanding delivery fee of ₹350 due to the address issue. Can you please share the OTP when you receive it?
+receiver: ₹350? Flipkart se toh free delivery hoti hai! Yeh kuch gadbad lag rahi hai. Main police mein report kar dunga.
+caller: Sir, please don’t be alarmed. This is a standard procedure.  This is for ensuring the secure delivery of your package. If you don’t cooperate, the package will be returned to the sender. I understand your concern, but this is to protect your package.

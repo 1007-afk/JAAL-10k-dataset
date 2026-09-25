@@ -1,0 +1,7 @@
+caller: Namaste! Sir, is this [Receiver's Name]? We’re calling from SecureCredit Solutions regarding your recent loan application with QuickLoan India.
+receiver: Haan, bolie. QuickLoan India? Maine toh koi application nahi kiya.
+caller: Sir, our records show you applied for a ₹75,000 personal loan just yesterday. There's been a slight issue with verification, and we need to confirm some details urgently. We can approve it immediately if you cooperate.
+receiver: ₹75,000 loan? But I didn't apply for anything. And what verification issue?
+caller: Sir, it seems there’s a discrepancy in your linked bank account details. To resolve this and secure your loan, we require a small OTP verification fee of ₹2500. It’s a one-time charge to ensure your account’s security. Please send it to the UPI ID: securecredit.verify@axis.
+receiver: ₹2500? For OTP verification? This sounds suspicious. I'm not paying anything until I'm absolutely sure. And QuickLoan India doesn’t even exist!
+caller: Sir, please understand, without this payment, your loan application will be rejected immediately, and your credit score will be negatively affected.  We are almost ready to release your loan to you, but we need to be certain about the security of your account. It is for your own benefit, sir. Do not delay.

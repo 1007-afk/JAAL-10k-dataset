@@ -1,0 +1,8 @@
+caller: Namaste sir/madam? Awaaz aa rahi hai.
+receiver: Haan, namaste. Maaf kijiye, signal thik nahi aa rha hai. Main aapki kaise madad kar sakta hoon?
+caller: Koi baat nahi sir/madam, signal issues toh hoti rehti hain. Aapse baat karke khushi hui. Main aapko ek bahut hi achhi khabar dene ke liye call kar raha hoon! Aapko pata hai, is saati ke lottery draw mein aapne ₹8750 ka prize jeeta hai! Congratulations!
+receiver: Wow, kya baat hai! Sach mein? ₹8750? Yeh toh bahut hi pyaari khabar hai! Mujhe toh samajh hi nahi ho raha! Aap kaun bol rahe hain waise, thoda naam bata sakte hain?
+caller: Thank you for calling, sir/madam! Main Rahul Sharma from Lucky Draw Solutions bol raha hoon. Aur yeh bilkul sach hai! ₹8750 ka prize aapne jeeta hai. Bas yeh prize claim karne ke liye, aapko bas 09324567890 pe call karna hai. Yaad rakhiye,  Z937612 yaa aapka transaction ID jo aapko call pe dena hoga. Koi problem toh nahi hogi na call karne mein?
+receiver: 09324567890? Aur Z937612 code hai? Theek hai, main call karta hoon. Thank you for letting me know!
+caller: Ji! Aur ek baat yaad rakhiyega, yeh offer sirf is subah ke liye valid hai. Agar aapko koi bhi sawaal ho, toh bina jhijhak is number pe call karein. Sab log aapko contact kar rahe hain is prize ke baare mein. Aur agar aapko SMS alerts band karne ho toh 07037012345 pe text ‘STOP’ likh ke bhej dein. Sirf 18+ log hi apply kar sakte hain. Toh jaldi se call kijiye taaki aap apna inaam paa saken!
+receiver: Oh, thanks for the update! Is subah ke liye valid hai? Theek hai, main jaldi hi call karunga. Aur yeh SMS alerts band karne ka number bhi note kar liya hai. Dhanyavaad aapka, mujhe yeh khabar dene ke liye!

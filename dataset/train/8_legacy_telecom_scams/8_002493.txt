@@ -1,0 +1,11 @@
+caller: Namaste ji, is this Ms. Devi? This is TechSolutions about your CloudSafe Pro upgrade.
+receiver: Ji ji, bolo. Kaise hain aap?
+caller: Namaste ji, Ms. Devi, we’re contacting you regarding the automatic upgrade to CloudSafe Pro. Your account shows a payment of ₹199 for the initial setup fee. We just want to verify that you were expecting this update and would like to proceed with activating it. It offers enhanced security and data backup capabilities.
+receiver: CloudSafe Pro? Haan, mujhe pata tha ki wo upgrade aane wala tha. ₹199? Main samajh nahi raha ki woh charge ho gaya hai.
+caller: Haan ji, Ms. Devi, technically, it was processed automatically when your device detected the need for the latest security protocols. The ₹199 covers the installation and activation services. If you don't wish to activate it now, we can certainly put a hold on the process. But many users find the added protection very valuable.
+receiver: Put a hold on? Kaise? Kya koi way hai ye dekhne ke liye ki actually upgrade hua hai ya nahi?
+caller: Haan ji, Ms. Devi. Let me quickly check your account details. Just give me one moment… Okay, yes, the upgrade has been initiated. You’ll receive a confirmation email shortly. To fully activate it, you'll need to provide your card details again. Is that alright?
+receiver: Card details? Again? Mujhe abhi koi interest nahi hai. Lekin, agar aap cancel kar sakte hain toh, cancel kar do.
+caller: Absolutely, Ms. Devi.  We understand.  Let’s cancel the CloudSafe Pro upgrade immediately. Please confirm that you want to terminate the service. And also, as a gesture of goodwill, we’d like to offer you a complimentary digital storage pack – 5 GB extra space. Would you accept that?
+receiver: 5 GB? Thode din ke liye toh achcha hai. Ok, cancel karein. Par mujhe batayein, cancellation k baad mujhe koi reminder milega kya?
+caller: Yes, absolutely, Ms. Devi. You will receive a confirmation email within the next hour outlining all the details of the cancellation. And don't worry, you won’t receive any further notifications about CloudSafe Pro. Is there anything else I can assist you with today?

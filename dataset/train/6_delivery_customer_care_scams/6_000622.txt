@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? This is Ankit calling from Bluebird Courier. We have a package for you, but there’s a slight issue with the customs clearance.
+receiver: Bluebird Courier? I wasn’t expecting anything. What's the issue?
+caller: Yes sir. The declared value on the package doesn’t match the invoice. To release it, we need you to pay a small fee of ₹750 for verification. It's a standard procedure.
+receiver: ₹750? That seems a bit much. Can’t I just collect it from your office?
+caller: Unfortunately, sir, due to COVID protocols, we’re not allowing direct pickups. We can process this quickly online. Can you share the last four digits of your bank account so I can generate a secure payment link?
+receiver: Hold on a minute. Which invoice are you talking about? And what’s the tracking number for this package? I want to verify this first.
+caller: Sir, the invoice is attached to the shipment details. The tracking number is BB78923456. Just a quick confirmation, can you please provide the last four digits of your bank account for a swift resolution? We don’t want your package to be returned.

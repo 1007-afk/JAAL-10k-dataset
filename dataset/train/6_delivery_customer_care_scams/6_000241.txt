@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main Sanjay TechSolutions se baat kar raha hoon. Mujhe batana hai ki aapke paas ek amazing opportunity hai! Agar aap "XYZ" message karein toh aapko ek free Power Bank milti hai. Yeh bahut easy hai, samajh mein aa rahi hai?
+receiver: Namaste Sanjay, sahi sun rhi hoon. TechSolutions se ho? Power Bank jeetna hai? Bahut acha lagaa! “XYZ” likhun toh kya hoga?
+caller: Haan, absolutely! Agar aap “XYZ” message karein toh aapko automatically competition mein enter kar denge. Hamare paas sirf 5 power banks bache hain, so jaldi reply karein!
+receiver: Arre, sirf 5 hain? Okay Sanjay, main “XYZ” message kar deta hoon. Dekhte hain kya hota hai. Dhanyavaad!
+caller: Great! Dhanyavad! Aapka “XYZ” message received ho gaya hai. Ab aapko official competition mein place ho gaya hai. Mein kehna chahta hoon ke sirf 4 power banks bache hain, so soon announcement hoga. Good luck!
+receiver: Theek hai Sanjay, dhanyavaad ke bataye. Dua karna main lucky hujaun! Jeet gaya toh update dunga.
+caller: Absolutely! Aapki koshish hamare liye bahut zaroori hai. Agar aap is offer ko seriously le rahe hain, toh please bataiye ki aapko koi additional details chahiye ya hum is matter mein aage badh sakte hain?
+receiver: Nahin Sanjay, mujhe koi additionel details nahin chahiye. Sab theek hai. Aap aage badhe.

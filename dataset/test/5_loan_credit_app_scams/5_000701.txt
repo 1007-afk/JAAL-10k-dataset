@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Ajay hai, aur main LoanConnect se baat kar raha hoon. Aapko ghar ke liye paisa chahiye tha, hai na?
+receiver: LoanConnect? Haan, main dekh rahi thi ek loan ke baare mein, lekin main abhi apply karne ke liye taiyar nahin thi.
+caller: Bahut achha! LoanConnect mein ek special offer hai sirf limited customers ke liye. Aapko sirf ₹80,000 ka loan mil sakta hai, bahut hi achhe interest rate mein. Abhi aapki credit report dekhne ke liye kuch details share karein?
+receiver: ₹80,000? Interest rate kitna hoga? Aur mujhe yeh bhi nahi pata ki main qualify bhi hoongi ya nahin.
+caller: Worri nahi, madam! Hum aapka credit score check kar lenge. Bas apna pan card number aur bank account number share karein. ₹100 ka verification charge lag jayega, but after that hum aapko approve kar denge. Yeh offer bahut limited time ke liye hai!
+receiver: ₹100 verification charge? Yeh zyada lag raha hai. Aur mujhe pan card number phone pe share karna comfortable nahin lag raha.
+caller: Madam, security ke liye compulsory hai. Aur agar aap apply nahi karte toh aapko bahut zyada regret hoga! Hamara offer market mein best hai. ₹100 ka bahut kuch hoga. Aakhir aapko kitna paisa chahiye tha?
+receiver: I think I’ll pass. This whole thing smells fishy, and I don’t want to risk my information. I'm ending this conversation now.
+caller: Madam, aapko pata bhi nahi kya kho rahe ho! ₹100 mein ₹80,000 ka loan? It’s a steal! Just one moment... I'm sending you a link to our website with all the

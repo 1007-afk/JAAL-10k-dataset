@@ -1,0 +1,9 @@
+caller: Namaste! This is Akash from QuickLoanIndia. We’re offering instant personal loans, no credit check needed. Aapka naam kya hai, sir?
+receiver: Ji, mera naam Rajesh Verma hai. Main accountant hoon.
+caller: Excellent, Rajesh Verma ji! We can definitely help you. Are you looking for a loan for business, education, or perhaps a medical emergency?
+receiver: Actually, my daughter needs an urgent operation. The hospital is asking for 2 lakhs.
+caller: A serious matter, Rajesh ji. We understand. We’ll approve a loan of 2.5 lakhs for you immediately. Just a few formalities. We need to verify your identity. Please send us a clear photo of your Aadhar card and PAN card via WhatsApp to 9876543210.
+receiver: WhatsApp? Why not over the phone? And how much interest will I be paying?
+caller: Rajesh ji, it’s for security reasons. We need to digitally encrypt your documents. The interest rate is just 10% per annum, very competitive. Once we receive your documents, the money will be transferred to your account within an hour. Do not delay, Rajesh ji. Time is critical for your daughter.
+receiver: Okay, I’ll send the documents. But I am worried.
+caller: Rajesh ji, don't worry. QuickLoanIndia is completely secure. We are RBI approved. After the loan, you have to pay 2.8 lakhs back within 3 months. This is the only way to avoid legal consequences.

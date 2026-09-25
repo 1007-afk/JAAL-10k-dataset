@@ -1,0 +1,6 @@
+caller: Namaste, mein Bajaj Finance se Rohit bol raha hoon. Aapke naam par ek cashback offer chal raha hai – ₹5000 ka cashback UPI transaction karne par.
+receiver: ₹5000? Seriously? Kya condition hai? Mujhe abhi kuch transaction karna hai?
+caller: Haan ji, aapko sirf ₹100 ka processing fee bhar denaa hai. Yeh fee sirf ek baar lagegi, cashback process karne ke liye.
+receiver: ₹100? Kaise bharoon? Kya koi link hai ya kuch app download karna hai? Mujhe thoda suspicion aa raha hai.
+caller: Aapko ek UPI ID dena hai – [invented UPI ID, e.g., paytm@bajafinance.com]. ₹100 us UPI ID par send kar den, cashback instantly aapke account mein credit ho jayega.
+receiver: Paytm@bajafinance.com? Yeh UPI ID official hai kya? Mujhe confirm chahiye. Bajaj Finance ka official number hai toh doonga.

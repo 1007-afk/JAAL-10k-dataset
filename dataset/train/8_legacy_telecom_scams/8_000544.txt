@@ -1,0 +1,8 @@
+caller: Namaste sir/madam? Awaaz aa rahi hai.
+receiver: Haan,Haan, sun Raha hu. Maaf kijiye, phone mei thoda problem tha. Aap kaise hain?
+caller: Koi baat nahi, aapki kaise? Main aapko ek bahut hi achchi khabar dena chahta hu! Aapne recently [Local Lottery Name, e.g., Bharat Lucky Draw] mein participation kiya tha aur abhi aapne ₹87,500 ka prize jeeta hai! Congratulations!
+receiver: Seriously? ₹87,500! Wah, yeh to bahut badi khabar hai! Mujhe samajh hi nahin aa raha. Kaise? Aap kaun hain?
+caller: Thank you for calling, sir/madam! Main [Your Scam Name, e.g., Rajesh Kumar] from [Scam Company Name, e.g., National Rewards Centre] bol raha hu. Aur yeh bilkul sach hai! ₹87,500 ka prize aapne jeeta hai. Bas yeh prize claim karne ke liye, aapko bas 07000000123 pe call karna hai. Yaad rakhiye, QW9876543 ye aapka unique identifier code hai jo aapko call pe dena hoga. Koi problem toh nahi hogi na call karne mein?
+receiver: 07000000123? Aur QW9876543 code hai? Theek hai, main call karta hu. Dhanyavaad!
+caller: Ji! Aur ek baat yaad rakhna, yeh offer sirf kal raat tak valid hai. Agar aapko koi bhi sawal ho, toh bina dhyan detaani nahi, is number pe call karein. Sab log aapko contact kar rahe hain is prize ke baare mein. Aur agar aapko SMS alerts band karne ho toh 88001122333 pe message ‘STOP’ likh ke bhejo. Sirf 18+ logon ke liye hi yeh offer chalega. Jaldi se call kijiye taaki aap apna inaam pa sake!
+receiver: Okay, thank you for telling me! Kal raat tak valid hai? Theek hai, main jaldi call karunga. Aur yeh SMS stop number bhi save kar li hai. Shukriya!

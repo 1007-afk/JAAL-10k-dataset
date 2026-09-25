@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? I’m calling from MobiKwik customer care. We’ve detected some unusual activity on your MobiKwik account.
+receiver: Haan, main Priya Verma hi hoon. Kya hua?
+caller: Madam, it appears someone attempted to transfer a large sum of money from your wallet to a different UPI ID. Our system flagged it as potentially fraudulent. To secure your funds, we need to verify a few details immediately.
+receiver: Yeh kya baat kar rahe ho? Mainne koi transfer nahi kiya. Mera MobiKwik account safe hai.
+caller: We understand, Madam. But to be absolutely sure, could you please share the last four digits of your bank account linked to MobiKwik for verification purposes? It’s a standard security procedure. Also, a small cashback of ₹500 is available for you right now as a promotional offer, but you need to claim it within the next 10 minutes.
+receiver: Bank account number? ₹500 cashback? Ye toh shabash hai! Itna zyada cashback ka matlab hai kuch gadbad hai. Mai abhi koi bhi details nahi dungi.
+caller: Madam, please don’t worry. This is to protect your money. Just tell me the last four digits, and I’ll guide you on how to claim your cashback.  We can also send you an OTP to verify. Which would you prefer?
+receiver: OTP? Nahin! OTP toh kabhi nahi dete. Ye sab ek scam hai. Main police mein complaint karungi.

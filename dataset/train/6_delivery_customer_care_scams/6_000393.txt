@@ -1,0 +1,9 @@
+caller: Namaste, main XYZ Courier se Sunil bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: XYZ Courier? Kya address mein problem hai? Mujhe to koi parcel yaad nahi.
+caller: Haan ji, parcel mein written address thoda different hai. Isliye confirm karna hai. Parcel number hai 7894561230. ₹500 ka re-delivery charge apply hoga agar address confirm nahi karenge.
+receiver: ₹500? Re-delivery charge? Par mujhe to koi order nahi yaad hai. Kaise parcel aaya?
+caller: Sir, parcel Amazon se aaya hai. Shayed aapne sometime order kiya tha aur bhool gaye. Confirm karne ke liye, ek OTP SMS karenge, woh OTP mujhe bataiye taaki hum verify kar sake.
+receiver: Ek minute, mujhe check karne do. Par Amazon se parcel hai? Mujhe doubt ho raha hai.
+caller: Haan ji, check karein. OTP se confirm hone ke baad, parcel aapke address pe dispatch kar denge. Jaldi kijiye, otherwise parcel return ho sakta hai.
+receiver: Theek hai, SMS karo OTP. Main check karta hoon.
+caller: Theek hai, sir. SMS kiya gaya hai. OTP bataiye taaki parcel dispatch ho sake.

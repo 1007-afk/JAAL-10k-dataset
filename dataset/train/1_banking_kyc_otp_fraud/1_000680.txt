@@ -1,0 +1,16 @@
+caller: Namaste ji, main Sanjay Kumar hoon. Aapke Kisan Vikas Patra (KVP) account mein kuch important information hai jo apko jaanana zaruri hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main KVP helpline se bol raha hoon. Aapki KVP account mein ek small adjustment ki gayi hai, isliye humne aapko call kiya hai.
+receiver: Haanji, Sanjay Kumar ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Actually, our records show that there was a minor error during the processing of your recent renewal application. We need to quickly verify some details to rectify this. Can you confirm the date of birth associated with your KVP account?
+receiver: Acha? Minor error? Renewal application?  Main toh KVP mein new hoon, mujhe yeh sab samajh nahi aata. Dekhiye, mera DOB… woh toh abhi memory mein nahi hai. Kya aap thoda wait kar sakte hain? Main check kar leta hoon?
+caller: problem, sir. Aisa karte hain. Main aapko ek special website par jaakar verification karwa lenge.  Us website ki address hai:  kisanvikalp.in.  Aapko sirf account number aur DOB enter karna hoga. Iska koi risk nahi hai. Aapko kya lagta hai?
+receiver: Kisanvikalp.in? Wo website dekho, wo toh abhi logon ke liye open nahi hai. Aur bank kabhi bhi aisa website nanga nahi chlati. Yeh toh lag raha hai koi fraud hai. Aapko koi website nahi banana chahiye aur na hi mujhe koi details enter karne ki permission dena chahiye. Aap kaise pata karein ki aap mujhse baat kar rahe hain? Mujhe lagta hai main ye call cut kar raha hoon.
+caller: Namaste ji, main Sanjay Kumar hoon. Aapke Kisan Vikas Patra (KVP) account mein kuch important information hai jo apko jaanana zaruri hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main KVP helpline se bol raha hoon. Aapki KVP account mein ek small adjustment ki gayi hai, isliye humne aapko call kiya hai.
+receiver: Haanji, Sanjay Kumar ji. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Actually, our records show that there was a minor error during the processing of your recent renewal application. We need to quickly verify some details to rectify this. Can you confirm the date of birth associated with your KVP account?
+receiver: Acha? Minor error? Renewal application?  Main toh KVP mein new hoon, mujhe yeh sab samajh nahi aata. Dekhiye, mera DOB… woh toh abhi memory mein nahi hai. Kya aap thoda wait kar sakte hain? Main check kar leta hoon?
+caller: problem, sir. Aisa karte hain. Main aapko ek special website par jaakar verification karwa lenge.  Us website ki address hai:  kisanvikalp.in.  Aapko sirf account number aur DOB enter karna hoga. Iska koi risk nahi hai. Aapko kya lagta hai?
+receiver: Kisanvikalp.in? Wo website dekho, wo toh abhi logon ke liye open nahi hai. Aur bank kabhi bhi aisa website nanga nahi chlati. Yeh toh lag raha hai koi fraud hai. Aapko koi website nahi banana chahiye aur na hi mujhe koi details enter karne ki permission dena chahiye. Aap kaise pata karein ki aap mujhse baat kar rahe hain? Mujhe lagta hai main ye call cut kar raha hoon.

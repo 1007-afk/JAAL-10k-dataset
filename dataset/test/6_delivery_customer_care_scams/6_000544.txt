@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart se Rohit bolta hu. Aapke naam par ek parcel aaya hai, lekin address verification mein thodi problem aa rahi hai.
+receiver: Oh, really? Flipkart se? Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Ji, delivery agent ne kaha ki pin code galat hai. Aapka pin code sahi bataiye, please. Aur OTP bhi, verification ke liye. Main Paytm pe parcel track kar sakta hu, aapka OTP bataiye.
+receiver: Wait a minute. Flipkart kabhi OTP maangta hai? Main Flipkart app pe check karta hu. Ek second.
+caller: Haan ji, security ke liye zaroori hai. Parcel mein aapke liye ek special gift hai, Diwali offer mein. Jald se jald bataiye OTP, warna parcel wapas store mein chala jayega.
+receiver: Okay, let me check something... Koi bhi gift nahi order kiya tha. Aur Flipkart app pe bhi kuch dikha nahi raha hai. Toh ye toh scam lag raha hai.
+caller: Sir, maaf kijiye, main aapko confuse kar raha hu. Main genuinely try kar raha hu aapki help karne ke liye.

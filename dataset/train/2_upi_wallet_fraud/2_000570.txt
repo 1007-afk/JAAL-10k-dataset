@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, PhonePe se. Aapko ek cashback offer mila hai ₹500 ka, aapka PhonePe wallet upgrade karne par.
+receiver: PhonePe? Cashback offer? Mujhe koi message nahi mila.
+caller: Haan ji, system mein dikh raha hai. Aapko apna wallet upgrade karna hai, bas ek OTP dalna hai, aur ₹500 cashback aapke wallet mein add ho jayega.
+receiver: OTP? Kaise upgrade karna hai? Koi link bhejo mujhe.
+caller: Link nahi bhejenge, sir. OTP aapko SMS se milega. Woh OTP daal dijiye, phir confirm kar dijiye, cashback automatic ho jayega. PhonePe ka security system hai na. Jaldi karo, sir, offer limited time ke liye hai.
+receiver: Wait, PhonePe app mein to kuch bhi upgrade karne ko nahi dikh raha. Aur OTP bhi SMS mein nahi aaya.
+caller: Haan ji, technical fault ho sakta hai. Aapko ek baar PhonePe support team se baat karni padegi. Main hi unke number se call kar deta hu, aap wait karein.

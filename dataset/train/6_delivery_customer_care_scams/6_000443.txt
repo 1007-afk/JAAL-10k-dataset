@@ -1,0 +1,8 @@
+caller: Namaste! Main Atul Sharma bol raha hoon, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address verify hone mein thodi dikkat ho rahi hai.
+receiver: Haan, sahi bol rahe hain aap. Mujhe bhi message aaya tha. Kya dikkat hai?
+caller: Sir, parcel mein kuch documents hain jo verify hone ke liye OTP ki zaroorat kar rahe hain. Agar OTP verify nahi hua toh parcel wapas bhejna padega. Just ek OTP send karein, bas.
+receiver: OTP? Maine suna hai scammer bhi OTP maangte hain. Blue Dart aise karta hai kya? Aur parcel mein kya hai?
+caller: Sir, security ke liye hum OTP verify karte hain. Parcel mein ek new mobile phone ka charger hai, aapne online order kiya tha na? OTP send karein, 1 minute ka kaam hai. Number send karein, main verify kar dunga.
+receiver: Charger? Mujhe toh koi charger order nahi kiya tha. Aur agar OTP send kiya toh...
+caller: Sir, please hurry. Abhi system se disconnect ho jayega. OTP send karo toh parcel aapke address pe chal jayega. Agar nahi, toh parcel wapas bhejna padega. Aapko loss hoga. Jaldi karo!
+receiver: Wait a minute, let me check my order history.

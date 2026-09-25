@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs Department se Rohit Verma bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal items mile hain.
+receiver: Illegal items? Mere naam par? Main toh kabhi parcel order nahi kiya. Kya?
+caller: Ji, parcel Delhi se aaya hai, aur usmein suspicious items hain. Case number IC-2024-78923 hai. Aapko court mein present hona hoga, ya fine bhar kar baat samadhein.
+receiver: Court? Fine? Yeh kitna fine hai? Aur parcel ka address kya hai? Main toh kuch bhi order nahi kiya hai, sir.
+caller: Ji, fine ₹12,500 hai. Address disclose karna against protocol hai, but hum aapko payment link send kar sakte hain. Aapko ghar pe ek notice bhi milega. Jaldi karo, warna legal action hoga.
+receiver: ₹12,500? Koi notice toh abhi tak nahi aaya hai. Aap mujhe koi OTP ya verification code send kar sakte hain? Main verify karna chahta hoon ki aap genuinely customs department se hain.
+caller: Verification code send karna security breach hoga, madam. Aapko trust karna padega. Payment link pe click karein aur fine clear karein, tabhi parcel aapke paas aayega aur case band ho jayega.
+receiver: Payment link? Main report karungi, yeh scam lag raha hai.

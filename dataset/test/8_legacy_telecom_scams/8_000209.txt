@@ -1,0 +1,8 @@
+caller: scammer : Hello ji, can you hear me well?\nreceiver : Ji, sunai de raha hai. Kaun bol rahe hain?
+receiver: Ji, sunai de raha hai. Kaun bol rahe hain? Aur ye kesi number se call kar rahe hain aap?
+caller: scammer : Ji, main Sharma ji, Lottery department se bol raha hoon. Aapne hamare lucky draw mein participate kiya tha, yaad hai?\nreceiver : Lottery department? Kaisa draw? Mujhe toh kuch yaad nahi aa raha.
+receiver: Lottery department? Aapka naam kya hai aur aap kaunse department mein hain? Kuch samajh nahi aa raha.
+caller: scammer : Haanji, aapne hamare lucky draw mein register kiya tha, yaad hai? Agar aap correct answer denge toh aapko £100 ka gift voucher milega. Bahut aasan sawal hai. BBC charts mein number one pe kaun hai aaj kal?
+receiver: Aapne register kiya tha? Mujhe toh koi message ya call nahi aaya tha iske baare mein. Aur BBC charts? Yeh kaunsa lottery hai bhai? Mujhse toh kuch sambandh hi nahi lag raha.
+caller: scammer : Ji, yeh ek special offer hai hamare registered opt-in subscribers ke liye. Aapne pehle hamare service ko subscribe kiya tha, toh aap is prize ke liye eligible hain. Sirf ek sawal ka jawab dena hai, BBC charts mein number one pe kaun hai? Agar sahi jawab diya toh aapko milega ek £100 ka gift voucher!
+receiver: Arey bhai, BBC charts? Ye koi lottery ka sawal hua bhala? Mujhe toh pata bhi nahi kon hai aajkal number one pe. Koi aur sawal puch lo, ya phir ye batao ki ye lottery hai kya cheez? Lagta nahi hai mujhe ki maine kabhi subscribe kiya ho.

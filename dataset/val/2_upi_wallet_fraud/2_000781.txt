@@ -1,0 +1,9 @@
+caller: Hello, mai Bharat Aadhaar Seva se bol raha hoon. Aapke Aadhaar card se ek new UPI transaction hua hai, aur security ke liye verify karna zaroori hai.
+receiver: Hello? Aadhaar card? Transaction? Mujhe toh koi message nahi aaya. Kis number se transaction hua?
+caller: Ji, ek OTP bheja gaya tha, lekin system mein error a gaya hai. Verify karne ke liye, aapko ek small processing fee bharne hogi - sirf ₹50. Paytm se kar sakte hain.
+receiver: ₹50 fee? Aadhaar card ke liye? Mujhe toh lagta hai yeh kuch ghalat hai. Main toh kabhi bhi OTP share nahi karta.
+caller: Madam, yeh bilkul secure hai. Agar aap fee nahi bharte, toh aapka Aadhaar card block ho sakta hai aur government se related benefits bhi milna band ho jayenge. Hurry up!
+receiver: Block ho jayega? Toh mein kya karoon? Mujhe aur details do. Woh transaction ID batao, ya koi aur proof.
+caller: Madam, proof main instant nahi de sakta. Process aage badhate rahe. Paytm number hai yeh: 9876543210. Fast do, time kam hai.
+receiver: Theek hai.
+caller: Bahut achha! Fee bharne ke baad mujhe batao, aur phir mai aapko confirm karunga.

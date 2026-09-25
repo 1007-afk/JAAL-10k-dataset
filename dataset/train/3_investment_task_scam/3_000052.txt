@@ -1,0 +1,22 @@
+caller: Namaste! Kaise haal hai? Main TechConnect India se bol raha hu. Aapne recently jo online course ki advertisement dekhi hogi, woh abhinandan karti hain! Hum ne aapko free trial milana chahate hain, sirf aapke liye!  Yeh offer sirf 2 ghante ke liye chalega, so hurry up!  Aapne advertisement ko dekha hai?
+receiver: Haan ji, dekha hai. Course ka naam kya tha?
+caller: "Digital Skills Mastery" tha, sahi?  Bas humein aapki registration details jald se jald update karne ki zarurat hai.  Agar aapko account banane mein mushkil ho rahi hai, to main madad kar sakta hun.  Main sirf aapko kuch simple questions puchunga, isliye tension mat lo.  Aapka email ID bataa sakte hain?
+receiver: Mera email id hai rajesh.kumar@gmail.com.
+caller: Thoda wait karein, main system mein check kar raha hu.  Okay, Rajesh, sab theek hai.  Ab aapko ek OTP (One Time Password) bhejna hoga.  Yeh OTP aapko SMS se milega.  OTP kaise daaloge?
+receiver: OTP mujhe nahi mila.
+caller:  Aapko phir se OTP bhejna hoga.  Shayad network mei problem hai.  Aap apne mobile network provider ko check kar lijiye.  Aur agar phir bhi OTP nahi mila, to main aapko manual process se register kar sakta hun.  Parantu, ismein aapko kuch extra documents ki jaruriyat hongi.  Aap chahte hain ki main aapko manual process se register karun?
+receiver: Haan, please.
+caller: Okay, Rajesh, then we will need your bank account details for verification. Just the last four digits of your account and your IFSC code.  Don’t worry, this information is kept completely confidential.  It’s just a standard procedure to ensure the smooth delivery of your free trial.
+receiver: Bank account ki last four digits aur IFSC code?  Mujhe yeh details batane mein thoda hesitation hai.
+caller:  Koi hesitation mat karo, Rajesh! Ye sirf aapki subscription validate karne ke liye hai.  Humare company mein yeh practice bahut common hai.  Aapko sirf yeh details chahiye hain, koi personal information nahi chahiye.  Aapko assure karta hu, aapki security hogi.  Iske baad aapko course access mil jaayega.
+caller: Namaste! Kaise haal hai? Main TechConnect India se bol raha hu. Aapne recently jo online course ki advertisement dekhi hogi, woh abhinandan karti hain! Hum ne aapko free trial milana chahate hain, sirf aapke liye!  Yeh offer sirf 2 ghante ke liye chalega, so hurry up!  Aapne advertisement ko dekha hai?
+receiver: Haan ji, dekha hai. Course ka naam kya tha?
+caller: "Digital Skills Mastery" tha, sahi?  Bas humein aapki registration details jald se jald update karne ki zarurat hai.  Agar aapko account banane mein mushkil ho rahi hai, to main madad kar sakta hun.  Main sirf aapko kuch simple questions puchunga, isliye tension mat lo.  Aapka email ID bataa sakte hain?
+receiver: Mera email id hai rajesh.kumar@gmail.com.
+caller: Thoda wait karein, main system mein check kar raha hu.  Okay, Rajesh, sab theek hai.  Ab aapko ek OTP (One Time Password) bhejna hoga.  Yeh OTP aapko SMS se milega.  OTP kaise daaloge?
+receiver: OTP mujhe nahi mila.
+caller:  Aapko phir se OTP bhejna hoga.  Shayad network mei problem hai.  Aap apne mobile network provider ko check kar lijiye.  Aur agar phir bhi OTP nahi mila, to main aapko manual process se register kar sakta hun.  Parantu, ismein aapko kuch extra documents ki jaruriyat hongi.  Aap chahte hain ki main aapko manual process se register karun?
+receiver: Haan, please.
+caller: Okay, Rajesh, then we will need your bank account details for verification. Just the last four digits of your account and your IFSC code.  Don’t worry, this information is kept completely confidential.  It’s just a standard procedure to ensure the smooth delivery of your free trial.
+receiver: Bank account ki last four digits aur IFSC code?  Mujhe yeh details batane mein thoda hesitation hai.
+caller:  Koi hesitation mat karo, Rajesh! Ye sirf aapki subscription validate karne ke liye hai

@@ -1,0 +1,10 @@
+caller: Namaste! Is this Raj Sharma? We’ve noticed some unusual activity on your Paytm wallet.
+receiver: Haan, Raj Sharma bolta hoon. Unusual activity? Kya hua?
+caller: Sir, it seems someone tried to transfer ₹12,500 from your wallet to a new account. We’ve temporarily frozen it to protect your funds.
+receiver: ₹12,500? Woh kaun transfer kar raha tha? Main toh koi transaction nahi kiya.
+caller: Yes sir, exactly! That's why we’re calling. To reactivate your wallet and ensure your money is safe, you need to verify a few details by calling us on 9876543210. It’s a one-time verification only, sir. Just 5 minutes.
+receiver: 9876543210? Sir, mujhe toh Paytm customer care number pata hai. Tumhara number toh naya hai. Main Paytm app se hi check karta hoon.
+caller: Sir, this is a priority line, directly connected to the fraud prevention team.  The regular helpline is very busy. To avoid any further delay and potential loss of your funds, please call immediately. We can also send you a secure link to a verification form, but it’s much faster by phone.
+receiver: Secure link? Aisa kuch bhi nahi ata. Tumhare phone pe baat karna bhi risk hai. Main Paytm helpline number se contact karta hoon.
+caller: Sir, please don’t wait. This is a critical security measure.  The unauthorized transaction is still pending and could be processed at any moment. Call 9876543210 now, or you risk losing those funds permanently.
+receiver: Okay, wait, let me check my Paytm app first.

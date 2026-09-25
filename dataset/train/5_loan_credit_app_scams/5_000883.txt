@@ -1,0 +1,7 @@
+caller: Hello! Main Rohan bol raha hoon, QuickCash Solutions se. Aapko urgent loan ki requirement hai kya? Hum ₹10,000 se ₹5 Lakh tak ka loan instant approve karte hain, sirf aadhaar aur PAN card se.
+receiver: Ji haan, bilkul. Mujhe ek bike lene ke liye loan chahiye tha.
+caller: Bahut accha! Kitni amount chahiye aapko? Aur aapka occupation kya hai, sir?
+receiver: Lagbhag ₹60,000 tak ka chahiye tha. Main ek shopkeeper hoon.
+caller: Shopkeeper? Excellent! Hum aapko bilkul approve kar denge. Lekin, processing fee ke charges lageygi, ₹7,000. Apni UPI ID de dijiye, sir. Fast processing ke liye.
+receiver: ₹7,000? Itna zyada charge hai?
+caller: Haan ji, lekin isse aapka loan jaldi process ho jaayega. Aur jab aap loan return kar denge, toh hum aapko interest ke saath refund kar denge. Trust us, sir! Jaldi karein! Abhi payment kardo, warna offer expire ho jayega.

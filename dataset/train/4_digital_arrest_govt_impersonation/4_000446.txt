@@ -1,0 +1,9 @@
+caller: Namaste, Main Indian Customs Department se Rajesh bol raha hoon. Aapke naam par ek parcel aaya hai, jisme illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Mujhe toh koi parcel pasand nahi aaya tha. Kya hai woh?
+caller: Ji, parcel mein suspicious chemicals mile hain, jisse drug trafficking ka suspicion hai. Aapko is matter mein investigate karna hoga aur fine bhar payega.
+receiver: Fine? Kitna fine? Aur investigate kaun karega? Main toh koi drugs nahi jaanta. Aapko kaise pata ki parcel mere naam par aaya tha?
+caller: Fine ₹25,000 hai. Aapko court mein bhi appear karna padega. Parcel tracking number hai XYZ123456. Aapko payment karne ke liye bank details aapse lenge taaki process start kar sake. Aapka bank account number bataiye.
+receiver: ₹25,000? Court mein appear karna? Yeh zyada realistic nahi lag raha. Mujhe tracking number verify karne do. Dekhiye, maine customs website par check kiya toh koi record nahi mila. Aur bank details phone par dena risky hai. Main police station mein report karunga.
+caller: Madam/Sir, aapko jald se jald payment karna hoga warna arrest warrant nikal jayega. Yeh legal process hai aur delay nahi ki jayegi. Aapko ₹25,000 humare given account mein transfer karein. Account number is 1234567890.
+receiver: Arrest warrant? Yeh toh bohot serious charge hai. Main abhi police se baat karta hoon aur fir decide karunga. Main aapko koi bhi payment nahi karunga jab tak mujhe confirmation nahi mil jaati.
+caller: Sir/Madam, time bahut kam hai. Apne family ki safety ke liye jaldi se payment karein. Police aap

@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Account safe rakhne ke liye, humein KYC update karna hoga.
+receiver: KYC update? Lekin maine toh kuch bhi galat nahi kiya.
+caller: Sir, security system update ho rahi hai. Hamko aapka PAN card number aur ek OTP chahiye hoga. OTP hum aapke registered mobile number par bhejenge.
+receiver: PAN card number? Main utna jaldi PAN card number share nahi karunga. OTP toh dekhta hoon.
+caller: Sir, time bahut kam hai. Account suspend bhi ho sakta hai. OTP jald hi receive kar lijiye.
+receiver: Okay, aaya OTP. 458293 hai.
+caller: Thank you sir! Ab aapka account completely secure hai. Please note, hamara call recording kiya gaya hai. Aapka ICICI Bank team ko shukriya!

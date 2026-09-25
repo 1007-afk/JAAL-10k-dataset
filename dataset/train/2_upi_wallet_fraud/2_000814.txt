@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se bol raha hoon. Aapke BharatPay wallet mein 5000 ka cashback offer hai. Claim karne ke liye, ek small verification process complete karna hoga.
+receiver: Cashback? Really? Kitna time hai offer valid rehne ke liye?
+caller: Sir, offer sirf aaj tak valid hai. Jaldi karo! Verification ke liye, aapko ek OTP dena hoga jo BharatPay ne aapke registered phone number par bheja hai.
+receiver: OTP kahan enter karna hai? BharatPay app mein hi, ya koi aur website hai?
+caller: Nahin, nahin sir, app mein nahi. Ek secure link main jaakar OTP enter karna hai. Main aapko link send karta hoon - bit.ly/BharatPayVerify.
+receiver: Bit.ly? Yeh thoda suspicious lag raha hai. BharatPay toh direct app se hi offer deta hai na?
+caller: Sir, yeh ek new process hai. Trust me! OTP enter karein, cashback aapka hoga. Main yahan aapki help karne ke liye hoon.

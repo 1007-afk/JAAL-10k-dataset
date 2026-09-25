@@ -1,0 +1,8 @@
+caller: Namaste! Mai Flipkart se Rohan bolta hu. Aapke naam par ek order aaya hai, lekin payment verification mein ek problem aa rahi hai.
+receiver: Flipkart se? Kya order aaya hai mujhe? Mujhe yaad nahi aa raha.
+caller: Ji, aapne kuch din pehle ek smart TV order kiya tha, Reliance Digital se. Order ID hai FLP-876543. Payment failed hone ke karan delivery ruk gayi hai.
+receiver: Smart TV? Reliance Digital? Mujhe to koi order yaad nahi aa raha. Aur payment bhi failed?
+caller: Haan ji, security ke karan OTP verify karna hoga. Main aapko OTP send karunga, woh bata dijiye taaki hum delivery proceed kar sake.
+receiver: OTP? Aapko OTP bataane ka mujhe koi irada nahi hai. Koi scam lag raha hai. Flipkart kabhi aise nahi karta.
+caller: Maaf karna, madam, lekin delivery rokne se better hai ki aap OTP share karein, otherwise order cancel ho jayega. Main aapko ek link bhi send karta hu, jahan aap apna card detail verify kar sakte hain.
+receiver: Theek hai, bas, ab main pata kar gaya hu. Koi link nahi open karunga, aur OTP bhi nahi dunga. Ab main Flipkart customer care mein complain karunga.

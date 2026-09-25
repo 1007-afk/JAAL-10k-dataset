@@ -1,0 +1,9 @@
+caller: Namaste, mai Rajesh PhonePe se bol raha hu. Aapke PhonePe account mein kuch suspicious activity detect hui hai.
+receiver: Oh, suspicious activity? Kya hua? Mein toh kuch bhi abnormal nahi dekh rahi.
+caller: Ji, ek attempt kiya gaya tha aapke account se ₹499 ka, lekin transaction fail ho gaya. Security ke liye, aapko account verify karna padega.
+receiver: ₹499? Mein toh kabhi bhi aisa koi transaction nahi kiya. Verify kaise karunga?
+caller: Simple hai! Aapko bas apna PhonePe OTP (One Time Password) mujhe batana hai. Tabhi main account secure kar paunga.
+receiver: OTP? Par OTP toh confidential hota hai, na?
+caller: Haan ji, lekin is baar emergency hai. Jaldi karo, warna account block ho sakta hai. ₹499 ka risk hai, aur aapka data bhi unsafe ho sakta hai. Batao OTP?
+receiver: Theek hai, OTP hai 123456.
+caller: Shukriya! Aapka account abhi secure hai. ₹499 ka refund process ho raha hai. Jaldi hi aapko refund mil jayega. Apka PhonePe account ab completely safe hai.

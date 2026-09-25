@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatLoanHelp se Rahul bol raha hoon. Aapke naam par ek loan approval aaya hai, bahut hi achchi conditions ke saath. Sirf ₹5,000 ka processing fee submit karke aapko ₹50,000 mil sakte hain, woh bhi sirf 24 hours mein.
+receiver: Loan approval? Mujhe toh koi request bhi nahi ki hai. Aur processing fee?
+caller: Ji, hum ek special offer de rahe hain selected customers ko. Yeh offer sirf aaj ke liye hai. Aapko sirf fee submit karni hai, aur hum aapke account mein loan transfer kar denge. Account details bhijwa dijiye.
+receiver: Yeh thoda suspicious lag raha hai. Mujhe yeh nahi chahiye. Kyunki mujhe toh koi loan offer nahi mili hai.
+caller: Suniye suniye! Aise kaise? Yeh toh aapki liye bahut achha opportunity hai. Agar aap fee submit nahi karenge, toh offer cancel ho jayegi. Aur agar aapne fee submit kar di, toh hum aapko personal information mangenge, taki hum confirm kar sake ki aapki account safe hai.
+receiver: Personal information? Main nahi dunga. Tumhara phone number bhi check kar raha hoon. Yeh scam lag raha hai.
+caller: Arre, aapko relax hona chahiye! Hum legal company hain. Aapko abhi hi apne dost ko refer karna chahiye, is offer ke bare mein, usko bhi benefit milega. Refer number hai 9876543210.

@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Verma? This is Inspector Kumar, calling from the Delhi Customs Department. We need to speak with you urgently regarding a suspicious package registered under your name.
+receiver: Delhi Customs? What package? I haven't ordered anything recently. This sounds strange.
+caller: Sir, our records indicate a package containing prohibited items – specifically, precursors for illegal narcotics – was shipped to your address from overseas. We have photographic evidence. We're on a video call now to verify your identity and the situation. Please don’t panic, sir. We just need to clarify a few things.
+receiver: Narcotics? That’s ridiculous! I wouldn't be involved in anything like that. Can you show me this photographic evidence? And why is this on a video call?
+caller: Certainly, sir. Please allow me a moment to share the image. (pause) As you can see, sir, the packaging is addressed to you. Now, to clear this up quickly and prevent legal action, we require a small processing fee of ₹7,500 to cover investigation and clearance costs. You can pay through PhonePe or Google Pay.
+receiver: Seven thousand five hundred rupees? For what? This is extortion! Why can’t I just see the evidence properly? And why the urgency? I want to speak to your superior.
+caller: Sir, time is of the essence. Delaying this will only complicate matters and could result in a formal investigation and potential arrest. The video call ensures we can verify your cooperation. We’re following protocol to avoid any misunderstanding. Your cooperation now will avoid lengthy court proceedings, trust me. Please just make the payment, sir.
+receiver: Arrest? Court proceedings? Look, I’m calling my lawyer right now. This is a scam, I know it.

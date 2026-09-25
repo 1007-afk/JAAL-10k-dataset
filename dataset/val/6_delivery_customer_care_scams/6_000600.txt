@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? My name is Rahul, calling from Bluestar Courier. We're having trouble delivering a package to your address. It requires some additional clearance fees.
+receiver: Haan, yeh main Verma bolta hoon. Clearance fees? Kaun se package ka baat kar rahe ho?
+caller: Ji haan, sir. It’s a high-value item from Myntra. There’s been a slight discrepancy in the shipping label, and we need to verify the details and pay a small processing fee of ₹750.
+receiver: ₹750? Itne paise? Myntra se mere ko koi order toh yaad nahi aa raha. Main check karta hoon.
+caller: Sir, it’s best to resolve this quickly to avoid the package being returned. We can process the payment securely over the phone. Just provide your debit card number and expiry date.
+receiver: Debit card number? Nahi, nahi, yeh theek nahi hai. Mai bank se baat karta hoon. Aap mujhe Myntra ka customer care number de do.
+caller: Sir, Myntra is closed for the day. We're operating 24/7 to ensure smooth deliveries. This is a limited-time offer to clear the package. Just the card details, sir. Very quick.

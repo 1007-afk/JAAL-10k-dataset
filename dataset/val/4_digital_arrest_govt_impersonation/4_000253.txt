@@ -1,0 +1,8 @@
+caller: Namaste sir, yeh Indian Customs se Rohit Verma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai se, lekin usmein illegal items mile hain.
+receiver: Illegal items? Yeh kya bol rahe hain aap? Mein to kuch order kiya hi nahi tha.
+caller: Ji, parcel mein suspicious electronic devices hain. Yeh case serious hai, sir. Aapko FIR register karni padegi aur legal process complete karni hogi.
+receiver: FIR register? Aur illegal devices? Mujhe kuch samjh mein nahi aa raha. Mein toh bilkul innocent hoon. Main ghar par hi hoon, mujhe toh koi parcel mila hi nahi.
+caller: Sir, legal procedure ke according, aapko fine deposit karna padega, otherwise aapko court mein bhi jaana padega. ₹15,000 ka fine deposit karein, fir hum parcel release karenge aur case close ho jayega.
+receiver: ₹15,000? Sir, yeh toh lok-lom-bhari lag raha hai. Mein police station jaake confirm karunga. Aap mujhe ek official reference number de sakte hain?
+caller: Sir, reference number dene se koi faida nahi hai, yeh internal process hai. Just pay the fine quickly, otherwise case aur serious ho jayega. Aapki reputation ko damage ho sakta hai. Please cooperate, sir.
+receiver: Sir, you are asking me to pay money without any verification or official confirmation? I think this is a scam. I am ending this call now and reporting your number.

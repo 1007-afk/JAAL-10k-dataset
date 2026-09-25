@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan calling from Zomato customer care. We noticed an unusual transaction on your account, a payment of ₹1200 to a new restaurant called ‘Spice Paradise’. Can you confirm this transaction?
+receiver: ₹1200? No, I didn't order anything from Zomato recently. What's going on?
+caller: Sir, it seems like there might be a security breach. To secure your account and prevent further unauthorized transactions, we need to verify your details. Can you please provide the last four digits of your debit card and the OTP you just received on your phone?
+receiver: Wait a minute… Zomato never asks for card details or OTPs over the phone. This sounds suspicious.
+caller: Sir, please don't worry. This is a standard security protocol. If you don't cooperate, your account will be temporarily locked, and you might lose access to your saved payment methods and rewards points. We just need this information to resolve the issue immediately.
+receiver: I am not giving you anything. I'm going to call Zomato’s official customer care number to report this. You’re blocked.
+caller: Sir, please don’t do that! You are making a huge mistake! Just the OTP and I will fix everything and you will be able to enjoy your Zomato benefits.

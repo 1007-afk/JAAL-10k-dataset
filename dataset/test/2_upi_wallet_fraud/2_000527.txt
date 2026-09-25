@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya from MobiPay Customer Service. We've detected some unusual activity on your MobiPay account. Can you confirm you're the account holder?
+receiver: Haan, main hi hu. Kya hua? Unusual activity?
+caller: Sir, it appears someone attempted to transfer ₹7,500 from your MobiPay wallet to an unknown UPI ID. To secure your funds, we need to quickly verify your identity. Could you please share the last four digits of your registered mobile number?
+receiver: ₹7,500? Maine toh kabhi transfer nahi kiya. Mera number 9876543210…last four digits 3210.
+caller: Thank you, sir. Now, for verification, we'll send you a one-time password (OTP) to your registered MobiPay number. Please share that OTP with me immediately. It's important to act fast to prevent further unauthorized transactions.
+receiver: OTP? Wait, this feels a little off. Why can’t I call MobiPay’s official number and verify instead?
+caller: Sir, due to high call volumes, we're currently assisting customers through this secure verification process only. The OTP is the fastest and safest way to prevent the fraud. Just one moment while I initiate the OTP sending… Please share the OTP as soon as you receive it. Your account security depends on it.
+receiver: No, I’m not sharing any OTP. I'm going to call MobiPay’s customer care directly from their official website. Thank you.

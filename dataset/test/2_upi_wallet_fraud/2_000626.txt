@@ -1,0 +1,7 @@
+caller: Namaste! Main Flipkart Customer Care se Rahul bolta hoon. Aapko Flipkart pe ek order ka confirmation message mila tha na, order number FLP789234?
+receiver: Haan, mila tha. Mujhe yaad hai. Lekin maine kuch order nahi kiya tha.
+caller: Achha, dekhiye, system mein ek error aa gaya hai. Aapke account se accidentally 500 rupees ka deduction ho gaya hai. Humara team ise fix kar raha hai, lekin refund process start karne ke liye, humein aapke account details chahiye.
+receiver: Account details? Kaunse details chahiye aapko? Yeh theek lag raha hai.
+caller: Sirf UPI ID aur ek OTP, woh bhi verification ke liye. Aapko koi tension lene ki zarurat nahi hai. OTP aapko SMS se milega. Flipkart ki security bahut strict hai.
+receiver: UPI ID toh theek hai, lekin OTP dene se pehle mujhe confirm karna hai ki aap sahi se Flipkart se hi call kar rahe hain. Aap ka employee ID number bataiye?
+caller: Employee ID number main aapko baad mein de dunga. Phir ek baar bataun, OTP jaldi aapko message aayega, verification ke baad aapko 500 rupees ka refund mil jayega.  Aapka time bahut important hai, sir.

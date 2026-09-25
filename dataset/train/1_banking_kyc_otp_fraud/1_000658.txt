@@ -1,0 +1,12 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapke mobile ke liye ek important update hai. Yahaan par record kiya ja raha hai, yahin par sirf quality control ke liye. Hume aapke account mein ek technical problem mili hai aur hume kuch details check karne ki zarurat hai, aapki safety ke liye. Agar aap jawab dete hain, to samajh lenge ki aap agree karte hain. Aapka naam kaise hai?
+receiver: Namaste ji. Main Rajesh Kumar hoon. Kya problem hai? Mobile mein koi galti ho gayi hai ya fir network mein koi dikkat hai?
+caller: Dhanyavaad, Rajesh Kumar. Aapse yeh confirm karna chahte hain ki aapke account mein ek new app install kiya tha, do mahine pehle. Kya aap yahaan par remember kar sakte hain?
+receiver: New app? Haan, ek app install kiya tha, "SnapChat" tha uska naam. Fir kya hua? Mujhe abhi bhi yaad hai ki us time mein kitne ads dekhe the.
+caller: Achha, dhanyavaad. Isse pata chala ki aapke device mein malware ka risk hai. Humare experts ne yeh check kiya hai. Ab, agar aap apni account secure karna chahenge, to aapko ek OTP chahiye. Aapka home address bataiye, please.
+receiver: OTP? Home address? Yaaro, yeh kya chal raha hai? Mujhe abhi samajh bhi nahi aa raha. Woh SnapChat ka app…  Bataiye, yeh OTP kyon zarooriyat hai?
+caller:  Aapki account ko protect karne ke liye yeh zarooriyat hai. Aur humare experts ne kaha hai ki aapko ek verification code chahiye.  Aapka bank account number bataiye, please.
+receiver: Bank account number? Nahin, nahin! Main kuch bhi bata nahi dunga. Yeh toh paiso hasil karne ka tareeqa hai! Main aapko report karunga.
+caller: Shanti shanti.  Hum aapko madad karna chahte hain. Aapko sirf kuch details chahiye hain. Aapka email id bataiye, please.
+receiver: Email ID? Haan, woh hai [Your Email ID]. Lekin main abhi nahi de sakta.  Main abhi samajh nahi paa raha kyun har baar kuch request kar rahe hain.
+caller: Dhanyavaad, [Your Name].  Aapki account ko secure karne ke liye, hume aapka password bhi check karna hoga. Aapka old password bataiye, please.
+receiver: Old password?  Mujhe yeh nahi bataana hai!  Yeh toh mera private information hai.  Main abhi koi bhi bataane wala nahi hoon.

@@ -1,0 +1,10 @@
+caller: Namaste! Shubho kadam! You’ve won a free upgrade to first class travel on Indigo Airlines for your upcoming trip to Goa! Plus, we’re giving you a complimentary luxury spa package at the Taj Exotica Resort – isn’t that fantastic? You just need to verify your account details over this toll-free number, 88009876543. Don’t delay, only three seats remain!
+receiver: Oh my god! Seriously? First class on Indigo and a spa? That’s unbelievable! Okay, let me check the number, 88009876543.  So, I just need to confirm some information, correct?
+caller: Absolutely! To confirm your booking, we require your full name, date of birth, and last four digits of your PAN card. This is standard procedure for all premium upgrades. Just quickly provide these details.
+receiver: My name is Priya Sharma, born on July 12th, 1988, and my PAN ends in 2345. Is that alright?  Please confirm that you have those details.
+caller: Perfect! Thank you, Priya. Now, we just need to verify your mobile number as well. Please provide your current mobile number with the country code.
+receiver: It’s +919876543210.  That's plus nine eight seven six five four three two one zero. Are you receiving that correctly?
+caller: Yes, absolutely!  Now, we’re almost done. Only ONE seat remains available!  Don’t lose this opportunity; call us immediately at 88009876543.  It’s a once-in-a-lifetime deal!
+receiver: One seat? Arre yaar, seriously? Okay, okay, I am calling now.  Thank you very much for this amazing offer!  Bye bye!
+caller: Wonderful! Two seats remaining now!  Arey, you’re doing great!  Just remember, this offer expires tonight. Call 88009876543 before it’s too late!
+receiver: Okay, okay, I'm calling!  Thank you again for everything!  Goodbye!

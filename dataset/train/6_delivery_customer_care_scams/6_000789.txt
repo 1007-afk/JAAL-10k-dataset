@@ -1,0 +1,7 @@
+caller: Hello, this is Akash from SwiftShip Courier. We attempted to deliver a package to your address today, but there was an issue with the payment details. Could you please confirm your name and address for verification?
+receiver: Yes, this is Priya Sharma. My address is 12, Green Meadows Apartments, Sector 14. What kind of issue?
+caller: Thank you, Priya ji. It appears there's a pending security check on the delivery due to an unusual transaction. To clear it, we need you to verify your OTP - a one-time password we're sending to your registered mobile number. It's just a security measure.
+receiver: OTP? But I didn't order anything. Are you sure this is a legitimate delivery? I don't recall ordering anything.
+caller: It could be a gift, Priya ji. Sometimes senders don't inform recipients. The OTP is crucial to prevent fraud and ensure the package reaches you safely. Just share the OTP and we'll release the package immediately. It’s from SwiftShip, very important.
+receiver: Okay, hold on a minute. Let me just check my messages. (pause) I'm not receiving any OTP. This sounds fishy. I'm going to call SwiftShip directly to verify.
+caller: Don’t delay Priya ji! This is a time-sensitive security protocol. If you don't provide the OTP within the next 5 minutes, the package will be returned to the sender. We can't risk any security breaches. Please just provide the OTP now.

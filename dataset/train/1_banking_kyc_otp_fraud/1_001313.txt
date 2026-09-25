@@ -1,0 +1,8 @@
+caller: Namaste Madam, mai Axis Bank se Rohan Sharma bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai.
+receiver: Suspicious activity? Kaun sa? Mujhe koi message nahi aaya.
+caller: Haan ji, ek international transaction attempt kiya gaya tha. Aapka account suspend karne se pehle, humein verification karna hoga. Kripya apna PAN card number aur last 4 digits of your debit card number bataiye.
+receiver: International transaction? Mein toh kabhi bhi international transaction nahi kiya. Aur PAN card number phone pe deena safe nahi hai. Aapko kaise pata ki main hi account holder hoon?
+caller: Madam, account secure karne ke liye yeh zaroori hai. Agar aap cooperate karenge toh main aapko ek reference number de dunga jis se aap apne branch mein jaake confirm kar sakte hain. Agar aap cooperate nahi karenge toh account suspend ho jayega, aur aapka paisa bhi risk mein aa jayega. Just PAN card number aur debit card ke last 4 digits, Madam.
+receiver: Account suspend karna? Yeh thoda bahut unfair lag raha hai. Mein branch mein jaa kar verify karunga, lekin phone pe koi details nahi dunga. Aapko agar koi suspicion hai toh aapko khud hi branch mein jaake verify karna chahiye.
+caller: Madam, branch mein verification mein time lag jayega aur account suspend bhi ho sakta hai. Hum sirf aapki help kar rahe hain. 2 minutes mein verification ho jayega. Please Madam.
+receiver: Okay, ek minute rukiye. Mein bank ke official number se call karta hoon aur phir pata karta hoon. Mein abhi nahi de sakta.

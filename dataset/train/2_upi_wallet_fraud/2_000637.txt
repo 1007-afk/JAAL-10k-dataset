@@ -1,0 +1,7 @@
+caller: Namaste! Main PhonePe security team se bol raha hoon. Aapke PhonePe account mein aaj ek suspicious transaction attempt kiya gaya tha. ₹1500 ka transaction block kar diya gaya hai, lekin security ke liye aapko verify karna hoga.
+receiver: Oh! ₹1500? Kya hua? Mujhe toh koi notification nahi aaya. Main PhonePe regular use karta hoon.
+caller: Haan sir, yeh attempt ek international number se kiya gaya tha. Aapko ₹500 verification fee bharne hogi. ₹500 bharne ke baad aapka account phir se activate ho jayega aur aapke ₹1500 bhi secure ho jayenge.
+receiver: ₹500 fee?  Woh bhi?  Aapko kaise bharu? PhonePe mein hi bharu kya?
+caller: Haan sir, PhonePe mein hi bhar dijiye. Main aapko ek UPI ID de dunga, wahaan ₹500 send kar dijiye.  UPI ID hai - securepay@axisbank.  Jaldi karo, sir. Account block hone se pehle verify karna hoga.
+receiver:  Securepay@axisbank... Haan ji, bhar deta hoon.  Ek minute.
+caller: Shukriya sir!  ₹500 transfer hone ke baad mujhe bataiye.  Aapka account abhi bhi risk mein hai, jaldi karo!

@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? This is Inspector Singh from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Kya? Package? Mujhe koi package nahi mila. Mainko kuch pata nahi hai.
+caller: Ma'am, our records indicate a parcel arrived from overseas with your name and address. Preliminary scans suggest it contains prohibited goods, possibly linked to money laundering.
+receiver: Money laundering? Yeh kya bol rahe hain aap? Main toh kabhi bhi aisa kuch nahi kiya.
+caller: We need to verify your identity and clear this up quickly. To proceed, we require a small processing fee of ₹7,500 to cover inspection and clearance costs. You can pay via UPI.
+receiver: ₹7,500? For a package I didn’t even receive? Yeh thoda zyada lagta hai. Is there any official reference number I can check?
+caller: Absolutely, ma'am. The reference number is DLCC-2024-789. You can verify it on our website – delhicustoms.gov.in. Please make the UPI payment quickly to avoid further legal complications. Time is of the essence.
+receiver:  Okay, let me check the website first. Just a moment... (pause) This website looks very suspicious. I think this is a scam! I am ending this call.
+caller: Ma'am, don’t be hasty! This is a serious matter. Ignoring this will only lead to arrest. Please, cooperate for your own safety.

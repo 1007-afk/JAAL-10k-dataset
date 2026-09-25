@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Sharma? Ji haan, main [Your Scam Company Name] se bol raha hoon. Aapko yaad dilana tha ki aapne jo content download karne ke liye pay kiya tha, woh abhi tak aapne collect nahi kiya hai. Aapko [doit.mymoby.tv](http://doit.mymoby.tv/) pe jaake apna content collect karna hai. Aapke paas sirf 5 minutes aur bache hain. Please jaldi kijiye.
+receiver: Haan ji, hello? Haan main hi Mr. Sharma bol raha hoon. Arre, woh content download karna tha? Oh, the payment was done already? Okay, I'll check doit.mymoby.tv right away. Thank you for the reminder, otherwise I would have missed it. 5 minutes hai na? I'll do it now.
+caller: Ji Mr. Sharma, exactly. 5 minutes hain, toh der na karein. [doit.mymoby.tv](http://doit.mymoby.tv/) pe jaake turant collect kar lijiye. Aapka content aapke liye hi reserved hai.
+receiver: Haan ji, kar raha hoon collect. Thanks for the reminder, sach mein bhool hi gaya tha. Kya kya hai woh content vaise?
+caller: Ji Mr. Sharma, woh aapke subscription ke hisaab se hai. Aapko woh sab mil jayega jo aapne choose kiya tha. Time kam hai, toh pehle collect kar lijiye, phir aap aaram se dekh sakte hain. Jaldi kijiye, timer chal raha hai!
+receiver: Haan ji, kar liya collect! Phew, bas abhi ho gaya. Thanks a lot! Waise, woh subscription kitne time ke liye valid hai?
+caller: Great! Sir, subscription aapki detail ke according hai. Bas ab aap download kar ke enjoy kar sakte hain. Bahut jaldi collect kar liya aapne, waise! Aur koi sawal ho toh bataiyega.
+receiver: Achha, theek hai. Thanks for letting me know. Koi aur issue toh nahi?

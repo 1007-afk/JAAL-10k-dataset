@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from Swiggy Customer Care. We’ve noticed some unusual activity on your Swiggy account and a pending payment of ₹450 for an undelivered order.
+receiver: Oh really? I haven't placed any recent orders. Can you tell me more about this?
+caller: Ji, we need to verify your identity to process a refund. Could you please share the OTP you just received on your registered mobile number? It’s a security measure.
+receiver: An OTP? That sounds a bit risky. Can't you just tell me the order details?
+caller: Ma’am, security is our top priority. Without verifying, we cannot proceed. It's a one-time thing, just to confirm it’s you. Please share the OTP so we can cancel the order and initiate a refund. It’s urgent, otherwise, the amount will be debited.
+receiver: Okay, hold on. Let me just check my Swiggy app quickly.
+caller: Ji, please hurry! The system is about to auto-debit the amount. Sharing the OTP is the fastest way to resolve this and protect your account.

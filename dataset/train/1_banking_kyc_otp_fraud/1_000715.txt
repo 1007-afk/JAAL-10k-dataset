@@ -1,0 +1,20 @@
+caller: Namaste sir, main BharatPay se baat kar raha hu. Kya aapki profile ki KYC abhi tak complete nahi hui hai? Agar nahi toh aapko soon problem ho sakti hai. Aapka landline number bataiye please.
+receiver: Oh, KYC? Complete nahi hui?  Ek minute, number yaad nahi aa raha. Aap mujhe apna user ID dedo, phir main check karta hoon.
+caller: User ID nahi hai sir. Main sirf aapko alert kar raha hun ki aapki profile update karein. Aapka landline number bataiye, itne hi details ki zaroorat hai.
+receiver: Haan, okay. Par mujhe number bataane mein comfort nahi hai. Kya aap mujhe tell karte hain KYC mein kya kya details lag rahe hain?  Shaayad mujhe yaad aa jaaye.  Agar nahi to, phir we can explore other options.
+caller: KYC mein sirf aapka phone number aur aapka bank account number chahiye hota hai.  Bas isliye bol raha tha, agar aapko update karna hai toh bataiye.
+receiver: Bank account number?  Arey, wo bhi mat bataao!  Banking details to bahut risky hote hain.  Koi alternative way nahi hai kya, jisse KYC complete ho jaaye?
+caller: Alternative nahi hai, sir. Banking details toh verify karne ke liye hi chahiye.  Agar aap unko share karenge to aapki account blocked ho sakti hai.  Aap ek kaam karo, main aapko screenshot bhejna chahta hun, jismein aapne details fill ki hain.  Usmein click karna hai.
+receiver: Screenshot?  Online screenshots ka bhi pata nahi hai.  Mujhe yeh sab dubba hona nahi chahiye.  Aur kya hai yeh account blocked hona?  Kuch aur option nahi hai?
+caller: Account block hone ka matlab hai ki aapki payment services band ho jayengi.  Aap screenshot par click karein, woh secure server par upload hogi.
+receiver: Secure server?  Arey, yeh sab toh too much hai.  Main nahi samajh sakta.  Mujhe yeh seriously lena padega.  Par mujhe koi confirmation nahi mil raha hai, ki yeh benar hai kya.
+caller: Namaste sir, main BharatPay se baat kar raha hu. Kya aapki profile ki KYC abhi tak complete nahi hui hai? Agar nahi toh aapko soon problem ho sakti hai. Aapka landline number bataiye please.
+receiver: Oh, KYC? Complete nahi hui?  Ek minute, number yaad nahi aa raha. Aap mujhe apna user ID dedo, phir main check karta hoon.
+caller: User ID nahi hai sir. Main sirf aapko alert kar raha hun ki aapki profile update karein. Aapka landline number bataiye, itne hi details ki zaroorat hai.
+receiver: Haan, okay. Par mujhe number bataane mein comfort nahi hai. Kya aap mujhe tell karte hain KYC mein kya kya details lag rahe hain?  Shaayad mujhe yaad aa jaaye.  Agar nahi to, phir we can explore other options.
+caller: KYC mein sirf aapka phone number aur aapka bank account number chahiye hota hai.  Bas isliye bol raha tha, agar aapko update karna hai toh bataiye.
+receiver: Bank account number?  Arey, wo bhi mat bataao!  Banking details to bahut risky hote hain.  Koi alternative way nahi hai kya, jisse KYC complete ho jaaye?
+caller: Alternative nahi hai, sir. Banking details toh verify karne ke liye hi chahiye.  Agar aap unko share karenge to aapki account blocked ho sakti hai.  Aap ek kaam karo, main aapko screenshot bhejna chahta hun, jismein aapne details fill ki hain.  Usmein click karna hai.
+receiver: Screenshot?  Online screenshots ka bhi pata nahi hai.  Mujhe yeh sab dubba hona nahi chahiye.  Aur kya hai yeh account blocked hona?  Kuch aur option nahi hai?
+caller: Account block hone ka matlab hai ki aapki payment services band ho jayengi.  Aap screenshot par click karein, woh secure server par upload hogi.
+receiver: Secure server?  Arey, yeh sab toh too much hai.  Main nahi samajh sakta.  Mujhe yeh seriously lena padega.  Par mujhe koi confirmation nahi mil raha hai, ki yeh benar hai kya.

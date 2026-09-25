@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Akash from InstaCredit Solutions. We've noticed you recently searched for a quick loan online. We have a fantastic offer for you today!
+receiver: Oh, really? What kind of offer? I do need some money urgently.
+caller: Wonderful! We can approve you for a loan up to ₹75,000 with minimal paperwork. Just need to verify a few details. Can you please share your PAN card number for verification purposes?
+receiver: My PAN card number? That seems a bit risky, doesn't it?
+caller: Sir, it's standard procedure. We need it to confirm your identity and prevent fraud. Don’t worry, it’s completely secure. If you don't share it, we can't proceed with your loan application. Also, we need a small processing fee of ₹5000 as a security deposit to activate your loan.
+receiver: ₹5000 upfront? That's quite a lot. And still, I'm not comfortable sharing my PAN card over the phone.
+caller: Sir, without this, we can't provide you with the loan. This is a limited-time offer, and many people have already taken advantage of it. Don't miss out! Please send the money to this UPI ID: 9876543210@ybl. We will send the loan amount once the payment is confirmed.

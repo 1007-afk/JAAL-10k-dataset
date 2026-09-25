@@ -1,0 +1,6 @@
+caller: Namaste! Main Axis Bank se Deepak Sharma bolta hoon. Aapka account kuch suspicious transactions ke wajah se suspend ho gaya hai. KYC verification ke zariye aapko isko re-activate karvana hoga, sir.
+receiver:  Kya? Account suspend? Main toh aaj hi withdraw karne gaya tha.  KYC update karwana hai?  Meri toh har saal update hoti hai.
+caller: Haan sir, system mein ek error aa gaya hai.  Aapko bas kuch details confirm karne hain, phir sab theek ho jayega.  Aapka PAN card number aur dob bataiye, sir. Aur ek OTP bhi aaega, woh bhi bataiye.
+receiver: PAN card number bataoon?  Woh confidential hai!  Aur OTP bhi?  Tumhe kaise pata ki main Axis Bank ka customer hoon?  Pata hi nahi tum log kaise kaam karte ho.
+caller: Sir, worry mat kijiye.  Yeh standard security procedure hai.  Agar aap details nahi denge, toh account permanent block ho sakta hai.  ₹5000 ka security deposit bhi freeze ho gaya hai, jo aapko re-activate karne ke baad mil jayega.  Bas thoda sa time lagega.
+receiver: ₹5000? Main ne toh kabhi deposit nahi kiya.  Yeh toh scam lag raha hai.  Main police mein report karunga!

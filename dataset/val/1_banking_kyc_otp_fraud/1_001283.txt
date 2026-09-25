@@ -1,0 +1,6 @@
+caller: Namaste, Sir. Main State Bank of India se Rahul bol raha hoon. Aapke naam par ek transaction fail hua hai, aur security ke liye hamein verification karna hai.
+receiver: State Bank of India? Sir, mujhe koi transaction fail hone ki jankari nahi hai. Aur aap ne mera naam kaise jaanta hai?
+caller: Sir, woh technical issue tha. Lekin chinta maat karein, hum aapki account secure karenge. Verification ke liye, mujhe aapka PAN card number aur ek OTP chahiye hoga jo aapke registered mobile number par jaayega.
+receiver: PAN card number phone pe dena? Sir, yeh thoda risky lag raha hai. SBI toh kabhi phone pe personal details nahi maangta.
+caller: Sir, security protocol hai yeh. OTP se hum verify karenge ki account aapka hi hai. Agar aap verify nahi karenge, toh account suspend ho sakta hai, aur aapka paisa bhi risk mein aa jayega. Bas OTP share kijiye, aur sab safe ho jayega.
+receiver: Account suspend? Sir, main abhi bank ke helpline number se call karta hoon aur confirm karta hoon. Aap wait karein.

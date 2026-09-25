@@ -1,0 +1,11 @@
+caller: Namaste, madam. Mera naam Rohan hai, FastCashLoans se. Aapne hamari website par loan ke liye apply kiya tha, hai na?
+receiver: Haan, mujhe yaad hai. Maine application bhara tha, lekin abhi tak kuch confirmation nahi mili.
+caller: Ji madam, aapka application approve ho gaya hai! Abhi bas verification process complete karni hai. Aapke bank account ka last statement ki need hai, woh email se send kar sakti hain?
+receiver: Theek hai, mein send kar sakti hoon. But I'm a little worried about sharing my statement.
+caller: Madam, bilkul safe hai. Humse aapki koi bhi personal information secure rahegi.  Loan amount ₹10,000 approved hai, aur interest rate sirf 10% hai.  Aapko OTP milega, woh bata dijiye.
+receiver: Okay, I got an OTP. It’s 789012.
+caller: Thank you, madam. Verification ho gaya. Abhi aapko ek small processing fee bharne ki zaroorat hai, ₹1500.  Aapke account mein credit karne ke baad, loan aapke account mein transfer ho jayega.
+receiver: ₹1500? But you said it was a quick loan!
+caller: Madam, ye security charge hai.  Agar aap pay nahi karti, toh hum loan process cancel kar denge.  Aur hum aapke contacts ko bhi aapke loan application ke bare mein inform kar denge.
+receiver: Contacts? What do you mean?
+caller: Madam, hamein bhi business karna hai. Aap cooperate karein toh behtar hai. Abhi ₹1500 pay karein, otherwise...

@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Bhartiya Reserve Bank se Rahul bol raha hoon. Aapke PhonePe account mein kuch suspicious activity detect hui hai.
+receiver: Reserve Bank? Kya hua? PhonePe mein? Koi problem hai?
+caller: Haan sir, aapke account se 50000 rupaye ka transaction hua hai Nepal mein. Yeh transaction aapne kiya hai ya nahin?
+receiver: Nepal? Maine toh kabhi Nepal transaction nahi kiya! Yeh toh fraud hai!
+caller: Haan sir, bilkul. Isliye toh hum aapko contact kar rahe hain. Account secure karne ke liye, humein aapka OTP verify karna hoga. OTP aapke phone pe aayega.
+receiver: OTP? Mere phone pe? Main toh koi OTP nahi dekh raha. Yeh scam lag raha hai. Main kabhi bhi kisi ko OTP nahi bhejunga.
+caller: Sir, ek minute. System check kar raha hoon. Haan sir, OTP gaya tha. Aapko check karna hai, sir. Yeh security procedure hai.
+receiver: Main report karunga police mein. Aap fraudster hain.
+caller: Sir, please. Aapko ₹50000 ki loss ho sakta hai. Koi bhi decision aksar ne lein.

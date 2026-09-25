@@ -1,0 +1,9 @@
+caller: Namaste! Main Bharat Track Logistics se Rohit Verma bol raha hoon. Aapka ek parcel aaj delivery ke liye tayar hai, lekin OTP verification pending hai.
+receiver: Bharat Track Logistics? Mujhe koi parcel order kiya tha? Mujhe yaad nahi aa raha.
+caller: Haan ji, madam. Aapne StarBuy se kuch electronics products order kiya tha. Order ID hai SB789456. Parcel delivery ke liye OTP verify karna hoga, taaki hum confirm kar sakein ki parcel sahi address par jaa raha hai.
+receiver: Theek hai, mujhe StarBuy se order kiya tha. OTP send kijiye.
+caller: Bilkul! Abhi OTP send kar raha hoon. Kuch technical issue hai, OTP direct aapke account mein nahi aa raha. Mujhe OTP bataiyein taaki main manual verification kar sakun. Iske baad parcel delivery ho jayega.
+receiver: Lekin aise OTP nahi dete na? Account ki security ke liye?
+caller: Madam, yeh ek special process hai Bharat Track Logistics mein security maintain karne ke liye.  Koi chinta mat karein, aapka parcel safe hai. OTP bataiyein please, delivery delay nahi hona chahiye.
+receiver: Okay, the OTP is 123456.
+caller: Shukriya madam! Verification complete ho gaya hai. Aapka parcel abhi dispatch ho gaya hai aur 2 ghante mein aapke address par pahunch jayega. Enjoy karein aapke naye products ko!

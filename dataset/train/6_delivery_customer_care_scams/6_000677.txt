@@ -1,0 +1,7 @@
+caller: Hello, my name is Rahul from BlueSwift Courier. I'm calling about a parcel addressed to you. There seems to be an issue with the delivery address and we need to confirm a few details.
+receiver: Hello Rahul, yes, I’m the recipient. What’s the problem with the address?
+caller: Yes, ma'am. The system is showing an insufficient delivery fee payment. It appears there’s a ₹350 outstanding amount for a redelivery attempt. We need to verify your payment details to rectify this.
+receiver: ₹350? That’s odd. I don't recall any extra charges. Could you tell me the tracking number for the parcel?
+caller: Certainly, ma’am. The tracking number is SW789456123. To resolve this quickly and avoid a return to sender, could you please provide the last four digits of the card you used for the purchase? We just need to confirm the payment method.
+receiver: Okay, the last four digits are 4321. Will I receive a confirmation once the payment is sorted?
+caller: Thank you. Just one final step to protect your account, ma'am. Could you please confirm the CVV code on the back of the card? This is a standard security protocol to prevent fraudulent activity and ensure the payment is processed correctly.

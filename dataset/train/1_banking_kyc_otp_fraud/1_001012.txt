@@ -1,0 +1,7 @@
+caller: Namaste, I’m calling from HDFC Bank’s KYC department. We’ve noticed some unusual activity on your account, sir. It appears someone attempted to change your address online.
+receiver: Oh really? I didn't know anything about that. What kind of unusual activity?
+caller: Ji, they tried to update the address linked to your account to a different location. To secure your account and prevent any fraudulent transactions, we need to quickly verify your details. Can you please confirm your date of birth for me?
+receiver: Wait a minute. Why do you need my date of birth? Shouldn't you already have that on file? This sounds a bit suspicious.
+caller: Sir, due to new RBI guidelines, we’re required to re-verify customer data every six months. It’s a standard security procedure. Just to confirm, can you also provide the last four digits of your PAN card?
+receiver: PAN card details over the phone? That doesn't sound right. I've heard about these scams. Can I call the bank directly to verify this?
+caller: Sir, please don't worry. This is a time-sensitive matter. If you don’t verify your details now, we may have to temporarily suspend your account for your own protection. We can also ask you to share the OTP you receive on your registered mobile number for further verification.

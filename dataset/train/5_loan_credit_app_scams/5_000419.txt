@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Verma? We're calling from ‘SwiftCash Loans’. Congratulations! You’ve been pre-approved for a personal loan of ₹2,50,000. A great opportunity to clear some debts! Just need to verify a few details.
+receiver: SwiftCash Loans? Haan, main Priya Verma hoon. ₹2,50,000 ka loan? Dekhata hoon. Kya verification hai?
+caller: It's a simple security check. Please visit our website at swiftcashverify.online. Enter your PAN card number and the last four digits of your Aadhaar card there. It's a quick process, barely takes a minute.
+receiver: Swiftcashverify.online? Yeh site toh main pehle nahi dekha. Aadhaar card number bhi? Thoda risky lag raha hai.
+caller: Don’t worry, it's completely encrypted and secure. We need these to confirm your identity and prevent fraud. Plus, there’s a special bonus if you complete it within the next 15 minutes – a ₹5,000 cashback!
+receiver: ₹5,000 cashback? Okay, phir dekhta hoon. Par agar kuch ho gaya toh?
+caller: Absolutely nothing will happen! We are a registered financial institution. Once verified, we'll send you the loan agreement directly to your email. There’s just one final step, a small processing fee of ₹500 to activate your account. Can you transfer that to this UPI ID: paytm@swiftcash?
+receiver: ₹500 processing fee? Aur yeh UPI ID bhi… woh wait karo, main check karta hoon. ₹500 bhi dena padega?

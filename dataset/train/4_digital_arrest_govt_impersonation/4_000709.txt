@@ -1,0 +1,6 @@
+caller: Namaste sir, this is Inspector Verma calling from the Delhi Customs department. We have an urgent matter concerning a parcel registered under your name that was intercepted at Indira Gandhi International Airport.
+receiver: Hello? Inspector Verma? What's the problem with the parcel? I haven't ordered anything recently.
+caller: Ji, bilkul. The parcel contains items suspected to be in violation of import regulations – specifically, certain electronic components flagged for potential use in illegal activities. We need to verify your involvement and clear this up immediately.
+receiver: Illegal activities? This is ridiculous! I don't know anything about this. How can a parcel be registered under my name without me knowing?
+caller: Sir, we understand your concern. To resolve this swiftly and prevent further legal action, you need to pay a small processing fee of ₹7,500 to cover the inspection and clearance costs. Once the payment is confirmed, we’ll release the parcel and close the case.
+receiver: ₹7,500? For a parcel I didn't even order? And how am I supposed to pay? This sounds like a scam. I’m going to report this to the cybercrime cell.

@@ -1,0 +1,11 @@
+caller: Namaste sir, mera naam Rohan hai, main Indian Customs se bol raha hoon. Aapke naam par ek parcel customs clearance ke liye pending hai.
+receiver: Arey? Mere naam par parcel? Mainne toh koi parcel nahi mangwaya.
+caller: Sir, parcel mein illegal items paaye gaye hain. Isliye aapko ek inquiry mein cooperate karna hoga.
+receiver: Illegal items? Yeh kya bol rahe hain aap? Main toh kabhi kuch illegal nahi karta. Main ko-i document dekh sakta hoon?
+caller: Sir, inquiry serious hai. Aapko ₹8,500 clearance fees bharne padenge. Aapko UPI ke zariye payment karna hai, aur verification ke liye bank details bhi chahiye.
+receiver: ₹8,500? Yeh thodi zyada lag raha hai. Main police station mein report karna chahta hoon.
+caller: Sir, please! Agar aap payment nahi karenge toh court se warrant nikal jayega aur aapko arrest bhi kiya jayega. Aapko gharwale ko bhi trouble hogi. Hurry up!
+receiver: Wait! Main apne lawyer se baat karta hoon. Aap mujhe ek reference number dedo.
+caller: Sir, reference number baad mein mil jayega, payment urgent hai. Is number pe fast pay karo: 9876543210. Jaldi karo!
+receiver: Main payment nahi karunga. Yeh scam lag raha hai. Main police mein complaint karunga.
+caller: Sir, aapko regret hoga! Aapka arrest warrant issue ho gaya hai!

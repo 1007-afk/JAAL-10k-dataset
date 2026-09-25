@@ -1,0 +1,7 @@
+caller: Namaste, main Priya Paytm Money se baat kar rahi hoon. Sir, aapke naam par ₹50,000 ka mutual fund investment hai, aur ab ₹1500 ka processing fee maanga jaa raha hai cashback claim karne ke liye. OTP verify kar sakte hain?
+receiver: Paytm Money? ₹1500 ka fee? Mutual fund mein toh mujhe koi investment yaad nahi. OTP share karna safe hai kya?
+caller: Haan sir, bilkul safe hai. Yeh Paytm Money ki standard procedure hai. OTP se aapki identity confirm hogi aur cashback process start ho jayegi. Sir, jaldi kariye, offer limited time ke liye hai.
+receiver: Limited time? ₹1500?  Yeh bahut zyada lag raha hai.  Aap mujhe Paytm app par check karne do.
+caller: Sir, app par dekhne mein time lagega.  Aur offer expire ho sakta hai.  Sir, bas OTP bata dijiye, ₹1500 cashback aapke account mein aa jayega.  Aur ₹50,000 ka profit bhi ho sakta hai.
+receiver: ₹50,000 ka profit? Okay, thoda wait toh karunga. OTP aa gaya hai… lekin yeh mein check karta hoon.
+caller: Sir, OTP bataiye, sir! Aur jaldi kariye, otherwise aapka offer expire ho jayega!

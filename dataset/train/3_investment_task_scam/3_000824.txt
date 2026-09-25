@@ -1,0 +1,7 @@
+caller: Hello sir, this is Raj from CryptoGainz. We’ve identified you as a potential investor in our new DeFi project, StellarRise. It's showing incredible early returns, almost 3% hourly!
+receiver: CryptoGainz? StellarRise? Never heard of it. 3% hourly? Sounds a bit too good to be true, no?
+caller: Sir, it's utilising a proprietary algorithm and leveraging early access to a new blockchain. But the window is closing fast – we're only accepting 20 more investors. To get started, we just need a small initial deposit of ₹5,000 to verify your wallet.
+receiver: ₹5,000? Just to verify my wallet? And what happens after that? Do I get access to a dashboard or something?
+caller: Exactly, sir! Once verified, you’ll have access to the StellarRise portal and see your earnings compounding in real-time. We can even guide you through the process of compounding your returns for maximum profit. It's extremely straightforward.
+receiver: Okay, fine. Let me send you the ₹5,000. What's the UPI ID?
+caller: Wonderful! The UPI ID is cryptogainz@axisbank. Please send ₹5,000 and let me know when it's done. We'll activate your account immediately!

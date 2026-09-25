@@ -1,0 +1,14 @@
+caller: Namaste sir, main HDFC bank se bol raha hoon. Aapka naam jaan sakta hoon?
+receiver: Haan, boliye. Mera naam toh... abhi yaad nahi aa raha, yaar. Kya baat kar rahe hain, bataiye?
+caller: Koi baat nahi sir. Mera naam Rohan Kumar hai aur main HDFC ki cybersecurity team se call kar raha hoon. Humein aapke account mein kuch suspect transactions dikh rahi hai, isliye verify karna chah rahe the. Kya aapko koi OTP number message aaya hai abhi?
+receiver: OTP? Nahi yaar, koi message nahi aaya. Account mein kya ho raha hai, bolo? Kuch wrong to nahi hua kya?
+caller: Aapka naam nahi pata sir, agar aap apna full name bata de toh mein check kar sakoon. Aapko koi email id aayi hai sir, jispe code likha ho?
+receiver: Yaar, dekho, naam thoda bhool gaya hun, itni speed mein. Parantu, account mein suspect transactions ka kya matlab? Koi badi transfer nahi hui, haan? Aur OTP nahi aaya. Agar message aata hota toh batata. Aap ek kaam karein, koi account number ya transaction date bata do, tab shayad mujhe yaad aa jaye. Ya phir aap hi bataein ki kya dikkat hai, main dekh leta hoon.
+caller: Sir, aapki account safety ke liye yeh bahut important hai. Agar aap name bata de toh jaldi check kar paunga. Koi bhi transaction details ya account number abhi aapke phone pe nahi aa ta, jab tak ki hum yeh verify na kar lein ki yeh aap hi hain. Kya aapko lagta hai ki aap Reliance Jio mein mobile plan khola hai?
+receiver: Arre, account safety toh achcha hai. Reliance Jio mein plan bhi hai, lekin naam sahi nahi aa raha. Dekho, batao, suspicious transactions ka matlab kya hai? Us detail se mujhe kuchh yaad aa sakta hai. Aur OTP nahi aaya hai toh aap kaise pata karenge ki yeh mein hoon? Yeh bahut confusion mein pade hue hain.
+caller: Sir, aapke account ko protect karne ke liye yeh step zaroori hai. Humne aapke account mein automatic payment settings change kar di hai. Kya aapne kabhi ismein changes kiya tha?
+receiver: Automatic payment settings? Mein unmein changes kyun karunga? Woh to mere knowledge mein nahi hai.
+caller: Sir, humare system mein error aa gaya hai. Isliye aapko account verification karne ke liye request ki gayi hai. Kya aapko abhi Paytm app open hai?
+receiver: Paytm? Nahin, abhi open nahi hai.
+caller: Okay sir, then we will have to schedule another call for this verification process. Please provide me your WhatsApp number so I can send you the instructions.
+receiver: WhatsApp number? Kahan se milega woh?

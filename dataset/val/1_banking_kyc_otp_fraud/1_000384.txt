@@ -1,0 +1,13 @@
+caller: Namaste, calling from tech support. We’ve detected suspicious logins on your mobile banking app. Your device ID is 7894. Please reply FAST with ‘VERIFY’ to 98765. It’s crucial to secure your account immediately. You can reach us at 09212123456 if needed. This is very important.
+receiver: Oh, okay. Haan ji, tech support se bol rahe ho? Suspicious logins? Device ID 7894? VERIFY likhne ko bol rahe ho?
+caller: Exactly! Time is running out. We've seen multiple failed login attempts from an unknown location. Reply ‘VERIFY’ now, before it’s too late. Just one more chance.
+receiver: Okay, okay, VERIFY likh raha hoon.  But what exactly is happening? Why is there so much activity?  Is my account really in danger?
+caller:  We need to confirm your identity to prevent fraud. That's why we require the ‘VERIFY’ response. If you don't respond quickly, we might have to temporarily suspend your account.
+receiver: Suspend my account? Seriously?  What kind of suspension?  Can I still access my money?
+caller: A temporary hold until we fully investigate. It’s standard procedure to protect your funds.  Just reply ‘VERIFY’ again, please.  It’s vital.
+receiver:  Okay, but I want assurance.  What if I say ‘VERIFY’ and then something goes wrong?  Who do I contact then?
+caller:  If you encounter any issues, you can call back our emergency hotline at 09876543210.  But please, prioritize replying ‘VERIFY’.  This is urgent.
+receiver:  Alright, alright. VERIFY… done.  But seriously, this feels strange.  I haven't used my phone much today.
+caller:  Thank you for your cooperation. We appreciate your swift action. Your ‘VERIFY’ has been processed.  Now, just wait for a confirmation SMS within the next few minutes.
+receiver: Confirmation SMS? When will that come?  And what will it say?
+caller: It will simply confirm that your verification was successful.  Please check your messages regularly.  That’s all.

@@ -1,0 +1,7 @@
+caller: Hello? Main Reliance Jio se Deepak bolta hoon. Aapke account mein kaafi time se dues pending hain, ₹3,500. Agar aap abhi clear nahi karte, toh connection cut ho jayega.
+receiver: Reliance Jio? Dues? Mujhe koi SMS ya notification nahi mila tha. Mein har mahine time par bill pay karta hoon.
+caller: Haanji, system mein error tha. Abhi fix ho gaya hai, lekin aapko abhi ₹3,500 pay karna padega taaki connection safe rahe. Aap Paytm se pay kar sakte hain, is number pe: 7891234567. Jaldi karo, connection cut hone wala hai!
+receiver: ₹3,500? Yeh bahut zyada lag raha hai. Mere plan ka bill toh ₹800 hi aana chahiye. Aur aapne mujhe OTP nahi bheja, kuch suspicious lag raha hai.
+caller: OTP? Haanji, woh OTP humko system se automatically jaata hai jab aap pay karte hain. Koi doubt mat karo, aapka connection important hai. Aur ₹3,500, woh outstanding charges hain, interest ke saath. Just pay now, otherwise, goodbye internet!
+receiver: Okay, wait a minute. Mein apne Jio app check karta hoon. (Pause) Haan, aap sahi bol rahe hain, ₹3,500 pending tha. Par interest kyon? Mujhe koi intimation bhi nahi di gayi. Aur abhi main pay nahi karunga, mujhe pehle customer care se baat karni hai.
+caller: Customer care mein line bahut busy hai, madam. Time nahi hai. Connection cut ho jayega. ₹3,500 abhi pay karo, otherwise. Aapko regret hoga!

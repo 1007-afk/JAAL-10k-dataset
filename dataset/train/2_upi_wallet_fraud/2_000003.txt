@@ -1,0 +1,11 @@
+caller: Namaste, suno, yeh Mr. Sharma ji bol rahe hain. Main Rajesh Kumar, DigiRewards helpline se baat kar raha huun. Kaise haal chal rahe hain? Mein aapko ek special offer batawana chahunga, jiska aap eligible hain. Kya aapko email reminder mila tha?
+receiver: Namaste, Rajesh ji. Haan, sunta hun. Special offer? Kaisa offer hai? Mujhe koi email nahi mila.
+caller: Haan, koi baat nahin. Toh mai aapko yeh voucher free mein mil sakta huun, lekin iske liye aapko sirf apna mobile number verify karna hoga. Number enter karne ke liye, apne phone par jo app dekhte hain, like WhatsApp ya Paytm, usmein jaakar apna number paste karo.
+receiver: Mobile number verify karna? Thoda seedha-seedha kaha karein? Woh app mein kaise entry karenge?
+caller: Seedha-seedha, WhatsApp mein jaa rahe hain. WhatsApp open karo, phir "Status" option par jao. Usme aapko "Send Message" wala option dikhega. Uss option par click karo aur mere number par message bhejo: 8765432109.
+receiver: Okay, WhatsApp mein message bhejna… Main kar rahi hoon. Message bheja! Done. Ab kya?
+caller: Haan, sab thik hai. Verification process shuru ho jayegi. Aapko ek SMS aaega, usmein verification code likhkar reply karna hoga. Code ko copy karo aur send karo.
+receiver: SMS aaya hai! Verification code 123456. Reply kar rahi hoon. Code bheja!
+caller: Haan, sab sahi hai! Congratulations! Aapko voucher deliver kar diya gaya hai. Is vouchers ko aap apne bank account mein transfer kar sakte hain. Account details aapko email se mil jayenge.
+receiver: Voucher deliver ho gaya? Bank account mein transfer? Wow! Email check kar rahi hoon…Haan, email aaya hai. Thank you so much, Rajesh ji!
+caller: Aapka swagat hai! Agar koi bhi confusion aaye, toh mujhse contact karte rehna. Har pal aapko best deals milte rahein!

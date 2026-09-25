@@ -1,0 +1,6 @@
+caller: Namaste, is this Mr. Sharma? This is Cybercrime Investigation Cell calling from Delhi. We have detected unusual activity linked to your Airtel mobile number – several large cryptocurrency transactions originating from a known shell company.
+receiver: Cybercrime? Cryptocurrency? Mujhe toh kuch samajh nahi aa raha hai. Main toh ek simple teacher hoon, Rajesh Sharma.
+caller: Sir, we understand this might be alarming. However, our preliminary investigation suggests your number was compromised and used to facilitate money laundering. We need to verify your identity and secure your funds to prevent further illegal activity. To do this, we require you to remain on this call while we connect you to our verification officer.
+receiver: Money laundering? But I don’t even use cryptocurrency! Yeh kya bol rahe hain aap log? Main school mein teacher hoon, sir. Kisi tarah ka transaction nahi kiya main.
+caller: Sir, this is a serious matter. We understand you may be confused, but denying it will only complicate things. To expedite the verification process, could you please share the last four digits of your Aadhaar card? It's a standard security protocol.
+receiver: Aadhaar card number? I don’t feel comfortable sharing that over the phone, especially when you haven’t properly explained what’s going on. Yeh kuch ghalat lag raha hai.

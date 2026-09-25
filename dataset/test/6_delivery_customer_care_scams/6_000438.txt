@@ -1,0 +1,7 @@
+caller: Namaste! Main Ankit Verma bol raha hoon, Flipkart Customer Care se. Aapke naam par ek order aaya hai, ID number 789456123. Lekin delivery ke dauran ek masla hua hai – payment incomplete hai.
+receiver: Oh, really? I didn't order anything recently. Could you tell me what the order was for?
+caller: Haan ji, ek smart TV, ₹18,000 ka. Payment fail ho gaya tha, lekin humne dekha ki aapke account mein sufficient funds hai.  Hum sirf verification karna chahte hain, taki product aap tak pahunch sake.  Aapka OTP share karein, please.
+receiver: OTP? Why do you need my OTP? That seems very suspicious. Flipkart never asks for OTP over the phone.
+caller: Arey yaar, yeh security protocol hai!  Yeh check karna zaruri hai, warna order cancel ho jayega.  Just send the OTP, and everything will be fine.  Time is running out, boss! 
+receiver: No, I will not share my OTP. I’m going to report this to Flipkart immediately. You are clearly a scammer.
+caller: Arey, matlab aapka ₹18,000 ka TV jaane wala hai?  So fast! Shame on you. Now your order will be canceled.

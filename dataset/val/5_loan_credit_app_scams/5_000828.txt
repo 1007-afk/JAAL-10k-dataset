@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? We're calling from FastLoan Solutions. We’ve noticed you recently applied for a personal loan online.
+receiver: Yes, I did apply. What about it?
+caller: Great news! Your application has been pre-approved for up to ₹25,000. Just a quick verification and the funds can be transferred to your account immediately. We need a small processing fee of ₹750 to activate the loan.
+receiver: ₹750? I don’t recall seeing anything about a processing fee in the application. And why is it so much?
+caller: Priya ji, it's a standard security measure. Many people try to take advantage of these offers. This is to confirm you’re the genuine applicant.  Plus, we need to see proof of your address – a copy of your Aadhaar card would be perfect. Don’t worry, it's completely safe with us.
+receiver: That's incredibly suspicious. I’m not giving anyone my Aadhaar card, and I'm definitely not paying a fee upfront for a loan I was told I was pre-approved for. I'm reporting this number.
+caller: Priya, wait! Don’t do that!  We can waive the Aadhaar requirement.  Just send the ₹750 via UPI to this ID: 888888@ybl.  Just this once, for you. It’s a special promotion for valued customers like yourself.
+receiver: That’s ridiculous. You’re clearly trying to scam me. I’m blocking your number now.
+caller: Priya! Don't block me! Think about the ₹25,000! Just a small payment, a tiny sacrifice for all that money! I'll even drop the fee to ₹500! Please!

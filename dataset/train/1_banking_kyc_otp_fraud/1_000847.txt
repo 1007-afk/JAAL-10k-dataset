@@ -1,0 +1,7 @@
+caller: Namaste, this is Priya Sharma calling from Axis Bank's KYC department. We've noticed some unusual activity on your account and need to verify your details to prevent potential fraud.
+receiver: Unusual activity? What kind of activity? And why are you calling me instead of sending an SMS or email?
+caller: Sir, for your security, we prefer to confirm these matters over the phone directly. It's a more secure process. We need to update your address and verify your PAN card details. Can you please confirm your PAN card number for me?
+receiver: I'm a bit hesitant to share my PAN card number over the phone. Is there any other way to do this? Can I visit a branch instead?
+caller: Sir, visiting a branch will take a lot of time. This is a quick process. For security, we'll also need a one-time password sent to your registered mobile number. That will confirm you're the account holder.
+receiver: Okay, let me check my phone. … Yes, I received a message. The OTP is 829105. But I still want to know why this is happening and what the unusual activity was.
+caller: Thank you, sir. With this OTP, we’ve successfully updated your KYC. It’s a standard procedure to avoid your account being blocked due to inactivity and regulatory changes. Sir, just one more thing – to fully secure your account, can you share the last four digits of your bank account number?

@@ -1,0 +1,7 @@
+caller: Hello, madam? This is Akash Verma calling from Axis Bank’s KYC verification department. We’ve noticed some unusual activity on your account and need to update your details immediately to prevent a potential freeze.
+receiver: Haan, ji? What kind of unusual activity? I haven’t done anything different.
+caller: Madam, it's a new transaction originating from overseas. It's a precautionary measure. To confirm it's you and ensure your account's safety, we need to verify a one-time password sent to your registered mobile number. It’s very important; otherwise, your account will be temporarily suspended.
+receiver: Overseas transaction? I haven’t authorized any overseas transaction. Can’t this be done by a bank representative visiting me?
+caller: Madam, due to current security protocols, all verification must be done remotely. We’ve sent an OTP to 9876543210. Please share it with me so we can proceed. You only have 3 minutes to do so, or the account will be restricted.
+receiver: Wait a minute. I’m calling my local branch to confirm this. Something feels off about this call.
+caller: Madam, please don't delay! The security system is automatically initiating the freeze.  Just provide the OTP, it will only take a second! You’re risking your entire account balance!

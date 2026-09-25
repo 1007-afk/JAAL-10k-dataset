@@ -1,0 +1,9 @@
+caller: Namaste! Calling from InstaLoan Pro. I see you recently applied for a loan on our website. Just a quick verification process to finalize approval. Can I get your name, please?
+receiver: Ji, mera naam Rohan Verma hai. Main apna business ke liye ₹75,000 ka loan apply kar raha tha.
+caller: Rohan ji, excellent! Your application looks promising. To proceed, we just need to confirm some details. We're offering a very special interest rate to new users. Can you provide me with your Aadhaar card number for verification? It’s standard procedure.
+receiver: Aadhaar card number? That sounds a bit… risky, sir. I’ve heard about data privacy issues.
+caller: Rohan ji, please don't worry. InstaLoan Pro is completely secure and compliant with all regulations. This is purely for identity verification and to prevent fraud. Without it, we can’t finalize your loan. Also, we need a small processing fee of ₹2,000 upfront.
+receiver: ₹2,000 now? But I thought I was getting a loan. And Aadhaar? I’m not comfortable sharing that.
+caller: Rohan ji, this processing fee is mandatory. Think of it as a security deposit. And the Aadhaar is crucial to ensure you're the rightful applicant. Without both, we will have to reject your application. We don’t want that to happen, do we?
+receiver: Okay, wait. Let me think about this. I’ll call you back.
+caller: Rohan ji, please don't delay! This offer won't last long. The interest rate is only this low for today! Think about it!

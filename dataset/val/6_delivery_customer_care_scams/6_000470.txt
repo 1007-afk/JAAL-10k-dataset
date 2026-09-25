@@ -1,0 +1,7 @@
+caller: Namaste! This is Anjali calling from FedEx customer care. We've identified an unusual hold on a parcel addressed to you. Seems there’s a discrepancy with the payment details.
+receiver: Oh really? I wasn’t expecting a parcel. What’s the sender and what kind of item is it?
+caller: It’s from ‘Global Mart’ and appears to be a high-value electronics item. The invoice indicates a significant amount, and our system flagged a potential payment issue. To release the parcel and confirm your identity, we need a quick verification.
+receiver: Verification? What kind of verification do you need? I haven't paid for anything.
+caller: Just a one-time OTP that we’ll send to your registered mobile number. This is standard procedure for secure package delivery. It will only take a moment. Can I confirm your mobile number ends in 7890?
+receiver: Yes, that’s correct. But why would there be a payment issue if I didn’t order anything?
+caller: Occasionally, fraudulent transactions can be linked to accounts. We’re simply taking precautions. Please provide the OTP so we can swiftly resolve this and get your parcel delivered. We need to confirm the details ASAP.

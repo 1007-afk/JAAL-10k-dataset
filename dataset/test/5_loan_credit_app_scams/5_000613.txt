@@ -1,0 +1,6 @@
+caller: Namaste! Main LoanPro Solutions se bol raha hoon. Aapke naam par ek personal loan approval aaya hai, ₹75,000 tak ka. Aapse ek verification call kar raha hoon. Aapka phone number sahi hai na?
+receiver: Loan approval? Mujhe toh koi request hi nahi kiya tha. Aur LoanPro Solutions kaun hain?
+caller: Ji, chinta mat kijiye. Yeh ek special offer hai hamare trusted customers ke liye. Aapki credit score bahut achhi hai, isliye aapko yeh offer mili hai. Verification ke liye bas kuch details dijiye.
+receiver: Credit score? Mere paas credit card bhi nahi hai. Aur aapko meri details kyu chahiye? Yeh kuch gadbad lag rahi hai.
+caller: Arre, gadbad nahi hai! Yeh aapke liye ek golden opportunity hai. Verification ke baad, ₹75,000 aapke account mein tax free deposit ho jayega. Lekin agar aap verify nahi karenge toh offer expire ho jayegi. Kuch bhi free mein nahi milta, sir. Aapko bas OTP dena hai.
+receiver: OTP? Kis number par? Mai ek bhi OTP nahi dene wala. Yeh ek scam hai. Aapko block kar raha hoon.

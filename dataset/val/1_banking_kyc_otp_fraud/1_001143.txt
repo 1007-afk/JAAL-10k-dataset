@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Axis Bank KYC department se bol raha hoon. Aapke naam par ek transaction hua hai, jo suspicious lag raha hai.
+receiver: Oh, really? Which transaction? I wasn’t expecting any big transactions.
+caller: Sir, ₹7500 aapke Paytm wallet se transfer ho gaya hai, ek unknown merchant account mein. Is transaction ko block karne aur aapki account secure karne ke liye, aapko kuch details verify karni padegi.
+receiver: ₹7500? That's a lot! Wait, hold on. I will check my Paytm account. But why do you need my details? Can’t you verify using my registered mobile number?
+caller: Sir, security protocol ke wajah se, mobile number se verify karna safe nahi hai. Humko sirf aapka OTP (One Time Password) chahiye jo aapko SMS karega, tabhi account block ho jayega aur paise wapas aayenge.
+receiver: OTP? But I've heard that scammers ask for OTPs. Are you sure you're from Axis Bank? Let me call Axis Bank customer care and verify.
+caller: Sir, time bahut kam hai. Agar aap OTP nahi share karenge toh woh transaction permanent ho jayega aur ₹7500 jaayenge. Please, just share the OTP quickly. It's a matter of minutes!
+receiver: I'm not sharing anything until I verify with Axis Bank directly. This feels very fishy.

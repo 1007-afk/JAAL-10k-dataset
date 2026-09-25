@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mein Vinay, FastLoan Solutions se baat kar raha hoon. Aapka loan application accept ho gaya hai, congratulations! Abhi kuch formalities complete karni hai.
+receiver: Oh, really? Bahut achha! Mein toh soch raha tha reject ho gaya hoga. Batao, kya formalities hain?
+caller: Sir, verification ke liye aapko apna bank statement aur latest salary slip chahiye. Aur ek small processing fee ₹2,500 deposit karni hogi, jo aapke account mein loan amount transfer hone se pehle kat jaayega.
+receiver: ₹2,500? Loan toh sirf ₹10,000 ka apply kiya tha! Processing fee itni zyada kyu hai?
+caller: Sir, ye security charges hain. Agar aap charges deposit nahi karte, toh aapka loan suspend ho sakta hai. Aur fir koi guarantee nahi ki aapko loan milega hi.
+receiver: Suspended? Yeh toh theek nahi lag raha. Mein police mein complaint kar dunga agar kuch wrong hua.
+caller: Sir, please calm down. Hum toh bas formalities complete karwa rahe hain. Aapka loan approve ho gaya hai, sir. ₹2,500 deposit karein, aur aaj hi aapko ₹10,000 mil jayenge. Apne bank account number bataiye, mai detail send karunga.

@@ -1,0 +1,9 @@
+caller: Hello, this is Deepak from QuickCash Loans. I see you recently applied for a personal loan through our website. Just confirming your details. Can I speak to the applicant, Mr. Sharma?
+receiver: Yes, speaking. This is Sharma.
+caller: Excellent, Mr. Sharma. Your application looks promising. We just need a small verification fee of ₹3,500 to process your loan of ₹75,000. It's a one-time charge to confirm your eligibility and prevent fraud, you know.
+receiver: ₹3,500? But I don't remember seeing anything about a fee on the website.
+caller: Yes sir, that's the latest security protocol. To transfer the fee, please send it to this UPI ID: loanverify@paytm. Once confirmed, your loan will be processed instantly. Also, to secure your identity, can you share a selfie holding your Aadhaar card? Just a precaution, you understand.
+receiver: A selfie with my Aadhaar card? That sounds a little risky.
+caller: Sir, it's standard procedure. Without it, we can't guarantee your loan approval and we risk processing the loan for someone else. We are worried about fraud, you see. And, if you refuse, we’ll be forced to cancel the loan application immediately. It's either pay the fee and send the selfie, or we cancel everything. Understand?
+receiver: Okay, okay. Just tell me, when will I actually get the loan money?
+caller: Absolutely, sir. Once the fee is received and the selfie verified, the ₹75,000 will be credited to your account within the next hour. We’re almost there, Mr. Sharma!

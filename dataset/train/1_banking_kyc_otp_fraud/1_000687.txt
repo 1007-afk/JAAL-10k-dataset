@@ -1,0 +1,13 @@
+caller: Namaste, main Vikram hoon. Aapne recently ek website par signup kiya tha, ‘ShineBright Solutions’ mein?
+receiver: Haanji, Vikram ji, woh main bhi ShineBright Solutions mein signup kiya tha.
+caller: Great! Main Rajesh hoon, customer support team se. Aapke account mein ek verification process chal raha hai. Aapko ek image send kiya tha, kya aapko woh mila?
+receiver: Haanji, Rajesh ji, woh image mila. Ek photo hai, right? Woh dekhkar puch rahe ho?
+caller: Haanji, exactly! Jaise mein bol raha hoon, ek small update chahiye tha. Account secure rakhne ke liye hume verification karte hain. Aapko dekho, image sahi hai na?
+receiver: Haanji, image sahi dikh raha hai. Par mujhe pata nahi, yeh verification kyon kar rahe hain?
+caller: Don't worry about that. Yeh just formality hai. Agar aapko koi doubt hai, to pooch sakte hain. Ab, main aapko ek exciting news bata sakta hoon – aapko ek new product launch ke liye invite kiya gaya hai!
+receiver: Really? Invite? Kaise?
+caller: Haanji, ShineBright Solutions ne aapko special discount de rahi hai. Is deal ko miss mat karo! Ismein aapko ek small survey bhi fill karna hoga.
+receiver: Okay, okay. Survey kaise hoga?
+caller: Aapko ek link bhejein ga, jaise pehle tha. Just click on it and follow the instructions. Isiliye, image verify karna important hai, agar woh sahi hai toh aapko link milega.
+receiver: Hmm, acha. Thank you, Vikram ji.
+caller: Aapka zaroor haathiya!

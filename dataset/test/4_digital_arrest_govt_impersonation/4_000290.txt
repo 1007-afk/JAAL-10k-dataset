@@ -1,0 +1,9 @@
+caller: Namaste, mai Indian Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin customs clearance mein kuch dikkat hai.
+receiver: Parcel? Mujhe toh koi parcel yaad nahi. Mai ne kuch order kia tha?
+caller: Ji, ek international courier hai. Usmein illegal items paaye gaye hain, jo drug trafficking se related ho sakte hain. Isliye aapko ek inquiry mein cooperate karna hoga.
+receiver: Kya? Illegal items? Mai toh kuch bhi illegal nahi order karta. Main ek teacher hoon, aur mai apni salary se hi chalti hoon.
+caller: Sir, yeh galat fehmi hai. Aapko aage ki process complete karne ke liye 15,000 rupees ka security deposit jama karna padega. Iske baad parcel release ho jayega, aur hum investigation complete kar lenge.
+receiver: 15,000? Lekin mai toh kuch bhi illegal nahi kar raha. Aur mai aapko koi bhi payment nahi karunga jab tak mai yeh parcel dekh na leya. Aap mujhe parcel tracking number de sakte hain? Ya customs office ka naam aur address?
+caller: Sir, tracking number confidential hai. Aur aapko parcel customs office mein dekhna allow nahi hoga. Yeh procedure hai. Payment karne ke liye aap UPI mein kar sakte hain. Mai number de dunga, jald se jald kar dijiye, case close ho jayega.
+receiver: Sir, mai koee payment nahi karunga, aur aapko meri police mein complaint karwa dunga. Aap fraudster hain.
+caller: Sir, aap galat kar rahe hain, case ko serious mein lein! Time khatam ho raha hai!

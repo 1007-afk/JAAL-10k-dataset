@@ -1,0 +1,10 @@
+caller: Namaste, mai Airtel se Rohit bolta hoon. Sir, aapke Airtel account mein kuch suspicious activity dikh raha hai.
+receiver: Kya? Suspicious activity? Kab se?
+caller: Sir, kal raat ko Maharashtra se ek number se aapke account se 5000 ka transaction attempt kiya gaya tha. Hamara security system ne ise block kar diya hai.
+receiver: 5000? Lekin maine koi transaction nahi kiya.
+caller: Sir, isko verify karne ke liye, mujhe aapka OTP chahiye. Mein aapko ek OTP bhej raha hoon. Wo bataiye, aur main check karunga.
+receiver: OTP? Sir, mujhe doubt ho raha hai. Airtel aise phone kar ke OTP manta hai kya?
+caller: Sir, security ke liye hamko OTP verify karna padta hai. Isko tarasal karna hoga, warna aapka account suspend bhi ho sakta hai. OTP bhej raha hoon, jaldi bataiye.
+receiver: Acha, theek hai.
+caller: Sir, OTP hai 123456. Jaldi bataiye, sir.
+receiver: Bhai, yeh to mera OTP nahi hai. Mujhe kuch samajh nahi aa raha hai.

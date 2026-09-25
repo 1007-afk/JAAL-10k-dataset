@@ -1,0 +1,11 @@
+caller: Namaste! Main Rahul Verma, FastCash Solutions se. Aapka naam Priya Sharma hai, correct? Aapne apni loan application submit kiya tha?
+receiver: Haan, main Priya Sharma. Maine application submit kiya tha, lekin mujhe koi confirmation nahi mili.
+caller: Bilkul, Priya Ji! Aapki application approved ho gayi hai! Abhi sirf ₹500 ka processing fee bhar deen, aur ₹15,000 instant aapke account mein transfer ho jaayega.
+receiver: ₹500 fee? Application form mein toh kuch nahi likha tha fee ke bare mein. Aur mujhe ₹15,000 ki loan ki zaroorat hai, itna kam amount.
+caller: Priya Ji, rules change sometimes, see? Is ₹500 se aapka account activate ho jayega, aur phir ₹15,000 toh aa hi jayega. Hamaara service bilkul secure hai, trust us! Agar aap abhi fee bhar den toh main aapko payment link send kar sakta hoon.
+receiver: Mein thoda sochti hoon. ₹500 fee bharne ke baad bhi interest rate kitna hoga? Aur repayment schedule kya hoga?
+caller: Priya Ji, interest rate sirf 10% hoga, very low! Aur repayment sirf 6 monthly installments mein ho jayega. ₹500 fee bharne ke baad main aapko full details send kar dunga. Hurry up, offer valid only for today!
+receiver: Okay, thik hai. Mujhe payment link send karo. Mein check karti hoon.
+caller: Excellent! Wait a second, sending the link now... This is a secure UPI link, just enter your details and complete the transaction. Very easy!
+receiver: (Silence)
+caller: Priya Ji? Kya aap link open kiya? Transaction kar diya?

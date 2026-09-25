@@ -1,0 +1,7 @@
+caller: Hello, is this Neha? My name is Arnav, I saw your profile on 'ConnectHearts' - you seem lovely! I'm a marine engineer, currently working on a rig off the coast of Singapore. Just looking for someone special to share my life with. Feel free to message me on WhatsApp: +65 8765 4321. First message is on me!
+receiver: Hi Arnav, thanks for reaching out! A marine engineer? That sounds interesting. Singapore, huh? Quite far from here.
+caller: It is! But the work is good, pays well. It's lonely though, especially at night. I was thinking, maybe we could video call later? I'd love to see your face. I'm sending you my WhatsApp number again, +65 8765 4321.
+receiver: Sure, I’m Neha, by the way. I’m a teacher. A video call sounds nice. I’m a little busy today, but maybe tomorrow evening?
+caller: Wonderful! I’m really looking forward to it. Listen, my mom isn’t feeling well. She needs a small operation, but I’m stuck here until the repairs are done. It's about ₹50,000. Can you possibly help me out a little? I’ll pay you back double as soon as I get back.
+receiver: ₹50,000? That's a lot of money, Arnav. I'm sorry to hear about your mom, but I'm not really in a position to lend that much right now. It seems a bit sudden too, after just knowing you for a short time.
+caller: Please, Neha, it would really mean the world to me. My family is counting on me. Just a small contribution will save her life. I

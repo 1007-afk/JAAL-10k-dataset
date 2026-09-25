@@ -1,0 +1,6 @@
+caller: Namaste! Main XYZ Courier se Rohit bol raha hoon. Aapke Flipkart order number FLP7890123 ka delivery mein thodi dikkat aa rahi hai. System mein error dikha raha hai.
+receiver: Oh, okay! Flipkart ka order? Main toh miss call dekh raha tha. Kya problem hai?
+caller: Ji, address verify karne mein problem ho raha hai. Aapka OTP share karein, taaki main system update kar sakoon aur delivery karwa sakoon. OTP hai 123456.
+receiver: OTP? Usse kuch clear ho jayega? Yaar, mujhe thoda doubt ho raha hai. Flipkart toh aise OTP nahi puchta.
+caller: Sir, security ke liye zaroori hai. Agar aap OTP nahi denge toh order hold ho jayega aur aapko delivery ke liye wait karna padega. Koi aur option nahi hai.
+receiver: Thik hai, wait karunga. Mujhe Flipkart customer care pe call karke check kar lena chahiye. 0808080808 number pe call karta hoon.

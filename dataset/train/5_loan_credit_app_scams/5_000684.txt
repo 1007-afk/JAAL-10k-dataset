@@ -1,0 +1,7 @@
+caller: Hello! This is SecureCreditSolutions calling. We've noticed you've been searching for quick loans online. We can approve you instantly for up to ₹50,000 with minimal paperwork. Just a few quick details, and you're good to go.
+receiver: Really? That sounds too good to be true. I've had bad luck with loans in the past, and I'm a little wary. What’s the catch?
+caller: No catch, sir! We understand. It's a promotional offer for new customers. All we need is to verify your identity. Could you please share your PAN card number for quick verification? It's completely secure, we assure you.
+receiver: My PAN card? I don't think that's necessary for a loan application. Usually, it's just Aadhaar or something. And what’s the interest rate like? It shouldn't be too high.
+caller: Aadhar can take longer. PAN helps us process it quicker. The interest rate is competitive, around 18% per annum. But think of it – ₹50,000 in minutes! Now, just the PAN number please. Also, for security, can you confirm your mother's maiden name?
+receiver: 18%? That’s pretty high. And you want my mother's maiden name too? I'm becoming increasingly uncomfortable with this. I think I'll just stick with my bank. I'm going to hang up now.
+caller: Wait! Don't hang up! We’re almost there. As a final gesture of good faith, we'll waive the processing fee – that’s ₹2,500 saved! Just one last detail, your bank account number so we can deposit the funds directly. Don't miss out on this incredible offer!

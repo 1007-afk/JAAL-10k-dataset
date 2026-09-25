@@ -1,0 +1,14 @@
+caller: Namaste sir! Apne ek bahut badi khabar suni hai - aapne ₹50000 ka lottery jeeta hai! Ye bilkul asli hai, koi bakwaas nahi! Hamara IT department aapki account ko verify karna chahta hai. Bas aapko hume ek OTP request karna hoga. OTP aapko SMS se milega. Number hai 09376878901. Agar aapko koi confusion ho toh aapko humein phir se call karna hoga. Agar aap OTP naye number par dalnaa seekhte hain, toh tumhari account blocked ho sakti hain!
+receiver: Namaste! ₹50000? Seriously? That’s fantastic! Okay, I understand. What exactly do you need from me?
+caller: Sir, humare system mein aapki identity check karne ke liye OTP required hai. Yeh sirf verification ke liye hai, kisi bhi gadbad ke liye. OTP aapko abhi hi milega, fir aap usko humein send kar dein. Agar OTP send nahin hoga, toh hum aapko account open nahin kar paenge.
+receiver: Okay, fine. But can you tell me who I am talking to? And what company is this?
+caller: Aapko baat kar rahe hain Rohan Sharma, IT department se. Hum Bharat Digital Solutions Pvt Ltd mein kaam karte hain. Yeh account verification ke liye call hai.  Aapki account mein ₹50000 deposit hone wali hai, isliye verification compulsory hai.
+receiver: Bharat Digital Solutions? I haven't heard of that before. Can you give me your office address?
+caller: Office address? Hmm... woh jab tak pata nahi, sir. Verification process mein yeh information needed nahi hai.  Jab aap OTP send karenge, tab toh hum aapko sab details batayenge.  Parantu, yeh OTP aapko secure message app se milega, WhatsApp ya Telegram nahi.
+receiver: Secure message app… okay. And how long will I have to wait for the OTP?
+caller: OTP aapko 5 minute mein mil jayega.  Agar 5 minute mein OTP nahin milega, toh aapko humein phir se call karna hoga.  Parantu, agar aap OTP late kar dete hain, toh aapki prize lost ho sakti hai!  Jaldi se OTP receive karein!
+receiver: Ji, samajh gaya. Main OTP request karunga. Thank you for all the information!
+caller:  Arre, koi baat nahi!  Just make sure you don’t share your OTP with anyone.  Yeh very important hai!  And remember, speed is key!  Jaldi se OTP send karein, aur apni lottery prize jeet lo!  Best of luck!
+receiver: Ji, samajh gaya. I’ll keep that in mind. Thank you once more!
+caller:  Great!  Main aapko wish kar raha hoon.  Agar koi problem hai, toh humein phir se call karein.  Bye bye!
+receiver: Bye bye!

@@ -1,0 +1,8 @@
+caller: Namaste! Caller speaking. You received a notification regarding your old banking account from 2018, right? There’s a significant amount – 942 credits – that needs immediate attention. We need to quickly verify some information. What’s your full name please?
+receiver: Ji, main Vikram hu. Thaak gaya, message mila tha. Kaisa hai? Haan, credit ki baat kar rahe hain, yeh to sach hai. Kya karna hai?
+caller: Wonderful, Vikram! Glad to connect. Now, to release those 942 credits, we require a quick confirmation. Firstly, can you tell me the postcode associated with your 2018 account? Just the first four digits will suffice.
+receiver: Ji, mera postcode hai 411001. Koi aur sawaal hai?
+caller: Excellent, 411001. And secondly, could you please provide the email address registered against this account, Vikram? This is crucial for processing.
+receiver: Email? Hmm, mujhe yaad nahi aa raha, lekin… ‘vikram.singh99@gmail.com’ shuru mein hota tha. Batao, koi aur cheez hai?
+caller: Very good, vikram.singh99@gmail.com. Finally, just for our records, can you state the last three digits of your phone number connected to the account? This ensures secure access.
+receiver: Haan, last three digits hain 234. Confirm ho gaya? Ab mein credit le sakta hun?

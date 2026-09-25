@@ -1,0 +1,8 @@
+caller: Namaste, madam. Main State Bank of India se Deepak Verma bol raha hoon. Aapki account security ke liye ek urgent notification hai.
+receiver: Hello? Deepak Verma? What’s the matter?
+caller: Madam, humein aapke account se Gujarat mein ek online transaction ka attempt dikha hai. ₹12,000. Aapne kiya tha ya nahin?
+receiver: ₹12,000? Nahin, maine koi transaction nahi kiya. Yeh to scam lag raha hai!
+caller: Madam, chinta mat kijiye. Hum bas verification karwa rahe hain. Account safe rakhne ke liye aapko OTP mil raha hai. Please share the OTP with me so I can block this suspicious transaction immediately. It’s very important.
+receiver: OTP? Aapko mera OTP chahiye? Main bank ko kabhi bhi OTP nahi deta! Yeh toh phir se wahi scam hai!
+caller: Madam, please understand, it is very urgent. We need to act fast before the transaction goes through.  I'm sending you a link to a secure portal to update your KYC. Just click on it and fill in your Aadhaar number and PAN card details.
+receiver: Secure portal? Absolutely not! I know this is a scam. I'm reporting this number to the cybercrime cell right now. Goodbye!

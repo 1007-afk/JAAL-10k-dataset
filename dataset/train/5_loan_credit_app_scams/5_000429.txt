@@ -1,0 +1,7 @@
+caller: Hello, this is Priya calling from ‘RupeeFirst’ loan app. We’ve pre-approved you for a quick loan of ₹50,000. Just need to verify a few details to process it.
+receiver: ₹50,000? Wow, that's great! But I didn't apply for a loan. Is this for real?
+caller: Yes, sir! It’s a promotional offer. To activate the loan, we need a small processing fee of ₹2,500 as security. You can deposit it in this UPI ID: 9876543210@ybl.
+receiver: ₹2,500? For processing? I thought loans were free to apply for. And why UPI?
+caller: Sir, this is a standard procedure to prevent fraud and confirm your commitment. Don't worry, it will be credited back to your account after the loan is disbursed. It's a one-time fee. Do it quick, offer valid only for an hour.
+receiver:  Hmm, it still sounds a little fishy. Can I speak to your supervisor? I want to be sure.
+caller: Sir, my supervisor is in a meeting. This is a time-sensitive offer, and delaying it will result in the approval being cancelled. Once the fee is cleared, your loan will be disbursed within 15 minutes. Don’t miss out!

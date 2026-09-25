@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? My name is Ankit from Axis Bank Secure Services. We've detected some unusual login attempts from a foreign IP address on your Axis Bank account. To prevent unauthorized access and protect your funds, we need to verify some details.
+receiver: Haanji, Mrs. Verma ki line hai. Axis Bank se phone aa raha hai? Foreign IP address? Yeh kya ho raha hai?
+caller: Ji haan, madam. It's a precautionary measure. We’ve noticed someone tried to access your account from Indonesia. It's crucial we secure your account immediately. For verification purposes, can you please provide the OTP that just arrived on your registered mobile number?
+receiver: OTP? Maine toh abhi koi OTP nahi mila. Aur Indonesia se access? Main toh kabhi Indonesia nahi gayi! Yeh thoda suspicious lag raha hai.
+caller: Madam, sometimes there's a slight delay in OTP delivery. Please check your messages again. It’s extremely important that you provide this OTP urgently. If we don't verify your account within the next few minutes, we will have to temporarily suspend your account for security reasons.
+receiver: Ok, let me check… Haan, abhi mila OTP. Par main kyun OTP bataun? Agar account suspend bhi ho jaaye toh chalo baat, but main apna OTP kisi ko bhi nahi bataungi.
+caller: Madam, please understand, this is standard procedure. It's to protect *your* money. Just provide the OTP, and we’ll be done in a moment. Account suspension will affect all your online transactions. It's a simple process to keep your account safe.

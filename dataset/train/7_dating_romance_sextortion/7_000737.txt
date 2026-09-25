@@ -1,0 +1,7 @@
+caller: Hello, sweetheart! Hope you're having a wonderful evening. I’ve been thinking about you all day, it's been crazy busy with work, but you always pop into my head. Just wanted to send a little hello and see how you’re doing! 😊
+receiver: Hi! Aah, you too! Work must be hectic. Yeah, everything's fine here. What kind of work are you doing today?
+caller: It’s a big project for a tech startup, lots of late nights. Honestly, I’m exhausted. I wish I could just whisk you away to Goa for a week, relax on the beach. We could have so much fun. I was thinking… maybe for my next bonus, I could surprise you with a trip?
+receiver: Goa sounds amazing! That’s so sweet of you to even think about that. A surprise trip… wow. But that must be a lot of money. Are you sure that's a good idea?
+caller: Don’t worry about the money, darling. It would be worth every rupee to see you smile. I just need to transfer the funds to a travel agent. There’s a slight issue – my bank is being difficult. Could you possibly help me out by sending ₹15,000 to this specific account? It’s just to get the ball rolling, I’ll pay you back immediately when I get my bonus. The account details are: [made-up account number]. Please, it’s really important.
+receiver: Fifteen thousand? That seems like a lot for a "ball rolling." And why can't you just transfer it yourself? I'm a little uncomfortable with this, to be honest.
+caller: Oh, sweetheart, please don't be alarmed! My bank is having a temporary security glitch. It’s just a standard procedure to verify the transaction through a third

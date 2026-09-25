@@ -1,0 +1,9 @@
+caller: Hello sir/madam, my name is Akash calling from LoanPlus. We're offering instant personal loans with very easy terms. Are you looking for a quick loan today?
+receiver: LoanPlus? I haven't heard of it. What are the interest rates like? I need a small amount, maybe 30,000 rupees.
+caller: Wonderful! For a first-time customer like you, we have a special rate of just 12% per annum. Very competitive. To proceed, I need to verify your identity. Could you share your PAN card details? It’s a standard security measure.
+receiver: PAN card details over the phone? Isn't that risky? Can’t I just verify something else?
+caller: Sir, it's absolutely secure. We use top-level encryption. Think of the loan! Once verified, the money will be in your account within minutes. But, as a precaution, we need to confirm you’re not a fraudster. Please share the first four digits of your PAN card.
+receiver: Okay, fine. It’s 1234.
+caller: Thank you, sir. Now, to ensure your safety and prevent misuse of your information, we need to send a one-time password to a trusted contact. Please provide the name and phone number of a close friend or family member. This is just a formality.
+receiver: Wait, what? Why do you need my friend's number? This is getting weird.
+caller: Sir, please don't misunderstand. It’s to protect you! If anything goes wrong, we can contact them. Otherwise, your loan will be pending and you’ll lose the opportunity. Give me the number, and the loan will be processed immediately.

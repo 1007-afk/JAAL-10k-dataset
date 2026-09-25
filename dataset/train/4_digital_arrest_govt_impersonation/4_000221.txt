@@ -1,0 +1,8 @@
+caller: Hello, is this speaking with Mrs. Sharma? We're calling from the Directorate of Revenue Intelligence, Mumbai. We’ve detected an unusual transaction of ₹1200 linked to your bank account, originating from a cryptocurrency exchange.
+receiver: Haan, main hi Mrs. Sharma. ₹1200? Cryptocurrency? Main toh kabhi cryptocurrency nahi karti. Aap kaun bol rahe hain?
+caller: Yes, Mrs. Sharma. I am Inspector Verma, and this is regarding a potential violation of foreign exchange regulations. This transaction is flagged as possibly linked to illegal online gambling. We need to verify some details to ensure you're not unknowingly involved. Can you confirm your address for me?
+receiver: Illegal gambling? Mere naam pe? Address kyun chahte hain? Ye sab bahut hi shudaad lag raha hai.
+caller: Mrs. Sharma, we understand your apprehension. But to clear this up quickly, we require you to download the ‘SecureVerify’ app on your phone and grant it access to your contact list. It's a standard procedure to identify any associated individuals who might be connected to this activity.
+receiver: SecureVerify app? Contact list access? Nahin, main yeh app nahi download karungi. Yeh to fraud lag raha hai!
+caller: Mrs. Sharma, your cooperation is essential. If you refuse to assist, we’ll be forced to escalate this to a legal inquiry, which will be much more complicated for you. Just a few minutes with the app and we can resolve this.
+receiver: Legal inquiry? Mere khilaf? Main toh kuch bhi galti nahi karti! Main police station mein complaint karungi.

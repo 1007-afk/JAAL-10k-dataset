@@ -1,0 +1,7 @@
+caller: Namaste, main Flipkart se Rohan bol raha hoon. Aapke naam par ek parcel aaya tha, lekin delivery ke dauraan ek choti si problem ho gayi.
+receiver: Flipkart? Kya problem hai? Mujhe toh koi notification nahi aaya.
+caller: Haan sir, parcel mein kuch damage hua tha. Usse samajh mein nahi aa raha ki kaise deliver karein. Flipkart policy ke according, humein ek small verification fee collect karni padegi. ₹499 sirf.
+receiver: ₹499? Verification fee? Flipkart aise nahi karta. Mujhe doubt ho raha hai.
+caller: Sir, yeh standard procedure hai. Agar aap fee pay kar denge, toh hum parcel deliver kar denge. OTP sir, OTP mil jayega SMS par. Vo bata dijiye.
+receiver: Ruk jao! Main abhi check karta hoon. Flipkart customer care number toh mil jayega na? Main wahaan call karta hoon.
+caller: Sir, aap time barbaad mat karein. Offer limited time ke liye hai. Jaldi karein, warna parcel wapas store mein chala jayega. Aapka loss ho jayega. Just bata dijiye OTP.

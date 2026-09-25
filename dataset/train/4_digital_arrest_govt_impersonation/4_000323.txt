@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Rajesh Kumar? My name is Inspector Singh, calling from the Central GST Investigation Wing.
+receiver: Haan, ji, bolie. Yeh main Rajesh Kumar. Kya hua, Inspector Sahab?
+caller: Sir, we’ve detected some unusual activity linked to your bank account – large, frequent transfers to offshore accounts. It appears to be connected to a potential hawala operation.
+receiver: Hawala? Lekin, sir, main toh ek chhota sa businessman hoon. Main jewellery ka business karta hoon, small scale. Bilkul saaf dhanda hai.
+caller: Sir, these things can happen unknowingly. We need to verify some details to ensure you're not being exploited. To avoid legal complications and potential asset freezing, we require a small settlement fee – 50,000 rupees – to demonstrate your cooperation. We'll keep you on a video call so you don’t contact anyone.
+receiver: Paanchash hazar? Sir, yeh kitna zyada hai! Main toh itna paisa nahi de sakta.  Aur video call kyun? Main koi criminal nahi hoon.
+caller: Sir, this is a standard procedure. We need to be absolutely certain. Think of it as a security deposit, refundable once the investigation is complete. Failure to comply will unfortunately lead to an FIR being filed.  Can you make the payment through UPI to this number: 9876543210?
+receiver:  FIR? Sir, please, give me some time to talk to my lawyer. I need to understand this properly. This seems very suspicious.
+caller: Sir, time is of the essence.  Every minute delays the process. The court will be very harsh.  Can you at least confirm you received the UPI details?  Do it now, Rajesh Kumar.
+receiver: No, I will not confirm anything.

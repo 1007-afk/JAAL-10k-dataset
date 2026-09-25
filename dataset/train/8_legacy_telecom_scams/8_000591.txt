@@ -1,0 +1,11 @@
+caller: Namaste! Kaise ho? Main Bharat Lottery Company se bol raha hoon. Aapko ek bada jackpot mila hai – ₹15,000,000! Ye ek special draw hai, sirf ₹500 ka ticket bharta hua hai.
+receiver: Namaste ji! Suniye, mein samajh nahin raha. Jackpot kaise? ₹15,000,000? Kya puch rahe ho?
+caller: Haan ji, suniye! Aapko ek lucky number mila hai aur aapko yeh prize mil gaya hai! Agar aap 09876543210 pe jo karna chahte hain, toh landline se call karna hoga. Code Z23 batao. Yeh offer sirf 24 ghante ke liye valid hai. Mat karo delay!
+receiver: Landline se call? Kahan se milega landline? Mobile se hi call kar sakta hu. Aur yeh Z23 code kya hai? Yeh sab toh bahut confuse karta hai.
+caller: Arre, mobile se nahi hoga, sir. Yeh official procedure hai. Koi bhi landline chalega - apne uncle ka ya kisi dukaane ka. Unhe bol dijiye ki aapko call karna hai. Aur Z23 code aapko notification mein milega.  Yeh ek special promotion hai, abhi claim karna hai.
+receiver: Uncle ka landline? Unka number kya hai? Aur notification mein code milega? Fir main kya karna parega?  Aap bataiye.
+caller: Sir, mai aapka naam disclose nahi kar sakta.  Aur yeh koi official lottery company nahi hai, yeh ek promotional campaign hai.  Agar aapko yakin karna hai, toh aap Google pe "Bharat Lottery Promotion" search kar sakte hain.  Par jaldi karna hai, 24 ghante ke andar claim karna hai.  Mat karo delay, paisa aapka hai!
+receiver: Google pe search karunga. Lekin yeh sab itni hurry mein hai, mujhe samajh mein nahi aata.  Jab main landline se call karunga toh woh kya kahenge?  Aur unhone mujhe koi confirmation letter nahi diya hai, kya?
+caller:  Sir, jab aap call karenge, toh wo aapko bolhenge ki aapko verification process karna hai.  Verification process mein aapko kuch documents submit karne honge.  Phir aapko paisa milega.  Confirmation letter? Woh ek digital receipt hoga, aapko email mein milega.  Mat karo delay, time over ho jayega!
+receiver: Email mein receipt?  Mein toh email nahi karta.  Mujhe yeh sab seedha fraud lag raha hai.  Main aapko koi number nahi deta.
+caller:  Arre, matlab aapko prize nahi chahiye?  Koi baat nahi, koi aur deserving person ko milega.  Par agar aap change of mind karte hain, toh 09876543210 pe call karein.  Yeh offer sirf aaj raat ke liye valid hai!

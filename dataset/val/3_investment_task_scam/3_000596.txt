@@ -1,0 +1,7 @@
+caller: Namaste! I'm calling from CryptoGainz. We've identified you as a potential high-earner based on your online activity. We’re offering a limited-time opportunity to participate in a new DeFi project – StellarRise.
+receiver: CryptoGainz? DeFi? I've heard about those, but I'm not really involved in crypto. What kind of opportunity are we talking about?
+caller: It’s a simple task-based referral program. You refer people to StellarRise using your unique code, and for every successful referral who invests ₹2000, you get ₹500 instantly. Very easy, very lucrative. Your referral code is SG789.
+receiver: ₹500 for every ₹2000? Sounds alright, but how do I know this isn’t a scam? I've seen a lot of those going around. Can you show me some proof of payouts?
+caller: Absolutely! We can process a small test payment to show you it works. First, you need to verify your wallet address and deposit a small activation fee of ₹500 to unlock your referral link. It’s just to prevent bots, you see. Transfer it to this UPI ID: 9876543210@axisbank.
+receiver: A ₹500 activation fee? That wasn’t mentioned before. And sending money to a UPI ID feels… risky. I’m not comfortable with this. I think I’ll pass, thank you.
+caller: Arey, don't miss out! This is a fantastic chance to make some easy money. The offer expires in just one hour! Just ₹500 now will earn you hundreds later. Think about it, beta!

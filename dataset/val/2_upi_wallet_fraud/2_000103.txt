@@ -1,0 +1,7 @@
+caller: Namaste, suno, mai Axis Bank se Deepak Sharma bolta hoon. Aapke account mein ek suspicious transaction attempt kiya gaya hai.
+receiver: Kya? Kaise? Mujhe toh koi message nahi aaya. Woh transaction attempt kitmana tha?
+caller: Woh 50000 rupay ka tha, sir. Abhi cancel ho gaya hai, lekin aapko security ke liye verify karna hoga. Verify karne ke liye, apne PhonePe app mein jaakar ek OTP enter karna hai.
+receiver: PhonePe? Lekin phonepe mein toh koi OTP nahi dikh raha hai. Aur aapka phone number kya hai? Mai check kar sakta hoon ki yeh genuine call hai ya nahi.
+caller: Sir, jaldi karna hai. Account block hone se pehle verify karna hoga. PhonePe mein 'Security Update' section mein dekhiye. OTP aapko wahaan milega. Time bahut kam hai, sir, sirf 10 minute.
+receiver: Arre yaar, mujhe security update section nahi mil raha hai. PhonePe app mein toh kuch aur options dikh rahe hain. Kya aap mujhe ek screenshot bheaj sakte hain?
+caller: Sir, screenshot bhejna possible nahi hai. Mujhe aapka OTP chahiye. Agar aap verify nahi karenge toh aapka account freeze ho jayega aur 50000 rupay scammer ko chale jayenge.

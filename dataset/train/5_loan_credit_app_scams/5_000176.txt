@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Anjali Verma calling from FastCash Loans. We saw your recent loan application online. There's just a small verification needed before we can process your loan. Do you have your PAN card details handy?
+receiver: Hello, yes I do. What’s this verification for?
+caller: Ji, it’s a standard procedure to confirm your identity, sir. Can you please read out the first three letters of your PAN card number to me?
+receiver: Sure, it's ABC.
+caller: Excellent. Thank you for that. Now, for security purposes, we need to send a one-time password to your WhatsApp number. Could you please confirm your registered WhatsApp number?
+receiver: It's 9876543210.
+caller: Wonderful. We’ve sent a code. Please tell me the OTP once you receive it, sir. It's crucial to unlock your loan.
+receiver: Okay, I got it. It’s 789012.
+caller: Fantastic! Your account is verified, sir. Your loan of ₹75,000 has been approved, but there's a small processing fee of ₹10,000 that needs to be deposited immediately to activate the loan. Please transfer it to this UPI ID: [fake UPI ID].

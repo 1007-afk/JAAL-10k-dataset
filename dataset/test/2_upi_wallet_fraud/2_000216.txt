@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Amazon se Rahul bol raha hoon. Aapke Amazon account mein ek suspicious transaction hua hai – Rs. 5000 ka.
+receiver: Amazon? Mujhe koi notification nahi aaya. Kya transaction detail bata sakte ho?
+caller: Haan, sir. Transaction ID hai AMZ-789012. Yeh ek UPI transaction hai, Paytm ke zariye. Lagta hai koi aapke account se payment karne ki koshish kar raha hai.
+receiver: Paytm se? Main toh kabhi Paytm use nahi karta. Ye fraud lag raha hai.
+caller: Haan sir, lekin aapko yahan ek OTP milega, woh share karein, hum usse verify kar sakte hain aur block kar sakte hain. Agar aap OTP nahi share karenge toh account freeze ho jayega aur paisa chala jayega.
+receiver: OTP? Meri OTP kabhi bhi share nahi karunga. Mein Amazon customer care ko khud call karta hoon. Aapko kisi bhi number par call karne ki zarurat nahi hai.
+caller: Sir, samjho.  Aapko Paytm app mein 'Verify Transaction' naam se ek button milega. Vahin OTP daalna hai. Jaldi karo, sir! Account block hone se pahle.

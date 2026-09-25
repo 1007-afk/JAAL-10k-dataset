@@ -1,0 +1,7 @@
+caller: Namaste, Madam. My name is Rahul Sharma, calling from Axis Bank’s KYC verification department. We’ve noticed some unusual activity on your account and need to urgently update your details to prevent suspension.
+receiver: KYC verification? But I haven't received any SMS or email about this.
+caller: Yes, Madam, it’s a new security protocol. We’re implementing stricter measures to protect our customers. To proceed, could you please share the OTP that just arrived on your registered mobile number? It’s a one-time password.
+receiver: Wait a minute. Axis Bank usually sends these things via SMS. I haven't got anything. And why are you calling without confirming my name and account number first?
+caller: Madam, we’re experiencing high call volumes.  Confirmation takes extra time and slows the process. We need to act quickly to prevent account compromise. Your account could be blocked within the next hour if we don’t verify this. Just the OTP, please. It’s just 6 digits.
+receiver: This is very concerning. I will call Axis Bank directly from their official number on their website to verify this. I'm not sharing any OTP over the phone based on an unsolicited call. Thank you for your call.
+caller: Madam, please don’t do that! You're making a huge mistake. Our systems are experiencing issues and a direct call will take too long. Your account is at serious risk right now.  Just a few more seconds...

@@ -1,0 +1,6 @@
+caller: Namaste, mera naam Rohit Verma hai, mai Axis Bank se bol raha hoon. Aapke naam par ek new transaction detect hua hai, jo suspicious lag raha hai. Aapko isko verify karna hoga.
+receiver:  Kya? Transaction? Kaun sa transaction? Mujhe toh kuch yaad nahi aa raha.
+caller:  Ji, ₹12,000 ka transaction Nepal mein hua hai.  Yeh account se unauthorised withdrawal hai.  Aapko apne OTP ko confirm karna hoga, tabhi account secure hoga.  Mai aapko SMS kar raha hoon, OTP check karke mujhe bataiye.
+receiver: OTP?  Mai toh kisi bhi site par OTP nahi daalta. Yeh scam lag raha hai.  Aap bank se phone kar rahe hain, confirm karo.
+caller: Sir, hum bank se hi call kar rahe hain.  Account suspend hone se bachne ke liye, fast action lena zaroori hai.  Aapka OTP 487293 hai.  Confirm karke bataiye, please.  Account block ho jayega, toh phir recover karna bahut mushkil ho jayega.
+receiver:  Wait a minute…  Mai apne Axis Bank app check karta hoon.  Wahaan koi notification nahi hai.  Yeh toh fake call hai!

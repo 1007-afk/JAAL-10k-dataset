@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein SecureCredit se Sunil bol raha hoon. Aapka loan application approve ho gaya hai, bahut achha news! Ab sirf verification process complete karna hai.
+receiver: Oh, really? That’s great news! I did apply for a loan recently. What verification do you need?
+caller: Haan sir, humein aapke bank account ke details ki zaroorat hai, aur ek small processing fee - sirf ₹2500. Yeh fee aapke account se deduct ho jayegi, verification ke baad aapko pura loan mil jayega.
+receiver: ₹2500? But the website didn’t mention any processing fee. And why do you need my bank details directly? Shouldn’t I just go to the bank?
+caller: Sir, internet pe fraud bahut hota hai. Hum direct bank details lete hain, secure system se. ₹2500 fee bina refuse kie nahi chalega, sir. Agar aap loan nahi lena chahte, to maaf karna.
+receiver: Wait, wait! Something feels wrong. I’m not comfortable giving my bank details over the phone. I’ll call my bank and check.
+caller: Sir, time bahut kam hai, offer sirf aaj ke liye valid hai. ₹2500 fee transfer karein, otherwise offer expire ho jayega aur aapka loan bhi cancel ho jayega. Koi aur chance nahi hoga!
+receiver: Okay, hold on a minute. I'm ending this call. I'm calling the police.

@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Deepak bol raha hoon. Aapke naam par ek international transaction ka attempt hua hai, jo block ho gaya hai. Account secure karne ke liye, humein kuch details verify karne hai.
+receiver: Axis Bank? International transaction? Mujhe toh koi notification nahi aaya.
+caller: Sir, security reasons se notification delay ho sakta hai. Aapka account suspend hone se bachne ke liye, please apna registered mobile number par aane wala OTP bataiye.
+receiver: OTP? Par kaise? Main toh kabhi bhi international transaction nahi kiya.
+caller: Sir, yeh ek fraud attempt hai, aur humein jaldi se verify karna hai. OTP se pata chalega ki aap hi account use kar rahe hain. OTP mein 4 digits hain. Jaldi bataiye sir, time kam hai.
+receiver: Yeh toh kuch bhi lag raha hai. Phir bhi, OTP hai 1234.
+caller: Thank you sir. Ab please apna PAN card number bataiye taaki hum account details verify kar sake. Yeh procedure compulsory hai, sir.
+receiver: PAN card? Thoda wait karo, mein check karta hoon.

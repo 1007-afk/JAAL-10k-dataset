@@ -1,0 +1,9 @@
+caller: Hello, is this Rohit? I’m calling from SwiftCash Loans. We’ve reviewed your application and you’re pre-approved for a quick loan of up to ₹75,000. Just need to verify a few things.
+receiver: Oh, really? That’s good news. I was hoping to get a loan for some medical bills.
+caller: Fantastic! Medical bills are important. So, Rohit ji, what’s your current occupation and how long have you been working there? And could you tell me your mother's maiden name for security?
+receiver: I work as a data entry clerk at TechSolutions. Almost three years now. My mother's maiden name was Sharma.
+caller: Excellent, Rohit. Everything looks good so far. To finalize the loan, we just need a small processing fee of ₹2,500 to be deposited into our account. It's refundable, of course, once the loan is approved. Account number is 1234567890, IFSC code is SBIN000001.
+receiver: A processing fee? I wasn’t expecting that. Shouldn’t the loan be released first?
+caller: Rohit ji, this is standard procedure. Think of it as an insurance against fraud. Just a small amount to protect both of us. Once we receive the fee, your loan will be disbursed within 15 minutes. Don't miss this opportunity, Rohit! It’s a great rate.
+receiver: Okay, I'll transfer it. Let me do that now.
+caller: Wonderful, Rohit! Just send us a screenshot once it’s done so we can process it quickly. Don't delay, your money is waiting.

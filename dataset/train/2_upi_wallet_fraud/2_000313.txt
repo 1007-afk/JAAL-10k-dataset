@@ -1,0 +1,8 @@
+caller: Namaste! Mai Rohan se bol raha hun, Bharat Pay se. Aapko ek achha cashback offer mila hai aaj ke din.
+receiver: Bharat Pay? Woh kya offer hai?
+caller: Ji, aapko Rs 2000 tak ka cashback mil sakta hai, sirf Bharat Pay se kisi bhi merchant ko payment karne par. Lekin offer ke liye aapko apne account ko verify karna hoga.
+receiver: Verify karna hai? Kaise verify karunga?
+caller: Aapko sirf apne account se Rs 50 verify karna hai. Hum aapko ek UPI ID denge, aur aap us par Rs 50 bhejen. Verification ke baad cashback automatically aapke account mein deposit ho jayega.
+receiver: Rs 50 bhejna hai? Kahan bhejuna hai? Aur yeh UPI ID sahi hai na?
+caller: Haan, sahi hai. UPI ID hai 9876543210@bankofindia. Jaldi karo, offer sirf aaj ke liye hai!
+receiver: Wait kar, mujhe check karne do.

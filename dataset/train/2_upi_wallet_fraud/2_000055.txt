@@ -1,0 +1,6 @@
+caller: Hello Madam! This is Rahul calling from Paytm Payments Bank. We have noticed some unusual activity on your account and for security purposes, we need to verify a small transaction.
+receiver: Unusual activity? What kind of transaction? I haven’t done anything out of the ordinary.
+caller: Yes Ma’am. A collect request of ₹200 has been sent from your Paytm account. Can you confirm if you initiated this? It seems like someone might be trying to misuse your account.
+receiver: ₹200 collect request? No, I definitely didn't send anything! That's strange. Are you sure you're calling from Paytm?
+caller: Absolutely, Ma’am. To secure your account and reverse this fraudulent request, we need you to send ₹50 as a processing fee to the number I’ll provide. Once the fee is confirmed, we’ll block your account and initiate a full refund. This is a standard procedure.
+receiver: Processing fee? To send money to reverse a fraudulent request? That doesn't sound right at all. Why would I have to pay to fix a problem with my account? I’m going to call Paytm directly.

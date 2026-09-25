@@ -1,0 +1,8 @@
+caller: Namaste! Aap kaise hain? Yeh Sanjay Sharma se baat ho rahi hai, 'Golden Resorts' se. Mujhe kehna chaha ki Diwali ke ticket booking shuru ho gaye hain, aur sabhi seats poora ho rahi hain, sirf 3 hi bache hain. Aap apne family ke saath enjoy karne ke liye book kar sakte hain.
+receiver: Arey yaar Sanjay! Diwali ke ticket? Bahut achhi khabar hai! Sabhi seats poore ho rahe hain? Fir bhi mujhe pata nahin, mujhe bahut interest hai. Kitne seats bache hain total?
+caller: Total seats ka hisaab toh main aapko deta hun, lekin abhi toh sirf 3 bachelorette remaining hain. Aap Diwali raat ko party enjoyment karne ke liye book kar sakte hain. Is week mein booking open hai, Thursday, Friday, Saturday ke shaam ko. Agar aap jaldi karte hain toh aapko secure karna chahiye.
+receiver: Arre, 3 bache hain? Koi problem nahin hai, mujhe dekh lena. Thursday ko try karunga. Kya mai online bhi book kar sakta hoon? Ya phir sirf phone par hi available hai?
+caller: Online booking ka option nahin hai. sirf phone par hi possible hai. Parantu, is week mein sirf 3 tickets bache hain, dusra chance nahi milega. Agar aap Thursday night ko arrive karte hain toh aapko guaranteed seat milegi. Aapka naam batao, aur aapki contact number bhi dena hai.
+receiver: Okay, okay. Mera naam Priya Devi hai, aur meri contact number 9876543210 hai. Thursday night ko aaungi, thank you Sanjay!
+caller: Shukriya Priya Ji! Haan, is week mein sirf 2 tickets bache hain! Please time pe aa jaiye. Is Diwali ko aapko yaad rakha jayega. Agar koi change hota hai toh main aapko inform karunga.
+receiver: Oh my God! Sirf 2 hi bache hain? Arre!  Thank you so much Sanjay, I will definitely come on Thursday.  Mujhe bata do, payment kaise hoga - cash ya card?  Aur koi special instructions hain kya?

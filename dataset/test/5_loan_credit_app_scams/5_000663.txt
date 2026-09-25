@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We're calling from ‘QuickCash India’. We have some great news for you! Your loan application has been pre-approved for ₹2,50,000. Just a few quick steps to finalize it and the money will be in your account within the hour.
+receiver: Really? Wow! That’s fantastic! I applied for a loan recently, but I didn't expect this. What do I need to do?
+caller: Wonderful! To activate your loan and prevent it from being cancelled due to inactivity, we require a small processing fee of ₹7,500. This is simply to verify your account and ensure the funds go to the correct recipient. You can easily pay it through UPI to this number: 9876543210.
+receiver: ₹7,500? That seems like a lot for a processing fee. Shouldn’t the loan company be paying that?
+caller: Yes, Priya ji, it’s a standard procedure. Think of it as an insurance against fraud! This protects you and QuickCash India. And remember, ₹2,50,000 is just waiting for you once this is cleared. Many people have already received their loans this way.
+receiver: Okay, I’m a bit hesitant, but I really need this money. Where does this UPI payment go? Is it secure?
+caller: Absolutely secure! It goes directly to QuickCash India’s secure payment gateway. Don’t worry, once the payment is confirmed, we'll send you a confirmation SMS and your loan will be disbursed immediately. Please, act fast, Priya ji, this offer is only valid for the next 15 minutes!

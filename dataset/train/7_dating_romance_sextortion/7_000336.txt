@@ -1,0 +1,8 @@
+caller: Hello, I’m Arjun. I saw your profile on ChaiMatch and I think you're absolutely stunning. I’ve been thinking about you all day.
+receiver: Oh, hi Arjun. That’s very sweet to say. Where are you from?
+caller: I’m based in London right now, working in finance. It’s a bit hectic, but I love the city. Listen, my mom is really unwell back in Delhi. She needs a surgery urgently, but I’m short on funds. Just a small amount, really. 
+receiver: Oh no, that’s terrible! I’m so sorry to hear about your mom. How much do you need?
+caller: It’s around 30,000 rupees. I'm trying to get a loan, but it's taking forever. If you could help me out even a little, I would be eternally grateful. Once things settle down, I’ll definitely repay you.
+receiver: 30,000 is quite a bit. I'm not really comfortable sending that much money to someone I just met online. Is there any way to verify this?
+caller: I understand your hesitation. I wouldn't want you to feel uncomfortable. But honestly, my mom's health is deteriorating rapidly. I can send you a picture of her medical reports from Apollo Hospital, if that helps. Please, just consider it.
+receiver: Okay, send the reports. Let me see them first.

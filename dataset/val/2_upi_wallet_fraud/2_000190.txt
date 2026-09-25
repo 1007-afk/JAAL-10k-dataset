@@ -1,0 +1,10 @@
+caller: Hello? Main Paytm se Rohit bol raha hoon. Aapke Paytm wallet mein cashback offer hai!
+receiver: Paytm se? Cashback offer? Kitna cashback hai?
+caller: Sir, aap sirf 500 rupees ka UPI transfer karein, aur aapko 2500 rupees ka cashback milega! It’s a limited-time offer, only for select users.
+receiver: 500 rupees transfer karun? Kahan transfer karna hai? Kuchh doubt ho raha hai mujhe.
+caller: Sir, ek temporary verification account mein transfer karein. Account number 9876543210, IFSC code PAYT0001. Bas 500 rupay, phir cashback instantly deposit ho jayega. Jaldi karein, offer abhi khatam hone wali hai!
+receiver: Account number aur IFSC code? Yeh zyada suspect lag raha hai. Paytm app mein toh aisa notification aaya nahi hai.
+caller: Sir, yeh special offer direct call se hi dikhayi deta hai. Trust me, it's genuine! Jaldi karo, fir chala jayega!
+receiver: Nahi, bhai. Main nahi karunga. Yeh scam hai. Main complaint karunga.
+caller: Sir, aap loss kar rahe hain! Just 500 rupees!
+receiver: No thanks. Bye.

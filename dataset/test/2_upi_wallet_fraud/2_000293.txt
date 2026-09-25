@@ -1,0 +1,6 @@
+caller: Namaste! Main BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein ₹3,750 ka pending transaction hai. Cashback offer ke hisaab se, ₹7,500 ka instant cashback mil sakta hai.
+receiver: BharatPay? ₹3,750 ka pending transaction? Cashback offer? Mujhe toh koi message nahi aaya.
+caller: Haan ji, offer limited time ke liye hai. ₹7,500 ka cashback claim karne ke liye, ‘CLAIM’ type kar ke 98765 pe message karein. ₹5 verification charge lagega, bas itna hi.
+receiver: ₹5 verification charge? Woh kya hai? Aur BharatPay support ne toh aise koi offer nahi kiya hai.
+caller: ₹5 verification charge sirf OTP verify karne ke liye hai, sir.  Aapko ₹7,500 ka cashback mil jayega! Offer expire hone se pehle jaldi karein. Aapka naam bataiye taaki mai aapka account check kar sakoon.
+receiver: Nahin, bhai! Mujhe koi doubt ho raha hai. Mai BharatPay helpline number se confirm karta hoon. Aapko koi bhi personal information nahi dunga. Yeh scam lag raha hai.

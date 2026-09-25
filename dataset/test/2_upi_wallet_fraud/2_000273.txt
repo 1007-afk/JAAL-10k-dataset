@@ -1,0 +1,10 @@
+caller: Namaste, is this Priya Sharma? This is Rohan from MobiKwik Customer Care. We've detected some unusual activity on your MobiKwik wallet. It appears someone attempted to make a purchase using your wallet details.
+receiver: MobiKwik? Haan, main Priya Sharma. Kaise hua yeh? Mujhe koi message bhi nahi aaya.
+caller: Ma'am, security is our top priority. To secure your funds, we need to quickly verify your account. Can you please share the last four digits of the bank account linked to your MobiKwik wallet? It’s just a standard verification process.
+receiver: Bank account number? Kyun bataun? MobiKwik mein bank account number ki zarurat nahi padti. Yeh thoda shak ho raha hai.
+caller: Ma'am, please don’t worry. We are just following protocol. This unauthorized transaction could involve a significant amount. To block it immediately and prevent further losses, we require this information. We can also send you a temporary OTP to verify.
+receiver: OTP? Theek hai, bhej do OTP. Lekin bank account number nahi batayungi.
+caller: Okay ma'am, we've sent an OTP to your registered mobile number. Please share it with me so we can secure your account. It's urgent, ma'am, as the fraudulent transaction is still pending. We need to resolve this within the next few minutes.
+receiver: OTP mila hai. It is 789012. Ab kya karunga?
+caller: Thank you, ma'am. Now to complete the process, we require you to transfer ₹500 to the account details we will provide. This is a one-time fee to freeze the fraudulent transaction and issue you a new virtual card. Just to be absolutely sure, ma'am.
+receiver: ₹500? Fraudulent transaction ko freeze

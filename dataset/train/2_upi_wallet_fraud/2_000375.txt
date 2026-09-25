@@ -1,0 +1,7 @@
+caller: Namaste, is this Ravi Kumar? I'm calling from QuickPay Rewards. You’ve recently been selected for a special cashback promotion on your QuickPay wallet!
+receiver: QuickPay? I do use QuickPay sometimes… What kind of cashback are we talking about?
+caller: Congratulations! You’ve been chosen for a 70% cashback offer on your next 5 transactions. It’s a limited-time offer, sir. To activate it, we just need to verify a small processing fee of Rs. 250. This will unlock the cashback and ensure the funds are properly credited to your wallet.
+receiver: Rs. 250? For cashback? That sounds a bit odd. Why do I need to pay to get cashback?
+caller: It's a standard procedure, sir. A small security deposit to prevent fraudulent activity and ensure the cashback is credited correctly. Think of it as an activation fee. It’s a very secure process. We can send you a UPI link to pay the Rs. 250. Just a quick payment and then the cashback will be yours. We're almost out of these offers, sir! Only a few spots left.
+receiver: Wait a minute. Let me just quickly check the QuickPay website to see if they have anything about this promotion. Give me a second.
+caller: Of course, sir! Take your time. But please hurry, these offers are disappearing fast. Don't miss out on this incredible chance to earn 70% cashback!

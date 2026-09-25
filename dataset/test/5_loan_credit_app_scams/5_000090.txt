@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Deep from SwiftCash Loans. We saw your recent application for a quick loan, and we’re happy to tell you you’re pre-approved for up to ₹2,50,000! Just need a few quick details to finalize it.
+receiver: SwiftCash Loans? Haan, woh application kiya tha. Pre-approved? Kitna interest rate hai?
+caller: Wonderful! The interest rate is quite competitive at 8%, sir. To activate the loan, we need to verify your identity. Could you please share the last four digits of your Aadhaar card with me? It’s standard procedure, don’t worry.
+receiver: Aadhaar number? Why do you need that? Is this safe?
+caller: Absolutely safe, sir! It's just for verification purposes. We need to prevent fraudulent activities.  Look, we’re offering you a great deal, and time is of the essence. Several others are vying for this offer. Quickly provide those digits, and the money will be in your account within the hour. Otherwise, the offer expires.
+receiver: Okay, okay. It's [invent an Aadhaar last four digits, e.g., 7890]. But I want the money first, then I'll pay.
+caller: Excellent! Verification complete. Now, to unlock your loan, we need a small processing fee of ₹5,000 to be deposited into this account: [invent an account number and IFSC code]. Once we receive the payment, your loan will be disbursed immediately. This is a one-time fee, sir.
+receiver: ₹5,000? Before the loan? That's not what I was told.
+caller: Sir, this is a standard security protocol. Without it, we can't guarantee the loan's safety and prevent potential fraud.

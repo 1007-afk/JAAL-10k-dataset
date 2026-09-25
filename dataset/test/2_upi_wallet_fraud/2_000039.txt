@@ -1,0 +1,9 @@
+caller: Mujhe tumhara call miss hua tha. Kaise haal hain? Main 8800330022 par call karta rahunga.
+receiver: Oh, sorry! Main abhi kaam mein tha. Thank you for calling back. Main abhi free huon. Kya baat karne wali thi?
+caller: Haanji, acha laga. Tumhare liye ek bahut hi important news hai. Main ek digital wallet app se contact karna chata hoon jahaan tumhein ₹5000 free mein milega. Lekin yeh offer sirf 24 ghante ke liye available hai. Agar tum isko accept karna chahte hain, toh main tumhe kuch questions puchna chahta hoon.
+receiver: ₹5000 free? Wo toh bahut achcha hai! Batao, kaise? Main abhi listen karna chahta hun.
+caller: Haanji, thanks for listening. Dekho, hum ne ek new user registration campaign launch kiya hai. Jab tum ek new account banoge, toh tumko ₹5000 cashback milega. Parantu yeh cashback sirf un users ko milega jo aaj ke shaam 8 baje tak signup karte hain. Agar tum interested ho, toh main tumhe profile details verify karne ke liye poochnu ga.
+receiver: Haanji, ₹5000 cashback sunke toh bahut excited ho gaya. Mera registered mobile number 9988776655 hai aur email id [myemail@example.com]. Main abhi signup karna chahta hun.
+caller: Haanji, thank you for providing that information. Aur kya aapke pass koiadhar card ya driving license hai? Jisse main aapki identity verify kar sakta hoon.
+receiver: Haanji, maine bank statement bhi upload kiya tha. Aap woh dekh sakte hain.
+caller: Haanji, thank you. Ab aapka age verification karna padega.

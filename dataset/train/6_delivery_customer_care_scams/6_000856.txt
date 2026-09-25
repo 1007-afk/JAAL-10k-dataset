@@ -1,0 +1,9 @@
+caller: Namaste Madam, this is Rohan from Zomato Customer Care. We noticed an unusual payment attempt on your account earlier today.
+receiver: Oh really? What happened? I didn’t make any unusual orders.
+caller: Yes Madam, someone tried to order for ₹2500 using your Zomato Pay. We blocked the transaction to prevent fraud, but we need to verify your OTP to ensure your account is secure.
+receiver: OTP? Why do you need my OTP? Shouldn't you already have my details?
+caller: Absolutely Madam, but as a security measure, we require the OTP sent to your registered mobile number. It’s standard procedure. Please share it so we can quickly activate the security protocols. Don't worry, it's completely safe.
+receiver: I'm still a little unsure. Can you tell me which restaurant the order was supposedly from? And what was the order?
+caller: Madam, we’re processing many security requests currently and have limited information on the specific order.  Sharing the OTP is the fastest way to secure your account.  Just provide the OTP, and everything will be fine.  We can then guide you to set up two-factor authentication.
+receiver: Okay, hold on a second. Let me just quickly check my Zomato app myself.
+caller: Madam, please hurry. Our systems show a very high risk of further unauthorized access if you delay.  Share the OTP now, please!

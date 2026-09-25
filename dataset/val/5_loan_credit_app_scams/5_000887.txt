@@ -1,0 +1,7 @@
+caller: Namaste, sir! Mera naam Rohan hai, FastCredit Solutions se. Aapko urgent funds ki requirement hai kya? Car down payment, ya phir medical expenses? Hum provide karte hain instant loan, bilkul hassle-free. Aapka naam bataiye, please?
+receiver: Hello. Mera naam Vijay Kumar hai. Actually, mere papa ka medical bill clear karna hai, so yes, I need some funds. Kitni amount tak mil sakti hai?
+caller: Vijay ji, ek achchi baat hai ki aapko zaroorat hai. Hum ₹75,000 tak ki loan provide kar sakte hain, bilkul easy terms par. Credit check nahi, koi collateral nahi. Bas ek small processing fee lagti hai. ₹1,500 aapko registration ke liye deposit karne honge.
+receiver: ₹1,500? Processing fee? Yeh thoda zyada lag raha hai. Aur yeh registration fee kyon?
+caller: Vijay ji, processing fee humari company ke security ke liye hai. Yeh ek standard procedure hai, aur iske bina hum loan process nahi kar sakte. Trust me, yeh ek one-time charge hi hai. ₹75,000 ki loan ek baar process ho jaane ke baad, aapko sirf loan amount return karna hai.
+receiver: Theek hai, ₹1,500 deposit kar deta hoon. Account number bataiye.
+caller: Acha, Vijay ji, ek baat bataiye, aapka mobile number verify karna hai. OTP ek minute mein aa jayega, woh mujhe bataiye.

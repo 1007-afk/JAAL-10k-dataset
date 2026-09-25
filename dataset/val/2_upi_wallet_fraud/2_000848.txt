@@ -1,0 +1,8 @@
+caller: Namaste, sir! Mein FreeCharge se Rahul bol raha hoon. Aapke FreeCharge wallet mein 5000 ka cashback offer hai! Claim karne ke liye, sir, bas ek verification process complete karna hai.
+receiver: FreeCharge? Cashback? Mein FreeCharge use toh karta hoon, lekin aisa offer mujhe kabhi nahi mila. Kuchh detail batao, please.
+caller: Ji sir, yeh ek limited-time offer hai, sirf select users ke liye. Verification ke liye, mujhe aapki UPI ID aur ek OTP chahiye jo aapko aapke registered phone number par milega.
+receiver: UPI ID? Main woh kyun bataun? FreeCharge customer service toh phone pe OTP nahi puchti. Yeh kuch gadbad lag raha hai.
+caller: Sir, please understand! Agar aap abhi verification nahi karenge, toh yeh offer expire ho jayega. Aur sir, cashback aapke wallet mein instantly add ho jayega, aur aap use kar sakte hain apne mobile recharge ya bill payments ke liye. Jaldi karo, sir!
+receiver: Sirf expiry hone ka dar lag raha hai? Aur OTP bhi? Kuchh toh wrong hai. Main FreeCharge app mein check karta hoon. Aap phone pe wait karo.
+caller: Sir, aapne app mein check kiya? Aapko offer dikhai dega na? Jaldi karo, sir, time guzar raha hai aur offer expire hone wali hai. Check karo, aur phir mujhe batao. Just a few more seconds!
+receiver: Haan, maine check kiya, koi offer nahi dikh raha hai! Yeh fake hai, right? Aapko police mein report karunga.

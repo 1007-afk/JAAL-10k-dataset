@@ -1,0 +1,8 @@
+caller: Hello, this is Akash from QuickCash Loans. We’ve reviewed your application and pre-approved you for a ₹50,000 instant loan. Just a few quick verifications needed to release the funds. Can you confirm your full name and date of birth?
+receiver: Yes, my name is Priya Sharma and my date of birth is 12/08/1995. What do you need to verify?
+caller: Excellent, Ms. Sharma. To ensure security, we require you to transfer ₹2,500 as a processing fee to this UPI ID: 7865432109@axisbank. Once we see the confirmation, your loan will be credited immediately.
+receiver: Two thousand five hundred rupees? For a loan? That seems a bit much. Are you sure this is necessary?
+caller: Absolutely necessary, Ms. Sharma. This is a standard security protocol to prevent fraudulent applications. Without it, we can't guarantee the loan's safety. Think of it as an insurance fee. Quickly send that amount.
+receiver: Okay, I'm sending it now. I'm a bit nervous, but I really need this loan.
+caller: Fantastic! Payment received. Now, for final verification, we need you to share a recent photo of your Aadhaar card and PAN card to confirm your identity. Just a simple selfie with those documents visible.
+receiver: Wait a minute. Why do you need my Aadhaar and PAN card now? I thought we were just confirming a few details. This is getting weird.

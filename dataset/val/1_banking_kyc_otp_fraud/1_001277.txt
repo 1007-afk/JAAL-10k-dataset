@@ -1,0 +1,8 @@
+caller: Namaste, mai hu Vijay Axis Bank se. Aapke Axis Bank account mein ek suspicious transaction hua hai, jo Gujarat se hua hai.
+receiver: Gujarat se? Kya transaction hua? Kitna hua?
+caller: ₹15,000 ka transaction hua hai sir. Security ke liye humein aapki KYC update karni hogi. Ek secure link bhejna chahta hu aapko jahan aap details verify kar sakte hain.
+receiver: KYC update? Lekin maine toh kuch bhi transaction nahi kiya Gujarat se. Aur koi link mat bhejna mujhe.
+caller: Sir, time bahut kam hai. Agar aap abhi verify nahi karenge, toh bank account suspend kar sakte hai. Please, ek minute dedicate kijiye sir. Aapka paisa risk mein aa jayega.
+receiver: Account suspend? Yeh thoda zyada lag raha hai.  Mein bank branch mein jaaunga, call cut kar raha hu.
+caller: Sir, please ek second! OTP bheja hai aapke registered mobile number pe. Woh OTP bataiye, just ek baar. Fir sab theek ho jayega.
+receiver: Koi OTP nahi, bye.

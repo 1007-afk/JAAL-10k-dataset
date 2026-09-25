@@ -1,0 +1,11 @@
+caller: Namaste sir, main Priya, State Bank se baat kar rahi hoon. Aapne recently online loan apply kiya tha, isliye contact kiya tha. Aapke account mein kuch technical issue hai, aur humne aapko document update karne ke liye request kiya hai. Aapke paas passport size photo ready hai kya?
+receiver: Namaste Priya ji. Haan, passport size photo toh hai mere paas. Kaise update karoon woh?
+caller: Ji sir, aapko portal par login karna hoga. "My Account" section mein jao, phir “Documents” tab click karo.  Uske baad, upload option select karo aur apni passport size photo upload karo. Agar aapko pata nahin pata to main aapko step by step guide kar sakta hoon.
+receiver: Step by step guide? Haan, bataiye please.
+caller: Theek hai. Pehle, apne internet browser mein [Bank Name] ka website address daalo - [Website Address]. Login karke, “Profile” section mein jao, phir “Loan Application” section mein jao.  Uske baad, “Document Upload” option ko select karo.  Aapki photo upload hone ke baad, aapko confirmation message milega.
+receiver: Okay, I'll try that.  Yeh website address sahi hai?
+caller: Ji sir, yeh absolutely sahi hai. Isme koi mistake nahin hai.  Aapko sirf apni photo upload karne ki requirement hai.  Agar aapko koi problem hai, to aap mujhse connect reh sakte hain.  Aapka loan process jaldi se complete hona hai.
+receiver: Right, okay. Thank you so much.
+caller: Aapka abhi welcome nahi hai.  Aapko loan sanction ke baad hi thank you dena hoga.  Main aapko phir call karunga, verification ke liye.  Aapko koi aur information chahiye?
+receiver: Nahi, koi nahi.
+caller: Good bye sir.

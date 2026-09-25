@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Flipkart Customer Support se Atul bol raha hoon. Aapke account mein ek pending payment hai, ₹485, jo ek unknown seller ke taraf se kiya gaya tha.
+receiver: ₹485? Mujhe toh koi notification aaya nahi. Mai Flipkart pe aksar order karta hoon, lekin aisa kabhi nahi hua.
+caller: Haan sir, woh system error ke vajah se notification nahi gaya. Hamko yeh urgent sort out karna hai. Please visit secure-flipkart-verify.net and enter your OTP to confirm your account and process the refund. Jaldi karo, sir, otherwise account suspend ho sakta hai.
+receiver: Secure-flipkart-verify.net? Yeh to dikhta zyada official nahi hai. Flipkart ki website toh flipkart.com hai na? Aur mujhe OTP ki zarurat nahi hai, Flipkart kabhi OTP maangta nahi.
+caller: Sir, woh ek secure verification portal hai. OTP sirf aapki security ke liye hai. Koi doubt nahi lena chahiye. Account suspend hone se pehle jaldi karo. Flipkart ka naam trust ka hai, sir.
+receiver: Thik hai, chalo. Apni ID aur address proof do, main confirm karta hoon. Apka direct number do, mai baat karunga.
+caller: Sir, ID aur address proof ki zarurat nahi hai, sirf OTP. Direct number dene se security risk ho sakta hai. Please, trust the process. Last chance, sir, otherwise aapka Flipkart account block ho jayega. Just enter the OTP.

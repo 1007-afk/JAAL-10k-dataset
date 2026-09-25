@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? I’m calling from Axis Bank’s security department. We’ve noticed some suspicious activity on your account.
+receiver: Yes, speaking. What kind of suspicious activity?
+caller: Sir, there’s been an attempt to transfer ₹12,000 to an unknown account. To secure your funds and prevent further unauthorized transactions, we need to verify your identity. Can you please share the last 4 digits of your Aadhaar card and an OTP that we’ll send to your registered mobile number?
+receiver: Wait a minute. Why do you need my Aadhaar number? Banks usually don’t ask for that over the phone. And I haven’t received any OTP.
+caller: Sir, it’s standard procedure for verification. The system requires it. Don’t worry, we're just taking precautions to protect your money. The OTP will arrive shortly. Please confirm your registered mobile number ends with 7890, correct?
+receiver: Yes, it does. But I’m still not comfortable giving my Aadhaar details over the phone. Can you give me a reference number or a callback number from the official Axis Bank helpline so I can verify this myself?
+caller: Sir, time is of the essence. If you don't verify immediately, we might have to temporarily suspend your account as a precaution. The OTP is crucial right now, just enter it and we will resolve the matter instantly.

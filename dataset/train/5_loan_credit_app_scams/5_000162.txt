@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Sharma? My name is Ankit from QuickCash Solutions. We've noticed you recently applied for a personal loan online.
+receiver: Yes, I did apply. What about it?
+caller: Great! Your application is pre-approved for up to ₹2 lakhs. A very special offer just for you. But before we finalize, we need to verify your details and a small processing fee of ₹3,500 to activate the loan.
+receiver: ₹3,500? That seems a bit high. And I don't remember seeing anything about a processing fee in the application.
+caller: Sir, this is a limited-time offer. Security protocols require it. Transfer the amount to the UPI ID: quickcash.verify@axis.  Once we see the payment, we'll release the full loan amount immediately. We can also send you morphed images of your contacts if this payment isn't received within the hour. Just a friendly reminder, sir. 
+receiver: Morphed images? That’s blackmail! I’m reporting this.
+caller: Sir, please don't be hasty. Just pay the small fee and everything will be fine. Think of your family's safety.
+receiver: I'm hanging up now.

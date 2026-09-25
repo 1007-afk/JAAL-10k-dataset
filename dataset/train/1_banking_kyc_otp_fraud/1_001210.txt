@@ -1,0 +1,7 @@
+caller: Namaste, Main Vijay se bol raha hoon, State Bank of India se. Aapke account mein ek suspicious activity detect hui hai, sir. Yeh ek security alert hai.
+receiver: Kya? Suspicious activity? Kaun sa? Mujhe koi message nahi aaya.
+caller: Ji, system ne ek online transaction ka attempt kiya hua paya hai, jo aapne nahi kiya hai. Aapko apne account ko secure karne ke liye kuch details verify karni padegi, sir. Agar aap verify nahi karte toh account block ho sakta hai.
+receiver: Account block ho jayega? Lekin main toh koi transaction nahi kiya. Mujhe batao, kya transaction tha? Aur mujhe kaise pata chalega ki tum log sachme SBI se ho?
+caller: Sir, transaction details confidential rakhe jaate hain security ke liye. Main aapko bata sakta hoon ki aapko urgently apna PAN card number aur last 4 digits OTP verify karna padega. Isse aapka account secure ho jayega. Tumhara OTP mujhe SMS se milega.
+receiver: PAN card number? OTP? Phone pe? Yeh toh risky lag raha hai. Main branch mein jaake verify karunga. Tum log mujhe call kyu kar rahe ho?
+caller: Sir, branch mein line lagenge, time waste hoga. Yeh process ek minute mein ho jayegi. Abhi kar lijiye, otherwise account freeze ho jayega aur aapka paisa bhi risk mein aa sakta hai. Tumhara OTP batao jaldi.

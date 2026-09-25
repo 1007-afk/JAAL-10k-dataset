@@ -1,0 +1,8 @@
+caller: apki notification settings update ho gayi hai. Hum aapke profile ko enhance karne ke liye kaam kar rahe hain. Aapko ek verification message mil jayega kuch hi der mein.
+receiver: Achha, nice to hear that. Thank you so much for letting me know. Main verification message ka wait kar raha hoon. Aapko mera naam pata hai kya? Bas naam confirm karna tha taaki mujhe pata rahe ki yeh mera hi profile hai.
+caller: Ji, aapka naam [Invented Name, e.g., Mrs. Verma] hai aur aapne notification settings update ki hain. Kya yeh sahi hai?
+receiver: Haanji, bilkul sahi hai. Mrs. Verma hi hoon main. Thank you so much for confirming! Bahut Khushi hui yeh sunke.
+caller: Bahut achha, Mrs. Verma! Hum aapke notification settings update kar rahe hain aur aapko kuch hi der mein verification message mil jayega. Kya aapko payment karne mein koi issue aa raha hai? Hum aapko ek special offer bhej sakte hain premium features ke liye.
+receiver: Nahi nahi, payment mein koi issue nahi hai. Actually, payment toh maine online kar diya tha pehle hi. Bas main verification message dekhna chahta tha ki profile successfully update ho gaya hai. Agar verification message aa jaye toh I’ll be all set. Thank you for offering though!
+caller: Okay, Mrs. Verma. Aapne payment pehle hi kar di hai, yeh sunke achcha laga. Hum bas verification ke liye process kar rahe hain. Agar aapko verification message mil jaaye toh aapki profile process ho jayegi. Aapki notification preferences mein koi specific setting hai? Jaise ki push notifications ya email alerts?
+receiver: Haanji, actually maine push notifications enable kiya tha. Kya aapko woh check karna mumkin hai? Main naam toh bhool gaya hoon, but it's a very important setting for me. Agar aapko mil jaaye toh bahut achha hoga. Thanks!

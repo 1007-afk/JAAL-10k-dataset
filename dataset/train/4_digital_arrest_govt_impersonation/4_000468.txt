@@ -1,0 +1,9 @@
+caller: Namaste, is this Ms. Kapoor? This is Inspector Sharma calling from the Delhi Customs Department. We have intercepted a parcel registered under your name.
+receiver: Delhi Customs? A parcel? What's the matter?
+caller: The parcel contains suspicious items, Ms. Kapoor. Preliminary scans indicate it might be linked to illegal imports. We need to verify your involvement. This is a serious matter.
+receiver: Illegal imports? That's ridiculous! I haven't sent anything. I was in Mumbai last week.
+caller: We understand, Ms. Kapoor. However, the shipping manifest shows your address. To clear this, you need to pay a small processing fee of ₹12,500. This will cover the inspection and verification costs. Please transfer it to the account number I’ll provide. It’s urgent, as the parcel will be destroyed if it isn’t cleared by tomorrow.
+receiver: ₹12,500? This sounds like a scam. I'm not paying anything. I’ll report this to the police.
+caller: Ms. Kapoor, don’t be hasty. We can understand your apprehension, but delaying this will only complicate things further. We can send you a copy of the shipping document to prove our authenticity. However, you still need to make the payment to secure the parcel’s release.
+receiver: I don’t trust this. Give me the shipping document number, and I’ll check it myself.
+caller: Certainly, the document number is DL-CX789456. Please transfer the amount quickly, Ms. Kapoor, as time is running out. We have security footage and it’s best to resolve this quietly.

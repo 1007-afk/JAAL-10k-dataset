@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Verma? This is Rahul calling from HDFC Bank security department.
+receiver: Haan, bolie. HDFC se?
+caller: Yes ma'am. We’ve detected some unusual activity on your account. A login attempt from a foreign IP address was made just now. We need to verify your identity immediately to prevent unauthorized access.
+receiver: Foreign IP address? Kaise? Mere phone se toh main HDFC netbanking se logged in nahi hoon aaj tak.
+caller: Exactly, ma'am. That’s why we’re calling. For verification, could you please share the last four digits of your Aadhaar card and a one-time password that we'll send to your registered mobile number? This is just a standard security measure.
+receiver: Aadhaar number? Aur OTP? Isliye aap phone kar rahe hain? Main toh kabhi bhi kisi ko apna Aadhaar ya OTP nahi deungi. HDFC wale aise phone karke nahi poochte.
+caller: Ma'am, please understand, this is very urgent. If we don't verify your account within the next five minutes, we'll have to temporarily suspend it for security reasons. We can send you an OTP now; just confirm your account number so I can trigger it. It’s for your own safety, ma'am. Time is running out.
+receiver: Suspend karenge? Dekhiye, main khud HDFC ka customer hoon, aur mujhe pata hai ki bank aise phone kar ke koi detail nahi maangta. Aapko mera account number check karna chahiye, aur mujhe ek official reference number dena chahiye. Aur koi email ya SMS bhi bhejo. Lekin main phone par kuch bhi nahi deungi. I think you're trying to scam me.

@@ -1,0 +1,6 @@
+caller: Namaste, Madam. This is Rohan from SecurePay Services. We’ve detected unusual activity on your PaySecure digital wallet. It appears someone attempted to make a transaction using your wallet to a foreign cryptocurrency exchange.
+receiver: Rohan? SecurePay? Cryptocurrency? What transaction are you talking about? I haven’t made any such transaction.
+caller: Ji Madam, that’s what’s concerning us. To secure your funds and prevent further unauthorized access, we need to quickly verify your wallet details. Could you please provide the last four digits of your linked bank account? It’s a standard security protocol.
+receiver: Wait, wait. Last four digits of my bank account? Why would you need that? SecurePay is a wallet, right? Shouldn’t I be getting an OTP on my phone? This feels a bit fishy, frankly.
+caller: Madam, OTPs can be intercepted. Providing the last four digits is a faster and more secure method for immediate verification. We can also offer you a small bonus – ₹50 added to your wallet – for your prompt cooperation in securing your account. You have only two attempts left to complete the verification.
+receiver: ₹50? And you want my bank account details? This is getting ridiculous.  If this were legitimate, SecurePay would have already sent me an SMS or email. I'm reporting this to the authorities.

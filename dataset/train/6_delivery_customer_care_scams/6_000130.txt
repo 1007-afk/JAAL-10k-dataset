@@ -1,0 +1,8 @@
+caller: Namaste ji, aapka parcel Mumbai mein deliver hone wali thi, lekin courier ne kaha ki aap home par nahi mile. Aapko time badalne ke liye, please 09876543210 pe call karein. Shukriya.
+receiver: Oh, arrey! Maine dekha, missed call bhi aayi thi. Mai thoda kaam mein bhari tha. Theek hai, mai abhi call karta hu. Dhanyavaad bolte hain.
+caller: Haan ji, dhanyavad. Aapko yeh notification mila ki parcel deliver karne mein problem thi, lekin aapko time change karne ki option hai. Please 09876543210 pe call karein aur apna reference number 7654321 check karein. Shukriya.
+receiver: Okay, samajh aaya. Reference number 7654321, aur number 09876543210. Mai thoda der mein call kar leta hu. Thanks.
+caller: Namaste ji, aapka parcel Delhi mein deliver hone wali thi, lekin courier ne kaha ki aap office par nahi mile. Aapko time badalne ke liye, please 09876543210 pe call karein. Shukriya.
+receiver: Arrey yaar, phir se missed call! Mai toh kahin jaa raha tha, delivery person phir se aa gaya tha kya? Okay, theek hai. Reference number 7654321, aur number 09876543210, sahi hai na? Thoda der mein call karunga. Please koi aur message mat bheje.
+caller: Arre sir, mai samajh raha hun ki aap kaam me hain. Koi baat nahi, jab aap free honge to call kar sakte hain. Humare taraf se sirf yeh bataane ka ilaaj hai ki parcel deliver hone mein problem hui hai aur aapko time change karna hoga. Number yaad rakhna, 09876543210, reference number 7654321. Koi haste nahi, aap comfortable ho tab call kar sakte hain. Thanks.
+receiver: Haan ji, dhanyavaad. Samajh gaya main. Mai busy tha, lekin ab pakka call karunga thodi der mein. 09876543210, reference 7654321. Got it. Shukriya.

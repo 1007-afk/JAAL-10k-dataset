@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mrs. Verma? This is Akash calling from PhonePe regarding your cashback rewards.
+receiver: Haan, Mrs. Verma hu main. Cashback rewards? Kya baat hai?
+caller: Yes! Congratulations, Mrs. Verma! You've qualified for a special Diwali bonus of ₹5,000 cashback. But to claim it, you need to verify your account with a small processing fee of just ₹250.
+receiver: ₹5,000 cashback? Diwali bonus? ₹250 ka fee? Yeh thoda suspicious lag raha hai. Main PhonePe se direct koi offer receive nahi kiya.
+caller: Madam, it's a limited-time offer, just for select users. To avoid fraud, we need you to send that ₹250 processing fee via UPI to this number: 9876543210. Once that’s done, we’ll credit the ₹5,000 immediately. Trust me, it’s completely safe.
+receiver: ₹250 fee UPI ke through? Aur yeh ‘select users’ wala chakkar kya hai? Main PhonePe customer care se baat karta hoon.
+caller: Madam, PhonePe customer care will tell you the same thing. This is a special promotion they're not telling everyone about. Just send that ₹250 and claim your ₹5,000 Diwali bonus! Don't miss out!

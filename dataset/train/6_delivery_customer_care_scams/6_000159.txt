@@ -1,0 +1,13 @@
+caller: Namaste! Aap sabhi ko ek achha din manghne chahayen. Main Rahul, ‘DigitalWave Networks’ se baat kar raha hoon. Hum aaj aapke liye ek super special offer le aaye hain – ek naya 5G smartphone free mil jayega! Believe me, it’s an incredible deal. Just 3 phones remaining. Interested?
+receiver: Wow, seriously? 5G smartphone free? Suno, mera naam Priya hai. Phone bilkul free hai, ya phir koi subscription charge hai? Aur yeh 5G offer, kya yeh sirf Delhi mein valid hai ya nationwide?
+caller: Oh, sorry! Mera naam Vijay hai, DigitalWave Networks se. Haan, phone completely free hai, koi subscription charge nahi hai! Yeh offer nationwide valid hai. Bas, yeh offer jaldi jaldi khatam ho jaayega, sirf 2 phones baaki hain! Kya aapko interest hai?
+receiver: Priya hoon main. 5G smartphone, nationwide offer, aur sirf 2 phones bache hain?  Matlab, yeh bahut achha deal hai. Par bataiye, yeh 5G connectivity, kya yeh roaming ke time par bhi smooth rahega ya nhi? Aur phone ka screen size kya hai?
+caller: Haan, 5G connectivity roaming ke time par bhi smooth rahega. Screen size 6.5 inches ka hai, perfect viewing experience ke liye.  And just one phone left now!  Don't delay, let's get your order booked.
+receiver: 6.5 inches? Thoda bada hai kya?  Par 5G roaming par smooth rahega toh… okay. Fir phone mein fingerprint sensor hai kya? Aur camera resolution kya hai?
+caller: Haan, fingerprint sensor hai aur camera 48 megapixels ka hai. Ekdum professional photography ke liye perfect!  Just one phone remaining, Vijay from DigitalWave Networks. Let’s finalize the order.
+receiver: 48 megapixels? Itni badi picture capture hogi?  Vijay, phone ki battery life kaisi hai? Unlimited data ke liye toh battery achhi hona zaroori hai.  Aur phone ka color kya hai?
+caller: Battery life bohat achcha hai, easily 12 hours tak chalegi. Color black hai.  Last one, Vijay from DigitalWave Networks. Please hurry up, just one phone left!
+receiver: Black color? Okay, fine.  Vijay, phone ka processor kya hai?  Agar 5G par smooth chalega toh processor powerful hona chahiye.
+caller: Processor Qualcomm Snapdragon 778G hai.  Itna powerful hai ki phone 5G par smoothly chalega aur gaming bhi possible hai. Last phone, Vijay from DigitalWave Networks. Order book karna chaahe kya?
+receiver: Qualcomm Snapdragon 778G?  Okay, Vijay.  Main order karne wali hoon.  Mujhe phone ka warranty period bhi bataiye.
+caller: Warranty period 2 years ka hai.  Congratulations Priya, aapki order DigitalWave Networks mein confirm ho gayi hai! Shukriya!

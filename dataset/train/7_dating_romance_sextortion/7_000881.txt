@@ -1,0 +1,6 @@
+caller: Hello, is this Priya? I'm Rohan from 'Eternal Hearts'. I noticed your profile and thought we had a very similar vibe. I'm a photographer, travel a lot. You seem very artistic too.
+receiver: Hi Rohan, yes, it's me. Eternal Hearts, huh? I'm not really active on that app anymore. What did you notice about my profile?
+caller: Your photos! Such beautiful landscapes, and you’re always smiling. I'm currently in Dubai on a shoot, but I’m missing home. I'd love to chat more. I sent you a little something, a virtual rose, to show I'm serious.
+receiver: Dubai? Nice! Thanks for the rose. What kind of photography do you do? Landscapes mostly, or something else?
+caller: Mostly portraits, you know, capturing the essence of a person. I'm working on a project, showcasing the vibrant culture of different countries. Actually, I’ve run into a bit of a problem - my wallet got stolen here. I need to send some money back to my family in Delhi urgently. It's just a small amount, 15,000 rupees. Can you help me out temporarily? I'll pay you back as soon as I get paid next week.
+receiver: Stolen wallet? That’s terrible, Rohan! 15,000 rupees is a lot, though. Can’t you report it to the police or use your bank? Why ask me?

@@ -1,0 +1,6 @@
+caller: Namaste, main BharatPay customer service se Rahul bol raha hoon. Aapke BharatPay wallet mein ek suspicious transaction ka attempt kiya gaya hai. Security ke liye, humein aapki verification karni hogi.
+receiver: BharatPay? Woh kya transaction tha? Mujhe koi notification nahi mila.
+caller: Sir, ek ₹2500 ka transaction Rajasthan se kiya gaya tha. Shayad koi ne aapka wallet hi try kar raha hai. Verification ke liye, aapka BharatPay UPI ID aur ek OTP bataiye jo aapko BharatPay app par milega.
+receiver: ₹2500? Bohot zyada amount hai! Mein koi OTP kisi ko nahi bataunga. Yeh scam lag raha hai.
+caller: Sir, trust please. Yeh security protocol hai. Agar aap OTP nahi batayenge toh aapka wallet temporary suspend ho jayega. Aapko phir verification ke liye BharatPay office mein jaana padega. Woh zyada pareshani wala hoga. Just UPI ID aur OTP, bus!
+receiver: Bilkul nahi. Mein BharatPay app check karta hoon. Aapko wait karna hoga. (pause) Sir, mujhe koi OTP nahi mila. Aur BharatPay ne koi alert bhi nahi bheja. Yeh tumhara fraud hai!

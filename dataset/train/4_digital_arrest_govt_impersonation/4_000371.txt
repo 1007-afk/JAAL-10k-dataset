@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Sharma? My name is Inspector Verma, calling from the Directorate of Revenue Intelligence, DRI. We've detected some unusual activity linked to your registered mobile number.
+receiver: Haan, woh main hi hoon. Inspector Verma? Kya hua?
+caller: Ma’am, it appears your number has been flagged in connection with a cross-border hawala transaction. It seems someone used your number to receive funds illegally. We need your immediate cooperation to clear this up and prevent serious legal repercussions.
+receiver: Hawala transaction? Lekin main toh kabhi hawala nahi kiya. Yeh kaise ho sakta hai?
+caller: We understand it’s concerning, Ma’am. To verify your identity and gather information, we require you to share a screenshot of your bank account passbook and a copy of your PAN card. This is standard procedure for investigations of this nature. It's strictly confidential. We need this urgently.
+receiver: PAN card aur passbook screenshot? But why? Shouldn’t you be getting this information from the bank directly?
+caller: Ma’am, due to the high volume of cases and the urgency of this situation, we’re streamlining the process. Sharing it directly with us allows us to quickly trace the source of the funds and secure your assets. Please send it to this secure email address: dri.verification.urgent@gmail.com. Don't delay, Ma’am. Your cooperation is vital.
+receiver: I'm not comfortable sending those documents via email. It seems unsafe. Can I speak to someone else, perhaps your supervisor?
+caller: Ma’am, time is of the essence. Any delay could lead to further complications and potentially involve you in legal proceedings. This is a crucial step to safeguard your financial interests. The deadline is within the next hour. Send it immediately.

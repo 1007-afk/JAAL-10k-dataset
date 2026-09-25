@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Verma? This is Raj from BlueSpark Courier. We have a parcel addressed to you, but there's a slight issue with the customs declaration.
+receiver: Haan, mai Mrs. Verma. Customs declaration? Kya problem hai?
+caller: It seems there's an underpayment of customs duty. A small amount of 750 rupees is due to clear the package. We need to verify your payment details to proceed.
+receiver: 750 rupees? For customs? BlueSpark toh never pehle aisa bola hai. Aur payment details pooch rahe ho? This feels a bit fishy. Can you give me the tracking number?
+caller: Absolutely, madam. The tracking number is BS789456123. To avoid delays and ensure your parcel arrives swiftly, we need you to complete the payment through our secure portal. We'll send you a link via SMS.
+receiver: SMS? Okay, wait. I’ll check my messages. But I’m still not comfortable giving out my payment details over the phone. What’s your official customer service number?
+caller: Madam, our official number is temporarily down for maintenance. The SMS link is the quickest way to resolve this and receive your package. The link will be sent in the next 30 seconds. Please ensure you are available to receive it and verify the details.
+receiver:  I don't think so. I’m going to call BlueSpark directly from their website and check this. I'm ending this call right now. Goodbye.

@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Verma? I'm calling from Global Trade Investments. We're seeing a lot of success with our members trading in Ripple (XRP).
+receiver: Yes, speaking. Ripple? I’ve heard about it, but I don't really know much about trading cryptocurrency.
+caller: Absolutely, Mrs. Verma! It’s very simple. We have a special system that identifies high-yield trades, and right now, Ripple is performing exceptionally well. You can earn up to 15% returns daily with minimal investment.
+receiver: 15% daily? That sounds too good to be true. What’s the minimum amount I need to invest? And how do you ensure it's safe?
+caller: Just ₹5,000 to start, Mrs. Verma. Our platform uses advanced AI algorithms to minimize risk. We've helped many people in Delhi earn substantial income. Just transfer to this UPI ID: globaltradeinvest@axis. We will show you the progress in your account within 24 hours.
+receiver:  Okay, ₹5,000, UPI ID provided. But can I see some proof of other people’s success, or some more details about this AI system? I’m still a little hesitant.
+caller: Mrs. Verma, we can’t disclose the details of our clients’ accounts for privacy reasons. However, this is a limited-time offer. We only have a few slots left for new members this week. If you transfer now, we’ll double your initial investment for the first 24 hours as a welcome bonus.
+receiver: Double my investment? That’s quite a claim. What happens after the first 24 hours? What are the ongoing fees?
+caller: After the initial 24 hours, the returns will stabilize at a still-very-healthy 8% daily

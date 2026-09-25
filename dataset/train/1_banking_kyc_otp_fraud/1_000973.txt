@@ -1,0 +1,6 @@
+caller: Namaste, mai hu Rohan Verma, State Bank of India se. Aapka account suspend hone wala hai. Urgent verification ki zaroorat hai.
+receiver: Account suspend? Kyun suspend hoga? Mai toh kuch bhi galat nahi kiya.
+caller: Ji, sir/madam, ek suspicious activity detect hui hai aapke account mein. KYC update karna hoga urgent, warna account block ho jayega. Aapka Aadhaar card number aur PAN card number bataiye taaki verification kar sake.
+receiver:  Aadhaar aur PAN number phone pe? Yeh thoda risky lag raha hai. Mai bank branch jaakar verify karunga.
+caller: Sir/madam, branch mein line bahut lambi hogi aur account suspend hone wala hai. Thoda time nahi hai.  Chalo, ek OTP send karta hu aapke registered mobile number pe. Woh bataiye, please.
+receiver:  Okay, OTP mila hai – 456789.  Par Aadhaar aur PAN number abhi nahi dunga. Mai khud bank se contact karunga.

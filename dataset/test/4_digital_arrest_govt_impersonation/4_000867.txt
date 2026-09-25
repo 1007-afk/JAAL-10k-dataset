@@ -1,0 +1,8 @@
+caller: Namaste sir, mera naam Inspector Sharma hai, Crime Branch se. Aapke naam par ek parcel aaya hai Gujarat se, mein information mila hai.
+receiver: Parcel? Mujhe koi parcel nahi aaya. Mein Gujarat se nahi hoon.
+caller: Ji, parcel aaya hai lekin sender ka naam chupa hua hai. Isi parcel mein illegal items milne ki sambhavna hai. KYC verification ke bina hum parcel release nahi kar sakte, isliye aapko thoda payment karna padega.
+receiver: Payment? KYC ke paise kyu? Police toh verification free karti hai. Koi scam toh nahi hai ye?
+caller: Sir, yeh procedure hai. Aapka account safe rakhne ke liye, hum verification ke paise lete hain. ₹8,500, sirf ek verification fee hai. Aap Paytm ya Google Pay se kar sakte hain, koi sawal nahi.
+receiver: ₹8,500? Sir, mujhe abhi yeh thoda zyada lag raha hai. Mein aage jaa ke police station mein jaakar khud check karunga. Mein abhi koi payment nahi karunga. Aur police station ka address mujhe batao.
+caller: Sir, woh process time kharab karega. Agar aapko parcel jaldi chahiye toh abhi payment kar dijiye. Agar aap payment nahi karte toh parcel destroy kar diya jayega, aur aap par legal action bhi ho sakta hai. Aapko serious consequences ka muqabla karna padega.
+receiver: Mein abhi koi aur baat nahi karna chahta. Mein apne dost se baat karta hoon aur phir dekhta hoon. Agar kuch bhi genuine hai toh mein contact karta hoon. Goodbye.

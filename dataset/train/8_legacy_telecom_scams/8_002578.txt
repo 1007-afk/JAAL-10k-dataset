@@ -1,0 +1,8 @@
+caller: calling from DigiConnect Solutions. We’ve seen you’re using our premium data service and we have an exclusive deal just for you. You have 3 remaining credits. Would you like to redeem them?
+receiver: Haan sir, DigiConnect Solutions se? Premium data service? 3 credits bache hain?  Yeh thik lag raha hai. Bataiye, kya ho sakta hai?
+caller: Exactly, DigiConnect Solutions ke naam par hi.  Aapka data usage bahut upar hai, isliye humein yeh offer de raha hai. Parantu, ab sirf 2 credits bache hain. Kya aap unhein redeem karna chahenge?
+receiver:  Arre, sirf 2 hi bache hain? Fir pehle 3 kahaan gayi?  Ye to koi bakwas hai.  Kuch batayein, yeh credit kitni cost ki thi?
+caller:  Nahi bhai, koi bakwas nahi hai.  Aapne pehle dekha tha, aapne premium subscribe kiya tha.  Jab aapne data download kiya, tabhi ek credit consume ho gayi. Ab aapke paas 2 credits bache hain.  Agar aap unhein redeem karte hain, toh aap 2 extra gigabytes milenge.  Kya aap yahaan se redeem karna chahenge?
+receiver:  Gigabyte? Matlab, fir se data charges lagega?  Mujhe yeh nahi chahiye.  Pehle toh 3 credits bata rahe the.  Ab 2, phir 3, phir 2... Ye sab confusion banwa rahe hain.  Main phone utaar raha hoon.
+caller:  Rukiye rukiye!  Aap galat samajh rahe hain.  Jo pehle aapne dekha tha, woh wase hi aapke account mein credits the.  Jab aapne data download kiya, tabhi woh credits automatically deducted ho gaye.  Ab aapke paas 2 credits bache hain.  Agar aap unhein redeem karte hain, toh aap 2 GB data milega, aur aapki problem solve hogi.  So, will you accept this offer to redeem those 2 credits now?
+receiver:  Arey, 2 gigabytes?  Phir bhi mujhe yaari nahi aa rahi.  Ye sab cheating lag raha hai.  Mujhe koi data nahi chahiye.  Baraa, main phone rakh raha hoon.

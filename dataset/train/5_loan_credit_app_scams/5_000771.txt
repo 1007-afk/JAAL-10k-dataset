@@ -1,0 +1,8 @@
+caller: Namaste, Madam. Yeh Rohan Sharma, QuickCash Solutions se. Aapke InstaLoans application ki processing complete hone ki kagaar aa gayi hai. Bahut achchi news hai! ₹75,000 ki loan approve ho gayi hai, sir.
+receiver: Oh, really? That's great news! I applied for a loan, yes. But I haven't heard anything yet. Is there any charge for this?
+caller: Madam, processing fees ka ₹8,500 ka payment hona zaroori hai. Account secure karna hai na, aur verification process complete karne ke liye. Aapko kabhi bhi koi doubt na aaye, wohi toh hamara maksad hai.
+receiver: ₹8,500? That seems a lot for just processing. I thought these instant loans were supposed to be easy. I'll have to check my bank balance...
+caller: Madam, delay hone se interest lagna shuru ho jayega. ₹8,500 abhi deposit karein, tab loan immediately release ho jayegi. Agar aap delay karein toh hamko niwaran karna padega. Aur ye payment karne ke baad aapko message aayega, confirmation ke liye.
+receiver: Okay, okay, don't rush me. Let me see... Fine, I’ll do it. Can you give me the account details again, please? I want to make sure I’m sending it to the right place.
+caller: Bilkul Madam, account number is [Fake Account Number], naam hai Ajay Verma. Jab payment ho jaye, mujhe call karein, phir mein aapko OTP doonga verification ke liye. Aur remember, kisi ko bhi batana nahi, it's a private matter.
+receiver: Right, okay. I’m transferring the money now. I’ll call you back as soon as it's done.

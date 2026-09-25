@@ -1,0 +1,8 @@
+caller: Namaste, mein hu CBI officer Sharma. Aapke naam par ek parcel aaya hai, jo illegal items se bhara hua hai.
+receiver: Illegal items? Mere naam se? Mujhe toh koi parcel nahi mila.
+caller: Haan, madam. Dispatch company ne complaint kiya hai. Aapka address hai XYZ Road, aur parcel mein suspicious material paya gaya hai. Case number is CBI/2024/487.
+receiver: Yeh kya keh rahe hain aap? Main toh kabhi parcel order nahi kiya. Aur CBI officer ki baat kar rahe hain?
+caller: Madam, yeh matter serious hai. Aapko ₹15,000 fine bharvanega hoga, taaki parcel ko clear kiya ja sake aur aapko kisi bhi problem se bacha sakein.
+receiver: ₹15,000? Lekin maine toh kuch bhi kiya nahi! Main police station mein report karungi.
+caller: Madam, police station mein report karne se kuch nahi hoga. Aapko yeh fine online pay karna padega. Mein aapko bank details de sakta hoon, aur ek video call par stay karein, taaki process ko handle kar sakein.
+receiver: Video call? Nahin, main kisi bhi video call par nahi aungi. Yeh scam hai!

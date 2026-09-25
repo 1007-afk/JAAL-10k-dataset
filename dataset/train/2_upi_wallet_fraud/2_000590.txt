@@ -1,0 +1,7 @@
+caller: Hello, is this Rajan Sharma? We've noticed unusual activity on your Freecharge wallet.
+receiver: Haan, main Rajan Sharma. Kya hua? Unusual activity matlab?
+caller: Sir, there's been a suspicious transaction attempt. To secure your wallet and prevent fraud, we need to verify your details. Please send "VERIFY" via SMS to 7890123456. It’s a standard security protocol.
+receiver: Verify SMS? But why SMS? Can't you just verify online or through the app? And what kind of transaction? How much money?
+caller: Sir, the online system is temporarily down due to maintenance. SMS is the only option right now. The attempted transaction was for ₹2500 to an unknown account. Please send the SMS immediately to block any further unauthorized activity.
+receiver: ₹2500? Okay, hold on. Let me check the Freecharge app myself first. I’ll call their customer care number too.
+caller: Sir, delaying will only increase the risk. The transaction might go through. Please send "VERIFY" now. Remember, it's just a standard security measure. Don't let your money be at risk!

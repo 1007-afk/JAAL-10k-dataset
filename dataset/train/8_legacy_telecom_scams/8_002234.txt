@@ -1,0 +1,27 @@
+caller: Hello? Hello? Can you hear me properly? I am calling because we have identified a special offer for you regarding your mobile data plan. It seems there was a slight technical glitch and some credits were not automatically added to your account.
+receiver: Hello? Yes, I can hear you clearly. That’s interesting… what kind of offer are we talking about?
+caller: Haanji, bilkul!  We noticed your usage has been unusually high recently, especially during peak hours. We want to help you save money, so we've decided to manually credit your account with ₹500 as a goodwill gesture. But we need to verify your identity first. Could you please tell me your full name and date of birth?
+receiver: My name is Priya Sharma, and my date of birth is June 12th, 1988.
+caller: Okay, Priya Sharma, June 12th, 1988. Thank you. Now, just to confirm, do you currently reside at [Receiver's Address]? We require this information for security purposes.
+receiver: No, I actually moved out of that address last year. I now live at [New Address].
+caller:  Okay, [Receiver's Name], that's noted.  Just one more thing – for this credit to be applied, we need you to download our secure app. It’s completely free, but we need to install it to track your data usage accurately. Would you like me to send you a link?
+receiver: Hmm, downloading an app from an unknown source doesn’t sound too safe. What if it contains viruses?
+caller: Haanji, bilkul! Don't worry, it’s a legitimate app from our company. We take security very seriously. And just to reiterate, this ₹500 credit is only valid for 7 days. So, hurry up and download the app!
+receiver:  Seven days? Okay, well, I think I'll pass on the app for now. I don’t want to risk anything.
+caller:  But Priya Sharma, you’re missing out on a fantastic opportunity! This is a limited-time offer. We really want to help you save money. Please, just download the app!
+receiver: No, thank you. I appreciate the offer, but I'm going to decline. Goodbye.
+caller:  Alright, alright. Have a nice day then! *click*
+caller: Hello? Hello? Can you hear me okay? We're calling from Mobile Solutions, and we've detected a potential issue with your phone's software update. It appears there might be a small compatibility problem that needs immediate attention.
+receiver: Hello? Yeah, I can hear you fine. A software update issue? What exactly is wrong?
+caller: Haanji, bilkul! Our system indicates that your phone model, a 'Galaxy Z Flip 3', isn’t fully compatible with the latest Android version. This could cause instability and eventually affect your phone's performance. Don't worry, we can fix it remotely!
+receiver: Galaxy Z Flip 3? Yeah, that's my phone. But I just updated it yesterday.
+caller: Absolutely! That’s why we need to investigate further. To confirm your ownership and ensure a smooth resolution, could you please provide your registered email address associated with your Samsung account?
+receiver: It’s priya.sharma@email.com.
+caller: Great, Priya Sharma. Just one moment while I pull up your account… Okay, I see it here. Now, to proceed with the remote diagnostic, we’ll need to run a quick scan. This will take approximately 30 seconds. During this time, please keep your phone connected to Wi-Fi.
+receiver: Thirty seconds? Okay, I’ll keep it connected. What happens if the scan finds something?
+caller: If the scan detects any issues, we’ll guide you through a simple reset procedure. It's a standard process and won’t erase any of your personal data. We prioritize your privacy, you know.
+receiver: Alright, let’s start the scan then.
+caller: Starting the scan now… *pause* …Okay, it looks like we found a minor conflict between the update and a third-party application you have installed - a photo editing app called ‘SnapZoom’. Could this be causing the problem?
+receiver: SnapZoom? Yeah, I use that app all the time.
+caller: Haanji, bilkul! It seems that app is interfering with the update process. To resolve this, we need to temporarily uninstall SnapZoom. Would you be comfortable doing that for us?
+receiver: Uninstall it? Seriously? Why does that solve everything?

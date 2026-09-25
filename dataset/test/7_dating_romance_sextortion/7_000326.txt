@@ -1,0 +1,6 @@
+caller: Namaste! My name is Arjun. I saw your profile on SoulConnect and felt a real connection. You seem very kind and interesting. I hope you're having a good evening!
+receiver: Namaste Arjun! That's kind of you to say. SoulConnect, yes! It’s been quite quiet so far, to be honest. You too, I hope. What do you do?
+caller: Thank you! I work as a logistics manager – always busy, coordinating shipments around the world. It’s exciting, but the travel is intense. Lately, I’ve been dealing with some family issues, my sister is having an unexpected surgery and needs help with the expenses. It’s been stressful.
+receiver: Oh dear, that’s awful to hear about your sister. I'm sorry to hear that. What kind of surgery is it? I hope she’s alright.
+caller: It's a complicated procedure, a spinal issue. The doctors say she’ll recover fully, but the upfront costs are… considerable. My family is doing what we can, but we’re short about 40,000 rupees. It's really affecting me, honestly, I just want to help her. Could you maybe contribute a little? Just a small amount, anything would help.
+receiver: 40,000 rupees is a lot. I’m genuinely sorry about your sister, but I don't feel comfortable sending money to someone I've just met online, Arjun. It feels a bit risky. Perhaps you could look into crowdfunding or a medical loan?

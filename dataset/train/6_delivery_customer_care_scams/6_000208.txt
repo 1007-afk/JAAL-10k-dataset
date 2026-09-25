@@ -1,0 +1,16 @@
+caller: Ji sir, woh to hai. Mai Gurgaon, Sector 14 ke paas hi hoon. Tumne kaha tha ki mujhe kuch deliver karna hai, hai na?
+receiver: Haan bhai, benar sun li main. Bas ek minute, do minute lag rahegi. Kya aapko ₹3000 ka pata hai?
+caller:Haan, ji, ₹3000 ka pata hai.  Agar aapko delivery karna hai, toh mai tumhare liye ₹500 le sakta huon.
+receiver:  Arre yaar, ₹500? Yeh toh bahut kam hai! Mujhe ₹8000 chahiye, agar aap humesha such delivery karte rahenge.
+caller:  Aapko ₹8000 chahiye?  Mai samajh nahi sakta.  Mujhe sirf ₹500 chahiye, yeh toh ek small package hai.  Bataiye, ye package kitna bada hai?
+receiver:  Yeh toh ek suitcase hai, badi badi books hain usmein.  Aur warna bhi dark grey hai.  Mai tumhara number save kar li hu, phir call karta rahunga.
+caller:  Anya ji, bilkul.  Dark grey suitcase ready hai, books se bhara hua.  Koi aur item chahiye ho toh bataiye, humare paas laptops ya mobile phones bhi hain.  Aapko chahiye kya?
+receiver:  Laptops ya mobiles ki zaroorat nahi hai.  Bas suitcase ka color dark grey hai, wo hi chahta hun.  Aapne bataiya nahi, aapka naam kya hai? Agar main tumse phir call karta hun, to mujhe pata chalega.
+caller: Ji sir, woh to hai. Mai Gurgaon, Sector 14 ke paas hi hoon. Tumne kaha tha ki mujhe kuch deliver karna hai, hai na?
+receiver: Haan bhai, benar sun li main. Bas ek minute, do minute lag rahegi. Kya aapko ₹3000 ka pata hai?
+caller:Haan, ji, ₹3000 ka pata hai.  Agar aapko delivery karna hai, toh mai tumhare liye ₹500 le sakta huon.
+receiver:  Arre yaar, ₹500? Yeh toh bahut kam hai! Mujhe ₹8000 chahiye, agar aapko humesha such delivery karte rahenge.
+caller:  Aapko ₹8000 chahiye?  Mai samajh nahi sakta.  Mujhe sirf ₹500 chahiye, yeh toh ek small package hai.  Bataiye, ye package kitna bada hai?
+receiver:  Yeh toh ek suitcase hai, badi badi books hain usmein.  Aur warna bhi dark grey hai.  Mai tumhara number save kar li hu, phir call karta rahunga.
+caller:  Anya ji, bilkul.  Dark grey suitcase ready hai, books se bhara hua.  Koi aur item chahiye ho toh bataiye, humare paas laptops ya mobile phones bhi hain.  Aapko chahiye kya?
+receiver:  Laptops ya mobiles ki zaroorat nahi hai.  Bas suitcase ka color dark grey hai, wo hi chahta hun.  Aapne bataiya nahi, aapka naam kya hai? Agar main tumse phir call karta hun, to mujhe pata chalega.

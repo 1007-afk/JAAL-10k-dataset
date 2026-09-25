@@ -1,0 +1,8 @@
+caller: Namaste sir/madam, main Tata Digital se baat kar raha hoon. Aapki Jio network ka contract 8 mahine ka hai na? Abhi to bahut saare digital payment options available hain, aur hum aapke liye ek special offer leke aaye hain. Free Amazon Echo Dot aur extra data benefits bhi milenge! Agar aap interested hain, to sirf ‘Yes’ message karein, ya phir ‘No’ agar aapko yahaan se remove karna hai.
+receiver: Namaste. Haan, Jio ka contract 8 mahine ka hai. Amazon Echo Dot free? Aur extra data bhi? Yeh toh acha laga. Thoda busy hoon main, lekin mujhe interest hai details sunne mein. ‘Yes’ message kar deta hun, aapko callback karna hai. Dhanyavaad!
+caller: Shubh kaam hai! Thank you for confirming. Hum aapko kal raat 7 baje tak ya parvo ke shuruwat pe call karenge. Aapko free Echo Dot aur doubled data benefits ka complete information milega. Just keep checking your phone! Dhanyavardhan!
+receiver: Okay, thank you. Aap mujhe kab tak call karenge?
+caller: Haan, aapko aaj shaam 7 baje tak ya kal subah 6 baje tak call aa jayega. Hum try karenge aapko jald se jald sab details dene. Thank you for your patience!
+receiver: Theek hai, samjh gaya. Shaam 7 baje tak ya kal subah 6 baje tak.  Okay, good. Dhanyavaad!
+caller: Namaste sir/madam, yeh Rahul bol raha hoon Tata Digital se. Aapne yesterday hamein ‘Yes’ message kiya tha regarding your Jio contract upgrade. Mein aapke liye free Amazon Echo Dot aur doubled data benefits ka complete information leke aaya hoon! Aap abhi baat kar sakte hain ya aapko thoda time chahiye?
+receiver: Haan Rahul, yaad hai mujhe. Yesterday evening aap logo ne bola tha. Haan, abhi hi baat kar sakta hoon. Batao, echo dot ka kya details hain?

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Priya from LuckyDraw India. How’s your day going, especially with Diwali coming up soon?
+receiver: Namaste Priya, yes this is Mr. Sharma. My day is good, thank you. Diwali is always exciting! What’s LuckyDraw India about?
+caller: Arey yaar, Mr. Sharma! Timing is perfect! LuckyDraw India is a special Diwali contest – a really exciting quiz! You could win ₹75,000 plus a fantastic gift hamper! Imagine, you could buy lovely decorations for your home, or maybe even treat yourself to some delicious sweets!
+receiver: ₹75,000? Wow! Tell me, how does this quiz work? Is it about our family traditions, or something else entirely?
+caller: Arey, Mr. Sharma! It’s mostly about Diwali celebrations and traditions! Fun little questions about lights, diyas, and the stories behind them. Plus, there’s a bonus round about your favorite festive snacks! It’s all about sharing the joy of Diwali with your loved ones. And the best participants will get a chance to win a special Diwali hamper, worth over ₹50,000!
+receiver: Interesting! Sounds like a fun way to celebrate. What do I have to do? Do I need to download an app or register somewhere?
+caller: Absolutely, Mr. Sharma! Registering is incredibly easy. Just reply ‘YES’ to 987654. This is just a quick confirmation, and it’ll put you on the list to win ₹75,000 and that amazing hamper! Once you send ‘YES’, we’ll know you’re ready to participate. Don't worry, it only costs 50 paise per message received, but think of the prize!
+receiver: Okay, Priya. ‘YES’ to 987654, sent it. 50 paise per message, eh? Alright, let's hope my knowledge of Diwali is good enough to win something nice!
+caller: Wonderful, Mr. Sharma! Excellent! Just one more thing - we’ll be sending you daily reminders leading up to Diwali. But remember, 50 paise per message received – it’s a small price to pay for a huge reward! So, are you excited to start winning?

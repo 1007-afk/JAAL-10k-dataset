@@ -1,0 +1,8 @@
+caller: Hello! Fantastic news! You’ve been selected for a special prize draw – 750 rupees worth of genuine ‘Spice Route’ gift cards! To enter, just respond with ‘SPICE’ to 92345 to participate. It’s incredibly simple, and you might be lucky enough to receive some wonderful gifts. More details can be found at www.golden-deals.in.  So, shall we begin?
+receiver: Hello! Oh my goodness, 750 rupees worth of Spice Route gift cards? That's incredible! To enter, I just type ‘SPICE’ to 92345, correct? And the website has more information, isn't it? www.golden-deals.in. Yes, absolutely, let’s give it a shot! Sounds very straightforward!
+caller: Wonderful! Let’s proceed to the next stage. For your initial question: What kind of food do you enjoy cooking most? Don’t fret about it; it’s purely for getting to know you better if you happen to win!
+receiver: Okay, first question! Food… I love making Biryani. It takes time but the aroma is just divine, aur sab kuch ek saath combine hone wala hota hai.
+caller: Biryani, superb choice! Many of our recent winners appreciate that particular cuisine. Moving onto the second query - what's your favorite Bollywood film released this year? Just pick one you truly liked.
+receiver: This year? Hmm, I really loved ‘Jawan’. Shah Rukh Khan was phenomenal, aur screenplay bhi bahut interesting thi.
+caller: ‘Jawan’, excellent! Very popular film. Now, for the third question: If you had the opportunity to meet any Indian entrepreneur, who would you select? Anyone at all!
+receiver: Meeting an entrepreneur? That's a tough one! But if I had to choose, I’d select Ratan Tata. He's such a respected figure and his vision is inspiring.  Meeting him would be an honour.

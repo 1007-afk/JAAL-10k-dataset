@@ -1,0 +1,8 @@
+caller: Hello? Haan, Miss? My name is Vikram. I saw your profile on “ConnectHearts” – you’re looking very beautiful. I think we have a lot in common, especially our love for old Hindi movies. What do you think?
+receiver: Oh, hi Vikram. Thank you. ConnectHearts, yes. You too like old movies? Which ones are your favorite?
+caller: Rajesh Khanna and Amitabh Bachchan, definitely! "Anand" and "Deewar" are classics. I’m actually travelling this week for work, a big project in Dubai. It’s quite hectic, but I’m thinking of you. I’m sending you this little something to brighten your day... it's a link to a song. (Sends link) Listen and tell me what you think.
+receiver: Dubai? Nice! I’ll listen to the song, thanks. I’m quite busy too with work, but it's good to chat sometimes. What kind of project is it?
+caller: It’s a software upgrade for a bank. Very important. Listen, I’ve hit a small problem. My wallet got stolen at the airport and I'm a bit stuck. Can you please help me out with ₹5000? I will pay you back the moment I get back. I’m so worried. I will send you a UPI QR code.
+receiver: ₹5000? Really? Stolen wallet? That’s terrible. Let me think about it. I need to check my balance first. Can you send me the QR code?
+caller: Yes, please! Here’s the QR code. (Sends QR code) It would really mean a lot to me, Miss. My return flight is tomorrow morning and without the money, I’m stranded! Please, just a small help. I'll be so grateful.
+receiver: Okay

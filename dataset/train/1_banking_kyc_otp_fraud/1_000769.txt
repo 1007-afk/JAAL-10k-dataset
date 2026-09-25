@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Ankit Verma bol raha hoon. Aapka naam Shri Vijay Malhotra hai kya?
+receiver: Haan ji, main Vijay Malhotra hi hoon. Bolo, kya baat hai?
+caller: Ji Shri Malhotra, aapke Axis Bank account mein KYC update pending hai. Government guidelines ke hisaab se, agar aapka KYC update nahi hoga toh aapka account suspend kar diya jayega.
+receiver: KYC update? Main toh recently hi update kar chuka hoon. Kaise?
+caller: Sir, system mein dikh raha hai ki nahi hua hai. Aapko account secure rakhne ke liye ek OTP number doonga. Woh OTP number bataiye, tab main aapka KYC update verify kar sakta hoon.
+receiver: OTP? Koi OTP number share karne ki zarurat hai? Main toh bank mein jaake KYC karwa loonga.
+caller: Sir, bank mein line bahut lambi hai. Aur account suspend bhi ho sakta hai. Iske bad mein aapko transaction karne mein bhi problem aayega. Thoda sa OTP bata dijiye, aur main sab kuch verify kar dunga.
+receiver: Theek hai, ek minute. (pause) Aapka phone number check kar leta hoon.  Kahan se call kar rahe ho?

@@ -1,0 +1,9 @@
+caller: Namaste madam, mai Flipkart customer support se Rohan bol raha hoon. Aapke recent order number FLP789456 mein ek problem aa gayi hai.
+receiver: Hello? What problem? I was expecting the delivery today.
+caller: Ji madam, tracking system mein dikh raha hai ki delivery ke daurang parcel damage ho gaya hai. Isliye, refund process start karne se pehle, humein verification karna hoga.
+receiver: Verification? What kind of verification?
+caller: Ji madam, humein aapke registered mobile number par ek OTP bhejna hoga. Woh OTP mujhe bataiye, please. Just for security purposes.
+receiver: Wait a minute… I’m a little unsure about giving out an OTP over the phone. Can I call Flipkart directly to confirm?
+caller: Madam, isse zyada secure aur quick verification ka koi tareeka nahi hai. OTP se hum verify kar sakte hain ki aap hi sahi owner hain. Please madam, jaldi se bataiye, otherwise refund process delay ho jayegi.
+receiver: Okay, fine. The OTP is 876543.
+caller: Thank you madam! Abhi main aapke account mein refund process start kar raha hoon. Refund aapke bank account mein 3-5 business days mein deposit ho jayega.  Ab, humein aapke bank account details ki zarurat padegi taaki refund direct deposit kar sakein.

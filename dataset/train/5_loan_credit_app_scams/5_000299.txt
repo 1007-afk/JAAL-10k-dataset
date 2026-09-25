@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, CreditQuickLoans se. Aapko zaroorat hai urgent loan ki? Koi bhi problem hai - medical bills, car repair, kuch bhi?
+receiver: Haan, actually meri mummy ki medical expenses hain, aur paisa thoda tight ho gaya hai. Kitna loan mil sakta hai?
+caller: Theek hai, madam. CreditQuickLoans mein, hum ₹10,000 se ₹50,000 tak ka loan approve kar sakte hain, very quickly. Aapki credit score check kar sakte hain agar aap apna Aadhaar number share karein.
+receiver: Aadhaar number? Woh safe hai?
+caller: Haan, madam! Absolutely safe. We are RBI registered. Just for verification purposes, madam. Trust us, we’re here to help. Apni Aadhaar number share karein, main check kar deta hoon.
+receiver: Okay, mera Aadhaar number 9876543210.
+caller: Thank you, madam. Just one moment. Okay, madam, aapki credit score thodi kam hai, par hum aapko ₹15,000 ka loan approve kar sakte hain. Interest rate 15% hoga, aur processing fees ₹2,000. Repayment period 3 months. Agree karte hain?
+receiver: ₹2,000 processing fees? That seems a lot.
+caller: Madam, rules hain. Yeh compulsory hai. Agar aap approve nahi karte, toh sorry, hum nahi kar sakte. Otherwise, aapki mummy ka treatment delay ho jayega. So what do you say?

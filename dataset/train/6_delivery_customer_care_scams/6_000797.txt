@@ -1,0 +1,8 @@
+caller: Namaste! Main XYZ Courier se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai.
+receiver: XYZ Courier? Oh, okay. What's the problem? I was expecting a package.
+caller: Haan ji. Parcel mein likha hai 'incomplete address'. Aapko ek verification ke liye OTP send karenge. OTP milne ke baad, hum parcel deliver kar denge.
+receiver: OTP? Why do I need to give you an OTP? Shouldn't you be able to fix the address?
+caller: Ji, security reasons ke vajah se, hum OTP verify karte hain. Tabhi parcel deliver hoga. OTP milne ke baad, hum aapko payment link bhi send karenge ₹250 ke liye delivery charges ke liye.
+receiver: ₹250? But I wasn’t informed about delivery charges. Can you tell me the tracking number for the parcel so I can verify?
+caller: Tracking number hai G987654321. ₹250 ka payment karne ke baad parcel deliver ho jayega. Please share OTP jab aapko mile.
+receiver: Okay, just a moment. I'm going to call XYZ Courier directly to confirm this.

@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Arun Sharma? This is Inspector Verma from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Kya? Package? Mujhe toh koi package nahi mila.
+caller: Sir, our records indicate a parcel originating from Dubai arrived three days ago. Its contents are flagged for potential involvement in illegal pharmaceutical distribution. You need to clear this immediately to avoid serious legal consequences.
+receiver: Lekin... main toh kabhi kisi ko kuch nahi bheja. Yeh kya bol rahe hain?
+caller: We understand, sir. These things can happen. To verify your identity and expedite the clearance process, we require a small processing fee of ₹12,000. This will cover the investigation and storage costs.
+receiver: ₹12,000? Kaise pay karna hai? Aur kaunsa bank account mein pay karoon?
+caller: Please transfer the amount to the following UPI ID: customs.clearance@paytm. We need this urgently, sir. Failure to comply will result in a formal investigation and potential arrest. Do not discuss this with anyone.
+receiver: Wait, arrest? Kuch toh gadbad hai. Main police station mein jaata hoon.
+caller: Sir, that is not necessary. We’re handling this discreetly to protect your reputation. Disclosing this information could compromise the ongoing investigation. The UPI ID again is customs.clearance@paytm. Please comply immediately.
+receiver: Sir, mein nahi pay karunga. Yeh scam lag raha hai.

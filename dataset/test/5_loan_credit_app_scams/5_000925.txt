@@ -1,0 +1,8 @@
+caller: Hello? Is this Rohan Verma? We're calling from InstaCash Loans. We’ve noticed you applied for a loan recently.
+receiver: Yes, I did. What’s this about?
+caller: Great! Your application is almost approved for a ₹2.5 lakh loan. However, there's a small verification fee of ₹7,500 to process it urgently. Just to make sure you’re the genuine applicant. You can pay via UPI to this number: 9876543210.
+receiver: ₹7,500? I don't remember seeing anything about a fee like that in the application.
+caller: Yes, sir, it’s a standard security check. Many people try to misuse loan applications. This is to protect you and our company from fraud. Once you pay, the loan will be disbursed within 15 minutes. Don't delay, sir! Otherwise, your application might be cancelled.
+receiver: Wait a minute. This sounds fishy. I'm going to check with InstaCash directly. Can you give me a contact number for their customer support?
+caller: Sir, don't waste time arguing. Think about missing out on this fantastic opportunity! We’re doing you a favour by fast-tracking your loan. This is a limited-time offer, sir. Just send the ₹7,500, and you’ll have your money soon. We are here to assist you.
+receiver: No, I'm not paying anything until I verify this with InstaCash. I’m hanging up now.

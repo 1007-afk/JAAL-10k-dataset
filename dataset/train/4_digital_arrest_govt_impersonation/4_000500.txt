@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Verma from the Directorate of Revenue Intelligence. We’ve detected some suspicious activity linked to your bank account, specifically unusual foreign transactions. It appears you may have inadvertently been used to facilitate money laundering.
+receiver: Kya? Money laundering? Mere bank account se? Yeh kaun baat kar raha hai? Mein toh koi transaction nahi kiya.
+caller: Don't panic, sir. We are here to assist you. To clear this up, we need to verify some details quickly. Could you please provide the last four digits of your account number for verification? It's standard procedure.
+receiver: Account number? Kaise verify karoge? Mujhe thoda shaq aa raha hai. Yeh toh scam lag raha hai. Kuchh pakka nahi lag raha.
+caller: Sir, understand this is very serious. Delaying this verification could lead to your account being frozen and further investigation. To proceed, we require a small security deposit of ₹2,500 as a refundable processing fee. We’ll guide you through the process. It’s payable via BHIM UPI only.
+receiver: ₹2,500? Security deposit? BHIM se? Sirf verification ke liye? Yeh toh bilkul bakwaas hai. Koi bhi genuine government department aise nahi kahega. Mein police mein report karunga.
+caller: Sir, please, don’t jump to conclusions. This is a mandatory protocol. We’ll provide you with a reference number once the payment is confirmed. Think about the potential consequences if you refuse to cooperate – legal action, sir!
+receiver: Legal action? Okay, okay… Wait a minute. Let me just check something first. I’ll call my lawyer and get back to you. Don’t call me again just now.

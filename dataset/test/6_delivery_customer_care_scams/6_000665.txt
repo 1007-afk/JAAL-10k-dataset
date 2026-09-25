@@ -1,0 +1,7 @@
+caller: Hello, this is Raj from Delhivery. We’re calling about a parcel you’re expecting – tracking ID DL123456. It seems there's a slight issue with the delivery address.
+receiver: Oh really? What’s the issue? I thought I put the address correctly.
+caller: Yes, it's just a small discrepancy. The pin code isn't matching our system. To ensure the parcel reaches you safely, we need to quickly verify your details. Could you tell me the last four digits of your debit card associated with the Flipkart order? Just for verification purposes, you understand.
+receiver: Wait a minute, why do you need my card details for an address verification? That sounds suspicious.
+caller: Madam, it's standard procedure! We need to confirm it's you and prevent fraud. Our system requires this. Otherwise, we might have to hold the parcel at our Delhivery hub. It’s a high-value item, so we need to be extra careful.
+receiver: I’m not comfortable giving out my card details over the phone. I’ll call Flipkart directly to confirm.
+caller: Madam, please don't delay! Time is running out, and the parcel might be returned to the sender. Just the last four digits, please? It’s a matter of minutes, and you'll receive your delivery today. Think of the disappointment if it goes back!

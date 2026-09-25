@@ -1,0 +1,9 @@
+caller: Namaste! This is Raj from QuickLoanIndia. We’re offering instant loans to help with urgent expenses. Have you been facing any financial difficulties lately?
+receiver: Hello. I’m a bit short on cash this month, yes. What kind of loans do you offer?
+caller: We can approve loans up to ₹75,000 instantly! Very simple process. Just need to verify a few details. First, can you tell me your PAN card number?
+receiver: PAN card number? That seems a bit risky to give over the phone.
+caller: Don’t worry, it's standard procedure. It’s just to confirm your identity and prevent fraud. See, we want to protect *you* from fraud. Otherwise, how will we know it's really you? If you don’t cooperate, we cannot process the loan.
+receiver: Okay, fine. Here’s my PAN number…
+caller: Thank you! Now, we need a small processing fee of ₹2,500 to unlock your loan. You can send it to this UPI ID: loan.quickindia@axis. Just confirm the payment.
+receiver: A processing fee? I thought you said it was instant.
+caller: Yes, but this is a one-time fee. Once you confirm the payment, your ₹75,000 will be credited to your account within 15 minutes. Very easy. Don’t miss out!

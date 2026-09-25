@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma, calling from the Directorate of Revenue Intelligence, DRI. We need to speak with you urgently regarding a suspicious transaction linked to your bank account.
+receiver: Haan, bolhiye. Inspector Verma? Kya hua?
+caller: Sir, we've detected a large sum of money being transferred from a foreign account to your account, linked to potential involvement in illegal cryptocurrency trading and money laundering. It’s a very serious matter. We need to verify some details to ensure your cooperation.
+receiver: Yeh kya keh rahe hain aap? Main toh cryptocurrency mein kuch bhi nahi karta. Aur mere account mein itna paisa kahan se aaya?
+caller: Sir, we understand this may be confusing. But our records show a transfer of 12 lakh rupees. To clear this up and prevent further legal action, you need to pay a small processing fee of 25,000 rupees to secure your release from this investigation. Please transfer to the account number provided on your screen, and confirm the transaction.
+receiver: 25,000? Kaise kaise aap log itna paisa maang rahe hain? Main jaanta hoon yeh scam hai!
+caller: Sir, please understand, this is a formal procedure. We need proof of your willingness to cooperate. The account number is 1234567890. If you don't comply within the next hour, we will have to issue a warrant for your arrest. We are monitoring your calls, and we have video evidence against you. Don't delay!
+receiver: Arre arre arre! Yeh to theek hi nahi hai! Main police station mein jaa kar complaint karunga!
+caller: Sir, that is your right, but the police will simply refer you back to us. This is a direct matter being handled by the DRI. To avoid further

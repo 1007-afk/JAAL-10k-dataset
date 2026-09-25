@@ -1,0 +1,15 @@
+caller: Hello? Is this Mr. Sharma? We’ve got some fantastic news about your lottery win! Congratulations! You've been selected as a finalist for the Golden Fortune Rewards program! Don’t delay, call us immediately at 0700 900 900 before the end of the day to secure your prize!
+receiver: Haan, main Mr. Sharma hoon. Lottery win? Kya bol rahe ho? Prize mil sakta hai? Bataiye kya karna hoga.
+caller: Absolutely! You've won a substantial sum – ₹5,00,000! But there are some processing fees that need to be covered first. Call us back right away at 0700 900 900 to verify your information and initiate the transfer.
+receiver: ₹5,00,000? Seriously? Wow! Processing fees? Kya fee hai? Batao mene.
+caller: Just a small administrative charge of ₹10,000 to cover the legal documentation. This is standard procedure for all winners. We need to ensure everything is legitimate and secure. Please provide your bank account details so we can proceed.
+receiver: Bank account details? Abhi mat bataungi. Kuch suspicion hai. Aapka naam kya hai? Jo baat kar rahe hain?
+caller: My name is Priya, and I'm calling from Global Finance Solutions. We want to make sure this prize reaches you safely and efficiently. We only have limited slots available for today’s transfers, so don’t wait! There are only 2 remaining slots left.
+receiver: Limited slots? Today hi transfer hona hai? Okay, okay. Account details bata dungi. Par bataiye surprise kya hai?
+caller: The surprise is a bonus gift certificate worth ₹25,000 to your favorite online store! It will be delivered alongside your winnings. But hurry, only one slot remains! Please provide your account number and IFSC code quickly.
+receiver: ₹25,000 bonus? Great! Account number aur IFSC code bataungi. Lekin, yeh sab bahot speed se happening hai. Suspicion reh gaya hai.
+caller: Yes, time is of the essence! We need to finalize everything within the next hour to avoid any complications. Please cooperate and provide the necessary information. Your winning amount is waiting to be transferred.
+receiver: Okay, okay. Main bataungi. Par mujhe assurance do ki meri paisa safed tareeke se transfer honge.
+caller: Of course! All transactions are completely secure and guaranteed. Now, let’s get started with your account details. Please provide your full name and address for verification.
+receiver: Full name aur address bataungi. Lekin, yeh lottery aur prize, sab theek hai na?
+caller: Everything is perfectly legitimate and verified. Just a few more details, and you’ll be on your way to enjoying your well-deserved fortune!

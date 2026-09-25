@@ -1,0 +1,7 @@
+caller: Hello? Is this Rahul Verma? I’m calling from CreditBoost Loans. We’ve reviewed your application and pre-approved you for a loan of up to ₹75,000! Fantastic news, right?
+receiver: CreditBoost Loans? I don’t recall applying for a loan. Are you sure you have the right person?
+caller: Absolutely, Rahul Verma, registered address… yes, that’s you! Just a quick verification – can you confirm your mother’s maiden name for security purposes? It’s a standard procedure, sir.
+receiver: Wait a minute. Asking for personal details like that before I’ve even confirmed I want a loan? That's unusual. I'm getting a bit concerned.
+caller: Rahul ji, don’t worry! It's purely for security. To activate your loan, all we need is a small processing fee of ₹3,500. Just transfer it to this UPI ID: 9876543210@ybl. This will release the funds immediately.
+receiver: ₹3,500 upfront? That sounds like a scam. I'm ending this call right now. You’re blocked.
+caller: Rahul Verma, don’t be foolish! This is a limited-time offer. ₹3,500 is all that stands between you and ₹75,000! Think about it - paying your debts, buying that new TV... Don't lose out! Just send the UPI ID.

@@ -1,0 +1,8 @@
+caller: Namaste, mai Flipkart se Rahul bol raha hun. Aapke naam par ek parcel aaya hai, lekin address verify hone ke baad deliver nahi kiya gaya.
+receiver: Oh, Flipkart ka parcel? Mujhe koi order toh deta tha. Kya problem hai address mein?
+caller: Aapki registered address aur delivery address mein difference dikh raha hai. Verify karne ke liye, mujhe aapka OTP chahiye. Main OTP phone pe send karunga.
+receiver: OTP? Haan, theek hai. Par Flipkart toh OTP direct message mein send karta hai, phone call mein nahi.
+caller: Sir, system mein kuch technical problem aa gayi hai. Security ke liye main call karta hu aur OTP phone pe send karunga. OTP receive karne ke baad, aapka parcel deliver ho jayega.
+receiver: Theek hai, send karo OTP.
+caller: Thank you. OTP hai 123456. Isko check karke batao, sir.
+receiver: Wait a minute. Yeh toh mera bank account ka OTP lag raha hai. Tumhara phone number check karo toh tum Flipkart se nahi ho. Yeh scam hai!

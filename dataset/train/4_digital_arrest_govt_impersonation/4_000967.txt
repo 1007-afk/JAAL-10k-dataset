@@ -1,0 +1,9 @@
+caller: Namaste, mein Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai.
+receiver: Indian Customs? Mere naam par parcel? Main to koi parcel order nahi kiya tha.
+caller: Ji, parcel mein suspicious items mile hain. Shayad illegal maal hai. Aapko FIR number 7842-Alpha-92 mila hai.
+receiver: FIR number? Illegal maal? Mein toh kuch illegal nahi kar raha hoon. Mujhe kuch samajh nahi aa raha hai.
+caller: Shrimati Priya Sharma, aapko is matter mein court mein bhi appear hona pad sakta hai. Isko settle karne ke liye, aapko ₹15,000 ka fine deposit karna padega.
+receiver: ₹15,000? Court mein appear hona? Main aisa nahi karungi. Mujhe is bare mein aur batao.
+caller: Priya ji, time bahut kam hai. Agar aap fine deposit nahi karengi, toh hum aapke ghar police bhejenge.
+receiver: Police bhejenge? Ye to fake lag raha hai. Mein kisi se baat karti hoon.
+caller: Priya ji, don't take risk. Aapko ₹15,000 online transfer karne hain. Mein aapko account number de deta hoon.

@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank’s security department se Rahul bol raha hoon. Aapke naam par ek suspicious transaction attempt kiya gaya hai - ₹12,500 Paytm se kisi ne transfer karne ki koshish ki hai.
+receiver: ₹12,500? Mein toh Paytm use nahi karta, kabhi bhi nahi kiya. Koi transaction attempt?
+caller: Haan sir, attempt kiya gaya hai. Security protocols activate ho gaye hain. Aapke account ko freeze karne se pehle, hamein aapki identity verify karni hogi. Please apna Aadhaar card ka last 4 digits bataiye, sirf verification ke liye.
+receiver: Aadhaar number? Woh bahut confidential hai! Axis Bank toh SMS se bhi verify karta hai. Tumhe Aadhaar number ki zarurat kyu hai?
+caller: Sir, naya system hai abhi, real-time verification. SMS delay ho sakta hai, isliye direct verification zyada secure hai. Account freeze hone se bacha len, sir. Just last 4 digits, please. Aur OTP bhi nahi chahiye.
+receiver: Suno, mujhe doubt ho raha hai. Mein call cut karta hoon aur Axis Bank ke official number se khud call karta hoon, check karta hoon. Phir baat karenge.
+caller: Sir, please don’t cut the call! Account freeze ho jayega! Just a second, sir. Please confirm your PAN card number for immediate verification. Agar aap call cut kar lenge, toh aapka account permanent freeze ho jayega.

@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Rahul bol raha hoon. Aapke account mein illegal activity ka ek notification aaya hai. KYC update compulsory hai, warna account suspend ho sakta hai.
+receiver: Illegal activity? Account suspend? Yeh kya ho raha hai? Main toh aaj tak koi transaction nahi kiya.
+caller: Sir, ek online transaction hua hai Nepal mein, ₹12,000 ka. Aapne kiya ya nahi, confirm karna hai. Account safe rakhne ke liye, mujhe aapki bank details aur OTP chahiye.
+receiver: Nepal? ₹12,000? Meri toh account mein kabhi nahi gaya. OTP mat doonga, sir. Yeh scam lag raha hai.
+caller: Sir, 2 minute mein aapka account suspend ho jayega. Hum bank se call kar rahe hain. OTP sirf confirmation ke liye hai, ek chhoti si verification process hai. 3 attempts hi bache hain sir. Jaldi kar lijiye.
+receiver: Thoda wait karo, main apne bank ke customer care number se call karta hoon aur confirm karta hoon. Aur batao, Nepal mein transaction kaun sa hai? Kya naam tha?
+caller: Sir, time nahi hai, system automatic hai. ₹12,000, online shopping, Nepal. Account suspend hoga. Just OTP batao, otherwise aapka account freeze ho jayega. Abhi sirf 1 attempt bacha hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Rajeev Sharma? This is Riya calling from Stellar Investments. We’ve noticed significant trading activity in your account recently, indicating high potential for growth. We have a very exclusive opportunity for you to invest in a new crypto project, "NovaCoin," with guaranteed returns of 25% within a week.
+receiver: Stellar Investments? I don't recall ever opening an account with you. And guaranteed returns? That sounds a bit fishy, doesn’t it?
+caller: Sir, it’s a limited-time offer, based on your current portfolio's performance. NovaCoin is backed by a team of renowned blockchain experts. To participate, you'll need to transfer a small initial investment of just ₹15,000. This unlocks the opportunity and initiates the process. Absolutely secure, sir.
+receiver: Fifteen thousand rupees? Just to unlock the opportunity? And how do I transfer this money? Should I be sending it directly to a wallet?
+caller: Yes, sir. Please transfer ₹15,000 to the following UPI ID: nova.investments@xyzbank. Once transferred, please share the transaction receipt with me, and I’ll activate your NovaCoin investment immediately. The returns will be automatically credited to your account within seven days.
+receiver: Wait a minute. Nova.investments@xyzbank? I don’t recognize that bank. Let me check something…
+caller: Yes sir, we are working with XYZ Bank's new online payment portal. It's very fast and convenient. Please proceed quickly to secure your spot in this high-yield investment. Opportunities like this don't come often!

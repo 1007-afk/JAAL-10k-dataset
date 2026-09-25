@@ -1,0 +1,16 @@
+caller: Namaste sir! Main aapko do din se call kar raha hoon. Aapne WhatsApp pe notification dekha tha na? Aapke 300 premium stickers download kar sakte hain, bas 'STICKER' reply karna hai. Aapne check kiya?
+receiver: Haan, namaste ji! Sorry, office mein thoda pressure tha. Notification dekha tha, par abhi download nahi kiya. Aise hi karna hai, sirf 'STICKER' type karke reply?
+caller: Haan ji, bas 'STICKER' type karke reply karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapke 300 stickers immediately download ho jayenge. Kya karna chahte ho?
+receiver: Achha, theek hai. Chalo, abhi check karti hoon. Dekhte hain sahi sticker hain ya nahi. Bas 'STICKER' likhna hai, correct? Ya koi special code bhi hai?
+caller: Haan ji, bilkul 'STICKER' likhna hai. Koi code nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main help kar dunga. Aapke liye hi toh ye offer hai.
+receiver: Oh, thanks! Aap itne good ho. Theek hai, abhi check karti hoon. Speed ho jaye yeh, hope ho jaye.
+caller: Haan ji, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi dikkat aaye toh bina dhyan na de mat, main hoon na help karne ke liye. Ye offer abhi ke abhi valid hai, jaldi se kar lijiye.
+receiver: Okay, maine 'STICKER' send kar diya. Let’s see what happens. So, will I get a new chat window, or something like that?
+caller: Hi madam! Main aapko ek saati se call kar raha hoon. Aapne Instagram pe profile verification complete kar sakte hain, bas 'VERIFY' reply karna hai. Aapne try kiya?
+receiver: Haan, hello ji! Sorry, ghar baithe thodi kaam thi. Profile dekha tha, par abhi verify nahi kiya. Aise hi karna hai, sirf 'VERIFY' type karke reply?
+caller: Haan ji, bas 'VERIFY' type karke reply karna hai. Itna hi simple hai. Agar aap abhi karoge, toh aapki profile immediately verified ho jayegi. Kya karna chahte ho?
+receiver: Achha, theek hai. Chalo, abhi try karti hoon. Dekhte hain pata chala ya nahi. Bas 'VERIFY' likhna hai, right? Ya koi password bhi hai?
+caller: Haan ji, bilkul 'VERIFY' likhna hai. Koi password nahi, bas woh word. Simple hai ekdum. Try kijiye, agar koi problem aaye toh mujhe bataiye, main help kar dunga. Aapke liye hi toh ye offer hai.
+receiver: Oh, thanks! Aap itne helpful ho. Theek hai, abhi try karti hoon. Jaldi ho jaye yeh, hope ho jaye.
+caller: Haan ji, bilkul try kijiye. Agar ho jaye toh bataiye, mujhe khushi hogi. Aur agar koi dikkat aaye toh bina soch mat, main hoon na help karne ke liye. Ye offer kam logon ko mila sakta hai, jaldi se kar lijiye.
+receiver: Okay, maine 'VERIFY' send kar diya. Now let’s see what happens. Will I get a notification on my profile?

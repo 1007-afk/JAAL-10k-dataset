@@ -1,0 +1,6 @@
+caller: Namaste! Main Bharat Wallet se calling kar raha hoon. Aapke Bharat Wallet account mein ₹7,500 ka cashback offer hai, lekin isko claim karne ke liye aapko ek small verification process complete karna hoga.
+receiver: Bharat Wallet? ₹7,500 cashback? Verification process kya hai? Mujhe toh koi offer yaad nahi aa raha.
+caller: Haan ji, bilkul! Yeh Diwali special offer hai, sirf select customers ke liye. Verification ke liye, aapko ek OTP number dena hoga jo main aapke Bharat Wallet number par SMS karega. Phir aapko ek small security question ka jawab dena hoga.
+receiver: OTP number? Aur security question? Yeh thoda suspicious lag raha hai. Mere Bharat Wallet number ka last four digits bata do, fir main check karunga.
+caller: Maaf karna, sir, security ke vajah se main aapko OTP number phone par nahi de sakta. Woh direct aapke number par jayega. Aapko woh message check karna hai aur phir mujhe batao, fir hum process continue karenge. Jab OTP mil jayega, usko mujhe batao. Bas utna hi.
+receiver: Okay, chalo dekhte hain. (pause) Haan, OTP mil gaya. ₹7,500 cashback ka offer toh promising hai, par main abhi bhi thoda confused hoon. Aapki company ka naam aur office address bataiye.

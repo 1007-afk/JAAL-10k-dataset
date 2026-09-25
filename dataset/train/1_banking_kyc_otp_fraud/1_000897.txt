@@ -1,0 +1,8 @@
+caller: Namaste! Main Axis Bank se Rahul Verma bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai – Rs. 15,000 ka withdrawal Nepal mein hua hai.
+receiver: Nepal? Maine toh koi withdrawal toh nahi kiya! Yeh kya ho raha hai?
+caller: Ji haan, madam. Yeh fraud lag raha hai. Aapko apne account ko secure karne ke liye kuch verification steps complete karne honge. Main aapko ek link bhejta hoon, uspe aapko apna PAN card aur Aadhaar card ki copy upload karni hogi.
+receiver: PAN card aur Aadhaar? Phone pe? Yeh theek nahi lag raha hai. Bank aise nahi maangta.
+caller: Madam, time bahut kam hai. Agar aap abhi verification nahi karayenge, toh aapka account permanently block ho jayega. Yeh security protocol hai, Nepal se hone wale transactions ke liye. Apni account ko save karne ke liye abhi link pe click karein.
+receiver: Block ho jayega? Sir, mujhe ek minute de dijiye. Main Axis Bank ke official website par jaakar khud verify karta hoon. Aapko meri koi bhi personal information nahi milna chahiye.
+caller: Madam, website par verification time-consuming hai. Yeh link direct aapki security team se connected hai. Agar aap delay karte hain, toh hacker aapke account mein access kar le jayenge. One last chance hai, link pe click karein.
+receiver: Theek hai, ek kaam karo. Mujhe aapke supervisor ka number do, main khud unse baat karta hoon. Aur mujhe koi OTP ya koi bhi document upload nahi karna hai.

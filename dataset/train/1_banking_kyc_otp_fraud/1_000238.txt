@@ -1,0 +1,12 @@
+caller: Namaste sir, main HDFC Bank se baat karta hoon. Aapke account ke security ke liye call kiya hai. Aap apna account verify karna chahte hain? Agar haan, to kripya apna Aadhaar number, Voter ID number aur debit card number bataiye.
+receiver: HDFC Bank? Mujhe koi verification call ki ummeed nahi thi. Mein [Receiver’s Name] hoon, aur mujhe koi personal details share karne ki permission nahi hai. Yeh kitni boring call hai!
+caller: Sir, mein samajhta hoon aapka concern. Par yeh process hai. Hum aapke naam ko database me check karte hain. Aapka account safe rakhne ke liye verification important hai. Aap branch mein bhi jaa sakte hain, lekin yeh jaldi ho jaayega.
+receiver: Branch mein jana time waste hogaya. Phone par yeh saari details dete rehna riskly hai. Main koi card number share nahi karunga. Aapko alternate way bataiye.
+caller: Sir, aapko OTP bhej sakta hoon. Woh secure hai, aur aapko branch jaane ki bhi zaroorat nahi hogi. OTP share kare toh aapka account automatically verify ho jayega. Iske liye aapke paas sirf do attempts hain, sir. Kya hum aage badh sakte hain?
+receiver: OTP? Sir, yeh toh bahut suspicious lag raha hai. Koi bank OTP phone par maangta nahi. Mein jitna samjha hoo, utna hi confusion ho raha hai.
+caller: Sir, yeh OTP process humari system ka important part hai. Database me koi bhi information share nahi kar sakte. Aapko branch mein jaana hai toh usmein time lagega. Yeh offer sirf ek limited time ke liye hai, sir.
+receiver: Offer? Kitna offer? Aur yeh ‘limited time’ wala kya chakkar hai? Mujhe yeh sab dariya hai. Koi valid bank number bataiye jahaan main khud call karke check kar sakoon.
+caller: Sir, aapko ek link bhejna hai. Us link par click karke aap apne details fill kar dein. Woh ek secure website hai. Aapke paas sirf ek attempt aur hai, sir. Please, sir, aapka account secure rakhne ke liye yeh karo.
+receiver: Link? Yaar, yeh toh seriously fraud hai. Main koi website par apni details nahi daungi. Aapko genuinely bank se honi hai toh apna official email ID bataiye.
+caller: Sir, please, sir... Yeh OTP process bohot secure hai. Aapko koi risk nahi lena hai. Agar aap yeh nahi karenge, toh hum aapke account ko secure nahi kar payenge.
+receiver: Main koi OTP share nahi karunga, aur main call cut kar raha hoon.

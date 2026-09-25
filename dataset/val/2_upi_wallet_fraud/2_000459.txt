@@ -1,0 +1,8 @@
+caller: Namaste sir, main Paytm se Rahul bol raha hoon. Aapke Paytm wallet mein ₹5000 ka cashback offer aa gaya hai.
+receiver: Paytm cashback? ₹5000? Mujhe toh koi notification nahin aaya.
+caller: Haan sir, ye offer sirf kuch selected customers ke liye hai. Claim karne ke liye, aapko ek verification link pe click karna hoga. Link aapke wallet mein alert mein dikhega, ya main aapko OTP send kar sakta hoon.
+receiver: Verification link? Alert kahan dikhega? Aur OTP send karo toh, yeh safe hai na? Mujhe thoda doubt ho raha hai.
+caller: Haan sir, bilkul safe hai. Paytm kabhi bhi aapki personal details maangta nahin hai. OTP send kar raha hoon, just verify karke ₹5000 claim kar lijiye. Time limit hai, sir.
+receiver: ₹5000 claim karne ke liye OTP? Theek hai, OTP mil gaya. Ab kya karoon?
+caller: Ab OTP enter karke verification complete kar lijiye, sir. Jab verification ho jayega, cashback apne aap aapko mil jayega. Jaldi karo, offer expire hone wala hai.
+receiver: ₹5000 ka cashback, wow! Thank you, Paytm!

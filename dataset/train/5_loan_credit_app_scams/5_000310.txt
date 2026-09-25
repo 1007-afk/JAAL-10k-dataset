@@ -1,0 +1,7 @@
+caller: Hello, this is Priya calling from QuickCash Loans. We see you recently applied for a personal loan through our website. Just confirming, is 9876543210 the correct number to reach you?
+receiver: Haan, ji. This is Rahul Verma. Yes, that’s my number. What’s this about?
+caller: Excellent! Your application is approved for a loan of ₹50,000. Very quick and easy process. However, to activate the loan, we require a small processing fee of ₹5,000 to be deposited into this account: [provides account details].
+receiver: ₹5,000? But the website didn't mention any processing fee. It said the loan was interest-free.
+caller: Yes, normally it is. But due to recent security updates and government regulations, this small fee is now required. It's a one-time thing, I assure you. Without it, we can't release the funds. Think of it as a security deposit. Otherwise, your loan approval will expire.
+receiver: Arey yaar! This doesn't sound right. Why can’t I just get the loan? I don’t have ₹5,000 extra lying around.
+caller: Rahul, don’t delay this. We've already done the paperwork. If you don’t pay now, we’ll have to cancel the loan and report a potential fraudulent application. Also, we have your contact information and photos you uploaded. We wouldn’t want to share them with your family and friends to embarrass you. You understand? Just pay the ₹5,000 and you'll get your loan immediately.

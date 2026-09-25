@@ -1,0 +1,7 @@
+caller: Hello sir, is this Rajeev Sharma? We have a fantastic opportunity for you! You've won a cashback reward from BharatPe for referring a friend.
+receiver: Really? I didn't refer anyone. Are you sure?
+caller: Yes sir, our system detected a successful referral. To claim your ₹5,000 cashback, you just need to pay a small processing fee of ₹499. It’s a one-time charge.
+receiver: ₹499? Why do I need to pay to claim a reward? This sounds a bit fishy.
+caller: Sir, it's a security deposit to verify your account and prevent fraud. Many people try to claim fake rewards. This is standard procedure. You can pay through UPI on this number: 8765432109.
+receiver: Wait a minute. I'm not comfortable sharing my UPI details. I'll check with BharatPe directly.
+caller: Sir, don't delay! This offer is only valid for the next 10 minutes. After that, the reward will expire, and you’ll lose your ₹5,000 cashback. Just ₹499, sir!

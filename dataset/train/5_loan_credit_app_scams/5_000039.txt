@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, main LoanExpress se baat kar raha hoon. Aapko urgent loan chahiye kya? Bahut simple process hai, sirf 10 minute mein approve ho jayega.
+receiver: Hello Rajesh, thanks for calling. Actually, I need a loan for my father’s medical expenses. It’s quite urgent.
+caller: Achaa! Bohot achha. LoanExpress mein hum emergency medical loans ke liye special offer kar rahe hain. Kitne rupay ki loan aapko chahiye?
+receiver: Around ₹3 lakh would be ideal, if possible. Can you tell me about the interest rates?
+caller: ₹3 lakh bilkul ho jayega! Interest rate sirf 12% per annum hai. Bas aapko ek small processing fee pay karna hoga, ₹5,000. Aur ek guarantee form sign karna hoga.
+receiver: A guarantee form? What kind of guarantee will you require? This sounds a bit fishy.
+caller: Sir, guarantee form sirf formality hai. Hum aapke bank account details aur some ID proof le lenge. Aise karna padta hai rules ke according. Please, agar aap loan chahiye toh fast reply karein. Warna offer khatam ho jayega.
+receiver: Okay, I will think about it and get back to you. What's your number?

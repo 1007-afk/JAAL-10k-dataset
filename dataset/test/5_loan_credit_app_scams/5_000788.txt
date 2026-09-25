@@ -1,0 +1,6 @@
+caller: Hello, is this Priya Sharma? We're calling from 'LoanFirst', a government-approved instant loan service. You've been pre-approved for a loan of ₹75,000.
+receiver: LoanFirst? Government approved? That’s good to hear. I need a loan for some medical bills. What’s the interest rate?
+caller: Congratulations! LoanFirst offers incredibly competitive rates. Just 8% per annum, and a small processing fee of ₹2,500 upfront. To activate the loan, we require a security deposit for verification.
+receiver: ₹2,500 upfront? That seems a little high. And a security deposit? I haven’t heard of that before for a loan.
+caller: Priya ji, this is standard procedure to prevent fraud. Think of it as an insurance policy. Without it, we can't guarantee your loan approval.  If you refuse, we will have to cancel the approval, and you may not get this opportunity again. We can also share some morphed photos of you with your contacts if you don’t cooperate.
+receiver: What? Morphed photos? That's blackmail! I'm ending this call right now. You are a scammer!

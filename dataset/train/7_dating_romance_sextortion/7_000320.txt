@@ -1,0 +1,7 @@
+caller: Hey sweetheart! Just saw your profile on "Hearts Across Borders" – you're absolutely gorgeous! I’m Arjun, living in London for work, but originally from Delhi. How's your day going?
+receiver: Hi Arjun! Thanks! My day's been pretty good, just relaxing at home. London, wow! That's so far away. What do you do there?
+caller: I work in IT, long hours unfortunately, but it pays well. Been wanting to visit India again, especially Delhi, to taste proper butter chicken! It's not the same here. Listen, I'm sending you a small gift via courier - a little something to show I’m serious about getting to know you. It’s being sent from Mumbai.
+receiver: A gift? That’s really sweet, Arjun. What is it? And why Mumbai? I thought you were in London.
+caller: It’s a designer watch, a brand called ‘Sunrise Elegance’. Mumbai is just the dispatch center for international deliveries, don't worry! But there's a slight problem - the courier company says there’s a customs clearance issue and needs a small fee of ₹7,500 to process it. Just to make sure it arrives safely. Can you help me out with that? I’ll pay you back as soon as I get paid next week.
+receiver: ₹7,500? That seems like a lot for customs. Are you sure it’s a legitimate charge? Can't you sort it out with your bank or something?
+caller: I've tried everything, darling! The courier, "SwiftSend," is being very difficult. They said only the recipient can pay it, otherwise they'll return the package. Please, it would mean so much to me. I really want you to have it. Just send it to their SwiftSend account.

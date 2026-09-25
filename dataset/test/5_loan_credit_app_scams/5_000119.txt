@@ -1,0 +1,9 @@
+caller: Namaste! Sir, is this Akash Verma? Speaking? This is Raj from ‘QuickCash Solutions’. We’ve noticed you recently applied for a small loan online.
+receiver: Haan, main Akash Verma bol raha hoon. Haan, tha ek application… kya baat hai?
+caller: Excellent! Sir, your application has been pre-approved for a loan up to ₹75,000. But before we finalize things, we need to verify some details quickly. It’s a very simple process.
+receiver: ₹75,000?  Accha… verification kya hai? KYC check hai kya?
+caller:  Exactly!  We just need your bank account details and a one-time password sent to your phone.  This confirms you are the account holder.  Just send the OTP when you receive it, and the money will be credited to your account within an hour.  Don’t delay, sir, this offer is only valid for the next 15 minutes.
+receiver:  OTP?  Parantu… mujhe toh koi OTP nahi mila abhi tak. Aur bank details de doon toh thoda risky lagega.
+caller: Sir, are you sure you haven’t received it?  It’s very important!  Look, we can’t hold the approval for much longer.  If you don't respond quickly, we'll have to cancel the loan.  Also, we need confirmation of your address - can you quickly confirm your current address is 42, Anand Vihar, Delhi?
+receiver: Haan, woh address mera hai. Par OTP abhi bhi nahi aaya. Aur ₹75,000 ka loan, interest kitni hogi?
+caller: Sir, the interest is very competitive, only 8% per annum.  But more importantly, we need that OTP.  We’ve received a report that your

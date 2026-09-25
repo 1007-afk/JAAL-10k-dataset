@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Rahul bol raha hoon. Aapke account mein ek pending delivery hai, lekin address verify nahi ho paaya. Package mein kuch sensitive items hain, isliye hum confirm karna chahte hain.
+receiver: Flipkart? Kya delivery hai? Mujhe koi notification nahi aaya.
+caller: Ji, woh toh system error tha. Humne abhi correct kiya hai. Aapka OTP share karein, tabhi package deliver kar paenge. OTP 123456 hai.
+receiver: OTP? Tumhare WhatsApp pe message nahi aaya? Flipkart kabhi OTP phone pe mat puchta hai.
+caller: Haan ji, server down tha. So hum direct call kar rahe hain. OTP confirm karein, please! Package aaj hi a jayega.
+receiver: Wait, mujhe doubt ho raha hai. Tumhara employee ID number kya hai? Aur kon se package hai? Mujhe Flipkart customer care number se call karke confirm karna hai.
+caller: Arre sir, employee ID dene ki koi jarurat nahi hai. Package mein aapki favourite saree hai! Jaldi confirm karein, warna package return ho jayega.
+receiver: Nahi, main confirm nahi karunga. Tum fake ho. Main Flipkart customer care se contact karta hoon.

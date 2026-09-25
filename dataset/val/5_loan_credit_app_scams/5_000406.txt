@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul from QuickCash Solutions. We're offering instant loans, no credit check, for anyone facing urgent needs. Just need to confirm your name, please.
+receiver: Hello, my name is Rajesh Kumar. I’m a small shop owner and I need some money to restock my inventory.
+caller: Wonderful, Rajesh ji! QuickCash Solutions is perfect for you. We can provide a loan up to ₹75,000 for your shop's inventory. It's a simple process. To proceed, we need to verify a few details. Could you tell me your bank account details?
+receiver: Bank account details? Why do I need to give you those?
+caller: Rajesh ji, it's standard procedure. We need to confirm the account is active for the loan transfer. Plus, we need a small processing fee of ₹5,000 to be deposited into a particular account, it will be deducted from your loan amount later. Trust me, it’s necessary.
+receiver: ₹5,000 upfront? That seems a bit… unusual.
+caller: Rajesh ji, we’re doing this to ensure you’re a serious applicant. Think of it as a security deposit. Once the loan is approved, it will be adjusted. Send it to this UPI ID: 9876543210@yono.sb.

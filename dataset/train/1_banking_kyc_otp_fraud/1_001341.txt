@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? This is Rohan calling from ICICI Bank’s KYC department.
+receiver: Haan, main hi Priya Sharma bol rahi hoon. KYC department? Kya baat hai?
+caller: Ma’am, there’s a slight discrepancy in your account information, and we need to urgently update your details to prevent any suspension of your account. It's a new security protocol.
+receiver: Account suspension? Why wasn't I informed earlier? What discrepancy are you talking about?
+caller: Ma’am, it’s regarding your linked Aadhaar card. There’s a mismatch. To rectify this, we require your Aadhaar number, PAN card number, and the last four digits of your account number for verification purposes. Just to confirm you are the legitimate account holder.
+receiver: Wait a minute. I’ve never had to share these details over the phone before. Isn’t there a secure online portal I can use? This feels a little risky.
+caller: Ma’am, this is a time-sensitive matter. The portal is experiencing temporary technical difficulties. We need to resolve this immediately to avoid account suspension. It's a matter of few minutes ma'am, just give me the details quickly.
+receiver: Account suspension sounds serious, but I’m still not comfortable sharing this information over the phone. Could you provide me with a reference number or the name of the officer I'm speaking with, so I can verify this with the bank directly?
+caller: Ma'am, our system automatically generates reference numbers. It’s a dynamic code and changes every second. The most important thing is to secure your account now. Just the Aadhaar and PAN, please. The system is flagging it as high risk.

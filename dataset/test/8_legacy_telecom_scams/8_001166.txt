@@ -1,0 +1,10 @@
+caller: Namaste sir, bahut mazaaq kar rahe ho! Aapne ‘ShineBright Lottery’ mein jeet liya hai ₹15,000! Is prize ko claim karne ke liye, please apni UPI ID bataiye.
+receiver: Kitna? ₹15,000? Wo kaise?  UPI ID pooch rahe ho?  Main toh abhi bhi maaya nahi!  Ismein koi bakwas nahi hai.  Aapko kuch nahi milna hai.
+caller: Arre bhai, yeh bakwaas mat karo! ShineBright Lottery ne aapko jeetaya hai!  Yeh lottery online thi, aur aapko jeetne ke liye sirf UPI ID chahiye.  Aapka paisa jaldi se aapke paas aa jayega, trust me!
+receiver: Online lottery?  Mai toh offline lottery hi karta hun.  Aur UPI ID dena hai?  Main apne bank account ka password bhi nahi deta, isse acha!  Aapki identity check kariye, bina identity check ke UPI ID mat dedo.  Aapka naam bataiye aur company ka address bataiye.
+caller: Sir, main Vikram Singh, ‘ShineBright Lottery’ se hoon.  Aapka UPI ID ‘Vikram_Pay_Now@gmail.com’ hai.  Aapko paisa instantly mil jaayega, jitni soon possible.  Hurry up, this offer is valid only for today!
+receiver: Vikram_Pay_Now@gmail.com?  Haan, woh meri UPI ID hai.  Par main ye account use kartey kaise?  Aur yeh offer aaj till valid hai?  Aap mujhe transaction history dikhaaye, jab maine lottery jeeta tha.  Main dekhna chahta hun ki yeh genuine hai ya nahi.
+caller: Sir, transaction history nahi hai, kyunki yeh jeetne wala paisa hai!  Yeh aapke account mein automatically deposit ho jayega.  Aapko sirf UPI ID provide karna hai, rest we take care of it.  Apeen, paisa aapke account mein aa jayega, jitni soon possible.
+receiver: Automatically deposit?  That sounds too good to be true!  Aapne mujhse koi confirmation email bheja tha?  Aur email mein jo number diya tha, woh account number hai ya IFSC code?  Main dekhoonga ki woh same hai.
+caller: Haan sir, email bheja tha.  Email mein jo number diya tha, woh account number hai.  Please check karein.  Aur agar koi problem hai, to humein call back karna hai.  We are here to help you.
+receiver: Okay, I will check the email.  But one more thing, aapne mujhse phone pe hi UPI ID puch li.  Ye toh risky hai!  Main kabhi bhi UPI ID share nahi karta.  Main abhi gaaliyon se bhi beh sakta hun, lekin UPI ID nahi!

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Rohan Sharma hai, main Indian Customs Department se bol raha hoon. Aapki ek parcel Delhi mein customs clearance ke liye pending hai.
+receiver: Kya? Mere parcel mein problem hai? Mainne toh recently kuch order kiya tha.
+caller: Ji, parcel mein illegal documents paaye gaye hain. Isliye parcel hold kar diya gaya hai. Aapko parcel release karne ke liye kuch fees pay karne hogi.
+receiver: Illegal documents? Yeh kaise ho sakta hai? Mujhe toh kuch pata nahi hai. Kis company se maine order kiya tha?
+caller: Woh details main aapko nahi bata sakta, sir. Security reasons se. Aapko ₹8,500 fee pay karni hogi. Aap UPI se pay kar sakte hain. Main aapko payment details send kar dunga.
+receiver: ₹8,500? Yeh zyada lag raha hai. Main police mein report karunga agar yeh koi scam hai. Please provide me with a case reference number and the name of the investigating officer.
+caller: Sir, aapko serious hona chahiye. Yeh matter serious hai. Agar aap pay nahi karte, toh hum aapke khilaf legal action lenge. I will send you a screenshot of the pending fees to your WhatsApp number immediately.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Rajesh from InstaCash Solutions. We've noticed you recently applied for a personal loan. Good news! You’ve been pre-approved for a loan of ₹75,000 with a very attractive interest rate. To activate, please visit our secure verification portal: secure-instacash.online.
+receiver: InstaCash Solutions? I don’t remember applying for any loan. And that website looks suspicious.
+caller: Sir, don't worry! It's a limited-time offer for a select few. The portal is completely secure. Just input your bank details and a small verification fee of ₹999 to unlock your loan. Think of it as a processing charge. It will be deducted and then refunded once the loan is disbursed.
+receiver: ₹999? So I have to pay something upfront? I thought it was a pre-approved loan. Why wasn't this mentioned earlier?
+caller: Sir, this small fee ensures your account is verified and protects you from fraud. We’re just being extra cautious!  Only 3 slots are left for this offer! Enter the verification code sent to your phone on the website to confirm. Hurry!
+receiver: Okay, I see a code on my phone.  I'll enter it… But if something goes wrong…
+caller: Excellent! The system is processing now.  Congratulations, Sir! Your loan of ₹75,000 is almost yours. Now, to prevent any misuse of your funds, we require a quick transfer of ₹5,000 to a designated account for security purposes. This is standard procedure.

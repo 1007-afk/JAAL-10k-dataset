@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Rupali Axis Bank se bol rahi hoon. Aapke Axis Bank account mein ₹12,000 ka suspicious transaction hua hai.
+receiver: ₹12,000? Acha, mujhe toh koi notification nahi aaya. Kya hua exactly?
+caller: Sir, ek online transaction hua hai ek unknown website pe. Isko block karne ke liye, aapko apne bank account ki details confirm karni hogi – bank name, account number aur OTP jo aapko SMS karega.
+receiver: Sirf OTP? Aur bank details bhi do sakte ho? Ye thoda strange lag raha hai. Axis Bank toh aise call nahi karta.
+caller: Sir, security ke liye hum bank details bhi verify karte hain. Jaldi karo sir, otherwise transaction permanent ho jayega aur ₹12,000 ka loss aapko hoga. Number dial karein: 9876543210.
+receiver: Wait, wait… ek minute. Main khud Axis Bank app pe check karta hoon. Aap thode confuse kar rahe ho.
+caller: Sir, time barbaad mat karein. ₹12,000 ka loss sirf ek call se bach sakta hai. Number dial karein: 9876543210. Jaldi!

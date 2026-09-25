@@ -1,0 +1,8 @@
+caller: Hello, this is Akash calling from Delhivery customer support. We've detected an unusual activity on your package delivery for order #DL98765.
+receiver: Okay, what kind of unusual activity? I’m expecting a parcel.
+caller: Sir, it appears there’s a customs clearance issue. To resolve this, we need to verify a one-time password sent to your registered mobile number. Please share the OTP so we can release your package.
+receiver: OTP? Why can’t I just pick up the package at the local Delhivery hub? This seems a bit strange.
+caller: Unfortunately, sir, due to new security protocols, OTP verification is mandatory for all international shipments. We need to confirm you’re the rightful owner. The package contains electronics, and there are strict regulations. Just a quick four-digit OTP, sir.
+receiver: Alright, let me see… what’s the sender's name on the package?
+caller: The sender is listed as "GlobalMart Imports". The OTP has been sent. Can you please share it with me so I can update the system and ensure smooth delivery? There's a small delivery charge of 250 rupees that needs to be verified too.
+receiver: Wait, a delivery charge? I wasn't informed about this. And I'm not giving you the OTP over the phone. I’m calling Delhivery directly to verify.

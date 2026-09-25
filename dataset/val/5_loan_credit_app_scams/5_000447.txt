@@ -1,0 +1,11 @@
+caller: Namaste, sir? Yeh Vinay, QuickCash Solutions se. Aapki file approved ho gayi hai 50,000 rupaye ka loan ke liye. Bas kuch formalities bachi hain.
+receiver: Oh, really? That’s great news! I was hoping I’d get approved. What formalities are left?
+caller: Sir, security verification ke liye aapko ek OTP mil raha hoga. Woh mujhe bataiye. Aur ek chota processing fee hai, sirf ₹2500, which will be credited back to your account once the loan is disbursed.
+receiver: ₹2500? But you didn't mention a fee before. Is that standard procedure?
+caller: Sir, policy change ho gaya hai. Agar aap abhi fee pay kar dete hain toh loan aaj hi disburse ho jayega. Warna, process delay ho sakta hai. Hamara system automatic hai, sir. Koi manual intervention nahi hai.
+receiver: Okay, fine. Send the OTP then. I’ll pay the fee.
+caller: Theek hai sir. OTP hai 749128. Abhi pay kar dijiye, sir. Account details mein ₹2500 transfer kar dijiye, Paytm par.
+receiver: Done. Paid the amount. Now, when will the loan be disbursed?
+caller: Sir, system mein kuch technical issue aa gaya hai. ₹2500 ke ilava ab ₹5000 aur transfer karni padegi, otherwise we can’t guarantee the loan. Yeh bhi sirf processing fee hai, sir.
+receiver: What? This is ridiculous! You said ₹2500 only. I’m not paying anything more.
+caller: Sir, hum aapko harass karna nahi chahte. Lekin agar aap pay nahi karte, toh hum aapke contacts ko morphed photos bhej denge

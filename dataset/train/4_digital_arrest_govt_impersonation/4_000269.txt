@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Kapoor? I’m calling from the Directorate of Enforcement, ED. We’ve detected some unusual activity linked to your bank account.
+receiver: Haan, main Mrs. Kapoor hoon. Kya hua? Unusual activity? Mere bank account mein?
+caller: Ji, ma’am. We've flagged several large transactions linked to online gambling and potential money laundering. These activities are against Indian law. We need to verify some details immediately to prevent further action.
+receiver: Gambling? Money laundering? Main toh kabhi online gambling nahi karti! Yeh galat hai. Mainko kaise pata chala mera account number?
+caller: Ma’am, please don’t panic. We understand this might be a misunderstanding. To clear things up, we need you to transfer ₹15,000 as a security deposit to confirm you are the legitimate account holder. This will demonstrate your good faith and cooperation.
+receiver: ₹15,000? Security deposit? Yeh toh scam lag raha hai! ED aise phone pe security deposit nahi maangti. Main police mein complaint karungi.
+caller: Ma’am, please listen carefully. This is a crucial step. If you don’t comply within the next hour, we will have to register a formal FIR against you and freeze your account. It’s a serious matter, ma’am. Just follow the instructions and everything will be fine.
+receiver: FIR? Freeze my account? Theek hai, bataiye kaise transfer karu. Par main number save kar rahi hoon, aur FIR register karwaungi agar kuch galat hua.

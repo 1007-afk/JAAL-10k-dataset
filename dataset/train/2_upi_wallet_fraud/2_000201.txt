@@ -1,0 +1,7 @@
+caller: Namaste, madam. Mein BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein aaj ek suspicious transaction attempt kiya gaya tha. Security ke liye, aapko verify karna hoga.
+receiver: Acha? Koi transaction attempt hua? Mujhe toh koi message nahi aaya. Verify kaise karna hai?
+caller: Haan, madam. Ek attempt ₹4999 ka kiya gaya tha, lekin block ho gaya. Verify karne ke liye, aapko apna BharatPay UPI PIN batana hoga. Yeh bas 2-3 minute ka hi kaam hai.
+receiver: UPI PIN? Mujhe sunne mein yeh thoda uncomfortable lag raha hai. BharatPay toh kabhi phone pe PIN nahi maanga.
+caller: Madam, please understand. Yeh security protocol hai. Agar aap verify nahi karti, toh aapka account suspend bhi ho sakta hai aur ₹4999 ka loss bhi ho sakta hai. Iske saath hi aapko ₹1000 ka instant cashback bhi milega.
+receiver: ₹1000 cashback? Thik hai, phir mein bataungi. Mera UPI PIN hai 7890.
+caller: Shukriya, madam! Verify ho gaya hai. Cashback aapke wallet mein 24 hours mein deposit ho jayega. Ab aapka account completely safe hai.

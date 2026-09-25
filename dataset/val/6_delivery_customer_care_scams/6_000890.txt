@@ -1,0 +1,8 @@
+caller: Namaste! Main Bluebird Courier se Rohit Sharma bolta hoon. Aapke Flipkart order number FLP78429536 mein kuch problem aa gaya hai.
+receiver: Kya problem hai? Mein toh order expect kar rahi hoon.
+caller: Dekhiye, delivery ke dauraan package damage ho gaya hai. Refund process start karne ke liye humein aapke bank account details aur OTP chahiye.
+receiver: OTP? Flipkart toh direct refund karta hai! Account details kyun chahiye?
+caller: See, new policy hai. Refund process verify hone ke liye OTP verify karna hoga, sir. Security ke liye hai. Aur ₹500 bhi chahiye damage assessment fees ke liye.
+receiver: ₹500? Damage assessment fees? Ye toh scam lag raha hai. Mein Flipkart customer care se baat karti hoon.
+caller: Arey sir, customer care ke paas ye information nahi hogi. Ye confidential hai, just in between us. Please provide the OTP, sir, otherwise we'll have to cancel the order. And the ₹500, sir, otherwise we cannot proceed.
+receiver: Cancel karo order. Mujhe kuch nahi chahiye. Yeh loag theek nahi hai.

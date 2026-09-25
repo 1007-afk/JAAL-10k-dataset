@@ -1,0 +1,6 @@
+caller: Hello, good afternoon! This is Rohit calling from FedEx regarding your package. There's a hold on delivery due to an unpaid customs fee.
+receiver: Customs fee? I didn’t order anything recently. Are you sure you have the right number?
+caller: Yes, madam. The tracking number is XJ4592876. It's a high-value item, and customs requires a small fee of ₹2800 to clear it. We need to resolve this quickly to avoid return to sender.
+receiver: ₹2800? That seems a lot. Can you send me an email with the tracking details and the invoice? I want to verify it.
+caller: Absolutely! To process this payment securely, I’ll need you to send me the OTP you receive on your registered mobile number. It’s just a standard verification procedure.
+receiver: OTP? Wait a minute. You want my OTP to pay a customs fee? That doesn’t sound right at all. FedEx would never ask for an OTP. I'm calling them directly to confirm this.

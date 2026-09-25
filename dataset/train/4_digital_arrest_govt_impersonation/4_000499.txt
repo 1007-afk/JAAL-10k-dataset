@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Kapoor residing at Flat 203, Sunshine Apartments? I’m calling from the Central Goods and Services Tax (CGST) department. We've detected some unusual activity on your GST account.
+receiver: Haan, woh main hi hoon. Kya hua?
+caller: It appears a large sum of money, approximately ₹12 lakh, has been transferred from your GST account to an unknown entity. We believe this could be a case of fraudulent activity. We need to verify your details immediately to prevent further losses.
+receiver: ₹12 lakh? Fraud? Par main toh kuch transfer nahi kiya.
+caller: That’s what we suspected. To secure your account and initiate an investigation, we need you to log in to the GST portal using your credentials on this secure link: securegst.online. It’s crucial you do this right away. We will guide you through the verification process over the phone.
+receiver: Securegst.online? Main kabhi sunni nahi. GST portal toh kuch aur naam se hota hai na?
+caller:  Mrs. Kapoor, this is a new, enhanced security portal. Don't worry, it's perfectly safe. The system requires immediate action to block the fraudulent transaction. Just log in and follow the instructions; we need to confirm a one-time password sent to your registered mobile number to secure your account. Do it quickly, before the fraudsters empty your account completely!
+receiver: Woh dekhiye, mujhe yeh thoda se suspicious lag raha hai. Main logon se poochti hoon aur phir call karti hoon.
+caller: Mrs. Kapoor, please understand the urgency of this matter. Time is of the essence! If you delay, the ₹12 lakh will be lost permanently. We have limited time to recover the funds. Confirm your login details now or risk losing a substantial amount of money.

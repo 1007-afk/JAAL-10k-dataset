@@ -1,0 +1,7 @@
+caller: Namaste, Madam. Main SafeLoan Solutions se Rohan bol raha hoon. Aapki financial requirements ke bare mein sunna chahte hain. Kya aapko urgent loan chahiye?
+receiver: Haan, mujhe thoda loan chahiye tha. Bank se mil nahi pa rahi. Kitne tak mil sakte hain?
+caller: Aapko jitna bhi chahiye, Madam. Hum ₹2 lakh tak ka loan instant approve kar sakte hain. Aapka PAN card aur Aadhaar card hai na?
+receiver: Haan, hai. Lekin interest kitna hoga? Mujhe zyada interest nahi chahiye.
+caller: Madam, humara interest rate market mein sabse kam hai – sirf 12% per annum. Aur process bhi bahut simple hai. Aapko bas ek small processing fee bharne hogi. ₹5000.
+receiver: ₹5000? Kitne time ke liye loan? Aur processing fee kyon?
+caller: ₹5000 processing fee insurance charges hain, Madam. Loan 6 mahine ka hoga. Account mein paisa kal tak transfer ho jayega. Aapke kisi relative ka phone number dedo verification ke liye?

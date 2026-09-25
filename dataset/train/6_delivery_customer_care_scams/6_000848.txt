@@ -1,0 +1,7 @@
+caller: Namaste! Main Rahul Verma, Blue Dart Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address galat likha hua hai.
+receiver: Haan, sahi hai. Mujhe ek parcel aane ki umeed hai. Kya parcel ka tracking number hai aapke paas?
+caller: Haan ji, tracking number hai - BD789012345. Lekin parcel deliver karne se pehle, humein verify karna hoga ki aap hi receiver hain. Aapko OTP milega apne registered mobile number par, woh bataiye.
+receiver: OTP? Par aise toh kuch parcel delivery company OTP nahi puchti. Mujhe doubt ho raha hai.
+caller: Sir, ye security protocol hai. Agar aap OTP nahi bataenge toh parcel return ho jayega. Hum log fraud se bachne ke liye ye kar rahe hain. Just OTP bata dijiye, aur parcel aapke haath aajaye ga.
+receiver: Okay, theek hai. OTP bataata hoon. Wait, what's the OTP?
+caller: Sir, aapko OTP nahi mila? Woh… hum system mein check karte hain. Aapka registered mobile number check kar sakte hai?

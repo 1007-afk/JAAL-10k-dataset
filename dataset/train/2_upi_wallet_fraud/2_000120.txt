@@ -1,0 +1,7 @@
+caller: Hello! Main BharatPay se Rahul bolta hoon. Aapke BharatPay wallet mein ₹5000 ka cashback offer hai! Claim karne ke liye, sirf ek verification process complete karna hai.
+receiver: Cashback? ₹5000? BharatPay pe? Sach mein? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, sir! Yeh offer sirf selected customers ke liye hai. Verification ke liye, aapko ek OTP apne BharatPay linked number pe receive hoga. Woh OTP mujhe bata dijiye.
+receiver: OTP? Mere number pe? Par main toh BharatPay use karte hoon, lekin kabhi nahi suna koi offer. Thoda doubt aa raha hai. OTP share karna safe hai kya?
+caller: Sir, bilkul safe hai! Yeh OTP verification sirf aapke account ko secure karne ke liye hai. Iske bina cashback claim nahi ho payega. Jaldi kijiye, offer abhi valid hai. OTP dikhaiye.
+receiver: Theek hai, OTP hai [invented number, e.g., 123456]. Lekin agar yeh scam nikla toh? Main complaint karunga BharatPay se.
+caller: Thank you, sir! Verification complete ho gaya hai. Ab aapka ₹5000 cashback instantly aapke BharatPay wallet mein add ho gaya hai. Enjoy!

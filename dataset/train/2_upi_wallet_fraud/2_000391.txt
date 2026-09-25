@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Vijay hai, BharatPay se. Aapke BharatPay wallet mein ₹500 ka cashback offer aa gaya hai. Claim karne ke liye, kuch details confirm karna padega.
+receiver: Oh, really? ₹500 cashback? That's great! What details do I need to provide?
+caller: Ji, sirf kuch basic details. Aapka BharatPay registered phone number aur ek OTP jo aapko SMS se milega. Isse verify ho jayega ke aap valid user hain.
+receiver: Okay, my phone number is 9123456780. Let me check my SMS... okay, I got an OTP. It's 9876.
+caller: Shukriya! Abhi ₹500 aapke wallet mein transfer ho gaye hain. Bas ek chota sa verification check karna hai. BharatPay security ke liye, aapko apna UPI PIN bhi share karna padega.
+receiver: My UPI PIN? Are you sure this is necessary? It seems a bit risky…
+caller: Ji, bilkul! Security purposes ke liye hi. Yeh sirf ek minute ka kaam hai. Jab aap UPI PIN share kareinge, tab hi cashback permanent ho jayega. Agar nahi karenge, toh woh expire ho jayega.

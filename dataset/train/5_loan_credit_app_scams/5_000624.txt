@@ -1,0 +1,7 @@
+caller: Hello, is this Anjali? I'm calling from LoanExpress. We’ve reviewed your application and it’s almost approved! Just need a few quick verifications.
+receiver: LoanExpress? I don’t recall applying for a loan. I’ve been busy with work. What's the loan amount they approved me for?
+caller: Congratulations! You’re approved for ₹75,000. A fantastic offer, especially given the current rates. To activate it, we need to confirm your bank account details. A small processing fee of ₹750 will be required upfront.
+receiver: ₹750 upfront? That's unusual. Usually, they deduct the fees from the loan amount itself. And I still don’t remember applying. Can you tell me the application reference number?
+caller: Absolutely! The reference number is LE45892. The fee is necessary to prevent fraud and ensure the loan is transferred securely. We also require a selfie with your Aadhaar card to verify your identity. Just hold it up to the camera – it's standard procedure.
+receiver: A selfie with my Aadhaar? That's incredibly risky. And this whole thing smells fishy. I'm not comfortable sharing this information, especially when I don’t even remember applying. I’m going to report this number. Goodbye.
+caller: Wait, wait! Anjali, don't do that! Just send the selfie, it’s perfectly safe! We'll double the loan amount, ₹150,000 instead! Think about it, Anjali! Don’t miss this chance.

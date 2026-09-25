@@ -1,0 +1,10 @@
+caller: Hello, is this Priya Sharma? I’m calling from FreeCharge Rewards. You've been selected for a special cashback promotion!
+receiver: FreeCharge? Cashback? What’s the catch? I’ve heard of these things being scams.
+caller: No catch at all, Madam! As a loyal FreeCharge user, you’re eligible for 15% cashback on your next transaction. It’s a limited-time offer. All we need you to do is verify your account.
+receiver: Verify? How? I don’t give out my details easily. What information do you need?
+caller: Just a quick verification, Madam. We need to confirm your registered mobile number and the last three digits of your bank account linked to FreeCharge. It's for security purposes only. We won't ask for your full bank details or OTP.
+receiver: My bank account details? That sounds risky. Why can’t I just use the FreeCharge app to verify? This phone call feels suspicious.
+caller: Madam, the app’s verification process is temporarily down due to maintenance. We’re offering this expedited service for selected users like yourself. Don’t miss out on this exclusive 15% cashback! It's a one-time opportunity. Please provide the details to activate the offer immediately.
+receiver: Maintenance? That’s convenient. I’m not comfortable giving out those details over the phone. I’ll check the app myself. Thank you, but no thank you.
+caller: Madam, please understand that this offer is expiring very soon. Once the maintenance is complete, you will no longer be eligible. For your convenience, I can send a one-time link to your registered email address to facilitate the verification.
+receiver: A link? To my email? I’m still not convinced. I’m going to block this number and report this to

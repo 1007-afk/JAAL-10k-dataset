@@ -1,0 +1,6 @@
+caller: Hello! Main BharatPay se Deepak bolta hoon. Aapko ₹7000 ka cashback offer mila hai apne BharatPe wallet par, aaj special Diwali offer ke hisaab se.
+receiver: ₹7000 cashback? Really? Diwali offer? Main toh jaanta hi nahi tha.
+caller: Haanji! Par yeh offer sirf 10 logon ke liye hai. Aap unmein se ek ho sakte hain. Bas, apni KYC details update karwa lijiye, aur ₹7000 direct aapke wallet mein deposit ho jayega.
+receiver: KYC details? Kya details chahiye? Aadhar card ya kuch aur? Thoda doubtful lag raha hai.
+caller: Sir, tension mat lijiye. Bas naam, date of birth aur ek photo ID ki requirement hai. Hamara app completely secure hai. Yeh Diwali special offer hai, miss mat kijiye! Phir regret karenge.
+receiver: Theek hai, naam toh doonga. Rahul Verma. Date of birth... 15/08/1988. Photo ID ke liye mujhe ek minute de do. Acha, photo ID number bhi doonga, yeh batao, kon sa photo ID acceptable hai?

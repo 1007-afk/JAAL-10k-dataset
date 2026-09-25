@@ -1,0 +1,8 @@
+caller: Namaste, Sir. This is Inspector Raj from the Directorate of Revenue Intelligence, DRI. We need to speak with you urgently regarding a suspicious shipment linked to your name.
+receiver: Kya? Mere naam se? Kaun se shipment? Main toh koi shipment nahi kiya.
+caller: Sir, our records indicate a parcel containing undeclared goods – potentially narcotics – was recently registered under your address. It originated from overseas. This is a serious matter, Sir. We need your cooperation to prevent legal complications.
+receiver: Yeh toh galat hai! Main toh kabhi parcel nahi kiya. Mere address pe koi package aaya hi nahi. Aur narcotics ka toh sawal hi nahi hai! Aap log yeh kaise bol rahe hain?
+caller: Sir, we have a tracking number and your address associated with it. To verify your identity and prevent this from escalating, we require your bank account details for a quick security verification process. It’s a standard procedure to rule out potential money laundering linked to this shipment.
+receiver: Bank account details? Koi security verification process phone pe? Yeh toh suspicious lag raha hai. Agar koi shipment aaya hai, toh aap log official notice bhi toh bhej sakte hain. Main koi bank account details phone pe nahi dene wala.
+caller: Sir, time is of the essence. Delaying this verification will only complicate matters and could lead to a warrant being issued. We just need the last four digits of your account number and the IFSC code. It’s a simple verification to clear your name. Think of it as clearing up this misunderstanding quickly.
+receiver: Sir, mujhe maaf karna. Main koi bhi personal information phone pe nahi dene wala. Aap official channel se contact karein. Main abhi call cut kar raha hoon.

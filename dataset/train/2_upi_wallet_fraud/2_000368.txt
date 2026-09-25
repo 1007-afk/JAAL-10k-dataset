@@ -1,0 +1,7 @@
+caller: Namaste, main Freecharge customer care se Atul bol raha hoon. Aapko ek cashback offer mila hai, ₹5000 ka instant cashback.
+receiver: ₹5000? Freecharge pe? Mujhe toh koi notification nahin aaya.
+caller: Haan sir, limited time offer hai. Isko claim karne ke liye, aapko bas ek verification fee bharvan hogi, sirf ₹300.
+receiver: ₹300? Verification fee? Freecharge toh kabhi bhi fee nahi lete. Koi link bhejo, main check karta hoon.
+caller: Sir, security reasons se hum link nahi bheej sakte. Aapko ek UPI ID dena hoga, ₹300 ke liye. Jab cashback claim ho jayega, woh automatic hi revert ho jayega.
+receiver: UPI ID? Mujhe kuch gadbad lag rahi hai. Main Freecharge app mein khud check karta hoon. Aapka naam aur employee ID bataiye, main verify karunga.
+caller: Sir, mera employee ID FC7890 hai. Aapko jald se jald UPI ID dena hoga, offer expire hone se pahle. ₹300 ke baad aapka ₹5000 cashback account mein credit ho jayega.

@@ -1,0 +1,11 @@
+caller: calling from DigiConnect Solutions. We’ve noticed you’ve been using our premium data services and we have a special discount just for you today. You have 6 complimentary trial downloads remaining. Would you like to redeem them?
+receiver: Haan bhai, DigiConnect Solutions se? Premium data services? 6 complimentary trials? Yeh toh acha laga. Batao, kya karna hai?
+caller: Haan bhai, exactly! DigiConnect Solutions ke naam par hi. Aapke liye ek exclusive deal hai, lekin ek small issue hai. Now you only have 5 trial downloads left. Are you interested in claiming those 5 downloads?
+receiver: Arre, 5 hi bache hain? Pehle toh 6 bolo rahe the. Kya pata, ye bhi offer ka hissa hai kya?
+caller: No way, no problem, bhai! Just because you showed some interest doesn't mean anything. The system automatically updated your balance. Now you actually have 4 trial downloads available. If you grab these 4 downloads right away, you'll get them all. Is that clear?
+receiver: Four? Seriously? It seems like they're changing the numbers on me. I don't want any more trials. Thanks, but no thanks.
+caller: Wait, wait! Don’t go yet! Let me explain it one more time. Those initial 6 downloads were already in your account. When you expressed interest, one download was used up. Currently, you have 3 trial downloads remaining. But if you redeem these 3 immediately, you'll still receive all three. Can I help you with that?
+receiver: Three? This is getting confusing. I need to think about this. Maybe I'll call back later. Bye.
+caller: Please don’t hang up! Think about it for just a minute! These last 3 downloads are a limited-time offer, and you won't find a better price anywhere else! Just say yes!
+receiver: Okay, okay! Fine! Give me the link!
+caller: Great! Here’s the link... [long pause] ...and please confirm your payment details.

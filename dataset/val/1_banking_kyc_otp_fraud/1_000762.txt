@@ -1,0 +1,13 @@
+caller: Namaste Madam, mera naam Priya Sharma hai, Axis Bank se bol rahi hoon. Aapke account mein ek suspicious transaction attempt hua hai, ₹8000 ka.
+receiver: Kya? ₹8000?  Kab hua?  Mein toh koi transaction nahi kiya.
+caller: Ji ji, Madam.  Woh abhi ek minute pahle hi kiya gaya tha, online shopping ke liye.  Aapne kabhi shopping ki hai aise?  Aapka account secure karne ke liye, humein bas kuch details verify karni hogi.
+receiver: Theek hai, par mujhe bhi kuch doubt ho raha hai.  Kya tum log call record kar rahe ho? Aur mujhe koi OTP nahi mila hai.
+caller: Haan Madam, call record hota hai security ke liye.  Aur OTP nahi mila?  Woh system error ho sakta hai.  Chaliye, ek minute rukiye, main check karti hoon.  Aapka aadhaar card number aur PAN card number bataiye taaki main aapka identity verify kar sakun.
+receiver: Aadhaar card number phone pe?!  Tum serious ho?  Axis Bank aisa nahi manta.  Mein abhi Axis Bank ke official number se call karke check karti hoon.
+caller: Madam, please, time bahut kam hai.  Agar aapko aadhaar number aur PAN card nahi dena hai, toh aapka account suspend ho sakta hai.  ₹8000 ka loss bhi ho sakta hai.  Main aapki help kar rahi hoon.
+receiver: Account suspend? ₹8000 ka loss?  Yeh toh bahut zyada dramatic lag raha hai.  Tumhare pass mere details ka kya access hai?  Tumhare system mein kya security hai?
+caller: Madam, hamara system bahut secure hai.  Aapko trust karna padega.  Aapko sirf AAPKI security ke liye kuch details deni hai.  Just your aadhaar and PAN card, that's all.  Aur ₹500 ka extra reward bhi milega aapko jab aapko account secure ho jayega.
+receiver: Reward?! Ye aur bhi suspicious lag raha hai. Mein bank manager se baat karti hoon.  Yeh scam hai.  I’m hanging up now.
+caller: Madam, please don’t hang up! ₹8000 ka loss! Just give me the details quickly!  It’s important!
+receiver: Bye.
+caller: Madam?  Hello?  Aapko serious loss hoga…

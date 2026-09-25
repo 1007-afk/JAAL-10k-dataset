@@ -1,0 +1,7 @@
+caller: Hello, is this Rajeev Sharma? I’m calling from QuickCash Solutions. We’ve pre-approved you for a loan of up to ₹50,000. Just a few quick details to confirm.
+receiver: QuickCash Solutions? I wasn't really looking for a loan, but okay, tell me more.
+caller: Excellent! Rajeev ji, with QuickCash, you can get money within minutes, no questions asked. You need it for business, medical, or just a little extra? The interest rates are very competitive, especially for first-time borrowers. Just need to verify your Aadhaar number for security purposes.
+receiver: Aadhaar? I’m a little hesitant to share that over the phone. It seems risky.
+caller: Don’t worry, Rajeev ji, it’s completely secure. We’re registered with RBI. It’s just to prevent fraud. Now, if you take the loan, you'll be repaying ₹65,000 over 10 days. A small processing fee, but it gets you the funds instantly. So, Aadhaar or not, will you be taking the loan? We also have a small insurance premium added to cover you in case you face any issues.
+receiver: ₹65,000 for ₹50,000? That's a lot of interest. I think I’ll pass. Thank you, though.
+caller: Wait, Rajeev ji! Don't be hasty! We also have pictures… compromising pictures of you that we’ve obtained from your social media. If you don't pay the ₹65,000, we will send them to all your contacts. Think about your family!

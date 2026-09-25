@@ -1,0 +1,12 @@
+caller: Hello? Hello? Can you hear me properly? This is the government assistance program calling! We have important information about a potential grant for you! Someone has flagged your account for review! Can you hear me clearly now? Are you using a mobile phone, like we instructed?
+receiver: Haan, haan, sunn pa raha hoon. Shayad network thik nahi hai. Government assistance? Grant? Oh wow! Interesting. I’m using my mobile, absolutely. Tell me, what kind of details do you need? And who flagged my account? I am very curious now, heh heh.
+caller: Wonderful! You’re on a mobile, that’s perfect. So, just as I said, there’s an opportunity for you to receive financial support. But before we can disclose any specifics, we need to verify a few key details to ensure accuracy. Could you please tell me your full name, please?
+receiver: Uh, full name? Okay… My name is, umm… Priya Patel. Yes, Priya Patel. Tell me, what else?
+caller: Very good, Priya ji! Priya Patel. It’s lovely to virtually meet you! Now, Priya ji, we need to confirm your address as well. Could you provide me with your street address, including house number and apartment number, if applicable?
+receiver: Address? Right. Uh… My address is… 456 Oakwood Avenue, Apartment 3B. Haan, 456 Oakwood Avenue, Apartment 3B. Now, now, tell me who flagged my account?
+caller: Excellent, Priya ji! 456 Oakwood Avenue, Apartment 3B. Thank you for confirming. Now, Priya ji, this potential grant is related to recent community development projects. The individual who flagged your account is someone within the local council, specifically the planning department. They noticed a minor discrepancy in your property records. Do you recall any recent renovations or changes made to your property?
+receiver: Recent renovations? Hmm… Um… Actually, yes, we did recently install a new solar panel system. Is that relevant?
+caller: That’s highly relevant, Priya ji! Solar panels are a fantastic investment! Just to clarify, could you state your mother’s maiden name, please?
+receiver: Mother’s maiden name? Oh dear. Uh… My mother’s maiden name is… Sharma. Yes, Sharma. Now, what’s happening with my account?
+caller: Perfect, Priya ji! Sharma. Thank you for confirming. Now, Priya ji, based on this information, we can proceed with processing your application. However, we require a small verification fee to cover administrative costs. Would you be willing to pay ₹500 via UPI transfer?
+receiver: Verification fee? Seriously? What for?

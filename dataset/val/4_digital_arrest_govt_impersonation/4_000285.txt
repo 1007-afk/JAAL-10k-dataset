@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Atul Sharma bol raha hoon, Indian Customs Department se. Aapke naam par ek parcel aaya hai, jo Mumbai airport par roka gaya hai.
+receiver: Oh, really? What's in the parcel? I wasn't expecting anything.
+caller: Parcel mein illegal items paaye gaye hain, sir. Drugs ke sang sambandhit. Abhi aapko legal process se guzar na hoga, lekin agar aap ₹7,500 ka fine bhar diye toh parcel release kar sakte hain.
+receiver: ₹7,500? For a parcel I didn't even order? This sounds suspicious. Can you give me a case number or something?
+caller: Sir, case number confidential hai. Is parcel mein aapka naam aur address dikh raha hai. Main aapko video call kar sakta hoon, taaki aap isko dekh sakein aur process speed up ho. Please, cooperate karein, nahin to humko legal action lena padega.
+receiver: No, thank you. I’m not paying anything. I'm going to report this to the cybercrime cell.
+caller: Sir, please! It’s a serious matter. If you don't cooperate, we’ll have to issue a warrant for your arrest. This is for your own safety, sir.
+receiver: Arrest warrant? This is ridiculous. You're a scammer. I'm hanging up now.

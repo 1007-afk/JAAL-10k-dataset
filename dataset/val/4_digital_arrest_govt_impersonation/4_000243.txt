@@ -1,0 +1,10 @@
+caller: Hello, is this [Receiver's Name]?
+receiver: Haan, bolo. Kon bol raha hai?
+caller: Ji, main customs officer Rahul Khanna bol raha hoon. Aapke naam par ek parcel Gujarat se aaya hai jismein illegal items paaye gaye hain.
+receiver: Illegal items? Yeh kya keh rahe hain aap? Mainne koi parcel nahi bheja Gujarat se.
+caller: Madam/Sir, yeh system mein darj hai. Aapko legal complications se bachne ke liye ek fine bharvana padega. ₹25,000 ka fine bharna padega, otherwise humko majboor hona padega aapko arrest karna padega.
+receiver: ₹25,000? Arrest? Yeh toh ridiculous hai! Mujhe ek senior officer se baat karwani hai. Aap mujhe koi reference number de sakte hain?
+caller: Madam/Sir, time kam hai. Arrest warrant nikalke aayenge Gujarat se. Aap online payment karwa dijiye, main aapko bank details de deta hoon. Koi reference number nahi hai, yeh emergency protocol hai.
+receiver: Bank details? Yeh toh scam lag raha hai! Main police mein report karungi.
+caller: Madam/Sir, agar aap cooperate nahi karein toh hamein aapka passport bhi confiscate karna padega. Aap legal troubles mein phas jayenge. Payment karwa dijiye, ek minute mein sab kuch clear ho jayega.
+caller: Madam/Sir, aapko abhi payment karna hai, warna hum ko aapse aur zyada serious action lena padega. Do not waste our time.

@@ -1,0 +1,7 @@
+caller: Namaste! Is this Priya Sharma? We're calling from 'SwiftCredit Solutions'. You've been pre-approved for a personal loan of ₹75,000! Fantastic news, isn't it? Just need to do a quick KYC verification to finalize everything.
+receiver: Haan, mai Priya Sharma hoon. KYC verification? What exactly needs to be verified? And how much interest will there be?
+caller: Wonderful! Just a few details to confirm your identity. Please visit our secure website at https://swiftcreditverify.com. There’s a small verification fee of ₹999 to ensure security and prevent fraud. It’s a one-time charge only.
+receiver: ₹999? For verification? That seems a bit excessive. Are you sure this is legitimate? I've heard about scams like this before.
+caller: Absolutely! Think of it as an insurance policy against fraud. It’s a small price to pay for the financial stability we’re offering you. Plus, if you don’t pay the ₹999, we’ll have to report you for suspicious activity. Many people have taken out loans with us, and everything is smooth. Just do it now to avoid any problems.
+receiver: Report me? What problems? This is sounding increasingly shady. I’m not paying any money upfront. I think I’ll pass on this offer.
+caller: Priya Ji, don't be so hasty! We can offer you an even better deal if you pay the fee now. A loan of ₹1,00,000 with only 8% interest! But this is only for a limited time.  We are just trying to help you.

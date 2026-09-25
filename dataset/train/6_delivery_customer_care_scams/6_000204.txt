@@ -1,0 +1,8 @@
+caller: Namaste ji, absolutely. Main abhi Jaipur aur Shanti Nagar ke pass hi hoon. Aapko kuch samachar chahiye tha na? Kitna time lagega aapko?
+receiver: Haan ji, sahi sun li aapne. Thoda sa time lagega, bara five to ten minute. Kitne mein pahunchna hai aapko? Aur haan, mera naam Rohan hai, aapko jo bhi chahiye ho bata dena.
+caller: Rohan ji, okay. Mai bas 5 minute mein pahunch raha hoon. Koi jaldi nahi hai. Aur haan, aapko jo chahiye tha, wo samachar abhi ready hai mere paas. Aap bas bataiye kya chahiye tha.
+receiver: Arre wah, itni jaldi! Bahut achha. Haan ji, mujhe ek briefcase chahiye tha, usmein kuch documents hain. Aapse milkar achcha laga.
+caller: Rohan ji, bilkul. Briefcase wala samachar ready hai. Kitne documents hain usme, ya koi specific type ki documents chahiye? Aur koi aur cheez toh nahi chahiye na? Bataiyega bas.
+receiver: Ji, documents to kaafi hain, pura ek bag bhar ke hai. Koi specific type nahi, bas kuch business related aur kuch legal ki hain. Aur kuch nahi chahiye tha, bas yahi ek bag tha. Aap pahunch gaye kya?
+caller: Rohan ji, bilkul, bas pahunch hi gaya hoon. Aapka bag ekdum ready hai, business aur legal dono types ki documents se bhara hua. Koi extra saman chahiye ho toh bataiye, kuch pens ya kuch aur? Humare paas sab mil jata hai yahan.
+receiver: Arre, pens ki zaroorat nahi hai, bas documents ka bag hi kaafi hai. Aapne bataya nahi, aapka naam kya hai? So, if I have to call you next time, I’ll know who I’m talking to.

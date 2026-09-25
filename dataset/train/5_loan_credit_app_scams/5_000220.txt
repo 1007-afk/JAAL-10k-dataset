@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit? I’m calling from QuickCash Solutions. We’ve reviewed your application for a quick loan of up to ₹75,000. Just confirming, you need the funds for medical expenses, correct?
+receiver: Yes, that’s right. My mother’s been unwell, and we need to pay for her treatment urgently.
+caller: Excellent, Rohit. Good deed. We’re happy to help. To finalize the approval, we need a small processing fee of ₹5,000 upfront to verify your account details. You can pay via UPI to this number: 8765432109.
+receiver: ₹5,000? But the application said there were no upfront fees.
+caller: Rohit ji, rules change. Security reasons. A small verification charge. Without this, we cannot proceed.  And listen carefully, if we don't receive this verification amount quickly, we might have to report your account for suspicious activity. This is for your own safety, understand?
+receiver: That sounds very suspicious... I'm not comfortable with this.
+caller: Rohit, don't delay! Do you want to help your mother or not? We have many other applicants waiting. If you don’t pay right away, the offer will be cancelled and we will be forced to share your contact details with debt recovery agencies. Do you understand the consequences?

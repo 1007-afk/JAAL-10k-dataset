@@ -1,0 +1,16 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se baat kar raha hoon. Aapke mobile account mein ek important issue hai, aur usko solve karne ke liye mujhe apki permission ki zarurat hai.  Aapko yaad hoga, 2015 mein Coke Studio mein featured hua tha na woh band, 'The Rolling Stones'?  Was it D-Black Day, E-White Day, or F-Grey Day? Just tell me D, E, or F.
+receiver: Namaste, Bharat Telecom se? Haan, sunta hoon. Mein Vikram Kumar hu. Coke Studio mein 'The Rolling Stones' featured hue the? Black Day tha, option D.
+caller: Correct! You remembered perfectly! Now, to secure your special bonus, we need to quickly verify some information. Could you provide your registered mobile number, please?
+receiver: Black Day tha, thik mein. Mobile number hai 9876543210. Ab aap kya requirement hai?
+caller: Wonderful, Vikram. Thank you for cooperating. Now, to activate your bonus, we require a small security deposit of ₹299, which needs to be paid immediately via UPI to ensure smooth processing. Are you comfortable with this?
+receiver: ₹299? UPI se?  Aapne toh kaha tha bonus hai, deposit ka pata bhi nahin tha.  Yeh galat hai, ye fraud hai!  Mujhe nahi karna.
+caller: Please don’t worry, Vikram. This is a standard procedure for all new bonuses. We just want to make sure everything is legitimate.  Just one more question - could you state the last four digits of your bank account for verification purposes only?
+receiver: Bank account?  Kyun puch rahe hain?  Aapki website par toh koi detail nahi dikha.  Ye sab bakwaas hai, main nahi karunga.
+caller: Namaste! Kaise haal hai? Main DigiBank se baat kar raha hoon. Aapke debit card mein ek problem hai aur usko fix karne ke liye mujhe aapki confirmation ki zaroorat hai. Aapko yaad hoga, 2018 mein Bigg Boss mein contestant tha na woh actor, 'Shah Rukh Khan'? Was it G-Yellow Day, H-Pink Day, or I-Purple Day? Just tell me G, H, or I.
+receiver: Namaste, DigiBank se? Haan, sunta hoon. Mein Rohan Verma hu. Bigg Boss mein Shah Rukh Khan contestant tha? Yellow Day tha, option G.
+caller: Absolutely correct! Your memory is impressive. Now, to unlock your premium benefits, we need to confirm your KYC details. Can you share your date of birth, please?
+receiver: Yellow Day tha, thik hai. Date of birth hai 15/03/1990. Ab aap kya chahte hain?
+caller: Fantastic, Rohan! Thank you for your cooperation. To activate your premium benefits, we require a nominal charge of ₹199, payable through Net Banking within the next hour. Is that acceptable?
+receiver: ₹199? Net Banking se?  Aapne toh kaha tha premium benefits hai, charge ka pata bhi nahin tha.  Yeh dukaan ka dukan hai, fraud hai! Mujhe nahi karna.
+caller: Please don’t hesitate, Rohan. This is a mandatory fee for ensuring the security of your account. Just one more thing – can you recite the first line of your favorite Bollywood song?
+receiver: Bollywood song?  Kya kar raha hai aap?  Aapki website par koi information nahi hai.  Ye bilkul ghatiya hai, main nahi karunga.

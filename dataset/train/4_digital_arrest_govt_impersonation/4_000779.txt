@@ -1,0 +1,11 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mere naam par? Main toh kuch order kiya hi nahi tha.
+caller: Sir, parcel number IN123456789IN hai. Usmein suspicious materials hain, drug trafficking se related. Aapko is matter mein FIR register karwaani padegi.
+receiver: Drugs? Sir, yeh galat hai. Main kabhi drugs nahi use karta. Mujhe yeh parcel kisne bheja?
+caller: Sir, yeh investigation ka part hai. Aapko 25,000 rupay ka fine jama karna hoga taki case ko settle kiya ja sake. Video call par aaiye, fir mai aapko aur details bataunga.
+receiver: Fine? 25,000 rupay?  Mai call record karna chahta hoon aur kisi aur se bhi baat karna chahta hoon. Aur parcel kaha hai abhi?
+caller: Sir, call record karne se investigation affected ho sakti hai. Parcel abhi customs custody mein hai. Agar aap fine jama nahi karenge, toh case aage badhega aur aapko police station mein bhi jaana padega.
+receiver: Police station?  Yeh thoda scary hai. Koi official document ya case number dedo? Mai verify karna chahta hoon.
+caller: Sir, documents baad mein aayenge, pehle fine jama karna zaroori hai. Time bahut kam hai. Aapko video call mein aa kar payment details dena hoga. Jaldi kijiye!
+receiver: Thoda aur samjhata hoon. Mujhe koi shak ho raha hai. Main abhi koi payment nahi karunga.
+caller: Sir, aapka cooperation bahut zaroori hai. Agar aap help nahi karenge, toh aapko serious consequences ka mukaabla karna pad

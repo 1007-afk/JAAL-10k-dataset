@@ -1,0 +1,7 @@
+caller: Namaste, main Paytm Payments Bank se Rahul bol raha hoon. Aapke naam par ek naya digital wallet account open kiya gaya hai, lekin KYC verification pending hai.
+receiver: Paytm? Mere toh koi account open nahi hua. Main toh Paytm use karta hoon, par kabhi account open nahi kiya.
+caller: Ji sir, system mein dikh raha hai aapka account open hua hai, naam se match ho raha hai. Verification ke bina account suspend bhi ho sakta hai. Aapka Aadhaar card number aur ek OTP de dijiye, taaki verification complete ho jaye.
+receiver: Aadhaar card number? Aur OTP? Paytm toh aise call nahi karta. Mujhe toh doubt ho raha hai.
+caller: Sir, security ke liye hi verification kar rahe hain hum. Dusre koi bhi aapke naam se account open kar ke misuse kar sakta hai. Agar aap verify nahi karenge toh account block ho sakta hai, aur aapka paisa bhi risk mein aa sakta hai. Aapka Aadhaar number bataiye, please.
+receiver: Theek hai, mujhe samjh mein aa raha hai, security ka mamla hai. Par main kya karoon? Konse number par contact karoon, jahan se main verify kar sakoon? Koi official link ya customer care number do.
+caller: Sir, humara official helpline number 6237000000 hai. Aap wahan call kar sakte hain aur apne account number se verify kar sakte hain. Lekin abhi AAP ko account block hone se bachane ke liye jaldi se Aadhaar number bata dijiye.

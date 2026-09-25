@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Patel? This is Swiggy Customer Support. We've detected some unusual activity on your account and a pending delivery is showing as failed.
+receiver: Haan, bolie. Kya hua? My order was supposed to arrive an hour ago.
+caller: Yes sir, unfortunately, there’s been a technical issue with the delivery partner's vehicle. To ensure your order reaches you safely and swiftly, we need to verify your payment details. Could you please share the last 4 digits of the card you used for this order?
+receiver: Payment details? Why should I give you my card details over the phone? This sounds very suspicious. Swiggy never asked me this before.
+caller: Sir, it's a new security protocol. For your protection, we must confirm the transaction before re-assigning a delivery partner. It's just a quick verification, nothing to worry about. Otherwise, the order might be cancelled and you'll lose the money. Please provide the last 4 digits quickly.
+receiver: No, I won't give you anything. I'll call Swiggy directly from the app and check. You people are trying to scam me, I’m sure of it. I'm ending this call right now.
+caller: Sir, please don't do that! This is a time-sensitive matter, and the order will be cancelled. Just a quick verification, sir. For your convenience, can you just tell me the OTP that just came to your registered mobile number?

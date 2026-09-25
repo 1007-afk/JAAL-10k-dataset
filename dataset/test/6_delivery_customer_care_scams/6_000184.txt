@@ -1,0 +1,9 @@
+caller:  Is a recorded message from 'SwiftTrack' courier service. We attempted to deliver a package to your residence today, but unfortunately we couldn’t locate anyone to receive it. Please call us immediately on 09876543210 to arrange for a new delivery slot. Your tracking ID is AB12CD345. Kindly call back ASAP.
+receiver: Hello? Oh, yeh SwiftTrack ka number aaya tha. Haan, woh trackin ID AB12CD345 hai? Main check kar raha hoon apne records mein.
+caller: Hello? Oh, yeh SwiftTrack ka number aaya tha. Haan, woh trackin ID AB12CD345 hai? Main check kar raha hoon apne records mein.
+receiver: Haan, main check kar raha hoon apne records mein. Actually, I don’t seem to have any record of this package being delivered to my address. What exactly happened?
+caller: Haan, thanks for checking. Yes, there seems to have been an error during the delivery attempt. We require you to verify your mobile number and also confirm if someone else can accept the parcel on your behalf. Can you provide me with another working contact number?
+receiver: Haan, zaroor. My number is 9876543211. And my wife, Priya Sharma, she sometimes receives deliveries for me. She lives at [Wife's Address]. Is that okay?
+caller: Hello? Thanks for confirming. Just one moment while I update the system...Okay, we’ve successfully rescheduled your delivery for tomorrow between 2 PM and 4 PM. You will receive a confirmation SMS shortly.
+receiver: Haan, thoda tension takleef diya, lekin thanks! Kya mai delivery confirmation SMS pehchana sakti hoon?
+caller: Hello? Yes, absolutely. You will receive an SMS within the next hour with all the details of the rescheduled delivery. Don’t forget to keep an eye on your inbox as well.

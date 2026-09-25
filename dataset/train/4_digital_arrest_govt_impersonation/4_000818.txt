@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Verma? This is the Central Goods and Services Tax department calling. We need to discuss a concerning matter regarding some import transactions linked to your PAN card.
+receiver: Haan, bolie. What's this about? I haven’t imported anything.
+caller: Sir, our records indicate several high-value imports were declared under your PAN – specifically, luxury electronics and appliances. The paperwork seems…irregular. This could be linked to money laundering activities. We need to verify your involvement immediately to prevent legal action.
+receiver: Money laundering? This is ridiculous! I swear, I haven’t done anything like that. My PAN card must have been compromised. I’m a small shop owner, I sell clothes!
+caller: Sir, we understand your concern, but we must follow protocol. To clear this up and protect you from serious charges, you need to pay a nominal processing fee of ₹15,000 via UPI to secure your case. It's a temporary holding fee, which will be returned after verification, of course. We will keep you on video call to confirm your identity.
+receiver: Fifteen thousand rupees? Just like that? And a video call? Look, I'm going to call my lawyer about this. This sounds like a scam.
+caller: Sir, delaying this will only worsen the situation. The court is already aware of these alleged violations, and the fee is to show your good faith. You can pay it now using PhonePe or Google Pay - I can provide you with the UPI ID. Don’t risk further penalties and arrest warrants!
+receiver: Wait a minute! I'm reporting your number! You're not the GST department! I'm calling the cybercrime helpline right now.
+caller: Sir, please don’t do that. It will only complicate things further. We are just trying to help you avoid

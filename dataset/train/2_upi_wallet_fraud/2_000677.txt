@@ -1,0 +1,6 @@
+caller: Namaste, main Paytm Customer Care se Vishal bol raha hoon. Aapke Paytm wallet mein ek suspicious transaction detect hua hai. Security ke liye, humein aapka verification karna hoga.
+receiver: Kya? Kaun sa transaction? Mujhe toh koi notification nahi aaya. Paytm mein toh main kuch transactions hi karta hoon.
+caller: Ji, ek payment ₹2500 ka hua hai Nepal mein. Aapne kiya ya nahi? Aapko immediate action lena hoga, warna aapka wallet freeze ho sakta hai.
+receiver: ₹2500 Nepal mein? Bilkul nahi kiya! Main toh kabhi Nepal nahi gaya. Yeh toh fraud hai!
+caller: Sir, tension mat leiye. Hum aapko OTP bhejne wale hain, usko bata dijiye aur account secure ho jayega. OTP aapke registered mobile number par aayega. Sirf OTP hi bataiye, aur kuch nahi.
+receiver: OTP? Par kaise? Main toh kuch nahi karunga. Tum log fake call kar rahe ho. Paytm ka helpline number mujhe batao, main khud verify karta hoon.

@@ -1,0 +1,10 @@
+caller: Hello sir, is this Mr. Sharma? I’m calling from Paytm Rewards.
+receiver: Haan,ji. Main Sharma hi hoon. Kya baat hai?
+caller: Sir, aapko Paytm se ₹12,500 ka cashback mila hai. Yeh ek special Diwali offer hai sirf select customers ke liye.
+receiver: ₹12,500? Really? Kuch proof hai? Mujhe toh koi notification nahi aaya.
+caller: Haan sir, proof hai. Apne Paytm app mein check karein. Lekin is offer ko claim karne ke liye, aapko ek small processing fee bharne hogi - sirf ₹499.
+receiver: ₹499? Processing fee? Paytm toh kabhi fees lete nahi. Yeh thoda suspicious lag raha hai.
+caller: Sir, yeh fees sirf verification ke liye hai. Agar aap fee bharte hain, toh cashback instantly aapke wallet mein deposit ho jayega. Otherwise offer expire ho jayega.
+receiver: Okay, fine. Tell me, how do I pay this ₹499? Which UPI ID should I use?
+caller: Sir, aapko ek QR code bhejna hai. Woh scan karke pay kar den. QR code mein UPI ID likha hua hoga. Jaldi karein, sir, offer abhi hi khatam ho rahi hai.
+receiver: Wait, let me check my Paytm app first…

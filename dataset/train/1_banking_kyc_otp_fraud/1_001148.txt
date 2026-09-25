@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? My name is Vijay from SecurePay Solutions. We’ve detected a few unusual login attempts to your SecurePay account from an unknown device in Patna.
+receiver: Haan, ye Priya Verma bol rahi hoon. SecurePay se? Patna se? Mujhe toh koi notification nahi mila.
+caller: Ji ji, that's why we're calling you immediately. It’s crucial to secure your account right away. To verify your identity, could you please share the last four digits of your Aadhaar card with me? It’s a standard security protocol.
+receiver: Aadhaar number? Tum log itni jaldi mein Aadhaar number pooch rahe ho? Yeh toh theek nahi lag raha. Aur koi device Patna se? Mein toh wahan kabhi nahi gayi.
+caller: Ma’am, I understand your concern, but these attempts are potentially malicious. Sharing just the last four digits will allow us to quickly lock down your account and prevent any unauthorized transactions. We need to act fast before they gain access. Think of it as safeguarding your money.
+receiver: Theek hai, lekin mein thoda skeptical hoon. Tumhare paas mera number hai toh tum meri account details check kar sakte ho na? Why do you need my Aadhaar number then?
+caller: Ma’am, our system does not allow us to access full details over the phone for security reasons. Providing the last four digits confirms you are the genuine account holder. It's a simple step to protect your funds. Please, just those four digits for your peace of mind.
+receiver: Okay, fine. It's 4582. But agar kuch hua toh mein tum logon ko bhejungi.

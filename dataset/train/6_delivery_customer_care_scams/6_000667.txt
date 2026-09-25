@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? I'm calling from Bluebird Courier regarding a package addressed to you. There seems to be a hold-up at the sorting facility due to an unpaid shipping fee.
+receiver: Haan, speaking. Unpaid shipping fee? I don't recall ordering anything recently.
+caller: Yes sir. It appears there’s a discrepancy. The sender, it shows as "GlobalMart," didn't fully cover the delivery charges. It’s a rather expensive item, a high-end camera, so the outstanding amount is ₹4,850. We need to verify this quickly to release the package.
+receiver: ₹4,850? A camera? I really didn't order anything like that. Are you sure you have the right address?
+caller: Just to be absolutely sure, sir, could you quickly confirm the last four digits of the card used to send this package? We need to cross-reference it with our records. Just the last four digits, for security purposes only. It’s a standard verification process.
+receiver: I'm sorry, but I'm not comfortable giving out card details over the phone. This sounds suspicious. I’ll contact GlobalMart directly to inquire about this.
+caller: Sir, please understand, without this verification, the package will be returned to the sender. This will incur additional charges, and we might have to hold the package indefinitely. It’s just a quick four digits, and it will save you a lot of hassle. We’re trying to help you receive your delivery, sir.

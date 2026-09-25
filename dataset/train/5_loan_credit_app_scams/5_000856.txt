@@ -1,0 +1,7 @@
+caller: Namaste sir, main Ankit Verma, LoanZone se baat kar raha hoon. Aapke naam par ek loan application aaya tha, approve ho gaya hai. Aapki photo aur bank statement ki requirement hai.
+receiver: LoanZone? Konse company hai ye? Mujhe toh koi application nahi kiya tha.
+caller: Ji sir, company puri legal hai. Photo aur bank statement se verification hoga, tab account mein paisa transfer ho payega. Photo WhatsApp par send kar dijiye.
+receiver: WhatsApp number dedo, mein check karta hoon.
+caller: Sure sir, WhatsApp number hai 9876543210. Photo clear ho toh hi send karna.
+receiver: Okay, photo send kar diya. Ab kya karna hai?
+caller: Bahut accha! Ab sir, security ke liye aapke contacts se naam aur photo chahiye. Tabhi paisa transfer hoga, zyada delay nahi hoga.

@@ -1,0 +1,8 @@
+caller: Namaste! Ji haan, speaking. You were inquiring about a quick loan? We offer loans from ₹10,000 to ₹2,00,000, for any purpose. Students, housewives, everyone's welcome to apply. Were you denied elsewhere? No worries, we can assist. Can I have your name?
+receiver: Ji, haan. Mera naam Anjali hai. Haan, loan ke baare mein hi baat karna tha.
+caller: Excellent, Anjali ji! So, Anjali ji, how much loan amount are you needing and what’s the purpose? Are you looking to pay off some debts or perhaps some urgent expenses?
+receiver: Haanji, actually, I need ₹80,000. My father’s medical bills are quite high, and I’m struggling.
+caller: Medical expenses, very unfortunate, Anjali ji. Very understandable. We can definitely help. Just to verify, what’s your current occupation, and what’s your address? We need to confirm a few details before we proceed with the loan approval.
+receiver: I’m a teacher, at the local government school. My address is Flat 7, Sunshine Apartments, Shastri Nagar.
+caller: Wonderful, Anjali ji! Teaching is a noble profession. Now, for the approval, we just need a few documents scanned and uploaded to our app – LoanQuick. You’ll see the details on the app. The amount will be credited within 24 hours. Download now and upload your Aadhaar card.
+receiver: LoanQuick? Okay, I'll check it out. Thank you.

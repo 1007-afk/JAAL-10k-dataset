@@ -1,0 +1,8 @@
+caller: Namaste, main BharatPay se Rahul bol raha hoon. Aapke BharatPay account mein ek suspicious transaction detect hua hai.
+receiver: Suspicious transaction? Kitna transaction hua hai? Aur kya hua?
+caller: Sir, 5000 rupay ka transaction hua hai Paytm par. Hamara security system ne isko flag kiya hai. Aapko isko approve karna hoga.
+receiver: Approve karna hai? Mujhe approve karne ke liye kya karna padega?
+caller: Sir, aapko bas apna BharatPay OTP dena hai, taaki hum isko verify kar sakein aur aapka account secure kar sakein.
+receiver: OTP? BharatPay app mein toh koi notification nahi aaya hai. Mujhe kuch bhi suspicious lag raha hai. Main OTP nahi dungi.
+caller: Sir, jaldi karo! Account block ho sakta hai. OTP sirf ek baar hi valid hoga. Aapko sirf 30 seconds mein OTP dena hai. Sir, please!
+caller:  Sir, agar aap OTP nahi denge, toh humara system automatically aapke account ko suspend kar dega. Isसे aapka account secure rahega.

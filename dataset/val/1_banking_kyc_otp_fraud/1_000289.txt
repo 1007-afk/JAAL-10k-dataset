@@ -1,0 +1,8 @@
+caller: Namaste ji, main Rajesh Kumar bol raha hoon. Kaise ho aap? Arre, wo ATM card chahiye tha, de doon kya?
+receiver: Namaste Rajesh, main achcha hu. Baitha hoon kuch kaam mein. Haan, ATM card? Kab chahiye tha? Bolo, le aao.
+caller: Namaste Rajesh, main achcha hu. Baitha hoon kuch kaam mein. Haan, ATM card? Kab chahiye tha? Bolo, le aao.
+receiver: Arre, kab chahiye tha? Aaj kal ki raat mein chahiye ya subah? Bolo, main dekhhta hoon.
+caller: Arre bhai, aaj kal ki raat mein chahiye! Tum jaldi se aa jao, main tumhe card de deta hoon. Tumhe pata hai na mera address? Jaldi se aaja, bohot important work hai.
+receiver: Achha, aaj kal ki raat mein chahiye? Theek hai, chala aa raha hu. Address toh mujhe yaad hai, tension mat le. 10-15 minute mein pahunch jaunga.
+caller: Arre, 10-15 minute? Itna time? Jaldi aa bhai, bohot important hai! Tumhe pata hai na kitna critical hai yeh. Aur ek baat, card mein jo account number hai na, woh bhi bata dena, taaki koi problem na ho.
+receiver: Kya? Account number bhi? Arre, yeh toh confidential hai Rajesh. Hum aise phone pe account number share nahi karte. Main card leke aa raha hu, wohi pe baat karte hain. Baki sab theek hai na? Kitne important work hai waha? Jaldi bata dena pahunch ke.

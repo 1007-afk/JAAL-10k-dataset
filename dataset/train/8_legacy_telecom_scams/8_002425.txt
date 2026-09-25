@@ -1,0 +1,18 @@
+caller: Namaste sir, Main Tata Digital support se baat kar raha hun. Aapke mobile internet ko 24 hours ke andar block kar diya jaayega. Activation karna chahte hain kya?
+receiver: Haan? Tata Digital? Internet block? Kyu? Maine kuchh nahi kiya? Mera number kya hai, batao! Waah, yeh toh beizzati hai! Main toh ab online nahi paaunga.
+caller: Sir, mera naam Vivek hai aur aapke account mein ek software update ki wajah se internet band ho jayegi. Hamare system mein yeh automatically dekha gaya hai. Aapko kisi cheez ka verification karne ki zarurat nahi hai, sirf number confirm karna hai. Aapka mobile number kya hai, please?
+receiver: Mobile number? Mein toh bas apna number bata dunga. 98XXXXXXXXXX.  Yeh update kab tak hoga?  Aur aapke system mein kya dikha raha hai?  Mujhe thik samajh mein nahin aa raha.
+caller: Sir, update 24 hours mein complete ho jayega. System mein dekha hai ki aapke device mein connectivity ka koi issue hai, lekin woh khud hi solve ho jayega.  Aapko kuchh nervousness feel karne ki koi zarurat nahi hai. Just give us your number to proceed.
+receiver:  Arre, connectivity ka issue?  Mujhe toh kuch samajh mein nahin aa raha.  Koi new app install kiya tha kya?  Aapko toh mujhe batana chahiye ki yeh update kis liye hai.  Yeh number 98XXXXXXXXXX, confirm karein.
+caller:  Sir, yeh update aapke mobile network provider se related hai.  Aapki SIM band hone se pehle, hum aapke device ko secure rakhna chahte hain.  Activation karna chahte hain ya nahi?  Agar activation nahi karenge toh 24 hours mein automatic band ho jayega.
+receiver:  Haan, activation karna hi padega. Parantu, mujhe sach batao, kya hua?  Yeh ‘secure rakhna’ ka matlab kya hai?  Mujhe koi technical jargon mat bolo.  Simple language mein batao.
+caller:  Sir, technically speaking, aapke device mein jo connectivity ka issue hai, woh aapko agar activation karte hain toh automatically fix ho jayega.  Aapko kuchh bhi karna hoga nahi. Just provide your number and we will handle the rest.
+receiver:  Okay, okay.  Mobile number 98XXXXXXXXXX.  Parantu, agar kuchh galti hui toh aapki taraf se jawab deewajaa honge.  Aapko assurance dena chahiye.
+caller:  Sir, aapki security ka khayal rakha jaayega.  Aapko jitni possible hogi, hum aapko help karenge.  Activation process shuru karne ke liye ready hain kya?
+caller:
+receiver:
+caller: Hello Mr. Sharma, this is Rohan from Prestige Timepieces calling. We have a limited-time offer on our exclusive Chronos collection.
+receiver: Prestige Timepieces? Never heard of them. What kind of watches do you sell? And why are you calling me?
+caller: Sir, these are handcrafted Swiss watches, incredibly rare and highly sought after. We only have a few pieces left in stock.  We noticed you recently viewed luxury watches on our website.  It's a fantastic opportunity to own a piece of timeless elegance.
+receiver: Luxury watches?  I was just browsing, that's all.  My budget isn’t unlimited, you know.  What’s the price range?  And what makes them so special besides being "rare"?
+caller: Sir, the Chronos starts at INR 75,000 but we have a stunning model,

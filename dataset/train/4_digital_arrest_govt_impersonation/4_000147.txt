@@ -1,0 +1,6 @@
+caller: Namaste! This is Inspector Sharma from the Directorate of Revenue Intelligence, calling from Delhi. We’ve detected some unusual activity linked to your bank account and a recent international parcel delivery you received.
+receiver: Mere bank account mein? Aur parcel delivery? Mein toh kuch international parcel nahi mila. Kya ho raha hai?
+caller: Ji, according to our records, a package containing suspected counterfeit currency was intercepted at the Mumbai customs. The delivery address matches yours. This is a serious matter, and we need to verify your identity immediately to prevent further legal complications. Can you please confirm your full name and PAN card number?
+receiver: Counterfeit currency? Yeh toh galat hai! Meri name Priya Verma hai, aur mera PAN card number ABCDE1234F hai. But I haven’t received any suspicious packages. Mujhe doubt ho raha hai.
+caller: Thank you, Ms. Verma. We appreciate your cooperation. Now, to clear this misunderstanding quickly, we require a small security deposit to cover the investigation costs and ensure the safe return of your parcel – just ₹15,000. You can pay via UPI to this number.
+receiver: ₹15,000? Mereko parcel bhi nahi mila hai, aur aap mujhse payment maang rahe hain? Yeh toh scam hai, Inspector Sharma! Main police complaint karungi.

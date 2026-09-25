@@ -1,0 +1,11 @@
+caller: Namaste! Main Paytm se Rahul bol raha hu. Aapko Bharat Gas cylinder par ek special cashback offer mila hai.
+receiver: Bharat Gas? Cashback? Bohot achha, batao kya offer hai?
+caller: Sir, aapka Bharat Gas ka bill Paytm se pay karein, aur aapko ₹200 ka cashback instant milega. Yeh offer sirf registered Paytm users ke liye hai.
+receiver: ₹200? Kaise pay karna hai? Link bhejo. Aur mujhe yeh bhi batao, kya meri registered mobile number se hi pay karna hai?
+caller: Haan sir, aapka registered number se hi pay karna hai. Yeh link par click karein: http://paytm-gas-offer.xyz. Wahaan aapko apne Bharat Gas ka consumer number daalna hai aur bill pay karna hai.
+receiver: Yeh link dekh raha hu... thoda suspicious lag raha hai, sir. Paytm ka official link toh alag hota hai.
+caller: Sir, yeh naya link hai jo humein offer ke liye diya gaya hai. Koi tension nahi lijiye, sir. Jaldi kijiye, offer shayad kabhi bhi end ho jaaye. Bas consumer number daal ke pay kar dijiye, ₹200 instant mil jayega.
+receiver: Okay, okay... koi baat nahi. Dekhta hu. Par agar kuch ghalat hua toh?
+caller: Sir, hum aapki security ki poori responsibility lete hain. Koi bhi problem nahi hoga. Ab jaldi se pay kar dijiye!
+receiver: Thik hai, kar leta hu. Par notification milega na, cashback ka?
+caller: Haan sir, instant notification mil jayega. Aap apne Paytm wallet mein check kar sakte hain. Ab jaldi se pay kar dijiye!

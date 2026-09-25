@@ -1,0 +1,10 @@
+caller: Namaste! Main Rohan Verma, Delhivery se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, really? Which address is showing the problem? I think it's all correct.
+caller: Haanji, address correct hai, lekin pin code mein ek digit galat dikh raha hai. Isko sort karne ke liye, mujhe ek OTP chahiye jo aapko SMS se milega.
+receiver: OTP? Why do you need my OTP? I thought you just needed to fix the address.
+caller: Security ke liye, sir. Humara system automatic OTP verify karta hai. ₹2500 ka parcel hai, aur hum nahi chahate ki kisi aur ke haath mein jaaye.
+receiver: ₹2500? What’s inside the parcel? I don’t remember ordering anything for that amount.
+caller: Sir, parcel sender ka naam confidential hai. Aapko OTP check karne ke baad confirm karna hoga. Jaldi karo, delivery window closing hai.
+receiver: Wait a minute… this sounds fishy. I'm not giving you any OTP. I’ll call Delhivery directly to verify.
+caller: Sir, please! Agar aap OTP nahi doge toh parcel return ho jayega. ₹500 ka penalty bhi lagega. Last chance, please call 8787878787 now!
+receiver: No way. You are a scammer.

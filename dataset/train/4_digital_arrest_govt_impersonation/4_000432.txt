@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Kumar? This is the Central Board of Indirect Taxes and Customs, CBI unit. We need to speak with you urgently regarding a suspected case of illegal import activity linked to your PAN card.
+receiver: Illegal import? What are you talking about? I haven’t imported anything. Who’s calling?
+caller: Sir, our records indicate a consignment containing prohibited goods was declared under your PAN. This requires immediate investigation. To proceed, we need to verify your bank account details to freeze any potential funds related to this transaction. It's a standard procedure.
+receiver: Freeze my account? Based on what? You haven’t shown me any evidence. This sounds like a scam. I'm not giving you my bank details over the phone. What’s your case number?
+caller: Sir, giving you the case number now would compromise the investigation. We’re following protocol. To protect your assets and avoid legal complications, we need to confirm your account number and the last four digits of your IFSC code. Just to secure it, sir. It’s a formality.
+receiver: A formality that involves stealing my banking information? Absolutely not. I’m reporting this number to the cybercrime helpline. You’re a fraud!
+caller: Sir, please understand, this is a matter of national security. Failure to cooperate will result in further legal action against you. We also require the OTP sent to your phone for verification. This is very important, sir.
+receiver: Legal action? OTP? You are clearly trying to scam me. Goodbye.

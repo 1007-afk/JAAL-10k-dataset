@@ -1,0 +1,17 @@
+caller: Namaste! Can you hear me properly? Yeh, I’m calling about a notification you got. It’s related to ‘InstaConnect’. One last chance, you know? Text CONECT to 97563. Have you seen it?
+receiver: Haanji, suni rahi hoon. InstaConnect? Oh, woh notification mila tha. Last chance? Okay, I’ll try it now.
+caller: Haanji, suni rahi hoon. InstaConnect? Oh, woh notification mila tha. Last chance? Okay, I’ll try it now.
+receiver: So, InstaConnect, right? And this ‘last chance’ means I need to do it immediately, otherwise it won’t work later?
+caller: Exactly! If you don’t send that text now, then this special deal will disappear. Their system is like that, it’s a final reminder. So, just text ‘CONECT’ and send it to 97563, quickly. Then you’ll get all the details.
+receiver: Okay, I understand. If the deal disappears, then there will be no fun. Fine, I’ll send it now. Do you know my name, so I can say it on the call?
+caller: No, no need for your name. Just send that text, and your account will be registered. If you have any questions, I am here. So, just text ‘CONECT’ and send it to 97563, quickly.
+receiver: Okay, understood. No name needed, then. Just sending ‘CONECT’ to 97563, right? And what’s the benefit of this offer? Like, will I get some discount or something exclusive?
+caller: Yes, absolutely! You’ll get a lifetime subscription at half price, plus access to premium content only available to our members. Don’t miss out!
+receiver: Half price lifetime subscription? Wow! That sounds good. Okay, I’ll send it now.
+caller: Great! Just one more thing – please confirm your mobile number is still active. It's important for verification.
+receiver: Sure, my number is 9876543210. It’s working fine.
+caller: Excellent. Now, go ahead and send the text. Please hurry.
+receiver: Sending… okay, sent!
+caller: Fantastic! You’re all set up. You’ll receive a confirmation SMS shortly. Is there anything else I can help you with today?
+receiver: No, thank you very much.
+caller: You’re welcome! Have a great day! Bye bye!

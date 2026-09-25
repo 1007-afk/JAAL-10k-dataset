@@ -1,0 +1,8 @@
+caller: Namaste! Main LoanConnect se Rahul bol raha hoon. Aapne hamare website par personal loan ke liye apply kiya tha, na?
+receiver: Haan, ji. Apply kiya tha. Abhi koi update hai kya?
+caller: Ji, aapka application approved ho gaya hai. Bahut achha news hai! Abhi sirf verification ke liye kuch details chahiye. Aapka bank account number aur OTP please?
+receiver: OTP? Mereko OTP mila hi nahi. Aur account number phone pe share karna safe hai kya?
+caller: Sir, security ke liye OTP zaroori hai. Aur account number toh humein verify karne ke liye hi chahiye. Aise hi verify hoga, tension na lein. Aapka naam bataiye, confirmation ke liye?
+receiver: Mera naam Rajesh Kumar hai. Par main abhi phone cut kar raha hoon. Mujhe kuch doubts ho rahe hain.
+caller: Rajesh ji, dekhiye, yeh golden opportunity hai! Agar aap abhi confirm karte hain, toh hum aapke account mein 50,000 rupay instant transfer kar denge! Thoda sa wait aur karte rahein, phir opportunity chala jayega! Aapka mobile number confirm karein?
+receiver: Main nahi confirm karunga. Aap fraudster hain!

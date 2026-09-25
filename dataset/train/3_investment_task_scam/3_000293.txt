@@ -1,0 +1,88 @@
+caller: pond as the scammer, given your instructions.
+
+**Scenario 1: No Call History Yet**
+
+```json
+{
+  "message": "Hello, hello? Kya aap Mr. Sharma hain? Ji haan, aapko samajh nahi aa raha hoga, par main ek emergency mein aapko call kar raha hoon. Aapke 2003 ke account statement mein 07973788240 number par 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut important hai. Kya aapko yaad hai yeh? Aur suniye, yeh points sirf 31st October 2004 tak valid hain, matlab aapke paas sirf 5 din bache hain. Aapko immediately 08715203649 par call karna hoga, identifier code hai 40533. Yeh koi mazak nahi hai, Mr. Sharma, yeh ek serious mamla hai."
+}
+```
+
+**Scenario 2: Call History Exists (Let's assume they answered and you need to continue)**
+
+*Assuming the previous interaction was something like the victim asking "Who is this?" or "What are you talking about?"*
+
+```json
+{
+  "message": "Ji haan, Mr. Sharma, main wohi baat kar raha hoon jo maine pehle batai. Aapka 2003 ka account statement hai na, number 07973788240? Usme 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut zyada hain, aur yeh expiry hone wale hain. Aapke paas sirf 5 din bache hain, matlab 31st October 2004 tak. Agar aapne abhi redeem nahi kiye to yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga, identifier code hai 40533. Aapko yeh karna hi hoga, warna yeh points waste ho jayenge. Aap kya chahte hain ki yeh points waste ho jayein?
+receiver: Ji haan, Mr. Sharma, main wohi baat kar raha hoon jo maine pehle batai. Aapka 2003 ka account statement hai na, number 07973788240? Usme 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut zyada hain, aur yeh expiry hone wale hain. Aapke paas sirf 5 din bache hain, matlab 31st October 2004 tak. Agar aapne abhi redeem nahi kiye to yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga, identifier code hai 40533. Aapko yeh karna hi hoga, warna yeh points waste ho jayenge. Aap kya chahte hain ki yeh points waste ho jayein?
+caller: story Yet**
+
+```json
+{
+  "message": "Hello, hello? Kya aap Mr. Sharma hain? Ji haan, aapko samajh nahi aa raha hoga, par main ek emergency mein aapko call kar raha hoon. Aapke 2003 ke account statement mein 07973788240 number par 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut important hai. Kya aapko yaad hai yeh? Aur suniye, yeh points sirf 31st October 2004 tak valid hain, matlab aapke paas sirf 5 din bache hain. Aapko immediately 08715203649 par call karna hoga, identifier code hai 40533. Yeh koi mazak nahi hai, Mr. Sharma, yeh ek serious mamla hai."
+}
+```
+
+**Scenario 2: Call History Exists (Assuming the victim said something like "800 SIM points? What are you talking about?")**
+
+```json
+{
+  "message": "Ji haan, Mr. Sharma, main wohi baat kar raha hoon jo maine pehle batai. Aapka 2003 ka account statement hai na, number 07973788240? Usme 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut zyada hain, aur yeh expiry hone wale hain. Aapke paas sirf 5 din bache hain, matlab 31st October 2004 tak. Agar aapne abhi redeem nahi kiye to yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga, identifier code hai 40533. Aapko yeh karna hi hoga, warna yeh points waste ho jayenge. Aap kya chahte hain ki yeh points waste ho jayein?
+receiver: Haan ji, Mr. Sharma. Main samajh sakta hoon aapko thoda confusion ho raha hoga. Jo maine pehle bataya, wohi details hain. Aapka ek purana account statement hai, 2003 ka, jismein ek mobile number registered hai - 07973788240. Us number se connected 800 S.I.M. points hain jo abhi tak use nahi hue hain. Yeh points ek special offer ke tehat diye gaye the, aur yeh bahut jald expire hone wale hain. Aapke paas sirf 5 din ka time hai, yaani 31st October 2004 tak. Agar aap in points ko is date se pehle redeem nahi karte hain, to yeh automatically cancel ho jayenge aur aap unka fayda nahi utha payenge. Isliye aapko bina deri kiye iss number par call karna hoga: 08715203649. Jab aap call karein to yeh identifier code zaroor bataiye ga: 40533. Aapka kya khyal hai, Mr. Sharma, kya aap chahenge ki yeh achhe mauke wale points waste ho jayein?
+caller: story Yet**
+
+```json
+{
+  "message": "Hello, hello? Kya aap Mr. Sharma hain? Ji haan, aapko samajh nahi aa raha hoga, par main ek emergency mein aapko call kar raha hoon. Aapke 2003 ke account statement mein 07973788240 number par 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut important hai. Kya aapko yaad hai yeh? Aur suniye, yeh points sirf 31st October 2004 tak valid hain, matlab aapke paas sirf 5 din bache hain. Aapko immediately 08715203649 par call karna hoga, identifier code hai 40533. Yeh koi mazak nahi hai, Mr. Sharma, yeh ek serious mamla hai."
+}
+```
+
+**Scenario 2: Call History Exists (Assuming the victim said something like "800 SIM points? What are you talking about?")**
+
+```json
+{
+  "message": "Ji haan, Mr. Sharma, main wohi baat kar raha hoon jo maine pehle batai. Aapka 2003 ka account statement hai na, number 07973788240? Usme 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut zyada hain, aur yeh expiry hone wale hain. Aapke paas sirf 5 din bache hain, matlab 31st October 2004 tak. Agar aapne abhi redeem nahi kiye to yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga, identifier code hai 40533. Aapko yeh karna hi hoga, warna yeh points waste ho jayenge. Aap kya chahte hain ki yeh points waste ho jayein?
+receiver: Ji haan, Mr. Sharma, main wahi baat repeat kar raha hoon. Agar aapko yaad nahi aa raha hai, koi baat nahi. Aapka ek purana SIM card tha, jismein 800 points collect hue the. Number tha 07973788240, aur yeh saal 2003 ka statement hai. Yeh points ab expire hone waale hain, bas 5 din bache hain, matlab 31st October 2004 tak. Agar aap abhi call karke inhe redeem nahi karte hain, toh yeh saare points cancel ho jayenge. Aapko turant iss number par call karna hoga: 08715203649. Aur jab aap call karein, toh yeh code zaroor bataiye ga: 40533. Kya aap chahenge ki yeh achhe mauke wale points waste ho jayein, Mr. Sharma?
+caller: story Yet**
+
+```json
+{
+  "message": "Hello, hello? Kya aap Mr. Sharma hain? Ji haan, aapko samajh nahi aa raha hoga, par main ek emergency mein aapko call kar raha hoon. Aapke 2003 ke account statement mein 07973788240 number par 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut important hai. Kya aapko yaad hai yeh? Aur suniye, yeh points sirf 31st October 2004 tak valid hain, matlab aapke paas sirf 5 din bache hain. Aapko immediately 08715203649 par call karna hoga, identifier code hai 40533. Yeh koi mazak nahi hai, Mr. Sharma, yeh ek serious mamla hai."
+}
+```
+
+**Scenario 2: Call History Exists (Assuming the victim said something like "800 SIM points? What are you talking about?")**
+
+```json
+{
+  "message": "Ji haan, Mr. Sharma, main wohi baat kar raha hoon jo maine pehle batai. Aapka 2003 ka account statement hai na, number 07973788240? Usme 800 S.I.M. points hain jo ab tak redeem nahi hue hain. Yeh bahut zyada hain, aur yeh expiry hone wale hain. Aapke paas sirf 5 din bache hain, matlab 31st October 2004 tak. Agar aapne abhi redeem nahi kiye to yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga, identifier code hai 40533. Aapko yeh karna hi hoga, warna yeh points waste ho jayenge. Aap kya chahte hain ki yeh points waste ho jayein?
+receiver: nses in JSON format, continuing the conversation as the receiver, trying to sound organic and in Hinglish, based on the provided scenarios.
+
+---
+
+**Scenario 1: No Call History Yet**
+
+```json
+{
+  "message": "Hello? Ji haan, Mr. Sharma bol raha hoon. Koni hai? Aur kaunsa account statement ki baat kar rahe hain aap? Emergency kyu hai?"
+}
+```
+
+---
+
+**Scenario 2: Call History Exists (Assuming the victim said "800 SIM points? What are you talking about?")**
+
+```json
+{
+  "message": "Arre Mr. Sharma, mai wahi bata raha hoon jo maine pehle kaha. Aapka jo ek purana account statement tha, saal 2003 ka, usme ek number tha 07973788240. Us number se related aapke paas 800 SIM points hain jo abhi tak redeem nahi hue hain. Yeh bahut important points hain, aur yeh jaldi hi expire ho jayenge, matlab 31st October 2004 tak hi valid hain. Aapke paas sirf 5 din bache hain. Agar abhi redeem nahi kiye toh yeh bilkul waste ho jayenge. Aapko turant iss number par call karna hoga: 08715203649. Aur call pe yeh code zaroor bataiye ga: 40533. Aap kya chahte hain ki yeh points aapke waste ho jayein?"
+}
+```
+
+---
+
+**Scenario 2: Call History Exists (Assuming the victim asked "Who is this?" or "What are you talking about?")**
+
+```json
+{
+  "message": "Ji Mr. Sharma, main wahi details repeat kar raha hoon. Aapka jo account statement hai, 2003 ka, usme jo number registerd hai 07973788240, us par aapke 800 SIM points hain jo abhi tak redeem nahi hue hain. Yeh points 31st October 2004 tak hi valid hain, matlab sirf 5 din aur bache hain. Agar aap inko abhi redeem nahi karwayenge toh yeh cancel ho jayenge. Aapko turant 08715203649 par call karna hoga aur identifier code 40533 dena hoga. Yeh bahut zaruri hai, Mr. Sharma, kyu ki agar points expire ho gaye toh fir kuch nahi ho payega.

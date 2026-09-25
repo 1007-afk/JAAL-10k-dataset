@@ -1,0 +1,18 @@
+caller: Airtel customer service se bol raha hoon. Aapka mobile number 9876543210, verification ke liye ek four-digit OTP aa gaya hoga. Kya aap mujhe woh number bata sakte hain jo aapko chahiye?
+receiver: Ji, sir. Woh number hai 5678. Main jaanta hoon aapko iske liye call kiya hai.
+caller: Haan ji, 5678 hai. Dhanyavaad, sir. Aapkaa number verified ho gaya hai. Humare system mein koi problem dikhe nahi hai. Shuruvat karein apna internet use karna.
+receiver: Okay, sir. Number verified ho gaya hai, thanks. Mein shuruwat kar dunga.
+caller: Haan ji, 5678 hai. Dhanyavaad, sir. Aapkaa number verified ho gaya hai. Humare system mein koi problem dikhe nahi hai. Shuruvat karein apna internet use karna.
+receiver: Okay, sir. Number verified ho gaya hai, thanks. Mein shuruwat kar dunga.
+caller: Haan ji, 5678 hai. Dhanyavaad, sir. Aapkaa number verified ho gaya hai. Humare system mein koi problem dikhe nahi hai. Shuruvat karein apna internet use karna.
+receiver: Okay, sir. Number verified ho gaya hai, thanks. Mein shuruwat kar dunga.
+caller: Vodafone customer care se bol raha hoon. Aapke number 8765432109 par ek four-digit OTP aa gaya hoga. Kya aap mujhe woh number bata sakte hain jo aapko chahiye?
+receiver: Ji, sir. Woh number hai 9012. Jaanta hoon aapko iske liye call kiya hai.
+caller: Haan ji, 9012 hai. Dhanyavad, sir. Aapka number verified ho gaya hai. Humare system mein koi galti nahin hai. Apne online banking ka kaam kar sakte hain.
+receiver: Okay, sir. Number verified ho gaya hai, dhanyavada. Mein ab kaam shuru kar dunga.
+caller: Haan ji, 9012 hai. Dhanyavad, sir. Aapka number verified ho gaya hai. Humare system mein koi galti nahin hai. Apne online banking ka kaam kar sakte hain.
+receiver: Okay, sir. Number verified ho gaya hai, dhanyavada. Mein ab kaam shuru kar dunga.
+caller: Haan ji, 9012 hai. Dhanyavad, sir. Aapka number verified ho gaya hai. Humare system mein koi galti nahin hai. Apne online banking ka kaam kar sakte hain.
+receiver: Okay, sir. Number verified ho gaya hai, dhanyavada. Mein ab kaam shuru kar dunga.
+caller: Haan ji, 9012 hai. Dhanyavad, sir. Aapka number verified ho gaya hai. Humare system mein koi galti nahin hai. Apne online banking ka kaam kar sakte hain.
+receiver: Okay, sir. Number verified ho gaya hai, dhanyavada. Mein ab kaam shuru kar dunga.

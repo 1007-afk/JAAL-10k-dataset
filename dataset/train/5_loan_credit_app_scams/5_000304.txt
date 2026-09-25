@@ -1,0 +1,8 @@
+caller: Namaste sir, this is Ankit calling from LoanExpressIndia. We've noticed you recently applied for a personal loan on our website. Just a quick verification, can you confirm your full name?
+receiver: Hello, yes, this is Raj Patel. What’s this about? I did apply, but haven't heard anything yet.
+caller: Excellent, Mr. Patel. Your application is approved, and we can disburse ₹25,000 immediately. To process, we just need to verify some details. Can you share the last four digits of your bank account number, please?
+receiver: Last four digits? Why? Isn't that a bit risky?
+caller: Absolutely secure sir. It’s just for OTP verification, to make sure it's your account we’re transferring to. A one-time password will be sent to your registered mobile number, just confirm it to me.
+receiver: Okay, fine. It’s 4321. Just quickly, what's the interest rate on this loan?
+caller: Wonderful! OTP received and verified. Your loan is being processed. However, a small processing fee of ₹1500 is required upfront to activate the account. Can you transfer it to the UPI ID LoanExpressPay@xyzbank?
+receiver: ₹1500 upfront? That wasn't mentioned when I applied! Is this really necessary?

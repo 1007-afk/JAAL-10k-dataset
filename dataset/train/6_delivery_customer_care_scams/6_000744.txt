@@ -1,0 +1,7 @@
+caller: Namaste! This is Akash from Zomato Customer Care. We've noticed an unusual transaction of ₹2,500 on your account. Can you please confirm this was you?
+receiver: ₹2,500? Nahin, maine toh kuch order nahi kiya hai. What's happening?
+caller: Sir, it appears there's been a system error. To rectify this and prevent further unauthorized charges, we need to verify your OTP. Please share the OTP we just sent to your registered mobile number.
+receiver: OTP?  Zomato aise bhi requests karta hai?  I’m a little suspicious.  Why can't you just reverse the transaction?
+caller: Sir, for security reasons, the OTP verification is mandatory. It’s a standard procedure. Without it, we cannot guarantee the refund will be processed swiftly. Time is of the essence; the offer ends in 30 minutes.
+receiver: Thirty minutes? Look, I don’t feel comfortable sharing an OTP over the phone. I’ll call Zomato’s official customer service number directly.
+caller: Sir, that number is currently experiencing high call volumes. This is the priority line specifically for resolving urgent system errors. Please, just the OTP - it will only take a second, and then we’ll fix this for you. Don't delay, sir!

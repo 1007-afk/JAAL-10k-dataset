@@ -1,0 +1,9 @@
+caller: Namaste! Is this Priya Sharma? I’m calling from ‘WealthGain Pro’. We've noticed significant potential in your online activity, and you've been selected for a priority investment opportunity.
+receiver: Hello? WealthGain Pro? Investment opportunity? What kind of opportunity is this?
+caller: It's a new cryptocurrency staking program. We're partnering with a leading blockchain project, 'NovaCoin,' and offering incredibly high returns - up to 30% weekly! You simply deposit a small amount, and we manage the staking for you.
+receiver: 30% weekly? That sounds… very high. What's the minimum deposit? And how do you ensure this isn't a scam? I’ve heard so many stories.
+caller: The minimum is just ₹5000. To prove our legitimacy, we're offering a free ₹1000 bonus just for registering on our platform and linking your bank account. You can find the link here: wealthgainpro.xyz/register. We also have a referral program where you can earn extra by inviting your friends.
+receiver: ₹1000 bonus? A referral program? Okay, that's tempting. But I'm still a little hesitant. Can I speak to someone who's already invested?
+caller: Absolutely! We can connect you with one of our top referrers. But please hurry, this offer is only valid for the next 2 hours. You need to register and claim your bonus quickly. Our system is processing many registrations right now.
+receiver: Two hours? Alright. Let me quickly look at the website… It's asking for my bank account details and PAN card number. Is that really necessary for a ₹1000 bonus?
+caller: Yes, Priya! It's standard procedure for KYC verification and to activate your bonus. Don’t worry,

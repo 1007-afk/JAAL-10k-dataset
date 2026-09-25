@@ -1,0 +1,7 @@
+caller: Namaste sir, main Jio digital support se baat kar raha hoon. Aapka recharge overdue ho gaya hai aur abhi aapka number suspend hone wali hai. Agar aapko number continue karna hai, toh mujhe aapki bank statement dekhni hogi.
+receiver: Jio? Overdue? Mera recharge kab hua tha?  Main to think karta hu ki abhi recharge kiya tha. Yeh number hai 87xxxxxx54.
+caller: Ji sir, aapka recharge 10th November 2023 ko hua tha.  Aapko account details verify karne ke liye poochta hun.  Kya aap mujhe apna pan card number dikha sakte hain?
+receiver: Pan card number?  Main unki website par jaakar check karunga. Parantu, mene unhein koi personal information nahi dena hai. Kya koi aur option hai?
+caller: Sir, aapka account verified ho gaya hai.  Abhi aapko SMS alert aa jayega aapke registered number pe.  Jab message aaye toh mujhe bataiye, phir main aapka number activate kar sakta hun.  Aur sir, koi bhi transaction online karte samay OTP mat bhagaye.
+receiver: Okay, SMS ka wait kar raha hoon.  Message aaya toh bata dunga. OTP bhi important hai na?
+caller: Haan ji, OTP bhi bahut zaroori hai.  Koi bhi fraud activity dekhe toh immediately report karein.

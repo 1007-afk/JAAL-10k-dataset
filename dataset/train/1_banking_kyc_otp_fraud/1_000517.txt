@@ -1,0 +1,11 @@
+caller: Namaste sir, aapke credit card ka expiry date aaj hi khatam hone wala hai. Kindly, please aapka card continue rakhna.
+receiver: Oh bhai, mere haath mein hi hai card. Kya huaa?
+caller: Suno sir, yeh bataiye. Aapka credit card jo hai, uska validity aaj raat ko expire ho jaayega. Agar aap abhi card activate nahi karenge, toh aapko payment related issues aa sakte hain.  Aapka card abhi smoothly chalega, okay?
+receiver: Achaa, mere haath mein card hai. To main kya karun ab?
+caller: Sir, aapko kisi bhi kind ke information disclose karne ki zaroorat nahi hai. Hum sirf yeh check kar rahe hain ki aapka card active hai ya nahi. Aapko koi notification mila hai is matter mein?
+receiver: Notification? Haanji, mujhe ek SMS aaya tha lekin maine uspar focus nahi kiya. Aap kis desh se bol rahe hain?
+caller: Haanji sir, main India se bol raha hoon. Yeh SMS aaya hai taaki aapka card continue rahega aur aapko koi bhi difficulty nahi hogi. Basically, hum yeh confirm kar rahe hain ki card running hai. Aap card ko deactivate toh nahi kar rahe na abhi?
+receiver: Nahin, nahin, card toh mere paas hi hai. Deactivate toh nahi kiya. So, matlab mera card abhi bhi work karega na?
+caller: Exactly!  And if you have any doubts, just call this number back. We're here to help.  Just keep your card handy.
+receiver: Okay, thanks.
+caller: You’re welcome! Have a nice day.

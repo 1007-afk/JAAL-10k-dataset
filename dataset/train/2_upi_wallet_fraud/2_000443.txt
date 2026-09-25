@@ -1,0 +1,11 @@
+caller: Namaste! Mai BharatPay se Rahul bolta hoon. Aapke BharatPay account mein cashback offer aaya hai - ₹5000!
+receiver: ₹5000 cashback? Kaise? Main toh koi offer activate nahi kiya tha.
+caller: Haan ji, special offer hai limited customers ke liye. Verify karna hai bas. ‘CLAIM’ likhkar SMS karo 9876543210 par.
+receiver: ₹5000? Acha… SMS karna hai? Par, woh number toh ek private number hai. Confirm karo BharatPay ka hi hai na?
+caller: Haan ji, confirm! BharatPay ka hi hai. Jaldi karo, offer sirf 30 minute mein expire ho jayega. Verification ke bina aap ₹5000 lose kar denge.
+receiver: Chalal, dekhta hoon.  CLAIM message send kar raha hoon…
+caller: Bahot achcha! Verification ho gaya hai. Ab aapko apne BharatPay wallet mein ₹100 processing fee deposit karna hai, taaki cashback activate ho.
+receiver: ₹100 processing fee?  Yeh kya baat hui? Cashback claim karne ke liye fee dena padega?
+caller: Haan ji, security ke liye. ₹100 fee deposit karke aap ₹5000 ka cashback instantly get kar lenge.  Koi chinta mat karo.
+receiver: Hmm… mujhe kuch zyada hi suspicious lag raha hai. Main baad mein check kar leta hoon.
+caller: Sir, please jaldi karo! Offer expire hone wala hai. ₹5000 ka cashback haath se chale jayega.  ₹100 deposit karo aur ₹5000 enjoy karo!

@@ -1,0 +1,15 @@
+caller: Namaste, sir. This is Anjali from Axis Bank’s fraud prevention team. We’ve noticed some unusual activity on your account, specifically a large transaction attempt to a cryptocurrency exchange.
+receiver: Haan, bolie. Kya transaction attempt hua? Mujhe toh kuch pata nahi hai. Mein toh aaj tak kabhi crypto mein transaction nahi kiya.
+caller: Exactly, sir! That’s why we’re calling. Someone is trying to access your account and use it for illegal purposes. To secure your funds, we need to quickly verify a few details. First, can you confirm your full name and registered mobile number?
+receiver: Mera naam Suresh Verma hai aur mobile number 9876543210 hai. Par yeh transaction attempt kiska hai aur kitna tha?
+caller: Thank you, Mr. Verma. The attempted transaction was for ₹1.2 lakh. It's been blocked for now, but we need to complete the verification process to prevent further attempts. For verification, can you please provide the last four digits of your Aadhaar card? It’s a standard security measure.
+receiver: Aadhaar number? Woh toh main kisi ko nahi de sakta! Woh bahut risky hai. Bank toh kabhi Aadhaar number poochta nahi.
+caller: Sir, I understand your concern, but this is a heightened security protocol due to the severity of the attempted fraud. Without this verification, we cannot guarantee the safety of your account. Your account might get temporarily suspended.
+receiver: Suspension? Kaunsa suspension? Aur mujhe bank ke official number se call hona chahiye tha. Yeh number toh theek nahi lag raha.
+caller: Sir, this is an automated callback system directly from Axis Bank's security division. To expedite the process, could you perhaps provide the OTP you just received on your registered mobile number? It's a one-time password sent for verification.
+receiver: OTP? Haan, mujhe OTP mila hai, 123456. Par aapko iski zarurat kyun hai? Yeh security protocol kitni secure hai?
+caller: Sir, the OTP confirms that you have access to the mobile number associated with the account, which is crucial for verification. Please, enter the OTP quickly, before the fraudsters try again.
+receiver: Thoda ruko. Mein Axis Bank ke official customer care number pe call karta hoon aur phir se confirm karta hoon. Aap ka wait karo.
+caller: Sir, please hurry! Time is of the essence! The longer you wait, the greater the risk of your account being compromised. Once the OTP is entered, your account will be immediately secured. 
+receiver: (Silence)
+caller: Sir? Are you still there? We need that OTP to secure your account!

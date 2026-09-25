@@ -1,0 +1,7 @@
+caller: Hello, is this speaking with Mr. Sharma? This is Customs Department, Mumbai. We've detected a suspicious transaction linked to your name involving an international parcel.
+receiver: Customs? What transaction? I haven't ordered anything recently. And how did you get my number?
+caller: Sir, our records indicate a package arrived containing suspected contraband. The reference number is CR-78492. To clear this parcel and avoid legal complications, you need to pay a small processing fee of ₹8,500.
+receiver: ₹8,500? For a parcel I didn’t even order? This sounds like a scam. Why can’t I just refuse the parcel then?
+caller: Sir, refusing the parcel will escalate the matter. It will lead to further investigation and potential legal action against you. This is a standard procedure to verify the sender and ensure compliance. Please transfer the amount to the provided UPI ID: customs.clearance@axisbank. You can call us on this number for confirmation after the payment - 9820158742.
+receiver: Wait a minute! I’m not paying anything until I verify this. I’m calling my bank and reporting this. What's the exact address of your department? Give me an official contact number.
+caller: Sir, time is of the essence. The parcel is scheduled for destruction. If the payment is not received within 30 minutes, we will have to proceed accordingly. You can confirm the transaction through this number, sir. Don’t delay it further.

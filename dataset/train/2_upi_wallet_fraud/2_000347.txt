@@ -1,0 +1,8 @@
+caller: Namaste sir, mai PhonePe se Rahul bol raha hoon. Aapke PhonePe wallet mein cashback offer aaya hai, ₹5000 tak ka.
+receiver: Oh, ₹5000 cashback? PhonePe mein? Main toh jankari nahi mila. Batao kaise claim kar sakta hoon?
+caller: Sir, is offer ko claim karne ke liye, aapko ek verification process se gujar na hoga. Aapko apne bank account se ₹200 processing fee bhar dena hai.
+receiver: ₹200 processing fee? Cashback offer mein fee lagti hai? Ye thoda ajib lag raha hai.
+caller: Sir, ye ek small fee hai, jo humara payment gateway charges karta hai. Iske baad aapko ₹5000 ka cashback mil jayega. Aap UPI ke zariye ₹200 send kar dijiye.
+receiver: UPI se? Konse UPI ID pe bhejna hai? Aur mujhe confirmation chahiye ki ye PhonePe ka hi offer hai.
+caller: Sir, ₹200 aap UPI ID rahul.phonepe@axisbank pe send kar dijiye. Ye PhonePe ka official ID hai. Jaldi kijiye, offer limited time ke liye hi hai.
+receiver: Wait kar, ek minute. Main check karta hoon.

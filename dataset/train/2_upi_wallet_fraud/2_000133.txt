@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay Sharma bol raha hu, IDFC First Bank se. Aapko ek achcha cashback offer mila hai.
+receiver: IDFC First Bank? Kaise ka offer hai?
+caller: Ji, humein aapke bank account se ek suspicious transaction ka attempt hua hai, ₹499 ka. Is transaction ko reverse karne aur aapko ₹500 ka cashback dene ke liye, humein aapke PhonePe wallet ID aur OTP verify karna hoga.
+receiver: ₹500 cashback? Aur PhonePe ID aur OTP kyun? Woh safe hai kya?
+caller: Haan ji, absolutely safe! Yeh humara security protocol hai. Hum aapke account ko secure rakhna chahte hain. OTP hume verification ke liye chahiye, aur PhonePe ID se hum verify kar sakte hain ki woh aapka hi hai. Jaldi kijiye, offer limited time ke liye hai.
+receiver: Limited time? Mujhe thoda doubt ho raha hai. Koi aur tareeka hai?
+caller: Sir, security ke chakkar mein yeh hi best tareeka hai. Agar aap cooperation nahi karenge, toh hum transaction reverse nahi kar paenge aur aapka account block bhi ho sakta hai.
+receiver: Account block ho sakta hai? Arre, wait a minute. Main IDFC First Bank se call nahi karta hu. Main abhi call cut karta hu.

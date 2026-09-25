@@ -1,0 +1,8 @@
+caller: Namaste, is this Ms. Verma? My name is Rohan, calling from Axis Bank's fraud prevention department. We've noticed some unusual activity on your account – a transaction of ₹7,500 is pending for verification.
+receiver: Haan, mai Verma hoon. ₹7,500? Mujhe toh koi transaction yaad nahi.
+caller: Exactly! This is why we’re calling. It appears someone might be attempting to make unauthorized purchases. To block this transaction and secure your account, we need to quickly verify some details. Please go to axisbanksecure.online – it's our secure verification portal.
+receiver: Axisbanksecure.online? Yeh website toh mujhe Axis Bank ki website nahi lag rahi.
+caller: Don't worry, it’s a separate portal specifically for urgent security checks. It’s important you act fast; if we don’t confirm your details within the next 15 minutes, your account will be temporarily suspended for your safety. On the website, you will be asked for your Aadhaar number and the last four digits of your PAN card.
+receiver: Aadhaar number aur PAN card? Bank aise puchta hai kya? Mujhe toh kuch toh gadbad lag rahi hai.
+caller: This is standard procedure, Ms. Verma! We need to cross-reference your identity to prevent fraud. Just a few more details, and you’ll be all set. Think of it as protecting yourself and your money. Please enter the information on axisbanksecure.online. Is your Aadhaar card handy?
+receiver: Thoda wait karo, main ek baar aur check karta hoon Axis Bank ki official website pe.

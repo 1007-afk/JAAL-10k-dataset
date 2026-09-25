@@ -1,0 +1,8 @@
+caller: Hello sir, Vodafone customer care se bol raha hu. Aapke number ki verification chal rahi hai. Aapke phone par ek 4-digit OTP aaya hoga, woh bataiye please.
+receiver: Haan, ji? Ek minute, dekhta hu. ... Haan, aa gaya. 4567. Aapse kaun baat kar rahe hain?
+caller: Ji sir, mera naam Rahul hai. Thank you for confirming the OTP. Abhi hum aapki account details ko verify kar rahe hain. Kya aap mujhe apna registered mobile number bata sakte hain?
+receiver: Haan, Rahul. Mera registered mobile number hai [apna registered mobile number yahan daalein].
+caller: Thank you sir, for confirming your registered mobile number. Ab hum aapke account ko further verify karne ke liye, aapke registered email address pe ek link bhejenge. Kya aap mujhe apna registered email address bata sakte hain?
+receiver: Haan, Rahul. Mera registered email address hai 'testuser@example.com'. Koi aur details chahiye?
+caller: Ji sir, aapka email address confirm ho gaya hai. Abhi aapko ek link aa jayegi, uspar click karke verification complete karni hai.  Uske baad, hum aapke account par kuch special offers bhi activate kar denge. Aapko koi aur query hai sir?
+receiver: Nahi Rahul, aur koi query nahi hai. Bas yeh offers ki details thoda bata sakte ho?

@@ -1,0 +1,12 @@
+caller: Namaste, is this Ms. Devi? This is SecurePay calling about your recent transaction on GoKartPlus.
+receiver: Ji ji, bolo. Kaise hain aap?
+caller: Namaste, Ms. Devi, we’re contacting you because there was an unauthorized payment of ₹1,800 made to a gaming website yesterday. Our system flagged it as potentially fraudulent. We need to verify your information to prevent further charges.
+receiver: ₹1,800? Woh! Main ne GoKartPlus pe kuch nahi kharcha kiya. Tumhare system mein kya gadbad hai?
+caller: Haan ji, Ms. Devi, technically, it wasn’t GoKartPlus, but a similar looking website. We want to ensure your account security. Could you please confirm your last four digits of your bank account?
+receiver: Mein apni bank account ki chota number mat bataungi. Koi baat nahi. Kya aap mujhe tell sakte hain kis website par yeh charge hua tha?
+caller:  Haan ji, Ms. Devi, it appears to be ‘SpeedRunZone’.  We’re trying to investigate this matter urgently to protect you from any potential losses.  Just a quick verification – can you recall approximately when you last used your debit card?
+receiver:  Mujhe yaadein nahi aa rahi hain.  Kya aapko meri debit card ka expiry date pata hai?  Ye sab kitni confusion hai!
+caller:  Haan ji, Ms. Devi.  The expiry date is June 2025.  Now, could you please provide me with the name of the person who lives at your address?  This is just standard procedure for fraud prevention.
+receiver:  Mere saath koi gadbad hai. Mera ghar kisi ka nahi. Main ek apartment mein rehta hoon.  Aapko woh naam bataane wala nahi hoga.
+caller:  Haan ji, Ms. Devi.  Let’s try one more thing. Can you describe the last three digits of your mobile phone number?  It will help us locate your account quickly.
+receiver:  Mein bas istemaal karta hoon, main unhein bata nahi sakta.  Main abhi telepon band kar deta hun.

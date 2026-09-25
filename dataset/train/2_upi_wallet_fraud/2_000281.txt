@@ -1,0 +1,7 @@
+caller: Namaste, is this Priya Verma? I’m calling from BharatPe support. We’ve detected some unusual activity on your BharatPe account and need to verify your identity.
+receiver: BharatPe? Okay, what kind of unusual activity? I haven’t done anything different.
+caller: Yes, ma’am. We noticed a small deduction of ₹200 for a cashback processing fee. It seems there was a successful cashback claim initiated from your account but wasn’t fully processed. To complete the process, we need you to verify it via a one-time password sent to your registered mobile number.
+receiver: Cashback? I didn’t claim any cashback. I haven’t even been shopping online much lately.
+caller: It could be an automated cashback offer, ma'am. Many merchants are partnering with BharatPe to provide these offers. To prevent any fraudulent activity and ensure the cashback is credited to your account, please provide the OTP we just sent. It’s a standard security procedure.
+receiver: Wait a minute. Why would I need to give you an OTP for a cashback I didn’t even claim? That sounds fishy. I’m not giving you anything. I'm going to call BharatPe directly.
+caller: Ma'am, this is for your protection. If you don't verify, the cashback will be reversed, and you might face temporary account restrictions. It’s a very simple process and will only take a moment to secure your funds.

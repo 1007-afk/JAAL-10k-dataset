@@ -1,0 +1,9 @@
+caller: Namaste! Aap kaise hain? Yeh Sanjay Sharma hai, Digital Solutions ke sahajya. Mujhe kehna chaha ki Diwali aur Navratri ke tickets, humare office mein bahut kam hain - sirf 3 bache hain.  Yeh bahut special events hain, aur hum ne online booking ko band kar diya hai.  Agar aap jaldi karenge toh, aaj shahar ke andar kisi bhi time tak, aapko ticket milegi.
+receiver: Arre Sanjay! Dhanyavaad! Diwali aur Navratri ke tickets?  Bahut achhi khabar hai!  Phir kitne bache hain?  Online booking band kar diya?  Mujhe jaldi se dekhni padegi.  Aap kah sakte hain ki aaj shahar ke andar koi particular time hai jab ticket available hogi?
+caller: Haan ji!  Phir sirf 2 bache hain! Online booking band ho gaya hai, isliye hum sirf office mein tickets sell kar rahe hain.  Humne kaha hai ki aaj shahar ke andar kisi bhi time tak ticket mil sakta hai, lekin sabse tezi se 11 AM se 6 PM ke beech mein.  Aapkal office mein aane ke liye kahan jayein?
+receiver: Arre!  Phir sirf 2 bache hain?  Oh no!  Mujhe haste haste aana padega.  Aap kah sakte hain ki mujhe ticket mile ya na mile, mujhe aate rehna parega?  Aur ticket ka price kya hai?
+caller: Haan ji!  Ticket ka price ₹2500 hai.  Aapkal aane wala time bataiye, phir mein aapko ticket assign kar dunga.  Isliye, jaldi aao, kyunki sirf 1 ticket bacha hai!  Kya aapko koi surcharge lagta hai?
+receiver: ₹2500?  Arre!  Main kal subah 10 baje pahunch jaunga.  Aur ticket assign karne ke baad, mujhe confirmation message milega?
+caller: Haan ji!  Kal subah 10 baje aati rahein, aur aapko confirmation message milega.  Aur yeh bhi bata do, aapka mobile number kya hai, jismein message bhejna hai.  Shubh Diwali unko!
+receiver: Mera mobile number 9876543210 hai.  Dhanyavaad Sanjay!  Aapka sauda bahut achcha hai!
+caller: Thik hai!  9876543210, thank you!  Jaldi aao!  Namaste!

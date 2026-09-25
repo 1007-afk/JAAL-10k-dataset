@@ -1,0 +1,6 @@
+caller: Hello! My name is Raj. I'm calling from CoinZenith Investments. We're offering a fantastic opportunity to invest in a new cryptocurrency, StellarRise. Early investors are seeing returns of up to 30% weekly! Very limited spots available. Are you interested in learning more?
+receiver: CoinZenith? I haven't heard of them. 30% weekly sounds a bit too good to be true, doesn’t it? What's the initial investment amount?
+caller: That's what makes it amazing! The minimum is just ₹5000 to get started. It’s very low risk, especially with my guidance. I can personally help you navigate the platform. We need to verify your account details though, for security purposes. Can you share your UPI ID with me?
+receiver: UPI ID? Why do you need that? Shouldn’t I be able to invest directly through your platform? This is starting to feel a little dodgy.
+caller: It's just for quick verification, madam. To ensure the funds go to the correct StellarRise wallet. No money will leave your account until you confirm the investment. It’s a standard security protocol. Plus, if you give me your UPI ID I can also send you a small bonus as a thank you for joining. ₹500.
+receiver: Okay, fine. But I'm still a little uneasy. Let me just double-check your website address first. And please, no UPI ID. I'll go to your website myself.

@@ -1,0 +1,7 @@
+caller: Hello, is this Ms. Verma? This is Deepesh from Zepto customer care. We've detected some unusual activity on your account – a large order placed for electronics that you haven't confirmed. To prevent fraudulent charges, we need to verify some details urgently.
+receiver: What? Zepto? I didn’t order anything like that. What electronics?
+caller: Yes ma'am, the order is for a high-end smart TV and some accessories, totaling ₹42,500. It's showing as being shipped to a different address than yours. We need to secure your account. Can you please provide the last four digits of your debit card for verification?
+receiver: Wait a minute! Zepto doesn’t call for card details. This is very suspicious. I’ll just hang up and call Zepto’s official number.
+caller: Ma'am, please don't hang up! This is a security protocol. If you disconnect now, your account will be temporarily suspended for security reasons. We just need a quick confirmation to prevent your money from being stolen. Just the last four digits, please!
+receiver: No, I don’t trust this. You’re definitely a scammer. I’m reporting this number.
+caller: Ma’am, this is your last chance to secure your account! Time is running out! We can’t allow the fraudulent order to proceed. Please provide the details.

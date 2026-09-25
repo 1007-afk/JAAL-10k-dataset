@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Rahul from FreePay Wallet. We’ve noticed a pending cashback of ₹750 in your FreePay account for a recent online purchase. To claim it, you need to quickly verify your details.
+receiver: ₹750 cashback? FreePay mein? Bilkul! Mujhe purchase ka notification mila tha, lekin cashback ka nahi. Bataiye, kya karna hai?
+caller: Excellent, sir! Just a few simple steps. First, can you please confirm the last three digits of the UPI linked to your FreePay account? It's just a security check.
+receiver: UPI linked? Hmm… I use PhonePe mainly. Last three digits… let me check… Okay, it’s 482. Is this safe?
+caller: Absolutely, sir! Very good. Now, to complete the verification and release the cashback, we need you to click on this link and confirm your details – https://freepay-verify.net/cashback. It will take just a minute.
+receiver: Okay, I’ll click the link… Wait, this website looks different from the official FreePay app. Something doesn't feel right. I'm not clicking anything.
+caller: Sir, please don’t hesitate! This is a limited-time offer. If you don’t confirm now, the cashback will expire. It's very simple, just enter your OTP that you will receive on your registered mobile number. We are doing this to prevent fraud.
+receiver: OTP? But I haven’t received any OTP! This is a scam, right? I'm blocking this number and reporting this to FreePay.

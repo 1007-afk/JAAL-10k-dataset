@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Google Pay se. Aapke Google Pay account mein ek transaction fail ho gaya hai. ₹500 ka.
+receiver: ₹500? Kaise? Mujhe toh koi notification nahi aaya.
+caller: Haan, sir. System mein technical issue aa gaya tha. Ab aapko woh amount verify karna hai, warna woh permanently deduct ho jayega. Chahiye aapka OTP?
+receiver: OTP? Google Pay toh khud verify karta hai na? Mujhe kuch SMS nahi aaya.
+caller: Haan, par yeh emergency case hai, sir. System override karna padega. Aapka OTP mujhe send karein, mai manually verify kar dunga. Bilkul safe hai.
+receiver: Bilkul safe? Aur aapko apna OTP dena hai? Main confused hoon.
+caller: Sir, time bahut kam hai. System shutdown hone wala hai. Jaldi se OTP de dijiye, warna ₹500 permanent loss ho jayega. Please, fast!

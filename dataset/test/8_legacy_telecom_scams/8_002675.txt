@@ -1,0 +1,12 @@
+caller: ji, is this Raj Kumar? I am calling from smartsolutions.in, you know, the website for all the latest Samsung phones! How are you doing today?
+receiver: Hello? Yeah, this is Raj Kumar. Smartsolutions.in, you say? Samsung phones… uh, thanks for calling. I’m doing alright, busy with some online shopping, you know how it is. And you are…?
+caller: Rajesh Sharma here, from smartsolutions.in! Aur main your digital assistant, Vikram Singh! We have an amazing deal for Samsung Galaxy owners – first month absolutely FREE for our premium security software! Have you heard of it before?
+receiver: Premium security software? Free for a month? That sounds interesting. Vikram Singh, nice to meet you, virtually. So, what exactly does this software do?
+caller: Arre, it's fantastic! It protects your phone from viruses and hackers, like a superhero! Just download it from secureapps.in and register using your phone number. It’s very easy, just follow the steps. And you’ll receive a verification SMS. After the first month, it's just ₹199 per month, but you can cancel anytime! So, what do you think?
+receiver: ₹199 per month… okay. And I can cancel anytime without any problems? No long contracts or anything?
+caller: Bilkul nahi! Woh toh hamare rules hain - secureapps.in, for top-notch security, no hassles! Just enter your phone number during registration. After the free month, you’ll get a reminder message before charging. So, go ahead and visit secureapps.in now!
+receiver: Hmm, ₹199... And I'll get a reminder? Just to be sure. My name is Suresh Patel, just so you know.
+caller: Haan ji, Suresh Patel! Absolutely! You’ll get a notification. And you can also cancel at any time by texting CANCEL to 6000. So, go ahead, visit secureapps.in and protect your Samsung Galaxy today! Don't delay, pakka!
+receiver: Okay, Suresh Patel. I’ll check out secureapps.in. Let me see... *typing sounds* ... Alright, I’m going to visit the site now. Just one question, after the free month, will I get calls or texts about renewing the subscription?
+caller: Haan, you might get a friendly reminder, but it's completely optional. You can simply ignore it, or if you want to continue, just re-register through the app. Don’t worry, we value your privacy, you know!
+receiver: Okay, good to know. So, I just ignore the reminders if I don’t want to pay? Great. Thanks for the information, Vikram Singh.

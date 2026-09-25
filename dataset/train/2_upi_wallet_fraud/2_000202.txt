@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Sunil bolta hoon. Aapke BharatPay account mein ek suspicious transaction detect hua hai. ₹7,500 ka withdrawal attempt kiya gaya tha. Account secure karne ke liye, aapko ek verification code send karna hoga. WhatsApp par ‘VERIFY’ likhkar 7890123456 par message karein. Jaldi karein, time limited hai!
+receiver: Hello? Suspicious transaction? ₹7,500?  Kaunsa transaction hai? Mujhe toh koi message nahi aaya tha. BharatPay se hi call hai?
+caller: Haan ji, bilkul! BharatPay se hi call hai. Aapka account hacker target kar raha tha. ₹7,500 ka withdrawal attempt hone se sirf vahaan bacha hai. ‘VERIFY’ message send karne se aapka account lock ho jayega aur transaction cancel ho jayega. Aur fir hum aapko secure karne ke liye aur steps bataenge.
+receiver: ₹7,500 ka withdrawal attempt?  Yeh toh bahut achcha nahi hai.  Okay, theek hai, main ‘VERIFY’ message send karta hoon.  Par mujhe aur batao, hacker kaun tha?
+caller: Hacker ki details abhi confidential hai, sir.  Security reasons se hum woh information disclose nahi kar sakte.  Aapko sirf ‘VERIFY’ message send karna hai. Jab message send ho jayega, toh hum aapko humara helpline number denge, jahan aap aur details mein baat kar sakte hain.  ₹200 verification fee lagegi, wo bhi message ke saath hi deduct ho jayega.
+receiver: ₹200 fee? Verification ke liye?  Yeh thoda funny lag raha hai.  BharatPay app mein toh verification free hai.  Mein check karta hoon…
+caller: Sir, ye emergency situation hai. App ka account

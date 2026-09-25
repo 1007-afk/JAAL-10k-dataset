@@ -1,0 +1,15 @@
+caller: Namaste Madam, main Axis Bank se Rajesh bol raha hoon. Aapke account mein kuchh irregular transactions dikh rahe hain, isliye ek urgent verification karna hoga.
+receiver: Haan bolie? Irregular transactions? Kya matlab hai?
+caller: Madam, kuchh attempts hue hain aapke account se online payment karne ke, jo aapne nahi kiye hain. Aapki account ko secure rakhne ke liye, humein aapke Aadhaar number se verify karna hoga.
+receiver: Aadhaar number? Bank ko Aadhaar number kyun chahiye? Yeh toh mujhe nahi pata.
+caller: Madam, yeh new security protocol hai, RBI ke hukum se. Agar aap verification nahi karenge toh aapki account temporarily suspend ho sakti hai. Bas aapka Aadhaar number chahiye, aur ek OTP jo hum aapke registered mobile number par bhejenge.
+receiver: Account suspend? Nahi nahi, aisa mat karo. OTP toh main nahi de sakta, security reasons se. Aadhaar number bhi mujhe aise hi nahi dena chahiye.
+caller: Madam, toh phir hum ek aur tarika try karte hain. Aapka PAN card number batayein, aur hum usse verify karte hain. PAN card se verify karna bhi secure hai.
+receiver: PAN card number? Nahi yaar, mujhe toh yeh sabh bakwas lag raha hai. Bank wale PAN card number kyun mangenge?
+caller: Madam, humare records mein aapka PAN card number updated nahi hai, isliye verification ke liye chahiye. Agar aap cooperate karenge toh hum immediately aapki account secure kar denge. Sirf 5 minute lagenge.
+receiver: 5 minute? Mujhe toh lagta hai kuch gadbad hai. Ek minute ruokie, main apne husband se puchhti hoon.
+caller: Ji Madam, aap free hain. Lekin please jaldi karein, kyunki suspension ka risk hai. Agar aapka husband available nahi hai toh bas OTP bata dijiye. Woh toh instant verification ho jayega.
+receiver: Nahi, main abhi OTP nahi bataungi. Main baad mein call karti hoon bank ke customer care par.
+caller: Madam, customer care par toh aapko bahut wait karna padega. Aur agar aapke account ko koi fraudster target karta hai toh hum responsible nahi honge. Hum toh aapko mahar help karne ki koshish kar rahe hain.
+receiver: Dhanyavaad, mujhe mahar help nahi chahiye. Main khud hi account secure kar lungi. Aur aapko meri personal details nahi milegi.
+caller: Theek hai Madam, aapki marzi. Lekin yaad rakhiye, agar aap verification nahi karti toh account suspend ho sakta hai. Aur humein koi dosh nahi hoga.

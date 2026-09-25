@@ -1,0 +1,7 @@
+caller: Namaste! Mai Swiggy se Rohan bolta hoon. Aapke order number SWG458723 mein kuch problem hai. Courier agent delivery ke dauran package damage kar diya hai.
+receiver: Oh, really? Damage? Which order was that? I placed a few recently.
+caller: Haan sir, woh aapka last order tha - biryani aur kebab. Isliye, humara refund policy hai, aapko ₹2500 ka compensation milega, lekin payment karne ke liye OTP zaroori hai.
+receiver: ₹2500? Wait a minute. Why do I need to give you an OTP for a refund? Swiggy never asked for OTP.
+caller: Sir, security ke liye! OTP se hum confirm kar sakte hain ki refund aapke account mein hi jaaye. Kuch chors hai jo refund process mein interference karte hain.
+receiver: This sounds very suspicious. I’m not comfortable giving you my OTP. I’ll call Swiggy directly to verify this.
+caller: Sir, please don't delay! Yeh offer sirf aaj ke liye hai. Agar OTP nahi diya toh aapka ₹2500 ka refund khatam ho jayega.  Aapko loss hoga.

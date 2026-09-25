@@ -1,0 +1,10 @@
+caller: Hello, is this Mr. Rajesh Kumar?
+receiver: Haan, bolhiye. Kon bol raha hai?
+caller: This is Inspector Verma from the Mumbai Customs Department. We have intercepted a parcel addressed to you containing suspicious items. It appears to be linked to a case of illegal import and drug trafficking.
+receiver: Illegal import? Drugs? Arre, yeh kya keh rahe hain aap? Main toh kabhi parcel order bhi nahi kiya. Kya parcel number hai?
+caller: The parcel number is IN1234567890. To clear this, you need to pay a small processing fee of ₹15,000 to expedite the verification process. We need to ensure the contents are thoroughly checked before release.
+receiver: Fifteen thousand rupees? For a parcel I didn’t even order? This is sounding very fishy. Kya koi receipt number ya FIR number hai jo aap de sake?
+caller: We understand your concern, Mr. Kumar. This is a sensitive matter. To avoid legal complications and potential arrest, we require the payment immediately. I’ll send you a secure payment link. Don't delay, as this case is being escalated.
+receiver: Secure payment link? Dekhiye, yeh toh bilkul scam lag raha hai. Main police mein report karunga agar aapne mujhe disturb kiya. I am ending this call now.
+caller: Mr. Kumar, please reconsider! This is your last chance to resolve this issue without facing serious consequences. The link is expiring shortly, and if you don't act now, we'll have to proceed with legal action.
+receiver: Mujhe abhi koi link open karna hai, aur na hi main kisi se baat karna chahunga. Yeh scam hai.

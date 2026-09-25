@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank se Rohit bolta hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai, isliye aapki KYC verification karna zaroori hai.
+receiver: Axis Bank? Main toh koi suspicious activity toh notice nahi kiya. Tumhara naam aur ID number batao pehle.
+caller: Sir, security reasons se hum phone par ID number share nahi karte. Lekin main aapko confirm karta hoon ki yeh Axis Bank ka official call hai. Aapka account suspend hone se pehle verification karna zaroori hai. Aapka OTP aur debit card number bataiye.
+receiver: OTP aur debit card number? Tum serious ho? Bank kabhi phone par aise details nahi manta. Yeh toh scam lag raha hai.
+caller: Sir, aap galat samajh rahe hain. Account suspend hone se bachne ke liye time bahut kam hai. Sirf 2 minute lagenge. Main aapko secure link bhejna chahunga, wahan aap details enter kar sakte hain. Link milne ke baad aapka account secure ho jayega.
+receiver: Koi link mat bhejo. Main khud Axis Bank website par jaakar verify karunga. Tumhara call block kar raha hoon. Yeh scam hai.

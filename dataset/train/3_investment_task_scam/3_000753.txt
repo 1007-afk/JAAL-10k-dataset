@@ -1,0 +1,7 @@
+caller: Namaste! Mein DigiTask Solutions se Rahul bol raha hoon. Aapko ek acchi earning karne ka mauka mil raha hai. Ghar baithe, smartphone se, app rating aur social media tasks kar ke ₹20,000 tak kama sakte hain. Interest hai?
+receiver: ₹20,000? Ghar baithe? Kaise? Batao zara.
+caller: Bahut simple hai! Hum aapko online platforms ki ek list denge, jahan aap apps ko rate karenge, videos ko like karenge, aur social media posts ko share karenge. Har task ke liye payment milega, aur ₹20,000 tak kama sakte hain. Payment Google Pay se milega. Register karne ke liye, mujhe aapka naam aur email ID chahiye.
+receiver: Mera naam Priya Sharma hai, aur email ID priya.sharma@example.com hai. Aur yeh task kab se start kar sakte hain?
+caller: Bahut accha! Priya Sharma ji, registration complete ho gaya hai. Ab aapko ek small verification fee bharne hogi – sirf ₹500. Yeh fee aapki account ko verify karega aur payment ko ensure karega. Humara payment gateway PayTM hai.
+receiver: ₹500 verification fee? Kuchh logon se free registration ke bare mein suna hai.
+caller: Priya Sharma ji, woh fake offers hain. Hamara platform trustworthy hai aur hamesha verification fee le leta hai. Yeh security ke liye hai. ₹500 bharne ke baad, aap immediately kaam start kar sakte hain aur earning shuru kar sakte hain. Aapka PayTM number bataiye?

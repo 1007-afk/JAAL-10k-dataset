@@ -1,0 +1,12 @@
+caller: Namaste ji, is this Ms. Devi? This is SecurePay calling about your recent transaction on the ‘GlowSkin’ app.
+receiver: Ji, bolo. Main Ms. Devi hoon.
+caller: Namaste ji, Ms. Devi, we detected an unauthorized purchase of ₹750 on GlowSkin. You were billed for a premium skin care package. We need to verify your information to investigate this matter. Can you please provide me with your registered mobile number?
+receiver: Oh, GlowSkin? Main recently ek skin care product order kiya tha, lekin ₹750 charge ho gaya hai? Koi mistake ho gayi hogi.
+caller: Haan ji, Ms. Devi, it appears there was a system glitch. We want to ensure that this doesn't happen again. Please share your date of birth so we can cross-reference it with our records.
+receiver: Mera date of birth? Kahan likha hua hai? Mujhe woh yaad nahi hai.  Yeh GlowSkin account bhi main recently banaya tha.
+caller: Don't worry, Ms. Devi. We have all your details stored securely. Just provide us with the last four digits of your bank account for verification purposes. This will help us quickly resolve this issue.
+receiver: Bank account ke last four digits?  Mujhe woh bataane mein rahat hai.  Kahaan yeh information use hoga?
+caller:  We assure you, Ms. Devi, this information is solely for verifying your identity and preventing fraudulent transactions. After confirming everything, we will immediately process the cancellation of the GlowSkin subscription and refund the ₹750.
+receiver: Refund? Kitna time lagega refund mein?  Aur cancellation kaise hoga?
+caller: The refund process usually takes 3-5 business days. Once the refund is initiated, you’ll receive a confirmation SMS. Regarding the cancellation, we’ll send you a confirmation email within 24 hours. Is there anything else I can assist you with today, Ms. Devi?
+receiver: No, thank you.  Just cancel the subscription and initiate the refund.

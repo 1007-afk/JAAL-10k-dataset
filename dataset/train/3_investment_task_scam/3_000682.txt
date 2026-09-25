@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Rajesh Kumar, residing at plot number 42? I’m calling from Global Crypto Partners. We're excited to inform you about a limited-time opportunity to participate in a new decentralized finance project, 'NovaCoin'.
+receiver: Haan, main Rajesh Kumar bol raha hoon. Global Crypto Partners? NovaCoin? Batao kya hai yeh?
+caller: Absolutely, sir. NovaCoin is a groundbreaking project leveraging AI to automate cryptocurrency trading. We’re offering a very exclusive pre-sale to select individuals. With a small investment of just ₹10,000, you could potentially see returns of 300% within a month.
+receiver: 300% in one month? Itna zyada return kaise possible hai? Yeh too good to be true lag raha hai. Aur kis tarah se yeh AI trading karta hai?
+caller: It's due to our proprietary algorithm, sir. It analyzes market trends with incredible speed and precision, identifying high-probability trading opportunities. To secure your spot in the pre-sale, we require a quick verification fee of ₹800 to process the KYC and prevent fraudulent entries.
+receiver: KYC? Verification fee?  Yeh thoda suspicious lag raha hai.  Main itna paisa unverified project mein nahi daal sakta. Batao, aapka office kahan hai? Mai visit kar sakta hoon?
+caller: Our main office is currently undergoing relocation, sir. To expedite the process and confirm your eligibility, we require a scan of your driving license and a recent utility bill for verification. This is standard procedure to comply with regulatory requirements.
+receiver: Driving license aur utility bill?  Ye zyada ho gaya. Main call cut kar deta hun. Dhanyavaad.

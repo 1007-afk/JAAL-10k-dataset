@@ -1,0 +1,9 @@
+caller: Namaste, sir? This is Inspector Sharma calling from the Directorate of Enforcement, Mumbai. We've detected some unusual activity linked to your PAN card – a significant amount of cryptocurrency appears to have been transferred through it recently.
+receiver: Cryptocurrency? Haan, mujhe PAN card ka koi issue nahi hai. Main toh simple accountant hoon. Yeh kya ho raha hai?
+caller: Sir, it seems your details were compromised and used to facilitate illegal transactions involving dark web platforms. We need to verify a few details urgently to prevent further misuse and potential legal repercussions for you. Could you please confirm your mother's maiden name?
+receiver: Mother’s maiden name? Yeh sab kitna ajeeb hai. Mujhe pata nahi iska kya matlab hai. Aur main kya dark web se jaanta hoon?
+caller: Sir, cooperation is vital. We are working against serious offenses. To clear this, we require a one-time OTP sent to your registered mobile number for secure verification. It’s a standard protocol, sir. Please share the OTP once you receive it.
+receiver: OTP? Nahin, main OTP nahi dunga! Yeh thoda bahut scam lag raha hai. Main abhi police station mein report karunga.
+caller: Sir, please don’t be hasty. Freezing your accounts is the last resort. To avoid immediate action, a small amount – just ₹5,000 – needs to be deposited into a designated government account to demonstrate your willingness to cooperate. It’s a refundable security deposit, sir.
+receiver: ₹5,000? Refundable? Sir, main koi fool nahi hoon.
+caller: Sir, we are running out of time. Failure to comply will result in a warrant being issued against you. We need this payment immediately to resolve this matter. We can provide a UPI link for your convenience.

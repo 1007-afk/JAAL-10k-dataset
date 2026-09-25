@@ -1,0 +1,7 @@
+caller: Hello! This is Ravi from LoanMani. I see you recently applied for a personal loan. Just need a quick verification to process it.
+receiver: LoanMani? I don’t recall applying for a loan with that name. I've been looking at some options, but haven’t finalized anything.
+caller: Don't worry, madam! It might have been pre-approved based on your credit score. Very simple. Just need to confirm your bank account details for the transfer. It’s ₹75,000 approved for you. Instant disbursement, guaranteed!
+receiver: Hold on a second. Pre-approved without me even applying? That’s unusual. And why do I need to give you my bank details over the phone? Can you send me some information about LoanMani? A website or something?
+caller: Madam, we’re very busy right now, lots of applications coming in. Website is under maintenance. It's very secure, I assure you. This is a one-time verification fee to activate your loan. Just ₹5,000, and the ₹75,000 will be in your account within 15 minutes. Think of it as an activation charge.
+receiver: A ₹5,000 activation charge *after* I’ve supposedly been approved for ₹75,000? That’s a ridiculous amount. I’m starting to feel very uncomfortable with this conversation. I’m going to hang up now.
+caller: Madam, please don't hang up! There’s a limited-time offer! If you don't pay the ₹5,000 now, the approval will be cancelled. We have your Aadhaar details, you don't want us to use them to file a fake case against you, do you?

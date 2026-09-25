@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mera naam Rajesh hai, GlobalFinance se. Aapne hamari website par ek personal loan ke liye apply kiya tha, correct?
+receiver: Haan, ji. Mainne apply kiya tha, lekin mujhe koi confirmation nahi mili.
+caller: Ji sir, aapki application approve ho gayi hai, bahut achha news! Abhi aapko ek small processing fee bharne hogi, ₹2500, verification ke liye.
+receiver: ₹2500? Processing fee? Maine website par aisa kuch nahi dekha tha.
+caller: Sir, security reasons ke liye, hamara process hai. Apne account se transfer karke OTP send karein, tabhi loan process start ho payega. OTP mein kuch der nahi lagegi.
+receiver: Theek hai, wait kar raha hoon. Acha, mujhe OTP mil gaya hai, [invent an OTP, e.g., 876543].
+caller: Excellent, sir! Ab ₹2500 transfer karke confirm karein. Account number hai [invent an account number]. Jab transfer ho jayega, mujhe bataiye.
+receiver:  Sir, transfer karne ke baad mein mujhe kuch suspicious lag raha hai. Maine online check kiya toh yeh account naam kisi aur ka dikh raha hai.
+caller: Sir, aap confusion mein hai. Ek technical error ho gaya hoga, sir. Aapko apne bank se contact karna padega. Aur agar aap late kar rahe hai toh hum aapki personal details unfriend se share kar sakte hai.

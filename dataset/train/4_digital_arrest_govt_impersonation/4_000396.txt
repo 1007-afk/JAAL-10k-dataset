@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Singh? This is Inspector Sharma calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Haan, bolie. Mein Singh bolta hoon. Kya baat hai?
+caller: Sir, our investigations suggest the package contains items linked to illegal cryptocurrency mining equipment being smuggled into the country. Your name appears on the shipping manifest as the recipient.
+receiver: Cryptocurrency mining? Mein toh kabhi cryptocurrency mein interest nahi liya. Yeh mistake hai. Main toh computer parts order karta hoon sometimes.
+caller: We understand, sir. However, we need to verify some details to clear this up. To expedite the process and avoid legal complications, we require a small processing fee of ₹7,500 to cover the inspection and release costs. You can deposit it to this UPI ID: [Invent a plausible UPI ID, e.g., customs.clearance@xyzbank].
+receiver: ₹7,500? Legal complications? Aur yeh customs department ka UPI ID lag raha hai? Mujhe doubt ho raha hai. Mein police station mein jaa sakta hoon yeh confirm karne ke liye.
+caller: Sir, please don’t take this lightly. The window to resolve this is closing quickly. If you delay, the case will escalate, and you could face serious charges. The UPI ID is secure, we assure you. Just a small payment to clear the process. It's a standard procedure.
+receiver: Standard procedure? Nahin, sir. Yeh scam lag raha hai. Mein koi payment nahi karunga. Mein abhi hi police helpline number par call karta hoon.
+caller: Sir, please! Think of the consequences! Just transfer the money, it’s for your own good. We're just trying to help you avoid a lot of trouble. This is a very sensitive matter.

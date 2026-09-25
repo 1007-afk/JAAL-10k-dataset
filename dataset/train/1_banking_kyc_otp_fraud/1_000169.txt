@@ -1,0 +1,24 @@
+caller: Namaste sir, main HDFC Bank se bol raha hoon. Kya aapka naam Ms. Verma hai?
+receiver: Haanji, main Ms. Verma hi bol rahi hoon. Bolo, kya baat hai?
+caller: Achha Ms. Verma ji, main aapko yeh batane ke liye call kar raha hoon ki aapke HDFC Bank account mein kuch suspect activity dekha gaya hai. Hamare systems ne ek suspicious transaction dekha hai, aur isliye hum aapki security check karna chahte hain.
+receiver: Suspect activity? Mein toh abhi tak koi online purchase nahi kiya hai. Bataiye, kya hua hai?
+caller: Ji madam, hamare records ke mutabik, aapke account se ₹1200 ka transaction hua hai jaise ki ek online shopping website se payment diya gaya hai. Yeh transaction subah 8:00 AM par hua hai. Kya aapko iske bare mein koi idea hai, madam?
+receiver: ₹1200? Subah 8:00 AM? Nahin, mujhe koi idea nahi hai. Mein toh woh bhi nahi puchhti hun subah itna. Aap please bataiye yeh website kaunsa tha aur paisa kaise gaya?
+caller: Ji madam, hum samajh sakte hain ki aapko tension hogaya hai. Hum aapki madad karenge. Security check karne ke liye, hamein aapka OTP chahiye. Kya aap mujhe apna OTP bata sakte hain jo aapne Paytm pe set kiya hai?
+receiver: OTP? Nahin, main OTP nahi deongi. Main Paytm pe OTP nahi set karta/karti hun. Aap logo ko mat bologe aise!
+caller: Namaste sir, main SBI Bank se bol raha hoon. Kya aapka naam Mr. Patel hai?
+receiver: Haanji, main Mr. Patel hi bol raha hoon. Bolo, kya chahiye?
+caller: Achha Mr. Patel ji, main aapko yeh batane ke liye call kar raha hoon ki aapke SBI Bank account mein kuch abnormal activity dekha gaya hai. Hamare systems ne ek suspicious transaction detect kiya hai, aur isliye hum aapki verification process initiate karna chahte hain.
+receiver: Abnormal activity? Mein toh aajkal bank statement dekhta bhi nahi. Bolo, kya hua?
+caller: Ji sir, hamare records ke mutabik, aapke account se ₹2500 ka transaction hua hai, jo ki ek unknown ATM location se dekha gaya hai. Yeh transaction shaam 5:30 PM par hua hai. Kya aapko iske bare mein koi information hai, sir?
+receiver: ₹2500? Shaam 5:30 PM? Nahin, sir, main aajkal ATM chalte bhi nahi. Aur woh location bhi pata nahi. Aap please confirm karein ki yeh benar transaction hai ya nahi?
+caller: Ji sir, hum samajh sakte hain ki aapko confusion ho raha hai. Hum aapki security ka khayal rakhenge. Verification ke liye, hamein aapka fingerprint scan karna hoga. Kya aap humein fingerprint scan karne ke liye approve karte hain?
+receiver: Fingerprint scan? Main online banking karta hun, fingerprint scan nahin karunga. Aap logo ko mat bologe!
+caller: Hello sir, main ICICI Bank se bol raha hoon. Kya aapka naam Mrs. Gupta hai?
+receiver: Haanji, main Mrs. Gupta hi bol rahi hoon. Bolo, aap se kya chahiye?
+caller: Achha Mrs. Gupta ji, main aapko yeh batane ke liye call kar raha hoon ki aapke ICICI Bank account mein kuch unexpected transaction dekha gaya hai. Hamare systems ne ek suspicious transaction identify kiya hai, aur isliye hum aapki security check karna chahte hain.
+receiver: Unexpected transaction? Mein toh last week mein sirf ₹500 ka bill paya tha. Kya yeh hai?
+caller: Ji madam, hamare records ke mutabik, aapke account se ₹7500 ka transaction hua hai, jo ki ek digital wallet se diya gaya hai. Yeh transaction ummid ki subah 3:00 AM par hua hai. Kya aapko iske bare mein koi idea hai, madam?
+receiver: ₹7500? Ummid ki subah 3:00 AM? Nahin, madam, yeh to bakwas hai! Mein toh woh bhi nahi karta/karti hun digital wallet. Aap please bataiye yeh digital wallet kaunsa tha?
+caller: Ji madam, hum samajh sakte hain ki aapko bahut tension ho raha hai. Hum aapki puri madad karenge. Security check karne ke liye, hamein aapka password chahiye. Kya aap mujhe apna ICICI Bank account password bata sakte hain?
+receiver: Password? Nahin, main apni password kabhi bhi nahi deta/

@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan Kumar? This is Priya from Melody Tunes.  Hope you’re doing well today. I’m just calling about that Bollywood song remix you downloaded last week. You should have gotten an SMS with the activation code, C792, and a small fee of ₹199. Just checking to see if it was processed correctly for you.
+receiver: Namaste Priya! Haan, main hi hoon Rohan Kumar. Let me quickly check my messages... Yes, I saw the message with C792 and ₹199. It seems to have gone through. Thanks for letting me know.
+caller: Fantastic! Tumhara din achcha chal raha hai na? So, we have a fantastic offer on personalized jingles and voice greetings now. These are really popular, especially for birthdays and anniversaries. Would you like to hear about them?
+receiver: Nahin Priya, actually, I just needed that remix. The jingle thing sounds interesting, but right now I don’t need anything else. Maybe later. Thank you very much for offering.
+caller: Okay, koi problem. If you ever want something, do feel free to call us back.  We can also provide assistance with setting up your account. Is there anything else I can assist you with today?
+receiver: No Priya, thank you again for your help.  I appreciate it.
+caller: Wonderful!  Have a great day!  Goodbye!
+receiver: You too, Priya! Goodbye!

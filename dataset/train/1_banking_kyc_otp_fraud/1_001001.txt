@@ -1,0 +1,6 @@
+caller: Hello, this is Vijay from Airtel Payments Bank security. We've detected some unusual activity on your linked UPI account. It appears someone might be trying to access it.
+receiver: Airtel Payments Bank? Really? I don't remember any unusual activity. What happened exactly?
+caller: Sir, there was an attempted transaction of ₹12,000 to a new wallet. We’ve temporarily blocked your account to prevent further unauthorized access. To reactivate it and secure your funds, please call us immediately on 8586036789.
+receiver: 8586036789? Okay, but why didn’t I get an SMS about this? And why are you calling instead of sending a message?
+caller: Sir, due to the urgency and the potential for fraudulent activity, we’re prioritizing phone verification. It's a security measure. Please call 8586036789 right away. We need to verify a few details to unlock your account.
+receiver: Wait a minute... you want to verify my details? Over the phone? That sounds risky. What details do you need exactly?

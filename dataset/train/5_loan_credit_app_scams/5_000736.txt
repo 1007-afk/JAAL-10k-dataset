@@ -1,0 +1,7 @@
+caller: Hello sir/madam, this is Priya from QuickCash Solutions. We saw your recent application for a personal loan online. Congratulations, you've been pre-approved for an amount up to ₹50,000! Just need to verify a few details. What’s your name, please?
+receiver: Haan, bolo. My name is Sanjay Verma. ₹50,000? That's good. What’s the catch?
+caller: No catch at all, Sanjay ji! It’s a very simple process. To release the funds, we just need a small security deposit. This ensures your commitment to the loan. It’s just ₹2,500.
+receiver: ₹2,500? A security deposit *before* I get the loan? That doesn't sound right. Is this really QuickCash Solutions? I'll check their website.
+caller: Sanjay ji, please don't delay. This is a limited-time offer. Many people are applying for loans right now. If you wait, the offer might disappear. Also, we need to verify your identity with a one-time payment to unlock the loan. Just ₹2500 and it's all yours! Send it to UPI ID: quickcash.solutions@axisbank.
+receiver: Hold on a minute. I’m not comfortable sending money like this. I’ll have to think about it. Can I have a reference number for this pre-approval? And a direct phone number for QuickCash Solutions, not a generic one?
+caller: Sanjay ji, time is running out! The reference number is QC-78945. Our official helpline is 08291234567, but right now our representatives are very busy with urgent cases. Don’t miss out on this opportunity. The ₹2500 is

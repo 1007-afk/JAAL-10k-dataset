@@ -1,0 +1,7 @@
+caller: Namaste! Mein Rohan se baat kar raha hoon, KreditSaathi app se. Aapne humare app se ek personal loan ke liye apply kiya tha, sir? Process kar rahe hain, aur sirf verification ke liye kuch details chahiye.
+receiver: Haan, ji. Mein apply kiya tha. Kya ho raha hai?
+caller: Bahut achha! Aapki application approved hone wali hai, lekin security ke liye, humein aapke bank account ke last four digits aur OTP verify karna hoga. OTP aapke registered mobile number par aa jayega.
+receiver: OTP? Sir, maine toh kabhi OTP nahi diya. Yeh thoda suspicious lag raha hai.
+caller: Sir, yeh standard protocol hai. Koi chinta nahi. Woh OTP sirf aapki identity confirm karne ke liye hai. Jaise hi aap OTP de denge, aapko ₹75,000 ka loan instant mil jayega. Woh bhi sirf 9% interest se! Number batao, OTP check karta hoon.
+receiver: Sir, main sochta hoon… mujhe yeh theek nahi lag raha. Mein police mein report karunga.
+caller: Arre, sir, mat karna! Yeh opportunity pal bhar mein nahi milegi! ₹75,000 instant! Just the OTP, sir. Think about it.

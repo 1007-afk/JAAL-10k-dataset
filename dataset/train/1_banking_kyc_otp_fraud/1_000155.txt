@@ -1,0 +1,11 @@
+caller: Airtel customer service pe hel raha hoon. Aapka number internet speed ko verify karne ke liye kar raha hai. Aapke phone par ek six-digit OTP aaya hoga. Kya aap mujhe bata sakte hain ki aapko yeh OTP mila hai kya?
+receiver: Haan, maine OTP mila hai. Just one moment, main check karta hoon. Oh, yeh toh 789012 hai. Aapko yeh number chahiye tha, sahi na?
+caller: Haan, 789012 hai. Dhanyavaad, sir. Aapki verification process abhi tak complete nahin hui hai. Par humein pata chala hai ki aapke account mein recent transaction ka attempt gayaabh hua hai.
+receiver: Wo to bahut bura khabar hai. Mein samajhta hoon. Kaise samjaayen?
+caller: Humein pata hai ki aapne recently Flipkart se ek order diya tha. Woh payment abhi tak complete nahi hua hai. Isliye humein yeh transaction gayaabh hua laga. Aapko please apne payment details aur address confirm karna hoga.
+receiver: Oke, woh sab confirm karna hai.  Aap mujhe apne naam aur bank ka name bata sakte hain?
+caller: Main aapko tell karunga.  Mein just checking... My name is Rohan Sharma and I work at Axis Bank.  We need to update your profile immediately.  Please provide your debit card number.
+receiver:  Mai dekho, ye bilkul bhi genuine nahi lag raha.  Aapne mere personal information kyun seekhne waale hain?  Mujhe suspect hai ki ye koi fraud hai.
+caller:  Sir, maaf karna, lekin aapka account security important hai.  Humare system mein error aa gaya hai, isliye humein aapke details check karne do.  Agar aapko koi doubt hai, toh aap helpline number 1800-123-4567 par call kar sakte hain.
+receiver:  Mai itna risk lega kyun?  Mai khud se hi yeh check kar lunga. Aapko thank you aur bye.
+caller:  Okay, sir.  Thank you for your time.  Have a great day!

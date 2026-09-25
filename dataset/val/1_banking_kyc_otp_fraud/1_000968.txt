@@ -1,0 +1,7 @@
+caller: Hello, this is Priya from Axis Bank fraud prevention. We’ve noticed some unusual login attempts from a foreign IP address on your account. To secure your funds, we need to verify your identity immediately. Can you please confirm the last four digits of your Aadhaar card?
+receiver: Axis Bank? But I didn't receive any SMS about this. What kind of logins are you talking about? And why do you need my Aadhaar?
+caller: Yes, ma'am. It’s a new security protocol to protect customers from international hacking. These attempts are quite sophisticated. The last four digits of your Aadhaar will help us confirm it's really you. It’s a quick process, just a moment. We are experiencing a surge in these attacks right now.
+receiver: Hold on. This sounds suspicious. Can you tell me the IP address that’s attempting to log in? And why can't you verify me using my registered mobile number, like you usually do?
+caller: Ma’am, due to data protection regulations, we cannot disclose the specific IP address. However, I assure you, this is a standard verification procedure. Failure to comply could lead to a temporary account freeze for your safety. For verification, could you also share the OTP you just received on your registered mobile?
+receiver: OTP? Wait a minute! You just asked for my Aadhaar and now you want an OTP? This is definitely a scam. I’m reporting this number.
+caller: Hello? Hello?

@@ -1,0 +1,11 @@
+caller: Namaste! Yeh Rohan, Secure Solutions India se baat kar raha hoon. Aapse ek important matter per baat karna chahti hoon jab se aapko humare platform par registration hua tha. Kaise haal hai?
+receiver: Namaste. Sunao, koun bol rahe ho? Registration kyun hua?
+caller: Namaste. Sunao, koun bol rahe ho? Registration kyun hua?\n\nMain Rohan hoon Secure Solutions India se. Aapke device mein ek security alert mila hai, aur humne aapko call kiya hai iske liye. Device mein kuchh galti ho gayi hai, kyā hai?
+receiver: Security alert? Device mein koi galti nahi hui. Main to normal hi usage kar raha/rahi hoon. Batao, ye alert kyun diya gaya?
+caller: Namaste. Actually, humein aapke device mein malware ka trace mila hai. Isliye hum ne aapko call kiya hai. Malware aapke data ko damage kar sakta hai, kyā hai?
+receiver: Malware? Bahut hi surprising! Mein to kuchh bhi samajh nahin raha/rahi hoon. Kya main apni device ko deactivate kar doon?
+caller: Namaste. Nahin, aapko device ko deactivate karne ki zaroorat nahin hai. Hum aapko remote access de sakte hain, phir aapko sirf ek confirmation chahiye. Kya aap agree karte hain?
+receiver: Remote access? Woh thik toh hai? Kya woh safe hai? Kya aap mere account ki details batayenge?
+caller: Namaste. Haanji, yeh secure hai. Hum sirf device ko clean karne ke liye request kar rahe hain. Agar aap agree karte hain, toh hum immediately action le sakte hain. Kya aap agree karte hain?
+receiver: Okay, fine. Par agar kuchh gadbad hoti hai toh aapse complaint karenge.
+caller: Namaste. Absolutely! Aapka safety hamara priority hai. Hum sab kuch check kar lenge aur aapko assure karenge ki aapki device secure hai. Tumhara trust hamara priority hai.

@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Cyber Crime Investigation Cell. We need to speak with you urgently regarding a matter of national security.
+receiver: Haanji, bolie, kya hua? Inspector Verma? Cyber Crime? Mujhe toh kuch samajh nahin aa raha hai.
+caller: Sir, our intelligence has detected suspicious activity linked to your IP address. It appears your device may have been compromised and used to facilitate the illegal transfer of funds related to a drug trafficking operation. We have evidence, sir.
+receiver: Kya? Drug trafficking? Mere device se? Yeh galat hai! Main toh kabhi bhi aisa kuch nahi kiya! Kaise ho sakta hai?
+caller: Sir, we understand this is distressing, but we need your cooperation. To clear your name and prevent further legal action, you will need to appear for a virtual hearing via Google Meet. A senior magistrate will be present. There is a small processing fee of ₹15,000 to cover the technical setup and legal expenses. This is to ensure your identity is verified securely.
+receiver: ₹15,000? Google Meet? Inspector saab, yeh sab kuch bilkul galat lag raha hai. Cyber Crime Cell toh court ka order dikhayenge, na? Phir Google Meet par kyon?
+caller: Sir, due to the sensitive nature of the case and the ongoing investigation, we are implementing this expedited procedure to avoid media attention. Please confirm your willingness to proceed and provide the requested funds to the designated account. Failure to comply will be interpreted as obstruction of justice and could lead to more serious consequences. The account details are [Invent a plausible Indian bank account number].
+receiver: Thoda time dijiye, saab. Main yeh check kar ke aata hoon. Mujhe yeh sab thoda suspicious lag raha hai.
+caller: Sir, time is of the essence. Every minute that passes

@@ -1,0 +1,7 @@
+caller: Namaste, main Vijay bolta hoon, Bharat Aadhaar Seva Kendra se. Aapke Aadhaar card mein kuch updates ki requirement hai, sir.
+receiver: Kya updates? Mujhe toh koi notification nahi aaya.
+caller: Sir, ye ek new government initiative hai. Aapke Aadhaar data ko secure rakhne ke liye, aapko KYC verification karna hoga. Agar aap verify nahi karenge, toh aapke bank accounts bhi freeze ho sakte hain.
+receiver: Freeze ho jayenge? Main abhi bank mein check kar sakta hoon. Kuch details batao, phir main dekhunga.
+caller: Sir, time bahut kam hai. Just ek OTP bata do jo aapko apna PhonePe par milta hai. Woh verify hone se account freeze ho jaega.  Bas do minute ka kaam hai.
+receiver: PhonePe OTP? Lekin main PhonePe ka use nahi karta hoon.
+caller: Sir, aap confuse mat hoiye. Aapka account risk mein hai. Jaldi se OTP batao, warna bohot nuksan ho sakta hai.

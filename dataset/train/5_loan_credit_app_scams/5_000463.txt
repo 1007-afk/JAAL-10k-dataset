@@ -1,0 +1,7 @@
+caller: Namaste! Main SecureCredit Solutions se bol raha hoon. Aapka naam Rohan Verma hai na? Aapke bank account mein abhi ₹50,000 tak ka loan approve hone wala hai. Bahut hi aasani se mil jayega, sirf kuch basic details ki zaroorat hai.
+receiver: ₹50,000 ka loan? Mujhe loan chahiye tha, par itna achha offer? Yeh bilkul free hai?
+caller: Haanji bilkul! SecureCredit Solutions ek government-approved scheme hai. Abhi ek limited time offer chal rahi hai. Sirf aapke pan card aur bank account number ki verification ki zaroorat hai.
+receiver: Pan card aur bank account number? Mujhe thoda dar lag raha hai. Yeh secure hai kya?
+caller: Absolutely secure! Hamara platform latest encryption technology se protected hai. Koi bhi chinta mat karo. Iske alawa, hamara customer support number hai 9876543210. Koi bhi sawal ho toh call karke pooch sakte ho. Abhi jaldi karo, offer jaldi hi khatam ho jayegi.
+receiver: Okay, theek hai. Mein pan card number share kar sakta hoon, lekin bank account number abhi nahi.
+caller: Acha Rohan ji, bahut achha! Ab aapko sirf bank account number aur OTP ki zaroorat hai taaki loan aapke account mein transfer ho jaaye. Isse zyada mein aapko koi detail nahi puchunga. Jaldi karo!

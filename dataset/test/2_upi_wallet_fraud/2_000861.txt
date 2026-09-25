@@ -1,0 +1,8 @@
+caller: Namaste! Main Airtel Payments Bank se Sunil bol raha hoon. Aapke Airtel Payments Bank account mein ₹5000 cashback offer hai, lekin isko claim karne ke liye kuch steps follow karna padega.
+receiver: ₹5000 cashback? Really? Mere account mein? Main toh jankari se unaware tha.
+caller: Haanji, bilkul. Airtel special customers ke liye offer hai. Aapko ek small verification fee bharne hoga, sirf ₹150. Iska message aapko OTP se milega. Phir cashback aapke account mein transfer ho jayega.
+receiver: ₹150 verification fee? OTP kaise milega? Mujhe toh koi OTP nahi aaya hai. Aur Airtel Payments Bank app mein toh kuch dikh nahi raha.
+caller: OTP aapke phone number par milega, sir. Ho sakta hai SMS delay ho raha hai. Aapko ek link par click karna hai jo main aapko WhatsApp par send karunga. Wahan aap verification complete kar sakte hain. Link click karne ke baad ₹150 debit ho jayenge.
+receiver: WhatsApp pe link? Main thoda confused hoon. Airtel toh direct call karta hai, WhatsApp pe nahi. Aur ₹150 debit ho jayega?
+caller: Haanji, abhi process change ho gaya hai. Yeh new security measure hai. Trust me, sir, ₹5000 cashback ke liye ₹150 ka kharcha negligible hai. Jaldi karein, offer limited time ke liye hi hai. Link click karein aur process complete karein.
+receiver: Okay, fine, send the link. But I am still a little skeptical.

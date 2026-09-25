@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Mumbai Customs Department. We need to speak with you urgently regarding a package intercepted at the airport under your name.
+receiver: Haan, bolie. Main hi hoon. Package? Kya baat hai?
+caller: Sir, the package contained suspicious items—potentially illegal electronics. We believe you may be unknowingly involved in a smuggling operation. To clear this up and avoid serious legal complications, you need to pay a small processing fee.
+receiver: Illegal electronics? Lekin main toh kabhi smuggling nahi kiya! Yeh galat hai. Main toh ek simple accountant hoon.
+caller: Sir, we understand. However, our records show the package was shipped to your address. The fee is just ₹15,000 to cover verification costs. We'll need it transferred immediately to this UPI ID: [invented UPI ID]. We're on a video call to prevent you from contacting authorities.
+receiver: ₹15,000? Sir, yeh bahut zyada hai. Main bank se check kar ke aata hoon. Aur main police station bhi phone karta hoon.
+caller: Sir, that’s not possible. We are monitoring your location and any attempts to contact the police will be viewed as obstruction of justice. Think about the legal consequences. The video call is to ensure transparency. Pay the fee, and we'll release the package and close the case.
+receiver: Okay, okay, wait a minute. Main bank se paisa nikal ke leke aata hoon. Par mujhe ek number do, jisse main aapko call kar sakoon baad mein.
+caller: Sir, giving out a personal number is against protocol. The UPI ID is the only secure method. Once the transaction is complete, we'll provide a release reference number. This is a standard procedure.
+receiver: Okay sir, but I need to verify with

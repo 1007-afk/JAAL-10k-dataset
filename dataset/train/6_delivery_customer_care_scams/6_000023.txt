@@ -1,0 +1,11 @@
+caller: Namaste, main Arjun Kumar hoon. Aapne recently ek website par signup kiya tha, isn’t it? Main Flipkart se call kar raha hoon. Woh link jo aapko mila tha, vah sahi number mein bheja gaya tha kya?
+receiver: Haan, Arjun ji. Haan, signup kiya tha. Flipkart se hi laga rahe ho kya?
+caller: Haan, Arjun bhai, Flipkart se hi laga rahe hain. Woh link jo aapko mila tha, vah dekho, usmein ek picture hai - ek smartphone ka. Kya aapko woh dekha?
+receiver: Haan, dekh liya. Smartphone ka picture hai, jaise Samsung Galaxy S23 ka lagta hai.
+caller: Achha, Samsung Galaxy S23. Woh picture ek contest ke liye hai. Flipkart Diwali Sale ke upar ek competition chal raha hai. Agar aapko woh picture dekha, to aapko vote karne ki requirement hai.
+receiver: Vote karne ki requirement? Okay, tell me more about this competition.
+caller: Haanji, Arjun bhai, competition mein jeetne ke liye aapko WhatsApp par ek OTP share karna hoga. Isliye hum aapko link bheje, agar aapko vote karna hai.
+receiver: OTP share karna? Seriously? That doesn't sound right.
+caller: Haanji, Arjun bhai, yeh Flipkart mera official channel hai. Hum sirf verification ke liye OTP maang rahe hain. Koi darrna nahin, sab theek hai.
+receiver: Hmm, let me think about it. I need to check the terms and conditions first.
+caller: Achha, Arjun bhai, aapko time lagega nahi. Yeh bara saani hai, just click on the link and confirm. I will give you a special discount coupon after that!

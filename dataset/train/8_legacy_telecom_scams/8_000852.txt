@@ -1,0 +1,9 @@
+caller: Hello, Ms. Sharma? This is Rohan Verma from the Mumbai Rewards Initiative. We’ve identified you as a top performer and we're thrilled to offer you a ₹10,000 bonus reward! Really excited to share this good news with you.
+receiver: Oh my goodness, ₹10,000 bonus? Wow, that's incredible! I don’t believe it. Can you tell me a little more about this, please?
+caller: Absolutely! It's because of your outstanding work at 'Shanti Exports'. They were so impressed with your dedication and efficiency. We want to show our appreciation, that's why we’re giving you this special reward.
+receiver: Shanti Exports, okay. That makes sense. So, what exactly do I need to do to receive this ₹10,000? Is there any paperwork involved?
+caller: Don’t worry about any paperwork, Madam. Just need to confirm your mobile number, which is 9876543210, for verification purposes only. And then we’ll send you an OTP to your registered number. Simple, no?
+receiver: 9876543210...okay, that’s correct. So, after I provide that number, I’ll get an OTP and that's it? No further action required?
+caller: Exactly! Once you get the OTP, just enter it on this secure website – www.mumbirewards.com – and follow the instructions. It takes less than five minutes, guaranteed!  This is a huge opportunity, don't miss out!
+receiver: Alright, www.mumbirewards.com. Got it. Thanks for explaining everything, Rohan. I’ll check it out. Bye!
+caller: You bet! Congratulations once again, Ms. Sharma! Enjoy your well-deserved ₹10,000!  We value your contributions immensely. All the best!

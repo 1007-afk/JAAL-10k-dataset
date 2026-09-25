@@ -1,0 +1,9 @@
+caller: Namaste! Aapse baat ho rahi hai regarding your 2018 travel rewards account. We’ve noticed you have 1234 miles remaining that haven’t been used. These were earned during the Diwali promotion last year, and they’re expiring soon – December 15th, 2018. Are you aware of this?
+receiver: Ji sahib, main iski poori tarah jaanta hoon. Main us Diwali promotion ka bhi user tha.
+caller: Excellent! Now, to redeem these miles, we need to verify your identity. Your unique redemption code is 98765. It’s crucial you act quickly, as the offer closes on December 15th. Could you please provide your account ID number?
+receiver: My account ID?  Haanji, woh 6543-2109-8765 hai.
+caller: Thank you. One moment while I process this… Okay, 6543-2109-8765 confirmed. Now, for security reasons, we require just three more digits from your primary credit card – the last three digits of the card number.  Please share them with us.
+receiver: The last three digits of my card? Hmm, let me think... They are 345.
+caller: Wonderful! So, 345.  Now, to ensure these miles are credited to your account, we need one final small verification step. Kindly provide the name associated with your travel rewards account.
+receiver: The name is Rohan Sharma.
+caller: Shukriya!  Great Rohan.  The 1234 miles will now be transferred to your account. You’ll receive a confirmation email within the next hour. Is there anything else I can help you with today?

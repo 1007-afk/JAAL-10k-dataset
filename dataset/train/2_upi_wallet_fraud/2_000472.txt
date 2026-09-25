@@ -1,0 +1,9 @@
+caller: Namaste! Maiya Sharma bolti hoon. Apna PhonePe account secure karne ke liye call karti hoon. Ek suspicious transaction detect hua hai.
+receiver: Kya? Kaun sa transaction? Mai toh koi transaction nahi kiya aaj tak.
+caller: Haanji, ₹2500 ka transaction hua hai Paytm par. Aapne check kiya kya? Yahan pe system mein dikh raha hai.
+receiver: ₹2500? Nhi, ye to galat hai! Mai toh kabhi Paytm use hi nahi karti.
+caller: Galat kaise ho sakta hai? Aapko PhonePe se hi verify karna hoga. Verify karne ke liye aapko ek OTP milega, woh mujhe bata dijiye.
+receiver: OTP? Par kyun? Mujhe to kuch samajh nahi aa raha hai. Helpline number mil sakta hai kya?
+caller: Haanji, helpline number 89898 hai. Par OTP jaldi bata dijiye, account block ho jaane se pehle. Ye security check hai, aapka fayda hai. Jaldi karna chahiye, time kam hai.
+receiver: Okay, ek minute. Mai PhonePe app dekhti hoon.
+caller: Jaldi karo! System abhi bhi transaction process kar raha hai. ₹2500 har jaane se pehle verification hi sahi.

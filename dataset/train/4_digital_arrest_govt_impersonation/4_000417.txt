@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Kumar speaking? This is Inspector Sharma calling from the Mumbai Customs Department. We’ve intercepted a parcel addressed to you containing suspicious items.
+receiver: Customs? Parcel? What suspicious items? I haven't ordered anything.
+caller: Sir, preliminary investigations suggest the parcel contains contraband – potentially related to drug trafficking. We need to verify your involvement to prevent further legal complications. Can you confirm your date of birth for verification purposes?
+receiver: Drug trafficking? This is ridiculous! I haven’t done anything. Why would I be involved in drugs? And why are you asking for my date of birth?
+caller: Sir, it's standard protocol. We’re also seeing unusual activity on your WhatsApp linked to this parcel. Several messages regarding payment confirmations and delivery addresses. We need to secure your account to prevent further misuse. To help us trace the origin, could you please share a screenshot of your recent WhatsApp chats?
+receiver: WhatsApp? I barely use WhatsApp! This is some kind of scam. I’m not sending you any screenshots. I’m going to report this number.
+caller: Sir, please understand the gravity of the situation. We can resolve this quickly, but you need to cooperate. Failure to do so will result in a formal investigation and potential arrest. To avoid this, we require a small processing fee of ₹15,000 to clear the parcel and your name from the investigation.
+receiver: ₹15,000? Are you serious? You're trying to extort money from me! I'm calling the police.
+caller: Sir, we can arrange a video call with the investigating officer to prove our authenticity. We just need the money to initiate the process. It’s a simple payment to avoid serious legal trouble.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Verma? This is Rohan calling from FreeCharge Customer Care. We've detected some unusual activity on your FreeCharge wallet.
+receiver: Haan, bolie. Kya hua?
+caller: Ma’am, we’ve noticed a pending payment of ₹2800 towards a mobile recharge. It seems the transaction failed but the amount is still showing as pending in your wallet. We need to verify this quickly to prevent any issues.
+receiver: ₹2800? Main toh kabhi recharge nahi kiya. Aur FreeCharge pe itna paisa nahi hai mere paas.
+caller: Ma’am, sometimes there are glitches in the system. This could be a recent transaction you might have forgotten. To resolve this, we need to process a small verification fee of just ₹75. Once verified, the ₹2800 will be instantly credited back to your wallet as a cashback bonus.
+receiver: ₹75 verification fee?  Yeh bahut funny hai.  FreeCharge aise charges nahi lete.
+caller: Ma’am, this is a limited-time offer to rectify the system error. Just send ₹75 to this number – 9012345678 – and share the transaction ID with me. Once we confirm, you'll receive your ₹2800 cashback! Don’t miss out on this opportunity.
+receiver:  Transaction ID? Wait a minute… kuch gadbad lag rahi hai.  Mai apne dost se check karti hoon.

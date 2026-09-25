@@ -1,0 +1,7 @@
+caller: Namaste, mai ICICI Bank se Rohit bol raha hoon. Aapke naam par ek high-value transaction ka attempt kiya gaya hai. Security ke liye, humein aapki KYC details verify karni hogi.
+receiver: ICICI Bank se? Theek hai. Kya verification ke liye mujhe kuch details batani hogi?
+caller: Haan ji. Pehle, mujhe aapka Aadhaar card ka last 4 digits chahiye. Aur OTP bhi, jo aapko aapke registered mobile number par milega. Ye process bahut important hai, sir, warna aapka account suspend bhi ho sakta hai.
+receiver: Aadhar number ka last 4 digits aur OTP? Mai thoda uncomfortable feel kar raha hoon. Kya koi aur tareeka hai verify karne ka, jaise koi branch mein jaa kar?
+caller: Branch mein jaane mein time lagega, sir. Ye process online bahut fast hai. Lekin, agar aapko itna confidence nahi hai, toh mujhe aapka bank account number toh bata sakte hain? Tabhi main aapki account activity check kar sakta hoon.
+receiver: Bank account number? Mai bilkul confident nahi hoon. Mujhe koi branch ka official number de dijiye. Mai wahan call karke confirm karunga.
+caller: Sir, branch ka number confidential hai. Main aapko ek secure link bhejta hoon. Wahaan aapko kuch basic details fill karne hain. Ye bilkul safe hai, ICICI Bank ka official portal hai. Jaldi karein, sir, warna aapka account risk mein aa jayega.

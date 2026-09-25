@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rahul bolta hoon. Aapko BharatPay Cashback Offer mein ₹5000 ka prize mila hai! Abhi aapke account mein deposit hone wala hai.
+receiver: ₹5000? Kaise? Mujhe to kuch yaad nahi. BharatPay pe main kabhi kabhi hi transaction karta hoon.
+caller: Haan sir, Diwali ke ustav mein special offer hai. Lekin isko activate karne ke liye, aapko ek small verification fee bharvani padegi, sirf ₹299.
+receiver: ₹299 fee? Prize toh free hota hai na? Verification fee kyun lag rahi hai?
+caller: Sir, security ke liye verification fee bharvani padegi. ₹299 bharne ke baad, prize aapke BharatPay wallet mein instantly deposit ho jayega. ₹299 aap UPI se bhar deyen. Main aapko ek QR code send karta hoon.
+receiver: UPI se? Haan theek hai, QR code send kijiye. Par mein jaake check karta hoon, bilkul.
+caller: Ji sir, yahan QR code hai: [QR Code Image]. Jaldi kar lijiye, offer limited time ke liye hi hai, aur fir toh aapka prize miss ho jayega!

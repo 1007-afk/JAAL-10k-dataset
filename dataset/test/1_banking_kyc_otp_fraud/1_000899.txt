@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank se Rohit Verma bol raha hoon. Aapke naam par ek online shopping transaction hua hai ₹7,890 ka Flipkart par, jo aapne nahi kiya.
+receiver: Kya? ₹7,890? Main toh aaj tak Flipkart par kuch nahi kharida.
+caller: Ji sir, transaction ho chuka hai. Security ke liye, humein aapke account details verify karne hain. Aapka OTP, jo aapke registered mobile number par aaya hai, mujhe bataiye please. Account suspend hone se pehle.
+receiver: Rokiye, rokkiye! OTP? Main bank ko kabhi bhi OTP nahi bataata. Yeh scam lag raha hai. Aapka naam aur employee ID bataiye.
+caller: Sir, main Rohit Verma, ICICI Bank, customer service department. Employee ID hai ICIC/CS/1234.  Sir, OTP bataiye, warna account suspend ho jayega.  Aur, humein KYC update bhi karna hai. Aapka Aadhaar card number bhi zaroori hai.
+receiver: KYC update abhi?  Mein toh last year hi update karwa chuka hoon. Aur Aadhaar number? Sir, aapko seriously lagta hai main apni personal details phone par bata doon? Yeh galat lag raha hai.
+caller: Sir, system mein update dikha raha hai, aapka account suspicious hai.  ₹7,890 ka transaction ho chuka hai, aur dusre fraud attempt bhi ho sakte hain. Sir,  bas Aadhaar number aur OTP bataiye, tab tak account suspend na ho.  Ye process sirf 5 minute lega, sir.  Sir, jab tak aap nahi bataayenge, account suspend ho jayega.

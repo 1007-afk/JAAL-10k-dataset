@@ -1,0 +1,34 @@
+caller: Namaste, main HDFC bank ki customer care se Rahul bol raha hoon. Aapki credit card expiry date ka update dena chahte hain.
+receiver: Namaste, kaise hain? HDFC bank ki credit card? Mera account number batao.
+caller: Ji, aapka account number verify karne ke liye request karta hun. Aapka PAN card number aur date of birth bataiye.
+receiver: Mein PAN card number nahi bata sakta. Aur date of birth bhi nahi. Kya koi alternate method nahi hai?
+caller: Ji, alternate method nahi hai. Security reason se humein yeh details chahiye hain. Agar aap yeh details provide karenge toh aapka card immediately block ho jayega agar kisi bhi unauthorized access ke wajah se.
+receiver: Really? That sounds suspicious.
+caller: Ji bilkul sach hai. Aapka address bhi bataiye.
+receiver: Mein apna address bhi nahi bataunga.
+caller: Sir, aapka card blocked ho jayega. Aapko loss hoga.
+receiver: Main copy of my statement mangta hun.
+caller: Copy of statement nahi mil sakta. Verification ke liye yeh details required hain.
+receiver: Okay, fine. Dobara bataiye account number aur date of birth.
+caller: Ji, account number hai [Account Number], date of birth hai [Date of Birth].
+receiver: OTP bhejo mere mobile number par.
+caller: OTP aa gaya hai. OTP hai [OTP]. Agar OTP submit kare toh card block ho jayega?
+receiver: Haan, submit kare toh card block ho jayega.
+caller: Shubhav! Aapka naya card [Card Number] mein dispatch ho jayega. Card delivery ka time hai [Delivery Time].
+caller: Namaste, main HDFC bank ki customer care se Rahul bol raha hoon. Aapki credit card expiry date ka update dena chahte hain.
+receiver: Namaste, kaise hain? HDFC bank ki credit card? Mera account number batao.
+caller: Ji, aapka account number verify karne ke liye request karta hun. Aapka PAN card number aur date of birth bataiye.
+receiver: Mein PAN card number nahi bata sakta. Aur date of birth bhi nahi. Kya koi alternate method nahi hai?
+caller: Ji, alternate method nahi hai. Security reason se humein yeh details chahiye hain. Agar aap yeh details provide karenge toh aapka card immediately block ho jayega agar kisi bhi unauthorized access ke wajah se.
+receiver: Really? That sounds suspicious.
+caller: Ji bilkul sach hai. Aapka address bhi bataiye.
+receiver: Mein apna address bhi nahi bataunga.
+caller: Sir, aapka card blocked ho jayega. Aapko loss hoga.
+receiver: Main copy of my statement mangta hun.
+caller: Copy of statement nahi mil sakta. Verification ke liye yeh details required hain.
+receiver: Okay, fine. Dobara bataiye account number aur date of birth.
+caller: Ji, account number hai [Account Number], date of birth hai [Date of Birth].
+receiver: OTP bhejo mere mobile number par.
+caller: OTP aa gaya hai. OTP hai [OTP]. Agar OTP submit kare toh card block ho jayega?
+receiver: Haan, submit kare toh card block hojayega.
+caller: Shubhav! Aapka naya card [Card Number] mein dispatch ho jayega. Card delivery ka time hai [Delivery Time].

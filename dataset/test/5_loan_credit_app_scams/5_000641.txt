@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Deepesh se bol raha hoon, QuickLoanApp se. Aapne hamesha sahi time par loan ke liye apply kiya hai. Aapke account mein ₹10,000 approve ho gaye hain, lekin verification ke liye kuch details chahiye.
+receiver: QuickLoanApp? Mein ne toh kabhi apply nahi kiya.
+caller: Sir, check karo, shayad aapko yaad nahi. Anyway, verification ke liye aapka aadhaar card number aur bank account number chahiye. Just once, sir.
+receiver: Aadhar card number? Mein phone pe kabhi bhi aisa information nahi deta.
+caller: Sir, agar aap verification nahi karenge toh loan release nahi hoga. Aur agar aap loan nahi lenge toh fir aapko ₹5000 processing fee pay karna padega. Yeh rule hai.
+receiver: ₹5000 processing fee? Yeh to galat hai.
+caller: Sir, time barbaad mat karein. Agar aapko loan chahiye toh details send karein. Ya fir, kuch problem ho jayega. Aur hum aapke contacts ko bhi message kar denge.
+receiver: Contacts ko message kar denge? Kisko?

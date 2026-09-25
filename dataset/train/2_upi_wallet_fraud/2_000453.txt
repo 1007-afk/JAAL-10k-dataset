@@ -1,0 +1,7 @@
+caller: Namaste! Main RBI se Rahul Sharma bol raha hoon. Aapke naam par ek UPI transaction fail hua hai – ₹7,500. Security ke liye, humein aapki UPI ID verify karni hogi.
+receiver: ₹7,500? Fail transaction? Maine toh koi transaction nahi kiya.
+caller: Haan ji, ek doubtful transaction attempt hua tha. Aapko bas apna UPI ID share karna hai, tab hum block kar denge. WhatsApp par 7891234567 par send karein.
+receiver: WhatsApp par? RBI toh phone karta hai na? Kyun WhatsApp par? Aur ₹7,500 kitne ka transaction tha?
+caller: Yeh ek standard procedure hai, ma’am. WhatsApp par security ke liye OTP aayega. ₹7,500 ka attempt kiya gaya tha, usko block karna hai, warna account hack ho sakta hai. Jaldi karein!
+receiver: Thoda wait karo, main check kar leta hoon. Koi OTP aaya toh main tumhe message kar dunga.
+caller: Ma’am, delay hone se aapka account risk mein aa jayega. Jaldi se UPI ID WhatsApp pe send karein. ₹7,500 ka loss aapko hoga!

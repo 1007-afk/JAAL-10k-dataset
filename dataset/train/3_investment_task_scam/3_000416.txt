@@ -1,0 +1,11 @@
+caller: Namaste! Is this Mr. Sharma residing at house number 123, Sector 5? I’m calling from ‘Secure Solutions’, we have exciting news regarding your recent investment. You’ve been selected for a bonus payout! To claim this, you need to verify your account through our secure portal. Please visit https://www.fastreturns.in – it’s incredibly easy. Are you available to discuss further?
+receiver: Ji haan, yeh main hi hoon. Sharma sir, Sector 5 mein rehta hun. Bonus payout? Kaise ho? Bataiye, website ka address bataiye.
+caller: Absolutely! Your account number is 9876543210. Listen carefully, you've won a significant sum - ₹50,000! This is due to a system upgrade and we want to ensure all payouts are processed smoothly. Go to fastreturns.in and enter your registration ID which is XYZ123. Just confirm the details on the page. Only three slots remaining, so act quickly!
+receiver: Fastreturns.in? Okay, I am checking it now. Thank you for letting me know! I hope this is genuine.
+caller: Hello? Have you checked the website yet? Did you see the confirmation screen? There’s a small fee of ₹500 for expedited shipping – it’s standard procedure for large payouts like yours. Don’t worry, it’s refundable if you request it within 7 days. How does that sound?
+receiver: Hello? I saw the website. It shows a payment link and asks for my bank account details. You said there was a ₹500 fee? That’s surprising! Why didn’t you mention it earlier?
+caller: Oh, that’s just for processing the transfer, sir. A small administrative cost.  We need to verify your banking information to ensure the money reaches your account securely. Just provide your IFSC code and account number. We're almost done, only one slot left!
+receiver: My IFSC code is... wait, hold on a minute. This sounds too good to be true. Can you tell me exactly where this ‘Secure Solutions’ company is located?
+caller:  We operate entirely remotely, sir.  Our headquarters are in Mumbai, but we don't require physical meetings.  Focus on securing your bonus, and let’s get those details finalized.  Just give me your banking details and we will process everything immediately.
+receiver:  Okay, okay. But I need to think about this first. Thank you for your time.
+caller:  Wonderful!  Don’t hesitate to contact us again if you have any questions.  Good luck, Mr. Sharma!

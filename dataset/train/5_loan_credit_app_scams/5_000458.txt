@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, LoanHelp se baat kar raha hoon. Aapke naam par ek personal loan apply kiya gaya tha, aur ab approval process mein hai. Aapko loan details confirm karne ke liye kuch information deni hogi.
+receiver: LoanHelp? Mujhe to koi loan apply karne ko yaad nahi. Main toh koi loan nahi le raha.
+caller: Sir, system mein dikh raha hai aapne LoanHelp app se apply kiya tha. ₹75,000 ka loan, 18% interest. Koi problem hai kya? Jaldi karna parega, offer limited time ke liye hi hai.
+receiver: ₹75,000? Aur 18% interest? Yeh toh bahut zyada hai. Aur mujhe yaad bhi nahi ki main kabhi bhi loan apply kiya.
+caller: Sir, aapko tension lene ki zaroorat nahi hai. Loan approve ho gaya hai, ab bas verification process complete karna hai. Aapke registered phone number par ek OTP bheja jayega. Woh OTP bataiye.
+receiver: Dekhiye sir, mujhe yeh kuch bhi samajh nahi aa raha. Main koi loan nahi le raha. Aur OTP bhi nahi dunga, kyuki yeh kuch ghalat lag raha hai. Main police mein report karunga.
+caller: Sir, aapko aise nahi bolna chahiye. Agar aap OTP nahi dete, toh hum aapke contacts ko morphed pictures bhejenge aur unke naam se loan application kar denge. Aapke dost aur family se zyada damage hoga. Bataiye OTP, ya phir regret karenge.
+receiver: Tumhara matlab kya hai? Tum log thekedar ho! Main abhi police ko call karta hoon!

@@ -1,0 +1,8 @@
+caller: Namaste, sir? Mein Rahul se baat kar raha hoon, QuickCash Solutions se. Aapne kuch din pehle QuickCash app se ₹10,000 ka loan apply kiya tha, kya? Verification ke liye call kar raha hoon.
+receiver: Haan, maine apply kiya tha. Kya hua?
+caller: Sir, aapke bank account details mein ek discrepancy dikh rahi hai. ₹10,000 loan approve hone se pehle ₹2,500 processing fee jama karna hoga. Yeh fee aapke account mein se automatic cut ho jayegi.
+receiver: ₹2,500? Lekin maine aise kuch suna nahi tha. Loan apply karte samay processing fee ka mention nahi tha.
+caller: Sir, sorry, lekin yeh policy hai. Agar aap ₹2,500 jama kar dete hain, toh loan aaj hi aapke account mein transfer ho jayega. Agar fee nahi bhari toh loan process cancel ho jayega.
+receiver: Aur ₹2,500 ka kya hoga? Loan to ₹10,000 ka tha.
+caller: Sir, ₹2,500 fee hai, ₹10,000 loan nahi. Yeh loan dene ka expense hai. Jaldi karo sir, time limit hai. Agar fee nahi bhari toh aapka loan permanent cancel ho jayega aur aapka credit score bhi affect hoga.
+receiver: Sir, yeh to scam lag raha hai. Mein nahi dungee ₹2,500.

@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Singh? This is Inspector Raj from the Directorate of Revenue Intelligence. We've detected suspicious activity linked to your online trading account on CoinVerse.
+receiver: Haan, bolie. Ye CoinVerse account mera hi hai. Kya hua?
+caller: Sir, our investigation indicates unusual transactions involving cryptocurrency linked to potential money laundering activities. This is a very serious matter, sir. We need to verify your involvement immediately. Failure to cooperate will result in legal action.
+receiver: Money laundering? Lekin main toh bas trading karta hoon, sir. Main koi illegal kaam nahi karta. Kya proof hai aapke paas?
+caller: Sir, we have evidence suggesting funds originated from illicit sources. To clear your name and prevent further investigation, you need to pay a small settlement fee of ₹50,000 to demonstrate your good faith. It’s a temporary measure.
+receiver: ₹50,000? Main kaha se laoon itna paisa? Aur ye toh scam lag raha hai! Main police mein report karunga.
+caller: Sir, please understand, this is a sensitive matter. Resisting will only worsen your situation. The account will be frozen and you’ll face serious charges.  For your convenience, we have a secure payment link: bit.ly/DRIsettlement.  Please pay immediately to avoid arrest.
+receiver: Yeh link galat hai. Main koi paisa nahi dene wala. Tum log scammer ho!

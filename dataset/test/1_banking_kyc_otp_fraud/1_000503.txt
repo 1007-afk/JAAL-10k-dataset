@@ -1,0 +1,11 @@
+caller: speaking to Mr./Ms. Patel? I’m calling from the security monitoring team. We've noticed a small payment of ₹850 was made to an unknown sender yesterday. Can you verify your details for our records?
+receiver: Ji, main hi hoon. ₹850? Koi payment? Mein toh koi aisa order nahi diya. Kaise ho sakta hai? Aap kaun hain?
+caller: Ji, main hi hoon. ₹850? Koi payment? Mein toh koi aisa order nahi diya. Kaise ho sakta hai? Aap kaun hain?
+receiver: Ji, main hi hoon. Aapka naam? Aur yeh security monitoring team, yeh kya hai? Maine toh koi ₹850 kharch nahi kiye, yeh kahan se aaya?
+caller: Ji, Mr./Ms. Patel, I’m Rohan Verma, with Global Risk Solutions. We’re investigating a potential unauthorized transfer linked to your mobile banking app. It appears ₹850 went out through a transaction yesterday afternoon around 3 pm. Did you perhaps initiate any transfers recently, even accidentally?
+receiver: Global Risk Solutions? Rohan Verma? Ajeeb naam hai. Dekhiye, maine koi order nahi diya, na koi transfer kiya. ₹850 ka transaction? Mujhe toh bilkul yaad nahi. Kya aap bata sakte hain ki yeh transaction kab hua tha, aur uss website ka naam?
+caller: Ji, Mr./Ms. Patel, we understand your concern. The transaction occurred approximately two hours ago, through a platform called ‘QuickPay’. We need to confirm if this was indeed you, or if someone gained access to your device. Have you recently changed your password, or noticed any unusual activity on your phone?
+receiver: QuickPay? Yeh website naam suna hai. Agar mera account misuse hua hai, toh aap please mujhe bataiye ki kya karna hoga. Agar aap account secure kar sakte hain, toh definitely kar lijiye. Mujhe bilkul nahi pata yeh sab kya ho raha hai.
+caller: Ji, Mr./Ms. Patel, we want to ensure your account remains safe. Please don’t share your OTP with anyone, and immediately change your password if you suspect any compromise. Also, we recommend enabling two-factor authentication. Let's verify your address – can you confirm the pincode on your ID?
+receiver: Pincode? Haan, mein bataungi. Lekin, ye OTP share karne ki baat bhi…mujhe ab bahut tension lag rahi hai. Aap sab log kitne paise lootenge?
+caller: Ji, Mr./Ms. Patel, we appreciate your cooperation. This is standard procedure to protect against fraud. Just confirming your address will help us trace the transaction further. Now, what is your pincode?

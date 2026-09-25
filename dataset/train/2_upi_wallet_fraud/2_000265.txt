@@ -1,0 +1,7 @@
+caller: Hello sir, is this Rajeev Sharma? We’ve detected unusual activity on your PhonePe account. For security reasons, we need to quickly verify your details.
+receiver: Oh really? What kind of unusual activity? I haven’t done anything out of the ordinary.
+caller: Sir, there’s been a failed transaction attempt from a foreign IP address. To prevent your account from being locked, you need to complete a quick security check. We’ll send you a verification link via WhatsApp.
+receiver: Verification link on WhatsApp? That sounds a bit odd. PhonePe usually sends OTPs to SMS, no?
+caller: Yes sir, but due to the urgency and to avoid SMS spoofing, we’re using WhatsApp this time. It’s a new security protocol. Please check your WhatsApp, sir. It will ask for a small processing fee of ₹250 to proceed.
+receiver: ₹250? For verification? That seems very strange. What happens if I don't pay?
+caller: Sir, if you don’t complete the verification with the processing fee, your account will be temporarily suspended within the next hour to protect your funds. We don't want that to happen. Just pay the ₹250 and we'll fix everything.

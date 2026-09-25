@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Verma? I’m calling from BlueDart Courier regarding a parcel addressed to you. It seems there’s a customs clearance issue, and we need to verify a few details.
+receiver: Haan, Verma is speaking. Customs issue? What parcel? I haven't ordered anything recently.
+caller: Sir, the parcel is listed as high-value electronics. To release it for delivery, we require a one-time verification fee of ₹2,500 to cover the processing charges. You can pay it through UPI.
+receiver: ₹2,500? That sounds suspicious. BlueDart doesn't usually ask for money upfront. Can you give me a tracking number? And a contact number for BlueDart customer care?
+caller: Sir, due to security protocols, I can’t disclose the full tracking number over the phone, but it starts with BD12. For customer care, you can refer to the website, although they are currently experiencing high call volume. Just a quick UPI payment and we’ll dispatch it right away.
+receiver: BD12? I checked the BlueDart website, and they don't use that prefix. And why is it so difficult to get a proper contact number? I think this is a scam.
+caller: Sir, please don't be alarmed. We are just following protocol. Without the verification fee, we will have to return the parcel to the sender. We don't want that, do we? It’s a very good deal on a new phone. Just confirm the UPI payment, and it will be sorted immediately.

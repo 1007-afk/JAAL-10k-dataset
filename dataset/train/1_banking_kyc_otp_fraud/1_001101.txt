@@ -1,0 +1,9 @@
+caller: Namaste! Main Axis Bank KYC department se Simran bol rahi hoon. Aapke account mein kuch updates honge jo complete karne hain, warna account suspend ho sakta hai.
+receiver: Account suspend? Kya? Kyon suspend hoga?
+caller: Sir, RBI ke guidelines ke according, har account holder ko apna PAN card aur Aadhaar card verify karna hoga. Aur aapke record mein ye details incomplete dikh rahi hain.
+receiver: Mein toh verification kar chuka hoon. Last year karwaa tha.
+caller: Sir, system mein ek error dikh raha hai. Verification process dobara complete karna padega. Mein aapko ek OTP भेजूंगी, वो bataiye. Phir main kuch aur details puchungi.
+receiver: OTP? But why again? Aur details kya puchogi? Mujhe doubt ho raha hai.
+caller: Sir, woh confidential hai. Mein OTP receive karne ke baad hi bata paungi. Account suspend hone se bachne ke liye jaldi se process complete karein. OTP भेजूंगी, please bataiye.
+receiver: Okay, theek hai. Bhej do OTP.
+caller: Aapka OTP hai 4587. Bataiye please. Aur ek minute, sir, aapka naam ek baar bataiye?

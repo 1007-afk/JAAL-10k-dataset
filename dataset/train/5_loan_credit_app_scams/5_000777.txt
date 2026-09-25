@@ -1,0 +1,6 @@
+caller: Hello, this is Raj from QuickCash India. We've noticed some suspicious activity linked to your Aadhaar card. It appears someone tried to apply for a loan in your name.
+receiver: Suspicious activity? What kind of activity? I haven’t applied for any loans recently.
+caller: Yes, sir. A loan application for ₹25,000 was attempted through our platform yesterday. It was flagged for verification. To protect you from potential identity theft, we need to confirm some details. Can you please provide your date of birth?
+receiver: Wait a minute... ₹25,000? I definitely didn't do that. I'm a little worried now. My date of birth is 12/07/1988.
+caller: Thank you, sir. Your date of birth matches our records. However, the application was partially processed and now we have a small outstanding fee of ₹750 for verification. This is to secure your account and prevent any further fraudulent activity. You can pay it through UPI.
+receiver: ₹750? Just like that? Seems a bit fishy to me. Why wasn’t I informed earlier? Is this really QuickCash? I’m not comfortable paying anything without more information.

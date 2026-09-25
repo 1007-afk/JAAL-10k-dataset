@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Verma? This is Akash from FreeCharge customer care. We have a special offer running for our loyal customers like you. You can get a cashback of ₹5000 on your next transaction.
+receiver: FreeCharge? I use FreeCharge sometimes, but I haven’t received any message about this. 5000 cashback?
+caller: Yes, ma'am! It's a limited-time offer to celebrate our anniversary. To activate it, we need to quickly verify your account. It’s very simple. Just tell me the OTP you received on your mobile number.
+receiver: OTP? Why would you need my OTP? I’ve heard about these scams.
+caller: Ma'am, please don't worry. It's just a security measure to ensure the offer is activated only for the genuine account holder. The cashback will be credited directly to your FreeCharge wallet immediately after verification.
+receiver: I’m not comfortable giving you my OTP. I'll call FreeCharge directly on their official number to confirm this offer.
+caller: Ma'am, time is running out! This offer expires in just 3 minutes. If you don’t act fast, you’ll miss out on the ₹5000 cashback. We can also send you a link to update your KYC details for faster processing. It's very secure. Just a quick photo of your Aadhaar card.

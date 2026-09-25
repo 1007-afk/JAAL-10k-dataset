@@ -1,0 +1,8 @@
+caller: Namaste! Is this Rohan Sharma? This is Priya from Melody Tunes.  Hope you’re doing well today! I am calling about your new music streaming subscription. You should have received an SMS with your account ID – ZX729, and a monthly fee of ₹199. Just checking to see if everything was processed smoothly for you.
+receiver: Namaste Priya! Haan, main hi Rohan Sharma hoon.  I'm here. Let me quickly look at my messages... Yes, I saw the message with ZX729 and ₹199. It seems fine. Thank you for letting me know.
+caller: Excellent! Thoda sa kaam ho gaya. So, we also offer personalized playlists and ad-free listening, if you'd like to explore those options. Are you interested in upgrading your subscription?
+receiver: Nahin Priya, currently, I just want the basic streaming plan. The playlist thing sounds nice, but I haven't decided yet. Maybe later. Shukriya alag se!
+caller: No problem, Rohan. If you ever need anything, you can reach out to us anytime. Do you require any other assistance related to your account?
+receiver: Nahin Priya, thank you very much for your time and confirming that.
+caller: Wonderful! Please do contact us whenever you might need something. Have a great day! Goodbye!
+receiver: Thank you, Priya! You too, have a good day. Goodbye!

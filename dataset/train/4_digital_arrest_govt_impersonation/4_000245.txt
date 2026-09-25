@@ -1,0 +1,8 @@
+caller: Namaste, speaking with Mr. Sharma? This is Inspector Verma from the Delhi Police Cyber Crime Unit. We've detected suspicious activity linked to your Amazon account – a large number of parcels being shipped internationally using your details.
+receiver: Hello? Maine to kuch order nahi kiya. Amazon account? Yeh kya keh rahe hain aap?
+caller: Ji, Mr. Sharma, we have records of 12 parcels destined for Nigeria, containing, according to our preliminary investigation, contraband items. This is a very serious matter. To prevent your arrest and potential charges under the NDPS Act, we need to verify your identity.
+receiver: Nigeria? Contraband? Yeh toh bilkul galat hai! Mujhe toh Amazon par kuch bhi yaad nahi. Kaise aapko yeh sab pata chala?
+caller: We traced the shipping addresses and payment details. It appears your account was compromised.  We need you to remain on this call. We’ll also need you to download TeamViewer and grant us temporary access to your laptop so we can secure your account and check for malware. It's a standard procedure.
+receiver: TeamViewer? Laptop access? Yeh thoda zyada lag raha hai. Mujhe thoda confuse ho raha hai. Koi official email ya police ID number de sakte hain aap?
+caller: Sir, time is of the essence. The court has already issued a warrant based on the initial findings. We need to act fast to mitigate the damage. To prove our identity, I will send you a WhatsApp message with a photo of my police ID. Please download TeamViewer now, it will only take a few minutes.
+receiver: WhatsApp message? Court warrant? Aur ID photo bhi? Wait, let me just quickly check something…

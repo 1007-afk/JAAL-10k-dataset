@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Rohan hai, FastCashLoans se. Aapke naam par online loan application aaya tha, woh confirm kar sakte hain?
+receiver: Haan, ji. Application toh kiya tha, lekin mujhe yaad nahi ki kab.
+caller: Koi baat nahi sir. Process complete karne ke liye, aapko ek small verification fee bharne hogi. ₹1500, sirf OTP verification ke liye. Hamara agent aapko OTP bheje ga.
+receiver: ₹1500 verification fee? Loan toh instant approve hone ka keh rahe the.
+caller: Sir, security ke liye compulsory hai. Agar aap pay nahi karte, toh application reject ho jayega. Aur agar aap pay kar dete hain, toh aapko loan approved hone ke baad, hum aapko Rs 50,000 tak ka loan offer karenge. Koi risk nahi hai.
+receiver: Theek hai, ₹1500 bhar deta hoon. UPI number de dijiye.
+caller: Theek hai sir. UPI ID hai payfastcash@axisbank. Aap payment kar dijiye, phir main OTP send karwa dunga. Payment confirm hone ke baad, main aapko loan details bhi bataunga.

@@ -1,0 +1,16 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call Now to No: 97234 & win a prize of 1 hour data!' Uske baare mein baat karna chahte hain.
+receiver: Haan, hello. Jaise hi dekh liya maine. Kahaa hai yeh prize? Kya hai ismein?
+caller: Ji, toh aapko ek special offer mila hai, jismein aapko 1 ghanta internet data milega! Yeh ek bahut hi achcha deal hai, aur aapke paas sirf 3 ‘reward points’ bache hain redeem karne ke liye.  Aapko bas woh reward points check karna hai, woh bhi totally free!
+receiver: Okay, 1 ghanta data? Yeh thoda acha lag raha hai. Toh phir kaise karenge? Koi account login karna hai kya?
+caller: Nahi ji, koi account login karne ki zaroorat nahi hai. Aapko bas ek simple process follow karna hai, jisse hum aapki reward points validate kar sakte hain. Aapka name bataiye please.
+receiver: Mera naam Amit hai. To, sirf validation process follow karna hai? Aur kuchh nahi?
+caller: Haan ji, Amit ji. Bas validation process complete karna hai. Agar main aapki ‘reward ID’ verify kar doon toh aapki points immediately redeem ho jayegi. Kya main aapki reward ID jo aapko email mein mili hai, woh le sakta hoon? Sirf validation ke liye, koi charge nahi hai.
+receiver: Reward ID? Okay, abhi dekhta hoon…Haan, ye hai: 8321.
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call Now to No: 97234 & win a prize of 1 hour data!' Uske baare mein baat karna chahte hain.
+receiver: Haan, hello. Jaise hi dekh liya maine. Kahaa hai yeh prize? Kya hai ismein?
+caller: Ji, toh aapko ek special offer mila hai, jismein aapko 1 ghanta internet data milega! Yeh ek bahut hi achcha deal hai, aur aapke paas sirf 3 ‘reward points’ bache hain redeem karne ke liye.  Aapko bas woh reward points check karna hai, woh bhi totally free!
+receiver: Okay, 1 ghanta data? Yeh thoda acha lag raha hai. Toh phir kaise karenge? Koi account login karna hai kya?
+caller: Nahi ji, koi account login karne ki zaroorat nahi hai. Aapko bas ek simple process follow karna hai, jisse hum aapki reward points validate kar sakte hain. Aapka name bataiye please.
+receiver: Mera naam Amit hai. To, sirf validation process follow karna hai? Aur kuchh nahi?
+caller: Haan ji, Amit ji. Bas validation process complete karna hai. Agar main aapki ‘reward ID’ verify kar doon toh aapki points immediately redeem ho jayegi. Kya main aapki reward ID jo aapko email mein mili hai, woh le sakta hoon? Sirf validation ke liye, koi charge nahi hai.
+receiver: Reward ID? Okay, abhi dekhta hoon…Haan, ye hai: 8321.

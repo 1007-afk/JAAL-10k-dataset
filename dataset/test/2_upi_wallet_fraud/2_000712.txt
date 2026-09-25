@@ -1,0 +1,6 @@
+caller: Namaste! Mera naam Rajesh hai, main BharatPay se bol raha hoon. Aapki UPI ID par ₹500 ka cashback offer aa gaya hai.
+receiver: BharatPay se? Cashback? Wah! ₹500?
+caller: Haan ji! Offer limited time ke liye hai. Aapko sirf BharatPay app mein ek ‘collect request’ accept karna hai. Link main hai, check karo: bharatpay.in/cashback-offer.
+receiver: Haan, dekhta hoon. Bharatpay.in/cashback-offer... Okay, link open ho gaya. Kuch verification karna hai?
+caller: Haan, verification ke liye aapko apna BharatPay wallet mein registered phone number pe jo OTP aayega, woh mujhe bataana hai. Just ek second, OTP check karo.
+receiver: Theek hai... Acha, aaya OTP... 4872 hai.

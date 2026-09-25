@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs Department se Rahul bol raha hoon. Aapke naam par ek parcel aaya hai Nepal se. Parcel mein illegal items paaye gaye hain – drugs ka suspicion hai.
+receiver: Kya? Drugs? Main toh Nepal se koi parcel order nahi kiya hai. Yeh kya ho raha hai?
+caller: Sir, parcel already India mein aa chuka hai. Case number is IND-CUS-2024-789. Aapko court mein present hona hoga. Yeh matter bahut serious hai. Legal proceedings se bachne ke liye, aapko ₹50,000 ka fine bhar dena hoga.
+receiver: ₹50,000? Lekin main toh kuch bhi illegal nahi kiya hai! Aur court mein present hona hai? Main busy hoon. Koi proof hai aapke paas? Parcel ka picture ya kuchh?
+caller: Sir, proof hum court mein present karenge. Abhi, aapko fine bharne ke liye bank details dene होंगे। Time bahut kam hai, sir. Case aage badhega toh fine aur badhega. ₹50,000 bank account number [invented bank details] mein transfer kijiye.
+receiver: Wait, wait! Yeh thoda shak lag raha hai. Main abhi bank details nahi de sakta. Main police se baat karta hoon. Aapka phone number bataiye.
+caller: Sir, police se baat karne mein time waste hoga aur aapko aur trouble hoga. Yeh hamara official number hai: 011-23456789. Jaldi kijiye, sir, otherwise aapko serious consequences ka सामना करना padega.
+receiver: Hmm...okay, I will think about it.

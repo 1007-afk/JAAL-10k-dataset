@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se calling kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification mein thodi problem hai.
+receiver: Flipkart se? Kya address verification ki problem hai? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, system mein ek error aa gaya hai. Parcel deliver karne se pehle, humein sirf ek OTP verify karna hai. Aapko OTP SMS milega, woh bata dijiye.
+receiver: OTP? Par ye kitna safe hai? Flipkart toh SMS se OTP nahi manta.
+caller: Sir, yeh ek new security protocol hai, security ke liye. Agar OTP nahi diya, toh parcel wapas kardoonga. Aapka loss hoga. Just 4 minutes left to deliver the parcel!
+receiver: Parcel wapas kardoonga? Ok, ek minute… mujhe check kar ke bataata hoon.  Kaise pata chala ke parcel mera hi hai? Mere naam aur address ka check kaise kiya?
+caller: Sir, aapka order number bataiye, main check kar ke confirm karta hoon.  Aapko parcel mein kuch expensive gadgets mile hain, isliye verification compulsory hai. Order number bataiye please.
+receiver: Mujhe yeh kuch zyada suspicious lag raha hai. Main Flipkart customer care number se check karta hoon. Bye.

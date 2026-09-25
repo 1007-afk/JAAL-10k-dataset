@@ -1,0 +1,7 @@
+caller: Hello sir, this is Vijay from FreeCharge customer care. We have noticed some suspicious activity on your FreeCharge wallet.
+receiver: Suspicious activity? What kind of activity? I haven't done anything unusual.
+caller: Sir, there was a failed transaction of ₹2500 from your wallet to an unknown merchant. To secure your funds and prevent further fraudulent activity, we need you to verify it.
+receiver: ₹2500? No way! I didn't authorize any transaction like that. What do I need to do?
+caller: Just confirm by sending ₹50 as a security verification fee to this UPI ID: 8888111122@axisbank. Once we receive the fee, we’ll immediately reverse the fraudulent transaction and secure your account.
+receiver: ₹50? For a failed transaction? That seems a bit strange. Why do I need to send money to verify? Shouldn't you be able to do that on your end?
+caller: Sir, it's a standard security protocol. This verifies that you are the legitimate account holder. Please do it quickly to avoid permanent blocking of your wallet. Send ₹50 now to 8888111122@axisbank.

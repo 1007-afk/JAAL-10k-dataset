@@ -1,0 +1,8 @@
+caller: Namaste sir, mein Seema Verma, Paytm Finance se baat kar rahi hoon. Aapne kuch din pehle Paytm par ek personal loan apply kiya tha, isliye call kar rahi hoon. Verification ke liye kuch details chahiye.
+receiver: Hello? Haan, bilkul. Mainey apply toh kiya tha, lekin mujhe yaad nahi ki exact details kya hain.
+caller: Koi baat nahi sir. Aapka mobile number [Invent a Mobile Number] hai na? Is number par apply kiya tha? Aur loan amount kiti apply ki thi, yaad hai kya?
+receiver: Haan, woh number sahi hai. Aur amount… ₹20,000 apply kiya tha, mujhe lagta hai.
+caller: Bahut accha! Sir, verification process complete karne ke liye, aapko ek OTP aapke WhatsApp number par aayega. Woh OTP mujhe bataiye. Zaroori hai sir, warna loan process ruk jayega.
+receiver: Okay, wait. Aa gaya hai OTP. Yeh hai 789012.
+caller: Bilkul sahi, sir! Verification complete ho gaya hai. Abhi aapke account mein ₹20,000 transfer ho jaayega. Lekin sir, processing fee ke rup mein ₹2,500 abhi Paytm wallet mein daalna padega. Otherwise loan nahi transfer ho payega.
+receiver: ₹2,500 processing fee? Mainey apply karte samay aisa kuch nahi suna tha.

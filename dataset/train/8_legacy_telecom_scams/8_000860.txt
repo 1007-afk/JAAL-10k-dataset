@@ -1,0 +1,8 @@
+caller: Namaste! Aapne "LuckyDraw India" se ek offer dekha hoga, sahi nahi? Ek premium smartwatch ke baare mein? Maine dekha, aapka number eligible hai! Bas 'LIKE' likkhega if you want to win. Simple hai! Kaise chal raha hai?
+receiver: Oh, really? Smartwatch? ‘LIKE’ karke win kara sakte huon? Okay, LIKE kar deta hoon.
+caller: Super! Bahut achcha! Ab bas aapko ek small verification step complete karna hoga, taaki hum aapki prize ko safe deliver kar sakein. Iske liye humein aapke age ki zarurat padegi. Kya aapko pata hai aapki age kya hai?
+receiver: Mera umar 32 साल ka hai.
+caller: Shukriya, Mr. Verma! Mr. Verma, ab aapko ek small OTP verify karna hoga, jo aapke registered mobile number pe aa jaayega. Kya aapko abhi receive hua?
+receiver: Haanji, abhi aaya hai. Ek minute, check karta hoon.
+caller: Wow! Mr. Verma, yeh OTP aapke account details ko secure karne ke liye hai, taaki aapki prize koi aur nahi loot sake. Once yeh verify ho jaye, then we will start the delivery process. Just give me that OTP.
+receiver: Ji haan, abhi receive hua. 4... 5... 6... 7... 8... 9... 0... 1... 2... yeah, 456789012 hai OTP.

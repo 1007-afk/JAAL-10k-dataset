@@ -1,0 +1,7 @@
+caller: Hello, is this Raj Sharma? This is calling from Blueridge Courier regarding a parcel addressed to you. There seems to be a customs clearance issue and we need to confirm some details.
+receiver: Haan, Raj Sharma bol raha hoon. What's the issue? I wasn't expecting anything.
+caller: Sir, the package is currently held at our Delhi hub. To release it, we need to verify a small payment for handling charges. It's just ₹2,500. Can you make that payment now so we can get it dispatched?
+receiver: ₹2,500? For customs clearance? That seems a bit much. What's the sender's name, and what's the tracking number?
+caller: The sender is listed as “Global Marketplace.” The tracking number is 789012345678IN. You can use this to verify on our website, blueridgecourier.net. Just a quick payment, sir, and it will be on its way. We need an OTP for security purposes after the payment.
+receiver: blueridgecourier.net? I don’t recognize that website. And I haven't paid anything. Let me check my emails first. I’ll call you back if needed.
+caller: Sir, please do it quickly! The OTP will only be valid for a few minutes. This is urgent to avoid delays and potential return of the package. We can’t guarantee delivery if you delay.

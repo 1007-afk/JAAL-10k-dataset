@@ -1,0 +1,21 @@
+caller: Namaste, is this Mrs. Patel? My name is Rohan from the Lucky Draw Lottery. How’s your day going?
+receiver: Namaste Rohan, yes, this is Mrs. Patel. I am doing fine, thanks. What brings you calling?
+caller: Bohat acha hoon main, Mrs. Patel! Aur main call kar raha hoon kyuki aapki ek badi shurri mein jeetne ka mauka hai! Hamara lottery har shahar me ₹5000 jeetne ka offer chalate hain. Itni easy – aapko bas ek chhoti si paheli sudharo hai. Kya aap ready hain?
+receiver: ₹5000 every month? Wow, that sounds good. So, just solving a little riddle? Okay, ask away.
+caller: Absolutely, Mrs. Patel! Aapne sahi suni. Aur paheli yeh hai: Ek bird hai jo neend nahi karta. Kya hota hai use? Aapke paas jawab dene ke liye sirf 2 mauke hain!
+receiver: A crow. A crow doesn’t sleep. Is that correct?
+caller: Haan, Mrs. Patel, aapki wajah se aapko congratulations! Ek crow neend nahi karta. Ye bahut achcha jawab hai. Aapne ek paheli sahi solve ki. Agar aapko dusra mauka chahiye toh bataiye. Ready for the next one?
+receiver: Haanji, mujhe aur pataa chahie! Chaliye.
+caller: Hello, is this Mr. Verma? This is Sanjay from the Instant Rewards Program. Just checking in to see how you’re doing today.
+receiver: Hello Sanjay, yes, this is Mr. Verma. I'm doing okay, thanks for calling. What’s this about?
+caller: Great, great! And we have an amazing opportunity for you – a chance to win up to $2500 instantly! We're running a promotion where you simply need to confirm some basic details. Are you interested?
+receiver: $2500? Instantly? That does sound tempting. Tell me more.
+caller: Well, it’s very straightforward. First, could you please tell me what color is your car? And don’t worry, it’s just a quick verification step. You have only one attempt.
+receiver: Blue. My car is blue.
+caller: Excellent! Thank you for confirming. Now, let’s move on to the next question. What’s your mother’s maiden name? Please provide it accurately. You have another shot at this.
+receiver: Singh. My mother’s maiden name is Singh.
+caller: Fantastic! You’re doing wonderfully. One last question for you: If you had to choose between pizza and burgers, which would you pick?
+receiver: Pizza. Definitely pizza.
+caller: Wonderful! Congratulations, Mr. Verma! Based on your answers, you’ve been selected as a winner! Your $2500 reward will be credited to your account within 72 hours. Details will follow shortly.
+receiver: Really? $2500? That's incredible! When will I receive the details?
+caller: They’ll arrive via email within the next hour. Thank you for participating in the Instant Rewards Program! Have a wonderful day!

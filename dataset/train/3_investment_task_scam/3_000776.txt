@@ -1,0 +1,7 @@
+caller: Hello, is this Mrs. Sharma? We’re calling from CoinGain Investments. We've noticed significant potential in your portfolio and have a very lucrative opportunity for you.
+receiver: CoinGain? I don't think I've heard of it. What kind of opportunity? I'm a bit busy right now.
+caller: Absolutely, Mrs. Sharma. We’re offering a chance to invest in a new blockchain project - StellarRise. Early investors are seeing returns of up to 30% in just a week. Very exclusive, very limited slots. We just need a small initial deposit to activate your access. ₹5000 would be perfect to start.
+receiver: 30% in a week? That sounds...too good to be true. And blockchain investments are risky, aren't they? Why are you calling me? I haven't expressed any interest.
+caller: It's a carefully managed risk, Mrs. Sharma. Our AI algorithms guarantee consistent gains. We are just identifying promising clients. To get you started, please share your UPI ID so we can process the ₹5000 investment quickly. It's completely safe and secured.
+receiver: UPI ID? No, no, that's not happening. I've heard about these kinds of scams. I’m not giving out my financial information to someone I just spoke to. Thank you, but I’m not interested.
+caller: Mrs. Sharma, this is a genuine opportunity, and you’re missing out! Think of the returns! Just a quick deposit, and we'll send you the login details. It's a limited time offer - only for select individuals like yourself. Please reconsider!

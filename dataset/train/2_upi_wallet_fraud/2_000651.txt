@@ -1,0 +1,7 @@
+caller: Namaste! I'm calling from BharatPe support. We've noticed a pending transaction of ₹499 from your account for a cashback offer on a recent purchase.
+receiver: Cashback offer? I don’t remember any cashback offer. What was the purchase?
+caller: It was for a mobile recharge with Jio, Priya ji. There seems to be a slight processing issue. To complete the cashback and avoid a reversal of the transaction, we need to quickly verify a few details.
+receiver: Verify? What details do you need? I’m a little hesitant to share anything over the phone.
+caller: Just a one-time password sent to your FreeCharge wallet, Priya ji. It’s a standard security protocol. Can you share that with me, please? It will only take a second.
+receiver: My FreeCharge OTP? Why can't you just confirm this through the BharatPe app itself? That seems much safer.
+caller: The system is undergoing maintenance right now, Priya ji. This is a temporary measure to secure your cashback. Please, just provide the OTP so we can ensure you receive the ₹499. Otherwise, it might get cancelled and you’ll lose out.

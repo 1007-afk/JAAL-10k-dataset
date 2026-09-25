@@ -1,0 +1,9 @@
+caller: Namaste, mai Axis Bank se Rohan bol raha hoon. Aapke naam par ek suspicious transaction detect hua hai, ₹12,000 ka.
+receiver: ₹12,000? Kab hua transaction?
+caller: Sir, seedhe abhi hi, online shopping mein. Aapne kiya ya nahin? Yeh transaction aapne nahi kiya toh humein bataiye. Account suspend bhi ho sakta hai.
+receiver: Nahin, maine toh kuch nahi kharida. Main toh office mein hoon.
+caller: Sir, theek hai. Toh humein aapka OTP confirm karna hoga. Sirf ek baar, security ke liye. Yeh ek verification process hai.
+receiver: OTP? Kaun sa OTP?
+caller: Sir, ek SMS aayega aapke phone par. Woh number bataiye. Jaldi karo, sir, time kam hai. Account block ho sakta hai.
+receiver: Thoda wait karo, mujhe phone check karne do.
+caller: Sir, please jaldi karo. Account ki security ka sawal hai. Aur woh OTP check bhi karo jo aaya hoga.

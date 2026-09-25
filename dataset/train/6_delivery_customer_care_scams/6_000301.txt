@@ -1,0 +1,7 @@
+caller: Namaste! I'm calling from Blueridge Couriers. We have a package addressed to you, but there's a slight issue with the delivery address. It’s a fairly valuable item, sir/madam, so we want to ensure it reaches you safely.
+receiver: Oh, really? What’s the issue? I was expecting something.
+caller: Yes, sir. The pin code is showing as invalid. To confirm delivery, could you please share the OTP you just received on your registered mobile number? Just a quick verification, nothing more.
+receiver: OTP? Why do you need my OTP? You’re a courier company, not a bank!
+caller: Sir, it’s a security protocol to prevent misdirection of valuable goods. We need to confirm you are the rightful recipient before releasing the package.  It's standard procedure. We're holding a high-end smart TV. Can you please provide the OTP, it starts with 7?
+receiver: A smart TV? Hold on a minute. I haven't ordered a smart TV. This sounds suspicious. I’m not giving you any OTP.
+caller: Sir/Madam, if you don't provide the OTP within the next 5 minutes, we'll have to return the package to the sender and you’ll be liable for a return shipping fee of ₹800. We can also send you a payment link to clear the address issue, so you can receive your TV.

@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Rohit hai, main QuickCash Solutions se bol raha hoon. Aapki credit report dekhne ke baad, aapko ₹75,000 tak ka loan mil sakta hai, sirf PAN card aur bank statement se. Koi income proof nahi chahiye.
+receiver: ₹75,000 ka loan? Meri income toh bilkul kam hai. Interest kitni hogi?
+caller: Bilkul, sir! Humare pass special scheme hai. Interest sirf 8% hogi, aur aap 6 mahine mein pay kar sakte hain. Lekin, verification ke liye, aapko humein ₹2,500 OTP charge ke liye send karna hoga.
+receiver: OTP charge? Ye to scam lag raha hai. Main report kar dunga.
+caller: Sir, please mat report karo! Yeh OTP charge sirf verification ke liye hai. Agar verification nahi hua, toh loan reject ho jayega.  Trust me!  It's a one-time thing. Humare company ka naam bahut famous hai.
+receiver: Ok, fine. Send karo OTP.
+caller: Bahut achha! Ab aapko humein OTP send karo, then verification process start ho jayega. Aur, agar aap loan pay karne mein delay karein, toh hum aapke contacts ko bhi message karenge, aur naam public bhi kar denge. Understand?

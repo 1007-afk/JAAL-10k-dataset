@@ -1,0 +1,7 @@
+caller: Hi! Saw your profile on ShaadiKeRang. You have such a lovely smile! I’m Rohan, by the way. I’m working abroad in Dubai, doing construction management. Just thought I'd say hello.
+receiver: Hello Rohan! That's a nice compliment, thank you. Dubai sounds exciting! What kind of construction work are you doing?
+caller: It's really demanding, long hours, you know? But the money's good. Been saving up to bring someone special over here, settle down. I'm looking for a life partner, someone to build a family with. My family is back in Delhi, they miss me a lot.
+receiver: That's a lovely dream. A lot of people work abroad to build a better future. So, you’re missing your family? That must be tough. How long have you been there?
+caller: About three years now. Listen, things are a bit hectic at work right now, a big project deadline. My wallet got stolen yesterday, all my cash and cards gone. It's a nightmare. I really need to send some money back to my mother in Delhi for her medicine – she's not well. Could you possibly lend me a small amount? Just ₹15,000 to tide me over until I get replacement cards. I'll pay you back as soon as I get paid, I promise!
+receiver: ₹15,000? That's quite a lot to ask from someone we just met. And being robbed, that’s terrible. I’m really sorry to hear about your mother, but I don't think I can lend you that much money. It’s a bit risky, don’t you think?
+caller: Please, Priya! I wouldn’t ask if I wasn’t desperate. It’s just until my salary comes through in

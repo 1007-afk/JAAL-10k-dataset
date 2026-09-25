@@ -1,0 +1,7 @@
+caller: Hello Madam, I am calling from One97 Communications, Paytm customer care. We’ve noticed some unusual activity on your account and need to verify a few details urgently.
+receiver: Unusual activity? What kind of activity? I haven't done anything different. Who’s speaking?
+caller: My name is Rajesh. Yes, Madam, it appears someone attempted to transfer a large sum – ₹15,000 – to an unknown account from your Paytm wallet. To prevent unauthorized access and protect your money, please confirm you initiated this transaction.
+receiver: Fifteen thousand rupees? No, absolutely not! I didn't authorize anything like that. That's a scam, isn’t it? Why didn’t I get an OTP?
+caller: Madam, there seems to be a technical glitch in the system. The OTP system is temporarily down. To immediately secure your account, could you please share the last four digits of your linked bank account number so I can manually verify? Just four digits, Madam, for security purposes. Very important!
+receiver: No way! You want my bank details over the phone? That's completely ridiculous. I’m not giving you anything. I'm going to block this number and report it to Paytm.
+caller: Madam, please! You are putting your ₹15,000 at risk! It's being transferred right now. If you don't provide those four digits within the next minute, the money will be gone and your account will be locked. Please cooperate, Madam.

@@ -1,0 +1,8 @@
+caller: Namaste! Main calling karta hoon PhonePe security team se. Aapke PhonePe account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Kaunsa transaction? Mujhe toh koi message aaya nahin.
+caller: Sir, ek UPI transaction hua hai ₹4999 ka, jo aapne nahi kiya hai. Immediately aapko apna account secure karna hai. Main aapko ek link send karta hoon, us par click karke aapka OTP verify karein.
+receiver: ₹4999? Oh my god! Link send karo jaldi karo. Lekin yeh link sahi hona chahiye, fake nahi.
+caller: Theek hai sir, yeh hai link: http://phonepe.securityverify.com.  Us par click karke OTP enter karein.  ₹4999 bahut zyada amount hai, sir.  Agar aap jaldi nahi karenge, toh account suspend bhi ho sakta hai.
+receiver: Wait, yeh link toh mujhe suspicious lag raha hai. PhonePe ka official link alag hota hai. Aap mujhe confirm kar sakte hain ki aap PhonePe se hi call kar rahe hain?
+caller: Sir, woh link technical hai, woh official website nahi dikhayegi.  Trust me, Sir.  ₹4999 recover karne ke liye aapko abhi check karna hai aur OTP verify karna hai. Abhi jaldi karo.
+receiver: Nahin, nahin, mujhe yeh theek nahi lag raha hai. Main PhonePe customer care number pe khud call karta hoon. Thank you.

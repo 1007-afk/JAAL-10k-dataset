@@ -1,0 +1,8 @@
+caller: Namaste sir, main Freecharge se bol raha hoon. Aapke account mein ek suspicious activity detect hui hai.
+receiver: Suspicious activity? Kya hua? Main toh kisi bhi transaction mein involve nahi hun.
+caller: Sir, ek small amount, sirf ₹20, ek online recharge ke liye attempt kiya gaya tha, lekin transaction fail ho gaya. Isko clear karne ke liye, aapko ₹30 processing fee deposit karna padega.
+receiver: ₹30? Recharge ke liye? Main toh kabhi recharge nahi karta. Freecharge app mein bhi check karta hun, koi transaction dikhta nahi hai.
+caller: Sir, system mein error dikha raha hai. Aapko ₹30 Paytm ke through deposit karna hoga, tabhi account secure ho jayega. Jaldi karo, warna account block ho sakta hai.
+receiver: Account block ho jayega? Aur ₹30 Paytm mein deposit karna hai? Yeh kuch wrong lag raha hai. Kya mujhe Freecharge app mein koi link milega?
+caller: Sir, link sending karne mein technical problem aa rahi hai. Aapko ek number pe Paytm se ₹30 deposit karna padega. Woh number hai 7890123456. Jab deposit ho jayega, tab aapka account automatically secure ho jayega.
+receiver: Wait a minute... mujhe yehi scam lag raha hai. Main koi bhi payment nahi karta.

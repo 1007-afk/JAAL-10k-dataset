@@ -1,0 +1,8 @@
+caller: Hello, mai Vijay Sharma bol raha hoon, Axis Bank se. Aapke Axis Bank rupay wallet mein ek suspicious transaction ka attempt hua hai.
+receiver: Kya? Suspicious transaction? Kab hua? Aur kitna amount tha?
+caller: Sir, ek ₹7,500 ka attempt hua hai Gujarat se. Aapne kiya ya nahi? Jaldi karein, account block hone se pehle verify karna hoga. Hamara helpline number hai 89898 98765. OTP bheja jayega, usko bataiye.
+receiver: Gujarat se? Main toh kabhi Gujarat nahi gaya. OTP kyun bhijwa rahe hain? Direct call hi kar sakte hain na?
+caller: Sir, security protocols ka mamla hai. OTP confirm karein, aur main aapko aur details deta hoon. Abhi OTP receive karein, please. Yeh last chance hai, sir.
+receiver: Thik hai, mujhe OTP mila hai. Abhi batao, kya ho raha hai?
+caller: Arre wah, bahut achha. Abhi OTP confirm ho gaya hai. Sir, aapka wallet suspend karne wala hai, lekin main isko save kar sakta hoon agar aap ₹1,000 verification fee pay kar de.
+receiver: Verification fee? Yeh kya bakwas hai? Koi verification fee nahi hoti. Main report karunga.

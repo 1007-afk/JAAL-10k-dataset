@@ -1,0 +1,7 @@
+caller: Namaste! Main Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein. Parcel mein illegal items mile hain, drugs ke suspicion mein.
+receiver: Kya? Drugs? Mere naam par? Main toh kabhi parcel return bhi nahi karta. Yeh kya bol rahe hain?
+caller: Ji ji, sir/madam. Parcel number is IC789456. Check kar rahe hain hum log. Yeh parcel Delhi se aaya hai, aur usmein suspicious items hain. Aapko ₹5000 fine bharne hoga, tab parcel release hoga.
+receiver: ₹5000? Aur parcel mein kya hai? Main toh kuch bhi order nahi kiya tha. Yeh fraud lag raha hai.
+caller: Sir/madam, parcel mein items ki details reveal nahi kar sakte hum legal reasons se. ₹5000 bharne ke baad parcel release hoga, aur then you can check. Aapko fast pay karna hai, otherwise parcel confiscate kar lenge. Payment UPI ID hai: 8888222211@ybl.
+receiver: Thoda rukiye. Main check kar leta hoon. Custom's website par toh koi information nahi dikh rahi. Koi phone number ya email address dedo jahan main confirm kar sakoon.
+caller: Sir/madam, koi bhi delay nahi ho sakta. Time is running out. Agar aap ₹5000 pay nahi karenge, toh legal action hoga.  Payment kijiye, otherwise case register ho jayega.

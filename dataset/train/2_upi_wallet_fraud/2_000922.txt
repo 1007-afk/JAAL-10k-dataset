@@ -1,0 +1,7 @@
+caller: Namaste! Main Vijay, FastCash Rewards se call kar raha hu. Aapko Flipkart pe ₹750 ka purchase karne ke liye ₹500 ka cashback milne wala hai! Par cashback process karne ke liye, ek small verification fee submit karna padega.
+receiver: ₹500 ka cashback? Flipkart se purchase kiya tha? Verification fee kitna hai?
+caller: Ji haan, ₹50 hi. Aapko sirf ₹50 Paytm QR code pe send karne hai: 98765-123456. Jab verify ho jayega, ₹500 cashback instantly aapke wallet mein aa jayega!
+receiver: ₹50 Paytm QR code pe? Par maine Flipkart se cashback receive kiya tha. Yeh kya new process hai?
+caller: Arre, ye FastCash Rewards ka special offer hai. Flipkart ka system alag hai, aur humara alag. Jaldi karo, offer sirf aaj ke liye hai! Code 98765-123456, jaldi send karo ₹50.
+receiver: Okay, fine. Main send kar deta hu ₹50. Par check karunga, aur agar kuch bhi wrong hua, main report karunga.
+caller: Shukriya ji! Aapka luck bahut acha hai! Cashback jaldi transfer ho jayega! Enjoy!

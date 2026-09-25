@@ -1,0 +1,8 @@
+caller: Namaste! Mein Swiggy Customer Care se Kartik bol raha hoon. Aapki recent order mein ek problem aa gayi hai. Order number SW789456.
+receiver: Oh, kya hua? What’s the problem with my order? I was really looking forward to it.
+caller: Ji, delivery agent ne keh raha hai ki aapke address par delivery nahi kar paya. Kuchh confusion hai. Aapko ₹200 ka verification fee bharne ki zaroorat hai taaki hum dobara delivery arrange kar sakein.
+receiver: ₹200? Verification fee? Swiggy never asked me for verification fees before. Are you sure you’re from Swiggy?
+caller: Ji haan, bilkul. Yeh security measure hai. Fraud se bachne ke liye. Hum aapko ek OTP bhejenge. Woh OTP bataiye.
+receiver: Wait a minute. I’m checking the Swiggy app now. I don't see any notification about a verification fee or a problem with my order. This feels fishy.
+caller: Ji, humara system kabhi kabhi app mein update show nahi karta. Aapko fast OTP daalna hai, warna order cancel ho jayega. ₹200 bahut important hai.
+receiver: No, I'm not going to give you an OTP. I'm reporting this number. You're a scammer!

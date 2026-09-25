@@ -1,0 +1,13 @@
+caller: Namaste! Kaise ho aap? I’m calling from ‘Shree Technologies’ regarding a fantastic opportunity for our valued customers like you. We’re giving away Samsung Galaxy A series phones completely free with your existing broadband connection. You’ve been a loyal customer for almost eight years now, and we appreciate your continued support. Also, you’ll get unlimited data on Jio plans. It sounds exciting, right?
+receiver: Namaste! Haan, main theek hu. Yeh [Receiver’s Nickname] hoon, please call me Priya. Samsung Galaxy? Completely free? Unlimited data too? That does sound good. Tell me more, please.
+caller: Wonderful to hear from you, Priya! Absolutely! We have the newest Galaxy A54 and A34 models available. Since you've been with us for nearly eight years, this is a special appreciation gift! And with Jio, you'll enjoy limitless data access. Now, we just need your consent to verify your account details – could you provide your Jio number and last four digits of your bank account?
+receiver: Haan, yeh toh bahut acha offer lag raha hai. Free phone aur unlimited data, yeh bahut pasand aaya. But, I am a little hesitant. Can you assure me this is legitimate?
+caller: Of course, Priya! This is completely genuine. We value your business immensely. Just to ensure everything is smooth, we need to run a quick system check. Could you please answer a few simple security questions? For example, what was the date of your birth?
+receiver: Okay, fine. But why do you need my birthdate? That seems a bit personal.
+caller: It’s standard procedure, Priya. We just need to confirm your identity and prevent any fraudulent activity. And also, we need to update your account with the new phone details. Now, tell me, what year were you born?
+receiver: 1985.
+caller: Excellent! Thank you, Priya. Now, let’s proceed with verifying your account. We require your full address and postal code for delivery purposes. Please provide those details immediately.
+receiver: My address is [Receiver's Address], and my postal code is [Receiver's Postal Code].
+caller: Fantastic! Thank you so much for providing that information. Your phone will be delivered within 7-10 working days. Congratulations on receiving your free Samsung Galaxy! Remember to activate your Jio plan as soon as possible to unlock the unlimited data benefits.
+receiver: Ok, thank you. I will do that. Bye!
+caller: You're most welcome, Priya! Have a wonderful day! And don't forget to share this amazing offer with your friends and family. Goodbye!

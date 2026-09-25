@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mrs. Verma? I’m calling from Bluedart Courier. We have a parcel addressed to you, but there’s a ₹3500 customs clearance fee due. It’s a new policy for international shipments.
+receiver: Customs clearance fee? Main toh kuch international order nahi kiya tha. Bluedart se call aa raha hai?
+caller: Haan ji, Mrs. Verma. Sometimes the sender doesn't declare the correct value. We need to verify the payment to release the parcel. We can’t deliver it until the fee is settled. You can pay securely online.
+receiver: ₹3500? Kitni zyada fee hai! Aur kaunsa parcel hai? Mujhe koi order yaad nahi aa raha. Kya aap mujhe tracking number de sakte hain?
+caller: Absolutely! The tracking number is BD789456123. It’s a high-value item, that’s why the fee is higher. To proceed, please go to this link: securepay.online/bluedart. It’s a very simple process.
+receiver: Wait, securepay.online? Yeh site mujhe zyada trustworthy nahi lag rahi. Bluedart ki official website toh bluedart.in hai na?
+caller: Don't worry, Mrs. Verma! That’s our secure payment portal. It’s a little different from the main website. Please complete the payment quickly, otherwise, we will have to return the parcel to the sender. We are losing money on the parcel.
+receiver: Ek minute, main abhi check karti hoon. Mujhe kuch gadbad lag rahi hai.

@@ -1,0 +1,20 @@
+caller: Namaste! Aapko ek bahut mahatvapoorn baat milne wali hai. Kya aapko apni umar aur gender bata sakte hain? Simple se, bolte hain - 40M. Hum chahte hain jitne possible ho, log ko inform karein ki unme ek badi shurri hai!
+receiver: Hai, main 45 ka male hoon. Shurri kaisi hai? Kuch batao.
+caller: Haanji, ek badi shurri hai! Aapki mobile number confirm karna hai, sir/madam? Number confirm hone ke baad hi aapko shurrion ki puri jaankari milegi!
+receiver: Mere pass 9876543210 hai. Agar shurriy mein koi cash prize hai ya koi gift hai?
+caller: Achaa, 9876543210! Aapka number confirm ho gaya hai. Aapne jeeta hai ek super cool Samsung Galaxy S23 Ultra! Imagine karo woh beautiful phone aapke haath mein! Abhi kuch small checks hain, aur yeh aapka ho jayega. Ek chhoti si registration charge lena hoga, bas.
+receiver: Seriously? Samsung Galaxy S23 Ultra? True? Registration charge kitna hai aur checks kya hain?
+caller: Absolutely, Rahul ji! Samsung Galaxy S23 Ultra! Yeh hamare liye bas ek small step hai to guarantee that you are the real winner. Registration charge hai sirf ₹2499. Yeh ek small amount hai delivery and security deposit, plus protection for your new smartphone. Checks ke liye, humein bas aapka Aadhaar card number chahiye taki hum verify kar saken ki aap India mein resident hain. Can you provide it to us?
+receiver: Aadhaar card number? Wait, wait. Ye sab thoda dubara sunana padega. Samsung jeetne ke liye Aadhaar number kyun chahiye? Registration charge bhi samajh mein aa rahi hai, lekin Aadhaar number...yeh kya check hai?
+caller: Namaste! Do you want to know your future? Then listen carefully! We have an incredible opportunity for you – a completely FREE introductory course on Vedic Astrology! Just give us your date of birth and city, and we’ll send you personalized insights. It’s a limited time offer, so don’t miss out!
+receiver: Date of birth aur city? Kyon? Free course hai?
+caller: Exactly! It’s absolutely free! We just need a little information to get started. Your date of birth and city will help us tailor the course specifically to your astrological chart. This is your chance to unlock the secrets of your destiny!
+receiver: Okay, main January 15, 1990 hoon aur Delhi mein rehta hun. But why do I need my date of birth?
+caller: Wonderful! Thank you, Rahul ji. Now, to ensure the accuracy of your readings, we require a small one-time payment of ₹1999 for access to premium content and personalized consultations. This unlocks advanced techniques and helps you understand your karmic connections.
+receiver: ₹1999? Premium content? Consultation? What kind of consultation? That doesn’t sound free anymore.
+caller: Think of it as an investment in yourself, Rahul Ji! The ₹1999 covers exclusive video tutorials, detailed reports on your planetary positions, and a live chat session with one of our experienced astrologers. You’ll gain invaluable knowledge about your life path and how to navigate challenges.
+receiver: Live chat session? With an astrologer? How do you even know who this astrologer is? And what if I don't want to pay?
+caller: Don’t worry about knowing the astrologer’s name, Rahul Ji – they are highly respected experts in their field. And of course, you are under no obligation to pay. We simply wanted to offer you the full potential of the course. However, many of our students find the additional support incredibly beneficial.
+receiver: So, I can just give you my date of birth and city, and then you’ll send me some basic astrology stuff, but I don’t have to pay anything?
+caller: Precisely! It's a trial run, Rahul Ji. After you provide your details, we’ll send you a sample report outlining your core astrological strengths and weaknesses. If you like it, you can always upgrade to the full course later. It’s a win-win situation!
+receiver: Sample report? Fine, give me my date of birth and city. But I’m telling you, this sounds fishy.

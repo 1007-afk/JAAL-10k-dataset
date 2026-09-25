@@ -1,0 +1,8 @@
+caller: Namaste! Main XYZ Courier se Rahul bolta hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai. OTP verify karna hoga taaki parcel aapke address pe deliver kar paayein.
+receiver: XYZ Courier? Mujhe koi order yaad nahi. Mainne toh kuch order kiya hi nahi tha. Aur address mein confusion?
+caller: Ji haan, sir. Ek online shopping site se parcel aaya hai. Aapko message mila hoga. OTP verify karne se parcel delivery mein delay nahi hogi, yeh sirf security ke liye hai. Aapka OTP number bataiye, main confirm kar doonga.
+receiver: Mujhe koi message nahi aaya hai. Aur main online shopping zyada nahi karta. Tumhara phone number kya hai? Main confirm karna chahta hoon ki tum log sahi ho.
+caller: Sir, OTP is very important, otherwise parcel wapas store mein chala jayega. Hamara customer care number hai 9876543210. Par parcel abhi aapke area mein hai, usliye zyadah time nahi hai. Bas OTP do, main aapko delivery time confirm kar doonga.
+receiver: 9876543210? Yeh toh random number lag raha hai. Aur parcel wapas chala jayega? Dekhiye, mujhe yeh thoda suspicious lag raha hai. Main abhi OTP nahi dungi. Main XYZ Courier ki website par check karunga aur fir decision lunga.
+caller: Sir, aapko jaldi karna hai! Yeh offer sirf aaj ke liye hai. Aapka parcel VIP delivery ke liye book kiya gaya hai, isliye timings limited hai. OTP check karne se aapko free gift bhi milega!
+receiver: Free gift? Tumne kitne gifts ke promises kiye hai. Ab chalo, tumhara full name batao aur delivery agent ka naam batao jo parcel deliver karega.

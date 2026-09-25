@@ -1,0 +1,8 @@
+caller: Namaste sir, main Akash, LoanKing se baat kar raha hoon. Aapne online loan apply kiya tha, right? Just confirming.
+receiver: Haan, maine apply kiya tha. Kya update hai?
+caller: Ji sir, verification process mein kuch delay ho rahi hai. Aapko ek OTP aaya hai kya apne phone par? Woh share karenge toh process speed up ho jayega.
+receiver: Haan, OTP aaya. Yeh hai 789012.
+caller: Excellent sir! OTP confirmed. Abhi aapke account mein ₹7,500 approve ho gaye hain. Par processing fee ke hisaab se ₹1,500 ek account mein transfer karne honge.
+receiver: ₹1,500? Kitna zyada hai! Mein toh itna kuch nahi dene wala. Loan kitne ka tha?
+caller: Sir, yeh rules hain. ₹1,500 ke baad aapko ₹7,500 milenge, aur phir aap chahe toh use kar sakte hain. Agar aap nahi karte, toh loan approve nahi hoga. Aur agar aap delay karte rahe, toh case court mein ja sakta hai, aur aapki reputation damage ho jayegi.
+receiver: Yeh to loot hai! Mein police mein report karunga.

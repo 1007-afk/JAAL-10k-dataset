@@ -1,0 +1,8 @@
+caller: Hello? This is Bharat Mart Courier Services. We have a parcel addressed to you, but there's a small issue with the payment. Could you please verify a few details?
+receiver: Bharat Mart? I don't remember ordering anything. Which city is this parcel being sent from? And what kind of parcel is it?
+caller: It's being shipped from Jaipur, sir. It appears to be a high-value electronics item. To release the parcel, we need to confirm a small outstanding shipping fee of ₹750. It’s a standard procedure to prevent fraudulent orders.
+receiver: Seven fifty? That seems a bit high. Can you tell me the tracking number so I can check the details online? And what’s the item actually?
+caller: Absolutely, sir! The tracking number is BM7845921. The item is listed as ‘Audio Visual Equipment’. To process the payment, we just need a one-time OTP that we'll send to your registered mobile number. It's for security purposes, of course.
+receiver: OTP? Why do I need to give you an OTP? Shouldn’t I be paying through the Bharat Mart website directly? This sounds a bit fishy, to be honest.
+caller: Sir, due to a system upgrade, our online payment portal is temporarily unavailable. This OTP verification is a quick and secure alternative. Just send it, and your parcel will be dispatched immediately!
+receiver: System upgrade? That's convenient. I'm not comfortable giving out an OTP. I'll call Bharat Mart directly to confirm. Give me your customer care number.

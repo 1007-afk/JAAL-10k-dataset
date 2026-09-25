@@ -1,0 +1,9 @@
+caller: Hello! Mai Rahul se bol raha hoon, IDFC First Bank se. Aapke IDFC First Bank account mein cashback offer hai - Rs. 5000 cashback sirf UPI transaction karne par.
+receiver: Rs. 5000? Wow! Kaise karein? Mujhe toh koi message nahi aaya.
+caller: Haan, sir, message sabko nahi jaata. Aapko sirf ek chota verification karna hai. Ek collect request aapke PhonePe par generate hoga, sir. Aap woh accept kar lijiye, Rs. 100 ka. Verification ke liye.
+receiver: Rs. 100? PhonePe par collect request?  Yeh safe hai na?  Mujhe thoda doubt ho raha hai.
+caller: Bilkul safe hai, sir! IDFC First Bank ka offer hai.  Agar doubt hai toh aap PhonePe mein check kar sakte hain, mera naam Rahul IDFC dikhega.  Yeh offer sirf 15 minute mein expire ho jayega. Jaldi karo!
+receiver: Okay, fine.  Check karta hoon.  (pause) Haan, mujhe PhonePe par collect request dikh raha hai Rahul IDFC se.  Main accept kar deta hoon.
+caller: Excellent! Verification complete ho gaya hai, sir!  Ab aapka account active ho gaya hai.  Rs. 5000 cashback aapko 24 hours mein mil jayega.  Aapke trust ke liye shukriya!
+receiver: Mujhe abhi tak koi collect request nahi mila. Mein PhonePe mein dekh raha hoon.
+caller: Sir, jaldi check karo. Aapko offer accept karna padega tab cashback milega. Aapko dusre koi app se transaction karna hai.

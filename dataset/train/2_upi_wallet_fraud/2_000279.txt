@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Paytm Customer Care se Rohit bol raha hoon. Aapke Paytm wallet mein ₹5000 ka cashback offer aaya hai, sirf apne KYC details update karke.
+receiver: Kya? ₹5000 cashback? Main Paytm regular use karta hoon, kabhi offer nahi mila.
+caller: Ji sir, yeh ek special offer hai, sirf limited customers ke liye. Aapko sirf apna PAN card number aur aadhaar card ka last 4 digits verify karne hain. Bas itna hi!
+receiver: PAN card number? Aadhaar details? Paytm toh aise nahi deta. Yeh kuch gadbad lagi.
+caller: Sir, aap tension mat lein. Yeh completely safe hai. Humara data encryption system bahut strong hai. Offer claim karne ke liye, aapko ek OTP bhi verify karna padega, jo aapke registered mobile number par aayega.
+receiver: OTP? Okay, zara sochte hoon. Koi link bhejo mujhe WhatsApp pe, main wahan check karunga, Paytm app pe nahi.
+caller: Sir, hum WhatsApp pe direct link nahi de sakte, security reasons se. Aap Paytm app mein jaakar ‘Offers’ section mein check kar sakte hain. Wahaan yeh offer dikhega aur aapko verify karne ke liye kuch steps milenge. Jaldi kijiye, sir, offer expire hone wala hai.

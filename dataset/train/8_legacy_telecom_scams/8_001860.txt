@@ -1,0 +1,16 @@
+caller: Namaste ji, main DigiConnect ki taraf se bol raha hoon. Aapka Reliance Jio number hai na? Ji, main isko agar aapko Reliance Jio ka premium customer support free mein mil jaaye, wo toh amazing hoga! Just dial 555 from your Jio smartphone.  Aur koi suggestion chahiye aapko?
+receiver: Haan ji, sun raha hoon. Yani, main sirf 555 dial karunga toh mujhe free mein customer support milega?
+caller: Ji bilkul! Koi bhi problem, Reliance Jio related, ya kisi bhi tech issue, aap bas 555 dial kijiye aur hamare dedicated support team aapki madad ke liye ready rahenge. Iske alawa, aapko koi extra cost bhi nahi lagegi.  Aapko aur kuch malum karna tha?
+receiver: Nahi ji, aur kuch nahi. Bas yeh jaan na tha ki aisa facility hai. Shokriya batane ke liye.
+caller: Paka bahut bahut shukriya. Agar kabhi bhi koi problem aaye toh yaad rakhiye, bas 555 dial karna hai.  Digital Connect ke saath enjoy your Jio benefits! Goodbye.
+receiver: Theek hai ji, yaad rahega. Dhanyawad aapka bhi. Bye.
+caller: Great to hear that! Ji, definitely. Isse aapka Jio experience aur bhi smooth ho jayega. Aur koi questions hain aapke Digital Connect benefits ke baare mein? Bas ek chota sa detail check karna tha, aapka Jio account registration number kya hai taaki main yeh confirm kar sakoon ki aapke profile mein yeh offer correctly apply hua hai?
+receiver: Haan ji, mera Jio account registration number hai [Your Jio Account Registration Number]. Aap verify kar lijiye.
+caller: Namaste sir, main SmartPay ki taraf se bol raha hoon. Aapka Airtel number hai na? Ji, main aapko apne Airtel bill ko online payne ki ek naye tareeke ke baare mein batawana chahta hoon. Just dial 888 from your Airtel mobile. Kya aapko online payment karna pasand hai?
+receiver: Haan ji, sun raha hoon. Online payment karna acha hi hai. Lekin yeh naya tareeka kya hai?
+caller: Ji bilkul! Ab aap sirf 888 dial karoge aur humara SmartPay representative aapko voice command se apne bill ko easily payne mein madad karenge. Koi bhi confusion nahi hoga. Iske alawa, aapko koi extra charge bhi nahi lagega. Aapko koi aur information chahiye?
+receiver: Nahi ji, aur kuch nahi. Bas yeh jaan na tha ki aisa option hai. Shukriya batane ke liye.
+caller: Paka bahut bahut shukriya. Agar kabhi bhi aap apne bill ko Paytm karna chahen toh yaad rakhiye, bas 888 dial karna hai. SmartPay ke saath enjoy your Airtel connectivity! Goodbye.
+receiver: Theek hai ji, yaad rahega. Dhanyawad aapka bhi. Bye.
+caller: Great to hear that! Ji, definitely. Isse aapka Airtel bill payment process aur bhi convenient ho jayega. Aur koi questions hain aapke SmartPay benefits ke baare mein? Bas ek chota sa detail check karna tha, aapka Airtel SIM card activation date kya hai taaki main yeh verify kar sakoon ki aapke account mein yeh feature correctly enable ho gaya hai?
+receiver: Haan ji, mera Airtel SIM card activation date hai [Your Airtel SIM Card Activation Date]. Aap verify kar lijiye.

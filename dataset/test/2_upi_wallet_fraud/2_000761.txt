@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? This is Akash from TruPay Customer Care. We're calling about a recent transaction on your TruPay wallet - a payment of ₹200 to a vendor called 'OnlineGiftsHub'. Can you confirm this purchase?
+receiver: Haan, main Priya Sharma bol rahi hoon. ₹200 OnlineGiftsHub ko? Haan, maine kal ek gift order kiya tha.
+caller: Excellent. However, our fraud detection system flagged it as potentially suspicious. To safeguard your funds, we need to quickly verify your identity. We’ll send you an OTP to your registered mobile number. Please receive it and tell it to me.
+receiver: OTP? Aur aapko OTP kyun chahiye? Main ise phone pe dekhoon, fir bata dungi.
+caller: It’s a standard security protocol, Madam. We’re simply confirming you are the rightful owner of the wallet. It only takes a moment. The OTP has been sent.
+receiver: Okay, OTP hai 789012.
+caller: Thank you. Just one moment while I verify that... Right, now we need to ensure this vendor is legitimate. As a precautionary measure, we'll need you to transfer ₹50 to a secure TruPay holding account. This will temporarily freeze the suspicious transaction and allow us to investigate. The UPI ID is trupaysecurehold@upi.
+receiver: ₹50 transfer karun? Aur yeh holding account kya hai? Yeh toh kuch galat lag raha hai.

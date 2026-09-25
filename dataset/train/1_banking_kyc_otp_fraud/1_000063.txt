@@ -1,0 +1,18 @@
+caller: Namaste sir, main Bharat Telecom Support se hoon. Hum aapke mobile number ko secure rakhne ke liye helpline number verify kar rahe hain. Isliye aapko ek six digit OTP mila hoga. Plzz sir, wo OTP bataiye.
+receiver: Oh, haa. Ek moment please. Mujhe dikhao.Haan, aaya hai. Mera OTP hai 9376. Aap kya bol rahe hain? Haan, 9376.
+caller: Thank you sir. Ab verification khatam hone ke liye, mujhe aapke debit card ke last four digits chahiye. Credit card bhi chalega.
+receiver: Debit card ke last four digits? Uhm, ek second please. Mujhe check karna hai. Hold kijiye.
+caller: Haan sir, jaldi kijiye. Yeh process bahut important hai. Agar aap yeh information nahi denge to aapki service suspend ho jayegi. Plz, four digits bata dijiye.
+receiver: Uhm, sorry sir. Mera debit card number abhi yaad nahi aa raha. Kya yeh genuinely zaroori hai? Koi aur way nahi hai number verify karne ki?
+caller: Arre sir, yeh toh totally zaroori hai. Aapke mobile number ko security reasons se hamare system mein verify karne ke liye debit card details chahiye. Bina uske verification nahi ho sakta. Aapko yaad nahi hai kaunsa card link kiya tha? Thoda attempt kijiye. Dekhiye, hamara time aur aapka bhi waste ho raha hai.
+receiver: Sir, maine kah diya na, mujhe actually nahi pata. Karte kab link kiya tha, mujhe idea nahi hai. Kya koi alternate method hai? Message pe check kar sakte hain ya phir helpline number change kar sakte hain?
+caller: Hello sir, I’m calling from Vodafone Assurance Services. We’re updating your account details and need to confirm some information. A five-digit code has been sent to your phone – could you read it out for us, please?
+receiver: Okay, let me see… Yes, it arrived. The OTP is 7891. What did you say? Yeah, 7891.
+caller: Great! Now, to finalize this update, we require the last four digits of the PAN card associated with your Vodafone number. It’s crucial for our records.
+receiver: Last four digits of my PAN card? Just a sec, let me think... Could you maybe ask me some questions about my bill?
+caller: Absolutely! To ensure data accuracy, we need to confirm certain details. Can you recall approximately how much you paid on your last Vodafone bill?
+receiver: Um… I think around ₹800, maybe? Roughly.
+caller: That’s helpful. Now, can you provide the last six digits of the credit card you usually use to pay your bills? It helps us with fraud prevention.
+receiver: Six digits of my credit card? Honestly, I don’t remember exactly. I might have used a different one last month.
+caller: Sir, this is essential for maintaining the security of your account. We need to cross-reference the payment information. Don't worry, it’s just a quick confirmation. Which card were you using most recently?
+receiver: I really don’t know! I try to pay with cash whenever possible. Is there any other way to verify my account without giving this information?

@@ -1,0 +1,8 @@
+caller: Namaste, sir! Is this Mr. Rajesh Verma? I’m calling from Payback Rewards regarding your recent Flipkart purchase. There’s been an unusual transaction linked to your account, possibly fraudulent.
+receiver: Haan, main Rajesh Verma bol raha hoon. Flipkart? Fraudulent transaction? Mujhe kuch bhi nahi pata. Mainne abhi tak koi order nahi kiya tha.
+caller: Ji, sir. Our system detected a high-value transaction attempt from your account. To secure your funds, we need to verify your identity. Can you please share the last 4 digits of your debit card and the OTP you just received on your registered mobile number?
+receiver: Debit card ke last 4 digits? Aur OTP? Yeh thoda ajeeb lag raha hai. Flipkart toh kabhi aise nahi puchta. Kya ye secure hai?
+caller: Sir, absolutely secure! We’re following standard security protocols. The OTP is crucial to block the unauthorized transaction immediately. Without it, your entire account could be compromised. Just give me the OTP, sir, please. It's a matter of urgency.
+receiver: Urgency? Okay, wait a second.  Let me quickly check the Flipkart app myself.  I'll call you back after I confirm.
+caller: Sir, please don't delay.  Every second counts.  The fraudulent transaction could go through any minute!  Provide the OTP and I'll immediately block it. It's for your own safety, sir.
+receiver: Sir, please provide me with a valid Flipkart customer care number so I can cross-verify this information with them. I am not comfortable sharing my OTP over the phone without confirmation.

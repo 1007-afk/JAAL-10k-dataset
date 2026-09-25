@@ -1,0 +1,8 @@
+caller: Namaste, aapne humare notification ke baare mein suna hai ki aap ne ₹50,000 ka guarantee prize jeeta hai? Yeh bahut urgent hai! Aaj ka lottery result confirm karta hai ki aap jeet gaye hain, lekin aapko 09876543210 se call karna hai Delhi se landline se, aur "A12" bolna hai. Jeetna sirf 24 ghante ka time hai! Iske badle mein haar jayenge!
+receiver: Haan, sunaya tha. ₹50,000? Urgent laga hua hai? A12 bolna hai? Delhi se landline se call karna hai? Okay, try karta hoon. 24 ghante? Theek hai, thanks.
+caller: Achcha! Yaad rakhiyega, sirf Delhi se landline se aur A12 code zaroor bataiye ga. Time bahut kam hai, isliye jaldi karna hoga. Shubhkamnayen!
+receiver: Haan, bilkul. Delhi se landline pe hu abhi. A12 code yaad hai. Koshish kar raha hoon. Kya main kisi specific department se baat karunga, ya koi naam hai jinko main mention kar sakta hoon?
+caller: Kisi khaas department ka naam nahi hai, bas 'Prize Claim Department' keh sakte hain ya seedha 'A12 code' bataiye ga. Unko pata hoga. Jaldi kariye!
+receiver: Okay, Prize Claim Department. Ya A12 code. Got it. Call connect ho rahi hai... Hello? Hello? Koi hai? Lagta hai line busy hai ya network issue hai. Wapas try karunga landline se. Dhanyavaad.
+caller: Hello? Haan, woh number busy aa raha tha. Kya koi aur number hai? Ya thoda wait karke try karoon? Time nikalta jaa raha hai!
+receiver: Ugh, busy aa raha hai? Arre yaar, time bhi kam hai. Haan, thoda wait karke try karta hoon. Agar phir bhi busy aaya toh koi aur number hoga kya aapke paas? Ya yeh specific landline line hi hai?

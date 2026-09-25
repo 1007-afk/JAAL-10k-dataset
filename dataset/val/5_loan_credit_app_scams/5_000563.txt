@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I’m calling from FastCash Solutions. We’ve noticed you applied for a personal loan online. Congratulations, you’ve been pre-approved for a loan up to ₹50,000!
+receiver: Oh really? That’s great news! I did apply yesterday, but I wasn’t sure if I’d get approved.
+caller: Yes, Priya ji. Everything looks good. To finalize the loan, we just need a small processing fee of ₹2,500 upfront. This ensures your account is verified and the loan released immediately. It’s a one-time payment.
+receiver: ₹2,500? But I thought the loan was free to apply for?
+caller:  Processing fees are standard procedure, Priya ji. Don't worry, it will be deducted from your first loan disbursement. Otherwise, we'll have to cancel the approval, and you’ll lose the opportunity.  We can send you the loan agreement right away, you can read the terms and conditions.
+receiver:  Okay, fine. I’ll send you the money. What’s the account number?
+caller: Please transfer to this UPI ID: secureloans789@ybl.  Once the payment reflects, we'll activate your account and release the ₹50,000 within 15 minutes. But remember, Priya ji, if you fail to repay on time, we have a strict policy of informing your family and posting your details online.

@@ -1,0 +1,18 @@
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, humne aapke debit card ki security check karne ke liye call kiya hai. Kya aap apne card ko verify karna chahte hain?
+receiver: Haan, bol sakte hain. Parantu, mere paas HDFC ka koi debit card nahi hai.
+caller: Apsa HDFC mein koi debit card nahi hai? Sir, yeh bahut anokha situation hai. Shayad aapne apni card details online enter kar di hogi. Ek baar apne card number aur expiry date bataiye sir, phir hum check karenge.
+receiver: Card number aur expiry date? Bhai sahab, main ye kyon bataunga? Mein to sirf bol raha hu ki mera koi card nahi hai. Yeh dukaan mein kharidi hua card hai, digital payment ka time nahi tha.
+caller: Sir, ek minute ruk jaaiye. Main aapka name aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka full name kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Mera naam Deepak hai, aur mobile number jo aapko mil raha hai, woh meri hi hai. Lekin, HDFC mein mera koi account nahi hai. Agar aapko meri number chahiye hai toh aap khud bank website par jaakar dekh sakte hain. Lagta hai aapne galat number nikaala hai.
+caller: , ek minute ruk jaaiye. Main aapka name aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka full name kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Deepak hai aur mobile number jo aapko mila hai, woh meri hi hai. Agar aapko meri number dekho toh aapko bhi Deepak naam ka contact list dikhega.  Yeh genuinely HDFC mein koi account nahi hai.
+caller: Sir, agar aapko abhi bhi confusion hai toh main aapko bank office mein jaane ki suggestion dunga. Aap yahaan phone par wasting nahi hona chahiye.
+caller: Namaste sir, main HDFC Bank se bol raha hu. Sir, humne aapke debit card ki security check karne ke liye call kiya hai. Kya aap apne card ko verify karna chahte hain?
+receiver: Haan, bol sakte hain. Parantu, mere paas HDFC ka koi debit card nahi hai.
+caller: Apsa HDFC mein koi debit card nahi hai? Sir, yeh bahut anokha situation hai. Shayad aapne apni card details online enter kar di hogi. Ek baar apne card number aur expiry date bataiye sir, phir hum check karenge.
+receiver: Card number aur expiry date? Bhai sahab, main ye kyon bataunga? Mein to sirf bol raha hu ki mera koi card nahi hai. Yeh dukaan mein kharidi hua card hai, digital payment ka time nahi tha.
+caller: Sir, ek minute ruk jaaiye. Main aapka name aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka full name kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Mera naam Deepak hai, aur mobile number jo aapko mil raha hai, woh meri hi hai. Lekin, HDFC mein mera koi account nahi hai. Agar aapko meri number chahiye toh aap khud bank website par jaakar dekh sakte hain. Lagta hai aapne galat number nikaala hai.
+caller: , ek minute ruk jaaiye. Main aapka name aur mobile number dobara check karta hun. Shayad koi mistake ho gayi ho. Aapka full name kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Arre bhai, maine pehle hi kaha na, mera naam Deepak hai aur mobile number jo aapko mila hai, woh meri hi hai. Agar aapko meri number dekho toh aapko bhi Deepak naam ka contact list dikhega.  Yeh genuinely HDFC mein koi account nahi hai.
+caller: Sir, agar aapko abhi bhi confusion hai toh main aapko bank office mein jaane ki suggestion dunga. Aap yahaan phone par wasting nahi hona chahiye.

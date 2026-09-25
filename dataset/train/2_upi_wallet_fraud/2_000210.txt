@@ -1,0 +1,7 @@
+caller: Namaste! Mai Airtel Payments Bank se Atul bol raha hu. Aapke Airtel Payments Bank account mein ₹3,500 ka cashback offer hai, government scheme ke under.
+receiver: Oh, kya baat hai? ₹3,500 cashback?
+caller: Haan ji! Lekin isko claim karne ke liye, aapko ek small verification process complete karna hoga. Aapko ‘CLAIM’ number 45678 pe send karna hai, sirf ₹5 ka processing charge lagega.
+receiver: ₹5? Processing charge? Mujhe thoda doubt ho raha hai. Airtel Payments Bank toh free offer deta hai, toh phir charge kyun?
+caller: Ye charge sirf OTP verification ke liye hai, sir. Isse aapka account secure rahega.  ₹3,500 ka cashback miss mat karna! Hamara helpline number hai 022-1234-5678, Mumbai.
+receiver: Mumbai ka number hai? Okay… Aur main OTP kispe send karunga?
+caller: Aap ‘CLAIM’ number 45678 pe ₹5 send karein, aur OTP jo aapko milega, woh mujhe bataiyein. Tabhi cashback aapke account mein credit ho jayega. Jaldi karein, offer limited time ke liye hi hai!

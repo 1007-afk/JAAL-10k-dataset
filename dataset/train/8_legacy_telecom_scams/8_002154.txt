@@ -1,0 +1,8 @@
+caller: Namaste! Kaise haal hai? Main ek naye app ka prachar kar raha hoon, jo aapko online gaming mein madad karega. Aapke mobile par cricket aur kabaddi ke game khelne ki chance hai. Just message ‘GAME’ to 56789 agar aap khelna chaah rahe hain. Agar aap nahi khelna chaah rahein to 'CANCEL' message karein. Kya aap khushi se khelna chaah rahe hain?
+receiver: Namaste, main theek hu. Kahaan ki game hai? Main cricket ya kabaddi ka player nahi hun. Mein kisi bhi app mein sign up nahi karta.
+caller: Achaa, sorry sir/madam.  Theek hai, technically aapko signup karne ki zaroorat nahi hai. Lekin humare app ko try karna aapko pasand aa sakta hai.  Just one message to 56789.  Aur agar aapko koi problem hai toh 'CANCEL' message karein.  Koi tension mat lo.
+receiver: Suno, mujhe koi gaming app pasand nahi hai aur main ismein bhi interest nahi rakhta. Agar koi mistake hui hai toh please mujhe phir se aise calls mat kijiye. Main abhi 'CANCEL' message kar raha hoon, please confirm karein ki mera registration cancel ho gaya hai.
+caller: Haan ji, ‘CANCEL’ message aa gaya hai. Aapka registration cancel ho gaya hai.  Koi darr mat lagao, phir se call nahi aayega. Dhanyavaad.
+receiver: Theek hai, dhanyavaad. Bas, yeh sab pasand nahi aaya. Achha, bye.
+caller: Achha, dhanyavaad ki aap ne confirm kiya. Khushiyaan aapko help mili.  Aapka din achcha jaaye!
+receiver: Achha, dhanyavaad. Bas, yeh sab pasand nahi aaya. Achha, bye.

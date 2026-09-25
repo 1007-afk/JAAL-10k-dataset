@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from LoanExpress India. I see you recently applied for a personal loan. Congratulations, you're pre-approved for up to 10 lakhs! Just need a few quick details to finalize.
+receiver: Really? That’s great! I was hoping for a loan, but didn't think I’d get approved so easily. What details do you need?
+caller: Just your OTP verification code, and a small processing fee of ₹500 to activate your account and secure the loan. It’s a standard procedure to prevent fraud, madam. You can pay through UPI.
+receiver: ₹500? That seems a bit strange, doesn't it? I haven't had to pay anything like that before.
+caller: Madam, please understand, if you don't pay this small fee now, the approval will expire. Many people are taking advantage of this offer and are getting their loans processed right away. Don't lose out! Send the OTP and UPI payment confirmation.
+receiver: Okay, okay, just to get the loan. I'll do it.
+caller: Wonderful! Now, to ensure your security, we require a copy of your Aadhar card and a recent photograph. This is to verify your identity and protect you from identity theft. Please send them to this WhatsApp number: 9876543210.

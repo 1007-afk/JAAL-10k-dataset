@@ -1,0 +1,8 @@
+caller: Namaste! Main Amazon Customer Care se Rahul bol raha hoon. Aapke Amazon account par ek transaction hai jo suspend ho gaya hai. ₹4800 ka payment attempt fail ho gaya, aur security reasons se account temporarily block kar diya gaya hai.
+receiver: ₹4800? Fail ho gaya? Mujhe toh koi notification mila nahi. Maine abhi tak kuch order kiya bhi nahi tha. Kya pata chalega?
+caller: Haan sir, system mein dikh raha hai. Account protect karne ke liye, aapko ek OTP verify karna hoga. Main aapko abhi send karunga. OTP aane ke baad mujhe bata dijiye, taaki main aapko access restore kar sakun.
+receiver: Theek hai, check karta hoon. (pause) Sir, OTP mila hai – 123456. Par main thoda confused hoon. Amazon toh aise call nahi karta.
+caller: Haan sir, safety measure hai yeh. OTP verify hone ke baad, main aapko ek secure link bhejuunga jahan aap payment details check kar sakte hain aur account ko phir se activate kar sakte hain. Link par click karke details verify kijiye.
+receiver: Payment details? Mereko toh kuch bhi samajh nahi aa raha hai. Woh link bhi suspicious lag raha hai. Main police mein report karunga agar kuch bhi wrong nikla.
+caller: Sir, please don't worry. Account suspend ho jaayega otherwise. Just a quick verification process hai. Aapko ₹4800 ka loss bhi ho sakta hai. Aapka loss koi nahi chahata.
+receiver: ₹4800 ka loss? Arey bhai, pehle ₹4800 ka toh koi order kiya hi nahi. Main call kaat raha hoon. Ye scam hai!

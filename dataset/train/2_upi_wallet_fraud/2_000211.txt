@@ -1,0 +1,7 @@
+caller: Namaste Auntie, mai PhonePe se Rahul bolta hu. Aapke PhonePe account mein 5000 ka cashback offer aaya hai. Claim karne ke liye, is link pe click karein: http://cashback.quickpay.in
+receiver: Kya? 5000 ka cashback? Main PhonePe toh bilkul use karti hu. Par koi link toh mujhe nahi mila. Yeh link sahi hai kya?
+caller: Haan Auntie, sahi link hai. Offer limited time ke liye hai, sirf aaj ke liye. Jaldi se click karein, warna offer expire ho jayegi aur aapka loss ho jayega.
+receiver: Loss? Yeh cashback offer ki baat sunke toh mera mann lach raha hai, par kuch to gadbad lag rahi hai. PhonePe ka app khulte hi toh mujhe notification mil jata, na?
+caller: Haan Auntie, sometimes notification nahi aate. Hamara system update hone ke baad, direct link se offer claim kar sakte hain. Bas link pe click karein aur few details fill karein, aur 5000 rs aapke account mein deposit ho jayenge.
+receiver: Details? Kaunse details bharne hai? Mera phone number hi toh phonepe pe register hai. Aur yeh site bhi phonepe ki lagti nahi hai.
+caller: Bas Auntie, OTP bharne hai aur confirm karne hai. OTP aapke phone pe milega. Jaldi se karo, offer abhi khatam hone wali hai.

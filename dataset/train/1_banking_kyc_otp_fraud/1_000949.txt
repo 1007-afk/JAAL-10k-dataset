@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Axis Bank se technical support team se bol raha hoon. Aapke account mein kuch suspicious activity dikhai de raha hai.
+receiver: Kya? Suspicious activity? Kaun sa? Bataiye, kya hua?
+caller: Sir, ek OTP aaya hai, jo aapne nahi kiya tha. Account secure karne ke liye, please apna OTP aur Aadhaar card ka last 4 digits bataiye. Thodi der mein account suspend bhi ho sakta hai.
+receiver: Arey yaar, abhi OTP de doon? Main kabhi OTP phone pe nahi deta. Ye toh scam lag raha hai. Aapka naam kya hai aur bank ka ID number bataiye pehle.
+caller: Sir, time bahut kam hai. Account suspend hone se pehle verification karna hoga. Main Rahul Sharma hoon, Axis Bank technical support team. ID number 7892345. Account security aapki responsibility bhi hai.
+receiver: Rahul Sharma? ID number bhi fake lag raha hai. Aur OTP aur Aadhaar number, ek saath? Bank kabhi aisa nahi karta. Main police complaint karunga.
+caller: Sir, please mat karo. Yeh ek system error hai. OTP share karne se aapka account save ho jayega. Jab account secure ho jayega, toh hum aapko bata denge. Jaldi kariye sir.
+receiver: Bahut ho gaya. Main call cut kar raha hoon. Ye toh pakka scam hai.

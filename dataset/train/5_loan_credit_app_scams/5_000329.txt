@@ -1,0 +1,9 @@
+caller: Namaste, sir. Mera naam Rohan hai, FastLoanHub se. Aapki financial needs ke bare mein baat karne ke liye call kiya hai. Kya aapko jald se jald paise ki requirement hai?
+receiver: Haan, actually, mujhe thode paise chahiye the. Meri beti ki school fees pending hai.
+caller: Bahut achha! FastLoanHub mein hum instant loan provide karte hain, bilkul bina credit check ke. Aapko jitne bhi rupay chahiye, hum aapko de sakte hain. Kitne rupay chahiye aapko, sir?
+receiver: Hmm, ₹30,000 ka loan chahiye tha. Interest kitna lagega?
+caller: Sir, interest ka matter toh hai, lekin hamari special offer chal rahi hai. ₹30,000 ki loan, aapko ₹36,000 repay karne honge, sirf ₹6,000 ka extra charge. Aur loan aapke account mein 2 hours mein deposit ho jayega. Aapse sirf ₹500 ka processing fee chahiye, woh bhi online deposit karna padega.
+receiver: ₹6,000 extra? Yeh toh zyada ho gaya. Aur processing fee bhi? Mujhe nahi lagta yeh deal achchi hai.
+caller: Sir, yeh offer sirf limited time ke liye hai. Agar aap abhi agree karte hain, toh aapki beti ki fees time se pay ho jayegi. Think about it. ₹500 processing fee ke baad, aapko ₹36,000 repay karne honge. Apni beti ka future aage badho!
+receiver: Theek hai. Theek hai. Mein ₹500 deposit karta hoon. Payment kaise karun?
+caller: Sir, aapko hamari website pe jaake online payment karna hai: FastLoanHub.co.in. Payment ke baad,

@@ -1,0 +1,7 @@
+caller: Namaste, mein Axis Bank se Rahul Verma bol raha hoon. Sirf aapki account ki security ke liye call kar raha hoon. Aapka account mein suspend karne ka risk hai, toh mujhe aapki verification ke liye kuch details chahiye.
+receiver: Acha? Account suspend? Kaunsi problem hai? Mujhe toh koi message nahi aaya.
+caller: Sir, ek suspicious transaction detect hua hai. Kyunki aapke account se ek online transaction attempt kiya gaya tha, jo aapne nahi kiya tha. Isliye humein KYC update karna hoga. Aapka Aadhaar number aur PAN card number bataiye, please.
+receiver: Aadhaar number phone pe? Yeh thoda risky lag raha hai. Mein office mein hoon, abhi bata nahi sakta.
+caller: Sir, time bahut kam hai. Agar verification nahi hoti toh aapka account block ho sakta hai. Account block hone se aapki savings bhi stuck ho jayengi. Bas last four digits of Aadhaar number bataiye.
+receiver: Ok, ok. Last four digits [Receiver’s Aadhaar Last Four Digits]. Ab aur kya chahiye?
+caller: Thank you sir. Ab humein aapke debit card ke last three digits aur CVV number chahiye, is verification ke liye. Yeh urgent hai, sir.

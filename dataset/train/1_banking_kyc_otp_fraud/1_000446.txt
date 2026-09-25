@@ -1,0 +1,12 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan from Global Finance Solutions. We’re contacting you about a transaction flagged on your account from back in 2007 – a transfer of ₹50,000 to an unknown recipient.  Can you recall that at all, sir?
+receiver: Haanji, yeh Mr. Sharma ki line hai. Kaise ho aap? Global Finance Solutions se? 2007 mein ₹50,000 ka transaction? Mujhe abhi bhi yaad nahi aa raha... Wo toh kya tha?
+caller: Koi baat nahi sir, it’s completely understandable, it was quite some time ago. This was part of a security update initiated by our system to identify potentially fraudulent activity.  We need to verify this transaction for our records. Just to confirm, do you remember any details about the recipient’s name or contact information?
+receiver: Nahin, sir. Woh toh bahut door ka samay tha. Koi record nahi hai mere paas. ₹50,000 ka transaction 2007 mein… mujhe kuchh bhi yaad nahi.
+caller: Okay, no problem at all. Let me just run a quick check on my end. Could you please provide me with the last four digits of your PAN card for verification purposes? It’s standard procedure.
+receiver: Mein PAN number nahin batata. Yeh kitna serious matter hai? Isliye aap ₹50,000 ka transaction flag kar diya?
+caller: Sir, we are obligated by law to investigate any suspicious transactions. Providing this small detail will greatly assist us in resolving this quickly and efficiently. It only takes a moment. Please understand, this is for your own protection.
+receiver: Main abhi koi confirmation nahin dunga. Aapko koi investigation karne ke liye koi authorised person chahiye hota hai. Ye kaise call kar rahe ho?
+caller: I understand your concern, sir. We can arrange for an authorized investigator to contact you directly. However, this initial verification step helps us prioritize the case. The last four digits of your PAN, please? It's vital for us to proceed.
+receiver: Nahin, main nahin batunga. Main aapko koi bhi information nahin dega. Dhundhta rehna.
+caller: Sir, please consider this as a precaution against potential fraud. We value your cooperation. If you refuse to cooperate, we may have to escalate this matter to the authorities.  Just the last four digits, please?
+receiver: Nahin! Main koi risk nahin lena chahunga. Main aapko kuchh bhi nahin kehungi.

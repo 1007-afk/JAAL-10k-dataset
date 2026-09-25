@@ -1,0 +1,8 @@
+caller: Namaste! Main SecurePay Solutions se Rahul bol raha hoon. Aapke naam par ek account hai, aur usmein kuch suspicious activity dikhi gayi hai. Security ke liye, aapko apna account verify karna hoga.
+receiver:  Haanji, SecurePay Solutions? Kuch suspicious activity? Batao kya hua.
+caller:  Dekhiye, ek logon ne ₹7500 ka withdrawal attempt kiya hai. Account suspend hone se bachne ke liye, aapko thodi information provide karni hogi. Pehle, aapka Aadhaar card number confirm kijiye.
+receiver: Aadhaar card number?  Yeh theek nahi lag raha hai.  Bank kabhi Aadhaar number manta hai?
+caller:  Ms. Sharma, yeh ek standard procedure hai. Account ko secure karne ke liye humein verification karna padta hai. Jaldi karo, account suspend hone wala hai! Agar aap cooperate nahi karenge, toh aapka account freeze ho jayega aur aapka paisa bhi jam ho sakta hai.
+receiver:  Freeze ho jayega?  Aur mujhe koi option bhi nahi hai?  Kyun phone pe hi verification kar rahe ho?  Bank toh SMS ya email bhi karta hai.
+caller:  SMS ya email se security risk hai, Ms. Sharma.  Phone pe direct verification se aapki account safe rahegi. Aapka Aadhaar number bataiyein, please.  ₹7500 ka withdrawal attempt abhi pending hai.
+receiver:  Okay, thik hai.  Aadhaar number [Aadhaar Number Invented - e.g., 123456789012].  Par ek baat batao, yeh SecurePay Solutions se hi call hai, kya? Aapka number check kar sakta hoon?

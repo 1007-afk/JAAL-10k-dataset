@@ -1,0 +1,9 @@
+caller: Hello? Main Bharat Telecom se Rohan bolta hoon. Aapke naam par ek parcel aaya hai, lekin customs clearance mein thodi problem ho rahi hai.
+receiver: Parcel? Mujhe koi order nahi kiya tha. Kon sa parcel hai?
+caller: Sir, parcel mein kuch electronic gadgets hain, aur customs ko suspicion ho raha hai ki ye illegal trade ka hissa ho sakta hai. Aapko clearance ke liye 15,000 rupees bharne honge.
+receiver: 15,000? Lekin maine toh kuch bhi nahi order kiya! Ye kya bakwaas hai?
+caller: Sir, ye koi bakwaas nahi hai. Government ki guidelines hain. Agar aap payment nahi karte, toh parcel seize kar lenge aur aapke naam par criminal case bhi register ho sakta hai. Hum aapko video call pe connect kar sakte hain customs officer se, jisse aap directly baat kar sakein.
+receiver: Video call? Theek hai, karo video call. Par mujhe yeh mat dikhana ki wo customs officer hai, mujhe unka ID card dikhao.
+caller: Sir, ID card dikhana current rules mein allowed nahi hai. Lekin main guarantee karta hoon ki aapko customs officer se baat karne ka mauka milega. Aap jaldi se payment kar dijiye, warna bahut nuqsan ho sakta hai. Account number main aapko SMS kar raha hoon.
+receiver: Account number? Ek minute, main check karta hoon. Yeh message mujhe suspect lag raha hai. Main police se contact karta hoon.
+caller: Police? Sir, aapko police se phone karne ki zaroorat nahi hai. Ye ek standard procedure hai. Payment karte hi sab clear ho jayega. Time bahut kam hai, sir. Jaldi karein.

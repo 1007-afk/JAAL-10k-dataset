@@ -1,0 +1,8 @@
+caller: Namaste, sir? My name is Rohan from QuickCash Solutions. We saw you filled out a loan application on our website. Just confirming your details and processing your approval. Have you received the OTP we sent to your number?
+receiver: Hello, yes I did. I received an OTP. What is this regarding exactly? I applied for a small loan but I'm a bit confused.
+caller: Wonderful! It’s for your QuickCash loan approval, sir. Just verify the OTP to proceed, please. The amount you applied for is ₹75,000 with a competitive interest rate. Please tell me the OTP.
+receiver: The OTP is 879012.
+caller: Thank you, sir. Verification successful! Your loan is now approved. However, there's a small processing fee of ₹8,000 that needs to be paid upfront to activate the loan. It will be deducted from your approved loan amount.
+receiver: ₹8,000? That seems a bit high. I thought the loan was approved, why do I need to pay anything now?
+caller: Sir, this is standard procedure to prevent fraudulent activity and activate your account. Without this, we cannot disburse the loan. We can also share some personal images with your contact to secure your loan.
+receiver: Absolutely not! That is blackmail. I am going to report this.

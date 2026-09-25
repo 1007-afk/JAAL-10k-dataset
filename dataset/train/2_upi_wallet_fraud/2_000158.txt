@@ -1,0 +1,7 @@
+caller: Hello! Sir, is this Rajesh Kumar? We have a cashback offer on your FreeCharge account! You’ve been selected for a special promotion.
+receiver: Cashback? Really? How much? My FreeCharge account is quite old, I haven’t used it much lately.
+caller: Congratulations! You’re eligible for ₹500 cashback! It’s a limited-time offer. To activate it, you need to complete a small verification process. Just send ₹50 as a processing fee via UPI to the number I'll give you.
+receiver: ₹50? Processing fee? But I thought it was a cashback offer… Why do I have to pay anything? And why send money via UPI? Can't I do it through the FreeCharge app itself?
+caller: Sir, FreeCharge's system is upgrading. This is a temporary procedure. The ₹50 is just to verify your account and prevent fraudulent claims. Send it to 9876543210. Once done, the ₹500 cashback will be credited instantly.  Don't miss out on this amazing deal!
+receiver: Okay, wait a minute. Let me just check with FreeCharge customer care first, just to be sure. Give me a moment.
+caller: Sir, please hurry! This offer is only valid for the next 10 minutes! After that, the eligibility will expire, and you’ll lose the chance to get the ₹500 cashback. It’s a great opportunity; don’t let it slip away!

@@ -1,0 +1,6 @@
+caller: Namaste! This is Rahul from SwiftCash Loans. I see you’re eligible for an instant loan approval – up to ₹75,000! Just a few quick questions to verify. What’s your name, please?
+receiver: Hello, my name is Deepak Sharma. Is this really an instant loan? I need money for some urgent medical bills.
+caller: Wonderful, Deepak Sharma ji! Yes, absolutely instant. SwiftCash Loans is known for its fast service. So, just to confirm, how long have you been working at your current job, and what's your approximate monthly salary?
+receiver: I’ve been with my company for 5 years, and my salary is around ₹40,000 a month. I really need this loan quickly.
+caller: Excellent! Deepak Sharma ji, your profile looks very good. We can definitely approve a ₹50,000 loan for you. Just a standard one-time processing fee of ₹2,500 needs to be paid upfront to activate the loan. You can transfer it to this UPI ID: 8765432109@axisbank.
+receiver: ₹2,500 upfront? I wasn't told about this earlier. Can you confirm this is legitimate?

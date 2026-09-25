@@ -1,0 +1,16 @@
+caller: Namaste, kya haal hai? Main hoon Rajesh Sharma, calling from ‘Lucky Draw India’. You’ve been selected as a winner for the Diwali Mega Raffle! We’re thrilled to announce that you’ve won a brand new Samsung Galaxy S23 Ultra smartphone! Please call back 9876543210 immediately to confirm your win and arrange delivery. Congratulations!
+receiver: Namaste Rajesh ji. Haan, main sun raha hoon. Diwali Mega Raffle mein jeet gaya? Samsung Galaxy S23 Ultra? Seriously? Wah, yeh bahut achha samachar hai! Okay, main abhi call karta hoon 9876543210 pe. Shukriya!
+caller:  Arey yaar, bohut mazaa aa gaya! Sunke tumhare paas jeet mili hai.  Just confirm your address – Rajeev Kumar, Sector 12, Noida.  We need to verify it before sending you the phone.  Please call 9876543210 quickly.
+receiver: Rajeev Kumar, Sector 12, Noida.  Okay, woh meri address hai.  But what exactly do I need to do after I call? Is there any charge involved?
+caller:  Koi bhi charge nahi hai, sir.  It's completely free! Just a quick verification call.  And there are only 5 phones left available this week, so hurry up!  Call 9876543210 now.
+receiver:  Oh, sab chota-chota hai.  Theek hai, main abhi call karta hoon.  Yeh really exciting hai!  Thank you for letting me know.
+caller:  Bilkul, sir!  Aapne sahi suna, aur yeh bohot badi khushkhabri hai!  Hamare paas sirf 3 phones aur bache hain iss week ke liye, toh aapko turant hi call karna hoga 9876543210 par. Don't miss out on this incredible Samsung Galaxy S23 Ultra!
+receiver:  Arre, sirf 3 phones? Okay, okay, I’m dialing now…  Yaar, thank you for the reminder; otherwise, I might have forgotten!
+caller: Namaste, kya haal hai? Main hoon Rajesh Sharma, calling from ‘Lucky Draw India’. You’ve been selected as a winner for the Diwali Mega Raffle! We’re thrilled to announce that you’ve won a brand new Samsung Galaxy S23 Ultra smartphone! Please call back 9876543210 immediately to confirm your win and arrange delivery. Congratulations!
+receiver: Namaste Rajesh ji. Haan, main sun raha hoon. Diwali Mega Raffle mein jeet gaya? Samsung Galaxy S23 Ultra? Seriously? Wah, yeh bahut achha samachar hai! Okay, main abhi call karta hoon 9876543210 pe. Shukriya!
+caller:  Arey yaar, bohut mazaa aa gaya! Sunke tumhare paas jeet mili hai.  Just confirm your address – Rajeev Kumar, Sector 12, Noida.  We need to verify it before sending you the phone.  Please call 9876543210 quickly.
+receiver: Rajeev Kumar, Sector 12, Noida.  Okay, woh meri address hai.  But what exactly do I need to do after I call? Is there any charge involved?
+caller:  Koi bhi charge nahi hai, sir.  It's completely free! Just a quick verification call.  And there are only 5 phones left available this week, so hurry up!  Call 9876543210 now.
+receiver:  Oh, sab chota-chota hai.  Theek hai, main abhi call karta hoon.  Yeh really exciting hai!  Thank you for letting me know.
+caller:  Bilkul, sir!  Aapne sahi suna, aur yeh bohot badi khushkhabri hai!  Hamare paas sirf 3 phones aur bache hain iss week ke liye, toh aapko turant hi call karna hoga 9876543210 par. Don't miss out on this incredible Samsung Galaxy S23 Ultra!
+receiver:  Arre, sirf 3 phones? Okay, okay, I’m dialing now…  Yaar, thank you for the reminder; otherwise, I might have forgotten!

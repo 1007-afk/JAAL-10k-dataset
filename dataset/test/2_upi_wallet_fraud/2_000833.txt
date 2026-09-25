@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Verma? This is Akash calling from FreeCash Rewards.
+receiver: FreeCash Rewards? Haan, bolo.
+caller: We've detected that you've recently earned ₹12,500 in cashback rewards for participating in online surveys. To claim this, we need to verify your UPI details.
+receiver: ₹12,500? Meri toh survey nahi kiya, sir. Main toh kabhi online survey attend nahi karti.
+caller: Perhaps it was done through a family member's device, ma'am. Just to be safe, we require a small processing fee of ₹499 to release the funds into your PhonePe wallet.
+receiver: ₹499? Sir, yeh to fraud lag raha hai. Main kabhi bhi phonepe pe ₹499 nahi deposit karti.
+caller: Ma'am, this is a standard security protocol. Think of it as a small insurance premium to ensure the full ₹12,500 reaches you safely. Just send ₹499 to the UPI ID I'll provide.
+receiver: Nahi, sir. Main koi bhi rupaye nahi bhejoongi. Aur main police mein complaint karungi agar aapne mujhe disturb karna band nahi kiya.

@@ -1,0 +1,7 @@
+caller: Namaste, mera naam Vijay hai, BharatPay Customer Care se. Aapke BharatPay wallet mein ek ajeeb transaction hua hai, ₹499 ka. Aapne kuch bhi buy nahi kiya tha?
+receiver: ₹499? Nahin, maine kuch bhi nahi kharida. Woh kaise hua?
+caller: Sir, shayad aapke phone mein virus ho sakta hai. Hamein apne system ko secure karna hai, isliye humein aapka OTP verify karna hoga. OTP aapko BharatPay app mein milega.
+receiver: OTP? Main apna OTP kisi ko bhi nahi doonga. Ye bahut hi wrong lag raha hai. BharatPay ka official number se phone karo.
+caller: Sir, time nahin hai. Agar aap OTP nahi denge, to ₹499 ka transaction permanent ho jayega aur aapka account block ho sakta hai. Aapko nuksan hoga. Just give me the OTP, aur main aapka account secure kar dunga.
+receiver: Account block? ₹499? Par main BharatPay customer care number se phone karunga aur verify karunga. Main aapko koi bhi OTP nahi doonga.
+caller: Sir, official number busy hai, ye emergency hai.  Aapko fast action lena hai, otherwise aapka paisa gum hoga.  Agar aapko koi problem ho toh humein pata karo, lekin OTP without OTP we can't help you.

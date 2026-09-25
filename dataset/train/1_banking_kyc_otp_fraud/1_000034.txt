@@ -1,0 +1,8 @@
+caller: Namaste sir, Main Tata Digital support se bol raha hu. Aapki mobile number ke verification ke liye humein ek four digit OTP bhejna hai. Kya aap mujhe woh OTP bata sakte hain?
+receiver: Namaste, ek minute rukna hai. Mobile pe notification nahi mila.
+caller: Ji sir, ek hi moment mein notification nahi milta. Agar notification nahi mila toh aap apne phone ko reboot karke dekh sakte hain. Shayad OTP jaldi aa jaye. Ya main aapko phir se OTP send kar sakta hun?
+receiver: Theek hai, reboot karke dekhta hun. Agar OTP nahi mila, toh main aapko phir se call karta hun. Aapka naam kya hai?
+caller: Ji sir, Mera naam Sanjay hai, Tata Digital se. Aapki number par OTP abhi tak nahi aaya hai? Koi baat nahi, apne phone ko airplane mode mein dalkar ek minute baad normal kar dein. Ya main aapko phir se OTP send kar sakta hun?
+receiver: Arre haanji, airplane mode ka try karta hun. Aapse baat karna acha laga Sanjay. Dekhte hain OTP aata hai ya nahi. Agar OTP nahi aaya, toh main aapko call back karunga. Shukriya!
+caller: Ji sir, definitely try kijiye. Agar phir bhi OTP nahi aaya, toh main aapko phir se send kar dunga. Aur aapko koi aur question puchhna hoga? (Just a quick check, sir, do you need to update your registered email address?)
+receiver: Arre haanji, registered email address? Woh toh mujhe yaad nahi, Sanjay. Ek minute phone check karata hun, agar OTP aa gaya toh theek hai, nahi toh aap bata dega kya karna hai. Registered email address toh waise bhi mujhe yaad nahi aa raha.

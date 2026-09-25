@@ -1,0 +1,7 @@
+caller: Hey there! Saw your profile on 'SparkMatch' – you seem like a really cool person. My name's Veer, by the way. What’s keeping you busy tonight? 😊
+receiver: Hi Veer! Thanks! Not much, just relaxing after a long day. You too? SparkMatch is new to me, what made you join?
+caller: Glad to hear it! I joined because I'm looking for someone special, you know? Someone who gets me. I work in IT, pretty hectic, but I love travelling when I get a chance.  Been wanting to visit the Maldives, it looks so serene. What about you? What do you do, and where do you dream of going?
+receiver: IT sounds intense! I’m a teacher, so lots of marking and lesson planning. Maldives sounds amazing! I’ve always wanted to see Switzerland. Such beautiful mountains. So, Veer, what kind of music do you like?
+caller: Teaching is a noble profession! Switzerland is gorgeous too. I’m into Bollywood and some classic rock.  Listen, I was thinking… I’m actually traveling to Chennai next week for a conference, it's pretty last minute.  My flight got cancelled and I'm struggling to get a replacement. It’s a bit of a mess, to be honest. Could I maybe borrow ₹5000 just to cover the change fees? I'll pay you back the moment I get paid.
+receiver: Chennai? That's quite far. ₹5000 is a lot. I'm a little hesitant to lend money to someone I just met online. Could you maybe show me your flight details or something?
+caller: I understand your concern, totally fair! But everything is so hectic right now, and I can’t get to my phone easily. I'll send you a screenshot of the cancellation email once I

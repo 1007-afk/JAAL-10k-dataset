@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Deepu bolta hoon, Zomato Customer Care se. Aapke Zomato account mein ek suspicious transaction hua hai, ₹2500 ka.
+receiver: ₹2500? Kaunsa transaction? Mujhe toh koi notification aaya nahi.
+caller: Haan sir, ek order kiya gaya hai Delhi se, jo aapne nahi kiya hai. Urgent action lene ki zaroorat hai, warna aapke account se aur bhi paisa nikal sakte hain.
+receiver: Theek hai, toh mujhe kya karna chahiye?
+caller: Aapko OTP mil raha hai, woh mujhe bataiye, main issue resolve kar dunga. Aur apne Zomato app mein ‘Verify Account’ button click karein.
+receiver: OTP? Par yeh risky toh lag raha hai... Main Zomato app mein check karta hoon. Wait karunga.
+caller: Haan sir, jaldi karein. Time barbaad ho raha hai aur hacker access try kar rahe hain. Aapka account secure karna priority hai. Send karo OTP.
+receiver: Okay, ₹2500 ka order… wait… yeh toh fake order hai. Main police mein report karunga.

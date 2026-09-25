@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Rajan from the Delhi Customs department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Haan, theek hai. Suspicious items? Kya parcel? Mein toh koi parcel order nahi kiya tha.
+caller: Sir, our intelligence suggests the parcel contains electronic devices potentially used for illegal online gambling activities. You need to clear some pending charges related to this consignment to prevent further legal action.
+receiver: Illegal gambling? Lekin mein toh kabhi online gambling nahi karta! Yeh kya bakwas hai? Aapko kaise pata ki parcel mere naam se hai?
+caller: Sir, for your protection and to expedite the process, we require a small processing fee of ₹15,000 to verify the contents and clear the parcel. We need it urgently to avoid it being confiscated. We can do a video call to verify your identity.
+receiver: ₹15,000? Aur video call? Yeh kuch toh ghalat lag raha hai. Koi official receipt ya reference number de sakte hain aap? Mein custom department ke website check karta hoon.
+caller: Sir, due to security protocols, we cannot share official documents over the phone. The video call is mandatory to ensure the security of your personal information. Please, sir, cooperate so we can resolve this quickly. We have all your details, including your Aadhaar linked to the delivery address.
+receiver: Aadhaar linked? Bas kar, theek hai. Yeh scam hai! Main police mein complaint karta hoon.

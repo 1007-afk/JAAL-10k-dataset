@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We've detected suspicious activity linked to your import/export records.
+receiver: Haan, Inspector Sahab? Koi problem hai? Mein toh business kar raha hoon, legal hi sab kuch hai.
+caller: Yes, sir. It appears a large sum of money – ₹12 lakh – was declared as ‘textiles’ but flagged as potentially undeclared gold. We need to verify this quickly. To clear this up, we need you to transfer ₹50,000 to a secure government account as processing fee.
+receiver: ₹50,000? Lekin kaise? Aur yahaan koi secure account number nahin mila. Mein toh helpline number check karunga.
+caller: Sir, this is to expedite the process. Delay could lead to legal action. We're operating under strict time constraints.  I'll give you the account details directly. It's a designated account for swift clearances. Account number is 1234567890, IFSC code is ZSIB0001234.
+receiver: Beta, ye account number dikhta kuch sahi nahi hai. Yeh ZSIB bank ka hai? Aur kuch shak mein dal raha hai. Mujhe kuchh documents check karne do.
+caller: Sir, please don’t delay. Time is running out. We’ll hold you on this call to ensure your cooperation.  Just confirm the transaction is complete. Failure to comply will result in a warrant being issued. And can you please confirm your date of birth for verification?

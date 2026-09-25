@@ -1,0 +1,7 @@
+caller: Namaste! I hope you’re having a lovely evening. I noticed your profile on "DilSeConnect" – you seem like a very interesting person. I’m Rohan.
+receiver: Hello Rohan! Thank you. You too. DilSeConnect is fun, isn’t it? I’m Neha. What do you do?
+caller: It is! I'm a freelance photographer, travelling around India taking pictures of beautiful places. It’s my passion. I was just looking at your photos - you're smiling in most of them, that’s lovely! Listen, I'm in a bit of a bind – my camera equipment got delayed at the airport, and I’m missing a crucial photoshoot opportunity in Jaipur. Just need about 15,000 rupees to cover the emergency rental.
+receiver: Oh no! That's terrible luck, Rohan. Jaipur is quite far.  I hope you get it sorted quickly. 15,000 rupees is quite a lot, though.
+caller: I know, I know, it's a lot. But this photoshoot is really important for my career. It’s a big client. I’d pay you back as soon as I get my equipment. I can send you proof of the delayed shipment and the client's contract.  Just a small help, and I'll be eternally grateful. Can you possibly send it through UPI? My ID is rohan.photography@axis.
+receiver: Hmm, I’m a little hesitant to send money to someone I just met online. It feels a bit risky. Can you perhaps send me that proof first? I need to be sure. I’m not comfortable sending a large sum like that right away.
+caller: Absolutely, Neha! No worries at all. I completely understand. Here’s the screenshot of the shipment delay and a copy of

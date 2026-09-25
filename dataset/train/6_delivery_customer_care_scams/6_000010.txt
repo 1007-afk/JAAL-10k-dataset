@@ -1,0 +1,8 @@
+caller: Namaste, good evening! Thank you for answering. I’m calling regarding some unanswered calls from this number, 9876543210. Did you receive any calls from us recently? We just wanted to ensure you got the vital update.
+receiver: Hello, yes, I saw a couple of missed calls on my phone, but I was busy with work. What was the update about?
+caller:  Arre, no problem at all! It was a message about your recent purchase – you ordered a new smart watch, right? We were trying to let you know that the shipment is scheduled for delivery. Just checking if you received the confirmation email.
+receiver: A smart watch? Yes, I bought one last week from [Mention an online store name, e.g., ‘Amazon India’]. That's why I would have received an email. Let’s proceed with confirming my information.
+caller: Absolutely! Could you please tell me your full name and address so we can double check everything and make sure it arrives safely?
+receiver: My name is Priya Sharma, and my address is Sector 16, Noida, Uttar Pradesh, 201301. Please verify if this is correct.
+caller: Shukriya, Priya ji! Your address is Sector 16, Noida, Uttar Pradesh, 201301.  That’s perfect. Now, to finalize the delivery, we need to send a one-time password (OTP) to your registered mobile number to safeguard your package. Would you mind verifying that this number is still active? It’s the same number where you get your other messages too.
+receiver: Yes, it’s 9876543210. Send the OTP, please. I am ready to continue.

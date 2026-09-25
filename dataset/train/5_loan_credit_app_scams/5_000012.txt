@@ -1,0 +1,13 @@
+caller: Namaste! Kaise ho aap? Main Bharat Vikas Nigam se baat kar raha hu. Aapke ghar par ek yojna chal rahi hai, aur aapko usmein join hone ka prashansa kiya gaya hai. Aapko ₹50000 ka loan milega, lekin uske liye kuch documents chahiye.
+receiver: Namaste ji. Achcha, samjha. Loan milega? Kitni interest rate hogi?
+caller: Haan, interest rate kam hogi, sirf 6%. Aur aapko sirf 3 mahine mein paisa mil jayega. Lekin, agar aapko loan chahiye, toh hamein aapka Aadhaar card aur bank account number chahiye. Verification ke liye.
+receiver: Aadhaar card aur bank account number? Woh toh private information hai. Maine aisa kabhi suna nahi.
+caller: Arre bhai, yeh toh sirf verification ke liye hai. Aapko koi danger nahi hai. Humare website par aapko about this scheme jaise options bhi hain. Aapko jitna soon possible apply karna chahiye.
+receiver: Website? Mera internet connection band hai aaj.
+caller: Koi baat nahi! Then aapko humein phone par hi yeh form fill karna hoga. Just tell me your Aadhaar card number and bank account number. Agar aapko paisa nahi mila, toh humari koi salah nahi hai.
+receiver: Kya aap mujhse paiso ka screenshot le rahe hain?
+caller: Nahi bhai, screenshot nahi lene wala. Hum sirf aapke details verify kar rahe hain. Please, aapko yeh yojna benefit hona chahiye.
+receiver: Mein abhi soch raha hu. Helpline number bata do.
+caller: Helpline number 7845692310 hai. Koi darr mat lagana. Aapko ek badi deal mili hai.
+receiver: Dhanyavaad ji.
+caller: Aapki madad karke khush hua.  Aapko soon contact karenge.

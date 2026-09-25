@@ -1,0 +1,18 @@
+caller: Namaste, main ‘Prabha Fortune Services’ se baat kar raha hu. Kaise hain aap sab? Aapko ek bahut hi shubh khabar hai - aap ne ek lottery mein enter hua hai! Aur aapki ek SUV jeep jeetne ki badi-badi kismat hai! Lekin, humein kuch information chahiye hai agar aap jeetna chaah rahe hain. Aapke paas kya name hai?
+receiver: Namaste. Main theek hu, dhanyavaad. SUV jeep? Wo toh bahut achcha hai! Kya koi documents lagana padega?
+caller: Haan, zaroori hai. Aapko ek small form bharna hoga, jismein aapka address aur bank account number likana hoga.  Yeh sirf ₹500 ka form hai, lekin iske badle aap ek crore rupay ka cheque jeet sakte hain!  Aapka mobile number bhi chahiye, ji.
+receiver: Ek crore rupay ka cheque?  Wow! Mobile number…  Mai sun rahi hu.  Bank account number kaise de sakta hoon?
+caller:  Banking details jo bhi hain, chalegi. Parantu, humein aapke paas ek OTP (one-time password) bhi chahiye. Iske badle aapko ₹200 charge lagega.  Aapko sirf 3 attempts milengi, ji!  Chaliye, jaldi se bataiye.
+receiver: OTP? ₹200 charge?  Arre yaar, yeh toh bahut complicated ho raha hai!  Kahaan pehle kaha tha jo lottery mein enter hua tha?
+caller:  Aapne online form fill kiya tha, ji.  Aapki profile ID – 'Shanti789' - yaad rakhe.  Aapko sirf 2 chances bache hain, ji.  Jaldi se OTP bataiye!
+receiver: Shanti789...  Okay, main check kar rahi hoon.  Aur yeh OTP kab tak valid rahega?
+caller: OTP sirf 10 minutes ke liye valid rahega, ji.  Agar aap 10 minute mein OTP nahi bataate, toh aapka chance toot jayega.  Darrne layak nahi, ji!  Jaldi se reply karein!
+receiver: Arre yaar, 10 minute?  Theek hai, dekhti hoon. Shukriya!
+caller:  Arre haan ji, ab aapke paas sirf 1 chance bacha hai!  Jaldi se OTP bataiye, ya phir aap ₹1 crore ka cheque nahi jeet sakte!  Time over!
+receiver: Namaste. Main theek hu, dhanyavaad. SUV jeep? Wo toh bahut achcha hai! Kya koi documents lagana padega?
+caller: Haan, zaroori hai. Aapko ek small form bharna hoga, jismein aapka address aur bank account number likana hoga.  Yeh sirf ₹500 ka form hai, lekin iske badle aap ek crore rupay ka cheque jeet sakte hain!  Aapka mobile number bhi chahiye, ji.
+receiver: Ek crore rupay ka cheque?  Wow! Mobile number…  Mai sun rahi hu.  Bank account number kaise de sakta hoon?
+caller:  Banking details jo bhi hain, chalegi. Parantu, humein aapke paas ek OTP (one-time password) bhi chahiye. Iske badle aapko ₹200 charge lagega.  Aapko sirf 3 attempts milengi, ji!  Chaliye, jaldi se bataiye.
+receiver: OTP? ₹200 charge?  Arre yaar, yeh toh bahut complicated ho raha hai!  Kahaan pehle kaha tha jo lottery mein enter hua tha?
+caller:  Aapne online form fill kiya tha, ji.  Aapki profile ID – ‘Shanti789’ - yaad rakhe.  Aapko sirf 2 chances bache hain, ji.  Jaldi se OTP bataiye!
+receiver: Shanti789...  Okay, main check kar rahi hoon.  Aur yeh OTP

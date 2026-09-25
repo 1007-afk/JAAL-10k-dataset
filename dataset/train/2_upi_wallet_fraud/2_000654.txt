@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Amazon se call kar raha hoon. Aapke Amazon account mein ek transaction hua hai jismein ₹2499 ka deduction hua hai.
+receiver: ₹2499? Mujhe toh koi notification nahi aaya. Aur main toh kuch bhi order nahi kiya tha.
+caller: Sir, woh ek cashback offer tha. Aapne recently ek product purchase kiya tha aur aapko cashback milna chahiye tha, lekin verification ke liye aapka PhonePe UPI ID chahiye.
+receiver: Cashback offer? Kaunsa product? Aur mujhe PhonePe ID kyun chahiye? Amazon toh direct account mein transfer karta hai.
+caller: Sir, yeh ek new process hai. Security ke liye hum PhonePe se verify kar rahe hain. Sirf UPI ID bata dijiye, ₹2499 aapke account mein jald hi deposit ho jayega.
+receiver: Yeh toh bahut hi suspicious lag raha hai. Mein PhonePe ID kisi bhi unknown number ko nahi dene wala. Amazon direct call nahi karta.
+caller: Sir, yeh ek automated call hai. Sirf verification ke liye thoda time dijiye. Agar aap verification nahi karenge toh cashback ruk jayega aur aapka account suspend bhi ho sakta hai.
+receiver: Account suspend? Bhai, yeh toh blackmailing hai. Mein koi bhi information nahi dunga. Call cut.

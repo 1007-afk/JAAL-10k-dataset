@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from 'LoanHai.com'. We've pre-approved you for a loan of up to 7 lakhs, very quickly. Just need to confirm a few details.
+receiver: LoanHai.com? Really? That's good news. I need around 3 lakhs for some medical expenses.
+caller: Wonderful! We can certainly help with that, Priya ji. To finalize the approval, we need a small processing fee – just 5000 rupees as security. You can send it to this UPI ID: fastloanpay@xyz.
+receiver: 5000 rupees upfront? I haven't heard of any loan company asking for money before giving the loan.
+caller: It’s standard procedure, Priya ji. It verifies your commitment. Don't worry, it'll be deducted from your loan amount once it's disbursed. Otherwise, the loan will be cancelled. And, frankly, we have some very compromising photos of you on our system, that we can send to your family and friends if you don’t cooperate.
+receiver: Compromising photos? What are you talking about? I never sent any photos to anyone! This is a scam!
+caller: Don't play innocent, Priya. We have everything. Pay the 5000 rupees quickly and quietly, or face the consequences. Don’t try to be clever with us.

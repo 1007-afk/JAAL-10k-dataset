@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Ankit se baat ho rahi hai, Google Pay se. Hum aapko inform karna chahte hain ki aapke Google Pay account par ₹500 ka cashback offer hai, sirf aaj ke liye.
+receiver: ₹500 cashback? Really? How do I claim it?
+caller: Haanji, bilkul! Aapko sirf apna UPI ID verify karna hai. Iske liye, hum aapko ek OTP bhejenge, woh OTP humein bataiye. Aur ₹500 cashback aapke account mein directly deposit ho jaega.
+receiver: Okay, send the OTP. My UPI ID is 9876543210@yono.
+caller: Excellent! OTP hai 123456. Jaldi se bataiye, offer limited time ke liye hai.
+receiver: 123456. Done. When will I receive the cashback?
+caller: Thank you! Ab aapko apna bank account number dena hoga, taaki cashback ko transfer kar sake. Aapka account number, please?
+receiver: Wait a minute...This feels wrong. Why do you need my bank account number for a cashback?

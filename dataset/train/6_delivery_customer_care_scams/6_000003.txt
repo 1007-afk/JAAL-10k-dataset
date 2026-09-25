@@ -1,0 +1,17 @@
+caller: Hello? Is this Mr. Sharma? We’ve got some fantastic news regarding your recent purchase from Gadget Galaxy! Congratulations, you've won a premium upgrade!
+receiver: Haan, main Sharma ji hoon. Premium upgrade? Kya bol rahe ho? Gadget Galaxy se purchase kiya tha?
+caller: Absolutely! Because you were one of our top customers, we're giving you a free extended warranty and a shiny new Bluetooth speaker – absolutely incredible value! But hurry, this offer expires tonight.
+receiver: Wow! Free warranty aur Bluetooth speaker? That sounds amazing! Kya karna hoga?
+caller: Just need to confirm your shipping address, Mr. Sharma. It’s crucial for processing your upgrade. Can I get your postcode, please?
+receiver: My postcode is 110001.  Dekho, ye kitna interesting hai.  Aur surprise kya hai?
+caller: Excellent! Your upgrade will include a complimentary screen protector as well! And that’s not all… there’s a secret bonus waiting for you if you complete the order within the next hour. Don’t delay!
+receiver: Screen protector bhi free mein?  Great!  Sirf ek ghanta ka time hai?  Aapka number kya hai, jo baat kar rahe hain?
+caller: My name is Priya, and I’m calling from Gadget Galaxy. We only have three more units available for this promotion, so act quickly!
+receiver: Three units? Seriously?  Mujhe pata nahi, mujhe thoda suspicion hai.  What kind of Bluetooth speaker is it?
+caller: It’s the latest SoundWave X500 - incredibly powerful and crystal clear audio!  And because you’re such a valued customer, we’re throwing in a carrying case completely free. Only two left!
+receiver: Two left?  Okay, okay.  Let me think about it.  Mujhe ek minute dena, mujhe family ko batana bhi hai.  Aapka company ka naam kya hai?
+caller: Gadget Galaxy, of course!  We want to make sure you enjoy your upgraded experience.  Just remember, this exclusive deal ends tonight, and only one unit remains!
+receiver:  Arre yaar, itni pressure daalne waala offer nahi hai.  Mujhe seriously lena hai.  Tell me, what's the warranty period?
+caller: It’s a full five years, Mr. Sharma! A truly exceptional guarantee.  And believe me, you won't find a better deal anywhere else. Only one remaining!
+receiver: Five years?  That’s good.  But still, mujhe jitna time chahiye.  Thank you, goodbye.
+caller: Thank you for your time, Mr. Sharma! Have a wonderful day!

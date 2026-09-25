@@ -1,0 +1,7 @@
+caller: Namaste! I saw your profile on “ConnectHearts” – you seem like a really lovely person. Just thought I’d say hello and see if you’re open to a chat.
+receiver: Oh, hi! Thanks! I saw yours too. It's nice to connect with someone new. What do you do?
+caller: That’s good to hear! I’m Rohan, I work in IT, mostly remote these days. It’s a bit hectic, but the flexibility is good. I'm planning a trip to Goa next month, it's been a long time since I relaxed. You?
+receiver: Priya here. I’m a teacher, so it’s a bit busy with exams coming up. Goa sounds wonderful! I've always wanted to go. What are you planning to do there?
+caller: It's going to be great! I’m hoping to do some water sports, maybe explore the local markets. Listen, something came up, I need to pay a small customs fee to get my travel documents cleared for the trip, only about 15,000 rupees. It's urgent, and my bank is giving me trouble. Could you maybe lend me a small amount? I’ll pay you back as soon as I get there, I promise.
+receiver: 15,000 rupees? That's quite a bit. I'm sorry, Rohan, but I don't feel comfortable sending money to someone I just met online. It sounds a bit risky.
+caller: I understand your concern, Priya. I'm really in a bind here, and I wouldn't ask if it wasn't important. I’m sending you a photo of the customs form right now - please just check it. I'll share my location so you can see I'm at the airport. Just help me get

@@ -1,0 +1,9 @@
+caller: Namaste! This is the Cyber Crime Investigation Cell calling. We’ve detected suspicious activity linked to your bank account ending in 7891.
+receiver: Cyber Crime? What suspicious activity? I haven’t done anything wrong.
+caller: Sir, we’ve noticed several large transactions originating from your account to unknown cryptocurrency wallets. This strongly suggests your account has been compromised and is being used for money laundering.
+receiver: Cryptocurrency? That’s impossible! I don’t even know what cryptocurrency is. This has to be a mistake.
+caller: Unfortunately, sir, it's not a mistake. To prevent further financial loss and potential legal repercussions for you, we need you to cooperate. We need you to transfer ₹15,000 to a secure government account as a temporary security deposit.
+receiver: ₹15,000? Just like that? Why would I pay to secure my own account? This sounds fishy.
+caller: Sir, please understand, this is a standard procedure to verify your identity and demonstrate your willingness to cooperate with the investigation. Failure to comply will be recorded and may result in further action. We can provide you with the UPI ID.
+receiver: UPI ID? Which bank is this account with? I want to verify.
+caller: Sir, it’s a special account designated for these cases. We can’t disclose the bank details for security reasons. Just trust the process, sir. For your safety, please complete this transfer immediately.

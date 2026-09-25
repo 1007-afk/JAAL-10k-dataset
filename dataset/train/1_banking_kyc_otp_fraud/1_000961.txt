@@ -1,0 +1,8 @@
+caller: Namaste, main ICICI Bank se Atul Sharma bol raha hoon. Aapke naam par ek online transaction attempt hua hai, jo suspicious lag raha hai. Account secure rakhne ke liye, humein kuch details verify karne hogi.
+receiver: ICICI Bank se? Kaun se transaction? Mujhe koi message nahi aaya.
+caller: Haanji, sir. Ek international transaction attempt hua tha, PayPal se. Aapne kabhi PayPal use kiya hai? Verification ke liye, mujhe aapka OTP mil sakta hai? Woh bilkul secure hai, sir.
+receiver: OTP? Are you serious? Main kabhi PayPal use nahi karta. OTP kabhi nahi de sakta. Aapka naam aur employee ID batao? Aur ICICI Bank ka official number dedo.
+caller: Sir, aapko kuch doubt ho raha hai, samajh sakta hoon. Mera employee ID je-4298 hai. ICICI Bank ka official number hai 1800 108 0109. Par OTP bina OTP, kaise verify kar sakte hain, sir? Account block hone se pehle, zaroor bata dijiye.
+receiver: Ek minute rukiye. Main ICICI Bank website par check karta hoon.
+caller: Sir, jaldi karna chahiye. Time bahut kam hai, account block ho jayega. Bas OTP de dijiye, ek minute ka kaam hai. Sir?
+receiver: Sir, mujhe abhi OTP share karne mein jitna bhi discomfort ho raha hai, woh ek bhi minute se zyada hai. Mujhe yeh baat kaafi suspicious lag rahi hai.

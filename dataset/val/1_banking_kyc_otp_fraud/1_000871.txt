@@ -1,0 +1,10 @@
+caller: Namaste, mai call kar raha hoon ICICI Bank se. Aapka naam Rajesh Sharma hai, kya?
+receiver: Haan, mai Rajesh Sharma hoon. Kya baat hai?
+caller: Sir, aapke bank account mein kuch suspicious activity dikha raha hai. Ek transaction attempt hua tha Nepal mein. Aapne kabhi Nepal nahi jaate, na hi koi transaction kiya hai.
+receiver: Nepal mein? Yeh toh galat hai! Mai toh kabhi Nepal nahi gaya.
+caller: Haan sir, isi wajah se hum call kar rahe hain. Account ko secure karne ke liye, aapko apne PAN card number aur ek OTP dena padega jo aapke registered mobile number pe aayega.
+receiver: PAN card number? Aur OTP bhi? Yeh thoda ajib lag raha hai. Bank toh aise nahi puchta.
+caller: Sir, yeh standard security protocol hai. Agar aap details nahi denge, toh humko account ko temporary suspend karna padega. Kuch aur option nahi hai. Urgent hai sir, 24 hours mein.
+receiver: 24 hours? Thoda ruko. Mai bank ki official website pe check karta hoon.
+caller: Sir, website pe pata nahi chalega. Yeh system ka internal process hai. Time khatam ho raha hai sir, please cooperate kijiye. Account suspend na ho, toh jaldi details dijiye.
+receiver: Okay, ek minute ruk jao. Mai check karta hoon.

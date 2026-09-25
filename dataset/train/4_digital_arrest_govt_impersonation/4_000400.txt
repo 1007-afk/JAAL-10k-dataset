@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Amit Sharma? My name is Inspector Rajan from the Delhi Customs Department. We’ve intercepted a suspicious package linked to your name.
+receiver: Delhi Customs? What package? I haven't ordered anything recently.
+caller: Sir, the package contains items related to illegal cryptocurrency mining operations. There are serious charges attached – money laundering, sir. We need to verify your involvement. Can you please provide your bank account details so we can trace the source?
+receiver: Wait a minute! This sounds fishy. Customs wouldn't ask for bank details over the phone. Can you give me a reference number or a contact number for your department?
+caller: Sir, this is a sensitive matter, and time is of the essence. We can’t provide reference numbers over the phone for security reasons. Just tell me your bank account number and we'll resolve this quickly. Otherwise, we'll have to issue a warrant for your arrest and send officers to your residence. There's a fine of ₹5 lakh to settle this.
+receiver: ₹5 lakh? You're serious? I'm not giving you my bank details! This is clearly a scam. I'm reporting this to the cybercrime helpline immediately.
+caller: Sir, don't be foolish! This is your last chance to cooperate. We’re just trying to help you avoid a very serious legal situation. Confirm your account number now, or face the consequences.

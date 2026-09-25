@@ -1,0 +1,9 @@
+caller: Namaste sir, main Tata Digital Support team se hoon. Aapke mobile number ko verify karne ke liye humein ek four digit OTP bheja hua hai. Plz bolna OTP kya hai?
+receiver: Oh, thaak gaya. Ek minute, dekh leta hoon. Haan, aaya hai. Mera OTP hai 7391. Aap ne kya kaha? Haan, 7391.
+caller: Shukriya sir, OTP verify ho gayi. Ab humein aapke account mein kuchh update karna hai. Kindly bataiye, aapke credit card ke last four digits kya hai jo aapne Tata Pay Plus mein register kiya hai?
+receiver: Credit card ke last four digits? Uhm, ek second, mujhe check karna hai. Hold kijiye please.
+caller: Haan sir, jaldi kijiye. Yeh update bahut zaroori hai. Agar aap yahaan par nahin bata rahega to humari system mein error aa sakta hai. Plz 4 digits bata dijiye.
+receiver: Uh, maaf karein sir. Mera credit card number abhi yaad nahin aa raha hai. Kya yeh genuinely zaroori hai? Koi aur way hai verify karne ki?
+caller: Arre sir, yeh toh absolutely zaroori hai. Aapke mobile account ko secure rakhne ke liye hume credit card details chahiye. Bina uske hum aapki account validate nahi kar sakte. Kaise haal hai aapka bank? Thoda effort kijiye sir.
+receiver: Sir, maine kahin kaha tha na, mujhe yeh details yaad nahin aa rahi hain. Koi aur option nahi hai? Ya phir number pe bolta hoon.
+caller: See sir, tumhare account ko security ke liye humein yeh update karna hai. Humare paas bohat ziyada data hai, tumhari account ko risk mein daalna nahin chahte. Plz bataiye credit card ke last four digits.

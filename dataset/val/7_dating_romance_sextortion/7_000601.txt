@@ -1,0 +1,7 @@
+caller: Hello? Is this Aisha speaking? I'm calling from 'HeartsConnect', the dating app you're using. We have a very important notification regarding your account. Can you hear me clearly?
+receiver: Haan, hello. Yes, this is Aisha. What’s the notification? Everything okay?
+caller: Achha, very good! Aisha ji, we have detected a high level of interest in your profile. A gentleman named Vikram has expressed a strong desire to connect with you. He's a successful businessman in London, and seems very impressed with your profile.
+receiver: Vikram? London? Wow! Really? That’s… interesting. What does he want? Should I message him back?
+caller: Yes, please do! But before you do, there's a small verification process. Vikram is quite private, and HeartsConnect requires a small, refundable security fee to confirm you are a genuine user. Just ₹5,000. This guarantees a safe and secure connection.
+receiver: ₹5,000? For a verification fee? That sounds a bit much, doesn’t it? Are you sure this is HeartsConnect? I don’t recall anything about this on the app itself.
+caller: Aisha ji, don’t worry. This is a standard procedure for premium connections like this. Think of it as an investment in your potential happiness! And Vikram is a very valuable connection, you see. It's a small price to pay for such an opportunity. I can send you the payment link now.

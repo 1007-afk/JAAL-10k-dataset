@@ -1,0 +1,7 @@
+caller: Hello, this is Inspector Verma from the Delhi Customs Department. We have intercepted a package registered under your name containing suspicious items.
+receiver: Yeh kya keh rahe hain aap? My name? Suspicious items? I haven’t sent any package.
+caller: Sir, our records indicate a parcel was shipped from overseas with your address. It appears to contain illegal narcotics and counterfeit currency. You need to clear this immediately to avoid serious legal repercussions.
+receiver: Illegal narcotics? Counterfeit currency? That’s impossible! I haven’t ordered anything like that. Can you give me a tracking number or some proof?
+caller: Proof will be provided once a small processing fee of ₹15,000 is deposited to resolve this. This is to cover investigation and clearance costs. You can pay through UPI. This is to avoid an arrest warrant being issued against you.
+receiver: ₹15,000? Arrest warrant? This sounds like a scam! I am not paying anything until I see some proper documentation. I'm calling the police.
+caller: Sir, please don’t be hasty. This is a very sensitive matter. If you delay, things will escalate. Provide the UPI ID and we will send you a confirmation receipt. Time is of the essence, sir.

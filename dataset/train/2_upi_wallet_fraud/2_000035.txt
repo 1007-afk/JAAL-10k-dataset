@@ -1,0 +1,20 @@
+caller: Namaste ji, main Rajesh Kumar bol raha hun. Kaise chalne waale hain? Arre, wo online payment ka transaction dekha kya?
+receiver: Namaste Rajesh, main achcha hu. Jaise, thoda busy hu. Online payment ka transaction? Woh kaisa tha?
+caller: Arre yaar, wo Paytm wala transaction tha. Ek bahut bada amount transfer hua tha, lekin account mein nahi aya.
+receiver: Oh, Paytm mein toh technically kuch problem ho sakti hai. Kya error message dikha?
+caller: Nahi, koi error message nahi dikha. Just saying "Transaction Failed". Arre, tumhari help chahiye, tum video call kar sakte ho?
+receiver: Video call? Nahin, main abhi thoda kaam mein hu. Parantu, tum Paytm support ko contact kar sakte ho. Unka helpline number hai 6204XXXX.
+caller: Helpline number? Thoda wait karo, main check karta hu. Arre, tumhari help puri free hai? Kuch charge nahi lagega?
+receiver: Haan, Paytm support free hai. Koi charge nahi lagega. Tum unko detail bata do, woh dekh lenge.
+caller: Okay, thank you Rajesh. Main unko call kar raha hun. Just one question, account number bhi bata dena, taaki woh check kare.
+receiver: Account number? Nahin, bhai, account number share karna bandh karo. Yeh information secure nahi rehta. Paytm support ko bata do, they will handle it.
+caller: Namaste ji, main Rajesh Kumar bol raha hun. Kaise chalne waale hain? Arre, wo online payment ka transaction dekha kya?
+receiver: Namaste Rajesh, main achcha hu. Jaise, thoda busy hu. Online payment ka transaction? Woh kaisa tha?
+caller: Arre yaar, wo Paytm wala transaction tha. Ek bahut bada amount transfer hua tha, lekin account mein nahi aya.
+receiver: Oh, Paytm mein toh technically kuch problem ho sakti hai. Kya error message dikha?
+caller: Nahi, koi error message nahi dikha. Just saying "Transaction Failed". Arre, tumhari help chahiye, tum video call kar sakte ho?
+receiver: Video call? Nahin, main abhi thoda kaam mein hu. Parantu, tum Paytm support ko contact kar sakte ho. Unka helpline number hai 6204XXXX.
+caller: Helpline number? Thoda wait karo, main check karta hu. Arre, tumhari help puri free hai? Kuch charge nahi lagega?
+receiver: Haan, Paytm support free hai. Koi charge nahi lagega. Tum unko detail bata do, woh dekh lenge.
+caller: Okay, thank you Rajesh. Main unko call kar raha hun. Just one question, account number bhi bata dena, taaki woh check kare.
+receiver: Account number? Nahin, bhai, account number share karna bandh karo. Yeh information secure nahi rehta. Paytm support ko bata do, they will handle it.

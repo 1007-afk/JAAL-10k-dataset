@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein ek suspicious transaction detect hua hai. Security ke liye, aapko verify karna hoga.
+receiver: Oh, kya? Kuchh wrong transaction? Mujhe toh notification nahi aaya. Verify kaise karun?
+caller: Aapko sirf apne BharatPay app mein jake “Verify Now” button par click karna hai. Verification ke liye, humein ₹50 processing fee ki zarurat hai. Yeh fee sirf ek baar lagegi aur aapka account secure ho jayega.
+receiver: ₹50? Processing fee? BharatPay toh free transactions deta hai. Mujhe yeh thoda suspect lag raha hai.
+caller: Haanji, lekin yeh ek special security protocol hai. Fraud se bachaane ke liye. Aap ₹50 UPI ke zariye pay kar dijiye. Main aapko payment link send karta hoon. Iske baad aapka account totally secure ho jayega.
+receiver: Thik hai, send karo link. Par agar mera account secure nahi hua toh?
+caller: Bilkul secure ho jayega! BharatPay ki guarantee hai. Aap UPI ke zariye ₹50 pay kar dijiye, aur main aapko confirmation message send karta hoon.

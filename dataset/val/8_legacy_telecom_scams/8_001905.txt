@@ -1,0 +1,9 @@
+caller: Namaste! Kaise haal hai? Main Bharat Telecom se call kar raha hu. Aapke mobile mein ek important update hai, jo install karna zaruri hai. Agar aapko update install karna hai, toh please YES-123 bolo. Agar nahi karna hai, toh NO-123 bolo. Yeh aapki data safe rakhne ke liye hai, samajh gaye?
+receiver: Namaste ji. Update? Mobile mein update? Kya update hai? Bharat Telecom? Mujhe itna confusion ho raha hai.
+caller: Haan ji, Bharat Telecom ne aapko ek security update bheja hai. Agar aapko yeh update install karna hai, toh YES-123 boliye. Agar nahi karna hai, toh NO-123 boliye. Yeh aapki privacy ke liye bahut zaroori hai.
+receiver: Beta, maine kabhi update nahi kiya hai. Mujhe pata bhi nahi tha ki update likhte hain. Kya yeh update free hai ya paid? Aur ismein kya change honge?
+caller: Arre, yeh totally free hai ji! Bina kuch charges ke update install hoga. Ismein aapke device ka security badhega aur aapko new features mileinge. Jaldi boliye, sirf ek chance hai.
+receiver: Wait karo, wait karo... Yeh Bharat Telecom ka official helpline number kya hai? Mujhe check karna hai. Agar yeh genuine hai toh mein install karunga. Par agar fake hai toh...
+caller: Haan ji, aapka helpline number dil karaan hai - 1800-123-4567. Agar aapko koi doubt hai, toh aap uss number par call kar sakte hain. Jaldi reply dijiye, yeh update sirf 24 ghante ke liye available hai.
+receiver: Okay, okay... Main check karunga. Lekin mujhe abhi bhi thoda suspicion hai. Yeh Lyricalladie wala case bhi aisa hi tha.
+caller: Beta, yeh sab aapki security ke liye hai. Bharat Telecom ne aapko update bheja hai, woh install karein. Agar aapko koi problem aaye, toh hum madad karenge. Jaldi boliye, sirf ek aur chance hai.

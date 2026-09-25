@@ -1,0 +1,8 @@
+caller: Namaste! This is Aaditya from HDFC Bank. We’ve noticed some unusual activity on your account and need to verify your details urgently to prevent fraud. Can you please confirm your full name?
+receiver: Haan, namaste. Mera naam Rajesh Verma hai. Kya hua? Unusual activity matlab?
+caller: Thank you, Rajesh Verma ji. It appears someone attempted to transfer a large sum from your account yesterday. To secure your funds, we need to quickly verify your PAN card details. Just the number will do, sir. Don’t worry, it’s a standard security procedure.
+receiver: PAN card number? Sirf number? Thoda doubt ho raha hai. Why is this necessary all of a sudden? And why couldn’t I have received an SMS or email instead of a call?
+caller: Rajesh Verma ji, due to the urgency of the situation, a phone verification is the fastest and most secure method. This is to prevent the unauthorized transfer from going through. We just need to confirm the PAN number to ensure it's you. Please, we have to act quickly; otherwise, we might have to temporarily freeze your account.
+receiver: Freeze my account? Okay, wait a minute. Which branch are you calling from? Can you give me the branch code? I’ll just cross-check with my local branch.
+caller: Rajesh Verma ji, our security protocols prevent us from disclosing branch codes over the phone. However, I assure you this is a genuine call from HDFC Bank. To proceed with the verification, we'll now need a one-time password (OTP) sent to your registered mobile number for final confirmation. It’s just a final step, sir.
+receiver: OTP? Now you want an OTP? This is getting too fishy. I'm not giving you anything until I verify this call myself. I'm going to call HDFC directly from their

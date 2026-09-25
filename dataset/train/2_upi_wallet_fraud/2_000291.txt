@@ -1,0 +1,8 @@
+caller: Namaste, main Priya hu Axis Bank se. Aapke naam par ek online transaction hua hai ₹200 ka Flipkart par, jo aapne approve nahi kiya hai.
+receiver: Oh, really? Main toh Flipkart pe kuch bhi order nahi kiya tha.
+caller: Haan ji, lekin transaction ho gaya hai. Aapko apne account ko secure karne ke liye kuch steps lene padenge. Main aapko OTP bhejuungi, usse verify karke batao.
+receiver: Theek hai, OTP bhijhao. Main check karunga.
+caller: OTP hai 123456. Verify karke batao. Aur iske saath hi, humein ₹50 ka verification fee chahiye, kyuki fraud ko rokne ke liye humko ek system check karna padega. UPI ke through send kardo.
+receiver: ₹50? Verification fee? Fraud to aapne hi kiya hai, aur ab mujhse paise maang rahe ho?
+caller: Sir, yeh process hai. Without verification we can’t do anything. Just ₹50 send UPI par, naam likh do “Axis Security Check”. Jab ₹50 aa jayega, toh main aapka account secure kar dungi.
+receiver: Theek hai, main ₹50 bhejta hu. Par agar account secure nahi hua toh main police mein report karunga.

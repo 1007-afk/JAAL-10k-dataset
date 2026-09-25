@@ -1,0 +1,6 @@
+caller: Hello sir, mai Paytm se Rahul bol raha hu. Aapke Paytm wallet mein ek transaction fail hua hai.
+receiver: Kya transaction fail hua? Mujhe koi notification nahi aaya. Aur main Paytm hi use karta hu.
+caller: Haan sir, technical error ki wajah se. Aapko isko verify karna hoga aur ₹50 ka processing fee bhar dena hai, warna aapka wallet suspend ho sakta hai.
+receiver: ₹50 fee? Paytm mein toh kabhi koi fee nahi lagti hai. Aur suspend bhi karega?
+caller: Sir, ye emergency hai. Scam prevention protocol ka part hai. Aapko Paytm app mein ek link milega, us par click karke fee bhar dijiye. Jab fee bhar di jayegi, toh wallet automatically activate ho jayega.
+receiver: Link kahan milega? Mujhe koi link nahi mila. Aur meri doubt hai. Main koi bhi link click nahi karunga, jo bhi ho. Aapko block kar dunga!

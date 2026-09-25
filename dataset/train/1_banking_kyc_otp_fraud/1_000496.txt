@@ -1,0 +1,8 @@
+caller: Haanji, main SBI se bank manager bol raha hoon. Aapka debit card expire hone wala hai, kya aap naya card issue karwana chahenge?
+receiver: Haanji, bataiye. Kahan se bol rahe hain aap? SBI se? Achha, naya card issue karwana hai? Mera abhi expire ho raha hai kya?
+caller: Haanji, bilkul. Aapka debit card jo aap use kar rahe hain, woh 31st December ko expire ho raha hai. Isliye maine aapko call kiya hai taaki koi problem na ho aapko. Aapka new card hum immediately issue kar denge. Bas kuch details verify karni hongi.
+receiver: Theek hai, bataiye kya details chahiye? Aur koi charges to nahi lagega na naye card ka?
+caller: Ji bilkul, sir/madam. Naye card ka koi extra charge nahi hai, yeh bilkul free of cost hai. Humein bas kuch basic details verify karni hai for security reasons. Aapka full name, date of birth, aur aapke registered mobile number ke last 4 digits bata sakte hain? Yeh sab details hamari system mein verify karne ke liye chahiye taki hum confirm kar sakein ki hum sahi person se baat kar rahe hain.
+receiver: Haan, full name hai [Apna naam bataiye], date of birth hai [Apni date of birth bataiye]. Aur mobile number ke last 4 digits hain [Apne mobile ke last 4 digits bataiye].
+caller: Bahut shukriya, [Apna naam bataiye] ji. Yeh details bilkul sahi hain. Ab bas ek choti si verification aur karni hai. Aapke registered mobile number pe ek OTP bhej rahe hain hum. Kya woh aapko receive ho gaya hai? Woh OTP mujhe bata dijiye taaki hum process ko aage badha sakein aur aapka naya card launch ho sake. Koi charge nahi hai, yeh bilkul free hai.
+receiver: Haanji, OTP aa gaya hai. OTP hai [OTP bataiye]. Aur yeh card kab tak milega mujhe?

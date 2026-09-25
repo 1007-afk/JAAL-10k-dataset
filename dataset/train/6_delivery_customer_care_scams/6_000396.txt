@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? We're calling from Bluestar Courier regarding a pending delivery for you. It seems there’s been an issue with customs clearance.
+receiver: Haan, yahan Mr. Verma bolte hain. Customs clearance? Kya hua?
+caller: Sir, a small fee of ₹2,800 is required to clear the documentation. It's a standard procedure for international packages. We can provide a secure payment link.
+receiver: ₹2,800? But I didn't order anything expensive. Could you please tell me the tracking number, so I can check the details myself?
+caller: Absolutely, sir. The tracking number is BW789456123. However, due to the urgency, we need to process the payment quickly to avoid further delays. Can you share the last four digits of your bank account for verification purposes?
+receiver: Wait a minute. I’m not comfortable sharing my bank details over the phone. I’ll check the Bluestar Courier website myself.
+caller: Sir, this is a very sensitive matter. Sharing just the last four digits is necessary for security protocols. It’s a one-time verification, sir. Please, help us expedite the process.
+receiver: No, I’m not going to do that. I think I’ll call Bluestar directly using the number on their official website. Goodbye.

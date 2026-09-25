@@ -1,0 +1,7 @@
+caller: Hello, is this Anjali Verma speaking? This is Rahul from BlueSpark Logistics. We're calling regarding a parcel addressed to you, originating from Meesho. There’s been a slight issue with the customs clearance documentation.
+receiver: Haan, yes, speaking. What kind of issue? I was expecting a package, but hadn't received any notifications.
+caller: Yes, madam. It seems there’s a discrepancy in the declared value. To proceed with delivery, we need to quickly verify a few details and process a small holding fee to cover the customs processing charges. It’s only ₹750.
+receiver: ₹750? For customs? I usually don't pay anything for customs. Meesho always delivers free. Are you sure you're from BlueSpark?
+caller: Absolutely, madam. This is a standard procedure to resolve these discrepancies swiftly. We can't release the parcel without this verification. To secure the delivery today, could you please share the last four digits of your credit card for the holding fee? It’s just a temporary hold; it will be refunded immediately after clearance.
+receiver: Wait a minute. This feels a bit fishy. I'm going to check the Meesho app. Can you give me a tracking number to verify?
+caller: Certainly, madam. The tracking number is XW987654321. However, time is of the essence, and the courier team is waiting to dispatch the parcel. This is a limited-time offer to ensure delivery today. Providing the last four digits now is crucial to avoid delays.

@@ -1,0 +1,9 @@
+caller: Hello, is this Sunil Verma? I'm calling from GlobalTradeX. We've identified you as a potential investor with a keen interest in emerging markets.
+receiver: Yes, speaking. GlobalTradeX? I don't recall ever signing up with you.
+caller: No worries, sir! We’re reaching out proactively. We have a limited-time opportunity in a new cryptocurrency called StellarCoin – it's projected to give 30% returns in just 7 days! Very low risk. You just need to deposit a small amount to get started, say ₹5000?
+receiver: 30% in a week? That sounds incredibly high. What’s the catch? And how do you know I’m interested in crypto?
+caller: Sir, it’s a new initiative backed by several reputable financial institutions. To show your commitment and access the StellarCoin platform, we require a verification deposit. We'll release the profits plus your initial investment once the transaction completes. It’s a simple process.
+receiver: So, I send you ₹5000, and you'll give me access to this StellarCoin? And then I'll get 30% profit on top of that? Can I see some proof of these ‘reputable financial institutions’?
+caller: Absolutely, sir.  We’ll send you the details of our payment gateway - PaySecure. Once you've made the deposit, we’ll provide you with the StellarCoin wallet address. Do you have PaySecure installed on your phone?
+receiver: Wait a minute. PaySecure? I’ve heard stories about that being used in scams. I'm not comfortable with this. I think I'll pass.
+caller: Sir, please reconsider! This is a genuine opportunity. The window is closing fast.  We can extend the offer for another 15 minutes

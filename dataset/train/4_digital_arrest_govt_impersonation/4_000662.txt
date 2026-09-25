@@ -1,0 +1,8 @@
+caller: Hello, this is Inspector Verma calling from the Directorate of Enforcement. We have detected suspicious activity linked to your UPI ID. A large sum of money, 2.5 lakhs, was transferred from a known shell company involved in hawala transactions.
+receiver: Kya? 2.5 lakhs? Mere UPI ID se? Woh transaction main dekhunga. Inspector Verma? Kahan se call kar rahe hain aap?
+caller: Sir, we are investigating a serious case of money laundering. Your UPI ID was inadvertently used as a receiver. To clear your name and prevent legal action, we require you to provide some information and a small security deposit of 10,000 rupees. This is just to secure the investigation.
+receiver: 10,000 rupees? Lekin main toh koi transaction nahi kiya. Aur legal action? Kaise mere upar case ho sakta hai?  Mai toh koi hawala nahi karta.
+caller: Sir, please understand the urgency. We need to verify your details immediately. To proceed, please send 10,000 rupees via UPI to the following ID: 8765432109@axisbank.  This is a standard procedure to confirm your cooperation.  We’ll need the transaction screenshot.
+receiver:  Wait a minute.  Ek standard procedure? Yeh toh bahut suspicious lag raha hai. Koi bhi official department aise UPI pe money maangti hai? Aur screenshot bhi maang rahe hain?  Inspector Verma ji, main aap se phone pe baat nahi kar sakta, aap mujhe senior officer se connect karwa dijiye.
+caller: Sir, time is running out. The court is about to issue a warrant. Quickly send the amount to secure your future.  The UPI ID is 8765432109@axisbank, do it now!
+receiver:  Arrey yaar! Ab toh

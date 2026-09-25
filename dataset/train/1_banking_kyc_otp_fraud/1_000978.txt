@@ -1,0 +1,8 @@
+caller: Namaste, mein hu Aditya Verma, Axis Bank se. Aap se ek urgent matter par baat karne ki zarurat hai. Aapka naam Priya Sharma hai, correct?
+receiver: Haan ji, mein Priya Sharma hoon. Bolo, kya baat hai?
+caller: Ji, Priya ji, aapke naam par ek suspicious transaction ki report mili hai. 50,000 rupees ka withdrawal attempt kiya gaya hai. Aapne kiya ya nahin?
+receiver: 50,000? Nahin, maine koi withdrawal nahi kiya! Yeh kya ho raha hai?
+caller: Dekhiye, Priya ji, aapki account ki security ke liye, humein aapke OTP aur Aadhaar card ke last 4 digits verify karne hone chahiye. Yeh bahut important hai, warna aapka account suspend kar diya jayega.
+receiver: OTP aur Aadhaar number? Par yeh toh risky hai! Mein bank ke official number pe call karke verify kar sakti hoon. Mujhe woh number de do.
+caller: Priya ji, time bahut kam hai. Account suspend hone se pehle, aapko fast action lena hoga. Yeh verification process hi aapki account ko save karegi. Aapko thoda aur trust karna hoga. Ab OTP share karein.
+receiver: Nahin, nahin, mein OTP nahi dungi. Tumhara baat karna mujhe suspicious lag raha hai. Mein khud bank mein jaungi aur check karungi.

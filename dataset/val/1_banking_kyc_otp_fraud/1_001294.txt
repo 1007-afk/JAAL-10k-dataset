@@ -1,0 +1,8 @@
+caller: Namaste madam, mai Axis Bank se Rohan bol raha hoon. Aapke naam par ek transaction hua hai ₹12,000 ka, Nepal mein. Aapko pata hai kya is bare mein?
+receiver: Nepal mein? ₹12,000? Mujhe toh koi idea nahi hai. Mai toh aaj kal ghar par hi hoon.
+caller: Haan madam, ye bahut urgent hai. Koi fraudster aapke account se illegal withdrawal try kar raha hai. Aapko apne account ko secure karne ke liye kuch details verify karni hogi. Pehle bataiye aapka OTP kya hai jo SMS aaya hai?
+receiver: OTP? Sir, mujhe yeh thoda suspicious lag raha hai. Axis Bank se aise calls aate hain? Aur Nepal mein transaction?
+caller: Madam, time bahut kam hai. Account suspend hone se pehle, OTP bataiye please. Aur OTP ke saath, mujhe aapki dob aur mother’s maiden name bhi chahiye taaki mai account pe verify kar sakoon.
+receiver: Dob aur mother’s maiden name? Ye toh zyada ho gaya. Mai bank branch mein jaakar verify karwaungi. Aap mujhe branch address de sakte hain?
+caller: Madam, branch mein line lagenge aur time bhi waste hoga. Isiliye mai aapko yahan se hi help kar raha hoon. Jaldi se OTP dijiye, warna account block ho jayega. Aur mujhe aapke PAN card ka pehla 6 digits bataiye.
+receiver: PAN card ke digits? Mai abhi phone kaat rahi hoon.

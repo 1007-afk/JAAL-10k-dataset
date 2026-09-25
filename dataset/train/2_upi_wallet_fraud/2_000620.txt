@@ -1,0 +1,7 @@
+caller: Namaste Aunty, mai BharatPay customer care se Rahul bolta hu. Aapke BharatPay wallet mein ₹499 ka cashback offer aa gaya hai.
+receiver: Oh, bilkul? Mujhe toh pata hi nahi tha. Cashback offer?
+caller: Ji haan, lekin is offer ko claim karne ke liye, aapko ek small verification process complete karna hoga. Aapko apna BharatPay OTP share karna hoga.
+receiver: OTP? Par woh toh confidential hota hai na?
+caller: Haan ji, lekin worry mat karein. Yeh security check hai. Jab aap OTP share karenge, toh aapka cashback automatically activate ho jayega.
+receiver: Theek hai, theek hai. Mera OTP hai 987654.
+caller: Shukriya Aunty. Abhi aapke BharatPay wallet mein ₹499 cashback credit ho gaya hai. Enjoy karo!

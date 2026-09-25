@@ -1,0 +1,7 @@
+caller: Namaste, mai Indian Customs se Manish Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai port par, lekin usmein illegal items mile hain.
+receiver: Illegal items? Yeh kya keh rahe hain aap? Mere naam par parcel? Mujhe toh koi parcel order nahi kiya tha.
+caller: Ji, parcel mein suspicious powder mili hai. Isliye case register kiya gaya hai. Aapko is matter mein court mein haazir hona hoga, warna fine lag sakta hai aur arrest bhi ho sakta hai.
+receiver: Arrest? Sir, yeh serious allegation hai. Koi proof hai? Mujhe parcel number toh batayein, ya koi reference number?
+caller: Parcel number hai IN3458792. Lekin court mein haazir hone se pehle, aapko 15,000 rupees ka bail deposit karna padega. Yeh amount humare designated account mein transfer karein.
+receiver: 15,000 rupees? Sir, yeh toh bahut zyada hai! Aur aapko direct account number kyun chahiye? Koi official online payment method kyun nahi hai? Mujhe kuch gadbad lagi. Mai apni lawyer se baat karti hoon.
+caller: Madam, time bahut kam hai. Court aaj hi decision lega. Agar aap abhi bail deposit nahi karti, toh police aapke ghar aayegi aur arrest karegi. Please, jaldi karein!

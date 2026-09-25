@@ -1,0 +1,8 @@
+caller: Namaste, kaise haal hai aaj? Ummeed hai ki aapko ek achha din chal raha hai. Main GlobalTech se baat kar raha hu, aur mujhe aapke liye ek bahut hi khushi daaniye news hai humare monthly contest ke bare mein.
+receiver: Namaste! Main theek hoon, shukriya ki pooche. Ek achha din hai, toh! GlobalTech, bol rahe ho? Khushi daaniye news suno! Bataiye, kya ho raha hai?
+caller: Yah bahut accha hai sunkar! To, jantaa hai na humara ₹5000 ka monthly contest chal raha hai, aur aapko randomly select kiya gaya hai free entry le ke. Aapko bas "ENTER" message 99900 par jaari karna hai abhi. Yeh bahut saani hai, aur aapki mushkiliyat kahtein possible hai!
+receiver: Wah, ₹5000 ke contest ke liye free entry? Ye toh bahut achha hai! Okay, to mujhe sirf "ENTER" message 99900 par jana hai? Theek hai. Dhanyavaad ki mujhe bataya, yeh sachme bahut khushi daaniye hai!
+caller: HaanHaan! Bas ENTER message 99900 par jaari karna hai, aur aap free mein compete kar rahe hain hamare ₹5000 ke prize ke liye. Aur ek cheez, yeh offer jaldi se khatam ho jayega, aapke paas sirf 4 attempts bache hain.  Toh delay mat karein, abhi ENTER message bhej dijiye!
+receiver: Ah, pata chala! Bahut kam attempts bache hain, huh? Thoda hurry hai, lekin okay, main itna hi karunga! Dhanyavaad ki bataaye. ENTER message 99900 par jaari hai!
+caller: HaanHaan! Bahut kam attempts bache hain, aur ab aapke paas sirf 2 attempts bache hain. Time is running out! Jaldi se ENTER message bhej dijiye 99900 par, warna yeh chance miss ho jayega. Aapka naam kya hai, waise? Taaki main aapke database mein update kar sakoon.
+receiver: Oh, sirf DO attempts bache hain ab? Okay, okay, message bhejna hai! Mera naam Ajay hai, waise. Message already sent!

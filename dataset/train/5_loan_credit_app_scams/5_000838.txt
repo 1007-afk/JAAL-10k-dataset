@@ -1,0 +1,8 @@
+caller: Namaste! This is Akash from QuickCash Loans. We’ve approved your loan application for ₹25,000! Just a few formalities to complete.
+receiver: Oh, really? That’s good news. What formalities are left?
+caller: Ji, sir. First, we need to verify your PAN card details. Can you please share the last four digits of your PAN card with me? It’s for security purposes only.
+receiver: My PAN card? I’m a little hesitant to share that over the phone.
+caller: Sir, please don’t worry! It’s standard procedure. We need to confirm your identity.  Without this verification, we can’t release the funds. Think about the money!  You'll get it today!
+receiver: Okay, fine. It's 1234.
+caller: Thank you, sir! Your PAN is verified. Now, for final processing, we require a small processing fee of ₹1500 to be deposited into this account: [provides a long, random account number]. Once it’s done, your loan will be credited instantly.
+caller: Sir, the money is not reflecting in our account. Is there any problem from your side?

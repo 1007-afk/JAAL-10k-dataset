@@ -1,0 +1,8 @@
+caller: ain Jio customer care se bol raha hoon. Aapke number ki verification chal rahi hai, isliye aapke phone par ek four-digit OTP aaya hoga. Kya aap mujhe bata sakte 
+receiver: Haan ji, aaya toh hai. Ek second, main check karta hoon. Oh, yeh toh 1234 hai. Aapko yeh number chahiye tha na?
+caller: Haan ji, 1234 hi. Thank you so much, sir. Aapki verification complete ho gayi hai. Humein aapke account mein koi suspicious activity nahi mili. Have a great day!
+receiver: Achha, yeh sunkar toh achha laga. Koi suspicious activity nahi hai. Thanks for the update. Aapko bhi ek accha din ho!
+caller: Haan ji, 1234 hi. Thank you so much, sir. Aapki verification complete ho gayi hai. Humein aapke account mein koi suspicious activity nahi mili. Have a great day!
+receiver: Achha, yeh sunkar toh achha laga. Koi suspicious activity nahi hai. Thanks for the update. Aapko bhi ek accha din ho!
+caller: Haan ji, 1234 hi. Thank you so much, sir. Aapki verification complete ho gayi hai. Humein aapke account mein koi suspicious activity nahi mili. Have a great day!
+receiver: Achha, yeh sunkar toh achha laga. Koi suspicious activity nahi hai. Thanks for the update. Aapko bhi ek accha din ho!

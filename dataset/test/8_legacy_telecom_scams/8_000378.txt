@@ -1,0 +1,16 @@
+caller: Namaste sir, kaise haal hai? Achaa! Tumhara naam Sanjay Kumar hai. Tumhari ek friend, Rajesh Sharma, ne tumhein bataya ki tumko ek Diwali ka gift mila hai. Congratulations! Tumne ek brand new Smart Watch jeeti hai! Warna, bahut khushi hui.  Tum video calls bhi kar sakte ho aur music bhi sun sakte ho.  Ye Galaxy X500 model hai. Tumhein abhi call karna hoga 08800987654 to claim tumhari prize. Tumhare paas sirf 3 minute baqyaat hai, toh jaldi call karo.
+receiver:  Arey yaar! Kya bol rahe ho aap? Sanjay Kumar? Rajesh Sharma ne kaha tha? Smart watch? Wohoo! Matlab mai jeet gaya?  Aur video calls bhi?  Bas bataiye, ye number kya hai? 08800987654?
+caller: Haan ji, woh number hai! 08800987654. Tumhein abhi 2 minute mein call karna hai, warna tumhari prize vapus hone wali hai.  Agar tum koi problem faced karte ho, to hum madad karenge.  Don’t waste time, call immediately!
+receiver:  2 minute?  Oh, God!  Mai jitna bhi haste huon, itna hi jawab dunga.  Okay, okay, main abhi call karta hu.  Thank you so much!  Bye bye!
+caller:  Haan ji, aapko jeetna hai!  Tumhein abhi 1 minute mein call karna hai.  Yeh tumhara pehla chance hai, tumhari Smart Watch tumhari hogi!  Call karein!
+receiver:  Arre yaar, bas 1 minute!  Mai phone lekar aa raha hu.  Check kar leta huon...  Aa gaya mera phone!  Thank you again!  Goodbye!
+caller:  Ji, congratulations!  Tumhari Smart Watch abhi deliver hone wali hai.  Agar aapko koi doubt hai, to humein contact karo.  Shubh Diwali!
+receiver:  Shubh Diwali!  Thank you so much!  Bye!
+caller: Namaste sir, kaise haal hai? Aapka naam Ashok Patel hai. Tumhari ek business partner, Vijay Singh, ne tumhein bataya ki aapke liye ek surprise hai. Congratulations! Aapne ek brand new Laptop jeeti hai!  Ye Lenovo ThinkPad X1 Carbon model hai. Tum video conferencing bhi kar sakte ho aur software bhi install kar sakte ho. Tumhein abhi call karna hoga 8765432190 to claim tumhari prize. Tumhare paas sirf 2 minute baqyaat hai, toh jaldi call karo.
+receiver: Arey bhai! Kya bol rahe ho? Ashok Patel? Vijay Singh ne kaha tha? Laptop? Wow! Matlab mai jeet gaya? Aur video conferencing bhi? Bas bataiye, ye number kya hai? 8765432190?
+caller: Haan ji, woh number hai! 8765432190. Tumhein abhi 1 minute mein call karna hai, warna tumhari prize vapus hone wali hai. Agar tum koi confusion faced karte ho, to hum madad karenge. Don't waste time, call immediately!
+receiver: 1 minute? Oh, God! Mai jitna bhi jokes banata huon, itna hi jawab dunga. Okay, okay, main abhi call karta hu. Thank you so much! Bye bye!
+caller: Haan ji, aapko jeetna hai! Tumhein abhi 30 seconds mein call karna hai. Yeh tumhari dream laptop tumhari hogi! Call karein!
+receiver: Arrey yaar, bas 30 seconds! Mai phone lekar aa raha hu. Check kar leta huon... Aa gaya mera phone! Thank you again! Goodbye!
+caller: Ji, congratulations! Aapki Laptop abhi dispatch hone wali hai. Agar aapko koi assistance chahiye, to humein contact karo. Happy shopping!
+receiver: Happy shopping! Thank you so much! Bye!

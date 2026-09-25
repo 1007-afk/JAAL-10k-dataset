@@ -1,0 +1,8 @@
+caller: Namaste! Flipkart Customer Care se baat kar raha hoon. Aapko ek cashback offer mil raha hai Flipkart Pay ke zariye.
+receiver: Flipkart Pay? Mein Flipkart use karta hoon, lekin Flipkart Pay ke bare mein sunne ko to nahi mila. Cashback offer ka kya hai?
+caller: Ji, humara ek naya promotion chal raha hai. Aap Flipkart Pay mein ₹100 ka transaction karein, aur aapko ₹500 ka cashback milega. Offer bahut limited time ke liye hai.
+receiver: ₹500 ka cashback? Bahut zyada lag raha hai. Transaction karne ke liye mujhe Flipkart Pay mein account create karna padega?
+caller: Haan, sir. Account create karna bahut aasaan hai. Aapko sirf apna OTP aur UPI ID enter karna hai. Isse cashback process automate ho jayega.
+receiver: OTP aur UPI ID? Mujhe thoda dar lag raha hai. Flipkart app mein to aisa koi option nahi dikh raha.
+caller: Sir, woh aapko direct nahi dikhayega. Main aapko ek secure link bhejta hoon. Woh link par click karein aur instructions follow karein. Yeh Flipkart ka official process hai.
+receiver: Okay, beejhiye link. Par agar kuch gadbad hui toh?

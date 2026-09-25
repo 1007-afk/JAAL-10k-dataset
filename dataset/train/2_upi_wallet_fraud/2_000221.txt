@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Sanjay hai, main Bharat Bank se bol raha hoon. Aapke account mein ek suspicious login attempt hua hai, Gujarat se.
+receiver: Gujarat se? Maine toh Gujarat kabhi nahi jaata. Kaise hua yeh?
+caller: Sir, hacker ne aapka OTP try kiya tha. Ab aapka account suspend ho gaya hai. Isko activate karne ke liye, aapko ek small verification fee pay karna hoga.
+receiver: Verification fee? Kitna pay karna padega? Aur main kyon pay karunga?
+caller: Sir, sirf 50 rupees. Paytm pe mereko send kar dijiye. Account activate hoga, aur aapka paisa safe rahega. Account block ho jayega agar aap nahi pay karte. My Paytm number is 9876543210.
+receiver: 50 rupees? Wait a minute... Bharat Bank toh SMS nahi karta hai fees ke bare mein. Main check karta hoon.
+caller: Sir, time barbaad mat kijiye. Hacker try karta rahega. Jaldi kijiye, otherwise account permanent block ho jayega.
+receiver: Okay, hold on. I’ll call Bharat Bank directly to confirm this.

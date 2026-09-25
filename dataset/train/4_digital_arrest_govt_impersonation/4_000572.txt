@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Verma, calling from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Customs Department? What kind of items? I haven't sent any packages.
+caller: Sir, preliminary scans indicate possible involvement with contraband. We need to verify some details and clear this up quickly to prevent further legal complications. Can you please provide your bank account details for verification purposes? This is standard procedure.
+receiver: Bank details? Why would you need my bank details for a package? This sounds fishy.
+caller: Sir, it's to cross-reference with the sender's payment information. We’re trying to trace the origin.  Just a few details – account number and IFSC code will suffice.  This is a very sensitive matter, sir, and delays can lead to serious consequences. To avoid a court summons, please provide these details urgently.
+receiver: No, I will not give you my bank details. You're a scammer.
+caller: Sir, please don't be difficult.  We can arrange a video call with our senior officer to address your concerns.  However, time is critical.  A fine of ₹75,000 will be levied if we don't receive this information within the next hour.  For your safety and security, we urge you to cooperate immediately.
+receiver: I am reporting this to the cybercrime cell.

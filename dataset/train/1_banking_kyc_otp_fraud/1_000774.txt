@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Rajesh Kumar? My name is Ankit from Axis Bank Cyber Security. We've detected unusual activity on your Axis Bank credit card.
+receiver: Haan, Rajesh Kumar bol raha hoon. Unusual activity? Kya hua?
+caller: Sir, there’s been an attempt to make a purchase of ₹12,500 on a website called "GadgetDealsOnline" from Jakarta, Indonesia. You did not initiate this transaction, correct?
+receiver: ₹12,500? Indonesia? Nahin, main toh kabhi Indonesia nahi gaya. Main aisa koi transaction nahi kiya.
+caller: Exactly, sir. It seems like your card details have been compromised. To secure your account and prevent further fraudulent transactions, we need to verify your identity. Could you please provide the last four digits of your credit card and the OTP you will receive on your registered mobile number?
+receiver: Credit card number... main woh phone pe nahi bata sakta. Aur OTP? Kya zaroorat hai?
+caller: Sir, without verifying your identity, we cannot block the fraudulent transaction. The money will be debited from your account otherwise. It’s a security protocol, sir. Just the last four digits and the OTP, please. It will only take a moment.
+receiver: Wait a minute. Aapka naam aur ID bataiye. Main Axis Bank customer care number se call karke verify karta hoon.
+caller: Sir, for security reasons, I’m not authorized to disclose that information over the phone. This is a sensitive matter, and we are trying to resolve it as quickly as possible. Please cooperate for your own benefit. Provide the OTP now.

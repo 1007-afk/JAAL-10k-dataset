@@ -1,0 +1,16 @@
+caller: Haanji, bilkul sahi! ₹200 mein aapko 22 din ke poore updates milenge. ₹10 din ka hisab mat karo, bilkul 22 din! Aur abhi 'YES' text kar dein, is offer ke liye, aur humare paas sirf 1 spot bacha hai!
+caller: Namaste! 17 din mein World Cup 2026 shuru hone वाला है! Aapko har din latest news aur score update chahiye? Iske liye humein aapko ₹150 payne hoke subscribe karna hoga. Tumhare liye ye ek amazing deal hai. ‘YES’ message karein aur aap automatically register ho jayenge. Kya aapko interest hai?
+receiver: Namaste! World Cup 2026? Woh toh bahut exciting lagega! ₹150 mein subscription? Thodi confusion hai, lekin interesting bhi lagta hai. Kaise milega yeh news aur score update? WhatsApp par todega kya? Ya phir SMS?
+caller: Haan ji, aapko SMS se hi updates mileinge. WhatsApp ki zaroorat nahi hai. Humne simple SMS system use kiya hai, jisse aapko har din immediate information milega. Bas ‘YES’ message karein, aur aapko ek confirmation code milega. Shayad 3 days mein aapko SMS shuru ho jayenge.
+receiver: 3 days mein SMS? Okay, acha. Confirmation code milega? Code mila toh kya karenge? Usse aapko identify karna mushkil hogi?
+caller: Haan ji, confirmation code aapko SMS se milega. Is code ko apne account mein enter karna hoga. Iske through hum aapko aapke favorite team aur players ke updates provide karenge. Aur sirf ₹150 mein, aapko whole tournament ke updates mileinge. Koi additional charges nahi honge.
+receiver: Favorite team aur players ke updates… Theek hai. Par mujhe bataiye, ye 17 din ka subscription hai na? Aur ye ₹150 sirf 17 din ke liye hi valid rahega? Aur ye code enter karne ke baad, aapko notification nahi mileinge?
+caller: Haan ji, absolutely! Ye subscription sirf 17 din ke liye valid rahega. Aur code enter karne ke baad, aapko daily notifications mileinge. Har day morning, aapko latest news aur score update milega. Humne special algorithm use kiya hai, jisse aapko relevant information hi milega.
+receiver: Algorithm? Woh kya hai? Aur ₹150 mein sirf 17 din ke liye notifications mileinge? Fir fir subscribe karna hoga?
+caller: Algorithm ek software hai jo aapke preference ke according information filter karta hai. Fir aapko notifications milenge. Aur aapko fir subscribe karne ki zarurat nahi hogi. Ye subscription automatic renew nahi hoga, lekin aapko har year December mein reminder milega.
+receiver: Automatic renew nahi hoga? Okay, that’s good. Par mujhe bataiye, ye 17 din ke liye notifications mein kab tak ke score mileinge? Last minute ke updates nahi mileinge?
+caller: Haan ji, aapko whole tournament ke score mileinge – starting from the first match till the final match. Last minute ke updates bhi mileinge, lekin humne priority ke andar last 3 days ke updates ko high priority diya hai.
+receiver: Last 3 days? Okay, okay. And this ₹150, is it refundable if I don't like it after trying for a few days?
+caller: Haan ji, agar aapko 3 days ke andar pasand nahi aaye, toh aap humpe call kar sakte hain. Hum refund process initiate karenge. Aur aapko ₹150 wapas mil jayenge. But we request you to give it a chance. Just 3 days!
+receiver: Fine, let me try it then. I’ll send ‘YES’ now.
+caller: Great! Thank you. One spot remaining. Congratulations!

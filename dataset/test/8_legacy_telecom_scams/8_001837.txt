@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me properly?  Aapki suno, main aapko bata raha hun, aap hamare premium customer list mein se hain, aur isliye aapko ₹5000 cashback offer mein join karne ki opportunity mili hai.  Bas aapko 'YES' message reply mein karna hai.  Chahiye aapko 'YES' likh lenge.
+receiver: Oh, hello! Yes, yes, I can hear you clearly. ₹5000 cashback, you say?  That’s quite something! ‘YES’ message karna hai, right? Okay, fine, I will do that. Thank you!
+caller: Wonderful! That's great to hear, Madam. And just a reminder, there are only 7 slots remaining for this incredible deal!  Just to verify, is this [Invented Name, e.g., Mrs. Verma's] mobile number? So I can register your participation accurately.
+receiver: Yes, yes, this is [invented name, e.g., Priya Singh]'s number. And 7 slots remaining?  Okay, that makes sense. Thank you for checking!
+caller: Sehr shandar, Ms. Priya Singh! Your registration is confirmed. You now have only 6 slots left, so please make a quick decision. Would you like to refer this offer to any of your relatives or friends? They too could benefit from this amazing discount!
+receiver: Oh, really? Only 6 slots left now? Hmm, let me consider it. I'd like to tell my brother about it, but I am currently occupied. Let me think about it and I'll get back to you. Thanks for the notification!
+caller: Absolutely, Ms. Priya Singh! No worries at all. Just a final reminder, you have just 5 slots available for this ₹5000 cashback offer. Don’t delay, seize this opportunity! Agar aapko kuch aur pata chalta hai ya koi confusion hai, toh mujhse baant lein.
+receiver: Only 5 slots? Alright, alright. Thank you for the update. No further questions for now. Let’s see what happens.

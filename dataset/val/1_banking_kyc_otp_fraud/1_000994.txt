@@ -1,0 +1,7 @@
+caller: Namaste Madam, mai IDFC First Bank se Rahul bol raha hoon. Aapke naam par ek international transaction request pending hai.
+receiver: International transaction? Mujhe toh koi transaction karne ka yaad nahi hai.
+caller: Madam, yeh ek high-value transaction hai, ₹1.8 lakh ka, Singapore mein. Agar aapne kiya hai toh confirm karein, warna humein account suspend karna padega security reasons se.
+receiver: ₹1.8 lakh? Maine toh kabhi Singapore se transaction nahi kiya. Account suspend? Kaise hoga?
+caller: Madam, account suspend hone se bachne ke liye, aapko apne registered mobile number par aane wale OTP ko mujhe bataana padega. Woh humein verify kar lega ki aap hi account holder hain.
+receiver: OTP? Lekin OTP toh bank ne direct mujhe hi hi ko dena chahiye, kisi third party ko nahi. Yeh thoda funny lag raha hai.
+caller: Madam, system mein technical issue aa gaya hai isliye OTP mujhe hi confirm karna padega. Please confirm OTP soon, otherwise your account will be blocked immediately.

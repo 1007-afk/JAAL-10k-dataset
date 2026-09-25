@@ -1,0 +1,9 @@
+caller: Namaste! Kaise ho aap? Main Bharat Vikas Kendra se baat kar raha hu. Aapko ek bahut mahatvapurn sammelan mein shamil hone ka prashna hai. Aapko ₹50,000 ka voucher mila hua hai, aur usko activate karne ke liye, humein kuch information chahiye.
+receiver: Namaste ji! Mein theek hu. ₹50,000 ka voucher? Wah! Kya hai yeh?
+caller: Haan, aapko ek online competition mein jeet sakaa tha. Humare records mein Ritu Kumar naam dikha raha hai. Aapko yahaan par registration karna hoga, isliye humein aapke bank account number aur IFSC code chahiye. Yeh sirf voucher ko activate karne ke liye hai, ji.
+receiver: Ritu Kumar? Haan, mujhe yaad hai, maine woh competition dekha tha. Bank account number aur IFSC code? Mein itna information share nahin kar sakta.
+caller: Koi darrne wala baat nahi, Ritu ji. Yeh ek government initiative hai, aur hume paiso ko safe rakhna hai. Aapne jo information diya, voh sirf voucher ko track karne ke liye hai. Agar aapko koi problem hai, toh aap RBI website par jaa sakte hain.
+receiver: Par mujhe woh numbers disclose karne mein comfort nahi hai. Main ek screenshot le leta hoon, aur phir aapko send karta hoon.
+caller: Haan, woh bhi acha idea hai. Lekin agar aapko voucher activate karna hai, toh hamein yeh information zaroor chahiye. Aapki madad karne ke liye hum sab tay hain.
+receiver: Nahin, main seriously nahi kar sakta. Main aapse baat khatam kar deta hoon.
+caller: Okay ji, koi baat nahi. Humein aapke decision ki izzat hai. Lekin agar aap baad mein regret karte hain, toh humein maaf karna. Good luck!

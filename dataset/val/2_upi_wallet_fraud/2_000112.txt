@@ -1,0 +1,11 @@
+caller: Hello? Namaste. Main PhonePe se bol raha hoon. Aapke PhonePe wallet mein ek cashback offer aa gaya hai, sirf naye users ke liye.
+receiver: Oh, really? Cashback offer? Kitna cashback hai?
+caller: Sir, 500 rupees ka cashback instant mil jayega, sirf ek small processing fee bharne par. 
+receiver: Processing fee? Kitna fee hai? Aur yeh kaise bharu?
+caller: Sir, bas ek UPI link share kar dijiye, fee bharne ke liye. Link verify ho jayega, aur cashback instant aapke wallet mein add ho jayega.
+receiver: UPI link? Sir, mujhe yeh thoda suspicious lag raha hai. PhonePe toh direct app mein hi offer deta hai.
+caller: Sir, yeh special offer hai, sirf kuch selected users ke liye. Jaldi kijiye, offer limited time ke liye hi hai. Aur link safe hai, trust me.
+receiver: Haan, lekin mujhe koi risk nahi lena hai. Main kisi bhi unknown link par UPI nahi share karunga.
+caller: Sir, aapka loss ho sakta hai. 500 rupees ka cashback miss karna mat.
+receiver: Main PhonePe app mein check karunga. Mujhe koi link share karne ka koi zarurat nahi hai.
+caller: Okay sir, your choice.

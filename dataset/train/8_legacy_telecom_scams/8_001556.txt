@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call Now on 98765 & win exciting prizes!' Uske bare mein jaanta hoon.
+receiver: Haan ji, hello. Mein bhi dekh raha tha. Kya hai ismein?
+caller: Ji, toh aapko ek special offer mila hai - 2 ghante ka free data! Yeh ek limited edition offer hai, aur aapke paas sirf 3 ‘prizes’ bache hain claim karne ke liye.  Aapko bas woh prize activate karna hai, woh bhi totally free!
+receiver: Achcha, 2 ghante ka free data?  Yeh achcha deal hai.  Toh, iske liye mujhe kuchh karna padega? Koi form bharna hai?
+caller: Nahi ji, kuchh bhi bharna nahin hai.  Aapko bas ek small confirmation dena hai, jisse hum aapka prize activate kar sakein.  Aapka naam kya hai ji?
+receiver: Mera naam Sanjay hai.  To, bas confirmation dena hai? Aur kuchh nahi?
+caller: Haan ji Sanjay ji. Bas ek small confirmation chahiye. Agar main aapka ‘prize ID’ verify kar doon, toh aapka prize immediately activate ho jayega. Kya main aapki prize ID jo aapko WhatsApp message mein mili hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charges nahi hai.
+receiver: Prize ID? Oh, haan, abhi dekhti hoon… Haan, ye raha. 7890.

@@ -1,0 +1,8 @@
+caller: Namaste! Main BharatPay se Rahul bol raha hoon. Aapke BharatPay wallet mein ₹8,000 ka cashback offer hai!
+receiver: BharatPay? Cashback? Kya offer hai?
+caller: Haan ji! BharatPay ek special Diwali offer chal raha hai. Aap ₹1000 ka recharge kar lijiye, aur ₹8000 ka cashback instant get kar jayenge!
+receiver: ₹8000? Itne zyada? Recharge ₹1000 ka?
+caller: Bilkul! Lekin recharge karte waqt ₹50 ka verification charge lagega. Verification ke baad, cashback aapke wallet mein transfer ho jayega. Code ‘DIWALI’ send kijiye 99999 pe.
+receiver: ₹50 verification charge? Aur code send karna hai? Theek hai, main check karta hoon.
+caller: Haan ji, jaldi kijiye! Offer limited time ke liye hai. ₹50 charge sirf ek baar lagega, aur ₹8000 aapke hai!
+receiver: Wait, let me call BharatPay customer support first.

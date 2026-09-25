@@ -1,0 +1,8 @@
+caller: Namaste sir, main SBI Bank se Rohan bol raha hoon. Aapka naam Mr. Rajesh Verma hai na?
+receiver: Haanji, main Rajesh Verma hi hoon. Bolo, kya baat hai?
+caller: Achha Mr. Verma ji, hum aapko inform karna chahte hain ki aapke SBI account mein ek suspicious login attempt kiya gaya hai, aaj raat 12 baje. Hamara security system ne ye detect kiya hai.
+receiver: Suspicious login? Mujhe toh koi idea nahi hai. Maine toh koi transaction nahi kiya aaj raat ko. Batao abhi kya karna hai?
+caller: Ji sir, hum aapki security ke liye call kar rahe hain. Is login attempt ko verify karne ke liye, hamein aapka OTP chahiye jo aapke registered mobile number par aaega. Aur yeh bataiye ki aap kabhi Amazon pe shopping karte hain ki nahi?
+receiver: OTP? Amazon? Yeh toh zyada hi fishy lag raha hai. Main branch mein jaake complain karunga.
+caller: Sir, please mat tension mein aao. Account suspend hone se pehle OTP dedo. OTP se hum aapke account ko secure karenge. Aur iske saath hi hum aapko ek bhi confirmation link Amazon wale SMS ke saath bhejne wale hain. Check karlo please.
+receiver: Nahin, sir! Main OTP nahi dunga. Tum log fraud ho!

@@ -1,0 +1,7 @@
+caller: Namaste, sir? This is Priya calling from the Cyber Crime Investigation Cell, Delhi. We've detected some unusual activity linked to your Paytm wallet – a series of small transactions originating from an IP address traced to Nigeria.
+receiver: Kya? Paytm? Unusual activity? Nigeria? Yeh kya bol rahe hain aap? I didn't do anything.
+caller: Sir, it's a serious matter. We suspect your account might be compromised and used for money laundering activities. To secure your funds and avoid legal complications, we need to verify some details. Can you please provide the last four digits of your PAN card?
+receiver: Wait a minute! Cyber Crime Cell? Can you give me a reference number or a contact number for verification? I’m not giving out my PAN details just like that. This sounds fishy.
+caller: Sir, for security reasons, we don’t disclose reference numbers over the phone. However, I assure you this is an official verification process. Failure to cooperate will result in a freeze on your Paytm account and further legal action. The minimum penalty is ₹50,000. Do you want to risk that? Please just tell me the last four digits of your PAN.
+receiver: ₹50,000? Freeze my account? Okay, okay… hold on. Let me call Paytm customer care first. Just give me a moment.
+caller: Sir, you don't have time. The system is flagging your account as high-risk every second. We need to resolve this immediately. Those illegal transfers could have already triggered an alert at the Enforcement Directorate. Please cooperate, sir. It’s just four digits!

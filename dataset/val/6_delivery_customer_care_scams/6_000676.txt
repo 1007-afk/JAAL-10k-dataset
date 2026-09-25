@@ -1,0 +1,9 @@
+caller: Hello, is this Rohan Verma? We're calling from Bluestar Courier regarding a parcel addressed to you. It seems there’s been a delivery fee discrepancy.
+receiver: Haan, woh mein hoon. Delivery fee? Mujhe toh kuch pata nahi. Mein koi parcel expect nahi kar raha.
+caller: Yes sir, it appears there's a ₹2,800 outstanding charge for express handling. Without clearing this, we can’t release the package. It's a high-value item, sir. We need to resolve this quickly. I can give you a secure link to make the payment instantly.
+receiver: ₹2,800? Express handling? Mein toh kuch order kiya hi nahi. Kaunsa item hai woh? Aur secure link? Main thoda khaufzal ho raha hoon.
+caller: Sir, it’s confidential until payment is cleared, as per company policy. But trust me, it’s something you'll be very happy to receive. The link is bluestarcourier.securepay.in. Please verify the amount and complete the payment immediately to avoid further delays. We are also sending an OTP to your registered mobile number.
+receiver: Securepay.in? Yeh toh zyada real nahi lag raha. Haan, OTP toh aaya hai. Par main ek baar verify karta hoon. Koi bhi online payment karne se pehle main verify karunga.
+caller: Absolutely, sir. Verify the OTP and complete the transaction.  As soon as the payment is confirmed, the parcel will be dispatched immediately. The OTP is 567890. Just enter it on the payment page. Don't delay, sir!
+receiver: Okay, wait a minute. I'm going to call Bluestar Courier directly to confirm this. I'll call them from their official website number.
+caller: Sir, please hurry! This is a time-sensitive

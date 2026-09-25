@@ -1,0 +1,11 @@
+caller: Namaste! Main Bharat Telecom se baat kar raha hu. Aapke data usage ka ek notification dena chahie. Please visit www.videshconnect.in, login with your account number and password, and then enter ‘UNSUB’ to stop receiving these messages. Kaise hain aap?
+receiver: Oh, okay. Main theek hoon, aur aap kaise hain? Yeh notification kya hai? Main already data pack le liya tha.
+caller: Haan, woh shubhkarny wala. Par aapko sirf 5 GB data remaining hai. Videshconnect.in pe jao, login karo aur UNSUB likhkar submit karo. Iska koi charges nahi hai.
+receiver: 5 GB? Achaa, thoda kam hai. Toh mein jo data pack liya hai, usmein update hai ya fir new hai yeh notification?
+caller: Woh updated version hai. Yani, aapko sirf remaining data ka pata chalega. Agar aapko yeh notification band karna hai, toh www.videshconnect.in pe jaakar UNSUB likhkar send karein. Par yeh reminder hai ki aapko data consume karna hai.
+receiver: Okay, understood. To, yeh notification dekhne ke baad mein viteshconnect.in pe jaungi aur UNSUB karegi. But agar main data consume karti rahungi, toh mujhe notification milega na?
+caller: Haan ji, isliye hi humein yeh notification dila rahe hain! Data consumption ka track rakhne ke liye. Aapko message bhejte rehna hoga, ya phir aapko online jana hoga.  Par agar aapko notification band karna hai, toh phir wahi process follow karein – www.videshconnect.in par jaake UNSUB karein.
+receiver: Bas, okay. Main viteshconnect.in pe jaakar UNSUB kar dungi. Dhanyavaad!
+caller: Aapka swagat hai!
+caller: Namaste! Main Bharat Telecom se baat kar raha hu. Aapke data usage ka ek notification dena chahie. Please visit www.videshconnect.in, login with your account number and password, and then enter ‘UNSUB’ to stop receiving these messages. Kaise hain aap?
+receiver: Oh, okay. Main theek hoon, aur aap kaise hain? Yeh notification kya hai? Main already

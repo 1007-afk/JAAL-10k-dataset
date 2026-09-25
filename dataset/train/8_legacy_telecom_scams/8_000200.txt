@@ -1,0 +1,9 @@
+caller: Namaste! Namaste! Suno ji, aapki sunay ki kami nahin hone वाली hai. Mujhe ek bahut sari shuruati paisa jeetne ke liye ek chota sa sawaal puchna hai, aur isse aap ₹5000 jeet sakte hain! Just message your answer to 98765, very simple! Kaise hai aap?
+receiver: Achaa, suni ji, meri sunayi ki kami nahi hai. ₹5000? Woh toh bahut achha hai! Main jaanta hoon ke ye kisi ghalti ka ilaaj ho sakta hai, par phir bhi...  Main us president ka naam bataane ki koshish karungi. Uska naam kya hai?
+caller:  Arre, koi koshish na karo! Kuch bhi bol do.  Yeh puraani news channel ka report tha, aur yeh lottery ka sawaal hai. Message karein jo bhi aapko acha lagta hai.  Fast fast!  Message karein to 98765.  Aapke paas 2 try baki hain!
+receiver:  Ok, ok.  Matlab, kuch bhi message kar sakta hoon?  Thik hai, main guess karta hoon.  Main keh raha hoon... 'Draupadi Murmu'!  Maine dekha hai TV mein uska naam.  To main message kar doon 'Draupadi Murmu'?
+caller:  Haanji, bilkul sahi! Draupadi Murmu hi hain. Message kar dijiye 'Draupadi Murmu' to 98765.  Aapke sirf 1 try baki hai, jaldi ho jaiye!
+receiver:  Oh, wow!  Thank you so much for confirming.  So, maine message kar diya hai 'Draupadi Murmu'.  Ab mujhe ₹5000 jeetne ka chance hai? Aur agar mai jeet jata hun, toh prize money kaise milega?
+caller:  Absolutely!  Aapne sahi message kiya hai. ₹5000 jeetna aapka haq hai!  Prize money aapke bank account mein transfer hoga.  Keep your fingers crossed!  Aapke paas abhi koi try baki nahi hai.  Koi aur sawaal hai?
+receiver:  Hmm… koi aur sawaal nahi hai.  Thank you ji!
+caller:  Welcome!  Shubh kamnaaye!

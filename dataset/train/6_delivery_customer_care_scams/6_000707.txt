@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Flipkart se Atul bol raha hoon. Aapke account mein ek pending payment hai, sir. Order ID FLP789456.
+receiver: Flipkart? Mujhe koi order yaad nahin aa raha. Mainne kuch order kiya tha kya?
+caller: Haan sir, 2 days pehle ek smart watch ka order hua tha. Payment fail ho gaya tha, abhi system se notification aaya hai. 3500 rupaye pending hai.
+receiver: 3500? Smart watch? Mujhe toh koi smart watch nahin chahiye tha. Yeh fraud lag raha hai.
+caller: Sir, aap tension mat leiye. Payment confirm karne ke liye, mujhe aapka OTP pata chahiye. Tabhi hum payment process kar sakte hain.
+receiver: OTP?! Abhi nahi dunga. Main Flipkart customer care se khud baat karta hoon. Mujhe uska number deiye.
+caller: Sir, OTP bina OTP payment confirm nahi ho sakta. Yeh process hai. Jaldi karna, sir, offer 2 ghante mein expiry ho jayega.

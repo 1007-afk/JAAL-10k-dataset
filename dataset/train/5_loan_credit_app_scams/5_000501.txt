@@ -1,0 +1,11 @@
+caller: Namaste! Main Aaditya se baat kar raha hoon, DigiCash Solutions se. Aapko urgent loan approval chahiye tha na?
+receiver: Haan, theek hai. Mujhe 50,000 tak ka loan chahiye urgently. Kya aap help kar sakte hain?
+caller: Absolutely! DigiCash Solutions mein, process bahut simple hai. Sirf aapka PAN card aur bank statement chahiye hoga. Aur aapki credit score check karenge.
+receiver: Credit score? Mera credit score thoda low hai, mujhe dar lag raha hai. Loan milega ya nahi?
+caller: Chinta mat karo! Hum aapki madad karenge. Loan approve hoga, lekin processing fees ke liye ₹5000 advance deposit karna padega.
+receiver: ₹5000? Itna zyada fee? Aur main payment kaise karunga?
+caller: Aapko UPI se payment karna hai, ek secure link main.  Payment karte hi, loan approval process start ho jayega. Link main sab details hai.
+receiver: Okay, send karo link. Par agar loan nahi milega toh?
+caller: Sir, 100% loan milega. Trust us. Link send kar raha hoon abhi. Confirm karo payment kar diye ho to main aapko loan details de dunga.
+receiver: Thik hai, check karo link. Mujhe kuch suspicion ho raha hai.
+caller: Sir, jaldi karo. Offer limited time ke liye hai.  Payment confirm karo, otherwise offer cancel ho jayega.

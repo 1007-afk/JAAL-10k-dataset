@@ -1,0 +1,7 @@
+caller: Namaste, Madam Priya Sharma? Calling from ‘CreditBoost Solutions’. We have exciting news! Your application for a quick loan has been pre-approved. A fantastic offer for ₹75,000 with minimal paperwork. Just need to verify a few details.
+receiver: Haan, main Priya Sharma hoon. CreditBoost? Loan pre-approved? Kitna interest rate hai?
+caller: Congratulations! The interest rate is just 8%, a special offer for preferred customers. To finalize the loan and receive the funds within the hour, we need to quickly verify your KYC documents. Please visit our secure portal: creditboostverify.com/kyc and upload a copy of your Aadhaar card and PAN card.
+receiver: Creditboostverify.com? KYC documents? But I thought I only filled out a simple form online. Is this really secure?
+caller: Absolutely safe, Madam! We use bank-level encryption. Many applicants are already receiving their loans – we’re just processing a few remaining applications. If you don't upload the documents within the next 15 minutes, the offer will expire. You can also add ₹5000 to your account immediately.
+receiver: Fifteen minutes? ₹5000? Okay, wait, let me check the website. This is a little too good to be true...
+caller: Madam, we are experiencing a slight system error. To ensure the loan is processed swiftly and you receive the bonus amount, kindly send ₹2000 to this UPI ID: 9876543210@ybl. This is a one-time security verification fee.

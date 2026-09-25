@@ -1,0 +1,18 @@
+caller: Hello? Hello! Kaise ho aap? Main Bharat Telecom se kar raha hu. Aapne jo message mili hai, kya aapko unmein "Lucky Draw" wali offer di gayi thi?  Uss offer ko aap ne accept kiya tha na?  Toh, sirf ek small verification karne ke liye kar raha hu main.
+receiver: Haan ji, Bharat Telecom se ho? Mein sunaa hai Lucky Draw ka offer aaya tha.  Haan, maine accept bhi kiya tha.  To phir, kya karna hai?
+caller:  Ji haan, sab sahi hai.  Bas mujhe aapka name poochhna chahta hu, please.  Aur aap kis mobile company ka user hai? Reliance jaisi koi big company hogi na?  Isliye, aapka brand name batao.
+receiver:  Mere naam par Vivek Kumar hai, aur main Airtel use karta hu.
+caller:  Excellent, Vivek!  Thank you. Now, for security reasons, agar aapko woh free minutes lena hai, toh aapko ek OTP verify karna hoga.  OTP aapko SMS ke zariye aa jaayega.  Number check karo.
+receiver:  OTP?  SMS mein ayega?  Mujhe wait karna padega?
+caller:  Haan ji, wait karo.  OTP arrive hone ke baad, aapko sirf OTP number enter karna hai.  Phir aapki 3 ghante ka free talk time instantly activate ho jayegi!  Yeh offer valid hai sirf aaj raat tak.
+receiver:  Aapka offer bohat achcha hai.  OTP aa gaya hai.  Dekhiye, number dikhaaya hai.
+caller:  Great, Vivek! Thank you so much for your patience and cooperation.  Aapko aapka free talk time abhi hi enjoy karna shuru kar sakte hain!  Agar aapko koi problem aaye toh Bharat Telecom customer care number par call karein.  Shubh ratri!
+caller: Hello? Hello! Kaise chal raha hai? Main DigiCall se baat kar raha hu. Tumne jo notification mila tha, wo "Instant Recharge" ka tha, hai na? Agar tumne usmein interest liya hai, toh hum tumhein ₹50 cashback return kar rahe hain.  Baki sirf ek small verification karna hai.
+receiver: Haan ji, DigiCall se ho? Mein sunaa hai Instant Recharge ka offer aaya tha.  Haan, maine bhi dekha tha.  Toh, verification kyon karana hai?
+caller: Ji haan, verification bahut important hai.  Tumhara naam bataa do, please. Aur tum kaunse mobile provider ke customer ho? Jio ya Vodafone, kisi ek ko bataao.  Isliye, hum tumhari account validate kar payenge.
+receiver:  Mere naam par Sanjay Patel hai, aur main Vodafone India use karta hoon.
+caller:  Sanjay, superb!  Thanks for telling me.  Ab, security ke liye, humein tumhare account mein ek small code enter karna hoga.  Woh code tumhare phone par SMS ke zariye aa jayega.  Number check karo.
+receiver:  Code?  SMS mein ayega?  Wait karna padega?
+caller:  Haan ji, wait karo. Code aa jaane ke baad, tumhein sirf woh code number enter karna hai.  Phir tumhara ₹50 cashback immediately apply ho jayega!  Yeh offer valid hai sirf kal subuh tak.
+receiver:  ₹50 cashback?  Bahut achcha!  Code aa gaya hai.  Dekho, number dikhaya hai.
+caller:  Fantastic, Sanjay!  Thank you so much for your cooperation.  Tum apna cashback abhi hi enjoy kar sakte ho!  Agar tumko koi confusion aaye toh DigiCall customer support number par contact karo.  Achha?

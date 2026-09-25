@@ -1,0 +1,8 @@
+caller: Namaste Aunty, mai Axis Bank se Rahul bol raha hoon. Aapke naam par ek transaction hua hai ₹7,500 ka, jo aapne nahi kiya hai.
+receiver: ₹7,500? Mujhe toh koi transaction yaad nahi aa raha. Kya hua tha?
+caller: Aunty, yeh fraud transaction hai. Hamari security team ne detect kiya hai. Aapko isko block karwana hoga warna aur bhi damage ho sakta hai.
+receiver: Aur kaise block karwaun? Mein toh OTP bhi kisi ko nahi deta.
+caller: Bilkul Aunty, OTP mat share karein. Main aapko ek secure link send karunga. Aap us link pe click karke verification process complete karein, bas itna hi. Link ₹7,500 ke fraud transaction ko block kar dega.
+receiver: Woh link mujhe message karo. Aur bank ka naam bhi batao, check kar loon.
+caller: Haan Aunty, bas thoda wait karein. Link send kar raha hoon. Bank ka naam Axis Bank hi hai, aapko pata hi hoga. Check karein aur jaldi se process complete karein, time limit hai.
+receiver: Okay, message aaya hai. Par link pe click karne se pehle, mein khud Axis bank ke app pe check kar loongi.

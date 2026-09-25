@@ -1,0 +1,8 @@
+caller: Hello? Is this Mr. Sharma? Listen, I’ve got some amazing opportunities for you, sir. Are you looking for some extra income these days? I’m talking about earning big money quickly, just like that.
+receiver: Hello? No, this is Ms. Patel. You have the wrong number.
+caller: Re, Mr. Sharma nahi hai kya? Confirm karein bhai, my number is absolutely correct. You want to boost your business profits today? Need some exclusive deals and discounts delivered straight to your phone? Join our premium business network – ‘Quick Profits Now’. Text QUICK to 878787 immediately! Cost only £2.00/msg. You will also benefit greatly, sir.
+receiver: See sir, I think you have the wrong number. This is Ms. Patel, not Mr. Sharma. And I’m not interested in any of this, sorry.
+caller: Oh, are you sure? My records show Mr. Sharma’s contact information. You’ll really enjoy this, trust me. If you need serious growth for your shop, then go near the Central Market area. Text QUICK to 878787. Just £2.00/msg, sir. What do you say? One time try it out.
+receiver: Sir, seriously, you have the wrong number. I’ve told you twice already. Please double-check your contacts. This is Ms. Patel, and I am definitely not interested in what you’re suggesting. Have a pleasant evening.
+caller: Hey yaar, seems like you’ve dialed the wrong number. Your number keeps showing Mr. Sharma’s name. But no worries, you’ll still have fun with this. Just one time try it out, £2.00 only. Let’s end the call, bye.
+receiver: No yaar, you made a mistake. My name is Ms. Patel, not Mr. Sharma. And I don't have any interest in this whatsoever. You’re calling the wrong person, bhai. Please verify your contacts, sir. Good night.

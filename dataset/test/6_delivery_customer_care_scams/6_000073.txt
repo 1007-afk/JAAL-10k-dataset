@@ -1,0 +1,13 @@
+caller: Namaste! Yeh Sunny Ji maine Bharat Helpline se bulaaya hai.  Aapko ek important update dena hai regarding your electricity bill.
+receiver: Namaste ji! Kaise hain aap? Electricity bill? Kya hua?
+caller:  Haan ji, aapke account mein ek small problem hai.  Humne dekha hai ki aapka bill payment delay ho gaya hai.  Isliye, government ne ek special offer diya hai.
+receiver: Delay ho gaya?  Mujhe yaad nahi aa raha.  Bill ka number bataiye mujhe.  Main dekh leta huon.
+caller:  Arey yaar, confusion mat karo!  Yeh sirf ek reminder hai.  Government ke order par, hum aapko ₹500 cashback offer karte hain agar aap aaj hi bill pay karein.  Bahut acha deal hai, ya nahin?
+receiver: ₹500 cashback?  Wow!  Dekhte reh jao.  Par, mujhe abhi malum nahi hai kya karna hai.  Aap mujhe online payment karne ka link bhejo.
+caller:  Absolutely!  Link hai - bit.ly/paymentlink.  Just click on it and follow the instructions.  Agar aap aaj hi pay karein, toh cashback aapke account mein 5 minutes mein daal denge.  Chaliye, jaldi karo!
+receiver: Okay, okay, I will check it.  Bit.ly/paymentlink?  Okay, clicked it.  Now what?  Aapko pata hai, mujhe yeh abhi bhi dubara dubara dekhna pad raha hai.  It looks very suspicious.
+caller:  Arre bhai, fir kya dekh rahe hain?  Yeh totally legitimate hai!  Government ka scheme hai!  Aapko sirf payment karna hai.  Aapko pata hai, ek aur offer hai - agar aap apni mobile number register karein, toh aapko ek extra ₹100 cashback milega!
+receiver: Mobile number register karna?  Seriously?  Aap mujhse kya karna chahte hain?  Mujhe zyada worried hona bandh karo.  Number bataane mein risk hai.
+caller:  Bhai, baccha banne wala nahi hoon main!  Yeh sirf aapko aur benefits dene ke liye hai.  Aapko paisa kamaana hai!  Aapko sirf aapki mobile number chahiye.  Please?
+receiver:  No way!  Mujhe koi risk nahi lena hai.  Thank you, but no thank you, Sunshine Helpline.  Bye!
+caller:  Okay, fine!  But you are missing out on a great opportunity!  Goodbye!

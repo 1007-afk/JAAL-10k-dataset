@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rajesh Verma? This is Akash calling from Bluedart courier. We have a parcel addressed to you, but there's a small issue with the delivery address.
+receiver: Haan, Rajesh Verma bol raha hoon. Kya problem hai? (Yes, this is Rajesh Verma. What’s the problem?)
+caller: Sir, the pin code provided doesn't match our records. To confirm delivery, we need to verify your identity and update the address. Could you please share the last four digits of your debit or credit card for security purposes?
+receiver: Debit card ka number? Delivery ke liye? Yeh theek nahi lagta. (Debit card number? For delivery? This doesn't seem right.)
+caller: Sir, it's just a standard security protocol. We need to ensure your parcel doesn’t get into the wrong hands. It contains a high-value item, and we want to protect your investment. Please share the OTP you’ll receive on your registered mobile number.
+receiver: OTP? Kaise hoga? Mujhe woh parcel nahi chahiye. Yeh scam lag raha hai. (OTP? How will that work? I don’t want that parcel. This looks like a scam.)
+caller: Sir, if you don't share the OTP, we will have to return the parcel to the sender, and you’ll be responsible for the return shipping charges. Please cooperate.

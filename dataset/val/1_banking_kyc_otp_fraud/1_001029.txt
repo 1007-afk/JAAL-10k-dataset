@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Rohit Sharma bolta hoon. Aapke Axis Bank account mein ek suspicious transaction attempt kiya gaya hai. Security ke liye, aapko apna account verify karna hoga.
+receiver: Axis Bank? Mujhe koi message aaya nahi tha. Verify karna hai toh mujhe OTP kyun nahi bejha? Aur tumhara naam Rohit Sharma hai?
+caller: Sir, OTP system mein technical issue aa gaya hai. Isliye hum call karke verify kar rahe hain. Aapko apna naam aur PAN card number bataiye, tabhi verify ho payega. It's a one-time thing, sir.
+receiver: PAN card number phone pe batane ko? Yeh thoda risky lag raha hai. Main Axis Bank branch mein jaa sakta hoon.
+caller: Sir, branch mein line lagenge. Time waste hoga. Iske baad kabhi such a problem aayega toh hum call nahi kar payenge. Just give me your PAN card number for quick verification. Jab verify ho jaayega toh aapko ek confirmation message bhi mil jayega.
+receiver: Okay, fine. My PAN card number is [Receiver's PAN number]. Par agar kuch hua toh main tumhare bank pe case kar dunga.
+caller: Thank you, sir. Ab aapka account verify ho gaya hai. Ab hum aapke account se Rs. 5000 deduct karke ek test transaction karayenge.

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Mera naam Rahul hai, mai Axis Bank se baat kar raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai. KYC update karne ki zaroorat hai urgent basis par, warna account suspend ho sakta hai.
+receiver: Kya? Account suspend? Maine toh kuch bhi suspicious kiya nahi hai. Kuch details puchne se pehle, mujhe pata karna chahiye ki aap sahi se Axis Bank se hi baat kar rahe hain ya nahin.
+caller: Sir, time bahut kam hai. Account suspend hone se bachaane ke liye, mujhe aapka OTP bataiye jo aapko SMS mein aaya hai. Woh check karne ke baad, main aapko verify karunga.
+receiver: OTP? Aapko OTP dene se pehle, mujhe aapka employee ID pata chahie. Aur aapka phone number bhi jo Axis Bank record mein hai.
+caller: Sir, OTP bina verification ke main kuch nahi kar sakta. Employee ID confidential hai, woh main share nahi kar sakta. Woh system mein hide hota hai. Dekhiye, agar aap abhi OTP nahi denge to aapka account aaj hi suspend ho jayega. Aapka nuksan hoga.
+receiver: Yeh thoda suspicious lag raha hai. Mujhe bank branch mein jaake verify karna hai. Main online koi bhi detail share nahi karunga. Aapka naam aur phone number mujhe SMS karo, main baad mein call karta hoon.
+caller: Sir, wo SMS send karna possible nahi hai, system se restrict hai. Aapka account suspend hone ki risk hai, please cooperate karein.

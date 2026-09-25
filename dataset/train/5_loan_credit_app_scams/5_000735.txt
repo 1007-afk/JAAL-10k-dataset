@@ -1,0 +1,7 @@
+caller: Hello, this is Deepak calling from Loan Express. We've seen you pre-qualified for a quick loan of up to ₹80,000. Just need to confirm a few details. What's your full name, please?
+receiver: Hi Deepak. My name is Anjali Verma. A loan? That’s interesting. What’s the interest rate like?
+caller: Wonderful, Anjali Verma. The interest is nominal, just 5% per month. Very competitive. To process this quickly, we need to verify your bank account. Could you share the last four digits of your account number?
+receiver: Five percent? That seems a little high. And why do you need my account number so early? Shouldn’t I get more information first?
+caller: Anjali ji, it’s standard procedure for verification. We want to ensure security. Now, if you don't cooperate, we might have to cancel the loan offer. Also, you need to pay a processing fee of ₹2,500 immediately to secure your loan.
+receiver: A processing fee? That wasn’t mentioned before. And threatening me? This is starting to feel very wrong. I think I’ll have to decline.
+caller: Anjali ji, don't be hasty! If you don't pay this fee, we will be forced to report you for attempting to defraud Loan Express! We have your details, and we can easily escalate this matter. We will also share your information with your contacts – just a little warning! Pay the ₹2,500 now to a UPI ID we'll send you.

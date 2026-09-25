@@ -1,0 +1,8 @@
+caller:  Is a recorded voice from Secure Logistics. We attempted to deliver a package to your residence yesterday, but the driver encountered some difficulties. Please contact us immediately at 09876543210 to arrange for a new delivery slot. Your tracking ID is KL789456. We request you to call back as soon as possible.
+receiver: Hello? Haanji, woh parcel delivery ka message aaya tha?  Number 09876543210 hai, right? And tracking ID KL789456? Okay, main abhi call karta hoon. Thank you.
+caller:  Hello? Haanji, woh parcel delivery ka message aaya tha? Number 09876543210 hai, right? And tracking ID KL789456? Okay, main abhi call karta hoon. Thank you.
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi galti hui thi?
+caller:  Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi galti hui thi?
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi galti hui thi?
+caller:  Haanji, thank you for calling back. Ji, actually, there was a minor problem during the delivery attempt. We need to verify a couple of things to reschedule it for you. Could you kindly confirm your apartment number and floor number?
+receiver: Haanji, zaroor. Apartment number hai 12B, and floor number hai 3rd. Kya woh sahi hai? Aur kya aap bata sakte hain ki delivery mein kya mistake hui thi? Taki aage se yeh problem na ho.

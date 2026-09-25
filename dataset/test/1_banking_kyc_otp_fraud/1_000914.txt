@@ -1,0 +1,7 @@
+caller: Namaste Madam, this is Rohan from Axis Bank KYC department. We've noticed some unusual activity on your account linked to your Aadhaar card. It appears someone might be attempting to impersonate you.
+receiver: Haanji, Axis Bank? Aadhaar card? Kya hua? Koi problem hai?
+caller: Yes Madam, to protect your funds and prevent fraud, we need to verify your details urgently. Can you please provide the OTP you just received on your registered mobile number? It’s a standard security protocol.
+receiver: OTP?  Wait a minute.  Why can’t I verify this information through the Axis Bank app? I always do my KYC updates there.
+caller: Madam, the app system is currently undergoing maintenance. This is a direct, expedited verification process to prevent immediate risk. Your account could be suspended if we don’t confirm your identity quickly. For your safety, please share the OTP now.
+receiver:  Suspended?  Okay, but I'm still a little uneasy. Just to be sure, can you tell me the last four digits of my account number?  I want to confirm I’m speaking to the real Axis Bank.
+caller: Absolutely Madam. To confirm, the last four digits of your account are 7890. Now, can you please provide the OTP? It will only take a second, and then your account will be secure.

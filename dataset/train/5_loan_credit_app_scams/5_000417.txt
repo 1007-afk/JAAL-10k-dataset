@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohan hai, FastLoan se. Aapka mobile number humare system mein register hua hai. Hum aapko Rs. 10,000 tak ka instant loan dene ke liye eligible declare karte hain. Apply karne ke liye ‘ApplyLoan’ type karke 9211144444 par message karein. Koi hidden charges nahi hain.
+receiver: Hello! Loan? Kitne interest ka hoga? Aur documents kya- kya lagenge?
+caller: Sirf PAN card aur Aadhaar card chahiye. Interest rate sirf 12% per annum hai, industry standard. Abhi apply karein, offer limited time ke liye hai.  ‘ApplyLoan’ message karein, aur hum aapko application form send karenge.
+receiver: 12% toh thik hai. Process kitna time lega? Aur agar main loan nahi le paaya toh kuch effect hoga credit score par?
+caller: Sir, process 5 minute se kam time lega. Credit score par koi effect nahi hoga, chinta mat karein. ‘ApplyLoan’ message karein, aur mai aapko details send karta hoon. Abhi karein!
+receiver: Theek hai, message karta hoon. Bas ek baat, aapka app KYC verification kaise karta hai?
+caller: Sir, hamara app totally secure hai. Ham OTP verification ke zariye hi data verify karte hain. Koi bhi confidential information share karne ki zaroorat nahi hai. Abhi ‘ApplyLoan’ message karein, aur mai aapko details send karta hoon. Jaldi karein!
+receiver: Okay, sending the message now.

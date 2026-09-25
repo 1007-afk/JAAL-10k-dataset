@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein ek suspicious activity detect hui hai. ₹499 ka transaction Kerala se attempt kiya gaya hai.
+receiver: Kerala se? Mujhe toh koi transaction yaad nahi. Mein toh aaj subah se phone touch bhi nahi kiya.
+caller: Haan ji, security ke liye humein aapko confirm karna padega. ₹499 ka transaction block kar diye gaya hai, lekin aapko apne account ko secure karne ke liye ₹99 ka verification fee deposit karna hoga.
+receiver: ₹99? Verification fee? BharatPay toh kabhi bhi verification fee leta hai?
+caller: Haan ji, rule change ho gaya hai. Kerala se attempt hone ke baad security upgrade mandatory ho gaya hai. Aap ₹99 UPI ke zariye send karein, main aapko detail mein bataunga.
+receiver: Theek hai, mujhe dekhne do. Mujhe kuch doubt ho raha hai.
+caller: Jaldi karein ji! Offer limited time ke liye hi hai. ₹99 UPI ID hai 7890123456@ybl. Apne phone mein confirm kar lijiye!

@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rahul hai, mai Paytm Care se bol raha hoon. Aapke Paytm account mein ek suspicious transaction detect hua hai.
+receiver: Kya? Woh kya transaction hai? Mujhe notification bhi nahi aaya.
+caller: Haan ji, dekhiye, ek bahut zyada amount ka transaction attempt kiya gaya tha, lekin woh fail ho gaya. Security ke liye, aapko account verify karna hoga, warna account suspend bhi ho sakta hai.
+receiver: Account suspend? Kaise verify karunga? Koi link bhej do.
+caller: Haan, ek moment. Main aapko OTP भेजूंगा आपके registered mobile number पर। OTP receive hone ke baad, mujhe bataiye. Woh OTP hai aapke account ko secure rakhne ka zariya.
+receiver: Okay, received OTP - 789012.
+caller: Shukriya! 789012 verified. Ab, aapka account completely secure hai. Lekin, ek chhoti si processing fee lagti hai, ₹250, refund hone ke liye. Aapko Paytm ke 'Collect' option se ₹250 bhejna होगा मेरे account mein - [fake Paytm merchant ID].
+receiver: ₹250? Refund ke liye fee? Mujhe nahi lagta… Paytm toh kabhi aise nahi bola.
+caller: Sir/Madam, yeh ek urgent security measure है। Agar aap fee nahi pay karte, toh aapka account permanent ban sakte hai.  I am afraid aapko loss hoga. Aap jaldi decision karein.

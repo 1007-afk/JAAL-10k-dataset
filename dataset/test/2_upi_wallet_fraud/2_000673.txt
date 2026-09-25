@@ -1,0 +1,6 @@
+caller: Namaste! Main Bharat Bank se Manish bol raha hoon. Aapko ek achha cashback offer mila hai! Aapka account Diwali special bonus ke liye select hua hai.
+receiver: Diwali bonus? Bharat Bank ka? Really? Kitna cashback milega?
+caller: Sir, ₹500 cashback milega, lekin iske liye aapko ek small processing fee bhar deni hogi – sirf ₹50. Yeh fee confirm kar rahi hai ki aap sahi account holder hain.
+receiver: ₹50 fee? Aur woh bhi cashback ke saath? Yeh thoda funny lag raha hai. Bharat Bank app mein toh kuch dikh nahi raha.
+caller: Sir, yeh special offer direct bank account mein deposit ho jayegi, app se nahi. Aapko bas ek OTP dena hai jo aapke phone pe aaega, tab fee bhar jayegi.
+receiver: Okay, OTP mil gaya… 4879.  Pero, yeh fee Bharat Bank app mein direct kyon nahi bhar sakte? Mujhe trust nahi aa raha hai.

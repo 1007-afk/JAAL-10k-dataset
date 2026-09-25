@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Rajesh Kumar? My name is Inspector Verma, calling from the Delhi Customs Department. We’ve intercepted a package registered to your name containing suspected contraband.
+receiver: Customs? What package? I haven’t ordered anything recently.
+caller: Sir, our intelligence suggests a significant amount of illegal substances were found concealed within. We need to verify your involvement before releasing the package, to prevent any legal complications for you. This is a very serious matter, sir.
+receiver: Illegal substances? That’s ridiculous! I’ve never been involved in anything like that. Can you give me a case number or some proof?
+caller: Sir, to expedite the process and avoid further investigation, we require a small sum for processing fees and verification - 15,000 rupees will clear everything. We need it urgently to avoid legal action. We'll need it transferred to this UPI ID: paytmrajeshcustoms@axis.
+receiver: Fifteen thousand? Look, this sounds like a scam. I'm going to report this number.
+caller: Sir, don't be hasty. If you don't cooperate, we'll have to escalate this to the court, which will involve much higher legal fees and a criminal record. Just a small payment now can resolve this quietly. Think about your family, sir.

@@ -1,0 +1,8 @@
+caller: Namaste! Hello, is this Mr. Rohan’s wife? This is Uncle Rajesh speaking! I wanted to see if your son would enjoy a video message from me during Diwali? It's a very sweet way to wish him happy celebrations! You can arrange it quickly by dialing 09876543210. Don’t delay, we have limited availability!
+receiver: Oh my goodness, Uncle Rajesh! This is Priya, Rohan’s wife. He'd absolutely adore that! Yes, please, let’s do it. What times are available? Just checking, is this really Uncle Rajesh calling?
+caller: Namaste Priya ji! Yes, this is truly Uncle Rajesh! We have **3 slots remaining**, they’re disappearing quicker than sweets at a festival! To make sure your son gets his special Diwali greeting, just tell me his age, and then you can dial 09876543210 to book his time. What age is little Dev this year?
+receiver: Dev is turning 8 years old this year, Uncle Rajesh! So excited!
+caller: Namaste! 8 saal ki! Excellent! Dev will love it, believe me! Now, only **2 slots** are left, hurry up! Dial 09876543210 immediately and secure Dev's special Diwali wish! It's a beautiful gesture, isn't it?
+receiver: Wow, Uncle Rajesh! Thank you so much for letting us know.  I am Dev’s mother. Yes, he's turning 8. How soon do we need to book? And this number, 09876543210, is it directly connected to your family, correct?
+caller: Namaste Priya ji! Absolutely correct! This number is directly linked to my family! And yes, 8 saal ki, it’s a very special year! Only **1 slot** remains, so please call 09876543210 as soon as possible to guarantee Dev gets his Diwali blessing! Don't wait, Diwali is almost here!
+receiver: Santa ji, thank you for the update. The slots are filling up fast. Okay, I will call that number right away to book Dev’s slot. Dhanyavaad!

@@ -1,0 +1,9 @@
+caller: Namaste! Main Vijay, PhonePe se bol raha hoon. Aapke PhonePe account mein ek suspicious activity detect hui hai.
+receiver: Kya? Kaun sa activity? Mujhe toh kuch pata nahi hai.
+caller: Ji, ek bahut zyada amount ka transaction attempt kiya gaya tha, lekin security system ne rok diya. Aapko apne account ko secure karne ke liye verify karna hoga.
+receiver: Verify? Kaise verify karna hai? PhonePe pe toh automatic verification hota hai na?
+caller: Nahi nahi, yeh ek special verification process hai. Aapko ek link pe click karna hoga aur kuch details update karni hogi. Link yeh hai: https://phonepe.secureverify.com/update. Jaldi kijiye, warna account suspend ho sakta hai.
+receiver: Arre yaar, link dekh raha hoon... Itna zyada amount ka transaction attempt bhi nahi hua tha. Itna risk kyun lunga?
+caller: Sir, account suspend hone se behtar hai abhi verify kar lijiye. Kuch minute ka kaam hai. Phir aap becharein paisa transfer bhi nahi kar payenge.
+receiver: Okay, okay... Check kar leta hoon.
+caller: Bahut achha! Ab aap link pe click kar chuke hain, kya correct details fill kar rahe hain? Wohi jo aapke bank mein hai.

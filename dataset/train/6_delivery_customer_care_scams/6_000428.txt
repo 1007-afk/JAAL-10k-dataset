@@ -1,0 +1,7 @@
+caller: Hello, mai hu Rajesh, XYZ Courier se. Aapke ek parcel ke saath kuch problem aa raha hai. Address validation fail ho gaya hai.
+receiver: XYZ Courier? Kya problem hai? Mujhe toh koi order yaad nahi.
+caller: Sir, order ID hai [Invent Order ID - e.g., ZM78923]. Flipkart se hai. Address galat dikha raha hai system mein. Payment ke liye OTP maang rahe hain customer.
+receiver: Wait, Flipkart se? Mai toh kuch order nahi kiya tha. OTP kyu maangenge?
+caller: Sir, parcel deliver karne se pehle, humein confirm karna hai ki woh sahi address par jaa raha hai. OTP sirf verification ke liye hai, sir. Thode minutes lagega.
+receiver: Yeh kuch gadbad lagi. Mai Flipkart se direct baat karta hu.
+caller: Sir, hume apologies hai, lekin iske bina parcel rokna padega. Ye company policy hai. Please share the OTP for verification. Sir, jaldi karo, otherwise parcel return ho jayega.

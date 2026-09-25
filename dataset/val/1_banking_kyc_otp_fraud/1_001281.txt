@@ -1,0 +1,6 @@
+caller: Namaste, main Axis Bank KYC department se Rahul bol raha hoon. Aapke account mein kuch irregularity dikhi hai, isliye hum aapke details verify karna chahte hain.
+receiver: KYC? Mujhe koi message ya email nahi aaya tha. Aur aapne mujhe kaise call kiya?
+caller: Sir, security ke vajah se hum email ya message nahi karte. Account suspend hone se bachne ke liye, aapko apne PAN card number aur date of birth bataane hoga. Yeh sirf 2 minute ka kaam hai.
+receiver: Account suspend? Yeh thoda zyada hi urgent lag raha hai. Main bank branch mein jaakar verify karwa lunga.
+caller: Sir, branch mein line bahut lambi hogi. Aur abhi yeh offer hai, agar aap abhi verify kar lete toh aapko ₹500 ka cashback bhi milega.
+receiver: Cashback? Sir, yeh toh mera trust karwa raha hai. Koi bank phone pe PAN card number nahi manta. Main call cut kar raha hoon.

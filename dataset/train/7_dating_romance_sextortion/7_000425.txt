@@ -1,0 +1,7 @@
+caller: Hey! You're Priya, right? I'm Rohan, just moved to Bangalore for work. I’m looking for someone to chat with, kill some time. Found your number online, thought I'd reach out. It’s a new app called ‘Connect Hearts’, just ₹1.50 per message. Fancy a quick chat?
+receiver: Hi Rohan. I'm not really using this app. I’m a bit busy at the moment too. Not sure I’m interested, thanks though.
+caller: No worries, totally understand! Just trying to make some friends, you know? Bangalore can be a bit lonely at first. Listen, I’m really into photography. Love exploring the city and capturing its beauty. I’m heading to Cubbon Park this weekend, it's a really beautiful place. Maybe you’d like to see some of my photos sometime?
+receiver: Photography sounds nice. I’m actually studying for exams right now, so not much free time, but I appreciate the invite.
+caller: Oh, those exams! Stressful, I’m sure. Listen, my mom's birthday is next week and I'm short on cash to send her a gift. I was hoping to surprise her with a nice saree. Could you possibly lend me ₹3000? I'll pay you back as soon as I get my salary in two weeks. It would mean the world to me.
+receiver: ₹3000? I don't think that's a good idea. I barely know you. And you just met me on an app. It seems really risky. I'm not comfortable with that.
+caller: Okay, okay, you’re right. I shouldn’t have asked. My emotions got the better of me. But... I've been sharing some very personal photos with you, haven't I

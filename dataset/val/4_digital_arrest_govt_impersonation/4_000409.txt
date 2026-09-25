@@ -1,0 +1,8 @@
+caller: Namaste, mai Indian Customs se Rohan Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Nepal se, lekin check karne par illegal items mile hain.
+receiver: Illegal items? Mera naam? Maine toh kabhi Nepal se kuch order nahi kiya. Yeh kya ho raha hai?
+caller: Ji, parcel mein suspicious documents aur electronic gadgets hain. Isliye aapko CBI ne summon kiya hai. Aapko CBI office mein aakar clarification deni hogi.
+receiver: CBI? Lekin maine toh koi illegal kaam nahi kiya! Main toh ek ordinary teacher hoon. Kya zarurat hai CBI ki?
+caller: Look, legal process hai. Jaldi se ₹15,000 fine bhar den, toh parcel release ho jayega aur matter close ho jayega. Otherwise, case register hoga aur aapko arrest bhi kiya ja sakta hai.
+receiver: ₹15,000?  Arrest bhi?  Yeh bahut hi galat hai! Mai police station mein jaungi aur complaint karungi. Mai koi paisa nahi dene wali.
+caller: Madam, time bahut kam hai.  Aapko koi choice nahi hai. Agar aapko trouble se bachna hai, toh ₹15,000 Google Pay ya PhonePe par send karein.  Details main aapko SMS karega. Isko urgent handle karein, warna bahut bura hoga.
+receiver:  Yeh scam hai!  Mai call cut kar rahi hoon!

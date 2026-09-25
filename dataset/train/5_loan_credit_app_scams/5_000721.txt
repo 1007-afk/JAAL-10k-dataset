@@ -1,0 +1,7 @@
+caller: Hello, is this Rohan Sharma? We've approved your loan application through 'CashRise'. Congratulations! You're eligible for ₹55,000.
+receiver: Really? That's great news! I applied, but I wasn’t sure if I’d get it. What do I need to do next?
+caller: To activate the loan, we require a small processing fee of ₹2,500. This ensures your account security and completes the verification. It’s a one-time charge. You can pay it via UPI.
+receiver: Two thousand five hundred? That seems a bit high, doesn’t it? I thought these loans were supposed to be quick and easy.
+caller: Look Rohan ji, this is standard procedure to prevent fraud and ensure the loan is legitimate. Without this fee, we can't release the funds. Many people try to scam us.  If you don't pay, we'll have to cancel your application. And you'll have to restart the whole process.
+receiver: Okay, fine. I'll do it. Send me the UPI details.
+caller: Excellent decision, Rohan ji! Now, we also noticed a few discrepancies in your profile. To avoid any complications and possible legal action, you need to send us a selfie with your Aadhaar card. This is just a final verification measure.

@@ -1,0 +1,13 @@
+caller: Namaste sirji! Aapko ek mahatvapurn customer support call sunana hai. Kripya FREEPHONE 09876543210 par turant call karein! Aapki subscription plan mein badala hai.
+receiver: Namaste ji. Subscription plan mein badla? Kaise badla? Batao mujhe.
+caller: Ji, aapke online shopping account mein ek naya offer aaya hai. Isliye aapki monthly charges bad rahi hain. Jaldi kijiye, yeh offer sirf 24 ghante ke liye chalega!
+receiver: 24 ghante ke liye? Mein online shopping nahi karta. Mujhe is offer ka koi relevance nahi hai.
+caller: Sir, hum aapke account profile mein dekh rahe hain ki aap kitne items purchase karte hain. Aapko zyada items purchase karne ki habit hai, isliye yeh offer aapke liye bana hai.
+receiver: Mein zyada items purchase nahi karta. Ye toh koi logic nahi hai. Aap mere account mein kya dekh rahe hain?
+caller: Ji, hum aapke payment history ko bhi check kar rahe hain. Aapke account se recently ek big order diya gaya tha. Isliye aapki monthly charges bad rahi hain.
+receiver: See, yeh dukaan se order diya gaya tha. Mein usse return kar diya tha. Mujhe is matter ka solution chahiye.
+caller: Ji, maaf karna sir, hum ek mistake kari hain. Aapki monthly charges refund kar di gayi hai. Apologies for the inconvenience.
+receiver: Refund kar di gayi? Thoda patience karo, mujhe confirmation chahiye. Transaction ID bataiye.
+caller: Sir, transaction ID abhi available nahi hai. Hum verification process mein hain. Aapko coming days mein pata chalta hai.
+receiver: Coming days mein? Mujhe koi assurance nahin. Main apni account se extra charges nahi accept karunga.
+caller: Ji, kami ho gayi hai. Aapko soon notification mil jaayega. Shukriya!

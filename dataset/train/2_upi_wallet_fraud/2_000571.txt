@@ -1,0 +1,6 @@
+caller: Namaste! Main Airtel Payments Bank se Rahul bol raha hoon. Aapke account mein ₹5000 ka cashback offer hai, government scheme ke under.
+receiver: ₹5000? Airtel Payments Bank mein? Yeh kahan ki offer hai? Mujhe toh kuch pata nahi tha.
+caller: Haan ji, ye special offer sirf Airtel Payments Bank ke select customers ke liye hai. Claim karne ke liye, aapko sirf ₹500 processing fee bharne hogi.
+receiver: ₹500? Processing fee? Aur woh kaise bharunga? Mere pass toh Airtel Payments Bank app mein bahut paisa hai.
+caller: Haan ji, aapko ek OTP milega aapke registered mobile number par. Woh OTP bataiye aur mai aapko ek UPI link bhejuunga, wahaan par aap ₹500 bhar denge. Cashback ka amount fir automatically aapke account mein deposit ho jayega.
+receiver: Okay, OTP mil raha hoon… 123456. UPI link bhejo jaldi karo. Lekin paisa deposit hone ka guarantee hai na?

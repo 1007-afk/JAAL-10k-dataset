@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rohit hai, LoanExpress.co.in se. Aapko urgent paisa chahiye kya? Koi bhi reason - medical expenses, school fees, ya phir business expansion? Hum aapko aasaan shartyon par loan de sakte hain. Aapka naam bataiye?
+receiver: Ji, mera naam Anjali Verma hai. Mujhe mere beti ki school fees ke liye abhi paisa chahiye tha.
+caller: Anjali ji, bahut achha. LoanExpress mein hum mothers ko priority dete hain. Aapko kitni amount ki loan chahiye? ₹30,000 tak hum easily approve kar sakte hain. Credit check bhi nahi karenge, tension mat leiye.
+receiver: ₹30,000 ka loan zyada rahega, par ₹20,000 ka ek try karke dekha ja sakta hai.
+caller: Theek hai Anjali ji! ₹20,000 ka loan aapke liye approve ho gaya hai. Par, humara rule hai ki loan process start karne se pehle ₹800 ka processing fee jama karna padega. Iske baad paisa aapke account mein transfer ho jayega. Agree hain?
+receiver: ₹800 processing fee? Aur yeh fee kab tak return hogi? Mujhe yeh thoda suspicious lag raha hai.
+caller: Anjali ji, ₹800 fee sirf ek verification charge hai, aur yeh kabhi return nahi hogi. Yeh humare system ki security ke liye hai. Agar aapko trust nahi hai, toh koi baat nahi, aap loan nahi le sakte. Lekin jaldi karie, offer limited time ke liye hi hai.
+receiver:  Hmm, main sochte hoon. Mujhe ek baar aur check karna hai. Thank you.

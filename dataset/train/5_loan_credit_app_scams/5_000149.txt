@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Finance se Rahul bol raha hoon. Aapki file register ho gayi hai ek loan ke liye. ₹75,000 tak ka loan approved ho sakta hai, bilkul bina kisi credit check ke. Aapka naam sunkar khushi hui, Shri Rajesh Verma.
+receiver: Ji haan, main Rajesh Verma hi hoon. Loan ka kya process hai aur interest kitna hoga?
+caller: Rajesh ji, process bahut easy hai. Bas kuch basic details confirm karna hai. Interest rate 12% per annum hogi, lekin hum aapko best deal denge. Ab bataiye, aapka permanent address kya hai?
+receiver: Address hai mera, 123, Patel Nagar, Delhi. Aur mujhe yeh loan kyun approved ho raha hai bina credit check ke?
+caller: Rajesh ji, hum Bharat Finance mein logon ko easy loan provide karte hain, especially unko jinko credit history nahi hai. Lekin, abhi approval confirm karne ke liye, aapko ₹2,500 ka processing fee deposit karna hoga. Paytm ya Google Pay se kar sakte hain, hum send karenge UPI ID.
+receiver: ₹2,500? Processing fee? Mujhe toh kisi ne kabhi aise nahi bataya.
+caller: Rajesh ji, sorry, yeh rule hai. Approval confirm hone ke baad, fee back mil jayegi. Bina fee ke approval possible nahi hai. Fast karo, offer limited time ke liye hai. Else, hamko cancel karna padega.
+receiver: Theek hai, ek minute.

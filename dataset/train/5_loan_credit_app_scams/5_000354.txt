@@ -1,0 +1,7 @@
+caller: Namaste Madam, mai Rohan Verma, Loan Mitra Services se bol raha hoon. Aapne apni online loan application submit kiya tha, isliye call karta hoon. Kya aapka PAN card aur Aadhar card ready hai?
+receiver: Ji, haan Rohan ji. PAN card aur Aadhar card dono ready hai. Main kya check karwaani hai?
+caller: Bahut accha! Madam, ek special offer hai humaare paas – instant personal loan, sirf 10% processing fee ke saath. Aapko jitni bhi zarurat hai, ₹50,000 se ₹2,00,000 tak.
+receiver: 10% processing fee? Aur kya conditions hai? Mujhe toh loan urgent chahiye tha, lekin interest rate kitna hoga?
+caller: Madam, interest rate market ke hisaab se competitive hai, lekin processing fee ek hi hai. Aur ek chhota-sa verification fee ₹500 deposit karna padega, tabhi loan process start ho payega.
+receiver: ₹500 verification fee? Yeh thoda zyada lag raha hai. Main sochti hoon.
+caller: Madam, yeh ek security measure hai, aapka account safe rakhne ke liye. Agar aap agree karti hain, toh mai aapko OTP (One Time Password) send karwa dunga, jise aap humein bata sakein. Yahi se loan process shuru ho jayega. Madam, aapka decision?

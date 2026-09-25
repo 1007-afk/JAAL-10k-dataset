@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Inspector Rajesh from the Directorate of Enforcement. We've detected some unusual activity linked to your bank account - a series of small transactions originating from overseas, potentially linked to online gambling.
+receiver: Directorate of Enforcement? Gambling? But I don't gamble online, sir. What transactions are you talking about?
+caller: Sir, it appears these transactions are being used to launder money. We need to verify your identity and freeze your account temporarily to prevent further illegal activity. Can you please provide the last four digits of your account number and the CVV from the back of your debit card? It's a standard procedure.
+receiver: Freeze my account? CVV? That sounds risky, sir. Shouldn't I be getting this information in writing? Can you give me a reference number for this call?
+caller: Sir, time is of the essence. Delaying this process could expose you to serious legal complications. We need to act quickly. Providing the requested information is the easiest way to resolve this immediately. Don’t worry, your money is safe with us.
+receiver: But sir, I'm still worried about giving out my CVV over the phone. Can I call the Directorate of Enforcement directly to verify this?
+caller: Sir, it’s against protocol for us to provide direct contact numbers. This is a secure line established specifically for this investigation. Please cooperate, sir; otherwise, we might have to escalate this to a higher authority, which could lead to a formal investigation and legal action.

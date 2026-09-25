@@ -1,0 +1,7 @@
+caller: Namaste, mai Flipkart customer care se Vishal bol raha hoon. Aapke naam par ek order aaya hai, tracking ID hai FR789234. Lekin delivery ke dauraan ek problem aa gayi hai – package damage ho gaya hai.
+receiver: Oh, damage ho gaya? Kaunsa order tha? Mujhe yaad nahi aa raha. Aur damage kitna ho gaya hai?
+caller: Yeh order ek smart watch ka hai, sir. Package thoda sa open ho gaya hai, security ke liye humein aapki OTP verify karni hogi. Ek minute aur time dijiye.
+receiver: OTP? Flipkart toh OTP kabhi nahi puchta. Ye suspicious lag raha hai. Main abhi Flipkart ke official number se check kar leta hoon.
+caller: Sir, OTP bina verify kiye hum delivery nahi kar sakte. Yeh company policy hai. Aapko sirf ek OTP dena hai, aur sab kuch theek ho jayega. Otherwise, package return ho jayega, aur aapko watch nahi milegi.
+receiver: Return ho jayega? Sir, ek minute, main Flipkart app check karta hoon. Kya aap mujhe apna employee ID bata sakte hain?
+caller: Sir, employee ID confidential hai. Lekin mai aapko guarantee karta hoon ki aapki watch safe haathi pahunchegi, bas ek OTP dedo. Just three digits, sir.

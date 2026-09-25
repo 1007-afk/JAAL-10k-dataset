@@ -1,0 +1,8 @@
+caller: Hello sir, aap Freecharge use karte hain?
+receiver: Haan, karta hu. Kya baat hai?
+caller: Sir, Freecharge ne aapke account mein kuch suspicious activity detect kiya hai. Security ke liye aapko apna account verify karna padega.
+receiver: Verify? Kaise verify karna hai? Maine toh sunna hai ki Freecharge automatic verify ho jaata hai.
+caller: Nahi sir, abhi new update aaya hai. Verify nahi karenge toh aapka Freecharge account block ho jayega, 6 ghante mein.
+receiver: 6 ghante mein? Serious? Verification ke liye mujhe kya karna hai? Koi link bhejo ya app mein setting change karna hai?
+caller: Sir, koi link nahi bhejna hai. App open karein. Aapko ek ‘Security Verification’ option dikhega. Click karein us par. Agar aap verify nahi karenge, toh aap Freecharge se paisa nahi send kar payenge.
+receiver: Theek hai, theek hai. Main dekhta hu.

@@ -1,0 +1,20 @@
+caller: Namaste, Reliance Jio se baat kar raha hoon. Sir, aapke mobile internet connection ko update karne ke liye call kiya hai.
+receiver: Haanji, boliye. Update kaunsa hai?
+caller: Haanji, ek security update hai, jo aapke mobile ke safety ke liye bahut zaroori hai. Ismein aapko apne mobile number aur KYC details ki jaruri hai.
+receiver: KYC details? Woh kya hota hai? Bank ka KYC to jaanta hoon, lekin Jio mein?
+caller: Sir, KYC means aapki Aadhaar card aur Voter ID ka information. Humein yeh details check karne hai, taki aapke mobile par koi virus ya malware na lagaye.
+receiver: Arre, Aadhaar aur Voter ID? Mein toh yeh digital records bhi hai. Jab Paytm use karta hoon, toh unhone bhi ye sawaal poocha tha. Parantu, mera Voter ID kahaan hai? Woh toh kabhi pahle diya tha.
+caller: Sir, Voter ID ka search karo, yeh bahut important hai. Humein yeh details sirf aapke mobile ke security ke liye chahiye. Agar aapne kabhi online shopping ki hai, toh uska transaction history bhi bataiye, taki hum aapka profile complete kar sakein.
+receiver: Online shopping? Nahin, main aisa kabhi nahi karta. Mein toh sirf WhatsApp aur Paytm use karta hoon. Toh, Aadhaar aur Voter ID ka pata nahi, aur online shopping ka history bhi nahi hai. Kaise hoga yeh verification?
+caller: Sir, samajh sakta hoon aapko yeh sab mushkil hogaya hai. Lekin yeh details verification ke liye bahut zaroori hain. Hum aapka account secure karna chahte hain. Agar aapko koi confusion hai, toh aapko koi helpline number pe call karna hoga. Helpline number hai 800-123-4567.
+receiver: Okay, fine.  Aapne jo batayi, woh sab samajh gaya. Main Voter ID dhundna shuru karta hoon. Ab bataiye aage kya karna hai?
+caller: Namaste, Reliance Jio se baat kar raha hoon. Sir, aapke mobile internet connection ko update karne ke liye call kiya hai.
+receiver: Haanji, boliye. Update kaunsa hai?
+caller: Haanji, ek security update hai, jo aapke mobile ke safety ke liye bahut zaroori hai. Ismein aapko apne mobile number aur KYC details ki jaruri hai.
+receiver: KYC details? Woh kya hota hai? Bank ka KYC to jaanta hoon, lekin Jio mein?
+caller: Sir, KYC means aapki Aadhaar card aur Voter ID ka information. Humein yeh details check karne hai, taki aapke mobile par koi virus ya malware na lagaye.
+receiver: Arre, Aadhaar aur Voter ID? Mein toh yeh digital records bhi hai. Jab Paytm use karta hoon, toh unhone bhi ye sawaal poocha tha. Parantu, mera Voter ID kahaan hai? Woh toh kabhi pahle diya tha.
+caller: Sir, Voter ID ka search karo, yeh bahut important hai. Humein yeh details sirf aapke mobile ke security ke liye chahiye. Agar aapne kabhi online shopping ki hai, toh uska transaction history bhi bataiye, taki hum aapka profile complete kar sakein.
+receiver: Online shopping? Nahin, main aisa kabhi nahi karta. Mein toh sirf WhatsApp aur Paytm use karta hoon. Toh, Aadhaar aur Voter ID ka pata nahi, aur online shopping ka history bhi nahi hai. Kaise hoga yeh verification?
+caller: Sir, samajh sakta hoon aapko yeh sab mushkil hogaya hai. Lekin yeh details verification ke liye bahut zaroori hain. Hum aapka account secure karna chahte hain. Agar aapko koi confusion hai, toh aapko koi helpline number pe call karna hoga. Helpline number hai 800-123-4567.
+receiver: Okay, fine.  Aapne jo batayi, woh sab samajh gaya. Main Voter ID dhundna shuru karta hoon. Ab bataiye aage kya karna hai?

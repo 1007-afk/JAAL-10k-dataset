@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Ajay Verma residing at Flat 302, Sunrise Apartments? My name is Rohan Gupta, calling from the Cybercrime Investigation Cell. We’ve detected suspicious activity linked to your bank account.
+receiver: Haan, main Ajay Verma. Kya hua? Suspicious activity? Main toh bank se regular transactions karta hoon.
+caller: Sir, our system flagged a large number of international transfers originating from your account to an unknown entity in Nigeria. This indicates possible involvement in money laundering. We need to verify your details to secure your funds. Can you confirm the last three digits of your ATM card? Just a standard security check, sir.
+receiver: Nigeria? Money laundering? Mere account se? Maine toh kabhi international transfer nahi kiya. Last three digits? Uh… 456. Par mujhe yeh zyada suspicious lag raha hai.
+caller: Thank you, sir. Confirming. To prevent further unauthorized transactions and clear your name, we require a small security deposit of ₹7,500. This will be held as collateral while we investigate. You can easily transfer it to this UPI ID: cyberinvest.gov@axisbank. It’s a mandatory procedure, sir. Very important.
+receiver: ₹7,500? Online? Sir, this is sounding very fishy. Why do I have to pay money to clear my name? I want to speak to your supervisor.
+caller: Sir, our supervisors are extremely busy right now handling urgent cases. This is the only way to resolve this quickly and protect your account. If you don't transfer the funds within the next 15 minutes, we'll be forced to freeze your account and file a formal complaint. The reference number is CIC-2024-789. Please act swiftly.
+receiver: Freeze my account? Look, this is a scam. I am reporting this number. Good bye

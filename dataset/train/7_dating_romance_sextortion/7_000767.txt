@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm Rohan, I'm a photographer and I’m showcasing my work online. I noticed your profile on 'InstaConnect' - you have a lovely smile! If you’d like to see some of my photos and maybe chat a bit, send ‘View’ to 9876543210. First 5 views are free, then ₹2 per view.
+receiver: Hmm, okay. I'm not sure. I'm a bit busy right now but maybe later. What kind of photography do you do?
+caller: Wonderful! Looking forward to chatting later. I specialize in capturing candid moments, you know, natural beauty.  It's all about finding the little details that make a person special. I’m currently working on a project about beautiful women in India - your profile really stood out! To see the gallery, please send ‘View’ to 9876543210.
+receiver: Okay, I'll send the message. But please, no pressure. I’m just curious to see what it’s about. 
+caller: Brilliant! So glad you did. I’m so glad we connected, Priya. Listen, I'm having a bit of a situation right now - I urgently need to fly back to Canada to see my sick mother. My bank card is blocked, and I’m stuck here. Could you possibly send me ₹5,000 as a temporary loan? I’ll pay you back as soon as I’m back.
+receiver: ₹5,000? That’s a lot of money. And you just met me! I don't feel comfortable doing that. I'm really sorry, but I think this is a bit strange.
+caller: I understand your hesitation, Priya, but I'm really in a

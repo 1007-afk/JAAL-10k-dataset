@@ -1,0 +1,8 @@
+caller: Hello sir, main BSNL customer care se bol raha hoon. Aapka SIM card 23 ghante mein deactivate hone wala hai. Kya aap ise activate karna chahte hain?
+receiver: Arre, BS, ye kaise ho gaya? Main to activate karna chahta hoon, ye mera number hai 98xxxxxx12. Aap bataiye kya karna hoga?
+caller: Ji sir, bilkul. Aapka SIM activate ho jayega. Bahut easy hai. Sabse pehle, mujhe aapke account ko verify karna hoga. Kya aap mujhe apna Date of Birth bata sakte hain?
+receiver: Ji, mera DOB hai 15th August 1990. Aur kya chahiye aapko?
+caller: Great sir! 15th August 1990. Thank you. Aur sir, as a security measure, could you please confirm the last 4 digits of your Aadhaar card number?
+receiver: Haan ji, Aadhaar ke last 4 digits... ek minute, yeh hain... 4567. Aur kuch bataana hai kya?
+caller: Sir, aapka verification complete ho gaya hai. Abhi aapko ek OTP ayega aapke registered mobile number pe. Jab woh OTP aaye toh, mujhe bataiye ga taaki main aapka SIM activate kar sakoon.  Aur sir, koi bhi password ya PIN kisi ko nahi bataana hai, samajh gaye?
+receiver: Haan ji, samajh gaya. Koi password, koi PIN nahi batana hai. OTP ka wait kar raha hoon. Aa jaye toh main aapko turant bata doonga. Kya koi aur process hai ya bas OTP?

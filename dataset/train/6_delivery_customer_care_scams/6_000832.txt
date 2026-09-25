@@ -1,0 +1,8 @@
+caller: Namaste, sir! This is Akash calling from Blazar Logistics. We have a problem with your package—a high-value item being delivered to your address. It seems to have been mistakenly routed through a different warehouse.
+receiver: A problem? What kind of problem? I was expecting a delivery today. What’s the item?
+caller: Yes sir, the item is a new Samsung phone. There's a slight delay, and we need to verify your address and payment details for a small re-processing fee of ₹250 to ensure smooth delivery. It’s a standard procedure.
+receiver: ₹250? That's unusual. I haven’t been charged anything like that before. Can you give me a tracking number for the package? And what’s your employee ID?
+caller: Certainly, sir! The tracking number is ZX78912345. My employee ID is BL-3478. To quickly process the re-processing fee, could you send the payment via UPI to 8989898989? Just a quick confirmation is all we need.
+receiver: UPI? Are you sure? Seems risky. Can't I pay on delivery?
+caller: Sir, due to the high volume of packages and the urgency of this matter, we can only accept online payment at this time. Please be aware that if the payment is not received within the next 15 minutes, the package will be returned to the sender. We wouldn't want that to happen.
+receiver: Okay, fifteen minutes, huh? Fine, I’ll do it. Let me just make the payment.

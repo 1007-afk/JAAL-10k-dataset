@@ -1,0 +1,8 @@
+caller: Namaste! Main ICICI Bank se Rahul bol raha hoon. Aapke ICICI account mein aaj ek suspicious transaction detect hua hai.
+receiver: Kya? Kitna transaction hua? Aur kisliye?
+caller: ₹12,000 ka transaction Gujarat se kiya gaya hai, sir. Hamare system ko verify karna hai ke aapne ye transaction kiya hai ya nahi.
+receiver: ₹12,000? Main toh Gujarat mein bhi nahi hoon! Yeh toh fraud hai!
+caller: Sir, jaldi karo. Account block ho sakta hai. Aapko apne OTP number ka confirmation dena padega, tabhi account secure ho payega.
+receiver: OTP? OTP kispe? ICICI Bank kabhi phone par OTP nahi manta hai! Yeh scam hai, sir. Main koi bhi OTP nahi dunga.
+caller: Sir, aapko samjhana padega. Account suspend hoga, aur ₹12,000 bhi chala jayega. Thoda sa cooperate karo, please. Aapka Aadhaar card number bataiye, verification ke liye.
+receiver: Bilkul nahi! Main police complaint karunga agar aapne mujhe aur koi question kiya!

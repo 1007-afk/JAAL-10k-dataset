@@ -1,0 +1,10 @@
+caller: Namaste sir, mein Vijay Singh bolta hoon, QuickCash Solutions se. Aapne hamari website par ek personal loan ke liye apply kiya tha, correct?
+receiver: Haan, bilkul. Mein Rahul Verma. QuickCash Solutions... Haan, apply kiya tha. Kya hua?
+caller: Sir, aapka application approve ho gaya hai. Abhi sirf kuch basic details confirm karne hai. Aapka current bank account number kya hai?
+receiver: Bank account number? Aur OTP?
+caller: Haan sir, OTP bhi milega, verification ke baad. Lekin pehle bank account number confirm karna hai taaki loan transfer kar sake. Account number bataiye, sir. Zaldi karna hai, offer limited time ke liye hai.
+receiver:  Yeh thoda suspicious lag raha hai. Maine toh OTP expect kiya tha.
+caller: Sir, OTP aayega baad mein, bank details confirm hone ke baad. Aapka account safe hai, tension mat leiye. ₹50,000 ka loan approve kiya gaya hai, sir. Aapko paisa urgently chahiye tha, correct?
+receiver: ₹50,000? Haan... Par mujhe bank se direct call aane ki umeed thi.
+caller: Sir, bank ke rules change ho gaye hain, abhi website se hi verify karna padta hai. Aapka PAN card number bhi bataiye, sir, verification ke liye.
+receiver: PAN card? Nahin, mein nahin dunga. Yeh scam lag raha hai.

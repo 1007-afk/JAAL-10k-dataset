@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from Axis Bank’s Fraud Prevention Department. We’ve detected unusual activity on your account.
+receiver: Haan, this is Priya. What unusual activity?
+caller: We noticed a large attempted transfer from your savings account to an unknown beneficiary. To secure your funds and prevent this transaction, we need to verify your identity immediately. Please provide the OTP you just received on your registered mobile number.
+receiver: OTP? Why do you need my OTP? This sounds like a scam. Axis Bank never asks for OTP over the phone.
+caller: Ma’am, I understand your concern, but this is a crucial security measure.  We are facing a high volume of fraud attempts right now. Providing the OTP will allow us to temporarily freeze your account and initiate a full investigation. Otherwise, the unauthorized transfer will go through.  Just the OTP, please. It will only take a second.
+receiver: Okay, fine. It’s 4587. But I'm reporting this to Axis Bank immediately after this call.
+caller: Thank you, ma’am. Just one more quick verification. For added security, can you please confirm the last four digits of your PAN card?

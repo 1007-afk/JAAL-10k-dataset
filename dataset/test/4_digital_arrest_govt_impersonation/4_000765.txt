@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Sharma from the Directorate of Revenue Intelligence. We've detected unusual activity linked to your Amazon account - specifically, a large number of suspicious parcels flagged for potential narcotics and counterfeit goods.
+receiver: Narcotics? My Amazon account? That's impossible! I only order books and groceries.
+caller: Sir, we have evidence suggesting your account was compromised and used to facilitate these illegal shipments. This is a very serious matter. To clear your name and prevent further investigation, you need to cooperate. We require a copy of your Aadhar card and a screenshot of your recent bank transactions.
+receiver: Wait a minute. This sounds like a scam. Why would the DRI ask for my Aadhar and bank details over the phone? Shouldn't I be getting a formal notice?
+caller: Sir, time is of the essence. We’re under pressure to act swiftly and apprehend those involved. Failure to provide this information promptly could lead to a warrant being issued for your arrest and a significant fine. This is to safeguard national security.
+receiver: Safeguard national security? I think you’re lying. I'm reporting this to the cybercrime cell. I will not be providing any personal information.
+caller: Sir, please reconsider. We've already traced the IP address used to initiate the fraudulent shipments - it’s linked to your home network. This is incredibly damaging to your reputation. We can prevent this from escalating, but you must assist us now. Consider this your final opportunity.

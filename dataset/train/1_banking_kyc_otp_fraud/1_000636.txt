@@ -1,0 +1,8 @@
+caller: Namaste sir, Airtel helpline se bol raha hu. Aapke number ki verification process chal rahi hai. Aapke phone par ek 5-digit PIN code aa gaya hoga, woh bataiye please.
+receiver: Oh, ji. Ek minute, dekhti hu...Haan, aa gaya. 82937. Aapse kaun baat kar raha hai?
+caller: Ji sir, mera naam Priya hai. Dhanyavaad ke OTP verify kiya. Abhi hum aapki account details ko check kar rahe hain. Kya aap mujhe apne registered alternate phone number bata sakte hain?
+receiver: Haan Priya. Mera registered alternate phone number hai [apna registered alternate phone number yahan daalein].
+caller: Dhanyavaad sir, alternate number confirm ho gaya. Ab hum aapke account ko secure karne ke liye, aapke registered email id pe ek notification bhejeinge. Kya aap mujhe apna registered email id bata sakte hain?
+receiver: Haan Priya. Mera registered email id hai ‘info.test@domain.net’. Kisi aur details ki zaroorat hai?
+caller: Ji sir, aapka email id confirm ho gaya hai. Ab aapko ek message aa jayega, usmein click karke verification karna hai. Verification karne ke baad, aapke account mein cashback offers milegi. Aapko koi aur sawaal hai Priya?
+receiver: Nahin, Priya, koi aur sawaal nahin hai. Cashback offers ki jankari thodi bata dijiye.

@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Inspector Singh calling from the Delhi Customs Department. We have intercepted a parcel registered under your name containing suspected contraband.
+receiver: Contraband? What are you talking about? I haven’t ordered anything suspicious.
+caller: Sir, our records indicate a parcel originating from Dubai was addressed to you, but it triggered our scanner due to unusual density. We suspect it contains illegal narcotics.
+receiver: This is ridiculous! I’ve never been to Dubai in my life. This must be a mistake. Can you give me a case reference number, please?
+caller: Sir, providing you with a case number at this stage could compromise the investigation. However, to clear this up quickly, you need to pay a small processing fee of ₹15,000 to ensure the parcel isn't destroyed and to verify your identity. You can pay through UPI to this number: 7894561230.
+receiver: ₹15,000? Seriously? This sounds like a scam. Why can’t I just come to the customs office and sort this out?
+caller: Sir, due to the sensitive nature of the case and current security protocols, we are conducting preliminary screenings remotely. The fee is refundable after verification, I assure you. We need the payment quickly, sir, or we will have to proceed with further action. 
+receiver: I'm not paying anything until I speak to someone I can verify. I'm reporting this to the cybercrime unit. Goodbye.

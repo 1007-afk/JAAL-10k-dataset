@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rahul hai, CryptoGainz se. Aapka account hamare platform par register hai, lekin aapne abhi tak withdrawal nahi kiya hai?
+receiver: Haan, sahi hai. Main abhi busy tha, isliye nahi kar paya. Kya chal raha hai?
+caller: Bahut achha! Ab ek special offer hai, sirf 24 hours ke liye. Aapka pending withdrawal ₹15,000, hum double kar denge, ₹30,000 ban jayega.
+receiver: Double? Yeh kaise hoga? Kuch verification process hogi na?
+caller: Haan, sir. Just a small verification fee ₹500. Isko humare secure payment gateway se send kijiye. Isse aapka account verify ho jayega aur withdrawal process shuru ho jayegi.
+receiver: ₹500? Thoda zyada to lag raha hai, par ₹30,000 milenge to okay hai. Payment details send kijiye.
+caller: Theek hai! Payment gateway link yeh hai: bit.ly/cryptogains-verify. Jaldi se verify kar lijiye, offer time-limited hai!
+receiver: Wait a minute... bit.ly? Yeh toh suspicious lag raha hai.

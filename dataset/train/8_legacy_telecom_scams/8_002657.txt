@@ -1,0 +1,8 @@
+caller: Sir, aapko pata hai kya, humara naya smart watch campaign chal raha hai? Aapko ek super special offer mil rahi hai!
+receiver: Haan, bolde! Kya offer hai? Main smart watches ke bare mein bahut interested hoon.
+caller: Absolutely! Yeh smartwatch ekdum premium hai, aur ismein ek surprise gift bhi hai - free charging stand! Plus, aapko 500 data plan milegi, aur line rental pe bhi 20% discount! Aur pehle do mahine ke liye unlimited calling bhi!  Yeh smartwatch model ka naam 'Titan X', iska design bahut sleek hai aur screen bohat bright hai.
+receiver:  Wow, Titan X!  Camera quality kaisi hai?  Aur yeh data plan kitni gigabytes ka hai?
+caller: Camera nahi hai, sir/ma'am! Yeh smartwatch hai, aur ismein heart rate monitor, blood pressure sensor, aur GPS bhi hai! Data plan mein 10 GB data mil rahi hai. Agar aap chahte hain, toh main aapka name aur pin code confirm kar sakta hoon taki hum aapke liye order kar dein aur humara delivery partner aapko timings bata de. Aapka name kya hai, please?
+receiver: Mera naam Priya hai.  Aur yeh offer kitne days ke liye chalega?  Aur agar mujhe koi problem ho toh kahan complaint kar sakta hoon?
+caller:  An ji, yeh offer jaldi-jaldi khatam ho jayegi, sirf ek hafta ke liye! Agar koi bhi problem ho toh aap kisi bhi time 09876543210 par call kar sakte hain.  Abhi aapka name aur pin code confirm karwa dijiye taaki hum aapki order process shuru kar den!
+receiver:  Arre yaar, sirf ek hafta? Okay, toh mera address hai 456, Defence Colony, Mumbai. Aur phone number jo aapne bulaya, woh yahi hai, 09876543210? Bas ek question, yeh unlimited calling, yeh sirf India mein chalta hai ya international roaming bhi possible hai?

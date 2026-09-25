@@ -1,0 +1,9 @@
+caller: Namaste! Caller speaking from Axis Bank KYC verification department. We have detected some unusual activity on your account, sir. It's very important to update your details immediately to avoid suspension.
+receiver: Haan, bolo. Kya hua? Main abhi kaam mein busy hoon.
+caller: Sir, we’ve noticed a potential unauthorized login attempt. To secure your account and prevent any losses, we need to verify your Aadhaar OTP. Could you please share it with me?
+receiver: Aadhaar OTP? Mere phone pe koi OTP nahi aaya hai. KYC ke liye kabhi bhi OTP maangte nahin hain.
+caller: Sir, this is a new, advanced security protocol. We’re sending it directly to your Aadhaar linked mobile number. Without this verification, your account will be temporarily frozen within the next 15 minutes. It’s for your own safety, sir. Also, there is a new GST regulation and your PAN details need immediate updating.
+receiver: Paanch minute? Paagal ho gaye ho? GST regulation ke liye bhi OTP maangte hain? Main kisi bhi number pe nahi bataunga. Phir bank se khud check karunga. Ye scam hai.
+caller: Sir, please understand, this is a genuine security measure. We are also offering a bonus reward of ₹2000 in your account if you complete the verification process right now. This is a limited-time offer.
+receiver: ₹2000? Bohot chala hai. Acha number hai. Chal, bata do.
+caller: Wonderful! Now, kindly share the first four digits of your PAN card, sir.

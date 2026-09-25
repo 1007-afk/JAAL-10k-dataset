@@ -1,0 +1,8 @@
+caller: Namaste, sir, thanks for downloading the 'Shubh Yatra' app, reference number RM76. You’ll be paying ₹12 per month for premium features. You can cancel this anytime by dialing 8800123456.
+receiver: Oh, okay, thanks for letting me know. ₹12 a month for the premium stuff, right? 8800123456 – I’ll save that number.
+caller: Haan, aur ek cheez, sir, yeh ₹12 monthly charge automatically apply hoga jab tak aap khud nahi karte cancel. Isliye agar aapko subscription khatam karna hai, to please 8800123456 par call kar lein. Dekh rahe hain, samajh mein aaya?
+receiver: So basically, until I cancel myself, my money will continue to get deducted? Right, understood. And if I want to cancel, I need to call 8800123456. Yes, I’ll remember that. Thank you for clarifying!
+caller: Absolutely, sir! We just wanted to ensure you’re completely aware of everything. No immediate action is required from you unless you decide to cancel. Any other questions for me?
+receiver: No, no questions at all. You explained everything perfectly. Thank you very much!
+caller: Great, glad to hear it, sir. If you ever have any queries in the future, you can reach us on 8800123456. Have a fantastic day!
+receiver: Wonderful, thank you so much! I'll keep that number safe. You too, enjoy your day!

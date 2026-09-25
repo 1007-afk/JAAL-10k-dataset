@@ -1,0 +1,6 @@
+caller: Hello sir, this is Priya calling from Paytm Payments Bank. We've detected some unusual activity on your linked UPI ID.
+receiver: Unusual activity? What kind of activity? I haven’t made any new transactions.
+caller: Yes sir, there was a small attempt to transfer ₹50 to a new merchant account. We’re just verifying this is you to prevent any unauthorized access. Can you please confirm the last four digits of your linked bank account?
+receiver: Wait a minute. Why do you need my bank account details? Paytm should already have my UPI information. This seems a bit suspicious.
+caller: Sir, this is a standard security protocol. We need to confirm your bank account to fully validate your identity. It's a one-time verification for your safety. For a small fee of ₹50, we can unlock your account. Please pay it through UPI via this QR code.
+receiver: ₹50? And a QR code? No, I’m not paying anything. I’m going to call Paytm customer care directly to report this. Goodbye.

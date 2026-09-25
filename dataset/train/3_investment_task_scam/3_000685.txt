@@ -1,0 +1,10 @@
+caller: Namaste! Main Akash se bol raha hoon, CryptoGainz se. Aapko cryptocurrency mein interest hai, hai na? Hum ek special trading opportunity offer kar rahe hain, sirf limited members ke liye.
+receiver: CryptoGainz? Yeh kaun si company hai? Aur trading opportunity kya hai?
+caller: Ji haan, CryptoGainz ek naya platform hai jahan aap Bitcoin aur Ethereum mein invest kar sakte hain, aur sirf ek week mein 20% profit kama sakte hain. Aapko sirf ₹10,000 invest karne hai.
+receiver: 20% profit ek week mein? Yeh thoda zyada lag raha hai. Koi risk toh hoga na?
+caller: Koi risk nahi hai, madam. Yeh ek guaranteed scheme hai. Hum aapko ek expert trader se connect kar denge jo aapke liye trade karega. Aapko bas profit milna hai.
+receiver: Okay, mujhe interest hua hai. Main ₹10,000 invest karne tayyar hoon. Mujhe bataiye kaise karna hai.
+caller: Bahut achcha! Aapko ek UPI ID dena hai ₹10,000 transfer karne ke liye. Jab transfer ho jayega, hum aapko trading details send kar denge.
+receiver: Fine, mera UPI ID hai [Receiver's UPI ID]. Maine transfer kar diya hai.
+caller: Excellent! Aapka transfer ho gaya hai. Ab aapko ek withdrawal fee bharne hai ₹5,000, tab aapka profit aapke account mein transfer ho jayega.
+receiver: Withdrawal fee? Maine ₹10,000 invest kiya hai aur ab ₹5,000 fee bharne ko bol rahe hain? Yeh to fraud lag raha hai!

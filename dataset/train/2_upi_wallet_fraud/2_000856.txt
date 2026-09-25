@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Rajesh Kumar? We are calling from FreeCharge customer care regarding a cashback offer.
+receiver: Yes, speaking. What cashback offer?
+caller: Great! We noticed you recently used FreeCharge to pay a bill. As a reward, you've been selected for a special cashback bonus of ₹500. To claim it, we just need to quickly verify a few details and process the transaction. Could you please tell me the last four digits of the FreeCharge wallet linked to your phone?
+receiver: ₹500? That sounds good. What do you need the last four digits for?
+caller: Just to confirm it’s you, sir. Security is very important. And also, to make sure the cashback goes to the correct wallet. Could you also tell me, which bank account do you usually link to your FreeCharge wallet for recharges and payments? We need this to ensure the bonus is credited correctly.
+receiver: Hmm, this is a little strange. Why do you need my bank account details for a cashback? Shouldn’t the money just go into my FreeCharge wallet?
+caller: Sir, sometimes there are technical issues with the wallet system, so we need to process it through your bank for a smooth and immediate transfer. It's a standard procedure, nothing to worry about. Just provide the bank account number and we will process it right away, you’ll have the ₹500 in your account within an hour.
+receiver: Okay, let me check the FreeCharge app to see if there’s any notification about this cashback. Just a moment.

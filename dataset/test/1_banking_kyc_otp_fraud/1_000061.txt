@@ -1,0 +1,8 @@
+caller: Airtel customer care pehla hua hai. Aapka mobile number, 9876543210, bank transaction ke liye verified hona hai. Isliye aapke phone par ek six-digit OTP aaya hoga. Kya aap mujhe bata sakte hain, yeh number sahi hai kya?
+receiver: Haan ji, aaya hai. Main check kar raha hoon... Oh, yeh toh 876543 hai. Aapko yeh number chahiye tha, hai na?
+caller: Haan, 876543 hi mila. Dhanyavaad ji, sir. Aapka verification complete ho gaya hai. Humein aapke account mein koi problem nahi mili. Shubh kaam karna, aap!
+receiver: Achha, sunkar acha laga. Koi problem nahi hai. Dhanyavaad, aapko bhi samjhna.
+caller: Haan, 876543 hi. Dhanyavaad ji, sir. Aapka verification complete ho gaya hai. Humein aapke account mein koi problem nahi mili. Shubh kaam karna, aap!
+receiver: Achha, sunkar acha laga. Koi problem nahi hai. Dhanyavad, aapko bhi samjhna.
+caller: Haan, 876543 hi. Dhanyavaad ji, sir. Aapka verification complete ho gaya hai. Humein aapke account mein koi problem nahi mili. Shubh kaam karna, aap!
+receiver: Achha, sunkar acha laga. Koi problem nahi hai. Dhanyavad, aapko bhi samjhna.

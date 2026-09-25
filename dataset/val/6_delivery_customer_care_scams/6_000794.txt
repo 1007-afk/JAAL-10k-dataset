@@ -1,0 +1,10 @@
+caller: Namaste! Main Flipkart se Ishan bol raha hoon. Aapke naam par ek order hai, lekin payment processing mein kuch problem aa raha hai.
+receiver: Oh, really? Mai ne kuch order kiya tha? Mujhe yaad nahi aa raha.
+caller: Haan ji, order number RF7894523 hai. Yeh Diwali offer mein ek smart watch tha. Payment block ho gaya hai, aur aapko confirm karna hoga.
+receiver: Smart watch? Hmm, mujhe shayad kuch yaad aa raha hai. Check karta hoon. Aur mujhe confirm karne ke liye kya karna hai?
+caller: Aapko OTP milega, woh mujhe bataiye. Aur kuch security questions bhi answer karne honge, taaki hum aapki identity verify kar sakein.
+receiver: OTP? Koi website ya app nahi hai? Yeh thoda suspicious lag raha hai.
+caller: Sir, yeh Flipkart’s secure system hai. OTP bina ki payment nahi ho payega. Aapka order cancel bhi ho sakta hai. Just 3 minute ka kaam hai.
+receiver: Theek hai, OTP check karta hoon. Par mujhe Flipkart ka app check karna hai.
+caller: Haan, check karein. Aapko OTP SMS mein milega. Fast please, sir, taaki aapka order secure rahein!
+receiver: Wait, mujhe check karne do.

@@ -1,0 +1,9 @@
+caller: Namaste, is this speaking to Mr. Sharma? This is Inspector Verma calling from the Directorate of Enforcement, Delhi. We're investigating a case of illegal fund transfers linked to your mobile number.
+receiver: Haan, bolie. Illegal fund transfers? Main toh koi transfer nahi kiya. Yeh kya baat ho rahi hai?
+caller: Sir, our records show a substantial sum – ₹1.2 crore – was routed through a cryptocurrency exchange using your registered mobile number. We suspect your involvement in a hawala operation. We need to verify some details urgently.
+receiver: ₹1.2 crore? Cryptocurrency? Sir, yeh toh galat baat hai! Main toh cryptocurrency bhi kabhi nahi buy karaya. Kisi ne kuch wrong number register karaya hoga.
+caller: Mr. Sharma, this is a serious matter. To clear your name and prevent further legal action, we require you to provide access to your WhatsApp contacts. This will help us trace the individuals involved.  It's a standard procedure.
+receiver: My WhatsApp contacts? Kaise karenge yeh? Yeh toh personal matter hai. Main abhi yeh share nahi kar sakta.  Kya legal process hai isme? Court summon aayega kya?
+caller: Mr. Sharma, delaying this will only complicate matters. We are offering a chance to cooperate. Failure to provide these contacts could lead to a warrant and immediate questioning. We can set up a video call to finalize this, but need preliminary access now.
+receiver:  Yeh bahut hi suspicious lag raha hai. Main police station aake khud aapse milna chahta hoon. Mujhe yeh contacts kisi ko bhi nahi bhejna hai. Please, mujhe correct police station address bataiye.
+caller: Sir, coming to the station will cause unnecessary delays. Our officers are very busy. However, to build your trust, I will share my direct mobile number - 9876543210.

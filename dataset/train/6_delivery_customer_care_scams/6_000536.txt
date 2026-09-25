@@ -1,0 +1,7 @@
+caller: Namaste? Yeh Swiggy ka customer care cell hai. Aapke naam par ek order rakha gaya hai, lekin payment mein kuch problem aa raha hai. Order number hai SWG45892. Aapko order receive karne ke liye payment verify karna hoga.
+receiver: Swiggy ka order? Mujhe to koi order yaad nahi. Aur payment verify karna hai? Main phone pe payment nahi karta.
+caller: Ji, yeh ek special promo offer hai. Is offer mein aapko bilkul free mein food milega, par verification zaroori hai.  Aapko sirf apne bank account ke last four digits enter karne hain. Yeh bas confirmation ke liye hai.
+receiver: Bank account ke details phone pe? Yeh thoda risky lag raha hai. Swiggy aise kaise karta hai?  Maine kabhi nahi suna.
+caller: Madam, online fraud hone ka darr matin. Hamara system totally secure hai. Bas ek minute aur, phir offer expire ho jayegi.  Agar verification nahi karenge, to aapka special offer ka right cancel ho jayega. Aapko ₹300 ka kuch pata nahi loss hoga.
+receiver: ₹300 ka loss?  Okay, theek hai. Par bas last four digits hi bataunga. Aur ek promise karo ki meri koi bhi information kisi aur ko nahi milegi.
+caller: Absolutely! Hamara promise hai. Aapka trust important hai. Please enter the last four digits of your bank account.

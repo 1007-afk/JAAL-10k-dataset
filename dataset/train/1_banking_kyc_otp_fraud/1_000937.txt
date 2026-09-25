@@ -1,0 +1,8 @@
+caller: Namaste, sir. Mein State Bank of India se Rohan Verma bol raha hoon. Aapka naam Atul Sharma hai, correct?
+receiver: Haan, main Atul Sharma hoon. Bolhiye, kya baat hai?
+caller: Sir, humein aapke account mein ek suspicious login attempt dikha hai. For security reasons, humein aapke account details verify karne ki zaroorat hai. Aapka Aadhaar card ka last four digits bata sakte hain?
+receiver: Aadhaar number? Main phone par Aadhaar number nahi bata sakta. Ye toh risky hai!
+caller: Sir, please understand. Yeh ek standard security protocol hai. Agar aap verify nahi karte, toh humko aapke account ko temporarily suspend karna padega. Just the last four digits are required – it's for your protection, sir.
+receiver: Account suspend? Bilkul nahi! Bas ek minute rukhiye, main apna online banking app check karta hoon.
+caller: Sir, please hurry. Time is of the essence. We need this confirmation within the next five minutes to avoid any inconvenience. Just the last four digits, sir, please? Think of your hard-earned money.
+receiver: Theek hai, theek hai. It's 4567. But agar kuch hua toh main complaint karunga!

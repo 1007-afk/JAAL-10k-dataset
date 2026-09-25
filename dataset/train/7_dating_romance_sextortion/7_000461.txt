@@ -1,0 +1,6 @@
+caller: Namaste! Kya aap Ram se baat kar rahe hain? Mujhe aapka number ek dost ne diya hai. Wo kehta tha aapko photography mein bahut interest hai, jaise mujhe! Main ek photo exhibition mein hoon right now, bahut hi sundar cheezein hain.
+receiver: Ram? Haan, main Ram hoon. Photography? Haan, mujhe photography pasand hai, lekin main abhi kaam mein busy hoon. Exhibition? Kahan hai?
+caller: Wo ek secret location hai, but its incredible! I have a rare opportunity to buy some exclusive prints at a discount, but I need a small advance to secure them for you. Just ₹5000 will do, a good investment for a photography lover like you.
+receiver: ₹5000? Bilkul? Advance? Kyun? Yeh thoda suspicious lag raha hai. I've never bought prints like this before. Can you send me some pictures from the exhibition?
+caller: Absolutely! Hold on, let me send you some. But time is running out, the offer expires soon. Just send the money to UPI ID: photogallery.secure@xyz. Once you see the pictures, you’ll understand! A few minutes only.
+receiver: UPI? Wait a second. This is a scam, isn't it? I'm blocking your number. Don't even try calling me again!

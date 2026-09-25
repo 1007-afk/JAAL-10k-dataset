@@ -1,0 +1,7 @@
+caller: Namaste, mai Bajaj Finserv se Rohit bol raha hoon. Aapke Google Pay account mein kuch suspicious activity detect hui hai. Aapki security ke liye, hume aapki information verify karni hogi.
+receiver: Suspicious activity? Kaise? Mujhe toh kuch pata nahi tha. Koi OTP ya link aaya hai kya?
+caller: Koi nahi, sir. OTP ya link send karne ki zarurat nahi hai. Sirf kuch basic details chahiye. Aapka Google Pay account kitne se chal raha hai? Aur aap generally kitne transactions karte hain?
+receiver: Account 5 saal se chal raha hai. Transactions toh monthly 5-6 hote hain, kuch bade, kuch chote. Account number bataun kya?
+caller: Bilkul sir. Account number bata dijiye. Aur koi bhi extra security offer aapko avail karna hai? Hum Flipkart par ek special cashback offer de rahe hain, sirf Bajaj Finserv users ke liye. 10% cashback, bilkul free!
+receiver: 10% cashback? Flipkart pe? Chalo, mera account number [Invented Account Number, e.g., 9876543210] hai. Par cashback offer mein zyada trust nahi karta. Kuch looter bhi to hai.
+caller: Relax sir, hum legal hai. Bas account number confirm ho gaya. Ab aapka naam bataiye aur ek OTP aapke mobile number par send hoga. Woh OTP verify karne ke baad, cashback offer activate ho jayega.

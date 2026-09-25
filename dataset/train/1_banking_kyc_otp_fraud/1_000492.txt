@@ -1,0 +1,8 @@
+caller: Namaste, main HDFC bank se Ajay Kumar bol raha hoon. Apka credit card expiry date leke aaye hain, kya aapko naya card apply karna pasand hoga?
+receiver: Namaste, Ajay ji. Kahaan se bol rahe hain aap? HDFC bank se? Mera credit card expiry date kab hai?
+caller: Haan, apki credit card jo aap use karte hain, uska expiry date 28th February ko hai. Isliye hum calling kar rahe hain, agar koi problem na ho. Hum aapko naya card jaldi submit kar denge. Just kuch information check karna hai.
+receiver: Theek hai, bataiye kya check karna hai? Aur yaha koi extra fees to nahi lagega, na?
+caller: Ji, absolutely. Naye card ka koi fee nahi hai, yeh totally free hai. Hum sirf aapki identity check karna chahte hain. Aapka complete name, birth date, aur aapke account par registered mobile number ka final digit bata sakte hain. Yeh details hamare system mein verify karne ke liye zaroori hain, taki hum sure ho sakein ki hum right person se baat kar rahe hain.
+receiver: Okay, meri naam hai Priya Sharma, birth date hai 15th August 1988. Aur mobile number ka final digit hai 7.
+caller: Dhanyavaad, Priya ji. Yeh details correct hain. Ab ek small verification karna hai. Aapke registered mobile number par ek SMS message bhejna hai. Kya aapko message aa gaya hai? Agar message aaya hai, toh mujhe OTP batayen, taki hum process complete kar sakein aur aapko naya card deliver kar sakein. Koi surcharge nahi hai, yeh completely free hai.
+receiver: Haan, message aa gaya hai. OTP hai 6789. Aur yeh card kab tak aa jaega?

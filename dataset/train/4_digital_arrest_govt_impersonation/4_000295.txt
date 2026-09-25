@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Arun Sharma? This is Inspector Verma from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items, potentially linked to illegal narcotics.
+receiver: Kya? Illegal narcotics? Main? Yeh kya keh rahe hain aap?
+caller: Yes, sir. We need to verify this matter urgently. A substantial fine and potential legal action are involved. To avoid further complications, you need to pay a settlement fee of ₹15,000 to clear the package and avoid arrest.
+receiver: ₹15,000? Lekin main kabhi nahi karta aisa kuch! Mujhe yeh package nahi mila, aur main drugs se related nahi hoon!
+caller: Sir, we understand your concerns. However, the evidence is compelling. To prove your innocence, we require immediate payment to facilitate a thorough investigation. We can arrange a video call with senior officials to explain the situation further, but time is of the essence. Please call us immediately at 919911223344.
+receiver: Theek hai, theek hai. Par main kaise karun payment? Aur video call kab hoga?
+caller: You can make the payment through UPI to the account details I will provide. Regarding the video call, it will be arranged immediately after the payment is confirmed. This will allow you to speak directly with the investigating officer and provide your statement. Do not delay, sir. We have limited time before further action is taken.
+receiver: Okay, give me the UPI details. Par main apni biwi ko bhi bataunga, aur hum log dono saath saath baat karenge.
+caller: Certainly, sir. The UPI ID is customs.payment@axisbank. Please ensure you include the reference number ND-4789. The video call will commence as soon as the transaction is processed. Do not share this information with anyone else. This is strictly confidential

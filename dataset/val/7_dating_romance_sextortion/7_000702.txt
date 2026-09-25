@@ -1,0 +1,6 @@
+caller: Namaste! I hope you're doing well. I have some exciting news for you! A popular dating app, "Dil Se Connect," has flagged your profile as having a very high compatibility score with someone special. They want to connect you, but it requires a quick verification process.
+receiver: Really? That’s interesting! Who is it? I haven't seen any new matches pop up lately. Is it someone I know?
+caller: It's a surprise, of course! The system keeps some details private to build anticipation. However, to unlock this match and see their profile, you need to confirm your identity by sharing a selfie with a unique code I'll send. It’s a simple security check.
+receiver: A selfie? That sounds a bit strange, doesn't it? I'm a little hesitant. Why do they need a selfie to show me a match? Shouldn't I be able to see their profile without that?
+caller: I understand your concern. It's purely to prevent fake profiles and ensure a safe connection. Dil Se Connect takes privacy very seriously, and this is a standard procedure. The code is only for their verification system. Think of it as a tiny step toward finding your perfect match! I'll send you the code now, it's 789456.
+receiver: Okay, fine. But just this once. Send the code, and then I'll consider sending a selfie. I’m still not completely comfortable with this. What if it’s a scam?

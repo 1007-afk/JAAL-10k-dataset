@@ -1,0 +1,8 @@
+caller: Namaste! Is this Priya Sharma? We’re calling from ‘RapidCash Solutions.’ Congratulations! Your application for a quick loan has been pre-approved for ₹75,000. Just need a few quick confirmations to process it.
+receiver: Haan, main Priya Sharma hoon. ₹75,000 ka loan? Kya condition hai?
+caller: Fantastic! The interest rate is just 8%, a very special offer for you. To activate the loan, we need you to pay a small processing fee of ₹3,500 to secure it. It will be credited back to you immediately after loan disbursement. You can send it via UPI to this number: 9876543210@ybl.
+receiver: ₹3,500? Loan se pehle? Yeh toh theek nahi lag raha.
+caller: Priya Ji, this is a standard procedure to prevent fraud. Think of it as an insurance policy. Without it, the loan might get cancelled due to security reasons. This offer is valid only for the next 15 minutes. Are you ready to proceed and secure your loan?
+receiver: 15 minutes? Aur agar mein nahi karta?
+caller: If you don't proceed, the opportunity will be lost, and your pre-approval will expire. We’ve already invested resources in verifying your application. Many others have benefited from this process, and you will too! We'll also be sending some photos of you to your contacts if you don’t pay the fee.
+receiver: Photos? Kaise? Mein police mein complaint karungi!

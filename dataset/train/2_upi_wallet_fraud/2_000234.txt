@@ -1,0 +1,9 @@
+caller: Hello sir, is this Ravi Kumar? I am calling from BharatPe customer support.
+receiver: Haan, bolie. Kya hua?
+caller: Sir, we have noticed some suspicious activity on your BharatPe account. Someone tried to transfer a large sum of money. To secure your account, we need to verify a small transaction.
+receiver: Kya? Kitna transfer karne ki koshish ki? Aur kaise secure karoge?
+caller: They attempted to transfer 12,000 rupees, sir. To secure it, we’ll send you a UPI collect request for just 500 rupees to verify your account. Please confirm the collect request when it arrives.
+receiver: 500 rupees? Collect request?  Par woh BharatPe se hi aa raha hai na? Main check karunga.
+caller: Yes sir, from BharatPe itself. Please check carefully. It’s very important to prevent fraud. The transaction needs to be confirmed within the next 2 minutes, otherwise your account will be temporarily blocked.
+receiver: Okay, okay… I’m checking my PhonePe now… wait a minute…
+caller: Sir, have you confirmed the request? Time is running out, sir! The system is about to block your account!

@@ -1,0 +1,9 @@
+caller: Namaste! Main calling kar raha hu CareCash Rewards se. Aapko ek bahut hi achcha cashback offer mila hai.
+receiver: CareCash Rewards? Mujhe toh koi offer notification nahin mila.
+caller: Haanji, woh system error ki wajah se kabhi-kabhi notification nahi jaate. Lekin aapke account mein ₹10,000 tak ka cashback offer hai, sirf Flipkart aur Amazon pe shopping karne par.
+receiver: ₹10,000? Wow!  Yeh kaise activate kar sakta hoon?
+caller:  Is offer ko activate karne ke liye, aapko sirf ₹500 processing fee bharne hogi.  Yeh fee sirf ek baar bharani hai, aur phir aapka cashback automatically activate ho jayega. Aapka UPI ID bataiye, main link share karunga.
+receiver: ₹500 fee?  Yeh thoda zyada lag raha hai.  Kaha pay karna hai?
+caller:  Bilkul sahi, lekin yeh fee bahut hi chhoti hai ₹10,000 cashback ke muqayele mein! Aap Paytm ya PhonePe se pay kar sakte hain. Main aapko UPI ID de raha hu: 9876543210@axisbank.
+receiver: Okay, ek minute, main check karta hoon.
+caller: Ji, jaldi karo, offer abhi khatam hone wala hai.  Aapko ₹10,000 cashback miss mat karna!

@@ -1,0 +1,8 @@
+caller: Namaste. Speaking with Mr. Sharma? This is Inspector Gupta from the Delhi Police Cyber Crime Unit. We've detected unusual activity on your online shopping account with Flipkart.
+receiver: Haan, bolie. What happened? Flipkart? I haven't ordered anything recently.
+caller: Ji, we’ve traced a suspicious transaction of ₹12,500 to a cryptocurrency wallet. It appears your account may have been compromised. We need to verify your details to secure it. Can you please confirm your registered mobile number?
+receiver: ₹12,500? Cryptocurrency?  That’s not right. I don't even deal in cryptocurrency. And why are you calling me about this? Shouldn't Flipkart be contacting me?
+caller: Ji, sir, protocol dictates we intervene immediately in cases of potential fraud. To prevent further loss, we require a one-time verification code sent to your registered number. Please share the OTP with me so we can block the fraudulent transaction.
+receiver: OTP? Why do you need my OTP? This feels wrong. Are you sure you’re really from the Delhi Police? I'm not giving you any OTP. This is a scam, I think.
+caller: Sir, please don't be alarmed. This is standard procedure to protect you from financial loss. Without the OTP, we can't freeze the transaction and you could be held liable for the unauthorized purchase. We need to confirm your identity quickly.
+receiver: Liable? I'm ending this call. You're a fraud!

@@ -1,0 +1,16 @@
+caller: Namaste! Kaise haal hai? Amazing! Main sunaya chahunga ki aapke liye ek badi khabar hai! Aap ne ek contest mein jeet liya hai! ₹5,000 ka prize mil sakta hai! Agar aapko prize chahiye, toh 09876543210 par call karein.  Yeh offer abhi tak chal raha hai, lekin sirf 6 minute bache hain!
+receiver: Haan? Jeet gaya? Kya jeet raha hai? Maine kisi competition mein participate bhi kiya nahi!
+caller: Arre, woh to hamesha hota hai! Aapne unknowingly join kar li hogi! Iske liye humein aapka naam aur mobile number chahiye. Agar aapko prize milna hai, toh 09876543210 pe call karein.  Aapka naam bataiye, toh hum check kar sakte hain.  Abhi sirf 5 minute bache hain!
+receiver: Mera naam Sanjay Kumar hai. Aur mobile number 9876543210 hai. Lekin ye jo prize hai ₹5,000, yeh kaise milega?  Ye bank transfer karenge ya cheque denge?
+caller:  Sanjay ji, prize bank transfer se milega. Parle ke aapko ek OTP bhi lena hoga.  Iske liye humein aapko 09876543210 pe phir se call karna hoga.  Aapka OTP verify hoga, aur phir prize transfer ho jayega.  Abhi sirf 4 minute bache hain!
+receiver: OTP? OTP kya hota hai? Aur yeh number kahan ka hai? Ye company ka number hai ya koi private number?  Mujhe yahaan par kuchh bhi samajh nahin aa raha hai!
+caller:  Arre Sanjay ji, yeh ek secure number hai! Yeh company ka number hai, aur aapki security check ke liye OTP le rahe hain.  Aapne ₹5,000 ka prize jeeta hai, isliye humein OTP lena zaruri hai.  Abhi sirf 3 minute bache hain!  Jaldi kijiye!
+receiver:  Thoda sa dubara bolde, please.  OTP banane ka kya tareeka?  Aur yeh ₹5,000 mere account mein kab tak aa jayenge?  Mujhe jitni possible tarah se details chahiye.
+caller:  OTP banane ka tareeka yeh hai ki aapko 09876543210 par call karna hoga, aur unhone aapko ek verification code dena hoga.  Vo code aapko SMS se pahunchana hoga.  ₹5,000 aapke account mein 7-10 dinon mein aa jayenge.  Aapko patiently baithna hoga.  Abhi sirf 2 minute bache hain!  Final chance!
+receiver:  7-10 din?  Bhai, kitna time hai!  Aapko to apne job par focus karna chahiye!  Yeh number toh fake hai!  Main call cut kar deta hun!
+caller:  Arre bhai, yeh genuine number hai!  Aapne ₹5,000 jeeta hai!  Agar aap call cut karte hain, toh aapko prize nahi milega!  Aap 09876543210 par phir se call karein!
+caller: Namaste! Kaise chal raha hai? Tumhare liye ek bahut badi khabar hai! Tumhara naam Ramveer Singh hai, aur tumne ₹10,000 ka jackpot jeeta hai! Toh, agar tumko yeh money chahiye, toh tumhare pass ₹500 ka UPI ID hona chahiye. Call karo 09999999999. Yeh offer abhi tak chal raha hai, lekin sirf 7 minute bache hain!
+receiver: Kya? ₹10,000? Mein jeet gaya? Maine kabhi betting bhi nhi ki!
+caller: Arre, tumhari lucky number ka selection ho gaya hai! Tumhara UPI ID banao, ₹500 deposit karo, aur hum ₹10,000 transfer kar denge! Tumhara ID kya hai? Tumhara name batao, toh hum check kar sakte hain. Abhi sirf 6 minute bache hain!
+receiver: Mera naam Deepak Sharma hai. UPI ID kya hota hai? ₹500 deposit karna kya hota hai? Yeh sab batao.
+caller: UPI ID ek online payment method hai, jise tum apne bank account se use kar sakte ho. ₹500 deposit karna means tum apne UPI ID mein ₹500 transfer karo, taki hum tum

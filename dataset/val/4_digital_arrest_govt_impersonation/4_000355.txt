@@ -1,0 +1,8 @@
+caller: Namaste, main Sub-Inspector Verma, Cyber Crime Investigation Cell se bol raha hoon. Aapka naam Rajesh Kumar hai, correct?
+receiver: Haan, ji. Main Rajesh Kumar hi hoon. Kya hua? Cyber Crime se call aa raha hai?
+caller: Ji, Rajesh ji. Hamare records ke according, aapke naam par ek illegal cryptocurrency transaction hua hai. 12 lakh rupay Bhutan mein transfer kiye gaye hain. Yeh ek money laundering case ka hissa hai.
+receiver: Kya? Illegal transaction? Main cryptocurrency mein kuch bhi nahi karta. Yeh galat hai! Mere paas koi wallet bhi nahi hai.
+caller: Rajesh ji, hamare system mein proof hai. Hamare seniors ne yeh matter CBI ko transfer karne ka order diya hai. Aapko CBI court mein present hona hoga. Is matter ko chalaane mein bahut kharcha hoga. Agar aap 50,000 rupay online transfer kar dete hain, toh hum CBI ke senior officers se baat kar sakte hain aur aapka naam is case se hata sakte hain.
+receiver: Paanchash hazar? Aur online transfer? Sir, main ise jhel nahi sakta. Koi bhi official document hai aapke paas? Main police station jaake complaint karunga agar yeh fake nikla.
+caller: Rajesh ji, samjhiye, time bahut kam hai. Court mein aapka record kharab ho sakta hai, aur jail bhi ho sakti hai. Hamare bank account details mein transfer kijiye – hum aapko ticket bhi bejheinge taaki aap court mein attend kar sake. Account number hai...
+receiver: Yeh toh scam hai! Main koi bhi payment nahi karunga aur report karunga is number ko! Bye!

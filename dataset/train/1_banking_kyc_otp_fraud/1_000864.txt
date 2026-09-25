@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Axis Bank se Amit Sharma bol raha hoon. Aapke account mein security alert generate hua hai. Ek suspicious transaction attempt kiya gaya tha, aur hum chahte hain ki aapka account safe rahe.
+receiver: Axis Bank? Kya hua? Koi transaction attempt? Mujhe koi notification nahi mila.
+caller: Sir, woh attempt internal system se kiya gaya tha, isliye aapko SMS nahi mila. Security ke liye, hum aapke naam par registered mobile number par ek OTP bhejenge. Aapko woh OTP mujhe bata denge, aur main aapke account ko secure kar dunga.
+receiver: OTP? Sir, main OTP kisi bhi call par nahi deta. Ye fraud hota hai. Aap mujhe bataiye, aapka employee ID number kya hai?
+caller: Sir, company policy ke hisaab se, main employee ID share nahi kar sakta. Woh confidential hai. Lekin, agar aap OTP share kar denge, toh main aapko confirm kar dunga ki aapka account suspend nahi hoga aur aapka ₹15,000 online transaction bhi reverse ho jayega.
+receiver: ₹15,000? Sir, main toh koi online transaction nahi kiya. Mujhe toh kuch bhi pata nahi hai. Aapko koi bhi information mat do. Main Axis Bank ke branch mein jaunga aur wahaan baat karunga.
+caller: Sir, please, agar aap OTP share nahi karenge, toh aapka account block ho sakta hai. Ye urgent hai. Aapko ₹15,000 ka nuksan bhi ho sakta hai. Aapko zyada sochne ki zaroorat nahi hai, bas ek OTP bata den.

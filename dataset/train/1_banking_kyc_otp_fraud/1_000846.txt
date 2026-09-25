@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank Security Department se Rahul bol raha hoon. Aapke account mein achanak se logon ko logon ne log-in karne ki koshish ki hai. Aapki security ke liye, humein aapka KYC update karna hai.
+receiver: Axis Bank? Logon ki log-in attempts? Kaise? Mujhe toh koi message nahi aaya.
+caller: Ji sir, hacking ka yeh attempt bahut sophisticated hai. Aise mein, humein aapka OTP verify karna padega aur saath hi aapki Aadhaar card ki copy bhi zaroori hai. Yahan aapse kuch questions bhi poochhenge, seedhe bank se verify hone ke liye.
+receiver: Aadhaar card copy? Seedhe phone pe? Itna risky toh lag raha hai. Bank toh aise details nahi manta, na?
+caller: Sir, yeh protocol hai. Account suspend hone se bachane ke liye, yeh zaroori hai. Agar aap cooperate nahi karenge, to aapka account 24 hours mein freeze ho jayega.
+receiver: 24 hours? Okay, wait, let me check something. Just one minute. (Pause) Sir, koi minute rukiye, main Axis Bank helpline number check karti hoon.
+caller: Sir, jaldi kijiye, time kam hai. Account suspend hone se pehle aapko help karni hai. Aakhir mein aapki security mere liye mahatvapurn hai.

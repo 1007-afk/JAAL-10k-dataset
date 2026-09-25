@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? I’m calling from the Directorate of Revenue Intelligence, Mumbai. We've detected some unusual activity linked to your bank account – several small cryptocurrency transactions over the past few days.
+receiver: Hello? Cryptocurrency? I don't do cryptocurrency. Who’s calling exactly? What’s this about?
+caller: Ji, my name is Inspector Verma. These transactions appear to be linked to an illegal online gambling ring operating across state lines. We need to verify your involvement, sir. It's a very serious matter.
+receiver: Illegal gambling? But I swear, I haven't done anything like that. I don't even understand crypto! Can you give me a case number?
+caller: Sir, to protect you from further complications and potential legal action, we need to freeze your account temporarily and conduct a brief investigation. For this, we require a one-time OTP generated from your bank’s secure portal. Can you access your bank account now to receive it?
+receiver: Freeze my account? OTP? That sounds incredibly fishy! I’m not giving you any OTP. I think this is a scam! I’m ending this call right now.
+caller: Sir, please don't be hasty. We're only trying to help you. Refusal to cooperate will be recorded and may be interpreted as an attempt to obstruct a legitimate investigation. We can arrange a video call with a senior officer immediately to explain everything further. Just give us the OTP.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from QuickLoanHub. We’re offering a fantastic opportunity for urgent cash needs! Just a few simple steps and you can get up to 7 lakhs approved instantly. What’s your name, sir?
+receiver: Hello, my name is Sanjay Verma. I’m a bit skeptical about instant loans, but I do need some funds for my daughter’s medical expenses.
+caller: Wonderful, Mr. Verma! QuickLoanHub understands emergencies. To proceed, we need to verify your details. Can you share a copy of your Aadhaar card and a recent bank statement? It's just a formality to confirm your eligibility.
+receiver: Aadhaar card? That seems a bit risky. I’ve heard about data breaches. Why do you need my Aadhaar specifically?
+caller: Sir, Aadhaar is mandatory for all instant loan approvals according to RBI guidelines. Don’t worry, we are fully secure and compliant. But listen, there is a special offer! If you submit your documents within the next hour, we’ll waive the processing fee, which is normally 3%.
+receiver: Waiving the fee is tempting, but I'm still worried about sending my Aadhaar. Can I at least speak to someone about the security measures you have in place before I do that? I'd feel more comfortable.
+caller: Mr. Verma, time is running out! This offer won't last. If you don't submit the documents now, you will lose the opportunity. We can't keep the offer open indefinitely, and someone else will get your slot. Please, just send the documents, it’s very quick.

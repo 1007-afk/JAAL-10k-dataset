@@ -1,0 +1,6 @@
+caller: Namaste sir, mera naam Vijay hai, ICICI Bank se baat kar raha hoon. Aapne online personal loan apply kiya tha, isliye call kar raha hoon. Aapke bank account ka last 4 digits ready hai kya?
+receiver: Namaste Vijay. Haan, bank account number toh yaad hai. Loan kitne ka apply kiya tha main?
+caller: Ji sir, aap ₹50,000 ka loan apply kar rahe the. Abhi verification ke liye, aapka account number ke last 4 digits bataiye, please.
+receiver: Okay, last 4 digits hain 4321. Abhi kya hoga?
+caller: Excellent! Verification ho gaya hai. Sir, loan approve ho gaya hai, lekin processing fees ke ₹7,500 aapko abhi transfer karne honge. ₹7,500, please. UPI ID share karein.
+receiver: ₹7,500?! Main toh ₹50,000 ka loan le raha hoon, aur mujhe ₹7,500 extra dena padega? Yeh to scam lag raha hai.

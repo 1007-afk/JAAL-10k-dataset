@@ -1,0 +1,8 @@
+caller: Namaste, is this Mrs. Priya Verma for the mobile number ending in 2468? This is Akash from BlueDart Courier. We have a parcel addressed to you, but there's an issue with the delivery address and a small customs fee is pending.
+receiver: Haan, woh mera number hai. Parcel? Kya hai andar? Aur customs fee?
+caller: Yes, ma’am. It’s a mobile phone accessory set. The address is slightly unclear, and we need to verify it urgently. There’s a customs clearance fee of ₹780 required to proceed with the delivery. It's a standard procedure for international shipments.
+receiver: ₹780? Kaun sa country se hai? Mujhe toh koi order kiya tha yaad nahi.
+caller: It originated from Hong Kong, ma’am. And to ensure the parcel reaches you safely, we need to confirm your OTP sent to your registered mobile number. This is for security verification purposes.
+receiver: OTP? Main kabhi nahi deta OTP phone par. Ye theek toh lag raha hai?
+caller: Ma’am, it’s very important. If you don’t provide the OTP, we’ll have to return the parcel to the sender. Just a one-time verification, ma’am. It's our policy. Please provide the OTP so we can get your parcel delivered today.
+receiver: Theek hai, ek minute. Main check karti hoon.

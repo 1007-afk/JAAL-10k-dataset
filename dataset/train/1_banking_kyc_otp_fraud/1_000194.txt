@@ -1,0 +1,8 @@
+caller: Hello sir, main Union Bank se bol raha hu. Sir, maine aapko aapke bank account ki verification ke liye call kiya hai. Kya aap apna account verify karna chahte hain?
+receiver: Haan ji, boliye. Account verify? Konsa account? Mere paas Union Bank mein to koi account nahi hai.
+caller: Aapka Union Bank mein koi account nahin hai? Sir, ye kaise ho sakta hai? Shayad aap galat number de rahe honge. Ek baar apna number check karein sir. Main aapko ek OTP bhej raha hoon, wo bataiye fir hum check karte hain.
+receiver: OTP? Dekhiye bhai sahab, maine pehle hi bola, mera koi account nahi hai Union Bank mein. Toh OTP ka kya karega? Aur number mera sahi hai, aap galat jagah phone laga rahe hain lagta hai. Aap kisi aur ko phone lagaiye.
+caller: Sir, ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gaya ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Naam? Naam toh mera wohi hai jo shayad aapne register kiya hoga. Aur mobile number toh aapke paas aa hi raha hai, wohi hai. Dekhiye, mujhe lagta hai aapne galat number mila diya hai. Main sach mein Union Bank mein account nahi rakhta.
+caller: , ek minute ruk jaaiye. Main aapka naam aur mobile number dobara check karta hoon. Shayad koi typo ho gaya ho. Aapka pura naam kya hai sir? Aur mobile number jahan se aap baat kar rahe hain, woh bataiye ek baar.
+receiver: Arre bhai, maine pehle hi bataya na, mera naam Rahul hai aur mobile number yehi hai jahan se aap baat kar rahe hain. Agar aapke paas mera number hai toh mera naam bhi dikh raha hoga aapko. Sach mein Union Bank mein mera koi account nahi hai. Lagta hai aapko kisi aur ko phone karna chahiye tha.

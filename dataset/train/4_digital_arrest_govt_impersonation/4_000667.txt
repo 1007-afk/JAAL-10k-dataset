@@ -1,0 +1,7 @@
+caller: Namaste, this is Inspector Sharma from the Directorate of Revenue Intelligence. We've detected suspicious activity linked to your bank account, involving suspected illegal cryptocurrency transfers.
+receiver: Yeh kya keh rahe hain aap? My bank account? Illegal transfers? I don’t understand.
+caller: Sir, our records show large sums moving through your account, possibly connected to a money laundering scheme. To clear this up and prevent further investigation against you, we require a small compliance fee of ₹7,500. It’s a standard procedure.
+receiver: ₹7,500? For what? This sounds very fishy. I have not been doing any cryptocurrency transfers. Can you tell me more about this transaction?
+caller: Sir, details are confidential during this initial inquiry. Payment must be made immediately via UPI to secure your position. Please send to the number 9876543210.  Time is critical, and delaying could escalate the matter. A video call will be initiated after the payment to confirm the transaction.
+receiver: UPI? That’s strange. Why can’t I go to my bank to sort this out? I am worried about sending money to an unknown number. Is there any official complaint number I can call to verify this?
+caller: Sir, our system is functioning under immense pressure. Time is of essence. To prove your cooperation, send the amount through UPI. The video call is to simply verify your identity, absolutely no further questions. Do this now and all this will be sorted out.

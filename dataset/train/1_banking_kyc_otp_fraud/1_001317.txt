@@ -1,0 +1,7 @@
+caller: Namaste Sir, mai Axis Bank se Rahul Sharma bol raha hoon. Aapke account mein 24,000 ka ek transaction hua hai jo suspicious lag raha hai.
+receiver: Hello? 24,000? Kya hua? Main abhi ghar par nahi hoon, office mein hoon.
+caller: Ji, transaction Nepal mein hua hai. Aapne kiya tha ya nahi? Sir, security ke liye humein aapka OTP verify karna hoga taaki hum isko block kar sakein. 2 minutes mein resolve ho jayega.
+receiver: Nepal? Main toh kabhi Nepal nahi gaya! OTP nahi dunga main. OTP toh bank kabhi bhi phone pe nahi manta.
+caller: Sir, aapko samjhna hoga, yeh serious matter hai. Agar OTP nahi denge toh Nepal se transaction continue hoga aur aapke paise nikal jayenge. Hum toh aapki madad karne ki koshish kar rahe hain. Just OTP do, please.
+receiver: Dekhiye, aapko meri details pata hai, mera naam, mera bank naam pata hai, lekin agar aap genuine hain toh mujhe call record karne ki permission de sakte hain? Aur mujhe bank branch mein aake check karne do.
+caller: Sir, call recording system mein error hai. Isliye record nahi ho pa raha hai. Abhi time nahi hai, jald se jald OTP de dijiye, warna aapka account suspend bhi ho sakta hai.

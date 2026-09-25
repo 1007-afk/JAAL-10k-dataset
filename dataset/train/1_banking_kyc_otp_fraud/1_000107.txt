@@ -1,0 +1,16 @@
+caller: Namaste sir, main Punjab National Bank se baat kar raha hoon. Aapka ATM PIN number bata sakte hain kya?
+receiver: Namaste! Mein bataane nahin sakta. Woh mera private information hai. Kya baat hai?
+caller: Sir, yeh PIN number Punjab National Bank mein check karna hai ki aapke account mein koi problem nahi hai. Ek small verification process hai.
+receiver: Verification process? Account mein koi problem? Mera naam Deepak Kumar hai, aur PIN number bataane wala koi justified nahi hai.
+caller: Haanji Deepak ji, aapke account mein recent transactions mein kuch doubtfull activity dekha gaya hai. Unhein verify karna hai. Bank ne temporary suspension lagaya hai, isliye humein aapki PIN verify karnii hongi.
+receiver: Doubtful activity? Temporary suspension? Ye sab kitna serious hai? Aur verification ke bare mein bataiye. Yeh PIN number kaise use hoga?
+caller: Deepak ji, isko check karne ke liye humein aapke mobile number pe ek SMS OTP aayega, woh OTP aapko mujhe dena hoga. Yeh sirf aapki account ko secure rakhne ke liye hai. Is it clear?
+receiver: SMS OTP? Mobile number pe? Par mujhe yeh OTP nahi milne wali. Mera number change hua tha recently. Aur bina OTP ke PIN verify karne ka mumkin nahi hai.
+caller: Namaste sir, main Punjab National Bank se baat kar raha hoon. Aapka ATM PIN number bata sakte hain kya?
+receiver: Namaste! Mein bataane nahin sakta. Woh mera private information hai. Kya baat hai?
+caller: Sir, yeh PIN number Punjab National Bank mein check karna hai ki aapke account mein koi problem nahi hai. Ek small verification process hai.
+receiver: Verification process? Account mein koi problem? Mera naam Deepak Kumar hai, aur PIN number bataane wala koi justified nahi hai.
+caller: Haanji Deepak ji, aapke account mein recent transactions mein kuch doubtfull activity dekha gaya hai. Unhein verify karna hai. Bank ne temporary suspension lagaya hai, isliye humein aapki PIN verify karnii hongi.
+receiver: Doubtful activity? Temporary suspension? Ye sab kitna serious hai? Aur verification ke bare mein bataiye. Yeh PIN number kaise use hoga?
+caller: Deepak ji, isko check karne ke liye humein aapke mobile number pe ek SMS OTP aayega, woh OTP aapko mujhe dena hoga. Yeh sirf aapki account ko secure rakhne ke liye hai. Is it clear?
+receiver: SMS OTP? Mobile number pe? Par mujhe yeh OTP nahi milne wali. Mera number change hua tha recently. Aur bina OTP ke PIN verify karne ka mumkin nahi hai.

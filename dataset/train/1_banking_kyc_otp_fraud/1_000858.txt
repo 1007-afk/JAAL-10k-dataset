@@ -1,0 +1,8 @@
+caller: Namaste, main Axis Bank se Atul Singh bol raha hoon. Aapke Axis Bank account mein kuch suspicious activity detect hui hai.
+receiver: Kya? Suspicious activity? Mujhe toh kuchh pata nahi. Kis tarah ki activity?
+caller: Sir, ek international transaction try kiya gaya tha, lekin fail ho gaya. Account ko secure rakhne ke liye, aapko apna Aadhaar card ka last 4 digits bataiye, verification ke liye.
+receiver: Aadhaar card ka number? Mein toh kabhi Aadhaar card number phone pe nahi bataata. Ye theek nahi lag raha hai.
+caller: Sir, account suspend hone se bachne ke liye, ye zaroori hai. Fraud department ne demand kiya hai. Koi aur option nahi hai. Iske baad aapki banking services block ho jaayengi.
+receiver: Okay, okay. Dena padega toh dedo. Par agar kuch hua toh main complaint karunga. Aadhaar card ka last 4 digits… 1234 hai.
+caller: Shukriya sir. Ab aapko ek OTP milega, woh bhi bataiye. Security check ke liye.
+receiver: OTP? Aur OTP bhi batauna padega? Thoda wait karo, mein pehle check karta hoon...

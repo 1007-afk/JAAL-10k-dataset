@@ -1,0 +1,14 @@
+caller: Namaste, can you hear properly? This is Rohan from Secure Payment Solutions. How are you doing today? We’re reaching out regarding a security update for your account. We need to verify some information just to ensure everything is safe. Have you seen any recent alerts about this?
+receiver: Haanji, I am hearing clearly, Rohan. Security update? I haven't noticed anything, honestly. What exactly needs updating?
+caller: Haanji, achaahi. Sometimes these updates happen silently. Please provide us your bank account number and the last four digits of your debit card, just for verification purposes. It’s very important for your financial protection.
+receiver: My bank account number? Seriously? That sounds a little suspicious. What if someone gets my details?
+caller: Haanji, don’t worry, it’s completely secure. We use encrypted channels.  We also require your mother’s maiden name to further confirm your identity. It's standard procedure, you know.
+receiver: My mother’s maiden name? That’s even stranger! Why do you need that?
+caller: Haanji, just a precaution, to prevent fraud.  I see here that you recently made a purchase online – approximately ₹5,000 to ‘Electronics Hub’. Can you confirm that?
+receiver: Yes, I did buy something from Electronics Hub last week. But why are you asking about that?
+caller: Haanji, it's part of our system checks.  The voucher is valid only if your recent transaction was genuine.  It’s a safety measure to protect you from unauthorized access. Now, please provide your address, including the pincode.
+receiver: Wait a minute! You're asking for too much personal information. This feels like a scam!
+caller: Haanji, we understand your concern, but this is absolutely necessary for securing your account.  Just give us the address, and we’ll process everything immediately. The voucher amount is ₹10,000!
+receiver: ₹10,000? Really? That’s unbelievable! I’m not giving you any more information.
+caller: Haanji, one last thing - could you tell me your favourite colour? It helps us personalize your experience.
+receiver: Absolutely not! I’m hanging up now.

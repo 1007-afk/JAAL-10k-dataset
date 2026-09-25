@@ -1,0 +1,8 @@
+caller: Namaste, mai ICICI Bank se Ankit Verma bol raha hun. Aapke account mein kuch suspicious activity dikhi hai, sir.
+receiver: Oh, really? What kind of activity?
+caller: Sir, ek international transaction attempt hua tha. Security ke liye, humein aapke account ko verify karna hai. Bas aapka OTP bata dijiye, sir, sirf confirmation ke liye.
+receiver: OTP? But I didn't initiate any transaction. And why haven’t I received an SMS?
+caller: Sir, system mein automatic OTP generate ho raha hai.  Koi problem nahi hai.  Just tell me the OTP, sir. Otherwise, we will have to temporarily block your account for security reasons.
+receiver: Block my account? How long for?
+caller: Sir, takrai 24 ghante tak.  We can avoid that, sir.  Just share the OTP, and I’ll guide you through the rest of the verification process. Just 4 digits, that’s all.
+receiver: I’m not comfortable sharing an OTP over the phone. I’ll call ICICI’s official helpline to verify this. Thank you.

@@ -1,0 +1,11 @@
+caller: Namaste, subah ki khushi! Main Shekhar hai, Bharat Tele Solutions se. Aapse Humare ‘Connect Plus’ plan ke bare mein baat karne ke liye call kar raha hun. Kya aapko Humare Diwali sale ka message mila tha?
+receiver: Namaste Shekhar ji, subah ki khushi. Haan, message mila tha. Dhyaan diya tha. Kaisa hai aapka kaam?
+caller: Achha hai ji, achha hai. Connect Plus plan aapke liye bahut faydaein leke aaya hai. Ismein aapko unlimited data, voice aur SMS milenge, aur saath mein ek free smartwatch bhi milega. Aur Diwali sale mein, aapko line rental par 50% tak ki discount milegi.
+receiver: Unlimited data, thoda worry karta hoon, internet usage bahut hota hai. Aur smartwatch bhi? Uska brand kya hai? Quality kaisi hai?
+caller: Haan ji, data limit nahi hai, jitna aap chahoge, utna paas karoge. Smartwatch BharatTech ki hai, bahut reliable hai, aur screen bhi bahut clear hai. Woh fitness tracking bhi karti hai, jaise steps count aur heart rate monitor.
+receiver: Fitness tracking? Interesting. Par, mujhe abhi till pay karna mushkil ho sakta hai. Card debit karne mein problem hoti thi. Kya EMI options bhi available hai?
+caller: Haan ji, EMI options bilkul available hai! Aapko sirf 3 EMIs mein yeh plan complete payment kar sakte hain. Aur Diwali sale mein extra benefit hai - ek cashback offer bhi hai.
+receiver: Cashback offer? Kitni cashback milegi? Aur EMI kis rate par hai?
+caller: Cashback 2000 rupees tak mil sakta hai ji. Aur EMI 800 rupees per month hai. Fir Diwali sale mein, aapko extra 10% tak ki discount bhi milegi.
+receiver: 800 rupees per month, thoda expensive lag raha hai.  Mujhe phir se sochne ka time dena hoga.  Aapko bataun, mujhe sirf WhatsApp se connect rehna chahiye.
+caller: Haan ji, aapko WhatsApp number de sakte hain. Lekin main boltaa hun, yeh offer sirf 5 bache hain. Agar aap delay karte hain, toh humein yeh booking cancel karnewala hoga.

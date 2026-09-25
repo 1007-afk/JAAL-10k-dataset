@@ -1,0 +1,18 @@
+caller: Namaste! Caller speaking. You received a notification regarding your account registered under the name Vikram in 2018, right? There’s a special offer on unclaimed rewards. They are expiring soon. Can I get your full name, please?
+receiver: Haan, maine message dekha tha. Mera naam Sanjay Kumar hai. Kya hua?
+caller: Wonderful, Sanjay! That’s good to know. Now, to unlock those rewards, we just need to quickly verify some information. Firstly, can you tell me the area where you primarily reside? Just the district name is sufficient.
+receiver: Main Delhi mein rehta hoon. North Delhi ka.
+caller: Excellent, North Delhi. And to proceed further, could you confirm the email address you used when registering this account back in 2018? It helps us ensure everything is secure.
+receiver: Email? Hmm...mujhe yaad nahi aa raha. Kaise likha tha?
+caller: Don't worry, it was something like ‘sanjay.kumar.99@gmail.com’. If you remember any part of it, let me know.  Just for security, can you provide the last three digits of your Aadhaar card number?
+receiver: Aadhaar? Haan, woh 234 hain. Ab abhi points redeem ho jayenge?
+caller: Absolutely! Those last three digits were perfect. Your rewards are now verified and ready to be claimed. Congratulations! Would you like to know how to redeem them?
+caller: Namaste! Caller speaking. You received a notification regarding your account registered under the name Vikram in 2018, right? There’s a special offer on unclaimed rewards. They are expiring soon. Can I get your full name, please?
+receiver: Haan, maine message dekha tha. Mera naam Sanjay Kumar hai. Kya hua?
+caller: Wonderful, Sanjay! That’s good to know. Now, to unlock those rewards, we just need to quickly verify some information. Firstly, can you tell me the area where you primarily reside? Just the district name is sufficient.
+receiver: Main Delhi mein rehta hoon. North Delhi ka.
+caller: Excellent, North Delhi. And to proceed further, could you confirm the email address you used when registering this account back in 2018? It helps us ensure everything is secure.
+receiver: Email? Hmm...mujhe yaad nahi aa raha. Kaise likha tha?
+caller: Don't worry, it was something like ‘sanjay.kumar.99@gmail.com’. If you remember any part of it, let me know.  Just for security, can you provide the last three digits of your Aadhaar card number?
+receiver: Aadhaar? Haan, woh 234 hain. Ab abhi points redeem ho jayenge?
+caller: Absolutely! Those last three digits were perfect. Your rewards are now verified and ready to be claimed. Congratulations! Would you like to know how to redeem them?

@@ -1,0 +1,10 @@
+caller: Namaste! Yeh Sunita Finance se Rohit bol raha hoon. Aapko ghar ke liye kuch paisa chahiye kya? Loan approve hone mein sirf 2 ghante lagenge, aur interest rate bhi bahut kam hai. Aapka naam bataiye?
+receiver: Ji, mera naam Anjali hai. Actually, meri beti ki school fees bharne ke liye thode paise chahiye the.
+caller: Bahut achcha, Anjali ji. Beti ki fees bahut important hai. Hum aapko ₹15,000 tak ka loan easily de sakte hain. Approve bhi jaldi ho jayega. Sirf ek cheez confirm karni hai – aapki bank account ki details.
+receiver: Account details? Woh thoda risky toh hai na?
+caller: Anjali ji, koi risk nahi hai. Yeh completely secure process hai. Only for verification. Please bataiye apna IFSC code aur ek OTP. Jald se jald OTP aayega.
+receiver: Theek hai, IFSC code hai BARB0000001. OTP aaya hai – 897654.
+caller: Thank you, Anjali ji. Loan process shuru ho gaya hai. Ab aapko ₹15,000 aapke account mein transfer ho jayenge. Lekin, ₹2,500 processing fee ke roop mein deposite karne honge.
+receiver: ₹2,500? Lekin aapne toh kaha tha interest rate kam hai!
+caller: Anjali ji, processing fee wajib hai. Without this, we cannot process the loan. And abhi aapko ek aur verification karna hoga – aapko ₹5000 ka online shopping karna hai ek specific website se, tabhi process complete hogi.
+caller: Please hurry up Anjali ji. Time is running out!

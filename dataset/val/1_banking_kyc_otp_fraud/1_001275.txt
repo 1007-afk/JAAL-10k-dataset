@@ -1,0 +1,7 @@
+caller: Namaste, main IDFC First Bank se Atul bol raha hoon. Aapke naam par ek online shopping transaction hua hai, ₹7,500 ki. Aapne kiya tha?
+receiver: Haan, Atul ji? Mujhe koi yaad nahi aa raha. Main shopping toh karta hoon, par ₹7,500 ka transaction... mujhe check karne do.
+caller: Ji, aap check kijiye. Lekin abhi isko block karna zaroori hai, warna account se aur bhi transaction ho sakte hain. Aapka OTP aur Aadhaar card number sharf karna padega verification ke liye, sir.
+receiver: OTP aur Aadhaar? Itna sensitive information phone pe? Main toh online banking se check karta hoon. Yeh thoda risky lag raha hai.
+caller: Sir, online banking mein virus hone ka chance hota hai. Hamara verification process bilkul safe hai. Jaldi karo, sir, account suspend hone se pehle. OTP aur Aadhaar number bata dijiye, please.
+receiver: Dekhiye, mujhe bank mein jaakar verify karna accha lagega. Online karta hoon toh thoda dar lagta hai.
+caller: Sir, branch office bandh hai aaj. Only online verification is available right now. Please give the OTP. Urgent!

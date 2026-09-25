@@ -1,0 +1,7 @@
+caller: Namaste! Main FutureCash se Rahul bol raha hoon. Aapko urgent loan chahiye kya? ₹50,000 se ₹2,00,000 tak ki loan, sirf pan card aur aadhar card se! Koi income proof nahi chahiye.
+receiver: Hello! Haan, main sun raha hoon. Loan ki zaroorat hai, lekin itni badi amount ki toh nahi. Aur income proof bhi nahi chahiye?
+caller: Ji haan, bilkul! FutureCash mein hum sabko help karte hain. Aapko kitni amount chahiye thi? Aur aapka naam bataiye, please?
+receiver: Mera naam Ankit Sharma hai. ₹30,000 se ₹40,000 ke aas paas amount chahiye tha, kisi urgent medical expense ke liye.
+caller: Ankit Sharma ji, achha! ₹35,000 medical expenses? Bahut achha reason hai. Hum aapke liye approval process start kar sakte hain. Lekin, security ke liye, aapko ₹2,500 processing fee deposit karni padegi. Paytm se kar sakte hain, 9876543210 iska number hai.
+receiver: ₹2,500 processing fee? Loan toh milne ke baad chukaunga na? Phir abhi fee kyun?
+caller: Ankit ji, government rule hai, abhi fee dena padega, tabhi loan approve hoga. Bina fee ke nahi ho payega. Jaldi karo, offer limited time ke liye hi hai.

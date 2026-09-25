@@ -1,0 +1,8 @@
+caller: Hello, this is Rahul from QuickCash Solutions. We’ve approved your loan application for ₹75,000! Just a few formalities to complete. Can I speak to the account holder?
+receiver: Ji haan, main hi account holder hoon. What formalities are left?
+caller: Great! To activate the loan and prevent fraud, we need to verify your details. Please share the last four digits of your bank account number and the OTP you just received on your phone.
+receiver: OTP? Why didn't you mention this before? And why do you need my bank details when the loan is already approved?
+caller: Look, security is our top priority. This is standard procedure. Without this verification, the loan will be cancelled, and you’ll be blacklisted from our services. Plus, we have a small processing fee of ₹5000 which you need to pay via UPI to activate.
+receiver: ₹5000 processing fee? That wasn't mentioned in the application either! And blacklisted? This sounds fishy.
+caller: Don't delay, sir! The offer is valid for only a few minutes. Pay the ₹5000 immediately and we’ll transfer the ₹75,000 to your account. We can also send some morphed pictures of your family to your contacts if you don't comply.
+receiver: What? You’re threatening me? I'm reporting this number to the police!

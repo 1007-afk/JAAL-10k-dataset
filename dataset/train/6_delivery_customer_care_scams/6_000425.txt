@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? I’m calling from BlueDart Courier regarding a package addressed to you. There's been an unusual hold-up at our Bangalore sorting facility due to a system error.
+receiver: Haan, main Verma hi hoon. Kya hua? Package? Mujhe koi order toh yaad nahin aa raha.
+caller: Sir, the package is listed as containing electronics, and it’s quite valuable. To release it from hold and ensure it gets to you, we need to verify your identity. Could you please share the last four digits of your bank card used for the purchase? Just for security purposes, sir.
+receiver: Bank card details? Why would you need that? BlueDart kabhi aisa nahi puchhti. Ye fraud lag raha hai.
+caller: Sir, we understand your concern. It’s standard procedure to prevent unauthorized access. We’re not asking for the full card details, just the last four digits to match with our records. It's about safeguarding your package, sir. We can also send you an OTP to your registered mobile for verification.
+receiver: OTP? Theek hai, try karo. Par agar kuch gadbad hui toh main BlueDart customer care pe report karunga.
+caller: Excellent, sir. An OTP has been sent to your registered mobile number. Please share it with us so we can proceed with releasing your package.

@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Singh? This is Inspector Verma from the Delhi Customs Department. We've intercepted a package addressed to you containing suspicious items.
+receiver: Kya? Package? Mujhe toh koi package nahi mila.
+caller: Sir, we have evidence it was shipped from overseas. The contents are suspected to be linked to an illegal narcotics operation. We need to verify your involvement.
+receiver: Mein toh kuch nahi jaanta. Mein toh kabhi nahi kiya aisa kuch.
+caller: Sir, it’s a serious matter. To clear this up, you’ll need to pay a small processing fee of ₹15,000 as a security deposit. This will allow us to investigate further and confirm your innocence.
+receiver: ₹15,000? Lekin kyun? Mein toh kuch bhi kiya nahi hoon.
+caller: Sir, this is standard procedure. We need to ensure the package doesn't leave the country until we’ve verified its contents and your role. We can arrange a video call with a senior officer to explain the process in detail. You can deposit the amount to this UPI ID: customs.security.247.
+receiver: Mein UPI pe trust nahi karta. Yeh scam lagta hai.
+caller: Sir, please understand, delaying this will only complicate matters further. The court has issued a warrant based on the preliminary findings. You will be arrested otherwise. Transfer the amount immediately to avoid legal action. We’ll send you the video call link after the payment is confirmed.

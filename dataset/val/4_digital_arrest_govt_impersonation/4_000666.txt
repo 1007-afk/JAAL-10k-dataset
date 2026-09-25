@@ -1,0 +1,6 @@
+caller: Namaste, mai Indian Customs se Rahul Verma bol raha hoon. Aapke naam par ek parcel aaya hai Chennai customs warehouse mein, lekin parcel mein illegal items paaye gaye hain – suspected drugs.
+receiver: Drugs? Mere naam par? Mai toh kabhi parcel nahi mangwaaya. Yeh kya ho raha hai?
+caller: Ji, madam. System mein aapka address dikha raha hai.  Parcel ko release karne ke liye, humein verification ke liye kuch details chahiye. Aapko ek small amount deposit karna hoga - sirf ₹8,500 – security ke taur pe, taki parcel release ho sake.
+receiver: ₹8,500? Yeh thodi zyada lag raha hai. Mai police mein report kar doongi. Koi receipt milegi mujhe jab mai deposit karungi?
+caller: Madam, police mein report karne se kuch nahi hoga. Parcel stuck ho jayega aur legal action hoga. Receipt? Hum aapko ek OTP send karenge, wo OTP number se deposit confirm ho jayega. OTP hi aapki receipt hogi. Abhi OTP aaya hai, please bataiye.
+receiver: OTP? Sir, woh kuch gadbad lag raha hai. Mai kisi bhi number pe OTP nahi bataungi. Aap log scammers ho.

@@ -1,0 +1,7 @@
+caller: Hello sir, is this Raj Patel? I'm calling from Paytm Customer Support. We’ve noticed some suspicious activity on your account.
+receiver: Suspicious activity? What kind of activity? Is everything alright?
+caller: Yes sir, someone tried to make a large transaction from your Paytm wallet to a new UPI ID. To secure your funds, we need to verify your account immediately.
+receiver: Verify? What do I need to do? I haven’t made any large transactions.
+caller: Just a quick OTP verification, sir. Could you please share the last four digits of your linked bank account so I can send you the OTP? Just to confirm it’s you.
+receiver: Wait a minute... why do you need my bank account details? Shouldn't the OTP go directly to my phone?
+caller: It’s a new security protocol, sir, for high-risk accounts. Just those last four digits please, it'll only take a second. We need to prevent further unauthorized access.

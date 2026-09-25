@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Simran Sharma bol rahi hoon. Aapke account mein kuch suspicious activity dikhi gayi hai. Aapko KYC update karna hoga urgently.
+receiver: KYC update? Kyon? Maine toh kuch bhi unusual kiya nahi.
+caller: Sir, yeh security measures hain. Aapke account ko safe rakhne ke liye humein aapki Aadhaar card copy aur bank account number verify karna hoga. Aur ek OTP bhi chahiye hoga.
+receiver: OTP? Bank kabhi OTP maangta hai phone pe? Mujhe toh bank ka branch visit karna chahiye.
+caller: Sir, branch visit mein time waste hoga. Yeh process online zyada safe hai. OTP aapke registered mobile number par aayega. Aapko woh OTP mujhe bata denge. Yeh bahut important hai, warna aapka account suspend ho sakta hai.
+receiver: Account suspend? Wait, wait. Let me check something. My friend said to never give OTP to anyone.
+caller: Sir, yeh scam nahi hai. Yeh bank ka official call hai. Aapse request hai ki aap jaldi se OTP bataiye, warna account suspend ho jayega.  Dekhiye, main aapko whatsapp pe ek link send karungi jahan aap apne details verify kar sakte hain.

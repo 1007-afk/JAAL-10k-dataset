@@ -1,0 +1,8 @@
+caller: Namaste! Yeh HappyNewYear > GOLDEN TICKETS! ka offer aapko mila hai? Bahut sundar offer hai, aapne reply kiya tha 'YES'?
+receiver: Haan, mujhe mila tha woh message! 'YES' reply kiya tha maine. Kya baat hai?
+caller: "Haan, wohhi! Aapne reply kiya tha 'YES' aur ab aapke paas bas 3 premium alerts bache hain! Ye alerts aapko har din ke update ke liye jagavatenge, aur aapko khush rakhna hai!  Aap ready ho? Kaise update dekhna chahte ho?
+receiver: Arre waah, 3 premium alerts? Thoda interesting hai! Umm... pehle toh mujhe cricket news chahiye. Woh alerts mujhe cricket news batayenge? Aur kya kya updates milenge?
+caller: Arre, bahut badhiya! Cricket news ke liye yeh alerts sabse achche hain. Dekhiye, ye alerts har din ke top scores, player stats, aur match schedules bhi batayenge.  Aapko sirf cricket ke bare mein sabhi updates mileinge. Toh, pehla alert aapke liye cricket news ke liye aap hi choose kijiye.  Kya naam se save karna chahte ho?
+receiver: Okay, dekhta hoon...  Cricket news ke liye save karna hai. Thoda sochte hoon. Kuch acha sa hona chahiye na. Wait, kya koi option hai ki main khud news likh sakoon? Ya sirf alerts hain?
+caller: Arre, bilkul! Aap khud bhi news read kar sakte ho! Ye toh aur bhi achha hai na, aap apne dil se cricket ke bare mein jaantege! Ya phir agar aapko koi ready-made news achha lage toh woh bhi hai. Jaise, 'India won the match! Congratulations!' Ya phir koi catchy tagline. Aap bataiye, kya bhejoge?
+receiver: Okay, khud reading ka option hai toh aur bhi mazaa aayega! Hmm... main India won ka message bhejein. Thoda quick update chahiye. Aur haan, ready-made headlines bhi dekh leta hoon, shayad kuch pasand aaye. Wait karo, main abhi final karta hoon. Ek minute!

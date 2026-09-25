@@ -1,0 +1,7 @@
+caller: Namaste, mai Vodafone-se Ram ji bol raha hoon. Aapke Vodafone account mein kuch technical issues aa rahi hain, aur hume aapke details verify karne hain taaki aapki service smooth chalti rahe.
+receiver: Vodafone? Mein Vodafone ka customer hoon, lekin account mein koi issue toh nahi dikh raha. Verify karne ke liye kya details chahiye?
+caller: Ji, aapko bas apna Aadhaar card ka last 4 digits aur apna bank account number batana hai, taaki hum account attach kar sakein aur aapko koi inconvenience na ho. Aur ek small security fee bhi apply hogi, ₹500.
+receiver: ₹500 fee? Vodafone aise fees nahi lete. Aur Aadhaar aur bank account number phone pe? Ye thoda risky lag raha hai.
+caller: Sir, security reasons se hi hume yeh details verify karni padti hai. Yeh ek one-time process hai, aur ₹500 aapko aapki service upgrade karne mein help karega. Agar aap verify nahi karte, toh aapki service suspend bhi ho sakti hai.
+receiver: Suspend? Wait, wait. Mein Vodafone app check karta hoon. Ek minute.
+caller: Sir, time is limited. Aap jald hi action lijiye taaki aapki service unaffected rahe. Please provide the details as soon as possible.

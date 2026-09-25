@@ -1,0 +1,15 @@
+caller: Namaste sir, kya aap mujhse apni debit card ka PIN number share kar sakte hain? Humein aapke account mein ek small problem check karne ke liye zaruri hai.
+receiver: Debit card ka PIN? Kaise? Aap mujhse kyun puch rahe hain? Main tumhare bare mein jaante bhi nahi hoon!
+caller: Sir, main Reliance Jio se baat kar raha hoon, customer support team se. Aapke account mein ek connectivity issue aa gaya hai, aur mujhe apne account ko verify karne ke liye aapke debit card ka PIN chahiye hai. Don’t worry, yeh sirf verification ke liye hai.
+receiver: Reliance Jio? Mein Reliance Jio ka customer nahi hoon! Aur PIN number bataane wala koi respectable company kabhi bhi request nahi karta. Mujhe koi aur detail chahiye, jo genuine ho.
+caller: Sir, we are seeing some unusual activity on your account, and we need to ensure that it's actually you accessing it. This is a standard security protocol. Just give me the PIN, please. It will only take a few seconds.
+receiver: Unusual activity? Mujhe koi alert nahi mila. Aur PIN number bataane se mera account compromised ho sakta hai! Main nahin bataunga. Main apunko koi alternate way bataata huon.
+caller: Sir, we can send an OTP to your registered mobile number instead. It's much safer than sharing your PIN. But, for this, we need the PIN momentarily to authenticate the OTP sending process. It’s just a quick verification step.
+receiver: OTP? Haan, mene OTP bhi receive kiya hai. Toh aapne wo OTP dekha ya nahi? Agar aapko woh OTP dikha de, toh main aapko PIN bata sakta hoon.
+caller: No, I haven’t seen it. We need the PIN now, sir. The longer we wait, the greater the risk of fraudulent transactions. Time is running out.
+receiver: Wait! Main abhi soch raha hoon. Mujhe koi doubt hai. Aap mujhse PIN kyun puch rahe hain, iska koi proper reason nahi hai. Main nahin bataunga.
+caller: Sir, please cooperate. If you don't provide the PIN, we may have to freeze your account. You will lose all your funds.
+receiver: Freeze my account? Seriously? Thoda time dooon, main koi investigation karunga.
+caller: Please, sir, just one moment. We are under pressure to resolve this issue urgently. Your cooperation is vital.
+receiver: Okay, fine. But if something goes wrong, it's your responsibility. I am giving you my PIN.
+caller: Thank you so much, sir! We appreciate your assistance. Now, let’s proceed with the verification.

@@ -1,0 +1,11 @@
+caller: Namaste sir/madam, meri taraf se HDFC bank se call aa rahi hai. Aapko ek special deal mila hai, jiske liye aapke mobile number pe ek 3 digit ka verification code gaya hoga. Kya aap woh code mujhe bata sakte hain taaki main aapki deal activate kar saku?
+receiver: Namaste. Verification code? Ek minute, dekhta hoon. Hmm... Mujhe koi code nahi mila sir/ma'am. Aapne sahi number pe call kiya hai na? Kaise confirm karein?
+caller: Haanji, main bilkul confirm kar sakta hoon. Number toh sahi hai. Aapko jaisa dikh raha hai, woh 3 digit code hai, koi SMS nahi? Kabhi kabhi yeh thoda late ho jaata hai. Aap apna WhatsApp check kijiye, shayad abhi tak aa gaya ho.
+receiver: Dekhla sir/ma’am, WhatsApp pe bhi kuch nahi aaya. Shaayad koi problem hogi. Aap kaise bol rahe hain, aapki deal ke baare mein poora bataiye. Kitni benefit hai?
+caller: Haanji, yeh deal aapke credit card ke liye hai. Agar aap credit card se online purchase karte hain, to aapko 20% tak discount milega. Aur haan, Flipkart aur Amazon par bhi cashback offer hai. Bahut hi profitbaar hai yeh deal. Aur agar aapko code nahi mila hai, toh apne internet connection ko check kijiye, kabhi kabhi slow speed se delay hota hai. Aapko sirf woh 3 digit code bataana hai, bas.
+receiver: 20% discount Flipkart aur Amazon pe? Sounds good. Internet bhi check kar leta hoon…Haan, signal toh acha lag raha hai. Wait, WhatsApp pe fir se dekhta hoon... (pauses) Haan, ek message aaya hai! Woh code hai... [caller says the OTP]
+caller: Dhanyavaad sir/madam! [Receiver's OTP] ...Shukriyaaapko. Ab aapki deal activate ho jayegi aur aapko benefits milna shuru ho jayenge. Aapko koi extra information chahiye is deal ke baare mein?
+receiver: Ji haan, mujhe extra information chahiye. Is deal mein koi expiry date hai? Aur cashback kab milega?
+caller: Haanji, yeh deal 30 din ke liye valid hai aur cashback 60 days ke andar milega. Aapko sirf credit card se purchase karne ho. Kuch aur jankari chahiye?
+receiver: Nahin, abhi toh bas itna hi chahiye. Dhanyavadaapka.
+caller: Bahut bahut shukriya sir/madam. Aapki services mein hum sabse zyada khushi se kaam karte hain.

@@ -1,0 +1,6 @@
+caller: Namaste! Main Bharat Fintech se Deepak bol raha hoon. Aapke PhonePe account mein ek suspicious transaction detect hua hai. Security ke liye, aapko account verify karna hoga.
+receiver: Bharat Fintech? Mere PhonePe mein kuch wrong transaction? Mein toh kuch nahi kiya. Verify kaise karna hai?
+caller: Sir, verify karna bahut easy hai. Aapko bas ek small processing fee bhar deni hai. ₹799. Yeh fee confirm kar dega ki account aapka hi hai aur koi unauthorised access nahi kar raha hai.
+receiver: ₹799? Processing fee? PhonePe mein toh kabhi bhi aisa kuch nahi suna. Aur mujhe PhonePe se fee bharne ke liye koi link nahi mila.
+caller: Sir, yeh ek special security measure hai, Covid ke chalte. Aapko ek UPI link mil jayega, ₹799 bhar den aapko instant confirmation message mil jayega. Apni PhonePe ID bataiyein.
+receiver: Ruk jaao! ₹799 bharne ka koi UPI link mujhe nahi chahiye. Mein Police mein report karunga agar tum logon ne mujhe lootne ki koshish ki toh.

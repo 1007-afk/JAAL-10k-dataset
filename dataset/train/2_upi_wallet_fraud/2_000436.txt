@@ -1,0 +1,7 @@
+caller: Namaste! Main Paytm Payments se Rahul bol raha hoon. Aapke Paytm wallet mein ek transaction fail hua hai, ₹7500 ka. Security ke liye, humein verify karna hai.
+receiver: ₹7500? Transaction fail hua? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, system mein error dikh raha hai. Verify karne ke liye, aapko ek small processing fee bhar deni hogi, sirf ₹200. Aap Paytm ke Rupay Credit Card se bhar sakte hain.
+receiver: ₹200? Rupay card se? Aur verification kaise hoga?
+caller: Haan ji, Rupay card se bharne par, humein OTP milega, usse verify ho jayega aur aapka ₹7500 safe ho jayega. OTP ₹200 ke payment ke baad milega, ek minute mein.
+receiver: Theek hai, ₹200 bhar deta hoon. Batao, Rupay card ka number aur expiry date.
+caller: Haan ji, please apna Rupay card number aur expiry date bataiye. Aur ek OTP bhi milega, woh bhi bataiye, verification ke liye.

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Bharat Customs se Rohan Sharma bol raha hoon. Aapke naam par ek parcel aaya tha jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Mere naam par parcel? Main to koi parcel order nahi kiya tha.
+caller: Sir, parcel mein an-declared items mile hain jo illegal hain. Isliye customs ne isko hold kar diya hai. Isko release karne ke liye, aapko ₹12,500 ka fine bharvana padega.
+receiver: ₹12,500? Yeh kitna zyada hai! Aur parcel mein kya tha? Main to kuch bhi illegal nahi order karta.
+caller: Sir, parcel mein electronic gadgets hain jo ke grey market se aaye hain. Yeh India mein illegal hain. Fine bharne ke baad, parcel aapke address par bhijwa diya jayega. Aapko online payment karna hoga, main aapko link bhejkta hoon.
+receiver: Thoda wait karaiye, mujhe check karne do. Main apne wife se baat karta hoon. Yeh bohot suspicious lag raha hai.
+caller: Sir, time bahut kam hai. Agar aap jaldi nahi bhare, toh parcel confiscat kar diya jayega aur aapke naam par legal action bhi ho sakta hai. Payment link send kar raha hoon. Jaldi karein!

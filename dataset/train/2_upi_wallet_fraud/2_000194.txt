@@ -1,0 +1,9 @@
+caller: Namaste! Mai calling kar raha hoon Paytm Rewards se. Aapko cashback offer mila hai aapke Paytm wallet par.
+receiver: Oh, Paytm se call? Cashback offer? Bataiye, kya offer hai?
+caller: Haanji, dekhiye, aapke Paytm wallet mein ₹500 ka cashback offer hai. Isko claim karne ke liye, aapko sirf ₹100 processing fee deposit karni hogi.
+receiver: ₹100 processing fee? Lekin Paytm pe toh aise fees nahi lagta. Verify kar sakte hain?
+caller: Haan, bilkul! Yeh ek limited-time offer hai sirf select customers ke liye. Aapko Paytm app mein ‘Claim Offer’ button mil jayega. Deposit karne ke liye, ek UPI ID dunga, us par ₹100 deposit karein.
+receiver: Okay, ₹100 deposit kar dunga, lekin mujhe UPI ID verify karna hai pehle. Aapka naam bhi bataiye.
+caller: Meri naam Rohit hai. UPI ID hai 7894561230@ybl. Aap jald se jald deposit karein, otherwise offer expire ho jayega. Bahut kam log is offer ko claim kar payenge.
+receiver: ₹100 deposit kar diya. Ab mujhe cashback kese milega?
+caller: Bahut achha! Ab aapka cashback 24 hours mein aapke Paytm wallet mein reflect ho jayega. Thank you for participating in Paytm Rewards program!

@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main PhonePe support se bol raha hoon. Aapke account mein security breach ka ek attempt hua hai. Aapke account ko secure rakhne ke liye kuch details verify karne ki zaroorat hai.
+receiver: PhonePe? Security breach? Yeh kya ho raha hai? Mera naam Vijay Sharma hai. Mujhe kuch bhi nahi pata.
+caller: Sir, koi hacker aapke account mein access karne ki koshish kar raha tha. Aapko account suspend hone se bachane ke liye, humein aapki Aadhaar number aur OTP verify karna hoga. Iska koi aur rasta nahi hai.
+receiver: Aadhaar number? OTP? Yeh bahut risky lag raha hai. Main PhonePe app mein check karta hoon. Aur mujhe bataiye aapka naam kya hai?
+caller: Sir, time bahut kam hai. Account suspend hone se pehle, please apni Aadhaar number bataiye. Hamara naam Rajesh hai. Ye process compulsory hai. Thoda urgent matter hai, sir.
+receiver: Okay, fine. Mera Aadhaar number [Invented Aadhaar Number] hai. Par OTP mat puchna. Main PhonePe app check karta hoon aur fir bolta hoon.
+caller: Thank you, sir. Ab aapko ek OTP milega, woh confirm karna hai. OTP milne ke baad, humein account safe karne ke liye bank account details bhi chahiye. Account number aur IFSC code bataiye, please.

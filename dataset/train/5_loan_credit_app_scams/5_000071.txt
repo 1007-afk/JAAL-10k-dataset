@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan from QuickCash Solutions. We’ve noticed you recently applied for a personal loan online. Just need to verify a few details quickly. Can I get your name, please?
+receiver: Yes, hello. My name is Vijay Kumar.
+caller: Thank you, Vijay ji. Excellent. Now, for security purposes, could you please share the last four digits of your bank account number associated with the application?
+receiver: Wait a minute, why do you need my bank account details? The online form didn't ask for that.
+caller: It’s standard procedure, Vijay ji. We’re just confirming you are the rightful owner. Also, to process your loan, we need a small processing fee of ₹2,500 as a security deposit. It will be refunded immediately upon loan disbursement. You can pay using UPI.
+receiver: ₹2,500? That seems unusual. And why haven't I received any formal loan approval email yet?
+caller: The email might be delayed, Vijay ji.  Don't worry about that. The UPI details are 7890123456@ybl. Pay now, and your loan of ₹50,000 will be credited to your account within an hour. We have many clients delaying payments, and ending up with legal action. Do it now sir.

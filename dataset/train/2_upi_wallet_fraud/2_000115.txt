@@ -1,0 +1,6 @@
+caller: Namaste, main Vijay Airtel customer care se bol raha hoon. Aapke Airtel wallet mein ₹150 ka suspicious transaction detect hua hai, ek gaming app mein.
+receiver: Kya? ₹150? Mujhe toh kuch yaad nahi aa raha. Main toh aaj tak gaming app mein kabhi transaction nahi kiya.
+caller: Haan ji, ek ‘Royal Spins’ app mein. Hamko security ke liye confirm karna hai ki aapne kiya tha ya nahi. Aapka wallet block ho sakta hai agar confirm nahi karte.
+receiver: Wallet block ho jayega? Par mai toh kabhi bhi… Okay, ek minute, main apna Airtel app dekhta hoon. (pause) Haan, yahan dikh raha hai, Royal Spins... lekin main ne toh nahi kiya!
+caller: Theek hai, ji. Shayad hacking ho gaya hai. Hamko ₹50 ka processing fee chahiye, refund process start karne ke liye. Aap UPI se transfer kar dijiye. Meri UPI ID hai: vijay.refund@upi.
+receiver: ₹50 fee? Refund karne ke liye? Yeh toh thoda strange lag raha hai. Airtel customer care aise fee nahi lete na?

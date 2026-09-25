@@ -1,0 +1,7 @@
+caller: Namaste! Sir, hum PhonePe se call kar rahe hain. Aapke account mein ₹1500 ka cashback offer hai Paytm par. Claim karne ke liye, 9876543210 pe call karein aur OTP de dein.
+receiver: ₹1500 cashback? Paytm pe? Itne zyada paise? Koi catch toh hoga hi.
+caller: Sir, koi catch nahi hai. Yeh Diwali special offer hai. Offer sirf aaj ke liye hai, isliye jaldi karein. OTP sirf 2 minute valid rahega.
+receiver: Okay, but why PhonePe is calling about a Paytm offer? That doesn’t make sense. I'll check my Paytm app first.
+caller: Sir, PhonePe aur Paytm ab partner hain. Offer automatically aapke account mein credit ho jayega. OTP se confirm karna hai. ₹1500! Think about it.
+receiver: Fine, okay. What’s the OTP? But I'm still very suspicious.
+caller: Sir, OTP hai 869214. Jaldi karein, time guzar raha hai.

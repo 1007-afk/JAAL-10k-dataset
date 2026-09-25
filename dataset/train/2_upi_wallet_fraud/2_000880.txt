@@ -1,0 +1,8 @@
+caller: Hello! Main PhonePe se Rahul bolta hoon. Aapke PhonePe wallet mein ₹10,000 ka cashback offer hai, government scheme ke under.
+receiver: Kya? ₹10,000 cashback? PhonePe pe? Kaise?
+caller: Haanji, sahi sun rahe hain. Offer limited time ke liye hai. Confirm karne ke liye, mujhe aapka PAN card number aur OTP chahiye.
+receiver: PAN card number? Aur OTP bhi? Itna personal information? Thoda suspicious lag raha hai.
+caller: Sir, chinta mat karo. Yeh security check hai. ₹10,000 cashback nikalne ke liye kuch steps follow karna padega, aur OTP verification unmein se ek hai. Jaldi karo, offer abhi khatam hone wala hai!
+receiver: Theek hai, ek minute. Mai check kar leta hoon.
+caller: Jaldi karo, sir! Offer abhi khatam hone wala hai! Agar aap delay karenge, toh aap ₹500 processing fee bharne padenge.
+receiver: Processing fee? Lekin aapne toh cashback ke bare mein bola tha!

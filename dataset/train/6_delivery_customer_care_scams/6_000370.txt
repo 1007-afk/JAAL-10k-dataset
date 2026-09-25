@@ -1,0 +1,7 @@
+caller: Hello, good morning! This is Rohan calling from BlueSwift Logistics. We have a notification regarding a package addressed to you, but there’s been a slight issue with the customs clearance.
+receiver: BlueSwift Logistics? I wasn’t expecting anything. What’s the problem with customs?
+caller: Yes, sir/madam. There's a small discrepancy in the declared value. To resolve this and get your shipment – it contains a new washing machine, I believe – released, we require a quick verification fee of ₹2,800.
+receiver: Two thousand eight hundred? For customs? That seems a lot. Can’t I just pay it later when I receive the package?
+caller: Unfortunately, regulations are strict, sir/madam. Payment must be made upfront to expedite the process. We need to verify your identity as well. Could you please share the last four digits of your bank account for verification? It's just a standard security protocol.
+receiver: Hold on a minute. Asking for my bank details over the phone? That doesn't sound right at all. Let me check your website for a contact number.
+caller: Sir/Madam, we understand your concern, but time is critical. The package might be returned to sender if this isn't resolved within the next hour. For your convenience, I can send you a secure link via SMS. Just confirm your mobile number and I’ll send the link straight away. Don't miss out on your new washing machine!

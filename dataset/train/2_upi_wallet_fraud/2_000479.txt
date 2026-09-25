@@ -1,0 +1,7 @@
+caller: Namaste! Main Airtel se calling kar raha hoon. Aapke Airtel Recharge Account mein ek problem hai. Aapka last recharge fail hogaya aur Rs. 20 refund hone ke chakkar mein ek small processing fee apply ho gaya hai.
+receiver: ₹20 refund? Mujhe koi message nahi aaya. Aur processing fee?
+caller: Haan ji, system mein technical fault tha. Refund process complete karne ke liye aapko Rs. 50 verify karni padegi. Iska charge aapke Airtel wallet se cut hoga.
+receiver: ₹50 verify? Mujhe kuch doubt ho raha hai. Airtel aise kaise charge lete hai?
+caller: Yeh ek temporary charge hai, madam. Verify hone ke baad refund process start ho jayega aur aapka ₹20 bhi credit ho jayega. Main aapko ek OTP bheju.
+receiver: Okay, bhej do OTP. Par agar mera ₹20 bhi nahi aaya toh?
+caller: Bilkul credit hoga, madam. OTP verify hone ke baad, main aapko confirmation message bhi send kar dunga. Trust me!

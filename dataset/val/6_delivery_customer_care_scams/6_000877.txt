@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? My name is Rohan, calling from Bluestar Logistics. We’re having some trouble locating a package addressed to you. The tracking number is XL7892345. There seems to be a delivery fee discrepancy.
+receiver: Haan, bolie. Verma yahan hai. Delivery fee? Mainne toh kuch nahi diya tha.
+caller: Ji haan sir. The system shows an outstanding payment of ₹350 for customs clearance. To release the package, you need to confirm this payment through a secure link we'll send to your WhatsApp. It's a standard procedure, sir.
+receiver: ₹350? WhatsApp pe? Mainne kabhi aisa nahi suna. Koi link pe click karne se chinta ho rahi hai.  Yeh package kya hai actually?
+caller: Sir, it’s a high-value electronic item from Shopzila. The customs fee is mandatory for imports. The WhatsApp link is directly from Bluestar Logistics – completely safe. Without it, the package will be returned to the sender, sir. I can give you a reference number as well.
+receiver: Shopzila se? Mujhe to Shopzila se kuch order kiya hi nahi.  Yeh electronic item kaunsa hai? Koi naam bataiye. Aur mujhe WhatsApp pe link nahi chahiye. Main scared hoon.
+caller: Sir, to avoid any delays and ensure your package arrives promptly, please verify the payment via WhatsApp. We can't risk it getting lost. I'm just trying to help, sir. It’s a Samsung Galaxy S23, sir.  Just confirm the amount, and we’ll update the system. 
+receiver: Haan, Samsung phone… Main check karta hoon Shopzila pe. Aap wait karein thoda.

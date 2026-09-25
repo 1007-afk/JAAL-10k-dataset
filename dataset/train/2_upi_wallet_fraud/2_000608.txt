@@ -1,0 +1,9 @@
+caller: Namaste! Suno ji, Flipkart se baat kar raha hoon. Aapne Flipkart pe kuch din pehle ek order kiya tha na?
+receiver: Haan, maine kuch din pehle ek mobile phone order kiya tha. Kya hua?
+caller: Woh phone abhi dispatch hone se pehle hi ek cashback offer aa gaya hai! Aapko ₹5000 ka cashback mil sakta hai! Par iske liye bas ₹499 ka processing fee deposit karna padega.
+receiver: ₹499? Processing fee? Flipkart aise offers deta hai kya? Mujhe toh kabhi sunai nahi di.
+caller: Haan ji, ye ek limited time offer hai, sirf Flipkart ke select customers ke liye. Aapka luck acha hai!  ₹499 ko Google Pay ya PhonePe se send kar dijiye, aur cashback automatically aapke account mein credit ho jayega.
+receiver: Theek hai, mein check karta hoon.  Koi link ya OTP nahi milega?
+caller: Bilkul nahi! Direct account number pe deposit kar dijiye.  Jab amount confirm ho jayega, aapka cashback aapke Flipkart wallet mein add ho jayega. Hurry up! Offer jaldi khatam ho jayega!
+receiver: Okay, wait a minute. I will double check.
+caller: Jaldi karo ji, time barbaad mat karo! Offer abhi khatam hone wala hai!

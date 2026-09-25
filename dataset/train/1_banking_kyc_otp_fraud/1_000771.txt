@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is from State Bank of India’s KYC department.
+receiver: Haan, mein hu. Kyu?
+caller: Sir, we’ve noticed some unusual activity on your account. There’s a pending update to your PAN card details, and until it’s verified, your account might be temporarily suspended.
+receiver: Account suspend? Why didn't I get a message?
+caller: Sir, sometimes these updates are done silently for security reasons. To prevent suspension, we need to quickly verify your identity. Could you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? Just now? Let me check… Haan, aaya OTP. 451927.
+caller: Thank you, sir. Just one more quick verification, for our records. Can you confirm the first three letters of your Aadhaar card?
+receiver: Aadhaar card? Why are you asking for that? This sounds fishy.
+caller: Sir, it’s standard procedure. We need to ensure we're speaking with the correct account holder. We are just trying to help you secure your funds.

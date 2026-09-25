@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? This is Inspector Rathore, calling from the Central Board of Indirect Taxes and Customs. We’ve intercepted a shipment linked to your PAN card. It appears to contain illegal narcotics.
+receiver: Illegal narcotics? Yeh kya keh rahe hain aap? Main toh kabhi koi drugs nahi milaane wala. Aapka number batao, main baad mein call karta hoon.
+caller: Sir, this is a very serious matter. We need to confirm your identity immediately. The shipment is currently being held at the Mumbai customs facility. To clear this up and prevent further legal action, we require a small fee to cover processing costs and verification. Rupees 15,000. 
+receiver: Rupees 15,000? Kaise karun main? Main toh ek ordinary aadmi hoon. Aur illegal drugs? Yehi toh meri zindagi hai. Main bolta hoon, mujhe koi drugs nahi milaane.
+caller: Sir, we understand your concern. But delaying this will only complicate matters further. We have video evidence linking your PAN to this shipment. We’re currently on a video call with you, you understand? Do not hang up. Transfer the money to this UPI ID: 9876543210@axisbank.
+receiver: Video call? Kaise? Mujhe toh koi video nahi dikh raha. Ye log pakka fraudsters hain. Mujhe koi video nahi dikh raha hai, aur mujhe UPI se payment bhi nahi karna hai. 
+caller: Sir, are you sure you’re not seeing the video? It's crucial for verification. It's a secure encrypted line. Just quickly transfer the funds, sir, and we can resolve this immediately. The deadline to avoid arrest is 30 minutes.
+receiver: Arrest? Main arrest nahi hone wala. Ye pakka fraud hai. Main police mein report karunga. Aapko chor

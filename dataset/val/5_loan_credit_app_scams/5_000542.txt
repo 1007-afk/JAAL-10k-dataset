@@ -1,0 +1,8 @@
+caller: Namaste! Mera naam Rajesh hai, Axis Bank se. Aapko ek instant loan offer mila hai, approval ke liye sirf kuch details chahiye.
+receiver: Axis Bank? Loan offer? Mujhe toh koi notification nahi mila.
+caller: Woh dekhiye, system me automatic approve ho gaya hai aapke liye. ₹75,000 tak ka loan, sirf KYC check karwa len. Bank ka naam aur OTP bataiye, aur process start ho jayega.
+receiver: ₹75,000? Aur OTP? Main toh bank account se kabhi bhi OTP share nahi karta. Yeh kuch ghalat lag raha hai.
+caller: Arre, relax! Yeh security process hai. Without OTP, we cannot verify your account. Agar aap OTP nahi denge toh aapka loan approve nahi hoga. Jab tak aap details nahi denge, loan approved nahi hoga.
+receiver: Main police mein report karunga agar aapko koi detail share karwana hai.
+caller: Arre, arre, ghabraiye nahi! Main aapki help kar raha hoon. Chalo, ek photo ID bhijwa dijiye, taaki main verify kar sakoon.
+receiver: Main abhi disconnect kar raha hoon.

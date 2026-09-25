@@ -1,0 +1,7 @@
+caller: Hello, sir! I'm calling you regarding a fantastic investment opportunity in Stellar Network. It's a brand new crypto project, and initial investors are seeing returns of up to 15% daily!
+receiver: Stellar Network? I haven't heard of it. 15% daily? That sounds too good to be true, doesn't it? What's the catch?
+caller: No catch, sir! It's all about getting in early. To activate your investment slot, we require a small activation fee of ₹2500. It's a one-time fee to verify your account and unlock the platform.
+receiver: ₹2500? And what happens after I pay this activation fee? Will I get access to a platform where I can trade? And how do I withdraw my profits?
+caller: Absolutely, sir! Once the fee is processed, you'll receive login details to our secure trading portal. Withdrawals are simple – just request them through the portal, and they'll be processed within 24 hours. We also offer a bonus of ₹500 upon successful activation!
+receiver: Okay, that sounds slightly better. But can you give me some more details about the Stellar Network project itself? What is it actually *doing*? Who are the developers?
+caller: It's a revolutionary blockchain project, sir, focused on decentralized logistics. The details are quite technical, but the key is its huge potential. Just send the ₹2500 to the UPI ID given below, and we'll send you the login details immediately. Don't miss out on this incredible chance!

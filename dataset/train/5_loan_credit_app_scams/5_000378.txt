@@ -1,0 +1,7 @@
+caller: Hello, this is Rahul calling from QuickLoan India. We’ve pre-approved your loan application for ₹50,000! Just a quick verification process to release the funds. Can you confirm your full name and date of birth?
+receiver: Hello? QuickLoan India? I don’t remember applying for a loan. What's the loan amount again?
+caller: Yes, ₹50,000. Very easy process. To prevent fraud, we need to verify your contact details. Can you please share the last four digits of your bank account number and a screenshot of your latest electricity bill? Just to match the address.
+receiver: Hold on, a screenshot of my electricity bill? And bank details? Why do you need that for a simple verification? That seems a bit unusual. I’ve never been asked for this before.
+caller: It's a new security protocol, sir. Very important to protect your account. Otherwise, the loan will be automatically rejected. We have many people trying to fraudulently claim loans in your name. We are just being careful.
+receiver: That still doesn't feel right. If I give you my bank details, it could be risky. I'm going to call QuickLoan India directly to confirm this. Give me a number to call you back.
+caller: Sir, please don’t delay! The offer is valid only for the next 15 minutes. Once it expires, you'll have to reapply and the interest rates will be higher. I cannot provide a callback number, sir; this is our secure verification line. Trust me, just send the details, and your loan will be processed immediately.

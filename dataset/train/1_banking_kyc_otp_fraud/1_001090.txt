@@ -1,0 +1,7 @@
+caller: Namaste, main Axis Bank se Deepak bol raha hoon. Sir, aapke naam par ek suspicious transaction hua hai, Rs. 12,000 Paytm se gaya hai. Security check ke liye kuch details chahiye.
+receiver: Kya? 12,000 gaya? Abhi? Mein Paytm use hi nahi karta, sir.
+caller: Haan sir, system mein dikh raha hai. Choron ne kapatcha hai. Aapko apne account ko secure karne ke liye OTP aur PAN card number share karna padega, taaki hum transaction block kar sake. Jaldi karo, sir, warna account freeze ho jayega.
+receiver: OTP? PAN card? Yeh toh bohot risky hai, sir. Koi bank aisa kabhi nahi karta. Mein manager se baat karna chahta hoon.
+caller: Sir, manager busy hain, emergency situation hai. Agar aap abhi details nahi de rahe hain, toh account permanent block ho jayega aur aapko police mein report bhi karna padega. Isse bachne ke liye, please OTP aur PAN card number bataiye.
+receiver: Police mein report? Sir, mujhe toh kuch samajh hi nahi aa raha hai. Mein apne branch mein jaakar baat karta hoon. Mein abhi call kat deta hoon.
+caller: Sir, please! Account ka matter hai. Jaldi bataiye, warna bahut nuksaan ho sakta hai. Sir, just the OTP, please.

@@ -1,0 +1,9 @@
+caller: Hello, good morning. This is Deepa from FedEx. We have a package addressed to you, but there's been an issue with the customs declaration.
+receiver: Oh really? What kind of issue? I wasn't expecting anything.
+caller: Yes, sir. It seems there’s a discrepancy, and we need to verify some details before we can release it. It’s a high-value item, and security protocols are strict. We need to confirm your bank account details to process the release and pay the outstanding customs fees.
+receiver: Bank account details? That sounds a bit strange. Why can’t I just pick it up from the local depot?
+caller: Unfortunately, sir, due to the nature of the issue, it has to be resolved online first. There's a small fee of ₹2,500 to clear the customs.  Please share your account number and OTP so we can resolve this quickly. Otherwise, the package will be returned to sender.
+receiver: Hold on a second.  I'm not comfortable giving out my bank details over the phone, especially without knowing exactly what’s in the package or confirming it's actually addressed to me. Can you give me a tracking number to check online?
+caller: Sir, the tracking number is not accessible until the payment is cleared. It's a security measure.  Just a quick OTP, sir. Please provide that for verification.
+receiver: No, I'm not doing that. I'm calling FedEx directly to confirm this. Goodbye.
+caller: Please sir, this is a final warning, there is only a few minutes left.

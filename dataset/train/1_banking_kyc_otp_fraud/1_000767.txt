@@ -1,0 +1,7 @@
+caller: Namaste, main Aditya IDBI Bank se bol raha hoon. Aapke naam par ek transaction ka attempt hua hai, jo suspicious lag raha hai. Aapka account secure rakhne ke liye, humein kuch details verify karne hain.
+receiver: IDBI Bank? Mujhe koi message nahi aaya hai. Aur koi suspicious transaction attempt? Batao kya hua exactly?
+caller: Sir, ek online shopping platform par se ₹5000 ka attempt kiya gaya tha, lekin wo fail ho gaya. Par humko security kehta hai ki aapko confirm kar dein. Account suspend hone se bachne ke liye, aapka OTP bataiye.
+receiver: OTP? Mere phone pe koi OTP nahi aaya. Aur online shopping ki maine toh kuch bhi purchase nahi kiya hai. Tumhara reference number kya hai? Kahan se call kar rahe ho tum?
+caller: Sir, system mein thoda delay ho sakta hai. Reference number bahut long hai, woh aapko yaad bhi nahi hoga. Account suspend hone se bachne ke liye jaldi karo. OTP bataiye, phir main aapka account secure kar dunga.
+receiver: Dekho, mujhe koi bhi verification phone pe nahi karunga. Main IDBI Bank ke customer care number pe call karunga aur verify karunga. Tumhara call discontinue kar raha hoon.
+caller: Namaste

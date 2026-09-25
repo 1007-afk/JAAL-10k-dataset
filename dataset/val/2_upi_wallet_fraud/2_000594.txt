@@ -1,0 +1,7 @@
+caller: Namaste, calling from Freecharge customer care. We have noticed some unusual activity on your Freecharge wallet. To secure your funds, we need to verify your identity.
+receiver: Unusual activity? What kind of activity? I haven’t done anything different.
+caller: Yes, sir. A small transaction of ₹250 was attempted from your wallet to an unknown UPI ID. We are blocking it temporarily to avoid any loss. To reactivate your wallet, we need to verify a few details. Could you please tell me the last three digits of your registered mobile number?
+receiver: Okay, the last three digits are 456. But why was the transaction attempted? I didn’t authorize anything.
+caller: Sir, our system detected a suspicious request. To prevent further issues, we need you to complete a small verification process. We'll send a one-time verification code to your linked bank account. Just confirm the last four digits of your bank account number so we can initiate the code sending process.
+receiver: Wait a minute...Sending a code to my bank account? I've heard about these scams. I don't think I should share my bank details. Can you give me an official Freecharge helpline number to verify this?
+caller: Sir, this is a security protocol. The code is essential for wallet reactivation. Don’t worry, your money is safe with us.  We just need that last four digits now.  Otherwise your wallet will remain blocked.

@@ -1,0 +1,8 @@
+caller: Namaste! This is Rahul calling from Zomato Customer Care. We've noticed some unusual activity on your account – a large, pending order from a restaurant you don't recognise. It’s showing as ₹8,500.
+receiver: ₹8,500? What? I didn't place any order like that. Are you sure it's my account? I only ever order small things.
+caller: Ji, ji. We are double-checking, sir. To secure your account and prevent fraud, we need to verify your OTP, the one you received on your registered mobile number. It’s a standard security protocol.
+receiver: OTP? Why do I need to give you my OTP? Isn't that a bit risky? Zomato usually just sends an email, no?
+caller: Sir, with the rising number of scams, we’ve implemented this new, quicker verification process. It only takes a few seconds. Without it, we may have to temporarily suspend your account to protect you. Please share the OTP to quickly resolve this.
+receiver: Okay, hold on. Let me just check the Zomato app myself. Give me a minute.
+caller: Sir, time is of the essence. This fraudulent order is being processed right now! Share the OTP immediately. Otherwise, your account will be compromised, and you'll be responsible for the ₹8,500 charge.
+receiver: Fine, fine! It’s 4582. But I’m calling Zomato customer service right after this, you hear?

@@ -1,0 +1,8 @@
+caller: Namaste, Airtel customer support par Manoj bol raha hoon. Aapkaa prepaid card expiry date 24 hours ke andar nikal jayega. Aap isko renew karwana chahte hain?
+receiver: Haan, Airtel se? Mein samajh nahin sakta, expiry date? Mera card expire hogaya hai ya fir future mein expire hoga?
+caller: Sir, please tension mat lo. Hain ek small update. Aapke account mein balance bahut kam hai, isliye system ne expiry date set kiya hai.  Aapka full name aur aadhaar card ka number bataiye please?
+receiver: Mein Rohit Kumar hoon, aur mera Aadhaar number 12345678901234 hai.  Aap bataiye, mujhe yahaan koi balance ki baat kyun kar rahe hain?
+caller: Shukriya, Rohit ji. Aapka Aadhaar number 12345678901234, sahi hai? Sir, hamare server mein ek minor glitch aa gaya hai. Isliye aapke card ko temporarily suspend karne ke liye expiry date dikha rahi hain.  Hum isko jaldi sa resolve kar sakte hain. Bas aapko ek verification code chahiye hoga. Kya aapko verification code mila hai?
+receiver: Verification code?  Mujhe koi code nahi mila. Aapne mujhse code kaise maange?  Phone par koi code bheja tha kya aapne?  Yeh kitni bakwaas hai!
+caller: Haan, sir, code aapke registered WhatsApp number par bheja gaya hoga.  Kindly woh check karein. Hamare system mein yeh automatic process hai.  Please sir, time bahut kam hai, isliye jaldi bataiye.
+receiver: WhatsApp? Mein WhatsApp par register nahi hoon. Aapke paas mera number hoga na?  Mein WhatsApp check karta hoon aur phir batata hoon.  Yahan itna confusion kyun hai?  Mujhe jaldi mein reply chahiye.

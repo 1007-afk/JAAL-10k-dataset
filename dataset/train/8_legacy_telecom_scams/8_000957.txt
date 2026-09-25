@@ -1,0 +1,12 @@
+caller: Namaste! Yeh ₹500 ke prize money ka notification hai. Tumhara Jio number ending in 6789 dekho, tumne koi message mila tha ya nahi?
+receiver: Haan, maine message dekha tha. Jio number 6789 ka, hai na? Kya hota hai?
+caller: Haan, tumne woh message dekha tha, toh tumko ₹500 ka prize mil sakta hai! Just apna OTP 7894 check karo jab aap 09876543210 par call karenge. OTP valid hoga sirf 10 minutes ke liye.
+receiver: ₹500 ka prize? OTP check karunga. Number 6789 ka hai na? Aur OTP valid hone ke baad kya hoga?
+caller: Haan, OTP valid hone ke baad, hum tumhein registration karne ke liye poochhenge. Registration complete hone ke baad tumko ₹500 transfer kar denge. Abhi toh sirf OTP check karna hai. Jaldi call karein, sirf 5 awards bache hain.
+receiver: Okay, OTP check karunga. Fir registration karna hai? Kitne awards bache hain?
+caller: Haan, registration complete honi chahiye. Abhi toh sirf 4 awards bache hain. Agar tum OTP check nahi karte to tum yeh opportunity miss kar denge. Call 09876543210 par immediately!
+receiver: Oh, sirf 4 awards bache hain? Wow, ab toh seriously karna padega. Okay, main abhi call karta hoon. Thanks!
+caller: Haan, sirf 3 awards bache hain. Tumhare bank account mein ₹500 deposit karne ke liye humein kuchh information chahiye. Please wait.
+receiver: Bank account information? Kyon chahiye?
+caller: Tumhe prize money transfer karne ke liye, humein tumhari bank name, account number aur IFSC code chahiye. Don't worry, hum tumhari security ko maintain karenge. But hurry up, sirf 2 awards bache hain!
+receiver: Seriously? Yeh toh bahut hi speed hai. Okay, main abhi call karta hoon. Thank you!

@@ -1,0 +1,12 @@
+caller: Namaste, sir. Mera naam Sandeep hai, LoanExpress se baat kar raha hoon. Aapke naam par ek loan application aaya hai.
+receiver: LoanExpress? Haan, mujhe yaad hai. Kya hua?
+caller: Sir, aapka loan approve ho gaya hai, lekin verification ke liye kuch details chahiye. Aapka bank account number aur OTP send karein.
+receiver: OTP? Kahan send karna hai? Yeh thoda suspicious lag raha hai.
+caller: Sir, tension mat lein. Yeh security process hai. OTP aapke phone pe aayega, woh mujhe bata dein. Aur bank account number bhi zaroori hai, verification ke liye. Agar aap cooperation nahi karenge, toh loan process cancel ho jayega aur aapka credit score bhi affect ho sakta hai.
+receiver: Credit score? Aur cancel bhi kar denge?
+caller: Haan sir, rules hai. Agar aapko loan chahiye toh OTP aur account number jald se jald send karein. Time barbaad ho raha hai. 
+receiver: Theek hai, wait karo. [invent an OTP, e.g., 987654].
+caller: Thank you sir. Abhi aapke account mein 50,000 rupees transfer ho jayenge. Lekin, process complete karne ke liye, aapko ab 5,000 rupees verification fee ke taur pe deposit karne honge.
+receiver: Verification fee? Loan milne ke baad fee?
+caller: Ji sir, yeh standard procedure hai. Kyuki aapka account new hai, isliye verify karna padega.  Koi aur option nahi hai. Fast, otherwise loan cancel.
+receiver: Nahi, nahi, main nahi karunga. Yeh scam hai.

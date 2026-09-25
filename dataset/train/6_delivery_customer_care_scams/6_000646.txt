@@ -1,0 +1,7 @@
+caller: Namaste! Mai Flipkart se Rahul bol raha hoon. Aapke account mein ek pending delivery hai jo return ke liye request ki gayi hai, lekin payment issue a gaya hai.
+receiver: Flipkart se? Kya delivery hai? Mujhe toh koi message nahi aaya.
+caller: Ji, delivery ID hai FC478923. Aapne jo product order kiya tha, woh return ho gaya hai, lekin refund process mein problem aa raha hai. Verify karne ke liye OTP chahiye, tab refund ho jayega.
+receiver: OTP? Flipkart aise bhi OTP maangta hai? Main toh confused hoon. Koi link bhejo, main check karunga.
+caller: Sir/Madam, link send karna security ke liye theek nahi hai. OTP SMS se hi aayega. Just confirm karo aapka registered mobile number 1234567890 hai? OTP aayega us par.
+receiver: Woh theek hai, mera number 1234567890 hi hai. Par refund kitna hai? Aur return ka reason kya tha? Mujhe toh kuch yaad nahi aa raha.
+caller: Refund amount ₹3,850 hai, sir. Return ka reason customer satisfaction survey mein negative feedback aaya tha. Abhi OTP confirm karo, tab refund process start ho jayega. Jaldi karo, offer limited time ke liye hai.

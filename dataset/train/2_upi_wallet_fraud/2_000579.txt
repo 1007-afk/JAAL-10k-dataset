@@ -1,0 +1,6 @@
+caller: Namaste! Vodafone Idea se baat kar raha hoon. Aapke recent recharge mein kuch technical issue hua tha, isliye hum aapko ₹200 ka cashback offer kar rahe hain.
+receiver: Vodafone Idea? Mere recharge mein koi problem tha? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, system mein thodi error thi. Cashback claim karne ke liye aapko ek OTP verify karna hoga. 98765 pe “CLAIM” send karein. Jaldi karein, offer sirf 5 minute ke liye hi hai!
+receiver: ₹200 cashback? Theek hai, 98765 pe “CLAIM” send kar deta hoon. Par OTP mujhe abhi nahi aa raha hai.
+caller: Sir, OTP mein thoda time lag sakta hai. Diwali ke season mein network busy hai. Aapko ₹200 Paytm wallet mein direct mil jayega. Abhi aapka mobile number aur naam bata dijiye, taaki main aapke account ko verify kar sakoon.
+receiver: Mera naam Rajesh Kumar hai aur mobile number 98XXXXXXXX hai. Aur OTP abhi bhi nahi aaya. Mujhe koi shak ho raha hai.

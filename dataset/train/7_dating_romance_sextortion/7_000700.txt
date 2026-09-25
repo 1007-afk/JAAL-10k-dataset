@@ -1,0 +1,7 @@
+caller: Hi sweetheart, I stumbled across your profile on 'DesiHearts' and I was instantly captivated. You have such a beautiful smile. I'm Raj, by the way, a software engineer based in London. What about you? Tell me something interesting about yourself.
+receiver: Hello Raj. My name is Anjali. I'm a doctor in Mumbai. London sounds exciting! What kind of software do you work with?
+caller: Anjali! A doctor! That’s amazing, so selfless. I work with financial software – high-pressure stuff, but it pays well. Listen, I'm in a bit of a bind. My grandmother is seriously ill back in Delhi and I need to fly there immediately, but my bank account is frozen due to a pending audit. Could you possibly lend me ₹50,000 as a temporary loan? I'll pay you back double as soon as the audit clears, I promise.
+receiver: ₹50,000? Raj, we just started talking. That's a lot of money to ask for. And a frozen bank account? That doesn’t sound right.
+caller: I understand your hesitation, Anjali, but I'm desperate. I’ve sent you some pictures of my grandmother in the hospital. Please, just a little help, I'll be eternally grateful. Also, I’ve been feeling so lonely here. I’d love to share some more personal moments with you. Perhaps we could share some photos?
+receiver: Photos? Raj, this is getting really weird. I’m ending this conversation now. Good bye.
+caller: Anjali, please don't do this! I’m being serious. Just a few photos, that’s all I ask. Think of it as a symbol of our growing closeness. Otherwise I’ll have to delay going to Delhi and my grandmother’s condition

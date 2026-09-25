@@ -1,0 +1,11 @@
+caller: Namaste sir, Main Tata Digital support se baat kar raha hu. Aapke internet plan mein ek badi glitch hai aur isliye aapka data recharge expire ho jayega. Iska koi solution nahi hai, sirf aapko activation process complete karna hai.
+receiver: Haan? Tata Digital? Mein toh online hoon, internet chal raha hai. Agar recharge expire ho gaya toh kya hoga? Mera bill toh already pay kiya hai! Kya naam hai aapka?
+caller: Mera naam Vivek hai. Sir, aapke account mein technically kuch issue hai, isliye aapko apne OTP verify karna hoga. Yeh OTP sirf aapko hi milega. Aapka account ID kya hai, sir?
+receiver: Account ID? Mein toh digital payment kar raha tha, usmein OTP mila tha. Mein OTP bhi enter kar diya. Aapko OTP verify karne ke liye mujhe OTP chahiye? Kya aap mere OTP ko steal kar rahe ho?
+caller: Sir, aapko relax hona hoga. Yeh sirf verification ke liye hai, OTP steal karne ke liye nahi. Aapko apne profile mein jaake password change karna hoga. Password change karne ke liye, aapko OTP verify karna hoga.
+receiver: Password change karna hai? But why? Mera internet toh chal raha hai. Isme kya dikkat hai? Main toh confused ho raha hu. Aapko toh sirf OTP chahiye tha, sahi?
+caller: Sir, aapke internet speed mein problem hai aur humne pata kiya hai ki OTP verification se hi yeh problem solve ho sakta hai. Aapko just apne device ko restart karo aur phir OTP enter karo.
+receiver: Restart karein? Okay, restart kar raha hu. Par phir OTP enter karunga. Agar OTP enter karne ke baad bhi problem continue hoi toh main aapko block kar dunga.
+caller: Sir, aapko activation process complete karna hai agar aapko internet continue karna hai. Aapko OTP verify karna hai aur phir aapko confirmation message milega.
+receiver: Confirmation message? Okay, OTP enter kar raha hu… (pause) …Okay, message aaya. Activation complete! Thank you.
+caller: Welcome sir, aapka activation successful hai. Apne internet enjoy karte rahein.

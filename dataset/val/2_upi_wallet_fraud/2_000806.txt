@@ -1,0 +1,8 @@
+caller: Namaste, is this Priya Sharma? This is Akash from FreeCash Rewards. We’ve credited your account with a cashback bonus of ₹15,000 for participating in a recent online survey.
+receiver: ₹15,000? FreeCash Rewards? Mujhe toh koi survey yaad nahi. Main toh kabhi survey nahi karti. Yeh kya ho raha hai?
+caller: Yes, ma'am. It's a promotional offer. To process the withdrawal and transfer the funds to your UPI, we just need to verify your account. It’s a quick verification process, just a few details.
+receiver: Withdrawal? UPI mein transfer? Aur kaunse details chahiye aapko? Main koi bhi personal information share karne mein confident nahi hoon. Yeh thoda risky lag raha hai.
+caller: Ma'am, we need just a small OTP to secure the transaction. It's a one-time security code sent to your registered mobile number. This confirms that you are the rightful owner of the account. No other details are required.
+receiver: OTP? OTP toh kabhi bhi share nahi karungi. FreeCash Rewards ki website par main check kar ke dekhti hoon. Aapko disconnect kar rahi hoon. Fraud lag raha hai.
+caller: Ma'am, please wait! This is a limited-time offer! The bonus will expire in just 10 minutes if we don’t complete the verification. Don't miss out on your ₹15,000!
+receiver: ₹15,000 jaane do, but I won't risk my money or information. Koi bhi offer jo OTP maangta hai, woh fraud hi hota hai.

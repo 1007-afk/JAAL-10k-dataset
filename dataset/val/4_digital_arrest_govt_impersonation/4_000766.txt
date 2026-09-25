@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Dubai se, lekin usmein illegal items mile hain.
+receiver: Illegal items? Mere naam se parcel? Maine to kabhi Dubai se kuch order nahi kiya. Yeh kya ho raha hai?
+caller: Ji, parcel mein suspicious documents aur electronic gadgets hain, jo drug smuggling se link ho sakte hain. Case number 789452 register ho chuka hai. Aapko legal process follow karni hogi aur fine bhar dena hoga.
+receiver: Fine bharne se kya fayda? Mujhe yeh parcel kabhi bhi nahi mila. Aur legal process kaisa hoga? Main police station jaa sakta hoon na?
+caller: Sir, legal process complicated hai. Aapko ₹50,000 fine bhar ke case clear kar sakte hain. Yeh amount bank transfer se hi accept hoga. Police station jaane se case aur complicate ho jayega, aur aapko arrest bhi ho sakta hai.
+receiver: ₹50,000? Yeh bahut zyada hai! Aur arrest bhi? Koi proof hai aapke paas? Mujhe koi document number ya officer's ID de sakte hain? Kyuki mujhe ispe trust karne mein kuch difficulty ho rahi hai.
+caller: Sir, proof humko bhi mil raha hai, investigation chal rahi hai. Officer’s ID dene ki permission nahi hai. Aap zaroorat se zyada question pooch rahe hain. Time bahut kam hai, sir. Fine bhar den, tab sab theek ho jayega. Aapka bank account number dijiye.
+receiver: Theek hai, main abhi cut the call.

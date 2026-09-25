@@ -1,0 +1,6 @@
+caller: Hello, is this [Receiver's Name]? We're calling from Paytm Customer Support. We’ve noticed some unusual activity on your account – a small transaction of ₹200 to an unknown UPI ID.
+receiver: Really? I didn't make any such transaction. What happened?
+caller: Yes, sir/madam. It appears a payment was sent from your Paytm wallet. To secure your account and prevent further unauthorized transactions, we need to quickly verify a few details. Can you please confirm the last four digits of your Paytm registered mobile number?
+receiver: Okay, it’s [invent a number, e.g., ‘4321’]. But why would someone send money *from* my Paytm?
+caller: Excellent. To reverse this transaction, we need to temporarily block your wallet. For that, we require a one-time verification OTP that we’ll send to your registered mobile number. Just tell us the OTP when you receive it, so we can proceed. It's very important to do this quickly.
+receiver: Wait a minute. Blocking my wallet? I’m not comfortable giving you an OTP without knowing more about what's going on. Can I speak to a supervisor, or get a reference number?

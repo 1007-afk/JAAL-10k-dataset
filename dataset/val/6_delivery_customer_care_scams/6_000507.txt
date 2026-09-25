@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Akash calling from Blueridge Courier. We have a package for you, but there's a small issue with the customs declaration form.
+receiver: Blueridge Courier? Package for me? What issue? I haven’t ordered anything recently.
+caller: Yes, sir. The form requires a small verification fee of ₹750 to clear customs. It’s a standard procedure. We can’t release the package without it. We can accept UPI or debit card.
+receiver: ₹750? Just for a customs form? That seems excessive. Can I speak to a supervisor? And what’s the tracking number for this package?
+caller: Sir, our supervisor is currently assisting another client. The tracking number is BR789456123. To avoid any delays, you can easily pay through UPI. Just send the money to this number: 8989898989. It’s a one-time fee.
+receiver: Wait a minute. 8989898989? That looks like a random number. I'm calling you back to verify. Something doesn't feel right. And what company is this package actually *from*?
+caller: Sir, please don't delay. The package is time-sensitive and will be returned to sender if the fee isn’t cleared within the hour. We’re just trying to help you receive your package swiftly. Please confirm the payment so we can process it immediately.
+receiver: No, I'm not paying anything until I verify this with Blueridge Courier directly. I'm hanging up now.

@@ -1,0 +1,12 @@
+caller: Namaste sir, main BharatPay se bol raha hoon. Aapka digital wallet update karne ki zaruri hai.
+receiver: Haan, bol rahe hain? Digital wallet update? Mera toh digital wallet already active hai.
+caller: Sir, woh jo update hua tha, usmein ek small change hai. Agar aap isko ignore karenge to aapko transaction fail hone wali lag rahi hogi.
+receiver: Transaction fail hone wali lag rahi hogi? Kya bol rahe hain aap? Mein toh daily transactions karta hoon. Aapka koi aur intention hai.
+caller: Sir, aapke profile mein ek new security feature hai, isliye update karna zaroori hai. Isse aapka data safe rahayega. Main aapko step by step bataunga, sirf ek OTP verify karna hoga.
+receiver: OTP verify karna hoga? Arey, yeh toh bahut suspect lag raha hai. Mujhe koi confirmation nahi diya hai ki aap BharatPay wale hain. Aur aapka naam bhi bata rahe hain nahi.
+caller: Sir, mera naam Rahul hai, aur main BharatPay ke cybersecurity team se hoon. Humara job hai ki aapke accounts ko secure rakhe. Update ka matlab hai ki aapke password mein ek small change hona hai.
+receiver: Password mein change hona hai? Mein toh recently password change kiya tha. Fir yeh update kyun chahiye? Aur aap mujhe password bata rahe hain nahi.
+caller: Sir, woh change jo hua tha woh technically necessary hai, isliye updated password required hai. Isse aapke transactions safe rahayenge. Main aapko OTP maang raha hoon kyuki yeh verification process hai.
+receiver: Verification process? Aisa koi process maine kabhi sunaahi nahi. Aur aap mujhe account number ya IFSC code bhi nahi bata rahe hain. Aisa koi legitimate bank update nahi hota. Main aapko koi bhi information share nahi karunga.
+caller: Sir, main samajh sakta hoon aapko confusion ho raha hai. BharatPay mein aapki safety priority hai. Is update ka matlab hai ki aapko Paytm app mein notification dekhne wala hai, jab aapko update karne ki zaruri hogi. Aap apne app mein dekhte hi pata chalega ki update required hai.
+receiver: Paytm app mein notification? Mein khud dekhunga. Aapka OTP demand karna bahut wrong hai. Main koi risk nahi lena chahta.

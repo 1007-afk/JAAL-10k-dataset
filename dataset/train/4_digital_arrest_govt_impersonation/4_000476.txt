@@ -1,0 +1,8 @@
+caller: Namaste sir, is this Mr. Sharma? This is Inspector Rajesh Kumar calling from the Central Industrial Security Force, CISF. We've detected suspicious activity linked to your mobile number concerning a consignment of illegal narcotics passing through Jaipur airport.
+receiver: Illegal narcotics? What? This is a mistake, I have no idea what you’re talking about.
+caller: Sir, don’t panic. We’ve traced the IMEI number of a phone used in connection with this operation back to your registered number. It appears there’s been an error in our records. However, to clear this up immediately and prevent any legal complications for yourself, you need to cooperate.
+receiver: Cooperate? How? I haven't done anything wrong! This sounds like a scam.
+caller: Sir, we need to verify your identity and ensure you're not implicated. We’re placing you on a video call with our team for a quick verification process. Can you please download and install the 'SecureConnect' app on your phone? It's essential for this process. Once installed, call us back on this number, and we'll initiate the video verification.
+receiver: SecureConnect app? I don't know about any such app! And a video call with who? I’m not downloading anything until I know who you are and why you’re asking this. This is very fishy.
+caller: Sir, time is of the essence. If you don’t cooperate, we’ll have to issue a warrant and bring you in for questioning. This is a serious matter, and we are simply trying to resolve it quickly and efficiently. Please download the app and call us back immediately. The file is secure, sir.
+receiver: Look, I’m ending this call right now. I’m reporting this number to the police. You are clearly trying to scam me. Goodbye.

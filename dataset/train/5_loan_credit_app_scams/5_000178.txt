@@ -1,0 +1,9 @@
+caller: Hello, is this Priya Sharma? I am calling from FinSecure Loans. We’ve approved your loan application for ₹25,000. Congratulations!
+receiver: Really? That's great! I applied for a loan, but I wasn't sure if I'd get approved.
+caller: Yes, it's confirmed. Now, for final verification, we need a copy of your PAN card and a recent selfie holding it. Just to confirm your identity.
+receiver: A selfie? That seems a little strange. I thought they only needed bank details.
+caller: It’s standard procedure, madam. We need to ensure there are no fraudulent applications. If you don't send it within the next hour, we’ll have to cancel the approval. We’ve already sent the money to your account.
+receiver: Wait, money is in my account? I haven't received anything yet.
+caller: The transfer is pending, it will show once you complete the selfie verification. Just send it to this WhatsApp number, please. And also, a small processing fee of ₹1500 is required to activate the loan.
+receiver: ₹1500? But you said the loan was approved!
+caller: Yes, but activation fee is mandatory. Otherwise, the money will be reversed. Do it quickly, Priya Ji. We can’t wait.

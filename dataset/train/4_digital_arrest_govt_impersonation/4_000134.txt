@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? My name is Inspector Kumar, calling from the Directorate of Revenue Intelligence, Mumbai. We've intercepted a package linked to your mobile number containing suspicious items.
+receiver: Haan, bolhiye. What kind of items? I haven't ordered anything.
+caller: Sir, preliminary investigations indicate the package contains materials related to illegal cryptocurrency mining and money laundering. It's a serious offense, sir. We need to verify your involvement to avoid further legal complications.
+receiver: Cryptocurrency? But I don’t do anything like that. Are you sure you have the right number?
+caller: Sir, our records are very clear. To prevent arrest and further investigation, you need to pay a small fine of ₹15,000 as a penalty. This will clear your name.  We need it urgently, before the case escalates. We can't release you until the payment is confirmed.
+receiver: Fifteen thousand? That’s a lot of money! Can't I just come down to your office and sort this out in person?
+caller: Sir, due to COVID protocols and security reasons, we are conducting all procedures remotely. To ensure a secure transaction, please use UPI and send the money to this ID: 8765432109. I will remain on this call with you until it’s confirmed.
+receiver: Wait a minute… I need to check something. This seems strange.
+caller: Sir, please hurry. The deadline is approaching and delay could result in serious consequences. We are just trying to help you avoid a lengthy and costly legal battle.

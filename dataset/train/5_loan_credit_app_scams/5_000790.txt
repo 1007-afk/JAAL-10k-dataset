@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? I'm calling from FastLoan India. We’ve reviewed your application and pre-approved you for a ₹75,000 loan!
+receiver: Oh, really? That’s good news. I did apply for a loan online recently. But I’m a little surprised, I wasn’t expecting to hear back so quickly.
+caller: Yes, ma'am! We understand urgent needs. To finalize the approval, we just need a small security deposit – ₹7,500 – to activate your account. This ensures you're serious about receiving the loan, you see. It will be refunded immediately once the loan is disbursed.
+receiver: ₹7,500? That seems like a lot just for a security deposit. I’ve never heard of that before. Is this standard procedure?
+caller: Absolutely, Priya ji. It's to prevent fraud and show genuine interest.  Plus, we're sending you a personalized loan agreement via WhatsApp – just to confirm everything. We need your WhatsApp number for that. And quickly, as we only have 2 spots left.
+receiver: Hold on a second. I'm not comfortable sending money upfront, especially not such a large amount. And I don’t trust agreeing to anything on WhatsApp without seeing proper documentation. I think I'll have to pass on this offer.
+caller: Priya ji, don't be hasty! Think about it - ₹75,000 in your account, easily sorted! Just a quick payment and we'll send the agreement right away. We can even send you a picture of your loan documents as proof. Don't miss out.

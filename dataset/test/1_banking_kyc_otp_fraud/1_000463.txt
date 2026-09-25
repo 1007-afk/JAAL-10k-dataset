@@ -1,0 +1,11 @@
+caller: Namaste, kaise haal hai? Main Bharat Telecom se bol raha hun. Tumhare phone mein kuch technical issue ka complaint tha, aur humne tumhein call karna decide kiya. Tumhara phone kitna din se use kar rahe ho?
+receiver: Haan, main theek hu. Mai apne phone ko barhain mein daaltey hu. Woh abhi tak chota sa keypad nahi chalega.
+caller: Arre, koi baat nahin! Humare engineers ne dekha hai ki tumhare phone mein software ka ek update required hai. Is update se sab problem solve ho jayegi. Update karne ke liye, mujhe tumhari bank account number aur CVV chahiye. Yeh sirf update ke liye hai, kisi bhi paise ko transfer nahi karenge.
+receiver: Seriously? Bank account number aur CVV? Mein nahi bataunga. That’s too much information to share.
+caller: Arre, yeh bahut zaroori hai bhai! Is update ke bina, tumhara phone kaam nahi karega. Tumhe sirf ₹500 ka charge lagega, aur woh bhi update complete hone ke baad milega.
+receiver: ₹500? For an update? That sounds expensive. I don’t need it.
+caller: Tumhare phone mein bahut badi problem hai! Agar tum update nahi karte toh tumhara phone completely useless ho jaayega.  Ab, mujhe tumhara debit card number aur expiry date bhi chahiye.  Yeh sirf update process ke liye hai, promise!
+receiver: No way! I am not giving you my debit card details. This feels very suspicious.
+caller: Arre, tumhare paas koi alternative nahi hai!  Humara system tumhare phone ko automatically block kar deta hai agar update nahi hota.  Main tumhara mobile number aur email id bhi record kar raha hun, agar koi future issue aaye toh humein pata chalega ki kis customer ne problem kahin bhi report ki.  Aapko OTP bhuna hai, verification ke liye.
+receiver: Wait, what? You're recording everything? I'm ending this call now!
+caller: Arre, please! Kuch mat karo! Update karna zaruri hai, warna tumhara phone waste ho jayega.  Last chance, mujhe tumhara address bhi chahiye, taaki hum package deliver kar saken.  (laughs nervously)

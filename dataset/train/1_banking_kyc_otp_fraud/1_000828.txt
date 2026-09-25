@@ -1,0 +1,7 @@
+caller: Hello, mai ICICI Bank se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Security ke liye, humein aapke account details verify karne hain.
+receiver: Oh, ICICI Bank? Kya hua? Suspicious activity?
+caller: Ji, haan. Aapka account suspend hone se pehle, humein aapka PAN card number aur ek OTP verify karna hoga jo aapke registered mobile number par gaya hai.
+receiver: PAN card? OTP?  Yeh theek nahi lag raha hai.  Bank aise call karte hain? Main jaanta hoon aise scams hote hain.
+caller: Sir, please don't worry. Yeh absolutely necessary hai aapke account ko secure rakhne ke liye. Agar aap cooperate nahi karenge, toh humko chunaenge maujood system ke hisaab se aur aapka account block hoga.  Aapko OTP check kar lijiye, sir.
+receiver: Thoda wait karunga, mai ICICI bank ke helpline number se khud call karta hoon.
+caller: Sir, aapko pata hona chahiye ki hum toh bank se hi call kar rahe hain.  Time is running out, sir. Aapka account abhi suspend ho sakta hai! Bataiye OTP kya tha?

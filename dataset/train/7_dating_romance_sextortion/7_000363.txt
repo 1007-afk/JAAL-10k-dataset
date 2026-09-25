@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? This is a special notification from 'Hearts Connect' dating service. We have a very promising match for you!
+receiver: Hearts Connect? I don’t recall signing up for any dating service. Who is this?
+caller: It's Akash Verma, Priya ji. Our algorithm has found someone who shares your interests and values. They've expressed a strong desire to connect with you. To reveal their identity, you need to verify your profile. It’s a simple one-time fee of ₹200.
+receiver: Two hundred rupees just to see who wants to connect? That seems a bit much. Is there any other way to confirm? What’s the website?
+caller: Priya ji, this verification ensures the safety and privacy of both you and your potential match. We're preventing fake profiles and bots. The website is currently undergoing maintenance, but this fee is for secure server processing. Just send the payment to UPI ID: verify.heartsconnect@axis. You’ll get their details immediately.
+receiver: UPI? Wait a minute. This feels wrong. I'm not paying anything upfront to a dating service I didn't even join. I'm ending this call.
+caller: Priya ji, please don't be hasty! This is your chance at true love. Think of the regret if you miss out on someone special. Just ₹200 - it's an investment in your happiness. Send it quickly before the offer expires!

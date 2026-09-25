@@ -1,0 +1,8 @@
+caller: Hello? I am calling from Bluestar Courier. We have a package addressed to you, but there’s a slight issue with the delivery address. Can you confirm your name and address for verification?
+receiver: Haan, bolo. My name is Anjali Sharma, and the address is 123 Main Street, Sector 7, Faridabad.
+caller: Thank you, Ms. Sharma. Yes, we have a package. But unfortunately, there’s a ₹750 outstanding customs clearance fee. It's required for international deliveries.
+receiver: ₹750? I didn’t order anything international. What’s the sender's name? And why didn’t I get a notification?
+caller: The sender’s details are currently confidential due to privacy protocols. But to release the package, you can pay the fee quickly through UPI. My UPI ID is bluestarcourier.pay. Please pay ₹750 only.
+receiver: UPI ID? That sounds suspicious. I'll have to check.  Can you give me a reference number for the package? And a direct number of Bluestar Courier I can call to confirm this?
+caller:  Reference number is BS12345678.  Direct number is 9876543210. We need to process this urgently; otherwise, the package will be returned to sender. Just confirm the payment, and the delivery will be arranged immediately.
+receiver: 9876543210? I'm checking the Bluestar website now... This number isn't listed. And this UPI ID looks fishy too. I'm not paying anything until I verify this properly.

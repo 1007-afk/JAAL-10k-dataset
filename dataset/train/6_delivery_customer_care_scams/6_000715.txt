@@ -1,0 +1,8 @@
+caller: Namaste! Main Flipkart se Deepak bolta hoon. Aapke naam par ek smart TV ka order aaya hai, lekin payment mein kuch problem aa raha hai.
+receiver: Oh, really? Which TV is it? I don't remember ordering one.
+caller: Ji, yeh OnePlus hai, 55 inch. Payment incomplete hone ke wajah se dispatch ruk gaya hai. Aapko confirm karna hai toh ek OTP mil jayega, wo bata do please.
+receiver: Wait a minute. I’ve never ordered from Flipkart before. Can you give me an order number so I can check?
+caller: Haan ji, order number hai FLP7845921. Lekin jo payment kar rahe hain, woh thoda fail ho gaya hai. OTP se sab sort ho jayega. Just send it.
+receiver: I’m still not convinced. Let me call Flipkart customer care directly to verify. Give me a moment.
+caller: Arey yaar, time barbaad mat karo! OTP jaldi bhej do. Otherwise, order cancel ho jayega aur aapka TV bhi kisi aur ko mil jayega. Bahut pressure hai mujhe, please jaldi karo!
+receiver: Okay, this is definitely a scam. I’m ending the call.

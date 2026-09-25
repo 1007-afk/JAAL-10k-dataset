@@ -1,0 +1,7 @@
+caller: Hello sir, this is BharatPay customer care. We’ve noticed some unusual activity on your account. To secure it, we need to verify a small transaction.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything different.
+caller: Yes sir, someone attempted to send ₹500 through your BharatPay ID. It’s been put on hold. To release it and secure your account, you need to confirm with a quick UPI payment of ₹50.
+receiver: ₹50? Why do I have to pay to release my own money? That doesn’t sound right.
+caller: Sir, this is a security protocol. It verifies you’re the legitimate account holder. Without this confirmation, your account will be temporarily blocked for security reasons. Just a small payment to BharatPay's collect ID: bharatpay.secure@axis.
+receiver: Okay, let me check. BharatPay should send me this request through the app, right? Not through a random number.
+caller: Yes sir, but this is an urgent security measure. The app sometimes lags. Please complete it now to avoid account blockage. Just make the payment quickly, and your account will be safe.

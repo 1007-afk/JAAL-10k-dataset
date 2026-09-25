@@ -1,0 +1,15 @@
+caller: Namaste ji, aapka parcel Delhi mein deliver karne mein ek problem hui hai. Parcel wale daadi maa ne kaha ki woh aaj kaise deliver kar sakti hain, unhein bol rahe hain ki woh bahut khooti hain. Aapko dobara schedule karne ke liye, please 09876543210 pe call karein. Dhanyavaad.
+receiver: Oh, arrey! Mai toh abhi office jaa raha huon. Thoda baad mein call kar lunga. Hai na, parcel daadi maa khooti hai? Kya baat hai! Number bataiye please.
+caller: Haan ji, number hai 09876543210. Daadi maa ne kaha ki woh thode paise bhi letegi, sirf ₹100 commission ke liye.  Aapko dobara schedule karne ke liye, please 09876543210 pe call karein. Reference number hai 7890123. Dhanyavaad.
+receiver: ₹100 commission? Seriously?  Mai toh shocked hoon.  Okay, okay, main abhi call kar leta hoon. 09876543210, reference 7890123.  But seriously, daadi maa khooti hai?
+caller: Ji ji, daadi maa ka business hai. Woh sab karte hain.  Aapko dobara schedule karne ke liye, please 09876543210 pe call karein.  Aur aapka OTP hai 456789. Dhanyavaad.
+receiver: OTP?  Mai toh abhi OTP nahi de sakta.  Arrey yaar, ye kya ho raha hai?  Main thoda confused hoon.  Reference number 7890123 aur number 09876543210, par OTP nahi.  Please koi baat nahi, mai thoda time le lenge.
+caller: Arre sir, samjh gaya aap confusion mein hain. Koi jaldi nahi hai, aap jab comfortable ho tab call kar lena.  Humara objective bas aapko yeh batana tha ki delivery miss ho gayi hai aur aapko dobara schedule karna padega. Number yaad rakhna, 09876543210, reference number 7890123, OTP 456789.  Koi jaldi nahi hai, aap jab comfortable ho tab call kar lena.  Take care.
+receiver: Arre haan, thank you.  Samajh gaya main.  Busy tha, aur ab OTP bhi chahiye?  Mujhe koi doubt hai.  09876543210, reference 7890123.  Thanks.
+caller: Namaste ji, aapke jeevan mein ek badi khushi aa rahi hai! Hum ne aapki liye ek amazing offer mila hai - aapko sirf ₹999 mein ek premium gold necklace mil jayega! Parantu, yeh necklace sirf aaj ke liye available hai, aur ismein ek special discount hai - ₹799 mein!  Aapko payment karne ke liye, please 8800112233 pe call karein. Dhanyavaad.
+receiver: Arrey wah! Gold necklace? Kitni gram hai? Aur yeh necklace kitne design ka hai?
+caller: Ji ji, yeh 24 carat ka gold ka necklace hai, aur usmein ek beautiful diamond bhi hai.  Design ek bahut hi traditional pattern ka hai, jo aapko bohat stylish lagegi.  Payment karne ke liye, please 8800112233 pe call karein.  Is deal mein aapko ek complimentary mobile stand bhi milega! Dhanyavaad.
+receiver: Mobile stand?  Thoda confuse hoon.  Yeh necklace online milta hai ya offline?  Aur is price mein warranty hai kya?
+caller: Ji ji, yeh necklace online hi milega, aur ismein 1 year ka warranty bhi hai.  Warranty mein kisi bhi problem ke liye aapko free repair milega.  Parantu, yeh offer sirf aaj raat tak chalega.  Agar aapko payment delay hua to aapko yeh opportunity miss karna padega.  Please 8800112233 pe call karein. Dhanyavaad.
+receiver: Raat tak?  Mai toh abhi ghar pahuncha bhi nahi hoon.  Kya koi alternative payment method hai, like UPI?  Aur aapka company name bataiye please.
+caller: Ji ji, aap UPI se bhi payment kar sakte hain

@@ -1,0 +1,6 @@
+caller: Namaste, ye Vijay se phone kar raha hoon, PhonePe Customer Care se. Aapke PhonePe account mein ek suspicious transaction mila hai, ₹4,800 ka.
+receiver: ₹4,800? Mujhe toh koi transaction yaad nahi aa raha. Mein PhonePe use karta hoon, lekin aajkal koi transaction nahi kiya.
+caller: Haan, ji. Woh transaction ek minute pahle hi hua hai. Shayad koi ne aapke OTP ko steal kar liya hai. Aapko apne account ko secure karne ke liye urgent action lena hoga.
+receiver: Account ko secure karna hai? Kaise? Mein toh PhonePe app se hi transaction check karta hoon. Koi OTP toh aaya nahi mujhe.
+caller: Dekhiye, ji, humein aapke account ko freeze karna padega agar aapko woh transaction block nahi karte. Is transaction ko block karne ke liye, humein sirf ek verification code chahiye. Woh code aapko PhonePe app mein ‘Security’ section mein milega. Quickly give me the code, please.
+receiver: Wait, wait. Verification code PhonePe app mein? Par woh transaction kiska hai, mujhe toh kuch yaad nahi. Aur meri PhonePe app mein toh koi code nahi dikh raha. Mein PhonePe customer care number se call karta hoon, theek hai?

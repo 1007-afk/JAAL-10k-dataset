@@ -1,0 +1,9 @@
+caller: Hello? Is this Priya Sharma? This is Rohan, I’m 24 and recently moved to Mumbai. I'm hoping to find some company while I adjust to the city. If you’re interested, send a message “PARTY” to 78901. The first 3 messages are complimentary, after that it's ₹20 per message. Let's chat!
+receiver: Oh, hello? No, this isn't Priya Sharma. I think you've got the wrong number, sorry.
+caller: Oops, my mistake! So sorry for the inconvenience. Just trying to make new friends. It's tough getting used to a new place, right? Have a pleasant day!
+receiver: Nahi problem, hota hai. It's alright, it happens. You seem young, adjusting to Mumbai takes time, you know? If you need anything, just say so, I can try to assist. Be careful though!
+caller: Haan, thank you so much! Seriously, Mumbai is overwhelming.  I was hoping to find someone who understands the local culture a bit.  But maybe you can suggest a few good places to eat?  What’s your name? Maybe we could grab a bite sometime, if you’re free.
+receiver: My name is Arjun. And honestly, I'm not really looking for anything beyond friendly conversations. But if you need information about nearby markets or restaurants, I can certainly point you in the direction. Don’t get into trouble.
+caller: Haan, just friendly chats are perfect! Food is important, obviously. Thanks for the suggestion.  But regarding all that "fun" – I just want to experience Mumbai, meet different people.  Do you know any decent clubs or parties around here?  Any recommendations?
+receiver: Actually, I'm just an ordinary guy, working a normal job. Not really connected to any clubs or parties, and I don’t give advice like that. I’m mainly focused on my studies and family. Please be safe!
+caller: Okay, okay, understood. So, you’re saying you don't know anyone who could show me around?  Just telling me where to go would be great!  Like, which areas are good for tourists?  Or perhaps you have some travel tips?

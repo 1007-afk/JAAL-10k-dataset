@@ -1,0 +1,7 @@
+caller: Namaste Madam, this is Rohan calling from Zomato customer care. We've noticed an unusual transaction of ₹3500 on your account. Could you please verify your OTP to secure your account?
+receiver: ₹3500? What transaction? I didn’t order anything for that much. And why are you calling? Zomato usually sends messages.
+caller: Yes Madam, there was a glitch in the system. To prevent any further unauthorized activity, we need to confirm your OTP. It’s a security protocol. Please share it quickly.
+receiver: Hold on a minute. What’s your employee ID? And which Zomato office are you calling from? I’m a little suspicious.
+caller: Madam, our system doesn’t provide employee IDs for customer care. This is a sensitive matter and we need to resolve it urgently. The OTP is your first line of defense. Just share it and we’ll sort it out.
+receiver: No, I'm not comfortable sharing anything without verifying who you are. Can you give me a reference number for this alleged transaction? I'll call Zomato directly to confirm.
+caller: Madam, providing a reference number will compromise the security. We’re trying to help you! Don't delay, share the OTP now to avoid permanent account suspension.

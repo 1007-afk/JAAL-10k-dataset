@@ -1,0 +1,6 @@
+caller: Hello, is this [Receiver's Name]? This is Raj from Axis Bank security. We've noticed some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? I haven’t done anything out of the ordinary.
+caller: Yes, sir. There's a potential fraudulent transaction pending. To secure your funds and prevent any loss, we need to quickly verify your details. Can you please provide your PAN card number and the last four digits of your debit card?
+receiver: Wait a minute. Axis Bank never asks for PAN or debit card details over the phone. This sounds fishy. Can you give me a reference number for this verification? Or a direct number to the Axis Bank customer care I can call back on?
+caller: Sir, this is a high-priority situation, and we’re working against the clock to protect your account. Giving out a reference number would compromise our security protocols. To proceed with the verification, we need those details immediately. Failure to do so within the next five minutes might result in a temporary freeze on your account.
+receiver: Freeze my account? Look, I'm not comfortable sharing this information over the phone. I’m going to go directly to my local Axis Bank branch to sort this out. I think you should check your procedures. Goodbye.

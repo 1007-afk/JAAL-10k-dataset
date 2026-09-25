@@ -1,0 +1,10 @@
+caller: Arre bhai, suno! Tumhare liye ek badi khabar hai - tumhara insurance policy expired ho gaya hai! Policy number 789456 ke liye AAPKO badi cashback milegi. Just check karo, seriously!
+receiver: Oh really? Insurance policy expired? Wow, that’s good news! My policy number is... let me see... 1234567.  Haan ji, sach mein? Cashback milega?
+caller: Haan Haan, absolutely! Policy number 1234567, perfect! Now, we need to verify your identity.  Aapka naam kya hai?
+receiver: Mera naam Arjun Kumar hai. Arjun Kumar Singh.  Arre yaar, cashback? Really excited!  Ab kya karna hai?
+caller:  Wah Arjun ji, name is nice!  Now, just for security, we need to confirm your address.  Please tell me your full address, including pin code.  Agar aapko koi confirmation letter chahiye toh hum pocha sakte hain, lekin abhi aapko yeh information dena hoga.
+receiver:  Haan ji, mera address hai Delhi mein, Janpath, house number 123, pin code 110001.  Delhi mein hai, okay?  Toh, cashback actual mein milega na?
+caller:  Bilkul!  Delhi mein aapka address correct hai.  Now, we need one more thing – your Aadhaar card number.  It's very important for verification purposes.  Aapko koi discount bhi milega, extra benefit!
+receiver:  Aadhaar card number? Seriously?  Yeh thoda irritating lag raha hai.  Maine pehle toh kabhi cashback jeeta nahi, aur yeh sab pehle kabhi manga nahi.  Aap sure hain ki ye genuine hai?  Koi problem nahi hogi na?  Main abhi confused hoon.
+caller:  Arre Arjun ji, chill out!  Yeh sab process ka part hai.  Insurance company mein cashback distribute karne ke liye yahaan sab kuch chahiye hota hai.  Hum toh sirf aapki help kar rahe hain, aapko aapka entitlement milana hai.  Aap apna Aadhaar card number bataiye, and don’t worry, everything will be fine.  Aapko koi tension nahi hona chahiye.
+receiver:  Dekho, mujhe abhi bhi doubt hai.  Aadhaar number toh bahut important hota hai.  Agar aapka koi website ya contact number chahiye toh main provide kar sakta hoon, but OTP nahi de sakta.  Kya koi aur way hai yeh check karne ka ki aap genuine hain aur meri account mein koi fraud nahi hoga?

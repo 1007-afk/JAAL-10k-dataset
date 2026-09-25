@@ -1,0 +1,11 @@
+caller: Namaste! Kaise hain aap? Yeh ek automated message hai Diwali ke delivery service se. Aapke paas ek special parcel hai. Agar aap delivery arrange karna chahte hain, toh please 09876543210 pe call karein. Shukriya!
+receiver: Haan, Diwali ke delivery service se? Parcel hai? Mera naam kya hai? Mujhe abhi tak koi call nahi aaya. Sirf number se aapko mera naam pata chala?
+caller: Haan, Diwali ke delivery service mein aapka number register hai. Aapka naam... system mein 'Sharma' naam dikhta hai. Aapko bas 09876543210 pe call karna hai, taaki hum aapki delivery details check kar sakein. Ye ek bahut hi shubh gift hai, miss mat karna!
+receiver: Sharma? Mera naam Sharma nahi hai! Main Rajesh Kumar hoon. Yeh number toh mere beta Rahul ne diya hai. Rahul ne kaha tha Diwali ke delivery service se ek nice gift aa sakta hai. Kya gift hai waise? Aur Rahul ko kya chahiye?
+caller: Apsorry sir, ek small mistake hui. Rahul Sharma hai ya Rajesh Kumar? Humare system mein confusion hai. Aapko 09876543210 pe call karna hai, taaki hum aapki delivery address verify kar sakein. Gift ek beautiful diya jani hai, bahut shubh aur auspicious hai.
+receiver: Diya jani? Okay, diya jani hai. Par mujhe itna wait kyun karna hai? Kitne din baad deliver hoga? Aur agar main call karu toh mujhe diya ka price bata do. Ismein shipping charges bhi lagega?
+caller: Shipping charges nahi lageinge sir, yeh ek special offer hai. Diya aapko 2-3 days mein deliver ho jaayega. Aapko 09876543210 pe call karna hai, taaki hum delivery schedule confirm kar sakein. Aur haan, diya ek premium quality ka hai, bohat achcha hai.
+receiver: Premium quality? Fine. Par mujhe abhi bhi aapka name batao. System mein jo naam dikhta hai, woh sahi nahi hai. Rahul ko call karo, uska opinion seekte hain.
+caller: Sir, maaf karna, technically kami hai humari. Rahul Sharma ka account hai, lekin aapka number Sharma naam se linked hai. Aapko 09876543210 pe call karna hai, taaki hum aapki account verify kar sakein. Yeh ek unique opportunity hai, jaldi kijiye!
+receiver: Unique opportunity? Kya bolti hai? Mujhe Rahul ko call karna hai. Rahul ne kaha tha Diwali ke delivery service se koi extra charge nahi lagta.
+caller: Haan sir, Rahul Sharma ke account mein koi extra charge nahi hai. Aapko 09876543210 pe call karna hai, taaki hum aapki delivery details finalize kar sakein. Shukriya!

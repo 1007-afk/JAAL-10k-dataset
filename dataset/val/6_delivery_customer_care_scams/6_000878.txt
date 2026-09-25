@@ -1,0 +1,7 @@
+caller: Namaste! This is Raj from BlueSpark Courier. We have a parcel addressed to you, but there’s a slight issue with the payment. The sender, Flipkart, seems to have underpaid the shipping charges.
+receiver: Oh really? I was expecting a package from Flipkart. What's the problem exactly?
+caller: Sir, it’s a small amount, just ₹450 to clear the discrepancy. It’s a standard procedure to collect it before delivery. We can process it quickly over the phone. Just need your UPI ID to transfer the amount.
+receiver: ₹450? That’s strange. I usually don’t pay for shipping. Can you give me a tracking number so I can check with Flipkart directly?
+caller: Of course, sir! The tracking number is FP7890123456. However, our system shows a security alert regarding this particular transaction. To prevent fraud, we need a one-time password (OTP) sent to your registered mobile number for verification.
+receiver: An OTP? Why would I need to give you an OTP to pay for shipping? This is getting a bit suspicious. I'll call Flipkart myself and check.
+caller: Sir, please understand, it’s just a precautionary measure. The OTP confirms you are the rightful owner. Without it, we can’t release the parcel. It's our company policy. We can't risk delivering the parcel to the wrong person. Please, just a quick OTP and your package will be on its way.

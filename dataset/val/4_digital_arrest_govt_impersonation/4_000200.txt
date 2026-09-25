@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Verma bol raha hoon, Indian Customs department se. Aapke naam par ek parcel aaya hai, jo Mumbai airport par adhraya hua hai.
+receiver: Parcel? Mujhe toh koi parcel order karne ka yaad nahi aa raha. Kisliye ka parcel hai?
+caller: Yeh parcel Singapore se aaya hai, aur usmein illegal items mile hain - drugs, pata chala hai. Issiliye woh adhraya kar diya gaya hai. Aapko parcel clear karwana hai, tabhi release hoga.
+receiver: Drugs? Main toh kabhi drugs nahi leta. Yeh mistake hai. Mujhe yeh parcel nahi chahiye, aur main nahi jaanta kisne bheja hai.
+caller: Dekhiye, ye matter serious hai. Agar aap legal process follow nahi karenge, toh police case register hoga, aur aapko court mein bhi jaana padega. Parcel clear karne ke liye sirf ₹12,000 ka fine deposit karna hai.
+receiver: ₹12,000? Yeh bahut zyada hai. Main bank statement check karta hoon, aur phir bataata hoon. Aur mujhe legal process ke bare mein bhi bataiye. Main kisi trap mein nahi girna chahta.
+caller: Jaldi karo, time kam hai. Court mein case aane se pehle ₹12,000 deposit kar do. Main aapko payment link bhejta hoon. Yeh process hai - deposit karo, verify karo, phir parcel release ho jayega.
+receiver: Yeh payment link check kar ke mujhe call karo. Main bank mein jaake direct transfer karta hoon. Koi link click nahi karunga. Mera naam Rajesh Kumar hai, aur number 9876543212 hai.

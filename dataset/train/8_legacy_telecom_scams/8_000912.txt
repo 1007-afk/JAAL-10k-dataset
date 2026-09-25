@@ -1,0 +1,16 @@
+caller: Namaste! Aapne "QuickRewards" se ek email mila hoga, sahi nahi? Ek Diwali special offer - ek FREE SmartWatch ke baare mein? Main check kiya, aapka number eligible hai! Bas aapko "CLAIM" reply karna hai, okay?  Aapko prize mil jaayega.  Kyun, aap ready hain claim karne ke liye?
+receiver: Oh wow, smartwatch? Just "CLAIM"? Okay, I will do that.
+caller: Haanji, exactly! It’s fantastic! Ab bas aapko ek simple security check karna hoga, taaki hum aapki prize aapke doorstep pe deliver kar sakein. Iske liye humein aapki address ka pata lagna chahiye. Kya main aapki address jaan sakta hoon?
+receiver: Yes, my address is 123 Mango Street, Mumbai.
+caller: Shukriya, Mr. Verma! Mr. Verma, ab aapko ek small confirmation code receive hoga, jo aapke registered SIM card pe aa jayega. Kya aapko abhi receive hua?
+receiver: Yes, it just arrived. Let me see…
+caller: Amazing! Mr. Verma, yeh code aapke payment details ko safe rakhne ke liye hai, taaki aapka prize kisi bhi problem mein koi nhi chori ho. Once yeh verify ho jaye, we’ll start sending out your watch. Just give me that code.
+receiver: Ji haan, it came through. 4...5...6...7...8...9...0... Yeah, it’s 456789.
+caller: Hello, hello! Kaise ho? Tumne “LuckyDraw India” se ek notification dekha hoga, hai na? Ek FREE iPhone 14 ke baare mein? Maine check kiya, tumhara number eligible hai! Sirf ‘ACCEPT’ reply karna hai to get your prize. Simple hai, right?  Tum ready ho accept karne ke liye?
+receiver: Oh, an iPhone? Just ‘ACCEPT’? Okay, let me accept it.
+caller: Haanji, absolutely! Very good! Ab bas aapko ek quick verification step karna hoga, taaki hum tumhari prize tumhare paas safely pahuncha sakein. Iske liye humein tumhare date of birth ka zarurat padegi. Kya main tumhara dobara jaan sakta hoon?
+receiver: Yes, my date of birth is January 15th, 1990.
+caller: Dhanyavaad, Mr. Patel! Mr. Patel, ab aapko ek small verification code receive hoga, jo aapke registered WhatsApp number pe aa jayega. Kya aapko abhi receive hua?
+receiver: Yes, it just arrived. One moment, checking it.
+caller: Great! Mr. Patel, yeh code aapke account details ko secure rakhne ke liye hai, taaki tumhari prize kisi bhi confusion mein koi loss na pade. Once yeh verify ho jaye, hum prize dispatch ki process start kar denge. Aapko bas woh code mujhe bata dena hai.
+receiver: Ji haan, it came through. 3...4...5...6...7...8...9...0... Yeah, it’s 345678.

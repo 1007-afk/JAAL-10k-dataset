@@ -1,0 +1,13 @@
+caller: Namaste! Kya aap online shopping karte hain? Mujhe ek bahut hi achha deal mila hai ek jewellery website par, aapko bhi interest hogi.
+receiver: Jewellery? Haan, mujhe pasand hai. Woh website kaun si hai?
+caller: Woh 'ShineBright' naam se hai. Us par aaj ek special sale chal rahi hai, diamond necklaces ₹3000 mein mil rahe hain!
+receiver: ₹3000? Diamond necklace? It sounds too good to be true.
+caller: Haan beta, but limited stock hai. Agar aapko chahiye toh jaldi karna hoga. Main aapko ek discount code bhi de sakta hoon, sirf aapke dost ke liye.
+receiver: Discount code? Theek hai, send karo. Lekin mujhe payment karne se pehle website check karna hai.
+caller: Ji haan ji, wait karo. Discount code hai: FRIEND20. Website par jao aur jald se order karo, nahi toh kuch aur le jayega!
+receiver: Okay, I’m checking the website now…  Hmm, this looks suspicious.  There's no mention of this sale, and the website design is very basic.
+caller: Arrey, dekho, sale sirf select customers ke liye hai. Aapki luck hai ki aapko pata chala. Jaldi karo, beta!
+receiver:  This feels like a scam. I’m not going to order anything. I'm blocking your number.
+caller: Please, beta, mat karo! Main bas aapki help kar raha tha. Just ₹500 ka payment karo, check kar lo, aur fir refund bhi mil jayega.
+receiver: Refund? Don't try to trick me. I'm reporting this to the cybercrime cell.
+caller: No, please! Don't do that! I’m sorry, I just wanted to share

@@ -1,0 +1,8 @@
+caller: Namaste, main Indian Customs se bol raha hoon. Aapka naam kya hai?
+receiver: Haan, bolie. Indian Customs se? Kya hua?
+caller: Sir, humein ek illegal parcel delivery mein aapka naam aa raha hai. Parcel mein suspicious items mile hain. Aapse inquiry ke liye kuch details chahiye.
+receiver: Illegal parcel? Main toh kabhi parcel nahi kiya. Kyun, parcel mein kya hai? Mujhe toh kuch bhi pata nahi hai.
+caller: Sir, parcel mein nakaleeni yaani illegal drugs paaye gaye hain. Aapse video call mein baat karna zaroori hai, aur 25,000 rupay ka security bail jama karna hoga, tab tak aapko release karenge.
+receiver: 25,000 rupay? Lekin main toh kuch nahi kiya hoon! Aur video call kyun chahiye? Main police station mein jaa sakta hoon, koi complaint kar sakta hoon.
+caller: Sir, legal process hai. Video call mein hum aapki identity verify karenge, aur bail jama karne se matter sorted ho jayega. Otherwise, court mein case file hoga, aur zyada kharcha hoga. Jaldi kijiye, sir.
+receiver: Court mein case? Ye toh bakwas lag raha hai! Koi proof dikhaiye aapko, koi document dikhaiye. Main nahi dene wala kuch bhi.

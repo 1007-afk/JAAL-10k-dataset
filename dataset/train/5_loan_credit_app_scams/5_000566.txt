@@ -1,0 +1,9 @@
+caller: Namaste! This is Priya calling from FastCash Loans. We’ve noticed you recently applied for a personal loan. Congratulations, you've been pre-approved for an amount up to ₹75,000! Just a few quick verification steps to finalize it.
+receiver: Haan, mainne toh loan apply kiya tha. ₹75,000? Kitna interest hoga? Batao.
+caller: Absolutely! The interest rate is a very competitive 8%, and the repayment period is flexible. To proceed, we just need you to confirm your bank account details and a small processing fee of ₹2,999 as an upfront payment to unlock the funds. This fee will be deducted from your loan amount later, no worries!
+receiver: ₹2,999 processing fee? Loan se ghatayega? Yeh thoda zyada lag raha hai. Aur bank details dohna safe hai?
+caller: Completely safe, sir! We use a secure encrypted server. Think of it as insurance - it proves you're serious about receiving the loan. Without it, we can’t guarantee your approval. We have many satisfied customers who have benefited from this process. Just transfer ₹2,999 to this UPI ID: payfastcash@axisbank.
+receiver: Okay, fine. UPI ID payfastcash@axisbank. Ek minute. (pause) Ho gaya sir. Transfer kar diya.
+caller: Excellent! Your loan is now being processed. Now, for the final step, to activate your loan and prevent fraud, we require a one-time OTP verification. A code will be sent to your registered mobile number shortly. Please share it with me when you receive it.
+receiver: OTP nahi mila abhi tak. Maine phone check kar liya. Koi message nahi aaya.
+caller: Hmm, that’s unusual. Sometimes there's a slight delay. But

@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Rajan, calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Haan, main hi hoon Verma. Customs Department? Kya hua? Package? Main toh koi package nahi bheja tha.
+caller: Ji haan, Mr. Verma. According to our records, a parcel containing prohibited goods – specifically, electronics with undeclared import value – was shipped under your name. We need to verify your involvement to prevent legal complications.
+receiver: Uff! Yeh kya keh rahe hain aap? Maine toh kabhi kuch import kiya hi nahi. Computer, mobile, kya items? Main toh retired bank employee hoon.
+caller: Sir, the manifest details are clear. To resolve this quickly and avoid arrest, you need to pay a small penalty of ₹12,500 to cover processing and verification fees. We'll clear the package immediately. I can send you the bank details for UPI transfer.
+receiver: ₹12,500? Arrest? Yeh kitna serious hai? Aur UPI details? Mujhe confirm karo, yeh sachhi baat hai. Main police station se baat kar sakta hoon?
+caller: Sir, delaying this will only escalate the situation. Our legal team is already preparing the paperwork. You can transfer the amount to this UPI ID: [Invent a fake UPI ID, e.g., customs.verma123@xyzbank]. Once the payment is confirmed, we’ll send you a clearance receipt and the package will be released.
+receiver: Wait a minute. Yeh UPI ID kuch familiar lag raha hai. Main check kar leta hoon. Aur kaunsa police station se tum log ho? Number dedo.
+caller: Sir, time is critical. We cannot provide you with the police station details over the phone for security reasons. Just complete the payment, and everything will be sorted

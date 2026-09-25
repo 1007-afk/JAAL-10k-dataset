@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Verma, FreeCash Rewards se baat kar raha hoon. Aapko ₹15,000 ka cashback voucher mila hai! Congratulation!
+receiver: ₹15,000? Mujhe toh koi notification nahin aaya. FreeCash Rewards se aap logon ka number kahan se mila?
+caller: Aapki UPI ID automatically register ho gayi thi ek lucky draw mein. Ab voucher claim karne ke liye, sirf ₹999 ka processing fee bhar denaa hai. Ek minute mein voucher aapka account mein transfer ho jayega.
+receiver: ₹999 processing fee? Yeh toh zyada lag raha hai. FreeCash Rewards ki website par check karta hoon.
+caller: Sir, website par pura information available nahin hota. Yeh direct offer hai, sirf selected customers ke liye. Fee bharne ke liye, aapko mere UPI ID par ₹999 send karke screenshot bhejo. Main aapko voucher number de dunga.
+receiver: UPI ID bataiye. Aur yeh screenshot submit karne ke baad voucher milega, guarantee hai?
+caller: UPI ID hai 8888111122. Haan sir, guarantee hai. Jald se jald voucher aapko mil jayega. ₹999 send karke screenshot bhejiye. Time barbaad na karein, offer limited time ke liye hai!
+receiver: Okay, wait kar raha hoon. Payment karne se pehle ek baar verify karna chahta hoon.

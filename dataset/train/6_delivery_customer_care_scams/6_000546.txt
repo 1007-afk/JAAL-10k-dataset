@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Neeraj from Swiggy Customer Care. We've noticed an unusual delivery attempt for an order placed under your name. The package is currently stuck at the courier hub due to a payment verification issue.
+receiver: Payment verification? Main Swiggy se order kiya tha? Mujhe toh yaad nahi.
+caller: Ji, sir. The order ID is SWG789456. It's a high-value order, sir. Just to verify, could you please share the OTP you received on your registered mobile number? It's a standard security procedure.
+receiver: OTP? Swiggy kabhi OTP maangta hai? Mujhe toh kuch SMS nahi aaya.
+caller: Sir, sometimes there’s a slight delay. Please check again. To resolve this quickly, we need to confirm the payment details. We also need to verify your credit card details to ensure the amount isn't debited twice.
+receiver: Credit card details? Nahin, sir. Main toh kabhi bhi phone pe credit card number nahi batata. Yeh kuch galat lag raha hai.
+caller: Sir, please understand. If you don't provide the details, the order will be cancelled, and you won't receive your items. We’re trying to help you get your delivery. Please share your card number and expiry date to avoid any further delays. It's just for a quick verification, sir.
+receiver: Nahin, sir. Mein abhi koi information nahi de sakta. Mein police mein complaint karunga.

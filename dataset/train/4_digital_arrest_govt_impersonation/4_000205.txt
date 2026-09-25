@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Central Goods and Services Tax (CGST) se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin customs clearance ke liye kuch documents incomplete hain.
+receiver: Parcel? Mere naam par? Mujhe toh koi parcel nahi aaya. Maiya Sharma naam hai mera.
+caller: Maiya Sharma ji, hamare record ke according, ek parcel Gujarat se aapke address par aaya hai, jismein electronic gadgets hain. Parcel mein kuchh discrepancies hain aur legal action ka risk hai. Isko clear karne ke liye, aapko ₹7,500 customs fee pay karna hoga.
+receiver: ₹7,500? Yeh bahut zyada lag raha hai. Maiya yahan hoon. Parcel mujhe kyun nahi mila? Aur Gujarat se parcel? Main toh Rajasthan mein basi hoon. Ye koi baat hui?
+caller: Maiya Sharma ji, Parcel agent ke through aaya hai. Hamara system automatic hai. Payment karne ke baad, hum parcel release kar denge. Aapko koi risq nahi hai. Aapko UPI se payment karna hai.
+receiver: UPI? Nahi, main UPI pe trust nahi karta hoon. Aur Gujarat aur Rajasthan dono alag state hain. Agar parcel aaya hai toh mujhe notification milna chahiye tha. Main report karungi.
+caller: Maiya Sharma ji, police report fil karenge toh aapko jail bhi ho sakti hai, aur parcel bhi nahi milega. Koi chance nahi. Please understand the seriousness of the situation. Aapko jaldi se payment karna hai.
+receiver: Jail? Nahi, main nahi darrungi. Ye scam hai. Main police mein report karungi. Good bye!

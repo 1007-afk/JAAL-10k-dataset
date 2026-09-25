@@ -1,0 +1,8 @@
+caller: Hello, mai hu Rahul, FastLoan India se. Aapko urgently paise chahiye kya? Hum offer kar rahe hain instant loan, sirf ID proof se. Koi income proof ya credit check nahi.
+receiver: Haan, thoda paisa chahiye tha. Kitna mil sakta hai aur kya-kya documents chahiye?
+caller: ₹50,000 se ₹80,000 tak ka loan mil sakta hai. Sirf Aadhar card copy aur ek passport size photo chahiye. Process bahut simple hai. Aapka naam aur Aadhar number share karein, main check karunga.
+receiver: Mera naam Deepak Verma hai aur Aadhar number [Receiver’s Aadhar Number].
+caller: Deepak Verma ji, aapka Aadhar card verify ho gaya hai. Ab humein ₹5,000 processing fee de do, phir loan approve ho jayega. Account details main aapko message kar dunga.
+receiver: Processing fee? Lekin aapne to kaha tha ID proof se loan mil jayega, koi fee nahi.
+caller: Deepak ji, rule change ho gaya hai, urgent processing ke liye fee lag rahi hai. ₹5,000 de dijiye, promise karta hu, 10 minute mein aapko paisa mil jayega. Warna loan reject ho jayega. Abhi transfer kijiye.
+receiver: Theek hai, ₹5,000 transfer karta hu. Account number bataiye.

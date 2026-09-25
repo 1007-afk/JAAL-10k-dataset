@@ -1,0 +1,8 @@
+caller: Namaste! Main Vijay, Paytm Rewards se calling karta hoon. Aapko Paytm se ek special cashback offer mili hai - ₹10,000 cashback, sirf ₹999 ke processing fee mein.
+receiver: ₹10,000 cashback? Kya baat hai? Main Paytm use karta hoon toh. Process kya hai?
+caller: Ji, Paytm is offer ko activate karne ke liye, aapko ₹999 ka ek small processing fee deposit karna hoga. Iska payment UPI se karna hai, ek secure payment link par. Offer extremely limited hai, sir.
+receiver: ₹999? Aur ₹10,000 cashback? Mujhe thoda doubt ho raha hai. Payment link bhejo, main dekhta hoon.
+caller: Haan ji, sir. Yeh link copy kar ke aapke WhatsApp par send karta hoon. Payment confirm hone ke baad cashback instant aapke Paytm wallet mein add ho jayega. Jaldi karo, sir, offer abhi khatam hone wala hai! [sends a fake UPI link]
+receiver: Link open kiya, payment page dikh raha hai. Paytm ka naam hi nahi dikh raha, kuch aur naam dikh raha hai. Aur ₹999 ka payment karne se pehle, mujhe confirm karna hai ki yeh legit hai.
+caller: Sir, internet connection ke karan naam change ho sakta hai. Trust the process, sir. Yeh sirf ₹999 hai, aur phir aapko ₹10,000 cashback milega! Don’t miss out!
+receiver: Nahin, mujhe nahin lagta. Main payment nahi karunga. Yeh scam lag raha hai. Main Paytm customer care se baat karta hoon.

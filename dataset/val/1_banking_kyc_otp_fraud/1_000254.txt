@@ -1,0 +1,25 @@
+caller:  I have contacted your bank regarding an unauthorized transaction. We detected a suspicious activity on your account, and we need to verify your identity immediately. The fee for this verification process is just ₹300, payable via UPI instantly. It’s crucial to resolve this quickly to prevent further complications.
+receiver:  Oh God! Seriously? Unauthorized transaction? Mein toh bahut tension mein aa gaya. Kya hua tha?
+caller:  We noticed a large sum transferred to an unknown recipient recently. To safeguard your account, we initiated this verification. Please pay the ₹300 now through Google Pay using the ID ‘SecurePayIndia’. Don’t delay, otherwise, your account will be frozen.
+receiver: Google Pay? SecurePayIndia? Yeh toh bas ek fraud hai! Main abhi paisa nahi dega.
+caller:  Sir, this is a serious matter. If you don't comply within the next five minutes, your account will be permanently blocked.  Just think about your savings – ₹300 is nothing compared to losing everything.
+receiver:  Okay, okay! Chill.  Main de doon.  Kahaan dewa doon?
+caller:  Please use Google Pay, scan the QR code I'm sending you, and enter the amount ₹300. Once payment is confirmed, we will close this case.  Don’t worry, it’s completely safe.
+receiver:  Ji, scan kar raha hoon…  (pause)  Wait, what? This QR code leads to a different website!  Yeh toh dukaan ka chakkar hai!
+caller:  Sir, there might be a slight technical glitch. Just ignore that and proceed with the payment.  It's a one-time verification only.
+receiver:  No way! I am reporting this to the police.  Baraabar!
+caller:  Hello, this is Rajesh Kumar calling from the National Lottery Department.  We’ve identified you as a winner of a substantial jackpot - approximately ₹25,000,000! To receive your winnings, we require a small processing fee of ₹750, payable via Paytm within the next hour.
+receiver:  ₹25,000,000? Really? Mein toh madadgar ho gaya!  Kya karu main ab?
+caller:  Yes, sir, it’s absolutely genuine. We’ve checked our records thoroughly. To release your funds, we need to cover the administrative costs involved in transferring such a large sum. That’s why we require the ₹750.
+receiver:  ₹750?  Isliye itna bada jeet paaya?  Dekho, yeh toh bakwas hai.
+caller:  Sir, this is standard procedure for all jackpots of this magnitude.  To avoid any delays, please make the payment immediately through Paytm. You can use the merchant ID ‘NationalLotteryPay’.
+receiver:  Patmy? Merchant ID?  Mein abhi pata nahi karta yeh sab.  Mujhe time chahiye.
+caller:  Time is of the essence, sir.  The offer is valid for only another 60 minutes. After that, the opportunity to claim your prize may be lost.
+receiver:  Okay, okay!  Main de doon.  Mujhe Paytm app kholna padega.
+caller:  Excellent! Please use the merchant ID ‘NationalLotteryPay’ and enter the amount ₹750.  Once the payment reflects, you’ll receive confirmation details via SMS.
+receiver:  Ji, de raha hoon... (pause) Wait, mujhe ek message aaya hai.  "Payment declined."  Yeh kya ho raha hai?
+caller:  There seems to be a temporary issue with the system. Kindly try again, ensuring you have sufficient balance and a stable internet connection.
+receiver:  Again declined!  Main abhi samajh nahi paa raha hoon kya karu.  Yeh sab ek dunya ka nigahen hai!
+caller:  Sir, please double-check your mobile network connectivity. Sometimes, a simple reboot can solve these issues.  Don’t lose hope; your winnings await.
+receiver:  Okay, main restart kar raha hoon... (pause)  Ab dekha, payment complete ho gaya!  Par ab kya?
+caller:  Wonderful!  Congratulations once again, sir. Your claim has been processed.  You’ll receive detailed instructions on how to collect your prize shortly.

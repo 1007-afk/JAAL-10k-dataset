@@ -1,0 +1,8 @@
+caller: Namaste Sir, main HDFC Life se baat kar raha hoon. Aapke liye ek super special offer aaya hai. Kya aap interest lena chahenge?
+receiver: Haan, HDFC Life? Batao kaunsa offer hai? Main abhi kaam se aa raha huun, jaldi bataye.
+caller: Ji sir, yeh ek ‘Golden Chance’ policy hai. Aapki zindagi ko bohat achcha bana dega. Ismein aapko milne wale benefits…
+receiver: Achha, zindagi ko achha banaega? Suno, bataiye mujhe sirf basics bataiye, nahi to time nahi rahega.
+caller: Theek hai sir, okay. Yeh policy aapke savings ko triple hone ki garanti hai, completely safe hai. Aur aapko ismein family cover bhi milegi, woh bhi sabse secure. Aur sir, ismein aapko regular intervals mein dividend bhi mileinge, ekdum steady. Kya aapka opinion hai?
+receiver: Triple savings? Family cover? Dividend? Yaaro, ye toh bahut promising lag raha hai. Lekin dividend kab se mileinge aur kitne percent se? Aur ‘regular intervals’ matlab kitne months ya years?
+caller: Sir, dividend aapko 5 saalon baad se shuru honge, aur yeh dividend aapke policy ke total value ka 5% hogi. Is matlab mein, agar aapka investment Rs. 75,000 hai, toh aapko har saal Rs. 3,750 mileinge for life! Aur ‘regular intervals’ matlab har 6 months, sir. Iske baad aapka paisa triple hone ki garanti hai, aur yeh sab completely safe hai.
+receiver: Har 6 months? 75,000 pe 3,750?  Zindagi bhar ke liye?  Yeh bhi thoda slow lag raha hai. Triple savings toh theek hai, lekin dividend ka period aur amount aur bhi clear kijiye na. Aur complete safe bol rahe hain, koi insurance details nahi?

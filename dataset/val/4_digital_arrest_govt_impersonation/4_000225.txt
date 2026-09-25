@@ -1,0 +1,6 @@
+caller: Hello, mai Airtel security department se Rohit bol raha hoon. Aapke Airtel account mein ajeeb transaction detected hua hai. ₹15,000 ka payment ek unknown website pe kiya gaya hai.
+receiver: ₹15,000? Kya bol rahe ho? Mera Airtel account? Mujhe toh koi notification nahi aaya. Main abhi apna app check karta hoon.
+caller: Ji ji, aap check karein, lekin fir se batao. Fraud hone se pehle hum contact kar rahe hain. Hamen aapka OTP verify karna hai taaki hum aapke account ko block kar dein aur paise recover kar dein. Aapka OTP share karein, please!
+receiver: OTP? Arey yaar, OTP kabhi bhi share nahi karte. Airtel toh aise nahi bolti. Tumhara phone number kya hai? Mai Airtel customer care pe call karta hoon aur verify karta hoon.
+caller: Sir/Madam, aapko ₹15,000 haarne ka risk hai. Customer care pe call karne mein time lag jayega aur fraudster iske dauran flee kar sakte hain. Aapka OTP share karein, otherwise aapko paise haarne padenge. Yeh ₹15,000 recover karne ka ek zaroori step hai.
+receiver: ₹15,000 haarne ka risk? Koi wait karo, mujhe apne Airtel app mein check karne do. Tumhara number save kar raha hoon aur main Airtel customer care ko call karta hoon. Main tumse OTP nahi share karunga.

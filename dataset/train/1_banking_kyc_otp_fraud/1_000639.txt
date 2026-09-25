@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio customer service se baat kar raha hoon. Aapka recharge plan expiry hone wali hai aur abhi aapko update karne ki zaruri hai. Agar aap update nahi karte toh aapka number 36 hours mein suspend ho jaayega. Kaise ho aap?
+receiver: Oh my god, Jio? Mein to update karna chahta hu, par mujhe pata nahin hai kaise. Yeh mera number hai 87654321. Bataiye, kya karna hai?
+caller: Ji sir, bahut aasaan hai. Bade badhiya. Aapki account ko secure karne ke liye, mujhe aapka bank account information verify karna hoga. Kya aap mujhe apna IFSC code bata sakte hain?
+receiver: Haan ji, mera IFSC code hai HDFC0000001. Aur phir aapko kya chahiye?
+caller: Shukriya sir! HDFC0000001. Sir, security check ke liye, aapko apni PAN card ka last 4 digit bata dena hoga.
+receiver: Ji, meri PAN card ka last 4 digits... wait karo, yeh hain 9876.  Aapko kuch aur bataana hai kya?
+caller: Sir, aapka verification complete ho gaya hai. Abhi aapko ek OTP aapke registered number pe aa jayega. OTP aaye toh mujhe bataiye, taaki main aapka number activate kar saku. Aur sir, kisi ko bhi apna internet banking password ya ATM PIN mat bataiye, okay?
+receiver: Haan ji, samajh gaya. OTP ka wait kar raha hoon. Jaise hi OTP milega, main aapko bata dunga.  Kya sirf OTP hi chalega ya koi aur step hai?

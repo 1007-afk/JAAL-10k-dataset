@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I’m calling from SecureConnect regarding your WhatsApp account. We’ve detected unusual activity.
+receiver: Haan, mai Priya Sharma bolti hoon. Kya baat hai? Unusual activity?
+caller: Ji, someone has tried to access your account from a foreign IP address. To verify your identity and secure your account, please provide the last four digits of your bank card. It’s a standard security protocol.
+receiver: Bank card details? Phone pe? Yeh thoda risky lag raha hai. Kya SecureConnect ka naam hi hai? Aur mujhe koi email ya message kyun nahi aaya?
+caller: Yes, Priya ji, this is SecureConnect. We prioritize phone verification for sensitive matters. The email system sometimes gets delayed. Just the last four digits, please. We need to act quickly to prevent unauthorized access. Think of your photos, your friends… they'll be at risk!
+receiver: Okay, okay… wait. Why do you need my bank card details to secure my WhatsApp? Shouldn’t WhatsApp be doing this? And you haven’t even told me which WhatsApp account you’re talking about – my phone number.
+caller: Priya ji, we work directly with WhatsApp’s security team. It’s a collaborative effort. The bank details are just for temporary verification. It's a short process. Just give me those four digits and everything will be safe. Please don't delay!
+receiver: You know what? This feels very wrong. I'm not giving you anything. I’m going to call WhatsApp directly. Good bye.

@@ -1,0 +1,10 @@
+caller: Namaste, is this Mrs. Sharma? My name is Vijay from Axis Bank's KYC department.
+receiver: Haan, bolie.
+caller: Madam, we’ve noticed some discrepancies in your account information. There's a new regulatory update requiring all customers to re-verify their details to avoid account suspension.
+receiver: Account suspension? Kyon? Mai toh koi transaction nahi kiya aajkal.
+caller: Exactly, Madam. It’s likely a security precaution. To prevent any issues, we need to quickly confirm your Aadhaar number and a one-time password sent to your registered mobile for verification. It will only take a minute.
+receiver: Aadhaar number? Phone pe OTP aaega?
+caller: Yes, Madam. Just to confirm your identity, please share the OTP you receive. Also, for additional security, could you tell me the last three digits of your PAN card? It’s standard procedure.
+receiver: Wait… why are you asking for my Aadhaar and PAN? Axis bank kabhi aisa nahi karta tha.
+caller: Madam, don't worry, this is a new automated system to ensure complete compliance. It’s to protect your account from unauthorized access. We’re experiencing high call volumes so quick verification is essential. Please cooperate to avoid any inconvenience.
+receiver: Maine apne bank manager se baat karunga. Tumhara number note kar raha hoon.

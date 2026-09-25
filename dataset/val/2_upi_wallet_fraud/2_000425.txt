@@ -1,0 +1,9 @@
+caller: Namaste! Main State Bank of India se Rahul bol raha hoon. Aapke bank account mein suspicious activity detect hui hai. ₹1500 ka transaction Gujarat mein hua hai.
+receiver: Gujarat? Maine to koi transaction Gujarat mein nahi kiya. Yeh kya ho raha hai?
+caller: Exactly! Isiliye aapko jald se jald confirm karna hai. Account secure karne ke liye, aapko UPI ke zariye ₹500 verification fee pay karni hogi.
+receiver: ₹500 verification fee? State Bank of India aise fee nahi lete.
+caller: Sir, yeh emergency protocol hai. Fraudsters bahut tej ho gaye hain.  ₹500 fee pay karne ke baad hum aapka account block kar denge aur Gujarat mein hua transaction investigate karenge.  Paytm par collect request bheji hai, confirm kijiye.
+receiver: Paytm collect request? Theek hai, main check karta hoon.
+caller: Jaldi kijiye sir, humare paas sirf 20 minutes ka time hai. Agar aap confirm nahi karenge, toh account freeze ho jayega aur ₹5000 block ho sakte hain.
+receiver: Account freeze aur ₹5000 block? Wait a minute, main kisi aur se baat karta hoon.
+caller: Sir, please jaldi karna! Yeh last chance hai!

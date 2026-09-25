@@ -1,0 +1,8 @@
+caller: Hello sir/madam, hope you are having a good day! I am calling from Cool-Mob. Your weekly Cool-Mob tones are ready to download! This week's new tones include: 1) Crazy Frog - Axel F, 2) Akon - Lonely, and 3) Black Eyed Peas - Don't Phunk with My Heart. You have only 5 downloads left for this week. Would you like to download them now?
+receiver: Hi! Oh, Cool-Mob tones, right?  Yeah, that sounds interesting. Let me see... Axel F is a classic!  And Akon's Lonely, I remember that one.  Don't Phunk with My Heart too... hmm.  Okay, I'll take 'em!  Download all three for me, please.  Thanks!
+caller: Great choice, sir! Toh, ek baar confirm karne ke liye, aapke account mein abhi sirf 4 downloads bache hain for this week. Kya aapko wohi 3 tones download karni hain - Crazy Frog, Akon, aur Black Eyed Peas? Ya kuch aur bhi add karna chahenge?
+receiver: Haan, wohi teen tones theek hain. Sirf chaar downloads bache hain? Okay, koi baat nahi. Bas wohi teen download kar do, thanks.
+caller: Theek hai, sir! Toh aapko wohi 3 tones download karni hain, aur aapke account mein abhi sirf 3 downloads bache hain, right?  Is it okay to proceed with the download of Crazy Frog, Akon, and Black Eyed Peas?
+receiver: Haan, haan, bilkul theek hai. Proceed karo. Aur haan, mera naam Priya hai, agar aapko note karna ho toh. Bas download kar do jaldi se. Thanks!
+caller: Oh, Priya ji, thank you for confirming! Toh, aapko wohi 3 tones download karni hain, aur ab aapke account mein sirf 2 downloads bache hain for this week. Is it okay to proceed with the download of Crazy Frog, Akon, and Black Eyed Peas? Just confirming one last time before I process it for you.
+receiver: Arre, haan haan, okay hai! Bilkul proceed karo. Meri taraf se done hai. Bus ho gaya na abhi? Thanks a lot!

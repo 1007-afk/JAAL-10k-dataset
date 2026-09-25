@@ -1,0 +1,30 @@
+caller: Namaste sir, main HDFC Bank se baat karta hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, HDFC? Dekhte dein. Mein abhi ghar par hoon, lekin kal subah bank se pehli call karunga. PAN card? Woh jo mein India mein tha?
+caller: Haan sir, woh jo PAN card aap India mein banaa tha, uska screenshot le lo. Mobile number to mujhe zaroor chahiye, yeh bahut important hai.
+receiver: Okay, okay, screenshot le lunga hoon. Mobile number? Mein abhi tell nahi sakta, kyunki mein ghar par hoon. Kya aapko koi alternate contact number bhi chahiye?
+caller: Nahi sir, sirf aapka mobile number enough hai. Iske kareeb ₹500 ka recharge bhi ho sakta hai. Aapka naam kya hai?
+receiver: Mera naam Vijay Kumar hai. Kanpur mein hoon. Kaise hain aap?
+caller: Ji vijay kumar, aapka naam record kar li hai. Kanpur mein abhi afternoon 3:30 ki taraf ja raha hai. Kal subah call karenge. Thank you.
+receiver: Theek hai, thank you. Kal subah call karna. Bye.
+caller: Namaste sir, main HDFC Bank se baat karta hoon. Aapko ek new debit card chahiye kya? Card banane ke liye humein aapka PAN card aur mobile number lagana hoga.
+receiver: Oh, HDFC? Dekhte dein. Mein abhi ghar par hoon, lekin kal subah bank se pehli call karunga. PAN card? Woh jo mein India mein banaa tha?
+receiver: Oh, Icici? Naye credit card? Mein abhi kaam par hoon, lekin phir lunch break pe call karunga. Aadhaar? Woh jo meri passport mein hai?
+caller: Haan sir, passport mein jo Aadhaar mila tha, uska copy banao. Bank statement to mujhe dekhna hoga, fir hi pata chalega ki aapka account activa hai ya nahi.
+receiver: Okay, lunch break pe check karunga. Bank statement? Woh digital hai ya paper wala?
+caller: Digital hi hoga sir, abhi sab kuch digital ho gaya hai. Aapka naam kya hai?
+receiver: Mera naam Priya Sharma hai. Delhi mein hoon. Kitni hot hai yahaan?
+caller: Ji priya sharma, aapka naam record kar li hai. Delhi mein abhi noon 12:30 ki taraf ja raha hai. Lunch break pe call karenge. Thank you.
+receiver: Theek hai, thank you. Lunch break pe call karna. Bye.
+caller: Namaste sir, main ICICI Bank se baat karta hoon. Kya aapko naya credit card chahiye? Card issue karne ke liye aapka Aadhaar aur bank statement milega?
+receiver: Oh, Icici? Naye credit card? Mein abhi ghar par hoon, lekin kal subah bank se pehli call karunga. Aadhaar? Woh jo meri ration card mein hai?
+caller: Haan sir, ration card mein jo Aadhaar mila tha, uska screenshot le lo. Bank statement to mujhe dekhna hoga, fir hi pata chalega ki aapka account activa hai ya nahi.
+receiver: Okay, screenshot le lunga hoon. Bank statement? Woh digital hai ya paper wala?
+caller: Digital hi hoga sir, abhi sab kuch digital ho gaya hai. Aapka naam kya hai?
+receiver: Mera naam Rohan Verma hai. Pune mein hoon. Kitni hot hai yahaan?
+caller: Ji rohan verma, aapka naam record kar li hai. Pune mein abhi afternoon 2:00 ki taraf ja raha hai. Kal subah call karenge. Thank you.
+receiver: Theek hai, thank you. Kal subah call karna. Bye.
+caller: Namaste sir, main Axis Bank se bol raha hoon. Aapko naya credit card chahiye? Card issue karne ke liye aapka Aadhaar aur mobile number milega?
+receiver: Oh, Axis? Dekhte dein. Mein abhi online meeting mein hoon, lekin phir break pe call karunga. Aadhaar aur mobile number? Woh jo meine online banking par register kiya tha?
+caller: Haan sir, online banking par jo Aadhaar aur mobile number register kiya tha, uska screenshot le lo. Aur aapka email ID bhi chahiye, yeh bahut important hai.
+receiver: Okay, screenshot le lunga hoon. Email ID? Woh jo mein kotak Mahindra bank par use karta hoon?
+caller: Ji sir, kotak Mahindra par jo email ID

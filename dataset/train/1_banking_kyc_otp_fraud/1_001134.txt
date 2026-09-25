@@ -1,0 +1,6 @@
+caller: Namaste, Madam. This is Priya calling from HDFC Bank. We’ve noticed some unusual activity linked to your credit card – specifically, a pending transaction at an online gaming platform called ‘Royal Wins’. Have you initiated this transaction?
+receiver: Hello? Royal Wins? No, I haven't been on any gaming sites recently. That's very strange. Is there a lot of money involved?
+caller: Yes, Madam. The pending amount is ₹18,500. We need to verify your identity urgently to block this transaction and prevent any further unauthorized charges. Could you please confirm your full name and date of birth for verification purposes?
+receiver: ₹18,500? Oh my goodness! That's a huge amount. My name is Anjali Sharma, and my date of birth is 12/08/1985. But I still don't understand how this happened.
+caller: Thank you, Madam Sharma. Your details match our records. Now, to complete the verification and secure your account, we need to generate a one-time password (OTP) and send it to your registered mobile number. Please share the OTP with me as soon as you receive it. This is crucial to stop the fraudulent transaction.
+receiver: Wait a minute… OTP? Why do you need my OTP? Shouldn't you be cancelling the transaction directly? This feels a bit odd. I'm not comfortable giving you an OTP over the phone.

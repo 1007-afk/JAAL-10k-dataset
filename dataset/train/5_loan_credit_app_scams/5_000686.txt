@@ -1,0 +1,9 @@
+caller: Namaste! Is this Rohit Sharma? We're calling from SwiftCash Loans. We have a fantastic opportunity for you – a guaranteed loan approval, no credit check!
+receiver: Haan, main Rohit Sharma bolta hoon. Loan ka kya offer hai? Mujhe ₹10,000 ki zaroorat hai.
+caller: Bahut achha, Rohit Ji! ₹10,000 toh bilkul mil jayega. Our special offer today allows instant disbursement. Just a small processing fee of ₹800 upfront to activate your account.
+receiver: ₹800 processing fee? Aur interest kitna hoga? Batao pehle.
+caller: Rohit Ji, interest is minimal, just 5% for a 30-day period. But this offer is very limited! We need that ₹800 confirmation payment to secure your loan. We can send you a UPI ID.
+receiver: Paanch percent interest toh thik hai, but main UPI pe trust nahi karta. Koi aur tarika hai?
+caller: Rohit Ji, unfortunately, this is the quickest way. Without the verification fee, we cannot proceed. Don’t miss out on this golden chance! This offer is only valid for one hour. We have several customers waiting.
+receiver: Ek minute ruk jao. Main socha.
+caller: Rohit Ji, please don’t delay! If you let this offer pass, you'll miss a very good opportunity. You will be able to resolve all your problems with this loan.

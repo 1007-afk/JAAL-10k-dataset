@@ -1,0 +1,8 @@
+caller: Hello, mai Vijay hu, BharatPay se. Aapke BharatPay account mein cashback offer aa gaya hai! ₹5000 cashback mil sakta hai.
+receiver: Oh, seriously? ₹5000? Kaise?
+caller: Haan ji. Aapko sirf ek small processing fee bhar deni hai, ₹500. Yeh verification ke liye hai.
+receiver: ₹500? Verification fee? BharatPay toh free cashback offer deta hai.
+caller: Yeh special offer hai, sir. Limited time ke liye. ₹500 ko BharatPay UPI ID par send karein.  ₹5000 cashback instantly aapke account mein transfer ho jayega.
+receiver:  Woh UPI ID kaun sa hai? Mujhe BharatPay app mein toh kuch dikh nahi raha.
+caller:  Yeh ek new process hai. BharatPay ne security ke liye kuch badla hai. Aapko EkPay app mein UPI ID mil jayega.  EkPay ID par send karein, sir.  Jab ₹500 verify ho jayega, cashback instantly ho jayega.
+receiver: EkPay? Main kabhi sunta hi nahi. Woh safe hai?

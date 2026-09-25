@@ -1,0 +1,7 @@
+caller: Namaste sir, main BharatPay se Rohit bol raha hoon. Aapke BharatPay wallet mein 24 ghante mein 5000 rupees ka transaction hone wala hai. Verification ke liye aapka OTP bataiye.
+receiver: Arre bhai, woh kaise? Main toh koi transaction nahi kiya. BharatPay se call hai, par OTP mat doon?
+caller: Sir, transaction confirm hone se pehle humein verification karna padega. 5000 ka transaction ek online shopping site par ho raha hai. Agar aap confirm nahi karte toh transaction fail ho jayega aur aapka BharatPay account suspend bhi ho sakta hai.
+receiver: Account suspend? Yeh kya keh rahe hain? Mujhe toh koi shopping nahi karni hai. Verification ke bina transaction kaise ho sakta hai? BharatPay ka official number toh pata karo aur mujhe call karo.
+caller: Sir, yeh security protocol hai. Humara official number 1800-123-4567 hai. OTP bataiye sir, time kam hai. 24 ghante baad yeh transaction automatic ho jayega, aur aapka account bhi block ho sakta hai.
+receiver: Sir, 1800 number toh main BharatPay website par bhi dekha hai. OTP dene se pehle main khud check karta hoon. Tum wait karo, main apne app mein dekhta hoon. Koi transaction pending toh nahi hai.
+caller: Sir, time nahi hai. Woh app mein dekhne mein time lagega. OTP bataiye aur transaction confirm karke aapko cashback bhi milega. Sir, fast please. Account suspend hone se pehle.

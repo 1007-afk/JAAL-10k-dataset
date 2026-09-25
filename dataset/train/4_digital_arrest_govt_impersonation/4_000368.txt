@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Kumar? My name is Inspector Joshi, calling from the Delhi Customs Department.
+receiver: Haan, main Rajesh Kumar bol raha hoon. Customs Department? Kya baat hai, sir?
+caller: Sir, we've intercepted a suspicious package addressed to your name at the Indira Gandhi International Airport. Preliminary investigations suggest it contains items linked to illegal import of luxury electronics and potentially, some contraband.
+receiver: Illegal import? Lekin maine toh kabhi kuch aisa nahi kiya! Yeh kya keh rahe hain aap?
+caller: Sir, we need to verify your involvement to clear this up. There's a court case already initiated. To avoid arrest and further legal complications, you need to pay a settlement fee of ₹75,000 to secure the release of the package and close the case.
+receiver: ₹75,000? Yeh bahut zyada hai! Aur main arrest ho sakta hoon? Main toh innocent hoon!
+caller: Sir, this is standard procedure. We can’t risk it.  We’ll connect you to the judge on video call immediately so you can speak to him directly. You'll see him, he will confirm. This is to ensure everything is transparent. Please provide your WhatsApp number, so we can start the call right away.
+receiver: Judge saab ko dekhna hai? Theek hai, WhatsApp number hai [Invent a 10-digit Indian mobile number, e.g., 9876543210]. Lekin mujhe yeh sab bahut suspicious lag raha hai.
+caller: Thank you, sir.  Just one moment while I connect you to the judge. I am forwarding the video call request now. Please answer quickly, sir. Time is of the essence.

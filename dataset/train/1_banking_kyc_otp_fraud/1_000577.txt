@@ -1,0 +1,8 @@
+caller: Namaste, hello? Aapse mera message aaya tha aapke 2018 account ke bare mein? Woh keh raha hai ki aapke 1234 rewards points expire hone waale hain. Mujhe sirf kuchh cheezein jald se jald check karani hain taki aap unhein claim kar sake. Aapka naam batao.
+receiver: Haan ji, namaste. Aapse message mila tha. Mera naam Sanjay hai. Haan, rewards points expire hone waale hain. Bolo, kya check karna hai?
+caller: Achha, Sanjay! Khubhi achcha. Toh, ye 1234 rewards points redeem karne ke liye, mujhe sirf aapke account se kuchh cheezein verify karni hain. Pahle, kaisee aapke 2018 account ke saath juda hua address confirm karein? Yahaan par sirf road ka naam aur shahar pucha jaaega.
+receiver: Ji haan, mera address hai Laxmi Nagar, Delhi. Aur kuchh puchne wala hai?
+caller: Okay, Laxmi Nagar, Delhi. Theek hai. Aur agar aapko andaron ko assure karna hai, kaisee aapke account ka email address verify karein? Woh ek standard security step hai.
+receiver: Email address? Hmm, mujhe lagta hai woh 'sanjay.singh@gmail.com' hoga. Agar kuchh aur hai toh bolo.
+caller: Theek hai, sanjay.singh@gmail.com. Aur nirdharane ke liye, kaisee aapke mobile number ke last four digits confirm karein? Yeh aksar kisi aur ko aapki points access karne se rokne ke liye hota hai.
+receiver: Haan ji, woh last four digits hain 9012. Ho gaya confirm? Ab rewards points redeem ho jayenge na?

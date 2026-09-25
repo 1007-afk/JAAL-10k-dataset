@@ -1,0 +1,8 @@
+caller: Namaste! Main Bharat Telecom se bol raha hoon. Aapne ek advertisement dekha hoga 'Call Now & Win Big!' uske baare mein baat karna chahte hain.
+receiver: Haan ji, hello. Bataiye, kya hai uske baare mein?
+caller: Ji, toh aapko ek special offer mila hai jismein aapko 5 ghante ka free data mil raha hai! Yeh ek limited time offer hai, aur aapke paas sirf 3 'rewards' bache hain claim karne ke liye. Aapko bas woh reward activate karna hai, woh bhi bilkul free!
+receiver: Achcha, 5 ghante ka free data? Ye toh achcha deal hai. Toh kya karna hoga iske liye? Kuch download karna hai ya kuch?
+caller: Nahi ji, kuch bhi download nahi karna. Aapko bas ek chota sa confirmation dena hai, jisse hum aapka reward activate kar sakein. Aapko mera naam bataana hai.
+receiver: Mera naam Deepak hai. Toh bas confirmation dena hai? Aur kuch nahi?
+caller: Haan ji Deepak ji. Bas ek chota sa confirmation chahiye. Agar main aapka 'account number' verify kar doon toh aapka reward immediately activate ho jayega. Kya main aapki account number jo aapko SMS mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charge nahi hai.
+receiver: Account number? Oh, haan, abhi dekhta hoon. Ek minute... Haan, ye raha. 1234567890.

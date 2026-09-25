@@ -1,0 +1,8 @@
+caller: Namaste ji, kaise haal hai? Is this Mr. Verma speaking?
+receiver: Haanji, namaste! Main Kavita bol rahi hoon.
+caller: Ji, Kavita ji, mera naam Rohan hai, main Quick Rewards App se phone kar raha hoon. Aapko ek bahut hi achcha offer ke baare mein batane ke liye. Aapne pehle kabhi Quick Rewards App ko 77777 par message kiya tha?
+receiver: Haanji, Quick Rewards App? Naam toh suna hai. Par 77777 par message kiya tha, yeh bilkul nahi samjha. Kya offer hai, batao?
+caller: Ji, koi problem nahi. Bas yeh check karna chahta hoon ki aapne kabhi Quick Rewards App ko subscribe kiya tha ya nahi. Kyunki aapne ek special promotion ke liye signup kiya tha, aur hum abhi ₹500 ka cashback voucher de rahe hain! Yeh voucher vapas karne ke liye, aapko sirf 77777 pe 'CRB' message karna hai. Itni simple!
+receiver: ₹500 ka cashback voucher? Wow! Par maine genuinely 77777 pe 'CRB' send kiya tha kya? Mujhe abhi itna yaad nahi aa raha. Aur mera number wahi hai [Invent a generic mobile number like '8888990000'], yeh bhi sure nahi hai. Kya aap meri identity verify kar sakte hain? Just to make sure, yeh offer sirf genuine users ke liye hai.
+caller: Ji, Priya ji, definitely! Hum aapki identity verify kar sakte hain. Aapka number [Invent a generic mobile number like '8888990000'] correct hai na? Agar aap yeh confirm karein, toh main aapko voucher immediately transfer kar dunga.  Iske baad aap 77777 pe 'CRB' message karke confirmation submit kar sakte hain.  Aapke paas sirf do attempts bache hain yeh amazing deal ke liye!
+receiver: Haanji, wohi number hai meri [Invent a generic mobile number like '8888990000']. Voucher mere liye hi hai? Then just send me ‘CRB’ on 77777?

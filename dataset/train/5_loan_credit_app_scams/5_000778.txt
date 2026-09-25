@@ -1,0 +1,9 @@
+caller: Hello, is this Rohan Sharma? We’ve processed your application for a ₹75,000 loan through InstaCash. Congratulations! But there’s a small processing fee of ₹7,500 upfront to activate the loan.
+receiver: ₹7,500? I don't recall being told about a fee this high. The website just mentioned a small verification charge.
+caller: Yes, sir, the website details are sometimes updated. This is a new security protocol. Without this, we can’t guarantee the loan’s safety. Transfer it to the UPI ID: secureloan77@axis.
+receiver: Hold on, that seems suspicious. Why do I have to pay before I even get the loan? And why Axis Bank, I thought InstaCash was partnered with HDFC.
+caller: Sir, there’s been a change in banking partnerships. This is a standard procedure. If you don't pay within 15 minutes, the loan will be cancelled and your application rejected. Also, we have your contact list – failing to pay will result in sharing embarrassing details with your family and colleagues.
+receiver: Sharing my contacts? That’s a threat! I’m reporting this. You're a scammer!
+caller: Sir, don't be hasty. You are putting yourself at risk. Think of your reputation. Just pay the ₹7,500, and we'll release the loan immediately. We have everything - your photos, your friends’ details - and we can make your life miserable.
+receiver: Absolutely not. I’m calling the police. You’re not getting a rupee from me.
+caller: Fine, sir. Have it your way. But know this, we have your information and we’ll be in touch. Consider this your final warning.

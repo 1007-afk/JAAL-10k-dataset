@@ -1,0 +1,9 @@
+caller: Namaste! This is Rohan from FastCashPro.com. Are you facing any urgent financial difficulties? Need money for medical bills, a wedding, or some other important expense? We provide instant loans, no paperwork required! Can I get your name, please?
+receiver: Hello. My name is Ankit. What kind of loans are we talking about? And what are the interest rates like?
+caller: Ankit ji, we have fantastic offers! Loans up to ₹30,000, approved within minutes! Interest rates are competitive, and we work with you on repayment plans. Right now, we’re running a special promotion. What’s the purpose of the loan you need?
+receiver: I need around ₹12,000 for some repairs on my scooter. It’s been giving me trouble.
+caller: Excellent! ₹12,000 is easily manageable. To process your loan quickly, we just need some verification details. Can you share your Aadhaar card number and the last four digits of your bank account? It's just to confirm your identity, Ankit ji.
+receiver: Wait a minute. I've heard about these loan apps. Why do you need my Aadhaar number and bank details? That seems risky.
+caller: Ankit ji, don’t worry! It’s a standard security procedure. We’re fully licensed and regulated. This information is encrypted and safe with us. Without it, we can't verify you are who you say you are. This is to prevent fraud, not cause you harm. Trust us, Ankit. We're here to help.
+receiver: I'm not comfortable sharing that information over the phone. I think I’ll have to decline this.
+caller: Ankit ji! You’re making a mistake! This is a limited-time offer! Once you share these details

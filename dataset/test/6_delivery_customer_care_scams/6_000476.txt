@@ -1,0 +1,8 @@
+caller: Namaste! Yeh Airtel customer care se Rohan bolta hoon. Aapke Airtel account mein ek suspicious transaction detect hua hai. ₹2500 ka deduction hua hai jo aapne nahi kiya.
+receiver: ₹2500? Oh no! Really? Mujhe toh koi notification nahi aaya. Kuch gadbad toh lag rahi hai. Batao, kya hua exactly?
+caller: Ji haan, sir. Hamari system mein dikh raha hai. Isko resolve karne ke liye, aapko ek OTP mil jayega. Woh mujhe bata dijiye taaki main aapke account ko secure kar sakoon.
+receiver: OTP? Sir, main toh apne phone mein check karta hoon. Airtel ne kabhi OTP maanga hi nahi aise. Thoda wait karo, main check karta hoon.
+caller: Sir, time bahut kam hai. Hacker aapke account mein access try kar rahe hain. Aapko jaldi se OTP dena padega warna aapka account block ho sakta hai. Main aapko ek link bhejta hoon, OTP wahaan dal dijiye.
+receiver: Link? Nahi, nahi. Main bank ke rules jaanta hoon. Koi bhi link nahi daalta. Aap mujhe phone pe call karo, main check karta hoon. Airtel ka number toh public hai na?
+caller: Sir, call karne se kaam nahi hoga. System overloaded hai. Link hi chahie. Is transaction ko reverse karne ke liye OTP compulsory hai, otherwise, aapka paisa permanent kharab ho jayega.
+receiver: Paisa kharab? Sir, mujhe toh kuch pata nahi. Main apne dost se baat karta hoon. Aap wait karo.

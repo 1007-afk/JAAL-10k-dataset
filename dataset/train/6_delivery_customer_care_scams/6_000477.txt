@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Rohan Verma? I’m calling from BlueBird Courier. We have a package for you, but there’s a slight issue with the delivery address.
+receiver: Yes, speaking. What’s the issue?
+caller: Sir, the payment for the shipping didn’t go through completely. It seems like there was a small transaction failure. To release the package, we just need you to confirm a one-time payment of ₹750 to cover the outstanding amount.
+receiver: ₹750? I didn’t order anything expensive. What's the tracking number?
+caller: The tracking number is BB789456123.  We need that payment confirmation immediately, sir, otherwise, we'll have to return the package to the sender and you’ll have to pay a return shipping fee. I can send you a secure link via SMS – just confirm your phone number again.
+receiver: My number is 98XXXXXXXX. But why can't I pay online like usual?
+caller: Due to a recent security update, sir, we're temporarily shifting to this verification process. It's just to protect your account. I’ve sent you the link. Please complete the payment within the next 10 minutes, otherwise, we will have to mark the package as undeliverable.

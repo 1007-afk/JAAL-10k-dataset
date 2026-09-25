@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I'm calling from BharatPe customer care. We've noticed some unusual activity on your BharatPe account.
+receiver: BharatPe? What unusual activity? I haven't done anything different.
+caller: Yes, ma'am. There's been a pending transaction for ₹250 towards a cashback offer from a partner store. To confirm it's not fraudulent and to release the cashback, we need you to verify your UPI PIN immediately.
+receiver: Cashback? I didn’t apply for any cashback. And why do I need to give you my UPI PIN? That’s not how customer care works, is it?
+caller: Ma'am, it's a new security protocol. If you don't verify, the transaction will be flagged as suspicious and your BharatPe account might be temporarily blocked. Just tell me the first four digits of your UPI PIN to confirm your identity. It's just a quick verification.
+receiver: Wait a minute. That sounds fishy. I’m calling BharatPe’s official number to check. Don't call me again.
+caller: Ma'am, please don’t wait. The offer is only valid for the next few minutes. This is your chance to get the cashback and keep your account safe! Just tell me those four digits.
+receiver: I’m hanging up.

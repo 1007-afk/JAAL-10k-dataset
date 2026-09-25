@@ -1,0 +1,6 @@
+caller: Namaste, Main HDFC Bank se Priya Verma bol rahi hoon. Aapke naam par ek suspicious transaction detect hua hai, ₹12,000 ka.
+receiver: Kya? ₹12,000? Mein toh koi transaction nahi kiya. Kahan hua transaction?
+caller: Sir, transaction Nepal mein hua hai. Is transaction ko block karne aur aapke account ko secure karne ke liye, humein aapke account details verify karne ki zarurat hai. Aapka OTP aur PAN card number bataiye, please.
+receiver:  Nepal mein?  Yeh bahut hi strange hai. Mein kabhi Nepal nahi gaya. PAN card number phone pe? Thoda risk lag raha hai.
+caller: Sir, security ke liye zaroori hai. Agar aap OTP nahi batayenge toh hum account suspend karna padega, aur phir aapka paisa bhi jam ho sakta hai. Just 4 digits OTP, please. Abhi.
+receiver:  Account suspend? ₹12,000 ka suspicious transaction? Okay, ek minute. Mein apne bank ke official number se call karta hoon, confirm karne ke liye.  Bye.

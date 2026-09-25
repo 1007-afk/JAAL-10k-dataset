@@ -1,0 +1,9 @@
+caller: Namaste, main Vijay se bol raha hoon, QuickPay Solutions se. Aapke QuickPay wallet mein ₹500 ka cashback offer live hai. Claim karne ke liye, kuch details verify karne hain.
+receiver: Oh, Vijay ji? Main Sunita Sharma hoon. Cashback offer? Mujhe jankari nahi hai.
+caller: Ji, Sunita ji. Aapne recently ek online shopping kiya tha, uske under yeh offer hai. Aapka OTP bataiye na, QuickPay system mein verify karne ke liye.
+receiver: OTP? Main apna OTP kisi ko nahin deta. Woh risky hai.
+caller: Sunita ji, tension mat len. Yeh QuickPay security protocol hai. OTP ke bina cashback nahi milega. Jaldi bataiye, offer limited time ke liye hi hai.
+receiver: Hmm… okay, wait kar rahi hoon… yeh mera OTP hai: 987654.
+caller: Shukriya Sunita ji. Ab ₹500 cashback claim ho gaya hai. Aur aapko ₹20 processing fee bharvana padega, cashback process complete karne ke liye. UPI ke zariye transfer kijiye, [invented UPI ID, e.g., quickpaycashback@upi] par.
+receiver: ₹20 fee? Maine kabhi sunna nahi hai. Yeh theek nahi lag raha hai.
+caller: Sunita ji, yeh standard procedure hai. Iske bina cashback nahi milega. Jaldi transfer kijiye, offer abhi hi khatam ho jayegi.

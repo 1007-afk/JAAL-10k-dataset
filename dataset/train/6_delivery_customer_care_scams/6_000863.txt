@@ -1,0 +1,7 @@
+caller: Namaste! Main Zomato Customer Care se Rahul bol raha hoon. Aapke account mein kuch suspicious activity detect hui hai. Aapne ₹12,000 ka order kiya hai jo aapne nahi diya hai.
+receiver: ₹12,000? Main toh aaj Zomato pe kuch bhi order nahi kiya. Ye kaise hua?
+caller: Haan sir, hamari system mein dikh raha hai. Isko fix karne ke liye, aapko ek OTP mil raha hai, woh mujhe bataiye taaki main aapke account ko secure kar sakoon.
+receiver: OTP? Aapko mera OTP chahiye? Main sunke thoda confused hoon. Customer care aise OTP maangta hai kya?
+caller: Haan sir, security protocol ke hisab se. Agar aap OTP nahi denge, toh aapke account par fraud ho sakta hai aur ₹12,000 ka loss aapko ho sakta hai. Jaldi karo sir!
+receiver: Ek minute rukhiye. Main Zomato app pe check karta hoon.
+caller: Sir, time barha nahi kar sakte. Aapke account ko hack karne wale log wait kar rahe hain. Jaldi se OTP bataiye, please!

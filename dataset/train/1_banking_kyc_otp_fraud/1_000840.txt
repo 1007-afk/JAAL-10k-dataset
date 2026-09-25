@@ -1,0 +1,8 @@
+caller: Namaste! Main ICICI Bank se Rahul Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi hai, isliye KYC update karne ki zaroorat hai.
+receiver: Oh, ICICI? Kya hua? Kuch problem hai?
+caller: Ji, sir. Ek naya transaction detect hua hai jo aapne nahi kiya hai. Isliye, aapko apne account ko secure karne ke liye kuch details verify karni hogi. Pehle, mujhe aapka Aadhaar card number chahiye.
+receiver: Aadhaar number? Yeh thoda scary lag raha hai. Aap phone pe Aadhaar number maang sakte ho?
+caller: Sir, security protocol hai. Isliye, hum phone pe hi verify karte hain. Agar aapko verify nahi karte, toh aapka account suspend bhi ho sakta hai. Kal tak yeh compulsory hai, otherwise aapke account se ₹10,000 cut ho sakte hain.
+receiver: ₹10,000? Yeh bahut zyada lag raha hai. Main bank branch mein jaaunga verify karne.
+caller: Sir, branch bahut busy hai, aur aapka time barbaad ho jayega. Humara system bahut safe hai, sir. Bas apna Aadhaar number bataiye, aur main aapko ek OTP bhi send kar dunga. OTP enter karke aapka account secure ho jayega. Please sir, is offer ka time bahut kam hai.
+receiver: Theek hai, thoda wait karo. Mai check karta hoon.

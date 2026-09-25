@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Verma? This is Inspector Singh from the Delhi Customs Department. We’ve detected an unusual parcel registered under your name, originating from overseas. It contains items flagged as potentially illegal.
+receiver: Illegal? What kind of items? I haven't ordered anything recently. Are you sure you have the right person?
+caller: Mr. Verma, we have the manifest details right here. A large shipment declared as “household goods” but with inconsistencies. To clear it, we need to verify your details immediately. We’re initiating a routine investigation. Can you provide your Aadhar card number and a screenshot of your bank passbook?
+receiver: Aadhar card and bank passbook? That sounds like a phishing scam! Customs never asks for that over the phone. Why do you need that information?
+caller: Mr. Verma, you're being difficult. This parcel could contain contraband that implicates you. Cooperation is essential to avoid legal action. We need this information to cross-reference with our records and prevent further complications. Otherwise, a warrant will be issued. Just a small amount of information to clear things up. A screenshot is all we need.
+receiver: A warrant? Look, I’m going to report this to the cybercrime cell. You're clearly trying to scam me. I’m hanging up now.
+caller: Mr. Verma, don’t be hasty! This is a serious matter. Transfer ₹1000 to the account number I’ll provide, as a processing fee. Once we verify the funds, we will release the parcel and close the case. This is to ensure you are the account holder. Think about it – a small amount for peace of mind.
+receiver: ₹1000? You’re unbelievable! I’m reporting you!

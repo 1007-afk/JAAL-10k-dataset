@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul, Paytm Customer Care se bol raha hoon. Aapke Paytm account mein ₹10,000 ka cashback offer hai, sirf new users ke liye. Claim karne ke liye, kuch details verify karni hogi.
+receiver: Paytm Customer Care? ₹10,000 cashback? Main toh new user nahi hoon na?
+caller: Haan ji, aapke account mein ek referral bonus add ho gaya hai, isiliye aap eligible hain. Verify karne ke liye, aapka OTP number bataiye jo aapko registered mobile number par mila hai.
+receiver: OTP? Main sunta nahi hu. Ek minute… Haan, OTP aaya hai. 456789.
+caller: Shukriya! OTP verified. Ab, security ke liye, humein aapke bank account se linked UPI ID chahiye. Yeh sirf confirm karne ke liye hai ki cashback sahi account mein jaaye.
+receiver: Bank account se linked UPI ID? Yeh toh kuch ghalat lag raha hai. Paytm mein to direct cashback milta hai.
+caller: Haan, lekin is offer ke liye bank account details hona zaroori hai, yeh new process hai. Fast ho jao, offer limited time ke liye hai. Jaldi se OTP send karo!
+caller: Aapka naam bataiye, sir, taaki mai aapke account details verify kar sakun.

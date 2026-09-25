@@ -1,0 +1,8 @@
+caller: Namaste, Yeh Arjun Singh bol raha hun, Tata Communications se baat kar raha hun.  Mujhe sunao, aapke mobile bill mein koi problem hai kya?  Humare paas ek amazing deal hai, ₹150 free recharge aur ₹500 ki discount aapki existing plan par.  Bas aapko humein apna pan card number aur bank account IFSC code dena hoga.  Aapko notification milega jab recharge complete ho jayega.  Aapko notification mila tha ya nahi?
+receiver: Oh, hello Arjun.  Haan, maine ek SMS pukaara tha, mujhe pata hai.  Mujhe bas apna pan aur bank details chahiye, hai na?
+caller: Haanji, bilkul!  Isi kevaan mein aapko ₹150 free recharge aur ₹500 ki discount mil jayegi.  Par, aapko apne bank statement mein bhi jaankaari dikhayegi.  Aapko koi darr nahi lagna chahiye, yeh secure hai.  Aapka pan card number aur IFSC code bataiye, please.
+receiver: Wait, wait.  Yeh jo pan card number…  Agar mai use de dunga, toh woh kaise secure rahega?  Mai ise kisi ko nahi bataungi.
+caller:  Darrne ki koi zaroorat nahi hai, Priya ji. Humare system mein data encrypt kiya gaya hai.  Aapka data safe hai.  Bhatakte hi aapko ₹150 recharge aur ₹500 ki discount mil jayegi.  Aapka pan card number aur IFSC code bataiye.  Hurry up, yeh offer jaldi chal raha hai!
+receiver: Okay, okay.  My pan card number is 8765432190123 and my IFSC code is HDFC0000345.  But, what if something goes wrong?
+caller:  Koi galti nahi hone wali hai.  Aapko bahot zyada thank you mil jayega.  Main abhi isse confirm kar deta hun.  Recharge complete hone wala hai.  Aapko confirmation SMS aa jayega.  Shukriya aapke business ke liye!
+receiver: Dhanyawad Arjun!  Theek hai, mai wait karta hun.  Ye offer sirf mujhe apply hoga, hai na?  Mai kisi ko nahi batayungi.

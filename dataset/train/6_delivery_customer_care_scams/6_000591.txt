@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Verma? This is Akash from Bluebird Courier. We're having trouble locating your package linked to order #WB7492. It seems there's an outstanding customs fee of ₹2850.
+receiver: Customs fee? I didn't order anything recently. Are you sure you have the right person?
+caller: Yes sir, the address matches perfectly. It’s a high-value item. To release the package, we just need you to verify a one-time OTP we'll send to your registered mobile number. Just for security purposes, you understand.
+receiver: An OTP? But why didn't I get any notification from the sender? And what high-value item are you talking about? I usually only order clothes online.
+caller: Sir, sometimes these notifications get blocked. As for the item, it’s listed as 'electronics'. To avoid any delays and potential return of the package, please share the OTP immediately. It's just a small fee to clear the customs process. Very standard procedure.
+receiver: Wait a minute. Electronics? I haven't ordered any electronics. This sounds suspicious. Can you give me a reference number or a contact number for Bluebird Courier so I can verify this with them directly?
+caller: Sir, reference numbers are usually issued after delivery. Look, time is of the essence here. The package could be sent back to the sender if we don’t resolve this quickly. Just the OTP, sir, and your package will be delivered tomorrow morning. Don't miss out!

@@ -1,0 +1,7 @@
+caller: Hello, is this Vivek Sharma? I’m calling from LoanExpress India. We saw your application for a personal loan. Just a quick verification, please.
+receiver: Yes, this is Vivek. What verification do you need?
+caller: Wonderful! To finalize your approval, we require a small processing fee of ₹7,500. This is a one-time charge to activate your account and ensure secure disbursement. It’s refundable upon loan release, of course.
+receiver: ₹7,500? That seems a bit high. I haven’t seen that mentioned in the application process.
+caller: It’s a new policy, Vivek ji, to prevent fraudulent activity. It’s very important. We can send you a UPI link to pay. Please, do it quickly so your loan can get approved. Otherwise, someone else might apply for the same amount.
+receiver: Okay, send me the UPI link. Let me see.
+caller: Sure, here’s the link: [invented UPI ID]. Please confirm payment immediately. And remember, it’s fully refundable. Once you've paid, your loan will be credited within 24 hours.

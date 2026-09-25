@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Verma? This is Priya from MobiKwik Customer Service. We're calling about your MobiKwik wallet. We’ve noticed a large cashback offer has been credited to your account – ₹15,000. Congratulations!
+receiver: MobiKwik? Cashback? ₹15,000? Mujhe toh koi notification nahi mila.
+caller: Yes, sir! It's part of our Diwali promotion. To activate this bonus and transfer the money to your bank account, we need to verify a few details. It's a quick process.
+receiver: Verify? Kya verify karna hai?
+caller: Just a one-time verification, sir. We need you to send ₹500 as a 'collect' request to our verification ID. This is to confirm your account is active and eligible for the cashback. Once we receive that, the ₹15,000 will be instantly transferred.
+receiver: ₹500 collect request? Kahan bhejna hai? Aur why do I need to send money to activate my cashback? It doesn’t sound right.
+caller: Sir, this is a standard security measure to prevent fraudulent claims. Many people try to exploit these offers. Don’t worry, your ₹500 will be credited back immediately after verification. Just send it to this UPI ID: mobikwik-verify-786.
+receiver:  Hold on a second. I am going to call MobiKwik’s official customer support line to confirm this. You sound suspicious.
+caller: Sir, please don’t delay! The offer is only valid for the next few minutes. If you miss this opportunity, you'll lose the ₹15,000 cashback! You won't want that, will you?

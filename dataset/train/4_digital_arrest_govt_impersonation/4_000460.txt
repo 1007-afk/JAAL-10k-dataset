@@ -1,0 +1,8 @@
+caller: Hello? Main Rohan Sharma, Indian Customs Department se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items mile hain.
+receiver: Illegal items? Mein toh koi parcel order nahi kiya tha. Kya parcel ka tracking number hai?
+caller: Haan, tracking number XYZ123456 hai. Parcel mein suspicious chemicals nikale hain, jisse aapko drug trafficking mein phas sakte hain.
+receiver: Drug trafficking? Yeh toh galat hai! Mein toh kabhi drugs nahi chhupaunga. Kaise nikale aapko chemicals?
+caller: Hamare system ne detect kiya hai. Yeh matter bahut serious hai aur CBI ise investigate kar rahi hai. Aapko case settle karne ke liye 50,000 rupees deposit karne honge.
+receiver: 50,000 rupees?! Mein kaise deposit karunga? Mein police station jaakar report karunga.
+caller: Police station jaane se na benefit hoga, case serious hai. Aapko video call pe aana hoga CBI officer se baat karne ke liye, tab tak case freeze rahega. Aapka phone number aur naam batao.
+receiver: Nahin, main call cut kar raha hoon. Yeh scam hai!

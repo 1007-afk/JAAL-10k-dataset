@@ -1,0 +1,18 @@
+caller: Namaste! Main Bharat Services se bol raha hoon. Aapke liye ek important update hai. Is call ko record kiya ja raha hai, aapki safety ke liye. Hume aapke account mein ek problem mili hai aur hume kuch details check karne ki zarurat hai. Agar aap apni account ko safe rakhna chahte hain, to please apna complete naam bataayein.
+receiver: Namaste ji, main [Receiver Name] hoon. Kya baat hai, account mein koi problem? Mujhe bataiye, kya ho raha hai?
+caller: Dhanyavaad, [Receiver Name]. Aapse confirm karna hai ki aapko yeh update pata hai. Account mein unka ek suspicious transaction dekha gaya hai. Iske wajah se, humein kuchh sawaal poochne honge. Pehle, aapki birthdate ka pehchaan karne ke liye, aapne mujhe apna age bataa sakte hain?
+receiver: Haan, mera umar [Age] saal hai. Suspicious transaction? Woh kya hai? Mujhe samajh mein nahin aa raha. Kya koi money transfer hua hai ya kuch aisa?  Bataiye, abhi kya karna hai?
+caller: Dhanyavaad, [Receiver Name]. Abhi koi money transfer nahin hua hai, lekin humein asap action lena hoga. Unka account access karne ki koshish shayad ho rahi ho. Isliye, aapne apne debit card ke pin code ko confirm karein.
+receiver: Debit card pin code? Yaaro, yeh kitna scary hai! Uh, uh… mujhe bataiye, woh kaise check karen?  Dekhe, woh hai [Pin Code].  Aapko yeh batana chahiye ki yeh sahi hai ya nahi.
+caller: Dhanyavada, [Receiver Name]. Humare system mein yeh confirm ho gaya hai. Ab, humein aapke address ke last three digits check karne hain. Kya aapmujse yeh bataayenge?
+receiver: Address ke last three digits?  Mujhe yeh yaad nahin aa raha.  Ek minute, main check karta hoon...  Haan, woh hain [Last Three Digits].  Please jaldi bataiye, ye toh bahut important hai.  Kya koi cheating ho rahi hai?
+caller: Hello, good evening. This is Rohan from Secure Solutions calling regarding an urgent matter about your online banking account. For quality control purposes, this call is being recorded. We’ve detected some unusual activity linked to your account and need to verify your identity before proceeding. Could you please state your full name as it appears on the account?
+receiver: Good evening, Rohan. My name is Priya Sharma. What kind of unusual activity have they found? Is something wrong with my account? Tell me what needs to be verified.
+caller: Thank you, Priya. We appreciate your cooperation. The system flagged a potentially fraudulent login attempt originating from a different location. To safeguard your account, we require confirmation of your primary residence telephone number.
+receiver: Fraudulent login? Seriously? Okay, my phone number is 9876543210. But why is this happening? What exactly are you doing to protect my account?
+caller: Thank you for providing that information, Priya. Just verifying your contact details ensures we can reach you if needed. Now, could you please confirm the last six digits of your bank account number for verification purposes?
+receiver: Last six digits? Okay, hold on one moment... They are 123456. This is getting a little strange, isn't it? Why so many questions?
+caller: Thank you, Priya. That confirms your account details. Next, to further strengthen your security, we need to verify your mother’s maiden name. Could you please provide that for us?
+receiver: Mother's maiden name? Really? This is becoming quite complicated. It’s Sarojini Devi. Is there really a problem with my account, or are you just testing me?
+caller: Thank you, Priya. That information is helpful. Finally, to ensure everything aligns correctly, could you please confirm the city where you primarily reside?
+receiver: City? Let me think... It’s Mumbai. Hurry up, what's going on? Is this a genuine security alert or some kind of scam?

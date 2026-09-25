@@ -1,0 +1,9 @@
+caller: Namaste, sir? Is this Mr. Verma? I’m calling from the Indian Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Haan, woh main hi hu. Kya hua? Parcel? Mein toh koi parcel order nahi kiya tha.
+caller: Sir, our initial assessment indicates the parcel contains restricted materials linked to illegal online gambling activities. To clear the parcel and prevent further legal complications, a small processing fee of ₹2500 is required.
+receiver: ₹2500? Gambling? Mein toh kabhi gambling nahi karta. Yeh kya bakwas hai? Aur parcel kaha hai?
+caller: Sir, the parcel is currently held at the Delhi customs warehouse. To expedite the clearance process, we need you to deposit the fee via UPI to the number I’ll provide. We need to resolve this quickly to avoid potential legal action against you. It’s better to settle this now, sir.
+receiver: UPI? Wait a minute. Koi official receipt milega mujhe? Aur warehouse ka address bataiye, mein khud jaakar dekhta hu. Yeh kuch gadbad lag rahi hai.
+caller: Sir, the receipt will be generated automatically after the transaction. Unfortunately, we cannot allow public access to the warehouse due to security protocols. The UPI ID is 8765432109@upi. Please transfer the ₹2500 urgently. We're receiving many calls regarding similar parcels.
+receiver: Dekhiye, mujhe yeh offer pasand nahi aa rahi hai. Main police mein report karunga agar aapko koi problem hai.
+caller: Sir, please don’t make hasty decisions. This is a serious matter, and we're trying to help you avoid further trouble. The deadline for payment is within the hour, or we will have no choice but to escalate this to the authorities.

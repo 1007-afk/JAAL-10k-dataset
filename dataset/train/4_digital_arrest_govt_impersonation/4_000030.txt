@@ -1,0 +1,12 @@
+caller: Namaste! Main Arjun Singh hoon. Tumhara phone number dekha tha, kya aapko ek image bheja tha? Kya yeh sachha number hai?
+receiver: Namaste Arjun Singh? Haan, woh main hi hoon. Image mila, thank you.
+caller: Good, good. [Receiver’s Name], tumhare phone mein image aaya tha, hai na? Yeh ek important document hai, police ne bheja hai.
+receiver: Haanji, Arjun Singh ji, image aaya hai. Police ne bheja? Seriously?
+caller: Haanji, seriously. Police wale kah rahe hain ki yeh urgent hai. Agar tumne yeh dekhna nahi kiya, toh bahut mushkil hoga.
+receiver: Okay, okay. Dekh raha hoon. Image mein kya dikh raha hai?
+caller: Image mein ek aadmi hai, Vijay Kumar. Woh tumhare ghar ke samne hai. Warna, tumhare kharch ho jayenge.
+receiver: Vijay Kumar? Woh kahaan hai?
+caller: Woh tumhare gate par hai. Agar tumne nahi dekha toh police tumhe call karegi.  Mujhe bhi call karega.
+receiver:  Arjun Singh ji, mein dekh raha hoon. Vijay Kumar ko dekha. Thank you.
+caller: Great!  Police thankful hai tumse.  Ab tumko koi kaam nahi hai, hai na?  Main kehna chata tha ki mere cousin ne ek new business idea bataya hai,  yeh ek bahut badi potential hai.  Agar tum interested ho toh main tumhe details de sakta hoon.
+receiver: Nahi Arjun Singh ji,  mein abhi kaam mein hoon. Business idea?  Nahin, thanks.

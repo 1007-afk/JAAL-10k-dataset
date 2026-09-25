@@ -1,0 +1,8 @@
+caller: Hello? Is this Mrs. Verma? I’m calling from SwiftShip Logistics. We have a small issue regarding your recent order from Meesho. The tracking number says it's stuck at our regional hub due to an unpaid customs clearance fee.
+receiver: Haan, bolie. Meesho se order toh kiya tha, lekin customs clearance fee? Yeh kya baat hui? Kitna fee hai?
+caller: It’s ₹2800, ma'am. A standard fee for items imported from overseas. To get the package released, we need you to make a quick payment through our secure portal. I'll send you the link.
+receiver: ₹2800? Meesho pe toh itna kuch nahi diya tha. Aur link? Main kabhi bhi kisi unknown link pe click nahi karti. Kitni secure hai yeh portal?
+caller: Ma'am, please don't worry. It's perfectly safe. We need this cleared urgently, otherwise, the shipment will be returned to the sender. Here’s the link: swiftship-payments.com. Just enter your card details and the amount.
+receiver: Swiftship-payments.com? Woh domain naam toh theek nahi lag raha. Meesho toh kabhi bhi aise link nahi bhejta. Aur ₹2800, woh bhi customs clearance fee? Main confirm karna chahti hoon, Meesho se direct baat karti hoon.
+caller: Ma’am, you’re wasting precious time! The deadline is expiring in just 15 minutes. If you delay, we can't guarantee the delivery. Just do it quick, otherwise your parcel will be lost forever. We have to refund you and send a legal notice.
+receiver: Legal notice? Suniye, mujhe samajh aa gaya hai. Yeh scam hai! Main call disconnect kar rahi hoon, aur police ko bhi report karungi.

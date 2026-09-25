@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Sharma? This is Inspector Verma from the Mumbai Customs Department. We've intercepted a package addressed to you containing suspicious items. It appears to be linked to a case of international money laundering.
+receiver: Customs? Package? What’s going on? I haven’t ordered anything.
+caller: Unfortunately, Mrs. Sharma, the contents are concerning. We need to verify your involvement. We have video evidence showing a transaction linked to your name. To clear this up and prevent further legal action, you’ll need to pay a small processing fee of ₹15,000. This will expedite the investigation.
+receiver: ₹15,000? This is ridiculous! I told you, I haven't ordered anything. Show me the evidence!
+caller: We can’t release the video over the phone due to security protocols. However, we can arrange a video conference with a senior officer to explain everything in detail. But, to even schedule that, the processing fee is required. We’re doing this to protect you from serious charges.
+receiver: Protect me? This sounds like a scam! Why can't I go to the actual Customs office to sort this out?
+caller: Mrs. Sharma, going to the office would cause unnecessary delays and could complicate the case. This is a sensitive matter, and we're handling it discreetly to avoid media attention. The fee ensures a swift and confidential resolution. Please pay quickly to avoid arrest.
+receiver: Arrest? Wait a minute... I'm calling my son.

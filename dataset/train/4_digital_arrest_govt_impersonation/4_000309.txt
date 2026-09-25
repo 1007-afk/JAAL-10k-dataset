@@ -1,0 +1,8 @@
+caller: Namaste, I’m calling from the Directorate of Revenue Intelligence, DRI. We have detected suspicious activity linked to your PAN card. A large sum of money, approximately ₹75,000, was recently transferred from an overseas account to a shell company and your PAN is associated with it.
+receiver: Kya? Mere PAN card se? ₹75,000? Main toh kabhi bhi nahi bhula. Aap kaun bol rahe hain?
+caller: Ji, main Inspector Sharma, DRI se bol raha hoon. This is a serious matter of money laundering, sir. To clear this up quickly and avoid legal action, we need to verify your details. Can you please provide your full name and date of birth?
+receiver: Inspector Sharma? Yeh bahut serious hai. Meri full name… Arjun Verma, and my date of birth is 15th August 1988. Lekin, yeh ₹75,000 ka transfer… mujhe toh kuch yaad nahi.
+caller: Very good, Mr. Verma. Now, to confirm your identity and proceed with the inquiry, we need to access your bank account details for a quick verification. Could you please tell me the last four digits of your bank account number? We need this urgently to prevent further complications.
+receiver: Bank account number? Kaise verify karenge? Why do you need my bank account number? I think this is a little weird. I'm going to call my bank and check.
+caller: Sir, please do not hang up! This is standard protocol. We're trying to protect you from being implicated in a serious financial crime. We just need those last four digits, then we can start processing the clearance. Otherwise, we’ll have to issue a legal notice.
+receiver: Legal notice? Theek hai, theek hai. I will note down your number and call you back after consulting with my lawyer. I’m

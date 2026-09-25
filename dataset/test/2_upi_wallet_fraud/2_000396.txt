@@ -1,0 +1,8 @@
+caller: Namaste, Madam. Mein BharatPay se Rohit bol raha huun. Aapke BharatPay wallet mein ₹5000 ka cashback offer aa gaya hai.
+receiver: ₹5000? Kaise? Mujhe koi notification nahi aaya.
+caller: Haan ji, yeh ek special offer hai sirf select customers ke liye. Isko claim karne ke liye, aapko sirf apna BharatPay UPI ID confirm karna hai.
+receiver: UPI ID? Kyu? BharatPay toh mera ID automatically use karta hai na?
+caller: Woh toh hai, par is offer ke liye aapko manually verify karna padega. Security ke liye. Thoda sa process hai, Madam. Just tell me your UPI ID, and I'll guide you.
+receiver: Yeh kuch galat lag raha hai. BharatPay ne kabhi phone pe mera ID nahi manga. Main report karunga.
+caller: Madam, please, yeh last chance hai. Offer aaj raat tak hi valid hai. Just give the ID, aur ₹5000 aapke account mein deposit ho jayega. Don't miss this opportunity.
+receiver: Nahi, thank you. Main call cut karunga.

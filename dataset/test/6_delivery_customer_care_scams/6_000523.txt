@@ -1,0 +1,8 @@
+caller: Namaste, main Vivek Sharma hoon, BlueSky Courier se baat kar raha hoon. Aapke naam par ek parcel aaya hai, lekin address mein kuch confusion hai.
+receiver: Haan, main sun rahi hoon. Woh parcel kya hai?
+caller: Woh ek electronics item hai, value ke hisaab se kaafi important. Delivery karne se pehle, mujhe aapke ID proof ke last four digits chahiye – bas verify karne ke liye.
+receiver: ID proof? Mujhe yeh thoda suspicious lag raha hai. Aap direct address proof bhi check kar sakte hain na?
+caller: Ji, bilkul. Lekin system mein kuch technical issue aa raha hai. Just four digits hi kaafi honge, Madam. Security ke liye.
+receiver: Okay, fine. Meri Aadhar card ke last four digits 4567 hain.
+caller: Shukriya Madam. Ab, parcel ke liye ek small delivery charge apply ho raha hai, 350 rupees. Aapko ek secure link par payment karni hogi.
+receiver: Payment? Lekin mujhe to free delivery hone ki umeed thi.

@@ -1,0 +1,18 @@
+caller:  Is a recorded message from Secure Solutions Logistics. We attempted to deliver a package to your residence yesterday, but unfortunately, we couldn't locate anyone available to receive it. Please contact us immediately at 09876543210 to arrange for redelivery. Your tracking ID is A789B2C. Kindly call back within 24 hours.
+receiver: Hello? Oh, that’s about the parcel delivery, yeah? I have the number 09876543210, correct? And the ID A789B2C? Okay, I will call now. Thanks.
+caller: Hello? Yeah, that’s about the parcel delivery, yeah? I have the number 09876543210, correct? And the ID A789B2C? Okay, I will call now. Thanks.
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi dikkat rahi thi?
+caller: Haanji, thanks for calling back. Ji, actually, there was a minor complication during the delivery attempt. We require some verification information to ensure secure redelivery. Could you please state the name and date of birth associated with this shipment?
+receiver: Haanji, zaroor. Address hai [Your Full Delivery Address]. Kya woh sahi hai? Aur kya aap bata sakte hain ki delivery mein kya specific problem hui thi? Taki aage se problem na ho.
+caller: Haanji, thanks for calling back. Ji, there was a small error on our end – the GPS signal was weak at your location, which caused difficulty in finding your house. We apologize for any inconvenience. To proceed with the redelivery, could you provide me with an alternate time window that works best for you?
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi dikkat rahi thi?
+caller: Haanji, we appreciate your patience. The system flagged a potential security risk due to the previous failed attempt. For verification purposes, can you confirm the last four digits of the credit card used for the purchase?
+receiver: Haanji, zaroor. Address hai [Your Full Delivery Address]. Kya woh sahi hai? Aur kya aap bata sakte hain ki delivery mein kya specific problem hui thi? Taki aage se problem na ho.
+caller: Haanji, thank you for confirming. Just one moment while I update the system...  Okay, we have scheduled your redelivery for tomorrow between 10 AM and 12 PM. Is that acceptable?
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi dikkat rahi thi?
+caller: Haanji, we appreciate your cooperation.  We value your business and want to ensure a smooth delivery experience.  Please note that if we cannot reach you again, we may have to leave the package with a neighbor.
+receiver: Haanji, zaroor. Address hai [Your Full Delivery Address]. Kya woh sahi hai? Aur kya aap bata sakte hain ki delivery mein kya specific problem hui thi? Taki aage se problem na ho.
+caller: Haanji, just one final check - can you please confirm the mobile number you use most frequently?
+receiver: Haanji, main abhi call kar raha hoon aapke diye hue number par. Parcel delivery schedule karne ke liye. Kya aap bata sakte hain ki delivery mein koi dikkat rahi thi?
+caller: Haanji, thank you! That’s all we needed. Your redelivery is confirmed. Have a great day!
+receiver:  Haanji, thanks to you. Bye bye!

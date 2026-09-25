@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main Ankit Verma, LoanConnect se baat kar raha hoon. Aapne recently apnaadhar.online par ek personal loan ke liye apply kiya tha, hai na? Verification ke liye call kiya tha, sir.
+receiver: Haan, ji. Mainne apply kiya tha. Kya baat hai?
+caller: Sir, aapka application approve ho gaya hai, bahut achha news hai! Lekin, security check ke liye, mujhe aapke bank account number aur OTP (One-Time Password) ki zaroorat padegi.
+receiver: OTP? KYC ke liye?
+caller: Haan sir, exactly. Just ek baar OTP de dijiye, aur paisa aapke account mein aaj hi transfer ho jayega. Rupees 50,000, guaranteed!
+receiver: Thoda wait kar sakta hoon? Main confirmation karna chahta hoon.
+caller: Sir, time limited hai. Dusre bahut se log bhi apply kar rahe hain. Agar aap abhi nahi dete, toh offer chala jayega. Rupees 50,000, sir! Aapko sirf OTP dena hai.

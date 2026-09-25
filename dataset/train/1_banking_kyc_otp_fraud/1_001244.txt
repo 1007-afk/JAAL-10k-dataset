@@ -1,0 +1,7 @@
+caller: Namaste, main ICICI Bank se Rohan bol raha hoon. Sir, aapke naam par ek transaction fail hua hai, 12,500 rupees ka. Kisi online website par kuch fraud hua hai.
+receiver: 12,500? Kaise? Maine toh kuch nahi kiya.
+caller: Sir, seedhe OTP hone se yeh fraud hua hai. Ab hamein aapke account ko secure karne ke liye kuch details verify karna hoga. Aapka Aadhaar card number aur ek OTP jo aapko SMS mein milega, bataiye. Jaldi karna hoga, sir, warna account block ho sakta hai.
+receiver: Account block ho jayega? Wait, wait. Meri KYC toh complete hai na? Aur OTP SMS hi nahi aaya mujhe.
+caller: Sir, system mein technical fault hai, OTP delay ho raha hai. Lekin account block hone se bachne ke liye jaldi karna hoga. Humein sirf Aadhaar number aur ek verification code chahiye jo main aapko bataunga. Agar aap late karte hain, toh account permanently block ho sakta hai aur paisa bhi chala jayega.
+receiver: Permanent block? Yeh kuch toh gadbad lag rahi hai. Main branch mein jaaunga.
+caller: Sir, branch khulne mein time lagega aur account jo khota ho sakta hai. Sir, please, bas ek baar bataiye, mein aapka account secure kar dunga. Sirf Aadhaar number...

@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Verma? My name is Inspector Kumar, calling from the Delhi Customs Department. We've intercepted a parcel addressed to you containing suspected contraband.
+receiver: Haan, bolie. Verma yahan hoon. Parcel? Mujhe koi parcel nahi mila.
+caller: Sir, our records show a parcel originating from abroad was sent to your address. Preliminary scans indicate the presence of illegal substances. We need to verify your involvement to prevent further legal complications.
+receiver: Illegal substances? Yeh kya bakwaas hai? Main toh kabhi parcel order bhi nahi kiya. Who sent it?
+caller: Sir, the sender’s details are currently being investigated. However, to clear this issue and prevent a formal investigation, you need to pay a small processing fee of ₹7500 as a security deposit. You can pay via UPI.
+receiver: ₹7500? What security deposit? Is there any way I can see this parcel?
+caller: Sir, the parcel is currently held at our central depot. Displaying it involves further investigation.  The fee is simply to expedite the verification process.  We need to secure it, sir. Please pay the ₹7500 to UPI ID: customs.verification.75.
+receiver: But why do I need to pay? If I'm not involved, why should I pay anything? What proof do you have this is even my parcel?
+caller: Sir, these are standard procedures. To avoid a lengthy legal process and potential arrest, cooperating now is the best option. Failure to comply will result in a summons and further charges. Please pay the amount immediately to avoid any problems.

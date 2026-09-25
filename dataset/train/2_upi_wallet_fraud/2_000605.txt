@@ -1,0 +1,7 @@
+caller: Namaste! Main Bharat Aadhaar Seva se Rahul bolta hoon. Aapke Aadhaar card mein kuch update hone ke karan, OTP verification ki zaroorat hai.
+receiver: Bharat Aadhaar Seva? KYC update ke liye call aa rahi hai? Mujhe toh koi message nahi aaya tha.
+caller: Haanji, sir. System mein technical issue hone ke karan message nahi gaya. OTP verify karne ke liye aapko sirf ₹50 processing fee bhar deni hai.
+receiver: ₹50 fee? Aadhaar update ke liye fee lagti hai? Main toh online check karta hoon.
+caller: Sir, online system mein kuch problem aa raha hai. Aapko fast OTP verify karna hai, warna aapka Aadhaar card block ho sakta hai. ₹50 fee sirf 10 minute ke liye valid hai. Paytm pe send karein.
+receiver: ₹50? Aur account block ho jayega? Chalo theek hai, Paytm pe send kar deta hoon. Par fir OTP kaise verify karwaunga?
+caller: Haanji, sir. ₹50 send karne ke baad aapko ek OTP milega, woh OTP mujhe send karein. Jaldi karein, sir, time barbaad ho raha hai.

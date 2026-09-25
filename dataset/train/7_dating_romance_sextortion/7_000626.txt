@@ -1,0 +1,7 @@
+caller: Hi Priya! I'm Raj, from Mumbai. Just stumbled across your profile on 'AshaConnect' - you're absolutely gorgeous! What are you up to tonight?
+receiver: Hey Raj! Thanks for the compliment. Just relaxing at home, watching a bit of TV. AshaConnect, huh? Nice to meet you.
+caller: That's lovely! I'm feeling a bit restless, myself. You know, I'm a software engineer, working on a really exciting project right now – a new online game. It’s consuming most of my time! Listen, I was wondering if you'd be open to sharing a few pictures? It would be great to actually see who I’m chatting with.
+receiver: A software engineer, sounds interesting. I'm a teacher, actually. Pictures? Well, I'm a little hesitant to just send them to a stranger online. How about we chat a bit more first? What kind of games are you building?
+caller: Fair enough, Priya. I understand your caution. It’s a big deal. The game is a fantasy RPG – think dragons and magic and epic quests! Look, I know this might sound a bit odd, but I’m facing a real emergency. My mother is in the hospital and they need 50,000 rupees for a specialist consultation. It's urgent. Could you possibly help me out? Just a small amount, even? I promise to pay you back as soon as I get paid.
+receiver: A hospital emergency? That's awful, Raj! I'm so sorry to hear about your mother. But sending money to someone I barely know… I don't think that's wise. Is there anyone else who can help you? Can you show me some proof, like a hospital bill or something?
+caller: I totally get why you’re hesitant, Priya.

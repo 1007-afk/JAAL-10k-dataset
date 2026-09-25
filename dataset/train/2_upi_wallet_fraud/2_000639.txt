@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Rahul se baat kar raha hoon, Google Pay se. Aapke Google Pay account mein ₹7,500 ka cashback offer chala hai, Diwali ke ustav par.
+receiver: Google Pay? Cashback offer? ₹7,500? Mere account mein?
+caller: Haan sir, bilkul. Offer claim karne ke liye, aapko bas apne bank account ka last four digits aur OTP share karna hoga. Isse hum verify kar sakte hain ki aap sahi account holder hain.
+receiver: Bank details aur OTP? But why do I need to give this? Isn't it risky?
+caller: Sir, yeh Google Pay’s security protocol hai. Kisi bhi offer ko claim karne se pehle verification zaruri hai. Aur ₹7,500 ka cashback miss mat karna! Offer sirf aaj tak hi hai. Jaldi karo!
+receiver: Okay, okay. Paanch minute ruk jao, main check karta hoon. Woh last four digits... wait.
+caller: Jaldi karo sir, time kam hai. Offer expire ho jayega. Aapka bank name batao, phir main OTP send karunga.
+receiver: Arre yaar, yeh toh scam lag raha hai. Main bank details nahi dunga. Google Pay se koi bhi aise offers nahi deta.
+caller: Sir, aap galat soch rahe hain. Yeh bilkul sahi hai. ₹7,500 cashback! Aapka loss hoga.

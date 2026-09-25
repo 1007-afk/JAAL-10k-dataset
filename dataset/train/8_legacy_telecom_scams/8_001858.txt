@@ -1,0 +1,16 @@
+caller: Hello? Hello! Suno, aap sunaahein haan? Main Reliance Jio se call kar raha hu. Aapne Reliance Jio ne ek message bheja tha na? Woh message mein bol rahi thi ki aapke paas ek free data voucher hai, jiska value ₹500 hai. Isme aapko 3 din ke liye unlimited internet access milegi, absolutely free!  Yeh offer sirf aaj ke liye hai, so hurry up! Dekhiye, message mein kaha gaya hai ki aapko verification karne wali hai.  Toh, main aapse kuch sawaal puchunga, thoda sa kaam hoga.
+receiver: Ji ji, sunao! Reliance Jio se ho? Un message mein kya poochhenge?
+caller: Haan ji, bas ek cheezin pata karna hai. Aapka name kya hai? Aur aap kaunse city mein rehte hain?  And what’s your mobile network provider, please?  Isliye mein jaanta hoon ki aapko jo data voucher mila hai woh aapko sahi tarah se deliver karne wali hai.  Aapka 3 din ka unlimited internet, bas kuch hi second mein aapke phone par available hoga!
+receiver: Ji, mera naam Amit Kumar hai. Main Delhi mein rehta hoon, Jaipur Road par. Aur main Airtel use karta hoon.
+caller: Excellent, Amit! Thank you for confirming. Now, just to double check, can you tell me the last three digits of your mobile number? It’s just a quick security step to ensure we send you the correct voucher. Don’t worry, we won’t store this information.
+receiver: Last three digits? Hmm… let me see… they are 234.  Aapko aur kuchh chahiye?
+caller: Fantastic, Amit! Just one final detail. To activate the voucher completely, can you confirm the IMEI number of your phone? It’s usually printed on the back of your phone case. This ensures that only your device can access the free data.
+receiver: IMEI number?  Main unki website par dekh lunga. Yeh seriously hai kya?
+caller: Hello? Hello! Kaise ho? Main Vodafone Idea se calling kar raha hu. Tumne Vodafone Idea ne ek notification dekha tha na?  Woh notification mein kaha gaya tha ki tumhare paas ₹200 ka bill waiver offer hai.  Tumko ₹200 ka refund mil sakta hai, lekin tumko verification karna hoga.  Hurry up, offer khatam hone वाला है!  Toh, main tumse kuch sawaal puchunga, thoda sa kaam hoga.
+receiver: Ji ji, bataiye. Vodafone Idea se ho?  Kya poochhenge?
+caller: Haan ji, bas kuch basics pata karna hai. Tumhara naam kya hai? Aur tum kitne rupees ka mobile recharge karte ho?  Itni simple baat hai, tumko ₹200 waive karne hai!  Tumhara 200 rupee ka bill waiver, bas kuch hi second mein complete ho jayega!
+receiver: Ji, mera naam Priya Devi hai. Main Paytm through Recharge karte ho, aur firkin ₹150 recharge karta hoon.
+caller: Okay, Priya! Thank you for confirming. Now, just to verify your identity, could you please provide the last four digits of your mobile number?  It's a standard procedure, don't worry.  We just want to make sure you receive your refund correctly.
+receiver: Last four digits?  Hmm... 7890.  Aapko aur kuchh chahiye?
+caller: Wonderful, Priya! One moment, please.  To confirm the activation, can you tell me the model name of your smartphone?  It's a security measure to prevent fraudulent claims.  Just give me the exact name – like Samsung Galaxy A13 or something similar.
+receiver: Smartphone ka model?  Mujhe yaad nahi.  Yeh kya bakwaas hai?

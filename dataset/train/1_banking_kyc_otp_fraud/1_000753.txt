@@ -1,0 +1,16 @@
+caller: Namaste, mai Airtel se Rahul bol raha hoon. Aapke Airtel account mein kuch suspicious activity detect hui hai. KYC update karna bahut zaroori hai, warna aapka number suspend ho sakta hai.
+receiver: Kya? Suspicious activity? Main toh kisi bhi tarah ka koi suspicious kaam nahi kiya.
+caller: Haan sir, system ne detect kiya hai. Aapko ek OTP aaya hoga, please woh bata dijiye verification ke liye.
+receiver: Haan, aaya tha. 5829.
+caller: Thank you sir. Ab, security ke liye, mujhe aapka Aadhaar card ka last 4 digits bhi chahiye.
+receiver: Aadhaar card ka number? Main woh kyun doon?
+caller: Sir, ye bahut zaroori hai. Airtel ki policy hai ki account secure rakhne ke liye customer details verify karna padta hai. Agar aap bata nahi sakte toh humko number suspend karna padega.
+receiver: Par main police mein report bhi kar sakta hoon, agar koi fraud hai.
+caller: Sir, aapko report karne ki zarurat nahi hai. Hum toh bas aapki help kar rahe hain. Please, ek minute toh de dijiye. Account suspend hone se bach jayega. Bata dijiye last 4 digits.
+receiver: Okay, fine. Last 4 digits hain 4578.
+caller: Thank you sir. Ab, ek aur cheez chahiye. Aapke bank account ka naam bataiye jo aapke Airtel number se linked hai.
+receiver: Bank account ka naam? Abhi main nahi bata sakta. Mujhe sochne do.
+caller: Sir, please jaldi kijiye. System se auto-generated warning message jaa raha hai. Account suspend hone mein bahut kam samay bachha hai.
+receiver: Okay, okay… Account ka naam… Deepak Sharma.
+caller: Thank you sir. Aapka account ab secure hai. Aapko koi message milega jismein aapko details confirm kar rahe hain.
+receiver: Theek hai. Mujhe message milne ka wait karunga.

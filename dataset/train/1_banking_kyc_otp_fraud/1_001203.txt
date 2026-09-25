@@ -1,0 +1,7 @@
+caller: Namaste, mein Axis Bank se Rohit bol raha hoon. Aapke Axis Bank account mein kuch ajeeb transactions dikh rahe hain, aur security ke vajah se aapka account suspend hone ke taras par hai.
+receiver: Account suspend? Kya hua? Mujhe toh koi notification nahi aaya.
+caller: Sir, ek OTP aapke phone par aaya tha, KYC update karne ke liye. Aapne shayad galat kar diya. Account ko safe rakhne ke liye, woh OTP number mujhe bataiye.
+receiver: OTP? Maine toh koi OTP nahi mila. Aur aapne mujhe OTP number kyun chahiye? Bank toh kabhi aise nahi puchta.
+caller: Sir, ye ek urgent matter hai. Account suspend hone se bachne ke liye, mujhe OTP chahiye. Ye sirf 2 minute ka kaam hai. Agar aap abhi nahi batayenge, toh account block ho sakta hai, aur aapka paisa bhi risk mein aa sakta hai.
+receiver: Theek hai, ek pal rukiye. Mein Axis Bank ke official number se confirm kar leta hoon. Aapko thoda wait karna hoga.
+caller: Sir, please jaldi karo! Account suspend hone mein sirf kuch minute bache hain. Mujhe woh OTP number jald se jald chahiye.

@@ -1,0 +1,6 @@
+caller: Namaste! Main BharatPay se Ankit bol raha hoon. Aapke BharatPay wallet mein kuch suspicious activity detect hui hai. Security ke liye, humein aapke wallet PIN aur OTP verify karna hai.
+receiver: BharatPay se? Mere wallet mein suspicious activity? Maine toh kuch bhi aat hi nahi. OTP share karne se pehle mujhe confirm karna hai ki yeh BharatPay ka official call hai.
+caller: Haanji, bilkul! Aapko doubt hona completely normal hai. Aap BharatPay customer care number pe call karke verify kar sakte hain – 1800-200-0300. Lekin jab tak aap verify karte hain, hum line par hi wait kar rahe hain taaki aapko koi inconvenience na ho.
+receiver: Okay, wait karo. Main check karti hoon. (pause) Haan, toh, BharatPay ne mujhe hi call kiya hai. Pero, OTP share karne se pehle mujhe pata hai ki phishing bhi hota hai. Tumhara caller ID kya dikha raha hai?
+caller: Sir, ek technical issue ki wajah se caller ID kabhi kabhi sahi nahi dikhata. Lekin tension mat leiye. Hum aapko ek cashback offer bhi provide kar rahe hain ₹2000 ka. Ye offer sirf security verification ke baad hi activate hoga.
+receiver: ₹2000 cashback? Sunke toh dil khush ho gaya! Pero OTP share karne se pehle mujhe yeh confirm karna hai ki yeh offer official hai. BharatPay app mein toh kuch dikhata nahi hai.

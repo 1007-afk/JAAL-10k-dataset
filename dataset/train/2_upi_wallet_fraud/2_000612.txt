@@ -1,0 +1,7 @@
+caller: Hello, is this Sunil Verma? I'm calling from FreeCharge. There's a pending UPI collect request of ₹2500 from a merchant. It's showing as failed.
+receiver: Hello? ₹2500? A collect request? I didn't initiate anything like that. Which merchant was it?
+caller: It was from 'Flipkart Shopping'. Seems like there was an issue processing your cashback. To complete the refund, we just need your UPI ID to push the funds directly.
+receiver: Flipkart? But I haven't shopped on Flipkart recently. And why a collect request? They usually just credit back to my bank. This feels a bit fishy.
+caller: Sir, sometimes there are technical glitches. This is a new, faster method they’re testing for refunds. Very secure, I assure you. Just give me your UPI ID, and it will be sorted in minutes.
+receiver: I’m still not comfortable sharing my UPI ID. Can you at least give me a reference number for this supposed transaction or tell me the order number from Flipkart? I’ll verify it with them directly.
+caller: Sir, reference numbers are not part of this new system. Flipkart asked us to skip those steps for speed. Look, this is your money we’re talking about. Give me the ID, and you’ll have it back immediately. Don't miss out!

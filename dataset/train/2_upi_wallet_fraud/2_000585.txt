@@ -1,0 +1,8 @@
+caller: Namaste! Main Rajneesh, Paytm Customer Care se. Aapke Paytm wallet mein ₹5000 ka cashback offer aa raha hai, sirf limited time ke liye.
+receiver: Paytm cashback? ₹5000? Mujhe toh koi notification nahi aaya.
+caller: Haan ji, special customers ke liye hi offer hai. Verification ke liye aapko sirf ₹50 ka processing fee deposit karna hoga. ₹50 Paytm wallet mein deposit karke OTP share karein, cashback instantly activate ho jayega.
+receiver: ₹50 fee? Paytm wallet mein deposit karna hai? Aur OTP bhi dena hai? Yeh thoda suspicious lag raha hai.
+caller: Sirf ₹50, otherwise offer expire ho jayega. ₹50 deposit karte hi cashback aapke wallet mein add ho jayega. Jaldi karein, offer abhi khatam hone wala hai!
+receiver:  Ek minute. Main Paytm app check karta hoon.
+caller:  Sirf 5 minute bach gaye hain offer ke liye! Jaldi decide karein, warna ₹5000 ka loss aapka hoga. UPI ke through ₹50 deposit karein, link main hai.
+receiver: Thoda wait karein, main check karta hu.

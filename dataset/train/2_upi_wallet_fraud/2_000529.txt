@@ -1,0 +1,6 @@
+caller: Namaste, sir? Mein Amazon se Rohit bol raha hoon. Aapko ek achha cashback offer mil raha hai apne Amazon Pay wallet par.
+receiver: Amazon Pay? Cashback offer? Woh kaise? Bataiye.
+caller: Ji, sir, aap apne Amazon Pay wallet mein ₹5000 recharge karayen, aur aapko ₹1500 ka cashback milega. Bahut limited time offer hai, sir.
+receiver: ₹1500 cashback? ₹5000 recharge? It’s sounding a little too good to be true, yaar.
+caller: Sir, trust me, ye ek special promotion hai. Isko avail karne ke liye, aapko ek small processing fee bhar dena hai, ₹100 sirf. ₹100 bharne ke baad, cashback automatically aapke account mein deposit ho jayega. UPI se bhar sakte hain, koi problem nahi hai.
+receiver: ₹100 processing fee? But why? And why should I pay before getting the cashback? This seems very suspicious, sir. I think I'll just skip this offer.

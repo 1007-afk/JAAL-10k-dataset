@@ -1,0 +1,8 @@
+caller: Namaste, sir? My name is Inspector Sharma, calling from the Directorate of Revenue Intelligence, Delhi unit. We’ve detected some unusual activity linked to your bank account – specifically, a large sum of money being transferred overseas to a suspected shell company involved in illegal gold smuggling.
+receiver: Oh dear! Really? I wasn't aware of any such activity. I don't do any international transfers.
+caller: Yes sir, it appears the transaction was masked, but our cyber team traced it back to your account. To avoid legal complications, you need to cooperate. We require you to transfer ₹50,000 to a secure government account as a temporary hold. We’ll investigate further and clear your name once everything is verified. I can give you the account details.
+receiver: Fifty thousand? But I’m not even sure what this is about. Can’t I speak to someone else, or get some clarification?
+caller: Sir, time is critical. If you delay, we might have to issue a warrant for your arrest. I understand this is unsettling, but we need to act swiftly to prevent you from being implicated in a serious crime.  I can put you on video call with my senior so you can confirm. Are you ready for that?
+receiver: A warrant? Okay, okay, just… let me check something on my phone quickly. Give me a minute.
+caller: Please hurry sir. The legal team is waiting. We’re trying to protect you from this, but the evidence is mounting. The senior is ready to speak with you, and we need your immediate confirmation about the transfer.
+receiver: Wait a second… I’m calling my lawyer.

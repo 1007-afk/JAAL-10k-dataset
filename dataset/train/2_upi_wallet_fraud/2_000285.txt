@@ -1,0 +1,7 @@
+caller: Hello sir, this is Rohan from PhonePe security. We have detected some unusual activity on your account.
+receiver: Unusual activity? What kind of activity? Is everything alright?
+caller: Yes sir, but to secure your account, we need to verify a small processing fee of ₹99. This is a one-time charge to confirm you are the legitimate owner.
+receiver: ₹99? Why wasn't I informed about this? And why PhonePe is asking for money?
+caller: Sir, it's a new security protocol. To avoid any fraudulent transactions, we are implementing this verification. Just send ₹99 through UPI to the number I’ll provide. It will instantly clear your account.
+receiver: Let me check with PhonePe's official website first. I’m not comfortable sending money based on a call.
+caller: Sir, the website has outdated information. This is a time-sensitive matter. If you delay, your account will be temporarily suspended for 24 hours for security reasons. Please hurry. Send the ₹99 and I'll send you the UPI ID.

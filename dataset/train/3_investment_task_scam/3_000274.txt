@@ -1,0 +1,16 @@
+caller: Tum sun rahe ho kya? Mera naam Rohan hai. Main tumhein ek badi deal ke bare mein baat karne waala hun.
+receiver: Hi Rohan, sun rahi hu. Kya deal hai?
+caller: Haan, main theek hoon. Priya, aapke sawaalon ka jawaab hai Alpha-789. Yeh ek super sazon ke liye aapke liye ek bahut hi faydaful chance hai.
+receiver: Okay, Rohan, Alpha-789. Bolo, ye deal kya hai?
+caller: Dekho Priya, yeh deal tumhein ek naye mitra banane ki dawa deta hai. Ek mitra jo tumhari madad karega, tumhare zariye tumhara pratha badhenga. Yeh ek bahut hi shukriya offer hai.
+receiver: Hmm, ek naya mitra jo mujhe madad karega? Toh yeh deal kya kar sakta hai? Batao mujhe zyada jaankari den.
+caller: Priya, yeh deal sirf tumhein ek naya mitra banane ka mauqa deta hai. Woh tumhari madad se tumhara pratha badhenga. Aapko samajh mein aa raha hai na? Aapko bas ‘Alpha-789’ kehna tha, aur woh tumne kar liya. Ab woh mitra tumhare liye maujood hai. Abhi sirf 3 chanse bache hain, soch lein kya karna hai.
+receiver: Okay, Rohan, so basically, yeh deal sirf ek naya mitra banane ka mauqa hai, aur Alpha-789 bolkar maine usko accept kar li hai? Bas iske baad kuch aur nahi hoga? Aur kitne aur chances bache hain, tumne kaha tha 3?
+caller: Suno madam, mera naam Sanjay hai. Main aapko ek important information dena chahta hun. Aapke liye ek special scheme chal raha hai.
+receiver: Hello Sanjay, bataiye kya scheme hai?
+caller: Haan, main theek hoon. Shanti, aapke query ka solution hai Beta-221. Yeh ek bahut hi lucrative opportunity hai, jisse aap apne future secure kar sakte hain.
+receiver: Okay Sanjay, Beta-221. Jo bhi scheme hai, batao mujhe usmein kya hai?
+caller: Dekho Shanti, yeh scheme aapko ek new investment option dega. Is mein aapka paisa safe rahega aur aapko earning bhi hogi. Yeh ek bahut hi beneficial offer hai.
+receiver: Hmm, ek new investment option? Jisse paisa safe rah sake? Batao mujhe yahaan par zyada deto.
+caller: Shanti, yeh scheme sirf aapko ek new investment option banana hai. Usmein aapka paisa safe rahega aur aapko earning bhi hogi. Aapko samajh mein aa raha hai na? Aapko bas ‘Beta-221’ kehna tha, aur woh aapne kar diya. Ab woh option aapke liye available hai. Abhi sirf 4 chances bache hain, soch lein kya karna hai.
+receiver: Okay Sanjay, so basically, yeh scheme sirf ek new investment option banana hai, aur Beta-221 bolkar maine usko accept kar li hai? Bas iske baad kuch aur nahi hoga? Aur kitne aur chances bache hain, tumne kaha tha 4?

@@ -1,0 +1,7 @@
+caller: Namaste, sir. This is Inspector Raj from the Directorate of Enforcement. We are investigating a case of illegal funds transfer linked to your mobile number.
+receiver: Illegal funds transfer? What are you talking about? I haven’t done anything like that.
+caller: Sir, our records show large sums of money were routed through your mobile wallet, Paytm, related to an online gambling ring. This is a serious matter, sir. We need to verify your involvement to avoid legal consequences.
+receiver: This is ridiculous! I only use Paytm for small purchases. How can my number be linked to gambling? Can you give me a case number or the name of the police station you are calling from?
+caller: Sir, providing a case number at this stage would compromise the investigation. We need you to cooperate fully. To clear this up quickly, we need you to deposit ₹15,000 as a penalty to demonstrate your willingness to cooperate. This will show you are not involved in these illicit activities.
+receiver: ₹15,000? That’s extortion! I’m not paying anything. This is a scam. I’m reporting this to the cybercrime helpline right now.
+caller: Sir, please, don't do that. This is to protect you. If you don't pay, a warrant will be issued against you, and you will be arrested. We can arrange a video call with a senior officer to explain everything, but the deposit must be made first. Think about it, sir. Your future is at stake.

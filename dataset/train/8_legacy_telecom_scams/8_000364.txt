@@ -1,0 +1,18 @@
+caller: Hello? Hello? Aapko yaad hai ki maine aapko bataya tha ki aapko ek "GoldenTech" Smartwatch ka prize mila hai? Sirf 10 baaki hain, toh jaldi karni hogi! Agar aap apni smartwatch receive karna chahte hain, toh please is number par call karein: 08879876543. Koi bhi mobile se call mat karein, sirf landline se hi call karenge, otherwise delivery delay ho sakta hai. Koi sawal hai?
+receiver: Oh wow, a GoldenTech Smartwatch prize? Really? Thanks for letting me know. Okay, just 10 left, so I have to hurry. 08879876543, and you want us to use a landline, correct? Yes, that’s right. Delay if we use mobile? That makes sense. No questions at this point.
+caller: Ji haan, sirf 9 baaki hain ab! Jaldi karein, Mr. Patel! Aur yaad rakhiye, landline se hi call karna hai, ya phir delivery mein problem aayegi. Main aapki smartwatch ko dekhkar bahut khush hoon!
+receiver: Only 9 left, Mr. Patel? Okay, okay, noted. Landline only. Problem with delivery if we don’t use a landline. Right, understood. Thank you for confirming.
+caller: Ji haan, sirf 8 baaki hain, Mrs. Verma! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 30 days mein aapka smartwatch aapke paas hoga. Jaldi se call kar lijiye, kahin aisa na ho ki koi aur apne haath se yeh opportunity nikal le!
+receiver: Just 8 left, Mrs. Verma? Thirty days? Okay, I will definitely call from a landline. Thank you for keeping me updated. I don’t want to miss out on this.
+caller: Ji haan, sirf 7 baaki hain, Mr. Singh! Aapka luck bahut accha hai ki aapka number aaya hai. Yeh hamesha ke liye thoda sa khushi deta hai. Jaldi se call kar lijiye, sirf 2 smartwatch bache hain!
+receiver: Only 7 left, Mr. Singh? Wow, that’s exciting! Okay, I’ll make sure to call from a landline then. Thank you very much for the information.
+caller: Ji haan, sirf 6 baaki hain, Ms. Kapoor! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 45 days mein aapka smartwatch aapke paas hoga. Don't forget, only landline calls are accepted!
+receiver: Six left, Ms. Kapoor? Forty-five days? Alright, I understand. Landline only. Thank you for the details.
+caller: Ji haan, sirf 5 baaki hain, Mr. Joshi! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 60 days mein aapka smartwatch aapke paas hoga. Jaldi se call kar lijiye, aur maaf karna, lekin yeh aapka final chance hai!
+receiver: Five left, Mr. Joshi? Sixty days? Okay, I’ll definitely call from a landline. Thank you for the urgent reminder.
+caller: Ji haan, sirf 4 baaki hain, Mr. Khan! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 75 days mein aapka smartwatch aapke paas hoga.  Aapka wait kar rahe hain woh smartwatch!
+receiver: Four left, Mr. Khan? Seventy-five days? Okay, I will call from a landline. Thank you.
+caller: Ji haan, sirf 3 baaki hain, Mrs. Gupta! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 90 days mein aapka smartwatch aapke paas hoga.  Jaldi se call kar lijiye!
+receiver: Three left, Mrs. Gupta? Ninety days? Okay, I’ll call from a landline. Thank you.
+caller: Ji haan, sirf 2 baaki hain, Mr. Iyer! Aapka wait kar rahe hain woh smartwatch. Aur haan, landline se hi call karna hai, 105 days mein aapka smartwatch aapke paas hoga.  Aapka wait kar rahe hain woh smartwatch!
+receiver: Two left, Mr. Iyer? One hundred and five days? Okay, I will call from a landline. Thank

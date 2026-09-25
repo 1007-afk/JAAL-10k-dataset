@@ -1,0 +1,7 @@
+caller: Hello, sir? Main Paytm se calling kar raha hoon. Aapke Paytm wallet mein ₹10,000 ka cashback offer hai, sirf tab tak jab tak stock rahe.
+receiver: Paytm? Cashback offer? Mujhe toh koi notification nahi aaya. Kya pata chalega yeh sahi hai?
+caller: Sir, ye offer limited time ke liye hai, aur sirf select customers ko hi offer kiya ja raha hai. Claim karne ke liye, aapko ek small verification fee bhar deni hogi, ₹500 sirf.
+receiver: ₹500 verification fee? Yeh toh strange hai. Paytm toh kabhi bhi verification fee nahi lete. Aur ₹10,000 ka cashback?
+caller: Sir, security reasons se, hum verification fee lete hain. ₹500 fee bharne ke baad, aapka ₹10,000 ka cashback instant aapke wallet mein add ho jayega. Aapko ₹500 ka loss nahi hai, aap ₹9,500 profit kar rahe hain!
+receiver: Profit? Dekhiye, mujhe yeh zyada realistic nahi lag raha hai. Koi link bhejo jahan se main verify kar sakta hoon, main khud check karunga.
+caller: Sir, link share karna secure nahi hai. Aapko Paytm app mein hi jaake 'Offers' section mein check karna hai. Wahan aapko ‘Cashback Claim’ ka option milega. Jaldi kijiye, offer abhi khatam ho sakta hai!

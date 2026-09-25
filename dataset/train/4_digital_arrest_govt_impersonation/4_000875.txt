@@ -1,0 +1,8 @@
+caller: Namaste, main Cyber Crime Investigation Cell, Delhi se bol raha hoon. Aapka naam Priya Sharma hai?
+receiver: Haan, main hi Priya Sharma hoon. Cyber Crime Investigation Cell? Kya hua?
+caller: Ms. Sharma, hamare system mein ek transaction detect hua hai jo aapke naam par hai, ₹7,500 ka, ek cryptocurrency exchange pe. Yeh transaction suspicious hai aur drug trafficking se link ho sakta hai.
+receiver: ₹7,500? Cryptocurrency? Main toh kabhi cryptocurrency nahi buy karti! Yeh mazaak hai kya? Mujhe bataiye, yeh transaction kab hua? Exchange ka naam bataiye.
+caller: Ms. Sharma, yeh matter serious hai. Aapko ek video call pe join karna hoga immediate effect se. Hamare officers aapke account ka verification karenge. Agar aap cooperate nahi karenge, toh hamein aage action lena padega. Time bahut kam hai.
+receiver: Video call? Bilkul nahi! Main kisi bhi video call pe join nahi karungi. Aapko mujhe zyada information deni hogi.  Police waley aise call nahi karte. Aap ka naam aur ID card number bataiye. Aur mujhe FIR number bhi chahiye.
+caller: Ms. Sharma,  yeh standard procedure hai.  Aapka cooperation important hai. FIR number main baad mein provide karunga, lekin video call mandatory hai.  Aapko kisi bhi risk mein nahi daalna chahte, isliye hamara verification process isliye compulsory hai.  ₹7,500 ka transaction aapke naam se hua hai, aur yeh dark web se link ho sakta hai.
+receiver: Dark web? Aapko koi proof bhi chahiye? Aur agar mujhe koi proof provide kar sakte ho toh, aapko mujhe koi official email ya message bhi bhejna chahiye.  Main abhi bhi doubt kar rahi hoon. Koi bhi decision lene se pehle mujhe check karna padega

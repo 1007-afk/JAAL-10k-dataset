@@ -1,0 +1,7 @@
+caller: Namaste ji, mein FreeCharge se Rohit bol raha hoon. Aapke FreeCharge wallet mein 5000 ka cashback offer aaya hai. Claim karne ke liye kuch details chahiye.
+receiver: FreeCharge se? Cashback offer? Mujhe toh koi notification nahi aaya.
+caller: Ji, woh offer sirf select customers ke liye hai. Confirm karne ke liye, apna FreeCharge wallet ka last transaction ka OTP bataiye aur apna UPI ID bhi.
+receiver: OTP aur UPI ID? FreeCharge aise details maangta hai? Mujhe toh doubt ho raha hai.
+caller: Haan ji, security check ke liye hai. Otherwise offer expire ho jayega. Hurry up!
+receiver: Security check? Kya bol rahe ho? Koi bhi legitimate company OTP aur UPI ID maangti hai? Mujhe kuch gadbad lag rahi hai. Main call cut kar raha hoon.
+caller: Sir, aap offer lose kar denge! Please cooperate, just few seconds!

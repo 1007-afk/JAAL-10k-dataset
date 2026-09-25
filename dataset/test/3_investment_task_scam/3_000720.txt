@@ -1,0 +1,9 @@
+caller: Namaste, Madam Priya? This is Akash from CryptoGainz Solutions. I hope you are doing well.
+receiver: Haan, main Priya. Kaise hain aap? CryptoGainz Solutions? Woh kya hai?
+caller: Wonderful! Madam, we’re reaching out because you’ve been identified as someone with a strong interest in digital assets. We’re launching a special promotional program on our new trading platform, StellarX, offering guaranteed 3% daily returns on Bitcoin investments.
+receiver: 3% daily? That’s… unbelievable. How is that possible? Is this safe? There are so many fake crypto schemes these days.
+caller: Absolutely safe, Madam! We have a proprietary AI trading algorithm that leverages market volatility.  To participate in this exclusive program, we require a small activation fee of ₹5,000 to verify your account and set up your trading bot. This will be refunded with your first profit payout, of course!
+receiver: ₹5,000 activation fee?  And how long does it take to see the first return? Also, can I see some proof of this 3% daily return?
+caller: The first return will be processed within 24 hours of activation, Madam.  As for proof, we are under strict NDA with our investors, but I can assure you StellarX has been consistently delivering these results.  You can pay through UPI - 9876543210@axisbank.
+receiver: Okay… UPI, right. Let me think about it. It still sounds too good to be true. Could you at least give me a contact number to call if I have any problems?
+caller: Certainly Madam! Here is the contact number for our support team: 7012345678.  But please, don't delay! This offer is only available for a limited time

@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We're calling from InstaCredit, a fast loan approval service. We saw you recently applied for a personal loan online.
+receiver: InstaCredit? I don't remember applying with you guys. Which website was it?
+caller: Don't worry about that, Priya! Just confirming your details. We're ready to approve you for a loan up to ₹50,000 instantly. Just a small verification fee of ₹750 is needed upfront to activate your account and prevent fraud.
+receiver: ₹750 upfront? That seems weird. Banks don’t usually ask for money before giving a loan. And I really don't remember applying anywhere.
+caller: Beta, relax! This is just to secure your spot and prove you're serious.  Many people try to get loans but don't actually want them. This fee ensures your application is prioritized.  After the loan is disbursed, we'll refund this amount with your first interest payment. Otherwise, your loan application will be cancelled.
+receiver: That's a scam. You're trying to trick me. I'm reporting this number.
+caller: Priya, wait! Don't do that! It’s a one-time fee. We can reduce it to ₹500 if you transfer it right now. Think of it as an investment in your financial future! This offer is only valid for the next 15 minutes!

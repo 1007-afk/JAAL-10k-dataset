@@ -1,0 +1,7 @@
+caller: Namaste! Calling from QuickCash Solutions. We noticed you recently inquired about a loan on our website. Just confirming, is this the correct mobile number associated with your application?
+receiver: Haan, this is the right number. I did fill out a form on your website, yes.
+caller: Excellent! We're pleased to inform you that your application is pre-approved for a loan of ₹75,000! A fantastic rate for a first-time applicant. Before we finalize it, we need to quickly verify your bank account details. Please visit our secure verification portal at https://quickcashverify.online and enter your information.
+receiver: ₹75,000? That sounds good. But this website looks a little strange... quickcashverify.online?
+caller: Don’t worry about the URL, it’s a new security protocol. Just complete the form on the site. There’s a small processing fee of ₹750 to activate your loan – it will be refunded upon disbursement. You'll also need to upload a clear picture of your Aadhar card and PAN card.
+receiver: ₹750 processing fee? And they want my Aadhar card too? That seems a bit much… I’m not comfortable with that.
+caller: Listen carefully! This is a limited-time offer. Many people are trying to secure these loans. If you don't complete the verification within the next 15 minutes, the offer will expire. You’ll lose your chance at a great rate! Also, we’ve detected some suspicious activity on your account, so we need those documents urgently to protect your information.

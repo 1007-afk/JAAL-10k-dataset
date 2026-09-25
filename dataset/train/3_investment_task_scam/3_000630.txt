@@ -1,0 +1,7 @@
+caller: Hello, is this Mr. Sharma? My name is Priya, calling from Global Crypto Solutions. We're offering a limited-time opportunity to invest in a new, high-yield cryptocurrency called StellarCoin.
+receiver: StellarCoin? I’ve not heard of it. What’s so special about it? And what kind of returns are we talking about?
+caller: Mr. Sharma, StellarCoin is built on revolutionary blockchain technology and has partnerships with several major tech companies. Early investors are seeing returns of up to 8% daily! This is a chance to multiply your investment quickly.
+receiver: 8% daily? That sounds too good to be true. What's the catch? Is it registered with SEBI, or any financial authority?
+caller: There's no catch, sir! We’re promoting this opportunity to a select group of investors. To get started, you need to deposit a small amount – just ₹5,000 – to activate your StellarCoin wallet. We'll guide you through the process.
+receiver: ₹5,000? Okay, fine. How do I deposit the money? And what’s the website address to ensure it's genuine?
+caller: Just send the amount to this UPI ID: globalcryptosolutions@axisbank. Once the payment is confirmed, we'll send you the wallet details and instructions. It’s very simple, sir!

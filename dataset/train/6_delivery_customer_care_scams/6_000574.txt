@@ -1,0 +1,8 @@
+caller: Namaste! Main Zomato customer care se Rahul bol raha hoon. Aapka naam Rajesh Sharma hai, correct?
+receiver: Haan, ji. Rajesh Sharma. Bolie kya baat hai?
+caller: Sir, humein aapke account mein ek unusual transaction mila hai. 399 rupees ka payment hua hai ek order ke liye jo aapne nahi diya.
+receiver: Kya? Mainne toh koi order nahi diya! Itni raat ko kaun order dega?
+caller: Sir, security ke liye, humein aapka OTP verify karna hoga. OTP aapke phone par aayega.
+receiver: OTP? Par kyun? Payment toh fraud hai!
+caller: Sir, OTP se hum verify kar sakte hain ki account aapka hai. OTP de dijiye, hum immediately order cancel kar denge aur refund process kar denge. Abhi OTP de dijiye, please!
+receiver: Wait, wait! Main police station mein report karta hoon is baare mein. Koi OTP nahi dunga. Yeh scam hai!

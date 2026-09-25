@@ -1,0 +1,7 @@
+caller: Hello, is this Priya Sharma? We have pre-approved a personal loan for you through 'LoanExpress' app, up to ₹75,000. Very easy process, just need to confirm a few details.
+receiver: LoanExpress? I don't recall applying for a loan with that app. Is this legitimate?
+caller: Absolutely! It's a government-approved scheme to help people get quick cash. To activate the loan, we need a small processing fee of ₹5,000 upfront, which will be refunded upon disbursement. Can you transfer it to this UPI ID: 9876543210@axisbank?
+receiver: ₹5,000 upfront? That seems unusual. Usually, they deduct the fees from the loan amount itself.
+caller: This is a special promotional offer, madam. To show your sincerity and avoid fraud, we require the fee. Once transferred, we'll process your loan instantly.  Think of it as a security deposit.  And after the loan is disbursed, we'll return that ₹5,000. It's a very limited time offer, you see.
+receiver: Okay, I’ll transfer the ₹5,000. But I want confirmation that the ₹5,000 will be returned as you said. Please send me a reference number.
+caller: Wonderful! The reference number is LE7500PS. Transfer the amount, and your loan will be processed within 15 minutes. After the transfer, just send me a screenshot. After the money gets credited, we will send you the loan agreement and disbursement details.

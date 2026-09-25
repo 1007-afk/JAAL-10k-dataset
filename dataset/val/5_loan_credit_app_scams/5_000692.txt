@@ -1,0 +1,7 @@
+caller: Hello? Is this Priya Sharma? We’re calling from ‘FastLoan India’. We’ve pre-approved you for a personal loan of ₹75,000. Very quick process, no credit checks needed.
+receiver: Really? That’s good news. I was looking for a loan to pay some medical bills. But I'm worried about hidden charges.
+caller: No hidden charges, Priya ji! Just a small processing fee of ₹5,000 upfront, which will be deducted automatically from your loan amount. We need to verify your bank details to release the funds.
+receiver: ₹5,000 upfront? That seems a bit much. Shouldn't I get the loan first and then pay the fee?
+caller: Priya ji, for security purposes, the fee is required before disbursement. It’s standard practice. Otherwise, how will we know you’re serious about taking the loan? Without it, the approval might lapse. We'll send you a link to make the payment securely.
+receiver: I don't feel comfortable sending money upfront to anyone. I think I’ll just wait and see. Thank you for the offer, but I’m going to decline.
+caller: Priya Sharma, don't be foolish! This is a golden opportunity! If you don't pay the ₹5,000 now, we'll have to cancel your loan and mark you as a potential fraudster. And we have your address and contacts, you don’t want us to share that information, do you?

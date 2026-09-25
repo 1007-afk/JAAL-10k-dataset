@@ -1,0 +1,9 @@
+caller: Namaste, speaking with Mrs. Kapoor? This is Inspector Sharma from the Directorate of Revenue Intelligence. We've flagged a suspicious transaction linked to your bank account – a remittance of ₹75,000 from an overseas account.
+receiver: Haan, main Mrs. Kapoor hoon. ₹75,000? Kya baat hai? Mujhe toh koi remittance yaad nahi. Aur Directorate of Revenue Intelligence? Yeh kaunse case hai?
+caller: Ji, Mrs. Kapoor. This remittance is linked to an investigation involving illegal cryptocurrency trading and money laundering. We need to verify your involvement. Failure to cooperate will result in further legal action and potential asset seizure.
+receiver: Cryptocurrency? Illegal trading? Yeh toh ridiculous hai! Main toh kabhi cryptocurrency mein nahi hui. Aur asset seizure? Arey yaar, kya keh rahe ho aap log?
+caller: Mrs. Kapoor, we understand this may be shocking, but we need your full cooperation. To clear this up quickly, we require a small security deposit of ₹10,000 to cover processing fees and ensure your account isn’t compromised. You can pay via UPI to the number 9876543210.
+receiver: ₹10,000? Security deposit? Yeh toh bakwas hai! Aur UPI pe paise bhejne ke liye? Koi official receipt milega ya kuch? Main koi bhi paisa nahi bhejoongi jab tak mujhe yeh sab clear nahi ho jaata. Yeh scam lag raha hai.
+caller: Mrs. Kapoor, this is a standard procedure. Your compliance will prevent further escalation. This UPI ID is officially authorized by the DRI. Time is of the essence. Act now to secure your financial future.
+receiver: Standard procedure? Authorized ID? Dekhiye, main police station mein complaint karungi agar aapko koi problem hai. Mujhe aapke scanner ka mukaam pata chal gaya hai.
+Scammer

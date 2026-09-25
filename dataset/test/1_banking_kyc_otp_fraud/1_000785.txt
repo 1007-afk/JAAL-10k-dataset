@@ -1,0 +1,7 @@
+caller: Namaste, mein Axis Bank se Priya Singh bol rahi hoon. Aapke naam par ek online trading account open kiya gaya hai, lekin KYC verification pending hai. Account suspend karne se pehle, please details provide karein.
+receiver: Trading account? Mujhe toh koi trading account open karne ka koi plan hi nahi tha. Yeh kya ho raha hai?
+caller: Sir, yeh ek limited-time offer tha. Aapne ek ad click kiya tha aur unknowingly register ho gaye. Ab, account activate karne ke liye, humein aapke Aadhaar number aur OTP verify karna hoga.
+receiver: Aadhaar number? Phone pe? Main toh kabhi bhi Aadhaar number phone pe nahi deta. Yeh bahut risky lag raha hai.
+caller: Sir, security ke liye hum ye process follow karte hain. Agar aap cooperate karenge, toh aapko trading mein bahut benefits milenge. Account suspend hone se bacha lenge. Just OTP send kijiye, aur main aapko all details bataungi.
+receiver:  Okay, wait a minute. Let me just quickly check the Axis Bank website for their official contact number. I'll call them back to confirm if this is legitimate. Just a second.
+caller: Sir, time bahut kam hai. Offer abhi khatam hone wala hai.  Aapko zyada loss hoga, agar aap OTP nahi dete. Please bataiye!

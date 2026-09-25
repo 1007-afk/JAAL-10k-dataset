@@ -1,0 +1,8 @@
+caller: Namaste! This is Swiggy Customer Care. We've detected some unusual activity on your account. It appears someone attempted to place a large order with incorrect delivery details.
+receiver: Swiggy? Really? But I didn't place any order. What happened?
+caller: Yes, sir/madam. To secure your account and prevent further fraudulent activity, we need to verify a few details. Could you please provide the last four digits of the card you use for Swiggy payments? It's just a standard security protocol.
+receiver: Last four digits? That sounds risky. I’ve heard about this. Why do you need that? Can’t you verify through my registered phone number?
+caller: Absolutely, sir/madam, but for added security, we prefer the card details. It's a one-time verification. We'll also send a temporary OTP to your registered number for extra confirmation. This is to ensure your Swiggy account remains safe and protected from unauthorized access.
+receiver: OTP? Okay, send the OTP. But I'm still a little worried.
+caller: Wonderful! We've sent the OTP. Please share it with us to complete the verification process and avoid any account suspension. Your cooperation is greatly appreciated.
+receiver: Hold on a minute. This all seems very suspicious. Why hasn't Swiggy sent an SMS? I'm going to call Swiggy customer service directly.

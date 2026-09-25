@@ -1,0 +1,8 @@
+caller: Namaste! Main Akash, Blue Dart Courier se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin delivery address mein kuch problem hai.
+receiver: Oh, okay. What’s the problem? I was expecting a package.
+caller: Haan ji, parcel mein ek OTP number likha hai, jo galat hai. Mujhe woh OTP number chahiye tha, tabhi parcel deliver kar paunga. Yeh security protocol hai, aapko samajh mein aayega na?
+receiver: OTP? But I didn’t receive any OTP. And why would you need it from me? Shouldn’t you have verified the address with me first?
+caller: Woh system ka software hai, sir. OTP ke bina parcel deliver nahi kar sakte. ₹499 ka delivery charge hai, aur woh OTP se verify ho jayega. Aap Paytm se deposit kar dijiye, main aapko OTP number confirm kar doonga.
+receiver: ₹499 delivery charge? Blue Dart kabhi nahi maanga. And OTP ke liye online payment? Yeh kuch ghalat lag raha hai.
+caller: Sir, yeh special offer hai, parcel fast track kar dene ke liye. Agar aap OTP nahi denge, toh parcel return ho jayega aur aapko ₹1000 ka fine bhi bhar payega. Last chance hai!
+receiver: Wait a minute...I'm calling Blue Dart customer care to verify this. Don't wait.

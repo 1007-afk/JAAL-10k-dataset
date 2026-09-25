@@ -1,0 +1,9 @@
+caller:  Namaste, main Rajesh Kumar hoon, India Telecom se baat kar raha hoon. Aapko ek special offer mila hai – ₹5000 ka mobile recharge free mil jayega! Kaise chal raha hai?
+receiver: Namasteji! Haan, batao! ₹5000 ka recharge free? Wo toh bahut achha hai! Kaha se aaya woh offer?
+caller:  Haan, aapko ek premium plan upgrade karne ke liye invite kiya gaya hai. Aur is upgrade ke saath, ₹5000 ka recharge free mil jayega.  Yeh offer sirf aaj ke liye hai, samajh rahe hain? Aur agar aapko upgrade nahi karna hai, toh aapko recharge karne ke liye ₹5000 ka payment karna padega.  Kya aapko yeh offer accept karna pasand aa raha hai?
+receiver: Hmm, interesting. Upgrade karna hai kya?  Kab tak valid hai yeh offer?
+caller:  Agar aap upgrade karte hain, toh yeh offer kal tak valid rahega.  Aur aapko ek special discount bhi milega - 20% tak!  Abhi, agar aap agree karte hain, toh main aapko ek OTP bhejna chahu.  Yeh OTP aapko aapki account mein verify karne ke liye magdur hoga.  Kya aap ready hain?
+receiver: OTP bheje!  [Invented OTP, e.g., 789456]
+caller: Shukriya, Priya ji!  OTP dhanyavaad!  Yeh OTP verification complete ho gaya hai.  Abhi, aapki account mein ₹5000 ka recharge automatically apply ho jaayega.  Aur aapko ek SMS bhi milega jo aapko recharge details batayega.  Yeh offer aapke liye khubhi fayda darak hai.  Aapko koi sawal hai?
+receiver: Koi sawaal nahi hai. Dhanyavaad!
+caller:  Dhanyavaad!  India Telecom se aapki services mein humein khushi hai.  Aapko ek sundar din jaye!

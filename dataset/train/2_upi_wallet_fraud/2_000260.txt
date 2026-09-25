@@ -1,0 +1,7 @@
+caller: Namaste, sir? Mein Airtel se Neeraj bol raha hoon. Aapke Airtel Payments Bank account mein kuch suspicious activity dikh raha hai. Kuchh transactions hone wale hain jo aapne approve nahin kiye hain.
+receiver: Sir, Airtel Payments Bank? Main toh kabhi use hi nahin karta. Koi transaction suspicious? Batao kya transactions hain.
+caller: Haan sir, ek UPI transaction hai Paytm par ₹5000 ka. Yeh abhi pending hai, lekin agar aap confirm nahin karte toh account block ho jaayega. Security ke liye, aapko OTP dena padega.
+receiver: ₹5000? Paytm par? Nahin, main toh kabhi bhi aise transactions nahin karta. OTP dene se pehle mujhe check karna hai. Mujhe Airtel customer care number dedo.
+caller: Sir, customer care number abhi busy hai, line kharab hai. Yeh urgent hai, account block hone se pehle aapko OTP dena padega. Main aapko ek link send karta hoon, wahan par aap verification kar sakte hain. [Sends a shortened link]
+receiver: Wait, ek moment. Link toh kuch suspicious lag raha hai. Main nahi click karunga. Aap bataiye, aapka Airtel ka official number kya hai? Mein khud call karta hoon Airtel mein.
+caller: Sir, please hurry! Account block ho jayega! Ye last chance hai. Just OTP send kardo, aur sab theek ho jayega.

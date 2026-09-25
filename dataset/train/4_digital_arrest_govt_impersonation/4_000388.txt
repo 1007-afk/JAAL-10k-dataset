@@ -1,0 +1,11 @@
+caller: Namaste! Main Customs Department se Rohit Sharma bol raha hoon. Aapke naam par ek parcel aaya hai, lekin usmein illegal items paye gaye hain.
+receiver: Illegal items? Mere naam par? Mujhe toh kuch pata nahi. Mein koi parcel order nahi kiya tha.
+caller: Haan, sir. Parcel mein suspicious chemicals paye gaye hain. Isliye aapko yeh matter investigate karna hoga. FIR register ho gayi hai, case number 78945-CD.
+receiver: FIR? Kasam se, mujhe kuch bhi nahi pata. Mein toh ek normal citizen hoon. Main kaise involve ho sakta hoon?
+caller: Sir, chinta mat kijiye. Aapko bas kuch details provide karne hain, aur hum yeh matter solve kar denge. Account number provide karein jismein ₹15,000 penalty deposit kar sakte hain. Yeh process fast hoga.
+receiver: ₹15,000? Mein account number nahi de sakta. Yeh kuch ghalat lag raha hai. Mein police station jaake complaint register karunga.
+caller: Sir, police station jaane ki zaroorat nahi hai. Yeh process online hi ho jayega. Aapko Paytm ya Google Pay par payment karna hoga. Jaldi karein, otherwise case escalate hoga.
+receiver: Mein koi payment nahi karunga. Aap ka naam aur department ID batao. Aur FIR copy bhi bhejo.
+caller: Sir, security reasons ki wajah se main zyada details phone par nahi de sakta. Aapko trust karna hoga, warna aapko legal consequences ka mukaabil karna padega. Jaldi karin, time gujar raha hai.
+receiver:  Yeh ek scam hai. Mein complaint karunga. Bye.
+caller: Sir, please! ₹15,000 sirf itna hi? Aapko bahut pareshaan hona padega. Last chance hai.

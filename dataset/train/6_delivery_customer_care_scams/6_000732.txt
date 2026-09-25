@@ -1,0 +1,8 @@
+caller: Namaste! Main Blue Dart Courier se Rohan bolta hoon. Aapke ek parcel ke saath thodi problem aa rahi hai. Delivery address galat dikh raha hai.
+receiver: Oh, kya? Woh kiski parcel hai? Mujhe koi order yaad nahi aa raha.
+caller: Sir, parcel ka reference number BD45789012 hai. Amazon se hai, ek smart watch ka. Aapne address verify karne ke liye OTP dena hoga, taaki hum correct address par parcel deliver kar sake.
+receiver: Smart watch? Lekin maine toh kuch order nahi kiya tha. OTP? Ye theek nahi lag raha.
+caller: Sir, fraud hone se bachne ke liye, mujhe OTP ki zaroorat hai. Aur, ₹500 ka delivery charge bhi apply hoga. Payment karne ke liye aapko ek link mil jaega. Please do this immediately, otherwise parcel wapas bhej denge.
+receiver: ₹500? Wait, wait. Mujhe ek moment dijiye, main check karta hoon. Amazon se mujhe koi notification nahi aaya hai. Main police mein report karunga agar kuch bhi ghalat hua.
+caller: Sir, please hurry. Time is running out. Police report karoge toh aapka parcel bhi nahi milega. Koi doubt hai toh Amazon customer care pe call karke check kar lijiye.
+receiver: Okay, theek hai. Mein check karta hoon, lekin main koi bhi OTP ya payment nahi karunga jab tak main confirm nahi kar leta.

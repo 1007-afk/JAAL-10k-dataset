@@ -1,0 +1,7 @@
+caller: Namaste sir, main Mukesh, State Bank of India se baat kar raha hoon. Aapke naam par ek online shopping transaction hua hai ₹3500 ka, Flipkart pe. Kya aapne ye kiya hai?
+receiver: Flipkart pe? Mujhe to koi order yaad nahi. Mai toh aaj tak kabhi Flipkart se kuch nahi liya.
+caller: Sir, hamari system ne detect kiya hai. Yeh transaction raat 12:45 baje hua hai. Hamara duty hai ki aapki verification karein. Account safe rakhne ke liye aapko OTP dena padega.
+receiver: OTP? Sir, main OTP phone pe nahi dunga. Ye scam lag raha hai.
+caller: Sir, please understand, yeh security process hai. OTP se verify hoga aapka account, otherwise account suspend ho sakta hai. Just one moment, ek SMS aayega.
+receiver: Account suspend? Nahin, nahin. Bataiye kya karna hai.
+caller: Sir, aapke phone par ek SMS aaya hoga. Woh OTP number mujhe bataiye, please. Account suspend hone se bachane ke liye ye zaroori hai.

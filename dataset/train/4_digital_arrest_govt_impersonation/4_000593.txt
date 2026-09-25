@@ -1,0 +1,11 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Delhi Customs department. We’ve intercepted a package addressed to you containing suspicious items.
+receiver: Suspicious items? What kind of items? I haven’t ordered anything unusual.
+caller: Sir, our investigation suggests the package contains prohibited goods linked to an ongoing money laundering case. You need to cooperate with us to clear this up.
+receiver: Money laundering? This is ridiculous! I’m a small business owner, I don’t know anything about that.
+caller: Sir, it's a serious matter. To avoid legal complications and potential arrest, you’ll need to pay a small processing fee of ₹15,000. This will expedite the verification process.
+receiver: Fifteen thousand? Just like that? Can’t I just go to the customs office myself and sort this out?
+caller: Sir, due to the sensitive nature of the case, direct visits are restricted. You can pay via UPI to the number 7890123456. It’s a one-time payment to secure your release from this investigation.
+receiver: UPI? Wait a minute… This feels like a scam. I’m calling the police.
+caller: Sir, do not do that. This is a legal procedure. If you fail to cooperate, we will have to issue an arrest warrant in your name.
+receiver: An arrest warrant? You’re threatening me! I’m hanging up now.
+caller: Sir, the deadline is approaching. Pay the ₹15,000 immediately or face the consequences.

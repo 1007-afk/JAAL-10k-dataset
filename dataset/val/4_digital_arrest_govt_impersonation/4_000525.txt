@@ -1,0 +1,8 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma from the Directorate of Revenue Intelligence. We’re investigating a potential case of undeclared foreign currency. Your name has come up in connection with this matter.
+receiver: Haan, main hi hoon. Kya hua? Undeclared currency? Main toh kuch nahi pata.
+caller: Mr. Sharma, we have information indicating a significant amount of US dollars was transferred through your bank account, originating from an offshore entity. Case file number is DRI-2024-07-12. We need to verify some details urgently. Can you confirm your PAN card number for verification?
+receiver: PAN card number? Yeh kya ho raha hai? Main toh retired professor hoon, mujhe foreign currency ka kya pata? Aur PAN card number phone pe?
+caller: Mr. Sharma, security protocols require this verification. Failure to cooperate could be interpreted as an attempt to obstruct a government investigation. To clear this up quickly, please provide the last four digits of your PAN card. We are working against a tight deadline.
+receiver: Obstruction? Deadline? Yeh thoda zyada lag raha hai. Main kuch bhi nahi kar raha. Main apni pension se ghar ka kharcha karta hoon.
+caller: Mr. Sharma, a senior officer is reviewing the case and wants to speak with you directly. However, to connect you, we need to confirm you've reviewed and acknowledged the attached notice regarding the potential violation. Can you confirm you’ve received an email with a PDF attachment containing the details?
+receiver: Email? Attachment? Mujhe toh koi email nahi aaya. Yeh sab kuch fraud lag raha hai.

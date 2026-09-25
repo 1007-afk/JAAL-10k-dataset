@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main State Bank of India se Deepika Sharma bol rahi hoon. Aapke account mein kuch suspicious activity detect hui hai, isliye main verification ke liye call kar rahi hoon.
+receiver: State Bank of India? Mujhe koi message nahi aaya tha. Kya verification zaroori hai?
+caller: Ji, sir. Security ke liye zaroori hai. Aapke account se ek online transaction try kiya gaya tha, jo fail ho gaya, lekin agar woh successful ho jaata toh aapko nuksan hota. Aapko confirm karna hai ki aapne yeh transaction kiya tha ya nahi.
+receiver: Transaction? Kaun sa transaction? Aur mujhe koi OTP nahi mila.
+caller: Sir, OTP phone pe nahi milega. Hamare new security protocol ke according, hum direct verification system use karte hain. Aapko apna PAN card number aur last four digits of your account number bataiye, taaki main verify kar sakoon. Jaldi karna hoga, sir, otherwise account suspend ho sakta hai.
+receiver: PAN card phone pe? Yeh thik nahi lag raha hai. Bank toh kabhi phone pe PAN card nahi puchta.
+caller: Sir, aap tension mat len. Yeh ek urgent matter hai. Agar aap cooperate karenge toh aapka account safe rahega. Jab aap details provide karenge, main aapko ek QR code भेजूंगी, woh scan करके verify कर सकते हैं.
+receiver: QR code? Sir, mujhe nahi pata. I am not sharing any information. Main call cut kar rahi hoon.

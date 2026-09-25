@@ -1,0 +1,7 @@
+caller: Namaste! My name is Raj, I saw your profile on DesiHearts and I was really struck by your smile. You look like a very kind and interesting person. I hope you’re having a wonderful evening.
+receiver: Hi Raj, thanks! That's kind of you to say. What do you do?
+caller: I'm a software engineer, working remotely for a company in the US, so sometimes I have crazy hours. But I love it! I’ve been thinking a lot about settling down, and you seem like someone with a good head on her shoulders. Listen, I’m currently dealing with a bit of a family emergency. My sister needs an urgent operation, and the hospital is asking for a significant upfront payment.
+receiver: Oh no, that’s terrible! I’m so sorry to hear that. How much does she need?
+caller: It's around 3 lakhs rupees. I'm trying to pull together everything I can, but I'm short. I know it’s a lot to ask from someone we just met, but if you could spare even a small amount to help, it would mean the world to me and my family. You can send it to this UPI ID: 9876543210@ybl.
+receiver: 3 lakhs? That's a huge amount, Raj. And sending money to a stranger? I'm not comfortable with that, especially with a family emergency you just told me about. Could you show me some proof, like a hospital bill or something?
+caller: I understand your hesitation, totally. The hospital is being quite strict about releasing documentation right now due to patient privacy. But I promise you, I'll repay you as soon as I get paid next month. I wouldn't ask if it wasn’t absolutely crucial. Think of it as helping someone in need

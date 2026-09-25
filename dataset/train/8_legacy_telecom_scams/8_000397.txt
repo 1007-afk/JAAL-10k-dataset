@@ -1,0 +1,8 @@
+caller: Hello, am I speaking with the winner of the Sunshine Quiz Weekly? This is your notification that you've won a top Sony DVD player! To claim your prize, please call 789654123. Congratulations again!
+receiver: Hello? Haan, main hi hoon Winner. Suniyaan? Sony DVD player jeeta hoon? Wow! Yeh toh bohot accha news hai. Theek hai, main immediately call karta hoon 789654123 pe. Thank you so much!
+caller: Arey wah! Sunke bohot khushi hui ki aapne hamara prize jeeta hai.  Bas abhi call kijiye 789654123 pe, aur apna prize claim kar lijiye.  Bahut jaldi hai, sirf kuch hi prizes baaki hain!
+receiver: Accha, matlab jaldi karna padega? Theek hai, abhi karta hoon call. Thank you for the heads-up!
+caller: Bilkul, sir/ma'am! Aapne sahi suna, aur yeh bohot badi khushkhabri hai! Hamare paas sirf 3 prizes aur bache hain iss week ke liye, toh aapko turant hi call karna hoga 789654123 par. Don't miss out on this amazing Sony DVD player!
+receiver: Arre, sirf 3 prizes baaki hain? Theek hai, theek hai, main abhi phone uthaata hoon aur abhi call karta hoon uss number pe.  I don't want to miss this! Thank you for reminding me again!
+caller: Bilkul, sir/ma'am! Aapne sahi suna, aur yeh bohot badi khushkhabri hai! Hamare paas sirf 2 prizes aur bache hain iss week ke liye, toh aapko turant hi call karna hoga 789654123 par. Don't miss out on this amazing Sony DVD player!
+receiver: Oh god, ab toh sirf 2 hi bache hain? Theek hai, I'm literally dialing right now.  Yaar, thank you for pushing me, otherwise I might have missed it!

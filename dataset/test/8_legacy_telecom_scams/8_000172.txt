@@ -1,0 +1,11 @@
+caller: Namaste, is this Mr. Sharma? We’re calling from DigiRewards about a significant unclaimed reward in your account from 2018.
+receiver:  Haan, main Rohit Sharma hoon. Kya hua?
+caller: Shukriya! Your DigiRewards account shows a substantial bonus – 1250 points – that hasn’t been redeemed since 2018. Due to system updates, this offer is expiring in 72 hours.  To secure your rewards, please verify your identity by providing the security code: 78912.  Don't let this slip away!
+receiver: 2018? Mein shayad woh forget gaya tha. Security code?
+caller: Haan, woh important hai.  This code ensures we're speaking to the rightful owner. It’s 78912.  We want to make sure your points go to you, sir. Just enter it now, and we’ll process your redemption immediately.  It's a very lucrative offer, just 1250 points waiting for you!
+receiver:  Dekho, main abhi check karta hu meri account... 1250 points? Seriously?
+caller: Absolutely! Our records show it clearly.  We understand your hesitation, but time is running out.  The system will automatically close the offer after 72 hours.  Please enter the code quickly – 78912.  We’re here to help you get those rewards.
+receiver: Okay, okay... I'm entering... 78912...  Now what?
+caller: Excellent! Now, we just need to confirm your address: is it still 123 Main Street, Delhi?  Just to double-check our records.  Confirm yes or no.
+receiver: Yes.
+caller: Thank you, Mr. Sharma.  Your redemption is now being processed. You should receive an email confirmation within the next hour.  Have a great day!

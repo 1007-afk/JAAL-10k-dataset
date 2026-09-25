@@ -1,0 +1,8 @@
+caller: Namaste, main Customs Department se Rahul Sharma bol raha hoon. Aapke naam par ek parcel aaya hai Mumbai customs warehouse mein, lekin usmein illegal items paaye gaye hain.
+receiver: Illegal items? Mera parcel? Mujhe toh koi parcel order karne ka yaad nahi aa raha. Kisliye ka parcel hai?
+caller: Ji, parcel mein kuch suspicious electronic devices mili hain, jo ke drug trafficking se judi ho sakti hain. Aapko Mumbai court mein present hona hoga, warna arrest warrant nikalna padega.
+receiver: Arrest warrant? Yeh kya bol rahe hain aap? Mein toh kabhi drug trafficking mein involve nahi hua. Mujhe proof dikhaiye.
+caller: Sir, proof hum court mein dikhayenge. Abhi, aapko ₹50,000 ka bail amount deposit karna padega taaki aapki arrest ko rok saka hum. Payment karne ke liye mere bank account number deta hoon.
+receiver: ₹50,000? Itna zyada paisa? Aur woh bhi bank account mein transfer karun? Mujhe kuch suspicion ho raha hai. Mein police station mein report karunga agar aap fake hain.
+caller: Sir, please cooperate karein. Court ka decision aapke against ja sakta hai, aur penalty bahut jyada hoga. Trust us, hum aapko help kar rahe hain. Account number hai [Invent a plausible Indian bank account number]. Fast please.
+receiver: Yeh account number... ek minute, mein check karta hoon.

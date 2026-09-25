@@ -1,0 +1,13 @@
+caller: Mr. Sharma, this is Raj from DigiConnect Solutions. Just wanted to quickly remind you about your premium data booster package.
+receiver: Hello Raj, how are you? I haven’t heard of this before. What exactly is this “premium data booster” thing?
+caller: Haan bhai, toh aapke mobile bill mein data consumption bahut zyada ho raha hai, hai na?  Toh humne aapko yeh premium booster pack banaya hai, jisse aapko 5G speed mein data chalega. Koi extra charges nahi hai, it’s completely free.
+receiver: Free, you say? That sounds interesting. But I already have a decent data plan. Why would I need a booster?
+caller: Haan ji, lekin aapko dekha toh pata chala ki aapke mobile mein data usage bahut kam hai.  But, toh agar aapko zyada speed chahiye, ya online gaming kartey hain, ya phir video calls bhi kartey hain toh aapko yeh booster pakka chahiye.  Yeh aapka existing plan improve karta hai.
+receiver: Online gaming, you mentioned that. Actually, I play a lot of PUBG sometimes. So, would this boost my connection during those games?
+caller: Haan ji, absolutely! PUBG playing kartey waqt mein aapko laggi lagti internet connection bohat stable hogi, and aapko no lag, no stuttering experience milega.  It's like upgrading your mobile network.
+receiver: Okay, so it’s supposed to improve my gaming experience. And what do I need to do to get this booster? Is there some kind of app or website?
+caller: Haan ji, bilkul. Toh aapko bas www.digiconnectsolutions.in pe jaana hoga.  Wahan pe aapko apna mobile number enter karna hoga - 9876543210.  Phir aapko OTP receive hoga, usse OTP enter karna hoga.  Iske baad aapko sirf “Activate Booster” button par click karna hai.  It’s very simple.
+receiver:  Mobile number… 9876543210.  Okay, so I just enter that on the website?  And then I’m done?  No complicated setup?
+caller: Haan ji, bilkul.  Koi complicated setup nahi hai.  Just enter the number and click ‘Activate Booster’.  Agar aap chahte hain ki main aapko wahan pe step by step guide de doon, toh bataiye.
+receiver: Alright, thanks for the information, Mr. Sharma. I’ll give it a try.  It sounds pretty straightforward.  Thank you!
+caller: Aapka khushi hi mera maqsad hai, Mr. Sharma.  Have a great day!

@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Paytm se bol raha hoon. Aapko ek cashback offer mila hai apne recent transaction par.
+receiver: Cashback offer? Kaun sa transaction? Main kal Paytm se bill pay kiya tha.
+caller: Haan sir, wohi transaction. Aapko ₹500 cashback milna chahiye, par verify karne ke liye ek small OTP verify karna hoga.
+receiver: ₹500 cashback? OTP verify karna padega? Yeh thoda suspect lag raha hai. Paytm toh direct app mein notification deta hai.
+caller: Sir, is offer ki verification process alag hai. Main Rahul, Paytm rewards team se bol raha hoon. OTP sir ek minute mein verify ho jayega, aur cashback aapke wallet mein add ho jayega.
+receiver: Rahul ji, mujhe doubt ho raha hai. Aap mujhe OTP batao ke wallet mein paise add ho jayenge? Direct app mein dekhna chahiye.
+caller: Sir, system mein kuch technical issue aa raha hai. Isliye OTP se verify karna zaroori hai. Aapko ₹500 ka loss nahi hona chahiye.
+receiver: Loss? Theek hai, ek minute. Main apna OTP check karta hoon app mein.
+caller: Haan sir, jaldi karo. Offer limited time ke liye hi hai.

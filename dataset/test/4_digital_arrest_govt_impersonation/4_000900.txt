@@ -1,0 +1,8 @@
+caller: Namaste, madam. This is Inspector Kumar calling from the Directorate of Revenue Intelligence, DRI. We've intercepted a suspicious parcel registered to your address containing what appears to be counterfeit currency.
+receiver: Counterfeit currency? But I haven’t ordered anything recently. What address are you referring to? I live in Bangalore.
+caller: Yes, madam. The parcel was destined for 45, MG Road, Bangalore. Our initial investigation suggests it's linked to a money laundering scheme. We need to verify your involvement to prevent any legal complications for you. Can you confirm your date of birth for verification purposes?
+receiver: Wait a minute. That's my office address, not my home. And I certainly haven’t received any suspicious parcels there. This sounds very strange. Why would I be involved in anything like that?
+caller: Madam, we understand your concern. However, it's standard procedure to investigate all possibilities. To clear this up quickly, we need to freeze your bank account temporarily while we process the documents related to this parcel. We just need the last four digits of your ATM card to initiate the freeze. It’s for your protection, really.
+receiver: Freeze my bank account? And you need my ATM card details over the phone? That sounds extremely risky. I’m not comfortable sharing that information. I think I’ll contact my bank directly to inquire about this.
+caller: Madam, delaying this will only complicate matters. The longer you wait, the greater the risk of legal action. A small inconvenience now can save you a lot of trouble later. Just those last four digits, please. Consider this a cooperative effort.
+receiver: No, I’m not going to do it. I'm hanging up now and reporting this to the cybercrime cell. Goodbye.

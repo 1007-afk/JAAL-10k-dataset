@@ -1,0 +1,7 @@
+caller: Hello? This is SecureLoans. We've pre-approved you for a quick loan of ₹50,000. Just to verify, can you confirm your full name and date of birth?
+receiver: SecureLoans? Haan, mera naam Priya Sharma hai, aur meri birthday 15th August 1992 ko hai.
+caller: Excellent, Priya ji. Now, to activate the loan, we need a small processing fee of ₹2,500 as security. You can transfer it to the account number I’ll provide. Once confirmed, the ₹50,000 will be credited instantly.
+receiver: ₹2,500? Lekin aapne kaha tha loan free hai. Aur why do I have to pay before getting the loan?
+caller: Priya ji, regulations have changed. This is a mandatory security deposit to prevent fraud. Without it, we can’t guarantee the loan. Think of it as insurance. We’ll send you a recovery OTP after the payment.
+receiver: Recovery OTP? Is this secure?  I’m a little worried, sir. It seems… different.
+caller: Don’t worry, Priya ji. It’s standard procedure.  Just send the money quickly so we can release your loan immediately. We don’t want you to miss out on this great opportunity. Send the OTP too so we can complete the process.

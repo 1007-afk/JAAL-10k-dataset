@@ -1,0 +1,18 @@
+caller: Namaste Sir, Main HDFC Life se baat kar raha hoon. Aapke liye ek amazing scheme aaya hai. Kaise hain aap?
+receiver: Namaste, achcha hoon. HDFC Life se hain? Batao scheme kaunsa hai? Thodi madad chahiye, abhi kaam mein hoon.
+caller: Ji sir, absolutely. Yeh ek ‘Shrestha Suraksha’ policy hai. Ismein aapko premium pay karne ke baad, aapka paisa thrice hone ki assurance hai, completely safe. Aur sir, ismein aapko accidental death benefit bhi milega, jo bahut zaroori hai. Aur toh, aapko every year tax benefits bhi milegi.
+receiver: Three times paisa? Accident death benefit bhi? Tax benefits bhi? Achcha, yeh suna toh gaya. Lekin batao, yeh scheme kab shuru hoga, aur aapko premium kis rate mein lagenge?
+caller: Sir, yeh scheme abhi se shuru hua hai, aur aap koi ₹50,000 to ₹75,000 ka premium pay kar sakte hain. Premium rate ₹3% se shuru hogi. Aur sir, yeh sab aapke age ke liye bahut fayda wala hai.
+receiver: ₹50,000 to ₹75,000? ₹3%? Matlab, yeh lifetime ke liye hai? Aur tax benefits kab milegi?  Aur yeh ‘Shrestha Suraksha’ matlab kya hota hai, bolde na.
+caller: Sir, yeh Shrestha Suraksha ek insurance plan hai jismein aapko medical expenses ke liye full coverage milega. Aur sir, yeh plan lifetime ke liye hai, aur aapko har year tax deduction bhi avail karna milega.  Ismein aapko ₹60,000 tak ka tax benefit milega.  Aur sir, yeh complete risk-free hai, koi tension na le.
+receiver: ₹60,000 tak ka tax benefit? Medical expenses ke liye full coverage?  Par mujhe premium ka rate aur duration jitni possible, bataye na. Aur yeh ‘Shrestha Suraksha’, ye kaise work karta hai?  Batao, sahi samjha hai kya?
+caller: Namaste, main SBI Life Insurance se baat kar rahi hoon. Aapke liye ek naya opportunity hai. Kaise hain aap aaj?
+receiver: Namaste, mai acha hoon. SBI Life Insurance se hain? Batao kya offer hai? Thoda late huya hoon, maaf karein.
+caller: Ji, haan sir. Yeh 'Golden Future' policy hai. Ismein aapko paisa 4 times hone ki guarantee hai, totally secure. Aur sir, ismein aapko child education fund bhi milega, jo bahut important hai. Aur sir, aapko yearly basis par tax saving bhi milega.
+receiver: 4 times paisa? Child education fund bhi? Tax saving bhi? Achcha, yeh suna hai. Lekin bataiye, is policy mein premium kitna hoga, aur iski validity kitni hogi?
+caller: Sir, aap ₹30,000 to ₹60,000 ka premium pay kar sakte hain. Premium rate 2.5% se shuru hogi. Aur sir, is policy ki validity 20 years ke liye hogi.
+receiver: ₹30,000 to ₹60,000? 2.5%? Aur 20 years? Matlab, isme paisa 4 times hoga kab? Aur tax saving kab milegi?
+caller: Sir, paisa 4 times 20 years ke baad hoga. Aur tax saving aapko har year, premium amount ke up to ₹80,000 tak milega. Is policy mein koi risk nahi hai, completely safe hai.
+receiver: ₹80,000 tak tax saving? Har year?  Aur 'Golden Future' policy ka matlab kya hai? Ismein koi hidden charges hain kya? Batao, poora samjhne ki कोशिश karte hain.
+caller: Sir, Golden Future policy ek investment plan hai jismein aapko long term investment ke liye designed kiya gaya hai. Ismein aapko medical insurance bhi milega, aur aapko peace of mind bhi milega. Aur sir, koi hidden charges nahi hain, sab puri transparency se hai.
+receiver: Medical insurance bhi? Peace of mind bhi?  Par mujhe premium rate aur policy terms jitni possible, bataye na.  Aur koi claims process ka idea do, agar possible ho.

@@ -1,0 +1,7 @@
+caller: Namaste! Miss, I hope you’re having a lovely evening. I found your profile on ‘MeetCute’ and I must say, you’re absolutely stunning. My name is Rohan, by the way.
+receiver: Hello! Thank you. That's kind of you to say. MeetCute? I don't think I recall messaging anyone recently. Who is this Rohan? And how did you find my profile?
+caller: Arre, no worries! It’s been a busy day, I understand. I’m a software engineer working on a new project in Bangalore. I saw your interest in travel and hiking, and it reminded me of my own dreams. Listen, I'm flying to Dubai next week for a conference, and I’d love for you to come with me. I’ll cover your flight and hotel! A chance to explore together, you know?
+receiver: Dubai? That’s quite a spontaneous offer! It sounds… nice, but honestly, I’m a bit wary. I barely know you. What kind of conference is it? And why would you offer to pay for my trip? There’s got to be a catch.
+caller: Catch? No catch at all, I assure you! It's just... I feel a strong connection with you already, and I want to make some good memories. It's a cybersecurity conference, very important for my work. To show my sincerity, I want to transfer some money to you now for your travel expenses – ₹15,000. Just send me your bank details.
+receiver: Hold on a minute! You want to send me money *before* we even meet? And for a cybersecurity conference? This is all sounding more and more suspicious. I’m not comfortable sharing my bank details with someone I just met online. I think I’ll pass on this ‘opportunity.’ Goodbye.
+Sc

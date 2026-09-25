@@ -1,0 +1,8 @@
+caller: Hello? This is Akash from QuickCredit Solutions. We’ve noticed you recently applied for a loan through our app. Just confirming, is this Priya Sharma?
+receiver: Ji haan, main hi Priya Sharma hoon. Kya baat hai?
+caller: Great! Priya ji, good news! Your application is pre-approved for a loan of ₹75,000! To activate it, we just need you to pay a small processing fee of ₹3,500 as security. Once that's done, the loan will be credited to your account immediately.
+receiver: ₹3,500 processing fee? Lekin app pe to free loan ka mention tha.
+caller: Yes, but this is a special, express approval service, Priya ji. It ensures faster processing and avoids any potential delays. It’s a one-time charge. Send it to this UPI ID: quickcredit.pay.  We have limited slots available.
+receiver: ₹3,500? Bohot zyada lag raha hai. Aur mujhe UPI ID confirm karna hai.
+caller: Priya ji, trust us, this is the best offer you’ll get. Don’t miss out! And yes, quickcredit.pay - that's our official payment ID. We’re sending you a verification SMS right now with a OTP. Please share that with me.
+receiver: Verification SMS? Main abhi check karti hoon.

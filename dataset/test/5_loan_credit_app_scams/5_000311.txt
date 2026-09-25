@@ -1,0 +1,9 @@
+caller: Namaste, sir/madam. Main Akash, QuickCash Solutions se baat kar raha hoon. Aapke naam par ek personal loan approval aaya hai, lekin verification ke liye kuch details chahiye.
+receiver: Oh, really? Loan approval? Main toh apply nahi kiya tha. Kya details chahiye?
+caller: Sir, aapko sirf details batani hai, verification ke liye. Aapka Aadhaar card number aur PAN card number bataiye, please. Aur ek selfie bhi chahiye, jismein aap Aadhaar card aur PAN card saath mein hold kar rahe ho.
+receiver: Selfie? Lekin why selfie? Ye toh suspicious lag raha hai.
+caller: Sir, biometic verification ke liye selfie chahiye. Security purpose ke liye. Otherwise loan process stop ho jayega.
+receiver: Okay, fine. But mujhe loan ke terms aur conditions bhi sunana hai. Kitna interest hoga, aur repayment plan kya hoga?
+caller: Sir, interest rate 2% per week hoga. Aur aapko 2 months mein puri amount repay karni hogi. Total repayment amount ₹25,000 hoga.
+receiver: ₹25,000? Main toh sirf ₹10,000 ka loan lene wala tha! Ye bahut zyada hai!
+caller: Sir, processing fees aur insurance charges included hain. Agar aap nahi chahte, to main aapka application cancel kar sakta hoon. Par cancel karne se aapke credit score par negative impact pad sakta hai.

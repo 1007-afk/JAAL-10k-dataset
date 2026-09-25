@@ -1,0 +1,8 @@
+caller: Namaste, sir? This is Ankit from ‘LoanFirstExpress’. We saw your recent application for a personal loan. Congratulations, you’re pre-approved for up to ₹75,000! Just a few quick details to confirm. Can I get your full name, please?
+receiver: Haan, ji. My name is Vijay Kumar. Is this really a loan? I applied on a different website.
+caller: Yes, sir, LoanFirstExpress partners with several platforms. To activate your loan, we need to verify your WhatsApp. We’ll send a one-time password there. Can I have your WhatsApp number? Just to be sure it’s the right one.
+receiver: Okay, my number is 9876543210. I hope this is genuine. These loan apps are all the same, you know.
+caller: Absolutely, sir! We value transparency. Now, you’ve received the OTP, right? Please read it out to me. It’s very important for security.
+receiver: Yes, I got it. The code is 999999.  Now, what about the interest rates and repayment schedule? It shouldn't be too high, right?
+caller: Wonderful! Everything is verified, sir. Your loan is now active. The interest is only 8% per annum – very competitive. To process the funds, we need a small processing fee of ₹5,000 upfront, which will be deducted from your loan amount. You can transfer it to this UPI ID: 8765432109@axisbank.
+receiver: ₹5,000 upfront? I didn't see anything about this in the application! That's not right. I'm ending this call.

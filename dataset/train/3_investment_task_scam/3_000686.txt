@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vijay hai, aur main GrowFast Investments se call kar raha hoon. Aap kaise hain? Humein ek bahut hi achha investment opportunity mila hai jismein aapka paisa kam samay mein do guna ho sakta hai.
+receiver: GrowFast Investments? Maine kabhi suna nahi. Kis tarah ka investment hai yeh? Aur do guna paisa, yeh kaise possible hai?
+caller: Yeh ek naya cryptocurrency project hai, ‘NovaCoin’. Ismein bahut potential hai, aur humein believe hai ki yeh jaldi hi bahut famous hoga. Aap sirf ₹10,000 invest karein, aur ek mahine mein ₹20,000 vapas milenge. Abhi registration ka time hai.
+receiver: ₹10,000? Aur cryptocurrency mein investment? Yeh thoda risky lag raha hai. Mein ek doctor hoon, mujhe invest karne ka koi experience nahi hai.
+caller: Koi tension nahi, doctor sahib. Yeh bahut hi secure hai. Humari team is project ko monitor karegi, aur aapko koi loss nahi hoga. Aapko sirf apna bank account details dena hai, taaki hum NovaCoin aapke account mein transfer kar sakein.
+receiver: Bank account details? Itna jaldi? Mujhe thoda time chahiye sochne ke liye.
+caller: Doctor sahib, time nahi hai. Yeh offer sirf aj tak ke liye hai. Agar aap abhi invest karte hain, toh aapko special bonus bhi milega. Socho, aapke ₹10,000 ₹20,000 ban jayenge!
+receiver: Okay, fine. Main apna account number de deta hoon. Par agar kuch ghalat hua, toh main tumhari complaint karunga.
+caller: Bahut achha! Apna account number aur IFSC code bataiyein.

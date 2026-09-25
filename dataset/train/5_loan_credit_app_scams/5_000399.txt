@@ -1,0 +1,8 @@
+caller: Namaste sir, mein Ankit Sharma, XYZ Finance se baat kar raha hoon. Aapka loan application approve ho gaya hai, lekin verification ke liye kuch details chahiye.
+receiver: XYZ Finance? Mujhe to koi loan apply kiya hi nahi.
+caller: Sir, system mein aapka naam aur number register hai. Aapne last week humari website se apply kiya tha, yaad hai na? Loan amount ₹10,000 tha?
+receiver: Nahin sir, mujhe to kuch yaad nahi. Aur website bhi main kabhi dekhi nahi.
+caller: Sir, galatfee nahi karna. Verification ke liye aapka Aadhaar card number aur OTP de dijiye, tabhi loan transfer ho paayega. Aur abhi aapko kuch fees bhi bharne hogi. ₹500 processing fee ke hisab se.
+receiver: ₹500? Loan milane ke liye fees bharne hogi? Yeh to thik nahi lag raha.
+caller: Sir, rule hai. Agar aap fees nahi bharte, toh loan process stop ho jayega. Abhi bhar dijiye, otherwise hum complaint register kar denge aur aapka credit score damage ho jayega.
+receiver: Credit score damage ho jayega? Wait, mujhe sochna hai.

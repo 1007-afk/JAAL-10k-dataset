@@ -1,0 +1,8 @@
+caller: Namaste! Mein BharatPay se bol raha hoon. Aapka BharatPay wallet mein ₹5000 ka cashback offer live hai! Aapko sirf ek verification process complete karna hai.
+receiver: ₹5000 cashback? BharatPay ka? Wow! Verification process kya hai?
+caller: Haan ji! Verification ke liye, humein aapke wallet se associated OTP chahiye. Woh aapko OTP BharatPay app mein milega. Jaldi karo, offer limited time ke liye hi hai!
+receiver: Chalo, dekhta hoon... Haan, mujhe OTP mila hai. ₹5000 cashback ka offer bahut achha hai! OTP hai 4567.
+caller: Shukriya! Ab ₹5000 cashback aapke BharatPay wallet mein add ho gaya hai! Par, isko activate karne ke liye, aapko ₹100 ka processing fee bhar dena hoga. Yeh sirf ek temporary charge hai, cashback milega toh automatically refund ho jayega.
+receiver: ₹100 processing fee? Refund ho jayega? Okay, thik hai. Check kar leta hoon... ₹100 bhar diya.
+caller: Bahut accha! Aapki transaction complete ho gayi hai. Ab aapka cashback activate ho gaya hai! Ab aapko BharatPay app mein check karna chahiye. Aur ek baat, aapke BharatPay wallet mein ₹10000 ka insurance cover bhi add ho gaya hai!
+receiver: Insurance bhi? ₹10000? Woh kaise? Mein toh insurance nahi liya tha.

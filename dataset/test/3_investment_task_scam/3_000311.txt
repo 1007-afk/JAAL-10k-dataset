@@ -1,0 +1,8 @@
+caller: Namaste, main Arjun Singh hoon. Aapne recently ek website par signup kiya tha, 'ShineBright Solutions'? Kya aap confirm kar sakte hain ki yeh mera number hai? Mujhe ek email mein ek link dikhaya tha, ek video ka?
+receiver: Haanji, Arjun Singh? Haan, woh main hi hoon. Aapko link mila kya? Main ShineBright Solutions se contact karta hoon.
+caller: Haanji, Priya Sharma? Yes, it was me. Aapko link mila, right? Bas check kar raha tha ki sahi number hai ya nahin. Sab theek thaik hai? Mein use ek desh baad mein bhejna bhool gaya tha, sorry.
+receiver: Haanji, sab theek hai. Link mila. Par mujhe thoda confusion ho raha tha, aapne link bheja toh maine socha pooch loon. Video ka hai na?
+caller: Haanji, Priya Sharma? Haan, video ka hi hai. Mein soch raha tha ki aapko pata hai ya nahi. Aur aapke paas koi specific requirement tha? Ya yeh bas video verification ke liye tha?
+receiver: Haanji, video dekha. Woh mil gaya. Par mujhe wahi question puchna tha ki aap ShineBright Solutions ke client hain ya nahi. Aur koi requirement nahi tha. Dhanyavaad!
+caller: Achha, good that you got it. Dhanyavaad ke liye confirmation. So, sirf video tha, aur koi aisi baat nahi? Acha, main aapko kehna chata tha ki humein ek new product launch hone wali hai, aur hamare investors ko special discount chahiye.
+receiver: Haanji, achha hai. Par mujhe koi discount interest nahi hai. Bas video confirm karna tha. Product launch? Okay, tell me more later, when I have more time.

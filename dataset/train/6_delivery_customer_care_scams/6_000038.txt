@@ -1,0 +1,11 @@
+caller: Namaste! Aap kya kar rahe hain? Kaise ho aap? Humne dekha hai ki aap ne recently online shopping ki thi, aur humein badi khushi hai ki aap ne 'ShineKart' se Diwali sale mein ek beautiful saree ka order diya tha.
+receiver: Haan, maine ShineKart se saree dilayi thi. Woh bahut khoob thi.
+caller: Tumhare order mein ek small issue hai. Payment gateway mein ek technical glitch hua tha, kyoon hi aapko ₹500 extra charged hua hai. Humare office mein koi mistake hua, aur hum chahte hain ki hum aapko yeh mistake rectify karein.
+receiver: ₹500 extra? Wo toh achcha nahi hai. Kya kar sakte hain?
+caller: Aapko hamein sirf ₹200 deposit karna hoga, aur hum phir se ₹300 refund kar denge. Ye ek simple process hai, aur aapko sirf 10₹ per minute call karna hoga. Agar aapko problem solve karna hai, to 09876543210 pe call karein. Call ka charge ₹10 per minute hai.
+receiver: ₹200 deposit karna hai? Okay, okay. Number note kar leta hoon. 09876543210. Time kya hai?
+caller: Aapko 11 AM se 6 PM tak call karna hoga. Humara team aapki madad karenge. Agar aapko koi confusion hai, to please call karein.  Yeh offer sirf aaj ke liye hai, agar aapko delay hua to aapko ₹500 payenge.
+receiver: Aaj ke liye hai? Okay, then I’ll call immediately. Thank you for informing me.
+caller: Ji ji, jaldi karin, warna aapko ₹500 payenge.  Aapko jo bhi information chahiye, unka request karein.  Hum sab kuch sahi kar denge.  All the best!
+receiver: Okay, thanks again. Main abhi call karta hoon.
+caller: Wonderful!  Aapko aapki account details batana hoga, just for verification purposes.  Don't worry, we are very secure.  Agar aapko koi darr lagta hai, to please don't hesitate to call us back.

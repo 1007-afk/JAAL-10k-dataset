@@ -1,0 +1,11 @@
+caller: Namaste! Main Deepak Verma bol raha hoon, QuickCash Solutions se. Aapne toh recently humari app download ki hai, hai na? Aapka naam Rahul Verma hai, confirm kar sakte hain?
+receiver: Haan, bilkul. Main Rahul Verma hi hoon. App download kiya tha, par abhi use nahi kiya.
+caller: Bahut achha! Hum toh loan approve karne ke liye ready hain, Rahul ji. Aapko kiti ki zarurat hai? ₹10,000 se ₹75,000 tak, koi bhi amount hum offer kar sakte hain.
+receiver: Hmm, mujhe ₹30,000 tak ki loan chahiye thi. Kya interest rate kitna hoga?
+caller: Rahul ji, interest rate bahut hi attractive hai, sirf 12% per annum. Par verification ke liye kuch documents ki zarurat hogi, jaise aadhaar card, bank statement, aur kuch recent photo.
+receiver: Aadhaar card aur bank statement toh fine hai, photo kyon chahiye?
+caller: Rahul ji, security ke liye, aur yeh check karne ke liye ki aap genuine applicant hain. Photo sirf ek verification process hai. Jab aap loan repay karna band karenge toh hum photo ka use nahi karenge, promise. Jaldi se send karein, time limit hai.
+receiver: Aur agar main loan repay nahi kar paya toh kya hoga?
+caller: Rahul ji, agar aap time se repay nahi karte toh humko sorry hai, lekin humko aapki contacts ko inform karna padega. Aur aapki personal photos bhi humko share karne padenge.
+receiver: Contacts ko inform karna? Ye toh thoda zyada lag raha hai.
+caller: Rahul ji, rules hain, rules. Loan lene se pehle rules padh lete. Abhi send karein documents, warna offer cancel ho jayega.

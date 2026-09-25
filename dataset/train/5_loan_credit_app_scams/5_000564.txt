@@ -1,0 +1,8 @@
+caller: Hello, this is Akash from FastCash Loans. I see you recently applied for a loan on our platform. We've pre-approved you for a quick loan of ₹15,000. Just need to verify a couple of details.
+receiver: Haan, ji. FastCash? I remember applying. What details do you need?
+caller: Excellent. Just need your OTP for security verification. This is a one-time password sent to your registered mobile number, just to ensure it’s really you.
+receiver: OTP? But I didn't receive any OTP. Are you sure you have the right number?
+caller: Sir, sometimes there's a slight delay. But the loan is waiting for you.  Look, to activate your loan, we require a small processing fee of ₹900 upfront.  Once we receive that, the ₹15,000 will be credited to your account instantly.  No questions asked, it's just standard procedure.
+receiver: ₹900? For processing? I don't remember anything about this in the application. That sounds… suspicious.
+caller: Sir, please don't delay. Many people are applying for loans, and slots are filling fast. This is a limited-time offer, and if you don't pay the ₹900 now, your approval will be cancelled. And believe me, we have your photos from when you applied; we can easily send them to your family if you cause any issues. Do you understand?
+receiver: My photos? What are you talking about? I’m calling the police.

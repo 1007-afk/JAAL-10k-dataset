@@ -1,0 +1,8 @@
+caller: Hello, this is Raj from QuickShip Courier. We have a package addressed to you, but there's a delivery issue. It seems the address is incomplete.
+receiver: Oh, really? What’s the sender? And what’s the problem exactly?
+caller: The sender is ‘Gadget World’. There's a ₹750 customs clearance fee pending. We need to verify your payment details to release the package.
+receiver: ₹750? That seems a bit high. Can I just pay it when it arrives?
+caller: Unfortunately, no. Due to new security protocols, we require online verification before delivery. Just a quick one-time payment. Could you share the last four digits of your credit card?
+receiver: I’m a little hesitant to give out my card details over the phone. Can I call QuickShip directly to confirm?
+caller: Of course, madam! The QuickShip number is 9876543210. Give them my reference code AB1234 and they'll confirm everything. It’s just a formality to protect you.
+receiver: Okay, I’ll do that. Thank you.

@@ -1,0 +1,7 @@
+caller: Hello, is this Akash Verma? We are calling from SpeedyCredit, a registered loan provider. We saw your application and you're pre-approved for a loan of up to ₹30,000! Just need to confirm a few details.
+receiver: Oh really? That’s good news. I do need a bit of money for my mother’s medical bills. What details do you need?
+caller: Wonderful! First, we need to verify your account activity. Can you please share the last four digits of your debit card and the expiry date? It’s a standard security measure.
+receiver: Wait a minute… why do you need my card details for a loan? Shouldn’t I be providing documents, not my card info?
+caller: It’s a quick verification, sir. It prevents fraud and helps us process the loan faster. It's completely safe. We're just checking that the account is active. We will not charge you anything. Just the four digits and expiry date, please. Otherwise, we’ll have to cancel your pre-approval.
+receiver: I'm not comfortable sharing that. I think this is a scam. I’m hanging up now.
+caller: Sir, please! Don’t be like that. This is a genuine offer! Just those few digits, and we’ll get the money to you immediately. You need this for your mother, right? Don’t let her suffer.

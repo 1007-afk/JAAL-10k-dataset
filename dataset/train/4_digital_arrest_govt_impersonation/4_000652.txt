@@ -1,0 +1,9 @@
+caller: Namaste sir, this is Inspector Rajan speaking from the Directorate of Revenue Intelligence, DRI. We've detected some suspicious activity linked to your bank account, specifically regarding an unauthorized parcel delivery from overseas.
+receiver: Kya? Unauthorized parcel? Mujhe toh koi parcel order kiya tha. Kya hua?
+caller: Yes sir. Preliminary investigations suggest a significant amount of undeclared currency was being shipped to your address. This is a serious violation of the Customs Act. To avoid legal proceedings and potential arrest, we need you to cooperate.
+receiver: Arrest? Lekin main toh kuch nahi kiya! Yeh toh galat ho gaya hoga. Mein bank mein check karta hoon account.
+caller: Sir, delaying this investigation will only complicate matters. We need to verify the authenticity of your claims immediately. To proceed, we require a small payment – ₹15,000 – as processing fee to secure your documents and prevent further escalation. Please transfer to this UPI ID: 9876543210@axisbank.
+receiver: ₹15,000? Kaise bhi ho, mujhe confirmation chahiye. Aur koi aur number do jisse main DRI office se baat kar sakoon. Yeh UPI ID se dar lag raha hai.
+caller: Sir, this is a standard procedure. We cannot disclose the direct office number for security reasons. Your cooperation is crucial to resolving this matter swiftly. Once the payment is confirmed, we'll provide you with a reference number and further instructions. This is a one-time payment and will ensure your compliance with the law.
+receiver: Theek hai, mein transfer karta hoon. Parantu, jab tak mujhe receipt nahi mil jati, mein kuch nahi karunga. Aur mein iska record rakhoonga.
+caller: Excellent sir. The receipt will be sent to your registered email address within the next few minutes. Please keep it safe as proof of your payment and

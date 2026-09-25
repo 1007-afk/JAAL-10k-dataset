@@ -1,0 +1,8 @@
+caller: Hello? Ji, aapka ringtone order ke liye thank you. Reference number K718 hai. Aapke mobile pe £4.50 charge hoga. Agar aapka tone nahi aaya toh, please customer services ko 09065069120 pe call karein. Thank you!
+receiver: Ji, theek hai. Thank you for the confirmation. Aur yeh £4.50 ka charge kab hoga mere bill mein? Aur agar nahi aaya tone, toh kitne time mein call karu customer services ko?
+caller: Haan ji, yeh charge aapke next mobile bill mein reflect hoga. Tone nahi aaya toh, aap turant call kar sakte hain, jaisa aapko convenience ho. Hum aapki help ke liye hain.
+receiver: Okay, thank you for clarifying. So, the charge will appear on my next bill. And about the customer service call, do I need to wait for a specific period before calling, or can I call anytime if the tone doesn't arrive immediately after the confirmation?
+caller: No, sir, aapko koi specific time wait karne ki zaroorat nahi hai. Jaisa hi aapko lage ki tone nahi aaya hai, you can call us immediately. We are always available to help you out.  Is there anything else I can help you with today?
+receiver: Nahi ji, bas itna hi tha. Thank you for your help.
+caller: Haan ji, aapko kisi bhi cheez ki zaroorat ho toh hum hamesha available hain. Thank you for your order! Have a great day!
+receiver: Okay, sounds good. Thank you for your help!

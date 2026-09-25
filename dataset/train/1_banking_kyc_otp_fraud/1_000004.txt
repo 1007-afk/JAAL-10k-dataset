@@ -1,0 +1,8 @@
+caller: Namaste ji, aapne meri ek nayi message dekhi thi? Please uss number par call kar lijiye, 09876543210. Aapke paas bas do minute aur hain. Yeh bahut zaroori hai.
+receiver: Haan ji, maine dekhi thi aapki message. Number note kar li hai 09876543210. Main turant call karta hoon. Aapka naam kya hai?
+caller: Ji, mera naam Mrs. Gupta hai. Aur main yeh aapko iss liye call kar rahi hoon kyuki aapki message mein ek bahut hi important notification tha jo aapko turant receive karna chahiye tha. Time jo maine aapko bataya tha, woh thoda bandha hai. Please, jaldi se call kijiye uss number par.
+receiver: Okay Mrs. Gupta. Thank you for the information. I’m going to call that number right now. I understand the urgency. I’ll call 09876543210 immediately.
+caller: Oh, thanks for calling back!  Main toh bahut khushi hui ki aap call kar rahe hain. Just to confirm, aapke pass number hai na? 09876543210. Yeh sach mein bahut important hai.  Do minute ka time hai. Please, jaldi karein.
+receiver: Haan ji Mrs. Gupta, number bilkul sahi note kar li hai. 09876543210. Abhi connect karne ja raha hoon. Aapki baat samajh gayi hoon, time kam hai. Koi tension nahi, main abhi call kar lunga.
+caller: Oh, superb!  Mujhe bahut rahat mili ki aap call kar rahe hain. Just to be absolutely sure, jab aap 09876543210 ko call karenge, toh unhone aapse ek verification code pucha hoga. Please, whatever code unhon ne poochha, sirf verify karo. Yeh update chalne ke liye bahut zaroori hai.  Aap ready ho na?
+receiver: Haanji Mrs. Gupta, verification code ka bhi maamla rakhunga. Ready hoon, abhi connect karta hoon. Dhanyavaad for the information.

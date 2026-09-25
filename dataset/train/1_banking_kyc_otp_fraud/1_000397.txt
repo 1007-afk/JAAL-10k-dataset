@@ -1,0 +1,8 @@
+caller: Namaste ji, main Mr. Verma bol raha hoon. Aapke SBI account mein ek important notification hai.
+receiver: Hello? Ji, kaun bol rahe hain? Main sun raha hoon.
+caller: Main aapki bank ki security team se baat kar raha hoon.  Aapke account mein recently ek small transaction hua hai, jo humne dekha hai.
+receiver: Haanji, Mr. Verma. Haan, bilkul. Bataiye, kya baat hai? Main sun raha hoon.
+caller: Okay, thanks. Actually, we’ve noticed a suspicious transfer of ₹5000 to an unknown vendor. We need to quickly confirm some information to investigate this further. Can you tell me your mother’s maiden name, please?
+receiver: Acha? Suspicious transfer? ₹5000? Yeh kya ho gaya? Dekhiye, mera maa ki shadi mein kitna paisa laga tha?  Woh toh bahut purani baat hai! Kya aap thode din wait kar sakte hain? Main dekh kar batata hoon?
+caller: Problem, sir. Please don’t worry about it. We just need to confirm that you are the legitimate owner of this account.  I am sending you a secure website link now. Just enter your address and pin code there. It’s completely safe and we need it for verification purposes. What do you think?
+receiver: Secure website link?  Aise bilkul nahi ho sakta, Mr. Verma. Bank kabhi bhi aise link nahi bhejta. Yeh toh lag raha hai koi fraud hai. Aapko koi link nahi bhejna chahiye aur na hi mujhe koi details share karni chahiye.  Aap kaun hain aur aapko yeh sab kaise pata chala? Mujhe lagta hai main ye call cut kar raha hoon.

@@ -1,0 +1,9 @@
+caller: Hello, is this Mr. Rajesh Sharma? My name is Inspector Rajan from the Directorate of Revenue Intelligence. We've detected some unusual activity linked to your mobile wallet, PayBuzz.
+receiver: Ji, Inspector Sahab. Haan, main Rajesh Sharma bol raha hoon. PayBuzz mein activity? Kya hua?
+caller: Sir, we’ve traced a series of small but frequent cryptocurrency transactions originating from your PayBuzz account, routed through several shell companies. It appears to be linked to an ongoing investigation into illegal cross-border fund transfers.
+receiver: Cryptocurrency? Lekin sir, main toh cryptocurrency ka use bhi kabhi nahi kiya! Main sirf vegetables aur kirana ka saman PayBuzz se pay karta hoon. Yeh toh galat fehmi hogi.
+caller: That may be, sir. However, our forensic analysis shows a pattern. To clear your name and avoid potential legal complications under the FEMA act, we need to verify your current assets and sources of income. We need a quick verification - could you please share a screenshot of your PayBuzz account balance and a copy of your PAN card? Send it to dirverification@govmail.net.
+receiver: PAN card? Sir, PAN card email pe? Yeh thoda risky toh lag raha hai. Main bank mein jaake baat kar sakta hoon.
+caller: Sir, time is of the essence. Delay could hinder the investigation and affect your compliance status. We are offering a streamlined process to resolve this promptly. As a temporary measure, we can also request you to do a small OTP verification through a secure SMS link to confirm your identity immediately. Please share your registered mobile number.
+receiver: OTP verification? Sir, why can't this be done in person? I’m a little worried about sharing my OTP and PAN card details online. What guarantee do I have that this is a genuine request?
+caller: Sir, these are standard protocols for swift verification in

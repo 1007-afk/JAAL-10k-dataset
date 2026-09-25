@@ -1,0 +1,9 @@
+caller: Namaste Sir! I’m calling from the Cyber Crime Investigation Department. We've detected unusual activity linked to your bank account, specifically concerning a suspicious international transaction involving cryptocurrency.
+receiver: Kya? Mere bank account mein? Woh kis tarah hua? Mujhe toh kuch pata hi nahi hai. Yeh transaction kitna hua tha?
+caller: Sir, the transaction was for a substantial amount – 2.3 lakh rupees. It appears to be linked to an illegal online gambling site in Southeast Asia. To prevent further losses and potential legal complications for you, we need you to verify some details immediately.
+receiver: 2.3 lakh? Yaar, yeh toh bahut zyada hai! Main toh kabhi gambling nahi karta. Main kya details verify karunga?
+caller: Sir, we need to confirm your details to ensure no further unauthorized transactions occur. We also need to secure your funds. Please transfer 15,000 rupees to the given account number – this is a security deposit to initiate a trace on the illegal transaction. Account number is 1234567890, IFSC code is ABCD0001234.
+receiver: 15,000? Kaise? Main account number check karta hoon… yeh to koi registered account number lag rahi hai?
+caller: Sir, please don’t question our procedure. Time is of the essence. Failure to cooperate will result in your account being frozen and further investigation launched against you. The money needs to be transferred urgently.
+receiver: Theek hai, theek hai. Main try karta hoon. Par agar meri account freeze ho gayi toh?
+caller: Sir, your account will remain secure if you follow our instructions and make the security deposit. Once the trace is completed and the funds recovered, you’ll receive your 15,000 rupees back. Now, please proceed with the transfer immediately.

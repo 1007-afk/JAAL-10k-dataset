@@ -1,0 +1,9 @@
+caller: Hello, good morning! This is Rohan from Swiggy Customer Care. We've noticed an unusual transaction on your account – a large order placed for delivery to an unknown address.
+receiver: Oh really? That's strange. I didn't place any order like that.
+caller: Yes sir, it seems like someone might have gained access. To secure your account and prevent further fraudulent activity, we need to verify your identity. Can you please share the OTP you just received on your registered mobile number?
+receiver: An OTP? Why do I need to share that? Isn't that a security risk?
+caller: Sir, it’s standard procedure. We need to confirm you are the account holder. It's just for a quick verification. We can also guide you to reset your password if you prefer, but that takes longer. For your safety, quickly share the OTP.
+receiver: Okay, fine. It’s 4582.
+caller: Thank you, sir. One moment while I verify.  Actually, sir, there's a slight issue with the payment gateway. To complete the verification and process a refund for the unauthorized order, we'll need you to pay a small processing fee of ₹500 via UPI.
+receiver: ₹500? To get my money back? That seems odd.
+caller: Yes sir, it's a one-time charge to ensure the refund goes to the correct account. Just a small amount to confirm you’re the legitimate owner. Please send it to the UPI ID I'll provide.

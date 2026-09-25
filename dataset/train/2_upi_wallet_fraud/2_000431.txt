@@ -1,0 +1,11 @@
+caller: Hello sir, is this Ramesh Sharma? I’m calling from FreeCharge customer care.
+receiver: Haan, bolie kya baat hai?
+caller: Sir, we’ve noticed some unusual activity on your FreeCharge wallet. A small transaction of ₹50 is pending verification to prevent fraud.
+receiver: ₹50? Kaunsa transaction? Mujhe toh koi transaction yaad nahi.
+caller: Sir, it’s a cashback refund from a recent online purchase. To complete the verification, could you please share the last four digits of your linked bank card? It’s just a security measure.
+receiver: Bank card ka number? Yeh thoda risky lag raha hai. FreeCharge toh OTP se verify karta hai, na?
+caller: Sir, this is a new, enhanced security protocol. OTP is for smaller amounts, but for cashback refunds, we need the last four digits to ensure it's you. Don't worry, it's perfectly safe. Just share it quickly before the refund gets cancelled.
+receiver: Okay, fine. ₹50 ka refund hai toh chalega. 1234.
+caller: Thank you, sir. The transaction is now complete. You’ll see the ₹50 credited to your wallet within 24 hours.
+receiver: Theek hai. Main check karta hoon.
+caller: Sir, one more thing! To further secure your account, we need to quickly update your KYC details. It’s a one-time process. Could you please share your Aadhaar number?

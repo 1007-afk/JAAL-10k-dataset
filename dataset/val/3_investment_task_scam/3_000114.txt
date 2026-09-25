@@ -1,0 +1,16 @@
+caller: Hello? Tumne mujhe kabhi dekha bhi hai? Main woh hoon jo tujhe ₹5 लाख transfer karne ke liye call karta tha.
+receiver: Oh, hello! Haan, yaad aaya. Tumne kaha tha ki mujhe ₹5 लाख transfer karni hai, sahi?
+caller: Arre, haan! Tumhare bank account mein paisa jaldi se dhundha hai, lekin koi error aya hai. Ismein tumhara koi mistake nahi hai. Main tujhe phir se paisa send karne ja raha hoon, lekin is baar koi problem nahi hoga.
+receiver: Really? Achcha, bilkul samajh mein aaya. To, kya karna hai? Mujhe bolna.
+caller: Chaliye, tumhara bank account number confirm karo. Agar tum cheque likho toh, main tujhe ₹5 लाख Paytm se bhi de sakta hoon.
+receiver: Wait, wait! Bank account number mat bataungi.  Mujhe yeh check karna padega ki yeh genuine hai ya nahi.  Tumhara phone number bataoge?
+caller: Arre, genuinely toh main hoon!  Mein tujhe ₹5 लाख Paytm se bhi de sakta hoon, isliye mujhe phone number chahiye.  Agar tum phone number mat dete toh, main khud hi paisa transfer karta reh jata.
+receiver: Hmm, okay. Phone number bataoge?  Par yeh batao, ye ₹5 लाख kis liye hai?
+caller:  Yeh ₹5 लाख… woh tujhe meri business mein invest karne ke liye hai.  Ek badi deal hai, aur tere investment se company ka bahut bada benefit hoga.
+receiver: Business mein invest?  Interesting.  To, business kaunsi hai?  Koi specific sector hai?
+caller:  Sector toh bahut zyada hai, Madam!  Par yeh business totally new hai, aur mein tujhe ek chance de raha hoon.  Agar tum agree karte ho toh, hum dono saath mein bade rich honge!  Kab aa rahe ho meeting ke liye?
+receiver: Meeting? Kya meeting?  Main abhi kaam mein hoon.  Mujhe koi meeting nahi attend karna hai.  Mujhe sirf bank account number chahiye tha.
+caller:  Arre, tumhari kaam ki kami hai!  Ye opportunity tumhare liye bahut zaroori hai.  Agar tumhle paisa invest kiya hota toh, aaj tum bahut happy hote!  Main tujhe ₹5 लाख Paytm se bhi de sakta hoon, agar tumhle yeh decision soon le lega.
+receiver: No, no.  Main seriously worried hu.  Yeh sab kitna suspicious lagta hai.  Maine tumhara phone number le liya hai, lekin main yeh paisa transfer nahi karungi.
+caller:  Arre, madam, tu mujhse pyaar karta hai, ishi vajah se tujhe ₹5 लाख de raha hoon!  Aaj raat ko hum dono milenge, aur sab kuch badal denge!
+receiver: What?!  What are you talking about?  Maine tumhara phone number le liya hai, lekin main tumhe koi paise transfer nahi karungi!  Main police ko call kar rahi hu!

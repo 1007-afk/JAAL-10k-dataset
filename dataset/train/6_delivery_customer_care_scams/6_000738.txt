@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mrs. Verma? My name is Rohan, calling from EasyBuy customer care. We’ve detected some unusual activity on your account.
+receiver: Haan, Mrs. Verma. Unusual activity? Kya hua?
+caller: It appears someone attempted to place an order for a high-value appliance, but the payment failed. To secure your account, we need to verify a one-time password sent to your registered mobile number.
+receiver: OTP? But I didn’t order anything. Okay, wait, let me check.
+caller: Absolutely, Mrs. Verma. Security is our top priority. Please share the OTP so we can complete the verification process and prevent any unauthorized transactions. It’s a simple 4-digit code.
+receiver: Hmm… this feels a bit strange. Why can’t I call your customer care number directly?
+caller: Due to high call volumes, we’re contacting customers directly to resolve these issues quickly. Sharing the OTP is the fastest way to protect your account, ma’am. It will only take a moment.

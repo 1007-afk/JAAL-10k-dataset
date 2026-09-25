@@ -1,0 +1,6 @@
+caller: Namaste, sir. This is Inspector Sharma calling from the Directorate of Revenue Intelligence, DRI. We've detected some suspicious activity linked to your bank account, specifically involving undeclared foreign remittances.
+receiver: Suspicious activity? What kind of activity? I haven't sent any money abroad recently.
+caller: Sir, our records show several transactions routed through cryptocurrency exchanges. These transactions are flagged as potentially linked to illegal arms dealing. We need to verify your details urgently to ensure you aren't unknowingly involved. Can you please confirm your account number and the last four digits of your PAN card?
+receiver: Wait a minute. This sounds fishy. Why are you asking for my PAN details over the phone? Shouldn't I be receiving a formal notice through registered post? And why crypto? I don’t even use cryptocurrency.
+caller: Sir, time is of the essence. Delays can lead to serious legal consequences. To clear things quickly and avoid potential arrest warrants, we need to verify the information now.  We also need a small processing fee of ₹5,000 to clear the case and issue a clearance certificate. You can pay it through UPI to the number I'll give you.
+receiver: ₹5,000?  This is ridiculous.  I’m reporting this to the cybercrime helpline immediately. You are a scammer! I'm hanging up now.

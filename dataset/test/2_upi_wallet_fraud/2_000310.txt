@@ -1,0 +1,6 @@
+caller: Namaste! Sir, hum PhonePe support se baat kar rahe hain. Aapke PhonePe wallet mein ek bahut zyada amount ka transaction hone wala hai, ₹12,500. Isko confirm karne ke liye, aapko ek OTP verify karna hoga.
+receiver: ₹12,500? Transaction? Mujhe toh koi transaction yaad nahi. Aur PhonePe support ka number toh direct mil jata hai na? Yeh kaun ho aap?
+caller: Ji, yeh ek automated alert hai. Scam hone se bachaane ke liye. Aapko OTP verify karna hoga aur mujhe batana hai. OTP receive hone ke baad, mujhe share karna hai. Jaldi kijiye, sir, transaction bas abhi hone wala hai.
+receiver: Wait, wait. Ek minute. Koi bhi OTP number share nahi karna chahiye. PhonePe toh direct message bhi karta hai. Ye automatic alert lag raha hai. Main check karta hoon.
+caller: Sir, time kam hai. ₹12,500 ka loss hoga agar aap confirm nahi karte. OTP share karna hi padega. Isko fast karna hoga!
+receiver: Nahi, sir. Main abhi kisi ko koi OTP nahi dene wala. Yeh fraud lag raha hai. Main PhonePe customer care se khud contact karoonga.

@@ -1,0 +1,8 @@
+caller: Namaste! This is Priya calling from 'QuickCash Solutions'. We've noticed you recently applied for a personal loan online. Congratulations, you’ve been pre-approved for an amount up to ₹75,000! To finalize the process and release the funds, we just need to verify a few details. Can I speak to the applicant, Mr. Verma?
+receiver: Haan, main Verma hi hoon. Bolo, kya verification hai? ₹75,000 ka loan, achcha hai.
+caller: Wonderful, Mr. Verma! First, could you confirm the last four digits of your Aadhaar card for verification purposes? Also, to secure your account and prevent fraudulent activities, we need you to quickly visit our verification portal: secure-cashverify.online. It’s very easy, just follow the steps.
+receiver: secure-cashverify.online? Dekhiye, main busy hoon abhi. Kya yeh safe hai? Mere bank details wahaan daalna padega?
+caller: Absolutely safe, sir! We use the latest encryption technology. It’s a one-time verification process, and it’s crucial to unlock your loan. We have many customers getting their loans approved right now! Just enter your account number and IFSC code - it’s essential to activate your loan. Only a few spots left, Mr. Verma!
+receiver: Wait a minute... account number aur IFSC code? Loan approved, phir bank details kyun pooch rahe hain? Yeh kuch ghalat lag raha hai.
+caller: Don't worry, sir! This is standard procedure. We need to link your account to receive the disbursement. If you don't complete this verification within the next 15 minutes, your pre-approval will be cancelled. Please hurry, Mr. Verma!
+receiver: Theek hai, main ek minute mein dekh leta hoon. Par agar kuch hua toh main

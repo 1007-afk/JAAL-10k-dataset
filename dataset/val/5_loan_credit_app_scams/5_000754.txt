@@ -1,0 +1,9 @@
+caller: Namaste! Main Rahul se Sunil Credit Solutions se baat kar raha hoon. Aapne 'QuickCash' app par loan ke liye apply kiya tha, hai na?
+receiver: Haan, maine apply kiya tha. Koi update hai?
+caller: Haan, aapka application approved ho gaya hai, ₹75,000 ka loan. Bahut hi easy hai, bas kuch verification steps complete karne hain.
+receiver: ₹75,000? Aur interest rate kitni hogi? Aur verification steps kya hain?
+caller: Interest rate sirf 8% hai, bahut hi kam! Verification ke liye, hamein aapki gallery se ek photo chahiye, sirf process confirm karne ke liye, aur ₹2,500 processing fee.
+receiver: Gallery se photo? Processing fee? App mein to kuch nahi likha tha.
+caller: Haan, ye ek new security measure hai. Agar aap photo nahi bhejenge, to loan process stop ho jayega. Aur ₹2,500 processing fee bina interest ke return ho jayega, trust me.
+receiver: Maine loan ke liye apply kiya tha, blackmail karne ke liye nahi. Main police mein complaint karunga.
+caller: Arre, arre! Galat fehmi ho gayi hai! ₹2,500 sirf processing fee hai, woh return ho jayega! Photo sirf verification ke liye hai, aapki privacy safe hai! Please, jald se photo bhej dijiye!

@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Apke BharatPay wallet mein ek transaction fail ho gaya hai, aur security ke liye verify karna hai.
+receiver: Oh, okay. Transaction fail? Main abhi check karta hoon. Woh transaction kitna tha?
+caller: ₹2500 tha, sir. Isko complete karne ke liye, aapko apne BharatPay app mein login karna hoga aur ek small verification fee pay karna hoga. ₹50 ka fee hai, sir.
+receiver: ₹50? Verification fee? Main BharatPay app mein toh koi fee nahi dekh raha.
+caller: Haan sir, lekin yeh special security check hai. Aapko UPI ID aur OTP verify karna hoga. Verification ke baad ₹2500 ka transaction automatically complete ho jayega. 
+receiver: UPI ID aur OTP? Thoda suspicious lag raha hai. Main check karta hoon.
+caller: Please verify quickly sir, otherwise account block ho sakta hai. Aapko apna BharatPay ID bhi share karna hoga.

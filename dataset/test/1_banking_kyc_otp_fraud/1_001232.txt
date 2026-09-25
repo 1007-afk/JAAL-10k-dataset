@@ -1,0 +1,8 @@
+caller: Namaste, this is Ankita from Axis Bank’s fraud prevention team. We’ve noticed a large, unusual transaction attempt on your linked UPI account – specifically, a request to transfer ₹12,000 to a new payee.
+receiver: Haan, bolo. ₹12,000? Main toh koi transfer nahi kiya. Kya ho raha hai?
+caller: Exactly, sir! That’s why we’re calling. It’s likely a phishing attempt. To secure your account and stop the transaction, we need to quickly verify some details. Can you please confirm your PAN card number for verification?
+receiver: PAN number? Bank phone pe PAN number maangta hai? Yeh toh suspicious lag raha hai. Mein toh kabhi PAN number phone pe nahi deta.
+caller: Sir, this is a standard security protocol. We understand your concern, but delaying this verification could result in permanent loss of funds. We’re working against the clock here. Just the PAN number, please. And quickly.
+receiver: Okay, okay… but sirf PAN number hi, haan? Aur fir kya hoga?
+caller: Once we verify your PAN, we’ll send you a one-time password (OTP) to your registered mobile number. Please share that OTP with us immediately after receiving it. It's essential to prevent the fraudulent transaction.
+receiver: OTP? Wait a minute. Mein toh abhi bhi suspect hoon. Mein abhi apne bank branch mein phone karta hoon aur poochta hoon. Bye.

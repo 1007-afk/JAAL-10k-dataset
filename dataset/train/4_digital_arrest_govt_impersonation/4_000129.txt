@@ -1,0 +1,8 @@
+caller: Namaste, sir. Main Income Tax Department se Rahul Verma bol raha hoon. Aapke naam par ek illegal transaction report aaya hai.
+receiver: Illegal transaction? Main toh koi transaction nahi kiya. Kya hua?
+caller: Sir, aapke bank account se Gujarat mein ek courier company mein 1.2 lakh rupay transfer hone ki report mili hai. Yeh parcel mein illegal items bhi ho sakte hain.
+receiver: Yeh to galat hai! Main Gujarat mein kabhi nahi gaya, aur mujhe koi parcel bhi nahi chahiye.
+caller: Sir, hamein case ko settle karne ke liye aapka cooperation chahiye. Case number IT-2024-GJ-4582 hai. Aapko online court mein appear karna hoga aur settlement fees bhar deni hogi.
+receiver: Settlement fees? Kitna bhar dena padega? Aur yeh court kahaan hai?
+caller: Sir, court proceedings Zoom se honge. Settlement fees 15,000 rupay bharne honge. Phir case close ho jayega. Aapse request hai ki aap ek OTP receive karenge, usko share karein.
+receiver: OTP? Main OTP kisi ko nahi bataunga. Mujhe yeh sab kuch kuch bhi lag raha hai.

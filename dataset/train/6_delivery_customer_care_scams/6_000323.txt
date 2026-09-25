@@ -1,0 +1,7 @@
+caller: Hello, mai Rahul calling, Flipkart customer care se. Aapke naam par ek order aaya hai, order ID FL7892345. Payment mein kuch problem aa rahi hai, isliye verify karna hai.
+receiver: Flipkart? Haan, lekin mai ne toh kuch order nahi kiya tha.
+caller: Sir, system mein dikh raha hai ki aapne ek smart TV order kiya tha, ₹28,000 ka. Payment fail ho gaya hai. Humara security team check kar rahi hai. Verify karne ke liye aapka OTP bataiye, please.
+receiver: OTP? Lekin mai toh order hi nahi kiya tha! Mainko ek OTP dene se pehle mujhe koi confirmation chahiye.
+caller: Sir, OTP sirf verification ke liye hai. Agar verify nahi kiya toh order cancel ho jayega aur ₹28,000 ka loss ho sakta hai. Aapko smart TV nahi milega. Dekhiye, mai aapko ek link send karunga, usmein aap order details dekh sakte hain.
+receiver: Link? Mainko koi link nahi kholna hai. Ye fraud lag raha hai. Flipkart ka customer care aise OTP nahin puchega.
+caller: Sir, please, time bahut kam hai. Agar aap abhi verify nahi karenge toh order cancel ho jayega. Aapka ₹28,000 barbaad ho jayega aur aapko smart TV bhi nahi milega. Sir, please, ek minute de dijiye. Mai aapko senior officer se connect karta hoon.

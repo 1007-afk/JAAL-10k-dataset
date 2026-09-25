@@ -1,0 +1,7 @@
+caller: Namaste! Mai BharatPay se call kar raha hoon. Aapke BharatPay wallet mein ₹7500 ka cashback offer hai!
+receiver: Oh, really? ₹7500? I didn’t get any notification about this. How can I claim it?
+caller: Haan ji! Yeh ek special Diwali offer hai. Claim karne ke liye, aapko bas apna registered bank account number verify karna hoga.  Isse cashback aapke account mein direct transfer ho jayega.
+receiver: Verify bank account?  I've heard of scams like this. BharatPay usually doesn't ask for bank details over the phone. Are you sure this is legit?
+caller: Sir, bilkul legit! BharatPay ki security system bahut tight hai.  Yeh verification process humara system check karta hai ki aapka account active hai aur cashback aap tak pahunche.  Koi risk nahi hai.  Bas account number bata dijiye, aur ₹7500 aapke account mein deposit ho jayega.
+receiver: Hmm… still a bit unsure. What if something goes wrong?  Can you give me a reference number for this offer, or some other way to confirm it's genuine?
+caller: Sir, reference number ki zaroorat nahi hai. Yeh ek limited-time offer hai, aur verification process zyada time nahi lega. Account number de dijiye, aur main aapko Diwali me khushi de dunga. Jaldi kijiye, offer abhi khatam hone wala hai!

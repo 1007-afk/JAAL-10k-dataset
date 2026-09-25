@@ -1,0 +1,6 @@
+caller: Namaste! Mai Vodafone ka call kar raha hu. Aapke account mein ek suspicious activity detect hui hai.
+receiver: Kya? Woh kya activity hai? Mai toh kuch bhi suspicious nahi kiya.
+caller: Haan ji, aapne Amazon se ek order kiya tha, ₹4500 ka. Lekin payment fail ho gaya tha, aur ab logistika department ne call kiya hai.
+receiver: ₹4500 ka order? Mai Amazon se kuch nahi order kiya tha. Mai toh kabhi bhi Amazon se order nahi karti.
+caller: Aise kaise? Woh dekhiye, system mein dikha raha hai.  Aapko yahaan ek OTP aayega, woh mujhe bataiye, mai aapko order details confirm karunga.
+receiver: OTP? Nahin, mujhe koi OTP nahi aayega. Yeh scam lag raha hai. Mai Vodafone customer care number se call karti hu aur report karti hu.

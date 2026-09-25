@@ -1,0 +1,9 @@
+caller: Namaste ji! Welcome to Tech Solutions India! Tumhara phone 8 mahine ya usse zyada ka ho gaya hai, sahi kaha na maine?
+receiver: Haan ji, bilkul sahi hai. Mera phone approx 6 months complete ho gaya hai.
+caller: Kya baat hai ji! Exactly! Aise hi log bolte hain. Humare paas sirf 2 software upgrades remaining hain aur tumhare device ko secure rakhna zaroori hai. Tumhe pata hai na, yeh offer sirf un logon ke liye hai jina unka phone 8 mahine ya usse zyada ka ho gaya hai, bilkul tumhari tarah! So, tumhare device ko protected rakhne ke liye ready ho?
+receiver: Arey yaar! Software upgrade? Free mein? Yeh toh acha laga. Aur yeh offer sirf mujhe hi mil raha hai? Matlab, koi extra charge nahi hoga na?
+caller: Absolutely! Koi charge nahi hogi ji, totally genuine. Yeh offer hamari loyalty program ka part hai, thanks to our valued customers like you! Dekho, humare paas sirf 1 upgrade bacha hai. Abhi tumhara device check kiya hai, toh yeh offer tumhare liye valid hai. Tumhara naam jaan sakta hoon taaki main tumhare account mein verification kar sakoon aur tumhara device update kar sakoon?
+receiver: Haan ji, mera naam Priya Patel hai. Fir bhi koi technical issues aane ki possibility hai?
+caller: Priya ji, woh possible hai lekin hum sabse best protection provide karte hain. Aur haan, yeh offer tumhare device ko secure rakhne ke liye ek opportunity hai. Tumhara address confirm karna chahte hain, taaki hum update delivery schedule bata sakein. Tumhara address hai 456, Maple Lane, Vaishali, Ghaziabad?
+receiver: Ji, bilkul correct. Mera address hai 456, Maple Lane, Vaishali, Ghaziabad. Aur ye ‘updates’ waale thing, iska kya matlab hai, please batayein?
+caller: Priya ji, yeh updates sirf security patches aur performance improvements hain. Woh tumhare device ko faster aur safer banayenge.  Isliye, kya aap apni device ko update karne ke liye ready hain?

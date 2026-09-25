@@ -1,0 +1,11 @@
+caller: Namaste, sir? Main PhonePe se bol raha hoon. Aapke account mein ek pending transaction hai, 2500 Rupees ka. Payment fail ho gaya hai.
+receiver: 2500 Rupees? Kaunse transaction ki baat kar rahe ho? Main PhonePe regular use karta hoon, abhi toh kuch dekh nahi raha.
+caller: Sir, yeh ek e-commerce website par hua tha, SnapDeal se. Aapne kuch order kiya tha, payment process karte waqt error aa gaya. Ab woh amount hold ho gaya hai.
+receiver: SnapDeal se order? Mujhe toh yaad nahi. Aur PhonePe se aise message kabhi nahi aaya.
+caller: Sir, aapke account security ke liye, humein yeh transaction complete karna hai. Bas aapko ek OTP dena hai, verification ke liye.
+receiver: OTP? Arey yaar, yeh toh zyada hi complicated lag raha hai. Kya koi direct link hai PhonePe app mein?
+caller: Sir, app mein technical issues hai. OTP se hi hoga. Aapko 5 minute mein confirm karna hai, warna amount permanent hold ho jayega aur aapko refund bhi nahi milega.
+receiver:  Okay… OTP send karo toh. Par jab problem hoga, toh main PhonePe customer care se baat karunga.
+caller: Haan ji, bas OTP share karein.
+receiver:  Acha, aaya OTP… yeh hai 4829.
+caller: Bahut accha sir! Aapka account ab verify ho gaya hai. Payment automatic complete ho jayega. Thank you for your cooperation.

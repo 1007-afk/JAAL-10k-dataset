@@ -1,0 +1,8 @@
+caller: Namaste ji, SBI bank se baat kar raha hoon. Kya main Mrs. Verma se baat kar sakta hoon?
+receiver: Ji, Namaste. Verma ji? Main hi hoon. Kahiye, aap kya baat kar rahe hain?
+caller: Haanji, Mrs. Verma. Main SBI bank se bola raha hoon. Aapke account mein ek unexpected transaction dekha hua hai, madam. Kya aapko yaad hai, aapne kal kisi ko online payment kiya tha?
+receiver: Online payment? Arre, pata nahi sir. Kal toh main khaas kaam nahi kari. Kahi koi mistake toh nahi ho gayi?
+caller: Aapke account mein ek unexpected transaction dekha hua hai, madam. Kya aapko yaad hai, aapne kal kisi ko online payment kiya tha?
+receiver: Arey, online payment? Mujhe toh bilkul yaad nahi hai kuch bhi aisa karne ka. Kahi kuch gadbad toh nahi ho gayi?
+caller: Madam, yeh thoda important matter hai. Aapke account se ek amount nikal gaya hai, aur humein iski confirmation lena hai. Agar aapne nahi kiya, toh humein jaldi se check karna hoga. Aapke registered mobile number pe ek SMS gaya hai, kya aapko woh mila hai madam?
+receiver: SMS? Nahi madam, mujhe koi SMS nahi mila. Aap keh rahe hain mere account se paise bhag gaye? Yeh toh badi tension ki baat hai. Aap bataiye, yahaan kya karna hoga?

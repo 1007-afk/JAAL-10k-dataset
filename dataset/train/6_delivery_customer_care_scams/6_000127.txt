@@ -1,0 +1,16 @@
+caller: Haan ji, benar hai. Main abhi Raipur mein hoon, Delhi ke paas hi. Aapko kuchh parcel chahiye tha na? Kaise chal raha hai delivery?
+receiver: Haan ji, sahi sun li aapne. Delivery mein thoda delay hoga, baraasa rahein, maybe 8 to 12 minutes lega. Kya aapko kis price mein chahiye? Aur haan, mera naam Deepak Kumar hai, aapko jo bhi requirement ho bata dijiye.
+caller: Deepak ji, acha. Mai 8 minute mein pahunch jaunga. Koi hurry nahi hai.  Aapko jo chahiye tha, woh saman abhi prepared hai mere paas. Aap bas bataiye kya chahiye tha.
+receiver: Wah, itni jaldi! Bahut shukriya. Haan ji, mujhe ek suitcase chahiye tha, usmein few shirts hain. Aapse milkar bahut pasand aaya.
+caller: Deepak ji, suitcase ready hai. Shirts kitni hain, ya koi particular brand ki shirts chahiye? Aur kisi dusre item ki bhi requirement nahi hai na? Bataiyega bas.
+receiver: Ji, shirts to bahut hain, pura suitcase bhar ke hai. Koi particular brand nahi, just some basic cotton shirts. Aur kuch nahi chahiye, sirf suitcase ka box hi chahiye. Aap kaise aaye?
+caller: Deepak ji, mai abhi aa gaya hoon. Aapka suitcase completely filled with cotton shirts is ready. Kisi bhi extra items ki requirement hai toh bataiye, kami hogi ya kuch aur chahiye? Humare paas sab kuch available hai yahan.
+receiver: Arre, extra items ki zaroorat nahi hai, sirf suitcase ka box hi chahiye. Aapka naam bataiye, agar mujhe phir call karna ho toh pata chale.
+caller: Haan ji, benar hai. Main abhi Raipur mein hoon, Delhi ke paas hi. Aapko kuchh parcel chahiye tha na? Kaise chal raha hai delivery?
+receiver: Haan ji, sahi sun li aapne. Delivery mein thoda delay hoga, baraasa rahein, maybe 8 to 12 minutes lega. Kya aapko kis price mein chahiye? Aur haan, mera naam Deepak Kumar hai, aapko jo bhi requirement ho bata dijiye.
+caller: Deepak ji, acha. Mai 8 minute mein pahunch jaunga. Koi hurry nahi hai.  Aapko jo chahiye tha, woh saman abhi prepared hai mere paas. Aap bas bataiye kya chahiye tha.
+receiver: Wah, itni jaldi! Bahut shukriya. Haan ji, mujhe ek suitcase chahiye tha, usmein few shirts hain. Aapse milkar bahut pasand aaya.
+caller: Deepak ji, suitcase ready hai. Shirts kitni hain, ya koi particular brand ki shirts chahiye? Aur kisi dusre item ki bhi requirement nahi hai na? Bataiyega bas.
+receiver: Ji, shirts to bahut hain, pura suitcase bhar ke hai. Koi particular brand nahi, just some basic cotton shirts. Aur kuch nahi chahiye, sirf suitcase ka box hi chahiye. Aap kaise aaye?
+caller: Deepak ji, mai abhi aa gaya hoon. Aapka suitcase completely filled with cotton shirts is ready. Kisi bhi extra items ki requirement hai toh bataiye, kami hogi ya kuch aur chahiye? Humare paas sab kuch available hai yahan.
+receiver: Arre, extra items ki zaroorat nahi hai, sirf suitcase ka box hi chahiye. Aapka naam bataiye, agar mujhe phir call karna ho toh pata chale.

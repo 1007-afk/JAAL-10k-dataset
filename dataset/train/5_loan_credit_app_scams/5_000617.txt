@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Verma? I’m calling from ‘QuickCash Solutions’. We’ve reviewed your recent online application and you’ve been pre-approved for a loan of ₹75,000. Fantastic news! Just a few quick details to verify and we can get the funds transferred.
+receiver: Haan, mein Mr. Verma hoon. QuickCash Solutions? Pre-approved? Kaise? Main toh koi application bhi nahi kiya tha.
+caller: Sir, sometimes applications get filled accidentally. No worries! To confirm, can you please provide the last four digits of your Aadhaar card? It's just standard procedure for verification, sir.
+receiver: Aadhaar card ke last four digits? Woh kyun? Mujhe kuch doubt ho raha hai.
+caller: Sir, it’s a security measure, purely to protect your information. We wouldn't want anyone else fraudulently claiming your loan, would we? Just the last four digits will do - it’s completely safe. Otherwise, the offer will expire in 15 minutes. Think about it, ₹75,000!
+receiver: Theek hai… 4321.
+caller: Thank you, sir! Verification successful. Now, to release the funds immediately, we require a small processing fee of ₹2,500 to be deposited into this account: [Invent a bank account number and IFSC code]. This will be refunded along with your loan amount, of course. Hurry, sir, time is running out!

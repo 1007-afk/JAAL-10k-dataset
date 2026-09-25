@@ -1,0 +1,7 @@
+caller: Namaste! Mein Swiggy se Ayesha bol rahi hoon. Aapke naam par ek order aaya tha, lekin delivery address mein kuch problem hai. Order number SW782349.
+receiver: Haan, Swiggy ka order? Mujhe koi notification nahi aaya tha. Address mein kya problem hai?
+caller: Sir, address incomplete hai. Aapka pin code theek nahi hai. Isko sahi karne ke liye, mujhe aapke bank account details chahiye, taaki mein order ko aapke address pe re-route kar sakun. Bilkul safe hai, sir.
+receiver: Bank account details? Swiggy aise poochti hai? Mujhe toh kuch galti lag rahi hai. Main Swiggy customer care number pe call karta hoon.
+caller: Sir, yeh ek urgent matter hai. Agar aap bank details nahi denge, toh order cancel ho jayega aur aapka ₹1500 bhi deduct ho jayega. Just 2 minutes left to save your order!
+receiver: ₹1500? Wait a minute. Dekhiye, mujhe nahi pata iska koi solution bank details se hai. Main direct Swiggy app se check karta hoon.
+caller: Sir, please hurry! Time is running out. Just confirm your bank account number and OTP. Agar aap cooperation nahi karenge toh aapko legal notice bhi bheja jayega.

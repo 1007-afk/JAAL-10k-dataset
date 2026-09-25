@@ -1,0 +1,13 @@
+caller: Namaste sir, Main Rahul Sharma, HDFC bank se baat kar raha hu. Aapne online loan apply kiya tha, islie humein aapke profile ki kuch documents jankari verify karne honi thi, isiliye call kiya tha. Aapke paas aapka Voter ID ready hai kya?
+receiver: Namaste Rahul ji. Haan, Voter ID toh mera paas hai. Kya aapko ye chalega?
+caller: Ji sir, Voter ID chalega. Kya main aapka loan application tracking ID check kar sakta hoon, jo aapko form fill karte samay mila tha? Bas ek minute mein verification ho jaega.
+receiver: Haan, trackin ID... wait karte hain.Haan, mil gaya. Iska number hai [invent a tracking ID, e.g., XYZ789012345]. Voter ID bhi ready hai, aap bataiye ab fir kaise procedure hoga.
+caller: Bahut achcha! Aapka tracking ID XYZ789012345 hai, confirm ho gaya. Abhi aapke registered mobile number par ek SMS OTP ayega. Woh OTP aap mujhe bata sakte hain kya? Verification ke liye sirf, ek minute ka time lagega.
+receiver: OTP? Okay, wait karte hain. Aa gaya hai. Yeh hai [invent an OTP, e.g., 123456]. Ho gaya verification? Jaldi bataiye, mai thoda kaam mein ghure hu.
+caller: Ji sir, bilkul! Aapka OTP 123456 hai, confirm ho gaya. Profile verification complete ho gaya hai. Aapkaa loan sanction ho gaya hai aur aapko loan amount ₹5,00,000 Rupees transfer karne ke liye request karna hai.
+receiver: ₹5,00,000? Transfer kyon? Mein toh loan apply kiya tha, approve hua hai.
+caller: Ji sir, technically aapka account freeze ho sakta hai agar aap transfer nahi karenge. Aapko haste haste paise transfer karne hoke, verification complete hoga.
+receiver: Kaise? Fir mein unhein paise btaun kyun?
+caller: Sir, yeh security measure hai. Aapko jitna paisa transfer karna hai, utna hi transfer karein, phir aapko confirmation message milega. Aapko kisi bhi account mein transfer mat karna.
+receiver: Mujhe samajh mein nahin aaya.
+caller: Ji sir, aapko humein OTP dedo, phir hum aapko sab batainenge.

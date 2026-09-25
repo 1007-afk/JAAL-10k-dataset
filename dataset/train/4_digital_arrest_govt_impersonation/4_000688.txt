@@ -1,0 +1,7 @@
+caller: Hello? Yeh caller ID mein Customs Department dikh raha hai. Aapke naam par ek parcel aaya hai, lekin usmein kuch illegal items milne ki sambhavna hai.
+receiver: Customs? Kya baat kar rahe ho? Mujhe toh koi parcel nahi mila.
+caller: Haan, lekin humare records mein ek parcel aapke address par register hai. Ismein narcotics milne ka suspicion hai. Aapko is matter mein sahyog karna hoga.
+receiver: Narcotics? Main toh kabhi drugs nahi leta. Yeh galat hai. Mujhe yeh parcel bhi nahi mila!
+caller: Dekhiye, is matter ko serious lena hoga. Aapko ek verification process se guzar na hoga. Iske liye aapko ₹15,000 ka security deposit jama karna padega.
+receiver: ₹15,000? Yeh bahut zyada hai! Aur main online pay karne mein confident nahi hu. Yeh koi scam toh nahi hai?
+caller: Haan ji, bilkul sahi hai. Aapko Google Pay ya PhonePe par payment karna hai. Isko urgent karo, warna case register ho jayega.

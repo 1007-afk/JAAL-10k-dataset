@@ -1,0 +1,10 @@
+caller: Hello? Hello? Can you hear me properly? I am calling regarding your online shopping account. There’s been an issue processing your recent purchase, and we need to update some information. Could you tell me your full name please?
+receiver: Hello? Yes, I can hear you clearly. My name is Priya Patel, like Priya Patel. What kind of information are you needing?
+caller: Good, Priya. Thanks for letting me know. The system detected a problem with your payment method – it looks like there might have been a slight technical glitch. We just want to double-check your address to make sure everything is correct. Is it still 123 Maple Drive, Pune?
+receiver: 123 Maple Drive, Pune? Yes, that's correct. But why are you calling about my payment method? I didn’t receive any notification about a problem.
+caller: That's alright, Priya. Sometimes these things happen automatically. We need to ensure all our records are accurate. Now, we need to verify a small security code. This is a one-time verification step only. You'll see a six-digit code on your screen, it's usually displayed briefly after logging into your account. Can you read out the code to me?
+receiver: A security code? I don't remember seeing any code. I just logged in, but nothing appeared. Maybe it timed out?
+caller: Hmm, okay. Let me resend the code to your registered email address. It should arrive within the next minute. Just to let you know, we have three more attempts to resolve this before your order gets cancelled. We don’t want to lose your purchase. Would you mind providing me with your email address again, please?
+receiver: Sure, it's priya.patel78@gmail.com. Please send it over.
+caller: Excellent. I’ve sent the code to priya.patel78@gmail.com. Please check your inbox and spam folder as well. You’ll find a short message with the six-digit code. Just enter that code when prompted. We have two attempts left. If you face any difficulties, you can contact us at 998XXXXXXXX or visit our website at securepay.in. Thank you!
+receiver: Okay, I'll check my email now. Thank you for your help.

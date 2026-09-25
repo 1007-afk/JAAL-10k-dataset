@@ -1,0 +1,11 @@
+caller: Namaste! Main calling kar raha hu Reliance Digital Payments ke naam par. Apne mobile mein ReliancePay app install kiya hai kya?  Yeh sirf verification ke liye hi call hua hai.
+receiver: Haanji, ReliancePay install kiya hai.  Main use bhi karta hoon kabhi-kabhi.  Kaha kaise hain aap?
+caller: Achha, achcha. Suniye, apke account mein abhi bank statement update nahi hua hai.  Hamari system mein error aa gaya hai, isliye aapko apne account details verify karne ke liye request karna hoga.  Just one small step, ji.
+receiver: Account details verify karne ke liye?  Koi problem nahi hai, bataiye toh sahi.  Mujhe bataiye, kaunse details chahiye?
+caller:  Aapko sirf UPI ID aur OTP chahiye.  Aapko ReliancePay app mein login karein, phir apne profile section mein jayein aur UPI ID aur OTP enter karein.  Yeh process bahut simple hai, ji.
+receiver: UPI ID aur OTP... Okay, main kar sakta hoon.  Par mujhe thik pata nahi hai yeh process kahan se shuru karo.  Mujhe bataiye, app mein kahaan option hai?
+caller:  App mein profile icon par click karein, phir 'Account Settings' mein jayein, aur phir 'UPI Details' option select karein.  Theekin aapko UPI ID aur OTP dekhne milegi.  Yeh har mobile mein hota hai.
+receiver: Achaa, samajh gaya.  Phir main wahaan jayunga.  Aur aapne kaha ki yeh verification sirf isliye ke liye hai, kisi bhi problem ki wajah se?
+caller: Haan ji, verification sirf verification ke liye hai.  Hamare system mein upgradation chal raha hai, isliye technically possible hai ki error aa jaaye.  But don’t worry, aapka data safe rahega.  Agar aap ‘YES’ text karein 987652 pe, toh hum aapko premium support provide kar sakte hain.
+receiver: Premium support?  Okay, thank you Rahul ji.  Main jald hi yeh verification kar lunga.  Phir mulaqat hogi.
+caller:  Ji, aapka din achha chala.  Aur ReliancePay ka usage karte raho!

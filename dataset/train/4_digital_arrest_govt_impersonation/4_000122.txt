@@ -1,0 +1,6 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai.
+receiver: Kya? Mere naam par parcel? Mai toh koi parcel order nahi kiya tha.
+caller: Ji, parcel mein illegal items paaye gaye hain, jo drugs smuggling se related hain. Aapko isme phasna nahi hai. Aapko ₹10,000 fine bhar na hoga, tabhi parcel aapko chhodenge.
+receiver: ₹10,000? Drugs? Yeh bakwas hai! Main kabhi drugs nahi use karta. Aap log ghalat kar rahe hain.
+caller: Sir, yeh serious matter hai. Humare paas proof hai. Aapko video call pe aana hoga, tabhi verify kar sakte hain. Agar aap deny karte hain, toh humko police ko report karna padega.
+receiver: Video call? Police report? Sir, mujhe samajh nahi aa raha. Yeh scam lag raha hai. Main koi call nahi karunga, aur police ko report karunga agar aap ne mujhe disturb kiya.

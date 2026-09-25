@@ -1,0 +1,8 @@
+caller: Tumhara call miss kar liya. Baitha rehingo jab time milega. Mein hoon 0898939
+receiver: Oh, hello! Koi baat nahi. Main busy tha, uske liye maaf karo. Number thanks, save kar dunga. Jab mila, batayega. Main abhi free hu.
+caller: Haanji, acha hai. Agar tum abhi free ho, toh baat kar sakte hain. Main actually ek bahut hi important matter ke baare mein baat karna chahta hoon, jo sirf is evening ke liye available hai. Isse pehle ki yeh khatam ho jaaye, kya tum thoda time nikaal sakte ho?
+receiver: Haanji, absolutely! Is evening ke liye available? Sunke toh interesting laga raha hai. Bataiye, kya hai yeh matter? Main complete time de sakta hu.
+caller: Haanji, thanks for your patience. Dekho, yeh matter ek premium service ke liye hai, jahan aapko high speed internet aur video streaming unlimited access milta hai bahut kam price mein. Hum ek special deal chalane wale hain jahan hum 60% discount de rahe hain, lekin yeh offer bas issi subah 12 baje tak valid hai. Agar aap interested hain, toh main aapki payment details verify kar sakta hun aur yeh offer aapke liye activate kar sakta hun. Bas kuch simple questions puchna hoga, jaise aapka bank account number aur aapki identity card se linked address.
+receiver: Haanji, 60% discount sunke toh aur bhi good laga raha hai! High speed internet aur unlimited streaming toh waise bhi required hai. Mera bank account number hai 1234567890. Aur address hai [Address], identity card se linked. Aap bataiye, kya details chahiye?
+caller: Haanji, thanks for providing that. Aur kya aap mujhe apni age bata sakte hain? Jisse main aapke profile ko properly validate kar saku.
+receiver: Haanji, meri umar 32 saal hai. Toh bataiye, kya procedure hai abhi?

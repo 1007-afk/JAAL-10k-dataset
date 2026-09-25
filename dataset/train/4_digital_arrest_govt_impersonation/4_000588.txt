@@ -1,0 +1,9 @@
+caller: Namaste, is this Mr. Sharma? This is a final notification from the Directorate of Revenue Intelligence. We have intercepted a parcel at the Delhi airport linked to your name containing suspicious items.
+receiver: Haan, bolie. What suspicious items? Main toh kabhi parcel nahi bheja.
+caller: Sir, it’s a serious matter. The parcel contained items potentially linked to international money laundering. We need to verify your involvement to prevent further legal action. Your cooperation is crucial. For verification, can you please provide the OTP you just received on your registered mobile number?
+receiver: OTP? OTP ka kya hoga? Main toh kuch nahi jaanta. Yeh log kis number se call kar rahe hain?
+caller: Sir, this is standard procedure. The OTP is to verify you are the rightful owner of the number. If you don't provide it, we’ll have to escalate this to a higher authority, which could result in a hefty fine. Our reference number is DRI/DEL/2024/456. Please share the OTP quickly.
+receiver: Theek hai, theek hai. Aur kya chahiye? Aur koi number hai jise main call kar sakta hoon?
+caller: Just the OTP, sir. Once we verify, we’ll guide you through the next steps. And please note, to avoid any further complications, we require a small processing fee of ₹5,000 to clear the parcel. You can pay it through UPI.
+receiver: ₹5000? Yeh kya bakwas hai? Main police mein report karunga!
+caller: Sir, please don’t escalate the situation. This is a security protocol. Think of it as an insurance fee to ensure your safety and clear your name. Without this, we cannot proceed, and the matter will be escalated.

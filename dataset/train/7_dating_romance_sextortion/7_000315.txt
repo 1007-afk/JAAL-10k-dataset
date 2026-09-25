@@ -1,0 +1,6 @@
+caller: Namaste! I hope you're having a wonderful evening. I saw your profile on SparkMatch – you’re absolutely stunning! I’ve been searching for someone special like you.
+receiver: Oh, hi! Thank you! That’s really sweet to hear. SparkMatch is a busy place, though. What’s your name?
+caller: My name is Rohan. It’s a pleasure to connect with you, Priya. I’m an engineer, working on a big project overseas right now – in Dubai. Things are crazy hectic, but I keep thinking about meeting someone lovely like yourself. Listen, I was wondering if you could do me a huge favor?
+receiver: A favor? Sure, I'll listen. What did you have in mind?
+caller: My bank is giving me a lot of trouble with transferring funds here. They’re asking for a small verification fee – just ₹1200 – to release the money I need for my project. It’s a temporary thing, I promise. Once it's sorted, I can send you a little something as a thank you for your kindness.
+receiver: ₹1200? That seems a bit much for a verification fee. Are you sure this is legitimate? I’ve heard stories about scams like this. Can you send me a screenshot or something from your bank?

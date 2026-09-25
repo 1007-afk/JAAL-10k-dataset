@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Inspector Verma calling from the Delhi Customs Department. We have intercepted a package addressed to you containing suspicious items.
+receiver: Kya? Suspicious items? What kind of items? I haven't ordered anything.
+caller: Ji, we cannot disclose the exact contents at this stage, but preliminary scans indicate potential involvement in illegal import activities. We need to verify your identity and financial records to clear this matter. Can you please provide your PAN card number for verification?
+receiver: PAN card number? Why do you need my PAN card number? Surely you can verify my identity some other way? This feels a bit fishy.
+caller: Sir, it's standard procedure. We need to cross-reference the information with the shipping manifest. To expedite the process and avoid further delays, we require a small processing fee of ₹5,000 to cover handling and inspection costs. You can deposit it into this account: [Fake Account Number].
+receiver: ₹5,000? For a package I didn’t even order? And you're asking me to deposit money into an account? This is a scam, right? I’m ending this call.
+caller: Sir, please don’t be hasty. This is a very serious matter, and delaying it will only escalate the legal repercussions. We're trying to help you avoid a criminal investigation. Just the small fee, and we can resolve this quickly. Await an SMS confirmation regarding the OTP for verification after payment.

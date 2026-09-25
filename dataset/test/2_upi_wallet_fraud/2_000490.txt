@@ -1,0 +1,6 @@
+caller: Hello, mai Axis bank se Rahul bol raha hoon. Aapke Axis Pay account mein kuch suspicious activity detect hui hai. Security ke liye, account ko verify karna hoga.
+receiver: Oh, seriously? Mein toh Axis Pay regularly use karta hoon. Kya hua, koi problem hai? Mera account number [invented number, e.g., 9876543210] hai.
+caller: Haan ji, naam verify karna hai. Account suspend hone se pehle. Kuch unusual transactions Rajasthan se ho rahe hain. Aap wahan nahin hain, correct?
+receiver: Haan, main Mumbai mein hoon. Rajasthan se transactions? Mujhe toh pata hi nahin. Koi fraud ho raha hai kya?
+caller: Exactly! Fraud se bachne ke liye, aapko ek small verification fee pay karna hoga. ₹2500 deposit karwa den, phir main aapko OTP mil jayega aur account verify ho jayega. Paytm ya Google Pay mein transfer karwa do.
+receiver: ₹2500? Sir, woh bahut zyada lagta hai. Mein Axis bank branch mein jaa kar verify karwa sakta hoon? Aur aap mujhe phone par OTP kyun nahi bhej rahe?

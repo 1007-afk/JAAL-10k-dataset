@@ -1,0 +1,7 @@
+caller: Hello, is this Rohit Sharma? We’re calling from Bluestar Courier regarding a parcel addressed to you. There's a customs clearance issue, and we need to verify a few details.
+receiver: Oh really? A parcel for me? I wasn't expecting anything. What's the sender's name, and what's the parcel about?
+caller: The sender is listed as "Global Electronics," and it appears to be a high-value item – a new laptop. To release the parcel, we require a small processing fee of ₹2,500 to cover the customs charges. You can pay securely through UPI.
+receiver: ₹2,500? That seems like a lot for customs. Can you give me a tracking number so I can check the details on the Bluestar Courier website?
+caller: Absolutely! The tracking number is BS789456123. However, our system is currently experiencing some technical difficulties displaying tracking information online. For security reasons, we’ll need your UPI ID to process the payment and release the parcel immediately. Please share it with me for quick clearance.
+receiver: Wait a minute. I’m not comfortable sharing my UPI ID without verifying this first. I’ll check the Bluestar Courier website and call their official customer care number. Can you give me that number?
+caller: Sir, unfortunately, the official customer care line is extremely busy at the moment. To avoid any delays and ensure your parcel is delivered promptly, providing your UPI ID now is the fastest solution. It’s just a small fee to secure your valuable laptop! Do you want to miss out on that awesome deal?

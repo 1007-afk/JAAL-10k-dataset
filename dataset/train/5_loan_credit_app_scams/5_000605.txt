@@ -1,0 +1,7 @@
+caller: Namaste! Is this Ms. Verma? My name is Akash, calling from ‘InstantCash Solutions’. We’ve noticed you recently applied for a personal loan online. Congratulations! You’ve been pre-approved for a loan of ₹2,00,000. To activate it, we just need to verify a few details quickly.
+receiver: Haan, main Verma hi hoon. Loan apply kiya tha, main. ₹2,00,000? Kitna interest rate hoga? Aur verification ke chakkar mein zyada time nahi lagna chahiye.
+caller: Absolutely, Ms. Verma. The interest rate is competitive, just 8%. The verification process is incredibly easy and takes only 5 minutes. First, we need you to transfer ₹5,000 as a processing fee to this account: 1234567890, IFSC code: PUNB0000123. This is a one-time fee to secure your loan.
+receiver: ₹5,000 processing fee? Loan dene se pehle paise maang rahe hain? Yeh toh thoda strange lag raha hai. Main abhi account number check karti hoon.
+caller: Ms. Verma, it’s a standard procedure to protect against fraudulent applications. Think of it as an insurance deposit. Without this, your loan might be cancelled. Several applicants have already paid and received their loans within the hour. Don’t miss out on this great opportunity. We’ll send you the loan agreement immediately after the payment.
+receiver: Loan agreement? Kab tak loan get hoga? Aur mere contacts ko morphed pictures bhejke sharminda karne ki plan hai na?
+caller: Ms. Verma, please don't worry. We are a completely legitimate company. Just send the ₹5,000 and you’ll have your loan processed immediately. Anyone threatening you

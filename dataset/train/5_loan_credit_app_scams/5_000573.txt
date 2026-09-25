@@ -1,0 +1,7 @@
+caller: Namaste, sir? Main QuickCashLoans.co.in se Ankit bol raha hoon. Aapko urgent loan chahiye kya? Credit score koi matter nahi karta, hum sabko help karte hain.
+receiver: Ji, loan chahiye tha, lekin interest rate zyada to nahi hogi na?
+caller: Sir, humara interest rate industry standard hai. Aapko sirf 5000 rupaye ka loan chahiye tha na? Vo approve ho gaya hai. Par processing fee ke liye, aapko pehle 500 rupaye deposit karne honge.
+receiver: 500 rupaye? Lekin loan toh abhi mila nahi hai.
+caller: Sir, rules hai. Processing fee bina bina deposit kare loan nahi milega. Account details main aapko send karunga, Paytm ya Google Pay se kar sakte hain. Jaldi karo, offer limited time ke liye hai.
+receiver: Theek hai, ₹500 kar deta hoon. Account number dhoongiye.
+caller: Account number hai 9876543210, IFSC code hai PNBK001234. Jab deposit kar diye toh mujhe bataiye, main aapka loan transfer kar dunga. Aur sir, ek baat bataiye, aapki private photos bhi toh secure hai na? Hamara company guarantee deta hai.

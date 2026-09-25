@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mein ICICI Bank se Deepak bol raha hoon. Aapne kuch din pehle Amazon se koi transaction kiya tha, correct?
+receiver: Haan, ji. Maine kuch days pehle Amazon se kuch books order kiye the. Kya baat hai?
+caller: Sir, humein ek suspicious activity detect hui hai aapke UPI linked account mein. Koi ek random amount, ₹799, aapke PhonePe wallet se gaya hai.
+receiver: ₹799? Yeh kya bakwaas hai? Maine kabhi kuch send nahi kiya! Mein PhonePe check karta hoon.
+caller: Sir, jaldi karo. Hacker ne aapka account compromise kar liya hai shayad. Hum aapke account ko secure karne ke liye call kar rahe hain. Apna PhonePe App ka OTP bataiye, taaki hum account block kar sake.
+receiver: OTP? Lekin mein PhonePe mein OTP to receive karunga na? Tumko kyun dena hai?
+caller: Sir, system mein delay ho rahi hai. Security ke liye, OTP mujhse direct lena padega. Trust me sir, aapka paisa theek hai, bas OTP bataiye.
+receiver: Thik hai, ek minute. *types OTP*
+caller: Shukriya sir. Ab aapka account secure hai. Aapko ₹799 cashback offer mil rahi hai. Claim karne ke liye apne Bank account ka last 4 digits bataiye.

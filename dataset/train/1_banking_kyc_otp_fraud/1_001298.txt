@@ -1,0 +1,7 @@
+caller: Namaste, main Shubham Bank se Rahul bolta hoon. Aapke SBI account mein kuch irregularities dikh rahe hain, sir. KYC update bahut zaroori hai abhi.
+receiver: Oh, irregularities? KYC? Mai toh abhi ghar par hi hu. Koi notification mila bhi nahi mujhe.
+caller: Sir, ye ek urgent matter hai. Agar aap abhi update nahi karwaate, toh account freeze ho sakta hai. Aapka phone number confirm kar sakte hain?
+receiver: Haan, phone number... 9123456789. Par mujhe bank se call karta hua koi SMS notification aana chahiye tha.
+caller: Haan sir, system mein kuch technical issue tha. Dekhiye, mujhe aapko ek OTP bhejna padega. OTP milne ke baad aapke naam ke pehle ek question puchunga. Answer sahi hone par account secure ho jayega.
+receiver: OTP? Sir, mujhe bank kabhi bhi OTP phone pe nahi manta. Main branch mein jaakar KYC karwa loongi.
+caller: Sir, branch mein line bahut lambi hogi aur time bhi jayega. Account freeze hone ki possibility bhi hai. Just ek OTP bata dijiye, ek minute ka kaam hai. Agar account freeze ho gaya toh bahut pareshani hogi, sir. Aap apne family ke liye bhi sochiyega?

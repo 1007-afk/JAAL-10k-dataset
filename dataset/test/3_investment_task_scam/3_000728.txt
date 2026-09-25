@@ -1,0 +1,7 @@
+caller: Namaste! This is Priya from Global Task Solutions. We’ve reviewed your profile on WorkIndia and you seem like a great fit for a data validation project. It's very simple – just verifying images and product descriptions on our platform.
+receiver: Hello, Priya. Data validation? What kind of pay are we talking about?
+caller: For each validated task, you'll earn ₹50. It’s easy work; you can do it from home, on your own schedule. To start, we just need to verify your account. Could you please share the last four digits of your bank account number for KYC purposes?
+receiver: Last four digits of my bank account? That seems a bit much just to start a simple task.
+caller: Absolutely necessary, sir/madam! It’s a security protocol to prevent fraudulent activity on our platform. Plus, we’ll need to pay you weekly. Once we have that, we’ll send you a small test batch of tasks, worth ₹200, which you'll need to complete to proceed further.
+receiver: A test batch? Okay, but what if I don't complete the test batch?
+caller: Don't worry! If you complete it successfully, you’ll get the ₹200. However, a small processing fee of ₹50 will be deducted to activate your account – it goes directly to our payment gateway. Please send those last four digits now, so we can get you started right away!

@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Vikram hai, main Bajaj Finance se baat kar raha hoon. Aapko ek achha cashback offer mil raha hai.
+receiver: Bajaj Finance? Kya offer hai?
+caller: Aapke Bajaj Pay wallet mein ₹10,000 tak ka cashback win hua hai. Yeh ek lucky draw ka part hai.
+receiver: ₹10,000? That’s a lot! Verification ke liye kya karna hai?
+caller: Verify karne ke liye, aapko apne Bajaj Pay app mein ek small processing fee pay karna hoga - sirf ₹299. Isse aapka account activate ho jayega aur cashback aapke account mein deposit ho jayega.
+receiver: ₹299? But why a processing fee for a winning amount? It feels a bit fishy.
+caller: Arre bhai, ye security process hai. Fraud se bachne ke liye. ₹299 fee pay karein aur ₹10,000 cashback claim karein! Jaldi karo, offer limited time ke liye hai.
+receiver: Okay, give me the Bajaj Finance helpline number. I will check with them first.
+caller: Helpline number 87878. Abhi Verify Account karo, otherwise cashback miss ho jayega!

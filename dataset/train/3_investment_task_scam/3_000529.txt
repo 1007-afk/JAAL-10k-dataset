@@ -1,0 +1,8 @@
+caller: Namaste! Is this Mr. Verma? My name is Rohan, calling from CryptoGain Solutions. We're thrilled to be reaching out – we've been monitoring your potential in the cryptocurrency market! We’ve identified some incredible opportunities for high returns with a new AI trading bot.
+receiver: Namaste, Rohan. Yes, this is Verma. CryptoGain Solutions? I haven't heard of you before. What kind of returns are we talking about?
+caller: Absolutely! With our AlphaBot, we’re seeing average returns of 15-20% per week. It's completely automated – you simply deposit funds, and the bot does the rest. Right now, we’re offering a limited-time opportunity for new investors. A small initial investment, say ₹5,000, can yield significant profits very quickly. Would you be interested in learning more?
+receiver: ₹5,000? That does sound promising, but it’s a bit risky, isn’t it? What's the catch? And where does this bot trade exactly?
+caller: No catch at all, sir! It’s a legitimate, cutting-edge system. The bot trades on Binance and KuCoin, using sophisticated algorithms to identify and capitalize on market fluctuations. To get started, we just need a quick verification – could you please confirm the last four digits of your bank account? Just for security purposes, of course.
+receiver: Wait, you need my bank details? That seems unusual... I'm not comfortable sharing that. Can you at least tell me who is behind CryptoGain Solutions?
+caller: Sir, without those details, we cannot activate your account and prevent any potential fraud. It’s just a standard procedure. This is so that we can secure your account from unauthorized users. Otherwise, we'd be unable to proceed.
+receiver: I think I’ll pass

@@ -1,0 +1,9 @@
+caller: Hello? Hello? Kya ho raha hai? Yeh humare office se Arjun Kumar ko baat karne ka time hai. Hum ne tumhara lottery ticket number 789456 check kiya hai aur tumhari ticket jackpot mein pad gayi hai! ₹27,500 jeetne wali hai! Iska matlab hai, tumko ₹27,500 paisa milega! Agar tum yeh paisa lena chaaho, toh mujhe abhi call back karna hoga. Tumhara mobile number 09876543210 hai, right?
+receiver: Haan, sun rahi hoon. Lottery ticket number 789456? Jackpot? Seriously? ₹27,500? Wow! Main call karta hoon wapas. Kahan par paisa milega?
+caller: Paisa tumhare bank account mein transfer hoga. Lekin, agar tum cheque ya money order nahi chahoge, toh hum ek confirmation form bhejna parega. Form bharne ke baad hi hum paisa transfer kar sakte hain.  Mera naam Ravi Sharma hai, office se bolta hoon.  Tumhara address kya hai?
+receiver: Haan, bilkul. Mera naam Rani Patel hai. Aur mera address hai 456, Maple Avenue, Mumbai.  Aap log aise cheque form kyun maang rahe hain?
+caller:  Rani ji, yeh sirf verification ke liye hai. Tumhein assure karna hai ki tumhi hi yeh ticket purchase kiya hai.  Agar koi andara aadmi tumhare ticket par hold hai, toh hum unhe detect kar sakte hain.  Tumhara address 456, Maple Avenue, Mumbai sahi hai na?
+receiver: Haan, sahi hai. 456, Maple Avenue, Mumbai.  Verification... ok.  Phir prize kab milega?
+caller:  Hum abhi paisa transfer kar dungae.  Ek do din mein tumhara bank account mein ₹27,500 dikhayega.  Aapko ek SMS jaise update mil jayega.  Koi darrna nahin, yeh puri process secure hai.  Baki, tumhara email id kya hai?  Jab paisa transfer hogaya, toh hum tumse confirm karna chahenge.
+receiver:  Haan, mera email id singh.rani@email.com hai.
+caller:  Singh ji, thanks!  Sab record mein save ho gaya hai.  Aapko abhi call back karne ki zaroorat nahi hai.  Aapko ek SMS jaise update mil jayega.  Shubh kaam kare!

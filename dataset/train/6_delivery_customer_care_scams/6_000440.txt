@@ -1,0 +1,8 @@
+caller: Hello, is this Priya Sharma? I’m calling from FedEx regarding a parcel addressed to you. There's been a slight issue with customs clearance.
+receiver: Haan, this is Priya Sharma. What's the issue? I wasn't expecting anything.
+caller: Okay, Ms. Sharma. It appears there's an outstanding shipping fee of ₹3,850 that needs to be cleared before the parcel can be released. It’s a high-value electronic device, according to our records.
+receiver: ₹3,850? That's quite a bit. What device is it? And why wasn’t I informed earlier?
+caller: It's a new Samsung Galaxy S24 Ultra, Ms. Sharma. The invoice details were slightly unclear during processing, hence the fee. To resolve this quickly, you can pay the fee online through a secure link I'll send you via WhatsApp. Can I have your number please?
+receiver: Okay, my WhatsApp number is 9876543210. But why do I need to pay it via WhatsApp? Can’t I pay directly with FedEx?
+caller: Unfortunately, Ms. Sharma, due to a system upgrade, we're currently directing all payments through a secure WhatsApp portal to ensure the safety of your financial information. It’s a temporary measure. I’ve just sent you the link. Please confirm the payment as soon as possible to avoid a delay in delivery.
+receiver: Just a moment... I'll check my WhatsApp.

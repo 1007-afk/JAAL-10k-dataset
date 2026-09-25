@@ -1,0 +1,11 @@
+caller: Namaste, main Arjun Kumar hoon. Aapne recently ek website par signup kiya tha, dekhe mein, aapke account mein kuch issues hain. Kya aapki contact number padh sakti hoon?
+receiver: Haanji, Arjun Kumar? Haan, padh sakta hoon. Mera number hai 9876543210.
+caller: Dhanyavaad. Jaise aapko yaad aa, aapne Instagram par ek account banaya tha, lekin woh deactivate ho gaya hai. Humne aapko notification bheja tha, par woh aapke inbox mein nahi aaya.
+receiver: Oh, toh woh notification mein tha. Main dekh lunga. Aapne kya karein?
+caller: Humne aapko ek OTP send kiya hai, agar aapko account recover karna hai, toh aap us OTP ko enter karo. Parantu, humein yeh bhi pata hona chahiye ki OTP aapne receive kiya hai ya nahi.
+receiver: Okay, OTP check karta hoon. Thoda sa wait karo. (pause)  Aapne OTP bheja diya?
+caller: Haanji, OTP bheja diya hai. Ab aapko login kar sakte hain.  Dekho, main ne aapke account mein kuch updates lagaye hain, like new security settings.  Yeh bahut important hai aapke data ki safety ke liye.
+receiver:  Okay, login ho gaya. Security settings update ho gaye?
+caller: Haanji, update ho gaye hain.  Aapko abhi ek special offer mila hai - ek free premium subscription.  Yeh offer sirf aaj ke liye valid hai.  Agar aapko interest hai toh, aapko payment gateway ke liye click karna hoga.
+receiver:  Free premium subscription? Interesting. Dekhoon, kaise hai. Payment gateway ke liye click karne se pehle, mujhe bataiye, yeh offer sachacha hai?
+caller:  Haanji, yeh offer completely legitimate hai.  Humne aapke account mein secure access provide karne ke liye yeh initiative liya hai.  Aapko jitna possible ho, apni privacy protect karna chahiye.

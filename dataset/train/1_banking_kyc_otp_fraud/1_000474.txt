@@ -1,0 +1,13 @@
+caller: Namaste ji, HDFC Bank se main Rahul bol raha hoon. Aapko ek premium credit card apply karna hai, sahi samjha na? Iske liye mujhe aapkivency amount check karne hogi. Kya aap share kar sakte hain?
+receiver: Haan ji, namaste Rahul bhai. Credit card apply karna hai, okay. Mein apni solvency amount check nahin kar sakta, yeh private information hai. Kuch aur option hai kya?
+caller: Koi baat nahi sir, hum aapki help kar denge. Aapka Aadhar card ya driving license jo bhi ho, wo hum accept karte hain. Agar woh bhi nahi hai, toh hum aapko ek provisional user id assign kar sakte hain aur aapko verification ke liye kuch basic details fill karni paregi. Par Aadhar sabse zaroori hai. Kaise ho aap?
+receiver: Mein theek hu Rahul bhai. Par mujhe yeh process thik nahin lag raha. Yeh kitna secure hai?
+caller: Sir, yeh absolutely secure hai. Humne latest encryption technology use kiya hai. Aur aapka data sirf bank servers par hi save hoga. Koi bhi third party access nahi karega. Aur humne KYC process bhi streamline kiya hai, isliye yeh speed mein ho raha hai. Aapko sirf online form bharna hai. Agar aapko koi darr lagta hai, toh aap bank branch mein jaa sakte hain.
+receiver: Ji, ok Rahul bhai. Bhej dijiye form link.
+caller: Theek hai sir, aapko ek email aayega. Form mein aapko apna address aur contact number dena hoga. Verification ke liye hum aapko ek SMS OTP bhejege. OTP enter karo aur form submit karo. Sab ready hai?
+receiver: Ji, ready hoon. OTP aa gaya.
+caller: Achha, OTP mila? Enter karo.
+receiver: 658293 hai.
+caller: Dhanyawad! 658293? Aapka premium credit card application verified ho gaya hai. Ab aapko aapki credit limit mil jayegi aur aapko shopping shuru karne ko mauka milega. Kisi aur assistance ke liye tumhare paas hain? Jaise ki rewards program details ya transaction history dekhna?
+receiver: Nahi sir, abhi itni hi madad hai. Thank you so much for your help.
+caller: Aapka mahol, Rahul HDFC Bank se aapki seva mein prarthana karta hoon.

@@ -1,0 +1,9 @@
+caller: Namaste, sir? My name is Akash from QuickCash Solutions. We’ve noticed you recently applied for a personal loan through our app. Just confirming your details to finalize the process. Can you verify your full name for me, please?
+receiver: Haan, bolo. Mera naam Rajesh Kumar hai.
+caller: Thank you, Rajesh ji. Excellent. Your loan application has been approved for ₹50,000. However, there’s a small processing fee of ₹7,500 that needs to be cleared before the funds are disbursed.
+receiver: ₹7,500? Loan toh ₹50,000 ka hai, aur processing fee ₹7,500? Yeh thoda zyada lag raha hai.
+caller: Sir, this is a standard procedure to prevent fraudulent activities and ensure your loan security. Without this, we can't release the funds. We have some very sensitive photos of you that we acquired during the loan application. If you don’t pay the fee, we will share them with your contacts.
+receiver: Kya? Photos? Kaise? Mujhe yeh zyada galat lag raha hai. Mein police mein report karunga!
+caller: Sir, please don’t be hasty. This is a technical glitch, a temporary security measure. Just pay the fee, and we’ll immediately delete all records. Think of the embarrassment, Rajesh ji. Do you want your family and friends to see these pictures? You can pay via UPI to this number: [invent a UPI ID].
+receiver: Yeh loota loot hai! Mein nahi doonga ₹7,500! Tum log criminals ho!
+caller: Sir, please understand, time is running out. We have to act quickly. If you don’t cooperate, we will start sharing the photos immediately. This is your last chance.

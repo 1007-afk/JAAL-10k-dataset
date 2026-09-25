@@ -1,0 +1,6 @@
+caller: Hello sir, this is Pooja calling from PhonePe customer care. We've detected some unusual activity on your account and need to verify it immediately.
+receiver: Unusual activity? What kind of activity? I haven't done anything different.
+caller: Sir, there's been an attempt to send a large amount of money from your wallet to an unknown UPI ID. To prevent fraud, we need to temporarily freeze your account and then re-activate it after verification.
+receiver: Freeze my account? Why wasn't I notified? How much money are they trying to send?
+caller: Sir, security protocols are in place to protect your funds. We need you to share a one-time password (OTP) sent to your registered mobile number to re-activate your account. This is a standard procedure. It will only take a minute.
+receiver: An OTP? But I haven’t received any OTP. And why can’t I check my transactions myself on the app? This sounds suspicious, I’m not giving you anything.

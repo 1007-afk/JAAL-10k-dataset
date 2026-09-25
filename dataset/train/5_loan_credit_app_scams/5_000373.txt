@@ -1,0 +1,8 @@
+caller: Namaste, Madam. My name is Rohan from QuickCash Solutions. We’ve noticed you recently applied for a personal loan on our platform. Just a quick verification call.
+receiver: Haan, ji. Mein toh apply kiya tha. Verification ke liye kya zaroorat hai?
+caller: Absolutely, Madam. For security purposes, we need to confirm your bank account details. Could you please share the last four digits of your account number and the OTP that we just sent to your registered mobile? This is just to prevent fraudulent activity.
+receiver: OTP? Mere phone pe toh koi OTP nahi aaya. Aur bank account number... woh main phone pe nahi batayega.
+caller: Madam, are you sure? Our system shows an OTP was sent. Without this verification, we can't process your loan. And look, we've identified some discrepancies in your application. If you don't verify quickly, we might have to report this to the authorities for potentially fraudulent activity.
+receiver: Discrepancies? Mein toh sahi-sahih fill kiya tha. But I'm not giving out any OTP. You can resend it, I'll check.
+caller: Madam, time is of the essence. We’re seeing suspicious activity on your account. To protect yourself, we need those details NOW. Otherwise, we’ll have to flag your account and potentially share this with collection agencies and your contacts to let them know of potential fraud.
+receiver: Collection agencies? Contacts? Yeh kya bakwas hai? Main toh loan hi nahi lun raha!

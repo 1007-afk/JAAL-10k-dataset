@@ -1,0 +1,9 @@
+caller: Namaste, Main Axis Bank se Ajeet bol raha hoon. Sir, aapke Axis Bank account mein ek suspicious transaction attempt kiya gaya tha. Security ke liye, humein aapki KYC details update karne ki zarurat hai.
+receiver: Kya? Suspicious transaction? Kaunsa transaction? Bataiye, kitna hua?
+caller: Sir, ₹25,000 ka attempt kiya gaya tha, lekin humein woh block kar diya. Par, humein aapka account safe rakhne ke liye, PAN card aur Aadhaar card number verify karna hoga. Thoda wait karein, main aapko ek OTP bhejna tha.
+receiver: PAN card aur Aadhaar number? KYC toh online bhi ho sakta hai na? Meri meri privacy bhi toh hai na?
+caller: Sir, yeh ek emergency protocol hai. Hum online system ko update kar rahe hain. Agar aap details nahi dene se, toh humko aapka account temporary suspend karna padega. 3 attempts hi hain, agar fail ho gaye toh account block ho jayega.
+receiver: Account block? Arre yaar! Theek hai, theek hai. Mujhe Aadhaar number yaad nahi, par PAN card number pata hai. OTP kab milega? Main kya karoon?
+caller: Sir, OTP aapke registered mobile number par milega. Aap PAN card number bata dijiye, phir OTP verify karne par aapka account safe ho jayega. Jaldi karo, sir, time kam hai.
+receiver: Theek hai, mera PAN number XYZ12345. Ab OTP ka wait karunga. 
+caller: Thank you, sir. Aapka OTP hai 6789. Verify karein jaldi. Aapka account suspend hone se pehle.

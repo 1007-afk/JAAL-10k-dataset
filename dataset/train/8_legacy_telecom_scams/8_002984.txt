@@ -1,0 +1,8 @@
+caller: Namaste, is this Rohan Kumar? Ji, bolo. Main Bharat Digital Solutions se baat kar raha hoon. Aapne recently online video course ke liye payment kiya tha, aur humare records mein dikhta hai ki aapne uss course ko abhi tak complete nahi kiya hai.  Aapko [learnsmart.global](http://learnsmart.global) par jaakar course complete karna hai. Aapke paas sirf 7 minutes aur bache hain.  Please jaldi kijiye.
+receiver: Haan ji, Rohan Kumar bol raha hoon. Course? Oh yes, that online video course. Arre, payment to kiya tha? Okay, I’ll go check learnsmart.global right away. Thank you for reminding me, otherwise I would have completely forgotten about it. 7 minutes hai na? I will do it now.
+caller: Ji Rohan Kumar, exactly! 7 minutes hain, toh der mat karo. [learnsmart.global](http://learnsmart.global) par jaakar immediately complete kar lijiye. Aapse notification aa jayega jab complete ho jayega. Aapki course aapke naam par hi wait kar rahi hai.
+receiver: Haan ji, kar raha hoon complete. Thanks for the reminder, actually forgot about it entirely.  Course mein kya-kya hai vaise?
+caller: Ji Rohan Kumar, woh aapke interest ke based hai. Aapko industry ke top experts ne create kiya courses milega. Time ka pressure hai, toh pehle complete kar lijiye, phir aap dekhte rahega.  Jaldi kijiye, timer chal raha hai!
+receiver: Haan ji, complete ho gaya! Phew, bas ho gaya. Thanks a lot! Course kitna time ke liye valid rahega?
+caller: Excellent! Sir, course aapki profile ke according hai.  Bas aap complete karte hi aapko access mil jayega.  Bahut jaldi complete kar liya aapne, waise!  Koi aur sawaal nahi?
+receiver: Theek hai, thanks for informing me. Koi aur problem nahi?

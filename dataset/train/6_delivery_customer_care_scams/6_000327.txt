@@ -1,0 +1,6 @@
+caller: Hello, is this Mrs. Sharma? My name is Rohan from SecureTrack Logistics. We're calling about a parcel addressed to you, tracking ID ST789456. It appears there's an urgent customs clearance fee required before delivery.
+receiver: Customs clearance fee? I don’t recall ordering anything that would require that. Can you tell me what the package contains and from whom it's being sent?
+caller: Certainly, madam. It's a high-value electronic item, originating from GlobalTech Solutions. The customs department flagged it for a routine verification, and a small fee of ₹899 is needed to proceed. We can send you a link to pay directly.
+receiver: ₹899? That seems a bit high. Can I speak to someone at GlobalTech Solutions to confirm this?  I’m not comfortable paying without confirmation.
+caller: Unfortunately, madam, GlobalTech is very busy right now. To avoid delivery delays, and potential return of the package, we require the payment within the next hour. We can offer you a special discount if you pay right away. It will be ₹750.
+receiver: Hold on a second. I’m getting a very strange feeling about this. Let me just quickly check something… I’m calling the police now.

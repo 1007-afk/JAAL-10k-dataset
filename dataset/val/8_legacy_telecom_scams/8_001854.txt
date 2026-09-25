@@ -1,0 +1,8 @@
+caller: Namaste! Main Rajesh Sharma bol raha hoon, India Telecom se. Aapko ek special offer milna hai, aapki internet speed badhane ke liye. Yeh Diwali ke occasion par hum ne ek bumper discount di hai. Agar aap abhi subscribe karte hain, to aapko 50% tak cashback milega! Just 2 slots available, agar aapko interest hai toh 9820123456 number par call karein.
+receiver: Oh, really? 50% cashback? That’s great! Haan ji, meri internet speed bohat kamshani hai, especially during evening hours.  Mujhe bahut frustration hota hai.  Kitni duration ke liye ye offer valid rahega?
+caller:  Agar aap abhi call karte hain, to aapko 6 months ke liye 50% tak cashback milega.  Aur aapko free installation bhi milega!  Aapke address par ek technician aaega aur woh sab setup karega.  Par sir, mujhe bataiye, aapke ghar mein kya type ka internet connection hai?  Is it broadband ya wifi?
+receiver:  Haan, hume broadband hai.  Phir aapke ghar mein kya connectivity hai?  Hai na, mai toh confused hoon.
+caller:  Broadband ke liye hamare 2 types ke router available hain - Fiber optic aur coaxial cable.  Aapko jo fit hoga, wo hum install karenge.  Aur aapke ghar mein electricity bill ka payment regularly hota hai?
+receiver: Haan, regular hota hai.  Phir aapke router ka price kya hoga?  Mujhe budget bhi keep karna hai.
+caller:  Router ka price ₹2,000 se shuru hota hai.  Par cashback ke baad, aapko ₹1,000 tak save hone vala hai!  Agar aap abhi call karte hain, to aapko 1 slot bacha hai, jaldi karein!  Aap Aryan aur Myra ko internet connection se khush rakh sakte hain!
+receiver:  Aryan aur Myra?  Oh, they are playing online games.  Okay, okay, I am calling now.  Thank you very much for this information!  I hope I can get this deal!

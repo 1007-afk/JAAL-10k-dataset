@@ -1,0 +1,8 @@
+caller: Hi! I hope you’re having a good day. I saw your profile on InstaSpark, and wow! You’re absolutely stunning. My name's Rohan.
+receiver: Hello Rohan. Thank you! That's very kind of you to say. I'm Priya. InstaSpark, huh? Haven’t been on it long.
+caller: It’s great to meet you, Priya! I really like your pictures. You seem like a lot of fun. I’m actually visiting Mumbai next month for a business trip. I'd love to meet up if you're free.
+receiver: A business trip? That's interesting. What kind of business are you in? And Mumbai isn’t that far from where I am.
+caller: I work in import-export, mostly dealing with electronics. It's a bit complicated to explain. Listen, I’m in a bit of a bind – my bank account is frozen temporarily due to a system error, and I urgently need to transfer some money for a crucial deal. Would you be able to lend me 15,000 rupees just for a few days? I'll pay you back with interest as soon as my account is sorted. It’s really important, Priya.
+receiver: 15,000 rupees? That's quite a lot to lend to someone I just met online. And a frozen bank account… that sounds suspicious. I think I'll pass, Rohan. I'm not comfortable with that.
+caller: Please, Priya! I understand your hesitation, but I’m desperate. It's a massive opportunity, and this could really set me up. As a sign of good faith, I'll share a copy of the bank's notification with you. Just trust me on this one.
+receiver: I don't think so. Sharing a notification doesn'

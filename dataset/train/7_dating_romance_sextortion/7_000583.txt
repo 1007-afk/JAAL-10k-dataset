@@ -1,0 +1,7 @@
+caller: Namaste! This is Rohan from SparkMatch. I noticed your profile and thought you seemed lovely. I'm enjoying connecting with new people on here. Would you be open to chatting a bit more?
+receiver: Hello Rohan! Thank you for the compliment. Yes, I'd like to chat. What do you do?
+caller: Wonderful! I work in logistics, mostly international shipments. It can be hectic, but I enjoy it. My schedule is a little crazy right now, but I'd love to hear about you. Just confirming, you’re on SparkMatch, right? The system charges a small fee for extended chats, around ₹8 per minute, to cover server costs. It's a standard thing here.
+receiver: ₹8 per minute? That seems a bit high, but okay, I understand. Yes, I'm on SparkMatch. Tell me more about yourself.
+caller: It is a bit, I know! They claim it's for security and server maintenance. Don't worry about it too much. I’m actually planning a trip to visit my mother in Kochi next month. Flights are crazy expensive. I was wondering if you'd be free to share a few pictures with me? Just something casual, for me to remember you by. Nothing too formal!
+receiver: Pictures? Why do you need pictures? I'm not really comfortable sharing those with someone I just met.
+caller: I understand your hesitation, but it would mean a lot to me. It's just to have a memory of our chat, you know? Also, I'm in a bit of a tight spot financially with this trip. I need to send my mother some money for her medication. Would you be willing to send a quick photo? Maybe just your smile? It would really brighten my day.

@@ -1,0 +1,6 @@
+caller: Namaste! Mai Swiggy customer care se Rahul bol raha hoon. Aapke recent order mein kuch problem hai. Payment fail ho gaya hai, aur order deliver nahi ho pa raha hai.
+receiver: Swiggy? Really? Mujhe koi notification nahi mila. Mai toh order track kar pa rahi hoon, dikh raha hai "out for delivery".
+caller: Haan ji, system mein technical fault aa gaya hai. Payment verify karne ke liye, please apna OTP bataiye. Just 4 digits ka OTP, aur aapka order deliver ho jayega.
+receiver: OTP? Swiggy kabhi OTP maangta hai? Mai toh kabhi nahi suna. Aur order to deliver ho raha hai, mujhe mil gaya hai.
+caller: Ma’am, aap confused ho rahi hain. Security ke liye OTP verify karna zaroori hai. Agar aap OTP nahi dengi, toh aapka account block ho sakta hai. Jaldi karo, ma’am!
+receiver: Account block? Wait, wait. Mai Swiggy app mein check karti hoon. Yeh bahut suspicious lag raha hai…

@@ -1,0 +1,7 @@
+caller: Namaste, is this Mrs. Sharma? My name is Rohan, and I’m calling from Federal Bank’s security department.
+receiver: Haan, bolie. Federal Bank?
+caller: Ji madam, we’ve detected multiple failed login attempts on your account from an unknown device in Kolkata. We need to verify your identity immediately to prevent unauthorized access and potential fraud.
+receiver: Kolkata? Maine toh kabhi Kolkata nahi gaya. Aur failed attempts? Meri phone mein notification nahi aaya.
+caller: Exactly madam, that’s why we are calling. Scammers are very clever. To secure your funds, could you please provide the OTP you just received on your registered mobile number? It’s a one-time password for verification.
+receiver: OTP? Wait… mujhe toh koi OTP nahi mila. I just checked, nothing.
+caller: That’s very unusual, madam. Sometimes there is a slight delay. Please check your messages again, carefully. It's extremely important we get that OTP to lock down your account right away. We're seeing suspicious activity, and we don’t want your hard-earned money to be compromised. While you’re checking, can I just confirm the last three digits of your Aadhaar card? Just for further security.

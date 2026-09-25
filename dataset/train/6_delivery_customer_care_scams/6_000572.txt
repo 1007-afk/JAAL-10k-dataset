@@ -1,0 +1,7 @@
+caller: Namaste! Is this [Receiver's Name]? I'm calling from Bluebird Courier regarding a package addressed to you. There’s a slight issue with the delivery – it requires a small processing fee.
+receiver: Bluebird Courier? What kind of issue? I wasn't expecting anything. And a processing fee?
+caller: Yes, sir/madam. Due to increased fuel costs and a slight customs delay, a refundable processing fee of ₹750 is required to release the package. This is standard procedure.
+receiver: ₹750? That seems a bit high. What's the package? And why didn't I receive a notification about this?
+caller: The package contains a high-value electronic device, sir/madam. It's quite valuable, and to ensure its safety, we need to verify your payment. Just send the money to this UPI ID: 9876543210@axisbank.
+receiver: Hold on. This sounds suspicious. Can you give me a reference number for the package, and I'll check with the sender? And why UPI? Why not just a regular payment link?
+caller: Sir/madam, the reference number is BB12345. Unfortunately, due to security protocols, we can only accept payment via UPI at this time. It's the most secure method. Please expedite the payment so we can deliver your package quickly.

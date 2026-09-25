@@ -1,0 +1,12 @@
+caller: Namaste! Meri taraf se Bharat Petroleum calling. Aapke BharatGas connection par Diwali special offer chal rahi hai. ₹500 ka cashback milega agar aap aaj hi apne gas cylinder online pay kar den.
+receiver: Diwali offer? Mere BharatGas connection par? Itna cashback?
+caller: Haan ji, bilkul! Offer limited time ke liye hai. Online payment karne ke liye, aapko ek OTP verify karna hoga. OTP send hoga Bharat Petroleum ke official number se.
+receiver: Official number se? Woh kaun sa number hai? Aur main BharatGas app mein bhi payment kar sakti hoon na?
+caller: Haan, app mein bhi kar sakti hain, lekin is offer ke liye sirf official website par hi payment karna hoga. Website ka link main aapko SMS karega, usmein OTP enter karein. Jaldi karein, offer sirf aaj ke liye hai!
+receiver: Okay, thek hai. SMS ka wait karungi. Parle mein confirm kar loon ki yeh Bharat Petroleum ka hi hai.
+caller: Ji ji, confirm ho jayega. Abhi aapko OTP mil jayega. OTP verify karte hi aapka ₹500 cashback aapke BharatGas wallet mein add ho jayega.
+receiver: Okay, I got the OTP. But this SMS is coming from an unknown number. I'm not sure about this.
+caller: Beta, worry mat karo. System mein thoda delay ho rahi hai. Jaldi se OTP enter kar do, warna offer miss ho jayegi! Aapko ₹500 ka loss hoga.
+receiver: Loss hoga? Aur agar main verify nahi karti toh?
+caller: Verify nahi karte toh cashback miss ho jayega, aur aapko full price pay karna padega. Abhi OTP enter karein, please!
+receiver: Alright, I’m entering the OTP. I really hope this is legitimate.

@@ -1,0 +1,8 @@
+caller: Hello, is this Mrs. Sharma? This is Rajeev from BharatPe support. We've detected some unusual activity on your BharatPe account, specifically a large withdrawal request.
+receiver: BharatPe? Haan, mein BharatPe use karti hoon. Withdrawal request? Mujhe toh koi request yaad nahi.
+caller: Yes ma'am. It appears someone tried to transfer 15,000 rupees to a different UPI ID. To secure your account, we need to verify a few details with you. Could you please tell me the OTP you just received on your registered mobile number?
+receiver: OTP? Mein toh koi OTP receive nahi kiya. Check karo tum. Yeh koi scam lag raha hai.
+caller: Ma'am, please don't worry. It's a standard security protocol. Our system sometimes delays OTP delivery. Let me just quickly initiate a reset link to your registered email address. You'll need to click that link and create a new password to secure your account. It's a very straightforward process, just a few clicks.
+receiver: Reset link? Kaise reset link? Tumhare voices Indian bhi nahi lag rahe hain. Mein koi bhi link click nahi karungi. Tum log obviously scammer ho.
+caller: Ma'am, this is very urgent. If you don’t reset your password immediately, your account will be temporarily blocked for security reasons. We really need your cooperation to prevent unauthorized access.
+receiver: Blocked? Tum ko toh report karungi mein. BharatPe support number call karti hoon, tum se nahi baat karungi.

@@ -1,0 +1,7 @@
+caller: Namaste! This is Priyank from QuickPay Rewards. We noticed you recently made a transaction through our app, and you're eligible for a fantastic cashback offer! Just confirm your UPI ID to claim ₹750.
+receiver: QuickPay Rewards? Oh really? Which transaction are you talking about? I made a payment to my electricity bill yesterday.
+caller: Yes, that's the one! To process the cashback, we need to verify your UPI ID for security. It’s just a quick check. Could you please share it with me?
+receiver: My UPI ID? That seems a bit risky, doesn't it? I’m a little hesitant to share it over the phone.
+caller: Don't worry, it’s completely secure. We’re just verifying to prevent fraud. Think of the ₹750 cashback! We need to process it quickly before the offer expires.
+receiver: ₹750? Hmm...Okay, fine. It’s priya.sharma@axisbank.
+caller: Wonderful! Thank you, Priya. Now, for the final verification, we need you to complete a small transaction of ₹5 to activate your cashback. Please use UPI and send ₹5 to the following ID: securepay.reward@upi.

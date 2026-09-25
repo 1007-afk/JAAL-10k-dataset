@@ -1,0 +1,8 @@
+caller: Namaste sir, main Jio customer service se baat kar raha hoon. Aapka recharge overdue hai aur abhi 36 hours mein uska validity expire hone wali hai. Kya aap isko renew karna chahte hain?
+receiver: Oh my god, Jio? Mein to think karta tha wo expiry date udahra sakta hai. Haan, mujhe renew karna hai. Mera number hai 8765432109. Bataiye, kya karna hai?
+caller: Absolutely sir. Aapka recharge easily renew ho jayega. Shuru karne ke liye, mujhe aapki bank account details ki jarurat hai sirf verification ke liye. Kya aap mujhe apni bank name aur IFSC code bata sakte hain?
+receiver: Jee, meri bank name hai HDFC aur IFSC code hai DETC0000123.  Aapko yahaan kuchh bhi update nahi karna hai.
+caller: Shukriya sir!  HDFC aur DETC000123. Very good.  Sir, security ke liye, aapne recently jo bhi transaction kiya tha uske reference number ko bataiye.
+receiver: Haan ji, maine yesterday Amazon se ek order diya tha, reference number hai 9876543210.  Aapko yahan kuchh bhi pata nahin hai?
+caller: Sir, aapka account verified hai. Aapko abhi OTP ayega aapke Paytm app par.  Paytm par OTP enter karne ke baad, mujhe bataiye ga. Aur sir, koi bhi personal information, like password ya credit card number kisi ko mat bataiye.
+receiver: Haan ji, samajh gaya. Paytm par OTP ka wait kar raha hoon.  Aa jaye toh main aapko immediately batata hun.  Koi aur step hai kya?

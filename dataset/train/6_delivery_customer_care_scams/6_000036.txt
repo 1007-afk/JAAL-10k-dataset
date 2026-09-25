@@ -1,0 +1,11 @@
+caller: Namaste! Main Bharat Telecom se bol rahi hu. Aapko ek special offer mila hoga, 600 minutes, 120 texts aur ek premium smart watch. Humne pehle bhi aapse contact karne ki koshish ki thi. Aapko message pata chala kya? Isko accept karega to aapko tomorrow tak delivery mil jaayega. Aap mujhse 09876543210 par call kar sakte hain ya reply de sakte hain. Kya aapko yeh offer pasand aa raha hai?
+receiver: Haan ji, namaste! Mein samajh raha hu. Message mili thi, lekin main itna busy tha ki dekhne mein time nahi mila. Smart watch bahut acha dikhta hai. Tomorrow tak delivery ho sakta hai kya, truly? Aur ismein koi problem nahi hai, na?
+caller: Haan ji, bilkul possible hai! Humne aapke liye delivery kal raat till 8 baje booking kar diya hai. Koi problem nahi hogi, completely free delivery hai. Bas aapko apne mobile number ko confirm karna hoga, taki hum delivery ka prashan kara saken. Aapko yaad hai kya, offer ka summary? 600 minutes, 120 texts aur woh premium smartwatch. Kuch extra charge bhi nahi lagega.
+receiver: Okay, okay, good to know. Haan, mujhe offer ka summary yaad hai. Aur mera mobile number 9999999999 hai. Confirm karo ki tomorrow delivery definitely hoga.
+caller: Great! 9999999999, bilkul sahi hai. Just to make sure, can you tell me your full name as well? This is just for record keeping purposes. And after that, we’ll send you an SMS confirming the delivery tomorrow.
+receiver: Mera naam hai Priya Sharma. Toh, agar main tomorrow delivery accept karungi toh, delivery ka confirmation message mujhe milega?
+caller: Exactly! You’ll receive a confirmation message immediately after we finalize everything. And the delivery will be made by tomorrow evening. Absolutely no hidden costs or hassles!
+receiver: Okay, perfect. Then let’s go ahead with it.
+caller: Wonderful! Now, just one last thing - can you confirm your city and state for me, please? This helps us plan the delivery route efficiently.
+receiver: Main Mumbai mein rehti hu, Maharashtra. Confirm kar dijiye kal ki delivery.
+caller: Excellent! So, Priya Sharma, Mumbai, Maharashtra. We'll send you the confirmation shortly. Enjoy your new smartwatch!

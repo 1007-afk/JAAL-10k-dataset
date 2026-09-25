@@ -1,0 +1,7 @@
+caller: Namaste, is this Mr. Sharma? This is Akash from Swiggy Courier Services. We're experiencing a slight issue with your recent order, reference number SWG7890123. It appears there’s an attempted payment failure during delivery.
+receiver: Haan, bolie. What’s the problem? I was expecting a delivery today.
+caller: Yes sir, your order is currently held up. Our system flagged a discrepancy with the payment. To release it for delivery, we need to quickly verify your details. Could you please read back the OTP you just received on your registered mobile number? It's a one-time password for security purposes.
+receiver: OTP? But why? I already paid online.
+caller: Sir, this is to ensure the payment went through correctly and prevent any fraudulent activity. This is standard procedure, especially with high-value orders. The OTP is crucial to authorise the final transaction. Please read it out to me now, it’s time-sensitive.
+receiver: No, I don't think so. Why can’t you just deliver the order? I’m very confused.
+caller: I understand your hesitation, sir, but this is a new security protocol implemented by Swiggy. Without the OTP, we cannot proceed with the delivery. We don’t want to risk your order being mishandled. Could you please confirm the last four digits of your card used for the online payment as well? It’s just for verification.

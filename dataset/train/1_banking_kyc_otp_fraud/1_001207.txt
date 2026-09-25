@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Axis Bank se Simran bol rahi hoon. Aapke naam par ek international transaction try kiya gaya hai, ₹12,000 ka.
+receiver: ₹12,000? International transaction? Mujhe toh koi notification nahi aaya.
+caller: Sir, humein fraud detect ho gaya hai, isliye call kar rahi hoon. Account safe rakhne ke liye, humein aapke account details verify karne hain. OTP send kar rahe hain aapko, woh bataiye.
+receiver: Wait a minute. Why do you need an OTP? Shouldn't you be blocking the transaction instead? And why are you calling my personal number? Banks usually send SMS.
+caller: Sir, yeh protocol hai. OTP se hum verify karenge ki aap hi bol rahe hain. Agar aap OTP nahi batayenge, toh humko transaction block karna padega aur account suspend bhi karna pad sakta hai.
+receiver: Account suspend? Sir, please don't scare me. Let me call Axis Bank directly from their official number.
+caller: Sir, kal tak hume official number provide kar diye jaayega, abhi aapko OTP give karna hoga taaki aapka account secure rahe. Aapka Aadhaar card ki last 4 digits bhi bataiye, sir. Just to confirm.
+receiver: Aadhaar card details bhi? No way. I'm ending this call right now. This is definitely a scam.

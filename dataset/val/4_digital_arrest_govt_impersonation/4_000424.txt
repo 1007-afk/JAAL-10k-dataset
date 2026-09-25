@@ -1,0 +1,7 @@
+caller: Namaste, main Constable Rajan Singh, Mumbai Customs se bol raha hoon. Aapke naam par ek parcel aaya hai, jismein illegal drugs paye gaye hain.
+receiver: Illegal drugs? Mere naam par? Yeh kya keh rahe hain aap? Main toh kabhi parcel order bhi nahi karta.
+caller: Sirf parcel mein drugs nahi paye gaye, aapke bank account mein bhi suspicious transactions dikh rahe hain. Yeh money laundering ka case hai, aur aapko court mein present hona hoga.
+receiver: Court? Money laundering? Arre bhai, main toh ek ordinary accountant hoon! Yeh mat bolo, koi mistake hogi.
+caller: Mistake nahi, sir. Yeh serious allegation hai. Case ko settle karne ke liye aapko ₹50,000 ka bail deposit karna hoga. Var nahi to arrest warrant nikalna padega.
+receiver: ₹50,000? Itna paisa?  Kaise karoon main?  Mein toh itna paisa ek saath nahi rakhta. Aur arrest warrant? Please bataiye, aur kya kar sakta hoon?
+caller: Sirf online transfer se paisa accept karenge, aur video call pe rahein, taaki aap escape na paaye.  Account number main aapko SMS kar raha hoon. Jaldi karo!

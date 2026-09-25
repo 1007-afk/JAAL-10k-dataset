@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main TalkFastFinance se Rahul bol raha hoon. Aapko urgent loan ki requirement hai kya? Ghar ki EMI ke liye, ya phir medical expenses ke liye? We offer quick and easy loans with minimal paperwork.
+receiver: Hello, actually, I'm a bit hesitant about loans. But I do have some pending bills. How much can I borrow?
+caller: Sir, koi chinta mat leiye. We understand. You can borrow any amount from 50,000 to 10 lakhs. Our interest rates are very competitive, and the process is completely hassle-free. Just need to verify a few details. What’s your name, please?
+receiver: My name is Vijay Patel. And what details do you need? I’m worried about hidden charges.
+caller: Vijay Patel sir, congratulations! We can approve you for 7 lakhs instantly. Just a small formality - we need to verify your contact list to ensure a reliable reference. It’s just for security reasons, sir. Please share your phone contacts with us.
+receiver: My contacts? Why would you need my contacts? That seems a bit strange.
+caller: Sir, if you refuse to share your contacts, we will have to cancel your loan application. Otherwise we will send morphed images to your contacts accusing you of fraud. Is that what you want? You'll regret it, Vijay Patel.

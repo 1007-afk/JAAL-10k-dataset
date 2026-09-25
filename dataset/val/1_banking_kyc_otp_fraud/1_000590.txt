@@ -1,0 +1,8 @@
+caller: Hello sir, this is your Union Bank manager. Your KYC has expired. So you have to KYC yourself, but due to the COVID situation, we are doing KYC online. Please tell me your account details.
+receiver: Oh, hello! KYC expired?  Achha, the COVID situation.  Theek hai, I understand.  Kaunsa account details chahiye aapko?  Mera account number ya kuch aur specific?
+caller: Jee sir, sabse pehle toh aap apna account number bata dijiye. Uske baad hum aapko batayenge ki aur kya details chahiye honge.
+receiver: Haanji, mera account number hai [account number yahaan daalen]. Aur bataiye kya karna hai?
+caller: Jee sir, thank you for providing the account number. Ab aapka registered mobile number bataiye jo Union Bank mein link hai.
+receiver: Haanji, mera registered mobile number hai [apna mobile number yahaan daalen]. Kya ab sab kuch clear hai?
+caller: Jee sir, thank you. Ab aapko ek One-Time Password (OTP) send kiya gaya hai aapke registered mobile number pe. Woh OTP mujhe bataiye taaki hum KYC process verify kar sakein. Please jaldi bataiye, woh OTP 2 minute ke liye valid hai.
+receiver: OTP? Oh, okay. Ek minute, main check karta hoon. Ah, yes, I have it. It's [OTP yahaan daalen]. Hope this is right.

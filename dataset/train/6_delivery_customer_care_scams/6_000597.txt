@@ -1,0 +1,8 @@
+caller: Namaste, this is Ravi from Bluebird Courier. We have a package addressed to you, but there’s a slight issue with the delivery address. Could you please confirm your full name and delivery address so I can update our system?
+receiver: Haan, bolo. Mera naam Priya Sharma hai, aur address 123, Gandhi Nagar, Jaipur.
+caller: Thank you, Ms. Sharma. The system is showing a small customs fee of ₹2500 needs to be cleared before we can proceed with the delivery. It’s a standard procedure for international packages.
+receiver: ₹2500? International package? Mujhe toh koi international package order karne ka yaad nahi aa raha. Main toh kuch online nahi buy kar rahi thi recently.
+caller:  It’s possible you ordered it as a gift, Ms. Sharma. To release the package, we need to verify your payment details. We can process it quickly through a secure link I’ll send to your mobile. Just a small fee, and then you can enjoy your package.
+receiver: A secure link? Nahin, main woh share nahi karungi. Kuchh toh gadbad hai. I’m not comfortable sharing payment details over the phone. Can you give me a tracking number so I can check the status on the courier website?
+caller: Unfortunately, the tracking number isn't active until the fee is processed, Ms. Sharma. It's a new system update. We are doing this to improve security.  Think of it as a small price to pay to ensure you receive your valuable package promptly.
+receiver:  No, thank you. I am going to report this. I do not believe you are a courier.

@@ -1,0 +1,8 @@
+caller: Hello? Hello, can you hear me? This is a very exciting offer for the World Cup 2022! I’m calling to tell you about our special ‘Celebrate Victory!’ deal. You get a fantastic Brazil flag and the iconic Samba beat for your phone. Just click on the service message for all the juicy details! This is a limited-time offer, you know, only 7 left!
+receiver: Hello? Haan, sunai de raha hai. World Cup 2022 ke liye offer? ‘Celebrate Victory!’ deal, Brazil flag aur Samba beat? Sunne mein toh achha lag raha hai. Phone pe service message dikhega, right? Aur sirf 7 bache hain, wow. Ek minute, main check karta hun.
+caller: Haan, bilkul! Aur yeh offer toh bahut acha hai! Aur bataun, maine abhi check kiya, ab toh sirf 6 hi bache hain! Jaldi karna padega, warna miss ho jayega. Ready ho click karne ke liye?
+receiver: Arre yaar, 6 hi bache hain? Time toh kam hai. Okay, main screen pe dekhta hu...haan, dikh raha hai service message.  Yeh offer sach mein tempting hai. Click kar deta hun.
+caller: Haanji, click kar diya? Bahut badhiya! Aur suniye, offer toh abhi bhi hai par ab na Sirf 5 bache hain! Aur zyada time nahi hai, jaldi se finalize karna padega. Aap ready hain details confirm karne ke liye?
+receiver: Arre, 5 hi bache hain? Yeh toh bada fast chal raha hai! Okay, sunao phir kya details confirm karne hain? Ready hoon.
+caller: Haanji, bas ek dum ready!  Ab na, sirf 4 hi bache hain!  Last chance!  Iska price hai sirf ₹149 for the whole event!  Ek baar click kar diya toh yeh phone pe install ho jayega aur tum directly World Cup 2022 ke saath connect ho jaoge.  Kya khayal hai, confirm karein?
+receiver: ₹149? Poore event ke liye? Aur sirf 4 hi bache hain? Deal toh mast hai. Okay, done! Confirm karo, jaldi se.

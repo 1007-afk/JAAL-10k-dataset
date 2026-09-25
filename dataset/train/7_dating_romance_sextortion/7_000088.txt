@@ -1,0 +1,10 @@
+caller: Hello? Hello? Can you hear me properly? My friend Rohan sent me a weird message. He said something about ‘impressing wealthy clients’ and needing someone to ‘handle the negotiations’?  I don’t know what he means, and honestly, it’s making me uncomfortable. Is this you, Priya?
+receiver: Hello? Yes, I can hear you perfectly. Who is calling? What message did Rohan send? ‘Impressing wealthy clients’ and ‘handling negotiations’? That doesn’t sound familiar at all. My name is Devika, not Priya.
+caller: Oh, sorry! My mistake. The message also mentioned a 'premium account' and a 'substantial commission'. It felt really strange, and I wanted to confirm if you were involved in anything like this. I feel a bit silly asking, but I'm genuinely concerned.
+receiver: Arey yaar, koi tension mat lo! It’s alright. Just a misunderstanding, I think.  A 'premium account' and 'substantial commission'? Sounds like some business deal, probably. But I assure you, I am not involved in any such thing. Don’t worry about it.
+caller: Thank you for clarifying, Devika. I appreciate your honesty.  It was starting to give me a bad feeling.  I'm glad I called and checked.  Maybe Rohan needs to be more careful with whom he shares his messages.  Have a nice day!
+receiver: Haan, woh to sahi karega.  But you are safe, please don’t worry.  It's just a random message, most likely.  Agar kuch bhi shubha lage toh police ko batayiye, okay?  Just take care of yourself.
+caller: Okay, thanks again for your reassurance.  I feel much better now.  I will definitely keep that in mind.  Let’s end this call here, then.  Bye!
+receiver: Tumhi bolo! Koi baat nahin.  Chalo, abhi takleef nahi hai na?  Bye!
+caller: Bye!
+receiver: Bye!

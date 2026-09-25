@@ -1,0 +1,11 @@
+caller: Namaste! Is this Mrs. Kapoor? I'm calling from the Directorate of Revenue Intelligence, Delhi. We've detected some unusual activity linked to your bank account, specifically related to cryptocurrency transactions.
+receiver: Haan, main Mrs. Kapoor hoon. Cryptocurrency? Main toh cryptocurrency mein kuch nahi karta. Yeh kya ho raha hai?
+caller: Ji, Mrs. Kapoor. Our systems show a significant amount of Bitcoin being moved through your account, originating from an offshore source. This is potentially linked to illegal online gambling operations. We need to verify your involvement.
+receiver: Illegal gambling? But I don’t even gamble!  Yeh bahut hi accha lag raha hai.  Koi mistake hoga. My account number please?
+caller: Absolutely. To clear this up quickly, we need to secure your funds. We'll transfer a small amount – ₹7,500 – to a temporary government account as a security deposit. This will demonstrate your cooperation. We need your UPI ID for that.
+receiver: ₹7,500? Why should I pay anything? Is this a scam?
+caller: Mrs. Kapoor, this is standard procedure to ensure your financial safety and confirm your identity. Without this deposit, we’ll have no choice but to freeze your account and initiate a formal investigation. It's a very serious matter.
+receiver: Freeze my account? Okay, okay, wait a minute. Let me just check something. But I'm very suspicious about this.
+caller: Excellent! The UPI ID, please? We need to act quickly to avoid any further complications. We're experiencing high call volumes, so we need to move fast.
+receiver: Haan, my UPI ID is kapoor.rita@xyzpay. Please, explain this again clearly.
+caller: Thank you, Mrs. Kapoor. Kindly confirm the last four digits of your Aadhar card as well, for

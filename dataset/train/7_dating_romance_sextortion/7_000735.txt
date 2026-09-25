@@ -1,0 +1,7 @@
+caller: Hello Priya! I think you’ve received a friend request on CupidConnect! It’s a very handsome gentleman named Aryan, he seems quite smitten with your profile. I'm assisting with verification, just confirming you saw it.
+receiver: Oh really? Aryan? I haven't checked CupidConnect today. Let me see... Yes, there’s a request.
+caller: Wonderful! He's mentioned you're a doctor, right? He's particularly impressed. To unlock his full profile and start chatting, you need to send the verification code 'VERIFY-789' to CupidConnect. It's a one-time thing, promise.
+receiver: Wait, a verification code? I don't remember seeing anything about that. Usually I just accept friend requests.
+caller: It’s a new security measure, Priya. Very important to prevent fake profiles. Aryan is quite anxious to talk to you. Just send 'VERIFY-789' now, it’ll only take a second, and you can finally see his pictures and start messaging him. Don't miss out!
+receiver: Hmm... okay, let me try it. I'll send VERIFY-789 now. But if something seems off…
+caller: Perfect! You're doing great! Now, Aryan wants to know if you could do him a small favour. He's trying to get a loan to visit his mother in London, but the bank needs confirmation he's a verified doctor on CupidConnect. Could you send him a scanned copy of your medical license? Just to show the bank.

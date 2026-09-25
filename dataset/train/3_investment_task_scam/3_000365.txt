@@ -1,0 +1,8 @@
+caller: Hello there, you seem to be having a wonderful day today! We’re looking for some amazing people, you know, really special individuals, to test out some brand new skincare treatments from ‘Serenity Springs’. It's a very exclusive opportunity, absolutely top-notch. Could I get your details to see if you’d be interested? First off, could you tell me your full home address and your birthdate, quickly please? We need to make sure we reach the right people, you understand?
+receiver: Hmm, Serenity Springs, you say? That does sound interesting.  Yes, definitely a good day for me! Okay, let's go ahead. Can you spell out your last name for me, please? And then, what's your street address? Just need to gather a few bits of information to get started.
+caller: Of course! My name is Rohan Sharma, and my address is 123 Maplewood Lane, Delhi 110001.  Really eager to hear more about this.
+receiver: Right, Rohan Sharma, 123 Maplewood Lane, Delhi 110001. Got it. Now, could you share your date of birth, please? Just for verification purposes, you know, for our discerning clientele.
+caller: Absolutely! My birthdate is July 15th, 1988.  Super excited to be considered, honestly!
+receiver: Fantastic! July 15th, 1988. So, to recap, Rohan Sharma, 123 Maplewood Lane, Delhi 110001, born on July 15th, 1988. Is that correct?
+caller: Yes, exactly! You’ve got it spot on. Wonderful! We’ll be sending you an email shortly with further instructions regarding the Serenity Springs treatments. Keep an eye out for it, you will!
+receiver: Great, thank you so much! I'll certainly keep an eye out for the email. Sounds like I’m officially a potential tester!

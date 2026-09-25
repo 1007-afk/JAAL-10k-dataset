@@ -1,0 +1,8 @@
+caller: Hello? Ji, main aapka customer service se bol raha hoon. Aapne ek message dekha hoga 'CALL to No: 86888 & claim your reward of 3 hours talk time...' uske baare mein baat kar raha hoon.
+receiver: Haan ji, hello. Haan, woh message dekha tha maine. Kya hai uske baare mein?
+caller: Ji, toh aapko yeh offer mila hai jismein aapko 3 ghante ka free talk time mil raha hai! Yeh ek limited time offer hai, aur aapke paas sirf 4 'rewards' bache hain claim karne ke liye.  Aapko bas woh reward activate karna hai, woh bhi bilkul free!
+receiver: Achha, 3 ghante ka free talk time? Ye toh badhiya offer hai. Toh kya karna hoga iske liye? Kuch form fill karna hai ya kuch?
+caller: Nahi ji, kuch bhi form fill nahi karna. Aapko bas ek chhota sa confirmation dena hai, jisse hum aapka reward activate kar sakein. Aapka naam kya hai ji?
+receiver: Mera naam Rahul hai. Toh bas confirmation dena hai? Aur kuch nahi?
+caller: Haan ji Rahul ji. Bas ek chota sa confirmation chahiye. Agar main aapka 'verification code' verify kar doon toh aapka reward immediately activate ho jayega. Kya main aapka verification code jo aapko SMS mein aaya hai, woh le sakta hoon? Sirf confirm karne ke liye, koi charge nahi hai.
+receiver: Verification code? Oh, haan, abhi dekhta hoon. Ek minute... Haan, ye raha. 9475.

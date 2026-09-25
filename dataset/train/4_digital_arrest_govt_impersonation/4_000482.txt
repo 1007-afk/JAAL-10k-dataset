@@ -1,0 +1,6 @@
+caller: Namaste! Main Airtel security department se Rahul Sharma bol raha hoon. Aapke Airtel number par illegal activities ka report aaya hai.
+receiver: Illegal activities? Kya? Mere number se? Main toh kuch bhi illegal nahi kar raha.
+caller: Ji, ek unknown device se aapke number se login attempt kiya gaya tha.  Aapki security ke liye, humein kuch details confirm karne ki zaroorat hai. Aapka date of birth bataiye, please.
+receiver: Date of birth? Woh kyun chahiye? Airtel ko mera date of birth kyun chahiye?
+caller: Date of birth se hum verify kar sakte hain ki aap sahi owner hain. Aur ek OTP bhi aapke number par send karenge, woh bhi verify karne ke liye. OTP number bataiye.
+receiver: OTP? Nahi, sorry, hum OTP nahi dene wale. Tum log scammer ho.  Mai police mein report karunga. Abhi hi phone kaat raha hoon.

@@ -1,0 +1,8 @@
+caller: Namaste Madam, speaking from Secure Investment Solutions. We've noticed some unusual activity on your Tata Capital loan account. To prevent potential fraud and secure your account, we need to verify a few details.
+receiver: Tata Capital loan? I don’t recall any unusual activity. What kind of details do you need?
+caller: Yes Madam, just a quick verification. We need your OTP that you just received on your registered mobile number. This is to confirm you are the legitimate account holder. It's a standard security measure.
+receiver: OTP? Hold on a minute. Why do you need my OTP? Banks never ask for OTP over the phone.
+caller: Madam, this is extremely important. If you don't provide the OTP within the next 5 minutes, we’ll have to temporarily suspend your account as a precaution. We understand this is inconvenient but it’s for your own safety.
+receiver: Suspend my account? Now you're threatening me? This sounds like a scam. I'm not giving you anything.
+caller: Madam, please don't be hasty.  We are genuinely trying to help. To prove we’re not scamming you, could you please tell me the last four digits of your PAN card? Just as a quick confirmation.
+receiver: I'm ending this call now. This is clearly a fraudulent attempt.

@@ -1,0 +1,7 @@
+caller: Hello, is this Rahul? I am calling from LoanFast India. We saw your recent online application for a quick loan. Congratulations, you are pre-approved for a loan of up to ₹75,000!
+receiver: Really? That's great! I was looking for a loan to pay some medical bills. What's the process?
+caller: Wonderful! To finalize everything, we just need a small processing fee of ₹5,000 to verify your account. This is standard procedure, Rahul ji. You can pay it through UPI – I'll send you the UPI ID.
+receiver: Five thousand rupees? That seems a bit much. Are you sure?
+caller: Rahul, without this fee, we can’t confirm your identity and release the loan. We have many applicants, and we must verify to avoid fraud.  It's a one-time charge, and once verified, your ₹75,000 will be credited to your account immediately. Please send the money quickly.
+receiver: Okay, fine. Send the UPI ID.
+caller: Please send ₹5,000 to this UPI ID: loanfastindia@xyz. Once the payment is confirmed, your loan will be processed instantly. Also, to secure your privacy, we require some photos – just a selfie with a government ID and a picture of your bank passbook.

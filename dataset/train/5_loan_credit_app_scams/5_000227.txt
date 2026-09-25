@@ -1,0 +1,9 @@
+caller: Namaste! My name is Raj from SwiftLoans. We're calling regarding a pre-approved personal loan offer for you, sir. Just confirming your number is 9876543210?
+receiver: Haan, sahi hai. Personal loan? Kitna interest rate hoga?
+caller: Absolutely! We’re offering a very competitive rate – just 8% per annum. To activate the loan, you need to download our app, 'CashFlowNow' from the Play Store. It's super easy!
+receiver: 8% toh kam hai. Par app mein kya details enter karne honge? KYC stuff?
+caller: Yes, a little KYC – ID proof, address proof. But don't worry, it's all secure. Once you submit the details, we'll disburse ₹50,000 immediately.  There's a small verification fee of ₹2,500 that needs to be paid online to unlock the loan, just to confirm you are serious.
+receiver: ₹2,500 verification fee?  Before the loan even comes? That sounds a bit weird…
+caller: It's standard procedure, sir! We need to ensure you're not a fraud. If you don’t pay the fee within the next hour, the offer will expire. Don’t miss out on this amazing opportunity. Just go to the app and make the payment – it’s completely safe.
+receiver: Okay, wait a second. I'm going to check something first.
+caller: Sir, please hurry! The offer is about to close! We’re processing many applications right now and slots are filling up fast. Don’t let this opportunity pass you by!

@@ -1,0 +1,9 @@
+caller: Namaste! Mein Rahul bolta hoon, PhonePe se. Aapko cashback offer ke bare mein bataane ke liye call kar raha hoon.
+receiver: Oh, really? Cashback? What kind of offer is it?
+caller: Haan ji! Aap PhonePe se ₹500 ka transaction karte hain, aur aapko ₹200 ka cashback milega! Bahut easy hai. Lekin, system verify karne ke liye, humein ek small processing fee ki zarurat hai.
+receiver: Processing fee? How much is that?
+caller: Sirf ₹50! Just ₹50 verify karne ke liye. Aapko Paytm ya GPay se ₹50 humein pay kar dein, aur cashback automatically aapke PhonePe account mein credit ho jayega.
+receiver: ₹50? Okay, I guess. Which UPI ID should I send it to?
+caller: Aapko UPI ID 7890123456@axisbank pay kar dein. Jaldi karo, offer limited time ke liye hi hai!
+receiver: Done! I’ve just sent ₹50. Now what?
+caller: Shukriya! Ab aapko ₹500 ka koi bhi transaction karna hai PhonePe se, fir cashback automatically credit ho jayega. Aapko koi message aayega, confirm karne ke liye.

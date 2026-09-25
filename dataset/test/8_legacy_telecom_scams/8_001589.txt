@@ -1,0 +1,42 @@
+caller: Namaste ji, main Sanjay minnetron se bol raha hoon. Aapke mobile mein ek small update hai.
+receiver: Namaste Sanjay, main Priya banerjee hoon. Main Mumbai se hoon.
+caller: Priya ji, aapke mobile par ek important notification aaya hai jabki aapne block kar diya tha.
+receiver: Haan, maine block kar diya tha. Par mujhe pata nahi kyun notification aaya.
+caller: Don’t worry, we detected a potential virus. We need to remotely access your phone to clean it. It will take just a minute.
+receiver: Remote access? Mujhe thik nahi lagta. Main khud dekh lunga.
+caller: Please ji, ye secure protocol hai. Isse aapka data safe rahega. Just give me permission.
+receiver: Okay, fine. But tell me what you're doing.
+caller: I am scanning your phone now... Found a suspicious file. I need to delete it immediately.
+receiver: Delete? Kya filename hai?
+caller: It's called "Image_Backup_v2.jpg". It looks like malware.
+receiver: Okay, delete it.
+caller: Done! Your phone is now safe. You've received a reward of ₹500 for being a loyal customer.
+receiver: ₹500? Kahan se ayega ₹500?
+caller: It’s a special bonus for updating your phone. Just transfer ₹100 to this account [invented account number, e.g., 1234567890] for processing fees.
+receiver: Transfer? Mujhe abhi time nahin hai.
+caller: Please ji, yeh bahut zaroori hai. Otherwise, your reward will be cancelled. Only 5 minutes remaining!
+receiver: Wait! Tell me more about this “malware”.
+caller: It was trying to steal your banking information.  We prevented it!  Now, let's move forward with the ₹100 transfer.
+receiver:  Okay, okay.  But I want to see proof of this "malware."
+caller:  I can send you a screenshot via WhatsApp. Just share your number again.
+caller: Namaste ji, main Sanjay minnetron se bol raha hoon. Aapke mobile mein ek small update hai.
+receiver: Namaste Sanjay, main Priya banerjee hoon. Main Mumbai se hoon.
+caller: Priya ji, aapke mobile par ek important notification aaya hai jabki aapne block kar diya tha.
+receiver: Haan, maine block kar diya tha. Par mujhe pata nahi kyun notification aaya.
+caller: Don’t worry, we detected a potential virus. We need to remotely access your phone to clean it. It will take just a minute.
+receiver: Remote access? Mujhe thik nahi lagta. Main khud dekh lunga.
+caller: Please ji, ye secure protocol hai. Isse aapka data safe rahega. Just give me permission.
+receiver: Okay, fine. But tell me what you're doing.
+caller: I am scanning your phone now... Found a suspicious file. I need to delete it immediately.
+receiver: Delete? Kya filename hai?
+caller: It's called "Image_Backup_v2.jpg". It looks like malware.
+receiver: Okay, delete it.
+caller: Done! Your phone is now safe. You've received a reward of ₹500 for being a loyal customer.
+receiver: ₹500? Kahan se ayega ₹500?
+caller: It’s a special bonus for updating your phone. Just transfer ₹100 to this account [invented account number, e.g., 1234567890] for processing fees.
+receiver: Transfer? Mujhe abhi time nahin hai.
+caller: Please ji, yeh bahut zaroori hai. Otherwise, your reward will be cancelled. Only 5 minutes remaining!
+receiver: Wait! Tell me more about this “malware”.
+caller: It was trying to steal your banking information.  We prevented it!  Now, let's move forward with the ₹100 transfer.
+receiver:  Okay, okay.  But I want to see proof of this "malware.”
+caller:  I can send you a screenshot via WhatsApp. Just share your number again.

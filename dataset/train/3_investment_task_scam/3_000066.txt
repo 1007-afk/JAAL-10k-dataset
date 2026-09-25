@@ -1,0 +1,8 @@
+caller:  Namaste! Main Rohan Kumar hoon, Digital Growth Solutions se baat kar raha hoon. Kya aapko apne business ko boost karne ka koi idea chahiye? Aapko ek special offer mila hai - Free Website Audit!
+receiver: Namaste! Business ko boost karna hai?  Haan, thoda confusion hai, par sab sahi hai.  Free Website Audit?  Kyun?  Mujhe batayein fir se.
+caller:  Oh, yeh bahut achha hai! Aapko jo website hai, woh dekhenge aur aapko bataenge ki kaise improve karen.  Aur saath mein, aapko ek Premium SEO Package bhi free mil jayega!  Har maans, ek baar, ₹5000 ka offer!  Agar aapko yeh offer accept karna hai, toh mujhe apna company ka naam aur CEO ka naam bataana padega.
+receiver:  Company ka naam? CEO ka naam?  Yeh kitna bada offer hai!  Haan, company ka naam hai ‘Creative Designs India’ aur CEO ka naam Ravi Patel hai.  Dekhein, yeh sab theek hai na?
+caller:  Rohan ji, thank you!  Aapka company naam aur CEO ka naam record ho gaya hai.  Abhi, agar aapko yeh package accept karna hai, toh mujhe aapka bank account number chahiye.  Yeh sirf verification ke liye hai, promise!  Ismein koi extra charge nahi honge.
+receiver: Bank account number?  Seriously?  Bas verification ke liye?  Haan, meri bank account number hai [Invented Account Number, e.g., 1234-5678-9012-3456].  Par yeh mat bole ki yeh fraud hai.
+caller:  Bahut sundar!  Thank you, Rohan ji.  Verification complete ho gaya hai.  Aapko abhi email id de sakte hain, jahaan hum aapko SEO report aur premium package details bhejein.  Aapka email id kya hai?
+receiver:  Meri email id hai [Invented Email ID, e.g., priya.sharma@email.com].  Okay, please send it there.  Lets see what happens.

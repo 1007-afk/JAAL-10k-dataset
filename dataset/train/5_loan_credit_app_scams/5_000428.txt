@@ -1,0 +1,7 @@
+caller: Namaste! Mera naam Ravi hai, CreditQuick Solutions se. Aapko urgent paise chahiye kya? Koi bhi financial problem hai?
+receiver: Haan, actually, mere papa ka operation kaafi urgent hai, aur thode paise short hain.
+caller: Samjh gaya! Hum CreditQuick Solutions mein aapko bilkul aasani se loan de sakte hain. Sirf ₹10,000 ka loan le lijiye, aur phir woh aap easily repay kar sakte hain. Process bahut simple hai. Aapka naam aur aadhaar card number bataiye.
+receiver: Mere aadhaar number se main koi details nahi de sakta. Yeh thoda suspicious lag raha hai.
+caller: Arre, kuch bhi nahi! Verification ke liye sirf number bataiye. Aur ek baar aap loan le lijiye, toh hum aapko weekly installments mein repay karne ka option bhi denge. ₹10,000 tak ka loan, interest bahut kam. Jab aap loan approve ho jaayega, toh hum aapko OTP bhi bhejenge, samajh rahe ho na?
+receiver: Main sochna chahta hoon. Mujhe yeh kuch zyada convenient lag raha hai.
+caller: Suniye suniye! Abhi ek special offer chal rahi hai, sirf aaj tak. Agar aap abhi decide karte hain, toh hum interest waive bhi kar denge. ₹10,000 hi, interest free. Jab aap loan repay kar denge, toh aapko aur bhi offers milegi!

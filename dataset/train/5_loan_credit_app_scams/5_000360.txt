@@ -1,0 +1,8 @@
+caller: Namaste! Main LoanDekho se Atul bol raha hoon. Aapka phone number hamare database mein aaya hai aur aap online loan ke liye eligible hain. Aapko kiti loan chahiye tha, sir?
+receiver: Loan? Mujhe loan chahiye tha, lekin main abhi dekhta hoon. Kitii amount tak mil sakta hai?
+caller: Aapko ₹50,000 se ₹2,00,000 tak ka loan mil sakta hai, sirf aadhaar card aur bank account details dekar. Process bahut easy hai, sir.
+receiver: Aadhaar card? Aur kya details chahiye? Aur interest rate kitna hoga?
+caller: Sir, first aapka Aadhaar number aur bank account number de dijiye, verification ke liye. Interest rate to aapki credit score par depend karega, lekin hum aapko best deal karne ki koshish karenge.
+receiver: Theek hai, main Aadhaar number de deta hoon... Par agar koi problem hua toh?
+caller: Koi bhi problem nahi hoga, sir. LoanDekho ek trusted platform hai. Aap apna Aadhaar number 9876543210 par message karein. Sir, jaldi kariye, offer limited time ke liye hai.
+receiver: Okay, sending now.

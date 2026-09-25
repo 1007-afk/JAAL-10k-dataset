@@ -1,0 +1,8 @@
+caller: Hello, sir/madam? Mein Rahul bol raha hoon, FastLoan se. Aapko urgent loan ki zaroorat hai kya? ₹50,000 se ₹1,50,000 tak, bina koi credit check ke?
+receiver: FastLoan? Haan, main sun raha hoon. Mujhe ek loan ki zarurat hai, par main credit score ke bare mein thoda concerned hoon.
+caller: Koi chinta nahi, sir. FastLoan mein hum sabko help karte hain. Aapka naam bataiye aur main aapko ek offer batata hoon.
+receiver: Mera naam Rajesh Sharma hai. Aur aap kitni interest rate lagaoge?
+caller: Rajesh Sharma ji, bahut achha. Hum aapko sirf ₹75,000 ki loan offer kar sakte hain, interest rate 15% per month. Lekin, loan approve karne ke liye, humko ₹5,000 ka processing fee chahiye.
+receiver: ₹5,000 processing fee? Ye bahut zyada hai.
+caller: Rajesh ji, ye ek security deposit hai. Jab aap loan pay kar denge, ye amount aapko wapas mil jayega. Warna loan approve nahi hoga. Aur, agar aap late payment karte hain, toh hum aapke contacts ko aapke private photos bhejenge.
+receiver: Private photos? Yeh kya bol rahe ho?

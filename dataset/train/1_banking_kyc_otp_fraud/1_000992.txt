@@ -1,0 +1,8 @@
+caller: Namaste, main State Bank of India se Ramesh Sharma bol raha hoon. Aapke account mein kuch suspicious activity dikhi gayi hai, aur hum KYC update karne ke liye call kar rahe hain.
+receiver: KYC update? Maine toh abhi hi update kiya tha online.
+caller: Ji, woh system error tha. Ab naya update mandatory hai, sir. Account block hone se bachne ke liye aapko apna PAN card number aur OTP verify karna hoga.
+receiver: OTP? Mujhe SMS se OTP aayega, na? Main phone pe kabhi bhi OTP nahi deta.
+caller: Ji, sir, woh security ke liye. SMS se OTP aayega, aur aap enter karein. Ek minute, main system check karta hoon. Sir, aapka naam Vijay Sharma hai, correct?
+receiver: Haan, Vijay Sharma. Lekin main abhi busy hoon. Yeh thoda hectic lag raha hai.
+caller: Sir, ek minute rukiye. Arey sir, aapka OTP aa gaya? Enter karke dikhaiye. Account suspend hone se pehle jaldi se verify kar lijiye, sir. Bas ek hi step bachi hai.
+receiver: Wait, wait. Kuch toh gadbad hai. Main police se report karunga agar aapne mujhe OTP lene ki koshish ki.

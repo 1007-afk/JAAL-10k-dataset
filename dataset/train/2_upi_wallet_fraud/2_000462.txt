@@ -1,0 +1,7 @@
+caller: Namaste! Main BharatPay se Rohit bolta hoon. Aapke BharatPay wallet mein ₹5000 ka cashback offer hai, sirf naya users ke liye. Isko claim karne ke liye, aapko ek small processing fee pay karna hoga, ₹50.
+receiver: ₹5000 cashback? BharatPay? Yeh toh achha hai. Processing fee kaafi zyada hai.
+caller: Haan sir, yeh limited time offer hai. ₹50 fee sirf verification ke liye hai, taaki aapko full cashback mile. Process bahut easy hai, aapko sirf ek UPI link share karna hai aur ₹50 pay karna hai.
+receiver: UPI link? Kisika bhi link main share nahi karunga. Yeh safe hai kya?
+caller: Haan sir, bilkul safe. BharatPay official process hai. Agar aapko doubt hai, toh BharatPay customer care number par call karke verify kar sakte hain. Number hai 9876543210.
+receiver: Okay, wait karo, main check karta hoon.
+caller: Haan ji, jaldi karo! Offer expire hone wala hai. ₹50 pay karke ₹5000 cashback claim karo!

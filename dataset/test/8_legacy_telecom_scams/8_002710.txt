@@ -1,0 +1,8 @@
+caller: Namaste ji, kaise haal hai? Is this Mr. Verma speaking?
+receiver: Namaste, achcha haal hai. Main Neha bol rahi hoon.
+caller: Ji, mera naam Sanjay hai, main Quick Deals App se phone kar raha hoon. Aapko ek bahut hi special deal ke baare mein batane ke liye. Aapne pehle kabhi Quick Deals App ko 77777 pe message kiya tha?
+receiver: Haanji, Quick Deals App? Naam toh suna hai. Par 77777 pe message kiya tha, yeh nahi samjha aa raha. Kya deal hai, batao?
+caller: Ji, koi problem nahi. Bas yeh check karna chahta hoon ki aapne hamare app ko subscribe kiya tha nahi? Kyunki aapne ek amazing offer par signup kiya tha, aur hum abhi ₹1000 ka cashback voucher de rahe hain! Yeh claim karne ke liye, aapko sirf 77777 pe 'CDA' send karna hai.  Bahut simple hai!
+receiver: ₹1000 ka cashback voucher? Wow, yeh bahut acha hai! Par maine actually 77777 pe 'CDA' sent bhi tha. Mujhe bilkul nahi pata.  Aur mera number 88888888888 hai, yeh bhi sure nahi hai. Kya aap meri number check kar sakte hain?  Just to see if this offer is for me only.
+caller: Ji, Ms. Neha ji, absolutely! Hum check kar sakte hain. Aapki number 88888888888 hai na? Agar aap confirm karein, toh main voucher ko aapki account mein load kar dunga.  Phir aap 77777 pe 'CDA' send karke confirmation seekh sakte hain.  Aapko sirf 3 attempts milenge ye offer ke liye!
+receiver: Haanji, wohi number hai meri 88888888888. Voucher mujhase hi hai?  To phir immediately send kar doon 'CDA'?

@@ -1,0 +1,7 @@
+caller: Namaste! Ji, is line pe bol rahe hain. Aapko urgent loan dene ka option hai, ₹30,000 se ₹2 Lakh tak, sirf KYC complete karne ke baad. Apna naam bataiye?
+receiver: Haan, bilkul. Mera naam Rajesh hai. Loan ke bare mein jankari lene mein dilchaspi hai.
+caller: Achha Rajesh ji! Bahut achha. Aapko kitni amount chahiye thi aur kya zaroorat hai iske? Kisi emergency ke liye hai kya?
+receiver: Haan, mere papa ka medical bill clear karna hai. Lagbhag ₹75,000 tak ki zaroorat hai.
+caller: ₹75,000 ke medical bill? Bilkul Rajesh ji! Hum aapki madad karenge. Bas, apna address aur bank account details de dijiye. Aur ek photo ID bhi chahiye, pata proof ke liye. Jab aap documents send kar denge, toh loan approval process shuru ho jayegi.
+receiver: Okay, main documents send kar dunga. Lekin yeh safe hai? Mujhe dar lag raha hai, online fraud hone ka.
+caller: Relax Rajesh ji! Hum registered company hain - "QuickCash Solutions." Koi chinta nahi. Jaldi se documents send karein, taaki aapke papa ka treatment time pe ho sake. Hum aapko call bhi karenge verification ke liye.

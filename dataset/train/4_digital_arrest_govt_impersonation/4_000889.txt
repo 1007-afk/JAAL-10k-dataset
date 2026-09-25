@@ -1,0 +1,10 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai Gujarat mein, lekin usmein illegal items mile hain.
+receiver: Illegal items? Mere naam par? Mujhe toh koi parcel yaad nahi. Mai Gujarat mein nahi hoon, mai Delhi mein hoon. Yeh kya bol rahe hain?
+caller: Ji, parcel Gujarat mein aaya hai. Police ne investigation kiya hai aur parcel mein suspicious documents aur electronic gadgets hain. Aapko is matter mein cooperate karna hoga.
+receiver: Cooperation? Kitna cooperate karna padega? Mujhe kuch document bhi bheja hai aapne? Aur parcel ka tracking number bhi to dedo, mai check karunga.
+caller: Tracking number abhi confidential hai, sir. Cooperation ka matlab hai aapko ek small amount clear karna hoga, taaki matter ko close kiya ja sake aur parcel aapke naam se release kiya ja sake. Rupees 15,000 kaat lijiye.
+receiver: 15,000? Yeh serious hai! Mai kisi bhi cheque ya online transaction ko nahi karunga. Mujhe pehle parcel ka proof chahiye aur Gujarat police ka contact number chahiye. Yeh thoda zyada lag raha hai.
+caller: Sir, time is running out. Gujarat police ne already case register kar diya hai. Rupees 15,000 clear kar den, otherwise aapko court mein bhi jaana pad sakta hai.
+receiver: Court mein jaane ka darr dikhata hai. Mai FIR number ya case number toh de sakte hain aap? Aur Gujarat police ka naam aur contact number bhi dedo. Mai check karunga.
+caller: Sir, FIR number confidential hai. Aapko trust karna hoga. Rupees 15,000 clear kar dijiye UPI se.
+receiver:  Mai trust nahi karunga agar aap mujhe proof nahi de sakte.  Yeh scam hai. Mai call cut kar raha hoon aur police ko

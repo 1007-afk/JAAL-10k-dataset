@@ -1,0 +1,8 @@
+caller: Namaste! Main Rahul Verma, LoanConnect se baat kar raha hoon. Aapne 'QuickCash' app par loan ke liye apply kiya tha, correct?
+receiver: Haan, bilkul. QuickCash par apply kiya tha. Kya hua?
+caller: Sir, aapka application approved ho gaya hai, lekin security check ke liye aapko ek OTP verify karna hoga. OTP hai 879234.
+receiver: Loan approved? Kaun sa loan? Mujhe koi notification nahi mila. Aur OTP? Kisliye OTP?
+caller: Sir, OTP aapke QuickCash account ko secure rakhne ke liye hai. Without OTP, hum aapko loan transfer nahi kar sakte. Agar aap OTP nahi dege, toh application reject ho jayega.
+receiver: Wait a minute! QuickCash app toh maine kabhi download nahi kiya. Yeh fraud hai!
+caller: Sir, ghabraiye nahi. OTP sirf verify karne ke liye hai. Jaldi kijiye, offer limited time ke liye hai. Agar aap confirm nahi karenge, toh aapka loan reject ho jayega aur aapka naam blacklisted ho sakta hai. Aapko paise chahiye na?
+receiver: Blacklisted? Paise chahiye? Yeh toh pure paisa vasool scam hai! Main police mein complaint karunga.

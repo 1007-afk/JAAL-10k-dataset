@@ -1,0 +1,8 @@
+caller: Namaste! Main Akash Verma, BlueDart se bol raha hoon. Aapke naam par ek parcel aaya hai, lekin address verification ke liye kuch details chahiye.
+receiver: Haanji? BlueDart? Mujhe koi parcel expected nahi hai… kaun sa parcel hai?
+caller: Ji, parcel mein ek smart watch hai, imported. Aapka address 15, Patel Nagar, Delhi dikha raha hai, correct hai? Aur OTP send kiya hai aapke number pe, woh bataiye please.
+receiver: Smart watch? mujhe nahi pata tha. OTP? Mere number pe OTP aaya hi nahi.
+caller: Ji, thoda wait karein, system mein check karta hoon. Haan, ji, ek minute. Dekhiye, aapka OTP 4587 hai. Woh bataiye please, security ke liye.
+receiver: 4587? Aur parcel ka tracking ID kya hai? Main verify karna chahta hoon.
+caller: Ji, tracking ID hai ZXY912. Ab suniye, aapka OTP enter karne ke baad, parcel release ke liye approve ho jayega. Aur delivery boy aapke address pe jaldi pahunch jayega.
+receiver: Thoda wait kar lo, main check karta hoon.

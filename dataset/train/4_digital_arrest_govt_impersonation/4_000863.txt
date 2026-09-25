@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Verma residing at Flat 4B, Sunrise Apartments, Nagpur? I'm calling from the Customs Department regarding a parcel registered under your name.
+receiver: Haan, main hi Mrs. Verma hoon. Parcel? Kya baat hai?
+caller: Absolutely, Madam. We’ve intercepted a parcel arriving from overseas containing what appears to be prohibited items. There's a legal investigation underway. To clear the parcel and prevent further complications, a small processing fee is required.
+receiver: Processing fee? Kitna fee hai? Aur kisliye? Mein toh koi parcel order nahi kiya tha.
+caller: The fee is ₹7,500, Madam. It’s for verification and security checks to ensure the contents aren’t illegal. This is standard procedure. To expedite matters, we're offering a limited-time discount – only 5 slots are available right now. We need to confirm your bank account details for the payment.
+receiver: ₹7,500? Yeh bahut zyada hai! Mein bank details nahi dungi. Yeh scam lag raha hai.
+caller: Madam, please understand the seriousness of this matter. We can hold the parcel indefinitely. To avoid legal action and a hefty fine, please provide your bank details. We can provide you a reference number for your records. It is 789456123.
+receiver: Reference number? Okay, let me check something. I'll call you back.
+caller: Absolutely Madam, but please hurry as the offer will expire in 15 minutes. It is very important you do this immediately.

@@ -1,0 +1,8 @@
+caller: Namaste ji! Main Bharat Telecommunications se call kar raha hoon. Ji haan, aapne recently ek exciting offer dekha hoga - '5000 Rupees Cashback on Recharge'! It’s the biggest deal this month! Are you remembering something like that? I am just calling to ensure everything is correct and to get your consent before we proceed. Have you heard about this amazing cashback opportunity?
+receiver: Oh yes, I saw an advertisement on WhatsApp. That sounded quite interesting. What exactly needs to be done now?
+caller: Fantastic! So, you’ve seen the ad, that’s wonderful. Let me just verify some information. Your full name and your registered mobile number, please? And do you have a working email address where we can send you important updates and confirmation messages?
+receiver: My name is Priya Sharma, and my number is 9876543210. I have an email address – priya.sharma@gmail.com. What’s next?
+caller: Excellent! Thank you, Priya Sharma. Now, all we need is these few details. Soon, you will receive a confirmation message with all the details about your cashback. Please follow the instructions in that message. Remember, after the first week, you will receive a small fee of ₹50 for each additional recharge. It's a very reasonable amount.
+receiver: ₹50 per recharge after the first week? Is that correct? Could you please clarify?
+caller: Absolutely correct! The first week is completely free, as part of the promotion. After that, it's only ₹50 per recharge for a fantastic Nokia ringtone pack. Don’t worry, you’ll also get an SMS detailing everything. Shall we proceed with the signup?
+receiver: Okay, ₹50 per week. Alright, let’s go ahead with the signup. Thank you for explaining clearly.

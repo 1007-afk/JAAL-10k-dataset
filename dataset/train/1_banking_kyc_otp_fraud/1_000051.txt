@@ -1,0 +1,10 @@
+caller: Namaste, is this Mr. Sharma? My name is Rohan from SecurePay Solutions. We’re contacting you about an unclaimed transaction from November 2017. The system shows a transfer of ₹50,000 to an account linked to your mobile number. Do you remember receiving that amount, sir?
+receiver: Namaste, Rohan?haanji, yeh Mr. Sharma ki line hai. SecurePay Solutions se? Woh transfer… mujhe nahi pata. Mobile number se transfer? Main December mein bahut busy tha, so confused huya tha.
+caller: Absolutely no problem, sir. That was a while ago. This is a crucial transaction and needs to be verified immediately to prevent any potential issues. Your SecurePay account has flagged this transaction for urgent attention. Could you please verify your OTP sent to your registered WhatsApp number – 9876543210?
+receiver: OTP? Whatsapp pe? Haanji, woh number mera hi hai. Jo number register kiya tha. Kya OTP enter karne par verification complete hoga?
+caller: Exactly! Just type the OTP into our secure portal - securepay.com/verify. Please do it quickly, sir, as this transaction might be cancelled if we don't get confirmation within the next hour. There's also a small processing fee of ₹50 if you don’t verify promptly.
+receiver: Processing fee? Seriously? Fir mein OTP enter karunga.  But tell me, what kind of transaction was this ₹50,000 transfer? Was it to a friend or family member?
+caller: Sir, it’s a legitimate payment made by a company called ‘GlobalTech Innovations’. They were paying you for consulting services rendered in September 2017. We just need to ensure the funds reach their designated account. Verification is paramount. Now, please provide the OTP.
+receiver: Okay, okay. OTP hai – 123456. Submit kar dunga.  But seriously, GlobalTech Innovations?  It seems very vague.
+caller: Thank you, sir. OTP received.  The transaction is now confirmed. You will receive a notification shortly confirming the successful completion of the verification process. Is there anything else I can assist you with today?
+receiver: Haanji, koi baat nahi. Dhanyavaad Rohan.

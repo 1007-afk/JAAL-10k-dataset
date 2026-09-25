@@ -1,0 +1,8 @@
+caller: Namaste, main Aadhaar helpline se Rohan bol raha hoon. Aapke Aadhaar card ki details mein ek discrepancy mili hai.
+receiver: Discrepancy? Kya matlab? Mein toh recently update karwaa tha.
+caller: Haanji, system mein ek technical error hai. Aapki dob ko update karne ke liye, humein ek OTP verification karna hoga. Security ke liye yeh zaroori hai.
+receiver: OTP? Kaise OTP aayega? Aise hi phone pe bolke OTP nahi de sakte.
+caller: Sir, OTP aapke registered mobile number par aa jayega. Aapko sirf woh OTP mujhe batana hai. Agar aapko OTP nahi milta, toh hum aapka Aadhaar card suspend kar denge.
+receiver: Suspend? Itni serious baat hai?  Dekho, main bank mein jaakar update karwaaunga.  Toh mujhe abhi koi OTP nahi chahiye.
+caller: Sir, bank mein jaane ki zarurat nahi hai. Yeh process bahut easy hai.  Aapki registered mobile number pe OTP aa gaya hoga. Check karo.  Agar aap bata denge, toh hum aapka Aadhaar card secure kar lenge.
+receiver: Theek hai,  dekhta hoon.  Par agar kuch gadbad hui toh main tumhare helpline number pe complain karunga.

@@ -1,0 +1,10 @@
+caller: Hello, this is Akash from SecurePay Services. We've detected unusual activity on your Paytm wallet linked to your Aadhaar.
+receiver: Unusual activity? What kind of activity? I haven't done anything out of the ordinary.
+caller: Yes sir, a few small transactions were made from your wallet to an unknown merchant. To secure your funds and prevent further unauthorized access, we need to verify your details. Just a quick KYC update.
+receiver: KYC update? But I’ve already completed my KYC with Paytm. What details do you need? And why can’t I do this through the Paytm app itself?
+caller: Sir, this is an urgent security measure. Due to recent data breaches, we're implementing enhanced verification protocols.  We need your full Aadhaar number and the OTP sent to your registered mobile to confirm your identity.  It’s a one-time process, just for your safety.
+receiver: My Aadhaar number? Over the phone? That sounds risky. Can you at least tell me what merchant these transactions were made to? And can you give me a reference number for this verification? I’ll call Paytm customer support directly to confirm.
+caller: Sir, sharing the merchant details would compromise our security protocols. It’s against policy. The reference number is SP-7892. Just provide the Aadhaar and OTP, and we’ll resolve this immediately.  Don't delay, sir, your wallet could be frozen.
+receiver: Frozen? Okay, hold on. I’m going to call Paytm customer service right now to double-check this. Give me a moment.
+caller: Sir, we are under strict instructions to resolve this immediately. Delaying will result in permanent suspension of your Paytm wallet. Please, just cooperate and provide the requested information. It's for your own good.
+receiver: I’m not comfortable sharing my Aad

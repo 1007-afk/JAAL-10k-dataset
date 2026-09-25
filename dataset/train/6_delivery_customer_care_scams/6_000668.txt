@@ -1,0 +1,9 @@
+caller: Hello, is this Mrs. Sharma? I’m calling from Bluebird Courier. We have a parcel addressed to you, but there's a delivery issue.
+receiver: Haan, mein hoon Mrs. Sharma. Kya hua? Delivery issue?
+caller: Ji, there’s a ₹2500 customs clearance fee pending. It needs to be cleared urgently to release the package. It's a very important document, as per the sender.
+receiver: ₹2500? Kaun ne bheja hai? Mujhe koi parcel expect nahi tha. Aur customs clearance fee?
+caller: The sender is listed as "Global Investments." It’s a priority document, madam. To pay the fee, you can use UPI. Please share your UPI ID so I can send you the payment link.
+receiver: Global Investments? Woh naam toh suna hai, lekin mujhe koi yaad nahi. UPI ID? Wait, ek minute… Mein check karti hoon.
+caller: Ji, please hurry. The parcel will be returned to the sender if the fee isn't cleared within the next hour. This is the last notice you will receive.
+receiver: Okay, okay, meri UPI ID [Invent a generic UPI ID like ‘sharma.priya@axis’] hai. Par document kya hai? Aur Global Investments ne mujhe kyun bheja?
+caller: Very good, Mrs. Sharma. Please confirm the last four digits of your mobile number for verification purposes. The document is classified, but it's crucial for your financial future, I assure you.

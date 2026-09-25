@@ -1,0 +1,7 @@
+caller: Namaste, main BharatPay se Rahul bolta hoon. Aapke BharatPay wallet mein cashback offer aa gaya hai! Aapko sirf 50 rupaye processing fee dene hai, phir 500 rupaye cashback milega.
+receiver: 50 rupaye fee? Cashback offer kaise aaya? Mein BharatPay app mein check karta hoon.
+caller: Haan ji, offer limited time ke liye hai. Aapko BharatPay app mein login karke ‘Claim Cashback’ button pe click karna hai, aur 50 rupaye processing fee dene hai. Payment karne ke liye UPI ID share karna hoga.
+receiver: UPI ID kyun share karna padega? Direct BharatPay se hi toh pay hona chahiye, na? Yeh kuch wrong lag raha hai.
+caller: Sir, is offer ko activate karne ke liye, humein system verification karna padega. UPI ID ke zariye hi verify ho payega. Jaldi karo, offer expire hone wala hai!
+receiver: System verification? Yeh bahut suspicious hai. Mein BharatPay customer care se contact karta hoon aur fir decide karta hoon. Call cut.
+caller: Sir, aap call kyun cut kar diya? Aapko cashback miss ho jayega! Please provide your UPI ID, otherwise offer expire ho jayega.

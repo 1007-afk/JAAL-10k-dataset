@@ -1,0 +1,9 @@
+caller: Namaste! Caller ID shows this is Rakesh Verma. I'm calling from Axis Bank security department. We’ve noticed some suspicious online transactions originating from your account. It's important we verify this immediately to prevent any fraud.
+receiver: Haan, hello. Suspicious transactions? What happened?
+caller: Sir, there was an attempt to transfer ₹8,500 to an unknown account. We’ve temporarily blocked your card to safeguard your funds. To reactivate it, we need to quickly verify your details through a one-time password.
+receiver: ₹8,500? That’s a lot! But I haven't done any transfers like that. Okay, tell me what I need to do.
+caller: Absolutely, sir. We just need to confirm your identity. Can you please tell me the last four digits of your Aadhaar card? This is just a standard security protocol, I assure you.
+receiver: Aadhaar number? That seems a bit risky, doesn’t it? Why do you need my Aadhaar details?
+caller: Sir, it’s a mandatory verification process for high-risk transactions. Without it, we can’t unblock your account and you’ll be unable to access your funds. Think of it as protecting your money. For your safety, and to avoid any delays, kindly provide the last four digits.
+receiver: Okay, okay. Fine. It’s 4567.
+caller: Thank you, sir. Now, for added security, could you please share the OTP you just received on your registered mobile number? That will finalize the reactivation process.

@@ -1,0 +1,12 @@
+caller: Namaste, is this Rohan Sharma? This is Priya from the DigiRewards Helpline. I’m calling regarding your 2008 account activity. It appears you had 1200 DigiPoints accumulated, scheduled for expiry on December 15th, 2008. Do you recall participating in any DigiRewards programs during that period?
+receiver: Hello Priya, yes, that’s me. 1200 DigiPoints? December 15th, 2008… that’s a long time ago. I vaguely remember a mobile network offer. Can you tell me more about that offer?
+caller: Absolutely not a problem! Those offers were quite popular back then. These points stemmed from a premium data bundle package offered by Airtel in 2008, often bundled with SMS credits. The system automatically identifies these as “unclaimed”. We can certainly help you convert them into valuable rewards before they vanish. Would you be open to exploring what’s available?
+receiver: Airtel… 2008… yeah, I do recall using Airtel. What kind of rewards can I get with these points? I’m not looking for anything too complicated, just something useful.
+caller: Of course! With 1200 DigiPoints, you have several worthwhile choices. We’re offering discounted movie tickets, vouchers for online shopping platforms like Snapdeal, and even a subscription to a streaming service. Alternatively, we could transfer the points directly to your savings account – a simple and secure option. Which one appeals to you most?
+receiver: Transferring to my savings account would be easiest, I think. How much will 1200 points translate to in rupees? And how quickly will the transfer be completed?
+caller: Let me check the current conversion rate for you. Just one moment please… Okay, currently, 1200 DigiPoints are equivalent to approximately ₹750. And the transfer typically takes 3-5 business days to reflect in your account. Is that acceptable?
+receiver: ₹750? That's decent. But, can you confirm that this is a legitimate conversion? Are there any hidden fees involved?
+caller: Absolutely! There are no hidden fees whatsoever. This is a completely transparent process. We value your trust and want to ensure you receive the full benefit of your unclaimed DigiPoints.
+receiver: Okay, good to hear. One last thing - can you provide me with a reference number for this transaction?
+caller: Certainly! Your reference number is DR-2008-11-03-A7. Please keep this safe for your records. Thank you for your time, Rohan Sharma. Have a wonderful day!
+receiver: Thank you, Priya. You too. Goodbye.

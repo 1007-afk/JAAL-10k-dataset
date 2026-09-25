@@ -1,0 +1,13 @@
+caller: Namaste, mein hu Akash, PhonePe Security Team se. Aapke account mein ek suspicious login attempt hua hai, Rajasthan se.
+receiver: Rajasthan se? Main toh PhonePe kabhi Rajasthan se use nahi karta.
+caller: Exactly! Isliye hum call kar rahe hain. Security ke liye, aapko apne account details verify karne hain. Apna registered mobile number bol sakte hain?
+receiver: Haan, mera mobile number 98765 43210 hai.
+caller: Shukriya. Ab OTP check karenge. Aapko PhonePe app par ek OTP milega, woh bataiye.
+receiver: Haan, OTP mila hai, 123456.
+caller: Thank you. Verification ho gaya hai. Ab, account secure karne ke liye, aapko ₹50 ka verification charge UPI ke zariye deposit karna hoga.
+receiver: ₹50? Verification charge? PhonePe mein toh kabhi koi charge nahi lagta tha.
+caller: Yeh ek new security protocol hai, Rajasthan se login attempt hone ke baad. ₹50 deposit karne ke baad, aapka account completely secure ho jayega. UPI ID hai securephonepe@upi.
+receiver: Wait a minute…securephonepe@upi? Mujhe kuch toh gadbad lag rahi hai. Main PhonePe customer care number se check karta hoon.
+caller:  Aapko koi bhi risk nahi hai. Yeh official process hai, sir.  Agar aap abhi ₹50 nahi deposit karte, toh account suspend bhi ho sakta hai.
+receiver: Account suspend? Dekhiye, main abhi deposit nahi karta. Main khud phonepe se check karta hoon.  Good bye.
+caller:  Sir, please!  ₹50 deposit karna bahut zaruri hai.  Aapka loss ho sakta hai.  Please, sir…

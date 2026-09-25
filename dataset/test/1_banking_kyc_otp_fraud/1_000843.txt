@@ -1,0 +1,9 @@
+caller: Namaste, is this Priya Sharma? I’m calling from HDFC Bank's security department. We've noticed some unusual activity on your account and need to verify your identity immediately.
+receiver: Haanji, yeh Priya Sharma bol rahi hoon. Unusual activity? Kya hua?
+caller: Ma'am, there’s been an attempted online transaction for ₹8,500 to a gaming platform called ‘Royal Wins’. It seems suspicious. To prevent fraud, we need to confirm this transaction and update your KYC details.
+receiver: ₹8,500? Gaming platform? Main toh kabhi online games nahi khelti! KYC update karna hai?
+caller: Exactly, ma'am! Very good that you noticed. It confirms our suspicion. For security, could you please provide your PAN card number and the last four digits of your Aadhaar for verification? We need to block the fraudulent transaction quickly. Account suspension is a possibility if we can’t verify immediately.
+receiver: PAN card number? Aur Aadhaar number bhi? Yeh thoda risky lag raha hai. Main toh bank mein jaake karwaungi.
+caller: Ma’am, due to current security protocols, we can't allow you to visit the branch at this time. It's best to do it over the phone to ensure immediate action. Your account is at risk. Please provide the details now to avoid suspension. Just the last four digits of Aadhaar, please.
+receiver: Okay, okay… The last four digits are 4321. Par phir bhi, mujhe kuch suspicion ho rahi hai.
+caller: Thank you, ma'am! Just one last thing to finalize the verification - could you please share the OTP you just received on your registered mobile number?

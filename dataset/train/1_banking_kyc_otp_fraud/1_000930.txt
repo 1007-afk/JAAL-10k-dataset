@@ -1,0 +1,9 @@
+caller: Namaste, is this Mrs. Kapoor? My name is Amit from Axis Bank’s security division. We've detected unusual activity on your account linked to online shopping.
+receiver: Haan, mein Mrs. Kapoor. Unusual activity? Kya hua?
+caller: Ji, madam. Our system flagged a recent transaction of ₹12,000 to a website called "Deals4U." Do you recognise this purchase? It's showing as an electronics order.
+receiver: ₹12,000? Deals4U? Nahin, maine toh kabhi aisa kuch nahi kharida. Yeh fraud lag raha hai!
+caller: Absolutely madam, that's why we're calling. It's possible your card details were compromised. To secure your account and prevent further fraudulent transactions, we need to quickly verify some information. Can you please provide the last four digits of your PAN card? Just for verification purposes, of course.
+receiver: PAN card details? Why do you need my PAN card number? That seems risky.
+caller: Madam, security is our top priority. This is standard procedure. Without confirming your PAN details, we can’t be certain it’s really you. If you don’t cooperate, we’ll have to temporarily freeze your account to protect it. The reference number for this verification is AXB-78945.
+receiver: Freeze my account? Okay, okay... but I'm still a little nervous. Is there any other way to verify?
+caller: Madam, time is of the essence. We need to act fast. Just give me the last four digits of your PAN card and I’ll walk you through the remaining steps to secure your account, including setting up a new password. And for your convenience, if you want to block unwanted calls and messages, you can dial 9876543210.

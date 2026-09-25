@@ -1,0 +1,8 @@
+caller: Hello, is this Mr. Verma? We are calling from State Bank of India's KYC verification department. There's an urgent issue with your account.
+receiver: Haan, bolie. What's the issue? Everything okay?
+caller: Sir, due to recent regulatory changes, we need to update your KYC information immediately. If we don't do this within 24 hours, your account will be temporarily suspended. It’s a security measure, you see.
+receiver: Account suspend? Why wasn't I sent an SMS or email about this? This sounds fishy.
+caller: Sir, our systems are experiencing a backlog. We are prioritizing high-risk accounts. To proceed, we need your Aadhaar number and the OTP that will be sent to your registered mobile number. This is just to confirm you are the account holder.
+receiver: Aadhaar number? On the phone? I've heard about these scams. Why can't I do this online, on the SBI website?
+caller: Sir, the online portal is currently down for maintenance. We are working quickly to resolve it. This is a time-sensitive matter to prevent potential fraud on your account. Please cooperate and provide the information requested.
+receiver: Fraud on my account? That's exactly what I'm worried about! I am not giving you my Aadhaar number over the phone. I will go to my branch directly to sort this out.

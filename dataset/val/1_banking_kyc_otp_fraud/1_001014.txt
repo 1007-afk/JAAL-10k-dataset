@@ -1,0 +1,8 @@
+caller: Namaste, sir? Main Paytm Payments Bank se Atul bol raha hoon. Aapke account mein ek suspicious activity detect hui hai, ek transaction ₹12,500 ka Gujarat mein gaya hai.
+receiver: ₹12,500? Maine toh koi transaction nahi kiya Gujarat mein. Kya ho raha hai?
+caller: Ji sir, woh transaction aapke naam par gaya hai. Security ke liye, humein aapke account details verify karne ki zarurat hai. OTP send kiya hai aapke register number par, woh bataiye.
+receiver: OTP?  Aapko mera OTP chahiye? Main thoda confused hoon. Paytm toh aise call bhi karta hai?
+caller: Ji sir, urgent hai yeh. Account suspend hone se pehle verify karna zaruri hai. OTP bataiye jaldi. Aur apna PAN card ka last four digits bhi bata dijiye, verification ke liye.
+receiver: PAN card?  Yeh bahut suspicious lag raha hai. Main KYC details phone pe nahi de sakta. Main office jaakar verify karunga.
+caller: Sir, aapko pata bhi nahi ki aapko kitna nuksan ho sakta hai agar aap verify nahi karte. Account freeze ho jayega aur ₹12,500 bhi chale jayenge. Please cooperate. Just the last four digits of your PAN card.
+receiver: Sir, main koi bhi information phone pe nahi de sakta. Main Paytm customer care number se call karta hoon aur confirm karta hoon.

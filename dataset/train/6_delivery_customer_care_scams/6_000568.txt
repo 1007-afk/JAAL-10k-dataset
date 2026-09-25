@@ -1,0 +1,9 @@
+caller: Namaste, mai Shubham se baat kar raha hoon, Blue Dart Courier se. Aapke naam par ek parcel aaya hai, lekin address mein kuch problem hai. Parcel deliver karne se pehle, humein verify karna hai.
+receiver: Hello? Blue Dart? Kya problem hai address mein?
+caller: Sir, aapke address mein pin code galat dikha raha hai. OTP bheja ja raha hai aapke mobile number par, woh check karke bataiye.
+receiver: OTP? Par main toh correct address diya tha. Parcel ka details kya hai?
+caller: Sir, parcel mein ek smart watch hai. Value ₹8000 tak hai. Security ke liye, OTP mandatory hai. SMS mein aayega, jald se jald bataiye.
+receiver: ₹8000 ka smartwatch? Mujhe toh koi smartwatch order nahi kiya tha. Yeh kuch gadbad lag rahi hai.
+caller: Sir, shayad aapko yaad nahi. Koi bhi payment karne ke liye, humein confirm karna hoga. OTP dikhaiye, aur main process start karunga.
+receiver: Theek hai, OTP hai [invent a 4-digit number].
+caller: Thank you sir, verification complete ho gaya hai. Ab humein ₹500 security deposit ke liye, Google Pay ya PhonePe par deposit karna hoga. Sir, jaldi karo, parcel kal tak deliver karna hai.

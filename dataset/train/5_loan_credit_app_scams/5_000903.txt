@@ -1,0 +1,7 @@
+caller: Namaste! Main Ashish Verma, LoanHelp24/7 se bol raha hoon. Aapka naam Rajesh Kumar hai, kya? Humare records ke according, aapne kuch din pehle humare app par ₹50,000 ki personal loan ke liye apply kiya tha.
+receiver: Haanji, main Rajesh Kumar hi hoon. Loan apply toh kiya tha, par mujhe koi message ya call nahi aayi thi.
+caller: Theek hai Rajesh ji. Verification ke liye kuch details chahiye hongi. Pehle bataiye, aapka PAN card number kya hai? Aur ek OTP aapke registered mobile number par gaya hai. Woh OTP check karke bataiye.
+receiver: PAN card number [Receiver's PAN Card Number]. OTP mila hai... woh hai [Receiver’s OTP]. Par mujhe yeh thoda suspicious lag raha hai. PAN card number kyon pooch rahe ho?
+caller: Rajesh ji, security ke liye zaroori hai. OTP confirm hone ke baad, main aapko loan details aur repayment schedule bataunga. Ab, humein aapke bank account ka last statement bhi chahiye hoga, verification ke liye. Woh PDF format mein send kar sakte hain?
+receiver: Bank statement? Yeh bahut zyada ho raha hai. Loan app toh bank details check karta hai na? Bank statement kyon chahiye? Aur mujhe repayment schedule bhi dekhna hai, interest rate kitna hai yeh bhi batao.
+caller: Rajesh ji, aapko sab kuch clear karne ke liye main aapko ek WhatsApp group mein add karunga. Wahan humare expert aapke saare questions ke answers denge, aur aapka loan process jaldi se complete ho jayega. Group link hai yeh - [Fake WhatsApp Link]. Join karke dekhiye.

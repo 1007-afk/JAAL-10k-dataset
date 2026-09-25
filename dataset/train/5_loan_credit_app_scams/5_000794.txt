@@ -1,0 +1,7 @@
+caller: Namaste! Main LoanExpress se bol raha hoon. Aapko urgent loan chahiye tha, correct? ₹1 lakh tak ki loan, sirf ID proof aur address proof se. Koi income proof nahi chahiye. Aapka naam kya hai?
+receiver: Ji, haan, correct. Mera naam Rahul Verma hai. Main ek freelancer hoon, aur mujhe ek project ke liye urgently funds chahiye.
+caller: Rahul Verma, bahut achha! ₹1 lakh aapke liye kaafi hoga? Ya zyada amount ki zarurat hai? Batao, kya project hai?
+receiver: ₹1 lakh kaafi hoga. Main ek website design kar raha hoon, aur mujhe hosting aur domain fees pay karna hai.
+caller: Website design! Bahut creative! Hum aapko loan approve kar denge. Sirf ek cheez check karni hai. Aapka WhatsApp number dedo, taki hum OTP send karein verification ke liye.
+receiver: Sure, mera WhatsApp number 9876543210 hai.
+caller: Perfect! OTP send kar diya hai. Abhi dekhiye, aur mujhe confirm karein. Aise bhi hum aapko offer kar rahe hain, 10% commission, agar aap apne friends ko bhi LoanExpress se loan lene ko bole. Yeh offer limited time ke liye hai.

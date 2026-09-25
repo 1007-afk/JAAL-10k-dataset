@@ -1,0 +1,7 @@
+caller: Namaste, sir. Main Paytm customer care se baat kar raha hoon. Aapke Paytm wallet mein kaafi transactions hue hain, aur security ke liye humein KYC update karna hoga.
+receiver: Paytm? Haan, main Paytm use karta hoon. KYC update? Kya karna hai?
+caller: Ji sir, update bahut simple hai. Aapko sirf apna Aadhaar card number dena hai. Isse aapka account safe rahega. Aur koi bhi fraud nahi hoga.
+receiver: Aadhaar number? Yeh thoda risky lag raha hai, yaar.
+caller: Sir, koi chinta mat kijiye. Paytm kabhi bhi Aadhaar number maangta hai. Yeh standard procedure hai. Agar aap update nahi karenge, toh aapka wallet suspend ho sakta hai.
+receiver: Wallet suspend? Nahin, nahin. Chalenge, batao kya karna hai. Aadhaar number... woh hai 987654321098.
+caller: Shukriya, sir! Ab aapko apne bank account ka OTP dena hoga, verification ke liye. Woh bhi de dijiye, please.

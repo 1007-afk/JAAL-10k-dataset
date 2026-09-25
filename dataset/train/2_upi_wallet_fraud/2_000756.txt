@@ -1,0 +1,9 @@
+caller: Namaste, main Lakshmi Digital Solutions se Rohan bolta hoon. Aapko cashback offer ke bare mein bataane ke liye call kiya hai.
+receiver: Cashback offer? Kispe?
+caller: Haan, aap Amazon pe ek special cashback promotion ke liye eligible hain. Aap Amazon Pay se ₹1000 ka transaction karenge, toh aapko ₹500 ka cashback milega.
+receiver: ₹500 cashback? Really? Amazon ne mujhe koi notification nahi diya.
+caller: Sir, yeh offer select customers ke liye hi hai. Is offer ko claim karne ke liye, aapko ek OTP verify karna hoga jo aapke Amazon Pay wallet mein SMS karega.
+receiver: OTP verify karna padega? Wait, mujhe thoda doubt ho raha hai. Amazon kabhi OTP maangta hai transaction ke liye?
+caller: Sir, yeh security verification process hai. OTP se aapki identity confirm ho jayegi aur aapka cashback instantly activate ho jayega. Please share the OTP jab aapko milega.
+receiver: Okay, wait a minute...let me check my Amazon app...
+caller: Sir, jaldi karo! Offer time-limited hai, aur offer abhi khatam ho sakti hai.

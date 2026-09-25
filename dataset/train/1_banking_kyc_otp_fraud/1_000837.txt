@@ -1,0 +1,7 @@
+caller: Namaste sir, this is Anjali from Axis Bank’s fraud prevention department. We’ve noticed some unusual activity on your account linked to your Paytm wallet.
+receiver: Haan, hello. Unusual activity? What kind of unusual activity? I haven’t done anything different.
+caller: Ji, we’ve detected a few small transactions originating from a different location. To ensure your account is safe and prevent any unauthorized access, we need to quickly verify your details. Could you please provide your Aadhaar number for verification? It’s a standard security procedure.
+receiver: Aadhaar number? Over the phone? That sounds a little risky, doesn't it? Can’t you verify through something else, like an OTP or a recent transaction?
+caller: Sir, due to the sensitive nature of the potential fraud, Aadhaar verification is the quickest and most secure method we have. Without this, we can't guarantee the safety of your funds. The fraudster might try to make large transactions. To avoid freezing your account, kindly provide your Aadhaar number now.  It’s just a one-time verification.
+receiver: Okay, fine. My Aadhaar number is 987654321098. But please promise me this is secure and my details won’t be misused.
+caller: Shukriya sir! Now to complete the verification process, please provide the last four digits of your debit card linked to your Paytm wallet. This is to ensure it's truly you making this request.

@@ -1,0 +1,8 @@
+caller: Namaste Madam, this is Rohan calling from Zomato Customer Care. We have noticed some unusual activity on your account. A large order was placed, but the payment failed.
+receiver: Oh really? What order was it? I haven’t placed anything recently. And what unusual activity?
+caller: Yes Madam, it was for ₹2,500 from a restaurant in Delhi. It seems someone might have tried to use your account fraudulently. To secure your account, we need you to verify your OTP.
+receiver: OTP? Why do you need my OTP? Zomato never asks for OTP over the phone. That sounds suspicious. And I told you, I didn’t place that order!
+caller: Madam, it’s very important to protect your account. A hacker could be trying to access your information. Just a one-time verification. Please share the OTP so we can block the fraudulent transaction immediately. Without it, we'll have to freeze your account for security reasons.
+receiver: Freeze my account? Okay, hold on. Let me just call Zomato’s official customer service number myself and verify this. Give me that number please.
+caller: Madam, I cannot disclose that information. For your security, I am providing you with a secure link to verify your details: zomatoprotection.net/verify. Please use this link urgently to confirm your OTP, otherwise your account will be blocked.
+receiver: Wait a minute... zomatoprotection.net? That doesn't look right. Zomato’s website is clearly zomato.com. You're trying to scam me!

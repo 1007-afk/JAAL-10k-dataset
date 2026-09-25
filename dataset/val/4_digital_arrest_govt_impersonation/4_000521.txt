@@ -1,0 +1,9 @@
+caller: Namaste, sir? Main Customs Department se Rohan Sharma bol raha hoon. Aapke naam par ek parcel Ahmedabad airport par rok diya gaya hai.
+receiver: Parcel? Mujhe toh koi parcel order karne ka yaad nahi aa raha. Kya hua?
+caller: Sir, parcel mein illegal items paaye gaye hain – drug trafficking se related. Sir, aapko is matter mein involved consider kiya ja raha hai.
+receiver: Yeh kya bol rahe ho? Main drug trafficking mein nahi involved hoon! Aur parcel toh mera nahi hai.
+caller: Sir, legal process start hone se pehle, aapko ₹50,000 ka fine clear karna hoga taaki parcel release ho sake aur aapko investigation se clear kiya ja sake. Iske baad main aapko video call par connect karunga CBI officer se.
+receiver: ₹50,000? Yeh bahut zyada hai! Aur mujhe CBI officer se baat karne ki kya zaroorat hai? Main police station mein jaakar report karunga.
+caller: Sir, police station mein report karne se aapko aur trouble hoga. Yeh case serious hai, sir. Aapko ₹50,000 ka fine clear kar den, then everything will be sorted. Iske baad, agar koi problem hua to hum baat karenge. Please, sir. Time is running out.
+receiver: Sir, mujhe sab kuch samjh mein aa gaya hai. Yeh ek fraud hai. Main report karunga.
+caller: Sir, please don’t do this! You are making a big mistake. Think about your reputation!

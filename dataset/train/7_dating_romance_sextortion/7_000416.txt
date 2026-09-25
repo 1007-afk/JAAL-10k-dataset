@@ -1,0 +1,6 @@
+caller: Hello Priya! This is Rohan calling from 'Eternal Bonds'. I think you might remember me from the 'Hearts United' app? We connected over our shared love of old Hindi cinema, right? I'm having a bit of an urgent situation.
+receiver: Rohan? Oh yes, I remember! It's been a while. What's up? Everything alright?
+caller: Not really, sadly. My passport renewal got stuck, and I'm stuck in Dubai for an extra week. My flight was supposed to be tomorrow, but now I need to pay a hefty fee to expedite it. It’s about 45,000 rupees. Can you possibly help me out with a little bit of that? I'll pay you back the moment I get back.
+receiver: 45,000 rupees? That’s quite a lot! Why can't you use your credit card or something? Are you sure you’re okay?
+caller: My card isn’t working properly here, it’s a long story with the bank. I’m so embarrassed to ask, but I’m really desperate. I even have a picture of my passport with the renewal issue to send you, just to prove it. Would you like to see?
+receiver: Okay, send the picture. Let me see. I'm a little hesitant, but I trust you. This is very sudden though.

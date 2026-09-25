@@ -1,0 +1,7 @@
+caller: Namaste Madam, mein Swiggy Customer Care se Rahul bol raha hoon. Aapke account mein ek pending payment hai, ₹450 ka. Payment confirm karne ke liye kuch details chahiye hogi.
+receiver: Swiggy se? ₹450? Mujhe toh koi order yaad nahin aa raha.
+caller: Haanji, Madam. Woh order 2 din pehle kiya tha, "Spice Route Kitchen" se. Payment fail ho gaya tha, isliye hum contact kar rahe hain. Aapka account suspend bhi ho sakta hai agar payment confirm nahi hoti toh.
+receiver: Suniye, mujhe kuch samajh nahi aa raha hai. Mera Swiggy app toh main check karti hoon, kabhi kabhi order karti hoon. 
+caller: Bilkul, Madam. Confirm karne ke liye, aapka registered mobile number pe aaya OTP bataiye. Woh sirf ek verification process hai.
+receiver: OTP? Yaar, mujhe thoda doubt ho raha hai. Swiggy aise bhi OTP puchta hai?
+caller: Haanji Madam, security ke liye. Is baar OTP se confirm hone ke baad aapko koi problem nahi aayega, aur aapka account bhi safe rahega. Jaldi bataiye, taaki hum aapko aur hassle se bacha sakein.

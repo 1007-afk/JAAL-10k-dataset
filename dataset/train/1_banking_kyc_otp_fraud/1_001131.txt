@@ -1,0 +1,7 @@
+caller: Namaste, sir! Main ICICI Bank se Ankit Sharma bol raha hoon. Aapke account mein ek suspicious transaction detect hua hai, amount ₹12,500 ka. Security ke liye, humein aapki KYC details verify karne ki zarurat hai.
+receiver: KYC details? Mein toh koi transaction nahi dekha. Mujhe batayein aur kuch.
+caller: Sir, yeh transaction ek online shopping website pe hua hai. Aapko pata nahi, humein ise block karna hai aur aapko secure rakhna hai. Isliye, mujhe aapka PAN card number aur ek OTP chahiye jo aapko apne phone pe milega.
+receiver: PAN card number? Mere PAN card number ki zaroorat kya hai? Yeh kuch ghalat lag raha hai.
+caller: Sir, regulations ke according, humein KYC verification ke liye PAN card number ki zaroorat hai. Tension mat leiye, yeh completely secure hai. Ab aapko OTP milega, woh bhi bataiye.
+receiver: OTP? Mein OTP share nahi karunga. Mein ICICI Bank ke customer care number pe call karta hoon aur check karta hoon. Aap mujhe wait karne ko kahein.
+caller: Sir, time bahut kam hai! Yeh suspicious activity abhi bhi chal rahi hai, aur aapke account se aur paise nikal sakte hain. Jaldi se OTP bataiye, otherwise aapka account suspend ho jayega.

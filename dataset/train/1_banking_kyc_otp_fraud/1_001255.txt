@@ -1,0 +1,8 @@
+caller: Namaste! Caller ID says this is Rahul Verma. I’m calling from Axis Bank fraud prevention. We've noticed some unusual activity on your account and need to verify a few details urgently to prevent unauthorized transactions.
+receiver: Haan, bolo. What happened? My account?
+caller: Ji, sir. We've flagged a potential login attempt from an unknown device. For security purposes, we need to confirm your Aadhaar number. It’s just a quick verification step, sir.
+receiver: Aadhaar number? Why do you need that? I thought you wouldn't ask for that over the phone.
+caller: Sir, it’s standard procedure. Account suspension is imminent if we can’t verify you promptly. Please provide the first four digits for now. Just 4 digits will do.
+receiver: Okay, fine. It's 1234. Is this really Axis Bank?
+caller: Excellent! Now, a one-time password (OTP) has been sent to your registered mobile number. Please share that OTP with me for complete verification, sir.
+receiver: Wait a second... the OTP is 5678. Is everything okay now?

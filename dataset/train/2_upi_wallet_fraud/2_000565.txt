@@ -1,0 +1,10 @@
+caller: Namaste, main RuPay customer service se bol raha hoon. Aapke RuPay card mein kuch suspicious activity hui hai, isliye temporary block lagaya gaya hai.
+receiver: Kya? Meri card block? Lekin mein toh abhi use kar raha tha! Transaction kya hua tha?
+caller: Sir, ek online transaction hua hai Rs. 8,500 ka, jo aapne nahin kiya hai. Card ko secure karne ke liye, aapko verify karna hoga.
+receiver: Rs. 8,500? Yeh toh bahut zyada hai! Mein toh kabhi online shopping bhi nahin karta. Mein police mein report karwa lunga.
+caller: Sir, please mat karo report. Yeh process bas few minutes ka hai. Verify karne ke liye, aapko ek UPI collect request send karna hoga, Rs. 500 ka. Verify hone ke baad, hum aapki card unblock kar denge.
+receiver: UPI collect request? Kispe send karu? Aur Rs. 500? Yeh thoda suspicious lag raha hai, sir.
+caller: Sir, collect request humein send karna hai, verify hone ke baad aapko refund bhi mil jayega. Aap trust kar sakte hain, sir. Hum official RuPay se bol rahe hain.
+receiver: Okay, ek minute. Mein check karta hoon. Mujhe verification OTP mil raha hai.
+caller: Haan ji, sir. OTP share kar dijiye. Aapse abhi payment confirm karne ke liye OTP chahiye.
+receiver: Bas ek minute...

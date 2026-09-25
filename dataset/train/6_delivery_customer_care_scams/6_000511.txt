@@ -1,0 +1,7 @@
+caller: Namaste! Mein Flipkart se Rahul bol raha hoon. Aapke naam par ek order hai, lekin payment mein kuch problem aa raha hai. Order number FLP789456 hai.
+receiver: Oh, really? Flipkart se? Kya hua? Payment ka problem? Mein ne toh payment kar diya tha.
+caller: Haan sir, system mein dikh raha hai ki payment pending hai. Security ke liye, kya aap mujhe apna OTP de sakte hain jo aapko SMS se mil raha hai? Bas verify karna hai.
+receiver: OTP? Kyun? Flipkart aise bhi karta hai? Mujhe kuch shak ho raha hai.
+caller: Sir, yeh ek standard procedure hai. Agar aap OTP nahi denge, toh order cancel ho jayega aur aapka order kabhi deliver nahi hoga. Fast karo, sir!
+receiver: Okay, theek hai. Fine. 1234.
+caller: Dhanyavaad sir! Ab aapko apne bank account se 5000 rupees ka verification charge jama karna padega, security ke liye. Yeh charge refund ho jayega jab order deliver ho jayega. Mereko online payment karne ke liye UPI ID dedo.

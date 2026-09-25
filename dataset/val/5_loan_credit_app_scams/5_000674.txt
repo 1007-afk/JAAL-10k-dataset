@@ -1,0 +1,9 @@
+caller: Namaste, sir. My name is Akash from QuickCash Solutions. We saw you applied for a personal loan through our website. Just verifying your mobile number, is it 9876543210?
+receiver: Haan, bilkul. Mein Rajesh Verma. QuickCash Solutions? Loan apply kiya tha, haan. Kya baat hai?
+caller: Excellent, Rajesh Verma! We’ve pre-approved you for a loan of ₹50,000 at a very attractive rate. But before disbursement, we need to quickly verify your identity. Could you please share a selfie with a government ID?
+receiver: Selfie? Government ID? Kyun? Loan ke liye toh normally documents check hote hain na?
+caller: Yes, sir, but security is our top priority. This is to prevent fraudulent activities. Just a quick selfie, Rajesh Ji, holding your Aadhar card or PAN card. It takes just a minute, and then your loan will be processed instantly.
+receiver: Hmm… okay, fine. (pause) Selfie send kar diya.
+caller: Wonderful, Rajesh Ji! The verification is complete. Now, to activate your loan, there's a small processing fee of ₹2,500. This will ensure your account is secured. You can transfer it to this UPI ID: [invent a UPI ID].
+receiver: ₹2500? Loan ₹50,000 ka hai aur processing fee ₹2500? Yeh thoda zyada lag raha hai.
+caller: Sir, this is a one-time fee, and it’s a standard procedure for all our clients. Once the fee is confirmed, your ₹50,000 will be credited to your account immediately! Don't miss out on this amazing opportunity.

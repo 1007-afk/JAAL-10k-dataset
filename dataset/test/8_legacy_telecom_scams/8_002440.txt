@@ -1,0 +1,9 @@
+caller: Namaste sir, main Airtel customer service se baat kar raha hoon. Aapke phone mein jo SIM hai, woh 7 days mein deactivation ho jayega. Kya aap isko renew karna chahte hain?
+receiver: Namaste, kitna deactivation ho raha hai? Mein Airtel ka user hoon, lekin mujhe koi notification nahi mila. Mera number 8765432198 hai.
+caller: Sir, notification timings sometimes lagta hai. Isliye main aapka SIM renew karta hoon. Par, iske liye mujhe aapka bank account number aur IFSC code chahiye.
+receiver: Bank account number aur IFSC code? Kahan maine ye number diye? Mein toh yeh bhi share karna istemal nahi karta. Yeh to bahut risky lag raha hai.
+caller: Sir, yeh sirf verification ke liye hai. Aapko koi money transfer nahi karna hai. Aur aapka account aman hai, humein pata hai aapko confusion ho sakta hai.
+receiver: Confusion ho sakta hai? Tumne mujhse fake id aur name pucha tha! Kaise meri banking details seekho?
+caller: Sir, woh… woh mistake tha. Humare system mein technical issue thi. Aapka SIM renew ho gaya hai. Apni internet connection check karein.
+receiver: Technical issue? Mujhe to abhi bhi malish aa rahi hai. Ye sab toh ek fraud hai. Main police ko bhi jaanta hoon.
+caller: Sir, please don’t do this. Aapka SIM continue running. Enjoy your day.

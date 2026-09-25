@@ -1,0 +1,6 @@
+caller: Namaste, Madam! Main State Bank of India se Rohan Sharma bolta hoon. Aapke account mein kuch suspicious activity dikh rahi hai. KYC verification ke bina, aapka account suspend ho sakta hai.
+receiver: Suspicious activity? Account suspend? Yeh kya keh rahe ho? Main toh kisi bhi transaction mein involve nahi hoon.
+caller: Madam, humein yeh security check karna padta hai. Aapka Aadhaar card number aur OTP share karein, taaki hum verify kar sakein. Aur ek OTP aaega aapke phone pe, woh bhi bataiye. Bas 2 minute ka kaam hai.
+receiver: Haan, par mujhe bank wale se baat karne ka experience hai. Unhone kabhi phone pe Aadhaar number ya OTP nahi manga. Yeh thoda fishy lag raha hai.
+caller: Madam, yeh new protocol hai. Security ke liye compulsory hai. Agar aap details nahi denge, toh aapka account aaj hi block ho jayega. Aapka ₹80,000 ka balance bhi freeze ho sakta hai.
+receiver: ₹80,000? Ab ruk jao! Mujhe bank branch mein jaake baat karni hai. Main phone pe kuch bhi share nahi karungi. Tumhara number block kar rahi hoon.

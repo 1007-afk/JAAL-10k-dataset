@@ -1,0 +1,7 @@
+caller: Hello! My name is Rohan, I’m a software engineer working in Singapore. It's been a crazy week, so stressed! I’d love to chat with someone friendly. Text ‘CONNECT’ to 9876543210 if you’re interested in a quick conversation. Just ₹50 for the first message, then ₹2 per message after that.
+receiver: Rohan? Singapore? A software engineer, huh? Why are you messaging random people offering to chat? Sounds a bit odd, doesn't it? And paying to chat? Seriously?
+caller: Arey yaar, it’s a premium service, you see! It helps filter out the spammers and ensures a good, safe conversation. Honestly, I just want to unwind a little. Plus, the agency handles all the messaging - I'm a bit busy with work right now. Send ‘CONNECT’ and you’ll get a lovely picture of Singapore in return! 
+receiver: A premium service to chat with a busy software engineer who can't even message directly? That's quite the sales pitch. And a picture of Singapore? I can Google that for free. I’m not paying ₹50 for a generic image and some pre-written messages.
+caller: Okay, okay, I understand your hesitation! Look, special offer just for you - I'll waive the ₹50. But please, just send ‘CONNECT’ so I can send you a special, personal message. It’ll be worth it, I promise! I’m feeling really down, and a friendly chat would make a big difference.
+receiver: Waive the ₹50? Now you're just trying to trick me. Listen, I’m not interested in your special offers or your personal messages. I have better things to do than engage with someone clearly trying to scam people. Goodbye.
+caller:

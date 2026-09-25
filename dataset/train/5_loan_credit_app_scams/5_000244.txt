@@ -1,0 +1,7 @@
+caller: Namaste! This is Rahul calling from Loan Express. We’ve approved your loan application, congratulations! It’s for ₹75,000. Just need to do a quick verification.
+receiver: Oh! Really? That’s great news. I applied for a loan, but wasn't sure if it would be approved. What do you need?
+caller: First, can you share a selfie with your Aadhaar card? Just to confirm it’s you. It's a standard security procedure, sir. Don't worry, it's completely secure.
+receiver: A selfie with my Aadhaar? Is that really necessary? I thought you'd just need some details.
+caller: Yes sir, absolutely. We have to prevent fraud, you understand. And also, to process the loan quickly, we need you to pay a small processing fee of ₹5,000 upfront. It will be refunded once the loan is disbursed.
+receiver: Five thousand rupees? Before I even get the loan? That sounds a bit strange.
+caller: Sir, this is how we work. Many people apply, but only those who are serious pay the processing fee. It shows commitment. If you don't pay, we'll have to cancel the loan application. Please send the money to this UPI ID: 9876543210@ybl.

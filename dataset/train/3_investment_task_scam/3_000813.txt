@@ -1,0 +1,9 @@
+caller: Namaste! This is Priya Sharma calling from Global Crypto Solutions. We've noticed you’ve been showing interest in our platform. We have a special, limited-time opportunity for valued users like you.
+receiver: Hello? Global Crypto Solutions? I don’t recall signing up with you.
+caller: That’s alright! You were registered through a referral program. We're offering a guaranteed 30% daily return on a small investment in a new crypto asset, ‘NovaCoin’. It’s projected to skyrocket! Just need to verify some details to activate your account.
+receiver: 30% daily? That sounds unbelievably high. What kind of details do you need? It sounds too good to be true.
+caller: Just a quick verification, ma'am. Your bank account details to link to your wallet. And a small activation fee of ₹7,500 to secure your investment. This ensures you’re a serious investor and unlocks the daily returns. It's a one-time fee, and you'll see your returns start accumulating immediately.
+receiver: ₹7,500? For an activation fee? I’m really not comfortable sharing my bank details with someone I just spoke to. Can I see some proof of these returns?
+caller: Of course! I can show you screenshots of other users already earning. Just send the activation fee to this UPI ID: 9876543210@axisbank. Once I confirm the payment, I'll send you those screenshots. Don’t delay, this offer expires in 24 hours!
+receiver:
+caller: Still thinking about it? Just imagine what you could do with that 30% daily return! It's practically free money!

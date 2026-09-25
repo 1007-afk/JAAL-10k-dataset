@@ -1,0 +1,10 @@
+caller: Namaste! Main Rohit, India Bank se call kar raha hoon. Kya aapko abhi bank account update karne ke liye miss call karna hai?
+receiver: Miss call kyun? Mein khud account check kar sakta hoon.
+caller: Haanji, abhi miss call karna bahut zaroori hai. Tumhara account security check hone wali hai. Tumhari account details tumhare naam par hain, sahi nahi hain toh tumhari account block ho jayegi. Agar aapko koi problem hai toh hum helpline number 7845698721 pe call kar sakte hain.
+receiver: Account block ho jayegi? That’s scary! Mein khud check kar lunga.
+caller: Haanji, bas ek miss call karo. Tumhari account status update hone wali hai. Aur humari helpline number yaad rakh lo. Agar aapko koi doubt hai toh call kar sakte hain. Tumhari account details tumhare name par hain, correct karna zaroori hai.
+receiver: See, I just want to be safe, but I am not giving you my number. You can’t ask me to miss call.
+caller: Arre, koi number mat do, madam ji. Hum toh sirf account security check karte hain. Tumhari account details tumhare naam par hain, correct karna zaroori hai. Tumhari account blocked ho jayegi. Helpline number 7845698721 pe call kar sakte hain. Tumhari account details tumhare name par hain, please.
+receiver:  I am telling you, this is suspicious.  I will not give you any information.  Please stop calling.
+caller:  Arre, aapko kitna stress ho raha hai? Main toh sirf aapki madad karne aaya hoon. Tumhari account details tumhare naam par hain, correct karna zaroori hai. Helpline number 7845698721 pe call kar sakte hain. Tumhari account details tumhare name par hain, please.
+receiver:  I’m ending this call now.  Don’t ever call me again.

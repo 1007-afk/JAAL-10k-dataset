@@ -1,0 +1,7 @@
+caller: Hello, sir? This is Rohan calling from SwiftLoans India. We’ve noticed you applied for a personal loan through our app recently. There seems to be a slight discrepancy in the submitted information.
+receiver: Hello? Yes, I did apply. What discrepancy? I filled everything correctly, I think.
+caller: Yes sir, but the verification process is taking longer than usual. To expedite things and avoid rejection, we need to confirm a small security deposit – just ₹5,000. It will be refunded immediately after approval, guaranteed.
+receiver: ₹5,000? That wasn't mentioned in the application. And why would I need to pay anything *before* getting approved? That sounds suspicious.
+caller: Sir, this is standard procedure for high-value loans. It’s to prevent fraud. If you don't pay, we'll have to cancel your application. Also, we have your contacts listed - we wouldn’t want to embarrass you by notifying them about your loan application being denied, would we?
+receiver: What? You have my contacts? That's completely unethical and illegal! I'm reporting this. I will not pay any money. Leave me alone.
+caller: Sir, please! Just think about it. Your reputation… the embarrassment… We can resolve this easily. Send the ₹5,000 to this UPI ID: swiftloans.secure. Think carefully, sir.

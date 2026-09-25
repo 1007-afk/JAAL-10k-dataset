@@ -1,0 +1,6 @@
+caller: Namaste, main Indian Customs se Rohan Verma bol raha hoon. Aapke naam par ek parcel Gujarat mein mila hai jismein illegal items paye gaye hain.
+receiver: Illegal items? Mere naam par? Yeh kya ho raha hai? Main Gujarat jaise bhi nahi jaata, sir.
+caller: Haan ji, parcel mein suspicious items hain, drugs ke sambandhan mein. Yeh matter serious hai, aur aapko ismein cooperate karna hoga. Humko aapka bank account number aur PAN card copy chahiye verification ke liye.
+receiver: Drugs? Mere naam par drugs? Yeh toh bohot galat baat hai! Maine kabhi drugs ko touch bhi nahi kiya. Bank account number aur PAN card? Woh kaise verify karenge? Yeh thoda shak lag raha hai.
+caller: Dekhiye, legal process follow karna padega. Court mein case chal raha hai, aur humko confirm karna hai ki parcel aapka hi hai ya nahin. Agar aap cooperate nahi karenge toh court aapko summon kar sakti hai. Apne bank account number se hum verify karenge ki parcel kisi illegal transaction se linked to hai ya nahin.
+receiver: Court summon? Illegal transaction? Sir, mujhe toh kuch samajh nahi aa raha hai. Agar parcel illegal hai toh aapko parcel sender se baat karni chahiye, na? Mere account details share karne se kya connection hai is sab se? Mujhe kuch time chahiye is baat ko samjhne ke liye.

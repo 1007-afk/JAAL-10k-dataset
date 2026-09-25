@@ -1,0 +1,11 @@
+caller: Namaste, main Vijay se baat kar raha hoon, BharatPay security team se. Aapke BharatPay wallet mein aaj ek suspicious transaction ka attempt kiya gaya hai, ₹750 ka.
+receiver: Oh! ₹750? Kaunsa transaction tha? Mujhe toh koi message aaya nahi.
+caller: Haan, ek online shopping transaction tha. Hum ne security ke liye aapka wallet temporary suspend kar diya hai. Aapko isko re-activate karna hai.
+receiver: Re-activate? Kaise karun?
+caller: Aapse sirf ₹50 verification fee lena hai. ₹50 BharatPay collect request pe send kar dijiye. Request link main aapko mil jayega.
+receiver: ₹50? Collect request? Woh link bhejiye mujhe. Main check karti hoon.
+caller: Yeh lo link: bharatpay.verify.secure/collect. Jaldi karo, otherwise account permanently block ho jayega.
+receiver: Wait a minute… BharatPay ka app mein toh aisa koi collect request option nahi hai.
+caller: Sir, aapko urgently fund transfer karna hai, otherwise aapka account block ho jayega aur ₹750 bhi chala jayega.
+caller: Aapko ₹50 verify karne ke liye, ek OTP bhi send kar sakte hain aapko.
+caller: Jaldi please sir, aapka account risky hai.

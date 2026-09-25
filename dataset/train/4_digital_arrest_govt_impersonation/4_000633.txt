@@ -1,0 +1,8 @@
+caller: Namaste, mai Indian Customs se bol raha hoon. Aapke naam par ek parcel aaya hai jo Mumbai airport par adhura processing ke karan ruk gaya hai.
+receiver: Kya? Mere naam par parcel? Mujhe toh koi order kiya hi nahi. Kon ne bheja hai?
+caller: Parcel mein illegal items ki suspicion hai, sir. Drugs ya paisa laundering se related lag raha hai. Aapko parcel clear karne ke liye kuch formalities complete karni padengi.
+receiver: Drugs? Yeh toh galat baat hai. Mai toh aisa kuch nahi jaanta. Mujhe parcel dekhna hai. Mai khud airport ja sakta hoon.
+caller: Airport par process bahut zyada complicated hai, sir. Aapko online verification karna hoga aur ek small fine bhar dena hoga. Rupees 12,500 ka fine hai.
+receiver: Fine? Rupees 12,500? Sir, ek moment. Main verify kar raha hoon. Yeh bahut shiddat se lag raha hai. Ek officer ka naam aur ID batao, mai khud verify karta hoon.
+caller: Officer ka naam Inspector Verma hai, ID number IC-7892. Aapko UPI par payment karna hoga. QR code mai bhej raha hoon, sir. Jaldi karo, otherwise parcel confiscat ho jayega aur aapke khilaf legal action leya jayega.
+receiver: Wait! Inspector Verma? Mai check karta hoon. Yeh UPI QR code fake lag raha hai. Mai police mein report karunga.

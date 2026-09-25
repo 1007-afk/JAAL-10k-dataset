@@ -1,0 +1,16 @@
+caller: Tum kitna Paytm karte hain? Sir, tumhein apna Paytm app update karna zaroori hai, warna tumhara account suspend ho ja sakta hai.
+receiver: Arre yaar, maine toh suna tha ki Paytm update automatically hota hai. Abhi tumhara account suspend ho jayega? Kya karna hai?
+caller: Nahin, nahin bhai, automatic nahi hota. Yeh naya version hai, tumhein khud install karna hai. Fir sirf 3 din mein account suspend ho sakta hai. Tumhare paas sirf 3 din ka time hai.
+receiver: Arre, 3 din mein? Seriously? Koi QR code bhejna hai kya? Ya Paytm app download karna hai? Tumhara account kis reason se suspend hoga, Paytm account ya app ka account?
+caller: Nahin bhai, koi QR code nahi, koi app download bhi nahi karna hai. Ehsaas Finance wala app kholna hai. Ehsaas Finance ne humein bohot sawal poochein hain, isliye update karna hai. Agar tum suspend ho gaye toh tum Paytm se payment nahi kar payoge. Tumhara Paytm ID ka access chala jayega.
+receiver: Okay, okay, mein samajh raha hu. To Ehsaas Finance wala app kholna hai aur ehsaas finance ke update ko accept karna hai? Koi specific instruction deta hai kya? Aur agar main phir bhi confuse ho jao to?
+caller: Haan bhai, app kholne ke baad, ek notification aaega "Update Required" ya "Security Update". Us par click karo. Bilkul easy hai. Aur galat click karne ka koi risk nahi hai, yeh clear dekhne ke liye zoom in karo. Aur bhai, agar koi bhi problem aaye toh main tumhari madad ke liye ready hoon. Just tell me.
+receiver: Theek hai. Toh “Update Required” wala notification kahaan milega? Mein home screen par dekhunga kya? Aur agar woh notification nahi dikhta, to phir kaise pata karuga ki update karna hai?
+caller: Apne Aadhaar card online check kiya hai na? Sir, aapko apna Aadhaar card verify karna hoga, warna aapka registration cancel ho jaega.
+receiver: Arre yaar, maine toh suna tha ki Aadhaar verification automatically hota hai. Abhi mera registration cancel ho jayega? Kya hoga?
+caller: Nahin, nahin beta, automatic nahi hota. Yeh ek new procedure hai jo aapko khud karna padega. Agar aap abhi nahi karenge toh 7 days mein registration cancel ho jaega. Aapke paas sirf 7 days ka time hai.
+receiver: Arre, 7 days mein? Seriously? Koi website bhejna hai kya? Ya Aadhaar e-card download karna hai? Registration kis reason se cancel hoga, Aadhaar card ya registration account?
+caller: Nahin beta, koi website nahi, koi e-card download bhi nahi karna hai. DigiLocker mein login karna hai. DigiLocker mein apna Aadhaar upload karna hai. Agar registration cancel ho gaya toh aap government schemes benefit nahi kar paoge. Aapka registration ID ka access chala jayega.
+receiver: Okay, okay, mein samajh raha hu. To DigiLocker mein login karna hai aur apna Aadhaar upload karna hai? Koi specific step deta hai kya? Aur agar main phir bhi confuse ho jao to?
+caller: Haan beta, DigiLocker mein login karne ke baad, aapko "Aadhaar Verification" wala section dikhega. Woh select karo aur apna Aadhaar upload karo. Bilkul simple hai. Aur galat uploading ka koi fear nahi hai, upload karne ke bad zoom in karein. Aur beta, agar koi bhi problem aaye toh main tumhari madad ke liye ready hoon. Just tell me.
+receiver: Theek hai. Toh “Aadhaar Verification” wala section kahaan milega? Mein DigiLocker homepage par dekhunga kya? Aur agar woh section nahi dikhta, to phir kaise pata karuga ki verification karna hai?

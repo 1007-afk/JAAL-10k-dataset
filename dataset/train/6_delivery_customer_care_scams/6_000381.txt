@@ -1,0 +1,8 @@
+caller: Namaste, sir. This is Priya from Blinkit Customer Care. We've noticed an unusual charge of ₹1200 on your account for a delivery that was marked as undelivered. Could you please verify your OTP to resolve this issue?
+receiver: ₹1200? Main toh kuch order nahi kiya tha. Blinkit se?
+caller: Yes sir, sometimes there are system glitches. The order number is BLK-789456. To cancel the charge and prevent further issues, we need to verify your OTP. Just a quick one-time thing.
+receiver: OTP? Mujhe kuch shak ho raha hai. Koi link aaya tha mujhe?
+caller: No sir, no link required. I will just need you to read the OTP I send to your registered mobile number. It's for security purposes, absolutely essential to stop that ₹1200 charge. Don’t worry, it’s standard procedure.
+receiver: Okay, ek minute. Mera number 8866778899 hai. Check karta hu... Haan, OTP aaya hai. 4592.
+caller: Thank you, sir! Just confirming, that's 4592? Excellent! The charge is now cancelled. As a thank you for your prompt response, we are offering you a special discount on your next Blinkit order. Use code THANKYOU10 at checkout.
+receiver: Discount? Yeh theek lagta hai. Kal dekhta hu.

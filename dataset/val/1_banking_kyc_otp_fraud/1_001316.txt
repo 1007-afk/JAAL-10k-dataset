@@ -1,0 +1,7 @@
+caller: Hello, this is Anjali calling from State Bank of India KYC department. We have detected some unusual activity on your account and need to verify your details to prevent fraudulent transactions. It’s very important you speak to me now.
+receiver: Haan, hello. What kind of unusual activity? My account is fine, I think.
+caller: Sir, we’ve noticed multiple login attempts from an unknown IP address. As a precaution, we need to confirm your identity. Can you please share the last four digits of your Aadhaar card so I can quickly verify your details? And also, could you provide the OTP you just received on your registered mobile number?
+receiver: Wait a minute. Why do you need my Aadhaar details and OTP? Isn't that risky? Shouldn’t I be calling the bank directly?
+caller: Sir, this is a standard security protocol. We cannot stress enough the urgency of this matter. If you don't verify your details immediately, your account will be temporarily suspended for security reasons. Think of your hard-earned money! Just give me the Aadhaar last four digits and OTP.
+receiver: Okay, this is sounding very suspicious. I am not sharing any OTP or Aadhaar details over the phone. I am going to call my bank branch directly to confirm this.
+caller: Sir, please don’t be difficult. We are just trying to protect your account. This is your last chance to prevent suspension. Just the last four digits of your Aadhaar...

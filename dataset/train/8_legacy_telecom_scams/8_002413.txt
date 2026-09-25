@@ -1,0 +1,8 @@
+caller: Hello sir, main Vodafone customer care se bol raha hu. Aapke phone ki SIM 23 ghante mein inactive hone wali hai. Kya aap ise activate karna chahenge?
+receiver: Achha? Vodafone se? Mera toh number toh Vodafone ka hi hai. Par 23 ghante mein inactive? Aisa kaise ho sakta hai? Koi problem hai kya meri SIM mein?
+caller: Sir, aapki SIM mein koi problem nahi hai. Yeh ek standard procedure hai. Agar aap chahte hain ki aapki SIM chalti rahe, toh aapko bas yeh confirmation dena hoga. Kya main aapke account details verify kar sakta hoon, jaise ki aapka registered mobile number aur aapki date of birth?
+receiver: Haan, bilkul. Mere number toh 9876543210 hai. Aur meri date of birth... wait, mujhe check karne do. Haan, 15th August 1990 hai.
+caller: Aapki date of birth bilkul sahi hai, sir. Aur yeh confirmation ke liye, mujhe aapke SIM registration ke liye use kiya gaya email address bhi chahiye hoga. Bataiye, kya tha woh?
+receiver: Email address? Uhh, I don't remember it off the top of my head. Can you remind me what email address Vodafone has on file for me? Maybe that will jog my memory.
+caller: Sir, woh information hum share nahi kar sakte hain security reasons ki wajah se. Aap please try kijiye yaad karne ka. Agar aapko yaad nahi aa raha hai, toh hum ek aur tarika try kar sakte hain. Aapke registered address pe ek OTP bhej denge, woh OTP aap mujhe bata dijiye. Toh confirmation ho jayega aur SIM activate rahegi.
+receiver: OTP? Mere registered address pe? Yeh toh thoda complicated lag raha hai. Can you tell me what address you have on file? Maybe that will help me remember.

@@ -1,0 +1,7 @@
+caller: Namaste! Main Google Pay se bol raha hoon. Aapke account mein Rs. 18,000 cashback offer chal raha hai. Claim karne ke liye, sirf ₹250 processing fee bhar den.
+receiver: ₹250? Google Pay se aise offer toh bilkul nahi hote. Ye kya bakwas hai?
+caller: Sir, ye ek limited-time offer hai jo select users ke liye hai. Aapko ye offer miss nahi karna chahiye. Fee bharne ke baad cashback aapke account mein instantly deposit ho jayega. Mai aapko ek UPI link de deta hoon, wahan se bhar den.
+receiver: UPI link? Main UPI link se kisi ko bhi paisa nahi bhejna chahta. Mujhe doubt ho raha hai.
+caller: Sir, please trust me. Google Pay toh official hai.  ₹250 fee bharne ke baad aap ₹18,000 se zyada kama lenge. Link this - paytm.secure-transactions.in/claim.  Jab ₹250 bhar den, toh mujhe bataen.
+receiver: Paytm secure transactions?  Ye toh bilkul fake lag raha hai! Main complaint karunga.
+caller: Sir, aap ₹18,000 miss kar rahe hain!  Aap jaise users ko hi ye offer milta hai! Jaldi karo, offer abhi hi khatam hogi! Last chance hai.

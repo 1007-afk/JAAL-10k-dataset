@@ -1,0 +1,8 @@
+caller: Namaste. Is this Mr. Rajesh Sharma speaking? This is Inspector Singh from the Delhi Customs Department. We have intercepted a parcel addressed to you containing suspicious items.
+receiver: Mujhe maaf karna, yeh Rajesh Sharma nahi hai. Yahan Ramu bhai rehte hain.
+caller: Oh, I apologize for the error. Our records show this number is linked to a Rajesh Sharma associated with this address. The matter is quite serious – it involves potential illegal import of electronic devices and a possible connection to money laundering. To clear this up and avoid legal complications, you’ll need to cooperate.
+receiver: Illegal import? Mein toh kuch nahi jaanta. Ramu bhai toh idhar yahaan ek dukaan chalaate hain.
+caller: Mr. Sharma, we understand this may be concerning. We need to verify your involvement. To do so, we require a small processing fee of ₹15,000 to cover the inspection and clearance costs. We can arrange a video call to confirm your identity and discuss this further. It's crucial to resolve this quickly to prevent further investigation.
+receiver: ₹15,000? Yeh kya baat ho rahi hai? Ramu bhai yahan nahi hain, aur main bhi kuch nahi jaanta.
+caller: Mr. Sharma, delaying this will only escalate the situation. We have the parcel number and all relevant documentation. To ensure your cooperation and demonstrate good faith, we are offering a discounted rate of ₹10,000. Can you confirm your bank details for a quick transfer?
+receiver: Bank details? Nahin, main kuch bhi nahi dene wala. Yeh scam lag raha hai!

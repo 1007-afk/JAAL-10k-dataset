@@ -1,0 +1,6 @@
+caller: Hello! I am calling from MobiKwik Pay. We’ve noticed some unusual activity on your account and need to verify your details to prevent fraud.
+receiver: Oh, really? What kind of unusual activity? I haven't done anything different.
+caller: It appears someone tried to send a collect request to your MobiKwik wallet for ₹2500. To secure your funds, we need you to confirm you didn’t initiate this. We'll send you a verification OTP to your registered mobile number.
+receiver: Okay, that sounds a bit concerning. I definitely didn't send any collect request. Let me see the OTP.
+caller: Perfect. The OTP is 4582. Please share that with me so we can block the fraudulent request and ensure your money is safe. Also, for extra security, could you quickly confirm the last four digits of your linked bank account? Just to double check.
+receiver: Wait a minute! Why do you need my bank account details? MobiKwik never asks for that over the phone. This feels really suspicious now. I’m not giving you any information. I'm going to disconnect this call.

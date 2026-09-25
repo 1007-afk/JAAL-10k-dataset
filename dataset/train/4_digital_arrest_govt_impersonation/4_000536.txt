@@ -1,0 +1,9 @@
+caller: Namaste! Is this Mrs. Verma speaking? My name is Inspector Singh, calling from the Cyber Crime Investigation Cell, Delhi. We’ve detected unusual activity linked to your bank account.
+receiver: Haan, mein Mrs. Verma. What unusual activity? Everything’s fine, I think.
+caller: We’ve flagged several high-value cryptocurrency transactions originating from your account, seemingly linked to an illegal online gambling ring. It appears your account may have been compromised. We need to verify some details immediately to freeze the account and prevent further losses.
+receiver: Cryptocurrency? Gambling? But I don't do any of that! This has to be a mistake.
+caller: It's a serious matter, Mrs. Verma. To assist with the investigation and secure your funds, we require a small processing fee of ₹750 to cover forensic analysis. This will be a refundable amount once the investigation is complete. Please transfer it to the account details I'll provide.
+receiver: ₹750? Refundable? This sounds…suspicious. Why can't you take the money directly from my bank account if it's compromised? And why do I have to pay?
+caller: Due to new banking protocols, Mrs. Verma, we must obtain your consent and a small processing fee to initiate the forensic audit. This is a standard procedure to protect your identity and prevent fraud. Your cooperation is crucial to resolving this quickly. There are only 2 slots left for verification today.
+receiver: I am going to call my bank to confirm this. Give me a moment.
+caller: Absolutely Mrs. Verma. I will wait for your confirmation. It is very important you do that quickly to prevent further losses and fraudulent transactions.

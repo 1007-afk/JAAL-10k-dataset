@@ -1,0 +1,11 @@
+caller: Namaste sir, main Bharat Telecom se bol raha hoon. Aapki mobile number 15 days mein band ho jayegi. Kya aap isko renew karna chahte hain?
+receiver:  Acha! Mein toh abhi bahut busy huya hu. Kisko bolna hai mujhe? Aur kyun band ho rahi hai?
+caller: Ji sir, mera naam Rahul hai. Iska reason yeh hai ki aapke account mein balance nahi hai. Company ne notification bheja hai ki agar aapki balance 60 din se chali gayi hai, toh SIM band ho jayegi.
+receiver:  Rahul ji, thank you. Toh matlab, balance recharge karna chahiye?  Mujhe pata bhi nahi tha yeh notification aaya tha.  Kya aap mujhe recharge karne ke liye ek link bhejna shaktay hain?
+caller:  Haan sir, woh karna sahi rahega. Main aapko ek OTP bhejna chahta hoon, jise aapko verify karna hoga.  Iske badle, aapko ₹299 recharge karne ke liye offer hai.  Agar aap ₹299 recharge karte hain, toh ₹300 aapke account mein return kar denge.  Yeh offer sirf aaj raat mil sakta hai.
+receiver:  ₹299?  Arre, okay.  Main abhi check karunga.  But what happens if I don’t recharge?  Will the SIM definitely get blocked?
+caller:  Haan sir, agar aap recharge nahi karte hain, toh SIM band ho jayega.  Aapko sirf 24 hours ka time milega.  Agar aap recharge karna chahte hain, toh main aapko payment gateway ka address bhejuṅ.  Aapko apne bank account ki details deta honge.
+receiver:  Wait, wait.  So, I have to give you my bank account details?  That sounds a little risky.  Can't you just send me the recharge link directly?
+caller:  Sir, yeh process zaroori hai.  Verification ke liye hamare pass aapki mobile number aur account information hona zaroori hai.  Aapki SIM ko save rakhne ke liye, humein aapki consent ki zarurat hai.  Aapko ek confirmation message bheja jayega, jab aap recharge kareinge.
+receiver:  Okay, okay.  Fine.  Jao, bhejo OTP.  Par mujhe abhi abhi worry hai.
+caller:  Ji sir, OTP bhejna shuru ho gaya hai.  Aapko woh OTP number confirm karna hoga.  Aur aapki registered email ID bataiye, please.

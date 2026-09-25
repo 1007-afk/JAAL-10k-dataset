@@ -1,0 +1,9 @@
+caller: Hello, is this Akash Sharma? This is Rahul Verma from FastCash Solutions. We've pre-approved you for a quick loan of ₹10,000. Just a few simple steps and the money is yours.
+receiver: FastCash Solutions? I don't remember applying for a loan.
+caller: No worries, sir. Many people apply through our partner website. To activate the loan, we need to verify your details. Can you please share the last four digits of your Aadhar card? It's just for security.
+receiver: I’m not comfortable sharing that information over the phone. Is there a secure website I can visit?
+caller: Absolutely, sir. Our secure portal is cashfast.in. However, we need that Aadhar verification first to unlock your account. We also need a selfie with your ID proof to avoid fraud.
+receiver: A selfie? That seems a bit unusual.
+caller: Yes, sir, it's a standard procedure. And after that, we need ₹999 for processing fee to release the funds. Otherwise, we will have to cancel your loan application.
+receiver: ₹999? That’s a lot for a processing fee. I think I’ll pass.
+caller: Akash Sharma, are you sure? This is a great opportunity. Don't miss out on this fantastic offer.

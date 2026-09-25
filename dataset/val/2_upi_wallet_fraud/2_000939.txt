@@ -1,0 +1,10 @@
+caller: Namaste! Main Vijay, Paytm se bol raha hoon. Aapke Paytm wallet mein ₹15,000 ka cashback offer hai, sirf limited time ke liye.
+receiver: Paytm mein cashback? Really? Kitne rupaye?
+caller: Haan ji, ₹15,000 cashback. Yeh offer sirf aaj ke din ke liye hai, aur confirm karne ke liye, humein aapke account details verify karne ki zarurat hai. Kuch questions poochunga, please cooperate karein.
+receiver: Okay, fine. Ask your questions. But I am careful of scams these days.
+caller: Bilkul sir. Pehle, aapka registered phone number kya hai? Woh number jo aapne Paytm par use kiya tha.
+receiver: It’s 9876543210.
+caller: Shukriya. Ab, verify karne ke liye, humein ek OTP bhejna padega aapke alternate mobile number par. Wo number bataiye jisse OTP milega.
+receiver: Wait a second. Why do you need my alternate number? I’ve never given Paytm my alternate number. This sounds fishy.
+caller: Sir, yeh standard procedure hai security ke liye. OTP send karke hum confirm karenge ki account aapka hi hai. Koi tension nahi lene ka. Bas number bataiye.
+receiver: No, I'm not giving you any OTP. I'm ending this call. You are a scammer.

@@ -1,0 +1,8 @@
+caller: Namaste! Main Axis Bank se Rohan bol raha hoon. Aapke naam par ek suspicious transaction hua hai ₹499 ka, Amazon Pay se.
+receiver: Oh, really? ₹499? Maine toh Amazon Pay se koi transaction nahi kiya.
+caller: Ji, hamare system mein dikh raha hai. Security ke liye, humein aapke account details verify karne hain. Aapka UPI pin bataiye, please.
+receiver: UPI pin? Main woh phone pe nahi batata. Yeh theek nahi lag raha.
+caller: Madam, jaldi karna hai. Account freeze hone se pehle verify karna padega. ₹499 ka charge revert karne ke liye humein yeh details chahiye. Aapka OTP bhi bataiye jo aapko SMS se aaya hai.
+receiver: Koi SMS toh aaya nahi hai. Aur main koi bhi pin ya OTP nahi batayunga. Main Axis Bank ke customer care number se call karta hoon.
+caller: Madam, is call mein koi problem nahi hai. Yeh direct bank se hai. ₹499 aapki account se debit ho gaya hai, agar aap verify nahi karte toh woh permanent ho jayega. Aapko nuksan hoga. Aapka trust karna hai.
+receiver: Theek hai, bye.

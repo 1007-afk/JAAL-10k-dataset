@@ -1,0 +1,8 @@
+caller: Namaste sir, mai Airtel Payment Bank se bol raha hu. Aapke Airtel Payment Bank account mein kuch security issues aaye hain, isliye hum KYC update karwa rahe hain.
+receiver: KYC update? Parantu, mujhe toh koi notification nahi mila.
+caller: Sir, system mein automatic alert generate hua hai. Aapko apna naam aur ek OTP bataana hoga, jisse hum account secure kar sakte hain. OTP aapke registered mobile number par aaega.
+receiver: OTP? Sir, mujhe toh doubt ho raha hai. Airtel Payment Bank toh SMS se hi update kar deta hai.
+caller: Sir, security reasons ke vajah se ab call mein hi verification karna padega. Jaldi karo, warna account suspend ho sakta hai.  Aapka naam bataiye, sir.
+receiver: Mera naam Rajesh Verma hai. Lekin, mujhe woh OTP nahi batana chahiye, mujhe nahi lagta ye sahi hai.
+caller: Rajesh Verma... Sir, ek minute ruk jaaiye. Main aapke naam aur number ko check karta hu. OTP aapke number par abhi chala gaya hoga. Bataiye, sir, OTP kitna aaya hai? Account suspend hone se bachne ke liye bataiye.
+receiver: Sir, main report karta hu isko. Ye scam lag raha hai. Main kisi aur se baat karta hu.

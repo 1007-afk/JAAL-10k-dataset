@@ -1,0 +1,7 @@
+caller: Namaste! Is this Mr. Sharma? I’m calling from CryptoGainz, sir. We’re seeing incredible returns on our new StellarCoin trading program, sir!
+receiver: Haan, bolie. This is Sharma. StellarCoin? What kind of returns are we talking about?
+caller: Very impressive, sir! We're seeing up to 30% weekly returns for our investors. It's a very limited-time opportunity, sir, and we're extending it to select customers like yourself. To get started, you'll need to deposit a small amount – just ₹5,000 initially – to activate your trading account.
+receiver: ₹5,000? And how do I deposit this money? Is it secure?
+caller: Absolutely secure, sir! You can deposit it via UPI directly to the account I’ll give you. Once deposited, the system will automatically start trading StellarCoin for you, and the profits will be credited to your account daily. I can send you a screenshot of my account details, sir.
+receiver: Okay, send me the details. But I want to see the profits before I deposit anything.
+caller: Of course, sir! Just let me send you that screenshot. And to confirm your identity, could you please share a copy of your Aadhaar card via WhatsApp? We need to verify the UPI address.

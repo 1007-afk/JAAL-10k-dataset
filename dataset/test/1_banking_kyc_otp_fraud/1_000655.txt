@@ -1,0 +1,19 @@
+caller: Namaste, Bharat Telecom se baat kar raha hoon. Sir, aapke mobile internet connection ko update karne ke liye call kiya hai.
+receiver: Haanji, boliye. Update kaunsa hai?
+caller: Haanji, ek security update hai, jo aapke device ko safe rakhne ke liye bahut zaroori hai. Ismein aapka mobile number aur aadhaar card number lagana hoga.
+receiver: Aadhaar card number? Mobile mein toh woh record nahi hota na? Bank mein toh already submit kiya hota hai. Internet update ka ye kya lena chilata hai?
+caller: Haanji, aapke device ki security check up karne ke liye humein yeh details chahiye. Aur agar aapne kabhi online shopping ki hai toh payment method ka basic idea bhi bataiye, jese ki UPI ID ya Paytm number.
+receiver: UPI ID? Woh bhi toh private information hai! Mujhe abhi interest nahi hai. Koi alternative update option nahi hai kya? Ya phir OTP wala verification?
+caller: Sir, OTP se update nahi hoga. Security protocols ki wajah se humein yeh details lagani zaruri hai. AAPNE kabhi online purchase kiya hai ya nahi?
+receiver: Haan, kabhi kiya hai. Payment ka deta yaad nahi hai. Bas Paytm number yaad hai - [Receiver’s Paytm Number].  Dekhiye, yeh abhi sahi nahi hai.  Koi aur tareeka nahi hai?  Yeh update kitna urgent hai?
+caller: Sir, yeh details update ke liye bahut important hain. Hum aapki privacy ko respect karte hain, par aapka device safe karna hamara duty hai. Aapka Paytm number aur mobile number bataiye.
+receiver: Okay, Paytm number hai [Receiver’s Paytm Number] aur mobile number hai [Receiver’s Mobile Number].  Ab bataiye, aage kya karna hai?  Mujhe yeh sab thik nahi lagta.
+caller: Thank you, sir. Verification process complete ho gaya hai. Aapko internet update ho gaya hai.</b>
+receiver: Haanji, boliye. Kya verification hai? Mera account number toh aapke paas hoga hi.
+caller: Haanji, account number toh hai sir, lekin humein aapka Voter ID number aur PAN card number bhi chahiye verification ke liye. Aur agar aapne kabhi Jio Fiber use kiya hai toh uska SIM card number bhi bataiye, taaki hum verification process complete kar sakein.
+receiver: Arre, Voter ID aur PAN card number? Bank mein toh already submit kiya hua hai yeh sab. Jio Fiber toh last year me use kiya tha, SIM card number yaad nahi hai, yaar. Kuch aur tarika nahi hai verification ka? Koi OTP wagera?
+caller: Sir, OTP se verification nahi ho sakti. Security reasons ki wajah se humein yeh details chahiye. Aapka Voter ID number, PAN card number aur agar Jio Fiber use karte hain toh uska SIM card number bhi. Ek baar yeh details mil jayein toh hum verification confirm kar denge.
+receiver: Dekhiye, Voter ID toh theek hai, woh toh main dekh ke bata sakta hoon. Lekin PAN card number aur Jio Fiber SIM card number, woh bilkul yaad nahi aa raha. Agar woh mandatory hai toh phir mushkil ho jayegi. Koi aur option nahi hai kya, seriously? Woh numbers somewhere likhe hote, but right now I can't recall it. Kya yeh verification urgent hai? Thoda time mil sakta hai mujhe woh number dhoondhne ke liye?
+caller: Sir, samjh sakta hoon aapko yaad nahi hai. Lekin yeh details verification ke liye bahut important hain. Hum aapka account secure karna chahte hain. Agar Jio Fiber SIM card number yaad nahi hai, toh koi problem nahi. Sir, aap apna Voter ID number aur PAN card number bataiye. Baaki details hum baad mein dekh lenge. Yeh verification jaldi se ho jaaye toh achcha hai.
+receiver: Okay, theek hai. Voter ID number hai [Receiver’s Voter ID Number] aur PAN card number hai [Receiver’s PAN Card Number]. Woh Jio Fiber SIM card number toh sach mein yaad nahi aa raha, yaar. Hope yeh sufficient hai. Ab bataiye aage kya karna hai?
+caller: Thank you, sir. Verification process complete ho gaya hai. Aapko account verified ho gaya hai.</b>

@@ -1,0 +1,14 @@
+caller: Hello Madam Sharma, this is Rohan from the ‘Lucky Draw’ lottery. We've randomly selected you to potentially win a brand new Samsung Galaxy S23! Just need to verify a small detail for security purposes.
+receiver: Oh really, Rohan? A Samsung Galaxy? That's wonderful! What kind of detail do you need to verify?
+caller: Arre, madam, no need to worry. It's just a simple question related to your recent electricity bill. Can you recall approximately how much you paid last month?
+receiver: Last month’s electricity bill… Let me see… I think it was around ₹8,500, maybe ₹9,000. It was a bit high because we used the AC a lot.
+caller: Perfect! That’s exactly what we needed. Now, to confirm your identity, could you tell me your mother’s maiden name? Please speak clearly.
+receiver: My mother’s maiden name is Kapoor. K-A-P-O-O-R.
+caller: Arre, excellent! Thank you so much for your cooperation. You've been selected to receive the prize. Your Samsung Galaxy will be shipped to your address on file – which is, according to our records, in Sector 18, Noida, correct?
+receiver: Yes, that’s right. Sector 18, Noida. But, can you confirm the shipping address again? Just to be absolutely sure.
+caller: Absolutely! Sector 18, Noida. And one final quick question - what’s your favorite colour? This is purely for verification purposes only.
+receiver: Uh… blue, I suppose. Why does this matter?
+caller: Arre, it helps us ensure we’re talking to the rightful owner. Don’t worry, it’s a standard procedure. Congratulations again, Madam Sharma! The Samsung Galaxy awaits!
+receiver: Okay, okay. Well, thank you. I hope I win!
+caller: Arre, you definitely will! Enjoy your new phone! Goodbye!
+receiver: Goodbye!

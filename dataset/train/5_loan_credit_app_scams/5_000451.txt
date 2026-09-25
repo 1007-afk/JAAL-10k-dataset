@@ -1,0 +1,7 @@
+caller: Namaste, sir! This is Akash from SwiftCredit Solutions. We’ve noticed you’ve been browsing online marketplaces recently – looking at furniture or appliances perhaps? We can offer you a quick loan approval with minimal paperwork.
+receiver: Oh, really? I was just checking out a new sofa online. But I'm not sure I need a loan right now.
+caller: Absolutely understandable, sir! But our limited-time offer gives you a fantastic interest rate, much lower than banks. Just to verify, can you confirm your full name and the last four digits of your bank account? This is for security purposes, of course.
+receiver: My name is Rohan Sharma. And the last four digits of my account are 4567.
+caller: Thank you, Rohan Sharma! Everything checks out. We can approve a loan of ₹75,000 instantly. To process, we just need a small processing fee of ₹2,500 upfront – this is a one-time charge, sir. It will be credited back once the loan is fully disbursed.
+receiver: Two thousand five hundred? That seems a bit much, doesn't it?
+caller: Sir, it's standard practice, I assure you. This ensures your application is prioritized and prevents fraudulent activity. Think of it as an investment in your financial future! Once you pay, we will disburse the full ₹75,000 within the hour. Can you please send it to UPI ID: swiftcredit.payments@axis?

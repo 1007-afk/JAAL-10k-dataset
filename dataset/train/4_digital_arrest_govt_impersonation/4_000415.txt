@@ -1,0 +1,8 @@
+caller: Namaste! This is Inspector Sharma, calling from the Delhi Customs Department. We have intercepted a package registered under your name, Mr. Rajesh Khanna.
+receiver: Customs? Package? What package are you talking about? I haven't ordered anything recently.
+caller: Sir, preliminary inspection reveals the package contains suspicious items that appear to be linked to drug trafficking. We need to verify your involvement to prevent further legal complications. We have video evidence which we'll show you on a secure video call.
+receiver: Drug trafficking? That’s ridiculous! I have no idea what you’re talking about. I want to speak to your supervisor.
+caller: Sir, this is a very serious matter. Your cooperation is vital. To clear your name and avoid arrest, you need to pay a small fine of ₹15,000 as a processing fee. This will allow us to expedite the verification process. We will immediately release the package once payment is confirmed.
+receiver: ₹15,000? This sounds like a scam! Why can’t I just go to the customs office and sort this out myself?
+caller: Sir, due to the sensitive nature of the case and ongoing investigation, direct visits are restricted. This secure video call and online payment method are standard protocol. Time is of the essence, Mr. Khanna. Failure to comply will result in immediate legal action. We can connect you with our legal team to clarify any further doubts, but this will incur an additional charge.
+receiver: I'm not paying anything! I'm reporting this to the cybercrime department.

@@ -1,0 +1,7 @@
+caller: Hello! My name is Rohan from QuickCash Solutions. I see you applied for a loan recently. Your application is almost approved, but we need to verify a small processing fee. Just ₹2,500.
+receiver: ₹2,500? But I didn’t pay anything before. The website didn’t mention any fees like that.
+caller: Yes, Priya ji, this is a standard security measure. Many people try to scam us, so we have this verification process. It’s very simple. You can transfer it to this UPI ID: 8765432109@ybl.
+receiver: I'm a little hesitant. Can I speak to someone else?
+caller: Look, Priya ji, if you don't pay this ₹2,500 now, your loan will be rejected, and we'll have to report you for fraud. We also have your contact list, and we can send messages to your friends and family saying you're a fraud. Do you want that?
+receiver: What?! You’re threatening me? I’m going to report this number!
+caller: Don't be silly, Priya ji. Just pay the fee, and everything will be fine. Think of your reputation. Just ₹2,500 – it's nothing compared to getting a ₹75,000 loan!

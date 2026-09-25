@@ -1,0 +1,6 @@
+caller: Namaste! This is Ankit calling from BharatPe support. We've detected some unusual activity on your BharatPe account and need to verify it immediately to prevent potential fraud. Are you the account holder, Mr. Verma?
+receiver: BharatPe? Unusual activity? What kind of activity? I haven't done anything unusual. I just use it for UPI payments.
+caller: Sir, our system shows a pending 'collect request' of ₹12,000 has been initiated from your account to a new beneficiary. You haven't confirmed it, and we’re concerned it might be a scam. To secure your account, we need to verify a few details. Can you please tell me the last four digits of your Aadhaar card?
+receiver: Aadhaar card details? Over the phone? That seems risky. Why would BharatPe ask for that? Can't you verify this through the app itself?
+caller: Sir, for urgent security protocols, we need to quickly confirm your identity. It's a one-time verification to protect your funds. If you don’t confirm, we’ll have to temporarily freeze your account. We can also offer you a small cashback of ₹50 for cooperating – a thank you from BharatPe for being a loyal customer. Just the last four digits, please.
+receiver: Cashback? Freeze my account? This is getting suspicious. I'm not giving you my Aadhaar details. I'll call BharatPe customer care directly from their official number.

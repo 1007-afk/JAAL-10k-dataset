@@ -1,0 +1,6 @@
+caller: Hello, is this Anjali? We are calling from ‘InstantCashPro’ regarding your loan application. Congratulations! You’ve been pre-approved for up to ₹2 lakhs. Just need to verify a few details.
+receiver: Oh, really? ₹2 lakhs? That’s wonderful! I did apply a few days ago, I remember. What details do you need?
+caller: Wonderful! First, just to confirm, your date of birth is 14th August 1988, yes? And can you confirm the last four digits of your bank account? Just for security purposes, of course.
+receiver: Yes, that's correct about my birthday. But why do you need my bank details? Isn't that a bit risky?
+caller: It’s standard procedure, Anjali ji. We need to link your account for the transfer. However, before we finalize the loan, we require a small processing fee of ₹7,500 to activate your account and prevent fraud. It's a one-time charge, refundable upon loan disbursement.
+receiver: ₹7,500? That seems a lot for a processing fee. I’m not sure about this. Can you please send me some documentation about InstantCashPro and this fee?

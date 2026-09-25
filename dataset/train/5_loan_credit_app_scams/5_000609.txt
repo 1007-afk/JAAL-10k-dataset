@@ -1,0 +1,9 @@
+caller: Namaste! Mera naam Rohan Sharma hai, mera company ‘QuickCash Solutions’ se. Aapka phone number hamari data list mein aaya hai, aur hum ek special personal loan offer de rahe hain. Aapko kitni urgent loan chahiye, sir?
+receiver: Loan? Mujhe thodi loan chahiye thi, around ₹20,000, lekin mai soch raha hun.
+caller: ₹20,000 toh bahut easy hai! QuickCash Solutions mein, aapko sirf 5 minute mein approve ho jayega. Koi lengthy paperwork nahi, sirf kuch basic details aur KYC documents ki zarurat hai. Aapka naam bataiye, sir?
+receiver: Mera naam Sanjay Kumar hai. Kyc documents matlab kya?
+caller: Sanjay ji, KYC ka matlab hai Know Your Customer. Aadhar card, PAN card, aur bank statement ki copy. Aapko photo WhatsApp par send karne hai. Jab approve ho jayega, toh paise direct aapke bank account mein transfer ho jayenge. Lekin, processing fee ₹2,500 aapko pehle bharne padenge.
+receiver: ₹2,500 processing fee? Yeh zyada lag raha hai.
+caller: Sanjay ji, yeh fee government charges hai, aur hum sirf facilitate kar rahe hain. Agar aap loan approve karwana chahte hain, toh fee pay karein. Jaldi karein, offer limited time ke liye hi hai.
+receiver: Okay, theek hai. Mai fee pay kar dunga. Bank details bhejo.
+caller: Excellent! Aapko hamare bank account details message kar rahe hain. Jaldi pay karein, Sanjay ji, taki aapki loan process shuru ho sake.

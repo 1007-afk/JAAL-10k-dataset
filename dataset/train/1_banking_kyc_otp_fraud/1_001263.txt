@@ -1,0 +1,10 @@
+caller: Namaste, sir? Is this Mr. Sharma speaking?
+receiver: Haan, main Sharma bol raha hoon. Bolo, kya baat hai?
+caller: Sir, I’m calling from ICICI Bank’s cybersecurity department. We've detected unusual activity on your account - a login attempt from an unknown device in Kolkata. To secure your funds, we need to quickly verify your identity.
+receiver: Kolkata se? Mujhe toh koi idea nahi hai. Verify karna hai to kya karna hai?
+caller: Sir, for verification, we need you to share the OTP we’ve just sent to your registered mobile number. It's crucial to do this immediately to prevent any unauthorized transactions. Account suspension is a possibility if we can't verify you right away.
+receiver: OTP? Par mujhe toh koi OTP mila nahi hai. Aur aap ka naam bataiye, ICICI se bol rahe hain toh bataiye.
+caller: Sir, sometimes there's a slight delay. My name is Rajesh Kumar, and I'm a senior security analyst here. To confirm you are the account holder, could you also share the first three digits of your Aadhaar card? This is standard procedure.
+receiver: Aadhaar number bhi? Yeh thoda zyada lag raha hai. Koi aur tareeka hai toh bataiye. Main kisi bank branch mein jaakar verify kar sakta hoon.
+caller: Sir, visiting the branch will take time, and the risk is immediate. We need to act fast. To avoid any inconvenience, just provide the OTP and the first three digits of your Aadhaar. It's just a quick check to ensure your account is safe. After this, your account will be fully secured, and you can continue using online banking without worry.
+receiver: Okay, Rajesh ji. Chalo, OTP check karta hoon. Par agar kuch gadbad hui toh main tumhare bank ko phone karunga.

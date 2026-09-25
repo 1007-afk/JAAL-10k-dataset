@@ -1,0 +1,15 @@
+caller: Namaste, is this Priya Sharma? I'm calling from Bharat Bank’s KYC verification department.
+receiver: Haanji, main hi Priya Sharma bol rahi hu. Kya baat hai?
+caller: Madam, we've flagged some unusual activity on your Bharat Bank savings account. To prevent potential fraud and ensure your account remains secure, we need to quickly verify your details.
+receiver: Unusual activity? What kind of unusual activity? I haven't done anything.
+caller: Madam, our system detected a login attempt from an unrecognized device. As a precaution, we’re initiating a verification process. First, could you please confirm the last four digits of your Aadhaar number?
+receiver: Aadhaar number? Why do you need my Aadhaar number over the phone? It's not safe.
+caller: Madam, it’s a standard security protocol. We assure you, your information is safe with us. We need this verification to whitelist your device. Otherwise, we might have to temporarily suspend your account.
+receiver: Suspend my account? But I need my account! Okay, fine. The last four digits are [Invent 4 digits, e.g., 4587].
+caller: Thank you, Madam. Just one more thing, to fully secure your account, we require a one-time password (OTP) sent to your registered mobile number for final confirmation.
+receiver: Okay, I'm waiting for the OTP.
+caller: Madam, the OTP should have arrived. Have you received it?
+receiver: Nahin, mujhe OTP nahi mila.
+caller: Hmm, that’s unusual. Sometimes, there’s a slight delay. Could you please try restarting your phone? That often helps. While you do that, can you quickly confirm your registered email address for our records? Just so we can contact you if needed.
+receiver: Restarting now… email address is [Invent an email address, e.g., priya.sharma88@example.com].
+caller: Thank you, Madam. The OTP should be with you shortly. While we wait, could you tell me the amount of your highest balance in your Bharat Bank account? This is just a final security check.

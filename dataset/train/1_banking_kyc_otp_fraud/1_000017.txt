@@ -1,0 +1,9 @@
+caller: Namaste! Main Sanjay hu, India Telecom se call kar raha hoon. Hum ne ek naya offer launch kiya hai, jahaan hum eligible customers ko free Jio data vouchers de rahe hain. Kya aapka Jio number active hai?
+receiver: Hi Sanjay, thanks for the call. Yes, my Jio number is active, but I need to verify some information. What kind of information do you require?
+caller: Aapke account mein jo details hai, woh uss mobile number se linked hai jahan aapko yeh offer ka notification mila tha. Apne account ko verify karne ke liye, humein kuch simple questions puchna padega, jisse hum confirm kar sakein ki aap genuine user hain. Aapki mobile number confirm kar sakte hain, please?
+receiver: My mobile number is 9876543210. Is that what you have recorded?
+caller: Shukriya, 9876543210. Ab, aapko ek secure website bhej rahi hain hum, aap uss website par jaake apne account ko verify kar sakte hain. Us website mein aapko ek captcha solve karna hoga aur phir aapko apna OTP enter karna hoga. Yeh aapke identity ko confirm karega aur voucher aapko automatically send ho jayega. Website link aapko abhi receive ho jayega.
+receiver: Okay, I’ve got the link. Let me take a look.
+caller: Haan, aap us link pe click kar lijiye. Agar aapka verification complete ho gaya, toh free data vouchers aapke account mein automatically appear honge. Kisi bhi confusion ke liye mujhse contact karte rehijo.
+receiver: Alright, it’s done. The vouchers are there now. Thank you so much, Sanjay!
+caller: Khushi hui ki madad mili. Agar koi bhi question ho toh mujhe call back kar sakte hain.

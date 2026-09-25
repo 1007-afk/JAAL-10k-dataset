@@ -1,0 +1,7 @@
+caller: Namaste! Main CreditKing Solutions se Rahul Verma bol raha hoon. Aapko urgent loan requirements hai kya? Hum kar rahe hain ek special offer limited time ke liye.
+receiver: Loan? Haan, thoda cash chahiye tha. Kitni interest hogi?
+caller: Sir, CreditKing mein interest rate bahut hi kam hai, sirf 8% per annum. Aur registration fee sirf ₹500. Aapko ₹20,000 ki loan sirf 1 hour mein mil jayegi. Details dojiye please.
+receiver: ₹500 fee? Aur interest bhi hai? Itna zyada kyun?
+caller: Sir, fee processing charges hai. Iske bina hum loan process nahi kar sakte. Agar aapko loan chahiye toh ₹500 deposit kijiye humare account mein, phir aapki loan approve ho jayegi. Account details mein send kar raha hoon.
+receiver: Ek minute. Mujhe yeh suspicious lag raha hai. Main sochunga.
+caller: Sir, offer sirf aaj ke liye hai. Kal tak yeh offer nahi rahega. Jaldi kijiye! Aur aapke dost ko bhi bataiye, unhe bhi help kar sakte hain hum.

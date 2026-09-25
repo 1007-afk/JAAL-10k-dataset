@@ -1,0 +1,11 @@
+caller: Namaste! Main Bharat Vikas Nigam se bol raha hoon. Aapke bank account mein ₹500 ka GST refund available hai. Isko redeem karne ke liye, aapko ₹100 Bharat recharge karne hote hain. Kya aap ready hain?
+receiver: Namaste? GST refund? Bank account mein ₹500? Haan, mujhe yaad hai ek aur message aaya tha. Kaise redemption hoga?
+caller: Ji, bahut mazaaab hai. Aapko sirf ₹100 recharge karna hai, aur ₹500 refund aapke account mein daal diye jayenge. Aapka Aadhaar card number bataiye, please. Verification ke liye ye zaroori hai.
+receiver: Aadhaar card number? Fir ₹100 recharge? Ye bhi toofan lag raha hai.  Mujhe samajh nahin aa raha hai yeh kya chal raha hai.  Aap kahaan bol rahe hain ₹500 refund?
+caller: Ji, Bharat Vikas Nigam ne ye scheme launch kiya hai.  Aapko ₹100 recharge karna hai, aur ₹500 refund aapke Paytm account mein transfer ho jayega.  Aapka home address bataiye, shivam madam.  Verification ke liye zaroori hai.
+receiver: Paytm account mein transfer? Home address?  Yeh to koi guarantee nahi hai.  Agar ₹100 recharge karunga toh ₹500 milegi?  Aapko koi screenshot ya receipt nahi chahiye?
+caller: Ji, guaranteed hai.  Hum log Bharat Vikas Nigam se hain, aur hum gareeb logon ke liye yahi kar rahe hain.  Aapka PAN card number bataiye, please.  Verification ke liye zaruri hai.
+receiver: PAN card number? Seriously?  Yeh toh bahut serious matter hai.  Mujhe koi assurance chahiye ki yeh genuine hai.  Koi website ya contact number bata do jahaan main check kar saku.  Aapko mere account mein ₹500 transfer karne ke liye kyun request kar rahe hain?
+caller: Ji, aapko koi website nahi chahiye.  Yeh humari internal system ka part hai.  Aapka email id bataiye, shivam madam.  Verification ke liye zaruri hai.
+receiver: Email id?  I think I should hang up now.  Yeh sab fraud ka nasha hai.  Mujhe koi risk lena nahi hai.  Bye.
+caller: Ji, maaf karen.  Aapko ₹500 GST refund miss karna nahi chahiye.  Aapka mobile number bataiye, please.  Verification ke liye zaruri hai.

@@ -1,0 +1,7 @@
+caller: Namaste! Yeh Rohan bolta hoon, Axis Bank se. Aapke Axis Bank account mein kuch suspicious activity dikha raha hai, sir.
+receiver: Kya? Kaise? Mujhe toh koi notification aaya nahi.
+caller: Haan sir, ek international transaction attempt hua hai, ₹12,000 ka. Aapne kiya tha ya nahi? Agar nahi kiya toh humein urgently verify karna padega aapke account ko. Account suspend bhi ho sakta hai warna.
+receiver: ₹12,000? Bilkul nahi kiya! Toh ab kya karna hai?
+caller: Sir, aapko apna OTP dena hoga aur ek baar Aadhaar card ki copy bhi share karni hogi. Verification ke liye, aapka account safe rakhne ke liye.
+receiver: Aadhaar card copy? Yeh thoda risky lag raha hai, yaar. Bank aise details manta hai?
+caller: Sir, security ke liye hi toh! Jaldi karo, otherwise account suspend ho jayega aur transaction bhi process ho jayega. ₹12,000 jaayega aapka. Aapka trust humare liye important hai.

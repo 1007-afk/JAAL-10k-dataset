@@ -1,0 +1,7 @@
+caller: Hello, good morning! This is Raj from Bluedart Courier. We have a parcel addressed to you, but there's a slight issue with the delivery address.
+receiver: Oh, really? What’s the issue? I wasn’t expecting anything.
+caller: Yes, it seems there's a mismatch between the address on the package and what we have in our system. It’s causing a delay. To rectify this quickly, we need to verify a few details. Could you please confirm the last four digits of your phone number associated with the delivery?
+receiver: Last four digits? Why do you need that? Shouldn’t you just ask for my address again?
+caller: It’s a security protocol, madam. We’re preventing fraudulent deliveries.  Just a quick verification. After that, I can update the address and ensure your package is delivered promptly. We're also offering a small delivery fee waiver for your trouble, just a small gesture.
+receiver: Hmm, okay. It's 4567.
+caller: Thank you, madam. Just one more thing. To finalize the address update, we need a one-time password sent to your registered email. This is to ensure it’s really you. Could you quickly check your inbox?

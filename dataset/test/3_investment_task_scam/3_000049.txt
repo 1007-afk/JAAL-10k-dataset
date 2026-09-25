@@ -1,0 +1,22 @@
+caller: Namaste, Mr. Sharma ji, security department se Vivek bol raha hun. Kaise hain aap?
+receiver: Namaste ji, main theek hoon. Aap bataiye, kaun bol raha hai? Security department se Vivek?
+caller: Ji, main Vivek hun. Suno, humne dekha hai ki aapke son, Rohan ko online gaming mein bahut zyada time milta hai. Ismein dikkat hai, aur humko worry lag rahi hai. Humne Rohan ko ek special training program mein daftar karne ka faisla liya hai, jisse uski habits ko control করা जा सके.
+receiver: Rohan? Woh toh ek bachcha hai! Online gaming? Mein toh samajh hi nahin sakta, woh kyun khelta hai. Kya yeh training program free hai?
+caller: Ji, yeh completely free hai, lekin ismein registration hona zaroori hai. Registration karne ke liye, aapko sirf ek OTP chahiye hoga jo aapke mobile number par aa jaega. Aur phir aapko Rohan ko program mein register karna hoga. Aapne Rohan ka mobile number bata sakte hain?
+receiver: Haan, woh 87345698712 hai. Lekin mujhe abhi OTP nahi mili. Jab doonga. Koi problem nahi hai.
+caller: Ji, OTP poora hone tak wait karo. OTP aapko 5 minute mein aa jayega. Aur agar aapko koi problem aaye, to aap mujhse connect reh sakte hain. Is program mein Rohan ko bahut madad milegi. Aapne number bata diya tha?
+receiver: Haan, bata diya hai. Agar OTP aa gaya toh, main register kar dungi. Parantu, yeh training program kitna durachaal ka hai?
+caller: Ji, yeh program 3 months ka hai. Ismein Rohan ko regular sessions mein attend karna hoga. Aur humko regular updates bhi dilaane huye rehenge. Agar aapko koi doubt hai, to aap mujhse puch sakte hain. Aapne Rohan ko register karne ka decision liya hai?
+receiver: Haan, main soch rahi hoon. Rohan ko yeh program zaroor chahiye. Parantu, mujhe abhi OTP nahi mili.
+caller: Ji, OTP aapko 2 minute mein aa jayega. Wait karo…
+caller: Namaste, Mr. Sharma ji, security department se Vivek bol raha hun. Kaise hain aap?
+receiver: Namaste ji, main theek hoon. Aap bataiye, kaun bol raha hai? Security department se Vivek?
+caller: Ji, main Vivek hun. Suno, humne dekha hai ki aapke son, Rohan ko online gaming mein bahut zyada time milta hai. Ismein dikkat hai, aur humko worry lag rahi hai. Humne Rohan ko ek special training program mein daftar karne ka faisla liya hai, jisse uski habits ko control করা जा सके.
+receiver: Rohan? Woh toh ek bachcha hai! Online gaming? Mein toh samajh hi nahin sakta, woh kyun khelta hai. Kya yeh training program free hai?
+caller: Ji, yeh completely free hai, lekin ismein registration hona zaroori hai. Registration karne ke liye, aapko sirf ek OTP chahiye hoga jo aapke mobile number par aa jaega. Aur phir aapko Rohan ko program mein register karna hoga. Aapne Rohan ka mobile number bata sakte hain?
+receiver: Haan, woh 87345698712 hai. Lekin mujhe abhi OTP nahi mili. Jab doonga. Koi problem nahi hai.
+caller: Ji, OTP poora hone tak wait karo. OTP aapko 5 minute mein aa jayega. Aur agar aapko koi problem aaye, to aap mujhse connect reh sakte hain. Is program mein Rohan ko bahut madad milegi. Aapne number bata diya tha?
+receiver: Haan, bata diya hai. Agar OTP aa gaya toh, main register kar dungi. Parantu, yeh training program kitna durachaal ka hai?
+caller: Ji, yeh program 3 months ka hai. Ismein Rohan ko regular sessions mein attend karna hoga. Aur humko regular updates bhi dilaane huye rehenge. Agar aapko koi doubt hai, to aap mujhse puch sakte hain. Aapne Rohan ko register karne ka decision liya hai?
+receiver: Haan, main soch rahi hoon. Rohan ko yeh program zaroor chahiye. Parantu, mujhe abhi OTP nahi mili.
+caller: Ji, OTP aapko 2 minute mein aa jayega. Wait karo…

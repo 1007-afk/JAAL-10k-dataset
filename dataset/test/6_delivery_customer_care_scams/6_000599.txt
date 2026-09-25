@@ -1,0 +1,8 @@
+caller: Hello, this is Vishal from Bluestar Courier. We're calling regarding a parcel addressed to you. It requires immediate attention due to a customs clearance issue.
+receiver: Oh really? What’s the issue? I wasn’t expecting anything.
+caller: Yes, sir/madam. There’s a discrepancy in the declared value. To release the parcel, we need to verify a small processing fee of ₹2,500. This is a standard procedure.
+receiver: Two thousand five hundred? That seems a bit much for customs. What’s the tracking number?
+caller: Certainly. The tracking number is LC789456.  We need to process this quickly to avoid further delays. You can pay securely through our website, or I can send you a link to make the payment over the phone.
+receiver: I’m a bit hesitant to pay over the phone. Can you send me the website link and I’ll check it out?
+caller: Absolutely, sir/madam. Here's the link: bit.ly/bluestarcourierpay. Please make the payment within the next hour to ensure timely delivery.
+receiver: Hmm, this link looks suspicious. I’m going to report this.

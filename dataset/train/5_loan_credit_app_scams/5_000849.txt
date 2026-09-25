@@ -1,0 +1,9 @@
+caller: Namaste, sir? Mera naam Rahul hai, LoanConnect Services se. Aapne apni website par ek personal loan apply kiya tha, hai na?
+receiver: Haan, ji. Maine kuch din pehle apply kiya tha.
+caller: Bahut achha. Aapka application review ho gaya hai aur approved bhi ho gaya hai. Aapko ₹75,000 tak ka loan mil sakta hai, sirf processing fees bharne ke baad.
+receiver: Processing fees kitna hai? Aur loan ka interest rate kitna hoga?
+caller: Processing fees sirf ₹800 hai, sir. Aur interest rate market rate se thoda zyada, 15% se shuru hoga, lekin aap time se chukaenge to kam hoga. Ab, aapka naam aur email address confirm karwa doonga, taaki mai payment link send kar dun.
+receiver: Sir, mujhe kuch suspicion aa raha hai. Koi security risks toh nahi hai?
+caller: Sir, bilkul nahi! LoanConnect India mein registered hai, aur humari website secure hai. ₹800 deposit karke aap loan ka process start kar sakte hai. Agar aapko kuch doubt hai, toh humein call karenge. Kya aap agree karte hai?
+receiver: Theek hai, mujhe sochna hai. Mai baad mein call karta hoon.
+caller: Theek hai sir! Jaldi karo, offer limited time ke liye hi hai.

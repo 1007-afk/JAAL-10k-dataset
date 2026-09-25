@@ -1,0 +1,7 @@
+caller: Hello sir, main PhonePe se bol raha hoon. Aapke account mein ₹5000 ka cashback offer aa gaya hai.
+receiver: ₹5000? Kya bol rahe ho? PhonePe toh itna offer kabhi nahi deta.
+caller: Ji sir, yeh ek special Diwali offer hai. Lekin isko claim karne ke liye aapko ek small processing fee bharne hogi, sirf ₹299.
+receiver: ₹299 fee? Aur yeh processing fee kahan bharne hai? Mujhe toh kuch OTP ya link nahi bhejna.
+caller: Sir, aapko ek UPI link milenga, uspe ₹299 deposit karna hai. Jab fee deposit ho jayegi, ₹5000 cashback instantly aapke account mein credit ho jayega. Yeh sirf 15 minute ke liye valid hai.
+receiver: ₹5000 cashback, lekin ₹299 fee? Paaji, kuch gadbad hai. Main bank mein call karta hoon, verify karta hoon. Tumhara naam aur PhonePe ID batao.
+caller: Sir, time barbaad na karein. Offer expire ho jayega. Bas ₹299 bhar dijiye, aur Diwali enjoy kijiye. Main tumko ek secure link bheja. Phir main yahan hi available rahoonga help karne ke liye.

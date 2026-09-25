@@ -1,0 +1,7 @@
+caller: Namaste! Mai Deepak, Loan Mitra se baat kar raha hoon. Aapne online personal loan ke liye apply kiya tha, isliye call kar raha hoon. KYC verification ke liye kuch details chahiye.
+receiver: Haan, ji. Mai apply toh kiya tha. Kya details chahiye?
+caller: Aapka PAN card number aur ek bank statement chahiye hoga, sir. Jab aap provide kar denge, toh approval process start ho jayega. ₹50,000 se ₹3 Lakh tak ka loan, aapko bas kuch formalities complete karni hogi.
+receiver: Theek hai. PAN number woh main bata sakta hoon. Bank statement ka kya karenge?
+caller: Bank statement se hum check karenge ki aapki income sahi hai ya nahin, sir. Aur ek baat hai, aapke contacts mein se kisi ne bhi loan ke liye apply kiya hai toh extra discount mil sakta hai.
+receiver: Contacts? Discount? Maine toh kisi ko apply karne ko bola nahin hai. Aur mujhe yeh sab suspicious lag raha hai.
+caller: Sir, yeh company policy hai. Discount ke liye aapko contacts se permission lene hogi. Aur agar aap permission nahi denge toh loan approval mein delay ho sakta hai. Aapka phone number bhi hum verify karenge, uske liye OTP send karenge.

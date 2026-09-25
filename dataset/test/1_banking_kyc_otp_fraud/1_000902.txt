@@ -1,0 +1,8 @@
+caller: Namaste, mera naam Rohan hai, main Axis Bank se bol raha hoon. Aapke account mein achanak se activity dikhi gayi hai.
+receiver: Haan, bolिए। Kya hua?
+caller: Sir, ek bahut badi transaction attempt kiya gaya hai, aur security ke liye humein aapki KYC details verify karni hogi. Please bataiye, aapka 4-digit OTP kya hai jo aapko SMS mein aaya hai?
+receiver: OTP? Axis Bank toh SMS nahi kiya mujhe. Yeh koi scam lag raha है।
+caller: Sir, yeh automated system se gaya hai. Urgent hai, sir. Agar aap OTP nahi batayenge toh transaction block ho jayega aur aapka account suspend bhi ho sakta है।
+receiver: Account suspend? Ek minute rukिए। Main apna net banking check karta हूँ.
+caller: Sir, please jaldi करिए। Time kam है. OTP bataईये ya humko transaction block करना పडेगा।
+receiver: Okay, chalo. Bataata हूँ. लेकिन मैं ये call रिकॉर्ड कर रहा हूँ।

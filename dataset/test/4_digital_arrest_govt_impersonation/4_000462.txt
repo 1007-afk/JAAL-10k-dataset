@@ -1,0 +1,9 @@
+caller: Namaste, main Indian Customs se Rohan Malhotra bolta hoon. Aapke naam par ek parcel aaya hai, jo Mumbai airport par rok diya gaya hai. Us parcel mein illegal items paaye gaye hain.
+receiver: Kya? Illegal items? Mere naam se? Main toh kabhi parcel order nahi kiya.
+caller:  Dekhiye, sir, is parcel mein narcotics paaye gaye hain. Iska tracking number IN3478921 hai. Agar aap cooperate karenge toh hum is matter ko silently settle kar sakte hain. Hukum ke samne yeh matter jaakar bahut kharab hoga.
+receiver:  Nonsense! Main toh drugs se door hoon. Aapko galat information mili hai. Mujhe koi parcel nahi chahiye.
+caller:  Sir, humare records mein aapka naam aur address parcel slip par likha hua hai. Yeh serious matter hai.  Aapko ek video call par aana hoga, taki hum aapko parcel mein paye gaye items dikha sakein aur settlement ke liye payment details discuss kar sakein.
+receiver:  Video call? Main aapke saath video call kyun karun? Yeh toh scam lag raha hai! Main police mein complaint karunga.
+caller:  Arre, sir, please! Police mein complaint karne se matter aur zyada complicated ho jayega.  Aapko sirf ₹15,000 ka payment karna hai, taki parcel aapke naam se release ho jaye. Hum aapko bank details send kar denge. Time is running out, sir.
+receiver: ₹15,000? Aapko lagta hai main bewakoof hoon kya? Main koi bhi payment nahi karunga. Yeh scam hai, aur main police ko inform karunga.
+caller: Sir, please cooperate. This is a final warning.  If you don’t cooperate, we will have to escalate this and involve higher authorities.

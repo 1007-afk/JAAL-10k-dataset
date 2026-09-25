@@ -1,0 +1,6 @@
+caller: Namaste, sir? Main ICICI Bank se Rohan bol raha hoon. Aapke account mein kuch suspicious activity dikha raha hai. Verification ke liye call kiya hai.
+receiver: Kya suspicious activity? Mujhe to kuch pata nahi hai. Kaise kiye aapko pata?
+caller: Sir, ek payment attempt hua tha ek online shopping website par. Aapne kiya ya nahi, yeh confirm karna hai. Aur aapki security ke liye, humein ek OTP verify karna hoga.
+receiver: OTP? Sir, OTP toh main apne phone pe check karta hoon. Aapko kyun bataun? Aur online shopping ka main aksar use karta hoon, toh kaise pata chala aapko?
+caller: Sir, yeh process ICICI Bank ka hai, complete secure hai. OTP jo aapko milega, woh mujhe bata dijiye. Varna account suspend bhi ho sakta hai.
+receiver: Account suspend? Sir, yeh kya bol rahe ho aap? Main toh bank mein net banking se use karta hoon aksar. Koi suspend nahi kar sakte aap, aise bolke. Aapka naam aur employee ID batao, main check karta hoon.

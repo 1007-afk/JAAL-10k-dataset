@@ -1,0 +1,11 @@
+caller: Arey yaar! Finally someone picked up! I’ve been calling for ages, just hoping for a friendly voice. Tell me, beta, what’s your name? Just give me a simple name, okay? It's important.
+receiver: Oh, hello. My name is Rohan. And you? Why are you calling so many people?
+caller: Rohan! That’s a good name. Like a nice boy. Now listen carefully, Rohan. This is very important. They said I need to confirm your address before you can receive your prize money. Just a quick verification, okay? It's free, completely free!
+receiver: Prize money? What prize money? I didn’t win anything.
+caller: Everyone wins, Rohan! It’s a government scheme. You won a lottery ticket! And they need to verify your address to send it to you. It's just a standard procedure.  Just give me your street name and number, please.
+receiver: Look, I don’t want any trouble. I’m not giving you my address. Who sent you?
+caller: Don’t worry about who sent me, Rohan. Just trust me. This is real money, rupees 50,000! Think about it – fifty thousand rupees!  We just need your address to mail the check.  It takes less than a minute, promise.  It’s only a small favour.
+receiver: Fifty thousand rupees? That sounds too good to be true.  This feels like a scam.
+caller: No, no, no! It's absolutely genuine.  They’re checking everything.  Please, Rohan, just provide your full address - house number, street name, city, pin code.  It’s for your own good!  Think of the money!  It's 30p per second, but hurry!
+receiver:  I am going to hang up now.  I don’t believe you.
+caller: Wait! Please! Don't go!  Just one more question… what’s your mother’s name?  That's all they need!  It’s for security purposes, you understand?  It's just a little information... for your safety!

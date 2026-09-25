@@ -1,0 +1,8 @@
+caller: Hello? This is the Cyber Crime Investigation Cell calling. We’ve detected suspicious activity linked to your WhatsApp account. It appears your account has been compromised and used to send fraudulent messages related to illegal cryptocurrency transactions.
+receiver: Kya? My WhatsApp? Fraudulent messages? Main toh kisi ko kabhi kuch nahi bheja. Yeh kya keh rahe hain aap log?
+caller: Sir, we have evidence. Several large transactions were initiated from your WhatsApp using cloned SIM cards. This is a very serious matter and could lead to legal repercussions. To clear your name and prevent further damage, you need to immediately transfer ₹15,000 to this UPI ID: cci-secure-funds@axisbank.
+receiver: ₹15,000? But why? If my account is compromised, shouldn’t the police be investigating, not asking me for money? And how did they clone my SIM card?
+caller: Sir, this is a standard procedure. The money is a security deposit to verify your identity and ensure the fraudulent transactions are reversed. It will be refunded once the investigation is complete. Time is of the essence; we’re already receiving pressure from higher authorities.
+receiver: Refund? Pressure? This sounds fishy. I’m not paying anything until I verify this with the actual police. Can you give me a contact number for the Cyber Crime Cell headquarters?
+caller: Sir, headquarters is extremely busy right now. This is a direct line to the investigation officer handling your case. Delaying will only escalate the situation. Think of it as a small price to pay to avoid serious legal trouble and ensure your WhatsApp account remains secure. Transfer the ₹15,000 now.
+receiver: No, I’m reporting this number. You're a scammer.

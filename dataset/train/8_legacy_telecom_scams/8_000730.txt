@@ -1,0 +1,12 @@
+caller: Namaste, kya haal hai? Are you the lucky recipient of the "Golden Ticket" lottery draw? This is an automated system notifying you that you’ve won a premium Samsung Galaxy S23 smartphone! Please call 876543210 immediately. Congratulations!
+receiver: Namaste! Haan, main hoon. Golden Ticket lottery? Samsung Galaxy S23 jeeta hoon? Seriously?! That’s fantastic news! I will definitely call 876543210 right away. Shukriya!
+caller: Thoda sa kaam mein jaate hain, suno! Just confirm your address – Rajeev Sharma, Sector 12, Noida. We need to verify your identity before shipping your prize.  It’s very important.
+receiver: Rajeev Sharma, Sector 12, Noida...  Okay, woh to mera address hai. But why do you need my address? Is there some kind of delivery fee?
+caller:  Nahin, nahin, koi delivery fee nahi hai.  We just want to make sure the correct prize reaches the right person.  There are only 5 units left available this week, so we need to expedite the process.
+receiver:  Five units? Only five?  Aise toh bahut kam hain.  Okay, fine, I'll call 876543210.  But what happens if I don’t answer?
+caller:  Aapko worry nahi hona chahiye, sir/madam. If you don’t answer within the next 10 minutes, another lucky winner will receive the prize.  It's first come, first served!
+receiver:  First come, first served? Okay, okay, I’m calling now.  Please hurry!  This is exciting!
+caller:  Perfect!  Now, one last thing - can you provide me with your bank account details for easy transfer of the prize money? It's completely secure, we assure you.
+receiver: Bank account details? Seriously? Why would I give you my bank details? That sounds fishy! I’m not giving you any information.
+caller:  Arey yaar, it’s just a standard procedure. We need to ensure smooth payment after you claim your prize.  Don’t worry, we take your privacy seriously.  Just provide the account number and IFSC code.
+receiver:  No way! I think I’ll hang up now.  This is getting too suspicious. Thank you anyway.

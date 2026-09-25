@@ -1,0 +1,6 @@
+caller: Namaste! Sir/Madam, speaking with Bharat Finance customer care. We’ve noticed some unusual activity on your loan application, reference number BF-78945. It requires urgent verification.
+receiver: Bharat Finance? I don't remember applying for a loan. What kind of unusual activity?
+caller: Ji, it appears someone attempted to alter your repayment schedule and requested a significantly higher loan amount than initially indicated. We need to confirm this hasn't happened. Please call us back immediately on 91-8866224455. Failure to do so might result in your application being flagged for fraudulent activity and immediate rejection.
+receiver: Wait a minute. Alter my repayment schedule? I haven't even been approved for a loan yet. This sounds very suspicious. Can you tell me the exact details of this alleged alteration?
+caller: Sir/Madam, for security reasons, we cannot disclose those specifics over an open line. It’s standard procedure to verify this directly with the applicant. Think of it as protecting your financial security. Just a quick call, 5 minutes max, and we’ll sort it out. If you delay, we may have to escalate to the legal department.
+receiver: Legal department? Over a loan I never even got? This is ridiculous. I'm not calling that number. You’re clearly trying to scam me. I’m reporting this.

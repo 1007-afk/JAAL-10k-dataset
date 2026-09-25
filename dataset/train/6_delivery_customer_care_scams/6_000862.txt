@@ -1,0 +1,7 @@
+caller: Namaste, sir? My name is Rohan from BlueDart Courier. We have a package addressed to you, but there's a small issue with the delivery. It requires a quick verification.
+receiver: Haan, bolie. I was expecting a delivery. What's the problem?
+caller: Sir, according to our system, there's an outstanding customs fee of ₹2800 attached to your package. It seems there was an error in the initial declaration. We need to confirm this payment to release the parcel.
+receiver: ₹2800? I didn't know about any customs fee. What is the package even? And why wasn’t I informed earlier?
+caller: Sir, the package contains electronics. It’s standard procedure now for high-value items. To clear the payment quickly, we can take it through a secure OTP verification. Can you share the OTP you just received on your phone?
+receiver: OTP? Wait a minute. I haven’t received any OTP. This sounds fishy. I’m not giving you anything. I’ll contact BlueDart directly to confirm.
+caller: Sir, please don’t delay. This is to prevent your package from being returned to the sender. I can give you our official BlueDart helpline number to call, but we need to clear this quickly. Otherwise, the package will be delayed indefinitely.
