@@ -271,5 +271,16 @@ Human validation covered 968 synthetic conversations (~10%) and the 77 external 
 
 ---
 
+ ## Video ID Extraction and Source Provenance
+
+  Each file in the YouTube set retains its official 11-character YouTube video ID directly within its filename, encoded after a double underscore separator:
+
+  `[scam_topic]__[VIDEO_ID].txt`
+  *(e.g., `bank_impersonation__0lZwAXgaFu4.txt` -> Video ID: `0lZwAXgaFu4`)*
+
+  To access or verify the original source video, extract the trailing 11-character identifier and append it to the standard YouTube URL:
+
+  https://www.youtube.com/watch?v=<VIDEO_ID>
+
 
 
